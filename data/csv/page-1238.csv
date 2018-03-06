@@ -1,0 +1,25 @@
+0,2014-10-06 11:51:48 -0500,['/t/ruby'],"Building Twilio Apps on Rails: Security, MMS and Delivery Receipts",https://www.twilio.com/blog/2014/10/twilio-on-rails-part-2-rails-4-app-sending-sms-mms.html,/u/crtr,6
+0,2014-10-06 15:31:15 -0500,"['/t/culture', '/t/web']","Megadeth, Arizona",https://medium.com/cuepoint/what-the-hell-was-megadeth-arizona-3519a751149d,/u/calvin,7
+0,2014-10-06 11:46:59 -0500,['/t/distributed'],History of Apache Storm and lessons learned,http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html,/u/jeremy,4
+0,2014-10-06 13:46:45 -0500,['/t/web'],Sublime Text Power User book + video package,http://SublimeTextBook.com,/u/wesbos,2
+0,2014-10-06 08:16:57 -0500,"['/t/programming', '/t/release']",Building packages at scale,http://www.perkin.org.uk/posts/building-packages-at-scale.html,/u/sevan,4
+2,2014-10-06 09:47:00 -0500,"['/t/android', '/t/ios']",Android vs. iOS App Robustness on Different Chipsets,http://testdroid.com/testdroid/8216/android-vs-ios-app-robustness-on-different-chipsets,/u/vvh,1
+0,2014-10-06 01:13:30 -0500,"['/t/lisp', '/t/programming']",Little scheme interpreter in QBasic,https://www.ma.utexas.edu/users/dmenezes/lisp.html,/u/zem,4
+0,2014-10-06 09:09:54 -0500,"['/t/pdf', '/t/math']",Does New York City really have as many rats as people?,https://onlinelibrarystatic.wiley.com/store/10.1111/j.1740-9713.2014.00764.x/asset/sign764.pdf?v=1&t=i0xw943b&s=2b66c9c3de39057d338a412ba4f6bd320e7b74d7,/u/pushcx,1
+0,2014-10-06 07:01:53 -0500,"['/t/dotnet', '/t/javascript']",Grunt and Uglify Your WebForms with Task Runner Explorer,http://developer.telerik.com/featured/grunt-uglify-webforms-task-runner-explorer/,/u/remotesynth,1
+0,2014-10-05 13:40:43 -0500,"['/t/haskell', '/t/programming']","Haskell types, tests, and fast feedback",http://looprecur.com/blog/haskell-types-tests-and-fast-feedback/,/u/bitemyapp,9
+1,2014-10-05 04:59:13 -0500,['/t/math'],Why do roots of polynomials tend to have absolute value 1?,http://mathoverflow.net/questions/182412/why-do-roots-of-polynomials-tend-to-have-absolute-value-1,/u/RiderOfGiraffes,11
+0,2014-10-05 13:02:47 -0500,['/t/go'],Using // +build to switch between debug and release builds,http://dave.cheney.net/2014/09/28/using-build-to-switch-between-debug-and-release,/u/journeysquid,2
+0,2014-10-05 13:01:55 -0500,"['/t/slides', '/t/programming']",Concurrent Programming using the Disruptor,http://www.slideshare.net/trishagee/introduction-to-the-disruptor?from=new_upload_email#btnNext,/u/SeanTAllen,2
+0,2014-10-05 16:18:36 -0500,"['/t/culture', '/t/event']",Startup Istanbul Review,http://www.convalesco.org/blog/2014/10/05/startup-istanbul-review/,/u/atmosx,1
+0,2014-10-05 10:44:21 -0500,"['/t/javascript', '/t/programming']",ECMAScript 6 promises (2/2): the API,http://www.2ality.com/2014/10/es6-promises-api.html,/u/kolodny,1
+0,2014-10-05 09:32:16 -0500,"['/t/slides', '/t/databases', '/t/go']",A survey of the current state of Golang ORMs [Jan 2014],http://present.go-steel-programmers.org/talk-review-orms/gsp-go-orms.slide#1,/u/jcs,1
+0,2014-10-04 09:41:58 -0500,"['/t/haskell', '/t/programming', '/t/ruby']","Haskell, Monads and Purity",http://jelv.is/blog/Haskell-Monads-and-Purity/,/u/crtr,17
+0,2014-10-04 21:50:18 -0500,['/t/math'],Two birds and a liar's game,https://thatgeoguy.ca/blog/2014/10/04/two-birds-and-a-liars-game/,/u/pushcx,3
+1,2014-10-04 17:12:30 -0500,"['/t/video', '/t/visualization']",Taiga.io Visualizing the sudden traffic surge to our servers caused by Hacker News,https://www.youtube.com/watch?v=J39QjecJ-uQ&feature=youtu.be,/u/zem,4
+0,2014-10-03 20:31:15 -0500,"['/t/video', '/t/programming', '/t/ruby']",Refactoring Ruby with Monads,https://www.youtube.com/watch?v=uTR__8RvgvM,/u/PuercoPop,16
+0,2014-10-03 18:29:45 -0500,['/t/programming'],Parsing HTTP faster than C with 54 lines of code,http://www.serpentine.com/blog/2014/05/31/attoparsec/,/u/bitemyapp,13
+0,2014-10-04 05:33:19 -0500,"['/t/hardware', '/t/netbsd', '/t/unix']",NetBSD on the Raspberry Pi,http://www.cambus.net/netbsd-on-the-raspberry-pi/,/u/fcambus,2
+0,2014-10-03 18:12:29 -0500,"['/t/programming', '/t/ruby']",Refactoring Ruby with Monads,http://codon.com/refactoring-ruby-with-monads,/u/pushcx,7
+13,2014-10-03 10:11:00 -0500,['/t/databases'],Fast Updates : Coming Soon in TokuMX v2.0 | Tokutek,http://www.tokutek.com/2014/09/fast-updates-coming-soon-tokumx-v2-0/,/u/leif,7
+0,2014-10-03 15:14:10 -0500,['/t/c'],Modernized <time.h> API for ISO C,http://www.cl.cam.ac.uk/~mgk25/time/c/,/u/friendlysock,7

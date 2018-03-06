@@ -1,0 +1,25 @@
+1,2017-01-04 22:05:12 -0600,"['/t/compsci', '/t/javascript', '/t/math', '/t/programming']",Fun with Lambda Calculus in JS,https://github.com/gtramontina/lambda,/u/gtramontina,5
+0,2017-01-05 08:30:40 -0600,['/t/programming'],Rethinking Our Development Pipeline,http://blog.runnable.com/post/155416472416/rethinking-our-development-pipeline,/u/sundip,1
+2,2017-01-04 18:05:03 -0600,['/t/release'],deadpixi/sam - An updated version of the sam text editor.,https://github.com/deadpixi/sam,/u/sevan,12
+0,2017-01-05 09:27:47 -0600,"['/t/person', '/t/programming']","In Computer Languages, Clarity Is Key",https://paw.princeton.edu/article/computer-languages-clarity-key,/u/calvin,2
+1,2017-01-05 08:31:07 -0600,['/t/web'],structure.exposed - Tool to view a site's 'skeleton' by removing all styling,https://structure.exposed/,/u/flyingfisch,1
+0,2017-01-05 12:18:51 -0600,"['/t/video', '/t/art', '/t/lisp']",Our Shared Joy of Programming (2014),https://www.youtube.com/watch?v=3_zW63dcZB0,/u/NinjaTrappeur,1
+0,2017-01-05 08:24:48 -0600,['/t/css'],CSS Writing Modes,https://24ways.org/2016/css-writing-modes/,/u/flyingfisch,2
+0,2017-01-04 15:29:42 -0600,['/t/compsci'],Graph Isomorphism update,http://people.cs.uchicago.edu/~laci/update.html,/u/akalin,15
+0,2017-01-05 16:50:37 -0600,"['/t/audio', '/t/culture', '/t/science']",Spacepod: A space podcast,https://www.listentospacepod.com/,/u/weakforce,1
+0,2017-01-05 06:24:54 -0600,"['/t/hardware', '/t/linux', '/t/mobile']",My WATCH runs GNU/Linux And It Is Amazing,https://learntemail.sam.today/blog/my-watch-runs-gnu-linux-and-it-is-amazing/,/u/calvin,2
+0,2017-01-05 08:48:40 -0600,['/t/web'],Front-End Developers Are Information Architects Too,https://24ways.org/2016/front-end-developers-are-information-architects-too,/u/flyingfisch,1
+0,2017-01-05 08:27:53 -0600,"['/t/practices', '/t/web']",Improving The UX Of Names With Vocalizer.js,https://www.smashingmagazine.com/2016/12/improving-ux-names-vocalizer-js/,/u/flyingfisch,1
+0,2017-01-05 08:22:45 -0600,['/t/css'],Intent to implement and ship: CSS display:flow-root,https://groups.google.com/d/msg/mozilla.dev.platform/bG9Kpgr5LC4/GW4qQnD8EAAJ,/u/flyingfisch,1
+0,2017-01-05 01:41:43 -0600,['/t/practices'],Rules of programming experiments - Julia Evans,https://jvns.ca/blog/2017/01/04/rules-of-programming-experiments/,/u/NinjaTrappeur,3
+27,2017-01-03 15:39:46 -0600,['/t/meta'],Invitation pledge-drive,/s/kmj9w9/invitation_pledge_drive,/u/jcs,68
+0,2017-01-04 18:15:11 -0600,['/t/practices'],"Highlights on ""quality,"" and Deming's work as it applies to software development",http://apenwarr.ca/log/?m=201612#26,/u/felixc,7
+2,2017-01-04 18:28:53 -0600,"['/t/databases', '/t/ruby']",Common Rails Idioms that Kill Database Performance,http://blog.honeybadger.io/common-rails-idioms-that-kill-database-performance/,/u/craigkerstiens,3
+1,2017-01-04 10:00:11 -0600,['/t/go'],A Virtual Brainfuck Machine In Go,https://thorstenball.com/blog/2017/01/04/a-virtual-brainfuck-machine-in-go/,/u/mrnugget,7
+2,2017-01-05 02:29:16 -0600,"['/t/android', '/t/practices', '/t/testing']",Continuous Integration with Android,https://medium.com/appaloosa-store-engineering/continuous-integration-with-android-14047096f3de#.4ekvemrdw,/u/hoopla,1
+2,2017-01-03 22:20:39 -0600,['/t/compsci'],My 116-page survey article on P vs. NP: better late than never,http://www.scottaaronson.com/blog/?p=3095,/u/akalin,28
+0,2017-01-05 02:23:28 -0600,"['/t/elixir', '/t/release']",Elixir v1.4,https://github.com/elixir-lang/elixir/releases/tag/v1.4.0,/u/av,2
+1,2017-01-04 13:19:44 -0600,"['/t/release', '/t/testing']",Announcing OSS-Fuzz: Continuous Fuzzing for Open Source Software,https://security.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html,/u/pushcx,8
+4,2017-01-04 09:56:05 -0600,['/t/openbsd'],openbsd changes of note 5,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-5,/u/mulander,7
+3,2017-01-04 10:11:44 -0600,['/t/go'],go garbage collector and liveness,http://www.tedunangst.com/flak/post/go-garbage-collector-and-liveness,/u/mulander,7
+10,2017-01-03 18:29:49 -0600,"['/t/assembly', '/t/c', '/t/unix']","Really, POSIX? Really? memset() isn't async-signal-safe? How is it not safe? … oh … that's why",http://boston.conman.org/2016/12/17.1,/u/pushcx,34

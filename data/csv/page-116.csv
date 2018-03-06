@@ -1,0 +1,25 @@
+2,2017-11-27 20:24:01 -0600,"['/t/pdf', '/t/security']",ASLR: How Robust is the Randomness?,https://escholarship.org/content/qt17j227zv/qt17j227zv.pdf,/u/fro,4
+0,2017-11-27 13:20:13 -0600,['/t/python'],3x faster than Flask – Philip Jones,https://medium.com/@pgjones/3x-faster-than-flask-8e89bfbe8e4f,/u/pgjones,8
+2,2017-11-27 12:57:34 -0600,['/t/design'],Apps Have Command Prompts Now,https://css-tricks.com/apps-command-prompts-now/,/u/flyingfisch,10
+4,2017-11-27 15:15:14 -0600,"['/t/practices', '/t/web']","Netflix functions without client-side React, and it's a good thing",https://jakearchibald.com/2017/netflix-and-react/,/u/flyingfisch,7
+9,2017-11-27 02:59:58 -0600,['/t/linux'],How to create portable Linux binaries (even if you need a recent compiler),http://blog.gibson.sh/2017/11/26/creating-portable-linux-binaries/,/u/mulander,19
+0,2017-11-27 16:21:46 -0600,"['/t/hardware', '/t/security']",Potential impact of the Intel ME vulnerability,https://mjg59.dreamwidth.org/49611.html,/u/pgl,8
+0,2017-11-27 17:21:38 -0600,['/t/programming'],Haiku monthly activity report - 11/2017,https://www.haiku-os.org/blog/pulkomandy/2017-11-25_haiku_monthly_activity_report_november_2017/,/u/calvin,7
+50,2017-11-27 00:12:19 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/jkmwer/what_are_you_working_on_this_week,/u/kzisme,19
+0,2017-11-27 17:28:10 -0600,"['/t/programming', '/t/rust']",Abstracting Over Mutability In Rust Macros,https://lab.whitequark.org/notes/2017-01-16/abstracting-over-mutability-in-rust-macros/,/u/seako,5
+2,2017-11-27 10:14:10 -0600,['/t/devops'],Example of how learning to operate kubernetes well in production is really hard,https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95,/u/unbalancedparentheses,7
+0,2017-11-27 17:22:23 -0600,"['/t/pdf', '/t/security']",LAZARUS: Practical Side-channel Resilient Kernel-Space Randomization,http://jin.ece.ufl.edu/papers/RAID17.pdf,/u/fro,3
+6,2017-11-27 11:37:03 -0600,"['/t/ask', '/t/compilers', '/t/compsci']",Is it possible to have useful functional types in a purely nominative type system?,/s/ehqip0/is_it_possible_have_useful_functional,/u/lorddimwit,2
+0,2017-11-28 01:25:54 -0600,"['/t/video', '/t/compsci']",Simon Peyton Jones - Getting from A to B - Fast route finding on slow computers,https://www.youtube.com/watch?v=L1XDdy-hOH8,/u/ptek,1
+0,2017-11-27 06:49:49 -0600,"['/t/android', '/t/ios', '/t/mobile', '/t/privacy', '/t/security']",Researchers craft Android app that reveals menagerie of hidden spyware; legally barred from doing the same with iOS,https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html,/u/pgl,12
+0,2017-11-27 17:47:19 -0600,"['/t/linux', '/t/security', '/t/virtualization']",Qubes OS 4.0-rc3 has been released,https://www.qubes-os.org/news/2017/11/27/qubes-40-rc3/,/u/seff,3
+47,2017-11-26 10:47:41 -0600,"['/t/ask', '/t/formalmethods']",Your thoughts on this advice to those pursuing formal methods?,/s/n7v658/your_thoughts_on_this_advice_those,/u/nickpsecurity,26
+38,2017-11-26 14:40:23 -0600,"['/t/education', '/t/programming']",Advice From A 19 Year Old Girl & Software Developer,https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5,/u/quobit,30
+0,2017-11-27 05:51:08 -0600,['/t/security'],CVE-2017-16943 - Exim use-after-free vulnerability while reading mail header,https://bugs.exim.org/show_bug.cgi?id=2199,/u/mulander,11
+0,2017-11-27 13:03:28 -0600,"['/t/databases', '/t/performance', '/t/scaling']",Analyzing the Performance of Millions of SQL Queries When Each One is a Special Snowflake,https://heap.engineering/analyzing-performance-millions-sql-queries-one-special-snowflake/,/u/malisper,2
+0,2017-11-27 14:43:50 -0600,"['/t/dotnet', '/t/ml']",FSharp Weekly #48 - Domain Modeling Made Functional,https://sergeytihon.com/2017/11/25/f-weekly-48-domain-modeling-made-functional/,/u/voronoipotato,3
+0,2017-11-27 09:21:45 -0600,"['/t/education', '/t/programming', '/t/python']",norvig/pytudes - Python programs for perfecting programming skills,https://github.com/norvig/pytudes,/u/quobit,6
+0,2017-11-27 17:25:15 -0600,"['/t/pdf', '/t/security']",HA2lloc: Hardware-Assisted Secure Allocator,http://jin.ece.ufl.edu/papers/HASP17.pdf,/u/fro,2
+0,2017-11-27 16:31:37 -0600,"['/t/browsers', '/t/javascript', '/t/web']",WebAssembly Will Finally Let You Run High-Performance Applications in Your Browser,https://spectrum.ieee.org/computing/software/webassembly-will-finally-let-you-run-highperformance-applications-in-your-browser,/u/jeremiahlee,2
+0,2017-11-27 04:00:29 -0600,"['/t/audio', '/t/rust']",The Manifest - Episode 8: Cargo and Crates.io with Carol (Nichols || Goulding),http://manifest.fm/8,/u/andrewnez,4
+0,2017-11-26 16:41:23 -0600,['/t/cryptocurrencies'],"The World Food Programme’s much-publicised “blockchain” has one participant — i.e., it’s a database",https://davidgerard.co.uk/blockchain/2017/11/26/the-world-food-programmes-much-publicised-blockchain-has-one-participant-i-e-its-a-database/,/u/David_Gerard,15

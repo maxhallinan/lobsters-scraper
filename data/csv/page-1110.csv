@@ -1,0 +1,25 @@
+0,2015-05-06 12:55:11 -0500,"['/t/cryptocurrencies', '/t/culture', '/t/finance']",Group Currency = Cryptocurrency + Basic Income,http://groupcurrency.org,/u/itistoday,4
+0,2015-05-06 06:39:13 -0500,"['/t/browsers', '/t/security', '/t/web']",Chrome Health: The Art & Science of Software Security,https://docs.google.com/presentation/d/1jZTnOCeQBepSagAK1gjXFlMnElHYNWEDqXiVvpxpNQk/edit?usp=sharing,/u/fcbsd,3
+0,2015-05-06 11:05:39 -0500,"['/t/devops', '/t/haskell', '/t/virtualization']",Haskell Web Server in a 5MB Docker Image,https://learning-site-ci.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb,/u/dysinger,1
+0,2015-05-05 20:33:48 -0500,"['/t/slides', '/t/devops', '/t/erlang']","Look ma, no OS! Deploying an Erlang/OTP application as a LING unikernel in EC2",http://slides.com/technolo-g/intro-to-unikernels-and-erlang-on-xen-ling-demo,/u/pushcx,8
+0,2015-05-06 02:24:22 -0500,['/t/devops'],Deploying web apps with Mina and Docker,https://medium.com/@guiman/deploying-web-apps-with-mina-and-docker-c840193eb4be,/u/szalansky,3
+8,2015-05-05 11:09:20 -0500,['/t/culture'],Death of a Programmer,http://hello-world.io/death-of-a-programmer-life-of-a-farmer/,/u/mediremi,24
+5,2015-05-06 14:19:22 -0500,"['/t/culture', '/t/programming']","I would have hired Doug, but...",http://liveblog.co/users/davewiner/2015/05/06/iWouldHaveHiredDougBut.html,/u/mrfabbri,3
+0,2015-05-05 10:23:35 -0500,['/t/hardware'],Revisiting the Intel 432 (2008/1988),http://dtrace.org/blogs/bmc/2008/07/18/revisiting-the-intel-432/,/u/pushcx,11
+0,2015-05-05 08:38:13 -0500,['/t/distributed'],LogCabin 1.0 released,https://sourcegraph.com/blog/118135010314,/u/iconara,13
+0,2015-05-06 02:10:25 -0500,['/t/web'],Getting the raw body of HTTP Posts,http://blog.superfeedr.com/http-raw-body/,/u/julien,1
+0,2015-05-05 13:46:11 -0500,['/t/security'],Delegation is the Cornerstone of Civilization: Sharing in Sandstorm.io,https://blog.sandstorm.io/news/2015-05-05-delegation-is-the-cornerstone-of-civilization.html,/u/kyle,6
+0,2015-05-05 18:27:41 -0500,['/t/practices'],Product Development is a Trust Fall,http://bravenewgeek.com/product-development-is-a-trust-fall/,/u/tylertreat,3
+10,2015-05-04 19:42:22 -0500,"['/t/show', '/t/go']",A Unix-y utility for formatting JSON in a more pipe-friendly way,https://github.com/AndrewGuenther/jsonf,/u/andrewguenther,21
+0,2015-05-05 12:30:49 -0500,"['/t/book', '/t/haskell']",The Haskell School of Music — From Signals to Symphonies,http://haskell.cs.yale.edu/?post_type=publication&p=112,/u/pushcx,6
+0,2015-05-06 11:39:01 -0500,['/t/culture'],Actually MVP,https://blog.engineyard.com/2015/actually-mvp,/u/fluxusfrequency,0
+27,2015-05-04 15:47:02 -0500,['/t/ask'],What are you working on this weeK?,/s/2tokor/what_are_you_working_on_this_week,/u/JordiGH,22
+5,2015-05-05 09:02:16 -0500,['/t/meta'],"""Thanks"" flag?",/s/4z8wrz/thanks_flag,/u/kghose,12
+10,2015-05-05 02:05:36 -0500,"['/t/book', '/t/c']",C++ Today: The Beast is Back,https://www.jetbrains.com/cpp-today-oreilly/,/u/Mordo,5
+2,2015-05-04 17:08:40 -0500,['/t/distributed'],Call me maybe: Elasticsearch 1.5.0,https://aphyr.com/posts/323-call-me-maybe-elasticsearch-1-5-0,/u/tylertreat,26
+2,2015-05-04 17:34:56 -0500,"['/t/pdf', '/t/distributed']",Notes on Theory of Distributed Systems,http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf,/u/julienXX,13
+6,2015-05-04 07:18:03 -0500,['/t/programming'],Nim binary size from 160 KB to 150 Bytes,http://hookrace.net/blog/nim-binary-size/,/u/def-,16
+0,2015-05-05 00:36:45 -0500,"['/t/linux', '/t/security']",Encrypt Your External Device,http://wikimatze.de/encrypt-your-external-device/,/u/wikimatze,3
+2,2015-05-04 16:40:46 -0500,['/t/rust'],Abomonation: terrifying serialization,http://www.frankmcsherry.org/serialization/2015/05/04/unsafe-at-any-speed.html,/u/passy,6
+2,2015-05-04 17:39:51 -0500,"['/t/show', '/t/go']",sorts - parallel radix- and quicksorts for Go,https://github.com/twotwotwo/sorts,/u/twotwotwo,6
+4,2015-05-04 07:51:25 -0500,['/t/go'],"gb, a new dependency management and build tool for golang",https://walledcity.com/supermighty/building-go-projects-with-gb,/u/UkiahSmith,13

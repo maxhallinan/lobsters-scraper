@@ -1,0 +1,25 @@
+2,2018-01-17 20:33:01 -0600,"['/t/compsci', '/t/performance']",Ridiculously fast base64 encoding and decoding,https://lemire.me/blog/2018/01/17/ridiculously-fast-base64-encoding-and-decoding/,/u/calvin,9
+1,2018-01-17 15:32:18 -0600,"['/t/elixir', '/t/release']",Elixir v1.6 released,https://elixir-lang.org/blog/2018/01/17/elixir-v1-6-0-released/,/u/talklittle,15
+0,2018-01-17 18:30:39 -0600,"['/t/compsci', '/t/haskell', '/t/programming', '/t/visualization']",Flux - Visualizing Haskell Programs as Data-Flow Diagrams (2016),https://www.uni-ulm.de/en/in/pm/research/projects/flux/,/u/nickpsecurity,8
+44,2018-01-16 19:29:55 -0600,"['/t/api', '/t/c', '/t/linux']",/proc/<pid>/stat is broken,/s/fjyy12/proc_pid_stat_is_broken,/u/cbdev,26
+2,2018-01-17 10:14:27 -0600,"['/t/clojure', '/t/java', '/t/programming']","Interactive GPU Programming, Part 1: Hello CUDA",http://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA,/u/dragandj,7
+2,2018-01-17 07:59:25 -0600,['/t/devops'],Containers versus Operating Systems,https://dave.cheney.net/2018/01/16/containers-versus-operating-systems,/u/calvin,18
+0,2018-01-17 09:30:21 -0600,"['/t/design', '/t/practices']",Laws of UX,https://lawsofux.com/,/u/fcbsd,13
+5,2018-01-17 07:41:27 -0600,"['/t/video', '/t/privacy', '/t/security']",Briar: Resilient P2P Messaging for Everyone,https://media.ccc.de/v/34c3-8937-briar,/u/rodolfo,6
+25,2018-01-16 20:18:25 -0600,"['/t/event', '/t/meta']",Toward a Toronto meetup,/s/oidrn8/toward_toronto_meetup,/u/dz,19
+10,2018-01-16 18:05:31 -0600,['/t/programming'],Luna: A hybrid-visual textual functional programming language (now in beta),http://www.luna-lang.org/,/u/puffnfresh,25
+0,2018-01-17 06:55:22 -0600,['/t/programming'],You might have a streaming data problem if...,https://blog.wallaroolabs.com/2018/01/you-might-have-a-streaming-data-problem-if.../,/u/SeanTAllen,6
+23,2018-01-16 11:53:53 -0600,"['/t/formalmethods', '/t/programming']",The Three Levels of Software: Why code that never goes wrong can still be wrong,http://www.pathsensitive.com/2018/01/the-three-levels-of-software-why-code.html,/u/jkoppel,25
+1,2018-01-18 11:46:08 -0600,['/t/culture'],What you can't say (2004),http://www.paulgraham.com/say.html,/u/dpaola2,0
+0,2018-01-16 20:57:50 -0600,['/t/distributed'],"CRDTs and Distributed Consensus with Christopher Meiklejohn - Episode 14, Data Eng Podcast",https://www.dataengineeringpodcast.com/crdts-with-christopher-meiklejohn-episode-14/,/u/cmeiklejohn,17
+1,2018-01-17 12:18:56 -0600,"['/t/c++', '/t/performance']",ICC and VTune now free as part of Intel System Studio,https://software.intel.com/en-us/system-studio/choose-download,/u/mikejsavage,4
+0,2018-01-18 04:02:06 -0600,"['/t/video', '/t/culture', '/t/elm', '/t/plt']","On Storytelling, by Evan Czaplicki, at Deconstruct 2017 (20 minutes, transcript available)",https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling,/u/Sietsebb,1
+0,2018-01-17 10:15:27 -0600,"['/t/c', '/t/c++', '/t/clojure', '/t/java', '/t/programming']","Neanderthal and friends support CUDA 9, Java 9, and Clojure 1.9",http://dragan.rocks/articles/18/Neanderthal-018-CUDA9-Java9-Clojure19-update,/u/dragandj,3
+0,2018-01-17 10:16:52 -0600,"['/t/audio', '/t/math']",The sound of space-filling curves,http://www.win.tue.nl/~hermanh/doku.php?id=sound_of_space-filling_curves,/u/pushcx,6
+2,2018-01-17 10:10:57 -0600,['/t/practices'],The Stress of Remote Working,https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da,/u/soulcutter,4
+3,2018-01-17 04:36:20 -0600,['/t/performance'],Be Engineering Insights: Benaphores [1996],https://www.haiku-os.org/legacy-docs/benewsletter/Issue1-26.html,/u/mikejsavage,7
+0,2018-01-17 08:32:42 -0600,"['/t/compilers', '/t/formalmethods']",Some Goals for High-impact Verified Compiler Research,https://blog.regehr.org/archives/1565,/u/hyperpape,6
+0,2018-01-17 13:14:46 -0600,"['/t/javascript', '/t/release']",Announcing TypeScript 2.7 RC,https://blogs.msdn.microsoft.com/typescript/2018/01/17/announcing-typescript-2-7-rc/,/u/joshuacc,3
+8,2018-01-16 11:07:35 -0600,['/t/rust'],What’s Tokio and Async IO All About?,http://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/,/u/Manishearth,41
+0,2018-01-17 14:24:27 -0600,"['/t/pdf', '/t/ai', '/t/graphics']",Adversarial Patch,https://arxiv.org/pdf/1712.09665.pdf,/u/pushcx,2
+0,2018-01-17 10:57:24 -0600,"['/t/crypto', '/t/security', '/t/web']",How I exploited ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting,https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/,/u/juef,3

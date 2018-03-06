@@ -1,0 +1,25 @@
+0,2016-08-06 14:51:59 -0500,['/t/linux'],Notifications about any device being plugged or unplugged,http://dmitryfrank.com/projects/my-udev-notify,/u/dimonomid,5
+1,2016-08-06 17:17:52 -0500,"['/t/hardware', '/t/linux', '/t/reversing']",System N2 Exposed,https://medium.com/@dropkickshell/system-n2-exposed-5395436c824d,/u/calvin,6
+2,2016-08-06 06:25:56 -0500,['/t/web'],Why we moved from Amazon Web Services to Google Cloud Platform?,https://lugassy.net/why-we-moved-from-amazon-web-services-to-google-cloud-platform-726c412fd667,/u/av,12
+5,2016-08-06 02:31:41 -0500,"['/t/law', '/t/security']",How to Hack an Election in 7 Minutes,http://www.politico.com/magazine/story/2016/08/2016-elections-russia-hack-how-to-hack-an-election-in-seven-minutes-214144,/u/evhan,12
+3,2016-08-06 06:31:37 -0500,['/t/programming'],How I Develop Things and Why [2013],http://www.kennethreitz.org/essays/how-i-develop-things-and-why,/u/av,6
+0,2016-08-06 06:49:17 -0500,"['/t/python', '/t/web']",Things You Must Know About Django Admin As Your App Gets Bigger,https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614,/u/av,9
+1,2016-08-05 20:01:29 -0500,"['/t/c', '/t/vim']",Vis - vim-like text editor,https://github.com/martanne/vis/,/u/pyk,23
+0,2016-08-06 09:33:18 -0500,"['/t/games', '/t/openbsd']",OpenBSD Gaming Resource,http://satterly.neocities.org/openbsd_games.html,/u/mulander,6
+1,2016-08-05 13:46:27 -0500,['/t/networking'],Forget Comcast. Here’s The DIY Approach to Internet Access,https://backchannel.com/forget-comcast-heres-the-diy-approach-to-internet-access-ef1e37bc09e1,/u/mulander,30
+0,2016-08-06 09:49:19 -0500,['/t/openbsd'],Here fishy fishy fishy…,https://blog.thiedeke.com.au/index.php/2016/08/06/here-fishy-fishy-fishy/,/u/mulander,3
+8,2016-08-05 16:46:18 -0500,"['/t/pdf', '/t/networking', '/t/security']",HTTP/2: In-depth analysis of the top four flaws of the next generation web protocol,http://www.imperva.com/docs/Imperva_HII_HTTP2.pdf,/u/kel,10
+14,2016-08-05 12:32:55 -0500,"['/t/historical', '/t/unix']",An Updated Version of sam,http://www.deadpixi.com/an-updated-version-of-sam,/u/vfoley,16
+6,2016-08-05 09:03:33 -0500,"['/t/pdf', '/t/math']",Elements of Basic Category Theory,http://www.inf.pucrs.br/~alfio/TReports/catti.pdf,/u/julienXX,22
+1,2016-08-05 14:07:31 -0500,['/t/api'],Specify Your API,http://blog.drewolson.org/specify-your-api/,/u/kGb8RNFtg6,9
+9,2016-08-05 15:41:24 -0500,"['/t/databases', '/t/games', '/t/practices']",Storing Pokémon without SQL,https://eev.ee/blog/2016/08/05/storing-pok%C3%A9mon-without-sql/,/u/calvin,7
+2,2016-08-05 10:54:37 -0500,"['/t/compsci', '/t/practices', '/t/programming']",Project delays: why good software estimates are impossible,http://chrismm.com/blog/project-delays-why-software-estimates/,/u/innerspirit,8
+2,2016-08-05 15:49:53 -0500,"['/t/crypto', '/t/practices']",random failures,http://www.tedunangst.com/flak/post/random-failures,/u/calvin,10
+2,2016-08-05 07:08:21 -0500,"['/t/api', '/t/databases']","hitchhiker-tree: B+ tree, append-only log and functional persistent datastructure three in one",https://github.com/datacrypt-project/hitchhiker-tree/blob/master/doc/hitchhiker.adoc,/u/edwardw,19
+7,2016-08-05 05:17:15 -0500,"['/t/c', '/t/programming']",Clockwise/Spiral Rule (1994),http://c-faq.com/decl/spiral.anderson.html,/u/mjturner,12
+3,2016-08-05 06:42:12 -0500,['/t/release'],Timewarrior Beta Release,https://taskwarrior.org/news/news.20160725.html,/u/geier,14
+40,2016-08-05 03:22:40 -0500,['/t/programming'],null is not the issue,https://www.clever-cloud.com/blog/engineering/2016/07/21/null-is-not-the-issue/,/u/urcadox,13
+0,2016-08-05 14:47:39 -0500,"['/t/databases', '/t/python']",1M rows/s from Postgres to Python,http://magic.io/blog/asyncpg-1m-rows-from-postgres-to-python/,/u/xcombelle,7
+3,2016-08-05 04:37:28 -0500,"['/t/debugging', '/t/testing']",Notes on concurrency bugs,http://danluu.com/concurrency-bugs/,/u/DRMacIver,15
+0,2016-08-05 19:19:34 -0500,"['/t/book', '/t/go', '/t/web']",webapp-with-golang-anti-textbook,https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/,/u/dwc,2
+0,2016-08-05 10:52:54 -0500,"['/t/programming', '/t/ruby']",Debugging stuck Ruby processes,http://www.mikeperham.com/2016/08/05/debugging-stuck-ruby-processes/,/u/mperham,3

@@ -1,0 +1,25 @@
+1,2017-07-04 07:55:04 -0500,"['/t/formalmethods', '/t/haskell', '/t/programming']",Cleanroom Haskell Notes,http://infohost.nmt.edu/~shipman/soft/cleanhaskell/web/index.html,/u/nickpsecurity,6
+1,2017-07-04 09:14:55 -0500,['/t/distributed'],Microservices: Real Architectural Patterns,https://medium.com/@skamille/microservices-real-architectural-patterns-68bd83bbb6cd,/u/pushcx,4
+1,2017-07-04 02:46:24 -0500,['/t/javascript'],TypeScript 2.3: Downlevel Iteration for ES3/ES5,https://blog.mariusschulz.com/2017/06/30/typescript-2-3-downlevel-iteration-for-es3-es5,/u/mariusschulz,4
+13,2017-07-03 16:53:05 -0500,"['/t/law', '/t/privacy']","Facebook can track your browsing even after you've logged out, judge says",https://www.theguardian.com/technology/2017/jul/03/facebook-track-browsing-history-california-lawsuit,/u/friendlysock,15
+16,2017-07-03 07:27:26 -0500,"['/t/crypto', '/t/release', '/t/security', '/t/vcs']",Apache Subversion is unable to store SHA1 collisions,http://subversion.apache.org/security/sha1-advisory.txt,/u/stsp,16
+0,2017-07-04 10:58:44 -0500,"['/t/javascript', '/t/nodejs', '/t/programming']",Launching Production Node Apps With PM2,https://www.dailydrip.com/blog/launching-production-node-apps-with-pm2.html,/u/franzunix,2
+7,2017-07-03 13:04:00 -0500,"['/t/linux', '/t/security', '/t/systemd']",CVE-2017-9445: Out-of-bounds write in systemd-resolved with crafted TCP payload,http://openwall.com/lists/oss-security/2017/06/27/8,/u/FRIGN,17
+0,2017-07-04 08:07:54 -0500,"['/t/linux', '/t/release']",GNU Linux-libre 4.12-gnu is now available,https://lists.gnu.org/archive/html/info-gnu/2017-07/msg00001.html,/u/pizzaiolo,3
+1,2017-07-03 12:49:16 -0500,"['/t/elm', '/t/haskell']",miso - an Elm-alike written in Haskell,https://github.com/dmjio/miso,/u/quad,25
+13,2017-07-03 06:07:27 -0500,['/t/practices'],Five Reasons Why You Should Hire an Old Programmer,https://joshondesign.com/2017/07/02/hire_old_programmer,/u/calvin,23
+3,2017-07-03 10:21:03 -0500,['/t/vim'],Current treats & future wants of Neovim,https://bluz71.github.io/2017/06/28/current-treats-future-wants-of-neovim.html,/u/pushcx,23
+0,2017-07-04 04:59:42 -0500,"['/t/javascript', '/t/web']",Experimenting with the background fetch API,https://philna.sh/blog/2017/07/04/experimenting-with-the-background-fetch-api/,/u/philnash,1
+0,2017-07-04 05:48:18 -0500,"['/t/pdf', '/t/graphics']",Banding in games,http://loopit.dk/banding_in_games.pdf,/u/mikejsavage,2
+0,2017-07-04 02:10:43 -0500,"['/t/culture', '/t/linux']",Distributions are becoming irrelevant: difference was our strength and our liability,https://blog.flameeyes.eu/2017/06/distributions-becoming-irrelevant/,/u/Quintus,6
+0,2017-07-03 15:09:53 -0500,"['/t/games', '/t/graphics', '/t/historical', '/t/practices', '/t/programming']",Game Development and Application Development Best Practices - Not As Different As You Might Think,http://benlakey.com/2017/07/03/game-development-not-as-different/,/u/benlakey,6
+9,2017-07-03 02:24:11 -0500,"['/t/debugging', '/t/programming', '/t/unix']",OSH Runs Real Shell Programs,http://www.oilshell.org/blog/2017/07/02.html,/u/andyc,15
+27,2017-07-03 05:44:55 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/8hcolp/what_are_you_working_on_this_week,/u/fcbsd,14
+6,2017-07-03 13:23:37 -0500,"['/t/c++', '/t/windows']",Modular windows.h,https://github.com/Leandros/WindowsHModular,/u/mikejsavage,6
+32,2017-07-02 20:33:35 -0500,"['/t/linux', '/t/systemd']","Giving perspective on systemd's ""usernames that start with digit get root privileges""-bug",https://ma.ttias.be/giving-perspective-systemds-usernames-start-digit-get-root-privileges-bug/,/u/lukas,32
+2,2017-07-03 07:57:34 -0500,"['/t/debugging', '/t/hardware', '/t/programming']",Gagallium : How I found a bug in Intel Skylake processors,http://gallium.inria.fr/blog/intel-skylake-bug/,/u/gasche,15
+12,2017-07-03 13:54:51 -0500,"['/t/nodejs', '/t/security', '/t/web']",Social Fixer malware campaign uses NPM to inject code into webpages,https://numin.it/b/17.6/social-fixer-malware,/u/friendlysock,4
+0,2017-07-03 21:24:38 -0500,['/t/java'],The road to Java 9: Modular Java finally gets OK'd,http://www.infoworld.com/article/3203931/java/the-road-to-java-9-modular-java-finally-gets-okd.html,/u/calvin,3
+1,2017-07-03 03:05:01 -0500,"['/t/freebsd', '/t/rust']",johalun/echo: FreeBSD kernel module in Rust,https://github.com/johalun/echo,/u/seschwar,23
+1,2017-07-03 02:36:14 -0500,"['/t/openbsd', '/t/satire']",'systemd compat for doas' - MARC,https://marc.info/?l=openbsd-tech&m=149902196520920&w=2,/u/friendlysock,46
+1,2017-07-03 03:43:58 -0500,"['/t/c', '/t/hardware']",Rolling Shutter Simulation in C,http://nullprogram.com/blog/2017/07/02/,/u/mulander,19

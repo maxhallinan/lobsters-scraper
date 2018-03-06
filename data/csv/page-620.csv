@@ -1,0 +1,25 @@
+2,2016-10-26 09:12:15 -0500,"['/t/freebsd', '/t/linux', '/t/virtualization']",Dropping Linux and KVM in Favor of FreeBSD and Jails (2015),http://www.jasonvanpatten.com/2015/12/04/dropping-linux-and-kvm-in-favor-of-freebsd-and-jails/,/u/mjturner,5
+0,2016-10-26 15:31:12 -0500,"['/t/practices', '/t/web']",Gaining understanding of the browsers people use,https://gdstechnology.blog.gov.uk/2016/10/21/gaining-understanding-of-the-browsers-people-use/,/u/flyingfisch,3
+17,2016-10-26 02:20:38 -0500,"['/t/ask', '/t/hardware']",What is the oldest (retro) machine that you still use in production?,/s/xb9lqd/what_is_oldest_retro_machine_you_still_use,/u/carlesfe,7
+1,2016-10-26 12:55:50 -0500,['/t/css'],What is the difference between CSS variables and preprocessor variables?,https://css-tricks.com/difference-between-types-of-css-variables/,/u/flyingfisch,2
+0,2016-10-26 16:04:58 -0500,"['/t/compsci', '/t/java', '/t/programming']","The ""Double-Checked Locking is Broken"" Declaration",https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html,/u/goncalo,2
+0,2016-10-26 15:31:05 -0500,['/t/hardware'],Make a Custom Membrane Keypad for Arduino,https://paulbleisch.com/2015/01/19/custom-arduino-membrane-keypad/,/u/355E3B,2
+0,2016-10-26 19:12:07 -0500,"['/t/audio', '/t/distributed']",Managed Kafka with Tom Crayford,http://softwareengineeringdaily.com/2016/10/25/managed-kafka-with-tom-crayford/,/u/apg,1
+0,2016-10-26 15:18:27 -0500,['/t/web'],It’s Game Time for the Web,https://medium.com/ben-and-dion/its-game-time-for-the-web-ca8a1ab753e0,/u/flyingfisch,2
+0,2016-10-26 12:13:57 -0500,['/t/programming'],Why does software development take so long?,https://blog.sesse.net/blog/tech/2016-10-26-09-29_why_does_software_development_take_so_long.html,/u/pushcx,3
+0,2016-10-26 06:33:49 -0500,['/t/netbsd'],"Run your own email server, part 1",http://vax.zia.io/mail_part_1.html,/u/sevan,6
+0,2016-10-26 13:36:32 -0500,"['/t/linux', '/t/security']",The DrK (De-randomizing Kernel ASLR) attack - Proof of concept,https://github.com/sslab-gatech/DrK,/u/jabberwock,2
+0,2016-10-26 13:01:15 -0500,"['/t/haskell', '/t/philosophy']",A formal moral framework coded in Haskell,https://github.com/alexbecker/formal-morality,/u/bsima,2
+0,2016-10-26 16:45:03 -0500,"['/t/video', '/t/practices', '/t/security']","Why Is Usable Security Hard, and What Should We Do about it?",https://www.youtube.com/watch?v=XfFjde0UPbY,/u/sevan,1
+3,2016-10-26 02:15:18 -0500,"['/t/compsci', '/t/programming']",Whiley: A language with extended static type checking,http://whiley.org/about/overview/,/u/zem,4
+0,2016-10-26 12:08:27 -0500,['/t/javascript'],A Visual Guide to State in React,https://daveceddia.com/visual-guide-to-state-in-react/,/u/pushcx,2
+0,2016-10-26 11:57:13 -0500,"['/t/api', '/t/networking', '/t/programming']",Parsing JSON is a Minefield ?,http://seriot.ch/parsing_json.html,/u/antifuchs,2
+0,2016-10-26 15:17:35 -0500,"['/t/testing', '/t/web']",Automated browser testing for the modern web development stack,http://devexpress.github.io/testcafe/,/u/flyingfisch,1
+24,2016-10-25 13:04:40 -0500,"['/t/ask', '/t/mobile']",Best hacker's phone?,/s/ywcup7/best_hacker_s_phone,/u/nc,13
+0,2016-10-26 12:52:23 -0500,['/t/css'],Improving Perceived Performance with Multiple Background Images,http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/,/u/flyingfisch,1
+0,2016-10-26 10:32:10 -0500,['/t/python'],"Talkin’ ‘Bout Trucks, Beer, and Love in Country Songs — Analyzing Genius Lyrics",https://bigishdata.com/2016/10/25/talkin-bout-trucks-beer-and-love-in-country-songs-analyzing-genius-lyrics/,/u/av,1
+4,2016-10-25 13:16:52 -0500,['/t/swift'],The Server APIs Project - Swift.org,https://swift.org/server-apis/,/u/av,9
+0,2016-10-26 16:35:21 -0500,"['/t/graphics', '/t/hardware', '/t/ios']",A Look Inside Apple’s Custom GPU for the iPhone,http://www.realworldtech.com/apple-custom-gpu/,/u/calvin,0
+0,2016-10-26 05:33:30 -0500,['/t/crypto'],The XEdDSA and VXEdDSA Signature Schemes,https://whispersystems.org/docs/specifications/xeddsa/,/u/jabberwock,2
+0,2016-10-25 11:43:53 -0500,"['/t/mac', '/t/security', '/t/unix']",task_t considered harmful,https://googleprojectzero.blogspot.com/2016/10/taskt-considered-harmful.html,/u/sevan,16
+2,2016-10-25 18:42:48 -0500,"['/t/graphics', '/t/rust']",Gnome's Librsvg gets Rusty,https://people.gnome.org/~federico/news-2016-10.html#25,/u/kel,4

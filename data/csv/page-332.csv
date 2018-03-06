@@ -1,0 +1,25 @@
+1,2017-06-12 04:17:24 -0500,['/t/rust'],How MutexGuard was Sync When It Should Not Have Been,https://www.ralfj.de/blog/2017/06/09/mutexguard-sync.html,/u/klingtnet,12
+0,2017-06-12 07:52:51 -0500,['/t/graphics'],Correct frustum culling,http://iquilezles.org/www/articles/frustumcorrect/frustumcorrect.htm,/u/mikejsavage,8
+4,2017-06-11 12:12:37 -0500,['/t/databases'],Log-structured storage,https://jvns.ca/blog/2017/06/11/log-structured-storage/,/u/calvin,50
+0,2017-06-12 15:52:31 -0500,['/t/javascript'],Announcing TypeScript 2.4 RC,https://blogs.msdn.microsoft.com/typescript/2017/06/12/announcing-typescript-2-4-rc/,/u/joshuacc,2
+0,2017-06-12 10:44:51 -0500,['/t/reversing'],RE guide for beginners: Methodology and tools,http://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242,/u/pushcx,4
+8,2017-06-12 06:28:12 -0500,"['/t/javascript', '/t/nodejs', '/t/programming']",Desktop apps examples built with Electron (JS),https://brainhub.eu/blog/7-famous-desktop-apps-using-electron/,/u/mattwatt,1
+0,2017-06-12 07:56:55 -0500,"['/t/pdf', '/t/compsci', '/t/education']","Older Adults Learning Computer Programming: Motivations, Frustrations, and Design Opportunities",http://www.pgbovine.net/publications/older-adults-learning-programming_CHI-2017.pdf,/u/quobit,5
+0,2017-06-12 07:44:18 -0500,"['/t/graphics', '/t/performance']",View frustum culling,https://fgiesen.wordpress.com/2010/10/17/view-frustum-culling/,/u/mikejsavage,5
+1,2017-06-12 14:06:56 -0500,['/t/design'],The Equilateral Triangle of a Perfect Paragraph,https://css-tricks.com/equilateral-triangle-perfect-paragraph/,/u/flyingfisch,1
+0,2017-06-12 09:00:37 -0500,"['/t/historical', '/t/java']",java.lang.String.hashCode spec incorrectly describes the hash algorithm (2004),http://bugs.java.com/bugdatabase/view_bug.do?bug_id=4045622,/u/pushcx,4
+0,2017-06-12 07:46:54 -0500,"['/t/api', '/t/devops', '/t/distributed', '/t/scaling']",Calçado's Microservices Prerequisites,http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html,/u/pcalcado,2
+22,2017-06-12 04:38:20 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/lv1e0c/what_are_you_working_on_this_week,/u/caius,11
+0,2017-06-12 06:59:18 -0500,"['/t/c', '/t/c++']",Caring by Sharing: Header Hero,http://bitsquid.blogspot.com/2011/10/caring-by-sharing-header-hero.html,/u/mikejsavage,4
+0,2017-06-12 06:53:20 -0500,['/t/programming'],Managing Decoupling - The ID Lookup Table,http://bitsquid.blogspot.com/2011/09/managing-decoupling-part-4-id-lookup.html,/u/mikejsavage,4
+0,2017-06-12 11:07:59 -0500,"['/t/pdf', '/t/formalmethods', '/t/programming']",An implemenation of Deflate in Coq (2016),https://xxx.arxiv.org/pdf/1609.01220.pdf,/u/nickpsecurity,2
+0,2017-06-12 10:36:49 -0500,"['/t/devops', '/t/release']",Molecule v2 Released,https://github.com/metacloud/molecule/pull/863,/u/ChrisShort,2
+0,2017-06-12 14:23:21 -0500,['/t/networking'],State of Mobile Networks: India,https://opensignal.com/reports/2017/04/india/state-of-the-mobile-network,/u/adsouza,1
+1,2017-06-11 13:47:34 -0500,['/t/elixir'],Connecting to Running Elixir Applications with IEx Remote Shell,http://joeellis.la/iex-remsh-shells/,/u/notjoeellis,10
+0,2017-06-12 04:54:53 -0500,['/t/web'],HackMD - Realtime collaborative markdown notes on all platforms.,https://github.com/hackmdio/hackmd,/u/asfgda,4
+0,2017-06-11 21:41:49 -0500,['/t/javascript'],Extending VueJS Components,http://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/,/u/anthonygore,4
+0,2017-06-12 07:45:27 -0500,"['/t/graphics', '/t/performance']",The Implementation of Frustum Culling in Stingray,http://bitsquid.blogspot.com/2016/10/the-implementation-of-frustum-culling.html,/u/mikejsavage,2
+1,2017-06-11 20:11:14 -0500,['/t/ios'],Apple’s App Store Guidelines Now Allow Executable Code in Educational Apps and Developer Tools,https://www.macstories.net/linked/apples-app-store-guidelines-now-allow-executable-code-in-educational-apps-and-developer-tools/,/u/calvin,5
+0,2017-06-11 18:50:21 -0500,['/t/compsci'],A (computational) linguistic farce in three acts,http://www.earningmyturns.org/2017/06/a-computational-linguistic-farce-in.html,/u/carinmeier,7
+1,2017-06-12 14:16:24 -0500,"['/t/video', '/t/networking', '/t/privacy', '/t/security']",Rob Pike on Upspin,https://www.youtube.com/watch?v=giUatBmmb_Y,/u/unbalancedparentheses,0
+0,2017-06-11 16:01:34 -0500,"['/t/compsci', '/t/historical']",Antedating “datatype” all the way to Plankalkül,http://arcanesentiment.blogspot.com/2017/06/antedating-datatype-all-way-to.html,/u/evhan,9

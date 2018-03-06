@@ -1,0 +1,25 @@
+0,2017-01-19 21:35:29 -0600,"['/t/release', '/t/virtualization']",Introducing Docker 1.13,https://blog.docker.com/2017/01/whats-new-in-docker-1-13/,/u/av,1
+0,2017-01-19 20:55:18 -0600,"['/t/databases', '/t/visualization']",Analyzing the BuzzFeed TrumpWorld Dataset with Neo4j,https://neo4j.com/blog/buzzfeed-trumpworld-dataset-neo4j/,/u/bwmerkl,1
+1,2017-01-19 06:32:00 -0600,"['/t/linux', '/t/security']",The flatpak security model – part 1: The basics,https://blogs.gnome.org/alexl/2017/01/18/the-flatpak-security-model-part-1-the-basics/,/u/calvin,7
+6,2017-01-18 13:17:51 -0600,"['/t/hardware', '/t/security']","Who is Anna-Senpai, the Mirai Worm Author?",https://krebsonsecurity.com/2017/01/who-is-anna-senpai-the-mirai-worm-author/,/u/355E3B,35
+23,2017-01-18 14:43:44 -0600,['/t/programming'],"YAML, HCL, TOML, and Other Fantastic Beasts",https://nathanleclaire.com/blog/2016/06/13/yaml-hcl-toml-and-other-fantastic-beasts/,/u/zem,20
+0,2017-01-19 14:50:25 -0600,"['/t/historical', '/t/javascript']",A Brief History of JavaScript,https://auth0.com/blog/a-brief-history-of-javascript/,/u/flyingfisch,2
+0,2017-01-19 11:48:59 -0600,"['/t/video', '/t/haskell', '/t/ruby']",Life After Nil,http://blog.testdouble.com/posts/2017-01-18-life-after-nil.html,/u/pushcx,3
+0,2017-01-19 06:10:45 -0600,['/t/graphics'],Converting images to ASCII art (Part 1),https://bitesofcode.wordpress.com/2017/01/19/converting-images-to-ascii-art-part-1/,/u/calvin,6
+4,2017-01-18 11:56:37 -0600,['/t/go'],Go's Resolutions for 2017,https://research.swtch.com/go2017,/u/Dawny33,36
+0,2017-01-19 17:09:46 -0600,['/t/javascript'],Indoc - inline documentation generator,https://zlsa.github.io/indoc/,/u/flyingfisch,1
+3,2017-01-18 17:08:27 -0600,['/t/programming'],Most used words in programming languages (built from ~2TB of code),https://anvaka.github.io/common-words,/u/nhooyr,16
+2,2017-01-19 09:55:45 -0600,"['/t/culture', '/t/hardware', '/t/historical']",Cultural Evolution of Pants,http://peterturchin.com/cliodynamica/cultural-evolution-of-pants/,/u/pushcx,6
+1,2017-01-18 21:32:20 -0600,['/t/finance'],What I Wish I'd Known About Equity Before Joining A Unicorn,https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d,/u/av,10
+1,2017-01-19 21:36:06 -0600,"['/t/mobile', '/t/release']",Ready for Realtime and Scale: Announcing Realm Mobile Platform 1.0,https://realm.io/news/realm-mobile-platform-1-0-general-availability/,/u/av,0
+0,2017-01-19 14:52:30 -0600,"['/t/javascript', '/t/release']",ChakraCore's first anniversary,https://blogs.windows.com/msedgedev/2017/01/13/chakracores-first-anniversary/,/u/flyingfisch,1
+0,2017-01-19 10:56:34 -0600,"['/t/go', '/t/practices']","Concurrency, Goroutines and GOMAXPROCS",https://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html,/u/friendlysock,2
+41,2017-01-17 21:56:36 -0600,['/t/databases'],RethinkDB: why we failed,https://github.com/coffeemug/defstartup/blob/master/_drafts/why-rethinkdb-failed.md,/u/av,70
+9,2017-01-18 11:58:46 -0600,['/t/unix'],"Guilty SPARC: Oracle euthanizes Solaris 12, expunging it from roadmap",http://arstechnica.com/information-technology/2017/01/oracle-sort-of-confirms-demise-of-solaris-12-effort/,/u/calvin,14
+0,2017-01-18 07:09:43 -0600,"['/t/devops', '/t/distributed', '/t/programming']",OK Log: a distributed and coördination-free log management system,https://peter.bourgon.org/ok-log,/u/peterbourgon,24
+3,2017-01-18 08:00:42 -0600,['/t/privacy'],"Sky Torrents - Privacy-focused, ad-free, non-tracking torrent search engine",https://www.skytorrents.in/,/u/av,27
+0,2017-01-19 10:50:30 -0600,"['/t/databases', '/t/javascript']","CloudBoost – Open-Source Parse, Firebase and Algolia Combined into One",https://github.com/CloudBoost/cloudboost,/u/av,1
+0,2017-01-18 16:42:53 -0600,['/t/devops'],Caching at Reddit,http://redditblog.com/2017/01/17/caching-at-reddit/,/u/pushcx,12
+2,2017-01-18 06:25:53 -0600,['/t/javascript'],JavaScript vs Elm vs PureScript vs GHCjs,http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html,/u/puffnfresh,29
+0,2017-01-18 18:50:46 -0600,"['/t/games', '/t/graphics']",A Trip Down The LoL Graphics Pipeline,https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline,/u/Impossible,8
+0,2017-01-19 08:23:03 -0600,['/t/crypto'],Zero Knowledge Communications (zkc),https://github.com/companyzero/zkc,/u/edd,1

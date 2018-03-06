@@ -1,0 +1,25 @@
+0,2015-08-08 23:56:56 -0500,"['/t/practices', '/t/programming']",The Software Developer Interviewing Mega-Post,http://benlakey.com/2015/08/08/interviewing/,/u/byte1,7
+1,2015-08-08 12:01:58 -0500,"['/t/distributed', '/t/erlang', '/t/programming']","Erlang and distributed systems expert, gives his views on BEAM languages, Hindley–Milner type system",https://medium.com/this-is-not-a-monad-tutorial/eric-merritt-erlang-and-distributed-systems-expert-gives-his-views-on-beam-languages-hindley-a09b15f53a2f,/u/unbalancedparentheses,25
+0,2015-08-08 14:30:50 -0500,"['/t/c', '/t/compilers']",Movfuscator: the single instruction C compiler,https://github.com/xoreaxeaxeax/movfuscator,/u/lazythunk,27
+1,2015-08-08 19:28:51 -0500,['/t/cogsci'],Composing Music With Recurrent Neural Networks,http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/,/u/james,13
+0,2015-08-08 20:21:24 -0500,"['/t/haskell', '/t/programming']",Terseness VS Elegance,http://sam-serpoosh.github.io/terseness-vs-elegance/,/u/samser,6
+0,2015-08-08 20:25:04 -0500,"['/t/linux', '/t/programming', '/t/unix']",System Calls semi-detailed Explanation,http://duartes.org/gustavo/blog/post/system-calls/,/u/samser,7
+0,2015-08-08 03:49:25 -0500,['/t/networking'],Distributing files via DNS,http://www.cambus.net/distributing-files-via-dns/,/u/fcambus,13
+4,2015-08-08 03:43:00 -0500,['/t/programming'],Performance without the event loop,http://dave.cheney.net/2015/08/08/performance-without-the-event-loop,/u/fcambus,17
+2,2015-08-08 09:43:26 -0500,"['/t/cryptocurrencies', '/t/security']",Why I'm releasing a brainwallet cracker at DEFCON 23,https://rya.nc/defcon-brainwallets.html,/u/pushcx,9
+5,2015-08-07 12:36:39 -0500,"['/t/programming', '/t/rust']",Announcing Rust 1.2,http://blog.rust-lang.org/2015/08/06/Rust-1.2.html,/u/steveklabnik,39
+0,2015-08-08 12:23:11 -0500,"['/t/video', '/t/java', '/t/programming']",From Imperative to Pure-Functional and Back Again: Monads vs. Scoped Continuations,http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/,/u/pushcx,6
+0,2015-08-08 10:32:16 -0500,"['/t/c', '/t/programming']",Dense Bitpacking,http://writing.londonstartuptech.com/2014/04/24/dense-bitpacking/,/u/pushcx,7
+2,2015-08-08 09:37:28 -0500,"['/t/show', '/t/c', '/t/programming', '/t/release']",Using C++ strings in situ as type parameters within a template parameter list,https://github.com/irrequietus/typestring,/u/irrequietus,2
+4,2015-08-08 01:16:24 -0500,['/t/networking'],Some thoughts on social networking services,https://github.com/sn/sn/blob/master/THOUGHTS.md,/u/zg,3
+2,2015-08-07 23:58:30 -0500,['/t/lisp'],An argument against call/cc (2012),http://okmij.org/ftp/continuations/against-callcc.html,/u/mjn,8
+0,2015-08-08 08:53:26 -0500,"['/t/compsci', '/t/databases', '/t/distributed', '/t/networking', '/t/scaling', '/t/web']",Building a Distributed Full-Text Index for the Web (2001),http://www10.org/cdrom/papers/275/,/u/kel,3
+6,2015-08-07 14:06:09 -0500,['/t/programming'],"Why not to ask the server for its ""local time""",http://www.creativedeletion.com/2015/08/07/why-not-to-use-server-local-time.html,/u/laut,6
+6,2015-08-07 09:07:27 -0500,"['/t/pdf', '/t/assembly', '/t/hardware', '/t/security']",The Memory Sinkhole: An architectural privilege escalation vulnerability,https://github.com/xoreaxeaxeax/sinkhole/blob/master/us-15-Domas-TheMemorySinkhole.pdf,/u/calvin,22
+2,2015-08-07 13:09:04 -0500,['/t/security'],"Mitigations to the ""Memory Sinkhole""",http://blog.jacobtorrey.com/mitigations-to-the-memory-sinkhole,/u/lynge,17
+0,2015-08-07 21:58:45 -0500,"['/t/culture', '/t/practices']","Don't Worry, Just Code",http://flyingfisch.github.io/culture/programming/2015/08/04/dont-worry-just-build.html,/u/flyingfisch,8
+0,2015-08-08 11:52:57 -0500,"['/t/haskell', '/t/programming']",On the unsafety of interleaved I/O,http://comonad.com/reader/2015/on-the-unsafety-of-interleaved-io/,/u/pushcx,1
+1,2015-08-07 12:41:08 -0500,"['/t/ios', '/t/programming', '/t/swift']",A Eulogy for Objective-C,https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/,/u/av,14
+0,2015-08-07 12:21:10 -0500,['/t/unix'],Unix Toolbox (2012),http://cb.vu/unixtoolbox.xhtml,/u/pushcx,15
+1,2015-08-07 12:01:43 -0500,['/t/networking'],North Korea to Move 30 Minutes Backward to Create Its Own Time Zone,http://www.nytimes.com/2015/08/08/world/asia/north-korea-time-zone.html,/u/zg,10
+1,2015-08-07 16:51:59 -0500,"['/t/pdf', '/t/programming']",How Functional Programming Mattered,http://nsr.oxfordjournals.org/content/early/2015/07/13/nsr.nwv042.full.pdf,/u/julienXX,3

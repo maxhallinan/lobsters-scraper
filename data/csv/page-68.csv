@@ -1,0 +1,25 @@
+0,2018-01-07 08:25:47 -0600,"['/t/assembly', '/t/java']",How the JVM compares your strings using the craziest x86 instruction sets,http://jcdav.is/2016/09/01/How-the-JVM-compares-your-strings/,/u/av,14
+0,2018-01-08 02:25:20 -0600,['/t/security'],Dell EMC Avamar Vulnerabilities leading to full compromise,https://www.digitaldefense.com/blog/zero-day-alerts/avamar-zero-day/,/u/r2gf,1
+3,2018-01-07 00:36:26 -0600,"['/t/c', '/t/programming']","Creating an NVME driver for Google's new operating system, Zircon",http://www.frotz.net/post/zero-to-driver/,/u/nebkor,22
+0,2018-01-07 07:25:24 -0600,['/t/games'],Physics cheats,https://eev.ee/blog/2018/01/06/physics-cheats/,/u/calvin,10
+11,2018-01-06 11:27:30 -0600,"['/t/hardware', '/t/performance', '/t/security']",Epic Services & Stability Update (100% CPU load increase after Meltdown mitigation),https://www.epicgames.com/fortnite/forums/news/announcements/132642-epic-services-stability-update,/u/cnst,37
+10,2018-01-06 11:47:25 -0600,['/t/programming'],Ten Things I Wish I’d Known About bash,https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/,/u/j11g,36
+0,2018-01-07 09:06:41 -0600,"['/t/clojure', '/t/programming']","So yeah, about Clojure's syntax...",http://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html,/u/Yogthos,4
+13,2018-01-06 11:37:39 -0600,"['/t/javascript', '/t/satire', '/t/security']",I’m harvesting credit card numbers and passwords from your site. Here’s how.,https://medium.com/@david.gilbertson/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5,/u/pushcx,64
+8,2018-01-06 11:08:16 -0600,"['/t/javascript', '/t/practices']",JS things I never knew existed,http://air.ghost.io/js-things-i-never-knew-existed/,/u/friendlysock,18
+7,2018-01-06 13:04:15 -0600,['/t/programming'],A Love Letter to Plain Text,https://blog.afoolishmanifesto.com/posts/a-love-letter-to-plain-text/,/u/av,15
+0,2018-01-07 03:19:01 -0600,['/t/linux'],Linux-insides: Linux kernel load address randomization,https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-6.md,/u/av,4
+6,2018-01-06 13:36:11 -0600,"['/t/haskell', '/t/plt']",Tell us why your language sucks (2008),http://www.drmaciver.com/2008/02/tell-us-why-your-language-sucks/,/u/hwayne,11
+17,2018-01-05 23:34:05 -0600,"['/t/openbsd', '/t/security']","Meltdown, aka ""Dear Intel, you suck""",https://marc.info/?l=openbsd-tech&m=151521435721902&w=2,/u/calvin,40
+0,2018-01-06 16:47:32 -0600,['/t/hardware'],OPL2/3 Frequency - The 1Hz-ish Difference,http://nerdlypleasures.blogspot.com/2018/01/opl23-frequency-1hz-ish-difference.html,/u/calvin,9
+2,2018-01-06 07:57:27 -0600,"['/t/rust', '/t/web']",Web Scraping With Rust,https://medium.com/@kadek/web-scraping-in-rust-881b534a60f7,/u/calvin,20
+0,2018-01-06 15:38:20 -0600,"['/t/performance', '/t/practices']",Are Benchmarks From Cloud CI Services Reliable?,https://bheisler.github.io/post/benchmarking-in-the-cloud/,/u/bheisler,5
+4,2018-01-06 03:10:32 -0600,"['/t/crypto', '/t/education', '/t/games']",Crypto for Kids (A Book that is a Labyrinth),https://github.com/sustrik/crypto-for-kids/blob/gh-pages/README.md,/u/sustrik,12
+0,2018-01-06 17:40:32 -0600,['/t/programming'],Effective ATS: Streamization and Stream-Processing in Parallel,http://ats-lang.sourceforge.net/EXAMPLE/EFFECTIVATS/StreamPar/main.html,/u/doublec,6
+2,2018-01-06 08:53:55 -0600,"['/t/go', '/t/programming']",Autocomplete engine in Go: let's build it,https://alediaferia.com/2018/01/06/autocomplete-engine-go/,/u/alediaferia,4
+0,2018-01-06 14:40:17 -0600,"['/t/historical', '/t/unix']",V7/x86 – x86 port of Unix V7,http://www.nordier.com/v7x86/,/u/xorhash,6
+0,2018-01-07 08:28:41 -0600,['/t/programming'],Hacking a Google Interview,http://courses.csail.mit.edu/iap/interview/index.php,/u/av,0
+0,2018-01-06 13:52:19 -0600,['/t/hardware'],Examining a 1954 IBM mainframe's pluggable tube module: a key debouncer,http://www.righto.com/2018/01/examining-1954-ibm-mainframes-pluggable.html,/u/calvin,6
+2,2018-01-05 14:20:24 -0600,"['/t/hardware', '/t/security']",Why Raspberry Pi isn't vulnerable to Spectre or Meltdown,https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/,/u/automach,68
+0,2018-01-05 23:12:24 -0600,"['/t/hardware', '/t/security']",Secret hard-coded backdoor and vulnerabilities found in WD MyCloud NAS devices,http://gulftech.org/advisories/WDMyCloud%20Multiple%20Vulnerabilities/125,/u/av,26
+5,2018-01-05 20:23:01 -0600,"['/t/compsci', '/t/release', '/t/unix']",Jehanne in 2017,http://jehanne.io/2018/01/06/jehanne-in-2017.html,/u/Shamar,16

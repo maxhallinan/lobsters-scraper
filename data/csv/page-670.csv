@@ -1,0 +1,25 @@
+1,2016-09-05 09:12:40 -0500,['/t/programming'],Events as facts - trade-offs between resilience and consistency,https://jazzy.id.au/2016/09/05/events-as-facts.html,/u/pushcx,3
+0,2016-09-04 21:57:09 -0500,"['/t/games', '/t/historical']",Optimizing for Human Understanding,http://prog21.dadgum.com/222.html,/u/danielcompton,9
+0,2016-09-05 12:18:30 -0500,"['/t/compsci', '/t/databases', '/t/scaling']",Goods: organizing Google’s datasets,https://blog.acolyer.org/2016/07/12/goods-organizing-googles-datasets/,/u/adsouza,1
+0,2016-09-05 12:16:49 -0500,['/t/compsci'],Pregel: A System for Large-Scale Graph Processing,https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/,/u/adsouza,1
+6,2016-09-04 11:33:41 -0500,"['/t/book', '/t/historical', '/t/unix']",Unix Text Processing (Hayden Books),http://www.oreilly.com/openbook/utp/,/u/sevan,16
+18,2016-09-04 02:06:59 -0500,['/t/openbsd'],LLVM/CLANG imported into OpenBSD base,https://marc.info/?l=openbsd-cvs&m=147294297501630&w=2,/u/quobit,28
+8,2016-09-04 16:31:01 -0500,['/t/practices'],Bugs & Priority,https://medium.com/@brianmichel/bugs-priority-3b5cf5f6aadd,/u/brianmichel,3
+4,2016-09-04 13:38:12 -0500,['/t/programming'],Base32 Encoding,http://www.crockford.com/wrmg/base32.html,/u/pushcx,7
+0,2016-09-04 13:09:47 -0500,"['/t/pdf', '/t/slides', '/t/hardware']",Computing with programmable logic,https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Gray_Jan_Computing_with_Programmable_Logic.pdf,/u/calvin,11
+0,2016-09-04 17:18:48 -0500,"['/t/ml', '/t/programming']",Introduction to Functional Programming in OCaml [MOOC],https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about,/u/dwc,6
+13,2016-09-04 14:26:24 -0500,"['/t/culture', '/t/privacy']",Tor’s Branding Pivot is Going to Get Someone Killed,https://medium.com/@virgilgr/tors-branding-pivot-is-going-to-get-someone-killed-6ee45313b559,/u/albino,14
+7,2016-09-03 19:37:10 -0500,"['/t/graphics', '/t/programming']",500 Byte Images: The Haiku Vector Icon Format,http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html,/u/ehamberg,29
+0,2016-09-04 16:03:25 -0500,"['/t/api', '/t/games', '/t/javascript', '/t/web']","WhitestormJS r11: modularity, optimization for webpack, softbody cloth and more!",https://github.com/WhitestormJS/whitestorm.js,/u/alex2401,1
+6,2016-09-03 14:19:40 -0500,"['/t/hardware', '/t/openbsd']",OpenBSD drops zaurus support,http://marc.info/?l=openbsd-cvs&m=147290990427834&w=2,/u/calvin,20
+9,2016-09-03 13:57:39 -0500,"['/t/games', '/t/security']",Counter-Strike Is Broken,http://dweb.io/counterstrike-is-broken,/u/calvin,18
+0,2016-09-04 12:59:40 -0500,"['/t/php', '/t/python', '/t/testing']",Comparison of Hypothesis and Eris property based testing libraries,http://hypothesis.works/articles/hypothesis-vs-eris/,/u/DRMacIver,2
+0,2016-09-03 19:50:40 -0500,"['/t/security', '/t/web']",Stealing Session Cookies with Tcpdump,http://nullprogram.com/blog/2016/06/23/,/u/adsouza,13
+5,2016-09-03 15:46:10 -0500,['/t/databases'],Dumb Tricks to Save Database Space,https://kev.inburke.com/kevin/dumb-tricks-to-save-database-space/,/u/kb,5
+5,2016-09-03 12:04:34 -0500,['/t/programming'],Two Years as a High School Mentor,http://nullprogram.com/blog/2016/09/02/,/u/PuercoPop,11
+11,2016-09-03 02:19:42 -0500,['/t/security'],How to steal any developer's local database,http://bouk.co/blog/hacking-developers/,/u/DRMacIver,28
+1,2016-09-03 12:53:00 -0500,"['/t/hardware', '/t/release']","GNU Libreboot, version 20160902 released",https://www.coreboot.org/pipermail/coreboot/2016-September/081987.html,/u/sevan,10
+0,2016-09-03 14:38:34 -0500,"['/t/practices', '/t/programming']",Lessons Learned from Using Regexes At Scale,https://www.loggly.com/blog/lessons-learned-from-using-regexes-at-scale/,/u/fcbsd,6
+1,2016-09-03 02:31:07 -0500,"['/t/release', '/t/vcs']",Git 2.10 has been released,https://github.com/blog/2242-git-2-10-has-been-released,/u/fkr,14
+0,2016-09-03 13:43:33 -0500,"['/t/privacy', '/t/security']",Titan Rain,https://en.wikipedia.org/wiki/Titan_Rain,/u/wje,3
+7,2016-09-02 11:19:24 -0500,['/t/networking'],Chang-Maxemchuk atomic broadcast,http://www.yodaiken.com/2016/09/02/chang-maxemchuk-atomic-broadcast/,/u/vyodaiken,14

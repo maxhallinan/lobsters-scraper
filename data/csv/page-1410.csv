@@ -1,0 +1,25 @@
+3,2014-01-10 11:21:56 -0600,"['/t/databases', '/t/java']",Yesql - usable SQL library for Clojure,https://github.com/krisajenkins/yesql,/u/kb,12
+0,2014-01-11 02:44:19 -0600,"['/t/databases', '/t/php', '/t/release']",Gannet - a simple database migration tool,https://github.com/laurent22/gannet,/u/lau,2
+0,2014-01-10 19:37:22 -0600,['/t/erlang'],Erlang library for parsing and composing JSON terms,https://github.com/seth/ej,/u/abs,5
+0,2014-01-10 14:38:09 -0600,"['/t/release', '/t/security']",FFmpeg and a thousand fixes,http://googleonlinesecurity.blogspot.com/2014/01/ffmpeg-and-thousand-fixes.html,/u/jcs,8
+1,2014-01-10 12:29:56 -0600,"['/t/erlang', '/t/web']",Webmachine Tutorial,http://christophermeiklejohn.com/erlang/webmachine/2013/07/11/lambdajam-2013-webmachine-tutorial.html,/u/SeanTAllen,8
+0,2014-01-10 19:05:12 -0600,"['/t/lisp', '/t/programming']","Markov Chains in Clojure, Part 2 – Scaling Up",http://diegobasch.com/markov-chains-in-clojure-part-2-scaling-up,/u/diego,4
+18,2014-01-10 07:56:56 -0600,"['/t/go', '/t/programming', '/t/rant']",A Grumpy Guy Complains About Complaining,http://go.c800colon5.com/blog/2014/01/09/a-grumpy-guy-complains-about-complaining/,/u/GooseYArd,17
+0,2014-01-10 05:03:51 -0600,"['/t/networking', '/t/security']",Understanding and mitigating NTP-based DDoS attacks,http://blog.cloudflare.com/understanding-and-mitigating-ntp-based-ddos-attacks,/u/kyle,11
+5,2014-01-10 08:41:54 -0600,['/t/hardware'],4K is for programmers,http://tiamat.tsotech.com/4k-is-for-programmers,/u/ntalbott,3
+0,2014-01-10 10:25:25 -0600,"['/t/hardware', '/t/programming']",High Performance Linux: Studying Intel TSX Performance,http://natsys-lab.blogspot.ru/2013/11/studying-intel-tsx-performance.html,/u/jm,5
+0,2014-01-10 14:09:43 -0600,['/t/programming'],The Red Programming Language,http://www.red-lang.org/,/u/jdp,3
+0,2014-01-10 10:02:46 -0600,['/t/math'],Not sure if math unreasonably effective or selection bias,http://danluu.com/math-bias/,/u/astrieanna,5
+0,2014-01-10 13:38:44 -0600,"['/t/show', '/t/databases', '/t/ruby']","Que, a crazy-fast Ruby-PostgreSQL job queue",https://github.com/chanks/que,/u/chanks,3
+0,2014-01-10 13:03:28 -0600,"['/t/devops', '/t/distributed']",The Netflix Tech Blog: S3mper: Consistency in the Cloud,http://techblog.netflix.com/2014/01/s3mper-consistency-in-cloud.html,/u/ajdecon,3
+6,2014-01-09 16:56:50 -0600,['/t/rust'],Rust 0.9 Released,https://mail.mozilla.org/pipermail/rust-dev/2014-January/007753.html,/u/kellogh,20
+0,2014-01-10 03:51:06 -0600,"['/t/compsci', '/t/lisp']",Tabasco Sort: a super-optimal merge sort,http://www.pvk.ca/Blog/2012/08/27/tabasco-sort-super-optimal-merge-sort/,/u/old_sound,6
+2,2014-01-09 18:06:11 -0600,['/t/reversing'],Frida,http://www.frida.re/,/u/jm,7
+0,2014-01-10 09:00:38 -0600,"['/t/compsci', '/t/science']",Using deep learning to listen for whales,http://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales/,/u/ntalbott,1
+0,2014-01-10 01:17:14 -0600,['/t/programming'],Software in 2014,https://www.tbray.org/ongoing/When/201x/2014/01/01/Software-in-2014,/u/vjoel,3
+3,2014-01-09 21:14:45 -0600,"['/t/video', '/t/linux', '/t/security']",Practical Security for 2014,http://www.youtube.com/watch?v=FeY3xIj7z2Q,/u/kyle,3
+6,2014-01-09 08:24:15 -0600,"['/t/video', '/t/distributed']",Practicalities of Productionizing Distributed Systems,http://www.youtube.com/watch?v=BKqgGpAOv1w,/u/icefall,12
+6,2014-01-09 17:26:55 -0600,['/t/meta'],Can we add a page for usage metrics?,/s/mw69pk/can_we_add_page_for_usage_metrics,/u/conroy,12
+3,2014-01-09 14:32:00 -0600,['/t/go'],Auto-generating a Go API client for Heroku,https://bgentry.io/blog/2013/01/09/auto-generating-a-go-api-client-for-heroku,/u/ryandotsmith,5
+3,2014-01-09 13:43:33 -0600,['/t/lisp'],Schema for Clojure(Script) Data Shape Declaration and Validation,http://blog.getprismatic.com/blog/2013/9/4/schema-for-clojurescript-data-shape-declaration-and-validation,/u/lambda,6
+0,2014-01-09 19:35:17 -0600,['/t/python'],Why Python is eating other languages' lunch in scientific computing,http://www.r-bloggers.com/the-homogenization-of-scientific-computing-or-why-python-is-steadily-eating-other-languages-lunch/,/u/michaelochurch,4

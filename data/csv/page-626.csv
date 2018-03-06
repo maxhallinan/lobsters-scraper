@@ -1,0 +1,25 @@
+1,2016-10-20 19:11:04 -0500,"['/t/graphics', '/t/math', '/t/visualization']","Image Synthesis from Yahoo's open_nsfw (NSFW, sorta?)",https://open_nsfw.gitlab.io/,/u/friendlysock,17
+0,2016-10-21 08:55:19 -0500,['/t/javascript'],JavaScript for Web Designers: DOM Scripting,http://alistapart.com/article/javascript-for-web-designers,/u/flyingfisch,4
+2,2016-10-21 08:17:43 -0500,"['/t/go', '/t/java']",convert large java projects to a more golang like structure,https://github.com/andrewarrow/traot,/u/andrewfromx,1
+15,2016-10-20 10:31:16 -0500,"['/t/hardware', '/t/practices']",Tesla bans customers from using autonomous cars to earn money ride-sharing,http://arstechnica.com/cars/2016/10/dont-plan-on-using-an-autonomous-tesla-to-earn-money-with-uber-or-lyft/,/u/pushcx,25
+4,2016-10-20 19:37:58 -0500,"['/t/linux', '/t/security']",“Most serious” Linux privilege-escalation bug ever is under active exploit,http://arstechnica.com/security/2016/10/most-serious-linux-privilege-escalation-bug-ever-is-under-active-exploit/#p3,/u/grahamc,12
+0,2016-10-20 20:35:34 -0500,"['/t/pdf', '/t/assembly', '/t/hardware']","50,000,000,000 Instructions Per Second: Design and Implementation of a 256-Core BrainFuck Computer",http://people.csail.mit.edu/wjun/papers/sigtbd16.pdf,/u/calvin,15
+1,2016-10-21 03:58:52 -0500,"['/t/pdf', '/t/c', '/t/unix']",Goodbye World! The perils of relying on output streams in C [2011],https://www.gnu.org/ghm/2011/paris/slides/jim-meyering-goodbye-world.pdf,/u/1amzave,4
+0,2016-10-21 13:13:00 -0500,"['/t/compsci', '/t/python']",Differential Language Analysis ToolKit,https://github.com/dlatk/dlatk,/u/tf,1
+7,2016-10-20 12:28:15 -0500,"['/t/c', '/t/compilers', '/t/compsci', '/t/ml', '/t/programming', '/t/security']",Introducing Kremlin - F* to C compiler by verified-HTTPS team,https://fstarlang.github.io/general/2016/09/30/introducing-kremlin.html,/u/nickpsecurity,15
+4,2016-10-20 15:26:57 -0500,['/t/security'],Adding a phone number to your Google account can make it less secure,https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-less-secure-f1cc7280ff6a,/u/pushcx,10
+0,2016-10-21 08:13:03 -0500,['/t/javascript'],The ECMAScript 2016 change you probably don't know,https://www.nczonline.net/blog/2016/10/the-ecmascript-2016-change-you-probably-dont-know/,/u/flyingfisch,2
+0,2016-10-20 22:50:19 -0500,"['/t/graphics', '/t/hardware']",Dynamic projection mapping onto deforming non-rigid surface using a high-speed projector,http://www.k2.t.u-tokyo.ac.jp/vision/DPM/,/u/pushcx,7
+0,2016-10-21 11:21:16 -0500,"['/t/pdf', '/t/finance']",What do financial markets think of the 2016 election?,https://www.brookings.edu/wp-content/uploads/2016/10/what-do-financial-markets-think-of-the-2016-election_102016_wolferszitzewitz.pdf,/u/kb,1
+14,2016-10-19 22:13:35 -0500,"['/t/hardware', '/t/historical']",export TERM=aaa-60,https://www.jwz.org/blog/2016/10/export-termaaa-60/,/u/friendlysock,50
+1,2016-10-20 19:16:54 -0500,"['/t/compilers', '/t/erlang', '/t/ml', '/t/release']",ML-flavoured Erlang v0.2.0 Released,http://noisycode.com/blog/2016/08/01/mlfe-v0-dot-2-0-released,/u/unbalancedparentheses,7
+0,2016-10-20 19:15:55 -0500,['/t/ml'],"How OCaml type checker works, or what polymorphism and garbage collection have in common",http://okmij.org/ftp/ML/generalization.html,/u/unbalancedparentheses,8
+0,2016-10-21 08:19:30 -0500,"['/t/linux', '/t/security']",Security bug lifetime,https://outflux.net/blog/archives/2016/10/18/security-bug-lifetime/,/u/mjturner,1
+0,2016-10-21 08:13:42 -0500,['/t/javascript'],JavaScript Grows Up and Gets Its Own Foundation,http://thenewstack.io/javascript-grows-gets-foundation/,/u/flyingfisch,1
+0,2016-10-21 08:12:21 -0500,['/t/javascript'],Quick Tip: Replace jQuery's Ready() with Plain JavaScript,https://www.sitepoint.com/jquery-document-ready-plain-javascript/,/u/flyingfisch,1
+1,2016-10-20 09:12:53 -0500,"['/t/linux', '/t/security']",Thoughts on the BTB anti-ASLR Paper,https://github.com/lattera/articles/blob/master/infosec/Exploit%20Mitigations/ASLR/2016-10-19_btb/article.md,/u/lattera,9
+0,2016-10-20 12:39:00 -0500,"['/t/video', '/t/ml']",Videos of ML Workshop 2016,https://www.youtube.com/playlist?list=PLnqUlCo055hX_BCFl3kLW1bB9Mp4wZACc,/u/unbalancedparentheses,12
+1,2016-10-20 19:16:28 -0500,['/t/distributed'],Cluster Reading List,http://noisycode.com/blog/2015/02/28/cluster-reading-list,/u/unbalancedparentheses,4
+0,2016-10-20 12:38:23 -0500,"['/t/video', '/t/ml']",Videos of the OCaml Workshop 2016,https://www.youtube.com/playlist?list=PLnqUlCo055hVHS08n-Po_T4K2eNNahkg9,/u/unbalancedparentheses,11
+0,2016-10-21 05:16:14 -0500,['/t/c'],C++ Passkey Idiom,http://arne-mertz.de/2016/10/passkey-idiom/,/u/rsadowski,1
+0,2016-10-20 19:14:29 -0500,['/t/programming'],"Introducing Microcule, a stream based CGI for microservices ( formerly known as stack )",https://github.com/Stackvana/microcule,/u/marak,2

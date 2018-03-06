@@ -1,0 +1,25 @@
+3,2016-11-15 10:10:13 -0600,"['/t/linux', '/t/security']",Enter 30 to shell: Cryptsetup Initram Shell [CVE-2016-4484],http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html,/u/sevan,2
+0,2016-11-15 14:30:37 -0600,"['/t/design', '/t/historical', '/t/practices']",Why a New UI for Office 2007? (2005-2008),https://web.archive.org/web/20081221202017/http://blogs.msdn.com/jensenh/pages/table-of-contents.aspx,/u/calvin,2
+0,2016-11-15 14:12:36 -0600,['/t/distributed'],How to build a distributed counter [2015],http://www.cakesolutions.net/teamblogs/how-to-build-a-distributed-counter,/u/jitterted,2
+0,2016-11-15 18:01:55 -0600,"['/t/video', '/t/practices', '/t/web']",Production PWAs with frameworks - Addy Osmani,https://www.youtube.com/watch?v=e8XejNt5SZo,/u/romanzolotarev,1
+0,2016-11-15 13:52:25 -0600,['/t/python'],Python Bytes Podcast,https://pythonbytes.fm/,/u/feoh,2
+0,2016-11-15 08:57:50 -0600,['/t/freebsd'],Authority in peer production: The emergence of governance in the FreeBSD project,http://peerproduction.net/issues/issue-1/peer-reviewed-papers/authority-in-peer-production/,/u/lattera,4
+0,2016-11-15 10:15:17 -0600,['/t/ruby'],Rails and adapter objects: different implementations in production and tests,http://blog.arkency.com/2016/11/rails-and-adapter-objects-different-implementations-in-production-and-tests/,/u/pushcx,3
+0,2016-11-15 10:09:33 -0600,"['/t/compilers', '/t/javascript']",Mapped Types Land in TypeScript,https://github.com/Microsoft/TypeScript/pull/12114,/u/pushcx,3
+31,2016-11-14 04:37:02 -0600,['/t/ask'],What are you working on this week?,/s/sirxdn/what_are_you_working_on_this_week,/u/caius,24
+0,2016-11-15 07:10:13 -0600,['/t/unix'],"Nuxi CloudABI: Towards secure, maintainable and testable software",https://nuxi.nl/,/u/sanxiyn,4
+6,2016-11-14 10:11:32 -0600,['/t/elm'],Elm 0.18 is out,http://elm-lang.org/blog/the-perfect-bug-report,/u/romanzolotarev,25
+0,2016-11-15 05:23:44 -0600,['/t/programming'],CertiKOS: An Extenisble Architecture for Building Certified Concurrent OS Kernels,http://flint.cs.yale.edu/certikos/publications/certikos.html,/u/sanxiyn,2
+8,2016-11-14 13:56:16 -0600,['/t/ask'],Adjustable standing/sitting desk options?,/s/j1vnad/adjustable_standing_sitting_desk,/u/wambotron,7
+3,2016-11-14 14:36:27 -0600,"['/t/freebsd', '/t/programming', '/t/rant']",Your Infrastructure should be Boring,https://home.apache.org/~dch/blog/2016/10/20/infra-should-be-boring/,/u/skunkwerks,7
+6,2016-11-14 09:41:15 -0600,"['/t/pdf', '/t/cogsci']",Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment,http://kmunger.github.io/pdfs/Twitter_harassment_final.pdf,/u/phaedryx,9
+8,2016-11-14 01:52:38 -0600,"['/t/mac', '/t/release']",Visual Studio for Mac,https://msdn.microsoft.com/en-us/magazine/mt790182.aspx,/u/av,20
+8,2016-11-14 06:03:53 -0600,"['/t/historical', '/t/programming', '/t/windows']",Building Win16 GUI Applications in C,http://www.transmissionzero.co.uk/computing/win16-apps-in-c/,/u/calvin,13
+0,2016-11-15 06:17:26 -0600,"['/t/c', '/t/programming']",Clang-Tidy - a clang-based C++ “linter” tool,http://clang.llvm.org/extra/clang-tidy/,/u/geier,1
+8,2016-11-14 10:58:10 -0600,['/t/java'],Aliasing Bug,http://martinfowler.com/bliki/AliasingBug.html,/u/pushcx,7
+9,2016-11-14 07:11:14 -0600,['/t/ml'],Four years of OCaml in production [2015],http://engineering.issuu.com/2015/09/17/ocaml-production.html,/u/unbalancedparentheses,10
+0,2016-11-14 11:18:56 -0600,"['/t/cogsci', '/t/math', '/t/programming', '/t/science']",Statistical Literacy and You: An Intro for Programmers · Schneems,http://schneems.com/2016/10/14/statistical-lit.html,/u/schneems,6
+1,2016-11-14 12:20:22 -0600,"['/t/c', '/t/rust']",Rapid prototyping C applications with Rust,https://rust-leipzig.github.io/cargo/2016/11/13/rapid-prototyping-c-applications/,/u/niko2342,9
+2,2016-11-14 15:08:30 -0600,['/t/release'],sirnewton01/rpi-9front - Plan 9 front for raspberry pi with golang support.,https://github.com/sirnewton01/rpi-9front,/u/sevan,5
+5,2016-11-14 00:48:54 -0600,"['/t/hardware', '/t/lisp']",Tiny Lisp Computer 2,http://www.technoblogy.com/show?1INT,/u/wally,20
+2,2016-11-14 12:00:54 -0600,['/t/security'],Online password guessing threat underestimated,http://www.lancaster.ac.uk/news/articles/2016/online-password-guessing-threat-underestimated/,/u/fcbsd,5

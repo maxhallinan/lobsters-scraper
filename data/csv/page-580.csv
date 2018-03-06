@@ -1,0 +1,25 @@
+0,2016-12-02 14:08:11 -0600,"['/t/video', '/t/graphics', '/t/javascript', '/t/web']",Future of 3D scientific charts using WebGL,https://www.youtube.com/watch?v=rFjszW5L2aw,/u/ngoldbaum,5
+1,2016-12-02 01:11:51 -0600,"['/t/event', '/t/privacy']",Notes from November 28 meetup of Bay Area Tech Solidarity,https://sfbay.techsolidarity.org/2016/11/28/meeting_notes.htm,/u/calmbeard,18
+32,2016-12-01 07:25:46 -0600,"['/t/c', '/t/programming']",Let’s stop copying C,https://eev.ee/blog/2016/12/01/lets-stop-copying-c/,/u/jamesnvc,68
+2,2016-12-02 04:11:33 -0600,"['/t/devops', '/t/networking']",IPv6 Support for AWS EC2 Instances in Virtual Private Clouds,https://aws.amazon.com/blogs/aws/new-ipv6-support-for-ec2-instances-in-virtual-private-clouds/,/u/henkjan,11
+0,2016-12-02 19:23:13 -0600,['/t/programming'],Validating State Machines,https://www.tbray.org/ongoing/When/201x/2016/12/01/J2119-Validator,/u/jitterted,2
+0,2016-12-02 16:04:27 -0600,"['/t/practices', '/t/web']",Insisting on Core Development Principles,http://alistapart.com/article/insisting-on-core-development-principles,/u/flyingfisch,2
+0,2016-12-02 14:29:58 -0600,"['/t/haskell', '/t/release']",Latest additions to Megaparsec,https://mrkkrp.github.io/posts/latest-additions-to-megaparsec.html,/u/pushcx,2
+13,2016-12-01 17:14:14 -0600,"['/t/practices', '/t/privacy']",​Mozilla puts new money to use fighting for 'internet health',https://www.cnet.com/news/mozilla-money-internet-health-politics-net-neutrality-privacy-encryption/,/u/pizzaiolo,13
+0,2016-12-02 05:54:29 -0600,"['/t/slides', '/t/math']",Reinventing Fast Inverse Roots Using 8th Grade Math,http://www.bullshitmath.lol/FastRoot.slides.html#/,/u/calvin,6
+0,2016-12-02 12:47:39 -0600,"['/t/person', '/t/practices', '/t/privacy']","Cypherpunk Hammy Havoc's take on privacy, open-source society, and true self-sustenance",http://recountmagazine.com/cypherpunk-hammy-havocs-take-on-privacy-open-source-society-and-true-self-sustenance/,/u/pizzaiolo,2
+3,2016-12-01 07:56:23 -0600,"['/t/debugging', '/t/python', '/t/visualization']",How the Circle Line rogue train was caught with data,https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a,/u/calvin,36
+0,2016-12-02 06:18:20 -0600,"['/t/linux', '/t/mac', '/t/release', '/t/windows']",nvpy 1.0.0 has been released!,https://cpbotha.net/2016/12/02/nvpy-1-0-0-has-been-released/,/u/jackivan88,3
+0,2016-12-02 05:44:40 -0600,"['/t/browsers', '/t/graphics', '/t/security', '/t/windows']","First stop: AMD — bluescreen via WebGL, and more",https://medium.com/@afd_icl/first-stop-amd-bluescreen-via-webgl-and-more-ba3eaf76c5fb,/u/calvin,3
+3,2016-12-01 10:09:42 -0600,"['/t/event', '/t/programming']",24 Pull Requests,https://24pullrequests.com,/u/andrewnez,17
+0,2016-12-02 06:19:05 -0600,"['/t/pdf', '/t/networking', '/t/scaling']",The NIST Definition of Cloud Computing (2011),http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf,/u/mjturner,2
+3,2016-12-01 09:23:42 -0600,"['/t/devops', '/t/practices']",Jenkins Job DSL - How to automate Jenkins!,http://www.appliscale.io/blog/jenkins-job-dsl-automate-jenkins/,/u/skamander,7
+0,2016-12-02 02:59:45 -0600,['/t/elixir'],"Released: benchee 0.6.0, benchee_csv 0.5.0, benchee_json and benchee_html – HTML reports and nice graphs!",https://pragtob.wordpress.com/2016/12/01/released-benchee-0-6-0-benchee_csv-0-5-0-benchee_json-and-benchee_html-html-reports-and-nice-graphs/,/u/PragTob,1
+1,2016-12-01 09:15:47 -0600,"['/t/slides', '/t/security']",Time to Grow Up: Counterproductive Security Behaviors That Must End,https://speakerdeck.com/chriseng/time-to-grow-up-counterproductive-security-behaviors-that-must-end,/u/jennifer,17
+12,2016-11-30 23:48:39 -0600,"['/t/event', '/t/programming']",Advent of Code 2016,http://adventofcode.com/2016,/u/friendlysock,26
+0,2016-12-01 20:23:50 -0600,['/t/security'],OSS-Fuzz: Continuous Fuzzing for Open Source Software,https://testing.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html,/u/worr,4
+3,2016-12-01 02:46:28 -0600,['/t/rust'],Zero-cost abstractions,https://ruudvanasseldonk.com/2016/11/30/zero-cost-abstractions,/u/akalin,17
+0,2016-12-01 16:13:30 -0600,"['/t/android', '/t/security']",BitUnmap: Attacking Android Ashmem,https://googleprojectzero.blogspot.com/2016/12/bitunmap-attacking-android-ashmem.html,/u/lattera,5
+0,2016-12-01 07:59:31 -0600,"['/t/compsci', '/t/dotnet']",15 Years of Concurrency,http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/,/u/craigstuntz,13
+0,2016-12-01 09:49:20 -0600,"['/t/event', '/t/virtualization']",QEMU Advent Calendar 2016 - Day 1,http://www.qemu-advent-calendar.org/2016/,/u/halosghost,10
+7,2016-12-01 13:17:16 -0600,"['/t/meta', '/t/python']",Why do Python stories get no love?,/s/djmaaf/why_do_python_stories_get_no_love,/u/feoh,3

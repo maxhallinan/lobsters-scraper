@@ -1,0 +1,25 @@
+3,2017-05-22 11:53:24 -0500,"['/t/dotnet', '/t/release']",Mono 5 adds new concurrent garbage collector,http://www.mono-project.com/news/2017/05/17/concurrent-gc-news/,/u/wipi,15
+0,2017-05-22 17:11:22 -0500,"['/t/graphics', '/t/javascript']",Making of: Line drawing tutorial,http://www.redblobgames.com/making-of/line-drawing/,/u/pushcx,9
+0,2017-05-22 10:44:13 -0500,['/t/elixir'],Streaming Data with Ecto,http://joeellis.la/streaming-with-ecto/,/u/notjoeellis,10
+0,2017-05-22 20:11:16 -0500,['/t/law'],Supreme Court Ruling Could Hinder ‘Patent Trolls’,https://www.nytimes.com/2017/05/22/business/supreme-court-patent-lawsuit.html,/u/grahamc,6
+2,2017-05-22 12:07:30 -0500,['/t/release'],GNU Guix and GuixSD 0.13.0 released,https://www.gnu.org/software/guix/news/gnu-guix-and-guixsd-0.13.0-released.html,/u/pizzaiolo,10
+0,2017-05-23 00:15:23 -0500,"['/t/education', '/t/web']",Memcached-Backed Content Infrastructure at Khan Academy,http://engineering.khanacademy.org/posts/memcached-fms.htm,/u/nickfrostatx,3
+0,2017-05-22 10:12:33 -0500,"['/t/api', '/t/distributed', '/t/networking']","Universal API for Realtime was not so “universal”, so we forked it",https://blog.ably.io/relaunching-the-universal-api-for-realtime-ab36ed749378,/u/mattheworiordan,7
+1,2017-05-22 19:01:50 -0500,['/t/compsci'],On The Turing Completeness of MS PowerPoint,https://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf,/u/pushcx,4
+0,2017-05-23 00:02:57 -0500,"['/t/culture', '/t/distributed', '/t/person', '/t/programming']",The Nomad Who’s Exploding the Internet Into Pieces,https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/,/u/kodo,5
+0,2017-05-22 10:14:02 -0500,['/t/haskell'],Type Class Patterns and Anti-patterns,https://medium.com/@jonathangfischoff/type-class-patterns-and-anti-patterns-efd045c5af66,/u/pushcx,12
+0,2017-05-22 10:51:10 -0500,['/t/go'],The X-Files: Exploring the Golang Standard Library Sub-Repositories,http://rodaine.com/2017/05/x-files-intro/,/u/twoism,9
+1,2017-05-22 09:51:11 -0500,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/formalmethods', '/t/programming']","An Empirical Study of the Correctness of Formally-Verified, Distributed Systems",https://locore.cs.washington.edu/papers/fonseca-dsbugs.pdf,/u/nickpsecurity,10
+1,2017-05-23 02:54:40 -0500,['/t/culture'],A social coding experiment that updates its own code democratically,https://github.com/chaosbot/chaos,/u/qznc,2
+0,2017-05-22 15:35:35 -0500,"['/t/reversing', '/t/security']",me_cleaner: Tool for partial deblobbing of Intel ME/TXE firmware images,https://github.com/corna/me_cleaner,/u/petergao,3
+1,2017-05-22 07:54:58 -0500,['/t/dotnet'],Fun with pure C# and monads,https://blogs.msdn.microsoft.com/alazarev/2017/05/20/fun-with-pure-c-and-monads/,/u/calvin,6
+0,2017-05-22 05:42:22 -0500,['/t/c++'],Understanding Virtual Tables In C++,http://ariasalpablo.blogspot.com/2017/05/understanding-virtual-tables-in-c.html,/u/calvin,9
+38,2017-05-21 05:19:55 -0500,['/t/web'],Scott Gilbertson: 'Kill Google AMP Before It Kills the Web',https://daringfireball.net/linked/2017/05/20/gilbertson-amp,/u/calvin,62
+0,2017-05-22 07:05:46 -0500,"['/t/haskell', '/t/programming']",Functional Design and Architecture,https://www.reddit.com/r/haskell/comments/6ck72h/functional_design_and_architecture/,/u/asthasr,6
+6,2017-05-22 12:27:03 -0500,"['/t/python', '/t/satire']",Python With No Colons,https://github.com/paradoxxxzero/nocolon,/u/aulloa,6
+2,2017-05-22 09:24:28 -0500,['/t/release'],GitHub Marketplace,https://github.com/marketplace,/u/pushcx,2
+2,2017-05-21 18:54:06 -0500,"['/t/show', '/t/python']",A Flask/AWS Rekognition implementation of Silicon Valley's 'Not Hot Dog' app,https://github.com/ryanml/NotHotDog,/u/drconglomerate,8
+0,2017-05-22 02:18:07 -0500,['/t/devops'],The Calculus of Service Availability,http://queue.acm.org/detail.cfm?id=3096459,/u/adamo,7
+5,2017-05-21 07:52:12 -0500,['/t/historical'],Building a legacy search engine for a legacy protocol,https://blog.benjojo.co.uk/post/building-a-search-engine-for-gopher,/u/sevan,17
+1,2017-05-21 11:52:52 -0500,['/t/openbsd'],openbsd changes of note 622,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-622,/u/calvin,16
+0,2017-05-21 22:14:42 -0500,"['/t/historical', '/t/practices']",The 1992 London Ambulance Service Computer Aided Dispatch System Failure,http://erichmusick.com/writings/technology/1992-london-ambulance-cad-failure.html,/u/pushcx,5

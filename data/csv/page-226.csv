@@ -1,0 +1,25 @@
+0,2017-08-29 10:58:00 -0500,"['/t/release', '/t/ruby', '/t/security']",Multiple vulnerabilities in RubyGems,https://www.ruby-lang.org/en/news/2017/08/29/multiple-vulnerabilities-in-rubygems/,/u/pushcx,14
+0,2017-08-30 05:48:49 -0500,['/t/databases'],An Introduction to MongoDB Replication and Replica Sets,https://www.vividcortex.com/blog/an-introduction-to-mongodb-replication-and-replica-sets,/u/pgl,1
+2,2017-08-29 09:02:01 -0500,['/t/programming'],An Introduction to the Crystal Programming Language,https://medium.com/@dailydrip/an-introduction-to-the-crystal-programming-language-b9e0222b5b5e,/u/knewter,7
+0,2017-08-29 15:47:15 -0500,"['/t/art', '/t/linux']",lnxpcs - GNU/Linux/OpenSource related pictures,https://github.com/jstpcs/lnxpcs,/u/indigo,5
+0,2017-08-29 17:30:57 -0500,"['/t/hardware', '/t/reversing']","Coreboot and Skylake, part 2: A Beautiful Game",https://puri.sm/posts/coreboot-on-the-skylake-librems-part-2/,/u/chadski,4
+5,2017-08-29 05:10:46 -0500,"['/t/pdf', '/t/c++']",Resumable Expressions,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0114r0.pdf,/u/ngrilly,7
+0,2017-08-29 09:30:15 -0500,"['/t/release', '/t/vcs']",Release notes extension for Mercurial,https://medium.com/@rishabhmadan/working-with-mercurial-gsoc17-145be9a54838,/u/JordiGH,8
+0,2017-08-29 14:27:11 -0500,"['/t/programming', '/t/ruby']",Careful what you measure: 2.1 times slower to 4.2 times faster – MJIT versus Truffle Ruby,https://pragtob.wordpress.com/2017/08/29/careful-what-you-measure-2-1-times-slower-to-4-2-times-faster-mjit-versus-truffle-ruby/,/u/PragTob,2
+0,2017-08-29 15:51:52 -0500,"['/t/culture', '/t/programming']",A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries,https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/,/u/mischa,6
+0,2017-08-28 09:58:16 -0500,"['/t/show', '/t/emacs', '/t/release']",An Emacs front-end for lobste.rs with ivy,https://github.com/julienXX/ivy-lobsters,/u/julienXX,48
+0,2017-08-29 05:54:20 -0500,"['/t/javascript', '/t/programming']","Redux, Firebase and the Saga in between",https://medium.com/rumors/redux-firebase-and-the-saga-in-between-c2bd5adf6de1,/u/Olevy,5
+0,2017-08-29 21:16:18 -0500,"['/t/design', '/t/release']",Apple: Augmented Reality Human Interface Guidelines,https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/,/u/kevinSuttle,1
+1,2017-08-29 04:49:19 -0500,['/t/programming'],"""Clean code"" isn't actually clean",https://sdegutis.com/blog/2017-08-28-clean-code-isnt-actually-clean/,/u/calvin,5
+0,2017-08-29 20:12:21 -0500,"['/t/video', '/t/person', '/t/practices']","Progression, Curiosity, and Burnout with Dan Abramov",https://tylermcginnis.com/podcast/dan-abramov/,/u/calvin,1
+0,2017-08-29 19:06:40 -0500,['/t/mobile'],Where in the World is Mobile Development?,https://stackoverflow.blog/2017/08/22/world-mobile-development/,/u/adsouza,1
+3,2017-08-28 17:47:38 -0500,"['/t/programming', '/t/rust']",Generator (Coroutine) support merged in Rust,https://github.com/rust-lang/rust/pull/43076,/u/klingtnet,24
+0,2017-08-29 15:07:19 -0500,"['/t/privacy', '/t/security']",Inside the Massive 711 Million Record Onliner Spambot Dump,https://www.troyhunt.com/inside-the-massive-711-million-record-onliner-spambot-dump/,/u/pgl,2
+7,2017-08-28 05:17:10 -0500,['/t/practices'],Software development 450 words per minute,https://www.vincit.fi/en/blog/software-development-450-words-per-minute/,/u/calvin,75
+0,2017-08-29 14:41:57 -0500,['/t/ai'],Machine Learning Explained,http://rodneybrooks.com/forai-machine-learning-explained/,/u/mjn,2
+1,2017-08-29 06:16:33 -0500,['/t/javascript'],Broken Promises – Aldwin Vlasblom,https://medium.com/@avaq/broken-promises-2ae92780f33,/u/amsross,5
+0,2017-08-29 14:25:15 -0500,['/t/ruby'],"Introducing We::Call, a Ruby Gem for making HTTP calls awesome",https://engineering.wework.com/introducing-we-call-a-ruby-gem-for-making-http-calls-awesome-4ce3f7e54f46,/u/soulcutter,1
+24,2017-08-28 08:09:44 -0500,"['/t/ask', '/t/practices']",What are you working on this week?,/s/icxbky/what_are_you_working_on_this_week,/u/mjn,22
+3,2017-08-28 10:29:12 -0500,"['/t/hardware', '/t/security']",Disabling Intel ME 11 via undocumented mode,http://blog.ptsecurity.com/2017/08/disabling-intel-me.html,/u/pgl,28
+0,2017-08-29 06:29:24 -0500,"['/t/go', '/t/performance']",An adventure in trying to optimize math.Atan2 with Go assembly,http://agniva.me/go/2017/08/27/fun-with-go-assembly.html,/u/nathankerr,3
+30,2017-08-28 04:20:59 -0500,['/t/mac'],My wonderful world of macOS,https://github.com/nikitavoloboev/my-mac-os,/u/pgl,29

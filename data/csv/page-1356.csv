@@ -1,0 +1,25 @@
+14,2014-04-03 17:12:14 -0500,['/t/python'],Pyston: A JIT-based Python Implementation,https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/,/u/wting,10
+2,2014-04-03 23:20:40 -0500,"['/t/pdf', '/t/slides', '/t/security']",Breaking Antivirus Software,http://mincore.c9x.org/breaking_av_software.pdf,/u/kyle,7
+2,2014-04-03 11:54:29 -0500,"['/t/compilers', '/t/dotnet']",Roslyn C# Compiler Is Open Source,http://roslyn.codeplex.com/,/u/kellogh,24
+0,2014-04-04 12:43:15 -0500,"['/t/devops', '/t/networking']",MiniNet as an SDN test platform,http://www.routereflector.com/2013/11/mininet-as-an-sdn-test-platform/,/u/bowyakka,1
+0,2014-04-03 16:57:58 -0500,"['/t/slides', '/t/security']",when AES(☢) = ☠ - a crypto-binary magic trick,http://www.slideshare.net/ange4771/when-aes-a-cryptobinary-magic-trick,/u/kyle,14
+0,2014-04-03 13:39:07 -0500,['/t/rust'],Rust 0.10 Released,https://mail.mozilla.org/pipermail/rust-dev/2014-April/009387.html,/u/kellogh,18
+0,2014-04-03 19:57:06 -0500,"['/t/devops', '/t/linux', '/t/lua', '/t/networking']",Sysdig - a new system troubleshooting tool,http://www.sysdig.org/,/u/antifuchs,8
+0,2014-04-04 09:12:32 -0500,"['/t/ruby', '/t/security']",Security ruby code scanner,http://dawn.codesake.com/blog/announce-codesake-dawn-v1-1-0-released/,/u/jm,1
+0,2014-04-03 18:48:11 -0500,"['/t/book', '/t/release', '/t/vcs']",GitBook: Build beautiful programming books and exercises using GitHub/Git and Markdown.,http://www.gitbook.io/,/u/edward,7
+2,2014-04-03 11:03:35 -0500,"['/t/databases', '/t/finance', '/t/release']",Kx Systems announces free version of its database software and programming language,http://kx.com/press-releases-140402.php,/u/chneukirchen,14
+1,2014-04-03 13:36:36 -0500,"['/t/databases', '/t/linux']",Subtly Bad Things Linux May Be Doing To PostgreSQL,http://rhaas.blogspot.in/2014/04/subtly-bad-things-linux-may-be-doing-to.html,/u/journeysquid,8
+1,2014-04-03 15:14:12 -0500,"['/t/dotnet', '/t/haskell']",Better dictionary types,http://bugsquash.blogspot.com/2014/03/better-dictionary-types.html,/u/puffnfresh,4
+6,2014-04-02 21:01:55 -0500,['/t/linux'],Linux Kernel Developers Fed Up With Ridiculous Bugs In Systemd,http://www.phoronix.com/scan.php?page=news_item&px=MTY1MzA,/u/journeysquid,29
+2,2014-04-03 13:36:12 -0500,['/t/meta'],Top stories on Lobste.rs by week / month,https://lobste.rs/top/2w,/u/hrjet,11
+0,2014-04-03 13:47:34 -0500,"['/t/javascript', '/t/security']",Cure53 security audit of openpgp.js,https://github.com/openpgpjs/openpgpjs/wiki/Cure53-security-audit,/u/kyle,4
+0,2014-04-03 16:30:30 -0500,"['/t/c', '/t/programming']",The LLVM Foundation,http://blog.llvm.org/2014/04/the-llvm-foundation.html,/u/glhaynes,1
+0,2014-04-03 16:02:06 -0500,"['/t/api', '/t/programming']",Uploadcare on Social Networks and Cloud Servers Security,http://blog.uploadcare.com/post/81579175736/uploadcare-on-social-networks-and-cloud-servers,/u/id,1
+1,2014-04-02 21:22:54 -0500,"['/t/pdf', '/t/distributed']",Rediscovering Distributed Systems,http://steve.vinoski.net/pdf/IC-Rediscovering-Distributed-Systems.pdf,/u/SeanTAllen,12
+8,2014-04-02 14:49:10 -0500,['/t/hardware'],Crowdfunding the Novena Open Laptop,http://www.bunniestudios.com/blog/?p=3657,/u/jturner,15
+2,2014-04-02 20:57:36 -0500,['/t/dotnet'],Announcing .NET Native Preview,http://blogs.msdn.com/b/dotnet/archive/2014/04/02/announcing-net-native-preview.aspx,/u/kellogh,8
+0,2014-04-03 12:47:44 -0500,"['/t/math', '/t/python']",Outlier Detection in Time-Series Signals using FFT and Median Filtering,http://bugra.github.io/work/notes/2014-03-31/outlier-detection-in-time-series-signals-fft-median-filtering/,/u/jm,1
+0,2014-04-03 12:36:48 -0500,['/t/event'],Philly Tech Week starts tomorrow,http://2014.phillytechweek.com,/u/tedu,1
+1,2014-04-02 20:17:50 -0500,['/t/security'],Least Authority security audit of CryptoCat,https://leastauthority.com/blog/least_authority_performs_security_audit_for_cryptocat.html,/u/patrickod,9
+3,2014-04-02 09:58:54 -0500,"['/t/databases', '/t/programming', '/t/scaling']","Manhattan, our real-time, multi-tenant distributed database for Twitter scale",https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale,/u/BruceM,16
+10,2014-04-02 11:17:03 -0500,"['/t/devops', '/t/distributed', '/t/scaling']","Share Nothing, Scale Everything",https://blog.engineyard.com/2014/scale-everything,/u/nslater,11

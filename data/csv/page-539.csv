@@ -1,0 +1,25 @@
+0,2017-01-08 17:52:55 -0600,"['/t/programming', '/t/release']",Nim Version 0.16 released,http://nim-lang.org/news/e029_version_0_16_0.html,/u/hypepat,16
+0,2017-01-09 08:20:44 -0600,['/t/python'],Minimalist measurement of python code time,https://github.com/ramonsaraiva/timy,/u/ramon,1
+0,2017-01-09 12:54:52 -0600,"['/t/devops', '/t/practices']",Passing the Console: Fostering the Next Generation of Ops Professionals,https://www.usenix.org/conference/lisa16/conference-program/presentation/goldfuss,/u/sevan,1
+0,2017-01-08 19:35:26 -0600,['/t/security'],"SGX: the good, the bad and the downright ugly",https://www.virusbulletin.com/virusbulletin/2014/01/sgx-good-bad-and-downright-ugly,/u/calvin,9
+3,2017-01-08 14:01:43 -0600,"['/t/pdf', '/t/security']",HEIST: HTTP Encrypted Information can be Stolen through TCP-windows,https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf,/u/mr-foobar,11
+0,2017-01-08 16:45:26 -0600,"['/t/browsers', '/t/ios', '/t/web']",Understanding iOS Universal Links,https://techanic.net/2017/01/08/understanding_ios_universal_links.html,/u/segfault,5
+6,2017-01-08 07:30:27 -0600,"['/t/go', '/t/programming']",Go is TIOBE's programming language of 2016,http://www.tiobe.com/tiobe-index/,/u/nhooyr,11
+11,2017-01-08 05:25:25 -0600,['/t/windows'],"Reclaim Windows 10 - removes unnecessary telemetery, bloatware and privacy invasions",https://gist.github.com/alirobe/7f3b34ad89a159e6daa1,/u/av,13
+1,2017-01-08 10:43:05 -0600,['/t/science'],[Binary] star predicted to explode in 2022,http://earthsky.org/space/star-predicted-to-explode-in-2022,/u/k749gtnc9l3w,14
+0,2017-01-08 13:13:57 -0600,"['/t/video', '/t/games', '/t/historical']",From Monkey Island to Broken Age - A (very) short history of adventure game tech.,https://www.youtube.com/watch?v=38kpv_TYRKE,/u/gandro,7
+0,2017-01-08 16:45:19 -0600,['/t/security'],When fictional worlds are accurate representations of IoT security,https://learntemail.sam.today/blog/peak-internet-of-shit-all-but-one-watch-dogs-2-hack-works-in-real-life/,/u/samtoday,2
+2,2017-01-07 20:21:49 -0600,"['/t/video', '/t/practices', '/t/programming']",Boundaries (2012),https://www.destroyallsoftware.com/talks/boundaries,/u/Kronopath,22
+8,2017-01-07 20:09:44 -0600,"['/t/law', '/t/security']","Unsecure routers, webcams prompt feds to sue D-Link",http://arstechnica.com/tech-policy/2017/01/unsecure-routers-webcams-prompt-feds-to-sue-d-link/,/u/calvin,13
+4,2017-01-07 19:23:55 -0600,"['/t/video', '/t/math']",Category Theory for Programmers,https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_,/u/Screwtape,13
+4,2017-01-07 10:29:57 -0600,"['/t/video', '/t/javascript', '/t/programming', '/t/ruby']",wat (2012),https://www.destroyallsoftware.com/talks/wat,/u/nhooyr,53
+5,2017-01-07 17:44:52 -0600,"['/t/security', '/t/web']",GitHub Enterprise SQL Injection,http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html,/u/djm,13
+1,2017-01-08 05:24:15 -0600,['/t/perl'],"With the Rise of DevOps, Perl Shows Its Muscle",http://www.i-programmer.info/programming/perl/9649-with-the-rise-of-devops-perl-shows-its-muscle.html,/u/av,3
+8,2017-01-07 12:25:53 -0600,['/t/security'],Geek Squad employees search your hard drive for chance at FBI bounty,http://www.ocweekly.com/news/best-buy-geek-squad-informant-use-has-fbi-on-defense-in-child-porn-case-7794252,/u/kb,21
+0,2017-01-08 05:23:41 -0600,['/t/web'],"Master web development with these 9,985 weird tricks",https://medium.com/@david.gilbertson/master-web-development-with-these-9-985-weird-tricks-77c71d1d96f3,/u/av,5
+0,2017-01-07 20:37:03 -0600,"['/t/debugging', '/t/reversing']",Cracking Sublime Text 3,http://blog.fernandodominguez.me/cracking-sublime-text-3/,/u/calvin,14
+0,2017-01-08 05:20:20 -0600,"['/t/lisp', '/t/programming']",Meta-Circular Adventures in Functional Abstraction,https://chriskohlhepp.wordpress.com/functional-programming-section/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/,/u/av,5
+2,2017-01-07 21:40:39 -0600,['/t/python'],Making the Python REPL output Pretty,http://jasonamyers.github.io//2017/default-to-pprint-python-repl/,/u/pushcx,8
+0,2017-01-08 09:05:05 -0600,['/t/css'],Number Clamp in EQCSS,http://codepen.io/tomhodgins/pen/ALWaVr,/u/innovati,1
+2,2017-01-07 07:34:25 -0600,"['/t/debugging', '/t/rust']",American Fuzzy Lop’ing Rust,http://blog.troutwine.us/2017/01/06/american-fuzzy-loping-rust/,/u/whbboyd,37
+0,2017-01-07 19:44:58 -0600,"['/t/hardware', '/t/historical']",Inside the 74181 ALU chip: die photos and reverse engineering,http://www.righto.com/2017/01/die-photos-and-reverse-engineering.html,/u/pushcx,9

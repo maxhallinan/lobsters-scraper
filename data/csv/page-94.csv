@@ -1,0 +1,25 @@
+3,2017-12-14 17:01:20 -0600,"['/t/elixir', '/t/erlang', '/t/event']",All repos from spawnfest 2017 are public now,https://goo.gl/RfaLwJ,/u/elbrujohalcon,8
+3,2017-12-14 07:42:11 -0600,"['/t/compsci', '/t/elm', '/t/testing']",Fuzzy Thinking: Fuzz Testing and Formal Grammar,https://maxhallinan.com/posts/2017/12/09/fuzzy-thinking/,/u/maxhallinan,15
+2,2017-12-14 10:04:40 -0600,"['/t/graphics', '/t/science']",Psychology vs the graphics pipeline,http://scattered-thoughts.net/blog/2017/12/11/psychology-vs-the-graphics-pipeline/,/u/pushcx,16
+0,2017-12-14 13:21:06 -0600,['/t/practices'],"An epic treatise on scheduling, bug tracking, and triage",http://apenwarr.ca/log/?m=201712,/u/NinjaTrappeur,13
+1,2017-12-14 06:47:42 -0600,['/t/programming'],Dynamic tracing a Pony + Python program with DTrace,https://blog.wallaroolabs.com/2017/12/dynamic-tracing-a-pony---python-program-with-dtrace/,/u/SeanTAllen,21
+0,2017-12-14 18:15:58 -0600,['/t/crypto'],Layman's Guide to Elliptic Curve Digital Signatures,https://www.royalfork.org/2014/09/04/ecc/,/u/erin,7
+1,2017-12-14 13:40:24 -0600,"['/t/networking', '/t/security']",“Suspicious” event routes traffic for big-name sites through Russia,https://arstechnica.com/information-technology/2017/12/suspicious-event-routes-traffic-for-big-name-sites-through-russia/,/u/vyodaiken,7
+4,2017-12-14 12:23:01 -0600,['/t/law'],The FCC just killed net neutrality,https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed,/u/calvin,5
+11,2017-12-13 20:46:48 -0600,"['/t/finance', '/t/practices']","We [Patreon] messed up. We’re sorry, and we’re not rolling out the fees change.",https://blog.patreon.com/not-rolling-out-fees-change/,/u/oz,22
+1,2017-12-14 04:14:25 -0600,['/t/javascript'],TypeScript 2.4: Spelling Correction,https://blog.mariusschulz.com/2017/12/08/typescript-2-4-spelling-correction,/u/mariusschulz,9
+2,2017-12-14 09:58:57 -0600,"['/t/compsci', '/t/programming']",Parsing with derivatives - Elegant matching of regular languages in clojure,http://blog.klipse.tech//clojure/2016/10/02/parsing-with-derivatives-regular.html,/u/zdsmith,6
+3,2017-12-14 09:55:03 -0600,"['/t/devops', '/t/go', '/t/python']",Dubsmash's road to 200 million users with 3 engineers,https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers,/u/tschellenbach,5
+0,2017-12-14 14:44:50 -0600,['/t/linux'],A thorough introduction to eBPF,https://lwn.net/Articles/740157/,/u/hawski,4
+0,2017-12-15 05:40:23 -0600,['/t/security'],TRITON Malware Targeting Critical Infrastructure Could Cause Physical Damage,https://thehackernews.com/2017/12/triton-ics-scada-malware.html,/u/utzig,0
+1,2017-12-14 12:55:24 -0600,['/t/security'],Attackers Deploy New ICS Attack Framework “TRITON”,https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html,/u/lattera,3
+16,2017-12-14 12:37:48 -0600,"['/t/pdf', '/t/culture']",The Barriers to Overthrowing Internet Feudalism,http://www1.icsi.berkeley.edu/~barath/papers/feudalism-hotnets17.pdf,/u/mjn,8
+1,2017-12-14 08:22:10 -0600,"['/t/pdf', '/t/compsci', '/t/formalmethods', '/t/programming']",Refinement Reflection: Complete Verification with SMT (2017),https://arxiv.org/pdf/1711.03842.pdf,/u/nickpsecurity,6
+0,2017-12-14 04:34:29 -0600,"['/t/practices', '/t/python']",Who should see Python deprecation warnings?,https://lwn.net/Articles/740804/,/u/quobit,9
+7,2017-12-13 12:04:00 -0600,"['/t/show', '/t/law', '/t/web']",Custom site breaker for tomorrow's Net Neutrality vote,https://github.com/taoeffect/break-the-net,/u/itistoday,15
+0,2017-12-14 05:47:34 -0600,['/t/dotnet'],"C# 7 Series, Part 7: Ref Returns",https://blogs.msdn.microsoft.com/mazhou/2017/12/12/c-7-series-part-7-ref-returns/,/u/calvin,7
+0,2017-12-14 07:18:06 -0600,"['/t/rust', '/t/web']",Writing a CHIP-8 emulator with Rust and WebAssembly,http://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html,/u/azdle,5
+10,2017-12-13 09:05:58 -0600,"['/t/browsers', '/t/privacy']",What is Looking Glass?,https://www.reddit.com/r/firefox/comments/7jh9rv/what_is_looking_glass/,/u/lordgilman,26
+14,2017-12-13 10:35:44 -0600,"['/t/crypto', '/t/haskell']",On the state of cryptography in Haskell,https://leonmergen.com/on-the-state-of-cryptography-in-haskell-c272fb0b6478,/u/pushcx,20
+0,2017-12-14 08:23:32 -0600,"['/t/audio', '/t/pdf', '/t/slides', '/t/compsci', '/t/hardware', '/t/programming', '/t/security']",F9: Secure Microkernel for Deeply-Embedded Devices (2017),https://archive.fosdem.org/2017/schedule/event/microkernel_microkernel_for_embedded_devices/,/u/nickpsecurity,3
+0,2017-12-14 02:40:57 -0600,"['/t/ai', '/t/programming', '/t/python']",Introduction to Word Embeddings - word2vec,http://mubaris.com/2017/12/14/word2vec/,/u/mubaris,3

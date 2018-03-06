@@ -1,0 +1,25 @@
+0,2016-10-19 06:05:17 -0500,"['/t/pdf', '/t/security']",Securing your IT infrastructure by securing your team (2015),http://kernsec.org/files/lss2015/giant-bags-of-mostly-water.pdf,/u/lithp,3
+3,2016-10-18 22:17:51 -0500,"['/t/law', '/t/privacy']",The Perpetual Line-Up,https://www.perpetuallineup.org/,/u/pushcx,4
+4,2016-10-18 09:23:56 -0500,['/t/release'],Disney Open Source,http://disney.github.io,/u/sevan,23
+0,2016-10-19 06:14:58 -0500,"['/t/databases', '/t/javascript', '/t/nodejs', '/t/programming']",Redis Pub/Sub: Node.js Guide,http://www.redisgreen.net/blog/pubsub-howto/,/u/bpo,1
+0,2016-10-19 06:11:45 -0500,"['/t/linux', '/t/security']",CVE-2016-6187: Exploiting Linux kernel heap off-by-one,https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit,/u/sagi,2
+0,2016-10-18 14:44:39 -0500,"['/t/compsci', '/t/haskell', '/t/math']",A Simple Embedded Probabilistic Programming Language,http://jtobin.ca/simple-probabilistic-programming,/u/jtobin,6
+3,2016-10-18 15:45:44 -0500,"['/t/devops', '/t/networking', '/t/release']",Introducing Veneur: high performance and global aggregation for Datadog,https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog,/u/antifuchs,6
+0,2016-10-19 04:59:47 -0500,['/t/culture'],Racial and gender gaps in computer science learning,https://blog.google/topics/education/racial-and-gender-gaps-computer-science-learning-new-google-gallup-research/,/u/adsouza,3
+2,2016-10-18 10:07:03 -0500,"['/t/video', '/t/practices']",10 Mistakes We Made In VoIP So They Don't Have To Do It In IoT,https://www.youtube.com/watch?v=T9AOUFwuTxM,/u/sevan,10
+1,2016-10-18 23:25:45 -0500,"['/t/law', '/t/practices', '/t/privacy']","NSA Lawyering, Oversight, and Compliance",https://www.lawfareblog.com/understanding-footnote-14-nsa-lawyering-oversight-and-compliance,/u/tedu,2
+0,2016-10-18 08:27:50 -0500,"['/t/elixir', '/t/erlang', '/t/hardware', '/t/programming']",BeamBA just Happened – Erlang Elixir Efene LFE Meetup @ Buenos Aires,https://medium.com/erlang-battleground/beamba-just-happened-807771987a2a,/u/elbrujohalcon,6
+20,2016-10-17 08:15:10 -0500,['/t/scala'],"""Why I quit working on Scala documentation""",https://groups.google.com/d/msg/scala-internals/r2GnzCFc3TY/x3PmIq4cAgAJ,/u/soc,38
+21,2016-10-17 16:15:50 -0500,['/t/ask'],What do you keybase.io for?,/s/rir2wu/what_do_you_keybase_io_for,/u/steveno,24
+42,2016-10-17 09:42:00 -0500,"['/t/openbsd', '/t/vcs']",OpenBSD is on GitHub now,https://github.com/openbsd,/u/romanzolotarev,48
+0,2016-10-18 16:01:47 -0500,['/t/math'],Helping Operations Researchers start young,http://mat.tepper.cmu.edu/blog/?p=9090,/u/tedu,3
+1,2016-10-18 09:56:15 -0500,"['/t/math', '/t/python']",Translating English Sentences into Propositional Logic Statements,https://nbviewer.jupyter.org/url/norvig.com/ipython/PropositionalLogic.ipynb,/u/pushcx,4
+0,2016-10-18 08:23:45 -0500,['/t/design'],How to Improve Your User Onboarding Flow,http://blog.runnable.com/post/151976507756/how-to-improve-your-user-onboarding-flow,/u/taylor,6
+5,2016-10-17 09:13:36 -0500,"['/t/show', '/t/rust']","watchexec: Rust-based file watcher for OS X, Linux, and Windows",https://github.com/mattgreen/watchexec,/u/mattgreenrocks,26
+0,2016-10-18 13:38:24 -0500,"['/t/assembly', '/t/games']",Assembly Cup,https://asmcup.github.io/,/u/calvin,2
+2,2016-10-18 01:43:03 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Efficient String Matching: An Aid to Bibliographic Search,https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf,/u/friendlysock,5
+2,2016-10-17 13:48:07 -0500,['/t/crypto'],"VeraCrypt audited, results published",https://ostif.org/the-veracrypt-audit-results/,/u/zigg,18
+11,2016-10-17 08:51:36 -0500,['/t/crypto'],The Cryptopals Crypto Challenges,https://cryptopals.com/,/u/FiloSottile,19
+40,2016-10-17 04:14:09 -0500,['/t/ask'],What are you working on this week?,/s/c1pc2c/what_are_you_working_on_this_week,/u/caius,22
+6,2016-10-17 07:18:12 -0500,"['/t/pdf', '/t/programming']",FORTRAN turned sixty years old this weekend,http://bitsavers.informatik.uni-stuttgart.de/pdf/ibm/704/704_FortranProgRefMan_Oct56.pdf,/u/prefork,14
+2,2016-10-17 05:47:00 -0500,"['/t/video', '/t/linux', '/t/security', '/t/windows']","""The Linux Kernel Hidden Inside Windows 10"" techtalk by Alex Ionescu",https://www.youtube.com/watch?v=_p3RtkwstNk,/u/calvin,19

@@ -1,0 +1,25 @@
+0,2015-08-26 17:50:40 -0500,"['/t/devops', '/t/scaling', '/t/web']",Dynamic log formats in nginx,https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html,/u/benwilber,3
+0,2015-08-26 17:13:00 -0500,['/t/security'],Mozilla InvestiGator,http://mig.mozilla.org/,/u/apg,6
+14,2015-08-25 18:33:16 -0500,['/t/c'],C Programming Substance Guidelines - AKA Everything You Need to Know to Write Good C Code,https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md,/u/xcombelle,33
+2,2015-08-26 16:46:23 -0500,"['/t/practices', '/t/programming']",Presentation Domain Data Layering,http://martinfowler.com/bliki/PresentationDomainDataLayering.html,/u/pushcx,3
+0,2015-08-26 09:44:03 -0500,"['/t/compsci', '/t/distributed', '/t/programming']",Paxos Made Moderately Complex,http://paxos.systems/,/u/pushcx,11
+0,2015-08-26 14:54:54 -0500,"['/t/pdf', '/t/java', '/t/programming']",So we thought we knew money,http://dddcommunity.org/wp-content/uploads/files/practitioner_reports/hu_ying_2007_01.pdf,/u/pushcx,5
+0,2015-08-26 09:31:11 -0500,"['/t/practices', '/t/programming']",The Chainline #7: Recovering from the Wrong Abstraction (Sandi Metz),http://us3.campaign-archive2.com/?u=1090565ccff48ac602d0a84b4&id=92902a19e4&e=7f00539c7d,/u/joshuacc,9
+0,2015-08-26 05:36:17 -0500,"['/t/databases', '/t/lisp', '/t/programming']",Conversations with Datomic - Part 3,http://gigasquidsoftware.com/blog/2015/08/25/converstations-with-datomic-3/,/u/carinmeier,6
+0,2015-08-26 14:58:19 -0500,"['/t/javascript', '/t/programming', '/t/web']",10 Steps for Ramping into Ember.js Quickly,https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/,/u/englishm,3
+5,2015-08-26 03:49:29 -0500,"['/t/reversing', '/t/security']",AFL quick start guide,http://lcamtuf.coredump.cx/afl/QuickStartGuide.txt,/u/fcambus,5
+5,2015-08-26 00:01:05 -0500,['/t/web'],Evolvr.io - IMDb for Products.,https://www.evolvr.io/,/u/dtsdwarak,8
+3,2015-08-25 19:22:00 -0500,"['/t/pdf', '/t/security']",A Graduate Course in Applied Cryptography,https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf,/u/kyle,12
+1,2015-08-25 19:59:57 -0500,"['/t/c', '/t/programming']",Indices point between elements,https://blog.nelhage.com/2015/08/indices-point-between-elements,/u/antifuchs,13
+7,2015-08-25 13:03:55 -0500,['/t/lisp'],"State of the Common Lisp Ecosystem, 2015",http://eudoxia.me/article/common-lisp-sotu-2015,/u/kyle,15
+11,2015-08-25 08:01:17 -0500,"['/t/dotnet', '/t/openbsd', '/t/security']",Microsoft CoreFoundation arc4random(),https://github.com/Microsoft/WinObjC/blob/59a63e42a9d10da8aadbf8d3b6c10fd02e6b40c6/Frameworks/CoreFoundation/CFMisc.mm#L28,/u/journeysquid,19
+12,2015-08-25 09:49:21 -0500,"['/t/pdf', '/t/practices']",The impact of background music on adult listeners: A meta-analysis,https://www.dropbox.com/s/ny6r5x32albjn3t/2011-kampfe.pdf,/u/pushcx,14
+1,2015-08-25 10:35:20 -0500,"['/t/linux', '/t/security']",How to crack Ubuntu disk encryption and passwords,http://cybermashup.com/2015/08/25/how-to-crack-ubuntu-disk-encryption-and-passwords/,/u/pushcx,20
+11,2015-08-25 09:43:16 -0500,"['/t/compsci', '/t/programming']",The Technical Interview Cheat Sheet,https://gist.github.com/TSiege/cbb0507082bb18ff7e4b,/u/av,13
+1,2015-08-25 21:22:44 -0500,"['/t/cogsci', '/t/security']",“Logic Check” — Fixing Communication Through Deep Learning,https://fixingtao.com/2015/08/logic-check-fixing-communication-through-deep-learning/,/u/itistoday,2
+7,2015-08-25 11:21:27 -0500,"['/t/compsci', '/t/javascript', '/t/programming']","Descartes, Berkeley and Functional Reactive Programming",https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d,/u/pushcx,9
+1,2015-08-25 17:17:52 -0500,['/t/practices'],Insightful graph: The ship date predictor,http://blogs.msdn.com/b/oldnewthing/archive/2015/08/24/10637017.aspx,/u/calvin,7
+0,2015-08-25 20:09:22 -0500,"['/t/book', '/t/emacs']",The Craft of Text Editing,http://www.finseth.com/craft/,/u/antifuchs,6
+2,2015-08-25 23:07:22 -0500,"['/t/ios', '/t/practices', '/t/privacy']",Proactive intelligence in iOS 9,http://www.computerworld.com/article/2973682/data-privacy/the-shocking-truth-about-proactive-intelligence-in-ios-9.html,/u/pushcx,2
+1,2015-08-25 14:08:45 -0500,"['/t/compilers', '/t/haskell', '/t/math']",Building a probabilistic programming interpreter,http://zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/,/u/jtobin,9
+3,2015-08-25 00:47:53 -0500,"['/t/javascript', '/t/web']",querySelectorAll from an element probably doesn't do what you think it does,https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html,/u/lvh,17

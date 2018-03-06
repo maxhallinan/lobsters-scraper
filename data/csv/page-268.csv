@@ -1,0 +1,25 @@
+0,2017-07-31 04:22:27 -0500,"['/t/security', '/t/windows']",[BUG] Windows 10 default user profile is potentially writable by everyone,https://beingwinsysadmin.blogspot.com/2017/07/bug-windows-10-default-user-profile-is.html,/u/fcbsd,1
+0,2017-07-30 16:02:06 -0500,"['/t/javascript', '/t/virtualization', '/t/visualization']",Visual 6502 in JavaScript,http://www.visual6502.org/JSSim/expert.html,/u/pushcx,6
+0,2017-07-30 11:23:24 -0500,"['/t/programming', '/t/unix']",Oil: Review of Roadmap #4,http://www.oilshell.org/blog/2017/07/29.html,/u/andyc,5
+1,2017-07-30 16:34:52 -0500,"['/t/devops', '/t/go', '/t/practices']",Cherry picking commits & shell scripting in golang,https://jvns.ca/blog/2017/07/30/a-couple-useful-ideas-from-google/,/u/calvin,3
+9,2017-07-29 21:01:06 -0500,"['/t/go', '/t/performance']",Faster command line tools with Go,https://aadrake.com/posts/2017-05-29-faster-command-line-tools-with-go.html,/u/calvin,18
+12,2017-07-29 16:20:06 -0500,"['/t/video', '/t/person']",Noam Chomsky | Talks at Google,https://www.youtube.com/watch?v=2C-zWrhFqpM,/u/sevan,29
+0,2017-07-30 15:46:00 -0500,['/t/haskell'],The RIO Monad,https://www.fpcomplete.com/blog/2017/07/the-rio-monad,/u/pushcx,4
+0,2017-07-30 16:15:38 -0500,"['/t/ai', '/t/python']",Geolocation of Twitter Users,https://www.continuum.io/blog/developer-blog/galvanize-capstone-series-geolocation-twitter-users,/u/pushcx,3
+0,2017-07-30 15:38:05 -0500,"['/t/compsci', '/t/lisp']",Asynchronous Interrupts for Erlang-like thread killing in Gambit Scheme,http://webmail.iro.umontreal.ca/pipermail/gambit-list/2017-July/008727.html,/u/zem,3
+1,2017-07-30 03:33:18 -0500,"['/t/rust', '/t/vcs']",Mononoke: A Mercurial server designed for Monorepos,https://github.com/facebookexperimental/mononoke,/u/bradfier,10
+3,2017-07-29 20:05:05 -0500,"['/t/ai', '/t/cogsci', '/t/practices', '/t/web']",Readers forced to take quiz to show they understand story before commenting on it (2017-03),http://www.independent.co.uk/life-style/gadgets-and-tech/news/nrk-norwegian-news-site-comments-read-story-understand-post-quiz-questions-a7607246.html,/u/cnst,16
+0,2017-07-30 15:43:37 -0500,['/t/databases'],Writing your own postgresql aggregation functions,http://www.cybertec.at/writing-your-own-aggregation-functions/,/u/pushcx,2
+0,2017-07-30 14:45:36 -0500,['/t/security'],SMBLoris – the new SMB flaw,https://www.ironcastle.net/smbloris-the-new-smb-flaw-sun-jul-30th/,/u/tobym,2
+0,2017-07-30 11:34:00 -0500,['/t/virtualization'],Parsing NES ROM Headers with nom,https://bheisler.github.io/post/nes-rom-parser-with-nom/,/u/pushcx,3
+2,2017-07-30 14:05:52 -0500,['/t/cryptocurrencies'],Big List of Bitcoin Exchanges,http://coinnav.com/bitcoin/exchanges/comparison,/u/ivanmalakan,1
+0,2017-07-30 09:50:11 -0500,['/t/law'],EUPL v1.2 becomes OSI approved,https://joinup.ec.europa.eu/community/eupl/news/eupl-v12-becomes-osi-approved,/u/pizzaiolo,3
+0,2017-07-30 12:06:35 -0500,"['/t/pdf', '/t/historical', '/t/lisp']",An Algebraic Language for the Manipulation of Symbolic Expressions (1958),http://www.softwarepreservation.org/projects/LISP/MIT/AIM-001.pdf,/u/friendlysock,2
+0,2017-07-30 11:13:18 -0500,"['/t/c', '/t/security']",The mystery of two file descriptors,http://gynvael.coldwind.pl/?lang=en&id=655,/u/mulander,2
+0,2017-07-29 23:31:59 -0500,['/t/security'],It took DEF CON hackers minutes to pwn these US voting machines,http://www.theregister.co.uk/2017/07/29/us_voting_machines_hacking/,/u/cnst,8
+3,2017-07-31 01:48:41 -0500,"['/t/pdf', '/t/culture']",Big Ball of Mud,http://www.laputan.org/pub/foote/mud.pdf,/u/zg,0
+0,2017-07-29 23:21:48 -0500,['/t/haskell'],Modularizing Yi (a vim-like text editor written in Haskell),https://yi-editor.github.io/posts/2017-07-29-modularization/,/u/zem,7
+0,2017-07-29 21:42:54 -0500,"['/t/haskell', '/t/testing']",Invert Your Mocks!,http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html,/u/pushcx,8
+0,2017-07-30 04:42:55 -0500,['/t/javascript'],How To Publish Your Vue.js Component On NPM,https://vuejsdevelopers.com/2017/07/31/vue-component-publish-npm/?jsdojo_id=lob_hpn,/u/anthonygore,1
+0,2017-07-30 03:10:35 -0500,['/t/programming'],Software Design Principles,http://programmergate.com/software-design-principles/,/u/husseinterek,1
+0,2017-07-29 09:17:16 -0500,"['/t/compilers', '/t/haskell']",GHC Warnings You Should Use in Addition to -Wall,https://functor.tokyo/blog/2017-07-28-ghc-warnings-you-should-enable,/u/pushcx,16

@@ -1,0 +1,25 @@
+0,2015-04-09 14:16:20 -0500,"['/t/ask', '/t/programming', '/t/ruby', '/t/web']",Would you like to preview a RailsConf 2015 talk on aging codebases?,/s/j1fbp2/would_you_like_preview_railsconf_2015,/u/pushcx,4
+0,2015-04-09 14:39:30 -0500,"['/t/programming', '/t/web']",An Example of Full Stack Web Development,http://spin.atomicobject.com/2015/04/09/a-slice-of-the-full-stack/,/u/micahalles,1
+13,2015-04-08 22:30:52 -0500,"['/t/compsci', '/t/release', '/t/ruby']",Rubype: Gradual type checking for Ruby,https://github.com/gogotanaka/Rubype,/u/pushcx,4
+0,2015-04-08 12:00:10 -0500,['/t/openbsd'],Contributing to OpenBSD,http://homing-on-code.blogspot.com/2015/04/contributing-to-openbsd.html,/u/fcambus,26
+0,2015-04-09 09:53:49 -0500,"['/t/security', '/t/web']",The Illusion of Free,http://alistapart.com/column/the-illusion-of-free,/u/flyingfisch,1
+1,2015-04-08 11:07:54 -0500,['/t/haskell'],Teaching Haskell to a 10 year old: Day 1,https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/,/u/pushcx,17
+1,2015-04-08 08:38:58 -0500,['/t/practices'],The Null Process: Because sometimes no process is worse than bad process,https://kateheddleston.com/blog/the-null-process,/u/craigstuntz,16
+0,2015-04-08 15:55:01 -0500,"['/t/devops', '/t/release', '/t/windows']",Windows Nano Server,http://blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx,/u/calvin,9
+1,2015-04-08 15:58:47 -0500,['/t/distributed'],Stellar - Adventures in Galactic Consensus,https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/,/u/icefall,6
+0,2015-04-08 12:02:01 -0500,"['/t/compsci', '/t/distributed', '/t/release']",Stellar Consensus Protocol: Proof and Code,https://www.stellar.org/blog/stellar-consensus-protocol-proof-code/,/u/pushcx,11
+27,2015-04-08 04:15:28 -0500,"['/t/culture', '/t/practices']",It’s OK for your open source library to be a bit shitty,http://www.drmaciver.com/2015/04/its-ok-for-your-open-source-library-to-be-a-bit-shitty/,/u/arcatan,46
+1,2015-04-08 11:42:23 -0500,"['/t/api', '/t/distributed', '/t/programming', '/t/python', '/t/scaling']",Nameko for Microservices,http://lucumr.pocoo.org/2015/4/8/microservices-with-nameko/,/u/tizoc,8
+2,2015-04-08 07:28:51 -0500,"['/t/slides', '/t/lisp']",Contracts in Clojure,http://www.slideshare.net/jessitron/contracts-inclojurepete,/u/julienXX,8
+0,2015-04-08 17:07:49 -0500,"['/t/javascript', '/t/web']",Straightening our Backbone: A lesson in event-driven UI development,https://code.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/,/u/ttrefren,3
+8,2015-04-07 19:43:21 -0500,"['/t/ask', '/t/ml']",What's wrong with ML?,/s/m36qma/what_s_wrong_with_ml,/u/soc,16
+16,2015-04-07 11:20:33 -0500,['/t/privacy'],Facebook sending 'nonposts' to its servers and storing unpublished thoughts,http://blog.higg.im/2015/04/07/facebook-sending-nonposts-to-its-servers-and-stores-unpublished-thoughts/,/u/dh,33
+3,2015-04-08 05:37:18 -0500,"['/t/practices', '/t/web']",Hacker's guide to awesome landing page with singup form,http://www.rspective.com/blog/hacker-s-guide-to-awesome-landing-page-with-singup-form,/u/dedrix,3
+0,2015-04-08 13:04:39 -0500,['/t/devops'],"Backup Checker, the ServerSpec for your backups",http://carlchenet.com/2015/04/07/backup-checker-the-serverspec-for-your-backups/,/u/chaica,3
+0,2015-04-08 15:31:55 -0500,"['/t/ios', '/t/mac']",objc-tidy: Mass tidy Objective-C headers and imports.,https://github.com/choongng/objc-tidy,/u/hedgehog,2
+0,2015-04-08 03:38:27 -0500,['/t/compsci'],Designing a Purely Functional Data Structure,http://vkostyukov.ru/posts/designing-a-pfds/,/u/moses,9
+0,2015-04-08 18:24:59 -0500,['/t/python'],Exploring Python 3’s Asyncio by Example,http://www.giantflyingsaucer.com/blog/?p=5557,/u/DrM,1
+2,2015-04-07 21:36:02 -0500,"['/t/api', '/t/compsci', '/t/distributed', '/t/programming']","HPC is dying, and MPI is killing it",http://dursi.ca/hpc-is-dying-and-mpi-is-killing-it/,/u/mempko,9
+5,2015-04-07 15:51:09 -0500,"['/t/video', '/t/design', '/t/games']","The winning PC 64k intro at Revision 2015: ""Offscreen Colonies"" by Conspiracy",http://www.youtube.com/watch?v=mEjTnstaMLM,/u/wrl,11
+3,2015-04-07 15:47:16 -0500,"['/t/javascript', '/t/programming']",Stop Trying to Catch Me,http://jlongster.com/Stop-Trying-to-Catch-Me,/u/pushcx,8
+8,2015-04-06 23:46:15 -0500,"['/t/person', '/t/programming']","I am the CTO of Joyent, the father of DTrace and an OS kernel developer for 20 years. AMA",http://www.reddit.com/r/IAmA/comments/31ny87/i_am_the_cto_of_joyent_the_father_of_dtrace_and/,/u/apy,44

@@ -1,0 +1,25 @@
+0,2016-04-02 13:37:57 -0500,"['/t/assembly', '/t/games']",BOX-256,http://juhakiili.com/box256/manual/,/u/mulander,6
+2,2016-04-01 21:53:04 -0500,['/t/go'],Notes on Go,https://brandur.org/go,/u/apg,26
+0,2016-04-02 14:57:22 -0500,['/t/scala'],Scala-bility: Scala.js and React: Building an Application for the Web,http://scala-bility.blogspot.com/2015/05/scalajs-and-react-building-application.html,/u/softinio,4
+0,2016-04-02 15:06:01 -0500,['/t/python'],Scalable and resilient Django with Kubernetes,https://harishnarayanan.org/writing/kubernetes-django/,/u/softinio,1
+0,2016-04-02 04:03:22 -0500,['/t/compsci'],TensorFlow Serving,https://tensorflow.github.io/serving/serving_inception.html,/u/adsouza,4
+2,2016-04-02 13:50:55 -0500,['/t/lisp'],The puts and takes of core.async,http://goose.haus/2016/04/01/the-puts-and-takes-of-core-async.html,/u/angusiguess,0
+10,2016-04-01 17:04:49 -0500,"['/t/ask', '/t/databases']",Simple database hosting,/s/vxax6t/simple_database_hosting,/u/friendlysock,7
+4,2016-04-01 09:04:39 -0500,['/t/privacy'],Tor Blog: The Trouble with CloudFlare,https://blog.torproject.org/blog/trouble-cloudflare,/u/kevinSuttle,16
+0,2016-04-01 23:44:37 -0500,"['/t/compsci', '/t/satire']",SIGBOVIK 2016,http://sigbovik.org/2016/,/u/apg,8
+0,2016-04-01 12:26:10 -0500,"['/t/law', '/t/privacy', '/t/security']",Amnesty International: Encryption is a Human Rights Issue,https://www.eff.org/deeplinks/2016/03/amnesty-international-encryption-human-rights-issue,/u/halosghost,12
+0,2016-04-01 10:02:38 -0500,['/t/assembly'],Hotpatching a C Function on x86,http://nullprogram.com/blog/2016/03/31/,/u/pushcx,12
+0,2016-04-01 14:58:55 -0500,"['/t/security', '/t/web']",The Basics of Web Application Security,http://martinfowler.com/articles/web-security-basics.html,/u/fcbsd,6
+5,2016-03-31 18:21:11 -0500,"['/t/perl', '/t/release']","Wow, Perl 6!",http://tpm2016.zoffix.com/#/,/u/friendlysock,33
+2,2016-04-01 15:54:25 -0500,"['/t/freebsd', '/t/release']","""it's now again possible to build current nginx sources with FreeBSD 2.2.9""",http://lists.freebsd.org/pipermail/freebsd-current/2016-April/060426.html,/u/cnst,3
+0,2016-04-01 09:48:44 -0500,['/t/haskell'],YAML + Aeson Lenses,http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html,/u/pushcx,6
+4,2016-03-31 16:04:18 -0500,"['/t/compilers', '/t/programming']",The super tiny compiler,https://github.com/thejameskyle/the-super-tiny-compiler,/u/zem,26
+1,2016-04-01 00:22:58 -0500,"['/t/show', '/t/ml', '/t/release']",pds - toml & makefile based build tool for Ocaml,https://bitbucket.org/mimirops/pds/src,/u/apy,5
+3,2016-03-31 17:23:20 -0500,"['/t/devops', '/t/practices']",The first step is to document,http://www.robustperception.io/the-first-step-is-to-document/,/u/bbrazil,10
+2,2016-04-01 10:45:23 -0500,"['/t/culture', '/t/hardware', '/t/mobile']",The History of the Sidekick,http://ca.complex.com/pop-culture/2015/09/history-of-the-sidekick,/u/calvin,6
+3,2016-04-01 09:14:24 -0500,"['/t/hardware', '/t/ios', '/t/satire']",Apple Introduces Their Answer To The Raspberry Pi,http://hackaday.com/2016/04/01/apple-introduces-their-answer-to-the-raspberry-pi/,/u/calvin,7
+4,2016-03-31 14:06:59 -0500,"['/t/linux', '/t/windows']","Separate, support, serve",https://bitquabit.com/post/separate-support-serve/,/u/gecko,8
+8,2016-04-01 00:24:08 -0500,['/t/culture'],Gmail's Short-sighted Mic Drop Prank,https://twitter.com/waxpancake/status/715747304444002304,/u/emallson,16
+7,2016-03-31 13:37:36 -0500,['/t/ml'],An OCaml Adoption Manifesto,https://github.com/fxfactorial/an-ocaml-adoption-manifesto,/u/dwc,14
+0,2016-04-01 00:12:44 -0500,['/t/debugging'],Using rr To Debug rr,http://robert.ocallahan.org/2016/04/using-rr-to-debug-rr.html,/u/fitzgen,6
+0,2016-03-31 12:30:56 -0500,['/t/dotnet'],Mono Relicensed MIT,http://www.mono-project.com/news/2016/03/31/mono-relicensed-mit/,/u/dwc,22

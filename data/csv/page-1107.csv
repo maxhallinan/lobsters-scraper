@@ -1,0 +1,25 @@
+1,2015-05-11 15:55:03 -0500,"['/t/distributed', '/t/networking']","A better diagram for centralized, distributed and decentralized networks",https://twitter.com/ioptio/status/597113993401098240,/u/itistoday,4
+1,2015-05-11 17:07:08 -0500,['/t/rant'],Did I ever mention that I [expletive] hate the [expletive] web?,http://cbloomrants.blogspot.com/2015/05/05-10-15-did-i-ever-mention-that-i.html,/u/trousers,7
+2,2015-05-11 05:50:16 -0500,['/t/distributed'],Latency Tricks,http://clarkgaebel.com/latency-tricks.html,/u/cgaebel,10
+0,2015-05-11 11:15:33 -0500,"['/t/c', '/t/programming']",Using Monads in C++ to Solve Constraints: 1. The List Monad,http://bartoszmilewski.com/2015/05/11/using-monads-in-c-to-solve-constraints-1-the-list-monad/,/u/tobym,6
+0,2015-05-11 11:34:56 -0500,['/t/design'],Don’t Prioritize Efficiency Over Expectations,http://www.nngroup.com/articles/efficiency-vs-expectations/,/u/kb,4
+2,2015-05-11 08:20:21 -0500,"['/t/elixir', '/t/programming']",The need for timezone awareness,http://www.creativedeletion.com/2015/05/10/the-need-timezones.html,/u/laut,5
+0,2015-05-10 20:11:06 -0500,['/t/culture'],Carnac the Magnificent,http://raganwald.com/2015/05/08/carnac-the-magnificent.html,/u/adsouza,37
+0,2015-05-11 09:59:50 -0500,"['/t/programming', '/t/web']",stacksort,http://gkoberger.github.io/stacksort/,/u/flyingfisch,4
+0,2015-05-11 17:51:15 -0500,['/t/databases'],New course: Learn SQL interactively on Khan Academy,http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html,/u/sivers,1
+0,2015-05-11 08:42:26 -0500,"['/t/programming', '/t/rust']","Rust Discovery, or: How I Figure Things Out",http://carol-nichols.com/2015/05/10/rustc-discovery/,/u/steveklabnik,4
+0,2015-05-11 13:07:45 -0500,['/t/openbsd'],OpenBSD ldapd YP LDAP Domain with default Login Class Support and Blowfish Hashes,http://puffysecurity.com/wiki/ypldap.html,/u/fcambus,2
+0,2015-05-11 09:14:57 -0500,['/t/c'],How to implement a constant-expression counter in C++,http://b.atch.se/posts/constexpr-counter/,/u/lcapaldo,2
+3,2015-05-10 14:35:10 -0500,['/t/vcs'],Git in 600 words,http://maryrosecook.com/blog/post/git-in-six-hundred-words,/u/bryfry,11
+0,2015-05-10 15:31:24 -0500,['/t/programming'],`puppet apply` is accidentally quadratic,http://accidentallyquadratic.tumblr.com/post/118629661042/puppet-apply,/u/kb,13
+0,2015-05-10 11:50:19 -0500,"['/t/programming', '/t/rust']",Little libraries,http://huonw.github.io/blog/2015/04/little-libraries/,/u/pushcx,12
+9,2015-05-10 11:46:03 -0500,['/t/android'],Anko – Pleasant Android development in Kotlin,https://github.com/JetBrains/anko,/u/vvh,5
+0,2015-05-10 19:39:41 -0500,"['/t/privacy', '/t/security']","OpenPGP: Proposal for a separable ring signature scheme compatible with RSA, DSA, and ECDSA keys",https://www.ietf.org/mail-archive/web/openpgp/current/msg07208.html,/u/antifuchs,3
+0,2015-05-10 18:52:09 -0500,"['/t/databases', '/t/devops', '/t/distributed', '/t/scaling']",Why we switched to Cassandra,https://victorops.com/blog/cassandra/,/u/jhand,2
+1,2015-05-10 18:02:51 -0500,"['/t/javascript', '/t/release']",syncify: a simpler way to deal with asynchronous functions,https://github.com/aldonline/syncify,/u/pushcx,1
+4,2015-05-09 17:56:33 -0500,"['/t/privacy', '/t/vcs']","disabow/above-repository: hide repos from your ""repositories contributed to"" list",https://github.com/disavow/above-repository,/u/pote,7
+0,2015-05-10 12:49:03 -0500,['/t/databases'],Using Neo4j Spatial with Mapbox / Leaflet.js to search for businesses by location,http://www.lyonwj.com/using-neo4j-spatial-and-leaflet-js-with-mapbox/,/u/lyonwj,1
+15,2015-05-09 09:32:00 -0500,"['/t/databases', '/t/practices', '/t/programming']",Simplify: move code into database functions,https://sivers.org/pg,/u/pushcx,16
+5,2015-05-08 19:43:12 -0500,['/t/programming'],The appeal of dynamically typed languages,https://gist.github.com/non/ec48b0a7343db8291b92,/u/kghose,47
+0,2015-05-09 17:12:46 -0500,"['/t/pdf', '/t/compilers', '/t/lisp', '/t/python']",Pycket: A Tracing JIT For a Functional Language,http://homes.soic.indiana.edu/samth/pycket-draft.pdf,/u/evhan,6
+0,2015-05-09 06:11:27 -0500,"['/t/show', '/t/go', '/t/rust']",Rust + Golang,https://github.com/medimatrix/rust-plus-golang,/u/mediremi,19

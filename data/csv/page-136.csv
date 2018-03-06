@@ -1,0 +1,25 @@
+11,2017-11-09 08:08:40 -0600,['/t/security'],Intel's management engine - in most CPUs since 2008 - can be p0wned over USB,https://www.theregister.co.uk/2017/11/09/chipzilla_come_closer_closer_listen_dump_ime/,/u/Yogthos,42
+0,2017-11-10 07:36:14 -0600,['/t/openbsd'],p2k17 Hackathon report: Sebastian Reitenbach on Puppet progress,http://undeadly.org/cgi?action=article;sid=20171110124645,/u/calvin,5
+1,2017-11-09 18:33:50 -0600,"['/t/show', '/t/ai', '/t/haskell', '/t/testing']",Haskell Theory Exploration,http://chriswarbo.net/git/haskell-te,/u/chriswarbo,12
+1,2017-11-09 23:26:27 -0600,['/t/math'],Understanding Perlin Noise,http://flafla2.github.io/2014/08/09/perlinnoise.html,/u/hwayne,10
+3,2017-11-09 15:12:05 -0600,['/t/design'],UI backwards compatibility,http://danluu.com/ui-compatibility/,/u/hwayne,17
+6,2017-11-09 09:30:24 -0600,['/t/devops'],Be careful about using IO domain names for production traffic,https://getstream.io/blog/stop-using-io-domain-names-for-production-traffic/,/u/tschellenbach,23
+15,2017-11-08 21:00:03 -0600,"['/t/ask', '/t/book']",Books written in a style similar to SICP,/s/9o8lvk/books_written_style_similar_sicp,/u/tallgeoff,49
+11,2017-11-09 22:00:41 -0600,['/t/programming'],Ten interesting features from various modern languages,https://medium.com/@kasperpeulen/10-features-from-various-modern-languages-that-i-would-like-to-see-in-any-programming-language-f2a4a8ee6727,/u/calvin,5
+16,2017-11-09 02:27:32 -0600,"['/t/c', '/t/c++', '/t/programming']",The long goodbye to C,http://esr.ibiblio.org/?p=7711,/u/mjturner,30
+8,2017-11-09 09:33:24 -0600,"['/t/cryptocurrencies', '/t/security']","Cryptojacking craze that drains your CPU now done by 2,500 sites",https://arstechnica.com/information-technology/2017/11/drive-by-cryptomining-that-drains-cpus-picks-up-steam-with-aid-of-2500-sites/,/u/utzig,13
+1,2017-11-09 12:01:08 -0600,"['/t/python', '/t/rust']",Calling Rust From Python,https://bheisler.github.io/post/calling-rust-in-python/,/u/utzig,16
+0,2017-11-09 14:22:52 -0600,"['/t/elixir', '/t/erlang']",Overview of Elixir executables,https://monades.roperzh.com/overview-elixir-executables-escripts/,/u/roperzh,7
+0,2017-11-10 09:12:58 -0600,['/t/security'],SSRF (Server Side Request Forgery) testing resources,https://github.com/cujanovic/SSRF-Testing/,/u/cujanovic,0
+3,2017-11-09 15:33:11 -0600,"['/t/databases', '/t/release']","PostgreSQL: PostgreSQL 10.1, 9.6.6, 9.5.10, 9.4.15, 9.3.20, and 9.2.24 released!",https://www.postgresql.org/about/news/1801/,/u/dege,8
+0,2017-11-09 23:31:38 -0600,"['/t/show', '/t/clojure']",Cryogen: Simple static site generator built with Clojure,http://cryogenweb.org/,/u/Yogthos,3
+1,2017-11-09 08:04:55 -0600,['/t/practices'],"Do I Want To Work In This Company, or What Questions To Ask On An Interview",https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po,/u/soulcutter,18
+4,2017-11-09 13:59:25 -0600,"['/t/go', '/t/programming']",The Zoo of Go Functions - Learn Go Programming,https://blog.learngoprogramming.com/go-functions-overview-anonymous-closures-higher-order-deferred-concurrent-6799008dde7b,/u/blackflicker,3
+9,2017-11-09 09:20:03 -0600,['/t/java'],Java 9: Cleaning up your default methods using private interface methods,http://www.deadcoderising.com/java-9-cleaning-up-your-default-methods-using-private-interface-methods/,/u/hennidan,8
+3,2017-11-09 08:26:13 -0600,"['/t/ai', '/t/programming']",Real-Time ASCII Art rendering using a single decision tree,https://art.pixlab.io/,/u/chmrad,13
+0,2017-11-09 21:58:49 -0600,['/t/api'],Best Practices for your REST API,https://solidgeargroup.com/best-practices-rest-api,/u/calvin,3
+0,2017-11-09 12:48:05 -0600,['/t/openbsd'],"p2k17 Hackathon report: Christian Weisgerber on random devices, build failures and gettext",http://undeadly.org/cgi?action=article;sid=20171109171447,/u/calvin,8
+0,2017-11-09 16:07:04 -0600,"['/t/compsci', '/t/linux']",Package Management Sudoku,https://web.archive.org/web/20160326062818/http://algebraicthunk.net/~dburrows/blog/entry/package-management-sudoku/,/u/pushcx,5
+4,2017-11-09 07:56:42 -0600,"['/t/historical', '/t/unix']",Interview with Dennis Ritchie (2003),https://anders.unix.se/2015/10/26/interview-with-dennis-ritchie-2003/,/u/fs111,7
+0,2017-11-09 21:53:34 -0600,['/t/graphics'],"Intel Announces Plans To Develop Discrete GPUs, Hires AMDs Raja Koduri as Chief Architect",https://www.anandtech.com/show/12017/intel-to-develop-discrete-gpus-hires-raja-koduri-as-chief-architect,/u/quanticle,2
+0,2017-11-09 05:20:24 -0600,"['/t/release', '/t/rust']",Tock Embedded Operating System,https://www.tockos.org/,/u/calvin,15

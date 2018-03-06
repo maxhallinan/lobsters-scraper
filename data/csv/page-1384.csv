@@ -1,0 +1,25 @@
+6,2014-02-23 15:21:29 -0600,['/t/meta'],"What does the color of the ""L"" box in the top left mean?",/s/4nfhzh/what_does_color_l_box_top_left_mean,/u/leif,3
+15,2014-02-22 07:44:02 -0600,"['/t/ios', '/t/mac', '/t/security']",Apple's SSL/TLS bug,https://www.imperialviolet.org/2014/02/22/applebug.html,/u/pedro,28
+5,2014-02-22 21:43:49 -0600,['/t/programming'],GOO: a type-based prefix syntaxed language,http://people.csail.mit.edu/jrb/goo/,/u/SeanTAllen,6
+0,2014-02-23 11:11:05 -0600,['/t/linux'],The 10 Cleverest Ways to Use Linux to Fix Your Windows PC,http://www.howtogeek.com/howto/31804/the-10-cleverest-ways-to-use-linux-to-fix-your-windows-pc,/u/codeon1,2
+0,2014-02-22 17:46:34 -0600,['/t/security'],GitHub RCE by Environment variable injection Bug Bounty writeup,https://gist.github.com/joernchen/a7c031b6b8df5d5d0b61,/u/patrickod,12
+0,2014-02-23 07:44:57 -0600,"['/t/linux', '/t/virtualization']",LXC 1.0 has been released!,http://linuxcontainers.org/news/,/u/0xfg,1
+0,2014-02-22 12:54:43 -0600,['/t/assembly'],64-bit Kernel From Scratch,http://davidad.github.io/blog/2014/02/18/kernel-from-scratch/,/u/dl,10
+0,2014-02-22 17:23:17 -0600,['/t/go'],The Nature Of Channels In Go,http://www.goinggo.net/2014/02/the-nature-of-channels-in-go.html,/u/bjorn,4
+0,2014-02-22 17:11:34 -0600,"['/t/browsers', '/t/security']",goto fail; // Apple SSL bug test site,https://gotofail.com/,/u/journeysquid,4
+0,2014-02-22 18:00:24 -0600,['/t/release'],The world's fastest VP9 decoder: ffvp9,http://blogs.gnome.org/rbultje/2014/02/22/the-worlds-fastest-vp9-decoder-ffvp9/,/u/journeysquid,3
+2,2014-02-22 01:02:21 -0600,"['/t/c', '/t/programming']",The ooc programming language,http://ooc-lang.org/,/u/rivd,13
+0,2014-02-22 08:16:15 -0600,"['/t/programming', '/t/security']",Typo in Apple's SSL implementation causes uniform failure to validate key exchanges,http://blog.nullspace.io/ios-ssl-vulnerability.html,/u/apg,7
+4,2014-02-21 12:50:11 -0600,['/t/vim'],neovim,https://github.com/neovim/neovim,/u/jm,17
+2,2014-02-21 23:56:32 -0600,"['/t/slides', '/t/programming', '/t/ruby']",Keith and Mario's Guide to Continuous Deployment,https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-continuous-deployment,/u/keithpitt,5
+4,2014-02-21 09:15:21 -0600,"['/t/programming', '/t/scaling']",Cache Oblivious Algorithms,http://www.1024cores.net/home/parallel-computing/cache-oblivious-algorithms,/u/icefall,22
+3,2014-02-21 15:31:42 -0600,"['/t/browsers', '/t/unix']",Uzbl - web interface tools which adhere to the unix philosophy.,http://www.uzbl.org/readme.php,/u/jm,9
+3,2014-02-21 11:46:55 -0600,"['/t/release', '/t/unix']",reptyr - Reparent a running program to a new terminal,https://github.com/nelhage/reptyr,/u/jcs,8
+0,2014-02-22 02:52:00 -0600,"['/t/culture', '/t/programming']",Healthy Open Source Projects Need People (Redux),https://gist.github.com/nslater/9138814,/u/nslater,3
+1,2014-02-21 12:45:07 -0600,['/t/compsci'],Mars Code,http://cacm.acm.org/magazines/2014/2/171689-mars-code/fulltext,/u/jm,5
+0,2014-02-21 10:51:14 -0600,"['/t/video', '/t/databases', '/t/distributed']",Eventually Consistent Data Structures,http://vimeo.com/43903960,/u/SeanTAllen,6
+0,2014-02-21 11:33:36 -0600,"['/t/go', '/t/linux', '/t/programming', '/t/unix', '/t/vcs']",The part where I hack my github graph,http://www.skeptech.org/blog/2014/02/11/the-part-where-I-hack-my-github-graph/,/u/DaveJosephsen,5
+0,2014-02-21 15:06:28 -0600,"['/t/video', '/t/databases']",Fractal Tree Indexes: Theory and Practice,http://youtu.be/c-n2LGPpQEw,/u/leif,3
+19,2014-02-20 13:20:08 -0600,['/t/go'],Go Style Guide,https://code.google.com/p/go-wiki/wiki/Style,/u/kyle,27
+0,2014-02-21 16:58:46 -0600,['/t/scala'],How do I error handle thee? Let me count the ways,http://typelevel.org/blog/2014/02/21/error-handling.html,/u/jedws,2
+0,2014-02-21 19:32:10 -0600,"['/t/show', '/t/lisp', '/t/web']",Weasel - a WebSocket-connected REPL environment for ClojureScript,http://github.com/tomjakubowski/weasel/,/u/tomjakubowski,1

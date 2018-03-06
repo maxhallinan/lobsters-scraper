@@ -1,0 +1,25 @@
+0,2017-08-24 18:46:04 -0500,"['/t/browsers', '/t/programming']",Off main thread HTML parsing in Servo,https://blog.servo.org/2017/08/24/gsoc-parsing/,/u/calvin,11
+1,2017-08-24 16:46:05 -0500,"['/t/math', '/t/programming']",Generic GPU Kernels in Julia,http://mikeinnes.github.io/2017/08/24/cudanative.html,/u/zem,11
+3,2017-08-24 12:24:11 -0500,['/t/haskell'],MonadFix is Time Travel,https://elvishjerricco.github.io/2017/08/22/monadfix-is-time-travel.html,/u/pushcx,15
+0,2017-08-25 03:31:34 -0500,"['/t/video', '/t/c++', '/t/performance']",Stingray Engine Code Walkthrough,http://www.youtube.com/playlist?list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV,/u/mikejsavage,3
+0,2017-08-24 21:11:15 -0500,"['/t/book', '/t/devops', '/t/linux']","Docker, Rancher, EFS, Glusterfs, Minikube, SNS, SQS, Microservices, Traefik & Containerd ..",https://medium.com/@eon01/docker-rancher-efs-glusterfs-minikube-sns-sqs-microservices-and-containerd-b4c5c9c7cc0c,/u/eon01,3
+0,2017-08-24 23:28:15 -0500,['/t/graphics'],Stars Finale,http://www.charlesetc.com/stars-game-7.html,/u/etc,2
+5,2017-08-24 13:31:15 -0500,"['/t/video', '/t/games']",Do We Need a Soulslike Genre?,https://www.youtube.com/watch?v=Lx7BWayWu08,/u/pushcx,8
+0,2017-08-24 14:37:32 -0500,['/t/openbsd'],t2k17 Hackathon Report: My first time (Aaron Bieber),https://undeadly.org/cgi?action=article;sid=20170824193521,/u/fcambus,10
+1,2017-08-24 21:23:33 -0500,"['/t/api', '/t/finance', '/t/practices']",How ACH works: A developer perspective - Part 1,http://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/,/u/friendlysock,3
+0,2017-08-24 16:44:58 -0500,"['/t/pdf', '/t/formalmethods', '/t/hardware']",Who Guards the Guards?: Formal Validation of the Arm v8-M Architecture Specification,https://alastairreid.github.io/papers/oopsla2017-whoguardstheguards.pdf,/u/mjn,7
+0,2017-08-25 11:27:08 -0500,"['/t/ask', '/t/security']",Are Application Security Certifications Worth It? (2014),https://www.jardinesoftware.net/2014/08/09/are-application-security-certifications-worth-it/,/u/JKowalsky,1
+1,2017-08-25 06:50:55 -0500,"['/t/culture', '/t/nodejs', '/t/person']",The Truth About Rod Vagg,https://medium.com/@rvagg/the-truth-about-rod-vagg-f063f6a53557,/u/sanxiyn,2
+0,2017-08-24 22:19:00 -0500,['/t/practices'],"Hard Systems, Soft Systems, and “It Depends”",https://medium.com/founder-playbook/hard-systems-soft-systems-and-it-depends-781b3f02b82e,/u/friendlysock,3
+27,2017-08-23 12:28:36 -0500,['/t/philosophy'],You must go offline to view this page. Disconnect to continue,https://chris.bolin.co/offline/,/u/KevinMGranger,62
+0,2017-08-24 11:40:57 -0500,"['/t/c', '/t/security']",NTRU Prime post-quantum cryptography and some amazing C code from DJB et al,https://ntruprime.cr.yp.to/software.html,/u/vyodaiken,10
+0,2017-08-24 17:20:49 -0500,"['/t/hardware', '/t/security']",Titan in depth: Security in plaintext,https://cloudplatform.googleblog.com/2017/08/Titan-in-depth-security-in-plaintext.html,/u/kyle,3
+1,2017-08-25 06:20:02 -0500,"['/t/distributed', '/t/rant']",Rocking horse shit and what it takes to be a distributed systems engineer,https://blog.ably.io/rocking-horse-shit-and-what-it-takes-to-be-a-distributed-systems-engineer-2e8ed3b3ec0d,/u/mattheworiordan,0
+0,2017-08-24 14:06:05 -0500,"['/t/assembly', '/t/c++', '/t/performance']",Software optimization resources,http://agner.org/optimize/,/u/halosghost,4
+0,2017-08-24 18:47:41 -0500,"['/t/pdf', '/t/compilers', '/t/java', '/t/performance']",Applying Optimizations for Dynamically-typed Languages to Java,http://www.ssw.uni-linz.ac.at/Research/Papers/Marr/manlang17-grimmer-et-al-applying-optimizations-for-dynamically-typed-languages-to-java.pdf,/u/calvin,2
+0,2017-08-24 04:06:22 -0500,"['/t/haskell', '/t/programming']",Providing an API for extensible-effects and monad transformers,https://ocharles.org.uk/blog/posts/2017-08-23-extensible-effects-and-transformers.html,/u/NinjaTrappeur,12
+0,2017-08-24 04:35:56 -0500,['/t/openbsd'],t2k17 Hackathon Report: No lock no cry... with CTF! (Martin Pieuchot),https://undeadly.org/cgi?action=article;sid=20170824074337,/u/fcambus,11
+0,2017-08-24 04:35:25 -0500,['/t/openbsd'],t2k17 Hackathon Report: Andrew Hewus Fresh on Perl and Coffee,https://undeadly.org/cgi?action=article;sid=20170824075438,/u/fcambus,11
+0,2017-08-24 15:41:49 -0500,['/t/dotnet'],ASP.NET Core MVC – Repository Overview: Model Binding - Jack Histon's Blog,http://jackhiston.com/2017/8/21/aspnet-core-mvc-repository-overview-model-binding,/u/Cyph3r90,1
+0,2017-08-24 03:40:48 -0500,['/t/openbsd'],t2k17 Hackathon Report: Philip Guenther: locking and libc,https://undeadly.org/cgi?action=article;sid=20170824080132,/u/mulander,11
+0,2017-08-24 05:56:25 -0500,['/t/programming'],Clean Code: A Learning,http://ronjeffries.com/articles/017-08ff/clean-code/,/u/calvin,7

@@ -1,0 +1,25 @@
+18,2017-03-28 13:53:28 -0500,['/t/virtualization'],Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs,https://blog.jessfraz.com/post/containers-zones-jails-vms/,/u/jcs,49
+1,2017-03-29 17:43:07 -0500,['/t/devops'],Europa: A Self Hosted Multi-Cloud Container Registry,https://www.distelli.com/europa/,/u/colin,3
+0,2017-03-29 17:33:38 -0500,['/t/security'],mcTLS (Multi-Context TLS),http://mctls.org/,/u/sevan,4
+0,2017-03-29 06:10:42 -0500,['/t/c'],GBA By Example - Drawing and Moving Rectangles,http://kylehalladay.com/blog/tutorial/2017/03/28/GBA-By-Example-1.html,/u/pushcx,15
+0,2017-03-29 12:27:30 -0500,"['/t/video', '/t/math']",Lambda Calculus - Computerphile,https://www.youtube.com/watch?v=eis11j_iGMs,/u/oats,6
+0,2017-03-29 08:42:42 -0500,"['/t/release', '/t/reversing']",iaito: a GUI for radare2 reverse engineering framework,https://github.com/hteso/iaito,/u/pushcx,8
+0,2017-03-29 14:01:16 -0500,['/t/compsci'],An Interview With Edsger W. Dijkstra,http://cacm.acm.org/magazines/2010/8/96632-an-interview-with-edsger-w-dijkstra/fulltext,/u/eliezerb,4
+0,2017-03-29 10:28:02 -0500,"['/t/devops', '/t/haskell', '/t/programming']","Hapistrano, a deployment tool for Haskell Projects (improved).",https://stackbuilders.com/news/hapistrano-s-new-features,/u/juanpaucar,6
+0,2017-03-29 18:06:06 -0500,"['/t/browsers', '/t/security']",Binary Transparency for Firefox,https://wiki.mozilla.org/Security/Binary_Transparency,/u/chadski,2
+1,2017-03-29 12:55:45 -0500,['/t/design'],Free & Open Sourced Logos For Your Startup,http://logodust.com/,/u/colin,2
+0,2017-03-29 08:11:37 -0500,['/t/devops'],Learning Redis the hard way (in production),http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/,/u/pushcx,6
+0,2017-03-29 19:12:06 -0500,['/t/browsers'],What is EME? (2013),https://hsivonen.fi/eme/,/u/pushcx,1
+0,2017-03-29 06:50:02 -0500,['/t/compsci'],A beginner's guide to Big O notation (2009),https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation,/u/robbell,3
+0,2017-03-29 14:19:05 -0500,['/t/historical'],Epigrams on Programming (1982),http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html,/u/praalhans,2
+0,2017-03-29 11:32:19 -0500,"['/t/pdf', '/t/browsers', '/t/crypto', '/t/security']",CRLite: A Scalable System for Pushing All TLS Revocations to All Browsers,http://www.ccs.neu.edu/home/cbw/static/pdf/larisch-oakland17.pdf,/u/koomi,3
+0,2017-03-29 14:02:39 -0500,['/t/go'],Dancing with Go’s Mutexes,https://medium.com/@deckarep/dancing-with-go-s-mutexes-92407ae927bf,/u/Dawny33,2
+0,2017-03-29 07:23:21 -0500,['/t/javascript'],The Promise of a Burger Party,http://kosamari.com/notes/the-promise-of-a-burger-party,/u/pushcx,5
+26,2017-03-28 12:12:54 -0500,"['/t/linux', '/t/windows']",Beyond Bash: Microsoft Refines the Windows Subsystem for Linux,https://thenewstack.io/windows-10-creators-update-means-windows-subsystem-linux/,/u/flyingfisch,21
+0,2017-03-29 13:27:25 -0500,"['/t/law', '/t/privacy', '/t/security']",Five Ways Cybersecurity Will Suffer If Congress Repeals the FCC Privacy Rules,https://www.eff.org/deeplinks/2017/03/five-ways-cybersecurity-will-suffer-if-congress-repeals-fcc-privacy-rules,/u/tf,2
+2,2017-03-28 16:49:25 -0500,"['/t/c', '/t/compilers']",movfuscator - single instruction C compiler,https://github.com/xoreaxeaxeax/movfuscator,/u/lukas,16
+0,2017-03-29 05:44:35 -0500,['/t/graphics'],Pen Plotter Programming: The Basics,https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929,/u/calvin,4
+2,2017-03-28 13:37:19 -0500,"['/t/networking', '/t/release', '/t/rust']","Async, Futures, AMQP, pick three: lapin, a new Rust AMQP client library",https://www.clever-cloud.com/blog/engineering/2017/03/28/lapin-new-rust-amqp-library/,/u/geal,11
+11,2017-03-28 16:45:23 -0500,['/t/vcs'],Atlassian announces they won't add Mercurial support to Bitbucket Server,https://jira.atlassian.com/browse/BSERV-2469?focusedCommentId=1068825&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-1068825,/u/lukas,9
+0,2017-03-29 06:46:22 -0500,['/t/lisp'],Read Read-Eval-Print-λove 4,https://leanpub.com/readevalprintlove004/read,/u/pushcx,3
+0,2017-03-29 06:43:17 -0500,['/t/security'],Miele Professional PG 8528 dishwasher directory traversal,https://packetstormsecurity.com/files/141813/MielePG8528-traversal.txt,/u/asthasr,3

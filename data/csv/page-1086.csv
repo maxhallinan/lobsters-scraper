@@ -1,0 +1,25 @@
+0,2015-06-21 18:39:38 -0500,"['/t/pdf', '/t/networking']",Everything You Ever Wanted to Know About Message Latency (2013),http://computernetworks5e.org/blogs/wp-content/uploads/2013/09/latency-supp1.pdf,/u/rubenbarroso,1
+1,2015-06-20 20:56:06 -0500,"['/t/lisp', '/t/release']",Racket v6.2 released,http://blog.racket-lang.org/2015/06/racket-v62.html,/u/zedoary,14
+1,2015-06-20 15:26:17 -0500,"['/t/linux', '/t/networking']",How to receive a million packets per second,https://blog.cloudflare.com/how-to-receive-a-million-packets/,/u/goncalo,21
+2,2015-06-20 11:45:03 -0500,"['/t/programming', '/t/rust']",Dealing with the Rust shift in perspective,http://joelmccracken.github.io/entries/dealing-with-the-rust-shift-in-perspective/,/u/steveklabnik,11
+0,2015-06-20 10:38:13 -0500,['/t/compilers'],Two views of programming language design,http://researchblogs.cs.bham.ac.uk/thelablunch/2014/08/two-views-of-programming-language-design/,/u/bkudria,11
+0,2015-06-20 03:26:44 -0500,"['/t/compsci', '/t/databases']",Levenshtein automata can be simple and fast,http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html,/u/antifuchs,14
+0,2015-06-20 13:32:20 -0500,"['/t/devops', '/t/distributed']",CALISDO: Threat Modeling for Distributed Designs,http://brooker.co.za/blog/2015/06/20/calisto.html,/u/mjb,4
+0,2015-06-19 22:22:38 -0500,"['/t/devops', '/t/networking', '/t/security', '/t/web']",Why Unikernels Can Improve Internet Security,http://www.linux.com/news/enterprise/cloud-computing/820669-why-unikernels-improve-internet-security,/u/itistoday,12
+0,2015-06-19 20:04:41 -0500,"['/t/games', '/t/programming']","I worked on the port of MGS to PC back in 1999-2000, here is what I've learned",https://news.ycombinator.com/item?id=9739731,/u/calvin,12
+0,2015-06-19 10:48:25 -0500,"['/t/javascript', '/t/programming']",The Web is getting its bytecode: WebAssembly,http://arstechnica.com/information-technology/2015/06/the-web-is-getting-its-bytecode-webassembly/,/u/JeremyMorgan,29
+2,2015-06-20 06:15:05 -0500,"['/t/culture', '/t/devops']",OpenStreetMap Hardware Funding Drive 2015,http://donate.openstreetmap.org/server2015/,/u/chippy,4
+0,2015-06-19 12:36:47 -0500,['/t/programming'],Code Climate launches an open platform for source code analysis,http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/,/u/kb,15
+0,2015-06-19 15:02:02 -0500,"['/t/devops', '/t/distributed', '/t/linux', '/t/networking', '/t/scaling']",Docker Really Is the Future,http://blog.circleci.com/it-really-is-the-future/,/u/akurilin,10
+0,2015-06-19 18:52:59 -0500,"['/t/lisp', '/t/programming']",pilos: 64-bit PicoLisp running on bare metal,http://picolisp.com/wiki/?PilOS,/u/zem,6
+0,2015-06-19 12:44:35 -0500,['/t/compsci'],"Large-scale, well-typed edits in Unison",http://unisonweb.org/2015-06-12/editing.html,/u/sanxiyn,11
+4,2015-06-19 06:00:05 -0500,['/t/databases'],Mutable Value Chains,https://joearms.github.io/2015/06/19/Mutable-Value_Chains.html,/u/gluegadget,16
+0,2015-06-19 10:57:08 -0500,"['/t/compilers', '/t/ml']",The Programming Language Zoo (2012),http://andrej.com/plzoo/,/u/mbrubeck,10
+0,2015-06-19 09:11:03 -0500,['/t/haskell'],Thinking with Laziness,http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html,/u/bkudria,11
+7,2015-06-18 23:46:47 -0500,['/t/release'],RobustIRC - IRC without netsplits,http://robustirc.net/index.html,/u/mhazinsk,15
+0,2015-06-19 10:48:34 -0500,"['/t/javascript', '/t/ruby']",Sprinkling Some AngularJS on Your Donut Rails App,http://bendyworks.com/angularjs-rails-donuts/,/u/listrophy,5
+0,2015-06-18 18:13:22 -0500,"['/t/games', '/t/programming']",How did game developers pack entire games into so little memory twenty five years ago?,http://www.quora.com/How-did-game-developers-pack-entire-games-into-so-little-memory-twenty-five-years-ago,/u/goncalo,15
+1,2015-06-18 10:36:34 -0500,"['/t/linux', '/t/person']",The Creator of Linux on the Future Without Him,http://www.bloomberg.com/news/articles/2015-06-16/the-creator-of-linux-on-the-future-without-him,/u/zg,23
+8,2015-06-18 07:38:32 -0500,"['/t/lisp', '/t/programming']",Learning Lisp Was Hard,http://deliberate-software.com/learning-lisp-was-hard/,/u/steveshogren,23
+1,2015-06-18 05:16:31 -0500,"['/t/art', '/t/visualization']",Inceptionism: Going Deeper into Neural Networks,http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html,/u/adsouza,26
+0,2015-06-18 13:43:11 -0500,['/t/lisp'],"Parsing BibTeX in Racket and generating S-Expressions, JSON, XML and BibTeX",http://matt.might.net/articles/parsing-bibtex/,/u/pushcx,6

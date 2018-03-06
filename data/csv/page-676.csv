@@ -1,0 +1,25 @@
+0,2016-08-29 17:25:11 -0500,"['/t/video', '/t/practices']",System Methodology—Holistic Performance Analysis on Modern Systems,https://www.youtube.com/watch?v=eO94l0aGLCA,/u/sevan,1
+1,2016-08-29 07:43:49 -0500,"['/t/linux', '/t/rant', '/t/security']",Multiple vulnerabilities in RPM – and a rant,https://blog.fuzzing-project.org/52-Multiple-vulnerabilities-in-RPM-and-a-rant.html,/u/jabberwock,6
+10,2016-08-28 08:17:55 -0500,"['/t/programming', '/t/release']",Pony 0.3.0 released,https://github.com/ponylang/ponyc/releases/tag/0.3.0,/u/SeanTAllen,21
+6,2016-08-28 13:32:30 -0500,"['/t/linux', '/t/unix']",Evolution of shells in Linux: From Bourne to Bash and beyond,http://www.ibm.com/developerworks/library/l-linux-shells/index.html,/u/unbalancedparentheses,8
+5,2016-08-28 12:27:42 -0500,"['/t/programming', '/t/python']",How I built a Slack bot to help me find an apartment in San Francisco,https://www.dataquest.io/blog/apartment-finding-slackbot/,/u/calvin,9
+1,2016-08-28 14:34:00 -0500,"['/t/video', '/t/lisp']","Common Lisp, SLIME, Quicklisp, ASDF and Prove Test-Driven Development Session",https://asciinema.org/a/84033,/u/dwc,11
+7,2016-08-28 05:40:17 -0500,['/t/rust'],Adding a billion numbers in Rust,http://pramode.in/2016/08/25/rust-add-billion-numbers/,/u/pyk,19
+1,2016-08-28 17:13:59 -0500,"['/t/compsci', '/t/release', '/t/testing']",Automatic Combinatorial Testing for Software (ACTS) by NIST,http://csrc.nist.gov/groups/SNS/acts/index.html,/u/nickpsecurity,7
+0,2016-08-28 09:06:49 -0500,"['/t/historical', '/t/programming', '/t/unix']",Epoch Zero,http://markfrimston.co.uk/articles/34/epoch-zero,/u/jabberwock,11
+1,2016-08-28 13:58:56 -0500,"['/t/video', '/t/historical', '/t/unix']",The Computer Chronicles: UNIX,https://www.youtube.com/watch?v=Yas19evqcT8,/u/calvin,5
+1,2016-08-28 11:29:39 -0500,"['/t/practices', '/t/programming', '/t/python']",Good logging practice in Python,http://victorlin.me/posts/2012/08/26/good-logging-practice-in-python,/u/quobit,5
+1,2016-08-28 13:02:16 -0500,['/t/compsci'],Optimizing Matrix Multiplication,https://attractivechaos.wordpress.com/2016/08/28/optimizing-matrix-multiplication/,/u/mjn,3
+0,2016-08-28 04:56:17 -0500,"['/t/release', '/t/security']",Opera server breach incident,http://www.opera.com/blogs/security/2016/08/opera-server-breach-incident/,/u/mulander,7
+10,2016-08-27 15:57:19 -0500,['/t/release'],ReactOS 0.4.2 Released,https://www.reactos.org/project-news/reactos-042-released,/u/natano,13
+0,2016-08-28 14:33:03 -0500,"['/t/hardware', '/t/historical', '/t/person']","John Ellenby, Visionary Who Helped Create Early Laptop, Dies at 75",http://www.nytimes.com/2016/08/27/technology/john-ellenby-visionary-who-helped-create-early-laptop-dies-at-75.html,/u/calvin,1
+0,2016-08-27 16:31:50 -0500,"['/t/compilers', '/t/swift']","Trill: A typed, LLVM-backed compiler, inspired by (and written in) Swift",https://github.com/harlanhaskins/trill,/u/harlanhaskins,10
+5,2016-08-27 12:58:33 -0500,['/t/security'],Certificate Authority Gave Out Certs For GitHub To Someone Who Just Had A GitHub Account,https://www.techdirt.com/articles/20160825/12181835347/certificate-authority-gave-out-certs-github-to-someone-who-just-had-github-account.shtml,/u/calvin,12
+3,2016-08-27 11:43:57 -0500,"['/t/c', '/t/compilers', '/t/programming']",Implementing a virtual machine in C [2015],http://blog.felixangell.com/blog/virtual-machine-in-c,/u/unbalancedparentheses,14
+2,2016-08-27 12:58:15 -0500,"['/t/compilers', '/t/go', '/t/programming']",An introduction to LLVM in Go,http://blog.felixangell.com/blog/an-introduction-to-llvm-in-go,/u/unbalancedparentheses,7
+0,2016-08-27 19:49:48 -0500,"['/t/hardware', '/t/release']",platomav/MEAnalyzer - Intel Engine Firmware Analysis Tool,https://github.com/platomav/MEAnalyzer,/u/sevan,4
+0,2016-08-27 12:09:50 -0500,"['/t/c', '/t/programming', '/t/windows']","Spurious wakes, race conditions, and bogus FIFO claims: A peek behind the curtain of WaitOnAddress",https://blogs.msdn.microsoft.com/oldnewthing/20160826-00/?p=94185,/u/tedu,7
+0,2016-08-27 12:58:25 -0500,"['/t/compilers', '/t/programming']",Implementing a programming language in D: Parsing to an AST,http://blog.felixangell.com/blog/menu-implementing-a-programming-language-in-d-part-2,/u/unbalancedparentheses,4
+0,2016-08-27 11:14:07 -0500,"['/t/graphics', '/t/math']",Fluid Simulation (with WebGL demo),http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/,/u/friendlysock,3
+0,2016-08-27 12:58:30 -0500,"['/t/compilers', '/t/programming']",Implementing a programming language in D: Lexical Analysis,http://blog.felixangell.com/blog/implementing-a-programming-language-in-d-part-1,/u/unbalancedparentheses,2
+11,2016-08-26 12:57:37 -0500,"['/t/practices', '/t/programming', '/t/release']",A haiku for better code review,https://text.sourcegraph.com/poetically-simple-code-review-e6804724b8e8,/u/chexee,7

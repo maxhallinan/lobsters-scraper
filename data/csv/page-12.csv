@@ -1,0 +1,25 @@
+2,2018-02-23 11:09:33 -0600,['/t/databases'],The Rise of the Distributed SQL Database,https://crate.io/a/rise-distributed-sql-database/,/u/nslater,7
+6,2018-02-23 00:14:14 -0600,"['/t/historical', '/t/web']",Why Unicode Won't Work on the Internet (2001),http://www.hastingsresearch.com/net/04-unicode-limitations.shtml,/u/zpojqwfejwfhiunz,15
+43,2018-02-22 11:31:44 -0600,['/t/nodejs'],Critical Linux filesystem permissions are being changed by NPM 5.7.0,https://github.com/npm/npm/issues/19883,/u/liwakura,57
+2,2018-02-23 05:24:08 -0600,"['/t/education', '/t/programming']",Teaching a strategy for reading code,https://medium.com/bits-and-behavior/teaching-a-strategy-for-reading-code-fbc9f4044cab,/u/quobit,11
+0,2018-02-23 12:28:53 -0600,"['/t/design', '/t/graphics']",Why Dots Per Inch Isn't Pixels Per Inch,https://tedium.co/2018/01/18/dots-per-inch-pixels-per-inch/,/u/calvin,6
+3,2018-02-23 12:28:13 -0600,"['/t/assembly', '/t/hardware', '/t/security']",Capability Addressing,http://mrfunk.info/?page_id=5,/u/calvin,3
+0,2018-02-23 13:57:33 -0600,"['/t/linux', '/t/python']",Writing a Simple D-Bus Service in Python,https://gkbrk.com/2018/02/simple-dbus-service-in-python/,/u/gkbrk,2
+0,2018-02-22 22:44:17 -0600,['/t/openbsd'],Pledge: OpenBSD’s defensive approach to OS Security,https://medium.com/@_neerajpal/pledge-openbsds-defensive-approach-for-os-security-86629ef779ce,/u/nanxiao,20
+0,2018-02-23 07:12:26 -0600,"['/t/historical', '/t/reversing']",Pascal Out Of Memory,http://www.os2museum.com/wp/pascal-out-of-memory/,/u/calvin,6
+0,2018-02-23 06:39:55 -0600,['/t/law'],Aura,https://alastairs-place.net/blog/2018/02/21/aura,/u/hashemi,6
+0,2018-02-23 18:22:07 -0600,"['/t/networking', '/t/security', '/t/virtualization']",Review of LibVNCServer/vncterm proxmox/vncterm proxmox/spiceterm xenserver/vncterm qemu/ui/console.c,http://www.openwall.com/lists/oss-security/2018/02/22/4,/u/fcbsd,1
+55,2018-02-22 06:22:57 -0600,['/t/programming'],Are there any interpreted languages?,http://blog.asrpo.com/are_there_interpreted_languages,/u/asrp,21
+0,2018-02-23 16:31:15 -0600,"['/t/ai', '/t/security']",Noise warfare,https://www.seas.harvard.edu/news/2018/02/noise-warfare,/u/mempko,1
+13,2018-02-22 07:13:54 -0600,['/t/rust'],Why Writing a Linked List in (safe) Rust is So Damned Hard,https://rcoh.me/posts/rust-linked-list-basically-impossible/,/u/calvin,28
+0,2018-02-23 10:55:25 -0600,['/t/meta'],New comments should be highlighted for longer,/s/wlallo/new_comments_should_be_highlighted_for,/u/4ad,2
+0,2018-02-22 19:13:03 -0600,"['/t/c++', '/t/practices']",C++ Patterns,https://cpppatterns.com,/u/davidholman,14
+2,2018-02-22 21:31:59 -0600,"['/t/practices', '/t/python']","My Python Development Environment, 2018 Edition « Jacob Kaplan-Moss",https://jacobian.org/writing/python-environment-2018/,/u/wyclif,7
+0,2018-02-22 20:33:49 -0600,['/t/linux'],New tricks for XFS,https://lwn.net/SubscriberLink/747633/ad7f94ed75c8779e/,/u/calvin,11
+37,2018-02-22 01:40:16 -0600,"['/t/go', '/t/rant']",I Do Not Like Go,https://grimoire.ca/dev/go,/u/fkr,120
+2,2018-02-22 23:29:26 -0600,"['/t/crypto', '/t/programming']",Assembling with your own hands a demonstrably-correct set of routines for multi-precision arithmetic,http://www.loper-os.org/?p=1913,/u/akkartik,4
+4,2018-02-22 14:29:22 -0600,"['/t/compsci', '/t/education']",The Basic Toolbox,https://blog.regehr.org/archives/1578,/u/hwayne,8
+0,2018-02-23 09:13:51 -0600,"['/t/pdf', '/t/rust', '/t/security']",Rust SGX SDK: Towards Memory Safety in Intel SGX (2017),https://qconsf.com/system/files/presentation-slides/qconsf-reviewed-ding.pdf,/u/nickpsecurity,1
+0,2018-02-23 09:12:16 -0600,"['/t/pdf', '/t/ai', '/t/scala']",Typesafe Abstractions for Tensor Operations (2017),https://www.cs.jhu.edu/~tongfei/paper/17-typesafe-tensors.pdf,/u/nickpsecurity,1
+0,2018-02-23 09:06:50 -0600,"['/t/pdf', '/t/formalmethods', '/t/programming']",Loop invariant inference from postconditions in EVE (2013),http://se.inf.ethz.ch/student_projects/michael_ameri/report.pdf,/u/nickpsecurity,1
+0,2018-02-23 07:36:32 -0600,"['/t/rust', '/t/security', '/t/vcs']",Cargo: Windows 7 users broken by Github dropping TLS 1.0/1.1,https://github.com/rust-lang/cargo/issues/5066,/u/colindean,1

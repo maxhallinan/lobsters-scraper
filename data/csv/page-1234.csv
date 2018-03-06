@@ -1,0 +1,25 @@
+0,2014-10-14 15:13:22 -0500,"['/t/javascript', '/t/web']",The GoCardless AngularJS Style Guide,https://gocardless.com/blog/angularjs-style-guide/,/u/maxmurdoch,9
+0,2014-10-14 13:00:39 -0500,"['/t/haskell', '/t/javascript']",Reimplementing a NodeJS Service in Haskell,https://gist.github.com/paf31/9c4d402d400d61a49656,/u/paf31,9
+32,2014-10-14 07:40:31 -0500,['/t/ask'],What are you working on this week?,/s/atgisx/what_are_you_working_on_this_week,/u/japesinator,22
+6,2014-10-13 21:12:04 -0500,"['/t/go', '/t/programming']","Brad Fitzpatrick on the future of the Go programming language (1.4, 1.5, & 2.0)",http://dotgo.sourcegraph.com/post/99652962343/brad-fitzpatrick-on-the-future-of-the-go-programming,/u/sqs,12
+1,2014-10-14 09:21:48 -0500,"['/t/security', '/t/web']",Nasty SSL 3.0 vulnerability to be revealed soon,http://www.theregister.co.uk/2014/10/14/nasty_ssl_30_vulnerability_to_drop_tomorrow/,/u/djm,4
+0,2014-10-14 19:22:12 -0500,['/t/science'],"Les Roberts – “Day 7: Brutal Triage” | Freetown, Sierre Leone",http://pfmhcolumbia.wordpress.com/2014/10/12/les-roberts-the-prediction-landscape-is-looking-bad/,/u/hblanks,1
+0,2014-10-14 16:31:05 -0500,['/t/ruby'],Rails simple queries with Arel - for beginners,http://jocellyn.cz/2014/09/29/rails-queries-with-arel.html,/u/shosanna,1
+1,2014-10-14 03:42:05 -0500,"['/t/security', '/t/windows']",iSIGHT discovers zero-day vulnerability CVE-2014-4114 used in Russian cyber-espionage campaign,http://www.isightpartners.com/2014/10/cve-2014-4114/,/u/henkjan,5
+1,2014-10-13 16:28:45 -0500,"['/t/security', '/t/vim']",Vim blowfish encryption... or why you shouldn't roll your own crypto,https://dgl.cx/2014/10/vim-blowfish,/u/henkjan,15
+2,2014-10-13 15:40:30 -0500,"['/t/go', '/t/programming']",Why threads can't fork,http://thorstenball.com/blog/2014/10/13/why-threads-cant-fork/,/u/zem,14
+0,2014-10-14 11:29:01 -0500,"['/t/ml', '/t/programming']",The mLite Language,http://t3x.org/mlite/,/u/jturner,1
+2,2014-10-13 13:52:46 -0500,"['/t/pdf', '/t/haskell']",Programming in Idris: A tutorial,http://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf,/u/SeanTAllen,15
+0,2014-10-13 21:12:32 -0500,['/t/games'],It Runs Doom!,http://itrunsdoom.tumblr.com/,/u/puffnfresh,6
+0,2014-10-13 11:17:47 -0500,"['/t/databases', '/t/visualization']",Following a Select Statement Through Postgres Internals,http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals,/u/jcs,13
+0,2014-10-14 04:00:15 -0500,"['/t/slides', '/t/programming']",Object-Functional Programming – A Beautiful Unification or a Kitchen Sink?,https://speakerdeck.com/missingfaktor/object-functional-programming-a-beautiful-unification-or-a-kitchen-sink,/u/lauris,1
+0,2014-10-13 11:05:40 -0500,['/t/math'],Silverman's Mode Estimation Method Explained,http://adereth.github.io/blog/2014/10/12/silvermans-mode-detection-method-explained/,/u/adereth,10
+0,2014-10-13 13:12:32 -0500,"['/t/ios', '/t/swift']",Using XCode playgrounds with less hassle,http://chrisbuchholz.me/writings/2014/10/13/using-xcode-playgrounds-with-less-hassle/,/u/fredsir,4
+0,2014-10-13 07:44:25 -0500,"['/t/go', '/t/web']",Building Web Apps with Go,http://codegangsta.gitbooks.io/building-web-apps-with-go/,/u/jpadilla,5
+4,2014-10-13 14:19:29 -0500,"['/t/culture', '/t/rant']","Your ""Baloney Detection Kit"" Sucks",http://laurencetennant.com/bonds/bdksucks.html,/u/silentbicycle,7
+2,2014-10-12 17:28:20 -0500,"['/t/games', '/t/programming', '/t/rust']",A Doom Renderer written in Rust,https://github.com/cristicbz/rust-doom,/u/davecardwell,16
+0,2014-10-12 21:04:57 -0500,"['/t/hardware', '/t/math']",Rolling Shutters,http://jasmcole.com/2014/10/12/rolling-shutters/,/u/pushcx,10
+0,2014-10-13 08:46:12 -0500,"['/t/compsci', '/t/javascript', '/t/release']",Transducers.js: A JavaScript Library for Transformation of Data,http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data,/u/pushcx,1
+0,2014-10-12 13:25:07 -0500,"['/t/go', '/t/hardware']",NUMA-aware scheduler for Go,https://docs.google.com/document/d/1d3iI2QWURgDIsSR6G2275vMeQ_X7w-qxM2Vp7iGwwuM/pub,/u/vjoel,8
+0,2014-10-12 16:52:54 -0500,"['/t/pdf', '/t/compsci', '/t/mac']",Kqueue: A generic and scalable event notification facility,http://people.freebsd.org/~jlemon/papers/kqueue.pdf,/u/old_sound,5
+1,2014-10-12 14:56:30 -0500,['/t/linux'],ChromeOS: Drop support for ext2/3/4 from Files.app (external storage),https://code.google.com/p/chromium/issues/detail?id=315401,/u/journeysquid,5

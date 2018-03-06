@@ -1,0 +1,25 @@
+0,2017-03-16 17:40:57 -0500,"['/t/compsci', '/t/distributed', '/t/hardware']","NSA, DOE say China's supercomputing advances put U.S. at risk",http://www.computerworld.com/article/3180984/high-performance-computing/spy-agency-doe-see-china-nearing-supercomputing-leadership.html,/u/vmarsy,1
+1,2017-03-16 08:17:04 -0500,['/t/practices'],Systems Smart Enough To Know When They're Not Smart Enough,https://bigmedium.com/ideas/systems-smart-enough-to-know-theyre-not-smart-enough.html,/u/flyingfisch,2
+1,2017-03-15 19:21:15 -0500,['/t/freebsd'],FreeBSD on Google Cloud Platform,https://googlecloudplatform.uservoice.com/forums/302595-compute-engine/suggestions/18618931-freebsd,/u/fr,9
+0,2017-03-16 09:14:37 -0500,['/t/javascript'],Where did Vue.js come from?,https://modernweb.com/where-did-vue-js-come-from/,/u/mikehostetler,2
+0,2017-03-16 12:14:57 -0500,"['/t/cogsci', '/t/release']",Google open-sources Tensorflow based framework for NLP,https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html,/u/av,1
+20,2017-03-15 04:56:27 -0500,['/t/job'],A list of companies that don't do typical CS based whiteboard interviews,https://github.com/poteto/hiring-without-whiteboards,/u/hoopla,21
+1,2017-03-16 06:20:03 -0500,"['/t/pdf', '/t/hardware']",WALNUT: Waging Doubt on the Integrity of MEMS Accelerometers with Acoustic Injection Attacks,https://spqr.eecs.umich.edu/papers/trippel-IEEE-oaklawn-walnut-2017.pdf,/u/calvin,1
+0,2017-03-15 13:01:57 -0500,['/t/law'],Do GitHub's updated terms of service conflict with copyleft?,https://www.fsf.org/blogs/licensing/do-githubs-updated-terms-of-service-conflict-with-copyleft,/u/pizzaiolo,17
+1,2017-03-16 05:54:55 -0500,['/t/job'],Job opening: Engineering Manager - Platform team at LaterPay,https://laterpay.workable.com/jobs/366474,/u/stig,2
+1,2017-03-16 02:05:19 -0500,"['/t/programming', '/t/web']","GitLab acquires software chat startup Gitter, will open-source the code",http://venturebeat.com/2017/03/15/gitlab-acquires-software-chat-startup-gitter-will-open-source-the-code/,/u/qznc,2
+0,2017-03-15 12:45:38 -0500,"['/t/c', '/t/hardware', '/t/science']",Homemade GPS Receiver,http://www.aholme.co.uk/GPS/Main.htm,/u/weakforce,13
+0,2017-03-15 11:24:40 -0500,"['/t/compilers', '/t/ruby']","Ruby 3x3: Matz, Koichi, and Tenderlove on the future of Ruby Performance",https://blog.heroku.com/ruby-3-by-3,/u/pushcx,15
+1,2017-03-15 10:04:44 -0500,['/t/web'],Why WebAssembly is Faster Than asm.js,https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/,/u/flyingfisch,13
+0,2017-03-15 14:00:21 -0500,"['/t/pdf', '/t/networking', '/t/unix']",10 years with DragonFlyBSD network stack,https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf,/u/sevan,9
+0,2017-03-15 15:01:26 -0500,['/t/freebsd'],Introducing FreeNAS Corral: The World's First Open Source Hyper-converged Storage Platform,http://www.freenas.org/blog/introducing-freenas-corral-worlds-first-open-source-hyper-converged-storage-platform/,/u/lattera,7
+0,2017-03-15 14:06:23 -0500,['/t/practices'],Etsy’s Debriefing Facilitation Guide for Blameless Postmortems,https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/,/u/pushcx,7
+2,2017-03-15 12:55:45 -0500,"['/t/devops', '/t/practices']","Measure Anything, Measure Everything",https://codeascraft.com/2011/02/15/measure-anything-measure-everything/,/u/friendlysock,4
+5,2017-03-15 10:41:01 -0500,['/t/java'],Why Kotlin Sucks,https://kukuruku.co/post/why-kotlin-sucks/,/u/pushcx,4
+13,2017-03-14 17:58:53 -0500,['/t/programming'],The million dollar engineering problem,https://segment.com/blog/the-million-dollar-eng-problem/,/u/kb,31
+1,2017-03-15 09:24:41 -0500,"['/t/hardware', '/t/reversing']","Overclocking tools for Nvidia GPUs suck, I made my own.",https://1vwjbxf1wko0yhnr.wordpress.com/2015/08/10/overclocking-tools-for-nvidia-gpus-suck-i-made-my-own/,/u/colin,10
+1,2017-03-15 07:11:37 -0500,"['/t/hardware', '/t/linux']","BeagleBone Blue – A complete, Linux-enabled robotics computer",https://beagleboard.org/blue,/u/av,12
+0,2017-03-15 14:36:30 -0500,['/t/javascript'],The Missing Immutable.js Manual with all the Examples you’ll ever need,http://untangled.io/the-missing-immutable-js-manual/,/u/pushcx,6
+2,2017-03-15 11:45:35 -0500,['/t/meta'],"New tag suggestion: ""wasm"" (WebAssembly)",/s/scqwzp/new_tag_suggestion_wasm_webassembly,/u/munyari,5
+1,2017-03-15 10:34:38 -0500,"['/t/cogsci', '/t/programming']",How to replicate IBM Watson hardware and systems design for your own use in your basement (2011),https://www.ibm.com/developerworks/community/blogs/InsideSystemStorage/entry/ibm_watson_how_to_build_your_own_watson_jr_in_your_basement7,/u/bsima,6
+15,2017-03-14 13:04:03 -0500,['/t/programming'],A formal spec for GitHub Flavored Markdown,https://githubengineering.com/a-formal-spec-for-github-markdown/,/u/pushcx,44

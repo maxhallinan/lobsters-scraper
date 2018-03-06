@@ -1,0 +1,25 @@
+2,2017-06-22 09:43:01 -0500,"['/t/javascript', '/t/security']",Gathering weak npm credentials,https://github.com/ChALkeR/notes/blob/master/Gathering-weak-npm-credentials.md,/u/jan,9
+0,2017-06-22 02:13:21 -0500,"['/t/assembly', '/t/openbsd', '/t/security']",OpenBSD now has Trapsleds to make life harder for ROPers,http://undeadly.org/cgi?action=article&sid=20170622065629,/u/stsp,26
+0,2017-06-22 07:36:38 -0500,['/t/compilers'],What Challenges and Trade-Offs do Optimising Compilers Face?,http://tratt.net/laurie/blog/entries/what_challenges_and_trade_offs_do_optimising_compilers_face.html,/u/GeoffWozniak,14
+18,2017-06-21 07:08:02 -0500,['/t/practices'],The bad reasons you’re forced to work long hours,https://codewithoutrules.com/2017/06/21/why-company-want-long-hours/,/u/itamarst,42
+2,2017-06-21 22:51:25 -0500,"['/t/erlang', '/t/release']",Erlang/OTP 20.0 has been released,http://erlang.org/pipermail/erlang-questions/2017-June/092646.html,/u/evaryont,23
+18,2017-06-21 10:47:04 -0500,"['/t/compilers', '/t/release']",D Language accepted for inclusion in GCC,https://gcc.gnu.org/ml/gcc/2017-06/msg00111.html,/u/calvin,46
+0,2017-06-22 13:10:30 -0500,['/t/ios'],Making an iOS app small,https://medium.com/@sandofsky/one-weird-trick-to-lose-size-c0a4013de331,/u/kb,4
+2,2017-06-22 12:34:12 -0500,['/t/go'],"ActiveGo, a New Commercial Go Distribution From ActiveState",https://thenewstack.io/activestate-reveals-commercial-go-distribution-activego/,/u/benballjr,1
+0,2017-06-22 09:05:51 -0500,"['/t/pdf', '/t/compsci', '/t/programming']","Blueprint for an Embedded, Systems, Programming Language (2014)",http://www2.hawaii.edu/~depengli/Publication/sit-2014-paul.pdf,/u/nickpsecurity,6
+0,2017-06-22 06:24:03 -0500,"['/t/dotnet', '/t/programming']",Doing a Double-Take with .NET Core,https://www.dailydrip.com/blog/doing-a-double-take-with-net-core.html,/u/franzunix,7
+0,2017-06-22 06:12:28 -0500,['/t/practices'],Code Health: Too Many Comments on Your Code Reviews?,https://testing.googleblog.com/2017/06/code-health-too-many-comments-on-your.html,/u/calvin,7
+0,2017-06-22 12:11:49 -0500,['/t/security'],"New Apache HTTP Server Release Fixes Authentication Bypass, Denial-of-Service Flaws",https://thenewstack.io/new-apache-http-server-release-fixes-auth-bypass-denial-service-flaws/,/u/benballjr,3
+0,2017-06-22 08:59:42 -0500,['/t/release'],Opus gets another major upgrade with the release of version 1.2,http://opus-codec.org/release/stable/2017/06/20/libopus-1_2.html,/u/pizzaiolo,4
+0,2017-06-22 09:06:56 -0500,"['/t/pdf', '/t/compsci', '/t/programming', '/t/testing']","An Orchestrated Survey on Automated, Software, Test-Case Generation (2013)",https://cs.stanford.edu/people/saswat/research/ASTJSS.pdf,/u/nickpsecurity,3
+2,2017-06-21 08:13:48 -0500,"['/t/historical', '/t/openbsd']",Historical: My first OpenBSD Hackathon,http://bad.network/historical-my-first-openbsd-hackathon.html,/u/stsp,41
+6,2017-06-21 16:19:23 -0500,"['/t/practices', '/t/security', '/t/windows']",Microsoft’s decision to patch Windows XP is a mistake (2014-ish),https://arstechnica.com/security/2017/06/microsofts-decision-to-patch-windows-xp-is-a-mistake/,/u/tedu,10
+16,2017-06-21 08:14:38 -0500,"['/t/compilers', '/t/person']","Chris Lattner: ""Turns out that Tesla isn't a good fit for me after all.""",https://twitter.com/clattner_llvm/status/877341760812232704,/u/sebastien,14
+4,2017-06-21 14:41:28 -0500,"['/t/practices', '/t/programming']",Minio as Helm repository for your Kubernetes cluster,https://blog.minio.io/minio-as-helm-repository-for-your-kubernetes-cluster-9b2dcc771ee5,/u/tiwarinitish86,5
+4,2017-06-21 12:07:39 -0500,"['/t/video', '/t/games', '/t/historical', '/t/person', '/t/programming']",The Early Days of Id Software - John Romero @ WeAreDevelopers Conference 2017,https://www.youtube.com/watch?v=KFziBfvAFnM,/u/sevan,16
+0,2017-06-22 06:40:42 -0500,"['/t/compsci', '/t/math']",Quaternion quantization,http://marc-b-reynolds.github.io/quaternions/2017/05/02/QuatQuantPart1.html,/u/fcbsd,2
+0,2017-06-22 05:39:46 -0500,['/t/ai'],MultiModel: Multi-Task Machine Learning Across Domains,https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html,/u/wgx,2
+6,2017-06-21 06:47:34 -0500,['/t/security'],The OpenVPN post-audit bug bonanza,https://guidovranken.wordpress.com/2017/06/21/the-openvpn-post-audit-bug-bonanza/,/u/stsp,20
+17,2017-06-20 22:13:30 -0500,"['/t/android', '/t/browsers', '/t/privacy', '/t/release']","Firefox Focus New to Android, blocks annoying ads and protects your privacy",https://blog.mozilla.org/blog/2017/06/20/firefox-focus-new-to-android-blocks-annoying-ads-and-protects-your-privacy/,/u/ahal,43
+0,2017-06-21 16:23:44 -0500,"['/t/assembly', '/t/linux']",Manually Creating an ELF Executable (2014),https://web.archive.org/web/20140130143820/http://robinhoksbergen.com/papers/howto_elf.html,/u/pushcx,8
+0,2017-06-22 02:53:04 -0500,"['/t/compsci', '/t/go']",3D Packing for SLS Printing,https://www.michaelfogleman.com/sls/,/u/klingtnet,2

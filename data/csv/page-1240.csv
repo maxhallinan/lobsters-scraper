@@ -1,0 +1,25 @@
+0,2014-10-01 08:26:23 -0500,['/t/openbsd'],OpenBSD 5.6 is available for pre-order,http://www.openbsd.org/orders.html,/u/journeysquid,20
+4,2014-10-01 10:16:46 -0500,['/t/security'],"Bash bug: the other two RCEs, or how we chipped away at the original fix (CVE-2014-6277 and '78)",http://lcamtuf.blogspot.com/2014/10/bash-bug-how-we-finally-cracked.html,/u/jcs,10
+2,2014-10-01 15:53:16 -0500,"['/t/pdf', '/t/programming']",Verifying higher-order programs with the Djikstra Monad,http://research.microsoft.com/en-us/um/people/nswamy/papers/dijkstra-submitted-pldi13.pdf,/u/bitemyapp,5
+0,2014-10-01 20:08:47 -0500,"['/t/pdf', '/t/compsci']",Parallel scheduling of task trees with limited memory,http://arxiv.org/pdf/1410.0329.pdf,/u/animatronic,3
+0,2014-10-02 00:57:01 -0500,['/t/science'],Control theory,http://en.wikipedia.org/wiki/Control_theory,/u/animatronic,1
+0,2014-10-02 00:28:35 -0500,['/t/linux'],cool-retro-term,https://github.com/Swordfish90/cool-retro-term,/u/jm,1
+0,2014-10-01 13:37:42 -0500,"['/t/distributed', '/t/erlang']","SyncFree Consortium / Programming Models, Part 2: QuickChecking Derflow",http://christophermeiklejohn.com/derflow/erlang/2014/10/01/quickchecking-derflow.html,/u/cmeiklejohn,5
+0,2014-10-01 18:09:00 -0500,"['/t/pdf', '/t/compsci']",URDB: A Universal Reversible Debugger Based on Decomposing Debugging Histories,http://www.ccs.neu.edu/home/amvisan/plos-2011.pdf,/u/animatronic,2
+0,2014-10-01 20:43:38 -0500,['/t/hardware'],15 Years of CUPS,https://www.cups.org/blog.php?L732,/u/journeysquid,1
+0,2014-10-01 13:37:17 -0500,"['/t/distributed', '/t/erlang']",Death by Accidental Complexity,http://www.infoq.com/presentations/Death-by-Accidental-Complexity,/u/cmeiklejohn,3
+0,2014-10-01 20:08:07 -0500,"['/t/pdf', '/t/compsci', '/t/networking']",An Open-Source Research Platform for Embedded Visible Light Networking,http://arxiv.org/abs/1410.0328,/u/animatronic,1
+0,2014-09-30 20:16:48 -0500,"['/t/programming', '/t/rust']",A Fresh Look at Rust,http://lucumr.pocoo.org/2014/10/1/a-fresh-look-at-rust/,/u/davecardwell,23
+0,2014-10-01 15:19:30 -0500,"['/t/security', '/t/virtualization']",Xen Advisory XSA-108: Improper MSR range,http://xenbits.xen.org/xsa/advisory-108.html,/u/tedu,2
+0,2014-10-01 10:11:51 -0500,"['/t/pdf', '/t/compsci']",Semantics of x86 Multiprocessor Machine Code [2009],http://www.cl.cam.ac.uk/~pes20/weakmemory/popl09.pdf,/u/aysylu,4
+0,2014-10-01 09:59:45 -0500,['/t/javascript'],Embracing Async in JavaScript (Part 1),http://io.pellucid.com/blog/embracing-async-in-javascript-part-1,/u/dtwhitney,4
+0,2014-10-01 18:17:51 -0500,['/t/ios'],How Does the iOS 8 Time-lapse Feature Work?,http://www.studioneat.com/blogs/main/15467765-how-does-the-ios-8-time-lapse-feature-work,/u/tedu,1
+0,2014-10-01 18:06:31 -0500,"['/t/pdf', '/t/compsci']",FReD: Automated Debugging via Binary Search through a Process Lifetime,http://arxiv.org/pdf/1212.5204.pdf,/u/animatronic,1
+0,2014-10-01 14:06:01 -0500,['/t/release'],Beyond Light Table,http://www.chris-granger.com/2014/10/01/beyond-light-table/,/u/alexkorban,2
+0,2014-10-01 13:54:41 -0500,"['/t/haskell', '/t/programming']",Monads in Haskell: Reader,http://www.mjoldfield.com/atelier/2014/08/monads-reader.html,/u/bitemyapp,2
+0,2014-10-01 08:53:26 -0500,['/t/windows'],"New experimental console features in Windows ""Threshold"" (Windows 10)",http://withinrafael.com/new-experimental-console-features-in-windows-threshold/,/u/silent__thought,1
+5,2014-09-30 10:13:59 -0500,['/t/go'],Idiomatic Generics in Go,http://bouk.co/blog/idiomatic-generics-in-go/,/u/jm,11
+0,2014-10-01 13:02:43 -0500,"['/t/ruby', '/t/web']",Getting Started With Active Job,https://blog.engineyard.com/2014/getting-started-with-active-job,/u/PJ,0
+0,2014-09-30 09:34:14 -0500,"['/t/devops', '/t/security', '/t/virtualization']","Re-imagining Operating Systems: Xen, Unikernels, and the Library OS",https://spin.atomicobject.com/2014/09/27/reimagining-operating-systems/,/u/silentbicycle,14
+0,2014-09-30 22:01:51 -0500,"['/t/video', '/t/haskell', '/t/programming']",Introduction to Low Level Haskell Optimization,https://www.youtube.com/watch?v=McFNkLPTOSY&feature=youtu.be,/u/bitemyapp,3
+1,2014-09-30 11:29:34 -0500,"['/t/hardware', '/t/reversing', '/t/security']",AES-256 Is Not Enough: Breaking a Bootloader,http://hackaday.io/project/956/log/10108-aes256-is-not-enough-breaking-a-bootloader,/u/jcs,9

@@ -1,0 +1,25 @@
+0,2017-03-18 11:43:18 -0500,"['/t/go', '/t/graphics']","OpenGL & Go Tutorial Part 1: Hello, OpenGL",https://kylewbanks.com/blog/tutorial-opengl-with-golang-part-1-hello-opengl,/u/av,1
+0,2017-03-18 06:53:16 -0500,"['/t/security', '/t/windows']",Pass-the-Hash Is Dead: Long Live LocalAccountTokenFilterPolicy,http://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/,/u/calvin,2
+0,2017-03-17 19:53:56 -0500,['/t/programming'],97 Things Every Programmer Should Know,http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know,/u/adsouza,7
+1,2017-03-17 15:43:06 -0500,"['/t/pdf', '/t/databases', '/t/linux', '/t/vcs']",All File Systems are Not Created Equal (2014),https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-pillai.pdf,/u/k749gtnc9l3w,9
+0,2017-03-17 13:36:28 -0500,"['/t/programming', '/t/rust']",Cross-compile and link a static binary on macOS for Linux with cargo and rust - chr4,https://chr4.org/blog/2017/03/15/cross-compile-and-link-a-static-binary-on-macos-for-linux-with-cargo-and-rust,/u/chr4,7
+0,2017-03-17 11:13:01 -0500,['/t/design'],Checkbox vs toggle,http://ux.stackexchange.com/questions/63884/checkbox-vs-toggle#63886,/u/flyingfisch,14
+3,2017-03-17 08:16:15 -0500,"['/t/go', '/t/programming']","If you code in Go, don't forget to vet",https://www.spreadsheetdb.io/blog/2017/03/if-you-code-in-go-dont-forget-to-vet,/u/Clex,5
+5,2017-03-17 09:00:51 -0500,['/t/hardware'],"Uber’s autonomous cars drove 20,354 miles and had to be taken over at every mile, according to documents",http://www.recode.net/2017/3/16/14938116/uber-travis-kalanick-self-driving-internal-metrics-slow-progress,/u/jch,8
+0,2017-03-17 20:33:50 -0500,"['/t/databases', '/t/devops']",On the impact of full-page writes,https://blog.2ndquadrant.com/on-the-impact-of-full-page-writes/,/u/pushcx,4
+6,2017-03-17 06:20:58 -0500,"['/t/programming', '/t/vcs']",How to write a good git commit message that people can read and tools can parse,https://github.com/joelparkerhenderson/git_commit_message,/u/qznc,11
+0,2017-03-17 19:04:19 -0500,"['/t/compsci', '/t/databases']",The Noisiest Block in the Neighborhood: Analyzing NYC Data with Mongolite,https://emptysqua.re/blog/analyze-noise-complaints-r-mongodb-mongolite/,/u/kartik,4
+0,2017-03-17 20:56:29 -0500,"['/t/video', '/t/games']",Breaking Conventions with The Legend of Zelda: Breath of the Wild,https://www.youtube.com/watch?v=QyMsF31NdNc,/u/pushcx,3
+0,2017-03-17 16:47:31 -0500,"['/t/security', '/t/vcs']",A proof-of-concept of a vulnerability in custom shell prompt scripts,https://github.com/njhartwell/pw3nage,/u/junkblocker,4
+0,2017-03-17 20:39:50 -0500,"['/t/compilers', '/t/ruby']","Running Optcarrot, a Ruby NES emulator, at 150 fps with the GUI",http://eregon.me/blog/2016/11/28/optcarrot.html,/u/pushcx,3
+0,2017-03-17 19:12:57 -0500,"['/t/release', '/t/security', '/t/unix']",Call for testing: OpenSSH 7.5p1,http://marc.info/?l=openssh-unix-dev&m=148948810223933&w=2,/u/sevan,3
+0,2017-03-17 16:55:09 -0500,['/t/virtualization'],Speed up file access in Docker for Mac,https://medium.com/@akrillo89/speed-up-file-access-in-docker-for-mac-fbeee65d0ee7,/u/NanoXD,4
+0,2017-03-17 16:11:48 -0500,['/t/haskell'],eve - An extensible event-driven application framework,https://github.com/ChrisPenner/eve,/u/bsima,4
+0,2017-03-17 11:41:58 -0500,['/t/compsci'],Ode to a Vyukov Queue,https://int08h.com/post/ode-to-a-vyukov-queue/,/u/calvin,7
+0,2017-03-17 20:38:09 -0500,['/t/python'],Check Whether All Items Match a Condition in Python,http://treyhunner.com/2016/11/check-whether-all-items-match-a-condition-in-python,/u/pushcx,2
+2,2017-03-17 11:42:25 -0500,['/t/practices'],Names that Make Computers Go Crazy,https://agiletestingdays.com/blog/exclusive-excerpt-from-gojko-adzics-new-book-computer-says-no-names-that-make-computers-go-crazy/,/u/calvin,3
+0,2017-03-17 16:57:46 -0500,['/t/java'],Using JDK 9 Memory Order Modes,http://gee.cs.oswego.edu/dl/html/j9mm.html,/u/ThisIs_MyName,3
+0,2017-03-17 12:54:27 -0500,"['/t/video', '/t/hardware', '/t/historical']",8088 & 8086 CPUs... Why 16 bit Came Before 8 bit,https://www.youtube.com/watch?v=TjSpSTGV5M8,/u/flyingfisch,5
+0,2017-03-17 19:31:27 -0500,"['/t/video', '/t/hardware']",Optimizing a new processor architecture,https://www.youtube.com/watch?v=o0milqmt4ao,/u/sevan,2
+0,2017-03-17 17:42:12 -0500,['/t/networking'],Osmocom 3G and 2G Now Support Milenage Authentication,https://osmocom.org/news/67,/u/neeels,1
+1,2017-03-17 09:55:44 -0500,"['/t/security', '/t/web']",HTTPS Interception Weakens TLS Security,https://www.us-cert.gov/ncas/alerts/TA17-075A,/u/av,6

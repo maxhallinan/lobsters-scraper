@@ -1,0 +1,25 @@
+0,2017-01-04 13:14:03 -0600,['/t/netbsd'],"Hotplugging RAM - uvm_hotplug(9), the Xen balloon(4) driver and portmasters' FAQ",http://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20170104_1258.html,/u/sevan,1
+0,2017-01-03 20:08:07 -0600,"['/t/pdf', '/t/programming']","Toward Simplifying Application Development, in a Dozen Lessons",http://melconway.com/Home/pdf/simplify.pdf,/u/GeoffWozniak,9
+7,2017-01-03 09:59:04 -0600,['/t/security'],How Skype fixes security vulnerabilities,https://hub.zhovner.com/geek/how-skype-fixes-security-vulnerabilities/,/u/untitaker,13
+4,2017-01-03 06:21:46 -0600,"['/t/compsci', '/t/programming']",I Wrote a Faster Sorting Algorithm,https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/,/u/calvin,29
+1,2017-01-03 10:01:24 -0600,"['/t/historical', '/t/unix']","Why does ""cd //"" in bash set the path to ""//""?",https://lists.gnu.org/archive/html/bug-bash/2011-08/msg00294.html,/u/untitaker,21
+3,2017-01-03 12:17:52 -0600,['/t/programming'],Why Leap Seconds are Tricky and How to Deal With Them,https://kev.inburke.com/kevin/leap-seconds/,/u/kb,7
+2,2017-01-03 19:30:45 -0600,['/t/python'],"ntfy, notifications in your shell",http://ntfy.readthedocs.io/en/latest/,/u/bsima,4
+0,2017-01-03 15:15:31 -0600,"['/t/video', '/t/philosophy', '/t/programming']",Inventing on Principle,https://vimeo.com/36579366,/u/merzberimbow,13
+0,2017-01-04 09:49:24 -0600,['/t/css'],CSS Audits: Taking Stock of Your Code (2014),http://alistapart.com/article/css-audits-taking-stock-of-your-code,/u/flyingfisch,1
+0,2017-01-03 16:40:31 -0600,"['/t/art', '/t/lisp']",A Gentle Introduction to Music Composition Using Common LISP and Common Music,http://quod.lib.umich.edu/s/spobooks/bbv9810.0001.001/1:4/--algorithmic-composition-a-gentle-introduction-to-music?rgn=div1;view=toc,/u/julienXX,8
+0,2017-01-03 23:24:48 -0600,"['/t/pdf', '/t/book', '/t/compsci']",P ≟ NP,http://www.scottaaronson.com/papers/pnp.pdf,/u/pushcx,3
+0,2017-01-03 16:27:11 -0600,"['/t/networking', '/t/unix']",How fast are Unix domain sockets?,https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets,/u/julienXX,7
+0,2017-01-03 21:23:01 -0600,"['/t/devops', '/t/security']",Gone in 60 Milliseconds,https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds,/u/friendlysock,3
+3,2017-01-03 04:44:01 -0600,['/t/design'],Interface is evil,http://artgorbunov.ru/en/bb/ui/evil/,/u/freetonik,13
+9,2017-01-02 15:12:59 -0600,"['/t/show', '/t/practices']",jour - the simplest possible journal,https://github.com/bsima/jour,/u/bsima,23
+0,2017-01-03 18:40:18 -0600,"['/t/pdf', '/t/compsci', '/t/hardware', '/t/programming', '/t/security']",Survey of approaches for security verification of hardware/software systems,https://eprint.iacr.org/2016/846.pdf,/u/nickpsecurity,3
+0,2017-01-03 11:55:18 -0600,['/t/programming'],Have Fun with Machine Learning: A Guide for Beginners,https://github.com/humphd/have-fun-with-machine-learning,/u/pushcx,7
+0,2017-01-03 03:53:04 -0600,['/t/python'],Python 3.6 is packed with goodness,http://www.infoworld.com/article/3149782/application-development/python-36-is-packed-with-goodness.html,/u/maqio,16
+0,2017-01-03 10:13:21 -0600,['/t/javascript'],Does Google execute JavaScript?,https://www.stephanboyer.com/post/122/does-google-execute-javascript,/u/pizzaiolo,7
+0,2017-01-03 13:39:16 -0600,"['/t/browsers', '/t/graphics', '/t/math']",Shaping Curves with Parametric Equations,http://mattdesl.svbtle.com/shaping-curves-with-parametric-equations,/u/friendlysock,4
+0,2017-01-03 18:28:00 -0600,"['/t/hardware', '/t/historical']",The Ultimate Game Boy Talk,https://media.ccc.de/v/33c3-8029-the_ultimate_game_boy_talk,/u/quad,2
+0,2017-01-03 22:04:47 -0600,['/t/practices'],Spending Moore’s Dividend (2008),https://www.microsoft.com/en-us/research/publication/spending-moores-dividend/,/u/joshuacc,1
+3,2017-01-02 19:31:12 -0600,['/t/programming'],Sublime Text vs Visual Studio Code vs Atom Performance Test (Dec 2016),https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/,/u/calvin,20
+0,2017-01-03 05:23:43 -0600,"['/t/networking', '/t/web']",How and why the leap second affected Cloudflare DNS,http://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/,/u/magikid,6
+4,2017-01-02 16:33:11 -0600,"['/t/historical', '/t/practices']",When software ecosystems die,https://codewithoutrules.com/2017/01/02/when-software-dies/,/u/itamarst,12

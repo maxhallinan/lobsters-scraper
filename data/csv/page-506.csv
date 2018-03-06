@@ -1,0 +1,25 @@
+0,2017-02-02 13:19:35 -0600,"['/t/api', '/t/nodejs', '/t/web']",Protecting APIs from the DDoS attacks by signing the resource identifiers,https://hackernoon.com/protecting-apis-from-the-ddos-attacks-by-signing-the-pks-c1eca7cc7725,/u/soulcutter,1
+0,2017-02-02 09:21:32 -0600,"['/t/pdf', '/t/compsci', '/t/privacy', '/t/security']",Device Fingerprinting in Wireless Networks (2008),http://www.cs.dartmouth.edu/~dfk/papers/bratus-fingerprint.pdf,/u/pl,2
+0,2017-02-02 12:41:16 -0600,"['/t/compsci', '/t/job']",Hiring a data scientist,https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/,/u/pizzaiolo,1
+0,2017-02-02 12:00:31 -0600,['/t/javascript'],A note on Ember actions,https://embermap.com/notes/26-a-note-on-actions,/u/pushcx,1
+9,2017-01-31 17:28:57 -0600,"['/t/compsci', '/t/programming', '/t/unix']",Four Column ASCII,https://garbagecollected.org/2017/01/31/four-column-ascii/,/u/robbiev,70
+22,2017-01-31 19:20:14 -0600,"['/t/databases', '/t/practices']",GitLab.com Database Incident - 2017/01/31,https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub,/u/pgr0ss,64
+18,2017-02-01 14:13:17 -0600,"['/t/practices', '/t/programming']",The Longflow Manifesto,https://github.com/Nax/longflow-manifesto/blob/master/README.md,/u/dgv,8
+0,2017-02-02 05:43:27 -0600,"['/t/javascript', '/t/practices']",“How” ages faster than “Why”,https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b,/u/calvin,2
+0,2017-02-02 09:20:15 -0600,"['/t/hardware', '/t/historical']",Early Electromechanical Circuits,http://hackaday.com/2017/02/01/early-electromechanical-circuits/,/u/flyingfisch,1
+6,2017-02-01 09:09:27 -0600,"['/t/video', '/t/databases', '/t/event', '/t/practices']",GitLab Live Stream - Working on restoring GitLab.com,https://www.youtube.com/watch?v=nc0hPGerSd4,/u/djm,16
+2,2017-02-01 17:36:02 -0600,"['/t/databases', '/t/go']",Building a Performant API using Go and Cassandra,http://blog.getstream.io/building-a-performant-api-using-go-and-cassandra/,/u/tschellenbach,5
+2,2017-02-01 17:39:46 -0600,['/t/crypto'],SHA512 is faster than SHA256 on x86_64,http://crypto.stackexchange.com/questions/26336/sha512-faster-than-sha256,/u/chadski,5
+1,2017-02-01 06:23:43 -0600,['/t/programming'],Dolphin Progress Report: January 2017,https://dolphin-emu.org/blog/2017/02/01/dolphin-progress-report-january-2017/,/u/calvin,25
+0,2017-02-01 08:48:04 -0600,"['/t/c', '/t/hardware', '/t/mobile', '/t/networking', '/t/programming']",Two More Weeks to Join 3.5G and Receive a Free Femtocell,https://osmocom.org/news/64,/u/neeels,10
+0,2017-02-02 05:43:11 -0600,['/t/reversing'],On why my tbreak tracing trick did not work,http://gynvael.coldwind.pl/?id=638,/u/mulander,1
+2,2017-02-01 14:03:10 -0600,['/t/historical'],"The Evolution of Character Codes, 1874-1968",http://www.trafficways.org/ascii/ascii.pdf,/u/pushcx,6
+9,2017-02-01 10:19:40 -0600,"['/t/python', '/t/scaling']",Million requests per second with Python,https://medium.com/@squeaky_pl/million-requests-per-second-with-python-95c137af319,/u/agramajo,6
+0,2017-02-01 13:49:53 -0600,"['/t/linux', '/t/netbsd', '/t/openbsd']",Lessons learnt from adding OpenBSD/x86_64 support to pkgsrc,https://www.geeklan.co.uk/?p=2202,/u/sevan,4
+0,2017-02-01 19:05:29 -0600,['/t/dotnet'],The .NET Language Strategy,https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/,/u/calvin,4
+0,2017-02-01 23:37:56 -0600,"['/t/cogsci', '/t/math']",Causality in machine learning - Unofficial Google Data Science,http://www.unofficialgoogledatascience.com/2017/01/causality-in-machine-learning.html,/u/Dawny33,2
+21,2017-02-01 04:53:21 -0600,['/t/haskell'],Easing Haskell’s Intimidating Glare,https://medium.com/@james_32022/easing-haskells-intimidating-glare-2341095e88aa,/u/passy,9
+5,2017-02-01 00:20:17 -0600,"['/t/programming', '/t/unix']",Bernstein Chaining of ssh and su,http://www.oilshell.org/blog/2017/01/31.html,/u/andyc,7
+1,2017-02-01 10:04:21 -0600,"['/t/devops', '/t/scaling']",Is upgrading RDS like a shit-storm that will not end?,http://www.iheavy.com/2015/02/12/is-upgrading-rds-like-a-shit-storm-that-will-not-end/,/u/kyrias,4
+0,2017-02-01 12:09:15 -0600,"['/t/python', '/t/vim']",Use Vim as a Python IDE,http://www.liuchengxu.org/posts/use-vim-as-a-python-ide/,/u/av,6
+5,2017-01-31 15:46:54 -0600,"['/t/c', '/t/linux', '/t/programming', '/t/security']",The seccomp problem: why I'm disabling seccomp in my default builds,https://github.com/kristapsdz/acme-client-portable/blob/master/Linux-seccomp.md,/u/kristapsdz,22

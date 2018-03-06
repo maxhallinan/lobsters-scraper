@@ -1,0 +1,25 @@
+1,2016-08-26 13:03:07 -0500,['/t/security'],HackedThat: Breaking in to a hardened server via the back door,http://polynome.co/infosec/inversoft/elasticsearch/linode/penetration-testing/2016/08/16/hack-that-inversoft.html,/u/calvin,18
+4,2016-08-26 13:26:24 -0500,"['/t/mobile', '/t/security']",Bunnie Huang and Edward Snowden’s Surveillance-Detecting Smartphone Case,https://www.pubpub.org/pub/direct-radio-introspection/,/u/chadski,9
+0,2016-08-26 19:19:49 -0500,"['/t/cogsci', '/t/practices']","Programmer, Interrupted",http://www.gamasutra.com/view/feature/190891/programmer_interrupted.php,/u/calvin,8
+5,2016-08-26 09:47:31 -0500,['/t/programming'],On Half-Baked Changes And the Lava Anti-Pattern,http://www.alexkyte.me/2015/11/on-half-baked-changes-and-lava-anti_10.html,/u/pushcx,15
+0,2016-08-26 13:50:10 -0500,"['/t/browsers', '/t/testing']",WebDriver Support in Safari 10,https://webkit.org/blog/6900/webdriver-support-in-safari-10/,/u/pushcx,14
+0,2016-08-26 18:40:14 -0500,"['/t/release', '/t/scaling']","Advanced multi core synchronization with lock delegation, FAA over CAS, and LCRQ",http://queue.acm.org/detail.cfm?ref=rss&id=2991130,/u/kalaracey,7
+0,2016-08-27 07:20:50 -0500,"['/t/crypto', '/t/release', '/t/security']",OpenSSL 1.1.0 Series Release Notes,https://www.openssl.org/news/openssl-1.1.0-notes.html,/u/calvin,1
+0,2016-08-26 14:25:16 -0500,['/t/erlang'],Rebar3 3.3.0 released,https://github.com/erlang/rebar3/releases/tag/3.3.0,/u/tristan,10
+10,2016-08-26 10:57:22 -0500,"['/t/practices', '/t/programming']",Rewrites Considered Harmful by Neil Gunton (2008),https://www.neilgunton.com/doc/?o=tS&doc_id=8583,/u/adsouza,6
+2,2016-08-26 06:44:36 -0500,['/t/linux'],btrfs scrub sometime recalculates wrong parity in RAID5/6,https://www.mail-archive.com/linux-btrfs@vger.kernel.org/msg55169.html,/u/mjturner,15
+12,2016-08-25 09:53:00 -0500,"['/t/c', '/t/programming']",How to allocate memory,http://geocar.sdf1.org/alloc.html,/u/geocar,39
+3,2016-08-26 10:24:59 -0500,['/t/design'],Designers Should Learn Marketing,http://www.erickarjaluoto.com/blog/designers-should-learn-marketing/,/u/karj,1
+0,2016-08-26 17:29:17 -0500,"['/t/audio', '/t/elixir', '/t/erlang', '/t/games', '/t/programming']","Interview to Boyd Multerer, founder of Xbox Live, about Elixir",https://soundcloud.com/elixirfountain/elixir-fountain-boyd-multerer-2016-08-24,/u/unbalancedparentheses,3
+2,2016-08-26 09:46:59 -0500,['/t/go'],"50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs",http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/,/u/mjturner,4
+0,2016-08-26 10:48:22 -0500,['/t/cogsci'],Recommending music on Spotify with deep learning,http://benanne.github.io/2014/08/05/spotify-cnns.html,/u/Dawny33,4
+0,2016-08-26 12:45:24 -0500,"['/t/elixir', '/t/testing']",Thoughts on testing Phoenix views,http://blog.roundingpegs.com/thoughts-on-testing-phoenix-views/,/u/pushcx,3
+0,2016-08-26 01:18:41 -0500,['/t/networking'],Looking inside a big DNS response,https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/,/u/tedu,12
+4,2016-08-25 13:41:33 -0500,['/t/lisp'],An operating system written in Common Lisp,https://github.com/froggey/Mezzano,/u/carlesfe,25
+0,2016-08-26 03:43:24 -0500,['/t/person'],Interview: Steve Wozniak,http://www.foundersatwork.com/steve-wozniak.html,/u/pwatsonwailes,7
+6,2016-08-25 12:50:09 -0500,"['/t/ios', '/t/security']","Sophisticated, persistent mobile attack against high-value targets on iOS",https://blog.lookout.com/blog/2016/08/25/trident-pegasus/,/u/jabberwock,16
+1,2016-08-25 09:09:12 -0500,"['/t/games', '/t/hardware']",Kerbal Control Panel,http://www.sgtnoodle.com/projects/kerbal-control-panel/,/u/pushcx,26
+0,2016-08-25 15:46:46 -0500,['/t/cryptocurrencies'],Another lesson in confirmation bias,http://blog.erratasec.com/2016/08/another-lesson-in-confirmation-bias.html,/u/tedu,12
+1,2016-08-25 12:48:02 -0500,"['/t/historical', '/t/release']","The IBM System/360: the first modular, general-purpose computer",https://text.sourcegraph.com/the-ibm-system-360-the-first-modular-general-purpose-computer-98caeb0c9d1b#.jvg0rmv6l,/u/lindax,12
+1,2016-08-25 17:52:14 -0500,"['/t/pdf', '/t/compsci']",A Low Overhead High Performance Buffer Management Replacement Algorithm,http://www.vldb.org/conf/1994/P439.PDF,/u/prefork,6
+2,2016-08-25 14:15:42 -0500,"['/t/debugging', '/t/freebsd']",Performance Improvements for FreeBSD Kernel Debugging,http://backtrace.io/blog/blog/2016/08/25/improving-freebsd-kernel-debugging/,/u/sbahra,8

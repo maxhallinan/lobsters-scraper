@@ -1,0 +1,25 @@
+4,2016-08-02 06:11:46 -0500,['/t/haskell'],I Released A Haskell Product!,https://jezenthomas.com/i-released-a-haskell-product/,/u/jgt,28
+1,2016-08-02 23:21:10 -0500,['/t/networking'],How do HTTP requests get sent to the right place?,http://jvns.ca/blog/2016/07/14/whats-sni/,/u/unbalancedparentheses,11
+0,2016-08-02 23:17:37 -0500,"['/t/networking', '/t/security']",sshuttle: transparent proxy server that works over ssh as a poor man's VPN,https://github.com/apenwarr/sshuttle,/u/unbalancedparentheses,10
+6,2016-08-02 13:08:42 -0500,['/t/browsers'],What’s Next for Multi-process Firefox,https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/,/u/unbalancedparentheses,20
+0,2016-08-03 03:59:30 -0500,['/t/hardware'],Backblaze - Hard Drive Stats for Q2 2016,https://www.backblaze.com/blog/hard-drive-failure-rates-q2-2016/,/u/mjturner,5
+0,2016-08-02 23:00:28 -0500,"['/t/networking', '/t/unix']",ngrep: grep your network!,https://twitter.com/b0rk/status/759758932181147648,/u/unbalancedparentheses,9
+8,2016-08-02 09:59:43 -0500,"['/t/pdf', '/t/ml', '/t/security']",OCaml inside: a drop-in replacement for libtls,https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf,/u/dwc,18
+0,2016-08-03 13:17:04 -0500,['/t/devops'],Continuous Deployment for Feature Branches,http://www.mayerdan.com/programming/2016/07/31/feature-branch-staging-servers,/u/icco,1
+5,2016-08-02 11:51:39 -0500,['/t/lisp'],Beating the Averages [2003],http://www.paulgraham.com/avg.html,/u/av,10
+8,2016-08-02 06:02:11 -0500,"['/t/video', '/t/programming', '/t/rust']",The History of Rust,https://www.youtube.com/watch?v=79PSagCD_AY,/u/majjoha,17
+0,2016-08-03 03:53:56 -0500,"['/t/crypto', '/t/networking', '/t/security']",802.11ac Encryption Upgrade,https://framebyframewifi.net/2016/08/02/802-11ac-encryption-upgrade/,/u/mjturner,2
+2,2016-08-02 14:49:01 -0500,"['/t/erlang', '/t/programming']",There are Guards and Guards,https://medium.com/@elbrujohalcon/there-are-guards-and-guards-71e67d4975d7,/u/elbrujohalcon,4
+0,2016-08-02 12:12:54 -0500,['/t/python'],Please Fix Your Decorators,https://hynek.me/articles/decorators/,/u/DRMacIver,12
+15,2016-08-01 21:18:38 -0500,"['/t/finance', '/t/hardware']",The chip card transition in the US has been a disaster,http://qz.com/717876/the-chip-card-transition-in-the-us-has-been-a-disaster/,/u/adsouza,28
+0,2016-08-02 15:57:53 -0500,"['/t/ruby', '/t/testing']",Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works,http://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works,/u/pushcx,7
+0,2016-08-02 16:00:29 -0500,['/t/math'],A puzzle about your butt (2011),http://ethicalwerewolf.blogspot.com/2011/02/puzzle-about-your-butt.html,/u/pushcx,6
+0,2016-08-02 19:09:08 -0500,['/t/databases'],"database with versioning, deduplication, and synchronization built right into the core",https://medium.com/@aboodman/noms-init-98b7f0c3566,/u/adsouza,4
+1,2016-08-02 11:55:42 -0500,"['/t/pdf', '/t/compsci']",Communicating Sequential Processes by Tony Hoare [1978],http://www.cs.ucf.edu/courses/cop4020/sum2009/CSP-hoare.pdf,/u/av,8
+0,2016-08-02 13:48:59 -0500,['/t/security'],Snowden Doc Search,https://search.edwardsnowden.com,/u/rain1,7
+4,2016-08-02 06:20:08 -0500,"['/t/cogsci', '/t/person']",In Memory: Seymour Papert,https://www.media.mit.edu/people/in-memory/papert,/u/calvin,9
+1,2016-08-02 08:57:07 -0500,"['/t/haskell', '/t/programming']",Concurrent Haskell in the real world,https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world,/u/jpvillaisaza,8
+3,2016-08-02 01:39:56 -0500,"['/t/crypto', '/t/security']",LibreSSL 2.4.2 released,http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.4.2-relnotes.txt,/u/fkr,13
+0,2016-08-02 19:40:20 -0500,"['/t/javascript', '/t/programming']",Functional TypeScript,https://vsavkin.com/functional-typescript-316f0e003dc6,/u/adsouza,2
+0,2016-08-02 10:10:10 -0500,"['/t/devops', '/t/linux', '/t/scaling', '/t/systemd']","A Little Story about Amazon ECS, systemd, and Chaos Monkey",https://medium.com/production-ready/a-little-story-about-amazon-ecs-systemd-and-chaos-monkey-8bc7d1b5778,/u/mjturner,6
+0,2016-08-02 09:51:07 -0500,"['/t/pdf', '/t/haskell', '/t/programming']",Lazy Graph Processing in Haskell,http://cs.binghamton.edu/~pdexter1/icfp-haskell2016-paper22.pdf,/u/BruceM,6

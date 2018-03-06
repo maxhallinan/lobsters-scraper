@@ -1,0 +1,25 @@
+1,2016-08-17 22:09:13 -0500,"['/t/mac', '/t/security']",How a malware can infects digitally signed files without altering hashes on macOS,https://twitter.com/pwnsdx/status/765829369357037570,/u/pwnsdx,0
+0,2016-08-17 09:08:44 -0500,"['/t/hardware', '/t/security']",Universal serial abuse,https://www.sensepost.com/blog/2016/universal-serial-abuse/,/u/mjturner,5
+11,2016-08-18 07:35:15 -0500,"['/t/crypto', '/t/culture', '/t/person']",Marie on why she quit the tor project,https://shiromarieke.github.io/tor,/u/rain1,2
+0,2016-08-17 15:31:18 -0500,"['/t/lisp', '/t/programming']",Programming with Class in Racket,http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html,/u/zem,2
+0,2016-08-16 19:39:31 -0500,"['/t/practices', '/t/programming']",How do you decide what to work on?,http://jvns.ca/blog/2016/08/16/how-do-you-work-on-something-important/,/u/calvin,22
+3,2016-08-16 08:35:31 -0500,"['/t/linux', '/t/privacy']","Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs",https://lkml.org/lkml/2016/8/15/445,/u/colindean,49
+29,2016-08-16 09:23:14 -0500,['/t/databases'],Think Before You Mongo,http://blog.runnable.com/post/149000201856/think-before-you-mongo,/u/sundip,29
+7,2016-08-16 19:01:36 -0500,['/t/distributed'],Lasp and the Google Summer of Code,https://ergl.github.io/gsoc2016.html,/u/cmeiklejohn,12
+0,2016-08-17 12:33:40 -0500,"['/t/databases', '/t/scaling']",Context aware MySQL pools via HAProxy,http://githubengineering.com/context-aware-mysql-pools-via-haproxy/,/u/nwjsmith,2
+0,2016-08-17 09:11:19 -0500,"['/t/haskell', '/t/programming']",A tutorial on Mustache templates in Haskell with Stache,https://www.stackbuilders.com/tutorials/haskell/mustache-templates/,/u/jpvillaisaza,3
+0,2016-08-16 12:20:12 -0500,"['/t/databases', '/t/debugging', '/t/linux']",What is BPF and why is it taking over Linux Performance analysis?,http://blog.memsql.com/bpf-linux-performance/,/u/kalaracey,15
+5,2016-08-16 13:39:10 -0500,['/t/devops'],Why Reddit was down on Aug 11,https://www.reddit.com/r/announcements/comments/4y0m56/why_reddit_was_down_on_aug_11/,/u/tedu,10
+5,2016-08-16 12:46:50 -0500,"['/t/go', '/t/programming', '/t/unix']",Thyme: a human CPU profiler to boost your productivity,https://text.sourcegraph.com/thyme-a-simple-cli-to-measure-human-time-and-focus-577b87337b9c,/u/beyang,7
+1,2016-08-17 01:12:13 -0500,"['/t/c', '/t/python']",Forget Python vs. R: how they can work together,https://civisanalytics.com/blog/data-science/2016/08/15/python-r/,/u/tf,4
+1,2016-08-16 13:57:50 -0500,"['/t/games', '/t/practices', '/t/programming']",Programming principles from the early days of id Software,http://www.gamasutra.com/view/news/279357/Programming_principles_from_the_early_days_of_id_Software.php,/u/friendlysock,12
+2,2016-08-16 21:10:47 -0500,['/t/hardware'],Intel Licenses ARM Technology to Boost Foundry Business,http://www.bloomberg.com/news/articles/2016-08-16/intel-licenses-arm-technology-in-move-to-boost-foundry-business,/u/chadski,3
+0,2016-08-17 03:38:48 -0500,"['/t/games', '/t/javascript']",[Tutorial] How to make a 3D game with physics in browser. Part 2,https://medium.com/whitestormjs-framework/developing-a-street-basketball-game-part-ll-throw-a-ball-into-a-basket-261f123d6e9c#.x36exbbrw,/u/alex2401,1
+2,2016-08-16 11:20:17 -0500,['/t/design'],Is this my interface or yours?,https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256,/u/calvin,13
+0,2016-08-16 11:40:57 -0500,['/t/hardware'],"X320/X330 - Modified X220 and X230 ThinkPads with 13.3"" FHD IPS screens fitted with a small bezel",https://www.reddit.com/r/thinkpad/comments/4xyxmt/51nbs_x320x330_coming_available_today_thread_4/,/u/wally,17
+1,2016-08-16 10:49:28 -0500,"['/t/security', '/t/windows']",There are really only two effectively distinct settings for the UAC slider,https://blogs.msdn.microsoft.com/oldnewthing/20160816-00/?p=94105,/u/tedu,11
+0,2016-08-17 02:02:57 -0500,"['/t/book', '/t/lisp']",The Ultimate Guide To Clojure REPLs,https://lambdaisland.com/guides/clojure-repls/,/u/jan,2
+2,2016-08-16 08:03:04 -0500,"['/t/databases', '/t/distributed', '/t/programming']",Dividing Infinity - Distributed Partitioning Schemes,http://eventql.io/blog/dividing-infinity-distributed-partitioning-schemes/,/u/paulasmuth,7
+0,2016-08-16 21:17:54 -0500,['/t/windows'],"Windows 7, 8.1 moving to Windows 10’s cumulative update model",http://arstechnica.com/business/2016/08/windows-7-8-1-moving-to-windows-10s-cumulative-update-model/,/u/calvin,3
+2,2016-08-16 13:24:47 -0500,"['/t/api', '/t/devops', '/t/programming']","Introducing `stack`, a CLI and SDK for multi-language streaming microservices",https://github.com/Stackvana/stack,/u/marak,2
+2,2016-08-16 16:03:55 -0500,"['/t/book', '/t/practices', '/t/programming']",Producing Open Source Software by Karl Fogel (updating),http://producingoss.com/,/u/quobit,3

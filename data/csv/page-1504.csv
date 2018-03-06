@@ -1,0 +1,25 @@
+0,2013-01-27 23:03:05 -0600,"['/t/assembly', '/t/security']",x86’s IDIV instruction trap,http://kqueue.org/blog/2012/12/31/idiv-dos/,/u/kyle,4
+1,2013-01-28 00:04:02 -0600,['/t/c'],"Functional C Programming: Higher order functions, closures, lifted types…",http://blog.charlescary.com/?p=95,/u/kyle,1
+0,2013-01-27 23:12:17 -0600,['/t/hardware'],Inside the ALU of the 8085 microprocessor,http://www.arcfn.com/2013/01/inside-alu-of-8085-microprocessor.html,/u/kyle,1
+0,2013-01-27 15:36:35 -0600,['/t/news'],What Should We Teach New Software Developers? Why?,http://cacm.acm.org/magazines/2010/1/55760-what-should-we-teach-new-software-developers-why/fulltext,/u/kusuriya,2
+0,2013-01-27 15:31:49 -0600,['/t/c'],Stroustrup: C++ Style and Technique FAQ,http://www.stroustrup.com/bs_faq2.html,/u/kusuriya,2
+0,2013-01-27 04:12:37 -0600,"['/t/c', '/t/unix']",C++11 & The Long-Term Viability Of GCC Is Questioned,http://www.phoronix.com/scan.php?page=news_item&px=MTI4NDU,/u/pedro,8
+0,2013-01-27 16:11:03 -0600,['/t/person'],Help me with Programming Pilgrimage,http://bendyworks.com/geekville/articles/2013/1/programming-pilgrimage,/u/listrophy,1
+0,2013-01-27 10:12:52 -0600,"['/t/android', '/t/reversing']",Dexter is a static Android application analysis tool,http://dexter.dexlabs.org/,/u/jcs,1
+1,2013-01-26 20:56:24 -0600,"['/t/release', '/t/unix']",apenwarr/redo: An implementation of djb's redo,https://github.com/apenwarr/redo,/u/jcs,5
+0,2013-01-26 17:50:09 -0600,['/t/security'],Linux/SSHDoor.A Backdoored SSH daemon that steals passwords,http://blog.eset.com/2013/01/24/linux-sshdoor-a-backdoored-ssh-daemon-that-steals-passwords,/u/kusuriya,6
+1,2013-01-26 11:44:47 -0600,['/t/practices'],From Presentation Hell to Hope,http://callfortesting.org/presenting/,/u/jcs,5
+0,2013-01-26 07:20:19 -0600,['/t/javascript'],Bacon.js Makes Functional Reactive Programming Sizzle | Flowdock,http://blog.flowdock.com/2013/01/22/functional-reactive-programming-with-bacon-js/,/u/vesan,5
+0,2013-01-25 15:31:53 -0600,"['/t/android', '/t/java', '/t/reversing']",apk2gold CLI tool for decompiling Android apps to Java,https://github.com/lxdvs/apk2gold,/u/jcs,3
+0,2013-01-25 11:05:00 -0600,"['/t/job', '/t/person']",Programmer as resource -- literally.,http://phildub.com/ ,/u/fogus,5
+0,2013-01-25 09:59:51 -0600,['/t/networking'],Bufferbloat Demystified,http://www.orospakr.ca/blog/2013/01/22/bufferbloat-demystified/,/u/bct,3
+0,2013-01-24 19:38:08 -0600,['/t/ruby'],Never run `rbenv rehash` again,https://github.com/sstephenson/rbenv-gem-rehash,/u/ed,3
+1,2013-01-24 15:44:17 -0600,"['/t/video', '/t/practices']","What We Actually Know About Software Development, and Why We Believe It's True",http://vimeo.com/9270320,/u/bct,5
+2,2013-01-24 09:46:54 -0600,"['/t/pdf', '/t/security']",Effect of Grammar on Security of Long Passwords,https://www.cs.cmu.edu/~agrao/paper/Effect_of_Grammar_on_Security_of_Long_Passwords.pdf,/u/wally,5
+1,2013-01-24 22:14:45 -0600,['/t/ruby'],Cleveland on Rails: Class of Summer 2013,http://blog.jamesrgifford.com/cleveland-on-rails-summer-of-2013/,/u/jrg,1
+1,2013-01-24 11:32:56 -0600,['/t/philosophy'],On the Design of Display Processors (and the nature of progress),http://programmingisterrible.com/post/40860454678/on-the-design-of-display-processors,/u/bct,2
+1,2013-01-24 02:39:36 -0600,"['/t/show', '/t/web']",Zigg.be - Link shortener that creates easy to type and speak links,http://zigg.be,/u/chendo,8
+3,2013-01-24 14:03:43 -0600,"['/t/show', '/t/ruby', '/t/web']",RailsApps Tutorials Launches,http://blog.railsapps.org/post/40960545250/railsapps-tutorials,/u/daniel_kehoe,1
+2,2013-01-24 00:29:55 -0600,"['/t/freebsd', '/t/linux']",Arch BSD: Arch Linux Atop The FreeBSD Kernel,http://www.phoronix.com/scan.php?page=news_item&px=MTI4MTk,/u/jcs,6
+9,2013-01-23 23:01:08 -0600,['/t/rant'],"""I had a bad experience yesterday with open source, and I wrote a blog post about it""",http://harthur.wordpress.com/2013/01/24/771/,/u/wmoxam,17
+0,2013-01-24 14:18:01 -0600,['/t/ruby'],Mutation testing with Mutant,http://solnic.eu/2013/01/23/mutation-testing-with-mutant.html,/u/bct,1

@@ -1,0 +1,25 @@
+0,2017-07-11 16:48:21 -0500,"['/t/law', '/t/networking', '/t/web']",The Who's Who of Net Neutrality's Day of Action,https://www.wired.com/story/the-whos-who-of-net-neutralitys-day-of-action/,/u/cnst,2
+0,2017-07-11 09:38:11 -0500,['/t/javascript'],Introducing npx: an npm package runner,https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b,/u/joshuacc,5
+0,2017-07-11 16:15:28 -0500,"['/t/go', '/t/programming']","On Showers, Golang, and Creativity",https://medium.com/engineering-livestream/on-showers-golang-and-creativity-2230b0b97d78,/u/yumaikas,2
+0,2017-07-11 16:05:47 -0500,"['/t/dotnet', '/t/programming']","Hello, pure command-line interaction",http://blog.ploeh.dk/2017/07/11/hello-pure-command-line-interaction/,/u/mavnn,2
+0,2017-07-11 11:05:18 -0500,"['/t/hardware', '/t/linux']",68 Katy – 68000 Linux on a Solderless Breadboard,https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/,/u/friendlysock,4
+0,2017-07-11 07:24:44 -0500,"['/t/assembly', '/t/python']",Compiling Python syntax to x86-64 assembly for fun and (zero) profit,http://benhoyt.com/writings/pyast64/,/u/pushcx,5
+0,2017-07-11 05:21:31 -0500,"['/t/hardware', '/t/historical']",80 Columns Text on the Commodore 64,http://www.pagetable.com/?p=901,/u/pushcx,6
+0,2017-07-11 13:21:39 -0500,['/t/historical'],60bits.net - Control Data Mainframe information,http://60bits.net/,/u/trn,2
+0,2017-07-11 08:25:36 -0500,"['/t/historical', '/t/person']",Remembering Seymour Papert,https://www.lrb.co.uk/blog/2017/02/24/sherry-turkle/remembering-seymour-papert/,/u/pushcx,4
+0,2017-07-11 09:52:26 -0500,"['/t/culture', '/t/law', '/t/networking']",Internet-Wide Day of Action to Save Net Neutrality,https://www.battleforthenet.com/july12/,/u/jch,6
+1,2017-07-11 03:35:37 -0500,"['/t/linux', '/t/security']",security things in Linux v4.12,https://outflux.net/blog/archives/2017/07/10/security-things-in-linux-v4-12/,/u/evaryont,5
+0,2017-07-11 11:14:48 -0500,['/t/hardware'],Hard Drive Cost per GB,https://www.backblaze.com/blog/hard-drive-cost-per-gigabyte/,/u/jaimebuelta,2
+27,2017-07-09 22:46:17 -0500,"['/t/linux', '/t/person', '/t/systemd']","Linus: “I no longer feel like I can trust ""init"" to do the sane thing.”",https://lkml.org/lkml/2017/7/6/577,/u/cnst,65
+20,2017-07-10 06:19:55 -0500,['/t/practices'],"Stop writing software, start solving problems",https://codewithoutrules.com/2017/07/10/stop-writing-software/,/u/itamarst,15
+3,2017-07-10 11:20:34 -0500,['/t/security'],Taking control of all .io domains with a targeted registration,https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/,/u/koen,28
+0,2017-07-11 10:10:26 -0500,"['/t/math', '/t/python']",MRPyMC3 - Multilevel Regression and Poststratification with PyMC3,http://austinrochford.com/posts/2017-07-09-mrpymc3.html,/u/kway,2
+0,2017-07-11 07:25:22 -0500,"['/t/python', '/t/web']",How I Polled My University's Registration System with Python and Twilio,https://www.twilio.com/blog/2017/06/hacked-my-universitys-registration-system-python-twilio.html,/u/pushcx,3
+0,2017-07-11 04:19:09 -0500,['/t/databases'],MySQL utf8 vs utf8mb4 - What's the difference between utf8 and utf8mb4?,http://www.eversql.com/mysql-utf8-vs-utf8mb4-whats-the-difference-between-utf8-and-utf8mb4/,/u/calvin,4
+3,2017-07-10 13:14:44 -0500,"['/t/book', '/t/erlang', '/t/testing']",PropEr Testing,http://propertesting.com/,/u/unbalancedparentheses,17
+2,2017-07-10 16:04:44 -0500,['/t/databases'],Sharding a multi-tenant app with Postgres,https://www.citusdata.com/blog/2016/08/10/sharding-for-a-multi-tenant-app-with-postgres/,/u/craigkerstiens,6
+0,2017-07-11 05:15:44 -0500,"['/t/pdf', '/t/databases']",NoSQL Database Architectural Comparison,https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf,/u/pushcx,3
+9,2017-07-10 02:02:54 -0500,"['/t/debugging', '/t/windows']",24-core CPU and I can’t move my mouse,https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/,/u/friendlysock,45
+0,2017-07-10 21:45:11 -0500,"['/t/pdf', '/t/c++']",C++ Proposal: Metaclasses – Herb Sutter,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0707r0.pdf,/u/porges,6
+0,2017-07-11 05:39:07 -0500,['/t/ruby'],Why you should probably avoid mixins,http://undefined-reference.org/2017/06/10/why-you-should-probably-avoid-mixins.html,/u/pushcx,2
+1,2017-07-10 20:59:15 -0500,['/t/browsers'],Using headless Chrome as an automated screenshot tool,https://medium.com/@dschnr/using-headless-chrome-as-an-automated-screenshot-tool-4b07dffba79a,/u/pushcx,5

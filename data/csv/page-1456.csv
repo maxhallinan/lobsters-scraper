@@ -1,0 +1,25 @@
+2,2013-08-31 15:47:49 -0500,"['/t/pdf', '/t/privacy']",Users Get Routed: Trafﬁc Correlation on Tor by Realistic Adversaries,http://ohmygodel.com/publications/usersrouted-ccs13.pdf,/u/kyle,3
+0,2013-08-30 11:03:50 -0500,"['/t/assembly', '/t/reversing']",Reversing Sinclair's amazing 1974 calculator hack - half the ROM of the HP-35,http://files.righto.com/calculator/sinclair_scientific_simulator.html,/u/pushcx,6
+0,2013-08-30 06:06:15 -0500,['/t/go'],Building our fast search engine in Go,http://www.tamber.com/posts/ferret.html,/u/zod000,3
+1,2013-08-29 18:57:07 -0500,['/t/security'],Sysadmin security fail: NSA finds Snowden hijacked officials’ logins,http://arstechnica.com/information-technology/2013/08/sysadmin-security-fail-nsa-finds-snowden-hijacked-officials-logins/,/u/tedu,5
+0,2013-08-29 16:23:11 -0500,"['/t/compilers', '/t/haskell', '/t/ios']",GHC (the standard Haskell compiler) gets first class iOS support,https://groups.google.com/forum/#!msg/haskell-cafe/agDRueqFUFk/7SKMNGnmKV0J,/u/rbxbx,5
+1,2013-08-29 19:16:42 -0500,"['/t/ios', '/t/security']","Rendering bug crashes OS X, iOS apps with string of Arabic characters",http://arstechnica.com/apple/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/,/u/tedu,2
+2,2013-08-29 10:54:13 -0500,"['/t/mac', '/t/security']",OSX Local Root Privilege Escalation Exploit,https://www.trustedsec.com/august-2013/osx-10-8-4-local-root-privilege-escalation-exploit/,/u/kyle,4
+0,2013-08-29 18:19:24 -0500,['/t/unix'],match command-line arguments to their help text,http://explainshell.com,/u/bobbywilson0,2
+0,2013-08-29 21:44:39 -0500,"['/t/networking', '/t/privacy']",Tor Usage More than Doubles in August,https://secure.dslreports.com/shownews/Tor-Usage-More-than-Doubles-in-August-125581,/u/journeysquid,1
+0,2013-08-29 10:09:39 -0500,"['/t/compsci', '/t/devops', '/t/philosophy', '/t/programming', '/t/web']",Common Code Smells,http://www.jeremymorgan.com/blog/programming/common-code-smells/,/u/JeremyMorgan,4
+0,2013-08-29 21:56:30 -0500,['/t/practices'],A horrifying accelerator story that you’ll need to read twice,http://www.davidgcohen.com/2013/08/29/a-shocking-accelerator-story-that-youll-need-to-read-twice/,/u/journeysquid,0
+0,2013-08-29 09:52:43 -0500,['/t/privacy'],RFC 6973: Privacy Considerations for Internet Protocols,https://tools.ietf.org/html/rfc6973,/u/kyle,2
+2,2013-08-28 15:27:12 -0500,['/t/hardware'],"ErgoDox DIY Split Ergonomic Keyboard - Solder, Assemble, and Flash",http://ergodox.org/Default.aspx,/u/pushcx,5
+0,2013-08-28 14:28:59 -0500,['/t/science'],Scientists achieve first human-to-human 'mind meld',http://america.aljazeera.com/articles/2013/8/28/scientists-achievefirsteverhumantohumanmindmeld.html,/u/journeysquid,5
+0,2013-08-28 15:05:12 -0500,['/t/practices'],"He got 1%, we can't hire him",http://www.codingjohnson.com/he-got-1-percent-we-cant-hire-him,/u/journeysquid,4
+10,2013-08-27 20:40:01 -0500,['/t/hardware'],CODE Mechanical Keyboard,http://codekeyboards.com/,/u/bobbywilson0,12
+0,2013-08-28 10:51:07 -0500,"['/t/javascript', '/t/programming']",Should JavaScript devs build real things?,http://ajfisher.me/2013/08/21/should-javascript-devs-build-real-things/,/u/qbit,3
+0,2013-08-28 09:22:20 -0500,['/t/ruby'],Parallel gem installing using Bundler,http://robots.thoughtbot.com/post/59584648154/parallel-gem-installing-using-bundler,/u/bobbywilson0,3
+0,2013-08-27 21:06:36 -0500,"['/t/android', '/t/compilers']",Intel ships high-powered C++ compiler for native Android apps,http://www.theregister.co.uk/2013/08/28/intel_cpp_compiler_for_android/,/u/jcs,3
+0,2013-08-27 12:44:44 -0500,['/t/go'],Go After 2 Years in Production,http://blog.iron.io/2013/08/go-after-2-years-in-production.html,/u/journeysquid,6
+0,2013-08-27 15:35:55 -0500,"['/t/api', '/t/security']",Tesla Model S REST API Authentication Flaws,http://programming.oreilly.com/2013/08/tesla-model-s-rest-api-authentication-flaws.html,/u/journeysquid,4
+1,2013-08-26 23:27:36 -0500,"['/t/show', '/t/go', '/t/security']",Cryptobox: A Crypto API,http://talks.gokyle.org/misc/cryptobox.article,/u/kyle,9
+0,2013-08-27 10:53:44 -0500,"['/t/go', '/t/programming', '/t/scaling']","Shopify open-sources Sarama, a client for Kafka 0.8 written in Go",http://www.shopify.com/technology/8760937-shopify-open-sources-sarama-a-client-for-kafka-0-8-written-in-go,/u/edward,2
+0,2013-08-27 02:24:56 -0500,"['/t/hardware', '/t/security']",Software Update to $20 Phones Could Topple 2G Cell Networks,http://www.technologyreview.com/news/518646/hacked-feature-phone-can-block-other-peoples-calls/,/u/kyle,4
+0,2013-08-27 10:36:37 -0500,['/t/javascript'],An Introduction to IIFEs - Immediately Invoked Function Expressions,http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions,/u/joshuacc,1

@@ -1,0 +1,25 @@
+2,2014-10-16 13:23:11 -0500,['/t/databases'],Benchmarking Riak in the Cloud,https://medium.com/@mustwin/benchmarking-riak-bfee93493419,/u/felixgallo,9
+1,2014-10-16 06:55:39 -0500,['/t/security'],How POODLE Happened,https://www.dfranke.us/posts/2014-10-14-how-poodle-happened.html,/u/ap,11
+5,2014-10-16 09:08:37 -0500,['/t/culture'],"The problematic culture of ""Worse is Better""",https://pchiusano.github.io/2014-10-13/worseisworse.html,/u/pushcx,13
+0,2014-10-16 14:33:08 -0500,"['/t/law', '/t/networking', '/t/security']",How Microsoft Appointed Itself Sheriff of the Internet,http://www.wired.com/2014/10/microsoft-pinkerton/,/u/journeysquid,1
+1,2014-10-16 11:40:14 -0500,"['/t/culture', '/t/philosophy']",Why Inequality Matters | Bill Gates,http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#,/u/mempko,3
+0,2014-10-16 10:37:47 -0500,['/t/programming'],Benign Data Races,http://bartoszmilewski.com/2014/10/01/benign-data-races-2/,/u/tedu,1
+0,2014-10-16 10:22:03 -0500,"['/t/openbsd', '/t/security']",LibreSSL 2.1.1 released,http://www.mail-archive.com/announce@openbsd.org/msg00066.html,/u/journeysquid,1
+9,2014-10-15 09:51:41 -0500,['/t/programming'],From 60 frames per second to 500,http://keera.co.uk/blog/2014/10/15/from-60-fps-to-500/,/u/bitemyapp,13
+0,2014-10-15 23:20:45 -0500,"['/t/databases', '/t/programming']",Cassandra error handling done right,http://www.datastax.com/dev/blog/cassandra-error-handling-done-right,/u/tobym,5
+7,2014-10-15 08:33:06 -0500,"['/t/c', '/t/programming']","Catamorphisms as a language feature in C++, proposal N4191",http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4191.html,/u/irrequietus,5
+0,2014-10-15 10:26:41 -0500,['/t/compsci'],"Curry-Howard, the Ontological Ultimate",https://psnively.github.io/blog/2014/10/14/Curry-Howard-the-Ontological-Ultimate/,/u/puffnfresh,7
+0,2014-10-15 18:36:44 -0500,"['/t/pdf', '/t/compsci', '/t/programming', '/t/satire']",Homespring Proposed Language Standard,http://bunny.xeny.net/linked/Homespring-Proposed-Language-Standard.pdf,/u/calvin,5
+0,2014-10-15 12:04:30 -0500,"['/t/compsci', '/t/scala']",Letting Curry-Howard Code for Me,http://io.pellucid.com/blog/letting-curry-howard-code-for-me,/u/dtwhitney,5
+42,2014-10-14 14:42:32 -0500,"['/t/go', '/t/programming']",Why Everyone Hates Go,http://npf.io/2014/10/why-everyone-hates-go/,/u/UkiahSmith,24
+0,2014-10-15 10:44:47 -0500,"['/t/java', '/t/lisp']",Easy clojure logging set-up with logconfig,http://spootnik.org/entries/2014/10/15_easy-clojure-logging-set-up-with-logconfig.html,/u/pyr,4
+0,2014-10-15 19:03:19 -0500,"['/t/api', '/t/devops', '/t/scaling', '/t/web']",Designing successful Web app load tests (best practices from Tomás Senart),http://dotgo.sourcegraph.com/post/99636152128/tomas-senart-designing-successful-web-app-load-tests,/u/sqs,1
+2,2014-10-15 12:15:24 -0500,"['/t/php', '/t/security']",Drupal 7.31 pre Auth SQL Injection Vulnerability,https://www.sektioneins.de/en/blog/14-10-15-drupal-sql-injection-vulnerability.html,/u/jcs,2
+5,2014-10-14 19:15:58 -0500,"['/t/networking', '/t/security']",POODLE: SSL 3.0 fallback exploit,http://googleonlinesecurity.blogspot.com/2014/10/this-poodle-bites-exploiting-ssl-30.html,/u/tedu,14
+0,2014-10-15 10:50:11 -0500,"['/t/show', '/t/javascript']","Convert videos into animated GIFs using Node, Libav, Imagemagick and Twilio",https://github.com/crabasa/gifit,/u/crtr,2
+0,2014-10-15 10:24:19 -0500,['/t/vim'],Vim Tab Madness: Buffers vs Tabs,https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/,/u/pushcx,2
+3,2014-10-15 03:44:30 -0500,"['/t/ask', '/t/compsci', '/t/programming']",Beginner pointers on SAT solvers?,/s/l2h9hq/beginner_pointers_on_sat_solvers,/u/fabriceleal,9
+0,2014-10-15 11:34:55 -0500,['/t/linux'],"Slackware: No KDE5 updates yet, devs need to get their act together",http://alien.slackbook.org/blog/kde-update-4-14-2-no-kde5-updates-yet-devs-need-to-get-their-act-together/,/u/journeysquid,1
+5,2014-10-14 14:28:37 -0500,['/t/mac'],Mac App Store: The Subtle Exodus,http://blog.helftone.com/mac-app-store-the-subtle-exodus/,/u/journeysquid,6
+1,2014-10-14 11:13:17 -0500,['/t/devops'],"Nix by example, Part 1: The Nix expression language",https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55,/u/puffnfresh,13
+0,2014-10-15 06:43:42 -0500,['/t/dotnet'],mBaaS Isn't Just for JavaScript,http://developer.telerik.com/featured/mbaas-isnt-just-javascript-visual-studio-telerik-data-storage/,/u/remotesynth,1

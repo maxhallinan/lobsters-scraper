@@ -1,0 +1,25 @@
+1,2017-11-30 10:01:13 -0600,"['/t/pdf', '/t/compsci', '/t/formalmethods', '/t/programming', '/t/testing']","The New QuickCheck: Random, Exhaustive, and Symbolic Testing Under One Roof (2012)",http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.230.6416,/u/nickpsecurity,7
+0,2017-11-30 03:47:40 -0600,"['/t/privacy', '/t/security']",Two new services available for you: Lufi and Searx,https://blog.mirabellette.netlib.re/index.php?article13/two-new-services-available-for-you,/u/Mirabellette,9
+0,2017-11-30 13:04:03 -0600,['/t/ml'],Type-Safe GraphQL with OCaml,https://andreas.github.io/2017/11/29/type-safe-graphql-with-ocaml-part-1/,/u/stephenjudkins,5
+1,2017-11-30 05:08:47 -0600,"['/t/php', '/t/release']",PHP 7.2.0 Released,http://php.net/releases/7_2_0.php,/u/pgl,8
+0,2017-11-30 14:07:19 -0600,['/t/linux'],Writing a Simple Linux Kernel Module,https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234,/u/pushcx,4
+3,2017-11-30 10:17:42 -0600,"['/t/ai', '/t/programming']",Restoring and enhancing images using deep convolutional networks,https://dmitryulyanov.github.io/deep_image_prior.html,/u/Yogthos,3
+0,2017-11-30 10:07:27 -0600,"['/t/historical', '/t/web']","Underscores, Optimization & Arms Races",https://medium.com/humane-tech/underscores-optimization-arms-races-b34f0dfa4357,/u/hwayne,6
+2,2017-11-29 17:01:30 -0600,"['/t/formalmethods', '/t/release', '/t/vim']","Compile Idris to Vimscript, like you always wanted",https://github.com/owickstrom/idris-vimscript,/u/pushcx,33
+2,2017-11-29 15:03:35 -0600,"['/t/ai', '/t/release']",Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset,https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/,/u/azdle,33
+0,2017-11-30 15:02:56 -0600,['/t/vcs'],Git hash function transition,https://github.com/git/git/blob/master/Documentation/technical/hash-function-transition.txt,/u/pushcx,2
+2,2017-11-29 06:37:01 -0600,"['/t/mac', '/t/reversing', '/t/security']",Why <blank> Gets You Root,https://objective-see.com/blog/blog_0x24.html,/u/calvin,75
+0,2017-11-29 22:42:08 -0600,"['/t/performance', '/t/virtualization']",AWS EC2 Virtualization 2017,http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html,/u/GeoffWozniak,13
+0,2017-11-30 16:08:39 -0600,"['/t/book', '/t/devops']",Chaos Engineering Building Confidence in System Behavior through Experiments,http://www.oreilly.com/webops-perf/free/chaos-engineering.csp,/u/unbalancedparentheses,1
+0,2017-11-30 13:13:16 -0600,"['/t/culture', '/t/historical', '/t/privacy']",I've Fallen Out of Love With Technology,https://www.bloomberg.com/view/articles/2017-11-30/i-ve-fallen-out-of-love-with-technology,/u/cnst,3
+0,2017-11-30 09:58:43 -0600,"['/t/pdf', '/t/compsci', '/t/hardware', '/t/performance', '/t/programming']","Synthesis of Statically-Analyzable, Accelerator Networks from Sequential Programs (2016)",https://people.eecs.berkeley.edu/~johnw/papers/ICCAD2016.pdf,/u/nickpsecurity,2
+3,2017-11-29 14:03:01 -0600,['/t/hardware'],Amazon announces FreeRTOS Kernel Version 10,https://aws.amazon.com/blogs/opensource/announcing-freertos-kernel-v10/,/u/projectgus,19
+0,2017-11-30 06:36:57 -0600,"['/t/databases', '/t/dotnet', '/t/programming']",DDD Persistence: Recorded Event-Driven Persistence,https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/,/u/calvin,3
+0,2017-11-30 09:05:40 -0600,['/t/web'],Localisation and Translation on the Web,https://bitsofco.de/localisation-and-translation/,/u/flyingfisch,2
+3,2017-11-29 11:15:21 -0600,['/t/devops'],Amazon finally supports Kubernetes,https://aws.amazon.com/eks/,/u/rdl,19
+0,2017-11-29 15:54:20 -0600,"['/t/video', '/t/plt']",Ideology - A talk by Gary Bernhardt from Strange Loop 2015,https://www.destroyallsoftware.com/talks/ideology,/u/tallgeoff,15
+0,2017-11-30 07:52:54 -0600,"['/t/devops', '/t/practices', '/t/scaling']",Microservice architecture best practices from tech leaders,http://codingsans.com/blog/microservice-architecture-best-practices,/u/womszi,2
+0,2017-11-29 10:29:54 -0600,"['/t/mac', '/t/security']",About the security content of Security Update 2017-001 (fixes local root auth bypass),https://support.apple.com/en-us/HT208315,/u/antifuchs,27
+0,2017-11-30 07:17:00 -0600,"['/t/video', '/t/networking', '/t/performance']",Jon Moore StrangeLoop 2017 Talk: Stop Rate Limiting! Capacity Management Done Right,https://www.youtube.com/watch?v=m64SWl9bfvk,/u/gregnavis,2
+0,2017-11-30 10:54:01 -0600,['/t/databases'],Visualizing & Tuning Postgres Autovacuum,https://pganalyze.com/blog/visualizing-and-tuning-postgres-autovacuum.html,/u/craigkerstiens,1
+56,2017-11-28 14:18:07 -0600,"['/t/mac', '/t/security']",Anyone can login as root on macOS,https://twitter.com/lemiorhan/status/935578694541770752,/u/nhooyr,90

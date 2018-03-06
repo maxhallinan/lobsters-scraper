@@ -1,0 +1,25 @@
+2,2015-08-23 23:44:36 -0500,"['/t/compilers', '/t/javascript', '/t/security']",Backdooring your JavaScript using minifier bugs,https://zyan.scripts.mit.edu/blog/backdooring-js/,/u/hdevalence,24
+1,2015-08-24 08:42:19 -0500,"['/t/browsers', '/t/security']",Thousands short-changed by EV certificates that don’t display correctly in Chrome,http://news.netcraft.com/archives/2015/08/24/thousands-short-changed-by-ev-certificates-that-dont-display-correctly-in-chrome.html,/u/jcs,7
+14,2015-08-23 13:55:16 -0500,['/t/practices'],Say no to Spec Work,http://melinda.io/say_no_to_spec_work/,/u/bitemyapp,26
+2,2015-08-24 00:55:17 -0500,['/t/hardware'],PS/2 to USB converters are complex things with interesting faults,https://utcc.utoronto.ca/~cks/space/blog/tech/PS2ToUSBInterestingIssue,/u/mjn,10
+2,2015-08-23 18:04:08 -0500,['/t/distributed'],What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging,http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/,/u/tylertreat,9
+4,2015-08-23 16:37:35 -0500,['/t/practices'],Fire the workaholics (2008),https://signalvnoise.com/posts/902-fire-the-workaholics,/u/journeysquid,15
+15,2015-08-23 20:49:31 -0500,"['/t/cryptocurrencies', '/t/security']",Curated links to understand dangers of BitcoinXT,http://pastebin.com/TuTdggVe,/u/itistoday,2
+0,2015-08-23 13:05:21 -0500,"['/t/c', '/t/security']",Fuzz Testing with afl-fuzz (American Fuzzy Lop),https://spin.atomicobject.com/2015/08/23/fuzz-testing-american-fuzzy-lop/,/u/silentbicycle,14
+1,2015-08-23 19:54:17 -0500,"['/t/linux', '/t/virtualization']","""wow such container"" - the ins and outs of containers on Linux",http://doger.io/,/u/voidzero,10
+4,2015-08-23 09:30:52 -0500,"['/t/compilers', '/t/programming']","On being the maintainer, sole developer, and probably the sole active user of the programming language SPITBOL",http://daveshields.me/2012/09/02/on-being-the-maintainer-sole-developer-and-probably-the-sole-active-user-of-the-programming-language-spitbol/,/u/pushcx,20
+10,2015-08-23 13:31:37 -0500,['/t/person'],"Steve Jobs's interview with Red Herring, 1996",http://evgenymorozov.tumblr.com/post/15396323139/steve-jobss-interview-with-red-herring-1996,/u/sevan,6
+0,2015-08-23 15:45:22 -0500,"['/t/compsci', '/t/databases', '/t/programming']",Extracting Structured Data From Recipes Using Conditional Random Fields,http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/,/u/friendlysock,8
+3,2015-08-23 01:15:19 -0500,"['/t/compsci', '/t/programming']",Different approaches to calculating Fibonacci Numbers,http://blog.jakubarnold.cz/2015/08/08/fibonacci-numbers.html,/u/darthdeus,9
+0,2015-08-23 01:38:33 -0500,"['/t/compsci', '/t/programming']",A walk through the SA-IS Suffix Array Construction Algorithm,http://zork.net/~st/jottings/sais.html,/u/alynpost,9
+1,2015-08-23 04:03:57 -0500,"['/t/culture', '/t/freebsd', '/t/openbsd', '/t/person', '/t/unix']",BSD Now - Episode 103: Interview with Bryan Cantrill,http://www.bsdnow.tv/episodes/2015_08_19-ubuntu_slaughters_kittens,/u/apy,10
+5,2015-08-22 13:39:07 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",History of logic programming,http://www.doc.ic.ac.uk/~rak/papers/History.pdf,/u/mjn,10
+0,2015-08-22 09:50:06 -0500,['/t/programming'],Exploring the Hacker Tools of Mr Robot,https://hackertarget.com/hacker-tools-mr-robot/,/u/av,13
+19,2015-08-21 13:06:52 -0500,"['/t/devops', '/t/virtualization']",Boycott Docker,http://www.boycottdocker.org/,/u/gumpt,58
+3,2015-08-21 22:06:35 -0500,"['/t/java', '/t/javascript']",Hackpad by Dropbox finally open sourced,https://github.com/dropbox/hackpad,/u/av,10
+5,2015-08-21 14:57:36 -0500,"['/t/practices', '/t/release']",Prune: A Code Editor that is Not a Text Editor,https://www.facebook.com/notes/kent-beck/prune-a-code-editor-that-is-not-a-text-editor/1012061842160013,/u/pushcx,18
+13,2015-08-21 11:50:33 -0500,['/t/programming'],Crystal Language,http://crystal-lang.org/,/u/kellogh,19
+1,2015-08-21 11:11:18 -0500,['/t/security'],Tarsnap $1000 exploit bounty,http://www.daemonology.net/blog/2015-08-21-tarsnap-1000-exploit-bounty.html,/u/jcs,30
+13,2015-08-21 10:08:25 -0500,['/t/browsers'],The Future of Developing Firefox Add-ons,https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/,/u/jcs,16
+1,2015-08-21 18:52:51 -0500,"['/t/haskell', '/t/programming']",A Haskell space leak,http://clrnd.com.ar/posts/2015-08-21-profiling-a-haskell-space-leak.html,/u/pushcx,9
+1,2015-08-21 10:02:09 -0500,"['/t/c', '/t/go']",libmill - Go-style concurrency in C,http://libmill.org/,/u/qbit,27

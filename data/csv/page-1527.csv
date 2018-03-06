@@ -1,0 +1,25 @@
+0,2012-10-18 09:36:46 -0500,"['/t/math', '/t/python', '/t/visualization']",XKCD-style plots in Matplotlib (not Mathematica!),http://jakevdp.github.com/blog/2012/10/07/xkcd-style-plots-in-matplotlib/,/u/snk,3
+0,2012-10-18 11:29:41 -0500,"['/t/mobile', '/t/web']",Technical Retrospective on the UX of a Rails Rumble Project,http://bendyworks.com/geekville/lab_projects/2012/10/omg-rails-rumble,/u/listrophy,1
+0,2012-10-18 11:22:38 -0500,"['/t/video', '/t/devops']",Jordan Sissel's PuppetConf presentation: logging: logstash and other things,https://www.youtube.com/watch?v=RuUFnog29M4,/u/jcs,1
+0,2012-10-17 21:33:58 -0500,"['/t/devops', '/t/web']",Even Stranger than Expected: a Systematic Look at EC2 I/O,http://blog.scalyr.com/2012/10/16/a-systematic-look-at-ec2-io/,/u/pushcx,5
+0,2012-10-17 13:25:31 -0500,['/t/ruby'],7 Ways to Decompose Fat ActiveRecord Models,http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/,/u/steveklabnik,12
+1,2012-10-17 17:37:02 -0500,['/t/browsers'],We built a Chrome extension to use J/K to navigate popular sites,http://jknavigator.org/,/u/tom,4
+0,2012-10-17 13:18:47 -0500,"['/t/ios', '/t/mobile', '/t/ruby']",Would you like a Mobile App with That?,http://schneems.com/post/33781154129/would-you-like-a-mobile-app-with-that,/u/schneems,3
+0,2012-10-17 16:38:00 -0500,['/t/mac'],Disable scroll acceleration introduced in Mac OS 10.8 Mountain Lion,https://github.com/davekeck/DisableExtremeScrollAcceleration,/u/jcs,1
+0,2012-10-17 09:49:11 -0500,"['/t/netbsd', '/t/unix']",Announcing NetBSD 6.0,http://www.netbsd.org/releases/formal-6/NetBSD-6.0.html,/u/nick,3
+0,2012-10-16 13:26:37 -0500,"['/t/databases', '/t/scaling']",Scaling PostgreSQL at Braintree: Four Years of Evolution,https://www.braintreepayments.com/braintrust/scaling-postgresql-at-braintree-four-years-of-evolution,/u/b,13
+1,2012-10-16 13:56:10 -0500,"['/t/javascript', '/t/web']",rsvp.js - simple tools for organizing asynchronous code,https://github.com/tildeio/rsvp.js,/u/tomdale,5
+3,2012-10-16 12:39:44 -0500,['/t/philosophy'],Connecting Things That Are Inherently Disconnected,http://nathancahill.github.com/connecting-things-that-are-inherently-disconnected/,/u/nathancahill,3
+0,2012-10-16 10:42:05 -0500,"['/t/api', '/t/databases']",Exploring SQLite Internals Part I: the Virtual Database Engine,http://coderweekly.com/articles/exploring-sqlites-virtual-database-engine.html,/u/jturner,6
+0,2012-10-16 08:49:44 -0500,"['/t/c', '/t/databases']","Google Supersonic: an ultra-fast, column oriented query engine library",http://google-opensource.blogspot.de/2012/10/introducing-supersonic-query-engine.html,/u/yawniek,5
+0,2012-10-16 11:59:25 -0500,['/t/security'],Kaspersky Lab Developing Its Own Secure Industrial Control System OS,http://eugene.kaspersky.com/2012/10/16/kl-developing-its-own-operating-system-we-confirm-the-rumors-and-end-the-speculation/,/u/jcs,2
+0,2012-10-16 10:11:27 -0500,"['/t/javascript', '/t/lisp']",Asynchronous Function Decorators,http://eigenjoy.com/2012/10/16/asynchronous-function-decorators/,/u/eigenjoy,2
+0,2012-10-16 09:59:09 -0500,['/t/hardware'],"Homebrew Cray-1A (1/10th scale, full speed)",http://www.chrisfenton.com/homebrew-cray-1a/,/u/pushcx,2
+2,2012-10-15 17:12:13 -0500,"['/t/compsci', '/t/virtualization']",Sol — a sunny little virtual machine,http://rsms.me/2012/10/14/sol-a-sunny-little-virtual-machine.html,/u/jcs,8
+2,2012-10-15 14:00:25 -0500,['/t/release'],A Pokémon's personality value is an unsigned 32-bit integer ...,http://bulbapedia.bulbagarden.net/wiki/Personality_value,/u/steveklabnik,6
+1,2012-10-15 10:31:38 -0500,['/t/vim'],8 Enhancements to Shell and Vim Productivity | danielmiessler.com,http://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity,/u/jdost,5
+0,2012-10-15 13:58:22 -0500,"['/t/compsci', '/t/release', '/t/scala']",Ctrie - A Lock-Free Concurrent Hash Array Mapped Trie,https://github.com/axel22/Ctries,/u/tobym,3
+0,2012-10-15 08:05:06 -0500,['/t/security'],Schneier on Security: Master Keys,http://www.schneier.com/blog/archives/2012/10/master_keys.html,/u/mc,5
+5,2012-10-14 19:24:54 -0500,"['/t/devops', '/t/ruby', '/t/web']",Deploy Rails apps straight from GitHub to Heroku in a single click! (Rails Rumble),http://koideploy.com,/u/odin,14
+0,2012-10-15 17:48:26 -0500,"['/t/api', '/t/php', '/t/release', '/t/scaling', '/t/web']",MediaWiki Platform Development: More than Wikipedia,http://robertelwell.info/blog/mediawiki-more-than-wikipedia/,/u/languagehacker,1
+0,2012-10-15 11:02:39 -0500,"['/t/compsci', '/t/ruby', '/t/visualization']",Visualising the Ruby Global VM Lock,http://johnleach.co.uk/words/1245/visualising-the-ruby-global-vm-lock,/u/rob,3

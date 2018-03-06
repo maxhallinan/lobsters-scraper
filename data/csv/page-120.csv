@@ -1,0 +1,25 @@
+0,2017-11-24 19:21:02 -0600,"['/t/education', '/t/web']",Community-Curated Interactive Mind Maps,https://github.com/learn-anything/maps,/u/nikivi,2
+1,2017-11-24 10:06:56 -0600,"['/t/formalmethods', '/t/testing']",Design by Contract: A Missing Link [1998],https://www.win.tue.nl/~wstomv/edu/2ip30/references/design-by-contract/index.html,/u/hwayne,10
+0,2017-11-24 21:43:01 -0600,['/t/c'],Auditable Macros in C Code,https://www.cossacklabs.com/blog/macros-in-crypto-c-code.html,/u/calvin,3
+1,2017-11-24 08:57:17 -0600,['/t/law'],Netgate / pfSense acts in bad faith: WIPO decides in favour of OPNSense,https://opnsense.org/opnsense-com/,/u/akpoff,14
+2,2017-11-24 04:29:42 -0600,['/t/hardware'],"Armed with tough computer chips, scientists are ready to return to the hell of Venus",http://www.sciencemag.org/news/2017/11/armed-tough-computer-chips-scientists-are-ready-return-hell-venus,/u/riaface,16
+1,2017-11-24 10:53:18 -0600,"['/t/pdf', '/t/historical', '/t/practices', '/t/unix']",The first Unix port (1998),http://bitsavers.informatik.uni-stuttgart.de/bits/Interdata/32bit/unix/univWollongong_v6/miller.pdf,/u/sevan,7
+0,2017-11-24 22:27:53 -0600,['/t/databases'],A New Query Language and Engine for InfluxDB,https://www.influxdata.com/blog/announcing-ifql-a-new-query-language-and-engine-for-influxdb/,/u/unbalancedparentheses,2
+0,2017-11-24 16:06:35 -0600,['/t/historical'],What happened to your local Blockbuster?,https://moneyish.com/ish/what-happened-to-your-local-blockbuster/,/u/evaryont,3
+0,2017-11-24 05:17:36 -0600,"['/t/pdf', '/t/freebsd', '/t/hardware']",FreeBSD/RISC-V and Device Drivers,https://people.freebsd.org/~br/freebsd_riscv.pdf,/u/sevan,11
+0,2017-11-24 11:36:37 -0600,"['/t/math', '/t/web']","Common Math Symbols in HTML, XML, TeX, and Unicode",https://www.johndcook.com/blog/math_symbols/,/u/gerikson,4
+20,2017-11-23 05:31:47 -0600,"['/t/go', '/t/nodejs']",Moving away from Go to Node.js - Raspchat,https://github.com/maxpert/raspchat/releases/tag/v1.0.0-alpha,/u/mxp,27
+1,2017-11-24 08:24:53 -0600,"['/t/hardware', '/t/security']",Don’t Feed Them After Midnight: Reverse-Engineering the Furby Connect,https://www.contextis.com/blog/dont-feed-them-after-midnight-reverse-engineering-the-furby-connect,/u/pgl,3
+5,2017-11-23 15:35:24 -0600,"['/t/law', '/t/networking']",FCC Releases Net Neutrality Killing Order,https://www.techdirt.com/articles/20171122/09473038669/fcc-releases-net-neutrality-killing-order-hopes-youre-too-busy-cooking-turkey-to-read-it.shtml,/u/friendlysock,23
+0,2017-11-24 04:34:09 -0600,"['/t/linux', '/t/reversing', '/t/security']",x64 Egg hunting in Linux systems,https://pentesterslife.blog/2017/11/24/x64-egg-hunting-in-linux-systems/,/u/calvin,6
+0,2017-11-24 05:10:22 -0600,['/t/programming'],"Designing a Lock-Free, Wait-Free Hash Map",https://shlomisteinberg.com/2015/09/28/designing-a-lock-free-wait-free-hash-map/,/u/calvin,5
+9,2017-11-23 10:42:08 -0600,"['/t/linux', '/t/programming']",TLDR pages — Simplified and community-driven man pages,http://tldr.sh/,/u/jonhoo,14
+0,2017-11-23 20:10:33 -0600,"['/t/historical', '/t/practices', '/t/testing']",Retrospective: An Axiomatic Basis for Computer Programming,https://cacm.acm.org/magazines/2009/10/42360-retrospective-an-axiomatic-basis-for-computer-programming/fulltext,/u/calvin,8
+1,2017-11-23 07:11:48 -0600,"['/t/c', '/t/compilers', '/t/linux']",ChromiumOS is getting a clang compiled Linux kernel,https://lkml.org/lkml/2017/11/22/943,/u/pl,33
+0,2017-11-24 05:00:46 -0600,"['/t/javascript', '/t/nodejs']",The State of Node.js & JavaScript for Backend Development,https://snipcart.com/blog/javascript-nodejs-backend-development,/u/tamas,2
+1,2017-11-23 06:56:49 -0600,['/t/programming'],There's a mini-RTOS in my language,http://blog.adacore.com/theres-a-mini-rtos-in-my-language,/u/calvin,24
+1,2017-11-23 17:07:51 -0600,"['/t/culture', '/t/linux', '/t/vim']",Three Developer Tools I'm Thankful For,https://developer.okta.com/blog/2017/11/22/three-developer-tools-im-thankful-for,/u/rdegges,6
+1,2017-11-23 11:22:50 -0600,"['/t/go', '/t/programming']",Go Defer Simplified with Practical Visuals,https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff,/u/blackflicker,3
+2,2017-11-23 15:02:46 -0600,['/t/ruby'],How to receive and respond to text messages in Ruby with Hanami and Twilio,https://www.twilio.com/blog/2017/11/how-to-receive-and-respond-to-text-messages-in-ruby-with-hanami-and-twilio.html,/u/philnash,3
+1,2017-11-23 09:12:50 -0600,['/t/security'],From Markdown to RCE in Atom,https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom,/u/mulander,13
+1,2017-11-24 04:56:42 -0600,"['/t/historical', '/t/unix']",Run the First Edition of Unix (1972) with Docker,https://nickjanetakis.com/blog/run-the-first-edition-of-unix-1972-with-docker,/u/fs111,2

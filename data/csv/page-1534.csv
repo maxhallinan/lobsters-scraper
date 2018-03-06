@@ -1,0 +1,25 @@
+0,2012-09-27 12:22:02 -0500,['/t/news'],Mozilla announcing the first beta release of Persona (Browser ID),http://identity.mozilla.com/post/32395255498/announcing-the-first-beta-release-of-persona,/u/Francis,2
+10,2012-09-26 15:29:16 -0500,['/t/web'],Turbolinks makes following links in your web application faster (included in Rails 4),https://github.com/rails/turbolinks,/u/jcs,12
+5,2012-09-26 08:37:27 -0500,"['/t/show', '/t/ruby']","OStatus: like Twitter, but open",http://chrismdp.com/2012/09/ostatus-like-twitter-but-open/,/u/steveklabnik,14
+0,2012-09-26 13:23:57 -0500,['/t/compsci'],Learnable Programming by Bret Victor,http://worrydream.com/LearnableProgramming/,/u/topdan,9
+1,2012-09-27 11:04:45 -0500,"['/t/browsers', '/t/web']",Browsers should have been cars. Instead they’re shopping carts.,http://blogs.law.harvard.edu/doc/2012/09/22/browsers-should-have-been-cars-instead-theyre-shopping-carts/,/u/JeffreyBaird,0
+0,2012-09-26 12:11:20 -0500,['/t/scaling'],"WordPress.com Serves 70,000 req/sec and over 15 Gbit/sec of Traffic using NGINX",http://highscalability.com/blog/2012/9/26/wordpresscom-serves-70000-reqsec-and-over-15-gbitsec-of-traf.html,/u/jcs,4
+4,2012-09-25 23:40:10 -0500,"['/t/show', '/t/compsci', '/t/release', '/t/ruby', '/t/web']","Meet goodbre.ws, a fully open source recommendation engine for beer",https://goodbre.ws/about,/u/davidcelis,12
+0,2012-09-26 13:07:41 -0500,"['/t/hardware', '/t/security']",Physically Unclonable Functions (PUFs),http://puffin.eu.org/,/u/jcs,2
+1,2012-09-26 09:44:24 -0500,"['/t/javascript', '/t/ruby', '/t/web']","Unholy Rails: External Scripts, jQuery Plugins, and Page-Specific JavaScript",http://railsapps.github.com/rails-javascript-include-external.html,/u/daniel_kehoe,3
+1,2012-09-26 06:12:55 -0500,"['/t/privacy', '/t/security']",Storing Passwords Securely,http://throwingfire.com/storing-passwords-securely/,/u/fcambus,3
+1,2012-09-26 00:10:00 -0500,"['/t/show', '/t/security']",NoPassword,http://nopassword.alexsmolen.com/,/u/dave,6
+0,2012-09-25 21:09:13 -0500,['/t/python'],Getters/Setters/Fuxors (2005),http://tomayko.com/writings/getters-setters-fuxors,/u/trenton,8
+0,2012-09-25 21:44:56 -0500,"['/t/api', '/t/python']",Restful API framework for Flask / MongoEngine,https://github.com/elasticsales/flask-mongorest,/u/anthony,6
+0,2012-09-26 00:53:24 -0500,"['/t/pdf', '/t/finance']",USA finance break down by KPCB (2011),http://s3.amazonaws.com/kpcbweb/files/USA_Inc.pdf,/u/anthony,3
+1,2012-09-25 10:16:52 -0500,['/t/go'],Russ Cox on Go's Error Handling,https://plus.google.com/116810148281701144465/posts/iqAiKAwP6Ce,/u/dwc,14
+0,2012-09-25 22:22:46 -0500,"['/t/browsers', '/t/security']",Critical Java bug: Complete sandbox bypass via all major browsers on a fully patched Win7,http://seclists.org/bugtraq/2012/Sep/109,/u/tobym,3
+1,2012-09-25 14:23:22 -0500,['/t/go'],Getting Started with Go on Heroku,http://mmcgrana.github.com/2012/09/getting-started-with-go-on-heroku.html,/u/craigkerstiens,5
+0,2012-09-25 18:41:19 -0500,"['/t/databases', '/t/ruby']",Test Driving Database Indexes,http://myronmars.to/n/dev-blog/2012/09/test-driving-database-indexes,/u/mf,3
+1,2012-09-25 14:31:44 -0500,"['/t/news', '/t/release']",REBOL will be open source,http://www.rebol.com/article/0511.html,/u/steveklabnik,3
+0,2012-09-25 11:32:05 -0500,['/t/security'],Everything you need to know about hash length extension attacks,http://www.skullsecurity.org/blog/2012/everything-you-need-to-know-about-hash-length-extension-attacks,/u/jcs,5
+0,2012-09-25 14:31:23 -0500,['/t/javascript'],Singleton class in Coffeescript — Gist,https://gist.github.com/3783942,/u/listrophy,2
+4,2012-09-24 23:38:07 -0500,"['/t/release', '/t/ruby']",Commands As Resources in Rails,http://www.isotope11.com/blog/commands-as-resources-or-interpreting-uncle-bobs-ruby-midwest-keynote,/u/oomkiller,3
+4,2012-09-24 13:15:56 -0500,['/t/release'],"Notes from Gary Bernhardt's StrangeLoop talk: ""A whole new world""",https://gist.github.com/3763157#file_03_a_whole_new_world.md,/u/steveklabnik,7
+0,2012-09-24 10:43:03 -0500,['/t/security'],SHA-3 to Be Announced,https://www.schneier.com/blog/archives/2012/09/sha-3_will_be_a.html,/u/jcs,10
+0,2012-09-24 14:49:13 -0500,['/t/ruby'],"State of ActiveRecord and concurrency, another update",https://bibwild.wordpress.com/2012/09/21/state-of-activerecord-and-concurrency-another-update/,/u/jcs,6

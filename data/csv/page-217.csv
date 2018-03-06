@@ -1,0 +1,25 @@
+0,2017-09-06 07:01:46 -0500,"['/t/browsers', '/t/linux']",Modifying the Official Google Chrome RPM to Run on Amazon Linux and CentOS 6,https://intoli.com/blog/installing-google-chrome-on-centos/,/u/foob,3
+0,2017-09-06 15:09:16 -0500,['/t/practices'],Conducting the Technical Interview,https://alistapart.com/article/conducting-the-technical-interview,/u/flyingfisch,2
+6,2017-09-05 12:36:18 -0500,['/t/rust'],Rust 2017 Survey Results,https://blog.rust-lang.org/2017/09/05/Rust-2017-Survey-Results.html,/u/indy,30
+0,2017-09-06 14:37:40 -0500,"['/t/performance', '/t/web']",Optimizing web servers for high throughput and low latency,http://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/,/u/hwayne,2
+43,2017-09-05 04:19:58 -0500,['/t/programming'],It’s time for makefiles to make a comeback,https://medium.com/@jolson88/its-time-for-makefiles-to-make-a-comeback-36cbc358bb0a,/u/GeoffWozniak,53
+8,2017-09-05 16:46:06 -0500,"['/t/go', '/t/java', '/t/performance']",Go does not inline functions when it should,https://lemire.me/blog/2017/09/05/go-does-not-inline-functions-when-it-should/,/u/nathankerr,14
+1,2017-09-06 12:30:11 -0500,"['/t/linux', '/t/nodejs', '/t/programming', '/t/web']",General availability of App Service on Linux and Web App for Containers,https://azure.microsoft.com/en-us/blog/general-availability-of-app-service-on-linux-and-web-app-for-containers/,/u/mbcrump,1
+4,2017-09-05 10:03:56 -0500,"['/t/databases', '/t/distributed']",Jepsen: Tendermint 0.10.2,https://jepsen.io/analyses/tendermint-0-10-2,/u/aphyr,24
+0,2017-09-06 11:10:39 -0500,['/t/java'],Moving Java Forward Faster,https://mreinhold.org/blog/forward-faster,/u/mjn,2
+0,2017-09-06 06:16:56 -0500,"['/t/debugging', '/t/networking']",Finding out if/why a server is dropping packets,https://jvns.ca/blog/2017/09/05/finding-out-where-packets-are-being-dropped/,/u/calvin,4
+6,2017-09-06 05:34:49 -0500,"['/t/dotnet', '/t/security', '/t/web']",Secure a Web Api in ASP.NET Core,http://www.blinkingcaret.com/2017/09/06/secure-web-api-in-asp-net-core/,/u/rdfi,1
+0,2017-09-06 02:42:40 -0500,"['/t/cryptocurrencies', '/t/go']",Building Blockchain in Go,https://jeiwan.cc/posts/building-blockchain-in-go-part-1/,/u/rmn,5
+2,2017-09-05 12:13:01 -0500,"['/t/javascript', '/t/security', '/t/web']",Abandoned Domain Takeover as a Web Security Risk,https://blog.hboeck.de/archives/889-Abandoned-Domain-Takeover-as-a-Web-Security-Risk.html,/u/hanno,7
+4,2017-09-05 18:10:33 -0500,"['/t/ai', '/t/distributed']",What are modern options for sharing machine learning datasets?,https://blog.helmspoint.com/posts/2017/09/05/sharing-machine-learning-datasets.html,/u/iamwil,3
+1,2017-09-05 16:00:21 -0500,"['/t/erlang', '/t/javascript']",Get to know the Actor Model with JavaScript,https://monades.roperzh.com/get-to-know-the-actor-model/,/u/roperzh,5
+0,2017-09-06 08:34:13 -0500,"['/t/hardware', '/t/security']",Security Vulnerabilities in AT&T (Arris) Routers,https://www.schneier.com/blog/archives/2017/09/security_vulner_9.html,/u/pgl,1
+0,2017-09-06 08:07:48 -0500,['/t/css'],Breaking the Grid,https://daverupert.com/2017/09/breaking-the-grid/,/u/flyingfisch,1
+0,2017-09-05 08:13:03 -0500,['/t/lisp'],Numbers and tagged pointers in early Lisp implementations,https://www.snellman.net/blog/archive/2017-09-04-lisp-numbers/,/u/gerikson,17
+1,2017-09-05 03:31:50 -0500,['/t/databases'],How Does a Database Work?,https://cstack.github.io/db_tutorial/,/u/rmn,26
+0,2017-09-05 07:39:12 -0500,"['/t/show', '/t/games']",Juggle Tutor,http://www.doxsey.net/blog/juggle-tutor,/u/calebdoxsey,9
+2,2017-09-05 10:55:26 -0500,"['/t/networking', '/t/performance', '/t/visualization']",Studio: a productive environment for working on your programs.,https://hydra.snabb.co/build/2037769/download/1/studio.html,/u/antifuchs,9
+0,2017-09-05 18:52:23 -0500,"['/t/c++', '/t/programming']",C++17 in details: Standard Library Utilities,http://www.bfilipek.com/2017/09/cpp17-details-utils.html,/u/calvin,4
+3,2017-09-05 07:11:26 -0500,"['/t/person', '/t/security']",Who Is Marcus Hutchins?,https://krebsonsecurity.com/2017/09/who-is-marcus-hutchins/,/u/calvin,8
+8,2017-09-04 14:53:37 -0500,"['/t/historical', '/t/unix']",The sudden death and eternal life of Solaris,http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/,/u/sevan,65
+1,2017-09-05 11:01:02 -0500,['/t/unix'],"Bye Bye Solaris, it seems.",http://hackaday.com/2017/09/05/bye-bye-solaris-it-seems/,/u/flyingfisch,7

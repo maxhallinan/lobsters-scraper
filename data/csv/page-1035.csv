@@ -1,0 +1,25 @@
+1,2015-09-01 13:21:15 -0500,['/t/lisp'],List comprehensions in Common Lisp,https://github.com/fredokun/lisp-list-comprehensions/blob/master/list-comprehensions.lisp.md,/u/jasper,6
+17,2015-08-31 22:28:48 -0500,['/t/programming'],The worst mistake of computer science,https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/,/u/av,17
+0,2015-09-01 11:56:12 -0500,"['/t/databases', '/t/devops', '/t/distributed', '/t/scaling']",Sharding Pinterest: How we scaled our MySQL fleet,https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet,/u/ngrilly,8
+18,2015-08-31 22:20:55 -0500,"['/t/programming', '/t/vcs']","How a bug in Visual Studio 2015 exposed my source code on GitHub and cost me $6,500 in a few hours",https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours,/u/av,16
+0,2015-09-01 13:13:14 -0500,"['/t/databases', '/t/release']",PG-Strom: GPU-based procesisng for Postgresql,https://wiki.postgresql.org/wiki/PGStrom,/u/pushcx,6
+1,2015-09-01 14:19:09 -0500,"['/t/ios', '/t/practices']",App Search Optimization (AOS) coming with iOS 9,http://hackazach.net/2015/08/27/ios-9-spotlight-shines/,/u/zmcartor,1
+1,2015-09-01 11:21:07 -0500,['/t/haskell'],Facebook’s New Spam-Killer Hints at the Future of Coding,http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/,/u/sivers,4
+0,2015-09-01 18:42:44 -0500,"['/t/databases', '/t/ruby']",Migrating bajillions of database records at Stripe,http://robertheaton.com/2015/08/31/migrating-bajillions-of-database-records-at-stripe/,/u/antifuchs,2
+2,2015-09-01 12:22:47 -0500,['/t/design'],Evolving the Google Identity,https://design.google.com/articles/evolving-the-google-identity/,/u/flyingfisch,2
+9,2015-08-31 13:55:49 -0500,"['/t/openbsd', '/t/virtualization']",OpenBSD native virtualization support,http://marc.info/?l=openbsd-tech&m=144104398132541&w=2,/u/bmercer,31
+4,2015-08-31 22:49:52 -0500,"['/t/compsci', '/t/math']",Introduction to Automatic Differentiation (2013),http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/,/u/jtobin,14
+0,2015-09-01 10:31:05 -0500,"['/t/hardware', '/t/virtualization']",AMD Unveils Hardware-Based Virtualized GPU,http://www.marketwatch.com/story/amd-unveils-worlds-first-hardware-based-virtualized-gpu-solution-at-vmworld-2015-2015-08-31,/u/journeysquid,4
+6,2015-09-01 11:53:10 -0500,"['/t/privacy', '/t/satire', '/t/security']",When Curtains Block Justice,https://medium.com/@sweis/when-curtains-block-justice-142cbd0f3f34,/u/pushcx,6
+0,2015-09-01 06:06:12 -0500,"['/t/javascript', '/t/web']",ES6 Spread and Butter in Depth,http://ponyfoo.com/articles/es6-spread-and-butter-in-depth,/u/ponyfoo,3
+0,2015-09-01 12:11:09 -0500,['/t/design'],NZ flag referendum: The final four designs revealed,http://www.nzherald.co.nz//nz/news/article.cfm?c_id=1&objectid=11505765,/u/flyingfisch,2
+2,2015-08-31 20:10:43 -0500,['/t/go'],Go GC: Prioritizing low latency and simplicity,https://blog.golang.org/go15gc,/u/journeysquid,12
+1,2015-08-31 18:36:01 -0500,"['/t/javascript', '/t/web']",Dragula: Drag and Drop so Simple it Hurts,https://github.com/bevacqua/dragula,/u/bevacqua,8
+0,2015-09-01 09:15:21 -0500,"['/t/javascript', '/t/web']","React, JSX and ES6: The Weird Parts",http://ponyfoo.com/articles/react-jsx-and-es6-the-weird-parts,/u/flyingfisch,3
+22,2015-08-31 15:03:45 -0500,['/t/practices'],A Short Lesson in Perspective (2012),http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/,/u/pushcx,10
+0,2015-08-31 14:34:02 -0500,"['/t/programming', '/t/rust']",Designing a GC in Rust,http://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/,/u/steveklabnik,21
+0,2015-09-01 13:24:38 -0500,"['/t/design', '/t/web']",Cyclomatic Complexity: Logic in CSS,http://csswizardry.com/2015/04/cyclomatic-complexity-logic-in-css,/u/joshuacc,1
+0,2015-09-01 12:50:23 -0500,"['/t/show', '/t/web']",Google Analytics integration for Slack,http://www.ryanbrink.com/slack-google-analytics-ga-today-alerts/,/u/ry_brink,1
+0,2015-09-01 12:34:39 -0500,"['/t/javascript', '/t/web']",jQuery Foundation and Dojo Foundation to Merge,http://blog.jquery.com/2015/09/01/jquery-foundation-and-dojo-foundation-to-merge/,/u/tjvantoll,1
+0,2015-09-01 12:20:28 -0500,"['/t/art', '/t/graphics']",Hacking Google Earth to Create Stunning Mountain Shots,http://www.wired.com/2015/08/meike-nixdorf-your-earth-transforms/,/u/flyingfisch,1
+4,2015-08-31 14:49:22 -0500,"['/t/video', '/t/openbsd', '/t/programming']","OpenBSD vs SMP, Threading, and Concurrency, Ted Unangst (2009)",http://www.youtube.com/watch?v=hKpljl-kI3I,/u/friendlysock,10
