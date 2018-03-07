@@ -12,7 +12,7 @@ def scrape_story(story_soup):
     except AttributeError:
         comment_count = 0
 
-    datetime = story_soup.select(".byline span")[0]["title"]
+    submitted_on = story_soup.select(".byline span")[0]["title"]
 
     tags = [ tag_soup["href"] for tag_soup in story_soup.select(".tag")]
 
@@ -24,7 +24,7 @@ def scrape_story(story_soup):
 
     vote_count = story_soup.select(".score")[0].text
     
-    return [comment_count, datetime, tags, title, url, user, vote_count]
+    return [comment_count, submitted_on, tags, title, url, user, vote_count]
 
 def scrape_page(file_path, target_path):
     with open(file_path, "r") as page:
