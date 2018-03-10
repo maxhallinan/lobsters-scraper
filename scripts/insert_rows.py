@@ -1,7 +1,17 @@
 import csv
+import datetime
 import os
 import psycopg2
 import sys
+
+def datetime_string_to_timestamp(datetime_string):
+    datetime_string_format = "%Y-%m-%d %H:%M:%S %z"
+
+    dt = datetime.datetime.strptime(datetime_string, datetime_string_format)
+
+    ts = dt.timestamp()
+
+    return ts
 
 def insert_story(cursor, row):
     query = """
@@ -24,7 +34,10 @@ def insert_story(cursor, row):
     );
     """
 
-    cursor.execute(query, row)
+    # values = [row[0], datetime_string_to_timestamp(row[1]), row[2], row[3], row[4], row[5], row[6]]
+    values = row
+
+    cursor.execute(query, values)
 
 def insert_stories(data_dir_path):
     connection = psycopg2.connect("dbname=lobsters")
