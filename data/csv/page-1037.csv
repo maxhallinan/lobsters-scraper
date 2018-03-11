@@ -1,25 +1,25 @@
-1,2015-08-29 11:03:25 -0500,['/t/programming'],Tests' Influence on Design,https://github.com/testdouble/contributing-tests/wiki/Tests'-Influence-on-Design,/u/pushcx,7
-0,2015-08-29 12:09:19 -0500,['/t/games'],Watch the Skies!: 300 player RPG,http://www.independent.co.uk/news/uk/home-news/welcome-to-the-world-of-megagames-300-players-take-part-in-watch-the-skies-board-game-10213384.html,/u/pushcx,6
-0,2015-08-29 12:22:55 -0500,"['/t/practices', '/t/science']",How Methods Videos Are Making Science Smarter,http://www.newyorker.com/tech/elements/how-methods-videos-are-making-science-smarter,/u/pushcx,3
-2,2015-08-28 21:22:04 -0500,"['/t/java', '/t/programming']",Underflow bug,http://labs.spotify.com/2015/08/27/underflow-bug/,/u/pushcx,9
-3,2015-08-28 10:36:17 -0500,"['/t/elixir', '/t/web']",Phoenix 1.0 – the Elixir framework for the modern web just landed,http://www.phoenixframework.org/blog/phoenix-10-the-framework-for-the-modern-web-just-landed,/u/stevedomin,46
-0,2015-08-28 20:43:29 -0500,['/t/programming'],Andrei Alexandrescu answers questions about his move to working on D full time,https://www.reddit.com/r/programming/comments/3ioy9b/andrei_alexandrescu_c_guru_leaves_facebook_to/,/u/zem,14
-1,2015-08-28 21:25:00 -0500,"['/t/games', '/t/programming']",Infocom Bugs,http://www.textfiles.com/adventure/INFOCOM/infobugs.adv,/u/pushcx,11
-0,2015-08-29 08:15:10 -0500,['/t/mobile'],Amazon Tackles the Problem With In-App Payments,http://www.wired.com/2015/08/amazon-underground-in-app-payment/,/u/journeysquid,3
-1,2015-08-28 20:22:13 -0500,['/t/graphics'],VPaint - A glimpse into the future of Vector Graphics and 2D Animation,https://github.com/dalboris/vpaint,/u/jitterted,8
-14,2015-08-28 12:16:20 -0500,"['/t/release', '/t/web']",Flarum: Forums Made Simple,http://flarum.org/,/u/Curiositry,13
-3,2015-08-28 12:15:21 -0500,"['/t/haskell', '/t/programming']","Effectful Haskell: Reader, Transformers, Typeclasses",https://slpopejoy.github.io/posts/Effectful02.html,/u/pushcx,17
-0,2015-08-28 14:49:02 -0500,['/t/programming'],"Interview with Nenad Rakocevic about Red, a Rebol inspired programming language",https://medium.com/@unbalancedparen/interview-with-nenad-rakocevic-about-red-a-rebol-inspired-programming-language-681133e3fd1c,/u/unbalancedparentheses,7
-6,2015-08-28 07:54:42 -0500,['/t/programming'],A New Soft Technology,http://breakingsmart.com/season-1/a-new-soft-technology/,/u/journeysquid,13
-2,2015-08-28 17:11:53 -0500,"['/t/go', '/t/web']",Deploying Go Apps to Heroku with Docker,http://icanhazdowntime.org/post/deploying-go-heroku-docker/,/u/apg,5
-0,2015-08-28 19:19:25 -0500,['/t/javascript'],ES6 Template Strings in Depth,http://ponyfoo.com/articles/es6-template-strings-in-depth,/u/joshuacc,4
-1,2015-08-28 06:05:20 -0500,"['/t/games', '/t/linux']",Unity3D editor Comes to Linux (ubuntu),http://blogs.unity3d.com/2015/08/26/unity-comes-to-linux-experimental-build-now-available/,/u/panic,11
-20,2015-08-28 08:49:06 -0500,['/t/meta'],Add a CSS tag?,/s/iul1yt/add_css_tag,/u/joshuacc,4
-0,2015-08-28 10:19:31 -0500,"['/t/hardware', '/t/programming']",Open Source kernel on Open Source CPU,http://www.excamera.com/sphinx/article-j1a-swapforth.html,/u/qbit,6
-0,2015-08-28 12:12:29 -0500,"['/t/programming', '/t/python']",Efficient Tabular Storage,http://matthewrocklin.com/blog/work/2015/08/28/Storage/,/u/pushcx,3
-0,2015-08-28 17:37:01 -0500,['/t/culture'],"#DisruptTechInterviews using psych methods, maybe! (with tweets)",https://storify.com/anyharder/disrupttechinterviews-using-psych-methods-maybe,/u/antifuchs,3
-0,2015-08-28 09:21:32 -0500,"['/t/philosophy', '/t/practices']",Cynefin for Devs -- Sensemaking and Understanding Problems (2012),http://lizkeogh.com/2012/03/11/cynefin-for-devs/,/u/asthasr,4
-0,2015-08-27 22:22:21 -0500,"['/t/practices', '/t/privacy', '/t/security']",RFC 7624 - Confidentiality in the Face of Pervasive Surveillance: A Threat Model and Problem Statement,https://tools.ietf.org/html/rfc7624,/u/pushcx,14
-1,2015-08-28 08:39:49 -0500,"['/t/javascript', '/t/web']",sass-lint - Pure Node.js Sass linting,https://github.com/sasstools/sass-lint,/u/joshuacc,4
-0,2015-08-27 09:35:57 -0500,"['/t/show', '/t/javascript']",User interfaces built with React,http://builtwithreact.io/,/u/jpadilla,21
-1,2015-08-27 19:10:16 -0500,"['/t/pdf', '/t/compsci', '/t/haskell', '/t/math']",The Genuine Sieve of Eratosthenes,https://www.cs.hmc.edu/%7Eoneill/papers/Sieve-JFP.pdf,/u/pushcx,10
+1,2015-08-29 11:03:25 -0500,/t/programming,Tests' Influence on Design,https://github.com/testdouble/contributing-tests/wiki/Tests'-Influence-on-Design,/u/pushcx,7
+0,2015-08-29 12:09:19 -0500,/t/games,Watch the Skies!: 300 player RPG,http://www.independent.co.uk/news/uk/home-news/welcome-to-the-world-of-megagames-300-players-take-part-in-watch-the-skies-board-game-10213384.html,/u/pushcx,6
+0,2015-08-29 12:22:55 -0500,"/t/practices,/t/science",How Methods Videos Are Making Science Smarter,http://www.newyorker.com/tech/elements/how-methods-videos-are-making-science-smarter,/u/pushcx,3
+2,2015-08-28 21:22:04 -0500,"/t/java,/t/programming",Underflow bug,http://labs.spotify.com/2015/08/27/underflow-bug/,/u/pushcx,9
+3,2015-08-28 10:36:17 -0500,"/t/elixir,/t/web",Phoenix 1.0 – the Elixir framework for the modern web just landed,http://www.phoenixframework.org/blog/phoenix-10-the-framework-for-the-modern-web-just-landed,/u/stevedomin,46
+0,2015-08-28 20:43:29 -0500,/t/programming,Andrei Alexandrescu answers questions about his move to working on D full time,https://www.reddit.com/r/programming/comments/3ioy9b/andrei_alexandrescu_c_guru_leaves_facebook_to/,/u/zem,14
+1,2015-08-28 21:25:00 -0500,"/t/games,/t/programming",Infocom Bugs,http://www.textfiles.com/adventure/INFOCOM/infobugs.adv,/u/pushcx,11
+0,2015-08-29 08:15:10 -0500,/t/mobile,Amazon Tackles the Problem With In-App Payments,http://www.wired.com/2015/08/amazon-underground-in-app-payment/,/u/journeysquid,3
+1,2015-08-28 20:22:13 -0500,/t/graphics,VPaint - A glimpse into the future of Vector Graphics and 2D Animation,https://github.com/dalboris/vpaint,/u/jitterted,8
+14,2015-08-28 12:16:20 -0500,"/t/release,/t/web",Flarum: Forums Made Simple,http://flarum.org/,/u/Curiositry,13
+3,2015-08-28 12:15:21 -0500,"/t/haskell,/t/programming","Effectful Haskell: Reader, Transformers, Typeclasses",https://slpopejoy.github.io/posts/Effectful02.html,/u/pushcx,17
+0,2015-08-28 14:49:02 -0500,/t/programming,"Interview with Nenad Rakocevic about Red, a Rebol inspired programming language",https://medium.com/@unbalancedparen/interview-with-nenad-rakocevic-about-red-a-rebol-inspired-programming-language-681133e3fd1c,/u/unbalancedparentheses,7
+6,2015-08-28 07:54:42 -0500,/t/programming,A New Soft Technology,http://breakingsmart.com/season-1/a-new-soft-technology/,/u/journeysquid,13
+2,2015-08-28 17:11:53 -0500,"/t/go,/t/web",Deploying Go Apps to Heroku with Docker,http://icanhazdowntime.org/post/deploying-go-heroku-docker/,/u/apg,5
+0,2015-08-28 19:19:25 -0500,/t/javascript,ES6 Template Strings in Depth,http://ponyfoo.com/articles/es6-template-strings-in-depth,/u/joshuacc,4
+1,2015-08-28 06:05:20 -0500,"/t/games,/t/linux",Unity3D editor Comes to Linux (ubuntu),http://blogs.unity3d.com/2015/08/26/unity-comes-to-linux-experimental-build-now-available/,/u/panic,11
+20,2015-08-28 08:49:06 -0500,/t/meta,Add a CSS tag?,/s/iul1yt/add_css_tag,/u/joshuacc,4
+0,2015-08-28 10:19:31 -0500,"/t/hardware,/t/programming",Open Source kernel on Open Source CPU,http://www.excamera.com/sphinx/article-j1a-swapforth.html,/u/qbit,6
+0,2015-08-28 12:12:29 -0500,"/t/programming,/t/python",Efficient Tabular Storage,http://matthewrocklin.com/blog/work/2015/08/28/Storage/,/u/pushcx,3
+0,2015-08-28 17:37:01 -0500,/t/culture,"#DisruptTechInterviews using psych methods, maybe! (with tweets)",https://storify.com/anyharder/disrupttechinterviews-using-psych-methods-maybe,/u/antifuchs,3
+0,2015-08-28 09:21:32 -0500,"/t/philosophy,/t/practices",Cynefin for Devs -- Sensemaking and Understanding Problems (2012),http://lizkeogh.com/2012/03/11/cynefin-for-devs/,/u/asthasr,4
+0,2015-08-27 22:22:21 -0500,"/t/practices,/t/privacy,/t/security",RFC 7624 - Confidentiality in the Face of Pervasive Surveillance: A Threat Model and Problem Statement,https://tools.ietf.org/html/rfc7624,/u/pushcx,14
+1,2015-08-28 08:39:49 -0500,"/t/javascript,/t/web",sass-lint - Pure Node.js Sass linting,https://github.com/sasstools/sass-lint,/u/joshuacc,4
+0,2015-08-27 09:35:57 -0500,"/t/show,/t/javascript",User interfaces built with React,http://builtwithreact.io/,/u/jpadilla,21
+1,2015-08-27 19:10:16 -0500,"/t/pdf,/t/compsci,/t/haskell,/t/math",The Genuine Sieve of Eratosthenes,https://www.cs.hmc.edu/%7Eoneill/papers/Sieve-JFP.pdf,/u/pushcx,10

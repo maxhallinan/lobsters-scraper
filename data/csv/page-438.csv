@@ -1,25 +1,25 @@
-1,2017-03-20 10:05:33 -0500,"['/t/culture', '/t/practices']",How is team-member-1 doing?,https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/,/u/mpasternacki,13
-0,2017-03-20 19:06:20 -0500,"['/t/pdf', '/t/historical', '/t/mobile', '/t/programming']",Using a Prototype-based Language for User Interface: The Newton Project’s Experience (1995),http://waltersmith.us/newton/OOPSLA95.pdf,/u/calvin,2
-5,2017-03-20 17:20:50 -0500,"['/t/programming', '/t/rant']",Open Letter to Calendar Developers about HTTP (2013),https://lists.w3.org/Archives/Public/www-archive/2013Aug/0021.html,/u/ysth,5
-0,2017-03-20 22:16:57 -0500,['/t/vcs'],SHA-1 collision detection on GitHub.com,https://github.com/blog/2338-sha-1-collision-detection-on-github-com,/u/av,1
-0,2017-03-20 21:02:32 -0500,"['/t/ask', '/t/culture', '/t/education']","What are some tools, methods, etc that need more technical writing?",/s/bmhaam/what_are_some_tools_methods_etc_need_more,/u/hwayne,3
-0,2017-03-20 08:44:19 -0500,['/t/programming'],Parsing Expressions · Crafting Interpreters,http://www.craftinginterpreters.com/parsing-expressions.html,/u/balrogboogie,7
-4,2017-03-19 22:25:43 -0500,['/t/databases'],A Beginner’s Guide to the True Order of SQL Operations,https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/,/u/pushcx,12
-0,2017-03-20 11:10:21 -0500,"['/t/go', '/t/networking']",Intro to gRPC - Protocol Buffers,http://mycodesmells.com/post/intro-to-grpc---protocol-buffers,/u/Dawny33,4
-2,2017-03-20 05:29:49 -0500,"['/t/games', '/t/reversing']",Hacking Final Fantasy 1 on the NES,http://www.walknsqualk.com/post/hacking-final-fantasy-1-on-nes/,/u/calvin,5
-0,2017-03-20 15:41:03 -0500,"['/t/debugging', '/t/programming', '/t/release']",Introducing Bloaty McBloatface: a size profiler for binaries,http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html,/u/azdle,2
-1,2017-03-20 03:49:07 -0500,"['/t/devops', '/t/haskell']",propellor: deploying properties to hosts with haskell,https://propellor.branchable.com/,/u/vegai,8
-5,2017-03-19 06:21:02 -0500,"['/t/show', '/t/programming']",Wallaroo: High-performance stream processing,http://engineering.sendence.com/2017/03/hello-wallaroo/,/u/SeanTAllen,30
-0,2017-03-20 16:14:41 -0500,"['/t/compilers', '/t/programming']",Don’t Fear the Reaper – Basics about the D Garbage Collector,https://dlang.org/blog/2017/03/20/dont-fear-the-reaper/,/u/qznc,1
-41,2017-03-19 04:24:55 -0500,"['/t/go', '/t/haskell']",Three Months of Go (from a Haskeller's perspective),https://www.barrucadu.co.uk/posts/etc/2016-08-25-three-months-of-go.html,/u/av,42
-0,2017-03-20 01:08:29 -0500,"['/t/practices', '/t/programming']",97 Things Every Programmer Should Know,http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book,/u/av,8
-3,2017-03-20 03:47:06 -0500,"['/t/philosophy', '/t/programming']",The two ways to keep a language lean,http://comp.lang.modula2.narkive.com/GgnXF0Ab/the-two-ways-to-keep-a-language-lean,/u/qznc,3
-0,2017-03-20 03:09:24 -0500,"['/t/compsci', '/t/crypto', '/t/math']","Zero Knowledge Proofs: An illustrated primer, Part 2",https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/,/u/Snocrash,5
-10,2017-03-19 16:59:01 -0500,"['/t/crypto', '/t/security', '/t/web']",Avoid Encrypting URL Parameters (2015),https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php,/u/sarciszewski,4
-0,2017-03-19 13:24:24 -0500,['/t/design'],The Anti-Mac User Interface (1996),https://www.nngroup.com/articles/anti-mac-interface/,/u/pushcx,20
-0,2017-03-20 05:48:33 -0500,['/t/math'],History and Derivation of the Fast Fourier Transform,http://michaeljflynn.net/2017/03/20/history-and-derivation-of-the-fast-fourier-transform/,/u/calvin,3
-3,2017-03-19 22:20:52 -0500,['/t/hardware'],Intel’s first Optane SSD: 375GB that you can also use as RAM,https://arstechnica.com/information-technology/2017/03/intels-first-optane-ssd-375gb-that-you-can-also-use-as-ram/,/u/pushcx,4
-0,2017-03-20 00:52:28 -0500,"['/t/law', '/t/programming']","The Last AC-3 Patent Expired on March 20, 2017",https://ac3freedomday.org/,/u/av,5
-0,2017-03-20 10:05:47 -0500,['/t/python'],Spice Up Thy Jupyter Notebooks With mypy,http://journalpanic.com/post/spice-up-thy-jupyter-notebooks-with-mypy/,/u/ngoldbaum,1
-0,2017-03-20 05:55:46 -0500,"['/t/culture', '/t/javascript']",JS “fatigue” is coming back to bite us,https://chrismm.com/blog/the-other-kind-of-javascript-fatigue/?1,/u/innerspirit,2
-5,2017-03-19 05:13:59 -0500,['/t/vcs'],The git sha-1 migration has begun,https://github.com/git/git/commit/e1fae930193b3e8ff02cee936605625f63e1d1e4,/u/av,23
+1,2017-03-20 10:05:33 -0500,"/t/culture,/t/practices",How is team-member-1 doing?,https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/,/u/mpasternacki,13
+0,2017-03-20 19:06:20 -0500,"/t/pdf,/t/historical,/t/mobile,/t/programming",Using a Prototype-based Language for User Interface: The Newton Project’s Experience (1995),http://waltersmith.us/newton/OOPSLA95.pdf,/u/calvin,2
+5,2017-03-20 17:20:50 -0500,"/t/programming,/t/rant",Open Letter to Calendar Developers about HTTP (2013),https://lists.w3.org/Archives/Public/www-archive/2013Aug/0021.html,/u/ysth,5
+0,2017-03-20 22:16:57 -0500,/t/vcs,SHA-1 collision detection on GitHub.com,https://github.com/blog/2338-sha-1-collision-detection-on-github-com,/u/av,1
+0,2017-03-20 21:02:32 -0500,"/t/ask,/t/culture,/t/education","What are some tools, methods, etc that need more technical writing?",/s/bmhaam/what_are_some_tools_methods_etc_need_more,/u/hwayne,3
+0,2017-03-20 08:44:19 -0500,/t/programming,Parsing Expressions · Crafting Interpreters,http://www.craftinginterpreters.com/parsing-expressions.html,/u/balrogboogie,7
+4,2017-03-19 22:25:43 -0500,/t/databases,A Beginner’s Guide to the True Order of SQL Operations,https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/,/u/pushcx,12
+0,2017-03-20 11:10:21 -0500,"/t/go,/t/networking",Intro to gRPC - Protocol Buffers,http://mycodesmells.com/post/intro-to-grpc---protocol-buffers,/u/Dawny33,4
+2,2017-03-20 05:29:49 -0500,"/t/games,/t/reversing",Hacking Final Fantasy 1 on the NES,http://www.walknsqualk.com/post/hacking-final-fantasy-1-on-nes/,/u/calvin,5
+0,2017-03-20 15:41:03 -0500,"/t/debugging,/t/programming,/t/release",Introducing Bloaty McBloatface: a size profiler for binaries,http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html,/u/azdle,2
+1,2017-03-20 03:49:07 -0500,"/t/devops,/t/haskell",propellor: deploying properties to hosts with haskell,https://propellor.branchable.com/,/u/vegai,8
+5,2017-03-19 06:21:02 -0500,"/t/show,/t/programming",Wallaroo: High-performance stream processing,http://engineering.sendence.com/2017/03/hello-wallaroo/,/u/SeanTAllen,30
+0,2017-03-20 16:14:41 -0500,"/t/compilers,/t/programming",Don’t Fear the Reaper – Basics about the D Garbage Collector,https://dlang.org/blog/2017/03/20/dont-fear-the-reaper/,/u/qznc,1
+41,2017-03-19 04:24:55 -0500,"/t/go,/t/haskell",Three Months of Go (from a Haskeller's perspective),https://www.barrucadu.co.uk/posts/etc/2016-08-25-three-months-of-go.html,/u/av,42
+0,2017-03-20 01:08:29 -0500,"/t/practices,/t/programming",97 Things Every Programmer Should Know,http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book,/u/av,8
+3,2017-03-20 03:47:06 -0500,"/t/philosophy,/t/programming",The two ways to keep a language lean,http://comp.lang.modula2.narkive.com/GgnXF0Ab/the-two-ways-to-keep-a-language-lean,/u/qznc,3
+0,2017-03-20 03:09:24 -0500,"/t/compsci,/t/crypto,/t/math","Zero Knowledge Proofs: An illustrated primer, Part 2",https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/,/u/Snocrash,5
+10,2017-03-19 16:59:01 -0500,"/t/crypto,/t/security,/t/web",Avoid Encrypting URL Parameters (2015),https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php,/u/sarciszewski,4
+0,2017-03-19 13:24:24 -0500,/t/design,The Anti-Mac User Interface (1996),https://www.nngroup.com/articles/anti-mac-interface/,/u/pushcx,20
+0,2017-03-20 05:48:33 -0500,/t/math,History and Derivation of the Fast Fourier Transform,http://michaeljflynn.net/2017/03/20/history-and-derivation-of-the-fast-fourier-transform/,/u/calvin,3
+3,2017-03-19 22:20:52 -0500,/t/hardware,Intel’s first Optane SSD: 375GB that you can also use as RAM,https://arstechnica.com/information-technology/2017/03/intels-first-optane-ssd-375gb-that-you-can-also-use-as-ram/,/u/pushcx,4
+0,2017-03-20 00:52:28 -0500,"/t/law,/t/programming","The Last AC-3 Patent Expired on March 20, 2017",https://ac3freedomday.org/,/u/av,5
+0,2017-03-20 10:05:47 -0500,/t/python,Spice Up Thy Jupyter Notebooks With mypy,http://journalpanic.com/post/spice-up-thy-jupyter-notebooks-with-mypy/,/u/ngoldbaum,1
+0,2017-03-20 05:55:46 -0500,"/t/culture,/t/javascript",JS “fatigue” is coming back to bite us,https://chrismm.com/blog/the-other-kind-of-javascript-fatigue/?1,/u/innerspirit,2
+5,2017-03-19 05:13:59 -0500,/t/vcs,The git sha-1 migration has begun,https://github.com/git/git/commit/e1fae930193b3e8ff02cee936605625f63e1d1e4,/u/av,23

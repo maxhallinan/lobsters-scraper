@@ -1,25 +1,25 @@
-4,2016-02-19 17:05:43 -0600,['/t/practices'],Programming is a Pop Culture,http://braythwayt.com/posterous/2012/11/01/programming-is-a-pop-culture.html,/u/pushcx,16
-4,2016-02-19 10:33:31 -0600,['/t/programming'],Microservices: Pop Culture Architecture?,http://deliberate-software.com/pop-culture-architecture/,/u/steveshogren,18
-0,2016-02-20 01:01:24 -0600,"['/t/hardware', '/t/historical']",Raspberry Pi 2 vs Sun E450,http://fanf.livejournal.com/141066.html,/u/uggedal,10
-2,2016-02-19 19:02:45 -0600,"['/t/api', '/t/distributed', '/t/programming']",An Introduction to IPFS,https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0,/u/friendlysock,14
-0,2016-02-19 19:32:51 -0600,['/t/security'],Early Impacts of Let's Encrypt,https://tacticalsecret.com/early-impacts-of-letsencrypt/,/u/evaryont,15
-2,2016-02-19 14:06:38 -0600,"['/t/ios', '/t/law']",U.S. files motion to force Apple to obey iPhone order,http://www.reuters.com/article/us-apple-encryption-doj-idUSKCN0VS2FT,/u/zg,10
-7,2016-02-19 17:42:58 -0600,"['/t/dotnet', '/t/haskell', '/t/java', '/t/lisp']",Language Safety Score Mark 2 - Deliberate Software,http://deliberate-software.com/safety-rank-part-2/,/u/michaelochurch,5
-4,2016-02-19 18:35:15 -0600,['/t/science'],Half the world to be short-sighted by 2050,https://www.sciencedaily.com/releases/2016/02/160217113308.htm,/u/pushcx,4
-7,2016-02-19 03:25:03 -0600,"['/t/haskell', '/t/programming']",Selling Haskell in the pub,http://neilmitchell.blogspot.com/2016/02/selling-haskell-in-pub.html,/u/ehamberg,22
-0,2016-02-19 22:13:23 -0600,['/t/hardware'],Nyuzi: an open source GPGPU processor,http://nyuzi.org/,/u/sanxiyn,5
-3,2016-02-19 16:20:31 -0600,"['/t/ask', '/t/emacs']",Emacs Development in 2016?,/s/lywwwg/emacs_development_2016,/u/brianhicks,5
-5,2016-02-19 08:59:59 -0600,['/t/release'],Lazarus 1.6 Release,http://www.getlazarus.org/release/lazarus-1.6,/u/mulander,11
-1,2016-02-19 21:58:14 -0600,"['/t/python', '/t/release']","Mypy 0.3 Released, an optional static type checker for Python",http://mypy-lang.blogspot.com/2016/02/mypy-03-released.html,/u/sanxiyn,3
-0,2016-02-19 15:37:02 -0600,"['/t/browsers', '/t/security']","On the Right Fix, and Why the Bugzilla Breach Made Me Proud",http://bholley.net/blog/2016/the-right-fix.html,/u/fitzgen,9
-3,2016-02-18 20:30:45 -0600,"['/t/show', '/t/games', '/t/reversing']",Reverse engineering the Firewatch.camera API (and pranking r/Firewatch),https://spindas.dreamwidth.org/2244.html,/u/spinda,30
-3,2016-02-19 20:58:40 -0600,['/t/compsci'],System Design Interview Question – How to Design Twitter,http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/,/u/jakecook,1
-0,2016-02-19 15:10:35 -0600,['/t/games'],"What makes AlphaGo so strong, and why does it matter?",https://medium.com/@bmc_/what-makes-alphago-so-strong-and-why-does-it-matter-372ae7c6bc73,/u/lithp,4
-1,2016-02-19 13:05:12 -0600,"['/t/design', '/t/hardware']",What Bendable Screens Mean For The Future Of UI,http://www.fastcodesign.com/3056882/what-bendable-screens-mean-for-the-future-of-ui,/u/flyingfisch,6
-2,2016-02-19 06:35:06 -0600,"['/t/slides', '/t/go']",Introducing Go 1.6 - GopherconIndia,https://docs.google.com/presentation/d/1JsCKdK_AvDdn8EkummMNvpo7ntqteWQfynq9hFTCkhQ/preview?slide=id.p,/u/ngrilly,9
-0,2016-02-19 22:34:26 -0600,['/t/openbsd'],[PATCH] No comic sans in httpd status pages,http://marc.info/?l=openbsd-tech&m=145590012904434&w=2,/u/cnst,2
-1,2016-02-19 12:57:57 -0600,"['/t/design', '/t/release']",Outlook takes on Gmail with huge new update,http://www.webdesignerdepot.com/2016/02/outlook-takes-on-gmail-with-huge-new-update/,/u/flyingfisch,4
-0,2016-02-19 16:17:20 -0600,"['/t/show', '/t/go']",Simple command-line utilities for Redis pubsub,https://github.com/AndrewGuenther/rpubsub,/u/andrewguenther,2
-0,2016-02-19 17:16:14 -0600,"['/t/graphics', '/t/haskell']",Pure API vs. IO-bound API for graphics frameworks,http://phaazon.blogspot.com/2016/02/pure-api-vs-io-bound-api-for-graphics.html,/u/pushcx,3
-0,2016-02-19 11:45:52 -0600,"['/t/api', '/t/javascript', '/t/programming']",The API Churn/Security Trade-off,http://intercoolerjs.org/2016/02/17/api-churn-vs-security.html,/u/carsongross,3
-0,2016-02-18 19:12:16 -0600,"['/t/law', '/t/linux']","Canonical, Ubuntu and why I seem so upset about them all the time",https://mjg59.dreamwidth.org/39913.html,/u/jcs,38
+4,2016-02-19 17:05:43 -0600,/t/practices,Programming is a Pop Culture,http://braythwayt.com/posterous/2012/11/01/programming-is-a-pop-culture.html,/u/pushcx,16
+4,2016-02-19 10:33:31 -0600,/t/programming,Microservices: Pop Culture Architecture?,http://deliberate-software.com/pop-culture-architecture/,/u/steveshogren,18
+0,2016-02-20 01:01:24 -0600,"/t/hardware,/t/historical",Raspberry Pi 2 vs Sun E450,http://fanf.livejournal.com/141066.html,/u/uggedal,10
+2,2016-02-19 19:02:45 -0600,"/t/api,/t/distributed,/t/programming",An Introduction to IPFS,https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0,/u/friendlysock,14
+0,2016-02-19 19:32:51 -0600,/t/security,Early Impacts of Let's Encrypt,https://tacticalsecret.com/early-impacts-of-letsencrypt/,/u/evaryont,15
+2,2016-02-19 14:06:38 -0600,"/t/ios,/t/law",U.S. files motion to force Apple to obey iPhone order,http://www.reuters.com/article/us-apple-encryption-doj-idUSKCN0VS2FT,/u/zg,10
+7,2016-02-19 17:42:58 -0600,"/t/dotnet,/t/haskell,/t/java,/t/lisp",Language Safety Score Mark 2 - Deliberate Software,http://deliberate-software.com/safety-rank-part-2/,/u/michaelochurch,5
+4,2016-02-19 18:35:15 -0600,/t/science,Half the world to be short-sighted by 2050,https://www.sciencedaily.com/releases/2016/02/160217113308.htm,/u/pushcx,4
+7,2016-02-19 03:25:03 -0600,"/t/haskell,/t/programming",Selling Haskell in the pub,http://neilmitchell.blogspot.com/2016/02/selling-haskell-in-pub.html,/u/ehamberg,22
+0,2016-02-19 22:13:23 -0600,/t/hardware,Nyuzi: an open source GPGPU processor,http://nyuzi.org/,/u/sanxiyn,5
+3,2016-02-19 16:20:31 -0600,"/t/ask,/t/emacs",Emacs Development in 2016?,/s/lywwwg/emacs_development_2016,/u/brianhicks,5
+5,2016-02-19 08:59:59 -0600,/t/release,Lazarus 1.6 Release,http://www.getlazarus.org/release/lazarus-1.6,/u/mulander,11
+1,2016-02-19 21:58:14 -0600,"/t/python,/t/release","Mypy 0.3 Released, an optional static type checker for Python",http://mypy-lang.blogspot.com/2016/02/mypy-03-released.html,/u/sanxiyn,3
+0,2016-02-19 15:37:02 -0600,"/t/browsers,/t/security","On the Right Fix, and Why the Bugzilla Breach Made Me Proud",http://bholley.net/blog/2016/the-right-fix.html,/u/fitzgen,9
+3,2016-02-18 20:30:45 -0600,"/t/show,/t/games,/t/reversing",Reverse engineering the Firewatch.camera API (and pranking r/Firewatch),https://spindas.dreamwidth.org/2244.html,/u/spinda,30
+3,2016-02-19 20:58:40 -0600,/t/compsci,System Design Interview Question – How to Design Twitter,http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/,/u/jakecook,1
+0,2016-02-19 15:10:35 -0600,/t/games,"What makes AlphaGo so strong, and why does it matter?",https://medium.com/@bmc_/what-makes-alphago-so-strong-and-why-does-it-matter-372ae7c6bc73,/u/lithp,4
+1,2016-02-19 13:05:12 -0600,"/t/design,/t/hardware",What Bendable Screens Mean For The Future Of UI,http://www.fastcodesign.com/3056882/what-bendable-screens-mean-for-the-future-of-ui,/u/flyingfisch,6
+2,2016-02-19 06:35:06 -0600,"/t/slides,/t/go",Introducing Go 1.6 - GopherconIndia,https://docs.google.com/presentation/d/1JsCKdK_AvDdn8EkummMNvpo7ntqteWQfynq9hFTCkhQ/preview?slide=id.p,/u/ngrilly,9
+0,2016-02-19 22:34:26 -0600,/t/openbsd,[PATCH] No comic sans in httpd status pages,http://marc.info/?l=openbsd-tech&m=145590012904434&w=2,/u/cnst,2
+1,2016-02-19 12:57:57 -0600,"/t/design,/t/release",Outlook takes on Gmail with huge new update,http://www.webdesignerdepot.com/2016/02/outlook-takes-on-gmail-with-huge-new-update/,/u/flyingfisch,4
+0,2016-02-19 16:17:20 -0600,"/t/show,/t/go",Simple command-line utilities for Redis pubsub,https://github.com/AndrewGuenther/rpubsub,/u/andrewguenther,2
+0,2016-02-19 17:16:14 -0600,"/t/graphics,/t/haskell",Pure API vs. IO-bound API for graphics frameworks,http://phaazon.blogspot.com/2016/02/pure-api-vs-io-bound-api-for-graphics.html,/u/pushcx,3
+0,2016-02-19 11:45:52 -0600,"/t/api,/t/javascript,/t/programming",The API Churn/Security Trade-off,http://intercoolerjs.org/2016/02/17/api-churn-vs-security.html,/u/carsongross,3
+0,2016-02-18 19:12:16 -0600,"/t/law,/t/linux","Canonical, Ubuntu and why I seem so upset about them all the time",https://mjg59.dreamwidth.org/39913.html,/u/jcs,38

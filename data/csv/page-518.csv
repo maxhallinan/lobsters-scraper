@@ -1,25 +1,25 @@
-0,2017-01-24 14:10:53 -0600,"['/t/ios', '/t/swift']","Observables, State Machines, and Associated Types… Oh My!",https://engineering.snagajob.com/observables-state-machines-and-associated-types-oh-my-9992cc1082d0,/u/softinio,2
-94,2017-01-23 08:59:42 -0600,['/t/ask'],What do you do in your free time?,/s/v069nl/what_do_you_do_your_free_time,/u/zg,31
-27,2017-01-23 11:36:49 -0600,"['/t/ios', '/t/practices']",Apple Inc: A Pre-Mortem,https://medium.com/adventures-in-consumer-technology/apple-inc-a-pre-mortem-568d1a0b7d72,/u/calvin,21
-0,2017-01-24 06:13:58 -0600,"['/t/audio', '/t/compilers', '/t/person', '/t/swift']",Chris Lattner interview [with transcript],http://atp.fm/205-chris-lattner-interview-transcript/,/u/calvin,5
-0,2017-01-24 06:06:08 -0600,"['/t/linux', '/t/programming', '/t/security']","Return of the Unauthenticated, Unfirewalled protocols",https://ma.ttias.be/return-unauthenticated-unfirewalled-protocols/,/u/mattiasgeniar,2
-0,2017-01-24 09:35:00 -0600,['/t/javascript'],Watch Out for Undefined State in React,https://daveceddia.com/watch-out-for-undefined-state/,/u/dceddia,1
-0,2017-01-24 07:49:33 -0600,['/t/design'],More Than Just Pretty: How Imagery Drives User Experience,https://www.smashingmagazine.com/2017/01/more-than-just-pretty-how-imagery-drives-user-experience/,/u/flyingfisch,3
-0,2017-01-24 10:25:56 -0600,['/t/css'],Browser Support for evergreen websites,https://rachelandrew.co.uk/archives/2017/01/12/browser-support-for-evergreen-websites/,/u/flyingfisch,2
-0,2017-01-24 09:58:19 -0600,"['/t/haskell', '/t/testing']",QuickCheck and Magic of Testing,https://www.fpcomplete.com/blog/2017/01/quickcheck,/u/julienXX,2
-0,2017-01-24 08:14:05 -0600,['/t/ruby'],Ruby Coercion Protocols Part 2 - DNSimple Blog,https://blog.dnsimple.com/2017/01/ruby-coercion-protocols-part-2/,/u/jodosha,1
-0,2017-01-24 12:34:04 -0600,['/t/python'],Building a Dynamic Instrumentation Agent for Python,https://blog.sqreen.io/dynamic-instrumentation-agent-for-python/,/u/PaulBlei,1
-4,2017-01-23 13:31:05 -0600,"['/t/book', '/t/compsci', '/t/programming']",Updated Pharo by Example,http://files.pharo.org/books/updated-pharo-by-example/,/u/sevan,13
-0,2017-01-23 12:46:13 -0600,"['/t/historical', '/t/java']",What Happens When You Mix Java with a 1960 IBM Mainframe,http://thenewstack.io/happens-use-java-1960-ibm-mainframe/,/u/aleph,20
-1,2017-01-23 15:25:06 -0600,['/t/security'],Magic WebEx URL allows arbitrary RCE,https://bugs.chromium.org/p/project-zero/issues/detail?id=1096,/u/kb,14
-1,2017-01-24 00:23:53 -0600,"['/t/practices', '/t/python']",Ride the carousel of folly with a Python migration,https://mortoray.com/2017/01/24/ride-the-carousel-of-folly-with-a-python-migration/,/u/friendlysock,3
-2,2017-01-23 23:26:10 -0600,"['/t/compilers', '/t/lua']",leegao/LuaInLua -- A self-hosting compiler for the Lua language.,https://github.com/leegao/LuaInLua,/u/clacke,3
-0,2017-01-24 09:40:22 -0600,['/t/perl'],Ack for CSS Developers,http://csswizardry.com/2017/01/ack-for-css-developers/,/u/flyingfisch,1
-23,2017-01-23 02:17:27 -0600,['/t/scala'],Becoming More Functional,http://m50d.github.io/2017/01/23/becoming-more-functional.html,/u/lmm,13
-0,2017-01-24 07:55:02 -0600,['/t/hardware'],ATARIPiMouse - The software to emulate an ATARI ST mouse using a Raspberry Pi,https://github.com/backofficeshow/ATARIPiMouse,/u/flyingfisch,1
-9,2017-01-23 06:33:18 -0600,['/t/linux'],NixOS Weekly: #01 - We need to start somewhere,http://weekly.nixos.org/2017/01-we-need-to-start-somewhere.html,/u/grahamc,13
-0,2017-01-24 06:10:26 -0600,"['/t/compilers', '/t/graphics', '/t/release']",New DirectX Shader Compiler based on Clang/LLVM now available as Open Source,https://blogs.msdn.microsoft.com/directx/2017/01/23/new-directx-shader-compiler-based-on-clangllvm-now-available-as-open-source/,/u/calvin,1
-18,2017-01-23 03:11:48 -0600,['/t/ask'],What are you working on this week?,/s/tiz27o/what_are_you_working_on_this_week,/u/caius,16
-25,2017-01-22 15:52:57 -0600,['/t/privacy'],I Had All of My Electronics Seized by U.S. Customs and Border Protection,https://vc.gg/blog/so-its-been-a-while.html,/u/bill,50
-0,2017-01-24 01:10:04 -0600,"['/t/api', '/t/distributed']",Reliable Collections,https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-services-reliable-collections,/u/apy,2
-0,2017-01-24 03:35:44 -0600,"['/t/hardware', '/t/release']",MrChromebox.tech - Custom coreboot firmware and firmware utilities for your Chromebook/Chromebox,https://mrchromebox.tech,/u/sevan,1
+0,2017-01-24 14:10:53 -0600,"/t/ios,/t/swift","Observables, State Machines, and Associated Types… Oh My!",https://engineering.snagajob.com/observables-state-machines-and-associated-types-oh-my-9992cc1082d0,/u/softinio,2
+94,2017-01-23 08:59:42 -0600,/t/ask,What do you do in your free time?,/s/v069nl/what_do_you_do_your_free_time,/u/zg,31
+27,2017-01-23 11:36:49 -0600,"/t/ios,/t/practices",Apple Inc: A Pre-Mortem,https://medium.com/adventures-in-consumer-technology/apple-inc-a-pre-mortem-568d1a0b7d72,/u/calvin,21
+0,2017-01-24 06:13:58 -0600,"/t/audio,/t/compilers,/t/person,/t/swift",Chris Lattner interview [with transcript],http://atp.fm/205-chris-lattner-interview-transcript/,/u/calvin,5
+0,2017-01-24 06:06:08 -0600,"/t/linux,/t/programming,/t/security","Return of the Unauthenticated, Unfirewalled protocols",https://ma.ttias.be/return-unauthenticated-unfirewalled-protocols/,/u/mattiasgeniar,2
+0,2017-01-24 09:35:00 -0600,/t/javascript,Watch Out for Undefined State in React,https://daveceddia.com/watch-out-for-undefined-state/,/u/dceddia,1
+0,2017-01-24 07:49:33 -0600,/t/design,More Than Just Pretty: How Imagery Drives User Experience,https://www.smashingmagazine.com/2017/01/more-than-just-pretty-how-imagery-drives-user-experience/,/u/flyingfisch,3
+0,2017-01-24 10:25:56 -0600,/t/css,Browser Support for evergreen websites,https://rachelandrew.co.uk/archives/2017/01/12/browser-support-for-evergreen-websites/,/u/flyingfisch,2
+0,2017-01-24 09:58:19 -0600,"/t/haskell,/t/testing",QuickCheck and Magic of Testing,https://www.fpcomplete.com/blog/2017/01/quickcheck,/u/julienXX,2
+0,2017-01-24 08:14:05 -0600,/t/ruby,Ruby Coercion Protocols Part 2 - DNSimple Blog,https://blog.dnsimple.com/2017/01/ruby-coercion-protocols-part-2/,/u/jodosha,1
+0,2017-01-24 12:34:04 -0600,/t/python,Building a Dynamic Instrumentation Agent for Python,https://blog.sqreen.io/dynamic-instrumentation-agent-for-python/,/u/PaulBlei,1
+4,2017-01-23 13:31:05 -0600,"/t/book,/t/compsci,/t/programming",Updated Pharo by Example,http://files.pharo.org/books/updated-pharo-by-example/,/u/sevan,13
+0,2017-01-23 12:46:13 -0600,"/t/historical,/t/java",What Happens When You Mix Java with a 1960 IBM Mainframe,http://thenewstack.io/happens-use-java-1960-ibm-mainframe/,/u/aleph,20
+1,2017-01-23 15:25:06 -0600,/t/security,Magic WebEx URL allows arbitrary RCE,https://bugs.chromium.org/p/project-zero/issues/detail?id=1096,/u/kb,14
+1,2017-01-24 00:23:53 -0600,"/t/practices,/t/python",Ride the carousel of folly with a Python migration,https://mortoray.com/2017/01/24/ride-the-carousel-of-folly-with-a-python-migration/,/u/friendlysock,3
+2,2017-01-23 23:26:10 -0600,"/t/compilers,/t/lua",leegao/LuaInLua -- A self-hosting compiler for the Lua language.,https://github.com/leegao/LuaInLua,/u/clacke,3
+0,2017-01-24 09:40:22 -0600,/t/perl,Ack for CSS Developers,http://csswizardry.com/2017/01/ack-for-css-developers/,/u/flyingfisch,1
+23,2017-01-23 02:17:27 -0600,/t/scala,Becoming More Functional,http://m50d.github.io/2017/01/23/becoming-more-functional.html,/u/lmm,13
+0,2017-01-24 07:55:02 -0600,/t/hardware,ATARIPiMouse - The software to emulate an ATARI ST mouse using a Raspberry Pi,https://github.com/backofficeshow/ATARIPiMouse,/u/flyingfisch,1
+9,2017-01-23 06:33:18 -0600,/t/linux,NixOS Weekly: #01 - We need to start somewhere,http://weekly.nixos.org/2017/01-we-need-to-start-somewhere.html,/u/grahamc,13
+0,2017-01-24 06:10:26 -0600,"/t/compilers,/t/graphics,/t/release",New DirectX Shader Compiler based on Clang/LLVM now available as Open Source,https://blogs.msdn.microsoft.com/directx/2017/01/23/new-directx-shader-compiler-based-on-clangllvm-now-available-as-open-source/,/u/calvin,1
+18,2017-01-23 03:11:48 -0600,/t/ask,What are you working on this week?,/s/tiz27o/what_are_you_working_on_this_week,/u/caius,16
+25,2017-01-22 15:52:57 -0600,/t/privacy,I Had All of My Electronics Seized by U.S. Customs and Border Protection,https://vc.gg/blog/so-its-been-a-while.html,/u/bill,50
+0,2017-01-24 01:10:04 -0600,"/t/api,/t/distributed",Reliable Collections,https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-services-reliable-collections,/u/apy,2
+0,2017-01-24 03:35:44 -0600,"/t/hardware,/t/release",MrChromebox.tech - Custom coreboot firmware and firmware utilities for your Chromebook/Chromebox,https://mrchromebox.tech,/u/sevan,1

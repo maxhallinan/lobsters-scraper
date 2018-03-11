@@ -1,25 +1,25 @@
-2,2017-09-21 09:42:31 -0500,"['/t/compilers', '/t/linux']",Building the kernel with clang,https://lwn.net/SubscriberLink/734071/f0bcc0afc5b50c85/,/u/av,9
-4,2017-09-21 11:56:38 -0500,['/t/security'],Clkscrew: Exposing the perils of security-oblivious energy management,https://blog.acolyer.org/2017/09/21/clkscrew-exposing-the-perils-of-security-oblivious-energy-management/,/u/nickpsecurity,9
-1,2017-09-21 12:22:37 -0500,"['/t/api', '/t/practices', '/t/programming']",3 Creative Techniques for Writing Modular Code,https://www.linkedin.com/pulse/creative-techniques-writing-modular-code-christian-maioli-mackeprang,/u/innerspirit,4
-1,2017-09-21 16:50:11 -0500,"['/t/assembly', '/t/programming', '/t/security']",Moxie Mixie: Frustrating Remote Attackers with Container Specific Instruction Sets,http://moxielogic.org/blog/moxie-mixie.html,/u/trn,4
-20,2017-09-22 03:13:31 -0500,['/t/culture'],Tech's push to teach coding isn't about kids' success – it's about cutting wages,https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages,/u/riaface,12
-24,2017-09-20 18:50:11 -0500,"['/t/hardware', '/t/security']",Unsigned Code Execution on Intel ME 11.x,https://www.blackhat.com/eu-17/briefings/schedule/#how-to-hack-a-turned-off-computer-or-running-unsigned-code-in-intel-management-engine-8668,/u/chadski,28
-1,2017-09-21 16:58:39 -0500,"['/t/pdf', '/t/compsci', '/t/historical', '/t/math', '/t/philosophy']",Conservative Logic,http://52.7.130.124/wp-content/uploads/2015/07/ConservativeLogic.pdf,/u/trn,3
-0,2017-09-20 17:21:30 -0500,"['/t/historical', '/t/person']","""HTML email, was that your fault?""",https://www.jwz.org/blog/2017/09/html-email-was-that-your-fault/,/u/GeoffWozniak,47
-0,2017-09-21 19:46:41 -0500,"['/t/philosophy', '/t/practices']",How I got to 200 productive hours a month,https://qotoqot.com/blog/improving-focus/,/u/calvin,2
-0,2017-09-21 09:43:33 -0500,"['/t/lisp', '/t/web']",Server: Racket – An ebook about web development with the Racket HTTP server,http://serverracket.com/,/u/av,7
-0,2017-09-21 01:15:11 -0500,['/t/practices'],How to answer questions in a helpful way,https://jvns.ca/blog/answer-questions-well/,/u/quobit,18
-0,2017-09-21 11:17:00 -0500,['/t/security'],rVMI: Perform Full System Analysis with Ease,https://www.fireeye.com/blog/threat-research/2017/09/rvmi-full-system-analysis.html,/u/lattera,5
-1,2017-09-21 06:44:53 -0500,"['/t/devops', '/t/linux']","An immutable, reproducible and inheritable Linux operating system.",http://www.pknopf.com/post/2017-03-20-an_immutable_reproducible_and_inheritable_linux_operating_system/,/u/calvin,4
-5,2017-09-20 17:33:13 -0500,"['/t/assembly', '/t/historical']",Hacking Burger Time with Lua,https://stefan.arentz.ca/2017/09/20/ewm-update-lets-get-cookin/,/u/st3fan,11
-0,2017-09-21 09:59:45 -0500,"['/t/graphics', '/t/math']",Tracing metaballs in two dimensions,https://eightsquaredsoftware.com/articles/metaball.html,/u/friendlysock,5
-7,2017-09-20 10:34:17 -0500,"['/t/c++', '/t/rust']",mrustc: an alternative Rust compiler written in C++,https://github.com/thepowersgang/mrustc,/u/fitzgen,35
-0,2017-09-21 09:42:08 -0500,['/t/python'],Numba: High-Performance Python with CUDA Acceleration,https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/,/u/av,4
-4,2017-09-20 10:31:46 -0500,"['/t/science', '/t/security', '/t/web']",How Optionsbleed wasn't found in 2014,https://blog.fuzzing-project.org/61-How-Optionsbleed-wasnt-found-in-2014.html,/u/hanno,22
-3,2017-09-20 21:29:42 -0500,"['/t/reversing', '/t/security']","Encrypted Keystroke Injection For Logitech, Dell, Lenovo, and AmazonBasics",https://github.com/BastilleResearch/keyjack,/u/timetoplatypus,10
-2,2017-09-20 17:47:19 -0500,"['/t/c', '/t/compilers']",rswier/c4 -- limited C compiler in <600 LoC,https://github.com/rswier/c4/blob/master/c4.c,/u/friendlysock,17
-0,2017-09-21 16:25:11 -0500,['/t/programming'],Getting Started With Versioning in AWS Lambda (Or How to Not Break Your Lambda Code),https://medium.com/aaptiv-engineering/https-medium-com-aaptiv-engineering-getting-started-with-versioning-in-aws-lambda-92c617e2f5f1,/u/kathleenyanolatos,1
-0,2017-09-21 16:06:49 -0500,"['/t/compsci', '/t/scaling']",Robust-first Computing,http://robust.cs.unm.edu/,/u/hobbes,1
-2,2017-09-21 11:06:24 -0500,['/t/databases'],Per-Test Database Isolation in Postgres,https://kyleconroy.com/per-test-database-isolation-in-postgres,/u/kb,1
-13,2017-09-20 19:21:21 -0500,['/t/cryptocurrencies'],Bootstrapping Urbit from Ethereum,https://urbit.org/blog/2017.9-eth/,/u/friendlysock,6
-0,2017-09-20 17:40:14 -0500,"['/t/design', '/t/visualization']",A new kind of map: it’s about time,https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f,/u/friendlysock,15
+2,2017-09-21 09:42:31 -0500,"/t/compilers,/t/linux",Building the kernel with clang,https://lwn.net/SubscriberLink/734071/f0bcc0afc5b50c85/,/u/av,9
+4,2017-09-21 11:56:38 -0500,/t/security,Clkscrew: Exposing the perils of security-oblivious energy management,https://blog.acolyer.org/2017/09/21/clkscrew-exposing-the-perils-of-security-oblivious-energy-management/,/u/nickpsecurity,9
+1,2017-09-21 12:22:37 -0500,"/t/api,/t/practices,/t/programming",3 Creative Techniques for Writing Modular Code,https://www.linkedin.com/pulse/creative-techniques-writing-modular-code-christian-maioli-mackeprang,/u/innerspirit,4
+1,2017-09-21 16:50:11 -0500,"/t/assembly,/t/programming,/t/security",Moxie Mixie: Frustrating Remote Attackers with Container Specific Instruction Sets,http://moxielogic.org/blog/moxie-mixie.html,/u/trn,4
+20,2017-09-22 03:13:31 -0500,/t/culture,Tech's push to teach coding isn't about kids' success – it's about cutting wages,https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages,/u/riaface,12
+24,2017-09-20 18:50:11 -0500,"/t/hardware,/t/security",Unsigned Code Execution on Intel ME 11.x,https://www.blackhat.com/eu-17/briefings/schedule/#how-to-hack-a-turned-off-computer-or-running-unsigned-code-in-intel-management-engine-8668,/u/chadski,28
+1,2017-09-21 16:58:39 -0500,"/t/pdf,/t/compsci,/t/historical,/t/math,/t/philosophy",Conservative Logic,http://52.7.130.124/wp-content/uploads/2015/07/ConservativeLogic.pdf,/u/trn,3
+0,2017-09-20 17:21:30 -0500,"/t/historical,/t/person","""HTML email, was that your fault?""",https://www.jwz.org/blog/2017/09/html-email-was-that-your-fault/,/u/GeoffWozniak,47
+0,2017-09-21 19:46:41 -0500,"/t/philosophy,/t/practices",How I got to 200 productive hours a month,https://qotoqot.com/blog/improving-focus/,/u/calvin,2
+0,2017-09-21 09:43:33 -0500,"/t/lisp,/t/web",Server: Racket – An ebook about web development with the Racket HTTP server,http://serverracket.com/,/u/av,7
+0,2017-09-21 01:15:11 -0500,/t/practices,How to answer questions in a helpful way,https://jvns.ca/blog/answer-questions-well/,/u/quobit,18
+0,2017-09-21 11:17:00 -0500,/t/security,rVMI: Perform Full System Analysis with Ease,https://www.fireeye.com/blog/threat-research/2017/09/rvmi-full-system-analysis.html,/u/lattera,5
+1,2017-09-21 06:44:53 -0500,"/t/devops,/t/linux","An immutable, reproducible and inheritable Linux operating system.",http://www.pknopf.com/post/2017-03-20-an_immutable_reproducible_and_inheritable_linux_operating_system/,/u/calvin,4
+5,2017-09-20 17:33:13 -0500,"/t/assembly,/t/historical",Hacking Burger Time with Lua,https://stefan.arentz.ca/2017/09/20/ewm-update-lets-get-cookin/,/u/st3fan,11
+0,2017-09-21 09:59:45 -0500,"/t/graphics,/t/math",Tracing metaballs in two dimensions,https://eightsquaredsoftware.com/articles/metaball.html,/u/friendlysock,5
+7,2017-09-20 10:34:17 -0500,"/t/c++,/t/rust",mrustc: an alternative Rust compiler written in C++,https://github.com/thepowersgang/mrustc,/u/fitzgen,35
+0,2017-09-21 09:42:08 -0500,/t/python,Numba: High-Performance Python with CUDA Acceleration,https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/,/u/av,4
+4,2017-09-20 10:31:46 -0500,"/t/science,/t/security,/t/web",How Optionsbleed wasn't found in 2014,https://blog.fuzzing-project.org/61-How-Optionsbleed-wasnt-found-in-2014.html,/u/hanno,22
+3,2017-09-20 21:29:42 -0500,"/t/reversing,/t/security","Encrypted Keystroke Injection For Logitech, Dell, Lenovo, and AmazonBasics",https://github.com/BastilleResearch/keyjack,/u/timetoplatypus,10
+2,2017-09-20 17:47:19 -0500,"/t/c,/t/compilers",rswier/c4 -- limited C compiler in <600 LoC,https://github.com/rswier/c4/blob/master/c4.c,/u/friendlysock,17
+0,2017-09-21 16:25:11 -0500,/t/programming,Getting Started With Versioning in AWS Lambda (Or How to Not Break Your Lambda Code),https://medium.com/aaptiv-engineering/https-medium-com-aaptiv-engineering-getting-started-with-versioning-in-aws-lambda-92c617e2f5f1,/u/kathleenyanolatos,1
+0,2017-09-21 16:06:49 -0500,"/t/compsci,/t/scaling",Robust-first Computing,http://robust.cs.unm.edu/,/u/hobbes,1
+2,2017-09-21 11:06:24 -0500,/t/databases,Per-Test Database Isolation in Postgres,https://kyleconroy.com/per-test-database-isolation-in-postgres,/u/kb,1
+13,2017-09-20 19:21:21 -0500,/t/cryptocurrencies,Bootstrapping Urbit from Ethereum,https://urbit.org/blog/2017.9-eth/,/u/friendlysock,6
+0,2017-09-20 17:40:14 -0500,"/t/design,/t/visualization",A new kind of map: it’s about time,https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f,/u/friendlysock,15

@@ -1,25 +1,25 @@
-0,2016-11-01 16:26:06 -0500,"['/t/event', '/t/swift']",The Power of Meeting People,http://inaka.net/blog/2016/11/01/the-power-of-meeting-people/,/u/InakaESI,1
-1,2016-11-01 12:09:28 -0500,['/t/historical'],Ghosts of tech past: Photos of data storage from the 1950s - 1980s - TechRepublic,http://www.techrepublic.com/pictures/ghosts-of-tech-past-photos-of-storage-devices-from-1950s-1980s/,/u/feoh,2
-11,2016-10-31 11:56:02 -0500,['/t/graphics'],Learn OpenGL,http://learnopengl.com/,/u/mikejsavage,17
-13,2016-10-31 10:33:27 -0500,"['/t/browsers', '/t/privacy']",Battery Status readout as a privacy risk,https://blog.lukaszolejnik.com/battery-status-readout-as-a-privacy-risk/,/u/stsp,19
-0,2016-11-01 14:13:08 -0500,"['/t/networking', '/t/security']",The Possibly Russian Fingerprints on the Shadow Brokers' Trick or Treat Package,http://bsdly.blogspot.com/2016/11/the-possibly-russian-fingerprints-on.html,/u/mulander,1
-2,2016-10-31 15:51:52 -0500,"['/t/programming', '/t/ruby']",Using DTrace to measure mutex contention in Ruby,https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby/,/u/vaneyckt,9
-0,2016-11-01 09:06:00 -0500,['/t/security'],Remotely Exploitable Bugs in Memcached Identified and Patched,http://blog.talosintel.com/2016/10/memcached-vulnerabilities.html,/u/lattera,2
-0,2016-11-01 12:49:41 -0500,['/t/compsci'],Engines of Evidence: A Conversation With Judea Pearl,https://www.edge.org/conversation/judea_pearl-engines-of-evidence,/u/tf,1
-0,2016-11-01 08:12:32 -0500,['/t/web'],Finding the Root Cause of Elusive Frontend Errors,http://blog.runnable.com/post/152595069871/finding-the-root-cause-of-elusive-frontend-errors,/u/taylor,2
-2,2016-10-31 20:31:25 -0500,['/t/linux'],"Debian drops PowerPC support, adds 64-bit little endian MIPS",https://lists.debian.org/debian-release/2016/10/msg00635.html,/u/calvin,5
-0,2016-11-01 15:28:27 -0500,"['/t/culture', '/t/event']",Webinar Nov. 3rd: The LifeCycle of Engagement of Girls and Women in Tech,https://www.brighttalk.com/webcast/14805/226973/the-lifecycle-of-engagement-of-girls-and-women-in-tech,/u/meskarune,1
-0,2016-10-31 11:59:20 -0500,"['/t/historical', '/t/practices', '/t/programming']",Being A Developer After 40,https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c,/u/calvin,18
-0,2016-11-01 05:18:20 -0500,"['/t/hardware', '/t/historical', '/t/unix']",PDP2011 (Recreation of the PDP-11 in VHDL),http://pdp2011.sytse.net/wordpress/pdp-11/,/u/mjturner,2
-0,2016-11-01 08:21:07 -0500,['/t/design'],The Illusion of Time – The Startup,https://medium.com/swlh/the-illusion-of-time-8f321fa2f191,/u/adsouza,1
-0,2016-11-01 14:02:01 -0500,['/t/games'],BEYOND THE SEA: The Beginnings of BioShock’s Big Daddy,https://blog.2k.com/news/beyond-the-sea-the-beginnings-of-bioshocks-big-daddy,/u/mulander,0
-12,2016-10-31 11:53:32 -0500,['/t/meta'],Feature Request/Discussion: Fave tags,/s/qplw56/feature_request_discussion_fave_tags,/u/listrophy,7
-22,2016-10-31 05:54:58 -0500,['/t/ask'],What are you working on this week?,/s/vgtz4u/what_are_you_working_on_this_week,/u/caius,13
-0,2016-11-01 06:35:56 -0500,"['/t/graphics', '/t/hardware']",NeTV2 Tech Details,http://www.bunniestudios.com/blog/?p=4842,/u/fcbsd,1
-14,2016-10-31 02:57:07 -0500,"['/t/mac', '/t/satire']",Benjamin Button Reviews The New MacBook Pro,https://blog.pinboard.in/2016/10/benjamin_button_reviews_the_new_macbook_pro/,/u/akalin,63
-1,2016-10-31 18:40:35 -0500,"['/t/browsers', '/t/security']",Distrusting WoSign and StartCom Certificates,https://security.googleblog.com/2016/10/distrusting-wosign-and-startcom.html,/u/nyx,4
-0,2016-10-31 14:25:46 -0500,"['/t/openbsd', '/t/security']",System call fuzzing of OpenBSD amd64 using TriforceAFL (i.e. AFL and QEMU),https://github.com/nccgroup/TriforceOpenBSDFuzzer,/u/sin,9
-3,2016-10-31 12:54:35 -0500,['/t/cryptocurrencies'],Dragonchain,https://dragonchain.github.io,/u/mechazoidal,4
-1,2016-10-31 16:32:19 -0500,"['/t/compsci', '/t/crypto', '/t/distributed', '/t/privacy', '/t/security', '/t/web']","Fabric - High-level language for secure, distributed apps (2010-present)",https://www.cs.cornell.edu/projects/fabric/,/u/nickpsecurity,4
-66,2016-10-30 06:57:11 -0500,['/t/meta'],Please don't downvote things you disagree with.,/s/ldk36t/please_don_t_downvote_things_you_disagree,/u/asthasr,78
-8,2016-10-31 11:44:40 -0500,"['/t/philosophy', '/t/programming']",What else are we getting wrong?,http://danghica.blogspot.com/2016/09/what-else-are-we-getting-wrong.html,/u/calvin,3
+0,2016-11-01 16:26:06 -0500,"/t/event,/t/swift",The Power of Meeting People,http://inaka.net/blog/2016/11/01/the-power-of-meeting-people/,/u/InakaESI,1
+1,2016-11-01 12:09:28 -0500,/t/historical,Ghosts of tech past: Photos of data storage from the 1950s - 1980s - TechRepublic,http://www.techrepublic.com/pictures/ghosts-of-tech-past-photos-of-storage-devices-from-1950s-1980s/,/u/feoh,2
+11,2016-10-31 11:56:02 -0500,/t/graphics,Learn OpenGL,http://learnopengl.com/,/u/mikejsavage,17
+13,2016-10-31 10:33:27 -0500,"/t/browsers,/t/privacy",Battery Status readout as a privacy risk,https://blog.lukaszolejnik.com/battery-status-readout-as-a-privacy-risk/,/u/stsp,19
+0,2016-11-01 14:13:08 -0500,"/t/networking,/t/security",The Possibly Russian Fingerprints on the Shadow Brokers' Trick or Treat Package,http://bsdly.blogspot.com/2016/11/the-possibly-russian-fingerprints-on.html,/u/mulander,1
+2,2016-10-31 15:51:52 -0500,"/t/programming,/t/ruby",Using DTrace to measure mutex contention in Ruby,https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby/,/u/vaneyckt,9
+0,2016-11-01 09:06:00 -0500,/t/security,Remotely Exploitable Bugs in Memcached Identified and Patched,http://blog.talosintel.com/2016/10/memcached-vulnerabilities.html,/u/lattera,2
+0,2016-11-01 12:49:41 -0500,/t/compsci,Engines of Evidence: A Conversation With Judea Pearl,https://www.edge.org/conversation/judea_pearl-engines-of-evidence,/u/tf,1
+0,2016-11-01 08:12:32 -0500,/t/web,Finding the Root Cause of Elusive Frontend Errors,http://blog.runnable.com/post/152595069871/finding-the-root-cause-of-elusive-frontend-errors,/u/taylor,2
+2,2016-10-31 20:31:25 -0500,/t/linux,"Debian drops PowerPC support, adds 64-bit little endian MIPS",https://lists.debian.org/debian-release/2016/10/msg00635.html,/u/calvin,5
+0,2016-11-01 15:28:27 -0500,"/t/culture,/t/event",Webinar Nov. 3rd: The LifeCycle of Engagement of Girls and Women in Tech,https://www.brighttalk.com/webcast/14805/226973/the-lifecycle-of-engagement-of-girls-and-women-in-tech,/u/meskarune,1
+0,2016-10-31 11:59:20 -0500,"/t/historical,/t/practices,/t/programming",Being A Developer After 40,https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c,/u/calvin,18
+0,2016-11-01 05:18:20 -0500,"/t/hardware,/t/historical,/t/unix",PDP2011 (Recreation of the PDP-11 in VHDL),http://pdp2011.sytse.net/wordpress/pdp-11/,/u/mjturner,2
+0,2016-11-01 08:21:07 -0500,/t/design,The Illusion of Time – The Startup,https://medium.com/swlh/the-illusion-of-time-8f321fa2f191,/u/adsouza,1
+0,2016-11-01 14:02:01 -0500,/t/games,BEYOND THE SEA: The Beginnings of BioShock’s Big Daddy,https://blog.2k.com/news/beyond-the-sea-the-beginnings-of-bioshocks-big-daddy,/u/mulander,0
+12,2016-10-31 11:53:32 -0500,/t/meta,Feature Request/Discussion: Fave tags,/s/qplw56/feature_request_discussion_fave_tags,/u/listrophy,7
+22,2016-10-31 05:54:58 -0500,/t/ask,What are you working on this week?,/s/vgtz4u/what_are_you_working_on_this_week,/u/caius,13
+0,2016-11-01 06:35:56 -0500,"/t/graphics,/t/hardware",NeTV2 Tech Details,http://www.bunniestudios.com/blog/?p=4842,/u/fcbsd,1
+14,2016-10-31 02:57:07 -0500,"/t/mac,/t/satire",Benjamin Button Reviews The New MacBook Pro,https://blog.pinboard.in/2016/10/benjamin_button_reviews_the_new_macbook_pro/,/u/akalin,63
+1,2016-10-31 18:40:35 -0500,"/t/browsers,/t/security",Distrusting WoSign and StartCom Certificates,https://security.googleblog.com/2016/10/distrusting-wosign-and-startcom.html,/u/nyx,4
+0,2016-10-31 14:25:46 -0500,"/t/openbsd,/t/security",System call fuzzing of OpenBSD amd64 using TriforceAFL (i.e. AFL and QEMU),https://github.com/nccgroup/TriforceOpenBSDFuzzer,/u/sin,9
+3,2016-10-31 12:54:35 -0500,/t/cryptocurrencies,Dragonchain,https://dragonchain.github.io,/u/mechazoidal,4
+1,2016-10-31 16:32:19 -0500,"/t/compsci,/t/crypto,/t/distributed,/t/privacy,/t/security,/t/web","Fabric - High-level language for secure, distributed apps (2010-present)",https://www.cs.cornell.edu/projects/fabric/,/u/nickpsecurity,4
+66,2016-10-30 06:57:11 -0500,/t/meta,Please don't downvote things you disagree with.,/s/ldk36t/please_don_t_downvote_things_you_disagree,/u/asthasr,78
+8,2016-10-31 11:44:40 -0500,"/t/philosophy,/t/programming",What else are we getting wrong?,http://danghica.blogspot.com/2016/09/what-else-are-we-getting-wrong.html,/u/calvin,3

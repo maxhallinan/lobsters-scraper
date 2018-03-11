@@ -1,25 +1,25 @@
-1,2017-01-04 10:45:47 -0600,"['/t/games', '/t/graphics', '/t/linux', '/t/practices']","The ""Faster Zombies!"" blog post",http://richg42.blogspot.com/2017/01/the-faster-zombies-blog-post.html,/u/calvin,5
-0,2017-01-04 19:07:23 -0600,"['/t/javascript', '/t/rust']",Compiling Rust to WebAssembly Guide,https://medium.com/@chicoxyzzy/compiling-rust-to-webassembly-guide-411066a69fde,/u/joshuacc,2
-3,2017-01-04 08:41:47 -0600,"['/t/programming', '/t/python']",alot - commandline MUA based on notmuch and urwid,https://github.com/pazz/alot,/u/geier,6
-1,2017-01-04 13:34:22 -0600,"['/t/devops', '/t/security']",High Interaction Honeypots with Sysdig and Falco,https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco,/u/pushcx,3
-1,2017-01-04 18:30:58 -0600,"['/t/rant', '/t/security']",Multiple vulnerabilities in RPM – and a rant (2016),http://seclists.org/oss-sec/2016/q3/381,/u/untitaker,4
-3,2017-01-04 07:21:33 -0600,"['/t/video', '/t/cogsci', '/t/philosophy']",33C3: Machine Dreams,https://media.ccc.de/v/33c3-8369-machine_dreams,/u/stsp,4
-0,2017-01-04 09:30:42 -0600,['/t/security'],Introducing CAA records - DNSimple Blog,https://blog.dnsimple.com/2017/01/introducing-caa-records/,/u/aeden,3
-12,2017-01-04 08:12:16 -0600,['/t/culture'],I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.,https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c,/u/calvin,13
-1,2017-01-04 11:43:06 -0600,"['/t/compsci', '/t/linux']",Linux OS data compression options: Comparing behavior,https://clearlinux.org/blogs/linux-os-data-compression-options-comparing-behavior,/u/jennifer,2
-9,2017-01-03 14:39:24 -0600,"['/t/c', '/t/go', '/t/rust']",Getting Past C,http://blog.ntpsec.org/2017/01/03/getting-past-c.html,/u/mulander,31
-0,2017-01-04 19:37:09 -0600,"['/t/video', '/t/hardware']",Revolution in Storage (2013),https://www.youtube.com/watch?v=ulBHarnnf3Y,/u/sevan,1
-0,2017-01-04 12:53:00 -0600,"['/t/book', '/t/culture']",Polite Technology First Draft,http://polite.technology/preview/,/u/pushcx,6
-0,2017-01-04 02:12:32 -0600,"['/t/pdf', '/t/programming', '/t/testing']",A Survey of Symbolic Execution Techniques,https://arxiv.org/pdf/1610.00502v1.pdf,/u/dw,11
-35,2017-01-03 14:40:53 -0600,['/t/vcs'],The next billion programmers (won’t use Git),https://medium.com/@gerstenzang/the-next-billion-programmers-wont-use-git-5e8b0ea57886,/u/maqio,19
-0,2017-01-04 09:35:33 -0600,"['/t/devops', '/t/haskell']",Nix and Haskell in production,https://github.com/Gabriel439/haskell-nix,/u/pushcx,4
-7,2017-01-03 10:59:32 -0600,['/t/practices'],Company Bricks User's Software After He Posts A Negative Review,https://www.techdirt.com/articles/20161220/12411836320/company-bricks-users-software-after-he-posts-negative-review.shtml,/u/flyingfisch,24
-17,2017-01-03 06:14:14 -0600,"['/t/haskell', '/t/lisp']",Rascal: a Haskell with more parentheses,http://lexi-lambda.github.io/blog/2017/01/02/rascal-a-haskell-with-more-parentheses/,/u/ehamberg,39
-0,2017-01-04 17:21:20 -0600,"['/t/c', '/t/swift']",Unsafe Swift: Using Pointers And Interacting With C,https://www.raywenderlich.com/148569/unsafe-swift,/u/hypepat,1
-0,2017-01-04 16:39:58 -0600,['/t/systemd'],cme: a GUI to configure Systemd services,https://ddumont.wordpress.com/2017/01/04/new-with-cme-a-gui-to-configure-systemd-services/,/u/pizzaiolo,1
-0,2017-01-04 07:34:06 -0600,"['/t/javascript', '/t/lisp']","Syndicate, an Actor-based language for interactive programs",http://syndicate-lang.org/,/u/d_run,4
-6,2017-01-03 13:53:26 -0600,"['/t/browsers', '/t/web']",Beaker | An experimental P2P browser,https://beakerbrowser.com/,/u/mr-foobar,13
-1,2017-01-04 11:10:22 -0600,['/t/hardware'],iPhone 6s Program for Unexpected Shutdown Issues,https://www.apple.com/support/iphone6s-unexpectedshutdown/,/u/philpennock,2
-0,2017-01-04 16:09:10 -0600,"['/t/culture', '/t/games', '/t/philosophy']",Players Who Suit Muds (1996),http://mud.co.uk/richard/hcds.htm,/u/friendlysock,2
-4,2017-01-03 18:25:22 -0600,"['/t/linux', '/t/unix']","Logs Are Streams, Not Files (2011)",http://adam.herokuapp.com/past/2011/4/1/logs_are_streams_not_files/,/u/stunder,8
-0,2017-01-04 00:15:03 -0600,['/t/debugging'],Lock-Free Bugs,https://research.swtch.com/lockfree,/u/sanxiyn,7
+1,2017-01-04 10:45:47 -0600,"/t/games,/t/graphics,/t/linux,/t/practices","The ""Faster Zombies!"" blog post",http://richg42.blogspot.com/2017/01/the-faster-zombies-blog-post.html,/u/calvin,5
+0,2017-01-04 19:07:23 -0600,"/t/javascript,/t/rust",Compiling Rust to WebAssembly Guide,https://medium.com/@chicoxyzzy/compiling-rust-to-webassembly-guide-411066a69fde,/u/joshuacc,2
+3,2017-01-04 08:41:47 -0600,"/t/programming,/t/python",alot - commandline MUA based on notmuch and urwid,https://github.com/pazz/alot,/u/geier,6
+1,2017-01-04 13:34:22 -0600,"/t/devops,/t/security",High Interaction Honeypots with Sysdig and Falco,https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco,/u/pushcx,3
+1,2017-01-04 18:30:58 -0600,"/t/rant,/t/security",Multiple vulnerabilities in RPM – and a rant (2016),http://seclists.org/oss-sec/2016/q3/381,/u/untitaker,4
+3,2017-01-04 07:21:33 -0600,"/t/video,/t/cogsci,/t/philosophy",33C3: Machine Dreams,https://media.ccc.de/v/33c3-8369-machine_dreams,/u/stsp,4
+0,2017-01-04 09:30:42 -0600,/t/security,Introducing CAA records - DNSimple Blog,https://blog.dnsimple.com/2017/01/introducing-caa-records/,/u/aeden,3
+12,2017-01-04 08:12:16 -0600,/t/culture,I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.,https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c,/u/calvin,13
+1,2017-01-04 11:43:06 -0600,"/t/compsci,/t/linux",Linux OS data compression options: Comparing behavior,https://clearlinux.org/blogs/linux-os-data-compression-options-comparing-behavior,/u/jennifer,2
+9,2017-01-03 14:39:24 -0600,"/t/c,/t/go,/t/rust",Getting Past C,http://blog.ntpsec.org/2017/01/03/getting-past-c.html,/u/mulander,31
+0,2017-01-04 19:37:09 -0600,"/t/video,/t/hardware",Revolution in Storage (2013),https://www.youtube.com/watch?v=ulBHarnnf3Y,/u/sevan,1
+0,2017-01-04 12:53:00 -0600,"/t/book,/t/culture",Polite Technology First Draft,http://polite.technology/preview/,/u/pushcx,6
+0,2017-01-04 02:12:32 -0600,"/t/pdf,/t/programming,/t/testing",A Survey of Symbolic Execution Techniques,https://arxiv.org/pdf/1610.00502v1.pdf,/u/dw,11
+35,2017-01-03 14:40:53 -0600,/t/vcs,The next billion programmers (won’t use Git),https://medium.com/@gerstenzang/the-next-billion-programmers-wont-use-git-5e8b0ea57886,/u/maqio,19
+0,2017-01-04 09:35:33 -0600,"/t/devops,/t/haskell",Nix and Haskell in production,https://github.com/Gabriel439/haskell-nix,/u/pushcx,4
+7,2017-01-03 10:59:32 -0600,/t/practices,Company Bricks User's Software After He Posts A Negative Review,https://www.techdirt.com/articles/20161220/12411836320/company-bricks-users-software-after-he-posts-negative-review.shtml,/u/flyingfisch,24
+17,2017-01-03 06:14:14 -0600,"/t/haskell,/t/lisp",Rascal: a Haskell with more parentheses,http://lexi-lambda.github.io/blog/2017/01/02/rascal-a-haskell-with-more-parentheses/,/u/ehamberg,39
+0,2017-01-04 17:21:20 -0600,"/t/c,/t/swift",Unsafe Swift: Using Pointers And Interacting With C,https://www.raywenderlich.com/148569/unsafe-swift,/u/hypepat,1
+0,2017-01-04 16:39:58 -0600,/t/systemd,cme: a GUI to configure Systemd services,https://ddumont.wordpress.com/2017/01/04/new-with-cme-a-gui-to-configure-systemd-services/,/u/pizzaiolo,1
+0,2017-01-04 07:34:06 -0600,"/t/javascript,/t/lisp","Syndicate, an Actor-based language for interactive programs",http://syndicate-lang.org/,/u/d_run,4
+6,2017-01-03 13:53:26 -0600,"/t/browsers,/t/web",Beaker | An experimental P2P browser,https://beakerbrowser.com/,/u/mr-foobar,13
+1,2017-01-04 11:10:22 -0600,/t/hardware,iPhone 6s Program for Unexpected Shutdown Issues,https://www.apple.com/support/iphone6s-unexpectedshutdown/,/u/philpennock,2
+0,2017-01-04 16:09:10 -0600,"/t/culture,/t/games,/t/philosophy",Players Who Suit Muds (1996),http://mud.co.uk/richard/hcds.htm,/u/friendlysock,2
+4,2017-01-03 18:25:22 -0600,"/t/linux,/t/unix","Logs Are Streams, Not Files (2011)",http://adam.herokuapp.com/past/2011/4/1/logs_are_streams_not_files/,/u/stunder,8
+0,2017-01-04 00:15:03 -0600,/t/debugging,Lock-Free Bugs,https://research.swtch.com/lockfree,/u/sanxiyn,7

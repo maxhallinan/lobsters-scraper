@@ -1,25 +1,25 @@
-1,2017-02-24 12:35:06 -0600,['/t/css'],"Deep dive CSS: font metrics, line-height and vertical-align",http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align,/u/flyingfisch,9
-0,2017-02-25 10:09:04 -0600,['/t/finance'],Warren Buffet's 2016 Shareholder Letter,http://berkshirehathaway.com/letters/2016ltr.pdf,/u/pushcx,0
-0,2017-02-24 14:47:09 -0600,"['/t/lisp', '/t/programming']",Flare Programming Language,http://flarelang.sourceforge.net/,/u/wje,6
-2,2017-02-24 09:55:02 -0600,['/t/programming'],Gopher Server,http://re-factor.blogspot.com/2016/10/gopher-server.html,/u/feoh,8
-6,2017-02-24 01:22:45 -0600,['/t/security'],on pgp,https://www.ctrlc.hu/~stef/blog/posts/on_pgp.html,/u/av,15
-21,2017-02-23 07:14:34 -0600,['/t/security'],SHAttered,http://shattered.it/,/u/lm,86
-0,2017-02-24 09:49:48 -0600,['/t/javascript'],TypeScript 2.2: The object Type,https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type,/u/mariusschulz,4
-2,2017-02-24 11:51:40 -0600,"['/t/databases', '/t/distributed', '/t/scaling']",Before & After Architecture for Distributed Caching Fleet,https://keen.io/blog/155772589226/new-architecture-design-for-distributed-caching?s=lbstrs,/u/wetzler,3
-0,2017-02-24 17:19:03 -0600,"['/t/compsci', '/t/science']",Even good bots fight: The case of Wikipedia,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171774,/u/noelle,2
-0,2017-02-24 14:04:45 -0600,"['/t/audio', '/t/python']","Episode #100 Python past, present, and future with Guido van Rossum - [Talk Python To Me Podcast]",https://talkpython.fm/100,/u/quobit,3
-0,2017-02-24 15:15:02 -0600,"['/t/css', '/t/graphics']",Scaling SVG Clipping Paths for CSS Use,http://meyerweb.com/eric/thoughts/2017/02/24/scaling-svg-clipping-paths-for-css-use/,/u/flyingfisch,2
-0,2017-02-23 21:51:31 -0600,"['/t/assembly', '/t/c']",a heisenbug to share,http://madcatllc.tumblr.com/post/157635937646/a-heisenbug-to-share,/u/ahh,8
-0,2017-02-24 06:14:08 -0600,"['/t/hardware', '/t/historical', '/t/unix']",The Harris HCX-9 aka TAHOE platform,https://virtuallyfun.superglobalmegacorp.com/2017/02/24/the-harris-hcx-9-aka-tahoe-platform/,/u/calvin,5
-10,2017-02-24 04:30:49 -0600,"['/t/cogsci', '/t/culture']",Having No Life is the New Aspirational Lifestyle,http://hbswk.hbs.edu/item/having-no-life-is-the-new-aspirational-lifestyle,/u/a-109-107,11
-0,2017-02-24 11:16:43 -0600,['/t/security'],SHA1 collider,https://alf.nu/SHA1,/u/jcs,2
-26,2017-02-23 10:04:37 -0600,['/t/haskell'],Ten example uses of Monads,http://haskellexists.blogspot.com/2017/02/ten-example-uses-of-monads.html,/u/julienXX,20
-0,2017-02-24 01:18:12 -0600,"['/t/security', '/t/web']",List of Sites possibly affected by Cloudflare's HTTPS Traffic Leak,https://github.com/pirate/sites-using-cloudflare/blob/master/README.md,/u/av,7
-4,2017-02-23 08:13:59 -0600,"['/t/devops', '/t/practices']",Docker in Production: An Update,https://thehftguy.com/2017/02/23/docker-in-production-an-update/,/u/dgv,27
-1,2017-02-23 11:28:17 -0600,"['/t/ml', '/t/release', '/t/virtualization']",Announcing MirageOS 3.0.0,https://mirage.io/blog/announcing-mirage-30-release,/u/jcs,20
-1,2017-02-23 17:12:57 -0600,['/t/programming'],Correctness,http://blog.jessitron.com/2017/02/correctness.html,/u/pushcx,10
-11,2017-02-23 04:43:30 -0600,['/t/programming'],"Stop Comparing JSON and XML — No, Really",http://dpk.io/xmljson,/u/dpk,11
-1,2017-02-24 15:46:40 -0600,"['/t/ios', '/t/security']",iPhone Robbers Try to iPhish Victims,https://krebsonsecurity.com/2017/02/iphone-robbers-try-to-iphish-victims/,/u/flyingfisch,0
-4,2017-02-23 05:15:15 -0600,['/t/openbsd'],OpenBSD Foundation 2016 Fundraising,http://undeadly.org/cgi?action=article&sid=20170223044255,/u/stsp,23
-0,2017-02-24 01:23:54 -0600,"['/t/release', '/t/ruby', '/t/web']","Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and more",http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/,/u/av,3
-10,2017-02-23 07:23:57 -0600,"['/t/pdf', '/t/databases', '/t/distributed']","Spanner, TrueTime & The CAP Theorem",https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf,/u/apy,12
+1,2017-02-24 12:35:06 -0600,/t/css,"Deep dive CSS: font metrics, line-height and vertical-align",http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align,/u/flyingfisch,9
+0,2017-02-25 10:09:04 -0600,/t/finance,Warren Buffet's 2016 Shareholder Letter,http://berkshirehathaway.com/letters/2016ltr.pdf,/u/pushcx,0
+0,2017-02-24 14:47:09 -0600,"/t/lisp,/t/programming",Flare Programming Language,http://flarelang.sourceforge.net/,/u/wje,6
+2,2017-02-24 09:55:02 -0600,/t/programming,Gopher Server,http://re-factor.blogspot.com/2016/10/gopher-server.html,/u/feoh,8
+6,2017-02-24 01:22:45 -0600,/t/security,on pgp,https://www.ctrlc.hu/~stef/blog/posts/on_pgp.html,/u/av,15
+21,2017-02-23 07:14:34 -0600,/t/security,SHAttered,http://shattered.it/,/u/lm,86
+0,2017-02-24 09:49:48 -0600,/t/javascript,TypeScript 2.2: The object Type,https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type,/u/mariusschulz,4
+2,2017-02-24 11:51:40 -0600,"/t/databases,/t/distributed,/t/scaling",Before & After Architecture for Distributed Caching Fleet,https://keen.io/blog/155772589226/new-architecture-design-for-distributed-caching?s=lbstrs,/u/wetzler,3
+0,2017-02-24 17:19:03 -0600,"/t/compsci,/t/science",Even good bots fight: The case of Wikipedia,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171774,/u/noelle,2
+0,2017-02-24 14:04:45 -0600,"/t/audio,/t/python","Episode #100 Python past, present, and future with Guido van Rossum - [Talk Python To Me Podcast]",https://talkpython.fm/100,/u/quobit,3
+0,2017-02-24 15:15:02 -0600,"/t/css,/t/graphics",Scaling SVG Clipping Paths for CSS Use,http://meyerweb.com/eric/thoughts/2017/02/24/scaling-svg-clipping-paths-for-css-use/,/u/flyingfisch,2
+0,2017-02-23 21:51:31 -0600,"/t/assembly,/t/c",a heisenbug to share,http://madcatllc.tumblr.com/post/157635937646/a-heisenbug-to-share,/u/ahh,8
+0,2017-02-24 06:14:08 -0600,"/t/hardware,/t/historical,/t/unix",The Harris HCX-9 aka TAHOE platform,https://virtuallyfun.superglobalmegacorp.com/2017/02/24/the-harris-hcx-9-aka-tahoe-platform/,/u/calvin,5
+10,2017-02-24 04:30:49 -0600,"/t/cogsci,/t/culture",Having No Life is the New Aspirational Lifestyle,http://hbswk.hbs.edu/item/having-no-life-is-the-new-aspirational-lifestyle,/u/a-109-107,11
+0,2017-02-24 11:16:43 -0600,/t/security,SHA1 collider,https://alf.nu/SHA1,/u/jcs,2
+26,2017-02-23 10:04:37 -0600,/t/haskell,Ten example uses of Monads,http://haskellexists.blogspot.com/2017/02/ten-example-uses-of-monads.html,/u/julienXX,20
+0,2017-02-24 01:18:12 -0600,"/t/security,/t/web",List of Sites possibly affected by Cloudflare's HTTPS Traffic Leak,https://github.com/pirate/sites-using-cloudflare/blob/master/README.md,/u/av,7
+4,2017-02-23 08:13:59 -0600,"/t/devops,/t/practices",Docker in Production: An Update,https://thehftguy.com/2017/02/23/docker-in-production-an-update/,/u/dgv,27
+1,2017-02-23 11:28:17 -0600,"/t/ml,/t/release,/t/virtualization",Announcing MirageOS 3.0.0,https://mirage.io/blog/announcing-mirage-30-release,/u/jcs,20
+1,2017-02-23 17:12:57 -0600,/t/programming,Correctness,http://blog.jessitron.com/2017/02/correctness.html,/u/pushcx,10
+11,2017-02-23 04:43:30 -0600,/t/programming,"Stop Comparing JSON and XML — No, Really",http://dpk.io/xmljson,/u/dpk,11
+1,2017-02-24 15:46:40 -0600,"/t/ios,/t/security",iPhone Robbers Try to iPhish Victims,https://krebsonsecurity.com/2017/02/iphone-robbers-try-to-iphish-victims/,/u/flyingfisch,0
+4,2017-02-23 05:15:15 -0600,/t/openbsd,OpenBSD Foundation 2016 Fundraising,http://undeadly.org/cgi?action=article&sid=20170223044255,/u/stsp,23
+0,2017-02-24 01:23:54 -0600,"/t/release,/t/ruby,/t/web","Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and more",http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/,/u/av,3
+10,2017-02-23 07:23:57 -0600,"/t/pdf,/t/databases,/t/distributed","Spanner, TrueTime & The CAP Theorem",https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf,/u/apy,12

@@ -1,25 +1,25 @@
-0,2016-02-28 21:57:21 -0600,"['/t/databases', '/t/distributed', '/t/erlang']",ActorDB: a distributed SQL database with linear scalability,https://github.com/biokoda/actordb,/u/hails,1
-0,2016-02-28 18:41:39 -0600,"['/t/culture', '/t/philosophy']",Learning about community,http://lwn.net/Articles/675657/,/u/spinda,4
-16,2016-02-27 05:46:46 -0600,['/t/person'],MentalHealthError: an exception occurred (Kenneth Reitz),http://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred,/u/av,50
-1,2016-02-27 23:11:26 -0600,"['/t/mac', '/t/security']",Stealth kernel extension updates on OS X,https://medium.com/@sabrihaddouche/automatic-updates-of-kernel-extensions-in-os-x-9b75b3e45c97,/u/itistoday,13
-7,2016-02-27 12:24:23 -0600,['/t/openbsd'],Linux Emulation goes to the great bitbucket of the sky,http://undeadly.org/cgi?action=article&sid=20160227163716&mode=expanded,/u/merzberimbow,32
-4,2016-02-27 17:11:00 -0600,"['/t/show', '/t/haskell']",Lorem Ipsum in Polish - Notes on a Markov chain generator in Haskell,https://pzel.github.io/2016/02/27/Lorem-Ipsum-in-Polish.html,/u/pzel,7
-4,2016-02-28 14:57:08 -0600,['/t/culture'],Judging the Stupidity of GitHub Projects by Stars and Forks,http://ericgreer.info/github/funny/stupidity/2016/02/28/judging-the-stupidity-of-github-projects.html,/u/mulander,2
-5,2016-02-27 21:55:47 -0600,['/t/compsci'],AlphaGo and AI Progress,http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress,/u/mjn,5
-2,2016-02-27 14:39:36 -0600,['/t/haskell'],Haskell for all: Scalable program architectures,http://www.haskellforall.com/2014/04/scalable-program-architectures.html,/u/asthasr,15
-0,2016-02-28 05:23:08 -0600,"['/t/ios', '/t/mac']",WWDC Wish List,http://blog.steventroughtonsmith.com/post/140141855080/wwdc-wish-list,/u/fredsir,3
-0,2016-02-28 00:52:19 -0600,"['/t/pdf', '/t/devops', '/t/hardware']",Flash Reliability in Production,https://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/23105-fast16-papers-schroeder.pdf,/u/pushcx,4
-0,2016-02-27 15:23:22 -0600,['/t/release'],Yarn | A small embeddable VM with a custom instruction set and statically allocated heap.,https://github.com/WetDesertRock/Yarn,/u/355E3B,11
-1,2016-02-27 22:47:13 -0600,"['/t/programming', '/t/ruby']",UC Berkeley Agile Development Using Ruby on Rails,https://www.edx.org/xseries/agile-development-using-ruby-rails,/u/tf,3
-0,2016-02-27 12:12:09 -0600,"['/t/compsci', '/t/culture', '/t/haskell']",Dijkstra on Haskell and Java,http://chrisdone.com/posts/dijkstra-haskell-java,/u/hails,28
-1,2016-02-27 14:07:14 -0600,"['/t/javascript', '/t/release']",TextLint - pluggable linting tool for text and markdown,https://textlint.github.io,/u/Curiositry,7
-0,2016-02-27 14:30:34 -0600,['/t/scala'],ScalaDays schedule hints at upcoming native backend including AOT compiler and runtime for Scala,http://event.scaladays.org/scaladays-nyc-2016#!#schedulePopupExtras-7571,/u/soc,7
-0,2016-02-27 15:54:45 -0600,"['/t/graphics', '/t/historical', '/t/web']",A 3-D Interface for Gopher,http://www.tomeri.org/GopherVR.html,/u/friendlysock,5
-0,2016-02-27 15:44:25 -0600,['/t/javascript'],Upgrading from React 0.11.2 to 0.14.7 in 374 easy steps,http://manuel.bernhardt.io/2016/02/25/upgrading-from-react-0-11-2-to-0-14-7-in-374-easy-steps/,/u/355E3B,3
-0,2016-02-27 07:35:43 -0600,"['/t/release', '/t/web']",Wring – Command-line tool for extracting content from websites using CSS Selectors and XPath,https://github.com/osener/wring,/u/osener,4
-5,2016-02-26 13:30:06 -0600,"['/t/law', '/t/networking']",The Wifi Lockdown is Here,http://www.metamesh.org/#!The-Lockdown-is-Here/ostn2/56c61ec00cf25df9371e8436,/u/pushcx,40
-0,2016-02-27 13:07:21 -0600,"['/t/haskell', '/t/satire']",Haskell Ryan Gosling,http://haskellryangosling.tumblr.com,/u/pushcx,7
-5,2016-02-26 16:55:27 -0600,"['/t/compilers', '/t/go']",The Oden Programming Language,http://oden-lang.org/,/u/pushcx,23
-1,2016-02-27 07:52:51 -0600,['/t/python'],A Fruit Image Classifier with Python and SimpleCV,http://jmgomez.me/a-fruit-image-classifier-with-python-and-simplecv/,/u/asthasr,5
-0,2016-02-27 12:05:34 -0600,"['/t/compsci', '/t/culture']",E.W. Dijkstra Archive: Computing Science: Achievements and Challenges,https://www.cs.utexas.edu/users/EWD/transcriptions/EWD12xx/EWD1284.html,/u/hails,7
-0,2016-02-26 23:36:30 -0600,"['/t/book', '/t/compsci']",Hello Ruby,http://www.helloruby.com/,/u/tf,15
+0,2016-02-28 21:57:21 -0600,"/t/databases,/t/distributed,/t/erlang",ActorDB: a distributed SQL database with linear scalability,https://github.com/biokoda/actordb,/u/hails,1
+0,2016-02-28 18:41:39 -0600,"/t/culture,/t/philosophy",Learning about community,http://lwn.net/Articles/675657/,/u/spinda,4
+16,2016-02-27 05:46:46 -0600,/t/person,MentalHealthError: an exception occurred (Kenneth Reitz),http://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred,/u/av,50
+1,2016-02-27 23:11:26 -0600,"/t/mac,/t/security",Stealth kernel extension updates on OS X,https://medium.com/@sabrihaddouche/automatic-updates-of-kernel-extensions-in-os-x-9b75b3e45c97,/u/itistoday,13
+7,2016-02-27 12:24:23 -0600,/t/openbsd,Linux Emulation goes to the great bitbucket of the sky,http://undeadly.org/cgi?action=article&sid=20160227163716&mode=expanded,/u/merzberimbow,32
+4,2016-02-27 17:11:00 -0600,"/t/show,/t/haskell",Lorem Ipsum in Polish - Notes on a Markov chain generator in Haskell,https://pzel.github.io/2016/02/27/Lorem-Ipsum-in-Polish.html,/u/pzel,7
+4,2016-02-28 14:57:08 -0600,/t/culture,Judging the Stupidity of GitHub Projects by Stars and Forks,http://ericgreer.info/github/funny/stupidity/2016/02/28/judging-the-stupidity-of-github-projects.html,/u/mulander,2
+5,2016-02-27 21:55:47 -0600,/t/compsci,AlphaGo and AI Progress,http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress,/u/mjn,5
+2,2016-02-27 14:39:36 -0600,/t/haskell,Haskell for all: Scalable program architectures,http://www.haskellforall.com/2014/04/scalable-program-architectures.html,/u/asthasr,15
+0,2016-02-28 05:23:08 -0600,"/t/ios,/t/mac",WWDC Wish List,http://blog.steventroughtonsmith.com/post/140141855080/wwdc-wish-list,/u/fredsir,3
+0,2016-02-28 00:52:19 -0600,"/t/pdf,/t/devops,/t/hardware",Flash Reliability in Production,https://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/23105-fast16-papers-schroeder.pdf,/u/pushcx,4
+0,2016-02-27 15:23:22 -0600,/t/release,Yarn | A small embeddable VM with a custom instruction set and statically allocated heap.,https://github.com/WetDesertRock/Yarn,/u/355E3B,11
+1,2016-02-27 22:47:13 -0600,"/t/programming,/t/ruby",UC Berkeley Agile Development Using Ruby on Rails,https://www.edx.org/xseries/agile-development-using-ruby-rails,/u/tf,3
+0,2016-02-27 12:12:09 -0600,"/t/compsci,/t/culture,/t/haskell",Dijkstra on Haskell and Java,http://chrisdone.com/posts/dijkstra-haskell-java,/u/hails,28
+1,2016-02-27 14:07:14 -0600,"/t/javascript,/t/release",TextLint - pluggable linting tool for text and markdown,https://textlint.github.io,/u/Curiositry,7
+0,2016-02-27 14:30:34 -0600,/t/scala,ScalaDays schedule hints at upcoming native backend including AOT compiler and runtime for Scala,http://event.scaladays.org/scaladays-nyc-2016#!#schedulePopupExtras-7571,/u/soc,7
+0,2016-02-27 15:54:45 -0600,"/t/graphics,/t/historical,/t/web",A 3-D Interface for Gopher,http://www.tomeri.org/GopherVR.html,/u/friendlysock,5
+0,2016-02-27 15:44:25 -0600,/t/javascript,Upgrading from React 0.11.2 to 0.14.7 in 374 easy steps,http://manuel.bernhardt.io/2016/02/25/upgrading-from-react-0-11-2-to-0-14-7-in-374-easy-steps/,/u/355E3B,3
+0,2016-02-27 07:35:43 -0600,"/t/release,/t/web",Wring – Command-line tool for extracting content from websites using CSS Selectors and XPath,https://github.com/osener/wring,/u/osener,4
+5,2016-02-26 13:30:06 -0600,"/t/law,/t/networking",The Wifi Lockdown is Here,http://www.metamesh.org/#!The-Lockdown-is-Here/ostn2/56c61ec00cf25df9371e8436,/u/pushcx,40
+0,2016-02-27 13:07:21 -0600,"/t/haskell,/t/satire",Haskell Ryan Gosling,http://haskellryangosling.tumblr.com,/u/pushcx,7
+5,2016-02-26 16:55:27 -0600,"/t/compilers,/t/go",The Oden Programming Language,http://oden-lang.org/,/u/pushcx,23
+1,2016-02-27 07:52:51 -0600,/t/python,A Fruit Image Classifier with Python and SimpleCV,http://jmgomez.me/a-fruit-image-classifier-with-python-and-simplecv/,/u/asthasr,5
+0,2016-02-27 12:05:34 -0600,"/t/compsci,/t/culture",E.W. Dijkstra Archive: Computing Science: Achievements and Challenges,https://www.cs.utexas.edu/users/EWD/transcriptions/EWD12xx/EWD1284.html,/u/hails,7
+0,2016-02-26 23:36:30 -0600,"/t/book,/t/compsci",Hello Ruby,http://www.helloruby.com/,/u/tf,15

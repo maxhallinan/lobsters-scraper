@@ -1,25 +1,25 @@
-0,2016-09-10 21:07:03 -0500,['/t/databases'],Binning functions in Postgres,https://axleproject.eu/2014/10/02/binning-functions/,/u/friendlysock,4
-0,2016-09-10 15:42:42 -0500,"['/t/art', '/t/hardware']",Sewable Circuits Part I,http://samanthagoldste.in//jekyll/update/2016/03/29/Sewable-Circuits.html,/u/antifuchs,6
-2,2016-09-10 07:12:21 -0500,"['/t/dotnet', '/t/ml']","Managing Complexity - Or ""Why do you code in F#?""",https://anthonylloyd.github.io/blog/2016/09/09/managing-complexity,/u/pushcx,8
-1,2016-09-10 08:38:19 -0500,['/t/meta'],New tag suggestion: regex,/s/h3dt63/new_tag_suggestion_regex,/u/calvin,6
-0,2016-09-10 14:51:10 -0500,"['/t/video', '/t/games', '/t/hardware', '/t/reversing', '/t/security']",Hacking Street Fighter: CPS2 Encryption in r2,https://www.youtube.com/watch?v=MnA11govEcI,/u/sevan,5
-1,2016-09-10 11:14:45 -0500,"['/t/debugging', '/t/python']","RevDB, the Reverse Debugger",https://bitbucket.org/pypy/revdb/,/u/janzert,3
-1,2016-09-10 07:35:36 -0500,"['/t/pdf', '/t/practices', '/t/science']",Resumption Strategies for Interrupted Programming Tasks (2010),http://chrisparnin.me/pdf/parnin-sqj11.pdf,/u/pushcx,3
-0,2016-09-10 08:32:05 -0500,"['/t/pdf', '/t/cogsci', '/t/programming']",A Cognitive Neuroscience Perspective on Memory for Programming Tasks,http://chrisparnin.me/pdf/ppig10.pdf,/u/pushcx,3
-1,2016-09-10 00:14:51 -0500,"['/t/linux', '/t/release']",Elementary OS: Loki 0.4 Stable Release!,http://blog.elementary.io/post/147637979911/loki-04-stable-release,/u/Snocrash,6
-4,2016-09-09 06:19:40 -0500,"['/t/privacy', '/t/security']",How a scammer stole 500$ from me and in the end begged me not to tell his parents,https://blog.haschek.at/post/f3281,/u/calvin,30
-5,2016-09-09 12:05:24 -0500,"['/t/hardware', '/t/lisp']",Tiny Lisp Computer,http://www.technoblogy.com/show?1GX1,/u/arrdem,16
-19,2016-09-09 04:31:42 -0500,['/t/vcs'],"Oh, shit, git!",http://ohshitgit.com/,/u/fcbsd,27
-5,2016-09-09 11:15:18 -0500,"['/t/slides', '/t/openbsd']",ChiBUG: OpenBSD on the Chromebook Pixel 2015,https://jcs.org/talks/2016/09/07/chibug_openbsd_on_the_chromebook_pixel/,/u/jturner,16
-34,2016-09-09 10:39:14 -0500,"['/t/show', '/t/release', '/t/web']",A headless CMS that gives you total control over your database architecture (Free + Open Source),http://getdirectus.com,/u/benhaynes,6
-2,2016-09-09 14:49:56 -0500,['/t/graphics'],DOOM Graphics Study,http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/,/u/mikejsavage,10
-48,2016-09-09 06:55:25 -0500,"['/t/hardware', '/t/ios', '/t/law', '/t/security']",Analog: The Last Defense Against DRM,https://www.eff.org/deeplinks/2016/09/analog-last-defense-against-drm,/u/calvin,15
-5,2016-09-09 06:43:30 -0500,"['/t/mac', '/t/security']",Revealing Dropbox’s dirty little security hack,http://applehelpwriter.com/2016/07/28/revealing-dropboxs-dirty-little-security-hack/,/u/mjturner,21
-1,2016-09-09 12:26:17 -0500,"['/t/crypto', '/t/distributed', '/t/privacy']",How I2P Works,http://www.alexkyte.me/2016/09/how-invisible-internet-project-i2p-works.html,/u/akyte,6
-0,2016-09-09 22:24:23 -0500,"['/t/historical', '/t/person']",Jeff Nelson: Chromebook Inventor (2015),https://quoracast.quora.com/Jeff-Nelson-Chromebook-Inventor,/u/wally,4
-0,2016-09-09 08:47:47 -0500,"['/t/ml', '/t/practices', '/t/programming', '/t/testing']","Guiding With Types, Property Based Testing and Dependency Resolution",http://blog.appliedcompscilab.com/2016-Q3/index.html,/u/apy,9
-9,2016-09-08 23:31:02 -0500,['/t/python'],"Python 3.6 dict gets performance boost, is ordered by default.",https://mail.python.org/pipermail/python-dev/2016-September/146327.html,/u/ngoldbaum,22
-18,2016-09-09 07:59:31 -0500,"['/t/hardware', '/t/practices', '/t/privacy']",This employee ID badge monitors and listens to you at work — except in the bathroom,https://www.washingtonpost.com/news/business/wp/2016/09/07/this-employee-badge-knows-not-only-where-you-are-but-whether-you-are-talking-to-your-co-workers/,/u/pushcx,8
-2,2016-09-09 09:16:48 -0500,['/t/programming'],Demystifying The Regular Expression That Checks If A Number Is Prime,https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/,/u/355E3B,11
-19,2016-09-08 13:14:38 -0500,"['/t/philosophy', '/t/practices', '/t/web']",The 100% correct way to validate email addresses,https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643,/u/kyrias,40
-5,2016-09-09 18:11:04 -0500,"['/t/culture', '/t/philosophy', '/t/practices']",The Abolition of Work,https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work,/u/michaelochurch,5
+0,2016-09-10 21:07:03 -0500,/t/databases,Binning functions in Postgres,https://axleproject.eu/2014/10/02/binning-functions/,/u/friendlysock,4
+0,2016-09-10 15:42:42 -0500,"/t/art,/t/hardware",Sewable Circuits Part I,http://samanthagoldste.in//jekyll/update/2016/03/29/Sewable-Circuits.html,/u/antifuchs,6
+2,2016-09-10 07:12:21 -0500,"/t/dotnet,/t/ml","Managing Complexity - Or ""Why do you code in F#?""",https://anthonylloyd.github.io/blog/2016/09/09/managing-complexity,/u/pushcx,8
+1,2016-09-10 08:38:19 -0500,/t/meta,New tag suggestion: regex,/s/h3dt63/new_tag_suggestion_regex,/u/calvin,6
+0,2016-09-10 14:51:10 -0500,"/t/video,/t/games,/t/hardware,/t/reversing,/t/security",Hacking Street Fighter: CPS2 Encryption in r2,https://www.youtube.com/watch?v=MnA11govEcI,/u/sevan,5
+1,2016-09-10 11:14:45 -0500,"/t/debugging,/t/python","RevDB, the Reverse Debugger",https://bitbucket.org/pypy/revdb/,/u/janzert,3
+1,2016-09-10 07:35:36 -0500,"/t/pdf,/t/practices,/t/science",Resumption Strategies for Interrupted Programming Tasks (2010),http://chrisparnin.me/pdf/parnin-sqj11.pdf,/u/pushcx,3
+0,2016-09-10 08:32:05 -0500,"/t/pdf,/t/cogsci,/t/programming",A Cognitive Neuroscience Perspective on Memory for Programming Tasks,http://chrisparnin.me/pdf/ppig10.pdf,/u/pushcx,3
+1,2016-09-10 00:14:51 -0500,"/t/linux,/t/release",Elementary OS: Loki 0.4 Stable Release!,http://blog.elementary.io/post/147637979911/loki-04-stable-release,/u/Snocrash,6
+4,2016-09-09 06:19:40 -0500,"/t/privacy,/t/security",How a scammer stole 500$ from me and in the end begged me not to tell his parents,https://blog.haschek.at/post/f3281,/u/calvin,30
+5,2016-09-09 12:05:24 -0500,"/t/hardware,/t/lisp",Tiny Lisp Computer,http://www.technoblogy.com/show?1GX1,/u/arrdem,16
+19,2016-09-09 04:31:42 -0500,/t/vcs,"Oh, shit, git!",http://ohshitgit.com/,/u/fcbsd,27
+5,2016-09-09 11:15:18 -0500,"/t/slides,/t/openbsd",ChiBUG: OpenBSD on the Chromebook Pixel 2015,https://jcs.org/talks/2016/09/07/chibug_openbsd_on_the_chromebook_pixel/,/u/jturner,16
+34,2016-09-09 10:39:14 -0500,"/t/show,/t/release,/t/web",A headless CMS that gives you total control over your database architecture (Free + Open Source),http://getdirectus.com,/u/benhaynes,6
+2,2016-09-09 14:49:56 -0500,/t/graphics,DOOM Graphics Study,http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/,/u/mikejsavage,10
+48,2016-09-09 06:55:25 -0500,"/t/hardware,/t/ios,/t/law,/t/security",Analog: The Last Defense Against DRM,https://www.eff.org/deeplinks/2016/09/analog-last-defense-against-drm,/u/calvin,15
+5,2016-09-09 06:43:30 -0500,"/t/mac,/t/security",Revealing Dropbox’s dirty little security hack,http://applehelpwriter.com/2016/07/28/revealing-dropboxs-dirty-little-security-hack/,/u/mjturner,21
+1,2016-09-09 12:26:17 -0500,"/t/crypto,/t/distributed,/t/privacy",How I2P Works,http://www.alexkyte.me/2016/09/how-invisible-internet-project-i2p-works.html,/u/akyte,6
+0,2016-09-09 22:24:23 -0500,"/t/historical,/t/person",Jeff Nelson: Chromebook Inventor (2015),https://quoracast.quora.com/Jeff-Nelson-Chromebook-Inventor,/u/wally,4
+0,2016-09-09 08:47:47 -0500,"/t/ml,/t/practices,/t/programming,/t/testing","Guiding With Types, Property Based Testing and Dependency Resolution",http://blog.appliedcompscilab.com/2016-Q3/index.html,/u/apy,9
+9,2016-09-08 23:31:02 -0500,/t/python,"Python 3.6 dict gets performance boost, is ordered by default.",https://mail.python.org/pipermail/python-dev/2016-September/146327.html,/u/ngoldbaum,22
+18,2016-09-09 07:59:31 -0500,"/t/hardware,/t/practices,/t/privacy",This employee ID badge monitors and listens to you at work — except in the bathroom,https://www.washingtonpost.com/news/business/wp/2016/09/07/this-employee-badge-knows-not-only-where-you-are-but-whether-you-are-talking-to-your-co-workers/,/u/pushcx,8
+2,2016-09-09 09:16:48 -0500,/t/programming,Demystifying The Regular Expression That Checks If A Number Is Prime,https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/,/u/355E3B,11
+19,2016-09-08 13:14:38 -0500,"/t/philosophy,/t/practices,/t/web",The 100% correct way to validate email addresses,https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643,/u/kyrias,40
+5,2016-09-09 18:11:04 -0500,"/t/culture,/t/philosophy,/t/practices",The Abolition of Work,https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work,/u/michaelochurch,5

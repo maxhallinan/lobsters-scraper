@@ -1,25 +1,25 @@
-1,2017-02-14 15:39:35 -0600,"['/t/erlang', '/t/programming']",SpellingCI: No more spelling mistakes in your markdown flies!,http://inaka.net/blog/2017/02/14/checking-the-spelling-with-sheldon-spellingci/,/u/InakaESI,4
-3,2017-02-14 15:25:25 -0600,"['/t/linux', '/t/python']",pueue 0.7 : a shell process managing daemon,https://github.com/Nukesor/pueue,/u/raffomania,2
-9,2017-02-13 13:40:18 -0600,['/t/go'],medium rare,http://www.tedunangst.com/flak/post/medium-rare,/u/mulander,47
-0,2017-02-14 19:31:03 -0600,"['/t/pdf', '/t/compsci', '/t/databases', '/t/distributed']","F1 - A Distributed, SQL Database That Scales (2013)",http://datascienceassn.org/sites/default/files/F1%20A%20Distributed%20SQL%20Database%20That%20Scales.pdf,/u/nickpsecurity,2
-0,2017-02-14 18:55:06 -0600,"['/t/graphics', '/t/rust']","Pathfinder, a fast GPU-based font rasterizer in Rust",http://pcwalton.github.com/blog/2017/02/14/pathfinder,/u/mcheely,2
-0,2017-02-14 16:04:01 -0600,['/t/job'],Job Opportunity: Director of Product Engineering at Creative Commons,https://creativecommons.org/2017/02/14/director-product-engineering/,/u/pizzaiolo,3
-0,2017-02-14 03:26:11 -0600,['/t/c'],A Quiz About Integers in C,http://blog.regehr.org/archives/721,/u/av,13
-0,2017-02-14 13:30:55 -0600,"['/t/devops', '/t/distributed', '/t/release']","Introducing Houston, by Turbine Labs – Turbine Labs",https://medium.com/turbine-labs/https-medium-com-turbine-labs-introducing-houston-by-turbine-labs-aad00c20613f,/u/az,4
-0,2017-02-14 18:04:36 -0600,['/t/databases'],Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads,https://postgrespro.com/blog/pgsql/162095,/u/davyjones,2
-0,2017-02-14 12:10:14 -0600,['/t/unix'],"Custom ELF program headers—what, why and how",http://www.cl.cam.ac.uk/~srk31/blog/2017/02/14/,/u/mjn,4
-0,2017-02-14 01:03:04 -0600,['/t/security'],Introducing the Uber SSH Certificate Authority,https://medium.com/uber-security-privacy/introducing-the-uber-ssh-certificate-authority-4f840839c5cc,/u/henkjan,15
-10,2017-02-13 13:13:19 -0600,['/t/security'],"University attacked by its own vending machines, smart light bulbs & 5,000 IoT devices",http://www.networkworld.com/article/3168763/security/university-attacked-by-its-own-vending-machines-smart-light-bulbs-and-5-000-iot-devices.html,/u/pushcx,21
-0,2017-02-14 03:22:02 -0600,"['/t/book', '/t/compsci']",Operating System: From 0 to 1,https://tuhdo.github.io/os01/,/u/av,8
-19,2017-02-13 11:26:39 -0600,['/t/security'],Encrypted email is still a pain in 2017,http://incoherency.co.uk/blog/stories/gpg.html,/u/av,23
-2,2017-02-13 15:30:18 -0600,"['/t/show', '/t/dotnet', '/t/programming', '/t/unix']",My mono porting adventure [to Haiku],http://minisoc.xyz/HaikuMono/,/u/calvin,13
-35,2017-02-13 04:31:44 -0600,['/t/ask'],What are you working on this week?,/s/nzq1ze/what_are_you_working_on_this_week,/u/caius,24
-0,2017-02-14 16:25:34 -0600,['/t/historical'],Retrotechtacular: ERNIE,http://hackaday.com/2017/02/14/retrotechtacular-ernie/,/u/flyingfisch,1
-2,2017-02-13 14:55:36 -0600,['/t/release'],Quaint – An extensible markup language,http://breuleux.github.io/quaint/,/u/breuleux,13
-0,2017-02-14 03:25:09 -0600,"['/t/networking', '/t/openbsd']",What happened to my vlan?,http://www.grenadille.net/post/2017/02/13/What-happened-to-my-vlan,/u/mulander,6
-0,2017-02-14 11:11:55 -0600,['/t/devops'],Pipelines vs. MapReduce to Speed Up Data Aggregation in MongoDB,https://runnable.com/blog/pipelines-vs-map-reduce-to-speed-up-data-aggregation-in-mongodb,/u/taylor,2
-1,2017-02-13 23:39:57 -0600,['/t/security'],Government-grade spyware hits Mexican advocates of soda tax,http://www.bendbulletin.com/nation/5063332-151/government-grade-spyware-hits-mexican-advocates-of-soda-tax,/u/pushcx,7
-0,2017-02-14 03:22:55 -0600,"['/t/hardware', '/t/mac']",New Macbook Pro power efficiency & time remaining,https://macdaddy.io/new-mbp-power-efficiency-impressive/,/u/av,5
-0,2017-02-14 13:43:31 -0600,['/t/programming'],Free Online IDE and Terminal,https://www.tutorialspoint.com/codingground.htm,/u/flyingfisch,1
-2,2017-02-14 03:27:02 -0600,"['/t/devops', '/t/web']",Multiple HTTPS Domains on the Same Server with Let's Encrypt and Nginx,http://blog.benroux.me/running-multiple-https-domains-from-the-same-server/,/u/av,2
-11,2017-02-13 17:59:12 -0600,"['/t/video', '/t/compsci', '/t/math']",Beyond Floating Point: Next Generation Computer Arithmetic,https://www.youtube.com/watch?v=aP0Y1uAA-2Y,/u/ngoldbaum,6
+1,2017-02-14 15:39:35 -0600,"/t/erlang,/t/programming",SpellingCI: No more spelling mistakes in your markdown flies!,http://inaka.net/blog/2017/02/14/checking-the-spelling-with-sheldon-spellingci/,/u/InakaESI,4
+3,2017-02-14 15:25:25 -0600,"/t/linux,/t/python",pueue 0.7 : a shell process managing daemon,https://github.com/Nukesor/pueue,/u/raffomania,2
+9,2017-02-13 13:40:18 -0600,/t/go,medium rare,http://www.tedunangst.com/flak/post/medium-rare,/u/mulander,47
+0,2017-02-14 19:31:03 -0600,"/t/pdf,/t/compsci,/t/databases,/t/distributed","F1 - A Distributed, SQL Database That Scales (2013)",http://datascienceassn.org/sites/default/files/F1%20A%20Distributed%20SQL%20Database%20That%20Scales.pdf,/u/nickpsecurity,2
+0,2017-02-14 18:55:06 -0600,"/t/graphics,/t/rust","Pathfinder, a fast GPU-based font rasterizer in Rust",http://pcwalton.github.com/blog/2017/02/14/pathfinder,/u/mcheely,2
+0,2017-02-14 16:04:01 -0600,/t/job,Job Opportunity: Director of Product Engineering at Creative Commons,https://creativecommons.org/2017/02/14/director-product-engineering/,/u/pizzaiolo,3
+0,2017-02-14 03:26:11 -0600,/t/c,A Quiz About Integers in C,http://blog.regehr.org/archives/721,/u/av,13
+0,2017-02-14 13:30:55 -0600,"/t/devops,/t/distributed,/t/release","Introducing Houston, by Turbine Labs – Turbine Labs",https://medium.com/turbine-labs/https-medium-com-turbine-labs-introducing-houston-by-turbine-labs-aad00c20613f,/u/az,4
+0,2017-02-14 18:04:36 -0600,/t/databases,Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads,https://postgrespro.com/blog/pgsql/162095,/u/davyjones,2
+0,2017-02-14 12:10:14 -0600,/t/unix,"Custom ELF program headers—what, why and how",http://www.cl.cam.ac.uk/~srk31/blog/2017/02/14/,/u/mjn,4
+0,2017-02-14 01:03:04 -0600,/t/security,Introducing the Uber SSH Certificate Authority,https://medium.com/uber-security-privacy/introducing-the-uber-ssh-certificate-authority-4f840839c5cc,/u/henkjan,15
+10,2017-02-13 13:13:19 -0600,/t/security,"University attacked by its own vending machines, smart light bulbs & 5,000 IoT devices",http://www.networkworld.com/article/3168763/security/university-attacked-by-its-own-vending-machines-smart-light-bulbs-and-5-000-iot-devices.html,/u/pushcx,21
+0,2017-02-14 03:22:02 -0600,"/t/book,/t/compsci",Operating System: From 0 to 1,https://tuhdo.github.io/os01/,/u/av,8
+19,2017-02-13 11:26:39 -0600,/t/security,Encrypted email is still a pain in 2017,http://incoherency.co.uk/blog/stories/gpg.html,/u/av,23
+2,2017-02-13 15:30:18 -0600,"/t/show,/t/dotnet,/t/programming,/t/unix",My mono porting adventure [to Haiku],http://minisoc.xyz/HaikuMono/,/u/calvin,13
+35,2017-02-13 04:31:44 -0600,/t/ask,What are you working on this week?,/s/nzq1ze/what_are_you_working_on_this_week,/u/caius,24
+0,2017-02-14 16:25:34 -0600,/t/historical,Retrotechtacular: ERNIE,http://hackaday.com/2017/02/14/retrotechtacular-ernie/,/u/flyingfisch,1
+2,2017-02-13 14:55:36 -0600,/t/release,Quaint – An extensible markup language,http://breuleux.github.io/quaint/,/u/breuleux,13
+0,2017-02-14 03:25:09 -0600,"/t/networking,/t/openbsd",What happened to my vlan?,http://www.grenadille.net/post/2017/02/13/What-happened-to-my-vlan,/u/mulander,6
+0,2017-02-14 11:11:55 -0600,/t/devops,Pipelines vs. MapReduce to Speed Up Data Aggregation in MongoDB,https://runnable.com/blog/pipelines-vs-map-reduce-to-speed-up-data-aggregation-in-mongodb,/u/taylor,2
+1,2017-02-13 23:39:57 -0600,/t/security,Government-grade spyware hits Mexican advocates of soda tax,http://www.bendbulletin.com/nation/5063332-151/government-grade-spyware-hits-mexican-advocates-of-soda-tax,/u/pushcx,7
+0,2017-02-14 03:22:55 -0600,"/t/hardware,/t/mac",New Macbook Pro power efficiency & time remaining,https://macdaddy.io/new-mbp-power-efficiency-impressive/,/u/av,5
+0,2017-02-14 13:43:31 -0600,/t/programming,Free Online IDE and Terminal,https://www.tutorialspoint.com/codingground.htm,/u/flyingfisch,1
+2,2017-02-14 03:27:02 -0600,"/t/devops,/t/web",Multiple HTTPS Domains on the Same Server with Let's Encrypt and Nginx,http://blog.benroux.me/running-multiple-https-domains-from-the-same-server/,/u/av,2
+11,2017-02-13 17:59:12 -0600,"/t/video,/t/compsci,/t/math",Beyond Floating Point: Next Generation Computer Arithmetic,https://www.youtube.com/watch?v=aP0Y1uAA-2Y,/u/ngoldbaum,6

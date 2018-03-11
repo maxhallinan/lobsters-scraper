@@ -1,25 +1,25 @@
-11,2016-11-04 10:39:34 -0500,"['/t/show', '/t/c']",Simple Pomodoro Timer for repeated notification purposes that doubles your efficiency,https://github.com/pickfire/spt,/u/pickfire,9
-0,2016-11-05 04:07:11 -0500,"['/t/android', '/t/c', '/t/lua', '/t/programming', '/t/release']",xmake v2.0.5 released!,http://tboox.org/2016/10/30/update-v2.0.5/,/u/ruki,2
-2,2016-11-04 16:42:47 -0500,"['/t/ml', '/t/release']",OCaml version 4.04.0 is released,https://sympa.inria.fr/sympa/arc/caml-list/2016-11/msg00010.html,/u/DrM,14
-0,2016-11-05 19:23:39 -0500,['/t/practices'],Dealing with growing pains without sacrificing sustainability,https://www.oreilly.com/ideas/dealing-with-growing-pains-without-sacrificing-sustainability,/u/adsouza,0
-3,2016-11-04 14:56:21 -0500,['/t/graphics'],H.264 is Magic,https://sidbala.com/h-264-is-magic/,/u/jamesjporter,14
-0,2016-11-04 17:51:36 -0500,"['/t/api', '/t/browsers', '/t/web']",Introducing FlyWeb,https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html,/u/friendlysock,11
-2,2016-11-04 17:07:22 -0500,['/t/philosophy'],Sparse Systems,http://kevinlawler.com/sparse,/u/khaaan,7
-0,2016-11-05 08:32:45 -0500,"['/t/hardware', '/t/linux', '/t/security']",Breaking BHAD: Getting Local Root on the Belkin WeMo Switch,https://www.invincealabs.com/blog/2016/11/wemo-hardware-bypass/,/u/calvin,1
-3,2016-11-04 15:33:12 -0500,['/t/culture'],The Lost Civilization of Dial-Up Bulletin Board Systems,http://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/,/u/pushcx,19
-0,2016-11-04 14:06:44 -0500,"['/t/art', '/t/javascript']",Shepherding Random Numbers,http://inconvergent.net/shepherding-random-numbers/,/u/carinmeier,11
-6,2016-11-04 03:01:17 -0500,['/t/mac'],New MacBook Pro not compatible with all Thunderbolt 3 devices,http://www.macrumors.com/2016/11/03/new-macbook-pros-thunderbolt-3-compatibility/,/u/iswrong,18
-2,2016-11-04 12:21:56 -0500,['/t/javascript'],TypeScript 2.0: Read-Only Properties,https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties,/u/joshuacc,11
-1,2016-11-04 12:24:11 -0500,['/t/release'],ZeroMQ 4.2.0,https://github.com/zeromq/libzmq/releases/tag/v4.2.0,/u/av,8
-5,2016-11-04 03:53:31 -0500,['/t/math'],Fast Fibonacci Algorithms,https://www.nayuki.io/page/fast-fibonacci-algorithms,/u/old_sound,11
-0,2016-11-04 09:09:56 -0500,"['/t/haskell', '/t/rust']","Rust + Haskell: Software Rasterization, N-Body Simulation & Game of Life • /r/haskell",https://www.reddit.com/r/haskell/comments/468r93/rust_haskell_software_rasterization_nbody/,/u/asthasr,9
-0,2016-11-04 17:07:25 -0500,"['/t/culture', '/t/historical', '/t/security']","Hollywood and Hacking: The 1980s - Kid Hackers, Nerds and Richard Pryor",http://newatlas.com/history-hollywood-hacking-1980s/45482/,/u/Snocrash,5
-0,2016-11-03 23:16:01 -0500,['/t/security'],"Notes about ""pointyfeather"", a logic bug in GNU tar.",https://blog.lizzie.io/cve-2016-6321-notes.html,/u/l_zzie,10
-21,2016-11-03 11:08:55 -0500,['/t/hardware'],"A 10W, 6.5 terabyte, commodity x86 Linux box",http://sandeen.net/wordpress/computers/how-to-build-a-10w-6-5-terabyte-commodity-x86-linux-server/,/u/asthasr,27
-8,2016-11-03 17:44:38 -0500,"['/t/crypto', '/t/security']",Why I don’t Use 2048 or 4096 RSA Key Sizes,https://blog.josefsson.org/2016/11/03/why-i-dont-use-2048-or-4096-rsa-key-sizes/,/u/cmhamill,13
-52,2016-11-03 05:47:46 -0500,"['/t/crypto', '/t/security']",BearSSL,https://www.bearssl.org,/u/fkr,46
-9,2016-11-03 15:26:19 -0500,"['/t/design', '/t/web']","Web fonts, boy, I don't know",http://meowni.ca/posts/web-fonts/,/u/pushcx,16
-1,2016-11-03 18:01:18 -0500,"['/t/nodejs', '/t/programming', '/t/release']",Winds 0.1.0 - Open source RSS reader,https://github.com/getstream/winds,/u/tschellenbach,11
-0,2016-11-04 03:32:08 -0500,"['/t/java', '/t/javascript']",PurpleJS,http://purplejs.io/,/u/alek,7
-0,2016-11-04 10:08:48 -0500,"['/t/video', '/t/event', '/t/games', '/t/practices']",Steam Dev Days 2016 videos,https://www.youtube.com/playlist?list=PLckFgM6dUP2ihiMeKHoyIdHvhRSyqwQsp,/u/calvin,3
-2,2016-11-03 19:15:19 -0500,['/t/event'],Grace Hopper Key Takeaways,https://medium.com/@kurtisnusbaum/grace-hopper-takeaways-429626a4e133#.uh9f7y25a,/u/kurtis,4
+11,2016-11-04 10:39:34 -0500,"/t/show,/t/c",Simple Pomodoro Timer for repeated notification purposes that doubles your efficiency,https://github.com/pickfire/spt,/u/pickfire,9
+0,2016-11-05 04:07:11 -0500,"/t/android,/t/c,/t/lua,/t/programming,/t/release",xmake v2.0.5 released!,http://tboox.org/2016/10/30/update-v2.0.5/,/u/ruki,2
+2,2016-11-04 16:42:47 -0500,"/t/ml,/t/release",OCaml version 4.04.0 is released,https://sympa.inria.fr/sympa/arc/caml-list/2016-11/msg00010.html,/u/DrM,14
+0,2016-11-05 19:23:39 -0500,/t/practices,Dealing with growing pains without sacrificing sustainability,https://www.oreilly.com/ideas/dealing-with-growing-pains-without-sacrificing-sustainability,/u/adsouza,0
+3,2016-11-04 14:56:21 -0500,/t/graphics,H.264 is Magic,https://sidbala.com/h-264-is-magic/,/u/jamesjporter,14
+0,2016-11-04 17:51:36 -0500,"/t/api,/t/browsers,/t/web",Introducing FlyWeb,https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html,/u/friendlysock,11
+2,2016-11-04 17:07:22 -0500,/t/philosophy,Sparse Systems,http://kevinlawler.com/sparse,/u/khaaan,7
+0,2016-11-05 08:32:45 -0500,"/t/hardware,/t/linux,/t/security",Breaking BHAD: Getting Local Root on the Belkin WeMo Switch,https://www.invincealabs.com/blog/2016/11/wemo-hardware-bypass/,/u/calvin,1
+3,2016-11-04 15:33:12 -0500,/t/culture,The Lost Civilization of Dial-Up Bulletin Board Systems,http://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/,/u/pushcx,19
+0,2016-11-04 14:06:44 -0500,"/t/art,/t/javascript",Shepherding Random Numbers,http://inconvergent.net/shepherding-random-numbers/,/u/carinmeier,11
+6,2016-11-04 03:01:17 -0500,/t/mac,New MacBook Pro not compatible with all Thunderbolt 3 devices,http://www.macrumors.com/2016/11/03/new-macbook-pros-thunderbolt-3-compatibility/,/u/iswrong,18
+2,2016-11-04 12:21:56 -0500,/t/javascript,TypeScript 2.0: Read-Only Properties,https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties,/u/joshuacc,11
+1,2016-11-04 12:24:11 -0500,/t/release,ZeroMQ 4.2.0,https://github.com/zeromq/libzmq/releases/tag/v4.2.0,/u/av,8
+5,2016-11-04 03:53:31 -0500,/t/math,Fast Fibonacci Algorithms,https://www.nayuki.io/page/fast-fibonacci-algorithms,/u/old_sound,11
+0,2016-11-04 09:09:56 -0500,"/t/haskell,/t/rust","Rust + Haskell: Software Rasterization, N-Body Simulation & Game of Life • /r/haskell",https://www.reddit.com/r/haskell/comments/468r93/rust_haskell_software_rasterization_nbody/,/u/asthasr,9
+0,2016-11-04 17:07:25 -0500,"/t/culture,/t/historical,/t/security","Hollywood and Hacking: The 1980s - Kid Hackers, Nerds and Richard Pryor",http://newatlas.com/history-hollywood-hacking-1980s/45482/,/u/Snocrash,5
+0,2016-11-03 23:16:01 -0500,/t/security,"Notes about ""pointyfeather"", a logic bug in GNU tar.",https://blog.lizzie.io/cve-2016-6321-notes.html,/u/l_zzie,10
+21,2016-11-03 11:08:55 -0500,/t/hardware,"A 10W, 6.5 terabyte, commodity x86 Linux box",http://sandeen.net/wordpress/computers/how-to-build-a-10w-6-5-terabyte-commodity-x86-linux-server/,/u/asthasr,27
+8,2016-11-03 17:44:38 -0500,"/t/crypto,/t/security",Why I don’t Use 2048 or 4096 RSA Key Sizes,https://blog.josefsson.org/2016/11/03/why-i-dont-use-2048-or-4096-rsa-key-sizes/,/u/cmhamill,13
+52,2016-11-03 05:47:46 -0500,"/t/crypto,/t/security",BearSSL,https://www.bearssl.org,/u/fkr,46
+9,2016-11-03 15:26:19 -0500,"/t/design,/t/web","Web fonts, boy, I don't know",http://meowni.ca/posts/web-fonts/,/u/pushcx,16
+1,2016-11-03 18:01:18 -0500,"/t/nodejs,/t/programming,/t/release",Winds 0.1.0 - Open source RSS reader,https://github.com/getstream/winds,/u/tschellenbach,11
+0,2016-11-04 03:32:08 -0500,"/t/java,/t/javascript",PurpleJS,http://purplejs.io/,/u/alek,7
+0,2016-11-04 10:08:48 -0500,"/t/video,/t/event,/t/games,/t/practices",Steam Dev Days 2016 videos,https://www.youtube.com/playlist?list=PLckFgM6dUP2ihiMeKHoyIdHvhRSyqwQsp,/u/calvin,3
+2,2016-11-03 19:15:19 -0500,/t/event,Grace Hopper Key Takeaways,https://medium.com/@kurtisnusbaum/grace-hopper-takeaways-429626a4e133#.uh9f7y25a,/u/kurtis,4

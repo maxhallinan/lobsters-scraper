@@ -1,25 +1,25 @@
-0,2013-03-11 15:14:54 -0500,"['/t/ruby', '/t/security']",*experimental* rubygems-openpgp Certificate Authority,http://www.rubygems-openpgp-ca.org/,/u/jcs,3
-0,2013-03-11 14:51:16 -0500,['/t/practices'],Timid Development - a dysfunctional process,http://mattvanhorn.com/2013/03/11/timid-development/,/u/mattvanhorn,3
-0,2013-03-11 10:10:08 -0500,['/t/go'],Things I Wish Someone Had Told Me About Go,http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/,/u/kyle,5
-1,2013-03-11 10:22:02 -0500,['/t/book'],Releasing free PDF of “Hacking the Xbox” in honor of Aaron Swartz,http://www.bunniestudios.com/blog/?p=3012,/u/jcs,3
-0,2013-03-11 11:15:52 -0500,['/t/go'],manbearpig: Mutation Testing for Go,http://verboselogging.com/2013/03/11/manbearpig-mutation-testing-for-go,/u/kyle,2
-0,2013-03-11 14:25:56 -0500,['/t/javascript'],Terrain Generator and GUI in JavaScript and WebGL,http://www.zephyrosanemos.com/,/u/joshuacc,1
-0,2013-03-10 17:15:08 -0500,"['/t/show', '/t/go']",golst: readable Golang source listings,http://www.kyleisom.net/blog/2013/03/10/golst/,/u/kyle,4
-0,2013-03-10 11:14:14 -0500,"['/t/compsci', '/t/science']",Caltech engineers build self-healing electronic chips that repair themselves,http://phys.org/news/2013-03-caltech-self-healing-electronic-chips.html,/u/kusuriya,3
-0,2013-03-09 23:35:45 -0600,"['/t/browsers', '/t/security']",Protecting Mozilla Firefox users on the web,https://garykwong.wordpress.com/2013/03/08/protecting-mozilla-firefox-users-on-the-web/,/u/jcs,3
-0,2013-03-09 17:38:30 -0600,"['/t/privacy', '/t/security']",Here come the encryption apps!,http://blog.cryptographyengineering.com/2013/03/here-come-encryption-apps.html,/u/jcs,6
-0,2013-03-09 18:16:30 -0600,['/t/person'],The Apprentice Programmer | too-biased by Tobi Lütke,http://tobi.lutke.com/the-apprentice-programmer,/u/tundal45,5
-0,2013-03-09 10:22:15 -0600,['/t/lua'],"Lua: Good, bad, and ugly parts",http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts,/u/jcs,7
-1,2013-03-09 18:09:36 -0600,"['/t/video', '/t/philosophy']","Maintain Less, Mentor More: Community Building Techniques",http://devslovebacon.com/conferences/bacon-2012/talks/maintain-less-mentor-more-community-building-techniques,/u/tundal45,1
-0,2013-03-08 16:13:09 -0600,"['/t/ruby', '/t/security']",Ruby security alerts displayed on ruby-doc,http://jamesbritt.com/posts/ruby-security-alerts-displayed-on-ruby-doc.html,/u/jamesbritt,2
-0,2013-03-08 18:04:37 -0600,['/t/ruby'],a case for active_record scopes,http://www.psychedeli.ca/2013/03/08/a-case-for-scopes,/u/tubbo,1
-0,2013-03-08 11:12:34 -0600,['/t/databases'],MySQL performance: Impact of memory allocators (Part 2),http://www.mysqlperformanceblog.com/2013/03/08/mysql-performance-impact-of-memory-allocators-part-2/,/u/jcs,3
-1,2013-03-08 13:47:47 -0600,"['/t/design', '/t/mobile']",UI Antipatterns: Hinting instead of acting,http://www.michaelboeke.com/post/44783990066/ui-antipatterns-hinting-instead-of-acting,/u/michael,1
-0,2013-03-07 17:07:07 -0600,"['/t/pdf', '/t/c']",Deep C,http://www.pvv.org/~oma/DeepC_Scandev_Mar2013.pdf,/u/kyle,11
-0,2013-03-08 00:24:08 -0600,"['/t/security', '/t/visualization']",The ICSI SSL Notary: CA Certificates,http://notary.icsi.berkeley.edu/trust-tree/,/u/jcs,3
-1,2013-03-07 12:12:49 -0600,"['/t/hardware', '/t/linux']",Installing Debian GNU/Linux on the Chromebook Pixel,http://vger.kernel.org/~davem/chromebook_pixel_linux.txt,/u/jturner,7
-0,2013-03-07 08:50:43 -0600,"['/t/c', '/t/linux', '/t/unix']","UNIX V5, OpenBSD, Plan 9, FreeBSD, and GNU coreutils implementations of echo.c",https://gist.github.com/dchest/1091803,/u/snk,11
-0,2013-03-07 20:36:28 -0600,['/t/web'],The Joy of Hyper-Rapid Development,http://blog.johnback.us/blog/2013/03/07/the-joy-of-hyper-rapid-development/,/u/jbackus3,2
-3,2013-03-07 11:11:15 -0600,"['/t/javascript', '/t/ruby']",Ruby as Javascript: Objects vs. Closures,http://rcjara.github.com/programming/2013/03/06/ruby-as-javascript/,/u/rauljara,4
-0,2013-03-07 11:15:09 -0600,"['/t/go', '/t/web']","Gotchas, Irritants and Warts in Go Web Development",https://www.braintreepayments.com/braintrust/gotchas-irritants-and-warts-in-go-web-development,/u/kyle,5
-2,2013-03-07 06:48:03 -0600,"['/t/privacy', '/t/security']",History Stuffing With HTML5,http://upnorthtrip.com/historystuffing/,/u/kusuriya,5
+0,2013-03-11 15:14:54 -0500,"/t/ruby,/t/security",*experimental* rubygems-openpgp Certificate Authority,http://www.rubygems-openpgp-ca.org/,/u/jcs,3
+0,2013-03-11 14:51:16 -0500,/t/practices,Timid Development - a dysfunctional process,http://mattvanhorn.com/2013/03/11/timid-development/,/u/mattvanhorn,3
+0,2013-03-11 10:10:08 -0500,/t/go,Things I Wish Someone Had Told Me About Go,http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/,/u/kyle,5
+1,2013-03-11 10:22:02 -0500,/t/book,Releasing free PDF of “Hacking the Xbox” in honor of Aaron Swartz,http://www.bunniestudios.com/blog/?p=3012,/u/jcs,3
+0,2013-03-11 11:15:52 -0500,/t/go,manbearpig: Mutation Testing for Go,http://verboselogging.com/2013/03/11/manbearpig-mutation-testing-for-go,/u/kyle,2
+0,2013-03-11 14:25:56 -0500,/t/javascript,Terrain Generator and GUI in JavaScript and WebGL,http://www.zephyrosanemos.com/,/u/joshuacc,1
+0,2013-03-10 17:15:08 -0500,"/t/show,/t/go",golst: readable Golang source listings,http://www.kyleisom.net/blog/2013/03/10/golst/,/u/kyle,4
+0,2013-03-10 11:14:14 -0500,"/t/compsci,/t/science",Caltech engineers build self-healing electronic chips that repair themselves,http://phys.org/news/2013-03-caltech-self-healing-electronic-chips.html,/u/kusuriya,3
+0,2013-03-09 23:35:45 -0600,"/t/browsers,/t/security",Protecting Mozilla Firefox users on the web,https://garykwong.wordpress.com/2013/03/08/protecting-mozilla-firefox-users-on-the-web/,/u/jcs,3
+0,2013-03-09 17:38:30 -0600,"/t/privacy,/t/security",Here come the encryption apps!,http://blog.cryptographyengineering.com/2013/03/here-come-encryption-apps.html,/u/jcs,6
+0,2013-03-09 18:16:30 -0600,/t/person,The Apprentice Programmer | too-biased by Tobi Lütke,http://tobi.lutke.com/the-apprentice-programmer,/u/tundal45,5
+0,2013-03-09 10:22:15 -0600,/t/lua,"Lua: Good, bad, and ugly parts",http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts,/u/jcs,7
+1,2013-03-09 18:09:36 -0600,"/t/video,/t/philosophy","Maintain Less, Mentor More: Community Building Techniques",http://devslovebacon.com/conferences/bacon-2012/talks/maintain-less-mentor-more-community-building-techniques,/u/tundal45,1
+0,2013-03-08 16:13:09 -0600,"/t/ruby,/t/security",Ruby security alerts displayed on ruby-doc,http://jamesbritt.com/posts/ruby-security-alerts-displayed-on-ruby-doc.html,/u/jamesbritt,2
+0,2013-03-08 18:04:37 -0600,/t/ruby,a case for active_record scopes,http://www.psychedeli.ca/2013/03/08/a-case-for-scopes,/u/tubbo,1
+0,2013-03-08 11:12:34 -0600,/t/databases,MySQL performance: Impact of memory allocators (Part 2),http://www.mysqlperformanceblog.com/2013/03/08/mysql-performance-impact-of-memory-allocators-part-2/,/u/jcs,3
+1,2013-03-08 13:47:47 -0600,"/t/design,/t/mobile",UI Antipatterns: Hinting instead of acting,http://www.michaelboeke.com/post/44783990066/ui-antipatterns-hinting-instead-of-acting,/u/michael,1
+0,2013-03-07 17:07:07 -0600,"/t/pdf,/t/c",Deep C,http://www.pvv.org/~oma/DeepC_Scandev_Mar2013.pdf,/u/kyle,11
+0,2013-03-08 00:24:08 -0600,"/t/security,/t/visualization",The ICSI SSL Notary: CA Certificates,http://notary.icsi.berkeley.edu/trust-tree/,/u/jcs,3
+1,2013-03-07 12:12:49 -0600,"/t/hardware,/t/linux",Installing Debian GNU/Linux on the Chromebook Pixel,http://vger.kernel.org/~davem/chromebook_pixel_linux.txt,/u/jturner,7
+0,2013-03-07 08:50:43 -0600,"/t/c,/t/linux,/t/unix","UNIX V5, OpenBSD, Plan 9, FreeBSD, and GNU coreutils implementations of echo.c",https://gist.github.com/dchest/1091803,/u/snk,11
+0,2013-03-07 20:36:28 -0600,/t/web,The Joy of Hyper-Rapid Development,http://blog.johnback.us/blog/2013/03/07/the-joy-of-hyper-rapid-development/,/u/jbackus3,2
+3,2013-03-07 11:11:15 -0600,"/t/javascript,/t/ruby",Ruby as Javascript: Objects vs. Closures,http://rcjara.github.com/programming/2013/03/06/ruby-as-javascript/,/u/rauljara,4
+0,2013-03-07 11:15:09 -0600,"/t/go,/t/web","Gotchas, Irritants and Warts in Go Web Development",https://www.braintreepayments.com/braintrust/gotchas-irritants-and-warts-in-go-web-development,/u/kyle,5
+2,2013-03-07 06:48:03 -0600,"/t/privacy,/t/security",History Stuffing With HTML5,http://upnorthtrip.com/historystuffing/,/u/kusuriya,5

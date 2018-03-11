@@ -1,25 +1,25 @@
-0,2017-10-19 06:40:19 -0500,['/t/distributed'],How Wallaroo Scales Distributed State,https://blog.wallaroolabs.com/2017/10/how-wallaroo-scales-distributed-state/,/u/SeanTAllen,7
-0,2017-10-19 08:29:11 -0500,['/t/graphics'],Casual 3D Photography,http://visual.cs.ucl.ac.uk/pubs/casual3d/,/u/speps,5
-44,2017-10-18 05:58:55 -0500,"['/t/hardware', '/t/mac']",The new MacBook keyboard is ruining my life,https://theoutline.com/post/2402/the-new-macbook-keyboard-is-ruining-my-life,/u/pkubaj,44
-0,2017-10-19 11:19:06 -0500,"['/t/pdf', '/t/security', '/t/visualization']",The Million-Key Question—Investigating the Origins of RSA Public Keys,https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_svenda.pdf,/u/friendlysock,3
-1,2017-10-18 17:46:59 -0500,['/t/ai'],Stop Using word2vec,http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/,/u/pushcx,14
-2,2017-10-19 07:08:40 -0500,"['/t/pdf', '/t/ai']",Mastering the Game of Go Without Human Knowledge,https://deepmind.com/documents/119/agz_unformatted_nature.pdf,/u/pushcx,2
-0,2017-10-19 02:59:53 -0500,"['/t/security', '/t/unix']",Wargames - learn and practice security concepts,http://overthewire.org/wargames/,/u/quobit,6
-0,2017-10-19 10:10:39 -0500,"['/t/ruby', '/t/visualization']",Visualizing Rails logs With Jupyter Notebook,http://blog.scoutapp.com/articles/2017/10/13/visualizing-rails-logs-with-jupyter-notebook,/u/soulcutter,2
-0,2017-10-19 04:45:05 -0500,"['/t/job', '/t/linux', '/t/privacy', '/t/security']",Wikimedia Foundation hiring a Traffic Security Engineer,https://boards.greenhouse.io/wikimedia/jobs/882511,/u/ema,4
-0,2017-10-19 06:30:56 -0500,['/t/programming'],Using cgroups to limit I/O,https://andrestc.com/post/cgroups-io/,/u/av,3
-1,2017-10-18 09:58:57 -0500,['/t/release'],Zig Programming Language 0.1.1 released,http://ziglang.org/download/0.1.1/release-notes.html,/u/halosghost,28
-1,2017-10-18 19:19:31 -0500,['/t/ai'],AlphaGo Zero: Learning from scratch,https://deepmind.com/blog/alphago-zero-learning-scratch/,/u/talklittle,7
-7,2017-10-18 11:15:52 -0500,"['/t/javascript', '/t/nodejs']",Napa.js - Microsoft's open-source multithreaded JS runtime,https://github.com/Microsoft/napajs,/u/bbrown,15
-0,2017-10-18 21:57:49 -0500,['/t/compsci'],Gap Buffers: a data structure for editable text,https://routley.io/tech/2017/09/01/gap-buffer.html,/u/calvin,6
-2,2017-10-18 09:59:38 -0500,"['/t/erlang', '/t/nodejs']",Concurrency vs Parallelism and the Erlang Advantage,http://nathanmlong.com/2017/06/concurrency-vs-paralellism/,/u/nathanmlong,7
-56,2017-10-17 18:18:20 -0500,['/t/go'],Why we switched from Python to Go,https://getstream.io/blog/switched-python-go/,/u/tschellenbach,30
-3,2017-10-18 15:20:20 -0500,['/t/databases'],The day I reached the 1600 column limit in PostgreSQL,https://rosenfeld.herokuapp.com/en/articles/programming/2017-09-26-the-day-i-reached-the-1600-columns-limit-in-postgresql,/u/pushcx,7
-0,2017-10-18 22:12:04 -0500,['/t/haskell'],Growing a Date Picker in Reflex - Part 2,https://qfpl.io/posts/reflex/widget/growing-a-date-picker-2/,/u/mankyKitty,2
-7,2017-10-18 15:03:23 -0500,"['/t/haskell', '/t/java']",Java interfaces map to Haskell records,https://chris-martin.org/2017/interfaces-and-records,/u/pushcx,5
-0,2017-10-18 10:59:31 -0500,['/t/virtualization'],My Little Cluster Story,http://carolynvanslyck.com/blog/2017/10/my-little-cluster/,/u/quobit,15
-0,2017-10-18 20:28:27 -0500,['/t/databases'],Battle With A Phantom WAL segment,https://blog.keikooda.net/2017/10/18/battle-with-a-phantom-wal-segment/,/u/craigkerstiens,4
-2,2017-10-18 11:34:47 -0500,['/t/practices'],"No Frameworks, Part 1",http://matteo.vaccari.name/blog/archives/1019,/u/PuercoPop,8
-0,2017-10-18 05:46:45 -0500,['/t/ruby'],rom-rb 4.0.0 released,http://rom-rb.org/blog/rom-4-0-released/,/u/solnic,10
-0,2017-10-19 03:23:14 -0500,['/t/cryptocurrencies'],Everything You Wanted To Know About Blockchains,https://unwttng.com/what-is-a-blockchain,/u/av,1
-2,2017-10-18 03:23:22 -0500,"['/t/compsci', '/t/haskell']",On termination,https://mail.haskell.org/pipermail/haskell-cafe/2003-May/004343.html,/u/ehamberg,15
+0,2017-10-19 06:40:19 -0500,/t/distributed,How Wallaroo Scales Distributed State,https://blog.wallaroolabs.com/2017/10/how-wallaroo-scales-distributed-state/,/u/SeanTAllen,7
+0,2017-10-19 08:29:11 -0500,/t/graphics,Casual 3D Photography,http://visual.cs.ucl.ac.uk/pubs/casual3d/,/u/speps,5
+44,2017-10-18 05:58:55 -0500,"/t/hardware,/t/mac",The new MacBook keyboard is ruining my life,https://theoutline.com/post/2402/the-new-macbook-keyboard-is-ruining-my-life,/u/pkubaj,44
+0,2017-10-19 11:19:06 -0500,"/t/pdf,/t/security,/t/visualization",The Million-Key Question—Investigating the Origins of RSA Public Keys,https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_svenda.pdf,/u/friendlysock,3
+1,2017-10-18 17:46:59 -0500,/t/ai,Stop Using word2vec,http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/,/u/pushcx,14
+2,2017-10-19 07:08:40 -0500,"/t/pdf,/t/ai",Mastering the Game of Go Without Human Knowledge,https://deepmind.com/documents/119/agz_unformatted_nature.pdf,/u/pushcx,2
+0,2017-10-19 02:59:53 -0500,"/t/security,/t/unix",Wargames - learn and practice security concepts,http://overthewire.org/wargames/,/u/quobit,6
+0,2017-10-19 10:10:39 -0500,"/t/ruby,/t/visualization",Visualizing Rails logs With Jupyter Notebook,http://blog.scoutapp.com/articles/2017/10/13/visualizing-rails-logs-with-jupyter-notebook,/u/soulcutter,2
+0,2017-10-19 04:45:05 -0500,"/t/job,/t/linux,/t/privacy,/t/security",Wikimedia Foundation hiring a Traffic Security Engineer,https://boards.greenhouse.io/wikimedia/jobs/882511,/u/ema,4
+0,2017-10-19 06:30:56 -0500,/t/programming,Using cgroups to limit I/O,https://andrestc.com/post/cgroups-io/,/u/av,3
+1,2017-10-18 09:58:57 -0500,/t/release,Zig Programming Language 0.1.1 released,http://ziglang.org/download/0.1.1/release-notes.html,/u/halosghost,28
+1,2017-10-18 19:19:31 -0500,/t/ai,AlphaGo Zero: Learning from scratch,https://deepmind.com/blog/alphago-zero-learning-scratch/,/u/talklittle,7
+7,2017-10-18 11:15:52 -0500,"/t/javascript,/t/nodejs",Napa.js - Microsoft's open-source multithreaded JS runtime,https://github.com/Microsoft/napajs,/u/bbrown,15
+0,2017-10-18 21:57:49 -0500,/t/compsci,Gap Buffers: a data structure for editable text,https://routley.io/tech/2017/09/01/gap-buffer.html,/u/calvin,6
+2,2017-10-18 09:59:38 -0500,"/t/erlang,/t/nodejs",Concurrency vs Parallelism and the Erlang Advantage,http://nathanmlong.com/2017/06/concurrency-vs-paralellism/,/u/nathanmlong,7
+56,2017-10-17 18:18:20 -0500,/t/go,Why we switched from Python to Go,https://getstream.io/blog/switched-python-go/,/u/tschellenbach,30
+3,2017-10-18 15:20:20 -0500,/t/databases,The day I reached the 1600 column limit in PostgreSQL,https://rosenfeld.herokuapp.com/en/articles/programming/2017-09-26-the-day-i-reached-the-1600-columns-limit-in-postgresql,/u/pushcx,7
+0,2017-10-18 22:12:04 -0500,/t/haskell,Growing a Date Picker in Reflex - Part 2,https://qfpl.io/posts/reflex/widget/growing-a-date-picker-2/,/u/mankyKitty,2
+7,2017-10-18 15:03:23 -0500,"/t/haskell,/t/java",Java interfaces map to Haskell records,https://chris-martin.org/2017/interfaces-and-records,/u/pushcx,5
+0,2017-10-18 10:59:31 -0500,/t/virtualization,My Little Cluster Story,http://carolynvanslyck.com/blog/2017/10/my-little-cluster/,/u/quobit,15
+0,2017-10-18 20:28:27 -0500,/t/databases,Battle With A Phantom WAL segment,https://blog.keikooda.net/2017/10/18/battle-with-a-phantom-wal-segment/,/u/craigkerstiens,4
+2,2017-10-18 11:34:47 -0500,/t/practices,"No Frameworks, Part 1",http://matteo.vaccari.name/blog/archives/1019,/u/PuercoPop,8
+0,2017-10-18 05:46:45 -0500,/t/ruby,rom-rb 4.0.0 released,http://rom-rb.org/blog/rom-4-0-released/,/u/solnic,10
+0,2017-10-19 03:23:14 -0500,/t/cryptocurrencies,Everything You Wanted To Know About Blockchains,https://unwttng.com/what-is-a-blockchain,/u/av,1
+2,2017-10-18 03:23:22 -0500,"/t/compsci,/t/haskell",On termination,https://mail.haskell.org/pipermail/haskell-cafe/2003-May/004343.html,/u/ehamberg,15

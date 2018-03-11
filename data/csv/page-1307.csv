@@ -1,25 +1,25 @@
-4,2014-06-20 10:56:13 -0500,"['/t/programming', '/t/release']",Microservices and the failure of encapsulation,https://michaelfeathers.silvrback.com/microservices-and-the-failure-of-encapsulaton,/u/steveklabnik,11
-0,2014-06-20 18:01:03 -0500,"['/t/c', '/t/programming']",A portable high-resolution timestamp in C++,https://blogea.bureau14.fr/index.php/2014/06/a-portable-high-resolution-timestamp-in-c/,/u/tedu,4
-7,2014-06-19 21:21:14 -0500,['/t/c'],Where is my C++ replacement?,http://c0de517e.blogspot.com/2014/06/where-is-my-c-replacement.html,/u/jm,16
-7,2014-06-20 13:40:22 -0500,['/t/rant'],Why I hate the word 'pragmatic' and other rants,http://jeremydmiller.com/2014/06/19/pragmatic-and-other-rants/,/u/steveklabnik,10
-7,2014-06-19 11:43:20 -0500,['/t/distributed'],Call me maybe: Elasticsearch,http://aphyr.com/posts/317-call-me-maybe-elasticsearch,/u/aphyr,45
-3,2014-06-20 17:06:54 -0500,"['/t/culture', '/t/science']",What Happened When We Tried To Publish a Real Paper Investigating Time Travel,https://thewinnower.com/discussions/what-happened-when-we-tried-to-publish-a-real-paper-investigating-time-travel,/u/zem,4
-0,2014-06-20 09:46:09 -0500,['/t/practices'],Startup Advice: Cold Recruiting,https://stripe.com/blog/startup-advice-cold-recruiting,/u/journeysquid,5
-1,2014-06-20 10:17:50 -0500,['/t/networking'],Debian lists need a plan to deal with messages from DMARC p=reject domains,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=752084,/u/jcs,3
-2,2014-06-20 00:31:12 -0500,"['/t/web', '/t/windows']",Windows VMs from Microsoft for testing IE,https://www.modern.ie/en-us/virtualization-tools,/u/animatronic,7
-0,2014-06-20 03:07:30 -0500,"['/t/browsers', '/t/games']",Cube Slam – Behind the THREE.Scene(),http://www.inear.se/2013/07/cube-slam-behind-the-three-scene/,/u/daGrevis,6
-2,2014-06-19 22:56:45 -0500,['/t/javascript'],Why Curry Helps,http://hughfdjackson.com/javascript/why-curry-helps/,/u/pushcx,6
-0,2014-06-20 08:54:42 -0500,"['/t/show', '/t/java', '/t/release']",Vibur DBCP version 1.1 released and available from Maven Central,https://code.google.com/p/vibur-dbcp/,/u/svm,1
-0,2014-06-19 17:19:05 -0500,['/t/distributed'],Vector Clocks in Coq: An Experience Report,http://arxiv.org/abs/1406.4291,/u/cmeiklejohn,7
-0,2014-06-19 21:34:44 -0500,"['/t/hardware', '/t/security']",Yet Another BMC Vulnerability (Supermicro IPMI),http://blog.cari.net/carisirt-yet-another-bmc-vulnerability-and-some-added-extras/,/u/cnst,3
-1,2014-06-19 11:05:30 -0500,"['/t/games', '/t/lua']",LoveDOS - A framework for making 2D DOS games in Lua,https://github.com/rxi/lovedos,/u/zhemao,9
-1,2014-06-19 16:12:34 -0500,"['/t/culture', '/t/practices']",Estimates as Deadlines and the End of Everything,http://yobriefca.se/blog/2014/06/19/estimates-as-deadlines-and-the-end-of-everything/,/u/kouphax,9
-0,2014-06-19 15:29:04 -0500,['/t/python'],Videogrep: Automatic Supercuts with Python,http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/,/u/zhemao,4
-3,2014-06-18 20:25:47 -0500,"['/t/go', '/t/release']",Go 1.3 is released,http://blog.golang.org/go1.3,/u/journeysquid,27
-2,2014-06-19 11:45:02 -0500,['/t/hardware'],Intel reveals its FrankenChip ARM killer: one FPGA and one Xeon IN ONE SOCKET,http://www.theregister.co.uk/2014/06/18/intel_fpga_custom_chip/,/u/animatronic,4
-0,2014-06-19 22:35:19 -0500,"['/t/browsers', '/t/javascript']",StayDown - Keep a Changing Div Scrolled Down Unless the User Scrolls Up,https://github.com/fritzy/staydown,/u/fritzy,1
-1,2014-06-19 11:34:42 -0500,"['/t/math', '/t/programming']",Minimal Perfect Hashing,http://stevehanov.ca/blog/index.php?id=119,/u/jasontbradshaw,4
-0,2014-06-19 11:57:54 -0500,"['/t/culture', '/t/release']",Saving old software from extinction in the age of cloud computing,http://arstechnica.com/gadgets/2014/06/saving-old-software-from-extinction-in-the-age-of-cloud-computing/,/u/zhemao,7
-0,2014-06-19 15:48:45 -0500,['/t/practices'],Coordinating technological change in large software organizations,http://evanmeagher.net/2014/06/coordinating-technological-change-in-large-software-organizations/,/u/sprsquish,2
-0,2014-06-19 15:38:14 -0500,"['/t/ios', '/t/mac', '/t/programming']",Which Clang Warning Is Generating This Message?,http://fuckingclangwarnings.com/,/u/dkasper,2
-0,2014-06-19 04:18:56 -0500,"['/t/release', '/t/vim']",Vimbed — a plugin for embedding Vim,https://github.com/ardagnir/vimbed,/u/daGrevis,6
+4,2014-06-20 10:56:13 -0500,"/t/programming,/t/release",Microservices and the failure of encapsulation,https://michaelfeathers.silvrback.com/microservices-and-the-failure-of-encapsulaton,/u/steveklabnik,11
+0,2014-06-20 18:01:03 -0500,"/t/c,/t/programming",A portable high-resolution timestamp in C++,https://blogea.bureau14.fr/index.php/2014/06/a-portable-high-resolution-timestamp-in-c/,/u/tedu,4
+7,2014-06-19 21:21:14 -0500,/t/c,Where is my C++ replacement?,http://c0de517e.blogspot.com/2014/06/where-is-my-c-replacement.html,/u/jm,16
+7,2014-06-20 13:40:22 -0500,/t/rant,Why I hate the word 'pragmatic' and other rants,http://jeremydmiller.com/2014/06/19/pragmatic-and-other-rants/,/u/steveklabnik,10
+7,2014-06-19 11:43:20 -0500,/t/distributed,Call me maybe: Elasticsearch,http://aphyr.com/posts/317-call-me-maybe-elasticsearch,/u/aphyr,45
+3,2014-06-20 17:06:54 -0500,"/t/culture,/t/science",What Happened When We Tried To Publish a Real Paper Investigating Time Travel,https://thewinnower.com/discussions/what-happened-when-we-tried-to-publish-a-real-paper-investigating-time-travel,/u/zem,4
+0,2014-06-20 09:46:09 -0500,/t/practices,Startup Advice: Cold Recruiting,https://stripe.com/blog/startup-advice-cold-recruiting,/u/journeysquid,5
+1,2014-06-20 10:17:50 -0500,/t/networking,Debian lists need a plan to deal with messages from DMARC p=reject domains,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=752084,/u/jcs,3
+2,2014-06-20 00:31:12 -0500,"/t/web,/t/windows",Windows VMs from Microsoft for testing IE,https://www.modern.ie/en-us/virtualization-tools,/u/animatronic,7
+0,2014-06-20 03:07:30 -0500,"/t/browsers,/t/games",Cube Slam – Behind the THREE.Scene(),http://www.inear.se/2013/07/cube-slam-behind-the-three-scene/,/u/daGrevis,6
+2,2014-06-19 22:56:45 -0500,/t/javascript,Why Curry Helps,http://hughfdjackson.com/javascript/why-curry-helps/,/u/pushcx,6
+0,2014-06-20 08:54:42 -0500,"/t/show,/t/java,/t/release",Vibur DBCP version 1.1 released and available from Maven Central,https://code.google.com/p/vibur-dbcp/,/u/svm,1
+0,2014-06-19 17:19:05 -0500,/t/distributed,Vector Clocks in Coq: An Experience Report,http://arxiv.org/abs/1406.4291,/u/cmeiklejohn,7
+0,2014-06-19 21:34:44 -0500,"/t/hardware,/t/security",Yet Another BMC Vulnerability (Supermicro IPMI),http://blog.cari.net/carisirt-yet-another-bmc-vulnerability-and-some-added-extras/,/u/cnst,3
+1,2014-06-19 11:05:30 -0500,"/t/games,/t/lua",LoveDOS - A framework for making 2D DOS games in Lua,https://github.com/rxi/lovedos,/u/zhemao,9
+1,2014-06-19 16:12:34 -0500,"/t/culture,/t/practices",Estimates as Deadlines and the End of Everything,http://yobriefca.se/blog/2014/06/19/estimates-as-deadlines-and-the-end-of-everything/,/u/kouphax,9
+0,2014-06-19 15:29:04 -0500,/t/python,Videogrep: Automatic Supercuts with Python,http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/,/u/zhemao,4
+3,2014-06-18 20:25:47 -0500,"/t/go,/t/release",Go 1.3 is released,http://blog.golang.org/go1.3,/u/journeysquid,27
+2,2014-06-19 11:45:02 -0500,/t/hardware,Intel reveals its FrankenChip ARM killer: one FPGA and one Xeon IN ONE SOCKET,http://www.theregister.co.uk/2014/06/18/intel_fpga_custom_chip/,/u/animatronic,4
+0,2014-06-19 22:35:19 -0500,"/t/browsers,/t/javascript",StayDown - Keep a Changing Div Scrolled Down Unless the User Scrolls Up,https://github.com/fritzy/staydown,/u/fritzy,1
+1,2014-06-19 11:34:42 -0500,"/t/math,/t/programming",Minimal Perfect Hashing,http://stevehanov.ca/blog/index.php?id=119,/u/jasontbradshaw,4
+0,2014-06-19 11:57:54 -0500,"/t/culture,/t/release",Saving old software from extinction in the age of cloud computing,http://arstechnica.com/gadgets/2014/06/saving-old-software-from-extinction-in-the-age-of-cloud-computing/,/u/zhemao,7
+0,2014-06-19 15:48:45 -0500,/t/practices,Coordinating technological change in large software organizations,http://evanmeagher.net/2014/06/coordinating-technological-change-in-large-software-organizations/,/u/sprsquish,2
+0,2014-06-19 15:38:14 -0500,"/t/ios,/t/mac,/t/programming",Which Clang Warning Is Generating This Message?,http://fuckingclangwarnings.com/,/u/dkasper,2
+0,2014-06-19 04:18:56 -0500,"/t/release,/t/vim",Vimbed — a plugin for embedding Vim,https://github.com/ardagnir/vimbed,/u/daGrevis,6

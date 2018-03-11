@@ -1,25 +1,25 @@
-0,2013-07-03 05:12:06 -0500,"['/t/news', '/t/vcs']",Releases - Workflow for shipping software to end users,https://github.com/blog/1547-release-your-software,/u/pkhamre,2
-0,2013-07-02 19:54:29 -0500,"['/t/reversing', '/t/security']",Breaking a Toy Hash Function,http://twistedoakstudios.com/blog/Post4706_breaking-a-toy-hash-function,/u/jcs,4
-1,2013-07-02 12:05:10 -0500,['/t/programming'],Confessions of a product hacker,https://medium.com/p/2e37fc516a31,/u/dlapiduz,3
-0,2013-07-02 01:36:21 -0500,"['/t/pdf', '/t/browsers', '/t/privacy', '/t/security']","Forensic Analysis of the Tor Browser Bundle on OS X, Linux, and Windows",https://research.torproject.org/techreports/tbb-forensic-analysis-2013-06-28.pdf,/u/wally,4
-1,2013-07-02 03:18:20 -0500,"['/t/video', '/t/privacy', '/t/security']","Bruce Schneier's talk at Google on Trust, Privacy, and Feudal Security",https://www.youtube.com/watch?v=m3NJ-Ow2Lvg,/u/wally,3
-1,2013-07-01 14:09:37 -0500,"['/t/privacy', '/t/security']",Motorola Is Listening,http://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html,/u/jcs,5
-1,2013-07-01 11:37:25 -0500,['/t/security'],SIMON and SPECK: New NSA Encryption Algorithms,https://www.schneier.com/blog/archives/2013/07/simon_and_speck.html,/u/kyle,4
-2,2013-07-01 11:50:06 -0500,"['/t/javascript', '/t/programming']",Building a JavaScript Library with Grunt.js,http://flippinawesome.org/2013/07/01/building-a-javascript-library-with-grunt-js/,/u/remotesynth,1
-1,2013-07-01 08:05:10 -0500,"['/t/compsci', '/t/lua']",A Field Guide to Lua Coroutines,http://spin.atomicobject.com/2013/07/01/lua-coroutines/,/u/silentbicycle,2
-1,2013-07-01 01:40:11 -0500,['/t/vim'],Relative line numbers in Vim,http://jeffkreeftmeijer.com/2012/relative-line-numbers-in-vim-for-super-fast-movement/,/u/guiambros,5
-0,2013-07-01 09:08:22 -0500,"['/t/api', '/t/go', '/t/networking']",RRDA : a REST API written in Go allowing to perform DNS queries over HTTP,https://github.com/fcambus/rrda,/u/fcambus,2
-0,2013-07-01 01:41:50 -0500,"['/t/video', '/t/science']",Levitating Superconductor on a Möbius strip,http://www.youtube.com/watch?v=zPqEEZa2Gis,/u/guiambros,5
-0,2013-07-01 07:40:24 -0500,['/t/go'],How to write benchmarks in Go,http://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go,/u/fcambus,2
-2,2013-06-30 19:31:02 -0500,"['/t/release', '/t/unix']",OmniOS builds on Illumos to make a complete operating system,http://omnios.omniti.com/,/u/jcs,4
-0,2013-06-30 19:59:39 -0500,['/t/javascript'],Using 'apply' to Emulate JavaScript's Upcoming Spread Operator,http://designpepper.com/blog/drips/using-apply-to-emulate-javascripts-upcoming-spread-operator,/u/joshuacc,2
-0,2013-06-30 19:58:11 -0500,"['/t/lisp', '/t/programming']","Dylan Hack-a-thon: July 13-14, 2013",http://opendylan.org/news/2013/06/30/dylan-hack-a-thon.html,/u/BruceM,1
-0,2013-06-30 00:36:05 -0500,['/t/ruby'],Ruby 1.8.7 has been retired,http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/,/u/jcs,3
-0,2013-06-29 12:25:04 -0500,"['/t/reversing', '/t/security']",Attacking Crypto Phones: Weaknesses in ZRTPCPP,http://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html,/u/jcs,4
-0,2013-06-29 11:26:56 -0500,['/t/practices'],How To Keep Your Best Programmers,http://www.daedtech.com/how-to-keep-your-best-programmers,/u/SeanTAllen,4
-0,2013-06-28 13:10:35 -0500,"['/t/javascript', '/t/web']",A surprising JavaScript memory leak found at Meteor,http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html,/u/vladikoff,4
-1,2013-06-28 08:42:59 -0500,['/t/security'],New Breed of Banking Malware Hijacks Text Messages,http://www.americanbanker.com/issues/178_111/new-breed-of-banking-malware-hijacks-text-messages-1059745-1.html?zkPrintable=1&nopagination=1,/u/kyle,3
-9,2013-06-26 14:38:56 -0500,['/t/announce'],Lobsters by mail,/s/jg3eet/lobsters_by_mail,/u/jcs,29
-0,2013-06-27 22:27:10 -0500,"['/t/security', '/t/web']",How to botch TLS forward secrecy,https://www.imperialviolet.org/2013/06/27/botchingpfs.html,/u/kyle,5
-0,2013-06-27 18:51:26 -0500,"['/t/compsci', '/t/javascript', '/t/web']",HTML5 Genetic Algorithm 2D Car Thingy - Chrome recommended,http://rednuht.org/genetic_cars_2/,/u/qbit,7
-0,2013-06-27 15:37:49 -0500,"['/t/person', '/t/privacy']",Renowned Security Expert Bruce Schneier Joins EFF Board of Directors,https://www.eff.org/press/releases/renowned-security-expert-bruce-schneier-joins-eff-board-directors,/u/kyle,4
+0,2013-07-03 05:12:06 -0500,"/t/news,/t/vcs",Releases - Workflow for shipping software to end users,https://github.com/blog/1547-release-your-software,/u/pkhamre,2
+0,2013-07-02 19:54:29 -0500,"/t/reversing,/t/security",Breaking a Toy Hash Function,http://twistedoakstudios.com/blog/Post4706_breaking-a-toy-hash-function,/u/jcs,4
+1,2013-07-02 12:05:10 -0500,/t/programming,Confessions of a product hacker,https://medium.com/p/2e37fc516a31,/u/dlapiduz,3
+0,2013-07-02 01:36:21 -0500,"/t/pdf,/t/browsers,/t/privacy,/t/security","Forensic Analysis of the Tor Browser Bundle on OS X, Linux, and Windows",https://research.torproject.org/techreports/tbb-forensic-analysis-2013-06-28.pdf,/u/wally,4
+1,2013-07-02 03:18:20 -0500,"/t/video,/t/privacy,/t/security","Bruce Schneier's talk at Google on Trust, Privacy, and Feudal Security",https://www.youtube.com/watch?v=m3NJ-Ow2Lvg,/u/wally,3
+1,2013-07-01 14:09:37 -0500,"/t/privacy,/t/security",Motorola Is Listening,http://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html,/u/jcs,5
+1,2013-07-01 11:37:25 -0500,/t/security,SIMON and SPECK: New NSA Encryption Algorithms,https://www.schneier.com/blog/archives/2013/07/simon_and_speck.html,/u/kyle,4
+2,2013-07-01 11:50:06 -0500,"/t/javascript,/t/programming",Building a JavaScript Library with Grunt.js,http://flippinawesome.org/2013/07/01/building-a-javascript-library-with-grunt-js/,/u/remotesynth,1
+1,2013-07-01 08:05:10 -0500,"/t/compsci,/t/lua",A Field Guide to Lua Coroutines,http://spin.atomicobject.com/2013/07/01/lua-coroutines/,/u/silentbicycle,2
+1,2013-07-01 01:40:11 -0500,/t/vim,Relative line numbers in Vim,http://jeffkreeftmeijer.com/2012/relative-line-numbers-in-vim-for-super-fast-movement/,/u/guiambros,5
+0,2013-07-01 09:08:22 -0500,"/t/api,/t/go,/t/networking",RRDA : a REST API written in Go allowing to perform DNS queries over HTTP,https://github.com/fcambus/rrda,/u/fcambus,2
+0,2013-07-01 01:41:50 -0500,"/t/video,/t/science",Levitating Superconductor on a Möbius strip,http://www.youtube.com/watch?v=zPqEEZa2Gis,/u/guiambros,5
+0,2013-07-01 07:40:24 -0500,/t/go,How to write benchmarks in Go,http://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go,/u/fcambus,2
+2,2013-06-30 19:31:02 -0500,"/t/release,/t/unix",OmniOS builds on Illumos to make a complete operating system,http://omnios.omniti.com/,/u/jcs,4
+0,2013-06-30 19:59:39 -0500,/t/javascript,Using 'apply' to Emulate JavaScript's Upcoming Spread Operator,http://designpepper.com/blog/drips/using-apply-to-emulate-javascripts-upcoming-spread-operator,/u/joshuacc,2
+0,2013-06-30 19:58:11 -0500,"/t/lisp,/t/programming","Dylan Hack-a-thon: July 13-14, 2013",http://opendylan.org/news/2013/06/30/dylan-hack-a-thon.html,/u/BruceM,1
+0,2013-06-30 00:36:05 -0500,/t/ruby,Ruby 1.8.7 has been retired,http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/,/u/jcs,3
+0,2013-06-29 12:25:04 -0500,"/t/reversing,/t/security",Attacking Crypto Phones: Weaknesses in ZRTPCPP,http://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html,/u/jcs,4
+0,2013-06-29 11:26:56 -0500,/t/practices,How To Keep Your Best Programmers,http://www.daedtech.com/how-to-keep-your-best-programmers,/u/SeanTAllen,4
+0,2013-06-28 13:10:35 -0500,"/t/javascript,/t/web",A surprising JavaScript memory leak found at Meteor,http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html,/u/vladikoff,4
+1,2013-06-28 08:42:59 -0500,/t/security,New Breed of Banking Malware Hijacks Text Messages,http://www.americanbanker.com/issues/178_111/new-breed-of-banking-malware-hijacks-text-messages-1059745-1.html?zkPrintable=1&nopagination=1,/u/kyle,3
+9,2013-06-26 14:38:56 -0500,/t/announce,Lobsters by mail,/s/jg3eet/lobsters_by_mail,/u/jcs,29
+0,2013-06-27 22:27:10 -0500,"/t/security,/t/web",How to botch TLS forward secrecy,https://www.imperialviolet.org/2013/06/27/botchingpfs.html,/u/kyle,5
+0,2013-06-27 18:51:26 -0500,"/t/compsci,/t/javascript,/t/web",HTML5 Genetic Algorithm 2D Car Thingy - Chrome recommended,http://rednuht.org/genetic_cars_2/,/u/qbit,7
+0,2013-06-27 15:37:49 -0500,"/t/person,/t/privacy",Renowned Security Expert Bruce Schneier Joins EFF Board of Directors,https://www.eff.org/press/releases/renowned-security-expert-bruce-schneier-joins-eff-board-directors,/u/kyle,4

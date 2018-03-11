@@ -1,25 +1,25 @@
-0,2016-04-07 13:00:59 -0500,"['/t/programming', '/t/python', '/t/unix', '/t/windows']",bsplit - binary file split utility in Python,http://jugad2.blogspot.com/2016/04/bsplit-binary-file-split-utility-in.html,/u/vasudevram,1
-16,2016-04-06 10:53:01 -0500,"['/t/show', '/t/browsers', '/t/python', '/t/release', '/t/vim']","crowdfunding campaign for qutebrowser - a keyboard-focused, vim-like browser",https://www.indiegogo.com/projects/qutebrowser-a-keyboard-focused-vim-like-browser,/u/The-Compiler,12
-0,2016-04-07 10:23:41 -0500,"['/t/go', '/t/javascript']",Go Concurrency for Javascript Developers,https://kev.inburke.com/kevin/go-concurrency-for-js-devs/,/u/kb,1
-3,2016-04-06 13:52:06 -0500,['/t/security'],Domino's: Pizza and Payments,http://www.ifc0nfig.com/dominos-pizza-and-payments/,/u/calvin,21
-9,2016-04-06 10:00:30 -0500,"['/t/python', '/t/testing']",Hypothesis: an advanced Quickcheck style testing library for Python,https://github.com/DRMacIver/hypothesis,/u/ngoldbaum,23
-2,2016-04-07 08:04:46 -0500,"['/t/ruby', '/t/security']",RubyGems.org gem replacement vulnerability and mitigation,http://blog.rubygems.org/2016/04/06/gem-replacement-vulnerability-and-mitigation.html,/u/derekprior,2
-0,2016-04-07 03:59:14 -0500,['/t/devops'],"Terraform, VPC, and why you want a tfstate file per env",http://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/,/u/foophoof,5
-2,2016-04-06 16:05:55 -0500,['/t/programming'],How software gets bloated,http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/,/u/tedu,14
-12,2016-04-06 05:13:50 -0500,['/t/release'],Mutt E-Mail Client v1.6.0 released,http://www.mutt.org,/u/caius,27
-1,2016-04-06 16:59:17 -0500,"['/t/compilers', '/t/historical']",Cheney on the M.T.A.,http://home.pipeline.com/~hbaker1/CheneyMTA.html,/u/GeoffWozniak,9
-1,2016-04-06 15:42:22 -0500,"['/t/art', '/t/lisp']",Overtone Recipes - Programming music with Clojure,https://overtone-recipes.github.io/remake/2016/04/03/recreating-da-funk.html,/u/jan,10
-1,2016-04-06 13:45:59 -0500,['/t/hardware'],J-core Open Processor,http://j-core.org/,/u/355E3B,12
-1,2016-04-06 20:06:37 -0500,['/t/lisp'],"The puts and takes of core.async, part !!: error handling for producers.",http://goose.haus/2016/04/04/producers-and-error-handling.html,/u/angusiguess,2
-4,2016-04-06 09:50:29 -0500,['/t/elixir'],Announcing ExConstructor 1.0: A Better Struct Initializer for Elixir,https://engineering.appcues.com/2016/04/06/exconstructor.html,/u/gamache,5
-0,2016-04-06 18:31:15 -0500,"['/t/pdf', '/t/hardware', '/t/linux', '/t/security']",Turtles All The Way Down: Running Linux On Open Hardware,http://events.linuxfoundation.org/sites/events/files/slides/Turtles%20all%20the%20way.pdf,/u/friendlysock,6
-14,2016-04-06 02:18:23 -0500,['/t/compsci'],Determining Gender of a Name with 80% Accuracy Using Only Three Features,http://blog.ayoungprogrammer.com/2016/04/determining-gender-of-name-with-80.html,/u/pushcx,17
-2,2016-04-06 08:45:10 -0500,['/t/browsers'],Vivaldi hits 1.0,https://vivaldi.com/,/u/citizenk,12
-3,2016-04-06 09:32:37 -0500,['/t/web'],CSS containment,https://justmarkup.com/log/2016/04/css-containment/,/u/pushcx,8
-0,2016-04-07 02:07:56 -0500,"['/t/distributed', '/t/haskell', '/t/testing']",Fuzz test distributed systems with QuickCheck,https://blog.pusher.com/fuzz-testing-distributed-systems-with-quickcheck/,/u/dkubb,1
-2,2016-04-05 22:18:26 -0500,['/t/ruby'],A Tale of Security Gone Wrong,http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/,/u/gavinmiller,11
-11,2016-04-05 14:01:21 -0500,"['/t/security', '/t/vcs']",GitHub introduces GPG signature verification,https://github.com/blog/2144-gpg-signature-verification,/u/dz,31
-18,2016-04-05 15:12:28 -0500,"['/t/compsci', '/t/practices', '/t/programming']",Writing Good Code: How to Reduce the Cognitive Load of Your Code,http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/,/u/innerspirit,11
-25,2016-04-05 09:35:43 -0500,"['/t/distributed', '/t/vcs']",Introducing DGit,http://githubengineering.com/introducing-dgit/,/u/jtdowney,35
-0,2016-04-06 10:47:43 -0500,['/t/games'],Path of Exile Development Manifesto - Performance Improvements,https://www.pathofexile.com/forum/view-thread/1642228,/u/bowmanb,4
-7,2016-04-05 10:05:54 -0500,"['/t/hardware', '/t/practices']",The time that Tony Fadell sold me a container of hummus,https://medium.com/@arlogilbert/the-time-that-tony-fadell-sold-me-a-container-of-hummus-cb0941c762c1,/u/lennyt,30
+0,2016-04-07 13:00:59 -0500,"/t/programming,/t/python,/t/unix,/t/windows",bsplit - binary file split utility in Python,http://jugad2.blogspot.com/2016/04/bsplit-binary-file-split-utility-in.html,/u/vasudevram,1
+16,2016-04-06 10:53:01 -0500,"/t/show,/t/browsers,/t/python,/t/release,/t/vim","crowdfunding campaign for qutebrowser - a keyboard-focused, vim-like browser",https://www.indiegogo.com/projects/qutebrowser-a-keyboard-focused-vim-like-browser,/u/The-Compiler,12
+0,2016-04-07 10:23:41 -0500,"/t/go,/t/javascript",Go Concurrency for Javascript Developers,https://kev.inburke.com/kevin/go-concurrency-for-js-devs/,/u/kb,1
+3,2016-04-06 13:52:06 -0500,/t/security,Domino's: Pizza and Payments,http://www.ifc0nfig.com/dominos-pizza-and-payments/,/u/calvin,21
+9,2016-04-06 10:00:30 -0500,"/t/python,/t/testing",Hypothesis: an advanced Quickcheck style testing library for Python,https://github.com/DRMacIver/hypothesis,/u/ngoldbaum,23
+2,2016-04-07 08:04:46 -0500,"/t/ruby,/t/security",RubyGems.org gem replacement vulnerability and mitigation,http://blog.rubygems.org/2016/04/06/gem-replacement-vulnerability-and-mitigation.html,/u/derekprior,2
+0,2016-04-07 03:59:14 -0500,/t/devops,"Terraform, VPC, and why you want a tfstate file per env",http://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/,/u/foophoof,5
+2,2016-04-06 16:05:55 -0500,/t/programming,How software gets bloated,http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/,/u/tedu,14
+12,2016-04-06 05:13:50 -0500,/t/release,Mutt E-Mail Client v1.6.0 released,http://www.mutt.org,/u/caius,27
+1,2016-04-06 16:59:17 -0500,"/t/compilers,/t/historical",Cheney on the M.T.A.,http://home.pipeline.com/~hbaker1/CheneyMTA.html,/u/GeoffWozniak,9
+1,2016-04-06 15:42:22 -0500,"/t/art,/t/lisp",Overtone Recipes - Programming music with Clojure,https://overtone-recipes.github.io/remake/2016/04/03/recreating-da-funk.html,/u/jan,10
+1,2016-04-06 13:45:59 -0500,/t/hardware,J-core Open Processor,http://j-core.org/,/u/355E3B,12
+1,2016-04-06 20:06:37 -0500,/t/lisp,"The puts and takes of core.async, part !!: error handling for producers.",http://goose.haus/2016/04/04/producers-and-error-handling.html,/u/angusiguess,2
+4,2016-04-06 09:50:29 -0500,/t/elixir,Announcing ExConstructor 1.0: A Better Struct Initializer for Elixir,https://engineering.appcues.com/2016/04/06/exconstructor.html,/u/gamache,5
+0,2016-04-06 18:31:15 -0500,"/t/pdf,/t/hardware,/t/linux,/t/security",Turtles All The Way Down: Running Linux On Open Hardware,http://events.linuxfoundation.org/sites/events/files/slides/Turtles%20all%20the%20way.pdf,/u/friendlysock,6
+14,2016-04-06 02:18:23 -0500,/t/compsci,Determining Gender of a Name with 80% Accuracy Using Only Three Features,http://blog.ayoungprogrammer.com/2016/04/determining-gender-of-name-with-80.html,/u/pushcx,17
+2,2016-04-06 08:45:10 -0500,/t/browsers,Vivaldi hits 1.0,https://vivaldi.com/,/u/citizenk,12
+3,2016-04-06 09:32:37 -0500,/t/web,CSS containment,https://justmarkup.com/log/2016/04/css-containment/,/u/pushcx,8
+0,2016-04-07 02:07:56 -0500,"/t/distributed,/t/haskell,/t/testing",Fuzz test distributed systems with QuickCheck,https://blog.pusher.com/fuzz-testing-distributed-systems-with-quickcheck/,/u/dkubb,1
+2,2016-04-05 22:18:26 -0500,/t/ruby,A Tale of Security Gone Wrong,http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/,/u/gavinmiller,11
+11,2016-04-05 14:01:21 -0500,"/t/security,/t/vcs",GitHub introduces GPG signature verification,https://github.com/blog/2144-gpg-signature-verification,/u/dz,31
+18,2016-04-05 15:12:28 -0500,"/t/compsci,/t/practices,/t/programming",Writing Good Code: How to Reduce the Cognitive Load of Your Code,http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/,/u/innerspirit,11
+25,2016-04-05 09:35:43 -0500,"/t/distributed,/t/vcs",Introducing DGit,http://githubengineering.com/introducing-dgit/,/u/jtdowney,35
+0,2016-04-06 10:47:43 -0500,/t/games,Path of Exile Development Manifesto - Performance Improvements,https://www.pathofexile.com/forum/view-thread/1642228,/u/bowmanb,4
+7,2016-04-05 10:05:54 -0500,"/t/hardware,/t/practices",The time that Tony Fadell sold me a container of hummus,https://medium.com/@arlogilbert/the-time-that-tony-fadell-sold-me-a-container-of-hummus-cb0941c762c1,/u/lennyt,30

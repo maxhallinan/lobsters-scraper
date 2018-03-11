@@ -1,25 +1,25 @@
-1,2017-08-27 22:55:38 -0500,"['/t/security', '/t/vcs']",Compromise On Checkout — Vulnerabilities in SCM Tools,http://blog.recurity-labs.com/2017-08-10/scm-vulns,/u/cnst,3
-2,2017-08-27 09:50:49 -0500,['/t/python'],Fun with Python's sys.getrefcount(),http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html,/u/quobit,14
-1,2017-08-27 12:39:39 -0500,"['/t/compilers', '/t/haskell', '/t/testing']",Testing GHC release candidates with Stack,http://taylor.fausak.me/2017/05/17/testing-ghc-release-candidates-with-stack/,/u/pushcx,8
-0,2017-08-28 05:21:20 -0500,"['/t/databases', '/t/programming']",Adventures with SQLite and SQLITE_OPEN_EXCLUSIVE,https://mijailovic.net/2017/08/27/sqlite-adventures/,/u/calvin,1
-0,2017-08-27 20:00:43 -0500,"['/t/slides', '/t/databases', '/t/distributed']",Zebras all the way down: The engineering challenges of the data path,https://www.slideshare.net/bcantrill/zebras-all-the-way-down-the-engineering-challenges-of-the-data-path,/u/danielcompton,4
-23,2017-08-27 05:37:35 -0500,['/t/programming'],What makes a good REPL?,http://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html,/u/calvin,10
-0,2017-08-27 16:26:17 -0500,['/t/science'],Rumours swell over new kind of gravitational-wave sighting,http://www.nature.com/news/rumours-swell-over-new-kind-of-gravitational-wave-sighting-1.22482,/u/sanxiyn,3
-0,2017-08-27 11:48:35 -0500,['/t/graphics'],Image Based Lighting,https://chetanjags.wordpress.com/2015/08/26/image-based-lighting/,/u/mikejsavage,5
-0,2017-08-27 16:47:29 -0500,"['/t/ai', '/t/games']",Deep Reinforcement Learning: Pong from Pixels,http://karpathy.github.io/2016/05/31/rl/,/u/calvin,2
-2,2017-08-27 00:52:17 -0500,['/t/web'],4 AJAX Patterns For Vue.js Apps,https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/?jsdojo_id=lob_var,/u/anthonygore,5
-0,2017-08-27 12:36:59 -0500,"['/t/historical', '/t/unix']",The Return of the Cray files (2013-2016),http://www.modularcircuits.com/blog/articles/the-return-of-the-cray-files/,/u/pstef,3
-3,2017-08-27 00:45:32 -0500,"['/t/pdf', '/t/compsci']",BitFunnel: Revisiting Signatures for Search,http://danluu.com/bitfunnel-sigir.pdf,/u/sanxiyn,7
-0,2017-08-27 12:38:53 -0500,"['/t/databases', '/t/security']",Securing Your Database,http://www.vertabelo.com/blog/technical-articles/six-things-you-need-to-know-about-securing-your-database,/u/pushcx,2
-0,2017-08-27 05:38:10 -0500,"['/t/compsci', '/t/vim']",ealter/vim_turing_machine: An implementation of a Turing machine using only normal mode Vim commands,https://github.com/ealter/vim_turing_machine,/u/calvin,5
-9,2017-08-26 21:51:49 -0500,"['/t/c', '/t/javascript', '/t/programming']",What I learnt from coding a text editor in C,http://lpan.io/what-i-learnt-from-viw/,/u/calvin,6
-4,2017-08-26 21:52:26 -0500,['/t/lisp'],Sweet-expressions: A readable format for Lisp-like languages (2006),https://www.dwheeler.com/readable/sweet-expressions.html,/u/calvin,5
-0,2017-08-26 17:23:20 -0500,['/t/networking'],BGP leak causing Internet outages in Japan and beyond,https://bgpmon.net/bgp-leak-causing-internet-outages-in-japan-and-beyond/,/u/sevan,16
-6,2017-08-26 11:00:33 -0500,['/t/programming'],Small Functions considered Harmful,https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29,/u/pushcx,11
-5,2017-08-26 09:16:22 -0500,"['/t/historical', '/t/person']",Lost Turing letters give unique insight into his academic life prior to death,http://www.manchester.ac.uk/discover/news/lost-turing-letters-give-unique-insight-into-his-academic-life-prior-to-death/,/u/colindean,16
-1,2017-08-26 15:29:56 -0500,"['/t/devops', '/t/openbsd']",Ansible OpenBSD Cookbooks,https://github.com/ligurio/openbsd-cookbooks,/u/mischa,8
-0,2017-08-27 00:33:20 -0500,['/t/security'],"Leak of >1,700 valid passwords could make the IoT mess much worse",https://arstechnica.com/information-technology/2017/08/leak-of-1700-valid-passwords-could-make-the-iot-mess-much-worse/,/u/mischa,3
-0,2017-08-26 15:01:14 -0500,"['/t/historical', '/t/math']",The hidden math behind Alice in Wonderland (2010),https://www.maa.org/external_archive/devlin/devlin_03_10.html,/u/adsouza,6
-0,2017-08-26 18:33:08 -0500,"['/t/book', '/t/practices']",books chapter ten,http://www.tedunangst.com/flak/post/books-chapter-ten,/u/calvin,5
-3,2017-08-26 11:31:11 -0500,"['/t/formalmethods', '/t/programming']","Writing a Formally-Verified, Image Browser in Coq",http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html,/u/nickpsecurity,9
-0,2017-08-26 08:49:15 -0500,"['/t/css', '/t/javascript']",State of the art in CSS,https://medium.com/@bloomca/state-of-the-art-in-css-54df6b211d07,/u/bloomca,7
+1,2017-08-27 22:55:38 -0500,"/t/security,/t/vcs",Compromise On Checkout — Vulnerabilities in SCM Tools,http://blog.recurity-labs.com/2017-08-10/scm-vulns,/u/cnst,3
+2,2017-08-27 09:50:49 -0500,/t/python,Fun with Python's sys.getrefcount(),http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html,/u/quobit,14
+1,2017-08-27 12:39:39 -0500,"/t/compilers,/t/haskell,/t/testing",Testing GHC release candidates with Stack,http://taylor.fausak.me/2017/05/17/testing-ghc-release-candidates-with-stack/,/u/pushcx,8
+0,2017-08-28 05:21:20 -0500,"/t/databases,/t/programming",Adventures with SQLite and SQLITE_OPEN_EXCLUSIVE,https://mijailovic.net/2017/08/27/sqlite-adventures/,/u/calvin,1
+0,2017-08-27 20:00:43 -0500,"/t/slides,/t/databases,/t/distributed",Zebras all the way down: The engineering challenges of the data path,https://www.slideshare.net/bcantrill/zebras-all-the-way-down-the-engineering-challenges-of-the-data-path,/u/danielcompton,4
+23,2017-08-27 05:37:35 -0500,/t/programming,What makes a good REPL?,http://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html,/u/calvin,10
+0,2017-08-27 16:26:17 -0500,/t/science,Rumours swell over new kind of gravitational-wave sighting,http://www.nature.com/news/rumours-swell-over-new-kind-of-gravitational-wave-sighting-1.22482,/u/sanxiyn,3
+0,2017-08-27 11:48:35 -0500,/t/graphics,Image Based Lighting,https://chetanjags.wordpress.com/2015/08/26/image-based-lighting/,/u/mikejsavage,5
+0,2017-08-27 16:47:29 -0500,"/t/ai,/t/games",Deep Reinforcement Learning: Pong from Pixels,http://karpathy.github.io/2016/05/31/rl/,/u/calvin,2
+2,2017-08-27 00:52:17 -0500,/t/web,4 AJAX Patterns For Vue.js Apps,https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/?jsdojo_id=lob_var,/u/anthonygore,5
+0,2017-08-27 12:36:59 -0500,"/t/historical,/t/unix",The Return of the Cray files (2013-2016),http://www.modularcircuits.com/blog/articles/the-return-of-the-cray-files/,/u/pstef,3
+3,2017-08-27 00:45:32 -0500,"/t/pdf,/t/compsci",BitFunnel: Revisiting Signatures for Search,http://danluu.com/bitfunnel-sigir.pdf,/u/sanxiyn,7
+0,2017-08-27 12:38:53 -0500,"/t/databases,/t/security",Securing Your Database,http://www.vertabelo.com/blog/technical-articles/six-things-you-need-to-know-about-securing-your-database,/u/pushcx,2
+0,2017-08-27 05:38:10 -0500,"/t/compsci,/t/vim",ealter/vim_turing_machine: An implementation of a Turing machine using only normal mode Vim commands,https://github.com/ealter/vim_turing_machine,/u/calvin,5
+9,2017-08-26 21:51:49 -0500,"/t/c,/t/javascript,/t/programming",What I learnt from coding a text editor in C,http://lpan.io/what-i-learnt-from-viw/,/u/calvin,6
+4,2017-08-26 21:52:26 -0500,/t/lisp,Sweet-expressions: A readable format for Lisp-like languages (2006),https://www.dwheeler.com/readable/sweet-expressions.html,/u/calvin,5
+0,2017-08-26 17:23:20 -0500,/t/networking,BGP leak causing Internet outages in Japan and beyond,https://bgpmon.net/bgp-leak-causing-internet-outages-in-japan-and-beyond/,/u/sevan,16
+6,2017-08-26 11:00:33 -0500,/t/programming,Small Functions considered Harmful,https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29,/u/pushcx,11
+5,2017-08-26 09:16:22 -0500,"/t/historical,/t/person",Lost Turing letters give unique insight into his academic life prior to death,http://www.manchester.ac.uk/discover/news/lost-turing-letters-give-unique-insight-into-his-academic-life-prior-to-death/,/u/colindean,16
+1,2017-08-26 15:29:56 -0500,"/t/devops,/t/openbsd",Ansible OpenBSD Cookbooks,https://github.com/ligurio/openbsd-cookbooks,/u/mischa,8
+0,2017-08-27 00:33:20 -0500,/t/security,"Leak of >1,700 valid passwords could make the IoT mess much worse",https://arstechnica.com/information-technology/2017/08/leak-of-1700-valid-passwords-could-make-the-iot-mess-much-worse/,/u/mischa,3
+0,2017-08-26 15:01:14 -0500,"/t/historical,/t/math",The hidden math behind Alice in Wonderland (2010),https://www.maa.org/external_archive/devlin/devlin_03_10.html,/u/adsouza,6
+0,2017-08-26 18:33:08 -0500,"/t/book,/t/practices",books chapter ten,http://www.tedunangst.com/flak/post/books-chapter-ten,/u/calvin,5
+3,2017-08-26 11:31:11 -0500,"/t/formalmethods,/t/programming","Writing a Formally-Verified, Image Browser in Coq",http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html,/u/nickpsecurity,9
+0,2017-08-26 08:49:15 -0500,"/t/css,/t/javascript",State of the art in CSS,https://medium.com/@bloomca/state-of-the-art-in-css-54df6b211d07,/u/bloomca,7

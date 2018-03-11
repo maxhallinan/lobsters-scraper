@@ -1,25 +1,25 @@
-0,2016-01-27 02:45:21 -0600,['/t/practices'],"In a commercial context, underestimate your programming abilities",https://medium.com/@fronx/in-a-commercial-context-underestimate-your-programming-abilities-ccc56c4f99eb,/u/antifuchs,6
-10,2016-01-26 07:50:53 -0600,"['/t/emacs', '/t/release', '/t/vim']",Why Spacemacs?,http://www.lunaryorn.com/2016/01/26/why-spacemacs.html,/u/algernon,22
-1,2016-01-27 02:56:50 -0600,"['/t/networking', '/t/security']",The Rising Sophistication of Network Scanning,http://netpatterns.blogspot.com/2016/01/the-rising-sophistication-of-network.html,/u/noelle,4
-16,2016-01-26 08:09:47 -0600,['/t/practices'],Your Development Environment is Probably an Eldritch Horror,http://us1.campaign-archive2.com/?u=63dd6f4a664035e73b029e534&id=b7162c05b0&e=5281234c8d,/u/pushcx,18
-0,2016-01-26 16:31:26 -0600,"['/t/javascript', '/t/testing']",Progress bar noticeably slows down npm install · Issue #11283 · npm/npm,https://github.com/npm/npm/issues/11283#issuecomment-175246823,/u/friendlysock,14
-0,2016-01-26 17:28:41 -0600,"['/t/law', '/t/privacy']","""No Cost"" License Plate Readers Are Turning Texas Police into Mobile Debt Collectors and Data Miners",https://www.eff.org/deeplinks/2016/01/no-cost-license-plate-readers-are-turning-texas-police-mobile-debt-collectors-and,/u/halosghost,11
-0,2016-01-27 09:23:27 -0600,['/t/devops'],OneOps - multi cloud orchestation,http://www.oneops.com/,/u/shanemhansen,1
-0,2016-01-26 14:33:47 -0600,"['/t/elm', '/t/web']",State of Elm 2016 (Survey),https://elm.brianthicks.com/state-of-elm/2016/survey/,/u/brianhicks,7
-3,2016-01-26 05:30:34 -0600,"['/t/javascript', '/t/web']",The Controversial State of JavaScript Tooling,https://ponyfoo.com/articles/controversial-state-of-javascript-tooling,/u/ponyfoo,12
-2,2016-01-26 16:21:44 -0600,"['/t/video', '/t/practices']","Richard Cook, ""How Complex Systems Fail"" (2012)",https://www.youtube.com/watch?v=2S0k12uZR14,/u/apg,6
-3,2016-01-26 07:43:17 -0600,"['/t/show', '/t/go']",Distributed website load testing using AWS Lambdas,https://github.com/gophergala2016/goad,/u/matias,11
-7,2016-01-26 10:31:31 -0600,"['/t/hardware', '/t/mac']",simulated Model M noises for OSX,https://github.com/millerjs/modelm,/u/jamesjporter,9
-2,2016-01-27 01:57:50 -0600,"['/t/design', '/t/rant']",The dangerous “UI team”,http://blog.ometer.com/2016/01/26/the-dangerous-ui-team/,/u/algernon,5
-1,2016-01-26 21:34:00 -0600,"['/t/person', '/t/unix', '/t/windows']",The U.S. Government and Open Standards: A Tale of Personal Woe,http://thevarguy.com/open-source-application-software-companies/us-government-and-open-standards-tale-personal-woe,/u/colindean,4
-0,2016-01-26 16:20:25 -0600,['/t/javascript'],The real reason to avoid jQuery,http://blog.isleofcode.com/the-real-reason-to-avoid-jquery/,/u/pushcx,7
-1,2016-01-26 11:22:20 -0600,['/t/networking'],A rant about whois,http://fanf.livejournal.com/140505.html,/u/uggedal,9
-1,2016-01-26 10:43:24 -0600,"['/t/privacy', '/t/security', '/t/web']",HTTPS provides more than just privacy,https://certsimple.com/blog/ssl-why-do-i-need-it,/u/pushcx,9
-4,2016-01-25 20:58:02 -0600,['/t/person'],"Marvin Minsky, Pioneer in Artificial Intelligence, Dies at 88",http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0,/u/av,34
-0,2016-01-26 11:01:57 -0600,"['/t/graphics', '/t/release']",G'MIC Image Processing Library,https://github.com/dtschump/gmic,/u/pushcx,7
-0,2016-01-26 16:39:36 -0600,"['/t/javascript', '/t/release']",Preact: Smaller & faster subset of React with compatible API,https://github.com/developit/preact,/u/pushcx,3
-0,2016-01-26 16:16:55 -0600,"['/t/culture', '/t/practices']",The High Price of Free,http://alistapart.com/article/the-high-price-of-free,/u/flyingfisch,6
-1,2016-01-26 09:35:03 -0600,['/t/security'],[openssl-announce] Forthcoming OpenSSL releases,https://mta.openssl.org/pipermail/openssl-announce/2016-January/000058.html,/u/fkooman,4
-0,2016-01-26 11:39:29 -0600,"['/t/ruby', '/t/web']",Upgrading to Ruby on Rails 5.0,http://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0,/u/wyeworks,2
-0,2016-01-26 14:24:26 -0600,['/t/javascript'],Does Curry Help?,https://hughfdjackson.com/javascript/does-curry-help/,/u/pushcx,3
-18,2016-01-25 10:40:56 -0600,['/t/vcs'],I'm going to slowly move on from Mercurial,https://www.mercurial-scm.org/wiki/mpm/transition,/u/JordiGH,35
+0,2016-01-27 02:45:21 -0600,/t/practices,"In a commercial context, underestimate your programming abilities",https://medium.com/@fronx/in-a-commercial-context-underestimate-your-programming-abilities-ccc56c4f99eb,/u/antifuchs,6
+10,2016-01-26 07:50:53 -0600,"/t/emacs,/t/release,/t/vim",Why Spacemacs?,http://www.lunaryorn.com/2016/01/26/why-spacemacs.html,/u/algernon,22
+1,2016-01-27 02:56:50 -0600,"/t/networking,/t/security",The Rising Sophistication of Network Scanning,http://netpatterns.blogspot.com/2016/01/the-rising-sophistication-of-network.html,/u/noelle,4
+16,2016-01-26 08:09:47 -0600,/t/practices,Your Development Environment is Probably an Eldritch Horror,http://us1.campaign-archive2.com/?u=63dd6f4a664035e73b029e534&id=b7162c05b0&e=5281234c8d,/u/pushcx,18
+0,2016-01-26 16:31:26 -0600,"/t/javascript,/t/testing",Progress bar noticeably slows down npm install · Issue #11283 · npm/npm,https://github.com/npm/npm/issues/11283#issuecomment-175246823,/u/friendlysock,14
+0,2016-01-26 17:28:41 -0600,"/t/law,/t/privacy","""No Cost"" License Plate Readers Are Turning Texas Police into Mobile Debt Collectors and Data Miners",https://www.eff.org/deeplinks/2016/01/no-cost-license-plate-readers-are-turning-texas-police-mobile-debt-collectors-and,/u/halosghost,11
+0,2016-01-27 09:23:27 -0600,/t/devops,OneOps - multi cloud orchestation,http://www.oneops.com/,/u/shanemhansen,1
+0,2016-01-26 14:33:47 -0600,"/t/elm,/t/web",State of Elm 2016 (Survey),https://elm.brianthicks.com/state-of-elm/2016/survey/,/u/brianhicks,7
+3,2016-01-26 05:30:34 -0600,"/t/javascript,/t/web",The Controversial State of JavaScript Tooling,https://ponyfoo.com/articles/controversial-state-of-javascript-tooling,/u/ponyfoo,12
+2,2016-01-26 16:21:44 -0600,"/t/video,/t/practices","Richard Cook, ""How Complex Systems Fail"" (2012)",https://www.youtube.com/watch?v=2S0k12uZR14,/u/apg,6
+3,2016-01-26 07:43:17 -0600,"/t/show,/t/go",Distributed website load testing using AWS Lambdas,https://github.com/gophergala2016/goad,/u/matias,11
+7,2016-01-26 10:31:31 -0600,"/t/hardware,/t/mac",simulated Model M noises for OSX,https://github.com/millerjs/modelm,/u/jamesjporter,9
+2,2016-01-27 01:57:50 -0600,"/t/design,/t/rant",The dangerous “UI team”,http://blog.ometer.com/2016/01/26/the-dangerous-ui-team/,/u/algernon,5
+1,2016-01-26 21:34:00 -0600,"/t/person,/t/unix,/t/windows",The U.S. Government and Open Standards: A Tale of Personal Woe,http://thevarguy.com/open-source-application-software-companies/us-government-and-open-standards-tale-personal-woe,/u/colindean,4
+0,2016-01-26 16:20:25 -0600,/t/javascript,The real reason to avoid jQuery,http://blog.isleofcode.com/the-real-reason-to-avoid-jquery/,/u/pushcx,7
+1,2016-01-26 11:22:20 -0600,/t/networking,A rant about whois,http://fanf.livejournal.com/140505.html,/u/uggedal,9
+1,2016-01-26 10:43:24 -0600,"/t/privacy,/t/security,/t/web",HTTPS provides more than just privacy,https://certsimple.com/blog/ssl-why-do-i-need-it,/u/pushcx,9
+4,2016-01-25 20:58:02 -0600,/t/person,"Marvin Minsky, Pioneer in Artificial Intelligence, Dies at 88",http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0,/u/av,34
+0,2016-01-26 11:01:57 -0600,"/t/graphics,/t/release",G'MIC Image Processing Library,https://github.com/dtschump/gmic,/u/pushcx,7
+0,2016-01-26 16:39:36 -0600,"/t/javascript,/t/release",Preact: Smaller & faster subset of React with compatible API,https://github.com/developit/preact,/u/pushcx,3
+0,2016-01-26 16:16:55 -0600,"/t/culture,/t/practices",The High Price of Free,http://alistapart.com/article/the-high-price-of-free,/u/flyingfisch,6
+1,2016-01-26 09:35:03 -0600,/t/security,[openssl-announce] Forthcoming OpenSSL releases,https://mta.openssl.org/pipermail/openssl-announce/2016-January/000058.html,/u/fkooman,4
+0,2016-01-26 11:39:29 -0600,"/t/ruby,/t/web",Upgrading to Ruby on Rails 5.0,http://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0,/u/wyeworks,2
+0,2016-01-26 14:24:26 -0600,/t/javascript,Does Curry Help?,https://hughfdjackson.com/javascript/does-curry-help/,/u/pushcx,3
+18,2016-01-25 10:40:56 -0600,/t/vcs,I'm going to slowly move on from Mercurial,https://www.mercurial-scm.org/wiki/mpm/transition,/u/JordiGH,35

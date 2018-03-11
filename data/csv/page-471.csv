@@ -1,25 +1,25 @@
-34,2017-02-26 06:14:47 -0600,"['/t/culture', '/t/law']",FBI's 'Gamergate' file says prosecutors declined to charge men believed to have sent death threats — even when they confessed on video,http://www.businessinsider.com/gamergate-fbi-file-2017-2,/u/adsouza,17
-4,2017-02-25 14:34:58 -0600,"['/t/culture', '/t/freebsd']","“Hi, I’m jkh and I’m a d**k”",https://blather.michaelwlucas.com/archives/2873,/u/jcs,23
-0,2017-02-25 20:23:33 -0600,"['/t/api', '/t/linux']",A Guide Through The Linux Sound API Jungle,http://0pointer.de/blog/projects/guide-to-sound-apis.html,/u/calvin,6
-0,2017-02-25 07:54:12 -0600,"['/t/crypto', '/t/release']",BLAKE2 — fast secure hashing,https://blake2.net/,/u/calvin,16
-0,2017-02-25 19:34:36 -0600,"['/t/pdf', '/t/databases']",Access method extendability in PostgreSQL,http://www.sai.msu.su/~megera/postgres/talks/Createam.pdf,/u/davyjones,4
-3,2017-02-25 03:00:32 -0600,['/t/openbsd'],The OpenBSD Foundation 2017 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2017.html,/u/fcambus,17
-33,2017-02-24 20:40:01 -0600,"['/t/practices', '/t/programming']",Why it’s hard for programmers to write a program to flatten a list?,https://shekhargulati.com/2017/02/24/why-its-hard-for-programmers-to-write-a-program-to-flatten-a-list/,/u/pushcx,20
-0,2017-02-25 13:23:26 -0600,['/t/culture'],The power of role models,https://commandcenter.blogspot.com/2017/02/the-power-of-role-models.html,/u/friendlysock,11
-1,2017-02-25 07:38:33 -0600,"['/t/video', '/t/games']",Atari 2600 Emulator in Minecraft,https://www.youtube.com/watch?v=5nViIUfDMJg,/u/jackivan88,5
-13,2017-02-24 10:25:27 -0600,"['/t/crypto', '/t/vcs']",Webkit breaks their SVN with shattered SHA1 PDFs,https://bugs.webkit.org/show_bug.cgi?id=168774#c29,/u/stsp,38
-0,2017-02-25 10:59:23 -0600,"['/t/math', '/t/security']",Using Ordered Markov Chains and User Information to speed up Password Cracking,https://medium.com/@faizann20/using-ordered-markov-chains-and-user-information-to-speed-up-password-cracking-d8b2718a502e,/u/friendlysock,3
-1,2017-02-25 07:03:56 -0600,['/t/historical'],"If Xerox PARC Invented the PC, Google Invented the Internet",https://www.wired.com/2012/08/google-as-xerox-parc/,/u/Dawny33,3
-1,2017-02-24 15:03:17 -0600,"['/t/pdf', '/t/vcs']",A new way to edit a stack of commits,http://files.lihdd.net/hgabsorb-note.pdf,/u/JordiGH,18
-7,2017-02-24 12:02:24 -0600,['/t/cogsci'],"Toddlers’ grammar skills are learned, not innate",http://news.stanford.edu/2017/02/22/new-research-toddlers-grammar-skills-learned-not-innate/,/u/pushcx,12
-0,2017-02-24 13:36:30 -0600,"['/t/hardware', '/t/historical']",Who Needs GPS? The Forgotten Story of Etak's Amazing 1985 Car Navigation System,https://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system,/u/calvin,20
-1,2017-02-25 18:39:07 -0600,"['/t/ask', '/t/programming']",what are the plan of git for migration from sha1 ?,/s/0zduv1/what_are_plan_git_for_migration_from_sha1,/u/xcombelle,0
-26,2017-02-23 17:30:27 -0600,"['/t/networking', '/t/security']",Incident report on memory leak caused by Cloudflare parser bug,http://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/,/u/antifuchs,88
-7,2017-02-24 13:37:55 -0600,['/t/databases'],"Fast ACID: 120,000 distributed consistent writes per second with Calvin and FaunaDB",https://fauna.com/blog/distributed-acid-transaction-performance,/u/jchris,11
-1,2017-02-24 20:28:19 -0600,"['/t/assembly', '/t/compsci']",SIMD-friendly algorithms for substring searching,http://0x80.pl/articles/simd-strfind.html,/u/mjn,6
-1,2017-02-24 16:48:09 -0600,"['/t/go', '/t/programming', '/t/web']",comment free codex,http://www.tedunangst.com/flak/post/comment-free-codex,/u/calvin,8
-3,2017-02-24 01:18:44 -0600,"['/t/security', '/t/vcs']",Linus' reply on Git and SHA-1 collision,http://marc.info/?l=git&m=148787047422954,/u/av,39
-0,2017-02-25 08:23:12 -0600,"['/t/pdf', '/t/math']",Facebook Incubator - Forecasting at scale,https://facebookincubator.github.io/prophet/static/prophet_paper_20170113.pdf,/u/Dawny33,1
-9,2017-02-24 01:32:29 -0600,['/t/security'],Lifetimes of cryptographic hash functions,http://valerieaurora.org/hash.html,/u/av,27
-1,2017-02-24 07:30:22 -0600,"['/t/security', '/t/web']","CloudFlare, We Have A Problem",http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/,/u/pizzaiolo,17
-25,2017-02-24 01:36:23 -0600,"['/t/databases', '/t/practices']",An idiot’s guide to fulltext search in PostgreSQL,https://lo.calho.st/databases/an-idiots-guide-to-fulltext-search-in-postgresql/,/u/av,18
+34,2017-02-26 06:14:47 -0600,"/t/culture,/t/law",FBI's 'Gamergate' file says prosecutors declined to charge men believed to have sent death threats — even when they confessed on video,http://www.businessinsider.com/gamergate-fbi-file-2017-2,/u/adsouza,17
+4,2017-02-25 14:34:58 -0600,"/t/culture,/t/freebsd","“Hi, I’m jkh and I’m a d**k”",https://blather.michaelwlucas.com/archives/2873,/u/jcs,23
+0,2017-02-25 20:23:33 -0600,"/t/api,/t/linux",A Guide Through The Linux Sound API Jungle,http://0pointer.de/blog/projects/guide-to-sound-apis.html,/u/calvin,6
+0,2017-02-25 07:54:12 -0600,"/t/crypto,/t/release",BLAKE2 — fast secure hashing,https://blake2.net/,/u/calvin,16
+0,2017-02-25 19:34:36 -0600,"/t/pdf,/t/databases",Access method extendability in PostgreSQL,http://www.sai.msu.su/~megera/postgres/talks/Createam.pdf,/u/davyjones,4
+3,2017-02-25 03:00:32 -0600,/t/openbsd,The OpenBSD Foundation 2017 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2017.html,/u/fcambus,17
+33,2017-02-24 20:40:01 -0600,"/t/practices,/t/programming",Why it’s hard for programmers to write a program to flatten a list?,https://shekhargulati.com/2017/02/24/why-its-hard-for-programmers-to-write-a-program-to-flatten-a-list/,/u/pushcx,20
+0,2017-02-25 13:23:26 -0600,/t/culture,The power of role models,https://commandcenter.blogspot.com/2017/02/the-power-of-role-models.html,/u/friendlysock,11
+1,2017-02-25 07:38:33 -0600,"/t/video,/t/games",Atari 2600 Emulator in Minecraft,https://www.youtube.com/watch?v=5nViIUfDMJg,/u/jackivan88,5
+13,2017-02-24 10:25:27 -0600,"/t/crypto,/t/vcs",Webkit breaks their SVN with shattered SHA1 PDFs,https://bugs.webkit.org/show_bug.cgi?id=168774#c29,/u/stsp,38
+0,2017-02-25 10:59:23 -0600,"/t/math,/t/security",Using Ordered Markov Chains and User Information to speed up Password Cracking,https://medium.com/@faizann20/using-ordered-markov-chains-and-user-information-to-speed-up-password-cracking-d8b2718a502e,/u/friendlysock,3
+1,2017-02-25 07:03:56 -0600,/t/historical,"If Xerox PARC Invented the PC, Google Invented the Internet",https://www.wired.com/2012/08/google-as-xerox-parc/,/u/Dawny33,3
+1,2017-02-24 15:03:17 -0600,"/t/pdf,/t/vcs",A new way to edit a stack of commits,http://files.lihdd.net/hgabsorb-note.pdf,/u/JordiGH,18
+7,2017-02-24 12:02:24 -0600,/t/cogsci,"Toddlers’ grammar skills are learned, not innate",http://news.stanford.edu/2017/02/22/new-research-toddlers-grammar-skills-learned-not-innate/,/u/pushcx,12
+0,2017-02-24 13:36:30 -0600,"/t/hardware,/t/historical",Who Needs GPS? The Forgotten Story of Etak's Amazing 1985 Car Navigation System,https://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system,/u/calvin,20
+1,2017-02-25 18:39:07 -0600,"/t/ask,/t/programming",what are the plan of git for migration from sha1 ?,/s/0zduv1/what_are_plan_git_for_migration_from_sha1,/u/xcombelle,0
+26,2017-02-23 17:30:27 -0600,"/t/networking,/t/security",Incident report on memory leak caused by Cloudflare parser bug,http://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/,/u/antifuchs,88
+7,2017-02-24 13:37:55 -0600,/t/databases,"Fast ACID: 120,000 distributed consistent writes per second with Calvin and FaunaDB",https://fauna.com/blog/distributed-acid-transaction-performance,/u/jchris,11
+1,2017-02-24 20:28:19 -0600,"/t/assembly,/t/compsci",SIMD-friendly algorithms for substring searching,http://0x80.pl/articles/simd-strfind.html,/u/mjn,6
+1,2017-02-24 16:48:09 -0600,"/t/go,/t/programming,/t/web",comment free codex,http://www.tedunangst.com/flak/post/comment-free-codex,/u/calvin,8
+3,2017-02-24 01:18:44 -0600,"/t/security,/t/vcs",Linus' reply on Git and SHA-1 collision,http://marc.info/?l=git&m=148787047422954,/u/av,39
+0,2017-02-25 08:23:12 -0600,"/t/pdf,/t/math",Facebook Incubator - Forecasting at scale,https://facebookincubator.github.io/prophet/static/prophet_paper_20170113.pdf,/u/Dawny33,1
+9,2017-02-24 01:32:29 -0600,/t/security,Lifetimes of cryptographic hash functions,http://valerieaurora.org/hash.html,/u/av,27
+1,2017-02-24 07:30:22 -0600,"/t/security,/t/web","CloudFlare, We Have A Problem",http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/,/u/pizzaiolo,17
+25,2017-02-24 01:36:23 -0600,"/t/databases,/t/practices",An idiot’s guide to fulltext search in PostgreSQL,https://lo.calho.st/databases/an-idiots-guide-to-fulltext-search-in-postgresql/,/u/av,18

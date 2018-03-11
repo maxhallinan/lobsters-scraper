@@ -1,25 +1,25 @@
-1,2014-09-26 15:01:12 -0500,"['/t/c', '/t/design']",John Carmack on inlining functions,http://www.number-none.com/blow/john_carmack_on_inlined_code.html,/u/wting,19
-0,2014-09-27 13:01:06 -0500,"['/t/compsci', '/t/ml']",ML programmer's guide to ATS - liulk @ cs-people,http://cs.likai.org/ats/ml-programmers-guide-to-ats,/u/animatronic,1
-10,2014-09-26 10:54:01 -0500,"['/t/law', '/t/security']","Free Software Foundation statement on the GNU Bash ""shellshock"" vulnerability",http://www.fsf.org/news/free-software-foundation-statement-on-the-gnu-bash-shellshock-vulnerability,/u/journeysquid,14
-0,2014-09-26 16:33:21 -0500,['/t/hardware'],Why the Z-80's data pins are scrambled,http://www.righto.com/2014/09/why-z-80s-data-pins-are-scrambled.html,/u/pushcx,12
-3,2014-09-26 10:46:00 -0500,"['/t/compsci', '/t/design']",The Dependency Elimination Principle,http://qualityisspeed.blogspot.com/2014/09/beyond-solid-dependency-elimination.html,/u/jm,11
-0,2014-09-26 18:31:25 -0500,['/t/go'],Deploying Go servers with Docker,http://blog.golang.org/docker,/u/jpadilla,5
-9,2014-09-25 19:27:06 -0500,"['/t/c', '/t/lisp', '/t/programming']",Announcing Clasp - an LLVM implementation of Common Lisp,http://drmeister.wordpress.com/2014/09/18/announcing-clasp/,/u/Nowaker,23
-0,2014-09-26 15:33:43 -0500,"['/t/reversing', '/t/ruby']",Breaking the Silk Road's Captcha,https://github.com/mieko/sr-captcha/blob/gh-pages/index.md,/u/fcbsd,3
-0,2014-09-26 15:56:47 -0500,['/t/security'],How to Protect your Server Against the Shellshock Bash Vulnerability,https://www.digitalocean.com/community/tutorials/how-to-protect-your-server-against-the-shellshock-bash-vulnerability,/u/crtr,2
-0,2014-09-26 18:50:45 -0500,['/t/java'],"Backport of Java 8's lambda expressions to Java 7, 6 and 5",https://github.com/orfjackal/retrolambda,/u/animatronic,1
-0,2014-09-26 06:24:36 -0500,"['/t/compsci', '/t/distributed', '/t/release']",Open Sourcing ml-ease,http://engineering.linkedin.com/large-scale-machine-learning/open-sourcing-ml-ease,/u/tobym,4
-0,2014-09-25 22:00:13 -0500,"['/t/emacs', '/t/vim']",From Vim to Emacs + Evil chaotic migration guide,http://juanjoalvarez.net/es/detail/2014/sep/19/vim-emacsevil-chaotic-migration-guide/,/u/pushcx,9
-0,2014-09-26 17:52:54 -0500,"['/t/culture', '/t/programming']",HTML version of the old DOS HelpPC Reference Library,http://stanislavs.org/helppc/,/u/zem,1
-2,2014-09-25 15:17:57 -0500,"['/t/devops', '/t/security']",CVE-2014-6271 And You: A Tale Of Nagios And The Bash Exploit,http://blog.threatstack.com/labs/2014/9/25/cve-2014-6271-and-you-a-tale-of-nagios-and-the-bash-exploit,/u/byoung,13
-2,2014-09-25 08:16:24 -0500,['/t/programming'],The point of abstraction,http://lambdatoast.com/programming/2014/09/20/the-point-of-abstraction.html,/u/puffnfresh,15
-0,2014-09-26 10:51:52 -0500,"['/t/video', '/t/culture', '/t/practices']",Spotify Engineering Culture - part 1,http://vimeo.com/85490944,/u/apg,1
-0,2014-09-25 11:39:29 -0500,"['/t/video', '/t/haskell', '/t/programming']",HIW 2014: Lennart Augustsson: Better type-error messages,https://www.youtube.com/watch?v=rdVqQUOvxSU,/u/bitemyapp,8
-0,2014-09-25 12:12:40 -0500,"['/t/ruby', '/t/web']",Wrapping Your API In A Custom Ruby Gem,https://blog.engineyard.com/2014/wrapping-your-api-in-a-ruby-gem,/u/PJ,6
-0,2014-09-25 11:45:21 -0500,"['/t/games', '/t/programming']","Declarative Game Programming -- slides, videos and code",http://keera.co.uk/blog/2014/09/24/game-programming-videos-code/,/u/bitemyapp,6
-14,2014-09-24 11:21:11 -0500,['/t/security'],Bash specially-crafted environment variables code injection attack,https://securityblog.redhat.com/2014/09/24/bash-specially-crafted-environment-variables-code-injection-attack/,/u/pushcx,48
-1,2014-09-25 15:59:42 -0500,"['/t/devops', '/t/web']",Using New Enhanced Webhooks for Fun & Profit,http://www.jhand.ml/webhooks,/u/jhand,1
-0,2014-09-25 18:51:49 -0500,"['/t/programming', '/t/vcs']",Clog: a conventional changelog generator,http://blog.thoughtram.io/posts/anouncing-clog-a-conventional-changelog-generator-for-the-rest-of-us/,/u/steveklabnik,1
-0,2014-09-25 18:09:19 -0500,"['/t/api', '/t/ruby']",Hacking the GMail API - Part 1: Connecting Your Rails App Using OAuth,https://www.twilio.com/blog/2014/09/gmail-api-oauth-rails.html,/u/crtr,1
-0,2014-09-25 07:04:40 -0500,['/t/ruby'],The Shape at the Bottom of All Things,http://www.sandimetz.com/blog/2014/9/9/shape-at-the-bottom-of-all-things,/u/pushcx,5
-7,2014-09-24 11:50:11 -0500,"['/t/design', '/t/programming']",The Craft of Text Editing,http://www.finseth.com/craft/index.html#preface,/u/jasontbradshaw,13
+1,2014-09-26 15:01:12 -0500,"/t/c,/t/design",John Carmack on inlining functions,http://www.number-none.com/blow/john_carmack_on_inlined_code.html,/u/wting,19
+0,2014-09-27 13:01:06 -0500,"/t/compsci,/t/ml",ML programmer's guide to ATS - liulk @ cs-people,http://cs.likai.org/ats/ml-programmers-guide-to-ats,/u/animatronic,1
+10,2014-09-26 10:54:01 -0500,"/t/law,/t/security","Free Software Foundation statement on the GNU Bash ""shellshock"" vulnerability",http://www.fsf.org/news/free-software-foundation-statement-on-the-gnu-bash-shellshock-vulnerability,/u/journeysquid,14
+0,2014-09-26 16:33:21 -0500,/t/hardware,Why the Z-80's data pins are scrambled,http://www.righto.com/2014/09/why-z-80s-data-pins-are-scrambled.html,/u/pushcx,12
+3,2014-09-26 10:46:00 -0500,"/t/compsci,/t/design",The Dependency Elimination Principle,http://qualityisspeed.blogspot.com/2014/09/beyond-solid-dependency-elimination.html,/u/jm,11
+0,2014-09-26 18:31:25 -0500,/t/go,Deploying Go servers with Docker,http://blog.golang.org/docker,/u/jpadilla,5
+9,2014-09-25 19:27:06 -0500,"/t/c,/t/lisp,/t/programming",Announcing Clasp - an LLVM implementation of Common Lisp,http://drmeister.wordpress.com/2014/09/18/announcing-clasp/,/u/Nowaker,23
+0,2014-09-26 15:33:43 -0500,"/t/reversing,/t/ruby",Breaking the Silk Road's Captcha,https://github.com/mieko/sr-captcha/blob/gh-pages/index.md,/u/fcbsd,3
+0,2014-09-26 15:56:47 -0500,/t/security,How to Protect your Server Against the Shellshock Bash Vulnerability,https://www.digitalocean.com/community/tutorials/how-to-protect-your-server-against-the-shellshock-bash-vulnerability,/u/crtr,2
+0,2014-09-26 18:50:45 -0500,/t/java,"Backport of Java 8's lambda expressions to Java 7, 6 and 5",https://github.com/orfjackal/retrolambda,/u/animatronic,1
+0,2014-09-26 06:24:36 -0500,"/t/compsci,/t/distributed,/t/release",Open Sourcing ml-ease,http://engineering.linkedin.com/large-scale-machine-learning/open-sourcing-ml-ease,/u/tobym,4
+0,2014-09-25 22:00:13 -0500,"/t/emacs,/t/vim",From Vim to Emacs + Evil chaotic migration guide,http://juanjoalvarez.net/es/detail/2014/sep/19/vim-emacsevil-chaotic-migration-guide/,/u/pushcx,9
+0,2014-09-26 17:52:54 -0500,"/t/culture,/t/programming",HTML version of the old DOS HelpPC Reference Library,http://stanislavs.org/helppc/,/u/zem,1
+2,2014-09-25 15:17:57 -0500,"/t/devops,/t/security",CVE-2014-6271 And You: A Tale Of Nagios And The Bash Exploit,http://blog.threatstack.com/labs/2014/9/25/cve-2014-6271-and-you-a-tale-of-nagios-and-the-bash-exploit,/u/byoung,13
+2,2014-09-25 08:16:24 -0500,/t/programming,The point of abstraction,http://lambdatoast.com/programming/2014/09/20/the-point-of-abstraction.html,/u/puffnfresh,15
+0,2014-09-26 10:51:52 -0500,"/t/video,/t/culture,/t/practices",Spotify Engineering Culture - part 1,http://vimeo.com/85490944,/u/apg,1
+0,2014-09-25 11:39:29 -0500,"/t/video,/t/haskell,/t/programming",HIW 2014: Lennart Augustsson: Better type-error messages,https://www.youtube.com/watch?v=rdVqQUOvxSU,/u/bitemyapp,8
+0,2014-09-25 12:12:40 -0500,"/t/ruby,/t/web",Wrapping Your API In A Custom Ruby Gem,https://blog.engineyard.com/2014/wrapping-your-api-in-a-ruby-gem,/u/PJ,6
+0,2014-09-25 11:45:21 -0500,"/t/games,/t/programming","Declarative Game Programming -- slides, videos and code",http://keera.co.uk/blog/2014/09/24/game-programming-videos-code/,/u/bitemyapp,6
+14,2014-09-24 11:21:11 -0500,/t/security,Bash specially-crafted environment variables code injection attack,https://securityblog.redhat.com/2014/09/24/bash-specially-crafted-environment-variables-code-injection-attack/,/u/pushcx,48
+1,2014-09-25 15:59:42 -0500,"/t/devops,/t/web",Using New Enhanced Webhooks for Fun & Profit,http://www.jhand.ml/webhooks,/u/jhand,1
+0,2014-09-25 18:51:49 -0500,"/t/programming,/t/vcs",Clog: a conventional changelog generator,http://blog.thoughtram.io/posts/anouncing-clog-a-conventional-changelog-generator-for-the-rest-of-us/,/u/steveklabnik,1
+0,2014-09-25 18:09:19 -0500,"/t/api,/t/ruby",Hacking the GMail API - Part 1: Connecting Your Rails App Using OAuth,https://www.twilio.com/blog/2014/09/gmail-api-oauth-rails.html,/u/crtr,1
+0,2014-09-25 07:04:40 -0500,/t/ruby,The Shape at the Bottom of All Things,http://www.sandimetz.com/blog/2014/9/9/shape-at-the-bottom-of-all-things,/u/pushcx,5
+7,2014-09-24 11:50:11 -0500,"/t/design,/t/programming",The Craft of Text Editing,http://www.finseth.com/craft/index.html#preface,/u/jasontbradshaw,13

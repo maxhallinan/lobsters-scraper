@@ -1,25 +1,25 @@
-1,2017-02-07 12:50:01 -0600,['/t/reversing'],Life Is Strange Server Investigation,https://blog.b303.me/2017/02/07/life-is-strange-server-investigation/,/u/calvin,6
-2,2017-02-07 10:40:34 -0600,"['/t/assembly', '/t/linux']","Pure assembly, library-free Linux threading demo",https://github.com/skeeto/pure-linux-threads-demo,/u/hawski,8
-0,2017-02-07 11:53:39 -0600,"['/t/haskell', '/t/release']",Why prove programs equivalent when your compiler can do that for you?,http://www.joachim-breitner.de/blog/717-Why_prove_programs_equivalent_when_your_compiler_can_do_that_for_you_,/u/pushcx,9
-7,2017-02-06 22:53:14 -0600,"['/t/historical', '/t/perl', '/t/web']",A great disturbance in the force (imdb boards no more),https://www.beatworm.co.uk/blog/internet/imdb-boards-no-more,/u/brynet,23
-1,2017-02-07 17:31:59 -0600,"['/t/pdf', '/t/programming', '/t/security']",We Need Assurance! (2005),https://www.acsac.org/2005/papers/Snow.pdf,/u/nickpsecurity,4
-2,2017-02-07 07:49:25 -0600,['/t/dotnet'],The 68 things the CLR does before executing a single line of your code (*),http://www.mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/,/u/flyingfisch,8
-6,2017-02-07 09:33:36 -0600,['/t/ask'],does anyone have experience with Tectia ssh versus openssh?,/s/6fpm0q/does_anyone_have_experience_with_tectia,/u/vyodaiken,4
-0,2017-02-07 10:06:38 -0600,['/t/programming'],Lessons from Real-Time Programming class,https://medium.com/@sunapi386/lessons-from-real-time-programming-class-b64544717348,/u/calvin,7
-1,2017-02-07 11:11:01 -0600,"['/t/historical', '/t/programming']",ColorForth and the Art of the Impossible,http://www.inventio.co.uk/colorForth%20and%20the%20Art%20of%20the%20Impossible.htm,/u/apg,4
-2,2017-02-08 04:53:55 -0600,"['/t/audio', '/t/practices']",LeadWise Podcast: New Ricardo Semler's Podcast,http://podcast.leadwise.co/,/u/dgv,0
-2,2017-02-07 13:36:03 -0600,"['/t/pdf', '/t/culture']",Anyone Can Become a Troll,https://files.clr3.com/papers/2017_anyone.pdf,/u/kb,7
-0,2017-02-07 12:14:22 -0600,['/t/design'],I Don’t Need Help,http://alistapart.com/article/i-dont-need-help,/u/flyingfisch,4
-8,2017-02-06 15:26:19 -0600,['/t/practices'],Why Don't We Have a General Purpose Tree Editor?,http://pcmonk.me/2014/04/01/why-dont-we-have-a-general-purpose-tree-editor.html,/u/bitemyapp,21
-1,2017-02-07 05:19:01 -0600,"['/t/video', '/t/browsers', '/t/programming', '/t/rust']",Servo Architecture: Safety and Performance,https://www.youtube.com/watch?v=an5abNFba4Q,/u/brendan,6
-14,2017-02-06 13:18:17 -0600,"['/t/privacy', '/t/web']",Is Gravatar a privacy risk?,http://meta.stackexchange.com/questions/44717/is-gravatar-a-privacy-risk,/u/bitemyapp,22
-13,2017-02-06 09:30:21 -0600,"['/t/databases', '/t/law', '/t/release']",The liberation of RethinkDB,https://www.joyent.com/blog/the-liberation-of-rethinkdb,/u/mjturner,31
-0,2017-02-07 00:57:33 -0600,"['/t/programming', '/t/unix']","Translating Shell to Oil, Part Two",http://www.oilshell.org/blog/2017/02/06.html,/u/andyc,6
-3,2017-02-06 21:00:18 -0600,"['/t/ask', '/t/practices', '/t/unix']",Are there tools that you use heavily without any configuration?,/s/cgvi5j/are_there_tools_you_use_heavily_without,/u/vfoley,5
-5,2017-02-06 14:15:53 -0600,['/t/rust'],Rust's 2017 roadmap,http://blog.rust-lang.org/2017/02/06/roadmap.html,/u/brinker,28
-0,2017-02-07 03:51:16 -0600,"['/t/security', '/t/windows']",Microsoft Fails to Patch a Zero-Day Bug - Exploit Now Live on GitHub,http://wccftech.com/microsoft-fails-patch-zero-day-bug/,/u/mulander,7
-52,2017-02-06 05:55:42 -0600,['/t/rust'],"What Rust Can Do That Other Languages Can't, In Six Short Lines",http://robert.ocallahan.org/2017/02/what-rust-can-do-that-other-languages.html,/u/calvin,39
-0,2017-02-07 16:54:20 -0600,['/t/compsci'],The next 700 syntactical models of type theory,http://dl.acm.org/citation.cfm?id=3018620&CFID=725599945&CFTOKEN=42623252,/u/bitemyapp,1
-0,2017-02-07 00:31:40 -0600,"['/t/erlang', '/t/web']",Hot routes with cowboy (Erlang),http://blog.ikura.co/posts/hot-routes-with-cowboy.html,/u/nato,5
-6,2017-02-06 14:04:47 -0600,"['/t/devops', '/t/programming']",Sandstorm is shutting down and leaving the work to OSS contributors,https://sandstorm.io/news/2017-02-06-sandstorm-returning-to-community-roots,/u/bitemyapp,15
-0,2017-02-07 12:45:31 -0600,"['/t/rant', '/t/systemd']",Systemd's slowly but steadily increased idealism about the world,https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndItsIdealism,/u/friendlysock,4
+1,2017-02-07 12:50:01 -0600,/t/reversing,Life Is Strange Server Investigation,https://blog.b303.me/2017/02/07/life-is-strange-server-investigation/,/u/calvin,6
+2,2017-02-07 10:40:34 -0600,"/t/assembly,/t/linux","Pure assembly, library-free Linux threading demo",https://github.com/skeeto/pure-linux-threads-demo,/u/hawski,8
+0,2017-02-07 11:53:39 -0600,"/t/haskell,/t/release",Why prove programs equivalent when your compiler can do that for you?,http://www.joachim-breitner.de/blog/717-Why_prove_programs_equivalent_when_your_compiler_can_do_that_for_you_,/u/pushcx,9
+7,2017-02-06 22:53:14 -0600,"/t/historical,/t/perl,/t/web",A great disturbance in the force (imdb boards no more),https://www.beatworm.co.uk/blog/internet/imdb-boards-no-more,/u/brynet,23
+1,2017-02-07 17:31:59 -0600,"/t/pdf,/t/programming,/t/security",We Need Assurance! (2005),https://www.acsac.org/2005/papers/Snow.pdf,/u/nickpsecurity,4
+2,2017-02-07 07:49:25 -0600,/t/dotnet,The 68 things the CLR does before executing a single line of your code (*),http://www.mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/,/u/flyingfisch,8
+6,2017-02-07 09:33:36 -0600,/t/ask,does anyone have experience with Tectia ssh versus openssh?,/s/6fpm0q/does_anyone_have_experience_with_tectia,/u/vyodaiken,4
+0,2017-02-07 10:06:38 -0600,/t/programming,Lessons from Real-Time Programming class,https://medium.com/@sunapi386/lessons-from-real-time-programming-class-b64544717348,/u/calvin,7
+1,2017-02-07 11:11:01 -0600,"/t/historical,/t/programming",ColorForth and the Art of the Impossible,http://www.inventio.co.uk/colorForth%20and%20the%20Art%20of%20the%20Impossible.htm,/u/apg,4
+2,2017-02-08 04:53:55 -0600,"/t/audio,/t/practices",LeadWise Podcast: New Ricardo Semler's Podcast,http://podcast.leadwise.co/,/u/dgv,0
+2,2017-02-07 13:36:03 -0600,"/t/pdf,/t/culture",Anyone Can Become a Troll,https://files.clr3.com/papers/2017_anyone.pdf,/u/kb,7
+0,2017-02-07 12:14:22 -0600,/t/design,I Don’t Need Help,http://alistapart.com/article/i-dont-need-help,/u/flyingfisch,4
+8,2017-02-06 15:26:19 -0600,/t/practices,Why Don't We Have a General Purpose Tree Editor?,http://pcmonk.me/2014/04/01/why-dont-we-have-a-general-purpose-tree-editor.html,/u/bitemyapp,21
+1,2017-02-07 05:19:01 -0600,"/t/video,/t/browsers,/t/programming,/t/rust",Servo Architecture: Safety and Performance,https://www.youtube.com/watch?v=an5abNFba4Q,/u/brendan,6
+14,2017-02-06 13:18:17 -0600,"/t/privacy,/t/web",Is Gravatar a privacy risk?,http://meta.stackexchange.com/questions/44717/is-gravatar-a-privacy-risk,/u/bitemyapp,22
+13,2017-02-06 09:30:21 -0600,"/t/databases,/t/law,/t/release",The liberation of RethinkDB,https://www.joyent.com/blog/the-liberation-of-rethinkdb,/u/mjturner,31
+0,2017-02-07 00:57:33 -0600,"/t/programming,/t/unix","Translating Shell to Oil, Part Two",http://www.oilshell.org/blog/2017/02/06.html,/u/andyc,6
+3,2017-02-06 21:00:18 -0600,"/t/ask,/t/practices,/t/unix",Are there tools that you use heavily without any configuration?,/s/cgvi5j/are_there_tools_you_use_heavily_without,/u/vfoley,5
+5,2017-02-06 14:15:53 -0600,/t/rust,Rust's 2017 roadmap,http://blog.rust-lang.org/2017/02/06/roadmap.html,/u/brinker,28
+0,2017-02-07 03:51:16 -0600,"/t/security,/t/windows",Microsoft Fails to Patch a Zero-Day Bug - Exploit Now Live on GitHub,http://wccftech.com/microsoft-fails-patch-zero-day-bug/,/u/mulander,7
+52,2017-02-06 05:55:42 -0600,/t/rust,"What Rust Can Do That Other Languages Can't, In Six Short Lines",http://robert.ocallahan.org/2017/02/what-rust-can-do-that-other-languages.html,/u/calvin,39
+0,2017-02-07 16:54:20 -0600,/t/compsci,The next 700 syntactical models of type theory,http://dl.acm.org/citation.cfm?id=3018620&CFID=725599945&CFTOKEN=42623252,/u/bitemyapp,1
+0,2017-02-07 00:31:40 -0600,"/t/erlang,/t/web",Hot routes with cowboy (Erlang),http://blog.ikura.co/posts/hot-routes-with-cowboy.html,/u/nato,5
+6,2017-02-06 14:04:47 -0600,"/t/devops,/t/programming",Sandstorm is shutting down and leaving the work to OSS contributors,https://sandstorm.io/news/2017-02-06-sandstorm-returning-to-community-roots,/u/bitemyapp,15
+0,2017-02-07 12:45:31 -0600,"/t/rant,/t/systemd",Systemd's slowly but steadily increased idealism about the world,https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndItsIdealism,/u/friendlysock,4

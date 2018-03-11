@@ -1,25 +1,25 @@
-0,2014-07-26 12:03:48 -0500,"['/t/compsci', '/t/games']",No Man's Sky: A Vast Game Crafted by Algorithms,http://www.technologyreview.com/news/529136/no-mans-sky-a-vast-game-crafted-by-algorithms/,/u/journeysquid,7
-1,2014-07-26 11:23:22 -0500,['/t/hardware'],Messages in the Deep,http://builtvisible.com/messages-in-the-deep/,/u/apy,7
-6,2014-07-26 01:09:37 -0500,['/t/programming'],Beginning to Rethink Streams,http://dylanfoundry.org/2014/07/25/beginning-to-rethink-streams/,/u/BruceM,11
-0,2014-07-25 22:45:28 -0500,['/t/practices'],How the Other Half Works: an Adventure in the Low Status of Software Engineers,https://michaelochurch.wordpress.com/2014/07/13/how-the-other-half-works-an-adventure-in-the-low-status-of-software-engineers/?src=longreads&mc_cid=0aed9c844c&mc_eid=53f5547965,/u/jm,13
-9,2014-07-25 15:48:35 -0500,"['/t/haskell', '/t/programming', '/t/ruby']",Why do I love Haskell more than Ruby?,http://jocellyn.cz/2014/07/22/why-do-i-love-haskell.html,/u/shosanna,12
-0,2014-07-26 04:37:26 -0500,"['/t/distributed', '/t/linux', '/t/networking', '/t/privacy', '/t/release']",arkOS,https://arkos.io/,/u/csantosb,5
-0,2014-07-26 09:25:32 -0500,['/t/python'],Python on Windows causing you pain? Try Anaconda,http://pythonforengineers.com/python-on-windows-causing-you-pain-try-anaconda/,/u/Pyskool,2
-0,2014-07-26 12:09:10 -0500,"['/t/javascript', '/t/privacy', '/t/release', '/t/web']","echoplexus: pseudonymous chat, code collab, whiteboard, and WebRTC calls",https://echoplex.us,/u/qq99,1
-0,2014-07-26 13:41:17 -0500,"['/t/culture', '/t/philosophy', '/t/programming']",What Book Should I Read Next? - Deliberate Software,http://deliberate-software.com/next-book/,/u/steveshogren,2
-0,2014-07-26 03:46:41 -0500,"['/t/javascript', '/t/programming', '/t/visualization']",Build a simple chart for your website in 5 minutes,http://jocellyn.cz/2014/07/25/simple-charts-with-c3.html,/u/shosanna,3
-2,2014-07-25 19:07:29 -0500,['/t/python'],NatI: multi-language voice control system for Ubuntu written in Python,https://github.com/rcorcs/NatI,/u/swehren,3
-3,2014-07-25 14:40:11 -0500,"['/t/pdf', '/t/practices', '/t/programming']",Why No One Uses Functional Languages (1998),http://www.ugcs.caltech.edu/~lordkaos/why-no-one.pdf,/u/pushcx,5
-1,2014-07-25 14:10:20 -0500,"['/t/haskell', '/t/programming']","Update Map in Haskell, an example of equational reasoning with code",http://codereview.stackexchange.com/questions/57843/update-map-in-haskell/57850#57850,/u/bitemyapp,6
-7,2014-07-25 09:24:55 -0500,"['/t/javascript', '/t/web']",A list of ambitious web applications built using Ember.js,http://builtwithember.io/,/u/jpadilla,3
-0,2014-07-25 21:21:13 -0500,['/t/web'],The Doctor Is In - Zeldman.com is back,http://alistapart.com/column/doctor-is-in,/u/flyingfisch,1
-1,2014-07-25 08:41:25 -0500,"['/t/browsers', '/t/c', '/t/reversing', '/t/security']",pwn4fun Spring 2014 - Safari - Part I,http://googleprojectzero.blogspot.com/2014/07/pwn4fun-spring-2014-safari-part-i_24.html,/u/tedu,4
-0,2014-07-25 19:07:37 -0500,['/t/programming'],The Term Web Developer Means Nothing,http://blog.higg.im/2014/07/25/the-term-web-developer-means-nothing/,/u/dh,1
-0,2014-07-25 12:02:42 -0500,['/t/ruby'],Rails turns 10 today,https://github.com/rails/rails/commit/98cb3e69afd687f7c0d4bc48eabf284da691abcc#commitcomment-4974690,/u/skade,3
-0,2014-07-25 10:20:55 -0500,['/t/compsci'],"MOE: A global, black box optimization engine for real world metric optimization",https://github.com/Yelp/MOE,/u/polyfractal,2
-0,2014-07-25 05:21:18 -0500,"['/t/video', '/t/design', '/t/hardware', '/t/release']",Aral Balkan - Making The New Everyday Things,http://vimeo.com/90382575,/u/mordae,2
-1,2014-07-24 11:50:16 -0500,['/t/distributed'],The Network is Reliable: An informal survey of real-world communications failures,http://queue.acm.org/detail.cfm?id=2655736,/u/kellogh,21
-6,2014-07-24 10:16:57 -0500,['/t/programming'],Collection Pipeline,http://martinfowler.com/articles/collection-pipeline/,/u/pushcx,17
-0,2014-07-25 02:23:10 -0500,"['/t/ios', '/t/mac']",Swift Sequences and Lazy Evaluation,http://www.scottlogic.com/blog/2014/06/26/swift-sequences.html,/u/ianstallings,4
-0,2014-07-25 10:00:57 -0500,['/t/math'],Math Intuitions Quick Reference Guide,http://betterexplained.com/cheatsheet/,/u/pushcx,1
-0,2014-07-25 09:09:50 -0500,['/t/ios'],Learn ➜ Swift,http://learn-swift.co,/u/kaishin,1
+0,2014-07-26 12:03:48 -0500,"/t/compsci,/t/games",No Man's Sky: A Vast Game Crafted by Algorithms,http://www.technologyreview.com/news/529136/no-mans-sky-a-vast-game-crafted-by-algorithms/,/u/journeysquid,7
+1,2014-07-26 11:23:22 -0500,/t/hardware,Messages in the Deep,http://builtvisible.com/messages-in-the-deep/,/u/apy,7
+6,2014-07-26 01:09:37 -0500,/t/programming,Beginning to Rethink Streams,http://dylanfoundry.org/2014/07/25/beginning-to-rethink-streams/,/u/BruceM,11
+0,2014-07-25 22:45:28 -0500,/t/practices,How the Other Half Works: an Adventure in the Low Status of Software Engineers,https://michaelochurch.wordpress.com/2014/07/13/how-the-other-half-works-an-adventure-in-the-low-status-of-software-engineers/?src=longreads&mc_cid=0aed9c844c&mc_eid=53f5547965,/u/jm,13
+9,2014-07-25 15:48:35 -0500,"/t/haskell,/t/programming,/t/ruby",Why do I love Haskell more than Ruby?,http://jocellyn.cz/2014/07/22/why-do-i-love-haskell.html,/u/shosanna,12
+0,2014-07-26 04:37:26 -0500,"/t/distributed,/t/linux,/t/networking,/t/privacy,/t/release",arkOS,https://arkos.io/,/u/csantosb,5
+0,2014-07-26 09:25:32 -0500,/t/python,Python on Windows causing you pain? Try Anaconda,http://pythonforengineers.com/python-on-windows-causing-you-pain-try-anaconda/,/u/Pyskool,2
+0,2014-07-26 12:09:10 -0500,"/t/javascript,/t/privacy,/t/release,/t/web","echoplexus: pseudonymous chat, code collab, whiteboard, and WebRTC calls",https://echoplex.us,/u/qq99,1
+0,2014-07-26 13:41:17 -0500,"/t/culture,/t/philosophy,/t/programming",What Book Should I Read Next? - Deliberate Software,http://deliberate-software.com/next-book/,/u/steveshogren,2
+0,2014-07-26 03:46:41 -0500,"/t/javascript,/t/programming,/t/visualization",Build a simple chart for your website in 5 minutes,http://jocellyn.cz/2014/07/25/simple-charts-with-c3.html,/u/shosanna,3
+2,2014-07-25 19:07:29 -0500,/t/python,NatI: multi-language voice control system for Ubuntu written in Python,https://github.com/rcorcs/NatI,/u/swehren,3
+3,2014-07-25 14:40:11 -0500,"/t/pdf,/t/practices,/t/programming",Why No One Uses Functional Languages (1998),http://www.ugcs.caltech.edu/~lordkaos/why-no-one.pdf,/u/pushcx,5
+1,2014-07-25 14:10:20 -0500,"/t/haskell,/t/programming","Update Map in Haskell, an example of equational reasoning with code",http://codereview.stackexchange.com/questions/57843/update-map-in-haskell/57850#57850,/u/bitemyapp,6
+7,2014-07-25 09:24:55 -0500,"/t/javascript,/t/web",A list of ambitious web applications built using Ember.js,http://builtwithember.io/,/u/jpadilla,3
+0,2014-07-25 21:21:13 -0500,/t/web,The Doctor Is In - Zeldman.com is back,http://alistapart.com/column/doctor-is-in,/u/flyingfisch,1
+1,2014-07-25 08:41:25 -0500,"/t/browsers,/t/c,/t/reversing,/t/security",pwn4fun Spring 2014 - Safari - Part I,http://googleprojectzero.blogspot.com/2014/07/pwn4fun-spring-2014-safari-part-i_24.html,/u/tedu,4
+0,2014-07-25 19:07:37 -0500,/t/programming,The Term Web Developer Means Nothing,http://blog.higg.im/2014/07/25/the-term-web-developer-means-nothing/,/u/dh,1
+0,2014-07-25 12:02:42 -0500,/t/ruby,Rails turns 10 today,https://github.com/rails/rails/commit/98cb3e69afd687f7c0d4bc48eabf284da691abcc#commitcomment-4974690,/u/skade,3
+0,2014-07-25 10:20:55 -0500,/t/compsci,"MOE: A global, black box optimization engine for real world metric optimization",https://github.com/Yelp/MOE,/u/polyfractal,2
+0,2014-07-25 05:21:18 -0500,"/t/video,/t/design,/t/hardware,/t/release",Aral Balkan - Making The New Everyday Things,http://vimeo.com/90382575,/u/mordae,2
+1,2014-07-24 11:50:16 -0500,/t/distributed,The Network is Reliable: An informal survey of real-world communications failures,http://queue.acm.org/detail.cfm?id=2655736,/u/kellogh,21
+6,2014-07-24 10:16:57 -0500,/t/programming,Collection Pipeline,http://martinfowler.com/articles/collection-pipeline/,/u/pushcx,17
+0,2014-07-25 02:23:10 -0500,"/t/ios,/t/mac",Swift Sequences and Lazy Evaluation,http://www.scottlogic.com/blog/2014/06/26/swift-sequences.html,/u/ianstallings,4
+0,2014-07-25 10:00:57 -0500,/t/math,Math Intuitions Quick Reference Guide,http://betterexplained.com/cheatsheet/,/u/pushcx,1
+0,2014-07-25 09:09:50 -0500,/t/ios,Learn ➜ Swift,http://learn-swift.co,/u/kaishin,1

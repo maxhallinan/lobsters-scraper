@@ -1,25 +1,25 @@
-0,2017-09-12 19:19:50 -0500,"['/t/clojure', '/t/java']",Opening Up Java EE - An Update,https://blogs.oracle.com/theaquarium/opening-up-ee-update,/u/arrdem,6
-0,2017-09-13 07:02:09 -0500,['/t/event'],Bimodal Program Analysis Open Workshop,http://crest.cs.ucl.ac.uk/cow/55/,/u/derek-jones,1
-3,2017-09-12 12:47:13 -0500,"['/t/devops', '/t/hardware', '/t/security']",Take These Steps to Secure Your Raspberry Pi Against Attackers,https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/,/u/friendlysock,7
-6,2017-09-12 03:48:33 -0500,"['/t/haskell', '/t/programming']",All About Strictness,https://www.fpcomplete.com/blog/2017/09/all-about-strictness,/u/NinjaTrappeur,14
-1,2017-09-11 23:41:45 -0500,"['/t/pdf', '/t/book', '/t/programming']",Operating Systems: Three Easy Pieces,http://pages.cs.wisc.edu/%7Eremzi/OSTEP/,/u/pushcx,35
-10,2017-09-11 12:39:32 -0500,['/t/programming'],An Experiment in Structured Code Editing,https://medium.com/isomorf-blog/an-experiment-in-structured-code-editing-68b917a9157c,/u/bkent,34
-0,2017-09-12 08:35:53 -0500,"['/t/programming', '/t/python', '/t/scaling', '/t/web']",The Tale of Creating a Distributed Web Crawler,https://benbernardblog.com/the-tale-of-creating-a-distributed-web-crawler/,/u/mbenbernard,7
-0,2017-09-12 06:13:15 -0500,['/t/visualization'],House Address “Twins” Proximity,http://www.paulplowman.com/stuff/house-address-twins-proximity/,/u/pushcx,17
-1,2017-09-12 11:16:50 -0500,"['/t/practices', '/t/security']",The backdoor threat,https://daniel.haxx.se/blog/2017/09/12/the-backdoor-threat/,/u/calvin,7
-0,2017-09-13 01:17:45 -0500,['/t/api'],Reliable Server-Sent Events for Django,http://blog.fanout.io/2017/08/03/reliable-server-sent-events-for-django/,/u/justinucd,1
-1,2017-09-12 15:09:15 -0500,"['/t/book', '/t/java', '/t/programming']",Java 9 Modularity (O'Reilly) Now Available Ahead of Java 9 GA,https://javamodularity.com,/u/SanderMak,2
-6,2017-09-12 02:37:22 -0500,"['/t/browsers', '/t/security', '/t/web']",Crash Firefox on Linux via Notification API,https://files.hboeck.de/crashff.html,/u/hanno,5
-7,2017-09-11 17:10:44 -0500,['/t/security'],The only safe email is text-only email,http://theconversation.com/the-only-safe-email-is-text-only-email-81434,/u/fcbsd,22
-36,2017-09-13 10:45:07 -0500,"['/t/crypto', '/t/cryptocurrencies', '/t/satire', '/t/security']","How I Snatched 153,037 ETH After A Bad Tinder Date",https://medium.com/@rtaylor30/how-i-snatched-your-153-037-eth-after-a-bad-tinder-date-d1d84422a50b,/u/av,17
-0,2017-09-12 15:17:02 -0500,"['/t/event', '/t/security']",CSAW CTF 2017,https://ctf.csaw.io/,/u/friendlysock,3
-0,2017-09-12 08:22:47 -0500,['/t/haskell'],Proposal for less parentheses,http://www.joachim-breitner.de/blog/730-Less_parentheses,/u/pushcx,7
-8,2017-09-12 00:13:04 -0500,['/t/unix'],Inbox-zero via shell mail,http://blog.ikura.co/posts/inbox-zero-via-shell-mail.html,/u/nato,3
-12,2017-09-11 15:40:27 -0500,"['/t/video', '/t/practices']",Bryan Cantrill - Platform as a reflection of values,http://www.nodesummit.com/videos/,/u/sevan,18
-6,2017-09-11 12:18:26 -0500,['/t/programming'],Developers Need to Start Paying Attention to Licenses,https://www.remotesynthesis.com/blog/developers-and-licenses,/u/remotesynth,15
-3,2017-09-12 05:47:40 -0500,"['/t/video', '/t/event', '/t/hardware', '/t/ios', '/t/mac']",Apple Special Event for September 2017,https://www.apple.com/apple-events/september-2017/,/u/calvin,5
-4,2017-09-11 13:56:28 -0500,"['/t/erlang', '/t/reversing']",Investigating Erlang by reading its system calls,https://jvns.ca/blog/2016/05/13/erlang-seems-really-complicated/,/u/friendlysock,21
-0,2017-09-12 13:23:54 -0500,['/t/swift'],Madness of Generic Integer,http://blog.krzyzanowskim.com/2015/03/01/swift_madness_of_generic_integer/,/u/pushcx,2
-0,2017-09-12 11:36:39 -0500,['/t/javascript'],So you completed the official React tutorial. What's next?,https://goshakkk.name/next-steps-official-react-tutorial/,/u/goshakkk,1
-0,2017-09-12 01:30:47 -0500,['/t/ml'],Resource Aware ML,http://www.raml.co/,/u/sanxiyn,7
-5,2017-09-11 16:30:14 -0500,"['/t/emacs', '/t/security']",Arbitrary code execution vulnerability fixed in Emacs 25.3,http://lists.gnu.org/archive/html/emacs-devel/2017-09/msg00211.html,/u/JordiGH,11
+0,2017-09-12 19:19:50 -0500,"/t/clojure,/t/java",Opening Up Java EE - An Update,https://blogs.oracle.com/theaquarium/opening-up-ee-update,/u/arrdem,6
+0,2017-09-13 07:02:09 -0500,/t/event,Bimodal Program Analysis Open Workshop,http://crest.cs.ucl.ac.uk/cow/55/,/u/derek-jones,1
+3,2017-09-12 12:47:13 -0500,"/t/devops,/t/hardware,/t/security",Take These Steps to Secure Your Raspberry Pi Against Attackers,https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/,/u/friendlysock,7
+6,2017-09-12 03:48:33 -0500,"/t/haskell,/t/programming",All About Strictness,https://www.fpcomplete.com/blog/2017/09/all-about-strictness,/u/NinjaTrappeur,14
+1,2017-09-11 23:41:45 -0500,"/t/pdf,/t/book,/t/programming",Operating Systems: Three Easy Pieces,http://pages.cs.wisc.edu/%7Eremzi/OSTEP/,/u/pushcx,35
+10,2017-09-11 12:39:32 -0500,/t/programming,An Experiment in Structured Code Editing,https://medium.com/isomorf-blog/an-experiment-in-structured-code-editing-68b917a9157c,/u/bkent,34
+0,2017-09-12 08:35:53 -0500,"/t/programming,/t/python,/t/scaling,/t/web",The Tale of Creating a Distributed Web Crawler,https://benbernardblog.com/the-tale-of-creating-a-distributed-web-crawler/,/u/mbenbernard,7
+0,2017-09-12 06:13:15 -0500,/t/visualization,House Address “Twins” Proximity,http://www.paulplowman.com/stuff/house-address-twins-proximity/,/u/pushcx,17
+1,2017-09-12 11:16:50 -0500,"/t/practices,/t/security",The backdoor threat,https://daniel.haxx.se/blog/2017/09/12/the-backdoor-threat/,/u/calvin,7
+0,2017-09-13 01:17:45 -0500,/t/api,Reliable Server-Sent Events for Django,http://blog.fanout.io/2017/08/03/reliable-server-sent-events-for-django/,/u/justinucd,1
+1,2017-09-12 15:09:15 -0500,"/t/book,/t/java,/t/programming",Java 9 Modularity (O'Reilly) Now Available Ahead of Java 9 GA,https://javamodularity.com,/u/SanderMak,2
+6,2017-09-12 02:37:22 -0500,"/t/browsers,/t/security,/t/web",Crash Firefox on Linux via Notification API,https://files.hboeck.de/crashff.html,/u/hanno,5
+7,2017-09-11 17:10:44 -0500,/t/security,The only safe email is text-only email,http://theconversation.com/the-only-safe-email-is-text-only-email-81434,/u/fcbsd,22
+36,2017-09-13 10:45:07 -0500,"/t/crypto,/t/cryptocurrencies,/t/satire,/t/security","How I Snatched 153,037 ETH After A Bad Tinder Date",https://medium.com/@rtaylor30/how-i-snatched-your-153-037-eth-after-a-bad-tinder-date-d1d84422a50b,/u/av,17
+0,2017-09-12 15:17:02 -0500,"/t/event,/t/security",CSAW CTF 2017,https://ctf.csaw.io/,/u/friendlysock,3
+0,2017-09-12 08:22:47 -0500,/t/haskell,Proposal for less parentheses,http://www.joachim-breitner.de/blog/730-Less_parentheses,/u/pushcx,7
+8,2017-09-12 00:13:04 -0500,/t/unix,Inbox-zero via shell mail,http://blog.ikura.co/posts/inbox-zero-via-shell-mail.html,/u/nato,3
+12,2017-09-11 15:40:27 -0500,"/t/video,/t/practices",Bryan Cantrill - Platform as a reflection of values,http://www.nodesummit.com/videos/,/u/sevan,18
+6,2017-09-11 12:18:26 -0500,/t/programming,Developers Need to Start Paying Attention to Licenses,https://www.remotesynthesis.com/blog/developers-and-licenses,/u/remotesynth,15
+3,2017-09-12 05:47:40 -0500,"/t/video,/t/event,/t/hardware,/t/ios,/t/mac",Apple Special Event for September 2017,https://www.apple.com/apple-events/september-2017/,/u/calvin,5
+4,2017-09-11 13:56:28 -0500,"/t/erlang,/t/reversing",Investigating Erlang by reading its system calls,https://jvns.ca/blog/2016/05/13/erlang-seems-really-complicated/,/u/friendlysock,21
+0,2017-09-12 13:23:54 -0500,/t/swift,Madness of Generic Integer,http://blog.krzyzanowskim.com/2015/03/01/swift_madness_of_generic_integer/,/u/pushcx,2
+0,2017-09-12 11:36:39 -0500,/t/javascript,So you completed the official React tutorial. What's next?,https://goshakkk.name/next-steps-official-react-tutorial/,/u/goshakkk,1
+0,2017-09-12 01:30:47 -0500,/t/ml,Resource Aware ML,http://www.raml.co/,/u/sanxiyn,7
+5,2017-09-11 16:30:14 -0500,"/t/emacs,/t/security",Arbitrary code execution vulnerability fixed in Emacs 25.3,http://lists.gnu.org/archive/html/emacs-devel/2017-09/msg00211.html,/u/JordiGH,11

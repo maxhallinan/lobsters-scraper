@@ -1,25 +1,25 @@
-0,2017-11-18 13:09:30 -0600,['/t/openbsd'],Official OpenBSD 6.2 CD set - the only one to be made!,https://undeadly.org/cgi?action=article;sid=20171118190325,/u/mulander,12
-1,2017-11-18 07:09:11 -0600,"['/t/philosophy', '/t/programming']",The Atoms of Programming,http://www.sicpers.info/2017/11/the-atoms-of-programming/,/u/leeg,9
-3,2017-11-18 11:33:51 -0600,"['/t/c++', '/t/compilers', '/t/web']",Cheerp - the C++ compiler for the Web,https://www.leaningtech.com/cheerp/,/u/nhooyr,9
-7,2017-11-18 09:33:55 -0600,"['/t/pdf', '/t/compsci', '/t/programming']",OberonScript - A Lightweight Compiler and Runtime System for the Web (2006),https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2006-50.pdf,/u/nickpsecurity,7
-0,2017-11-18 22:13:43 -0600,['/t/java'],"Fatjars, Thinwars and why OpenLiberty is cool",https://www.phillip-kruger.com/post/farjars_thinwars_and_why_openliberty_is_cool/,/u/calvin,2
-0,2017-11-18 16:43:56 -0600,"['/t/pdf', '/t/practices']",STELLA - Report from the SNAFUcatchers Workshop on Coping With Complexity,https://drive.google.com/file/d/0B7kFkt5WxLeDTml5cTFsWXFCb1U/view,/u/antifuchs,4
-10,2017-11-17 11:34:30 -0600,"['/t/openbsd', '/t/ruby', '/t/security']",Switching from 1Password to Bitwarden,https://jcs.org/2017/11/17/bitwarden,/u/rjc,55
-2,2017-11-18 07:48:52 -0600,['/t/ruby'],Observers in Padrino,https://wikimatze.de/observers-in-padrino/,/u/wikimatze,2
-3,2017-11-18 04:57:32 -0600,"['/t/ai', '/t/science']","Quick thoughts on ChestXray14, performance claims, and clinical tasks",https://lukeoakdenrayner.wordpress.com/2017/11/18/quick-thoughts-on-chestxray14-performance-claims-and-clinical-tasks/,/u/mjn,8
-0,2017-11-18 21:33:56 -0600,"['/t/audio', '/t/javascript']",The React Story: How Facebook's Instagram Acquisition Led To The Open Sourcing of React.js,https://stackshare.io/posts/the-react-story,/u/av,1
-11,2017-11-17 06:02:40 -0600,"['/t/reversing', '/t/security', '/t/windows']","Did Microsoft Just Manually Patch Their Equation Editor Executable? Why Yes, Yes They Did. (CVE-2017-11882)",https://0patch.blogspot.com/2017/11/did-microsoft-just-manually-patch-their.html,/u/pushcx,64
-0,2017-11-18 09:27:19 -0600,"['/t/elixir', '/t/programming']",ACE: Web Server and Client in Elixir for HTTP v1.0 and 2.0,https://github.com/CrowdHailer/Ace,/u/nickpsecurity,4
-7,2017-11-17 06:36:44 -0600,['/t/practices'],Move Slowly and Fix Things,https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b,/u/calvin,42
-5,2017-11-17 13:04:50 -0600,['/t/practices'],"2018's Software Engineering Talent Shortage— It’s quality, not just quantity",https://hackernoon.com/2018s-software-engineering-talent-shortage-its-quality-not-just-quantity-6bdfa366b899,/u/justinucd,7
-1,2017-11-17 08:45:40 -0600,['/t/databases'],A Minimalist Guide to SQLite,http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html,/u/marklit,23
-3,2017-11-17 20:39:22 -0600,"['/t/ios', '/t/networking']","Fine, I'll Download It For You",https://somerandomidiot.com/blog/2017/06/13/fine-ill-download-it-for-you/,/u/calvin,9
-0,2017-11-18 07:04:02 -0600,['/t/devops'],A better solution to ECS AutoScaling,http://garbe.io/blog/2017/04/12/a-better-solution-to-ecs-autoscaling/,/u/asthasr,3
-0,2017-11-18 08:54:50 -0600,"['/t/security', '/t/windows']",Evading Microsoft’s AutoRuns,https://blog.conscioushacker.io/index.php/2017/10/25/evading-microsofts-autoruns/,/u/calvin,2
-0,2017-11-17 09:30:20 -0600,['/t/distributed'],Monotonicity Types: Towards A Type System for Eventual Consistency,http://prl.ccs.neu.edu/blog/2017/10/22/monotonicity-types-towards-a-type-system-for-eventual-consistency,/u/cmeiklejohn,17
-3,2017-11-16 23:29:45 -0600,['/t/philosophy'],The Complete Moral Bankruptcy of Manipulating Human Psychology To Turn Users Into Addicts,https://medium.com/@dankaplan/the-complete-moral-bankruptcy-of-manipulating-human-psychology-to-turn-users-into-addicts-d09b98281ef,/u/automach,69
-0,2017-11-18 11:11:22 -0600,['/t/math'],Matrix Calculus,http://www.matrixcalculus.org/,/u/binarymax,1
-6,2017-11-17 11:44:02 -0600,"['/t/networking', '/t/security']",New Quad9 DNS service blocks malicious domains for everyone,https://arstechnica.com/information-technology/2017/11/new-quad9-dns-service-blocks-malicious-domains-for-everyone/,/u/unbalancedparentheses,12
-0,2017-11-17 14:45:13 -0600,"['/t/assembly', '/t/c', '/t/c++', '/t/performance']",The wrong way of benchmarking the most efficient integer comparison function,https://blogs.msdn.microsoft.com/oldnewthing/20171117-00/?p=97416,/u/calvin,12
-0,2017-11-17 14:44:46 -0600,"['/t/historical', '/t/person']",The Female Supercomputer Designer Who Inspired Steve Jobs,https://www.fastcodesign.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs,/u/sevan,12
-0,2017-11-17 02:43:52 -0600,['/t/networking'],Creating an Autonomous System for Fun and Profit,http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html,/u/peter,35
+0,2017-11-18 13:09:30 -0600,/t/openbsd,Official OpenBSD 6.2 CD set - the only one to be made!,https://undeadly.org/cgi?action=article;sid=20171118190325,/u/mulander,12
+1,2017-11-18 07:09:11 -0600,"/t/philosophy,/t/programming",The Atoms of Programming,http://www.sicpers.info/2017/11/the-atoms-of-programming/,/u/leeg,9
+3,2017-11-18 11:33:51 -0600,"/t/c++,/t/compilers,/t/web",Cheerp - the C++ compiler for the Web,https://www.leaningtech.com/cheerp/,/u/nhooyr,9
+7,2017-11-18 09:33:55 -0600,"/t/pdf,/t/compsci,/t/programming",OberonScript - A Lightweight Compiler and Runtime System for the Web (2006),https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2006-50.pdf,/u/nickpsecurity,7
+0,2017-11-18 22:13:43 -0600,/t/java,"Fatjars, Thinwars and why OpenLiberty is cool",https://www.phillip-kruger.com/post/farjars_thinwars_and_why_openliberty_is_cool/,/u/calvin,2
+0,2017-11-18 16:43:56 -0600,"/t/pdf,/t/practices",STELLA - Report from the SNAFUcatchers Workshop on Coping With Complexity,https://drive.google.com/file/d/0B7kFkt5WxLeDTml5cTFsWXFCb1U/view,/u/antifuchs,4
+10,2017-11-17 11:34:30 -0600,"/t/openbsd,/t/ruby,/t/security",Switching from 1Password to Bitwarden,https://jcs.org/2017/11/17/bitwarden,/u/rjc,55
+2,2017-11-18 07:48:52 -0600,/t/ruby,Observers in Padrino,https://wikimatze.de/observers-in-padrino/,/u/wikimatze,2
+3,2017-11-18 04:57:32 -0600,"/t/ai,/t/science","Quick thoughts on ChestXray14, performance claims, and clinical tasks",https://lukeoakdenrayner.wordpress.com/2017/11/18/quick-thoughts-on-chestxray14-performance-claims-and-clinical-tasks/,/u/mjn,8
+0,2017-11-18 21:33:56 -0600,"/t/audio,/t/javascript",The React Story: How Facebook's Instagram Acquisition Led To The Open Sourcing of React.js,https://stackshare.io/posts/the-react-story,/u/av,1
+11,2017-11-17 06:02:40 -0600,"/t/reversing,/t/security,/t/windows","Did Microsoft Just Manually Patch Their Equation Editor Executable? Why Yes, Yes They Did. (CVE-2017-11882)",https://0patch.blogspot.com/2017/11/did-microsoft-just-manually-patch-their.html,/u/pushcx,64
+0,2017-11-18 09:27:19 -0600,"/t/elixir,/t/programming",ACE: Web Server and Client in Elixir for HTTP v1.0 and 2.0,https://github.com/CrowdHailer/Ace,/u/nickpsecurity,4
+7,2017-11-17 06:36:44 -0600,/t/practices,Move Slowly and Fix Things,https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b,/u/calvin,42
+5,2017-11-17 13:04:50 -0600,/t/practices,"2018's Software Engineering Talent Shortage— It’s quality, not just quantity",https://hackernoon.com/2018s-software-engineering-talent-shortage-its-quality-not-just-quantity-6bdfa366b899,/u/justinucd,7
+1,2017-11-17 08:45:40 -0600,/t/databases,A Minimalist Guide to SQLite,http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html,/u/marklit,23
+3,2017-11-17 20:39:22 -0600,"/t/ios,/t/networking","Fine, I'll Download It For You",https://somerandomidiot.com/blog/2017/06/13/fine-ill-download-it-for-you/,/u/calvin,9
+0,2017-11-18 07:04:02 -0600,/t/devops,A better solution to ECS AutoScaling,http://garbe.io/blog/2017/04/12/a-better-solution-to-ecs-autoscaling/,/u/asthasr,3
+0,2017-11-18 08:54:50 -0600,"/t/security,/t/windows",Evading Microsoft’s AutoRuns,https://blog.conscioushacker.io/index.php/2017/10/25/evading-microsofts-autoruns/,/u/calvin,2
+0,2017-11-17 09:30:20 -0600,/t/distributed,Monotonicity Types: Towards A Type System for Eventual Consistency,http://prl.ccs.neu.edu/blog/2017/10/22/monotonicity-types-towards-a-type-system-for-eventual-consistency,/u/cmeiklejohn,17
+3,2017-11-16 23:29:45 -0600,/t/philosophy,The Complete Moral Bankruptcy of Manipulating Human Psychology To Turn Users Into Addicts,https://medium.com/@dankaplan/the-complete-moral-bankruptcy-of-manipulating-human-psychology-to-turn-users-into-addicts-d09b98281ef,/u/automach,69
+0,2017-11-18 11:11:22 -0600,/t/math,Matrix Calculus,http://www.matrixcalculus.org/,/u/binarymax,1
+6,2017-11-17 11:44:02 -0600,"/t/networking,/t/security",New Quad9 DNS service blocks malicious domains for everyone,https://arstechnica.com/information-technology/2017/11/new-quad9-dns-service-blocks-malicious-domains-for-everyone/,/u/unbalancedparentheses,12
+0,2017-11-17 14:45:13 -0600,"/t/assembly,/t/c,/t/c++,/t/performance",The wrong way of benchmarking the most efficient integer comparison function,https://blogs.msdn.microsoft.com/oldnewthing/20171117-00/?p=97416,/u/calvin,12
+0,2017-11-17 14:44:46 -0600,"/t/historical,/t/person",The Female Supercomputer Designer Who Inspired Steve Jobs,https://www.fastcodesign.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs,/u/sevan,12
+0,2017-11-17 02:43:52 -0600,/t/networking,Creating an Autonomous System for Fun and Profit,http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html,/u/peter,35

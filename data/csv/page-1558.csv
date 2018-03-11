@@ -1,25 +1,25 @@
-0,2012-08-13 16:13:21 -0500,['/t/hardware'],Where Arduinos are Born: Touring a PCB Factory,http://www.bunniestudios.com/blog/?p=2407,/u/jcs,6
-0,2012-08-13 14:55:44 -0500,"['/t/release', '/t/web']",You want freedom? Build it.,http://blog.davewilkinsonii.com/posts/2012-08-12-you-want-freedom-build-it,/u/steveklabnik,6
-0,2012-08-13 22:03:07 -0500,"['/t/assembly', '/t/hardware']",X64 Deep Dive,http://www.codemachine.com/article_x64deepdive.html,/u/kyle,2
-0,2012-08-13 15:55:10 -0500,"['/t/hardware', '/t/privacy']",Wiping data from a hard drive: /dev/zero or /dev/random - what is more secure and why?,http://stackoverflow.com/questions/11499409/dev-zero-or-dev-random-what-is-more-secure-and-why,/u/lynge,4
-0,2012-08-14 00:26:36 -0500,['/t/compsci'],Statistical analysis of web performance data (Speed Awareness Month),http://www.speedawarenessmonth.com/analysing-performance-data/,/u/jphpsf,1
-2,2012-08-13 13:29:29 -0500,"['/t/news', '/t/security']",Tarsnap now takes credit cards (without Paypal),http://www.daemonology.net/blog/2012-08-13-tarsnap-credit-cards.html,/u/jcs,3
-0,2012-08-13 11:03:04 -0500,"['/t/design', '/t/javascript']",How do I land on Mars?,http://mars.jpl.nasa.gov/msl/multimedia/interactives/edlcuriosity/index-2.html,/u/jphpsf,6
-0,2012-08-13 20:13:18 -0500,"['/t/browsers', '/t/hardware', '/t/javascript', '/t/web']",Open Source JavaScript+Canvas+HTML5 GameBoy Color Emulator (with ROMs),http://gamecenter.grantgalitz.org/,/u/crow,1
-0,2012-08-13 08:11:01 -0500,"['/t/assembly', '/t/reversing']",More human than human – Flame’s code injection techniques,http://www.cert.pl/news/5874/langswitch_lang/en,/u/kyle,4
-0,2012-08-13 08:09:13 -0500,"['/t/assembly', '/t/c', '/t/linux']",How statically linked programs run on Linux,http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/,/u/kyle,4
-0,2012-08-13 10:56:33 -0500,['/t/person'],Alex Payne — Staying Healthy and Sane At a Startup,http://al3x.net/2010/09/07/startup-health.html,/u/jphpsf,2
-0,2012-08-12 21:30:36 -0500,"['/t/compsci', '/t/scaling']",Distributed Systems Reading List,http://dancres.org/reading_list.html,/u/steveklabnik,5
-1,2012-08-12 23:22:20 -0500,"['/t/compsci', '/t/release']",Sorting and Searching at the Library,http://jorendorff.github.com/hackday/2012/library/,/u/moses,3
-0,2012-08-12 19:53:08 -0500,"['/t/security', '/t/virtualization']",Data exfiltration through the VMware hypervisor,http://www.idontplaydarts.com/2012/08/data-exfiltration-through-the-vmware-hypervisor/,/u/kyle,3
-0,2012-08-12 16:48:05 -0500,['/t/c'],On-The-Fly C++,http://blog.coldflake.com/posts/2012-08-09-On-the-fly-C%2B%2B.html,/u/kyle,4
-0,2012-08-12 16:41:21 -0500,"['/t/lisp', '/t/unix']",The UNIX-HATERS Handbook,http://m.simson.net/ugh.pdf,/u/steveklabnik,3
-0,2012-08-12 15:07:40 -0500,['/t/release'],What “Worse is Better vs The Right Thing” is really about,http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html,/u/jamesbritt,3
-0,2012-08-12 11:58:31 -0500,"['/t/c', '/t/release', '/t/scaling']",Getting 2.5 Megalines of code to behave,http://jlouisramblings.blogspot.com/2012/08/getting-25-megalines-of-code-to-behave.html,/u/kyle,4
-0,2012-08-12 20:22:59 -0500,['/t/news'],Why do successful tech companies fail so often?,http://www.thestar.com/business/article/1240320--why-do-successful-tech-companies-fail-so-often,/u/jamesbritt,1
-20,2012-08-11 23:27:13 -0500,['/t/release'],Leaving Github,http://bytbox.net/blog/2012/08/leaving-github.html,/u/steveklabnik,8
-0,2012-08-12 16:51:24 -0500,"['/t/privacy', '/t/release']",The Federated Web Should Be Easier Than It Sounds,http://techcrunch.com/2012/08/03/the-federated-web-should-be-easier-than-it-sounds/,/u/steveklabnik,1
-0,2012-08-12 13:48:42 -0500,"['/t/android', '/t/security']",Android analysis framework,http://www.dexlabs.org/blog/btdetect,/u/kyle,1
-0,2012-08-12 01:46:13 -0500,['/t/c'],Essential C,http://cslibrary.stanford.edu/101/,/u/kyle,5
-7,2012-08-11 13:39:23 -0500,['/t/vim'],Vim as your IDE,http://haridas.in/vim-as-your-ide.html,/u/mc,8
-0,2012-08-12 09:55:48 -0500,['/t/php'],5 commands to be a better PHP developer - while(true),http://tydeas.tumblr.com/post/29226598941/git-pre-commit-php-psr-standard,/u/dmtrs,1
+0,2012-08-13 16:13:21 -0500,/t/hardware,Where Arduinos are Born: Touring a PCB Factory,http://www.bunniestudios.com/blog/?p=2407,/u/jcs,6
+0,2012-08-13 14:55:44 -0500,"/t/release,/t/web",You want freedom? Build it.,http://blog.davewilkinsonii.com/posts/2012-08-12-you-want-freedom-build-it,/u/steveklabnik,6
+0,2012-08-13 22:03:07 -0500,"/t/assembly,/t/hardware",X64 Deep Dive,http://www.codemachine.com/article_x64deepdive.html,/u/kyle,2
+0,2012-08-13 15:55:10 -0500,"/t/hardware,/t/privacy",Wiping data from a hard drive: /dev/zero or /dev/random - what is more secure and why?,http://stackoverflow.com/questions/11499409/dev-zero-or-dev-random-what-is-more-secure-and-why,/u/lynge,4
+0,2012-08-14 00:26:36 -0500,/t/compsci,Statistical analysis of web performance data (Speed Awareness Month),http://www.speedawarenessmonth.com/analysing-performance-data/,/u/jphpsf,1
+2,2012-08-13 13:29:29 -0500,"/t/news,/t/security",Tarsnap now takes credit cards (without Paypal),http://www.daemonology.net/blog/2012-08-13-tarsnap-credit-cards.html,/u/jcs,3
+0,2012-08-13 11:03:04 -0500,"/t/design,/t/javascript",How do I land on Mars?,http://mars.jpl.nasa.gov/msl/multimedia/interactives/edlcuriosity/index-2.html,/u/jphpsf,6
+0,2012-08-13 20:13:18 -0500,"/t/browsers,/t/hardware,/t/javascript,/t/web",Open Source JavaScript+Canvas+HTML5 GameBoy Color Emulator (with ROMs),http://gamecenter.grantgalitz.org/,/u/crow,1
+0,2012-08-13 08:11:01 -0500,"/t/assembly,/t/reversing",More human than human – Flame’s code injection techniques,http://www.cert.pl/news/5874/langswitch_lang/en,/u/kyle,4
+0,2012-08-13 08:09:13 -0500,"/t/assembly,/t/c,/t/linux",How statically linked programs run on Linux,http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/,/u/kyle,4
+0,2012-08-13 10:56:33 -0500,/t/person,Alex Payne — Staying Healthy and Sane At a Startup,http://al3x.net/2010/09/07/startup-health.html,/u/jphpsf,2
+0,2012-08-12 21:30:36 -0500,"/t/compsci,/t/scaling",Distributed Systems Reading List,http://dancres.org/reading_list.html,/u/steveklabnik,5
+1,2012-08-12 23:22:20 -0500,"/t/compsci,/t/release",Sorting and Searching at the Library,http://jorendorff.github.com/hackday/2012/library/,/u/moses,3
+0,2012-08-12 19:53:08 -0500,"/t/security,/t/virtualization",Data exfiltration through the VMware hypervisor,http://www.idontplaydarts.com/2012/08/data-exfiltration-through-the-vmware-hypervisor/,/u/kyle,3
+0,2012-08-12 16:48:05 -0500,/t/c,On-The-Fly C++,http://blog.coldflake.com/posts/2012-08-09-On-the-fly-C%2B%2B.html,/u/kyle,4
+0,2012-08-12 16:41:21 -0500,"/t/lisp,/t/unix",The UNIX-HATERS Handbook,http://m.simson.net/ugh.pdf,/u/steveklabnik,3
+0,2012-08-12 15:07:40 -0500,/t/release,What “Worse is Better vs The Right Thing” is really about,http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html,/u/jamesbritt,3
+0,2012-08-12 11:58:31 -0500,"/t/c,/t/release,/t/scaling",Getting 2.5 Megalines of code to behave,http://jlouisramblings.blogspot.com/2012/08/getting-25-megalines-of-code-to-behave.html,/u/kyle,4
+0,2012-08-12 20:22:59 -0500,/t/news,Why do successful tech companies fail so often?,http://www.thestar.com/business/article/1240320--why-do-successful-tech-companies-fail-so-often,/u/jamesbritt,1
+20,2012-08-11 23:27:13 -0500,/t/release,Leaving Github,http://bytbox.net/blog/2012/08/leaving-github.html,/u/steveklabnik,8
+0,2012-08-12 16:51:24 -0500,"/t/privacy,/t/release",The Federated Web Should Be Easier Than It Sounds,http://techcrunch.com/2012/08/03/the-federated-web-should-be-easier-than-it-sounds/,/u/steveklabnik,1
+0,2012-08-12 13:48:42 -0500,"/t/android,/t/security",Android analysis framework,http://www.dexlabs.org/blog/btdetect,/u/kyle,1
+0,2012-08-12 01:46:13 -0500,/t/c,Essential C,http://cslibrary.stanford.edu/101/,/u/kyle,5
+7,2012-08-11 13:39:23 -0500,/t/vim,Vim as your IDE,http://haridas.in/vim-as-your-ide.html,/u/mc,8
+0,2012-08-12 09:55:48 -0500,/t/php,5 commands to be a better PHP developer - while(true),http://tydeas.tumblr.com/post/29226598941/git-pre-commit-php-psr-standard,/u/dmtrs,1

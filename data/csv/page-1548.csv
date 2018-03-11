@@ -1,25 +1,25 @@
-0,2012-09-04 09:10:13 -0500,"['/t/assembly', '/t/hardware']",Raspberry Pi Operating Systems Development,http://www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/os/,/u/benwoody,8
-0,2012-09-04 13:39:39 -0500,"['/t/linux', '/t/security']",Azimuth Security: Poking Holes in AppArmor Profiles,http://blog.azimuthsecurity.com/2012/09/poking-holes-in-apparmor-profiles.html,/u/syndrowm,4
-5,2012-09-04 01:10:16 -0500,"['/t/book', '/t/go']",An Introduction to Programming in Go,http://www.golang-book.com/,/u/nexneo,8
-0,2012-09-04 13:31:28 -0500,['/t/web'],Adobe's CSS Shaders Now an Official Web Standard,http://www.webmonkey.com/2012/09/adobes-css-shaders-now-an-official-web-standard/,/u/davidpett,3
-1,2012-09-04 11:12:17 -0500,"['/t/c', '/t/compsci']",The Lemon Parser Generator,http://www.hwaci.com/sw/lemon/lemon.html,/u/kyle,2
-0,2012-09-04 12:57:48 -0500,['/t/release'],Study: Intelligent Cars Could Boost Highway Capacity by 273%,http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/intelligent-cars-could-boost-highway-capacity-by-273#.UEZAIqv-vCA.hackernews,/u/dmix,3
-0,2012-09-04 15:36:32 -0500,"['/t/databases', '/t/release']",GitHub Archive,http://www.githubarchive.org/,/u/igrigorik,2
-6,2012-09-03 23:42:53 -0500,"['/t/ios', '/t/security']","1,000,001 unique Apple Device UDIDs, found on FBI laptop, released by Anonymous",http://pastebin.com/nfVT7b0Z,/u/brntn,9
-0,2012-09-04 13:25:38 -0500,['/t/web'],Generating Boxes in CSS - CSS Regions,http://blogs.adobe.com/webplatform/2012/09/04/generating-boxes-in-css/,/u/davidpett,2
-2,2012-09-04 02:39:09 -0500,['/t/news'],Is Stripe over-dependent on email ?,http://blog.grexit.com/is-stripe-over-dependent-on-email/,/u/niteshn,3
-2,2012-09-04 05:27:38 -0500,"['/t/show', '/t/devops', '/t/ruby']",Rcollectd - An idea for a simple and minimal system statistics collector,https://github.com/pkhamre/rcollectd,/u/pkhamre,3
-0,2012-09-04 13:50:17 -0500,['/t/networking'],InfiniBand. Back from the dead?,http://gigaom.com/cloud/infiniband-back-from-the-dead/,/u/ajdecon,1
-0,2012-09-04 04:58:46 -0500,"['/t/video', '/t/databases']","NoSQL Tapes: A filmed compilation of interviews, explanations & case-studies",http://vimeo.com/nosqltapes,/u/racerx,4
-2,2012-09-03 19:45:20 -0500,"['/t/compsci', '/t/databases', '/t/lisp', '/t/release']",Erik Meijer and Rich Hickey talk about Clojure and Datomic,http://channel9.msdn.com/posts/Expert-to-Expert-Erik-Meijer-and-Rich-Hickey-Clojure-and-Datomic,/u/steveklabnik,9
-3,2012-09-03 17:10:38 -0500,"['/t/browsers', '/t/web']",Brand-new Firefox 16 Beta lays a sharp focus on web developers,http://www.noupe.com/css3/brandnew-firefox-16-beta-lays-sharp-focus-web-developers-71207.html,/u/jeremybuff,9
-1,2012-09-03 14:50:26 -0500,['/t/visualization'],Datavisualization.ch Selected Tools,http://selection.datavisualization.ch/,/u/jcs,12
-6,2012-09-03 14:52:16 -0500,['/t/meta'],Threads for Another User,/s/bwfzks/threads_for_another_user,/u/wycats,25
-0,2012-09-04 05:00:44 -0500,['/t/release'],"In the cloud, highly available distributed objects will rule",http://queue.acm.org/detail.cfm?id=2338507,/u/racerx,2
-3,2012-09-03 14:52:02 -0500,"['/t/lua', '/t/unix']",Nginx and Lua,http://devblog.mixlr.com/2012/09/01/nginx-lua/,/u/jcs,8
-9,2012-09-03 17:34:55 -0500,['/t/meta'],Activity since last viewing lobste.rs,/s/zkm7r6/activity_since_last_viewing_lobste_rs,/u/ivan,16
-1,2012-09-03 17:34:44 -0500,['/t/visualization'],WolframAlpha Launches In-Depth Personal Analytics For Facebook Profiles,http://marketingland.com/wolframalpha-launches-in-depth-personal-analytics-for-facebook-profiles-20375,/u/randfish,6
-0,2012-09-04 05:01:53 -0500,['/t/release'],Alan Kay: Normal Considered Harmful,http://www.youtube.com/watch?v=FvmTSpJU-Xc,/u/racerx,1
-1,2012-09-03 20:34:32 -0500,"['/t/hardware', '/t/linux', '/t/security']","The tale of SSDs: Crucial C300 early Death, Samsung 830 extreme random IO slowness, and settling with OCZ Vertex 4",http://marc.merlins.org/perso/linux/post_2012-08-15_The-tale-of-SSDs_-Crucial-C300-early-Death_-Samsung-830-extreme-random-IO-slowness_-and-settling-with-OCZ-Vertex-4.html,/u/brycv,2
-8,2012-09-03 19:37:21 -0500,['/t/meta'],Duplicate comments?,/s/gb7v3s/duplicate_comments,/u/steveklabnik,6
-2,2012-09-04 00:15:22 -0500,['/t/meta'],"""Duplicate"" as a Reason for Downvote",/s/yn072f/duplicate_as_reason_for_downvote,/u/wycats,3
+0,2012-09-04 09:10:13 -0500,"/t/assembly,/t/hardware",Raspberry Pi Operating Systems Development,http://www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/os/,/u/benwoody,8
+0,2012-09-04 13:39:39 -0500,"/t/linux,/t/security",Azimuth Security: Poking Holes in AppArmor Profiles,http://blog.azimuthsecurity.com/2012/09/poking-holes-in-apparmor-profiles.html,/u/syndrowm,4
+5,2012-09-04 01:10:16 -0500,"/t/book,/t/go",An Introduction to Programming in Go,http://www.golang-book.com/,/u/nexneo,8
+0,2012-09-04 13:31:28 -0500,/t/web,Adobe's CSS Shaders Now an Official Web Standard,http://www.webmonkey.com/2012/09/adobes-css-shaders-now-an-official-web-standard/,/u/davidpett,3
+1,2012-09-04 11:12:17 -0500,"/t/c,/t/compsci",The Lemon Parser Generator,http://www.hwaci.com/sw/lemon/lemon.html,/u/kyle,2
+0,2012-09-04 12:57:48 -0500,/t/release,Study: Intelligent Cars Could Boost Highway Capacity by 273%,http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/intelligent-cars-could-boost-highway-capacity-by-273#.UEZAIqv-vCA.hackernews,/u/dmix,3
+0,2012-09-04 15:36:32 -0500,"/t/databases,/t/release",GitHub Archive,http://www.githubarchive.org/,/u/igrigorik,2
+6,2012-09-03 23:42:53 -0500,"/t/ios,/t/security","1,000,001 unique Apple Device UDIDs, found on FBI laptop, released by Anonymous",http://pastebin.com/nfVT7b0Z,/u/brntn,9
+0,2012-09-04 13:25:38 -0500,/t/web,Generating Boxes in CSS - CSS Regions,http://blogs.adobe.com/webplatform/2012/09/04/generating-boxes-in-css/,/u/davidpett,2
+2,2012-09-04 02:39:09 -0500,/t/news,Is Stripe over-dependent on email ?,http://blog.grexit.com/is-stripe-over-dependent-on-email/,/u/niteshn,3
+2,2012-09-04 05:27:38 -0500,"/t/show,/t/devops,/t/ruby",Rcollectd - An idea for a simple and minimal system statistics collector,https://github.com/pkhamre/rcollectd,/u/pkhamre,3
+0,2012-09-04 13:50:17 -0500,/t/networking,InfiniBand. Back from the dead?,http://gigaom.com/cloud/infiniband-back-from-the-dead/,/u/ajdecon,1
+0,2012-09-04 04:58:46 -0500,"/t/video,/t/databases","NoSQL Tapes: A filmed compilation of interviews, explanations & case-studies",http://vimeo.com/nosqltapes,/u/racerx,4
+2,2012-09-03 19:45:20 -0500,"/t/compsci,/t/databases,/t/lisp,/t/release",Erik Meijer and Rich Hickey talk about Clojure and Datomic,http://channel9.msdn.com/posts/Expert-to-Expert-Erik-Meijer-and-Rich-Hickey-Clojure-and-Datomic,/u/steveklabnik,9
+3,2012-09-03 17:10:38 -0500,"/t/browsers,/t/web",Brand-new Firefox 16 Beta lays a sharp focus on web developers,http://www.noupe.com/css3/brandnew-firefox-16-beta-lays-sharp-focus-web-developers-71207.html,/u/jeremybuff,9
+1,2012-09-03 14:50:26 -0500,/t/visualization,Datavisualization.ch Selected Tools,http://selection.datavisualization.ch/,/u/jcs,12
+6,2012-09-03 14:52:16 -0500,/t/meta,Threads for Another User,/s/bwfzks/threads_for_another_user,/u/wycats,25
+0,2012-09-04 05:00:44 -0500,/t/release,"In the cloud, highly available distributed objects will rule",http://queue.acm.org/detail.cfm?id=2338507,/u/racerx,2
+3,2012-09-03 14:52:02 -0500,"/t/lua,/t/unix",Nginx and Lua,http://devblog.mixlr.com/2012/09/01/nginx-lua/,/u/jcs,8
+9,2012-09-03 17:34:55 -0500,/t/meta,Activity since last viewing lobste.rs,/s/zkm7r6/activity_since_last_viewing_lobste_rs,/u/ivan,16
+1,2012-09-03 17:34:44 -0500,/t/visualization,WolframAlpha Launches In-Depth Personal Analytics For Facebook Profiles,http://marketingland.com/wolframalpha-launches-in-depth-personal-analytics-for-facebook-profiles-20375,/u/randfish,6
+0,2012-09-04 05:01:53 -0500,/t/release,Alan Kay: Normal Considered Harmful,http://www.youtube.com/watch?v=FvmTSpJU-Xc,/u/racerx,1
+1,2012-09-03 20:34:32 -0500,"/t/hardware,/t/linux,/t/security","The tale of SSDs: Crucial C300 early Death, Samsung 830 extreme random IO slowness, and settling with OCZ Vertex 4",http://marc.merlins.org/perso/linux/post_2012-08-15_The-tale-of-SSDs_-Crucial-C300-early-Death_-Samsung-830-extreme-random-IO-slowness_-and-settling-with-OCZ-Vertex-4.html,/u/brycv,2
+8,2012-09-03 19:37:21 -0500,/t/meta,Duplicate comments?,/s/gb7v3s/duplicate_comments,/u/steveklabnik,6
+2,2012-09-04 00:15:22 -0500,/t/meta,"""Duplicate"" as a Reason for Downvote",/s/yn072f/duplicate_as_reason_for_downvote,/u/wycats,3

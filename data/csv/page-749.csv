@@ -1,25 +1,25 @@
-1,2016-06-15 02:48:29 -0500,['/t/rust'],Using ltrace to debug a memory leak,http://jvns.ca/blog/2016/06/15/using-ltrace-to-debug-a-memory-leak/,/u/Dawny33,6
-1,2016-06-14 17:07:17 -0500,"['/t/law', '/t/privacy']",​NSW government to track citizen location in 30 minute increments,http://www.zdnet.com/article/nsw-government-playing-big-brother-with-citizens-data/,/u/pushcx,16
-0,2016-06-14 18:02:09 -0500,['/t/programming'],Crystal 0.18.0 released!,http://crystal-lang.org/2016/06/14/crystal-0.18.0-released.html,/u/mperham,18
-0,2016-06-15 11:11:38 -0500,"['/t/cryptocurrencies', '/t/finance']",Digital Currency for Social Good: a Reading List,https://medium.com/@mozzadrella/digital-currency-for-social-good-a-reading-list-adc2a1e385e2,/u/pushcx,2
-0,2016-06-14 16:22:27 -0500,['/t/assembly'],Ancient code,http://thecodelesscode.com/misc/ancient-code,/u/pushcx,15
-2,2016-06-14 00:47:56 -0500,"['/t/api', '/t/lisp']","Interesting Comment on ""My Increasing Frustration With Clojure""",https://www.reddit.com/r/Clojure/comments/4nlhgn/my_increasing_frustration_with_clojure/d4543dt,/u/data_hope,60
-6,2016-06-14 08:17:39 -0500,['/t/ruby'],Make Everything The Same,http://www.sandimetz.com/blog/2016/6/9/make-everything-the-same,/u/pushcx,21
-5,2016-06-14 10:40:45 -0500,"['/t/finance', '/t/hardware']",Storage Will Be Much Less Free Than It Used To Be (2014),http://blog.dshr.org/2014/05/talk-at-seagate.html,/u/unbalancedparentheses,16
-6,2016-06-14 05:07:34 -0500,"['/t/math', '/t/programming']",libzahl - big integer library,http://git.suckless.org/libzahl/,/u/sin,15
-0,2016-06-15 00:23:36 -0500,['/t/crypto'],Order-Revealing Encryption,https://crypto.stanford.edu/ore/,/u/ajisaiko,3
-2,2016-06-14 09:44:42 -0500,['/t/devops'],Habitat - Automation That Travels with the App,https://www.habitat.sh/,/u/355E3B,12
-5,2016-06-14 08:18:02 -0500,['/t/c'],Checked C - an extension of C that adds bounds checking to C,https://github.com/Microsoft/CheckedC,/u/pyk,10
-1,2016-06-14 14:35:57 -0500,"['/t/emacs', '/t/science', '/t/vcs']",Effective Reproducible Research with Org-Mode and Git,https://www.researchgate.net/publication/281886434_Effective_Reproducible_Research_with_Org-Mode_and_Git,/u/JordiGH,6
-0,2016-06-14 17:12:58 -0500,"['/t/programming', '/t/ruby']",Test Driving Sidekiq and Crystal,http://www.mikeperham.com/2016/06/14/test-driving-sidekiq-and-crystal/,/u/zem,5
-0,2016-06-15 09:07:55 -0500,['/t/satire'],[Parody] VR Headsets Are Not Revolutionary.,https://ecc-comp.blogspot.com/2015/05/parody-vr-headsets-are-not-revolutionary.html,/u/indirection,0
-0,2016-06-14 14:14:19 -0500,"['/t/practices', '/t/privacy']",I don’t want to be LinkedIn with Microsoft,http://www.computerworld.com/article/3083424/social-media/i-don-t-want-to-be-linkedin-with-microsoft.html,/u/mulander,6
-2,2016-06-14 06:11:16 -0500,"['/t/c', '/t/games', '/t/graphics', '/t/java']",A mod to replace Minecraft's Java OpenGL2.1 renderer with a C++ OpenGL 4.5 renderer,https://github.com/DethRaid/nova-renderer,/u/calvin,8
-0,2016-06-14 20:41:13 -0500,"['/t/browsers', '/t/release']",MailtoWebmails,https://github.com/Noitidart/MailtoWebmails,/u/flyingfisch,2
-10,2016-06-13 14:52:52 -0500,['/t/security'],Signal weakening its security,https://twitter.com/taoeffect/status/742425649894150144,/u/itistoday,20
-2,2016-06-14 11:16:46 -0500,"['/t/elixir', '/t/graphics']",Getting started with OpenGL in Elixir,https://wtfleming.github.io/2016/01/06/getting-started-opengl-elixir/,/u/friendlysock,4
-1,2016-06-14 09:14:17 -0500,['/t/devops'],9 Common Dockerfile Mistakes,http://blog.runnable.com/post/145895165446/9-common-dockerfile-mistakes,/u/sundip,7
-4,2016-06-14 13:00:35 -0500,"['/t/culture', '/t/elixir', '/t/practices']",A Language for the Next 10 Years,http://programmingzen.com/2016/06/14/next-programming-language/,/u/friendlysock,9
-15,2016-06-13 18:35:53 -0500,"['/t/practices', '/t/unix']",Should you be scared of Unix signals?,http://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/,/u/friendlysock,15
-0,2016-06-14 13:19:37 -0500,"['/t/historical', '/t/networking', '/t/science']","Implementation of RFC 1149, aka IP over Avian Carriers (2001)",http://www.blug.linux.no/rfc1149/,/u/kel,3
-0,2016-06-14 10:24:31 -0500,"['/t/javascript', '/t/web']",A Promise-Based Worldview,https://ponyfoo.com/articles/promise-worldview,/u/ponyfoo,2
+1,2016-06-15 02:48:29 -0500,/t/rust,Using ltrace to debug a memory leak,http://jvns.ca/blog/2016/06/15/using-ltrace-to-debug-a-memory-leak/,/u/Dawny33,6
+1,2016-06-14 17:07:17 -0500,"/t/law,/t/privacy",​NSW government to track citizen location in 30 minute increments,http://www.zdnet.com/article/nsw-government-playing-big-brother-with-citizens-data/,/u/pushcx,16
+0,2016-06-14 18:02:09 -0500,/t/programming,Crystal 0.18.0 released!,http://crystal-lang.org/2016/06/14/crystal-0.18.0-released.html,/u/mperham,18
+0,2016-06-15 11:11:38 -0500,"/t/cryptocurrencies,/t/finance",Digital Currency for Social Good: a Reading List,https://medium.com/@mozzadrella/digital-currency-for-social-good-a-reading-list-adc2a1e385e2,/u/pushcx,2
+0,2016-06-14 16:22:27 -0500,/t/assembly,Ancient code,http://thecodelesscode.com/misc/ancient-code,/u/pushcx,15
+2,2016-06-14 00:47:56 -0500,"/t/api,/t/lisp","Interesting Comment on ""My Increasing Frustration With Clojure""",https://www.reddit.com/r/Clojure/comments/4nlhgn/my_increasing_frustration_with_clojure/d4543dt,/u/data_hope,60
+6,2016-06-14 08:17:39 -0500,/t/ruby,Make Everything The Same,http://www.sandimetz.com/blog/2016/6/9/make-everything-the-same,/u/pushcx,21
+5,2016-06-14 10:40:45 -0500,"/t/finance,/t/hardware",Storage Will Be Much Less Free Than It Used To Be (2014),http://blog.dshr.org/2014/05/talk-at-seagate.html,/u/unbalancedparentheses,16
+6,2016-06-14 05:07:34 -0500,"/t/math,/t/programming",libzahl - big integer library,http://git.suckless.org/libzahl/,/u/sin,15
+0,2016-06-15 00:23:36 -0500,/t/crypto,Order-Revealing Encryption,https://crypto.stanford.edu/ore/,/u/ajisaiko,3
+2,2016-06-14 09:44:42 -0500,/t/devops,Habitat - Automation That Travels with the App,https://www.habitat.sh/,/u/355E3B,12
+5,2016-06-14 08:18:02 -0500,/t/c,Checked C - an extension of C that adds bounds checking to C,https://github.com/Microsoft/CheckedC,/u/pyk,10
+1,2016-06-14 14:35:57 -0500,"/t/emacs,/t/science,/t/vcs",Effective Reproducible Research with Org-Mode and Git,https://www.researchgate.net/publication/281886434_Effective_Reproducible_Research_with_Org-Mode_and_Git,/u/JordiGH,6
+0,2016-06-14 17:12:58 -0500,"/t/programming,/t/ruby",Test Driving Sidekiq and Crystal,http://www.mikeperham.com/2016/06/14/test-driving-sidekiq-and-crystal/,/u/zem,5
+0,2016-06-15 09:07:55 -0500,/t/satire,[Parody] VR Headsets Are Not Revolutionary.,https://ecc-comp.blogspot.com/2015/05/parody-vr-headsets-are-not-revolutionary.html,/u/indirection,0
+0,2016-06-14 14:14:19 -0500,"/t/practices,/t/privacy",I don’t want to be LinkedIn with Microsoft,http://www.computerworld.com/article/3083424/social-media/i-don-t-want-to-be-linkedin-with-microsoft.html,/u/mulander,6
+2,2016-06-14 06:11:16 -0500,"/t/c,/t/games,/t/graphics,/t/java",A mod to replace Minecraft's Java OpenGL2.1 renderer with a C++ OpenGL 4.5 renderer,https://github.com/DethRaid/nova-renderer,/u/calvin,8
+0,2016-06-14 20:41:13 -0500,"/t/browsers,/t/release",MailtoWebmails,https://github.com/Noitidart/MailtoWebmails,/u/flyingfisch,2
+10,2016-06-13 14:52:52 -0500,/t/security,Signal weakening its security,https://twitter.com/taoeffect/status/742425649894150144,/u/itistoday,20
+2,2016-06-14 11:16:46 -0500,"/t/elixir,/t/graphics",Getting started with OpenGL in Elixir,https://wtfleming.github.io/2016/01/06/getting-started-opengl-elixir/,/u/friendlysock,4
+1,2016-06-14 09:14:17 -0500,/t/devops,9 Common Dockerfile Mistakes,http://blog.runnable.com/post/145895165446/9-common-dockerfile-mistakes,/u/sundip,7
+4,2016-06-14 13:00:35 -0500,"/t/culture,/t/elixir,/t/practices",A Language for the Next 10 Years,http://programmingzen.com/2016/06/14/next-programming-language/,/u/friendlysock,9
+15,2016-06-13 18:35:53 -0500,"/t/practices,/t/unix",Should you be scared of Unix signals?,http://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/,/u/friendlysock,15
+0,2016-06-14 13:19:37 -0500,"/t/historical,/t/networking,/t/science","Implementation of RFC 1149, aka IP over Avian Carriers (2001)",http://www.blug.linux.no/rfc1149/,/u/kel,3
+0,2016-06-14 10:24:31 -0500,"/t/javascript,/t/web",A Promise-Based Worldview,https://ponyfoo.com/articles/promise-worldview,/u/ponyfoo,2

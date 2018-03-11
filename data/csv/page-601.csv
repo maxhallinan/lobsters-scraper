@@ -1,25 +1,25 @@
-0,2016-11-14 19:44:26 -0600,['/t/programming'],"To Learn Programming, Do Projects You Actually Care About",https://datarebellion.com/blog/to-learn-programming-do-projects-you-actually-care-about/,/u/calvin,3
-2,2016-11-14 07:18:54 -0600,['/t/security'],Practical Cryptography,http://practicalcryptography.com/,/u/av,11
-0,2016-11-14 19:18:42 -0600,"['/t/video', '/t/compsci', '/t/python', '/t/unix', '/t/windows']",PyParallel - How We Removed the GIL and Exploited All Cores (2013),https://vimeo.com/79539317,/u/sevan,2
-0,2016-11-14 03:24:17 -0600,"['/t/browsers', '/t/openbsd', '/t/privacy', '/t/release']",Import (finally!) Tor Browser 6.0.5 (OpenBSD port),https://marc.info/?l=openbsd-ports-cvs&m=147907177720815&w=2,/u/jabberwock,14
-0,2016-11-14 10:02:42 -0600,"['/t/compsci', '/t/math']",Meet the Robinson,https://hardmath123.github.io/meet-the-robinson.html,/u/evhan,6
-0,2016-11-14 12:54:29 -0600,"['/t/pdf', '/t/compilers', '/t/compsci', '/t/programming']",Static Program Analysis,https://cs.au.dk/~amoeller/spa/spa.pdf,/u/petergao,4
-1,2016-11-14 11:03:17 -0600,"['/t/assembly', '/t/compsci', '/t/hardware', '/t/ml', '/t/programming']",OcaPIC - PIC microcontrollers programmed in Ocaml,http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC,/u/nickpsecurity,5
-0,2016-11-14 13:32:27 -0600,['/t/javascript'],vocalizer - A super simple javascript plugin to help others say your name correctly.,https://github.com/atifazam/vocalizer,/u/flyingfisch,3
-0,2016-11-14 19:42:39 -0600,"['/t/practices', '/t/programming']",Names are important – improving use of terms in software engineering,https://andidog.de/blog/2016-11-14-names-are-important-improving-use-of-terms-in-software-engineering,/u/calvin,1
-0,2016-11-14 01:43:34 -0600,['/t/debugging'],rr: Lightweight User-Space Record And Replay,https://arxiv.org/abs/1610.02144,/u/sanxiyn,12
-0,2016-11-14 05:11:56 -0600,['/t/go'],Do not fear first class functions,https://dave.cheney.net/2016/11/13/do-not-fear-first-class-functions,/u/rbn,8
-3,2016-11-13 19:25:46 -0600,['/t/freebsd'],"FreeBSD Quarterly Status Report - July, 2016 - September, 2016",https://www.freebsd.org/news/status/report-2016-07-2016-09.html,/u/sevan,13
-0,2016-11-14 10:59:14 -0600,"['/t/practices', '/t/web']",Fast web - How to automate performance tests,https://www.romanzolotarev.com/fast/,/u/romanzolotarev,1
-0,2016-11-14 14:49:36 -0600,"['/t/design', '/t/web']",Designing Accessible Software - Breaking Down WCAG 2.0,https://spin.atomicobject.com/2016/11/13/breaking-down-wcag-2-0/,/u/zigg,1
-5,2016-11-13 20:43:27 -0600,"['/t/practices', '/t/programming']",Self-taught Software Engineers: Why Open Source is important to us – RockNNull,https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576,/u/gadams,6
-8,2016-11-13 07:48:53 -0600,"['/t/devops', '/t/practices']",How We Knew It Was Time to Leave the Cloud,https://about.gitlab.com/2016/11/10/why-choose-bare-metal/,/u/gadams,24
-0,2016-11-14 10:20:08 -0600,['/t/python'],Load Testing with Locust,https://www.promptworks.com/blog/load-testing-with-locust,/u/promptworks,2
-0,2016-11-14 12:05:55 -0600,['/t/css'],position: sticky;,https://css-tricks.com/position-sticky-2/,/u/flyingfisch,1
-1,2016-11-14 13:33:08 -0600,['/t/culture'],My Increasing Wariness of Dogmatism,https://css-tricks.com/increasing-wariness-dogmatism/,/u/flyingfisch,2
-0,2016-11-14 01:31:51 -0600,"['/t/debugging', '/t/php']",Dontbug: A reverse debugger for PHP (based on rr),https://github.com/sidkshatriya/dontbug,/u/sanxiyn,4
-1,2016-11-14 02:44:30 -0600,"['/t/distributed', '/t/javascript']",Fighting Ebola with JavaScript,https://medium.com/net-magazine/fighting-ebola-with-javascript-26b48da8f84a,/u/Dawny33,2
-0,2016-11-13 08:15:26 -0600,['/t/c'],Reordering Command-line Arguments,http://www.hardtoc.com/2016/11/07/reordering-arguments.html,/u/jibsen,12
-3,2016-11-13 12:50:05 -0600,"['/t/release', '/t/windows']",KiTTY: A fork of PuTTY with tons of new features,http://www.9bis.net/kitty/,/u/zem,8
-0,2016-11-13 10:22:52 -0600,"['/t/programming', '/t/python']",Understanding the python internals,https://leanpub.com/insidethepythonvirtualmachine,/u/c4obi,7
-3,2016-11-13 09:20:37 -0600,['/t/philosophy'],The Imposter Within,http://www.corporateprogrammer.com/blog/the-imposter-within/,/u/calvin,9
+0,2016-11-14 19:44:26 -0600,/t/programming,"To Learn Programming, Do Projects You Actually Care About",https://datarebellion.com/blog/to-learn-programming-do-projects-you-actually-care-about/,/u/calvin,3
+2,2016-11-14 07:18:54 -0600,/t/security,Practical Cryptography,http://practicalcryptography.com/,/u/av,11
+0,2016-11-14 19:18:42 -0600,"/t/video,/t/compsci,/t/python,/t/unix,/t/windows",PyParallel - How We Removed the GIL and Exploited All Cores (2013),https://vimeo.com/79539317,/u/sevan,2
+0,2016-11-14 03:24:17 -0600,"/t/browsers,/t/openbsd,/t/privacy,/t/release",Import (finally!) Tor Browser 6.0.5 (OpenBSD port),https://marc.info/?l=openbsd-ports-cvs&m=147907177720815&w=2,/u/jabberwock,14
+0,2016-11-14 10:02:42 -0600,"/t/compsci,/t/math",Meet the Robinson,https://hardmath123.github.io/meet-the-robinson.html,/u/evhan,6
+0,2016-11-14 12:54:29 -0600,"/t/pdf,/t/compilers,/t/compsci,/t/programming",Static Program Analysis,https://cs.au.dk/~amoeller/spa/spa.pdf,/u/petergao,4
+1,2016-11-14 11:03:17 -0600,"/t/assembly,/t/compsci,/t/hardware,/t/ml,/t/programming",OcaPIC - PIC microcontrollers programmed in Ocaml,http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC,/u/nickpsecurity,5
+0,2016-11-14 13:32:27 -0600,/t/javascript,vocalizer - A super simple javascript plugin to help others say your name correctly.,https://github.com/atifazam/vocalizer,/u/flyingfisch,3
+0,2016-11-14 19:42:39 -0600,"/t/practices,/t/programming",Names are important – improving use of terms in software engineering,https://andidog.de/blog/2016-11-14-names-are-important-improving-use-of-terms-in-software-engineering,/u/calvin,1
+0,2016-11-14 01:43:34 -0600,/t/debugging,rr: Lightweight User-Space Record And Replay,https://arxiv.org/abs/1610.02144,/u/sanxiyn,12
+0,2016-11-14 05:11:56 -0600,/t/go,Do not fear first class functions,https://dave.cheney.net/2016/11/13/do-not-fear-first-class-functions,/u/rbn,8
+3,2016-11-13 19:25:46 -0600,/t/freebsd,"FreeBSD Quarterly Status Report - July, 2016 - September, 2016",https://www.freebsd.org/news/status/report-2016-07-2016-09.html,/u/sevan,13
+0,2016-11-14 10:59:14 -0600,"/t/practices,/t/web",Fast web - How to automate performance tests,https://www.romanzolotarev.com/fast/,/u/romanzolotarev,1
+0,2016-11-14 14:49:36 -0600,"/t/design,/t/web",Designing Accessible Software - Breaking Down WCAG 2.0,https://spin.atomicobject.com/2016/11/13/breaking-down-wcag-2-0/,/u/zigg,1
+5,2016-11-13 20:43:27 -0600,"/t/practices,/t/programming",Self-taught Software Engineers: Why Open Source is important to us – RockNNull,https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576,/u/gadams,6
+8,2016-11-13 07:48:53 -0600,"/t/devops,/t/practices",How We Knew It Was Time to Leave the Cloud,https://about.gitlab.com/2016/11/10/why-choose-bare-metal/,/u/gadams,24
+0,2016-11-14 10:20:08 -0600,/t/python,Load Testing with Locust,https://www.promptworks.com/blog/load-testing-with-locust,/u/promptworks,2
+0,2016-11-14 12:05:55 -0600,/t/css,position: sticky;,https://css-tricks.com/position-sticky-2/,/u/flyingfisch,1
+1,2016-11-14 13:33:08 -0600,/t/culture,My Increasing Wariness of Dogmatism,https://css-tricks.com/increasing-wariness-dogmatism/,/u/flyingfisch,2
+0,2016-11-14 01:31:51 -0600,"/t/debugging,/t/php",Dontbug: A reverse debugger for PHP (based on rr),https://github.com/sidkshatriya/dontbug,/u/sanxiyn,4
+1,2016-11-14 02:44:30 -0600,"/t/distributed,/t/javascript",Fighting Ebola with JavaScript,https://medium.com/net-magazine/fighting-ebola-with-javascript-26b48da8f84a,/u/Dawny33,2
+0,2016-11-13 08:15:26 -0600,/t/c,Reordering Command-line Arguments,http://www.hardtoc.com/2016/11/07/reordering-arguments.html,/u/jibsen,12
+3,2016-11-13 12:50:05 -0600,"/t/release,/t/windows",KiTTY: A fork of PuTTY with tons of new features,http://www.9bis.net/kitty/,/u/zem,8
+0,2016-11-13 10:22:52 -0600,"/t/programming,/t/python",Understanding the python internals,https://leanpub.com/insidethepythonvirtualmachine,/u/c4obi,7
+3,2016-11-13 09:20:37 -0600,/t/philosophy,The Imposter Within,http://www.corporateprogrammer.com/blog/the-imposter-within/,/u/calvin,9

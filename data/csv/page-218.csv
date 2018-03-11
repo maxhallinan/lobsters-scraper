@@ -1,25 +1,25 @@
-0,2017-09-05 08:52:57 -0500,"['/t/databases', '/t/devops']",solidsnack/pglite -- tiny script to manage ephemeral Postgres databases.,https://github.com/solidsnack/pglite,/u/friendlysock,11
-0,2017-09-05 18:52:47 -0500,"['/t/practices', '/t/programming']",That's not our code,http://ourbit.norbertoherz.com/2017/08/22/That-is-not-our-code/,/u/calvin,3
-2,2017-09-05 16:39:16 -0500,"['/t/games', '/t/historical']",Chris Crawford vs. the Dragon,http://www.swaine.com/wordpress/chris-crawford-vs-the-dragon/,/u/julienXX,1
-1,2017-09-05 06:55:53 -0500,['/t/ruby'],Episode 96 - Auditing with Paper Trail,https://www.driftingruby.com/episodes/auditing-with-paper-trail,/u/kobaltz,4
-0,2017-09-05 18:47:27 -0500,"['/t/math', '/t/programming']",Finding the First 10-digit Prime in (a Billion) Digits of e,http://www.hanshq.net/eprime.html,/u/calvin,2
-0,2017-09-05 22:09:19 -0500,['/t/web'],Build a PDF Viewer with Vue.js and Cloudinary,https://vuejsdevelopers.com/2017/09/05/vue-js-pdf-viewer/?jsdojo_id=lob_pvc,/u/anthonygore,1
-1,2017-09-04 22:02:52 -0500,['/t/databases'],Postgres backups: Logical vs. Physical an overview,http://www.craigkerstiens.com/2017/09/03/postgres-backups-physical-vs-logical/,/u/craigkerstiens,9
-0,2017-09-05 19:59:51 -0500,['/t/testing'],In search of the Selenium IDE’s successor – Brian Anderson,https://medium.com/@briananderson2209/in-search-of-the-selenium-ides-successor-33bc7eaefe7f,/u/gkop,1
-83,2017-09-04 08:35:13 -0500,"['/t/ask', '/t/practices']",What are you working on this week?,/s/akytat/what_are_you_working_on_this_week,/u/mjn,39
-16,2017-09-04 06:48:20 -0500,"['/t/hardware', '/t/historical', '/t/practices', '/t/unix']",Oracle Finally Killed Sun,https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/,/u/sevan,58
-0,2017-09-05 18:50:55 -0500,"['/t/philosophy', '/t/practices']",Motivating Software Engineers 101,https://www.7pace.com/blog/motivating-software-engineers-101/,/u/calvin,1
-0,2017-09-05 05:23:14 -0500,['/t/go'],Go Assembly by Example,http://davidwong.fr/goasm/,/u/355E3B,7
-1,2017-09-05 07:46:57 -0500,"['/t/php', '/t/programming']","Robert C. Martin's book Clean Code, adapted for PHP",https://github.com/jupeter/clean-code-php,/u/pgl,4
-0,2017-09-05 14:19:44 -0500,"['/t/video', '/t/hardware']",The Computer Hack That Saved Apollo 14,https://www.youtube.com/watch?v=wSSmNUl9Snw,/u/pgl,2
-12,2017-09-04 09:37:48 -0500,"['/t/distributed', '/t/web']",ActivityPub: from decentralized to distributed social networks,https://gitlab.com/dustyweb/talks/blob/master/activitypub/rwot/even_more_distributed_activitypub.org,/u/paroneayea,19
-13,2017-09-04 10:42:39 -0500,"['/t/crypto', '/t/security']",Why Isn’t Telegram End-to-End Encrypted by Default?,http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14,/u/ngrilly,17
-0,2017-09-05 04:35:35 -0500,"['/t/culture', '/t/historical']",Barriers to Equality in Academia: Women in Computer Science at MIT (1983),https://homes.cs.washington.edu/~lazowska/mit/,/u/GeoffWozniak,8
-2,2017-09-04 17:21:32 -0500,"['/t/video', '/t/unix']",Illumos at 6 by Peter Tribble,https://www.youtube.com/watch?v=29yGVdtaN_0,/u/seschwar,11
-0,2017-09-05 07:44:20 -0500,"['/t/video', '/t/go']",Understanding Go's type aliases,https://www.youtube.com/watch?v=Vg603e9C-Vg,/u/UkiahSmith,2
-2,2017-09-04 14:14:14 -0500,"['/t/debugging', '/t/hardware', '/t/historical']",Personal observations on the reliability of the Shuttle,https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt,/u/friendlysock,14
-0,2017-09-05 08:59:06 -0500,['/t/databases'],Databases and Distributed Deadlocks: A FAQ,https://www.citusdata.com/blog/2017/08/31/databases-and-distributed-deadlocks-a-faq/,/u/craigkerstiens,1
-0,2017-09-05 04:38:58 -0500,['/t/browsers'],The search for the killer app of unikernels,http://unikernel.org/blog/2017/the-search-for-the-killer-app-of-unikernels,/u/catwell,2
-0,2017-09-04 21:56:27 -0500,"['/t/elixir', '/t/javascript', '/t/web']",A Phoenix+React initial setup that actually works,https://resir014.github.io/blog/2017/08/09/a-phoenix-react-initial-setup-that-actually-works/,/u/resir014,2
-6,2017-09-04 08:27:59 -0500,['/t/security'],New Techniques in Fake Reviews,https://www.schneier.com/blog/archives/2017/09/new_techniques_.html,/u/pgl,10
-0,2017-09-05 06:54:13 -0500,"['/t/crypto', '/t/security']",320 Million Hashes Exposed,http://cynosureprime.blogspot.com/2017/08/320-million-hashes-exposed.html,/u/stsp,1
+0,2017-09-05 08:52:57 -0500,"/t/databases,/t/devops",solidsnack/pglite -- tiny script to manage ephemeral Postgres databases.,https://github.com/solidsnack/pglite,/u/friendlysock,11
+0,2017-09-05 18:52:47 -0500,"/t/practices,/t/programming",That's not our code,http://ourbit.norbertoherz.com/2017/08/22/That-is-not-our-code/,/u/calvin,3
+2,2017-09-05 16:39:16 -0500,"/t/games,/t/historical",Chris Crawford vs. the Dragon,http://www.swaine.com/wordpress/chris-crawford-vs-the-dragon/,/u/julienXX,1
+1,2017-09-05 06:55:53 -0500,/t/ruby,Episode 96 - Auditing with Paper Trail,https://www.driftingruby.com/episodes/auditing-with-paper-trail,/u/kobaltz,4
+0,2017-09-05 18:47:27 -0500,"/t/math,/t/programming",Finding the First 10-digit Prime in (a Billion) Digits of e,http://www.hanshq.net/eprime.html,/u/calvin,2
+0,2017-09-05 22:09:19 -0500,/t/web,Build a PDF Viewer with Vue.js and Cloudinary,https://vuejsdevelopers.com/2017/09/05/vue-js-pdf-viewer/?jsdojo_id=lob_pvc,/u/anthonygore,1
+1,2017-09-04 22:02:52 -0500,/t/databases,Postgres backups: Logical vs. Physical an overview,http://www.craigkerstiens.com/2017/09/03/postgres-backups-physical-vs-logical/,/u/craigkerstiens,9
+0,2017-09-05 19:59:51 -0500,/t/testing,In search of the Selenium IDE’s successor – Brian Anderson,https://medium.com/@briananderson2209/in-search-of-the-selenium-ides-successor-33bc7eaefe7f,/u/gkop,1
+83,2017-09-04 08:35:13 -0500,"/t/ask,/t/practices",What are you working on this week?,/s/akytat/what_are_you_working_on_this_week,/u/mjn,39
+16,2017-09-04 06:48:20 -0500,"/t/hardware,/t/historical,/t/practices,/t/unix",Oracle Finally Killed Sun,https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/,/u/sevan,58
+0,2017-09-05 18:50:55 -0500,"/t/philosophy,/t/practices",Motivating Software Engineers 101,https://www.7pace.com/blog/motivating-software-engineers-101/,/u/calvin,1
+0,2017-09-05 05:23:14 -0500,/t/go,Go Assembly by Example,http://davidwong.fr/goasm/,/u/355E3B,7
+1,2017-09-05 07:46:57 -0500,"/t/php,/t/programming","Robert C. Martin's book Clean Code, adapted for PHP",https://github.com/jupeter/clean-code-php,/u/pgl,4
+0,2017-09-05 14:19:44 -0500,"/t/video,/t/hardware",The Computer Hack That Saved Apollo 14,https://www.youtube.com/watch?v=wSSmNUl9Snw,/u/pgl,2
+12,2017-09-04 09:37:48 -0500,"/t/distributed,/t/web",ActivityPub: from decentralized to distributed social networks,https://gitlab.com/dustyweb/talks/blob/master/activitypub/rwot/even_more_distributed_activitypub.org,/u/paroneayea,19
+13,2017-09-04 10:42:39 -0500,"/t/crypto,/t/security",Why Isn’t Telegram End-to-End Encrypted by Default?,http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14,/u/ngrilly,17
+0,2017-09-05 04:35:35 -0500,"/t/culture,/t/historical",Barriers to Equality in Academia: Women in Computer Science at MIT (1983),https://homes.cs.washington.edu/~lazowska/mit/,/u/GeoffWozniak,8
+2,2017-09-04 17:21:32 -0500,"/t/video,/t/unix",Illumos at 6 by Peter Tribble,https://www.youtube.com/watch?v=29yGVdtaN_0,/u/seschwar,11
+0,2017-09-05 07:44:20 -0500,"/t/video,/t/go",Understanding Go's type aliases,https://www.youtube.com/watch?v=Vg603e9C-Vg,/u/UkiahSmith,2
+2,2017-09-04 14:14:14 -0500,"/t/debugging,/t/hardware,/t/historical",Personal observations on the reliability of the Shuttle,https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt,/u/friendlysock,14
+0,2017-09-05 08:59:06 -0500,/t/databases,Databases and Distributed Deadlocks: A FAQ,https://www.citusdata.com/blog/2017/08/31/databases-and-distributed-deadlocks-a-faq/,/u/craigkerstiens,1
+0,2017-09-05 04:38:58 -0500,/t/browsers,The search for the killer app of unikernels,http://unikernel.org/blog/2017/the-search-for-the-killer-app-of-unikernels,/u/catwell,2
+0,2017-09-04 21:56:27 -0500,"/t/elixir,/t/javascript,/t/web",A Phoenix+React initial setup that actually works,https://resir014.github.io/blog/2017/08/09/a-phoenix-react-initial-setup-that-actually-works/,/u/resir014,2
+6,2017-09-04 08:27:59 -0500,/t/security,New Techniques in Fake Reviews,https://www.schneier.com/blog/archives/2017/09/new_techniques_.html,/u/pgl,10
+0,2017-09-05 06:54:13 -0500,"/t/crypto,/t/security",320 Million Hashes Exposed,http://cynosureprime.blogspot.com/2017/08/320-million-hashes-exposed.html,/u/stsp,1

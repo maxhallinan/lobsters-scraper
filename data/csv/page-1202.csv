@@ -1,25 +1,25 @@
-0,2014-12-10 04:53:55 -0600,"['/t/c', '/t/programming']",Hidden Costs of Memory Allocation,http://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/,/u/BruceM,15
-2,2014-12-10 12:29:24 -0600,"['/t/databases', '/t/distributed']",Database Soup: What's this pg_shard thing?,http://www.databasesoup.com/2014/12/whats-this-pgshard-thing.html,/u/peter,5
-1,2014-12-10 10:22:57 -0600,['/t/culture'],Peter Sunde: The Pirate Bay Should Stay Down,http://torrentfreak.com/peter-sunde-the-pirate-bay-should-stay-down-141210/,/u/journeysquid,11
-0,2014-12-10 21:44:00 -0600,['/t/linux'],Announcing Snappy Ubuntu,http://www.ubuntu.com/cloud/tools/snappy,/u/duncan_bayne,1
-15,2014-12-09 15:36:51 -0600,['/t/ml'],The power of OCaml's signatures,http://cs.mcgill.ca/~vfoley1/posts/2014-12-09-ocaml-adt.html,/u/vfoley,22
-0,2014-12-10 14:31:03 -0600,"['/t/compilers', '/t/compsci', '/t/lisp']",nanopass-framework compiler framework,https://github.com/akeep/nanopass-framework,/u/animatronic,2
-0,2014-12-10 15:07:39 -0600,['/t/python'],How to shoot yourself in the foot with Cython | Kaushik Ghose,http://kaushikghose.wordpress.com/2014/12/10/how-to-shoot-yourself-in-the-foot-with-cython/,/u/kghose,1
-0,2014-12-10 03:46:46 -0600,['/t/programming'],"Talk Transcripts: Rich Hickey, David Nolen & more",http://matthiasnehlsen.com/blog/2014/10/15/talk-transcripts/,/u/mrfabbri,5
-4,2014-12-09 12:45:44 -0600,"['/t/security', '/t/unix']",Random in the wild,http://www.tedunangst.com/flak/post/random-in-the-wild,/u/mediremi,20
-2,2014-12-09 19:11:53 -0600,"['/t/erlang', '/t/practices']",Why do we need modules at all?,http://erlang.org/pipermail/erlang-questions/2011-May/058768.html,/u/pushcx,9
-0,2014-12-10 12:24:38 -0600,['/t/databases'],Speeding Up PostgreSQL With Partial Indexes,http://blog.heapanalytics.com/speeding-up-postgresql-queries-with-partial-indexes/,/u/craigkerstiens,1
-0,2014-12-10 11:59:03 -0600,"['/t/hardware', '/t/linux']",$35 quad-core hacker SBC offers Raspberry Pi-like size and I/O,http://linuxgizmos.com/35-dollar-quad-core-hacker-sbc-offers-rpi-like-expansion/,/u/journeysquid,1
-0,2014-12-10 11:29:57 -0600,"['/t/javascript', '/t/programming']",The State of Desktop Applications in Node.js,https://nodesource.com/blog/node-desktop-applications,/u/JeremyMorgan,1
-0,2014-12-10 16:51:36 -0600,"['/t/satire', '/t/security']",Keurig 2.0 Genuine K-Cup Spoofing Vulnerability,http://seclists.org/fulldisclosure/2014/Dec/37,/u/journeysquid,1
-2,2014-12-09 11:18:07 -0600,['/t/linux'],"Announcing Ubuntu Core, with snappy transactional updates",http://www.markshuttleworth.com/archives/1434,/u/mediremi,16
-4,2014-12-09 11:54:11 -0600,"['/t/pdf', '/t/slides', '/t/compsci', '/t/practices']",The Programming Language Wars,http://www.codemesh.io/static/upload/media/141562653162935languagewars.pdf,/u/pushcx,14
-0,2014-12-10 08:59:34 -0600,"['/t/devops', '/t/distributed']",Atlas by HashiCorp,https://atlas.hashicorp.com/,/u/apy,1
-0,2014-12-09 19:27:52 -0600,"['/t/compsci', '/t/math']",Computing the Integer Square Root,http://www.akalin.cx/computing-isqrt,/u/tomjakubowski,6
-5,2014-12-09 19:24:33 -0600,['/t/culture'],Pirate Bay Has Been Raided and Taken Down: Here's What We Know,http://www.wired.com/2014/12/pirate-bay-raided-taken-down/,/u/robin,11
-0,2014-12-10 06:59:25 -0600,"['/t/javascript', '/t/web']",Polyfilling Doesn't Have to be Difficult,http://developer.telerik.com/topics/polyfilling-doesnt-difficult/,/u/remotesynth,1
-0,2014-12-09 09:10:42 -0600,"['/t/video', '/t/compsci']",Donald Knuth's 20th Annual Christmas Tree Lecture: (3/2)-ary Trees,https://www.youtube.com/watch?v=P4AaGQIo0HY,/u/pushcx,14
-0,2014-12-10 02:26:34 -0600,['/t/windows'],The Infamous Windows “Hello World” Program,http://www.charlespetzold.com/blog/2014/12/The-Infamous-Windows-Hello-World-Program.html,/u/julienXX,1
-0,2014-12-09 10:12:15 -0600,"['/t/java', '/t/practices']","More Typing, Less Testing: TDD with Types, Part 1",https://spin.atomicobject.com/2014/12/09/typed-language-tdd-part1/,/u/silentbicycle,7
-0,2014-12-09 21:25:33 -0600,['/t/programming'],An Effective Code Review Process,http://jakemccrary.com/blog/2014/12/09/an-effective-code-review-process/,/u/carinmeier,1
-0,2014-12-09 09:19:56 -0600,"['/t/browsers', '/t/javascript']",The offline cookbook,http://jakearchibald.com/2014/offline-cookbook/,/u/alexandere,6
+0,2014-12-10 04:53:55 -0600,"/t/c,/t/programming",Hidden Costs of Memory Allocation,http://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/,/u/BruceM,15
+2,2014-12-10 12:29:24 -0600,"/t/databases,/t/distributed",Database Soup: What's this pg_shard thing?,http://www.databasesoup.com/2014/12/whats-this-pgshard-thing.html,/u/peter,5
+1,2014-12-10 10:22:57 -0600,/t/culture,Peter Sunde: The Pirate Bay Should Stay Down,http://torrentfreak.com/peter-sunde-the-pirate-bay-should-stay-down-141210/,/u/journeysquid,11
+0,2014-12-10 21:44:00 -0600,/t/linux,Announcing Snappy Ubuntu,http://www.ubuntu.com/cloud/tools/snappy,/u/duncan_bayne,1
+15,2014-12-09 15:36:51 -0600,/t/ml,The power of OCaml's signatures,http://cs.mcgill.ca/~vfoley1/posts/2014-12-09-ocaml-adt.html,/u/vfoley,22
+0,2014-12-10 14:31:03 -0600,"/t/compilers,/t/compsci,/t/lisp",nanopass-framework compiler framework,https://github.com/akeep/nanopass-framework,/u/animatronic,2
+0,2014-12-10 15:07:39 -0600,/t/python,How to shoot yourself in the foot with Cython | Kaushik Ghose,http://kaushikghose.wordpress.com/2014/12/10/how-to-shoot-yourself-in-the-foot-with-cython/,/u/kghose,1
+0,2014-12-10 03:46:46 -0600,/t/programming,"Talk Transcripts: Rich Hickey, David Nolen & more",http://matthiasnehlsen.com/blog/2014/10/15/talk-transcripts/,/u/mrfabbri,5
+4,2014-12-09 12:45:44 -0600,"/t/security,/t/unix",Random in the wild,http://www.tedunangst.com/flak/post/random-in-the-wild,/u/mediremi,20
+2,2014-12-09 19:11:53 -0600,"/t/erlang,/t/practices",Why do we need modules at all?,http://erlang.org/pipermail/erlang-questions/2011-May/058768.html,/u/pushcx,9
+0,2014-12-10 12:24:38 -0600,/t/databases,Speeding Up PostgreSQL With Partial Indexes,http://blog.heapanalytics.com/speeding-up-postgresql-queries-with-partial-indexes/,/u/craigkerstiens,1
+0,2014-12-10 11:59:03 -0600,"/t/hardware,/t/linux",$35 quad-core hacker SBC offers Raspberry Pi-like size and I/O,http://linuxgizmos.com/35-dollar-quad-core-hacker-sbc-offers-rpi-like-expansion/,/u/journeysquid,1
+0,2014-12-10 11:29:57 -0600,"/t/javascript,/t/programming",The State of Desktop Applications in Node.js,https://nodesource.com/blog/node-desktop-applications,/u/JeremyMorgan,1
+0,2014-12-10 16:51:36 -0600,"/t/satire,/t/security",Keurig 2.0 Genuine K-Cup Spoofing Vulnerability,http://seclists.org/fulldisclosure/2014/Dec/37,/u/journeysquid,1
+2,2014-12-09 11:18:07 -0600,/t/linux,"Announcing Ubuntu Core, with snappy transactional updates",http://www.markshuttleworth.com/archives/1434,/u/mediremi,16
+4,2014-12-09 11:54:11 -0600,"/t/pdf,/t/slides,/t/compsci,/t/practices",The Programming Language Wars,http://www.codemesh.io/static/upload/media/141562653162935languagewars.pdf,/u/pushcx,14
+0,2014-12-10 08:59:34 -0600,"/t/devops,/t/distributed",Atlas by HashiCorp,https://atlas.hashicorp.com/,/u/apy,1
+0,2014-12-09 19:27:52 -0600,"/t/compsci,/t/math",Computing the Integer Square Root,http://www.akalin.cx/computing-isqrt,/u/tomjakubowski,6
+5,2014-12-09 19:24:33 -0600,/t/culture,Pirate Bay Has Been Raided and Taken Down: Here's What We Know,http://www.wired.com/2014/12/pirate-bay-raided-taken-down/,/u/robin,11
+0,2014-12-10 06:59:25 -0600,"/t/javascript,/t/web",Polyfilling Doesn't Have to be Difficult,http://developer.telerik.com/topics/polyfilling-doesnt-difficult/,/u/remotesynth,1
+0,2014-12-09 09:10:42 -0600,"/t/video,/t/compsci",Donald Knuth's 20th Annual Christmas Tree Lecture: (3/2)-ary Trees,https://www.youtube.com/watch?v=P4AaGQIo0HY,/u/pushcx,14
+0,2014-12-10 02:26:34 -0600,/t/windows,The Infamous Windows “Hello World” Program,http://www.charlespetzold.com/blog/2014/12/The-Infamous-Windows-Hello-World-Program.html,/u/julienXX,1
+0,2014-12-09 10:12:15 -0600,"/t/java,/t/practices","More Typing, Less Testing: TDD with Types, Part 1",https://spin.atomicobject.com/2014/12/09/typed-language-tdd-part1/,/u/silentbicycle,7
+0,2014-12-09 21:25:33 -0600,/t/programming,An Effective Code Review Process,http://jakemccrary.com/blog/2014/12/09/an-effective-code-review-process/,/u/carinmeier,1
+0,2014-12-09 09:19:56 -0600,"/t/browsers,/t/javascript",The offline cookbook,http://jakearchibald.com/2014/offline-cookbook/,/u/alexandere,6

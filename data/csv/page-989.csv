@@ -1,25 +1,25 @@
-0,2015-10-29 05:22:37 -0500,"['/t/databases', '/t/devops']",Open-sourcing Pinterest MySQL management tools,https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools,/u/jpadilla,2
-0,2015-10-29 02:19:05 -0500,['/t/security'],"Sustaining Digital Certificate Security, Symantec mis-issuing 164 certificates over 76 domains",https://googleonlinesecurity.blogspot.com/2015/10/sustaining-digital-certificate-security.html,/u/henkjan,3
-0,2015-10-28 13:09:13 -0500,"['/t/privacy', '/t/web']",Landmark for Hidden Services: .onion names reserved by the IETF,https://blog.torproject.org/blog/landmark-hidden-services-onion-names-reserved-ietf,/u/halosghost,13
-1,2015-10-28 14:55:45 -0500,['/t/graphics'],BPG as a GIF replacement,https://eek.ro/why-bpg-will-replace-gifs-and-not-only/,/u/flyingfisch,9
-2,2015-10-28 12:00:25 -0500,['/t/practices'],Meetings and You,https://bendyworks.com/meetings-and-you/,/u/listrophy,4
-0,2015-10-28 17:35:05 -0500,['/t/javascript'],Parachuting robots,http://david-peter.de/parachuting-robots/,/u/paf31,6
-0,2015-10-28 10:24:37 -0500,['/t/scaling'],Five Years of Building Instagram,https://medium.com/backchannel/war-stories-3696d00207ff#.4ymc4ugeh,/u/Tkm84,13
-1,2015-10-28 05:03:35 -0500,['/t/unix'],The semicolon in zone master files; some history,http://jpmens.net/2015/10/28/the-semicolon-in-zone-master-files-some-history/,/u/henkjan,17
-1,2015-10-28 15:59:44 -0500,['/t/devops'],8 surprising facts about Docker adoption,https://www.datadoghq.com/docker-adoption/,/u/kky,4
-0,2015-10-29 09:14:50 -0500,"['/t/hardware', '/t/mac']",Inside Apple's perfectionism machine,http://mashable.com/2015/10/28/apple-phil-schiller-mac/,/u/pushcx,0
-0,2015-10-28 12:13:13 -0500,['/t/databases'],PostgreSQL on the Command Line,http://phili.pe/posts/postgresql-on-the-command-line/,/u/xcombelle,8
-1,2015-10-28 17:04:18 -0500,['/t/practices'],Four Things Our Developers Wished They Knew On Their First Day,https://quickleft.com/blog/takes-software-consultant/,/u/fluxusfrequency,1
-0,2015-10-28 10:16:30 -0500,"['/t/programming', '/t/rust']",Rreverrse Debugging,http://huonw.github.io/blog/2015/10/rreverse-debugging/,/u/englishm,6
-1,2015-10-28 09:49:05 -0500,"['/t/privacy', '/t/security', '/t/web']",Sniffly,https://zyan.scripts.mit.edu/blog/sniffly/,/u/pushcx,5
-0,2015-10-28 14:49:42 -0500,"['/t/pdf', '/t/slides', '/t/video', '/t/devops', '/t/linux']",Live Upgrading Thousands of Servers from an Ancient Red Hat Distribution (2013),https://www.usenix.org/conference/lisa13/technical-sessions/presentation/merlin,/u/indigo,3
-17,2015-10-27 10:16:21 -0500,['/t/practices'],Tech Salary Stagnation,http://www.theserverside.com/news/thread.tss?thread_id=81424,/u/pushcx,30
-1,2015-10-28 14:21:54 -0500,"['/t/pdf', '/t/networking', '/t/security']",Talking To Yourself For Fun And Profit,http://w2spconf.com/2011/papers/websocket.pdf,/u/friendlysock,2
-9,2015-10-27 12:19:09 -0500,['/t/security'],Password Security: Why the horse battery staple is not correct,https://diogomonica.com/posts/password-security-why-the-horse-battery-staple-is-not-correct/,/u/av,18
-5,2015-10-27 19:09:41 -0500,"['/t/mobile', '/t/networking', '/t/testing']",Facebook goes slooow with '2G Tuesdays',http://www.cnet.com/news/facebook-goes-slooow-with-2g-tuesdays/,/u/ajisaiko,11
-0,2015-10-28 09:31:49 -0500,"['/t/finance', '/t/math']",This Guy Wins When Contestants Miss a Half-Court Shot Jackpot,http://www.bloomberg.com/news/articles/2015-10-26/this-guy-wins-when-contestants-miss-a-half-court-shot-jackpot,/u/pushcx,3
-2,2015-10-28 08:50:50 -0500,['/t/programming'],Code Neutral,http://mdswanson.com/blog/2015/10/26/code-neutral.html,/u/pushcx,1
-0,2015-10-28 14:49:41 -0500,"['/t/hardware', '/t/mac', '/t/practices']",The Hassles of Replacing a Possibly-Viable Battery on a Mac Laptop,http://photofocus.com/2014/05/04/the-nightmare-of-replacing-a-battery-on-a-mac-laptop-why-your-machine-might-be-lying-to-you/,/u/pushcx,1
-0,2015-10-28 00:54:39 -0500,['/t/science'],NASA's last original Voyager engineer is retiring,http://money.cnn.com/2015/10/27/technology/voyager-nasa/index.html,/u/jcaudle,7
-0,2015-10-28 09:51:38 -0500,"['/t/programming', '/t/ruby']",Anatomy of good service object,http://yukas.by/ruby/design/2015/10/22/anatomy-of-good-service-object/,/u/pushcx,2
-0,2015-10-28 12:47:55 -0500,"['/t/pdf', '/t/security']",An End-to-End Measurement of Certificate Revocation in the Web’s PKI,http://www.cs.umd.edu/~dml/papers/revocations_imc15.pdf,/u/kyle,1
+0,2015-10-29 05:22:37 -0500,"/t/databases,/t/devops",Open-sourcing Pinterest MySQL management tools,https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools,/u/jpadilla,2
+0,2015-10-29 02:19:05 -0500,/t/security,"Sustaining Digital Certificate Security, Symantec mis-issuing 164 certificates over 76 domains",https://googleonlinesecurity.blogspot.com/2015/10/sustaining-digital-certificate-security.html,/u/henkjan,3
+0,2015-10-28 13:09:13 -0500,"/t/privacy,/t/web",Landmark for Hidden Services: .onion names reserved by the IETF,https://blog.torproject.org/blog/landmark-hidden-services-onion-names-reserved-ietf,/u/halosghost,13
+1,2015-10-28 14:55:45 -0500,/t/graphics,BPG as a GIF replacement,https://eek.ro/why-bpg-will-replace-gifs-and-not-only/,/u/flyingfisch,9
+2,2015-10-28 12:00:25 -0500,/t/practices,Meetings and You,https://bendyworks.com/meetings-and-you/,/u/listrophy,4
+0,2015-10-28 17:35:05 -0500,/t/javascript,Parachuting robots,http://david-peter.de/parachuting-robots/,/u/paf31,6
+0,2015-10-28 10:24:37 -0500,/t/scaling,Five Years of Building Instagram,https://medium.com/backchannel/war-stories-3696d00207ff#.4ymc4ugeh,/u/Tkm84,13
+1,2015-10-28 05:03:35 -0500,/t/unix,The semicolon in zone master files; some history,http://jpmens.net/2015/10/28/the-semicolon-in-zone-master-files-some-history/,/u/henkjan,17
+1,2015-10-28 15:59:44 -0500,/t/devops,8 surprising facts about Docker adoption,https://www.datadoghq.com/docker-adoption/,/u/kky,4
+0,2015-10-29 09:14:50 -0500,"/t/hardware,/t/mac",Inside Apple's perfectionism machine,http://mashable.com/2015/10/28/apple-phil-schiller-mac/,/u/pushcx,0
+0,2015-10-28 12:13:13 -0500,/t/databases,PostgreSQL on the Command Line,http://phili.pe/posts/postgresql-on-the-command-line/,/u/xcombelle,8
+1,2015-10-28 17:04:18 -0500,/t/practices,Four Things Our Developers Wished They Knew On Their First Day,https://quickleft.com/blog/takes-software-consultant/,/u/fluxusfrequency,1
+0,2015-10-28 10:16:30 -0500,"/t/programming,/t/rust",Rreverrse Debugging,http://huonw.github.io/blog/2015/10/rreverse-debugging/,/u/englishm,6
+1,2015-10-28 09:49:05 -0500,"/t/privacy,/t/security,/t/web",Sniffly,https://zyan.scripts.mit.edu/blog/sniffly/,/u/pushcx,5
+0,2015-10-28 14:49:42 -0500,"/t/pdf,/t/slides,/t/video,/t/devops,/t/linux",Live Upgrading Thousands of Servers from an Ancient Red Hat Distribution (2013),https://www.usenix.org/conference/lisa13/technical-sessions/presentation/merlin,/u/indigo,3
+17,2015-10-27 10:16:21 -0500,/t/practices,Tech Salary Stagnation,http://www.theserverside.com/news/thread.tss?thread_id=81424,/u/pushcx,30
+1,2015-10-28 14:21:54 -0500,"/t/pdf,/t/networking,/t/security",Talking To Yourself For Fun And Profit,http://w2spconf.com/2011/papers/websocket.pdf,/u/friendlysock,2
+9,2015-10-27 12:19:09 -0500,/t/security,Password Security: Why the horse battery staple is not correct,https://diogomonica.com/posts/password-security-why-the-horse-battery-staple-is-not-correct/,/u/av,18
+5,2015-10-27 19:09:41 -0500,"/t/mobile,/t/networking,/t/testing",Facebook goes slooow with '2G Tuesdays',http://www.cnet.com/news/facebook-goes-slooow-with-2g-tuesdays/,/u/ajisaiko,11
+0,2015-10-28 09:31:49 -0500,"/t/finance,/t/math",This Guy Wins When Contestants Miss a Half-Court Shot Jackpot,http://www.bloomberg.com/news/articles/2015-10-26/this-guy-wins-when-contestants-miss-a-half-court-shot-jackpot,/u/pushcx,3
+2,2015-10-28 08:50:50 -0500,/t/programming,Code Neutral,http://mdswanson.com/blog/2015/10/26/code-neutral.html,/u/pushcx,1
+0,2015-10-28 14:49:41 -0500,"/t/hardware,/t/mac,/t/practices",The Hassles of Replacing a Possibly-Viable Battery on a Mac Laptop,http://photofocus.com/2014/05/04/the-nightmare-of-replacing-a-battery-on-a-mac-laptop-why-your-machine-might-be-lying-to-you/,/u/pushcx,1
+0,2015-10-28 00:54:39 -0500,/t/science,NASA's last original Voyager engineer is retiring,http://money.cnn.com/2015/10/27/technology/voyager-nasa/index.html,/u/jcaudle,7
+0,2015-10-28 09:51:38 -0500,"/t/programming,/t/ruby",Anatomy of good service object,http://yukas.by/ruby/design/2015/10/22/anatomy-of-good-service-object/,/u/pushcx,2
+0,2015-10-28 12:47:55 -0500,"/t/pdf,/t/security",An End-to-End Measurement of Certificate Revocation in the Web’s PKI,http://www.cs.umd.edu/~dml/papers/revocations_imc15.pdf,/u/kyle,1

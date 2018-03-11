@@ -1,25 +1,25 @@
-28,2014-02-03 11:07:01 -0600,['/t/ask'],What are you working on this week?,/s/5qwro8/what_are_you_working_on_this_week,/u/conroy,14
-0,2014-02-03 12:54:40 -0600,['/t/scala'],Spark Release 0.9.0 | Apache Spark,https://spark.incubator.apache.org/releases/spark-release-0-9-0.html,/u/tobym,5
-0,2014-02-03 14:50:05 -0600,['/t/security'],Honey Encryption,http://bristolcrypto.blogspot.com/2014/02/honey-encryption.html,/u/kyle,3
-0,2014-02-03 11:38:05 -0600,"['/t/security', '/t/web']","Why we love Mozilla Persona. And why you should, too.",http://blog.zonino.co.uk/why-we-love-mozilla-persona-and-why-you-should-too/,/u/journeysquid,3
-0,2014-02-03 13:51:21 -0600,['/t/javascript'],How Kendo UI Uses Kendo UI To Build Angular Directives For Kendo UI,http://flippinawesome.org/2014/02/03/how-kendo-ui-uses-kendo-ui-to-build-angular-directives-for-kendo-ui/,/u/remotesynth,2
-14,2014-02-02 12:18:15 -0600,['/t/java'],Why I like Java,http://blog.plover.com/2014/02/01/,/u/tedu,14
-0,2014-02-03 06:27:58 -0600,"['/t/databases', '/t/devops', '/t/distributed', '/t/programming', '/t/scaling']",Creating a Geospatial database on Amazon RDS,http://www.pheelicks.com/2014/01/creating-a-geospatial-database-on-amazon-rds/,/u/pheelicks,3
-3,2014-02-02 16:10:50 -0600,"['/t/ios', '/t/programming']",iOS holding my phone number hostage = the worst bug I’ve ever experienced,http://blog.benjaminste.in/post/75389520824/ios-holding-my-phone-number-hostage-the-worst-bug,/u/journeysquid,4
-0,2014-02-02 14:15:36 -0600,"['/t/hardware', '/t/reversing']",Reversing the WRT120N's Firmware Obfuscation,http://www.devttys0.com/2014/02/reversing-the-wrt120n-firmware-obfuscation/,/u/journeysquid,10
-1,2014-02-02 10:20:03 -0600,['/t/databases'],Examining Postgres 9.4 - A first look,http://www.craigkerstiens.com/2014/02/02/Examining-PostgreSQL-9.4/,/u/mattk,11
-9,2014-02-02 21:17:48 -0600,"['/t/culture', '/t/meta']",Tag proposal: 'community',/s/vvuxwl/tag_proposal_community,/u/jvns,5
-0,2014-02-02 16:28:35 -0600,"['/t/video', '/t/web']",The Internet of Strings: Getting Smarter about Web Integration,http://www.youtube.com/watch?v=Gh9z_l7NdZk&noredirect=1,/u/SeanTAllen,2
-4,2014-02-01 16:57:28 -0600,['/t/reversing'],Mystery signal from a helicopter,http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html,/u/iv,25
-1,2014-02-02 10:33:28 -0600,['/t/web'],Slider.css,http://nodejs.in/slider.css/#slider-default,/u/jm,2
-0,2014-02-01 11:18:46 -0600,['/t/erlang'],Big changes to Erlang,http://joearms.github.io/2014/02/01/big-changes-to-erlang.html,/u/kGb8RNFtg6,22
-1,2014-02-01 22:02:10 -0600,"['/t/distributed', '/t/privacy', '/t/security']",Ethereum: distributed cryptographic ledger with scripting,http://www.ethereum.org,/u/vjoel,3
-0,2014-02-01 22:22:08 -0600,['/t/cryptocurrencies'],Bitcoins the hard way: Using the raw Bitcoin protocol,http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html,/u/kyle,5
-4,2014-02-01 11:38:37 -0600,"['/t/law', '/t/practices']",California regulator seeks to shut down 'learn to code' bootcamps,http://venturebeat.com/2014/01/29/california-regulator-seeks-to-shut-down-learn-to-code-bootcamps/,/u/journeysquid,9
-0,2014-02-02 05:19:44 -0600,['/t/databases'],The Story Behind MemSQL’s Skiplist Indexes,http://blog.memsql.com/the-story-behind-memsqls-skiplist-indexes/,/u/fatumka,1
-1,2014-02-01 19:50:28 -0600,"['/t/browsers', '/t/web']",Shumway: an experimental HTML5 SWF renderer,http://mozilla.github.io/shumway/,/u/jcs,2
-0,2014-02-01 20:24:54 -0600,['/t/networking'],Effective Spam and Malware Countermeasures - Network Noise Reduction Using Free Tools,http://bsdly.blogspot.com/2014/02/effective-spam-and-malware.html,/u/tedu,2
-0,2014-02-01 11:37:00 -0600,['/t/practices'],Chief technical gardener,http://hackazach.net/professional/2014/02/01/chief-technical-gardener/,/u/zmcartor,3
-2,2014-01-31 09:13:40 -0600,['/t/unix'],The Magic of strace,http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/,/u/jeremy,27
-8,2014-01-31 15:50:47 -0600,"['/t/pdf', '/t/python']",Python Idioms,http://safehammad.com/downloads/python-idioms-2014-01-16.pdf,/u/mattk,6
-1,2014-01-31 19:17:11 -0600,"['/t/privacy', '/t/security']",TSA Agent Confession,http://www.politico.com/magazine/story/2014/01/tsa-screener-confession-102912_full.html,/u/journeysquid,3
+28,2014-02-03 11:07:01 -0600,/t/ask,What are you working on this week?,/s/5qwro8/what_are_you_working_on_this_week,/u/conroy,14
+0,2014-02-03 12:54:40 -0600,/t/scala,Spark Release 0.9.0 | Apache Spark,https://spark.incubator.apache.org/releases/spark-release-0-9-0.html,/u/tobym,5
+0,2014-02-03 14:50:05 -0600,/t/security,Honey Encryption,http://bristolcrypto.blogspot.com/2014/02/honey-encryption.html,/u/kyle,3
+0,2014-02-03 11:38:05 -0600,"/t/security,/t/web","Why we love Mozilla Persona. And why you should, too.",http://blog.zonino.co.uk/why-we-love-mozilla-persona-and-why-you-should-too/,/u/journeysquid,3
+0,2014-02-03 13:51:21 -0600,/t/javascript,How Kendo UI Uses Kendo UI To Build Angular Directives For Kendo UI,http://flippinawesome.org/2014/02/03/how-kendo-ui-uses-kendo-ui-to-build-angular-directives-for-kendo-ui/,/u/remotesynth,2
+14,2014-02-02 12:18:15 -0600,/t/java,Why I like Java,http://blog.plover.com/2014/02/01/,/u/tedu,14
+0,2014-02-03 06:27:58 -0600,"/t/databases,/t/devops,/t/distributed,/t/programming,/t/scaling",Creating a Geospatial database on Amazon RDS,http://www.pheelicks.com/2014/01/creating-a-geospatial-database-on-amazon-rds/,/u/pheelicks,3
+3,2014-02-02 16:10:50 -0600,"/t/ios,/t/programming",iOS holding my phone number hostage = the worst bug I’ve ever experienced,http://blog.benjaminste.in/post/75389520824/ios-holding-my-phone-number-hostage-the-worst-bug,/u/journeysquid,4
+0,2014-02-02 14:15:36 -0600,"/t/hardware,/t/reversing",Reversing the WRT120N's Firmware Obfuscation,http://www.devttys0.com/2014/02/reversing-the-wrt120n-firmware-obfuscation/,/u/journeysquid,10
+1,2014-02-02 10:20:03 -0600,/t/databases,Examining Postgres 9.4 - A first look,http://www.craigkerstiens.com/2014/02/02/Examining-PostgreSQL-9.4/,/u/mattk,11
+9,2014-02-02 21:17:48 -0600,"/t/culture,/t/meta",Tag proposal: 'community',/s/vvuxwl/tag_proposal_community,/u/jvns,5
+0,2014-02-02 16:28:35 -0600,"/t/video,/t/web",The Internet of Strings: Getting Smarter about Web Integration,http://www.youtube.com/watch?v=Gh9z_l7NdZk&noredirect=1,/u/SeanTAllen,2
+4,2014-02-01 16:57:28 -0600,/t/reversing,Mystery signal from a helicopter,http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html,/u/iv,25
+1,2014-02-02 10:33:28 -0600,/t/web,Slider.css,http://nodejs.in/slider.css/#slider-default,/u/jm,2
+0,2014-02-01 11:18:46 -0600,/t/erlang,Big changes to Erlang,http://joearms.github.io/2014/02/01/big-changes-to-erlang.html,/u/kGb8RNFtg6,22
+1,2014-02-01 22:02:10 -0600,"/t/distributed,/t/privacy,/t/security",Ethereum: distributed cryptographic ledger with scripting,http://www.ethereum.org,/u/vjoel,3
+0,2014-02-01 22:22:08 -0600,/t/cryptocurrencies,Bitcoins the hard way: Using the raw Bitcoin protocol,http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html,/u/kyle,5
+4,2014-02-01 11:38:37 -0600,"/t/law,/t/practices",California regulator seeks to shut down 'learn to code' bootcamps,http://venturebeat.com/2014/01/29/california-regulator-seeks-to-shut-down-learn-to-code-bootcamps/,/u/journeysquid,9
+0,2014-02-02 05:19:44 -0600,/t/databases,The Story Behind MemSQL’s Skiplist Indexes,http://blog.memsql.com/the-story-behind-memsqls-skiplist-indexes/,/u/fatumka,1
+1,2014-02-01 19:50:28 -0600,"/t/browsers,/t/web",Shumway: an experimental HTML5 SWF renderer,http://mozilla.github.io/shumway/,/u/jcs,2
+0,2014-02-01 20:24:54 -0600,/t/networking,Effective Spam and Malware Countermeasures - Network Noise Reduction Using Free Tools,http://bsdly.blogspot.com/2014/02/effective-spam-and-malware.html,/u/tedu,2
+0,2014-02-01 11:37:00 -0600,/t/practices,Chief technical gardener,http://hackazach.net/professional/2014/02/01/chief-technical-gardener/,/u/zmcartor,3
+2,2014-01-31 09:13:40 -0600,/t/unix,The Magic of strace,http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/,/u/jeremy,27
+8,2014-01-31 15:50:47 -0600,"/t/pdf,/t/python",Python Idioms,http://safehammad.com/downloads/python-idioms-2014-01-16.pdf,/u/mattk,6
+1,2014-01-31 19:17:11 -0600,"/t/privacy,/t/security",TSA Agent Confession,http://www.politico.com/magazine/story/2014/01/tsa-screener-confession-102912_full.html,/u/journeysquid,3

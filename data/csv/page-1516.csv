@@ -1,25 +1,25 @@
-0,2012-12-03 19:15:07 -0600,"['/t/netbsd', '/t/news', '/t/unix']",NetBSD 5.2 Released,http://blog.netbsd.org/tnf/entry/netbsd_5_2_released,/u/jcs,6
-1,2012-12-03 18:37:11 -0600,['/t/compsci'],(Building) The 7 Books of a Highly Effective Programmer,http://blog.fogus.me/2009/03/11/seven-books/,/u/rbxbx,6
-5,2012-12-03 14:04:15 -0600,['/t/release'],Maybe Monads Might Not Matter,http://gbracha.blogspot.com.au/2011/01/maybe-monads-might-not-matter.html,/u/steveklabnik,5
-0,2012-12-03 20:31:41 -0600,['/t/lisp'],SuperCollider: A programming environment for real-time audio synthesis,http://supercollider.sourceforge.net/,/u/tubbo,3
-0,2012-12-03 15:02:47 -0600,['/t/philosophy'],Deleuze for Developers: Assemblages,http://words.steveklabnik.com/deleuze-for-developers-assemblages,/u/steveklabnik,8
-1,2012-12-03 12:33:07 -0600,"['/t/elm', '/t/javascript', '/t/web']",Emerging languages spotlight: Elm,http://radar.oreilly.com/2012/12/emerging-languages-spotlight-elm.html,/u/fogus,8
-0,2012-12-03 18:44:25 -0600,['/t/compsci'],"A Proposal for Simplified, Modern Definitions of ""Object"" and ""Object Oriented""",http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html,/u/thmzlt,4
-0,2012-12-03 14:11:26 -0600,"['/t/show', '/t/philosophy']",It's December. Go complete a personal project!,http://matt.might.net/articles/programmers-resolutions/,/u/tobym,7
-0,2012-12-03 21:04:12 -0600,"['/t/browsers', '/t/javascript']",Recreating the sounds of the BBC Radiophonic Workshop,http://webaudio.prototyping.bbc.co.uk/,/u/rbxbx,2
-0,2012-12-03 18:33:54 -0600,"['/t/go', '/t/security']","Instagram 3.1.2 For iOS, Session Riding Vulnerability (PoC)",http://reventlov.com/advisories/instagram-session-riding-vulnerability,/u/kyle,2
-0,2012-12-03 11:42:16 -0600,"['/t/video', '/t/networking', '/t/unix', '/t/web']",The Black Magic Of SSH / SSH Can Do That? on Vimeo,https://vimeo.com/54505525,/u/bjeanes,3
-0,2012-12-03 11:23:16 -0600,"['/t/c', '/t/compsci', '/t/ruby']",A Simple Tour of the Ruby MRI Source Code with Pat Shaughnessy,http://www.rubyinside.com/ruby-mri-code-walk-tour-6020.html,/u/rob,2
-0,2012-12-03 04:45:18 -0600,"['/t/browsers', '/t/javascript', '/t/web']",JavaScript secrets of worrydream.com,http://www.arcfn.com/2011/12/javascript-secrets-of-worrydreamcom.html,/u/steveklabnik,5
-0,2012-12-03 14:53:38 -0600,"['/t/video', '/t/event']",The Netflix Tech Blog: AWS Re:Invent was Awesome!,http://techblog.netflix.com/2012/12/aws-reinvent-was-awesome.html,/u/jcs,1
-0,2012-12-03 09:52:36 -0600,['/t/javascript'],Using D3.js to navigate your GitHub followers,http://nodal.me,/u/k,2
-0,2012-12-03 11:37:46 -0600,['/t/go'],Playing with Go: Embarrassingly Parallel Scripts,http://collectiveidea.com/blog/archives/2012/12/03/playing-with-go-embarrassingly-parallel-scripts/,/u/kyle,1
-0,2012-12-03 10:55:12 -0600,"['/t/devops', '/t/unix', '/t/virtualization']",Automatically update /etc/hosts with vagrant-hostmaster,http://justincampbell.me/til/use-vagrant-hostmaster-to-automatically-update-etc-hosts,/u/fromonesrc,1
-0,2012-12-02 15:44:57 -0600,"['/t/compsci', '/t/ruby']",krypt - The next level of Ruby cryptography,http://emboss.github.com/blog/2012/12/02/krypt-the-next-level-of-ruby-cryptography/,/u/rob,12
-0,2012-12-03 09:23:02 -0600,"['/t/databases', '/t/devops']",Zero-Downtime MySQL Schema Changes,http://sysadvent.blogspot.com/2012/12/day-3-zero-downtime-mysql-schema-changes.html,/u/jcs,1
-0,2012-12-03 01:16:55 -0600,"['/t/news', '/t/ruby']",Ruby 2.0.0 release plan: ALL COMMITTERS SHOULD READ THIS MAIL! コミッタはこのメール読んで！,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/50483,/u/steveklabnik,3
-0,2012-12-02 17:25:18 -0600,['/t/javascript'],Solving some of Backbone.Events’ flaws with marionette’s EventBinder,http://lucasvo.com/2012/12/solving-some-of-backbone-events-flaws-with-marionettes-eventbinder/,/u/lucasvo,2
-0,2012-12-02 12:31:35 -0600,['/t/linux'],Secure Boot bootloader for distributions available now,http://mjg59.dreamwidth.org/20303.html,/u/jcs,1
-10,2012-12-01 13:19:19 -0600,['/t/philosophy'],Why Darwinist Materialism Is Wrong,http://www.tnr.com/article/books-and-arts/magazine/110189/why-darwinist-materialism-wrong,/u/steveklabnik,5
-0,2012-12-01 20:15:21 -0600,"['/t/browsers', '/t/networking', '/t/security']",SSL certificate validation and DNSSEC,http://jpmens.net/2011/02/16/ssl-certificate-validation-and-dnssec/,/u/jcs,4
-0,2012-12-01 15:05:43 -0600,['/t/web'],The WebGL Podcast,http://thewebglpodcast.com/,/u/janogonzalez,1
+0,2012-12-03 19:15:07 -0600,"/t/netbsd,/t/news,/t/unix",NetBSD 5.2 Released,http://blog.netbsd.org/tnf/entry/netbsd_5_2_released,/u/jcs,6
+1,2012-12-03 18:37:11 -0600,/t/compsci,(Building) The 7 Books of a Highly Effective Programmer,http://blog.fogus.me/2009/03/11/seven-books/,/u/rbxbx,6
+5,2012-12-03 14:04:15 -0600,/t/release,Maybe Monads Might Not Matter,http://gbracha.blogspot.com.au/2011/01/maybe-monads-might-not-matter.html,/u/steveklabnik,5
+0,2012-12-03 20:31:41 -0600,/t/lisp,SuperCollider: A programming environment for real-time audio synthesis,http://supercollider.sourceforge.net/,/u/tubbo,3
+0,2012-12-03 15:02:47 -0600,/t/philosophy,Deleuze for Developers: Assemblages,http://words.steveklabnik.com/deleuze-for-developers-assemblages,/u/steveklabnik,8
+1,2012-12-03 12:33:07 -0600,"/t/elm,/t/javascript,/t/web",Emerging languages spotlight: Elm,http://radar.oreilly.com/2012/12/emerging-languages-spotlight-elm.html,/u/fogus,8
+0,2012-12-03 18:44:25 -0600,/t/compsci,"A Proposal for Simplified, Modern Definitions of ""Object"" and ""Object Oriented""",http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html,/u/thmzlt,4
+0,2012-12-03 14:11:26 -0600,"/t/show,/t/philosophy",It's December. Go complete a personal project!,http://matt.might.net/articles/programmers-resolutions/,/u/tobym,7
+0,2012-12-03 21:04:12 -0600,"/t/browsers,/t/javascript",Recreating the sounds of the BBC Radiophonic Workshop,http://webaudio.prototyping.bbc.co.uk/,/u/rbxbx,2
+0,2012-12-03 18:33:54 -0600,"/t/go,/t/security","Instagram 3.1.2 For iOS, Session Riding Vulnerability (PoC)",http://reventlov.com/advisories/instagram-session-riding-vulnerability,/u/kyle,2
+0,2012-12-03 11:42:16 -0600,"/t/video,/t/networking,/t/unix,/t/web",The Black Magic Of SSH / SSH Can Do That? on Vimeo,https://vimeo.com/54505525,/u/bjeanes,3
+0,2012-12-03 11:23:16 -0600,"/t/c,/t/compsci,/t/ruby",A Simple Tour of the Ruby MRI Source Code with Pat Shaughnessy,http://www.rubyinside.com/ruby-mri-code-walk-tour-6020.html,/u/rob,2
+0,2012-12-03 04:45:18 -0600,"/t/browsers,/t/javascript,/t/web",JavaScript secrets of worrydream.com,http://www.arcfn.com/2011/12/javascript-secrets-of-worrydreamcom.html,/u/steveklabnik,5
+0,2012-12-03 14:53:38 -0600,"/t/video,/t/event",The Netflix Tech Blog: AWS Re:Invent was Awesome!,http://techblog.netflix.com/2012/12/aws-reinvent-was-awesome.html,/u/jcs,1
+0,2012-12-03 09:52:36 -0600,/t/javascript,Using D3.js to navigate your GitHub followers,http://nodal.me,/u/k,2
+0,2012-12-03 11:37:46 -0600,/t/go,Playing with Go: Embarrassingly Parallel Scripts,http://collectiveidea.com/blog/archives/2012/12/03/playing-with-go-embarrassingly-parallel-scripts/,/u/kyle,1
+0,2012-12-03 10:55:12 -0600,"/t/devops,/t/unix,/t/virtualization",Automatically update /etc/hosts with vagrant-hostmaster,http://justincampbell.me/til/use-vagrant-hostmaster-to-automatically-update-etc-hosts,/u/fromonesrc,1
+0,2012-12-02 15:44:57 -0600,"/t/compsci,/t/ruby",krypt - The next level of Ruby cryptography,http://emboss.github.com/blog/2012/12/02/krypt-the-next-level-of-ruby-cryptography/,/u/rob,12
+0,2012-12-03 09:23:02 -0600,"/t/databases,/t/devops",Zero-Downtime MySQL Schema Changes,http://sysadvent.blogspot.com/2012/12/day-3-zero-downtime-mysql-schema-changes.html,/u/jcs,1
+0,2012-12-03 01:16:55 -0600,"/t/news,/t/ruby",Ruby 2.0.0 release plan: ALL COMMITTERS SHOULD READ THIS MAIL! コミッタはこのメール読んで！,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/50483,/u/steveklabnik,3
+0,2012-12-02 17:25:18 -0600,/t/javascript,Solving some of Backbone.Events’ flaws with marionette’s EventBinder,http://lucasvo.com/2012/12/solving-some-of-backbone-events-flaws-with-marionettes-eventbinder/,/u/lucasvo,2
+0,2012-12-02 12:31:35 -0600,/t/linux,Secure Boot bootloader for distributions available now,http://mjg59.dreamwidth.org/20303.html,/u/jcs,1
+10,2012-12-01 13:19:19 -0600,/t/philosophy,Why Darwinist Materialism Is Wrong,http://www.tnr.com/article/books-and-arts/magazine/110189/why-darwinist-materialism-wrong,/u/steveklabnik,5
+0,2012-12-01 20:15:21 -0600,"/t/browsers,/t/networking,/t/security",SSL certificate validation and DNSSEC,http://jpmens.net/2011/02/16/ssl-certificate-validation-and-dnssec/,/u/jcs,4
+0,2012-12-01 15:05:43 -0600,/t/web,The WebGL Podcast,http://thewebglpodcast.com/,/u/janogonzalez,1

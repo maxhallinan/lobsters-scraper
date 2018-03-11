@@ -1,25 +1,25 @@
-0,2017-05-25 10:24:20 -0500,"['/t/go', '/t/networking']",Go parser for SSH config files,https://github.com/kevinburke/ssh_config,/u/kb,13
-0,2017-05-26 10:26:15 -0500,"['/t/programming', '/t/security']",VersionEye - Notification System for Software Packages,https://www.versioneye.com/,/u/fs111,1
-1,2017-05-25 10:55:18 -0500,"['/t/audio', '/t/openbsd']",Garbage Podcast: 40: Reunion,https://garbage.fm/episodes/40,/u/c-jm,21
-0,2017-05-26 09:28:02 -0500,"['/t/pdf', '/t/practices']",Statement on Algorithmic Transparency and Accountability,http://www.acm.org/binaries/content/assets/public-policy/2017_joint_statement_algorithms.pdf,/u/fcbsd,1
-0,2017-05-25 12:31:38 -0500,['/t/netbsd'],Workflow and finding the cause of a kernel bug,http://coypu.sdf.org/20170525-qemu-smp,/u/coypoop,9
-3,2017-05-25 12:21:04 -0500,['/t/distributed'],Let's Encrypt OCSP and Issuance Outage Postmortem,https://community.letsencrypt.org/t/may-19-2017-ocsp-and-issuance-outage-postmortem/34922,/u/kb,10
-1,2017-05-25 17:00:30 -0500,['/t/compsci'],Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?,http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/,/u/zxtx,8
-0,2017-05-26 02:49:40 -0500,"['/t/scaling', '/t/testing']",How Yelp Runs Millions of Tests Every Day,https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html,/u/Dawny33,2
-0,2017-05-25 19:44:25 -0500,['/t/web'],Webpack plugin for enabling Subresource Integrity.,https://github.com/waysact/webpack-subresource-integrity,/u/bmatt,5
-0,2017-05-26 06:11:26 -0500,['/t/hardware'],Intel’s Vision for Single Board Computers is to Have Better Vision,http://hackaday.com/2017/05/26/intels-vision-for-single-board-computers-is-to-have-better-vision/,/u/fcbsd,1
-0,2017-05-26 02:15:38 -0500,"['/t/pdf', '/t/rust', '/t/security']",Writing Parsers Like it is 2017,http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf,/u/lthms,2
-1,2017-05-25 17:56:38 -0500,['/t/devops'],The Calculus of Service Availability,https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i,/u/pushcx,3
-0,2017-05-25 11:40:57 -0500,"['/t/javascript', '/t/programming', '/t/web']",Optimizing React Rendering (Part 1) - Flexport Engineering,https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02,/u/dounan,4
-1,2017-05-25 17:01:06 -0500,"['/t/compsci', '/t/testing']",How to test gradient implementations,http://timvieira.github.io/blog/post/2017/04/21/how-to-test-gradient-implementations/,/u/zxtx,3
-2,2017-05-25 14:24:22 -0500,"['/t/javascript', '/t/security']",Exploiting a V8 OOB write.,https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/,/u/hobbified,4
-0,2017-05-25 09:50:04 -0500,"['/t/compilers', '/t/rust']",Query structure in chalk,http://smallcultfollowing.com/babysteps/blog/2017/05/25/query-structure-in-chalk/,/u/fitzgen,8
-0,2017-05-26 05:01:26 -0500,"['/t/programming', '/t/satire']",Programming Theorems (2006),https://web.archive.org/web/20070222084110/http://destraynor.com/serendipity/index.php?/archives/102-Programming-Theorems.html,/u/calvin,1
-8,2017-05-24 16:54:51 -0500,['/t/lisp'],Readable Clojure,http://tonsky.me/blog/readable-clojure/,/u/pushcx,23
-3,2017-05-25 04:54:52 -0500,"['/t/virtualization', '/t/windows']",How I accidentally built a dev environment that moves with you,https://www.mcleodmoores.com/blog/2017/05/24/how-i-accidentally-built-a-dev-environment-that-moves-with-you,/u/calvin,7
-5,2017-05-24 16:30:16 -0500,"['/t/linux', '/t/release']",Alpine Linux 3.6.0 Released,https://alpinelinux.org/posts/Alpine-3.6.0-released.html,/u/nikolay,31
-0,2017-05-25 11:47:15 -0500,['/t/ruby'],For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting,http://www.foragoodstrftime.com/,/u/pushcx,4
-16,2017-05-24 08:14:39 -0500,['/t/vcs'],Little Things I Like to Do with Git,https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/,/u/soulcutter,42
-0,2017-05-25 13:00:59 -0500,"['/t/video', '/t/ruby', '/t/rust']",Helix: Build Native Ruby Extensions Without Fear,https://www.youtube.com/watch?v=nq1nNx8-fNQ,/u/soulcutter,3
-0,2017-05-25 06:37:22 -0500,['/t/practices'],Systems and Incentives,https://blog.scottnonnenberg.com/systems-and-incentives/,/u/adsouza,6
-0,2017-05-25 11:03:43 -0500,['/t/games'],Not playing around: Lessons from indie game developers,https://opensource.com/article/17/5/what-foss-can-learn-indie-game-development,/u/ChrisShort,3
+0,2017-05-25 10:24:20 -0500,"/t/go,/t/networking",Go parser for SSH config files,https://github.com/kevinburke/ssh_config,/u/kb,13
+0,2017-05-26 10:26:15 -0500,"/t/programming,/t/security",VersionEye - Notification System for Software Packages,https://www.versioneye.com/,/u/fs111,1
+1,2017-05-25 10:55:18 -0500,"/t/audio,/t/openbsd",Garbage Podcast: 40: Reunion,https://garbage.fm/episodes/40,/u/c-jm,21
+0,2017-05-26 09:28:02 -0500,"/t/pdf,/t/practices",Statement on Algorithmic Transparency and Accountability,http://www.acm.org/binaries/content/assets/public-policy/2017_joint_statement_algorithms.pdf,/u/fcbsd,1
+0,2017-05-25 12:31:38 -0500,/t/netbsd,Workflow and finding the cause of a kernel bug,http://coypu.sdf.org/20170525-qemu-smp,/u/coypoop,9
+3,2017-05-25 12:21:04 -0500,/t/distributed,Let's Encrypt OCSP and Issuance Outage Postmortem,https://community.letsencrypt.org/t/may-19-2017-ocsp-and-issuance-outage-postmortem/34922,/u/kb,10
+1,2017-05-25 17:00:30 -0500,/t/compsci,Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?,http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/,/u/zxtx,8
+0,2017-05-26 02:49:40 -0500,"/t/scaling,/t/testing",How Yelp Runs Millions of Tests Every Day,https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html,/u/Dawny33,2
+0,2017-05-25 19:44:25 -0500,/t/web,Webpack plugin for enabling Subresource Integrity.,https://github.com/waysact/webpack-subresource-integrity,/u/bmatt,5
+0,2017-05-26 06:11:26 -0500,/t/hardware,Intel’s Vision for Single Board Computers is to Have Better Vision,http://hackaday.com/2017/05/26/intels-vision-for-single-board-computers-is-to-have-better-vision/,/u/fcbsd,1
+0,2017-05-26 02:15:38 -0500,"/t/pdf,/t/rust,/t/security",Writing Parsers Like it is 2017,http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf,/u/lthms,2
+1,2017-05-25 17:56:38 -0500,/t/devops,The Calculus of Service Availability,https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i,/u/pushcx,3
+0,2017-05-25 11:40:57 -0500,"/t/javascript,/t/programming,/t/web",Optimizing React Rendering (Part 1) - Flexport Engineering,https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02,/u/dounan,4
+1,2017-05-25 17:01:06 -0500,"/t/compsci,/t/testing",How to test gradient implementations,http://timvieira.github.io/blog/post/2017/04/21/how-to-test-gradient-implementations/,/u/zxtx,3
+2,2017-05-25 14:24:22 -0500,"/t/javascript,/t/security",Exploiting a V8 OOB write.,https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/,/u/hobbified,4
+0,2017-05-25 09:50:04 -0500,"/t/compilers,/t/rust",Query structure in chalk,http://smallcultfollowing.com/babysteps/blog/2017/05/25/query-structure-in-chalk/,/u/fitzgen,8
+0,2017-05-26 05:01:26 -0500,"/t/programming,/t/satire",Programming Theorems (2006),https://web.archive.org/web/20070222084110/http://destraynor.com/serendipity/index.php?/archives/102-Programming-Theorems.html,/u/calvin,1
+8,2017-05-24 16:54:51 -0500,/t/lisp,Readable Clojure,http://tonsky.me/blog/readable-clojure/,/u/pushcx,23
+3,2017-05-25 04:54:52 -0500,"/t/virtualization,/t/windows",How I accidentally built a dev environment that moves with you,https://www.mcleodmoores.com/blog/2017/05/24/how-i-accidentally-built-a-dev-environment-that-moves-with-you,/u/calvin,7
+5,2017-05-24 16:30:16 -0500,"/t/linux,/t/release",Alpine Linux 3.6.0 Released,https://alpinelinux.org/posts/Alpine-3.6.0-released.html,/u/nikolay,31
+0,2017-05-25 11:47:15 -0500,/t/ruby,For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting,http://www.foragoodstrftime.com/,/u/pushcx,4
+16,2017-05-24 08:14:39 -0500,/t/vcs,Little Things I Like to Do with Git,https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/,/u/soulcutter,42
+0,2017-05-25 13:00:59 -0500,"/t/video,/t/ruby,/t/rust",Helix: Build Native Ruby Extensions Without Fear,https://www.youtube.com/watch?v=nq1nNx8-fNQ,/u/soulcutter,3
+0,2017-05-25 06:37:22 -0500,/t/practices,Systems and Incentives,https://blog.scottnonnenberg.com/systems-and-incentives/,/u/adsouza,6
+0,2017-05-25 11:03:43 -0500,/t/games,Not playing around: Lessons from indie game developers,https://opensource.com/article/17/5/what-foss-can-learn-indie-game-development,/u/ChrisShort,3

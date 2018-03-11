@@ -1,25 +1,25 @@
-1,2016-12-03 12:40:03 -0600,"['/t/pdf', '/t/c', '/t/compilers']",Meta-Compilation for C++ (2001),http://www.computing.surrey.ac.uk/research/dsrg/fog/FogThesis.pdf,/u/ssl,2
-0,2016-12-03 05:41:50 -0600,['/t/lua'],DynASM,http://luajit.org/dynasm.html,/u/av,7
-0,2016-12-03 17:09:17 -0600,"['/t/culture', '/t/linux', '/t/satire']",Everybody loves Eric Raymond,http://geekz.co.uk/lovesraymond/archive/slashdotted,/u/jpm1,5
-1,2016-12-03 09:54:24 -0600,"['/t/databases', '/t/distributed']",Improving cache consistency,https://simongui.github.io/2016/12/02/improving-cache-consistency.html,/u/unbalancedparentheses,2
-0,2016-12-03 09:45:20 -0600,"['/t/databases', '/t/release']",The first release candidate of Redis 4.0 is out,http://www.antirez.com/news/110,/u/unbalancedparentheses,3
-15,2016-12-02 05:43:16 -0600,['/t/c'],Let’s Stop Bashing C,http://h2co3.org/blog/index.php/2016/12/01/lets-stop-bashing-c/,/u/calvin,36
-0,2016-12-02 15:32:24 -0600,"['/t/programming', '/t/rust', '/t/security']",Reflections on Rusting Trust,http://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/,/u/whbboyd,23
-5,2016-12-02 11:51:06 -0600,"['/t/law', '/t/linux']",Ubuntu still isn't free software,https://mjg59.dreamwidth.org/45939.html,/u/pizzaiolo,20
-0,2016-12-03 08:48:50 -0600,['/t/programming'],Amazon States Language – A JSON-based language to describe state machines,https://states-language.net/spec.html,/u/av,2
-1,2016-12-02 11:16:47 -0600,['/t/linux'],htop explained,https://peteris.rocks/blog/htop/,/u/av,25
-3,2016-12-02 12:43:07 -0600,"['/t/video', '/t/lisp']",Spec-ulation Keynote - Rich Hickey,https://www.youtube.com/watch?v=oyLBGkS5ICk,/u/jonase,15
-1,2016-12-02 15:56:14 -0600,"['/t/javascript', '/t/ruby']",Breakfast Gem - Brunch.io Integration with Rails,http://breakfast.devlocker.io/,/u/patkoperwas,7
-1,2016-12-03 05:31:23 -0600,"['/t/satire', '/t/security']",Designing an Authentication System: a Dialogue in Four Scenes (1997),https://web.mit.edu/kerberos/dialogue.html,/u/calvin,5
-0,2016-12-03 09:50:18 -0600,"['/t/databases', '/t/distributed']",Elassandra: large scale multi-datacenter elasticsearch,https://simongui.github.io/2016/07/20/elassandra.html,/u/unbalancedparentheses,1
-0,2016-12-03 09:38:09 -0600,['/t/go'],Unofficial Instagram API written in Golang,https://github.com/ahmdrz/goinsta,/u/arkan,1
-0,2016-12-02 11:17:21 -0600,['/t/security'],Crypto 101,https://www.crypto101.io/,/u/av,19
-2,2016-12-02 11:59:20 -0600,['/t/job'],Who is hiring - whoishiring.io,https://whoishiring.io/,/u/steveno,15
-8,2016-12-01 23:19:32 -0600,"['/t/c', '/t/programming']",C Programming in Plan 9 from Bell Labs,http://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9,/u/wje,32
-8,2016-12-02 01:13:57 -0600,['/t/go'],Golang's Real-time GC in Theory and Practice,https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/,/u/lei,25
-0,2016-12-02 22:10:00 -0600,['/t/go'],Codebase Refactoring (with help from Go),https://talks.golang.org/2016/refactor.article,/u/av,4
-0,2016-12-02 19:32:51 -0600,['/t/programming'],Skov - A visual programming environment,http://skov.software/en/,/u/zem,5
-5,2016-12-02 01:03:44 -0600,['/t/go'],Go GC pauses - from 300ms in Go 1.4 to under 1ms in Go 1.8,https://twitter.com/brianhatfield/status/804355831080751104,/u/kb,19
-0,2016-12-02 11:47:04 -0600,['/t/programming'],Using Alexa (Amazon Echo) to Preheat my Renault ZOE and check Battery Status,https://blog.dantup.com/2016/12/using-alexa-to-preheat-the-car-and-check-battery-status/,/u/DanTup,4
-1,2016-12-02 11:17:54 -0600,['/t/security'],The Daily DDoS: Ten Days of Massive Attacks,http://blog.cloudflare.com/the-daily-ddos-ten-days-of-massive-attacks/,/u/av,7
-0,2016-12-02 09:57:06 -0600,['/t/networking'],BBR: Congestion-Based Congestion Control,http://queue.acm.org/detail.cfm?id=3022184,/u/sanxiyn,9
+1,2016-12-03 12:40:03 -0600,"/t/pdf,/t/c,/t/compilers",Meta-Compilation for C++ (2001),http://www.computing.surrey.ac.uk/research/dsrg/fog/FogThesis.pdf,/u/ssl,2
+0,2016-12-03 05:41:50 -0600,/t/lua,DynASM,http://luajit.org/dynasm.html,/u/av,7
+0,2016-12-03 17:09:17 -0600,"/t/culture,/t/linux,/t/satire",Everybody loves Eric Raymond,http://geekz.co.uk/lovesraymond/archive/slashdotted,/u/jpm1,5
+1,2016-12-03 09:54:24 -0600,"/t/databases,/t/distributed",Improving cache consistency,https://simongui.github.io/2016/12/02/improving-cache-consistency.html,/u/unbalancedparentheses,2
+0,2016-12-03 09:45:20 -0600,"/t/databases,/t/release",The first release candidate of Redis 4.0 is out,http://www.antirez.com/news/110,/u/unbalancedparentheses,3
+15,2016-12-02 05:43:16 -0600,/t/c,Let’s Stop Bashing C,http://h2co3.org/blog/index.php/2016/12/01/lets-stop-bashing-c/,/u/calvin,36
+0,2016-12-02 15:32:24 -0600,"/t/programming,/t/rust,/t/security",Reflections on Rusting Trust,http://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/,/u/whbboyd,23
+5,2016-12-02 11:51:06 -0600,"/t/law,/t/linux",Ubuntu still isn't free software,https://mjg59.dreamwidth.org/45939.html,/u/pizzaiolo,20
+0,2016-12-03 08:48:50 -0600,/t/programming,Amazon States Language – A JSON-based language to describe state machines,https://states-language.net/spec.html,/u/av,2
+1,2016-12-02 11:16:47 -0600,/t/linux,htop explained,https://peteris.rocks/blog/htop/,/u/av,25
+3,2016-12-02 12:43:07 -0600,"/t/video,/t/lisp",Spec-ulation Keynote - Rich Hickey,https://www.youtube.com/watch?v=oyLBGkS5ICk,/u/jonase,15
+1,2016-12-02 15:56:14 -0600,"/t/javascript,/t/ruby",Breakfast Gem - Brunch.io Integration with Rails,http://breakfast.devlocker.io/,/u/patkoperwas,7
+1,2016-12-03 05:31:23 -0600,"/t/satire,/t/security",Designing an Authentication System: a Dialogue in Four Scenes (1997),https://web.mit.edu/kerberos/dialogue.html,/u/calvin,5
+0,2016-12-03 09:50:18 -0600,"/t/databases,/t/distributed",Elassandra: large scale multi-datacenter elasticsearch,https://simongui.github.io/2016/07/20/elassandra.html,/u/unbalancedparentheses,1
+0,2016-12-03 09:38:09 -0600,/t/go,Unofficial Instagram API written in Golang,https://github.com/ahmdrz/goinsta,/u/arkan,1
+0,2016-12-02 11:17:21 -0600,/t/security,Crypto 101,https://www.crypto101.io/,/u/av,19
+2,2016-12-02 11:59:20 -0600,/t/job,Who is hiring - whoishiring.io,https://whoishiring.io/,/u/steveno,15
+8,2016-12-01 23:19:32 -0600,"/t/c,/t/programming",C Programming in Plan 9 from Bell Labs,http://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9,/u/wje,32
+8,2016-12-02 01:13:57 -0600,/t/go,Golang's Real-time GC in Theory and Practice,https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/,/u/lei,25
+0,2016-12-02 22:10:00 -0600,/t/go,Codebase Refactoring (with help from Go),https://talks.golang.org/2016/refactor.article,/u/av,4
+0,2016-12-02 19:32:51 -0600,/t/programming,Skov - A visual programming environment,http://skov.software/en/,/u/zem,5
+5,2016-12-02 01:03:44 -0600,/t/go,Go GC pauses - from 300ms in Go 1.4 to under 1ms in Go 1.8,https://twitter.com/brianhatfield/status/804355831080751104,/u/kb,19
+0,2016-12-02 11:47:04 -0600,/t/programming,Using Alexa (Amazon Echo) to Preheat my Renault ZOE and check Battery Status,https://blog.dantup.com/2016/12/using-alexa-to-preheat-the-car-and-check-battery-status/,/u/DanTup,4
+1,2016-12-02 11:17:54 -0600,/t/security,The Daily DDoS: Ten Days of Massive Attacks,http://blog.cloudflare.com/the-daily-ddos-ten-days-of-massive-attacks/,/u/av,7
+0,2016-12-02 09:57:06 -0600,/t/networking,BBR: Congestion-Based Congestion Control,http://queue.acm.org/detail.cfm?id=3022184,/u/sanxiyn,9

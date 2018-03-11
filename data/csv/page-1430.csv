@@ -1,25 +1,25 @@
-1,2013-12-06 09:53:29 -0600,['/t/science'],The Next Ten Billion Years,http://thearchdruidreport.blogspot.co.uk/2013/09/the-next-ten-billion-years.html,/u/jm,1
-4,2013-12-06 11:16:46 -0600,"['/t/pdf', '/t/cryptocurrencies', '/t/finance']",Bank of America's report on Bitcoin,https://s3.amazonaws.com/s3.documentcloud.org/documents/885843/banks-research-report-on-bitcoin.pdf?lobsters,/u/journeysquid,1
-8,2013-12-05 22:37:11 -0600,"['/t/android', '/t/news']",Cutting the Telecom Cord,https://blog.bolt.co/2013/12/05/cutting-the-telecom-cord.html,/u/kb,4
-0,2013-12-06 11:35:28 -0600,"['/t/devops', '/t/php', '/t/scaling']",gearman [Gearman Job Server],http://gearman.org/,/u/jm,1
-0,2013-12-06 11:30:32 -0600,['/t/devops'],TestingBot has moved to its own cloud!,http://blog.testingbot.com/2013/12/06/testingbot-has-moved-to-its-own-cloud,/u/jm,1
-0,2013-12-05 22:41:38 -0600,"['/t/ruby', '/t/security']",A Patch in Time: Securing Ruby,https://blog.heroku.com/archives/2013/12/5/a_patch_in_time_securing_ruby,/u/jcs,4
-0,2013-12-05 23:07:31 -0600,['/t/practices'],"Paid Vacation? Not Cool. You Know What’s Cool? Paid, PAID Vacation",http://www.fullcontact.com/blog/paid-paid-vacation/,/u/jm,3
-0,2013-12-05 23:03:06 -0600,['/t/law'],Corporation not person in carpool lanes,http://www.sfgate.com/bayarea/article/Corporation-not-person-in-carpool-lanes-4173366.php,/u/jm,3
-6,2013-12-05 10:47:26 -0600,"['/t/news', '/t/science']",Goiânia accident - Wikipedia,http://en.wikipedia.org/wiki/Goi%C3%A2nia_accident,/u/jm,6
-0,2013-12-05 19:15:03 -0600,['/t/browsers'],Multiprocess Firefox,http://billmccloskey.wordpress.com/2013/12/05/multiprocess-firefox/?lobsters,/u/journeysquid,3
-2,2013-12-05 16:11:22 -0600,"['/t/cryptocurrencies', '/t/finance']",China Bans Financial Companies From Bitcoin Transactions,http://www.bloomberg.com/news/2013-12-05/china-s-pboc-bans-financial-companies-from-bitcoin-transactions.html?lobsters,/u/journeysquid,2
-0,2013-12-05 18:05:11 -0600,"['/t/assembly', '/t/hardware']",Intel i7 loop performance anomaly,http://eli.thegreenplace.net/2013/12/03/intel-i7-loop-performance-anomaly/,/u/kyle,3
-0,2013-12-05 09:45:42 -0600,"['/t/go', '/t/javascript']",GopherJS - A transpiler from Go to JavaScript,https://github.com/neelance/gopherjs,/u/qbit,7
-0,2013-12-05 15:58:26 -0600,"['/t/programming', '/t/ruby']",Extracting Immutable Objects,http://push.cx/2013/extracting-immutable-objects,/u/pushcx,1
-0,2013-12-05 12:45:08 -0600,"['/t/programming', '/t/unix']",A Testament to X11 Backwards Compatibility,http://www.theresistornetwork.com/2013/12/a-testament-to-x11-backwards.html,/u/journeysquid,1
-0,2013-12-04 20:18:12 -0600,['/t/math'],Sexy prime - Wikipedia,https://en.wikipedia.org/wiki/Sexy_prime,/u/jm,5
-0,2013-12-04 16:44:13 -0600,['/t/privacy'],"NSA tracking cellphone locations worldwide, Snowden documents show",http://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_print.html,/u/kyle,7
-2,2013-12-04 20:15:08 -0600,['/t/cryptocurrencies'],Stop Saying Bitcoin Transactions Aren’t Reversible,http://elidourado.com/blog/bitcoin-arbitration/,/u/jm,3
-0,2013-12-04 20:16:13 -0600,['/t/security'],AnalyzePDF - Bringing the Dirt Up to the Surface,http://hiddenillusion.blogspot.ca/2013/12/analyzepdf-bringing-dirt-up-to-surface.html,/u/kyle,2
-0,2013-12-04 11:31:31 -0600,['/t/security'],How does the NSA break SSL?,http://blog.cryptographyengineering.com/2013/12/how-does-nsa-break-ssl.html,/u/jcs,5
-1,2013-12-04 11:28:11 -0600,"['/t/practices', '/t/programming']","No, I will not hack on your codebase for free under the pretext of it being a ""technical interview""",http://hownottohireadeveloper.blogspot.co.uk/2013/11/no-i-will-not-hack-on-your-codebase-for-free.html?lobsters,/u/journeysquid,3
-0,2013-12-04 20:19:39 -0600,['/t/practices'],"Write The Docs - A series of events for technical writers, documentarians, and all those who write the docs.",http://conf.writethedocs.org/,/u/SeanTAllen,1
-0,2013-12-04 11:13:03 -0600,"['/t/linux', '/t/security']",Subverting (UEFI) security with kexec,http://mjg59.dreamwidth.org/28746.html,/u/journeysquid,4
-0,2013-12-04 11:44:44 -0600,"['/t/devops', '/t/linux']",sysadvent: Day 4 - Yum and repository tools by example,http://sysadvent.blogspot.com/2013/12/day-4-yum-and-repository-tools-by.html,/u/jcs,2
-0,2013-12-04 11:41:48 -0600,['/t/go'],Measuring C API Coverage with Go,http://blog.damienradtke.org/cgo-api-coverage/,/u/kyle,2
+1,2013-12-06 09:53:29 -0600,/t/science,The Next Ten Billion Years,http://thearchdruidreport.blogspot.co.uk/2013/09/the-next-ten-billion-years.html,/u/jm,1
+4,2013-12-06 11:16:46 -0600,"/t/pdf,/t/cryptocurrencies,/t/finance",Bank of America's report on Bitcoin,https://s3.amazonaws.com/s3.documentcloud.org/documents/885843/banks-research-report-on-bitcoin.pdf?lobsters,/u/journeysquid,1
+8,2013-12-05 22:37:11 -0600,"/t/android,/t/news",Cutting the Telecom Cord,https://blog.bolt.co/2013/12/05/cutting-the-telecom-cord.html,/u/kb,4
+0,2013-12-06 11:35:28 -0600,"/t/devops,/t/php,/t/scaling",gearman [Gearman Job Server],http://gearman.org/,/u/jm,1
+0,2013-12-06 11:30:32 -0600,/t/devops,TestingBot has moved to its own cloud!,http://blog.testingbot.com/2013/12/06/testingbot-has-moved-to-its-own-cloud,/u/jm,1
+0,2013-12-05 22:41:38 -0600,"/t/ruby,/t/security",A Patch in Time: Securing Ruby,https://blog.heroku.com/archives/2013/12/5/a_patch_in_time_securing_ruby,/u/jcs,4
+0,2013-12-05 23:07:31 -0600,/t/practices,"Paid Vacation? Not Cool. You Know What’s Cool? Paid, PAID Vacation",http://www.fullcontact.com/blog/paid-paid-vacation/,/u/jm,3
+0,2013-12-05 23:03:06 -0600,/t/law,Corporation not person in carpool lanes,http://www.sfgate.com/bayarea/article/Corporation-not-person-in-carpool-lanes-4173366.php,/u/jm,3
+6,2013-12-05 10:47:26 -0600,"/t/news,/t/science",Goiânia accident - Wikipedia,http://en.wikipedia.org/wiki/Goi%C3%A2nia_accident,/u/jm,6
+0,2013-12-05 19:15:03 -0600,/t/browsers,Multiprocess Firefox,http://billmccloskey.wordpress.com/2013/12/05/multiprocess-firefox/?lobsters,/u/journeysquid,3
+2,2013-12-05 16:11:22 -0600,"/t/cryptocurrencies,/t/finance",China Bans Financial Companies From Bitcoin Transactions,http://www.bloomberg.com/news/2013-12-05/china-s-pboc-bans-financial-companies-from-bitcoin-transactions.html?lobsters,/u/journeysquid,2
+0,2013-12-05 18:05:11 -0600,"/t/assembly,/t/hardware",Intel i7 loop performance anomaly,http://eli.thegreenplace.net/2013/12/03/intel-i7-loop-performance-anomaly/,/u/kyle,3
+0,2013-12-05 09:45:42 -0600,"/t/go,/t/javascript",GopherJS - A transpiler from Go to JavaScript,https://github.com/neelance/gopherjs,/u/qbit,7
+0,2013-12-05 15:58:26 -0600,"/t/programming,/t/ruby",Extracting Immutable Objects,http://push.cx/2013/extracting-immutable-objects,/u/pushcx,1
+0,2013-12-05 12:45:08 -0600,"/t/programming,/t/unix",A Testament to X11 Backwards Compatibility,http://www.theresistornetwork.com/2013/12/a-testament-to-x11-backwards.html,/u/journeysquid,1
+0,2013-12-04 20:18:12 -0600,/t/math,Sexy prime - Wikipedia,https://en.wikipedia.org/wiki/Sexy_prime,/u/jm,5
+0,2013-12-04 16:44:13 -0600,/t/privacy,"NSA tracking cellphone locations worldwide, Snowden documents show",http://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_print.html,/u/kyle,7
+2,2013-12-04 20:15:08 -0600,/t/cryptocurrencies,Stop Saying Bitcoin Transactions Aren’t Reversible,http://elidourado.com/blog/bitcoin-arbitration/,/u/jm,3
+0,2013-12-04 20:16:13 -0600,/t/security,AnalyzePDF - Bringing the Dirt Up to the Surface,http://hiddenillusion.blogspot.ca/2013/12/analyzepdf-bringing-dirt-up-to-surface.html,/u/kyle,2
+0,2013-12-04 11:31:31 -0600,/t/security,How does the NSA break SSL?,http://blog.cryptographyengineering.com/2013/12/how-does-nsa-break-ssl.html,/u/jcs,5
+1,2013-12-04 11:28:11 -0600,"/t/practices,/t/programming","No, I will not hack on your codebase for free under the pretext of it being a ""technical interview""",http://hownottohireadeveloper.blogspot.co.uk/2013/11/no-i-will-not-hack-on-your-codebase-for-free.html?lobsters,/u/journeysquid,3
+0,2013-12-04 20:19:39 -0600,/t/practices,"Write The Docs - A series of events for technical writers, documentarians, and all those who write the docs.",http://conf.writethedocs.org/,/u/SeanTAllen,1
+0,2013-12-04 11:13:03 -0600,"/t/linux,/t/security",Subverting (UEFI) security with kexec,http://mjg59.dreamwidth.org/28746.html,/u/journeysquid,4
+0,2013-12-04 11:44:44 -0600,"/t/devops,/t/linux",sysadvent: Day 4 - Yum and repository tools by example,http://sysadvent.blogspot.com/2013/12/day-4-yum-and-repository-tools-by.html,/u/jcs,2
+0,2013-12-04 11:41:48 -0600,/t/go,Measuring C API Coverage with Go,http://blog.damienradtke.org/cgo-api-coverage/,/u/kyle,2

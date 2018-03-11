@@ -1,25 +1,25 @@
-0,2016-05-18 04:16:32 -0500,['/t/privacy'],Going dark: online privacy and anonymity for normal people,https://www.troyhunt.com/going-dark-online-privacy-and-anonymity-for-normal-people/,/u/resir014,2
-16,2016-05-16 20:53:09 -0500,['/t/security'],Ring 0 execution in all Symantec products by sending an email or a link,https://bugs.chromium.org/p/project-zero/issues/detail?id=820,/u/kb,41
-1,2016-05-17 10:03:24 -0500,"['/t/design', '/t/web']",Designing A Dementia-Friendly Website,https://www.smashingmagazine.com/2016/05/designing-a-dementia-friendly-website/,/u/pushcx,14
-0,2016-05-17 08:24:40 -0500,['/t/distributed'],Apache Kafka producers are not fault tolerant,https://labs.immobiliare.it/kafka-producers-are-not-fault-tolerant/,/u/Lethalman,10
-0,2016-05-17 20:50:03 -0500,"['/t/javascript', '/t/security']",Hacking the JavaScript Lottery,https://medium.com/independent-security-evaluators/hacking-the-javascript-lottery-80cc437e3b7f,/u/lattera,4
-11,2016-05-16 23:30:03 -0500,['/t/ruby'],Ruby has been fast enough for 13 years,https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7,/u/ericdykstra,21
-0,2016-05-17 10:56:37 -0500,['/t/design'],How Typography Can Save Your Life,https://www.propublica.org/article/how-typography-can-save-your-life,/u/tedu,11
-1,2016-05-17 16:21:09 -0500,"['/t/programming', '/t/vcs']",How to use feature flags without technical debt,http://blog.launchdarkly.com/how-to-use-feature-flags-without-technical-debt/,/u/alxndr,3
-2,2016-05-17 13:34:43 -0500,['/t/javascript'],"Horizon: the realtime, open-source JavaScript backend from ReThinkDB",http://horizon.io/#1.0-release,/u/kevinSuttle,4
-0,2016-05-17 12:39:28 -0500,"['/t/javascript', '/t/mobile']",Things I learned the hard way using React Native,http://rickyreusser.com/2016/05/14/things-i-learned-the-hard-way-using-react-native/,/u/craigstuntz,6
-1,2016-05-17 09:26:46 -0500,"['/t/javascript', '/t/programming']",A simple explanation of proper tail calls for javascript!,https://gist.github.com/anonymous/d57bcd9ff8e494863c5050a03c958a3e,/u/rain1,3
-0,2016-05-17 09:14:45 -0500,['/t/c'],Pointer Overflow Checking,http://blog.regehr.org/archives/1395,/u/kyle,7
-0,2016-05-17 10:13:35 -0500,"['/t/law', '/t/privacy']",Thursday Hearing in San Francisco: EFF Fights for Answers About Massive Government Phone Database,https://www.eff.org/press/releases/thursday-hearing-san-francisco-eff-fights-answers-about-massive-government-phone,/u/halosghost,6
-0,2016-05-17 06:16:26 -0500,"['/t/linux', '/t/security']","Major Remote SSH Security Issue in CoreOS Linux Alpha, Subset of Users Affected",https://coreos.com/blog/alpha-security-incident-subset-of-users-affected.html,/u/mulander,9
-0,2016-05-17 12:48:04 -0500,"['/t/hardware', '/t/science']",IBM scientists achieve phase-change memory breakthrough,http://phys.org/news/2016-05-ibm-scientists-storage-memory-breakthrough.html,/u/freehunter,4
-0,2016-05-17 14:10:32 -0500,"['/t/databases', '/t/javascript']",Introducing Ponos: A RabbitMQ-based Worker Server,http://blog.runnable.com/post/144321351856/introducing-ponos-a-rabbitmq-based-worker-server,/u/hiphipjorge,3
-2,2016-05-16 13:16:06 -0500,['/t/rust'],One year of Rust - The Rust Programming Language Blog,http://blog.rust-lang.org/2016/05/16/rust-at-one-year.html,/u/chadski,38
-0,2016-05-17 10:17:11 -0500,['/t/javascript'],A Timeline for Learning React,https://daveceddia.com/timeline-for-learning-react/,/u/dceddia,2
-6,2016-05-17 05:18:50 -0500,"['/t/cogsci', '/t/philosophy']","Bots lack metaphors, and that is their biggest asset",http://cfenollosa.com/blog/bots-lack-metaphors-and-that-is-their-biggest-asset.html,/u/carlesfe,2
-1,2016-05-17 10:43:27 -0500,"['/t/ios', '/t/rust', '/t/swift']","Building an iOS App in Rust, Part 1: Getting Started with Rust",https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/,/u/DrM,4
-1,2016-05-17 14:57:55 -0500,"['/t/devops', '/t/practices']",5 takeaways from NTSB hearing on Amtrak derailment,http://www.philly.com/philly/blogs/real-time/5-takeaways-from-NTSB-hearing-on-Amtrak-derailment.html,/u/tedu,2
-12,2016-05-16 13:01:30 -0500,"['/t/api', '/t/law']","Oracle v. Google, and the end of programming as we know it",http://www.computerworld.com/article/3070001/application-development/oracle-v-google-and-the-end-of-programming-as-we-know-it.html,/u/av,19
-14,2016-05-16 15:06:19 -0500,"['/t/video', '/t/graphics']",Doom WASN'T 3D!,https://www.youtube.com/watch?v=zb6Eo1D6VW8,/u/pushcx,12
-0,2016-05-17 15:12:45 -0500,['/t/compsci'],Raspberry Pi Car Speed Detector,https://gregtinkers.wordpress.com/2016/03/25/car-speed-detector/,/u/JeremyMorgan,1
-16,2016-05-16 08:14:48 -0500,['/t/law'],Software Licenses and Failed States,http://250bpm.com/blog:82,/u/sustrik,12
+0,2016-05-18 04:16:32 -0500,/t/privacy,Going dark: online privacy and anonymity for normal people,https://www.troyhunt.com/going-dark-online-privacy-and-anonymity-for-normal-people/,/u/resir014,2
+16,2016-05-16 20:53:09 -0500,/t/security,Ring 0 execution in all Symantec products by sending an email or a link,https://bugs.chromium.org/p/project-zero/issues/detail?id=820,/u/kb,41
+1,2016-05-17 10:03:24 -0500,"/t/design,/t/web",Designing A Dementia-Friendly Website,https://www.smashingmagazine.com/2016/05/designing-a-dementia-friendly-website/,/u/pushcx,14
+0,2016-05-17 08:24:40 -0500,/t/distributed,Apache Kafka producers are not fault tolerant,https://labs.immobiliare.it/kafka-producers-are-not-fault-tolerant/,/u/Lethalman,10
+0,2016-05-17 20:50:03 -0500,"/t/javascript,/t/security",Hacking the JavaScript Lottery,https://medium.com/independent-security-evaluators/hacking-the-javascript-lottery-80cc437e3b7f,/u/lattera,4
+11,2016-05-16 23:30:03 -0500,/t/ruby,Ruby has been fast enough for 13 years,https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7,/u/ericdykstra,21
+0,2016-05-17 10:56:37 -0500,/t/design,How Typography Can Save Your Life,https://www.propublica.org/article/how-typography-can-save-your-life,/u/tedu,11
+1,2016-05-17 16:21:09 -0500,"/t/programming,/t/vcs",How to use feature flags without technical debt,http://blog.launchdarkly.com/how-to-use-feature-flags-without-technical-debt/,/u/alxndr,3
+2,2016-05-17 13:34:43 -0500,/t/javascript,"Horizon: the realtime, open-source JavaScript backend from ReThinkDB",http://horizon.io/#1.0-release,/u/kevinSuttle,4
+0,2016-05-17 12:39:28 -0500,"/t/javascript,/t/mobile",Things I learned the hard way using React Native,http://rickyreusser.com/2016/05/14/things-i-learned-the-hard-way-using-react-native/,/u/craigstuntz,6
+1,2016-05-17 09:26:46 -0500,"/t/javascript,/t/programming",A simple explanation of proper tail calls for javascript!,https://gist.github.com/anonymous/d57bcd9ff8e494863c5050a03c958a3e,/u/rain1,3
+0,2016-05-17 09:14:45 -0500,/t/c,Pointer Overflow Checking,http://blog.regehr.org/archives/1395,/u/kyle,7
+0,2016-05-17 10:13:35 -0500,"/t/law,/t/privacy",Thursday Hearing in San Francisco: EFF Fights for Answers About Massive Government Phone Database,https://www.eff.org/press/releases/thursday-hearing-san-francisco-eff-fights-answers-about-massive-government-phone,/u/halosghost,6
+0,2016-05-17 06:16:26 -0500,"/t/linux,/t/security","Major Remote SSH Security Issue in CoreOS Linux Alpha, Subset of Users Affected",https://coreos.com/blog/alpha-security-incident-subset-of-users-affected.html,/u/mulander,9
+0,2016-05-17 12:48:04 -0500,"/t/hardware,/t/science",IBM scientists achieve phase-change memory breakthrough,http://phys.org/news/2016-05-ibm-scientists-storage-memory-breakthrough.html,/u/freehunter,4
+0,2016-05-17 14:10:32 -0500,"/t/databases,/t/javascript",Introducing Ponos: A RabbitMQ-based Worker Server,http://blog.runnable.com/post/144321351856/introducing-ponos-a-rabbitmq-based-worker-server,/u/hiphipjorge,3
+2,2016-05-16 13:16:06 -0500,/t/rust,One year of Rust - The Rust Programming Language Blog,http://blog.rust-lang.org/2016/05/16/rust-at-one-year.html,/u/chadski,38
+0,2016-05-17 10:17:11 -0500,/t/javascript,A Timeline for Learning React,https://daveceddia.com/timeline-for-learning-react/,/u/dceddia,2
+6,2016-05-17 05:18:50 -0500,"/t/cogsci,/t/philosophy","Bots lack metaphors, and that is their biggest asset",http://cfenollosa.com/blog/bots-lack-metaphors-and-that-is-their-biggest-asset.html,/u/carlesfe,2
+1,2016-05-17 10:43:27 -0500,"/t/ios,/t/rust,/t/swift","Building an iOS App in Rust, Part 1: Getting Started with Rust",https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/,/u/DrM,4
+1,2016-05-17 14:57:55 -0500,"/t/devops,/t/practices",5 takeaways from NTSB hearing on Amtrak derailment,http://www.philly.com/philly/blogs/real-time/5-takeaways-from-NTSB-hearing-on-Amtrak-derailment.html,/u/tedu,2
+12,2016-05-16 13:01:30 -0500,"/t/api,/t/law","Oracle v. Google, and the end of programming as we know it",http://www.computerworld.com/article/3070001/application-development/oracle-v-google-and-the-end-of-programming-as-we-know-it.html,/u/av,19
+14,2016-05-16 15:06:19 -0500,"/t/video,/t/graphics",Doom WASN'T 3D!,https://www.youtube.com/watch?v=zb6Eo1D6VW8,/u/pushcx,12
+0,2016-05-17 15:12:45 -0500,/t/compsci,Raspberry Pi Car Speed Detector,https://gregtinkers.wordpress.com/2016/03/25/car-speed-detector/,/u/JeremyMorgan,1
+16,2016-05-16 08:14:48 -0500,/t/law,Software Licenses and Failed States,http://250bpm.com/blog:82,/u/sustrik,12

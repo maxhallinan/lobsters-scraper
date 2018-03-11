@@ -1,25 +1,25 @@
-0,2017-01-13 07:36:00 -0600,['/t/unix'],dgsh — directed graph shell,http://www.dmst.aueb.gr/dds/sw/dgsh/,/u/igorclark,17
-1,2017-01-13 20:48:05 -0600,['/t/dotnet'],Analysing Pause times in the .NET GC,http://www.mattwarren.org/2017/01/13/Analysing-Pause-times-in-the-.NET-GC/,/u/calvin,2
-4,2017-01-13 10:32:18 -0600,"['/t/games', '/t/practices']",Searching For Half-Life 3,http://www.gameinformer.com/b/features/archive/2017/01/11/searching-for-half-life-3.aspx,/u/calvin,6
-3,2017-01-13 13:25:32 -0600,"['/t/practices', '/t/security']",Choosing a new master password,https://medium.com/@shazow/choosing-a-new-master-password-cdefe31dff3c,/u/pushcx,5
-1,2017-01-13 08:01:18 -0600,['/t/devops'],"Open Sourcing Screwdriver, Yahoo’s Continuous Delivery Build System for Dynamic Infrastructure",https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous,/u/mhausenblas,9
-0,2017-01-13 13:15:37 -0600,"['/t/video', '/t/historical', '/t/mac', '/t/math', '/t/person', '/t/practices']",The Graphing Calculator Story,https://www.youtube.com/watch?v=Dl643JFJWig,/u/sevan,6
-0,2017-01-13 19:25:26 -0600,"['/t/video', '/t/compsci', '/t/historical', '/t/person']","Interview with Ted Nelson, 1990",https://www.youtube.com/watch?v=ZqqKajwm-Qs,/u/sevan,2
-0,2017-01-13 14:58:16 -0600,['/t/css'],Multi-line Padded Text with the CSS box-decoration-break Property,http://callmenick.com/post/multi-line-padded-text-css-box-decoration-break,/u/flyingfisch,3
-1,2017-01-13 09:59:54 -0600,['/t/programming'],Why type-first development matters (2012),http://tomasp.net/blog/type-first-development.aspx/,/u/asthasr,4
-1,2017-01-13 07:26:17 -0600,"['/t/hardware', '/t/networking']",CS Responder Trans-Oceanic Cable Layer,http://perspectives.mvdirona.com/2017/01/cs-responder-trans-oceanic-cable-layer/,/u/apy,4
-0,2017-01-13 09:51:13 -0600,['/t/compsci'],How Hash Algorithms Work,http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software,/u/av,5
-0,2017-01-13 10:29:26 -0600,"['/t/show', '/t/web']",Quickly build links that direct UK visitors to Amazon.co.uk and others to Amazon.com,https://www.us-uk-redirector.com/,/u/DanTup,2
-0,2017-01-13 14:48:32 -0600,['/t/javascript'],Immutable.js: An Introduction with examples written for humans,http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/,/u/flyingfisch,2
-10,2017-01-12 13:55:26 -0600,"['/t/ruby', '/t/security']",Simple and Terrifying Encryption Story,https://blog.elpassion.com/simple-and-terrifying-encryption-story-c1f1d6707c07,/u/asthasr,18
-0,2017-01-13 17:16:23 -0600,"['/t/book', '/t/compsci', '/t/programming']",ModernDive: An Introduction to Statistical and Data Sciences via R,https://ismayc.github.io/moderndiver-book/,/u/fcbsd,1
-49,2017-01-12 10:29:31 -0600,['/t/ask'],Do you think null was a mistake?,/s/cgs2kc/do_you_think_null_was_mistake,/u/zg,22
-0,2017-01-13 06:37:10 -0600,['/t/security'],Staying Safe Online - A short guide for non-technical people,https://ma.ttias.be/staying-safe-online-guide/,/u/mattiasgeniar,2
-0,2017-01-12 19:58:38 -0600,"['/t/c', '/t/haskell', '/t/programming']",Fast Haskell: Competing with C at parsing XML,http://chrisdone.com/posts/fast-haskell-c-parsing-xml,/u/calvin,15
-1,2017-01-13 01:51:55 -0600,"['/t/pdf', '/t/databases']",Explaining EXPLAIN (2008),https://wiki.postgresql.org/images/4/45/Explaining_EXPLAIN.pdf,/u/hoopla,6
-4,2017-01-12 13:29:28 -0600,"['/t/lisp', '/t/release']",StumpWM 1.0.0 Released!,http://lists.nongnu.org/archive/html/stumpwm-devel/2017-01/msg00007.html,/u/PuercoPop,14
-58,2017-01-11 22:57:08 -0600,['/t/programming'],The Dark Path,http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html,/u/pushcx,50
-0,2017-01-12 21:34:56 -0600,"['/t/go', '/t/web']",Buffalo - The Go Web Framework,http://gobuffalo.io/,/u/av,8
-0,2017-01-13 04:53:54 -0600,"['/t/databases', '/t/haskell']",Hasbolt: The New Haskell Neo4j Bolt Driver,https://neo4j.com/blog/hasbolt-haskell-neo4j-bolt-driver/,/u/bwmerkl,3
-0,2017-01-12 18:30:50 -0600,"['/t/video', '/t/erlang']",What I Learned Writing a Game Server in Erlang,https://www.youtube.com/watch?v=Hf96bhU7R80,/u/friendlysock,10
-3,2017-01-12 12:42:34 -0600,"['/t/erlang', '/t/web']",Simple slug generator,http://blog.ikura.co/posts/simple-slug-generator.html,/u/nato,6
+0,2017-01-13 07:36:00 -0600,/t/unix,dgsh — directed graph shell,http://www.dmst.aueb.gr/dds/sw/dgsh/,/u/igorclark,17
+1,2017-01-13 20:48:05 -0600,/t/dotnet,Analysing Pause times in the .NET GC,http://www.mattwarren.org/2017/01/13/Analysing-Pause-times-in-the-.NET-GC/,/u/calvin,2
+4,2017-01-13 10:32:18 -0600,"/t/games,/t/practices",Searching For Half-Life 3,http://www.gameinformer.com/b/features/archive/2017/01/11/searching-for-half-life-3.aspx,/u/calvin,6
+3,2017-01-13 13:25:32 -0600,"/t/practices,/t/security",Choosing a new master password,https://medium.com/@shazow/choosing-a-new-master-password-cdefe31dff3c,/u/pushcx,5
+1,2017-01-13 08:01:18 -0600,/t/devops,"Open Sourcing Screwdriver, Yahoo’s Continuous Delivery Build System for Dynamic Infrastructure",https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous,/u/mhausenblas,9
+0,2017-01-13 13:15:37 -0600,"/t/video,/t/historical,/t/mac,/t/math,/t/person,/t/practices",The Graphing Calculator Story,https://www.youtube.com/watch?v=Dl643JFJWig,/u/sevan,6
+0,2017-01-13 19:25:26 -0600,"/t/video,/t/compsci,/t/historical,/t/person","Interview with Ted Nelson, 1990",https://www.youtube.com/watch?v=ZqqKajwm-Qs,/u/sevan,2
+0,2017-01-13 14:58:16 -0600,/t/css,Multi-line Padded Text with the CSS box-decoration-break Property,http://callmenick.com/post/multi-line-padded-text-css-box-decoration-break,/u/flyingfisch,3
+1,2017-01-13 09:59:54 -0600,/t/programming,Why type-first development matters (2012),http://tomasp.net/blog/type-first-development.aspx/,/u/asthasr,4
+1,2017-01-13 07:26:17 -0600,"/t/hardware,/t/networking",CS Responder Trans-Oceanic Cable Layer,http://perspectives.mvdirona.com/2017/01/cs-responder-trans-oceanic-cable-layer/,/u/apy,4
+0,2017-01-13 09:51:13 -0600,/t/compsci,How Hash Algorithms Work,http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software,/u/av,5
+0,2017-01-13 10:29:26 -0600,"/t/show,/t/web",Quickly build links that direct UK visitors to Amazon.co.uk and others to Amazon.com,https://www.us-uk-redirector.com/,/u/DanTup,2
+0,2017-01-13 14:48:32 -0600,/t/javascript,Immutable.js: An Introduction with examples written for humans,http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/,/u/flyingfisch,2
+10,2017-01-12 13:55:26 -0600,"/t/ruby,/t/security",Simple and Terrifying Encryption Story,https://blog.elpassion.com/simple-and-terrifying-encryption-story-c1f1d6707c07,/u/asthasr,18
+0,2017-01-13 17:16:23 -0600,"/t/book,/t/compsci,/t/programming",ModernDive: An Introduction to Statistical and Data Sciences via R,https://ismayc.github.io/moderndiver-book/,/u/fcbsd,1
+49,2017-01-12 10:29:31 -0600,/t/ask,Do you think null was a mistake?,/s/cgs2kc/do_you_think_null_was_mistake,/u/zg,22
+0,2017-01-13 06:37:10 -0600,/t/security,Staying Safe Online - A short guide for non-technical people,https://ma.ttias.be/staying-safe-online-guide/,/u/mattiasgeniar,2
+0,2017-01-12 19:58:38 -0600,"/t/c,/t/haskell,/t/programming",Fast Haskell: Competing with C at parsing XML,http://chrisdone.com/posts/fast-haskell-c-parsing-xml,/u/calvin,15
+1,2017-01-13 01:51:55 -0600,"/t/pdf,/t/databases",Explaining EXPLAIN (2008),https://wiki.postgresql.org/images/4/45/Explaining_EXPLAIN.pdf,/u/hoopla,6
+4,2017-01-12 13:29:28 -0600,"/t/lisp,/t/release",StumpWM 1.0.0 Released!,http://lists.nongnu.org/archive/html/stumpwm-devel/2017-01/msg00007.html,/u/PuercoPop,14
+58,2017-01-11 22:57:08 -0600,/t/programming,The Dark Path,http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html,/u/pushcx,50
+0,2017-01-12 21:34:56 -0600,"/t/go,/t/web",Buffalo - The Go Web Framework,http://gobuffalo.io/,/u/av,8
+0,2017-01-13 04:53:54 -0600,"/t/databases,/t/haskell",Hasbolt: The New Haskell Neo4j Bolt Driver,https://neo4j.com/blog/hasbolt-haskell-neo4j-bolt-driver/,/u/bwmerkl,3
+0,2017-01-12 18:30:50 -0600,"/t/video,/t/erlang",What I Learned Writing a Game Server in Erlang,https://www.youtube.com/watch?v=Hf96bhU7R80,/u/friendlysock,10
+3,2017-01-12 12:42:34 -0600,"/t/erlang,/t/web",Simple slug generator,http://blog.ikura.co/posts/simple-slug-generator.html,/u/nato,6

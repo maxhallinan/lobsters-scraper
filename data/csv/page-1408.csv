@@ -1,25 +1,25 @@
-0,2014-01-14 10:34:20 -0600,['/t/security'],fteproxy | protocol misidentification made easy,https://fteproxy.org/,/u/pgr0ss,4
-0,2014-01-14 18:16:34 -0600,"['/t/show', '/t/hardware']",Hide digital easter eggs using a physical key,https://medium.com/tech-talk/9441a7b5cd89,/u/ccmoberg,1
-0,2014-01-14 14:16:40 -0600,['/t/law'],Top Ten Internet Law Developments Of 2013,http://blog.ericgoldman.org/archives/2014/01/top-ten-internet-law-developments-of-2013-forbes-cross-post.htm,/u/tedu,2
-0,2014-01-14 12:12:31 -0600,"['/t/c', '/t/programming']",LLVM Clang Lands Profile-Guided Optimization (PGO) Support,http://www.phoronix.com/scan.php?page=news_item&px=MTU3MDQ,/u/journeysquid,1
-52,2014-01-13 11:20:26 -0600,['/t/ask'],What are you working on this week?,/s/e04ccq/what_are_you_working_on_this_week,/u/conroy,35
-0,2014-01-13 13:20:29 -0600,"['/t/compsci', '/t/lisp']",Hindley-Milner in Clojure,http://www.lispcast.com/Hindley-Milner-in-Clojure,/u/cbilson,11
-0,2014-01-13 18:45:34 -0600,['/t/rust'],A 30 minute introduction to Rust,http://words.steveklabnik.com/a-30-minute-introduction-to-rust,/u/journeysquid,5
-2,2014-01-13 14:07:45 -0600,['/t/practices'],Maker Time,http://willholloway.net/makertime.html,/u/jm,5
-0,2014-01-13 19:21:13 -0600,"['/t/video', '/t/lisp', '/t/programming']",Illuminated Macros in Clojure,http://www.youtube.com/watch?v=o75g9ZRoLaw&feature=youtu.be,/u/juliangamble,4
-0,2014-01-13 21:26:21 -0600,"['/t/c', '/t/programming']",Thread Safety and Synchronization,http://herbsutter.com/2014/01/13/gotw-95-solution-thread-safety-and-synchronization/,/u/tedu,3
-0,2014-01-13 15:07:45 -0600,"['/t/programming', '/t/ruby']",Development Hacks to Prevent Mistakes,https://www.pgrs.net/2013/10/04/development-hacks-to-prevent-mistakes/,/u/pgr0ss,5
-0,2014-01-13 07:19:34 -0600,"['/t/c', '/t/compsci', '/t/hardware']",Lightweight String Indexing for Embedded Systems,http://spin.atomicobject.com/2014/01/13/lightweight-indexing-for-embedded-systems/,/u/silentbicycle,11
-1,2014-01-13 18:30:19 -0600,"['/t/pdf', '/t/security']",A Secure Text Messaging Protocol,http://eprint.iacr.org/2014/036.pdf,/u/kyle,1
-0,2014-01-12 23:05:46 -0600,"['/t/show', '/t/distributed', '/t/erlang']",Erlang implementation of Raft consensus protocol,https://github.com/andrewjstone/rafter,/u/petrohi,19
-0,2014-01-13 16:58:50 -0600,['/t/erlang'],3 part series on testing with quickcheck,http://erlcode.wordpress.com/tag/quickcheck/,/u/SeanTAllen,2
-0,2014-01-13 09:12:18 -0600,['/t/ruby'],Ruby syntax tricks,http://walpurgisriot.github.io/blog/2013/12/18/ruby-syntax-trivia.html,/u/dl,5
-1,2014-01-13 06:25:07 -0600,"['/t/javascript', '/t/mobile', '/t/web']",A Slight Obsession Over Page Speed,http://flippinawesome.org/2014/01/13/a-slight-obsession-over-page-speed/,/u/remotesynth,4
-0,2014-01-13 23:16:16 -0600,"['/t/hardware', '/t/linux']",Ubuntu and Aging Nvidia Graphics Cards: Compositing in 5 Steps,http://www.longren.org/ubuntu-and-aging-nvidia-graphics-cards-compositing-in-5-steps/,/u/tlongren,0
-0,2014-01-13 09:56:33 -0600,"['/t/person', '/t/python', '/t/web']",Adrian Holovaty and Jacob Kaplan-Moss retiring as Django BDFLs,http://www.holovaty.com/writing/bdfls-retiring/,/u/djm,3
-6,2014-01-12 13:00:14 -0600,['/t/programming'],Parallelism And Concurrency Need Different Tools,http://www.yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html,/u/wting,17
-1,2014-01-13 00:04:50 -0600,['/t/distributed'],Distributed Consensus: Beating Impossibility with Probability One,http://brooker.co.za/blog/2014/01/12/ben-or.html,/u/vjoel,6
-2,2014-01-13 10:32:36 -0600,['/t/meta'],Bookmarking Integration,/s/hpsyuv/bookmarking_integration,/u/doki_pen,3
-0,2014-01-12 15:04:17 -0600,['/t/lisp'],"Random Terrain Generation, A Clojure Walkthrough",http://blog.mediocregopher.com/clojure-diamond-square.html,/u/drturtle,14
-1,2014-01-13 00:32:56 -0600,"['/t/compsci', '/t/programming']",Regular Expression Matching Can Be Simple And Fast (2007),http://swtch.com/~rsc/regexp/regexp1.html,/u/guillaume,3
-0,2014-01-13 04:41:03 -0600,['/t/event'],CreateSki - Anyone interested in an industry ski trip?,http://tech.yunojuno.com/createski,/u/stevejalim,2
+0,2014-01-14 10:34:20 -0600,/t/security,fteproxy | protocol misidentification made easy,https://fteproxy.org/,/u/pgr0ss,4
+0,2014-01-14 18:16:34 -0600,"/t/show,/t/hardware",Hide digital easter eggs using a physical key,https://medium.com/tech-talk/9441a7b5cd89,/u/ccmoberg,1
+0,2014-01-14 14:16:40 -0600,/t/law,Top Ten Internet Law Developments Of 2013,http://blog.ericgoldman.org/archives/2014/01/top-ten-internet-law-developments-of-2013-forbes-cross-post.htm,/u/tedu,2
+0,2014-01-14 12:12:31 -0600,"/t/c,/t/programming",LLVM Clang Lands Profile-Guided Optimization (PGO) Support,http://www.phoronix.com/scan.php?page=news_item&px=MTU3MDQ,/u/journeysquid,1
+52,2014-01-13 11:20:26 -0600,/t/ask,What are you working on this week?,/s/e04ccq/what_are_you_working_on_this_week,/u/conroy,35
+0,2014-01-13 13:20:29 -0600,"/t/compsci,/t/lisp",Hindley-Milner in Clojure,http://www.lispcast.com/Hindley-Milner-in-Clojure,/u/cbilson,11
+0,2014-01-13 18:45:34 -0600,/t/rust,A 30 minute introduction to Rust,http://words.steveklabnik.com/a-30-minute-introduction-to-rust,/u/journeysquid,5
+2,2014-01-13 14:07:45 -0600,/t/practices,Maker Time,http://willholloway.net/makertime.html,/u/jm,5
+0,2014-01-13 19:21:13 -0600,"/t/video,/t/lisp,/t/programming",Illuminated Macros in Clojure,http://www.youtube.com/watch?v=o75g9ZRoLaw&feature=youtu.be,/u/juliangamble,4
+0,2014-01-13 21:26:21 -0600,"/t/c,/t/programming",Thread Safety and Synchronization,http://herbsutter.com/2014/01/13/gotw-95-solution-thread-safety-and-synchronization/,/u/tedu,3
+0,2014-01-13 15:07:45 -0600,"/t/programming,/t/ruby",Development Hacks to Prevent Mistakes,https://www.pgrs.net/2013/10/04/development-hacks-to-prevent-mistakes/,/u/pgr0ss,5
+0,2014-01-13 07:19:34 -0600,"/t/c,/t/compsci,/t/hardware",Lightweight String Indexing for Embedded Systems,http://spin.atomicobject.com/2014/01/13/lightweight-indexing-for-embedded-systems/,/u/silentbicycle,11
+1,2014-01-13 18:30:19 -0600,"/t/pdf,/t/security",A Secure Text Messaging Protocol,http://eprint.iacr.org/2014/036.pdf,/u/kyle,1
+0,2014-01-12 23:05:46 -0600,"/t/show,/t/distributed,/t/erlang",Erlang implementation of Raft consensus protocol,https://github.com/andrewjstone/rafter,/u/petrohi,19
+0,2014-01-13 16:58:50 -0600,/t/erlang,3 part series on testing with quickcheck,http://erlcode.wordpress.com/tag/quickcheck/,/u/SeanTAllen,2
+0,2014-01-13 09:12:18 -0600,/t/ruby,Ruby syntax tricks,http://walpurgisriot.github.io/blog/2013/12/18/ruby-syntax-trivia.html,/u/dl,5
+1,2014-01-13 06:25:07 -0600,"/t/javascript,/t/mobile,/t/web",A Slight Obsession Over Page Speed,http://flippinawesome.org/2014/01/13/a-slight-obsession-over-page-speed/,/u/remotesynth,4
+0,2014-01-13 23:16:16 -0600,"/t/hardware,/t/linux",Ubuntu and Aging Nvidia Graphics Cards: Compositing in 5 Steps,http://www.longren.org/ubuntu-and-aging-nvidia-graphics-cards-compositing-in-5-steps/,/u/tlongren,0
+0,2014-01-13 09:56:33 -0600,"/t/person,/t/python,/t/web",Adrian Holovaty and Jacob Kaplan-Moss retiring as Django BDFLs,http://www.holovaty.com/writing/bdfls-retiring/,/u/djm,3
+6,2014-01-12 13:00:14 -0600,/t/programming,Parallelism And Concurrency Need Different Tools,http://www.yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html,/u/wting,17
+1,2014-01-13 00:04:50 -0600,/t/distributed,Distributed Consensus: Beating Impossibility with Probability One,http://brooker.co.za/blog/2014/01/12/ben-or.html,/u/vjoel,6
+2,2014-01-13 10:32:36 -0600,/t/meta,Bookmarking Integration,/s/hpsyuv/bookmarking_integration,/u/doki_pen,3
+0,2014-01-12 15:04:17 -0600,/t/lisp,"Random Terrain Generation, A Clojure Walkthrough",http://blog.mediocregopher.com/clojure-diamond-square.html,/u/drturtle,14
+1,2014-01-13 00:32:56 -0600,"/t/compsci,/t/programming",Regular Expression Matching Can Be Simple And Fast (2007),http://swtch.com/~rsc/regexp/regexp1.html,/u/guillaume,3
+0,2014-01-13 04:41:03 -0600,/t/event,CreateSki - Anyone interested in an industry ski trip?,http://tech.yunojuno.com/createski,/u/stevejalim,2

@@ -1,25 +1,25 @@
-6,2016-11-06 01:34:22 -0600,"['/t/linux', '/t/practices']",Docker in Production: A Retort,http://patrobinson.github.io/2016/11/05/docker-in-production/,/u/miles,8
-0,2016-11-06 14:47:54 -0600,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/networking', '/t/programming']",Recent results on fault-tolerant consensus in message-passing networks (2016),http://sirocco2016.hiit.fi/preproceedings/Recent_Results_on_Fault-Tolerance_Consensus_in_Message-Passing_Networks.pdf,/u/nickpsecurity,3
-0,2016-11-06 21:11:14 -0600,['/t/python'],A command-line utility for querying Python ASTs using XPath syntax,https://github.com/hchasestevens/astpath,/u/sanxiyn,1
-0,2016-11-06 13:31:06 -0600,['/t/science'],Depths of imagination,http://www.economist.com/news/science-and-technology/21709527-pumped-storage-gets-makeover-depths-imagination,/u/rbn,3
-13,2016-11-05 15:47:37 -0500,"['/t/linux', '/t/practices']",Docker is Actively Harmful to Engineering Organizations,https://www.facebook.com/notes/roy-williams/docker-is-actively-harmful-to-engineering-organizations/10154683962492203/,/u/sevan,19
-4,2016-11-05 17:34:14 -0500,"['/t/design', '/t/mobile', '/t/release', '/t/ruby', '/t/web']","Thredded: Minimalistic, open-source, and blazing fast forums",https://Thredded.org,/u/glebm,13
-1,2016-11-06 15:06:40 -0600,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/java', '/t/networking', '/t/programming']",UpRight Cluster Services (2009),https://www.cs.utexas.edu/users/manos/ClementSOSP09.pdf,/u/nickpsecurity,2
-3,2016-11-06 02:39:19 -0600,['/t/practices'],The End of the General Purpose Operating System,http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/,/u/sevan,5
-2,2016-11-05 21:36:13 -0500,"['/t/pdf', '/t/compsci']","Jeff Erickson's Algorithms, Etc.",http://jeffe.cs.illinois.edu/teaching/algorithms/,/u/calvin,12
-0,2016-11-06 06:07:36 -0600,"['/t/video', '/t/compsci']","Tensorflow and Deep Learning, Without a PhD, Martin Gorner, Google",https://www.youtube.com/watch?v=sEciSlAClL8,/u/av,4
-0,2016-11-06 01:31:19 -0600,"['/t/pdf', '/t/math']",HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving,http://openreview.net/forum?id=ryuxYmvel,/u/sanxiyn,7
-0,2016-11-06 08:13:28 -0600,['/t/python'],"Cheatsheet for funcy sequences, collections and functional stuff",http://funcy.readthedocs.io/en/latest/overview.html,/u/Suor,1
-0,2016-11-05 14:29:28 -0500,"['/t/c', '/t/openbsd', '/t/web']",JSON//BCHS: writing JSON web applications with BCHS,https://learnbchs.org/json.html,/u/kristapsdz,11
-8,2016-11-05 15:20:13 -0500,"['/t/privacy', '/t/python']",Why use a private searx instance?,https://asciimoo.github.io/searx/user/own-instance.html,/u/kvch,9
-1,2016-11-05 15:06:45 -0500,"['/t/compilers', '/t/cryptocurrencies', '/t/distributed']","Ethereum, The Blockchain of Code",http://www.alexkyte.me/2016/11/ethereum-or-blockchain-of-code.html,/u/akyte,7
-0,2016-11-05 11:09:58 -0500,['/t/programming'],Regex that only matches itself,http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself/31863,/u/pushcx,25
-0,2016-11-05 16:56:39 -0500,"['/t/video', '/t/compsci', '/t/practices']",Ted Nelson -- Computers for Cynics,https://www.youtube.com/watch?v=hZ3gmh-d9oI,/u/sevan,6
-0,2016-11-05 22:14:56 -0500,"['/t/pdf', '/t/math', '/t/practices']",A Differentiable Physics Engine for Deep Learning in Robotics,http://openreview.net/forum?id=SyEiHNKxx,/u/friendlysock,3
-0,2016-11-05 19:32:01 -0500,"['/t/linux', '/t/security']",Lynis - Security auditing and hardening tool for Linux/Unix,https://cisofy.com/,/u/meskarune,4
-0,2016-11-05 18:51:07 -0500,['/t/emacs'],Introspecting Glue Code,http://www.wilfred.me.uk/blog/2016/11/05/introspecting-glue-code/,/u/Wilfred,2
-16,2016-11-04 21:36:00 -0500,"['/t/finance', '/t/hardware', '/t/practices']",They used to last 50 years (Appliance Reliability),http://recraigslist.com/2015/10/they-used-to-last-50-years/,/u/nickpsecurity,19
-15,2016-11-04 10:31:18 -0500,"['/t/linux', '/t/practices']",Docker in Production: An History of Failure,https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/,/u/sevan,55
-1,2016-11-05 00:10:04 -0500,['/t/systemd'],Systemd and the Crashing Tweet,https://tim.siosm.fr/blog/2016/10/02/tweet-systemd,/u/cmhamill,11
-0,2016-11-05 19:37:18 -0500,"['/t/audio', '/t/practices']",SE-Radio Episode 273: Steve McConnell on Software Estimation,http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/,/u/joshuacc,1
-6,2016-11-04 12:26:37 -0500,['/t/hardware'],"VoCore2 Lite, a $4, coin-sized, open-source Linux computer",http://www.zdnet.com/article/move-over-raspberry-pi-here-is-a-4-coin-sized-open-source-linux-computer/,/u/av,17
+6,2016-11-06 01:34:22 -0600,"/t/linux,/t/practices",Docker in Production: A Retort,http://patrobinson.github.io/2016/11/05/docker-in-production/,/u/miles,8
+0,2016-11-06 14:47:54 -0600,"/t/pdf,/t/compsci,/t/distributed,/t/networking,/t/programming",Recent results on fault-tolerant consensus in message-passing networks (2016),http://sirocco2016.hiit.fi/preproceedings/Recent_Results_on_Fault-Tolerance_Consensus_in_Message-Passing_Networks.pdf,/u/nickpsecurity,3
+0,2016-11-06 21:11:14 -0600,/t/python,A command-line utility for querying Python ASTs using XPath syntax,https://github.com/hchasestevens/astpath,/u/sanxiyn,1
+0,2016-11-06 13:31:06 -0600,/t/science,Depths of imagination,http://www.economist.com/news/science-and-technology/21709527-pumped-storage-gets-makeover-depths-imagination,/u/rbn,3
+13,2016-11-05 15:47:37 -0500,"/t/linux,/t/practices",Docker is Actively Harmful to Engineering Organizations,https://www.facebook.com/notes/roy-williams/docker-is-actively-harmful-to-engineering-organizations/10154683962492203/,/u/sevan,19
+4,2016-11-05 17:34:14 -0500,"/t/design,/t/mobile,/t/release,/t/ruby,/t/web","Thredded: Minimalistic, open-source, and blazing fast forums",https://Thredded.org,/u/glebm,13
+1,2016-11-06 15:06:40 -0600,"/t/pdf,/t/compsci,/t/distributed,/t/java,/t/networking,/t/programming",UpRight Cluster Services (2009),https://www.cs.utexas.edu/users/manos/ClementSOSP09.pdf,/u/nickpsecurity,2
+3,2016-11-06 02:39:19 -0600,/t/practices,The End of the General Purpose Operating System,http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/,/u/sevan,5
+2,2016-11-05 21:36:13 -0500,"/t/pdf,/t/compsci","Jeff Erickson's Algorithms, Etc.",http://jeffe.cs.illinois.edu/teaching/algorithms/,/u/calvin,12
+0,2016-11-06 06:07:36 -0600,"/t/video,/t/compsci","Tensorflow and Deep Learning, Without a PhD, Martin Gorner, Google",https://www.youtube.com/watch?v=sEciSlAClL8,/u/av,4
+0,2016-11-06 01:31:19 -0600,"/t/pdf,/t/math",HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving,http://openreview.net/forum?id=ryuxYmvel,/u/sanxiyn,7
+0,2016-11-06 08:13:28 -0600,/t/python,"Cheatsheet for funcy sequences, collections and functional stuff",http://funcy.readthedocs.io/en/latest/overview.html,/u/Suor,1
+0,2016-11-05 14:29:28 -0500,"/t/c,/t/openbsd,/t/web",JSON//BCHS: writing JSON web applications with BCHS,https://learnbchs.org/json.html,/u/kristapsdz,11
+8,2016-11-05 15:20:13 -0500,"/t/privacy,/t/python",Why use a private searx instance?,https://asciimoo.github.io/searx/user/own-instance.html,/u/kvch,9
+1,2016-11-05 15:06:45 -0500,"/t/compilers,/t/cryptocurrencies,/t/distributed","Ethereum, The Blockchain of Code",http://www.alexkyte.me/2016/11/ethereum-or-blockchain-of-code.html,/u/akyte,7
+0,2016-11-05 11:09:58 -0500,/t/programming,Regex that only matches itself,http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself/31863,/u/pushcx,25
+0,2016-11-05 16:56:39 -0500,"/t/video,/t/compsci,/t/practices",Ted Nelson -- Computers for Cynics,https://www.youtube.com/watch?v=hZ3gmh-d9oI,/u/sevan,6
+0,2016-11-05 22:14:56 -0500,"/t/pdf,/t/math,/t/practices",A Differentiable Physics Engine for Deep Learning in Robotics,http://openreview.net/forum?id=SyEiHNKxx,/u/friendlysock,3
+0,2016-11-05 19:32:01 -0500,"/t/linux,/t/security",Lynis - Security auditing and hardening tool for Linux/Unix,https://cisofy.com/,/u/meskarune,4
+0,2016-11-05 18:51:07 -0500,/t/emacs,Introspecting Glue Code,http://www.wilfred.me.uk/blog/2016/11/05/introspecting-glue-code/,/u/Wilfred,2
+16,2016-11-04 21:36:00 -0500,"/t/finance,/t/hardware,/t/practices",They used to last 50 years (Appliance Reliability),http://recraigslist.com/2015/10/they-used-to-last-50-years/,/u/nickpsecurity,19
+15,2016-11-04 10:31:18 -0500,"/t/linux,/t/practices",Docker in Production: An History of Failure,https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/,/u/sevan,55
+1,2016-11-05 00:10:04 -0500,/t/systemd,Systemd and the Crashing Tweet,https://tim.siosm.fr/blog/2016/10/02/tweet-systemd,/u/cmhamill,11
+0,2016-11-05 19:37:18 -0500,"/t/audio,/t/practices",SE-Radio Episode 273: Steve McConnell on Software Estimation,http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/,/u/joshuacc,1
+6,2016-11-04 12:26:37 -0500,/t/hardware,"VoCore2 Lite, a $4, coin-sized, open-source Linux computer",http://www.zdnet.com/article/move-over-raspberry-pi-here-is-a-4-coin-sized-open-source-linux-computer/,/u/av,17

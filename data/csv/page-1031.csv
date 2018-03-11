@@ -1,25 +1,25 @@
-0,2015-09-06 12:51:29 -0500,"['/t/compsci', '/t/lisp']",SICP Distilled Now Public,http://www.thattommyhall.com/2015/09/06/sicp-distilled-now-public/,/u/thattommyhall,19
-8,2015-09-06 07:17:17 -0500,['/t/freebsd'],Back out all the things! Oh wait.. - FreeBSD bug story,https://blog.crashed.org/dont-backout/,/u/xcombelle,32
-1,2015-09-07 01:52:50 -0500,"['/t/book', '/t/visualization']",The Sonification Handbook,http://sonification.de/handbook/index.php/chapters/,/u/mjn,6
-19,2015-09-06 13:05:37 -0500,"['/t/haskell', '/t/programming']",Haskell String Types,http://www.alexeyshmalko.com/2015/haskell-string-types/,/u/pushcx,11
-27,2015-09-06 07:09:30 -0500,"['/t/law', '/t/openbsd']",the peculiar libretunnel situation,http://www.tedunangst.com/flak/post/the-peculiar-libretunnel-situation,/u/journeysquid,18
-0,2015-09-06 20:42:30 -0500,"['/t/javascript', '/t/release', '/t/web']",Host a Ghost Blog on Heroku (for free),http://www.autodidacts.io/host-a-ghost-blog-on-heroku/,/u/Curiositry,4
-3,2015-09-06 16:44:13 -0500,"['/t/java', '/t/math', '/t/scala']",MCMC notifications,http://ruivieira.org/blog/post/3,/u/ruivieira,2
-2,2015-09-06 07:09:46 -0500,['/t/mobile'],Forget about the mobile internet,http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet,/u/adsouza,8
-4,2015-09-05 21:47:09 -0500,"['/t/programming', '/t/web']","The Debate Around ""Do We Even Need CSS Anymore?""",https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/,/u/pushcx,18
-0,2015-09-06 18:07:17 -0500,"['/t/practices', '/t/programming']",Slow Patch Review For Mesa Is Driving Away Developers,http://www.phoronix.com/scan.php?page=news_item&px=Mesa-Slow-Patch-Review,/u/journeysquid,1
-6,2015-09-05 19:00:04 -0500,"['/t/pdf', '/t/openbsd']",systembsd: custom dbus daemons emulating systemd behavior on openbsd,http://darknedgy.net/files/systembsd.pdf,/u/qbit,8
-1,2015-09-06 03:24:22 -0500,"['/t/video', '/t/compsci', '/t/java', '/t/visualization']",The Sound of Code,http://www.youtube.com/watch?v=sEI0wBkgf1w,/u/omphalos,4
-2,2015-09-05 07:54:25 -0500,['/t/vim'],How I Write Invoices in Vim,http://jezenthomas.com/how-i-write-invoices-in-vim/,/u/jgt,19
-0,2015-09-06 01:42:17 -0500,"['/t/haskell', '/t/math']",π-Base: The Topology Database,http://topology.jdabbs.com/,/u/silky,5
-0,2015-09-06 12:03:19 -0500,"['/t/design', '/t/web']",MindBEMding – getting your head ’round BEM syntax (CSS naming convention),http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax,/u/joshuacc,1
-0,2015-09-05 14:36:10 -0500,['/t/programming'],"Software: Immaculate, fetid and grimy",http://dtrace.org/blogs/bmc/2015/09/03/software-immaculate-fetid-and-grimy/,/u/apy,17
-0,2015-09-05 10:05:41 -0500,"['/t/show', '/t/book', '/t/programming']",Programming Concepts in the Real World,http://seppo0010.github.io/pcitrw/,/u/seppo0010,15
-3,2015-09-05 13:10:53 -0500,"['/t/show', '/t/python', '/t/release']",Soccer CLI - A command line tool for all soccer scores,https://github.com/architv/soccer-cli,/u/architv,6
-5,2015-09-05 08:09:26 -0500,"['/t/browsers', '/t/security']",Leak of 0-days of Firefox due to Bugzilla account compromise,https://blog.mozilla.org/security/2015/09/04/improving-security-for-bugzilla/,/u/calvin,18
-1,2015-09-05 22:05:58 -0500,"['/t/pdf', '/t/practices', '/t/security']",The Declining Half-Life of Secrets And the Future of Signals Intelligence,https://static.newamerica.org/attachments/4425-the-declining-half-life-of-secrets/Swire_DecliningHalf-LifeOfSecrets.f8ba7c96a6c049108dfa85b5f79024d8.pdf,/u/pushcx,4
-3,2015-09-05 08:44:41 -0500,"['/t/dotnet', '/t/programming']",It Only Multiplies Three Numbers,http://simontylercousins.net/it-only-multiplies-three-numbers/,/u/pushcx,10
-1,2015-09-05 13:50:21 -0500,"['/t/culture', '/t/practices', '/t/programming']",Identity,http://benlakey.com/2015/09/05/identity/,/u/byte1,6
-2,2015-09-05 13:29:53 -0500,"['/t/pdf', '/t/programming', '/t/ruby']",Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity,http://www.bailis.org/papers/feral-sigmod2015.pdf,/u/pushcx,6
-0,2015-09-05 13:55:29 -0500,"['/t/compilers', '/t/haskell', '/t/programming']",Hacking on GHC,https://rawgit.com/gibiansky/4c54f767bf21a6954b23/raw/67c62c5555f40c6fb67b124307725df168201361/exp.html,/u/pushcx,6
-22,2015-09-04 13:25:41 -0500,['/t/programming'],Thoughts on Entitlement and Pricing,http://bitquabit.com/post/thoughts-on-entitlement-and-pricing/,/u/gecko,11
+0,2015-09-06 12:51:29 -0500,"/t/compsci,/t/lisp",SICP Distilled Now Public,http://www.thattommyhall.com/2015/09/06/sicp-distilled-now-public/,/u/thattommyhall,19
+8,2015-09-06 07:17:17 -0500,/t/freebsd,Back out all the things! Oh wait.. - FreeBSD bug story,https://blog.crashed.org/dont-backout/,/u/xcombelle,32
+1,2015-09-07 01:52:50 -0500,"/t/book,/t/visualization",The Sonification Handbook,http://sonification.de/handbook/index.php/chapters/,/u/mjn,6
+19,2015-09-06 13:05:37 -0500,"/t/haskell,/t/programming",Haskell String Types,http://www.alexeyshmalko.com/2015/haskell-string-types/,/u/pushcx,11
+27,2015-09-06 07:09:30 -0500,"/t/law,/t/openbsd",the peculiar libretunnel situation,http://www.tedunangst.com/flak/post/the-peculiar-libretunnel-situation,/u/journeysquid,18
+0,2015-09-06 20:42:30 -0500,"/t/javascript,/t/release,/t/web",Host a Ghost Blog on Heroku (for free),http://www.autodidacts.io/host-a-ghost-blog-on-heroku/,/u/Curiositry,4
+3,2015-09-06 16:44:13 -0500,"/t/java,/t/math,/t/scala",MCMC notifications,http://ruivieira.org/blog/post/3,/u/ruivieira,2
+2,2015-09-06 07:09:46 -0500,/t/mobile,Forget about the mobile internet,http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet,/u/adsouza,8
+4,2015-09-05 21:47:09 -0500,"/t/programming,/t/web","The Debate Around ""Do We Even Need CSS Anymore?""",https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/,/u/pushcx,18
+0,2015-09-06 18:07:17 -0500,"/t/practices,/t/programming",Slow Patch Review For Mesa Is Driving Away Developers,http://www.phoronix.com/scan.php?page=news_item&px=Mesa-Slow-Patch-Review,/u/journeysquid,1
+6,2015-09-05 19:00:04 -0500,"/t/pdf,/t/openbsd",systembsd: custom dbus daemons emulating systemd behavior on openbsd,http://darknedgy.net/files/systembsd.pdf,/u/qbit,8
+1,2015-09-06 03:24:22 -0500,"/t/video,/t/compsci,/t/java,/t/visualization",The Sound of Code,http://www.youtube.com/watch?v=sEI0wBkgf1w,/u/omphalos,4
+2,2015-09-05 07:54:25 -0500,/t/vim,How I Write Invoices in Vim,http://jezenthomas.com/how-i-write-invoices-in-vim/,/u/jgt,19
+0,2015-09-06 01:42:17 -0500,"/t/haskell,/t/math",π-Base: The Topology Database,http://topology.jdabbs.com/,/u/silky,5
+0,2015-09-06 12:03:19 -0500,"/t/design,/t/web",MindBEMding – getting your head ’round BEM syntax (CSS naming convention),http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax,/u/joshuacc,1
+0,2015-09-05 14:36:10 -0500,/t/programming,"Software: Immaculate, fetid and grimy",http://dtrace.org/blogs/bmc/2015/09/03/software-immaculate-fetid-and-grimy/,/u/apy,17
+0,2015-09-05 10:05:41 -0500,"/t/show,/t/book,/t/programming",Programming Concepts in the Real World,http://seppo0010.github.io/pcitrw/,/u/seppo0010,15
+3,2015-09-05 13:10:53 -0500,"/t/show,/t/python,/t/release",Soccer CLI - A command line tool for all soccer scores,https://github.com/architv/soccer-cli,/u/architv,6
+5,2015-09-05 08:09:26 -0500,"/t/browsers,/t/security",Leak of 0-days of Firefox due to Bugzilla account compromise,https://blog.mozilla.org/security/2015/09/04/improving-security-for-bugzilla/,/u/calvin,18
+1,2015-09-05 22:05:58 -0500,"/t/pdf,/t/practices,/t/security",The Declining Half-Life of Secrets And the Future of Signals Intelligence,https://static.newamerica.org/attachments/4425-the-declining-half-life-of-secrets/Swire_DecliningHalf-LifeOfSecrets.f8ba7c96a6c049108dfa85b5f79024d8.pdf,/u/pushcx,4
+3,2015-09-05 08:44:41 -0500,"/t/dotnet,/t/programming",It Only Multiplies Three Numbers,http://simontylercousins.net/it-only-multiplies-three-numbers/,/u/pushcx,10
+1,2015-09-05 13:50:21 -0500,"/t/culture,/t/practices,/t/programming",Identity,http://benlakey.com/2015/09/05/identity/,/u/byte1,6
+2,2015-09-05 13:29:53 -0500,"/t/pdf,/t/programming,/t/ruby",Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity,http://www.bailis.org/papers/feral-sigmod2015.pdf,/u/pushcx,6
+0,2015-09-05 13:55:29 -0500,"/t/compilers,/t/haskell,/t/programming",Hacking on GHC,https://rawgit.com/gibiansky/4c54f767bf21a6954b23/raw/67c62c5555f40c6fb67b124307725df168201361/exp.html,/u/pushcx,6
+22,2015-09-04 13:25:41 -0500,/t/programming,Thoughts on Entitlement and Pricing,http://bitquabit.com/post/thoughts-on-entitlement-and-pricing/,/u/gecko,11

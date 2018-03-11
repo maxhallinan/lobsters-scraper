@@ -1,25 +1,25 @@
-6,2017-09-16 09:18:50 -0500,"['/t/finance', '/t/security']",How Equifax got Hacked,http://spuz.me/blog/zine/3Qu1F4x.html,/u/av,13
-2,2017-09-16 12:06:44 -0500,"['/t/java', '/t/practices']",Code Smells: Null,https://blog.jetbrains.com/idea/2017/08/code-smells-null/,/u/jitterted,8
-0,2017-09-16 08:20:58 -0500,['/t/historical'],"OS/2 2.0, Summer ’91 Edition",http://www.os2museum.com/wp/os2-2-0-summer-91-edition/,/u/djsumdog,20
-6,2017-09-16 09:46:33 -0500,['/t/javascript'],hyperapp - 1 KB JavaScript library for building front end applications,https://github.com//hyperapp/hyperapp,/u/av,8
-0,2017-09-16 19:06:18 -0500,"['/t/netbsd', '/t/vcs']",pkgsrc Commit Message Policy,http://mail-index.netbsd.org/tech-pkg/2017/09/12/msg018738.html,/u/cnst,3
-0,2017-09-16 08:59:37 -0500,['/t/javascript'],Modern JavaScript Tutorial,https://javascript.info,/u/av,10
-0,2017-09-16 13:38:58 -0500,"['/t/distributed', '/t/erlang']",Multi-Paxos with riak_ensemble Part 2,http://marianoguerra.org/posts/multi-paxos-with-riak_ensemble-part-2/,/u/tristan,5
-51,2017-09-15 06:48:04 -0500,"['/t/browsers', '/t/ios', '/t/mac', '/t/privacy']",Every Major Advertising Group Is Blasting Apple for Blocking Cookies in the Safari Browser,http://www.adweek.com/digital/every-major-advertising-group-is-blasting-apple-for-blocking-cookies-in-the-safari-browser/,/u/calvin,63
-8,2017-09-16 02:23:45 -0500,['/t/web'],HTTP Immutable Responses,https://tools.ietf.org/html/rfc8246,/u/av,7
-0,2017-09-16 06:54:15 -0500,"['/t/crypto', '/t/programming']",Random vs. Pseudorandom,https://akalfusblog.com/posts/random-vs-pseudorandom,/u/calvin,6
-5,2017-09-15 22:40:11 -0500,"['/t/book', '/t/practices', '/t/programming']",books chapter twelve,http://www.tedunangst.com/flak/post/books-chapter-twelve,/u/calvin,6
-32,2017-09-15 03:56:19 -0500,['/t/javascript'],Wordpress will replace React due to its patent clause,https://ma.tt/2017/09/on-react-and-wordpress/,/u/comzeradd,50
-4,2017-09-15 09:41:05 -0500,"['/t/devops', '/t/programming', '/t/python', '/t/unix']","Mitogen, an infrastructure code baseline that sucks less",http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that,/u/dw,23
-10,2017-09-15 04:34:53 -0500,"['/t/browsers', '/t/privacy']",Put your multiple online personalities in Firefox Multi-Account Containers,https://blog.mozilla.org/firefox/introducing-firefox-multi-account-containers/,/u/pgl,46
-0,2017-09-16 02:23:19 -0500,"['/t/ai', '/t/math']",All the Linear Algebra You Need for AI,https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb,/u/av,7
-4,2017-09-15 12:57:34 -0500,"['/t/debugging', '/t/networking']","Sysadmin war story: “The network ate my font""",http://verticalsysadmin.com/blog/sysadmin-war-story-the-network-ate-my-font/,/u/pushcx,21
-0,2017-09-16 13:57:30 -0500,"['/t/css', '/t/design', '/t/javascript']",Web Design & Development News: Collective #349,https://tympanus.net/codrops/collective/collective-349/,/u/SamuelPB,1
-0,2017-09-15 20:58:10 -0500,"['/t/performance', '/t/web']","Building the DOM faster: speculative parsing, async, defer and preload",https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/,/u/calvin,9
-1,2017-09-16 04:12:22 -0500,['/t/culture'],The Realities of Being a FOSS Maintainer,https://forum.caddyserver.com/t/the-realities-of-being-a-foss-maintainer/2728,/u/av,10
-3,2017-09-15 09:10:07 -0500,"['/t/java', '/t/programming']",Early exit,https://medium.com/ncr-edinburgh/early-exit-c86d5f0698ba,/u/0hjc,7
-0,2017-09-16 02:22:36 -0500,"['/t/ai', '/t/python']","AllenNLP – An open-source NLP research library, built on PyTorch",http://allennlp.org/,/u/av,3
-0,2017-09-15 08:11:24 -0500,"['/t/programming', '/t/python', '/t/security']",Pytosquatting,https://www.pytosquatting.org/,/u/hanno,13
-3,2017-09-15 06:22:31 -0500,"['/t/python', '/t/security']","Malicious software libraries in PyPI, posing as well-known libraries",http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/,/u/pushcx,26
-9,2017-09-15 06:10:37 -0500,['/t/design'],LinkedIn Dark Patterns (2015),https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462,/u/calvin,14
-0,2017-09-15 10:00:06 -0500,"['/t/lisp', '/t/programming']",Mapping the Monado,https://blog.jfo.click/mapping-the-monado/,/u/jfo,9
+6,2017-09-16 09:18:50 -0500,"/t/finance,/t/security",How Equifax got Hacked,http://spuz.me/blog/zine/3Qu1F4x.html,/u/av,13
+2,2017-09-16 12:06:44 -0500,"/t/java,/t/practices",Code Smells: Null,https://blog.jetbrains.com/idea/2017/08/code-smells-null/,/u/jitterted,8
+0,2017-09-16 08:20:58 -0500,/t/historical,"OS/2 2.0, Summer ’91 Edition",http://www.os2museum.com/wp/os2-2-0-summer-91-edition/,/u/djsumdog,20
+6,2017-09-16 09:46:33 -0500,/t/javascript,hyperapp - 1 KB JavaScript library for building front end applications,https://github.com//hyperapp/hyperapp,/u/av,8
+0,2017-09-16 19:06:18 -0500,"/t/netbsd,/t/vcs",pkgsrc Commit Message Policy,http://mail-index.netbsd.org/tech-pkg/2017/09/12/msg018738.html,/u/cnst,3
+0,2017-09-16 08:59:37 -0500,/t/javascript,Modern JavaScript Tutorial,https://javascript.info,/u/av,10
+0,2017-09-16 13:38:58 -0500,"/t/distributed,/t/erlang",Multi-Paxos with riak_ensemble Part 2,http://marianoguerra.org/posts/multi-paxos-with-riak_ensemble-part-2/,/u/tristan,5
+51,2017-09-15 06:48:04 -0500,"/t/browsers,/t/ios,/t/mac,/t/privacy",Every Major Advertising Group Is Blasting Apple for Blocking Cookies in the Safari Browser,http://www.adweek.com/digital/every-major-advertising-group-is-blasting-apple-for-blocking-cookies-in-the-safari-browser/,/u/calvin,63
+8,2017-09-16 02:23:45 -0500,/t/web,HTTP Immutable Responses,https://tools.ietf.org/html/rfc8246,/u/av,7
+0,2017-09-16 06:54:15 -0500,"/t/crypto,/t/programming",Random vs. Pseudorandom,https://akalfusblog.com/posts/random-vs-pseudorandom,/u/calvin,6
+5,2017-09-15 22:40:11 -0500,"/t/book,/t/practices,/t/programming",books chapter twelve,http://www.tedunangst.com/flak/post/books-chapter-twelve,/u/calvin,6
+32,2017-09-15 03:56:19 -0500,/t/javascript,Wordpress will replace React due to its patent clause,https://ma.tt/2017/09/on-react-and-wordpress/,/u/comzeradd,50
+4,2017-09-15 09:41:05 -0500,"/t/devops,/t/programming,/t/python,/t/unix","Mitogen, an infrastructure code baseline that sucks less",http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that,/u/dw,23
+10,2017-09-15 04:34:53 -0500,"/t/browsers,/t/privacy",Put your multiple online personalities in Firefox Multi-Account Containers,https://blog.mozilla.org/firefox/introducing-firefox-multi-account-containers/,/u/pgl,46
+0,2017-09-16 02:23:19 -0500,"/t/ai,/t/math",All the Linear Algebra You Need for AI,https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb,/u/av,7
+4,2017-09-15 12:57:34 -0500,"/t/debugging,/t/networking","Sysadmin war story: “The network ate my font""",http://verticalsysadmin.com/blog/sysadmin-war-story-the-network-ate-my-font/,/u/pushcx,21
+0,2017-09-16 13:57:30 -0500,"/t/css,/t/design,/t/javascript",Web Design & Development News: Collective #349,https://tympanus.net/codrops/collective/collective-349/,/u/SamuelPB,1
+0,2017-09-15 20:58:10 -0500,"/t/performance,/t/web","Building the DOM faster: speculative parsing, async, defer and preload",https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/,/u/calvin,9
+1,2017-09-16 04:12:22 -0500,/t/culture,The Realities of Being a FOSS Maintainer,https://forum.caddyserver.com/t/the-realities-of-being-a-foss-maintainer/2728,/u/av,10
+3,2017-09-15 09:10:07 -0500,"/t/java,/t/programming",Early exit,https://medium.com/ncr-edinburgh/early-exit-c86d5f0698ba,/u/0hjc,7
+0,2017-09-16 02:22:36 -0500,"/t/ai,/t/python","AllenNLP – An open-source NLP research library, built on PyTorch",http://allennlp.org/,/u/av,3
+0,2017-09-15 08:11:24 -0500,"/t/programming,/t/python,/t/security",Pytosquatting,https://www.pytosquatting.org/,/u/hanno,13
+3,2017-09-15 06:22:31 -0500,"/t/python,/t/security","Malicious software libraries in PyPI, posing as well-known libraries",http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/,/u/pushcx,26
+9,2017-09-15 06:10:37 -0500,/t/design,LinkedIn Dark Patterns (2015),https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462,/u/calvin,14
+0,2017-09-15 10:00:06 -0500,"/t/lisp,/t/programming",Mapping the Monado,https://blog.jfo.click/mapping-the-monado/,/u/jfo,9

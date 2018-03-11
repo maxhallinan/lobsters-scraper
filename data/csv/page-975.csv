@@ -1,25 +1,25 @@
-0,2015-11-11 13:33:07 -0600,['/t/rant'],"Permissive licenses, community, and copyleft [LWN.net]",https://lwn.net/Articles/660428/,/u/kyrias,1
-5,2015-11-10 03:35:26 -0600,['/t/unix'],Lazy ssh-add,http://uggedal.com/journal/lazy-ssh-add/,/u/uggedal,13
-0,2015-11-10 14:25:26 -0600,['/t/hardware'],DIY 250 lb Giant Mobile Railgun,http://imgur.com/gallery/GrAiE,/u/pushcx,11
-0,2015-11-10 11:05:12 -0600,"['/t/programming', '/t/release', '/t/science']",Julia developers receive funding to develop a stable Julia 1.0,https://www.moore.org/newsroom/in-the-news/2015/11/10/bringing-julia-from-beta-to-1.0-to-support-data-intensive-scientific-computing,/u/ngoldbaum,15
-3,2015-11-10 16:34:38 -0600,"['/t/video', '/t/practices', '/t/programming']",Isn't That Code Dead? [AKA the tombstones talk] | David Schnepper @ Velocity Ignite 2014 [5 min],https://www.youtube.com/watch?v=29UXzfQWOhQ,/u/ap,6
-0,2015-11-10 19:57:37 -0600,['/t/mobile'],Mobile Video Ad Lies CONTINUE,https://medium.com/@robleathern/mobile-video-ad-lies-continue-b6b682ecb95e,/u/antifuchs,5
-0,2015-11-10 03:48:06 -0600,"['/t/pdf', '/t/openbsd', '/t/security']",W^X improvements in OpenBSD kernel,http://www.openbsd.org/papers/hackfest2015-w-xor-x.pdf,/u/sin,25
-7,2015-11-10 04:19:28 -0600,['/t/haskell'],The Theory of patches-vector,http://liamoc.net/posts/2015-11-10-patch-theory.html,/u/puffnfresh,10
-0,2015-11-10 19:02:23 -0600,['/t/compsci'],"Vapnik, Intelligent Learning: Similarity Control and Knowledge Transfer",https://yandexdataschool.com/conference/2015/program/vapnik,/u/tf,3
-0,2015-11-10 13:46:49 -0600,"['/t/browsers', '/t/design', '/t/javascript', '/t/web']",Making a Simple Site Work Offline with ServiceWorker,https://css-tricks.com/serviceworker-for-offline/,/u/flyingfisch,5
-0,2015-11-10 13:05:18 -0600,['/t/hardware'],Backblaze Storage Pod 5.0,https://www.backblaze.com/blog/cloud-storage-hardware/,/u/trousers,5
-2,2015-11-10 13:48:32 -0600,"['/t/security', '/t/web']",Announcing Universal DNSSEC: Secure DNS for Every Domain,https://blog.cloudflare.com/introducing-universal-dnssec/,/u/halosghost,2
-1,2015-11-10 13:35:54 -0600,"['/t/ask', '/t/practices', '/t/programming']",What are good papers about conceptual clarity in code?,/s/rhialp/what_are_good_papers_about_conceptual,/u/asthasr,2
-0,2015-11-10 11:33:21 -0600,"['/t/ruby', '/t/web']",A Big Ball of Mud | Laurel & Wolf Engineering Blog,http://engineering.laurelandwolf.com/a-big-ball-of-mud/,/u/kulte,2
-0,2015-11-10 09:05:58 -0600,['/t/compsci'],Origin of the SCCS delta format,http://minnie.tuhs.org/pipermail/tuhs/2015-November/004430.html,/u/kyrias,5
-4,2015-11-09 16:00:45 -0600,['/t/security'],Why ninety-day lifetimes for certificates?,https://letsencrypt.org//2015/11/09/why-90-days.html,/u/gadams,17
-7,2015-11-09 13:36:49 -0600,"['/t/linux', '/t/security']",Why improving linux kernel security is important,https://mjg59.dreamwidth.org/38158.html,/u/worr,22
-0,2015-11-10 07:41:01 -0600,['/t/security'],Message Regarding the ProtonMail DDoS Attacks,https://protonmail.com/blog/protonmail-ddos-attacks/,/u/mulander,4
-11,2015-11-09 04:02:51 -0600,"['/t/slides', '/t/openbsd', '/t/programming', '/t/security']",pledge - a new mitigation mechanism,http://www.openbsd.org/papers/hackfest2015-pledge/index.html,/u/sin,44
-0,2015-11-10 10:40:35 -0600,['/t/dotnet'],Async from the Start,https://msdn.microsoft.com/en-us/magazine/mt620013.aspx,/u/jm,2
-0,2015-11-09 16:57:42 -0600,"['/t/linux', '/t/security']",When Posturing Meets Reality,https://forums.grsecurity.net/viewtopic.php?f=7&t=4309,/u/algernon,14
-0,2015-11-09 08:22:15 -0600,['/t/compsci'],TensorFlow: Open source machine learning from Google,http://tensorflow.org,/u/pyk,26
-3,2015-11-09 10:25:44 -0600,"['/t/math', '/t/philosophy']",E.W. Dijkstra Archive: Why numbering should start at zero,https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html,/u/av,16
-0,2015-11-09 20:00:17 -0600,['/t/python'],Counting Things in Python: A History,http://treyhunner.com/2015/11/counting-things-in-python/,/u/chadski,6
-7,2015-11-09 08:08:02 -0600,"['/t/security', '/t/unix']",Understanding sudoers(5) syntax: a simple explanation (with no EBNF),http://toroid.org/sudoers-syntax,/u/ams,6
+0,2015-11-11 13:33:07 -0600,/t/rant,"Permissive licenses, community, and copyleft [LWN.net]",https://lwn.net/Articles/660428/,/u/kyrias,1
+5,2015-11-10 03:35:26 -0600,/t/unix,Lazy ssh-add,http://uggedal.com/journal/lazy-ssh-add/,/u/uggedal,13
+0,2015-11-10 14:25:26 -0600,/t/hardware,DIY 250 lb Giant Mobile Railgun,http://imgur.com/gallery/GrAiE,/u/pushcx,11
+0,2015-11-10 11:05:12 -0600,"/t/programming,/t/release,/t/science",Julia developers receive funding to develop a stable Julia 1.0,https://www.moore.org/newsroom/in-the-news/2015/11/10/bringing-julia-from-beta-to-1.0-to-support-data-intensive-scientific-computing,/u/ngoldbaum,15
+3,2015-11-10 16:34:38 -0600,"/t/video,/t/practices,/t/programming",Isn't That Code Dead? [AKA the tombstones talk] | David Schnepper @ Velocity Ignite 2014 [5 min],https://www.youtube.com/watch?v=29UXzfQWOhQ,/u/ap,6
+0,2015-11-10 19:57:37 -0600,/t/mobile,Mobile Video Ad Lies CONTINUE,https://medium.com/@robleathern/mobile-video-ad-lies-continue-b6b682ecb95e,/u/antifuchs,5
+0,2015-11-10 03:48:06 -0600,"/t/pdf,/t/openbsd,/t/security",W^X improvements in OpenBSD kernel,http://www.openbsd.org/papers/hackfest2015-w-xor-x.pdf,/u/sin,25
+7,2015-11-10 04:19:28 -0600,/t/haskell,The Theory of patches-vector,http://liamoc.net/posts/2015-11-10-patch-theory.html,/u/puffnfresh,10
+0,2015-11-10 19:02:23 -0600,/t/compsci,"Vapnik, Intelligent Learning: Similarity Control and Knowledge Transfer",https://yandexdataschool.com/conference/2015/program/vapnik,/u/tf,3
+0,2015-11-10 13:46:49 -0600,"/t/browsers,/t/design,/t/javascript,/t/web",Making a Simple Site Work Offline with ServiceWorker,https://css-tricks.com/serviceworker-for-offline/,/u/flyingfisch,5
+0,2015-11-10 13:05:18 -0600,/t/hardware,Backblaze Storage Pod 5.0,https://www.backblaze.com/blog/cloud-storage-hardware/,/u/trousers,5
+2,2015-11-10 13:48:32 -0600,"/t/security,/t/web",Announcing Universal DNSSEC: Secure DNS for Every Domain,https://blog.cloudflare.com/introducing-universal-dnssec/,/u/halosghost,2
+1,2015-11-10 13:35:54 -0600,"/t/ask,/t/practices,/t/programming",What are good papers about conceptual clarity in code?,/s/rhialp/what_are_good_papers_about_conceptual,/u/asthasr,2
+0,2015-11-10 11:33:21 -0600,"/t/ruby,/t/web",A Big Ball of Mud | Laurel & Wolf Engineering Blog,http://engineering.laurelandwolf.com/a-big-ball-of-mud/,/u/kulte,2
+0,2015-11-10 09:05:58 -0600,/t/compsci,Origin of the SCCS delta format,http://minnie.tuhs.org/pipermail/tuhs/2015-November/004430.html,/u/kyrias,5
+4,2015-11-09 16:00:45 -0600,/t/security,Why ninety-day lifetimes for certificates?,https://letsencrypt.org//2015/11/09/why-90-days.html,/u/gadams,17
+7,2015-11-09 13:36:49 -0600,"/t/linux,/t/security",Why improving linux kernel security is important,https://mjg59.dreamwidth.org/38158.html,/u/worr,22
+0,2015-11-10 07:41:01 -0600,/t/security,Message Regarding the ProtonMail DDoS Attacks,https://protonmail.com/blog/protonmail-ddos-attacks/,/u/mulander,4
+11,2015-11-09 04:02:51 -0600,"/t/slides,/t/openbsd,/t/programming,/t/security",pledge - a new mitigation mechanism,http://www.openbsd.org/papers/hackfest2015-pledge/index.html,/u/sin,44
+0,2015-11-10 10:40:35 -0600,/t/dotnet,Async from the Start,https://msdn.microsoft.com/en-us/magazine/mt620013.aspx,/u/jm,2
+0,2015-11-09 16:57:42 -0600,"/t/linux,/t/security",When Posturing Meets Reality,https://forums.grsecurity.net/viewtopic.php?f=7&t=4309,/u/algernon,14
+0,2015-11-09 08:22:15 -0600,/t/compsci,TensorFlow: Open source machine learning from Google,http://tensorflow.org,/u/pyk,26
+3,2015-11-09 10:25:44 -0600,"/t/math,/t/philosophy",E.W. Dijkstra Archive: Why numbering should start at zero,https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html,/u/av,16
+0,2015-11-09 20:00:17 -0600,/t/python,Counting Things in Python: A History,http://treyhunner.com/2015/11/counting-things-in-python/,/u/chadski,6
+7,2015-11-09 08:08:02 -0600,"/t/security,/t/unix",Understanding sudoers(5) syntax: a simple explanation (with no EBNF),http://toroid.org/sudoers-syntax,/u/ams,6

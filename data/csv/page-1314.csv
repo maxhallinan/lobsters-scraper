@@ -1,25 +1,25 @@
-1,2014-06-10 06:58:03 -0500,['/t/scala'],The Neophyte's Guide to Scala Part 1: Extractors,http://danielwestheide.com/blog/2012/11/21/the-neophytes-guide-to-scala-part-1-extractors.html,/u/SeanTAllen,3
-0,2014-06-09 21:44:28 -0500,"['/t/elm', '/t/programming']",FP virgin learns Elm,http://scottkensell.com/fp-virgin-learns-elm.html,/u/BruceM,14
-0,2014-06-09 22:27:15 -0500,"['/t/compsci', '/t/programming']",2014 European LLVM Conference Videos and Slides now available,http://llvm.org/devmtg/2014-04/,/u/Axman6,11
-0,2014-06-10 14:57:59 -0500,['/t/databases'],Apache CouchDB 1.6.0 Released,https://blogs.apache.org/couchdb/entry/apache_couchdb_1_6_0,/u/nslater,1
-0,2014-06-10 14:42:39 -0500,['/t/programming'],Basic Comparison of C# and Apple Swift Programming Language Syntax,http://pietschsoft.com/post/2014/06/07/Basic-Comparison-of-C-and-Apple-Swift-Programming-Language-Syntax,/u/lm,1
-0,2014-06-10 10:44:20 -0500,"['/t/book', '/t/compsci', '/t/math']","HYPERSEEING - The International Society of the Arts, Mathematics, and Architecture (ISAMA)",http://www.isama.org/hyperseeing/,/u/animatronic,2
-1,2014-06-09 08:08:04 -0500,"['/t/go', '/t/javascript', '/t/web']",The emperor’s new clothes were built with Node.js,http://notes.ericjiang.com/posts/751,/u/ngrilly,43
-0,2014-06-09 11:59:10 -0500,['/t/devops'],It’s Here: Docker 1.0,http://blog.docker.com/2014/06/its-here-docker-1-0/,/u/cardmagic,28
-35,2014-06-09 16:44:02 -0500,['/t/ask'],What are you working on this week?,/s/lzafjh/what_are_you_working_on_this_week,/u/howdoipython,24
-0,2014-06-10 10:50:48 -0500,"['/t/linux', '/t/release']",Red Hat Enterprise Linux 7.0 Is Here,http://techcrunch.com/2014/06/10/red-hat-enterprise-linux-7-0-is-here-guarantees-10-years-of-compatiblity,/u/csantosb,1
-1,2014-06-09 15:36:39 -0500,"['/t/book', '/t/compsci']",Open Data Structures : open source book,http://opendatastructures.org/,/u/animatronic,12
-1,2014-06-09 13:21:30 -0500,['/t/devops'],Purely Functional Configuration Management with Nix and NixOS,http://www.infoq.com/articles/configuration-management-with-nix,/u/ancatrusca,14
-0,2014-06-09 13:39:05 -0500,"['/t/freebsd', '/t/security']",Position-Independent Executable Support Added to FreeBSD,https://www.soldierx.com/news/Position-Independent-Executable-Support-Added-FreeBSD,/u/lattera,14
-3,2014-06-09 19:29:45 -0500,['/t/compsci'],Eugene Goostman versus Siri,http://www.lauradhamilton.com/eugene-goostman-versus-siri,/u/laura,3
-0,2014-06-10 06:28:57 -0500,['/t/programming'],Why Developers Should Help With User Interface Tests,http://developer.telerik.com/products/developers-help-user-interface-tests/,/u/remotesynth,1
-1,2014-06-09 12:26:18 -0500,['/t/haskell'],Haskell pair programming server,https://github.com/begriffs/haskell-pair,/u/puffnfresh,7
-0,2014-06-09 14:02:07 -0500,"['/t/programming', '/t/python']",Drawing Presentable Trees,http://billmill.org/pymag-trees/,/u/apg,5
-0,2014-06-09 23:43:42 -0500,['/t/networking'],Out in the Open: This Super-Cheap Cellphone Network Brings Coverage Almost Anywhere,http://www.wired.com/2014/06/openbts/,/u/animatronic,1
-0,2014-06-09 14:21:16 -0500,['/t/compsci'],Median Filtering is Equivalent to Sorting,http://arxiv.org/abs/1406.1717,/u/animatronic,4
-0,2014-06-09 15:47:26 -0500,['/t/culture'],Rubber Ducking Mental Health,https://blog.engineyard.com/2014/rubber-ducking-mental-health,/u/dshafik,6
-4,2014-06-09 02:28:00 -0500,"['/t/book', '/t/python']",Explore Flask is now free,http://exploreflask.com/,/u/daGrevis,9
-2,2014-06-09 07:10:56 -0500,"['/t/javascript', '/t/programming']",Chrome Killed the Terminal Star,http://flippinawesome.org/2014/06/09/chrome-killed-the-terminal-star/,/u/remotesynth,3
-0,2014-06-09 16:21:46 -0500,['/t/math'],statistical geometry,http://john-art.com/stat_geom.html,/u/animatronic,2
-0,2014-06-09 17:00:16 -0500,['/t/devops'],Monitor Docker with Datadog,http://dtdg.co/1pcKcIC,/u/BonacaTalk,1
-0,2014-06-09 09:30:23 -0500,['/t/science'],Colors of chemistry,http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html,/u/acidflask,3
+1,2014-06-10 06:58:03 -0500,/t/scala,The Neophyte's Guide to Scala Part 1: Extractors,http://danielwestheide.com/blog/2012/11/21/the-neophytes-guide-to-scala-part-1-extractors.html,/u/SeanTAllen,3
+0,2014-06-09 21:44:28 -0500,"/t/elm,/t/programming",FP virgin learns Elm,http://scottkensell.com/fp-virgin-learns-elm.html,/u/BruceM,14
+0,2014-06-09 22:27:15 -0500,"/t/compsci,/t/programming",2014 European LLVM Conference Videos and Slides now available,http://llvm.org/devmtg/2014-04/,/u/Axman6,11
+0,2014-06-10 14:57:59 -0500,/t/databases,Apache CouchDB 1.6.0 Released,https://blogs.apache.org/couchdb/entry/apache_couchdb_1_6_0,/u/nslater,1
+0,2014-06-10 14:42:39 -0500,/t/programming,Basic Comparison of C# and Apple Swift Programming Language Syntax,http://pietschsoft.com/post/2014/06/07/Basic-Comparison-of-C-and-Apple-Swift-Programming-Language-Syntax,/u/lm,1
+0,2014-06-10 10:44:20 -0500,"/t/book,/t/compsci,/t/math","HYPERSEEING - The International Society of the Arts, Mathematics, and Architecture (ISAMA)",http://www.isama.org/hyperseeing/,/u/animatronic,2
+1,2014-06-09 08:08:04 -0500,"/t/go,/t/javascript,/t/web",The emperor’s new clothes were built with Node.js,http://notes.ericjiang.com/posts/751,/u/ngrilly,43
+0,2014-06-09 11:59:10 -0500,/t/devops,It’s Here: Docker 1.0,http://blog.docker.com/2014/06/its-here-docker-1-0/,/u/cardmagic,28
+35,2014-06-09 16:44:02 -0500,/t/ask,What are you working on this week?,/s/lzafjh/what_are_you_working_on_this_week,/u/howdoipython,24
+0,2014-06-10 10:50:48 -0500,"/t/linux,/t/release",Red Hat Enterprise Linux 7.0 Is Here,http://techcrunch.com/2014/06/10/red-hat-enterprise-linux-7-0-is-here-guarantees-10-years-of-compatiblity,/u/csantosb,1
+1,2014-06-09 15:36:39 -0500,"/t/book,/t/compsci",Open Data Structures : open source book,http://opendatastructures.org/,/u/animatronic,12
+1,2014-06-09 13:21:30 -0500,/t/devops,Purely Functional Configuration Management with Nix and NixOS,http://www.infoq.com/articles/configuration-management-with-nix,/u/ancatrusca,14
+0,2014-06-09 13:39:05 -0500,"/t/freebsd,/t/security",Position-Independent Executable Support Added to FreeBSD,https://www.soldierx.com/news/Position-Independent-Executable-Support-Added-FreeBSD,/u/lattera,14
+3,2014-06-09 19:29:45 -0500,/t/compsci,Eugene Goostman versus Siri,http://www.lauradhamilton.com/eugene-goostman-versus-siri,/u/laura,3
+0,2014-06-10 06:28:57 -0500,/t/programming,Why Developers Should Help With User Interface Tests,http://developer.telerik.com/products/developers-help-user-interface-tests/,/u/remotesynth,1
+1,2014-06-09 12:26:18 -0500,/t/haskell,Haskell pair programming server,https://github.com/begriffs/haskell-pair,/u/puffnfresh,7
+0,2014-06-09 14:02:07 -0500,"/t/programming,/t/python",Drawing Presentable Trees,http://billmill.org/pymag-trees/,/u/apg,5
+0,2014-06-09 23:43:42 -0500,/t/networking,Out in the Open: This Super-Cheap Cellphone Network Brings Coverage Almost Anywhere,http://www.wired.com/2014/06/openbts/,/u/animatronic,1
+0,2014-06-09 14:21:16 -0500,/t/compsci,Median Filtering is Equivalent to Sorting,http://arxiv.org/abs/1406.1717,/u/animatronic,4
+0,2014-06-09 15:47:26 -0500,/t/culture,Rubber Ducking Mental Health,https://blog.engineyard.com/2014/rubber-ducking-mental-health,/u/dshafik,6
+4,2014-06-09 02:28:00 -0500,"/t/book,/t/python",Explore Flask is now free,http://exploreflask.com/,/u/daGrevis,9
+2,2014-06-09 07:10:56 -0500,"/t/javascript,/t/programming",Chrome Killed the Terminal Star,http://flippinawesome.org/2014/06/09/chrome-killed-the-terminal-star/,/u/remotesynth,3
+0,2014-06-09 16:21:46 -0500,/t/math,statistical geometry,http://john-art.com/stat_geom.html,/u/animatronic,2
+0,2014-06-09 17:00:16 -0500,/t/devops,Monitor Docker with Datadog,http://dtdg.co/1pcKcIC,/u/BonacaTalk,1
+0,2014-06-09 09:30:23 -0500,/t/science,Colors of chemistry,http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html,/u/acidflask,3

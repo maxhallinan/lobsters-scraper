@@ -1,25 +1,25 @@
-0,2017-07-29 04:53:01 -0500,"['/t/emacs', '/t/lisp']",Optimising Dash.el,http://www.wilfred.me.uk/blog/2017/07/29/optimising-dash-el/,/u/Wilfred,14
-0,2017-07-29 08:30:22 -0500,['/t/compsci'],Solving the Traveling Pacman Problem,https://medium.com/@robertgrosse/solving-the-traveling-pacman-problem-39c0872428bc,/u/calvin,17
-0,2017-07-29 13:30:03 -0500,"['/t/programming', '/t/unix']",The Long Slog Through the Shell (abridged),http://www.oilshell.org/blog/2017/07/28.html,/u/andyc,5
-1,2017-07-29 17:28:22 -0500,"['/t/pdf', '/t/compsci', '/t/haskell', '/t/testing']",High Coverage Testing of Haskell Programs (2011),https://pdfs.semanticscholar.org/a6a5/972ffac9bc746b9bdea622a7fdaee1da40af.pdf,/u/nickpsecurity,6
-2,2017-07-29 14:06:00 -0500,['/t/java'],The Case Against Kotlin,https://medium.com/@Pinterest_Engineering/the-case-against-kotlin-2c574cb87953,/u/pushcx,6
-0,2017-07-29 16:11:59 -0500,['/t/ai'],Feynman Machine: The Universal Dynamical Systems Computer (2016),https://arxiv.org/abs/1609.03971,/u/bsima,6
-0,2017-07-29 19:00:19 -0500,['/t/art'],Advancing real time graphics from a content perspective,http://overview.artbyrens.com/,/u/mikejsavage,4
-0,2017-07-29 22:36:18 -0500,['/t/javascript'],What you should know to really understand the Node.js Event Loop,https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c,/u/pushcx,2
-0,2017-07-29 22:32:00 -0500,['/t/crypto'],Confidential Transactions from Basic Principles,https://cryptoservices.github.io/cryptography/2017/07/21/Sigs.html,/u/pushcx,2
-2,2017-07-28 16:24:17 -0500,['/t/programming'],Pony 0.16.0 released,https://www.ponylang.org/blog/2017/07/0.16.0-released/,/u/SeanTAllen,30
-20,2017-07-28 12:59:15 -0500,"['/t/historical', '/t/practices', '/t/programming']",It Can Be Done,http://multicians.org/andre.html,/u/trn,42
-0,2017-07-29 20:50:03 -0500,"['/t/practices', '/t/programming', '/t/python', '/t/web']",Mayan EDMS first crowdfunding,https://www.mayan-edms.com/post/first-crowdfunding/,/u/siloraptor,2
-1,2017-07-29 15:35:59 -0500,"['/t/linux', '/t/person', '/t/satire']","There's an 87% Chance Linus Torvalds Hates Your Code, Study Finds",https://www.sudosatirical.com/articles/theres-eighty-seven-percent-chance-linus-torvalds-hates-your-code/,/u/quobit,8
-2,2017-07-29 07:04:17 -0500,"['/t/practices', '/t/programming']",A look into NASA's coding philosophy,https://www.techinasia.com/talk/nasa-coding-philosophy,/u/resir014,8
-8,2017-07-28 18:04:18 -0500,"['/t/linux', '/t/release', '/t/windows']",Windows Subsystem for Linux out of Beta,https://blogs.msdn.microsoft.com/commandline/2017/07/28/windows-subsystem-for-linux-out-of-beta/,/u/colin,22
-0,2017-07-29 09:06:32 -0500,"['/t/cryptocurrencies', '/t/finance']",Timeline Of The ChainCoin Scam - Massive Cryptocurrency Pump And Dump Scheme,https://storeofvalue.github.io/posts/timeline-of-the-chaincoin-scam/,/u/pushcx,6
-49,2017-07-28 08:23:02 -0500,"['/t/openbsd', '/t/security']",hurray we won,https://www.tedunangst.com/flak/post/hurray-we-won,/u/mulander,25
-0,2017-07-29 06:09:12 -0500,"['/t/slides', '/t/education', '/t/practices']",Optimise Sprint-Planning and Project-Scheduling using CD3,http://thecodeartist.blogspot.com/2017/07/optimise-project-scheduling-using-cost-of-delay-divided-by-duration.html,/u/TheCodeArtist,2
-5,2017-07-28 14:53:59 -0500,['/t/elixir'],Phoenix 1.3.0 released,http://phoenixframework.org/blog/phoenix-1-3-0-released,/u/bratsche,16
-0,2017-07-29 05:48:38 -0500,"['/t/video', '/t/security']",Injection Vulnerabilities - or: How I got a free Burger,https://www.youtube.com/watch?v=WWJTsKaJT_g,/u/rain1,4
-2,2017-07-28 13:44:21 -0500,"['/t/pdf', '/t/hardware', '/t/reversing']",Illegal and undocumented instructions,http://blog.koehntopp.info/index.php/2282-illegal-and-undocumented-instructions/,/u/pushcx,20
-2,2017-07-28 18:03:34 -0500,"['/t/crypto', '/t/security', '/t/web']",Certificate Transparency: Hacking web applications before they are installed,https://www.golem.de/news/certificate-transparency-hacking-web-applications-before-they-are-installed-1707-129172.html,/u/hanno,5
-1,2017-07-28 22:15:08 -0500,"['/t/slides', '/t/historical', '/t/programming']",Programming in the 1960's,https://www.slideshare.net/lenbass/programming-in-the-1960s,/u/nickpsecurity,7
-2,2017-07-28 07:56:42 -0500,"['/t/linux', '/t/systemd']",Systemd vs. the Linux Kernel,https://thenewstack.io/systemd-vs-linux-kernel/,/u/luisonthekeyboard,31
-2,2017-07-28 15:08:51 -0500,"['/t/go', '/t/programming', '/t/testing']","Advanced Testing in Go, Mitchell Hashimoto at GopherCon",https://about.sourcegraph.com/go/advanced-testing-in-go-mitchell-hashimoto,/u/beyang,5
+0,2017-07-29 04:53:01 -0500,"/t/emacs,/t/lisp",Optimising Dash.el,http://www.wilfred.me.uk/blog/2017/07/29/optimising-dash-el/,/u/Wilfred,14
+0,2017-07-29 08:30:22 -0500,/t/compsci,Solving the Traveling Pacman Problem,https://medium.com/@robertgrosse/solving-the-traveling-pacman-problem-39c0872428bc,/u/calvin,17
+0,2017-07-29 13:30:03 -0500,"/t/programming,/t/unix",The Long Slog Through the Shell (abridged),http://www.oilshell.org/blog/2017/07/28.html,/u/andyc,5
+1,2017-07-29 17:28:22 -0500,"/t/pdf,/t/compsci,/t/haskell,/t/testing",High Coverage Testing of Haskell Programs (2011),https://pdfs.semanticscholar.org/a6a5/972ffac9bc746b9bdea622a7fdaee1da40af.pdf,/u/nickpsecurity,6
+2,2017-07-29 14:06:00 -0500,/t/java,The Case Against Kotlin,https://medium.com/@Pinterest_Engineering/the-case-against-kotlin-2c574cb87953,/u/pushcx,6
+0,2017-07-29 16:11:59 -0500,/t/ai,Feynman Machine: The Universal Dynamical Systems Computer (2016),https://arxiv.org/abs/1609.03971,/u/bsima,6
+0,2017-07-29 19:00:19 -0500,/t/art,Advancing real time graphics from a content perspective,http://overview.artbyrens.com/,/u/mikejsavage,4
+0,2017-07-29 22:36:18 -0500,/t/javascript,What you should know to really understand the Node.js Event Loop,https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c,/u/pushcx,2
+0,2017-07-29 22:32:00 -0500,/t/crypto,Confidential Transactions from Basic Principles,https://cryptoservices.github.io/cryptography/2017/07/21/Sigs.html,/u/pushcx,2
+2,2017-07-28 16:24:17 -0500,/t/programming,Pony 0.16.0 released,https://www.ponylang.org/blog/2017/07/0.16.0-released/,/u/SeanTAllen,30
+20,2017-07-28 12:59:15 -0500,"/t/historical,/t/practices,/t/programming",It Can Be Done,http://multicians.org/andre.html,/u/trn,42
+0,2017-07-29 20:50:03 -0500,"/t/practices,/t/programming,/t/python,/t/web",Mayan EDMS first crowdfunding,https://www.mayan-edms.com/post/first-crowdfunding/,/u/siloraptor,2
+1,2017-07-29 15:35:59 -0500,"/t/linux,/t/person,/t/satire","There's an 87% Chance Linus Torvalds Hates Your Code, Study Finds",https://www.sudosatirical.com/articles/theres-eighty-seven-percent-chance-linus-torvalds-hates-your-code/,/u/quobit,8
+2,2017-07-29 07:04:17 -0500,"/t/practices,/t/programming",A look into NASA's coding philosophy,https://www.techinasia.com/talk/nasa-coding-philosophy,/u/resir014,8
+8,2017-07-28 18:04:18 -0500,"/t/linux,/t/release,/t/windows",Windows Subsystem for Linux out of Beta,https://blogs.msdn.microsoft.com/commandline/2017/07/28/windows-subsystem-for-linux-out-of-beta/,/u/colin,22
+0,2017-07-29 09:06:32 -0500,"/t/cryptocurrencies,/t/finance",Timeline Of The ChainCoin Scam - Massive Cryptocurrency Pump And Dump Scheme,https://storeofvalue.github.io/posts/timeline-of-the-chaincoin-scam/,/u/pushcx,6
+49,2017-07-28 08:23:02 -0500,"/t/openbsd,/t/security",hurray we won,https://www.tedunangst.com/flak/post/hurray-we-won,/u/mulander,25
+0,2017-07-29 06:09:12 -0500,"/t/slides,/t/education,/t/practices",Optimise Sprint-Planning and Project-Scheduling using CD3,http://thecodeartist.blogspot.com/2017/07/optimise-project-scheduling-using-cost-of-delay-divided-by-duration.html,/u/TheCodeArtist,2
+5,2017-07-28 14:53:59 -0500,/t/elixir,Phoenix 1.3.0 released,http://phoenixframework.org/blog/phoenix-1-3-0-released,/u/bratsche,16
+0,2017-07-29 05:48:38 -0500,"/t/video,/t/security",Injection Vulnerabilities - or: How I got a free Burger,https://www.youtube.com/watch?v=WWJTsKaJT_g,/u/rain1,4
+2,2017-07-28 13:44:21 -0500,"/t/pdf,/t/hardware,/t/reversing",Illegal and undocumented instructions,http://blog.koehntopp.info/index.php/2282-illegal-and-undocumented-instructions/,/u/pushcx,20
+2,2017-07-28 18:03:34 -0500,"/t/crypto,/t/security,/t/web",Certificate Transparency: Hacking web applications before they are installed,https://www.golem.de/news/certificate-transparency-hacking-web-applications-before-they-are-installed-1707-129172.html,/u/hanno,5
+1,2017-07-28 22:15:08 -0500,"/t/slides,/t/historical,/t/programming",Programming in the 1960's,https://www.slideshare.net/lenbass/programming-in-the-1960s,/u/nickpsecurity,7
+2,2017-07-28 07:56:42 -0500,"/t/linux,/t/systemd",Systemd vs. the Linux Kernel,https://thenewstack.io/systemd-vs-linux-kernel/,/u/luisonthekeyboard,31
+2,2017-07-28 15:08:51 -0500,"/t/go,/t/programming,/t/testing","Advanced Testing in Go, Mitchell Hashimoto at GopherCon",https://about.sourcegraph.com/go/advanced-testing-in-go-mitchell-hashimoto,/u/beyang,5

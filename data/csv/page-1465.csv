@@ -1,25 +1,25 @@
-0,2013-07-24 09:13:21 -0500,"['/t/privacy', '/t/security']",Feds put heat on Web firms for master encryption keys,http://news.cnet.com/8301-13578_3-57595202-38/feds-put-heat-on-web-firms-for-master-encryption-keys/,/u/wally,5
-0,2013-07-24 13:46:29 -0500,"['/t/video', '/t/hardware', '/t/security']",Hackers Reveal Nasty New Car Attacks--With Me Behind The Wheel,http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers-reveal-nasty-new-car-attacks-with-me-behind-the-wheel-video/,/u/jcs,2
-0,2013-07-24 09:59:59 -0500,['/t/privacy'],NSA Says It Can’t Search Its Own Emails,https://www.propublica.org/article/nsa-says-it-cant-search-own-emails,/u/journeysquid,1
-0,2013-07-24 01:23:28 -0500,"['/t/reversing', '/t/security', '/t/windows']",Advanced Exploitation of Windows Kernel Privilege Escalation (CVE-2013-3660 / MS13-053),http://www.vupen.com/blog/20130723.Advanced_Exploitation_Windows_Kernel_Win32k_EoP_MS13-053.php,/u/jcs,3
-10,2013-07-23 16:05:01 -0500,"['/t/video', '/t/security']",Cryptocat: The Social and Technical Challenges of Making Crypto Accessible to Everyone,http://www.youtube.com/watch?v=9wccHkrOg0k,/u/kyle,3
-0,2013-07-23 09:15:07 -0500,['/t/go'],Online upgrades in Go,http://www.darkcoding.net/software/online-upgrades-in-go/,/u/fcambus,9
-0,2013-07-23 15:25:15 -0500,['/t/law'],Licensing in a Post Copyright World,http://lucumr.pocoo.org/2013/7/23/licensing/,/u/kyle,3
-0,2013-07-23 12:40:26 -0500,"['/t/news', '/t/security']",Cisco to buy security software (Snort) maker Sourcefire for $2.7 billion,http://www.reuters.com/article/2013/07/23/us-sourcefire-cisco-offer-idUSBRE96M0F320130723,/u/jcs,4
-0,2013-07-23 13:43:24 -0500,"['/t/hardware', '/t/mobile']",Fairphone | A seriously cool smartphone. Putting social values first.,http://www.fairphone.com/,/u/stevejalim,2
-0,2013-07-23 10:10:09 -0500,['/t/emacs'],Modernization of Emacs (Simple Changes Emacs Should Adopt),http://ergoemacs.org/emacs/modernization.html,/u/joshuacc,2
-4,2013-07-22 14:52:59 -0500,"['/t/hardware', '/t/linux', '/t/mobile', '/t/news']",Ubuntu Edge,http://www.indiegogo.com/projects/ubuntu-edge/x/1929804,/u/jcs,12
-0,2013-07-23 10:30:24 -0500,"['/t/javascript', '/t/python']",PyPy.js: First Steps,http://www.rfk.id.au/blog/entry/pypy-js-first-steps/,/u/joshuacc,1
-0,2013-07-23 11:41:01 -0500,"['/t/javascript', '/t/web']",AngularJS Directives That Override Standard HTML Tags,http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/,/u/remotesynth,0
-0,2013-07-23 03:45:30 -0500,['/t/law'],Victory Lap for Ask Patents,http://www.joelonsoftware.com/items/2013/07/22.html,/u/ray,1
-1,2013-07-22 21:00:04 -0500,['/t/hardware'],Battery Life of Haswell ULT vs Modern ARM Tablets,http://anandtech.com/show/7117/haswell-ult-investigation,/u/tedu,3
-2,2013-07-22 05:25:46 -0500,['/t/compsci'],Lenses In Pictures,http://adit.io/posts/2013-07-22-lenses-in-pictures.html,/u/bogdan,6
-0,2013-07-22 19:42:23 -0500,['/t/lisp'],2013-07-22: The Underbelly of Racket Macro Basics,http://jeapostrophe.github.io/2013-07-22-123list-post.html,/u/kyle,1
-1,2013-07-22 13:54:31 -0500,"['/t/ruby', '/t/web']",Middleman on Heroku – 2013 edition,http://randomerrata.com/post/56163474367/middleman-on-heroku,/u/matias,1
-0,2013-07-21 16:51:43 -0500,"['/t/c', '/t/compsci']","Hello, JIT World: The Joy of Simple JITs",http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html,/u/kyle,8
-0,2013-07-21 19:29:10 -0500,"['/t/hardware', '/t/security']",Rooting SIM cards,https://srlabs.de/rooting-sim-cards/,/u/kyle,4
-0,2013-07-21 12:29:58 -0500,['/t/security'],750 million phones could be vulnerable in massive SIM security flaw,http://mobile.theverge.com/2013/7/21/4542782/sim-card-des-security-flaw-security-research-labs,/u/wally,5
-0,2013-07-21 13:39:10 -0500,['/t/c'],Partially Applied Functions in C,http://tia.mat.br/blog/html/2013/07/20/partial_functions_in_c.html,/u/kyle,4
-0,2013-07-21 17:25:45 -0500,['/t/linux'],The H is closing down,http://www.h-online.com/open/news/item/The-H-is-closing-down-1920027.html,/u/journeysquid,2
-0,2013-07-21 11:54:59 -0500,"['/t/android', '/t/reversing', '/t/security']","Exploit (& Fix) Android ""Master Key""",http://www.saurik.com/id/17,/u/jcs,2
-0,2013-07-21 02:20:39 -0500,['/t/hardware'],Hillbilly Tracking of Low Earth Orbit Satellites,http://travisgoodspeed.blogspot.com/2013/07/hillbilly-tracking-of-low-earth-orbit.html,/u/kyle,2
+0,2013-07-24 09:13:21 -0500,"/t/privacy,/t/security",Feds put heat on Web firms for master encryption keys,http://news.cnet.com/8301-13578_3-57595202-38/feds-put-heat-on-web-firms-for-master-encryption-keys/,/u/wally,5
+0,2013-07-24 13:46:29 -0500,"/t/video,/t/hardware,/t/security",Hackers Reveal Nasty New Car Attacks--With Me Behind The Wheel,http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers-reveal-nasty-new-car-attacks-with-me-behind-the-wheel-video/,/u/jcs,2
+0,2013-07-24 09:59:59 -0500,/t/privacy,NSA Says It Can’t Search Its Own Emails,https://www.propublica.org/article/nsa-says-it-cant-search-own-emails,/u/journeysquid,1
+0,2013-07-24 01:23:28 -0500,"/t/reversing,/t/security,/t/windows",Advanced Exploitation of Windows Kernel Privilege Escalation (CVE-2013-3660 / MS13-053),http://www.vupen.com/blog/20130723.Advanced_Exploitation_Windows_Kernel_Win32k_EoP_MS13-053.php,/u/jcs,3
+10,2013-07-23 16:05:01 -0500,"/t/video,/t/security",Cryptocat: The Social and Technical Challenges of Making Crypto Accessible to Everyone,http://www.youtube.com/watch?v=9wccHkrOg0k,/u/kyle,3
+0,2013-07-23 09:15:07 -0500,/t/go,Online upgrades in Go,http://www.darkcoding.net/software/online-upgrades-in-go/,/u/fcambus,9
+0,2013-07-23 15:25:15 -0500,/t/law,Licensing in a Post Copyright World,http://lucumr.pocoo.org/2013/7/23/licensing/,/u/kyle,3
+0,2013-07-23 12:40:26 -0500,"/t/news,/t/security",Cisco to buy security software (Snort) maker Sourcefire for $2.7 billion,http://www.reuters.com/article/2013/07/23/us-sourcefire-cisco-offer-idUSBRE96M0F320130723,/u/jcs,4
+0,2013-07-23 13:43:24 -0500,"/t/hardware,/t/mobile",Fairphone | A seriously cool smartphone. Putting social values first.,http://www.fairphone.com/,/u/stevejalim,2
+0,2013-07-23 10:10:09 -0500,/t/emacs,Modernization of Emacs (Simple Changes Emacs Should Adopt),http://ergoemacs.org/emacs/modernization.html,/u/joshuacc,2
+4,2013-07-22 14:52:59 -0500,"/t/hardware,/t/linux,/t/mobile,/t/news",Ubuntu Edge,http://www.indiegogo.com/projects/ubuntu-edge/x/1929804,/u/jcs,12
+0,2013-07-23 10:30:24 -0500,"/t/javascript,/t/python",PyPy.js: First Steps,http://www.rfk.id.au/blog/entry/pypy-js-first-steps/,/u/joshuacc,1
+0,2013-07-23 11:41:01 -0500,"/t/javascript,/t/web",AngularJS Directives That Override Standard HTML Tags,http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/,/u/remotesynth,0
+0,2013-07-23 03:45:30 -0500,/t/law,Victory Lap for Ask Patents,http://www.joelonsoftware.com/items/2013/07/22.html,/u/ray,1
+1,2013-07-22 21:00:04 -0500,/t/hardware,Battery Life of Haswell ULT vs Modern ARM Tablets,http://anandtech.com/show/7117/haswell-ult-investigation,/u/tedu,3
+2,2013-07-22 05:25:46 -0500,/t/compsci,Lenses In Pictures,http://adit.io/posts/2013-07-22-lenses-in-pictures.html,/u/bogdan,6
+0,2013-07-22 19:42:23 -0500,/t/lisp,2013-07-22: The Underbelly of Racket Macro Basics,http://jeapostrophe.github.io/2013-07-22-123list-post.html,/u/kyle,1
+1,2013-07-22 13:54:31 -0500,"/t/ruby,/t/web",Middleman on Heroku – 2013 edition,http://randomerrata.com/post/56163474367/middleman-on-heroku,/u/matias,1
+0,2013-07-21 16:51:43 -0500,"/t/c,/t/compsci","Hello, JIT World: The Joy of Simple JITs",http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html,/u/kyle,8
+0,2013-07-21 19:29:10 -0500,"/t/hardware,/t/security",Rooting SIM cards,https://srlabs.de/rooting-sim-cards/,/u/kyle,4
+0,2013-07-21 12:29:58 -0500,/t/security,750 million phones could be vulnerable in massive SIM security flaw,http://mobile.theverge.com/2013/7/21/4542782/sim-card-des-security-flaw-security-research-labs,/u/wally,5
+0,2013-07-21 13:39:10 -0500,/t/c,Partially Applied Functions in C,http://tia.mat.br/blog/html/2013/07/20/partial_functions_in_c.html,/u/kyle,4
+0,2013-07-21 17:25:45 -0500,/t/linux,The H is closing down,http://www.h-online.com/open/news/item/The-H-is-closing-down-1920027.html,/u/journeysquid,2
+0,2013-07-21 11:54:59 -0500,"/t/android,/t/reversing,/t/security","Exploit (& Fix) Android ""Master Key""",http://www.saurik.com/id/17,/u/jcs,2
+0,2013-07-21 02:20:39 -0500,/t/hardware,Hillbilly Tracking of Low Earth Orbit Satellites,http://travisgoodspeed.blogspot.com/2013/07/hillbilly-tracking-of-low-earth-orbit.html,/u/kyle,2

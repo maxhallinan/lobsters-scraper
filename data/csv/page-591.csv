@@ -1,25 +1,25 @@
-0,2016-11-23 07:04:25 -0600,"['/t/python', '/t/release']",Pyston 0.6 released,https://blog.pyston.org/2016/11/11/pyston-0-6-released/,/u/sanxiyn,6
-4,2016-11-22 09:33:40 -0600,['/t/distributed'],An introduction to distributed systems by Aphyr,https://github.com/aphyr/distsys-class,/u/unbalancedparentheses,42
-2,2016-11-23 17:40:40 -0600,"['/t/nodejs', '/t/release']",Winds 0.2,https://github.com/GetStream/Winds/releases/tag/v0.2.0,/u/tschellenbach,0
-0,2016-11-23 10:55:50 -0600,"['/t/javascript', '/t/nodejs', '/t/testing']",Create Swagger documentation after running integration tests,https://github.com/lazywithclass/swaggins,/u/lazywithclass,1
-0,2016-11-23 10:47:44 -0600,['/t/programming'],Floating-Point Determinism (2013),https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/,/u/pushcx,2
-0,2016-11-23 10:46:01 -0600,"['/t/devops', '/t/security']",Why Web Application Firewalls fail to protect web applications,https://blog.sqreen.io/why-web-application-firewalls-fail-to-protect-web-applications/,/u/PaulBlei,2
-0,2016-11-23 09:44:34 -0600,['/t/python'],AsyncIO for the Working Python Developer,https://medium.com/@yeraydiazdiaz/asyncio-for-the-working-python-developer-5c468e6e2e8e,/u/av,2
-8,2016-11-22 12:44:25 -0600,['/t/linux'],Flatpak is the new framework for desktop applications on Linux,http://flatpak.org/,/u/sanxiyn,13
-2,2016-11-22 11:51:00 -0600,['/t/security'],4 fatal flaws in deterministic password managers,http://tonyarcieri.com/4-fatal-flaws-in-deterministic-password-managers,/u/bascule,12
-4,2016-11-22 09:58:14 -0600,['/t/lisp'],Learn you a Lisp in 0 minutes,https://hackernoon.com/learn-you-a-lisp-in-0-minutes-e0c1a060a178,/u/calvin,21
-0,2016-11-22 18:06:28 -0600,['/t/hardware'],Open-V - The World's First Open Source RISC-V-based 32-bit μC,https://www.crowdsupply.com/onchip/open-v,/u/sevan,12
-3,2016-11-22 09:20:46 -0600,"['/t/video', '/t/programming']",Joe Armstrong interviews Alan Kay,https://www.youtube.com/watch?v=fhOHn9TClXY,/u/hails,21
-0,2016-11-22 10:02:57 -0600,"['/t/programming', '/t/ruby']",Writing a Rails Feature - Blow by Blow,http://www.schneems.com/2016/11/21/writing-a-rails-feature-blow-by-blow/,/u/schneems,11
-4,2016-11-22 14:48:35 -0600,"['/t/go', '/t/virtualization']",Open Source at DigitalOcean: Introducing go-qemu and go-libvirt,https://www.digitalocean.com/company/blog/introducing-go-qemu-and-go-libvirt/,/u/davidjpeacock,7
-3,2016-11-22 12:18:41 -0600,"['/t/linux', '/t/security']",Advancing exploitation: a scriptless 0day exploit against Linux desktops,http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html,/u/mulander,9
-4,2016-11-22 05:41:52 -0600,"['/t/release', '/t/unix']",Bioinformatics is a disorganised disaster and I am too. So I made a shell.,https://samnicholls.net/2016/11/16/disorganised-disaster/,/u/mjn,17
-0,2016-11-23 01:56:22 -0600,"['/t/java', '/t/programming']",Java Bullshifier - Generate Massive Random Code Bases,http://blog.takipi.com/java-bullshifier-generate-massive-random-code-bases/,/u/C-Keen,2
-2,2016-11-22 11:38:33 -0600,"['/t/hardware', '/t/mac']",2016 rMBP caveats,https://www.lvh.io/posts/2016-rmbp-caveats.html,/u/av,7
-1,2016-11-22 11:36:51 -0600,"['/t/video', '/t/mac']",Doom on the MacBook Pro Touch Bar,https://www.youtube.com/watch?v=GD0L46y3IqI,/u/av,7
-2,2016-11-22 06:48:04 -0600,['/t/ml'],"Bringing typed, modular macros to OCaml",https://oliviernicole.github.io/about_macros.html,/u/unbalancedparentheses,11
-6,2016-11-21 21:26:03 -0600,['/t/programming'],How Eve unifies your entire programming stack,https://hackernoon.com/how-eve-unifies-your-entire-programming-stack-900ca80c58a7,/u/av,21
-6,2016-11-22 12:01:02 -0600,['/t/programming'],Hidden Precision,http://martinfowler.com/bliki/HiddenPrecision.html,/u/joshuacc,3
-0,2016-11-22 11:39:29 -0600,['/t/swift'],"Katana – Modern Swift framework for creating iOS apps, inspired by React/Redux",https://github.com/BendingSpoons/katana-swift,/u/av,6
-1,2016-11-22 09:47:11 -0600,['/t/historical'],The Cybersyn Revolution,https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/,/u/pizzaiolo,6
-23,2016-11-21 12:43:40 -0600,"['/t/hardware', '/t/mac']",Why the MacBook Pro is limited to 16GB of RAM,https://macdaddy.io/macbook-pro-limited-16gb-ram/,/u/iv,35
+0,2016-11-23 07:04:25 -0600,"/t/python,/t/release",Pyston 0.6 released,https://blog.pyston.org/2016/11/11/pyston-0-6-released/,/u/sanxiyn,6
+4,2016-11-22 09:33:40 -0600,/t/distributed,An introduction to distributed systems by Aphyr,https://github.com/aphyr/distsys-class,/u/unbalancedparentheses,42
+2,2016-11-23 17:40:40 -0600,"/t/nodejs,/t/release",Winds 0.2,https://github.com/GetStream/Winds/releases/tag/v0.2.0,/u/tschellenbach,0
+0,2016-11-23 10:55:50 -0600,"/t/javascript,/t/nodejs,/t/testing",Create Swagger documentation after running integration tests,https://github.com/lazywithclass/swaggins,/u/lazywithclass,1
+0,2016-11-23 10:47:44 -0600,/t/programming,Floating-Point Determinism (2013),https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/,/u/pushcx,2
+0,2016-11-23 10:46:01 -0600,"/t/devops,/t/security",Why Web Application Firewalls fail to protect web applications,https://blog.sqreen.io/why-web-application-firewalls-fail-to-protect-web-applications/,/u/PaulBlei,2
+0,2016-11-23 09:44:34 -0600,/t/python,AsyncIO for the Working Python Developer,https://medium.com/@yeraydiazdiaz/asyncio-for-the-working-python-developer-5c468e6e2e8e,/u/av,2
+8,2016-11-22 12:44:25 -0600,/t/linux,Flatpak is the new framework for desktop applications on Linux,http://flatpak.org/,/u/sanxiyn,13
+2,2016-11-22 11:51:00 -0600,/t/security,4 fatal flaws in deterministic password managers,http://tonyarcieri.com/4-fatal-flaws-in-deterministic-password-managers,/u/bascule,12
+4,2016-11-22 09:58:14 -0600,/t/lisp,Learn you a Lisp in 0 minutes,https://hackernoon.com/learn-you-a-lisp-in-0-minutes-e0c1a060a178,/u/calvin,21
+0,2016-11-22 18:06:28 -0600,/t/hardware,Open-V - The World's First Open Source RISC-V-based 32-bit μC,https://www.crowdsupply.com/onchip/open-v,/u/sevan,12
+3,2016-11-22 09:20:46 -0600,"/t/video,/t/programming",Joe Armstrong interviews Alan Kay,https://www.youtube.com/watch?v=fhOHn9TClXY,/u/hails,21
+0,2016-11-22 10:02:57 -0600,"/t/programming,/t/ruby",Writing a Rails Feature - Blow by Blow,http://www.schneems.com/2016/11/21/writing-a-rails-feature-blow-by-blow/,/u/schneems,11
+4,2016-11-22 14:48:35 -0600,"/t/go,/t/virtualization",Open Source at DigitalOcean: Introducing go-qemu and go-libvirt,https://www.digitalocean.com/company/blog/introducing-go-qemu-and-go-libvirt/,/u/davidjpeacock,7
+3,2016-11-22 12:18:41 -0600,"/t/linux,/t/security",Advancing exploitation: a scriptless 0day exploit against Linux desktops,http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html,/u/mulander,9
+4,2016-11-22 05:41:52 -0600,"/t/release,/t/unix",Bioinformatics is a disorganised disaster and I am too. So I made a shell.,https://samnicholls.net/2016/11/16/disorganised-disaster/,/u/mjn,17
+0,2016-11-23 01:56:22 -0600,"/t/java,/t/programming",Java Bullshifier - Generate Massive Random Code Bases,http://blog.takipi.com/java-bullshifier-generate-massive-random-code-bases/,/u/C-Keen,2
+2,2016-11-22 11:38:33 -0600,"/t/hardware,/t/mac",2016 rMBP caveats,https://www.lvh.io/posts/2016-rmbp-caveats.html,/u/av,7
+1,2016-11-22 11:36:51 -0600,"/t/video,/t/mac",Doom on the MacBook Pro Touch Bar,https://www.youtube.com/watch?v=GD0L46y3IqI,/u/av,7
+2,2016-11-22 06:48:04 -0600,/t/ml,"Bringing typed, modular macros to OCaml",https://oliviernicole.github.io/about_macros.html,/u/unbalancedparentheses,11
+6,2016-11-21 21:26:03 -0600,/t/programming,How Eve unifies your entire programming stack,https://hackernoon.com/how-eve-unifies-your-entire-programming-stack-900ca80c58a7,/u/av,21
+6,2016-11-22 12:01:02 -0600,/t/programming,Hidden Precision,http://martinfowler.com/bliki/HiddenPrecision.html,/u/joshuacc,3
+0,2016-11-22 11:39:29 -0600,/t/swift,"Katana – Modern Swift framework for creating iOS apps, inspired by React/Redux",https://github.com/BendingSpoons/katana-swift,/u/av,6
+1,2016-11-22 09:47:11 -0600,/t/historical,The Cybersyn Revolution,https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/,/u/pizzaiolo,6
+23,2016-11-21 12:43:40 -0600,"/t/hardware,/t/mac",Why the MacBook Pro is limited to 16GB of RAM,https://macdaddy.io/macbook-pro-limited-16gb-ram/,/u/iv,35

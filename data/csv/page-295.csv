@@ -1,25 +1,25 @@
-2,2017-07-11 12:09:35 -0500,['/t/unix'],"Add horizontal CLI scrolling using the 'most' pager, great for log files",https://en.wikipedia.org/wiki/Most_(Unix),/u/jrc,7
-68,2017-07-10 14:35:26 -0500,['/t/meta'],How to use downvotes correctly,/s/nkxia1/how_use_downvotes_correctly,/u/friendlysock,58
-0,2017-07-11 12:18:59 -0500,"['/t/release', '/t/security', '/t/web']",nginx 1.13.3 & 1.12.1 released - security advisory (CVE-2017-7529),http://mailman.nginx.org/pipermail/nginx-announce/2017/000200.html,/u/mischa,10
-2,2017-07-11 13:47:49 -0500,"['/t/mobile', '/t/programming', '/t/release']",Dart Code v2 - Now supports Flutter debugging and hot reload!,https://blog.dantup.com/2017/07/dart-code-v2-now-with-flutter-debugging-and-hot-reload/,/u/DanTup,3
-11,2017-07-11 06:40:03 -0500,['/t/networking'],Mozilla Survey - How do you use and share your WiFi?,https://www.surveymonkey.com/r/QMH5X98,/u/pizzaiolo,8
-1,2017-07-11 11:23:34 -0500,['/t/science'],First Object Teleported from Earth to Orbit,https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/,/u/bsima,5
-2,2017-07-11 12:29:22 -0500,"['/t/python', '/t/web']",Shorty - URL Shortener service built using Flask & MySQL,https://github.com/PadamSethia/shorty,/u/Padamsethia,3
-67,2017-07-10 15:13:12 -0500,"['/t/ask', '/t/book']",What are you reading this week ?,/s/oupzbl/what_are_you_reading_this_week,/u/kai3x5,22
-0,2017-07-11 08:24:12 -0500,"['/t/pdf', '/t/slides', '/t/compilers', '/t/historical', '/t/programming']","OpenVMS: State of the Port to x86_64, July 2017 Update",http://vmssoftware.com/pdfs/State_of_Port_20170707.pdf,/u/trn,12
-14,2017-07-10 14:59:57 -0500,['/t/openbsd'],OpenBSD and the modern laptop,http://bsdly.blogspot.com/2017/07/openbsd-and-modern-laptop.html,/u/mischa,42
-153,2017-07-10 12:25:19 -0500,['/t/meta'],Downvote category for inappropriate/hostile/abusive comments,/s/wei3a9/downvote_category_for_inappropriate,/u/jonhoo,51
-0,2017-07-11 20:53:24 -0500,"['/t/video', '/t/programming']",Julien Verlaguet - Reflex: Reactive Programming at Facebook,https://www.youtube.com/watch?v=AGkSHE15BSs,/u/cmeiklejohn,2
-7,2017-07-11 05:15:00 -0500,"['/t/databases', '/t/distributed']",Exactly-once Semantics is Possible: Here's How Apache Kafka Does it,https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/,/u/pushcx,7
-2,2017-07-11 07:27:03 -0500,['/t/python'],How to Use Static Type Checking in Python 3.6,https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b,/u/pushcx,7
-1,2017-07-11 06:15:23 -0500,"['/t/linux', '/t/windows']",Ubuntu is now available for download on the Windows Store,https://www.theverge.com/2017/7/10/15949096/ubuntu-windows-10-store-linux-distro-sandbox-available-now,/u/colin,10
-1,2017-07-11 06:47:10 -0500,"['/t/ml', '/t/programming']",A minimal introduction to unicode,http://erratique.ch/software/uucp/doc/Uucp.html#uminimal,/u/c-cube,10
-8,2017-07-10 11:14:05 -0500,"['/t/show', '/t/unix']",Seashells – Pipe output from CLI apps to the web in real time,https://seashells.io/,/u/anishathalye,36
-1,2017-07-11 14:24:15 -0500,"['/t/openbsd', '/t/virtualization']",Create and upload an OpenBSD VM image to Azure,https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-openbsd,/u/obsdj,3
-0,2017-07-11 13:17:28 -0500,['/t/databases'],Using Heroku's Expensive Query Dashboard to Speed up your App,https://blog.heroku.com/expensive-query-speed-up-app,/u/schneems,2
-0,2017-07-11 15:56:52 -0500,"['/t/graphics', '/t/math']",Dip Transform for 3D Shape Reconstruction,http://irc.cs.sdu.edu.cn/3dshape/,/u/friendlysock,3
-0,2017-07-11 04:36:36 -0500,"['/t/javascript', '/t/web']",A look inside React Fiber - how work will get done.,http://makersden.io/blog/look-inside-fiber/,/u/elkorn,6
-0,2017-07-11 12:24:50 -0500,"['/t/slides', '/t/programming']","Use Case is Everything - What Engineering Teams can learn from Alan Turing's ""Imitation Game""",https://thecodeartist.blogspot.com/2015/04/use-case-is-everything.html,/u/TheCodeArtist,2
-0,2017-07-11 12:56:57 -0500,"['/t/finance', '/t/programming', '/t/python']",Python Programming for Finance,https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/,/u/unbalancedparentheses,4
-0,2017-07-11 15:01:41 -0500,"['/t/hardware', '/t/historical']",Inside Intel's first product: the 3101 RAM chip held just 64 bits,http://www.righto.com/2017/07/inside-intels-first-product-3101-ram.html,/u/calvin,3
-1,2017-07-11 09:56:12 -0500,"['/t/compilers', '/t/javascript', '/t/php']",Babel-preset-php: PHP7 to ES7 syntax translator,https://gitlab.com/kornelski/babel-preset-php,/u/aleph,4
+2,2017-07-11 12:09:35 -0500,/t/unix,"Add horizontal CLI scrolling using the 'most' pager, great for log files",https://en.wikipedia.org/wiki/Most_(Unix),/u/jrc,7
+68,2017-07-10 14:35:26 -0500,/t/meta,How to use downvotes correctly,/s/nkxia1/how_use_downvotes_correctly,/u/friendlysock,58
+0,2017-07-11 12:18:59 -0500,"/t/release,/t/security,/t/web",nginx 1.13.3 & 1.12.1 released - security advisory (CVE-2017-7529),http://mailman.nginx.org/pipermail/nginx-announce/2017/000200.html,/u/mischa,10
+2,2017-07-11 13:47:49 -0500,"/t/mobile,/t/programming,/t/release",Dart Code v2 - Now supports Flutter debugging and hot reload!,https://blog.dantup.com/2017/07/dart-code-v2-now-with-flutter-debugging-and-hot-reload/,/u/DanTup,3
+11,2017-07-11 06:40:03 -0500,/t/networking,Mozilla Survey - How do you use and share your WiFi?,https://www.surveymonkey.com/r/QMH5X98,/u/pizzaiolo,8
+1,2017-07-11 11:23:34 -0500,/t/science,First Object Teleported from Earth to Orbit,https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/,/u/bsima,5
+2,2017-07-11 12:29:22 -0500,"/t/python,/t/web",Shorty - URL Shortener service built using Flask & MySQL,https://github.com/PadamSethia/shorty,/u/Padamsethia,3
+67,2017-07-10 15:13:12 -0500,"/t/ask,/t/book",What are you reading this week ?,/s/oupzbl/what_are_you_reading_this_week,/u/kai3x5,22
+0,2017-07-11 08:24:12 -0500,"/t/pdf,/t/slides,/t/compilers,/t/historical,/t/programming","OpenVMS: State of the Port to x86_64, July 2017 Update",http://vmssoftware.com/pdfs/State_of_Port_20170707.pdf,/u/trn,12
+14,2017-07-10 14:59:57 -0500,/t/openbsd,OpenBSD and the modern laptop,http://bsdly.blogspot.com/2017/07/openbsd-and-modern-laptop.html,/u/mischa,42
+153,2017-07-10 12:25:19 -0500,/t/meta,Downvote category for inappropriate/hostile/abusive comments,/s/wei3a9/downvote_category_for_inappropriate,/u/jonhoo,51
+0,2017-07-11 20:53:24 -0500,"/t/video,/t/programming",Julien Verlaguet - Reflex: Reactive Programming at Facebook,https://www.youtube.com/watch?v=AGkSHE15BSs,/u/cmeiklejohn,2
+7,2017-07-11 05:15:00 -0500,"/t/databases,/t/distributed",Exactly-once Semantics is Possible: Here's How Apache Kafka Does it,https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/,/u/pushcx,7
+2,2017-07-11 07:27:03 -0500,/t/python,How to Use Static Type Checking in Python 3.6,https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b,/u/pushcx,7
+1,2017-07-11 06:15:23 -0500,"/t/linux,/t/windows",Ubuntu is now available for download on the Windows Store,https://www.theverge.com/2017/7/10/15949096/ubuntu-windows-10-store-linux-distro-sandbox-available-now,/u/colin,10
+1,2017-07-11 06:47:10 -0500,"/t/ml,/t/programming",A minimal introduction to unicode,http://erratique.ch/software/uucp/doc/Uucp.html#uminimal,/u/c-cube,10
+8,2017-07-10 11:14:05 -0500,"/t/show,/t/unix",Seashells – Pipe output from CLI apps to the web in real time,https://seashells.io/,/u/anishathalye,36
+1,2017-07-11 14:24:15 -0500,"/t/openbsd,/t/virtualization",Create and upload an OpenBSD VM image to Azure,https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-openbsd,/u/obsdj,3
+0,2017-07-11 13:17:28 -0500,/t/databases,Using Heroku's Expensive Query Dashboard to Speed up your App,https://blog.heroku.com/expensive-query-speed-up-app,/u/schneems,2
+0,2017-07-11 15:56:52 -0500,"/t/graphics,/t/math",Dip Transform for 3D Shape Reconstruction,http://irc.cs.sdu.edu.cn/3dshape/,/u/friendlysock,3
+0,2017-07-11 04:36:36 -0500,"/t/javascript,/t/web",A look inside React Fiber - how work will get done.,http://makersden.io/blog/look-inside-fiber/,/u/elkorn,6
+0,2017-07-11 12:24:50 -0500,"/t/slides,/t/programming","Use Case is Everything - What Engineering Teams can learn from Alan Turing's ""Imitation Game""",https://thecodeartist.blogspot.com/2015/04/use-case-is-everything.html,/u/TheCodeArtist,2
+0,2017-07-11 12:56:57 -0500,"/t/finance,/t/programming,/t/python",Python Programming for Finance,https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/,/u/unbalancedparentheses,4
+0,2017-07-11 15:01:41 -0500,"/t/hardware,/t/historical",Inside Intel's first product: the 3101 RAM chip held just 64 bits,http://www.righto.com/2017/07/inside-intels-first-product-3101-ram.html,/u/calvin,3
+1,2017-07-11 09:56:12 -0500,"/t/compilers,/t/javascript,/t/php",Babel-preset-php: PHP7 to ES7 syntax translator,https://gitlab.com/kornelski/babel-preset-php,/u/aleph,4

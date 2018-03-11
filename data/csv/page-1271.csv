@@ -1,25 +1,25 @@
-0,2014-08-09 09:14:48 -0500,['/t/culture'],Silicon Valley Tech Entrepreneurs: Behind the Stereotype,http://www.businessweek.com/articles/2014-08-07/silicon-valley-tech-entrepreneurs-behind-the-stereotype,/u/jkkm,1
-0,2014-08-08 15:43:09 -0500,"['/t/erlang', '/t/programming']",Keynote - Jose Valim - Elixir Conf 2014,http://www.confreaks.com/videos/4134-elixirconf2014-keynote-elixir,/u/kGb8RNFtg6,6
-0,2014-08-08 12:29:48 -0500,"['/t/pdf', '/t/book', '/t/compsci']",Practical Foundations for Programming Languages,https://www.cs.cmu.edu/~rwh/plbook/book.pdf,/u/brinker,6
-0,2014-08-08 10:52:44 -0500,"['/t/finance', '/t/practices']",The worst 7 mistakes that cost money and resources on software development projects,http://strongpoint.io/blog/2014/08/08/seven-mistakes/,/u/helglu,7
-0,2014-08-08 22:06:59 -0500,"['/t/design', '/t/web']",WeasyPrint - Converts HTML + CSS to PDF,http://weasyprint.org/,/u/flyingfisch,1
-0,2014-08-08 12:31:23 -0500,"['/t/pdf', '/t/compsci', '/t/haskell']",The Essence of Dataflow Programming,http://cs.ioc.ee/~tarmo/papers/essence.pdf,/u/brinker,4
-0,2014-08-08 14:14:17 -0500,"['/t/distributed', '/t/linux']",DMTCP : Distributed MultiThreaded Checkpointing,http://dmtcp.sourceforge.net/,/u/animatronic,3
-4,2014-08-08 11:03:30 -0500,"['/t/culture', '/t/finance']",The Disruption Machine,http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine?currentPage=all,/u/steveklabnik,6
-1,2014-08-07 23:03:51 -0500,"['/t/programming', '/t/release', '/t/unix']","rumpkernel, now on bare metal",http://blog.netbsd.org/tnf/entry/an_internet_ready_os_from,/u/kaveman,11
-1,2014-08-07 22:22:22 -0500,"['/t/distributed', '/t/linux']",CRIU - Checkpoint/Restore In Userspace,http://criu.org/Main_Page,/u/animatronic,10
-0,2014-08-08 05:09:45 -0500,"['/t/video', '/t/lisp']",Composing Test Generators,https://www.youtube.com/watch?v=4-sPhFtGwZk&feature=youtu.be,/u/SeanTAllen,4
-0,2014-08-07 19:35:04 -0500,"['/t/cryptocurrencies', '/t/security']",BGP Hijacking for Cryptocurrency Profit,http://www.secureworks.com/cyber-threat-intelligence/threats/bgp-hijacking-for-cryptocurrency-profit/,/u/patrickod,9
-0,2014-08-08 10:41:56 -0500,['/t/javascript'],Composable Generators in Javascript,http://jeremydmiller.com/2014/08/08/composable-generators-in-javascript/,/u/statenjason,1
-0,2014-08-08 09:37:34 -0500,['/t/databases'],Docker PostgreSQL Workflow,http://davidamick.wordpress.com/2014/07/19/docker-postgresql-workflow/,/u/jm,1
-0,2014-08-07 13:47:09 -0500,"['/t/go', '/t/programming']",Go 1.4 GC roadmap,http://golang.org/s/go14gc,/u/steveklabnik,14
-3,2014-08-07 13:50:24 -0500,"['/t/api', '/t/go', '/t/programming']",What are the top 150 most used Go functions?,https://sourcegraph.com/blog/top-150-most-used-golang-functions,/u/sqs,7
-0,2014-08-07 16:24:50 -0500,['/t/security'],The BEAST Wins Again: Why TLS Keeps Failing to Protect HTTP,https://bh.ht.vc/,/u/kyle,8
-3,2014-08-07 10:50:28 -0500,"['/t/freebsd', '/t/linux']","Facebook is hiring to make ""the Linux kernel network stack rival or exceed that of FreeBSD""",https://www.facebook.com/careers/department?req=a0IA000000Cz53VMAR,/u/journeysquid,7
-3,2014-08-07 09:29:38 -0500,['/t/web'],We Analysed The Homepages Of 20 Awesome Startups And Here Is What We Learnt,http://outside.hotjar.com/2014/08/07/we-analyzed-the-homepages-of-30-successful-startups-and-here-is-what-we-learnt/,/u/marcvb,8
-5,2014-08-07 09:19:46 -0500,['/t/science'],"Aspirin a day could dramatically cut cancer risk, says biggest study yet",http://www.theguardian.com/science/2014/aug/06/aspirin-could-dramtically-cut-cancer-risk-say-scientists-biggest-study-yet,/u/journeysquid,7
-0,2014-08-07 14:12:01 -0500,"['/t/culture', '/t/lisp', '/t/philosophy', '/t/rant']","Scsh Reference Manual: ""I did it. I did it all, by myself"" - Olin Shivers",http://scsh.net/docu/html/man.html,/u/ika,24
-0,2014-08-07 11:43:36 -0500,"['/t/assembly', '/t/compsci']",McSema: A native code to LLVM IR translation framework,http://blog.trailofbits.com/2014/08/07/mcsema-is-officially-open-source/,/u/wyc,7
-0,2014-08-07 14:00:45 -0500,['/t/api'],ESPN shutting down its sports API,http://developer.espn.com/blog/read/publicretirement,/u/kb,3
-0,2014-08-07 10:06:35 -0500,"['/t/art', '/t/hardware']",Hitchhiking robot has survived one third of journey across Canada,http://www.washingtonpost.com/blogs/innovations/wp/2014/08/07/hitchhiking-robot-has-survived-one-third-of-journey-across-canada/?tid=collaborative_1.0_strip_3,/u/animatronic,5
-0,2014-08-07 20:16:25 -0500,['/t/devops'],Prevent authentication timeouts during long Chef runs,https://sethvargo.com/prevent-authentication-timeouts-during-long-chef-runs/,/u/sethvargo,1
+0,2014-08-09 09:14:48 -0500,/t/culture,Silicon Valley Tech Entrepreneurs: Behind the Stereotype,http://www.businessweek.com/articles/2014-08-07/silicon-valley-tech-entrepreneurs-behind-the-stereotype,/u/jkkm,1
+0,2014-08-08 15:43:09 -0500,"/t/erlang,/t/programming",Keynote - Jose Valim - Elixir Conf 2014,http://www.confreaks.com/videos/4134-elixirconf2014-keynote-elixir,/u/kGb8RNFtg6,6
+0,2014-08-08 12:29:48 -0500,"/t/pdf,/t/book,/t/compsci",Practical Foundations for Programming Languages,https://www.cs.cmu.edu/~rwh/plbook/book.pdf,/u/brinker,6
+0,2014-08-08 10:52:44 -0500,"/t/finance,/t/practices",The worst 7 mistakes that cost money and resources on software development projects,http://strongpoint.io/blog/2014/08/08/seven-mistakes/,/u/helglu,7
+0,2014-08-08 22:06:59 -0500,"/t/design,/t/web",WeasyPrint - Converts HTML + CSS to PDF,http://weasyprint.org/,/u/flyingfisch,1
+0,2014-08-08 12:31:23 -0500,"/t/pdf,/t/compsci,/t/haskell",The Essence of Dataflow Programming,http://cs.ioc.ee/~tarmo/papers/essence.pdf,/u/brinker,4
+0,2014-08-08 14:14:17 -0500,"/t/distributed,/t/linux",DMTCP : Distributed MultiThreaded Checkpointing,http://dmtcp.sourceforge.net/,/u/animatronic,3
+4,2014-08-08 11:03:30 -0500,"/t/culture,/t/finance",The Disruption Machine,http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine?currentPage=all,/u/steveklabnik,6
+1,2014-08-07 23:03:51 -0500,"/t/programming,/t/release,/t/unix","rumpkernel, now on bare metal",http://blog.netbsd.org/tnf/entry/an_internet_ready_os_from,/u/kaveman,11
+1,2014-08-07 22:22:22 -0500,"/t/distributed,/t/linux",CRIU - Checkpoint/Restore In Userspace,http://criu.org/Main_Page,/u/animatronic,10
+0,2014-08-08 05:09:45 -0500,"/t/video,/t/lisp",Composing Test Generators,https://www.youtube.com/watch?v=4-sPhFtGwZk&feature=youtu.be,/u/SeanTAllen,4
+0,2014-08-07 19:35:04 -0500,"/t/cryptocurrencies,/t/security",BGP Hijacking for Cryptocurrency Profit,http://www.secureworks.com/cyber-threat-intelligence/threats/bgp-hijacking-for-cryptocurrency-profit/,/u/patrickod,9
+0,2014-08-08 10:41:56 -0500,/t/javascript,Composable Generators in Javascript,http://jeremydmiller.com/2014/08/08/composable-generators-in-javascript/,/u/statenjason,1
+0,2014-08-08 09:37:34 -0500,/t/databases,Docker PostgreSQL Workflow,http://davidamick.wordpress.com/2014/07/19/docker-postgresql-workflow/,/u/jm,1
+0,2014-08-07 13:47:09 -0500,"/t/go,/t/programming",Go 1.4 GC roadmap,http://golang.org/s/go14gc,/u/steveklabnik,14
+3,2014-08-07 13:50:24 -0500,"/t/api,/t/go,/t/programming",What are the top 150 most used Go functions?,https://sourcegraph.com/blog/top-150-most-used-golang-functions,/u/sqs,7
+0,2014-08-07 16:24:50 -0500,/t/security,The BEAST Wins Again: Why TLS Keeps Failing to Protect HTTP,https://bh.ht.vc/,/u/kyle,8
+3,2014-08-07 10:50:28 -0500,"/t/freebsd,/t/linux","Facebook is hiring to make ""the Linux kernel network stack rival or exceed that of FreeBSD""",https://www.facebook.com/careers/department?req=a0IA000000Cz53VMAR,/u/journeysquid,7
+3,2014-08-07 09:29:38 -0500,/t/web,We Analysed The Homepages Of 20 Awesome Startups And Here Is What We Learnt,http://outside.hotjar.com/2014/08/07/we-analyzed-the-homepages-of-30-successful-startups-and-here-is-what-we-learnt/,/u/marcvb,8
+5,2014-08-07 09:19:46 -0500,/t/science,"Aspirin a day could dramatically cut cancer risk, says biggest study yet",http://www.theguardian.com/science/2014/aug/06/aspirin-could-dramtically-cut-cancer-risk-say-scientists-biggest-study-yet,/u/journeysquid,7
+0,2014-08-07 14:12:01 -0500,"/t/culture,/t/lisp,/t/philosophy,/t/rant","Scsh Reference Manual: ""I did it. I did it all, by myself"" - Olin Shivers",http://scsh.net/docu/html/man.html,/u/ika,24
+0,2014-08-07 11:43:36 -0500,"/t/assembly,/t/compsci",McSema: A native code to LLVM IR translation framework,http://blog.trailofbits.com/2014/08/07/mcsema-is-officially-open-source/,/u/wyc,7
+0,2014-08-07 14:00:45 -0500,/t/api,ESPN shutting down its sports API,http://developer.espn.com/blog/read/publicretirement,/u/kb,3
+0,2014-08-07 10:06:35 -0500,"/t/art,/t/hardware",Hitchhiking robot has survived one third of journey across Canada,http://www.washingtonpost.com/blogs/innovations/wp/2014/08/07/hitchhiking-robot-has-survived-one-third-of-journey-across-canada/?tid=collaborative_1.0_strip_3,/u/animatronic,5
+0,2014-08-07 20:16:25 -0500,/t/devops,Prevent authentication timeouts during long Chef runs,https://sethvargo.com/prevent-authentication-timeouts-during-long-chef-runs/,/u/sethvargo,1

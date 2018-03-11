@@ -1,25 +1,25 @@
-2,2016-08-25 18:25:37 -0500,"['/t/privacy', '/t/release', '/t/security']",The Guardian Project (software) - Wikipedia,https://en.wikipedia.org/wiki/The_Guardian_Project_(software),/u/chadski,6
-2,2016-08-25 15:43:47 -0500,['/t/python'],Is Sublime Text still a good choice for writing Python in 2016?,https://dbader.org/blog/sublime-text-for-python-development-2016-review,/u/dbader,3
-1,2016-08-25 22:13:00 -0500,"['/t/crypto', '/t/distributed', '/t/networking']",Consensus without Trust: Cryptographic Enforcement of Distributed Protocols,http://www.alexkyte.me/2016/08/consensus-without-trust-cryptographic.html,/u/pushcx,3
-0,2016-08-25 19:57:36 -0500,"['/t/api', '/t/browsers', '/t/javascript', '/t/nodejs', '/t/web']",I Don't Need No Stinking API - Web Scraping in 2016 and Beyond,https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/,/u/franciskim,2
-2,2016-08-25 07:28:18 -0500,['/t/vcs'],Git undo,http://megakemp.com/2016/08/25/git-undo/,/u/hoopla,16
-0,2016-08-25 11:44:20 -0500,"['/t/erlang', '/t/programming']",Erlang beauty (2015),http://blog.ikura.co/posts/erlang-beauty.html,/u/nato,5
-4,2016-08-25 03:56:48 -0500,"['/t/emacs', '/t/historical']",The Glorious Horror of TECO,http://goodmath.scientopia.org/2010/11/30/the-glorious-horror-of-teco/,/u/evhan,15
-0,2016-08-25 14:27:39 -0500,['/t/devops'],Terraform for a NodeJS app,https://www.digitalocean.com/community/tutorials/how-to-deploy-a-node-js-app-using-terraform-on-ubuntu-14-04,/u/tschellenbach,6
-0,2016-08-25 12:35:55 -0500,"['/t/hardware', '/t/historical', '/t/reversing']",Recovering Atari ST ASIC designs,http://www.chzsoft.de/asic-web/,/u/calvin,6
-0,2016-08-25 07:49:07 -0500,"['/t/c', '/t/programming']",sparsepp: improving on Google's already great sparsehash,https://github.com/greg7mdp/sparsepp,/u/greg7mdp,5
-0,2016-08-25 18:05:58 -0500,"['/t/api', '/t/games', '/t/javascript']",[Tutorial] 3D basketball game made in browser. You can make it too! (Part 3),https://medium.com/whitestormjs-framework/developing-a-street-basketball-game-part-lll-level-selecting-and-stats-b076747b13b3#.6qcqj6bxz,/u/alex2401,1
-1,2016-08-25 16:09:26 -0500,"['/t/compilers', '/t/release']",EXE — DepTypes Language with Encodings,https://github.com/groupoid/exe,/u/pushcx,2
-0,2016-08-25 11:53:27 -0500,['/t/python'],Conda: Myths and Misconceptions,https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/,/u/ngoldbaum,5
-8,2016-08-24 21:14:17 -0500,['/t/dotnet'],What's New in C# 7.0,https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/,/u/tedu,15
-2,2016-08-25 02:18:15 -0500,"['/t/pdf', '/t/security']",Keystroke Recognition Using WiFi Signals,https://www.sigmobile.org/mobicom/2015/papers/p90-aliA.pdf,/u/fcbsd,10
-1,2016-08-25 11:52:32 -0500,['/t/go'],Announcing First-Class Go Support - Backtrace I/O,http://backtrace.io/blog/blog/2016/07/21/go-support,/u/adsouza,2
-39,2016-08-24 11:16:03 -0500,"['/t/javascript', '/t/meta', '/t/nodejs']",Meta: 'nodejs' tag,/s/j2bxnz/meta_nodejs_tag,/u/carlesfe,29
-0,2016-08-25 08:55:47 -0500,"['/t/assembly', '/t/hardware']",How many x86 instructions are there?,https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/,/u/ehamberg,5
-0,2016-08-25 12:42:20 -0500,"['/t/javascript', '/t/programming', '/t/web']",Composition is King,https://www.joezimjs.com/javascript/composition-is-king/,/u/joezimjs,1
-12,2016-08-24 07:17:15 -0500,"['/t/practices', '/t/programming']","Less stress, more productivity: why working fewer hours is better for you and your employer",https://codewithoutrules.com/2016/08/18/productive-programmer/,/u/itamarst,21
-1,2016-08-25 03:34:17 -0500,"['/t/historical', '/t/linux']",Happy 25th birthday Linux,https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ,/u/mjturner,7
-13,2016-08-24 12:45:26 -0500,"['/t/practices', '/t/programming']",On technical debt (now with chickens!),https://usingimho.wordpress.com/2012/02/27/on-technical-debt-now-with-chickens/,/u/JeremyMorgan,18
-29,2016-08-24 06:11:34 -0500,"['/t/javascript', '/t/nodejs']","npm - ""fs"" unpublished and restored",https://npmjs.statuspage.io/incidents/dw8cr1lwxkcr,/u/Screwtape,35
-3,2016-08-24 17:23:48 -0500,"['/t/lisp', '/t/programming']",Dinosaur and Lisp,http://vito.sdf.org/dino.html,/u/dwc,14
-0,2016-08-24 22:29:42 -0500,"['/t/ios', '/t/practices']","Vesper, Adieu",http://daringfireball.net/2016/08/vesper_adieu,/u/calvin,10
+2,2016-08-25 18:25:37 -0500,"/t/privacy,/t/release,/t/security",The Guardian Project (software) - Wikipedia,https://en.wikipedia.org/wiki/The_Guardian_Project_(software),/u/chadski,6
+2,2016-08-25 15:43:47 -0500,/t/python,Is Sublime Text still a good choice for writing Python in 2016?,https://dbader.org/blog/sublime-text-for-python-development-2016-review,/u/dbader,3
+1,2016-08-25 22:13:00 -0500,"/t/crypto,/t/distributed,/t/networking",Consensus without Trust: Cryptographic Enforcement of Distributed Protocols,http://www.alexkyte.me/2016/08/consensus-without-trust-cryptographic.html,/u/pushcx,3
+0,2016-08-25 19:57:36 -0500,"/t/api,/t/browsers,/t/javascript,/t/nodejs,/t/web",I Don't Need No Stinking API - Web Scraping in 2016 and Beyond,https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/,/u/franciskim,2
+2,2016-08-25 07:28:18 -0500,/t/vcs,Git undo,http://megakemp.com/2016/08/25/git-undo/,/u/hoopla,16
+0,2016-08-25 11:44:20 -0500,"/t/erlang,/t/programming",Erlang beauty (2015),http://blog.ikura.co/posts/erlang-beauty.html,/u/nato,5
+4,2016-08-25 03:56:48 -0500,"/t/emacs,/t/historical",The Glorious Horror of TECO,http://goodmath.scientopia.org/2010/11/30/the-glorious-horror-of-teco/,/u/evhan,15
+0,2016-08-25 14:27:39 -0500,/t/devops,Terraform for a NodeJS app,https://www.digitalocean.com/community/tutorials/how-to-deploy-a-node-js-app-using-terraform-on-ubuntu-14-04,/u/tschellenbach,6
+0,2016-08-25 12:35:55 -0500,"/t/hardware,/t/historical,/t/reversing",Recovering Atari ST ASIC designs,http://www.chzsoft.de/asic-web/,/u/calvin,6
+0,2016-08-25 07:49:07 -0500,"/t/c,/t/programming",sparsepp: improving on Google's already great sparsehash,https://github.com/greg7mdp/sparsepp,/u/greg7mdp,5
+0,2016-08-25 18:05:58 -0500,"/t/api,/t/games,/t/javascript",[Tutorial] 3D basketball game made in browser. You can make it too! (Part 3),https://medium.com/whitestormjs-framework/developing-a-street-basketball-game-part-lll-level-selecting-and-stats-b076747b13b3#.6qcqj6bxz,/u/alex2401,1
+1,2016-08-25 16:09:26 -0500,"/t/compilers,/t/release",EXE — DepTypes Language with Encodings,https://github.com/groupoid/exe,/u/pushcx,2
+0,2016-08-25 11:53:27 -0500,/t/python,Conda: Myths and Misconceptions,https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/,/u/ngoldbaum,5
+8,2016-08-24 21:14:17 -0500,/t/dotnet,What's New in C# 7.0,https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/,/u/tedu,15
+2,2016-08-25 02:18:15 -0500,"/t/pdf,/t/security",Keystroke Recognition Using WiFi Signals,https://www.sigmobile.org/mobicom/2015/papers/p90-aliA.pdf,/u/fcbsd,10
+1,2016-08-25 11:52:32 -0500,/t/go,Announcing First-Class Go Support - Backtrace I/O,http://backtrace.io/blog/blog/2016/07/21/go-support,/u/adsouza,2
+39,2016-08-24 11:16:03 -0500,"/t/javascript,/t/meta,/t/nodejs",Meta: 'nodejs' tag,/s/j2bxnz/meta_nodejs_tag,/u/carlesfe,29
+0,2016-08-25 08:55:47 -0500,"/t/assembly,/t/hardware",How many x86 instructions are there?,https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/,/u/ehamberg,5
+0,2016-08-25 12:42:20 -0500,"/t/javascript,/t/programming,/t/web",Composition is King,https://www.joezimjs.com/javascript/composition-is-king/,/u/joezimjs,1
+12,2016-08-24 07:17:15 -0500,"/t/practices,/t/programming","Less stress, more productivity: why working fewer hours is better for you and your employer",https://codewithoutrules.com/2016/08/18/productive-programmer/,/u/itamarst,21
+1,2016-08-25 03:34:17 -0500,"/t/historical,/t/linux",Happy 25th birthday Linux,https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ,/u/mjturner,7
+13,2016-08-24 12:45:26 -0500,"/t/practices,/t/programming",On technical debt (now with chickens!),https://usingimho.wordpress.com/2012/02/27/on-technical-debt-now-with-chickens/,/u/JeremyMorgan,18
+29,2016-08-24 06:11:34 -0500,"/t/javascript,/t/nodejs","npm - ""fs"" unpublished and restored",https://npmjs.statuspage.io/incidents/dw8cr1lwxkcr,/u/Screwtape,35
+3,2016-08-24 17:23:48 -0500,"/t/lisp,/t/programming",Dinosaur and Lisp,http://vito.sdf.org/dino.html,/u/dwc,14
+0,2016-08-24 22:29:42 -0500,"/t/ios,/t/practices","Vesper, Adieu",http://daringfireball.net/2016/08/vesper_adieu,/u/calvin,10

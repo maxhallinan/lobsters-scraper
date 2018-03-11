@@ -1,25 +1,25 @@
-1,2016-02-22 18:49:28 -0600,"['/t/historical', '/t/law']","Vernor v. Autodesk, Inc","https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.",/u/friendlysock,6
-1,2016-02-22 12:17:20 -0600,['/t/security'],Issues with corporate censorship and mass surveillance,https://trac.torproject.org/projects/tor/ticket/18361,/u/355E3B,13
-0,2016-02-22 23:50:24 -0600,"['/t/culture', '/t/practices']",What Happens After Burnout?,http://redqueencoder.com/what-happens-after-burnout/,/u/friendlysock,6
-16,2016-02-22 06:31:38 -0600,['/t/satire'],Don't write code on line #45,http://brianmckenna.org/blog/line45,/u/puffnfresh,43
-0,2016-02-22 14:42:04 -0600,['/t/android'],Kotlin + Android: Easily Storing a List in SharedPreferences with Custom Accessors,http://blog.dennislysenko.com/2016/01/22/kotlin-easily-storing-a-list-in-sharedpreferences-with-custom-accessors/,/u/dennisl,4
-3,2016-02-22 08:00:01 -0600,"['/t/linux', '/t/security']",CVE-2016-2384: arbitrary code execution due to a double-free in the usb-midi linux kernel driver,https://xairy.github.io/blog/2016/cve-2016-2384,/u/lattera,9
-0,2016-02-23 00:19:59 -0600,['/t/go'],Causal Profiling for Go,https://morsmachine.dk/causalprof,/u/elasticdog,2
-0,2016-02-22 23:59:30 -0600,['/t/graphics'],Vulkan Tutorial,https://gist.github.com/graphitemaster/e162a24e57379af840d4,/u/zgrep,2
-1,2016-02-22 16:46:34 -0600,['/t/javascript'],Announcing TypeScript 1.8,https://blogs.msdn.microsoft.com/typescript/2016/02/22/announcing-typescript-1-8-2/,/u/joshuacc,5
-5,2016-02-22 10:21:50 -0600,['/t/privacy'],Edward Snowden on the Apple vs FBI case,https://twitter.com/snowden/status/699997565987745792,/u/flyingfisch,3
-13,2016-02-21 22:49:24 -0600,['/t/law'],FBI Director Comments on San Bernardino Matter,https://www.fbi.gov/news/pressrel/press-releases/fbi-director-comments-on-san-bernardino-matter,/u/marvindanig,12
-13,2016-02-21 12:14:01 -0600,['/t/programming'],Don't use the greater than sign in programming,http://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html,/u/pushcx,31
-0,2016-02-22 17:16:11 -0600,"['/t/math', '/t/programming']",Recursive Cartography: First Steps with TensorFlow and Deep Learning,http://benkampha.us/posts/2016-02-22.html,/u/carinmeier,2
-2,2016-02-22 10:13:00 -0600,"['/t/practices', '/t/vcs']",Simple Git Flow With Heroku Pipelines,http://marcgg.com/blog/2016/02/22/git-flow-heroku-pipelines,/u/julienXX,3
-0,2016-02-22 05:42:08 -0600,"['/t/javascript', '/t/web']",Proposal: “Statements as Expressions” using do,https://ponyfoo.com/articles/proposal-statements-as-expressions-using-do,/u/ponyfoo,4
-0,2016-02-22 07:41:16 -0600,"['/t/databases', '/t/programming']",Interview with Jay Kreps about Apache Kafka,https://medium.com/this-is-not-a-monad-tutorial/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca,/u/unbalancedparentheses,3
-0,2016-02-22 15:51:41 -0600,['/t/privacy'],CALEA Limits the All Writs Act and Protects the Security of Apple's Phones,https://cyberlaw.stanford.edu/blog/2016/02/calea-limits-all-writs-act-and-protects-security-apples-phones,/u/apg,2
-0,2016-02-22 09:09:31 -0600,['/t/reversing'],Reverse engineering the ARM1 processor's microinstructions,http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html,/u/lattera,5
-0,2016-02-22 10:24:29 -0600,"['/t/networking', '/t/testing']",A mystery with memory leaks and a magic number,http://rachelbythebay.com/w/2016/02/21/malloc/,/u/awreece,4
-3,2016-02-22 00:30:04 -0600,"['/t/distributed', '/t/networking', '/t/web']",PeerTweet — Decentralized feeds using BitTorrent's DHT,https://github.com/lmatteis/peer-tweet,/u/itistoday,10
-5,2016-02-21 22:17:52 -0600,"['/t/programming', '/t/rust']",Scripting without garbage collector,http://blog.piston.rs/2016/02/21/scripting-without-garbage-collector/,/u/zem,8
-0,2016-02-22 20:10:34 -0600,"['/t/culture', '/t/practices']",The Wetware Crisis: the Dead Sea effect (2008),http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/,/u/jitterted,2
-0,2016-02-21 20:43:18 -0600,['/t/graphics'],The Compositing Tree,http://nothings.org/gamedev/compositing_tree/,/u/pushcx,14
-0,2016-02-22 10:28:08 -0600,"['/t/culture', '/t/games']",The Real Mayors of 'SimCity',http://motherboard.vice.com/read/the-real-mayors-of-simcity,/u/calvin,5
-2,2016-02-21 23:44:34 -0600,['/t/cogsci'],Novice pilot skills improved via expert-pilot brainwave patterns,http://www.kurzweilai.net/now-you-can-learn-to-fly-a-plane-from-expert-pilot-brainwave-patterns,/u/pushcx,6
+1,2016-02-22 18:49:28 -0600,"/t/historical,/t/law","Vernor v. Autodesk, Inc","https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.",/u/friendlysock,6
+1,2016-02-22 12:17:20 -0600,/t/security,Issues with corporate censorship and mass surveillance,https://trac.torproject.org/projects/tor/ticket/18361,/u/355E3B,13
+0,2016-02-22 23:50:24 -0600,"/t/culture,/t/practices",What Happens After Burnout?,http://redqueencoder.com/what-happens-after-burnout/,/u/friendlysock,6
+16,2016-02-22 06:31:38 -0600,/t/satire,Don't write code on line #45,http://brianmckenna.org/blog/line45,/u/puffnfresh,43
+0,2016-02-22 14:42:04 -0600,/t/android,Kotlin + Android: Easily Storing a List in SharedPreferences with Custom Accessors,http://blog.dennislysenko.com/2016/01/22/kotlin-easily-storing-a-list-in-sharedpreferences-with-custom-accessors/,/u/dennisl,4
+3,2016-02-22 08:00:01 -0600,"/t/linux,/t/security",CVE-2016-2384: arbitrary code execution due to a double-free in the usb-midi linux kernel driver,https://xairy.github.io/blog/2016/cve-2016-2384,/u/lattera,9
+0,2016-02-23 00:19:59 -0600,/t/go,Causal Profiling for Go,https://morsmachine.dk/causalprof,/u/elasticdog,2
+0,2016-02-22 23:59:30 -0600,/t/graphics,Vulkan Tutorial,https://gist.github.com/graphitemaster/e162a24e57379af840d4,/u/zgrep,2
+1,2016-02-22 16:46:34 -0600,/t/javascript,Announcing TypeScript 1.8,https://blogs.msdn.microsoft.com/typescript/2016/02/22/announcing-typescript-1-8-2/,/u/joshuacc,5
+5,2016-02-22 10:21:50 -0600,/t/privacy,Edward Snowden on the Apple vs FBI case,https://twitter.com/snowden/status/699997565987745792,/u/flyingfisch,3
+13,2016-02-21 22:49:24 -0600,/t/law,FBI Director Comments on San Bernardino Matter,https://www.fbi.gov/news/pressrel/press-releases/fbi-director-comments-on-san-bernardino-matter,/u/marvindanig,12
+13,2016-02-21 12:14:01 -0600,/t/programming,Don't use the greater than sign in programming,http://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html,/u/pushcx,31
+0,2016-02-22 17:16:11 -0600,"/t/math,/t/programming",Recursive Cartography: First Steps with TensorFlow and Deep Learning,http://benkampha.us/posts/2016-02-22.html,/u/carinmeier,2
+2,2016-02-22 10:13:00 -0600,"/t/practices,/t/vcs",Simple Git Flow With Heroku Pipelines,http://marcgg.com/blog/2016/02/22/git-flow-heroku-pipelines,/u/julienXX,3
+0,2016-02-22 05:42:08 -0600,"/t/javascript,/t/web",Proposal: “Statements as Expressions” using do,https://ponyfoo.com/articles/proposal-statements-as-expressions-using-do,/u/ponyfoo,4
+0,2016-02-22 07:41:16 -0600,"/t/databases,/t/programming",Interview with Jay Kreps about Apache Kafka,https://medium.com/this-is-not-a-monad-tutorial/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca,/u/unbalancedparentheses,3
+0,2016-02-22 15:51:41 -0600,/t/privacy,CALEA Limits the All Writs Act and Protects the Security of Apple's Phones,https://cyberlaw.stanford.edu/blog/2016/02/calea-limits-all-writs-act-and-protects-security-apples-phones,/u/apg,2
+0,2016-02-22 09:09:31 -0600,/t/reversing,Reverse engineering the ARM1 processor's microinstructions,http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html,/u/lattera,5
+0,2016-02-22 10:24:29 -0600,"/t/networking,/t/testing",A mystery with memory leaks and a magic number,http://rachelbythebay.com/w/2016/02/21/malloc/,/u/awreece,4
+3,2016-02-22 00:30:04 -0600,"/t/distributed,/t/networking,/t/web",PeerTweet — Decentralized feeds using BitTorrent's DHT,https://github.com/lmatteis/peer-tweet,/u/itistoday,10
+5,2016-02-21 22:17:52 -0600,"/t/programming,/t/rust",Scripting without garbage collector,http://blog.piston.rs/2016/02/21/scripting-without-garbage-collector/,/u/zem,8
+0,2016-02-22 20:10:34 -0600,"/t/culture,/t/practices",The Wetware Crisis: the Dead Sea effect (2008),http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/,/u/jitterted,2
+0,2016-02-21 20:43:18 -0600,/t/graphics,The Compositing Tree,http://nothings.org/gamedev/compositing_tree/,/u/pushcx,14
+0,2016-02-22 10:28:08 -0600,"/t/culture,/t/games",The Real Mayors of 'SimCity',http://motherboard.vice.com/read/the-real-mayors-of-simcity,/u/calvin,5
+2,2016-02-21 23:44:34 -0600,/t/cogsci,Novice pilot skills improved via expert-pilot brainwave patterns,http://www.kurzweilai.net/now-you-can-learn-to-fly-a-plane-from-expert-pilot-brainwave-patterns,/u/pushcx,6

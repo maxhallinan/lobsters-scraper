@@ -1,25 +1,25 @@
-0,2017-06-30 14:55:03 -0500,"['/t/nodejs', '/t/release']",chalk/chalk 2.0 released,https://github.com/chalk/chalk/releases/tag/v2.0.0,/u/friendlysock,2
-1,2017-06-30 15:50:49 -0500,"['/t/book', '/t/culture', '/t/practices']",books chapter two,http://www.tedunangst.com/flak/post/books-chapter-two,/u/calvin,4
-0,2017-06-30 11:44:27 -0500,['/t/compsci'],State Machines – Basics of Computer Science (2011),http://blog.markshead.com/869/state-machines-computer-science/,/u/pushcx,3
-0,2017-06-30 13:22:53 -0500,['/t/databases'],Efficient rollup tables with HyperLogLog in Postgres,https://www.citusdata.com/blog/2017/06/30/efficient-rollup-with-hyperloglog-on-postgres/,/u/craigkerstiens,2
-0,2017-06-30 10:11:38 -0500,['/t/graphics'],Forward vs Deferred vs Forward+ with DX11,https://www.3dgep.com/forward-plus/,/u/mikejsavage,3
-4,2017-06-29 16:02:28 -0500,"['/t/hardware', '/t/reversing']",A determined 'hacker' decrypts RDS-TMC,http://www.windytan.com/2013/05/a-determined-hacker-decrypts-rds-tmc.html,/u/hobbes,15
-0,2017-06-30 09:30:48 -0500,"['/t/video', '/t/ruby']",Functional Architecture for the Practical Rubyist,https://www.icelab.com.au/notes/tim-talks-functional-architecture-at-reddotrubyconf,/u/pushcx,3
-10,2017-06-29 11:26:13 -0500,['/t/openbsd'],Running sonarr over alpine over openbsd with vmm <3,http://imgur.com/a/jNsK1,/u/gonzalo,12
-9,2017-06-30 01:15:13 -0500,['/t/testing'],Container Assisted Testing,https://medium.com/@mhausenblas/container-assisted-testing-b76ee74278b7,/u/mhausenblas,2
-9,2017-06-29 04:17:19 -0500,['/t/practices'],The .feedback scam,http://everythingsysadmin.com/2017/06/the-feedback-scam.html,/u/evaryont,35
-27,2017-06-29 06:07:45 -0500,['/t/practices'],#NoTDD,https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/,/u/joshuacc,29
-0,2017-06-30 10:12:59 -0500,"['/t/pdf', '/t/graphics']",Practical clustered shading,http://www.humus.name/Articles/PracticalClusteredShading.pdf,/u/mikejsavage,2
-3,2017-06-29 18:28:57 -0500,"['/t/programming', '/t/release']",Minoca OS 0.4 [featuring Xorg port],https://blog.minocacorp.com/minoca-os-0-4-we-love-the-eighties-170a93112db1,/u/calvin,9
-0,2017-06-30 12:04:23 -0500,"['/t/javascript', '/t/mobile']",Making the Jump: How Desktop-Era Frameworks Can Thrive on Mobile,https://tomdale.net/2017/04/making-the-jump/,/u/pushcx,1
-0,2017-06-29 17:42:05 -0500,['/t/art'],Making Poetry in Piet,http://theorangeduck.com/page/making-poetry-piet,/u/hobbes,12
-0,2017-06-30 10:50:16 -0500,"['/t/audio', '/t/historical', '/t/java', '/t/person']","Interview with James Gosling, Father of Java",https://www.mappingthejourney.com/single-post/2017/06/29/Episode-3-Interview-with-James-Gosling-Father-of-Java,/u/calvin,1
-0,2017-06-29 15:23:25 -0500,"['/t/pdf', '/t/hardware', '/t/historical']",Saturn V Flight Manual,https://history.nasa.gov/afj/ap12fj/pdf/a12_sa507-flightmanual.pdf,/u/jpm1,14
-2,2017-06-29 11:54:10 -0500,['/t/distributed'],Delivering Billions of Messages Exactly Once,https://segment.com/blog/exactly-once-delivery/,/u/Caustic,14
-1,2017-06-29 09:05:20 -0500,['/t/ruby'],Replacing a Complex Regular Expression with a Simple Parser,http://blog.honeybadger.io/replacing-regular-expressions-with-parsers/,/u/pushcx,10
-0,2017-06-29 17:32:08 -0500,['/t/hardware'],The fundraising of the PowerPC Notebook reaches a 20% of its goal in six days,https://www.powerpc-notebook.org/2017/06/fundraising-powerpc-notebook-reaches-20-goal-six-days/,/u/sevan,6
-0,2017-06-29 16:41:25 -0500,['/t/compsci'],orlp/pdqsort -- Pattern-defeating quicksort,https://github.com/orlp/pdqsort,/u/friendlysock,6
-2,2017-06-29 02:55:28 -0500,['/t/devops'],Experiences using Terraform,https://sgoel.org/posts/experiences-using-terraform/,/u/siddhantgoel,10
-18,2017-06-29 03:10:05 -0500,"['/t/culture', '/t/linux']",Ubuntu puts ads in MOTD,https://twitter.com/astarrb/status/880170781841514496,/u/fs111,47
-6,2017-06-28 20:47:11 -0500,"['/t/education', '/t/networking']",Improve Your Hex Life With This One Weird Trick,https://medium.com/@quackingduck/improve-your-hex-life-with-this-one-weird-trick-afed36055e8c,/u/myles,11
-57,2017-06-28 12:58:17 -0500,['/t/programming'],"After 5 years of Dvorak, I am switching back to Qwerty.",https://medium.com/@xkpb/after-5-years-of-dvorak-i-am-switching-back-to-qwerty-5756b8f607de,/u/pab,26
+0,2017-06-30 14:55:03 -0500,"/t/nodejs,/t/release",chalk/chalk 2.0 released,https://github.com/chalk/chalk/releases/tag/v2.0.0,/u/friendlysock,2
+1,2017-06-30 15:50:49 -0500,"/t/book,/t/culture,/t/practices",books chapter two,http://www.tedunangst.com/flak/post/books-chapter-two,/u/calvin,4
+0,2017-06-30 11:44:27 -0500,/t/compsci,State Machines – Basics of Computer Science (2011),http://blog.markshead.com/869/state-machines-computer-science/,/u/pushcx,3
+0,2017-06-30 13:22:53 -0500,/t/databases,Efficient rollup tables with HyperLogLog in Postgres,https://www.citusdata.com/blog/2017/06/30/efficient-rollup-with-hyperloglog-on-postgres/,/u/craigkerstiens,2
+0,2017-06-30 10:11:38 -0500,/t/graphics,Forward vs Deferred vs Forward+ with DX11,https://www.3dgep.com/forward-plus/,/u/mikejsavage,3
+4,2017-06-29 16:02:28 -0500,"/t/hardware,/t/reversing",A determined 'hacker' decrypts RDS-TMC,http://www.windytan.com/2013/05/a-determined-hacker-decrypts-rds-tmc.html,/u/hobbes,15
+0,2017-06-30 09:30:48 -0500,"/t/video,/t/ruby",Functional Architecture for the Practical Rubyist,https://www.icelab.com.au/notes/tim-talks-functional-architecture-at-reddotrubyconf,/u/pushcx,3
+10,2017-06-29 11:26:13 -0500,/t/openbsd,Running sonarr over alpine over openbsd with vmm <3,http://imgur.com/a/jNsK1,/u/gonzalo,12
+9,2017-06-30 01:15:13 -0500,/t/testing,Container Assisted Testing,https://medium.com/@mhausenblas/container-assisted-testing-b76ee74278b7,/u/mhausenblas,2
+9,2017-06-29 04:17:19 -0500,/t/practices,The .feedback scam,http://everythingsysadmin.com/2017/06/the-feedback-scam.html,/u/evaryont,35
+27,2017-06-29 06:07:45 -0500,/t/practices,#NoTDD,https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/,/u/joshuacc,29
+0,2017-06-30 10:12:59 -0500,"/t/pdf,/t/graphics",Practical clustered shading,http://www.humus.name/Articles/PracticalClusteredShading.pdf,/u/mikejsavage,2
+3,2017-06-29 18:28:57 -0500,"/t/programming,/t/release",Minoca OS 0.4 [featuring Xorg port],https://blog.minocacorp.com/minoca-os-0-4-we-love-the-eighties-170a93112db1,/u/calvin,9
+0,2017-06-30 12:04:23 -0500,"/t/javascript,/t/mobile",Making the Jump: How Desktop-Era Frameworks Can Thrive on Mobile,https://tomdale.net/2017/04/making-the-jump/,/u/pushcx,1
+0,2017-06-29 17:42:05 -0500,/t/art,Making Poetry in Piet,http://theorangeduck.com/page/making-poetry-piet,/u/hobbes,12
+0,2017-06-30 10:50:16 -0500,"/t/audio,/t/historical,/t/java,/t/person","Interview with James Gosling, Father of Java",https://www.mappingthejourney.com/single-post/2017/06/29/Episode-3-Interview-with-James-Gosling-Father-of-Java,/u/calvin,1
+0,2017-06-29 15:23:25 -0500,"/t/pdf,/t/hardware,/t/historical",Saturn V Flight Manual,https://history.nasa.gov/afj/ap12fj/pdf/a12_sa507-flightmanual.pdf,/u/jpm1,14
+2,2017-06-29 11:54:10 -0500,/t/distributed,Delivering Billions of Messages Exactly Once,https://segment.com/blog/exactly-once-delivery/,/u/Caustic,14
+1,2017-06-29 09:05:20 -0500,/t/ruby,Replacing a Complex Regular Expression with a Simple Parser,http://blog.honeybadger.io/replacing-regular-expressions-with-parsers/,/u/pushcx,10
+0,2017-06-29 17:32:08 -0500,/t/hardware,The fundraising of the PowerPC Notebook reaches a 20% of its goal in six days,https://www.powerpc-notebook.org/2017/06/fundraising-powerpc-notebook-reaches-20-goal-six-days/,/u/sevan,6
+0,2017-06-29 16:41:25 -0500,/t/compsci,orlp/pdqsort -- Pattern-defeating quicksort,https://github.com/orlp/pdqsort,/u/friendlysock,6
+2,2017-06-29 02:55:28 -0500,/t/devops,Experiences using Terraform,https://sgoel.org/posts/experiences-using-terraform/,/u/siddhantgoel,10
+18,2017-06-29 03:10:05 -0500,"/t/culture,/t/linux",Ubuntu puts ads in MOTD,https://twitter.com/astarrb/status/880170781841514496,/u/fs111,47
+6,2017-06-28 20:47:11 -0500,"/t/education,/t/networking",Improve Your Hex Life With This One Weird Trick,https://medium.com/@quackingduck/improve-your-hex-life-with-this-one-weird-trick-afed36055e8c,/u/myles,11
+57,2017-06-28 12:58:17 -0500,/t/programming,"After 5 years of Dvorak, I am switching back to Qwerty.",https://medium.com/@xkpb/after-5-years-of-dvorak-i-am-switching-back-to-qwerty-5756b8f607de,/u/pab,26

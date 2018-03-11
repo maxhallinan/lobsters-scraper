@@ -1,25 +1,25 @@
-1,2016-05-09 09:28:09 -0500,"['/t/slides', '/t/practices', '/t/ruby']",Surviving the Framework Hype Cycle,https://speakerdeck.com/tehviking/surviving-the-framework-hype-cycle,/u/pushcx,15
-0,2016-05-09 09:42:52 -0500,"['/t/openbsd', '/t/privacy']",Why OpenBSD Is Important To Me,http://ggr.com/why-openbsd-is-important-to-me.html,/u/mulander,15
-0,2016-05-09 20:49:02 -0500,"['/t/video', '/t/design', '/t/historical']",AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign,https://www.youtube.com/watch?v=xKu2de0yCJI,/u/calvin,4
-1,2016-05-09 12:59:21 -0500,"['/t/openbsd', '/t/security']",SROP mitigation,https://marc.info/?l=openbsd-tech&m=146281531025185&w=2,/u/mulander,8
-8,2016-05-09 05:58:59 -0500,"['/t/assembly', '/t/linux']",Debian i386 architecture now requires a 686-class processor,https://lists.debian.org/debian-devel-announce/2016/05/msg00001.html,/u/calvin,10
-0,2016-05-09 12:07:37 -0500,"['/t/finance', '/t/math', '/t/visualization']",The OKCupid dataset: A very large public dataset of dating site users,https://osf.io/p9ixw/,/u/friendlysock,9
-5,2016-05-09 15:35:13 -0500,"['/t/person', '/t/rant']",I hate almost all software (2011),http://tinyclouds.org/rant.html,/u/mulander,9
-1,2016-05-09 16:12:02 -0500,"['/t/design', '/t/web']",h5ai · modern HTTP web server index,https://larsjung.de/h5ai/,/u/voidzero,3
-3,2016-05-09 05:59:07 -0500,['/t/devops'],I don't like Breaking Things,https://unwiredcouch.com/2016/03/18/breaking-things.html,/u/adsouza,6
-1,2016-05-09 16:20:19 -0500,"['/t/video', '/t/historical']",Vice President Al Gore Logs on to the Internet (Jan 1994),https://www.youtube.com/watch?v=UXHRWS9CYmE,/u/calvin,2
-0,2016-05-09 09:24:06 -0500,['/t/practices'],"Pioneers, Settlers and Town Planners (2012)",http://blog.gardeviance.org/2012/06/pioneers-settlers-and-town-planners.html,/u/pushcx,6
-8,2016-05-08 20:51:09 -0500,"['/t/java', '/t/javascript']",JavaPoly.js — Java(script) in the Browser,https://www.javapoly.com/,/u/calvin,8
-0,2016-05-09 00:12:13 -0500,"['/t/pdf', '/t/api', '/t/c']","POSIX Abstractions in Modern OSes: The Old, The New, The Missing",http://www.cs.columbia.edu/~vatlidak/POSIXpaper.pdf,/u/hao,9
-4,2016-05-08 21:41:00 -0500,"['/t/networking', '/t/security']",Millions of Arris cable modems vulnerable to denial-of-service flaw,http://www.zdnet.com/article/millions-of-routers-vulnerable-to-unpatched-reboot-flaw/,/u/jcs,9
-0,2016-05-08 20:06:15 -0500,"['/t/c', '/t/vim']",Grayout: Vim plugin that invokes the C preprocessor and grays out inactive code,https://github.com/mphe/grayout.vim,/u/zem,13
-18,2016-05-08 08:05:05 -0500,"['/t/compsci', '/t/programming']",Why It's Not Academia's Job to Produce Code That Ships,http://jxyzabc.blogspot.com/2016/05/why-its-not-academias-job-to-produce.html,/u/hails,23
-9,2016-05-08 10:19:17 -0500,"['/t/meta', '/t/netbsd']",New tag suggestion: netbsd,/s/n5vowd/new_tag_suggestion_netbsd,/u/coypoop,17
-2,2016-05-08 21:15:39 -0500,['/t/games'],Hacker Experience 2 - Open source location-based hacking simulator,https://www.indiegogo.com/projects/hacker-experience-2-open-source-hacking-game--2,/u/hails,6
-0,2016-05-09 11:35:36 -0500,"['/t/cryptocurrencies', '/t/security']",Hackchain – Continuous Bitcoin-Inspired CTF Competition,http://hackcha.in/,/u/mediremi,1
-5,2016-05-08 07:19:53 -0500,['/t/practices'],Professional corner-cutting,http://blog.ometer.com/2016/05/04/professional-corner-cutting/,/u/antifuchs,25
-0,2016-05-08 16:26:05 -0500,"['/t/practices', '/t/satire']",O Rly? Book Repository,https://github.com/thepracticaldev/orly-full-res,/u/friendlysock,23
-12,2016-05-08 03:21:39 -0500,['/t/programming'],Performance of green threads and why it matters,http://250bpm.com/blog:81,/u/sustrik,14
-2,2016-05-08 10:21:14 -0500,"['/t/devops', '/t/unix']",Cron best practices,https://sanctum.geek.nz/arabesque/cron-best-practices/,/u/pushcx,18
-1,2016-05-08 20:10:06 -0500,['/t/show'],PSDotFiles: Bringing simple dotfiles management to Windows,https://github.com/ralish/PSDotFiles,/u/ralish,3
-0,2016-05-08 17:02:01 -0500,"['/t/culture', '/t/person']",Steve Wozniak: walking billboard for hire,https://www.techinasia.com/talk/steve-wozniak-walking-billboard-hire,/u/calvin,16
+1,2016-05-09 09:28:09 -0500,"/t/slides,/t/practices,/t/ruby",Surviving the Framework Hype Cycle,https://speakerdeck.com/tehviking/surviving-the-framework-hype-cycle,/u/pushcx,15
+0,2016-05-09 09:42:52 -0500,"/t/openbsd,/t/privacy",Why OpenBSD Is Important To Me,http://ggr.com/why-openbsd-is-important-to-me.html,/u/mulander,15
+0,2016-05-09 20:49:02 -0500,"/t/video,/t/design,/t/historical",AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign,https://www.youtube.com/watch?v=xKu2de0yCJI,/u/calvin,4
+1,2016-05-09 12:59:21 -0500,"/t/openbsd,/t/security",SROP mitigation,https://marc.info/?l=openbsd-tech&m=146281531025185&w=2,/u/mulander,8
+8,2016-05-09 05:58:59 -0500,"/t/assembly,/t/linux",Debian i386 architecture now requires a 686-class processor,https://lists.debian.org/debian-devel-announce/2016/05/msg00001.html,/u/calvin,10
+0,2016-05-09 12:07:37 -0500,"/t/finance,/t/math,/t/visualization",The OKCupid dataset: A very large public dataset of dating site users,https://osf.io/p9ixw/,/u/friendlysock,9
+5,2016-05-09 15:35:13 -0500,"/t/person,/t/rant",I hate almost all software (2011),http://tinyclouds.org/rant.html,/u/mulander,9
+1,2016-05-09 16:12:02 -0500,"/t/design,/t/web",h5ai · modern HTTP web server index,https://larsjung.de/h5ai/,/u/voidzero,3
+3,2016-05-09 05:59:07 -0500,/t/devops,I don't like Breaking Things,https://unwiredcouch.com/2016/03/18/breaking-things.html,/u/adsouza,6
+1,2016-05-09 16:20:19 -0500,"/t/video,/t/historical",Vice President Al Gore Logs on to the Internet (Jan 1994),https://www.youtube.com/watch?v=UXHRWS9CYmE,/u/calvin,2
+0,2016-05-09 09:24:06 -0500,/t/practices,"Pioneers, Settlers and Town Planners (2012)",http://blog.gardeviance.org/2012/06/pioneers-settlers-and-town-planners.html,/u/pushcx,6
+8,2016-05-08 20:51:09 -0500,"/t/java,/t/javascript",JavaPoly.js — Java(script) in the Browser,https://www.javapoly.com/,/u/calvin,8
+0,2016-05-09 00:12:13 -0500,"/t/pdf,/t/api,/t/c","POSIX Abstractions in Modern OSes: The Old, The New, The Missing",http://www.cs.columbia.edu/~vatlidak/POSIXpaper.pdf,/u/hao,9
+4,2016-05-08 21:41:00 -0500,"/t/networking,/t/security",Millions of Arris cable modems vulnerable to denial-of-service flaw,http://www.zdnet.com/article/millions-of-routers-vulnerable-to-unpatched-reboot-flaw/,/u/jcs,9
+0,2016-05-08 20:06:15 -0500,"/t/c,/t/vim",Grayout: Vim plugin that invokes the C preprocessor and grays out inactive code,https://github.com/mphe/grayout.vim,/u/zem,13
+18,2016-05-08 08:05:05 -0500,"/t/compsci,/t/programming",Why It's Not Academia's Job to Produce Code That Ships,http://jxyzabc.blogspot.com/2016/05/why-its-not-academias-job-to-produce.html,/u/hails,23
+9,2016-05-08 10:19:17 -0500,"/t/meta,/t/netbsd",New tag suggestion: netbsd,/s/n5vowd/new_tag_suggestion_netbsd,/u/coypoop,17
+2,2016-05-08 21:15:39 -0500,/t/games,Hacker Experience 2 - Open source location-based hacking simulator,https://www.indiegogo.com/projects/hacker-experience-2-open-source-hacking-game--2,/u/hails,6
+0,2016-05-09 11:35:36 -0500,"/t/cryptocurrencies,/t/security",Hackchain – Continuous Bitcoin-Inspired CTF Competition,http://hackcha.in/,/u/mediremi,1
+5,2016-05-08 07:19:53 -0500,/t/practices,Professional corner-cutting,http://blog.ometer.com/2016/05/04/professional-corner-cutting/,/u/antifuchs,25
+0,2016-05-08 16:26:05 -0500,"/t/practices,/t/satire",O Rly? Book Repository,https://github.com/thepracticaldev/orly-full-res,/u/friendlysock,23
+12,2016-05-08 03:21:39 -0500,/t/programming,Performance of green threads and why it matters,http://250bpm.com/blog:81,/u/sustrik,14
+2,2016-05-08 10:21:14 -0500,"/t/devops,/t/unix",Cron best practices,https://sanctum.geek.nz/arabesque/cron-best-practices/,/u/pushcx,18
+1,2016-05-08 20:10:06 -0500,/t/show,PSDotFiles: Bringing simple dotfiles management to Windows,https://github.com/ralish/PSDotFiles,/u/ralish,3
+0,2016-05-08 17:02:01 -0500,"/t/culture,/t/person",Steve Wozniak: walking billboard for hire,https://www.techinasia.com/talk/steve-wozniak-walking-billboard-hire,/u/calvin,16

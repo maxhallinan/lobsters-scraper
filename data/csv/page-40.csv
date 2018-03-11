@@ -1,25 +1,25 @@
-0,2018-01-31 14:45:08 -0600,['/t/law'],Twitter and Copyright — “Twitterlogical: The Misunderstanding of Ownership”,http://www.canyoucopyrightatweet.com/,/u/calvin,0
-19,2018-01-30 03:42:32 -0600,['/t/openbsd'],Install OpenBSD on dedibox with full-disk encryption,https://poolp.org/posts/2018-01-29/install-openbsd-on-dedibox-with-full-disk-encryption/,/u/mulander,19
-0,2018-01-30 12:49:21 -0600,"['/t/ai', '/t/math']",The Matrix Calculus You Need For Deep Learning,http://parrt.cs.usfca.edu/doc/matrix-calculus/,/u/mjn,14
-1,2018-01-30 06:58:45 -0600,['/t/programming'],Why we wrote our Kafka Client in Pony,https://blog.wallaroolabs.com/2018/01/why-we-wrote-our-kafka-client-in-pony/,/u/hackofmanytrades,13
-0,2018-01-30 08:49:47 -0600,"['/t/hardware', '/t/security']","An accessible overview of Meltdown and Spectre, Part 1",https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/,/u/artem,11
-3,2018-01-30 10:20:35 -0600,"['/t/openbsd', '/t/visualization']",Monitor OpenSMTPD using Logstash and Grafana,https://www.tumfatig.net/20180129/monitor-opensmtpd-using-logstash-grafana/,/u/mulander,11
-0,2018-01-30 09:04:20 -0600,"['/t/c++', '/t/haskell']","Design Patterns in Haskell, Part 1: The Strategy Pattern",http://storm-country.com/blog/gof-strategy,/u/asthasr,17
-0,2018-01-31 08:08:33 -0600,"['/t/c++', '/t/culture', '/t/rant']",C++ and the Culture of Complexity,http://blog.greaterthanzero.com/post/58482859780/c-and-the-culture-of-complexity,/u/friendlysock,4
-0,2018-01-31 04:11:14 -0600,['/t/javascript'],What’s new in ECMAScript 2018,https://www.bram.us/2018/01/30/whats-new-in-ecmascript2018/,/u/emrox,1
-0,2018-01-31 03:52:23 -0600,"['/t/reversing', '/t/windows']",Windows Privilege Escalation Guide,http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/,/u/fcbsd,1
-34,2018-01-30 03:40:49 -0600,"['/t/browsers', '/t/privacy']",Firefox to emit ‘occasional sponsored story’ in ads test,https://www.theregister.co.uk/2018/01/29/firefox_to_show_occasional_sponsored_story_in_ads_test/,/u/av,11
-2,2018-01-29 15:39:10 -0600,"['/t/programming', '/t/rust']",Rust Lifetimes for the Uninitialised,http://asquera.de/blog/2018-01-29/rust-lifetimes-for-the-uninitialised/,/u/skade,40
-10,2018-01-29 17:54:56 -0600,"['/t/games', '/t/graphics', '/t/release']",Godot 3.0 is out and ready for the big leagues,https://godotengine.org/article/godot-3-0-released,/u/friendlysock,27
-2,2018-01-30 04:15:24 -0600,['/t/linux'],LKRG - Linux Kernel Runtime Guard,http://www.openwall.com/lkrg/,/u/przemoc,8
-3,2018-01-30 07:17:03 -0600,"['/t/networking', '/t/security']","Ugly, perfect ten-rated bug hits Cisco VPNs",https://www.theregister.co.uk/2018/01/30/cisco_asa_and_firepower_cvss_10_0_bug_patch_asap/,/u/szbalint,5
-0,2018-01-30 07:57:55 -0600,"['/t/education', '/t/practices']",Not an expert? You can still teach,https://codewithoutrules.com/2018/01/30/teaching-when-youre-not-an-expert/,/u/itamarst,4
-0,2018-01-30 16:47:59 -0600,"['/t/video', '/t/games', '/t/historical']",DOOM MYST 20 Years After (2014),https://vimeo.com/92838909,/u/sevan,2
-0,2018-01-30 16:38:49 -0600,"['/t/video', '/t/event']",F(by) 2017 - Functional Programming Conference,https://www.youtube.com/watch?v=DebDaiYev2M&list=PLpVeA1tdgfCCUuAtFl0N5wzatXx0gWLKM,/u/nanxiao,2
-0,2018-01-30 11:33:11 -0600,['/t/databases'],CrateDB adds HyperLogLog for high cardinality big data distinct count functions,https://crate.io/a/feature-focus-making-things-hyper-fast-fast/,/u/nslater,4
-0,2018-01-30 20:15:16 -0600,"['/t/ai', '/t/visualization']",Caviar’s Word2Vec Tagging For Menu Item Recommendations,https://medium.com/square-corner-blog/caviars-word2vec-tagging-for-menu-item-recommendations-13f63d7f09d8,/u/Caustic,1
-0,2018-01-30 08:00:46 -0600,['/t/vcs'],"On undoing, fixing, or removing commits in git",https://sethrobertson.github.io/GitFixUm/fixup.html,/u/calvin,6
-2,2018-01-30 09:10:55 -0600,"['/t/programming', '/t/rant']",Concurrency != Parallelism,https://monades.roperzh.com/concurrency-is-different-than-parallelism/,/u/roperzh,2
-0,2018-01-30 12:13:28 -0600,['/t/crypto'],ElectronicColoringBook by doegox,https://doegox.github.io/ElectronicColoringBook/,/u/bowyakka,3
-3,2018-01-30 03:00:08 -0600,['/t/privacy'],Advanced Denanonymization through Strava,http://steveloughran.blogspot.de/2018/01/advanced-denanonymization-through-strava.html,/u/emrox,7
-0,2018-01-30 11:20:08 -0600,"['/t/pdf', '/t/c', '/t/formalmethods']","Complx: A Verification Framework for Concurrent, Imperative Programs (2017)",https://ts.data61.csiro.au/publications/nicta_full_text/9528.pdf,/u/nickpsecurity,3
+0,2018-01-31 14:45:08 -0600,/t/law,Twitter and Copyright — “Twitterlogical: The Misunderstanding of Ownership”,http://www.canyoucopyrightatweet.com/,/u/calvin,0
+19,2018-01-30 03:42:32 -0600,/t/openbsd,Install OpenBSD on dedibox with full-disk encryption,https://poolp.org/posts/2018-01-29/install-openbsd-on-dedibox-with-full-disk-encryption/,/u/mulander,19
+0,2018-01-30 12:49:21 -0600,"/t/ai,/t/math",The Matrix Calculus You Need For Deep Learning,http://parrt.cs.usfca.edu/doc/matrix-calculus/,/u/mjn,14
+1,2018-01-30 06:58:45 -0600,/t/programming,Why we wrote our Kafka Client in Pony,https://blog.wallaroolabs.com/2018/01/why-we-wrote-our-kafka-client-in-pony/,/u/hackofmanytrades,13
+0,2018-01-30 08:49:47 -0600,"/t/hardware,/t/security","An accessible overview of Meltdown and Spectre, Part 1",https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/,/u/artem,11
+3,2018-01-30 10:20:35 -0600,"/t/openbsd,/t/visualization",Monitor OpenSMTPD using Logstash and Grafana,https://www.tumfatig.net/20180129/monitor-opensmtpd-using-logstash-grafana/,/u/mulander,11
+0,2018-01-30 09:04:20 -0600,"/t/c++,/t/haskell","Design Patterns in Haskell, Part 1: The Strategy Pattern",http://storm-country.com/blog/gof-strategy,/u/asthasr,17
+0,2018-01-31 08:08:33 -0600,"/t/c++,/t/culture,/t/rant",C++ and the Culture of Complexity,http://blog.greaterthanzero.com/post/58482859780/c-and-the-culture-of-complexity,/u/friendlysock,4
+0,2018-01-31 04:11:14 -0600,/t/javascript,What’s new in ECMAScript 2018,https://www.bram.us/2018/01/30/whats-new-in-ecmascript2018/,/u/emrox,1
+0,2018-01-31 03:52:23 -0600,"/t/reversing,/t/windows",Windows Privilege Escalation Guide,http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/,/u/fcbsd,1
+34,2018-01-30 03:40:49 -0600,"/t/browsers,/t/privacy",Firefox to emit ‘occasional sponsored story’ in ads test,https://www.theregister.co.uk/2018/01/29/firefox_to_show_occasional_sponsored_story_in_ads_test/,/u/av,11
+2,2018-01-29 15:39:10 -0600,"/t/programming,/t/rust",Rust Lifetimes for the Uninitialised,http://asquera.de/blog/2018-01-29/rust-lifetimes-for-the-uninitialised/,/u/skade,40
+10,2018-01-29 17:54:56 -0600,"/t/games,/t/graphics,/t/release",Godot 3.0 is out and ready for the big leagues,https://godotengine.org/article/godot-3-0-released,/u/friendlysock,27
+2,2018-01-30 04:15:24 -0600,/t/linux,LKRG - Linux Kernel Runtime Guard,http://www.openwall.com/lkrg/,/u/przemoc,8
+3,2018-01-30 07:17:03 -0600,"/t/networking,/t/security","Ugly, perfect ten-rated bug hits Cisco VPNs",https://www.theregister.co.uk/2018/01/30/cisco_asa_and_firepower_cvss_10_0_bug_patch_asap/,/u/szbalint,5
+0,2018-01-30 07:57:55 -0600,"/t/education,/t/practices",Not an expert? You can still teach,https://codewithoutrules.com/2018/01/30/teaching-when-youre-not-an-expert/,/u/itamarst,4
+0,2018-01-30 16:47:59 -0600,"/t/video,/t/games,/t/historical",DOOM MYST 20 Years After (2014),https://vimeo.com/92838909,/u/sevan,2
+0,2018-01-30 16:38:49 -0600,"/t/video,/t/event",F(by) 2017 - Functional Programming Conference,https://www.youtube.com/watch?v=DebDaiYev2M&list=PLpVeA1tdgfCCUuAtFl0N5wzatXx0gWLKM,/u/nanxiao,2
+0,2018-01-30 11:33:11 -0600,/t/databases,CrateDB adds HyperLogLog for high cardinality big data distinct count functions,https://crate.io/a/feature-focus-making-things-hyper-fast-fast/,/u/nslater,4
+0,2018-01-30 20:15:16 -0600,"/t/ai,/t/visualization",Caviar’s Word2Vec Tagging For Menu Item Recommendations,https://medium.com/square-corner-blog/caviars-word2vec-tagging-for-menu-item-recommendations-13f63d7f09d8,/u/Caustic,1
+0,2018-01-30 08:00:46 -0600,/t/vcs,"On undoing, fixing, or removing commits in git",https://sethrobertson.github.io/GitFixUm/fixup.html,/u/calvin,6
+2,2018-01-30 09:10:55 -0600,"/t/programming,/t/rant",Concurrency != Parallelism,https://monades.roperzh.com/concurrency-is-different-than-parallelism/,/u/roperzh,2
+0,2018-01-30 12:13:28 -0600,/t/crypto,ElectronicColoringBook by doegox,https://doegox.github.io/ElectronicColoringBook/,/u/bowyakka,3
+3,2018-01-30 03:00:08 -0600,/t/privacy,Advanced Denanonymization through Strava,http://steveloughran.blogspot.de/2018/01/advanced-denanonymization-through-strava.html,/u/emrox,7
+0,2018-01-30 11:20:08 -0600,"/t/pdf,/t/c,/t/formalmethods","Complx: A Verification Framework for Concurrent, Imperative Programs (2017)",https://ts.data61.csiro.au/publications/nicta_full_text/9528.pdf,/u/nickpsecurity,3

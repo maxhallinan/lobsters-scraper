@@ -1,25 +1,25 @@
-40,2016-12-27 22:48:28 -0600,['/t/practices'],Windows and PHP are snowballs. Respect them.,http://www.virtuouscode.com/2016/12/27/windows-php-snowballs/,/u/joshuacc,23
-0,2016-12-28 08:17:07 -0600,['/t/compsci'],jscoq: A port of Coq to JavaScript,https://github.com/ejgallego/jscoq,/u/sanxiyn,15
-0,2016-12-28 12:45:57 -0600,"['/t/law', '/t/security']",Security Without Borders,https://securitywithoutborders.org,/u/quobit,6
-2,2016-12-28 11:47:09 -0600,['/t/math'],Guide to Deep Learning,http://yerevann.com/a-guide-to-deep-learning/,/u/adamnemecek,5
-0,2016-12-28 19:26:41 -0600,"['/t/pdf', '/t/crypto']",Merkle Puzzles are Optimal [2008] upd [2013],https://arxiv.org/pdf/0801.3669v3.pdf,/u/davyjones,2
-3,2016-12-27 23:35:37 -0600,"['/t/c', '/t/rust']",Rust vs C Pitfalls,http://www.garin.io/rust-vs-c-pitfalls,/u/av,10
-6,2016-12-27 19:56:27 -0600,['/t/rust'],This Year in Robigalia,https://robigalia.org/blog/2016/12/27/this-year-in-robigalia.html,/u/aminb,11
-0,2016-12-28 00:00:56 -0600,['/t/haskell'],"Haskus, a Haskell Framework for Systems Programming",http://www.haskus.org/system/,/u/av,11
-2,2016-12-27 21:53:39 -0600,"['/t/video', '/t/art', '/t/math']",How To Draw Mushrooms On An Oscilloscope With Sound,https://www.youtube.com/watch?v=rtR63-ecUNo,/u/friendlysock,11
-3,2016-12-28 03:59:40 -0600,['/t/compsci'],Alias method: A beautiful algorithm for sampling from a discrete probability distribution,https://en.wikipedia.org/wiki/Alias_method,/u/zem,4
-0,2016-12-28 00:02:04 -0600,['/t/web'],WebRTC: the future of web games,https://getkey.eu/blog/5862b0cf/webrtc:-the-future-of-web-games,/u/av,8
-0,2016-12-28 02:35:29 -0600,['/t/games'],BioShock Infinite Lighting,http://solid-angle.blogspot.com/2014/03/bioshock-infinite-lighting.html,/u/mikejsavage,6
-0,2016-12-27 16:33:54 -0600,"['/t/pdf', '/t/compsci', '/t/programming', '/t/security']","Are we there yet? 20 years of industrial, theorem proving with SPARK (2014)",http://www.spark-2014.org/uploads/itp_2014_r610.pdf,/u/nickpsecurity,14
-3,2016-12-27 16:26:32 -0600,"['/t/art', '/t/c']",zach lieberman's year of daily code sketches,https://medium.com/@zachlieberman,/u/maxbittker,9
-15,2016-12-27 11:40:12 -0600,['/t/c'],The Resurgence of C Programming,https://www.oreilly.com/learning/the-resurgence-of-c-programming,/u/av,7
-0,2016-12-27 10:58:58 -0600,['/t/ruby'],"Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding",https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding,/u/schneems,17
-0,2016-12-27 12:31:32 -0600,"['/t/video', '/t/event']",Live-Streams – 33C3 Streaming,https://streaming.media.ccc.de/33c3,/u/calvin,14
-0,2016-12-27 13:06:31 -0600,['/t/rust'],Drop-merge sort,https://github.com/emilk/drop-merge-sort,/u/yumaikas,12
-0,2016-12-27 09:45:59 -0600,['/t/compsci'],Finger Trees: A Simple General-purpose Data Structure,http://www.staff.city.ac.uk/~ross/papers/FingerTree.html,/u/av,15
-3,2016-12-27 12:07:49 -0600,"['/t/ask', '/t/linux']",Does anyone use x32 ABI of Linux?,/s/xlxx3r/does_anyone_use_x32_abi_linux,/u/hawski,7
-29,2016-12-27 00:03:16 -0600,['/t/vcs'],10 things I hate about Git (2012),https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/,/u/av,19
-6,2016-12-28 10:48:48 -0600,['/t/cogsci'],10 top fads in education and training,http://donaldclarkplanb.blogspot.com/2016/12/7-top-fads-in-hr.html,/u/quobit,0
-3,2016-12-26 23:51:45 -0600,['/t/compsci'],The little book about OS development,http://littleosbook.github.io/,/u/av,28
-7,2016-12-27 06:12:52 -0600,['/t/meta'],Tag suggestion: hpc,/s/h5gnfl/tag_suggestion_hpc,/u/olegkovalov,8
-0,2016-12-27 14:01:14 -0600,"['/t/compsci', '/t/science']",What would a very simple quantum program look like? (2011),http://cstheory.stackexchange.com/questions/9381/what-would-a-very-simple-quantum-program-look-like,/u/nil,6
+40,2016-12-27 22:48:28 -0600,/t/practices,Windows and PHP are snowballs. Respect them.,http://www.virtuouscode.com/2016/12/27/windows-php-snowballs/,/u/joshuacc,23
+0,2016-12-28 08:17:07 -0600,/t/compsci,jscoq: A port of Coq to JavaScript,https://github.com/ejgallego/jscoq,/u/sanxiyn,15
+0,2016-12-28 12:45:57 -0600,"/t/law,/t/security",Security Without Borders,https://securitywithoutborders.org,/u/quobit,6
+2,2016-12-28 11:47:09 -0600,/t/math,Guide to Deep Learning,http://yerevann.com/a-guide-to-deep-learning/,/u/adamnemecek,5
+0,2016-12-28 19:26:41 -0600,"/t/pdf,/t/crypto",Merkle Puzzles are Optimal [2008] upd [2013],https://arxiv.org/pdf/0801.3669v3.pdf,/u/davyjones,2
+3,2016-12-27 23:35:37 -0600,"/t/c,/t/rust",Rust vs C Pitfalls,http://www.garin.io/rust-vs-c-pitfalls,/u/av,10
+6,2016-12-27 19:56:27 -0600,/t/rust,This Year in Robigalia,https://robigalia.org/blog/2016/12/27/this-year-in-robigalia.html,/u/aminb,11
+0,2016-12-28 00:00:56 -0600,/t/haskell,"Haskus, a Haskell Framework for Systems Programming",http://www.haskus.org/system/,/u/av,11
+2,2016-12-27 21:53:39 -0600,"/t/video,/t/art,/t/math",How To Draw Mushrooms On An Oscilloscope With Sound,https://www.youtube.com/watch?v=rtR63-ecUNo,/u/friendlysock,11
+3,2016-12-28 03:59:40 -0600,/t/compsci,Alias method: A beautiful algorithm for sampling from a discrete probability distribution,https://en.wikipedia.org/wiki/Alias_method,/u/zem,4
+0,2016-12-28 00:02:04 -0600,/t/web,WebRTC: the future of web games,https://getkey.eu/blog/5862b0cf/webrtc:-the-future-of-web-games,/u/av,8
+0,2016-12-28 02:35:29 -0600,/t/games,BioShock Infinite Lighting,http://solid-angle.blogspot.com/2014/03/bioshock-infinite-lighting.html,/u/mikejsavage,6
+0,2016-12-27 16:33:54 -0600,"/t/pdf,/t/compsci,/t/programming,/t/security","Are we there yet? 20 years of industrial, theorem proving with SPARK (2014)",http://www.spark-2014.org/uploads/itp_2014_r610.pdf,/u/nickpsecurity,14
+3,2016-12-27 16:26:32 -0600,"/t/art,/t/c",zach lieberman's year of daily code sketches,https://medium.com/@zachlieberman,/u/maxbittker,9
+15,2016-12-27 11:40:12 -0600,/t/c,The Resurgence of C Programming,https://www.oreilly.com/learning/the-resurgence-of-c-programming,/u/av,7
+0,2016-12-27 10:58:58 -0600,/t/ruby,"Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding",https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding,/u/schneems,17
+0,2016-12-27 12:31:32 -0600,"/t/video,/t/event",Live-Streams – 33C3 Streaming,https://streaming.media.ccc.de/33c3,/u/calvin,14
+0,2016-12-27 13:06:31 -0600,/t/rust,Drop-merge sort,https://github.com/emilk/drop-merge-sort,/u/yumaikas,12
+0,2016-12-27 09:45:59 -0600,/t/compsci,Finger Trees: A Simple General-purpose Data Structure,http://www.staff.city.ac.uk/~ross/papers/FingerTree.html,/u/av,15
+3,2016-12-27 12:07:49 -0600,"/t/ask,/t/linux",Does anyone use x32 ABI of Linux?,/s/xlxx3r/does_anyone_use_x32_abi_linux,/u/hawski,7
+29,2016-12-27 00:03:16 -0600,/t/vcs,10 things I hate about Git (2012),https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/,/u/av,19
+6,2016-12-28 10:48:48 -0600,/t/cogsci,10 top fads in education and training,http://donaldclarkplanb.blogspot.com/2016/12/7-top-fads-in-hr.html,/u/quobit,0
+3,2016-12-26 23:51:45 -0600,/t/compsci,The little book about OS development,http://littleosbook.github.io/,/u/av,28
+7,2016-12-27 06:12:52 -0600,/t/meta,Tag suggestion: hpc,/s/h5gnfl/tag_suggestion_hpc,/u/olegkovalov,8
+0,2016-12-27 14:01:14 -0600,"/t/compsci,/t/science",What would a very simple quantum program look like? (2011),http://cstheory.stackexchange.com/questions/9381/what-would-a-very-simple-quantum-program-look-like,/u/nil,6

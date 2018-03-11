@@ -1,25 +1,25 @@
-0,2016-09-08 08:26:26 -0500,"['/t/elixir', '/t/web']",Building a web framework from scratch in Elixir,https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir,/u/pushcx,11
-2,2016-09-08 10:21:32 -0500,['/t/programming'],"The Stream Firehose with SQS, Lambda, and Redis",http://blog.getstream.io/stream-firehose-sqs-lambda-redis,/u/nparsons08,2
-0,2016-09-08 10:45:12 -0500,['/t/browsers'],Moving Towards a More Secure Web,http://blog.chromium.org/2016/09/moving-towards-more-secure-web.html,/u/pwatsonwailes,7
-0,2016-09-08 09:54:58 -0500,['/t/practices'],Making a podcast,https://codon.com/making-a-podcast,/u/pushcx,7
-0,2016-09-08 18:27:34 -0500,"['/t/databases', '/t/visualization']",Advantages of a Graph-Based Metadata Repository at UW,https://neo4j.com/blog/advantage-graph-based-metadata-repository/,/u/bwmerkl,2
-1,2016-09-08 06:25:06 -0500,"['/t/python', '/t/security']",A bite of Python,https://access.redhat.com/blogs/766093/posts/2592591,/u/av,7
-15,2016-09-07 13:40:06 -0500,['/t/ask'],What are some of your favorite newer best practices?,/s/jwfaht/what_are_some_your_favorite_newer_best,/u/kaylindris,23
-0,2016-09-08 09:03:37 -0500,"['/t/pdf', '/t/compilers']",Optimizing with persistent data structures,http://wingolog.org/pub/llvm-cauldron-2016-slides.pdf,/u/sanxiyn,5
-1,2016-09-08 07:30:06 -0500,"['/t/android', '/t/c', '/t/security']",Return to libstagefright: exploiting libutils on Android,https://googleprojectzero.blogspot.com/2016/09/return-to-libstagefright-exploiting.html,/u/tedu,6
-0,2016-09-08 11:36:08 -0500,"['/t/elixir', '/t/event', '/t/historical']","Elixirconf 2016 slides, videos, links, and sundry",https://github.com/poteto/elixirconf-2016,/u/friendlysock,3
-4,2016-09-07 09:00:53 -0500,['/t/programming'],In Defense of Cargo Cult Programming,https://www.promptworks.com/blog/in-defense-of-cargo-cult-programming,/u/nicholaides,15
-2,2016-09-08 01:43:28 -0500,['/t/games'],Dropbox dropping support for playable HTML - the implications for IF games,http://gameshelf.jmac.org/2016/09/dropbox-dropping-support-for-playable-html/,/u/zem,3
-4,2016-09-07 17:37:34 -0500,"['/t/video', '/t/practices']",You Suck at Excel with Joel Spolsky,https://www.youtube.com/watch?v=0nbkaYsR94c,/u/carlesfe,10
-5,2016-09-07 07:40:42 -0500,"['/t/compilers', '/t/compsci', '/t/ml']",The new and improved programming languages zoo,http://math.andrej.com/2016/09/07/the-new-and-improved-programming-languages-zoo/,/u/craigstuntz,29
-10,2016-09-07 08:47:41 -0500,"['/t/hardware', '/t/web']",Farmbot: Humanity's first open-source CNC farming machine,https://farmbot.io,/u/tsironakos,15
-7,2016-09-07 10:01:36 -0500,"['/t/crypto', '/t/hardware', '/t/security']","Infinite Noise - Open-source, analog TRNG",https://github.com/waywardgeek/infnoise,/u/nickpsecurity,13
-7,2016-09-07 12:28:24 -0500,['/t/security'],New cloud attack takes full control of virtual machines with little effort,http://arstechnica.com/security/2016/08/new-attack-steals-private-crypto-keys-by-corrupting-data-in-computer-memory/,/u/Irene,7
-1,2016-09-07 09:02:43 -0500,['/t/web'],Next steps for Gmane,http://home.gmane.org/2016/08/29/next-steps-gmane/,/u/mpasternacki,19
-0,2016-09-07 19:27:50 -0500,"['/t/devops', '/t/web']",Amazon CloudFront now supports HTTP/2,https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/,/u/antifuchs,5
-12,2016-09-07 05:31:43 -0500,"['/t/event', '/t/hardware', '/t/ios']",Apple September 7th event,http://www.apple.com/apple-events/september-2016/,/u/calvin,12
-0,2016-09-07 23:22:21 -0500,"['/t/api', '/t/javascript', '/t/web']",Developing a Street Basketball Game (Part 3: Level Selecting and Stats) - DZone Web Dev,https://dzone.com/articles/developing-a-street-basketball-game-part-lll-level,/u/alex2401,1
-0,2016-09-08 10:31:59 -0500,"['/t/databases', '/t/release']",InfluxDB 1.0 GA Released: A Retrospective and What’s Next | InfluxData,https://www.influxdata.com/influxdb-1-0-ga-released-a-retrospective-and-whats-next/,/u/jjmalina,0
-6,2016-09-07 06:16:08 -0500,"['/t/crypto', '/t/hardware', '/t/security']",ChaosKey v1.0 Released — USB Attached True Random Number Generator,https://keithp.com/blogs/chaoskey/,/u/mjturner,9
-2,2016-09-07 03:28:32 -0500,['/t/hardware'],The MakerBot Obituary,http://hackaday.com/2016/04/28/the-makerbot-obituary/,/u/tsironakos,16
-1,2016-09-07 15:12:23 -0500,"['/t/erlang', '/t/programming']",Trust,http://blog.ikura.co/posts/trust.html,/u/nato,1
+0,2016-09-08 08:26:26 -0500,"/t/elixir,/t/web",Building a web framework from scratch in Elixir,https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir,/u/pushcx,11
+2,2016-09-08 10:21:32 -0500,/t/programming,"The Stream Firehose with SQS, Lambda, and Redis",http://blog.getstream.io/stream-firehose-sqs-lambda-redis,/u/nparsons08,2
+0,2016-09-08 10:45:12 -0500,/t/browsers,Moving Towards a More Secure Web,http://blog.chromium.org/2016/09/moving-towards-more-secure-web.html,/u/pwatsonwailes,7
+0,2016-09-08 09:54:58 -0500,/t/practices,Making a podcast,https://codon.com/making-a-podcast,/u/pushcx,7
+0,2016-09-08 18:27:34 -0500,"/t/databases,/t/visualization",Advantages of a Graph-Based Metadata Repository at UW,https://neo4j.com/blog/advantage-graph-based-metadata-repository/,/u/bwmerkl,2
+1,2016-09-08 06:25:06 -0500,"/t/python,/t/security",A bite of Python,https://access.redhat.com/blogs/766093/posts/2592591,/u/av,7
+15,2016-09-07 13:40:06 -0500,/t/ask,What are some of your favorite newer best practices?,/s/jwfaht/what_are_some_your_favorite_newer_best,/u/kaylindris,23
+0,2016-09-08 09:03:37 -0500,"/t/pdf,/t/compilers",Optimizing with persistent data structures,http://wingolog.org/pub/llvm-cauldron-2016-slides.pdf,/u/sanxiyn,5
+1,2016-09-08 07:30:06 -0500,"/t/android,/t/c,/t/security",Return to libstagefright: exploiting libutils on Android,https://googleprojectzero.blogspot.com/2016/09/return-to-libstagefright-exploiting.html,/u/tedu,6
+0,2016-09-08 11:36:08 -0500,"/t/elixir,/t/event,/t/historical","Elixirconf 2016 slides, videos, links, and sundry",https://github.com/poteto/elixirconf-2016,/u/friendlysock,3
+4,2016-09-07 09:00:53 -0500,/t/programming,In Defense of Cargo Cult Programming,https://www.promptworks.com/blog/in-defense-of-cargo-cult-programming,/u/nicholaides,15
+2,2016-09-08 01:43:28 -0500,/t/games,Dropbox dropping support for playable HTML - the implications for IF games,http://gameshelf.jmac.org/2016/09/dropbox-dropping-support-for-playable-html/,/u/zem,3
+4,2016-09-07 17:37:34 -0500,"/t/video,/t/practices",You Suck at Excel with Joel Spolsky,https://www.youtube.com/watch?v=0nbkaYsR94c,/u/carlesfe,10
+5,2016-09-07 07:40:42 -0500,"/t/compilers,/t/compsci,/t/ml",The new and improved programming languages zoo,http://math.andrej.com/2016/09/07/the-new-and-improved-programming-languages-zoo/,/u/craigstuntz,29
+10,2016-09-07 08:47:41 -0500,"/t/hardware,/t/web",Farmbot: Humanity's first open-source CNC farming machine,https://farmbot.io,/u/tsironakos,15
+7,2016-09-07 10:01:36 -0500,"/t/crypto,/t/hardware,/t/security","Infinite Noise - Open-source, analog TRNG",https://github.com/waywardgeek/infnoise,/u/nickpsecurity,13
+7,2016-09-07 12:28:24 -0500,/t/security,New cloud attack takes full control of virtual machines with little effort,http://arstechnica.com/security/2016/08/new-attack-steals-private-crypto-keys-by-corrupting-data-in-computer-memory/,/u/Irene,7
+1,2016-09-07 09:02:43 -0500,/t/web,Next steps for Gmane,http://home.gmane.org/2016/08/29/next-steps-gmane/,/u/mpasternacki,19
+0,2016-09-07 19:27:50 -0500,"/t/devops,/t/web",Amazon CloudFront now supports HTTP/2,https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/,/u/antifuchs,5
+12,2016-09-07 05:31:43 -0500,"/t/event,/t/hardware,/t/ios",Apple September 7th event,http://www.apple.com/apple-events/september-2016/,/u/calvin,12
+0,2016-09-07 23:22:21 -0500,"/t/api,/t/javascript,/t/web",Developing a Street Basketball Game (Part 3: Level Selecting and Stats) - DZone Web Dev,https://dzone.com/articles/developing-a-street-basketball-game-part-lll-level,/u/alex2401,1
+0,2016-09-08 10:31:59 -0500,"/t/databases,/t/release",InfluxDB 1.0 GA Released: A Retrospective and What’s Next | InfluxData,https://www.influxdata.com/influxdb-1-0-ga-released-a-retrospective-and-whats-next/,/u/jjmalina,0
+6,2016-09-07 06:16:08 -0500,"/t/crypto,/t/hardware,/t/security",ChaosKey v1.0 Released — USB Attached True Random Number Generator,https://keithp.com/blogs/chaoskey/,/u/mjturner,9
+2,2016-09-07 03:28:32 -0500,/t/hardware,The MakerBot Obituary,http://hackaday.com/2016/04/28/the-makerbot-obituary/,/u/tsironakos,16
+1,2016-09-07 15:12:23 -0500,"/t/erlang,/t/programming",Trust,http://blog.ikura.co/posts/trust.html,/u/nato,1

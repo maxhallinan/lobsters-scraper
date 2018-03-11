@@ -1,25 +1,25 @@
-0,2017-08-22 07:04:30 -0500,"['/t/databases', '/t/programming']",Finding all Palindromes Contained in Strings with SQL,https://blog.jooq.org/2017/08/22/finding-all-palindromes-contained-in-strings-with-sql/,/u/calvin,2
-0,2017-08-21 15:25:09 -0500,['/t/openbsd'],Kernel syspatches will soon be smaller thanks to KARL,http://undeadly.org/cgi?action=article&sid=20170821183350,/u/calvin,12
-0,2017-08-21 09:19:13 -0500,"['/t/openbsd', '/t/release']",deraadt@ moves us to 6.2-beta!,http://undeadly.org/cgi?action=article&sid=20170821133453,/u/calvin,22
-0,2017-08-22 00:44:20 -0500,['/t/distributed'],Going Multi-Cloud with AWS and GCP: Lessons Learned at Scale,https://metamarkets.com/2017/big-cloud-data-aws-and-gcp/,/u/zg,3
-0,2017-08-21 22:40:43 -0500,['/t/games'],"""YAT"" is a better genre name than ""Immersive Sim"" (2012)",http://willhubbell.blogspot.com/2012/12/yat-is-better-genre-name-than-immersive.html,/u/calvin,3
-0,2017-08-22 01:02:50 -0500,['/t/compsci'],Finding Fibonacci In Golden Trees,https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a,/u/balajmarius,2
-0,2017-08-21 22:40:17 -0500,"['/t/javascript', '/t/web']",Queensland FP Lab - Integrating Purescript Flare UI Component into Webpack/NG2/TS Project,https://qfpl.io/posts/purescript/purescript-wp2-ng2-ts-flare/,/u/mankyKitty,1
-4,2017-08-21 11:45:08 -0500,['/t/programming'],GolfScript Examples,http://www.golfscript.com/golfscript/examples.html,/u/hdhzy,5
-3,2017-08-21 06:41:52 -0500,"['/t/freebsd', '/t/virtualization']",(r)vmadm - managing FreeBSD jails,https://blog.project-fifo.net/rvmadm-managing-freebsd-jails/,/u/wiedi,12
-0,2017-08-21 07:03:04 -0500,['/t/historical'],The HERE IS key,https://dave.cheney.net/2017/08/21/the-here-is-key,/u/nathankerr,15
-0,2017-08-21 02:56:15 -0500,"['/t/ai', '/t/art']",Taxonomy of Humans According to Twitter,https://thenewinquiry.com/taxonomy-of-humans-according-to-twitter/,/u/friendlysock,22
-0,2017-08-21 22:17:48 -0500,['/t/lisp'],Extracting Chrome Cookies with Clojure,https://blog.laurentcharignon.com/post/extracting-chrome-cookie-clojure/,/u/Yogthos,2
-18,2017-08-20 23:28:49 -0500,"['/t/ask', '/t/culture', '/t/programming']",What are you working on this week?,/s/atp9ki/what_are_you_working_on_this_week,/u/kzisme,14
-0,2017-08-21 12:25:35 -0500,"['/t/ai', '/t/python']",Practical Text Classification for Production Systems,https://www.hardikp.com/2017/08/17/text-classification/,/u/hardikp,3
-0,2017-08-21 09:35:23 -0500,['/t/science'],Reliable Perching Makes Fixed-Wing UAVs Much More Useful,http://spectrum.ieee.org/automaton/robotics/drones/reliable-perching-makes-fixedwing-uavs-much-more-useful,/u/fcbsd,8
-10,2017-08-21 11:03:12 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",How to Make Error Handling Less Error Prone,https://raw.githubusercontent.com/strangeloop/StrangeLoop2014/master/slides/sessions/Hopwood-HowToMakeErrorHandlingLessErrorProne.pdf,/u/nickpsecurity,3
-33,2017-08-20 08:42:21 -0500,"['/t/ask', '/t/programming']",how do you minimize distractions while working?,/s/ugdjmq/how_do_you_minimize_distractions_while,/u/hhnr,30
-5,2017-08-20 21:44:17 -0500,['/t/programming'],The Hardest Program I've Ever Written (2015),http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/?sort,/u/calvin,15
-1,2017-08-21 05:46:03 -0500,['/t/math'],Understanding Asymmetric Numeral Systems,https://ro-che.info/articles/2017-08-20-understanding-ans,/u/calvin,8
-8,2017-08-21 01:02:57 -0500,['/t/programming'],Crash into ATS,http://ats-lang.sourceforge.net/DOCUMENT/ATS2FPCRASH/HTML/HTMLTOC/book1.html,/u/doublec,10
-5,2017-08-21 05:47:56 -0500,['/t/databases'],History Tables,https://horia141.com/history-tables.html,/u/calvin,4
-53,2017-08-20 08:09:52 -0500,"['/t/design', '/t/graphics']",Ideal OS: Rebooting the Desktop Operating System Experience,https://joshondesign.com/2017/08/18/idealos_essay,/u/crazyloglad,35
-1,2017-08-20 20:43:51 -0500,['/t/javascript'],Vue.js + Brunch: The Webpack Alternative You've Been Hungry For,https://vuejsdevelopers.com/2017/08/20/vue-js-brunch/?jsdojo_id=lob_vpb,/u/anthonygore,3
-0,2017-08-21 07:23:58 -0500,"['/t/javascript', '/t/ruby']",Episode 94 - Recurring Events with FullCalendar,https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar,/u/kobaltz,1
-2,2017-08-20 21:42:50 -0500,"['/t/java', '/t/scala']",Rise and fall of JVM languages,https://blog.frankel.ch/rise-fall-jvm-languages/,/u/calvin,5
+0,2017-08-22 07:04:30 -0500,"/t/databases,/t/programming",Finding all Palindromes Contained in Strings with SQL,https://blog.jooq.org/2017/08/22/finding-all-palindromes-contained-in-strings-with-sql/,/u/calvin,2
+0,2017-08-21 15:25:09 -0500,/t/openbsd,Kernel syspatches will soon be smaller thanks to KARL,http://undeadly.org/cgi?action=article&sid=20170821183350,/u/calvin,12
+0,2017-08-21 09:19:13 -0500,"/t/openbsd,/t/release",deraadt@ moves us to 6.2-beta!,http://undeadly.org/cgi?action=article&sid=20170821133453,/u/calvin,22
+0,2017-08-22 00:44:20 -0500,/t/distributed,Going Multi-Cloud with AWS and GCP: Lessons Learned at Scale,https://metamarkets.com/2017/big-cloud-data-aws-and-gcp/,/u/zg,3
+0,2017-08-21 22:40:43 -0500,/t/games,"""YAT"" is a better genre name than ""Immersive Sim"" (2012)",http://willhubbell.blogspot.com/2012/12/yat-is-better-genre-name-than-immersive.html,/u/calvin,3
+0,2017-08-22 01:02:50 -0500,/t/compsci,Finding Fibonacci In Golden Trees,https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a,/u/balajmarius,2
+0,2017-08-21 22:40:17 -0500,"/t/javascript,/t/web",Queensland FP Lab - Integrating Purescript Flare UI Component into Webpack/NG2/TS Project,https://qfpl.io/posts/purescript/purescript-wp2-ng2-ts-flare/,/u/mankyKitty,1
+4,2017-08-21 11:45:08 -0500,/t/programming,GolfScript Examples,http://www.golfscript.com/golfscript/examples.html,/u/hdhzy,5
+3,2017-08-21 06:41:52 -0500,"/t/freebsd,/t/virtualization",(r)vmadm - managing FreeBSD jails,https://blog.project-fifo.net/rvmadm-managing-freebsd-jails/,/u/wiedi,12
+0,2017-08-21 07:03:04 -0500,/t/historical,The HERE IS key,https://dave.cheney.net/2017/08/21/the-here-is-key,/u/nathankerr,15
+0,2017-08-21 02:56:15 -0500,"/t/ai,/t/art",Taxonomy of Humans According to Twitter,https://thenewinquiry.com/taxonomy-of-humans-according-to-twitter/,/u/friendlysock,22
+0,2017-08-21 22:17:48 -0500,/t/lisp,Extracting Chrome Cookies with Clojure,https://blog.laurentcharignon.com/post/extracting-chrome-cookie-clojure/,/u/Yogthos,2
+18,2017-08-20 23:28:49 -0500,"/t/ask,/t/culture,/t/programming",What are you working on this week?,/s/atp9ki/what_are_you_working_on_this_week,/u/kzisme,14
+0,2017-08-21 12:25:35 -0500,"/t/ai,/t/python",Practical Text Classification for Production Systems,https://www.hardikp.com/2017/08/17/text-classification/,/u/hardikp,3
+0,2017-08-21 09:35:23 -0500,/t/science,Reliable Perching Makes Fixed-Wing UAVs Much More Useful,http://spectrum.ieee.org/automaton/robotics/drones/reliable-perching-makes-fixedwing-uavs-much-more-useful,/u/fcbsd,8
+10,2017-08-21 11:03:12 -0500,"/t/pdf,/t/compsci,/t/programming",How to Make Error Handling Less Error Prone,https://raw.githubusercontent.com/strangeloop/StrangeLoop2014/master/slides/sessions/Hopwood-HowToMakeErrorHandlingLessErrorProne.pdf,/u/nickpsecurity,3
+33,2017-08-20 08:42:21 -0500,"/t/ask,/t/programming",how do you minimize distractions while working?,/s/ugdjmq/how_do_you_minimize_distractions_while,/u/hhnr,30
+5,2017-08-20 21:44:17 -0500,/t/programming,The Hardest Program I've Ever Written (2015),http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/?sort,/u/calvin,15
+1,2017-08-21 05:46:03 -0500,/t/math,Understanding Asymmetric Numeral Systems,https://ro-che.info/articles/2017-08-20-understanding-ans,/u/calvin,8
+8,2017-08-21 01:02:57 -0500,/t/programming,Crash into ATS,http://ats-lang.sourceforge.net/DOCUMENT/ATS2FPCRASH/HTML/HTMLTOC/book1.html,/u/doublec,10
+5,2017-08-21 05:47:56 -0500,/t/databases,History Tables,https://horia141.com/history-tables.html,/u/calvin,4
+53,2017-08-20 08:09:52 -0500,"/t/design,/t/graphics",Ideal OS: Rebooting the Desktop Operating System Experience,https://joshondesign.com/2017/08/18/idealos_essay,/u/crazyloglad,35
+1,2017-08-20 20:43:51 -0500,/t/javascript,Vue.js + Brunch: The Webpack Alternative You've Been Hungry For,https://vuejsdevelopers.com/2017/08/20/vue-js-brunch/?jsdojo_id=lob_vpb,/u/anthonygore,3
+0,2017-08-21 07:23:58 -0500,"/t/javascript,/t/ruby",Episode 94 - Recurring Events with FullCalendar,https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar,/u/kobaltz,1
+2,2017-08-20 21:42:50 -0500,"/t/java,/t/scala",Rise and fall of JVM languages,https://blog.frankel.ch/rise-fall-jvm-languages/,/u/calvin,5

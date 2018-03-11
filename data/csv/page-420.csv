@@ -1,25 +1,25 @@
-1,2017-04-01 11:42:03 -0500,['/t/dotnet'],The .NET IL Interpreter,http://www.mattwarren.org/2017/03/30/The-.NET-IL-Interpreter/,/u/calvin,6
-0,2017-04-01 06:34:41 -0500,"['/t/historical', '/t/person']",The 1968 Demo,http://www.dougengelbart.org/firsts/1968-demo-interactive.html,/u/sevan,8
-3,2017-03-31 13:11:59 -0500,"['/t/distributed', '/t/programming']",Mutability Leads to Suffering,https://medium.com/@hwayne/mutability-leads-to-suffering-23671a0def6a,/u/hwayne,21
-9,2017-04-01 10:36:43 -0500,"['/t/philosophy', '/t/satire']",How I realised “Open Source” is a better term than “Free Software”,http://www.naughtycomputer.uk/open_source_better_than_free_software.html,/u/Xylon,2
-0,2017-04-01 15:21:37 -0500,"['/t/video', '/t/math', '/t/science']",Learning From Data - Online Course (MOOC),http://work.caltech.edu/telecourse.html,/u/weakforce,2
-0,2017-04-01 19:06:40 -0500,"['/t/compilers', '/t/release']",Announcing Sourcery CodeBench Lite for IA16,https://blogs.mentor.com/embedded/blog/2017/04/01/announcing-sourcery-codebench-lite-for-ia16/,/u/calvin,1
-0,2017-03-31 18:00:09 -0500,['/t/programming'],Fuchsia: a new operating system,https://lwn.net/SubscriberLink/718267/206c8a5fbf0ee2ea/,/u/calvin,26
-1,2017-04-01 05:59:48 -0500,"['/t/c', '/t/rust', '/t/satire']",STDSHOUT!!!1!,https://github.com/badboy/stdshout,/u/skade,11
-2,2017-04-01 02:19:11 -0500,['/t/vim'],Vim without NERD tree or CtrlP,https://gist.github.com/csswizardry/9a33342dace4786a9fee35c73fa5deeb,/u/hoopla,6
-5,2017-03-31 18:50:18 -0500,['/t/security'],LastPass Universal XSS vulnerability (just patched),https://bugs.chromium.org/p/project-zero/issues/detail?id=1225&desc=6,/u/kb,9
-6,2017-03-31 10:06:40 -0500,"['/t/devops', '/t/release']",netboot.xyz,https://netboot.xyz/,/u/mjturner,21
-5,2017-03-31 11:00:42 -0500,"['/t/graphics', '/t/javascript', '/t/visualization']",The Mandelwat Set,http://blog.jfo.click/the-mandelwat-set/,/u/friendlysock,23
-6,2017-03-31 13:05:28 -0500,"['/t/video', '/t/mobile']","A fully-free cell phone experience, no baseband required",https://media.libreplanet.org/mgoblin_media/media_entries/1531/144_9_gingerich.webm,/u/pizzaiolo,14
-30,2017-03-31 08:26:25 -0500,['/t/law'],FBI Arrests Hacker Who Hacked No One,http://www.thedailybeast.com/articles/2017/03/31/fbi-arrests-hacker-who-hacked-no-one.html,/u/pushcx,17
-8,2017-03-31 14:38:17 -0500,"['/t/databases', '/t/networking', '/t/security']","Can we have SPF-like “CNAME invalidation records”, please?",https://noagenda.ninja/2017/03/can-we-have-spf-like-cname-invalidation-records-please/,/u/voidzero,4
-0,2017-03-31 18:31:09 -0500,['/t/vcs'],Shutting down CodePlex,https://blogs.msdn.microsoft.com/bharry/2017/03/31/shutting-down-codeplex/,/u/colin,9
-0,2017-04-01 15:08:09 -0500,"['/t/pdf', '/t/compsci', '/t/satire']",On the Impossibility of Supersized Machines,https://philpapers.org/archive/GAROTI-3.pdf,/u/pushcx,1
-0,2017-03-31 16:42:33 -0500,"['/t/debugging', '/t/devops', '/t/python', '/t/testing']",env-diff: Compare expected environment variables to those set in production,https://github.com/jacebrowning/env-diff,/u/jacebrowning,5
-3,2017-03-31 13:24:18 -0500,['/t/haskell'],2 + 2 = 5… !? and why compiler warnings are good,https://medium.com/position-development-blog/2-2-5-and-why-compiler-warnings-are-good-e50bc5cfab22,/u/romanzolotarev,7
-5,2017-03-31 15:50:38 -0500,['/t/databases'],kdb+ 3.5 released last month,http://lambda-the-ultimate.org/node/5420,/u/apy,4
-3,2017-03-31 04:18:23 -0500,['/t/lisp'],Fourteen Months with Clojure,https://blog.skyliner.io/fourteen-months-with-clojure-beb8b3e4bf00,/u/ane,21
-0,2017-03-31 13:07:37 -0500,"['/t/finance', '/t/hardware', '/t/security']",Why I Always Tug on the ATM,https://krebsonsecurity.com/2017/03/why-i-always-tug-on-the-atm/,/u/calvin,9
-0,2017-03-31 18:46:50 -0500,"['/t/javascript', '/t/nodejs', '/t/web']",Unshorten (expand) short URLs with Node.js,http://loige.co/unshorten-expand-short-urls-with-node-js/,/u/loige,2
-2,2017-03-31 08:54:42 -0500,"['/t/programming', '/t/ruby', '/t/security']",The 500.000$ release,https://mruby.sh/201703270126.html,/u/dgv,10
-2,2017-03-31 07:01:55 -0500,"['/t/c', '/t/rust']",A comparison of regex engines,https://rust-leipzig.github.io/regex/2017/03/28/comparison-of-regex-engines/,/u/niko2342,8
+1,2017-04-01 11:42:03 -0500,/t/dotnet,The .NET IL Interpreter,http://www.mattwarren.org/2017/03/30/The-.NET-IL-Interpreter/,/u/calvin,6
+0,2017-04-01 06:34:41 -0500,"/t/historical,/t/person",The 1968 Demo,http://www.dougengelbart.org/firsts/1968-demo-interactive.html,/u/sevan,8
+3,2017-03-31 13:11:59 -0500,"/t/distributed,/t/programming",Mutability Leads to Suffering,https://medium.com/@hwayne/mutability-leads-to-suffering-23671a0def6a,/u/hwayne,21
+9,2017-04-01 10:36:43 -0500,"/t/philosophy,/t/satire",How I realised “Open Source” is a better term than “Free Software”,http://www.naughtycomputer.uk/open_source_better_than_free_software.html,/u/Xylon,2
+0,2017-04-01 15:21:37 -0500,"/t/video,/t/math,/t/science",Learning From Data - Online Course (MOOC),http://work.caltech.edu/telecourse.html,/u/weakforce,2
+0,2017-04-01 19:06:40 -0500,"/t/compilers,/t/release",Announcing Sourcery CodeBench Lite for IA16,https://blogs.mentor.com/embedded/blog/2017/04/01/announcing-sourcery-codebench-lite-for-ia16/,/u/calvin,1
+0,2017-03-31 18:00:09 -0500,/t/programming,Fuchsia: a new operating system,https://lwn.net/SubscriberLink/718267/206c8a5fbf0ee2ea/,/u/calvin,26
+1,2017-04-01 05:59:48 -0500,"/t/c,/t/rust,/t/satire",STDSHOUT!!!1!,https://github.com/badboy/stdshout,/u/skade,11
+2,2017-04-01 02:19:11 -0500,/t/vim,Vim without NERD tree or CtrlP,https://gist.github.com/csswizardry/9a33342dace4786a9fee35c73fa5deeb,/u/hoopla,6
+5,2017-03-31 18:50:18 -0500,/t/security,LastPass Universal XSS vulnerability (just patched),https://bugs.chromium.org/p/project-zero/issues/detail?id=1225&desc=6,/u/kb,9
+6,2017-03-31 10:06:40 -0500,"/t/devops,/t/release",netboot.xyz,https://netboot.xyz/,/u/mjturner,21
+5,2017-03-31 11:00:42 -0500,"/t/graphics,/t/javascript,/t/visualization",The Mandelwat Set,http://blog.jfo.click/the-mandelwat-set/,/u/friendlysock,23
+6,2017-03-31 13:05:28 -0500,"/t/video,/t/mobile","A fully-free cell phone experience, no baseband required",https://media.libreplanet.org/mgoblin_media/media_entries/1531/144_9_gingerich.webm,/u/pizzaiolo,14
+30,2017-03-31 08:26:25 -0500,/t/law,FBI Arrests Hacker Who Hacked No One,http://www.thedailybeast.com/articles/2017/03/31/fbi-arrests-hacker-who-hacked-no-one.html,/u/pushcx,17
+8,2017-03-31 14:38:17 -0500,"/t/databases,/t/networking,/t/security","Can we have SPF-like “CNAME invalidation records”, please?",https://noagenda.ninja/2017/03/can-we-have-spf-like-cname-invalidation-records-please/,/u/voidzero,4
+0,2017-03-31 18:31:09 -0500,/t/vcs,Shutting down CodePlex,https://blogs.msdn.microsoft.com/bharry/2017/03/31/shutting-down-codeplex/,/u/colin,9
+0,2017-04-01 15:08:09 -0500,"/t/pdf,/t/compsci,/t/satire",On the Impossibility of Supersized Machines,https://philpapers.org/archive/GAROTI-3.pdf,/u/pushcx,1
+0,2017-03-31 16:42:33 -0500,"/t/debugging,/t/devops,/t/python,/t/testing",env-diff: Compare expected environment variables to those set in production,https://github.com/jacebrowning/env-diff,/u/jacebrowning,5
+3,2017-03-31 13:24:18 -0500,/t/haskell,2 + 2 = 5… !? and why compiler warnings are good,https://medium.com/position-development-blog/2-2-5-and-why-compiler-warnings-are-good-e50bc5cfab22,/u/romanzolotarev,7
+5,2017-03-31 15:50:38 -0500,/t/databases,kdb+ 3.5 released last month,http://lambda-the-ultimate.org/node/5420,/u/apy,4
+3,2017-03-31 04:18:23 -0500,/t/lisp,Fourteen Months with Clojure,https://blog.skyliner.io/fourteen-months-with-clojure-beb8b3e4bf00,/u/ane,21
+0,2017-03-31 13:07:37 -0500,"/t/finance,/t/hardware,/t/security",Why I Always Tug on the ATM,https://krebsonsecurity.com/2017/03/why-i-always-tug-on-the-atm/,/u/calvin,9
+0,2017-03-31 18:46:50 -0500,"/t/javascript,/t/nodejs,/t/web",Unshorten (expand) short URLs with Node.js,http://loige.co/unshorten-expand-short-urls-with-node-js/,/u/loige,2
+2,2017-03-31 08:54:42 -0500,"/t/programming,/t/ruby,/t/security",The 500.000$ release,https://mruby.sh/201703270126.html,/u/dgv,10
+2,2017-03-31 07:01:55 -0500,"/t/c,/t/rust",A comparison of regex engines,https://rust-leipzig.github.io/regex/2017/03/28/comparison-of-regex-engines/,/u/niko2342,8

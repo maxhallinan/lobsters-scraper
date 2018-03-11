@@ -1,25 +1,25 @@
-4,2012-08-28 01:00:10 -0500,['/t/api'],Google Kills Weather API,http://thenextweb.com/google/2012/08/28/did-google-just-quietly-kill-private-weather-api/,/u/jcs,7
-0,2012-08-28 12:15:54 -0500,"['/t/compsci', '/t/security']",Homomorphic Hashing and Fountain Codes,http://blog.notdot.net/2012/08/Damn-Cool-Algorithms-Homomorphic-Hashing,/u/pushcx,2
-0,2012-08-28 05:16:05 -0500,"['/t/lua', '/t/security']",No JIT on Windows 8 for ARM,http://www.freelists.org/post/luajit/FYI-No-JIT-on-Windows-8-for-ARM,/u/pushcx,5
-0,2012-08-27 23:57:35 -0500,"['/t/show', '/t/javascript']",UglifyJS 2 Announcement and Design Brief,https://github.com/mishoo/UglifyJS2,/u/harry,6
-1,2012-08-27 21:54:03 -0500,['/t/python'],goto and comefrom in Python,http://entrian.com/goto/,/u/pushcx,3
-0,2012-08-27 19:37:41 -0500,['/t/go'],Go Introduction: How Go Handles Objects,http://www.drdobbs.com/article/print?articleId=240005949&siteSectionName=open-source,/u/kyle,4
-0,2012-08-27 19:28:26 -0500,['/t/go'],Go after four months #golang,http://www.darkcoding.net/software/go-lang-after-four-months/,/u/kyle,4
-4,2012-08-27 11:22:58 -0500,['/t/show'],Domain iCal - Domain & SSL Expiration Calendar,http://domainical.org/,/u/jcs,7
-0,2012-08-27 15:26:52 -0500,['/t/c'],The char *apple[] Argument Vector,http://unixjunkie.blogspot.co.at/2006/02/char-apple-argument-vector.html,/u/kyle,5
-0,2012-08-27 14:51:59 -0500,['/t/javascript'],Vanilla JS - The best framework for JS,http://vanilla-js.com/,/u/qbit,5
-0,2012-08-27 13:33:59 -0500,['/t/science'],The Hidden Truths about Calories,http://blogs.scientificamerican.com/guest-blog/2012/08/27/the-hidden-truths-about-calories/,/u/jamesbritt,5
-0,2012-08-27 11:49:14 -0500,"['/t/compsci', '/t/python']",Selecting randomly from an unknown sequence,http://nedbatchelder.com/blog/201208/selecting_randomly_from_an_unknown_sequence.html,/u/pushcx,6
-0,2012-08-27 11:06:03 -0500,['/t/lisp'],"Teaching With Racket, Working in Clojure",http://programming-puzzler.blogspot.se/2010/08/racket-vs-clojure.html,/u/pushcx,5
-0,2012-08-27 07:40:22 -0500,"['/t/book', '/t/python']",Free Python books,http://pythonbooks.revolunet.com/,/u/kyle,7
-0,2012-08-27 15:19:03 -0500,['/t/hardware'],The TaserDrone; a shocking mod for the AR Drone,http://hackaday.com/2012/08/27/the-taserdrone-a-shocking-mod-for-the-ar-drone/,/u/kyle,2
-0,2012-08-27 12:16:23 -0500,['/t/c'],Learning C with GDB,https://www.hackerschool.com/blog/5-learning-c-with-gdb,/u/kyle,3
-0,2012-08-27 09:52:12 -0500,"['/t/book', '/t/compsci', '/t/science']",Two Solitudes - CS theory vs practice,http://www.slideshare.net/gvwilson/two-solitudes,/u/pushcx,4
-0,2012-08-27 10:44:44 -0500,['/t/video'],Doodling in Math - Fibonacci,http://www.youtube.com/watch?v=ahXIMUkSXX0&feature=relmfu,/u/qbit,3
-0,2012-08-27 12:42:15 -0500,"['/t/compsci', '/t/javascript', '/t/python', '/t/ruby']",Method Combinators in CoffeeScript,https://github.com/raganwald/homoiconic/blob/master/2012/08/method-decorators-and-combinators-in-coffeescript.md#method-combinators-in-coffeescript,/u/pushcx,2
-0,2012-08-27 09:26:22 -0500,"['/t/compsci', '/t/lisp']",Fully Inlined Merge Sort Macro,http://blog.racket-lang.org/2012/08/fully-inlined-merge-sort.html,/u/pushcx,3
-0,2012-08-27 10:32:40 -0500,['/t/person'],Cut your iPhone bill from $107 to $45,http://iamnotaprogrammer.com/Straight-Talk-MVNO-ATT-45-per-month-virgin-mobile.html,/u/jphpsf,2
-0,2012-08-26 22:19:17 -0500,['/t/security'],Dropbox adds two-step verification,http://venturebeat.com/2012/08/26/dropbox-2-step-verification-security/,/u/mc,6
-0,2012-08-26 23:31:54 -0500,['/t/hardware'],Darpa Has Seen the Future of Computing ... And It's Analog,http://www.wired.com/wiredenterprise/2012/08/upside/,/u/kyle,4
-0,2012-08-26 21:07:10 -0500,"['/t/design', '/t/security']",Dark Patterns Wiki,http://wiki.darkpatterns.org/Main_Page,/u/jcs,5
-0,2012-08-26 22:28:18 -0500,['/t/book'],The New Evernote Smart Notebook by Moleskine,http://blog.evernote.com/2012/08/24/the-new-evernote-smart-notebook-by-moleskine/,/u/mc,4
+4,2012-08-28 01:00:10 -0500,/t/api,Google Kills Weather API,http://thenextweb.com/google/2012/08/28/did-google-just-quietly-kill-private-weather-api/,/u/jcs,7
+0,2012-08-28 12:15:54 -0500,"/t/compsci,/t/security",Homomorphic Hashing and Fountain Codes,http://blog.notdot.net/2012/08/Damn-Cool-Algorithms-Homomorphic-Hashing,/u/pushcx,2
+0,2012-08-28 05:16:05 -0500,"/t/lua,/t/security",No JIT on Windows 8 for ARM,http://www.freelists.org/post/luajit/FYI-No-JIT-on-Windows-8-for-ARM,/u/pushcx,5
+0,2012-08-27 23:57:35 -0500,"/t/show,/t/javascript",UglifyJS 2 Announcement and Design Brief,https://github.com/mishoo/UglifyJS2,/u/harry,6
+1,2012-08-27 21:54:03 -0500,/t/python,goto and comefrom in Python,http://entrian.com/goto/,/u/pushcx,3
+0,2012-08-27 19:37:41 -0500,/t/go,Go Introduction: How Go Handles Objects,http://www.drdobbs.com/article/print?articleId=240005949&siteSectionName=open-source,/u/kyle,4
+0,2012-08-27 19:28:26 -0500,/t/go,Go after four months #golang,http://www.darkcoding.net/software/go-lang-after-four-months/,/u/kyle,4
+4,2012-08-27 11:22:58 -0500,/t/show,Domain iCal - Domain & SSL Expiration Calendar,http://domainical.org/,/u/jcs,7
+0,2012-08-27 15:26:52 -0500,/t/c,The char *apple[] Argument Vector,http://unixjunkie.blogspot.co.at/2006/02/char-apple-argument-vector.html,/u/kyle,5
+0,2012-08-27 14:51:59 -0500,/t/javascript,Vanilla JS - The best framework for JS,http://vanilla-js.com/,/u/qbit,5
+0,2012-08-27 13:33:59 -0500,/t/science,The Hidden Truths about Calories,http://blogs.scientificamerican.com/guest-blog/2012/08/27/the-hidden-truths-about-calories/,/u/jamesbritt,5
+0,2012-08-27 11:49:14 -0500,"/t/compsci,/t/python",Selecting randomly from an unknown sequence,http://nedbatchelder.com/blog/201208/selecting_randomly_from_an_unknown_sequence.html,/u/pushcx,6
+0,2012-08-27 11:06:03 -0500,/t/lisp,"Teaching With Racket, Working in Clojure",http://programming-puzzler.blogspot.se/2010/08/racket-vs-clojure.html,/u/pushcx,5
+0,2012-08-27 07:40:22 -0500,"/t/book,/t/python",Free Python books,http://pythonbooks.revolunet.com/,/u/kyle,7
+0,2012-08-27 15:19:03 -0500,/t/hardware,The TaserDrone; a shocking mod for the AR Drone,http://hackaday.com/2012/08/27/the-taserdrone-a-shocking-mod-for-the-ar-drone/,/u/kyle,2
+0,2012-08-27 12:16:23 -0500,/t/c,Learning C with GDB,https://www.hackerschool.com/blog/5-learning-c-with-gdb,/u/kyle,3
+0,2012-08-27 09:52:12 -0500,"/t/book,/t/compsci,/t/science",Two Solitudes - CS theory vs practice,http://www.slideshare.net/gvwilson/two-solitudes,/u/pushcx,4
+0,2012-08-27 10:44:44 -0500,/t/video,Doodling in Math - Fibonacci,http://www.youtube.com/watch?v=ahXIMUkSXX0&feature=relmfu,/u/qbit,3
+0,2012-08-27 12:42:15 -0500,"/t/compsci,/t/javascript,/t/python,/t/ruby",Method Combinators in CoffeeScript,https://github.com/raganwald/homoiconic/blob/master/2012/08/method-decorators-and-combinators-in-coffeescript.md#method-combinators-in-coffeescript,/u/pushcx,2
+0,2012-08-27 09:26:22 -0500,"/t/compsci,/t/lisp",Fully Inlined Merge Sort Macro,http://blog.racket-lang.org/2012/08/fully-inlined-merge-sort.html,/u/pushcx,3
+0,2012-08-27 10:32:40 -0500,/t/person,Cut your iPhone bill from $107 to $45,http://iamnotaprogrammer.com/Straight-Talk-MVNO-ATT-45-per-month-virgin-mobile.html,/u/jphpsf,2
+0,2012-08-26 22:19:17 -0500,/t/security,Dropbox adds two-step verification,http://venturebeat.com/2012/08/26/dropbox-2-step-verification-security/,/u/mc,6
+0,2012-08-26 23:31:54 -0500,/t/hardware,Darpa Has Seen the Future of Computing ... And It's Analog,http://www.wired.com/wiredenterprise/2012/08/upside/,/u/kyle,4
+0,2012-08-26 21:07:10 -0500,"/t/design,/t/security",Dark Patterns Wiki,http://wiki.darkpatterns.org/Main_Page,/u/jcs,5
+0,2012-08-26 22:28:18 -0500,/t/book,The New Evernote Smart Notebook by Moleskine,http://blog.evernote.com/2012/08/24/the-new-evernote-smart-notebook-by-moleskine/,/u/mc,4

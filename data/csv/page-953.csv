@@ -1,25 +1,25 @@
-3,2015-12-02 06:22:33 -0600,"['/t/release', '/t/virtualization']",IncludeOS: a resource efficient unikernel for cloud services,http://www.includeos.org/,/u/sanxiyn,10
-0,2015-12-02 13:31:07 -0600,"['/t/video', '/t/go']",Simplicity is Complicated,http://www.thedotpost.com/2015/11/rob-pike-simplicity-is-complicated,/u/iv,6
-0,2015-12-02 18:21:05 -0600,['/t/compsci'],"The Annual ""Humies"" Awards: Genetic and Evolutionary Computation Competition",http://www.genetic-programming.org/combined.php,/u/SeanW,3
-0,2015-12-02 12:47:13 -0600,"['/t/audio', '/t/art', '/t/programming']",FAUST: A language for real-time sound processing and synthesis,http://faust.grame.fr/about/,/u/animatronic,6
-1,2015-12-02 12:17:40 -0600,['/t/release'],Program above and beyond your actual ability by using FreeMind,http://alexkrupp.typepad.com/sensemaking/2012/09/program-above-and-beyond-your-actual-ability-by-using-freemind.html,/u/chadski,3
-0,2015-12-03 00:01:22 -0600,"['/t/pdf', '/t/cryptocurrencies', '/t/law']","SEC Complaint: Homero Joshua Garza, Gaw Miners, LLC, and Zenminer, LLC d/b/a Zen Cloud",https://www.sec.gov/litigation/complaints/2015/comp23415.pdf,/u/pushcx,1
-0,2015-12-02 13:22:39 -0600,"['/t/lisp', '/t/programming']",Binding as Sets of Scopes: Notes on a new model of macro expansion for Racket,https://www.cs.utah.edu/plt/scope-sets/,/u/SeanW,4
-0,2015-12-02 12:24:44 -0600,"['/t/networking', '/t/security']",Quick Analysis of a DDoS Attack Using SSDP,https://blog.sucuri.net/2014/09/quick-analysis-of-a-ddos-attack-using-ssdp.html,/u/antifuchs,4
-0,2015-12-02 10:39:23 -0600,"['/t/design', '/t/visualization', '/t/web']",Flexbox Froggy,http://flexboxfroggy.com/,/u/flyingfisch,5
-0,2015-12-02 11:42:31 -0600,"['/t/programming', '/t/ruby']",Minuteman 2.0 released!,https://github.com/elcuervo/minuteman/releases/tag/v2.0.0,/u/elcuervo,2
-35,2015-12-01 10:16:40 -0600,['/t/release'],"Thunderbird “a tax” on Firefox development, and Mozilla wants to drop it",http://arstechnica.com/information-technology/2015/12/thunderbird-a-tax-on-firefox-development-and-mozilla-wants-to-drop-it/,/u/jcs,33
-0,2015-12-01 20:12:03 -0600,"['/t/assembly', '/t/compilers', '/t/rust']",Building a simple JIT in Rust,http://www.jonathanturner.org/2015/12/building-a-simple-jit-in-rust.html,/u/fitzgen,19
-4,2015-12-01 12:18:10 -0600,['/t/devops'],GitHub's Metal Cloud,http://githubengineering.com/githubs-metal-cloud/,/u/kb,24
-17,2015-12-01 01:32:49 -0600,"['/t/show', '/t/compilers', '/t/programming', '/t/release']",The Myrddin Programming Language,http://eigenstate.org/myrddin/,/u/orib,40
-0,2015-12-02 14:57:09 -0600,"['/t/culture', '/t/practices', '/t/programming']",Coding is not a magical cure-all,https://medium.com/the-exofiles/coding-is-not-a-magical-cure-all-c886b054b7d5,/u/flyingfisch,3
-0,2015-12-02 09:55:30 -0600,"['/t/culture', '/t/networking', '/t/philosophy']",Don’t Abandon Your SLA. Sharpen IT!,http://blog.continuum.net/dont-abandon-your-sla.-sharpen-it,/u/glennbarley,2
-1,2015-12-02 04:21:40 -0600,['/t/programming'],The Fundamental Challenge of Computer System Performance,http://carymillsap.blogspot.com/2015/09/the-fundamental-challenge-of-computer.html,/u/adsouza,3
-0,2015-12-01 22:27:25 -0600,['/t/rust'],"Using Wayland from Rust, Part 1",http://blog.levans.fr/rust_wayland_1-en.html,/u/halosghost,8
-0,2015-12-01 20:03:59 -0600,"['/t/python', '/t/web']",Django 1.9 released,https://www.djangoproject.com/weblog/2015/dec/01/django-19-released/,/u/jpadilla,9
-0,2015-12-02 00:30:46 -0600,"['/t/practices', '/t/web']","Flash, HTML5 and Open Web Standards",http://blogs.adobe.com/conversations/2015/11/flash-html5-and-open-web-standards.html,/u/antifuchs,5
-5,2015-12-01 08:07:16 -0600,['/t/vcs'],14 tips and tools to resolve conflicts with Git,https://developer.atlassian.com/blog/2015/12/tips-tools-to-solve-git-conflicts/,/u/av,15
-7,2015-12-01 09:11:20 -0600,"['/t/privacy', '/t/security']",Hacker Obtained Children's Headshots and Chatlogs From Toymaker VTech,http://motherboard.vice.com/read/hacker-obtained-childrens-headshots-and-chatlogs-from-toymaker-vtech,/u/adsouza,11
-3,2015-12-01 09:48:16 -0600,"['/t/devops', '/t/linux']","Linux Performance Analysis in 60,000 Milliseconds",http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html,/u/stig,11
-0,2015-12-01 19:24:01 -0600,"['/t/pdf', '/t/graphics', '/t/math']",Simplex noise demystified,http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf,/u/numberten,5
-1,2015-12-01 19:08:30 -0600,"['/t/video', '/t/practices', '/t/programming']",Programming Considered Harmful - Dave Chinner Linux Conf AU January 2015,https://www.youtube.com/watch?v=VpuVDfSXs-g,/u/rseymour,3
+3,2015-12-02 06:22:33 -0600,"/t/release,/t/virtualization",IncludeOS: a resource efficient unikernel for cloud services,http://www.includeos.org/,/u/sanxiyn,10
+0,2015-12-02 13:31:07 -0600,"/t/video,/t/go",Simplicity is Complicated,http://www.thedotpost.com/2015/11/rob-pike-simplicity-is-complicated,/u/iv,6
+0,2015-12-02 18:21:05 -0600,/t/compsci,"The Annual ""Humies"" Awards: Genetic and Evolutionary Computation Competition",http://www.genetic-programming.org/combined.php,/u/SeanW,3
+0,2015-12-02 12:47:13 -0600,"/t/audio,/t/art,/t/programming",FAUST: A language for real-time sound processing and synthesis,http://faust.grame.fr/about/,/u/animatronic,6
+1,2015-12-02 12:17:40 -0600,/t/release,Program above and beyond your actual ability by using FreeMind,http://alexkrupp.typepad.com/sensemaking/2012/09/program-above-and-beyond-your-actual-ability-by-using-freemind.html,/u/chadski,3
+0,2015-12-03 00:01:22 -0600,"/t/pdf,/t/cryptocurrencies,/t/law","SEC Complaint: Homero Joshua Garza, Gaw Miners, LLC, and Zenminer, LLC d/b/a Zen Cloud",https://www.sec.gov/litigation/complaints/2015/comp23415.pdf,/u/pushcx,1
+0,2015-12-02 13:22:39 -0600,"/t/lisp,/t/programming",Binding as Sets of Scopes: Notes on a new model of macro expansion for Racket,https://www.cs.utah.edu/plt/scope-sets/,/u/SeanW,4
+0,2015-12-02 12:24:44 -0600,"/t/networking,/t/security",Quick Analysis of a DDoS Attack Using SSDP,https://blog.sucuri.net/2014/09/quick-analysis-of-a-ddos-attack-using-ssdp.html,/u/antifuchs,4
+0,2015-12-02 10:39:23 -0600,"/t/design,/t/visualization,/t/web",Flexbox Froggy,http://flexboxfroggy.com/,/u/flyingfisch,5
+0,2015-12-02 11:42:31 -0600,"/t/programming,/t/ruby",Minuteman 2.0 released!,https://github.com/elcuervo/minuteman/releases/tag/v2.0.0,/u/elcuervo,2
+35,2015-12-01 10:16:40 -0600,/t/release,"Thunderbird “a tax” on Firefox development, and Mozilla wants to drop it",http://arstechnica.com/information-technology/2015/12/thunderbird-a-tax-on-firefox-development-and-mozilla-wants-to-drop-it/,/u/jcs,33
+0,2015-12-01 20:12:03 -0600,"/t/assembly,/t/compilers,/t/rust",Building a simple JIT in Rust,http://www.jonathanturner.org/2015/12/building-a-simple-jit-in-rust.html,/u/fitzgen,19
+4,2015-12-01 12:18:10 -0600,/t/devops,GitHub's Metal Cloud,http://githubengineering.com/githubs-metal-cloud/,/u/kb,24
+17,2015-12-01 01:32:49 -0600,"/t/show,/t/compilers,/t/programming,/t/release",The Myrddin Programming Language,http://eigenstate.org/myrddin/,/u/orib,40
+0,2015-12-02 14:57:09 -0600,"/t/culture,/t/practices,/t/programming",Coding is not a magical cure-all,https://medium.com/the-exofiles/coding-is-not-a-magical-cure-all-c886b054b7d5,/u/flyingfisch,3
+0,2015-12-02 09:55:30 -0600,"/t/culture,/t/networking,/t/philosophy",Don’t Abandon Your SLA. Sharpen IT!,http://blog.continuum.net/dont-abandon-your-sla.-sharpen-it,/u/glennbarley,2
+1,2015-12-02 04:21:40 -0600,/t/programming,The Fundamental Challenge of Computer System Performance,http://carymillsap.blogspot.com/2015/09/the-fundamental-challenge-of-computer.html,/u/adsouza,3
+0,2015-12-01 22:27:25 -0600,/t/rust,"Using Wayland from Rust, Part 1",http://blog.levans.fr/rust_wayland_1-en.html,/u/halosghost,8
+0,2015-12-01 20:03:59 -0600,"/t/python,/t/web",Django 1.9 released,https://www.djangoproject.com/weblog/2015/dec/01/django-19-released/,/u/jpadilla,9
+0,2015-12-02 00:30:46 -0600,"/t/practices,/t/web","Flash, HTML5 and Open Web Standards",http://blogs.adobe.com/conversations/2015/11/flash-html5-and-open-web-standards.html,/u/antifuchs,5
+5,2015-12-01 08:07:16 -0600,/t/vcs,14 tips and tools to resolve conflicts with Git,https://developer.atlassian.com/blog/2015/12/tips-tools-to-solve-git-conflicts/,/u/av,15
+7,2015-12-01 09:11:20 -0600,"/t/privacy,/t/security",Hacker Obtained Children's Headshots and Chatlogs From Toymaker VTech,http://motherboard.vice.com/read/hacker-obtained-childrens-headshots-and-chatlogs-from-toymaker-vtech,/u/adsouza,11
+3,2015-12-01 09:48:16 -0600,"/t/devops,/t/linux","Linux Performance Analysis in 60,000 Milliseconds",http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html,/u/stig,11
+0,2015-12-01 19:24:01 -0600,"/t/pdf,/t/graphics,/t/math",Simplex noise demystified,http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf,/u/numberten,5
+1,2015-12-01 19:08:30 -0600,"/t/video,/t/practices,/t/programming",Programming Considered Harmful - Dave Chinner Linux Conf AU January 2015,https://www.youtube.com/watch?v=VpuVDfSXs-g,/u/rseymour,3

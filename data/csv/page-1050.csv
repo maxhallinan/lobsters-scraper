@@ -1,25 +1,25 @@
-7,2015-08-10 06:36:22 -0500,"['/t/android', '/t/security']",Exploiting Android Users for Fun and Profit,http://www.codeword.xyz/2015/08/09/exploiting-android-users-for-fun-and-profit/,/u/mediremi,32
-2,2015-08-10 16:46:48 -0500,"['/t/databases', '/t/practices']",Database versioning best practices,http://enterprisecraftsmanship.com/2015/08/10/database-versioning-best-practices/,/u/pushcx,11
-0,2015-08-10 14:46:31 -0500,['/t/programming'],CS For All,http://www.cs.hmc.edu/csforall/,/u/kb,16
-7,2015-08-10 09:18:48 -0500,"['/t/databases', '/t/devops']",Postmortem for July 27 outage of the Joyent Manta service,https://www.joyent.com/blog/manta-postmortem-7-27-2015,/u/apy,15
-0,2015-08-10 20:15:57 -0500,['/t/javascript'],Tips & Tricks for debugging unfamiliar AngularJS code,http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/,/u/zg,6
-7,2015-08-10 10:18:25 -0500,"['/t/math', '/t/security']",NIST Releases SHA-3 Cryptographic Hash Standard,http://www.nist.gov/itl/csd/201508_sha3.cfm,/u/calvin,9
-3,2015-08-10 09:28:28 -0500,"['/t/practices', '/t/programming']",No Flex Zone: Empathy Driven Development,https://medium.com/@duretti/no-flex-zone-empathy-driven-development-aebf4d8cf7cf,/u/englishm,10
-0,2015-08-10 16:42:36 -0500,"['/t/browsers', '/t/compilers', '/t/javascript']",Getting Garbage Collection for Free,http://v8project.blogspot.com/2015/08/getting-garbage-collection-for-free.html,/u/pushcx,6
-0,2015-08-10 19:41:55 -0500,['/t/culture'],How Yuppies Hacked the Hacker Ethos,http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/,/u/evhan,8
-1,2015-08-10 14:41:05 -0500,"['/t/video', '/t/satire', '/t/security']",Not Even Close: The State of Computer Security - James Mickens,https://vimeo.com/135347162,/u/moses,13
-0,2015-08-10 09:01:20 -0500,"['/t/pdf', '/t/compilers']",Branch Prediction and the Performance of Interpreters - Don't Trust Folklore,https://hal.inria.fr/hal-01100647/document,/u/pushcx,11
-5,2015-08-10 08:47:11 -0500,"['/t/lisp', '/t/programming']",Article series on SICP in Clojure,http://www.afronski.pl/sicp-in-clojure/2015/08/07/sicp-in-clojure-chapter-2.html,/u/elkorn,6
-0,2015-08-10 20:03:33 -0500,['/t/distributed'],Travis CI Postmortem - High queue times on OSX builds,https://www.traviscistatus.com/incidents/khzk8bg4p9sy,/u/kb,2
-0,2015-08-10 20:12:03 -0500,"['/t/video', '/t/compilers', '/t/haskell', '/t/security']",Secure Execution of Untrusted Scripts,http://forwardjs.com/university/secure-execution-of-untrusted-scripts,/u/jtobin,1
-0,2015-08-10 00:11:46 -0500,"['/t/cogsci', '/t/compsci', '/t/philosophy']",The Frame Problem,http://plato.stanford.edu/entries/frame-problem/,/u/joe_the_user,6
-0,2015-08-10 03:18:44 -0500,"['/t/programming', '/t/unix']",Pipelines are lazy functional composition with recombination (2011),http://www.cl.cam.ac.uk/~srk31/blog/2011/08/22/,/u/mjn,4
-0,2015-08-10 00:00:57 -0500,"['/t/compsci', '/t/programming']",A tweetable turing machine,https://gist.github.com/mrrrgn/3200044be3fd31f4c3b5,/u/av,5
-11,2015-08-09 22:18:00 -0500,"['/t/culture', '/t/practices']",Funding OSS,https://lukasa.co.uk/2015/08/Funding_OSS/,/u/pushcx,11
-13,2015-08-08 20:53:23 -0500,['/t/rust'],Why Rust Appeals to Me,https://cmcenroe.me/2015/08/08/why-rust.html,/u/curtis,21
-44,2015-08-08 16:19:25 -0500,"['/t/person', '/t/python', '/t/release']",Throwing in the towel,http://www.drmaciver.com/2015/08/throwing-in-the-towel/,/u/pushcx,51
-0,2015-08-09 13:54:01 -0500,['/t/linux'],Introduction to deferred interrupts,https://github.com/0xAX/linux-insides/blob/master/interrupts/interrupts-9.md,/u/vvh,6
-0,2015-08-09 17:56:48 -0500,"['/t/culture', '/t/practices']",The Web Is a Customer Service Medium (2011),http://www.ftrain.com/wwic.html,/u/pushcx,5
-1,2015-08-09 02:26:30 -0500,"['/t/compsci', '/t/graphics']",VPaint: A glimpse into the future of Vector Graphics and 2D Animation,http://www.vpaint.org/,/u/zem,12
-0,2015-08-09 03:30:17 -0500,['/t/haskell'],Nix ± Cabal,http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html,/u/jb55,12
-4,2015-08-08 20:06:31 -0500,"['/t/pdf', '/t/compsci', '/t/release']",The Ubiquitous Fileserver In Plan 9,http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf,/u/friendlysock,16
+7,2015-08-10 06:36:22 -0500,"/t/android,/t/security",Exploiting Android Users for Fun and Profit,http://www.codeword.xyz/2015/08/09/exploiting-android-users-for-fun-and-profit/,/u/mediremi,32
+2,2015-08-10 16:46:48 -0500,"/t/databases,/t/practices",Database versioning best practices,http://enterprisecraftsmanship.com/2015/08/10/database-versioning-best-practices/,/u/pushcx,11
+0,2015-08-10 14:46:31 -0500,/t/programming,CS For All,http://www.cs.hmc.edu/csforall/,/u/kb,16
+7,2015-08-10 09:18:48 -0500,"/t/databases,/t/devops",Postmortem for July 27 outage of the Joyent Manta service,https://www.joyent.com/blog/manta-postmortem-7-27-2015,/u/apy,15
+0,2015-08-10 20:15:57 -0500,/t/javascript,Tips & Tricks for debugging unfamiliar AngularJS code,http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/,/u/zg,6
+7,2015-08-10 10:18:25 -0500,"/t/math,/t/security",NIST Releases SHA-3 Cryptographic Hash Standard,http://www.nist.gov/itl/csd/201508_sha3.cfm,/u/calvin,9
+3,2015-08-10 09:28:28 -0500,"/t/practices,/t/programming",No Flex Zone: Empathy Driven Development,https://medium.com/@duretti/no-flex-zone-empathy-driven-development-aebf4d8cf7cf,/u/englishm,10
+0,2015-08-10 16:42:36 -0500,"/t/browsers,/t/compilers,/t/javascript",Getting Garbage Collection for Free,http://v8project.blogspot.com/2015/08/getting-garbage-collection-for-free.html,/u/pushcx,6
+0,2015-08-10 19:41:55 -0500,/t/culture,How Yuppies Hacked the Hacker Ethos,http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/,/u/evhan,8
+1,2015-08-10 14:41:05 -0500,"/t/video,/t/satire,/t/security",Not Even Close: The State of Computer Security - James Mickens,https://vimeo.com/135347162,/u/moses,13
+0,2015-08-10 09:01:20 -0500,"/t/pdf,/t/compilers",Branch Prediction and the Performance of Interpreters - Don't Trust Folklore,https://hal.inria.fr/hal-01100647/document,/u/pushcx,11
+5,2015-08-10 08:47:11 -0500,"/t/lisp,/t/programming",Article series on SICP in Clojure,http://www.afronski.pl/sicp-in-clojure/2015/08/07/sicp-in-clojure-chapter-2.html,/u/elkorn,6
+0,2015-08-10 20:03:33 -0500,/t/distributed,Travis CI Postmortem - High queue times on OSX builds,https://www.traviscistatus.com/incidents/khzk8bg4p9sy,/u/kb,2
+0,2015-08-10 20:12:03 -0500,"/t/video,/t/compilers,/t/haskell,/t/security",Secure Execution of Untrusted Scripts,http://forwardjs.com/university/secure-execution-of-untrusted-scripts,/u/jtobin,1
+0,2015-08-10 00:11:46 -0500,"/t/cogsci,/t/compsci,/t/philosophy",The Frame Problem,http://plato.stanford.edu/entries/frame-problem/,/u/joe_the_user,6
+0,2015-08-10 03:18:44 -0500,"/t/programming,/t/unix",Pipelines are lazy functional composition with recombination (2011),http://www.cl.cam.ac.uk/~srk31/blog/2011/08/22/,/u/mjn,4
+0,2015-08-10 00:00:57 -0500,"/t/compsci,/t/programming",A tweetable turing machine,https://gist.github.com/mrrrgn/3200044be3fd31f4c3b5,/u/av,5
+11,2015-08-09 22:18:00 -0500,"/t/culture,/t/practices",Funding OSS,https://lukasa.co.uk/2015/08/Funding_OSS/,/u/pushcx,11
+13,2015-08-08 20:53:23 -0500,/t/rust,Why Rust Appeals to Me,https://cmcenroe.me/2015/08/08/why-rust.html,/u/curtis,21
+44,2015-08-08 16:19:25 -0500,"/t/person,/t/python,/t/release",Throwing in the towel,http://www.drmaciver.com/2015/08/throwing-in-the-towel/,/u/pushcx,51
+0,2015-08-09 13:54:01 -0500,/t/linux,Introduction to deferred interrupts,https://github.com/0xAX/linux-insides/blob/master/interrupts/interrupts-9.md,/u/vvh,6
+0,2015-08-09 17:56:48 -0500,"/t/culture,/t/practices",The Web Is a Customer Service Medium (2011),http://www.ftrain.com/wwic.html,/u/pushcx,5
+1,2015-08-09 02:26:30 -0500,"/t/compsci,/t/graphics",VPaint: A glimpse into the future of Vector Graphics and 2D Animation,http://www.vpaint.org/,/u/zem,12
+0,2015-08-09 03:30:17 -0500,/t/haskell,Nix ± Cabal,http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html,/u/jb55,12
+4,2015-08-08 20:06:31 -0500,"/t/pdf,/t/compsci,/t/release",The Ubiquitous Fileserver In Plan 9,http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf,/u/friendlysock,16

@@ -1,25 +1,25 @@
-0,2015-10-21 12:44:56 -0500,"['/t/erlang', '/t/programming']",Heroku Proxying becomes Free Software,http://engineering.heroku.com/blogs/2015-10-21-vegur-free-software,/u/tristan,8
-1,2015-10-21 11:07:20 -0500,"['/t/pdf', '/t/math', '/t/satire']",Burritos for the Hungry Mathematician,http://www.cs.cmu.edu/~edmo/silliness/burrito_monads.pdf,/u/craigstuntz,15
-0,2015-10-21 12:17:15 -0500,"['/t/design', '/t/graphics']",Swiss Style Color Picker,http://swisscolors.net/,/u/flyingfisch,6
-7,2015-10-20 12:54:42 -0500,"['/t/person', '/t/programming']",The author of Mythryl has terminal cancer,http://mythryl.org/pipermail/mythryl/2015-October/000932.html,/u/steveklabnik,46
-0,2015-10-21 15:52:00 -0500,"['/t/rust', '/t/security']",Pumpkin - A cryptographically secure pseudo-random number generator for large primes,https://github.com/zcdziura/pumpkin,/u/blake,3
-0,2015-10-21 15:42:48 -0500,['/t/culture'],Bring Back Your App: How To Prioritize Your Best Features - Quick Left,https://quickleft.com/blog/bring-back-app-prioritize-best-features/,/u/fluxusfrequency,2
-3,2015-10-20 11:49:40 -0500,"['/t/release', '/t/security']",BoringSSL,https://www.imperialviolet.org/2015/10/17/boringssl.html,/u/jcs,36
-2,2015-10-20 17:27:51 -0500,['/t/unix'],"Process Exchange in UNIX 6th Edition: ""You are not expected to understand this""","https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code#.22You_are_not_expected_to_understand_this.22",/u/chadski,14
-21,2015-10-20 10:58:10 -0500,['/t/practices'],Heroku is no longer the hobbyist's friend,https://blog.jalada.co.uk/heroku-is-no-longer-the-hobbyists-friend/,/u/pushcx,18
-9,2015-10-20 12:11:00 -0500,"['/t/show', '/t/programming']",rawcode,http://rawcode.io/,/u/flyingfisch,10
-0,2015-10-21 12:24:41 -0500,"['/t/culture', '/t/web']","Dark Matter: What it is, and how we all contribute to it",https://css-tricks.com/dark-matter-what-it-is-and-how-we-all-contribute-to-it/,/u/flyingfisch,2
-3,2015-10-20 09:15:29 -0500,"['/t/video', '/t/compsci']",How To Use Real Computer Science in Your Day Job,http://www.youtube.com/watch?v=uuiFew1wM30,/u/craigstuntz,11
-0,2015-10-20 16:50:53 -0500,"['/t/lisp', '/t/programming']",Speech Act Classification for Text with Clojure,http://gigasquidsoftware.com/blog/2015/10/20/speech-act-classification-for-text-with-clojure/,/u/carinmeier,6
-0,2015-10-20 00:19:55 -0500,"['/t/security', '/t/web']",Let's Encrypt is Trusted,https://letsencrypt.org//2015/10/19/lets-encrypt-is-trusted.html,/u/acatton,69
-0,2015-10-20 10:34:59 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Vadim Zhukov,http://beastie.pl/deweloperzy-openbsd-vadim-zhukov/,/u/mulander,17
-4,2015-10-20 05:01:08 -0500,['/t/web'],Dillo: A Tiny Graphical Web Browser,http://www.dillo.org/,/u/av,15
-0,2015-10-20 17:51:34 -0500,"['/t/devops', '/t/ruby']",Rails Development On Docker – Part 2,http://engineering.laurelandwolf.com/rails-development-on-docker-part-2/,/u/krainboltgreene,2
-1,2015-10-20 23:17:42 -0500,['/t/java'],Automated Git clone of various OpenJDK branches,https://github.com/dmlloyd/openjdk,/u/zg,2
-1,2015-10-20 15:00:09 -0500,"['/t/android', '/t/javascript', '/t/mobile']",The viability of JS frameworks on mobile,https://joreteg.com/blog/viability-of-js-frameworks-on-mobile,/u/mooreds,5
-3,2015-10-20 01:47:13 -0500,['/t/ml'],So you're learning OCaml...,http://hyegar.com/blog/2015/10/19/so-you%27re-learning-ocaml/,/u/zem,20
-0,2015-10-20 13:33:00 -0500,"['/t/video', '/t/elixir']",Embedded Elixir in Action,https://www.youtube.com/watch?v=kpzQrFC55q4,/u/fredyr,6
-0,2015-10-20 04:18:10 -0500,['/t/compsci'],Pijul: A fast new DVCS based on a categorical theory of patches,https://pijul.org/,/u/zem,15
-2,2015-10-20 04:51:20 -0500,['/t/hardware'],The BBC Micro returns as: micro:bit a mini ARM device,http://www.bbc.co.uk/mediacentre/mediapacks/microbit,/u/james,11
-4,2015-10-20 07:49:03 -0500,['/t/compsci'],Why the name red-black tree?,http://blog.matejzavrsnik.com/2012/09/why-the-name-red-black-tree/,/u/craigstuntz,6
-0,2015-10-20 08:25:29 -0500,['/t/hardware'],Uthernet II,http://macgui.com/gallery/showcat.php?id=6&med=1&with=4002,/u/julienXX,9
+0,2015-10-21 12:44:56 -0500,"/t/erlang,/t/programming",Heroku Proxying becomes Free Software,http://engineering.heroku.com/blogs/2015-10-21-vegur-free-software,/u/tristan,8
+1,2015-10-21 11:07:20 -0500,"/t/pdf,/t/math,/t/satire",Burritos for the Hungry Mathematician,http://www.cs.cmu.edu/~edmo/silliness/burrito_monads.pdf,/u/craigstuntz,15
+0,2015-10-21 12:17:15 -0500,"/t/design,/t/graphics",Swiss Style Color Picker,http://swisscolors.net/,/u/flyingfisch,6
+7,2015-10-20 12:54:42 -0500,"/t/person,/t/programming",The author of Mythryl has terminal cancer,http://mythryl.org/pipermail/mythryl/2015-October/000932.html,/u/steveklabnik,46
+0,2015-10-21 15:52:00 -0500,"/t/rust,/t/security",Pumpkin - A cryptographically secure pseudo-random number generator for large primes,https://github.com/zcdziura/pumpkin,/u/blake,3
+0,2015-10-21 15:42:48 -0500,/t/culture,Bring Back Your App: How To Prioritize Your Best Features - Quick Left,https://quickleft.com/blog/bring-back-app-prioritize-best-features/,/u/fluxusfrequency,2
+3,2015-10-20 11:49:40 -0500,"/t/release,/t/security",BoringSSL,https://www.imperialviolet.org/2015/10/17/boringssl.html,/u/jcs,36
+2,2015-10-20 17:27:51 -0500,/t/unix,"Process Exchange in UNIX 6th Edition: ""You are not expected to understand this""","https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code#.22You_are_not_expected_to_understand_this.22",/u/chadski,14
+21,2015-10-20 10:58:10 -0500,/t/practices,Heroku is no longer the hobbyist's friend,https://blog.jalada.co.uk/heroku-is-no-longer-the-hobbyists-friend/,/u/pushcx,18
+9,2015-10-20 12:11:00 -0500,"/t/show,/t/programming",rawcode,http://rawcode.io/,/u/flyingfisch,10
+0,2015-10-21 12:24:41 -0500,"/t/culture,/t/web","Dark Matter: What it is, and how we all contribute to it",https://css-tricks.com/dark-matter-what-it-is-and-how-we-all-contribute-to-it/,/u/flyingfisch,2
+3,2015-10-20 09:15:29 -0500,"/t/video,/t/compsci",How To Use Real Computer Science in Your Day Job,http://www.youtube.com/watch?v=uuiFew1wM30,/u/craigstuntz,11
+0,2015-10-20 16:50:53 -0500,"/t/lisp,/t/programming",Speech Act Classification for Text with Clojure,http://gigasquidsoftware.com/blog/2015/10/20/speech-act-classification-for-text-with-clojure/,/u/carinmeier,6
+0,2015-10-20 00:19:55 -0500,"/t/security,/t/web",Let's Encrypt is Trusted,https://letsencrypt.org//2015/10/19/lets-encrypt-is-trusted.html,/u/acatton,69
+0,2015-10-20 10:34:59 -0500,"/t/openbsd,/t/person",OpenBSD developers: Vadim Zhukov,http://beastie.pl/deweloperzy-openbsd-vadim-zhukov/,/u/mulander,17
+4,2015-10-20 05:01:08 -0500,/t/web,Dillo: A Tiny Graphical Web Browser,http://www.dillo.org/,/u/av,15
+0,2015-10-20 17:51:34 -0500,"/t/devops,/t/ruby",Rails Development On Docker – Part 2,http://engineering.laurelandwolf.com/rails-development-on-docker-part-2/,/u/krainboltgreene,2
+1,2015-10-20 23:17:42 -0500,/t/java,Automated Git clone of various OpenJDK branches,https://github.com/dmlloyd/openjdk,/u/zg,2
+1,2015-10-20 15:00:09 -0500,"/t/android,/t/javascript,/t/mobile",The viability of JS frameworks on mobile,https://joreteg.com/blog/viability-of-js-frameworks-on-mobile,/u/mooreds,5
+3,2015-10-20 01:47:13 -0500,/t/ml,So you're learning OCaml...,http://hyegar.com/blog/2015/10/19/so-you%27re-learning-ocaml/,/u/zem,20
+0,2015-10-20 13:33:00 -0500,"/t/video,/t/elixir",Embedded Elixir in Action,https://www.youtube.com/watch?v=kpzQrFC55q4,/u/fredyr,6
+0,2015-10-20 04:18:10 -0500,/t/compsci,Pijul: A fast new DVCS based on a categorical theory of patches,https://pijul.org/,/u/zem,15
+2,2015-10-20 04:51:20 -0500,/t/hardware,The BBC Micro returns as: micro:bit a mini ARM device,http://www.bbc.co.uk/mediacentre/mediapacks/microbit,/u/james,11
+4,2015-10-20 07:49:03 -0500,/t/compsci,Why the name red-black tree?,http://blog.matejzavrsnik.com/2012/09/why-the-name-red-black-tree/,/u/craigstuntz,6
+0,2015-10-20 08:25:29 -0500,/t/hardware,Uthernet II,http://macgui.com/gallery/showcat.php?id=6&med=1&with=4002,/u/julienXX,9

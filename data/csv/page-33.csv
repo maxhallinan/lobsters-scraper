@@ -1,25 +1,25 @@
-21,2018-02-05 02:36:40 -0600,"['/t/distributed', '/t/programming', '/t/release']",Centralise Your Bash History,https://zwischenzugs.com/2018/02/05/centralise-your-bash-history/,/u/zwischenzugs,15
-0,2018-02-06 02:54:52 -0600,['/t/security'],CVE-2017-17482: OpenVMS Security Notice for local privilege escalation,https://groups.google.com/forum/#!topic/comp.os.vms/BYIUQ0lJ-s0,/u/dege,3
-1,2018-02-05 06:38:14 -0600,['/t/haskell'],"Extensible, Type-Safe Error Handling In Haskell",http://lthms.xyz/blog/extensible-type-safe-error-handling,/u/lthms,16
-7,2018-02-04 16:08:02 -0600,['/t/programming'],Talks I have given,http://dtrace.org/blogs/bmc/2018/02/03/talks/,/u/bcantrill,48
-1,2018-02-05 12:49:32 -0600,['/t/person'],Ted Nelson: What We Can Still Learn from Xanadu,https://thenewstack.io/ted-nelson-can-still-learn-xanadu/,/u/calvin,10
-0,2018-02-06 06:20:46 -0600,"['/t/compilers', '/t/programming']",FOSDEM 2018 - Introduction to LLVM,https://fosdem.org/2018/schedule/event/introduction/,/u/j11g,1
-1,2018-02-05 10:44:14 -0600,"['/t/art', '/t/plt', '/t/programming']",10 short surrealists reflections about code,https://medium.com/@simone.robutti/10-short-surrealists-reflections-about-code-5fe7214f2477,/u/chobeat,6
-13,2018-02-05 04:36:39 -0600,"['/t/games', '/t/historical']","Guy Finds StarCraft Source Code And Returns It To Blizzard, Gets Free Trip To BlizzCon",https://kotaku.com/guy-finds-starcraft-source-code-and-returns-it-to-blizz-1794897125,/u/mulander,12
-5,2018-02-05 12:26:44 -0600,"['/t/culture', '/t/historical']",The Origin of the word Daemon,http://ei.cs.vt.edu/~history/Daemon.html,/u/calvin,20
-6,2018-02-05 00:28:54 -0600,"['/t/show', '/t/performance', '/t/rust']",Improving the bucket compression trick,https://github.com/robey/pack4x5,/u/robey,15
-0,2018-02-05 19:33:11 -0600,"['/t/c', '/t/c++', '/t/lua', '/t/programming']","xmake v2.1.9 released, provide user custom menu config",http://tboox.org/2018/02/03/update-v2.1.9/,/u/ruki,2
-0,2018-02-05 12:37:28 -0600,['/t/rust'],Writing eBPF tracing tools in Rust,https://jvns.ca/blog/2018/02/05/rust-bcc/,/u/calvin,9
-5,2018-02-05 14:20:46 -0600,['/t/programming'],What kind of programmer are you?,https://dev-knights.github.io/2018/01/30/what-kind-of-programmer-are-you.html,/u/adsouza,3
-0,2018-02-05 15:15:40 -0600,['/t/linux'],Linux Kernel Release Model,http://kroah.com/log/blog/2018/02/05/linux-kernel-release-model,/u/j11g,4
-0,2018-02-05 11:28:05 -0600,['/t/practices'],Working with Queue and Stack people,https://marcesher.com/2014/08/18/working-with-queue-and-stack-people/,/u/vfoley,6
-3,2018-02-05 09:25:59 -0600,"['/t/pdf', '/t/security']",PORTKnockOut: Data Exfiltration via Port Knocking over UDP (2016),https://www.sans.org/reading-room/whitepapers/detection/portknockout-data-exfiltration-port-knocking-udp-37307,/u/nrr,4
-0,2018-02-05 13:02:16 -0600,['/t/haskell'],Return type polymorphism in Haskell,https://eli.thegreenplace.net/2018/return-type-polymorphism-in-haskell/,/u/pushcx,4
-73,2018-02-04 11:52:51 -0600,['/t/person'],My week at the Recurse Center,https://blog.sophaskins.net/blog/my-week-at-the-recurse-center/,/u/dl,33
-0,2018-02-05 00:37:17 -0600,"['/t/pdf', '/t/reversing']",StarCraft: Remastered – Emulating a buffer overflow for fun and profit,http://0xeb.net/wp-content/uploads/2018/02/StarCraft_EUD_Emulator.pdf,/u/freddyb,15
-5,2018-02-04 20:57:38 -0600,['/t/programming'],5 mundane monad examples in everyday use,http://dobegin.com/mundane-monad-examples/,/u/calvin,10
-0,2018-02-05 09:10:23 -0600,"['/t/show', '/t/devops', '/t/linux', '/t/performance', '/t/release', '/t/web']",nuster- v1.7.9.4 is released (A web caching proxy server),https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.4,/u/quicer,2
-3,2018-02-04 20:32:24 -0600,"['/t/book', '/t/debugging']",From intuition to methodology in debugging,http://wozniak.ca/blog/2018/02/04/From-intuition-to-methodology-in-debugging/index.html,/u/GeoffWozniak,8
-3,2018-02-05 04:46:16 -0600,['/t/databases'],How a bad network configuration can cause table bloat,https://www.cybertec-postgresql.com/en/stale-statistics-cause-table-bloat/,/u/adamo,4
-0,2018-02-05 07:01:17 -0600,"['/t/video', '/t/ruby']",Ruby on Rails - Tips and Tricks,https://www.driftingruby.com/episodes/ruby-on-rails-tips-and-tricks,/u/kobaltz,2
-0,2018-02-05 07:22:00 -0600,"['/t/graphics', '/t/math']",An Intuitive Explanation of using Poisson Blending for Seamless Copy-and-Paste of Images,https://erkaman.github.io/posts/poisson_blending.html,/u/calvin,4
+21,2018-02-05 02:36:40 -0600,"/t/distributed,/t/programming,/t/release",Centralise Your Bash History,https://zwischenzugs.com/2018/02/05/centralise-your-bash-history/,/u/zwischenzugs,15
+0,2018-02-06 02:54:52 -0600,/t/security,CVE-2017-17482: OpenVMS Security Notice for local privilege escalation,https://groups.google.com/forum/#!topic/comp.os.vms/BYIUQ0lJ-s0,/u/dege,3
+1,2018-02-05 06:38:14 -0600,/t/haskell,"Extensible, Type-Safe Error Handling In Haskell",http://lthms.xyz/blog/extensible-type-safe-error-handling,/u/lthms,16
+7,2018-02-04 16:08:02 -0600,/t/programming,Talks I have given,http://dtrace.org/blogs/bmc/2018/02/03/talks/,/u/bcantrill,48
+1,2018-02-05 12:49:32 -0600,/t/person,Ted Nelson: What We Can Still Learn from Xanadu,https://thenewstack.io/ted-nelson-can-still-learn-xanadu/,/u/calvin,10
+0,2018-02-06 06:20:46 -0600,"/t/compilers,/t/programming",FOSDEM 2018 - Introduction to LLVM,https://fosdem.org/2018/schedule/event/introduction/,/u/j11g,1
+1,2018-02-05 10:44:14 -0600,"/t/art,/t/plt,/t/programming",10 short surrealists reflections about code,https://medium.com/@simone.robutti/10-short-surrealists-reflections-about-code-5fe7214f2477,/u/chobeat,6
+13,2018-02-05 04:36:39 -0600,"/t/games,/t/historical","Guy Finds StarCraft Source Code And Returns It To Blizzard, Gets Free Trip To BlizzCon",https://kotaku.com/guy-finds-starcraft-source-code-and-returns-it-to-blizz-1794897125,/u/mulander,12
+5,2018-02-05 12:26:44 -0600,"/t/culture,/t/historical",The Origin of the word Daemon,http://ei.cs.vt.edu/~history/Daemon.html,/u/calvin,20
+6,2018-02-05 00:28:54 -0600,"/t/show,/t/performance,/t/rust",Improving the bucket compression trick,https://github.com/robey/pack4x5,/u/robey,15
+0,2018-02-05 19:33:11 -0600,"/t/c,/t/c++,/t/lua,/t/programming","xmake v2.1.9 released, provide user custom menu config",http://tboox.org/2018/02/03/update-v2.1.9/,/u/ruki,2
+0,2018-02-05 12:37:28 -0600,/t/rust,Writing eBPF tracing tools in Rust,https://jvns.ca/blog/2018/02/05/rust-bcc/,/u/calvin,9
+5,2018-02-05 14:20:46 -0600,/t/programming,What kind of programmer are you?,https://dev-knights.github.io/2018/01/30/what-kind-of-programmer-are-you.html,/u/adsouza,3
+0,2018-02-05 15:15:40 -0600,/t/linux,Linux Kernel Release Model,http://kroah.com/log/blog/2018/02/05/linux-kernel-release-model,/u/j11g,4
+0,2018-02-05 11:28:05 -0600,/t/practices,Working with Queue and Stack people,https://marcesher.com/2014/08/18/working-with-queue-and-stack-people/,/u/vfoley,6
+3,2018-02-05 09:25:59 -0600,"/t/pdf,/t/security",PORTKnockOut: Data Exfiltration via Port Knocking over UDP (2016),https://www.sans.org/reading-room/whitepapers/detection/portknockout-data-exfiltration-port-knocking-udp-37307,/u/nrr,4
+0,2018-02-05 13:02:16 -0600,/t/haskell,Return type polymorphism in Haskell,https://eli.thegreenplace.net/2018/return-type-polymorphism-in-haskell/,/u/pushcx,4
+73,2018-02-04 11:52:51 -0600,/t/person,My week at the Recurse Center,https://blog.sophaskins.net/blog/my-week-at-the-recurse-center/,/u/dl,33
+0,2018-02-05 00:37:17 -0600,"/t/pdf,/t/reversing",StarCraft: Remastered – Emulating a buffer overflow for fun and profit,http://0xeb.net/wp-content/uploads/2018/02/StarCraft_EUD_Emulator.pdf,/u/freddyb,15
+5,2018-02-04 20:57:38 -0600,/t/programming,5 mundane monad examples in everyday use,http://dobegin.com/mundane-monad-examples/,/u/calvin,10
+0,2018-02-05 09:10:23 -0600,"/t/show,/t/devops,/t/linux,/t/performance,/t/release,/t/web",nuster- v1.7.9.4 is released (A web caching proxy server),https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.4,/u/quicer,2
+3,2018-02-04 20:32:24 -0600,"/t/book,/t/debugging",From intuition to methodology in debugging,http://wozniak.ca/blog/2018/02/04/From-intuition-to-methodology-in-debugging/index.html,/u/GeoffWozniak,8
+3,2018-02-05 04:46:16 -0600,/t/databases,How a bad network configuration can cause table bloat,https://www.cybertec-postgresql.com/en/stale-statistics-cause-table-bloat/,/u/adamo,4
+0,2018-02-05 07:01:17 -0600,"/t/video,/t/ruby",Ruby on Rails - Tips and Tricks,https://www.driftingruby.com/episodes/ruby-on-rails-tips-and-tricks,/u/kobaltz,2
+0,2018-02-05 07:22:00 -0600,"/t/graphics,/t/math",An Intuitive Explanation of using Poisson Blending for Seamless Copy-and-Paste of Images,https://erkaman.github.io/posts/poisson_blending.html,/u/calvin,4

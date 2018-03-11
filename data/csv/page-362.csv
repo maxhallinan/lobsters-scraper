@@ -1,25 +1,25 @@
-5,2017-05-18 09:59:19 -0500,"['/t/mac', '/t/release']",Vanilla: Hide MacOS Status Bar Icons,http://matthewpalmer.net/vanilla/,/u/pushcx,6
-1,2017-05-18 12:30:14 -0500,"['/t/video', '/t/hardware', '/t/security']",The Search for the Perfect Door,https://www.youtube.com/watch?v=4YYvBLAF4T8,/u/flyingfisch,6
-0,2017-05-18 09:42:50 -0500,['/t/math'],The Fold-and-Cut Problem,http://erikdemaine.org/foldcut/,/u/pushcx,10
-2,2017-05-18 22:00:30 -0500,['/t/javascript'],How Four Native Developers Wrote An Electron App,https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/,/u/joshuacc,1
-2,2017-05-18 11:59:57 -0500,['/t/networking'],Self Connects,https://goodenoughsoftware.net/2013/07/15/self-connects/,/u/neeels,5
-0,2017-05-18 11:42:58 -0500,"['/t/compilers', '/t/fortran', '/t/release']",FLANG: NVIDIA Brings Fortran To LLVM,https://github.com/flang-compiler/flang,/u/calvin,6
-3,2017-05-18 09:51:55 -0500,['/t/programming'],Scala vs Kotlin,https://agilewombat.com/2016/02/01/scala-vs-kotlin/,/u/adsouza,4
-13,2017-05-17 16:22:41 -0500,['/t/web'],Announcing JSON Feed,https://jsonfeed.org/2017/05/17/announcing_json_feed,/u/pushcx,20
-26,2017-05-17 01:27:12 -0500,['/t/devops'],3 Tools I Use On Every Server,https://bsima.me/clog/server-tools.html,/u/bsima,53
-0,2017-05-18 20:49:29 -0500,"['/t/python', '/t/rant']",QTCreepers: A Poem on QT,/s/0ryefd/qtcreepers_poem_on_qt,/u/aulloa,1
-0,2017-05-18 11:19:17 -0500,['/t/programming'],Objects and Functions in Kotlin,http://oneeyedmen.com/objects-and-functions-in-kotlin-part1.html,/u/pushcx,4
-4,2017-05-17 16:44:31 -0500,['/t/devops'],Spotting a million dollars in your AWS account,https://segment.com/blog/spotting-a-million-dollars-in-your-aws-account/,/u/kb,14
-0,2017-05-18 06:06:02 -0500,"['/t/linux', '/t/practices']",Submitting Your First Patch to the Linux kernel and Responding to Feedback,http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback,/u/calvin,7
-0,2017-05-18 02:37:45 -0500,"['/t/c++', '/t/programming']",Sequoia++ Programming Language,http://web.stanford.edu/group/sequoia/,/u/pyk,10
-0,2017-05-18 16:55:44 -0500,"['/t/cryptocurrencies', '/t/privacy', '/t/security']",Monero: Disclosure of a Major Bug in CryptoNote Based Currencies,https://getmonero.org/2017/05/17/disclosure-of-a-major-bug-in-cryptonote-based-currencies.html,/u/trn,1
-5,2017-05-17 13:14:23 -0500,"['/t/art', '/t/graphics']",How to Generate Random Colors Programmatically,http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/,/u/etc,23
-0,2017-05-18 11:18:42 -0500,"['/t/pdf', '/t/compsci']",Theoretical Computer Science Cheat Sheet,https://www.tug.org/texshowcase/cheat.pdf,/u/pushcx,2
-0,2017-05-18 08:19:28 -0500,['/t/networking'],Argo: “Smart Routing” from Cloudflare,https://blog.cloudflare.com/argo/,/u/cemerick,3
-16,2017-05-17 09:27:27 -0500,"['/t/pdf', '/t/slides', '/t/programming']",The Mercury Programming Language,https://www.mercurylang.org/documentation/papers/mfug_talk.pdf,/u/nickpsecurity,21
-12,2017-05-17 07:59:53 -0500,"['/t/ruby', '/t/web']",Thredded Forums Engine,https://thredded.org,/u/glebm,16
-0,2017-05-18 07:04:48 -0500,"['/t/practices', '/t/security']",WannaCry About Business Models,https://stratechery.com/2017/wannacry-and-the-power-of-business-models/,/u/pushcx,3
-0,2017-05-18 00:10:23 -0500,"['/t/video', '/t/distributed', '/t/go', '/t/security']",Upspin: A Global Namespace For Data,https://www.youtube.com/watch?v=giUatBmmb_Y#t=1h19m17s,/u/f2f,7
-3,2017-05-17 09:05:30 -0500,['/t/ruby'],Ruby Backend Performance Getting Started Guide,http://schneems.com/2017/05/17/ruby-backend-performance-getting-started-guide/,/u/schneems,12
-0,2017-05-18 10:06:58 -0500,['/t/security'],Google Bug Bounty - The 5k Error Page,https://slashcrypto.org/2017/05/17/5k_Error_Page/,/u/mulander,1
-2,2017-05-17 15:29:44 -0500,"['/t/finance', '/t/practices', '/t/scaling']",Why Amazon is eating the world,https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/,/u/derek-jones,7
+5,2017-05-18 09:59:19 -0500,"/t/mac,/t/release",Vanilla: Hide MacOS Status Bar Icons,http://matthewpalmer.net/vanilla/,/u/pushcx,6
+1,2017-05-18 12:30:14 -0500,"/t/video,/t/hardware,/t/security",The Search for the Perfect Door,https://www.youtube.com/watch?v=4YYvBLAF4T8,/u/flyingfisch,6
+0,2017-05-18 09:42:50 -0500,/t/math,The Fold-and-Cut Problem,http://erikdemaine.org/foldcut/,/u/pushcx,10
+2,2017-05-18 22:00:30 -0500,/t/javascript,How Four Native Developers Wrote An Electron App,https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/,/u/joshuacc,1
+2,2017-05-18 11:59:57 -0500,/t/networking,Self Connects,https://goodenoughsoftware.net/2013/07/15/self-connects/,/u/neeels,5
+0,2017-05-18 11:42:58 -0500,"/t/compilers,/t/fortran,/t/release",FLANG: NVIDIA Brings Fortran To LLVM,https://github.com/flang-compiler/flang,/u/calvin,6
+3,2017-05-18 09:51:55 -0500,/t/programming,Scala vs Kotlin,https://agilewombat.com/2016/02/01/scala-vs-kotlin/,/u/adsouza,4
+13,2017-05-17 16:22:41 -0500,/t/web,Announcing JSON Feed,https://jsonfeed.org/2017/05/17/announcing_json_feed,/u/pushcx,20
+26,2017-05-17 01:27:12 -0500,/t/devops,3 Tools I Use On Every Server,https://bsima.me/clog/server-tools.html,/u/bsima,53
+0,2017-05-18 20:49:29 -0500,"/t/python,/t/rant",QTCreepers: A Poem on QT,/s/0ryefd/qtcreepers_poem_on_qt,/u/aulloa,1
+0,2017-05-18 11:19:17 -0500,/t/programming,Objects and Functions in Kotlin,http://oneeyedmen.com/objects-and-functions-in-kotlin-part1.html,/u/pushcx,4
+4,2017-05-17 16:44:31 -0500,/t/devops,Spotting a million dollars in your AWS account,https://segment.com/blog/spotting-a-million-dollars-in-your-aws-account/,/u/kb,14
+0,2017-05-18 06:06:02 -0500,"/t/linux,/t/practices",Submitting Your First Patch to the Linux kernel and Responding to Feedback,http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback,/u/calvin,7
+0,2017-05-18 02:37:45 -0500,"/t/c++,/t/programming",Sequoia++ Programming Language,http://web.stanford.edu/group/sequoia/,/u/pyk,10
+0,2017-05-18 16:55:44 -0500,"/t/cryptocurrencies,/t/privacy,/t/security",Monero: Disclosure of a Major Bug in CryptoNote Based Currencies,https://getmonero.org/2017/05/17/disclosure-of-a-major-bug-in-cryptonote-based-currencies.html,/u/trn,1
+5,2017-05-17 13:14:23 -0500,"/t/art,/t/graphics",How to Generate Random Colors Programmatically,http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/,/u/etc,23
+0,2017-05-18 11:18:42 -0500,"/t/pdf,/t/compsci",Theoretical Computer Science Cheat Sheet,https://www.tug.org/texshowcase/cheat.pdf,/u/pushcx,2
+0,2017-05-18 08:19:28 -0500,/t/networking,Argo: “Smart Routing” from Cloudflare,https://blog.cloudflare.com/argo/,/u/cemerick,3
+16,2017-05-17 09:27:27 -0500,"/t/pdf,/t/slides,/t/programming",The Mercury Programming Language,https://www.mercurylang.org/documentation/papers/mfug_talk.pdf,/u/nickpsecurity,21
+12,2017-05-17 07:59:53 -0500,"/t/ruby,/t/web",Thredded Forums Engine,https://thredded.org,/u/glebm,16
+0,2017-05-18 07:04:48 -0500,"/t/practices,/t/security",WannaCry About Business Models,https://stratechery.com/2017/wannacry-and-the-power-of-business-models/,/u/pushcx,3
+0,2017-05-18 00:10:23 -0500,"/t/video,/t/distributed,/t/go,/t/security",Upspin: A Global Namespace For Data,https://www.youtube.com/watch?v=giUatBmmb_Y#t=1h19m17s,/u/f2f,7
+3,2017-05-17 09:05:30 -0500,/t/ruby,Ruby Backend Performance Getting Started Guide,http://schneems.com/2017/05/17/ruby-backend-performance-getting-started-guide/,/u/schneems,12
+0,2017-05-18 10:06:58 -0500,/t/security,Google Bug Bounty - The 5k Error Page,https://slashcrypto.org/2017/05/17/5k_Error_Page/,/u/mulander,1
+2,2017-05-17 15:29:44 -0500,"/t/finance,/t/practices,/t/scaling",Why Amazon is eating the world,https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/,/u/derek-jones,7

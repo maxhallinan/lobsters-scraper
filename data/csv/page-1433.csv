@@ -1,25 +1,25 @@
-0,2013-11-26 17:42:39 -0600,"['/t/browsers', '/t/reversing', '/t/security']",A browser is only as strong as its weakest byte,http://blog.exodusintel.com/2013/11/26/browser-weakest-byte/,/u/jcs,6
-0,2013-11-26 22:04:06 -0600,['/t/go'],Text normalization in Go,http://blog.golang.org/normalization,/u/journeysquid,3
-0,2013-11-26 13:51:15 -0600,['/t/release'],Intel Makes Major Zlib Performance Improvements,http://www.phoronix.com/scan.php?page=news_item&px=MTUyNzY,/u/journeysquid,8
-0,2013-11-26 15:39:21 -0600,['/t/science'],"When We Lose Antibiotics, Here's Everything Else We'll Lose Too",http://www.wired.com/wiredscience/2013/11/end-abx/,/u/SeanTAllen,5
-1,2013-11-26 10:51:04 -0600,['/t/hardware'],Introducing Improv,http://aseigo.blogspot.com/2013/11/introducing-improv.html,/u/jturner,7
-0,2013-11-26 15:44:29 -0600,['/t/book'],Functional Programming for the Object-Oriented Programmer,https://leanpub.com/fp-oo,/u/SeanTAllen,3
-0,2013-11-26 05:50:18 -0600,"['/t/event', '/t/freebsd', '/t/openbsd']","ruBSD 2013 Has Theo de Raadt, Henning Brauer, and Mike Belopuhov Speaking",http://undeadly.org/cgi?action=article&sid=20131126113154&mode=expanded&count=0,/u/jcr,5
-0,2013-11-26 09:37:18 -0600,"['/t/pdf', '/t/networking', '/t/security']",On Covert Acoustical Mesh Networks in Air,http://www.jocm.us/uploadfile/2013/1125/20131125103803901.pdf,/u/kyle,3
-0,2013-11-26 10:09:26 -0600,['/t/design'],Emboss and impress images onto a surface in OpenSCAD,http://blog.cubehero.com/2013/11/25/emboss-and-impress-images-onto-a-surface-in-openscad/,/u/iamwil,1
-0,2013-11-26 08:35:33 -0600,"['/t/javascript', '/t/web']",Writing Better jQuery Code,http://flippinawesome.org/2013/11/25/writing-better-jquery-code/,/u/remotesynth,1
-2,2013-11-25 18:13:37 -0600,['/t/science'],My deadly disease was just a 23andme bug,http://mntmn.com/pages/23andme.html,/u/journeysquid,5
-0,2013-11-25 17:35:08 -0600,['/t/programming'],Watson - an inline issue manager,http://goosecode.com/watson/,/u/ciara,8
-0,2013-11-26 07:15:57 -0600,"['/t/javascript', '/t/web']",Package Authoring with Paqui,http://blog.ponyfoo.com/2013/11/26/package-authoring-with-paqui,/u/bevacqua,1
-0,2013-11-25 23:08:40 -0600,"['/t/c', '/t/security']",Is your stack protector working?,http://www.tedunangst.com/flak/post/is-your-stack-protector-working,/u/jcs,3
-0,2013-11-26 00:43:01 -0600,"['/t/video', '/t/freebsd', '/t/openbsd']",BSDNow Episode 012: Collecting SSHells,http://www.bsdnow.tv/episodes/2013_11_20-collecting_shells,/u/jcr,2
-0,2013-11-25 17:36:16 -0600,"['/t/book', '/t/science']",Neural Networks and Deep Learning,http://neuralnetworksanddeeplearning.com/,/u/ciara,5
-0,2013-11-25 22:53:52 -0600,"['/t/law', '/t/news']",Video Poker 'Hackers' Cleared of Federal Charges,http://www.wired.com/threatlevel/2013/11/video-poker-case/,/u/jcs,2
-0,2013-11-25 19:41:34 -0600,['/t/science'],Engineer's Disease,http://www.dansdata.com/gz145.htm,/u/tedu,3
-0,2013-11-25 18:26:47 -0600,['/t/programming'],clj-tuple: efficient small collections for clojure,https://github.com/ztellman/clj-tuple,/u/SeanTAllen,3
-0,2013-11-25 13:48:18 -0600,"['/t/privacy', '/t/security']",Surveillance as a Business Model,https://www.schneier.com/blog/archives/2013/11/surveillance_as_1.html,/u/kyle,5
-0,2013-11-25 13:58:38 -0600,"['/t/show', '/t/practices', '/t/programming']",A new way to organize programs,http://akkartik.name/post/wart-layers,/u/akkartik,3
-0,2013-11-25 10:33:12 -0600,"['/t/devops', '/t/networking', '/t/openbsd']",Managing Individual IPsec Tunnels On A Multi-Tunnel Gateway,http://undeadly.org/cgi?action=article&sid=20131125041429&mode=expanded&count=0,/u/jcr,4
-0,2013-11-25 17:49:07 -0600,"['/t/show', '/t/lisp', '/t/programming']","My readable lisp implementation with infix, first-class macros, unit tests",http://akkartik.name/post/wart,/u/akkartik,1
-0,2013-11-25 14:06:07 -0600,"['/t/programming', '/t/python']",A minimal text editor in python,http://daten.dieweltistgarnichtso.net/src/minime/README,/u/akkartik,1
-0,2013-11-25 08:32:33 -0600,['/t/javascript'],Applicative Validation,http://brianmckenna.org/blog/applicative_validation_js,/u/puffnfresh,1
+0,2013-11-26 17:42:39 -0600,"/t/browsers,/t/reversing,/t/security",A browser is only as strong as its weakest byte,http://blog.exodusintel.com/2013/11/26/browser-weakest-byte/,/u/jcs,6
+0,2013-11-26 22:04:06 -0600,/t/go,Text normalization in Go,http://blog.golang.org/normalization,/u/journeysquid,3
+0,2013-11-26 13:51:15 -0600,/t/release,Intel Makes Major Zlib Performance Improvements,http://www.phoronix.com/scan.php?page=news_item&px=MTUyNzY,/u/journeysquid,8
+0,2013-11-26 15:39:21 -0600,/t/science,"When We Lose Antibiotics, Here's Everything Else We'll Lose Too",http://www.wired.com/wiredscience/2013/11/end-abx/,/u/SeanTAllen,5
+1,2013-11-26 10:51:04 -0600,/t/hardware,Introducing Improv,http://aseigo.blogspot.com/2013/11/introducing-improv.html,/u/jturner,7
+0,2013-11-26 15:44:29 -0600,/t/book,Functional Programming for the Object-Oriented Programmer,https://leanpub.com/fp-oo,/u/SeanTAllen,3
+0,2013-11-26 05:50:18 -0600,"/t/event,/t/freebsd,/t/openbsd","ruBSD 2013 Has Theo de Raadt, Henning Brauer, and Mike Belopuhov Speaking",http://undeadly.org/cgi?action=article&sid=20131126113154&mode=expanded&count=0,/u/jcr,5
+0,2013-11-26 09:37:18 -0600,"/t/pdf,/t/networking,/t/security",On Covert Acoustical Mesh Networks in Air,http://www.jocm.us/uploadfile/2013/1125/20131125103803901.pdf,/u/kyle,3
+0,2013-11-26 10:09:26 -0600,/t/design,Emboss and impress images onto a surface in OpenSCAD,http://blog.cubehero.com/2013/11/25/emboss-and-impress-images-onto-a-surface-in-openscad/,/u/iamwil,1
+0,2013-11-26 08:35:33 -0600,"/t/javascript,/t/web",Writing Better jQuery Code,http://flippinawesome.org/2013/11/25/writing-better-jquery-code/,/u/remotesynth,1
+2,2013-11-25 18:13:37 -0600,/t/science,My deadly disease was just a 23andme bug,http://mntmn.com/pages/23andme.html,/u/journeysquid,5
+0,2013-11-25 17:35:08 -0600,/t/programming,Watson - an inline issue manager,http://goosecode.com/watson/,/u/ciara,8
+0,2013-11-26 07:15:57 -0600,"/t/javascript,/t/web",Package Authoring with Paqui,http://blog.ponyfoo.com/2013/11/26/package-authoring-with-paqui,/u/bevacqua,1
+0,2013-11-25 23:08:40 -0600,"/t/c,/t/security",Is your stack protector working?,http://www.tedunangst.com/flak/post/is-your-stack-protector-working,/u/jcs,3
+0,2013-11-26 00:43:01 -0600,"/t/video,/t/freebsd,/t/openbsd",BSDNow Episode 012: Collecting SSHells,http://www.bsdnow.tv/episodes/2013_11_20-collecting_shells,/u/jcr,2
+0,2013-11-25 17:36:16 -0600,"/t/book,/t/science",Neural Networks and Deep Learning,http://neuralnetworksanddeeplearning.com/,/u/ciara,5
+0,2013-11-25 22:53:52 -0600,"/t/law,/t/news",Video Poker 'Hackers' Cleared of Federal Charges,http://www.wired.com/threatlevel/2013/11/video-poker-case/,/u/jcs,2
+0,2013-11-25 19:41:34 -0600,/t/science,Engineer's Disease,http://www.dansdata.com/gz145.htm,/u/tedu,3
+0,2013-11-25 18:26:47 -0600,/t/programming,clj-tuple: efficient small collections for clojure,https://github.com/ztellman/clj-tuple,/u/SeanTAllen,3
+0,2013-11-25 13:48:18 -0600,"/t/privacy,/t/security",Surveillance as a Business Model,https://www.schneier.com/blog/archives/2013/11/surveillance_as_1.html,/u/kyle,5
+0,2013-11-25 13:58:38 -0600,"/t/show,/t/practices,/t/programming",A new way to organize programs,http://akkartik.name/post/wart-layers,/u/akkartik,3
+0,2013-11-25 10:33:12 -0600,"/t/devops,/t/networking,/t/openbsd",Managing Individual IPsec Tunnels On A Multi-Tunnel Gateway,http://undeadly.org/cgi?action=article&sid=20131125041429&mode=expanded&count=0,/u/jcr,4
+0,2013-11-25 17:49:07 -0600,"/t/show,/t/lisp,/t/programming","My readable lisp implementation with infix, first-class macros, unit tests",http://akkartik.name/post/wart,/u/akkartik,1
+0,2013-11-25 14:06:07 -0600,"/t/programming,/t/python",A minimal text editor in python,http://daten.dieweltistgarnichtso.net/src/minime/README,/u/akkartik,1
+0,2013-11-25 08:32:33 -0600,/t/javascript,Applicative Validation,http://brianmckenna.org/blog/applicative_validation_js,/u/puffnfresh,1

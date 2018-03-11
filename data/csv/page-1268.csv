@@ -1,25 +1,25 @@
-0,2014-08-15 04:14:03 -0500,"['/t/programming', '/t/release']","Semaphore CI, free plans for private & Open Source projects",https://semaphoreapp.com/blog/2014/08/14/semaphore-gets-free.html,/u/dotemacs,1
-0,2014-08-14 15:24:16 -0500,"['/t/compsci', '/t/emacs', '/t/go', '/t/javascript', '/t/programming', '/t/release', '/t/ruby']","srclib: a hackable, polyglot source analysis library for making better code tools",https://srclib.org/,/u/sqs,6
-0,2014-08-14 12:13:14 -0500,"['/t/devops', '/t/php']",WordPress Performance Tuning (100x Improvement),https://blog.engineyard.com/2014/wordpress-in-the-cloud-part-5,/u/nslater,5
-0,2014-08-14 13:47:13 -0500,"['/t/finance', '/t/hardware']",Data Center Cooling Done Differently,http://perspectives.mvdirona.com/2014/08/14/DataCenterCoolingDoneDifferently.aspx,/u/apy,3
-0,2014-08-14 17:42:38 -0500,"['/t/pdf', '/t/distributed']",Designing for Self-Configuration and Self-Adaptation in the Internet of Things,http://wnss.sv.cmu.edu/papers/ciot-13.pdf,/u/kellogh,1
-2,2014-08-13 22:32:29 -0500,['/t/show'],Imageless - Instantly remove distracting images from webpages,https://chrome.google.com/webstore/detail/imageless/ceagmcmlnnpcdhnlocedfdciecplcpgj,/u/ramoq,7
-0,2014-08-14 14:34:02 -0500,"['/t/api', '/t/distributed']",Microservices and the First Law of Distributed Objects,http://martinfowler.com/articles/distributed-objects-microservices.html,/u/journeysquid,1
-9,2014-08-13 01:39:46 -0500,['/t/programming'],Think you've mastered the art of server performance? Think again.,http://queue.acm.org/detail.cfm?id=1814327,/u/SeanTAllen,26
-28,2014-08-13 10:53:54 -0500,"['/t/ask', '/t/programming']",What are some of your favorite learning projects or toy implementations and why?,/s/5jv0lq/what_are_some_your_favorite_learning,/u/englishm,30
-0,2014-08-14 06:59:33 -0500,['/t/math'],Sailing Hydrofoils and the Fold Catastrophe,http://www.penzba.co.uk/Catastrophe/,/u/RiderOfGiraffes,1
-0,2014-08-14 06:20:24 -0500,['/t/windows'],Now is the time to Develop Windows Universal Apps!,http://developer.telerik.com/featured/now-time-develop-windows-universal-apps/,/u/remotesynth,1
-0,2014-08-13 14:26:30 -0500,['/t/security'],A Few Thoughts on Cryptographic Engineering: What's the matter with PGP?,http://blog.cryptographyengineering.com/2014/08/whats-matter-with-pgp.html,/u/RiderOfGiraffes,8
-0,2014-08-13 11:24:02 -0500,"['/t/dotnet', '/t/reversing', '/t/security']",Reverse engineering a compromised TOR browser bundle,http://dustri.org/b/torbundlebrowserorg.html,/u/jm,9
-0,2014-08-13 10:58:26 -0500,['/t/networking'],What caused today's Internet hiccup,http://www.bgpmon.net/what-caused-todays-internet-hiccup/,/u/journeysquid,8
-1,2014-08-13 11:33:40 -0500,['/t/hardware'],DIY High-Speed Book Scanner from Trash and Cheap Cameras,http://www.instructables.com/id/DIY-High-Speed-Book-Scanner-from-Trash-and-Cheap-C/,/u/RiderOfGiraffes,5
-0,2014-08-13 11:15:49 -0500,['/t/math'],Square Root By Long Division,http://www.solipsys.co.uk/new/SquareRootByLongDivision.html?LB_20140813,/u/RiderOfGiraffes,4
-0,2014-08-13 12:55:01 -0500,"['/t/php', '/t/programming', '/t/scaling', '/t/web']",Profiling PHP Part 1: Intro to Xhprof & Xhgui,https://blog.engineyard.com/2014/profiling-with-xhprof-xhgui-part-1,/u/dshafik,3
-0,2014-08-12 20:03:51 -0500,['/t/hardware'],"Errata prompts Intel to disable TSX in Haswell, early Broadwell CPUs",http://techreport.com/news/26911/errata-prompts-intel-to-disable-tsx-in-haswell-early-broadwell-cpus,/u/journeysquid,13
-0,2014-08-12 20:59:17 -0500,"['/t/assembly', '/t/lua', '/t/programming']",The Unofficial DynASM Documentation,https://corsix.github.io/dynasm-doc/index.html,/u/tca,11
-0,2014-08-12 15:22:44 -0500,"['/t/compsci', '/t/ml', '/t/programming']",Implementations of different type systems in OCaml,https://github.com/tomprimozic/type-systems,/u/zem,19
-1,2014-08-12 18:17:49 -0500,"['/t/compsci', '/t/ml', '/t/scala']",Scala’s Modular Roots,http://blog.pellucid.com/post/94532532890/scalas-modular-roots-by-dan-james-earlier-this,/u/soc,9
-3,2014-08-13 01:50:35 -0500,['/t/meta'],"Newest stories by user, ordering?",/s/8xnbwb/newest_stories_by_user_ordering,/u/SeanTAllen,7
-0,2014-08-12 20:19:38 -0500,"['/t/video', '/t/compsci', '/t/visualization']",First-person Hyperlapse Videos,http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/,/u/tedu,6
-0,2014-08-12 16:44:48 -0500,['/t/hardware'],An FPGA sprite graphics accelerator,http://andybrown.me.uk/wk/2014/06/01/ase/,/u/pushcx,8
-0,2014-08-12 16:29:08 -0500,['/t/math'],Using formal verification to complete a proof of the Kepler conjecture,http://www.newscientist.com/article/dn26041-proof-confirmed-of-400yearold-fruitstacking-problem.html,/u/zem,8
+0,2014-08-15 04:14:03 -0500,"/t/programming,/t/release","Semaphore CI, free plans for private & Open Source projects",https://semaphoreapp.com/blog/2014/08/14/semaphore-gets-free.html,/u/dotemacs,1
+0,2014-08-14 15:24:16 -0500,"/t/compsci,/t/emacs,/t/go,/t/javascript,/t/programming,/t/release,/t/ruby","srclib: a hackable, polyglot source analysis library for making better code tools",https://srclib.org/,/u/sqs,6
+0,2014-08-14 12:13:14 -0500,"/t/devops,/t/php",WordPress Performance Tuning (100x Improvement),https://blog.engineyard.com/2014/wordpress-in-the-cloud-part-5,/u/nslater,5
+0,2014-08-14 13:47:13 -0500,"/t/finance,/t/hardware",Data Center Cooling Done Differently,http://perspectives.mvdirona.com/2014/08/14/DataCenterCoolingDoneDifferently.aspx,/u/apy,3
+0,2014-08-14 17:42:38 -0500,"/t/pdf,/t/distributed",Designing for Self-Configuration and Self-Adaptation in the Internet of Things,http://wnss.sv.cmu.edu/papers/ciot-13.pdf,/u/kellogh,1
+2,2014-08-13 22:32:29 -0500,/t/show,Imageless - Instantly remove distracting images from webpages,https://chrome.google.com/webstore/detail/imageless/ceagmcmlnnpcdhnlocedfdciecplcpgj,/u/ramoq,7
+0,2014-08-14 14:34:02 -0500,"/t/api,/t/distributed",Microservices and the First Law of Distributed Objects,http://martinfowler.com/articles/distributed-objects-microservices.html,/u/journeysquid,1
+9,2014-08-13 01:39:46 -0500,/t/programming,Think you've mastered the art of server performance? Think again.,http://queue.acm.org/detail.cfm?id=1814327,/u/SeanTAllen,26
+28,2014-08-13 10:53:54 -0500,"/t/ask,/t/programming",What are some of your favorite learning projects or toy implementations and why?,/s/5jv0lq/what_are_some_your_favorite_learning,/u/englishm,30
+0,2014-08-14 06:59:33 -0500,/t/math,Sailing Hydrofoils and the Fold Catastrophe,http://www.penzba.co.uk/Catastrophe/,/u/RiderOfGiraffes,1
+0,2014-08-14 06:20:24 -0500,/t/windows,Now is the time to Develop Windows Universal Apps!,http://developer.telerik.com/featured/now-time-develop-windows-universal-apps/,/u/remotesynth,1
+0,2014-08-13 14:26:30 -0500,/t/security,A Few Thoughts on Cryptographic Engineering: What's the matter with PGP?,http://blog.cryptographyengineering.com/2014/08/whats-matter-with-pgp.html,/u/RiderOfGiraffes,8
+0,2014-08-13 11:24:02 -0500,"/t/dotnet,/t/reversing,/t/security",Reverse engineering a compromised TOR browser bundle,http://dustri.org/b/torbundlebrowserorg.html,/u/jm,9
+0,2014-08-13 10:58:26 -0500,/t/networking,What caused today's Internet hiccup,http://www.bgpmon.net/what-caused-todays-internet-hiccup/,/u/journeysquid,8
+1,2014-08-13 11:33:40 -0500,/t/hardware,DIY High-Speed Book Scanner from Trash and Cheap Cameras,http://www.instructables.com/id/DIY-High-Speed-Book-Scanner-from-Trash-and-Cheap-C/,/u/RiderOfGiraffes,5
+0,2014-08-13 11:15:49 -0500,/t/math,Square Root By Long Division,http://www.solipsys.co.uk/new/SquareRootByLongDivision.html?LB_20140813,/u/RiderOfGiraffes,4
+0,2014-08-13 12:55:01 -0500,"/t/php,/t/programming,/t/scaling,/t/web",Profiling PHP Part 1: Intro to Xhprof & Xhgui,https://blog.engineyard.com/2014/profiling-with-xhprof-xhgui-part-1,/u/dshafik,3
+0,2014-08-12 20:03:51 -0500,/t/hardware,"Errata prompts Intel to disable TSX in Haswell, early Broadwell CPUs",http://techreport.com/news/26911/errata-prompts-intel-to-disable-tsx-in-haswell-early-broadwell-cpus,/u/journeysquid,13
+0,2014-08-12 20:59:17 -0500,"/t/assembly,/t/lua,/t/programming",The Unofficial DynASM Documentation,https://corsix.github.io/dynasm-doc/index.html,/u/tca,11
+0,2014-08-12 15:22:44 -0500,"/t/compsci,/t/ml,/t/programming",Implementations of different type systems in OCaml,https://github.com/tomprimozic/type-systems,/u/zem,19
+1,2014-08-12 18:17:49 -0500,"/t/compsci,/t/ml,/t/scala",Scala’s Modular Roots,http://blog.pellucid.com/post/94532532890/scalas-modular-roots-by-dan-james-earlier-this,/u/soc,9
+3,2014-08-13 01:50:35 -0500,/t/meta,"Newest stories by user, ordering?",/s/8xnbwb/newest_stories_by_user_ordering,/u/SeanTAllen,7
+0,2014-08-12 20:19:38 -0500,"/t/video,/t/compsci,/t/visualization",First-person Hyperlapse Videos,http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/,/u/tedu,6
+0,2014-08-12 16:44:48 -0500,/t/hardware,An FPGA sprite graphics accelerator,http://andybrown.me.uk/wk/2014/06/01/ase/,/u/pushcx,8
+0,2014-08-12 16:29:08 -0500,/t/math,Using formal verification to complete a proof of the Kepler conjecture,http://www.newscientist.com/article/dn26041-proof-confirmed-of-400yearold-fruitstacking-problem.html,/u/zem,8

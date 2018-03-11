@@ -1,25 +1,25 @@
-1,2017-06-19 03:48:37 -0500,"['/t/pdf', '/t/law', '/t/privacy']",Marju Lauristin's E-privacy draft report,http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-606.011%2B01%2BDOC%2BPDF%2BV0%2F%2FEN,/u/stsp,2
-0,2017-06-18 21:21:13 -0500,['/t/java'],Specification for Value Classes,http://cr.openjdk.java.net/~dlsmith/values.html,/u/pushcx,4
-3,2017-06-18 14:56:19 -0500,"['/t/browsers', '/t/javascript', '/t/performance', '/t/web']","Choo, architecture & performance",https://medium.com/@yoshuawuyts/choo-architecture-performance-f6f0c44e8a6a,/u/yoshuawuyts,2
-6,2017-06-17 20:56:39 -0500,"['/t/show', '/t/programming']",bash.rocks: run and share your favorite shell in browser,https://bash.rocks,/u/mzh,13
-1,2017-06-18 10:14:38 -0500,"['/t/linux', '/t/release']",Alpine Linux v3.6.2 Released,https://alpinelinux.org/posts/Alpine-3.6.2-released.html,/u/nikolay,9
-4,2017-06-17 23:14:03 -0500,['/t/security'],Mozilla OpenSSH Hardening Guide,https://wiki.mozilla.org/Security/Guidelines/OpenSSH,/u/atti1a,24
-0,2017-06-18 14:37:45 -0500,['/t/c'],How indeterminate is an indeterminate value?,http://shape-of-code.coding-guidelines.com/2017/06/18/how-indeterminate-is-an-indeterminate-value/,/u/GeoffWozniak,4
-0,2017-06-18 05:04:28 -0500,"['/t/programming', '/t/python']",Managing Django’s settings,https://medium.com/wemake-services/managing-djangos-settings-e2b7f496120d,/u/sobolevn,6
-0,2017-06-18 22:31:49 -0500,"['/t/cryptocurrencies', '/t/philosophy']",The Tor of Money,https://medium.com/@hudon/the-tor-of-money-5cedb4894f05,/u/friendlysock,1
-10,2017-06-17 12:55:17 -0500,"['/t/performance', '/t/testing']",Is It Snappy?,http://isitsnappy.com/,/u/mikejsavage,33
-0,2017-06-18 14:51:36 -0500,['/t/math'],The Mosteller Hall Puzzle,http://jonathanweisberg.org/post/Teaching%20Monty%20Hall/,/u/pushcx,3
-8,2017-06-17 15:28:13 -0500,['/t/unix'],curl doesn’t spew binary anymore,https://daniel.haxx.se/blog/2017/06/17/curl-doesnt-spew-binary-anymore/,/u/calvin,28
-5,2017-06-17 21:22:54 -0500,['/t/android'],"Long time contributor and app packager, krt, leaves F-Droid",https://forum.f-droid.org/t/so-long-farewell-and-goodbye/600,/u/pizzaiolo,12
-0,2017-06-18 06:11:14 -0500,"['/t/ai', '/t/reversing']",Indexing Faces on Instagram,https://kndrck.co/indexing-faces-on-instagram.html,/u/calvin,6
-0,2017-06-18 17:43:46 -0500,"['/t/hardware', '/t/reversing', '/t/security']",Rooting a Printer: From Security Bulletin to Remote Code Execution,https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution,/u/jcs,1
-0,2017-06-18 14:50:57 -0500,['/t/culture'],Survey on LibreOffice features,https://design.blog.documentfoundation.org/2017/06/17/survey-libreoffice-features/,/u/pizzaiolo,1
-0,2017-06-17 18:07:38 -0500,"['/t/formalmethods', '/t/java', '/t/programming']",Java Pathfinder - NASA's Model-Checker for Java,http://babelfish.arc.nasa.gov/trac/jpf/wiki/intro/start,/u/nickpsecurity,8
-3,2017-06-17 20:21:26 -0500,"['/t/culture', '/t/practices']",Should your Engineering Lead be fired?,https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3,/u/friendlysock,10
-61,2017-06-17 19:40:17 -0500,['/t/culture'],"For an Inclusive Culture, Try Working Less",https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea,/u/cnst,27
-23,2017-06-16 15:28:16 -0500,"['/t/c', '/t/programming']",The C standard committee continues its effort to kill C,http://www.yodaiken.com/2017/06/16/the-c-standard-committee-effort-to-kill-c-continues/,/u/vyodaiken,30
-0,2017-06-17 11:27:20 -0500,"['/t/programming', '/t/ruby']",Faster Ruby via better IR and JIT,https://github.com/vnmakarov/ruby,/u/wjh,11
-1,2017-06-17 12:45:32 -0500,"['/t/formalmethods', '/t/java']",An example of debugging Java with a model checker,http://www.cs.unh.edu/~charpov/programming-tlabuffer.html,/u/hwayne,7
-0,2017-06-17 20:52:38 -0500,"['/t/compsci', '/t/visualization']",Solving Graph Problems with City Bikes of Helsinki,https://medium.com/@lhartikk/solving-graph-problems-with-city-bikes-of-helsinki-c02a90584814,/u/calvin,3
-4,2017-06-17 16:59:15 -0500,"['/t/javascript', '/t/testing']","No excuses, write unit tests",https://dev.to/jackmarchant/no-excuses-write-unit-tests,/u/pushcx,2
-0,2017-06-17 06:10:38 -0500,"['/t/slides', '/t/video', '/t/elm']",Full-Scale Elm in Production,https://www.infoq.com/presentations/elm-producton,/u/calvin,12
+1,2017-06-19 03:48:37 -0500,"/t/pdf,/t/law,/t/privacy",Marju Lauristin's E-privacy draft report,http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-606.011%2B01%2BDOC%2BPDF%2BV0%2F%2FEN,/u/stsp,2
+0,2017-06-18 21:21:13 -0500,/t/java,Specification for Value Classes,http://cr.openjdk.java.net/~dlsmith/values.html,/u/pushcx,4
+3,2017-06-18 14:56:19 -0500,"/t/browsers,/t/javascript,/t/performance,/t/web","Choo, architecture & performance",https://medium.com/@yoshuawuyts/choo-architecture-performance-f6f0c44e8a6a,/u/yoshuawuyts,2
+6,2017-06-17 20:56:39 -0500,"/t/show,/t/programming",bash.rocks: run and share your favorite shell in browser,https://bash.rocks,/u/mzh,13
+1,2017-06-18 10:14:38 -0500,"/t/linux,/t/release",Alpine Linux v3.6.2 Released,https://alpinelinux.org/posts/Alpine-3.6.2-released.html,/u/nikolay,9
+4,2017-06-17 23:14:03 -0500,/t/security,Mozilla OpenSSH Hardening Guide,https://wiki.mozilla.org/Security/Guidelines/OpenSSH,/u/atti1a,24
+0,2017-06-18 14:37:45 -0500,/t/c,How indeterminate is an indeterminate value?,http://shape-of-code.coding-guidelines.com/2017/06/18/how-indeterminate-is-an-indeterminate-value/,/u/GeoffWozniak,4
+0,2017-06-18 05:04:28 -0500,"/t/programming,/t/python",Managing Django’s settings,https://medium.com/wemake-services/managing-djangos-settings-e2b7f496120d,/u/sobolevn,6
+0,2017-06-18 22:31:49 -0500,"/t/cryptocurrencies,/t/philosophy",The Tor of Money,https://medium.com/@hudon/the-tor-of-money-5cedb4894f05,/u/friendlysock,1
+10,2017-06-17 12:55:17 -0500,"/t/performance,/t/testing",Is It Snappy?,http://isitsnappy.com/,/u/mikejsavage,33
+0,2017-06-18 14:51:36 -0500,/t/math,The Mosteller Hall Puzzle,http://jonathanweisberg.org/post/Teaching%20Monty%20Hall/,/u/pushcx,3
+8,2017-06-17 15:28:13 -0500,/t/unix,curl doesn’t spew binary anymore,https://daniel.haxx.se/blog/2017/06/17/curl-doesnt-spew-binary-anymore/,/u/calvin,28
+5,2017-06-17 21:22:54 -0500,/t/android,"Long time contributor and app packager, krt, leaves F-Droid",https://forum.f-droid.org/t/so-long-farewell-and-goodbye/600,/u/pizzaiolo,12
+0,2017-06-18 06:11:14 -0500,"/t/ai,/t/reversing",Indexing Faces on Instagram,https://kndrck.co/indexing-faces-on-instagram.html,/u/calvin,6
+0,2017-06-18 17:43:46 -0500,"/t/hardware,/t/reversing,/t/security",Rooting a Printer: From Security Bulletin to Remote Code Execution,https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution,/u/jcs,1
+0,2017-06-18 14:50:57 -0500,/t/culture,Survey on LibreOffice features,https://design.blog.documentfoundation.org/2017/06/17/survey-libreoffice-features/,/u/pizzaiolo,1
+0,2017-06-17 18:07:38 -0500,"/t/formalmethods,/t/java,/t/programming",Java Pathfinder - NASA's Model-Checker for Java,http://babelfish.arc.nasa.gov/trac/jpf/wiki/intro/start,/u/nickpsecurity,8
+3,2017-06-17 20:21:26 -0500,"/t/culture,/t/practices",Should your Engineering Lead be fired?,https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3,/u/friendlysock,10
+61,2017-06-17 19:40:17 -0500,/t/culture,"For an Inclusive Culture, Try Working Less",https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea,/u/cnst,27
+23,2017-06-16 15:28:16 -0500,"/t/c,/t/programming",The C standard committee continues its effort to kill C,http://www.yodaiken.com/2017/06/16/the-c-standard-committee-effort-to-kill-c-continues/,/u/vyodaiken,30
+0,2017-06-17 11:27:20 -0500,"/t/programming,/t/ruby",Faster Ruby via better IR and JIT,https://github.com/vnmakarov/ruby,/u/wjh,11
+1,2017-06-17 12:45:32 -0500,"/t/formalmethods,/t/java",An example of debugging Java with a model checker,http://www.cs.unh.edu/~charpov/programming-tlabuffer.html,/u/hwayne,7
+0,2017-06-17 20:52:38 -0500,"/t/compsci,/t/visualization",Solving Graph Problems with City Bikes of Helsinki,https://medium.com/@lhartikk/solving-graph-problems-with-city-bikes-of-helsinki-c02a90584814,/u/calvin,3
+4,2017-06-17 16:59:15 -0500,"/t/javascript,/t/testing","No excuses, write unit tests",https://dev.to/jackmarchant/no-excuses-write-unit-tests,/u/pushcx,2
+0,2017-06-17 06:10:38 -0500,"/t/slides,/t/video,/t/elm",Full-Scale Elm in Production,https://www.infoq.com/presentations/elm-producton,/u/calvin,12

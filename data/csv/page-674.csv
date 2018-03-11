@@ -1,25 +1,25 @@
-2,2016-08-30 21:16:16 -0500,"['/t/security', '/t/web']",The story of how WoSign gave me an SSL certificate for GitHub.com,https://www.schrauger.com/the-story-of-how-wosign-gave-me-an-ssl-certificate-for-github-com,/u/calvin,9
-1,2016-08-30 20:59:26 -0500,"['/t/cryptocurrencies', '/t/security']",33% of all bitcoin exchanges operational during 2009-2015 were hacked,https://news.hodlhodl.com/news/33-of-all-bitcoin-exchanges-operational-during-2009-2015-were-hacked-268,/u/pushcx,8
-20,2016-08-30 12:43:15 -0500,['/t/web'],OS/browser stats for Wikipedia,https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-os,/u/adsouza,16
-6,2016-08-30 18:30:18 -0500,['/t/programming'],Climbing the infinite ladder of abstraction,http://lexi-lambda.github.io/blog/2016/08/11/climbing-the-infinite-ladder-of-abstraction/,/u/pushcx,9
-0,2016-08-31 13:59:21 -0500,['/t/security'],NCC Group releases Hodor fuzzer,https://github.com/nccgroup/hodor,/u/lattera,1
-0,2016-08-31 10:02:17 -0500,"['/t/assembly', '/t/programming', '/t/release']","SASM - Simple crossplatform IDE for NASM, MASM, GAS, FASM assembly languages",https://dman95.github.io/SASM/english.html,/u/halosghost,2
-7,2016-08-30 10:35:21 -0500,"['/t/programming', '/t/python']",The Fastest Fizzbuzz In The West,https://www.promptworks.com/blog/the-fastest-fizzbuzz-in-the-west,/u/di,9
-0,2016-08-31 03:47:43 -0500,"['/t/cogsci', '/t/programming']",OpenAI - Infrastructure for Deep Learning,https://openai.com/blog/infrastructure-for-deep-learning/,/u/Dawny33,4
-0,2016-08-30 18:25:38 -0500,['/t/practices'],"Yes, Virginia, You Can Estimate That",https://medium.com/@skamille/yes-virginia-you-can-estimate-that-e33303eec9cf,/u/tobym,12
-9,2016-08-29 21:25:16 -0500,"['/t/lua', '/t/programming']","Why I don't hate Lua, even though by all measures I should",https://technomancy.us/181,/u/technomancy,37
-3,2016-08-30 12:49:40 -0500,['/t/programming'],Merkle Trees,http://blog.carlosgaldino.com/merkle-trees.html,/u/carlosgaldino,7
-0,2016-08-31 00:50:36 -0500,"['/t/compsci', '/t/java', '/t/programming']",lambda - Functional patterns for Java,https://github.com/palatable/lambda,/u/jnape,2
-0,2016-08-30 19:06:32 -0500,"['/t/games', '/t/networking']",Quake 3 Unlagged,http://www.ra.is/unlagged/,/u/mikejsavage,8
-6,2016-08-30 07:09:16 -0500,"['/t/devops', '/t/virtualization']",A Docker Fork: Talk of a Split Is Now on the Table,http://thenewstack.io/docker-fork-talk-split-now-table/,/u/seschwar,13
-0,2016-08-30 16:23:57 -0500,['/t/design'],Sentry: A new look,https://blog.sentry.io/2016/08/30/a-new-look.html,/u/bentlegen,5
-0,2016-08-30 22:34:55 -0500,"['/t/pdf', '/t/android', '/t/security']",Android Security: A Broad Overview & A Dive into the World of Advertising,http://comp427.blogs.rice.edu/files/2015/01/android-base-1t6hnxx.pdf,/u/friendlysock,2
-0,2016-08-30 13:12:20 -0500,['/t/hardware'],Frix - Feasible and Reconfigurable IBM PC Compatible SoC,http://www.arch.cs.titech.ac.jp/a/Frix/,/u/sevan,7
-0,2016-08-30 19:29:11 -0500,['/t/devops'],Why We Chose Kubernetes Over ECS,https://railsadventures.wordpress.com/2015/12/06/why-we-chose-kubernetes-over-ecs/,/u/adsouza,3
-8,2016-08-30 05:35:23 -0500,['/t/freebsd'],A FreeBSD 10 Desktop How-to (2014),https://cooltrainer.org/a-freebsd-desktop-howto/,/u/mjturner,7
-0,2016-08-30 12:50:50 -0500,['/t/devops'],Kubernetes Logging With Elasticsearch and Kibana,https://deis.com/blog/2016/kubernetes-logging-with-elasticsearch-and-kibana/,/u/tiwarinitish86,2
-2,2016-08-30 09:49:57 -0500,"['/t/c', '/t/release']",POCO C++ 1.7.5 Available,http://pocoproject.org/blog/?p=1012,/u/Mordo,3
-2,2016-08-29 23:36:32 -0500,['/t/science'],Not a Drill: SETI Is Investigating a Possible Extraterrestrial Signal From Deep Space,http://observer.com/2016/08/not-a-drill-seti-is-investigating-a-possible-extraterrestrial-signal-from-deep-space/,/u/edwardw,9
-0,2016-08-30 17:35:33 -0500,['/t/databases'],Building a Scalable Postgres Metrics Backend using the Citus Extension,https://www.citusdata.com/blog/2016/08/30/citus-clouds-usage-of-citus-cloud/,/u/craigkerstiens,2
-26,2016-08-29 19:37:21 -0500,"['/t/compsci', '/t/programming', '/t/release', '/t/security']","Clay and Clay - Two, safer languages for systems programming",http://pastebin.com/XQ8D5Srz,/u/nickpsecurity,12
-0,2016-08-30 18:52:32 -0500,['/t/practices'],Product Development Cycle Fundamentals,http://www.themacro.com/articles/2016/08/product-development-cycle-fundamentals/,/u/adsouza,1
+2,2016-08-30 21:16:16 -0500,"/t/security,/t/web",The story of how WoSign gave me an SSL certificate for GitHub.com,https://www.schrauger.com/the-story-of-how-wosign-gave-me-an-ssl-certificate-for-github-com,/u/calvin,9
+1,2016-08-30 20:59:26 -0500,"/t/cryptocurrencies,/t/security",33% of all bitcoin exchanges operational during 2009-2015 were hacked,https://news.hodlhodl.com/news/33-of-all-bitcoin-exchanges-operational-during-2009-2015-were-hacked-268,/u/pushcx,8
+20,2016-08-30 12:43:15 -0500,/t/web,OS/browser stats for Wikipedia,https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-os,/u/adsouza,16
+6,2016-08-30 18:30:18 -0500,/t/programming,Climbing the infinite ladder of abstraction,http://lexi-lambda.github.io/blog/2016/08/11/climbing-the-infinite-ladder-of-abstraction/,/u/pushcx,9
+0,2016-08-31 13:59:21 -0500,/t/security,NCC Group releases Hodor fuzzer,https://github.com/nccgroup/hodor,/u/lattera,1
+0,2016-08-31 10:02:17 -0500,"/t/assembly,/t/programming,/t/release","SASM - Simple crossplatform IDE for NASM, MASM, GAS, FASM assembly languages",https://dman95.github.io/SASM/english.html,/u/halosghost,2
+7,2016-08-30 10:35:21 -0500,"/t/programming,/t/python",The Fastest Fizzbuzz In The West,https://www.promptworks.com/blog/the-fastest-fizzbuzz-in-the-west,/u/di,9
+0,2016-08-31 03:47:43 -0500,"/t/cogsci,/t/programming",OpenAI - Infrastructure for Deep Learning,https://openai.com/blog/infrastructure-for-deep-learning/,/u/Dawny33,4
+0,2016-08-30 18:25:38 -0500,/t/practices,"Yes, Virginia, You Can Estimate That",https://medium.com/@skamille/yes-virginia-you-can-estimate-that-e33303eec9cf,/u/tobym,12
+9,2016-08-29 21:25:16 -0500,"/t/lua,/t/programming","Why I don't hate Lua, even though by all measures I should",https://technomancy.us/181,/u/technomancy,37
+3,2016-08-30 12:49:40 -0500,/t/programming,Merkle Trees,http://blog.carlosgaldino.com/merkle-trees.html,/u/carlosgaldino,7
+0,2016-08-31 00:50:36 -0500,"/t/compsci,/t/java,/t/programming",lambda - Functional patterns for Java,https://github.com/palatable/lambda,/u/jnape,2
+0,2016-08-30 19:06:32 -0500,"/t/games,/t/networking",Quake 3 Unlagged,http://www.ra.is/unlagged/,/u/mikejsavage,8
+6,2016-08-30 07:09:16 -0500,"/t/devops,/t/virtualization",A Docker Fork: Talk of a Split Is Now on the Table,http://thenewstack.io/docker-fork-talk-split-now-table/,/u/seschwar,13
+0,2016-08-30 16:23:57 -0500,/t/design,Sentry: A new look,https://blog.sentry.io/2016/08/30/a-new-look.html,/u/bentlegen,5
+0,2016-08-30 22:34:55 -0500,"/t/pdf,/t/android,/t/security",Android Security: A Broad Overview & A Dive into the World of Advertising,http://comp427.blogs.rice.edu/files/2015/01/android-base-1t6hnxx.pdf,/u/friendlysock,2
+0,2016-08-30 13:12:20 -0500,/t/hardware,Frix - Feasible and Reconfigurable IBM PC Compatible SoC,http://www.arch.cs.titech.ac.jp/a/Frix/,/u/sevan,7
+0,2016-08-30 19:29:11 -0500,/t/devops,Why We Chose Kubernetes Over ECS,https://railsadventures.wordpress.com/2015/12/06/why-we-chose-kubernetes-over-ecs/,/u/adsouza,3
+8,2016-08-30 05:35:23 -0500,/t/freebsd,A FreeBSD 10 Desktop How-to (2014),https://cooltrainer.org/a-freebsd-desktop-howto/,/u/mjturner,7
+0,2016-08-30 12:50:50 -0500,/t/devops,Kubernetes Logging With Elasticsearch and Kibana,https://deis.com/blog/2016/kubernetes-logging-with-elasticsearch-and-kibana/,/u/tiwarinitish86,2
+2,2016-08-30 09:49:57 -0500,"/t/c,/t/release",POCO C++ 1.7.5 Available,http://pocoproject.org/blog/?p=1012,/u/Mordo,3
+2,2016-08-29 23:36:32 -0500,/t/science,Not a Drill: SETI Is Investigating a Possible Extraterrestrial Signal From Deep Space,http://observer.com/2016/08/not-a-drill-seti-is-investigating-a-possible-extraterrestrial-signal-from-deep-space/,/u/edwardw,9
+0,2016-08-30 17:35:33 -0500,/t/databases,Building a Scalable Postgres Metrics Backend using the Citus Extension,https://www.citusdata.com/blog/2016/08/30/citus-clouds-usage-of-citus-cloud/,/u/craigkerstiens,2
+26,2016-08-29 19:37:21 -0500,"/t/compsci,/t/programming,/t/release,/t/security","Clay and Clay - Two, safer languages for systems programming",http://pastebin.com/XQ8D5Srz,/u/nickpsecurity,12
+0,2016-08-30 18:52:32 -0500,/t/practices,Product Development Cycle Fundamentals,http://www.themacro.com/articles/2016/08/product-development-cycle-fundamentals/,/u/adsouza,1

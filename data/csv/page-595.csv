@@ -1,25 +1,25 @@
-1,2016-11-18 18:01:11 -0600,['/t/security'],ServiceWorker's Link leads to botnet-like persistent JS worker,https://bugs.chromium.org/p/chromium/issues/detail?id=662443,/u/fcbsd,6
-15,2016-11-18 04:26:22 -0600,['/t/security'],"Finally, Our Own OS – Oh Yes! (Kaspersky OS)",https://eugene.kaspersky.com/2016/11/15/finally-our-own-os-oh-yes/,/u/sanxiyn,19
-0,2016-11-18 16:39:16 -0600,"['/t/browsers', '/t/distributed']",WikipediaP2P: Chrome extension based on Webtorrent and WebRTC,https://www.wikipediap2p.org/,/u/pizzaiolo,9
-0,2016-11-18 12:33:23 -0600,['/t/hardware'],Updating the KLN89B GPS,http://dmitry.gr/index.php?r=05.Projects&proj=21.%20KLN89,/u/pushcx,14
-0,2016-11-18 19:26:30 -0600,"['/t/debugging', '/t/python']",Analysis of a Python performance issue,https://haypo.github.io/analysis-python-performance-issue.html,/u/ngoldbaum,6
-2,2016-11-18 12:44:25 -0600,"['/t/haskell', '/t/lisp']",Understanding Clojure transducers through types [2014],http://conscientiousprogrammer.com/blog/2014/08/07/understanding-cloure-transducers-through-types/,/u/unbalancedparentheses,8
-0,2016-11-19 02:17:31 -0600,['/t/programming'],Elasticsearch: Adventures in scaling a multitenant platform,http://www.bigeng.io/elasticsearch-scaling-multitenant/,/u/av,2
-0,2016-11-18 22:48:29 -0600,['/t/web'],Pinterest: How we switched our template rendering engine to React,https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react,/u/kevinSuttle,3
-9,2016-11-18 13:35:25 -0600,"['/t/linux', '/t/windows']",Microsoft ❤️ Linux? Microsoft ❤️ running its Windows' SQL Server software on Linux,http://www.theregister.co.uk/2016/11/18/microsoft_running_windows_apps_on_linux/,/u/calvin,4
-2,2016-11-18 03:54:01 -0600,"['/t/assembly', '/t/compsci']",A Magnetized Needle and a Steady Hand,http://nullprogram.com/blog/2016/11/17/,/u/omnibrain,20
-0,2016-11-18 10:18:03 -0600,"['/t/compilers', '/t/ruby']",Introducing the Ruby+OMR JIT,https://developer.ibm.com/open/2016/11/18/introducing-ruby-jit/,/u/mgaudet,6
-0,2016-11-18 13:59:03 -0600,['/t/c'],kw-udon/constexpr-8cc,https://github.com/kw-udon/constexpr-8cc,/u/friendlysock,7
-0,2016-11-18 15:07:29 -0600,"['/t/compilers', '/t/rust']",An Experiment in Garbage Collection,http://pliniker.github.io/mo-gc-intro.html,/u/fitzgen,6
-0,2016-11-18 11:33:28 -0600,"['/t/video', '/t/rust']",Building Languages In Rust,https://www.youtube.com/watch?v=U3upi-y2pCk,/u/unbalancedparentheses,7
-0,2016-11-18 18:38:30 -0600,['/t/browsers'],More ways to contribute to WebExtensions,https://blog.mozilla.org/addons/2016/11/03/more-ways-to-contribute-to-webextensions/,/u/flyingfisch,2
-0,2016-11-18 05:56:11 -0600,"['/t/compsci', '/t/hardware']",Big Hex Machine,https://bighexmachine.github.io/,/u/av,10
-12,2016-11-17 12:52:19 -0600,"['/t/javascript', '/t/web']",Why We Chose Turbolinks,https://changelog.com/posts/why-we-chose-turbolinks,/u/soulcutter,28
-0,2016-11-18 06:57:57 -0600,"['/t/c', '/t/security']","Twice the bits, twice the trouble: vulnerabilities induced by migrating to 64-bit platforms",https://blog.acolyer.org/2016/11/17/twice-the-bits-twice-the-trouble-vulnerabilities-induced-by-migrating-to-64-bit-platforms/,/u/svag,6
-18,2016-11-17 21:11:50 -0600,['/t/culture'],What.CD has shut down,http://www.theverge.com/2016/11/17/13669832/what-cd-music-torrent-website-shut-down,/u/nickfrostatx,33
-1,2016-11-17 23:57:58 -0600,['/t/haskell'],Clean Alternatives with MaybeT,http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html,/u/pushcx,9
-0,2016-11-18 04:01:00 -0600,['/t/c'],Three Star Programming Examples,http://wiki.c2.com/?ThreeStarProgrammerExamples,/u/friendlysock,6
-8,2016-11-17 12:28:36 -0600,"['/t/law', '/t/privacy']","Britain just passed the ""most extreme surveillance law ever passed in a democracy""",http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/,/u/pushcx,16
-15,2016-11-17 06:12:57 -0600,['/t/openbsd'],openbsd changes of note,http://www.tedunangst.com/flak/post/openbsd-changes-of-note,/u/mulander,32
-0,2016-11-18 05:50:29 -0600,"['/t/privacy', '/t/web']",Click - Monitoring user activity via browser events,https://clickclickclick.click/,/u/av,4
-0,2016-11-18 12:31:00 -0600,['/t/cogsci'],An Alarm Designer on How to Annoy People in the Most Effective Ways,http://www.atlasobscura.com/articles/an-alarm-designer-on-how-to-annoy-people-in-the-most-effective-ways,/u/pushcx,1
+1,2016-11-18 18:01:11 -0600,/t/security,ServiceWorker's Link leads to botnet-like persistent JS worker,https://bugs.chromium.org/p/chromium/issues/detail?id=662443,/u/fcbsd,6
+15,2016-11-18 04:26:22 -0600,/t/security,"Finally, Our Own OS – Oh Yes! (Kaspersky OS)",https://eugene.kaspersky.com/2016/11/15/finally-our-own-os-oh-yes/,/u/sanxiyn,19
+0,2016-11-18 16:39:16 -0600,"/t/browsers,/t/distributed",WikipediaP2P: Chrome extension based on Webtorrent and WebRTC,https://www.wikipediap2p.org/,/u/pizzaiolo,9
+0,2016-11-18 12:33:23 -0600,/t/hardware,Updating the KLN89B GPS,http://dmitry.gr/index.php?r=05.Projects&proj=21.%20KLN89,/u/pushcx,14
+0,2016-11-18 19:26:30 -0600,"/t/debugging,/t/python",Analysis of a Python performance issue,https://haypo.github.io/analysis-python-performance-issue.html,/u/ngoldbaum,6
+2,2016-11-18 12:44:25 -0600,"/t/haskell,/t/lisp",Understanding Clojure transducers through types [2014],http://conscientiousprogrammer.com/blog/2014/08/07/understanding-cloure-transducers-through-types/,/u/unbalancedparentheses,8
+0,2016-11-19 02:17:31 -0600,/t/programming,Elasticsearch: Adventures in scaling a multitenant platform,http://www.bigeng.io/elasticsearch-scaling-multitenant/,/u/av,2
+0,2016-11-18 22:48:29 -0600,/t/web,Pinterest: How we switched our template rendering engine to React,https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react,/u/kevinSuttle,3
+9,2016-11-18 13:35:25 -0600,"/t/linux,/t/windows",Microsoft ❤️ Linux? Microsoft ❤️ running its Windows' SQL Server software on Linux,http://www.theregister.co.uk/2016/11/18/microsoft_running_windows_apps_on_linux/,/u/calvin,4
+2,2016-11-18 03:54:01 -0600,"/t/assembly,/t/compsci",A Magnetized Needle and a Steady Hand,http://nullprogram.com/blog/2016/11/17/,/u/omnibrain,20
+0,2016-11-18 10:18:03 -0600,"/t/compilers,/t/ruby",Introducing the Ruby+OMR JIT,https://developer.ibm.com/open/2016/11/18/introducing-ruby-jit/,/u/mgaudet,6
+0,2016-11-18 13:59:03 -0600,/t/c,kw-udon/constexpr-8cc,https://github.com/kw-udon/constexpr-8cc,/u/friendlysock,7
+0,2016-11-18 15:07:29 -0600,"/t/compilers,/t/rust",An Experiment in Garbage Collection,http://pliniker.github.io/mo-gc-intro.html,/u/fitzgen,6
+0,2016-11-18 11:33:28 -0600,"/t/video,/t/rust",Building Languages In Rust,https://www.youtube.com/watch?v=U3upi-y2pCk,/u/unbalancedparentheses,7
+0,2016-11-18 18:38:30 -0600,/t/browsers,More ways to contribute to WebExtensions,https://blog.mozilla.org/addons/2016/11/03/more-ways-to-contribute-to-webextensions/,/u/flyingfisch,2
+0,2016-11-18 05:56:11 -0600,"/t/compsci,/t/hardware",Big Hex Machine,https://bighexmachine.github.io/,/u/av,10
+12,2016-11-17 12:52:19 -0600,"/t/javascript,/t/web",Why We Chose Turbolinks,https://changelog.com/posts/why-we-chose-turbolinks,/u/soulcutter,28
+0,2016-11-18 06:57:57 -0600,"/t/c,/t/security","Twice the bits, twice the trouble: vulnerabilities induced by migrating to 64-bit platforms",https://blog.acolyer.org/2016/11/17/twice-the-bits-twice-the-trouble-vulnerabilities-induced-by-migrating-to-64-bit-platforms/,/u/svag,6
+18,2016-11-17 21:11:50 -0600,/t/culture,What.CD has shut down,http://www.theverge.com/2016/11/17/13669832/what-cd-music-torrent-website-shut-down,/u/nickfrostatx,33
+1,2016-11-17 23:57:58 -0600,/t/haskell,Clean Alternatives with MaybeT,http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html,/u/pushcx,9
+0,2016-11-18 04:01:00 -0600,/t/c,Three Star Programming Examples,http://wiki.c2.com/?ThreeStarProgrammerExamples,/u/friendlysock,6
+8,2016-11-17 12:28:36 -0600,"/t/law,/t/privacy","Britain just passed the ""most extreme surveillance law ever passed in a democracy""",http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/,/u/pushcx,16
+15,2016-11-17 06:12:57 -0600,/t/openbsd,openbsd changes of note,http://www.tedunangst.com/flak/post/openbsd-changes-of-note,/u/mulander,32
+0,2016-11-18 05:50:29 -0600,"/t/privacy,/t/web",Click - Monitoring user activity via browser events,https://clickclickclick.click/,/u/av,4
+0,2016-11-18 12:31:00 -0600,/t/cogsci,An Alarm Designer on How to Annoy People in the Most Effective Ways,http://www.atlasobscura.com/articles/an-alarm-designer-on-how-to-annoy-people-in-the-most-effective-ways,/u/pushcx,1

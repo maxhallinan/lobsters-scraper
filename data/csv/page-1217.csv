@@ -1,25 +1,25 @@
-0,2014-11-17 09:14:15 -0600,['/t/mobile'],Styling Native Apps with CSS,http://developer.telerik.com/featured/styling-native-apps-css/,/u/remotesynth,1
-12,2014-11-16 05:51:12 -0600,"['/t/linux', '/t/mac']","Thoughts on OS X Yosemite, Arch Linux and xmonad",http://blog.jakubarnold.cz/2014/11/16/thoughts-on-os-x-yosemite-arch-linux-and-xmonad.html,/u/darthdeus,16
-0,2014-11-17 07:57:05 -0600,"['/t/pdf', '/t/security']","Bootkits: Past, Present, and Future",https://www.virusbtn.com/pdf/conference_slides/2014/RodionovMatrosov-VB2014.pdf,/u/lattera,1
-0,2014-11-17 07:31:16 -0600,['/t/security'],Debugging and reverse engineering: Stuxnet - User/Kernel-Mode analysis,http://bsodanalysis.blogspot.sg/2014/11/stuxnet-kernel-analysis.html,/u/lattera,1
-2,2014-11-16 13:17:26 -0600,"['/t/emacs', '/t/programming']",Emacs script pitfalls,http://www.lunaryorn.com/2014/08/12/emacs-script-pitfalls.html,/u/csantosb,7
-0,2014-11-16 17:33:04 -0600,"['/t/distributed', '/t/erlang']","SyncFree / Programming Models, Part 3: Ad Counter, Part 1",http://christophermeiklejohn.com/derflow/erlang/2014/11/16/ad-counter-derflow.html,/u/cmeiklejohn,4
-0,2014-11-16 09:24:16 -0600,"['/t/video', '/t/databases', '/t/distributed']",A Brief History of Time in Riak,https://www.youtube.com/watch?v=HHkKPdOi-ZU&index=3&list=PL9Jh2HsAWHxLco7V1SjU9hUzP53CBZOYO,/u/SeanTAllen,10
-1,2014-11-16 09:50:30 -0600,"['/t/compsci', '/t/philosophy', '/t/programming']",Programming and Computer Science: an imminent divorce?,http://blog.txus.io/2014/10/programming-and-computer-science-an-imminent-divorce/,/u/zeeshanlakhani,5
-0,2014-11-16 13:59:38 -0600,"['/t/satire', '/t/security']",Make PGP messages and signatures more interesting,https://github.com/mapmeld/profanity65,/u/journeysquid,8
-0,2014-11-16 13:58:40 -0600,['/t/release'],PhotoDrive - Photo storage & sync powered by Flickr,http://photodrive.io/,/u/dh,1
-4,2014-11-15 13:28:09 -0600,['/t/games'],0h h1,http://0hh1.com/,/u/dh,14
-0,2014-11-16 08:11:50 -0600,"['/t/law', '/t/networking']","Behind Closed Doors, Ford, UPS, and Visa Push for Net Neutrality",http://www.businessweek.com/articles/2014-11-14/net-neutrality-ford-ups-visa-and-bofa-lobby-fcc-in-secret,/u/journeysquid,1
-0,2014-11-15 21:33:54 -0600,['/t/practices'],Correlation between the application design and the human resource recruiters,https://medium.com/@max_flynt/correlation-between-the-application-design-and-the-human-resource-recruiters-e84c8da7ab02,/u/joshuacc,4
-1,2014-11-15 09:43:36 -0600,"['/t/video', '/t/scaling']",Aeron: Open-source high-performance messaging,https://www.youtube.com/watch?v=tM4YskS94b0,/u/moses,13
-10,2014-11-14 14:14:36 -0600,"['/t/databases', '/t/haskell']",Actually Using the Database,https://bendyworks.com/actually-using-the-database/,/u/listrophy,44
-1,2014-11-15 08:16:36 -0600,"['/t/lisp', '/t/programming']","on yakshave, on color, on cosines, on glitchen",http://wingolog.org/archives/2014/11/14/on-yakshave-on-color-on-cosines-on-glitchen,/u/apg,6
-1,2014-11-15 12:35:08 -0600,['/t/release'],Inferno Raspberry Pi image – alpha release (alpha1),http://lynxline.com/inferno-raspberry-pi-image-alpha-release1/,/u/sevan,2
-0,2014-11-15 15:37:32 -0600,"['/t/video', '/t/programming']",GLyphy: High-quality Glyph Rendering Using OpenGL ES2 Shaders,https://www.youtube.com/watch?v=7tHv6mcIIeo,/u/ocharles,1
-0,2014-11-15 14:04:21 -0600,['/t/ruby'],Rubinius 3.0 articles,http://rubini.us/2014/11/14/rubinius-3-0-part-5-the-language/,/u/tedu,1
-6,2014-11-14 09:33:00 -0600,['/t/freebsd'],FreeBSD 10.1-RELEASE images are available,http://ftp.freebsd.org/pub/FreeBSD/releases/amd64/amd64/ISO-IMAGES/10.1/,/u/fcambus,11
-7,2014-11-14 04:37:39 -0600,['/t/scaling'],AWS Lambda,http://aws.amazon.com/lambda/,/u/moses,16
-1,2014-11-14 15:34:06 -0600,['/t/security'],"Hacker Emails BrowserStack's Customers, Says Company Lied About Security",http://techcrunch.com/2014/11/10/hacker-emails-testing-service-browserstacks-customers-says-company-lied-about-security/,/u/journeysquid,4
-0,2014-11-15 02:35:02 -0600,['/t/javascript'],mschema - a concise alternate to JSON-Schema,https://github.com/mschema/mschema,/u/marak,1
-8,2014-11-14 14:09:39 -0600,['/t/culture'],Twitter's self immolation,https://notes.pinboard.in/u:slogger/63db300bf8692a376737,/u/dh,10
-1,2014-11-14 17:00:55 -0600,['/t/devops'],AWS Advent 2014 Call for Participation is now open!,http://awsadvent.tumblr.com/post/102640971144/aws-advent-2014-call-for-participation,/u/solarce,3
+0,2014-11-17 09:14:15 -0600,/t/mobile,Styling Native Apps with CSS,http://developer.telerik.com/featured/styling-native-apps-css/,/u/remotesynth,1
+12,2014-11-16 05:51:12 -0600,"/t/linux,/t/mac","Thoughts on OS X Yosemite, Arch Linux and xmonad",http://blog.jakubarnold.cz/2014/11/16/thoughts-on-os-x-yosemite-arch-linux-and-xmonad.html,/u/darthdeus,16
+0,2014-11-17 07:57:05 -0600,"/t/pdf,/t/security","Bootkits: Past, Present, and Future",https://www.virusbtn.com/pdf/conference_slides/2014/RodionovMatrosov-VB2014.pdf,/u/lattera,1
+0,2014-11-17 07:31:16 -0600,/t/security,Debugging and reverse engineering: Stuxnet - User/Kernel-Mode analysis,http://bsodanalysis.blogspot.sg/2014/11/stuxnet-kernel-analysis.html,/u/lattera,1
+2,2014-11-16 13:17:26 -0600,"/t/emacs,/t/programming",Emacs script pitfalls,http://www.lunaryorn.com/2014/08/12/emacs-script-pitfalls.html,/u/csantosb,7
+0,2014-11-16 17:33:04 -0600,"/t/distributed,/t/erlang","SyncFree / Programming Models, Part 3: Ad Counter, Part 1",http://christophermeiklejohn.com/derflow/erlang/2014/11/16/ad-counter-derflow.html,/u/cmeiklejohn,4
+0,2014-11-16 09:24:16 -0600,"/t/video,/t/databases,/t/distributed",A Brief History of Time in Riak,https://www.youtube.com/watch?v=HHkKPdOi-ZU&index=3&list=PL9Jh2HsAWHxLco7V1SjU9hUzP53CBZOYO,/u/SeanTAllen,10
+1,2014-11-16 09:50:30 -0600,"/t/compsci,/t/philosophy,/t/programming",Programming and Computer Science: an imminent divorce?,http://blog.txus.io/2014/10/programming-and-computer-science-an-imminent-divorce/,/u/zeeshanlakhani,5
+0,2014-11-16 13:59:38 -0600,"/t/satire,/t/security",Make PGP messages and signatures more interesting,https://github.com/mapmeld/profanity65,/u/journeysquid,8
+0,2014-11-16 13:58:40 -0600,/t/release,PhotoDrive - Photo storage & sync powered by Flickr,http://photodrive.io/,/u/dh,1
+4,2014-11-15 13:28:09 -0600,/t/games,0h h1,http://0hh1.com/,/u/dh,14
+0,2014-11-16 08:11:50 -0600,"/t/law,/t/networking","Behind Closed Doors, Ford, UPS, and Visa Push for Net Neutrality",http://www.businessweek.com/articles/2014-11-14/net-neutrality-ford-ups-visa-and-bofa-lobby-fcc-in-secret,/u/journeysquid,1
+0,2014-11-15 21:33:54 -0600,/t/practices,Correlation between the application design and the human resource recruiters,https://medium.com/@max_flynt/correlation-between-the-application-design-and-the-human-resource-recruiters-e84c8da7ab02,/u/joshuacc,4
+1,2014-11-15 09:43:36 -0600,"/t/video,/t/scaling",Aeron: Open-source high-performance messaging,https://www.youtube.com/watch?v=tM4YskS94b0,/u/moses,13
+10,2014-11-14 14:14:36 -0600,"/t/databases,/t/haskell",Actually Using the Database,https://bendyworks.com/actually-using-the-database/,/u/listrophy,44
+1,2014-11-15 08:16:36 -0600,"/t/lisp,/t/programming","on yakshave, on color, on cosines, on glitchen",http://wingolog.org/archives/2014/11/14/on-yakshave-on-color-on-cosines-on-glitchen,/u/apg,6
+1,2014-11-15 12:35:08 -0600,/t/release,Inferno Raspberry Pi image – alpha release (alpha1),http://lynxline.com/inferno-raspberry-pi-image-alpha-release1/,/u/sevan,2
+0,2014-11-15 15:37:32 -0600,"/t/video,/t/programming",GLyphy: High-quality Glyph Rendering Using OpenGL ES2 Shaders,https://www.youtube.com/watch?v=7tHv6mcIIeo,/u/ocharles,1
+0,2014-11-15 14:04:21 -0600,/t/ruby,Rubinius 3.0 articles,http://rubini.us/2014/11/14/rubinius-3-0-part-5-the-language/,/u/tedu,1
+6,2014-11-14 09:33:00 -0600,/t/freebsd,FreeBSD 10.1-RELEASE images are available,http://ftp.freebsd.org/pub/FreeBSD/releases/amd64/amd64/ISO-IMAGES/10.1/,/u/fcambus,11
+7,2014-11-14 04:37:39 -0600,/t/scaling,AWS Lambda,http://aws.amazon.com/lambda/,/u/moses,16
+1,2014-11-14 15:34:06 -0600,/t/security,"Hacker Emails BrowserStack's Customers, Says Company Lied About Security",http://techcrunch.com/2014/11/10/hacker-emails-testing-service-browserstacks-customers-says-company-lied-about-security/,/u/journeysquid,4
+0,2014-11-15 02:35:02 -0600,/t/javascript,mschema - a concise alternate to JSON-Schema,https://github.com/mschema/mschema,/u/marak,1
+8,2014-11-14 14:09:39 -0600,/t/culture,Twitter's self immolation,https://notes.pinboard.in/u:slogger/63db300bf8692a376737,/u/dh,10
+1,2014-11-14 17:00:55 -0600,/t/devops,AWS Advent 2014 Call for Participation is now open!,http://awsadvent.tumblr.com/post/102640971144/aws-advent-2014-call-for-participation,/u/solarce,3

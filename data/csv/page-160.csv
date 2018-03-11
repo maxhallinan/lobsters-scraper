@@ -1,25 +1,25 @@
-0,2017-10-20 21:34:16 -0500,"['/t/dotnet', '/t/ml']",F# introduction for my coworkers,https://simendsjo.me/fsharp-intro/,/u/calvin,9
-0,2017-10-20 06:08:46 -0500,"['/t/show', '/t/css', '/t/haskell', '/t/web']",Hasmin - A Haskell CSS minifier,https://github.com/contivero/hasmin,/u/contivero,25
-4,2017-10-20 07:06:55 -0500,['/t/openbsd'],OpenBSD on the pine64,https://chown.me/blog/playing-with-the-pine64.html,/u/dgv,32
-0,2017-10-21 06:46:24 -0500,"['/t/crypto', '/t/reversing']",Hack.lu 2017 Writeups,http://wiki.yobi.be/wiki/Hack.lu_2017_Writeups,/u/fcbsd,2
-0,2017-10-20 14:24:26 -0500,['/t/practices'],Andrew Wiles on the State of Being Stuck,http://calnewport.com/blog/2017/10/20/andrew-wiles-on-the-state-of-being-stuck/,/u/joshuacc,13
-0,2017-10-20 11:29:29 -0500,"['/t/hardware', '/t/historical']",The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor,https://spectrum.ieee.org/tech-history/heroic-failures/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor,/u/trn,13
-0,2017-10-20 13:07:18 -0500,"['/t/freebsd', '/t/security']",The First PS4 Kernel Exploit: Adieu,https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/,/u/lattera,9
-1,2017-10-20 07:00:22 -0500,['/t/assembly'],Writing a Bootloader (Part 1),http://3zanders.co.uk/2017/10/13/writing-a-bootloader/,/u/av,15
-1,2017-10-20 13:20:42 -0500,"['/t/haskell', '/t/programming']",Becoming Foolish,https://hmemcpy.com/2017/10/becoming-foolish/,/u/bbrown,8
-2,2017-10-20 11:22:56 -0500,"['/t/show', '/t/ai']",Announcing PlaidML: Open Source Deep Learning for Every Platform,http://vertex.ai/blog/announcing-plaidml,/u/hedgehog,3
-2,2017-10-20 07:55:14 -0500,"['/t/c++', '/t/programming']",Pointer free programming and the future of Nim,https://nim-lang.org/araq/destructors.html,/u/zdsmith,9
-0,2017-10-20 11:45:38 -0500,['/t/programming'],The Economics of Semantic Coding,https://blog.isomorf.io/the-economics-of-semantic-coding-7e8fd1b421e6,/u/bkent,4
-0,2017-10-20 11:31:56 -0500,['/t/css'],Breaking down CSS Box Shadow vs. Drop Shadow,https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/,/u/soulcutter,6
-0,2017-10-20 15:02:04 -0500,['/t/privacy'],UW ADINT: Advertising as Surveillance,https://adint.cs.washington.edu/,/u/k749gtnc9l3w,5
-6,2017-10-19 16:51:51 -0500,"['/t/compsci', '/t/release']",Diff engine for Markdown,https://kristaps.bsd.lv/lowdown/diff.html,/u/kristapsdz,29
-0,2017-10-20 09:46:00 -0500,"['/t/video', '/t/programming']",Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau,https://dyalog.tv/Dyalog17/?v=9xCJ3BCIudI,/u/tokenrove,7
-6,2017-10-20 04:05:36 -0500,['/t/security'],"A Curious Tale of Remote Code Execution, The TP-Link Story - CVE-2017-13772",https://www.fidusinfosec.com/tp-link-remote-code-execution-cve-2017-13772/,/u/utzig,6
-0,2017-10-20 09:47:09 -0500,['/t/python'],Stable Sorting,https://medium.com/@arpith/stable-sorting-677453884792,/u/pushcx,5
-4,2017-10-19 13:28:57 -0500,"['/t/hardware', '/t/security']",Deep dive into Intel Management Engine disablement,https://puri.sm/posts/deep-dive-into-intel-me-disablement/,/u/jcs,33
-24,2017-10-19 06:35:08 -0500,"['/t/linux', '/t/release']",Ubuntu 17.10 Artful Aardvark released,http://releases.ubuntu.com/17.10/,/u/av,40
-0,2017-10-19 18:21:55 -0500,"['/t/networking', '/t/security']",KRACK Vulnerability: What You Need To Know,https://www.eff.org/deeplinks/2017/10/krack-vulnerability-what-you-need-know,/u/Exagone313,22
-0,2017-10-20 08:55:50 -0500,['/t/web'],An Analysis of the World's Leading robots.txt Files,http://www.benfrederickson.com/robots-txt-analysis/,/u/calvin,3
-0,2017-10-20 08:16:37 -0500,"['/t/browsers', '/t/programming', '/t/security']",Browser security beyond sandboxing,https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/,/u/calvin,4
-0,2017-10-20 08:52:09 -0500,"['/t/hardware', '/t/netbsd', '/t/unix']",IronForge the NetBSD Toaster,http://www.instructables.com/id/IronForge-the-NetBSD-Toaster/,/u/sevan,3
-0,2017-10-19 18:55:20 -0500,"['/t/android', '/t/release']",F-Droid 1.0 released (with screenshots and feature graphics),https://f-droid.org/packages/org.fdroid.fdroid/,/u/pizzaiolo,16
+0,2017-10-20 21:34:16 -0500,"/t/dotnet,/t/ml",F# introduction for my coworkers,https://simendsjo.me/fsharp-intro/,/u/calvin,9
+0,2017-10-20 06:08:46 -0500,"/t/show,/t/css,/t/haskell,/t/web",Hasmin - A Haskell CSS minifier,https://github.com/contivero/hasmin,/u/contivero,25
+4,2017-10-20 07:06:55 -0500,/t/openbsd,OpenBSD on the pine64,https://chown.me/blog/playing-with-the-pine64.html,/u/dgv,32
+0,2017-10-21 06:46:24 -0500,"/t/crypto,/t/reversing",Hack.lu 2017 Writeups,http://wiki.yobi.be/wiki/Hack.lu_2017_Writeups,/u/fcbsd,2
+0,2017-10-20 14:24:26 -0500,/t/practices,Andrew Wiles on the State of Being Stuck,http://calnewport.com/blog/2017/10/20/andrew-wiles-on-the-state-of-being-stuck/,/u/joshuacc,13
+0,2017-10-20 11:29:29 -0500,"/t/hardware,/t/historical",The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor,https://spectrum.ieee.org/tech-history/heroic-failures/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor,/u/trn,13
+0,2017-10-20 13:07:18 -0500,"/t/freebsd,/t/security",The First PS4 Kernel Exploit: Adieu,https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/,/u/lattera,9
+1,2017-10-20 07:00:22 -0500,/t/assembly,Writing a Bootloader (Part 1),http://3zanders.co.uk/2017/10/13/writing-a-bootloader/,/u/av,15
+1,2017-10-20 13:20:42 -0500,"/t/haskell,/t/programming",Becoming Foolish,https://hmemcpy.com/2017/10/becoming-foolish/,/u/bbrown,8
+2,2017-10-20 11:22:56 -0500,"/t/show,/t/ai",Announcing PlaidML: Open Source Deep Learning for Every Platform,http://vertex.ai/blog/announcing-plaidml,/u/hedgehog,3
+2,2017-10-20 07:55:14 -0500,"/t/c++,/t/programming",Pointer free programming and the future of Nim,https://nim-lang.org/araq/destructors.html,/u/zdsmith,9
+0,2017-10-20 11:45:38 -0500,/t/programming,The Economics of Semantic Coding,https://blog.isomorf.io/the-economics-of-semantic-coding-7e8fd1b421e6,/u/bkent,4
+0,2017-10-20 11:31:56 -0500,/t/css,Breaking down CSS Box Shadow vs. Drop Shadow,https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/,/u/soulcutter,6
+0,2017-10-20 15:02:04 -0500,/t/privacy,UW ADINT: Advertising as Surveillance,https://adint.cs.washington.edu/,/u/k749gtnc9l3w,5
+6,2017-10-19 16:51:51 -0500,"/t/compsci,/t/release",Diff engine for Markdown,https://kristaps.bsd.lv/lowdown/diff.html,/u/kristapsdz,29
+0,2017-10-20 09:46:00 -0500,"/t/video,/t/programming",Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau,https://dyalog.tv/Dyalog17/?v=9xCJ3BCIudI,/u/tokenrove,7
+6,2017-10-20 04:05:36 -0500,/t/security,"A Curious Tale of Remote Code Execution, The TP-Link Story - CVE-2017-13772",https://www.fidusinfosec.com/tp-link-remote-code-execution-cve-2017-13772/,/u/utzig,6
+0,2017-10-20 09:47:09 -0500,/t/python,Stable Sorting,https://medium.com/@arpith/stable-sorting-677453884792,/u/pushcx,5
+4,2017-10-19 13:28:57 -0500,"/t/hardware,/t/security",Deep dive into Intel Management Engine disablement,https://puri.sm/posts/deep-dive-into-intel-me-disablement/,/u/jcs,33
+24,2017-10-19 06:35:08 -0500,"/t/linux,/t/release",Ubuntu 17.10 Artful Aardvark released,http://releases.ubuntu.com/17.10/,/u/av,40
+0,2017-10-19 18:21:55 -0500,"/t/networking,/t/security",KRACK Vulnerability: What You Need To Know,https://www.eff.org/deeplinks/2017/10/krack-vulnerability-what-you-need-know,/u/Exagone313,22
+0,2017-10-20 08:55:50 -0500,/t/web,An Analysis of the World's Leading robots.txt Files,http://www.benfrederickson.com/robots-txt-analysis/,/u/calvin,3
+0,2017-10-20 08:16:37 -0500,"/t/browsers,/t/programming,/t/security",Browser security beyond sandboxing,https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/,/u/calvin,4
+0,2017-10-20 08:52:09 -0500,"/t/hardware,/t/netbsd,/t/unix",IronForge the NetBSD Toaster,http://www.instructables.com/id/IronForge-the-NetBSD-Toaster/,/u/sevan,3
+0,2017-10-19 18:55:20 -0500,"/t/android,/t/release",F-Droid 1.0 released (with screenshots and feature graphics),https://f-droid.org/packages/org.fdroid.fdroid/,/u/pizzaiolo,16

@@ -1,25 +1,25 @@
-0,2013-10-24 17:24:33 -0500,"['/t/security', '/t/windows']",How I compiled TrueCrypt 7.1a for Win32 and matched the official binaries,https://madiba.encs.concordia.ca/~x_decarn/truecrypt-binaries-analysis/,/u/kyle,3
-0,2013-10-24 08:35:12 -0500,"['/t/games', '/t/javascript']",Candy Box 2,http://candybox2.net/,/u/walle,9
-0,2013-10-24 16:09:39 -0500,['/t/practices'],Work versus Life. Greatness versus Family.,http://blog.pieratt.com/post/64881538909/work-versus-life-greatness-versus-family,/u/journeysquid,2
-0,2013-10-24 10:39:20 -0500,['/t/windows'],The Stupidity of Windows 8 in a Nutshell,http://www.singularityhacker.com/post/64913226184/the-stupidity-of-windows-8-in-a-nutshell,/u/singularityhack,3
-0,2013-10-24 16:15:09 -0500,"['/t/law', '/t/practices']","Finally, a bill to end patent trolling",http://arstechnica.com/tech-policy/2013/10/its-finally-here-a-bill-to-end-patent-trolling/,/u/journeysquid,1
-0,2013-10-24 08:14:16 -0500,"['/t/cogsci', '/t/math']",The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/,/u/jonbaer,3
-0,2013-10-24 09:54:57 -0500,['/t/ruby'],Getting to Know Pluck and Select (ActiveRecord),http://gavinmiller.io/2013/getting-to-know-pluck-and-select/,/u/gavinmiller,2
-0,2013-10-23 12:38:20 -0500,"['/t/assembly', '/t/c', '/t/compsci']",Why arrays are indexed from 0 is probably not what you've heard.,http://exple.tive.org/blarg/2013/10/22/citation-needed/,/u/malaparte,21
-0,2013-10-24 10:08:08 -0500,['/t/design'],Cubehero launches categories,http://blog.cubehero.com/2013/10/24/cubehero-busts-out-categories/,/u/iamwil,1
-0,2013-10-24 08:32:14 -0500,"['/t/networking', '/t/web']",Does Our Industry Have a Drinking Problem?,http://alistapart.com/column/does-our-industry-have-a-drinking-problem,/u/leeflannery,1
-1,2013-10-23 13:17:41 -0500,"['/t/mac', '/t/security']",About the security content of OS X Mavericks v10.9,http://support.apple.com/kb/HT6011,/u/journeysquid,6
-0,2013-10-23 21:35:25 -0500,['/t/go'],"Strings, bytes, runes and characters in Go",http://blog.golang.org/strings,/u/journeysquid,3
-2,2013-10-23 17:49:35 -0500,"['/t/ios', '/t/mobile']",LinkedIn Intro: Doing the Impossible on iOS,http://engineering.linkedin.com/mobile/linkedin-intro-doing-impossible-ios,/u/tedu,2
-1,2013-10-23 09:15:53 -0500,['/t/go'],Lime - Sublime Text compatible editor,https://github.com/quarnster/lime,/u/walle,5
-0,2013-10-23 12:34:20 -0500,"['/t/event', '/t/security']",Open WhisperSystems Winter Break Of Code,https://whispersystems.org/blog/winter-break-of-code/,/u/jcs,4
-0,2013-10-23 01:56:55 -0500,"['/t/hardware', '/t/mac']",How Apple Makes the Mac Pro,http://atomicdelights.com/blog/how-apple-makes-the-mac-pro,/u/jonbaer,5
-5,2013-10-21 09:18:22 -0500,['/t/announce'],Invitation Queue,/s/orfht1/invitation_queue,/u/jcs,30
-0,2013-10-22 20:25:24 -0500,"['/t/show', '/t/openbsd']",qbit/snap - An OpenBSD upgrade script.,https://github.com/qbit/snap,/u/qbit,5
-0,2013-10-22 22:57:49 -0500,['/t/science'],Gold growing on trees offers a new prospecting tool,http://www.zmescience.com/research/gold-growing-on-trees-offers-a-new-prospecting-tool/,/u/iamwil,3
-0,2013-10-22 21:45:02 -0500,"['/t/java', '/t/lisp', '/t/programming']",Typed Clojure by Example,http://nathanic.org/posts/2013/typed-clojure-tour/,/u/jamesmacaulay,2
-4,2013-10-22 08:49:08 -0500,"['/t/ios', '/t/mac', '/t/news']",Apple Special Event October 2013,http://www.apple.com/apple-events/october-2013/,/u/ancarda,3
-0,2013-10-22 21:23:19 -0500,['/t/erlang'],ZMTP protocol in pure Erlang.,https://github.com/a13x/ezmtp,/u/SeanTAllen,1
-0,2013-10-22 12:38:49 -0500,"['/t/c', '/t/programming']",A Regular Expression Matcher,http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html,/u/jdp,3
-0,2013-10-22 08:17:52 -0500,['/t/security'],Defending Against Crypto Backdoors,https://www.schneier.com/blog/archives/2013/10/defending_again_1.html,/u/kyle,4
-1,2013-10-22 01:38:24 -0500,['/t/lisp'],The ~> Threading Macro,http://www.greghendershott.com/2013/05/the-threading-macro.html,/u/SeanTAllen,8
+0,2013-10-24 17:24:33 -0500,"/t/security,/t/windows",How I compiled TrueCrypt 7.1a for Win32 and matched the official binaries,https://madiba.encs.concordia.ca/~x_decarn/truecrypt-binaries-analysis/,/u/kyle,3
+0,2013-10-24 08:35:12 -0500,"/t/games,/t/javascript",Candy Box 2,http://candybox2.net/,/u/walle,9
+0,2013-10-24 16:09:39 -0500,/t/practices,Work versus Life. Greatness versus Family.,http://blog.pieratt.com/post/64881538909/work-versus-life-greatness-versus-family,/u/journeysquid,2
+0,2013-10-24 10:39:20 -0500,/t/windows,The Stupidity of Windows 8 in a Nutshell,http://www.singularityhacker.com/post/64913226184/the-stupidity-of-windows-8-in-a-nutshell,/u/singularityhack,3
+0,2013-10-24 16:15:09 -0500,"/t/law,/t/practices","Finally, a bill to end patent trolling",http://arstechnica.com/tech-policy/2013/10/its-finally-here-a-bill-to-end-patent-trolling/,/u/journeysquid,1
+0,2013-10-24 08:14:16 -0500,"/t/cogsci,/t/math",The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/,/u/jonbaer,3
+0,2013-10-24 09:54:57 -0500,/t/ruby,Getting to Know Pluck and Select (ActiveRecord),http://gavinmiller.io/2013/getting-to-know-pluck-and-select/,/u/gavinmiller,2
+0,2013-10-23 12:38:20 -0500,"/t/assembly,/t/c,/t/compsci",Why arrays are indexed from 0 is probably not what you've heard.,http://exple.tive.org/blarg/2013/10/22/citation-needed/,/u/malaparte,21
+0,2013-10-24 10:08:08 -0500,/t/design,Cubehero launches categories,http://blog.cubehero.com/2013/10/24/cubehero-busts-out-categories/,/u/iamwil,1
+0,2013-10-24 08:32:14 -0500,"/t/networking,/t/web",Does Our Industry Have a Drinking Problem?,http://alistapart.com/column/does-our-industry-have-a-drinking-problem,/u/leeflannery,1
+1,2013-10-23 13:17:41 -0500,"/t/mac,/t/security",About the security content of OS X Mavericks v10.9,http://support.apple.com/kb/HT6011,/u/journeysquid,6
+0,2013-10-23 21:35:25 -0500,/t/go,"Strings, bytes, runes and characters in Go",http://blog.golang.org/strings,/u/journeysquid,3
+2,2013-10-23 17:49:35 -0500,"/t/ios,/t/mobile",LinkedIn Intro: Doing the Impossible on iOS,http://engineering.linkedin.com/mobile/linkedin-intro-doing-impossible-ios,/u/tedu,2
+1,2013-10-23 09:15:53 -0500,/t/go,Lime - Sublime Text compatible editor,https://github.com/quarnster/lime,/u/walle,5
+0,2013-10-23 12:34:20 -0500,"/t/event,/t/security",Open WhisperSystems Winter Break Of Code,https://whispersystems.org/blog/winter-break-of-code/,/u/jcs,4
+0,2013-10-23 01:56:55 -0500,"/t/hardware,/t/mac",How Apple Makes the Mac Pro,http://atomicdelights.com/blog/how-apple-makes-the-mac-pro,/u/jonbaer,5
+5,2013-10-21 09:18:22 -0500,/t/announce,Invitation Queue,/s/orfht1/invitation_queue,/u/jcs,30
+0,2013-10-22 20:25:24 -0500,"/t/show,/t/openbsd",qbit/snap - An OpenBSD upgrade script.,https://github.com/qbit/snap,/u/qbit,5
+0,2013-10-22 22:57:49 -0500,/t/science,Gold growing on trees offers a new prospecting tool,http://www.zmescience.com/research/gold-growing-on-trees-offers-a-new-prospecting-tool/,/u/iamwil,3
+0,2013-10-22 21:45:02 -0500,"/t/java,/t/lisp,/t/programming",Typed Clojure by Example,http://nathanic.org/posts/2013/typed-clojure-tour/,/u/jamesmacaulay,2
+4,2013-10-22 08:49:08 -0500,"/t/ios,/t/mac,/t/news",Apple Special Event October 2013,http://www.apple.com/apple-events/october-2013/,/u/ancarda,3
+0,2013-10-22 21:23:19 -0500,/t/erlang,ZMTP protocol in pure Erlang.,https://github.com/a13x/ezmtp,/u/SeanTAllen,1
+0,2013-10-22 12:38:49 -0500,"/t/c,/t/programming",A Regular Expression Matcher,http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html,/u/jdp,3
+0,2013-10-22 08:17:52 -0500,/t/security,Defending Against Crypto Backdoors,https://www.schneier.com/blog/archives/2013/10/defending_again_1.html,/u/kyle,4
+1,2013-10-22 01:38:24 -0500,/t/lisp,The ~> Threading Macro,http://www.greghendershott.com/2013/05/the-threading-macro.html,/u/SeanTAllen,8

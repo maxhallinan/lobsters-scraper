@@ -1,25 +1,25 @@
-2,2017-11-07 08:02:07 -0600,"['/t/show', '/t/c', '/t/c++', '/t/lua', '/t/programming']",A XMake integration in IntelliJ IDEA.,https://github.com/tboox/xmake-idea,/u/ruki,6
-0,2017-11-07 13:21:04 -0600,['/t/openbsd'],"p2k17: Herzliche grusse vom Berlin (espie@ on mandoc, misc packages progress)",http://undeadly.org/cgi?action=article;sid=20171107185122,/u/calvin,7
-3,2017-11-07 06:41:18 -0600,['/t/programming'],Virtual Memory Tricks ·,http://ourmachinery.com/post/virtual-memory-tricks/,/u/calvin,11
-30,2017-11-06 06:40:08 -0600,"['/t/ai', '/t/hardware', '/t/security']","MINIX — The most popular OS in the world, thanks to Intel",https://www.networkworld.com/article/3236064/servers/minix-the-most-popular-os-in-the-world-thanks-to-intel.html,/u/pgl,75
-0,2017-11-07 06:48:02 -0600,['/t/security'],Catching phishing before they catch you with CertStream & Python,https://blog.0day.rocks/catching-phishing-using-certstream-97177f0d499a,/u/x0rz,5
-1,2017-11-07 06:39:13 -0600,"['/t/compsci', '/t/javascript']",Functional Programming Jargon,https://functional.works-hub.com/blog/Functional-Programming-Jargon,/u/calvin,8
-9,2017-11-06 10:32:59 -0600,['/t/web'],My web app died from performance bankruptcy,http://tonsky.me/blog/chrome-intervention/,/u/pizzaiolo,42
-5,2017-11-07 06:36:20 -0600,"['/t/culture', '/t/performance']",Choose The Right Language To Save The Planet,https://yglukhov.github.io/Choose-The-Right-Language-To-Save-The-Planet/,/u/calvin,14
-1,2017-11-07 12:41:57 -0600,"['/t/pdf', '/t/compilers', '/t/formalmethods', '/t/programming', '/t/security']",Malicious Code Detection for Open Firmware (2002),http://www.cs.cornell.edu/~kozen/papers/acsac.pdf,/u/nickpsecurity,3
-5,2017-11-06 19:37:48 -0600,"['/t/compilers', '/t/programming']",How should the addition -expression behave?,http://boxbase.org/entries/2017/nov/6/addition-expression/,/u/HenriTuhola,6
-0,2017-11-07 06:55:31 -0600,"['/t/databases', '/t/programming']",Moving ORM Mapping towards the database,http://enter-haken.github.io/posts/2017-07-06-database-architecture.html,/u/calvin,6
-0,2017-11-07 17:42:13 -0600,['/t/css'],The Current State of Element Queries,https://webdesign.tutsplus.com/articles/the-current-state-of-element-queries--cms-29690,/u/innovati,1
-1,2017-11-07 05:27:40 -0600,['/t/ai'],Deep learning models with demos,http://pretrained.ml/,/u/adsouza,4
-0,2017-11-07 10:13:44 -0600,['/t/erlang'],Tricky Question,https://medium.com/erlang-battleground/tricky-question-25a956298b9d,/u/elbrujohalcon,1
-1,2017-11-07 01:54:06 -0600,"['/t/ios', '/t/privacy']",DirtyTooth - iOS device bluetooth information leak,http://dirtytooth.com/,/u/quobit,5
-1,2017-11-07 11:41:57 -0600,"['/t/formalmethods', '/t/practices', '/t/programming', '/t/security']",In Lockstep: Kernel and Verification (2017),https://research.csiro.au/tsblog/lockstep-kernel-verification/,/u/nickpsecurity,1
-0,2017-11-06 14:34:36 -0600,"['/t/graphics', '/t/javascript', '/t/visualization']",js2flowchart - visualization library to convert any JavaScript code into beautiful SVG flowchart,https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart,/u/bliashenko,9
-2,2017-11-06 03:39:38 -0600,['/t/hardware'],The Amazing $1 Microcontroller,https://jaycarlson.net/microcontrollers/,/u/av,47
-2,2017-11-06 07:31:01 -0600,"['/t/games', '/t/reversing']",Annotated NES Metroid Source Code,http://www.metroid-database.com/source-code/,/u/pushcx,29
-0,2017-11-07 06:38:17 -0600,"['/t/dotnet', '/t/programming']",Function monoids,http://blog.ploeh.dk/2017/11/06/function-monoids/,/u/calvin,2
-0,2017-11-06 10:33:52 -0600,"['/t/openbsd', '/t/release', '/t/security']",LibreSSL 2.6.3 released,https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.6.3-relnotes.txt,/u/tedu,22
-51,2017-11-06 09:35:48 -0600,['/t/programming'],Geany — the little sweet and sexy IDE,https://geany.sexy/,/u/hawski,12
-0,2017-11-07 05:11:19 -0600,['/t/devops'],Cloud Foundry adds native Kubernetes support for running containers,https://techcrunch.com/2017/10/11/cloud-foundry-launches-its-online-marketplace-and-adds-native-kubernetes-support/,/u/nh,2
-0,2017-11-06 16:51:04 -0600,"['/t/linux', '/t/security']","Exploiting CVE-2017-5123 with full protections. SMEP, SMAP, and the Chrome Sandbox!",https://salls.github.io/Linux-Kernel-CVE-2017-5123/,/u/lattera,9
-0,2017-11-07 09:48:02 -0600,"['/t/video', '/t/culture']",Towards High-Tech Feudalism,https://www.youtube.com/watch?v=YImyAZGNjwc,/u/pizzaiolo,2
+2,2017-11-07 08:02:07 -0600,"/t/show,/t/c,/t/c++,/t/lua,/t/programming",A XMake integration in IntelliJ IDEA.,https://github.com/tboox/xmake-idea,/u/ruki,6
+0,2017-11-07 13:21:04 -0600,/t/openbsd,"p2k17: Herzliche grusse vom Berlin (espie@ on mandoc, misc packages progress)",http://undeadly.org/cgi?action=article;sid=20171107185122,/u/calvin,7
+3,2017-11-07 06:41:18 -0600,/t/programming,Virtual Memory Tricks ·,http://ourmachinery.com/post/virtual-memory-tricks/,/u/calvin,11
+30,2017-11-06 06:40:08 -0600,"/t/ai,/t/hardware,/t/security","MINIX — The most popular OS in the world, thanks to Intel",https://www.networkworld.com/article/3236064/servers/minix-the-most-popular-os-in-the-world-thanks-to-intel.html,/u/pgl,75
+0,2017-11-07 06:48:02 -0600,/t/security,Catching phishing before they catch you with CertStream & Python,https://blog.0day.rocks/catching-phishing-using-certstream-97177f0d499a,/u/x0rz,5
+1,2017-11-07 06:39:13 -0600,"/t/compsci,/t/javascript",Functional Programming Jargon,https://functional.works-hub.com/blog/Functional-Programming-Jargon,/u/calvin,8
+9,2017-11-06 10:32:59 -0600,/t/web,My web app died from performance bankruptcy,http://tonsky.me/blog/chrome-intervention/,/u/pizzaiolo,42
+5,2017-11-07 06:36:20 -0600,"/t/culture,/t/performance",Choose The Right Language To Save The Planet,https://yglukhov.github.io/Choose-The-Right-Language-To-Save-The-Planet/,/u/calvin,14
+1,2017-11-07 12:41:57 -0600,"/t/pdf,/t/compilers,/t/formalmethods,/t/programming,/t/security",Malicious Code Detection for Open Firmware (2002),http://www.cs.cornell.edu/~kozen/papers/acsac.pdf,/u/nickpsecurity,3
+5,2017-11-06 19:37:48 -0600,"/t/compilers,/t/programming",How should the addition -expression behave?,http://boxbase.org/entries/2017/nov/6/addition-expression/,/u/HenriTuhola,6
+0,2017-11-07 06:55:31 -0600,"/t/databases,/t/programming",Moving ORM Mapping towards the database,http://enter-haken.github.io/posts/2017-07-06-database-architecture.html,/u/calvin,6
+0,2017-11-07 17:42:13 -0600,/t/css,The Current State of Element Queries,https://webdesign.tutsplus.com/articles/the-current-state-of-element-queries--cms-29690,/u/innovati,1
+1,2017-11-07 05:27:40 -0600,/t/ai,Deep learning models with demos,http://pretrained.ml/,/u/adsouza,4
+0,2017-11-07 10:13:44 -0600,/t/erlang,Tricky Question,https://medium.com/erlang-battleground/tricky-question-25a956298b9d,/u/elbrujohalcon,1
+1,2017-11-07 01:54:06 -0600,"/t/ios,/t/privacy",DirtyTooth - iOS device bluetooth information leak,http://dirtytooth.com/,/u/quobit,5
+1,2017-11-07 11:41:57 -0600,"/t/formalmethods,/t/practices,/t/programming,/t/security",In Lockstep: Kernel and Verification (2017),https://research.csiro.au/tsblog/lockstep-kernel-verification/,/u/nickpsecurity,1
+0,2017-11-06 14:34:36 -0600,"/t/graphics,/t/javascript,/t/visualization",js2flowchart - visualization library to convert any JavaScript code into beautiful SVG flowchart,https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart,/u/bliashenko,9
+2,2017-11-06 03:39:38 -0600,/t/hardware,The Amazing $1 Microcontroller,https://jaycarlson.net/microcontrollers/,/u/av,47
+2,2017-11-06 07:31:01 -0600,"/t/games,/t/reversing",Annotated NES Metroid Source Code,http://www.metroid-database.com/source-code/,/u/pushcx,29
+0,2017-11-07 06:38:17 -0600,"/t/dotnet,/t/programming",Function monoids,http://blog.ploeh.dk/2017/11/06/function-monoids/,/u/calvin,2
+0,2017-11-06 10:33:52 -0600,"/t/openbsd,/t/release,/t/security",LibreSSL 2.6.3 released,https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.6.3-relnotes.txt,/u/tedu,22
+51,2017-11-06 09:35:48 -0600,/t/programming,Geany — the little sweet and sexy IDE,https://geany.sexy/,/u/hawski,12
+0,2017-11-07 05:11:19 -0600,/t/devops,Cloud Foundry adds native Kubernetes support for running containers,https://techcrunch.com/2017/10/11/cloud-foundry-launches-its-online-marketplace-and-adds-native-kubernetes-support/,/u/nh,2
+0,2017-11-06 16:51:04 -0600,"/t/linux,/t/security","Exploiting CVE-2017-5123 with full protections. SMEP, SMAP, and the Chrome Sandbox!",https://salls.github.io/Linux-Kernel-CVE-2017-5123/,/u/lattera,9
+0,2017-11-07 09:48:02 -0600,"/t/video,/t/culture",Towards High-Tech Feudalism,https://www.youtube.com/watch?v=YImyAZGNjwc,/u/pizzaiolo,2

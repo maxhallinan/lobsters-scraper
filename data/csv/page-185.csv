@@ -1,25 +1,25 @@
-2,2017-09-30 21:40:56 -0500,"['/t/debugging', '/t/hardware', '/t/linux']",Debugging a Hardware Panic,http://blog.alicegoldfuss.com/debugging-hardware-panic/,/u/pushcx,7
-1,2017-09-30 20:19:38 -0500,"['/t/distributed', '/t/python']",Learn Blockchains by Building One,https://hackernoon.com/learn-blockchains-by-building-one-117428612f46,/u/calvin,9
-1,2017-09-30 16:05:56 -0500,"['/t/video', '/t/go', '/t/performance']",Strange Loop - So You Wanna Go Fast?,https://www.youtube.com/watch?v=DJ4d_PZ6Gns,/u/klingtnet,13
-0,2017-10-01 02:49:25 -0500,"['/t/video', '/t/elixir', '/t/hardware']",Keep an Eye on the Sky with Nerves and Phoenix (ElixirConf 2017),https://www.youtube.com/watch?v=UoSQBOP_Siw,/u/talklittle,4
-7,2017-09-30 09:37:29 -0500,"['/t/c', '/t/c++', '/t/freebsd', '/t/ios', '/t/mac', '/t/unix']",Apple Open Sources XNU Kernel,https://github.com/apple/darwin-xnu,/u/timetoplatypus,14
-0,2017-09-30 14:51:33 -0500,"['/t/games', '/t/historical', '/t/person']",Bill Gates and DONKEY.BAS (2007),https://blog.codinghorror.com/bill-gates-and-donkey-bas/,/u/duclare,12
-3,2017-09-30 11:28:53 -0500,"['/t/c++', '/t/compilers']",C++ Compilers and Absurd Optimizations,https://asmbits.blogspot.com/2017/03/c-compilers-and-absurd-optimizations.html,/u/calvin,10
-0,2017-09-30 19:42:05 -0500,['/t/compsci'],PRNG Reference,http://hclarke.ca/prng-reference.html,/u/pushcx,5
-1,2017-09-30 19:18:26 -0500,['/t/api'],Adding An HTTP reverse proxy for realtime,https://realtimeapi.io/hub/http-reverse-proxy-realtime/,/u/Heffay626,3
-16,2017-09-29 16:52:21 -0500,"['/t/crypto', '/t/law']",How the Catalan government uses IPFS to sidestep Spain's legal block,http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/,/u/wyager,32
-2,2017-09-30 18:29:53 -0500,"['/t/video', '/t/art', '/t/compsci']","Experimental Creative Writing with the Vectorized Word by Allison Parrish, Strange Loop 2017",https://www.youtube.com/watch?v=L3D0JEA1Jdc,/u/alva,2
-1,2017-09-30 12:50:07 -0500,"['/t/security', '/t/windows']",FinFisher surveillance campaigns: ISPs possibly involved infecting legitimate applications,https://www.welivesecurity.com/2017/09/21/new-finfisher-surveillance-campaigns/,/u/talklittle,6
-6,2017-09-30 01:48:31 -0500,"['/t/programming', '/t/unix']",Git Log in HTML: A Harder Problem and A Safe Solution,http://www.oilshell.org/blog/2017/09/29.html,/u/andyc,5
-2,2017-09-30 14:41:42 -0500,"['/t/pdf', '/t/compsci', '/t/programming', '/t/security']",Eliminating Input-Based Attacks by Deriving En/Decoders from Context-Free Grammars,http://spw17.langsec.org/papers/bieschke-automatic-unparsers.pdf,/u/nickpsecurity,2
-4,2017-09-29 16:33:36 -0500,"['/t/freebsd', '/t/networking', '/t/performance']",Netflix: Serving 100 Gbps from an Open Connect Appliance,https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99,/u/jamesog,26
-7,2017-09-29 23:02:32 -0500,"['/t/book', '/t/practices', '/t/programming']",books chapter thirteen,http://www.tedunangst.com/flak/post/books-chapter-thirteen,/u/calvin,7
-7,2017-09-29 09:32:16 -0500,['/t/security'],Protecting our mission-critical domain names,https://blendle.engineering/protecting-our-mission-critical-domain-names-e9807db9d84c,/u/koen,26
-4,2017-09-29 14:36:59 -0500,"['/t/video', '/t/practices', '/t/programming']",Seven Ineffective Coding Habits of Many Programmers,https://www.youtube.com/watch?v=ZsHMHukIlJY,/u/flyingfisch,17
-0,2017-09-30 12:03:22 -0500,['/t/scaling'],Heat Weighted Load Balancing coming in Scylla 2.0,http://www.scylladb.com/2017/09/21/scylla-heat-weighted-load-balancing/,/u/pims,2
-1,2017-09-30 01:52:50 -0500,['/t/scaling'],@scale 2017 videos,https://atscaleconference.com/videos-articles/,/u/pims,6
-1,2017-09-29 12:11:21 -0500,['/t/programming'],ntpd won't save you from one particular rogue bit,http://rachelbythebay.com/w/2017/09/27/2153/,/u/evaryont,22
-8,2017-09-29 12:23:06 -0500,"['/t/android', '/t/law', '/t/mobile']",Google sued by Gab over Play Store booting,https://www.theregister.co.uk/2017/09/15/google_sued_by_gab_over_play_store_booting/,/u/cnst,10
-3,2017-09-29 15:33:13 -0500,"['/t/browsers', '/t/javascript', '/t/release']",Draggable JS – JavaScript drag and drop library,https://shopify.github.io/draggable/,/u/friendlysock,9
-15,2017-09-29 11:10:01 -0500,['/t/linux'],Pop!_OS: A developer focused Operating System by System76,https://system76.com/pop,/u/stark,9
-5,2017-09-29 12:15:41 -0500,['/t/security'],Supply Chain Attacks and Secure Software Updates,https://dev.to/paragonie/supply-chain-attacks-and-secure-software-updates-ca0,/u/erin,7
+2,2017-09-30 21:40:56 -0500,"/t/debugging,/t/hardware,/t/linux",Debugging a Hardware Panic,http://blog.alicegoldfuss.com/debugging-hardware-panic/,/u/pushcx,7
+1,2017-09-30 20:19:38 -0500,"/t/distributed,/t/python",Learn Blockchains by Building One,https://hackernoon.com/learn-blockchains-by-building-one-117428612f46,/u/calvin,9
+1,2017-09-30 16:05:56 -0500,"/t/video,/t/go,/t/performance",Strange Loop - So You Wanna Go Fast?,https://www.youtube.com/watch?v=DJ4d_PZ6Gns,/u/klingtnet,13
+0,2017-10-01 02:49:25 -0500,"/t/video,/t/elixir,/t/hardware",Keep an Eye on the Sky with Nerves and Phoenix (ElixirConf 2017),https://www.youtube.com/watch?v=UoSQBOP_Siw,/u/talklittle,4
+7,2017-09-30 09:37:29 -0500,"/t/c,/t/c++,/t/freebsd,/t/ios,/t/mac,/t/unix",Apple Open Sources XNU Kernel,https://github.com/apple/darwin-xnu,/u/timetoplatypus,14
+0,2017-09-30 14:51:33 -0500,"/t/games,/t/historical,/t/person",Bill Gates and DONKEY.BAS (2007),https://blog.codinghorror.com/bill-gates-and-donkey-bas/,/u/duclare,12
+3,2017-09-30 11:28:53 -0500,"/t/c++,/t/compilers",C++ Compilers and Absurd Optimizations,https://asmbits.blogspot.com/2017/03/c-compilers-and-absurd-optimizations.html,/u/calvin,10
+0,2017-09-30 19:42:05 -0500,/t/compsci,PRNG Reference,http://hclarke.ca/prng-reference.html,/u/pushcx,5
+1,2017-09-30 19:18:26 -0500,/t/api,Adding An HTTP reverse proxy for realtime,https://realtimeapi.io/hub/http-reverse-proxy-realtime/,/u/Heffay626,3
+16,2017-09-29 16:52:21 -0500,"/t/crypto,/t/law",How the Catalan government uses IPFS to sidestep Spain's legal block,http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/,/u/wyager,32
+2,2017-09-30 18:29:53 -0500,"/t/video,/t/art,/t/compsci","Experimental Creative Writing with the Vectorized Word by Allison Parrish, Strange Loop 2017",https://www.youtube.com/watch?v=L3D0JEA1Jdc,/u/alva,2
+1,2017-09-30 12:50:07 -0500,"/t/security,/t/windows",FinFisher surveillance campaigns: ISPs possibly involved infecting legitimate applications,https://www.welivesecurity.com/2017/09/21/new-finfisher-surveillance-campaigns/,/u/talklittle,6
+6,2017-09-30 01:48:31 -0500,"/t/programming,/t/unix",Git Log in HTML: A Harder Problem and A Safe Solution,http://www.oilshell.org/blog/2017/09/29.html,/u/andyc,5
+2,2017-09-30 14:41:42 -0500,"/t/pdf,/t/compsci,/t/programming,/t/security",Eliminating Input-Based Attacks by Deriving En/Decoders from Context-Free Grammars,http://spw17.langsec.org/papers/bieschke-automatic-unparsers.pdf,/u/nickpsecurity,2
+4,2017-09-29 16:33:36 -0500,"/t/freebsd,/t/networking,/t/performance",Netflix: Serving 100 Gbps from an Open Connect Appliance,https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99,/u/jamesog,26
+7,2017-09-29 23:02:32 -0500,"/t/book,/t/practices,/t/programming",books chapter thirteen,http://www.tedunangst.com/flak/post/books-chapter-thirteen,/u/calvin,7
+7,2017-09-29 09:32:16 -0500,/t/security,Protecting our mission-critical domain names,https://blendle.engineering/protecting-our-mission-critical-domain-names-e9807db9d84c,/u/koen,26
+4,2017-09-29 14:36:59 -0500,"/t/video,/t/practices,/t/programming",Seven Ineffective Coding Habits of Many Programmers,https://www.youtube.com/watch?v=ZsHMHukIlJY,/u/flyingfisch,17
+0,2017-09-30 12:03:22 -0500,/t/scaling,Heat Weighted Load Balancing coming in Scylla 2.0,http://www.scylladb.com/2017/09/21/scylla-heat-weighted-load-balancing/,/u/pims,2
+1,2017-09-30 01:52:50 -0500,/t/scaling,@scale 2017 videos,https://atscaleconference.com/videos-articles/,/u/pims,6
+1,2017-09-29 12:11:21 -0500,/t/programming,ntpd won't save you from one particular rogue bit,http://rachelbythebay.com/w/2017/09/27/2153/,/u/evaryont,22
+8,2017-09-29 12:23:06 -0500,"/t/android,/t/law,/t/mobile",Google sued by Gab over Play Store booting,https://www.theregister.co.uk/2017/09/15/google_sued_by_gab_over_play_store_booting/,/u/cnst,10
+3,2017-09-29 15:33:13 -0500,"/t/browsers,/t/javascript,/t/release",Draggable JS – JavaScript drag and drop library,https://shopify.github.io/draggable/,/u/friendlysock,9
+15,2017-09-29 11:10:01 -0500,/t/linux,Pop!_OS: A developer focused Operating System by System76,https://system76.com/pop,/u/stark,9
+5,2017-09-29 12:15:41 -0500,/t/security,Supply Chain Attacks and Secure Software Updates,https://dev.to/paragonie/supply-chain-attacks-and-secure-software-updates-ca0,/u/erin,7

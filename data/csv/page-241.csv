@@ -1,25 +1,25 @@
-0,2017-08-18 08:35:57 -0500,"['/t/ask', '/t/networking']",Ask: Your thoughts/experience with Spread Toolkit and distributed messaging,http://www.spread.org,/u/sebastien,1
-0,2017-08-17 12:12:00 -0500,"['/t/slides', '/t/c', '/t/rust']",Replacing C library code with Rust: what I learned with librsvg,https://people.gnome.org/~federico/blog/guadec-2017.html,/u/sajith,15
-4,2017-08-17 12:45:16 -0500,['/t/python'],PEP 550 -- Execution Context,https://www.python.org/dev/peps/pep-0550/,/u/quobit,9
-0,2017-08-18 05:52:55 -0500,['/t/programming'],MVC and its variants,https://herbertograca.com/2017/08/17/mvc-and-its-variants/,/u/calvin,1
-2,2017-08-17 11:11:05 -0500,"['/t/video', '/t/hardware', '/t/reversing']",Secret Life Of Machines: The Washing Machine,https://www.youtube.com/watch?v=baFaEvBywGc,/u/friendlysock,6
-0,2017-08-17 06:06:13 -0500,"['/t/book', '/t/programming']",Game Programming Patterns,http://gameprogrammingpatterns.com/,/u/stevejalim,20
-0,2017-08-17 16:11:59 -0500,"['/t/assembly', '/t/math', '/t/programming']",Minus Zero,https://www.fourmilab.ch/documents/univac/minuszero.html,/u/trn,6
-0,2017-08-17 07:14:18 -0500,"['/t/elm', '/t/programming']","Elm, Geocoding & DarkSky: Pt. 3 – Fetching the Current Weather",https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-3-fetching-the-current-weather.html,/u/robertwpearce,9
-0,2017-08-17 17:19:22 -0500,['/t/haskell'],Diversity through inline code,http://www.tweag.io/posts/2017-08-17-inline-code.html,/u/pushcx,5
-0,2017-08-17 11:10:28 -0500,"['/t/javascript', '/t/programming', '/t/web']",Vuejs Reactivity From Scratch,https://log.koehr.in/2017/08/17/vuejs-reactivity-from-scratch,/u/koehr,5
-1,2017-08-17 18:22:06 -0500,"['/t/historical', '/t/programming', '/t/unix']","UNIX Hater's Handbook, Reconsidered (2008)",http://esr.ibiblio.org/?p=538,/u/nickpsecurity,2
-0,2017-08-17 19:41:12 -0500,"['/t/c', '/t/c++', '/t/lua', '/t/programming']",How to use xmake to build the cross–platform c/c++ project,https://asciinema.org/a/133693,/u/ruki,1
-3,2017-08-17 04:03:51 -0500,"['/t/compsci', '/t/math']",On Norbert Blum’s claimed proof that P does not equal NP,https://lucatrevisan.wordpress.com/2017/08/15/on-norbert-blums-claimed-proof-that-p-does-not-equal-np/,/u/mpdehnel,12
-3,2017-08-17 16:52:19 -0500,"['/t/pdf', '/t/slides', '/t/hardware', '/t/historical', '/t/programming']",OO Computer Architecture Concepts and Issues: The REKURSIV Object-Oriented Computer Architecture,https://assets.cs.ncl.ac.uk/seminars/129.pdf,/u/trn,2
-0,2017-08-17 20:25:33 -0500,"['/t/javascript', '/t/reversing']",Reverse Engineering a Malicious Scam Script,https://benedikt-bitterli.me/reverse/,/u/calvin,2
-1,2017-08-17 08:54:17 -0500,"['/t/hardware', '/t/security']",Some notes on DRAM (#rowhammer),http://blog.erratasec.com/2015/03/some-notes-on-dram-rowhammer.html,/u/asthasr,7
-11,2017-08-16 13:33:26 -0500,"['/t/c++', '/t/performance', '/t/rust']",Rust performance: finishing the job,http://mikejsavage.co.uk/blog/rust-performance-finishing-the-job.html,/u/mikejsavage,17
-0,2017-08-17 12:18:15 -0500,"['/t/c++', '/t/linux', '/t/programming', '/t/security']",Making OpenSource software more secure using Kafel and Dependency Analysis,https://github.com/LoopPerfect/buckaroo/issues/127,/u/nikhedonia,2
-0,2017-08-16 19:54:16 -0500,"['/t/devops', '/t/distributed']",Kubernetes at GitHub,https://githubengineering.com/kubernetes-at-github/,/u/pims,27
-0,2017-08-17 20:34:09 -0500,['/t/compsci'],"Know your Times Tables, but... do you know your ""Hash Tables""?",http://www.zeroequalsfalse.press/2017/02/20/hashtables/,/u/calvin,1
-0,2017-08-17 09:59:00 -0500,['/t/haskell'],Enforce lists to be monotonic at compile time,http://blog.braulio.me/posts/2017-08-10-enforce-monotonic.html,/u/pushcx,5
-0,2017-08-17 20:26:22 -0500,"['/t/practices', '/t/vcs']",MojoTech Git Workflow,http://blog.mojotech.com/mojotech-git-workflow/,/u/calvin,1
-0,2017-08-17 03:29:49 -0500,"['/t/api', '/t/java', '/t/programming']",How Java 9 Incubator Modules Will Transform New Java Features,http://blog.takipi.com/how-java-9-incubator-modules-will-change-the-future-of-java/,/u/talisoroker,5
-0,2017-08-17 18:45:29 -0500,"['/t/c', '/t/linux', '/t/programming']","Object-oriented design patterns in the kernel, part 1",https://lwn.net/Articles/444910/,/u/calvin,1
-0,2017-08-17 12:00:58 -0500,['/t/assembly'],"The Alpha AXP, part 9: The memory model and atomic memory operations",https://blogs.msdn.microsoft.com/oldnewthing/20170817-00/?p=96835,/u/calvin,3
+0,2017-08-18 08:35:57 -0500,"/t/ask,/t/networking",Ask: Your thoughts/experience with Spread Toolkit and distributed messaging,http://www.spread.org,/u/sebastien,1
+0,2017-08-17 12:12:00 -0500,"/t/slides,/t/c,/t/rust",Replacing C library code with Rust: what I learned with librsvg,https://people.gnome.org/~federico/blog/guadec-2017.html,/u/sajith,15
+4,2017-08-17 12:45:16 -0500,/t/python,PEP 550 -- Execution Context,https://www.python.org/dev/peps/pep-0550/,/u/quobit,9
+0,2017-08-18 05:52:55 -0500,/t/programming,MVC and its variants,https://herbertograca.com/2017/08/17/mvc-and-its-variants/,/u/calvin,1
+2,2017-08-17 11:11:05 -0500,"/t/video,/t/hardware,/t/reversing",Secret Life Of Machines: The Washing Machine,https://www.youtube.com/watch?v=baFaEvBywGc,/u/friendlysock,6
+0,2017-08-17 06:06:13 -0500,"/t/book,/t/programming",Game Programming Patterns,http://gameprogrammingpatterns.com/,/u/stevejalim,20
+0,2017-08-17 16:11:59 -0500,"/t/assembly,/t/math,/t/programming",Minus Zero,https://www.fourmilab.ch/documents/univac/minuszero.html,/u/trn,6
+0,2017-08-17 07:14:18 -0500,"/t/elm,/t/programming","Elm, Geocoding & DarkSky: Pt. 3 – Fetching the Current Weather",https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-3-fetching-the-current-weather.html,/u/robertwpearce,9
+0,2017-08-17 17:19:22 -0500,/t/haskell,Diversity through inline code,http://www.tweag.io/posts/2017-08-17-inline-code.html,/u/pushcx,5
+0,2017-08-17 11:10:28 -0500,"/t/javascript,/t/programming,/t/web",Vuejs Reactivity From Scratch,https://log.koehr.in/2017/08/17/vuejs-reactivity-from-scratch,/u/koehr,5
+1,2017-08-17 18:22:06 -0500,"/t/historical,/t/programming,/t/unix","UNIX Hater's Handbook, Reconsidered (2008)",http://esr.ibiblio.org/?p=538,/u/nickpsecurity,2
+0,2017-08-17 19:41:12 -0500,"/t/c,/t/c++,/t/lua,/t/programming",How to use xmake to build the cross–platform c/c++ project,https://asciinema.org/a/133693,/u/ruki,1
+3,2017-08-17 04:03:51 -0500,"/t/compsci,/t/math",On Norbert Blum’s claimed proof that P does not equal NP,https://lucatrevisan.wordpress.com/2017/08/15/on-norbert-blums-claimed-proof-that-p-does-not-equal-np/,/u/mpdehnel,12
+3,2017-08-17 16:52:19 -0500,"/t/pdf,/t/slides,/t/hardware,/t/historical,/t/programming",OO Computer Architecture Concepts and Issues: The REKURSIV Object-Oriented Computer Architecture,https://assets.cs.ncl.ac.uk/seminars/129.pdf,/u/trn,2
+0,2017-08-17 20:25:33 -0500,"/t/javascript,/t/reversing",Reverse Engineering a Malicious Scam Script,https://benedikt-bitterli.me/reverse/,/u/calvin,2
+1,2017-08-17 08:54:17 -0500,"/t/hardware,/t/security",Some notes on DRAM (#rowhammer),http://blog.erratasec.com/2015/03/some-notes-on-dram-rowhammer.html,/u/asthasr,7
+11,2017-08-16 13:33:26 -0500,"/t/c++,/t/performance,/t/rust",Rust performance: finishing the job,http://mikejsavage.co.uk/blog/rust-performance-finishing-the-job.html,/u/mikejsavage,17
+0,2017-08-17 12:18:15 -0500,"/t/c++,/t/linux,/t/programming,/t/security",Making OpenSource software more secure using Kafel and Dependency Analysis,https://github.com/LoopPerfect/buckaroo/issues/127,/u/nikhedonia,2
+0,2017-08-16 19:54:16 -0500,"/t/devops,/t/distributed",Kubernetes at GitHub,https://githubengineering.com/kubernetes-at-github/,/u/pims,27
+0,2017-08-17 20:34:09 -0500,/t/compsci,"Know your Times Tables, but... do you know your ""Hash Tables""?",http://www.zeroequalsfalse.press/2017/02/20/hashtables/,/u/calvin,1
+0,2017-08-17 09:59:00 -0500,/t/haskell,Enforce lists to be monotonic at compile time,http://blog.braulio.me/posts/2017-08-10-enforce-monotonic.html,/u/pushcx,5
+0,2017-08-17 20:26:22 -0500,"/t/practices,/t/vcs",MojoTech Git Workflow,http://blog.mojotech.com/mojotech-git-workflow/,/u/calvin,1
+0,2017-08-17 03:29:49 -0500,"/t/api,/t/java,/t/programming",How Java 9 Incubator Modules Will Transform New Java Features,http://blog.takipi.com/how-java-9-incubator-modules-will-change-the-future-of-java/,/u/talisoroker,5
+0,2017-08-17 18:45:29 -0500,"/t/c,/t/linux,/t/programming","Object-oriented design patterns in the kernel, part 1",https://lwn.net/Articles/444910/,/u/calvin,1
+0,2017-08-17 12:00:58 -0500,/t/assembly,"The Alpha AXP, part 9: The memory model and atomic memory operations",https://blogs.msdn.microsoft.com/oldnewthing/20170817-00/?p=96835,/u/calvin,3

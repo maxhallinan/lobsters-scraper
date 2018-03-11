@@ -1,25 +1,25 @@
-2,2016-07-26 12:52:55 -0500,['/t/distributed'],FaRM: Fast Remote Memory,http://blog.carlosgaldino.com/farm-fast-remote-memory.html,/u/carlosgaldino,4
-95,2016-07-25 13:04:51 -0500,['/t/ask'],Who's here?,/s/fpy4v3/who_s_here,/u/brinker,47
-1,2016-07-26 16:58:17 -0500,"['/t/event', '/t/freebsd', '/t/netbsd', '/t/openbsd']",EuroBSDcon 2016 Talks & Schedule,https://2016.eurobsdcon.org/talks-schedule/,/u/cnst,7
-0,2016-07-26 08:49:10 -0500,"['/t/video', '/t/databases']",Lessons Learned the Hard Way: Postgres in Production at GoCardless,https://www.youtube.com/watch?v=Tu-cf-Jki60,/u/Sinjo,10
-4,2016-07-26 07:35:26 -0500,['/t/security'],NIST declares the age of SMS-based 2-factor authentication over,https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/,/u/pushcx,9
-0,2016-07-26 09:54:29 -0500,"['/t/erlang', '/t/practices', '/t/programming']",The Shoemaker’s Son - an Erlang story about Dialyzer,https://medium.com/@elbrujohalcon/the-shoemakers-son-ef473e8a2be,/u/elbrujohalcon,6
-3,2016-07-26 05:41:35 -0500,"['/t/show', '/t/c', '/t/programming', '/t/release', '/t/reversing']",The x86 Script Instruction Virtual Machine,http://www.tboox.org/2016/07/26/x86-script-instruction-virtual-machine/,/u/ruki,6
-2,2016-07-26 12:28:53 -0500,"['/t/go', '/t/release', '/t/web']",Flynn 1.0 - open source Platform as a Service,https://flynn.io/blog/one-point-oh,/u/av,4
-0,2016-07-26 10:07:43 -0500,['/t/databases'],Reading a Postgres EXPLAIN ANALYZE Query Plan,https://robots.thoughtbot.com/reading-an-explain-analyze-query-plan,/u/calebthompson,4
-0,2016-07-26 09:46:50 -0500,['/t/databases'],EventQL - open-source distributed SQL analytics database (C++11),http://eventql.io/,/u/paulasmuth,4
-1,2016-07-26 05:43:20 -0500,"['/t/show', '/t/release']","Zagat - Restaurant reviews, trusted ratings, photos, new places, best-of lists, neighborhood guide on the App Store",https://itunes.apple.com/us/app/zagat-restaurant-reviews-trusted/id669821485?mt=8,/u/adsouza,6
-1,2016-07-26 06:05:21 -0500,['/t/graphics'],Collision detection for dummies,http://www.wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/,/u/mikejsavage,7
-14,2016-07-25 10:41:19 -0500,"['/t/show', '/t/games', '/t/javascript']",Snekpit: Classic Snake for many players at once,https://github.com/ryanml/Snekp.it,/u/drconglomerate,21
-1,2016-07-26 11:26:28 -0500,['/t/culture'],A Declaration of the Independence of Cyberspace,https://www.eff.org/cyberspace-independence,/u/friendlysock,7
-1,2016-07-26 05:52:50 -0500,"['/t/event', '/t/rust']",The 2016 Rust Conference Lineup,http://blog.rust-lang.org/2016/07/25/conf-lineup.html,/u/skade,5
-0,2016-07-26 18:21:40 -0500,"['/t/culture', '/t/historical']",Learning how to program in Oman in the 90’s,http://vivin.net/2016/07/26/learning-how-to-program-in-oman-in-the-90s/,/u/zem,2
-14,2016-07-25 13:44:06 -0500,['/t/ask'],What are you working on this week?,/s/menbzx/what_are_you_working_on_this_week,/u/caius,16
-0,2016-07-26 12:37:08 -0500,"['/t/security', '/t/web']",MITM Attack — Reverse Engineering an Encrypted Service,http://www.theodo.fr/blog/2016/07/mitm-attack-reverse-engineering-an-encrypted-service/,/u/av,2
-7,2016-07-25 15:46:04 -0500,['/t/lua'],Sol: Lua + Typesafety,https://github.com/emilk/sol,/u/unbalancedparentheses,12
-5,2016-07-25 10:48:34 -0500,['/t/law'],9th Circuit: It’s a federal crime to visit a website after being told not to visit it,https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/07/12/9th-circuit-its-a-federal-crime-to-visit-a-website-after-being-told-not-to-visit-it/,/u/av,17
-0,2016-07-26 07:28:56 -0500,"['/t/design', '/t/hardware', '/t/historical']",Apple and the History of Personal Computer Design (computers as material culture),http://www.landsnail.com/apple/local/design/index.html,/u/calvin,3
-1,2016-07-25 18:33:45 -0500,"['/t/openbsd', '/t/python', '/t/security']",Upcoming module 'secrets' in Python 3.6 Standard Library,https://docs.python.org/dev/library/secrets.html,/u/quobit,12
-4,2016-07-25 11:28:01 -0500,"['/t/games', '/t/security']",World of Warcraft: one simple line of code can cost you dearly,https://blog.gdatasoftware.com/2016/07/28809-world-of-warcraft-one-simple-line-of-code-can-cost-you-dearly,/u/pushcx,17
-0,2016-07-25 18:39:24 -0500,['/t/compsci'],Log Structured Merge Trees,http://www.benstopford.com/2015/02/14/log-structured-merge-trees/,/u/SeanW,10
-0,2016-07-25 14:18:46 -0500,"['/t/linux', '/t/security']",Linux 4.8 will use ChaCha20 for /dev/urandom,http://lkml.iu.edu/hypermail/linux/kernel/1607.3/00275.html,/u/rodolfo,16
+2,2016-07-26 12:52:55 -0500,/t/distributed,FaRM: Fast Remote Memory,http://blog.carlosgaldino.com/farm-fast-remote-memory.html,/u/carlosgaldino,4
+95,2016-07-25 13:04:51 -0500,/t/ask,Who's here?,/s/fpy4v3/who_s_here,/u/brinker,47
+1,2016-07-26 16:58:17 -0500,"/t/event,/t/freebsd,/t/netbsd,/t/openbsd",EuroBSDcon 2016 Talks & Schedule,https://2016.eurobsdcon.org/talks-schedule/,/u/cnst,7
+0,2016-07-26 08:49:10 -0500,"/t/video,/t/databases",Lessons Learned the Hard Way: Postgres in Production at GoCardless,https://www.youtube.com/watch?v=Tu-cf-Jki60,/u/Sinjo,10
+4,2016-07-26 07:35:26 -0500,/t/security,NIST declares the age of SMS-based 2-factor authentication over,https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/,/u/pushcx,9
+0,2016-07-26 09:54:29 -0500,"/t/erlang,/t/practices,/t/programming",The Shoemaker’s Son - an Erlang story about Dialyzer,https://medium.com/@elbrujohalcon/the-shoemakers-son-ef473e8a2be,/u/elbrujohalcon,6
+3,2016-07-26 05:41:35 -0500,"/t/show,/t/c,/t/programming,/t/release,/t/reversing",The x86 Script Instruction Virtual Machine,http://www.tboox.org/2016/07/26/x86-script-instruction-virtual-machine/,/u/ruki,6
+2,2016-07-26 12:28:53 -0500,"/t/go,/t/release,/t/web",Flynn 1.0 - open source Platform as a Service,https://flynn.io/blog/one-point-oh,/u/av,4
+0,2016-07-26 10:07:43 -0500,/t/databases,Reading a Postgres EXPLAIN ANALYZE Query Plan,https://robots.thoughtbot.com/reading-an-explain-analyze-query-plan,/u/calebthompson,4
+0,2016-07-26 09:46:50 -0500,/t/databases,EventQL - open-source distributed SQL analytics database (C++11),http://eventql.io/,/u/paulasmuth,4
+1,2016-07-26 05:43:20 -0500,"/t/show,/t/release","Zagat - Restaurant reviews, trusted ratings, photos, new places, best-of lists, neighborhood guide on the App Store",https://itunes.apple.com/us/app/zagat-restaurant-reviews-trusted/id669821485?mt=8,/u/adsouza,6
+1,2016-07-26 06:05:21 -0500,/t/graphics,Collision detection for dummies,http://www.wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/,/u/mikejsavage,7
+14,2016-07-25 10:41:19 -0500,"/t/show,/t/games,/t/javascript",Snekpit: Classic Snake for many players at once,https://github.com/ryanml/Snekp.it,/u/drconglomerate,21
+1,2016-07-26 11:26:28 -0500,/t/culture,A Declaration of the Independence of Cyberspace,https://www.eff.org/cyberspace-independence,/u/friendlysock,7
+1,2016-07-26 05:52:50 -0500,"/t/event,/t/rust",The 2016 Rust Conference Lineup,http://blog.rust-lang.org/2016/07/25/conf-lineup.html,/u/skade,5
+0,2016-07-26 18:21:40 -0500,"/t/culture,/t/historical",Learning how to program in Oman in the 90’s,http://vivin.net/2016/07/26/learning-how-to-program-in-oman-in-the-90s/,/u/zem,2
+14,2016-07-25 13:44:06 -0500,/t/ask,What are you working on this week?,/s/menbzx/what_are_you_working_on_this_week,/u/caius,16
+0,2016-07-26 12:37:08 -0500,"/t/security,/t/web",MITM Attack — Reverse Engineering an Encrypted Service,http://www.theodo.fr/blog/2016/07/mitm-attack-reverse-engineering-an-encrypted-service/,/u/av,2
+7,2016-07-25 15:46:04 -0500,/t/lua,Sol: Lua + Typesafety,https://github.com/emilk/sol,/u/unbalancedparentheses,12
+5,2016-07-25 10:48:34 -0500,/t/law,9th Circuit: It’s a federal crime to visit a website after being told not to visit it,https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/07/12/9th-circuit-its-a-federal-crime-to-visit-a-website-after-being-told-not-to-visit-it/,/u/av,17
+0,2016-07-26 07:28:56 -0500,"/t/design,/t/hardware,/t/historical",Apple and the History of Personal Computer Design (computers as material culture),http://www.landsnail.com/apple/local/design/index.html,/u/calvin,3
+1,2016-07-25 18:33:45 -0500,"/t/openbsd,/t/python,/t/security",Upcoming module 'secrets' in Python 3.6 Standard Library,https://docs.python.org/dev/library/secrets.html,/u/quobit,12
+4,2016-07-25 11:28:01 -0500,"/t/games,/t/security",World of Warcraft: one simple line of code can cost you dearly,https://blog.gdatasoftware.com/2016/07/28809-world-of-warcraft-one-simple-line-of-code-can-cost-you-dearly,/u/pushcx,17
+0,2016-07-25 18:39:24 -0500,/t/compsci,Log Structured Merge Trees,http://www.benstopford.com/2015/02/14/log-structured-merge-trees/,/u/SeanW,10
+0,2016-07-25 14:18:46 -0500,"/t/linux,/t/security",Linux 4.8 will use ChaCha20 for /dev/urandom,http://lkml.iu.edu/hypermail/linux/kernel/1607.3/00275.html,/u/rodolfo,16

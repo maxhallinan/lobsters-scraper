@@ -1,25 +1,25 @@
-0,2017-02-10 13:03:43 -0600,"['/t/audio', '/t/event', '/t/freebsd', '/t/netbsd', '/t/openbsd']",bsdtalk266 - The nodes take over,http://bsdtalk.blogspot.com/2017/02/bsdtalk266-nodes-take-over.html,/u/quobit,2
-0,2017-02-10 10:06:28 -0600,"['/t/php', '/t/security']",Cryptographically Secure PHP Development,https://paragonie.com/blog/2017/02/cryptographically-secure-php-development,/u/av,3
-2,2017-02-09 15:16:22 -0600,['/t/rust'],Learning Rust With Entirely Too Many Linked Lists,http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html,/u/aduffy,20
-0,2017-02-10 12:10:35 -0600,"['/t/pdf', '/t/compsci']",A tutorial on the universality and expressiveness of fold (1999),http://www.cs.nott.ac.uk/~pszgmh/fold.pdf,/u/asthasr,2
-0,2017-02-10 15:39:03 -0600,"['/t/assembly', '/t/compsci', '/t/mac']",An experiment: introducing the PopOutPlayer (plus: microbenchmarking PowerPC SPRs),http://tenfourfox.blogspot.com/2017/02/an-experiment-introducing-popoutplayer.html,/u/sevan,1
-2,2017-02-09 15:17:05 -0600,"['/t/compsci', '/t/programming']",Real TIme Garbage Collector,http://realtimegarbagecollector.com/,/u/varjag,19
-0,2017-02-10 08:17:24 -0600,"['/t/pdf', '/t/hardware', '/t/math']",Geometric Algebra for Electrical and Electronic Engineers,http://ieeexplore.ieee.org/ielx7/5/6879517/06876131.pdf?tp=&arnumber=6876131&isnumber=6879517,/u/pushcx,3
-2,2017-02-09 16:55:29 -0600,['/t/erlang'],Concurrent Programming in Erlang Course,https://www.futurelearn.com/courses/concurrent-programming-erlang/1,/u/cooler_ranch,14
-1,2017-02-09 15:49:43 -0600,"['/t/debugging', '/t/release', '/t/rust']",Announcing Rust 1.15.1,http://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html,/u/klingtnet,19
-1,2017-02-10 00:36:43 -0600,"['/t/go', '/t/web']",Go Web Examples,https://gowebexamples.github.io/,/u/Dawny33,5
-79,2017-02-09 06:30:10 -0600,['/t/distributed'],Urbit in 2017,http://urbit.org/blog/2017.1-update/,/u/sanxiyn,19
-0,2017-02-10 00:19:16 -0600,['/t/python'],Learn web development: Django Web Framework,https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django,/u/av,6
-1,2017-02-10 11:06:56 -0600,"['/t/culture', '/t/programming']",The Moderately Enthusiastic Programmer,http://www.virtuouscode.com/2014/01/31/the-moderately-enthusiastic-programmer/,/u/feoh,3
-0,2017-02-10 08:13:42 -0600,['/t/hardware'],Good in a Pinch: The Physics of Crimped Connections,http://hackaday.com/2017/02/09/good-in-a-pinch-the-physics-of-crimped-connections/,/u/flyingfisch,2
-5,2017-02-09 11:38:22 -0600,['/t/elixir'],Elixir deployments on AWS,https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d,/u/av,14
-6,2017-02-09 11:35:50 -0600,"['/t/release', '/t/vim']",Vim's 25th anniversary and the release of Vim 8,https://lwn.net/Articles/713114/,/u/av,12
-0,2017-02-10 10:10:18 -0600,['/t/programming'],"A Month of “Hello, World!”",https://magenta.as/a-month-of-hello-world-496a92b6cec3,/u/av,1
-0,2017-02-10 10:05:24 -0600,"['/t/javascript', '/t/web']",JavaScript Start-up Performance,https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201,/u/av,1
-0,2017-02-10 09:58:58 -0600,"['/t/api', '/t/go']",Reactive Extensions for Go,https://github.com/ReactiveX/RxGo,/u/benballjr,1
-0,2017-02-10 09:40:30 -0600,"['/t/go', '/t/programming', '/t/web']",Pitfalls of context values and how to avoid or mitigate them in Go,https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/,/u/benballjr,1
-0,2017-02-10 00:51:28 -0600,"['/t/cogsci', '/t/design', '/t/practices']",10 Essential Usability Metrics,http://measuringu.com/essential-metrics/,/u/friendlysock,4
-0,2017-02-10 00:15:22 -0600,"['/t/pdf', '/t/math']","Maxwell's Equations expressed as a single equation, via Clifford's geometric algebra",http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=6876131,/u/zem,4
-1,2017-02-09 18:06:53 -0600,"['/t/video', '/t/freebsd', '/t/linux', '/t/practices', '/t/unix']",Convincing a Linux guy to use FreeBSD,https://www.youtube.com/watch?v=cofKxtIO3Is,/u/sevan,7
-0,2017-02-10 08:24:42 -0600,"['/t/compsci', '/t/historical']",Calling down with `inner()` instead of calling up with `super()` (2012),http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/,/u/Sietsebb,1
-0,2017-02-10 00:16:35 -0600,"['/t/dotnet', '/t/programming']",Getting Started with Functional Programming in F#,http://codeopinion.com/getting-started-with-functional-programming-in-f/,/u/av,3
+0,2017-02-10 13:03:43 -0600,"/t/audio,/t/event,/t/freebsd,/t/netbsd,/t/openbsd",bsdtalk266 - The nodes take over,http://bsdtalk.blogspot.com/2017/02/bsdtalk266-nodes-take-over.html,/u/quobit,2
+0,2017-02-10 10:06:28 -0600,"/t/php,/t/security",Cryptographically Secure PHP Development,https://paragonie.com/blog/2017/02/cryptographically-secure-php-development,/u/av,3
+2,2017-02-09 15:16:22 -0600,/t/rust,Learning Rust With Entirely Too Many Linked Lists,http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html,/u/aduffy,20
+0,2017-02-10 12:10:35 -0600,"/t/pdf,/t/compsci",A tutorial on the universality and expressiveness of fold (1999),http://www.cs.nott.ac.uk/~pszgmh/fold.pdf,/u/asthasr,2
+0,2017-02-10 15:39:03 -0600,"/t/assembly,/t/compsci,/t/mac",An experiment: introducing the PopOutPlayer (plus: microbenchmarking PowerPC SPRs),http://tenfourfox.blogspot.com/2017/02/an-experiment-introducing-popoutplayer.html,/u/sevan,1
+2,2017-02-09 15:17:05 -0600,"/t/compsci,/t/programming",Real TIme Garbage Collector,http://realtimegarbagecollector.com/,/u/varjag,19
+0,2017-02-10 08:17:24 -0600,"/t/pdf,/t/hardware,/t/math",Geometric Algebra for Electrical and Electronic Engineers,http://ieeexplore.ieee.org/ielx7/5/6879517/06876131.pdf?tp=&arnumber=6876131&isnumber=6879517,/u/pushcx,3
+2,2017-02-09 16:55:29 -0600,/t/erlang,Concurrent Programming in Erlang Course,https://www.futurelearn.com/courses/concurrent-programming-erlang/1,/u/cooler_ranch,14
+1,2017-02-09 15:49:43 -0600,"/t/debugging,/t/release,/t/rust",Announcing Rust 1.15.1,http://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html,/u/klingtnet,19
+1,2017-02-10 00:36:43 -0600,"/t/go,/t/web",Go Web Examples,https://gowebexamples.github.io/,/u/Dawny33,5
+79,2017-02-09 06:30:10 -0600,/t/distributed,Urbit in 2017,http://urbit.org/blog/2017.1-update/,/u/sanxiyn,19
+0,2017-02-10 00:19:16 -0600,/t/python,Learn web development: Django Web Framework,https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django,/u/av,6
+1,2017-02-10 11:06:56 -0600,"/t/culture,/t/programming",The Moderately Enthusiastic Programmer,http://www.virtuouscode.com/2014/01/31/the-moderately-enthusiastic-programmer/,/u/feoh,3
+0,2017-02-10 08:13:42 -0600,/t/hardware,Good in a Pinch: The Physics of Crimped Connections,http://hackaday.com/2017/02/09/good-in-a-pinch-the-physics-of-crimped-connections/,/u/flyingfisch,2
+5,2017-02-09 11:38:22 -0600,/t/elixir,Elixir deployments on AWS,https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d,/u/av,14
+6,2017-02-09 11:35:50 -0600,"/t/release,/t/vim",Vim's 25th anniversary and the release of Vim 8,https://lwn.net/Articles/713114/,/u/av,12
+0,2017-02-10 10:10:18 -0600,/t/programming,"A Month of “Hello, World!”",https://magenta.as/a-month-of-hello-world-496a92b6cec3,/u/av,1
+0,2017-02-10 10:05:24 -0600,"/t/javascript,/t/web",JavaScript Start-up Performance,https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201,/u/av,1
+0,2017-02-10 09:58:58 -0600,"/t/api,/t/go",Reactive Extensions for Go,https://github.com/ReactiveX/RxGo,/u/benballjr,1
+0,2017-02-10 09:40:30 -0600,"/t/go,/t/programming,/t/web",Pitfalls of context values and how to avoid or mitigate them in Go,https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/,/u/benballjr,1
+0,2017-02-10 00:51:28 -0600,"/t/cogsci,/t/design,/t/practices",10 Essential Usability Metrics,http://measuringu.com/essential-metrics/,/u/friendlysock,4
+0,2017-02-10 00:15:22 -0600,"/t/pdf,/t/math","Maxwell's Equations expressed as a single equation, via Clifford's geometric algebra",http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=6876131,/u/zem,4
+1,2017-02-09 18:06:53 -0600,"/t/video,/t/freebsd,/t/linux,/t/practices,/t/unix",Convincing a Linux guy to use FreeBSD,https://www.youtube.com/watch?v=cofKxtIO3Is,/u/sevan,7
+0,2017-02-10 08:24:42 -0600,"/t/compsci,/t/historical",Calling down with `inner()` instead of calling up with `super()` (2012),http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/,/u/Sietsebb,1
+0,2017-02-10 00:16:35 -0600,"/t/dotnet,/t/programming",Getting Started with Functional Programming in F#,http://codeopinion.com/getting-started-with-functional-programming-in-f/,/u/av,3

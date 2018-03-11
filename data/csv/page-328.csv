@@ -1,25 +1,25 @@
-0,2017-06-14 22:01:20 -0500,"['/t/linux', '/t/performance']",Improving Linux System Performance with I/O Scheduler Tuning,https://blog.codeship.com/linux-io-scheduler-tuning/,/u/pushcx,6
-3,2017-06-14 10:08:00 -0500,"['/t/c', '/t/ruby']",Meditations on Writing a Queue,https://schneems.com/2017/06/14/meditations-on-writing-a-queue/,/u/schneems,9
-0,2017-06-15 05:28:01 -0500,"['/t/mobile', '/t/web']",Progressive web sites: a future that’s native to the web,http://blog.oshineye.com/2017/06/progressive-web-sites.html,/u/adsouza,2
-0,2017-06-14 21:11:27 -0500,"['/t/android', '/t/ruby']",From Rails to Hanami: Views,https://blog.codeminer42.com/from-rails-to-hanami-views-66d27bcba404,/u/iagomds,3
-1,2017-06-14 12:17:08 -0500,['/t/visualization'],Colourful visualization tool for binary files,https://github.com/FireyFly/pixd,/u/hobbes,13
-1,2017-06-14 15:01:44 -0500,"['/t/c', '/t/compilers']",Beginner's Guide to Linkers,http://www.lurklurk.org/linkers/linkers.html,/u/friendlysock,10
-49,2017-06-13 14:08:08 -0500,"['/t/c++', '/t/systemd']",Escape from System D : a new init,https://davmac.wordpress.com/2017/06/14/escape-from-system-d/,/u/davmac,39
-5,2017-06-15 17:43:09 -0500,"['/t/culture', '/t/practices']",Catfish Programmers,https://www.butternotes.com,/u/friendlysock,0
-1,2017-06-14 04:34:46 -0500,"['/t/programming', '/t/rust']",System programming in Rust: beyond safety,https://blog.acolyer.org/2017/06/14/system-programming-in-rust-beyond-safety/,/u/calvin,21
-12,2017-06-13 20:55:01 -0500,"['/t/hardware', '/t/practices']",Is the keyboard faster than the mouse?,https://danluu.com/keyboard-v-mouse/,/u/calvin,28
-0,2017-06-14 15:26:13 -0500,['/t/debugging'],Another Case Of Obscure CPU Nondeterminism,http://robert.ocallahan.org/2017/06/another-case-of-obscure-cpu.html,/u/chadski,7
-1,2017-06-14 18:04:01 -0500,"['/t/mac', '/t/reversing', '/t/security']",MacRansom: Offered as Ransomware as a Service,https://blog.fortinet.com/2017/06/09/macransom-offered-as-ransomware-as-a-service,/u/calvin,3
-0,2017-06-14 04:33:54 -0500,"['/t/haskell', '/t/rust']",Rust as a gateway drug to Haskell,http://xion.io/post/programming/rust-into-haskell.html,/u/calvin,19
-0,2017-06-14 22:37:01 -0500,['/t/ruby'],'Pair With Sum' Problem,http://routetomastery.com/blog/2017/01/08/has-pair-with-some-problem/,/u/pushcx,2
-0,2017-06-14 22:34:52 -0500,['/t/databases'],Modifying files stored outside of PostgreSQL while maintaining full transaction safety,https://hackernoon.com/modifying-files-stored-outside-of-postgresql-while-maintaining-full-transaction-safety-and-d8b55327e679,/u/pushcx,2
-34,2017-06-13 14:33:05 -0500,['/t/python'],10 awesome features of Python that you can't use because you refuse to upgrade to Python 3,http://www.asmeurer.com/python3-presentation/slides.html,/u/quobit,41
-0,2017-06-15 01:19:21 -0500,['/t/javascript'],Intentionally unleashing Zalgo with promises,https://medium.com/@bluepnume/intentionally-unleashing-zalgo-with-promises-ab3f63ead2fd,/u/friendlysock,1
-0,2017-06-14 11:39:38 -0500,['/t/hardware'],Z-BERRY: Z80 based computer,https://sites.google.com/site/zberrysbc/home,/u/fcbsd,7
-0,2017-06-14 10:47:41 -0500,"['/t/historical', '/t/person']",Charles P. Thacker Dies at 74; Helped Design Early Personal Computer,https://www.nytimes.com/2017/06/14/technology/charles-thacker-dead-personal-computing-pioneer.html,/u/sevan,7
-2,2017-06-14 04:35:14 -0500,"['/t/c', '/t/c++']",Musings on sizeof,https://medium.com/@andreirtaylor/musings-on-sizeof-a7b565147836,/u/calvin,8
-0,2017-06-14 16:10:52 -0500,['/t/distributed'],Why local state is a fundamental primitive in stream processing (2014),https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing,/u/pushcx,3
-0,2017-06-14 15:22:26 -0500,"['/t/design', '/t/practices']",Describing Personas,https://medium.com/@indiyoung/describing-personas-af992e3fc527,/u/flyingfisch,3
-22,2017-06-12 23:37:08 -0500,"['/t/c', '/t/linux', '/t/unix']",How is GNU's `yes` so fast?,https://www.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/,/u/kjensenxz,68
-0,2017-06-14 10:39:34 -0500,['/t/programming'],Don’t Store That in a Float,https://randomascii.wordpress.com/2012/02/13/dont-store-that-in-a-float/,/u/mikejsavage,5
-4,2017-06-13 20:01:14 -0500,['/t/historical'],History by lawsuit: “inventor of e-mail” targets Techdirt,https://arstechnica.com/tech-policy/2017/06/shivas-war-one-mans-quest-to-convince-the-world-that-he-invented-e-mail/,/u/aduffy,17
+0,2017-06-14 22:01:20 -0500,"/t/linux,/t/performance",Improving Linux System Performance with I/O Scheduler Tuning,https://blog.codeship.com/linux-io-scheduler-tuning/,/u/pushcx,6
+3,2017-06-14 10:08:00 -0500,"/t/c,/t/ruby",Meditations on Writing a Queue,https://schneems.com/2017/06/14/meditations-on-writing-a-queue/,/u/schneems,9
+0,2017-06-15 05:28:01 -0500,"/t/mobile,/t/web",Progressive web sites: a future that’s native to the web,http://blog.oshineye.com/2017/06/progressive-web-sites.html,/u/adsouza,2
+0,2017-06-14 21:11:27 -0500,"/t/android,/t/ruby",From Rails to Hanami: Views,https://blog.codeminer42.com/from-rails-to-hanami-views-66d27bcba404,/u/iagomds,3
+1,2017-06-14 12:17:08 -0500,/t/visualization,Colourful visualization tool for binary files,https://github.com/FireyFly/pixd,/u/hobbes,13
+1,2017-06-14 15:01:44 -0500,"/t/c,/t/compilers",Beginner's Guide to Linkers,http://www.lurklurk.org/linkers/linkers.html,/u/friendlysock,10
+49,2017-06-13 14:08:08 -0500,"/t/c++,/t/systemd",Escape from System D : a new init,https://davmac.wordpress.com/2017/06/14/escape-from-system-d/,/u/davmac,39
+5,2017-06-15 17:43:09 -0500,"/t/culture,/t/practices",Catfish Programmers,https://www.butternotes.com,/u/friendlysock,0
+1,2017-06-14 04:34:46 -0500,"/t/programming,/t/rust",System programming in Rust: beyond safety,https://blog.acolyer.org/2017/06/14/system-programming-in-rust-beyond-safety/,/u/calvin,21
+12,2017-06-13 20:55:01 -0500,"/t/hardware,/t/practices",Is the keyboard faster than the mouse?,https://danluu.com/keyboard-v-mouse/,/u/calvin,28
+0,2017-06-14 15:26:13 -0500,/t/debugging,Another Case Of Obscure CPU Nondeterminism,http://robert.ocallahan.org/2017/06/another-case-of-obscure-cpu.html,/u/chadski,7
+1,2017-06-14 18:04:01 -0500,"/t/mac,/t/reversing,/t/security",MacRansom: Offered as Ransomware as a Service,https://blog.fortinet.com/2017/06/09/macransom-offered-as-ransomware-as-a-service,/u/calvin,3
+0,2017-06-14 04:33:54 -0500,"/t/haskell,/t/rust",Rust as a gateway drug to Haskell,http://xion.io/post/programming/rust-into-haskell.html,/u/calvin,19
+0,2017-06-14 22:37:01 -0500,/t/ruby,'Pair With Sum' Problem,http://routetomastery.com/blog/2017/01/08/has-pair-with-some-problem/,/u/pushcx,2
+0,2017-06-14 22:34:52 -0500,/t/databases,Modifying files stored outside of PostgreSQL while maintaining full transaction safety,https://hackernoon.com/modifying-files-stored-outside-of-postgresql-while-maintaining-full-transaction-safety-and-d8b55327e679,/u/pushcx,2
+34,2017-06-13 14:33:05 -0500,/t/python,10 awesome features of Python that you can't use because you refuse to upgrade to Python 3,http://www.asmeurer.com/python3-presentation/slides.html,/u/quobit,41
+0,2017-06-15 01:19:21 -0500,/t/javascript,Intentionally unleashing Zalgo with promises,https://medium.com/@bluepnume/intentionally-unleashing-zalgo-with-promises-ab3f63ead2fd,/u/friendlysock,1
+0,2017-06-14 11:39:38 -0500,/t/hardware,Z-BERRY: Z80 based computer,https://sites.google.com/site/zberrysbc/home,/u/fcbsd,7
+0,2017-06-14 10:47:41 -0500,"/t/historical,/t/person",Charles P. Thacker Dies at 74; Helped Design Early Personal Computer,https://www.nytimes.com/2017/06/14/technology/charles-thacker-dead-personal-computing-pioneer.html,/u/sevan,7
+2,2017-06-14 04:35:14 -0500,"/t/c,/t/c++",Musings on sizeof,https://medium.com/@andreirtaylor/musings-on-sizeof-a7b565147836,/u/calvin,8
+0,2017-06-14 16:10:52 -0500,/t/distributed,Why local state is a fundamental primitive in stream processing (2014),https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing,/u/pushcx,3
+0,2017-06-14 15:22:26 -0500,"/t/design,/t/practices",Describing Personas,https://medium.com/@indiyoung/describing-personas-af992e3fc527,/u/flyingfisch,3
+22,2017-06-12 23:37:08 -0500,"/t/c,/t/linux,/t/unix",How is GNU's `yes` so fast?,https://www.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/,/u/kjensenxz,68
+0,2017-06-14 10:39:34 -0500,/t/programming,Don’t Store That in a Float,https://randomascii.wordpress.com/2012/02/13/dont-store-that-in-a-float/,/u/mikejsavage,5
+4,2017-06-13 20:01:14 -0500,/t/historical,History by lawsuit: “inventor of e-mail” targets Techdirt,https://arstechnica.com/tech-policy/2017/06/shivas-war-one-mans-quest-to-convince-the-world-that-he-invented-e-mail/,/u/aduffy,17

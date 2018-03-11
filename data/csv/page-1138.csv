@@ -1,25 +1,25 @@
-1,2015-03-22 21:40:09 -0500,['/t/release'],"Less Estimation, More Trust",http://benlakey.com/2015/03/22/less-estimation-more-trust/,/u/byte1,11
-0,2015-03-23 08:25:38 -0500,"['/t/networking', '/t/openbsd', '/t/visualization']",Monitoring pf logs with Gource,http://www.echothrust.com/blogs/monitoring-pf-logs-gource,/u/proditis,3
-0,2015-03-23 14:53:54 -0500,"['/t/api', '/t/web']",View what people are torrenting all over the world in real time,https://getstrike.net/torrents/live/,/u/andrewmd5,1
-0,2015-03-23 12:26:06 -0500,"['/t/practices', '/t/web']",Three simple rules for building data products that people will actually use,http://highscalability.com/blog/2015/3/23/three-simple-rules-for-building-data-products-that-people-wi.html,/u/ttrefren,1
-0,2015-03-23 08:20:18 -0500,"['/t/networking', '/t/practices']",Network Simulators are Broken,http://www.supertcp.com/network-simulators-are-broken/,/u/ry_brink,2
-0,2015-03-23 11:46:42 -0500,"['/t/video', '/t/ruby', '/t/web']","Introducing Pakyow UI: Build Realtime, Backend-Driven Web Apps",https://vimeo.com/122983514,/u/bryanp,1
-0,2015-03-23 09:29:56 -0500,['/t/privacy'],Leaked Document Reveals Upcoming Biometric Experiments at US Customs,http://motherboard.vice.com/read/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs,/u/pushcx,1
-0,2015-03-23 09:17:53 -0500,['/t/science'],The Big Shift: Infields spin in response to data explosion,http://hosted.ap.org/dynamic/stories/B/BBO_THE_BIG_SHIFT?SITE=AP,/u/journeysquid,1
-1,2015-03-22 13:12:44 -0500,"['/t/linux', '/t/programming']",Linux Insides,https://github.com/0xAX/linux-insides,/u/steveklabnik,13
-0,2015-03-23 05:33:54 -0500,"['/t/api', '/t/distributed', '/t/go', '/t/programming', '/t/python', '/t/release', '/t/visualization']",Appdash: open-source Go clone of Google Dapper (for Go & Python app perf tracing),https://sourcegraph.com/sourcegraph/appdash,/u/sqs,1
-0,2015-03-23 12:00:42 -0500,['/t/android'],Top Open Source Android Test Automation Frameworks (with Code Examples),http://testdroid.com/tech/top-5-android-testing-frameworks-with-examples,/u/vvh,0
-1,2015-03-23 09:05:14 -0500,"['/t/ask', '/t/culture', '/t/philosophy', '/t/practices']",Do open source forking principles apply in other domains?,/s/zr6xd4/do_open_source_forking_principles_apply,/u/james,3
-31,2015-03-21 23:36:35 -0500,['/t/web'],Websites: Abandon five obsolete habits,http://practicaltypography.com/websites.html,/u/jeremy,19
-2,2015-03-22 10:57:45 -0500,['/t/programming'],Rule of Thumb: Preconditions Should be Public,http://strilanc.com/rule-of-thumb/2014/06/22/Preconditions-Should-be-Public.html,/u/pushcx,6
-0,2015-03-22 18:01:18 -0500,"['/t/release', '/t/security']",Empirical Testing of Random Number Generators,http://www.iro.umontreal.ca/~simardr/testu01/tu01.html,/u/pushcx,3
-0,2015-03-22 09:24:10 -0500,"['/t/video', '/t/java']",Ludicrous Speed: Designing For Performance on the JVM,http://www.youtube.com/watch?v=X1rWgshr3PY,/u/SeanTAllen,8
-0,2015-03-22 09:41:48 -0500,['/t/programming'],Software testing from the perspective of a hardware engineer,http://danluu.com/testing/,/u/pushcx,6
-0,2015-03-22 16:58:13 -0500,['/t/visualization'],Dear Data: By Week,http://www.dear-data.com/by-week/,/u/pushcx,2
-0,2015-03-22 12:29:46 -0500,['/t/web'],Unitools is a suite of tools for working with Unicode in the browser,https://www.unicod.es/,/u/dh,3
-0,2015-03-22 09:19:49 -0500,"['/t/audio', '/t/compsci']",Martin Thompson on Mechanical Sympathy: Software Engineering Radio interview,http://www.se-radio.net/2014/02/episode-201-martin-thompson-on-mechanical-sympathy/,/u/SeanTAllen,3
-0,2015-03-22 08:51:25 -0500,"['/t/games', '/t/go', '/t/programming', '/t/unix']",An intelligent version of the sliding-puzzle game for your terminal built in golang,https://github.com/pravj/puzzl,/u/pravj,3
-5,2015-03-21 11:29:51 -0500,['/t/haskell'],Lens is unidiomatic Haskell,https://ro-che.info/articles/2014-04-24-lens-unidiomatic,/u/pushcx,21
-1,2015-03-21 20:09:05 -0500,['/t/databases'],The Morning Paper: Coordination Avoidance in Database Systems,http://blog.acolyer.org/2015/03/19/coordination-avoidance-in-database-systems/,/u/SeanTAllen,10
-3,2015-03-21 13:48:35 -0500,['/t/compsci'],Out of the Tar Pit,http://blog.acolyer.org/2015/03/20/out-of-the-tar-pit/,/u/kyle,14
-1,2015-03-21 17:26:21 -0500,['/t/web'],cURL as DSL,https://shibukawa.github.io/curl_as_dsl/,/u/antifuchs,8
+1,2015-03-22 21:40:09 -0500,/t/release,"Less Estimation, More Trust",http://benlakey.com/2015/03/22/less-estimation-more-trust/,/u/byte1,11
+0,2015-03-23 08:25:38 -0500,"/t/networking,/t/openbsd,/t/visualization",Monitoring pf logs with Gource,http://www.echothrust.com/blogs/monitoring-pf-logs-gource,/u/proditis,3
+0,2015-03-23 14:53:54 -0500,"/t/api,/t/web",View what people are torrenting all over the world in real time,https://getstrike.net/torrents/live/,/u/andrewmd5,1
+0,2015-03-23 12:26:06 -0500,"/t/practices,/t/web",Three simple rules for building data products that people will actually use,http://highscalability.com/blog/2015/3/23/three-simple-rules-for-building-data-products-that-people-wi.html,/u/ttrefren,1
+0,2015-03-23 08:20:18 -0500,"/t/networking,/t/practices",Network Simulators are Broken,http://www.supertcp.com/network-simulators-are-broken/,/u/ry_brink,2
+0,2015-03-23 11:46:42 -0500,"/t/video,/t/ruby,/t/web","Introducing Pakyow UI: Build Realtime, Backend-Driven Web Apps",https://vimeo.com/122983514,/u/bryanp,1
+0,2015-03-23 09:29:56 -0500,/t/privacy,Leaked Document Reveals Upcoming Biometric Experiments at US Customs,http://motherboard.vice.com/read/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs,/u/pushcx,1
+0,2015-03-23 09:17:53 -0500,/t/science,The Big Shift: Infields spin in response to data explosion,http://hosted.ap.org/dynamic/stories/B/BBO_THE_BIG_SHIFT?SITE=AP,/u/journeysquid,1
+1,2015-03-22 13:12:44 -0500,"/t/linux,/t/programming",Linux Insides,https://github.com/0xAX/linux-insides,/u/steveklabnik,13
+0,2015-03-23 05:33:54 -0500,"/t/api,/t/distributed,/t/go,/t/programming,/t/python,/t/release,/t/visualization",Appdash: open-source Go clone of Google Dapper (for Go & Python app perf tracing),https://sourcegraph.com/sourcegraph/appdash,/u/sqs,1
+0,2015-03-23 12:00:42 -0500,/t/android,Top Open Source Android Test Automation Frameworks (with Code Examples),http://testdroid.com/tech/top-5-android-testing-frameworks-with-examples,/u/vvh,0
+1,2015-03-23 09:05:14 -0500,"/t/ask,/t/culture,/t/philosophy,/t/practices",Do open source forking principles apply in other domains?,/s/zr6xd4/do_open_source_forking_principles_apply,/u/james,3
+31,2015-03-21 23:36:35 -0500,/t/web,Websites: Abandon five obsolete habits,http://practicaltypography.com/websites.html,/u/jeremy,19
+2,2015-03-22 10:57:45 -0500,/t/programming,Rule of Thumb: Preconditions Should be Public,http://strilanc.com/rule-of-thumb/2014/06/22/Preconditions-Should-be-Public.html,/u/pushcx,6
+0,2015-03-22 18:01:18 -0500,"/t/release,/t/security",Empirical Testing of Random Number Generators,http://www.iro.umontreal.ca/~simardr/testu01/tu01.html,/u/pushcx,3
+0,2015-03-22 09:24:10 -0500,"/t/video,/t/java",Ludicrous Speed: Designing For Performance on the JVM,http://www.youtube.com/watch?v=X1rWgshr3PY,/u/SeanTAllen,8
+0,2015-03-22 09:41:48 -0500,/t/programming,Software testing from the perspective of a hardware engineer,http://danluu.com/testing/,/u/pushcx,6
+0,2015-03-22 16:58:13 -0500,/t/visualization,Dear Data: By Week,http://www.dear-data.com/by-week/,/u/pushcx,2
+0,2015-03-22 12:29:46 -0500,/t/web,Unitools is a suite of tools for working with Unicode in the browser,https://www.unicod.es/,/u/dh,3
+0,2015-03-22 09:19:49 -0500,"/t/audio,/t/compsci",Martin Thompson on Mechanical Sympathy: Software Engineering Radio interview,http://www.se-radio.net/2014/02/episode-201-martin-thompson-on-mechanical-sympathy/,/u/SeanTAllen,3
+0,2015-03-22 08:51:25 -0500,"/t/games,/t/go,/t/programming,/t/unix",An intelligent version of the sliding-puzzle game for your terminal built in golang,https://github.com/pravj/puzzl,/u/pravj,3
+5,2015-03-21 11:29:51 -0500,/t/haskell,Lens is unidiomatic Haskell,https://ro-che.info/articles/2014-04-24-lens-unidiomatic,/u/pushcx,21
+1,2015-03-21 20:09:05 -0500,/t/databases,The Morning Paper: Coordination Avoidance in Database Systems,http://blog.acolyer.org/2015/03/19/coordination-avoidance-in-database-systems/,/u/SeanTAllen,10
+3,2015-03-21 13:48:35 -0500,/t/compsci,Out of the Tar Pit,http://blog.acolyer.org/2015/03/20/out-of-the-tar-pit/,/u/kyle,14
+1,2015-03-21 17:26:21 -0500,/t/web,cURL as DSL,https://shibukawa.github.io/curl_as_dsl/,/u/antifuchs,8

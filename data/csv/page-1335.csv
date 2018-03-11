@@ -1,25 +1,25 @@
-4,2014-05-06 09:33:09 -0500,['/t/c'],Getting Proper Tail Calls Out of C,http://jozefg.bitbucket.org/posts/2014-05-05-i-used-c-correctly.html,/u/jm,14
-0,2014-05-07 00:31:18 -0500,['/t/hardware'],Adaptive Clocking in AMD's Steamroller,http://www.realworldtech.com/steamroller-clocking/,/u/mikemccracken,3
-0,2014-05-07 00:14:53 -0500,['/t/virtualization'],Portable-VirtualBox,http://www.vbox.me/,/u/jm,3
-0,2014-05-07 01:43:08 -0500,['/t/programming'],Easy type-safe parsing of non-deterministically structured JSON,http://bitemyapp.com/posts/2014-04-17-parsing-nondeterministic-data-with-aeson-and-sum-types.html,/u/bitemyapp,2
-52,2014-05-06 09:38:39 -0500,"['/t/ask', '/t/culture', '/t/practices']",What is Your Workflow Like? / What tools do you use?,/s/jdrc2d/what_is_your_workflow_like_what_tools_do,/u/howdoipython,27
-2,2014-05-06 16:42:17 -0500,"['/t/hardware', '/t/python']",The Case for a Better HDL,http://www.jandecaluwe.com/hdldesign/the-case-for-a-better-hdl.html,/u/csantosb,5
-2,2014-05-06 11:52:09 -0500,"['/t/pdf', '/t/compsci', '/t/ruby']",The Ruby Type Checker,http://www.cs.umd.edu/~jfoster/papers/oops13.pdf,/u/jcs,7
-2,2014-05-06 12:48:23 -0500,"['/t/culture', '/t/practices']",The Long Tail of Open Source (And You),https://blog.engineyard.com/2014/long-tail-open-source,/u/nslater,13
-0,2014-05-06 11:19:18 -0500,"['/t/dotnet', '/t/programming']",Type Safe Printf via Type Providers (F#),http://blog.mavnn.co.uk/type-safe-printf-via-type-providers/,/u/mavnn,7
-2,2014-05-06 09:59:16 -0500,['/t/privacy'],Private screenshot sharing with S3 for OS X,http://maxnanis.com/blog/2014/05/05/private-screenshot-sharing-with-S3-OSX/,/u/mathisonian,5
-0,2014-05-06 03:48:31 -0500,"['/t/compsci', '/t/hardware']","UEFI boot: how does that actually work, then?",https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/,/u/csantosb,13
-0,2014-05-06 18:25:39 -0500,"['/t/video', '/t/databases', '/t/distributed']",The Potential Dangers of Causal Consistency and an Explicit Solution,http://vimeo.com/51578973,/u/SeanTAllen,2
-1,2014-05-06 14:21:05 -0500,"['/t/video', '/t/databases', '/t/distributed']",Bad As I Wanna Be: Coordination and Consistency in Distributed Databases,https://www.youtube.com/watch?v=_rAdJkAbGls&list=PL9Jh2HsAWHxKAIZ5n-PkPW3CHg2wI-MWb,/u/SeanTAllen,2
-4,2014-05-06 03:35:13 -0500,"['/t/programming', '/t/scala']",Monads in Scala,https://github.com/earldouglas/scala-scratchpad/tree/master/category-theory/monads#monads-in-scala,/u/lauris,7
-0,2014-05-06 09:24:05 -0500,['/t/programming'],Universal Serialization and Deserialization with GADTs (OCaml),http://cedeela.fr/universal-serialization-and-deserialization.html,/u/tizoc,5
-1,2014-05-05 16:18:17 -0500,"['/t/law', '/t/networking']",Level 3: Observations of an Internet Middleman,http://blog.level3.com/global-connectivity/observations-internet-middleman/,/u/kbuck,21
-0,2014-05-06 16:37:29 -0500,"['/t/hardware', '/t/programming']",Running Clojure on the BeagleBone Black,http://innovationsts.com/?p=4779,/u/carinmeier,1
-0,2014-05-06 12:29:26 -0500,"['/t/api', '/t/browsers', '/t/programming']",High Performance Browser Networking,http://chimera.labs.oreilly.com/books/1230000000545/index.html,/u/a4j,2
-0,2014-05-06 05:36:42 -0500,"['/t/distributed', '/t/networking', '/t/security']",An OSI layer model for the 21st century,https://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century/,/u/PiotrSikora,5
-0,2014-05-06 06:17:31 -0500,"['/t/javascript', '/t/web']",Slush – A Better Web App Scaffolding Tool,http://flippinawesome.org/2014/05/05/slush-a-better-web-app-scaffolding-tool/,/u/remotesynth,4
-1,2014-05-05 18:53:17 -0500,"['/t/person', '/t/programming']",Ramsey Nasser's Arabic Programming Language Artwork,http://animalnewyork.com/2014/artists-notebook-ramsey-nasser/,/u/zhemao,12
-0,2014-05-06 13:10:11 -0500,"['/t/law', '/t/practices', '/t/vcs']",Why and how we put our terms of service on github.,http://blog.vrypan.net/2014/05/05/terms-of-service-on-github/,/u/vrypan,1
-0,2014-05-06 12:38:15 -0500,['/t/python'],PyPy.js: Now faster than CPython,https://rfk.id.au/blog/entry/pypy-js-faster-than-cpython/,/u/kbuck,1
-0,2014-05-06 12:12:22 -0500,"['/t/programming', '/t/rust']",Rust for C++ programmers - part 5: borrowed references,http://featherweightmusings.blogspot.co.uk/2014/05/rust-for-c-programmers-part-5-borrowed.html,/u/kbuck,1
-3,2014-05-05 11:54:41 -0500,"['/t/show', '/t/c', '/t/security']",Safe explicit_bzero/timingsafe_bcmp for Linux,https://github.com/mikejsavage/safebfuns,/u/mikejsavage,9
+4,2014-05-06 09:33:09 -0500,/t/c,Getting Proper Tail Calls Out of C,http://jozefg.bitbucket.org/posts/2014-05-05-i-used-c-correctly.html,/u/jm,14
+0,2014-05-07 00:31:18 -0500,/t/hardware,Adaptive Clocking in AMD's Steamroller,http://www.realworldtech.com/steamroller-clocking/,/u/mikemccracken,3
+0,2014-05-07 00:14:53 -0500,/t/virtualization,Portable-VirtualBox,http://www.vbox.me/,/u/jm,3
+0,2014-05-07 01:43:08 -0500,/t/programming,Easy type-safe parsing of non-deterministically structured JSON,http://bitemyapp.com/posts/2014-04-17-parsing-nondeterministic-data-with-aeson-and-sum-types.html,/u/bitemyapp,2
+52,2014-05-06 09:38:39 -0500,"/t/ask,/t/culture,/t/practices",What is Your Workflow Like? / What tools do you use?,/s/jdrc2d/what_is_your_workflow_like_what_tools_do,/u/howdoipython,27
+2,2014-05-06 16:42:17 -0500,"/t/hardware,/t/python",The Case for a Better HDL,http://www.jandecaluwe.com/hdldesign/the-case-for-a-better-hdl.html,/u/csantosb,5
+2,2014-05-06 11:52:09 -0500,"/t/pdf,/t/compsci,/t/ruby",The Ruby Type Checker,http://www.cs.umd.edu/~jfoster/papers/oops13.pdf,/u/jcs,7
+2,2014-05-06 12:48:23 -0500,"/t/culture,/t/practices",The Long Tail of Open Source (And You),https://blog.engineyard.com/2014/long-tail-open-source,/u/nslater,13
+0,2014-05-06 11:19:18 -0500,"/t/dotnet,/t/programming",Type Safe Printf via Type Providers (F#),http://blog.mavnn.co.uk/type-safe-printf-via-type-providers/,/u/mavnn,7
+2,2014-05-06 09:59:16 -0500,/t/privacy,Private screenshot sharing with S3 for OS X,http://maxnanis.com/blog/2014/05/05/private-screenshot-sharing-with-S3-OSX/,/u/mathisonian,5
+0,2014-05-06 03:48:31 -0500,"/t/compsci,/t/hardware","UEFI boot: how does that actually work, then?",https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/,/u/csantosb,13
+0,2014-05-06 18:25:39 -0500,"/t/video,/t/databases,/t/distributed",The Potential Dangers of Causal Consistency and an Explicit Solution,http://vimeo.com/51578973,/u/SeanTAllen,2
+1,2014-05-06 14:21:05 -0500,"/t/video,/t/databases,/t/distributed",Bad As I Wanna Be: Coordination and Consistency in Distributed Databases,https://www.youtube.com/watch?v=_rAdJkAbGls&list=PL9Jh2HsAWHxKAIZ5n-PkPW3CHg2wI-MWb,/u/SeanTAllen,2
+4,2014-05-06 03:35:13 -0500,"/t/programming,/t/scala",Monads in Scala,https://github.com/earldouglas/scala-scratchpad/tree/master/category-theory/monads#monads-in-scala,/u/lauris,7
+0,2014-05-06 09:24:05 -0500,/t/programming,Universal Serialization and Deserialization with GADTs (OCaml),http://cedeela.fr/universal-serialization-and-deserialization.html,/u/tizoc,5
+1,2014-05-05 16:18:17 -0500,"/t/law,/t/networking",Level 3: Observations of an Internet Middleman,http://blog.level3.com/global-connectivity/observations-internet-middleman/,/u/kbuck,21
+0,2014-05-06 16:37:29 -0500,"/t/hardware,/t/programming",Running Clojure on the BeagleBone Black,http://innovationsts.com/?p=4779,/u/carinmeier,1
+0,2014-05-06 12:29:26 -0500,"/t/api,/t/browsers,/t/programming",High Performance Browser Networking,http://chimera.labs.oreilly.com/books/1230000000545/index.html,/u/a4j,2
+0,2014-05-06 05:36:42 -0500,"/t/distributed,/t/networking,/t/security",An OSI layer model for the 21st century,https://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century/,/u/PiotrSikora,5
+0,2014-05-06 06:17:31 -0500,"/t/javascript,/t/web",Slush – A Better Web App Scaffolding Tool,http://flippinawesome.org/2014/05/05/slush-a-better-web-app-scaffolding-tool/,/u/remotesynth,4
+1,2014-05-05 18:53:17 -0500,"/t/person,/t/programming",Ramsey Nasser's Arabic Programming Language Artwork,http://animalnewyork.com/2014/artists-notebook-ramsey-nasser/,/u/zhemao,12
+0,2014-05-06 13:10:11 -0500,"/t/law,/t/practices,/t/vcs",Why and how we put our terms of service on github.,http://blog.vrypan.net/2014/05/05/terms-of-service-on-github/,/u/vrypan,1
+0,2014-05-06 12:38:15 -0500,/t/python,PyPy.js: Now faster than CPython,https://rfk.id.au/blog/entry/pypy-js-faster-than-cpython/,/u/kbuck,1
+0,2014-05-06 12:12:22 -0500,"/t/programming,/t/rust",Rust for C++ programmers - part 5: borrowed references,http://featherweightmusings.blogspot.co.uk/2014/05/rust-for-c-programmers-part-5-borrowed.html,/u/kbuck,1
+3,2014-05-05 11:54:41 -0500,"/t/show,/t/c,/t/security",Safe explicit_bzero/timingsafe_bcmp for Linux,https://github.com/mikejsavage/safebfuns,/u/mikejsavage,9

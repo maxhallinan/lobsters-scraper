@@ -1,25 +1,25 @@
-8,2017-03-21 11:37:51 -0500,"['/t/api', '/t/ruby']",Why we ended up not using Rails for our new JSON API,https://blog.dnsimple.com/2017/03/why-we-ended-up-not-using-rails-for-our-new-json-api,/u/jodosha,7
-0,2017-03-22 11:40:04 -0500,"['/t/linux', '/t/programming']",find-deleted: checkrestart replacement,https://blog.goeswhere.com/2017/03/find-deleted-checkrestart/,/u/Sinjo,1
-0,2017-03-22 11:37:37 -0500,"['/t/devops', '/t/practices', '/t/testing']",All fun and games until you start with GameDays,https://gocardless.com/blog/game-days-at-gc/,/u/Sinjo,1
-0,2017-03-22 10:19:38 -0500,['/t/programming'],How long does it take to make a context switch? (2013),http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html,/u/qznc,1
-0,2017-03-22 00:49:50 -0500,['/t/security'],LastPass RCE vulnerability fixed,https://bugs.chromium.org/p/project-zero/issues/detail?id=1209,/u/av,4
-0,2017-03-21 20:34:06 -0500,"['/t/freebsd', '/t/security']",The Importance of Exploit Mitigations,https://github.com/lattera/articles/blob/master/infosec/Exploit%20Mitigations/General/2017-03-21-importance/article.md,/u/lattera,3
-28,2017-03-21 01:34:17 -0500,"['/t/compsci', '/t/go']",The 1960's elegance behind go's regexp,https://docs.google.com/presentation/d/1CwgyzSoz5lVFrgTWb67_ar5kkidW2crOItBOnxRH9uI/mobilepresent?slide=id.gcb9a0b074_1_0,/u/Dawny33,14
-40,2017-03-20 09:30:30 -0500,['/t/practices'],"Dear recruiter, “open floor space” is not a job benefit",https://codewithoutrules.com/2017/03/20/open-floor-plan/,/u/itamarst,76
-1,2017-03-22 00:50:39 -0500,['/t/programming'],Paxos in 25 Lines,http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html,/u/av,2
-0,2017-03-21 11:22:43 -0500,['/t/programming'],2038: Only 21 years away,https://lwn.net/SubscriberLink/717076/4c3593aa4cad8e66/,/u/av,14
-2,2017-03-21 14:23:56 -0500,['/t/law'],Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute,https://www.nytimes.com/2017/03/16/us/oxford-comma-lawsuit.html,/u/ysth,4
-3,2017-03-21 04:15:23 -0500,['/t/job'],Fossjobs: A website exclusively for Free and Open Source jobs,https://www.fossjobs.net/,/u/av,20
-0,2017-03-22 05:07:08 -0500,['/t/go'],One Year Using Go,https://bugfender.com/one-year-using-go,/u/av,1
-4,2017-03-21 12:28:10 -0500,"['/t/practices', '/t/programming']",Almost 15 years of using Design By Contract,http://philippe.bourgau.net/almost-15-years-of-using-design-by-contract/,/u/friendlysock,5
-0,2017-03-22 00:52:15 -0500,"['/t/devops', '/t/go']",FaaS – Serverless functions framework for Docker,https://github.com/alexellis/faas,/u/av,2
-8,2017-03-21 05:35:14 -0500,['/t/vcs'],Always Start With An Empty Commit,https://bit-booster.com/doing-git-wrong/2017/01/02/git-init-empty/,/u/calvin,10
-0,2017-03-22 03:45:33 -0500,['/t/python'],Python’s Functions Are First-Class,https://dbader.org/blog/python-first-class-functions,/u/av,1
-0,2017-03-22 02:51:08 -0500,['/t/python'],Duplicate image detection with perceptual hashing in Python,http://tech.jetsetter.com/2017/03/21/duplicate-image-detection/,/u/av,1
-0,2017-03-21 22:11:58 -0500,"['/t/compilers', '/t/javascript', '/t/ml']",JSCaml: A compile-time transformation from JavaScript to OCaml,https://github.com/facebookexperimental/JSCaml,/u/rizo,2
-1,2017-03-21 13:58:45 -0500,['/t/security'],Stealing Messenger.com Login Nonces,https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/,/u/colin,5
-2,2017-03-21 16:22:55 -0500,"['/t/databases', '/t/programming']",SQL - Synchronized Query Language,https://blog.suligap.net/sql-synchronized-query-language/,/u/suligap,1
-0,2017-03-21 18:56:38 -0500,"['/t/games', '/t/historical']",Microsoft Excel: Revolutionary 3D Game Engine?,http://www.gamasutra.com/view/feature/131968/microsoft_excel_revolutionary_3d_.php,/u/lukas,3
-0,2017-03-21 18:50:38 -0500,"['/t/networking', '/t/security']",Fuzzing the OpenSSH daemon using AFL,http://vegardno.blogspot.de/2017/03/fuzzing-openssh-daemon-using-afl.html,/u/koomi,3
-0,2017-03-21 14:23:39 -0500,"['/t/openbsd', '/t/release', '/t/security', '/t/unix']","OpenSSH 7.5 released March 20, 2017",http://www.openssh.com/txt/release-7.5,/u/cnst,5
-0,2017-03-21 11:07:18 -0500,"['/t/devops', '/t/programming', '/t/release']",Heroku Automated Certificate Management,https://blog.heroku.com/announcing-automated-certificate-management,/u/dmathieu,7
+8,2017-03-21 11:37:51 -0500,"/t/api,/t/ruby",Why we ended up not using Rails for our new JSON API,https://blog.dnsimple.com/2017/03/why-we-ended-up-not-using-rails-for-our-new-json-api,/u/jodosha,7
+0,2017-03-22 11:40:04 -0500,"/t/linux,/t/programming",find-deleted: checkrestart replacement,https://blog.goeswhere.com/2017/03/find-deleted-checkrestart/,/u/Sinjo,1
+0,2017-03-22 11:37:37 -0500,"/t/devops,/t/practices,/t/testing",All fun and games until you start with GameDays,https://gocardless.com/blog/game-days-at-gc/,/u/Sinjo,1
+0,2017-03-22 10:19:38 -0500,/t/programming,How long does it take to make a context switch? (2013),http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html,/u/qznc,1
+0,2017-03-22 00:49:50 -0500,/t/security,LastPass RCE vulnerability fixed,https://bugs.chromium.org/p/project-zero/issues/detail?id=1209,/u/av,4
+0,2017-03-21 20:34:06 -0500,"/t/freebsd,/t/security",The Importance of Exploit Mitigations,https://github.com/lattera/articles/blob/master/infosec/Exploit%20Mitigations/General/2017-03-21-importance/article.md,/u/lattera,3
+28,2017-03-21 01:34:17 -0500,"/t/compsci,/t/go",The 1960's elegance behind go's regexp,https://docs.google.com/presentation/d/1CwgyzSoz5lVFrgTWb67_ar5kkidW2crOItBOnxRH9uI/mobilepresent?slide=id.gcb9a0b074_1_0,/u/Dawny33,14
+40,2017-03-20 09:30:30 -0500,/t/practices,"Dear recruiter, “open floor space” is not a job benefit",https://codewithoutrules.com/2017/03/20/open-floor-plan/,/u/itamarst,76
+1,2017-03-22 00:50:39 -0500,/t/programming,Paxos in 25 Lines,http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html,/u/av,2
+0,2017-03-21 11:22:43 -0500,/t/programming,2038: Only 21 years away,https://lwn.net/SubscriberLink/717076/4c3593aa4cad8e66/,/u/av,14
+2,2017-03-21 14:23:56 -0500,/t/law,Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute,https://www.nytimes.com/2017/03/16/us/oxford-comma-lawsuit.html,/u/ysth,4
+3,2017-03-21 04:15:23 -0500,/t/job,Fossjobs: A website exclusively for Free and Open Source jobs,https://www.fossjobs.net/,/u/av,20
+0,2017-03-22 05:07:08 -0500,/t/go,One Year Using Go,https://bugfender.com/one-year-using-go,/u/av,1
+4,2017-03-21 12:28:10 -0500,"/t/practices,/t/programming",Almost 15 years of using Design By Contract,http://philippe.bourgau.net/almost-15-years-of-using-design-by-contract/,/u/friendlysock,5
+0,2017-03-22 00:52:15 -0500,"/t/devops,/t/go",FaaS – Serverless functions framework for Docker,https://github.com/alexellis/faas,/u/av,2
+8,2017-03-21 05:35:14 -0500,/t/vcs,Always Start With An Empty Commit,https://bit-booster.com/doing-git-wrong/2017/01/02/git-init-empty/,/u/calvin,10
+0,2017-03-22 03:45:33 -0500,/t/python,Python’s Functions Are First-Class,https://dbader.org/blog/python-first-class-functions,/u/av,1
+0,2017-03-22 02:51:08 -0500,/t/python,Duplicate image detection with perceptual hashing in Python,http://tech.jetsetter.com/2017/03/21/duplicate-image-detection/,/u/av,1
+0,2017-03-21 22:11:58 -0500,"/t/compilers,/t/javascript,/t/ml",JSCaml: A compile-time transformation from JavaScript to OCaml,https://github.com/facebookexperimental/JSCaml,/u/rizo,2
+1,2017-03-21 13:58:45 -0500,/t/security,Stealing Messenger.com Login Nonces,https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/,/u/colin,5
+2,2017-03-21 16:22:55 -0500,"/t/databases,/t/programming",SQL - Synchronized Query Language,https://blog.suligap.net/sql-synchronized-query-language/,/u/suligap,1
+0,2017-03-21 18:56:38 -0500,"/t/games,/t/historical",Microsoft Excel: Revolutionary 3D Game Engine?,http://www.gamasutra.com/view/feature/131968/microsoft_excel_revolutionary_3d_.php,/u/lukas,3
+0,2017-03-21 18:50:38 -0500,"/t/networking,/t/security",Fuzzing the OpenSSH daemon using AFL,http://vegardno.blogspot.de/2017/03/fuzzing-openssh-daemon-using-afl.html,/u/koomi,3
+0,2017-03-21 14:23:39 -0500,"/t/openbsd,/t/release,/t/security,/t/unix","OpenSSH 7.5 released March 20, 2017",http://www.openssh.com/txt/release-7.5,/u/cnst,5
+0,2017-03-21 11:07:18 -0500,"/t/devops,/t/programming,/t/release",Heroku Automated Certificate Management,https://blog.heroku.com/announcing-automated-certificate-management,/u/dmathieu,7

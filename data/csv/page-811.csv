@@ -1,25 +1,25 @@
-0,2016-04-17 07:19:53 -0500,"['/t/crypto', '/t/security']",Cryptosense Discovery,https://discovery.cryptosense.com,/u/mulander,3
-6,2016-04-16 13:34:21 -0500,"['/t/api', '/t/unix']",Unix's file durability problem,https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem,/u/pushcx,12
-1,2016-04-16 21:46:17 -0500,"['/t/haskell', '/t/web']",tee-io Lessons Learned,https://pbrisbin.com/posts/tee-io_lessons_learned/,/u/pushcx,7
-5,2016-04-16 09:43:23 -0500,['/t/web'],Get weather information on a terminal using nothing but curl,http://www.webupd8.org/2016/04/get-weather-information-from-terminal.html,/u/voidzero,18
-3,2016-04-16 05:21:42 -0500,['/t/programming'],It's Just Bits,http://blog.appliedcompscilab.com/its_just_bits/index.html,/u/apy,34
-0,2016-04-16 19:51:35 -0500,"['/t/haskell', '/t/web']",Basic HTTP auth with Scotty,https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth,/u/asthasr,8
-2,2016-04-16 09:52:56 -0500,"['/t/pdf', '/t/practices']",The Cuneiform Tablets of 2015,http://www.vpri.org/pdf/tr2015004_cuneiform.pdf,/u/pushcx,15
-0,2016-04-16 22:06:53 -0500,"['/t/video', '/t/math', '/t/programming']",Hello World - Machine Learning Recipes #1 - Series by Google,https://www.youtube.com/watch?v=cKxRvEZd3Mw,/u/av,4
-3,2016-04-16 14:28:21 -0500,"['/t/programming', '/t/python']",A simple joke bot in Python,http://jugad2.blogspot.com/2016/04/a-simple-joke-bot-in-python.html,/u/vasudevram,2
-0,2016-04-16 23:07:31 -0500,"['/t/video', '/t/compsci', '/t/dotnet']",Dr Frankenfunctor and the Monadster,https://vimeo.com/162054542,/u/pushcx,2
-1,2016-04-16 04:56:40 -0500,['/t/historical'],Birthplace of UTF-8,https://www.flickr.com/photos/ajstarks/sets/72157631470798870,/u/rbn,16
-0,2016-04-16 05:10:03 -0500,['/t/devops'],Contaminate AWS instances on ssh login,http://www.unixdaemon.net/cloud/contaminate-aws-instance-on-login/,/u/fkr,16
-1,2016-04-16 01:56:09 -0500,"['/t/openbsd', '/t/practices', '/t/security']",The insecurity of OpenBSD [2010],https://allthatiswrong.wordpress.com/2010/01/20/the-insecurity-of-openbsd/,/u/friendlysock,10
-0,2016-04-16 03:50:00 -0500,['/t/person'],Computer industry luminaries salute Dave Cutler’s five-decade-long quest for quality,http://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/,/u/apy,10
-5,2016-04-15 17:51:39 -0500,['/t/science'],Using a Dyson hand dryer is like setting off a viral bomb in a bathroom,http://arstechnica.com/science/2016/04/dyson-dryers-hurl-60x-more-viruses-most-at-kid-face-height-than-other-dryers/,/u/tedu,19
-0,2016-04-16 13:52:49 -0500,"['/t/databases', '/t/release']",Datazenit Desktop Edition Released,https://datazenit.com/blog/2016/04/15/datazenit-desktop-edition/,/u/lauris,1
-6,2016-04-15 10:02:26 -0500,"['/t/privacy', '/t/security']",Gone In Six Characters: Short URLs Considered Harmful for Cloud Services,https://freedom-to-tinker.com/blog/vitaly/gone-in-six-characters-short-urls-considered-harmful-for-cloud-services/,/u/pushcx,27
-0,2016-04-16 05:00:42 -0500,['/t/java'],Java Annotated Monthly – April 2016,http://blog.jetbrains.com/idea/2016/04/java-annotated-monthly-april-2016/,/u/fkr,5
-0,2016-04-16 15:22:14 -0500,"['/t/linux', '/t/networking']",Network namespaces,http://blogs.igalia.com/dpino/2016/04/10/network-namespaces/,/u/jitterted,1
-0,2016-04-16 02:00:54 -0500,['/t/rust'],Neat Proof-of-Concept: Windows Kernel-mode drivers written in Rust,http://www.osnews.com/story/29171/Windows_Kernel-mode_drivers_written_in_Rust,/u/fkr,7
-5,2016-04-15 10:29:09 -0500,['/t/games'],The Doom Movement Bible,https://www.doomworld.com/vb/doom-general/87199-the-doom-movement-bible/,/u/pushcx,23
-1,2016-04-15 19:59:29 -0500,"['/t/pdf', '/t/cogsci', '/t/programming']",Studying the Language and Structure in Non-Programmers’ Solutions to Programming Problems,http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf,/u/pushcx,8
-2,2016-04-15 11:45:50 -0500,"['/t/book', '/t/unix']",Learn how to write man pages for UNIX,http://manpages.bsd.lv/,/u/vfoley,21
-7,2016-04-15 08:15:36 -0500,"['/t/dotnet', '/t/haskell', '/t/python']",Why learning Haskell/Python makes you a worse programmer (2006),http://lukeplant.me.uk/blog/posts/why-learning-haskell-python-makes-you-a-worse-programmer/,/u/pushcx,15
-0,2016-04-15 21:55:35 -0500,"['/t/games', '/t/historical']",1995 Programming on the Sega Saturn (2010),http://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/,/u/pushcx,5
+0,2016-04-17 07:19:53 -0500,"/t/crypto,/t/security",Cryptosense Discovery,https://discovery.cryptosense.com,/u/mulander,3
+6,2016-04-16 13:34:21 -0500,"/t/api,/t/unix",Unix's file durability problem,https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem,/u/pushcx,12
+1,2016-04-16 21:46:17 -0500,"/t/haskell,/t/web",tee-io Lessons Learned,https://pbrisbin.com/posts/tee-io_lessons_learned/,/u/pushcx,7
+5,2016-04-16 09:43:23 -0500,/t/web,Get weather information on a terminal using nothing but curl,http://www.webupd8.org/2016/04/get-weather-information-from-terminal.html,/u/voidzero,18
+3,2016-04-16 05:21:42 -0500,/t/programming,It's Just Bits,http://blog.appliedcompscilab.com/its_just_bits/index.html,/u/apy,34
+0,2016-04-16 19:51:35 -0500,"/t/haskell,/t/web",Basic HTTP auth with Scotty,https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth,/u/asthasr,8
+2,2016-04-16 09:52:56 -0500,"/t/pdf,/t/practices",The Cuneiform Tablets of 2015,http://www.vpri.org/pdf/tr2015004_cuneiform.pdf,/u/pushcx,15
+0,2016-04-16 22:06:53 -0500,"/t/video,/t/math,/t/programming",Hello World - Machine Learning Recipes #1 - Series by Google,https://www.youtube.com/watch?v=cKxRvEZd3Mw,/u/av,4
+3,2016-04-16 14:28:21 -0500,"/t/programming,/t/python",A simple joke bot in Python,http://jugad2.blogspot.com/2016/04/a-simple-joke-bot-in-python.html,/u/vasudevram,2
+0,2016-04-16 23:07:31 -0500,"/t/video,/t/compsci,/t/dotnet",Dr Frankenfunctor and the Monadster,https://vimeo.com/162054542,/u/pushcx,2
+1,2016-04-16 04:56:40 -0500,/t/historical,Birthplace of UTF-8,https://www.flickr.com/photos/ajstarks/sets/72157631470798870,/u/rbn,16
+0,2016-04-16 05:10:03 -0500,/t/devops,Contaminate AWS instances on ssh login,http://www.unixdaemon.net/cloud/contaminate-aws-instance-on-login/,/u/fkr,16
+1,2016-04-16 01:56:09 -0500,"/t/openbsd,/t/practices,/t/security",The insecurity of OpenBSD [2010],https://allthatiswrong.wordpress.com/2010/01/20/the-insecurity-of-openbsd/,/u/friendlysock,10
+0,2016-04-16 03:50:00 -0500,/t/person,Computer industry luminaries salute Dave Cutler’s five-decade-long quest for quality,http://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/,/u/apy,10
+5,2016-04-15 17:51:39 -0500,/t/science,Using a Dyson hand dryer is like setting off a viral bomb in a bathroom,http://arstechnica.com/science/2016/04/dyson-dryers-hurl-60x-more-viruses-most-at-kid-face-height-than-other-dryers/,/u/tedu,19
+0,2016-04-16 13:52:49 -0500,"/t/databases,/t/release",Datazenit Desktop Edition Released,https://datazenit.com/blog/2016/04/15/datazenit-desktop-edition/,/u/lauris,1
+6,2016-04-15 10:02:26 -0500,"/t/privacy,/t/security",Gone In Six Characters: Short URLs Considered Harmful for Cloud Services,https://freedom-to-tinker.com/blog/vitaly/gone-in-six-characters-short-urls-considered-harmful-for-cloud-services/,/u/pushcx,27
+0,2016-04-16 05:00:42 -0500,/t/java,Java Annotated Monthly – April 2016,http://blog.jetbrains.com/idea/2016/04/java-annotated-monthly-april-2016/,/u/fkr,5
+0,2016-04-16 15:22:14 -0500,"/t/linux,/t/networking",Network namespaces,http://blogs.igalia.com/dpino/2016/04/10/network-namespaces/,/u/jitterted,1
+0,2016-04-16 02:00:54 -0500,/t/rust,Neat Proof-of-Concept: Windows Kernel-mode drivers written in Rust,http://www.osnews.com/story/29171/Windows_Kernel-mode_drivers_written_in_Rust,/u/fkr,7
+5,2016-04-15 10:29:09 -0500,/t/games,The Doom Movement Bible,https://www.doomworld.com/vb/doom-general/87199-the-doom-movement-bible/,/u/pushcx,23
+1,2016-04-15 19:59:29 -0500,"/t/pdf,/t/cogsci,/t/programming",Studying the Language and Structure in Non-Programmers’ Solutions to Programming Problems,http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf,/u/pushcx,8
+2,2016-04-15 11:45:50 -0500,"/t/book,/t/unix",Learn how to write man pages for UNIX,http://manpages.bsd.lv/,/u/vfoley,21
+7,2016-04-15 08:15:36 -0500,"/t/dotnet,/t/haskell,/t/python",Why learning Haskell/Python makes you a worse programmer (2006),http://lukeplant.me.uk/blog/posts/why-learning-haskell-python-makes-you-a-worse-programmer/,/u/pushcx,15
+0,2016-04-15 21:55:35 -0500,"/t/games,/t/historical",1995 Programming on the Sega Saturn (2010),http://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/,/u/pushcx,5

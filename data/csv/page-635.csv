@@ -1,25 +1,25 @@
-0,2016-10-12 16:47:57 -0500,['/t/networking'],The Surprising Backbone of the Internet of Things,https://backchannel.com/the-surprising-backbone-of-the-internet-of-things-4330301084b0,/u/andrewfromx,3
-8,2016-10-12 01:22:02 -0500,"['/t/devops', '/t/erlang', '/t/practices']",Erlang tips: remote module loading,https://newoldstuff.wordpress.com/2009/05/26/erlang-tips-remote-module-loading/,/u/friendlysock,8
-0,2016-10-12 07:08:52 -0500,"['/t/c', '/t/openbsd', '/t/programming']",process listing consistency,http://www.tedunangst.com/flak/post/process-listing-consistency,/u/mulander,8
-0,2016-10-12 11:23:22 -0500,"['/t/video', '/t/programming']",What did AlphaGo do to beat the strongest human Go player?,https://pragtob.wordpress.com/2016/09/15/video-what-did-alphago-do-to-beat-the-strongest-human-go-player/,/u/PragTob,2
-15,2016-10-11 10:39:46 -0500,['/t/javascript'],Yarn: A new package manager for JavaScript,https://code.facebook.com/posts/1840075619545360,/u/joshuacc,33
-33,2016-10-11 07:05:16 -0500,['/t/practices'],Developer hiring and the market for lemons,http://danluu.com/hiring-lemons/,/u/pushcx,42
-0,2016-10-12 11:29:39 -0500,['/t/practices'],Quitting to Get Ahead,https://blog.techmasters.chat/quitting-to-get-ahead-32e48696f55b,/u/Don_Pellegrino,3
-0,2016-10-12 12:15:17 -0500,['/t/python'],PyCharm Settings Repository,http://amir.rachum.com/blog/2016/10/12/pycharm-settings-repository/,/u/AmirRachum,1
-7,2016-10-11 12:37:22 -0500,"['/t/practices', '/t/security', '/t/web']",Observatory by Mozilla,https://observatory.mozilla.org/,/u/flyingfisch,29
-0,2016-10-11 14:39:10 -0500,['/t/mac'],Poll on MacOS 10.12 is Broken,https://daniel.haxx.se/blog/2016/10/11/poll-on-mac-10-12-is-broken/,/u/dwc,27
-1,2016-10-11 22:28:51 -0500,"['/t/math', '/t/programming']",Undefined Behavior: Not Just for Programming Languages,http://blog.regehr.org/archives/1438,/u/tedu,9
-0,2016-10-12 11:01:53 -0500,"['/t/practices', '/t/web']","Usability Testing of Inline Form Validation: 40% Don't Have It, 20% Get It Wrong",http://baymard.com/blog/inline-form-validation,/u/flyingfisch,2
-0,2016-10-11 13:11:51 -0500,"['/t/compilers', '/t/databases']",A practical relational query compiler in 500 lines of code,http://scattered-thoughts.net/blog/2016/10/11/a-practical-relational-query-compiler-in-500-lines/,/u/jamii,14
-0,2016-10-12 07:34:19 -0500,['/t/virtualization'],Much Ado About Type-2 (2010),https://microkerneldude.wordpress.com/2010/10/14/much-ado-about-type-2/,/u/calvin,2
-1,2016-10-12 11:05:17 -0500,['/t/css'],Intent to Implement and Ship: The “system-ui” generic font family,https://groups.google.com/a/chromium.org/forum/,/u/flyingfisch,1
-1,2016-10-11 22:44:08 -0500,"['/t/linux', '/t/programming']",Transient Global Environments with NixOS,http://anderspapitto.com/posts/2016-10-04-transient-global-environments-the-third-path.html,/u/anders,2
-1,2016-10-11 11:58:33 -0500,"['/t/crypto', '/t/security']",NSA could put undetectable “trapdoors” in millions of crypto keys,http://arstechnica.com/security/2016/10/how-the-nsa-could-put-undetectable-trapdoors-in-millions-of-crypto-keys/,/u/calvin,15
-2,2016-10-11 13:58:25 -0500,"['/t/api', '/t/networking']",Reversing the Smarter Coffee IoT Machine Protocol to Make Coffee Using the Terminal.,https://www.evilsocket.net/2016/10/09/IoCOFFEE-Reversing-the-Smarter-Coffee-IoT-machine-protocol-to-make-coffee-using-terminal/#.V_pNbpzrDZ8.reddit,/u/atti1a,10
-0,2016-10-11 15:46:37 -0500,"['/t/privacy', '/t/release']",Disappearing messages for Signal,https://www.whispersystems.org/blog/disappearing-messages/,/u/jabberwock,11
-16,2016-10-10 23:52:29 -0500,['/t/ios'],Apple Responds to Dash Controversy,http://daringfireball.net/2016/10/apple_dash_controversy,/u/tedu,30
-1,2016-10-11 10:59:51 -0500,['/t/javascript'],Why I'm Working on Yarn,http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/,/u/brinker,18
-1,2016-10-12 06:04:18 -0500,"['/t/culture', '/t/practices', '/t/rant']",Fuck You Startup World,https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e,/u/mulander,7
-0,2016-10-11 18:31:44 -0500,"['/t/linux', '/t/perl', '/t/vcs']",Poking around /usr/lib/git-core,http://kamalmarhubi.com/blog/2016/10/07/git-core/,/u/kartik,6
-15,2016-10-10 21:56:30 -0500,"['/t/practices', '/t/programming']",Descriptive Variable Names: A Code Smell,http://degoes.net/articles/insufficiently-polymorphic,/u/jdegoes,16
-0,2016-10-11 12:59:00 -0500,['/t/programming'],"Elixir and Unicode, Part 1: Unicode and UTF-8 Explained",https://www.bignerdranch.com/blog/unicode-and-utf-8-explained/,/u/thmzlt,11
+0,2016-10-12 16:47:57 -0500,/t/networking,The Surprising Backbone of the Internet of Things,https://backchannel.com/the-surprising-backbone-of-the-internet-of-things-4330301084b0,/u/andrewfromx,3
+8,2016-10-12 01:22:02 -0500,"/t/devops,/t/erlang,/t/practices",Erlang tips: remote module loading,https://newoldstuff.wordpress.com/2009/05/26/erlang-tips-remote-module-loading/,/u/friendlysock,8
+0,2016-10-12 07:08:52 -0500,"/t/c,/t/openbsd,/t/programming",process listing consistency,http://www.tedunangst.com/flak/post/process-listing-consistency,/u/mulander,8
+0,2016-10-12 11:23:22 -0500,"/t/video,/t/programming",What did AlphaGo do to beat the strongest human Go player?,https://pragtob.wordpress.com/2016/09/15/video-what-did-alphago-do-to-beat-the-strongest-human-go-player/,/u/PragTob,2
+15,2016-10-11 10:39:46 -0500,/t/javascript,Yarn: A new package manager for JavaScript,https://code.facebook.com/posts/1840075619545360,/u/joshuacc,33
+33,2016-10-11 07:05:16 -0500,/t/practices,Developer hiring and the market for lemons,http://danluu.com/hiring-lemons/,/u/pushcx,42
+0,2016-10-12 11:29:39 -0500,/t/practices,Quitting to Get Ahead,https://blog.techmasters.chat/quitting-to-get-ahead-32e48696f55b,/u/Don_Pellegrino,3
+0,2016-10-12 12:15:17 -0500,/t/python,PyCharm Settings Repository,http://amir.rachum.com/blog/2016/10/12/pycharm-settings-repository/,/u/AmirRachum,1
+7,2016-10-11 12:37:22 -0500,"/t/practices,/t/security,/t/web",Observatory by Mozilla,https://observatory.mozilla.org/,/u/flyingfisch,29
+0,2016-10-11 14:39:10 -0500,/t/mac,Poll on MacOS 10.12 is Broken,https://daniel.haxx.se/blog/2016/10/11/poll-on-mac-10-12-is-broken/,/u/dwc,27
+1,2016-10-11 22:28:51 -0500,"/t/math,/t/programming",Undefined Behavior: Not Just for Programming Languages,http://blog.regehr.org/archives/1438,/u/tedu,9
+0,2016-10-12 11:01:53 -0500,"/t/practices,/t/web","Usability Testing of Inline Form Validation: 40% Don't Have It, 20% Get It Wrong",http://baymard.com/blog/inline-form-validation,/u/flyingfisch,2
+0,2016-10-11 13:11:51 -0500,"/t/compilers,/t/databases",A practical relational query compiler in 500 lines of code,http://scattered-thoughts.net/blog/2016/10/11/a-practical-relational-query-compiler-in-500-lines/,/u/jamii,14
+0,2016-10-12 07:34:19 -0500,/t/virtualization,Much Ado About Type-2 (2010),https://microkerneldude.wordpress.com/2010/10/14/much-ado-about-type-2/,/u/calvin,2
+1,2016-10-12 11:05:17 -0500,/t/css,Intent to Implement and Ship: The “system-ui” generic font family,https://groups.google.com/a/chromium.org/forum/,/u/flyingfisch,1
+1,2016-10-11 22:44:08 -0500,"/t/linux,/t/programming",Transient Global Environments with NixOS,http://anderspapitto.com/posts/2016-10-04-transient-global-environments-the-third-path.html,/u/anders,2
+1,2016-10-11 11:58:33 -0500,"/t/crypto,/t/security",NSA could put undetectable “trapdoors” in millions of crypto keys,http://arstechnica.com/security/2016/10/how-the-nsa-could-put-undetectable-trapdoors-in-millions-of-crypto-keys/,/u/calvin,15
+2,2016-10-11 13:58:25 -0500,"/t/api,/t/networking",Reversing the Smarter Coffee IoT Machine Protocol to Make Coffee Using the Terminal.,https://www.evilsocket.net/2016/10/09/IoCOFFEE-Reversing-the-Smarter-Coffee-IoT-machine-protocol-to-make-coffee-using-terminal/#.V_pNbpzrDZ8.reddit,/u/atti1a,10
+0,2016-10-11 15:46:37 -0500,"/t/privacy,/t/release",Disappearing messages for Signal,https://www.whispersystems.org/blog/disappearing-messages/,/u/jabberwock,11
+16,2016-10-10 23:52:29 -0500,/t/ios,Apple Responds to Dash Controversy,http://daringfireball.net/2016/10/apple_dash_controversy,/u/tedu,30
+1,2016-10-11 10:59:51 -0500,/t/javascript,Why I'm Working on Yarn,http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/,/u/brinker,18
+1,2016-10-12 06:04:18 -0500,"/t/culture,/t/practices,/t/rant",Fuck You Startup World,https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e,/u/mulander,7
+0,2016-10-11 18:31:44 -0500,"/t/linux,/t/perl,/t/vcs",Poking around /usr/lib/git-core,http://kamalmarhubi.com/blog/2016/10/07/git-core/,/u/kartik,6
+15,2016-10-10 21:56:30 -0500,"/t/practices,/t/programming",Descriptive Variable Names: A Code Smell,http://degoes.net/articles/insufficiently-polymorphic,/u/jdegoes,16
+0,2016-10-11 12:59:00 -0500,/t/programming,"Elixir and Unicode, Part 1: Unicode and UTF-8 Explained",https://www.bignerdranch.com/blog/unicode-and-utf-8-explained/,/u/thmzlt,11

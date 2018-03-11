@@ -1,25 +1,25 @@
-0,2016-02-04 18:57:13 -0600,['/t/visualization'],A map of Twitter links,https://www.hella.cheap/map-of-twitter.html,/u/bobpoekert,4
-1,2016-02-05 04:02:35 -0600,['/t/culture'],The Australian Startup Scene,http://glenngillen.com/thoughts/australian-startup-ecosystem,/u/glenngillen,1
-0,2016-02-05 12:19:14 -0600,"['/t/culture', '/t/design']",Designer Monoculture,http://theindustry.cc/2016/02/04/designer-monoculture/,/u/flyingfisch,1
-0,2016-02-05 06:19:15 -0600,"['/t/practices', '/t/programming']",Development Disappointment Disorder,http://deliberate-software.com/development-disappointment-disorder/,/u/steveshogren,0
-7,2016-02-04 05:08:14 -0600,['/t/rust'],Allowing Matlab to Talk to Rust,http://smitec.io/2016/02/04/allowing-matlab-to-talk-to-rust.html,/u/smitec,6
-0,2016-02-04 14:29:20 -0600,['/t/testing'],Lorem Gibson,http://loremgibson.com/,/u/james,7
-1,2016-02-04 13:41:54 -0600,['/t/historical'],A literary appreciation of the Olson/Zoneinfo/tz database (2009),http://blog.jonudell.net/2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/,/u/curtis,6
-0,2016-02-05 02:11:29 -0600,"['/t/graphics', '/t/security']",Barcode recovery using a priori constraints,http://www.windytan.com/2016/02/barcode-recovery-using-priori.html,/u/rbn,1
-6,2016-02-04 10:48:04 -0600,"['/t/ask', '/t/practices']",Remote Desktop For Day to Day Work?,/s/kbecjn/remote_desktop_for_day_day_work,/u/james,4
-5,2016-02-04 08:02:12 -0600,['/t/mobile'],Firefox OS/Connected Devices Announcement,https://discourse.mozilla-community.org/t/firefox-os-connected-devices-announcement/6864,/u/pushcx,5
-3,2016-02-04 12:12:48 -0600,"['/t/culture', '/t/philosophy', '/t/programming', '/t/unix', '/t/vim']",an opinionated article on why i use an editor from the 1990's,http://blog.xero.nu/vim,/u/xero,3
-1,2016-02-04 20:07:55 -0600,"['/t/compsci', '/t/distributed']","Write Fast, Read in the Past: Causal Consistency for Client-Side Applications",https://pages.lip6.fr/Marek.Zawirski/papers/SwiftCloud-middleware2015.pdf,/u/jitterted,1
-0,2016-02-04 12:57:05 -0600,"['/t/databases', '/t/rust']","Rust, BigData and my laptop",http://www.poumeyrol.fr/2016/01/15/Awkward-zone/,/u/tf,5
-0,2016-02-04 14:26:45 -0600,['/t/practices'],How to Open Source at Zalando,https://github.com/zalando/zalando-howto-open-source/blob/master/README.md,/u/jan,4
-0,2016-02-04 23:04:14 -0600,"['/t/video', '/t/security']","Google DC Talks: ""Developing a Natl Cybersecurity Strategy""[2009]",https://www.youtube.com/watch?v=vN0Ca_lFfno,/u/pokoleo,1
-0,2016-02-04 15:53:23 -0600,['/t/android'],Google removes Samsung's first Android ad blocker from the Play Store,http://www.theverge.com/2016/2/3/10905672/google-samsung-adblock-fast-android-ad-blocker-removal,/u/jcs,3
-6,2016-02-04 13:43:16 -0600,['/t/ruby'],Factories,http://designisrefactoring.com/2016/02/03/factories/,/u/pushcx,2
-0,2016-02-04 10:13:41 -0600,"['/t/javascript', '/t/web']",Understanding JavaScript's async await,https://ponyfoo.com/articles/understanding-javascript-async-await,/u/ponyfoo,3
-4,2016-02-03 16:19:40 -0600,['/t/devops'],GitHub: January 28th Incident Report,https://github.com/blog/2106-january-28th-incident-report,/u/zg,25
-0,2016-02-04 14:01:54 -0600,"['/t/javascript', '/t/web']",CMS.js - Jekyll-style static CMS,http://cdmedia.github.io/cms.js/,/u/flyingfisch,2
-18,2016-02-03 13:10:02 -0600,['/t/design'],Is this the perfect save icon?,https://medium.com/@etchuk/is-this-the-perfect-save-icon-9651129bda85,/u/flyingfisch,17
-0,2016-02-04 12:19:52 -0600,['/t/design'],A Practical Guide To Invisible Design,http://www.fastcodesign.com/3056290/a-practical-guide-to-invisible-design,/u/flyingfisch,2
-1,2016-02-04 01:18:46 -0600,['/t/science'],Destroying worn-out cells makes mice live longer,http://www.nature.com/news/destroying-worn-out-cells-makes-mice-live-longer-1.19287,/u/sanxiyn,6
-18,2016-02-03 11:28:39 -0600,"['/t/practices', '/t/release']",Matt Swanson - Internal tools should be sold or killed,http://mdswanson.com/blog/2016/01/25/sell-or-kill.html,/u/355E3B,16
-0,2016-02-04 14:05:29 -0600,['/t/javascript'],jroff: a man page parser written in javascript,https://github.com/roperzh/jroff,/u/flyingfisch,1
+0,2016-02-04 18:57:13 -0600,/t/visualization,A map of Twitter links,https://www.hella.cheap/map-of-twitter.html,/u/bobpoekert,4
+1,2016-02-05 04:02:35 -0600,/t/culture,The Australian Startup Scene,http://glenngillen.com/thoughts/australian-startup-ecosystem,/u/glenngillen,1
+0,2016-02-05 12:19:14 -0600,"/t/culture,/t/design",Designer Monoculture,http://theindustry.cc/2016/02/04/designer-monoculture/,/u/flyingfisch,1
+0,2016-02-05 06:19:15 -0600,"/t/practices,/t/programming",Development Disappointment Disorder,http://deliberate-software.com/development-disappointment-disorder/,/u/steveshogren,0
+7,2016-02-04 05:08:14 -0600,/t/rust,Allowing Matlab to Talk to Rust,http://smitec.io/2016/02/04/allowing-matlab-to-talk-to-rust.html,/u/smitec,6
+0,2016-02-04 14:29:20 -0600,/t/testing,Lorem Gibson,http://loremgibson.com/,/u/james,7
+1,2016-02-04 13:41:54 -0600,/t/historical,A literary appreciation of the Olson/Zoneinfo/tz database (2009),http://blog.jonudell.net/2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/,/u/curtis,6
+0,2016-02-05 02:11:29 -0600,"/t/graphics,/t/security",Barcode recovery using a priori constraints,http://www.windytan.com/2016/02/barcode-recovery-using-priori.html,/u/rbn,1
+6,2016-02-04 10:48:04 -0600,"/t/ask,/t/practices",Remote Desktop For Day to Day Work?,/s/kbecjn/remote_desktop_for_day_day_work,/u/james,4
+5,2016-02-04 08:02:12 -0600,/t/mobile,Firefox OS/Connected Devices Announcement,https://discourse.mozilla-community.org/t/firefox-os-connected-devices-announcement/6864,/u/pushcx,5
+3,2016-02-04 12:12:48 -0600,"/t/culture,/t/philosophy,/t/programming,/t/unix,/t/vim",an opinionated article on why i use an editor from the 1990's,http://blog.xero.nu/vim,/u/xero,3
+1,2016-02-04 20:07:55 -0600,"/t/compsci,/t/distributed","Write Fast, Read in the Past: Causal Consistency for Client-Side Applications",https://pages.lip6.fr/Marek.Zawirski/papers/SwiftCloud-middleware2015.pdf,/u/jitterted,1
+0,2016-02-04 12:57:05 -0600,"/t/databases,/t/rust","Rust, BigData and my laptop",http://www.poumeyrol.fr/2016/01/15/Awkward-zone/,/u/tf,5
+0,2016-02-04 14:26:45 -0600,/t/practices,How to Open Source at Zalando,https://github.com/zalando/zalando-howto-open-source/blob/master/README.md,/u/jan,4
+0,2016-02-04 23:04:14 -0600,"/t/video,/t/security","Google DC Talks: ""Developing a Natl Cybersecurity Strategy""[2009]",https://www.youtube.com/watch?v=vN0Ca_lFfno,/u/pokoleo,1
+0,2016-02-04 15:53:23 -0600,/t/android,Google removes Samsung's first Android ad blocker from the Play Store,http://www.theverge.com/2016/2/3/10905672/google-samsung-adblock-fast-android-ad-blocker-removal,/u/jcs,3
+6,2016-02-04 13:43:16 -0600,/t/ruby,Factories,http://designisrefactoring.com/2016/02/03/factories/,/u/pushcx,2
+0,2016-02-04 10:13:41 -0600,"/t/javascript,/t/web",Understanding JavaScript's async await,https://ponyfoo.com/articles/understanding-javascript-async-await,/u/ponyfoo,3
+4,2016-02-03 16:19:40 -0600,/t/devops,GitHub: January 28th Incident Report,https://github.com/blog/2106-january-28th-incident-report,/u/zg,25
+0,2016-02-04 14:01:54 -0600,"/t/javascript,/t/web",CMS.js - Jekyll-style static CMS,http://cdmedia.github.io/cms.js/,/u/flyingfisch,2
+18,2016-02-03 13:10:02 -0600,/t/design,Is this the perfect save icon?,https://medium.com/@etchuk/is-this-the-perfect-save-icon-9651129bda85,/u/flyingfisch,17
+0,2016-02-04 12:19:52 -0600,/t/design,A Practical Guide To Invisible Design,http://www.fastcodesign.com/3056290/a-practical-guide-to-invisible-design,/u/flyingfisch,2
+1,2016-02-04 01:18:46 -0600,/t/science,Destroying worn-out cells makes mice live longer,http://www.nature.com/news/destroying-worn-out-cells-makes-mice-live-longer-1.19287,/u/sanxiyn,6
+18,2016-02-03 11:28:39 -0600,"/t/practices,/t/release",Matt Swanson - Internal tools should be sold or killed,http://mdswanson.com/blog/2016/01/25/sell-or-kill.html,/u/355E3B,16
+0,2016-02-04 14:05:29 -0600,/t/javascript,jroff: a man page parser written in javascript,https://github.com/roperzh/jroff,/u/flyingfisch,1

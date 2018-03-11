@@ -1,25 +1,25 @@
-0,2014-05-20 07:44:44 -0500,"['/t/assembly', '/t/person']",Code written by Apple co-founder Steve Woz decades ago,http://mailp.in/Y6WE2w8v/,/u/Ecto5,1
-0,2014-05-20 07:42:07 -0500,"['/t/games', '/t/programming']",Component Based Engine Design [2013],http://www.randygaul.net/2013/05/20/component-based-engine-design/,/u/lm,1
-0,2014-05-20 07:25:17 -0500,"['/t/ios', '/t/mobile']",vpdn/MMLayershots · GitHub,https://github.com/vpdn/MMLayershots,/u/Ecto5,1
-11,2014-05-19 18:15:22 -0500,['/t/meta'],"Add ""History"" tag?",/s/0kamsr/add_history_tag,/u/mikemccracken,12
-0,2014-05-20 06:28:29 -0500,"['/t/javascript', '/t/web']",Convention Based Routing In JavaScript Apps,http://flippinawesome.org/2014/05/19/convention-based-routing-in-javascript-apps/,/u/remotesynth,1
-0,2014-05-19 17:05:07 -0500,"['/t/pdf', '/t/databases', '/t/distributed']",Highly Available Transactions: Virtues and Limitations,http://www.bailis.org/papers/hat-vldb2014.pdf,/u/SeanTAllen,6
-0,2014-05-19 06:17:42 -0500,"['/t/c', '/t/go', '/t/programming']",From C to Go - Russ Cox - GopherCon 2014,http://confreaks.com/videos/3432-gophercon2014-go-from-c-to-go,/u/cmacrae,16
-22,2014-05-18 16:37:06 -0500,"['/t/databases', '/t/programming']",ORM is an anti-pattern,http://seldo.com/weblog/2011/08/11/orm_is_an_antipattern,/u/mattk,35
-0,2014-05-20 09:04:48 -0500,"['/t/javascript', '/t/web']",My Top 5 (9?) Favorite HTML5 APIs,http://www.joezimjs.com/javascript/top-5-9-favorite-html5-apis/,/u/joezimjs,0
-1,2014-05-19 11:28:05 -0500,"['/t/lisp', '/t/mobile']",Talking with Mikel Evins about the Lisp-based Newton OS from Apple,http://lispm.de/lisp-based-newton-os,/u/robey,6
-2,2014-05-19 11:58:06 -0500,['/t/web'],"Honeybadger, a Chrome extension for honeybadgers",http://gethoneybadger.com,/u/jameslee,5
-0,2014-05-19 13:48:48 -0500,"['/t/devops', '/t/linux']",Zero Downtime Frontend Deploys with Vulcand on CoreOS,https://coreos.com/blog/zero-downtime-frontend-deploys-vulcand/,/u/Ecto5,4
-0,2014-05-20 03:44:25 -0500,['/t/culture'],Web Heroes,http://blog.higg.im/2014/05/20/web-heroes/,/u/dh,1
-0,2014-05-19 09:05:04 -0500,"['/t/video', '/t/games', '/t/lisp']",Game development in Clojure (with play-clj),https://www.youtube.com/watch?v=9ilUe7Re-RA,/u/julienXX,5
-0,2014-05-19 11:43:17 -0500,"['/t/pdf', '/t/security']",The pre-play vulnerability in Chip and PIN,http://www.lightbluetouchpaper.org/2014/05/19/the-pre-play-vulnerability-in-chip-and-pin/,/u/kyle,2
-2,2014-05-19 03:55:53 -0500,"['/t/culture', '/t/law', '/t/philosophy', '/t/practices']",Against intellectual property (1995),https://www.uow.edu.au/~bmartin/pubs/95psa.html,/u/csantosb,11
-1,2014-05-19 10:59:15 -0500,['/t/javascript'],Unoptimize V8 for Easy Debugging,http://kolodny.github.io/blog/blog/2014/05/19/unoptimize-devtools-for-easy-debugging/,/u/kolodny,1
-2,2014-05-18 13:05:41 -0500,"['/t/video', '/t/haskell', '/t/programming']",Adventure with Types - Simon Peyton Jones,https://www.youtube.com/watch?v=6COvD8oynmI&feature=youtu.be,/u/bitemyapp,19
-4,2014-05-18 16:19:52 -0500,"['/t/ipv6', '/t/vcs']",ikvjwd - Github over IPv6,http://www.ikvjwd.com/,/u/evaryont,12
-0,2014-05-19 12:10:23 -0500,"['/t/show', '/t/browsers', '/t/web']","Chrome extension to preview RAW, PSD, AI files and more with FilePreviews.io",https://chrome.google.com/webstore/detail/filepreviewsio/ehikoklcpeebdjcndeolpgoomjggmgoi,/u/jpadilla,1
-0,2014-05-19 09:39:22 -0500,"['/t/cogsci', '/t/philosophy']",The People Who Would Teach Machines to Learn,http://blog.bigml.com/2014/05/19/the-people-who-would-teach-machines-to-learn/,/u/jm,1
-0,2014-05-18 21:51:39 -0500,['/t/compsci'],MIT-related work that has transformed computer science,https://www.csail.mit.edu/node/2223,/u/Ecto5,4
-2,2014-05-18 08:55:08 -0500,"['/t/dotnet', '/t/practices', '/t/programming']",Inverted Polymorphism With Pattern Matching,http://deliberate-software.com/inversed-polymorphism/,/u/steveshogren,9
-0,2014-05-19 04:31:44 -0500,['/t/haskell'],C&C - Grokking recursion-scheme: Part 1,http://jozefg.bitbucket.org/posts/2014-05-19-like-recursion-but-cooler.html,/u/jozefg,1
-1,2014-05-17 20:45:26 -0500,"['/t/assembly', '/t/security']",Some small suggestions for the Intel instruction set,http://blog.cr.yp.to/20140517-insns.html,/u/kyle,25
+0,2014-05-20 07:44:44 -0500,"/t/assembly,/t/person",Code written by Apple co-founder Steve Woz decades ago,http://mailp.in/Y6WE2w8v/,/u/Ecto5,1
+0,2014-05-20 07:42:07 -0500,"/t/games,/t/programming",Component Based Engine Design [2013],http://www.randygaul.net/2013/05/20/component-based-engine-design/,/u/lm,1
+0,2014-05-20 07:25:17 -0500,"/t/ios,/t/mobile",vpdn/MMLayershots · GitHub,https://github.com/vpdn/MMLayershots,/u/Ecto5,1
+11,2014-05-19 18:15:22 -0500,/t/meta,"Add ""History"" tag?",/s/0kamsr/add_history_tag,/u/mikemccracken,12
+0,2014-05-20 06:28:29 -0500,"/t/javascript,/t/web",Convention Based Routing In JavaScript Apps,http://flippinawesome.org/2014/05/19/convention-based-routing-in-javascript-apps/,/u/remotesynth,1
+0,2014-05-19 17:05:07 -0500,"/t/pdf,/t/databases,/t/distributed",Highly Available Transactions: Virtues and Limitations,http://www.bailis.org/papers/hat-vldb2014.pdf,/u/SeanTAllen,6
+0,2014-05-19 06:17:42 -0500,"/t/c,/t/go,/t/programming",From C to Go - Russ Cox - GopherCon 2014,http://confreaks.com/videos/3432-gophercon2014-go-from-c-to-go,/u/cmacrae,16
+22,2014-05-18 16:37:06 -0500,"/t/databases,/t/programming",ORM is an anti-pattern,http://seldo.com/weblog/2011/08/11/orm_is_an_antipattern,/u/mattk,35
+0,2014-05-20 09:04:48 -0500,"/t/javascript,/t/web",My Top 5 (9?) Favorite HTML5 APIs,http://www.joezimjs.com/javascript/top-5-9-favorite-html5-apis/,/u/joezimjs,0
+1,2014-05-19 11:28:05 -0500,"/t/lisp,/t/mobile",Talking with Mikel Evins about the Lisp-based Newton OS from Apple,http://lispm.de/lisp-based-newton-os,/u/robey,6
+2,2014-05-19 11:58:06 -0500,/t/web,"Honeybadger, a Chrome extension for honeybadgers",http://gethoneybadger.com,/u/jameslee,5
+0,2014-05-19 13:48:48 -0500,"/t/devops,/t/linux",Zero Downtime Frontend Deploys with Vulcand on CoreOS,https://coreos.com/blog/zero-downtime-frontend-deploys-vulcand/,/u/Ecto5,4
+0,2014-05-20 03:44:25 -0500,/t/culture,Web Heroes,http://blog.higg.im/2014/05/20/web-heroes/,/u/dh,1
+0,2014-05-19 09:05:04 -0500,"/t/video,/t/games,/t/lisp",Game development in Clojure (with play-clj),https://www.youtube.com/watch?v=9ilUe7Re-RA,/u/julienXX,5
+0,2014-05-19 11:43:17 -0500,"/t/pdf,/t/security",The pre-play vulnerability in Chip and PIN,http://www.lightbluetouchpaper.org/2014/05/19/the-pre-play-vulnerability-in-chip-and-pin/,/u/kyle,2
+2,2014-05-19 03:55:53 -0500,"/t/culture,/t/law,/t/philosophy,/t/practices",Against intellectual property (1995),https://www.uow.edu.au/~bmartin/pubs/95psa.html,/u/csantosb,11
+1,2014-05-19 10:59:15 -0500,/t/javascript,Unoptimize V8 for Easy Debugging,http://kolodny.github.io/blog/blog/2014/05/19/unoptimize-devtools-for-easy-debugging/,/u/kolodny,1
+2,2014-05-18 13:05:41 -0500,"/t/video,/t/haskell,/t/programming",Adventure with Types - Simon Peyton Jones,https://www.youtube.com/watch?v=6COvD8oynmI&feature=youtu.be,/u/bitemyapp,19
+4,2014-05-18 16:19:52 -0500,"/t/ipv6,/t/vcs",ikvjwd - Github over IPv6,http://www.ikvjwd.com/,/u/evaryont,12
+0,2014-05-19 12:10:23 -0500,"/t/show,/t/browsers,/t/web","Chrome extension to preview RAW, PSD, AI files and more with FilePreviews.io",https://chrome.google.com/webstore/detail/filepreviewsio/ehikoklcpeebdjcndeolpgoomjggmgoi,/u/jpadilla,1
+0,2014-05-19 09:39:22 -0500,"/t/cogsci,/t/philosophy",The People Who Would Teach Machines to Learn,http://blog.bigml.com/2014/05/19/the-people-who-would-teach-machines-to-learn/,/u/jm,1
+0,2014-05-18 21:51:39 -0500,/t/compsci,MIT-related work that has transformed computer science,https://www.csail.mit.edu/node/2223,/u/Ecto5,4
+2,2014-05-18 08:55:08 -0500,"/t/dotnet,/t/practices,/t/programming",Inverted Polymorphism With Pattern Matching,http://deliberate-software.com/inversed-polymorphism/,/u/steveshogren,9
+0,2014-05-19 04:31:44 -0500,/t/haskell,C&C - Grokking recursion-scheme: Part 1,http://jozefg.bitbucket.org/posts/2014-05-19-like-recursion-but-cooler.html,/u/jozefg,1
+1,2014-05-17 20:45:26 -0500,"/t/assembly,/t/security",Some small suggestions for the Intel instruction set,http://blog.cr.yp.to/20140517-insns.html,/u/kyle,25

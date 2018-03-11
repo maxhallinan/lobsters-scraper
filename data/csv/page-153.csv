@@ -1,25 +1,25 @@
-0,2017-10-27 13:54:37 -0500,"['/t/culture', '/t/historical', '/t/networking']","A Net Before the Web, Part 1: The Establishment Man and the Magnificent Rogue",http://www.filfre.net/2017/10/a-net-before-the-web-part-1-the-establishment-man-and-the-magnificent-rogue/,/u/calvin,1
-2,2017-10-26 07:52:26 -0500,"['/t/javascript', '/t/performance', '/t/programming']",How useful is the JavaScript Set,http://www.hugodaniel.pt/posts/2017-10-26-how-useful-is-the-javascript-set.html,/u/HugoDaniel,11
-2,2017-10-26 10:52:11 -0500,['/t/compilers'],The Spooky Programming Language 👻,http://spookylang.com/,/u/ozan,11
-1,2017-10-26 12:23:34 -0500,"['/t/pdf', '/t/book', '/t/programming']",Programming a Problem-Oriented Language,http://www.forth.org/POL.pdf,/u/pushcx,11
-0,2017-10-27 06:06:29 -0500,['/t/databases'],How to support full Unicode in MySQL databases,https://mathiasbynens.be/notes/mysql-utf8mb4,/u/fs111,1
-0,2017-10-26 17:36:04 -0500,"['/t/pdf', '/t/historical', '/t/unix']","More Taste, Less Greed (Sending Unix to the Fat Farm)",http://www.terzarima.net/doc/taste.pdf,/u/orib,6
-0,2017-10-26 19:53:13 -0500,"['/t/education', '/t/games']",Here's The Programming Game You Never Asked For,http://blog.codinghorror.com/heres-the-programming-game-you-never-asked-for/,/u/feoh,4
-3,2017-10-26 02:40:05 -0500,"['/t/go', '/t/vcs']",Gogs and Gitea,http://jpmens.net/2017/10/25/gogs-and-gitea/,/u/mjturner,21
-0,2017-10-26 08:19:51 -0500,"['/t/databases', '/t/distributed']",VoltDB is moving more features into the open source edition,https://www.voltdb.com/blog/2017/10/25/better-open-source-offering/,/u/jhugg,8
-3,2017-10-26 10:54:44 -0500,['/t/practices'],The Thermocline of Truth (2008),http://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/,/u/asthasr,8
-0,2017-10-26 10:12:11 -0500,"['/t/hardware', '/t/practices']",2017 Hard Drive Reliability by Drive Size and Brand,https://www.backblaze.com/blog/hard-drive-failure-rates-q3-2017/,/u/jpm1,10
-13,2017-10-26 06:48:28 -0500,"['/t/compsci', '/t/performance']",Big-O: how code slows as data grows,https://nedbatchelder.com/text/slowsgrows.html,/u/pushcx,7
-0,2017-10-26 19:24:22 -0500,"['/t/pdf', '/t/cryptocurrencies']",SpaceMint: a Cryptocurrency Based on Proofs of Space,https://eprint.iacr.org/2015/528.pdf,/u/asthasr,3
-2,2017-10-26 01:57:19 -0500,['/t/graphics'],How Unreal Renders a Frame,https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/,/u/friendlysock,19
-0,2017-10-26 16:03:34 -0500,['/t/math'],Advanced Aspects of Digital Audio,http://stephan.win31.de/aada.htm,/u/calvin,3
-0,2017-10-26 15:44:21 -0500,['/t/ai'],Learning a Hierarchy,https://blog.openai.com/learning-a-hierarchy/,/u/pushcx,3
-3,2017-10-25 10:43:09 -0500,['/t/networking'],A surprising amount of people want their GeoIP to say North Korea,https://blog.benjojo.co.uk/post/north-korea-dprk-bgp-geoip-fruad,/u/benjojo,35
-0,2017-10-26 12:04:26 -0500,['/t/databases'],Use CrateDB and Franchise for a Notebook Interface to Your Data ·,https://crate.io/a/use-cratedb-franchise-notebook-interface-data/,/u/nslater,2
-0,2017-10-26 15:56:25 -0500,"['/t/education', '/t/practices', '/t/programming']",Advice for early-career developers,https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html,/u/trptcolin,1
-0,2017-10-26 20:59:49 -0500,['/t/law'],Concerns about the Community Data License Agreement (CDLA) initiative,http://anonymoushash.vmbrasseur.com/2017/10/26/community-data-license-agreement-cdla-initiative/,/u/pizzaiolo,1
-0,2017-10-26 07:49:53 -0500,"['/t/haskell', '/t/programming']",Conventional Interfaces in Functional Programming,https://codurance.com/2017/10/26/conventional-interfaces/,/u/calvin,6
-0,2017-10-26 23:40:10 -0500,['/t/culture'],Last chance to nominate for 2017 Free Software Awards — Free Software Foundation — working together for free software,https://www.fsf.org/blogs/community/last-chance-to-nominate-for-2017-free-software-awards,/u/rjc,1
-13,2017-10-25 11:31:44 -0500,"['/t/programming', '/t/unix']","Oil: Comments About Shell, Awk, and Make",http://www.oilshell.org/blog/2017/10/25.html,/u/andyc,13
-0,2017-10-26 12:14:13 -0500,['/t/javascript'],Impress Your Friends With Code Splitting in React,https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e,/u/burkeholland,1
-0,2017-10-26 06:54:12 -0500,"['/t/networking', '/t/release']",Dumpulse: an embeddable dumb heartbeat daemon in 260 bytes of RAM and ≈350 bytes of code,https://github.com/kragen/dumpulse,/u/pushcx,5
+0,2017-10-27 13:54:37 -0500,"/t/culture,/t/historical,/t/networking","A Net Before the Web, Part 1: The Establishment Man and the Magnificent Rogue",http://www.filfre.net/2017/10/a-net-before-the-web-part-1-the-establishment-man-and-the-magnificent-rogue/,/u/calvin,1
+2,2017-10-26 07:52:26 -0500,"/t/javascript,/t/performance,/t/programming",How useful is the JavaScript Set,http://www.hugodaniel.pt/posts/2017-10-26-how-useful-is-the-javascript-set.html,/u/HugoDaniel,11
+2,2017-10-26 10:52:11 -0500,/t/compilers,The Spooky Programming Language 👻,http://spookylang.com/,/u/ozan,11
+1,2017-10-26 12:23:34 -0500,"/t/pdf,/t/book,/t/programming",Programming a Problem-Oriented Language,http://www.forth.org/POL.pdf,/u/pushcx,11
+0,2017-10-27 06:06:29 -0500,/t/databases,How to support full Unicode in MySQL databases,https://mathiasbynens.be/notes/mysql-utf8mb4,/u/fs111,1
+0,2017-10-26 17:36:04 -0500,"/t/pdf,/t/historical,/t/unix","More Taste, Less Greed (Sending Unix to the Fat Farm)",http://www.terzarima.net/doc/taste.pdf,/u/orib,6
+0,2017-10-26 19:53:13 -0500,"/t/education,/t/games",Here's The Programming Game You Never Asked For,http://blog.codinghorror.com/heres-the-programming-game-you-never-asked-for/,/u/feoh,4
+3,2017-10-26 02:40:05 -0500,"/t/go,/t/vcs",Gogs and Gitea,http://jpmens.net/2017/10/25/gogs-and-gitea/,/u/mjturner,21
+0,2017-10-26 08:19:51 -0500,"/t/databases,/t/distributed",VoltDB is moving more features into the open source edition,https://www.voltdb.com/blog/2017/10/25/better-open-source-offering/,/u/jhugg,8
+3,2017-10-26 10:54:44 -0500,/t/practices,The Thermocline of Truth (2008),http://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/,/u/asthasr,8
+0,2017-10-26 10:12:11 -0500,"/t/hardware,/t/practices",2017 Hard Drive Reliability by Drive Size and Brand,https://www.backblaze.com/blog/hard-drive-failure-rates-q3-2017/,/u/jpm1,10
+13,2017-10-26 06:48:28 -0500,"/t/compsci,/t/performance",Big-O: how code slows as data grows,https://nedbatchelder.com/text/slowsgrows.html,/u/pushcx,7
+0,2017-10-26 19:24:22 -0500,"/t/pdf,/t/cryptocurrencies",SpaceMint: a Cryptocurrency Based on Proofs of Space,https://eprint.iacr.org/2015/528.pdf,/u/asthasr,3
+2,2017-10-26 01:57:19 -0500,/t/graphics,How Unreal Renders a Frame,https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/,/u/friendlysock,19
+0,2017-10-26 16:03:34 -0500,/t/math,Advanced Aspects of Digital Audio,http://stephan.win31.de/aada.htm,/u/calvin,3
+0,2017-10-26 15:44:21 -0500,/t/ai,Learning a Hierarchy,https://blog.openai.com/learning-a-hierarchy/,/u/pushcx,3
+3,2017-10-25 10:43:09 -0500,/t/networking,A surprising amount of people want their GeoIP to say North Korea,https://blog.benjojo.co.uk/post/north-korea-dprk-bgp-geoip-fruad,/u/benjojo,35
+0,2017-10-26 12:04:26 -0500,/t/databases,Use CrateDB and Franchise for a Notebook Interface to Your Data ·,https://crate.io/a/use-cratedb-franchise-notebook-interface-data/,/u/nslater,2
+0,2017-10-26 15:56:25 -0500,"/t/education,/t/practices,/t/programming",Advice for early-career developers,https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html,/u/trptcolin,1
+0,2017-10-26 20:59:49 -0500,/t/law,Concerns about the Community Data License Agreement (CDLA) initiative,http://anonymoushash.vmbrasseur.com/2017/10/26/community-data-license-agreement-cdla-initiative/,/u/pizzaiolo,1
+0,2017-10-26 07:49:53 -0500,"/t/haskell,/t/programming",Conventional Interfaces in Functional Programming,https://codurance.com/2017/10/26/conventional-interfaces/,/u/calvin,6
+0,2017-10-26 23:40:10 -0500,/t/culture,Last chance to nominate for 2017 Free Software Awards — Free Software Foundation — working together for free software,https://www.fsf.org/blogs/community/last-chance-to-nominate-for-2017-free-software-awards,/u/rjc,1
+13,2017-10-25 11:31:44 -0500,"/t/programming,/t/unix","Oil: Comments About Shell, Awk, and Make",http://www.oilshell.org/blog/2017/10/25.html,/u/andyc,13
+0,2017-10-26 12:14:13 -0500,/t/javascript,Impress Your Friends With Code Splitting in React,https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e,/u/burkeholland,1
+0,2017-10-26 06:54:12 -0500,"/t/networking,/t/release",Dumpulse: an embeddable dumb heartbeat daemon in 260 bytes of RAM and ≈350 bytes of code,https://github.com/kragen/dumpulse,/u/pushcx,5

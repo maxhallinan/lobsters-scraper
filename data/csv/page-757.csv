@@ -1,25 +1,25 @@
-3,2016-06-07 12:50:04 -0500,['/t/haskell'],Paul's Pontifications: When plain Haskell is faster than plain C,http://paulspontifications.blogspot.com/2013/01/when-haskell-is-faster-than-c.html,/u/rain1,3
-26,2016-06-06 12:06:12 -0500,"['/t/linux', '/t/security', '/t/systemd']",Sad news today: systemd-resolved to be deployed in Ubuntu 16.10,https://lists.dns-oarc.net/pipermail/dns-operations/2016-June/014964.html,/u/mulander,46
-0,2016-06-07 20:47:16 -0500,"['/t/video', '/t/compsci']","Rethinking CS Education - Alan Kay, CrossRoads 2015",https://www.youtube.com/watch?v=N9c7_8Gp7gI,/u/qbit,2
-0,2016-06-07 23:53:45 -0500,['/t/distributed'],Docker SwarmKit,https://github.com/docker/swarmkit,/u/biscarch,1
-12,2016-06-07 09:25:45 -0500,"['/t/design', '/t/web']",the scrolljackening,http://us1.campaign-archive2.com/?u=0a8f219cf8284562f91a26ee9&id=48c285c038,/u/flyingfisch,4
-0,2016-06-07 16:18:26 -0500,['/t/release'],Visual Studio Code 1.2 Released,https://code.visualstudio.com/Updates?live12,/u/noelle,3
-1,2016-06-07 09:51:20 -0500,"['/t/pdf', '/t/networking']",TCP Vegas: New Techniques for Congestion Detection and Avoidance (1994),http://pages.cs.wisc.edu/~akella/CS740/S08/740-Papers/BOP94.pdf,/u/prefork,5
-0,2016-06-07 07:54:07 -0500,['/t/lisp'],Bone Lisp - Lisp Without Garbage Collection,https://github.com/wolfgangj/bone-lisp/,/u/dwc,8
-3,2016-06-07 05:08:05 -0500,['/t/games'],The State of Steam Machines in June 2016,http://boilingsteam.com/the-state-of-steam-machines-june-2016/,/u/mulander,6
-5,2016-06-06 19:13:27 -0500,['/t/lisp'],Why Lisp?,http://lisperator.net/blog/why-lisp/,/u/PuercoPop,16
-0,2016-06-07 00:49:58 -0500,"['/t/netbsd', '/t/release', '/t/unix']",pkgsrc 50th release interviews - Jonathan Perkin,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_jonathan,/u/krytarowski,8
-1,2016-06-07 16:15:10 -0500,['/t/programming'],Pair-programming from a beginner’s perspective,http://itsyganok.com/2016/05/115/,/u/stig,2
-0,2016-06-07 16:03:11 -0500,"['/t/compilers', '/t/programming']",Virtual Machines Summer School 2016,http://soft-dev.org/events/vmss16/,/u/mgaudet,2
-0,2016-06-07 15:24:22 -0500,['/t/security'],Out-of-Box Exploitation: A Security Analysis of OEM Updaters,https://duo.com/blog/out-of-box-exploitation-a-security-analysis-of-oem-updaters,/u/calvin,2
-0,2016-06-07 09:49:07 -0500,"['/t/pdf', '/t/distributed', '/t/programming']",Urbit: A Solid-State Interpreter,http://media.urbit.org/whitepaper.pdf,/u/prefork,4
-11,2016-06-06 10:35:18 -0500,"['/t/elm', '/t/meta']",Tag Suggestion: Elm,/s/mcdxbz/tag_suggestion_elm,/u/listrophy,34
-0,2016-06-07 18:13:46 -0500,"['/t/design', '/t/web']",Improving Your CSS with Parker,http://csswizardry.com/2016/06/improving-your-css-with-parker/,/u/joshuacc,1
-2,2016-06-06 18:13:33 -0500,"['/t/art', '/t/design', '/t/historical', '/t/practices']","Biohazard: Iconic Symbol Designed to be “Memorable but Meaningless""",http://99percentinvisible.org/article/biohazard-symbol-designed-to-be-memorable-but-meaningless/,/u/friendlysock,15
-4,2016-06-06 15:21:45 -0500,"['/t/c', '/t/unix']",What's present in libc on illumos?,http://ptribble.blogspot.com/2016/06/whats-present-in-libc-on-illumos.html,/u/sevan,20
-0,2016-06-07 10:45:33 -0500,['/t/elixir'],Introducing Benchee: simple and extensible benchmarking for Elixir,https://pragtob.wordpress.com/2016/06/07/introducing-benchee-simple-and-extensible-benchmarking-for-elixir/,/u/PragTob,1
-0,2016-06-07 09:28:44 -0500,['/t/javascript'],Front-end Hyperpolyglot,http://jeffcarp.github.io/frontend-hyperpolyglot/,/u/flyingfisch,3
-0,2016-06-07 15:47:46 -0500,['/t/games'],Player Improvement and Single-Player High Scores,http://game.engineering.nyu.edu/projects/high-scores/,/u/mjn,1
-0,2016-06-07 09:05:38 -0500,"['/t/haskell', '/t/programming']",Image processing with Juicy Pixels and Repa,https://www.stackbuilders.com/tutorials/haskell/image-processing/,/u/jpvillaisaza,3
-6,2016-06-06 09:50:33 -0500,['/t/programming'],Never Schedule Future Jobs,http://lanceolsen.net/never-schedule-future-jobs/,/u/pushcx,20
-1,2016-06-06 22:22:40 -0500,"['/t/video', '/t/rust']",Live Coding Rust with Steve Klabnik,https://www.youtube.com/watch?v=8DgEwb8xTyo,/u/unbalancedparentheses,6
+3,2016-06-07 12:50:04 -0500,/t/haskell,Paul's Pontifications: When plain Haskell is faster than plain C,http://paulspontifications.blogspot.com/2013/01/when-haskell-is-faster-than-c.html,/u/rain1,3
+26,2016-06-06 12:06:12 -0500,"/t/linux,/t/security,/t/systemd",Sad news today: systemd-resolved to be deployed in Ubuntu 16.10,https://lists.dns-oarc.net/pipermail/dns-operations/2016-June/014964.html,/u/mulander,46
+0,2016-06-07 20:47:16 -0500,"/t/video,/t/compsci","Rethinking CS Education - Alan Kay, CrossRoads 2015",https://www.youtube.com/watch?v=N9c7_8Gp7gI,/u/qbit,2
+0,2016-06-07 23:53:45 -0500,/t/distributed,Docker SwarmKit,https://github.com/docker/swarmkit,/u/biscarch,1
+12,2016-06-07 09:25:45 -0500,"/t/design,/t/web",the scrolljackening,http://us1.campaign-archive2.com/?u=0a8f219cf8284562f91a26ee9&id=48c285c038,/u/flyingfisch,4
+0,2016-06-07 16:18:26 -0500,/t/release,Visual Studio Code 1.2 Released,https://code.visualstudio.com/Updates?live12,/u/noelle,3
+1,2016-06-07 09:51:20 -0500,"/t/pdf,/t/networking",TCP Vegas: New Techniques for Congestion Detection and Avoidance (1994),http://pages.cs.wisc.edu/~akella/CS740/S08/740-Papers/BOP94.pdf,/u/prefork,5
+0,2016-06-07 07:54:07 -0500,/t/lisp,Bone Lisp - Lisp Without Garbage Collection,https://github.com/wolfgangj/bone-lisp/,/u/dwc,8
+3,2016-06-07 05:08:05 -0500,/t/games,The State of Steam Machines in June 2016,http://boilingsteam.com/the-state-of-steam-machines-june-2016/,/u/mulander,6
+5,2016-06-06 19:13:27 -0500,/t/lisp,Why Lisp?,http://lisperator.net/blog/why-lisp/,/u/PuercoPop,16
+0,2016-06-07 00:49:58 -0500,"/t/netbsd,/t/release,/t/unix",pkgsrc 50th release interviews - Jonathan Perkin,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_jonathan,/u/krytarowski,8
+1,2016-06-07 16:15:10 -0500,/t/programming,Pair-programming from a beginner’s perspective,http://itsyganok.com/2016/05/115/,/u/stig,2
+0,2016-06-07 16:03:11 -0500,"/t/compilers,/t/programming",Virtual Machines Summer School 2016,http://soft-dev.org/events/vmss16/,/u/mgaudet,2
+0,2016-06-07 15:24:22 -0500,/t/security,Out-of-Box Exploitation: A Security Analysis of OEM Updaters,https://duo.com/blog/out-of-box-exploitation-a-security-analysis-of-oem-updaters,/u/calvin,2
+0,2016-06-07 09:49:07 -0500,"/t/pdf,/t/distributed,/t/programming",Urbit: A Solid-State Interpreter,http://media.urbit.org/whitepaper.pdf,/u/prefork,4
+11,2016-06-06 10:35:18 -0500,"/t/elm,/t/meta",Tag Suggestion: Elm,/s/mcdxbz/tag_suggestion_elm,/u/listrophy,34
+0,2016-06-07 18:13:46 -0500,"/t/design,/t/web",Improving Your CSS with Parker,http://csswizardry.com/2016/06/improving-your-css-with-parker/,/u/joshuacc,1
+2,2016-06-06 18:13:33 -0500,"/t/art,/t/design,/t/historical,/t/practices","Biohazard: Iconic Symbol Designed to be “Memorable but Meaningless""",http://99percentinvisible.org/article/biohazard-symbol-designed-to-be-memorable-but-meaningless/,/u/friendlysock,15
+4,2016-06-06 15:21:45 -0500,"/t/c,/t/unix",What's present in libc on illumos?,http://ptribble.blogspot.com/2016/06/whats-present-in-libc-on-illumos.html,/u/sevan,20
+0,2016-06-07 10:45:33 -0500,/t/elixir,Introducing Benchee: simple and extensible benchmarking for Elixir,https://pragtob.wordpress.com/2016/06/07/introducing-benchee-simple-and-extensible-benchmarking-for-elixir/,/u/PragTob,1
+0,2016-06-07 09:28:44 -0500,/t/javascript,Front-end Hyperpolyglot,http://jeffcarp.github.io/frontend-hyperpolyglot/,/u/flyingfisch,3
+0,2016-06-07 15:47:46 -0500,/t/games,Player Improvement and Single-Player High Scores,http://game.engineering.nyu.edu/projects/high-scores/,/u/mjn,1
+0,2016-06-07 09:05:38 -0500,"/t/haskell,/t/programming",Image processing with Juicy Pixels and Repa,https://www.stackbuilders.com/tutorials/haskell/image-processing/,/u/jpvillaisaza,3
+6,2016-06-06 09:50:33 -0500,/t/programming,Never Schedule Future Jobs,http://lanceolsen.net/never-schedule-future-jobs/,/u/pushcx,20
+1,2016-06-06 22:22:40 -0500,"/t/video,/t/rust",Live Coding Rust with Steve Klabnik,https://www.youtube.com/watch?v=8DgEwb8xTyo,/u/unbalancedparentheses,6

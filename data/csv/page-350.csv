@@ -1,25 +1,25 @@
-0,2017-05-29 10:21:56 -0500,['/t/ruby'],Ruby Memoization: ||= vs. defined? syntax,http://karolgalanciak.com/blog/2017/05/28/ruby-memoization-%7C%7C-equals-vs-defined-syntax,/u/pushcx,4
-16,2017-05-29 04:43:05 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/iuatjk/what_are_you_working_on_this_week,/u/caius,14
-0,2017-05-29 11:50:23 -0500,"['/t/compilers', '/t/programming']",Tutorial on metacompilers using META II: The first meta-compiler from 1964,http://www.bayfronttechnologies.com/mc_tutorial.html,/u/nickpsecurity,2
-0,2017-05-29 14:20:08 -0500,"['/t/math', '/t/science']",Multiplicitous P-Values,https://putanumonit.com/2016/12/18/multiplicitous/,/u/pushcx,1
-0,2017-05-29 09:08:15 -0500,['/t/unix'],Tribblix SPARC progress,http://ptribble.blogspot.com/2017/05/tribblix-sparc-progress.html,/u/sevan,2
-1,2017-05-28 20:12:02 -0500,['/t/emacs'],Xah Fly Keys,http://ergoemacs.org/misc/ergoemacs_vi_mode.html,/u/mjn,9
-0,2017-05-29 07:22:35 -0500,"['/t/pdf', '/t/hardware', '/t/haskell', '/t/math']",Compiling to categories,http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf,/u/NinjaTrappeur,2
-16,2017-05-28 13:29:05 -0500,"['/t/distributed', '/t/philosophy']",Blockchains Never Forget,https://www.ribbonfarm.com/2017/05/25/blockchains-never-forget/,/u/praalhans,8
-1,2017-05-28 20:38:12 -0500,"['/t/graphics', '/t/math']",A Ray Tracer,http://www.purplealienplanet.com/node/20,/u/calvin,6
-65,2017-05-27 18:09:49 -0500,"['/t/ask', '/t/programming']",What would a language that’s nearly as fast as C but results in more readable code look like?,/s/z0nr5k/what_would_language_s_nearly_as_fast_as_c,/u/nil,30
-0,2017-05-29 06:57:22 -0500,['/t/testing'],Getting rid of ‘QA’ and why what we call things matters,http://engineering.freeagent.com/2017/05/29/freeagent-testermonials-qa-nae-mair/,/u/caius,1
-0,2017-05-28 14:20:44 -0500,"['/t/compsci', '/t/science']",Should I use Chapel or Julia for my next project?,https://www.dursi.ca/post/julia-vs-chapel.html,/u/eddelbuettel,9
-11,2017-05-27 23:57:59 -0500,['/t/javascript'],"HConfig, a human friendly config file for node.js applications",https://github.com/mortie/hconfig,/u/mort,11
-0,2017-05-28 18:17:54 -0500,['/t/math'],Encyclopedia of Triangle Centers,http://faculty.evansville.edu/ck6/encyclopedia/ETC.html,/u/pushcx,4
-3,2017-05-28 18:13:27 -0500,['/t/practices'],How to stand out as a Junior Developer to get your first developer job?,https://medium.com/@merve.taner/how-to-standout-as-a-junior-developer-to-get-your-first-developer-job-3e975315055d,/u/pushcx,1
-0,2017-05-28 03:46:27 -0500,['/t/formalmethods'],TLA+ in Practice and Theory Part 1: The Principles of TLA+,https://pron.github.io/posts/tlaplus_part1,/u/nikola,16
-7,2017-05-28 00:37:08 -0500,['/t/scala'],Warts of the Scala Programming Language,http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html,/u/aduffy,10
-0,2017-05-28 04:04:59 -0500,['/t/javascript'],Switching From React To Vue.js,http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/?jsdojo_id=lob_srv,/u/anthonygore,7
-1,2017-05-28 10:51:23 -0500,"['/t/api', '/t/web']",REST APIs  —  Back to Basics,https://restful.io/rest-api-back-to-basics-c64f282d972,/u/ahmadnassri,5
-0,2017-05-28 16:07:50 -0500,"['/t/reversing', '/t/windows']",Reverse-Engineering CryptoAPI's Certificate Registry Blobs,https://namecoin.org//2017/05/27/reverse-engineering-cryptoapi-cert-blobs.html,/u/qznc,2
-8,2017-05-27 08:20:43 -0500,['/t/design'],A Year of Google Maps & Apple Maps,https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps/,/u/colin,45
-0,2017-05-28 10:31:17 -0500,"['/t/networking', '/t/security']",DDOS attacks in Q1 2017,https://www.exploitthis.com/2017/05/11/ddos-attacks-in-q1-2017/,/u/dgv,3
-0,2017-05-28 07:52:12 -0500,"['/t/crypto', '/t/security']",Breaking Murmur: Hash-flooding DoS reloaded (2012),http://emboss.github.io/blog/2012/12/14/breaking-murmur-hash-flooding-dos-reloaded,/u/calvin,3
-1,2017-05-28 01:31:26 -0500,"['/t/hardware', '/t/historical']",A history of the Texas Instruments 99/4 home computer,https://board.byuu.org/viewtopic.php?f=6&t=1620,/u/Screwtape,5
-1,2017-05-28 03:54:33 -0500,"['/t/show', '/t/go']",A library for configuration management,https://github.com/damnever/cc,/u/xcg,3
+0,2017-05-29 10:21:56 -0500,/t/ruby,Ruby Memoization: ||= vs. defined? syntax,http://karolgalanciak.com/blog/2017/05/28/ruby-memoization-%7C%7C-equals-vs-defined-syntax,/u/pushcx,4
+16,2017-05-29 04:43:05 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/iuatjk/what_are_you_working_on_this_week,/u/caius,14
+0,2017-05-29 11:50:23 -0500,"/t/compilers,/t/programming",Tutorial on metacompilers using META II: The first meta-compiler from 1964,http://www.bayfronttechnologies.com/mc_tutorial.html,/u/nickpsecurity,2
+0,2017-05-29 14:20:08 -0500,"/t/math,/t/science",Multiplicitous P-Values,https://putanumonit.com/2016/12/18/multiplicitous/,/u/pushcx,1
+0,2017-05-29 09:08:15 -0500,/t/unix,Tribblix SPARC progress,http://ptribble.blogspot.com/2017/05/tribblix-sparc-progress.html,/u/sevan,2
+1,2017-05-28 20:12:02 -0500,/t/emacs,Xah Fly Keys,http://ergoemacs.org/misc/ergoemacs_vi_mode.html,/u/mjn,9
+0,2017-05-29 07:22:35 -0500,"/t/pdf,/t/hardware,/t/haskell,/t/math",Compiling to categories,http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf,/u/NinjaTrappeur,2
+16,2017-05-28 13:29:05 -0500,"/t/distributed,/t/philosophy",Blockchains Never Forget,https://www.ribbonfarm.com/2017/05/25/blockchains-never-forget/,/u/praalhans,8
+1,2017-05-28 20:38:12 -0500,"/t/graphics,/t/math",A Ray Tracer,http://www.purplealienplanet.com/node/20,/u/calvin,6
+65,2017-05-27 18:09:49 -0500,"/t/ask,/t/programming",What would a language that’s nearly as fast as C but results in more readable code look like?,/s/z0nr5k/what_would_language_s_nearly_as_fast_as_c,/u/nil,30
+0,2017-05-29 06:57:22 -0500,/t/testing,Getting rid of ‘QA’ and why what we call things matters,http://engineering.freeagent.com/2017/05/29/freeagent-testermonials-qa-nae-mair/,/u/caius,1
+0,2017-05-28 14:20:44 -0500,"/t/compsci,/t/science",Should I use Chapel or Julia for my next project?,https://www.dursi.ca/post/julia-vs-chapel.html,/u/eddelbuettel,9
+11,2017-05-27 23:57:59 -0500,/t/javascript,"HConfig, a human friendly config file for node.js applications",https://github.com/mortie/hconfig,/u/mort,11
+0,2017-05-28 18:17:54 -0500,/t/math,Encyclopedia of Triangle Centers,http://faculty.evansville.edu/ck6/encyclopedia/ETC.html,/u/pushcx,4
+3,2017-05-28 18:13:27 -0500,/t/practices,How to stand out as a Junior Developer to get your first developer job?,https://medium.com/@merve.taner/how-to-standout-as-a-junior-developer-to-get-your-first-developer-job-3e975315055d,/u/pushcx,1
+0,2017-05-28 03:46:27 -0500,/t/formalmethods,TLA+ in Practice and Theory Part 1: The Principles of TLA+,https://pron.github.io/posts/tlaplus_part1,/u/nikola,16
+7,2017-05-28 00:37:08 -0500,/t/scala,Warts of the Scala Programming Language,http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html,/u/aduffy,10
+0,2017-05-28 04:04:59 -0500,/t/javascript,Switching From React To Vue.js,http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/?jsdojo_id=lob_srv,/u/anthonygore,7
+1,2017-05-28 10:51:23 -0500,"/t/api,/t/web",REST APIs  —  Back to Basics,https://restful.io/rest-api-back-to-basics-c64f282d972,/u/ahmadnassri,5
+0,2017-05-28 16:07:50 -0500,"/t/reversing,/t/windows",Reverse-Engineering CryptoAPI's Certificate Registry Blobs,https://namecoin.org//2017/05/27/reverse-engineering-cryptoapi-cert-blobs.html,/u/qznc,2
+8,2017-05-27 08:20:43 -0500,/t/design,A Year of Google Maps & Apple Maps,https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps/,/u/colin,45
+0,2017-05-28 10:31:17 -0500,"/t/networking,/t/security",DDOS attacks in Q1 2017,https://www.exploitthis.com/2017/05/11/ddos-attacks-in-q1-2017/,/u/dgv,3
+0,2017-05-28 07:52:12 -0500,"/t/crypto,/t/security",Breaking Murmur: Hash-flooding DoS reloaded (2012),http://emboss.github.io/blog/2012/12/14/breaking-murmur-hash-flooding-dos-reloaded,/u/calvin,3
+1,2017-05-28 01:31:26 -0500,"/t/hardware,/t/historical",A history of the Texas Instruments 99/4 home computer,https://board.byuu.org/viewtopic.php?f=6&t=1620,/u/Screwtape,5
+1,2017-05-28 03:54:33 -0500,"/t/show,/t/go",A library for configuration management,https://github.com/damnever/cc,/u/xcg,3

@@ -1,25 +1,25 @@
-0,2015-02-07 20:38:19 -0600,"['/t/pdf', '/t/distributed', '/t/ml']",Raft Refloated: Do We Have Consensus?,http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf,/u/tizoc,15
-1,2015-02-07 13:31:34 -0600,['/t/openbsd'],The OpenBSD Foundation 2015 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2015.html,/u/SeanTAllen,17
-4,2015-02-07 07:37:35 -0600,"['/t/haskell', '/t/lisp', '/t/vim']",Vim as IDE,http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/,/u/yogsototh,20
-1,2015-02-07 17:34:55 -0600,['/t/javascript'],NodeJS/iojs communities in danger of fracturing,https://github.com/iojs/io.js/issues/725#issuecomment-73385877,/u/itistoday,7
-0,2015-02-07 14:53:41 -0600,"['/t/games', '/t/programming', '/t/reversing']",Building a cheat-bot to solve the GBA game Kuru Kuru Kururin,http://medium.com/@mattshepcar/f848f199e76b,/u/ssl,8
-1,2015-02-07 10:21:41 -0600,['/t/culture'],"At some start-ups, Friday is so casual that it’s not even a workday",http://www.washingtonpost.com/local/at-some-start-ups-fridays-are-so-casual-everyone-can-stay-home/2015/02/06/31e8407e-9d1c-11e4-96cc-e858eba91ced_story.html,/u/SeanTAllen,17
-0,2015-02-07 12:33:49 -0600,"['/t/databases', '/t/distributed']",RAMCloud: distributed in-memory key-value store with auto-persistence to disk,https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud,/u/DocSavage,6
-1,2015-02-07 10:41:47 -0600,"['/t/compsci', '/t/programming']",Static Analysis Benchmarks,http://blog.regehr.org/archives/1217,/u/BruceM,6
-0,2015-02-07 13:47:09 -0600,"['/t/programming', '/t/web']",Entire Internet Technology Insights,https://blog.builtwith.com/2015/01/28/entire-internet-technology-insights-jan-2015/,/u/dh,2
-0,2015-02-07 14:26:29 -0600,"['/t/java', '/t/programming']",3 Best Libraries to manipulate Java bytecode programmatically,http://www.dzone.com/links/r/3_best_libraries_to_manipulate_java_bytecode_prog.html,/u/codeon1,1
-8,2015-02-06 13:01:19 -0600,['/t/vcs'],A successful Git branching model,http://nvie.com/posts/a-successful-git-branching-model/,/u/dh,8
-0,2015-02-06 18:05:45 -0600,"['/t/finance', '/t/hardware']","Reliability Data Set For 41,000 Hard Drives",https://www.backblaze.com/blog/hard-drive-data-feb2015/,/u/derek-jones,8
-3,2015-02-06 13:35:30 -0600,['/t/javascript'],First Impressions Using React Native,http://jlongster.com/First-Impressions-using-React-Native,/u/retornam,7
-0,2015-02-06 13:02:26 -0600,['/t/networking'],Profanity - A console based XMPP client,http://www.profanity.im/,/u/dh,12
-0,2015-02-06 17:32:13 -0600,"['/t/c', '/t/databases']","sophia - a modern, fast and feature-rich embeddable key-value database",https://github.com/pmwkaa/sophia,/u/jcspencer,6
-0,2015-02-06 20:45:28 -0600,"['/t/databases', '/t/devops']",An open-source service monitoring system and time series database.,http://prometheus.io/,/u/jcspencer,3
-1,2015-02-06 10:15:12 -0600,"['/t/hardware', '/t/security']",Security vulnerabilities in BMW's ConnectedDrive,http://www.heise.de/ct/artikel/Beemer-Open-Thyself-Security-vulnerabilities-in-BMW-s-ConnectedDrive-2540957.html,/u/wally,5
-2,2015-02-06 12:24:19 -0600,"['/t/video', '/t/cryptocurrencies']",Inside the Chinese Bitcoin Mine That's Making $1.5M a Month,http://motherboard.vice.com/read/chinas-biggest-secret-bitcoin-mine,/u/jcs,3
-13,2015-02-05 11:19:39 -0600,"['/t/person', '/t/security']","The World’s Email Encryption Software Relies on One Guy, Who is Going Broke",http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke,/u/zacbrown,46
-2,2015-02-06 05:42:40 -0600,['/t/security'],"GCHQ mass internet surveillance was unlawful, court rules",http://www.theguardian.com/uk-news/2015/feb/06/gchq-mass-internet-surveillance-unlawful-court-nsa,/u/DrM,8
-0,2015-02-06 12:00:27 -0600,['/t/security'],Exploiting UEFI boot script table vulnerability,http://blog.cr4.sh/2015/02/exploiting-uefi-boot-script-table.html,/u/lattera,3
-0,2015-02-06 08:06:19 -0600,"['/t/book', '/t/programming', '/t/ruby']",Ruby DSL Handbook,http://clean-ruby.com/dsl,/u/saturnflyer,4
-8,2015-02-05 10:33:18 -0600,['/t/go'],Package names,http://blog.golang.org/package-names,/u/journeysquid,18
-0,2015-02-05 22:01:02 -0600,"['/t/c', '/t/linux']",How programs get run,http://lwn.net/Articles/630727/,/u/pushcx,8
-1,2015-02-05 11:59:36 -0600,['/t/ruby'],Consider static typing,http://codon.com/consider-static-typing,/u/pushcx,23
+0,2015-02-07 20:38:19 -0600,"/t/pdf,/t/distributed,/t/ml",Raft Refloated: Do We Have Consensus?,http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf,/u/tizoc,15
+1,2015-02-07 13:31:34 -0600,/t/openbsd,The OpenBSD Foundation 2015 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2015.html,/u/SeanTAllen,17
+4,2015-02-07 07:37:35 -0600,"/t/haskell,/t/lisp,/t/vim",Vim as IDE,http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/,/u/yogsototh,20
+1,2015-02-07 17:34:55 -0600,/t/javascript,NodeJS/iojs communities in danger of fracturing,https://github.com/iojs/io.js/issues/725#issuecomment-73385877,/u/itistoday,7
+0,2015-02-07 14:53:41 -0600,"/t/games,/t/programming,/t/reversing",Building a cheat-bot to solve the GBA game Kuru Kuru Kururin,http://medium.com/@mattshepcar/f848f199e76b,/u/ssl,8
+1,2015-02-07 10:21:41 -0600,/t/culture,"At some start-ups, Friday is so casual that it’s not even a workday",http://www.washingtonpost.com/local/at-some-start-ups-fridays-are-so-casual-everyone-can-stay-home/2015/02/06/31e8407e-9d1c-11e4-96cc-e858eba91ced_story.html,/u/SeanTAllen,17
+0,2015-02-07 12:33:49 -0600,"/t/databases,/t/distributed",RAMCloud: distributed in-memory key-value store with auto-persistence to disk,https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud,/u/DocSavage,6
+1,2015-02-07 10:41:47 -0600,"/t/compsci,/t/programming",Static Analysis Benchmarks,http://blog.regehr.org/archives/1217,/u/BruceM,6
+0,2015-02-07 13:47:09 -0600,"/t/programming,/t/web",Entire Internet Technology Insights,https://blog.builtwith.com/2015/01/28/entire-internet-technology-insights-jan-2015/,/u/dh,2
+0,2015-02-07 14:26:29 -0600,"/t/java,/t/programming",3 Best Libraries to manipulate Java bytecode programmatically,http://www.dzone.com/links/r/3_best_libraries_to_manipulate_java_bytecode_prog.html,/u/codeon1,1
+8,2015-02-06 13:01:19 -0600,/t/vcs,A successful Git branching model,http://nvie.com/posts/a-successful-git-branching-model/,/u/dh,8
+0,2015-02-06 18:05:45 -0600,"/t/finance,/t/hardware","Reliability Data Set For 41,000 Hard Drives",https://www.backblaze.com/blog/hard-drive-data-feb2015/,/u/derek-jones,8
+3,2015-02-06 13:35:30 -0600,/t/javascript,First Impressions Using React Native,http://jlongster.com/First-Impressions-using-React-Native,/u/retornam,7
+0,2015-02-06 13:02:26 -0600,/t/networking,Profanity - A console based XMPP client,http://www.profanity.im/,/u/dh,12
+0,2015-02-06 17:32:13 -0600,"/t/c,/t/databases","sophia - a modern, fast and feature-rich embeddable key-value database",https://github.com/pmwkaa/sophia,/u/jcspencer,6
+0,2015-02-06 20:45:28 -0600,"/t/databases,/t/devops",An open-source service monitoring system and time series database.,http://prometheus.io/,/u/jcspencer,3
+1,2015-02-06 10:15:12 -0600,"/t/hardware,/t/security",Security vulnerabilities in BMW's ConnectedDrive,http://www.heise.de/ct/artikel/Beemer-Open-Thyself-Security-vulnerabilities-in-BMW-s-ConnectedDrive-2540957.html,/u/wally,5
+2,2015-02-06 12:24:19 -0600,"/t/video,/t/cryptocurrencies",Inside the Chinese Bitcoin Mine That's Making $1.5M a Month,http://motherboard.vice.com/read/chinas-biggest-secret-bitcoin-mine,/u/jcs,3
+13,2015-02-05 11:19:39 -0600,"/t/person,/t/security","The World’s Email Encryption Software Relies on One Guy, Who is Going Broke",http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke,/u/zacbrown,46
+2,2015-02-06 05:42:40 -0600,/t/security,"GCHQ mass internet surveillance was unlawful, court rules",http://www.theguardian.com/uk-news/2015/feb/06/gchq-mass-internet-surveillance-unlawful-court-nsa,/u/DrM,8
+0,2015-02-06 12:00:27 -0600,/t/security,Exploiting UEFI boot script table vulnerability,http://blog.cr4.sh/2015/02/exploiting-uefi-boot-script-table.html,/u/lattera,3
+0,2015-02-06 08:06:19 -0600,"/t/book,/t/programming,/t/ruby",Ruby DSL Handbook,http://clean-ruby.com/dsl,/u/saturnflyer,4
+8,2015-02-05 10:33:18 -0600,/t/go,Package names,http://blog.golang.org/package-names,/u/journeysquid,18
+0,2015-02-05 22:01:02 -0600,"/t/c,/t/linux",How programs get run,http://lwn.net/Articles/630727/,/u/pushcx,8
+1,2015-02-05 11:59:36 -0600,/t/ruby,Consider static typing,http://codon.com/consider-static-typing,/u/pushcx,23

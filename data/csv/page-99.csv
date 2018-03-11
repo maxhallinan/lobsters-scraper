@@ -1,25 +1,25 @@
-0,2017-12-11 21:05:14 -0600,"['/t/culture', '/t/law']",Context on Conservancy's Filing for Summary Judgment with the TTAB,https://sfconservancy.org/blog/2017/dec/11/ttab-summary-judgment-motion/,/u/colindean,1
-4,2017-12-10 18:29:37 -0600,"['/t/c', '/t/programming']",Building C Programs,http://seenaburns.com/building-c-programs/,/u/calvin,11
-0,2017-12-11 07:59:27 -0600,['/t/distributed'],Fundamental challenges with public blockchains,https://medium.com/@preethikasireddy/fundamental-challenges-with-public-blockchains-253c800e9428,/u/pushcx,3
-3,2017-12-10 16:25:39 -0600,['/t/programming'],Undoing the harm of layers,https://nrkbeta.no/2017/04/29/undoing-the-harm-of-layers/,/u/data_hope,13
-0,2017-12-11 12:58:30 -0600,['/t/compsci'],CuriOS: Improving Reliability through Operating System Structure (2008),https://www.usenix.org/legacy/events/osdi08/tech/full_papers/david/david_html/index.html,/u/nickpsecurity,1
-0,2017-12-11 08:41:29 -0600,"['/t/finance', '/t/privacy']",The attention economy,https://aeon.co/essays/does-each-click-of-attention-cost-a-bit-of-ourselves,/u/unbalancedparentheses,2
-0,2017-12-10 22:47:36 -0600,['/t/programming'],Design Principles,https://principles.design/,/u/av,5
-0,2017-12-11 00:34:15 -0600,"['/t/pdf', '/t/culture', '/t/programming']",What Makes A Great Software Engineer?,https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf,/u/av,6
-0,2017-12-10 11:50:05 -0600,"['/t/privacy', '/t/security']",Improve Your Privacy in the Age of Mass Surveillance,https://IoTdarwinAward.com/post/improve-your-privacy-in-age-of-mass-surveillance/,/u/dmendek,13
-0,2017-12-11 05:51:35 -0600,"['/t/reversing', '/t/security']",BlueSteal: Popping GATT Safes,https://www.twosixlabs.com/bluesteal-popping-gatt-safes/,/u/calvin,1
-0,2017-12-10 08:09:09 -0600,"['/t/formalmethods', '/t/haskell']",Finding bugs in Haskell code by proving it,https://www.joachim-breitner.de/blog/734-Finding_bugs_in_Haskell_code_by_proving_it,/u/pushcx,18
-0,2017-12-10 09:05:48 -0600,"['/t/compsci', '/t/education']",Learn Anything White Paper,https://github.com/learn-anything/learn-anything/wiki/White-Paper,/u/nikivi,7
-1,2017-12-10 08:03:21 -0600,['/t/c++'],Improving compile times of C++ code,http://zverovich.net/2017/12/09/improving-compile-times.html,/u/calvin,10
-0,2017-12-10 08:23:13 -0600,['/t/programming'],An Archaeology-Inspired Database,http://www.aosabook.org/en/500L/an-archaeology-inspired-database.html,/u/Yogthos,10
-30,2017-12-09 12:09:32 -0600,"['/t/ask', '/t/education']","Lobsters, What Programming/Engineering Toys/Gifts do you Recommend for Children",/s/8el9og/lobsters_what_programming_engineering,/u/jshumway,24
-2,2017-12-10 10:55:33 -0600,['/t/education'],The 2017 Christmas List of Best STEM Toys for kids - Scott Hanselman,https://www.hanselman.com/blog/The2017ChristmasListOfBestSTEMToysForKids.aspx,/u/jtolds,5
-0,2017-12-10 12:08:03 -0600,"['/t/browsers', '/t/security']",Detecting HTTPS Interception,https://caddyserver.com/docs/mitm-detection,/u/tobym,6
-5,2017-12-09 10:33:23 -0600,"['/t/databases', '/t/law', '/t/person']",That time Larry Ellison tried to have a professor fired for benchmarking Oracle,https://danluu.com/anon-benchmark/,/u/av,71
-0,2017-12-10 18:27:45 -0600,['/t/practices'],Innovating Faster on Personalization Algorithms at Netflix Using Interleaving,https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55,/u/calvin,2
-51,2017-12-09 15:41:08 -0600,"['/t/ask', '/t/devops']",Continuous integration services for open-source projects not requiring config in root of repository?,/s/v6vmqs/continuous_integration_services_for,/u/przemoc,9
-0,2017-12-09 19:52:25 -0600,"['/t/javascript', '/t/release', '/t/web']",Tau Prolog: A Prolog interpreter in JavaScript,http://tau-prolog.org/,/u/mjn,13
-13,2017-12-09 14:09:30 -0600,['/t/cryptocurrencies'],The Problem with Calling Bitcoin a “Ponzi Scheme”,https://prestonbyrne.com/2017/12/08/bitcoin_ponzi/,/u/asthasr,10
-0,2017-12-10 06:37:30 -0600,"['/t/design', '/t/javascript', '/t/programming', '/t/web']",Announcing Ant Design 3.0,https://medium.com/ant-design/announcing-ant-design-3-0-70e3e65eca0c,/u/afc163,1
-8,2017-12-09 19:41:15 -0600,"['/t/openbsd', '/t/rant']",Re: Include hostname in shell prompts by default,https://marc.info/?l=openbsd-tech&m=151284802201397&w=2,/u/cnst,15
-11,2017-12-09 07:05:43 -0600,['/t/java'],Avoid getters and setters whenever possible,https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m,/u/calvin,14
+0,2017-12-11 21:05:14 -0600,"/t/culture,/t/law",Context on Conservancy's Filing for Summary Judgment with the TTAB,https://sfconservancy.org/blog/2017/dec/11/ttab-summary-judgment-motion/,/u/colindean,1
+4,2017-12-10 18:29:37 -0600,"/t/c,/t/programming",Building C Programs,http://seenaburns.com/building-c-programs/,/u/calvin,11
+0,2017-12-11 07:59:27 -0600,/t/distributed,Fundamental challenges with public blockchains,https://medium.com/@preethikasireddy/fundamental-challenges-with-public-blockchains-253c800e9428,/u/pushcx,3
+3,2017-12-10 16:25:39 -0600,/t/programming,Undoing the harm of layers,https://nrkbeta.no/2017/04/29/undoing-the-harm-of-layers/,/u/data_hope,13
+0,2017-12-11 12:58:30 -0600,/t/compsci,CuriOS: Improving Reliability through Operating System Structure (2008),https://www.usenix.org/legacy/events/osdi08/tech/full_papers/david/david_html/index.html,/u/nickpsecurity,1
+0,2017-12-11 08:41:29 -0600,"/t/finance,/t/privacy",The attention economy,https://aeon.co/essays/does-each-click-of-attention-cost-a-bit-of-ourselves,/u/unbalancedparentheses,2
+0,2017-12-10 22:47:36 -0600,/t/programming,Design Principles,https://principles.design/,/u/av,5
+0,2017-12-11 00:34:15 -0600,"/t/pdf,/t/culture,/t/programming",What Makes A Great Software Engineer?,https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf,/u/av,6
+0,2017-12-10 11:50:05 -0600,"/t/privacy,/t/security",Improve Your Privacy in the Age of Mass Surveillance,https://IoTdarwinAward.com/post/improve-your-privacy-in-age-of-mass-surveillance/,/u/dmendek,13
+0,2017-12-11 05:51:35 -0600,"/t/reversing,/t/security",BlueSteal: Popping GATT Safes,https://www.twosixlabs.com/bluesteal-popping-gatt-safes/,/u/calvin,1
+0,2017-12-10 08:09:09 -0600,"/t/formalmethods,/t/haskell",Finding bugs in Haskell code by proving it,https://www.joachim-breitner.de/blog/734-Finding_bugs_in_Haskell_code_by_proving_it,/u/pushcx,18
+0,2017-12-10 09:05:48 -0600,"/t/compsci,/t/education",Learn Anything White Paper,https://github.com/learn-anything/learn-anything/wiki/White-Paper,/u/nikivi,7
+1,2017-12-10 08:03:21 -0600,/t/c++,Improving compile times of C++ code,http://zverovich.net/2017/12/09/improving-compile-times.html,/u/calvin,10
+0,2017-12-10 08:23:13 -0600,/t/programming,An Archaeology-Inspired Database,http://www.aosabook.org/en/500L/an-archaeology-inspired-database.html,/u/Yogthos,10
+30,2017-12-09 12:09:32 -0600,"/t/ask,/t/education","Lobsters, What Programming/Engineering Toys/Gifts do you Recommend for Children",/s/8el9og/lobsters_what_programming_engineering,/u/jshumway,24
+2,2017-12-10 10:55:33 -0600,/t/education,The 2017 Christmas List of Best STEM Toys for kids - Scott Hanselman,https://www.hanselman.com/blog/The2017ChristmasListOfBestSTEMToysForKids.aspx,/u/jtolds,5
+0,2017-12-10 12:08:03 -0600,"/t/browsers,/t/security",Detecting HTTPS Interception,https://caddyserver.com/docs/mitm-detection,/u/tobym,6
+5,2017-12-09 10:33:23 -0600,"/t/databases,/t/law,/t/person",That time Larry Ellison tried to have a professor fired for benchmarking Oracle,https://danluu.com/anon-benchmark/,/u/av,71
+0,2017-12-10 18:27:45 -0600,/t/practices,Innovating Faster on Personalization Algorithms at Netflix Using Interleaving,https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55,/u/calvin,2
+51,2017-12-09 15:41:08 -0600,"/t/ask,/t/devops",Continuous integration services for open-source projects not requiring config in root of repository?,/s/v6vmqs/continuous_integration_services_for,/u/przemoc,9
+0,2017-12-09 19:52:25 -0600,"/t/javascript,/t/release,/t/web",Tau Prolog: A Prolog interpreter in JavaScript,http://tau-prolog.org/,/u/mjn,13
+13,2017-12-09 14:09:30 -0600,/t/cryptocurrencies,The Problem with Calling Bitcoin a “Ponzi Scheme”,https://prestonbyrne.com/2017/12/08/bitcoin_ponzi/,/u/asthasr,10
+0,2017-12-10 06:37:30 -0600,"/t/design,/t/javascript,/t/programming,/t/web",Announcing Ant Design 3.0,https://medium.com/ant-design/announcing-ant-design-3-0-70e3e65eca0c,/u/afc163,1
+8,2017-12-09 19:41:15 -0600,"/t/openbsd,/t/rant",Re: Include hostname in shell prompts by default,https://marc.info/?l=openbsd-tech&m=151284802201397&w=2,/u/cnst,15
+11,2017-12-09 07:05:43 -0600,/t/java,Avoid getters and setters whenever possible,https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m,/u/calvin,14

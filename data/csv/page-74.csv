@@ -1,25 +1,25 @@
-0,2018-01-02 16:57:25 -0600,"['/t/debugging', '/t/hardware']",Building and fixing the Dreadbox Hades,https://insom.github.io/journal/2018/01/01/,/u/calvin,2
-0,2018-01-02 19:25:52 -0600,"['/t/dotnet', '/t/plt']",Duck Typing And Async/Await,http://blog.i3arnon.com/2018/01/02/task-enumerable-awaiter/,/u/calvin,1
-0,2018-01-01 23:17:55 -0600,['/t/ruby'],Ruby 2.5 enumerable predicates accept pattern argument,https://blog.bigbinary.com/2018/01/02/ruby-2-5-enumerable-predicates-accept-pattern-argument.html,/u/prathamesh,8
-8,2018-01-01 11:47:42 -0600,['/t/hardware'],How to build a keyboard,https://wjh.fork.sh/2018/01/01/how-to-build-a-keyboard/,/u/wjh,16
-0,2018-01-02 02:51:48 -0600,['/t/programming'],Casting in ATS,https://bluishcoder.co.nz/2018/01/02/casting-in-ats.html,/u/doublec,5
-6,2018-01-01 20:05:49 -0600,"['/t/ask', '/t/programming']",Need advise on where to build a BBS/Chat like service for a like-minded group across school systems.,/s/hq9lne/need_advise_on_where_build_bbs_chat_like,/u/Usermac,5
-1,2018-01-02 10:31:23 -0600,['/t/science'],Single metalens focuses all colors of the rainbow in one point,https://www.seas.harvard.edu/news/2018/01/single-metalens-focuses-all-colors-of-rainbow-in-one-point,/u/Yogthos,2
-0,2018-01-02 10:30:54 -0600,"['/t/games', '/t/programming']",Writing a platformer for the TIC-80 fantasy console,https://medium.com/@btco_code/writing-a-platformer-for-the-tic-80-virtual-console-6fa737abe476,/u/Yogthos,3
-0,2018-01-02 17:57:01 -0600,"['/t/philosophy', '/t/rant']",Trajectories for the future of software,https://medium.com/@enkiv2/trajectories-for-the-future-of-software-34f06b8c8fc7,/u/calvin,2
-0,2018-01-02 11:56:42 -0600,['/t/programming'],High-Performance Tensor Library in Nim (2017),https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/,/u/nickpsecurity,2
-3,2018-01-02 10:37:59 -0600,"['/t/video', '/t/python']",What Does It Take To Be An Expert At Python?,https://www.youtube.com/watch?v=7lmCu8wz8ro,/u/unbalancedparentheses,1
-16,2018-01-01 13:27:11 -0600,"['/t/distributed', '/t/web']",The Decentralized Web,http://dci.mit.edu/decentralizedweb,/u/calvin,13
-0,2018-01-02 13:20:39 -0600,"['/t/assembly', '/t/historical']",There’s Another Possibility,http://www.os2museum.com/wp/theres-another-possibility/,/u/calvin,1
-0,2018-01-01 22:52:06 -0600,['/t/linux'],Happy New Year- Welcome to Linux Journal 2.0,http://www.linuxjournal.com/content/happy-new-year-linux-journal-alive,/u/nanxiao,8
-0,2018-01-02 08:34:46 -0600,['/t/ai'],Halite AI Programming Challenge,https://halite.io//,/u/unbalancedparentheses,2
-0,2018-01-02 06:55:18 -0600,['/t/philosophy'],What I Learned in 2017,https://chrisshort.net/what-i-learned-in-2017/,/u/ChrisShort,1
-0,2018-01-01 20:41:35 -0600,"['/t/assembly', '/t/reversing']",ropchain,http://www.kvakil.me/posts/ropchain/,/u/calvin,9
-3,2018-01-01 14:33:29 -0600,['/t/linux'],"""The Story About Ping""",https://www.amazon.co.uk/gp/customer-reviews/R2GHTSB9P55XPQ/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=0448482320,/u/maxhallinan,10
-3,2017-12-31 18:43:04 -0600,"['/t/hardware', '/t/linux', '/t/security']",The mysterious case of the Linux Page Table Isolation patches,http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table,/u/dw,66
-0,2018-01-02 03:15:06 -0600,['/t/reversing'],A Journey Into Capcom's CPS2 Silicon - Part 2,http://arcadehacker.blogspot.com/2018/01/a-journey-into-capcoms-cps2-silicon.html,/u/evadot,3
-0,2018-01-02 10:55:28 -0600,"['/t/ai', '/t/devops']",Deploy Keras Image Recognition ML Models to the Web,https://www.helmspoint.com/?s=lob,/u/iamwil,0
-1,2018-01-01 21:39:18 -0600,['/t/practices'],26 Lessons From Being a Developer at a Startup,http://blog.stephanbehnke.com/26-lessons-from-being-a-developer-at-a-startup/,/u/adsouza,5
-4,2018-01-01 13:47:57 -0600,['/t/hardware'],GPD Pocket: The Nokia n810/n900 live!,https://kemonine.info/2018-01-01-gpd_pocket/,/u/jackivan88,7
-41,2018-01-01 00:43:14 -0600,"['/t/ask', '/t/meta']","Crustaceans, what are your new year's resolutions? [2018]",/s/8bfrm3/crustaceans_what_are_your_new_year_s,/u/av,24
-2,2018-01-01 06:08:16 -0600,"['/t/devops', '/t/linux', '/t/security']",Deconstructing containers and examples to understand them better,https://blog.kintoandar.com/2018/01/Building-healthier-containers.html,/u/kintoandar,11
+0,2018-01-02 16:57:25 -0600,"/t/debugging,/t/hardware",Building and fixing the Dreadbox Hades,https://insom.github.io/journal/2018/01/01/,/u/calvin,2
+0,2018-01-02 19:25:52 -0600,"/t/dotnet,/t/plt",Duck Typing And Async/Await,http://blog.i3arnon.com/2018/01/02/task-enumerable-awaiter/,/u/calvin,1
+0,2018-01-01 23:17:55 -0600,/t/ruby,Ruby 2.5 enumerable predicates accept pattern argument,https://blog.bigbinary.com/2018/01/02/ruby-2-5-enumerable-predicates-accept-pattern-argument.html,/u/prathamesh,8
+8,2018-01-01 11:47:42 -0600,/t/hardware,How to build a keyboard,https://wjh.fork.sh/2018/01/01/how-to-build-a-keyboard/,/u/wjh,16
+0,2018-01-02 02:51:48 -0600,/t/programming,Casting in ATS,https://bluishcoder.co.nz/2018/01/02/casting-in-ats.html,/u/doublec,5
+6,2018-01-01 20:05:49 -0600,"/t/ask,/t/programming",Need advise on where to build a BBS/Chat like service for a like-minded group across school systems.,/s/hq9lne/need_advise_on_where_build_bbs_chat_like,/u/Usermac,5
+1,2018-01-02 10:31:23 -0600,/t/science,Single metalens focuses all colors of the rainbow in one point,https://www.seas.harvard.edu/news/2018/01/single-metalens-focuses-all-colors-of-rainbow-in-one-point,/u/Yogthos,2
+0,2018-01-02 10:30:54 -0600,"/t/games,/t/programming",Writing a platformer for the TIC-80 fantasy console,https://medium.com/@btco_code/writing-a-platformer-for-the-tic-80-virtual-console-6fa737abe476,/u/Yogthos,3
+0,2018-01-02 17:57:01 -0600,"/t/philosophy,/t/rant",Trajectories for the future of software,https://medium.com/@enkiv2/trajectories-for-the-future-of-software-34f06b8c8fc7,/u/calvin,2
+0,2018-01-02 11:56:42 -0600,/t/programming,High-Performance Tensor Library in Nim (2017),https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/,/u/nickpsecurity,2
+3,2018-01-02 10:37:59 -0600,"/t/video,/t/python",What Does It Take To Be An Expert At Python?,https://www.youtube.com/watch?v=7lmCu8wz8ro,/u/unbalancedparentheses,1
+16,2018-01-01 13:27:11 -0600,"/t/distributed,/t/web",The Decentralized Web,http://dci.mit.edu/decentralizedweb,/u/calvin,13
+0,2018-01-02 13:20:39 -0600,"/t/assembly,/t/historical",There’s Another Possibility,http://www.os2museum.com/wp/theres-another-possibility/,/u/calvin,1
+0,2018-01-01 22:52:06 -0600,/t/linux,Happy New Year- Welcome to Linux Journal 2.0,http://www.linuxjournal.com/content/happy-new-year-linux-journal-alive,/u/nanxiao,8
+0,2018-01-02 08:34:46 -0600,/t/ai,Halite AI Programming Challenge,https://halite.io//,/u/unbalancedparentheses,2
+0,2018-01-02 06:55:18 -0600,/t/philosophy,What I Learned in 2017,https://chrisshort.net/what-i-learned-in-2017/,/u/ChrisShort,1
+0,2018-01-01 20:41:35 -0600,"/t/assembly,/t/reversing",ropchain,http://www.kvakil.me/posts/ropchain/,/u/calvin,9
+3,2018-01-01 14:33:29 -0600,/t/linux,"""The Story About Ping""",https://www.amazon.co.uk/gp/customer-reviews/R2GHTSB9P55XPQ/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=0448482320,/u/maxhallinan,10
+3,2017-12-31 18:43:04 -0600,"/t/hardware,/t/linux,/t/security",The mysterious case of the Linux Page Table Isolation patches,http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table,/u/dw,66
+0,2018-01-02 03:15:06 -0600,/t/reversing,A Journey Into Capcom's CPS2 Silicon - Part 2,http://arcadehacker.blogspot.com/2018/01/a-journey-into-capcoms-cps2-silicon.html,/u/evadot,3
+0,2018-01-02 10:55:28 -0600,"/t/ai,/t/devops",Deploy Keras Image Recognition ML Models to the Web,https://www.helmspoint.com/?s=lob,/u/iamwil,0
+1,2018-01-01 21:39:18 -0600,/t/practices,26 Lessons From Being a Developer at a Startup,http://blog.stephanbehnke.com/26-lessons-from-being-a-developer-at-a-startup/,/u/adsouza,5
+4,2018-01-01 13:47:57 -0600,/t/hardware,GPD Pocket: The Nokia n810/n900 live!,https://kemonine.info/2018-01-01-gpd_pocket/,/u/jackivan88,7
+41,2018-01-01 00:43:14 -0600,"/t/ask,/t/meta","Crustaceans, what are your new year's resolutions? [2018]",/s/8bfrm3/crustaceans_what_are_your_new_year_s,/u/av,24
+2,2018-01-01 06:08:16 -0600,"/t/devops,/t/linux,/t/security",Deconstructing containers and examples to understand them better,https://blog.kintoandar.com/2018/01/Building-healthier-containers.html,/u/kintoandar,11

@@ -1,25 +1,25 @@
-0,2017-02-21 15:41:57 -0600,['/t/science'],European Space Agency announces new Open Access Policy for Images and Data,https://creativecommons.org/2017/02/21/esa-oa/,/u/pizzaiolo,1
-0,2017-02-21 11:42:07 -0600,"['/t/openbsd', '/t/release', '/t/unix']",mandoc-1.14.1 released,http://undeadly.org/cgi?action=article&sid=20170221140445,/u/stsp,2
-0,2017-02-21 10:02:34 -0600,['/t/databases'],Summary of the 1.1 Billion Taxi Rides Benchmarks,http://tech.marksblogg.com/benchmarks.html,/u/marklit,1
-0,2017-02-21 15:30:11 -0600,['/t/vcs'],How to Write a Git Commit Message [2014],https://chris.beams.io/posts/git-commit/,/u/pab,1
-0,2017-02-20 16:26:51 -0600,"['/t/compsci', '/t/programming', '/t/ruby']",Accidentally Quadratic: Ruby `reject!`,http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject,/u/ngoldbaum,21
-2,2017-02-20 12:34:30 -0600,"['/t/security', '/t/web']",Cross-Site Request Forgery is dead!,https://scotthelme.co.uk/csrf-is-dead/,/u/untitaker,21
-0,2017-02-21 19:29:15 -0600,"['/t/cogsci', '/t/culture']",On sex and AI,https://www.reddit.com/r/artificial/comments/5venjf/on_sex_and_ai/,/u/bsima,1
-5,2017-02-20 14:00:39 -0600,['/t/netbsd'],NetBSD fully reproducible builds,http://blog.netbsd.org/tnf/entry/netbsd_fully_reproducible_builds,/u/sevan,19
-0,2017-02-21 06:24:59 -0600,"['/t/graphics', '/t/linux', '/t/virtualization']",Virtual GPU support landing upstream,https://www.kraxel.org/blog/2017/01/virtual-gpu-support-landing-upstream/,/u/hawski,3
-0,2017-02-21 08:39:12 -0600,"['/t/cryptocurrencies', '/t/ml']",Tezos: A self-amending cryptographic ledger,https://github.com/tezos/tezos,/u/davyjones,2
-3,2017-02-20 14:14:57 -0600,"['/t/security', '/t/windows']",Google (Again) Discloses Windows Bug After Microsoft Fails to Patch It,http://wccftech.com/google-publicly-discloses-bug-microsoft-fails/,/u/flyingfisch,12
-0,2017-02-21 08:21:29 -0600,['/t/graphics'],DXT compression - part 4 - Entropy,http://www.jonolick.com/home/dxt-compression-part-4-entropy,/u/mikejsavage,2
-0,2017-02-21 05:35:45 -0600,"['/t/assembly', '/t/hardware', '/t/programming']",How to Enhance an SNES Game With the MSU-1 - Part 1: There is No Documentation Anywhere (2013),http://jumbocactuarx27.blogspot.com/2013/08/how-to-enhance-snes-game-with-msu-1.html,/u/calvin,3
-0,2017-02-21 12:02:07 -0600,"['/t/databases', '/t/programming']",Data denormalization is broken,https://hackernoon.com/data-denormalization-is-broken-7b697352f405,/u/pushcx,1
-0,2017-02-21 11:53:44 -0600,['/t/security'],How to Bury a Major Breach Notification,https://krebsonsecurity.com/2017/02/how-to-bury-a-major-breach-notification/,/u/355E3B,1
-0,2017-02-21 11:28:35 -0600,"['/t/video', '/t/security']",Using R to detect fraud at 1 million transactions per second,http://blog.revolutionanalytics.com/2016/09/fraud-detection.html,/u/pushcx,1
-0,2017-02-21 11:16:47 -0600,"['/t/c', '/t/programming']",C++ On Embedded Systems,http://bitbashing.io/embedded-cpp.html,/u/utzig,1
-31,2017-02-20 09:34:13 -0600,['/t/culture'],Deleting Uber is the least you can do,https://medium.com/@dhh/deleting-uber-is-the-least-you-can-do-30c0601103ea,/u/markprovan,58
-1,2017-02-21 16:11:30 -0600,['/t/culture'],"The escape from the cave, or how Plato told me to quit my job.",https://medium.com/@elkornel/the-escape-from-the-cave-or-how-plato-told-me-to-quit-my-job-a18c55fdd9b2,/u/afronski,1
-0,2017-02-21 10:36:34 -0600,"['/t/pdf', '/t/programming', '/t/science']",Community Building Through Software Design,https://jedbrown.org/files/20170221-SI2Community.pdf,/u/ngoldbaum,1
-3,2017-02-20 05:27:31 -0600,['/t/security'],using yubikeys everywhere,http://www.tedunangst.com/flak/post/using-yubikeys-everywhere,/u/calvin,29
-0,2017-02-20 21:44:10 -0600,"['/t/video', '/t/compsci', '/t/netbsd']","OS : The underlying overhead of computation, Antti Kantee",https://www.youtube.com/watch?v=LVzcQ5eSNwc,/u/sevan,5
-2,2017-02-20 13:55:22 -0600,"['/t/distributed', '/t/scaling']",Apache Kafka vs. Amazon Kinesis for High Performance Distributed Systems,https://keen.io/blog/157206265381/apache-kafka-vs-amazon-kinesis-to-build-a-high?s=lbst,/u/wetzler,7
-0,2017-02-21 06:25:26 -0600,"['/t/video', '/t/graphics']",Disney's Practical Guide to Path Tracing,https://www.youtube.com/watch?v=frLwRLS_ZR0,/u/mikejsavage,1
-0,2017-02-21 01:20:48 -0600,"['/t/python', '/t/web']",Django 1.11 beta 1 released,https://www.djangoproject.com/weblog/2017/feb/20/django-111-beta-1-released/,/u/av,2
+0,2017-02-21 15:41:57 -0600,/t/science,European Space Agency announces new Open Access Policy for Images and Data,https://creativecommons.org/2017/02/21/esa-oa/,/u/pizzaiolo,1
+0,2017-02-21 11:42:07 -0600,"/t/openbsd,/t/release,/t/unix",mandoc-1.14.1 released,http://undeadly.org/cgi?action=article&sid=20170221140445,/u/stsp,2
+0,2017-02-21 10:02:34 -0600,/t/databases,Summary of the 1.1 Billion Taxi Rides Benchmarks,http://tech.marksblogg.com/benchmarks.html,/u/marklit,1
+0,2017-02-21 15:30:11 -0600,/t/vcs,How to Write a Git Commit Message [2014],https://chris.beams.io/posts/git-commit/,/u/pab,1
+0,2017-02-20 16:26:51 -0600,"/t/compsci,/t/programming,/t/ruby",Accidentally Quadratic: Ruby `reject!`,http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject,/u/ngoldbaum,21
+2,2017-02-20 12:34:30 -0600,"/t/security,/t/web",Cross-Site Request Forgery is dead!,https://scotthelme.co.uk/csrf-is-dead/,/u/untitaker,21
+0,2017-02-21 19:29:15 -0600,"/t/cogsci,/t/culture",On sex and AI,https://www.reddit.com/r/artificial/comments/5venjf/on_sex_and_ai/,/u/bsima,1
+5,2017-02-20 14:00:39 -0600,/t/netbsd,NetBSD fully reproducible builds,http://blog.netbsd.org/tnf/entry/netbsd_fully_reproducible_builds,/u/sevan,19
+0,2017-02-21 06:24:59 -0600,"/t/graphics,/t/linux,/t/virtualization",Virtual GPU support landing upstream,https://www.kraxel.org/blog/2017/01/virtual-gpu-support-landing-upstream/,/u/hawski,3
+0,2017-02-21 08:39:12 -0600,"/t/cryptocurrencies,/t/ml",Tezos: A self-amending cryptographic ledger,https://github.com/tezos/tezos,/u/davyjones,2
+3,2017-02-20 14:14:57 -0600,"/t/security,/t/windows",Google (Again) Discloses Windows Bug After Microsoft Fails to Patch It,http://wccftech.com/google-publicly-discloses-bug-microsoft-fails/,/u/flyingfisch,12
+0,2017-02-21 08:21:29 -0600,/t/graphics,DXT compression - part 4 - Entropy,http://www.jonolick.com/home/dxt-compression-part-4-entropy,/u/mikejsavage,2
+0,2017-02-21 05:35:45 -0600,"/t/assembly,/t/hardware,/t/programming",How to Enhance an SNES Game With the MSU-1 - Part 1: There is No Documentation Anywhere (2013),http://jumbocactuarx27.blogspot.com/2013/08/how-to-enhance-snes-game-with-msu-1.html,/u/calvin,3
+0,2017-02-21 12:02:07 -0600,"/t/databases,/t/programming",Data denormalization is broken,https://hackernoon.com/data-denormalization-is-broken-7b697352f405,/u/pushcx,1
+0,2017-02-21 11:53:44 -0600,/t/security,How to Bury a Major Breach Notification,https://krebsonsecurity.com/2017/02/how-to-bury-a-major-breach-notification/,/u/355E3B,1
+0,2017-02-21 11:28:35 -0600,"/t/video,/t/security",Using R to detect fraud at 1 million transactions per second,http://blog.revolutionanalytics.com/2016/09/fraud-detection.html,/u/pushcx,1
+0,2017-02-21 11:16:47 -0600,"/t/c,/t/programming",C++ On Embedded Systems,http://bitbashing.io/embedded-cpp.html,/u/utzig,1
+31,2017-02-20 09:34:13 -0600,/t/culture,Deleting Uber is the least you can do,https://medium.com/@dhh/deleting-uber-is-the-least-you-can-do-30c0601103ea,/u/markprovan,58
+1,2017-02-21 16:11:30 -0600,/t/culture,"The escape from the cave, or how Plato told me to quit my job.",https://medium.com/@elkornel/the-escape-from-the-cave-or-how-plato-told-me-to-quit-my-job-a18c55fdd9b2,/u/afronski,1
+0,2017-02-21 10:36:34 -0600,"/t/pdf,/t/programming,/t/science",Community Building Through Software Design,https://jedbrown.org/files/20170221-SI2Community.pdf,/u/ngoldbaum,1
+3,2017-02-20 05:27:31 -0600,/t/security,using yubikeys everywhere,http://www.tedunangst.com/flak/post/using-yubikeys-everywhere,/u/calvin,29
+0,2017-02-20 21:44:10 -0600,"/t/video,/t/compsci,/t/netbsd","OS : The underlying overhead of computation, Antti Kantee",https://www.youtube.com/watch?v=LVzcQ5eSNwc,/u/sevan,5
+2,2017-02-20 13:55:22 -0600,"/t/distributed,/t/scaling",Apache Kafka vs. Amazon Kinesis for High Performance Distributed Systems,https://keen.io/blog/157206265381/apache-kafka-vs-amazon-kinesis-to-build-a-high?s=lbst,/u/wetzler,7
+0,2017-02-21 06:25:26 -0600,"/t/video,/t/graphics",Disney's Practical Guide to Path Tracing,https://www.youtube.com/watch?v=frLwRLS_ZR0,/u/mikejsavage,1
+0,2017-02-21 01:20:48 -0600,"/t/python,/t/web",Django 1.11 beta 1 released,https://www.djangoproject.com/weblog/2017/feb/20/django-111-beta-1-released/,/u/av,2

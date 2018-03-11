@@ -1,25 +1,25 @@
-2,2016-02-01 00:43:15 -0600,"['/t/distributed', '/t/release']",Ring,https://ring.cx/en,/u/jan,12
-2,2016-01-31 15:19:51 -0600,"['/t/security', '/t/vcs']",Git integrity,https://groups.google.com/forum/#!topic/binary-transparency/f-BI4o8HZW0,/u/effdee,28
-0,2016-02-01 16:59:50 -0600,"['/t/video', '/t/compsci']",Four Solutions to a Trivial Problem,https://www.youtube.com/watch?v=ftcIcn8AmSY,/u/pushcx,1
-2,2016-01-31 13:53:39 -0600,['/t/security'],"Pssst, Your PGP Is Leaking",http://motherboard.vice.com/read/pssst-your-pgp-is-leaking,/u/numberten,14
-0,2016-02-01 12:46:43 -0600,"['/t/graphics', '/t/historical']",Interview: Adobe’s Stephen Nielson discusses the evolution of Photoshop,http://www.webdesignerdepot.com/2016/02/interview-adobes-stephen-nielson-discusses-the-evolution-of-photoshop/,/u/flyingfisch,1
-0,2016-02-01 11:38:09 -0600,['/t/ruby'],Trailblazer: Newsletter January 2016,http://trailblazer.to/newsletter/2016-january.html,/u/355E3B,1
-1,2016-01-31 22:35:17 -0600,['/t/programming'],Hierarchy of Software Needs,http://naildrivin5.com/blog/2016/01/13/hierarchy-of-software-needs.html,/u/karlinfox,5
-0,2016-01-31 23:07:02 -0600,['/t/scaling'],Design of a Modern Cache,http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html,/u/awreece,6
-0,2016-02-01 12:34:55 -0600,['/t/culture'],Effectively Contributing To Technical Discussions,https://medium.com/@meganmarie610/effectively-contributing-to-technical-discussions-e4be5f367412,/u/dpaola2,2
-0,2016-01-31 23:45:06 -0600,['/t/security'],Smashing the Stack for Fun & Profit : Revived,http://avicoder.me/2016/02/01/smashsatck-revived/,/u/awreece,5
-7,2016-01-31 07:25:21 -0600,"['/t/haskell', '/t/vim']",Vim and Haskell in 2016,http://www.stephendiehl.com/posts/vim_2016.html,/u/pushcx,22
-1,2016-01-31 21:13:31 -0600,"['/t/mac', '/t/security']",Sky Not Falling: Sparklegate Not As Bad As It Could Be,https://www.taoeffect.com/blog/2016/01/sky-not-falling-sparklegate-not-as-bad-as-it-could-be/,/u/itistoday,6
-0,2016-02-01 08:10:35 -0600,"['/t/design', '/t/historical']",Graphical User Interface Timeline,http://toastytech.com/guis/guitimeline.html,/u/flyingfisch,1
-0,2016-02-01 08:06:46 -0600,"['/t/design', '/t/practices', '/t/web']",Critical Web Fonts,http://www.zachleat.com/web/critical-webfonts/,/u/flyingfisch,1
-1,2016-01-31 18:41:56 -0600,['/t/hardware'],Microsoft Plumbs Ocean’s Depths to Test Underwater Data Center,http://www.nytimes.com/2016/02/01/technology/microsoft-plumbs-oceans-depths-to-test-underwater-data-center.html,/u/djm,5
-0,2016-02-01 12:39:23 -0600,['/t/windows'],Microsoft debuts new bring-your-own Windows Server license,http://buff.ly/1TxkoFb,/u/JeremyMorgan,0
-1,2016-01-31 12:14:57 -0600,"['/t/api', '/t/erlang', '/t/networking']",Controlling Sound with OSC Messages,http://joearms.github.io/2016/01/29/Controlling-Sound-with-OSC-Messages.html,/u/antifuchs,9
-4,2016-01-30 22:31:54 -0600,['/t/networking'],Why use www? – www. is not deprecated,http://www.yes-www.org/why-use-www/,/u/derekprior,28
-0,2016-01-31 19:59:51 -0600,"['/t/design', '/t/web']",Great tool for Bootstrap CSS prototyping,http://pingendo.com/,/u/JeremyMorgan,4
-2,2016-01-31 10:12:05 -0600,"['/t/javascript', '/t/web']",ES2016 Features & ECMAScript as a Living Standard,https://ponyfoo.com/articles/es2016-features-and-ecmascript-as-a-living-standard,/u/ponyfoo,4
-1,2016-01-31 01:35:44 -0600,['/t/privacy'],"I accidentally uploaded your personal information, and I'm sorry",http://users.livejournal.com/joshua_/61105.html,/u/antifuchs,26
-3,2016-01-31 07:56:53 -0600,['/t/programming'],Why Programming is Difficult,http://joearms.github.io/2014/02/07/why-programming-is-difficult.html,/u/av,9
-0,2016-01-31 07:39:17 -0600,['/t/web'],IRCv3: advance the IRC protocol,https://blog.irccloud.com/ircv3/,/u/av,10
-1,2016-01-31 07:54:03 -0600,['/t/swift'],Is It Time for Swift?,https://realm.io/news/ben-sandofsky-time-for-swift/,/u/av,7
-2,2016-01-31 08:05:45 -0600,"['/t/design', '/t/mobile', '/t/windows']","Windows Mobile called, it wants all of its features back",http://pocketnow.com/2016/01/27/windows-mobile-called-it-wants-all-of-its-features-back,/u/calvin,5
+2,2016-02-01 00:43:15 -0600,"/t/distributed,/t/release",Ring,https://ring.cx/en,/u/jan,12
+2,2016-01-31 15:19:51 -0600,"/t/security,/t/vcs",Git integrity,https://groups.google.com/forum/#!topic/binary-transparency/f-BI4o8HZW0,/u/effdee,28
+0,2016-02-01 16:59:50 -0600,"/t/video,/t/compsci",Four Solutions to a Trivial Problem,https://www.youtube.com/watch?v=ftcIcn8AmSY,/u/pushcx,1
+2,2016-01-31 13:53:39 -0600,/t/security,"Pssst, Your PGP Is Leaking",http://motherboard.vice.com/read/pssst-your-pgp-is-leaking,/u/numberten,14
+0,2016-02-01 12:46:43 -0600,"/t/graphics,/t/historical",Interview: Adobe’s Stephen Nielson discusses the evolution of Photoshop,http://www.webdesignerdepot.com/2016/02/interview-adobes-stephen-nielson-discusses-the-evolution-of-photoshop/,/u/flyingfisch,1
+0,2016-02-01 11:38:09 -0600,/t/ruby,Trailblazer: Newsletter January 2016,http://trailblazer.to/newsletter/2016-january.html,/u/355E3B,1
+1,2016-01-31 22:35:17 -0600,/t/programming,Hierarchy of Software Needs,http://naildrivin5.com/blog/2016/01/13/hierarchy-of-software-needs.html,/u/karlinfox,5
+0,2016-01-31 23:07:02 -0600,/t/scaling,Design of a Modern Cache,http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html,/u/awreece,6
+0,2016-02-01 12:34:55 -0600,/t/culture,Effectively Contributing To Technical Discussions,https://medium.com/@meganmarie610/effectively-contributing-to-technical-discussions-e4be5f367412,/u/dpaola2,2
+0,2016-01-31 23:45:06 -0600,/t/security,Smashing the Stack for Fun & Profit : Revived,http://avicoder.me/2016/02/01/smashsatck-revived/,/u/awreece,5
+7,2016-01-31 07:25:21 -0600,"/t/haskell,/t/vim",Vim and Haskell in 2016,http://www.stephendiehl.com/posts/vim_2016.html,/u/pushcx,22
+1,2016-01-31 21:13:31 -0600,"/t/mac,/t/security",Sky Not Falling: Sparklegate Not As Bad As It Could Be,https://www.taoeffect.com/blog/2016/01/sky-not-falling-sparklegate-not-as-bad-as-it-could-be/,/u/itistoday,6
+0,2016-02-01 08:10:35 -0600,"/t/design,/t/historical",Graphical User Interface Timeline,http://toastytech.com/guis/guitimeline.html,/u/flyingfisch,1
+0,2016-02-01 08:06:46 -0600,"/t/design,/t/practices,/t/web",Critical Web Fonts,http://www.zachleat.com/web/critical-webfonts/,/u/flyingfisch,1
+1,2016-01-31 18:41:56 -0600,/t/hardware,Microsoft Plumbs Ocean’s Depths to Test Underwater Data Center,http://www.nytimes.com/2016/02/01/technology/microsoft-plumbs-oceans-depths-to-test-underwater-data-center.html,/u/djm,5
+0,2016-02-01 12:39:23 -0600,/t/windows,Microsoft debuts new bring-your-own Windows Server license,http://buff.ly/1TxkoFb,/u/JeremyMorgan,0
+1,2016-01-31 12:14:57 -0600,"/t/api,/t/erlang,/t/networking",Controlling Sound with OSC Messages,http://joearms.github.io/2016/01/29/Controlling-Sound-with-OSC-Messages.html,/u/antifuchs,9
+4,2016-01-30 22:31:54 -0600,/t/networking,Why use www? – www. is not deprecated,http://www.yes-www.org/why-use-www/,/u/derekprior,28
+0,2016-01-31 19:59:51 -0600,"/t/design,/t/web",Great tool for Bootstrap CSS prototyping,http://pingendo.com/,/u/JeremyMorgan,4
+2,2016-01-31 10:12:05 -0600,"/t/javascript,/t/web",ES2016 Features & ECMAScript as a Living Standard,https://ponyfoo.com/articles/es2016-features-and-ecmascript-as-a-living-standard,/u/ponyfoo,4
+1,2016-01-31 01:35:44 -0600,/t/privacy,"I accidentally uploaded your personal information, and I'm sorry",http://users.livejournal.com/joshua_/61105.html,/u/antifuchs,26
+3,2016-01-31 07:56:53 -0600,/t/programming,Why Programming is Difficult,http://joearms.github.io/2014/02/07/why-programming-is-difficult.html,/u/av,9
+0,2016-01-31 07:39:17 -0600,/t/web,IRCv3: advance the IRC protocol,https://blog.irccloud.com/ircv3/,/u/av,10
+1,2016-01-31 07:54:03 -0600,/t/swift,Is It Time for Swift?,https://realm.io/news/ben-sandofsky-time-for-swift/,/u/av,7
+2,2016-01-31 08:05:45 -0600,"/t/design,/t/mobile,/t/windows","Windows Mobile called, it wants all of its features back",http://pocketnow.com/2016/01/27/windows-mobile-called-it-wants-all-of-its-features-back,/u/calvin,5

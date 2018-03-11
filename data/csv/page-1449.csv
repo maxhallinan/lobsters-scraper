@@ -1,25 +1,25 @@
-1,2013-10-01 08:05:04 -0500,['/t/c'],Efficient custom C allocators,https://techtalk.intersec.com/2013/10/memory-part-4-intersecs-custom-allocators/,/u/kyle,9
-0,2013-10-01 20:50:00 -0500,['/t/release'],Precog: (Now) Open-Source Platform for Analytics,http://precog.com/,/u/puffnfresh,2
-0,2013-10-01 17:14:41 -0500,['/t/privacy'],"Your Privacy Is Not Our Responsibility, Says Verizon Exec","http://www.tomsguide.com/us/marcus-sachs-verizon-interview,news-17618.html",/u/journeysquid,1
-0,2013-10-01 17:14:26 -0500,['/t/security'],"Fingerprints are Usernames, not Passwords",http://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html,/u/journeysquid,2
-0,2013-10-02 02:59:12 -0500,['/t/javascript'],Building Multiplayer Games with Node.js and Socket.IO,http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/,/u/remotesynth,0
-0,2013-10-01 16:37:07 -0500,['/t/design'],Cubehero launches support for all six creative commons licenses,http://blog.cubehero.com/2013/10/01/cubehero-launches-support-for-all-six-creative-commons-licenses/,/u/iamwil,1
-0,2013-09-30 23:31:56 -0500,"['/t/release', '/t/web']",Google Web Designer,https://www.google.com/webdesigner/index.html#features-cont,/u/anupshinde,3
-0,2013-09-30 13:10:22 -0500,['/t/freebsd'],FreeBSD 9.2-RELEASE Now Available,http://lists.freebsd.org/pipermail/freebsd-announce/2013-September/001504.html,/u/journeysquid,9
-0,2013-09-30 10:37:08 -0500,['/t/security'],Silent Circle Moving Away From NIST Ciphers in Wake of NSA Revelations,http://threatpost.com/silent-circle-moving-away-from-nist-ciphers-in-wake-of-nsa-revelations/102452,/u/jcs,5
-0,2013-09-30 15:25:16 -0500,"['/t/hardware', '/t/virtualization']",Amazon EC2 Cloud Benchmarks Against Bare Metal Systems,http://www.phoronix.com/vr.php?view=19153,/u/journeysquid,1
-0,2013-09-30 08:23:20 -0500,['/t/go'],"Go Hadoop! Err, Hadoop and Go.",http://hortonworks.com/blog/go-hadoop-err-hadoop-and-go/,/u/journeysquid,3
-0,2013-09-30 08:49:03 -0500,['/t/javascript'],Rethinking JavaScript’s Try/Catch,http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/,/u/remotesynth,0
-0,2013-09-29 10:35:42 -0500,"['/t/slides', '/t/openbsd', '/t/unix']",Going long long on time_t,http://www.openbsd.org/papers/eurobsdcon_2013_time_t/,/u/jcs,7
-0,2013-09-29 09:44:03 -0500,['/t/security'],Why the Web of Trust Sucks,https://lists.torproject.org/pipermail/tor-talk/2013-September/030235.html,/u/jcs,7
-0,2013-09-29 02:55:52 -0500,['/t/javascript'],Bootstrap Form builder,http://www.anupshinde.com/posts/form-builder-part-2/,/u/anupshinde,2
-0,2013-09-28 20:26:03 -0500,"['/t/hardware', '/t/programming']",ARM64 and You,http://www.mikeash.com/pyblog/friday-qa-2013-09-27-arm64-and-you.html,/u/journeysquid,4
-0,2013-09-29 03:04:03 -0500,['/t/javascript'],Nirman - Yet another flexible static site generator for NodeJS,https://github.com/anupshinde/nirman,/u/anupshinde,1
-0,2013-09-29 02:58:11 -0500,['/t/javascript'],Adding dependencies and data to Node-NPM package,http://www.anupshinde.com/posts/adding-dependencies-data-nodejs-npm-package/,/u/anupshinde,1
-0,2013-09-29 02:57:14 -0500,['/t/browsers'],Chrome has updated - How to fix the changed New Tab page,http://www.anupshinde.com/posts/chrome-update-new-tab-apps/,/u/anupshinde,1
-0,2013-09-28 16:25:45 -0500,['/t/show'],Show Lobsters: custom CSS/JS for Jenkins,https://github.com/kevinburke/doony,/u/kb,3
-0,2013-09-29 02:58:52 -0500,['/t/networking'],How to move your Domain to DigitalOcean without changing your Name Servers,http://www.anupshinde.com/posts/digitalocean-vps-custom-domain-without-nameserver-change/,/u/anupshinde,0
-3,2013-09-28 08:38:42 -0500,"['/t/javascript', '/t/rant']",We don't want your Coffee,http://blog.ponyfoo.com/2013/09/28/we-dont-want-your-coffee,/u/bevacqua,5
-1,2013-09-27 20:04:47 -0500,"['/t/pdf', '/t/hardware']",The Slow Winter,https://www.usenix.org/system/files/1309_14-17_mickens.pdf,/u/kyle,3
-0,2013-09-27 23:07:20 -0500,"['/t/pdf', '/t/php']",Taking PHP Seriously,https://raw.github.com/strangeloop/StrangeLoop2013/master/slides/sessions/Adams-TakingPHPSeriously.pdf,/u/kb,2
-0,2013-09-27 19:37:14 -0500,"['/t/networking', '/t/security']",DetecTor: client side SSL/TLS MITM detection through Tor,http://detector.io/,/u/jcs,3
+1,2013-10-01 08:05:04 -0500,/t/c,Efficient custom C allocators,https://techtalk.intersec.com/2013/10/memory-part-4-intersecs-custom-allocators/,/u/kyle,9
+0,2013-10-01 20:50:00 -0500,/t/release,Precog: (Now) Open-Source Platform for Analytics,http://precog.com/,/u/puffnfresh,2
+0,2013-10-01 17:14:41 -0500,/t/privacy,"Your Privacy Is Not Our Responsibility, Says Verizon Exec","http://www.tomsguide.com/us/marcus-sachs-verizon-interview,news-17618.html",/u/journeysquid,1
+0,2013-10-01 17:14:26 -0500,/t/security,"Fingerprints are Usernames, not Passwords",http://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html,/u/journeysquid,2
+0,2013-10-02 02:59:12 -0500,/t/javascript,Building Multiplayer Games with Node.js and Socket.IO,http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/,/u/remotesynth,0
+0,2013-10-01 16:37:07 -0500,/t/design,Cubehero launches support for all six creative commons licenses,http://blog.cubehero.com/2013/10/01/cubehero-launches-support-for-all-six-creative-commons-licenses/,/u/iamwil,1
+0,2013-09-30 23:31:56 -0500,"/t/release,/t/web",Google Web Designer,https://www.google.com/webdesigner/index.html#features-cont,/u/anupshinde,3
+0,2013-09-30 13:10:22 -0500,/t/freebsd,FreeBSD 9.2-RELEASE Now Available,http://lists.freebsd.org/pipermail/freebsd-announce/2013-September/001504.html,/u/journeysquid,9
+0,2013-09-30 10:37:08 -0500,/t/security,Silent Circle Moving Away From NIST Ciphers in Wake of NSA Revelations,http://threatpost.com/silent-circle-moving-away-from-nist-ciphers-in-wake-of-nsa-revelations/102452,/u/jcs,5
+0,2013-09-30 15:25:16 -0500,"/t/hardware,/t/virtualization",Amazon EC2 Cloud Benchmarks Against Bare Metal Systems,http://www.phoronix.com/vr.php?view=19153,/u/journeysquid,1
+0,2013-09-30 08:23:20 -0500,/t/go,"Go Hadoop! Err, Hadoop and Go.",http://hortonworks.com/blog/go-hadoop-err-hadoop-and-go/,/u/journeysquid,3
+0,2013-09-30 08:49:03 -0500,/t/javascript,Rethinking JavaScript’s Try/Catch,http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/,/u/remotesynth,0
+0,2013-09-29 10:35:42 -0500,"/t/slides,/t/openbsd,/t/unix",Going long long on time_t,http://www.openbsd.org/papers/eurobsdcon_2013_time_t/,/u/jcs,7
+0,2013-09-29 09:44:03 -0500,/t/security,Why the Web of Trust Sucks,https://lists.torproject.org/pipermail/tor-talk/2013-September/030235.html,/u/jcs,7
+0,2013-09-29 02:55:52 -0500,/t/javascript,Bootstrap Form builder,http://www.anupshinde.com/posts/form-builder-part-2/,/u/anupshinde,2
+0,2013-09-28 20:26:03 -0500,"/t/hardware,/t/programming",ARM64 and You,http://www.mikeash.com/pyblog/friday-qa-2013-09-27-arm64-and-you.html,/u/journeysquid,4
+0,2013-09-29 03:04:03 -0500,/t/javascript,Nirman - Yet another flexible static site generator for NodeJS,https://github.com/anupshinde/nirman,/u/anupshinde,1
+0,2013-09-29 02:58:11 -0500,/t/javascript,Adding dependencies and data to Node-NPM package,http://www.anupshinde.com/posts/adding-dependencies-data-nodejs-npm-package/,/u/anupshinde,1
+0,2013-09-29 02:57:14 -0500,/t/browsers,Chrome has updated - How to fix the changed New Tab page,http://www.anupshinde.com/posts/chrome-update-new-tab-apps/,/u/anupshinde,1
+0,2013-09-28 16:25:45 -0500,/t/show,Show Lobsters: custom CSS/JS for Jenkins,https://github.com/kevinburke/doony,/u/kb,3
+0,2013-09-29 02:58:52 -0500,/t/networking,How to move your Domain to DigitalOcean without changing your Name Servers,http://www.anupshinde.com/posts/digitalocean-vps-custom-domain-without-nameserver-change/,/u/anupshinde,0
+3,2013-09-28 08:38:42 -0500,"/t/javascript,/t/rant",We don't want your Coffee,http://blog.ponyfoo.com/2013/09/28/we-dont-want-your-coffee,/u/bevacqua,5
+1,2013-09-27 20:04:47 -0500,"/t/pdf,/t/hardware",The Slow Winter,https://www.usenix.org/system/files/1309_14-17_mickens.pdf,/u/kyle,3
+0,2013-09-27 23:07:20 -0500,"/t/pdf,/t/php",Taking PHP Seriously,https://raw.github.com/strangeloop/StrangeLoop2013/master/slides/sessions/Adams-TakingPHPSeriously.pdf,/u/kb,2
+0,2013-09-27 19:37:14 -0500,"/t/networking,/t/security",DetecTor: client side SSL/TLS MITM detection through Tor,http://detector.io/,/u/jcs,3

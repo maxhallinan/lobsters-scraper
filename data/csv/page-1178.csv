@@ -1,25 +1,25 @@
-16,2015-01-22 04:47:50 -0600,"['/t/culture', '/t/linux']",Abusing Contributors is not OK,http://www.curiousefficiency.org/posts/2015/01/abuse-is-not-ok.html,/u/tante,34
-1,2015-01-22 11:18:24 -0600,['/t/hardware'],What is the Best Hard Drive?,https://www.backblaze.com/blog/best-hard-drive/,/u/journeysquid,6
-0,2015-01-22 12:03:57 -0600,"['/t/pdf', '/t/compsci', '/t/distributed']",Pinocchio: Nearly Practical Verifiable Computation,http://research.microsoft.com/pubs/180286/pinocchio.pdf,/u/animatronic,6
-0,2015-01-22 10:48:58 -0600,"['/t/pdf', '/t/networking', '/t/privacy', '/t/security']",EU anti-terror coordinator pushes for crypto backdoors by internet providers and telcos,http://www.statewatch.org/news/2015/jan/eu-council-ct-ds-1035-15.pdf,/u/r31r06,5
-2,2015-01-22 00:27:49 -0600,['/t/science'],"Access to broadband may increase inequality between skilled, unskilled labor",http://marginalrevolution.com/marginalrevolution/2015/01/broadband-norwegian-average-is-over.html,/u/kb,8
-0,2015-01-22 12:42:27 -0600,"['/t/java', '/t/programming']",How to get Groovy with Java 8,http://www.javaguru.co/2015/01/how-to-get-groovy-with-java-8.html,/u/codeon1,3
-0,2015-01-22 02:39:23 -0600,['/t/ruby'],JRuby 9.0.0.0-pre1 Released,http://jruby.org/2015/01/20/jruby-9-0-0-0-pre1.html,/u/sanxiyn,10
-0,2015-01-22 09:59:57 -0600,['/t/javascript'],Negating Predicate Functions in JavaScript,http://adripofjavascript.com/blog/drips/negating-predicate-functions-in-javascript.html,/u/joshuacc,3
-0,2015-01-22 10:40:29 -0600,['/t/javascript'],Measuring Client-Side JavaScript Test Coverage With Istanbul,https://blog.engineyard.com/2015/measuring-clientside-javascript-test-coverage-with-istanbul,/u/fluxusfrequency,2
-1,2015-01-22 06:12:41 -0600,['/t/web'],‘Password’ and ‘123456’ Still Commonly Used Passwords: Survey,http://www.sitepronews.com/2015/01/21/password-123456-still-commonly-used-passwords-survey/,/u/niravseo,2
-0,2015-01-21 23:02:09 -0600,['/t/assembly'],Maze Generation In Thirteen Bytes (2012),http://trixter.oldskool.org/2012/12/17/maze-generation-in-thirteen-bytes/,/u/jm,8
-2,2015-01-21 19:45:24 -0600,['/t/compsci'],"A curated list of Machine Learning frameworks, libraries and software",https://github.com/josephmisiti/awesome-machine-learning,/u/reiver,9
-0,2015-01-22 11:52:07 -0600,"['/t/dotnet', '/t/programming', '/t/security', '/t/windows']",ASP .NET Web Api: Understanding OWIN/Katana Authentication/Authorization,http://typecastexception.com/post/2015/01/19/ASPNET-Web-Api-Understanding-OWINKatana-AuthenticationAuthorization-Part-I-Concepts.aspx,/u/JeremyMorgan,1
-1,2015-01-21 19:04:01 -0600,['/t/compsci'],Understanding Deep Learning Through Visualizations,http://colah.github.io/posts/2015-01-Visualizing-Representations/,/u/reiver,8
-1,2015-01-21 17:43:42 -0600,['/t/openbsd'],afl-fuzz - American Fuzzy Lop on OpenBSD,http://www.undeadly.org/cgi?action=article&sid=20150121093259,/u/tedu,9
-3,2015-01-21 16:49:27 -0600,"['/t/databases', '/t/distributed']",Introducing Espresso - LinkedIn's hot new distributed document store,http://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store,/u/jonb,9
-3,2015-01-21 14:20:23 -0600,['/t/math'],A curve by any other name,https://whispersystems.org/blog/a-curve-by-any-other-name/,/u/tedu,7
-27,2015-01-20 22:34:48 -0600,['/t/compsci'],Retiring Python as a Teaching Language,http://prog21.dadgum.com/203.html,/u/haxor,24
-1,2015-01-21 12:57:06 -0600,"['/t/browsers', '/t/privacy']",Tighter Control Over Your Referrers,https://blog.mozilla.org/security/2015/01/21/meta-referrer/,/u/jcs,8
-1,2015-01-21 11:11:12 -0600,"['/t/programming', '/t/unix']",shellfire: framework for building modular applications in POSIX-compliant shell script,https://github.com/shellfire-dev/shellfire,/u/jcs,8
-1,2015-01-21 04:56:31 -0600,['/t/security'],Backdoor in a Public RSA Key,http://kukuruku.co/hub/infosec/backdoor-in-a-public-rsa-key,/u/henkjan,10
-2,2015-01-21 14:10:57 -0600,"['/t/show', '/t/javascript']",My expressjs starter pack,https://github.com/medimatrix/express-starter-pack,/u/mediremi,2
-9,2015-01-20 17:28:39 -0600,['/t/privacy'],HealthCare.gov Sends Personal Data to Dozens of Tracking Websites,https://www.eff.org/deeplinks/2015/01/healthcare.gov-sends-personal-data,/u/jcs,17
-0,2015-01-21 05:48:24 -0600,"['/t/ml', '/t/security', '/t/web']",Securing the Unikernel,http://roscidus.com/blog/blog/2015/01/21/securing-the-unikernel/,/u/englishm,8
-1,2015-01-21 14:36:11 -0600,"['/t/distributed', '/t/release']",Service Discovery with Mesos-DNS,http://mesosphere.com/2015/01/21/mesos-dns-service-discovery/,/u/tobym,1
+16,2015-01-22 04:47:50 -0600,"/t/culture,/t/linux",Abusing Contributors is not OK,http://www.curiousefficiency.org/posts/2015/01/abuse-is-not-ok.html,/u/tante,34
+1,2015-01-22 11:18:24 -0600,/t/hardware,What is the Best Hard Drive?,https://www.backblaze.com/blog/best-hard-drive/,/u/journeysquid,6
+0,2015-01-22 12:03:57 -0600,"/t/pdf,/t/compsci,/t/distributed",Pinocchio: Nearly Practical Verifiable Computation,http://research.microsoft.com/pubs/180286/pinocchio.pdf,/u/animatronic,6
+0,2015-01-22 10:48:58 -0600,"/t/pdf,/t/networking,/t/privacy,/t/security",EU anti-terror coordinator pushes for crypto backdoors by internet providers and telcos,http://www.statewatch.org/news/2015/jan/eu-council-ct-ds-1035-15.pdf,/u/r31r06,5
+2,2015-01-22 00:27:49 -0600,/t/science,"Access to broadband may increase inequality between skilled, unskilled labor",http://marginalrevolution.com/marginalrevolution/2015/01/broadband-norwegian-average-is-over.html,/u/kb,8
+0,2015-01-22 12:42:27 -0600,"/t/java,/t/programming",How to get Groovy with Java 8,http://www.javaguru.co/2015/01/how-to-get-groovy-with-java-8.html,/u/codeon1,3
+0,2015-01-22 02:39:23 -0600,/t/ruby,JRuby 9.0.0.0-pre1 Released,http://jruby.org/2015/01/20/jruby-9-0-0-0-pre1.html,/u/sanxiyn,10
+0,2015-01-22 09:59:57 -0600,/t/javascript,Negating Predicate Functions in JavaScript,http://adripofjavascript.com/blog/drips/negating-predicate-functions-in-javascript.html,/u/joshuacc,3
+0,2015-01-22 10:40:29 -0600,/t/javascript,Measuring Client-Side JavaScript Test Coverage With Istanbul,https://blog.engineyard.com/2015/measuring-clientside-javascript-test-coverage-with-istanbul,/u/fluxusfrequency,2
+1,2015-01-22 06:12:41 -0600,/t/web,‘Password’ and ‘123456’ Still Commonly Used Passwords: Survey,http://www.sitepronews.com/2015/01/21/password-123456-still-commonly-used-passwords-survey/,/u/niravseo,2
+0,2015-01-21 23:02:09 -0600,/t/assembly,Maze Generation In Thirteen Bytes (2012),http://trixter.oldskool.org/2012/12/17/maze-generation-in-thirteen-bytes/,/u/jm,8
+2,2015-01-21 19:45:24 -0600,/t/compsci,"A curated list of Machine Learning frameworks, libraries and software",https://github.com/josephmisiti/awesome-machine-learning,/u/reiver,9
+0,2015-01-22 11:52:07 -0600,"/t/dotnet,/t/programming,/t/security,/t/windows",ASP .NET Web Api: Understanding OWIN/Katana Authentication/Authorization,http://typecastexception.com/post/2015/01/19/ASPNET-Web-Api-Understanding-OWINKatana-AuthenticationAuthorization-Part-I-Concepts.aspx,/u/JeremyMorgan,1
+1,2015-01-21 19:04:01 -0600,/t/compsci,Understanding Deep Learning Through Visualizations,http://colah.github.io/posts/2015-01-Visualizing-Representations/,/u/reiver,8
+1,2015-01-21 17:43:42 -0600,/t/openbsd,afl-fuzz - American Fuzzy Lop on OpenBSD,http://www.undeadly.org/cgi?action=article&sid=20150121093259,/u/tedu,9
+3,2015-01-21 16:49:27 -0600,"/t/databases,/t/distributed",Introducing Espresso - LinkedIn's hot new distributed document store,http://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store,/u/jonb,9
+3,2015-01-21 14:20:23 -0600,/t/math,A curve by any other name,https://whispersystems.org/blog/a-curve-by-any-other-name/,/u/tedu,7
+27,2015-01-20 22:34:48 -0600,/t/compsci,Retiring Python as a Teaching Language,http://prog21.dadgum.com/203.html,/u/haxor,24
+1,2015-01-21 12:57:06 -0600,"/t/browsers,/t/privacy",Tighter Control Over Your Referrers,https://blog.mozilla.org/security/2015/01/21/meta-referrer/,/u/jcs,8
+1,2015-01-21 11:11:12 -0600,"/t/programming,/t/unix",shellfire: framework for building modular applications in POSIX-compliant shell script,https://github.com/shellfire-dev/shellfire,/u/jcs,8
+1,2015-01-21 04:56:31 -0600,/t/security,Backdoor in a Public RSA Key,http://kukuruku.co/hub/infosec/backdoor-in-a-public-rsa-key,/u/henkjan,10
+2,2015-01-21 14:10:57 -0600,"/t/show,/t/javascript",My expressjs starter pack,https://github.com/medimatrix/express-starter-pack,/u/mediremi,2
+9,2015-01-20 17:28:39 -0600,/t/privacy,HealthCare.gov Sends Personal Data to Dozens of Tracking Websites,https://www.eff.org/deeplinks/2015/01/healthcare.gov-sends-personal-data,/u/jcs,17
+0,2015-01-21 05:48:24 -0600,"/t/ml,/t/security,/t/web",Securing the Unikernel,http://roscidus.com/blog/blog/2015/01/21/securing-the-unikernel/,/u/englishm,8
+1,2015-01-21 14:36:11 -0600,"/t/distributed,/t/release",Service Discovery with Mesos-DNS,http://mesosphere.com/2015/01/21/mesos-dns-service-discovery/,/u/tobym,1

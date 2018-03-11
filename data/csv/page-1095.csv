@@ -1,25 +1,25 @@
-4,2015-06-02 11:32:01 -0500,"['/t/security', '/t/windows']",Microsoft: Support for Secure Shell (SSH),http://blogs.msdn.com/b/looking_forward_microsoft__support_for_secure_shell_ssh1/archive/2015/06/02/managing-looking-forward-microsoft-support-for-secure-shell-ssh.aspx,/u/jcs,32
-0,2015-06-03 11:16:17 -0500,['/t/javascript'],A Smooth Transition to ECMAScript 6: Using New Features,https://blog.engineyard.com/2015/smooth-transition-ecmascript-6-new-features,/u/fluxusfrequency,2
-4,2015-06-02 09:56:22 -0500,['/t/security'],Auditing GitHub users’ SSH key quality,https://blog.benjojo.co.uk/post/auditing-github-users-keys,/u/antifuchs,31
-0,2015-06-03 04:15:34 -0500,['/t/elixir'],Monads in Elixir,http://zohaib.me/monads-in-elixir-2/,/u/julienXX,5
-9,2015-06-02 08:50:57 -0500,['/t/hardware'],Batteriser is a $2.50 gadget that extends disposable battery life by 800%,http://www.pcworld.com/article/2928997/batteriser-is-a-250-gadget-that-extends-disposable-battery-life-by-800-percent.html,/u/kellogh,21
-11,2015-06-02 06:05:46 -0500,"['/t/hardware', '/t/practices']",Toyota Unintended Acceleration and the Big Bowl of “Spaghetti” Code,http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code,/u/skunkwerks,28
-0,2015-06-03 12:05:56 -0500,"['/t/release', '/t/ruby']",Filterer,https://github.com/dobtco/filterer,/u/andrewnez,1
-1,2015-06-02 10:43:38 -0500,['/t/hardware'],SSDs: A gift and a curse,https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/,/u/antifuchs,23
-0,2015-06-02 18:55:00 -0500,"['/t/distributed', '/t/scaling']",Flying faster with Twitter Heron,https://blog.twitter.com/2015/flying-faster-with-twitter-heron,/u/SeanTAllen,10
-1,2015-06-02 21:33:59 -0500,"['/t/compsci', '/t/javascript']",Monads in JavaScript,https://curiosity-driven.org/monads-in-javascript,/u/pushcx,4
-5,2015-06-02 10:47:10 -0500,['/t/release'],Test Anything Protocol,https://testanything.org/,/u/jbert,12
-4,2015-06-02 09:32:39 -0500,"['/t/c', '/t/release']",A really really really tiny and simple no-hassle C unit-testing framework,https://github.com/joewalnes/tinytest,/u/pushcx,11
-0,2015-06-03 02:10:46 -0500,['/t/release'],Event Driven Slack Bots — aka Serverless Slack Bots,https://medium.com/iron-io-blog/event-driven-slack-bots-aka-serverless-slack-bots-5b1dcdcfdf1f,/u/andrewnez,1
-1,2015-06-02 10:31:07 -0500,"['/t/compilers', '/t/hardware', '/t/programming']",The future of heterogeneous computing,https://dirk.to/blog/2015/06/02/heterogeneous-computing.html,/u/dirk,5
-0,2015-06-02 10:43:13 -0500,['/t/javascript'],A Smooth Transition to ECMAScript 6: First Steps,https://blog.engineyard.com/2015/smooth-transition-ecmascript-6-integration,/u/fluxusfrequency,4
-0,2015-06-02 06:10:39 -0500,"['/t/dotnet', '/t/windows']",5 Steps to an Ideal Windows 10 App Development Environment,http://developer.telerik.com/featured/5-steps-to-an-ideal-windows-10-app-development-environment/,/u/remotesynth,4
-1,2015-06-02 10:50:24 -0500,"['/t/c', '/t/java', '/t/javascript', '/t/python', '/t/ruby']",Doczar - lightweight documentation system,https://github.com/shenanigans/node-doczar,/u/Aranje,1
-20,2015-06-01 10:54:48 -0500,"['/t/show', '/t/practices', '/t/programming']",Chromebook as a Thin Client for Development,https://cmcenroe.me/2015/05/31/chromebook-vpn.html,/u/curtis,17
-11,2015-06-01 09:46:15 -0500,"['/t/practices', '/t/programming', '/t/science']",Programmer Interrupted (2013),http://blog.ninlabs.com/2013/01/programmer-interrupted/,/u/pushcx,17
-4,2015-06-01 17:45:22 -0500,"['/t/show', '/t/api', '/t/release']","numbers.today – track your daily routine, learn from data.",https://numbers.today,/u/rafaqueque,8
-1,2015-06-01 17:44:56 -0500,"['/t/book', '/t/python']",Introduction to Statistics,http://work.thaslwanter.at/Stats/html/,/u/fcbsd,7
-2,2015-06-01 15:37:43 -0500,['/t/design'],Feature-first Websites Explained,https://medium.com/@julienetienne_/feature-first-websites-explained-98e3355963fc,/u/flyingfisch,5
-1,2015-06-01 12:06:31 -0500,"['/t/compsci', '/t/programming']",Great Works in Programming Languages,http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml,/u/SirSkidmore,11
-24,2015-06-01 08:31:06 -0500,['/t/ask'],What is everyone working on this week?,/s/6dttdr/what_is_everyone_working_on_this_week,/u/joshuacc,24
-0,2015-06-01 11:37:02 -0500,"['/t/python', '/t/release']",PyPy 2.6.0 released,http://morepypy.blogspot.com/2015/06/pypy-260-release.html,/u/journeysquid,6
+4,2015-06-02 11:32:01 -0500,"/t/security,/t/windows",Microsoft: Support for Secure Shell (SSH),http://blogs.msdn.com/b/looking_forward_microsoft__support_for_secure_shell_ssh1/archive/2015/06/02/managing-looking-forward-microsoft-support-for-secure-shell-ssh.aspx,/u/jcs,32
+0,2015-06-03 11:16:17 -0500,/t/javascript,A Smooth Transition to ECMAScript 6: Using New Features,https://blog.engineyard.com/2015/smooth-transition-ecmascript-6-new-features,/u/fluxusfrequency,2
+4,2015-06-02 09:56:22 -0500,/t/security,Auditing GitHub users’ SSH key quality,https://blog.benjojo.co.uk/post/auditing-github-users-keys,/u/antifuchs,31
+0,2015-06-03 04:15:34 -0500,/t/elixir,Monads in Elixir,http://zohaib.me/monads-in-elixir-2/,/u/julienXX,5
+9,2015-06-02 08:50:57 -0500,/t/hardware,Batteriser is a $2.50 gadget that extends disposable battery life by 800%,http://www.pcworld.com/article/2928997/batteriser-is-a-250-gadget-that-extends-disposable-battery-life-by-800-percent.html,/u/kellogh,21
+11,2015-06-02 06:05:46 -0500,"/t/hardware,/t/practices",Toyota Unintended Acceleration and the Big Bowl of “Spaghetti” Code,http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code,/u/skunkwerks,28
+0,2015-06-03 12:05:56 -0500,"/t/release,/t/ruby",Filterer,https://github.com/dobtco/filterer,/u/andrewnez,1
+1,2015-06-02 10:43:38 -0500,/t/hardware,SSDs: A gift and a curse,https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/,/u/antifuchs,23
+0,2015-06-02 18:55:00 -0500,"/t/distributed,/t/scaling",Flying faster with Twitter Heron,https://blog.twitter.com/2015/flying-faster-with-twitter-heron,/u/SeanTAllen,10
+1,2015-06-02 21:33:59 -0500,"/t/compsci,/t/javascript",Monads in JavaScript,https://curiosity-driven.org/monads-in-javascript,/u/pushcx,4
+5,2015-06-02 10:47:10 -0500,/t/release,Test Anything Protocol,https://testanything.org/,/u/jbert,12
+4,2015-06-02 09:32:39 -0500,"/t/c,/t/release",A really really really tiny and simple no-hassle C unit-testing framework,https://github.com/joewalnes/tinytest,/u/pushcx,11
+0,2015-06-03 02:10:46 -0500,/t/release,Event Driven Slack Bots — aka Serverless Slack Bots,https://medium.com/iron-io-blog/event-driven-slack-bots-aka-serverless-slack-bots-5b1dcdcfdf1f,/u/andrewnez,1
+1,2015-06-02 10:31:07 -0500,"/t/compilers,/t/hardware,/t/programming",The future of heterogeneous computing,https://dirk.to/blog/2015/06/02/heterogeneous-computing.html,/u/dirk,5
+0,2015-06-02 10:43:13 -0500,/t/javascript,A Smooth Transition to ECMAScript 6: First Steps,https://blog.engineyard.com/2015/smooth-transition-ecmascript-6-integration,/u/fluxusfrequency,4
+0,2015-06-02 06:10:39 -0500,"/t/dotnet,/t/windows",5 Steps to an Ideal Windows 10 App Development Environment,http://developer.telerik.com/featured/5-steps-to-an-ideal-windows-10-app-development-environment/,/u/remotesynth,4
+1,2015-06-02 10:50:24 -0500,"/t/c,/t/java,/t/javascript,/t/python,/t/ruby",Doczar - lightweight documentation system,https://github.com/shenanigans/node-doczar,/u/Aranje,1
+20,2015-06-01 10:54:48 -0500,"/t/show,/t/practices,/t/programming",Chromebook as a Thin Client for Development,https://cmcenroe.me/2015/05/31/chromebook-vpn.html,/u/curtis,17
+11,2015-06-01 09:46:15 -0500,"/t/practices,/t/programming,/t/science",Programmer Interrupted (2013),http://blog.ninlabs.com/2013/01/programmer-interrupted/,/u/pushcx,17
+4,2015-06-01 17:45:22 -0500,"/t/show,/t/api,/t/release","numbers.today – track your daily routine, learn from data.",https://numbers.today,/u/rafaqueque,8
+1,2015-06-01 17:44:56 -0500,"/t/book,/t/python",Introduction to Statistics,http://work.thaslwanter.at/Stats/html/,/u/fcbsd,7
+2,2015-06-01 15:37:43 -0500,/t/design,Feature-first Websites Explained,https://medium.com/@julienetienne_/feature-first-websites-explained-98e3355963fc,/u/flyingfisch,5
+1,2015-06-01 12:06:31 -0500,"/t/compsci,/t/programming",Great Works in Programming Languages,http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml,/u/SirSkidmore,11
+24,2015-06-01 08:31:06 -0500,/t/ask,What is everyone working on this week?,/s/6dttdr/what_is_everyone_working_on_this_week,/u/joshuacc,24
+0,2015-06-01 11:37:02 -0500,"/t/python,/t/release",PyPy 2.6.0 released,http://morepypy.blogspot.com/2015/06/pypy-260-release.html,/u/journeysquid,6

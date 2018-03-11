@@ -1,25 +1,25 @@
-1,2017-11-13 14:20:21 -0600,['/t/hardware'],"Rekindling Amazon’s old flame: 10 years later, can we get the original Kindle e-reader to work again?",https://www.geekwire.com/2017/rekindling-amazons-old-flame-10-years-later-can-get-original-kindle-e-reader-work/,/u/kred,3
-0,2017-11-13 11:19:28 -0600,"['/t/devops', '/t/programming']",Google’s approach to observability,https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058,/u/adsouza,4
-1,2017-11-14 02:30:08 -0600,"['/t/hardware', '/t/linux']",Linux monopolizes Supercomputers,https://www.top500.org/statistics/list/,/u/nanxiao,0
-1,2017-11-12 17:34:01 -0600,['/t/cryptocurrencies'],Björkcoin: Björk’s cryptocurrency album project dissected (impolite ranty version),https://rocknerd.co.uk/2017/11/12/bjorkcoin-bjorks-cryptocurrency-album-project-dissected-impolite-ranty-version/,/u/David_Gerard,16
-0,2017-11-13 10:35:01 -0600,"['/t/pdf', '/t/compsci', '/t/crypto', '/t/hardware', '/t/security']","A Touch of Evil: High-Assurance, Cryptographic Hardware from Untrusted Components (2017)",https://acmccs.github.io/papers/p1583-mavroudisA.pdf,/u/nickpsecurity,4
-0,2017-11-13 04:49:08 -0600,"['/t/audio', '/t/security']",The Update Framework with Trishank Karthik Kuppusamy,http://manifest.fm/7,/u/andrewnez,4
-0,2017-11-13 14:08:19 -0600,['/t/ai'],Attacking Machine Learning with Adversarial Examples,https://blog.openai.com/adversarial-example-research/,/u/stig,2
-1,2017-11-13 10:32:35 -0600,"['/t/audio', '/t/programming']",Assessing the Ada Language for Audio Applications,http://www.electronicdesign.com/embedded-revolution/assessing-ada-language-audio-applications,/u/nickpsecurity,3
-0,2017-11-13 13:10:45 -0600,"['/t/linux', '/t/mac']","Port Sharding: Multiple Processes, Same Port",https://github.com/joewalnes/port-sharding,/u/timetoplatypus,2
-1,2017-11-12 18:06:05 -0600,['/t/ai'],IBM pitched Watson as a revolution in cancer care. It's nowhere close,https://www.statnews.com/2017/09/05/watson-ibm-cancer/,/u/hwayne,19
-0,2017-11-13 05:57:19 -0600,"['/t/video', '/t/distributed', '/t/scaling']",Introduction to Apache Kafka by James Ward,https://www.youtube.com/watch?v=UEg40Te8pnE,/u/joaolucasl,5
-0,2017-11-13 07:41:10 -0600,['/t/finance'],Fava: web interface for the double-entry bookkeeping software beancount,https://beancount.github.io/fava/,/u/unbalancedparentheses,4
-1,2017-11-13 07:36:19 -0600,['/t/security'],This $150 mask beat Face ID on the iPhone X,https://www.theverge.com/2017/11/13/16642690/bkav-iphone-x-faceid-mask,/u/unbalancedparentheses,3
-2,2017-11-13 07:31:46 -0600,['/t/programming'],Portability matters,http://sircmpwn.github.io/2017/11/13/Portability-matters.html,/u/calvin,2
-1,2017-11-13 15:06:42 -0600,"['/t/culture', '/t/historical']",Mastodon WTF timeline,http://ansuz.sooke.bc.ca/entry/335,/u/friendlysock,3
-0,2017-11-13 03:23:45 -0600,['/t/openbsd'],p2k17 Hackathon Report: Landry Breuil on Mozilla things and much more,https://undeadly.org/cgi?action=article;sid=20171113091807,/u/stsp,6
-0,2017-11-13 04:20:59 -0600,"['/t/show', '/t/clojure', '/t/release']",Announcing Deps Versions,https://www.deps.co/blog/announcing-deps-versions/,/u/danielcompton,2
-11,2017-11-11 23:59:48 -0600,"['/t/show', '/t/hardware', '/t/historical']",I got my VT420 working,https://flisks.site/vt420.html,/u/Flisk,29
-1,2017-11-13 07:33:17 -0600,['/t/privacy'],Facebook explains how it’ll review nude photos to stop revenge porn,https://www.theverge.com/2017/11/9/16630900/facebook-revenge-porn-defense-details,/u/unbalancedparentheses,1
-0,2017-11-12 23:13:35 -0600,"['/t/python', '/t/visualization']",Binder: an awesome tool for hosting Jupyter notebooks,https://jvns.ca/blog/2017/11/12/binder--an-awesome-tool-for-hosting-jupyter-notebooks/,/u/quobit,6
-0,2017-11-13 10:37:27 -0600,"['/t/browsers', '/t/windows']",EdgeDeflector: Bypassing Microsoft's Force-Open Web Links,https://github.com/da2x/EdgeDeflector,/u/timetoplatypus,1
-0,2017-11-13 05:01:34 -0600,"['/t/javascript', '/t/web']",Create A Vuex Undo/Redo Plugin For VueJS,https://vuejsdevelopers.com/2017/11/13/vue-js-vuex-undo-redo/,/u/anthonygore,1
-6,2017-11-12 16:33:40 -0600,"['/t/ai', '/t/programming']",Software 2.0,https://medium.com/@karpathy/software-2-0-a64152b37c35,/u/ehamberg,6
-3,2017-11-12 06:07:07 -0600,"['/t/browsers', '/t/linux', '/t/security']",Linux sandboxing improvements in Firefox 57,http://www.morbo.org/2017/11/linux-sandboxing-improvements-in.html,/u/freddyb,26
-0,2017-11-13 00:52:34 -0600,"['/t/debugging', '/t/practices']",Love your bugs,http://akaptur.github.com/blog/2017/11/12/love-your-bugs/,/u/antifuchs,4
+1,2017-11-13 14:20:21 -0600,/t/hardware,"Rekindling Amazon’s old flame: 10 years later, can we get the original Kindle e-reader to work again?",https://www.geekwire.com/2017/rekindling-amazons-old-flame-10-years-later-can-get-original-kindle-e-reader-work/,/u/kred,3
+0,2017-11-13 11:19:28 -0600,"/t/devops,/t/programming",Google’s approach to observability,https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058,/u/adsouza,4
+1,2017-11-14 02:30:08 -0600,"/t/hardware,/t/linux",Linux monopolizes Supercomputers,https://www.top500.org/statistics/list/,/u/nanxiao,0
+1,2017-11-12 17:34:01 -0600,/t/cryptocurrencies,Björkcoin: Björk’s cryptocurrency album project dissected (impolite ranty version),https://rocknerd.co.uk/2017/11/12/bjorkcoin-bjorks-cryptocurrency-album-project-dissected-impolite-ranty-version/,/u/David_Gerard,16
+0,2017-11-13 10:35:01 -0600,"/t/pdf,/t/compsci,/t/crypto,/t/hardware,/t/security","A Touch of Evil: High-Assurance, Cryptographic Hardware from Untrusted Components (2017)",https://acmccs.github.io/papers/p1583-mavroudisA.pdf,/u/nickpsecurity,4
+0,2017-11-13 04:49:08 -0600,"/t/audio,/t/security",The Update Framework with Trishank Karthik Kuppusamy,http://manifest.fm/7,/u/andrewnez,4
+0,2017-11-13 14:08:19 -0600,/t/ai,Attacking Machine Learning with Adversarial Examples,https://blog.openai.com/adversarial-example-research/,/u/stig,2
+1,2017-11-13 10:32:35 -0600,"/t/audio,/t/programming",Assessing the Ada Language for Audio Applications,http://www.electronicdesign.com/embedded-revolution/assessing-ada-language-audio-applications,/u/nickpsecurity,3
+0,2017-11-13 13:10:45 -0600,"/t/linux,/t/mac","Port Sharding: Multiple Processes, Same Port",https://github.com/joewalnes/port-sharding,/u/timetoplatypus,2
+1,2017-11-12 18:06:05 -0600,/t/ai,IBM pitched Watson as a revolution in cancer care. It's nowhere close,https://www.statnews.com/2017/09/05/watson-ibm-cancer/,/u/hwayne,19
+0,2017-11-13 05:57:19 -0600,"/t/video,/t/distributed,/t/scaling",Introduction to Apache Kafka by James Ward,https://www.youtube.com/watch?v=UEg40Te8pnE,/u/joaolucasl,5
+0,2017-11-13 07:41:10 -0600,/t/finance,Fava: web interface for the double-entry bookkeeping software beancount,https://beancount.github.io/fava/,/u/unbalancedparentheses,4
+1,2017-11-13 07:36:19 -0600,/t/security,This $150 mask beat Face ID on the iPhone X,https://www.theverge.com/2017/11/13/16642690/bkav-iphone-x-faceid-mask,/u/unbalancedparentheses,3
+2,2017-11-13 07:31:46 -0600,/t/programming,Portability matters,http://sircmpwn.github.io/2017/11/13/Portability-matters.html,/u/calvin,2
+1,2017-11-13 15:06:42 -0600,"/t/culture,/t/historical",Mastodon WTF timeline,http://ansuz.sooke.bc.ca/entry/335,/u/friendlysock,3
+0,2017-11-13 03:23:45 -0600,/t/openbsd,p2k17 Hackathon Report: Landry Breuil on Mozilla things and much more,https://undeadly.org/cgi?action=article;sid=20171113091807,/u/stsp,6
+0,2017-11-13 04:20:59 -0600,"/t/show,/t/clojure,/t/release",Announcing Deps Versions,https://www.deps.co/blog/announcing-deps-versions/,/u/danielcompton,2
+11,2017-11-11 23:59:48 -0600,"/t/show,/t/hardware,/t/historical",I got my VT420 working,https://flisks.site/vt420.html,/u/Flisk,29
+1,2017-11-13 07:33:17 -0600,/t/privacy,Facebook explains how it’ll review nude photos to stop revenge porn,https://www.theverge.com/2017/11/9/16630900/facebook-revenge-porn-defense-details,/u/unbalancedparentheses,1
+0,2017-11-12 23:13:35 -0600,"/t/python,/t/visualization",Binder: an awesome tool for hosting Jupyter notebooks,https://jvns.ca/blog/2017/11/12/binder--an-awesome-tool-for-hosting-jupyter-notebooks/,/u/quobit,6
+0,2017-11-13 10:37:27 -0600,"/t/browsers,/t/windows",EdgeDeflector: Bypassing Microsoft's Force-Open Web Links,https://github.com/da2x/EdgeDeflector,/u/timetoplatypus,1
+0,2017-11-13 05:01:34 -0600,"/t/javascript,/t/web",Create A Vuex Undo/Redo Plugin For VueJS,https://vuejsdevelopers.com/2017/11/13/vue-js-vuex-undo-redo/,/u/anthonygore,1
+6,2017-11-12 16:33:40 -0600,"/t/ai,/t/programming",Software 2.0,https://medium.com/@karpathy/software-2-0-a64152b37c35,/u/ehamberg,6
+3,2017-11-12 06:07:07 -0600,"/t/browsers,/t/linux,/t/security",Linux sandboxing improvements in Firefox 57,http://www.morbo.org/2017/11/linux-sandboxing-improvements-in.html,/u/freddyb,26
+0,2017-11-13 00:52:34 -0600,"/t/debugging,/t/practices",Love your bugs,http://akaptur.github.com/blog/2017/11/12/love-your-bugs/,/u/antifuchs,4

@@ -1,25 +1,25 @@
-0,2014-11-24 10:02:23 -0600,['/t/web'],A tour of work-in-progress performance-related browser APIs,https://docs.google.com/presentation/d/18iUgAReTybP5yXBHRUN-8cSd66FnI9CbibrBRIDxTPw/present,/u/mediremi,1
-0,2014-11-23 09:44:47 -0600,['/t/ruby'],Deoptimizing Ruby,http://www.chrisseaton.com/rubytruffle/deoptimizing/,/u/pushcx,24
-8,2014-11-23 02:46:50 -0600,"['/t/lisp', '/t/programming']",Clojure is not for geniuses,http://adambard.com/blog/clojure-is-not-for-geniuses/,/u/pab,23
-0,2014-11-24 03:45:58 -0600,['/t/programming'],Getting started with JetBrains Nitra,http://timjones.tw/blog/archive/2014/11/24/getting-started-with-jetbrains-nitra,/u/vvh,2
-0,2014-11-23 12:22:58 -0600,['/t/math'],How medieval astronomers made trig tables,http://www.johndcook.com/blog/2014/11/23/compute-trig-tables/,/u/RiderOfGiraffes,11
-3,2014-11-23 07:31:29 -0600,['/t/databases'],Cache is the new RAM,http://blog.memsql.com/cache-is-the-new-ram/,/u/iv,14
-3,2014-11-24 00:52:28 -0600,"['/t/culture', '/t/dotnet', '/t/programming']",C# and .NET's Sudden Ubiquity,http://www.drdobbs.com/windows/c-and-nets-sudden-ubiquity/240169282,/u/JeremyMorgan,4
-5,2014-11-23 09:31:00 -0600,"['/t/browsers', '/t/java', '/t/privacy']","Introducing gngr: a new browser under development, focussed on privacy",https://gngr.info/doc/introduction.html,/u/hrjet,4
-0,2014-11-23 09:38:53 -0600,['/t/science'],Gravitricity,http://www.gravitricity.com,/u/journeysquid,7
-2,2014-11-23 01:31:15 -0600,"['/t/haskell', '/t/programming']",Literate Haskell URL Shortener,http://bitemyapp.com/posts/2014-11-22-literate-url-shortener.html,/u/bitemyapp,7
-2,2014-11-22 14:56:31 -0600,['/t/haskell'],How Lazy Evaluation Works in Haskell,https://hackhands.com/lazy-evaluation-works-haskell/,/u/kyle,15
-0,2014-11-22 20:30:32 -0600,"['/t/hardware', '/t/mobile']",The $12 “Gongkai” Phone (2013),http://www.bunniestudios.com/blog/?page_id=3107,/u/cnst,9
-5,2014-11-22 21:20:06 -0600,"['/t/design', '/t/linux']",Quantum OS,http://quantum-os.github.io,/u/journeysquid,4
-8,2014-11-22 15:37:40 -0600,"['/t/compsci', '/t/haskell']",Bidirectional Type Checkers for λ→ and λΠ,http://jozefg.bitbucket.org/posts/2014-11-22-bidir.html,/u/jozefg,7
-0,2014-11-23 00:30:09 -0600,"['/t/browsers', '/t/web']",History of the browser user-agent string (2011),http://webaim.org/blog/user-agent-string-history/,/u/spinda,4
-0,2014-11-22 13:47:04 -0600,['/t/haskell'],amazonka - Comprehensive Amazon Web Services SDK,https://brendanhay.github.io/amazonka-comprehensive-haskell-aws-client.html,/u/jtobin,9
-0,2014-11-22 12:21:07 -0600,"['/t/book', '/t/programming', '/t/ruby']",Clean Ruby 1.0 is released!,http://www.saturnflyer.com/blog/jim/2014/11/22/clean-ruby-1-0-is-released/,/u/saturnflyer,7
-8,2014-11-22 08:00:08 -0600,"['/t/slides', '/t/culture', '/t/design', '/t/freebsd']",FreeBSD: the next 10 years,http://www.slideshare.net/iXsystems/jordan-hubbard-free-bsd-the-next-10-years,/u/daGrevis,18
-1,2014-11-22 07:10:59 -0600,"['/t/javascript', '/t/programming']",6to5: Turn ES6+ code into readable vanilla ES5,https://6to5.github.io/,/u/asb,3
-0,2014-11-22 15:44:57 -0600,"['/t/devops', '/t/java', '/t/linux', '/t/web']",KeyBox: Run a web-based SSH console (uses 2FA with FreeOTP or Google Authenticator),https://github.com/skavanagh/KeyBox,/u/skavanagh,1
-20,2014-11-21 07:47:15 -0600,['/t/linux'],"systemd, The end of Linux",http://blog.lusis.org/blog/2014/11/20/systemd-redux/,/u/UkiahSmith,27
-0,2014-11-22 11:08:28 -0600,['/t/ruby'],Avoiding errors when forwarding to missing objects,http://www.saturnflyer.com/blog/jim/2014/11/21/avoiding-errors-when-forwarding-to-missing-objects/,/u/saturnflyer,1
-0,2014-11-22 11:07:51 -0600,['/t/ruby'],"Shorter, simpler code with Forwardable",http://www.saturnflyer.com/blog/jim/2014/11/15/shorter-simpler-code-with-forwardable/,/u/saturnflyer,1
-1,2014-11-21 10:06:04 -0600,['/t/games'],The Unbalanced Design of Super Smash Brothers,http://forrestthewoods.com/unbalanced-design-of-super-smash-brothers/,/u/journeysquid,13
-0,2014-11-22 04:51:12 -0600,"['/t/design', '/t/networking']",Bufferbloat: Dark Buffers in the Internet,http://queue.acm.org/detail.cfm?id=2071893,/u/tel,1
+0,2014-11-24 10:02:23 -0600,/t/web,A tour of work-in-progress performance-related browser APIs,https://docs.google.com/presentation/d/18iUgAReTybP5yXBHRUN-8cSd66FnI9CbibrBRIDxTPw/present,/u/mediremi,1
+0,2014-11-23 09:44:47 -0600,/t/ruby,Deoptimizing Ruby,http://www.chrisseaton.com/rubytruffle/deoptimizing/,/u/pushcx,24
+8,2014-11-23 02:46:50 -0600,"/t/lisp,/t/programming",Clojure is not for geniuses,http://adambard.com/blog/clojure-is-not-for-geniuses/,/u/pab,23
+0,2014-11-24 03:45:58 -0600,/t/programming,Getting started with JetBrains Nitra,http://timjones.tw/blog/archive/2014/11/24/getting-started-with-jetbrains-nitra,/u/vvh,2
+0,2014-11-23 12:22:58 -0600,/t/math,How medieval astronomers made trig tables,http://www.johndcook.com/blog/2014/11/23/compute-trig-tables/,/u/RiderOfGiraffes,11
+3,2014-11-23 07:31:29 -0600,/t/databases,Cache is the new RAM,http://blog.memsql.com/cache-is-the-new-ram/,/u/iv,14
+3,2014-11-24 00:52:28 -0600,"/t/culture,/t/dotnet,/t/programming",C# and .NET's Sudden Ubiquity,http://www.drdobbs.com/windows/c-and-nets-sudden-ubiquity/240169282,/u/JeremyMorgan,4
+5,2014-11-23 09:31:00 -0600,"/t/browsers,/t/java,/t/privacy","Introducing gngr: a new browser under development, focussed on privacy",https://gngr.info/doc/introduction.html,/u/hrjet,4
+0,2014-11-23 09:38:53 -0600,/t/science,Gravitricity,http://www.gravitricity.com,/u/journeysquid,7
+2,2014-11-23 01:31:15 -0600,"/t/haskell,/t/programming",Literate Haskell URL Shortener,http://bitemyapp.com/posts/2014-11-22-literate-url-shortener.html,/u/bitemyapp,7
+2,2014-11-22 14:56:31 -0600,/t/haskell,How Lazy Evaluation Works in Haskell,https://hackhands.com/lazy-evaluation-works-haskell/,/u/kyle,15
+0,2014-11-22 20:30:32 -0600,"/t/hardware,/t/mobile",The $12 “Gongkai” Phone (2013),http://www.bunniestudios.com/blog/?page_id=3107,/u/cnst,9
+5,2014-11-22 21:20:06 -0600,"/t/design,/t/linux",Quantum OS,http://quantum-os.github.io,/u/journeysquid,4
+8,2014-11-22 15:37:40 -0600,"/t/compsci,/t/haskell",Bidirectional Type Checkers for λ→ and λΠ,http://jozefg.bitbucket.org/posts/2014-11-22-bidir.html,/u/jozefg,7
+0,2014-11-23 00:30:09 -0600,"/t/browsers,/t/web",History of the browser user-agent string (2011),http://webaim.org/blog/user-agent-string-history/,/u/spinda,4
+0,2014-11-22 13:47:04 -0600,/t/haskell,amazonka - Comprehensive Amazon Web Services SDK,https://brendanhay.github.io/amazonka-comprehensive-haskell-aws-client.html,/u/jtobin,9
+0,2014-11-22 12:21:07 -0600,"/t/book,/t/programming,/t/ruby",Clean Ruby 1.0 is released!,http://www.saturnflyer.com/blog/jim/2014/11/22/clean-ruby-1-0-is-released/,/u/saturnflyer,7
+8,2014-11-22 08:00:08 -0600,"/t/slides,/t/culture,/t/design,/t/freebsd",FreeBSD: the next 10 years,http://www.slideshare.net/iXsystems/jordan-hubbard-free-bsd-the-next-10-years,/u/daGrevis,18
+1,2014-11-22 07:10:59 -0600,"/t/javascript,/t/programming",6to5: Turn ES6+ code into readable vanilla ES5,https://6to5.github.io/,/u/asb,3
+0,2014-11-22 15:44:57 -0600,"/t/devops,/t/java,/t/linux,/t/web",KeyBox: Run a web-based SSH console (uses 2FA with FreeOTP or Google Authenticator),https://github.com/skavanagh/KeyBox,/u/skavanagh,1
+20,2014-11-21 07:47:15 -0600,/t/linux,"systemd, The end of Linux",http://blog.lusis.org/blog/2014/11/20/systemd-redux/,/u/UkiahSmith,27
+0,2014-11-22 11:08:28 -0600,/t/ruby,Avoiding errors when forwarding to missing objects,http://www.saturnflyer.com/blog/jim/2014/11/21/avoiding-errors-when-forwarding-to-missing-objects/,/u/saturnflyer,1
+0,2014-11-22 11:07:51 -0600,/t/ruby,"Shorter, simpler code with Forwardable",http://www.saturnflyer.com/blog/jim/2014/11/15/shorter-simpler-code-with-forwardable/,/u/saturnflyer,1
+1,2014-11-21 10:06:04 -0600,/t/games,The Unbalanced Design of Super Smash Brothers,http://forrestthewoods.com/unbalanced-design-of-super-smash-brothers/,/u/journeysquid,13
+0,2014-11-22 04:51:12 -0600,"/t/design,/t/networking",Bufferbloat: Dark Buffers in the Internet,http://queue.acm.org/detail.cfm?id=2071893,/u/tel,1

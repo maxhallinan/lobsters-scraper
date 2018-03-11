@@ -1,25 +1,25 @@
-0,2017-05-24 07:12:42 -0500,"['/t/graphics', '/t/rust']",A Procedural Landscape Experiment,https://medium.com/@rap2h/a-procedural-landscape-experiment-4efe1826906f,/u/calvin,10
-2,2017-05-24 11:09:40 -0500,['/t/release'],Custom Vim Bindings in tmux 2.4,https://shapeshed.com/custom-vim-bindings-in-tmux-2-4/,/u/unbalancedparentheses,4
-25,2017-05-23 11:39:57 -0500,['/t/privacy'],Google Following Your Offline Credit Card Spending To Tell Advertisers If Their Ads Work,http://consumerist.com/2017/05/23/google-following-your-offline-credit-card-spending-to-tell-advertisers-if-their-ads-work/,/u/vyodaiken,37
-1,2017-05-24 14:17:51 -0500,"['/t/video', '/t/practices']",Meeting Resistance and Moving Forward by Linda Rising,https://www.youtube.com/watch?v=DrCD1wmK9oM,/u/bsima,3
-0,2017-05-24 16:51:27 -0500,"['/t/education', '/t/ios', '/t/swift']",Apple Launches App Development Curriculum for U.S. High School and College Students,https://www.macrumors.com/2017/05/24/apple-launches-swift-app-curriculum-students/,/u/calvin,2
-0,2017-05-24 07:21:41 -0500,['/t/security'],Hacked in Translation - from Subtitles to Complete Takeover,http://blog.checkpoint.com/2017/05/23/hacked-in-translation/,/u/av,5
-0,2017-05-24 12:40:30 -0500,"['/t/haskell', '/t/release']",Matterhorn terminal client for Mattermost chat,http://galois.com/blog/2017/05/matterhorn-experience-report/,/u/minimax,3
-0,2017-05-24 07:59:38 -0500,"['/t/dotnet', '/t/security', '/t/web']",Facebook Login in ASP.NET Core,http://www.blinkingcaret.com/2017/05/24/facebook-login-asp-net-core/,/u/rdfi,1
-0,2017-05-24 00:08:29 -0500,"['/t/programming', '/t/release']",Self Programming Language Release “Mandarin” 2017.1,https://blog.selflanguage.org/2017/05/24/self-mandarin-2017-1/,/u/doublec,11
-1,2017-05-24 08:10:57 -0500,['/t/css'],The Box Model,https://www.dailydrip.com/topics/html-css/drips/the-box-model,/u/franzunix,2
-0,2017-05-24 16:28:05 -0500,"['/t/video', '/t/browsers', '/t/css', '/t/web']",Patrick Hamann: CSS and the first meaningful paint,https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR&index=3,/u/yoshuawuyts,1
-7,2017-05-24 14:51:23 -0500,"['/t/ask', '/t/meta']",Is there a newsletter that covers the 'best of lobste.rs'?,/s/7aivpo/is_there_newsletter_covers_best_lobste_rs,/u/monknomo,3
-5,2017-05-23 06:56:09 -0500,"['/t/android', '/t/haskell']",Haskell on Android using Eta,https://brianmckenna.org/blog/eta_android,/u/puffnfresh,30
-0,2017-05-24 14:53:17 -0500,['/t/api'],The next step for realtime data in GraphQL: subscriptions,https://dev-blog.apollodata.com/the-next-step-for-realtime-data-in-graphql-b564b72eb07b,/u/unbalancedparentheses,1
-0,2017-05-24 08:13:00 -0500,"['/t/historical', '/t/unix']",The Unix Heritage Society,http://www.tuhs.org/,/u/wally,3
-1,2017-05-24 10:53:23 -0500,"['/t/cryptocurrencies', '/t/finance']","Tulips, Myths, and Cryptocurrencies",https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/,/u/pushcx,2
-15,2017-05-23 04:23:07 -0500,['/t/networking'],IPFS - A peer-to-peer hypermedia protocol,https://ipfs.io/,/u/Dawny33,35
-0,2017-05-24 13:49:43 -0500,"['/t/pdf', '/t/hardware', '/t/historical', '/t/person']",Oral history of Robert P. Colwell,http://newsletter.sigmicro.org/sigmicro-oral-history-transcripts/Bob-Colwell-Transcript.pdf,/u/sevan,1
-42,2017-05-22 20:29:45 -0500,['/t/culture'],Bryan Cantrill on Integrity,https://danielcompton.net/2017/05/23/bryan-cantrill-on-integrity,/u/danielcompton,71
-0,2017-05-23 17:31:29 -0500,"['/t/reversing', '/t/security']",taviso/loadlibrary - Porting Windows Dynamic Link Libraries to Linux,https://github.com/taviso/loadlibrary,/u/355E3B,14
-45,2017-05-23 13:17:55 -0500,['/t/web'],Are we making the web too complicated?,http://seldo.com/weblog/2017/05/21/are_we_making_the_web_too_complicated,/u/flyingfisch,11
-0,2017-05-24 12:21:25 -0500,"['/t/assembly', '/t/graphics']",Debris: Opening the box,https://fgiesen.wordpress.com/2012/02/13/debris-opening-the-box/,/u/friendlysock,1
-0,2017-05-23 14:34:07 -0500,"['/t/book', '/t/education', '/t/networking', '/t/security', '/t/virtualization']",AVATAR Project - Final Edition,https://blindseeker.com/AVATAR,/u/da_667,10
-2,2017-05-23 17:34:04 -0500,['/t/rust'],A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust,https://github.com/mre/idiomatic-rust,/u/unbalancedparentheses,8
-1,2017-05-23 09:11:59 -0500,['/t/programming'],"I've become worse, not better, at programming",http://fascinatedbox.blogspot.com/2017/05/ive-become-worse-not-better-at.html,/u/pushcx,18
+0,2017-05-24 07:12:42 -0500,"/t/graphics,/t/rust",A Procedural Landscape Experiment,https://medium.com/@rap2h/a-procedural-landscape-experiment-4efe1826906f,/u/calvin,10
+2,2017-05-24 11:09:40 -0500,/t/release,Custom Vim Bindings in tmux 2.4,https://shapeshed.com/custom-vim-bindings-in-tmux-2-4/,/u/unbalancedparentheses,4
+25,2017-05-23 11:39:57 -0500,/t/privacy,Google Following Your Offline Credit Card Spending To Tell Advertisers If Their Ads Work,http://consumerist.com/2017/05/23/google-following-your-offline-credit-card-spending-to-tell-advertisers-if-their-ads-work/,/u/vyodaiken,37
+1,2017-05-24 14:17:51 -0500,"/t/video,/t/practices",Meeting Resistance and Moving Forward by Linda Rising,https://www.youtube.com/watch?v=DrCD1wmK9oM,/u/bsima,3
+0,2017-05-24 16:51:27 -0500,"/t/education,/t/ios,/t/swift",Apple Launches App Development Curriculum for U.S. High School and College Students,https://www.macrumors.com/2017/05/24/apple-launches-swift-app-curriculum-students/,/u/calvin,2
+0,2017-05-24 07:21:41 -0500,/t/security,Hacked in Translation - from Subtitles to Complete Takeover,http://blog.checkpoint.com/2017/05/23/hacked-in-translation/,/u/av,5
+0,2017-05-24 12:40:30 -0500,"/t/haskell,/t/release",Matterhorn terminal client for Mattermost chat,http://galois.com/blog/2017/05/matterhorn-experience-report/,/u/minimax,3
+0,2017-05-24 07:59:38 -0500,"/t/dotnet,/t/security,/t/web",Facebook Login in ASP.NET Core,http://www.blinkingcaret.com/2017/05/24/facebook-login-asp-net-core/,/u/rdfi,1
+0,2017-05-24 00:08:29 -0500,"/t/programming,/t/release",Self Programming Language Release “Mandarin” 2017.1,https://blog.selflanguage.org/2017/05/24/self-mandarin-2017-1/,/u/doublec,11
+1,2017-05-24 08:10:57 -0500,/t/css,The Box Model,https://www.dailydrip.com/topics/html-css/drips/the-box-model,/u/franzunix,2
+0,2017-05-24 16:28:05 -0500,"/t/video,/t/browsers,/t/css,/t/web",Patrick Hamann: CSS and the first meaningful paint,https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR&index=3,/u/yoshuawuyts,1
+7,2017-05-24 14:51:23 -0500,"/t/ask,/t/meta",Is there a newsletter that covers the 'best of lobste.rs'?,/s/7aivpo/is_there_newsletter_covers_best_lobste_rs,/u/monknomo,3
+5,2017-05-23 06:56:09 -0500,"/t/android,/t/haskell",Haskell on Android using Eta,https://brianmckenna.org/blog/eta_android,/u/puffnfresh,30
+0,2017-05-24 14:53:17 -0500,/t/api,The next step for realtime data in GraphQL: subscriptions,https://dev-blog.apollodata.com/the-next-step-for-realtime-data-in-graphql-b564b72eb07b,/u/unbalancedparentheses,1
+0,2017-05-24 08:13:00 -0500,"/t/historical,/t/unix",The Unix Heritage Society,http://www.tuhs.org/,/u/wally,3
+1,2017-05-24 10:53:23 -0500,"/t/cryptocurrencies,/t/finance","Tulips, Myths, and Cryptocurrencies",https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/,/u/pushcx,2
+15,2017-05-23 04:23:07 -0500,/t/networking,IPFS - A peer-to-peer hypermedia protocol,https://ipfs.io/,/u/Dawny33,35
+0,2017-05-24 13:49:43 -0500,"/t/pdf,/t/hardware,/t/historical,/t/person",Oral history of Robert P. Colwell,http://newsletter.sigmicro.org/sigmicro-oral-history-transcripts/Bob-Colwell-Transcript.pdf,/u/sevan,1
+42,2017-05-22 20:29:45 -0500,/t/culture,Bryan Cantrill on Integrity,https://danielcompton.net/2017/05/23/bryan-cantrill-on-integrity,/u/danielcompton,71
+0,2017-05-23 17:31:29 -0500,"/t/reversing,/t/security",taviso/loadlibrary - Porting Windows Dynamic Link Libraries to Linux,https://github.com/taviso/loadlibrary,/u/355E3B,14
+45,2017-05-23 13:17:55 -0500,/t/web,Are we making the web too complicated?,http://seldo.com/weblog/2017/05/21/are_we_making_the_web_too_complicated,/u/flyingfisch,11
+0,2017-05-24 12:21:25 -0500,"/t/assembly,/t/graphics",Debris: Opening the box,https://fgiesen.wordpress.com/2012/02/13/debris-opening-the-box/,/u/friendlysock,1
+0,2017-05-23 14:34:07 -0500,"/t/book,/t/education,/t/networking,/t/security,/t/virtualization",AVATAR Project - Final Edition,https://blindseeker.com/AVATAR,/u/da_667,10
+2,2017-05-23 17:34:04 -0500,/t/rust,A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust,https://github.com/mre/idiomatic-rust,/u/unbalancedparentheses,8
+1,2017-05-23 09:11:59 -0500,/t/programming,"I've become worse, not better, at programming",http://fascinatedbox.blogspot.com/2017/05/ive-become-worse-not-better-at.html,/u/pushcx,18

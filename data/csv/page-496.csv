@@ -1,25 +1,25 @@
-11,2017-02-07 23:47:51 -0600,['/t/emacs'],Emacs Themes,http://www.greghendershott.com/2017/02/emacs-themes.html,/u/jeremy,23
-1,2017-02-09 04:24:45 -0600,['/t/javascript'],Whitestorm.js - 3D Framework for Three.js app development,https://github.com/WhitestormJS/whitestorm.js?8,/u/alex2401,0
-0,2017-02-08 17:08:27 -0600,"['/t/assembly', '/t/book', '/t/reversing']",Reverse Engineering a book cover,https://vulnsec.com/2017/reverse-engineering-a-book-cover/,/u/calvin,4
-0,2017-02-08 19:03:14 -0600,['/t/science'],"In the Blink of Bird’s Eye, a Model for Quantum Navigation",https://www.wired.com/2011/01/quantum-birds/,/u/kghose,3
-0,2017-02-08 11:22:25 -0600,"['/t/haskell', '/t/programming']",The Earley library for Haskell can generate all members of a grammar,https://github.com/ollef/Earley,/u/bitemyapp,7
-0,2017-02-08 17:43:13 -0600,"['/t/hardware', '/t/reversing']",Legacy systems are everywhere,https://trackchanges.postlight.com/legacy-systems-are-everywhere-dddccf08bf6e,/u/pushcx,3
-0,2017-02-08 11:50:52 -0600,"['/t/cryptocurrencies', '/t/security', '/t/web']",CONIKS vs Key Transparency vs Certificate Transparency vs Blockchains,https://blog.okturtles.com/2017/02/coniks-vs-key-transparency-vs-certificate-transparency-vs-blockchains/,/u/itistoday,3
-82,2017-02-08 05:23:48 -0600,"['/t/go', '/t/rant']",Go is Not Good,https://github.com/ksimka/go-is-not-good,/u/av,28
-0,2017-02-08 12:18:27 -0600,"['/t/mac', '/t/release', '/t/security']",GPGTools Beta Available For macOS Sierra,https://gpgtools.org/,/u/atti1a,5
-0,2017-02-08 16:35:11 -0600,"['/t/lisp', '/t/programming']",MJPEG Video Decoder in Common Lisp,http://blog.funcall.org/lisp/2017/02/07/announcing-cl-video/,/u/varjag,1
-6,2017-02-07 23:48:35 -0600,['/t/javascript'],"Dear JavaScript Maintainers,",http://thefullstack.xyz/dear-javascript-maintainers/,/u/dortzur,5
-1,2017-02-08 14:37:43 -0600,"['/t/ios', '/t/javascript', '/t/swift']",Retrospective: Swift at Artsy - Artsy Engineering,http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/,/u/therealadam,3
-0,2017-02-08 17:15:48 -0600,['/t/c'],Unexpected Places You Can And Can’t Use Null Bytes,https://eklitzke.org/unexpected-places-you-can-and-cant-use-null-bytes,/u/hypepat,2
-0,2017-02-08 08:19:21 -0600,"['/t/hardware', '/t/security']",Using SDR to Take Control of Your Home Security System,http://hackaday.com/2017/02/06/using-sdr-to-take-control-of-your-home-security-system/,/u/flyingfisch,6
-4,2017-02-07 10:21:58 -0600,"['/t/databases', '/t/distributed']",Jepsen: MongoDB 3.4.0-rc3,https://jepsen.io/analyses/mongodb-3-4-0-rc3,/u/aphyr,27
-22,2017-02-07 06:20:12 -0600,"['/t/math', '/t/reversing', '/t/security']",Russians Engineer a Brilliant Slot Machine Cheat—And Casinos Have No Fix,https://www.wired.com/2017/02/russians-engineer-brilliant-slot-machine-cheat-casinos-no-fix/,/u/av,43
-5,2017-02-08 02:02:25 -0600,"['/t/graphics', '/t/web']",WebGPU: Next-generation 3D Graphics on the Web,https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/,/u/sanxiyn,5
-0,2017-02-08 09:27:01 -0600,['/t/security'],"The Steam Community Exploit, explained in-depth by a web developer and /r/steam Mod",https://www.reddit.com/r/Steam/comments/5srlwd/the_steam_community_exploit_explained_indepth_by/,/u/pushcx,4
-8,2017-02-07 12:24:17 -0600,['/t/openbsd'],openbsd changes of note 6,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-6,/u/calvin,22
-0,2017-02-08 07:34:19 -0600,['/t/hardware'],DIY Thermocam,https://github.com/maxritter/DIY-Thermocam,/u/flyingfisch,5
-0,2017-02-08 13:46:58 -0600,['/t/web'],How We Made Builds Faster for Our New Users,https://runnable.com/blog/how-we-made-builds-faster-for-our-new-users,/u/taylor,2
-2,2017-02-08 07:43:25 -0600,['/t/css'],Code Smells in CSS Revisited,https://csswizardry.com/2017/02/code-smells-in-css-revisited/,/u/flyingfisch,3
-1,2017-02-08 13:19:19 -0600,['/t/javascript'],RxMarbles,http://rxmarbles.com/,/u/voronoipotato,2
-0,2017-02-08 10:20:46 -0600,"['/t/compsci', '/t/graphics']",Twitter image encoding challenge,http://stackoverflow.com/questions/891643/twitter-image-encoding-challenge,/u/mikejsavage,3
-0,2017-02-08 04:13:09 -0600,['/t/programming'],What do you mean by “Event-Driven”?,https://martinfowler.com/articles/201701-event-driven.html,/u/calvin,6
+11,2017-02-07 23:47:51 -0600,/t/emacs,Emacs Themes,http://www.greghendershott.com/2017/02/emacs-themes.html,/u/jeremy,23
+1,2017-02-09 04:24:45 -0600,/t/javascript,Whitestorm.js - 3D Framework for Three.js app development,https://github.com/WhitestormJS/whitestorm.js?8,/u/alex2401,0
+0,2017-02-08 17:08:27 -0600,"/t/assembly,/t/book,/t/reversing",Reverse Engineering a book cover,https://vulnsec.com/2017/reverse-engineering-a-book-cover/,/u/calvin,4
+0,2017-02-08 19:03:14 -0600,/t/science,"In the Blink of Bird’s Eye, a Model for Quantum Navigation",https://www.wired.com/2011/01/quantum-birds/,/u/kghose,3
+0,2017-02-08 11:22:25 -0600,"/t/haskell,/t/programming",The Earley library for Haskell can generate all members of a grammar,https://github.com/ollef/Earley,/u/bitemyapp,7
+0,2017-02-08 17:43:13 -0600,"/t/hardware,/t/reversing",Legacy systems are everywhere,https://trackchanges.postlight.com/legacy-systems-are-everywhere-dddccf08bf6e,/u/pushcx,3
+0,2017-02-08 11:50:52 -0600,"/t/cryptocurrencies,/t/security,/t/web",CONIKS vs Key Transparency vs Certificate Transparency vs Blockchains,https://blog.okturtles.com/2017/02/coniks-vs-key-transparency-vs-certificate-transparency-vs-blockchains/,/u/itistoday,3
+82,2017-02-08 05:23:48 -0600,"/t/go,/t/rant",Go is Not Good,https://github.com/ksimka/go-is-not-good,/u/av,28
+0,2017-02-08 12:18:27 -0600,"/t/mac,/t/release,/t/security",GPGTools Beta Available For macOS Sierra,https://gpgtools.org/,/u/atti1a,5
+0,2017-02-08 16:35:11 -0600,"/t/lisp,/t/programming",MJPEG Video Decoder in Common Lisp,http://blog.funcall.org/lisp/2017/02/07/announcing-cl-video/,/u/varjag,1
+6,2017-02-07 23:48:35 -0600,/t/javascript,"Dear JavaScript Maintainers,",http://thefullstack.xyz/dear-javascript-maintainers/,/u/dortzur,5
+1,2017-02-08 14:37:43 -0600,"/t/ios,/t/javascript,/t/swift",Retrospective: Swift at Artsy - Artsy Engineering,http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/,/u/therealadam,3
+0,2017-02-08 17:15:48 -0600,/t/c,Unexpected Places You Can And Can’t Use Null Bytes,https://eklitzke.org/unexpected-places-you-can-and-cant-use-null-bytes,/u/hypepat,2
+0,2017-02-08 08:19:21 -0600,"/t/hardware,/t/security",Using SDR to Take Control of Your Home Security System,http://hackaday.com/2017/02/06/using-sdr-to-take-control-of-your-home-security-system/,/u/flyingfisch,6
+4,2017-02-07 10:21:58 -0600,"/t/databases,/t/distributed",Jepsen: MongoDB 3.4.0-rc3,https://jepsen.io/analyses/mongodb-3-4-0-rc3,/u/aphyr,27
+22,2017-02-07 06:20:12 -0600,"/t/math,/t/reversing,/t/security",Russians Engineer a Brilliant Slot Machine Cheat—And Casinos Have No Fix,https://www.wired.com/2017/02/russians-engineer-brilliant-slot-machine-cheat-casinos-no-fix/,/u/av,43
+5,2017-02-08 02:02:25 -0600,"/t/graphics,/t/web",WebGPU: Next-generation 3D Graphics on the Web,https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/,/u/sanxiyn,5
+0,2017-02-08 09:27:01 -0600,/t/security,"The Steam Community Exploit, explained in-depth by a web developer and /r/steam Mod",https://www.reddit.com/r/Steam/comments/5srlwd/the_steam_community_exploit_explained_indepth_by/,/u/pushcx,4
+8,2017-02-07 12:24:17 -0600,/t/openbsd,openbsd changes of note 6,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-6,/u/calvin,22
+0,2017-02-08 07:34:19 -0600,/t/hardware,DIY Thermocam,https://github.com/maxritter/DIY-Thermocam,/u/flyingfisch,5
+0,2017-02-08 13:46:58 -0600,/t/web,How We Made Builds Faster for Our New Users,https://runnable.com/blog/how-we-made-builds-faster-for-our-new-users,/u/taylor,2
+2,2017-02-08 07:43:25 -0600,/t/css,Code Smells in CSS Revisited,https://csswizardry.com/2017/02/code-smells-in-css-revisited/,/u/flyingfisch,3
+1,2017-02-08 13:19:19 -0600,/t/javascript,RxMarbles,http://rxmarbles.com/,/u/voronoipotato,2
+0,2017-02-08 10:20:46 -0600,"/t/compsci,/t/graphics",Twitter image encoding challenge,http://stackoverflow.com/questions/891643/twitter-image-encoding-challenge,/u/mikejsavage,3
+0,2017-02-08 04:13:09 -0600,/t/programming,What do you mean by “Event-Driven”?,https://martinfowler.com/articles/201701-event-driven.html,/u/calvin,6

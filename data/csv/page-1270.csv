@@ -1,25 +1,25 @@
-0,2014-08-11 15:10:14 -0500,"['/t/design', '/t/web']",Pure CSS parallax scrolling websites,http://blog.keithclark.co.uk/pure-css-parallax-websites/,/u/flyingfisch,1
-0,2014-08-11 15:08:51 -0500,"['/t/art', '/t/programming']",Tweetable Mathematical Art - Programming Puzzles & Code Golf Stack Exchange,http://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art,/u/tobym,1
-0,2014-08-11 11:14:35 -0500,['/t/devops'],DevOps and The Enterprise: A Match Made in Heaven?,http://www.infoq.com/minibooks/emag-devops,/u/ancatrusca,1
-0,2014-08-11 10:14:19 -0500,['/t/programming'],InfoEducatie 2014 Software Engineering Contest,http://palcu.blogspot.com/2014/08/infoeducatie-2014.html,/u/palcu,1
-5,2014-08-10 19:31:10 -0500,"['/t/privacy', '/t/security']",Hackers Unveil Their Plan To Change Email Forever,http://time.com/3096341/email-encryption-hackers/,/u/journeysquid,3
-3,2014-08-10 17:24:15 -0500,"['/t/haskell', '/t/lisp', '/t/scala']","Types of `map` function in Haskell, Scala, and Clojure",http://missingfaktor.blogspot.de/2014/08/types-of-map-function-in-haskell-scala.html,/u/soc,7
-0,2014-08-11 07:30:15 -0500,['/t/practices'],How to Fix the Hardest Bug You've Ever Seen: The Scientific Method,http://yellerapp.com/posts/2014-08-11-scientific-debugging.html,/u/tcrayford,1
-0,2014-08-10 08:47:38 -0500,"['/t/haskell', '/t/programming']",Parsing CSS with Parsec in Haskell,http://blog.jakubarnold.cz/2014/08/10/parsing-css-with-parsec.html,/u/darthdeus,16
-11,2014-08-09 22:55:15 -0500,['/t/distributed'],Distributed systems theory for the distributed systems engineer,http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/,/u/henryr,20
-2,2014-08-10 15:17:18 -0500,"['/t/compsci', '/t/haskell', '/t/lisp']",Typing Transducers (as Kleisli arrows),http://tel.github.io/2014/08/10/typing-transducers/,/u/tel,4
-1,2014-08-10 18:04:28 -0500,"['/t/video', '/t/person']",Digital_Man/Digital_World,http://video.wfyi.org/video/2282149336/,/u/sevan,2
-0,2014-08-10 18:02:18 -0500,"['/t/compsci', '/t/haskell']",Clojure's Transducers are Perverse Lenses,http://www.reddit.com/r/haskell/comments/2cv6l4/clojures_transducers_are_perverse_lenses/,/u/hao,3
-0,2014-08-10 22:07:20 -0500,"['/t/pdf', '/t/science']",A Study of Women Heterozygous for Colour Deficiencies,http://vision.psychol.cam.ac.uk/jdmollon/papers/JordanMollon_Carriers.pdf,/u/davyjones,1
-0,2014-08-10 12:55:25 -0500,"['/t/pdf', '/t/security', '/t/virtualization']",Security of OS-level virtualization technologies,http://arxiv.org/pdf/1407.4245v1.pdf,/u/kyle,3
-1,2014-08-09 20:55:59 -0500,['/t/erlang'],Elixir v0.15.0 released,http://elixir-lang.org/blog/2014/08/07/elixir-v0-15-0-released/,/u/jcspencer,8
-0,2014-08-09 10:27:30 -0500,"['/t/browsers', '/t/linux']",Native Netflix on Linux/Chrome is now available,https://plus.google.com/104912707432334684242/posts/1gnbmo63xVa,/u/journeysquid,17
-1,2014-08-09 07:50:57 -0500,['/t/security'],Details of the Gamma Group hack by the attacker.,http://pastebin.com/raw.php?i=cRYvK4jb,/u/mahmud,12
-1,2014-08-09 15:47:43 -0500,"['/t/video', '/t/compsci']",How does Quantum Computing work?,https://www.youtube.com/user/mnielsencourses/videos,/u/ika,5
-0,2014-08-08 15:00:32 -0500,['/t/java'],What Is (Probably) Coming to the Java VM in a Few Years,http://dev.solita.fi/2014/08/04/what-is-coming-to-java-vm.html,/u/jeremy,22
-1,2014-08-08 14:03:02 -0500,"['/t/programming', '/t/web']",Building a toy browser engine,http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html,/u/calvin,15
-0,2014-08-08 20:08:22 -0500,['/t/art'],Painting in Clojure,http://tombooth.co.uk/painting-in-clojure,/u/silky,8
-1,2014-08-08 19:41:16 -0500,['/t/security'],"Visit the Wrong Website, and the FBI Could End Up in Your Computer",http://www.wired.com/2014/08/operation_torpedo/,/u/flyingfisch,7
-1,2014-08-08 08:44:22 -0500,['/t/compsci'],Six Points About Type Safety,http://tel.github.io/2014/08/08/six_points_about_type_safety/,/u/tel,17
-0,2014-08-08 15:05:34 -0500,"['/t/video', '/t/erlang', '/t/event']",Elixir Conf 2014 Videos,http://www.confreaks.com/events/elixirconf2014,/u/seubert,9
-7,2014-08-08 10:05:21 -0500,"['/t/api', '/t/windows']",The Worst API Ever Made,http://mollyrocket.com/casey/stream_0029.html,/u/journeysquid,7
+0,2014-08-11 15:10:14 -0500,"/t/design,/t/web",Pure CSS parallax scrolling websites,http://blog.keithclark.co.uk/pure-css-parallax-websites/,/u/flyingfisch,1
+0,2014-08-11 15:08:51 -0500,"/t/art,/t/programming",Tweetable Mathematical Art - Programming Puzzles & Code Golf Stack Exchange,http://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art,/u/tobym,1
+0,2014-08-11 11:14:35 -0500,/t/devops,DevOps and The Enterprise: A Match Made in Heaven?,http://www.infoq.com/minibooks/emag-devops,/u/ancatrusca,1
+0,2014-08-11 10:14:19 -0500,/t/programming,InfoEducatie 2014 Software Engineering Contest,http://palcu.blogspot.com/2014/08/infoeducatie-2014.html,/u/palcu,1
+5,2014-08-10 19:31:10 -0500,"/t/privacy,/t/security",Hackers Unveil Their Plan To Change Email Forever,http://time.com/3096341/email-encryption-hackers/,/u/journeysquid,3
+3,2014-08-10 17:24:15 -0500,"/t/haskell,/t/lisp,/t/scala","Types of `map` function in Haskell, Scala, and Clojure",http://missingfaktor.blogspot.de/2014/08/types-of-map-function-in-haskell-scala.html,/u/soc,7
+0,2014-08-11 07:30:15 -0500,/t/practices,How to Fix the Hardest Bug You've Ever Seen: The Scientific Method,http://yellerapp.com/posts/2014-08-11-scientific-debugging.html,/u/tcrayford,1
+0,2014-08-10 08:47:38 -0500,"/t/haskell,/t/programming",Parsing CSS with Parsec in Haskell,http://blog.jakubarnold.cz/2014/08/10/parsing-css-with-parsec.html,/u/darthdeus,16
+11,2014-08-09 22:55:15 -0500,/t/distributed,Distributed systems theory for the distributed systems engineer,http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/,/u/henryr,20
+2,2014-08-10 15:17:18 -0500,"/t/compsci,/t/haskell,/t/lisp",Typing Transducers (as Kleisli arrows),http://tel.github.io/2014/08/10/typing-transducers/,/u/tel,4
+1,2014-08-10 18:04:28 -0500,"/t/video,/t/person",Digital_Man/Digital_World,http://video.wfyi.org/video/2282149336/,/u/sevan,2
+0,2014-08-10 18:02:18 -0500,"/t/compsci,/t/haskell",Clojure's Transducers are Perverse Lenses,http://www.reddit.com/r/haskell/comments/2cv6l4/clojures_transducers_are_perverse_lenses/,/u/hao,3
+0,2014-08-10 22:07:20 -0500,"/t/pdf,/t/science",A Study of Women Heterozygous for Colour Deficiencies,http://vision.psychol.cam.ac.uk/jdmollon/papers/JordanMollon_Carriers.pdf,/u/davyjones,1
+0,2014-08-10 12:55:25 -0500,"/t/pdf,/t/security,/t/virtualization",Security of OS-level virtualization technologies,http://arxiv.org/pdf/1407.4245v1.pdf,/u/kyle,3
+1,2014-08-09 20:55:59 -0500,/t/erlang,Elixir v0.15.0 released,http://elixir-lang.org/blog/2014/08/07/elixir-v0-15-0-released/,/u/jcspencer,8
+0,2014-08-09 10:27:30 -0500,"/t/browsers,/t/linux",Native Netflix on Linux/Chrome is now available,https://plus.google.com/104912707432334684242/posts/1gnbmo63xVa,/u/journeysquid,17
+1,2014-08-09 07:50:57 -0500,/t/security,Details of the Gamma Group hack by the attacker.,http://pastebin.com/raw.php?i=cRYvK4jb,/u/mahmud,12
+1,2014-08-09 15:47:43 -0500,"/t/video,/t/compsci",How does Quantum Computing work?,https://www.youtube.com/user/mnielsencourses/videos,/u/ika,5
+0,2014-08-08 15:00:32 -0500,/t/java,What Is (Probably) Coming to the Java VM in a Few Years,http://dev.solita.fi/2014/08/04/what-is-coming-to-java-vm.html,/u/jeremy,22
+1,2014-08-08 14:03:02 -0500,"/t/programming,/t/web",Building a toy browser engine,http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html,/u/calvin,15
+0,2014-08-08 20:08:22 -0500,/t/art,Painting in Clojure,http://tombooth.co.uk/painting-in-clojure,/u/silky,8
+1,2014-08-08 19:41:16 -0500,/t/security,"Visit the Wrong Website, and the FBI Could End Up in Your Computer",http://www.wired.com/2014/08/operation_torpedo/,/u/flyingfisch,7
+1,2014-08-08 08:44:22 -0500,/t/compsci,Six Points About Type Safety,http://tel.github.io/2014/08/08/six_points_about_type_safety/,/u/tel,17
+0,2014-08-08 15:05:34 -0500,"/t/video,/t/erlang,/t/event",Elixir Conf 2014 Videos,http://www.confreaks.com/events/elixirconf2014,/u/seubert,9
+7,2014-08-08 10:05:21 -0500,"/t/api,/t/windows",The Worst API Ever Made,http://mollyrocket.com/casey/stream_0029.html,/u/journeysquid,7

@@ -1,25 +1,25 @@
-0,2017-04-19 13:00:39 -0500,"['/t/devops', '/t/release']",Introducing AWS CodeStar,https://aws.amazon.com/blogs/aws/new-aws-codestar/,/u/colin,5
-1,2017-04-19 03:49:23 -0500,['/t/compsci'],Daala demo pages,https://people.xiph.org/~xiphmont/demo/,/u/mikejsavage,10
-0,2017-04-19 08:19:18 -0500,['/t/compsci'],Cache eviction: when are randomized algorithms better than LRU?,https://danluu.com/2choices-eviction/,/u/pushcx,7
-0,2017-04-19 17:22:37 -0500,"['/t/api', '/t/web']","Roy Fielding on Versioning, Hypermedia, and REST [2014]",https://www.infoq.com/articles/roy-fielding-on-versioning/,/u/jumex,2
-17,2017-04-18 16:31:45 -0500,"['/t/privacy', '/t/security']",The Ad-Tech Industry Must Finally Admit That Their Product (Ads) is Dangerous,http://blog.jeremiahgrossman.com/2017/04/the-ad-tech-industry-must-finally-admit.html,/u/koen,19
-0,2017-04-19 14:30:10 -0500,"['/t/databases', '/t/go']",DBX: A neat codegen-based ORM written in Go,https://github.com/spacemonkeygo/dbx,/u/jtolds,3
-18,2017-04-18 11:14:02 -0500,"['/t/show', '/t/browsers', '/t/release', '/t/vim']","Second crowdfunding campaign for qutebrowser - a keyboard-focused, vim-like browser",https://www.kickstarter.com/projects/the-compiler/qutebrowser-v10-with-per-domain-settings?ref=dgtppw,/u/The-Compiler,26
-1,2017-04-19 08:15:14 -0500,"['/t/games', '/t/graphics']",Reading game frames in Python with OpenCV - Python Plays GTA V,https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/,/u/pushcx,5
-0,2017-04-19 20:18:50 -0500,['/t/testing'],Where do our flaky tests come from?,https://testing.googleblog.com/2017/04/where-do-our-flaky-tests-come-from.html,/u/pushcx,1
-0,2017-04-19 15:26:14 -0500,"['/t/privacy', '/t/release']",Tor Browser 6.5.2 is released,https://blog.torproject.org/blog/tor-browser-652-released,/u/trn,2
-5,2017-04-18 08:51:38 -0500,"['/t/go', '/t/web']",Moving from PHP (Laravel) to Go,https://dannyvankooten.com/laravel-to-golang/,/u/dvk,20
-7,2017-04-18 23:03:23 -0500,"['/t/compilers', '/t/lisp']",Type Tailoring,http://blog.racket-lang.org/2017/04/type-tailoring.html,/u/craigstuntz,8
-0,2017-04-19 15:15:05 -0500,"['/t/release', '/t/vcs']",Jupyter/Ipython notebook rendering now available in RhodeCode,https://rhodecode.com/blog/124/rhodecode-470-release-git-lfs-support-jupyter-notebooks-rendering,/u/maqio,2
-23,2017-04-18 12:48:38 -0500,['/t/programming'],4 forgotten code constructs: time to revisit the past?,https://medium.com/@christianmaioli/4-forgotten-code-constructs-time-to-revisit-the-past-4cb91051065,/u/innerspirit,12
-0,2017-04-19 07:59:21 -0500,"['/t/book', '/t/games', '/t/historical']","The History of Computer Role Playing Games, final preview",https://crpgbook.wordpress.com/2017/04/10/update-17-the-final-preview/,/u/pushcx,5
-0,2017-04-19 05:51:24 -0500,"['/t/games', '/t/programming']",The [Street Fighter 2] AI Engine,https://sf2platinum.wordpress.com/2017/01/20/the-ai-engine/,/u/calvin,6
-1,2017-04-19 07:56:14 -0500,['/t/graphics'],"Why Frustum Culling Matters, and Why It's Not Important",https://gist.github.com/nothings/913056601b56e5719cc987684a16544e,/u/pushcx,3
-24,2017-04-18 11:11:46 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/ptvoh3/what_are_you_working_on_this_week,/u/pushcx,23
-0,2017-04-19 12:38:15 -0500,['/t/testing'],Design Pressure,http://kellysutton.com/2017/04/18/design-pressure.html,/u/pushcx,2
-6,2017-04-18 10:40:40 -0500,"['/t/devops', '/t/linux']",A Gentle Introduction to the Nix Family,http://ebzzry.io/en/nix/,/u/pushcx,21
-2,2017-04-18 14:03:43 -0500,['/t/programming'],"Last Week in Pony - April 17, 2017",https://www.ponylang.org/blog/2017/04/last-week-in-pony---april-17-2017/,/u/SeanTAllen,10
-2,2017-04-18 06:11:03 -0500,"['/t/crypto', '/t/math']",Exploring Zero-Knowledge Proofs (2016),http://manishearth.github.io/blog/2016/03/05/exploring-zero-knowledge-proofs/,/u/Manishearth,25
-0,2017-04-19 06:11:56 -0500,"['/t/linux', '/t/virtualization']","Announcing LinuxKit: A Toolkit for building Secure, Lean and Portable Linux Subsystems",https://blog.docker.com/2017/04/introducing-linuxkit-container-os-toolkit/,/u/behemoth,3
-0,2017-04-18 18:33:59 -0500,['/t/go'],goof: Go object finder (runtime binary introspection),https://github.com/zeebo/goof,/u/zeebo,6
-10,2017-04-18 08:24:57 -0500,"['/t/law', '/t/programming']","Web Scraping and Crawling Are Perfectly Legal, Right?",https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/,/u/mbenbernard,9
+0,2017-04-19 13:00:39 -0500,"/t/devops,/t/release",Introducing AWS CodeStar,https://aws.amazon.com/blogs/aws/new-aws-codestar/,/u/colin,5
+1,2017-04-19 03:49:23 -0500,/t/compsci,Daala demo pages,https://people.xiph.org/~xiphmont/demo/,/u/mikejsavage,10
+0,2017-04-19 08:19:18 -0500,/t/compsci,Cache eviction: when are randomized algorithms better than LRU?,https://danluu.com/2choices-eviction/,/u/pushcx,7
+0,2017-04-19 17:22:37 -0500,"/t/api,/t/web","Roy Fielding on Versioning, Hypermedia, and REST [2014]",https://www.infoq.com/articles/roy-fielding-on-versioning/,/u/jumex,2
+17,2017-04-18 16:31:45 -0500,"/t/privacy,/t/security",The Ad-Tech Industry Must Finally Admit That Their Product (Ads) is Dangerous,http://blog.jeremiahgrossman.com/2017/04/the-ad-tech-industry-must-finally-admit.html,/u/koen,19
+0,2017-04-19 14:30:10 -0500,"/t/databases,/t/go",DBX: A neat codegen-based ORM written in Go,https://github.com/spacemonkeygo/dbx,/u/jtolds,3
+18,2017-04-18 11:14:02 -0500,"/t/show,/t/browsers,/t/release,/t/vim","Second crowdfunding campaign for qutebrowser - a keyboard-focused, vim-like browser",https://www.kickstarter.com/projects/the-compiler/qutebrowser-v10-with-per-domain-settings?ref=dgtppw,/u/The-Compiler,26
+1,2017-04-19 08:15:14 -0500,"/t/games,/t/graphics",Reading game frames in Python with OpenCV - Python Plays GTA V,https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/,/u/pushcx,5
+0,2017-04-19 20:18:50 -0500,/t/testing,Where do our flaky tests come from?,https://testing.googleblog.com/2017/04/where-do-our-flaky-tests-come-from.html,/u/pushcx,1
+0,2017-04-19 15:26:14 -0500,"/t/privacy,/t/release",Tor Browser 6.5.2 is released,https://blog.torproject.org/blog/tor-browser-652-released,/u/trn,2
+5,2017-04-18 08:51:38 -0500,"/t/go,/t/web",Moving from PHP (Laravel) to Go,https://dannyvankooten.com/laravel-to-golang/,/u/dvk,20
+7,2017-04-18 23:03:23 -0500,"/t/compilers,/t/lisp",Type Tailoring,http://blog.racket-lang.org/2017/04/type-tailoring.html,/u/craigstuntz,8
+0,2017-04-19 15:15:05 -0500,"/t/release,/t/vcs",Jupyter/Ipython notebook rendering now available in RhodeCode,https://rhodecode.com/blog/124/rhodecode-470-release-git-lfs-support-jupyter-notebooks-rendering,/u/maqio,2
+23,2017-04-18 12:48:38 -0500,/t/programming,4 forgotten code constructs: time to revisit the past?,https://medium.com/@christianmaioli/4-forgotten-code-constructs-time-to-revisit-the-past-4cb91051065,/u/innerspirit,12
+0,2017-04-19 07:59:21 -0500,"/t/book,/t/games,/t/historical","The History of Computer Role Playing Games, final preview",https://crpgbook.wordpress.com/2017/04/10/update-17-the-final-preview/,/u/pushcx,5
+0,2017-04-19 05:51:24 -0500,"/t/games,/t/programming",The [Street Fighter 2] AI Engine,https://sf2platinum.wordpress.com/2017/01/20/the-ai-engine/,/u/calvin,6
+1,2017-04-19 07:56:14 -0500,/t/graphics,"Why Frustum Culling Matters, and Why It's Not Important",https://gist.github.com/nothings/913056601b56e5719cc987684a16544e,/u/pushcx,3
+24,2017-04-18 11:11:46 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/ptvoh3/what_are_you_working_on_this_week,/u/pushcx,23
+0,2017-04-19 12:38:15 -0500,/t/testing,Design Pressure,http://kellysutton.com/2017/04/18/design-pressure.html,/u/pushcx,2
+6,2017-04-18 10:40:40 -0500,"/t/devops,/t/linux",A Gentle Introduction to the Nix Family,http://ebzzry.io/en/nix/,/u/pushcx,21
+2,2017-04-18 14:03:43 -0500,/t/programming,"Last Week in Pony - April 17, 2017",https://www.ponylang.org/blog/2017/04/last-week-in-pony---april-17-2017/,/u/SeanTAllen,10
+2,2017-04-18 06:11:03 -0500,"/t/crypto,/t/math",Exploring Zero-Knowledge Proofs (2016),http://manishearth.github.io/blog/2016/03/05/exploring-zero-knowledge-proofs/,/u/Manishearth,25
+0,2017-04-19 06:11:56 -0500,"/t/linux,/t/virtualization","Announcing LinuxKit: A Toolkit for building Secure, Lean and Portable Linux Subsystems",https://blog.docker.com/2017/04/introducing-linuxkit-container-os-toolkit/,/u/behemoth,3
+0,2017-04-18 18:33:59 -0500,/t/go,goof: Go object finder (runtime binary introspection),https://github.com/zeebo/goof,/u/zeebo,6
+10,2017-04-18 08:24:57 -0500,"/t/law,/t/programming","Web Scraping and Crawling Are Perfectly Legal, Right?",https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/,/u/mbenbernard,9

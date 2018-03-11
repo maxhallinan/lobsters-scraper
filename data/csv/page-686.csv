@@ -1,25 +1,25 @@
-1,2016-08-18 08:15:40 -0500,"['/t/historical', '/t/mobile', '/t/windows']","Microsoft saw the future, but missed creating it",http://www.extremetech.com/computing/206519-microsoft-saw-the-future-but-missed-creating-it,/u/calvin,3
-0,2016-08-18 17:03:00 -0500,['/t/crypto'],Exploiting two buggy SRP implementations,https://www.computest.nl/blog/exploiting-two-buggy-srp-implementations/,/u/tedu,1
-0,2016-08-18 07:16:23 -0500,['/t/programming'],Mentoring at Festival of Code 2016,https://xiaodi.li/blog/festival_of_code_2016/,/u/xdl,2
-6,2016-08-17 13:33:00 -0500,"['/t/audio', '/t/openbsd']",OpenBSD release song for 6.0: Comfortably Dumb (the misc song),https://www.openbsd.org/lyrics.html#60d,/u/calvin,18
-0,2016-08-18 12:03:45 -0500,"['/t/audio', '/t/security']",Cory Doctorow on legally disabling DRM (for good),https://www.oreilly.com/ideas/cory-doctorow-on-legally-disabling-drm-for-good,/u/quobit,2
-0,2016-08-18 15:47:46 -0500,['/t/devops'],Environment Variable Templates,http://steveadams.io/2016/08/18/Environment-Variable-Templates.html,/u/antifuchs,1
-0,2016-08-18 15:35:27 -0500,['/t/web'],Bouncy Ball - Compare Web Animation Techniques,http://sparkbox.github.io/bouncy-ball/,/u/flyingfisch,1
-0,2016-08-18 08:53:18 -0500,"['/t/cryptocurrencies', '/t/security']",RFC 7914 - The scrypt Password-Based Key Derivation Function,https://tools.ietf.org/html/rfc7914,/u/mjturner,3
-0,2016-08-18 06:36:20 -0500,"['/t/crypto', '/t/release', '/t/security']",Security fixes for Libgcrypt and GnuPG 1.4 [CVE-2016-6316],https://lists.gnu.org/archive/html/info-gnu/2016-08/msg00008.html,/u/mulander,3
-0,2016-08-18 03:47:04 -0500,['/t/historical'],A history of Palm,http://www.osnews.com/story/29357/A_history_of_Palm,/u/julienXX,4
-0,2016-08-18 11:33:39 -0500,['/t/science'],Knuckle-cracking is actually good for you,http://www.cnn.com/2016/08/18/health/knuckle-cracking-good-not-bad/index.html,/u/kghose,1
-0,2016-08-18 04:43:28 -0500,['/t/visualization'],How the Olympics explains multidimensional data,https://medium.swirrl.com/how-the-olympics-explains-multidimensional-data-8e58b127edb2,/u/InkyHarmonics,3
-0,2016-08-18 03:57:18 -0500,"['/t/networking', '/t/security']",Public DNS/ICMP Tunnelling Service,http://dnstun.com,/u/mjturner,3
-4,2016-08-17 14:54:08 -0500,"['/t/c', '/t/openbsd']","'Generate syslog warnings for %s fmt strings NULL to ""(null)"" conversions'",https://marc.info/?l=openbsd-cvs&m=147145726418443&w=2,/u/jabberwock,7
-1,2016-08-17 23:40:50 -0500,['/t/culture'],"""I got hired at my first (programming) job 4 months ago. Here are some things I was not ready for.""",https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/,/u/zem,8
-0,2016-08-18 08:08:36 -0500,"['/t/games', '/t/historical', '/t/mobile']","Pocket Pioneers: An Interview with Howard Tomilnson, Co-Founder Of Astraware",https://medium.com/@ylitvinenko/pocket-pioneers-an-interview-with-howard-tomilnson-co-founder-of-astraware-3143a073d968,/u/calvin,1
-2,2016-08-17 10:31:43 -0500,['/t/programming'],Legacy Systems as Old Cities,https://recompilermag.com/issues/issue-4/legacy-systems-as-old-cities/,/u/adsouza,11
-18,2016-08-17 14:35:03 -0500,"['/t/culture', '/t/person']","Urgent: Chelsea Manning is being charged for her own suicide attempt, faces indefinite solitary conf",https://www.freechelsea.com/,/u/rain1,23
-7,2016-08-17 07:08:28 -0500,"['/t/api', '/t/practices', '/t/satire', '/t/web']",The S stands for Simple,http://harmful.cat-v.org/software/xml/soap/simple,/u/ssl,34
-1,2016-08-17 09:29:40 -0500,"['/t/elixir', '/t/erlang', '/t/event']","Erlang, Elixir, Efene & LFE Buenos Aires Meetup - Sept. 28th @ Inaka's offices",http://www.meetup.com/es/ErlangBA/events/232750618/,/u/elbrujohalcon,6
-5,2016-08-17 05:11:24 -0500,['/t/linux'],Debian turns 23!,https://bits.debian.org/2016/08/debian-turns-23.html,/u/mjturner,19
-2,2016-08-17 12:51:58 -0500,"['/t/cryptocurrencies', '/t/law', '/t/person']",Stealing bitcoins with badges: How Silk Road’s dirty cops got caught,http://arstechnica.com/tech-policy/2016/08/stealing-bitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/,/u/pushcx,6
-0,2016-08-17 15:50:34 -0500,['/t/math'],"Darts, Dice, and Coins",http://www.keithschwarz.com/darts-dice-coins/,/u/ngoldbaum,5
-14,2016-08-16 20:10:03 -0500,['/t/security'],Snowden's analysis of the EquationGroup hack,https://twitter.com/snowden/status/765513776372342784,/u/omphalos,15
-0,2016-08-17 16:42:01 -0500,['/t/web'],Why Refback Still Matters,https://gkbrk.com/2016/08/why-refback-still-matters/,/u/gkbrk,1
+1,2016-08-18 08:15:40 -0500,"/t/historical,/t/mobile,/t/windows","Microsoft saw the future, but missed creating it",http://www.extremetech.com/computing/206519-microsoft-saw-the-future-but-missed-creating-it,/u/calvin,3
+0,2016-08-18 17:03:00 -0500,/t/crypto,Exploiting two buggy SRP implementations,https://www.computest.nl/blog/exploiting-two-buggy-srp-implementations/,/u/tedu,1
+0,2016-08-18 07:16:23 -0500,/t/programming,Mentoring at Festival of Code 2016,https://xiaodi.li/blog/festival_of_code_2016/,/u/xdl,2
+6,2016-08-17 13:33:00 -0500,"/t/audio,/t/openbsd",OpenBSD release song for 6.0: Comfortably Dumb (the misc song),https://www.openbsd.org/lyrics.html#60d,/u/calvin,18
+0,2016-08-18 12:03:45 -0500,"/t/audio,/t/security",Cory Doctorow on legally disabling DRM (for good),https://www.oreilly.com/ideas/cory-doctorow-on-legally-disabling-drm-for-good,/u/quobit,2
+0,2016-08-18 15:47:46 -0500,/t/devops,Environment Variable Templates,http://steveadams.io/2016/08/18/Environment-Variable-Templates.html,/u/antifuchs,1
+0,2016-08-18 15:35:27 -0500,/t/web,Bouncy Ball - Compare Web Animation Techniques,http://sparkbox.github.io/bouncy-ball/,/u/flyingfisch,1
+0,2016-08-18 08:53:18 -0500,"/t/cryptocurrencies,/t/security",RFC 7914 - The scrypt Password-Based Key Derivation Function,https://tools.ietf.org/html/rfc7914,/u/mjturner,3
+0,2016-08-18 06:36:20 -0500,"/t/crypto,/t/release,/t/security",Security fixes for Libgcrypt and GnuPG 1.4 [CVE-2016-6316],https://lists.gnu.org/archive/html/info-gnu/2016-08/msg00008.html,/u/mulander,3
+0,2016-08-18 03:47:04 -0500,/t/historical,A history of Palm,http://www.osnews.com/story/29357/A_history_of_Palm,/u/julienXX,4
+0,2016-08-18 11:33:39 -0500,/t/science,Knuckle-cracking is actually good for you,http://www.cnn.com/2016/08/18/health/knuckle-cracking-good-not-bad/index.html,/u/kghose,1
+0,2016-08-18 04:43:28 -0500,/t/visualization,How the Olympics explains multidimensional data,https://medium.swirrl.com/how-the-olympics-explains-multidimensional-data-8e58b127edb2,/u/InkyHarmonics,3
+0,2016-08-18 03:57:18 -0500,"/t/networking,/t/security",Public DNS/ICMP Tunnelling Service,http://dnstun.com,/u/mjturner,3
+4,2016-08-17 14:54:08 -0500,"/t/c,/t/openbsd","'Generate syslog warnings for %s fmt strings NULL to ""(null)"" conversions'",https://marc.info/?l=openbsd-cvs&m=147145726418443&w=2,/u/jabberwock,7
+1,2016-08-17 23:40:50 -0500,/t/culture,"""I got hired at my first (programming) job 4 months ago. Here are some things I was not ready for.""",https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/,/u/zem,8
+0,2016-08-18 08:08:36 -0500,"/t/games,/t/historical,/t/mobile","Pocket Pioneers: An Interview with Howard Tomilnson, Co-Founder Of Astraware",https://medium.com/@ylitvinenko/pocket-pioneers-an-interview-with-howard-tomilnson-co-founder-of-astraware-3143a073d968,/u/calvin,1
+2,2016-08-17 10:31:43 -0500,/t/programming,Legacy Systems as Old Cities,https://recompilermag.com/issues/issue-4/legacy-systems-as-old-cities/,/u/adsouza,11
+18,2016-08-17 14:35:03 -0500,"/t/culture,/t/person","Urgent: Chelsea Manning is being charged for her own suicide attempt, faces indefinite solitary conf",https://www.freechelsea.com/,/u/rain1,23
+7,2016-08-17 07:08:28 -0500,"/t/api,/t/practices,/t/satire,/t/web",The S stands for Simple,http://harmful.cat-v.org/software/xml/soap/simple,/u/ssl,34
+1,2016-08-17 09:29:40 -0500,"/t/elixir,/t/erlang,/t/event","Erlang, Elixir, Efene & LFE Buenos Aires Meetup - Sept. 28th @ Inaka's offices",http://www.meetup.com/es/ErlangBA/events/232750618/,/u/elbrujohalcon,6
+5,2016-08-17 05:11:24 -0500,/t/linux,Debian turns 23!,https://bits.debian.org/2016/08/debian-turns-23.html,/u/mjturner,19
+2,2016-08-17 12:51:58 -0500,"/t/cryptocurrencies,/t/law,/t/person",Stealing bitcoins with badges: How Silk Road’s dirty cops got caught,http://arstechnica.com/tech-policy/2016/08/stealing-bitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/,/u/pushcx,6
+0,2016-08-17 15:50:34 -0500,/t/math,"Darts, Dice, and Coins",http://www.keithschwarz.com/darts-dice-coins/,/u/ngoldbaum,5
+14,2016-08-16 20:10:03 -0500,/t/security,Snowden's analysis of the EquationGroup hack,https://twitter.com/snowden/status/765513776372342784,/u/omphalos,15
+0,2016-08-17 16:42:01 -0500,/t/web,Why Refback Still Matters,https://gkbrk.com/2016/08/why-refback-still-matters/,/u/gkbrk,1

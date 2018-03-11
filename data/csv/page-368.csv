@@ -1,25 +1,25 @@
-0,2017-05-13 15:44:44 -0500,"['/t/javascript', '/t/nodejs']",8 npm Tricks You Can Use to Impress Your Colleagues,https://medium.com/@adiramsalem/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e,/u/Adir,1
-0,2017-05-13 08:56:23 -0500,"['/t/security', '/t/windows']",Customer Guidance for WannaCrypt attacks,https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/,/u/calvin,5
-6,2017-05-12 11:36:56 -0500,['/t/unix'],My journey into Nix,https://adelbertc.github.io/posts/2017-04-03-nix-journey.html,/u/pushcx,29
-5,2017-05-12 10:11:38 -0500,['/t/law'],A federal court has ruled that an open-source license is an enforceable contract,https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/,/u/indy,37
-0,2017-05-13 12:42:32 -0500,"['/t/netbsd', '/t/unix']",Updates to man-k.org,http://mail-index.netbsd.org/netbsd-users/2017/05/12/msg019549.html,/u/sevan,2
-1,2017-05-13 00:17:20 -0500,['/t/android'],Treble: A modular base for Android,https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html,/u/av,9
-13,2017-05-12 07:28:05 -0500,"['/t/compilers', '/t/scala']",Scala Design Failure: Implicit Numeric Conversions,http://soc.github.io/lessons-learned/implicit-numeric-conversions.html,/u/soc,19
-4,2017-05-12 18:34:48 -0500,['/t/rust'],The `?` operator in Rust,https://m4rw3r.github.io/rust-questionmark-operator,/u/unbalancedparentheses,7
-24,2017-05-12 09:23:53 -0500,['/t/practices'],America has become so anti-innovation – it's economic suicide,https://www.theguardian.com/technology/2017/may/11/tech-innovation-silicon-valley-juicero,/u/remy_porter,9
-0,2017-05-12 20:16:19 -0500,"['/t/pdf', '/t/c', '/t/c++', '/t/formalmethods', '/t/security']","Under-constrained, Symbolic Execution: Correctness Checking for Real Code (2015)",https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ramos.pdf,/u/nickpsecurity,8
-0,2017-05-12 20:13:03 -0500,"['/t/pdf', '/t/c', '/t/formalmethods']","Practical, low-effort, equivalence verification for real code (2011)",http://www.pgbovine.net/PhD-memoir/ucklee-cav-2011.pdf,/u/nickpsecurity,7
-1,2017-05-12 13:17:14 -0500,['/t/programming'],Serialization in D,https://dlang.org/blog/2017/05/12/serialization-in-d/,/u/qznc,8
-2,2017-05-12 16:11:29 -0500,"['/t/android', '/t/databases', '/t/java', '/t/release']",Nitrite: An Embedded NoSQL Database for Java and Android,https://medium.com/@anidotnet/nitrite-an-embedded-nosql-database-for-java-and-android-318bf48c7758,/u/pushcx,5
-0,2017-05-12 13:13:32 -0500,"['/t/lua', '/t/programming']",How to generate Lua boilerplate with D,http://beza1e1.tuxen.de/into_luad.html,/u/qznc,5
-0,2017-05-12 10:47:21 -0500,['/t/vcs'],Merging with diff3,https://blog.jcoglan.com/2017/05/08/merging-with-diff3/,/u/pushcx,12
-3,2017-05-12 16:10:58 -0500,['/t/databases'],"RediSQL, Road to ~50K inserts per seconds.",https://siscia.github.io/freelancer-theme/2017/05/10/redisql-road-to-50k.html,/u/pushcx,3
-8,2017-05-12 09:41:29 -0500,['/t/practices'],Best Practices vs Witch Hunts,https://accu.org/index.php/journals/2066,/u/mikejsavage,6
-2,2017-05-12 16:43:09 -0500,"['/t/art', '/t/culture', '/t/visualization']",Are Pop Lyrics Getting More Repetitive?,https://pudding.cool/2017/05/song-repetition/,/u/hwayne,10
-1,2017-05-12 10:15:49 -0500,['/t/practices'],Towards true continuous integration,https://medium.com/netflix-techblog/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051,/u/adsouza,6
-0,2017-05-12 18:51:56 -0500,"['/t/browsers', '/t/web']",Quantum Up Close: What is a browser engine?,https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/,/u/wally,3
-0,2017-05-12 06:38:20 -0500,"['/t/historical', '/t/unix', '/t/visualization']",Unix Architecture Evolution Diagrams,https://www.spinellis.gr/blog/20170510/,/u/calvin,12
-1,2017-05-12 13:54:38 -0500,"['/t/video', '/t/design', '/t/historical']",The Hersey Fonts with Frank Griesshammer (2016),https://vimeo.com/178015110,/u/sevan,3
-3,2017-05-12 16:28:11 -0500,"['/t/ask', '/t/law']",When is it legal to relicence code?,/s/qa0akh/when_is_it_legal_relicence_code,/u/steveno,1
-4,2017-05-12 03:55:45 -0500,"['/t/show', '/t/education', '/t/javascript']",Building products with javascript - free open source CC/MIT licensed video course on advanced js,https://github.com/yamalight/building-products-with-js,/u/yamalight,5
-11,2017-05-11 09:16:48 -0500,['/t/security'],Keylogger in Hewlett-Packard Audio Driver,https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html,/u/brinker,47
+0,2017-05-13 15:44:44 -0500,"/t/javascript,/t/nodejs",8 npm Tricks You Can Use to Impress Your Colleagues,https://medium.com/@adiramsalem/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e,/u/Adir,1
+0,2017-05-13 08:56:23 -0500,"/t/security,/t/windows",Customer Guidance for WannaCrypt attacks,https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/,/u/calvin,5
+6,2017-05-12 11:36:56 -0500,/t/unix,My journey into Nix,https://adelbertc.github.io/posts/2017-04-03-nix-journey.html,/u/pushcx,29
+5,2017-05-12 10:11:38 -0500,/t/law,A federal court has ruled that an open-source license is an enforceable contract,https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/,/u/indy,37
+0,2017-05-13 12:42:32 -0500,"/t/netbsd,/t/unix",Updates to man-k.org,http://mail-index.netbsd.org/netbsd-users/2017/05/12/msg019549.html,/u/sevan,2
+1,2017-05-13 00:17:20 -0500,/t/android,Treble: A modular base for Android,https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html,/u/av,9
+13,2017-05-12 07:28:05 -0500,"/t/compilers,/t/scala",Scala Design Failure: Implicit Numeric Conversions,http://soc.github.io/lessons-learned/implicit-numeric-conversions.html,/u/soc,19
+4,2017-05-12 18:34:48 -0500,/t/rust,The `?` operator in Rust,https://m4rw3r.github.io/rust-questionmark-operator,/u/unbalancedparentheses,7
+24,2017-05-12 09:23:53 -0500,/t/practices,America has become so anti-innovation – it's economic suicide,https://www.theguardian.com/technology/2017/may/11/tech-innovation-silicon-valley-juicero,/u/remy_porter,9
+0,2017-05-12 20:16:19 -0500,"/t/pdf,/t/c,/t/c++,/t/formalmethods,/t/security","Under-constrained, Symbolic Execution: Correctness Checking for Real Code (2015)",https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ramos.pdf,/u/nickpsecurity,8
+0,2017-05-12 20:13:03 -0500,"/t/pdf,/t/c,/t/formalmethods","Practical, low-effort, equivalence verification for real code (2011)",http://www.pgbovine.net/PhD-memoir/ucklee-cav-2011.pdf,/u/nickpsecurity,7
+1,2017-05-12 13:17:14 -0500,/t/programming,Serialization in D,https://dlang.org/blog/2017/05/12/serialization-in-d/,/u/qznc,8
+2,2017-05-12 16:11:29 -0500,"/t/android,/t/databases,/t/java,/t/release",Nitrite: An Embedded NoSQL Database for Java and Android,https://medium.com/@anidotnet/nitrite-an-embedded-nosql-database-for-java-and-android-318bf48c7758,/u/pushcx,5
+0,2017-05-12 13:13:32 -0500,"/t/lua,/t/programming",How to generate Lua boilerplate with D,http://beza1e1.tuxen.de/into_luad.html,/u/qznc,5
+0,2017-05-12 10:47:21 -0500,/t/vcs,Merging with diff3,https://blog.jcoglan.com/2017/05/08/merging-with-diff3/,/u/pushcx,12
+3,2017-05-12 16:10:58 -0500,/t/databases,"RediSQL, Road to ~50K inserts per seconds.",https://siscia.github.io/freelancer-theme/2017/05/10/redisql-road-to-50k.html,/u/pushcx,3
+8,2017-05-12 09:41:29 -0500,/t/practices,Best Practices vs Witch Hunts,https://accu.org/index.php/journals/2066,/u/mikejsavage,6
+2,2017-05-12 16:43:09 -0500,"/t/art,/t/culture,/t/visualization",Are Pop Lyrics Getting More Repetitive?,https://pudding.cool/2017/05/song-repetition/,/u/hwayne,10
+1,2017-05-12 10:15:49 -0500,/t/practices,Towards true continuous integration,https://medium.com/netflix-techblog/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051,/u/adsouza,6
+0,2017-05-12 18:51:56 -0500,"/t/browsers,/t/web",Quantum Up Close: What is a browser engine?,https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/,/u/wally,3
+0,2017-05-12 06:38:20 -0500,"/t/historical,/t/unix,/t/visualization",Unix Architecture Evolution Diagrams,https://www.spinellis.gr/blog/20170510/,/u/calvin,12
+1,2017-05-12 13:54:38 -0500,"/t/video,/t/design,/t/historical",The Hersey Fonts with Frank Griesshammer (2016),https://vimeo.com/178015110,/u/sevan,3
+3,2017-05-12 16:28:11 -0500,"/t/ask,/t/law",When is it legal to relicence code?,/s/qa0akh/when_is_it_legal_relicence_code,/u/steveno,1
+4,2017-05-12 03:55:45 -0500,"/t/show,/t/education,/t/javascript",Building products with javascript - free open source CC/MIT licensed video course on advanced js,https://github.com/yamalight/building-products-with-js,/u/yamalight,5
+11,2017-05-11 09:16:48 -0500,/t/security,Keylogger in Hewlett-Packard Audio Driver,https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html,/u/brinker,47

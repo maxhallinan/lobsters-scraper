@@ -1,25 +1,25 @@
-3,2017-09-09 05:03:16 -0500,['/t/graphics'],Precomputed Atmospheric Scattering,https://ebruneton.github.io/precomputed_atmospheric_scattering/,/u/mikejsavage,6
-0,2017-09-09 06:07:28 -0500,"['/t/practices', '/t/programming']",Pharo MOOC: Live Object Programming in Pharo,http://mooc.pharo.org,/u/sevan,9
-1,2017-09-08 21:35:35 -0500,"['/t/javascript', '/t/web']",Why you moved from Angular 2 to Vue.js (and why you didn’t understand what React is about),https://medium.com/@resir014/why-you-moved-from-angular-2-to-vue-js-and-why-you-didnt-understand-what-react-is-about-107ea9188912,/u/resir014,9
-0,2017-09-09 05:01:31 -0500,"['/t/games', '/t/graphics']","Game Development Articles, Publications, Papers, Resources",http://gamedevs.org/,/u/mikejsavage,7
-0,2017-09-09 12:33:43 -0500,"['/t/book', '/t/haskell']",Haskell Tutorial and Cookbook,https://leanpub.com/haskell-cookbook,/u/pushcx,2
-0,2017-09-09 12:32:54 -0500,"['/t/compilers', '/t/ruby']",The Structure and Interpretation of Ruby Programs,https://www.nasseri.io/posts/1.html,/u/pushcx,2
-16,2017-09-08 04:29:51 -0500,"['/t/dragonflybsd', '/t/meta']",Add DragonFlyBSD tag,/s/iqeygo/add_dragonflybsd_tag,/u/matthias,38
-0,2017-09-09 08:41:42 -0500,['/t/ai'],Teaching a Neural Network to play a game using Q-learning,https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/,/u/calvin,3
-2,2017-09-08 19:21:43 -0500,"['/t/devops', '/t/practices']",Reducing Human Error in Software Based Services,http://biven.org/human-error/,/u/mbiven,7
-25,2017-09-08 04:49:27 -0500,"['/t/book', '/t/c']",Beej's Guide to C Programming,https://beej.us/guide/bgc/,/u/pushcx,36
-0,2017-09-09 09:20:06 -0500,"['/t/dotnet', '/t/programming', '/t/web']",ASP.NET Core 2.0 - Repository Overview: Action Selection,http://jackhiston.com/2017/9/9/aspnet-core-20-repository-overview-action-selection/,/u/Cyph3r90,1
-0,2017-09-08 16:45:16 -0500,['/t/security'],Why the Equifax breach is very possibly the worst leak of personal info ever,https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/,/u/stevejalim,19
-6,2017-09-08 07:55:50 -0500,"['/t/programming', '/t/security']",XML? Be cautious!,https://blog.pragmatists.com/xml-be-cautious-69a981fdc56a,/u/calvin,21
-0,2017-09-08 19:39:44 -0500,"['/t/crypto', '/t/math']",The Xorshift128+ random number generator fails BigCrush,https://lemire.me/blog/2017/09/08/the-xorshift128-random-number-generator-fails-bigcrush/,/u/GeoffWozniak,9
-2,2017-09-08 16:45:36 -0500,['/t/programming'],Precise Abstractions,http://beza1e1.tuxen.de/precise_abstractions.html,/u/qznc,4
-0,2017-09-08 18:21:58 -0500,"['/t/practices', '/t/programming']",Stress Free Programming,http://theprogrammersparadox.blogspot.com/2017/08/stress-free-programming.html,/u/adsouza,8
-0,2017-09-09 00:23:57 -0500,"['/t/video', '/t/security']",The Threat by Ross Anderson,https://www.youtube.com/watch?v=rSw0fDCSfX8,/u/sustrik,3
-20,2017-09-08 09:40:16 -0500,"['/t/dragonflybsd', '/t/freebsd', '/t/linux', '/t/unix']",About the Ravenports Universal Package System,http://ravenports.ironwolf.systems/,/u/matthias,8
-5,2017-09-07 10:50:30 -0500,"['/t/lisp', '/t/unix']",GNU Daemon Shepherd - an alternative init system,https://www.gnu.org/software/shepherd/,/u/akacase,39
-0,2017-09-08 12:17:23 -0500,['/t/law'],Court Ruling Adds New Power to Open Source Licenses,http://windowsitpro.com/open-source/court-ruling-adds-new-power-open-source-licenses,/u/pushcx,8
-1,2017-09-08 09:27:53 -0500,['/t/networking'],An Opinion in Defence of NATs,http://www.potaroo.net/ispcol/2017-09/natdefence.html,/u/mwest,10
-18,2017-09-07 12:51:49 -0500,"['/t/art', '/t/design']",The Uncomfortable,https://www.theuncomfortable.com/,/u/friendlysock,48
-1,2017-09-08 15:39:36 -0500,['/t/databases'],"Citus 7: Transactions, Framework Integration, and Postgres 10",https://www.citusdata.com/blog/2017/09/07/citus-7-distributed-transactions-frameworks-and-pg10/,/u/craigkerstiens,4
-3,2017-09-08 06:06:54 -0500,"['/t/pdf', '/t/book', '/t/compsci']",SICP PDF with Texinfo and LaTeX source,https://github.com/sarabander/sicp-pdf,/u/pushcx,11
-0,2017-09-08 18:01:12 -0500,['/t/api'],Pushpin - a reverse proxy for real-time web services,http://pushpin.org/,/u/justinucd,3
+3,2017-09-09 05:03:16 -0500,/t/graphics,Precomputed Atmospheric Scattering,https://ebruneton.github.io/precomputed_atmospheric_scattering/,/u/mikejsavage,6
+0,2017-09-09 06:07:28 -0500,"/t/practices,/t/programming",Pharo MOOC: Live Object Programming in Pharo,http://mooc.pharo.org,/u/sevan,9
+1,2017-09-08 21:35:35 -0500,"/t/javascript,/t/web",Why you moved from Angular 2 to Vue.js (and why you didn’t understand what React is about),https://medium.com/@resir014/why-you-moved-from-angular-2-to-vue-js-and-why-you-didnt-understand-what-react-is-about-107ea9188912,/u/resir014,9
+0,2017-09-09 05:01:31 -0500,"/t/games,/t/graphics","Game Development Articles, Publications, Papers, Resources",http://gamedevs.org/,/u/mikejsavage,7
+0,2017-09-09 12:33:43 -0500,"/t/book,/t/haskell",Haskell Tutorial and Cookbook,https://leanpub.com/haskell-cookbook,/u/pushcx,2
+0,2017-09-09 12:32:54 -0500,"/t/compilers,/t/ruby",The Structure and Interpretation of Ruby Programs,https://www.nasseri.io/posts/1.html,/u/pushcx,2
+16,2017-09-08 04:29:51 -0500,"/t/dragonflybsd,/t/meta",Add DragonFlyBSD tag,/s/iqeygo/add_dragonflybsd_tag,/u/matthias,38
+0,2017-09-09 08:41:42 -0500,/t/ai,Teaching a Neural Network to play a game using Q-learning,https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/,/u/calvin,3
+2,2017-09-08 19:21:43 -0500,"/t/devops,/t/practices",Reducing Human Error in Software Based Services,http://biven.org/human-error/,/u/mbiven,7
+25,2017-09-08 04:49:27 -0500,"/t/book,/t/c",Beej's Guide to C Programming,https://beej.us/guide/bgc/,/u/pushcx,36
+0,2017-09-09 09:20:06 -0500,"/t/dotnet,/t/programming,/t/web",ASP.NET Core 2.0 - Repository Overview: Action Selection,http://jackhiston.com/2017/9/9/aspnet-core-20-repository-overview-action-selection/,/u/Cyph3r90,1
+0,2017-09-08 16:45:16 -0500,/t/security,Why the Equifax breach is very possibly the worst leak of personal info ever,https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/,/u/stevejalim,19
+6,2017-09-08 07:55:50 -0500,"/t/programming,/t/security",XML? Be cautious!,https://blog.pragmatists.com/xml-be-cautious-69a981fdc56a,/u/calvin,21
+0,2017-09-08 19:39:44 -0500,"/t/crypto,/t/math",The Xorshift128+ random number generator fails BigCrush,https://lemire.me/blog/2017/09/08/the-xorshift128-random-number-generator-fails-bigcrush/,/u/GeoffWozniak,9
+2,2017-09-08 16:45:36 -0500,/t/programming,Precise Abstractions,http://beza1e1.tuxen.de/precise_abstractions.html,/u/qznc,4
+0,2017-09-08 18:21:58 -0500,"/t/practices,/t/programming",Stress Free Programming,http://theprogrammersparadox.blogspot.com/2017/08/stress-free-programming.html,/u/adsouza,8
+0,2017-09-09 00:23:57 -0500,"/t/video,/t/security",The Threat by Ross Anderson,https://www.youtube.com/watch?v=rSw0fDCSfX8,/u/sustrik,3
+20,2017-09-08 09:40:16 -0500,"/t/dragonflybsd,/t/freebsd,/t/linux,/t/unix",About the Ravenports Universal Package System,http://ravenports.ironwolf.systems/,/u/matthias,8
+5,2017-09-07 10:50:30 -0500,"/t/lisp,/t/unix",GNU Daemon Shepherd - an alternative init system,https://www.gnu.org/software/shepherd/,/u/akacase,39
+0,2017-09-08 12:17:23 -0500,/t/law,Court Ruling Adds New Power to Open Source Licenses,http://windowsitpro.com/open-source/court-ruling-adds-new-power-open-source-licenses,/u/pushcx,8
+1,2017-09-08 09:27:53 -0500,/t/networking,An Opinion in Defence of NATs,http://www.potaroo.net/ispcol/2017-09/natdefence.html,/u/mwest,10
+18,2017-09-07 12:51:49 -0500,"/t/art,/t/design",The Uncomfortable,https://www.theuncomfortable.com/,/u/friendlysock,48
+1,2017-09-08 15:39:36 -0500,/t/databases,"Citus 7: Transactions, Framework Integration, and Postgres 10",https://www.citusdata.com/blog/2017/09/07/citus-7-distributed-transactions-frameworks-and-pg10/,/u/craigkerstiens,4
+3,2017-09-08 06:06:54 -0500,"/t/pdf,/t/book,/t/compsci",SICP PDF with Texinfo and LaTeX source,https://github.com/sarabander/sicp-pdf,/u/pushcx,11
+0,2017-09-08 18:01:12 -0500,/t/api,Pushpin - a reverse proxy for real-time web services,http://pushpin.org/,/u/justinucd,3

@@ -1,25 +1,25 @@
-0,2014-06-18 11:45:18 -0500,['/t/databases'],"Aggregate Functions Gone Bad, and the Joins Who Made Them that Way",http://www.looker.com/news/blog/aggregate-functions-gone-bad-and-joins-who-made-them-way,/u/pushcx,2
-0,2014-06-18 07:00:34 -0500,['/t/programming'],UTF-8: it’s what strings are made of,https://blog.jcoglan.com/2014/06/17/utf-8-its-what-strings-are-made-of/,/u/pushcx,3
-0,2014-06-18 11:52:40 -0500,['/t/web'],Sorry: Negative SEO Does Exist,http://webmarketingschool.com/negative-seo-exist/,/u/journeysquid,1
-0,2014-06-18 11:15:43 -0500,['/t/linux'],SCSI Multi-Queue Performance Improvements Set For Linux 3.17,http://www.phoronix.com/scan.php?page=news_item&px=MTcyMjk,/u/journeysquid,1
-0,2014-06-18 09:59:45 -0500,['/t/culture'],The Benefits of Open Source Investment,http://osdelivers.blackducksoftware.com/2014/06/17/the-benefits-of-open-source-investment/,/u/nslater,3
-0,2014-06-17 18:53:14 -0500,['/t/javascript'],wavepot: the digital audio workstation of the web,http://wavepot.com/,/u/kaiju,7
-2,2014-06-17 12:38:02 -0500,['/t/release'],Eric Anholt - Open source software developer at Broadcom,https://anholt.livejournal.com/44239.html,/u/sevan,8
-0,2014-06-17 10:43:29 -0500,"['/t/erlang', '/t/programming']","Elixir v0.14.0 released with derive, deeply nested traversal, and more",http://elixir-lang.org/blog/2014/06/17/elixir-v0-14-0-released/,/u/devinus,13
-0,2014-06-18 09:45:16 -0500,['/t/devops'],"WordPress in the Cloud: Part 3, Image Uploads",https://blog.engineyard.com/2014/wordpress-in-the-cloud-part-3,/u/nslater,0
-0,2014-06-17 14:33:47 -0500,['/t/release'],"The Unicode Standard, Version 7.0",http://www.unicode.org/versions/Unicode7.0.0/,/u/pushcx,6
-0,2014-06-17 13:46:55 -0500,['/t/databases'],Sloppily Measuring the Effects of LZ4 Compression,https://olegdb.org/blog/0004_LZ4.html,/u/Pfiffer,6
-0,2014-06-17 16:31:17 -0500,"['/t/android', '/t/games', '/t/go']",NES Emulator for Android written in Go,https://github.com/scottferg/Fergulator-Android,/u/zhemao,4
-3,2014-06-16 17:08:58 -0500,['/t/rust'],Rust’s documentation is about to drastically improve,http://words.steveklabnik.com/rusts-documentation-is-about-to-drastically-improve,/u/englishm,37
-5,2014-06-16 22:37:18 -0500,['/t/hardware'],The SSD Endurance Experiment: Casualties on the way to a petabyte,http://techreport.com/review/26523/the-ssd-endurance-experiment-casualties-on-the-way-to-a-petabyte,/u/jm,11
-0,2014-06-17 10:25:27 -0500,['/t/compsci'],A Hacker's Introduction to Partial Evaluation [2002],http://wry.me/misc/peval.html,/u/SeanTAllen,4
-1,2014-06-17 06:42:58 -0500,"['/t/pdf', '/t/c', '/t/databases']",NVMKV: A Scalable and Lightweight Flash Aware Key-Value Store,http://users.cis.fiu.edu/~raju/WWW/publications/hotstorage2014/paper.pdf,/u/yawniek,6
-0,2014-06-17 14:24:38 -0500,"['/t/ruby', '/t/web']",Growing Rails Applications in Practice,https://leanpub.com/growing-rails,/u/pushcx,2
-0,2014-06-17 09:22:13 -0500,"['/t/c', '/t/security']",notes on timingsafe_memcmp,http://www.tedunangst.com/flak/post/notes-on-timingsafe-memcmp,/u/jcs,3
-5,2014-06-16 19:06:38 -0500,"['/t/c', '/t/programming']",FlatBuffers: A memory-efficient serialization library from Google,https://github.com/google/flatbuffers,/u/Pfiffer,9
-1,2014-06-16 17:37:57 -0500,"['/t/video', '/t/haskell']",How Haskell is Changing my Brain,https://vimeo.com/96639840,/u/puffnfresh,13
-0,2014-06-17 09:04:52 -0500,['/t/math'],Counter-intuitive Counterfactual Strategies,http://strilanc.com/game-theory/2014/06/17/Counterintuitive-Counterfactual-Strategies.html,/u/jm,2
-0,2014-06-16 17:37:39 -0500,"['/t/slides', '/t/haskell']",Haste and Tagless Final Style,http://www.slideshare.net/takeoutweight/haste-and-tagless-final-style,/u/puffnfresh,7
-0,2014-06-16 11:10:40 -0500,['/t/assembly'],KnightOS - an open source operating system for TI calculators,https://github.com/KnightOS/KnightOS,/u/zhemao,13
-0,2014-06-16 11:15:06 -0500,"['/t/javascript', '/t/lisp']",ki - A lisp for your JavaScript,http://ki-lang.org/,/u/qbit,9
-0,2014-06-16 17:24:13 -0500,"['/t/go', '/t/ruby']",quartz: a gem for calling golang code from ruby,https://github.com/DavidHuie/quartz,/u/gangster_dave,4
+0,2014-06-18 11:45:18 -0500,/t/databases,"Aggregate Functions Gone Bad, and the Joins Who Made Them that Way",http://www.looker.com/news/blog/aggregate-functions-gone-bad-and-joins-who-made-them-way,/u/pushcx,2
+0,2014-06-18 07:00:34 -0500,/t/programming,UTF-8: it’s what strings are made of,https://blog.jcoglan.com/2014/06/17/utf-8-its-what-strings-are-made-of/,/u/pushcx,3
+0,2014-06-18 11:52:40 -0500,/t/web,Sorry: Negative SEO Does Exist,http://webmarketingschool.com/negative-seo-exist/,/u/journeysquid,1
+0,2014-06-18 11:15:43 -0500,/t/linux,SCSI Multi-Queue Performance Improvements Set For Linux 3.17,http://www.phoronix.com/scan.php?page=news_item&px=MTcyMjk,/u/journeysquid,1
+0,2014-06-18 09:59:45 -0500,/t/culture,The Benefits of Open Source Investment,http://osdelivers.blackducksoftware.com/2014/06/17/the-benefits-of-open-source-investment/,/u/nslater,3
+0,2014-06-17 18:53:14 -0500,/t/javascript,wavepot: the digital audio workstation of the web,http://wavepot.com/,/u/kaiju,7
+2,2014-06-17 12:38:02 -0500,/t/release,Eric Anholt - Open source software developer at Broadcom,https://anholt.livejournal.com/44239.html,/u/sevan,8
+0,2014-06-17 10:43:29 -0500,"/t/erlang,/t/programming","Elixir v0.14.0 released with derive, deeply nested traversal, and more",http://elixir-lang.org/blog/2014/06/17/elixir-v0-14-0-released/,/u/devinus,13
+0,2014-06-18 09:45:16 -0500,/t/devops,"WordPress in the Cloud: Part 3, Image Uploads",https://blog.engineyard.com/2014/wordpress-in-the-cloud-part-3,/u/nslater,0
+0,2014-06-17 14:33:47 -0500,/t/release,"The Unicode Standard, Version 7.0",http://www.unicode.org/versions/Unicode7.0.0/,/u/pushcx,6
+0,2014-06-17 13:46:55 -0500,/t/databases,Sloppily Measuring the Effects of LZ4 Compression,https://olegdb.org/blog/0004_LZ4.html,/u/Pfiffer,6
+0,2014-06-17 16:31:17 -0500,"/t/android,/t/games,/t/go",NES Emulator for Android written in Go,https://github.com/scottferg/Fergulator-Android,/u/zhemao,4
+3,2014-06-16 17:08:58 -0500,/t/rust,Rust’s documentation is about to drastically improve,http://words.steveklabnik.com/rusts-documentation-is-about-to-drastically-improve,/u/englishm,37
+5,2014-06-16 22:37:18 -0500,/t/hardware,The SSD Endurance Experiment: Casualties on the way to a petabyte,http://techreport.com/review/26523/the-ssd-endurance-experiment-casualties-on-the-way-to-a-petabyte,/u/jm,11
+0,2014-06-17 10:25:27 -0500,/t/compsci,A Hacker's Introduction to Partial Evaluation [2002],http://wry.me/misc/peval.html,/u/SeanTAllen,4
+1,2014-06-17 06:42:58 -0500,"/t/pdf,/t/c,/t/databases",NVMKV: A Scalable and Lightweight Flash Aware Key-Value Store,http://users.cis.fiu.edu/~raju/WWW/publications/hotstorage2014/paper.pdf,/u/yawniek,6
+0,2014-06-17 14:24:38 -0500,"/t/ruby,/t/web",Growing Rails Applications in Practice,https://leanpub.com/growing-rails,/u/pushcx,2
+0,2014-06-17 09:22:13 -0500,"/t/c,/t/security",notes on timingsafe_memcmp,http://www.tedunangst.com/flak/post/notes-on-timingsafe-memcmp,/u/jcs,3
+5,2014-06-16 19:06:38 -0500,"/t/c,/t/programming",FlatBuffers: A memory-efficient serialization library from Google,https://github.com/google/flatbuffers,/u/Pfiffer,9
+1,2014-06-16 17:37:57 -0500,"/t/video,/t/haskell",How Haskell is Changing my Brain,https://vimeo.com/96639840,/u/puffnfresh,13
+0,2014-06-17 09:04:52 -0500,/t/math,Counter-intuitive Counterfactual Strategies,http://strilanc.com/game-theory/2014/06/17/Counterintuitive-Counterfactual-Strategies.html,/u/jm,2
+0,2014-06-16 17:37:39 -0500,"/t/slides,/t/haskell",Haste and Tagless Final Style,http://www.slideshare.net/takeoutweight/haste-and-tagless-final-style,/u/puffnfresh,7
+0,2014-06-16 11:10:40 -0500,/t/assembly,KnightOS - an open source operating system for TI calculators,https://github.com/KnightOS/KnightOS,/u/zhemao,13
+0,2014-06-16 11:15:06 -0500,"/t/javascript,/t/lisp",ki - A lisp for your JavaScript,http://ki-lang.org/,/u/qbit,9
+0,2014-06-16 17:24:13 -0500,"/t/go,/t/ruby",quartz: a gem for calling golang code from ruby,https://github.com/DavidHuie/quartz,/u/gangster_dave,4

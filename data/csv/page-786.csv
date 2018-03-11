@@ -1,25 +1,25 @@
-0,2016-05-12 13:12:26 -0500,['/t/security'],Cisco Talos Blog: Multiple 7-Zip Vulnerabilities Discovered by Talos,http://blog.talosintel.com/2016/05/multiple-7-zip-vulnerabilities.html,/u/halosghost,6
-0,2016-05-12 10:12:48 -0500,['/t/science'],Movile Cave: an ecosystem isolated for 5.5 million years,http://www.bbc.com/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave,/u/pushcx,8
-0,2016-05-12 13:24:01 -0500,['/t/databases'],Postgres 9.6 feature highlight: read balancing with remote_apply,http://michael.otacoo.com/postgresql-2/postgres-9-6-feature-highlight-remote-apply/,/u/355E3B,5
-0,2016-05-12 14:57:34 -0500,['/t/practices'],Archiving Our Online Communities,https://medium.com/@craigmod/archiving-our-online-communities-e5868eab4d9a,/u/pushcx,4
-0,2016-05-12 13:49:28 -0500,"['/t/practices', '/t/science']",Software error doomed Japanese Hitomi spacecraft,http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835,/u/calvin,4
-0,2016-05-12 12:51:20 -0500,"['/t/compilers', '/t/culture', '/t/haskell']",GHC Development: OutsideIn,http://www.arcadianvisions.com/blog/2016/ghc-contributing.html,/u/dwc,8
-0,2016-05-12 16:36:58 -0500,['/t/swift'],? Building Slack Bots In Swift ?,https://medium.com/@pvzig/building-slack-bots-in-swift-b99e243e444c#.wi0v3hcn0,/u/DrM,2
-0,2016-05-12 19:57:48 -0500,['/t/games'],I Created a Politically Corrupt AI,http://www.squeakywheel.ph/blog/2016/5/9/i-created-a-politically-corrupt-ai,/u/pushcx,1
-0,2016-05-12 19:45:15 -0500,['/t/science'],Microsoft + DNA: How the Tech Giant Plans to Revolutionize Data Storage,http://www.fool.com/investing/general/2016/05/05/microsoft-dna-how-the-tech-giant-plans-to-revoluti.aspx,/u/irrelephant,1
-4,2016-05-11 16:11:27 -0500,"['/t/compsci', '/t/math']",The 8000th Busy Beaver number eludes ZF set theory: paper by Adam Yedidia and Scott Aaronson,http://www.scottaaronson.com/blog/?p=2725,/u/ajisaiko,19
-2,2016-05-11 18:45:48 -0500,"['/t/practices', '/t/programming']",Teach Yourself Programming in Ten Years,http://norvig.com/21-days.html,/u/scottb,18
-0,2016-05-12 09:23:51 -0500,['/t/release'],Sonic Pi - The Live Coding Synth for Everyone,http://sonic-pi.net,/u/sevan,2
-2,2016-05-11 12:17:22 -0500,['/t/programming'],"""I know how to program, but I don't know what to program""",http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program,/u/calvin,12
-5,2016-05-11 07:41:06 -0500,['/t/web'],My URL isn’t your URL,https://daniel.haxx.se/blog/2016/05/11/my-url-isnt-your-url/,/u/pushcx,22
-0,2016-05-12 10:56:45 -0500,['/t/javascript'],bwip-js - Barcode Writer in Pure JavaScript,https://github.com/metafloor/bwip-js,/u/flyingfisch,1
-4,2016-05-11 15:06:12 -0500,"['/t/browsers', '/t/javascript', '/t/web']",Digging into D3 Internals to Eliminate Jank over Large Data Sets,https://engineering.mongodb.com/post/digging-into-d3-internals-to-eliminate-jank/,/u/jrbalsano,5
-36,2016-05-11 02:12:39 -0500,"['/t/release', '/t/vcs']",Introducing unlimited private repositories - Github,https://github.com/blog/2164-introducing-unlimited-private-repositories,/u/av,28
-6,2016-05-11 08:11:00 -0500,"['/t/release', '/t/unix']","xonsh: a Python-ish, BASHwards-looking shell language and command prompt",http://xon.sh/,/u/pushcx,16
-0,2016-05-11 14:33:24 -0500,['/t/scala'],Scala-native,https://github.com/scala-native/scala-native,/u/streblo,10
-0,2016-05-11 21:50:36 -0500,['/t/networking'],"Building and scaling the Fastly network, part 1: Fighting the FIB",https://www.fastly.com/blog/building-and-scaling-fastly-network-part-1-fighting-fib,/u/pushcx,4
-1,2016-05-11 13:43:24 -0500,['/t/math'],Mathematicians are chronically lost and confused (and that's how it's supposed to be),http://j2kun.svbtle.com/mathematicians-are-chronically-lost-and-confused,/u/peterhorne,9
-3,2016-05-11 11:19:58 -0500,"['/t/javascript', '/t/release']",Electron 1.0 is here,https://github.com/blog/2167-electron-1-0-is-here,/u/av,8
-1,2016-05-11 14:06:21 -0500,['/t/finance'],Robots didn't take our jobs,https://www.chrisstucchio.com/blog/2016/robots_didnt_take_our_jobs.html,/u/tedu,6
-0,2016-05-11 16:29:53 -0500,"['/t/c', '/t/programming']",Qt Creator 4.0.0 released,https://blog.qt.io/blog/2016/05/11/qt-creator-4-0-0-released/,/u/zem,6
-0,2016-05-11 17:24:08 -0500,['/t/devops'],Thoughts on systems management methods,https://blog.flyingcircus.io/2016/05/06/thoughts-on-systems-management-methods/,/u/elasticdog,5
+0,2016-05-12 13:12:26 -0500,/t/security,Cisco Talos Blog: Multiple 7-Zip Vulnerabilities Discovered by Talos,http://blog.talosintel.com/2016/05/multiple-7-zip-vulnerabilities.html,/u/halosghost,6
+0,2016-05-12 10:12:48 -0500,/t/science,Movile Cave: an ecosystem isolated for 5.5 million years,http://www.bbc.com/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave,/u/pushcx,8
+0,2016-05-12 13:24:01 -0500,/t/databases,Postgres 9.6 feature highlight: read balancing with remote_apply,http://michael.otacoo.com/postgresql-2/postgres-9-6-feature-highlight-remote-apply/,/u/355E3B,5
+0,2016-05-12 14:57:34 -0500,/t/practices,Archiving Our Online Communities,https://medium.com/@craigmod/archiving-our-online-communities-e5868eab4d9a,/u/pushcx,4
+0,2016-05-12 13:49:28 -0500,"/t/practices,/t/science",Software error doomed Japanese Hitomi spacecraft,http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835,/u/calvin,4
+0,2016-05-12 12:51:20 -0500,"/t/compilers,/t/culture,/t/haskell",GHC Development: OutsideIn,http://www.arcadianvisions.com/blog/2016/ghc-contributing.html,/u/dwc,8
+0,2016-05-12 16:36:58 -0500,/t/swift,? Building Slack Bots In Swift ?,https://medium.com/@pvzig/building-slack-bots-in-swift-b99e243e444c#.wi0v3hcn0,/u/DrM,2
+0,2016-05-12 19:57:48 -0500,/t/games,I Created a Politically Corrupt AI,http://www.squeakywheel.ph/blog/2016/5/9/i-created-a-politically-corrupt-ai,/u/pushcx,1
+0,2016-05-12 19:45:15 -0500,/t/science,Microsoft + DNA: How the Tech Giant Plans to Revolutionize Data Storage,http://www.fool.com/investing/general/2016/05/05/microsoft-dna-how-the-tech-giant-plans-to-revoluti.aspx,/u/irrelephant,1
+4,2016-05-11 16:11:27 -0500,"/t/compsci,/t/math",The 8000th Busy Beaver number eludes ZF set theory: paper by Adam Yedidia and Scott Aaronson,http://www.scottaaronson.com/blog/?p=2725,/u/ajisaiko,19
+2,2016-05-11 18:45:48 -0500,"/t/practices,/t/programming",Teach Yourself Programming in Ten Years,http://norvig.com/21-days.html,/u/scottb,18
+0,2016-05-12 09:23:51 -0500,/t/release,Sonic Pi - The Live Coding Synth for Everyone,http://sonic-pi.net,/u/sevan,2
+2,2016-05-11 12:17:22 -0500,/t/programming,"""I know how to program, but I don't know what to program""",http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program,/u/calvin,12
+5,2016-05-11 07:41:06 -0500,/t/web,My URL isn’t your URL,https://daniel.haxx.se/blog/2016/05/11/my-url-isnt-your-url/,/u/pushcx,22
+0,2016-05-12 10:56:45 -0500,/t/javascript,bwip-js - Barcode Writer in Pure JavaScript,https://github.com/metafloor/bwip-js,/u/flyingfisch,1
+4,2016-05-11 15:06:12 -0500,"/t/browsers,/t/javascript,/t/web",Digging into D3 Internals to Eliminate Jank over Large Data Sets,https://engineering.mongodb.com/post/digging-into-d3-internals-to-eliminate-jank/,/u/jrbalsano,5
+36,2016-05-11 02:12:39 -0500,"/t/release,/t/vcs",Introducing unlimited private repositories - Github,https://github.com/blog/2164-introducing-unlimited-private-repositories,/u/av,28
+6,2016-05-11 08:11:00 -0500,"/t/release,/t/unix","xonsh: a Python-ish, BASHwards-looking shell language and command prompt",http://xon.sh/,/u/pushcx,16
+0,2016-05-11 14:33:24 -0500,/t/scala,Scala-native,https://github.com/scala-native/scala-native,/u/streblo,10
+0,2016-05-11 21:50:36 -0500,/t/networking,"Building and scaling the Fastly network, part 1: Fighting the FIB",https://www.fastly.com/blog/building-and-scaling-fastly-network-part-1-fighting-fib,/u/pushcx,4
+1,2016-05-11 13:43:24 -0500,/t/math,Mathematicians are chronically lost and confused (and that's how it's supposed to be),http://j2kun.svbtle.com/mathematicians-are-chronically-lost-and-confused,/u/peterhorne,9
+3,2016-05-11 11:19:58 -0500,"/t/javascript,/t/release",Electron 1.0 is here,https://github.com/blog/2167-electron-1-0-is-here,/u/av,8
+1,2016-05-11 14:06:21 -0500,/t/finance,Robots didn't take our jobs,https://www.chrisstucchio.com/blog/2016/robots_didnt_take_our_jobs.html,/u/tedu,6
+0,2016-05-11 16:29:53 -0500,"/t/c,/t/programming",Qt Creator 4.0.0 released,https://blog.qt.io/blog/2016/05/11/qt-creator-4-0-0-released/,/u/zem,6
+0,2016-05-11 17:24:08 -0500,/t/devops,Thoughts on systems management methods,https://blog.flyingcircus.io/2016/05/06/thoughts-on-systems-management-methods/,/u/elasticdog,5

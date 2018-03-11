@@ -1,25 +1,25 @@
-1,2017-08-10 04:29:06 -0500,['/t/programming'],Learn regex the easy way,https://github.com/zeeshanu/learn-regex,/u/pgl,4
-0,2017-08-10 06:41:38 -0500,"['/t/javascript', '/t/nodejs', '/t/web']",Server-Render like a Pro /w Redux-First Router in 10 steps,https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de,/u/faceyspacey,3
-0,2017-08-10 14:48:06 -0500,"['/t/hardware', '/t/historical', '/t/mac']",The Mythical Road Apple,http://www.taylordesign.net/classic-macintosh/the-mythical-road-apple/,/u/calvin,2
-1,2017-08-10 06:05:17 -0500,"['/t/javascript', '/t/release']",Node v8.3.0,https://nodejs.org/en/blog/release/v8.3.0/,/u/nikolay,4
-7,2017-08-09 17:16:15 -0500,['/t/unix'],radio(6),https://docs.oracle.com/cd/E19455-01/806-0635/6j9vp3r72/index.html,/u/friendlysock,13
-4,2017-08-09 19:02:22 -0500,['/t/hardware'],Samsung drops 128TB SSD and kinetic-type flash drive bombshells,https://www.theregister.co.uk/2017/08/09/samsungs_128tb_ssd_bombshell/,/u/djsumdog,9
-18,2017-08-09 06:48:28 -0500,['/t/go'],A Farewell To Go,https://www.churchwood.at/posts/a-farewell-to-go/,/u/calvin,28
-0,2017-08-10 10:29:19 -0500,['/t/assembly'],"The Alpha AXP, part 4: Bit 15. Ugh. Bit 15.",https://blogs.msdn.microsoft.com/oldnewthing/20170810-00/?p=96795,/u/calvin,2
-7,2017-08-09 06:54:08 -0500,"['/t/browsers', '/t/javascript']",Making Chrome Headless Undetectable,https://intoli.com/blog/making-chrome-headless-undetectable/,/u/foob,18
-0,2017-08-10 08:54:29 -0500,['/t/compsci'],Hypercomputation - Wikipedia,https://en.wikipedia.org/wiki/Hypercomputation,/u/binarymax,2
-5,2017-08-09 16:04:15 -0500,"['/t/ai', '/t/games']",DeepMind and Blizzard open StarCraft II as an AI research environment,https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/,/u/colin,8
-0,2017-08-10 12:37:25 -0500,['/t/javascript'],The Best Visual Studio Code Setup In The World,https://medium.com/burke-knows-words/the-greatest-visual-studio-code-setup-in-the-world-22aa30fb8e8f,/u/burkeholland,0
-2,2017-08-09 16:11:43 -0500,"['/t/programming', '/t/ruby']",Fix it now,https://www.saturnflyer.com/blog/fix-it-now,/u/saturnflyer,4
-1,2017-08-09 19:27:37 -0500,"['/t/culture', '/t/go']",How over 100 Go programmers became Go contributors in under two hours,https://blog.golang.org/contributor-workshop,/u/dgv,16
-0,2017-08-10 09:48:23 -0500,"['/t/ruby', '/t/security', '/t/web']",A Deep Dive into CSRF Protection in Rails,https://medium.com/@mctaylorpants/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef,/u/pushcx,1
-0,2017-08-09 11:48:03 -0500,"['/t/c', '/t/javascript', '/t/visualization']",Creating a visual map between code and its parse tree,http://blog.loadzero.com/blog/parse-tree-vis/,/u/loadzero,7
-5,2017-08-09 07:00:58 -0500,"['/t/performance', '/t/scala']","Scala Vector operations aren't ""Effectively Constant"" time",http://www.lihaoyi.com/post/ScalaVectoroperationsarentEffectivelyConstanttime.html,/u/calvin,10
-1,2017-08-09 10:10:29 -0500,"['/t/practices', '/t/security']",ISIS Remote Control Agent OPSEC,https://medium.com/@thegrugq/isis-remote-control-agent-opsec-3d0e02b35fbf,/u/calvin,11
-1,2017-08-09 12:46:08 -0500,"['/t/javascript', '/t/release']",Announcing Choo v6,https://medium.com/@yoshuawuyts/choo-v6-6e494267b57e,/u/yoshuawuyts,4
-6,2017-08-09 02:16:16 -0500,['/t/privacy'],VPN Provider Accused of Sharing Customer Traffic With Online Advertisers,https://www.bleepingcomputer.com/news/technology/vpn-provider-accused-of-sharing-customer-traffic-with-online-advertisers/,/u/pgl,15
-1,2017-08-09 08:48:26 -0500,['/t/compsci'],Why does Sattolo's algorithm produce a permutation with exactly one cycle?,http://danluu.com/sattolo/,/u/hwayne,12
-1,2017-08-09 13:25:35 -0500,"['/t/culture', '/t/person']",Growing up alongside tech,https://eev.ee/blog/2017/08/09/growing-up-alongside-tech/,/u/calvin,12
-0,2017-08-09 18:44:57 -0500,['/t/games'],Game Models – A Different Approach,http://www.npruehs.de/game-models-a-different-approach-part-2/,/u/etc,3
-0,2017-08-09 16:36:13 -0500,['/t/vcs'],git: Using Advanced Rebase Features for a Clean Repository,http://mtyurt.net/2017/08/08/git-using-advanced-rebase-features-for-a-clean-repository/,/u/pushcx,4
-0,2017-08-09 13:07:34 -0500,['/t/ai'],On the Imminence and Danger of AI [2015],https://archive.li/fi5Xn,/u/djsumdog,5
+1,2017-08-10 04:29:06 -0500,/t/programming,Learn regex the easy way,https://github.com/zeeshanu/learn-regex,/u/pgl,4
+0,2017-08-10 06:41:38 -0500,"/t/javascript,/t/nodejs,/t/web",Server-Render like a Pro /w Redux-First Router in 10 steps,https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de,/u/faceyspacey,3
+0,2017-08-10 14:48:06 -0500,"/t/hardware,/t/historical,/t/mac",The Mythical Road Apple,http://www.taylordesign.net/classic-macintosh/the-mythical-road-apple/,/u/calvin,2
+1,2017-08-10 06:05:17 -0500,"/t/javascript,/t/release",Node v8.3.0,https://nodejs.org/en/blog/release/v8.3.0/,/u/nikolay,4
+7,2017-08-09 17:16:15 -0500,/t/unix,radio(6),https://docs.oracle.com/cd/E19455-01/806-0635/6j9vp3r72/index.html,/u/friendlysock,13
+4,2017-08-09 19:02:22 -0500,/t/hardware,Samsung drops 128TB SSD and kinetic-type flash drive bombshells,https://www.theregister.co.uk/2017/08/09/samsungs_128tb_ssd_bombshell/,/u/djsumdog,9
+18,2017-08-09 06:48:28 -0500,/t/go,A Farewell To Go,https://www.churchwood.at/posts/a-farewell-to-go/,/u/calvin,28
+0,2017-08-10 10:29:19 -0500,/t/assembly,"The Alpha AXP, part 4: Bit 15. Ugh. Bit 15.",https://blogs.msdn.microsoft.com/oldnewthing/20170810-00/?p=96795,/u/calvin,2
+7,2017-08-09 06:54:08 -0500,"/t/browsers,/t/javascript",Making Chrome Headless Undetectable,https://intoli.com/blog/making-chrome-headless-undetectable/,/u/foob,18
+0,2017-08-10 08:54:29 -0500,/t/compsci,Hypercomputation - Wikipedia,https://en.wikipedia.org/wiki/Hypercomputation,/u/binarymax,2
+5,2017-08-09 16:04:15 -0500,"/t/ai,/t/games",DeepMind and Blizzard open StarCraft II as an AI research environment,https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/,/u/colin,8
+0,2017-08-10 12:37:25 -0500,/t/javascript,The Best Visual Studio Code Setup In The World,https://medium.com/burke-knows-words/the-greatest-visual-studio-code-setup-in-the-world-22aa30fb8e8f,/u/burkeholland,0
+2,2017-08-09 16:11:43 -0500,"/t/programming,/t/ruby",Fix it now,https://www.saturnflyer.com/blog/fix-it-now,/u/saturnflyer,4
+1,2017-08-09 19:27:37 -0500,"/t/culture,/t/go",How over 100 Go programmers became Go contributors in under two hours,https://blog.golang.org/contributor-workshop,/u/dgv,16
+0,2017-08-10 09:48:23 -0500,"/t/ruby,/t/security,/t/web",A Deep Dive into CSRF Protection in Rails,https://medium.com/@mctaylorpants/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef,/u/pushcx,1
+0,2017-08-09 11:48:03 -0500,"/t/c,/t/javascript,/t/visualization",Creating a visual map between code and its parse tree,http://blog.loadzero.com/blog/parse-tree-vis/,/u/loadzero,7
+5,2017-08-09 07:00:58 -0500,"/t/performance,/t/scala","Scala Vector operations aren't ""Effectively Constant"" time",http://www.lihaoyi.com/post/ScalaVectoroperationsarentEffectivelyConstanttime.html,/u/calvin,10
+1,2017-08-09 10:10:29 -0500,"/t/practices,/t/security",ISIS Remote Control Agent OPSEC,https://medium.com/@thegrugq/isis-remote-control-agent-opsec-3d0e02b35fbf,/u/calvin,11
+1,2017-08-09 12:46:08 -0500,"/t/javascript,/t/release",Announcing Choo v6,https://medium.com/@yoshuawuyts/choo-v6-6e494267b57e,/u/yoshuawuyts,4
+6,2017-08-09 02:16:16 -0500,/t/privacy,VPN Provider Accused of Sharing Customer Traffic With Online Advertisers,https://www.bleepingcomputer.com/news/technology/vpn-provider-accused-of-sharing-customer-traffic-with-online-advertisers/,/u/pgl,15
+1,2017-08-09 08:48:26 -0500,/t/compsci,Why does Sattolo's algorithm produce a permutation with exactly one cycle?,http://danluu.com/sattolo/,/u/hwayne,12
+1,2017-08-09 13:25:35 -0500,"/t/culture,/t/person",Growing up alongside tech,https://eev.ee/blog/2017/08/09/growing-up-alongside-tech/,/u/calvin,12
+0,2017-08-09 18:44:57 -0500,/t/games,Game Models – A Different Approach,http://www.npruehs.de/game-models-a-different-approach-part-2/,/u/etc,3
+0,2017-08-09 16:36:13 -0500,/t/vcs,git: Using Advanced Rebase Features for a Clean Repository,http://mtyurt.net/2017/08/08/git-using-advanced-rebase-features-for-a-clean-repository/,/u/pushcx,4
+0,2017-08-09 13:07:34 -0500,/t/ai,On the Imminence and Danger of AI [2015],https://archive.li/fi5Xn,/u/djsumdog,5

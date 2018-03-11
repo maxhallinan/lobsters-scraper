@@ -1,25 +1,25 @@
-0,2015-06-10 18:47:59 -0500,"['/t/mac', '/t/virtualization']",xhyve - Lightweight Virtualization on OS X Based on bhyve,http://www.pagetable.com/?p=831,/u/jcs,22
-0,2015-06-11 17:39:00 -0500,"['/t/video', '/t/privacy', '/t/security']","Videos and slides for ""Security in Times of Surveillance"" 2015",https://projectbullrun.org/surveillance/2015/video-2015.html,/u/evhan,1
-1,2015-06-11 10:31:40 -0500,['/t/ios'],Deep linking & search in iOS 9,https://medium.com/ios-os-x-development/deep-linking-search-in-ios-9-will-change-everything-feab0bb7e189,/u/jcs,3
-0,2015-06-11 10:15:21 -0500,['/t/security'],OpenSSL ECC binpoly denial of service,https://jbp.io/2015/06/11/cve-2015-1788-openssl-binpoly-hang/,/u/jkkm,3
-0,2015-06-11 12:41:51 -0500,['/t/linux'],Some early Linux IPC latency data,http://kamalmarhubi.com/blog/2015/06/10/some-early-linux-ipc-latency-data/,/u/englishm,2
-13,2015-06-10 11:32:39 -0500,"['/t/linux', '/t/unix']",Linux Future (2012),http://pappp.net/?p=969,/u/calvin,20
-6,2015-06-10 16:05:39 -0500,['/t/swift'],Swift 2.0: Control Flow and Error Handling,http://austinzheng.com/2015/06/08/swift-2-control-flow/,/u/austinz,13
-2,2015-06-10 21:38:57 -0500,"['/t/compsci', '/t/games']","Generating Magic cards using deep, recursive neural networks",http://www.mtgsalvation.com/forums/creativity/custom-card-creation/612057-generating-magic-cards-using-deep-recursive-neural,/u/pushcx,6
-0,2015-06-10 12:20:38 -0500,['/t/elixir'],We all are going to meet in the Elixir world,http://codetunes.com/2015/we-all-are-going-to-meet-in-the-elixir-world/,/u/andrewnez,22
-4,2015-06-11 02:52:07 -0500,['/t/meta'],Dark theme for lobsters,https://userstyles.org/styles/115042/dark-lobsters,/u/mort,7
-2,2015-06-10 12:24:40 -0500,"['/t/pdf', '/t/games', '/t/haskell']",Quake III Arena in Haskell,https://www.cse.unsw.edu.au/~pls/thesis/munc-thesis.pdf,/u/pushcx,15
-0,2015-06-10 11:43:46 -0500,"['/t/reversing', '/t/windows']",A Tale of Two File Names,https://usn.pw/blog/gen/2015/06/09/filenames/,/u/pushcx,18
-0,2015-06-11 15:19:01 -0500,['/t/openbsd'],OpenSSL patch,http://ftp.openbsd.org/pub/OpenBSD/patches/5.7/common/009_openssl.patch.sig,/u/rsantos,0
-0,2015-06-11 15:16:06 -0500,['/t/openbsd'],OpenSMTPD patch,http://ftp.openbsd.org/pub/OpenBSD/patches/5.7/common/008_smtpd.patch.sig,/u/rsantos,0
-14,2015-06-09 18:07:37 -0500,"['/t/devops', '/t/distributed', '/t/linux', '/t/scaling', '/t/web']",It's The Future,http://blog.circleci.com/its-the-future/,/u/akurilin,56
-0,2015-06-10 18:22:47 -0500,['/t/security'],Stepson of Stuxnet stalked Kaspersky,http://arstechnica.com/security/2015/06/stepson-of-stuxnet-stalked-kaspersky-for-months-tapped-iran-nuke-talks/,/u/fcbsd,6
-0,2015-06-10 07:59:55 -0500,"['/t/linux', '/t/vcs']",From generic tools to a custom server: 30k% faster,https://www.clever-cloud.com/blog/engineering/2015/06/09/git-server-30k-improvement/,/u/cnivolle,15
-0,2015-06-11 02:19:21 -0500,"['/t/video', '/t/programming']",Controlling Time and Space: understanding the many formulations of FRP,https://www.youtube.com/watch?v=Agu6jipKfYw,/u/robewald,1
-0,2015-06-10 15:27:52 -0500,"['/t/pdf', '/t/compsci']",The Chemical Abstract Machine,http://www.lix.polytechnique.fr/~fvalenci/papers/cham.pdf,/u/englishm,5
-1,2015-06-10 13:15:19 -0500,"['/t/pdf', '/t/mobile', '/t/practices']",Moving Fast with Software Verification,https://research.facebook.com/publications/422671501231772/moving-fast-with-software-verification/,/u/craigstuntz,5
-0,2015-06-10 18:37:37 -0500,"['/t/games', '/t/satire']",How A Video Game Is Released In 2015,http://kotaku.com/how-a-video-game-is-released-in-2015-1706181100,/u/pushcx,5
-1,2015-06-10 14:04:14 -0500,"['/t/compsci', '/t/practices', '/t/programming']",Different Hashing Methods,http://eternallyconfuzzled.com/tuts/algorithms/jsw_tut_hashing.aspx,/u/friendlysock,4
-0,2015-06-10 15:06:44 -0500,['/t/rust'],Learning Rust through Interview Questions,https://github.com/brianquinlan/learn-rust,/u/russoue,3
-0,2015-06-10 10:16:53 -0500,['/t/practices'],Norman Keyboard Layout,https://normanlayout.info/,/u/pushcx,5
-0,2015-06-10 07:57:50 -0500,['/t/practices'],Everyone please stand up!,http://techblog.shutl.com/2015/06/please-stand-up/,/u/grahamlyons,3
+0,2015-06-10 18:47:59 -0500,"/t/mac,/t/virtualization",xhyve - Lightweight Virtualization on OS X Based on bhyve,http://www.pagetable.com/?p=831,/u/jcs,22
+0,2015-06-11 17:39:00 -0500,"/t/video,/t/privacy,/t/security","Videos and slides for ""Security in Times of Surveillance"" 2015",https://projectbullrun.org/surveillance/2015/video-2015.html,/u/evhan,1
+1,2015-06-11 10:31:40 -0500,/t/ios,Deep linking & search in iOS 9,https://medium.com/ios-os-x-development/deep-linking-search-in-ios-9-will-change-everything-feab0bb7e189,/u/jcs,3
+0,2015-06-11 10:15:21 -0500,/t/security,OpenSSL ECC binpoly denial of service,https://jbp.io/2015/06/11/cve-2015-1788-openssl-binpoly-hang/,/u/jkkm,3
+0,2015-06-11 12:41:51 -0500,/t/linux,Some early Linux IPC latency data,http://kamalmarhubi.com/blog/2015/06/10/some-early-linux-ipc-latency-data/,/u/englishm,2
+13,2015-06-10 11:32:39 -0500,"/t/linux,/t/unix",Linux Future (2012),http://pappp.net/?p=969,/u/calvin,20
+6,2015-06-10 16:05:39 -0500,/t/swift,Swift 2.0: Control Flow and Error Handling,http://austinzheng.com/2015/06/08/swift-2-control-flow/,/u/austinz,13
+2,2015-06-10 21:38:57 -0500,"/t/compsci,/t/games","Generating Magic cards using deep, recursive neural networks",http://www.mtgsalvation.com/forums/creativity/custom-card-creation/612057-generating-magic-cards-using-deep-recursive-neural,/u/pushcx,6
+0,2015-06-10 12:20:38 -0500,/t/elixir,We all are going to meet in the Elixir world,http://codetunes.com/2015/we-all-are-going-to-meet-in-the-elixir-world/,/u/andrewnez,22
+4,2015-06-11 02:52:07 -0500,/t/meta,Dark theme for lobsters,https://userstyles.org/styles/115042/dark-lobsters,/u/mort,7
+2,2015-06-10 12:24:40 -0500,"/t/pdf,/t/games,/t/haskell",Quake III Arena in Haskell,https://www.cse.unsw.edu.au/~pls/thesis/munc-thesis.pdf,/u/pushcx,15
+0,2015-06-10 11:43:46 -0500,"/t/reversing,/t/windows",A Tale of Two File Names,https://usn.pw/blog/gen/2015/06/09/filenames/,/u/pushcx,18
+0,2015-06-11 15:19:01 -0500,/t/openbsd,OpenSSL patch,http://ftp.openbsd.org/pub/OpenBSD/patches/5.7/common/009_openssl.patch.sig,/u/rsantos,0
+0,2015-06-11 15:16:06 -0500,/t/openbsd,OpenSMTPD patch,http://ftp.openbsd.org/pub/OpenBSD/patches/5.7/common/008_smtpd.patch.sig,/u/rsantos,0
+14,2015-06-09 18:07:37 -0500,"/t/devops,/t/distributed,/t/linux,/t/scaling,/t/web",It's The Future,http://blog.circleci.com/its-the-future/,/u/akurilin,56
+0,2015-06-10 18:22:47 -0500,/t/security,Stepson of Stuxnet stalked Kaspersky,http://arstechnica.com/security/2015/06/stepson-of-stuxnet-stalked-kaspersky-for-months-tapped-iran-nuke-talks/,/u/fcbsd,6
+0,2015-06-10 07:59:55 -0500,"/t/linux,/t/vcs",From generic tools to a custom server: 30k% faster,https://www.clever-cloud.com/blog/engineering/2015/06/09/git-server-30k-improvement/,/u/cnivolle,15
+0,2015-06-11 02:19:21 -0500,"/t/video,/t/programming",Controlling Time and Space: understanding the many formulations of FRP,https://www.youtube.com/watch?v=Agu6jipKfYw,/u/robewald,1
+0,2015-06-10 15:27:52 -0500,"/t/pdf,/t/compsci",The Chemical Abstract Machine,http://www.lix.polytechnique.fr/~fvalenci/papers/cham.pdf,/u/englishm,5
+1,2015-06-10 13:15:19 -0500,"/t/pdf,/t/mobile,/t/practices",Moving Fast with Software Verification,https://research.facebook.com/publications/422671501231772/moving-fast-with-software-verification/,/u/craigstuntz,5
+0,2015-06-10 18:37:37 -0500,"/t/games,/t/satire",How A Video Game Is Released In 2015,http://kotaku.com/how-a-video-game-is-released-in-2015-1706181100,/u/pushcx,5
+1,2015-06-10 14:04:14 -0500,"/t/compsci,/t/practices,/t/programming",Different Hashing Methods,http://eternallyconfuzzled.com/tuts/algorithms/jsw_tut_hashing.aspx,/u/friendlysock,4
+0,2015-06-10 15:06:44 -0500,/t/rust,Learning Rust through Interview Questions,https://github.com/brianquinlan/learn-rust,/u/russoue,3
+0,2015-06-10 10:16:53 -0500,/t/practices,Norman Keyboard Layout,https://normanlayout.info/,/u/pushcx,5
+0,2015-06-10 07:57:50 -0500,/t/practices,Everyone please stand up!,http://techblog.shutl.com/2015/06/please-stand-up/,/u/grahamlyons,3

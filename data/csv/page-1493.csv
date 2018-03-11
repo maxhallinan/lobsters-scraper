@@ -1,25 +1,25 @@
-0,2013-03-19 18:04:03 -0500,['/t/security'],Man-in-the-Middle Attack on T-Mobile Wi-Fi Calling,http://www.cs.berkeley.edu/~cthompson/t-mobile/,/u/jcs,6
-0,2013-03-20 08:53:56 -0500,"['/t/javascript', '/t/web']","Superhero.js : Collection of the best articles, videos and presentations about JavaScript",http://superherojs.com/,/u/dbd,0
-1,2013-03-19 13:57:37 -0500,['/t/security'],"Cisco switches to weaker hashing scheme, passwords cracked wide open",http://arstechnica.com/security/2013/03/cisco-switches-to-weaker-hashing-scheme-passwords-cracked-wide-open/,/u/jcs,4
-0,2013-03-19 12:23:12 -0500,"['/t/browsers', '/t/practices']",Checkboxes that kill your product — Alex Limi,http://limi.net/checkboxes-that-kill,/u/leeflannery,3
-5,2013-03-18 20:54:50 -0500,['/t/scala'],typelevel.scala | Powerful libraries for Scala,http://typelevel.org/,/u/puffnfresh,4
-0,2013-03-18 17:57:58 -0500,"['/t/release', '/t/web']",Pedestal: An open source tool set for building web applications in Clojure,http://pedestal.io/,/u/jturner,5
-0,2013-03-18 17:11:43 -0500,"['/t/design', '/t/programming', '/t/reversing']",Homeworld 2's Backgrounds,http://simonschreibt.blogspot.de/2013/03/homeworld-backgrounds.html,/u/rpowelll,5
-1,2013-03-18 13:15:47 -0500,"['/t/release', '/t/ruby', '/t/security']","Rails 3.2.13, 3.1.12, and 2.3.18 have been released fixing 4 security vulnerabilities",http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/,/u/jcs,7
-1,2013-03-18 10:02:16 -0500,['/t/openbsd'],OpenBSD gets Kernel Mode Setting video support for Intel chips,http://marc.info/?l=openbsd-cvs&m=136361021703649&w=2,/u/jcs,8
-1,2013-03-18 16:18:17 -0500,"['/t/python', '/t/security']",py-bcrypt <0.3 contains a concurrency bug that could result in authn bypass,https://twitter.com/damienmiller/status/313757236239409152,/u/jcs,3
-0,2013-03-18 14:17:32 -0500,"['/t/programming', '/t/vcs']",But that's impossible! (idempotent mercurial/git translation),http://bitquabit.com/post/but-thats-impossible/,/u/joshuacc,4
-2,2013-03-18 10:29:50 -0500,['/t/programming'],Michael Feathers: Scalars as Implicit Collections - Removing an Edge,http://michaelfeathers.typepad.com/michael_feathers_blog/2013/03/scalars-as-implicit-collections-removing-an-edge.html,/u/joshuacc,2
-0,2013-03-18 13:47:50 -0500,"['/t/browsers', '/t/web']",Future of Firefox DevTools,http://paulrouget.com/e/devtoolsnext/,/u/jcs,1
-4,2013-03-17 20:08:16 -0500,['/t/scaling'],Three Months to Scale NewsBlur,http://blog.newsblur.com/post/45632737156/three-months-to-scale-newsblur,/u/jcs,7
-0,2013-03-17 13:13:22 -0500,"['/t/openbsd', '/t/release']",OpenSMTPD 5.3 released,http://opensmtpd.org/announces/release-5.3.txt,/u/lynge,7
-2,2013-03-17 01:24:35 -0500,"['/t/networking', '/t/openbsd']",Using BGP to distribute OpenBSD spamd lists,http://bgp-spamd.net/,/u/jcs,7
-3,2013-03-16 19:25:05 -0500,"['/t/assembly', '/t/hardware', '/t/reversing']",AOSUZI - How the NES Game Genie works,http://www.jfbillingsley.com/blog/?p=221,/u/wilkie,12
-0,2013-03-17 02:31:49 -0500,['/t/security'],Has HTTPS finally been cracked?,http://nakedsecurity.sophos.com/2013/03/16/has-https-finally-been-cracked/,/u/kyle,6
-0,2013-03-16 13:28:25 -0500,"['/t/compsci', '/t/math', '/t/ruby']",Elegance and the Surreals (2009),http://raganwald.com/2009/03/07/elegance-and-the-surreals.html,/u/jcaudle,1
-0,2013-03-15 23:53:20 -0500,['/t/lua'],What Lua scripting means for Wikimedia and open source,https://blog.wikimedia.org/2013/03/14/what-lua-scripting-means-wikimedia-open-source/,/u/jcs,6
-0,2013-03-15 21:25:24 -0500,"['/t/show', '/t/networking', '/t/ruby', '/t/visualization']",I've open sourced my Countinual project,https://github.com/jcs/countinual,/u/jcs,3
-2,2013-03-15 16:42:39 -0500,"['/t/law', '/t/privacy']","Federal Judge Finds National Security Letters Unconstitutional, Bans Them",http://www.wired.com/threatlevel/2013/03/nsl-found-unconstitutional/,/u/jcs,4
-0,2013-03-15 12:10:02 -0500,['/t/cogsci'],Procrastination Is Not Laziness,http://thoughtcatalog.com/2013/procrastination-is-not-laziness/,/u/listrophy,5
-1,2013-03-15 13:08:49 -0500,['/t/compsci'],Perl: The Language Everybody Wants to Declare Dead,http://www.linuxadvocates.com/2013/03/perl-language-everybody-wants-to.html,/u/zod000,3
-2,2013-03-15 10:48:44 -0500,['/t/programming'],Reasoning and mutability,http://davesquared.net/2013/03/reasoning-and-mutability.html,/u/puffnfresh,2
+0,2013-03-19 18:04:03 -0500,/t/security,Man-in-the-Middle Attack on T-Mobile Wi-Fi Calling,http://www.cs.berkeley.edu/~cthompson/t-mobile/,/u/jcs,6
+0,2013-03-20 08:53:56 -0500,"/t/javascript,/t/web","Superhero.js : Collection of the best articles, videos and presentations about JavaScript",http://superherojs.com/,/u/dbd,0
+1,2013-03-19 13:57:37 -0500,/t/security,"Cisco switches to weaker hashing scheme, passwords cracked wide open",http://arstechnica.com/security/2013/03/cisco-switches-to-weaker-hashing-scheme-passwords-cracked-wide-open/,/u/jcs,4
+0,2013-03-19 12:23:12 -0500,"/t/browsers,/t/practices",Checkboxes that kill your product — Alex Limi,http://limi.net/checkboxes-that-kill,/u/leeflannery,3
+5,2013-03-18 20:54:50 -0500,/t/scala,typelevel.scala | Powerful libraries for Scala,http://typelevel.org/,/u/puffnfresh,4
+0,2013-03-18 17:57:58 -0500,"/t/release,/t/web",Pedestal: An open source tool set for building web applications in Clojure,http://pedestal.io/,/u/jturner,5
+0,2013-03-18 17:11:43 -0500,"/t/design,/t/programming,/t/reversing",Homeworld 2's Backgrounds,http://simonschreibt.blogspot.de/2013/03/homeworld-backgrounds.html,/u/rpowelll,5
+1,2013-03-18 13:15:47 -0500,"/t/release,/t/ruby,/t/security","Rails 3.2.13, 3.1.12, and 2.3.18 have been released fixing 4 security vulnerabilities",http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/,/u/jcs,7
+1,2013-03-18 10:02:16 -0500,/t/openbsd,OpenBSD gets Kernel Mode Setting video support for Intel chips,http://marc.info/?l=openbsd-cvs&m=136361021703649&w=2,/u/jcs,8
+1,2013-03-18 16:18:17 -0500,"/t/python,/t/security",py-bcrypt <0.3 contains a concurrency bug that could result in authn bypass,https://twitter.com/damienmiller/status/313757236239409152,/u/jcs,3
+0,2013-03-18 14:17:32 -0500,"/t/programming,/t/vcs",But that's impossible! (idempotent mercurial/git translation),http://bitquabit.com/post/but-thats-impossible/,/u/joshuacc,4
+2,2013-03-18 10:29:50 -0500,/t/programming,Michael Feathers: Scalars as Implicit Collections - Removing an Edge,http://michaelfeathers.typepad.com/michael_feathers_blog/2013/03/scalars-as-implicit-collections-removing-an-edge.html,/u/joshuacc,2
+0,2013-03-18 13:47:50 -0500,"/t/browsers,/t/web",Future of Firefox DevTools,http://paulrouget.com/e/devtoolsnext/,/u/jcs,1
+4,2013-03-17 20:08:16 -0500,/t/scaling,Three Months to Scale NewsBlur,http://blog.newsblur.com/post/45632737156/three-months-to-scale-newsblur,/u/jcs,7
+0,2013-03-17 13:13:22 -0500,"/t/openbsd,/t/release",OpenSMTPD 5.3 released,http://opensmtpd.org/announces/release-5.3.txt,/u/lynge,7
+2,2013-03-17 01:24:35 -0500,"/t/networking,/t/openbsd",Using BGP to distribute OpenBSD spamd lists,http://bgp-spamd.net/,/u/jcs,7
+3,2013-03-16 19:25:05 -0500,"/t/assembly,/t/hardware,/t/reversing",AOSUZI - How the NES Game Genie works,http://www.jfbillingsley.com/blog/?p=221,/u/wilkie,12
+0,2013-03-17 02:31:49 -0500,/t/security,Has HTTPS finally been cracked?,http://nakedsecurity.sophos.com/2013/03/16/has-https-finally-been-cracked/,/u/kyle,6
+0,2013-03-16 13:28:25 -0500,"/t/compsci,/t/math,/t/ruby",Elegance and the Surreals (2009),http://raganwald.com/2009/03/07/elegance-and-the-surreals.html,/u/jcaudle,1
+0,2013-03-15 23:53:20 -0500,/t/lua,What Lua scripting means for Wikimedia and open source,https://blog.wikimedia.org/2013/03/14/what-lua-scripting-means-wikimedia-open-source/,/u/jcs,6
+0,2013-03-15 21:25:24 -0500,"/t/show,/t/networking,/t/ruby,/t/visualization",I've open sourced my Countinual project,https://github.com/jcs/countinual,/u/jcs,3
+2,2013-03-15 16:42:39 -0500,"/t/law,/t/privacy","Federal Judge Finds National Security Letters Unconstitutional, Bans Them",http://www.wired.com/threatlevel/2013/03/nsl-found-unconstitutional/,/u/jcs,4
+0,2013-03-15 12:10:02 -0500,/t/cogsci,Procrastination Is Not Laziness,http://thoughtcatalog.com/2013/procrastination-is-not-laziness/,/u/listrophy,5
+1,2013-03-15 13:08:49 -0500,/t/compsci,Perl: The Language Everybody Wants to Declare Dead,http://www.linuxadvocates.com/2013/03/perl-language-everybody-wants-to.html,/u/zod000,3
+2,2013-03-15 10:48:44 -0500,/t/programming,Reasoning and mutability,http://davesquared.net/2013/03/reasoning-and-mutability.html,/u/puffnfresh,2

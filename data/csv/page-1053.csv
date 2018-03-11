@@ -1,25 +1,25 @@
-0,2015-08-06 10:35:16 -0500,"['/t/programming', '/t/rust']",The Rustonomicon: The Dark Arts of Advanced and Unsafe Rust Programming,https://doc.rust-lang.org/nightly/nomicon/#the-dark-arts-of-advanced-and-unsafe-rust-programming,/u/pushcx,23
-0,2015-08-06 20:48:26 -0500,"['/t/ml', '/t/programming']",OCaml Compiler Hacking: how to add a primitive,http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html,/u/zem,6
-2,2015-08-06 15:13:14 -0500,"['/t/javascript', '/t/scaling']",Logarithmic scaling with the fastest JSON validator,http://simongrondin.name/?p=383,/u/Don_Pellegrino,4
-2,2015-08-06 10:30:28 -0500,"['/t/programming', '/t/web']",Updated : Free-for-dev list,https://github.com/ripienaar/free-for-dev,/u/jrwilliams,12
-0,2015-08-06 14:09:43 -0500,"['/t/ios', '/t/windows']",Open Sourcing the Windows Bridge for iOS,http://blogs.windows.com/buildingapps/2015/08/06/open-sourcing-the-windows-bridge-for-ios/,/u/jrick,8
-0,2015-08-06 16:14:37 -0500,"['/t/video', '/t/devops', '/t/go', '/t/programming']",Building Resilient Services with Go,http://blog.fogcreek.com/building-resilient-services-with-go-tech-talk/,/u/pushcx,7
-0,2015-08-06 14:56:47 -0500,['/t/go'],Gzip Performance for Go Webservers,http://blog.klauspost.com/gzip-performance-for-go-webservers/,/u/journeysquid,7
-0,2015-08-06 12:11:05 -0500,"['/t/compsci', '/t/math']",Why Bloom filters work the way they do (2012),http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/,/u/pushcx,9
-0,2015-08-06 21:23:44 -0500,"['/t/programming', '/t/ruby']",Getting Testy: Redux,http://randycoulman.com//blog/2015/08/04/getting-testy-redux/,/u/pushcx,2
-0,2015-08-06 12:23:00 -0500,"['/t/ios', '/t/networking', '/t/privacy']",What's really happening with iOS 8 MAC address randomization?,http://www.imore.com/closer-look-ios-8s-mac-randomization,/u/pushcx,6
-0,2015-08-06 11:54:51 -0500,"['/t/video', '/t/practices']",RailsConf 2015 - Implementing a Strong Code-Review Culture,http://www.youtube.com/watch?v=PJjmw9TRB7s,/u/peterhorne,6
-17,2015-08-06 02:24:16 -0500,"['/t/ask', '/t/api']",What software do you use to run your RESTful API?,/s/xav2dr/what_software_do_you_use_run_your_restful,/u/zg,7
-3,2015-08-06 06:49:29 -0500,"['/t/person', '/t/virtualization']",Q&A with Bryan Cantrill: Running Containers on Bare Metal with Triton,http://www.infoq.com/news/2015/08/cantrill-containers-bare-metal,/u/apy,4
-4,2015-08-05 22:11:00 -0500,['/t/c'],A Formal C Memory Model Supporting Integer-Pointer Casts,http://sf.snu.ac.kr/intptrcast/,/u/sanxiyn,12
-19,2015-08-05 13:00:18 -0500,['/t/philosophy'],Speed matters: Why working quickly is more important than it seems,http://jsomers.net/blog/speed-matters,/u/peterhorne,20
-8,2015-08-05 08:15:01 -0500,['/t/practices'],On Monolithic Repositories,http://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/,/u/kellogh,24
-0,2015-08-06 06:47:37 -0500,"['/t/hardware', '/t/science', '/t/visualization']",Nuclear explosion impact shown on Google maps,http://nuclearsecrecy.com/nukemap/,/u/derek-jones,3
-3,2015-08-05 15:45:04 -0500,"['/t/security', '/t/web']",HTML5 privacy hole left users open to tracking for three years,http://www.wired.co.uk/news/archive/2015-08/04/privacy-hole-in-firefox,/u/flyingfisch,8
-12,2015-08-04 22:13:16 -0500,"['/t/haskell', '/t/practices']",The Haskell User Experience,http://rickdzekman.com/thoughts/the-haskell-user-experience/,/u/pushcx,34
-4,2015-08-05 13:51:41 -0500,['/t/c'],pdfium patch removing non-obviously semantic spaces in C source,https://pdfium.googlesource.com/pdfium/+/5d711cb33cebaaf194b40683359c74e648ac5342%5E%21/,/u/antifuchs,6
-0,2015-08-05 18:36:28 -0500,"['/t/compsci', '/t/graphics']",SIGGRAPH 2015: A Computational Approach for Obstruction-Free Photography,https://sites.google.com/site/obstructionfreephotography/,/u/nickzoic,6
-0,2015-08-05 15:49:52 -0500,['/t/lisp'],ClojureScript and the Blub Paradox,http://wildermuthn.github.io/2015/08/04/clojurescript-and-the-blub-paradox/,/u/stig,8
-0,2015-08-05 19:19:21 -0500,"['/t/lisp', '/t/practices', '/t/programming']",On eval in dynamic languages generally and in Racket specifically (2011),http://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html,/u/apg,5
-0,2015-08-05 20:18:09 -0500,"['/t/android', '/t/security']","Stagefright: Vulnerability Details, Stagefright Detector tool",https://blog.zimperium.com/stagefright-vulnerability-details-stagefright-detector-tool-released/,/u/jcs,3
-16,2015-08-04 13:18:39 -0500,['/t/security'],ssh whoami.filippo.io,https://blog.filippo.io/ssh-whoami-filippo-io/,/u/jcs,40
+0,2015-08-06 10:35:16 -0500,"/t/programming,/t/rust",The Rustonomicon: The Dark Arts of Advanced and Unsafe Rust Programming,https://doc.rust-lang.org/nightly/nomicon/#the-dark-arts-of-advanced-and-unsafe-rust-programming,/u/pushcx,23
+0,2015-08-06 20:48:26 -0500,"/t/ml,/t/programming",OCaml Compiler Hacking: how to add a primitive,http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html,/u/zem,6
+2,2015-08-06 15:13:14 -0500,"/t/javascript,/t/scaling",Logarithmic scaling with the fastest JSON validator,http://simongrondin.name/?p=383,/u/Don_Pellegrino,4
+2,2015-08-06 10:30:28 -0500,"/t/programming,/t/web",Updated : Free-for-dev list,https://github.com/ripienaar/free-for-dev,/u/jrwilliams,12
+0,2015-08-06 14:09:43 -0500,"/t/ios,/t/windows",Open Sourcing the Windows Bridge for iOS,http://blogs.windows.com/buildingapps/2015/08/06/open-sourcing-the-windows-bridge-for-ios/,/u/jrick,8
+0,2015-08-06 16:14:37 -0500,"/t/video,/t/devops,/t/go,/t/programming",Building Resilient Services with Go,http://blog.fogcreek.com/building-resilient-services-with-go-tech-talk/,/u/pushcx,7
+0,2015-08-06 14:56:47 -0500,/t/go,Gzip Performance for Go Webservers,http://blog.klauspost.com/gzip-performance-for-go-webservers/,/u/journeysquid,7
+0,2015-08-06 12:11:05 -0500,"/t/compsci,/t/math",Why Bloom filters work the way they do (2012),http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/,/u/pushcx,9
+0,2015-08-06 21:23:44 -0500,"/t/programming,/t/ruby",Getting Testy: Redux,http://randycoulman.com//blog/2015/08/04/getting-testy-redux/,/u/pushcx,2
+0,2015-08-06 12:23:00 -0500,"/t/ios,/t/networking,/t/privacy",What's really happening with iOS 8 MAC address randomization?,http://www.imore.com/closer-look-ios-8s-mac-randomization,/u/pushcx,6
+0,2015-08-06 11:54:51 -0500,"/t/video,/t/practices",RailsConf 2015 - Implementing a Strong Code-Review Culture,http://www.youtube.com/watch?v=PJjmw9TRB7s,/u/peterhorne,6
+17,2015-08-06 02:24:16 -0500,"/t/ask,/t/api",What software do you use to run your RESTful API?,/s/xav2dr/what_software_do_you_use_run_your_restful,/u/zg,7
+3,2015-08-06 06:49:29 -0500,"/t/person,/t/virtualization",Q&A with Bryan Cantrill: Running Containers on Bare Metal with Triton,http://www.infoq.com/news/2015/08/cantrill-containers-bare-metal,/u/apy,4
+4,2015-08-05 22:11:00 -0500,/t/c,A Formal C Memory Model Supporting Integer-Pointer Casts,http://sf.snu.ac.kr/intptrcast/,/u/sanxiyn,12
+19,2015-08-05 13:00:18 -0500,/t/philosophy,Speed matters: Why working quickly is more important than it seems,http://jsomers.net/blog/speed-matters,/u/peterhorne,20
+8,2015-08-05 08:15:01 -0500,/t/practices,On Monolithic Repositories,http://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/,/u/kellogh,24
+0,2015-08-06 06:47:37 -0500,"/t/hardware,/t/science,/t/visualization",Nuclear explosion impact shown on Google maps,http://nuclearsecrecy.com/nukemap/,/u/derek-jones,3
+3,2015-08-05 15:45:04 -0500,"/t/security,/t/web",HTML5 privacy hole left users open to tracking for three years,http://www.wired.co.uk/news/archive/2015-08/04/privacy-hole-in-firefox,/u/flyingfisch,8
+12,2015-08-04 22:13:16 -0500,"/t/haskell,/t/practices",The Haskell User Experience,http://rickdzekman.com/thoughts/the-haskell-user-experience/,/u/pushcx,34
+4,2015-08-05 13:51:41 -0500,/t/c,pdfium patch removing non-obviously semantic spaces in C source,https://pdfium.googlesource.com/pdfium/+/5d711cb33cebaaf194b40683359c74e648ac5342%5E%21/,/u/antifuchs,6
+0,2015-08-05 18:36:28 -0500,"/t/compsci,/t/graphics",SIGGRAPH 2015: A Computational Approach for Obstruction-Free Photography,https://sites.google.com/site/obstructionfreephotography/,/u/nickzoic,6
+0,2015-08-05 15:49:52 -0500,/t/lisp,ClojureScript and the Blub Paradox,http://wildermuthn.github.io/2015/08/04/clojurescript-and-the-blub-paradox/,/u/stig,8
+0,2015-08-05 19:19:21 -0500,"/t/lisp,/t/practices,/t/programming",On eval in dynamic languages generally and in Racket specifically (2011),http://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html,/u/apg,5
+0,2015-08-05 20:18:09 -0500,"/t/android,/t/security","Stagefright: Vulnerability Details, Stagefright Detector tool",https://blog.zimperium.com/stagefright-vulnerability-details-stagefright-detector-tool-released/,/u/jcs,3
+16,2015-08-04 13:18:39 -0500,/t/security,ssh whoami.filippo.io,https://blog.filippo.io/ssh-whoami-filippo-io/,/u/jcs,40

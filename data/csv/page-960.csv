@@ -1,25 +1,25 @@
-0,2015-11-24 04:49:40 -0600,['/t/databases'],with — Organize Complex SQL Queries,http://modern-sql.com/feature/with,/u/pushcx,5
-5,2015-11-23 13:49:15 -0600,"['/t/distributed', '/t/practices', '/t/python', '/t/scaling']",State of Mercurial at Mozilla,https://selenic.com/pipermail/mercurial-devel/2015-November/075761.html,/u/ngoldbaum,18
-16,2015-11-23 04:32:56 -0600,['/t/openbsd'],One of the three OpenBSD users,http://blog.tintagel.pl/2015/11/22/one-of-the-three-openbsd-users.html,/u/fcambus,33
-1,2015-11-24 09:12:18 -0600,"['/t/design', '/t/graphics']",Fontdeck is Retiring,http://us1.campaign-archive2.com/?u=262832f6c05900ce22e8b14b6&id=847cdd319d&e=024aead881,/u/flyingfisch,1
-0,2015-11-24 12:11:50 -0600,"['/t/security', '/t/web']",Recipe: The Best Darn HTTP Cookies,https://stormpath.com/blog/cookies-are-awesome-free-cookies,/u/nbarbettini,1
-0,2015-11-24 08:02:22 -0600,"['/t/javascript', '/t/practices']","JavaScript dates, trains, Passover, and Henry VIII",https://curtisautery.appspot.com/5779342353235968,/u/pushcx,2
-2,2015-11-23 17:15:59 -0600,['/t/programming'],There Is No Thread,http://blog.stephencleary.com/2013/11/there-is-no-thread.html,/u/zem,8
-7,2015-11-23 15:28:41 -0600,"['/t/javascript', '/t/php']",Dance to Calypso - Wordpress' Node + React project,http://ma.tt/2015/11/dance-to-calypso/,/u/kenichi,5
-0,2015-11-23 17:10:49 -0600,['/t/design'],Reducing Noise in Arabic Script,https://www.typotheque.com/articles/harir,/u/merzberimbow,8
-7,2015-11-22 23:11:28 -0600,['/t/person'],Now that's what I call a Hacker,https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/,/u/jpm1,27
-0,2015-11-23 23:00:27 -0600,"['/t/pdf', '/t/python']",How to Make Mistakes in Python,http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf,/u/av,3
-34,2015-11-22 23:11:53 -0600,['/t/ask'],What are you working on this week?,/s/quqdfk/what_are_you_working_on_this_week,/u/marvindanig,21
-2,2015-11-23 17:18:06 -0600,"['/t/video', '/t/programming', '/t/ruby']",The Seven Righteous fights,http://confreaks.tv/videos/rubyconf2015-the-seven-righteous-fights,/u/maclover7,3
-3,2015-11-23 05:47:59 -0600,['/t/go'],Go Proverbs,http://go-proverbs.github.io/,/u/adsouza,11
-0,2015-11-23 20:08:42 -0600,"['/t/video', '/t/cogsci', '/t/compsci', '/t/games', '/t/lua']",MarI/O - Machine Learning for Video Games,https://www.youtube.com/watch?v=qv6UVOQ0F44,/u/merzberimbow,3
-0,2015-11-23 12:22:54 -0600,['/t/games'],Breaking the fourth wall with Minecraft,http://hashbang.gr/breaking-the-4th-wall-with-minecraft/,/u/SeanW,8
-1,2015-11-23 20:02:57 -0600,"['/t/java', '/t/testing']",JUnit Lambda - The Prototype,http://blog.codefx.org/libraries/junit-lambda-prototype/,/u/jitterted,2
-0,2015-11-22 21:52:56 -0600,['/t/openbsd'],"vmm(4) userland bits vmd(8), vmmctl(8) hit -current",http://undeadly.org/cgi?action=article&sid=20151122214050&mode=expanded,/u/gabe,24
-4,2015-11-23 07:10:29 -0600,"['/t/practices', '/t/security']",Four Impossible Things Before Key Escrow,https://medium.com/@maradydd/four-impossible-things-before-key-escrow-85478d949502,/u/pushcx,4
-7,2015-11-23 01:59:09 -0600,"['/t/javascript', '/t/web']",First Angular 2 app in production from Google,https://fiber.google.com/cities/kansascity/fiberhoods/,/u/SeanW,7
-4,2015-11-22 19:01:38 -0600,['/t/programming'],How do Promises Work?,http://robotlolita.me/2015/11/15/how-do-promises-work.html,/u/hails,19
-0,2015-11-23 07:14:02 -0600,['/t/ruby'],The Class That Never Ends,https://medium.com/@chancancode/the-class-that-never-ends-282e9e1114ca,/u/pushcx,7
-0,2015-11-23 17:05:53 -0600,"['/t/culture', '/t/games']",A Cabinet of Infocom Curiousities,http://ascii.textfiles.com/archives/4834,/u/jcs,4
-1,2015-11-22 22:22:23 -0600,['/t/security'],"Freenet infiltrated, several arrests made",http://www.thedickinsonpress.com/news/north-dakota/3885239-predators-police-online-struggle,/u/SeanW,13
-0,2015-11-22 23:39:22 -0600,"['/t/games', '/t/networking', '/t/reversing']",Fallout 4 Service Discovery and Relay,https://getcarina.com/blog/fallout-4-service-discovery-and-relay/,/u/ssl,14
+0,2015-11-24 04:49:40 -0600,/t/databases,with — Organize Complex SQL Queries,http://modern-sql.com/feature/with,/u/pushcx,5
+5,2015-11-23 13:49:15 -0600,"/t/distributed,/t/practices,/t/python,/t/scaling",State of Mercurial at Mozilla,https://selenic.com/pipermail/mercurial-devel/2015-November/075761.html,/u/ngoldbaum,18
+16,2015-11-23 04:32:56 -0600,/t/openbsd,One of the three OpenBSD users,http://blog.tintagel.pl/2015/11/22/one-of-the-three-openbsd-users.html,/u/fcambus,33
+1,2015-11-24 09:12:18 -0600,"/t/design,/t/graphics",Fontdeck is Retiring,http://us1.campaign-archive2.com/?u=262832f6c05900ce22e8b14b6&id=847cdd319d&e=024aead881,/u/flyingfisch,1
+0,2015-11-24 12:11:50 -0600,"/t/security,/t/web",Recipe: The Best Darn HTTP Cookies,https://stormpath.com/blog/cookies-are-awesome-free-cookies,/u/nbarbettini,1
+0,2015-11-24 08:02:22 -0600,"/t/javascript,/t/practices","JavaScript dates, trains, Passover, and Henry VIII",https://curtisautery.appspot.com/5779342353235968,/u/pushcx,2
+2,2015-11-23 17:15:59 -0600,/t/programming,There Is No Thread,http://blog.stephencleary.com/2013/11/there-is-no-thread.html,/u/zem,8
+7,2015-11-23 15:28:41 -0600,"/t/javascript,/t/php",Dance to Calypso - Wordpress' Node + React project,http://ma.tt/2015/11/dance-to-calypso/,/u/kenichi,5
+0,2015-11-23 17:10:49 -0600,/t/design,Reducing Noise in Arabic Script,https://www.typotheque.com/articles/harir,/u/merzberimbow,8
+7,2015-11-22 23:11:28 -0600,/t/person,Now that's what I call a Hacker,https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/,/u/jpm1,27
+0,2015-11-23 23:00:27 -0600,"/t/pdf,/t/python",How to Make Mistakes in Python,http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf,/u/av,3
+34,2015-11-22 23:11:53 -0600,/t/ask,What are you working on this week?,/s/quqdfk/what_are_you_working_on_this_week,/u/marvindanig,21
+2,2015-11-23 17:18:06 -0600,"/t/video,/t/programming,/t/ruby",The Seven Righteous fights,http://confreaks.tv/videos/rubyconf2015-the-seven-righteous-fights,/u/maclover7,3
+3,2015-11-23 05:47:59 -0600,/t/go,Go Proverbs,http://go-proverbs.github.io/,/u/adsouza,11
+0,2015-11-23 20:08:42 -0600,"/t/video,/t/cogsci,/t/compsci,/t/games,/t/lua",MarI/O - Machine Learning for Video Games,https://www.youtube.com/watch?v=qv6UVOQ0F44,/u/merzberimbow,3
+0,2015-11-23 12:22:54 -0600,/t/games,Breaking the fourth wall with Minecraft,http://hashbang.gr/breaking-the-4th-wall-with-minecraft/,/u/SeanW,8
+1,2015-11-23 20:02:57 -0600,"/t/java,/t/testing",JUnit Lambda - The Prototype,http://blog.codefx.org/libraries/junit-lambda-prototype/,/u/jitterted,2
+0,2015-11-22 21:52:56 -0600,/t/openbsd,"vmm(4) userland bits vmd(8), vmmctl(8) hit -current",http://undeadly.org/cgi?action=article&sid=20151122214050&mode=expanded,/u/gabe,24
+4,2015-11-23 07:10:29 -0600,"/t/practices,/t/security",Four Impossible Things Before Key Escrow,https://medium.com/@maradydd/four-impossible-things-before-key-escrow-85478d949502,/u/pushcx,4
+7,2015-11-23 01:59:09 -0600,"/t/javascript,/t/web",First Angular 2 app in production from Google,https://fiber.google.com/cities/kansascity/fiberhoods/,/u/SeanW,7
+4,2015-11-22 19:01:38 -0600,/t/programming,How do Promises Work?,http://robotlolita.me/2015/11/15/how-do-promises-work.html,/u/hails,19
+0,2015-11-23 07:14:02 -0600,/t/ruby,The Class That Never Ends,https://medium.com/@chancancode/the-class-that-never-ends-282e9e1114ca,/u/pushcx,7
+0,2015-11-23 17:05:53 -0600,"/t/culture,/t/games",A Cabinet of Infocom Curiousities,http://ascii.textfiles.com/archives/4834,/u/jcs,4
+1,2015-11-22 22:22:23 -0600,/t/security,"Freenet infiltrated, several arrests made",http://www.thedickinsonpress.com/news/north-dakota/3885239-predators-police-online-struggle,/u/SeanW,13
+0,2015-11-22 23:39:22 -0600,"/t/games,/t/networking,/t/reversing",Fallout 4 Service Discovery and Relay,https://getcarina.com/blog/fallout-4-service-discovery-and-relay/,/u/ssl,14

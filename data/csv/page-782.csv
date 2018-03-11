@@ -1,25 +1,25 @@
-89,2016-05-16 03:43:29 -0500,['/t/ask'],What are you working on this week?,/s/76piy4/what_are_you_working_on_this_week,/u/caius,35
-1,2016-05-16 20:51:39 -0500,"['/t/pdf', '/t/slides', '/t/databases']",Sorting Through the Ages,https://wiki.postgresql.org/images/5/59/Sorting_through_the_ages.pdf,/u/pushcx,8
-0,2016-05-16 21:25:26 -0500,['/t/games'],What Werewolf teaches us about Trust & Security,https://eaves.ca/2013/11/07/what-werewolf-teaches-us-about-trust-security/,/u/pushcx,8
-0,2016-05-16 21:16:47 -0500,"['/t/databases', '/t/devops']",12 Common Mistakes while Backing Up Databases,http://ib-aid.com/en/articles/12-common-mistakes-while-backing-up-databases/,/u/pushcx,8
-6,2016-05-16 06:30:47 -0500,"['/t/finance', '/t/hardware']","Intel Culture Just Ate 12,000 Jobs",https://mondaynote.com/intel-culture-just-ate-12-000-jobs-305674fb1274,/u/calvin,23
-0,2016-05-17 07:39:39 -0500,"['/t/pdf', '/t/historical', '/t/programming']",Leading a Child to a Computer Culture (1975),https://dspace.mit.edu/bitstream/handle/1721.1/6244/AIM-343.pdf,/u/calvin,2
-2,2016-05-16 06:27:34 -0500,"['/t/browsers', '/t/crypto', '/t/security', '/t/web']",Why is nobody using SSL client certificates? (2008),https://pilif.github.io/2008/05/why-is-nobody-using-ssl-client-certificates/,/u/rain1,24
-0,2016-05-17 11:25:07 -0500,"['/t/culture', '/t/devops', '/t/testing']",DevOps Checklist,http://devopschecklist.com/,/u/a_meba,2
-3,2016-05-16 15:08:07 -0500,['/t/haskell'],Lined-up Haskell Types,https://chris-martin.github.io/haskell-aligned/,/u/pushcx,9
-2,2016-05-16 09:33:03 -0500,['/t/programming'],A Guide to Naming Variables,http://a-nickels-worth.blogspot.com/2016/04/a-guide-to-naming-variables.html,/u/pushcx,17
-0,2016-05-16 21:02:26 -0500,"['/t/databases', '/t/security']",SQL Injection Cheat Sheet by Netsparker,https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/,/u/pushcx,6
-0,2016-05-16 10:18:08 -0500,['/t/hardware'],The MOnSter 6502—A 6502 CPU from discrete surface-mount transistors,http://tubetime.us/?p=346,/u/whbboyd,19
-0,2016-05-16 22:49:16 -0500,"['/t/show', '/t/design', '/t/javascript']",Tellform - An Open-Source Beautiful Form Builder,http://tellform.com,/u/polydaic,2
-0,2016-05-16 10:01:33 -0500,"['/t/video', '/t/compilers']",Anders Hejlsberg on Modern Compiler Construction,https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction,/u/joshuacc,17
-1,2016-05-16 10:08:24 -0500,"['/t/show', '/t/compsci', '/t/math']",SetBang 2: SetBang programming,https://michaelochurch.wordpress.com/2016/05/09/setbang-2-setbang-programming/,/u/michaelochurch,5
-1,2016-05-16 16:05:21 -0500,['/t/c'],Signed overflow in C,https://www.imperialviolet.org/2016/05/15/signedoverflow.html,/u/fcambus,6
-2,2016-05-16 20:08:37 -0500,"['/t/assembly', '/t/c', '/t/linux']",A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux (2005),http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html,/u/chadski,3
-0,2016-05-16 18:38:20 -0500,"['/t/practices', '/t/programming']",Discipline and the fear of success,http://us1.campaign-archive2.com/?u=53a12bfed319e2ce36b906532&id=e5c4921099&e=7a799bcb2f,/u/joshuacc,4
-7,2016-05-16 01:47:34 -0500,"['/t/api', '/t/javascript', '/t/practices']",JSON API — A specification for building APIs in JSON,http://jsonapi.org/,/u/friendlysock,14
-1,2016-05-16 03:48:31 -0500,"['/t/ruby', '/t/rust']",Introducing Helix,http://blog.skylight.io/introducing-helix/,/u/patrickod,20
-1,2016-05-16 15:40:34 -0500,"['/t/law', '/t/privacy']",The Intercept is Broadening Access to the Snowden Archive,https://theintercept.com/snowden-sidtoday/,/u/pushcx,4
-0,2016-05-16 11:25:33 -0500,"['/t/linux', '/t/release']",Linux 4.6 is out,https://lwn.net/Articles/687511/,/u/av,8
-0,2016-05-16 15:01:38 -0500,['/t/visualization'],"60 years of employment, construction, and the cost of San Francisco apartments",http://experimental-geography.blogspot.com/2016/05/employment-construction-and-cost-of-san.html,/u/pushcx,3
-1,2016-05-16 10:26:08 -0500,['/t/security'],How I found a huge data leak of a company during a college lecture,http://sijmen.ruwhof.net/weblog/937-how-i-found-a-huge-data-leak-of-a-company-during-a-college-lecture,/u/flyingfisch,4
-0,2016-05-16 12:44:46 -0500,['/t/ruby'],Validations Predicates,http://hanamirb.org/blog/2016/05/16/validations-predicates.html,/u/pushcx,3
+89,2016-05-16 03:43:29 -0500,/t/ask,What are you working on this week?,/s/76piy4/what_are_you_working_on_this_week,/u/caius,35
+1,2016-05-16 20:51:39 -0500,"/t/pdf,/t/slides,/t/databases",Sorting Through the Ages,https://wiki.postgresql.org/images/5/59/Sorting_through_the_ages.pdf,/u/pushcx,8
+0,2016-05-16 21:25:26 -0500,/t/games,What Werewolf teaches us about Trust & Security,https://eaves.ca/2013/11/07/what-werewolf-teaches-us-about-trust-security/,/u/pushcx,8
+0,2016-05-16 21:16:47 -0500,"/t/databases,/t/devops",12 Common Mistakes while Backing Up Databases,http://ib-aid.com/en/articles/12-common-mistakes-while-backing-up-databases/,/u/pushcx,8
+6,2016-05-16 06:30:47 -0500,"/t/finance,/t/hardware","Intel Culture Just Ate 12,000 Jobs",https://mondaynote.com/intel-culture-just-ate-12-000-jobs-305674fb1274,/u/calvin,23
+0,2016-05-17 07:39:39 -0500,"/t/pdf,/t/historical,/t/programming",Leading a Child to a Computer Culture (1975),https://dspace.mit.edu/bitstream/handle/1721.1/6244/AIM-343.pdf,/u/calvin,2
+2,2016-05-16 06:27:34 -0500,"/t/browsers,/t/crypto,/t/security,/t/web",Why is nobody using SSL client certificates? (2008),https://pilif.github.io/2008/05/why-is-nobody-using-ssl-client-certificates/,/u/rain1,24
+0,2016-05-17 11:25:07 -0500,"/t/culture,/t/devops,/t/testing",DevOps Checklist,http://devopschecklist.com/,/u/a_meba,2
+3,2016-05-16 15:08:07 -0500,/t/haskell,Lined-up Haskell Types,https://chris-martin.github.io/haskell-aligned/,/u/pushcx,9
+2,2016-05-16 09:33:03 -0500,/t/programming,A Guide to Naming Variables,http://a-nickels-worth.blogspot.com/2016/04/a-guide-to-naming-variables.html,/u/pushcx,17
+0,2016-05-16 21:02:26 -0500,"/t/databases,/t/security",SQL Injection Cheat Sheet by Netsparker,https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/,/u/pushcx,6
+0,2016-05-16 10:18:08 -0500,/t/hardware,The MOnSter 6502—A 6502 CPU from discrete surface-mount transistors,http://tubetime.us/?p=346,/u/whbboyd,19
+0,2016-05-16 22:49:16 -0500,"/t/show,/t/design,/t/javascript",Tellform - An Open-Source Beautiful Form Builder,http://tellform.com,/u/polydaic,2
+0,2016-05-16 10:01:33 -0500,"/t/video,/t/compilers",Anders Hejlsberg on Modern Compiler Construction,https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction,/u/joshuacc,17
+1,2016-05-16 10:08:24 -0500,"/t/show,/t/compsci,/t/math",SetBang 2: SetBang programming,https://michaelochurch.wordpress.com/2016/05/09/setbang-2-setbang-programming/,/u/michaelochurch,5
+1,2016-05-16 16:05:21 -0500,/t/c,Signed overflow in C,https://www.imperialviolet.org/2016/05/15/signedoverflow.html,/u/fcambus,6
+2,2016-05-16 20:08:37 -0500,"/t/assembly,/t/c,/t/linux",A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux (2005),http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html,/u/chadski,3
+0,2016-05-16 18:38:20 -0500,"/t/practices,/t/programming",Discipline and the fear of success,http://us1.campaign-archive2.com/?u=53a12bfed319e2ce36b906532&id=e5c4921099&e=7a799bcb2f,/u/joshuacc,4
+7,2016-05-16 01:47:34 -0500,"/t/api,/t/javascript,/t/practices",JSON API — A specification for building APIs in JSON,http://jsonapi.org/,/u/friendlysock,14
+1,2016-05-16 03:48:31 -0500,"/t/ruby,/t/rust",Introducing Helix,http://blog.skylight.io/introducing-helix/,/u/patrickod,20
+1,2016-05-16 15:40:34 -0500,"/t/law,/t/privacy",The Intercept is Broadening Access to the Snowden Archive,https://theintercept.com/snowden-sidtoday/,/u/pushcx,4
+0,2016-05-16 11:25:33 -0500,"/t/linux,/t/release",Linux 4.6 is out,https://lwn.net/Articles/687511/,/u/av,8
+0,2016-05-16 15:01:38 -0500,/t/visualization,"60 years of employment, construction, and the cost of San Francisco apartments",http://experimental-geography.blogspot.com/2016/05/employment-construction-and-cost-of-san.html,/u/pushcx,3
+1,2016-05-16 10:26:08 -0500,/t/security,How I found a huge data leak of a company during a college lecture,http://sijmen.ruwhof.net/weblog/937-how-i-found-a-huge-data-leak-of-a-company-during-a-college-lecture,/u/flyingfisch,4
+0,2016-05-16 12:44:46 -0500,/t/ruby,Validations Predicates,http://hanamirb.org/blog/2016/05/16/validations-predicates.html,/u/pushcx,3

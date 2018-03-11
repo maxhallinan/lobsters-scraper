@@ -1,25 +1,25 @@
-0,2016-09-28 15:45:34 -0500,"['/t/databases', '/t/ruby']",The Simpsons by the Data,https://github.com/toddwschneider/flim-springfield,/u/tf,1
-3,2016-09-27 13:17:08 -0500,['/t/graphics'],"Pixels and voxels, the long answer",https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190,/u/pushcx,24
-0,2016-09-28 14:51:37 -0500,['/t/ruby'],Minitest Cheat Sheet,http://www.rubypigeon.com/posts/minitest-cheat-sheet/,/u/pushcx,1
-0,2016-09-28 00:05:11 -0500,['/t/practices'],How It's Like to Work as a Graphics Programmer,http://stephaniehurlburt.com/blog/2016/9/27/how-its-like-to-work-as-a-graphics-programmer,/u/antifuchs,8
-0,2016-09-28 16:02:20 -0500,"['/t/culture', '/t/hardware', '/t/mobile']","I come not to praise QWERTY, but to bury it (2013)",http://www.theverge.com/2013/11/15/5104704/i-come-not-to-praise-qwerty-but-to-bury-it,/u/calvin,2
-17,2016-09-27 15:51:45 -0500,"['/t/javascript', '/t/mobile']",Why I'm not a React Native Developer,https://arielelkin.github.io/articles/why-im-not-a-react-native-developer.html,/u/pushcx,10
-0,2016-09-28 14:04:59 -0500,"['/t/video', '/t/design', '/t/practices', '/t/web']",Refactoring CSS Without Losing Your Mind,https://slideslive.com/38898201/refactoring-css-without-losing-your-mind,/u/flyingfisch,1
-1,2016-09-27 18:29:38 -0500,"['/t/video', '/t/compsci', '/t/lisp']",Parsing With Derivatives,https://www.youtube.com/watch?v=FKiEsJiTMtI,/u/InkyHarmonics,12
-8,2016-09-27 06:56:40 -0500,"['/t/linux', '/t/security']",Unsafe at any clock speed: Linux kernel security needs a rethink,http://arstechnica.co.uk/security/2016/09/linux-kernel-security-needs-fixing/,/u/jussi,26
-10,2016-09-27 18:42:56 -0500,"['/t/browsers', '/t/security', '/t/virtualization', '/t/windows']",Windows 10 will soon run Edge in a virtual machine to keep you safe,http://arstechnica.com/information-technology/2016/09/windows-10-will-soon-run-edge-in-a-virtual-machine-to-keep-you-safe/,/u/calvin,6
-0,2016-09-28 09:25:06 -0500,"['/t/design', '/t/mobile', '/t/web']",Non Hover (2010),http://trentwalton.com/2010/07/05/non-hover/,/u/flyingfisch,2
-0,2016-09-28 12:55:26 -0500,['/t/java'],Java Warmup,http://www.brendangregg.com/blog/2016-09-28/java-warmup.html,/u/prefork,1
-0,2016-09-28 08:38:09 -0500,"['/t/perl', '/t/testing']",The curious case of the disappearing test,http://strangelyconsistent.org/blog/the-curious-case-of-the-disappearing-test,/u/jabberwock,2
-0,2016-09-28 03:05:23 -0500,"['/t/c', '/t/programming']",How to add your protocol to Mongoose,https://blog.cesanta.com/how-to-add-your-protocol-to-mongoose-embedded-web-server,/u/evthewolf,2
-0,2016-09-27 23:03:12 -0500,"['/t/slides', '/t/haskell']",LiquidHaskell: Verification of Haskell Code with SMTs,http://goto.ucsd.edu/~nvazou/presentations/cufp16/01-index.html,/u/pushcx,5
-24,2016-09-27 04:07:29 -0500,['/t/ask'],How do you read books?,/s/lak6vw/how_do_you_read_books,/u/fredsir,19
-2,2016-09-27 13:22:09 -0500,"['/t/elm', '/t/ruby', '/t/web']",Adding Elm to a Rails application,https://blog.abevoelker.com/2016-09-05/adding-elm-to-a-rails-application/,/u/pushcx,10
-0,2016-09-27 21:25:16 -0500,"['/t/art', '/t/debugging', '/t/hardware']",Keyboard Tester,http://www.keyboardtester.com/,/u/friendlysock,5
-8,2016-09-27 12:24:23 -0500,"['/t/haskell', '/t/scala']",Modern Functional Programming: Part 2,http://degoes.net/articles/modern-fp-part-2,/u/pushcx,7
-3,2016-09-27 11:16:52 -0500,"['/t/pdf', '/t/programming']",The Operating System: Should There Be One? (2013),https://www.cl.cam.ac.uk/~srk31/research/papers/kell13operating.pdf,/u/pushcx,9
-1,2016-09-27 22:54:34 -0500,"['/t/culture', '/t/practices']",Pair (more than) Programming – Tech Lead Talks,https://medium.com/tech-lead-talks/pair-more-than-programming-30cdfdbe3eb2,/u/elbrujohalcon,2
-0,2016-09-27 14:47:01 -0500,"['/t/audio', '/t/historical', '/t/mac']",The Story of Sosumi and the Mac Startup Sound,http://reekes.net/sosumi/,/u/calvin,8
-0,2016-09-27 19:21:49 -0500,['/t/python'],Pyflame: Uber Engineering’s Ptracing Profiler for Python - Uber Engineering Blog,https://eng.uber.com/pyflame/,/u/trousers,3
-7,2016-09-26 17:19:01 -0500,"['/t/compsci', '/t/event']",Systems We Love,http://systemswe.love/,/u/kyle,43
-13,2016-09-26 13:31:40 -0500,"['/t/browsers', '/t/security']",Mozilla’s proposed conclusion regarding the matter of WoSign and StartCom,https://docs.google.com/document/d/1C6BlmbeQfn4a9zydVi2UvjBGv6szuSB4sMYUcVrR8vQ/preview,/u/nyx,36
+0,2016-09-28 15:45:34 -0500,"/t/databases,/t/ruby",The Simpsons by the Data,https://github.com/toddwschneider/flim-springfield,/u/tf,1
+3,2016-09-27 13:17:08 -0500,/t/graphics,"Pixels and voxels, the long answer",https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190,/u/pushcx,24
+0,2016-09-28 14:51:37 -0500,/t/ruby,Minitest Cheat Sheet,http://www.rubypigeon.com/posts/minitest-cheat-sheet/,/u/pushcx,1
+0,2016-09-28 00:05:11 -0500,/t/practices,How It's Like to Work as a Graphics Programmer,http://stephaniehurlburt.com/blog/2016/9/27/how-its-like-to-work-as-a-graphics-programmer,/u/antifuchs,8
+0,2016-09-28 16:02:20 -0500,"/t/culture,/t/hardware,/t/mobile","I come not to praise QWERTY, but to bury it (2013)",http://www.theverge.com/2013/11/15/5104704/i-come-not-to-praise-qwerty-but-to-bury-it,/u/calvin,2
+17,2016-09-27 15:51:45 -0500,"/t/javascript,/t/mobile",Why I'm not a React Native Developer,https://arielelkin.github.io/articles/why-im-not-a-react-native-developer.html,/u/pushcx,10
+0,2016-09-28 14:04:59 -0500,"/t/video,/t/design,/t/practices,/t/web",Refactoring CSS Without Losing Your Mind,https://slideslive.com/38898201/refactoring-css-without-losing-your-mind,/u/flyingfisch,1
+1,2016-09-27 18:29:38 -0500,"/t/video,/t/compsci,/t/lisp",Parsing With Derivatives,https://www.youtube.com/watch?v=FKiEsJiTMtI,/u/InkyHarmonics,12
+8,2016-09-27 06:56:40 -0500,"/t/linux,/t/security",Unsafe at any clock speed: Linux kernel security needs a rethink,http://arstechnica.co.uk/security/2016/09/linux-kernel-security-needs-fixing/,/u/jussi,26
+10,2016-09-27 18:42:56 -0500,"/t/browsers,/t/security,/t/virtualization,/t/windows",Windows 10 will soon run Edge in a virtual machine to keep you safe,http://arstechnica.com/information-technology/2016/09/windows-10-will-soon-run-edge-in-a-virtual-machine-to-keep-you-safe/,/u/calvin,6
+0,2016-09-28 09:25:06 -0500,"/t/design,/t/mobile,/t/web",Non Hover (2010),http://trentwalton.com/2010/07/05/non-hover/,/u/flyingfisch,2
+0,2016-09-28 12:55:26 -0500,/t/java,Java Warmup,http://www.brendangregg.com/blog/2016-09-28/java-warmup.html,/u/prefork,1
+0,2016-09-28 08:38:09 -0500,"/t/perl,/t/testing",The curious case of the disappearing test,http://strangelyconsistent.org/blog/the-curious-case-of-the-disappearing-test,/u/jabberwock,2
+0,2016-09-28 03:05:23 -0500,"/t/c,/t/programming",How to add your protocol to Mongoose,https://blog.cesanta.com/how-to-add-your-protocol-to-mongoose-embedded-web-server,/u/evthewolf,2
+0,2016-09-27 23:03:12 -0500,"/t/slides,/t/haskell",LiquidHaskell: Verification of Haskell Code with SMTs,http://goto.ucsd.edu/~nvazou/presentations/cufp16/01-index.html,/u/pushcx,5
+24,2016-09-27 04:07:29 -0500,/t/ask,How do you read books?,/s/lak6vw/how_do_you_read_books,/u/fredsir,19
+2,2016-09-27 13:22:09 -0500,"/t/elm,/t/ruby,/t/web",Adding Elm to a Rails application,https://blog.abevoelker.com/2016-09-05/adding-elm-to-a-rails-application/,/u/pushcx,10
+0,2016-09-27 21:25:16 -0500,"/t/art,/t/debugging,/t/hardware",Keyboard Tester,http://www.keyboardtester.com/,/u/friendlysock,5
+8,2016-09-27 12:24:23 -0500,"/t/haskell,/t/scala",Modern Functional Programming: Part 2,http://degoes.net/articles/modern-fp-part-2,/u/pushcx,7
+3,2016-09-27 11:16:52 -0500,"/t/pdf,/t/programming",The Operating System: Should There Be One? (2013),https://www.cl.cam.ac.uk/~srk31/research/papers/kell13operating.pdf,/u/pushcx,9
+1,2016-09-27 22:54:34 -0500,"/t/culture,/t/practices",Pair (more than) Programming – Tech Lead Talks,https://medium.com/tech-lead-talks/pair-more-than-programming-30cdfdbe3eb2,/u/elbrujohalcon,2
+0,2016-09-27 14:47:01 -0500,"/t/audio,/t/historical,/t/mac",The Story of Sosumi and the Mac Startup Sound,http://reekes.net/sosumi/,/u/calvin,8
+0,2016-09-27 19:21:49 -0500,/t/python,Pyflame: Uber Engineering’s Ptracing Profiler for Python - Uber Engineering Blog,https://eng.uber.com/pyflame/,/u/trousers,3
+7,2016-09-26 17:19:01 -0500,"/t/compsci,/t/event",Systems We Love,http://systemswe.love/,/u/kyle,43
+13,2016-09-26 13:31:40 -0500,"/t/browsers,/t/security",Mozilla’s proposed conclusion regarding the matter of WoSign and StartCom,https://docs.google.com/document/d/1C6BlmbeQfn4a9zydVi2UvjBGv6szuSB4sMYUcVrR8vQ/preview,/u/nyx,36

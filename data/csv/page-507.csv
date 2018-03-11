@@ -1,25 +1,25 @@
-0,2017-02-01 15:05:08 -0600,"['/t/programming', '/t/visualization']",Performance Trends in Artificial Intelligence,https://srconstantin.wordpress.com/2017/01/28/performance-trends-in-ai/,/u/benballjr,4
-0,2017-02-01 22:34:36 -0600,"['/t/databases', '/t/practices']",What It Takes To Truly Delete Data,https://fivethirtyeight.com/features/what-it-takes-to-truly-delete-data/,/u/tf,1
-0,2017-02-01 18:18:24 -0600,"['/t/c', '/t/compilers']",MIT's modified LLVM compiler for optimizing parallel code,http://news.mit.edu/2017/optimizing-code-compiler-parallel-programs-0130,/u/nhooyr,2
-0,2017-02-01 10:11:47 -0600,"['/t/video', '/t/hardware', '/t/science']",Electromagnetic Levitation Quadcopter,https://www.youtube.com/watch?v=pCON4zfMzjU,/u/flyingfisch,6
-0,2017-02-01 08:42:54 -0600,"['/t/browsers', '/t/release']",Devtools: What you need to know,https://hacks.mozilla.org/2017/01/devtools-what-you-need-to-know/,/u/flyingfisch,7
-1,2017-02-01 13:09:23 -0600,['/t/java'],How does the default hashCode() [in Java] work?,http://srvaroa.github.io/jvm/java/openjdk/biased-locking/2017/01/30/hashCode.html,/u/fs111,3
-0,2017-02-01 14:32:27 -0600,"['/t/math', '/t/visualization']","Modes, Medians and Means: A Unifying Perspective",http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/,/u/friendlysock,3
-0,2017-02-01 11:24:29 -0600,"['/t/release', '/t/unix']",appenv: per application & per directory shell environments,https://github.com/sebastien/appenv,/u/sebastien,2
-1,2017-01-31 20:40:33 -0600,['/t/compsci'],The beauty of mixed-radix bases,http://firefly.nu/2017/01/mixed-radix/,/u/FireFly,7
-0,2017-02-01 07:40:18 -0600,"['/t/networking', '/t/practices']",URL Interop (or RFC 3986 vs WHATWG URL Specification vs the real world),https://github.com/bagder/docs/blob/master/URL-interop.md,/u/flyingfisch,4
-0,2017-02-01 16:21:43 -0600,['/t/hardware'],2m Fredbox AM transceiver,https://sites.google.com/site/g3xbmqrp3/vuhf/fredbox,/u/flyingfisch,1
-5,2017-01-31 19:34:20 -0600,"['/t/compilers', '/t/python']","Pyston 0.6.1 released, and future plans",https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/,/u/ngoldbaum,8
-12,2017-01-31 08:08:18 -0600,['/t/c'],Don't setenv in multi-threaded code on glibc,http://rachelbythebay.com/w/2017/01/30/env/,/u/calvin,33
-20,2017-01-31 05:18:32 -0600,['/t/release'],"LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers",https://github.com/ro31337/libretaxi,/u/pizzaiolo,34
-1,2017-02-01 08:25:20 -0600,"['/t/hardware', '/t/science']",Perching and takeoff of a robotic insect on overhangs using switchable electrostatic adhesion,http://science.sciencemag.org/content/352/6288/978,/u/flyingfisch,3
-0,2017-02-01 09:13:35 -0600,['/t/networking'],"First OsmoCon Conference on April 21st, 2017",https://osmocom.org/news/65,/u/neeels,1
-0,2017-02-01 07:29:09 -0600,"['/t/security', '/t/web']",Using OpenSSL to Create Certificates,http://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/,/u/rdfi,1
-0,2017-02-01 08:43:12 -0600,['/t/hardware'],LCD117E adapted for a Nokia 1100 display,https://hackaday.io/post/52389,/u/flyingfisch,2
-0,2017-02-01 05:37:42 -0600,"['/t/debugging', '/t/javascript']",Time-Travel Debugging for JavaScript/Node.js,https://www.microsoft.com/en-us/research/publication/time-travel-debugging-javascriptnode-js/,/u/sanxiyn,3
-0,2017-02-01 07:41:42 -0600,['/t/web'],Understanding the Critical Rendering Path,https://bitsofco.de/understanding-the-critical-rendering-path/,/u/flyingfisch,2
-10,2017-02-01 13:09:13 -0600,['/t/meta'],here be dragons · jcs/lobsters@56d3749 [What is this?],https://github.com/jcs/lobsters/commit/56d37493412be5fc55afc12cebcef1d8e9bef910,/u/untitaker,2
-2,2017-01-31 05:06:36 -0600,['/t/openbsd'],a2k17 hackathon report: Patrick Wildt on the arm64 port,http://undeadly.org/cgi?action=article&sid=20170131101827,/u/bluerise,20
-3,2017-01-31 20:35:05 -0600,"['/t/devops', '/t/hardware']",2016 Hard Drive Reliabilty Benchmark Stats,https://www.backblaze.com/blog/hard-drive-benchmark-stats-2016/,/u/pushcx,5
-3,2017-01-31 16:13:46 -0600,"['/t/vcs', '/t/web']",Introducing Topics,https://github.com/blog/2309-introducing-topics,/u/wjh,7
-0,2017-02-01 03:00:44 -0600,['/t/ruby'],How To Test Ruby CLI: Code Generators,https://lucaguidi.com/2017/02/01/how-to-test-ruby-cli-code-generators/,/u/jodosha,1
+0,2017-02-01 15:05:08 -0600,"/t/programming,/t/visualization",Performance Trends in Artificial Intelligence,https://srconstantin.wordpress.com/2017/01/28/performance-trends-in-ai/,/u/benballjr,4
+0,2017-02-01 22:34:36 -0600,"/t/databases,/t/practices",What It Takes To Truly Delete Data,https://fivethirtyeight.com/features/what-it-takes-to-truly-delete-data/,/u/tf,1
+0,2017-02-01 18:18:24 -0600,"/t/c,/t/compilers",MIT's modified LLVM compiler for optimizing parallel code,http://news.mit.edu/2017/optimizing-code-compiler-parallel-programs-0130,/u/nhooyr,2
+0,2017-02-01 10:11:47 -0600,"/t/video,/t/hardware,/t/science",Electromagnetic Levitation Quadcopter,https://www.youtube.com/watch?v=pCON4zfMzjU,/u/flyingfisch,6
+0,2017-02-01 08:42:54 -0600,"/t/browsers,/t/release",Devtools: What you need to know,https://hacks.mozilla.org/2017/01/devtools-what-you-need-to-know/,/u/flyingfisch,7
+1,2017-02-01 13:09:23 -0600,/t/java,How does the default hashCode() [in Java] work?,http://srvaroa.github.io/jvm/java/openjdk/biased-locking/2017/01/30/hashCode.html,/u/fs111,3
+0,2017-02-01 14:32:27 -0600,"/t/math,/t/visualization","Modes, Medians and Means: A Unifying Perspective",http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/,/u/friendlysock,3
+0,2017-02-01 11:24:29 -0600,"/t/release,/t/unix",appenv: per application & per directory shell environments,https://github.com/sebastien/appenv,/u/sebastien,2
+1,2017-01-31 20:40:33 -0600,/t/compsci,The beauty of mixed-radix bases,http://firefly.nu/2017/01/mixed-radix/,/u/FireFly,7
+0,2017-02-01 07:40:18 -0600,"/t/networking,/t/practices",URL Interop (or RFC 3986 vs WHATWG URL Specification vs the real world),https://github.com/bagder/docs/blob/master/URL-interop.md,/u/flyingfisch,4
+0,2017-02-01 16:21:43 -0600,/t/hardware,2m Fredbox AM transceiver,https://sites.google.com/site/g3xbmqrp3/vuhf/fredbox,/u/flyingfisch,1
+5,2017-01-31 19:34:20 -0600,"/t/compilers,/t/python","Pyston 0.6.1 released, and future plans",https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/,/u/ngoldbaum,8
+12,2017-01-31 08:08:18 -0600,/t/c,Don't setenv in multi-threaded code on glibc,http://rachelbythebay.com/w/2017/01/30/env/,/u/calvin,33
+20,2017-01-31 05:18:32 -0600,/t/release,"LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers",https://github.com/ro31337/libretaxi,/u/pizzaiolo,34
+1,2017-02-01 08:25:20 -0600,"/t/hardware,/t/science",Perching and takeoff of a robotic insect on overhangs using switchable electrostatic adhesion,http://science.sciencemag.org/content/352/6288/978,/u/flyingfisch,3
+0,2017-02-01 09:13:35 -0600,/t/networking,"First OsmoCon Conference on April 21st, 2017",https://osmocom.org/news/65,/u/neeels,1
+0,2017-02-01 07:29:09 -0600,"/t/security,/t/web",Using OpenSSL to Create Certificates,http://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/,/u/rdfi,1
+0,2017-02-01 08:43:12 -0600,/t/hardware,LCD117E adapted for a Nokia 1100 display,https://hackaday.io/post/52389,/u/flyingfisch,2
+0,2017-02-01 05:37:42 -0600,"/t/debugging,/t/javascript",Time-Travel Debugging for JavaScript/Node.js,https://www.microsoft.com/en-us/research/publication/time-travel-debugging-javascriptnode-js/,/u/sanxiyn,3
+0,2017-02-01 07:41:42 -0600,/t/web,Understanding the Critical Rendering Path,https://bitsofco.de/understanding-the-critical-rendering-path/,/u/flyingfisch,2
+10,2017-02-01 13:09:13 -0600,/t/meta,here be dragons · jcs/lobsters@56d3749 [What is this?],https://github.com/jcs/lobsters/commit/56d37493412be5fc55afc12cebcef1d8e9bef910,/u/untitaker,2
+2,2017-01-31 05:06:36 -0600,/t/openbsd,a2k17 hackathon report: Patrick Wildt on the arm64 port,http://undeadly.org/cgi?action=article&sid=20170131101827,/u/bluerise,20
+3,2017-01-31 20:35:05 -0600,"/t/devops,/t/hardware",2016 Hard Drive Reliabilty Benchmark Stats,https://www.backblaze.com/blog/hard-drive-benchmark-stats-2016/,/u/pushcx,5
+3,2017-01-31 16:13:46 -0600,"/t/vcs,/t/web",Introducing Topics,https://github.com/blog/2309-introducing-topics,/u/wjh,7
+0,2017-02-01 03:00:44 -0600,/t/ruby,How To Test Ruby CLI: Code Generators,https://lucaguidi.com/2017/02/01/how-to-test-ruby-cli-code-generators/,/u/jodosha,1

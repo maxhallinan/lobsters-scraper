@@ -1,25 +1,25 @@
-0,2018-02-12 07:21:07 -0600,"['/t/clojure', '/t/programming']",Introduction to Asynchronous Programming in Clojure,http://www.bradcypert.com/2016/07/15/clojure-async/,/u/Yogthos,1
-0,2018-02-11 15:31:15 -0600,"['/t/pdf', '/t/assembly', '/t/compsci', '/t/performance']",Synthesis - An Efficient Implementation of Fundamental Operating System Services (1992),https://pdfs.semanticscholar.org/206a/4efe87abbea5f711a28397447b8ae2159d3b.pdf,/u/dbremner,8
-1,2018-02-11 07:09:46 -0600,"['/t/compilers', '/t/emacs']",JIT Compilation for Emacs,http://tromey.com/blog/?p=982,/u/calvin,17
-5,2018-02-11 06:05:21 -0600,"['/t/compilers', '/t/plt']",Zig: January 2018 in Review,http://andrewkelley.me/post/zig-january-2018-in-review.html,/u/jfo,13
-6,2018-02-11 02:49:12 -0600,['/t/practices'],Writing performance reviews with positive constructive feedback,https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/,/u/quobit,16
-1,2018-02-12 03:24:19 -0600,"['/t/show', '/t/api', '/t/c++', '/t/design', '/t/graphics', '/t/math', '/t/release']",Implementation of a robust no-fit polygon generation in a C++ library (github.com),https://github.com/kallaballa/libnfp.git,/u/ibisum,1
-0,2018-02-11 15:26:35 -0600,"['/t/pdf', '/t/ai']",Deep Learning: A Critical Appraisal,https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf,/u/GeoffWozniak,5
-4,2018-02-11 08:36:36 -0600,"['/t/video', '/t/practices', '/t/satire']",How To Make Package Managers Cry,https://www.youtube.com/watch?v=mV5crrEl7J8,/u/dgv,20
-14,2018-02-10 18:31:42 -0600,['/t/programming'],Can you write correct software in a statically typed language?,http://www.drmaciver.com/2018/02/can-you-write-correct-software-in-a-statically-typed-language/,/u/fcbsd,22
-0,2018-02-11 05:24:04 -0600,"['/t/haskell', '/t/ios']",Introduction to Mobile Haskell (iOS),https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html,/u/pushcx,13
-16,2018-02-10 15:09:52 -0600,['/t/hardware'],Why Paper Jams Persist,https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist,/u/calvin,24
-2,2018-02-10 11:28:11 -0600,['/t/haskell'],An opinionated guide to Haskell in 2018,http://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018,/u/julienXX,39
-0,2018-02-10 23:54:27 -0600,"['/t/javascript', '/t/security']",XSS via a spoofed React element,http://danlec.com/blog/xss-via-a-spoofed-react-element,/u/pushcx,10
-0,2018-02-11 09:00:11 -0600,"['/t/pdf', '/t/hardware', '/t/programming']",Leros: A Tiny Microcontroller for FPGA's,http://www.jopdesign.com/doc/leros.pdf,/u/nickpsecurity,3
-29,2018-02-10 11:14:51 -0600,"['/t/rant', '/t/web']",Everything Easy is Hard Again,https://www.frankchimero.com/writing/everything-easy-is-hard-again/,/u/j11g,68
-5,2018-02-10 15:18:45 -0600,['/t/meta'],Tag suggestion: iot,/s/quawgc/tag_suggestion_iot,/u/freddyb,9
-0,2018-02-10 23:58:33 -0600,['/t/css'],"""display: contents"" is coming",http://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/,/u/pushcx,7
-0,2018-02-10 18:59:57 -0600,"['/t/mac', '/t/privacy']",Mac Privacy: Sandboxed Mac apps can record your screen at any time without you knowing,https://krausefx.com/blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots,/u/pushcx,12
-2,2018-02-10 22:30:01 -0600,"['/t/databases', '/t/elixir', '/t/haskell', '/t/ruby']",Comparing Persistent with Ecto and ActiveRecord,http://bitemyapp.com//posts/2017-10-06-persistent-ecto-activerecord.html,/u/pushcx,4
-1,2018-02-10 20:06:55 -0600,"['/t/pdf', '/t/databases']","Gorilla: Facebook's Fast, Scalable, In-Memory Time Series Database",http://www.vldb.org/pvldb/vol8/p1816-teller.pdf,/u/zpojqwfejwfhiunz,5
-7,2018-02-09 12:11:59 -0600,['/t/announce'],Poll: Adopt the new Lobsters Unicode emoji?,https://lobste.rs/s/kuzz8x/unicode_emoji_11_0_characters_now_final#c_7qa5od,/u/pushcx,46
-0,2018-02-10 21:40:20 -0600,"['/t/linux', '/t/virtualization']",Installing and configuring Ethercalc in a LXC container,https://blog.mirabellette.netlib.re/index.php?article16/configuring-installing-ethercalc-lxc,/u/Mirabellette,2
-0,2018-02-10 06:46:53 -0600,"['/t/dotnet', '/t/haskell']",bamboo/idris-cil - A Common Intermediate Language backend for Idris,https://github.com/bamboo/idris-cil,/u/calvin,22
-0,2018-02-10 16:37:04 -0600,"['/t/audio', '/t/rust']",Crates You Should Know: Serde (Rust serialization/deserialization library),http://www.newrustacean.com/show_notes/cysk/serde/,/u/chriskrycho,3
-6,2018-02-09 22:28:39 -0600,"['/t/devops', '/t/linux']",Containers Will Not Fix Your Broken Culture (and Other Hard Truths),https://queue.acm.org/detail.cfm?id=3185224,/u/mhausenblas,24
+0,2018-02-12 07:21:07 -0600,"/t/clojure,/t/programming",Introduction to Asynchronous Programming in Clojure,http://www.bradcypert.com/2016/07/15/clojure-async/,/u/Yogthos,1
+0,2018-02-11 15:31:15 -0600,"/t/pdf,/t/assembly,/t/compsci,/t/performance",Synthesis - An Efficient Implementation of Fundamental Operating System Services (1992),https://pdfs.semanticscholar.org/206a/4efe87abbea5f711a28397447b8ae2159d3b.pdf,/u/dbremner,8
+1,2018-02-11 07:09:46 -0600,"/t/compilers,/t/emacs",JIT Compilation for Emacs,http://tromey.com/blog/?p=982,/u/calvin,17
+5,2018-02-11 06:05:21 -0600,"/t/compilers,/t/plt",Zig: January 2018 in Review,http://andrewkelley.me/post/zig-january-2018-in-review.html,/u/jfo,13
+6,2018-02-11 02:49:12 -0600,/t/practices,Writing performance reviews with positive constructive feedback,https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/,/u/quobit,16
+1,2018-02-12 03:24:19 -0600,"/t/show,/t/api,/t/c++,/t/design,/t/graphics,/t/math,/t/release",Implementation of a robust no-fit polygon generation in a C++ library (github.com),https://github.com/kallaballa/libnfp.git,/u/ibisum,1
+0,2018-02-11 15:26:35 -0600,"/t/pdf,/t/ai",Deep Learning: A Critical Appraisal,https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf,/u/GeoffWozniak,5
+4,2018-02-11 08:36:36 -0600,"/t/video,/t/practices,/t/satire",How To Make Package Managers Cry,https://www.youtube.com/watch?v=mV5crrEl7J8,/u/dgv,20
+14,2018-02-10 18:31:42 -0600,/t/programming,Can you write correct software in a statically typed language?,http://www.drmaciver.com/2018/02/can-you-write-correct-software-in-a-statically-typed-language/,/u/fcbsd,22
+0,2018-02-11 05:24:04 -0600,"/t/haskell,/t/ios",Introduction to Mobile Haskell (iOS),https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html,/u/pushcx,13
+16,2018-02-10 15:09:52 -0600,/t/hardware,Why Paper Jams Persist,https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist,/u/calvin,24
+2,2018-02-10 11:28:11 -0600,/t/haskell,An opinionated guide to Haskell in 2018,http://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018,/u/julienXX,39
+0,2018-02-10 23:54:27 -0600,"/t/javascript,/t/security",XSS via a spoofed React element,http://danlec.com/blog/xss-via-a-spoofed-react-element,/u/pushcx,10
+0,2018-02-11 09:00:11 -0600,"/t/pdf,/t/hardware,/t/programming",Leros: A Tiny Microcontroller for FPGA's,http://www.jopdesign.com/doc/leros.pdf,/u/nickpsecurity,3
+29,2018-02-10 11:14:51 -0600,"/t/rant,/t/web",Everything Easy is Hard Again,https://www.frankchimero.com/writing/everything-easy-is-hard-again/,/u/j11g,68
+5,2018-02-10 15:18:45 -0600,/t/meta,Tag suggestion: iot,/s/quawgc/tag_suggestion_iot,/u/freddyb,9
+0,2018-02-10 23:58:33 -0600,/t/css,"""display: contents"" is coming",http://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/,/u/pushcx,7
+0,2018-02-10 18:59:57 -0600,"/t/mac,/t/privacy",Mac Privacy: Sandboxed Mac apps can record your screen at any time without you knowing,https://krausefx.com/blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots,/u/pushcx,12
+2,2018-02-10 22:30:01 -0600,"/t/databases,/t/elixir,/t/haskell,/t/ruby",Comparing Persistent with Ecto and ActiveRecord,http://bitemyapp.com//posts/2017-10-06-persistent-ecto-activerecord.html,/u/pushcx,4
+1,2018-02-10 20:06:55 -0600,"/t/pdf,/t/databases","Gorilla: Facebook's Fast, Scalable, In-Memory Time Series Database",http://www.vldb.org/pvldb/vol8/p1816-teller.pdf,/u/zpojqwfejwfhiunz,5
+7,2018-02-09 12:11:59 -0600,/t/announce,Poll: Adopt the new Lobsters Unicode emoji?,https://lobste.rs/s/kuzz8x/unicode_emoji_11_0_characters_now_final#c_7qa5od,/u/pushcx,46
+0,2018-02-10 21:40:20 -0600,"/t/linux,/t/virtualization",Installing and configuring Ethercalc in a LXC container,https://blog.mirabellette.netlib.re/index.php?article16/configuring-installing-ethercalc-lxc,/u/Mirabellette,2
+0,2018-02-10 06:46:53 -0600,"/t/dotnet,/t/haskell",bamboo/idris-cil - A Common Intermediate Language backend for Idris,https://github.com/bamboo/idris-cil,/u/calvin,22
+0,2018-02-10 16:37:04 -0600,"/t/audio,/t/rust",Crates You Should Know: Serde (Rust serialization/deserialization library),http://www.newrustacean.com/show_notes/cysk/serde/,/u/chriskrycho,3
+6,2018-02-09 22:28:39 -0600,"/t/devops,/t/linux",Containers Will Not Fix Your Broken Culture (and Other Hard Truths),https://queue.acm.org/detail.cfm?id=3185224,/u/mhausenblas,24

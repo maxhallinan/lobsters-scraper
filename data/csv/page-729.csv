@@ -1,25 +1,25 @@
-0,2016-07-09 07:56:39 -0500,"['/t/video', '/t/programming']",Pony VUG #3: Willem Wyndham: The Actor Model and Pony,https://vimeo.com/172129187,/u/SeanTAllen,3
-4,2016-07-08 10:46:27 -0500,"['/t/c', '/t/haskell', '/t/rust']",Corrode - C to Rust translator written in Haskell,https://github.com/jameysharp/corrode,/u/av,22
-0,2016-07-09 00:24:47 -0500,['/t/historical'],"The History of the URL: Domain, Protocol, and Port - Eager Blog",https://eager.io/blog/the-history-of-the-url-domain-and-protocol/,/u/xcombelle,7
-1,2016-07-08 11:44:36 -0500,"['/t/art', '/t/debugging', '/t/visualization']",Accidental art produced by buggy code,https://twitter.com/accidental__art,/u/ngoldbaum,25
-16,2016-07-08 07:50:48 -0500,"['/t/mac', '/t/security']",Security Flaw in OS X displays all keychain passwords in plain text,https://medium.com/@brentonhenry/security-flaw-in-os-x-displays-all-keychain-passwords-in-plain-text-a530b246e960,/u/av,17
-0,2016-07-08 19:12:05 -0500,"['/t/compsci', '/t/graphics']",Braid Particle System Revision (part 1),http://number-none.com/blow/blog/programming/2016/07/07/braid_particles_1.html,/u/mikejsavage,9
-0,2016-07-08 10:50:54 -0500,['/t/practices'],Planning for the wrong kind of scale,http://devblog.avdi.org/2016/07/07/planning-for-the-wrong-kind-of-scale/,/u/emallson,22
-10,2016-07-08 08:04:11 -0500,"['/t/ask', '/t/databases']",What is the most number of tables you've used in a RDMS?,/s/gvcubf/what_is_most_number_tables_you_ve_used_rdms,/u/Usermac,8
-4,2016-07-08 09:21:50 -0500,"['/t/ml', '/t/programming']",MLton with Realtime GC and Threading features,https://github.com/UBMLtonGroup/RTMLton,/u/unbalancedparentheses,16
-1,2016-07-08 11:01:41 -0500,"['/t/go', '/t/programming']",Effective Health Checks in Go,https://opsee.com/guides/gochecks/,/u/sboak,6
-3,2016-07-08 05:19:13 -0500,['/t/python'],Ipython plans to stops support for Python 2 in the next version,http://blog.jupyter.org/2016/07/08/ipython-5-0-released/,/u/Dawny33,17
-1,2016-07-08 07:55:21 -0500,"['/t/historical', '/t/networking']",The Secret Nuclear History of Cat Videos,http://motherboard.vice.com/read/the-secret-nuclear-history-of-cat-videos,/u/adsouza,11
-0,2016-07-08 15:59:25 -0500,"['/t/math', '/t/visualization']",Understanding statistics through interactive visualizations,http://emilkirkegaard.dk/understanding_statistics/?app=NHST_subgroup_fallacy,/u/pushcx,5
-3,2016-07-08 07:10:47 -0500,"['/t/javascript', '/t/web']",choo - sturdy frontend framework,https://github.com/yoshuawuyts/choo,/u/omphalos,7
-2,2016-07-08 10:11:20 -0500,"['/t/python', '/t/science']",Python 3 support in scientific Python projects,http://python3statement.github.io/,/u/ngoldbaum,7
-0,2016-07-08 11:08:40 -0500,"['/t/pdf', '/t/compsci']",Disruptor,http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf,/u/355E3B,6
-11,2016-07-07 19:10:14 -0500,['/t/freebsd'],FreeBSD stable/11 branch created,https://svnweb.freebsd.org/base?view=revision&revision=302408,/u/lattera,21
-0,2016-07-08 08:39:50 -0500,"['/t/debugging', '/t/programming']",PyPy Status Blog: Reverse debugging for Python,https://morepypy.blogspot.com/2016/07/reverse-debugging-for-python.html,/u/edd,6
-1,2016-07-08 11:48:50 -0500,['/t/lisp'],Cirru Project - indentation-based grammar for languages,http://cirru.org/,/u/tca,3
-0,2016-07-08 12:36:14 -0500,['/t/devops'],Storage in PaaS: Minio and Deis Workflow,https://blog.minio.io/storage-in-paas-minio-and-deis-7f9f604dedf2#.qw5tl4sqn,/u/tiwarinitish86,1
-0,2016-07-07 22:41:40 -0500,['/t/go'],Timeseries charting for golang,https://github.com/wcharczuk/go-chart,/u/bigdubs,7
-2,2016-07-07 18:56:15 -0500,"['/t/design', '/t/mobile']",Dropdowns Should be the UI of Last Resort,http://www.lukew.com/ff/entry.asp?1950,/u/adsouza,13
-3,2016-07-07 11:08:26 -0500,"['/t/assembly', '/t/historical']",Original Apollo 11 guidance computer (AGC) source code,https://github.com/chrislgarry/Apollo-11,/u/joshuacc,29
-0,2016-07-08 10:45:34 -0500,"['/t/debugging', '/t/python']",Reverse debugging for Python,https://morepypy.blogspot.in/2016/07/reverse-debugging-for-python.html,/u/av,2
-5,2016-07-07 09:10:32 -0500,"['/t/linux', '/t/networking']",Why we use the Linux kernel's TCP stack,http://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/,/u/jtdowney,29
+0,2016-07-09 07:56:39 -0500,"/t/video,/t/programming",Pony VUG #3: Willem Wyndham: The Actor Model and Pony,https://vimeo.com/172129187,/u/SeanTAllen,3
+4,2016-07-08 10:46:27 -0500,"/t/c,/t/haskell,/t/rust",Corrode - C to Rust translator written in Haskell,https://github.com/jameysharp/corrode,/u/av,22
+0,2016-07-09 00:24:47 -0500,/t/historical,"The History of the URL: Domain, Protocol, and Port - Eager Blog",https://eager.io/blog/the-history-of-the-url-domain-and-protocol/,/u/xcombelle,7
+1,2016-07-08 11:44:36 -0500,"/t/art,/t/debugging,/t/visualization",Accidental art produced by buggy code,https://twitter.com/accidental__art,/u/ngoldbaum,25
+16,2016-07-08 07:50:48 -0500,"/t/mac,/t/security",Security Flaw in OS X displays all keychain passwords in plain text,https://medium.com/@brentonhenry/security-flaw-in-os-x-displays-all-keychain-passwords-in-plain-text-a530b246e960,/u/av,17
+0,2016-07-08 19:12:05 -0500,"/t/compsci,/t/graphics",Braid Particle System Revision (part 1),http://number-none.com/blow/blog/programming/2016/07/07/braid_particles_1.html,/u/mikejsavage,9
+0,2016-07-08 10:50:54 -0500,/t/practices,Planning for the wrong kind of scale,http://devblog.avdi.org/2016/07/07/planning-for-the-wrong-kind-of-scale/,/u/emallson,22
+10,2016-07-08 08:04:11 -0500,"/t/ask,/t/databases",What is the most number of tables you've used in a RDMS?,/s/gvcubf/what_is_most_number_tables_you_ve_used_rdms,/u/Usermac,8
+4,2016-07-08 09:21:50 -0500,"/t/ml,/t/programming",MLton with Realtime GC and Threading features,https://github.com/UBMLtonGroup/RTMLton,/u/unbalancedparentheses,16
+1,2016-07-08 11:01:41 -0500,"/t/go,/t/programming",Effective Health Checks in Go,https://opsee.com/guides/gochecks/,/u/sboak,6
+3,2016-07-08 05:19:13 -0500,/t/python,Ipython plans to stops support for Python 2 in the next version,http://blog.jupyter.org/2016/07/08/ipython-5-0-released/,/u/Dawny33,17
+1,2016-07-08 07:55:21 -0500,"/t/historical,/t/networking",The Secret Nuclear History of Cat Videos,http://motherboard.vice.com/read/the-secret-nuclear-history-of-cat-videos,/u/adsouza,11
+0,2016-07-08 15:59:25 -0500,"/t/math,/t/visualization",Understanding statistics through interactive visualizations,http://emilkirkegaard.dk/understanding_statistics/?app=NHST_subgroup_fallacy,/u/pushcx,5
+3,2016-07-08 07:10:47 -0500,"/t/javascript,/t/web",choo - sturdy frontend framework,https://github.com/yoshuawuyts/choo,/u/omphalos,7
+2,2016-07-08 10:11:20 -0500,"/t/python,/t/science",Python 3 support in scientific Python projects,http://python3statement.github.io/,/u/ngoldbaum,7
+0,2016-07-08 11:08:40 -0500,"/t/pdf,/t/compsci",Disruptor,http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf,/u/355E3B,6
+11,2016-07-07 19:10:14 -0500,/t/freebsd,FreeBSD stable/11 branch created,https://svnweb.freebsd.org/base?view=revision&revision=302408,/u/lattera,21
+0,2016-07-08 08:39:50 -0500,"/t/debugging,/t/programming",PyPy Status Blog: Reverse debugging for Python,https://morepypy.blogspot.com/2016/07/reverse-debugging-for-python.html,/u/edd,6
+1,2016-07-08 11:48:50 -0500,/t/lisp,Cirru Project - indentation-based grammar for languages,http://cirru.org/,/u/tca,3
+0,2016-07-08 12:36:14 -0500,/t/devops,Storage in PaaS: Minio and Deis Workflow,https://blog.minio.io/storage-in-paas-minio-and-deis-7f9f604dedf2#.qw5tl4sqn,/u/tiwarinitish86,1
+0,2016-07-07 22:41:40 -0500,/t/go,Timeseries charting for golang,https://github.com/wcharczuk/go-chart,/u/bigdubs,7
+2,2016-07-07 18:56:15 -0500,"/t/design,/t/mobile",Dropdowns Should be the UI of Last Resort,http://www.lukew.com/ff/entry.asp?1950,/u/adsouza,13
+3,2016-07-07 11:08:26 -0500,"/t/assembly,/t/historical",Original Apollo 11 guidance computer (AGC) source code,https://github.com/chrislgarry/Apollo-11,/u/joshuacc,29
+0,2016-07-08 10:45:34 -0500,"/t/debugging,/t/python",Reverse debugging for Python,https://morepypy.blogspot.in/2016/07/reverse-debugging-for-python.html,/u/av,2
+5,2016-07-07 09:10:32 -0500,"/t/linux,/t/networking",Why we use the Linux kernel's TCP stack,http://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/,/u/jtdowney,29

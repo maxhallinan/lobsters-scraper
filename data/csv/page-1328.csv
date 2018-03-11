@@ -1,25 +1,25 @@
-10,2014-05-16 15:12:09 -0500,"['/t/culture', '/t/hardware']",Ham Radio Is Not Dead,http://spin.atomicobject.com/2013/07/13/ham-radio-is-not-dead/,/u/englishm,17
-0,2014-05-17 13:16:34 -0500,['/t/programming'],SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - sensible.io Blog,http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html,/u/darthdeus,0
-0,2014-05-17 05:18:40 -0500,['/t/go'],goroutines management,https://groups.google.com/forum/#!topic/golang-nuts/iwVfRgTuhjY,/u/pyk,1
-2,2014-05-16 10:10:32 -0500,"['/t/lisp', '/t/python']",Learn a Lisp with Python,http://un.portemanteau.ca/learn-a-lisp-with-python.html,/u/Ecto5,9
-2,2014-05-16 12:04:11 -0500,"['/t/math', '/t/security']",New algorithm shakes up cryptography,http://www.sciencedaily.com/releases/2014/05/140515163739.htm,/u/andrewcooke,5
-0,2014-05-16 17:51:50 -0500,"['/t/networking', '/t/release', '/t/security']",HoneyProxy - HTTP(S) Traffic Investigation,http://honeyproxy.org/,/u/jcs,4
-0,2014-05-16 07:26:49 -0500,"['/t/show', '/t/hardware', '/t/networking']",Setting Up a Radio System from Scratch,http://spin.atomicobject.com/2014/05/16/radio-system-from-scratch/,/u/silentbicycle,8
-0,2014-05-16 14:55:15 -0500,['/t/programming'],"All computing can be considered as: ""Memories, Guesses, and Apologies"".",http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx,/u/SeanTAllen,3
-25,2014-05-15 11:18:16 -0500,"['/t/video', '/t/haskell', '/t/programming']",Simon Peyton Jones - Haskell is useless,http://www.youtube.com/watch?v=iSmkqocn0oQ&feature=share,/u/zod000,32
-0,2014-05-16 16:19:39 -0500,"['/t/games', '/t/programming']",Roguelike AI,http://dillingers.com/blog/2014/05/10/roguelike-ai/,/u/zem,2
-0,2014-05-16 19:51:03 -0500,"['/t/law', '/t/mobile']","Apple, Google settle smartphone patent litigation",http://ca.reuters.com/article/businessNews/idCABREA4F0S020140516,/u/jcs,1
-1,2014-05-16 10:07:34 -0500,"['/t/android', '/t/privacy']",Courier: Secure News reader,https://guardianproject.info/apps/courier/,/u/akirk,4
-0,2014-05-16 09:36:57 -0500,"['/t/python', '/t/web']",Dockerizing a Python Web App,http://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App,/u/Ecto5,4
-0,2014-05-16 17:09:02 -0500,"['/t/visualization', '/t/web']",Visualization of Google trending searches,https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5&pn=p1,/u/zhemao,1
-0,2014-05-16 12:39:18 -0500,['/t/linux'],New XFS on-disk format to be production-ready in Linux 3.15,http://oss.sgi.com/archives/xfs/2014-05/msg00415.html,/u/journeysquid,2
-0,2014-05-16 09:19:56 -0500,"['/t/databases', '/t/release']",Vision for our database management software,http://datazenit.com/vision,/u/lauris,3
-0,2014-05-16 03:46:09 -0500,"['/t/pdf', '/t/haskell']","Binary serialisation: better, stronger, faster",http://code.haskell.org/~duncan/binary-experiment/binary.pdf,/u/Axman6,6
-0,2014-05-16 12:22:04 -0500,"['/t/practices', '/t/programming', '/t/release', '/t/web']",Top 10 ways to be a faster code reviewer,http://blog.codacy.com/2014/03/05/top-10-ways-to-be-a-faster-code-reviewer/,/u/PaulBlei,1
-0,2014-05-16 12:19:15 -0500,['/t/finance'],The Trade of the Century: When George Soros Broke the British Pound,http://priceonomics.com/the-trade-of-the-century-when-george-soros-broke/,/u/journeysquid,1
-2,2014-05-15 13:24:36 -0500,['/t/go'],Defer overhead in go,http://lk4d4.darth.io/posts/defer/,/u/zhemao,17
-0,2014-05-15 18:09:07 -0500,['/t/go'],Go sync.Pool is coming soon,http://i-admin.blogspot.ch/2014/05/syncpool-is-coming-soon.html,/u/nictuku,11
-4,2014-05-15 11:07:04 -0500,['/t/programming'],Career Path of a Programmer,http://www.centurylinklabs.com/career-path-of-a-programmer/,/u/cardmagic,17
-4,2014-05-15 09:44:37 -0500,['/t/programming'],3 things every programmer must learn (and no one teaches you),http://pyskool.com/3-things-every-programmer-must-learn/,/u/Pyskool,17
-0,2014-05-16 09:49:48 -0500,"['/t/javascript', '/t/programming']",Going Reactive - Asynchronous JavaScript at Netflix,http://techblog.netflix.com/2014/03/going-reactive-asynchronous-javascript.html,/u/Ecto5,1
-5,2014-05-15 16:21:43 -0500,"['/t/cryptocurrencies', '/t/meta']",Lobste.rs fork in which submissions and voting cost bitcoin,https://github.com/fisher-lebo/updn,/u/zhemao,20
+10,2014-05-16 15:12:09 -0500,"/t/culture,/t/hardware",Ham Radio Is Not Dead,http://spin.atomicobject.com/2013/07/13/ham-radio-is-not-dead/,/u/englishm,17
+0,2014-05-17 13:16:34 -0500,/t/programming,SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - sensible.io Blog,http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html,/u/darthdeus,0
+0,2014-05-17 05:18:40 -0500,/t/go,goroutines management,https://groups.google.com/forum/#!topic/golang-nuts/iwVfRgTuhjY,/u/pyk,1
+2,2014-05-16 10:10:32 -0500,"/t/lisp,/t/python",Learn a Lisp with Python,http://un.portemanteau.ca/learn-a-lisp-with-python.html,/u/Ecto5,9
+2,2014-05-16 12:04:11 -0500,"/t/math,/t/security",New algorithm shakes up cryptography,http://www.sciencedaily.com/releases/2014/05/140515163739.htm,/u/andrewcooke,5
+0,2014-05-16 17:51:50 -0500,"/t/networking,/t/release,/t/security",HoneyProxy - HTTP(S) Traffic Investigation,http://honeyproxy.org/,/u/jcs,4
+0,2014-05-16 07:26:49 -0500,"/t/show,/t/hardware,/t/networking",Setting Up a Radio System from Scratch,http://spin.atomicobject.com/2014/05/16/radio-system-from-scratch/,/u/silentbicycle,8
+0,2014-05-16 14:55:15 -0500,/t/programming,"All computing can be considered as: ""Memories, Guesses, and Apologies"".",http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx,/u/SeanTAllen,3
+25,2014-05-15 11:18:16 -0500,"/t/video,/t/haskell,/t/programming",Simon Peyton Jones - Haskell is useless,http://www.youtube.com/watch?v=iSmkqocn0oQ&feature=share,/u/zod000,32
+0,2014-05-16 16:19:39 -0500,"/t/games,/t/programming",Roguelike AI,http://dillingers.com/blog/2014/05/10/roguelike-ai/,/u/zem,2
+0,2014-05-16 19:51:03 -0500,"/t/law,/t/mobile","Apple, Google settle smartphone patent litigation",http://ca.reuters.com/article/businessNews/idCABREA4F0S020140516,/u/jcs,1
+1,2014-05-16 10:07:34 -0500,"/t/android,/t/privacy",Courier: Secure News reader,https://guardianproject.info/apps/courier/,/u/akirk,4
+0,2014-05-16 09:36:57 -0500,"/t/python,/t/web",Dockerizing a Python Web App,http://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App,/u/Ecto5,4
+0,2014-05-16 17:09:02 -0500,"/t/visualization,/t/web",Visualization of Google trending searches,https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5&pn=p1,/u/zhemao,1
+0,2014-05-16 12:39:18 -0500,/t/linux,New XFS on-disk format to be production-ready in Linux 3.15,http://oss.sgi.com/archives/xfs/2014-05/msg00415.html,/u/journeysquid,2
+0,2014-05-16 09:19:56 -0500,"/t/databases,/t/release",Vision for our database management software,http://datazenit.com/vision,/u/lauris,3
+0,2014-05-16 03:46:09 -0500,"/t/pdf,/t/haskell","Binary serialisation: better, stronger, faster",http://code.haskell.org/~duncan/binary-experiment/binary.pdf,/u/Axman6,6
+0,2014-05-16 12:22:04 -0500,"/t/practices,/t/programming,/t/release,/t/web",Top 10 ways to be a faster code reviewer,http://blog.codacy.com/2014/03/05/top-10-ways-to-be-a-faster-code-reviewer/,/u/PaulBlei,1
+0,2014-05-16 12:19:15 -0500,/t/finance,The Trade of the Century: When George Soros Broke the British Pound,http://priceonomics.com/the-trade-of-the-century-when-george-soros-broke/,/u/journeysquid,1
+2,2014-05-15 13:24:36 -0500,/t/go,Defer overhead in go,http://lk4d4.darth.io/posts/defer/,/u/zhemao,17
+0,2014-05-15 18:09:07 -0500,/t/go,Go sync.Pool is coming soon,http://i-admin.blogspot.ch/2014/05/syncpool-is-coming-soon.html,/u/nictuku,11
+4,2014-05-15 11:07:04 -0500,/t/programming,Career Path of a Programmer,http://www.centurylinklabs.com/career-path-of-a-programmer/,/u/cardmagic,17
+4,2014-05-15 09:44:37 -0500,/t/programming,3 things every programmer must learn (and no one teaches you),http://pyskool.com/3-things-every-programmer-must-learn/,/u/Pyskool,17
+0,2014-05-16 09:49:48 -0500,"/t/javascript,/t/programming",Going Reactive - Asynchronous JavaScript at Netflix,http://techblog.netflix.com/2014/03/going-reactive-asynchronous-javascript.html,/u/Ecto5,1
+5,2014-05-15 16:21:43 -0500,"/t/cryptocurrencies,/t/meta",Lobste.rs fork in which submissions and voting cost bitcoin,https://github.com/fisher-lebo/updn,/u/zhemao,20

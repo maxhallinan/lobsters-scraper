@@ -1,25 +1,25 @@
-4,2016-03-05 15:46:34 -0600,['/t/release'],A shell command to create JSON: jo,http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/,/u/fcambus,16
-0,2016-03-05 17:09:58 -0600,['/t/linux'],Debugging why ping was Broken in Docker Images,https://www.cyphar.com/blog/post/docker-broken-ping,/u/jcs,17
-7,2016-03-05 07:26:33 -0600,"['/t/ruby', '/t/web']",Surprises in Ruby HTTP libraries,http://jvns.ca/blog/2016/03/04/whats-up-with-ruby-http-libraries/,/u/telemachus,24
-1,2016-03-05 17:54:19 -0600,"['/t/devops', '/t/go', '/t/linux', '/t/networking']","Connecting Docker Containers, Part Two",https://deis.com/blog/2016/connecting-docker-containers-2,/u/mazembo,4
-0,2016-03-06 03:07:42 -0600,"['/t/cogsci', '/t/science']",The Prospects and Risks of Neurostimulation,http://www.nature.com/nature/journal/v531/n7592_supp/full/531S6a.html,/u/Curiositry,3
-2,2016-03-05 12:50:30 -0600,"['/t/linux', '/t/security']",The Linux Security Circus: On GUI isolation (2011),http://theinvisiblethings.blogspot.com/2011/04/linux-security-circus-on-gui-isolation.html,/u/pushcx,12
-0,2016-03-06 05:10:25 -0600,['/t/go'],Error handling in Go(lang). Whats about it?,https://medium.com/@merten.vg/error-handling-in-go-lang-whats-about-it-4131c0f039e9,/u/alek,2
-1,2016-03-05 07:10:31 -0600,"['/t/games', '/t/release']",MAME is now Free and Open Source Software,http://mamedev.org/?p=422,/u/calvin,19
-2,2016-03-05 12:54:09 -0600,['/t/cryptocurrencies'],What Happened At The Satoshi Roundtable,https://medium.com/@barmstrong/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf,/u/pushcx,7
-3,2016-03-05 06:52:46 -0600,"['/t/networking', '/t/programming']",The Cap’n Proto Cerealizing Format,https://capnproto.org/index.html,/u/qubol,16
-0,2016-03-05 09:44:04 -0600,"['/t/javascript', '/t/practices']",React makes you sad?,https://github.com/gaearon/react-makes-you-sad/blob/master/README.md,/u/joshuacc,14
-0,2016-03-05 09:29:15 -0600,['/t/practices'],"Etsy CTO Q&A: We Need Software Engineers, Not Developers",http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/,/u/joshuacc,12
-0,2016-03-05 18:04:29 -0600,['/t/games'],How to Prototype a Game in Under 7 Days,http://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php?print=1,/u/pushcx,4
-2,2016-03-05 14:48:27 -0600,['/t/api'],Postman App for testing rest APIs has a native mac app now,https://www.getpostman.com/apps,/u/softinio,4
-0,2016-03-05 15:46:52 -0600,"['/t/pdf', '/t/hardware', '/t/historical', '/t/programming']","The Evolution of Character Codes, 1874-1968 (history of ASCII)",http://trafficways.org/ascii/ascii.pdf,/u/friendlysock,4
-0,2016-03-05 10:00:22 -0600,"['/t/hardware', '/t/reversing', '/t/security']",Deconstructing the Xbox Boot ROM,https://mborgerson.com/deconstructing-the-xbox-boot-rom,/u/friendlysock,7
-0,2016-03-05 12:37:43 -0600,['/t/javascript'],Custom Formatters for Immutable.js,http://colbyr.com/custom-formatters-for-immutable-js,/u/colbyr,2
-3,2016-03-04 15:28:05 -0600,['/t/web'],Free Discourse forum hosting for community-friendly GitHub projects,http://blog.discourse.org/2016/03/free-discourse-forum-hosting-for-community-friendly-github-projects/,/u/erlend_sh,16
-0,2016-03-05 07:56:02 -0600,"['/t/c', '/t/web']",TreeFrog Framework | High-speed C++ MVC Framework for Web Application,http://www.treefrogframework.org/,/u/Mordo,5
-0,2016-03-05 12:15:59 -0600,['/t/cryptocurrencies'],Bitcoin! Keep Calm And RBF/CPFP On!,https://fixingtao.com/2016/03/bitcoin-keep-calm-and-rbfcpfp-on/,/u/itistoday,1
-0,2016-03-04 18:43:43 -0600,"['/t/person', '/t/practices']",Your Letters Helped Challenger Shuttle Engineer Shed 30 Years Of Guilt,http://www.npr.org/sections/thetwo-way/2016/02/25/466555217/your-letters-helped-challenger-shuttle-engineer-shed-30-years-of-guilt,/u/pushcx,21
-5,2016-03-04 12:10:14 -0600,"['/t/compsci', '/t/lisp']",Beautiful Racket preview: Make your first programming language — in one hour,http://beautifulracket.com/first-lang.html,/u/craigstuntz,25
-10,2016-03-04 09:15:14 -0600,['/t/windows'],Microsoft wants to monopolise distribution on PC. We must fight it,http://www.theguardian.com/technology/2016/mar/04/microsoft-monopolise-pc-games-development-epic-games-gears-of-war,/u/pushcx,23
-2,2016-03-04 21:32:00 -0600,['/t/release'],"New 9front release ""MY MEMORY OF DRAWTERM IS FADING""",http://ninetimes.cat-v.org/news/2016/03/01/0/,/u/calvin,8
-2,2016-03-04 13:35:13 -0600,['/t/openbsd'],Pre-orders for 5.9 are up!,http://undeadly.org/cgi?action=article&sid=20160304144037,/u/mulander,15
+4,2016-03-05 15:46:34 -0600,/t/release,A shell command to create JSON: jo,http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/,/u/fcambus,16
+0,2016-03-05 17:09:58 -0600,/t/linux,Debugging why ping was Broken in Docker Images,https://www.cyphar.com/blog/post/docker-broken-ping,/u/jcs,17
+7,2016-03-05 07:26:33 -0600,"/t/ruby,/t/web",Surprises in Ruby HTTP libraries,http://jvns.ca/blog/2016/03/04/whats-up-with-ruby-http-libraries/,/u/telemachus,24
+1,2016-03-05 17:54:19 -0600,"/t/devops,/t/go,/t/linux,/t/networking","Connecting Docker Containers, Part Two",https://deis.com/blog/2016/connecting-docker-containers-2,/u/mazembo,4
+0,2016-03-06 03:07:42 -0600,"/t/cogsci,/t/science",The Prospects and Risks of Neurostimulation,http://www.nature.com/nature/journal/v531/n7592_supp/full/531S6a.html,/u/Curiositry,3
+2,2016-03-05 12:50:30 -0600,"/t/linux,/t/security",The Linux Security Circus: On GUI isolation (2011),http://theinvisiblethings.blogspot.com/2011/04/linux-security-circus-on-gui-isolation.html,/u/pushcx,12
+0,2016-03-06 05:10:25 -0600,/t/go,Error handling in Go(lang). Whats about it?,https://medium.com/@merten.vg/error-handling-in-go-lang-whats-about-it-4131c0f039e9,/u/alek,2
+1,2016-03-05 07:10:31 -0600,"/t/games,/t/release",MAME is now Free and Open Source Software,http://mamedev.org/?p=422,/u/calvin,19
+2,2016-03-05 12:54:09 -0600,/t/cryptocurrencies,What Happened At The Satoshi Roundtable,https://medium.com/@barmstrong/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf,/u/pushcx,7
+3,2016-03-05 06:52:46 -0600,"/t/networking,/t/programming",The Cap’n Proto Cerealizing Format,https://capnproto.org/index.html,/u/qubol,16
+0,2016-03-05 09:44:04 -0600,"/t/javascript,/t/practices",React makes you sad?,https://github.com/gaearon/react-makes-you-sad/blob/master/README.md,/u/joshuacc,14
+0,2016-03-05 09:29:15 -0600,/t/practices,"Etsy CTO Q&A: We Need Software Engineers, Not Developers",http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/,/u/joshuacc,12
+0,2016-03-05 18:04:29 -0600,/t/games,How to Prototype a Game in Under 7 Days,http://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php?print=1,/u/pushcx,4
+2,2016-03-05 14:48:27 -0600,/t/api,Postman App for testing rest APIs has a native mac app now,https://www.getpostman.com/apps,/u/softinio,4
+0,2016-03-05 15:46:52 -0600,"/t/pdf,/t/hardware,/t/historical,/t/programming","The Evolution of Character Codes, 1874-1968 (history of ASCII)",http://trafficways.org/ascii/ascii.pdf,/u/friendlysock,4
+0,2016-03-05 10:00:22 -0600,"/t/hardware,/t/reversing,/t/security",Deconstructing the Xbox Boot ROM,https://mborgerson.com/deconstructing-the-xbox-boot-rom,/u/friendlysock,7
+0,2016-03-05 12:37:43 -0600,/t/javascript,Custom Formatters for Immutable.js,http://colbyr.com/custom-formatters-for-immutable-js,/u/colbyr,2
+3,2016-03-04 15:28:05 -0600,/t/web,Free Discourse forum hosting for community-friendly GitHub projects,http://blog.discourse.org/2016/03/free-discourse-forum-hosting-for-community-friendly-github-projects/,/u/erlend_sh,16
+0,2016-03-05 07:56:02 -0600,"/t/c,/t/web",TreeFrog Framework | High-speed C++ MVC Framework for Web Application,http://www.treefrogframework.org/,/u/Mordo,5
+0,2016-03-05 12:15:59 -0600,/t/cryptocurrencies,Bitcoin! Keep Calm And RBF/CPFP On!,https://fixingtao.com/2016/03/bitcoin-keep-calm-and-rbfcpfp-on/,/u/itistoday,1
+0,2016-03-04 18:43:43 -0600,"/t/person,/t/practices",Your Letters Helped Challenger Shuttle Engineer Shed 30 Years Of Guilt,http://www.npr.org/sections/thetwo-way/2016/02/25/466555217/your-letters-helped-challenger-shuttle-engineer-shed-30-years-of-guilt,/u/pushcx,21
+5,2016-03-04 12:10:14 -0600,"/t/compsci,/t/lisp",Beautiful Racket preview: Make your first programming language — in one hour,http://beautifulracket.com/first-lang.html,/u/craigstuntz,25
+10,2016-03-04 09:15:14 -0600,/t/windows,Microsoft wants to monopolise distribution on PC. We must fight it,http://www.theguardian.com/technology/2016/mar/04/microsoft-monopolise-pc-games-development-epic-games-gears-of-war,/u/pushcx,23
+2,2016-03-04 21:32:00 -0600,/t/release,"New 9front release ""MY MEMORY OF DRAWTERM IS FADING""",http://ninetimes.cat-v.org/news/2016/03/01/0/,/u/calvin,8
+2,2016-03-04 13:35:13 -0600,/t/openbsd,Pre-orders for 5.9 are up!,http://undeadly.org/cgi?action=article&sid=20160304144037,/u/mulander,15

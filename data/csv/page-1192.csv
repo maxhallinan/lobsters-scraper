@@ -1,25 +1,25 @@
-0,2015-01-01 18:56:35 -0600,"['/t/haskell', '/t/programming']",Can functional programming be liberated from the von Neumann paradigm?,http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm,/u/pushcx,3
-7,2014-12-31 15:54:41 -0600,['/t/ruby'],Matz's Ruby Developers Don't Use RubySpec and It's Hurting Ruby,http://rubini.us/2014/12/31/matz-s-ruby-developers-don-t-use-rubyspec/,/u/kGb8RNFtg6,24
-0,2014-12-31 14:53:36 -0600,"['/t/pdf', '/t/slides', '/t/haskell']",GHC Illustrated,https://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf,/u/pushcx,22
-1,2014-12-31 14:59:59 -0600,"['/t/video', '/t/hardware', '/t/mac', '/t/security']",Thunderstrike: EFI bootkits for Apple MacBooks,http://media.ccc.de/browse/congress/2014/31c3_-_6128_-_en_-_saal_1_-_201412291830_-_thunderstrike_efi_bootkits_for_apple_macbooks_-_trammell_hudson.html#video,/u/jcs,15
-0,2014-12-31 11:15:53 -0600,"['/t/perl', '/t/programming']",Take the 2015 CPAN Pull Request Challenge,http://blogs.perl.org/users/neilb/2014/12/take-the-2015-cpan-pull-request-challenge.html,/u/davecardwell,8
-1,2014-12-31 03:18:07 -0600,"['/t/c', '/t/ios', '/t/mac']",The Death of Cocoa,http://nshipster.com/the-death-of-cocoa/,/u/julienXX,6
-0,2014-12-30 21:51:35 -0600,"['/t/video', '/t/databases', '/t/distributed']",Strong Eventual Consistency and Conflict-free Replicated Data Types,https://www.youtube.com/watch?v=ebWVLVhiaiY,/u/SeanTAllen,11
-0,2014-12-30 19:34:44 -0600,['/t/hardware'],From Gongkai to Open Source,http://www.bunniestudios.com/blog/?p=4297,/u/kyle,13
-2,2014-12-31 00:39:35 -0600,"['/t/culture', '/t/networking']",Why Google Fiber will never come to Seattle,http://crosscut.com/2014/12/29/business/123222/google-fiber-never-come-seattle-broadband-internet/,/u/cnst,7
-0,2014-12-30 11:51:44 -0600,['/t/math'],Towards the Perfect Coin Flip: The NIST Randomness Beacon,http://hackaday.com/2014/12/19/nist-randomness-beacon/,/u/pushcx,10
-1,2014-12-30 13:58:27 -0600,"['/t/pdf', '/t/distributed', '/t/scaling']",Incremental Stream Processing using Computational Conflict-free Replicated Data Types,http://asc.di.fct.unl.pt/~nmp/pubs/clouddp-2013.pdf,/u/SeanTAllen,6
-2,2014-12-29 20:42:20 -0600,['/t/security'],On the new Snowden documents,http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html,/u/kyle,33
-7,2014-12-29 21:51:00 -0600,['/t/practices'],Software engineers should write,http://www.shubhro.com/2014/12/27/software-engineers-should-write/,/u/joshuacc,17
-0,2014-12-30 12:11:44 -0600,"['/t/culture', '/t/programming']",Working with Queue and Stack people,http://marcesher.com/2014/08/18/working-with-queue-and-stack-people/,/u/julienXX,4
-0,2014-12-30 13:47:27 -0600,"['/t/haskell', '/t/programming', '/t/swift']",Functional programming for normal humans,https://dirk.to/blog/2014/12/30/functional-programming-for-humans.html,/u/dirk,1
-0,2014-12-30 09:34:22 -0600,['/t/javascript'],Creating Objects Without Prototypes,http://designpepper.com/blog/drips/creating-objects-without-prototypes.html,/u/joshuacc,2
-0,2014-12-30 13:05:37 -0600,"['/t/programming', '/t/ruby']",Graph Kit for Ruby: Deployment with Graph Story and Engine Yard,https://blog.engineyard.com/2014/graph-kit-for-ruby-deployment-with-graph-story-engine-yard,/u/PJ,1
-1,2014-12-29 09:58:52 -0600,"['/t/games', '/t/hardware']",Quake on an oscilloscope: A technical report,http://www.lofibucket.com/articles/oscilloscope_quake.html,/u/pushcx,27
-0,2014-12-29 12:10:36 -0600,"['/t/games', '/t/security']","Game Boy Advance ""Classic NES Series"" Anti-Emulation Measures",https://endrift.com/mgba/2014/12/28/classic-nes/,/u/pushcx,22
-0,2014-12-30 10:53:21 -0600,['/t/ruby'],Avoiding clever mistakes when displaying data with missing values,http://www.saturnflyer.com/blog/jim/2014/12/30/avoiding-clever-mistakes-when-displaying-data-with-missing-values/,/u/saturnflyer,1
-11,2014-12-29 23:12:51 -0600,['/t/ask'],Any fiction writers here?,/s/g9eo1z/any_fiction_writers_here,/u/joshuacc,11
-0,2014-12-30 10:07:52 -0600,"['/t/games', '/t/hardware', '/t/practices', '/t/release']",The Story of GameCube,http://www.dromble.com/2014/01/07/dolphin-tale-story-of-gamecube/,/u/calvin,1
-0,2014-12-29 14:12:28 -0600,['/t/openbsd'],"OpenBSD Foundation's fundraising goal met, you can help push it further!",http://marc.info/?l=openbsd-misc&m=141987113202061&w=2,/u/gabe,15
-0,2014-12-30 01:20:49 -0600,"['/t/culture', '/t/rant']",A Generation Lost in the Bazaar,https://queue.acm.org/detail.cfm?id=2349257,/u/robey,14
-1,2014-12-29 09:32:00 -0600,"['/t/api', '/t/c', '/t/security']",Some Gripes About NaCl,http://www.tedunangst.com/flak/post/some-gripes-about-nacl,/u/gabe,15
+0,2015-01-01 18:56:35 -0600,"/t/haskell,/t/programming",Can functional programming be liberated from the von Neumann paradigm?,http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm,/u/pushcx,3
+7,2014-12-31 15:54:41 -0600,/t/ruby,Matz's Ruby Developers Don't Use RubySpec and It's Hurting Ruby,http://rubini.us/2014/12/31/matz-s-ruby-developers-don-t-use-rubyspec/,/u/kGb8RNFtg6,24
+0,2014-12-31 14:53:36 -0600,"/t/pdf,/t/slides,/t/haskell",GHC Illustrated,https://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf,/u/pushcx,22
+1,2014-12-31 14:59:59 -0600,"/t/video,/t/hardware,/t/mac,/t/security",Thunderstrike: EFI bootkits for Apple MacBooks,http://media.ccc.de/browse/congress/2014/31c3_-_6128_-_en_-_saal_1_-_201412291830_-_thunderstrike_efi_bootkits_for_apple_macbooks_-_trammell_hudson.html#video,/u/jcs,15
+0,2014-12-31 11:15:53 -0600,"/t/perl,/t/programming",Take the 2015 CPAN Pull Request Challenge,http://blogs.perl.org/users/neilb/2014/12/take-the-2015-cpan-pull-request-challenge.html,/u/davecardwell,8
+1,2014-12-31 03:18:07 -0600,"/t/c,/t/ios,/t/mac",The Death of Cocoa,http://nshipster.com/the-death-of-cocoa/,/u/julienXX,6
+0,2014-12-30 21:51:35 -0600,"/t/video,/t/databases,/t/distributed",Strong Eventual Consistency and Conflict-free Replicated Data Types,https://www.youtube.com/watch?v=ebWVLVhiaiY,/u/SeanTAllen,11
+0,2014-12-30 19:34:44 -0600,/t/hardware,From Gongkai to Open Source,http://www.bunniestudios.com/blog/?p=4297,/u/kyle,13
+2,2014-12-31 00:39:35 -0600,"/t/culture,/t/networking",Why Google Fiber will never come to Seattle,http://crosscut.com/2014/12/29/business/123222/google-fiber-never-come-seattle-broadband-internet/,/u/cnst,7
+0,2014-12-30 11:51:44 -0600,/t/math,Towards the Perfect Coin Flip: The NIST Randomness Beacon,http://hackaday.com/2014/12/19/nist-randomness-beacon/,/u/pushcx,10
+1,2014-12-30 13:58:27 -0600,"/t/pdf,/t/distributed,/t/scaling",Incremental Stream Processing using Computational Conflict-free Replicated Data Types,http://asc.di.fct.unl.pt/~nmp/pubs/clouddp-2013.pdf,/u/SeanTAllen,6
+2,2014-12-29 20:42:20 -0600,/t/security,On the new Snowden documents,http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html,/u/kyle,33
+7,2014-12-29 21:51:00 -0600,/t/practices,Software engineers should write,http://www.shubhro.com/2014/12/27/software-engineers-should-write/,/u/joshuacc,17
+0,2014-12-30 12:11:44 -0600,"/t/culture,/t/programming",Working with Queue and Stack people,http://marcesher.com/2014/08/18/working-with-queue-and-stack-people/,/u/julienXX,4
+0,2014-12-30 13:47:27 -0600,"/t/haskell,/t/programming,/t/swift",Functional programming for normal humans,https://dirk.to/blog/2014/12/30/functional-programming-for-humans.html,/u/dirk,1
+0,2014-12-30 09:34:22 -0600,/t/javascript,Creating Objects Without Prototypes,http://designpepper.com/blog/drips/creating-objects-without-prototypes.html,/u/joshuacc,2
+0,2014-12-30 13:05:37 -0600,"/t/programming,/t/ruby",Graph Kit for Ruby: Deployment with Graph Story and Engine Yard,https://blog.engineyard.com/2014/graph-kit-for-ruby-deployment-with-graph-story-engine-yard,/u/PJ,1
+1,2014-12-29 09:58:52 -0600,"/t/games,/t/hardware",Quake on an oscilloscope: A technical report,http://www.lofibucket.com/articles/oscilloscope_quake.html,/u/pushcx,27
+0,2014-12-29 12:10:36 -0600,"/t/games,/t/security","Game Boy Advance ""Classic NES Series"" Anti-Emulation Measures",https://endrift.com/mgba/2014/12/28/classic-nes/,/u/pushcx,22
+0,2014-12-30 10:53:21 -0600,/t/ruby,Avoiding clever mistakes when displaying data with missing values,http://www.saturnflyer.com/blog/jim/2014/12/30/avoiding-clever-mistakes-when-displaying-data-with-missing-values/,/u/saturnflyer,1
+11,2014-12-29 23:12:51 -0600,/t/ask,Any fiction writers here?,/s/g9eo1z/any_fiction_writers_here,/u/joshuacc,11
+0,2014-12-30 10:07:52 -0600,"/t/games,/t/hardware,/t/practices,/t/release",The Story of GameCube,http://www.dromble.com/2014/01/07/dolphin-tale-story-of-gamecube/,/u/calvin,1
+0,2014-12-29 14:12:28 -0600,/t/openbsd,"OpenBSD Foundation's fundraising goal met, you can help push it further!",http://marc.info/?l=openbsd-misc&m=141987113202061&w=2,/u/gabe,15
+0,2014-12-30 01:20:49 -0600,"/t/culture,/t/rant",A Generation Lost in the Bazaar,https://queue.acm.org/detail.cfm?id=2349257,/u/robey,14
+1,2014-12-29 09:32:00 -0600,"/t/api,/t/c,/t/security",Some Gripes About NaCl,http://www.tedunangst.com/flak/post/some-gripes-about-nacl,/u/gabe,15

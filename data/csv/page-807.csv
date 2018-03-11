@@ -1,25 +1,25 @@
-0,2016-04-20 17:49:30 -0500,['/t/python'],Faster CPython,http://faster-cpython.readthedocs.org/,/u/geier,11
-4,2016-04-20 18:00:48 -0500,['/t/devops'],A security issue in the curlpipesh method.,https://news.ycombinator.com/item?id=9422673,/u/rain1,5
-2,2016-04-20 12:36:03 -0500,"['/t/design', '/t/practices']",How Etsy Formats Currency,https://codeascraft.com/2016/04/19/how-etsy-formats-currency/,/u/pushcx,13
-0,2016-04-21 21:10:49 -0500,"['/t/culture', '/t/hardware', '/t/historical']",12 Modern Tech Devices the Smithsonian Is Saving for Posterity,http://www.adweek.com/news-gallery/advertising-branding/12-modern-tech-devices-smithsonian-saving-posterity-164916,/u/calvin,0
-0,2016-04-20 16:32:02 -0500,['/t/security'],Amazon Inspector,https://aws.amazon.com/inspector/,/u/dogpellet,10
-0,2016-04-20 23:22:58 -0500,['/t/web'],Migration RSS from FeedBurner to Feedio,http://wikimatze.de/migration-rss-from-feedburner-to-feedio,/u/wikimatze,2
-6,2016-04-20 11:09:13 -0500,"['/t/art', '/t/programming']",RegEx match open tags except XHTML self-contained tags,http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454,/u/flyingfisch,9
-0,2016-04-21 14:09:24 -0500,['/t/practices'],Uber rolls out driver facial recognition in China,https://www.techinasia.com/uber-china-facial-recognition,/u/pushcx,0
-1,2016-04-20 15:38:48 -0500,"['/t/person', '/t/web']",Interview with Håkon Wium Lie,https://medium.com/net-magazine/interview-with-h%C3%A5kon-wium-lie-f3328aeca8ed,/u/flyingfisch,7
-0,2016-04-21 06:21:04 -0500,"['/t/mac', '/t/security']","CloudABI for Mac OS X, part one: Position Independent Executables",https://nuxi.nl/blog/2016/04/21/cloudabi-for-mac-part-1.html,/u/sevan,1
-9,2016-04-19 13:06:54 -0500,['/t/person'],Just Married! ?,https://ponyfoo.com/articles/just-married,/u/ponyfoo,41
-1,2016-04-20 12:43:57 -0500,['/t/c'],Wangle — an asynchronous C++ networking and RPC library,https://code.facebook.com/posts/215466732167400/wangle-an-asynchronous-c-networking-and-rpc-library/,/u/pyk,9
-8,2016-04-20 07:21:15 -0500,['/t/devops'],Babushka: a tool for automating and testing computing chores,http://babushka.me/,/u/pushcx,8
-0,2016-04-20 20:42:50 -0500,"['/t/hardware', '/t/linux']",In-Progress Standalone Steam Controller Driver,https://github.com/ynsta/steamcontroller,/u/pushcx,3
-0,2016-04-20 08:50:49 -0500,['/t/vcs'],How to recover lost files added to Git but not committed,http://blog.plover.com/2016/04/16/#git-reset-disaster,/u/kartik,12
-1,2016-04-20 12:34:13 -0500,"['/t/c', '/t/satire']",Things to commit just before leaving your job,https://gist.github.com/aras-p/6224951,/u/flyingfisch,13
-1,2016-04-20 18:23:12 -0500,['/t/release'],sigrok - Open-Source signal analysis software suite,https://sigrok.org/,/u/geier,3
-1,2016-04-20 07:46:01 -0500,"['/t/release', '/t/unix']",curlbash: locally save and checksum/review before curl | bash-ing,https://github.com/silentbicycle/curlbash,/u/silentbicycle,4
-0,2016-04-20 13:07:36 -0500,"['/t/programming', '/t/python']",Make the witch speak!,http://jugad2.blogspot.com/2016/04/make-witch-speak.html,/u/vasudevram,2
-0,2016-04-20 18:07:54 -0500,"['/t/pdf', '/t/devops', '/t/linux', '/t/security']",Understanding and Hardening Linux Containers,https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-10pdf/,/u/antifuchs,2
-0,2016-04-19 15:11:19 -0500,"['/t/security', '/t/unix']","Detecting the use of ""curl | bash"" server side",https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/,/u/pushcx,48
-0,2016-04-20 10:55:15 -0500,"['/t/event', '/t/ruby']",RailsConf 2008 vs 2016,https://medium.com/table-xi/railsconf-2008-vs-2016-391b1fc3dcbc,/u/soulcutter,5
-0,2016-04-20 09:24:21 -0500,"['/t/design', '/t/practices']",User-centred design — GOV.UK Service Design Manual,https://www.gov.uk/service-manual/user-centred-design,/u/geocar,6
-1,2016-04-20 12:29:57 -0500,['/t/release'],Kite - Programming copilot,https://kite.com/,/u/stig,4
-5,2016-04-19 14:25:26 -0500,"['/t/api', '/t/openbsd', '/t/security']",libressl - more vague promises,http://www.tedunangst.com/flak/post/libressl-more-vague-promises,/u/lynge,31
+0,2016-04-20 17:49:30 -0500,/t/python,Faster CPython,http://faster-cpython.readthedocs.org/,/u/geier,11
+4,2016-04-20 18:00:48 -0500,/t/devops,A security issue in the curlpipesh method.,https://news.ycombinator.com/item?id=9422673,/u/rain1,5
+2,2016-04-20 12:36:03 -0500,"/t/design,/t/practices",How Etsy Formats Currency,https://codeascraft.com/2016/04/19/how-etsy-formats-currency/,/u/pushcx,13
+0,2016-04-21 21:10:49 -0500,"/t/culture,/t/hardware,/t/historical",12 Modern Tech Devices the Smithsonian Is Saving for Posterity,http://www.adweek.com/news-gallery/advertising-branding/12-modern-tech-devices-smithsonian-saving-posterity-164916,/u/calvin,0
+0,2016-04-20 16:32:02 -0500,/t/security,Amazon Inspector,https://aws.amazon.com/inspector/,/u/dogpellet,10
+0,2016-04-20 23:22:58 -0500,/t/web,Migration RSS from FeedBurner to Feedio,http://wikimatze.de/migration-rss-from-feedburner-to-feedio,/u/wikimatze,2
+6,2016-04-20 11:09:13 -0500,"/t/art,/t/programming",RegEx match open tags except XHTML self-contained tags,http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454,/u/flyingfisch,9
+0,2016-04-21 14:09:24 -0500,/t/practices,Uber rolls out driver facial recognition in China,https://www.techinasia.com/uber-china-facial-recognition,/u/pushcx,0
+1,2016-04-20 15:38:48 -0500,"/t/person,/t/web",Interview with Håkon Wium Lie,https://medium.com/net-magazine/interview-with-h%C3%A5kon-wium-lie-f3328aeca8ed,/u/flyingfisch,7
+0,2016-04-21 06:21:04 -0500,"/t/mac,/t/security","CloudABI for Mac OS X, part one: Position Independent Executables",https://nuxi.nl/blog/2016/04/21/cloudabi-for-mac-part-1.html,/u/sevan,1
+9,2016-04-19 13:06:54 -0500,/t/person,Just Married! ?,https://ponyfoo.com/articles/just-married,/u/ponyfoo,41
+1,2016-04-20 12:43:57 -0500,/t/c,Wangle — an asynchronous C++ networking and RPC library,https://code.facebook.com/posts/215466732167400/wangle-an-asynchronous-c-networking-and-rpc-library/,/u/pyk,9
+8,2016-04-20 07:21:15 -0500,/t/devops,Babushka: a tool for automating and testing computing chores,http://babushka.me/,/u/pushcx,8
+0,2016-04-20 20:42:50 -0500,"/t/hardware,/t/linux",In-Progress Standalone Steam Controller Driver,https://github.com/ynsta/steamcontroller,/u/pushcx,3
+0,2016-04-20 08:50:49 -0500,/t/vcs,How to recover lost files added to Git but not committed,http://blog.plover.com/2016/04/16/#git-reset-disaster,/u/kartik,12
+1,2016-04-20 12:34:13 -0500,"/t/c,/t/satire",Things to commit just before leaving your job,https://gist.github.com/aras-p/6224951,/u/flyingfisch,13
+1,2016-04-20 18:23:12 -0500,/t/release,sigrok - Open-Source signal analysis software suite,https://sigrok.org/,/u/geier,3
+1,2016-04-20 07:46:01 -0500,"/t/release,/t/unix",curlbash: locally save and checksum/review before curl | bash-ing,https://github.com/silentbicycle/curlbash,/u/silentbicycle,4
+0,2016-04-20 13:07:36 -0500,"/t/programming,/t/python",Make the witch speak!,http://jugad2.blogspot.com/2016/04/make-witch-speak.html,/u/vasudevram,2
+0,2016-04-20 18:07:54 -0500,"/t/pdf,/t/devops,/t/linux,/t/security",Understanding and Hardening Linux Containers,https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-10pdf/,/u/antifuchs,2
+0,2016-04-19 15:11:19 -0500,"/t/security,/t/unix","Detecting the use of ""curl | bash"" server side",https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/,/u/pushcx,48
+0,2016-04-20 10:55:15 -0500,"/t/event,/t/ruby",RailsConf 2008 vs 2016,https://medium.com/table-xi/railsconf-2008-vs-2016-391b1fc3dcbc,/u/soulcutter,5
+0,2016-04-20 09:24:21 -0500,"/t/design,/t/practices",User-centred design — GOV.UK Service Design Manual,https://www.gov.uk/service-manual/user-centred-design,/u/geocar,6
+1,2016-04-20 12:29:57 -0500,/t/release,Kite - Programming copilot,https://kite.com/,/u/stig,4
+5,2016-04-19 14:25:26 -0500,"/t/api,/t/openbsd,/t/security",libressl - more vague promises,http://www.tedunangst.com/flak/post/libressl-more-vague-promises,/u/lynge,31

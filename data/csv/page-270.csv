@@ -1,25 +1,25 @@
-1,2017-07-28 12:50:25 -0500,['/t/c++'],CMake Announcement from Boost Steering Committee,https://lists.boost.org/boost-interest/2017/07/0162.php,/u/belak,14
-0,2017-07-28 07:00:27 -0500,['/t/math'],The Evolution of Trust (Game Theory),http://ncase.me/trust/,/u/klingtnet,24
-0,2017-07-28 19:43:32 -0500,['/t/assembly'],Booting the Nintendo DS – a technical summary,https://corgids.wordpress.com/2017/07/28/booting-the-nintendo-ds-a-technical-summary/,/u/calvin,5
-0,2017-07-28 20:43:09 -0500,"['/t/mac', '/t/programming']",Insta Cloning,https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32,/u/nikivi,2
-0,2017-07-28 21:01:23 -0500,['/t/dotnet'],The ins and outs of C# enums,http://www.codeducky.org/ins-outs-c-enums/,/u/calvin,4
-1,2017-07-28 05:06:56 -0500,"['/t/freebsd', '/t/linux', '/t/netbsd', '/t/openbsd']",SysAdmin Day | System Administrator Appreciation Day,http://sysadminday.com/,/u/rjc,24
-28,2017-07-27 13:55:07 -0500,"['/t/pdf', '/t/freebsd', '/t/netbsd', '/t/openbsd', '/t/security']",Are all BSDs created equally? A survey of BSD kernel vulnerabilities,https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Ilja-van-Sprundel-BSD-Kern-Vulns.pdf,/u/lattera,61
-0,2017-07-28 07:52:15 -0500,['/t/python'],Python Entry Points Explained,http://amir.rachum.com/blog/2017/07/28/python-entry-points/,/u/AmirRachum,9
-0,2017-07-28 18:02:28 -0500,"['/t/video', '/t/hardware']",Zero Terminal 2 Prototype (Portable Pi Zero W),https://www.youtube.com/watch?v=SO4amBc0Tbw,/u/jackivan88,5
-23,2017-07-27 12:39:12 -0500,"['/t/ask', '/t/job', '/t/practices']",Salary Survey,https://goo.gl/forms/c3VgkChmVAV8IitD3,/u/calebthompson,29
-57,2017-07-27 06:06:23 -0500,['/t/performance'],Where’s all my CPU and memory gone? The answer: Slack,https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab,/u/mattheworiordan,55
-5,2017-07-28 12:29:18 -0500,['/t/book'],books chapter six,https://www.tedunangst.com/flak/post/books-chapter-six,/u/friendlysock,2
-2,2017-07-28 10:42:45 -0500,['/t/go'],"Gophercon 2017 slides, code and video links for main talks and lightning talks",https://github.com/gophercon/2017-talks,/u/luisonthekeyboard,6
-2,2017-07-28 09:37:55 -0500,"['/t/graphics', '/t/web']",How I built a wind map with WebGL,https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f,/u/pushcx,6
-0,2017-07-28 10:20:19 -0500,"['/t/cryptocurrencies', '/t/law']","FinCEN Fines BTC-e $110 Million for Facilitating Ransomware, Dark Net Drug Sales",https://www.fincen.gov/news/news-releases/fincen-fines-btc-e-virtual-currency-exchange-110-million-facilitating-ransomware,/u/pushcx,7
-15,2017-07-27 15:24:45 -0500,['/t/release'],Ring 1.0 released,https://ring.cx/en,/u/quobit,24
-0,2017-07-28 06:17:57 -0500,"['/t/privacy', '/t/security']","Insecurities of WhatsApp's, Signal's, and Threema's Group Chats",https://web-in-security.blogspot.com/2017/07/insecurities-of-whatsapps-signals-and.html,/u/doublec,9
-0,2017-07-28 08:17:14 -0500,"['/t/programming', '/t/web']",Chromeless - headless Chrome automation,https://github.com/graphcool/chromeless,/u/pgl,6
-2,2017-07-28 11:02:39 -0500,"['/t/pdf', '/t/slides', '/t/android', '/t/formalmethods', '/t/security']",Verifying Security Invariants in ExpressOS (2013),https://haohuim.appspot.com/static/pubs/expressos-asplos13-slides.pdf,/u/nickpsecurity,3
-0,2017-07-28 12:56:36 -0500,"['/t/historical', '/t/person']","Claude Shannon, the Las Vegas Shark",http://nautil.us/issue/50/emergence/claude-shannon-the-las-vegas-cheat,/u/bsima,3
-1,2017-07-28 07:52:42 -0500,['/t/math'],A potential new Polymath project: intransitive dice,https://gowers.wordpress.com/2017/04/28/a-potential-new-polymath-project-intransitive-dice/,/u/mjn,4
-0,2017-07-28 09:09:56 -0500,"['/t/math', '/t/practices']",Naming Convention for Matrix Math,https://www.sebastiansylvan.com/post/matrix_naming_convention/,/u/pushcx,4
-0,2017-07-28 17:30:33 -0500,"['/t/databases', '/t/practices', '/t/programming', '/t/python', '/t/web']",Mayan EDMS crowdfunding campaign to add Zone OCR support,https://www.indiegogo.com/projects/zone-ocr-support-for-mayan-edms/,/u/siloraptor,1
-0,2017-07-28 13:13:58 -0500,"['/t/programming', '/t/python', '/t/web']",Ivy: a minimalist static website generator built in Python,https://github.com/dmulholland/ivy,/u/beyang,2
-21,2017-07-27 14:59:05 -0500,['/t/practices'],light screens vs dark screens,http://www.tedunangst.com/flak/post/light-screens-vs-dark-screens,/u/calvin,13
+1,2017-07-28 12:50:25 -0500,/t/c++,CMake Announcement from Boost Steering Committee,https://lists.boost.org/boost-interest/2017/07/0162.php,/u/belak,14
+0,2017-07-28 07:00:27 -0500,/t/math,The Evolution of Trust (Game Theory),http://ncase.me/trust/,/u/klingtnet,24
+0,2017-07-28 19:43:32 -0500,/t/assembly,Booting the Nintendo DS – a technical summary,https://corgids.wordpress.com/2017/07/28/booting-the-nintendo-ds-a-technical-summary/,/u/calvin,5
+0,2017-07-28 20:43:09 -0500,"/t/mac,/t/programming",Insta Cloning,https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32,/u/nikivi,2
+0,2017-07-28 21:01:23 -0500,/t/dotnet,The ins and outs of C# enums,http://www.codeducky.org/ins-outs-c-enums/,/u/calvin,4
+1,2017-07-28 05:06:56 -0500,"/t/freebsd,/t/linux,/t/netbsd,/t/openbsd",SysAdmin Day | System Administrator Appreciation Day,http://sysadminday.com/,/u/rjc,24
+28,2017-07-27 13:55:07 -0500,"/t/pdf,/t/freebsd,/t/netbsd,/t/openbsd,/t/security",Are all BSDs created equally? A survey of BSD kernel vulnerabilities,https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Ilja-van-Sprundel-BSD-Kern-Vulns.pdf,/u/lattera,61
+0,2017-07-28 07:52:15 -0500,/t/python,Python Entry Points Explained,http://amir.rachum.com/blog/2017/07/28/python-entry-points/,/u/AmirRachum,9
+0,2017-07-28 18:02:28 -0500,"/t/video,/t/hardware",Zero Terminal 2 Prototype (Portable Pi Zero W),https://www.youtube.com/watch?v=SO4amBc0Tbw,/u/jackivan88,5
+23,2017-07-27 12:39:12 -0500,"/t/ask,/t/job,/t/practices",Salary Survey,https://goo.gl/forms/c3VgkChmVAV8IitD3,/u/calebthompson,29
+57,2017-07-27 06:06:23 -0500,/t/performance,Where’s all my CPU and memory gone? The answer: Slack,https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab,/u/mattheworiordan,55
+5,2017-07-28 12:29:18 -0500,/t/book,books chapter six,https://www.tedunangst.com/flak/post/books-chapter-six,/u/friendlysock,2
+2,2017-07-28 10:42:45 -0500,/t/go,"Gophercon 2017 slides, code and video links for main talks and lightning talks",https://github.com/gophercon/2017-talks,/u/luisonthekeyboard,6
+2,2017-07-28 09:37:55 -0500,"/t/graphics,/t/web",How I built a wind map with WebGL,https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f,/u/pushcx,6
+0,2017-07-28 10:20:19 -0500,"/t/cryptocurrencies,/t/law","FinCEN Fines BTC-e $110 Million for Facilitating Ransomware, Dark Net Drug Sales",https://www.fincen.gov/news/news-releases/fincen-fines-btc-e-virtual-currency-exchange-110-million-facilitating-ransomware,/u/pushcx,7
+15,2017-07-27 15:24:45 -0500,/t/release,Ring 1.0 released,https://ring.cx/en,/u/quobit,24
+0,2017-07-28 06:17:57 -0500,"/t/privacy,/t/security","Insecurities of WhatsApp's, Signal's, and Threema's Group Chats",https://web-in-security.blogspot.com/2017/07/insecurities-of-whatsapps-signals-and.html,/u/doublec,9
+0,2017-07-28 08:17:14 -0500,"/t/programming,/t/web",Chromeless - headless Chrome automation,https://github.com/graphcool/chromeless,/u/pgl,6
+2,2017-07-28 11:02:39 -0500,"/t/pdf,/t/slides,/t/android,/t/formalmethods,/t/security",Verifying Security Invariants in ExpressOS (2013),https://haohuim.appspot.com/static/pubs/expressos-asplos13-slides.pdf,/u/nickpsecurity,3
+0,2017-07-28 12:56:36 -0500,"/t/historical,/t/person","Claude Shannon, the Las Vegas Shark",http://nautil.us/issue/50/emergence/claude-shannon-the-las-vegas-cheat,/u/bsima,3
+1,2017-07-28 07:52:42 -0500,/t/math,A potential new Polymath project: intransitive dice,https://gowers.wordpress.com/2017/04/28/a-potential-new-polymath-project-intransitive-dice/,/u/mjn,4
+0,2017-07-28 09:09:56 -0500,"/t/math,/t/practices",Naming Convention for Matrix Math,https://www.sebastiansylvan.com/post/matrix_naming_convention/,/u/pushcx,4
+0,2017-07-28 17:30:33 -0500,"/t/databases,/t/practices,/t/programming,/t/python,/t/web",Mayan EDMS crowdfunding campaign to add Zone OCR support,https://www.indiegogo.com/projects/zone-ocr-support-for-mayan-edms/,/u/siloraptor,1
+0,2017-07-28 13:13:58 -0500,"/t/programming,/t/python,/t/web",Ivy: a minimalist static website generator built in Python,https://github.com/dmulholland/ivy,/u/beyang,2
+21,2017-07-27 14:59:05 -0500,/t/practices,light screens vs dark screens,http://www.tedunangst.com/flak/post/light-screens-vs-dark-screens,/u/calvin,13

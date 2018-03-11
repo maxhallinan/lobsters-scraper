@@ -1,25 +1,25 @@
-6,2016-04-07 15:32:09 -0500,['/t/erlang'],Why Erlang Matters,https://sameroom.io/blog/why-erlang-matters/,/u/355E3B,17
-21,2016-04-07 16:01:28 -0500,"['/t/person', '/t/practices', '/t/programming', '/t/security']",Graphing Calculator Story,http://www.pacifict.com/Story/,/u/flyingfisch,12
-10,2016-04-07 09:29:20 -0500,['/t/vim'],Vis: a vim-like text editor,https://github.com/martanne/vis,/u/dwc,20
-16,2016-04-07 10:07:07 -0500,['/t/linux'],Pür Linux,https://github.com/PurLinux,/u/sevan,18
-10,2016-04-07 08:11:38 -0500,['/t/browsers'],The Chrome Distortion: how Chrome negatively alters our expectations.,http://blog.runspired.com/2016/03/25/the-chrome-distortion-chrome-alters-our-expectations-in-highly-negative-ways/,/u/stig,20
-0,2016-04-08 08:45:33 -0500,['/t/privacy'],Short Link Privacy – Browser to browser encryption using PGP and short links,http://slp.li/,/u/xsge,2
-0,2016-04-08 07:44:22 -0500,['/t/javascript'],ES6 module loading: More complicated than you think,https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/,/u/flyingfisch,2
-0,2016-04-08 05:42:46 -0500,"['/t/show', '/t/php', '/t/visualization']",Cauditor: PHP code analyzer,https://www.cauditor.org,/u/matthiasmullie,1
-4,2016-04-07 11:56:26 -0500,['/t/visualization'],NYC subway math,http://erikbern.com/2016/04/04/nyc-subway-math.html,/u/pushcx,10
-4,2016-04-07 20:02:41 -0500,['/t/browsers'],"Browsers, Innovators Dilemma, and Project Tofino",https://medium.com/project-tofino/browsers-innovators-dilemma-and-project-tofino-ef634c6164f0,/u/fitzgen,2
-0,2016-04-07 18:07:14 -0500,"['/t/book', '/t/compsci']","Deep Learning (Free Online Book, MIT Press)",http://www.deeplearningbook.org/,/u/dwc,6
-0,2016-04-08 10:38:03 -0500,"['/t/culture', '/t/dotnet']",Launch of the F# Speakers Program,http://foundation.fsharp.org/speakers_program_launch,/u/foxyjackfox,1
-20,2016-04-06 18:39:04 -0500,['/t/practices'],My Biggest Regret As A Programmer,http://thecodist.com/article/my-biggest-regret-as-a-programmer,/u/pushcx,25
-0,2016-04-07 15:12:59 -0500,"['/t/lisp', '/t/programming']","Try Code: An online, interactive racket tutorial",http://trycode.io/,/u/zem,4
-6,2016-04-07 01:22:55 -0500,"['/t/browsers', '/t/web']",MathML is a failed web standard,https://www.peterkrautzberger.org/0186/,/u/mjn,10
-1,2016-04-07 11:33:49 -0500,"['/t/go', '/t/scaling']",10M - goroutines,http://goroutines.com/10m,/u/stuartcarnie,4
-2,2016-04-07 07:53:16 -0500,"['/t/linux', '/t/release', '/t/windows']",Bash on Ubuntu on Windows – Download Now!,https://blogs.msdn.microsoft.com/commandline/2016/04/06/bash-on-ubuntu-on-windows-download-now-3/,/u/355E3B,5
-0,2016-04-07 14:33:04 -0500,"['/t/debugging', '/t/games']",TASVideos / Game Resources / Common Tricks,http://tasvideos.org/GameResources/CommonTricks.html,/u/JordiGH,3
-3,2016-04-06 20:45:04 -0500,['/t/security'],"Google reveals own security regime policy trusts no network, anywhere, ever",http://www.theregister.co.uk/2016/04/06/googles_beyondcorp_security_policy/,/u/adsouza,13
-0,2016-04-07 11:39:24 -0500,"['/t/pdf', '/t/erlang']",Making reliable distributed systems in the presence of software errors,http://erlang.org/download/armstrong_thesis_2003.pdf,/u/michaelochurch,4
-3,2016-04-06 22:31:32 -0500,"['/t/show', '/t/linux', '/t/windows']",Windows 10 Anniversary Insider Build Released: Bash on Ubuntu is Here,https://blogs.windows.com/windowsexperience/2016/04/06/announcing-windows-10-insider-preview-build-14316/,/u/kevinSuttle,13
-0,2016-04-07 15:15:09 -0500,"['/t/javascript', '/t/web']",Debouncing and Throttling Explained Through Examples,https://css-tricks.com/debouncing-throttling-explained-examples/,/u/flyingfisch,2
-0,2016-04-07 09:16:41 -0500,['/t/javascript'],Building realtime applications with CycleJS and RxJS - Pusher Blog,https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/,/u/jackfranklin,2
-0,2016-04-07 13:00:59 -0500,"['/t/programming', '/t/python', '/t/unix', '/t/windows']",bsplit - binary file split utility in Python,http://jugad2.blogspot.com/2016/04/bsplit-binary-file-split-utility-in.html,/u/vasudevram,1
-16,2016-04-06 10:53:01 -0500,"['/t/show', '/t/browsers', '/t/python', '/t/release', '/t/vim']","crowdfunding campaign for qutebrowser - a keyboard-focused, vim-like browser",https://www.indiegogo.com/projects/qutebrowser-a-keyboard-focused-vim-like-browser,/u/The-Compiler,12
+6,2016-04-07 15:32:09 -0500,/t/erlang,Why Erlang Matters,https://sameroom.io/blog/why-erlang-matters/,/u/355E3B,17
+21,2016-04-07 16:01:28 -0500,"/t/person,/t/practices,/t/programming,/t/security",Graphing Calculator Story,http://www.pacifict.com/Story/,/u/flyingfisch,12
+10,2016-04-07 09:29:20 -0500,/t/vim,Vis: a vim-like text editor,https://github.com/martanne/vis,/u/dwc,20
+16,2016-04-07 10:07:07 -0500,/t/linux,Pür Linux,https://github.com/PurLinux,/u/sevan,18
+10,2016-04-07 08:11:38 -0500,/t/browsers,The Chrome Distortion: how Chrome negatively alters our expectations.,http://blog.runspired.com/2016/03/25/the-chrome-distortion-chrome-alters-our-expectations-in-highly-negative-ways/,/u/stig,20
+0,2016-04-08 08:45:33 -0500,/t/privacy,Short Link Privacy – Browser to browser encryption using PGP and short links,http://slp.li/,/u/xsge,2
+0,2016-04-08 07:44:22 -0500,/t/javascript,ES6 module loading: More complicated than you think,https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/,/u/flyingfisch,2
+0,2016-04-08 05:42:46 -0500,"/t/show,/t/php,/t/visualization",Cauditor: PHP code analyzer,https://www.cauditor.org,/u/matthiasmullie,1
+4,2016-04-07 11:56:26 -0500,/t/visualization,NYC subway math,http://erikbern.com/2016/04/04/nyc-subway-math.html,/u/pushcx,10
+4,2016-04-07 20:02:41 -0500,/t/browsers,"Browsers, Innovators Dilemma, and Project Tofino",https://medium.com/project-tofino/browsers-innovators-dilemma-and-project-tofino-ef634c6164f0,/u/fitzgen,2
+0,2016-04-07 18:07:14 -0500,"/t/book,/t/compsci","Deep Learning (Free Online Book, MIT Press)",http://www.deeplearningbook.org/,/u/dwc,6
+0,2016-04-08 10:38:03 -0500,"/t/culture,/t/dotnet",Launch of the F# Speakers Program,http://foundation.fsharp.org/speakers_program_launch,/u/foxyjackfox,1
+20,2016-04-06 18:39:04 -0500,/t/practices,My Biggest Regret As A Programmer,http://thecodist.com/article/my-biggest-regret-as-a-programmer,/u/pushcx,25
+0,2016-04-07 15:12:59 -0500,"/t/lisp,/t/programming","Try Code: An online, interactive racket tutorial",http://trycode.io/,/u/zem,4
+6,2016-04-07 01:22:55 -0500,"/t/browsers,/t/web",MathML is a failed web standard,https://www.peterkrautzberger.org/0186/,/u/mjn,10
+1,2016-04-07 11:33:49 -0500,"/t/go,/t/scaling",10M - goroutines,http://goroutines.com/10m,/u/stuartcarnie,4
+2,2016-04-07 07:53:16 -0500,"/t/linux,/t/release,/t/windows",Bash on Ubuntu on Windows – Download Now!,https://blogs.msdn.microsoft.com/commandline/2016/04/06/bash-on-ubuntu-on-windows-download-now-3/,/u/355E3B,5
+0,2016-04-07 14:33:04 -0500,"/t/debugging,/t/games",TASVideos / Game Resources / Common Tricks,http://tasvideos.org/GameResources/CommonTricks.html,/u/JordiGH,3
+3,2016-04-06 20:45:04 -0500,/t/security,"Google reveals own security regime policy trusts no network, anywhere, ever",http://www.theregister.co.uk/2016/04/06/googles_beyondcorp_security_policy/,/u/adsouza,13
+0,2016-04-07 11:39:24 -0500,"/t/pdf,/t/erlang",Making reliable distributed systems in the presence of software errors,http://erlang.org/download/armstrong_thesis_2003.pdf,/u/michaelochurch,4
+3,2016-04-06 22:31:32 -0500,"/t/show,/t/linux,/t/windows",Windows 10 Anniversary Insider Build Released: Bash on Ubuntu is Here,https://blogs.windows.com/windowsexperience/2016/04/06/announcing-windows-10-insider-preview-build-14316/,/u/kevinSuttle,13
+0,2016-04-07 15:15:09 -0500,"/t/javascript,/t/web",Debouncing and Throttling Explained Through Examples,https://css-tricks.com/debouncing-throttling-explained-examples/,/u/flyingfisch,2
+0,2016-04-07 09:16:41 -0500,/t/javascript,Building realtime applications with CycleJS and RxJS - Pusher Blog,https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/,/u/jackfranklin,2
+0,2016-04-07 13:00:59 -0500,"/t/programming,/t/python,/t/unix,/t/windows",bsplit - binary file split utility in Python,http://jugad2.blogspot.com/2016/04/bsplit-binary-file-split-utility-in.html,/u/vasudevram,1
+16,2016-04-06 10:53:01 -0500,"/t/show,/t/browsers,/t/python,/t/release,/t/vim","crowdfunding campaign for qutebrowser - a keyboard-focused, vim-like browser",https://www.indiegogo.com/projects/qutebrowser-a-keyboard-focused-vim-like-browser,/u/The-Compiler,12

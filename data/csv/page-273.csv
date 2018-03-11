@@ -1,25 +1,25 @@
-0,2017-07-26 09:13:21 -0500,['/t/haskell'],Stack v1.5.0,https://github.com/commercialhaskell/stack/releases/tag/v1.5.0,/u/romanzolotarev,18
-1,2017-07-26 06:58:42 -0500,"['/t/mac', '/t/networking']","Rapid DHCP: Or, how do Macs get on the network so fast? (2011)",https://cafbit.com/post/rapid_dhcp_or_how_do/,/u/Flisk,19
-0,2017-07-26 17:24:02 -0500,"['/t/book', '/t/javascript']",The JavaScript Way,https://github.com/bpesquet/thejsway,/u/pushcx,6
-0,2017-07-26 18:19:42 -0500,['/t/hardware'],PowerPC notebook: First engineering task to be started soon,https://www.powerpc-notebook.org/2017/07/first-engineering-task-started-soon/,/u/sevan,5
-3,2017-07-26 07:42:05 -0500,['/t/security'],Passwords Evolved: Authentication Guidance for the Modern Era,https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/,/u/GeoffWozniak,12
-2,2017-07-26 08:05:41 -0500,['/t/haskell'],The Partial Options Monoid,https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67,/u/pushcx,12
-1,2017-07-26 11:56:33 -0500,"['/t/api', '/t/graphics']",kosua20/herebedragons -- Same scene built with 10 rendering APIs,https://github.com/kosua20/herebedragons,/u/friendlysock,7
-29,2017-07-25 14:05:36 -0500,"['/t/perl', '/t/programming']",Why I'm Learning Perl 6,http://www.evanmiller.org/why-im-learning-perl-6.html,/u/bbrown,41
-1,2017-07-26 09:11:18 -0500,"['/t/games', '/t/security']",RCE in Factorio,https://security.gerhardt.link/RCE-in-Factorio/,/u/zelivans,8
-0,2017-07-26 16:12:18 -0500,['/t/ai'],Technical Debt in Machine Learning,https://medium.com/towards-data-science/technical-debt-in-machine-learning-8b0fae938657,/u/pushcx,4
-30,2017-07-25 09:13:19 -0500,['/t/go'],Are We There Yet: The Go Generics Debate,http://bravenewgeek.com/are-we-there-yet-the-go-generics-debate/,/u/tylertreat,29
-0,2017-07-26 13:58:53 -0500,['/t/web'],Firefox Roadmap for Flash End-of-Life,https://blog.mozilla.org/futurereleases/2017/07/25/firefox-roadmap-flash-end-life/,/u/flyingfisch,4
-10,2017-07-26 08:06:30 -0500,"['/t/practices', '/t/vcs']",Plan Your Commits,https://dev.to/rpalo/plan-your-commits,/u/pushcx,4
-0,2017-07-26 09:54:14 -0500,"['/t/ai', '/t/visualization']",Data Science Digest - Issue #8,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-8-56450,/u/m31,3
-0,2017-07-26 08:05:25 -0500,['/t/databases'],Speeding up Postgres Index Scans with Index-Only Scans,http://malisper.me/speeding-up-postgres-index-scans-with-index-only-scans/,/u/pushcx,7
-2,2017-07-25 19:58:51 -0500,"['/t/freebsd', '/t/release']",FreeBSD 11.1-RELEASE Now Available,https://lists.freebsd.org/pipermail/freebsd-announce/2017-July/001798.html,/u/sevan,24
-0,2017-07-26 06:55:17 -0500,"['/t/haskell', '/t/release']",Announcing Eta v0.1 Developer Preview,https://medium.com/eta-programming-language/announcing-eta-0-1-developer-preview-65b6c1838c6,/u/puffnfresh,7
-1,2017-07-26 00:53:07 -0500,"['/t/devops', '/t/linux', '/t/programming']",Docker operations slowing down on AWS (this time it’s not DNS),https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/,/u/beyang,13
-1,2017-07-25 21:01:59 -0500,"['/t/performance', '/t/programming']",Typing With Pleasure,https://pavelfatin.com/typing-with-pleasure/,/u/andyc,16
-11,2017-07-25 07:54:54 -0500,"['/t/book', '/t/programming']",Books That Shape My Thinking,http://deliberate-software.com/page/books/,/u/steveshogren,19
-0,2017-07-26 11:35:32 -0500,['/t/javascript'],Deploying create-react-app to Azure As a Static Site,https://medium.com/burke-knows-words/deploying-create-react-app-as-a-static-site-on-azure-dd1330b215a5,/u/burkeholland,1
-0,2017-07-26 15:53:14 -0500,"['/t/release', '/t/vcs']",Apache Subversion 1.10.0-alpha3 Released,http://subversion.apache.org/news.html#news-20170726,/u/stsp,1
-8,2017-07-25 16:03:40 -0500,"['/t/cogsci', '/t/design', '/t/practices']",This Is How Your Fear and Outrage Are Being Sold for Profit,https://medium.com/the-mission/the-enemy-in-our-feeds-e86511488de,/u/friendlysock,12
-1,2017-07-26 08:05:11 -0500,['/t/ruby'],New method Kernel#yield_self (since Ruby 2.5.0),https://bogdanvlviv.github.io/posts/ruby/new-method-kernel-yield_self-since-ruby-2_5_0.html,/u/pushcx,2
-53,2017-07-24 18:34:00 -0500,"['/t/ask', '/t/practices']",Do you journal about your workday? Why? What tools do you use?,/s/j9dkuv/do_you_journal_about_your_workday_why_what,/u/colindean,56
+0,2017-07-26 09:13:21 -0500,/t/haskell,Stack v1.5.0,https://github.com/commercialhaskell/stack/releases/tag/v1.5.0,/u/romanzolotarev,18
+1,2017-07-26 06:58:42 -0500,"/t/mac,/t/networking","Rapid DHCP: Or, how do Macs get on the network so fast? (2011)",https://cafbit.com/post/rapid_dhcp_or_how_do/,/u/Flisk,19
+0,2017-07-26 17:24:02 -0500,"/t/book,/t/javascript",The JavaScript Way,https://github.com/bpesquet/thejsway,/u/pushcx,6
+0,2017-07-26 18:19:42 -0500,/t/hardware,PowerPC notebook: First engineering task to be started soon,https://www.powerpc-notebook.org/2017/07/first-engineering-task-started-soon/,/u/sevan,5
+3,2017-07-26 07:42:05 -0500,/t/security,Passwords Evolved: Authentication Guidance for the Modern Era,https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/,/u/GeoffWozniak,12
+2,2017-07-26 08:05:41 -0500,/t/haskell,The Partial Options Monoid,https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67,/u/pushcx,12
+1,2017-07-26 11:56:33 -0500,"/t/api,/t/graphics",kosua20/herebedragons -- Same scene built with 10 rendering APIs,https://github.com/kosua20/herebedragons,/u/friendlysock,7
+29,2017-07-25 14:05:36 -0500,"/t/perl,/t/programming",Why I'm Learning Perl 6,http://www.evanmiller.org/why-im-learning-perl-6.html,/u/bbrown,41
+1,2017-07-26 09:11:18 -0500,"/t/games,/t/security",RCE in Factorio,https://security.gerhardt.link/RCE-in-Factorio/,/u/zelivans,8
+0,2017-07-26 16:12:18 -0500,/t/ai,Technical Debt in Machine Learning,https://medium.com/towards-data-science/technical-debt-in-machine-learning-8b0fae938657,/u/pushcx,4
+30,2017-07-25 09:13:19 -0500,/t/go,Are We There Yet: The Go Generics Debate,http://bravenewgeek.com/are-we-there-yet-the-go-generics-debate/,/u/tylertreat,29
+0,2017-07-26 13:58:53 -0500,/t/web,Firefox Roadmap for Flash End-of-Life,https://blog.mozilla.org/futurereleases/2017/07/25/firefox-roadmap-flash-end-life/,/u/flyingfisch,4
+10,2017-07-26 08:06:30 -0500,"/t/practices,/t/vcs",Plan Your Commits,https://dev.to/rpalo/plan-your-commits,/u/pushcx,4
+0,2017-07-26 09:54:14 -0500,"/t/ai,/t/visualization",Data Science Digest - Issue #8,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-8-56450,/u/m31,3
+0,2017-07-26 08:05:25 -0500,/t/databases,Speeding up Postgres Index Scans with Index-Only Scans,http://malisper.me/speeding-up-postgres-index-scans-with-index-only-scans/,/u/pushcx,7
+2,2017-07-25 19:58:51 -0500,"/t/freebsd,/t/release",FreeBSD 11.1-RELEASE Now Available,https://lists.freebsd.org/pipermail/freebsd-announce/2017-July/001798.html,/u/sevan,24
+0,2017-07-26 06:55:17 -0500,"/t/haskell,/t/release",Announcing Eta v0.1 Developer Preview,https://medium.com/eta-programming-language/announcing-eta-0-1-developer-preview-65b6c1838c6,/u/puffnfresh,7
+1,2017-07-26 00:53:07 -0500,"/t/devops,/t/linux,/t/programming",Docker operations slowing down on AWS (this time it’s not DNS),https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/,/u/beyang,13
+1,2017-07-25 21:01:59 -0500,"/t/performance,/t/programming",Typing With Pleasure,https://pavelfatin.com/typing-with-pleasure/,/u/andyc,16
+11,2017-07-25 07:54:54 -0500,"/t/book,/t/programming",Books That Shape My Thinking,http://deliberate-software.com/page/books/,/u/steveshogren,19
+0,2017-07-26 11:35:32 -0500,/t/javascript,Deploying create-react-app to Azure As a Static Site,https://medium.com/burke-knows-words/deploying-create-react-app-as-a-static-site-on-azure-dd1330b215a5,/u/burkeholland,1
+0,2017-07-26 15:53:14 -0500,"/t/release,/t/vcs",Apache Subversion 1.10.0-alpha3 Released,http://subversion.apache.org/news.html#news-20170726,/u/stsp,1
+8,2017-07-25 16:03:40 -0500,"/t/cogsci,/t/design,/t/practices",This Is How Your Fear and Outrage Are Being Sold for Profit,https://medium.com/the-mission/the-enemy-in-our-feeds-e86511488de,/u/friendlysock,12
+1,2017-07-26 08:05:11 -0500,/t/ruby,New method Kernel#yield_self (since Ruby 2.5.0),https://bogdanvlviv.github.io/posts/ruby/new-method-kernel-yield_self-since-ruby-2_5_0.html,/u/pushcx,2
+53,2017-07-24 18:34:00 -0500,"/t/ask,/t/practices",Do you journal about your workday? Why? What tools do you use?,/s/j9dkuv/do_you_journal_about_your_workday_why_what,/u/colindean,56

@@ -1,25 +1,25 @@
-1,2014-04-01 09:46:13 -0500,"['/t/pdf', '/t/scaling']",The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines (2009),http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf,/u/SeanTAllen,4
-0,2014-04-01 20:59:38 -0500,['/t/practices'],Happy software developers solve problems better: psychological measurements in empirical software engineering,http://neverworkintheory.org/2014/05/01/happy-sw-devs-solve-problems-better.html,/u/rz,1
-2,2014-04-02 00:16:22 -0500,['/t/meta'],Does pushover integration works?,/s/pvtcn6/does_pushover_integration_works,/u/avsej,1
-0,2014-04-01 11:40:27 -0500,['/t/dotnet'],C# Brain Teasers (Interactive),http://ahuwanya.net/blog/post/C-Sharp-Brainteasers-Part-2,/u/sunny,2
-1,2014-04-01 01:04:45 -0500,"['/t/compsci', '/t/programming']",MCS locks and qspinlocks,http://lwn.net/Articles/590243/,/u/BruceM,7
-0,2014-03-31 13:13:54 -0500,['/t/programming'],Surveying various languages' string-search algorithms,http://nelhagedebugsshit.tumblr.com/post/81301884746/surveying-various-languages-string-search-algorithms,/u/antifuchs,27
-3,2014-03-31 23:35:41 -0500,"['/t/compsci', '/t/security']",A Convention for Human-Readable 128-bit Keys,http://tools.ietf.org/html/rfc1751,/u/zmcartor,4
-33,2014-03-31 21:39:46 -0500,['/t/ask'],What are you working on this week?,/s/lfewcp/what_are_you_working_on_this_week,/u/vjoel,17
-0,2014-04-01 10:59:22 -0500,['/t/security'],Dual EC DRBG (big picture view),http://projectbullrun.org/dual-ec/,/u/kyle,1
-0,2014-04-01 10:49:32 -0500,['/t/javascript'],Reinventing the Try/Catch Block,http://ryanmorr.com/reinventing-the-try-catch-block/,/u/jm,1
-1,2014-04-01 06:51:18 -0500,"['/t/programming', '/t/web']",Technology predicting sysadmin behavior,http://www.netwrix.com/predict,/u/flukywhizz,1
-0,2014-04-01 01:55:03 -0500,"['/t/slides', '/t/video', '/t/devops']",And It All Went Horribly Wrong: Debugging Production Systems,http://www.infoq.com/presentations/Debugging-Production-Systems,/u/apy,4
-23,2014-03-31 18:10:29 -0500,['/t/satire'],April Fools Day 2014,/s/0jhxzo/april_fools_day_2014,/u/conroy,19
-0,2014-04-01 06:03:24 -0500,"['/t/pdf', '/t/math', '/t/philosophy']",Gödel Without (Too Many) Tears,http://www.logicmatters.net/igt/godel-without-tears/,/u/andrewcooke,2
-0,2014-04-01 09:07:02 -0500,"['/t/book', '/t/javascript']",Backbone.js Patterns and Best Practices Ebook Giveaway,http://www.joezimjs.com/javascript/backbone-js-patterns-and-best-practices-ebook-giveaway/,/u/joezimjs,1
-0,2014-04-01 01:15:45 -0500,"['/t/compsci', '/t/programming']",Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors,http://www.cs.rochester.edu/research/synchronization/pseudocode/ss.html,/u/BruceM,3
-0,2014-03-31 05:58:19 -0500,"['/t/compsci', '/t/lisp']",Chicken internals: the garbage collector,http://www.more-magic.net/posts/internals-gc.html,/u/the-kenny,23
-2,2014-03-31 07:24:42 -0500,"['/t/event', '/t/programming']",Win 5000€ by creating a race car bot,https://helloworldopen.com/,/u/anton,13
-1,2014-04-01 08:59:29 -0500,"['/t/ask', '/t/freebsd', '/t/openbsd']",Does OpenBSD/FreeBSD support Minix?,http://www.newegg.com/Product/Product.aspx?Item=N82E16856178005,/u/cnst,1
-1,2014-03-31 08:06:27 -0500,"['/t/book', '/t/freebsd']",The Design and Implementation of the FreeBSD Operating System (2nd Edition),http://www.amazon.com/Design-Implementation-FreeBSD-Operating-Edition/dp/0321968972,/u/kev009,13
-4,2014-04-01 14:18:22 -0500,"['/t/c', '/t/culture', '/t/rant']",C++ and Climate Change,http://mempko.wordpress.com/2014/04/01/c-and-climate-change/,/u/mempko,1
-0,2014-04-01 09:30:26 -0500,"['/t/android', '/t/mobile']",How to build an Android app that displays live accelerometer data using a line chart control,http://blogs.telerik.com/blogs/14-04-01/how-to-build-an-android-app-that-displays-live-accelerometer-data-using-a-line-chart-control,/u/pakostina,0
-0,2014-03-31 21:14:05 -0500,"['/t/databases', '/t/release']",MariaDB 10 now available,https://blog.mariadb.org/the-mariadb-foundation-announces-general-availability-of-mariadb-10/,/u/jcs,2
-1,2014-03-31 11:49:28 -0500,"['/t/privacy', '/t/security']",How Turtl has no idea when you're sharing copyrighted stuff,http://turtlapp.tumblr.com/post/81222024691/how-turtl-has-no-idea-when-youre-sharing-copyrighted,/u/journeysquid,5
-1,2014-03-31 11:50:16 -0500,"['/t/compilers', '/t/programming', '/t/reversing']",You Got Your Web Browser in my Compiler!,http://randomascii.wordpress.com/2014/03/31/you-got-your-web-browser-in-my-compiler/,/u/journeysquid,4
+1,2014-04-01 09:46:13 -0500,"/t/pdf,/t/scaling",The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines (2009),http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf,/u/SeanTAllen,4
+0,2014-04-01 20:59:38 -0500,/t/practices,Happy software developers solve problems better: psychological measurements in empirical software engineering,http://neverworkintheory.org/2014/05/01/happy-sw-devs-solve-problems-better.html,/u/rz,1
+2,2014-04-02 00:16:22 -0500,/t/meta,Does pushover integration works?,/s/pvtcn6/does_pushover_integration_works,/u/avsej,1
+0,2014-04-01 11:40:27 -0500,/t/dotnet,C# Brain Teasers (Interactive),http://ahuwanya.net/blog/post/C-Sharp-Brainteasers-Part-2,/u/sunny,2
+1,2014-04-01 01:04:45 -0500,"/t/compsci,/t/programming",MCS locks and qspinlocks,http://lwn.net/Articles/590243/,/u/BruceM,7
+0,2014-03-31 13:13:54 -0500,/t/programming,Surveying various languages' string-search algorithms,http://nelhagedebugsshit.tumblr.com/post/81301884746/surveying-various-languages-string-search-algorithms,/u/antifuchs,27
+3,2014-03-31 23:35:41 -0500,"/t/compsci,/t/security",A Convention for Human-Readable 128-bit Keys,http://tools.ietf.org/html/rfc1751,/u/zmcartor,4
+33,2014-03-31 21:39:46 -0500,/t/ask,What are you working on this week?,/s/lfewcp/what_are_you_working_on_this_week,/u/vjoel,17
+0,2014-04-01 10:59:22 -0500,/t/security,Dual EC DRBG (big picture view),http://projectbullrun.org/dual-ec/,/u/kyle,1
+0,2014-04-01 10:49:32 -0500,/t/javascript,Reinventing the Try/Catch Block,http://ryanmorr.com/reinventing-the-try-catch-block/,/u/jm,1
+1,2014-04-01 06:51:18 -0500,"/t/programming,/t/web",Technology predicting sysadmin behavior,http://www.netwrix.com/predict,/u/flukywhizz,1
+0,2014-04-01 01:55:03 -0500,"/t/slides,/t/video,/t/devops",And It All Went Horribly Wrong: Debugging Production Systems,http://www.infoq.com/presentations/Debugging-Production-Systems,/u/apy,4
+23,2014-03-31 18:10:29 -0500,/t/satire,April Fools Day 2014,/s/0jhxzo/april_fools_day_2014,/u/conroy,19
+0,2014-04-01 06:03:24 -0500,"/t/pdf,/t/math,/t/philosophy",Gödel Without (Too Many) Tears,http://www.logicmatters.net/igt/godel-without-tears/,/u/andrewcooke,2
+0,2014-04-01 09:07:02 -0500,"/t/book,/t/javascript",Backbone.js Patterns and Best Practices Ebook Giveaway,http://www.joezimjs.com/javascript/backbone-js-patterns-and-best-practices-ebook-giveaway/,/u/joezimjs,1
+0,2014-04-01 01:15:45 -0500,"/t/compsci,/t/programming",Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors,http://www.cs.rochester.edu/research/synchronization/pseudocode/ss.html,/u/BruceM,3
+0,2014-03-31 05:58:19 -0500,"/t/compsci,/t/lisp",Chicken internals: the garbage collector,http://www.more-magic.net/posts/internals-gc.html,/u/the-kenny,23
+2,2014-03-31 07:24:42 -0500,"/t/event,/t/programming",Win 5000€ by creating a race car bot,https://helloworldopen.com/,/u/anton,13
+1,2014-04-01 08:59:29 -0500,"/t/ask,/t/freebsd,/t/openbsd",Does OpenBSD/FreeBSD support Minix?,http://www.newegg.com/Product/Product.aspx?Item=N82E16856178005,/u/cnst,1
+1,2014-03-31 08:06:27 -0500,"/t/book,/t/freebsd",The Design and Implementation of the FreeBSD Operating System (2nd Edition),http://www.amazon.com/Design-Implementation-FreeBSD-Operating-Edition/dp/0321968972,/u/kev009,13
+4,2014-04-01 14:18:22 -0500,"/t/c,/t/culture,/t/rant",C++ and Climate Change,http://mempko.wordpress.com/2014/04/01/c-and-climate-change/,/u/mempko,1
+0,2014-04-01 09:30:26 -0500,"/t/android,/t/mobile",How to build an Android app that displays live accelerometer data using a line chart control,http://blogs.telerik.com/blogs/14-04-01/how-to-build-an-android-app-that-displays-live-accelerometer-data-using-a-line-chart-control,/u/pakostina,0
+0,2014-03-31 21:14:05 -0500,"/t/databases,/t/release",MariaDB 10 now available,https://blog.mariadb.org/the-mariadb-foundation-announces-general-availability-of-mariadb-10/,/u/jcs,2
+1,2014-03-31 11:49:28 -0500,"/t/privacy,/t/security",How Turtl has no idea when you're sharing copyrighted stuff,http://turtlapp.tumblr.com/post/81222024691/how-turtl-has-no-idea-when-youre-sharing-copyrighted,/u/journeysquid,5
+1,2014-03-31 11:50:16 -0500,"/t/compilers,/t/programming,/t/reversing",You Got Your Web Browser in my Compiler!,http://randomascii.wordpress.com/2014/03/31/you-got-your-web-browser-in-my-compiler/,/u/journeysquid,4

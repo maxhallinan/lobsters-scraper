@@ -1,25 +1,25 @@
-0,2015-10-12 10:11:23 -0500,"['/t/pdf', '/t/hardware', '/t/security']",Learning from the Enemy: The GUNMAN Project,https://www.nsa.gov/about/_files/cryptologic_heritage/center_crypt_history/publications/learning_from_the_enemy_the_gunman_project.pdf,/u/pushcx,4
-0,2015-10-12 09:32:04 -0500,"['/t/audio', '/t/practices']",Feature Runways - Developer Tea,http://spec.fm/podcasts/developer-tea/18126,/u/jcutrell,2
-0,2015-10-12 10:30:13 -0500,['/t/programming'],Wholemeal -> Imperative ONLY IF necessary,http://sam-serpoosh.github.io/wholemeal-to-imperative/,/u/samser,3
-0,2015-10-12 06:02:16 -0500,['/t/javascript'],The state of front end tooling,http://javascriptplayground.com/blog/2015/10/state-of-frontend-tooling/,/u/jackfranklin,2
-0,2015-10-12 02:13:05 -0500,['/t/cogsci'],Effective Learning Strategies for Programmers,http://akaptur.github.com/blog/2015/10/10/effective-learning-strategies-for-programmers/,/u/zem,6
-4,2015-10-12 00:26:31 -0500,['/t/culture'],The Little Printf,http://ferd.ca/the-little-printf.html,/u/pushcx,14
-1,2015-10-11 16:39:54 -0500,['/t/hardware'],Assist Threads,http://arrdem.com/2015/10/10/assist_threads/,/u/arrdem,7
-0,2015-10-12 10:17:31 -0500,"['/t/slides', '/t/video', '/t/swift']",Cast-Free Arithmetic in Swift,https://realm.io/news/richard-fox-casting-swift-2/,/u/pushcx,1
-3,2015-10-11 12:29:12 -0500,['/t/programming'],LaTeX Resume Templates,https://www.rpi.edu/dept/arc/training/latex/resumes/,/u/stip,14
-9,2015-10-11 04:33:11 -0500,['/t/python'],Python wats,https://github.com/cosmologicon/pywat,/u/av,20
-0,2015-10-12 08:13:32 -0500,"['/t/javascript', '/t/web']","16 Ways to Search, Find and Edit with Chrome DevTools",http://developer.telerik.com/featured/16-ways-to-search-find-and-edit-with-chrome-devtools/,/u/remotesynth,1
-6,2015-10-11 07:59:58 -0500,"['/t/c', '/t/compsci']",Technical interviews and the Towers of Hanoi,http://blog.tjd.phlegethon.org/post/107154349862/technical-interviews-and-the-towers-of-hanoi,/u/goncalo,12
-0,2015-10-11 14:28:52 -0500,"['/t/law', '/t/science']",'Great Pause' Among Prosecutors As DNA Proves Fallible,http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible,/u/pushcx,11
-0,2015-10-11 13:24:12 -0500,"['/t/netbsd', '/t/person', '/t/unix']",NetBSD-7.0 developer interview: Pierre Pronchery,http://beastie.pl/deweloperzy-netbsd-7-0-pierre-pronchery/,/u/mulander,11
-0,2015-10-12 08:03:22 -0500,"['/t/culture', '/t/web']","Google rewarded the guy who bought Google.com, and he donated it all to charity",http://finance.yahoo.com/news/google-rewarded-guy-bought-google-233744421.html,/u/flyingfisch,2
-1,2015-10-11 13:55:27 -0500,['/t/networking'],How to Download a List of All Registered Domain Names,http://jordan-wright.com/blog/2015/09/30/how-to-download-a-list-of-all-registered-domain-names/,/u/pushcx,9
-2,2015-10-11 21:07:11 -0500,"['/t/slides', '/t/video', '/t/culture']",Office Politics for the Thin-Skinned Developer (2013),http://blog.testdouble.com/posts/2013-08-24-office-politics.html,/u/michaelochurch,6
-0,2015-10-11 13:58:28 -0500,"['/t/law', '/t/practices']",Did I Just Give My #Permission? The Hashtag as Consent,http://blog.photoshelter.com/2015/09/did-i-just-give-my-permission-the-hashtag-as-consent/,/u/pushcx,7
-0,2015-10-11 19:54:19 -0500,"['/t/networking', '/t/privacy']",The NSA and EFF Agree on One Thing: How the NSA's Internet Spying Works,https://www.eff.org/deeplinks/2015/09/the-nsa-and-eff-agree,/u/journeysquid,3
-2,2015-10-11 10:45:56 -0500,"['/t/compilers', '/t/javascript', '/t/programming']",NodeJS : A quick optimization advice,https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e,/u/pushcx,6
-16,2015-10-10 20:15:23 -0500,['/t/show'],sll - strip long lines from grep output,https://github.com/kevinburke/sll,/u/kb,11
-0,2015-10-11 14:26:41 -0500,"['/t/browsers', '/t/programming']",Adblockers as the reason of InvalidAccessError,https://wwwtech.de/articles/2015/oct/adblockers-as-the-reason-of-invalidaccesserror,/u/pushcx,4
-7,2015-10-10 22:30:26 -0500,['/t/meta'],Bring back the Lobsters interviews!,/s/rdrbwn/bring_back_lobsters_interviews,/u/journeysquid,16
-4,2015-10-10 19:18:36 -0500,['/t/math'],Who Can Name the Bigger Number?,http://www.scottaaronson.com/writings/bignumbers.html,/u/rubenbarroso,16
-0,2015-10-11 08:15:29 -0500,['/t/programming'],*-Oriented Programming,http://www.sicpers.info/2015/10/oriented-programming/,/u/stig,5
+0,2015-10-12 10:11:23 -0500,"/t/pdf,/t/hardware,/t/security",Learning from the Enemy: The GUNMAN Project,https://www.nsa.gov/about/_files/cryptologic_heritage/center_crypt_history/publications/learning_from_the_enemy_the_gunman_project.pdf,/u/pushcx,4
+0,2015-10-12 09:32:04 -0500,"/t/audio,/t/practices",Feature Runways - Developer Tea,http://spec.fm/podcasts/developer-tea/18126,/u/jcutrell,2
+0,2015-10-12 10:30:13 -0500,/t/programming,Wholemeal -> Imperative ONLY IF necessary,http://sam-serpoosh.github.io/wholemeal-to-imperative/,/u/samser,3
+0,2015-10-12 06:02:16 -0500,/t/javascript,The state of front end tooling,http://javascriptplayground.com/blog/2015/10/state-of-frontend-tooling/,/u/jackfranklin,2
+0,2015-10-12 02:13:05 -0500,/t/cogsci,Effective Learning Strategies for Programmers,http://akaptur.github.com/blog/2015/10/10/effective-learning-strategies-for-programmers/,/u/zem,6
+4,2015-10-12 00:26:31 -0500,/t/culture,The Little Printf,http://ferd.ca/the-little-printf.html,/u/pushcx,14
+1,2015-10-11 16:39:54 -0500,/t/hardware,Assist Threads,http://arrdem.com/2015/10/10/assist_threads/,/u/arrdem,7
+0,2015-10-12 10:17:31 -0500,"/t/slides,/t/video,/t/swift",Cast-Free Arithmetic in Swift,https://realm.io/news/richard-fox-casting-swift-2/,/u/pushcx,1
+3,2015-10-11 12:29:12 -0500,/t/programming,LaTeX Resume Templates,https://www.rpi.edu/dept/arc/training/latex/resumes/,/u/stip,14
+9,2015-10-11 04:33:11 -0500,/t/python,Python wats,https://github.com/cosmologicon/pywat,/u/av,20
+0,2015-10-12 08:13:32 -0500,"/t/javascript,/t/web","16 Ways to Search, Find and Edit with Chrome DevTools",http://developer.telerik.com/featured/16-ways-to-search-find-and-edit-with-chrome-devtools/,/u/remotesynth,1
+6,2015-10-11 07:59:58 -0500,"/t/c,/t/compsci",Technical interviews and the Towers of Hanoi,http://blog.tjd.phlegethon.org/post/107154349862/technical-interviews-and-the-towers-of-hanoi,/u/goncalo,12
+0,2015-10-11 14:28:52 -0500,"/t/law,/t/science",'Great Pause' Among Prosecutors As DNA Proves Fallible,http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible,/u/pushcx,11
+0,2015-10-11 13:24:12 -0500,"/t/netbsd,/t/person,/t/unix",NetBSD-7.0 developer interview: Pierre Pronchery,http://beastie.pl/deweloperzy-netbsd-7-0-pierre-pronchery/,/u/mulander,11
+0,2015-10-12 08:03:22 -0500,"/t/culture,/t/web","Google rewarded the guy who bought Google.com, and he donated it all to charity",http://finance.yahoo.com/news/google-rewarded-guy-bought-google-233744421.html,/u/flyingfisch,2
+1,2015-10-11 13:55:27 -0500,/t/networking,How to Download a List of All Registered Domain Names,http://jordan-wright.com/blog/2015/09/30/how-to-download-a-list-of-all-registered-domain-names/,/u/pushcx,9
+2,2015-10-11 21:07:11 -0500,"/t/slides,/t/video,/t/culture",Office Politics for the Thin-Skinned Developer (2013),http://blog.testdouble.com/posts/2013-08-24-office-politics.html,/u/michaelochurch,6
+0,2015-10-11 13:58:28 -0500,"/t/law,/t/practices",Did I Just Give My #Permission? The Hashtag as Consent,http://blog.photoshelter.com/2015/09/did-i-just-give-my-permission-the-hashtag-as-consent/,/u/pushcx,7
+0,2015-10-11 19:54:19 -0500,"/t/networking,/t/privacy",The NSA and EFF Agree on One Thing: How the NSA's Internet Spying Works,https://www.eff.org/deeplinks/2015/09/the-nsa-and-eff-agree,/u/journeysquid,3
+2,2015-10-11 10:45:56 -0500,"/t/compilers,/t/javascript,/t/programming",NodeJS : A quick optimization advice,https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e,/u/pushcx,6
+16,2015-10-10 20:15:23 -0500,/t/show,sll - strip long lines from grep output,https://github.com/kevinburke/sll,/u/kb,11
+0,2015-10-11 14:26:41 -0500,"/t/browsers,/t/programming",Adblockers as the reason of InvalidAccessError,https://wwwtech.de/articles/2015/oct/adblockers-as-the-reason-of-invalidaccesserror,/u/pushcx,4
+7,2015-10-10 22:30:26 -0500,/t/meta,Bring back the Lobsters interviews!,/s/rdrbwn/bring_back_lobsters_interviews,/u/journeysquid,16
+4,2015-10-10 19:18:36 -0500,/t/math,Who Can Name the Bigger Number?,http://www.scottaaronson.com/writings/bignumbers.html,/u/rubenbarroso,16
+0,2015-10-11 08:15:29 -0500,/t/programming,*-Oriented Programming,http://www.sicpers.info/2015/10/oriented-programming/,/u/stig,5

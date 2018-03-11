@@ -1,25 +1,25 @@
-0,2015-10-16 12:07:19 -0500,"['/t/graphics', '/t/programming']",Programmers Design Differently: Why I Built a CSS Plugin for Sketch 3,https://medium.com/@punksomething/programmers-design-differently-why-i-built-a-css-plugin-for-sketch-3-52a1246305a4,/u/flyingfisch,2
-22,2015-10-15 14:42:45 -0500,['/t/hardware'],Ultimate Hacking Keyboard,https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard,/u/mostly-harmless,13
-30,2015-10-14 21:13:11 -0500,['/t/announce'],Suggesting story tag and title changes,/s/z2dczs/suggesting_story_tag_title_changes,/u/jcs,45
-10,2015-10-15 20:07:23 -0500,['/t/visualization'],How to know if where you live is “up and coming”: fried chicken vs. coffee shops,https://medium.com/@Sam_Floy/how-to-know-if-where-you-live-is-up-and-coming-fried-chicken-vs-coffee-shops-546080119f98,/u/pushcx,4
-0,2015-10-16 16:04:51 -0500,"['/t/culture', '/t/practices']",The hero culture,http://elviovicosa.com/blog/2015/10/16/no-heroes-culture.html,/u/friendlysock,1
-1,2015-10-15 15:41:51 -0500,['/t/games'],"From SimCity to, well, SimCity: The history of city-building games",http://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/,/u/mjn,10
-15,2015-10-14 21:36:34 -0500,['/t/security'],How is NSA breaking so much crypto?,https://freedom-to-tinker.com/blog/haldermanheninger/how-is-nsa-breaking-so-much-crypto/,/u/trousers,45
-0,2015-10-15 18:29:00 -0500,['/t/law'],There's No DRM in JPEG—Let's Keep It That Way,https://www.eff.org/deeplinks/2015/10/theres-no-drm-jpeg-lets-keep-it-way,/u/austinz,8
-0,2015-10-15 15:37:10 -0500,"['/t/elixir', '/t/programming']",Flirting with Elixir,http://eng.localytics.com/flirting-with-elixir/,/u/aredridel,11
-0,2015-10-15 13:25:37 -0500,"['/t/art', '/t/programming']","Neural Artist, twitter bot",https://shunyata.github.io/2015/10/15/neural-artist/,/u/empty,7
-0,2015-10-15 15:51:30 -0500,"['/t/netbsd', '/t/person', '/t/unix']",NetBSD-7.0 developer interview: Mateusz Kocielski,http://beastie.pl/deweloperzy-netbsd-7-0-mateusz-kocielski/,/u/mulander,8
-20,2015-10-14 22:28:34 -0500,"['/t/law', '/t/practices']",Volkswagen,http://blog.cleancoder.com/uncle-bob/2015/10/14/VW.html,/u/pushcx,26
-5,2015-10-15 08:07:04 -0500,['/t/go'],Golang Tripping Hazards,https://github.com/monsooncommerce/golang-tripping-hazards,/u/journeysquid,9
-0,2015-10-16 00:26:00 -0500,"['/t/practices', '/t/web']",The Platformization of the Web,http://sms.sagepub.com/content/1/2/2056305115603080.full,/u/mjn,2
-0,2015-10-15 08:43:52 -0500,"['/t/art', '/t/compsci']",Musical Genres Classified Using the Entropy of MIDI Files,http://www.technologyreview.com/view/542506/musical-genres-classified-using-the-entropy-of-midi-files/,/u/joshuacc,7
-0,2015-10-15 14:27:15 -0500,"['/t/video', '/t/devops']",MirageOS: Getting Started Screencasts,https://mirage.io/blog/getting-started-screencasts,/u/pushcx,6
-0,2015-10-15 11:56:42 -0500,['/t/event'],Clojure Remote launches. Early bird tickets available.,http://clojureremote.com,/u/rkneufeld,4
-0,2015-10-15 11:46:15 -0500,"['/t/databases', '/t/programming', '/t/scaling']",Optimizing Sidekiq,http://www.mikeperham.com/2015/10/14/optimizing-sidekiq,/u/pushcx,7
-0,2015-10-15 15:32:02 -0500,['/t/go'],Learn Go - a beginners guide to Go,https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821,/u/nathany,2
-13,2015-10-14 21:12:42 -0500,"['/t/browsers', '/t/security']",Chrome drops its HTTP-HTTPS “mixed content” warning,http://arstechnica.com/information-technology/2015/10/chrome-finally-kills-off-the-http-https-mixed-content-warning/,/u/pushcx,17
-1,2015-10-15 12:15:08 -0500,"['/t/law', '/t/privacy']","GCHQ can monitor MPs' communications, court rules",http://www.theguardian.com/world/2015/oct/14/gchq-monitor-communications-mps-peers-tribunal-wilson-doctrine,/u/pushcx,3
-10,2015-10-14 19:03:43 -0500,['/t/science'],Astronomers may have found giant alien 'megastructures' orbiting star near the Milky Way,http://www.independent.co.uk/news/world/forget-water-on-mars-astronomers-may-have-just-found-giant-alien-megastructures-orbiting-a-star-near-a6693886.html,/u/joe_the_user,14
-0,2015-10-15 15:24:49 -0500,['/t/science'],Oskarshamn - Nuclear Waste Facility,http://photodujour.net/nuclear_waste_facility/post.html,/u/apy,1
-0,2015-10-15 09:21:10 -0500,"['/t/design', '/t/web']",CSS Architecture,http://philipwalton.com/articles/css-architecture/,/u/joshuacc,5
-0,2015-10-14 21:56:22 -0500,['/t/programming'],The missing method: Deleting from Okasaki's red-black trees,http://matt.might.net/articles/red-black-delete/,/u/chadski,17
+0,2015-10-16 12:07:19 -0500,"/t/graphics,/t/programming",Programmers Design Differently: Why I Built a CSS Plugin for Sketch 3,https://medium.com/@punksomething/programmers-design-differently-why-i-built-a-css-plugin-for-sketch-3-52a1246305a4,/u/flyingfisch,2
+22,2015-10-15 14:42:45 -0500,/t/hardware,Ultimate Hacking Keyboard,https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard,/u/mostly-harmless,13
+30,2015-10-14 21:13:11 -0500,/t/announce,Suggesting story tag and title changes,/s/z2dczs/suggesting_story_tag_title_changes,/u/jcs,45
+10,2015-10-15 20:07:23 -0500,/t/visualization,How to know if where you live is “up and coming”: fried chicken vs. coffee shops,https://medium.com/@Sam_Floy/how-to-know-if-where-you-live-is-up-and-coming-fried-chicken-vs-coffee-shops-546080119f98,/u/pushcx,4
+0,2015-10-16 16:04:51 -0500,"/t/culture,/t/practices",The hero culture,http://elviovicosa.com/blog/2015/10/16/no-heroes-culture.html,/u/friendlysock,1
+1,2015-10-15 15:41:51 -0500,/t/games,"From SimCity to, well, SimCity: The history of city-building games",http://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/,/u/mjn,10
+15,2015-10-14 21:36:34 -0500,/t/security,How is NSA breaking so much crypto?,https://freedom-to-tinker.com/blog/haldermanheninger/how-is-nsa-breaking-so-much-crypto/,/u/trousers,45
+0,2015-10-15 18:29:00 -0500,/t/law,There's No DRM in JPEG—Let's Keep It That Way,https://www.eff.org/deeplinks/2015/10/theres-no-drm-jpeg-lets-keep-it-way,/u/austinz,8
+0,2015-10-15 15:37:10 -0500,"/t/elixir,/t/programming",Flirting with Elixir,http://eng.localytics.com/flirting-with-elixir/,/u/aredridel,11
+0,2015-10-15 13:25:37 -0500,"/t/art,/t/programming","Neural Artist, twitter bot",https://shunyata.github.io/2015/10/15/neural-artist/,/u/empty,7
+0,2015-10-15 15:51:30 -0500,"/t/netbsd,/t/person,/t/unix",NetBSD-7.0 developer interview: Mateusz Kocielski,http://beastie.pl/deweloperzy-netbsd-7-0-mateusz-kocielski/,/u/mulander,8
+20,2015-10-14 22:28:34 -0500,"/t/law,/t/practices",Volkswagen,http://blog.cleancoder.com/uncle-bob/2015/10/14/VW.html,/u/pushcx,26
+5,2015-10-15 08:07:04 -0500,/t/go,Golang Tripping Hazards,https://github.com/monsooncommerce/golang-tripping-hazards,/u/journeysquid,9
+0,2015-10-16 00:26:00 -0500,"/t/practices,/t/web",The Platformization of the Web,http://sms.sagepub.com/content/1/2/2056305115603080.full,/u/mjn,2
+0,2015-10-15 08:43:52 -0500,"/t/art,/t/compsci",Musical Genres Classified Using the Entropy of MIDI Files,http://www.technologyreview.com/view/542506/musical-genres-classified-using-the-entropy-of-midi-files/,/u/joshuacc,7
+0,2015-10-15 14:27:15 -0500,"/t/video,/t/devops",MirageOS: Getting Started Screencasts,https://mirage.io/blog/getting-started-screencasts,/u/pushcx,6
+0,2015-10-15 11:56:42 -0500,/t/event,Clojure Remote launches. Early bird tickets available.,http://clojureremote.com,/u/rkneufeld,4
+0,2015-10-15 11:46:15 -0500,"/t/databases,/t/programming,/t/scaling",Optimizing Sidekiq,http://www.mikeperham.com/2015/10/14/optimizing-sidekiq,/u/pushcx,7
+0,2015-10-15 15:32:02 -0500,/t/go,Learn Go - a beginners guide to Go,https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821,/u/nathany,2
+13,2015-10-14 21:12:42 -0500,"/t/browsers,/t/security",Chrome drops its HTTP-HTTPS “mixed content” warning,http://arstechnica.com/information-technology/2015/10/chrome-finally-kills-off-the-http-https-mixed-content-warning/,/u/pushcx,17
+1,2015-10-15 12:15:08 -0500,"/t/law,/t/privacy","GCHQ can monitor MPs' communications, court rules",http://www.theguardian.com/world/2015/oct/14/gchq-monitor-communications-mps-peers-tribunal-wilson-doctrine,/u/pushcx,3
+10,2015-10-14 19:03:43 -0500,/t/science,Astronomers may have found giant alien 'megastructures' orbiting star near the Milky Way,http://www.independent.co.uk/news/world/forget-water-on-mars-astronomers-may-have-just-found-giant-alien-megastructures-orbiting-a-star-near-a6693886.html,/u/joe_the_user,14
+0,2015-10-15 15:24:49 -0500,/t/science,Oskarshamn - Nuclear Waste Facility,http://photodujour.net/nuclear_waste_facility/post.html,/u/apy,1
+0,2015-10-15 09:21:10 -0500,"/t/design,/t/web",CSS Architecture,http://philipwalton.com/articles/css-architecture/,/u/joshuacc,5
+0,2015-10-14 21:56:22 -0500,/t/programming,The missing method: Deleting from Okasaki's red-black trees,http://matt.might.net/articles/red-black-delete/,/u/chadski,17

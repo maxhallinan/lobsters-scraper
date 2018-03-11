@@ -1,25 +1,25 @@
-8,2018-03-02 07:12:13 -0600,['/t/programming'],Programming as craft,https://techcrunch.com/2018/02/24/programming-as-craft/,/u/GeoffWozniak,7
-4,2018-03-02 01:49:57 -0600,['/t/practices'],How the Godfather of Cyberpunk would write software,https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7,/u/leeg,14
-1,2018-03-02 17:06:06 -0600,['/t/science'],Synthetic electromagnetic knot in a three-dimensional skyrmion,http://advances.sciencemag.org/content/4/3/eaao3820,/u/adsouza,2
-3,2018-03-02 11:22:01 -0600,"['/t/hardware', '/t/release']",Google Clips is a camera that uses machine learning to capture images and video,https://www.blog.google/topics/hardware/capture-more-your-favorite-moments-google-clips/,/u/gerikson,2
-0,2018-03-01 18:27:14 -0600,"['/t/video', '/t/performance', '/t/programming', '/t/ruby']",Julia Evans on building a Ruby profiler,https://www.recurse.com/events/localhost-julia-evans,/u/jamesjporter,34
-4,2018-03-01 10:44:23 -0600,['/t/security'],"23,000 HTTPS certificates axed after CEO emails private keys",https://arstechnica.com/information-technology/2018/03/23000-https-certificates-axed-after-ceo-e-mails-private-keys/,/u/adsouza,44
-0,2018-03-02 10:15:50 -0600,"['/t/practices', '/t/programming']","A Few Thoughts on Ben Northrop's ""Reflections of an 'Old' Programmer""",https://ecc-comp.blogspot.com/2016/10/a-few-thoughts-on-ben-northrops.html,/u/yumaikas,5
-0,2018-03-02 13:55:37 -0600,"['/t/assembly', '/t/reversing', '/t/security', '/t/virtualization']","FinFisher exposed: A researcher’s tale of defeating traps, tricks, and complex virtual machines",https://cloudblogs.microsoft.com/microsoftsecure/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/,/u/pushcx,3
-7,2018-03-01 10:59:12 -0600,['/t/networking'],GitHub Survived the Biggest DDoS Attack Ever Recorded,https://www.wired.com/story/github-ddos-memcached/,/u/don,32
-0,2018-03-01 23:28:05 -0600,"['/t/ai', '/t/historical']",Remember the winter,https://macwright.org/2018/02/25/remember-the-winter.html,/u/friendlysock,14
-1,2018-03-02 11:59:39 -0600,"['/t/freebsd', '/t/linux', '/t/mac']",Mac OS versus FreeBSD: A Comparative Evaluation,https://doi.org/10.1109/MC.2018.1451648,/u/trn,3
-3,2018-03-01 11:22:21 -0600,['/t/go'],A Gopher's Reading List,https://github.com/enocom/gopher-reading-list,/u/enocom,14
-1,2018-03-01 21:28:09 -0600,['/t/programming'],w-shingling finds similarities in 6 Legend of Zelda Game Boy games,https://ecc-comp.blogspot.com/2018/03/w-shingling-finds-similarities-in-6.html,/u/indirection,11
-0,2018-03-02 11:54:56 -0600,"['/t/programming', '/t/satire']",Mimic [ab]using Unicode to create tragedy,https://github.com/reinderien/mimic,/u/yumaikas,4
-0,2018-03-02 09:11:50 -0600,"['/t/formalmethods', '/t/programming']",From Verification to Implementation: A Model Translation Tool and Pacemaker Case Study (2012),https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://duckduckgo.com/&httpsredir=1&article=1063&context=mlab_papers,/u/nickpsecurity,2
-5,2018-03-01 11:23:29 -0600,"['/t/video', '/t/freebsd', '/t/historical', '/t/unix', '/t/vcs']",Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD,https://fosdem.org/2018/schedule/event/unix_evolution/,/u/sevan,14
-0,2018-03-01 19:39:30 -0600,"['/t/crypto', '/t/historical']",Keep the Bombe on the Bletchley Park Estate,http://www.crowdfunder.co.uk/new-display,/u/grahamc,8
-25,2018-03-01 06:08:59 -0600,['/t/culture'],What Happens to Us Does Not Happen to Most of You,https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/,/u/adsouza,67
-0,2018-03-02 09:08:29 -0600,"['/t/pdf', '/t/compilers', '/t/hardware', '/t/programming']",FPRESSO: Enabling Transistor-Level Exploration of FPGA Architectures (2016),https://lap.epfl.ch/files/content/sites/lap/files/shared/publications/ZgheibFeb16_FpressoEnablingExpressTransistorLevelExplorationOfFpgaArchitectures_FPGA16.pdf,/u/nickpsecurity,1
-0,2018-03-01 22:01:42 -0600,"['/t/databases', '/t/haskell']","Queryparser, an Open Source Tool for Parsing and Analyzing SQL",https://eng.uber.com/queryparser/,/u/sanxiyn,5
-0,2018-03-02 07:55:30 -0600,['/t/javascript'],Ultimate React Component Patterns with Typescript 2.8,https://medium.com/@martin_hotell/ultimate-react-component-patterns-with-typescript-2-8-82990c516935,/u/joshuacc,1
-3,2018-03-01 14:21:38 -0600,"['/t/ai', '/t/python']",Running your Coursera (and any other) Jupyter notebook locally,https://www.zerotosingularity.com/posts/coursera-jupyter-locally/,/u/zerotosingularity,4
-0,2018-03-02 07:43:51 -0600,['/t/javascript'],Evolving Patterns in React,https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f,/u/pushcx,1
-0,2018-03-01 21:28:12 -0600,['/t/openbsd'],a2k18 Hackathon Report: Ken Westerback on dhclient and more,http://undeadly.org/cgi?action=article;sid=20180302002131,/u/calvin,4
-24,2018-02-28 23:51:13 -0600,"['/t/programming', '/t/unix']",A potential way to have spaces in filenames and not break the Unix command line,http://boston.conman.org/2018/02/28.2,/u/spc476,10
+8,2018-03-02 07:12:13 -0600,/t/programming,Programming as craft,https://techcrunch.com/2018/02/24/programming-as-craft/,/u/GeoffWozniak,7
+4,2018-03-02 01:49:57 -0600,/t/practices,How the Godfather of Cyberpunk would write software,https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7,/u/leeg,14
+1,2018-03-02 17:06:06 -0600,/t/science,Synthetic electromagnetic knot in a three-dimensional skyrmion,http://advances.sciencemag.org/content/4/3/eaao3820,/u/adsouza,2
+3,2018-03-02 11:22:01 -0600,"/t/hardware,/t/release",Google Clips is a camera that uses machine learning to capture images and video,https://www.blog.google/topics/hardware/capture-more-your-favorite-moments-google-clips/,/u/gerikson,2
+0,2018-03-01 18:27:14 -0600,"/t/video,/t/performance,/t/programming,/t/ruby",Julia Evans on building a Ruby profiler,https://www.recurse.com/events/localhost-julia-evans,/u/jamesjporter,34
+4,2018-03-01 10:44:23 -0600,/t/security,"23,000 HTTPS certificates axed after CEO emails private keys",https://arstechnica.com/information-technology/2018/03/23000-https-certificates-axed-after-ceo-e-mails-private-keys/,/u/adsouza,44
+0,2018-03-02 10:15:50 -0600,"/t/practices,/t/programming","A Few Thoughts on Ben Northrop's ""Reflections of an 'Old' Programmer""",https://ecc-comp.blogspot.com/2016/10/a-few-thoughts-on-ben-northrops.html,/u/yumaikas,5
+0,2018-03-02 13:55:37 -0600,"/t/assembly,/t/reversing,/t/security,/t/virtualization","FinFisher exposed: A researcher’s tale of defeating traps, tricks, and complex virtual machines",https://cloudblogs.microsoft.com/microsoftsecure/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/,/u/pushcx,3
+7,2018-03-01 10:59:12 -0600,/t/networking,GitHub Survived the Biggest DDoS Attack Ever Recorded,https://www.wired.com/story/github-ddos-memcached/,/u/don,32
+0,2018-03-01 23:28:05 -0600,"/t/ai,/t/historical",Remember the winter,https://macwright.org/2018/02/25/remember-the-winter.html,/u/friendlysock,14
+1,2018-03-02 11:59:39 -0600,"/t/freebsd,/t/linux,/t/mac",Mac OS versus FreeBSD: A Comparative Evaluation,https://doi.org/10.1109/MC.2018.1451648,/u/trn,3
+3,2018-03-01 11:22:21 -0600,/t/go,A Gopher's Reading List,https://github.com/enocom/gopher-reading-list,/u/enocom,14
+1,2018-03-01 21:28:09 -0600,/t/programming,w-shingling finds similarities in 6 Legend of Zelda Game Boy games,https://ecc-comp.blogspot.com/2018/03/w-shingling-finds-similarities-in-6.html,/u/indirection,11
+0,2018-03-02 11:54:56 -0600,"/t/programming,/t/satire",Mimic [ab]using Unicode to create tragedy,https://github.com/reinderien/mimic,/u/yumaikas,4
+0,2018-03-02 09:11:50 -0600,"/t/formalmethods,/t/programming",From Verification to Implementation: A Model Translation Tool and Pacemaker Case Study (2012),https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://duckduckgo.com/&httpsredir=1&article=1063&context=mlab_papers,/u/nickpsecurity,2
+5,2018-03-01 11:23:29 -0600,"/t/video,/t/freebsd,/t/historical,/t/unix,/t/vcs",Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD,https://fosdem.org/2018/schedule/event/unix_evolution/,/u/sevan,14
+0,2018-03-01 19:39:30 -0600,"/t/crypto,/t/historical",Keep the Bombe on the Bletchley Park Estate,http://www.crowdfunder.co.uk/new-display,/u/grahamc,8
+25,2018-03-01 06:08:59 -0600,/t/culture,What Happens to Us Does Not Happen to Most of You,https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/,/u/adsouza,67
+0,2018-03-02 09:08:29 -0600,"/t/pdf,/t/compilers,/t/hardware,/t/programming",FPRESSO: Enabling Transistor-Level Exploration of FPGA Architectures (2016),https://lap.epfl.ch/files/content/sites/lap/files/shared/publications/ZgheibFeb16_FpressoEnablingExpressTransistorLevelExplorationOfFpgaArchitectures_FPGA16.pdf,/u/nickpsecurity,1
+0,2018-03-01 22:01:42 -0600,"/t/databases,/t/haskell","Queryparser, an Open Source Tool for Parsing and Analyzing SQL",https://eng.uber.com/queryparser/,/u/sanxiyn,5
+0,2018-03-02 07:55:30 -0600,/t/javascript,Ultimate React Component Patterns with Typescript 2.8,https://medium.com/@martin_hotell/ultimate-react-component-patterns-with-typescript-2-8-82990c516935,/u/joshuacc,1
+3,2018-03-01 14:21:38 -0600,"/t/ai,/t/python",Running your Coursera (and any other) Jupyter notebook locally,https://www.zerotosingularity.com/posts/coursera-jupyter-locally/,/u/zerotosingularity,4
+0,2018-03-02 07:43:51 -0600,/t/javascript,Evolving Patterns in React,https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f,/u/pushcx,1
+0,2018-03-01 21:28:12 -0600,/t/openbsd,a2k18 Hackathon Report: Ken Westerback on dhclient and more,http://undeadly.org/cgi?action=article;sid=20180302002131,/u/calvin,4
+24,2018-02-28 23:51:13 -0600,"/t/programming,/t/unix",A potential way to have spaces in filenames and not break the Unix command line,http://boston.conman.org/2018/02/28.2,/u/spc476,10

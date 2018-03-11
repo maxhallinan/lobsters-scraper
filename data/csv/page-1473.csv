@@ -1,25 +1,25 @@
-0,2013-06-23 11:08:24 -0500,"['/t/video', '/t/java']",JVM Mechanics – A Peek Under the Hood,http://www.infoq.com/presentations/JVM-Mechanics,/u/SeanTAllen,3
-3,2013-06-22 12:08:23 -0500,"['/t/show', '/t/go', '/t/security']",Encrypt and decrypt small files using OpenSSH keys,https://github.com/gokyle/sshbox,/u/kyle,8
-0,2013-06-21 19:52:58 -0500,['/t/security'],Cracking IPMI Passwords Remotely,http://fish2.com/ipmi/remote-pw-cracking.html,/u/jcs,5
-0,2013-06-21 10:03:50 -0500,['/t/practices'],SemVer 2.0 Released,http://haacked.com/archive/2013/06/18/semver-2-0-released.aspx,/u/pushcx,5
-0,2013-06-21 15:31:01 -0500,"['/t/practices', '/t/programming']",Tech Safety,http://www.industriallogic.com/blog/techsafety/,/u/edward,2
-0,2013-06-21 05:04:23 -0500,['/t/freebsd'],PC-BSD Status Update,http://blog.pcbsd.org/2013/06/pc-bsd-status-update/,/u/lynge,3
-0,2013-06-21 08:39:45 -0500,['/t/event'],"Monkeyspace 2013 Conference, July 22-25 Chicago",http://monkeyspace.org/,/u/leeflannery,1
-0,2013-06-21 08:31:26 -0500,['/t/programming'],5 Years of Stack Overflow,http://www.stum.de/2013/06/21/5-years-of-stackoverflow-com/,/u/leeflannery,1
-0,2013-06-20 14:52:00 -0500,"['/t/browsers', '/t/web']",Understanding 3D Transforms,http://dev.opera.com/articles/view/understanding-3d-transforms/,/u/vladikoff,5
-1,2013-06-20 14:07:59 -0500,"['/t/privacy', '/t/web']",It's Not All About You: What Privacy Advocates Don't Get About Data Tracking on the Web,http://www.theatlantic.com/technology/archive/2012/03/its-not-all-about-you-what-privacy-advocates-dont-get-about-data-tracking-on-the-web/254533/,/u/tedu,4
-0,2013-06-20 09:18:15 -0500,"['/t/hardware', '/t/science']",Novel sub-diffraction method could mean DVD sized discs with 1PB capacity,http://theconversation.com/more-data-storage-heres-how-to-fit-1-000-terabytes-on-a-dvd-15306,/u/tezza,2
-0,2013-06-19 16:47:48 -0500,['/t/security'],Sudden Death Entropy Failures,http://www.imperialviolet.org/2013/06/15/suddendeathentropy.html,/u/wally,4
-0,2013-06-19 16:21:01 -0500,['/t/api'],Debugging the Stripe API using Runscope,http://blog.epanastasi.com/post/53374577584/debugging-the-stripe-api-using-runscope,/u/epanastasi,4
-0,2013-06-19 13:10:26 -0500,"['/t/games', '/t/programming']",Lobster: a game programming language,http://strlen.com/lobster,/u/dwc,4
-0,2013-06-19 16:28:28 -0500,"['/t/javascript', '/t/programming']",FunScript - F# to JavaScript with type providers,http://funscript.info/,/u/puffnfresh,2
-1,2013-06-19 09:23:34 -0500,"['/t/javascript', '/t/lisp', '/t/person']",Behind the Scenes with CHICKEN Scheme and SPOCK (Part 2),http://spin.atomicobject.com/2013/06/19/chicken-scheme-spock-part-2/,/u/silentbicycle,3
-3,2013-06-18 13:57:59 -0500,['/t/security'],Creative usernames and Spotify account hijacking,http://labs.spotify.com/2013/06/18/creative-usernames/,/u/thorduri,6
-0,2013-06-18 12:23:06 -0500,"['/t/devops', '/t/release', '/t/security']",Unauthenticated Remote Code Execution Vulnerability in Puppet - CVE-2013-3567,http://puppetlabs.com/security/cve/cve-2013-3567/,/u/jcs,3
-1,2013-06-17 20:41:21 -0500,['/t/security'],How to 'backdoor' an encryption app,http://blog.cryptographyengineering.com/2013/06/how-to-backdoor-encryption-app.html,/u/jcs,5
-3,2013-06-18 10:45:08 -0500,['/t/privacy'],Facebook blocks Tor: the end of Zuckerberg's 'social mission'?,http://www.wamda.com/2013/06/facebook-blocks-tor,/u/jennifer,0
-2,2013-06-17 13:09:53 -0500,"['/t/compsci', '/t/programming']",A Strongly Named Language,https://gist.github.com/boxed/ef4184597912eafdc99f,/u/szbt,4
-0,2013-06-17 13:00:20 -0500,"['/t/privacy', '/t/security']",3 NSA veterans speak out on whistle-blower: We told you so,http://www.usatoday.com/story/news/politics/2013/06/16/snowden-whistleblower-nsa-officials-roundtable/2428809/,/u/jennifer,5
-0,2013-06-17 08:44:11 -0500,['/t/browsers'],VP9 Codec Now Enabled By Default In Chrome,http://www.phoronix.com/scan.php?page=news_item&px=MTM5MDU,/u/jennifer,6
-0,2013-06-17 18:24:10 -0500,"['/t/design', '/t/programming', '/t/scaling']",Netflix CTO on Building Resilient Systems,http://www.infoq.com/interviews/Building-Resilient-Systems-Michael-Nygard,/u/kb,1
-0,2013-06-17 18:23:36 -0500,"['/t/design', '/t/programming', '/t/scaling']",Application Resilience in a Service-Oriented Architecture,http://programming.oreilly.com/2013/06/application-resilience-in-a-service-oriented-architecture.html,/u/kb,1
+0,2013-06-23 11:08:24 -0500,"/t/video,/t/java",JVM Mechanics – A Peek Under the Hood,http://www.infoq.com/presentations/JVM-Mechanics,/u/SeanTAllen,3
+3,2013-06-22 12:08:23 -0500,"/t/show,/t/go,/t/security",Encrypt and decrypt small files using OpenSSH keys,https://github.com/gokyle/sshbox,/u/kyle,8
+0,2013-06-21 19:52:58 -0500,/t/security,Cracking IPMI Passwords Remotely,http://fish2.com/ipmi/remote-pw-cracking.html,/u/jcs,5
+0,2013-06-21 10:03:50 -0500,/t/practices,SemVer 2.0 Released,http://haacked.com/archive/2013/06/18/semver-2-0-released.aspx,/u/pushcx,5
+0,2013-06-21 15:31:01 -0500,"/t/practices,/t/programming",Tech Safety,http://www.industriallogic.com/blog/techsafety/,/u/edward,2
+0,2013-06-21 05:04:23 -0500,/t/freebsd,PC-BSD Status Update,http://blog.pcbsd.org/2013/06/pc-bsd-status-update/,/u/lynge,3
+0,2013-06-21 08:39:45 -0500,/t/event,"Monkeyspace 2013 Conference, July 22-25 Chicago",http://monkeyspace.org/,/u/leeflannery,1
+0,2013-06-21 08:31:26 -0500,/t/programming,5 Years of Stack Overflow,http://www.stum.de/2013/06/21/5-years-of-stackoverflow-com/,/u/leeflannery,1
+0,2013-06-20 14:52:00 -0500,"/t/browsers,/t/web",Understanding 3D Transforms,http://dev.opera.com/articles/view/understanding-3d-transforms/,/u/vladikoff,5
+1,2013-06-20 14:07:59 -0500,"/t/privacy,/t/web",It's Not All About You: What Privacy Advocates Don't Get About Data Tracking on the Web,http://www.theatlantic.com/technology/archive/2012/03/its-not-all-about-you-what-privacy-advocates-dont-get-about-data-tracking-on-the-web/254533/,/u/tedu,4
+0,2013-06-20 09:18:15 -0500,"/t/hardware,/t/science",Novel sub-diffraction method could mean DVD sized discs with 1PB capacity,http://theconversation.com/more-data-storage-heres-how-to-fit-1-000-terabytes-on-a-dvd-15306,/u/tezza,2
+0,2013-06-19 16:47:48 -0500,/t/security,Sudden Death Entropy Failures,http://www.imperialviolet.org/2013/06/15/suddendeathentropy.html,/u/wally,4
+0,2013-06-19 16:21:01 -0500,/t/api,Debugging the Stripe API using Runscope,http://blog.epanastasi.com/post/53374577584/debugging-the-stripe-api-using-runscope,/u/epanastasi,4
+0,2013-06-19 13:10:26 -0500,"/t/games,/t/programming",Lobster: a game programming language,http://strlen.com/lobster,/u/dwc,4
+0,2013-06-19 16:28:28 -0500,"/t/javascript,/t/programming",FunScript - F# to JavaScript with type providers,http://funscript.info/,/u/puffnfresh,2
+1,2013-06-19 09:23:34 -0500,"/t/javascript,/t/lisp,/t/person",Behind the Scenes with CHICKEN Scheme and SPOCK (Part 2),http://spin.atomicobject.com/2013/06/19/chicken-scheme-spock-part-2/,/u/silentbicycle,3
+3,2013-06-18 13:57:59 -0500,/t/security,Creative usernames and Spotify account hijacking,http://labs.spotify.com/2013/06/18/creative-usernames/,/u/thorduri,6
+0,2013-06-18 12:23:06 -0500,"/t/devops,/t/release,/t/security",Unauthenticated Remote Code Execution Vulnerability in Puppet - CVE-2013-3567,http://puppetlabs.com/security/cve/cve-2013-3567/,/u/jcs,3
+1,2013-06-17 20:41:21 -0500,/t/security,How to 'backdoor' an encryption app,http://blog.cryptographyengineering.com/2013/06/how-to-backdoor-encryption-app.html,/u/jcs,5
+3,2013-06-18 10:45:08 -0500,/t/privacy,Facebook blocks Tor: the end of Zuckerberg's 'social mission'?,http://www.wamda.com/2013/06/facebook-blocks-tor,/u/jennifer,0
+2,2013-06-17 13:09:53 -0500,"/t/compsci,/t/programming",A Strongly Named Language,https://gist.github.com/boxed/ef4184597912eafdc99f,/u/szbt,4
+0,2013-06-17 13:00:20 -0500,"/t/privacy,/t/security",3 NSA veterans speak out on whistle-blower: We told you so,http://www.usatoday.com/story/news/politics/2013/06/16/snowden-whistleblower-nsa-officials-roundtable/2428809/,/u/jennifer,5
+0,2013-06-17 08:44:11 -0500,/t/browsers,VP9 Codec Now Enabled By Default In Chrome,http://www.phoronix.com/scan.php?page=news_item&px=MTM5MDU,/u/jennifer,6
+0,2013-06-17 18:24:10 -0500,"/t/design,/t/programming,/t/scaling",Netflix CTO on Building Resilient Systems,http://www.infoq.com/interviews/Building-Resilient-Systems-Michael-Nygard,/u/kb,1
+0,2013-06-17 18:23:36 -0500,"/t/design,/t/programming,/t/scaling",Application Resilience in a Service-Oriented Architecture,http://programming.oreilly.com/2013/06/application-resilience-in-a-service-oriented-architecture.html,/u/kb,1

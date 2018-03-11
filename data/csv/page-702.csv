@@ -1,25 +1,25 @@
-1,2016-08-02 17:38:52 -0500,['/t/devops'],Terraform 0.7,https://www.hashicorp.com/blog/terraform-0-7.html,/u/soulcutter,1
-0,2016-08-02 11:16:51 -0500,"['/t/erlang', '/t/programming']",The Exceptional Server,https://medium.com/@elbrujohalcon/the-exceptional-server-abe9016ebe75,/u/elbrujohalcon,2
-1,2016-08-01 14:05:28 -0500,"['/t/pdf', '/t/compsci']",Big O Notation Poster,https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf,/u/pushcx,40
-3,2016-08-01 06:49:58 -0500,['/t/databases'],Re: Why we lost Uber as a user,https://www.postgresql.org/message-id/5797D5A1.5030009%40agliodbs.com,/u/av,64
-1,2016-08-02 06:02:55 -0500,"['/t/video', '/t/games']",The Procedural Content Generation Workshop,https://www.youtube.com/watch?v=V52B2sjtOsU,/u/pushcx,5
-0,2016-08-02 10:53:04 -0500,"['/t/networking', '/t/security']",Introducing the p0f BPF compiler,http://blog.cloudflare.com/introducing-the-p0f-bpf-compiler/,/u/rbn,3
-10,2016-08-01 04:27:48 -0500,"['/t/networking', '/t/programming', '/t/web']",Google's QUIC protocol: moving the web from TCP to UDP,https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/,/u/mattiasgeniar,35
-0,2016-08-02 10:43:55 -0500,['/t/compsci'],Linear Programming: How Does It Work?,http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work,/u/pushcx,3
-0,2016-08-02 13:02:31 -0500,"['/t/pdf', '/t/cogsci']",Why Minimal Guidance During Instruction Does Not Work (2006),http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf,/u/GeoffWozniak,2
-0,2016-08-02 11:15:31 -0500,"['/t/compilers', '/t/programming']",More Comment-Preserving Configuration Parsers,https://kev.inburke.com/kevin/more-comment-preserving-configuration-parsers/?lobsters,/u/kb,1
-0,2016-08-02 12:26:27 -0500,"['/t/mac', '/t/python', '/t/security']",Apple's default Python only supports antiquated SSL,https://github.com/Homebrew/homebrew-core/issues/3541,/u/JordiGH,2
-0,2016-08-02 06:17:34 -0500,"['/t/haskell', '/t/javascript']",Measuring Software Fragility,http://softwaresimply.blogspot.com/2016/08/measuring-software-fragility.html,/u/mightybyte,2
-0,2016-08-01 23:39:14 -0500,"['/t/lisp', '/t/programming']",Why Functional Programming Matters by John Hughes [1984],http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html,/u/av,9
-9,2016-08-01 10:17:07 -0500,['/t/python'],Python FAQ: Why should I use Python 3?,https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/,/u/ngoldbaum,22
-2,2016-08-01 13:18:00 -0500,['/t/math'],Surprises of the Faraday Cage,https://sinews.siam.org/DetailsPage/TabId/900/ArtMID/2243/ArticleID/757/Surprises-of-the-Faraday-Cage.aspx,/u/emallson,23
-0,2016-08-02 10:23:18 -0500,['/t/databases'],Rolling Retention Done Right in SQL,https://blog.treasuredata.com/blog/2016/07/22/rolling-retention-done-right-in-sql/,/u/pushcx,2
-0,2016-08-02 13:36:19 -0500,['/t/networking'],Using Openswan to cross connect AWS VPCs in multiple regions,https://mapzen.com/blog/vpc-architecture,/u/drewda,1
-0,2016-08-02 06:23:19 -0500,"['/t/go', '/t/rant']",I Love Go; I Hate Go,http://dtrace.org/blogs/ahl/2016/08/02/i-love-go-i-hate-go/,/u/mulander,6
-0,2016-08-02 08:45:55 -0500,['/t/historical'],List of common CPU sockets from the 1970s to 2015,http://i.imgur.com/HiCoQ6V.jpg,/u/flyingfisch,2
-0,2016-08-02 07:58:52 -0500,['/t/databases'],Avoiding Transaction ID Wraparound in Postgres,https://engineering.semantics3.com/2016/07/20/an-unexpected-dba-journey/,/u/pushcx,2
-0,2016-08-02 06:25:48 -0500,['/t/finance'],Gains from Trade through Compromise,https://foundational-research.org/gains-from-trade-through-compromise/,/u/adsouza,2
-1,2016-08-01 10:14:15 -0500,['/t/hardware'],51nb's Thinkpad X62 with Broadwell i7 available as complete laptop,http://imgur.com/a/As6On,/u/wally,22
-0,2016-08-02 09:47:53 -0500,"['/t/programming', '/t/python', '/t/release']",Embedding JavaScript into Python - Python Mini Racer,https://blog.sqreen.io/embedding-javascript-into-python/,/u/PaulBlei,1
-24,2016-08-01 04:26:44 -0500,['/t/ask'],What are you working on this week?,/s/gzmnwu/what_are_you_working_on_this_week,/u/caius,21
-5,2016-08-01 12:41:21 -0500,"['/t/ask', '/t/meta']",What kind of hardware/cloud does lobste.rs run on?,/s/jt34ml/what_kind_hardware_cloud_does_lobste_rs,/u/breul99,31
+1,2016-08-02 17:38:52 -0500,/t/devops,Terraform 0.7,https://www.hashicorp.com/blog/terraform-0-7.html,/u/soulcutter,1
+0,2016-08-02 11:16:51 -0500,"/t/erlang,/t/programming",The Exceptional Server,https://medium.com/@elbrujohalcon/the-exceptional-server-abe9016ebe75,/u/elbrujohalcon,2
+1,2016-08-01 14:05:28 -0500,"/t/pdf,/t/compsci",Big O Notation Poster,https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf,/u/pushcx,40
+3,2016-08-01 06:49:58 -0500,/t/databases,Re: Why we lost Uber as a user,https://www.postgresql.org/message-id/5797D5A1.5030009%40agliodbs.com,/u/av,64
+1,2016-08-02 06:02:55 -0500,"/t/video,/t/games",The Procedural Content Generation Workshop,https://www.youtube.com/watch?v=V52B2sjtOsU,/u/pushcx,5
+0,2016-08-02 10:53:04 -0500,"/t/networking,/t/security",Introducing the p0f BPF compiler,http://blog.cloudflare.com/introducing-the-p0f-bpf-compiler/,/u/rbn,3
+10,2016-08-01 04:27:48 -0500,"/t/networking,/t/programming,/t/web",Google's QUIC protocol: moving the web from TCP to UDP,https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/,/u/mattiasgeniar,35
+0,2016-08-02 10:43:55 -0500,/t/compsci,Linear Programming: How Does It Work?,http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work,/u/pushcx,3
+0,2016-08-02 13:02:31 -0500,"/t/pdf,/t/cogsci",Why Minimal Guidance During Instruction Does Not Work (2006),http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf,/u/GeoffWozniak,2
+0,2016-08-02 11:15:31 -0500,"/t/compilers,/t/programming",More Comment-Preserving Configuration Parsers,https://kev.inburke.com/kevin/more-comment-preserving-configuration-parsers/?lobsters,/u/kb,1
+0,2016-08-02 12:26:27 -0500,"/t/mac,/t/python,/t/security",Apple's default Python only supports antiquated SSL,https://github.com/Homebrew/homebrew-core/issues/3541,/u/JordiGH,2
+0,2016-08-02 06:17:34 -0500,"/t/haskell,/t/javascript",Measuring Software Fragility,http://softwaresimply.blogspot.com/2016/08/measuring-software-fragility.html,/u/mightybyte,2
+0,2016-08-01 23:39:14 -0500,"/t/lisp,/t/programming",Why Functional Programming Matters by John Hughes [1984],http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html,/u/av,9
+9,2016-08-01 10:17:07 -0500,/t/python,Python FAQ: Why should I use Python 3?,https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/,/u/ngoldbaum,22
+2,2016-08-01 13:18:00 -0500,/t/math,Surprises of the Faraday Cage,https://sinews.siam.org/DetailsPage/TabId/900/ArtMID/2243/ArticleID/757/Surprises-of-the-Faraday-Cage.aspx,/u/emallson,23
+0,2016-08-02 10:23:18 -0500,/t/databases,Rolling Retention Done Right in SQL,https://blog.treasuredata.com/blog/2016/07/22/rolling-retention-done-right-in-sql/,/u/pushcx,2
+0,2016-08-02 13:36:19 -0500,/t/networking,Using Openswan to cross connect AWS VPCs in multiple regions,https://mapzen.com/blog/vpc-architecture,/u/drewda,1
+0,2016-08-02 06:23:19 -0500,"/t/go,/t/rant",I Love Go; I Hate Go,http://dtrace.org/blogs/ahl/2016/08/02/i-love-go-i-hate-go/,/u/mulander,6
+0,2016-08-02 08:45:55 -0500,/t/historical,List of common CPU sockets from the 1970s to 2015,http://i.imgur.com/HiCoQ6V.jpg,/u/flyingfisch,2
+0,2016-08-02 07:58:52 -0500,/t/databases,Avoiding Transaction ID Wraparound in Postgres,https://engineering.semantics3.com/2016/07/20/an-unexpected-dba-journey/,/u/pushcx,2
+0,2016-08-02 06:25:48 -0500,/t/finance,Gains from Trade through Compromise,https://foundational-research.org/gains-from-trade-through-compromise/,/u/adsouza,2
+1,2016-08-01 10:14:15 -0500,/t/hardware,51nb's Thinkpad X62 with Broadwell i7 available as complete laptop,http://imgur.com/a/As6On,/u/wally,22
+0,2016-08-02 09:47:53 -0500,"/t/programming,/t/python,/t/release",Embedding JavaScript into Python - Python Mini Racer,https://blog.sqreen.io/embedding-javascript-into-python/,/u/PaulBlei,1
+24,2016-08-01 04:26:44 -0500,/t/ask,What are you working on this week?,/s/gzmnwu/what_are_you_working_on_this_week,/u/caius,21
+5,2016-08-01 12:41:21 -0500,"/t/ask,/t/meta",What kind of hardware/cloud does lobste.rs run on?,/s/jt34ml/what_kind_hardware_cloud_does_lobste_rs,/u/breul99,31

@@ -1,25 +1,25 @@
-4,2017-10-16 11:07:37 -0500,"['/t/programming', '/t/security']",Inside Two-Factor Authentication Apps,http://hackaday.com/2017/10/16/inside-two-factor-authentication-apps/,/u/awal,7
-3,2017-10-16 06:52:10 -0500,"['/t/video', '/t/compsci']",It's time for a new old language,https://www.youtube.com/watch?v=dCuZkaaou0Q,/u/yumaikas,14
-27,2017-10-15 23:05:51 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/2pw5p7/what_are_you_working_on_this_week,/u/kzisme,17
-1,2017-10-17 08:28:59 -0500,['/t/devops'],Docker Announces Enhancements to the Docker Platform to Simplify and Advance the Management of Kubernetes for Enterprise IT,https://www.docker.com/docker-news-and-press/docker-announces-enhancements-docker-platform-simplify-and-advance-management,/u/gabe,0
-0,2017-10-16 09:31:35 -0500,"['/t/book', '/t/c']",The New C Standard: An Economic and Cultural Commentary (2009),http://www.knosof.co.uk/cbook/,/u/pushcx,7
-4,2017-10-15 22:27:18 -0500,['/t/fortran'],Why physicists still use Fortran,http://moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/,/u/av,17
-4,2017-10-15 17:30:41 -0500,"['/t/design', '/t/graphics', '/t/historical']",Gallery of various GUIs over time,http://toastytech.com/guis/index.html,/u/wesleyac,29
-2,2017-10-16 06:35:06 -0500,['/t/python'],Considering Python's Target Audience,http://www.curiousefficiency.org/posts/2017/10/considering-pythons-target-audience.html,/u/quobit,6
-12,2017-10-15 13:29:58 -0500,"['/t/mobile', '/t/privacy']",Want to see something crazy? Open this link on your phone with WiFi turned off.,https://medium.com/@philipn/want-to-see-something-crazy-open-this-link-on-your-phone-with-wifi-turned-off-9e0adb00d024,/u/calvin,34
-0,2017-10-16 09:49:04 -0500,"['/t/ruby', '/t/web']",Rails 5.1's form_with vs. form_tag vs. form_for,https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a,/u/pushcx,5
-0,2017-10-16 08:01:16 -0500,"['/t/javascript', '/t/web']","Build A Real-Time Chat App With VueJS, Vuex & Cloud Firestore",https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/,/u/anthonygore,3
-0,2017-10-16 13:27:06 -0500,['/t/testing'],Effective Snapshot Testing,https://tinyletter.com/kentcdodds/letters/effective-snapshot-testing,/u/pushcx,3
-1,2017-10-16 07:29:28 -0500,"['/t/crypto', '/t/security']",ROCA: Vulnerable RSA generation (CVE-2017-15361),https://crocs.fi.muni.cz/public/papers/rsa_ccs17,/u/bryce,5
-15,2017-10-16 07:41:30 -0500,"['/t/culture', '/t/practices']",We fired our top talent. Best decision we ever made.,https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde,/u/kaiju,11
-9,2017-10-15 13:08:49 -0500,['/t/hardware'],Why aren't headphone jack shaped plugs used for data?,https://electronics.stackexchange.com/questions/105116/why-arent-headphone-jack-shaped-plugs-used-for-data,/u/hwayne,24
-5,2017-10-15 17:01:02 -0500,"['/t/browsers', '/t/historical']",Pretty much OK with . . . (2003),http://www.hoary.org/browse/,/u/calvin,16
-0,2017-10-16 09:44:41 -0500,['/t/ruby'],Episode 101 - Testing with RSpec,https://www.driftingruby.com/episodes/testing-with-rspec,/u/kobaltz,1
-0,2017-10-16 10:27:11 -0500,"['/t/mac', '/t/reversing']",Reverse Engineering macOS High Sierra Supplemental Update,https://cocoaengineering.com/2017/10/08/reverse-engineering-macos-high-sierra-supplemental-update/,/u/dimonomid,2
-0,2017-10-15 19:42:54 -0500,['/t/haskell'],Replacing GHCi's pretty-printer,http://teh.id.au/posts/2017/02/13/interactive-print/index.html,/u/pushcx,11
-0,2017-10-16 14:26:12 -0500,"['/t/culture', '/t/web']",P2P social networking with Rotonde & Beaker,https://louis.center/p2p-social-networking/,/u/karlinfox,2
-0,2017-10-15 20:17:38 -0500,"['/t/pdf', '/t/formalmethods']",Realising the Benefits of Formal Methods,http://www.anthonyhall.org/csi.pdf,/u/praalhans,9
-0,2017-10-16 04:45:27 -0500,['/t/databases'],Set Returning Functions and PostgreSQL 10,http://tapoueh.org/blog/2017/10/set-returning-functions-and-postgresql-10/,/u/hoopla,3
-0,2017-10-16 06:23:27 -0500,['/t/dotnet'],Dissecting the pattern matching in C# 7,https://blogs.msdn.microsoft.com/seteplia/2017/10/16/dissecting-the-pattern-matching-in-c-7/,/u/calvin,2
-1,2017-10-16 05:23:00 -0500,"['/t/performance', '/t/web']",Content Performance Policy,http://wicg.github.io/ContentPerformancePolicy/,/u/adsouza,1
-0,2017-10-16 01:49:24 -0500,"['/t/audio', '/t/programming']",The Manifest Episode 5: Dart and Pub with Natalie Weizenbaum,http://manifest.fm/5,/u/andrewnez,1
+4,2017-10-16 11:07:37 -0500,"/t/programming,/t/security",Inside Two-Factor Authentication Apps,http://hackaday.com/2017/10/16/inside-two-factor-authentication-apps/,/u/awal,7
+3,2017-10-16 06:52:10 -0500,"/t/video,/t/compsci",It's time for a new old language,https://www.youtube.com/watch?v=dCuZkaaou0Q,/u/yumaikas,14
+27,2017-10-15 23:05:51 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/2pw5p7/what_are_you_working_on_this_week,/u/kzisme,17
+1,2017-10-17 08:28:59 -0500,/t/devops,Docker Announces Enhancements to the Docker Platform to Simplify and Advance the Management of Kubernetes for Enterprise IT,https://www.docker.com/docker-news-and-press/docker-announces-enhancements-docker-platform-simplify-and-advance-management,/u/gabe,0
+0,2017-10-16 09:31:35 -0500,"/t/book,/t/c",The New C Standard: An Economic and Cultural Commentary (2009),http://www.knosof.co.uk/cbook/,/u/pushcx,7
+4,2017-10-15 22:27:18 -0500,/t/fortran,Why physicists still use Fortran,http://moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/,/u/av,17
+4,2017-10-15 17:30:41 -0500,"/t/design,/t/graphics,/t/historical",Gallery of various GUIs over time,http://toastytech.com/guis/index.html,/u/wesleyac,29
+2,2017-10-16 06:35:06 -0500,/t/python,Considering Python's Target Audience,http://www.curiousefficiency.org/posts/2017/10/considering-pythons-target-audience.html,/u/quobit,6
+12,2017-10-15 13:29:58 -0500,"/t/mobile,/t/privacy",Want to see something crazy? Open this link on your phone with WiFi turned off.,https://medium.com/@philipn/want-to-see-something-crazy-open-this-link-on-your-phone-with-wifi-turned-off-9e0adb00d024,/u/calvin,34
+0,2017-10-16 09:49:04 -0500,"/t/ruby,/t/web",Rails 5.1's form_with vs. form_tag vs. form_for,https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a,/u/pushcx,5
+0,2017-10-16 08:01:16 -0500,"/t/javascript,/t/web","Build A Real-Time Chat App With VueJS, Vuex & Cloud Firestore",https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/,/u/anthonygore,3
+0,2017-10-16 13:27:06 -0500,/t/testing,Effective Snapshot Testing,https://tinyletter.com/kentcdodds/letters/effective-snapshot-testing,/u/pushcx,3
+1,2017-10-16 07:29:28 -0500,"/t/crypto,/t/security",ROCA: Vulnerable RSA generation (CVE-2017-15361),https://crocs.fi.muni.cz/public/papers/rsa_ccs17,/u/bryce,5
+15,2017-10-16 07:41:30 -0500,"/t/culture,/t/practices",We fired our top talent. Best decision we ever made.,https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde,/u/kaiju,11
+9,2017-10-15 13:08:49 -0500,/t/hardware,Why aren't headphone jack shaped plugs used for data?,https://electronics.stackexchange.com/questions/105116/why-arent-headphone-jack-shaped-plugs-used-for-data,/u/hwayne,24
+5,2017-10-15 17:01:02 -0500,"/t/browsers,/t/historical",Pretty much OK with . . . (2003),http://www.hoary.org/browse/,/u/calvin,16
+0,2017-10-16 09:44:41 -0500,/t/ruby,Episode 101 - Testing with RSpec,https://www.driftingruby.com/episodes/testing-with-rspec,/u/kobaltz,1
+0,2017-10-16 10:27:11 -0500,"/t/mac,/t/reversing",Reverse Engineering macOS High Sierra Supplemental Update,https://cocoaengineering.com/2017/10/08/reverse-engineering-macos-high-sierra-supplemental-update/,/u/dimonomid,2
+0,2017-10-15 19:42:54 -0500,/t/haskell,Replacing GHCi's pretty-printer,http://teh.id.au/posts/2017/02/13/interactive-print/index.html,/u/pushcx,11
+0,2017-10-16 14:26:12 -0500,"/t/culture,/t/web",P2P social networking with Rotonde & Beaker,https://louis.center/p2p-social-networking/,/u/karlinfox,2
+0,2017-10-15 20:17:38 -0500,"/t/pdf,/t/formalmethods",Realising the Benefits of Formal Methods,http://www.anthonyhall.org/csi.pdf,/u/praalhans,9
+0,2017-10-16 04:45:27 -0500,/t/databases,Set Returning Functions and PostgreSQL 10,http://tapoueh.org/blog/2017/10/set-returning-functions-and-postgresql-10/,/u/hoopla,3
+0,2017-10-16 06:23:27 -0500,/t/dotnet,Dissecting the pattern matching in C# 7,https://blogs.msdn.microsoft.com/seteplia/2017/10/16/dissecting-the-pattern-matching-in-c-7/,/u/calvin,2
+1,2017-10-16 05:23:00 -0500,"/t/performance,/t/web",Content Performance Policy,http://wicg.github.io/ContentPerformancePolicy/,/u/adsouza,1
+0,2017-10-16 01:49:24 -0500,"/t/audio,/t/programming",The Manifest Episode 5: Dart and Pub with Natalie Weizenbaum,http://manifest.fm/5,/u/andrewnez,1

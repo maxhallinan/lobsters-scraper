@@ -1,25 +1,25 @@
-3,2015-10-18 12:11:22 -0500,['/t/ask'],"Would anyone be interested in a ""UNIX hacks"" website?",/s/4cbe55/would_anyone_be_interested_unix_hacks,/u/zg,6
-1,2015-10-18 12:18:59 -0500,['/t/practices'],Why I don’t answer most phone calls,https://medium.com/life-tips/why-i-don-t-answer-most-phone-calls-4a71e1418854,/u/pushcx,9
-1,2015-10-18 18:38:38 -0500,"['/t/distributed', '/t/hardware', '/t/virtualization']",...mobile phones [CPUs] are the future of the datacenter,https://medium.com/s-c-a-l-e/a16z-partner-peter-levine-on-why-mobile-phones-are-the-future-of-the-datacenter-ecf39655672e,/u/adsouza,2
-0,2015-10-18 14:14:53 -0500,['/t/distributed'],Eventually consistent leaderboard design in Lasp,https://christophermeiklejohn.com/lasp/erlang/2015/10/17/leaderboard.html,/u/cmeiklejohn,3
-0,2015-10-18 02:20:23 -0500,['/t/openbsd'],OpenBSD's source tree just turned 20 years old,http://marc.info/?l=openbsd-announce&m=144515087006176&w=2,/u/fcambus,23
-0,2015-10-18 11:33:15 -0500,"['/t/programming', '/t/ruby']",The Dynamic Def,http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html,/u/pushcx,8
-1,2015-10-18 11:54:01 -0500,"['/t/api', '/t/art', '/t/release']",ASCII Art as a Service,https://www.asky.io/,/u/pushcx,5
-17,2015-10-17 21:15:10 -0500,['/t/databases'],"Weird Tricks to Write Faster, More Correct Database Queries",https://kev.inburke.com/kevin/faster-correct-database-queries/,/u/kb,9
-1,2015-10-18 15:18:24 -0500,"['/t/pdf', '/t/web']",Adventures in Twitter Censorship,http://members.efn.org/~paulmd/OwnWork/AdventuresinCensorship.pdf,/u/itistoday,4
-0,2015-10-18 21:40:16 -0500,['/t/hardware'],Implementing a High Frequency Modem for Balloons,http://www.rowetel.com/blog/?p=4629,/u/pushcx,1
-0,2015-10-18 11:54:46 -0500,['/t/python'],Create PDF invoices with Python and xtopdf,http://jugad2.blogspot.in/2015/10/create-pdf-invoices-with-python-and.html,/u/vasudevram,2
-2,2015-10-18 01:07:39 -0500,['/t/compsci'],Restoration of defocused and blurred images,http://yuzhikov.com/articles/BlurredImagesRestoration1.htm,/u/aaron,10
-2,2015-10-17 21:44:55 -0500,"['/t/distributed', '/t/security']",I Built a Botnet that Could Destroy Spotify with Fake Listens,http://motherboard.vice.com/read/i-built-a-botnet-that-could-destroy-spotify-with-fake-listens,/u/zg,12
-1,2015-10-17 17:14:44 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Bryan Steele,http://beastie.pl/deweloperzy-openbsd-bryan-steele/,/u/mulander,16
-0,2015-10-18 04:39:31 -0500,['/t/hardware'],"Unboxing the Raspberry Pi 7"" Touchscreen",https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-raspberry-pi-7-touchscreen/,/u/JeremyMorgan,2
-0,2015-10-17 11:45:49 -0500,"['/t/linux', '/t/mac']",How To Shuffle and Sample on the Command-Line,http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/,/u/zg,14
-1,2015-10-17 09:00:22 -0500,['/t/elixir'],Elixir concepts for Go developers,https://texlution.com/post/elixir-concepts-for-golang-developers/,/u/merzberimbow,17
-1,2015-10-17 06:21:19 -0500,"['/t/openbsd', '/t/security']",Qualys Security Advisory - LibreSSL (CVE-2015-5333 and CVE-2015-5334),http://www.openwall.com/lists/oss-security/2015/10/16/1,/u/mulander,17
-2,2015-10-16 22:52:03 -0500,"['/t/slides', '/t/go', '/t/python']",From Python to Go and Back Again,https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1#slide=id.g70b0035b2_1_168,/u/kb,28
-0,2015-10-17 19:16:17 -0500,"['/t/compsci', '/t/python', '/t/visualization']",Python vs R,https://www.dataquest.io/blog/python-vs-r/,/u/goncalo,3
-0,2015-10-17 13:24:35 -0500,"['/t/video', '/t/compsci', '/t/programming']",Leslie Lamport: Thinking Above the Code,http://www.youtube.com/watch?v=-4Yp3j_jk8Q,/u/GeoffWozniak,6
-0,2015-10-17 15:02:49 -0500,"['/t/netbsd', '/t/unix']",Announcing NetBSD 7.0 for USB Flash Drives,http://www.jibbed.org,/u/fcambus,4
-1,2015-10-17 16:01:58 -0500,"['/t/pdf', '/t/philosophy']",Computer as Rorschach (1980),http://www.kmjn.org/pdf/Turkle_computer_as_rorschach_1980.pdf,/u/mjn,2
-2,2015-10-18 04:23:25 -0500,['/t/c'],C++ Turns 30 – Looking Forward to the Future,http://hackaday.com/2015/10/17/c-turns-30-looking-forward-to-the-future/,/u/pyk,0
-2,2015-10-16 22:12:29 -0500,['/t/databases'],UUID vs BIGSERIAL for Primary Keys in Postgres,http://thebuild.com/blog/2015/10/08/uuid-vs-bigserial-for-primary-keys/,/u/pushcx,15
+3,2015-10-18 12:11:22 -0500,/t/ask,"Would anyone be interested in a ""UNIX hacks"" website?",/s/4cbe55/would_anyone_be_interested_unix_hacks,/u/zg,6
+1,2015-10-18 12:18:59 -0500,/t/practices,Why I don’t answer most phone calls,https://medium.com/life-tips/why-i-don-t-answer-most-phone-calls-4a71e1418854,/u/pushcx,9
+1,2015-10-18 18:38:38 -0500,"/t/distributed,/t/hardware,/t/virtualization",...mobile phones [CPUs] are the future of the datacenter,https://medium.com/s-c-a-l-e/a16z-partner-peter-levine-on-why-mobile-phones-are-the-future-of-the-datacenter-ecf39655672e,/u/adsouza,2
+0,2015-10-18 14:14:53 -0500,/t/distributed,Eventually consistent leaderboard design in Lasp,https://christophermeiklejohn.com/lasp/erlang/2015/10/17/leaderboard.html,/u/cmeiklejohn,3
+0,2015-10-18 02:20:23 -0500,/t/openbsd,OpenBSD's source tree just turned 20 years old,http://marc.info/?l=openbsd-announce&m=144515087006176&w=2,/u/fcambus,23
+0,2015-10-18 11:33:15 -0500,"/t/programming,/t/ruby",The Dynamic Def,http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html,/u/pushcx,8
+1,2015-10-18 11:54:01 -0500,"/t/api,/t/art,/t/release",ASCII Art as a Service,https://www.asky.io/,/u/pushcx,5
+17,2015-10-17 21:15:10 -0500,/t/databases,"Weird Tricks to Write Faster, More Correct Database Queries",https://kev.inburke.com/kevin/faster-correct-database-queries/,/u/kb,9
+1,2015-10-18 15:18:24 -0500,"/t/pdf,/t/web",Adventures in Twitter Censorship,http://members.efn.org/~paulmd/OwnWork/AdventuresinCensorship.pdf,/u/itistoday,4
+0,2015-10-18 21:40:16 -0500,/t/hardware,Implementing a High Frequency Modem for Balloons,http://www.rowetel.com/blog/?p=4629,/u/pushcx,1
+0,2015-10-18 11:54:46 -0500,/t/python,Create PDF invoices with Python and xtopdf,http://jugad2.blogspot.in/2015/10/create-pdf-invoices-with-python-and.html,/u/vasudevram,2
+2,2015-10-18 01:07:39 -0500,/t/compsci,Restoration of defocused and blurred images,http://yuzhikov.com/articles/BlurredImagesRestoration1.htm,/u/aaron,10
+2,2015-10-17 21:44:55 -0500,"/t/distributed,/t/security",I Built a Botnet that Could Destroy Spotify with Fake Listens,http://motherboard.vice.com/read/i-built-a-botnet-that-could-destroy-spotify-with-fake-listens,/u/zg,12
+1,2015-10-17 17:14:44 -0500,"/t/openbsd,/t/person",OpenBSD developers: Bryan Steele,http://beastie.pl/deweloperzy-openbsd-bryan-steele/,/u/mulander,16
+0,2015-10-18 04:39:31 -0500,/t/hardware,"Unboxing the Raspberry Pi 7"" Touchscreen",https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-raspberry-pi-7-touchscreen/,/u/JeremyMorgan,2
+0,2015-10-17 11:45:49 -0500,"/t/linux,/t/mac",How To Shuffle and Sample on the Command-Line,http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/,/u/zg,14
+1,2015-10-17 09:00:22 -0500,/t/elixir,Elixir concepts for Go developers,https://texlution.com/post/elixir-concepts-for-golang-developers/,/u/merzberimbow,17
+1,2015-10-17 06:21:19 -0500,"/t/openbsd,/t/security",Qualys Security Advisory - LibreSSL (CVE-2015-5333 and CVE-2015-5334),http://www.openwall.com/lists/oss-security/2015/10/16/1,/u/mulander,17
+2,2015-10-16 22:52:03 -0500,"/t/slides,/t/go,/t/python",From Python to Go and Back Again,https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1#slide=id.g70b0035b2_1_168,/u/kb,28
+0,2015-10-17 19:16:17 -0500,"/t/compsci,/t/python,/t/visualization",Python vs R,https://www.dataquest.io/blog/python-vs-r/,/u/goncalo,3
+0,2015-10-17 13:24:35 -0500,"/t/video,/t/compsci,/t/programming",Leslie Lamport: Thinking Above the Code,http://www.youtube.com/watch?v=-4Yp3j_jk8Q,/u/GeoffWozniak,6
+0,2015-10-17 15:02:49 -0500,"/t/netbsd,/t/unix",Announcing NetBSD 7.0 for USB Flash Drives,http://www.jibbed.org,/u/fcambus,4
+1,2015-10-17 16:01:58 -0500,"/t/pdf,/t/philosophy",Computer as Rorschach (1980),http://www.kmjn.org/pdf/Turkle_computer_as_rorschach_1980.pdf,/u/mjn,2
+2,2015-10-18 04:23:25 -0500,/t/c,C++ Turns 30 – Looking Forward to the Future,http://hackaday.com/2015/10/17/c-turns-30-looking-forward-to-the-future/,/u/pyk,0
+2,2015-10-16 22:12:29 -0500,/t/databases,UUID vs BIGSERIAL for Primary Keys in Postgres,http://thebuild.com/blog/2015/10/08/uuid-vs-bigserial-for-primary-keys/,/u/pushcx,15

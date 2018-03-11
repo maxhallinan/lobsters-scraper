@@ -1,25 +1,25 @@
-0,2014-05-09 07:21:49 -0500,"['/t/openbsd', '/t/programming', '/t/security']",LibreSSL Will be Portable,http://undeadly.org/cgi?action=article&sid=20140509092303,/u/cmacrae,25
-0,2014-05-09 14:07:31 -0500,"['/t/video', '/t/lisp']",Core Async Go Macros - Part II,https://www.youtube.com/watch?v=SI7qtuuahhU,/u/SeanTAllen,8
-0,2014-05-09 14:07:17 -0500,"['/t/video', '/t/lisp']",Core Async Go Macro Internals - Part I,https://www.youtube.com/watch?v=R3PZMIwXN_g&feature=youtu.be&t=24m30s,/u/SeanTAllen,8
-0,2014-05-09 13:34:29 -0500,"['/t/programming', '/t/rust']",A simple procedural macro that turns a Brainfuck program into Rust code.,https://github.com/huonw/brainfuck_macro,/u/steveklabnik,8
-0,2014-05-09 15:46:30 -0500,['/t/programming'],Tips for Clojure Beginners,http://robots.thoughtbot.com/tips-for-clojure-beginners,/u/lauris,6
-1,2014-05-09 04:28:49 -0500,"['/t/compilers', '/t/go', '/t/programming']",LLVM-based compiler for Go,https://github.com/go-llvm/llgo,/u/penberg,15
-2,2014-05-09 09:47:19 -0500,"['/t/programming', '/t/python']",Why Python is Slow: Looking Under the Hood,http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/,/u/underyx,6
-0,2014-05-09 13:37:02 -0500,['/t/compsci'],Why big data is in trouble: they forgot about applied statistics,http://simplystatistics.org/2014/05/07/why-big-data-is-in-trouble-they-forgot-about-applied-statistics/,/u/mattk,6
-0,2014-05-09 18:40:09 -0500,"['/t/pdf', '/t/book', '/t/databases']",The Little Redis Book,http://openmymind.net/redis.pdf,/u/bsilvereagle,3
-1,2014-05-09 08:45:00 -0500,"['/t/c', '/t/security']",Defeating memory comparison timing oracles,https://securityblog.redhat.com/2014/05/07/defeating-memory-comparison-timing-oracles/,/u/jcs,4
-0,2014-05-09 15:08:39 -0500,"['/t/practices', '/t/programming', '/t/python']",Top Ten of the 10 Most Common Python Mistakes,http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make,/u/DrM,2
-13,2014-05-08 14:31:31 -0500,"['/t/book', '/t/math', '/t/programming']","Certified Programming with Dependent Types, by Adam Chlipala",http://adam.chlipala.net/cpdt/,/u/kragen,19
-10,2014-05-08 18:36:30 -0500,['/t/programming'],White paper: Compile Time TDD Coverage with Idris,http://chromaticleaves.com/posts/idris-and-dependent-types.html,/u/tizoc,10
-0,2014-05-09 11:14:24 -0500,['/t/openbsd'],Not Yet another installer for OpenBSD,https://github.com/Mayeu/NYaifO,/u/Mayeu,2
-0,2014-05-09 11:04:04 -0500,['/t/linux'],Linux 32-bit vs. 64-bit Performance Compared,http://www.phoronix.com/vr.php?view=20365,/u/journeysquid,1
-0,2014-05-09 10:34:00 -0500,"['/t/dotnet', '/t/finance', '/t/math']",C# Algorithmic Trading Backtesting Platform,https://www.quantconnect.com/blog/new-html5-ide-and-community-discussion-feed/,/u/jaredbroad,1
-0,2014-05-08 22:00:56 -0500,"['/t/compsci', '/t/web']",The Ur Programming Language Family,http://www.impredicative.com/ur/,/u/jozefg,6
-4,2014-05-08 08:10:00 -0500,"['/t/philosophy', '/t/practices']",How to be an open source gardener,http://words.steveklabnik.com/how-to-be-an-open-source-gardener,/u/polyfractal,18
-0,2014-05-09 06:37:58 -0500,"['/t/science', '/t/security']",How To Generate Quantum Random Numbers With A Smartphone Camera,https://medium.com/the-physics-arxiv-blog/602f88552b64,/u/igstan,1
-11,2014-05-08 13:16:09 -0500,['/t/programming'],Refactoring Tips: Don't Trust Your Unit Tests,http://blog.jakubarnold.cz/2014/05/07/refactoring-tips-don-t-trust-your-unit-tests.html,/u/darthdeus,5
-2,2014-05-08 11:46:30 -0500,['/t/programming'],Learn X in Y Minutes: Scenic Programming Language Tours,http://learnxinyminutes.com,/u/sevan,11
-3,2014-05-08 11:25:15 -0500,['/t/practices'],Alibaba's gender diversity puts Silicon Valley to shame,http://qz.com/207398/the-gender-diversity-among-alibabas-founders-puts-silicon-valley-to-shame/,/u/journeysquid,5
-2,2014-05-08 08:10:39 -0500,"['/t/haskell', '/t/programming']",Architecture of a Real World Haskell Application,http://www.onikudaki.net/blog/archives/6,/u/BruceM,10
-3,2014-05-08 03:05:14 -0500,"['/t/c', '/t/compilers', '/t/openbsd', '/t/programming', '/t/security']",New Compiler OpenBSD Capabilities: -fstack-shuffle and Return Value Guards,http://undeadly.org/cgi?action=article&sid=20140507100510&mode=expanded&count=5,/u/BruceM,19
-0,2014-05-08 11:10:45 -0500,['/t/networking'],"Decoupled from IP, TCP is at last able to support multihomed hosts",http://queue.acm.org/detail.cfm?id=2591369,/u/journeysquid,8
+0,2014-05-09 07:21:49 -0500,"/t/openbsd,/t/programming,/t/security",LibreSSL Will be Portable,http://undeadly.org/cgi?action=article&sid=20140509092303,/u/cmacrae,25
+0,2014-05-09 14:07:31 -0500,"/t/video,/t/lisp",Core Async Go Macros - Part II,https://www.youtube.com/watch?v=SI7qtuuahhU,/u/SeanTAllen,8
+0,2014-05-09 14:07:17 -0500,"/t/video,/t/lisp",Core Async Go Macro Internals - Part I,https://www.youtube.com/watch?v=R3PZMIwXN_g&feature=youtu.be&t=24m30s,/u/SeanTAllen,8
+0,2014-05-09 13:34:29 -0500,"/t/programming,/t/rust",A simple procedural macro that turns a Brainfuck program into Rust code.,https://github.com/huonw/brainfuck_macro,/u/steveklabnik,8
+0,2014-05-09 15:46:30 -0500,/t/programming,Tips for Clojure Beginners,http://robots.thoughtbot.com/tips-for-clojure-beginners,/u/lauris,6
+1,2014-05-09 04:28:49 -0500,"/t/compilers,/t/go,/t/programming",LLVM-based compiler for Go,https://github.com/go-llvm/llgo,/u/penberg,15
+2,2014-05-09 09:47:19 -0500,"/t/programming,/t/python",Why Python is Slow: Looking Under the Hood,http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/,/u/underyx,6
+0,2014-05-09 13:37:02 -0500,/t/compsci,Why big data is in trouble: they forgot about applied statistics,http://simplystatistics.org/2014/05/07/why-big-data-is-in-trouble-they-forgot-about-applied-statistics/,/u/mattk,6
+0,2014-05-09 18:40:09 -0500,"/t/pdf,/t/book,/t/databases",The Little Redis Book,http://openmymind.net/redis.pdf,/u/bsilvereagle,3
+1,2014-05-09 08:45:00 -0500,"/t/c,/t/security",Defeating memory comparison timing oracles,https://securityblog.redhat.com/2014/05/07/defeating-memory-comparison-timing-oracles/,/u/jcs,4
+0,2014-05-09 15:08:39 -0500,"/t/practices,/t/programming,/t/python",Top Ten of the 10 Most Common Python Mistakes,http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make,/u/DrM,2
+13,2014-05-08 14:31:31 -0500,"/t/book,/t/math,/t/programming","Certified Programming with Dependent Types, by Adam Chlipala",http://adam.chlipala.net/cpdt/,/u/kragen,19
+10,2014-05-08 18:36:30 -0500,/t/programming,White paper: Compile Time TDD Coverage with Idris,http://chromaticleaves.com/posts/idris-and-dependent-types.html,/u/tizoc,10
+0,2014-05-09 11:14:24 -0500,/t/openbsd,Not Yet another installer for OpenBSD,https://github.com/Mayeu/NYaifO,/u/Mayeu,2
+0,2014-05-09 11:04:04 -0500,/t/linux,Linux 32-bit vs. 64-bit Performance Compared,http://www.phoronix.com/vr.php?view=20365,/u/journeysquid,1
+0,2014-05-09 10:34:00 -0500,"/t/dotnet,/t/finance,/t/math",C# Algorithmic Trading Backtesting Platform,https://www.quantconnect.com/blog/new-html5-ide-and-community-discussion-feed/,/u/jaredbroad,1
+0,2014-05-08 22:00:56 -0500,"/t/compsci,/t/web",The Ur Programming Language Family,http://www.impredicative.com/ur/,/u/jozefg,6
+4,2014-05-08 08:10:00 -0500,"/t/philosophy,/t/practices",How to be an open source gardener,http://words.steveklabnik.com/how-to-be-an-open-source-gardener,/u/polyfractal,18
+0,2014-05-09 06:37:58 -0500,"/t/science,/t/security",How To Generate Quantum Random Numbers With A Smartphone Camera,https://medium.com/the-physics-arxiv-blog/602f88552b64,/u/igstan,1
+11,2014-05-08 13:16:09 -0500,/t/programming,Refactoring Tips: Don't Trust Your Unit Tests,http://blog.jakubarnold.cz/2014/05/07/refactoring-tips-don-t-trust-your-unit-tests.html,/u/darthdeus,5
+2,2014-05-08 11:46:30 -0500,/t/programming,Learn X in Y Minutes: Scenic Programming Language Tours,http://learnxinyminutes.com,/u/sevan,11
+3,2014-05-08 11:25:15 -0500,/t/practices,Alibaba's gender diversity puts Silicon Valley to shame,http://qz.com/207398/the-gender-diversity-among-alibabas-founders-puts-silicon-valley-to-shame/,/u/journeysquid,5
+2,2014-05-08 08:10:39 -0500,"/t/haskell,/t/programming",Architecture of a Real World Haskell Application,http://www.onikudaki.net/blog/archives/6,/u/BruceM,10
+3,2014-05-08 03:05:14 -0500,"/t/c,/t/compilers,/t/openbsd,/t/programming,/t/security",New Compiler OpenBSD Capabilities: -fstack-shuffle and Return Value Guards,http://undeadly.org/cgi?action=article&sid=20140507100510&mode=expanded&count=5,/u/BruceM,19
+0,2014-05-08 11:10:45 -0500,/t/networking,"Decoupled from IP, TCP is at last able to support multihomed hosts",http://queue.acm.org/detail.cfm?id=2591369,/u/journeysquid,8

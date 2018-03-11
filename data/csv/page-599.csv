@@ -1,25 +1,25 @@
-1,2016-11-15 18:48:18 -0600,"['/t/historical', '/t/release']",ICQ: 20 Years Is No Limit!,https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea,/u/355E3B,6
-0,2016-11-15 08:53:50 -0600,"['/t/perl', '/t/vcs']",git-pisect: A Parallel Version of git-bisect,https://hoelz.ro/blog/git-pisect,/u/hoelzro,12
-0,2016-11-16 07:17:21 -0600,"['/t/linux', '/t/scaling', '/t/virtualization']",How I Installed Kubernetes From Scratch on a Bytemark VM,http://blog.willmer.org/2016/11/kubernetes-bytemark/,/u/mjturner,1
-0,2016-11-15 15:38:56 -0600,"['/t/browsers', '/t/release', '/t/security']",Security vulnerabilities fixed in Firefox 50,https://www.mozilla.org/en-US/security/advisories/mfsa2016-89/,/u/tedu,9
-0,2016-11-15 11:17:40 -0600,"['/t/video', '/t/rust']",intermezzOS: a teaching operating system,https://www.youtube.com/watch?v=WxbrhruIAa8,/u/unbalancedparentheses,14
-0,2016-11-16 00:58:21 -0600,"['/t/elixir', '/t/networking', '/t/practices']",Parsing UDP in Elixir with Binary Pattern Matching,http://www.rokkincat.com/blog/2016/05/09/parsing-udp-in-elixir-with-binary-pattern-matching,/u/friendlysock,2
-0,2016-11-15 16:37:26 -0600,['/t/security'],"So, you want to work in security?",https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23,/u/mulander,6
-0,2016-11-15 09:12:30 -0600,['/t/linux'],Write a System Call,https://brennan.io/2016/11/14/kernel-dev-ep3/,/u/unbalancedparentheses,14
-0,2016-11-15 14:44:20 -0600,"['/t/distributed', '/t/scaling']",CockroachDB Stability Post-Mortem: From 1 Node to 100 Nodes,https://www.cockroachlabs.com/blog/cockroachdb-stability-from-1-node-to-100-nodes/,/u/bbrazil,7
-0,2016-11-15 23:56:14 -0600,"['/t/compsci', '/t/programming']","A.I. Experiments - Explore machine learning by playing with pictures, language, music, code",https://aiexperiments.withgoogle.com/,/u/tf,2
-1,2016-11-15 12:49:47 -0600,"['/t/games', '/t/graphics']",Braid Particle System Revision (part 1),https://handmade.network/forums/t/1335#7516,/u/pushcx,6
-0,2016-11-15 17:34:29 -0600,['/t/ios'],App Store Submission Checklist,https://github.com/ubclaunchpad/app-store-checklist,/u/polydaic,2
-0,2016-11-15 16:20:47 -0600,"['/t/video', '/t/person', '/t/practices']",Alan Kay at CresstCon 2016,https://vimeo.com/191103662,/u/sevan,5
-2,2016-11-15 16:31:56 -0600,"['/t/programming', '/t/python']",ML Algorithms,https://github.com/rushter/MLAlgorithms,/u/fcbsd,2
-0,2016-11-15 10:57:55 -0600,['/t/erlang'],The Hidden XML Simplifier – Erlang Battleground,https://medium.com/erlang-battleground/the-hidden-xml-simplifier-a5f66e10c928,/u/elbrujohalcon,4
-1,2016-11-15 10:03:05 -0600,"['/t/video', '/t/programming']",Session Types for Me and You and Everyone We Know!,https://www.youtube.com/watch?v=8GJ2AnCjCvU,/u/unbalancedparentheses,7
-0,2016-11-15 11:25:15 -0600,"['/t/video', '/t/elm', '/t/haskell']",Elm in Purescript,https://www.youtube.com/watch?v=O_kWwaghZ9U,/u/unbalancedparentheses,7
-0,2016-11-15 11:18:31 -0600,"['/t/haskell', '/t/programming']","The midnight Monad, a journey to enlightenment",http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/,/u/unbalancedparentheses,6
-3,2016-11-15 08:58:40 -0600,"['/t/api', '/t/c']",the malloc challenge,http://vicsydev.blogspot.com/2016/11/the-malloc-challenge.html,/u/friendlysock,6
-0,2016-11-15 11:05:23 -0600,"['/t/hardware', '/t/historical', '/t/practices']",Whence Came the Famicom’s Brain?,http://metopal.com/2012/02/12/famicom-brain/,/u/calvin,7
-1,2016-11-15 15:03:44 -0600,"['/t/cryptocurrencies', '/t/security']",Cypherpunk Desert Bus: My Role In The 2016 Zcash Trusted Setup Ceremony,https://petertodd.org/2016/cypherpunk-desert-bus-zcash-trusted-setup-ceremony,/u/jabberwock,3
-0,2016-11-15 13:23:10 -0600,['/t/databases'],"Materialized Views, revisited (2015)",http://bonesmoses.org/2015/03/06/pg-phriday-materialized-views-revisited/,/u/hoopla,4
-7,2016-11-15 01:11:14 -0600,"['/t/c', '/t/ios']",Dash for iOS is now open source,https://github.com/Kapeli/Dash-iOS,/u/ehamberg,8
-0,2016-11-15 17:33:36 -0600,"['/t/cogsci', '/t/games', '/t/graphics']",The Post Virtual Reality Sadness,https://medium.com/desk-of-van-schneider/the-post-virtual-reality-sadness-fb4a1ccacae4,/u/the-kenny,2
-11,2016-11-14 13:37:26 -0600,"['/t/linux', '/t/security']",Compromising a Linux desktop using... 6502 processor opcodes on the NES?!,http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-compromising-linux-desktop.html,/u/mulander,28
+1,2016-11-15 18:48:18 -0600,"/t/historical,/t/release",ICQ: 20 Years Is No Limit!,https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea,/u/355E3B,6
+0,2016-11-15 08:53:50 -0600,"/t/perl,/t/vcs",git-pisect: A Parallel Version of git-bisect,https://hoelz.ro/blog/git-pisect,/u/hoelzro,12
+0,2016-11-16 07:17:21 -0600,"/t/linux,/t/scaling,/t/virtualization",How I Installed Kubernetes From Scratch on a Bytemark VM,http://blog.willmer.org/2016/11/kubernetes-bytemark/,/u/mjturner,1
+0,2016-11-15 15:38:56 -0600,"/t/browsers,/t/release,/t/security",Security vulnerabilities fixed in Firefox 50,https://www.mozilla.org/en-US/security/advisories/mfsa2016-89/,/u/tedu,9
+0,2016-11-15 11:17:40 -0600,"/t/video,/t/rust",intermezzOS: a teaching operating system,https://www.youtube.com/watch?v=WxbrhruIAa8,/u/unbalancedparentheses,14
+0,2016-11-16 00:58:21 -0600,"/t/elixir,/t/networking,/t/practices",Parsing UDP in Elixir with Binary Pattern Matching,http://www.rokkincat.com/blog/2016/05/09/parsing-udp-in-elixir-with-binary-pattern-matching,/u/friendlysock,2
+0,2016-11-15 16:37:26 -0600,/t/security,"So, you want to work in security?",https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23,/u/mulander,6
+0,2016-11-15 09:12:30 -0600,/t/linux,Write a System Call,https://brennan.io/2016/11/14/kernel-dev-ep3/,/u/unbalancedparentheses,14
+0,2016-11-15 14:44:20 -0600,"/t/distributed,/t/scaling",CockroachDB Stability Post-Mortem: From 1 Node to 100 Nodes,https://www.cockroachlabs.com/blog/cockroachdb-stability-from-1-node-to-100-nodes/,/u/bbrazil,7
+0,2016-11-15 23:56:14 -0600,"/t/compsci,/t/programming","A.I. Experiments - Explore machine learning by playing with pictures, language, music, code",https://aiexperiments.withgoogle.com/,/u/tf,2
+1,2016-11-15 12:49:47 -0600,"/t/games,/t/graphics",Braid Particle System Revision (part 1),https://handmade.network/forums/t/1335#7516,/u/pushcx,6
+0,2016-11-15 17:34:29 -0600,/t/ios,App Store Submission Checklist,https://github.com/ubclaunchpad/app-store-checklist,/u/polydaic,2
+0,2016-11-15 16:20:47 -0600,"/t/video,/t/person,/t/practices",Alan Kay at CresstCon 2016,https://vimeo.com/191103662,/u/sevan,5
+2,2016-11-15 16:31:56 -0600,"/t/programming,/t/python",ML Algorithms,https://github.com/rushter/MLAlgorithms,/u/fcbsd,2
+0,2016-11-15 10:57:55 -0600,/t/erlang,The Hidden XML Simplifier – Erlang Battleground,https://medium.com/erlang-battleground/the-hidden-xml-simplifier-a5f66e10c928,/u/elbrujohalcon,4
+1,2016-11-15 10:03:05 -0600,"/t/video,/t/programming",Session Types for Me and You and Everyone We Know!,https://www.youtube.com/watch?v=8GJ2AnCjCvU,/u/unbalancedparentheses,7
+0,2016-11-15 11:25:15 -0600,"/t/video,/t/elm,/t/haskell",Elm in Purescript,https://www.youtube.com/watch?v=O_kWwaghZ9U,/u/unbalancedparentheses,7
+0,2016-11-15 11:18:31 -0600,"/t/haskell,/t/programming","The midnight Monad, a journey to enlightenment",http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/,/u/unbalancedparentheses,6
+3,2016-11-15 08:58:40 -0600,"/t/api,/t/c",the malloc challenge,http://vicsydev.blogspot.com/2016/11/the-malloc-challenge.html,/u/friendlysock,6
+0,2016-11-15 11:05:23 -0600,"/t/hardware,/t/historical,/t/practices",Whence Came the Famicom’s Brain?,http://metopal.com/2012/02/12/famicom-brain/,/u/calvin,7
+1,2016-11-15 15:03:44 -0600,"/t/cryptocurrencies,/t/security",Cypherpunk Desert Bus: My Role In The 2016 Zcash Trusted Setup Ceremony,https://petertodd.org/2016/cypherpunk-desert-bus-zcash-trusted-setup-ceremony,/u/jabberwock,3
+0,2016-11-15 13:23:10 -0600,/t/databases,"Materialized Views, revisited (2015)",http://bonesmoses.org/2015/03/06/pg-phriday-materialized-views-revisited/,/u/hoopla,4
+7,2016-11-15 01:11:14 -0600,"/t/c,/t/ios",Dash for iOS is now open source,https://github.com/Kapeli/Dash-iOS,/u/ehamberg,8
+0,2016-11-15 17:33:36 -0600,"/t/cogsci,/t/games,/t/graphics",The Post Virtual Reality Sadness,https://medium.com/desk-of-van-schneider/the-post-virtual-reality-sadness-fb4a1ccacae4,/u/the-kenny,2
+11,2016-11-14 13:37:26 -0600,"/t/linux,/t/security",Compromising a Linux desktop using... 6502 processor opcodes on the NES?!,http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-compromising-linux-desktop.html,/u/mulander,28

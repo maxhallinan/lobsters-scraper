@@ -1,25 +1,25 @@
-2,2016-11-17 10:07:37 -0600,"['/t/c', '/t/games', '/t/ios']",The Monkey and the Apple,https://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html,/u/pushcx,24
-0,2016-11-18 05:52:27 -0600,['/t/javascript'],Koto - a d3.js charting framework written in ES6,http://kotojs.org/,/u/av,2
-29,2016-11-17 06:22:16 -0600,['/t/ask'],What is your backup strategy?,/s/o7dwrq/what_is_your_backup_strategy,/u/sdlnv,17
-0,2016-11-18 04:26:23 -0600,['/t/programming'],GNU Health - Freedom and Equity in Healthcare,http://health.gnu.org/,/u/av,2
-23,2016-11-17 03:45:52 -0600,"['/t/design', '/t/go']",Go fonts,https://blog.golang.org/go-fonts,/u/rbn,18
-6,2016-11-17 14:56:28 -0600,"['/t/android', '/t/hardware']",Was the Google Pixel built in a mere 9 months?,http://arstechnica.com/gadgets/2016/10/the-google-pixel-a-nine-month-dash-to-mold-an-htc-phone-into-a-google-product/,/u/calvin,5
-0,2016-11-17 14:37:07 -0600,"['/t/api', '/t/debugging', '/t/java', '/t/security']",Debugging SSL in Java using mitmproxy,http://blog.packagecloud.io/eng/2016/11/14/debugging-ssl-in-java-using-mitmproxy/,/u/capotej,5
-0,2016-11-17 10:27:09 -0600,"['/t/cryptocurrencies', '/t/security']",Keybase chooses Zcash,https://keybase.io/blog/keybase-and-zcash,/u/stevejalim,15
-5,2016-11-17 07:14:28 -0600,['/t/security'],Site requests bank logins for online purchases,https://lolware.net/2016/11/17/requesting_bank_login.html,/u/av,12
-0,2016-11-17 08:51:17 -0600,"['/t/browsers', '/t/ios']","Introducing Firefox Focus – a free, fast and easy to use private browser for iOS",https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/,/u/av,16
-0,2016-11-17 08:06:33 -0600,"['/t/book', '/t/vim']",10 Minute Vim - Sample Chapter,https://github.com/steveshogren/10-minute-vim-exercises/blob/master/book_sample_delimited_edits.md,/u/steveshogren,9
-25,2016-11-16 18:41:49 -0600,['/t/practices'],Not so crazy idea: Charge for meetings,https://medium.com/@matryer/not-so-crazy-idea-charge-for-meetings-7e96ea166748,/u/adsouza,32
-0,2016-11-17 23:58:52 -0600,"['/t/compsci', '/t/python']",A deep learning approach to colorizing images,https://github.com/cameronfabbri/Colorful-Image-Colorization,/u/tf,2
-0,2016-11-17 19:01:47 -0600,['/t/science'],The state of the climate in 2016,http://www.economist.com/blogs/graphicdetail/2016/11/global-warming,/u/akalin,3
-0,2016-11-17 06:12:27 -0600,['/t/rust'],Rust community discussion about its vision for the 2017 cycle,https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958,/u/unbalancedparentheses,14
-36,2016-11-16 14:49:25 -0600,['/t/hardware'],"Realistic alternatives to a 13"" Apple laptop",http://www.onebigfluke.com/2016/10/alternatives-to-apple-computers.html,/u/pushcx,28
-0,2016-11-17 13:41:48 -0600,['/t/release'],Announcing Let's Encrypt Public Beta - DNSimple Blog,https://blog.dnsimple.com/2016/11/lets-encrypt/,/u/jcaudle,4
-12,2016-11-17 01:28:33 -0600,['/t/ask'],What will your ideal/dream programming laptop be?,/s/l8ce99/what_will_your_ideal_dream_programming,/u/awal,8
-3,2016-11-16 22:23:56 -0600,['/t/programming'],You Are Not Paid to Write Code,http://bravenewgeek.com/you-are-not-paid-to-write-code/,/u/tylertreat,6
-0,2016-11-17 11:36:17 -0600,"['/t/cogsci', '/t/programming', '/t/science']",Ability to remember code improves with experience,http://shape-of-code.coding-guidelines.com/2016/11/17/ability-to-remember-code-improves-with-experience/,/u/derek-jones,2
-0,2016-11-17 15:37:44 -0600,"['/t/video', '/t/javascript']",Vue.js - the Progressive Framework,https://www.youtube.com/watch?v=pBBSp_iIiVM,/u/flyingfisch,2
-0,2016-11-17 12:26:06 -0600,['/t/hardware'],The History of the Meridian Lines in Catholic Churches,http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls,/u/pushcx,3
-0,2016-11-17 14:47:16 -0600,['/t/python'],A Curious Course on Coroutines and Concurrency (2009),http://www.dabeaz.com/coroutines/,/u/pushcx,2
-7,2016-11-16 15:46:23 -0600,['/t/dotnet'],F# Units of Measure,https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/units-of-measure,/u/pushcx,14
-2,2016-11-17 10:09:41 -0600,"['/t/ios', '/t/security']","iPhones Secretly Send Call History To Apple, Security Firm Says",https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/,/u/mjturner,1
+2,2016-11-17 10:07:37 -0600,"/t/c,/t/games,/t/ios",The Monkey and the Apple,https://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html,/u/pushcx,24
+0,2016-11-18 05:52:27 -0600,/t/javascript,Koto - a d3.js charting framework written in ES6,http://kotojs.org/,/u/av,2
+29,2016-11-17 06:22:16 -0600,/t/ask,What is your backup strategy?,/s/o7dwrq/what_is_your_backup_strategy,/u/sdlnv,17
+0,2016-11-18 04:26:23 -0600,/t/programming,GNU Health - Freedom and Equity in Healthcare,http://health.gnu.org/,/u/av,2
+23,2016-11-17 03:45:52 -0600,"/t/design,/t/go",Go fonts,https://blog.golang.org/go-fonts,/u/rbn,18
+6,2016-11-17 14:56:28 -0600,"/t/android,/t/hardware",Was the Google Pixel built in a mere 9 months?,http://arstechnica.com/gadgets/2016/10/the-google-pixel-a-nine-month-dash-to-mold-an-htc-phone-into-a-google-product/,/u/calvin,5
+0,2016-11-17 14:37:07 -0600,"/t/api,/t/debugging,/t/java,/t/security",Debugging SSL in Java using mitmproxy,http://blog.packagecloud.io/eng/2016/11/14/debugging-ssl-in-java-using-mitmproxy/,/u/capotej,5
+0,2016-11-17 10:27:09 -0600,"/t/cryptocurrencies,/t/security",Keybase chooses Zcash,https://keybase.io/blog/keybase-and-zcash,/u/stevejalim,15
+5,2016-11-17 07:14:28 -0600,/t/security,Site requests bank logins for online purchases,https://lolware.net/2016/11/17/requesting_bank_login.html,/u/av,12
+0,2016-11-17 08:51:17 -0600,"/t/browsers,/t/ios","Introducing Firefox Focus – a free, fast and easy to use private browser for iOS",https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/,/u/av,16
+0,2016-11-17 08:06:33 -0600,"/t/book,/t/vim",10 Minute Vim - Sample Chapter,https://github.com/steveshogren/10-minute-vim-exercises/blob/master/book_sample_delimited_edits.md,/u/steveshogren,9
+25,2016-11-16 18:41:49 -0600,/t/practices,Not so crazy idea: Charge for meetings,https://medium.com/@matryer/not-so-crazy-idea-charge-for-meetings-7e96ea166748,/u/adsouza,32
+0,2016-11-17 23:58:52 -0600,"/t/compsci,/t/python",A deep learning approach to colorizing images,https://github.com/cameronfabbri/Colorful-Image-Colorization,/u/tf,2
+0,2016-11-17 19:01:47 -0600,/t/science,The state of the climate in 2016,http://www.economist.com/blogs/graphicdetail/2016/11/global-warming,/u/akalin,3
+0,2016-11-17 06:12:27 -0600,/t/rust,Rust community discussion about its vision for the 2017 cycle,https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958,/u/unbalancedparentheses,14
+36,2016-11-16 14:49:25 -0600,/t/hardware,"Realistic alternatives to a 13"" Apple laptop",http://www.onebigfluke.com/2016/10/alternatives-to-apple-computers.html,/u/pushcx,28
+0,2016-11-17 13:41:48 -0600,/t/release,Announcing Let's Encrypt Public Beta - DNSimple Blog,https://blog.dnsimple.com/2016/11/lets-encrypt/,/u/jcaudle,4
+12,2016-11-17 01:28:33 -0600,/t/ask,What will your ideal/dream programming laptop be?,/s/l8ce99/what_will_your_ideal_dream_programming,/u/awal,8
+3,2016-11-16 22:23:56 -0600,/t/programming,You Are Not Paid to Write Code,http://bravenewgeek.com/you-are-not-paid-to-write-code/,/u/tylertreat,6
+0,2016-11-17 11:36:17 -0600,"/t/cogsci,/t/programming,/t/science",Ability to remember code improves with experience,http://shape-of-code.coding-guidelines.com/2016/11/17/ability-to-remember-code-improves-with-experience/,/u/derek-jones,2
+0,2016-11-17 15:37:44 -0600,"/t/video,/t/javascript",Vue.js - the Progressive Framework,https://www.youtube.com/watch?v=pBBSp_iIiVM,/u/flyingfisch,2
+0,2016-11-17 12:26:06 -0600,/t/hardware,The History of the Meridian Lines in Catholic Churches,http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls,/u/pushcx,3
+0,2016-11-17 14:47:16 -0600,/t/python,A Curious Course on Coroutines and Concurrency (2009),http://www.dabeaz.com/coroutines/,/u/pushcx,2
+7,2016-11-16 15:46:23 -0600,/t/dotnet,F# Units of Measure,https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/units-of-measure,/u/pushcx,14
+2,2016-11-17 10:09:41 -0600,"/t/ios,/t/security","iPhones Secretly Send Call History To Apple, Security Firm Says",https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/,/u/mjturner,1

@@ -1,25 +1,25 @@
-1,2015-07-09 03:06:11 -0500,['/t/go'],"Go, Open Source, Community",http://blog.golang.org/open-source,/u/ngrilly,11
-0,2015-07-09 06:40:00 -0500,"['/t/linux', '/t/programming']",A Simple Forth System for Linux on i386 and ARM CPUs,http://www.call-with-current-continuation.org/forth/,/u/the-kenny,6
-0,2015-07-09 11:34:36 -0500,"['/t/javascript', '/t/programming']",React.js Introduction For People Who Know Just Enough jQuery To Get By,http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/,/u/pushcx,3
-0,2015-07-09 07:32:30 -0500,"['/t/networking', '/t/programming']",Unit testing a TCP stack,http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/,/u/englishm,5
-5,2015-07-08 08:16:08 -0500,['/t/ruby'],Ruby is defined by terrible tools,http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/,/u/julienXX,40
-1,2015-07-08 19:18:01 -0500,['/t/networking'],Why does Gmail hate my domain?,https://bitbin.de/blog/2015/07/gmail-hate/,/u/zg,12
-0,2015-07-09 01:32:40 -0500,"['/t/c', '/t/compilers', '/t/lisp']",Syntactic Corn Syrup,http://nklein.com/2015/06/syntactic-corn-syrup/,/u/antifuchs,8
-6,2015-07-08 09:43:48 -0500,['/t/openbsd'],Microsoft Now OpenBSD Foundation Gold Contributor,http://undeadly.org/cgi?action=article&sid=20150708134520,/u/jcs,31
-2,2015-07-08 16:03:15 -0500,"['/t/games', '/t/programming']",Red Blob Games,http://www.redblobgames.com/,/u/flyingfisch,16
-4,2015-07-08 14:06:17 -0500,['/t/security'],CyberUL is a dumb idea,http://blog.erratasec.com/2015/06/cyberul-is-dumb-idea.html,/u/fcbsd,9
-0,2015-07-08 21:42:05 -0500,['/t/lisp'],What is a closure?,https://groups.google.com/forum/#!msg/comp.lang.scheme/Wd69ecH082Y/lRJC49tlJ2UJ,/u/rubenbarroso,7
-3,2015-07-08 10:24:31 -0500,['/t/openbsd'],LibreSSL 2.2.1 released,http://marc.info/?l=openbsd-announce&m=143635991232240&w=2,/u/bmercer,18
-0,2015-07-08 15:37:45 -0500,['/t/go'],Go GC: Solving the Latency Problem in Go 1.5,https://sourcegraph.com/blog/live/gophercon2015/123574706480,/u/jmhodges,9
-0,2015-07-08 09:29:14 -0500,['/t/programming'],Crash Consistency: Rethinking the Fundamental Abstractions of the File System,http://queue.acm.org/detail.cfm?id=2801719,/u/BruceM,16
-1,2015-07-08 10:24:36 -0500,['/t/go'],Go 1.5 Beta 1 is released,https://groups.google.com/forum/m/#!topic/golang-nuts/0Twz24CjYas,/u/journeysquid,12
-4,2015-07-08 09:04:39 -0500,"['/t/compsci', '/t/security']",When ‘int’ is the new ‘short’,http://googleprojectzero.blogspot.com/2015/07/when-int-is-new-short.html,/u/jcs,9
-0,2015-07-08 11:25:32 -0500,"['/t/video', '/t/lisp']",Om Next - David Nolen,http://www.youtube.com/watch?v=ByNs9TG30E8,/u/gumpt,10
-0,2015-07-08 12:22:42 -0500,['/t/ruby'],JRuby - Just Ruby,http://blog.eurucamp.org/2015/07/08/jruby-just-ruby/,/u/PragTob,7
-2,2015-07-07 22:59:27 -0500,"['/t/person', '/t/science']",What Problems to Solve - By Richard Feynman,http://genius.cat-v.org/richard-feynman/writtings/letters/problems,/u/rubenbarroso,25
-9,2015-07-07 12:11:53 -0500,"['/t/compsci', '/t/databases', '/t/distributed']","Comments on ""You Do it Too""",https://aphyr.com/posts/325-comments-on-you-do-it-too,/u/apy,54
-0,2015-07-08 11:16:04 -0500,['/t/lisp'],Debugging Lisp Part 1: Recompilation,http://malisper.me/2015/07/07/debugging-lisp-part-1-recompilation/,/u/kyle,6
-0,2015-07-08 12:31:12 -0500,"['/t/release', '/t/scaling']","Atlas: version control for infrastructure, now generally available",https://www.hashicorp.com/blog/atlas-general-availability.html,/u/kevinSuttle,5
-1,2015-07-08 07:31:53 -0500,"['/t/openbsd', '/t/unix']",OpenSSH in Solaris 11.3,https://blogs.oracle.com/darren/entry/openssh_in_solaris_11_3,/u/mulander,8
-0,2015-07-08 09:36:19 -0500,['/t/security'],"""High"" severity defect in OpenSSL patch forthcoming",https://mta.openssl.org/pipermail/openssl-announce/2015-July/000037.html,/u/codeslinger,7
-0,2015-07-08 13:17:54 -0500,"['/t/networking', '/t/programming', '/t/python']",An Apple Push Notifications Debugging Story,https://thelig.ht/apns3/,/u/pushcx,4
+1,2015-07-09 03:06:11 -0500,/t/go,"Go, Open Source, Community",http://blog.golang.org/open-source,/u/ngrilly,11
+0,2015-07-09 06:40:00 -0500,"/t/linux,/t/programming",A Simple Forth System for Linux on i386 and ARM CPUs,http://www.call-with-current-continuation.org/forth/,/u/the-kenny,6
+0,2015-07-09 11:34:36 -0500,"/t/javascript,/t/programming",React.js Introduction For People Who Know Just Enough jQuery To Get By,http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/,/u/pushcx,3
+0,2015-07-09 07:32:30 -0500,"/t/networking,/t/programming",Unit testing a TCP stack,http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/,/u/englishm,5
+5,2015-07-08 08:16:08 -0500,/t/ruby,Ruby is defined by terrible tools,http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/,/u/julienXX,40
+1,2015-07-08 19:18:01 -0500,/t/networking,Why does Gmail hate my domain?,https://bitbin.de/blog/2015/07/gmail-hate/,/u/zg,12
+0,2015-07-09 01:32:40 -0500,"/t/c,/t/compilers,/t/lisp",Syntactic Corn Syrup,http://nklein.com/2015/06/syntactic-corn-syrup/,/u/antifuchs,8
+6,2015-07-08 09:43:48 -0500,/t/openbsd,Microsoft Now OpenBSD Foundation Gold Contributor,http://undeadly.org/cgi?action=article&sid=20150708134520,/u/jcs,31
+2,2015-07-08 16:03:15 -0500,"/t/games,/t/programming",Red Blob Games,http://www.redblobgames.com/,/u/flyingfisch,16
+4,2015-07-08 14:06:17 -0500,/t/security,CyberUL is a dumb idea,http://blog.erratasec.com/2015/06/cyberul-is-dumb-idea.html,/u/fcbsd,9
+0,2015-07-08 21:42:05 -0500,/t/lisp,What is a closure?,https://groups.google.com/forum/#!msg/comp.lang.scheme/Wd69ecH082Y/lRJC49tlJ2UJ,/u/rubenbarroso,7
+3,2015-07-08 10:24:31 -0500,/t/openbsd,LibreSSL 2.2.1 released,http://marc.info/?l=openbsd-announce&m=143635991232240&w=2,/u/bmercer,18
+0,2015-07-08 15:37:45 -0500,/t/go,Go GC: Solving the Latency Problem in Go 1.5,https://sourcegraph.com/blog/live/gophercon2015/123574706480,/u/jmhodges,9
+0,2015-07-08 09:29:14 -0500,/t/programming,Crash Consistency: Rethinking the Fundamental Abstractions of the File System,http://queue.acm.org/detail.cfm?id=2801719,/u/BruceM,16
+1,2015-07-08 10:24:36 -0500,/t/go,Go 1.5 Beta 1 is released,https://groups.google.com/forum/m/#!topic/golang-nuts/0Twz24CjYas,/u/journeysquid,12
+4,2015-07-08 09:04:39 -0500,"/t/compsci,/t/security",When ‘int’ is the new ‘short’,http://googleprojectzero.blogspot.com/2015/07/when-int-is-new-short.html,/u/jcs,9
+0,2015-07-08 11:25:32 -0500,"/t/video,/t/lisp",Om Next - David Nolen,http://www.youtube.com/watch?v=ByNs9TG30E8,/u/gumpt,10
+0,2015-07-08 12:22:42 -0500,/t/ruby,JRuby - Just Ruby,http://blog.eurucamp.org/2015/07/08/jruby-just-ruby/,/u/PragTob,7
+2,2015-07-07 22:59:27 -0500,"/t/person,/t/science",What Problems to Solve - By Richard Feynman,http://genius.cat-v.org/richard-feynman/writtings/letters/problems,/u/rubenbarroso,25
+9,2015-07-07 12:11:53 -0500,"/t/compsci,/t/databases,/t/distributed","Comments on ""You Do it Too""",https://aphyr.com/posts/325-comments-on-you-do-it-too,/u/apy,54
+0,2015-07-08 11:16:04 -0500,/t/lisp,Debugging Lisp Part 1: Recompilation,http://malisper.me/2015/07/07/debugging-lisp-part-1-recompilation/,/u/kyle,6
+0,2015-07-08 12:31:12 -0500,"/t/release,/t/scaling","Atlas: version control for infrastructure, now generally available",https://www.hashicorp.com/blog/atlas-general-availability.html,/u/kevinSuttle,5
+1,2015-07-08 07:31:53 -0500,"/t/openbsd,/t/unix",OpenSSH in Solaris 11.3,https://blogs.oracle.com/darren/entry/openssh_in_solaris_11_3,/u/mulander,8
+0,2015-07-08 09:36:19 -0500,/t/security,"""High"" severity defect in OpenSSL patch forthcoming",https://mta.openssl.org/pipermail/openssl-announce/2015-July/000037.html,/u/codeslinger,7
+0,2015-07-08 13:17:54 -0500,"/t/networking,/t/programming,/t/python",An Apple Push Notifications Debugging Story,https://thelig.ht/apns3/,/u/pushcx,4

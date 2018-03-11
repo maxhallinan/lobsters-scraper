@@ -1,25 +1,25 @@
-1,2013-10-21 23:14:08 -0500,"['/t/pdf', '/t/devops', '/t/finance']",Knight Capital (HFT company that lost $450 million in 45 minutes) postmortem,http://www.sec.gov/litigation/admin/2013/34-70694.pdf,/u/kb,5
-0,2013-10-21 09:56:04 -0500,"['/t/c', '/t/programming']",From Switch Statement Down to Machine Code,http://lazarenko.me/2013/01/13/switch-statement-machine-code/,/u/junkblocker,9
-0,2013-10-21 19:37:24 -0500,"['/t/go', '/t/programming']",High Performance and Parallelism With the Feel of a Scripting Language,https://www.neo.com/2013/10/22/high-performance-and-parallelism-with-the-feel-of-a-scripting-language,/u/geofflane,2
-3,2013-10-21 13:00:05 -0500,"['/t/networking', '/t/news', '/t/privacy']",Google Unveils Tools to Access Web From Repressive Countries,http://business.time.com/2013/10/21/google-digital-rebels/,/u/jcs,2
-0,2013-10-21 10:33:54 -0500,"['/t/devops', '/t/go', '/t/virtualization']",CodeCube: Docker-powered Runnable Gists,http://hmarr.com/2013/oct/16/codecube-runnable-gists/,/u/stevejalim,5
-0,2013-10-21 12:12:59 -0500,"['/t/go', '/t/programming']",Intro to (images in) Go – filters,http://www.pheelicks.com/2013/10/intro-to-images-in-go-filters/,/u/pheelicks,4
-1,2013-10-21 08:40:06 -0500,"['/t/book', '/t/lisp']",20 Free eBooks on Lisp,http://www.efytimes.com/e1/fullnews.asp?edid=118280,/u/SeanTAllen,2
-0,2013-10-21 08:18:05 -0500,"['/t/compsci', '/t/programming']","Active learning, almost black magic | Genetic Programming",http://www.garshol.priv.no/blog/262.html,/u/carinmeier,3
-0,2013-10-21 11:01:34 -0500,['/t/go'],The Reliability of Go,http://andrewwdeane.blogspot.co.uk/2013/05/the-reliability-of-go.html,/u/journeysquid,2
-0,2013-10-21 10:33:12 -0500,['/t/hardware'],Intel Haswell DDR3 Memory Performance Impact On Graphics,http://www.phoronix.com/vr.php?view=19244,/u/journeysquid,2
-3,2013-10-20 23:07:40 -0500,['/t/android'],Google’s iron grip on Android: Controlling open source by any means necessary,http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/,/u/jcs,6
-0,2013-10-20 15:41:13 -0500,['/t/databases'],The genius and folly of MongoDB,http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/,/u/journeysquid,6
-0,2013-10-20 13:19:20 -0500,['/t/vcs'],git - the simple guide - no deep shit!,http://rogerdudler.github.io/git-guide/,/u/SeanTAllen,6
-0,2013-10-21 06:54:20 -0500,['/t/javascript'],TypeScript 0.9 – What’s Improved,http://flippinawesome.org/2013/10/21/typescript-0-9-whats-improved/,/u/remotesynth,0
-1,2013-10-20 18:59:33 -0500,"['/t/erlang', '/t/scala', '/t/scaling']",Erlang Style Actors Are All About Shared State (2009),http://james-iry.blogspot.com/2009/04/erlang-style-actors-are-all-about.html,/u/moses,1
-1,2013-10-20 13:16:25 -0500,['/t/vcs'],10 Must Have Resources For Git Learners,http://www.efytimes.com/e1/fullnews.asp?edid=116824,/u/SeanTAllen,1
-0,2013-10-20 03:58:18 -0500,['/t/networking'],The History of Packets,http://www.robbiehott.com/cs/gw/,/u/vg,2
-2,2013-10-19 08:36:22 -0500,['/t/show'],"Weather in your terminal, with ANSI colors and Unicode symbols",https://github.com/fcambus/ansiweather,/u/fcambus,7
-3,2013-10-18 19:21:34 -0500,"['/t/linux', '/t/news']",The Navy’s newest warship is powered by Linux,http://arstechnica.com/information-technology/2013/10/the-navys-newest-warship-is-powered-by-linux/,/u/journeysquid,2
-3,2013-10-18 13:18:11 -0500,['/t/browsers'],Your Tab Views Suck,http://blog.ponyfoo.com/2013/10/18/your-tab-views-suck,/u/bevacqua,2
-0,2013-10-18 13:04:54 -0500,['/t/programming'],Fighting a 30-year-old software bug,http://blogs.perl.org/users/ovid/2013/10/fighting-20-year-old-software-bugs.html,/u/jcs,4
-0,2013-10-18 16:44:18 -0500,['/t/compsci'],Every position of Rubik's Cube™ can be solved in twenty moves or less.,http://cube20.org/,/u/metatron,2
-0,2013-10-18 09:43:51 -0500,"['/t/c', '/t/linux']",Testing Memory I/O Bandwidth,http://jamesslocum.com/post/64209577678,/u/tubbo,2
-0,2013-10-18 06:04:08 -0500,['/t/programming'],3D Printed Records,http://www.amandaghassaei.com/3D_printed_record.html,/u/metatron,1
-0,2013-10-17 20:09:40 -0500,"['/t/networking', '/t/release']",Wireshark is switching to Qt,https://blog.wireshark.org/2013/10/switching-to-qt/,/u/journeysquid,4
+1,2013-10-21 23:14:08 -0500,"/t/pdf,/t/devops,/t/finance",Knight Capital (HFT company that lost $450 million in 45 minutes) postmortem,http://www.sec.gov/litigation/admin/2013/34-70694.pdf,/u/kb,5
+0,2013-10-21 09:56:04 -0500,"/t/c,/t/programming",From Switch Statement Down to Machine Code,http://lazarenko.me/2013/01/13/switch-statement-machine-code/,/u/junkblocker,9
+0,2013-10-21 19:37:24 -0500,"/t/go,/t/programming",High Performance and Parallelism With the Feel of a Scripting Language,https://www.neo.com/2013/10/22/high-performance-and-parallelism-with-the-feel-of-a-scripting-language,/u/geofflane,2
+3,2013-10-21 13:00:05 -0500,"/t/networking,/t/news,/t/privacy",Google Unveils Tools to Access Web From Repressive Countries,http://business.time.com/2013/10/21/google-digital-rebels/,/u/jcs,2
+0,2013-10-21 10:33:54 -0500,"/t/devops,/t/go,/t/virtualization",CodeCube: Docker-powered Runnable Gists,http://hmarr.com/2013/oct/16/codecube-runnable-gists/,/u/stevejalim,5
+0,2013-10-21 12:12:59 -0500,"/t/go,/t/programming",Intro to (images in) Go – filters,http://www.pheelicks.com/2013/10/intro-to-images-in-go-filters/,/u/pheelicks,4
+1,2013-10-21 08:40:06 -0500,"/t/book,/t/lisp",20 Free eBooks on Lisp,http://www.efytimes.com/e1/fullnews.asp?edid=118280,/u/SeanTAllen,2
+0,2013-10-21 08:18:05 -0500,"/t/compsci,/t/programming","Active learning, almost black magic | Genetic Programming",http://www.garshol.priv.no/blog/262.html,/u/carinmeier,3
+0,2013-10-21 11:01:34 -0500,/t/go,The Reliability of Go,http://andrewwdeane.blogspot.co.uk/2013/05/the-reliability-of-go.html,/u/journeysquid,2
+0,2013-10-21 10:33:12 -0500,/t/hardware,Intel Haswell DDR3 Memory Performance Impact On Graphics,http://www.phoronix.com/vr.php?view=19244,/u/journeysquid,2
+3,2013-10-20 23:07:40 -0500,/t/android,Google’s iron grip on Android: Controlling open source by any means necessary,http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/,/u/jcs,6
+0,2013-10-20 15:41:13 -0500,/t/databases,The genius and folly of MongoDB,http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/,/u/journeysquid,6
+0,2013-10-20 13:19:20 -0500,/t/vcs,git - the simple guide - no deep shit!,http://rogerdudler.github.io/git-guide/,/u/SeanTAllen,6
+0,2013-10-21 06:54:20 -0500,/t/javascript,TypeScript 0.9 – What’s Improved,http://flippinawesome.org/2013/10/21/typescript-0-9-whats-improved/,/u/remotesynth,0
+1,2013-10-20 18:59:33 -0500,"/t/erlang,/t/scala,/t/scaling",Erlang Style Actors Are All About Shared State (2009),http://james-iry.blogspot.com/2009/04/erlang-style-actors-are-all-about.html,/u/moses,1
+1,2013-10-20 13:16:25 -0500,/t/vcs,10 Must Have Resources For Git Learners,http://www.efytimes.com/e1/fullnews.asp?edid=116824,/u/SeanTAllen,1
+0,2013-10-20 03:58:18 -0500,/t/networking,The History of Packets,http://www.robbiehott.com/cs/gw/,/u/vg,2
+2,2013-10-19 08:36:22 -0500,/t/show,"Weather in your terminal, with ANSI colors and Unicode symbols",https://github.com/fcambus/ansiweather,/u/fcambus,7
+3,2013-10-18 19:21:34 -0500,"/t/linux,/t/news",The Navy’s newest warship is powered by Linux,http://arstechnica.com/information-technology/2013/10/the-navys-newest-warship-is-powered-by-linux/,/u/journeysquid,2
+3,2013-10-18 13:18:11 -0500,/t/browsers,Your Tab Views Suck,http://blog.ponyfoo.com/2013/10/18/your-tab-views-suck,/u/bevacqua,2
+0,2013-10-18 13:04:54 -0500,/t/programming,Fighting a 30-year-old software bug,http://blogs.perl.org/users/ovid/2013/10/fighting-20-year-old-software-bugs.html,/u/jcs,4
+0,2013-10-18 16:44:18 -0500,/t/compsci,Every position of Rubik's Cube™ can be solved in twenty moves or less.,http://cube20.org/,/u/metatron,2
+0,2013-10-18 09:43:51 -0500,"/t/c,/t/linux",Testing Memory I/O Bandwidth,http://jamesslocum.com/post/64209577678,/u/tubbo,2
+0,2013-10-18 06:04:08 -0500,/t/programming,3D Printed Records,http://www.amandaghassaei.com/3D_printed_record.html,/u/metatron,1
+0,2013-10-17 20:09:40 -0500,"/t/networking,/t/release",Wireshark is switching to Qt,https://blog.wireshark.org/2013/10/switching-to-qt/,/u/journeysquid,4

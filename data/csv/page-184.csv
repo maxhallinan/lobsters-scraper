@@ -1,25 +1,25 @@
-2,2017-10-02 03:43:11 -0500,"['/t/cogsci', '/t/programming']",Quick and dirty review of Psychology of Programming Interest Group (2016),http://scattered-thoughts.net/blog/2016/11/17/qnd-review-of-ppig-1989-2015/,/u/pushcx,4
-1,2017-10-02 04:41:42 -0500,"['/t/book', '/t/distributed']",Programming Models for Distributed Computation,https://github.com/heathermiller/dist-prog-book,/u/pushcx,4
-3,2017-10-01 07:54:49 -0500,"['/t/video', '/t/compilers', '/t/compsci', '/t/lisp']",The Lux Programming Language [Strange Loop 2017],https://www.youtube.com/watch?v=T-BZvBWiamU,/u/eduardoejp,14
-0,2017-10-02 12:56:44 -0500,"['/t/compilers', '/t/compsci']",A Combinatory Compiler,https://crypto.stanford.edu/~blynn/lambda/sk.html,/u/pushcx,1
-18,2017-10-01 06:57:11 -0500,"['/t/distributed', '/t/web']",HTTP is obsolete. It's time for the Distributed Web,https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html,/u/calvin,22
-2,2017-10-01 15:06:49 -0500,"['/t/video', '/t/haskell']","Strange Loop - ""Haxl: A Big Hammer for Concurrency"" by Simon Marlow",https://www.youtube.com/watch?v=sT6VJkkhy0o&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu&index=2,/u/tallgeoff,14
-1,2017-10-01 17:00:02 -0500,['/t/security'],Securing Network Time,https://www.coreinfrastructure.org/news/blogs/2017/09/securing-network-time,/u/mulander,10
-1,2017-10-02 02:00:19 -0500,"['/t/pdf', '/t/mac', '/t/security']",The Apple of Your EFI,https://duo.com/assets/ebooks/Duo-Labs-The-Apple-of-Your-EFI.pdf,/u/pushcx,2
-2,2017-10-01 12:45:00 -0500,"['/t/security', '/t/web']",How I Hacked DePauw University Using Hidden Inputs,https://hackernoon.com/how-i-hacked-depauw-university-using-hidden-inputs-79377c3dca7e,/u/pushcx,12
-1,2017-10-01 12:58:08 -0500,['/t/go'],Run go programs directly on the Xen hypervisor,https://github.com/atmanos/atmanos,/u/jonathannen,14
-0,2017-10-01 13:53:38 -0500,['/t/law'],Why Patents Are Bad for Software,http://groups.csail.mit.edu/mac/projects/lpf/Links/prep.ai.mit.edu/issues.article,/u/pizzaiolo,9
-0,2017-10-02 04:22:31 -0500,['/t/vcs'],Pain in the dots,http://matthew-brett.github.io/pydagogue/pain_in_dots.html#pain-in-dots,/u/klingtnet,1
-0,2017-10-02 04:08:35 -0500,['/t/javascript'],Benchmark of styling solutions for React,http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/,/u/baklazan,1
-0,2017-10-01 18:22:13 -0500,"['/t/math', '/t/visualization']",Calculating the Distance Between Points in “Wrap Around” (Toroidal) Space,https://blog.demofox.org/2017/10/01/calculating-the-distance-between-points-in-wrap-around-toroidal-space/,/u/friendlysock,4
-1,2017-10-01 15:08:03 -0500,"['/t/elixir', '/t/mobile', '/t/release']",Pigeon - iOS and Android push notifications for Elixir,https://elixirforum.com/t/pigeon-ios-and-android-push-notifications-for-elixir/9030,/u/talklittle,6
-0,2017-10-01 11:54:39 -0500,['/t/dotnet'],"Open source in the F# community, part 1",https://haf.github.io/2017/10/01/open-source-in-the-fsharp-community-part-1.html,/u/foxyjackfox,7
-0,2017-10-01 13:04:27 -0500,['/t/haskell'],Beautiful Aggregations with Haskell,http://tech.frontrowed.com/2017/09/22/aggregations/,/u/pushcx,6
-0,2017-10-01 08:34:13 -0500,"['/t/video', '/t/freebsd', '/t/openbsd']",EuroBSDcon 2017,https://www.youtube.com/playlist?list=PLo31Bhg3nNkb6jJF8OjxK81-ssAk250oa,/u/nanxiao,10
-0,2017-10-01 08:47:24 -0500,"['/t/compilers', '/t/ruby', '/t/visualization']",Visualizing Your Ruby Heap,http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html,/u/pushcx,8
-1,2017-10-01 03:58:44 -0500,['/t/python'],A Guide to Python Itertools,https://medium.com/@mr_rigden/a-guide-to-python-itertools-82e5a306cdf8,/u/quobit,9
-2,2017-09-30 22:15:50 -0500,['/t/hardware'],I Turned my Dad's 1950s Morse Key into a USB Keyboard,https://imgur.com/gallery/lNAtQ,/u/pushcx,16
-2,2017-09-30 21:34:29 -0500,"['/t/video', '/t/formalmethods', '/t/programming']","""A (Not So Gentle) Introduction To Systems Programming In ATS"" by Aditya Siram",https://www.youtube.com/watch?v=zt0OQb1DBko,/u/brendan,15
-3,2017-10-01 06:17:41 -0500,['/t/c++'],CppCon 2017 Trip Report,http://web.cynd.net/~willo/cppcon-2017-trip-report/,/u/nanxiao,4
-9,2017-09-30 10:29:42 -0500,['/t/openbsd'],autoconf/clang (No) Fun and Games,http://undeadly.org/cgi?action=article;sid=20170930133438,/u/tb,28
-0,2017-10-01 02:31:11 -0500,"['/t/elixir', '/t/ruby', '/t/web']",What I learned migrating a Rails app to Elixir/Phoenix (2016),https://medium.com/@stueccles/what-i-learned-migrating-a-rails-app-to-elixir-phoenix-f707436749aa,/u/talklittle,6
+2,2017-10-02 03:43:11 -0500,"/t/cogsci,/t/programming",Quick and dirty review of Psychology of Programming Interest Group (2016),http://scattered-thoughts.net/blog/2016/11/17/qnd-review-of-ppig-1989-2015/,/u/pushcx,4
+1,2017-10-02 04:41:42 -0500,"/t/book,/t/distributed",Programming Models for Distributed Computation,https://github.com/heathermiller/dist-prog-book,/u/pushcx,4
+3,2017-10-01 07:54:49 -0500,"/t/video,/t/compilers,/t/compsci,/t/lisp",The Lux Programming Language [Strange Loop 2017],https://www.youtube.com/watch?v=T-BZvBWiamU,/u/eduardoejp,14
+0,2017-10-02 12:56:44 -0500,"/t/compilers,/t/compsci",A Combinatory Compiler,https://crypto.stanford.edu/~blynn/lambda/sk.html,/u/pushcx,1
+18,2017-10-01 06:57:11 -0500,"/t/distributed,/t/web",HTTP is obsolete. It's time for the Distributed Web,https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html,/u/calvin,22
+2,2017-10-01 15:06:49 -0500,"/t/video,/t/haskell","Strange Loop - ""Haxl: A Big Hammer for Concurrency"" by Simon Marlow",https://www.youtube.com/watch?v=sT6VJkkhy0o&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu&index=2,/u/tallgeoff,14
+1,2017-10-01 17:00:02 -0500,/t/security,Securing Network Time,https://www.coreinfrastructure.org/news/blogs/2017/09/securing-network-time,/u/mulander,10
+1,2017-10-02 02:00:19 -0500,"/t/pdf,/t/mac,/t/security",The Apple of Your EFI,https://duo.com/assets/ebooks/Duo-Labs-The-Apple-of-Your-EFI.pdf,/u/pushcx,2
+2,2017-10-01 12:45:00 -0500,"/t/security,/t/web",How I Hacked DePauw University Using Hidden Inputs,https://hackernoon.com/how-i-hacked-depauw-university-using-hidden-inputs-79377c3dca7e,/u/pushcx,12
+1,2017-10-01 12:58:08 -0500,/t/go,Run go programs directly on the Xen hypervisor,https://github.com/atmanos/atmanos,/u/jonathannen,14
+0,2017-10-01 13:53:38 -0500,/t/law,Why Patents Are Bad for Software,http://groups.csail.mit.edu/mac/projects/lpf/Links/prep.ai.mit.edu/issues.article,/u/pizzaiolo,9
+0,2017-10-02 04:22:31 -0500,/t/vcs,Pain in the dots,http://matthew-brett.github.io/pydagogue/pain_in_dots.html#pain-in-dots,/u/klingtnet,1
+0,2017-10-02 04:08:35 -0500,/t/javascript,Benchmark of styling solutions for React,http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/,/u/baklazan,1
+0,2017-10-01 18:22:13 -0500,"/t/math,/t/visualization",Calculating the Distance Between Points in “Wrap Around” (Toroidal) Space,https://blog.demofox.org/2017/10/01/calculating-the-distance-between-points-in-wrap-around-toroidal-space/,/u/friendlysock,4
+1,2017-10-01 15:08:03 -0500,"/t/elixir,/t/mobile,/t/release",Pigeon - iOS and Android push notifications for Elixir,https://elixirforum.com/t/pigeon-ios-and-android-push-notifications-for-elixir/9030,/u/talklittle,6
+0,2017-10-01 11:54:39 -0500,/t/dotnet,"Open source in the F# community, part 1",https://haf.github.io/2017/10/01/open-source-in-the-fsharp-community-part-1.html,/u/foxyjackfox,7
+0,2017-10-01 13:04:27 -0500,/t/haskell,Beautiful Aggregations with Haskell,http://tech.frontrowed.com/2017/09/22/aggregations/,/u/pushcx,6
+0,2017-10-01 08:34:13 -0500,"/t/video,/t/freebsd,/t/openbsd",EuroBSDcon 2017,https://www.youtube.com/playlist?list=PLo31Bhg3nNkb6jJF8OjxK81-ssAk250oa,/u/nanxiao,10
+0,2017-10-01 08:47:24 -0500,"/t/compilers,/t/ruby,/t/visualization",Visualizing Your Ruby Heap,http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html,/u/pushcx,8
+1,2017-10-01 03:58:44 -0500,/t/python,A Guide to Python Itertools,https://medium.com/@mr_rigden/a-guide-to-python-itertools-82e5a306cdf8,/u/quobit,9
+2,2017-09-30 22:15:50 -0500,/t/hardware,I Turned my Dad's 1950s Morse Key into a USB Keyboard,https://imgur.com/gallery/lNAtQ,/u/pushcx,16
+2,2017-09-30 21:34:29 -0500,"/t/video,/t/formalmethods,/t/programming","""A (Not So Gentle) Introduction To Systems Programming In ATS"" by Aditya Siram",https://www.youtube.com/watch?v=zt0OQb1DBko,/u/brendan,15
+3,2017-10-01 06:17:41 -0500,/t/c++,CppCon 2017 Trip Report,http://web.cynd.net/~willo/cppcon-2017-trip-report/,/u/nanxiao,4
+9,2017-09-30 10:29:42 -0500,/t/openbsd,autoconf/clang (No) Fun and Games,http://undeadly.org/cgi?action=article;sid=20170930133438,/u/tb,28
+0,2017-10-01 02:31:11 -0500,"/t/elixir,/t/ruby,/t/web",What I learned migrating a Rails app to Elixir/Phoenix (2016),https://medium.com/@stueccles/what-i-learned-migrating-a-rails-app-to-elixir-phoenix-f707436749aa,/u/talklittle,6

@@ -1,25 +1,25 @@
-1,2017-11-28 09:49:02 -0600,['/t/dotnet'],You're using HttpClient wrong and it is destabilizing your software,https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/,/u/calvin,11
-0,2017-11-29 03:06:58 -0600,"['/t/video', '/t/philosophy']",Tim O'Reilly: The Future of Work,https://www.youtube.com/watch?v=NM7XNzIcEWY,/u/fkr,1
-1,2017-11-28 07:08:16 -0600,['/t/ios'],Two Major Cydia Repositories Shut Down as Jailbreaking Fades in Popularity,https://www.macrumors.com/2017/11/23/modmyi-macciti-cydia-repos-shut-down/,/u/calvin,9
-0,2017-11-28 05:20:03 -0600,"['/t/python', '/t/rust']",Speed up your Python using Rust,https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/,/u/mjturner,14
-4,2017-11-28 01:04:43 -0600,"['/t/api', '/t/programming']",User experience design for APIs,https://blog.keras.io/user-experience-design-for-apis.html,/u/Dawny33,15
-20,2017-11-27 08:22:48 -0600,"['/t/formalmethods', '/t/plt']",Introduction to Contract Programming,https://www.hillelwayne.com/post/contracts/,/u/hwayne,33
-0,2017-11-28 13:49:03 -0600,"['/t/ai', '/t/formalmethods']",Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples,https://arxiv.org/abs/1711.09576,/u/mjn,4
-20,2017-11-27 12:25:09 -0600,"['/t/android', '/t/privacy']",Living with an open-source phone,https://nolanlawson.com/2017/11/27/living-with-an-open-source-phone/,/u/calvin,30
-0,2017-11-28 06:54:54 -0600,['/t/erlang'],The Final Countdown,https://medium.com/erlang-battleground/the-final-countdown-4da33b134b99,/u/elbrujohalcon,3
-0,2017-11-28 06:27:07 -0600,['/t/elm'],Understanding Pipes in Elm,https://www.dailydrip.com/blog/understanding-pipes-in-elm.html,/u/franzunix,3
-1,2017-11-27 17:22:35 -0600,"['/t/haskell', '/t/math']","Hamiltonian Dynamics: Breaking down a Haskell project w/ physics, linear alg, datakinds, ad, hmatrix",https://blog.jle.im/entry/hamiltonian-dynamics-in-haskell.html,/u/jle,13
-0,2017-11-28 10:26:52 -0600,['/t/security'],Weaponized Information & Psychological Warfare in the 21st Century,https://medium.com/@timboucher/hot-singles-in-your-area-want-to-putin-f0f46519207a,/u/doki_pen,3
-0,2017-11-28 10:24:11 -0600,"['/t/compsci', '/t/formalmethods', '/t/programming', '/t/testing']",Model-Based Testing with Logical Properties vs State Machines (2011),https://www.researchgate.net/publication/235900230_Model_Based_Testing_with_Logical_Properties_versus_State_Machines,/u/nickpsecurity,3
-5,2017-11-28 06:53:20 -0600,['/t/privacy'],Mozilla's privacy-focused tech holiday shopping guide,https://advocacy.mozilla.org/en-US/privacynotincluded/,/u/sethetter,1
-11,2017-11-27 05:49:41 -0600,['/t/databases'],How a single PostgreSQL config change improved slow query performance by 50x,https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0,/u/mulander,46
-0,2017-11-28 11:02:38 -0600,['/t/devops'],Graceful Switching of Worker Processes,https://robots.thoughtbot.com/graceful-switching-of-worker-processes,/u/pushcx,2
-0,2017-11-28 05:16:03 -0600,['/t/javascript'],Classily.js - Toggling classes more classily,https://www.silvestarbistrovic.from.hr/articles/classily-js-toggling-classes-more-classily/,/u/starbist,2
-19,2017-11-26 20:52:09 -0600,['/t/practices'],Google does not know multilingual people exist,http://www.osnews.com/story/30101/Google_does_not_know_multilingual_people_exist,/u/calvin,69
-0,2017-11-28 09:27:14 -0600,"['/t/privacy', '/t/security']",HP installing HP Touchpoint Analytics Client Telemetry service,https://www.ghacks.net/2017/11/27/hp-installing-hp-touchpoint-analytics-client-telemetry-service/,/u/pgl,2
-0,2017-11-28 12:47:08 -0600,"['/t/clojure', '/t/programming']",Protocols in Clojure,https://medium.com/lazy-eval/protocols-in-clojure-45ea76be55bc,/u/Yogthos,1
-6,2017-11-27 07:53:56 -0600,['/t/visualization'],NCurses Disk Usage,https://dev.yorhel.nl/ncdu,/u/mulander,29
-9,2017-11-27 08:06:28 -0600,['/t/games'],[Post Mortem]: I thought I could ship at least 700 units to stay in business,https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php,/u/mulander,18
-3,2017-11-27 10:39:53 -0600,['/t/culture'],To the Real Person on the Other Side of This Screen,https://bentrask.com/?q=hash://sha256/733c7b66c4535be222dc4281,/u/btrask,20
-0,2017-11-27 22:09:33 -0600,['/t/python'],Python Hashes and Equality,https://hynek.me/articles/hashes-and-equality/,/u/Dawny33,7
-1,2017-11-28 10:35:33 -0600,"['/t/pdf', '/t/compsci', '/t/programming']",Parallel Functional Programming Using D-Clean (2012),http://www.tnkcs.inf.elte.hu/vedes/Zsok_Viktoria_Tezisek_en.pdf,/u/nickpsecurity,1
+1,2017-11-28 09:49:02 -0600,/t/dotnet,You're using HttpClient wrong and it is destabilizing your software,https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/,/u/calvin,11
+0,2017-11-29 03:06:58 -0600,"/t/video,/t/philosophy",Tim O'Reilly: The Future of Work,https://www.youtube.com/watch?v=NM7XNzIcEWY,/u/fkr,1
+1,2017-11-28 07:08:16 -0600,/t/ios,Two Major Cydia Repositories Shut Down as Jailbreaking Fades in Popularity,https://www.macrumors.com/2017/11/23/modmyi-macciti-cydia-repos-shut-down/,/u/calvin,9
+0,2017-11-28 05:20:03 -0600,"/t/python,/t/rust",Speed up your Python using Rust,https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/,/u/mjturner,14
+4,2017-11-28 01:04:43 -0600,"/t/api,/t/programming",User experience design for APIs,https://blog.keras.io/user-experience-design-for-apis.html,/u/Dawny33,15
+20,2017-11-27 08:22:48 -0600,"/t/formalmethods,/t/plt",Introduction to Contract Programming,https://www.hillelwayne.com/post/contracts/,/u/hwayne,33
+0,2017-11-28 13:49:03 -0600,"/t/ai,/t/formalmethods",Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples,https://arxiv.org/abs/1711.09576,/u/mjn,4
+20,2017-11-27 12:25:09 -0600,"/t/android,/t/privacy",Living with an open-source phone,https://nolanlawson.com/2017/11/27/living-with-an-open-source-phone/,/u/calvin,30
+0,2017-11-28 06:54:54 -0600,/t/erlang,The Final Countdown,https://medium.com/erlang-battleground/the-final-countdown-4da33b134b99,/u/elbrujohalcon,3
+0,2017-11-28 06:27:07 -0600,/t/elm,Understanding Pipes in Elm,https://www.dailydrip.com/blog/understanding-pipes-in-elm.html,/u/franzunix,3
+1,2017-11-27 17:22:35 -0600,"/t/haskell,/t/math","Hamiltonian Dynamics: Breaking down a Haskell project w/ physics, linear alg, datakinds, ad, hmatrix",https://blog.jle.im/entry/hamiltonian-dynamics-in-haskell.html,/u/jle,13
+0,2017-11-28 10:26:52 -0600,/t/security,Weaponized Information & Psychological Warfare in the 21st Century,https://medium.com/@timboucher/hot-singles-in-your-area-want-to-putin-f0f46519207a,/u/doki_pen,3
+0,2017-11-28 10:24:11 -0600,"/t/compsci,/t/formalmethods,/t/programming,/t/testing",Model-Based Testing with Logical Properties vs State Machines (2011),https://www.researchgate.net/publication/235900230_Model_Based_Testing_with_Logical_Properties_versus_State_Machines,/u/nickpsecurity,3
+5,2017-11-28 06:53:20 -0600,/t/privacy,Mozilla's privacy-focused tech holiday shopping guide,https://advocacy.mozilla.org/en-US/privacynotincluded/,/u/sethetter,1
+11,2017-11-27 05:49:41 -0600,/t/databases,How a single PostgreSQL config change improved slow query performance by 50x,https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0,/u/mulander,46
+0,2017-11-28 11:02:38 -0600,/t/devops,Graceful Switching of Worker Processes,https://robots.thoughtbot.com/graceful-switching-of-worker-processes,/u/pushcx,2
+0,2017-11-28 05:16:03 -0600,/t/javascript,Classily.js - Toggling classes more classily,https://www.silvestarbistrovic.from.hr/articles/classily-js-toggling-classes-more-classily/,/u/starbist,2
+19,2017-11-26 20:52:09 -0600,/t/practices,Google does not know multilingual people exist,http://www.osnews.com/story/30101/Google_does_not_know_multilingual_people_exist,/u/calvin,69
+0,2017-11-28 09:27:14 -0600,"/t/privacy,/t/security",HP installing HP Touchpoint Analytics Client Telemetry service,https://www.ghacks.net/2017/11/27/hp-installing-hp-touchpoint-analytics-client-telemetry-service/,/u/pgl,2
+0,2017-11-28 12:47:08 -0600,"/t/clojure,/t/programming",Protocols in Clojure,https://medium.com/lazy-eval/protocols-in-clojure-45ea76be55bc,/u/Yogthos,1
+6,2017-11-27 07:53:56 -0600,/t/visualization,NCurses Disk Usage,https://dev.yorhel.nl/ncdu,/u/mulander,29
+9,2017-11-27 08:06:28 -0600,/t/games,[Post Mortem]: I thought I could ship at least 700 units to stay in business,https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php,/u/mulander,18
+3,2017-11-27 10:39:53 -0600,/t/culture,To the Real Person on the Other Side of This Screen,https://bentrask.com/?q=hash://sha256/733c7b66c4535be222dc4281,/u/btrask,20
+0,2017-11-27 22:09:33 -0600,/t/python,Python Hashes and Equality,https://hynek.me/articles/hashes-and-equality/,/u/Dawny33,7
+1,2017-11-28 10:35:33 -0600,"/t/pdf,/t/compsci,/t/programming",Parallel Functional Programming Using D-Clean (2012),http://www.tnkcs.inf.elte.hu/vedes/Zsok_Viktoria_Tezisek_en.pdf,/u/nickpsecurity,1

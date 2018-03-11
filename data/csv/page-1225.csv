@@ -1,25 +1,25 @@
-0,2014-11-02 13:38:49 -0600,['/t/culture'],Good Software Developers,http://blog.drewolson.org/blog/2014/11/01/good-software-developers/,/u/kGb8RNFtg6,9
-0,2014-11-02 22:16:15 -0600,['/t/programming'],no stinking loops,http://nsl.com/,/u/lazythunk,1
-0,2014-11-02 14:40:57 -0600,"['/t/show', '/t/go']",Jenkins CI Client in Go,https://github.com/bndr/gojenkins,/u/bndr,1
-6,2014-11-01 12:43:05 -0500,"['/t/openbsd', '/t/release']",OpenBSD 5.6 Released,http://marc.info/?l=openbsd-announce&m=141486254309079&w=2,/u/tedu,27
-4,2014-11-03 01:27:46 -0600,['/t/culture'],[A subreddit] has a racist user problem and Reddit won't take action,https://www.reddit.com/r/blackladies/comments/2ejg1b/we_have_a_racist_user_problem_and_reddit_wont/,/u/kb,0
-1,2014-11-01 17:28:17 -0500,"['/t/compsci', '/t/haskell', '/t/programming']",Functional pearls,https://www.haskell.org/haskellwiki/Research_papers/Functional_pearls,/u/japesinator,14
-0,2014-11-02 07:11:55 -0600,['/t/math'],"Tiny Data, Approximate Bayesian Computation and the Socks of Karl Broman",http://www.sumsar.net/blog/2014/10/tiny-data-and-the-socks-of-karl-broman/,/u/lormayna,2
-5,2014-11-01 10:18:50 -0500,"['/t/video', '/t/compsci']",Benchmarking - You're Doing It Wrong,https://www.youtube.com/watch?v=VZd2Jhkecrg,/u/dgrnbrg,15
-0,2014-11-01 10:33:57 -0500,['/t/hardware'],Building a simple VGA-adapter for 8-bit self made computer,http://tldr.fi/2014/09/27/zc160-vga-adapter1/,/u/pushcx,13
-7,2014-10-31 20:28:05 -0500,['/t/security'],The Value of a Name,https://ello.co/gb/post/knOWk-qeTqfSpJ6f8-arCQ,/u/jcs,13
-3,2014-10-31 17:35:26 -0500,"['/t/video', '/t/distributed']","""SyncFree; Large Scale Computation without Synchronization"", Annette Bieniusa & Chris Meiklejohn",https://www.youtube.com/watch?v=1KP_pxFhlVU,/u/cmeiklejohn,16
-0,2014-11-01 15:30:35 -0500,['/t/javascript'],jQuery Autotab Demo,http://autotab.mathachew.com/,/u/dh,1
-1,2014-11-01 00:34:10 -0500,"['/t/pdf', '/t/security']",How Secure is TextSecure?,http://eprint.iacr.org/2014/904.pdf,/u/kyle,5
-0,2014-11-01 16:47:38 -0500,['/t/culture'],Uber's Children vs Conscious Consumers,http://madebymany.com/blog/uber-s-children-vs-conscious-consumers,/u/dh,1
-0,2014-10-31 15:36:44 -0500,"['/t/video', '/t/distributed']","""Eventually Consistent Computations with CRDTs"", Christopher Meiklejohn, Basho",https://www.youtube.com/watch?v=8_z9-iRiSZw,/u/cmeiklejohn,10
-1,2014-10-31 07:23:48 -0500,['/t/api'],Building APIs: lessons learned the hard way,https://gocardless.com/blog/lessons-learned-building-apis/,/u/hmarr,20
-0,2014-10-31 19:30:57 -0500,"['/t/compsci', '/t/programming', '/t/visualization']",Will It Shuffle? A visualisation of shuffling algorithms,http://bost.ocks.org/mike/shuffle/compare.html,/u/zem,5
-2,2014-10-31 15:58:32 -0500,"['/t/video', '/t/mac', '/t/person']",Steve Jobs - The Lost Interview,https://www.youtube.com/watch?v=TRZAJY23xio,/u/sevan,5
-3,2014-10-31 08:40:21 -0500,"['/t/javascript', '/t/linux', '/t/networking', '/t/unix']",(De)websockify SSH to avoid lockdown in hotel rooms,https://www.virtkick.io/blog/de-websockify-ssh-to-avoid-lockdown-in-hotel-rooms.html,/u/Nowaker,12
-4,2014-10-31 09:30:38 -0500,['/t/security'],Making Connections to Facebook more Secure [via Tor],https://www.facebook.com/notes/protect-the-graph/making-connections-to-facebook-more-secure/1526085754298237,/u/jcs,10
-3,2014-10-31 14:27:29 -0500,['/t/hardware'],What sort of allocation rates can servers handle?,http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html,/u/tobym,4
-0,2014-10-31 14:47:14 -0500,['/t/security'],Message Security Layer: A Modern Take on Securing Communication,http://techblog.netflix.com/2014/10/message-security-layer-modern-take-on.html,/u/nwjsmith,6
-0,2014-10-31 13:22:59 -0500,"['/t/devops', '/t/distributed', '/t/scaling']",Post Mortem: The One Where We Accidentally DDOSed Ourselves,https://keen.io/blog/101427090951/post-mortem-the-one-where-we-accidentally-ddosed,/u/moses,6
-0,2014-10-31 14:45:21 -0500,"['/t/video', '/t/games', '/t/hardware']",The Ultimate Commodore 64 Talk,https://www.youtube.com/watch?v=fe1-VVXIEh4,/u/pushcx,5
-3,2014-10-31 07:13:47 -0500,"['/t/databases', '/t/unix']",Optimizing Your psql,https://www.periscope.io/blog/optimizing-your-psql.html,/u/henkjan,3
+0,2014-11-02 13:38:49 -0600,/t/culture,Good Software Developers,http://blog.drewolson.org/blog/2014/11/01/good-software-developers/,/u/kGb8RNFtg6,9
+0,2014-11-02 22:16:15 -0600,/t/programming,no stinking loops,http://nsl.com/,/u/lazythunk,1
+0,2014-11-02 14:40:57 -0600,"/t/show,/t/go",Jenkins CI Client in Go,https://github.com/bndr/gojenkins,/u/bndr,1
+6,2014-11-01 12:43:05 -0500,"/t/openbsd,/t/release",OpenBSD 5.6 Released,http://marc.info/?l=openbsd-announce&m=141486254309079&w=2,/u/tedu,27
+4,2014-11-03 01:27:46 -0600,/t/culture,[A subreddit] has a racist user problem and Reddit won't take action,https://www.reddit.com/r/blackladies/comments/2ejg1b/we_have_a_racist_user_problem_and_reddit_wont/,/u/kb,0
+1,2014-11-01 17:28:17 -0500,"/t/compsci,/t/haskell,/t/programming",Functional pearls,https://www.haskell.org/haskellwiki/Research_papers/Functional_pearls,/u/japesinator,14
+0,2014-11-02 07:11:55 -0600,/t/math,"Tiny Data, Approximate Bayesian Computation and the Socks of Karl Broman",http://www.sumsar.net/blog/2014/10/tiny-data-and-the-socks-of-karl-broman/,/u/lormayna,2
+5,2014-11-01 10:18:50 -0500,"/t/video,/t/compsci",Benchmarking - You're Doing It Wrong,https://www.youtube.com/watch?v=VZd2Jhkecrg,/u/dgrnbrg,15
+0,2014-11-01 10:33:57 -0500,/t/hardware,Building a simple VGA-adapter for 8-bit self made computer,http://tldr.fi/2014/09/27/zc160-vga-adapter1/,/u/pushcx,13
+7,2014-10-31 20:28:05 -0500,/t/security,The Value of a Name,https://ello.co/gb/post/knOWk-qeTqfSpJ6f8-arCQ,/u/jcs,13
+3,2014-10-31 17:35:26 -0500,"/t/video,/t/distributed","""SyncFree; Large Scale Computation without Synchronization"", Annette Bieniusa & Chris Meiklejohn",https://www.youtube.com/watch?v=1KP_pxFhlVU,/u/cmeiklejohn,16
+0,2014-11-01 15:30:35 -0500,/t/javascript,jQuery Autotab Demo,http://autotab.mathachew.com/,/u/dh,1
+1,2014-11-01 00:34:10 -0500,"/t/pdf,/t/security",How Secure is TextSecure?,http://eprint.iacr.org/2014/904.pdf,/u/kyle,5
+0,2014-11-01 16:47:38 -0500,/t/culture,Uber's Children vs Conscious Consumers,http://madebymany.com/blog/uber-s-children-vs-conscious-consumers,/u/dh,1
+0,2014-10-31 15:36:44 -0500,"/t/video,/t/distributed","""Eventually Consistent Computations with CRDTs"", Christopher Meiklejohn, Basho",https://www.youtube.com/watch?v=8_z9-iRiSZw,/u/cmeiklejohn,10
+1,2014-10-31 07:23:48 -0500,/t/api,Building APIs: lessons learned the hard way,https://gocardless.com/blog/lessons-learned-building-apis/,/u/hmarr,20
+0,2014-10-31 19:30:57 -0500,"/t/compsci,/t/programming,/t/visualization",Will It Shuffle? A visualisation of shuffling algorithms,http://bost.ocks.org/mike/shuffle/compare.html,/u/zem,5
+2,2014-10-31 15:58:32 -0500,"/t/video,/t/mac,/t/person",Steve Jobs - The Lost Interview,https://www.youtube.com/watch?v=TRZAJY23xio,/u/sevan,5
+3,2014-10-31 08:40:21 -0500,"/t/javascript,/t/linux,/t/networking,/t/unix",(De)websockify SSH to avoid lockdown in hotel rooms,https://www.virtkick.io/blog/de-websockify-ssh-to-avoid-lockdown-in-hotel-rooms.html,/u/Nowaker,12
+4,2014-10-31 09:30:38 -0500,/t/security,Making Connections to Facebook more Secure [via Tor],https://www.facebook.com/notes/protect-the-graph/making-connections-to-facebook-more-secure/1526085754298237,/u/jcs,10
+3,2014-10-31 14:27:29 -0500,/t/hardware,What sort of allocation rates can servers handle?,http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html,/u/tobym,4
+0,2014-10-31 14:47:14 -0500,/t/security,Message Security Layer: A Modern Take on Securing Communication,http://techblog.netflix.com/2014/10/message-security-layer-modern-take-on.html,/u/nwjsmith,6
+0,2014-10-31 13:22:59 -0500,"/t/devops,/t/distributed,/t/scaling",Post Mortem: The One Where We Accidentally DDOSed Ourselves,https://keen.io/blog/101427090951/post-mortem-the-one-where-we-accidentally-ddosed,/u/moses,6
+0,2014-10-31 14:45:21 -0500,"/t/video,/t/games,/t/hardware",The Ultimate Commodore 64 Talk,https://www.youtube.com/watch?v=fe1-VVXIEh4,/u/pushcx,5
+3,2014-10-31 07:13:47 -0500,"/t/databases,/t/unix",Optimizing Your psql,https://www.periscope.io/blog/optimizing-your-psql.html,/u/henkjan,3

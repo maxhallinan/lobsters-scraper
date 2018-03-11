@@ -1,25 +1,25 @@
-1,2016-07-15 14:28:19 -0500,"['/t/security', '/t/web']",As It Stands - Electron Security,http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html,/u/mulander,4
-1,2016-07-14 22:37:27 -0500,"['/t/python', '/t/visualization']",JupyterLab: the next generation of the Jupyter Notebook,http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/,/u/tf,19
-11,2016-07-14 15:37:37 -0500,"['/t/historical', '/t/person', '/t/programming']","Interviewing my mother, a mainframe COBOL programmer",https://medium.com/@Svenskunganka/interviewing-my-mother-a-mainframe-cobol-programmer-c693d40d88f7,/u/mulander,21
-0,2016-07-15 10:46:57 -0500,"['/t/programming', '/t/testing']",A/B Test Gotchas,https://medium.com/snagajobeng/a-b-test-gotchas-3643b3701734,/u/softinio,4
-2,2016-07-14 16:09:10 -0500,['/t/security'],"CloudFlare, We Have A Problem",http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/,/u/maikel,20
-3,2016-07-14 11:53:37 -0500,['/t/programming'],Lepton image compression: saving 22% losslessly from images at 15MB/s,http://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/,/u/kb,23
-8,2016-07-14 13:18:04 -0500,"['/t/games', '/t/historical']",Nintendo Classic Mini: Launches 11th November and Includes 30 Classic NES Games,https://www.nintendo.co.uk/News/2016/July/Nintendo-Classic-Mini-Nintendo-Entertainment-System-launches-11th-November-and-includes-30-classic-NES-games-1124170.html,/u/Snocrash,12
-0,2016-07-15 13:36:25 -0500,['/t/programming'],The life-changing benefits of side projects,https://medium.com/@gammons/the-life-changing-benefits-of-side-projects-5e2fe47a8961#.yl4s1f6vy,/u/gammons,0
-5,2016-07-14 13:08:44 -0500,"['/t/programming', '/t/vcs']",BitKeeper 7.3 released,https://users.bitkeeper.org/t/bk-7-3ce-released-2016-07-13/174,/u/wscott,8
-0,2016-07-14 17:08:01 -0500,"['/t/databases', '/t/programming']",Flix - The Elegance of Functional Programming with the Conciseness of Logic Programming,http://flix.github.io,/u/Snocrash,11
-1,2016-07-14 11:35:56 -0500,['/t/security'],ROP is Dying and Your Exploit Mitigations are on Life Support,https://www.endgame.com/blog/rop-dying-and-your-exploit-mitigations-are-life-support,/u/jcs,14
-3,2016-07-15 10:47:41 -0500,['/t/culture'],Dennis Cooper fears censorship as Google erases blog without warning,https://www.theguardian.com/books/2016/jul/14/dennis-cooper-google-censorship-dc-blog,/u/rain1,2
-0,2016-07-15 02:46:43 -0500,"['/t/javascript', '/t/vcs']",Simple git hooks,https://github.com/gtramontina/ghooks,/u/gtramontina,1
-9,2016-07-14 08:09:27 -0500,['/t/emacs'],"Watching Youtube inside Emacs 25, with a complete Webkit-based web browser!",https://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/,/u/av,10
-29,2016-07-13 17:18:46 -0500,"['/t/go', '/t/programming', '/t/python']",Asciinema 1.3 Switches from Go Back to Python,http://blog.asciinema.org/post/and-now-for-something-completely-different/,/u/bobbywilson0,47
-3,2016-07-14 14:54:51 -0500,"['/t/show', '/t/programming', '/t/release']","Show: ""Hi World!"" - How to Write Code that Learns",https://medium.com/improve-ai-blog/hi-world-how-to-write-code-that-learns-efdb8b5af940#.fvz5hx8fi,/u/orasis,3
-5,2016-07-14 13:20:44 -0500,"['/t/c', '/t/erlang', '/t/security']",The Mouse Trap: A Final LZ4 Act - Hacking Erlang,http://blog.securitymouse.com/2014/07/a-final-lz4-act-hacking-erlang.html,/u/friendlysock,5
-1,2016-07-14 10:29:58 -0500,"['/t/c', '/t/python']","Machine learning with Vowpal Wabbit, C++ and Python",http://blog.getstream.io/fast-recommendations-for-activity-streams-using-vowpal-wabbit/?fthr=lobsters,/u/tschellenbach,9
-0,2016-07-14 08:30:05 -0500,['/t/lisp'],Nightcode: An IDE for Clojure,https://sekao.net/nightcode/,/u/jan,13
-0,2016-07-14 11:30:08 -0500,"['/t/pdf', '/t/c', '/t/compilers']",Into the Depths of C: Elaborating the De Facto Standards,https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201606-pldi2016-clanguage.pdf,/u/gandro,8
-0,2016-07-14 13:42:59 -0500,"['/t/haskell', '/t/javascript']",PureScript for Front End Developers,http://konkle.us/purescript-for-front-end-developers/,/u/paf31,6
-1,2016-07-14 17:35:28 -0500,['/t/satire'],Edward Snowden Captured,https://medium.com/@jeremybornstein/edward-snowden-captured-b3cac4ad389c,/u/evaryont,7
-0,2016-07-15 02:11:21 -0500,"['/t/databases', '/t/devops', '/t/programming']",Analyzing PostgreSQL logs using pgBadger,http://blog.garage-coding.com/2016/07/16/analyzing-postgres-logs-with-pgbadger.html,/u/wsdookadr,0
-6,2016-07-13 19:39:25 -0500,"['/t/historical', '/t/release']",How (and why) FreeDOS keeps DOS alive,http://www.computerworld.com.au/article/603343/how-why-freedos-keeps-dos-alive/,/u/sevan,26
-0,2016-07-14 17:08:28 -0500,['/t/visualization'],Five Years of Drought,https://adventuresinmapping.wordpress.com/2016/07/12/five-years-of-drought/,/u/pushcx,3
+1,2016-07-15 14:28:19 -0500,"/t/security,/t/web",As It Stands - Electron Security,http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html,/u/mulander,4
+1,2016-07-14 22:37:27 -0500,"/t/python,/t/visualization",JupyterLab: the next generation of the Jupyter Notebook,http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/,/u/tf,19
+11,2016-07-14 15:37:37 -0500,"/t/historical,/t/person,/t/programming","Interviewing my mother, a mainframe COBOL programmer",https://medium.com/@Svenskunganka/interviewing-my-mother-a-mainframe-cobol-programmer-c693d40d88f7,/u/mulander,21
+0,2016-07-15 10:46:57 -0500,"/t/programming,/t/testing",A/B Test Gotchas,https://medium.com/snagajobeng/a-b-test-gotchas-3643b3701734,/u/softinio,4
+2,2016-07-14 16:09:10 -0500,/t/security,"CloudFlare, We Have A Problem",http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/,/u/maikel,20
+3,2016-07-14 11:53:37 -0500,/t/programming,Lepton image compression: saving 22% losslessly from images at 15MB/s,http://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/,/u/kb,23
+8,2016-07-14 13:18:04 -0500,"/t/games,/t/historical",Nintendo Classic Mini: Launches 11th November and Includes 30 Classic NES Games,https://www.nintendo.co.uk/News/2016/July/Nintendo-Classic-Mini-Nintendo-Entertainment-System-launches-11th-November-and-includes-30-classic-NES-games-1124170.html,/u/Snocrash,12
+0,2016-07-15 13:36:25 -0500,/t/programming,The life-changing benefits of side projects,https://medium.com/@gammons/the-life-changing-benefits-of-side-projects-5e2fe47a8961#.yl4s1f6vy,/u/gammons,0
+5,2016-07-14 13:08:44 -0500,"/t/programming,/t/vcs",BitKeeper 7.3 released,https://users.bitkeeper.org/t/bk-7-3ce-released-2016-07-13/174,/u/wscott,8
+0,2016-07-14 17:08:01 -0500,"/t/databases,/t/programming",Flix - The Elegance of Functional Programming with the Conciseness of Logic Programming,http://flix.github.io,/u/Snocrash,11
+1,2016-07-14 11:35:56 -0500,/t/security,ROP is Dying and Your Exploit Mitigations are on Life Support,https://www.endgame.com/blog/rop-dying-and-your-exploit-mitigations-are-life-support,/u/jcs,14
+3,2016-07-15 10:47:41 -0500,/t/culture,Dennis Cooper fears censorship as Google erases blog without warning,https://www.theguardian.com/books/2016/jul/14/dennis-cooper-google-censorship-dc-blog,/u/rain1,2
+0,2016-07-15 02:46:43 -0500,"/t/javascript,/t/vcs",Simple git hooks,https://github.com/gtramontina/ghooks,/u/gtramontina,1
+9,2016-07-14 08:09:27 -0500,/t/emacs,"Watching Youtube inside Emacs 25, with a complete Webkit-based web browser!",https://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/,/u/av,10
+29,2016-07-13 17:18:46 -0500,"/t/go,/t/programming,/t/python",Asciinema 1.3 Switches from Go Back to Python,http://blog.asciinema.org/post/and-now-for-something-completely-different/,/u/bobbywilson0,47
+3,2016-07-14 14:54:51 -0500,"/t/show,/t/programming,/t/release","Show: ""Hi World!"" - How to Write Code that Learns",https://medium.com/improve-ai-blog/hi-world-how-to-write-code-that-learns-efdb8b5af940#.fvz5hx8fi,/u/orasis,3
+5,2016-07-14 13:20:44 -0500,"/t/c,/t/erlang,/t/security",The Mouse Trap: A Final LZ4 Act - Hacking Erlang,http://blog.securitymouse.com/2014/07/a-final-lz4-act-hacking-erlang.html,/u/friendlysock,5
+1,2016-07-14 10:29:58 -0500,"/t/c,/t/python","Machine learning with Vowpal Wabbit, C++ and Python",http://blog.getstream.io/fast-recommendations-for-activity-streams-using-vowpal-wabbit/?fthr=lobsters,/u/tschellenbach,9
+0,2016-07-14 08:30:05 -0500,/t/lisp,Nightcode: An IDE for Clojure,https://sekao.net/nightcode/,/u/jan,13
+0,2016-07-14 11:30:08 -0500,"/t/pdf,/t/c,/t/compilers",Into the Depths of C: Elaborating the De Facto Standards,https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201606-pldi2016-clanguage.pdf,/u/gandro,8
+0,2016-07-14 13:42:59 -0500,"/t/haskell,/t/javascript",PureScript for Front End Developers,http://konkle.us/purescript-for-front-end-developers/,/u/paf31,6
+1,2016-07-14 17:35:28 -0500,/t/satire,Edward Snowden Captured,https://medium.com/@jeremybornstein/edward-snowden-captured-b3cac4ad389c,/u/evaryont,7
+0,2016-07-15 02:11:21 -0500,"/t/databases,/t/devops,/t/programming",Analyzing PostgreSQL logs using pgBadger,http://blog.garage-coding.com/2016/07/16/analyzing-postgres-logs-with-pgbadger.html,/u/wsdookadr,0
+6,2016-07-13 19:39:25 -0500,"/t/historical,/t/release",How (and why) FreeDOS keeps DOS alive,http://www.computerworld.com.au/article/603343/how-why-freedos-keeps-dos-alive/,/u/sevan,26
+0,2016-07-14 17:08:28 -0500,/t/visualization,Five Years of Drought,https://adventuresinmapping.wordpress.com/2016/07/12/five-years-of-drought/,/u/pushcx,3

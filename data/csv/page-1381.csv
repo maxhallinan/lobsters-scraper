@@ -1,25 +1,25 @@
-0,2014-02-27 11:49:33 -0600,"['/t/privacy', '/t/security']",Yahoo webcam images from millions of users intercepted by GCHQ,http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo,/u/tlongren,1
-2,2014-02-26 17:01:23 -0600,"['/t/show', '/t/programming']",Twitch Plays Pokemon: ASCII Edition,http://pokemon.boner.io/,/u/elgruntox,11
-2,2014-02-27 16:31:02 -0600,"['/t/devops', '/t/scaling']",Are your servers pets or cattle?,http://www.lauradhamilton.com/servers-pets-versus-cattle,/u/laura,0
-3,2014-02-27 14:57:10 -0600,"['/t/culture', '/t/practices']",Hungarian Notation & Security by Anecdote,http://programmingisterrible.com/post/39726288528/hungarian-notation-security-by-anecdote,/u/bct,1
-0,2014-02-27 09:05:20 -0600,['/t/hardware'],HP to begin charging for firmware updates and service packs for servers,http://www.zdnet.com/hp-to-begin-charging-for-firmware-updates-and-service-packs-for-servers-7000026110/,/u/cnst,1
-3,2014-02-26 20:53:21 -0600,"['/t/privacy', '/t/security']",Writing The Snowden Files: “The paragraph began to self-delete”,http://www.theguardian.com/books/2014/feb/20/edward-snowden-files-nsa-gchq-luke-harding,/u/ap,3
-6,2014-02-26 21:32:14 -0600,"['/t/video', '/t/programming', '/t/release']",Introduction to the Wolfram Language,http://youtu.be/_P9HqHVPeik,/u/SeanTAllen,2
-0,2014-02-26 13:12:14 -0600,"['/t/lisp', '/t/programming']",Clojure from the ground up: modeling,http://aphyr.com/posts/312-clojure-from-the-ground-up-modeling,/u/aphyr,12
-22,2014-02-25 23:25:01 -0600,['/t/programming'],Atom: Github is developing a text editor,https://github.com/atom,/u/am,25
-0,2014-02-26 20:42:31 -0600,"['/t/lisp', '/t/release']",Racket v6.0 released,http://blog.racket-lang.org/2014/02/racket-v60.html,/u/SeanTAllen,4
-0,2014-02-26 22:33:58 -0600,"['/t/pdf', '/t/programming']",Patterns of Software - Tales from the Software Community (1996),http://dreamsongs.com/Files/PatternsOfSoftware.pdf,/u/jm,3
-0,2014-02-26 05:49:41 -0600,"['/t/hardware', '/t/programming']",Coding for SSDs – Part 1,http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/,/u/BruceM,17
-14,2014-02-26 02:19:29 -0600,"['/t/c', '/t/security']",Why were there gotos in apple software in the first place ?,http://spootnik.org/entries/2014/02/25_why-were-there-gotos-in-apple-software-in-the-first-place.html,/u/pyr,12
-1,2014-02-26 13:46:41 -0600,['/t/science'],The audacious rescue plan that might have saved space shuttle Columbia,http://arstechnica.com/science/2014/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/,/u/tedu,5
-1,2014-02-26 11:47:27 -0600,['/t/linux'],Using the ZFS next-gen filesystem on Linux,http://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/,/u/mattk,6
-1,2014-02-26 14:39:28 -0600,"['/t/show', '/t/person']",Organizing Marc Andreessen's Thoughts Using Python and NLTK,http://sridattalabs.com/2014/02/26/pmarca?1=1,/u/sridatta,3
-1,2014-02-26 12:49:39 -0600,"['/t/dotnet', '/t/programming', '/t/release']",C# Pad -- Interactive C# REPL,http://csharppad.com,/u/sunny,5
-1,2014-02-26 14:38:42 -0600,['/t/security'],RSA security attack demo deep-fries Apple Mac components,http://www.networkworld.com/news/2014/022614-rsa-apple-attack-279212.html,/u/jm,2
-0,2014-02-26 09:43:52 -0600,['/t/programming'],Codebox,https://www.codebox.io/,/u/jm,5
-0,2014-02-26 18:56:53 -0600,"['/t/android', '/t/security']",On the WebView addJavascriptInterface Saga,http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html,/u/jcs,1
-0,2014-02-26 14:42:34 -0600,"['/t/programming', '/t/satire']",ArnoldC,https://github.com/lhartikk/ArnoldC,/u/jm,4
-3,2014-02-26 11:38:32 -0600,['/t/networking'],List of Approved ICANN gTLDs,http://newgtlds.icann.org/en/program-status/delegated-strings,/u/zhemao,1
-1,2014-02-26 15:30:44 -0600,['/t/web'],Dart News & Updates: Dart 1.2 continues to improve developer experience,http://news.dartlang.org/2014/02/dart-v1-2.html,/u/gtaylor,1
-0,2014-02-26 11:32:33 -0600,"['/t/hardware', '/t/law']",The Wrong Tool For the Job: Cell Phone Unlocking Bill Creates New Problems,https://www.eff.org/deeplinks/2014/02/wrong-tool-job-cell-phone-unlocking-bill-fixes-wrong-problem-and-creates-new-ones,/u/journeysquid,2
-2,2014-02-25 20:34:03 -0600,['/t/assembly'],yasp is a fully functional web-based assembler development environment,http://yasp.me,/u/SeanTAllen,8
+0,2014-02-27 11:49:33 -0600,"/t/privacy,/t/security",Yahoo webcam images from millions of users intercepted by GCHQ,http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo,/u/tlongren,1
+2,2014-02-26 17:01:23 -0600,"/t/show,/t/programming",Twitch Plays Pokemon: ASCII Edition,http://pokemon.boner.io/,/u/elgruntox,11
+2,2014-02-27 16:31:02 -0600,"/t/devops,/t/scaling",Are your servers pets or cattle?,http://www.lauradhamilton.com/servers-pets-versus-cattle,/u/laura,0
+3,2014-02-27 14:57:10 -0600,"/t/culture,/t/practices",Hungarian Notation & Security by Anecdote,http://programmingisterrible.com/post/39726288528/hungarian-notation-security-by-anecdote,/u/bct,1
+0,2014-02-27 09:05:20 -0600,/t/hardware,HP to begin charging for firmware updates and service packs for servers,http://www.zdnet.com/hp-to-begin-charging-for-firmware-updates-and-service-packs-for-servers-7000026110/,/u/cnst,1
+3,2014-02-26 20:53:21 -0600,"/t/privacy,/t/security",Writing The Snowden Files: “The paragraph began to self-delete”,http://www.theguardian.com/books/2014/feb/20/edward-snowden-files-nsa-gchq-luke-harding,/u/ap,3
+6,2014-02-26 21:32:14 -0600,"/t/video,/t/programming,/t/release",Introduction to the Wolfram Language,http://youtu.be/_P9HqHVPeik,/u/SeanTAllen,2
+0,2014-02-26 13:12:14 -0600,"/t/lisp,/t/programming",Clojure from the ground up: modeling,http://aphyr.com/posts/312-clojure-from-the-ground-up-modeling,/u/aphyr,12
+22,2014-02-25 23:25:01 -0600,/t/programming,Atom: Github is developing a text editor,https://github.com/atom,/u/am,25
+0,2014-02-26 20:42:31 -0600,"/t/lisp,/t/release",Racket v6.0 released,http://blog.racket-lang.org/2014/02/racket-v60.html,/u/SeanTAllen,4
+0,2014-02-26 22:33:58 -0600,"/t/pdf,/t/programming",Patterns of Software - Tales from the Software Community (1996),http://dreamsongs.com/Files/PatternsOfSoftware.pdf,/u/jm,3
+0,2014-02-26 05:49:41 -0600,"/t/hardware,/t/programming",Coding for SSDs – Part 1,http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/,/u/BruceM,17
+14,2014-02-26 02:19:29 -0600,"/t/c,/t/security",Why were there gotos in apple software in the first place ?,http://spootnik.org/entries/2014/02/25_why-were-there-gotos-in-apple-software-in-the-first-place.html,/u/pyr,12
+1,2014-02-26 13:46:41 -0600,/t/science,The audacious rescue plan that might have saved space shuttle Columbia,http://arstechnica.com/science/2014/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/,/u/tedu,5
+1,2014-02-26 11:47:27 -0600,/t/linux,Using the ZFS next-gen filesystem on Linux,http://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/,/u/mattk,6
+1,2014-02-26 14:39:28 -0600,"/t/show,/t/person",Organizing Marc Andreessen's Thoughts Using Python and NLTK,http://sridattalabs.com/2014/02/26/pmarca?1=1,/u/sridatta,3
+1,2014-02-26 12:49:39 -0600,"/t/dotnet,/t/programming,/t/release",C# Pad -- Interactive C# REPL,http://csharppad.com,/u/sunny,5
+1,2014-02-26 14:38:42 -0600,/t/security,RSA security attack demo deep-fries Apple Mac components,http://www.networkworld.com/news/2014/022614-rsa-apple-attack-279212.html,/u/jm,2
+0,2014-02-26 09:43:52 -0600,/t/programming,Codebox,https://www.codebox.io/,/u/jm,5
+0,2014-02-26 18:56:53 -0600,"/t/android,/t/security",On the WebView addJavascriptInterface Saga,http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html,/u/jcs,1
+0,2014-02-26 14:42:34 -0600,"/t/programming,/t/satire",ArnoldC,https://github.com/lhartikk/ArnoldC,/u/jm,4
+3,2014-02-26 11:38:32 -0600,/t/networking,List of Approved ICANN gTLDs,http://newgtlds.icann.org/en/program-status/delegated-strings,/u/zhemao,1
+1,2014-02-26 15:30:44 -0600,/t/web,Dart News & Updates: Dart 1.2 continues to improve developer experience,http://news.dartlang.org/2014/02/dart-v1-2.html,/u/gtaylor,1
+0,2014-02-26 11:32:33 -0600,"/t/hardware,/t/law",The Wrong Tool For the Job: Cell Phone Unlocking Bill Creates New Problems,https://www.eff.org/deeplinks/2014/02/wrong-tool-job-cell-phone-unlocking-bill-fixes-wrong-problem-and-creates-new-ones,/u/journeysquid,2
+2,2014-02-25 20:34:03 -0600,/t/assembly,yasp is a fully functional web-based assembler development environment,http://yasp.me,/u/SeanTAllen,8

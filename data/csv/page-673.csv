@@ -1,25 +1,25 @@
-2,2016-08-31 17:10:47 -0500,"['/t/javascript', '/t/ml']","BuckleScript: write JS faster, safer and smaller",https://bloomberg.github.io/bucklescript/,/u/nyx,13
-0,2016-09-01 01:27:56 -0500,['/t/databases'],MyRocks: A space- and write-optimized MySQL database,https://code.facebook.com/posts/190251048047090/myrocks-a-space-and-write-optimized-mysql-database/,/u/sanxiyn,6
-4,2016-08-31 11:48:11 -0500,['/t/science'],"Word or LaTeX typesetting: which one is more productive? Finally, scientifically assessed",http://mappingignorance.org/2015/04/06/word-or-latex-typesetting-which-one-is-more-productive-finally-scientifically-assessed/,/u/pushcx,15
-0,2016-08-31 21:32:42 -0500,"['/t/release', '/t/visualization']",Twine as a Process Modeling Tool,https://trackchanges.postlight.com/twine-as-a-process-modeling-tool-cf9ad42d165,/u/zem,8
-0,2016-09-01 05:11:45 -0500,"['/t/historical', '/t/linux']",Outline of Lars Wirzenius' talk about the early days of Linux,http://blog.liw.fi/posts/linux25/,/u/mjturner,3
-0,2016-09-01 16:01:05 -0500,"['/t/culture', '/t/javascript', '/t/programming']",JavaScript Frameworks: Distribution Channels for Good Ideas,https://medium.com/@tomdale/javascript-frameworks-distribution-channels-for-good-ideas-9f3b95c0e293,/u/zem,1
-1,2016-09-01 01:29:59 -0500,['/t/cogsci'],How a Japanese cucumber farmer is using deep learning and TensorFlow,https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow,/u/Dawny33,3
-0,2016-08-31 18:37:53 -0500,"['/t/lisp', '/t/programming']",Playing With Syntax,http://stevelosh.com/blog/2016/08/playing-with-syntax/,/u/Snocrash,9
-0,2016-08-31 06:25:22 -0500,['/t/security'],The Dropbox hack is real,https://www.troyhunt.com/the-dropbox-hack-is-real/,/u/adsouza,28
-0,2016-09-01 07:36:22 -0500,"['/t/pdf', '/t/reversing', '/t/security', '/t/windows']",AVLeak: Fingerprinting Antivirus Emulators Through Black-Box Testing,https://www.usenix.org/system/files/conference/woot16/woot16-paper-blackthorne_update.pdf,/u/355E3B,1
-17,2016-08-31 07:15:11 -0500,"['/t/compsci', '/t/databases', '/t/programming']",The Vietnam of Computer Science (2006),http://blogs.tedneward.com/post/the-vietnam-of-computer-science/,/u/mjturner,11
-9,2016-08-31 00:09:19 -0500,"['/t/law', '/t/practices']",Why the BSD 3-clause license should be included in the license dropdown menu on GitHub,https://github.com/github/choosealicense.com/issues/413#issuecomment-243598510,/u/ngoldbaum,21
-1,2016-08-31 10:06:30 -0500,['/t/privacy'],Building a new Tor that can resist next-generation state surveillance,http://arstechnica.co.uk/security/2016/08/building-a-new-tor-that-withstands-next-generation-state-surveillance/,/u/jabberwock,9
-1,2016-08-31 09:22:58 -0500,['/t/unix'],Advancing in the Bash Shell,http://samrowe.com/wordpress/advancing-in-the-bash-shell/,/u/mjturner,12
-2,2016-08-31 23:32:14 -0500,['/t/historical'],The Story of Captain Midnight (2000),http://web.archive.org/web/20070128101239/http://www.signaltonoise.net/library/captmidn.htm,/u/nil,1
-0,2016-08-31 18:34:36 -0500,"['/t/javascript', '/t/ml']",Announcing BuckleScript 1.0,http://bloomberg.github.io/bucklescript/blog/,/u/dwc,4
-2,2016-09-01 04:31:02 -0500,"['/t/culture', '/t/practices']",Funding Open Source with Marketing Money,http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/,/u/quobit,2
-1,2016-08-31 06:36:42 -0500,['/t/erlang'],Joe Armstrong - My favorite Erlang Program (2013),http://joearms.github.io/2013/11/21/My-favorite-erlang-program.html,/u/dwc,12
-0,2016-09-01 01:20:18 -0500,"['/t/compsci', '/t/rust']",Are we learning yet? - State of machine learning in Rust,http://www.arewelearningyet.com/,/u/tf,1
-0,2016-08-31 15:10:25 -0500,"['/t/networking', '/t/python']",About the WHOIS Protocol,https://gkbrk.com/2016/08/about-the-whois-protocol/,/u/gkbrk,2
-0,2016-08-31 19:41:14 -0500,"['/t/slides', '/t/go']",7 Common Mistakes in Go,http://www.slideshare.net/spf13/7-common-mistakes-in-go-2015,/u/adsouza,2
-0,2016-08-31 22:51:23 -0500,"['/t/distributed', '/t/linux']",Caringo Brings the Benefits of Scale-Out Object Storage to NFS | Caringo,https://www.caringo.com/press-releases/caringo-benefits-scale-out-object-storage-nfs/,/u/lei,1
-1,2016-08-31 01:56:11 -0500,['/t/programming'],Hunting for great names in programming,https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03,/u/pushcx,9
-0,2016-08-31 19:39:23 -0500,"['/t/go', '/t/hardware']","Go framework for robotics, physical computing, and the Internet of Things",https://gobot.io/,/u/adsouza,1
-11,2016-08-30 11:46:17 -0500,"['/t/elm', '/t/javascript', '/t/ml', '/t/programming']",Elm: Blazing Fast HTML Round 2,http://elm-lang.org/blog/blazing-fast-html-round-two,/u/bogdan,28
+2,2016-08-31 17:10:47 -0500,"/t/javascript,/t/ml","BuckleScript: write JS faster, safer and smaller",https://bloomberg.github.io/bucklescript/,/u/nyx,13
+0,2016-09-01 01:27:56 -0500,/t/databases,MyRocks: A space- and write-optimized MySQL database,https://code.facebook.com/posts/190251048047090/myrocks-a-space-and-write-optimized-mysql-database/,/u/sanxiyn,6
+4,2016-08-31 11:48:11 -0500,/t/science,"Word or LaTeX typesetting: which one is more productive? Finally, scientifically assessed",http://mappingignorance.org/2015/04/06/word-or-latex-typesetting-which-one-is-more-productive-finally-scientifically-assessed/,/u/pushcx,15
+0,2016-08-31 21:32:42 -0500,"/t/release,/t/visualization",Twine as a Process Modeling Tool,https://trackchanges.postlight.com/twine-as-a-process-modeling-tool-cf9ad42d165,/u/zem,8
+0,2016-09-01 05:11:45 -0500,"/t/historical,/t/linux",Outline of Lars Wirzenius' talk about the early days of Linux,http://blog.liw.fi/posts/linux25/,/u/mjturner,3
+0,2016-09-01 16:01:05 -0500,"/t/culture,/t/javascript,/t/programming",JavaScript Frameworks: Distribution Channels for Good Ideas,https://medium.com/@tomdale/javascript-frameworks-distribution-channels-for-good-ideas-9f3b95c0e293,/u/zem,1
+1,2016-09-01 01:29:59 -0500,/t/cogsci,How a Japanese cucumber farmer is using deep learning and TensorFlow,https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow,/u/Dawny33,3
+0,2016-08-31 18:37:53 -0500,"/t/lisp,/t/programming",Playing With Syntax,http://stevelosh.com/blog/2016/08/playing-with-syntax/,/u/Snocrash,9
+0,2016-08-31 06:25:22 -0500,/t/security,The Dropbox hack is real,https://www.troyhunt.com/the-dropbox-hack-is-real/,/u/adsouza,28
+0,2016-09-01 07:36:22 -0500,"/t/pdf,/t/reversing,/t/security,/t/windows",AVLeak: Fingerprinting Antivirus Emulators Through Black-Box Testing,https://www.usenix.org/system/files/conference/woot16/woot16-paper-blackthorne_update.pdf,/u/355E3B,1
+17,2016-08-31 07:15:11 -0500,"/t/compsci,/t/databases,/t/programming",The Vietnam of Computer Science (2006),http://blogs.tedneward.com/post/the-vietnam-of-computer-science/,/u/mjturner,11
+9,2016-08-31 00:09:19 -0500,"/t/law,/t/practices",Why the BSD 3-clause license should be included in the license dropdown menu on GitHub,https://github.com/github/choosealicense.com/issues/413#issuecomment-243598510,/u/ngoldbaum,21
+1,2016-08-31 10:06:30 -0500,/t/privacy,Building a new Tor that can resist next-generation state surveillance,http://arstechnica.co.uk/security/2016/08/building-a-new-tor-that-withstands-next-generation-state-surveillance/,/u/jabberwock,9
+1,2016-08-31 09:22:58 -0500,/t/unix,Advancing in the Bash Shell,http://samrowe.com/wordpress/advancing-in-the-bash-shell/,/u/mjturner,12
+2,2016-08-31 23:32:14 -0500,/t/historical,The Story of Captain Midnight (2000),http://web.archive.org/web/20070128101239/http://www.signaltonoise.net/library/captmidn.htm,/u/nil,1
+0,2016-08-31 18:34:36 -0500,"/t/javascript,/t/ml",Announcing BuckleScript 1.0,http://bloomberg.github.io/bucklescript/blog/,/u/dwc,4
+2,2016-09-01 04:31:02 -0500,"/t/culture,/t/practices",Funding Open Source with Marketing Money,http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/,/u/quobit,2
+1,2016-08-31 06:36:42 -0500,/t/erlang,Joe Armstrong - My favorite Erlang Program (2013),http://joearms.github.io/2013/11/21/My-favorite-erlang-program.html,/u/dwc,12
+0,2016-09-01 01:20:18 -0500,"/t/compsci,/t/rust",Are we learning yet? - State of machine learning in Rust,http://www.arewelearningyet.com/,/u/tf,1
+0,2016-08-31 15:10:25 -0500,"/t/networking,/t/python",About the WHOIS Protocol,https://gkbrk.com/2016/08/about-the-whois-protocol/,/u/gkbrk,2
+0,2016-08-31 19:41:14 -0500,"/t/slides,/t/go",7 Common Mistakes in Go,http://www.slideshare.net/spf13/7-common-mistakes-in-go-2015,/u/adsouza,2
+0,2016-08-31 22:51:23 -0500,"/t/distributed,/t/linux",Caringo Brings the Benefits of Scale-Out Object Storage to NFS | Caringo,https://www.caringo.com/press-releases/caringo-benefits-scale-out-object-storage-nfs/,/u/lei,1
+1,2016-08-31 01:56:11 -0500,/t/programming,Hunting for great names in programming,https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03,/u/pushcx,9
+0,2016-08-31 19:39:23 -0500,"/t/go,/t/hardware","Go framework for robotics, physical computing, and the Internet of Things",https://gobot.io/,/u/adsouza,1
+11,2016-08-30 11:46:17 -0500,"/t/elm,/t/javascript,/t/ml,/t/programming",Elm: Blazing Fast HTML Round 2,http://elm-lang.org/blog/blazing-fast-html-round-two,/u/bogdan,28

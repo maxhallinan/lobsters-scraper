@@ -1,25 +1,25 @@
-0,2015-03-20 12:56:13 -0500,"['/t/compilers', '/t/culture', '/t/php']",HippyVM goes to Y Combinator and fails,http://lostinjit.blogspot.com/2015/03/hippyvm-goes-to-y-combinator-and-fails.html,/u/sanxiyn,12
-2,2015-03-20 13:13:08 -0500,"['/t/dotnet', '/t/programming', '/t/windows']",Introduction to ASP.Net 5,https://dotnetkicks.com/articles/107527,/u/JeremyMorgan,4
-0,2015-03-20 15:29:44 -0500,"['/t/networking', '/t/openbsd', '/t/security']","OpenIKED ""Off-Shore"" Style Tunneling VPN Gateway",http://puffysecurity.com/wiki/openikedoffshore.html,/u/fcambus,4
-0,2015-03-20 15:13:35 -0500,"['/t/pdf', '/t/compsci']",Values and Objects in Programming Languages,http://web.eecs.utk.edu/~mclennan/papers/VOPL.pdf,/u/pushcx,3
-0,2015-03-20 06:22:52 -0500,['/t/compsci'],The Essential Leslie Lamport,http://brooker.co.za/blog/2014/03/30/lamport-pub.html,/u/SeanTAllen,7
-0,2015-03-20 19:19:12 -0500,['/t/job'],Toward Sustainable Open Source Development. Cocoa Developer Wanted.,https://mailman.stanford.edu/pipermail/liberationtech-jobs/2015-March/002138.html,/u/itistoday,1
-0,2015-03-20 06:59:13 -0500,['/t/web'],StackEdit – In-browser markdown editor,https://stackedit.io/,/u/flyingfisch,6
-22,2015-03-19 12:42:23 -0500,"['/t/release', '/t/web']",dllup markup language,http://www.dllu.net/programming/dllup/,/u/pushcx,19
-10,2015-03-19 21:02:18 -0500,['/t/go'],Creating Fakes in Go with Channels,http://blog.codeship.com/creating-fakes-in-go-with-channels/,/u/journeysquid,7
-2,2015-03-19 09:54:38 -0500,"['/t/openbsd', '/t/security']",OpenSSL Security Advisories - LibreSSL Largely Unaffected,http://undeadly.org/cgi?action=article&sid=20150319145126,/u/fcambus,23
-3,2015-03-19 13:56:58 -0500,"['/t/browsers', '/t/web']",Chrome 42 caches parsed/compiled Javascript,http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html,/u/dmnd,12
-0,2015-03-20 00:23:43 -0500,"['/t/event', '/t/security']",Pwn2Own 2015: Day Two results,http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/Pwn2Own-2015-Day-Two-results/ba-p/6722884,/u/jcs,4
-2,2015-03-19 09:02:20 -0500,['/t/security'],OpenSSL Security Advisory [19 Mar 2015],https://www.openssl.org/news/secadv_20150319.txt,/u/apg,17
-2,2015-03-19 13:24:43 -0500,"['/t/design', '/t/release', '/t/web']",CSS SANS: A font created in CSS,http://yusugomori.com/projects/css-sans/,/u/pushcx,7
-0,2015-03-19 15:01:44 -0500,"['/t/art', '/t/lisp']",Gerald Sussman | Scheme (1978-1981),https://www.artsy.net/artwork/gerald-sussman-scheme,/u/mikemccracken,8
-0,2015-03-20 10:28:11 -0500,"['/t/meta', '/t/mobile']",No auto complete on mobile?,/s/pcnvcm/no_auto_complete_on_mobile,/u/apy,1
-1,2015-03-19 11:26:13 -0500,"['/t/lisp', '/t/programming']",Dale: A Systems Programming Language With No GC,https://github.com/tomhrr/dale,/u/kellogh,10
-0,2015-03-19 11:59:35 -0500,['/t/erlang'],Solving the Go Challenge 1 in Erlang,https://medium.com/@jlouis666/solving-the-go-challenge-1-in-erlang-8b1e0a0a5044,/u/tristan,10
-0,2015-03-19 20:43:37 -0500,"['/t/video', '/t/distributed']",Building Robust Distributed Systems When You're Not...An Expert,http://www.youtube.com/watch?v=TzT1lMjo9DM&list=PL9Jh2HsAWHxLco7V1SjU9hUzP53CBZOYO&index=19,/u/SeanTAllen,3
-3,2015-03-19 12:30:36 -0500,['/t/web'],Pluralization for JavaScript,http://alistapart.com/article/pluralization-for-javascript,/u/flyingfisch,4
-0,2015-03-19 10:39:29 -0500,"['/t/openbsd', '/t/security']",LibreSSL 2.1.6 released,http://marc.info/?l=openbsd-tech&m=142677928417277&w=2,/u/bcallah,8
-0,2015-03-19 15:53:08 -0500,"['/t/c', '/t/reversing', '/t/security']",Taming the wild copy: Parallel Thread Corruption,http://googleprojectzero.blogspot.com/2015/03/taming-wild-copy-parallel-thread.html,/u/jcs,4
-0,2015-03-19 15:21:30 -0500,['/t/ruby'],Understanding Rack Apps and Middleware,https://blog.engineyard.com/2015/understanding-rack-apps-and-middleware,/u/fluxusfrequency,4
-2,2015-03-19 02:36:27 -0500,"['/t/hardware', '/t/netbsd', '/t/unix']",NetBSD ported to Hardkernel ODROID-C1,http://blog.netbsd.org/tnf/entry/netbsd_ported_to_hardkernel_odroid,/u/fcambus,9
-4,2015-03-19 11:55:10 -0500,['/t/meta'],Notifications about thread replies in the Lobsters WUI?,/s/byapzr/notifications_about_thread_replies,/u/JordiGH,8
+0,2015-03-20 12:56:13 -0500,"/t/compilers,/t/culture,/t/php",HippyVM goes to Y Combinator and fails,http://lostinjit.blogspot.com/2015/03/hippyvm-goes-to-y-combinator-and-fails.html,/u/sanxiyn,12
+2,2015-03-20 13:13:08 -0500,"/t/dotnet,/t/programming,/t/windows",Introduction to ASP.Net 5,https://dotnetkicks.com/articles/107527,/u/JeremyMorgan,4
+0,2015-03-20 15:29:44 -0500,"/t/networking,/t/openbsd,/t/security","OpenIKED ""Off-Shore"" Style Tunneling VPN Gateway",http://puffysecurity.com/wiki/openikedoffshore.html,/u/fcambus,4
+0,2015-03-20 15:13:35 -0500,"/t/pdf,/t/compsci",Values and Objects in Programming Languages,http://web.eecs.utk.edu/~mclennan/papers/VOPL.pdf,/u/pushcx,3
+0,2015-03-20 06:22:52 -0500,/t/compsci,The Essential Leslie Lamport,http://brooker.co.za/blog/2014/03/30/lamport-pub.html,/u/SeanTAllen,7
+0,2015-03-20 19:19:12 -0500,/t/job,Toward Sustainable Open Source Development. Cocoa Developer Wanted.,https://mailman.stanford.edu/pipermail/liberationtech-jobs/2015-March/002138.html,/u/itistoday,1
+0,2015-03-20 06:59:13 -0500,/t/web,StackEdit – In-browser markdown editor,https://stackedit.io/,/u/flyingfisch,6
+22,2015-03-19 12:42:23 -0500,"/t/release,/t/web",dllup markup language,http://www.dllu.net/programming/dllup/,/u/pushcx,19
+10,2015-03-19 21:02:18 -0500,/t/go,Creating Fakes in Go with Channels,http://blog.codeship.com/creating-fakes-in-go-with-channels/,/u/journeysquid,7
+2,2015-03-19 09:54:38 -0500,"/t/openbsd,/t/security",OpenSSL Security Advisories - LibreSSL Largely Unaffected,http://undeadly.org/cgi?action=article&sid=20150319145126,/u/fcambus,23
+3,2015-03-19 13:56:58 -0500,"/t/browsers,/t/web",Chrome 42 caches parsed/compiled Javascript,http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html,/u/dmnd,12
+0,2015-03-20 00:23:43 -0500,"/t/event,/t/security",Pwn2Own 2015: Day Two results,http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/Pwn2Own-2015-Day-Two-results/ba-p/6722884,/u/jcs,4
+2,2015-03-19 09:02:20 -0500,/t/security,OpenSSL Security Advisory [19 Mar 2015],https://www.openssl.org/news/secadv_20150319.txt,/u/apg,17
+2,2015-03-19 13:24:43 -0500,"/t/design,/t/release,/t/web",CSS SANS: A font created in CSS,http://yusugomori.com/projects/css-sans/,/u/pushcx,7
+0,2015-03-19 15:01:44 -0500,"/t/art,/t/lisp",Gerald Sussman | Scheme (1978-1981),https://www.artsy.net/artwork/gerald-sussman-scheme,/u/mikemccracken,8
+0,2015-03-20 10:28:11 -0500,"/t/meta,/t/mobile",No auto complete on mobile?,/s/pcnvcm/no_auto_complete_on_mobile,/u/apy,1
+1,2015-03-19 11:26:13 -0500,"/t/lisp,/t/programming",Dale: A Systems Programming Language With No GC,https://github.com/tomhrr/dale,/u/kellogh,10
+0,2015-03-19 11:59:35 -0500,/t/erlang,Solving the Go Challenge 1 in Erlang,https://medium.com/@jlouis666/solving-the-go-challenge-1-in-erlang-8b1e0a0a5044,/u/tristan,10
+0,2015-03-19 20:43:37 -0500,"/t/video,/t/distributed",Building Robust Distributed Systems When You're Not...An Expert,http://www.youtube.com/watch?v=TzT1lMjo9DM&list=PL9Jh2HsAWHxLco7V1SjU9hUzP53CBZOYO&index=19,/u/SeanTAllen,3
+3,2015-03-19 12:30:36 -0500,/t/web,Pluralization for JavaScript,http://alistapart.com/article/pluralization-for-javascript,/u/flyingfisch,4
+0,2015-03-19 10:39:29 -0500,"/t/openbsd,/t/security",LibreSSL 2.1.6 released,http://marc.info/?l=openbsd-tech&m=142677928417277&w=2,/u/bcallah,8
+0,2015-03-19 15:53:08 -0500,"/t/c,/t/reversing,/t/security",Taming the wild copy: Parallel Thread Corruption,http://googleprojectzero.blogspot.com/2015/03/taming-wild-copy-parallel-thread.html,/u/jcs,4
+0,2015-03-19 15:21:30 -0500,/t/ruby,Understanding Rack Apps and Middleware,https://blog.engineyard.com/2015/understanding-rack-apps-and-middleware,/u/fluxusfrequency,4
+2,2015-03-19 02:36:27 -0500,"/t/hardware,/t/netbsd,/t/unix",NetBSD ported to Hardkernel ODROID-C1,http://blog.netbsd.org/tnf/entry/netbsd_ported_to_hardkernel_odroid,/u/fcambus,9
+4,2015-03-19 11:55:10 -0500,/t/meta,Notifications about thread replies in the Lobsters WUI?,/s/byapzr/notifications_about_thread_replies,/u/JordiGH,8

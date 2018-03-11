@@ -1,25 +1,25 @@
-0,2015-02-16 17:16:55 -0600,"['/t/hardware', '/t/security']","Intel Boot Guard, Coreboot and user freedom",http://mjg59.dreamwidth.org/33981.html,/u/jcs,2
-1,2015-02-16 16:25:52 -0600,['/t/databases'],Arcane knowledge needed to write a test (Redis),http://blog.testdouble.com/posts/2015-02-16-arcane-knowledge.html,/u/craigkerstiens,1
-0,2015-02-15 23:42:05 -0600,['/t/haskell'],Building Haskell Projects with Halcyon,http://robots.thoughtbot.com/building-haskell-projects-with-halcyon,/u/craigkerstiens,13
-8,2015-02-15 05:04:33 -0600,['/t/haskell'],The new Haskell.org website,https://www.haskell.org/?new,/u/sts,29
-1,2015-02-15 16:29:05 -0600,['/t/c'],zero size objects,http://www.tedunangst.com/flak/post/zero-size-objects,/u/jcs,14
-2,2015-02-15 12:24:21 -0600,"['/t/freebsd', '/t/release', '/t/security']",End of the m0n0wall project,http://m0n0.ch/wall/end_announcement.php,/u/lynge,15
-0,2015-02-16 07:59:26 -0600,['/t/javascript'],How NativeScript Works,http://developer.telerik.com/featured/nativescript-works/,/u/remotesynth,2
-0,2015-02-15 15:03:32 -0600,['/t/visualization'],54 Years of Space Exploration in one infographic,http://cosmicdiary.org/fmarchis/2014/05/19/54_years_of_exploration/,/u/DocSavage,10
-0,2015-02-15 22:22:01 -0600,"['/t/haskell', '/t/programming']",Free Monads for Testing Redis Calls,http://michaelxavier.net/posts/2014-04-27-Cool-Idea-Free-Monads-for-Testing-Redis-Calls.html,/u/bitemyapp,4
-0,2015-02-15 22:20:52 -0600,"['/t/haskell', '/t/programming']",Writing Atom plugins in Haskell using ghcjs,http://edsko.net/2015/02/14/atom-haskell/,/u/bitemyapp,4
-0,2015-02-15 08:14:50 -0600,['/t/openbsd'],OpenBSD Mail Server,http://technoquarter.blogspot.fr/p/series.html,/u/dbd,17
-3,2015-02-15 13:38:16 -0600,"['/t/networking', '/t/python']",Asynchronous Python and Databases,http://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/,/u/hongminhee,4
-4,2015-02-16 09:42:52 -0600,['/t/show'],"Show L: A web-based ssh client, providing end-to-end encryption",http://www.minaterm.com,/u/new299,0
-0,2015-02-15 22:21:40 -0600,"['/t/video', '/t/databases', '/t/programming']",A Functorial Query Language,https://www.youtube.com/watch?v=Q0m8baqBrk4,/u/bitemyapp,2
-0,2015-02-15 08:39:51 -0600,"['/t/unix', '/t/web']",websocketd: WebSockets the UNIX way,http://websocketd.com/,/u/pushcx,9
-0,2015-02-15 12:06:01 -0600,['/t/ruby'],I am a hybrid developer,http://notmagic.org/2015/02/15/hybrid,/u/craigkerstiens,5
-0,2015-02-15 10:42:04 -0600,['/t/distributed'],COVR: Composable Output-Valid Resilient Messaging,http://www.hpl.hp.com/techreports/2014/HPL-2014-14.html,/u/SeanTAllen,4
-0,2015-02-15 10:08:15 -0600,"['/t/video', '/t/programming']",Dan Ingalls: Object-Oriented Programming (1989),https://archive.org/details/DanIngal1989,/u/pushcx,2
-0,2015-02-14 19:39:55 -0600,"['/t/haskell', '/t/web']",From Zero to HIPster (Haskell In Production),http://34cross.in/zero-to-haskell-in-production,/u/pushcx,9
-1,2015-02-14 09:37:16 -0600,"['/t/distributed', '/t/programming']",modules + network = microservices,http://programmingisterrible.com/post/110292532528/modules-network-microservices,/u/apg,14
-0,2015-02-14 20:31:18 -0600,"['/t/distributed', '/t/practices', '/t/programming']",Providence: Failure Is Always an Option,http://jasonpunyon.com/blog/2015/02/12/providence-failure-is-always-an-option/,/u/pushcx,3
-1,2015-02-14 11:53:55 -0600,['/t/distributed'],Worst-Case Distributed Systems Design,http://www.bailis.org/blog/worst-case-distributed-systems-design/,/u/apg,5
-1,2015-02-14 09:47:18 -0600,"['/t/programming', '/t/ruby']",Why Methods Are Sometimes Better than Constants,http://www.enotagain.com/essays/why-methods-are-sometimes-better-than-constants.html,/u/gregnavis,6
-1,2015-02-14 13:38:14 -0600,"['/t/law', '/t/linux', '/t/practices']",Despicable SPI,http://aruiz.synaptia.net/siliconisland/2015/02/despicable-spi.html,/u/journeysquid,2
-0,2015-02-14 03:59:46 -0600,"['/t/linux', '/t/security', '/t/virtualization']",Qubes OS: Security by Compartmentailzation,https://qubes-os.org/,/u/zem,6
+0,2015-02-16 17:16:55 -0600,"/t/hardware,/t/security","Intel Boot Guard, Coreboot and user freedom",http://mjg59.dreamwidth.org/33981.html,/u/jcs,2
+1,2015-02-16 16:25:52 -0600,/t/databases,Arcane knowledge needed to write a test (Redis),http://blog.testdouble.com/posts/2015-02-16-arcane-knowledge.html,/u/craigkerstiens,1
+0,2015-02-15 23:42:05 -0600,/t/haskell,Building Haskell Projects with Halcyon,http://robots.thoughtbot.com/building-haskell-projects-with-halcyon,/u/craigkerstiens,13
+8,2015-02-15 05:04:33 -0600,/t/haskell,The new Haskell.org website,https://www.haskell.org/?new,/u/sts,29
+1,2015-02-15 16:29:05 -0600,/t/c,zero size objects,http://www.tedunangst.com/flak/post/zero-size-objects,/u/jcs,14
+2,2015-02-15 12:24:21 -0600,"/t/freebsd,/t/release,/t/security",End of the m0n0wall project,http://m0n0.ch/wall/end_announcement.php,/u/lynge,15
+0,2015-02-16 07:59:26 -0600,/t/javascript,How NativeScript Works,http://developer.telerik.com/featured/nativescript-works/,/u/remotesynth,2
+0,2015-02-15 15:03:32 -0600,/t/visualization,54 Years of Space Exploration in one infographic,http://cosmicdiary.org/fmarchis/2014/05/19/54_years_of_exploration/,/u/DocSavage,10
+0,2015-02-15 22:22:01 -0600,"/t/haskell,/t/programming",Free Monads for Testing Redis Calls,http://michaelxavier.net/posts/2014-04-27-Cool-Idea-Free-Monads-for-Testing-Redis-Calls.html,/u/bitemyapp,4
+0,2015-02-15 22:20:52 -0600,"/t/haskell,/t/programming",Writing Atom plugins in Haskell using ghcjs,http://edsko.net/2015/02/14/atom-haskell/,/u/bitemyapp,4
+0,2015-02-15 08:14:50 -0600,/t/openbsd,OpenBSD Mail Server,http://technoquarter.blogspot.fr/p/series.html,/u/dbd,17
+3,2015-02-15 13:38:16 -0600,"/t/networking,/t/python",Asynchronous Python and Databases,http://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/,/u/hongminhee,4
+4,2015-02-16 09:42:52 -0600,/t/show,"Show L: A web-based ssh client, providing end-to-end encryption",http://www.minaterm.com,/u/new299,0
+0,2015-02-15 22:21:40 -0600,"/t/video,/t/databases,/t/programming",A Functorial Query Language,https://www.youtube.com/watch?v=Q0m8baqBrk4,/u/bitemyapp,2
+0,2015-02-15 08:39:51 -0600,"/t/unix,/t/web",websocketd: WebSockets the UNIX way,http://websocketd.com/,/u/pushcx,9
+0,2015-02-15 12:06:01 -0600,/t/ruby,I am a hybrid developer,http://notmagic.org/2015/02/15/hybrid,/u/craigkerstiens,5
+0,2015-02-15 10:42:04 -0600,/t/distributed,COVR: Composable Output-Valid Resilient Messaging,http://www.hpl.hp.com/techreports/2014/HPL-2014-14.html,/u/SeanTAllen,4
+0,2015-02-15 10:08:15 -0600,"/t/video,/t/programming",Dan Ingalls: Object-Oriented Programming (1989),https://archive.org/details/DanIngal1989,/u/pushcx,2
+0,2015-02-14 19:39:55 -0600,"/t/haskell,/t/web",From Zero to HIPster (Haskell In Production),http://34cross.in/zero-to-haskell-in-production,/u/pushcx,9
+1,2015-02-14 09:37:16 -0600,"/t/distributed,/t/programming",modules + network = microservices,http://programmingisterrible.com/post/110292532528/modules-network-microservices,/u/apg,14
+0,2015-02-14 20:31:18 -0600,"/t/distributed,/t/practices,/t/programming",Providence: Failure Is Always an Option,http://jasonpunyon.com/blog/2015/02/12/providence-failure-is-always-an-option/,/u/pushcx,3
+1,2015-02-14 11:53:55 -0600,/t/distributed,Worst-Case Distributed Systems Design,http://www.bailis.org/blog/worst-case-distributed-systems-design/,/u/apg,5
+1,2015-02-14 09:47:18 -0600,"/t/programming,/t/ruby",Why Methods Are Sometimes Better than Constants,http://www.enotagain.com/essays/why-methods-are-sometimes-better-than-constants.html,/u/gregnavis,6
+1,2015-02-14 13:38:14 -0600,"/t/law,/t/linux,/t/practices",Despicable SPI,http://aruiz.synaptia.net/siliconisland/2015/02/despicable-spi.html,/u/journeysquid,2
+0,2015-02-14 03:59:46 -0600,"/t/linux,/t/security,/t/virtualization",Qubes OS: Security by Compartmentailzation,https://qubes-os.org/,/u/zem,6

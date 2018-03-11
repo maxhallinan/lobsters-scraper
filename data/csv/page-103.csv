@@ -1,25 +1,25 @@
-2,2017-12-07 04:49:16 -0600,"['/t/video', '/t/compsci', '/t/education']",How to Design an Effective Lesson,https://vimeo.com/245351211,/u/quobit,3
-0,2017-12-07 11:57:05 -0600,"['/t/video', '/t/ai']",PyTorch: Fast Differentiable Dynamic Graphs in Python,https://www.youtube.com/watch?v=DBVLcgq2Eg0,/u/unbalancedparentheses,1
-0,2017-12-07 12:57:26 -0600,['/t/javascript'],A Solution To The React className Controversy,https://burkeknowswords.com/a-solution-to-the-react-classname-controversy-5f8504c4d244,/u/burkeholland,0
-1,2017-12-06 13:18:55 -0600,['/t/visualization'],Dave Green's `cubehelix' colour scheme,https://www.mrao.cam.ac.uk/~dag/CUBEHELIX/,/u/calvin,17
-2,2017-12-06 18:50:47 -0600,"['/t/hardware', '/t/historical']",The Atari ST (part 1),http://www.dadhacker.com/blog/?p=995,/u/calvin,7
-0,2017-12-06 21:24:05 -0600,"['/t/ai', '/t/plt']",On Machine Learning and Programming Languages,https://julialang.org/blog/2017/12/ml&pl,/u/calvin,6
-0,2017-12-07 10:28:16 -0600,['/t/web'],Incredible events at Browserling,http://www.catonmat.net/blog/incredible-events-at-browserling/,/u/pkrumins,0
-6,2017-12-06 12:05:22 -0600,"['/t/audio', '/t/pdf', '/t/haskell', '/t/netbsd', '/t/programming']",Metasepi Report: Writing NetBSD Sound Drivers in Haskell (2014),http://metasepi.org/doc/metasepi-icfp2014.pdf,/u/nickpsecurity,11
-0,2017-12-06 16:36:41 -0600,"['/t/hardware', '/t/historical']",What Have We Learned from the PDP-11?,https://dave.cheney.net/2017/12/04/what-have-we-learned-from-the-pdp-11,/u/friendlysock,9
-1,2017-12-06 19:56:08 -0600,['/t/go'],Error handling in Upspin,https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html,/u/sevan,5
-2,2017-12-06 13:20:45 -0600,['/t/hardware'],Researchers develop 3-D printed modifiable radio backscatter tags,http://www.washington.edu/news/2017/12/05/in-first-3-d-printed-objects-connect-to-wifi-without-electronics/,/u/Yogthos,7
-4,2017-12-06 03:23:12 -0600,"['/t/c', '/t/linux', '/t/openbsd', '/t/unix']",The anatomy of tee program on OpenBSD,http://nanxiao.me/en/the-anatomy-of-tee-program-on-openbsd/,/u/nanxiao,16
-1,2017-12-06 18:02:19 -0600,['/t/hardware'],Printed Wi-Fi: 3D Printing Wireless Sensors Without Electronics,http://printedwifi.cs.washington.edu/,/u/jackivan88,5
-0,2017-12-07 06:51:36 -0600,['/t/devops'],Pivotal Cloud Foundry vs Kubernetes: Choosing The Right Cloud-Native Application Deployment Platform,https://blog.takipi.com/pivotal-cloud-foundry-vs-kubernetes-choosing-the-right-cloud-native-application-deployment-platform/,/u/talisoroker,0
-3,2017-12-06 16:55:28 -0600,"['/t/databases', '/t/debugging', '/t/scaling']",GoCardless Incident review: API and Dashboard outage on 10 October 2017,https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/,/u/jamesog,3
-5,2017-12-06 06:16:18 -0600,['/t/scaling'],The Entity Service Antipattern,http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern,/u/calvin,10
-8,2017-12-06 06:32:04 -0600,"['/t/compsci', '/t/ml']",Bloom Filter Sort (bfsort),http://blog.stermon.com/articles/2017/12/06/bloom-filter-sort-bfsort,/u/calvin,9
-0,2017-12-07 03:49:45 -0600,['/t/c'],COMS10008 Imperative Programming,https://csijh.gitlab.io/COMS10008/,/u/awn,1
-0,2017-12-06 13:09:16 -0600,['/t/programming'],How Advent of Code made me love competitive programming again,https://karthikbalakrishnan.com/blog/how-advent-of-code-made-me-love-competitive-programming-again,/u/tokenrove,8
-3,2017-12-06 06:30:51 -0600,"['/t/book', '/t/haskell']","Book review: ""Programming in Haskell"" by Graham Hutton (2nd ed.)",https://eli.thegreenplace.net/2017/book-review-programming-in-haskell-by-graham-hutton-2nd-ed/,/u/calvin,12
-0,2017-12-06 08:13:21 -0600,"['/t/browsers', '/t/crypto', '/t/security']",Make SSL boring again,http://blog.cloudflare.com/make-ssl-boring-again/,/u/mpdehnel,13
-0,2017-12-06 10:57:40 -0600,"['/t/pdf', '/t/debugging', '/t/practices']",Where Do Most Software Flaws Come From?,http://users.ece.utexas.edu/~perry/work/papers/1010-DP-ms25.pdf,/u/hwayne,8
-18,2017-12-05 10:36:58 -0600,['/t/ruby'],Where do Rubyists go? (Survey about programming languages Ruby programmers are interested in),https://goo.gl/forms/fGzgRPTymQMzu3eu1,/u/PragTob,27
-0,2017-12-06 14:42:12 -0600,['/t/culture'],Draft Emoji Candidates 2018 (includes a lobster),http://www.unicode.org/emoji/future/emoji-candidates.html,/u/freddyb,7
-2,2017-12-06 02:15:24 -0600,"['/t/pdf', '/t/ai']","alphazero, deep mind AI, crush chess and shogi",https://arxiv.org/pdf/1712.01815.pdf,/u/xcombelle,12
+2,2017-12-07 04:49:16 -0600,"/t/video,/t/compsci,/t/education",How to Design an Effective Lesson,https://vimeo.com/245351211,/u/quobit,3
+0,2017-12-07 11:57:05 -0600,"/t/video,/t/ai",PyTorch: Fast Differentiable Dynamic Graphs in Python,https://www.youtube.com/watch?v=DBVLcgq2Eg0,/u/unbalancedparentheses,1
+0,2017-12-07 12:57:26 -0600,/t/javascript,A Solution To The React className Controversy,https://burkeknowswords.com/a-solution-to-the-react-classname-controversy-5f8504c4d244,/u/burkeholland,0
+1,2017-12-06 13:18:55 -0600,/t/visualization,Dave Green's `cubehelix' colour scheme,https://www.mrao.cam.ac.uk/~dag/CUBEHELIX/,/u/calvin,17
+2,2017-12-06 18:50:47 -0600,"/t/hardware,/t/historical",The Atari ST (part 1),http://www.dadhacker.com/blog/?p=995,/u/calvin,7
+0,2017-12-06 21:24:05 -0600,"/t/ai,/t/plt",On Machine Learning and Programming Languages,https://julialang.org/blog/2017/12/ml&pl,/u/calvin,6
+0,2017-12-07 10:28:16 -0600,/t/web,Incredible events at Browserling,http://www.catonmat.net/blog/incredible-events-at-browserling/,/u/pkrumins,0
+6,2017-12-06 12:05:22 -0600,"/t/audio,/t/pdf,/t/haskell,/t/netbsd,/t/programming",Metasepi Report: Writing NetBSD Sound Drivers in Haskell (2014),http://metasepi.org/doc/metasepi-icfp2014.pdf,/u/nickpsecurity,11
+0,2017-12-06 16:36:41 -0600,"/t/hardware,/t/historical",What Have We Learned from the PDP-11?,https://dave.cheney.net/2017/12/04/what-have-we-learned-from-the-pdp-11,/u/friendlysock,9
+1,2017-12-06 19:56:08 -0600,/t/go,Error handling in Upspin,https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html,/u/sevan,5
+2,2017-12-06 13:20:45 -0600,/t/hardware,Researchers develop 3-D printed modifiable radio backscatter tags,http://www.washington.edu/news/2017/12/05/in-first-3-d-printed-objects-connect-to-wifi-without-electronics/,/u/Yogthos,7
+4,2017-12-06 03:23:12 -0600,"/t/c,/t/linux,/t/openbsd,/t/unix",The anatomy of tee program on OpenBSD,http://nanxiao.me/en/the-anatomy-of-tee-program-on-openbsd/,/u/nanxiao,16
+1,2017-12-06 18:02:19 -0600,/t/hardware,Printed Wi-Fi: 3D Printing Wireless Sensors Without Electronics,http://printedwifi.cs.washington.edu/,/u/jackivan88,5
+0,2017-12-07 06:51:36 -0600,/t/devops,Pivotal Cloud Foundry vs Kubernetes: Choosing The Right Cloud-Native Application Deployment Platform,https://blog.takipi.com/pivotal-cloud-foundry-vs-kubernetes-choosing-the-right-cloud-native-application-deployment-platform/,/u/talisoroker,0
+3,2017-12-06 16:55:28 -0600,"/t/databases,/t/debugging,/t/scaling",GoCardless Incident review: API and Dashboard outage on 10 October 2017,https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/,/u/jamesog,3
+5,2017-12-06 06:16:18 -0600,/t/scaling,The Entity Service Antipattern,http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern,/u/calvin,10
+8,2017-12-06 06:32:04 -0600,"/t/compsci,/t/ml",Bloom Filter Sort (bfsort),http://blog.stermon.com/articles/2017/12/06/bloom-filter-sort-bfsort,/u/calvin,9
+0,2017-12-07 03:49:45 -0600,/t/c,COMS10008 Imperative Programming,https://csijh.gitlab.io/COMS10008/,/u/awn,1
+0,2017-12-06 13:09:16 -0600,/t/programming,How Advent of Code made me love competitive programming again,https://karthikbalakrishnan.com/blog/how-advent-of-code-made-me-love-competitive-programming-again,/u/tokenrove,8
+3,2017-12-06 06:30:51 -0600,"/t/book,/t/haskell","Book review: ""Programming in Haskell"" by Graham Hutton (2nd ed.)",https://eli.thegreenplace.net/2017/book-review-programming-in-haskell-by-graham-hutton-2nd-ed/,/u/calvin,12
+0,2017-12-06 08:13:21 -0600,"/t/browsers,/t/crypto,/t/security",Make SSL boring again,http://blog.cloudflare.com/make-ssl-boring-again/,/u/mpdehnel,13
+0,2017-12-06 10:57:40 -0600,"/t/pdf,/t/debugging,/t/practices",Where Do Most Software Flaws Come From?,http://users.ece.utexas.edu/~perry/work/papers/1010-DP-ms25.pdf,/u/hwayne,8
+18,2017-12-05 10:36:58 -0600,/t/ruby,Where do Rubyists go? (Survey about programming languages Ruby programmers are interested in),https://goo.gl/forms/fGzgRPTymQMzu3eu1,/u/PragTob,27
+0,2017-12-06 14:42:12 -0600,/t/culture,Draft Emoji Candidates 2018 (includes a lobster),http://www.unicode.org/emoji/future/emoji-candidates.html,/u/freddyb,7
+2,2017-12-06 02:15:24 -0600,"/t/pdf,/t/ai","alphazero, deep mind AI, crush chess and shogi",https://arxiv.org/pdf/1712.01815.pdf,/u/xcombelle,12

@@ -1,25 +1,25 @@
-1,2013-09-19 09:52:48 -0500,['/t/programming'],Design requirements of nonblocking systems,http://queue.acm.org/detail.cfm?id=2513575,/u/SeanTAllen,5
-0,2013-09-19 10:12:59 -0500,['/t/linux'],OSv: A New Cloud Operating System For VMs,http://www.osv.io/,/u/journeysquid,3
-0,2013-09-19 13:49:55 -0500,"['/t/c', '/t/javascript']",Higgs FFI: Calling C From JS,http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/,/u/qbit,1
-0,2013-09-19 01:45:05 -0500,['/t/security'],The Many Flaws of Dual_EC_DRBG,http://blog.cryptographyengineering.com/2013/09/the-many-flaws-of-dualecdrbg.html,/u/lynge,5
-0,2013-09-19 10:34:25 -0500,"['/t/practices', '/t/virtualization']",The Dark Side of the Cloud: IBM Partner Gives Folks Two Weeks to Move Data,http://www.wired.com/wiredenterprise/2013/09/nirvanix/,/u/journeysquid,1
-0,2013-09-19 02:44:25 -0500,"['/t/browsers', '/t/ios', '/t/mobile']","Safari on iOS 7 and HTML5: problems, changes and new APIs",http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review,/u/jcs,3
-0,2013-09-18 21:03:49 -0500,"['/t/compsci', '/t/programming']","Stack-based, Concatenative Clojure",http://gershwinlang.org/,/u/carinmeier,3
-0,2013-09-18 22:03:02 -0500,['/t/javascript'],Deploying Node apps to AWS using Grunt,http://blog.ponyfoo.com/2013/09/19/deploying-node-apps-to-aws-using-grunt,/u/bevacqua,1
-1,2013-09-18 12:01:47 -0500,['/t/android'],CyanogenMod: A New Chapter,http://www.cyanogenmod.org/blog/a_new_chapter,/u/journeysquid,2
-0,2013-09-18 11:06:47 -0500,['/t/design'],Cubehero releases community features,http://blog.cubehero.com/2013/09/18/agoras-for-everybody-now-you-can-connect-over-what-youve-shared/,/u/iamwil,1
-0,2013-09-17 21:38:36 -0500,"['/t/freebsd', '/t/linux', '/t/mac']",Announcing OpenZFS,http://www.open-zfs.org/wiki/Announcement,/u/journeysquid,2
-0,2013-09-17 18:40:54 -0500,"['/t/browsers', '/t/security']","TripleSec - Symmetric Encryption in the Browser combining AES, Salsa20, and Twofish",https://keybase.io/triplesec/,/u/bobbywilson0,3
-1,2013-09-17 08:05:57 -0500,"['/t/c', '/t/hardware']",From Arduino to AVR Microcontrollers for Hobbyist Projects,http://spin.atomicobject.com/2013/09/17/arduino-avr-microcontrollers/,/u/silentbicycle,6
-0,2013-09-17 13:49:45 -0500,"['/t/hardware', '/t/vcs']",GitHub announces Diffing for 3D Files,https://github.com/blog/1633-3d-file-diffs,/u/skalnik,3
-0,2013-09-16 23:33:32 -0500,"['/t/compilers', '/t/compsci']",Are Compilers Getting More or Less Reliable?,http://blog.regehr.org/archives/1036,/u/jcs,7
-0,2013-09-17 11:08:46 -0500,['/t/finance'],The secret financial market only robots can see,http://qz.com/124721/the-secret-financial-market-only-robots-can-see/,/u/journeysquid,1
-1,2013-09-17 00:07:23 -0500,"['/t/hardware', '/t/security']",Hosting backdoors in hardware,https://blogs.oracle.com/ksplice/entry/hosting_backdoors_in_hardware,/u/kyle,4
-0,2013-09-16 18:11:16 -0500,"['/t/c', '/t/programming', '/t/unix']",Gettings Started with nanomsg (examples in C),http://tim.dysinger.net/posts/2013-09-16-getting-started-with-nanomsg.html,/u/dysinger,2
-0,2013-09-16 11:41:34 -0500,"['/t/privacy', '/t/security']",Factoring RSA keys from certified smart cards: Coppersmith in the wild,http://smartfacts.cr.yp.to/,/u/kyle,4
-0,2013-09-16 08:26:25 -0500,"['/t/javascript', '/t/programming']",Source maps in ClojureScript,http://swannodette.github.io/2013/09/15/source-maps/,/u/carinmeier,3
-0,2013-09-16 08:27:16 -0500,"['/t/compsci', '/t/programming']",Machine Learning Course,http://ciml.info/,/u/carinmeier,2
-0,2013-09-16 11:03:07 -0500,['/t/scala'],New tool for linting Scala,http://brianmckenna.org/blog/wartremover_point_four,/u/puffnfresh,1
-2,2013-09-15 20:26:56 -0500,['/t/programming'],"Hermit: a font for programmers, by a programmer",http://pcaro.es/p/hermit/,/u/bobbywilson0,5
-0,2013-09-16 07:10:14 -0500,['/t/javascript'],A Taste of FruitJS,http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/,/u/remotesynth,0
-0,2013-09-15 11:44:32 -0500,['/t/freebsd'],FreeBSD 10.0-ALPHA1 now available,http://lists.freebsd.org/pipermail/freebsd-current/2013-September/044522.html,/u/journeysquid,4
+1,2013-09-19 09:52:48 -0500,/t/programming,Design requirements of nonblocking systems,http://queue.acm.org/detail.cfm?id=2513575,/u/SeanTAllen,5
+0,2013-09-19 10:12:59 -0500,/t/linux,OSv: A New Cloud Operating System For VMs,http://www.osv.io/,/u/journeysquid,3
+0,2013-09-19 13:49:55 -0500,"/t/c,/t/javascript",Higgs FFI: Calling C From JS,http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/,/u/qbit,1
+0,2013-09-19 01:45:05 -0500,/t/security,The Many Flaws of Dual_EC_DRBG,http://blog.cryptographyengineering.com/2013/09/the-many-flaws-of-dualecdrbg.html,/u/lynge,5
+0,2013-09-19 10:34:25 -0500,"/t/practices,/t/virtualization",The Dark Side of the Cloud: IBM Partner Gives Folks Two Weeks to Move Data,http://www.wired.com/wiredenterprise/2013/09/nirvanix/,/u/journeysquid,1
+0,2013-09-19 02:44:25 -0500,"/t/browsers,/t/ios,/t/mobile","Safari on iOS 7 and HTML5: problems, changes and new APIs",http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review,/u/jcs,3
+0,2013-09-18 21:03:49 -0500,"/t/compsci,/t/programming","Stack-based, Concatenative Clojure",http://gershwinlang.org/,/u/carinmeier,3
+0,2013-09-18 22:03:02 -0500,/t/javascript,Deploying Node apps to AWS using Grunt,http://blog.ponyfoo.com/2013/09/19/deploying-node-apps-to-aws-using-grunt,/u/bevacqua,1
+1,2013-09-18 12:01:47 -0500,/t/android,CyanogenMod: A New Chapter,http://www.cyanogenmod.org/blog/a_new_chapter,/u/journeysquid,2
+0,2013-09-18 11:06:47 -0500,/t/design,Cubehero releases community features,http://blog.cubehero.com/2013/09/18/agoras-for-everybody-now-you-can-connect-over-what-youve-shared/,/u/iamwil,1
+0,2013-09-17 21:38:36 -0500,"/t/freebsd,/t/linux,/t/mac",Announcing OpenZFS,http://www.open-zfs.org/wiki/Announcement,/u/journeysquid,2
+0,2013-09-17 18:40:54 -0500,"/t/browsers,/t/security","TripleSec - Symmetric Encryption in the Browser combining AES, Salsa20, and Twofish",https://keybase.io/triplesec/,/u/bobbywilson0,3
+1,2013-09-17 08:05:57 -0500,"/t/c,/t/hardware",From Arduino to AVR Microcontrollers for Hobbyist Projects,http://spin.atomicobject.com/2013/09/17/arduino-avr-microcontrollers/,/u/silentbicycle,6
+0,2013-09-17 13:49:45 -0500,"/t/hardware,/t/vcs",GitHub announces Diffing for 3D Files,https://github.com/blog/1633-3d-file-diffs,/u/skalnik,3
+0,2013-09-16 23:33:32 -0500,"/t/compilers,/t/compsci",Are Compilers Getting More or Less Reliable?,http://blog.regehr.org/archives/1036,/u/jcs,7
+0,2013-09-17 11:08:46 -0500,/t/finance,The secret financial market only robots can see,http://qz.com/124721/the-secret-financial-market-only-robots-can-see/,/u/journeysquid,1
+1,2013-09-17 00:07:23 -0500,"/t/hardware,/t/security",Hosting backdoors in hardware,https://blogs.oracle.com/ksplice/entry/hosting_backdoors_in_hardware,/u/kyle,4
+0,2013-09-16 18:11:16 -0500,"/t/c,/t/programming,/t/unix",Gettings Started with nanomsg (examples in C),http://tim.dysinger.net/posts/2013-09-16-getting-started-with-nanomsg.html,/u/dysinger,2
+0,2013-09-16 11:41:34 -0500,"/t/privacy,/t/security",Factoring RSA keys from certified smart cards: Coppersmith in the wild,http://smartfacts.cr.yp.to/,/u/kyle,4
+0,2013-09-16 08:26:25 -0500,"/t/javascript,/t/programming",Source maps in ClojureScript,http://swannodette.github.io/2013/09/15/source-maps/,/u/carinmeier,3
+0,2013-09-16 08:27:16 -0500,"/t/compsci,/t/programming",Machine Learning Course,http://ciml.info/,/u/carinmeier,2
+0,2013-09-16 11:03:07 -0500,/t/scala,New tool for linting Scala,http://brianmckenna.org/blog/wartremover_point_four,/u/puffnfresh,1
+2,2013-09-15 20:26:56 -0500,/t/programming,"Hermit: a font for programmers, by a programmer",http://pcaro.es/p/hermit/,/u/bobbywilson0,5
+0,2013-09-16 07:10:14 -0500,/t/javascript,A Taste of FruitJS,http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/,/u/remotesynth,0
+0,2013-09-15 11:44:32 -0500,/t/freebsd,FreeBSD 10.0-ALPHA1 now available,http://lists.freebsd.org/pipermail/freebsd-current/2013-September/044522.html,/u/journeysquid,4

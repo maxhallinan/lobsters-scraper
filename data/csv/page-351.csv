@@ -1,25 +1,25 @@
-1,2017-05-27 21:37:48 -0500,"['/t/slides', '/t/math']",How Bayesian inference works,https://brohrer.github.io/how_bayesian_inference_works.html,/u/calvin,6
-0,2017-05-27 23:38:55 -0500,"['/t/android', '/t/ios']",Exploring Flutter for Cross-platform Mobile Development,https://sethlopez.me/article/exploring-flutter-for-cross-platform-mobile-development/,/u/zem,5
-0,2017-05-27 12:36:16 -0500,['/t/go'],LLVM IR generation for LLVM-based go compiler,https://go.googlesource.com/gollvm/,/u/irfansharif,14
-0,2017-05-27 19:17:45 -0500,['/t/culture'],weekly OSM,http://www.weeklyosm.eu/,/u/pizzaiolo,6
-4,2017-05-26 21:32:44 -0500,['/t/javascript'],Something obvious (in retrospect) about ES6 promises,https://boinkor.net/2017/05/something-obvious-in-retrospect-about-es6-promises/,/u/antifuchs,12
-0,2017-05-27 12:29:27 -0500,['/t/graphics'],"Quadrilateral Interpolation, Part 2",http://reedbeta.com/blog/quadrilateral-interpolation-part-2/,/u/mikejsavage,5
-17,2017-05-26 12:07:43 -0500,['/t/programming'],"Writing a Really, Really Fast JSON Parser",https://chadaustin.me/2017/05/writing-a-really-really-fast-json-parser/,/u/mikejsavage,34
-6,2017-05-26 14:45:03 -0500,"['/t/distributed', '/t/elixir']",When is the Actor Model a bad fit?,/s/imaea2/when_is_actor_model_bad_fit,/u/yumaikas,14
-0,2017-05-27 02:08:25 -0500,['/t/web'],_bem – Wordpress theme with BEM methodology,https://silvestarbistrovic.from.hr/en/articles/bem-wordpress-theme/,/u/starbist,6
-0,2017-05-27 05:37:08 -0500,"['/t/cogsci', '/t/games']",Artificial intelligence in real-time strategy games,http://hevi.info/tag/artificial-intelligence-in-real-time-strategy-games/,/u/calvin,7
-10,2017-05-26 12:15:17 -0500,"['/t/meta', '/t/performance']",Tag suggestion: performance/optimisation,/s/kmhpwk/tag_suggestion_performance,/u/mikejsavage,24
-4,2017-05-26 16:57:48 -0500,['/t/mobile'],postmarketOS: Aiming for a 10 year life-cycle for smartphones,https://ollieparanoid.github.io/post/postmarketOS/,/u/pushcx,19
-44,2017-05-26 07:23:06 -0500,['/t/browsers'],Chrome won,https://andreasgal.com/2017/05/25/chrome-won/,/u/calvin,32
-0,2017-05-27 08:21:47 -0500,['/t/cogsci'],Living Together: Mind and Machine Intelligence,https://arxiv.org/abs/1705.07996,/u/mjn,3
-8,2017-05-26 10:35:24 -0500,"['/t/linux', '/t/release']",Devuan 1.0.0 released,https://devuan.org/os/debian-fork/stable-jessie-announce-052517,/u/friendlysock,21
-1,2017-05-27 05:23:45 -0500,"['/t/practices', '/t/rant']",How to Report a Bug to Microsoft,http://www.schveiguy.com/blog/2017/05/how-to-report-a-bug-to-microsoft/,/u/calvin,8
-1,2017-05-26 22:50:51 -0500,['/t/hardware'],Magic-1 Homebrew CPU,http://homebrewcpu.com/,/u/pushcx,8
-6,2017-05-26 09:01:17 -0500,"['/t/programming', '/t/ruby', '/t/security']",The latest dependency version is probably the most secure,https://dependabot.com/blog/the-latest-dependency-version-is-probably-the-most-secure,/u/hmarr,10
-0,2017-05-26 16:12:19 -0500,['/t/networking'],"Network protocols, for anyone who knows a programming language",https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147,/u/kb,17
-0,2017-05-26 20:16:33 -0500,['/t/historical'],"PC DOS 1.0, But Not Quite",http://www.os2museum.com/wp/pc-dos-1-0-but-not-quite/,/u/calvin,10
-2,2017-05-26 20:17:44 -0500,['/t/go'],Go and a not tiny amount of memory,https://hackernoon.com/go-and-a-not-tiny-amount-of-memory-a7a9430d4d22,/u/pushcx,7
-0,2017-05-26 21:38:32 -0500,"['/t/compilers', '/t/dotnet']",Lowering in the C# Compiler (and what happens when you misuse it),http://www.mattwarren.org/2017/05/25/Lowering-in-the-C-Compiler/,/u/calvin,7
-6,2017-05-27 11:24:17 -0500,['/t/crypto'],"Tipos de criptografía: simétrica, asimétrica e hibrida",https://www.genbetadev.com/seguridad-informatica/tipos-de-criptografia-simetrica-asimetrica-e-hibrida,/u/luiscerro,0
-2,2017-05-26 09:29:07 -0500,['/t/javascript'],TypeScript 2.2: Mixin Classes,https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes,/u/mariusschulz,10
-1,2017-05-26 15:58:56 -0500,"['/t/math', '/t/release', '/t/science']",What's new in gnuplot 5.2,https://lwn.net/SubscriberLink/723818/76976cc1c1229d70/,/u/loch,9
+1,2017-05-27 21:37:48 -0500,"/t/slides,/t/math",How Bayesian inference works,https://brohrer.github.io/how_bayesian_inference_works.html,/u/calvin,6
+0,2017-05-27 23:38:55 -0500,"/t/android,/t/ios",Exploring Flutter for Cross-platform Mobile Development,https://sethlopez.me/article/exploring-flutter-for-cross-platform-mobile-development/,/u/zem,5
+0,2017-05-27 12:36:16 -0500,/t/go,LLVM IR generation for LLVM-based go compiler,https://go.googlesource.com/gollvm/,/u/irfansharif,14
+0,2017-05-27 19:17:45 -0500,/t/culture,weekly OSM,http://www.weeklyosm.eu/,/u/pizzaiolo,6
+4,2017-05-26 21:32:44 -0500,/t/javascript,Something obvious (in retrospect) about ES6 promises,https://boinkor.net/2017/05/something-obvious-in-retrospect-about-es6-promises/,/u/antifuchs,12
+0,2017-05-27 12:29:27 -0500,/t/graphics,"Quadrilateral Interpolation, Part 2",http://reedbeta.com/blog/quadrilateral-interpolation-part-2/,/u/mikejsavage,5
+17,2017-05-26 12:07:43 -0500,/t/programming,"Writing a Really, Really Fast JSON Parser",https://chadaustin.me/2017/05/writing-a-really-really-fast-json-parser/,/u/mikejsavage,34
+6,2017-05-26 14:45:03 -0500,"/t/distributed,/t/elixir",When is the Actor Model a bad fit?,/s/imaea2/when_is_actor_model_bad_fit,/u/yumaikas,14
+0,2017-05-27 02:08:25 -0500,/t/web,_bem – Wordpress theme with BEM methodology,https://silvestarbistrovic.from.hr/en/articles/bem-wordpress-theme/,/u/starbist,6
+0,2017-05-27 05:37:08 -0500,"/t/cogsci,/t/games",Artificial intelligence in real-time strategy games,http://hevi.info/tag/artificial-intelligence-in-real-time-strategy-games/,/u/calvin,7
+10,2017-05-26 12:15:17 -0500,"/t/meta,/t/performance",Tag suggestion: performance/optimisation,/s/kmhpwk/tag_suggestion_performance,/u/mikejsavage,24
+4,2017-05-26 16:57:48 -0500,/t/mobile,postmarketOS: Aiming for a 10 year life-cycle for smartphones,https://ollieparanoid.github.io/post/postmarketOS/,/u/pushcx,19
+44,2017-05-26 07:23:06 -0500,/t/browsers,Chrome won,https://andreasgal.com/2017/05/25/chrome-won/,/u/calvin,32
+0,2017-05-27 08:21:47 -0500,/t/cogsci,Living Together: Mind and Machine Intelligence,https://arxiv.org/abs/1705.07996,/u/mjn,3
+8,2017-05-26 10:35:24 -0500,"/t/linux,/t/release",Devuan 1.0.0 released,https://devuan.org/os/debian-fork/stable-jessie-announce-052517,/u/friendlysock,21
+1,2017-05-27 05:23:45 -0500,"/t/practices,/t/rant",How to Report a Bug to Microsoft,http://www.schveiguy.com/blog/2017/05/how-to-report-a-bug-to-microsoft/,/u/calvin,8
+1,2017-05-26 22:50:51 -0500,/t/hardware,Magic-1 Homebrew CPU,http://homebrewcpu.com/,/u/pushcx,8
+6,2017-05-26 09:01:17 -0500,"/t/programming,/t/ruby,/t/security",The latest dependency version is probably the most secure,https://dependabot.com/blog/the-latest-dependency-version-is-probably-the-most-secure,/u/hmarr,10
+0,2017-05-26 16:12:19 -0500,/t/networking,"Network protocols, for anyone who knows a programming language",https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147,/u/kb,17
+0,2017-05-26 20:16:33 -0500,/t/historical,"PC DOS 1.0, But Not Quite",http://www.os2museum.com/wp/pc-dos-1-0-but-not-quite/,/u/calvin,10
+2,2017-05-26 20:17:44 -0500,/t/go,Go and a not tiny amount of memory,https://hackernoon.com/go-and-a-not-tiny-amount-of-memory-a7a9430d4d22,/u/pushcx,7
+0,2017-05-26 21:38:32 -0500,"/t/compilers,/t/dotnet",Lowering in the C# Compiler (and what happens when you misuse it),http://www.mattwarren.org/2017/05/25/Lowering-in-the-C-Compiler/,/u/calvin,7
+6,2017-05-27 11:24:17 -0500,/t/crypto,"Tipos de criptografía: simétrica, asimétrica e hibrida",https://www.genbetadev.com/seguridad-informatica/tipos-de-criptografia-simetrica-asimetrica-e-hibrida,/u/luiscerro,0
+2,2017-05-26 09:29:07 -0500,/t/javascript,TypeScript 2.2: Mixin Classes,https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes,/u/mariusschulz,10
+1,2017-05-26 15:58:56 -0500,"/t/math,/t/release,/t/science",What's new in gnuplot 5.2,https://lwn.net/SubscriberLink/723818/76976cc1c1229d70/,/u/loch,9

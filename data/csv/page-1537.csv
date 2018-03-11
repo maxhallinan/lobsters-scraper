@@ -1,25 +1,25 @@
-3,2012-09-18 11:37:03 -0500,"['/t/release', '/t/unix']",keepassc - curses-based password manager,https://github.com/raymontag/keepassc,/u/b,6
-0,2012-09-18 20:20:44 -0500,"['/t/databases', '/t/devops']",The Math of Automated Failover,http://www.mysqlperformanceblog.com/2012/09/18/the-math-of-automated-failover/,/u/tobym,4
-1,2012-09-18 13:30:07 -0500,"['/t/law', '/t/news']",Rackspace sued for hosting GitHub,http://lwn.net/Articles/516736/,/u/pkhamre,7
-0,2012-09-18 17:07:37 -0500,"['/t/devops', '/t/ruby']",Application Server Showdown : Passenger vs. Unicorn,http://www.engineyard.com/blog/2012/passenger-vs-unicorn/,/u/fcambus,4
-0,2012-09-18 13:22:54 -0500,"['/t/devops', '/t/scaling']",Evolution of SoundCloud's Architecture,http://backstage.soundcloud.com/2012/08/evolution-of-soundclouds-architecture/,/u/tp,6
-0,2012-09-18 13:38:09 -0500,"['/t/api', '/t/javascript']",Introducing Gith - GitHub WebHooks For Node,http://weblog.bocoup.com/introducing-gith-github-webhooks-for-node,/u/vladikoff,4
-1,2012-09-18 07:16:27 -0500,"['/t/compilers', '/t/compsci', '/t/haskell', '/t/scaling']",The Architecture of Open Source Applications (Volume 2): The Glasgow Haskell Compiler,http://www.aosabook.org/en/ghc.html,/u/kyle,7
-4,2012-09-18 01:57:02 -0500,['/t/person'],Manage email overload with 3 good habits,http://blog.grexit.com/manage-email-overload-with-three-good-habits/,/u/anurag,8
-1,2012-09-18 14:26:46 -0500,"['/t/design', '/t/web']",Divshot: Interface Builder for Web Apps,http://divshot.com/,/u/daniel_kehoe,2
-0,2012-09-18 18:18:21 -0500,['/t/event'],Winners of the Common Crawl Code Contest,http://commoncrawl.org/announcing-the-winners-of-the-code-contest/,/u/dave,1
-0,2012-09-18 07:17:28 -0500,"['/t/assembly', '/t/reversing']",Detecting valgrind,http://repzret.org/p/detecting-valgrind/,/u/kyle,5
-10,2012-09-17 21:26:21 -0500,['/t/openbsd'],Encryped Root Filesystem using softraid(4) on OpenBSD with an SLC SSD,http://brycv.com/blog/2012/encrypted-root-filesystem-using-softraid-4-on-openbsd-with-an-slc-ssd/,/u/brycv,7
-0,2012-09-18 09:01:42 -0500,"['/t/design', '/t/web']",7 HTML5 features that you may not know about,http://www.aaronlumsden.com/articles/7-html5-features-that-you-may-not-know-about/,/u/jcs,3
-0,2012-09-18 11:38:50 -0500,['/t/ruby'],Refactoring: Replace Conditional with Polymorphism,http://robots.thoughtbot.com/post/31728620503/refactoring-replace-conditional-with-polymorphism,/u/tp,2
-4,2012-09-17 18:55:01 -0500,"['/t/video', '/t/release']",A Tour of Acme,http://research.swtch.com/acme,/u/jcs,9
-7,2012-09-18 08:36:32 -0500,['/t/meta'],Visited Color Links,/s/0d78b8/visited_color_links,/u/anil,5
-0,2012-09-18 09:35:25 -0500,['/t/ruby'],How Ruby Borrowed a Decades Old Idea From Lisp,http://patshaughnessy.net/2012/9/18/how-ruby-borrowed-a-decades-old-idea-from-lisp,/u/andrew,2
-1,2012-09-17 20:50:38 -0500,['/t/go'],Comparing Java and Go Part 2: workloads performance,http://boundary.com/blog/2012/09/17/comparing-go-and-java-part-2-performance/,/u/mf,7
-0,2012-09-18 07:14:52 -0500,['/t/ruby'],krypt/FuzzBert - A random testing/fuzzer framework for Ruby,https://github.com/krypt/FuzzBert,/u/philcrissman,2
-3,2012-09-17 12:20:37 -0500,"['/t/release', '/t/web']",Contributing Guidelines on GitHub Pull Requests,https://github.com/blog/1184-contributing-guidelines,/u/skalnik,12
-0,2012-09-17 20:49:48 -0500,"['/t/networking', '/t/security']","How to Launch a 65Gbps DDoS, and How to Stop One",http://blog.cloudflare.com/65gbps-ddos-no-problem,/u/jcs,7
-1,2012-09-17 15:13:21 -0500,['/t/news'],Introducing the Command Bar - github,https://github.com/blog/1264-introducing-the-command-bar,/u/davidpett,9
-0,2012-09-18 03:09:49 -0500,"['/t/show', '/t/hardware']",Optical mouse and Arduino at home,http://anurag-maher.blogspot.in/2012/09/optical-mouse-and-arduino-at-home.html,/u/anurag,2
-3,2012-09-17 14:44:10 -0500,"['/t/compsci', '/t/javascript']","Actually, YOU don't understand Lexical Scope!",https://github.com/raganwald/homoiconic/blob/master/2012/09/actually-YOU-dont-understand-lexical-scope.md#actually-you-dont-understand-lexical-scope,/u/craigkerstiens,6
-0,2012-09-17 21:33:07 -0500,"['/t/math', '/t/security']",PIN number analysis,http://www.datagenetics.com/blog/september32012/index.html,/u/pushcx,3
+3,2012-09-18 11:37:03 -0500,"/t/release,/t/unix",keepassc - curses-based password manager,https://github.com/raymontag/keepassc,/u/b,6
+0,2012-09-18 20:20:44 -0500,"/t/databases,/t/devops",The Math of Automated Failover,http://www.mysqlperformanceblog.com/2012/09/18/the-math-of-automated-failover/,/u/tobym,4
+1,2012-09-18 13:30:07 -0500,"/t/law,/t/news",Rackspace sued for hosting GitHub,http://lwn.net/Articles/516736/,/u/pkhamre,7
+0,2012-09-18 17:07:37 -0500,"/t/devops,/t/ruby",Application Server Showdown : Passenger vs. Unicorn,http://www.engineyard.com/blog/2012/passenger-vs-unicorn/,/u/fcambus,4
+0,2012-09-18 13:22:54 -0500,"/t/devops,/t/scaling",Evolution of SoundCloud's Architecture,http://backstage.soundcloud.com/2012/08/evolution-of-soundclouds-architecture/,/u/tp,6
+0,2012-09-18 13:38:09 -0500,"/t/api,/t/javascript",Introducing Gith - GitHub WebHooks For Node,http://weblog.bocoup.com/introducing-gith-github-webhooks-for-node,/u/vladikoff,4
+1,2012-09-18 07:16:27 -0500,"/t/compilers,/t/compsci,/t/haskell,/t/scaling",The Architecture of Open Source Applications (Volume 2): The Glasgow Haskell Compiler,http://www.aosabook.org/en/ghc.html,/u/kyle,7
+4,2012-09-18 01:57:02 -0500,/t/person,Manage email overload with 3 good habits,http://blog.grexit.com/manage-email-overload-with-three-good-habits/,/u/anurag,8
+1,2012-09-18 14:26:46 -0500,"/t/design,/t/web",Divshot: Interface Builder for Web Apps,http://divshot.com/,/u/daniel_kehoe,2
+0,2012-09-18 18:18:21 -0500,/t/event,Winners of the Common Crawl Code Contest,http://commoncrawl.org/announcing-the-winners-of-the-code-contest/,/u/dave,1
+0,2012-09-18 07:17:28 -0500,"/t/assembly,/t/reversing",Detecting valgrind,http://repzret.org/p/detecting-valgrind/,/u/kyle,5
+10,2012-09-17 21:26:21 -0500,/t/openbsd,Encryped Root Filesystem using softraid(4) on OpenBSD with an SLC SSD,http://brycv.com/blog/2012/encrypted-root-filesystem-using-softraid-4-on-openbsd-with-an-slc-ssd/,/u/brycv,7
+0,2012-09-18 09:01:42 -0500,"/t/design,/t/web",7 HTML5 features that you may not know about,http://www.aaronlumsden.com/articles/7-html5-features-that-you-may-not-know-about/,/u/jcs,3
+0,2012-09-18 11:38:50 -0500,/t/ruby,Refactoring: Replace Conditional with Polymorphism,http://robots.thoughtbot.com/post/31728620503/refactoring-replace-conditional-with-polymorphism,/u/tp,2
+4,2012-09-17 18:55:01 -0500,"/t/video,/t/release",A Tour of Acme,http://research.swtch.com/acme,/u/jcs,9
+7,2012-09-18 08:36:32 -0500,/t/meta,Visited Color Links,/s/0d78b8/visited_color_links,/u/anil,5
+0,2012-09-18 09:35:25 -0500,/t/ruby,How Ruby Borrowed a Decades Old Idea From Lisp,http://patshaughnessy.net/2012/9/18/how-ruby-borrowed-a-decades-old-idea-from-lisp,/u/andrew,2
+1,2012-09-17 20:50:38 -0500,/t/go,Comparing Java and Go Part 2: workloads performance,http://boundary.com/blog/2012/09/17/comparing-go-and-java-part-2-performance/,/u/mf,7
+0,2012-09-18 07:14:52 -0500,/t/ruby,krypt/FuzzBert - A random testing/fuzzer framework for Ruby,https://github.com/krypt/FuzzBert,/u/philcrissman,2
+3,2012-09-17 12:20:37 -0500,"/t/release,/t/web",Contributing Guidelines on GitHub Pull Requests,https://github.com/blog/1184-contributing-guidelines,/u/skalnik,12
+0,2012-09-17 20:49:48 -0500,"/t/networking,/t/security","How to Launch a 65Gbps DDoS, and How to Stop One",http://blog.cloudflare.com/65gbps-ddos-no-problem,/u/jcs,7
+1,2012-09-17 15:13:21 -0500,/t/news,Introducing the Command Bar - github,https://github.com/blog/1264-introducing-the-command-bar,/u/davidpett,9
+0,2012-09-18 03:09:49 -0500,"/t/show,/t/hardware",Optical mouse and Arduino at home,http://anurag-maher.blogspot.in/2012/09/optical-mouse-and-arduino-at-home.html,/u/anurag,2
+3,2012-09-17 14:44:10 -0500,"/t/compsci,/t/javascript","Actually, YOU don't understand Lexical Scope!",https://github.com/raganwald/homoiconic/blob/master/2012/09/actually-YOU-dont-understand-lexical-scope.md#actually-you-dont-understand-lexical-scope,/u/craigkerstiens,6
+0,2012-09-17 21:33:07 -0500,"/t/math,/t/security",PIN number analysis,http://www.datagenetics.com/blog/september32012/index.html,/u/pushcx,3

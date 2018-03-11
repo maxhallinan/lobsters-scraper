@@ -1,25 +1,25 @@
-2,2016-11-28 06:15:52 -0600,['/t/openbsd'],OpenBSD on PC Engines APU2,https://github.com/elad/openbsd-apu2,/u/mulander,10
-0,2016-11-28 12:52:47 -0600,"['/t/networking', '/t/web']",HPACK: the silent killer (feature) of HTTP/2,http://blog.cloudflare.com/hpack-the-silent-killer-feature-of-http-2/,/u/jcs,7
-1,2016-11-28 05:58:52 -0600,"['/t/programming', '/t/unix']",Thirteen Incorrect Ways and Two Awkward Ways to Use Arrays,http://www.oilshell.org/blog/2016/11/06.html,/u/calvin,12
-6,2016-11-27 18:11:50 -0600,"['/t/book', '/t/c', '/t/programming']",Modern C (book) is now feature complete,https://gustedt.wordpress.com/2016/11/25/modern-c-is-now-feature-complete/,/u/kartik,39
-4,2016-11-28 10:22:00 -0600,"['/t/ask', '/t/hardware', '/t/openbsd']",OpenBsd 6.0 skylake support,/s/5suald/openbsd_6_0_skylake_support,/u/superpat,4
-2,2016-11-28 11:57:43 -0600,['/t/security'],CyberChef – A Cyber Swiss Army Knife,https://gchq.github.io/CyberChef/,/u/av,4
-28,2016-11-27 10:49:19 -0600,['/t/linux'],Why Void Linux? [2015],http://troubleshooters.com/linux/void/whyvoid.htm,/u/unbalancedparentheses,51
-0,2016-11-29 00:12:55 -0600,"['/t/debugging', '/t/javascript']",Adventures in the land of substrings and RegExps,http://mrale.ph/blog/2016/11/23/making-less-dart-faster.html,/u/sanxiyn,1
-0,2016-11-29 01:23:00 -0600,['/t/culture'],On the cruelty of really teaching computing science (1988),https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html,/u/puffnfresh,2
-0,2016-11-28 23:38:41 -0600,"['/t/cogsci', '/t/games']",H.M.S. Dolores (Game Review by Chris Wray),https://opinionatedgamers.com/2016/10/26/h-m-s-dolores-game-review-by-chris-wray/,/u/pushcx,1
-0,2016-11-28 19:28:00 -0600,"['/t/browsers', '/t/crypto']",CECPQ1 results,https://www.imperialviolet.org/2016/11/28/cecpq1.html,/u/nyx,2
-14,2016-11-27 11:34:06 -0600,"['/t/android', '/t/security']",Android security in 2016 is a mess.,https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/,/u/cvoxel,22
-1,2016-11-28 11:28:19 -0600,['/t/virtualization'],Bareflank: scaffolding needed to rapidly prototype new hypervisors,http://bareflank.github.io/hypervisor/,/u/sanxiyn,4
-0,2016-11-28 07:20:58 -0600,"['/t/elixir', '/t/erlang', '/t/reversing']",How Supervisors Work,https://jbodah.github.io/blog/2016/11/18/supervisors-work/,/u/friendlysock,9
-2,2016-11-28 11:59:23 -0600,['/t/javascript'],Antd – A set of high-quality React components,https://ant.design/,/u/av,3
-1,2016-11-28 03:01:53 -0600,['/t/javascript'],TypeScript 2.0: Built-In Type Declarations,https://blog.mariusschulz.com/2016/11/25/typescript-2-0-built-in-type-declarations,/u/mariusschulz,6
-0,2016-11-28 07:54:07 -0600,"['/t/games', '/t/graphics']",Graphics Deep Dive: Cascaded voxel cone tracing in The Tomorrow Children,http://www.gamasutra.com/view/news/286023/Graphics_Deep_Dive_Cascaded_voxel_cone_tracing_in_The_Tomorrow_Children.php,/u/friendlysock,8
-0,2016-11-28 10:16:31 -0600,['/t/scaling'],The Cure for Architectural Amnesia,https://www.promptworks.com/blog/the-cure-for-architectural-amnesia,/u/promptworks,6
-1,2016-11-28 15:02:36 -0600,"['/t/book', '/t/css']",Atomic Design Out Now,http://bradfrost.com/blog/post/atomic-design-out-now/,/u/teddyzetterlund,2
-0,2016-11-28 15:00:48 -0600,"['/t/assembly', '/t/javascript', '/t/networking']",Slack client for Commodore 64,http://1amstudios.com/2016/11/27/c64-slack-client/,/u/calvin,3
-3,2016-11-28 09:06:00 -0600,['/t/culture'],Software Totemism,http://250bpm.com/blog:67,/u/zgrep,11
-3,2016-11-27 18:09:29 -0600,['/t/haskell'],literate-readme - a readme that is also a literate haskell program!,https://github.com/silky/literate-readme,/u/silky,10
-0,2016-11-28 09:11:49 -0600,['/t/databases'],"Datomic gets new Open Source Client-API allowing more lightweight clients, loses peer-limit",http://blog.datomic.com/2016/11/datomic-update-client-api-unlimited.html,/u/the-kenny,5
-1,2016-11-28 10:32:47 -0600,"['/t/ask', '/t/meta']",lobste.rs: can I subscribe to a specific story's comments ?,/s/iy1die/lobste_rs_can_i_subscribe_specific_story_s,/u/rodolfo,7
-3,2016-11-27 19:42:49 -0600,"['/t/emacs', '/t/vim']",Lineage of vi,http://web.mit.edu/kolya/misc/txt/editors,/u/lei,15
+2,2016-11-28 06:15:52 -0600,/t/openbsd,OpenBSD on PC Engines APU2,https://github.com/elad/openbsd-apu2,/u/mulander,10
+0,2016-11-28 12:52:47 -0600,"/t/networking,/t/web",HPACK: the silent killer (feature) of HTTP/2,http://blog.cloudflare.com/hpack-the-silent-killer-feature-of-http-2/,/u/jcs,7
+1,2016-11-28 05:58:52 -0600,"/t/programming,/t/unix",Thirteen Incorrect Ways and Two Awkward Ways to Use Arrays,http://www.oilshell.org/blog/2016/11/06.html,/u/calvin,12
+6,2016-11-27 18:11:50 -0600,"/t/book,/t/c,/t/programming",Modern C (book) is now feature complete,https://gustedt.wordpress.com/2016/11/25/modern-c-is-now-feature-complete/,/u/kartik,39
+4,2016-11-28 10:22:00 -0600,"/t/ask,/t/hardware,/t/openbsd",OpenBsd 6.0 skylake support,/s/5suald/openbsd_6_0_skylake_support,/u/superpat,4
+2,2016-11-28 11:57:43 -0600,/t/security,CyberChef – A Cyber Swiss Army Knife,https://gchq.github.io/CyberChef/,/u/av,4
+28,2016-11-27 10:49:19 -0600,/t/linux,Why Void Linux? [2015],http://troubleshooters.com/linux/void/whyvoid.htm,/u/unbalancedparentheses,51
+0,2016-11-29 00:12:55 -0600,"/t/debugging,/t/javascript",Adventures in the land of substrings and RegExps,http://mrale.ph/blog/2016/11/23/making-less-dart-faster.html,/u/sanxiyn,1
+0,2016-11-29 01:23:00 -0600,/t/culture,On the cruelty of really teaching computing science (1988),https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html,/u/puffnfresh,2
+0,2016-11-28 23:38:41 -0600,"/t/cogsci,/t/games",H.M.S. Dolores (Game Review by Chris Wray),https://opinionatedgamers.com/2016/10/26/h-m-s-dolores-game-review-by-chris-wray/,/u/pushcx,1
+0,2016-11-28 19:28:00 -0600,"/t/browsers,/t/crypto",CECPQ1 results,https://www.imperialviolet.org/2016/11/28/cecpq1.html,/u/nyx,2
+14,2016-11-27 11:34:06 -0600,"/t/android,/t/security",Android security in 2016 is a mess.,https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/,/u/cvoxel,22
+1,2016-11-28 11:28:19 -0600,/t/virtualization,Bareflank: scaffolding needed to rapidly prototype new hypervisors,http://bareflank.github.io/hypervisor/,/u/sanxiyn,4
+0,2016-11-28 07:20:58 -0600,"/t/elixir,/t/erlang,/t/reversing",How Supervisors Work,https://jbodah.github.io/blog/2016/11/18/supervisors-work/,/u/friendlysock,9
+2,2016-11-28 11:59:23 -0600,/t/javascript,Antd – A set of high-quality React components,https://ant.design/,/u/av,3
+1,2016-11-28 03:01:53 -0600,/t/javascript,TypeScript 2.0: Built-In Type Declarations,https://blog.mariusschulz.com/2016/11/25/typescript-2-0-built-in-type-declarations,/u/mariusschulz,6
+0,2016-11-28 07:54:07 -0600,"/t/games,/t/graphics",Graphics Deep Dive: Cascaded voxel cone tracing in The Tomorrow Children,http://www.gamasutra.com/view/news/286023/Graphics_Deep_Dive_Cascaded_voxel_cone_tracing_in_The_Tomorrow_Children.php,/u/friendlysock,8
+0,2016-11-28 10:16:31 -0600,/t/scaling,The Cure for Architectural Amnesia,https://www.promptworks.com/blog/the-cure-for-architectural-amnesia,/u/promptworks,6
+1,2016-11-28 15:02:36 -0600,"/t/book,/t/css",Atomic Design Out Now,http://bradfrost.com/blog/post/atomic-design-out-now/,/u/teddyzetterlund,2
+0,2016-11-28 15:00:48 -0600,"/t/assembly,/t/javascript,/t/networking",Slack client for Commodore 64,http://1amstudios.com/2016/11/27/c64-slack-client/,/u/calvin,3
+3,2016-11-28 09:06:00 -0600,/t/culture,Software Totemism,http://250bpm.com/blog:67,/u/zgrep,11
+3,2016-11-27 18:09:29 -0600,/t/haskell,literate-readme - a readme that is also a literate haskell program!,https://github.com/silky/literate-readme,/u/silky,10
+0,2016-11-28 09:11:49 -0600,/t/databases,"Datomic gets new Open Source Client-API allowing more lightweight clients, loses peer-limit",http://blog.datomic.com/2016/11/datomic-update-client-api-unlimited.html,/u/the-kenny,5
+1,2016-11-28 10:32:47 -0600,"/t/ask,/t/meta",lobste.rs: can I subscribe to a specific story's comments ?,/s/iy1die/lobste_rs_can_i_subscribe_specific_story_s,/u/rodolfo,7
+3,2016-11-27 19:42:49 -0600,"/t/emacs,/t/vim",Lineage of vi,http://web.mit.edu/kolya/misc/txt/editors,/u/lei,15

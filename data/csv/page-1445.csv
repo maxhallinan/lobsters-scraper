@@ -1,25 +1,25 @@
-0,2013-10-17 14:21:28 -0500,"['/t/practices', '/t/programming']",The code documentation fallacy,http://voices.canonical.com/jussi.pakkanen/2012/09/25/the-code-documentation-fallacy/,/u/journeysquid,4
-1,2013-10-17 02:26:36 -0500,['/t/unix'],[DragonFly BSD] Update on recent SMP contention work,http://lists.dragonflybsd.org/pipermail/users/2013-October/090181.html,/u/lynge,8
-0,2013-10-17 13:08:34 -0500,['/t/design'],“3D printing makes you a superhero” and other insights,http://blog.cubehero.com/2013/10/17/3d-printing-makes-you-a-superhero-and-other-insights-from-bay-area-software-engineers-meetup/,/u/iamwil,1
-1,2013-10-16 21:10:59 -0500,"['/t/netbsd', '/t/unix']",NetBSD gets in-kernel Lua,http://mail-index.netbsd.org/source-changes/2013/10/16/msg048283.html,/u/jcs,3
-0,2013-10-16 18:37:17 -0500,['/t/privacy'],Improving Tor's anonymity by changing guard parameters,https://blog.torproject.org/blog/improving-tors-anonymity-changing-guard-parameters,/u/kyle,5
-0,2013-10-17 00:08:25 -0500,['/t/go'],How to use conditional compilation with the go build tool,http://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool,/u/kyle,2
-0,2013-10-17 00:07:52 -0500,['/t/go'],How does the go build command work?,http://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work,/u/kyle,2
-0,2013-10-16 12:02:27 -0500,"['/t/openbsd', '/t/person']",Interview: Henning Brauer,http://www.ioexception.de/2013/10/16/interview-henning-brauer/,/u/jcs,8
-0,2013-10-16 15:26:27 -0500,"['/t/networking', '/t/scaling']",Getting the most out of HAProxy,https://www.twilio.com/engineering/2013/10/16/haproxy,/u/kb,3
-0,2013-10-16 03:37:40 -0500,['/t/security'],The NSA back door to NIST,http://jiggerwit.wordpress.com/2013/09/25/the-nsa-back-door-to-nist/,/u/kyle,9
-0,2013-10-16 14:20:25 -0500,['/t/release'],Native HEVC/H.265 decoder is now in FFmpeg,https://launchpad.net/ffmpeg/+announcement/12062,/u/journeysquid,2
-0,2013-10-16 08:04:16 -0500,['/t/javascript'],"Spritesheets, Grunt, and You",http://blog.ponyfoo.com/2013/10/16/spritesheets-grunt-and-you,/u/bevacqua,2
-0,2013-10-16 11:45:00 -0500,['/t/javascript'],JavaScript's void Operator,http://designpepper.com/blog/drips/javascripts-void-operator,/u/joshuacc,1
-0,2013-10-16 09:58:17 -0500,"['/t/release', '/t/web']",Heroku | WebSockets Now in Public Beta,https://blog.heroku.com/archives/2013/10/8/websockets-public-beta,/u/puffnfresh,1
-5,2013-10-15 15:10:22 -0500,"['/t/video', '/t/cryptocurrencies', '/t/finance']",Bitcoin Cryptocurrency Crash Course,https://www.youtube.com/watch?v=JP9-lAYngi4,/u/mc,5
-0,2013-10-16 09:01:02 -0500,['/t/javascript'],Ember Components – Reusable Building Blocks For Your Application,http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/,/u/remotesynth,0
-0,2013-10-15 14:10:08 -0500,"['/t/pdf', '/t/security']",DeadDrop / StrongBox Security Assessment,http://homes.cs.washington.edu/~aczeskis/research/pubs/UW-CSE-13-08-02.PDF,/u/wally,5
-0,2013-10-16 00:15:22 -0500,['/t/book'],The Mythical Man Month,http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959,/u/kb,1
-0,2013-10-15 10:26:59 -0500,['/t/ruby'],Rubinius X,http://x.rubini.us/,/u/wmoxam,4
-0,2013-10-15 11:59:34 -0500,"['/t/javascript', '/t/programming']",Rain with Clojure's core.async,https://github.com/jxa/rain,/u/carinmeier,1
-4,2013-10-14 15:57:27 -0500,['/t/privacy'],Five-day window for Lavabit users to retrieve their mail,https://liberty.lavabit.com/,/u/kyle,11
-0,2013-10-14 19:43:54 -0500,['/t/science'],How to Read a Scientific Paper (About That Researcher With a Nematode in His Mouth),http://www.wired.com/wiredscience/2013/10/how-to-read-a-research-paper-about-that-scientist-with-a-nematode-in-his-mouth/,/u/tedu,5
-0,2013-10-15 07:20:34 -0500,['/t/javascript'],JavaScript Configuration Object Pattern,http://flippinawesome.org/2013/10/14/javascript-configuration-object-pattern/,/u/remotesynth,0
-0,2013-10-14 15:15:23 -0500,"['/t/android', '/t/security']",Why Android SSL was downgraded from AES256-SHA to RC4-MD5 in late 2010,http://op-co.de/blog/posts/android_ssl_downgrade/,/u/journeysquid,4
-0,2013-10-14 12:25:26 -0500,"['/t/privacy', '/t/security']",A collection of interesting new networks and tech aiming at decentralisation (in some form).,https://github.com/rossjones/alternative-internet,/u/bobbywilson0,5
+0,2013-10-17 14:21:28 -0500,"/t/practices,/t/programming",The code documentation fallacy,http://voices.canonical.com/jussi.pakkanen/2012/09/25/the-code-documentation-fallacy/,/u/journeysquid,4
+1,2013-10-17 02:26:36 -0500,/t/unix,[DragonFly BSD] Update on recent SMP contention work,http://lists.dragonflybsd.org/pipermail/users/2013-October/090181.html,/u/lynge,8
+0,2013-10-17 13:08:34 -0500,/t/design,“3D printing makes you a superhero” and other insights,http://blog.cubehero.com/2013/10/17/3d-printing-makes-you-a-superhero-and-other-insights-from-bay-area-software-engineers-meetup/,/u/iamwil,1
+1,2013-10-16 21:10:59 -0500,"/t/netbsd,/t/unix",NetBSD gets in-kernel Lua,http://mail-index.netbsd.org/source-changes/2013/10/16/msg048283.html,/u/jcs,3
+0,2013-10-16 18:37:17 -0500,/t/privacy,Improving Tor's anonymity by changing guard parameters,https://blog.torproject.org/blog/improving-tors-anonymity-changing-guard-parameters,/u/kyle,5
+0,2013-10-17 00:08:25 -0500,/t/go,How to use conditional compilation with the go build tool,http://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool,/u/kyle,2
+0,2013-10-17 00:07:52 -0500,/t/go,How does the go build command work?,http://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work,/u/kyle,2
+0,2013-10-16 12:02:27 -0500,"/t/openbsd,/t/person",Interview: Henning Brauer,http://www.ioexception.de/2013/10/16/interview-henning-brauer/,/u/jcs,8
+0,2013-10-16 15:26:27 -0500,"/t/networking,/t/scaling",Getting the most out of HAProxy,https://www.twilio.com/engineering/2013/10/16/haproxy,/u/kb,3
+0,2013-10-16 03:37:40 -0500,/t/security,The NSA back door to NIST,http://jiggerwit.wordpress.com/2013/09/25/the-nsa-back-door-to-nist/,/u/kyle,9
+0,2013-10-16 14:20:25 -0500,/t/release,Native HEVC/H.265 decoder is now in FFmpeg,https://launchpad.net/ffmpeg/+announcement/12062,/u/journeysquid,2
+0,2013-10-16 08:04:16 -0500,/t/javascript,"Spritesheets, Grunt, and You",http://blog.ponyfoo.com/2013/10/16/spritesheets-grunt-and-you,/u/bevacqua,2
+0,2013-10-16 11:45:00 -0500,/t/javascript,JavaScript's void Operator,http://designpepper.com/blog/drips/javascripts-void-operator,/u/joshuacc,1
+0,2013-10-16 09:58:17 -0500,"/t/release,/t/web",Heroku | WebSockets Now in Public Beta,https://blog.heroku.com/archives/2013/10/8/websockets-public-beta,/u/puffnfresh,1
+5,2013-10-15 15:10:22 -0500,"/t/video,/t/cryptocurrencies,/t/finance",Bitcoin Cryptocurrency Crash Course,https://www.youtube.com/watch?v=JP9-lAYngi4,/u/mc,5
+0,2013-10-16 09:01:02 -0500,/t/javascript,Ember Components – Reusable Building Blocks For Your Application,http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/,/u/remotesynth,0
+0,2013-10-15 14:10:08 -0500,"/t/pdf,/t/security",DeadDrop / StrongBox Security Assessment,http://homes.cs.washington.edu/~aczeskis/research/pubs/UW-CSE-13-08-02.PDF,/u/wally,5
+0,2013-10-16 00:15:22 -0500,/t/book,The Mythical Man Month,http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959,/u/kb,1
+0,2013-10-15 10:26:59 -0500,/t/ruby,Rubinius X,http://x.rubini.us/,/u/wmoxam,4
+0,2013-10-15 11:59:34 -0500,"/t/javascript,/t/programming",Rain with Clojure's core.async,https://github.com/jxa/rain,/u/carinmeier,1
+4,2013-10-14 15:57:27 -0500,/t/privacy,Five-day window for Lavabit users to retrieve their mail,https://liberty.lavabit.com/,/u/kyle,11
+0,2013-10-14 19:43:54 -0500,/t/science,How to Read a Scientific Paper (About That Researcher With a Nematode in His Mouth),http://www.wired.com/wiredscience/2013/10/how-to-read-a-research-paper-about-that-scientist-with-a-nematode-in-his-mouth/,/u/tedu,5
+0,2013-10-15 07:20:34 -0500,/t/javascript,JavaScript Configuration Object Pattern,http://flippinawesome.org/2013/10/14/javascript-configuration-object-pattern/,/u/remotesynth,0
+0,2013-10-14 15:15:23 -0500,"/t/android,/t/security",Why Android SSL was downgraded from AES256-SHA to RC4-MD5 in late 2010,http://op-co.de/blog/posts/android_ssl_downgrade/,/u/journeysquid,4
+0,2013-10-14 12:25:26 -0500,"/t/privacy,/t/security",A collection of interesting new networks and tech aiming at decentralisation (in some form).,https://github.com/rossjones/alternative-internet,/u/bobbywilson0,5

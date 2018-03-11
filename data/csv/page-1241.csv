@@ -1,25 +1,25 @@
-0,2014-09-30 15:43:59 -0500,"['/t/haskell', '/t/programming']",A proof of Löb's theorem in Haskell,http://lesswrong.com/r/discussion/lw/l0d/a_proof_of_l%C3%B6bs_theorem_in_haskell/,/u/bitemyapp,5
-5,2014-09-30 14:02:23 -0500,['/t/culture'],[Interview] Work habits at Apple,http://oleb.net/blog/2014/09/work-habits-at-apple/,/u/jcb,7
-1,2014-09-30 11:15:49 -0500,['/t/programming'],Choosing powerful primitives for a simplified computing system,http://permalink.gmane.org/gmane.culture.people.kragen.thinking/202,/u/vjoel,2
-0,2014-09-30 19:10:50 -0500,"['/t/android', '/t/security']",Thoughts after a Month with Blackphone,http://www.droidsec.org/news/2014/09/30/thoughts-after-a-month-with-blackphone.html,/u/jcs,1
-0,2014-09-30 12:53:01 -0500,['/t/distributed'],Linearizability versus Serializability,http://www.bailis.org/blog/linearizability-versus-serializability/,/u/kellogh,2
-59,2014-09-29 17:02:01 -0500,['/t/ask'],What are you working on this week?,/s/o2xra1/what_are_you_working_on_this_week,/u/BruceM,27
-0,2014-09-30 11:55:50 -0500,['/t/devops'],Three ways to aggregate metrics on heroku (a guest post by @roidage),http://blog.librato.com/posts/three-ways-to-aggregate-metrics-on-heroku,/u/DaveJosephsen,1
-0,2014-09-29 21:58:14 -0500,"['/t/pdf', '/t/lua']",Scriptable Operating Systems with Lua,http://www.netbsd.org/~lneto/dls14.pdf,/u/animatronic,5
-0,2014-09-29 20:25:43 -0500,"['/t/haskell', '/t/programming']",Turn an optparse-applicative program into a CGI program!,https://github.com/maxpow4h/webcloud,/u/bitemyapp,6
-0,2014-09-30 06:41:30 -0500,"['/t/javascript', '/t/web']",Front-end Driven Applications - A New Approach to Applications,http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/,/u/remotesynth,1
-0,2014-09-29 13:24:38 -0500,"['/t/finance', '/t/science']",Rat Traders,http://www.artmarcovici.com/rat-traders,/u/pushcx,11
-1,2014-09-29 12:27:57 -0500,"['/t/c', '/t/programming']",Mettle: A Modern C++14 Unit Testing Library,https://github.com/jimporter/mettle,/u/elgruntox,8
-0,2014-09-29 14:36:22 -0500,"['/t/video', '/t/lisp', '/t/programming']",Sound: why is it so darn imperative?,https://www.youtube.com/watch?v=DkIVzHNjNEA,/u/PuercoPop,7
-0,2014-09-29 10:30:20 -0500,['/t/book'],"Effective awk Programming, 4th Edition (2015)",http://shop.oreilly.com/product/0636920033820.do,/u/mattk,10
-0,2014-09-29 22:33:24 -0500,"['/t/pdf', '/t/compsci']",Composition and Reuse with Compiled Domain-Specific Languages,http://ppl.stanford.edu/papers/ecoop13_sujeeth.pdf,/u/animatronic,2
-1,2014-09-29 10:27:18 -0500,['/t/distributed'],Tango: Distributed Data Structures over a Shared Log,http://muratbuffalo.blogspot.com/2014/09/paper-summary-tango-distributed-data.html,/u/vjoel,7
-0,2014-09-29 11:26:11 -0500,"['/t/haskell', '/t/programming']",A non-recursive sorting algorithm,http://haskellexists.blogspot.com/2014/09/a-non-recursive-sorting-algorithm.html,/u/bitemyapp,6
-0,2014-09-29 22:04:55 -0500,['/t/compsci'],ICFP 2014 : Program (papers and videos),http://icfpconference.org/icfp2014/program.html,/u/animatronic,1
-0,2014-09-29 21:16:28 -0500,"['/t/pdf', '/t/compsci', '/t/python']",Design and Evaluation of Gradual Typing for Python,http://wphomes.soic.indiana.edu/jsiek/files/2014/08/retic-python-v3.pdf,/u/animatronic,1
-0,2014-09-29 09:06:59 -0500,"['/t/javascript', '/t/practices']",Tips for building a Single Page Application,http://blog.trackets.com/2014/09/29/tips-for-building-a-single-page-application.html,/u/darthdeus,6
-0,2014-09-29 21:03:39 -0500,"['/t/hardware', '/t/programming']",Accordion: An EDSL for Hardware Instruction Set Extensions,http://2014.splashcon.org/event/dsldi2014-accordion-an-edsl-for-hardware-instruction-set-extensions,/u/animatronic,1
-1,2014-09-28 23:20:39 -0500,"['/t/video', '/t/lisp', '/t/programming']",Purely Functional 3D in Typed Racket,https://www.youtube.com/watch?v=t3xdv4UP9-U&index=6&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh,/u/michaelsbradleyjr,14
-0,2014-09-29 02:45:48 -0500,['/t/mac'],.gitignore for Dropbox,http://konolige.com/dbignore/,/u/napolux,8
-0,2014-09-29 05:56:46 -0500,['/t/cryptocurrencies'],Ken Shirriff's blog: Bitcoins the hard way: Using the raw Bitcoin protocol,http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html,/u/RiderOfGiraffes,5
-1,2014-09-29 08:29:59 -0500,['/t/math'],A quantitative analysis of the graying of Barack Obama's hair,http://pnis.co/h3.html,/u/pushcx,2
+0,2014-09-30 15:43:59 -0500,"/t/haskell,/t/programming",A proof of Löb's theorem in Haskell,http://lesswrong.com/r/discussion/lw/l0d/a_proof_of_l%C3%B6bs_theorem_in_haskell/,/u/bitemyapp,5
+5,2014-09-30 14:02:23 -0500,/t/culture,[Interview] Work habits at Apple,http://oleb.net/blog/2014/09/work-habits-at-apple/,/u/jcb,7
+1,2014-09-30 11:15:49 -0500,/t/programming,Choosing powerful primitives for a simplified computing system,http://permalink.gmane.org/gmane.culture.people.kragen.thinking/202,/u/vjoel,2
+0,2014-09-30 19:10:50 -0500,"/t/android,/t/security",Thoughts after a Month with Blackphone,http://www.droidsec.org/news/2014/09/30/thoughts-after-a-month-with-blackphone.html,/u/jcs,1
+0,2014-09-30 12:53:01 -0500,/t/distributed,Linearizability versus Serializability,http://www.bailis.org/blog/linearizability-versus-serializability/,/u/kellogh,2
+59,2014-09-29 17:02:01 -0500,/t/ask,What are you working on this week?,/s/o2xra1/what_are_you_working_on_this_week,/u/BruceM,27
+0,2014-09-30 11:55:50 -0500,/t/devops,Three ways to aggregate metrics on heroku (a guest post by @roidage),http://blog.librato.com/posts/three-ways-to-aggregate-metrics-on-heroku,/u/DaveJosephsen,1
+0,2014-09-29 21:58:14 -0500,"/t/pdf,/t/lua",Scriptable Operating Systems with Lua,http://www.netbsd.org/~lneto/dls14.pdf,/u/animatronic,5
+0,2014-09-29 20:25:43 -0500,"/t/haskell,/t/programming",Turn an optparse-applicative program into a CGI program!,https://github.com/maxpow4h/webcloud,/u/bitemyapp,6
+0,2014-09-30 06:41:30 -0500,"/t/javascript,/t/web",Front-end Driven Applications - A New Approach to Applications,http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/,/u/remotesynth,1
+0,2014-09-29 13:24:38 -0500,"/t/finance,/t/science",Rat Traders,http://www.artmarcovici.com/rat-traders,/u/pushcx,11
+1,2014-09-29 12:27:57 -0500,"/t/c,/t/programming",Mettle: A Modern C++14 Unit Testing Library,https://github.com/jimporter/mettle,/u/elgruntox,8
+0,2014-09-29 14:36:22 -0500,"/t/video,/t/lisp,/t/programming",Sound: why is it so darn imperative?,https://www.youtube.com/watch?v=DkIVzHNjNEA,/u/PuercoPop,7
+0,2014-09-29 10:30:20 -0500,/t/book,"Effective awk Programming, 4th Edition (2015)",http://shop.oreilly.com/product/0636920033820.do,/u/mattk,10
+0,2014-09-29 22:33:24 -0500,"/t/pdf,/t/compsci",Composition and Reuse with Compiled Domain-Specific Languages,http://ppl.stanford.edu/papers/ecoop13_sujeeth.pdf,/u/animatronic,2
+1,2014-09-29 10:27:18 -0500,/t/distributed,Tango: Distributed Data Structures over a Shared Log,http://muratbuffalo.blogspot.com/2014/09/paper-summary-tango-distributed-data.html,/u/vjoel,7
+0,2014-09-29 11:26:11 -0500,"/t/haskell,/t/programming",A non-recursive sorting algorithm,http://haskellexists.blogspot.com/2014/09/a-non-recursive-sorting-algorithm.html,/u/bitemyapp,6
+0,2014-09-29 22:04:55 -0500,/t/compsci,ICFP 2014 : Program (papers and videos),http://icfpconference.org/icfp2014/program.html,/u/animatronic,1
+0,2014-09-29 21:16:28 -0500,"/t/pdf,/t/compsci,/t/python",Design and Evaluation of Gradual Typing for Python,http://wphomes.soic.indiana.edu/jsiek/files/2014/08/retic-python-v3.pdf,/u/animatronic,1
+0,2014-09-29 09:06:59 -0500,"/t/javascript,/t/practices",Tips for building a Single Page Application,http://blog.trackets.com/2014/09/29/tips-for-building-a-single-page-application.html,/u/darthdeus,6
+0,2014-09-29 21:03:39 -0500,"/t/hardware,/t/programming",Accordion: An EDSL for Hardware Instruction Set Extensions,http://2014.splashcon.org/event/dsldi2014-accordion-an-edsl-for-hardware-instruction-set-extensions,/u/animatronic,1
+1,2014-09-28 23:20:39 -0500,"/t/video,/t/lisp,/t/programming",Purely Functional 3D in Typed Racket,https://www.youtube.com/watch?v=t3xdv4UP9-U&index=6&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh,/u/michaelsbradleyjr,14
+0,2014-09-29 02:45:48 -0500,/t/mac,.gitignore for Dropbox,http://konolige.com/dbignore/,/u/napolux,8
+0,2014-09-29 05:56:46 -0500,/t/cryptocurrencies,Ken Shirriff's blog: Bitcoins the hard way: Using the raw Bitcoin protocol,http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html,/u/RiderOfGiraffes,5
+1,2014-09-29 08:29:59 -0500,/t/math,A quantitative analysis of the graying of Barack Obama's hair,http://pnis.co/h3.html,/u/pushcx,2

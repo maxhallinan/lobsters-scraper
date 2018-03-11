@@ -1,25 +1,25 @@
-0,2014-01-22 13:37:56 -0600,"['/t/games', '/t/mac']",Stockfish for Mac - Powerful Chess Analysis,http://stockfishchess.org/mac/,/u/danpalmer,2
-6,2014-01-21 11:13:23 -0600,['/t/vim'],A Good Vimrc,http://dougblack.io/words/a-good-vimrc.html,/u/db,29
-0,2014-01-22 11:25:13 -0600,"['/t/ruby', '/t/security']",Rails Login Security — Hakiri,https://hakiri.io/blog/rails-login-security,/u/kellogh,2
-1,2014-01-21 21:44:09 -0600,"['/t/assembly', '/t/games', '/t/programming']",A Great Old-Timey Game-Programming Hack,http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,/u/robey,8
-0,2014-01-21 18:55:49 -0600,['/t/assembly'],8086tiny: a tiny PC emulator/virtual machine,http://www.megalith.co.uk/8086tiny/,/u/old_sound,12
-3,2014-01-21 20:34:17 -0600,"['/t/networking', '/t/practices']","Network Solutions Auto-Enroll: $1,850",http://inessential.com/2014/01/21/network_solutions_auto-enroll_1_850,/u/journeysquid,5
-0,2014-01-22 05:07:30 -0600,"['/t/math', '/t/visualization']",1ucasvb's lab - Math Visualizations,http://1ucasvb.tumblr.com,/u/old_sound,3
-3,2014-01-21 12:47:18 -0600,['/t/hardware'],Backblaze Blog: What Hard Drive Should I Buy?,http://blog.backblaze.com/2014/01/21/what-hard-drive-should-i-buy/,/u/journeysquid,12
-0,2014-01-22 02:15:12 -0600,"['/t/android', '/t/linux', '/t/security']",Suterusu Rootkit: Inline Kernel Function Hooking on x86 and ARM,http://poppopret.org/2013/01/07/suterusu-rootkit-inline-kernel-function-hooking-on-x86-and-arm/,/u/pipes,2
-0,2014-01-21 20:58:37 -0600,"['/t/c', '/t/programming']",Eric Raymond: Clang and FSF's strategy,http://gcc.gnu.org/ml/gcc/2014-01/msg00176.html,/u/journeysquid,2
-3,2014-01-22 01:34:34 -0600,"['/t/devops', '/t/release']",Show Lobsters: Buildbox - Continuous Integration and Deployment,https://buildbox.io,/u/keithpitt,1
-1,2014-01-21 18:08:45 -0600,['/t/programming'],The silver searcher (ag) now supports search by file type,https://github.com/ggreer/the_silver_searcher/pull/283/files,/u/kb,4
-0,2014-01-21 12:13:06 -0600,"['/t/databases', '/t/distributed']",Redis Cluster and limiting divergences,http://antirez.com/news/70,/u/rauyran,10
-1,2014-01-21 12:52:57 -0600,['/t/security'],"White hat hacker accessed 70,000 HealthCare.gov records in four minutes",http://sdt.bz/content/article.aspx?ArticleID=67613,/u/mattk,8
-33,2014-01-21 07:53:20 -0600,['/t/ask'],What are you working on this week?,/s/wztj2i/what_are_you_working_on_this_week,/u/conroy,24
-0,2014-01-21 07:06:39 -0600,"['/t/erlang', '/t/programming']",Why Elixir?,http://www.theerlangelist.com/2014/01/why-elixir.html,/u/szalansky,14
-0,2014-01-21 22:05:26 -0600,"['/t/video', '/t/games', '/t/haskell']",A Dominion simulator in Haskell,http://vimeo.com/84722179,/u/relrod6,2
-0,2014-01-21 13:02:21 -0600,['/t/philosophy'],The Death Of Expertise,http://thefederalist.com/2014/01/17/the-death-of-expertise/,/u/bmercer,6
-2,2014-01-21 11:27:31 -0600,"['/t/show', '/t/browsers', '/t/release', '/t/security']","Show Lobsters: ExtensionWatch, a browser extension to watch for and disable malware/adware extension",http://github.com/extensionwatch/database,/u/jeremymcanally,5
-0,2014-01-21 16:36:13 -0600,['/t/security'],Highlights of the Real World Cryptography 2014 workshop,http://blog.xot.nl/2014/01/20/highlights-of-the-real-world-cryptography-2014-workshop-day-1/,/u/kyle,2
-2,2014-01-21 16:19:53 -0600,"['/t/security', '/t/web']",Trust Assertions for Certificate Keys,http://tack.io/,/u/kyle,1
-0,2014-01-21 12:57:51 -0600,"['/t/math', '/t/python']",Economics Simulation (Norvig),http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb,/u/dkasper,3
-0,2014-01-21 12:41:20 -0600,['/t/python'],What's New in Pandas 0.13?,http://www.logilab.org/blogentry/189280,/u/mattk,3
-32,2014-01-20 08:23:12 -0600,['/t/programming'],Why I'm Not Going To Stop Posting Go Links,http://timkellogg.me/blog/2014/01/19/I-get-excited-about-go/,/u/kellogh,33
-0,2014-01-21 11:04:04 -0600,"['/t/video', '/t/distributed']","A discussion of causality, vector clocks, version vectors, and CRDTs",http://thinkdistributed.io/blog/2013/08/28/causality.html,/u/SeanTAllen,3
+0,2014-01-22 13:37:56 -0600,"/t/games,/t/mac",Stockfish for Mac - Powerful Chess Analysis,http://stockfishchess.org/mac/,/u/danpalmer,2
+6,2014-01-21 11:13:23 -0600,/t/vim,A Good Vimrc,http://dougblack.io/words/a-good-vimrc.html,/u/db,29
+0,2014-01-22 11:25:13 -0600,"/t/ruby,/t/security",Rails Login Security — Hakiri,https://hakiri.io/blog/rails-login-security,/u/kellogh,2
+1,2014-01-21 21:44:09 -0600,"/t/assembly,/t/games,/t/programming",A Great Old-Timey Game-Programming Hack,http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,/u/robey,8
+0,2014-01-21 18:55:49 -0600,/t/assembly,8086tiny: a tiny PC emulator/virtual machine,http://www.megalith.co.uk/8086tiny/,/u/old_sound,12
+3,2014-01-21 20:34:17 -0600,"/t/networking,/t/practices","Network Solutions Auto-Enroll: $1,850",http://inessential.com/2014/01/21/network_solutions_auto-enroll_1_850,/u/journeysquid,5
+0,2014-01-22 05:07:30 -0600,"/t/math,/t/visualization",1ucasvb's lab - Math Visualizations,http://1ucasvb.tumblr.com,/u/old_sound,3
+3,2014-01-21 12:47:18 -0600,/t/hardware,Backblaze Blog: What Hard Drive Should I Buy?,http://blog.backblaze.com/2014/01/21/what-hard-drive-should-i-buy/,/u/journeysquid,12
+0,2014-01-22 02:15:12 -0600,"/t/android,/t/linux,/t/security",Suterusu Rootkit: Inline Kernel Function Hooking on x86 and ARM,http://poppopret.org/2013/01/07/suterusu-rootkit-inline-kernel-function-hooking-on-x86-and-arm/,/u/pipes,2
+0,2014-01-21 20:58:37 -0600,"/t/c,/t/programming",Eric Raymond: Clang and FSF's strategy,http://gcc.gnu.org/ml/gcc/2014-01/msg00176.html,/u/journeysquid,2
+3,2014-01-22 01:34:34 -0600,"/t/devops,/t/release",Show Lobsters: Buildbox - Continuous Integration and Deployment,https://buildbox.io,/u/keithpitt,1
+1,2014-01-21 18:08:45 -0600,/t/programming,The silver searcher (ag) now supports search by file type,https://github.com/ggreer/the_silver_searcher/pull/283/files,/u/kb,4
+0,2014-01-21 12:13:06 -0600,"/t/databases,/t/distributed",Redis Cluster and limiting divergences,http://antirez.com/news/70,/u/rauyran,10
+1,2014-01-21 12:52:57 -0600,/t/security,"White hat hacker accessed 70,000 HealthCare.gov records in four minutes",http://sdt.bz/content/article.aspx?ArticleID=67613,/u/mattk,8
+33,2014-01-21 07:53:20 -0600,/t/ask,What are you working on this week?,/s/wztj2i/what_are_you_working_on_this_week,/u/conroy,24
+0,2014-01-21 07:06:39 -0600,"/t/erlang,/t/programming",Why Elixir?,http://www.theerlangelist.com/2014/01/why-elixir.html,/u/szalansky,14
+0,2014-01-21 22:05:26 -0600,"/t/video,/t/games,/t/haskell",A Dominion simulator in Haskell,http://vimeo.com/84722179,/u/relrod6,2
+0,2014-01-21 13:02:21 -0600,/t/philosophy,The Death Of Expertise,http://thefederalist.com/2014/01/17/the-death-of-expertise/,/u/bmercer,6
+2,2014-01-21 11:27:31 -0600,"/t/show,/t/browsers,/t/release,/t/security","Show Lobsters: ExtensionWatch, a browser extension to watch for and disable malware/adware extension",http://github.com/extensionwatch/database,/u/jeremymcanally,5
+0,2014-01-21 16:36:13 -0600,/t/security,Highlights of the Real World Cryptography 2014 workshop,http://blog.xot.nl/2014/01/20/highlights-of-the-real-world-cryptography-2014-workshop-day-1/,/u/kyle,2
+2,2014-01-21 16:19:53 -0600,"/t/security,/t/web",Trust Assertions for Certificate Keys,http://tack.io/,/u/kyle,1
+0,2014-01-21 12:57:51 -0600,"/t/math,/t/python",Economics Simulation (Norvig),http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb,/u/dkasper,3
+0,2014-01-21 12:41:20 -0600,/t/python,What's New in Pandas 0.13?,http://www.logilab.org/blogentry/189280,/u/mattk,3
+32,2014-01-20 08:23:12 -0600,/t/programming,Why I'm Not Going To Stop Posting Go Links,http://timkellogg.me/blog/2014/01/19/I-get-excited-about-go/,/u/kellogh,33
+0,2014-01-21 11:04:04 -0600,"/t/video,/t/distributed","A discussion of causality, vector clocks, version vectors, and CRDTs",http://thinkdistributed.io/blog/2013/08/28/causality.html,/u/SeanTAllen,3

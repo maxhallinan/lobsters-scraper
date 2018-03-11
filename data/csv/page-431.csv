@@ -1,25 +1,25 @@
-0,2017-03-24 10:23:04 -0500,"['/t/historical', '/t/reversing']",A Second Life for (very old) C programs,https://tailordev.fr/blog/2017/03/24/second-life-for-c-programs/,/u/355E3B,3
-0,2017-03-24 12:59:27 -0500,"['/t/pdf', '/t/ruby']",MiniTest cheatsheet,https://chriskottom.com/freebies/cheatsheets_free.pdf,/u/pushcx,2
-4,2017-03-23 15:38:37 -0500,"['/t/mobile', '/t/privacy', '/t/security']",Wikileaks: CIA Has Been Bugging “Factory Fresh” iPhones Since 2008,https://wikileaks.org/vault7/darkmatter/?cia,/u/chadski,15
-1,2017-03-24 10:35:07 -0500,['/t/cryptocurrencies'],On the emerging consensus regarding Bitcoin’s block size limit: insights from my visit with…,https://medium.com/@peter_r/on-the-emerging-consensus-regarding-bitcoins-block-size-limit-insights-from-my-visit-with-2348878a16d8,/u/soulcutter,1
-0,2017-03-24 14:14:05 -0500,"['/t/slides', '/t/databases']",Falling In and Out of Love With DynamoDB (2013),http://0x74696d.com/slides/falling-in-and-out-of-love-with-dynamodb.html,/u/asthasr,1
-0,2017-03-24 14:01:44 -0500,"['/t/book', '/t/rust']",The Rust Programming Language (2nd Edition Draft),https://doc.rust-lang.org/nightly/book/second-edition/,/u/utzig,1
-0,2017-03-24 13:56:36 -0500,['/t/visualization'],NCSU Data Visualization Workshops,https://ncsu-libraries.github.io/data-viz-workshops/,/u/utzig,1
-0,2017-03-24 13:13:12 -0500,"['/t/devops', '/t/python']",Automating Django Deployments with Fabric and Ansible,https://realpython.com/blog/python/automating-django-deployments-with-fabric-and-ansible,/u/pushcx,1
-0,2017-03-24 08:59:22 -0500,"['/t/hardware', '/t/historical']","Before There were Nixie Tubes, There Were Edge-Lit Displays?",http://hackaday.com/2017/03/23/before-there-were-nixie-tubes-there-were-edge-lit-displays/,/u/flyingfisch,2
-0,2017-03-24 08:47:13 -0500,"['/t/pdf', '/t/historical', '/t/unix']",Distributing the News - UUCP to UUNET (2015),https://www.usenix.org/system/files/login/articles/login_aug15_09_salus.pdf,/u/mjturner,2
-0,2017-03-24 12:35:10 -0500,['/t/lisp'],Learning Lisp Fast,http://cs.gmu.edu/~sean/lisp/LispTutorial.html,/u/pushcx,1
-5,2017-03-23 11:48:09 -0500,['/t/law'],regarding OpenSSL License change,https://marc.info/?l=openbsd-tech&m=149028593819547&w=2,/u/mulander,16
-7,2017-03-23 05:39:54 -0500,"['/t/games', '/t/lua', '/t/programming']",Why LÖVE?,https://eev.ee/blog/2017/03/23/why-love/,/u/calvin,29
-31,2017-03-23 01:27:46 -0500,"['/t/practices', '/t/programming']",Pull Request Based Development Sucks,http://lisperator.net/blog/pull-request-based-development-sucks,/u/akkartik,32
-0,2017-03-24 01:13:32 -0500,['/t/devops'],So you want to be an SRE?,https://medium.com/@khardsonhurley/so-you-want-to-be-an-sre-34e832357a8c,/u/Dawny33,4
-0,2017-03-24 05:22:34 -0500,['/t/dotnet'],A Hitchhikers Guide to the CoreCLR Source Code,http://www.mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/,/u/calvin,2
-1,2017-03-24 00:18:44 -0500,['/t/programming'],Building a Command-Line Application with Crystal,https://jclem.net/posts/building-a-command-line-application-with-crystal,/u/av,3
-1,2017-03-23 08:57:31 -0500,['/t/security'],Make Dragonfly BSD great again!,http://akat1.pl/?id=3,/u/mulander,19
-0,2017-03-24 07:37:12 -0500,"['/t/devops', '/t/programming', '/t/ruby']",Pack:er and Terra:deploy a JRuby Application [Part 1],https://dcsg.me/articles/pack-er-and-terra-deploy-a-jruby-application-part-1/,/u/dcsg,0
-0,2017-03-24 06:19:07 -0500,['/t/rant'],Four key takeaways after 6 months working in the market of chatbots,https://building.sentisis.com/four-key-takeaways-after-6-months-working-in-the-market-of-chatbots-f615561688c8,/u/Mordo,2
-0,2017-03-23 13:16:54 -0500,"['/t/browsers', '/t/security']",Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates,https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ,/u/joshuacc,9
-0,2017-03-24 00:23:09 -0500,"['/t/cogsci', '/t/math']",Recurrent Neural Networks - A Short TensorFlow Tutorial,https://github.com/silicon-valley-data-science/RNN-Tutorial,/u/av,2
-3,2017-03-23 08:29:11 -0500,['/t/security'],eBay Asks Users to Downgrade Security,https://krebsonsecurity.com/2017/03/ebay-asks-users-to-downgrade-security/,/u/flyingfisch,7
-7,2017-03-23 05:02:12 -0500,['/t/science'],Fast Radio Bursts from Extragalactic Light Sails,https://arxiv.org/abs/1701.01109,/u/wgx,10
-0,2017-03-23 10:53:27 -0500,"['/t/visualization', '/t/web']",LOOPY: interactive simulations of feedback systems,http://ncase.me/loopy/,/u/qznc,10
+0,2017-03-24 10:23:04 -0500,"/t/historical,/t/reversing",A Second Life for (very old) C programs,https://tailordev.fr/blog/2017/03/24/second-life-for-c-programs/,/u/355E3B,3
+0,2017-03-24 12:59:27 -0500,"/t/pdf,/t/ruby",MiniTest cheatsheet,https://chriskottom.com/freebies/cheatsheets_free.pdf,/u/pushcx,2
+4,2017-03-23 15:38:37 -0500,"/t/mobile,/t/privacy,/t/security",Wikileaks: CIA Has Been Bugging “Factory Fresh” iPhones Since 2008,https://wikileaks.org/vault7/darkmatter/?cia,/u/chadski,15
+1,2017-03-24 10:35:07 -0500,/t/cryptocurrencies,On the emerging consensus regarding Bitcoin’s block size limit: insights from my visit with…,https://medium.com/@peter_r/on-the-emerging-consensus-regarding-bitcoins-block-size-limit-insights-from-my-visit-with-2348878a16d8,/u/soulcutter,1
+0,2017-03-24 14:14:05 -0500,"/t/slides,/t/databases",Falling In and Out of Love With DynamoDB (2013),http://0x74696d.com/slides/falling-in-and-out-of-love-with-dynamodb.html,/u/asthasr,1
+0,2017-03-24 14:01:44 -0500,"/t/book,/t/rust",The Rust Programming Language (2nd Edition Draft),https://doc.rust-lang.org/nightly/book/second-edition/,/u/utzig,1
+0,2017-03-24 13:56:36 -0500,/t/visualization,NCSU Data Visualization Workshops,https://ncsu-libraries.github.io/data-viz-workshops/,/u/utzig,1
+0,2017-03-24 13:13:12 -0500,"/t/devops,/t/python",Automating Django Deployments with Fabric and Ansible,https://realpython.com/blog/python/automating-django-deployments-with-fabric-and-ansible,/u/pushcx,1
+0,2017-03-24 08:59:22 -0500,"/t/hardware,/t/historical","Before There were Nixie Tubes, There Were Edge-Lit Displays?",http://hackaday.com/2017/03/23/before-there-were-nixie-tubes-there-were-edge-lit-displays/,/u/flyingfisch,2
+0,2017-03-24 08:47:13 -0500,"/t/pdf,/t/historical,/t/unix",Distributing the News - UUCP to UUNET (2015),https://www.usenix.org/system/files/login/articles/login_aug15_09_salus.pdf,/u/mjturner,2
+0,2017-03-24 12:35:10 -0500,/t/lisp,Learning Lisp Fast,http://cs.gmu.edu/~sean/lisp/LispTutorial.html,/u/pushcx,1
+5,2017-03-23 11:48:09 -0500,/t/law,regarding OpenSSL License change,https://marc.info/?l=openbsd-tech&m=149028593819547&w=2,/u/mulander,16
+7,2017-03-23 05:39:54 -0500,"/t/games,/t/lua,/t/programming",Why LÖVE?,https://eev.ee/blog/2017/03/23/why-love/,/u/calvin,29
+31,2017-03-23 01:27:46 -0500,"/t/practices,/t/programming",Pull Request Based Development Sucks,http://lisperator.net/blog/pull-request-based-development-sucks,/u/akkartik,32
+0,2017-03-24 01:13:32 -0500,/t/devops,So you want to be an SRE?,https://medium.com/@khardsonhurley/so-you-want-to-be-an-sre-34e832357a8c,/u/Dawny33,4
+0,2017-03-24 05:22:34 -0500,/t/dotnet,A Hitchhikers Guide to the CoreCLR Source Code,http://www.mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/,/u/calvin,2
+1,2017-03-24 00:18:44 -0500,/t/programming,Building a Command-Line Application with Crystal,https://jclem.net/posts/building-a-command-line-application-with-crystal,/u/av,3
+1,2017-03-23 08:57:31 -0500,/t/security,Make Dragonfly BSD great again!,http://akat1.pl/?id=3,/u/mulander,19
+0,2017-03-24 07:37:12 -0500,"/t/devops,/t/programming,/t/ruby",Pack:er and Terra:deploy a JRuby Application [Part 1],https://dcsg.me/articles/pack-er-and-terra-deploy-a-jruby-application-part-1/,/u/dcsg,0
+0,2017-03-24 06:19:07 -0500,/t/rant,Four key takeaways after 6 months working in the market of chatbots,https://building.sentisis.com/four-key-takeaways-after-6-months-working-in-the-market-of-chatbots-f615561688c8,/u/Mordo,2
+0,2017-03-23 13:16:54 -0500,"/t/browsers,/t/security",Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates,https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ,/u/joshuacc,9
+0,2017-03-24 00:23:09 -0500,"/t/cogsci,/t/math",Recurrent Neural Networks - A Short TensorFlow Tutorial,https://github.com/silicon-valley-data-science/RNN-Tutorial,/u/av,2
+3,2017-03-23 08:29:11 -0500,/t/security,eBay Asks Users to Downgrade Security,https://krebsonsecurity.com/2017/03/ebay-asks-users-to-downgrade-security/,/u/flyingfisch,7
+7,2017-03-23 05:02:12 -0500,/t/science,Fast Radio Bursts from Extragalactic Light Sails,https://arxiv.org/abs/1701.01109,/u/wgx,10
+0,2017-03-23 10:53:27 -0500,"/t/visualization,/t/web",LOOPY: interactive simulations of feedback systems,http://ncase.me/loopy/,/u/qznc,10

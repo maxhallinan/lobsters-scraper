@@ -1,25 +1,25 @@
-0,2017-01-07 14:21:49 -0600,['/t/netbsd'],12″ PowerBook G4 PT5 – Electronic Battle Weapon,https://www.geeklan.co.uk/?p=2175,/u/sevan,10
-0,2017-01-07 22:38:06 -0600,['/t/web'],worrydream/ClimateChange - What can a technologist do about climate change?,https://github.com/worrydream/ClimateChange,/u/sevan,7
-2,2017-01-07 15:13:06 -0600,"['/t/video', '/t/games']",The Ultimate Game Boy Talk (33c3),https://www.youtube.com/watch?v=HyzD8pNlpwI,/u/a-109-107,10
-1,2017-01-07 14:41:57 -0600,"['/t/mobile', '/t/security']",Hidden Voice Commands,http://www.hiddenvoicecommands.com/home,/u/antifuchs,11
-0,2017-01-07 18:15:34 -0600,['/t/math'],king - man + woman is queen; but why?,http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html,/u/pushcx,7
-5,2017-01-07 10:22:45 -0600,"['/t/css', '/t/web']",Shadow Hint for Overflowed Elements,http://codepen.io/tomhodgins/pen/PWqbyz,/u/innovati,4
-14,2017-01-06 12:28:35 -0600,"['/t/privacy', '/t/web']",Visiting a site that uses Disqus comments when not logged in sends the URL to Facebook,https://blog.dantup.com/2017/01/visiting-a-site-that-uses-disqus-comments-when-not-logged-in-sends-the-url-to-facebook/,/u/DanTup,40
-0,2017-01-07 18:38:47 -0600,['/t/science'],Update: High-Risk Satellite Conjunction passes without Incident,http://spaceflight101.com/close-orbital-encounter-january-7-2017/,/u/pushcx,4
-0,2017-01-07 17:14:02 -0600,['/t/haskell'],Intro to Parsing with Parsec in Haskell,https://jakewheat.github.io/intro_to_parsing/,/u/pushcx,4
-3,2017-01-07 08:14:21 -0600,['/t/graphics'],yaft (yet another framebuffer terminal),https://github.com/uobikiemukot/yaft#yaft-yet-another-framebuffer-terminal,/u/dwc,7
-0,2017-01-07 06:31:53 -0600,"['/t/browsers', '/t/security']",A simple demo of phishing by abusing the browser autofill feature,https://github.com/anttiviljami/browser-autofill-phishing,/u/calvin,11
-1,2017-01-07 19:03:46 -0600,"['/t/emacs', '/t/practices', '/t/programming', '/t/vim']",The Sourcegraph Test: 12 more steps to better code,https://text.sourcegraph.com/the-sourcegraph-test-v0-9-12-more-steps-to-better-code-e5c281850c,/u/kartik,1
-0,2017-01-07 12:27:14 -0600,"['/t/api', '/t/c']",Open source divers: libdivecomputer now has manpages!,https://divelog.blue/blog.html?entryid=55,/u/kristapsdz,2
-0,2017-01-07 14:26:59 -0600,"['/t/dotnet', '/t/graphics']",Cross-Platform Graphics in .NET Core,https://medium.com/@cameronaavik/cross-platform-graphics-in-net-core-901be29dabd7,/u/calvin,3
-2,2017-01-07 02:59:19 -0600,"['/t/haskell', '/t/programming']",Green Threads are like Garbage Collection :: FP Complete,https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection,/u/r31r06,10
-5,2017-01-06 21:41:44 -0600,['/t/programming'],The Charly programming language,http://crystal-lang.org/2017/01/06/the-charly-programming-language.html,/u/nil,10
-0,2017-01-07 11:21:39 -0600,"['/t/video', '/t/art']",NES Audio: Brief Explanation of Sound Channels,https://www.youtube.com/watch?v=la3coK5pq5w,/u/merzberimbow,4
-0,2017-01-07 06:54:31 -0600,"['/t/cogsci', '/t/math']",The science of Westworld (an AI Summary),https://blog.plan99.net/the-science-of-westworld-ec624585e47,/u/av,6
-0,2017-01-06 12:53:40 -0600,"['/t/show', '/t/assembly', '/t/programming', '/t/rust']",Rux: A Hobbyist Microkernel Written in Rust,https://github.com/sorpaas/rux,/u/sorpaas,24
-19,2017-01-06 03:15:09 -0600,['/t/unix'],A year with Jehanne (A plan9 based operating system),http://jehanne.io/2017/01/06/a-year-with-jehanne.html,/u/a-109-107,59
-5,2017-01-06 14:18:25 -0600,"['/t/linux', '/t/security']","KillDisk now targeting Linux: Demands $250K ransom, but can’t decrypt",http://www.welivesecurity.com/2017/01/05/killdisk-now-targeting-linux-demands-250k-ransom-cant-decrypt/,/u/calvin,18
-3,2017-01-06 16:40:52 -0600,"['/t/openbsd', '/t/practices']",2016 FOSS tithing,https://burke.services/2016/donations.html,/u/kb,9
-4,2017-01-06 21:40:46 -0600,['/t/crypto'],Analyzing Embedded Operating System Random Number Generators,https://samvartaka.github.io/cryptanalysis/2017/01/03/33c3-embedded-rngs,/u/wally,7
-0,2017-01-07 09:21:53 -0600,"['/t/audio', '/t/networking', '/t/web']",Request for Comments Episode 6: ietf 96 Special I - RIPE,https://requestforcomments.de/archives/280,/u/benzimmer,3
-0,2017-01-07 03:08:55 -0600,"['/t/elixir', '/t/practices']",Building a CQRS/ES web application in Elixir using Phoenix,https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/,/u/jan,6
+0,2017-01-07 14:21:49 -0600,/t/netbsd,12″ PowerBook G4 PT5 – Electronic Battle Weapon,https://www.geeklan.co.uk/?p=2175,/u/sevan,10
+0,2017-01-07 22:38:06 -0600,/t/web,worrydream/ClimateChange - What can a technologist do about climate change?,https://github.com/worrydream/ClimateChange,/u/sevan,7
+2,2017-01-07 15:13:06 -0600,"/t/video,/t/games",The Ultimate Game Boy Talk (33c3),https://www.youtube.com/watch?v=HyzD8pNlpwI,/u/a-109-107,10
+1,2017-01-07 14:41:57 -0600,"/t/mobile,/t/security",Hidden Voice Commands,http://www.hiddenvoicecommands.com/home,/u/antifuchs,11
+0,2017-01-07 18:15:34 -0600,/t/math,king - man + woman is queen; but why?,http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html,/u/pushcx,7
+5,2017-01-07 10:22:45 -0600,"/t/css,/t/web",Shadow Hint for Overflowed Elements,http://codepen.io/tomhodgins/pen/PWqbyz,/u/innovati,4
+14,2017-01-06 12:28:35 -0600,"/t/privacy,/t/web",Visiting a site that uses Disqus comments when not logged in sends the URL to Facebook,https://blog.dantup.com/2017/01/visiting-a-site-that-uses-disqus-comments-when-not-logged-in-sends-the-url-to-facebook/,/u/DanTup,40
+0,2017-01-07 18:38:47 -0600,/t/science,Update: High-Risk Satellite Conjunction passes without Incident,http://spaceflight101.com/close-orbital-encounter-january-7-2017/,/u/pushcx,4
+0,2017-01-07 17:14:02 -0600,/t/haskell,Intro to Parsing with Parsec in Haskell,https://jakewheat.github.io/intro_to_parsing/,/u/pushcx,4
+3,2017-01-07 08:14:21 -0600,/t/graphics,yaft (yet another framebuffer terminal),https://github.com/uobikiemukot/yaft#yaft-yet-another-framebuffer-terminal,/u/dwc,7
+0,2017-01-07 06:31:53 -0600,"/t/browsers,/t/security",A simple demo of phishing by abusing the browser autofill feature,https://github.com/anttiviljami/browser-autofill-phishing,/u/calvin,11
+1,2017-01-07 19:03:46 -0600,"/t/emacs,/t/practices,/t/programming,/t/vim",The Sourcegraph Test: 12 more steps to better code,https://text.sourcegraph.com/the-sourcegraph-test-v0-9-12-more-steps-to-better-code-e5c281850c,/u/kartik,1
+0,2017-01-07 12:27:14 -0600,"/t/api,/t/c",Open source divers: libdivecomputer now has manpages!,https://divelog.blue/blog.html?entryid=55,/u/kristapsdz,2
+0,2017-01-07 14:26:59 -0600,"/t/dotnet,/t/graphics",Cross-Platform Graphics in .NET Core,https://medium.com/@cameronaavik/cross-platform-graphics-in-net-core-901be29dabd7,/u/calvin,3
+2,2017-01-07 02:59:19 -0600,"/t/haskell,/t/programming",Green Threads are like Garbage Collection :: FP Complete,https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection,/u/r31r06,10
+5,2017-01-06 21:41:44 -0600,/t/programming,The Charly programming language,http://crystal-lang.org/2017/01/06/the-charly-programming-language.html,/u/nil,10
+0,2017-01-07 11:21:39 -0600,"/t/video,/t/art",NES Audio: Brief Explanation of Sound Channels,https://www.youtube.com/watch?v=la3coK5pq5w,/u/merzberimbow,4
+0,2017-01-07 06:54:31 -0600,"/t/cogsci,/t/math",The science of Westworld (an AI Summary),https://blog.plan99.net/the-science-of-westworld-ec624585e47,/u/av,6
+0,2017-01-06 12:53:40 -0600,"/t/show,/t/assembly,/t/programming,/t/rust",Rux: A Hobbyist Microkernel Written in Rust,https://github.com/sorpaas/rux,/u/sorpaas,24
+19,2017-01-06 03:15:09 -0600,/t/unix,A year with Jehanne (A plan9 based operating system),http://jehanne.io/2017/01/06/a-year-with-jehanne.html,/u/a-109-107,59
+5,2017-01-06 14:18:25 -0600,"/t/linux,/t/security","KillDisk now targeting Linux: Demands $250K ransom, but can’t decrypt",http://www.welivesecurity.com/2017/01/05/killdisk-now-targeting-linux-demands-250k-ransom-cant-decrypt/,/u/calvin,18
+3,2017-01-06 16:40:52 -0600,"/t/openbsd,/t/practices",2016 FOSS tithing,https://burke.services/2016/donations.html,/u/kb,9
+4,2017-01-06 21:40:46 -0600,/t/crypto,Analyzing Embedded Operating System Random Number Generators,https://samvartaka.github.io/cryptanalysis/2017/01/03/33c3-embedded-rngs,/u/wally,7
+0,2017-01-07 09:21:53 -0600,"/t/audio,/t/networking,/t/web",Request for Comments Episode 6: ietf 96 Special I - RIPE,https://requestforcomments.de/archives/280,/u/benzimmer,3
+0,2017-01-07 03:08:55 -0600,"/t/elixir,/t/practices",Building a CQRS/ES web application in Elixir using Phoenix,https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/,/u/jan,6

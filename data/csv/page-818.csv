@@ -1,25 +1,25 @@
-3,2016-04-10 04:11:51 -0500,"['/t/pdf', '/t/privacy', '/t/security']",WhatsApp Encryption Overview (Technical white paper),https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf,/u/quad,13
-7,2016-04-10 09:59:19 -0500,"['/t/hardware', '/t/javascript', '/t/programming', '/t/web']",WebUSB API,https://wicg.github.io/webusb/,/u/geocar,4
-0,2016-04-10 12:39:22 -0500,"['/t/linux', '/t/reversing', '/t/security']",Mumblehard takedown ends army of Linux servers from spamming,http://www.welivesecurity.com/2016/04/07/mumblehard-takedown-ends-army-of-linux-servers-from-spamming/,/u/mulander,5
-0,2016-04-10 08:23:40 -0500,"['/t/devops', '/t/distributed']",How does a Prometheus Counter work?,http://www.robustperception.io/how-does-a-prometheus-counter-work/,/u/bbrazil,4
-0,2016-04-10 12:05:50 -0500,"['/t/linux', '/t/security']",CVE-2016-3672 - Unlimiting the stack not longer disables ASLR,http://hmarco.org/bugs/CVE-2016-3672-Unlimiting-the-stack-not-longer-disables-ASLR.html,/u/sevan,5
-0,2016-04-10 11:20:24 -0500,"['/t/linux', '/t/security', '/t/web']",KeyBox: Web-Based SSH Access and Key Management,https://github.com/skavanagh/KeyBox,/u/voidzero,5
-0,2016-04-10 10:43:05 -0500,"['/t/c', '/t/programming']",“Don’t cross the streams”: Thread safety and memory accesses at the speed of light,http://developers.redhat.com/blog/2016/04/06/dont-cross-the-streams-thread-safety-and-memory-accesses-at-the-speed-of-light/,/u/svag,5
-1,2016-04-10 06:01:09 -0500,"['/t/reversing', '/t/security']",The 3DS Cryptosystem,http://yifan.lu/2016/04/06/the-3ds-cryptosystem/,/u/355E3B,7
-0,2016-04-10 05:56:28 -0500,"['/t/video', '/t/go', '/t/programming']",Go Proverbs - Rob Pike,https://www.youtube.com/watch?v=PAAkCSZUG1c,/u/sevan,7
-0,2016-04-10 14:08:49 -0500,['/t/programming'],Shell Style Guidelines,https://www.chromium.org/chromium-os/shell-style-guidelines,/u/robin,2
-0,2016-04-10 13:00:27 -0500,"['/t/culture', '/t/philosophy', '/t/practices']",How I’ve Avoided Burnout During More Than 3 Decades As A Programmer (2015),http://thecodist.com/article/how-i-ve-avoided-burnout-during-more-than-3-decades-as-a-programmer,/u/mulander,5
-4,2016-04-09 17:26:52 -0500,"['/t/pdf', '/t/haskell', '/t/programming']",Non-Recursive Make Considered Harmful,http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf,/u/tedu,10
-1,2016-04-09 13:08:17 -0500,"['/t/video', '/t/linux']",The mind behind Linux,https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux,/u/mulander,20
-11,2016-04-09 10:06:15 -0500,"['/t/databases', '/t/openbsd']",PostgreSQL - Add BSD authentication method,https://github.com/postgres/postgres/commit/34c33a1f00259ce5e3e1d1b4a784037adfca6057,/u/mulander,17
-10,2016-04-09 09:12:11 -0500,['/t/vcs'],Force push with care,https://robots.thoughtbot.com/git-push-force-with-lease,/u/feoh,16
-0,2016-04-09 15:49:56 -0500,"['/t/games', '/t/linux']",Thoughts on Linux,http://www.shiningrocksoftware.com/2016-04-09-thoughts-on-linux/,/u/mulander,15
-1,2016-04-10 07:17:51 -0500,['/t/practices'],Understanding Model-View-Controller,https://www.gitbook.com/book/stefanoborini/modelviewcontroller,/u/dominicm,2
-1,2016-04-09 15:28:43 -0500,"['/t/api', '/t/web']","chartd - responsive, retina-compatible charts with just an img tag",http://chartd.co,/u/patrickxb,6
-2,2016-04-09 13:06:46 -0500,['/t/mac'],"My Brain, Apple and the Transfer of Fragility",http://lukasz.langa.pl/10/my-brain-apple-and-transfer-of-fragility/,/u/jan,14
-3,2016-04-09 09:39:52 -0500,"['/t/java', '/t/testing']",Experimental Hypothesis port for Java,https://github.com/DRMacIver/hypothesis4j,/u/DRMacIver,6
-9,2016-04-08 19:38:59 -0500,"['/t/person', '/t/practices']",Knuth versus Email,http://cs.stanford.edu/~uno/email.html,/u/joshuacc,20
-0,2016-04-09 13:45:29 -0500,"['/t/android', '/t/emacs']",Running Emacs on Android,http://endlessparentheses.com/running-emacs-on-android.html,/u/mulander,5
-0,2016-04-09 19:54:41 -0500,"['/t/erlang', '/t/javascript', '/t/networking', '/t/python', '/t/scaling', '/t/testing', '/t/web']","A comparison between Misultin, Mochiweb, Cowboy, NodeJS and Tornadoweb (2011)",http://www.ostinelli.net/a-comparison-between-misultin-mochiweb-cowboy-nodejs-and-tornadoweb/,/u/cnst,2
-10,2016-04-08 11:05:26 -0500,"['/t/openbsd', '/t/programming']",Support of OpenBSD pledge(2) in programming languages,https://gist.github.com/ligurio/f6114bd1df371047dd80ea9b8a55c104,/u/calvin,34
-0,2016-04-08 19:45:37 -0500,['/t/practices'],Knowledge Workers are Bad at Working (and Here’s What to Do About It…),http://calnewport.com/blog/2012/11/21/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/,/u/joshuacc,20
+3,2016-04-10 04:11:51 -0500,"/t/pdf,/t/privacy,/t/security",WhatsApp Encryption Overview (Technical white paper),https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf,/u/quad,13
+7,2016-04-10 09:59:19 -0500,"/t/hardware,/t/javascript,/t/programming,/t/web",WebUSB API,https://wicg.github.io/webusb/,/u/geocar,4
+0,2016-04-10 12:39:22 -0500,"/t/linux,/t/reversing,/t/security",Mumblehard takedown ends army of Linux servers from spamming,http://www.welivesecurity.com/2016/04/07/mumblehard-takedown-ends-army-of-linux-servers-from-spamming/,/u/mulander,5
+0,2016-04-10 08:23:40 -0500,"/t/devops,/t/distributed",How does a Prometheus Counter work?,http://www.robustperception.io/how-does-a-prometheus-counter-work/,/u/bbrazil,4
+0,2016-04-10 12:05:50 -0500,"/t/linux,/t/security",CVE-2016-3672 - Unlimiting the stack not longer disables ASLR,http://hmarco.org/bugs/CVE-2016-3672-Unlimiting-the-stack-not-longer-disables-ASLR.html,/u/sevan,5
+0,2016-04-10 11:20:24 -0500,"/t/linux,/t/security,/t/web",KeyBox: Web-Based SSH Access and Key Management,https://github.com/skavanagh/KeyBox,/u/voidzero,5
+0,2016-04-10 10:43:05 -0500,"/t/c,/t/programming",“Don’t cross the streams”: Thread safety and memory accesses at the speed of light,http://developers.redhat.com/blog/2016/04/06/dont-cross-the-streams-thread-safety-and-memory-accesses-at-the-speed-of-light/,/u/svag,5
+1,2016-04-10 06:01:09 -0500,"/t/reversing,/t/security",The 3DS Cryptosystem,http://yifan.lu/2016/04/06/the-3ds-cryptosystem/,/u/355E3B,7
+0,2016-04-10 05:56:28 -0500,"/t/video,/t/go,/t/programming",Go Proverbs - Rob Pike,https://www.youtube.com/watch?v=PAAkCSZUG1c,/u/sevan,7
+0,2016-04-10 14:08:49 -0500,/t/programming,Shell Style Guidelines,https://www.chromium.org/chromium-os/shell-style-guidelines,/u/robin,2
+0,2016-04-10 13:00:27 -0500,"/t/culture,/t/philosophy,/t/practices",How I’ve Avoided Burnout During More Than 3 Decades As A Programmer (2015),http://thecodist.com/article/how-i-ve-avoided-burnout-during-more-than-3-decades-as-a-programmer,/u/mulander,5
+4,2016-04-09 17:26:52 -0500,"/t/pdf,/t/haskell,/t/programming",Non-Recursive Make Considered Harmful,http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf,/u/tedu,10
+1,2016-04-09 13:08:17 -0500,"/t/video,/t/linux",The mind behind Linux,https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux,/u/mulander,20
+11,2016-04-09 10:06:15 -0500,"/t/databases,/t/openbsd",PostgreSQL - Add BSD authentication method,https://github.com/postgres/postgres/commit/34c33a1f00259ce5e3e1d1b4a784037adfca6057,/u/mulander,17
+10,2016-04-09 09:12:11 -0500,/t/vcs,Force push with care,https://robots.thoughtbot.com/git-push-force-with-lease,/u/feoh,16
+0,2016-04-09 15:49:56 -0500,"/t/games,/t/linux",Thoughts on Linux,http://www.shiningrocksoftware.com/2016-04-09-thoughts-on-linux/,/u/mulander,15
+1,2016-04-10 07:17:51 -0500,/t/practices,Understanding Model-View-Controller,https://www.gitbook.com/book/stefanoborini/modelviewcontroller,/u/dominicm,2
+1,2016-04-09 15:28:43 -0500,"/t/api,/t/web","chartd - responsive, retina-compatible charts with just an img tag",http://chartd.co,/u/patrickxb,6
+2,2016-04-09 13:06:46 -0500,/t/mac,"My Brain, Apple and the Transfer of Fragility",http://lukasz.langa.pl/10/my-brain-apple-and-transfer-of-fragility/,/u/jan,14
+3,2016-04-09 09:39:52 -0500,"/t/java,/t/testing",Experimental Hypothesis port for Java,https://github.com/DRMacIver/hypothesis4j,/u/DRMacIver,6
+9,2016-04-08 19:38:59 -0500,"/t/person,/t/practices",Knuth versus Email,http://cs.stanford.edu/~uno/email.html,/u/joshuacc,20
+0,2016-04-09 13:45:29 -0500,"/t/android,/t/emacs",Running Emacs on Android,http://endlessparentheses.com/running-emacs-on-android.html,/u/mulander,5
+0,2016-04-09 19:54:41 -0500,"/t/erlang,/t/javascript,/t/networking,/t/python,/t/scaling,/t/testing,/t/web","A comparison between Misultin, Mochiweb, Cowboy, NodeJS and Tornadoweb (2011)",http://www.ostinelli.net/a-comparison-between-misultin-mochiweb-cowboy-nodejs-and-tornadoweb/,/u/cnst,2
+10,2016-04-08 11:05:26 -0500,"/t/openbsd,/t/programming",Support of OpenBSD pledge(2) in programming languages,https://gist.github.com/ligurio/f6114bd1df371047dd80ea9b8a55c104,/u/calvin,34
+0,2016-04-08 19:45:37 -0500,/t/practices,Knowledge Workers are Bad at Working (and Here’s What to Do About It…),http://calnewport.com/blog/2012/11/21/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/,/u/joshuacc,20

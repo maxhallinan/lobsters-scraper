@@ -1,25 +1,25 @@
-3,2016-12-07 11:47:32 -0600,['/t/javascript'],Announcing TypeScript 2.1,https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/,/u/mariusschulz,8
-0,2016-12-07 13:01:24 -0600,"['/t/design', '/t/release']",Yoga: A cross-platform layout engine,https://code.facebook.com/posts/1751945575131606,/u/355E3B,6
-0,2016-12-07 07:34:29 -0600,"['/t/pdf', '/t/finance', '/t/security']",Does The Online Card Payment Landscape Unwittingly Facilitate Fraud?,http://eprint.ncl.ac.uk/file_store/production/230123/19180242-D02E-47AC-BDB3-73C22D6E1FDB.pdf,/u/calvin,7
-0,2016-12-07 08:00:31 -0600,"['/t/c', '/t/networking', '/t/programming']",Add the Stackless Coroutines for tbox,http://www.tboox.org/2016/12/03/stackless-coroutine/,/u/ruki,4
-0,2016-12-07 17:41:43 -0600,['/t/perl'],Day 7 — Set In Your Ways: Perl 6’s Setty and Baggy Types,https://perl6advent.wordpress.com/2016/12/07/set-in-your-ways-perl-6s-setty-and-baggy-types/,/u/chadski,2
-11,2016-12-06 10:30:09 -0600,['/t/crypto'],I'm giving up on PGP,https://blog.filippo.io/giving-up-on-long-term-pgp/,/u/edd,49
-11,2016-12-06 09:50:52 -0600,"['/t/devops', '/t/practices']",No More On-Call Martyrs,http://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html,/u/ChrisShort,41
-0,2016-12-07 07:18:03 -0600,"['/t/games', '/t/release']",DoomRL source code released,https://github.com/ChaosForge/doomrl,/u/mulander,7
-0,2016-12-06 19:11:41 -0600,"['/t/compsci', '/t/historical', '/t/programming']",P″ - The original Brainf*ck and mother of the Turing tarpits,https://dev.to/buntine/p---the-original-brainfck-and-mother-of-the-turing-tarpits,/u/buntine,13
-5,2016-12-06 13:16:27 -0600,"['/t/programming', '/t/visualization']",The half-life of code and the ship of Theseus,https://erikbern.com/2016/12/05/the-half-life-of-code.html,/u/mjn,29
-5,2016-12-07 01:01:45 -0600,['/t/dotnet'],F# pain points,http://www.colinbellmore.work/post/fsharp-pain/,/u/zem,6
-3,2016-12-06 19:47:09 -0600,['/t/programming'],Spry Language,http://sprylang.org/index.html,/u/zgrep,16
-0,2016-12-06 23:36:52 -0600,['/t/design'],Dark Patterns - User Interfaces Designed to Trick People,http://darkpatterns.org/,/u/av,12
-6,2016-12-06 07:34:40 -0600,['/t/vim'],Neovim - Newsletter #7 - Summer of Road,https://neovim.io/news/2016/11/,/u/geier,35
-1,2016-12-06 23:03:11 -0600,"['/t/pdf', '/t/book', '/t/compsci', '/t/haskell']",Liquid Haskell: Haskell as a Theorem Prover,http://goto.ucsd.edu/~nvazou/thesis/main.pdf,/u/pushcx,9
-13,2016-12-06 09:40:40 -0600,"['/t/api', '/t/web']",HTML for Microservices,https://blog.gladwell.me/html-microservices.html,/u/rgladwell,11
-24,2016-12-06 08:07:07 -0600,"['/t/pdf', '/t/compsci']",A Short Introduction to the Lambda Calculus,http://www.cs.bham.ac.uk/~axj/pub/papers/lambda-calculus.pdf,/u/asthasr,20
-0,2016-12-06 21:49:17 -0600,"['/t/erlang', '/t/practices', '/t/testing']",How Do I Test?,https://medium.com/erlang-battleground/how-do-i-test-a9658a83c392,/u/elbrujohalcon,4
-6,2016-12-06 10:48:02 -0600,"['/t/freebsd', '/t/netbsd', '/t/openbsd']",Vulnerability Note VU#548487 - BSD libc contains a buffer overflow vulnerability,https://www.kb.cert.org/vuls/id/548487,/u/lattera,17
-4,2016-12-06 14:29:02 -0600,"['/t/javascript', '/t/ruby', '/t/web']",Rails 5.1 might be gaining webpack and yarn support out of the box,https://github.com/rails/rails/pull/26836#issuecomment-264242030,/u/jtdowney,10
-0,2016-12-06 11:21:16 -0600,"['/t/databases', '/t/devops', '/t/distributed', '/t/go', '/t/programming', '/t/scaling']",oklog/ulid: Universally Unique Lexicographically Sortable Identifier in Go,https://github.com/oklog/ulid,/u/tsenart,11
-3,2016-12-06 13:51:31 -0600,"['/t/css', '/t/practices']",Madding and pargins — write maintainable CSS,https://blog.candlewaster.co/madding-and-pargins-write-maintainable-css/,/u/pizzaiolo,7
-0,2016-12-06 16:27:41 -0600,"['/t/networking', '/t/security']","The Orphaned Internet – Taking Over 120K Domains via a DNS Vulnerability in AWS, Google Cloud, Rackspace and Digital Ocean",https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html,/u/pushcx,7
-1,2016-12-07 02:59:37 -0600,"['/t/culture', '/t/satire']",How to Pay Programmers Less,http://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html,/u/av,6
-1,2016-12-06 11:47:12 -0600,"['/t/hardware', '/t/linux', '/t/mac']",Linux on the Mac — state of the union,https://lwn.net/SubscriberLink/707616/cf37d7edcb88444f/,/u/calvin,7
+3,2016-12-07 11:47:32 -0600,/t/javascript,Announcing TypeScript 2.1,https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/,/u/mariusschulz,8
+0,2016-12-07 13:01:24 -0600,"/t/design,/t/release",Yoga: A cross-platform layout engine,https://code.facebook.com/posts/1751945575131606,/u/355E3B,6
+0,2016-12-07 07:34:29 -0600,"/t/pdf,/t/finance,/t/security",Does The Online Card Payment Landscape Unwittingly Facilitate Fraud?,http://eprint.ncl.ac.uk/file_store/production/230123/19180242-D02E-47AC-BDB3-73C22D6E1FDB.pdf,/u/calvin,7
+0,2016-12-07 08:00:31 -0600,"/t/c,/t/networking,/t/programming",Add the Stackless Coroutines for tbox,http://www.tboox.org/2016/12/03/stackless-coroutine/,/u/ruki,4
+0,2016-12-07 17:41:43 -0600,/t/perl,Day 7 — Set In Your Ways: Perl 6’s Setty and Baggy Types,https://perl6advent.wordpress.com/2016/12/07/set-in-your-ways-perl-6s-setty-and-baggy-types/,/u/chadski,2
+11,2016-12-06 10:30:09 -0600,/t/crypto,I'm giving up on PGP,https://blog.filippo.io/giving-up-on-long-term-pgp/,/u/edd,49
+11,2016-12-06 09:50:52 -0600,"/t/devops,/t/practices",No More On-Call Martyrs,http://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html,/u/ChrisShort,41
+0,2016-12-07 07:18:03 -0600,"/t/games,/t/release",DoomRL source code released,https://github.com/ChaosForge/doomrl,/u/mulander,7
+0,2016-12-06 19:11:41 -0600,"/t/compsci,/t/historical,/t/programming",P″ - The original Brainf*ck and mother of the Turing tarpits,https://dev.to/buntine/p---the-original-brainfck-and-mother-of-the-turing-tarpits,/u/buntine,13
+5,2016-12-06 13:16:27 -0600,"/t/programming,/t/visualization",The half-life of code and the ship of Theseus,https://erikbern.com/2016/12/05/the-half-life-of-code.html,/u/mjn,29
+5,2016-12-07 01:01:45 -0600,/t/dotnet,F# pain points,http://www.colinbellmore.work/post/fsharp-pain/,/u/zem,6
+3,2016-12-06 19:47:09 -0600,/t/programming,Spry Language,http://sprylang.org/index.html,/u/zgrep,16
+0,2016-12-06 23:36:52 -0600,/t/design,Dark Patterns - User Interfaces Designed to Trick People,http://darkpatterns.org/,/u/av,12
+6,2016-12-06 07:34:40 -0600,/t/vim,Neovim - Newsletter #7 - Summer of Road,https://neovim.io/news/2016/11/,/u/geier,35
+1,2016-12-06 23:03:11 -0600,"/t/pdf,/t/book,/t/compsci,/t/haskell",Liquid Haskell: Haskell as a Theorem Prover,http://goto.ucsd.edu/~nvazou/thesis/main.pdf,/u/pushcx,9
+13,2016-12-06 09:40:40 -0600,"/t/api,/t/web",HTML for Microservices,https://blog.gladwell.me/html-microservices.html,/u/rgladwell,11
+24,2016-12-06 08:07:07 -0600,"/t/pdf,/t/compsci",A Short Introduction to the Lambda Calculus,http://www.cs.bham.ac.uk/~axj/pub/papers/lambda-calculus.pdf,/u/asthasr,20
+0,2016-12-06 21:49:17 -0600,"/t/erlang,/t/practices,/t/testing",How Do I Test?,https://medium.com/erlang-battleground/how-do-i-test-a9658a83c392,/u/elbrujohalcon,4
+6,2016-12-06 10:48:02 -0600,"/t/freebsd,/t/netbsd,/t/openbsd",Vulnerability Note VU#548487 - BSD libc contains a buffer overflow vulnerability,https://www.kb.cert.org/vuls/id/548487,/u/lattera,17
+4,2016-12-06 14:29:02 -0600,"/t/javascript,/t/ruby,/t/web",Rails 5.1 might be gaining webpack and yarn support out of the box,https://github.com/rails/rails/pull/26836#issuecomment-264242030,/u/jtdowney,10
+0,2016-12-06 11:21:16 -0600,"/t/databases,/t/devops,/t/distributed,/t/go,/t/programming,/t/scaling",oklog/ulid: Universally Unique Lexicographically Sortable Identifier in Go,https://github.com/oklog/ulid,/u/tsenart,11
+3,2016-12-06 13:51:31 -0600,"/t/css,/t/practices",Madding and pargins — write maintainable CSS,https://blog.candlewaster.co/madding-and-pargins-write-maintainable-css/,/u/pizzaiolo,7
+0,2016-12-06 16:27:41 -0600,"/t/networking,/t/security","The Orphaned Internet – Taking Over 120K Domains via a DNS Vulnerability in AWS, Google Cloud, Rackspace and Digital Ocean",https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html,/u/pushcx,7
+1,2016-12-07 02:59:37 -0600,"/t/culture,/t/satire",How to Pay Programmers Less,http://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html,/u/av,6
+1,2016-12-06 11:47:12 -0600,"/t/hardware,/t/linux,/t/mac",Linux on the Mac — state of the union,https://lwn.net/SubscriberLink/707616/cf37d7edcb88444f/,/u/calvin,7

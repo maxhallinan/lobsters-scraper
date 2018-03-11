@@ -1,25 +1,25 @@
-1,2016-10-25 16:59:41 -0500,['/t/visualization'],Music Theory: An Education from First Principles,http://www.lightnote.co/,/u/akalin,7
-0,2016-10-26 02:55:08 -0500,"['/t/databases', '/t/practices']",High-volume reindexing in a single Elasticsearch cluster without disturbing your clients,https://thoughts.t37.net/abusing-an-innocent-elasticsearch-cluster-for-a-mass-reindex-without-disturbing-your-clients-360384fca105,/u/skade,2
-1,2016-10-25 09:41:48 -0500,"['/t/programming', '/t/security']",The SaaS CTO Security Checklist,http://cto-security-checklist.sqreen.io/,/u/PaulBlei,6
-6,2016-10-25 10:13:10 -0500,"['/t/javascript', '/t/math']",MathJax: A JavaScript display engine for mathematics that works in all browsers.,http://www.mathjax.org/,/u/unbalancedparentheses,7
-6,2016-10-25 10:11:33 -0500,['/t/testing'],Limits of QuickCheck,http://get-finch.com/2016/10/23/limits-of-quickcheck.html,/u/unbalancedparentheses,7
-0,2016-10-26 10:17:52 -0500,"['/t/audio', '/t/culture', '/t/practices']",In Praise of Maintenance,http://freakonomics.com/podcast/in-praise-of-maintenance/,/u/jcs,1
-0,2016-10-25 12:28:12 -0500,"['/t/javascript', '/t/release']",Node.js v7.0.0,https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V7.md,/u/av,9
-3,2016-10-25 12:16:16 -0500,"['/t/pdf', '/t/science']",Discovery of peculiar periodic spectral modulations in a small fraction of solar type stars,https://arxiv.org/pdf/1610.03031v1.pdf,/u/pushcx,6
-1,2016-10-25 15:14:13 -0500,['/t/elixir'],Changelog.com is Open Source,https://changelog.com/posts/changelog-is-open-source,/u/kGb8RNFtg6,4
-2,2016-10-25 01:24:16 -0500,['/t/web'],Distrusting New WoSign and StartCom Certificates,https://blog.mozilla.org/security/2016/10/24/distrusting-new-wosign-and-startcom-certificates/,/u/cnst,21
-0,2016-10-25 08:08:13 -0500,"['/t/android', '/t/linux', '/t/security']",Android phones rooted by “most serious” Linux escalation bug ever,http://arstechnica.com/security/2016/10/android-phones-rooted-by-most-serious-linux-escalation-bug-ever/,/u/asthasr,11
-0,2016-10-25 05:22:09 -0500,['/t/c'],"main(){printf(&unix[""\021%six\012\0""], (unix)[""have""]+""fun""-0x60);}",http://faehnri.ch//have-fun/,/u/calvin,13
-53,2016-10-24 13:27:04 -0500,['/t/vcs'],What’s wrong with Git? A conceptual design analysis,https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/,/u/unbalancedparentheses,34
-0,2016-10-25 14:01:56 -0500,['/t/historical'],Social Media’s Dial-Up Ancestor: The Bulletin Board System,http://spectrum.ieee.org/computing/networks/social-medias-dialup-ancestor-the-bulletin-board-system,/u/mjn,3
-1,2016-10-25 12:36:23 -0500,"['/t/programming', '/t/python']",3d Mandelbrot fractal in Blender python,http://slicker.me/blender/3d_mandelbrot.htm,/u/zem,2
-0,2016-10-25 02:25:37 -0500,['/t/api'],JSONApi is a blessing for offline ready apps,http://www.birbit.com/jsonapi-is-a-blessing-for-offline-ready-apps/,/u/hoopla,12
-3,2016-10-25 21:44:07 -0500,"['/t/culture', '/t/networking', '/t/practices']",Advancing our amazing bet,http://googlefiberblog.blogspot.com/2016/10/advancing-our-amazing-bet.html,/u/ngoldbaum,2
-0,2016-10-25 08:01:43 -0500,['/t/security'],Introduction to Cyber Security,https://cybersecuritybase.github.io/,/u/av,6
-1,2016-10-24 17:14:12 -0500,['/t/math'],0x5f3759df,http://h14s.p5r.org/2012/09/0x5f3759df.html,/u/calvin,28
-4,2016-10-24 10:49:10 -0500,"['/t/debugging', '/t/games']",A New Impossible Coin,https://www.youtube.com/watch?v=iPILIf7ru48,/u/pushcx,37
-0,2016-10-25 14:40:37 -0500,"['/t/design', '/t/visualization']",Beautiful colormaps for oceanography: cmocean,http://matplotlib.org/cmocean/,/u/ngoldbaum,2
-0,2016-10-25 07:45:39 -0500,"['/t/javascript', '/t/nodejs', '/t/web']","Published a post about Ramda, Sanctuary, and #elmlang",https://www.romanzolotarev.com/pagination/,/u/romanzolotarev,2
-1,2016-10-25 10:05:47 -0500,"['/t/pdf', '/t/practices', '/t/web']",From PDF to PWP: A vision for compound web documents,https://blog.jonudell.net/2016/10/15/from-pdf-to-pwp-a-vision-for-compound-web-documents/,/u/quobit,2
-0,2016-10-25 12:32:00 -0500,['/t/javascript'],Next.js – A small framework for server-rendered universal JavaScript apps,https://zeit.co/blog/next,/u/av,2
-0,2016-10-25 12:24:41 -0500,"['/t/c', '/t/math', '/t/programming']",Hexadecimal Floating-Point Constants,http://www.exploringbinary.com/hexadecimal-floating-point-constants/,/u/zem,2
+1,2016-10-25 16:59:41 -0500,/t/visualization,Music Theory: An Education from First Principles,http://www.lightnote.co/,/u/akalin,7
+0,2016-10-26 02:55:08 -0500,"/t/databases,/t/practices",High-volume reindexing in a single Elasticsearch cluster without disturbing your clients,https://thoughts.t37.net/abusing-an-innocent-elasticsearch-cluster-for-a-mass-reindex-without-disturbing-your-clients-360384fca105,/u/skade,2
+1,2016-10-25 09:41:48 -0500,"/t/programming,/t/security",The SaaS CTO Security Checklist,http://cto-security-checklist.sqreen.io/,/u/PaulBlei,6
+6,2016-10-25 10:13:10 -0500,"/t/javascript,/t/math",MathJax: A JavaScript display engine for mathematics that works in all browsers.,http://www.mathjax.org/,/u/unbalancedparentheses,7
+6,2016-10-25 10:11:33 -0500,/t/testing,Limits of QuickCheck,http://get-finch.com/2016/10/23/limits-of-quickcheck.html,/u/unbalancedparentheses,7
+0,2016-10-26 10:17:52 -0500,"/t/audio,/t/culture,/t/practices",In Praise of Maintenance,http://freakonomics.com/podcast/in-praise-of-maintenance/,/u/jcs,1
+0,2016-10-25 12:28:12 -0500,"/t/javascript,/t/release",Node.js v7.0.0,https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V7.md,/u/av,9
+3,2016-10-25 12:16:16 -0500,"/t/pdf,/t/science",Discovery of peculiar periodic spectral modulations in a small fraction of solar type stars,https://arxiv.org/pdf/1610.03031v1.pdf,/u/pushcx,6
+1,2016-10-25 15:14:13 -0500,/t/elixir,Changelog.com is Open Source,https://changelog.com/posts/changelog-is-open-source,/u/kGb8RNFtg6,4
+2,2016-10-25 01:24:16 -0500,/t/web,Distrusting New WoSign and StartCom Certificates,https://blog.mozilla.org/security/2016/10/24/distrusting-new-wosign-and-startcom-certificates/,/u/cnst,21
+0,2016-10-25 08:08:13 -0500,"/t/android,/t/linux,/t/security",Android phones rooted by “most serious” Linux escalation bug ever,http://arstechnica.com/security/2016/10/android-phones-rooted-by-most-serious-linux-escalation-bug-ever/,/u/asthasr,11
+0,2016-10-25 05:22:09 -0500,/t/c,"main(){printf(&unix[""\021%six\012\0""], (unix)[""have""]+""fun""-0x60);}",http://faehnri.ch//have-fun/,/u/calvin,13
+53,2016-10-24 13:27:04 -0500,/t/vcs,What’s wrong with Git? A conceptual design analysis,https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/,/u/unbalancedparentheses,34
+0,2016-10-25 14:01:56 -0500,/t/historical,Social Media’s Dial-Up Ancestor: The Bulletin Board System,http://spectrum.ieee.org/computing/networks/social-medias-dialup-ancestor-the-bulletin-board-system,/u/mjn,3
+1,2016-10-25 12:36:23 -0500,"/t/programming,/t/python",3d Mandelbrot fractal in Blender python,http://slicker.me/blender/3d_mandelbrot.htm,/u/zem,2
+0,2016-10-25 02:25:37 -0500,/t/api,JSONApi is a blessing for offline ready apps,http://www.birbit.com/jsonapi-is-a-blessing-for-offline-ready-apps/,/u/hoopla,12
+3,2016-10-25 21:44:07 -0500,"/t/culture,/t/networking,/t/practices",Advancing our amazing bet,http://googlefiberblog.blogspot.com/2016/10/advancing-our-amazing-bet.html,/u/ngoldbaum,2
+0,2016-10-25 08:01:43 -0500,/t/security,Introduction to Cyber Security,https://cybersecuritybase.github.io/,/u/av,6
+1,2016-10-24 17:14:12 -0500,/t/math,0x5f3759df,http://h14s.p5r.org/2012/09/0x5f3759df.html,/u/calvin,28
+4,2016-10-24 10:49:10 -0500,"/t/debugging,/t/games",A New Impossible Coin,https://www.youtube.com/watch?v=iPILIf7ru48,/u/pushcx,37
+0,2016-10-25 14:40:37 -0500,"/t/design,/t/visualization",Beautiful colormaps for oceanography: cmocean,http://matplotlib.org/cmocean/,/u/ngoldbaum,2
+0,2016-10-25 07:45:39 -0500,"/t/javascript,/t/nodejs,/t/web","Published a post about Ramda, Sanctuary, and #elmlang",https://www.romanzolotarev.com/pagination/,/u/romanzolotarev,2
+1,2016-10-25 10:05:47 -0500,"/t/pdf,/t/practices,/t/web",From PDF to PWP: A vision for compound web documents,https://blog.jonudell.net/2016/10/15/from-pdf-to-pwp-a-vision-for-compound-web-documents/,/u/quobit,2
+0,2016-10-25 12:32:00 -0500,/t/javascript,Next.js – A small framework for server-rendered universal JavaScript apps,https://zeit.co/blog/next,/u/av,2
+0,2016-10-25 12:24:41 -0500,"/t/c,/t/math,/t/programming",Hexadecimal Floating-Point Constants,http://www.exploringbinary.com/hexadecimal-floating-point-constants/,/u/zem,2

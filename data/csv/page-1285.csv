@@ -1,25 +1,25 @@
-0,2014-07-21 08:50:08 -0500,['/t/compsci'],What is memory safety?,http://www.pl-enthusiast.net/2014/07/21/memory-safety/,/u/lcapaldo,11
-0,2014-07-21 15:36:31 -0500,['/t/security'],Your Voice Assistant is Mine: How to Abuse Speakers to Steal Information and Control Your Phone,http://arxiv-web3.library.cornell.edu/abs/1407.4923,/u/zod000,4
-2,2014-07-21 15:18:55 -0500,"['/t/rant', '/t/satire']",The Great Whitespace Debate,https://medium.com/p/3633cba8b5c1,/u/steveklabnik,14
-4,2014-07-21 11:34:58 -0500,['/t/distributed'],Designing a system that doesn't drop messages on the floor,http://yellerapp.com/posts/2014-07-20-no-exceptions-left-behind.html,/u/kb,3
-0,2014-07-21 19:16:48 -0500,"['/t/go', '/t/person', '/t/programming', '/t/vcs', '/t/web']","Fireside chat with Jiahua Chen, creator of Gogs (Go Git Service) and Macaron",http://sourcegraph.com/blog/fireside-chat-with-jiahua-chen-creator-of-gogs,/u/sqs,2
-1,2014-07-21 03:02:12 -0500,"['/t/math', '/t/programming']",Introduction to A*,http://www.redblobgames.com/pathfinding/a-star/introduction.html,/u/daGrevis,13
-0,2014-07-21 12:36:14 -0500,['/t/hardware'],Ham Transmitter Fingerprinting,http://kb9mwr.blogspot.com/2008/04/transmitter-fingerprinting.html,/u/pushcx,4
-0,2014-07-21 20:36:24 -0500,['/t/programming'],A suggestion for testing style in Clojure,http://blog.jessitron.com/2014/07/a-suggestion-for-testing-style-in.html,/u/pushcx,1
-5,2014-07-20 15:51:10 -0500,['/t/programming'],A Lisper's first impression of Julia,http://p-cos.blogspot.com/2014/07/a-lispers-first-impression-of-julia.html,/u/pushcx,21
-1,2014-07-21 09:44:06 -0500,"['/t/javascript', '/t/programming']",When Programming Goes Bad - Debugging the Impossible,http://kolodny.github.io/blog/blog/2014/07/21/when-programming-goes-bad-debugging-the-impossible/,/u/kolodny,2
-0,2014-07-21 13:26:02 -0500,"['/t/android', '/t/privacy', '/t/release']",Flock: Private Contact and Calendar Cloud Sync for Android,https://whispersystems.org/blog/flock/,/u/jcs,2
-1,2014-07-21 11:57:06 -0500,"['/t/javascript', '/t/programming']",Top 5 ES6 Harmony Features,http://moduscreate.com/top-5-es6-harmony-features/,/u/obscurerichard,2
-3,2014-07-20 20:32:42 -0500,"['/t/mac', '/t/programming']",I Don't Know Swift,http://robnapier.net/i-dont-know-swift,/u/pushcx,8
-0,2014-07-21 09:48:35 -0500,"['/t/haskell', '/t/programming']",Towards understanding Haskell’s monomorphism restriction,http://lambda.jstolarek.com/2012/05/towards-understanding-haskells-monomorphism-restriction/,/u/gclaramunt,2
-0,2014-07-21 09:24:26 -0500,['/t/mobile'],Building Cordova Apps with the Verified Plugins Marketplace,http://modernweb.com/2014/07/21/building-cordova-apps-verified-plugins-marketplace/,/u/mikehostetler,2
-0,2014-07-20 21:24:21 -0500,"['/t/hardware', '/t/linux', '/t/networking', '/t/release', '/t/web']",Calling All Hackers: Help Us Build an Open Wireless Router,https://www.eff.org/deeplinks/2014/07/building-open-wireless-router,/u/cnst,7
-0,2014-07-21 12:37:24 -0500,"['/t/culture', '/t/person']",Interview with Demoscener – kb (Farbrausch),http://6octaves.blogspot.com/2014/07/interview-with-demoscener-kb-farbrausch.html,/u/pushcx,1
-0,2014-07-20 19:18:23 -0500,"['/t/culture', '/t/programming']",The camel doesn’t have two humps,http://retractionwatch.com/2014/07/18/the-camel-doesnt-have-two-humps-programming-aptitude-test-canned-for-overzealous-conclusion/,/u/GeoffWozniak,7
-0,2014-07-20 11:13:48 -0500,"['/t/pdf', '/t/ios', '/t/privacy', '/t/security']","Identifying Back Doors, Attack Points, and Surveillance Mechanisms in iOS Devices",http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf,/u/jcs,9
-0,2014-07-20 10:54:07 -0500,"['/t/haskell', '/t/programming']",Achieving Mutable State in Haskell,http://blog.jakubarnold.cz/2014/07/20/mutable-state-in-haskell.html,/u/darthdeus,9
-1,2014-07-20 22:09:16 -0500,"['/t/event', '/t/freebsd', '/t/openbsd']",EuroBSDcon 2014 Talks and Schedule,http://2014.eurobsdcon.org/talks-and-schedule/,/u/cnst,1
-3,2014-07-19 08:31:36 -0500,['/t/distributed'],CAP and PACELC: Thinking More Clearly About Consistency,http://brooker.co.za/blog/2014/07/16/pacelc.html,/u/mjb,12
-0,2014-07-19 13:51:45 -0500,"['/t/haskell', '/t/javascript', '/t/ml']",Getting Started with Purescript in the Browser,http://curtis.io/posts/purescript-for-web-development.html,/u/cgag,7
-4,2014-07-19 04:13:28 -0500,"['/t/ml', '/t/programming']",Simple top-down development in OCaml,https://blogs.janestreet.com/simple-top-down-development-in-ocaml/,/u/apy,12
-10,2014-07-18 19:52:35 -0500,"['/t/programming', '/t/unix']",Use the Unofficial Bash Strict Mode (Unless You Looove Debugging),http://redsymbol.net/articles/unofficial-bash-strict-mode/,/u/jcs,28
+0,2014-07-21 08:50:08 -0500,/t/compsci,What is memory safety?,http://www.pl-enthusiast.net/2014/07/21/memory-safety/,/u/lcapaldo,11
+0,2014-07-21 15:36:31 -0500,/t/security,Your Voice Assistant is Mine: How to Abuse Speakers to Steal Information and Control Your Phone,http://arxiv-web3.library.cornell.edu/abs/1407.4923,/u/zod000,4
+2,2014-07-21 15:18:55 -0500,"/t/rant,/t/satire",The Great Whitespace Debate,https://medium.com/p/3633cba8b5c1,/u/steveklabnik,14
+4,2014-07-21 11:34:58 -0500,/t/distributed,Designing a system that doesn't drop messages on the floor,http://yellerapp.com/posts/2014-07-20-no-exceptions-left-behind.html,/u/kb,3
+0,2014-07-21 19:16:48 -0500,"/t/go,/t/person,/t/programming,/t/vcs,/t/web","Fireside chat with Jiahua Chen, creator of Gogs (Go Git Service) and Macaron",http://sourcegraph.com/blog/fireside-chat-with-jiahua-chen-creator-of-gogs,/u/sqs,2
+1,2014-07-21 03:02:12 -0500,"/t/math,/t/programming",Introduction to A*,http://www.redblobgames.com/pathfinding/a-star/introduction.html,/u/daGrevis,13
+0,2014-07-21 12:36:14 -0500,/t/hardware,Ham Transmitter Fingerprinting,http://kb9mwr.blogspot.com/2008/04/transmitter-fingerprinting.html,/u/pushcx,4
+0,2014-07-21 20:36:24 -0500,/t/programming,A suggestion for testing style in Clojure,http://blog.jessitron.com/2014/07/a-suggestion-for-testing-style-in.html,/u/pushcx,1
+5,2014-07-20 15:51:10 -0500,/t/programming,A Lisper's first impression of Julia,http://p-cos.blogspot.com/2014/07/a-lispers-first-impression-of-julia.html,/u/pushcx,21
+1,2014-07-21 09:44:06 -0500,"/t/javascript,/t/programming",When Programming Goes Bad - Debugging the Impossible,http://kolodny.github.io/blog/blog/2014/07/21/when-programming-goes-bad-debugging-the-impossible/,/u/kolodny,2
+0,2014-07-21 13:26:02 -0500,"/t/android,/t/privacy,/t/release",Flock: Private Contact and Calendar Cloud Sync for Android,https://whispersystems.org/blog/flock/,/u/jcs,2
+1,2014-07-21 11:57:06 -0500,"/t/javascript,/t/programming",Top 5 ES6 Harmony Features,http://moduscreate.com/top-5-es6-harmony-features/,/u/obscurerichard,2
+3,2014-07-20 20:32:42 -0500,"/t/mac,/t/programming",I Don't Know Swift,http://robnapier.net/i-dont-know-swift,/u/pushcx,8
+0,2014-07-21 09:48:35 -0500,"/t/haskell,/t/programming",Towards understanding Haskell’s monomorphism restriction,http://lambda.jstolarek.com/2012/05/towards-understanding-haskells-monomorphism-restriction/,/u/gclaramunt,2
+0,2014-07-21 09:24:26 -0500,/t/mobile,Building Cordova Apps with the Verified Plugins Marketplace,http://modernweb.com/2014/07/21/building-cordova-apps-verified-plugins-marketplace/,/u/mikehostetler,2
+0,2014-07-20 21:24:21 -0500,"/t/hardware,/t/linux,/t/networking,/t/release,/t/web",Calling All Hackers: Help Us Build an Open Wireless Router,https://www.eff.org/deeplinks/2014/07/building-open-wireless-router,/u/cnst,7
+0,2014-07-21 12:37:24 -0500,"/t/culture,/t/person",Interview with Demoscener – kb (Farbrausch),http://6octaves.blogspot.com/2014/07/interview-with-demoscener-kb-farbrausch.html,/u/pushcx,1
+0,2014-07-20 19:18:23 -0500,"/t/culture,/t/programming",The camel doesn’t have two humps,http://retractionwatch.com/2014/07/18/the-camel-doesnt-have-two-humps-programming-aptitude-test-canned-for-overzealous-conclusion/,/u/GeoffWozniak,7
+0,2014-07-20 11:13:48 -0500,"/t/pdf,/t/ios,/t/privacy,/t/security","Identifying Back Doors, Attack Points, and Surveillance Mechanisms in iOS Devices",http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf,/u/jcs,9
+0,2014-07-20 10:54:07 -0500,"/t/haskell,/t/programming",Achieving Mutable State in Haskell,http://blog.jakubarnold.cz/2014/07/20/mutable-state-in-haskell.html,/u/darthdeus,9
+1,2014-07-20 22:09:16 -0500,"/t/event,/t/freebsd,/t/openbsd",EuroBSDcon 2014 Talks and Schedule,http://2014.eurobsdcon.org/talks-and-schedule/,/u/cnst,1
+3,2014-07-19 08:31:36 -0500,/t/distributed,CAP and PACELC: Thinking More Clearly About Consistency,http://brooker.co.za/blog/2014/07/16/pacelc.html,/u/mjb,12
+0,2014-07-19 13:51:45 -0500,"/t/haskell,/t/javascript,/t/ml",Getting Started with Purescript in the Browser,http://curtis.io/posts/purescript-for-web-development.html,/u/cgag,7
+4,2014-07-19 04:13:28 -0500,"/t/ml,/t/programming",Simple top-down development in OCaml,https://blogs.janestreet.com/simple-top-down-development-in-ocaml/,/u/apy,12
+10,2014-07-18 19:52:35 -0500,"/t/programming,/t/unix",Use the Unofficial Bash Strict Mode (Unless You Looove Debugging),http://redsymbol.net/articles/unofficial-bash-strict-mode/,/u/jcs,28

@@ -1,25 +1,25 @@
-0,2017-08-26 18:04:30 -0500,['/t/devops'],drone: continuous delivery platform built on docker very similar to travis,https://github.com/drone/drone,/u/unbalancedparentheses,4
-1,2017-08-26 00:32:03 -0500,"['/t/video', '/t/art', '/t/hardware']",DOOM: Behind the Music,https://www.youtube.com/watch?v=U4FNBMZsqrY,/u/friendlysock,23
-0,2017-08-26 12:48:41 -0500,"['/t/pdf', '/t/distributed']",A comprehensive study of Convergent and Commutative Replicated Data Types,http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf,/u/pushcx,6
-0,2017-08-26 11:01:33 -0500,"['/t/pdf', '/t/browsers', '/t/privacy']",Deterministic Browser,https://arxiv.org/abs/1708.06774,/u/pushcx,7
-1,2017-08-26 03:24:10 -0500,['/t/openbsd'],Setting up OpenBSD's LDAP Server (ldapd) with StartTLS and SASL,http://blog.databasepatterns.com/2017/08/setting-up-openbsds-ldap-server-ldapd.html,/u/stevelord,13
-1,2017-08-26 06:44:54 -0500,"['/t/javascript', '/t/nodejs']",nvm will not be adding support for Ayo,https://github.com/creationix/nvm/issues/1595#issuecomment-324378894,/u/wjh,4
-5,2017-08-25 16:06:42 -0500,['/t/law'],VW engineer sentenced to 40-month prison term in diesel case,https://www.reuters.com/article/us-volkswagen-emissions-sentencing-idUSKCN1B51YP,/u/pushcx,24
-0,2017-08-26 06:42:29 -0500,['/t/java'],Concurrent Programming in Kotlin: Coroutines,https://dzone.com/articles/approaching-kotlin-coroutines-concurrent-programmi,/u/calvin,8
-9,2017-08-25 11:38:29 -0500,"['/t/show', '/t/programming', '/t/release']",a structured cloud IDE designed around an experimental software development paradigm,https://isomorf.io/#!/tour,/u/bkent,24
-0,2017-08-26 15:12:18 -0500,['/t/ai'],mycroft-precise: wake word listener,https://github.com/MycroftAI/mycroft-precise,/u/wjh,2
-0,2017-08-26 11:40:52 -0500,"['/t/pdf', '/t/ai', '/t/compsci', '/t/programming']",Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis (2017),http://pages.cs.wisc.edu/~loris/papers/las17.pdf,/u/nickpsecurity,3
-31,2017-08-25 12:04:02 -0500,"['/t/mobile', '/t/privacy', '/t/security']",Instagram is listening to you: a scary experiment,https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023,/u/jstoja,21
-0,2017-08-26 11:01:54 -0500,"['/t/pdf', '/t/math']",How to become a Bayesian in eight easy steps: An anontated reading list,https://osf.io/preprints/psyarxiv/ph6sw,/u/pushcx,3
-2,2017-08-25 16:00:05 -0500,"['/t/historical', '/t/release', '/t/unix']",On the MOTD,https://gist.github.com/MakeItGreatAgain/68dd92442c1f427f2edecc6c3135c892#file-motd-md,/u/trn,15
-0,2017-08-26 00:33:04 -0500,"['/t/networking', '/t/openbsd']",OpenBSD rtables and rdomains,https://lab.rickauer.com/post/2017/07/16/OpenBSD-rtables-and-rdomains,/u/mischa,9
-1,2017-08-25 17:29:15 -0500,['/t/haskell'],Fixed-Length Vector Types in Haskell -- a modern treatment,https://blog.jle.im/entry/fixed-length-vector-types-in-haskell.html,/u/jle,9
-0,2017-08-25 09:49:07 -0500,"['/t/practices', '/t/programming']",Ironing out your development style,https://blog.janestreet.com/ironing-out-your-development-style/,/u/yminsky,19
-6,2017-08-25 08:39:42 -0500,"['/t/historical', '/t/math']",Mathematical secrets of ancient tablet unlocked after nearly a century of study,https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study,/u/pgl,21
-0,2017-08-25 21:33:54 -0500,"['/t/linux', '/t/release', '/t/unix']","Repology, the packaging hub",https://repology.org,/u/trn,6
-8,2017-08-25 02:36:27 -0500,"['/t/hardware', '/t/privacy', '/t/security']",Librem 5 – A Security and Privacy Focused Phone – Purism,https://puri.sm/shop/librem-5/,/u/reezer,24
-0,2017-08-25 14:29:24 -0500,"['/t/hardware', '/t/practices', '/t/programming']",Rules for new FPGA designers,http://zipcpu.com/blog/2017/08/21/rules-for-newbies.html,/u/varjag,12
-0,2017-08-25 11:07:43 -0500,"['/t/design', '/t/games']",UI Design in NieR:Automata,https://www.platinumgames.com/official-blog/article/9624?age-verified=80e09dd862,/u/calvin,15
-4,2017-08-25 03:10:44 -0500,['/t/python'],Weird Python Integers,https://kate.io/blog/2017/08/22/weird-python-integers/,/u/mulander,25
-4,2017-08-25 06:22:11 -0500,['/t/design'],The Interface Font Family: for Highly Legible Text on Computer Screens,https://rsms.me/interface/,/u/colin,17
-0,2017-08-25 18:44:12 -0500,"['/t/compsci', '/t/performance']",Performance comparison: linear search vs binary search.,https://dirtyhandscoding.wordpress.com/2017/08/25/performance-comparison-linear-search-vs-binary-search/,/u/calvin,5
+0,2017-08-26 18:04:30 -0500,/t/devops,drone: continuous delivery platform built on docker very similar to travis,https://github.com/drone/drone,/u/unbalancedparentheses,4
+1,2017-08-26 00:32:03 -0500,"/t/video,/t/art,/t/hardware",DOOM: Behind the Music,https://www.youtube.com/watch?v=U4FNBMZsqrY,/u/friendlysock,23
+0,2017-08-26 12:48:41 -0500,"/t/pdf,/t/distributed",A comprehensive study of Convergent and Commutative Replicated Data Types,http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf,/u/pushcx,6
+0,2017-08-26 11:01:33 -0500,"/t/pdf,/t/browsers,/t/privacy",Deterministic Browser,https://arxiv.org/abs/1708.06774,/u/pushcx,7
+1,2017-08-26 03:24:10 -0500,/t/openbsd,Setting up OpenBSD's LDAP Server (ldapd) with StartTLS and SASL,http://blog.databasepatterns.com/2017/08/setting-up-openbsds-ldap-server-ldapd.html,/u/stevelord,13
+1,2017-08-26 06:44:54 -0500,"/t/javascript,/t/nodejs",nvm will not be adding support for Ayo,https://github.com/creationix/nvm/issues/1595#issuecomment-324378894,/u/wjh,4
+5,2017-08-25 16:06:42 -0500,/t/law,VW engineer sentenced to 40-month prison term in diesel case,https://www.reuters.com/article/us-volkswagen-emissions-sentencing-idUSKCN1B51YP,/u/pushcx,24
+0,2017-08-26 06:42:29 -0500,/t/java,Concurrent Programming in Kotlin: Coroutines,https://dzone.com/articles/approaching-kotlin-coroutines-concurrent-programmi,/u/calvin,8
+9,2017-08-25 11:38:29 -0500,"/t/show,/t/programming,/t/release",a structured cloud IDE designed around an experimental software development paradigm,https://isomorf.io/#!/tour,/u/bkent,24
+0,2017-08-26 15:12:18 -0500,/t/ai,mycroft-precise: wake word listener,https://github.com/MycroftAI/mycroft-precise,/u/wjh,2
+0,2017-08-26 11:40:52 -0500,"/t/pdf,/t/ai,/t/compsci,/t/programming",Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis (2017),http://pages.cs.wisc.edu/~loris/papers/las17.pdf,/u/nickpsecurity,3
+31,2017-08-25 12:04:02 -0500,"/t/mobile,/t/privacy,/t/security",Instagram is listening to you: a scary experiment,https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023,/u/jstoja,21
+0,2017-08-26 11:01:54 -0500,"/t/pdf,/t/math",How to become a Bayesian in eight easy steps: An anontated reading list,https://osf.io/preprints/psyarxiv/ph6sw,/u/pushcx,3
+2,2017-08-25 16:00:05 -0500,"/t/historical,/t/release,/t/unix",On the MOTD,https://gist.github.com/MakeItGreatAgain/68dd92442c1f427f2edecc6c3135c892#file-motd-md,/u/trn,15
+0,2017-08-26 00:33:04 -0500,"/t/networking,/t/openbsd",OpenBSD rtables and rdomains,https://lab.rickauer.com/post/2017/07/16/OpenBSD-rtables-and-rdomains,/u/mischa,9
+1,2017-08-25 17:29:15 -0500,/t/haskell,Fixed-Length Vector Types in Haskell -- a modern treatment,https://blog.jle.im/entry/fixed-length-vector-types-in-haskell.html,/u/jle,9
+0,2017-08-25 09:49:07 -0500,"/t/practices,/t/programming",Ironing out your development style,https://blog.janestreet.com/ironing-out-your-development-style/,/u/yminsky,19
+6,2017-08-25 08:39:42 -0500,"/t/historical,/t/math",Mathematical secrets of ancient tablet unlocked after nearly a century of study,https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study,/u/pgl,21
+0,2017-08-25 21:33:54 -0500,"/t/linux,/t/release,/t/unix","Repology, the packaging hub",https://repology.org,/u/trn,6
+8,2017-08-25 02:36:27 -0500,"/t/hardware,/t/privacy,/t/security",Librem 5 – A Security and Privacy Focused Phone – Purism,https://puri.sm/shop/librem-5/,/u/reezer,24
+0,2017-08-25 14:29:24 -0500,"/t/hardware,/t/practices,/t/programming",Rules for new FPGA designers,http://zipcpu.com/blog/2017/08/21/rules-for-newbies.html,/u/varjag,12
+0,2017-08-25 11:07:43 -0500,"/t/design,/t/games",UI Design in NieR:Automata,https://www.platinumgames.com/official-blog/article/9624?age-verified=80e09dd862,/u/calvin,15
+4,2017-08-25 03:10:44 -0500,/t/python,Weird Python Integers,https://kate.io/blog/2017/08/22/weird-python-integers/,/u/mulander,25
+4,2017-08-25 06:22:11 -0500,/t/design,The Interface Font Family: for Highly Legible Text on Computer Screens,https://rsms.me/interface/,/u/colin,17
+0,2017-08-25 18:44:12 -0500,"/t/compsci,/t/performance",Performance comparison: linear search vs binary search.,https://dirtyhandscoding.wordpress.com/2017/08/25/performance-comparison-linear-search-vs-binary-search/,/u/calvin,5

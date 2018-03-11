@@ -1,25 +1,25 @@
-1,2012-10-26 16:47:35 -0500,"['/t/design', '/t/web']",List of Bootstrap Resources,http://bootsnipp.com/resources,/u/tobym,4
-2,2012-10-26 11:33:41 -0500,['/t/philosophy'],On Being A Senior Engineer,http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/,/u/tobym,6
-0,2012-10-26 11:32:26 -0500,"['/t/c', '/t/compilers', '/t/compsci']",cucu: a compiler you can understand,http://zserge.com/blog/cucu-part1.html,/u/steveklabnik,6
-13,2012-10-26 10:17:47 -0500,['/t/meta'],lobsters quality vs. quantity,/s/piagfa/lobsters_quality_vs_quantity,/u/moses,11
-0,2012-10-26 11:45:36 -0500,"['/t/ruby', '/t/web']",Keynote - Rails 4 and the Future of Web - Aaron Patterson - Aloha Ruby Conf 2012,http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web,/u/jipiboily,4
-1,2012-10-26 10:00:36 -0500,"['/t/release', '/t/scaling']","Engineer Leaves Google For Cloudera, Rebuilds F1 Query Engine as Impala",http://www.wired.com/wiredenterprise/2012/10/cloudera-impala-hadoop/,/u/moses,4
-2,2012-10-26 11:25:19 -0500,['/t/hardware'],Parallella: A Supercomputer For Everyone (Kickstarter),http://www.kickstarter.com/projects/adapteva/parallella-a-supercomputer-for-everyone,/u/polyfractal,2
-2,2012-10-26 12:08:43 -0500,"['/t/pdf', '/t/compsci']",An experiment about static and dynamic type systems: doubts about the positive impact of static type,http://www.cs.washington.edu/education/courses/cse590n/10au/hanenberg-oopsla2010.pdf,/u/andymatuschak,1
-2,2012-10-26 00:09:32 -0500,['/t/haskell'],Data.Records: Extensible Records for Haskell (GHC 7.6),https://github.com/jonsterling/Data.Records,/u/jonsterling,5
-0,2012-10-26 11:26:48 -0500,['/t/browsers'],Horizontal Box: Polygon Intersection for CSS Exclusions,http://hansmuller-webkit.blogspot.co.uk/2012/06/horizontal-box-polygon-intersection-for.html,/u/amb,1
-0,2012-10-26 10:04:12 -0500,"['/t/databases', '/t/release', '/t/scaling']","metamx/druid - Fast, Distributed Column-oriented Datastore Optimized for Analysis",https://github.com/metamx/druid,/u/moses,1
-0,2012-10-26 09:56:47 -0500,"['/t/compsci', '/t/databases', '/t/scaling']",F1 - The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business,http://research.google.com/pubs/pub38125.html,/u/moses,1
-2,2012-10-25 15:56:40 -0500,"['/t/design', '/t/release', '/t/web']",GitHub Game Off,https://github.com/blog/1303-github-game-off,/u/skalnik,7
-1,2012-10-25 11:04:12 -0500,['/t/ruby'],Ruby 2.0 is feature frozen,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46258,/u/tenderlove,11
-2,2012-10-25 22:00:19 -0500,"['/t/math', '/t/release']","Mathics – A free, light-weight alternative to Mathematica",http://www.mathics.org/,/u/roryokane,1
-0,2012-10-25 16:22:20 -0500,"['/t/ruby', '/t/web']",Rails Subscription Site with Stripe: Tutorial and Example Application,http://railsapps.github.com/rails-stripe-membership-saas/,/u/daniel_kehoe,4
-2,2012-10-25 12:12:35 -0500,['/t/news'],Dialoggs: Public Beta Now Open,http://theindustry.cc/2012/10/25/dialoggs-public-beta-now-open/,/u/davidpett,2
-1,2012-10-25 10:31:54 -0500,"['/t/pdf', '/t/compsci', '/t/lisp']",A Practical Optional Type System for Clojure,https://s3.amazonaws.com/github/downloads/frenchy64/papers/paper.pdf,/u/tobym,2
-1,2012-10-25 02:43:59 -0500,"['/t/design', '/t/web']",Sass vendor helper mixins — Gist,https://gist.github.com/3951201,/u/evilmarty,4
-1,2012-10-24 13:16:08 -0500,"['/t/pdf', '/t/security']","Research team finds flaws in SSL APIs, including libcurl, allowing MITM attacks",http://www.cs.utexas.edu/~shmat/shmat_ccs12.pdf,/u/crab,10
-0,2012-10-24 22:41:47 -0500,"['/t/devops', '/t/release']",How to Monitor Java Garbage Collection,http://www.cubrid.org/blog/dev-platform/how-to-monitor-java-garbage-collection/,/u/tobym,1
-0,2012-10-24 15:30:58 -0500,"['/t/mac', '/t/release', '/t/ruby']",fusuma - window management for OSX written in MacRuby,https://github.com/glucero/fusuma,/u/jcs,3
-0,2012-10-24 12:19:30 -0500,"['/t/pdf', '/t/compsci', '/t/databases']",Algorithmic Debugging of SQL Views,http://federwin.sip.ucm.es/sic/investigacion/publicaciones/pdfs/SIC-3-11.pdf,/u/andymatuschak,2
-4,2012-10-23 13:12:39 -0500,['/t/ruby'],10 Things You Didn't Know Ruby Could do,https://speakerdeck.com/jeg2/10-things-you-didnt-know-ruby-could-do,/u/jcs,17
-1,2012-10-23 10:10:34 -0500,['/t/release'],Open Dev: Making Space for Exploration in the Software Development Schedule,https://www.braintreepayments.com/braintrust/walking-the-talk-open-dev-time-at-braintree,/u/michael,8
+1,2012-10-26 16:47:35 -0500,"/t/design,/t/web",List of Bootstrap Resources,http://bootsnipp.com/resources,/u/tobym,4
+2,2012-10-26 11:33:41 -0500,/t/philosophy,On Being A Senior Engineer,http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/,/u/tobym,6
+0,2012-10-26 11:32:26 -0500,"/t/c,/t/compilers,/t/compsci",cucu: a compiler you can understand,http://zserge.com/blog/cucu-part1.html,/u/steveklabnik,6
+13,2012-10-26 10:17:47 -0500,/t/meta,lobsters quality vs. quantity,/s/piagfa/lobsters_quality_vs_quantity,/u/moses,11
+0,2012-10-26 11:45:36 -0500,"/t/ruby,/t/web",Keynote - Rails 4 and the Future of Web - Aaron Patterson - Aloha Ruby Conf 2012,http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web,/u/jipiboily,4
+1,2012-10-26 10:00:36 -0500,"/t/release,/t/scaling","Engineer Leaves Google For Cloudera, Rebuilds F1 Query Engine as Impala",http://www.wired.com/wiredenterprise/2012/10/cloudera-impala-hadoop/,/u/moses,4
+2,2012-10-26 11:25:19 -0500,/t/hardware,Parallella: A Supercomputer For Everyone (Kickstarter),http://www.kickstarter.com/projects/adapteva/parallella-a-supercomputer-for-everyone,/u/polyfractal,2
+2,2012-10-26 12:08:43 -0500,"/t/pdf,/t/compsci",An experiment about static and dynamic type systems: doubts about the positive impact of static type,http://www.cs.washington.edu/education/courses/cse590n/10au/hanenberg-oopsla2010.pdf,/u/andymatuschak,1
+2,2012-10-26 00:09:32 -0500,/t/haskell,Data.Records: Extensible Records for Haskell (GHC 7.6),https://github.com/jonsterling/Data.Records,/u/jonsterling,5
+0,2012-10-26 11:26:48 -0500,/t/browsers,Horizontal Box: Polygon Intersection for CSS Exclusions,http://hansmuller-webkit.blogspot.co.uk/2012/06/horizontal-box-polygon-intersection-for.html,/u/amb,1
+0,2012-10-26 10:04:12 -0500,"/t/databases,/t/release,/t/scaling","metamx/druid - Fast, Distributed Column-oriented Datastore Optimized for Analysis",https://github.com/metamx/druid,/u/moses,1
+0,2012-10-26 09:56:47 -0500,"/t/compsci,/t/databases,/t/scaling",F1 - The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business,http://research.google.com/pubs/pub38125.html,/u/moses,1
+2,2012-10-25 15:56:40 -0500,"/t/design,/t/release,/t/web",GitHub Game Off,https://github.com/blog/1303-github-game-off,/u/skalnik,7
+1,2012-10-25 11:04:12 -0500,/t/ruby,Ruby 2.0 is feature frozen,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46258,/u/tenderlove,11
+2,2012-10-25 22:00:19 -0500,"/t/math,/t/release","Mathics – A free, light-weight alternative to Mathematica",http://www.mathics.org/,/u/roryokane,1
+0,2012-10-25 16:22:20 -0500,"/t/ruby,/t/web",Rails Subscription Site with Stripe: Tutorial and Example Application,http://railsapps.github.com/rails-stripe-membership-saas/,/u/daniel_kehoe,4
+2,2012-10-25 12:12:35 -0500,/t/news,Dialoggs: Public Beta Now Open,http://theindustry.cc/2012/10/25/dialoggs-public-beta-now-open/,/u/davidpett,2
+1,2012-10-25 10:31:54 -0500,"/t/pdf,/t/compsci,/t/lisp",A Practical Optional Type System for Clojure,https://s3.amazonaws.com/github/downloads/frenchy64/papers/paper.pdf,/u/tobym,2
+1,2012-10-25 02:43:59 -0500,"/t/design,/t/web",Sass vendor helper mixins — Gist,https://gist.github.com/3951201,/u/evilmarty,4
+1,2012-10-24 13:16:08 -0500,"/t/pdf,/t/security","Research team finds flaws in SSL APIs, including libcurl, allowing MITM attacks",http://www.cs.utexas.edu/~shmat/shmat_ccs12.pdf,/u/crab,10
+0,2012-10-24 22:41:47 -0500,"/t/devops,/t/release",How to Monitor Java Garbage Collection,http://www.cubrid.org/blog/dev-platform/how-to-monitor-java-garbage-collection/,/u/tobym,1
+0,2012-10-24 15:30:58 -0500,"/t/mac,/t/release,/t/ruby",fusuma - window management for OSX written in MacRuby,https://github.com/glucero/fusuma,/u/jcs,3
+0,2012-10-24 12:19:30 -0500,"/t/pdf,/t/compsci,/t/databases",Algorithmic Debugging of SQL Views,http://federwin.sip.ucm.es/sic/investigacion/publicaciones/pdfs/SIC-3-11.pdf,/u/andymatuschak,2
+4,2012-10-23 13:12:39 -0500,/t/ruby,10 Things You Didn't Know Ruby Could do,https://speakerdeck.com/jeg2/10-things-you-didnt-know-ruby-could-do,/u/jcs,17
+1,2012-10-23 10:10:34 -0500,/t/release,Open Dev: Making Space for Exploration in the Software Development Schedule,https://www.braintreepayments.com/braintrust/walking-the-talk-open-dev-time-at-braintree,/u/michael,8

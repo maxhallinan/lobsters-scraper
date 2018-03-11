@@ -1,25 +1,25 @@
-5,2015-07-29 13:02:28 -0500,"['/t/pdf', '/t/practices']",Software Engineering: An Idea Whose Time Has Come and Gone?,http://www.computer.org/cms/Computer.org/ComputingNow/homepage/mostread/MostRead-SW-SoftwareEngineeringAnIdeaWhoseTimeHasCome.pdf,/u/pushcx,6
-0,2015-07-29 20:59:39 -0500,"['/t/pdf', '/t/compsci', '/t/math']",Propositions as Types,http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf,/u/pushcx,5
-2,2015-07-29 18:59:27 -0500,"['/t/c', '/t/release', '/t/unix']",ctypes.sh: a foreign function interface for bash,https://github.com/taviso/ctypes.sh/wiki,/u/pushcx,3
-1,2015-07-29 14:59:24 -0500,"['/t/assembly', '/t/release', '/t/web']",rwasa: an x86_64 web server,https://2ton.com.au/rwasa/,/u/pushcx,7
-2,2015-07-29 10:35:54 -0500,"['/t/hardware', '/t/security']",Hackers Can Disable a Sniper Rifle—Or Change Its Target,http://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/,/u/mulander,8
-0,2015-07-29 19:59:13 -0500,"['/t/video', '/t/haskell', '/t/programming']",QuickCheck: Beyond the Basics,http://www.youtube.com/watch?v=qNeRZS8ZCKw,/u/pushcx,4
-0,2015-07-29 18:46:15 -0500,"['/t/haskell', '/t/programming', '/t/vim']",Haskell Source Navigation,http://begriffs.com/posts/2015-07-27-haskell-source-navigation.html,/u/pushcx,3
-0,2015-07-29 10:02:29 -0500,['/t/lisp'],Parsing EDIFACT with Clojure's Instaparse,http://www.lexicallyscoped.com/2015/07/27/parse-edifact-w-clojure-instaparse.html,/u/fredyr,8
-5,2015-07-28 19:40:41 -0500,['/t/virtualization'],Sleepwalking into a Monoculture and Lock-in with Linux Containers,https://www.flockport.com/sleepwalking-into-a-monoculture-lock-in-with-linux-containers/,/u/javier-lopez,29
-0,2015-07-29 14:33:16 -0500,['/t/php'],"Why We're Still Seeing PHP 5.3 In The Wild (Or: PHP Versions, A History)",https://ma.ttias.be/why-were-still-seeing-php-5-3-in-the-wild-or-php-versions-a-history/,/u/mattiasgeniar,4
-1,2015-07-29 15:59:20 -0500,"['/t/dotnet', '/t/programming']",Why you should wait on upgrading to .Net 4.6,http://nickcraver.com/blog/2015/07/27/why-you-should-wait-on-dotnet-46/,/u/pushcx,2
-19,2015-07-28 10:45:23 -0500,"['/t/programming', '/t/vcs']",How to Write a Git Commit Message,http://chris.beams.io/posts/git-commit/,/u/av,34
-3,2015-07-29 07:06:57 -0500,['/t/web'],"DHI Group, Inc. Statement on Plans to Sell Slashdot Media",https://sourceforge.net/blog/dhi-group-inc-statement-on-plans-to-sell-slashdot-media/,/u/JordiGH,3
-0,2015-07-29 10:59:12 -0500,['/t/privacy'],Vizio IPO plan shows how its TVs track what you're watching,http://www.engadget.com/2015/07/24/vizio-ipo-inscape-acr/,/u/pushcx,4
-0,2015-07-29 19:12:08 -0500,"['/t/compsci', '/t/games', '/t/programming']",Kwyjibo: OCR-based scrabble referee,http://brm.io/kwyjibo/,/u/zem,1
-10,2015-07-28 10:25:43 -0500,"['/t/browsers', '/t/web']",Stop pushing the web forward,http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html,/u/tizoc,33
-2,2015-07-29 13:20:10 -0500,"['/t/ask', '/t/privacy', '/t/security']",Reliable alternative to TextSecure?,/s/4xnt5x/reliable_alternative_textsecure,/u/journeysquid,5
-0,2015-07-29 16:59:07 -0500,"['/t/programming', '/t/python']",Python descriptors made simple,http://www.smallsurething.com/python-descriptors-made-simple/,/u/pushcx,1
-0,2015-07-29 09:54:46 -0500,"['/t/javascript', '/t/release', '/t/web']",Essential Steps: Long Term Support for Node.js,https://medium.com/@nodesource/essential-steps-long-term-support-for-node-js-8ecf7514dbd,/u/pushcx,2
-3,2015-07-28 10:06:05 -0500,"['/t/browsers', '/t/privacy']",Behavioral Profiling: The password you can't change.,https://paul.reviews/behavioral-profiling-the-password-you-cant-change/,/u/jcs,22
-0,2015-07-29 13:20:59 -0500,"['/t/python', '/t/web']",Testing a Django project's infrastructure failure tolerance,http://blog.robertorosario.com/testing-django-project-infrastructure-failure-tolerance/,/u/siloraptor,1
-2,2015-07-28 15:57:16 -0500,"['/t/lisp', '/t/programming']",Loop Optimizations in Guile,http://wingolog.org/archives/2015/07/28/loop-optimizations-in-guile,/u/SirSkidmore,13
-0,2015-07-29 09:59:20 -0500,"['/t/practices', '/t/programming', '/t/science']",A Field Study of Technical Debt,http://blog.sei.cmu.edu/post.cfm/field-study-technical-debt-208,/u/pushcx,1
-1,2015-07-29 05:55:51 -0500,"['/t/pdf', '/t/compsci']",The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors (2013),http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf,/u/peterhorne,2
-0,2015-07-28 15:51:58 -0500,['/t/go'],The anatomy of a Go project,http://darian.af/post/the-anatomy-of-a-golang-project/,/u/stip,12
+5,2015-07-29 13:02:28 -0500,"/t/pdf,/t/practices",Software Engineering: An Idea Whose Time Has Come and Gone?,http://www.computer.org/cms/Computer.org/ComputingNow/homepage/mostread/MostRead-SW-SoftwareEngineeringAnIdeaWhoseTimeHasCome.pdf,/u/pushcx,6
+0,2015-07-29 20:59:39 -0500,"/t/pdf,/t/compsci,/t/math",Propositions as Types,http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf,/u/pushcx,5
+2,2015-07-29 18:59:27 -0500,"/t/c,/t/release,/t/unix",ctypes.sh: a foreign function interface for bash,https://github.com/taviso/ctypes.sh/wiki,/u/pushcx,3
+1,2015-07-29 14:59:24 -0500,"/t/assembly,/t/release,/t/web",rwasa: an x86_64 web server,https://2ton.com.au/rwasa/,/u/pushcx,7
+2,2015-07-29 10:35:54 -0500,"/t/hardware,/t/security",Hackers Can Disable a Sniper Rifle—Or Change Its Target,http://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/,/u/mulander,8
+0,2015-07-29 19:59:13 -0500,"/t/video,/t/haskell,/t/programming",QuickCheck: Beyond the Basics,http://www.youtube.com/watch?v=qNeRZS8ZCKw,/u/pushcx,4
+0,2015-07-29 18:46:15 -0500,"/t/haskell,/t/programming,/t/vim",Haskell Source Navigation,http://begriffs.com/posts/2015-07-27-haskell-source-navigation.html,/u/pushcx,3
+0,2015-07-29 10:02:29 -0500,/t/lisp,Parsing EDIFACT with Clojure's Instaparse,http://www.lexicallyscoped.com/2015/07/27/parse-edifact-w-clojure-instaparse.html,/u/fredyr,8
+5,2015-07-28 19:40:41 -0500,/t/virtualization,Sleepwalking into a Monoculture and Lock-in with Linux Containers,https://www.flockport.com/sleepwalking-into-a-monoculture-lock-in-with-linux-containers/,/u/javier-lopez,29
+0,2015-07-29 14:33:16 -0500,/t/php,"Why We're Still Seeing PHP 5.3 In The Wild (Or: PHP Versions, A History)",https://ma.ttias.be/why-were-still-seeing-php-5-3-in-the-wild-or-php-versions-a-history/,/u/mattiasgeniar,4
+1,2015-07-29 15:59:20 -0500,"/t/dotnet,/t/programming",Why you should wait on upgrading to .Net 4.6,http://nickcraver.com/blog/2015/07/27/why-you-should-wait-on-dotnet-46/,/u/pushcx,2
+19,2015-07-28 10:45:23 -0500,"/t/programming,/t/vcs",How to Write a Git Commit Message,http://chris.beams.io/posts/git-commit/,/u/av,34
+3,2015-07-29 07:06:57 -0500,/t/web,"DHI Group, Inc. Statement on Plans to Sell Slashdot Media",https://sourceforge.net/blog/dhi-group-inc-statement-on-plans-to-sell-slashdot-media/,/u/JordiGH,3
+0,2015-07-29 10:59:12 -0500,/t/privacy,Vizio IPO plan shows how its TVs track what you're watching,http://www.engadget.com/2015/07/24/vizio-ipo-inscape-acr/,/u/pushcx,4
+0,2015-07-29 19:12:08 -0500,"/t/compsci,/t/games,/t/programming",Kwyjibo: OCR-based scrabble referee,http://brm.io/kwyjibo/,/u/zem,1
+10,2015-07-28 10:25:43 -0500,"/t/browsers,/t/web",Stop pushing the web forward,http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html,/u/tizoc,33
+2,2015-07-29 13:20:10 -0500,"/t/ask,/t/privacy,/t/security",Reliable alternative to TextSecure?,/s/4xnt5x/reliable_alternative_textsecure,/u/journeysquid,5
+0,2015-07-29 16:59:07 -0500,"/t/programming,/t/python",Python descriptors made simple,http://www.smallsurething.com/python-descriptors-made-simple/,/u/pushcx,1
+0,2015-07-29 09:54:46 -0500,"/t/javascript,/t/release,/t/web",Essential Steps: Long Term Support for Node.js,https://medium.com/@nodesource/essential-steps-long-term-support-for-node-js-8ecf7514dbd,/u/pushcx,2
+3,2015-07-28 10:06:05 -0500,"/t/browsers,/t/privacy",Behavioral Profiling: The password you can't change.,https://paul.reviews/behavioral-profiling-the-password-you-cant-change/,/u/jcs,22
+0,2015-07-29 13:20:59 -0500,"/t/python,/t/web",Testing a Django project's infrastructure failure tolerance,http://blog.robertorosario.com/testing-django-project-infrastructure-failure-tolerance/,/u/siloraptor,1
+2,2015-07-28 15:57:16 -0500,"/t/lisp,/t/programming",Loop Optimizations in Guile,http://wingolog.org/archives/2015/07/28/loop-optimizations-in-guile,/u/SirSkidmore,13
+0,2015-07-29 09:59:20 -0500,"/t/practices,/t/programming,/t/science",A Field Study of Technical Debt,http://blog.sei.cmu.edu/post.cfm/field-study-technical-debt-208,/u/pushcx,1
+1,2015-07-29 05:55:51 -0500,"/t/pdf,/t/compsci",The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors (2013),http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf,/u/peterhorne,2
+0,2015-07-28 15:51:58 -0500,/t/go,The anatomy of a Go project,http://darian.af/post/the-anatomy-of-a-golang-project/,/u/stip,12

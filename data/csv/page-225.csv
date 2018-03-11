@@ -1,25 +1,25 @@
-33,2017-08-29 06:10:50 -0500,"['/t/ask', '/t/person']",Advice for a Junior Developer,/s/lbi5rt/advice_for_junior_developer,/u/kel,55
-22,2017-08-29 20:56:51 -0500,"['/t/ask', '/t/practices']",Do you start writing a spec/documentation before/while you are writing a program?,/s/bteoyn/do_you_start_writing_spec_documentation,/u/ac,11
-0,2017-08-30 09:18:59 -0500,"['/t/practices', '/t/programming']",Patterns are not building blocks,http://the-whiteboard.github.io/2016/09/02/patterns.html,/u/yumaikas,5
-3,2017-08-30 00:55:38 -0500,"['/t/formalmethods', '/t/security']",Proofs of correctness of the TLS handshake merged to s2n,https://github.com/awslabs/s2n/pull/565,/u/sanxiyn,10
-0,2017-08-29 21:39:16 -0500,['/t/programming'],The software engineering rule of 3,https://erikbern.com/2017/08/29/the-software-engineering-rule-of-3.html,/u/eddelbuettel,16
-16,2017-08-29 09:22:58 -0500,['/t/programming'],"""It's fun to program in Crystal, but is it scalable?""",https://github.com/crystal-lang/crystal/pull/4855#issuecomment-323546639,/u/zdsmith,29
-1,2017-08-29 20:09:51 -0500,"['/t/c', '/t/historical']",The Development of the C Language (1993),https://www.bell-labs.com/usr/dmr/www/chist.html,/u/calvin,15
-0,2017-08-30 07:25:10 -0500,['/t/compilers'],Introduction to Shift-Reduce Parsing,http://www.cs.binghamton.edu/~zdu/parsdemo/srintro.html,/u/pushcx,4
-0,2017-08-30 07:23:42 -0500,"['/t/databases', '/t/devops']",Partitioning existing tables in PostgreSQL,http://blog.nordeus.com/dev-ops/partitioning-existing-tables-in-postgresql.htm,/u/pushcx,4
-1,2017-08-30 11:35:13 -0500,"['/t/pdf', '/t/compsci', '/t/security']","Separation, Virtual, Machine Monitors (VMM's) (2012)",https://pdfs.semanticscholar.org/a724/0f0070fcf2a2747231ddea2bab22b8e368b4.pdf,/u/nickpsecurity,2
-0,2017-08-30 08:18:15 -0500,"['/t/compilers', '/t/lisp']",User-programmable infix operators in Racket,http://lexi-lambda.github.io/blog/2017/08/12/user-programmable-infix-operators-in-racket,/u/pushcx,3
-0,2017-08-30 06:01:03 -0500,"['/t/linux', '/t/programming']",Filesystem monitoring in the Linux kernel,http://www.lanedo.com/filesystem-monitoring-linux-kernel/,/u/calvin,4
-0,2017-08-30 05:57:50 -0500,['/t/databases'],"DB Execution Plans for C++/Java Developers, and for anybody who has read Knuth",http://ithare.com/db-execution-plans-for-cjava-developers-and-for-anybody-who-has-read-knuth/,/u/mikejsavage,4
-8,2017-08-29 04:00:40 -0500,['/t/openbsd'],OpenBSD Community Goes Platinum,https://undeadly.org/cgi?action=article;sid=20170829025446,/u/mulander,37
-0,2017-08-30 07:24:22 -0500,['/t/haskell'],A Guide to Mutable References,http://www.kovach.me/posts/2017-06-22-mutable-references.html,/u/pushcx,3
-0,2017-08-30 07:57:36 -0500,['/t/css'],Building Skeleton Screens with CSS Custom Properties,https://css-tricks.com/building-skeleton-screens-css-custom-properties/,/u/flyingfisch,2
-0,2017-08-30 07:34:51 -0500,"['/t/python', '/t/testing']",How we replaced dozens of test fixtures with a context function,https://medium.com/@hakibenita/how-we-replaced-dozens-of-test-fixtures-with-one-simple-function-bac73bfc277d,/u/pushcx,2
-0,2017-08-30 00:33:27 -0500,"['/t/nodejs', '/t/testing']",Node.fz: fuzzing the server-side event-driven architecture,https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/,/u/sanxiyn,5
-0,2017-08-30 10:54:51 -0500,"['/t/performance', '/t/scala']",Bootstrapping the Web with Scala Native (Part 1),http://www.spantree.net/blog/2017/08/29/bootstrapping-web-scala-native.html,/u/hwayne,1
-2,2017-08-29 20:14:06 -0500,"['/t/compilers', '/t/hardware', '/t/performance']",Compiler Optimization for Energy Efficiency,https://fylux.github.io/2017/08/16/Compiler_Optimization_Energy_Efficiency/,/u/calvin,7
-0,2017-08-30 06:01:48 -0500,['/t/lisp'],Empty Promises and Other Heresy,https://www.vincit.fi/en/blog/empty-promises-and-other-heresy/,/u/calvin,2
-2,2017-08-29 12:06:49 -0500,['/t/education'],Instructive and Persuasive Examples,https://www.hillelwayne.com/post/persuasive-examples/,/u/hwayne,8
-4,2017-08-29 04:35:22 -0500,['/t/games'],Fizzlefade,http://fabiensanglard.net/fizzlefade/index.php,/u/mulander,27
-1,2017-08-29 20:13:36 -0500,"['/t/games', '/t/programming']",How (and why) we ported SHENZHEN SOLITAIRE to MS-DOS,https://www.gamasutra.com/blogs/ZachBarth/20170828/304568/How_and_why_we_ported_SHENZHEN_SOLITAIRE_to_MSDOS.php,/u/calvin,5
-1,2017-08-29 08:07:41 -0500,"['/t/pdf', '/t/crypto']",The Double Ratchet Algorithm,https://whispersystems.org/docs/specifications/doubleratchet/doubleratchet.pdf,/u/asthasr,15
+33,2017-08-29 06:10:50 -0500,"/t/ask,/t/person",Advice for a Junior Developer,/s/lbi5rt/advice_for_junior_developer,/u/kel,55
+22,2017-08-29 20:56:51 -0500,"/t/ask,/t/practices",Do you start writing a spec/documentation before/while you are writing a program?,/s/bteoyn/do_you_start_writing_spec_documentation,/u/ac,11
+0,2017-08-30 09:18:59 -0500,"/t/practices,/t/programming",Patterns are not building blocks,http://the-whiteboard.github.io/2016/09/02/patterns.html,/u/yumaikas,5
+3,2017-08-30 00:55:38 -0500,"/t/formalmethods,/t/security",Proofs of correctness of the TLS handshake merged to s2n,https://github.com/awslabs/s2n/pull/565,/u/sanxiyn,10
+0,2017-08-29 21:39:16 -0500,/t/programming,The software engineering rule of 3,https://erikbern.com/2017/08/29/the-software-engineering-rule-of-3.html,/u/eddelbuettel,16
+16,2017-08-29 09:22:58 -0500,/t/programming,"""It's fun to program in Crystal, but is it scalable?""",https://github.com/crystal-lang/crystal/pull/4855#issuecomment-323546639,/u/zdsmith,29
+1,2017-08-29 20:09:51 -0500,"/t/c,/t/historical",The Development of the C Language (1993),https://www.bell-labs.com/usr/dmr/www/chist.html,/u/calvin,15
+0,2017-08-30 07:25:10 -0500,/t/compilers,Introduction to Shift-Reduce Parsing,http://www.cs.binghamton.edu/~zdu/parsdemo/srintro.html,/u/pushcx,4
+0,2017-08-30 07:23:42 -0500,"/t/databases,/t/devops",Partitioning existing tables in PostgreSQL,http://blog.nordeus.com/dev-ops/partitioning-existing-tables-in-postgresql.htm,/u/pushcx,4
+1,2017-08-30 11:35:13 -0500,"/t/pdf,/t/compsci,/t/security","Separation, Virtual, Machine Monitors (VMM's) (2012)",https://pdfs.semanticscholar.org/a724/0f0070fcf2a2747231ddea2bab22b8e368b4.pdf,/u/nickpsecurity,2
+0,2017-08-30 08:18:15 -0500,"/t/compilers,/t/lisp",User-programmable infix operators in Racket,http://lexi-lambda.github.io/blog/2017/08/12/user-programmable-infix-operators-in-racket,/u/pushcx,3
+0,2017-08-30 06:01:03 -0500,"/t/linux,/t/programming",Filesystem monitoring in the Linux kernel,http://www.lanedo.com/filesystem-monitoring-linux-kernel/,/u/calvin,4
+0,2017-08-30 05:57:50 -0500,/t/databases,"DB Execution Plans for C++/Java Developers, and for anybody who has read Knuth",http://ithare.com/db-execution-plans-for-cjava-developers-and-for-anybody-who-has-read-knuth/,/u/mikejsavage,4
+8,2017-08-29 04:00:40 -0500,/t/openbsd,OpenBSD Community Goes Platinum,https://undeadly.org/cgi?action=article;sid=20170829025446,/u/mulander,37
+0,2017-08-30 07:24:22 -0500,/t/haskell,A Guide to Mutable References,http://www.kovach.me/posts/2017-06-22-mutable-references.html,/u/pushcx,3
+0,2017-08-30 07:57:36 -0500,/t/css,Building Skeleton Screens with CSS Custom Properties,https://css-tricks.com/building-skeleton-screens-css-custom-properties/,/u/flyingfisch,2
+0,2017-08-30 07:34:51 -0500,"/t/python,/t/testing",How we replaced dozens of test fixtures with a context function,https://medium.com/@hakibenita/how-we-replaced-dozens-of-test-fixtures-with-one-simple-function-bac73bfc277d,/u/pushcx,2
+0,2017-08-30 00:33:27 -0500,"/t/nodejs,/t/testing",Node.fz: fuzzing the server-side event-driven architecture,https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/,/u/sanxiyn,5
+0,2017-08-30 10:54:51 -0500,"/t/performance,/t/scala",Bootstrapping the Web with Scala Native (Part 1),http://www.spantree.net/blog/2017/08/29/bootstrapping-web-scala-native.html,/u/hwayne,1
+2,2017-08-29 20:14:06 -0500,"/t/compilers,/t/hardware,/t/performance",Compiler Optimization for Energy Efficiency,https://fylux.github.io/2017/08/16/Compiler_Optimization_Energy_Efficiency/,/u/calvin,7
+0,2017-08-30 06:01:48 -0500,/t/lisp,Empty Promises and Other Heresy,https://www.vincit.fi/en/blog/empty-promises-and-other-heresy/,/u/calvin,2
+2,2017-08-29 12:06:49 -0500,/t/education,Instructive and Persuasive Examples,https://www.hillelwayne.com/post/persuasive-examples/,/u/hwayne,8
+4,2017-08-29 04:35:22 -0500,/t/games,Fizzlefade,http://fabiensanglard.net/fizzlefade/index.php,/u/mulander,27
+1,2017-08-29 20:13:36 -0500,"/t/games,/t/programming",How (and why) we ported SHENZHEN SOLITAIRE to MS-DOS,https://www.gamasutra.com/blogs/ZachBarth/20170828/304568/How_and_why_we_ported_SHENZHEN_SOLITAIRE_to_MSDOS.php,/u/calvin,5
+1,2017-08-29 08:07:41 -0500,"/t/pdf,/t/crypto",The Double Ratchet Algorithm,https://whispersystems.org/docs/specifications/doubleratchet/doubleratchet.pdf,/u/asthasr,15

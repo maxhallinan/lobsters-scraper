@@ -1,25 +1,25 @@
-0,2014-08-29 16:06:49 -0500,"['/t/math', '/t/programming']",WebCLGL - Browser GPGPU,https://github.com/stormcolor/webclgl,/u/animatronic,3
-0,2014-08-29 13:50:16 -0500,['/t/go'],byten: Bit the size of file and turn it into human readable format,https://github.com/pyk/byten#,/u/pyk,4
-4,2014-08-29 01:21:07 -0500,['/t/virtualization'],Containers vs Hypervisors: The Battle Has Just Begun,http://www.linux.com/news/enterprise/cloud-computing/785769-containers-vs-hypervisors-the-battle-has-just-begun/,/u/mordae,10
-0,2014-08-29 13:12:11 -0500,"['/t/browsers', '/t/web']",Chrome 38 Beta: New primitives for the next-generation web,http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html,/u/jcs,3
-0,2014-08-29 19:38:21 -0500,"['/t/slides', '/t/javascript']",JavaScript Memory Management Masterclass,https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass,/u/pushcx,1
-12,2014-08-28 16:43:47 -0500,['/t/unix'],Unix/Linux trick: 'cd' back to the previous directory,http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/,/u/flyingfisch,13
-1,2014-08-29 09:15:11 -0500,"['/t/release', '/t/unix']",autojump: a cd command that learns,https://github.com/joelthelion/autojump,/u/pushcx,2
-0,2014-08-29 08:19:46 -0500,"['/t/security', '/t/web']",Free alternatives to 000webhost,http://blog.toppagedesign.com/free-hosting/2014/07/13/free-alternatives-to-000webhost.html,/u/flyingfisch,3
-6,2014-08-28 14:03:58 -0500,['/t/databases'],Readings in Databases,http://rxin.github.io/db-readings/,/u/SeanTAllen,13
-0,2014-08-29 15:03:58 -0500,"['/t/culture', '/t/programming']",Fogbeam Labs: Starting Points For Learning About Open Source,http://fogbeam.blogspot.com/2014/08/starting-points-for-learning-about-open.html,/u/mindcrime,1
-0,2014-08-29 01:30:40 -0500,['/t/culture'],On Contributing to Open Source,http://videlalvaro.github.io/2014/08/on-contributing-to-opensource.html,/u/BruceM,7
-0,2014-08-28 20:38:35 -0500,"['/t/pdf', '/t/compsci', '/t/games', '/t/lisp', '/t/programming']",Representing Game Dialogue as Expressions in First-Order Logic,http://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=2646&context=etd,/u/BruceM,5
-1,2014-08-28 12:28:34 -0500,"['/t/java', '/t/programming', '/t/ruby']",Mirah - Where Java Meets Ruby,https://blog.engineyard.com/2014/mirah-where-java-meets-ruby,/u/PJ,10
-3,2014-08-28 09:15:29 -0500,"['/t/compsci', '/t/lisp', '/t/programming']",An Overview of the Dylan Type System,http://dylanfoundry.org/2014/08/28/type-system-overview/,/u/BruceM,15
-0,2014-08-28 10:07:23 -0500,"['/t/programming', '/t/rust']",Calling a Rust library from C (or anything else),http://mainisusuallyafunction.blogspot.com/2014/08/calling-rust-library-from-c-or-anything.html,/u/steveklabnik,13
-0,2014-08-28 18:45:21 -0500,"['/t/haskell', '/t/programming']",Dealing with Asynchronous Exceptions during Resource Acquisition,http://www.well-typed.com/blog/97/,/u/bitemyapp,3
-0,2014-08-28 14:48:53 -0500,"['/t/video', '/t/compsci']","Faith, Evolution, and Programming Languages",https://www.youtube.com/watch?v=8frGknO8rIg,/u/SeanTAllen,5
-0,2014-08-28 14:20:50 -0500,"['/t/haskell', '/t/programming']",Codata Diagonalization,http://tel.github.io/2014/08/04/codata_diagonalization/,/u/bitemyapp,5
-0,2014-08-29 09:49:06 -0500,"['/t/culture', '/t/rant']",Life on the Command Line,http://stephenramsay.us/2011/04/09/life-on-the-command-line/,/u/tobym,1
-0,2014-08-28 20:10:47 -0500,"['/t/culture', '/t/practices']",Who's In The Office? The American Workday In One Graph,http://www.npr.org/blogs/money/2014/08/27/343415569/whos-in-the-office-the-american-workday-in-one-graph,/u/journeysquid,3
-0,2014-08-28 14:08:47 -0500,"['/t/pdf', '/t/distributed', '/t/networking']",A Brief History of NTP Time: Confessions of an Internet Ti mekeeper,http://www.eecis.udel.edu/~mills/database/papers/history.pdf,/u/pushcx,3
-0,2014-08-28 12:31:56 -0500,"['/t/php', '/t/web']",Profiling PHP Part 3: Practical Performance Tuning,https://blog.engineyard.com/2014/profiling-with-xhprof-xhgui-part-3,/u/dshafik,2
-7,2014-08-27 15:48:39 -0500,"['/t/compsci', '/t/haskell']",Introduction to Dependent Types: Haskell on Steroids,http://jozefg.bitbucket.org/posts/2014-08-25-dep-types-part-1.html,/u/tel,11
-0,2014-08-28 12:21:19 -0500,"['/t/programming', '/t/scala']",Why Datazenit went Reactive,https://typesafe.com/blog/code-size-is-down-performance-is-up--why-datazenit-went-reactive-,/u/lauris,1
-0,2014-08-28 06:33:39 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Call by Meaning,http://www.vpri.org/pdf/tr2014003_callbymeaning.pdf,/u/RiderOfGiraffes,2
+0,2014-08-29 16:06:49 -0500,"/t/math,/t/programming",WebCLGL - Browser GPGPU,https://github.com/stormcolor/webclgl,/u/animatronic,3
+0,2014-08-29 13:50:16 -0500,/t/go,byten: Bit the size of file and turn it into human readable format,https://github.com/pyk/byten#,/u/pyk,4
+4,2014-08-29 01:21:07 -0500,/t/virtualization,Containers vs Hypervisors: The Battle Has Just Begun,http://www.linux.com/news/enterprise/cloud-computing/785769-containers-vs-hypervisors-the-battle-has-just-begun/,/u/mordae,10
+0,2014-08-29 13:12:11 -0500,"/t/browsers,/t/web",Chrome 38 Beta: New primitives for the next-generation web,http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html,/u/jcs,3
+0,2014-08-29 19:38:21 -0500,"/t/slides,/t/javascript",JavaScript Memory Management Masterclass,https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass,/u/pushcx,1
+12,2014-08-28 16:43:47 -0500,/t/unix,Unix/Linux trick: 'cd' back to the previous directory,http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/,/u/flyingfisch,13
+1,2014-08-29 09:15:11 -0500,"/t/release,/t/unix",autojump: a cd command that learns,https://github.com/joelthelion/autojump,/u/pushcx,2
+0,2014-08-29 08:19:46 -0500,"/t/security,/t/web",Free alternatives to 000webhost,http://blog.toppagedesign.com/free-hosting/2014/07/13/free-alternatives-to-000webhost.html,/u/flyingfisch,3
+6,2014-08-28 14:03:58 -0500,/t/databases,Readings in Databases,http://rxin.github.io/db-readings/,/u/SeanTAllen,13
+0,2014-08-29 15:03:58 -0500,"/t/culture,/t/programming",Fogbeam Labs: Starting Points For Learning About Open Source,http://fogbeam.blogspot.com/2014/08/starting-points-for-learning-about-open.html,/u/mindcrime,1
+0,2014-08-29 01:30:40 -0500,/t/culture,On Contributing to Open Source,http://videlalvaro.github.io/2014/08/on-contributing-to-opensource.html,/u/BruceM,7
+0,2014-08-28 20:38:35 -0500,"/t/pdf,/t/compsci,/t/games,/t/lisp,/t/programming",Representing Game Dialogue as Expressions in First-Order Logic,http://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=2646&context=etd,/u/BruceM,5
+1,2014-08-28 12:28:34 -0500,"/t/java,/t/programming,/t/ruby",Mirah - Where Java Meets Ruby,https://blog.engineyard.com/2014/mirah-where-java-meets-ruby,/u/PJ,10
+3,2014-08-28 09:15:29 -0500,"/t/compsci,/t/lisp,/t/programming",An Overview of the Dylan Type System,http://dylanfoundry.org/2014/08/28/type-system-overview/,/u/BruceM,15
+0,2014-08-28 10:07:23 -0500,"/t/programming,/t/rust",Calling a Rust library from C (or anything else),http://mainisusuallyafunction.blogspot.com/2014/08/calling-rust-library-from-c-or-anything.html,/u/steveklabnik,13
+0,2014-08-28 18:45:21 -0500,"/t/haskell,/t/programming",Dealing with Asynchronous Exceptions during Resource Acquisition,http://www.well-typed.com/blog/97/,/u/bitemyapp,3
+0,2014-08-28 14:48:53 -0500,"/t/video,/t/compsci","Faith, Evolution, and Programming Languages",https://www.youtube.com/watch?v=8frGknO8rIg,/u/SeanTAllen,5
+0,2014-08-28 14:20:50 -0500,"/t/haskell,/t/programming",Codata Diagonalization,http://tel.github.io/2014/08/04/codata_diagonalization/,/u/bitemyapp,5
+0,2014-08-29 09:49:06 -0500,"/t/culture,/t/rant",Life on the Command Line,http://stephenramsay.us/2011/04/09/life-on-the-command-line/,/u/tobym,1
+0,2014-08-28 20:10:47 -0500,"/t/culture,/t/practices",Who's In The Office? The American Workday In One Graph,http://www.npr.org/blogs/money/2014/08/27/343415569/whos-in-the-office-the-american-workday-in-one-graph,/u/journeysquid,3
+0,2014-08-28 14:08:47 -0500,"/t/pdf,/t/distributed,/t/networking",A Brief History of NTP Time: Confessions of an Internet Ti mekeeper,http://www.eecis.udel.edu/~mills/database/papers/history.pdf,/u/pushcx,3
+0,2014-08-28 12:31:56 -0500,"/t/php,/t/web",Profiling PHP Part 3: Practical Performance Tuning,https://blog.engineyard.com/2014/profiling-with-xhprof-xhgui-part-3,/u/dshafik,2
+7,2014-08-27 15:48:39 -0500,"/t/compsci,/t/haskell",Introduction to Dependent Types: Haskell on Steroids,http://jozefg.bitbucket.org/posts/2014-08-25-dep-types-part-1.html,/u/tel,11
+0,2014-08-28 12:21:19 -0500,"/t/programming,/t/scala",Why Datazenit went Reactive,https://typesafe.com/blog/code-size-is-down-performance-is-up--why-datazenit-went-reactive-,/u/lauris,1
+0,2014-08-28 06:33:39 -0500,"/t/pdf,/t/compsci,/t/programming",Call by Meaning,http://www.vpri.org/pdf/tr2014003_callbymeaning.pdf,/u/RiderOfGiraffes,2

@@ -1,25 +1,25 @@
-0,2017-02-20 12:46:19 -0600,['/t/web'],Flexbox | HTML & CSS Is Hard,https://internetingishard.com/html-and-css/flexbox/,/u/yumaikas,10
-3,2017-02-20 10:50:35 -0600,['/t/web'],Interneting Is Hard,https://internetingishard.com/,/u/flyingfisch,7
-0,2017-02-20 14:17:51 -0600,"['/t/hardware', '/t/science']",Can you Fake a TV Remote with a Lighter and some Paper?,http://hackaday.com/2017/02/20/hackbusting-can-you-fake-a-tv-remote-with-a-lighter-and-some-paper/,/u/flyingfisch,7
-4,2017-02-20 14:14:21 -0600,['/t/culture'],Tea and Tech Culture,http://blog.alicegoldfuss.com/tea-and-tech-culture/,/u/untitaker,13
-24,2017-02-19 15:19:13 -0600,['/t/culture'],"Reflecting on one very, very strange year at Uber",https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber,/u/kb,155
-0,2017-02-20 11:39:47 -0600,"['/t/compsci', '/t/javascript']","Seeking feedback on my somewhat unusual free ""Intro to Programming"" course",https://en.hexlet.io/courses/intro_to_programming,/u/freetonik,4
-0,2017-02-20 10:40:03 -0600,"['/t/javascript', '/t/release']","Announcing Static Site Hosting Support for Github, Gitlab, any Repo Host",https://www.aerobatic.com/,/u/ivanoats,4
-1,2017-02-20 11:40:13 -0600,"['/t/cryptocurrencies', '/t/privacy']",A fistful of Bitcoins: Characterizing payments among men with no names,https://blog.acolyer.org/2017/02/20/a-fistful-of-bitcoins-characterizing-payments-among-men-with-no-names/,/u/pushcx,6
-1,2017-02-20 11:09:08 -0600,"['/t/programming', '/t/security', '/t/web']",Opa Language - Rapid and Secure Web Development,http://opalang.org/,/u/nickpsecurity,5
-0,2017-02-20 11:38:41 -0600,"['/t/pdf', '/t/privacy', '/t/web']",De-anonymizing Web Browsing Data with Social Networks,http://randomwalker.info/publications/browsing-history-deanonymization.pdf,/u/pushcx,6
-0,2017-02-20 14:06:14 -0600,"['/t/elixir', '/t/practices']",Creating a supervision tree for Elixir GenEvent behavior,http://pedroassumpcao.ghost.io/creating-a-supervision-tree-for-elixir-genevent-behavior/,/u/friendlysock,3
-0,2017-02-20 06:16:05 -0600,"['/t/css', '/t/web']",CSS sidebar toggle,https://silvestarbistrovic.from.hr/en/articles/css-sidebar-toggle/,/u/starbist,4
-2,2017-02-20 03:53:52 -0600,"['/t/elm', '/t/programming']",The beauty of recursion and list machinery,http://langram.org/2017/02/19/the-beauty-of-recursion-and-list-machinery/,/u/mjturner,5
-0,2017-02-20 21:45:59 -0600,['/t/culture'],Reflecting on Susan Fowler’s Reflections,https://medium.com/@hadrad1000/reflecting-on-susan-fowlers-reflections-e2dccb374b47,/u/kurtis,2
-2,2017-02-19 23:37:11 -0600,"['/t/linux', '/t/release']",Linux v4.10,https://lwn.net/Articles/714943/,/u/av,10
-0,2017-02-20 15:16:25 -0600,"['/t/audio', '/t/python', '/t/ruby']",Episode 10: Digging into Ruby with Richard Schneems,https://soundcloud.com/import-this/episode-10-digging-into-ruby-with-richard-schneems,/u/schneems,2
-0,2017-02-20 06:35:47 -0600,"['/t/crypto', '/t/security']",Reliably generating good passwords,http://anarc.at/blog/2017-02-18-passwords-entropy/,/u/mjturner,6
-5,2017-02-20 04:25:02 -0600,['/t/security'],Why buying used cars could put your safety at risk,http://wtkr.com/2017/02/18/why-buying-used-cars-could-put-your-safety-at-risk/,/u/pilkch,3
-1,2017-02-20 03:50:53 -0600,"['/t/databases', '/t/devops']",Translating between monitoring languages,https://www.robustperception.io/translating-between-monitoring-languages/,/u/bbrazil,2
-0,2017-02-20 10:11:33 -0600,['/t/programming'],On Problems with Vala,https://blogs.gnome.org/mcatanzaro/2017/02/19/on-problems-with-vala/,/u/calvin,3
-27,2017-02-19 13:31:56 -0600,['/t/programming'],When AI replaces programmers,https://codewithoutrules.com/2017/02/19/ai-replace-programmers/,/u/itamarst,9
-1,2017-02-20 00:21:34 -0600,['/t/math'],My Journey From Frequentist to Bayesian Statistics,http://www.fharrell.com/2017/02/my-journey-from-frequentist-to-bayesian.html,/u/ericdykstra,8
-0,2017-02-20 10:34:06 -0600,"['/t/python', '/t/web']","How does Django’s StreamingHttpResponse work, exactly?",https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/,/u/av,2
-0,2017-02-20 09:38:26 -0600,['/t/security'],Security is Hard: Where Do I Start?,https://www.gracefulsecurity.com/security-checklist/,/u/flyingfisch,2
-4,2017-02-19 08:00:54 -0600,"['/t/assembly', '/t/rust']",How copying an int made my code 11 times faster,https://medium.com/@robertgrosse/how-copying-an-int-made-my-code-11-times-faster-f76c66312e0f,/u/pushcx,36
+0,2017-02-20 12:46:19 -0600,/t/web,Flexbox | HTML & CSS Is Hard,https://internetingishard.com/html-and-css/flexbox/,/u/yumaikas,10
+3,2017-02-20 10:50:35 -0600,/t/web,Interneting Is Hard,https://internetingishard.com/,/u/flyingfisch,7
+0,2017-02-20 14:17:51 -0600,"/t/hardware,/t/science",Can you Fake a TV Remote with a Lighter and some Paper?,http://hackaday.com/2017/02/20/hackbusting-can-you-fake-a-tv-remote-with-a-lighter-and-some-paper/,/u/flyingfisch,7
+4,2017-02-20 14:14:21 -0600,/t/culture,Tea and Tech Culture,http://blog.alicegoldfuss.com/tea-and-tech-culture/,/u/untitaker,13
+24,2017-02-19 15:19:13 -0600,/t/culture,"Reflecting on one very, very strange year at Uber",https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber,/u/kb,155
+0,2017-02-20 11:39:47 -0600,"/t/compsci,/t/javascript","Seeking feedback on my somewhat unusual free ""Intro to Programming"" course",https://en.hexlet.io/courses/intro_to_programming,/u/freetonik,4
+0,2017-02-20 10:40:03 -0600,"/t/javascript,/t/release","Announcing Static Site Hosting Support for Github, Gitlab, any Repo Host",https://www.aerobatic.com/,/u/ivanoats,4
+1,2017-02-20 11:40:13 -0600,"/t/cryptocurrencies,/t/privacy",A fistful of Bitcoins: Characterizing payments among men with no names,https://blog.acolyer.org/2017/02/20/a-fistful-of-bitcoins-characterizing-payments-among-men-with-no-names/,/u/pushcx,6
+1,2017-02-20 11:09:08 -0600,"/t/programming,/t/security,/t/web",Opa Language - Rapid and Secure Web Development,http://opalang.org/,/u/nickpsecurity,5
+0,2017-02-20 11:38:41 -0600,"/t/pdf,/t/privacy,/t/web",De-anonymizing Web Browsing Data with Social Networks,http://randomwalker.info/publications/browsing-history-deanonymization.pdf,/u/pushcx,6
+0,2017-02-20 14:06:14 -0600,"/t/elixir,/t/practices",Creating a supervision tree for Elixir GenEvent behavior,http://pedroassumpcao.ghost.io/creating-a-supervision-tree-for-elixir-genevent-behavior/,/u/friendlysock,3
+0,2017-02-20 06:16:05 -0600,"/t/css,/t/web",CSS sidebar toggle,https://silvestarbistrovic.from.hr/en/articles/css-sidebar-toggle/,/u/starbist,4
+2,2017-02-20 03:53:52 -0600,"/t/elm,/t/programming",The beauty of recursion and list machinery,http://langram.org/2017/02/19/the-beauty-of-recursion-and-list-machinery/,/u/mjturner,5
+0,2017-02-20 21:45:59 -0600,/t/culture,Reflecting on Susan Fowler’s Reflections,https://medium.com/@hadrad1000/reflecting-on-susan-fowlers-reflections-e2dccb374b47,/u/kurtis,2
+2,2017-02-19 23:37:11 -0600,"/t/linux,/t/release",Linux v4.10,https://lwn.net/Articles/714943/,/u/av,10
+0,2017-02-20 15:16:25 -0600,"/t/audio,/t/python,/t/ruby",Episode 10: Digging into Ruby with Richard Schneems,https://soundcloud.com/import-this/episode-10-digging-into-ruby-with-richard-schneems,/u/schneems,2
+0,2017-02-20 06:35:47 -0600,"/t/crypto,/t/security",Reliably generating good passwords,http://anarc.at/blog/2017-02-18-passwords-entropy/,/u/mjturner,6
+5,2017-02-20 04:25:02 -0600,/t/security,Why buying used cars could put your safety at risk,http://wtkr.com/2017/02/18/why-buying-used-cars-could-put-your-safety-at-risk/,/u/pilkch,3
+1,2017-02-20 03:50:53 -0600,"/t/databases,/t/devops",Translating between monitoring languages,https://www.robustperception.io/translating-between-monitoring-languages/,/u/bbrazil,2
+0,2017-02-20 10:11:33 -0600,/t/programming,On Problems with Vala,https://blogs.gnome.org/mcatanzaro/2017/02/19/on-problems-with-vala/,/u/calvin,3
+27,2017-02-19 13:31:56 -0600,/t/programming,When AI replaces programmers,https://codewithoutrules.com/2017/02/19/ai-replace-programmers/,/u/itamarst,9
+1,2017-02-20 00:21:34 -0600,/t/math,My Journey From Frequentist to Bayesian Statistics,http://www.fharrell.com/2017/02/my-journey-from-frequentist-to-bayesian.html,/u/ericdykstra,8
+0,2017-02-20 10:34:06 -0600,"/t/python,/t/web","How does Django’s StreamingHttpResponse work, exactly?",https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/,/u/av,2
+0,2017-02-20 09:38:26 -0600,/t/security,Security is Hard: Where Do I Start?,https://www.gracefulsecurity.com/security-checklist/,/u/flyingfisch,2
+4,2017-02-19 08:00:54 -0600,"/t/assembly,/t/rust",How copying an int made my code 11 times faster,https://medium.com/@robertgrosse/how-copying-an-int-made-my-code-11-times-faster-f76c66312e0f,/u/pushcx,36

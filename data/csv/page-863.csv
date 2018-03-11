@@ -1,25 +1,25 @@
-10,2016-02-22 08:30:32 -0600,"['/t/compsci', '/t/rant']",It Is What It Is (And Nothing Else),https://existentialtype.wordpress.com/2016/02/22/it-is-what-it-is-and-nothing-else/,/u/apy,5
-0,2016-02-22 13:18:49 -0600,"['/t/video', '/t/event', '/t/javascript']",React.js Conf Live Stream,https://www.youtube.com/watch?v=pi62S_MvheE,/u/colbyr,1
-6,2016-02-21 07:12:24 -0600,"['/t/linux', '/t/security']",Beware of hacked ISOs if you downloaded Linux Mint on February 20th!,http://blog.linuxmint.com/?p=2994,/u/mulander,25
-0,2016-02-22 10:26:36 -0600,"['/t/design', '/t/practices']",How to usability test your site for free,http://www.webdesignerdepot.com/2016/02/how-to-usability-test-your-site-for-free/,/u/flyingfisch,1
-2,2016-02-21 12:43:52 -0600,['/t/haskell'],State of the Haskell Ecosystem - February 2016 Edition,http://www.haskellforall.com/2016/02/state-of-haskell-ecosystem-february.html,/u/pushcx,9
-0,2016-02-21 18:18:41 -0600,"['/t/swift', '/t/web']",Swifton: A Ruby on Rails inspired Web Framework for Swift,https://github.com/necolt/Swifton,/u/jcs,7
-0,2016-02-22 03:27:41 -0600,['/t/devops'],"Cloud WorkBench - simple definition, execution, and repetition of benchmarks in the cloud",https://github.com/sealuzh/cloud-workbench,/u/gregnavis,2
-0,2016-02-21 15:14:48 -0600,"['/t/pdf', '/t/practices']",Realizing quality improvement through test driven development,http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf,/u/joshuacc,6
-0,2016-02-21 11:14:16 -0600,"['/t/law', '/t/privacy']",Help Us Spread the Word: Encryption Matters,https://blog.mozilla.org/blog/2016/02/16/help-us-spread-the-word-encryption-matters/,/u/halosghost,8
-9,2016-02-20 21:14:49 -0600,['/t/programming'],Lamdu - towards a new programming experience,http://www.lamdu.org/,/u/pushcx,21
-0,2016-02-21 13:46:42 -0600,"['/t/pdf', '/t/security']",How to Break MD5 and Other Hash Functions (2005),http://merlot.usc.edu/csac-f06/papers/Wang05a.pdf,/u/fcbsd,3
-3,2016-02-20 09:13:07 -0600,['/t/security'],A Skeleton Key of Unknown Strength,http://dankaminsky.com/2016/02/20/skeleton/,/u/jcs,30
-0,2016-02-21 09:56:57 -0600,"['/t/reversing', '/t/security', '/t/unix']","Another story of Unix Trojan: Tsunami (IRC/Bot) w/ Flooder, Backdoor at a hacked xBSD (2013)",http://blog.malwaremustdie.org/2013/05/story-of-unix-trojan-tsunami-ircbot-w.html,/u/mulander,2
-1,2016-02-20 06:06:22 -0600,['/t/security'],Breaking homegrown crypto,https://kivikakk.ee/cryptography/2016/02/20/breaking-homegrown-crypto.html,/u/kivikakk,23
-1,2016-02-20 15:24:25 -0600,"['/t/show', '/t/mac']",The easiest way to get started with RabbitMQ on the Mac,https://github.com/jpadilla/rabbitmqapp,/u/jpadilla,4
-0,2016-02-20 17:22:07 -0600,['/t/scaling'],HLS video hotlink protection with nginx and Varnish.,https://benwilber.github.io/streamboat.tv/nginx/varnish/hotlink/video/streaming/hls/2016/02/06/hls-video-hotlink-protection-with-nginx-and-varnish.html,/u/benwilber,4
-2,2016-02-20 03:40:22 -0600,['/t/show'],Simple and elegant Markdown-based resumes,https://github.com/awalGarg/cv-maker,/u/awal,11
-0,2016-02-20 17:47:00 -0600,['/t/programming'],Reasoning About Code,http://www.lispcast.com/reasoning-about-code,/u/pushcx,5
-5,2016-02-19 15:51:48 -0600,['/t/networking'],The IPv6 Numeric IP Format is a Serious Usability Problem,https://www.zerotier.com/blog/?p=724,/u/calvin,36
-22,2016-02-19 12:20:36 -0600,"['/t/show', '/t/vim']",A Better Vim - How to configure Neovim,http://patrickmarchand.com/posts/neovim-tuto.html,/u/superpat,26
-8,2016-02-19 18:08:42 -0600,['/t/haskell'],The Joy and Agony of Haskell in Production,http://www.stephendiehl.com/posts/production.html,/u/pushcx,29
-1,2016-02-20 10:25:15 -0600,"['/t/databases', '/t/go']",Handling JSONB in Go Structs,http://coussej.github.io/2016/02/16/Handling-JSONB-in-Go-Structs/,/u/ngrilly,6
-0,2016-02-20 13:30:19 -0600,"['/t/linux', '/t/reversing']",Cheap BlueTooth Buttons and Linux,https://shkspr.mobi/blog/2016/02/cheap-bluetooth-buttons-and-linux/,/u/pushcx,4
-0,2016-02-20 21:15:27 -0600,['/t/javascript'],Rendering in Angular2,http://www.yearofmoo.com/2016/02/rendering-in-angular2.html,/u/joshuacc,1
-0,2016-02-20 14:25:23 -0600,['/t/haskell'],Making GHCi scale better and faster,http://chrisdone.com/posts/making-ghci-fast,/u/sts,3
+10,2016-02-22 08:30:32 -0600,"/t/compsci,/t/rant",It Is What It Is (And Nothing Else),https://existentialtype.wordpress.com/2016/02/22/it-is-what-it-is-and-nothing-else/,/u/apy,5
+0,2016-02-22 13:18:49 -0600,"/t/video,/t/event,/t/javascript",React.js Conf Live Stream,https://www.youtube.com/watch?v=pi62S_MvheE,/u/colbyr,1
+6,2016-02-21 07:12:24 -0600,"/t/linux,/t/security",Beware of hacked ISOs if you downloaded Linux Mint on February 20th!,http://blog.linuxmint.com/?p=2994,/u/mulander,25
+0,2016-02-22 10:26:36 -0600,"/t/design,/t/practices",How to usability test your site for free,http://www.webdesignerdepot.com/2016/02/how-to-usability-test-your-site-for-free/,/u/flyingfisch,1
+2,2016-02-21 12:43:52 -0600,/t/haskell,State of the Haskell Ecosystem - February 2016 Edition,http://www.haskellforall.com/2016/02/state-of-haskell-ecosystem-february.html,/u/pushcx,9
+0,2016-02-21 18:18:41 -0600,"/t/swift,/t/web",Swifton: A Ruby on Rails inspired Web Framework for Swift,https://github.com/necolt/Swifton,/u/jcs,7
+0,2016-02-22 03:27:41 -0600,/t/devops,"Cloud WorkBench - simple definition, execution, and repetition of benchmarks in the cloud",https://github.com/sealuzh/cloud-workbench,/u/gregnavis,2
+0,2016-02-21 15:14:48 -0600,"/t/pdf,/t/practices",Realizing quality improvement through test driven development,http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf,/u/joshuacc,6
+0,2016-02-21 11:14:16 -0600,"/t/law,/t/privacy",Help Us Spread the Word: Encryption Matters,https://blog.mozilla.org/blog/2016/02/16/help-us-spread-the-word-encryption-matters/,/u/halosghost,8
+9,2016-02-20 21:14:49 -0600,/t/programming,Lamdu - towards a new programming experience,http://www.lamdu.org/,/u/pushcx,21
+0,2016-02-21 13:46:42 -0600,"/t/pdf,/t/security",How to Break MD5 and Other Hash Functions (2005),http://merlot.usc.edu/csac-f06/papers/Wang05a.pdf,/u/fcbsd,3
+3,2016-02-20 09:13:07 -0600,/t/security,A Skeleton Key of Unknown Strength,http://dankaminsky.com/2016/02/20/skeleton/,/u/jcs,30
+0,2016-02-21 09:56:57 -0600,"/t/reversing,/t/security,/t/unix","Another story of Unix Trojan: Tsunami (IRC/Bot) w/ Flooder, Backdoor at a hacked xBSD (2013)",http://blog.malwaremustdie.org/2013/05/story-of-unix-trojan-tsunami-ircbot-w.html,/u/mulander,2
+1,2016-02-20 06:06:22 -0600,/t/security,Breaking homegrown crypto,https://kivikakk.ee/cryptography/2016/02/20/breaking-homegrown-crypto.html,/u/kivikakk,23
+1,2016-02-20 15:24:25 -0600,"/t/show,/t/mac",The easiest way to get started with RabbitMQ on the Mac,https://github.com/jpadilla/rabbitmqapp,/u/jpadilla,4
+0,2016-02-20 17:22:07 -0600,/t/scaling,HLS video hotlink protection with nginx and Varnish.,https://benwilber.github.io/streamboat.tv/nginx/varnish/hotlink/video/streaming/hls/2016/02/06/hls-video-hotlink-protection-with-nginx-and-varnish.html,/u/benwilber,4
+2,2016-02-20 03:40:22 -0600,/t/show,Simple and elegant Markdown-based resumes,https://github.com/awalGarg/cv-maker,/u/awal,11
+0,2016-02-20 17:47:00 -0600,/t/programming,Reasoning About Code,http://www.lispcast.com/reasoning-about-code,/u/pushcx,5
+5,2016-02-19 15:51:48 -0600,/t/networking,The IPv6 Numeric IP Format is a Serious Usability Problem,https://www.zerotier.com/blog/?p=724,/u/calvin,36
+22,2016-02-19 12:20:36 -0600,"/t/show,/t/vim",A Better Vim - How to configure Neovim,http://patrickmarchand.com/posts/neovim-tuto.html,/u/superpat,26
+8,2016-02-19 18:08:42 -0600,/t/haskell,The Joy and Agony of Haskell in Production,http://www.stephendiehl.com/posts/production.html,/u/pushcx,29
+1,2016-02-20 10:25:15 -0600,"/t/databases,/t/go",Handling JSONB in Go Structs,http://coussej.github.io/2016/02/16/Handling-JSONB-in-Go-Structs/,/u/ngrilly,6
+0,2016-02-20 13:30:19 -0600,"/t/linux,/t/reversing",Cheap BlueTooth Buttons and Linux,https://shkspr.mobi/blog/2016/02/cheap-bluetooth-buttons-and-linux/,/u/pushcx,4
+0,2016-02-20 21:15:27 -0600,/t/javascript,Rendering in Angular2,http://www.yearofmoo.com/2016/02/rendering-in-angular2.html,/u/joshuacc,1
+0,2016-02-20 14:25:23 -0600,/t/haskell,Making GHCi scale better and faster,http://chrisdone.com/posts/making-ghci-fast,/u/sts,3

@@ -1,25 +1,25 @@
-1,2015-07-06 06:19:16 -0500,['/t/unix'],pkgsrc-2015Q2 released,http://mail-index.netbsd.org/pkgsrc-users/2015/07/06/msg021778.html,/u/fcambus,4
-4,2015-07-06 13:28:41 -0500,"['/t/culture', '/t/web']",Toward a Better Markdown Tutorial,http://blog.codinghorror.com/toward-a-better-markdown-tutorial/,/u/flyingfisch,3
-0,2015-07-05 14:45:15 -0500,['/t/science'],Do Binaural Beats Really Affect Brainwaves?,http://www.autodidacts.io/binaural-beat-openbci-eeg-experiment/,/u/Curiositry,8
-13,2015-07-05 09:32:25 -0500,"['/t/linux', '/t/release']",Greyhole,https://www.greyhole.net/,/u/breul99,7
-0,2015-07-05 12:35:19 -0500,['/t/programming'],Property based testing for optimisers,http://www.drmaciver.com/2015/07/properties-for-testing-optimisation/,/u/DRMacIver,7
-1,2015-07-05 15:12:26 -0500,"['/t/video', '/t/compsci']",Computational thinking in English schools,https://vimeo.com/132569112,/u/fcbsd,4
-11,2015-07-04 22:41:51 -0500,['/t/practices'],"About 1400 Words of Skepticism about Markdown, and an Imagined Alternative",http://cforster.com/2015/06/markdown-skepticism/,/u/pushcx,10
-0,2015-07-05 04:35:46 -0500,"['/t/linux', '/t/perl']",Emulating Linux MIPS in Perl - Part 1: ELF loader,http://blog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html,/u/samuelt,9
-16,2015-07-04 09:44:01 -0500,['/t/networking'],Aether - a reddit without servers,http://getaether.net/,/u/DrM,22
-0,2015-07-05 06:31:13 -0500,"['/t/pdf', '/t/compsci']",APL on the Burroughs 5500 - Gary Kildall,http://www.cs.washington.edu/tr/1970/09/UW-CSE-70-09-04.PDF,/u/animatronic,4
-1,2015-07-04 19:26:57 -0500,"['/t/linux', '/t/release']",Why I ditched RAID and Greyhole for MHDDFS,http://zornsoftware.codenature.info/blog/why-i-ditched-raid-and-greyhole-for-mhddfs.html,/u/breul99,8
-3,2015-07-04 10:47:40 -0500,"['/t/slides', '/t/java']",Fast as C: How to Write Really Terrible Java,http://www.slideshare.net/CharlesNutter/fast-as-c-how-to-write-really-terrible-java,/u/SeanTAllen,19
-2,2015-07-04 18:38:44 -0500,['/t/programming'],Improving Regex Performance,https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/,/u/pushcx,6
-2,2015-07-04 17:17:01 -0500,"['/t/practices', '/t/programming']",The End of Software Versions,http://hintjens.com/blog:85,/u/pushcx,7
-2,2015-07-04 20:34:21 -0500,['/t/science'],"Real Physics: Physical Intuition, Not Mathematics",http://realphysics.blogspot.com/2011/06/physical-intuition-not-mathematics.html,/u/kellogh,3
-0,2015-07-04 19:27:49 -0500,"['/t/compilers', '/t/compsci']",Rascal Metaprogramming Language,http://www.rascal-mpl.org/,/u/animatronic,6
-0,2015-07-04 16:36:13 -0500,"['/t/cryptocurrencies', '/t/distributed']",Some Miners Generating Invalid Blocks,https://bitcoin.org/en/alert/2015-07-04-spv-mining,/u/pushcx,7
-0,2015-07-04 18:31:20 -0500,"['/t/video', '/t/science']",The physics of floating screwdrivers,http://www.youtube.com/watch?v=jAYP6pWrdkc,/u/pushcx,3
-0,2015-07-04 18:07:02 -0500,"['/t/haskell', '/t/programming']",Perf for low-level profiling,https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling,/u/pushcx,3
-8,2015-07-03 15:06:11 -0500,"['/t/compilers', '/t/programming', '/t/rust']",Things rust shipped without,https://graydon2.dreamwidth.org/218040.html,/u/pushcx,40
-0,2015-07-04 05:16:09 -0500,"['/t/distributed', '/t/programming', '/t/science']",Snowsuit Zine // issue 07 - Enter The Microlith,http://snowsuit.io/issue07.html,/u/apy,5
-10,2015-07-04 14:29:52 -0500,['/t/meta'],Decentralized tag?,/s/a6t3gn/decentralized_tag,/u/omphalos,3
-15,2015-07-03 09:16:36 -0500,"['/t/book', '/t/compsci', '/t/math']",Satisfiability: draft of part of Knuth's Volume 4B now available,http://www-cs-faculty.stanford.edu/~uno/fasc6a.ps.gz,/u/derek-jones,16
-2,2015-07-04 01:08:28 -0500,"['/t/javascript', '/t/security']",Important security upgrades for node.js and io.js,https://medium.com/@iojs/important-security-upgrades-for-node-js-and-io-js-8ac14ece5852,/u/dpup,3
-0,2015-07-03 17:05:06 -0500,"['/t/lua', '/t/networking']","Pfmatch, a packet filtering language embedded in Lua",https://wingolog.org/archives/2015/07/03/pfmatch-a-packet-filtering-language-embedded-in-lua,/u/trousers,8
+1,2015-07-06 06:19:16 -0500,/t/unix,pkgsrc-2015Q2 released,http://mail-index.netbsd.org/pkgsrc-users/2015/07/06/msg021778.html,/u/fcambus,4
+4,2015-07-06 13:28:41 -0500,"/t/culture,/t/web",Toward a Better Markdown Tutorial,http://blog.codinghorror.com/toward-a-better-markdown-tutorial/,/u/flyingfisch,3
+0,2015-07-05 14:45:15 -0500,/t/science,Do Binaural Beats Really Affect Brainwaves?,http://www.autodidacts.io/binaural-beat-openbci-eeg-experiment/,/u/Curiositry,8
+13,2015-07-05 09:32:25 -0500,"/t/linux,/t/release",Greyhole,https://www.greyhole.net/,/u/breul99,7
+0,2015-07-05 12:35:19 -0500,/t/programming,Property based testing for optimisers,http://www.drmaciver.com/2015/07/properties-for-testing-optimisation/,/u/DRMacIver,7
+1,2015-07-05 15:12:26 -0500,"/t/video,/t/compsci",Computational thinking in English schools,https://vimeo.com/132569112,/u/fcbsd,4
+11,2015-07-04 22:41:51 -0500,/t/practices,"About 1400 Words of Skepticism about Markdown, and an Imagined Alternative",http://cforster.com/2015/06/markdown-skepticism/,/u/pushcx,10
+0,2015-07-05 04:35:46 -0500,"/t/linux,/t/perl",Emulating Linux MIPS in Perl - Part 1: ELF loader,http://blog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html,/u/samuelt,9
+16,2015-07-04 09:44:01 -0500,/t/networking,Aether - a reddit without servers,http://getaether.net/,/u/DrM,22
+0,2015-07-05 06:31:13 -0500,"/t/pdf,/t/compsci",APL on the Burroughs 5500 - Gary Kildall,http://www.cs.washington.edu/tr/1970/09/UW-CSE-70-09-04.PDF,/u/animatronic,4
+1,2015-07-04 19:26:57 -0500,"/t/linux,/t/release",Why I ditched RAID and Greyhole for MHDDFS,http://zornsoftware.codenature.info/blog/why-i-ditched-raid-and-greyhole-for-mhddfs.html,/u/breul99,8
+3,2015-07-04 10:47:40 -0500,"/t/slides,/t/java",Fast as C: How to Write Really Terrible Java,http://www.slideshare.net/CharlesNutter/fast-as-c-how-to-write-really-terrible-java,/u/SeanTAllen,19
+2,2015-07-04 18:38:44 -0500,/t/programming,Improving Regex Performance,https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/,/u/pushcx,6
+2,2015-07-04 17:17:01 -0500,"/t/practices,/t/programming",The End of Software Versions,http://hintjens.com/blog:85,/u/pushcx,7
+2,2015-07-04 20:34:21 -0500,/t/science,"Real Physics: Physical Intuition, Not Mathematics",http://realphysics.blogspot.com/2011/06/physical-intuition-not-mathematics.html,/u/kellogh,3
+0,2015-07-04 19:27:49 -0500,"/t/compilers,/t/compsci",Rascal Metaprogramming Language,http://www.rascal-mpl.org/,/u/animatronic,6
+0,2015-07-04 16:36:13 -0500,"/t/cryptocurrencies,/t/distributed",Some Miners Generating Invalid Blocks,https://bitcoin.org/en/alert/2015-07-04-spv-mining,/u/pushcx,7
+0,2015-07-04 18:31:20 -0500,"/t/video,/t/science",The physics of floating screwdrivers,http://www.youtube.com/watch?v=jAYP6pWrdkc,/u/pushcx,3
+0,2015-07-04 18:07:02 -0500,"/t/haskell,/t/programming",Perf for low-level profiling,https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling,/u/pushcx,3
+8,2015-07-03 15:06:11 -0500,"/t/compilers,/t/programming,/t/rust",Things rust shipped without,https://graydon2.dreamwidth.org/218040.html,/u/pushcx,40
+0,2015-07-04 05:16:09 -0500,"/t/distributed,/t/programming,/t/science",Snowsuit Zine // issue 07 - Enter The Microlith,http://snowsuit.io/issue07.html,/u/apy,5
+10,2015-07-04 14:29:52 -0500,/t/meta,Decentralized tag?,/s/a6t3gn/decentralized_tag,/u/omphalos,3
+15,2015-07-03 09:16:36 -0500,"/t/book,/t/compsci,/t/math",Satisfiability: draft of part of Knuth's Volume 4B now available,http://www-cs-faculty.stanford.edu/~uno/fasc6a.ps.gz,/u/derek-jones,16
+2,2015-07-04 01:08:28 -0500,"/t/javascript,/t/security",Important security upgrades for node.js and io.js,https://medium.com/@iojs/important-security-upgrades-for-node-js-and-io-js-8ac14ece5852,/u/dpup,3
+0,2015-07-03 17:05:06 -0500,"/t/lua,/t/networking","Pfmatch, a packet filtering language embedded in Lua",https://wingolog.org/archives/2015/07/03/pfmatch-a-packet-filtering-language-embedded-in-lua,/u/trousers,8

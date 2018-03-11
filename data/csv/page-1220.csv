@@ -1,25 +1,25 @@
-0,2014-11-11 11:04:58 -0600,"['/t/javascript', '/t/web']","Building a cross-platform Instagram using MMS, Node, Hapi, Caman, Socket.io & LevelDB",https://github.com/crtr0/phonestagram,/u/crtr,3
-8,2014-11-11 03:40:02 -0600,['/t/meta'],Add a FOSS/open source tag?,/s/r4ipep/add_foss_open_source_tag,/u/skade,11
-0,2014-11-11 05:09:42 -0600,"['/t/api', '/t/web']",Snowplow 0.9.11 released with support for webhooks,http://snowplowanalytics.com/blog/2014/11/10/snowplow-0.9.11-released-with-webhook-support/,/u/alexdean,3
-0,2014-11-11 07:46:30 -0600,['/t/networking'],Future of Docker networking,http://containerops.org/2014/11/11/future-of-docker-networking/,/u/gyre007,2
-3,2014-11-10 11:04:08 -0600,"['/t/law', '/t/networking']","President Obama Calls For A Free And Open Internet, Wants It Reclassified As A Utility",http://techcrunch.com/2014/11/10/president-obama-calls-for-a-free-and-open-internet-wants-it-reclassified-as-a-utility/,/u/UkiahSmith,19
-3,2014-11-10 12:04:12 -0600,"['/t/browsers', '/t/web']",Firefox Developer Edition,https://www.mozilla.org/en-US/firefox/developer/,/u/journeysquid,13
-0,2014-11-10 21:05:21 -0600,['/t/devops'],"Nix pill 17: nixpkgs, overriding packages",http://lethalman.blogspot.it/2014/11/nix-pill-17-nixpkgs-overriding-packages.html,/u/puffnfresh,5
-4,2014-11-10 11:26:00 -0600,['/t/linux'],"A 'proprietary' Linux would have cost $1 trillion & 8,000 person-years",http://www.computerweekly.com/blogs/open-source-insider/2014/11/a-proprietary-linux-would-have-cost-1-trillion-8000-person-years.html,/u/dh,7
-0,2014-11-10 13:06:08 -0600,['/t/go'],Half a decade with Go,http://blog.golang.org/5years,/u/journeysquid,11
-11,2014-11-10 08:59:49 -0600,"['/t/ask', '/t/distributed']",Why Is Exactly-Once Messaging Not Possible In A Distributed Queue?,/s/ecjfcm/why_is_exactly_once_messaging_not,/u/kellogh,26
-1,2014-11-10 10:37:44 -0600,"['/t/javascript', '/t/web']","A JavaScript DOM model supporting creation, diffs and patches for efficient re-rendering",https://github.com/Matt-Esch/virtual-dom,/u/crtr,8
-27,2014-11-10 05:38:59 -0600,['/t/ask'],What are you working on this week?,/s/dol0nx/what_are_you_working_on_this_week,/u/BruceM,27
-3,2014-11-10 13:22:33 -0600,"['/t/culture', '/t/programming']",Resumes suck. Here's the data.,http://blog.alinelerner.com/resumes-suck-heres-the-data/,/u/kb,10
-2,2014-11-09 21:04:53 -0600,"['/t/compsci', '/t/science']",The empirical evidence that types affect productivity and correctness,http://danluu.com/empirical-pl/#wat_summary,/u/pushcx,27
-1,2014-11-10 15:58:34 -0600,['/t/hardware'],"Raspberry Pi Model A+ : Smaller, cheaper and lower power consumption",http://www.linuxvoice.com/raspberry-pi-model-a/,/u/zem,2
-6,2014-11-10 03:38:17 -0600,"['/t/c', '/t/programming']",PID tracking in modern init systems,http://spootnik.org/entries/2014/11/09_pid-tracking-in-modern-init-systems.html,/u/pyr,6
-0,2014-11-10 11:22:07 -0600,"['/t/devops', '/t/linux', '/t/privacy', '/t/release', '/t/virtualization']",VirtKick - your self-hosted DigitalOcean (Indiegogo),https://www.indiegogo.com/projects/virtkick-take-cloud-back,/u/Nowaker,4
-0,2014-11-10 15:46:49 -0600,"['/t/games', '/t/hardware']",Oculus to competitors: Don’t release bad VR headsets,http://arstechnica.com/gaming/2014/11/oculus-to-competitors-dont-release-bad-vr-headsets/,/u/zem,2
-2,2014-11-09 23:22:37 -0600,['/t/compsci'],Technical Lectures on Programming Languages and Logic [2012],https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html,/u/jozefg,10
-2,2014-11-09 20:01:37 -0600,"['/t/emacs', '/t/practices', '/t/vim']",Towards a Vim-like Emacs,http://nathantypanski.com/blog/2014-08-03-a-vim-like-emacs-config.html,/u/pushcx,10
-0,2014-11-09 18:35:55 -0600,"['/t/haskell', '/t/javascript']",New PureScript website and release,http://www.purescript.org/,/u/paf31,17
-0,2014-11-10 07:45:25 -0600,['/t/security'],Thoughts and Concerns about Operation Onymous,https://blog.torproject.org/blog/thoughts-and-concerns-about-operation-onymous,/u/lattera,3
-0,2014-11-10 12:37:16 -0600,"['/t/math', '/t/programming']",Why I find IEEE 754 frustrating,http://h14s.p5r.org/2014/11/why-i-find-ieee-754-frustrating.html,/u/robey,1
-0,2014-11-10 12:13:42 -0600,['/t/networking'],A Full Stack WYSIWYG Editor for Network Packets,https://wireedit.com,/u/ryan,1
-0,2014-11-10 07:40:26 -0600,['/t/javascript'],JavaScript Modules and Dependencies with jspm,http://javascriptplayground.com/blog/2014/11/js-modules-jspm-systemjs/,/u/jackfranklin,2
+0,2014-11-11 11:04:58 -0600,"/t/javascript,/t/web","Building a cross-platform Instagram using MMS, Node, Hapi, Caman, Socket.io & LevelDB",https://github.com/crtr0/phonestagram,/u/crtr,3
+8,2014-11-11 03:40:02 -0600,/t/meta,Add a FOSS/open source tag?,/s/r4ipep/add_foss_open_source_tag,/u/skade,11
+0,2014-11-11 05:09:42 -0600,"/t/api,/t/web",Snowplow 0.9.11 released with support for webhooks,http://snowplowanalytics.com/blog/2014/11/10/snowplow-0.9.11-released-with-webhook-support/,/u/alexdean,3
+0,2014-11-11 07:46:30 -0600,/t/networking,Future of Docker networking,http://containerops.org/2014/11/11/future-of-docker-networking/,/u/gyre007,2
+3,2014-11-10 11:04:08 -0600,"/t/law,/t/networking","President Obama Calls For A Free And Open Internet, Wants It Reclassified As A Utility",http://techcrunch.com/2014/11/10/president-obama-calls-for-a-free-and-open-internet-wants-it-reclassified-as-a-utility/,/u/UkiahSmith,19
+3,2014-11-10 12:04:12 -0600,"/t/browsers,/t/web",Firefox Developer Edition,https://www.mozilla.org/en-US/firefox/developer/,/u/journeysquid,13
+0,2014-11-10 21:05:21 -0600,/t/devops,"Nix pill 17: nixpkgs, overriding packages",http://lethalman.blogspot.it/2014/11/nix-pill-17-nixpkgs-overriding-packages.html,/u/puffnfresh,5
+4,2014-11-10 11:26:00 -0600,/t/linux,"A 'proprietary' Linux would have cost $1 trillion & 8,000 person-years",http://www.computerweekly.com/blogs/open-source-insider/2014/11/a-proprietary-linux-would-have-cost-1-trillion-8000-person-years.html,/u/dh,7
+0,2014-11-10 13:06:08 -0600,/t/go,Half a decade with Go,http://blog.golang.org/5years,/u/journeysquid,11
+11,2014-11-10 08:59:49 -0600,"/t/ask,/t/distributed",Why Is Exactly-Once Messaging Not Possible In A Distributed Queue?,/s/ecjfcm/why_is_exactly_once_messaging_not,/u/kellogh,26
+1,2014-11-10 10:37:44 -0600,"/t/javascript,/t/web","A JavaScript DOM model supporting creation, diffs and patches for efficient re-rendering",https://github.com/Matt-Esch/virtual-dom,/u/crtr,8
+27,2014-11-10 05:38:59 -0600,/t/ask,What are you working on this week?,/s/dol0nx/what_are_you_working_on_this_week,/u/BruceM,27
+3,2014-11-10 13:22:33 -0600,"/t/culture,/t/programming",Resumes suck. Here's the data.,http://blog.alinelerner.com/resumes-suck-heres-the-data/,/u/kb,10
+2,2014-11-09 21:04:53 -0600,"/t/compsci,/t/science",The empirical evidence that types affect productivity and correctness,http://danluu.com/empirical-pl/#wat_summary,/u/pushcx,27
+1,2014-11-10 15:58:34 -0600,/t/hardware,"Raspberry Pi Model A+ : Smaller, cheaper and lower power consumption",http://www.linuxvoice.com/raspberry-pi-model-a/,/u/zem,2
+6,2014-11-10 03:38:17 -0600,"/t/c,/t/programming",PID tracking in modern init systems,http://spootnik.org/entries/2014/11/09_pid-tracking-in-modern-init-systems.html,/u/pyr,6
+0,2014-11-10 11:22:07 -0600,"/t/devops,/t/linux,/t/privacy,/t/release,/t/virtualization",VirtKick - your self-hosted DigitalOcean (Indiegogo),https://www.indiegogo.com/projects/virtkick-take-cloud-back,/u/Nowaker,4
+0,2014-11-10 15:46:49 -0600,"/t/games,/t/hardware",Oculus to competitors: Don’t release bad VR headsets,http://arstechnica.com/gaming/2014/11/oculus-to-competitors-dont-release-bad-vr-headsets/,/u/zem,2
+2,2014-11-09 23:22:37 -0600,/t/compsci,Technical Lectures on Programming Languages and Logic [2012],https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html,/u/jozefg,10
+2,2014-11-09 20:01:37 -0600,"/t/emacs,/t/practices,/t/vim",Towards a Vim-like Emacs,http://nathantypanski.com/blog/2014-08-03-a-vim-like-emacs-config.html,/u/pushcx,10
+0,2014-11-09 18:35:55 -0600,"/t/haskell,/t/javascript",New PureScript website and release,http://www.purescript.org/,/u/paf31,17
+0,2014-11-10 07:45:25 -0600,/t/security,Thoughts and Concerns about Operation Onymous,https://blog.torproject.org/blog/thoughts-and-concerns-about-operation-onymous,/u/lattera,3
+0,2014-11-10 12:37:16 -0600,"/t/math,/t/programming",Why I find IEEE 754 frustrating,http://h14s.p5r.org/2014/11/why-i-find-ieee-754-frustrating.html,/u/robey,1
+0,2014-11-10 12:13:42 -0600,/t/networking,A Full Stack WYSIWYG Editor for Network Packets,https://wireedit.com,/u/ryan,1
+0,2014-11-10 07:40:26 -0600,/t/javascript,JavaScript Modules and Dependencies with jspm,http://javascriptplayground.com/blog/2014/11/js-modules-jspm-systemjs/,/u/jackfranklin,2

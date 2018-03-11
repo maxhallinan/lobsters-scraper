@@ -1,25 +1,25 @@
-0,2017-03-20 02:55:10 -0500,"['/t/historical', '/t/security']",Information Warfare isn’t Russian - It's American as Apple Pie,http://thestrategybridge.org/the-bridge/2017/3/8/information-warfare-isnt-russian-its-american-as-apple-pie,/u/Snocrash,2
-0,2017-03-20 05:54:07 -0500,"['/t/pdf', '/t/crypto']",Catena: An efficient witnessing scheme built on Bitcoin,http://eprint.iacr.org/2016/1062.pdf,/u/quad,1
-0,2017-03-19 23:13:58 -0500,"['/t/book', '/t/math']",Improving Bayesian Reasoning: What Works and Why?,http://journal.frontiersin.org/researchtopic/2963/improving-bayesian-reasoning-what-works-and-why,/u/pushcx,3
-0,2017-03-20 01:50:17 -0500,['/t/ruby'],Finding a Ruby memory leak using a time analysis,https://gist.github.com/wvengen/f1097651c238b2f7f11d,/u/hoopla,2
-0,2017-03-19 11:23:35 -0500,"['/t/hardware', '/t/historical', '/t/reversing']",Inside the vintage 74181 ALU chip: how it works and why it's so strange,http://www.righto.com/2017/03/inside-vintage-74181-alu-chip-how-it.html,/u/calvin,12
-0,2017-03-20 00:57:37 -0500,['/t/programming'],OS – GitHub issues to help beginners make their first pull request,https://open-source.now.sh/,/u/av,2
-1,2017-03-20 00:39:35 -0500,['/t/debugging'],ftrace: trace your kernel functions!,https://jvns.ca/blog/2017/03/19/getting-started-with-ftrace/,/u/quobit,1
-1,2017-03-19 08:13:30 -0500,['/t/law'],Why viral licensing is a ghost,https://joinup.ec.europa.eu/community/eupl/news/why-viral-licensing-ghost,/u/calvin,8
-1,2017-03-19 05:13:19 -0500,['/t/c'],Why Your C++ Should Be Simple,http://hacksoflife.blogspot.com/2017/03/why-your-c-should-be-simple.html,/u/av,11
-0,2017-03-19 18:09:38 -0500,"['/t/video', '/t/person', '/t/practices']",Alan Kay on Augmented Reality,https://www.youtube.com/watch?v=TI7I0nvcQtg,/u/sevan,3
-0,2017-03-19 15:57:25 -0500,['/t/c'],Safe Real-Time library for the C programming language,https://github.com/faragon/libsrt,/u/hawski,4
-0,2017-03-19 23:53:17 -0500,"['/t/api', '/t/c', '/t/graphics']",Render Pipelines desing in C++,http://www.marti.works/render-pipelines-desing-in-c/,/u/friendlysock,1
-3,2017-03-19 05:15:54 -0500,['/t/programming'],Oblivion: A programming language that compiles to SVG graphics.,http://obliv.me/,/u/av,9
-0,2017-03-19 13:00:07 -0500,['/t/programming'],My Programming Journey Part 2: Calculators led to Parsing led to Programming Languages,https://www.junglecoder.com/blog/pisc-origin,/u/yumaikas,2
-3,2017-03-18 18:28:50 -0500,['/t/historical'],There was a Coke machine connected to the ARPANET in the 70's,https://www.cs.cmu.edu/~coke/history_long.txt,/u/julienXX,21
-2,2017-03-19 15:44:50 -0500,"['/t/philosophy', '/t/practices', '/t/programming']",Semantic locality and the Way of Unix,http://esr.ibiblio.org/?p=7421,/u/k749gtnc9l3w,1
-0,2017-03-19 19:06:14 -0500,"['/t/pdf', '/t/hardware', '/t/historical', '/t/lisp', '/t/programming']",Computing Environments for Data Analysis Part 3: Programming Environments (1987),https://www.stat.washington.edu/research/reports/1986/tr082.pdf,/u/calvin,1
-1,2017-03-19 13:59:41 -0500,"['/t/games', '/t/visualization']",Analyzing the 2016 World Chess Championship,https://medium.com/pachyderm-data/analyzing-the-2016-world-chess-championship-b823d0d2fd11,/u/pushcx,1
-0,2017-03-19 13:41:16 -0500,"['/t/security', '/t/web']",Preventing cross-site attacks using same-site cookies,http://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/,/u/pushcx,2
-9,2017-03-18 19:16:06 -0500,['/t/release'],"insect: a fast, repl-style scientific calculator with unit conversion",https://shark.fish/insect/,/u/jonhoo,8
-0,2017-03-19 00:29:18 -0500,['/t/programming'],Timg – Terminal Image Viewer,https://github.com/hzeller/timg,/u/av,8
-1,2017-03-19 00:27:43 -0500,"['/t/book', '/t/math', '/t/visualization']",Immersive linear algebra - The world's first linear algebra book with fully interactive figures,http://immersivemath.com/ila/index.html,/u/av,7
-0,2017-03-19 00:28:32 -0500,['/t/release'],GNU APL 1.7 Released,http://lists.gnu.org/archive/html/bug-apl/2017-03/msg00037.html,/u/av,6
-0,2017-03-19 10:23:12 -0500,"['/t/audio', '/t/culture', '/t/rust']",New Rustacean Bonus 8: Giving back (by teaching),http://www.newrustacean.com/show_notes/bonus/_8/,/u/chriskrycho,1
-0,2017-03-19 05:28:31 -0500,['/t/math'],Sieve Of Atkin,https://fylux.github.io/2017/03/16/Sieve-Of-Atkin/,/u/av,2
+0,2017-03-20 02:55:10 -0500,"/t/historical,/t/security",Information Warfare isn’t Russian - It's American as Apple Pie,http://thestrategybridge.org/the-bridge/2017/3/8/information-warfare-isnt-russian-its-american-as-apple-pie,/u/Snocrash,2
+0,2017-03-20 05:54:07 -0500,"/t/pdf,/t/crypto",Catena: An efficient witnessing scheme built on Bitcoin,http://eprint.iacr.org/2016/1062.pdf,/u/quad,1
+0,2017-03-19 23:13:58 -0500,"/t/book,/t/math",Improving Bayesian Reasoning: What Works and Why?,http://journal.frontiersin.org/researchtopic/2963/improving-bayesian-reasoning-what-works-and-why,/u/pushcx,3
+0,2017-03-20 01:50:17 -0500,/t/ruby,Finding a Ruby memory leak using a time analysis,https://gist.github.com/wvengen/f1097651c238b2f7f11d,/u/hoopla,2
+0,2017-03-19 11:23:35 -0500,"/t/hardware,/t/historical,/t/reversing",Inside the vintage 74181 ALU chip: how it works and why it's so strange,http://www.righto.com/2017/03/inside-vintage-74181-alu-chip-how-it.html,/u/calvin,12
+0,2017-03-20 00:57:37 -0500,/t/programming,OS – GitHub issues to help beginners make their first pull request,https://open-source.now.sh/,/u/av,2
+1,2017-03-20 00:39:35 -0500,/t/debugging,ftrace: trace your kernel functions!,https://jvns.ca/blog/2017/03/19/getting-started-with-ftrace/,/u/quobit,1
+1,2017-03-19 08:13:30 -0500,/t/law,Why viral licensing is a ghost,https://joinup.ec.europa.eu/community/eupl/news/why-viral-licensing-ghost,/u/calvin,8
+1,2017-03-19 05:13:19 -0500,/t/c,Why Your C++ Should Be Simple,http://hacksoflife.blogspot.com/2017/03/why-your-c-should-be-simple.html,/u/av,11
+0,2017-03-19 18:09:38 -0500,"/t/video,/t/person,/t/practices",Alan Kay on Augmented Reality,https://www.youtube.com/watch?v=TI7I0nvcQtg,/u/sevan,3
+0,2017-03-19 15:57:25 -0500,/t/c,Safe Real-Time library for the C programming language,https://github.com/faragon/libsrt,/u/hawski,4
+0,2017-03-19 23:53:17 -0500,"/t/api,/t/c,/t/graphics",Render Pipelines desing in C++,http://www.marti.works/render-pipelines-desing-in-c/,/u/friendlysock,1
+3,2017-03-19 05:15:54 -0500,/t/programming,Oblivion: A programming language that compiles to SVG graphics.,http://obliv.me/,/u/av,9
+0,2017-03-19 13:00:07 -0500,/t/programming,My Programming Journey Part 2: Calculators led to Parsing led to Programming Languages,https://www.junglecoder.com/blog/pisc-origin,/u/yumaikas,2
+3,2017-03-18 18:28:50 -0500,/t/historical,There was a Coke machine connected to the ARPANET in the 70's,https://www.cs.cmu.edu/~coke/history_long.txt,/u/julienXX,21
+2,2017-03-19 15:44:50 -0500,"/t/philosophy,/t/practices,/t/programming",Semantic locality and the Way of Unix,http://esr.ibiblio.org/?p=7421,/u/k749gtnc9l3w,1
+0,2017-03-19 19:06:14 -0500,"/t/pdf,/t/hardware,/t/historical,/t/lisp,/t/programming",Computing Environments for Data Analysis Part 3: Programming Environments (1987),https://www.stat.washington.edu/research/reports/1986/tr082.pdf,/u/calvin,1
+1,2017-03-19 13:59:41 -0500,"/t/games,/t/visualization",Analyzing the 2016 World Chess Championship,https://medium.com/pachyderm-data/analyzing-the-2016-world-chess-championship-b823d0d2fd11,/u/pushcx,1
+0,2017-03-19 13:41:16 -0500,"/t/security,/t/web",Preventing cross-site attacks using same-site cookies,http://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/,/u/pushcx,2
+9,2017-03-18 19:16:06 -0500,/t/release,"insect: a fast, repl-style scientific calculator with unit conversion",https://shark.fish/insect/,/u/jonhoo,8
+0,2017-03-19 00:29:18 -0500,/t/programming,Timg – Terminal Image Viewer,https://github.com/hzeller/timg,/u/av,8
+1,2017-03-19 00:27:43 -0500,"/t/book,/t/math,/t/visualization",Immersive linear algebra - The world's first linear algebra book with fully interactive figures,http://immersivemath.com/ila/index.html,/u/av,7
+0,2017-03-19 00:28:32 -0500,/t/release,GNU APL 1.7 Released,http://lists.gnu.org/archive/html/bug-apl/2017-03/msg00037.html,/u/av,6
+0,2017-03-19 10:23:12 -0500,"/t/audio,/t/culture,/t/rust",New Rustacean Bonus 8: Giving back (by teaching),http://www.newrustacean.com/show_notes/bonus/_8/,/u/chriskrycho,1
+0,2017-03-19 05:28:31 -0500,/t/math,Sieve Of Atkin,https://fylux.github.io/2017/03/16/Sieve-Of-Atkin/,/u/av,2

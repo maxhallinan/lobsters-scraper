@@ -1,25 +1,25 @@
-24,2017-04-03 22:18:33 -0500,['/t/python'],"Yes, Python is Slow, and I Don’t Care",https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1,/u/Dawny33,15
-1,2017-04-04 09:21:21 -0500,['/t/ruby'],Double Ruby Rainbow Bug,https://www.schneems.com/2017/04/04/double-ruby-rainbow-bug/,/u/schneems,3
-1,2017-04-04 10:16:05 -0500,"['/t/distributed', '/t/networking', '/t/science']","Meet Ray, the Real-Time Machine-Learning Replacement for Spark",https://www.datanami.com/2017/03/28/meet-ray-real-time-machine-learning-replacement-spark/,/u/eddelbuettel,4
-20,2017-04-03 09:59:53 -0500,['/t/security'],80% of Docker images tagged *latest* have high severity vulnerabilities,https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/,/u/kb,36
-0,2017-04-04 15:40:15 -0500,"['/t/debugging', '/t/netbsd', '/t/unix']",NetBSD: the first BSD introducing a modern process plugin framework in LLDB,http://blog.netbsd.org/tnf/entry/netbsd_the_first_bsd_introducing,/u/sevan,2
-0,2017-04-04 12:32:16 -0500,['/t/databases'],Lab Notes: Query Execution Pipeline Overhaul · CrateDB,https://crate.io/a/lab-notes-query-execution-pipeline-overhaul/,/u/nslater,3
-0,2017-04-04 10:07:39 -0500,['/t/databases'],Distributed count(distinct) with HLL on Postgres,https://www.citusdata.com/blog/2017/04/04/distributed_count_distinct_with_postgresql/,/u/craigkerstiens,4
-2,2017-04-04 17:12:28 -0500,"['/t/haskell', '/t/rant']",The Pretentious Haskell Phase,http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/,/u/tallgeoff,3
-0,2017-04-04 09:23:32 -0500,"['/t/games', '/t/hardware']",A Journey Into Capcom's CPS2 Silicon - Part 1,http://arcadehacker.blogspot.com/2017/03/a-journey-into-capcoms-cps2-silicon.html,/u/flyingfisch,4
-0,2017-04-04 11:23:59 -0500,['/t/law'],"Terms and Conditions, The Graphic Novel",https://blog.mozilla.org/internetcitizen/2017/04/03/terms-and-conditions-the-graphic-novel/,/u/binarymax,3
-0,2017-04-04 13:04:35 -0500,"['/t/ruby', '/t/scaling']",Scaling Unsplash,https://medium.com/unsplash-unfiltered/scaling-unsplash-with-a-small-team-fbdd55571906,/u/tschellenbach,2
-14,2017-04-03 12:02:44 -0500,"['/t/culture', '/t/practices']",Do The Easy Thing First,http://blog.softwarecurmudgeon.com/do-the-easy-thing-first/,/u/dix,19
-0,2017-04-04 09:24:26 -0500,"['/t/video', '/t/hardware']",Data recovery on dead micro SD card,https://www.youtube.com/watch?v=jjB6wliyE_Y,/u/flyingfisch,3
-0,2017-04-04 11:31:32 -0500,['/t/devops'],A Better Dev Workflow with Docker Compose,https://runnable.com/blog/a-better-dev-workflow-with-docker-compose,/u/taylor,2
-0,2017-04-04 09:21:45 -0500,['/t/linux'],"The Linux Foundation: Not a Friend of Desktop Linux, the GPL, or Openness",http://fossforce.com/2017/04/lin-desktop-linux-gpl-openness/,/u/qznc,2
-20,2017-04-03 05:27:41 -0500,"['/t/devops', '/t/linux']",Do I need swap space if I have more than enough amount of RAM?,http://unix.stackexchange.com/questions/190398/do-i-need-swap-space-if-i-have-more-than-enough-amount-of-ram,/u/qznc,27
-1,2017-04-03 19:22:48 -0500,"['/t/pdf', '/t/compsci']","No Ifs, Ands, or Buts: Uncovering the Simplicity of Conditionals",http://www.subtext-lang.org/OOPSLA07.pdf,/u/pushcx,9
-25,2017-04-03 07:37:52 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/8ykhls/what_are_you_working_on_this_week,/u/caius,17
-2,2017-04-03 21:30:49 -0500,"['/t/science', '/t/visualization']",How Uber Uses Behavioral Science Tricks to Push Its Drivers’ Buttons,https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html,/u/tf,4
-1,2017-04-03 20:21:25 -0500,['/t/culture'],Open Letter to the Free Software Community [from Libreboot] (2 Apr 2017),https://libreboot.org/unity/,/u/calvin,14
-25,2017-04-03 00:40:50 -0500,"['/t/openbsd', '/t/practices']",Re: Why isn't OpenBSD in Google Summer of Code 2017?...,http://marc.info/?l=openbsd-misc&m=149119308705465&w=2,/u/cnst,30
-0,2017-04-04 05:50:39 -0500,"['/t/pdf', '/t/cogsci', '/t/satire']",DeepDoggo: Learning to Answer “Who's a Good Dog?”,http://www.cs.cmu.edu/~blengeri/downloads/deepdoggo.pdf,/u/calvin,3
-60,2017-04-02 12:06:51 -0500,['/t/privacy'],Welcome to Mastodon,https://medium.com/@Gargron/welcome-to-mastodon-111d9227e56a,/u/mulander,84
-2,2017-04-03 12:58:37 -0500,['/t/vcs'],gitbrute: brute force a Git hash with a given prefix,https://github.com/bradfitz/gitbrute,/u/kb,6
-1,2017-04-03 14:28:35 -0500,['/t/security'],Malware Development DOs and DON'Ts,https://wikileaks.org/ciav7p1/cms/page_14587109.html,/u/pushcx,8
+24,2017-04-03 22:18:33 -0500,/t/python,"Yes, Python is Slow, and I Don’t Care",https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1,/u/Dawny33,15
+1,2017-04-04 09:21:21 -0500,/t/ruby,Double Ruby Rainbow Bug,https://www.schneems.com/2017/04/04/double-ruby-rainbow-bug/,/u/schneems,3
+1,2017-04-04 10:16:05 -0500,"/t/distributed,/t/networking,/t/science","Meet Ray, the Real-Time Machine-Learning Replacement for Spark",https://www.datanami.com/2017/03/28/meet-ray-real-time-machine-learning-replacement-spark/,/u/eddelbuettel,4
+20,2017-04-03 09:59:53 -0500,/t/security,80% of Docker images tagged *latest* have high severity vulnerabilities,https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/,/u/kb,36
+0,2017-04-04 15:40:15 -0500,"/t/debugging,/t/netbsd,/t/unix",NetBSD: the first BSD introducing a modern process plugin framework in LLDB,http://blog.netbsd.org/tnf/entry/netbsd_the_first_bsd_introducing,/u/sevan,2
+0,2017-04-04 12:32:16 -0500,/t/databases,Lab Notes: Query Execution Pipeline Overhaul · CrateDB,https://crate.io/a/lab-notes-query-execution-pipeline-overhaul/,/u/nslater,3
+0,2017-04-04 10:07:39 -0500,/t/databases,Distributed count(distinct) with HLL on Postgres,https://www.citusdata.com/blog/2017/04/04/distributed_count_distinct_with_postgresql/,/u/craigkerstiens,4
+2,2017-04-04 17:12:28 -0500,"/t/haskell,/t/rant",The Pretentious Haskell Phase,http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/,/u/tallgeoff,3
+0,2017-04-04 09:23:32 -0500,"/t/games,/t/hardware",A Journey Into Capcom's CPS2 Silicon - Part 1,http://arcadehacker.blogspot.com/2017/03/a-journey-into-capcoms-cps2-silicon.html,/u/flyingfisch,4
+0,2017-04-04 11:23:59 -0500,/t/law,"Terms and Conditions, The Graphic Novel",https://blog.mozilla.org/internetcitizen/2017/04/03/terms-and-conditions-the-graphic-novel/,/u/binarymax,3
+0,2017-04-04 13:04:35 -0500,"/t/ruby,/t/scaling",Scaling Unsplash,https://medium.com/unsplash-unfiltered/scaling-unsplash-with-a-small-team-fbdd55571906,/u/tschellenbach,2
+14,2017-04-03 12:02:44 -0500,"/t/culture,/t/practices",Do The Easy Thing First,http://blog.softwarecurmudgeon.com/do-the-easy-thing-first/,/u/dix,19
+0,2017-04-04 09:24:26 -0500,"/t/video,/t/hardware",Data recovery on dead micro SD card,https://www.youtube.com/watch?v=jjB6wliyE_Y,/u/flyingfisch,3
+0,2017-04-04 11:31:32 -0500,/t/devops,A Better Dev Workflow with Docker Compose,https://runnable.com/blog/a-better-dev-workflow-with-docker-compose,/u/taylor,2
+0,2017-04-04 09:21:45 -0500,/t/linux,"The Linux Foundation: Not a Friend of Desktop Linux, the GPL, or Openness",http://fossforce.com/2017/04/lin-desktop-linux-gpl-openness/,/u/qznc,2
+20,2017-04-03 05:27:41 -0500,"/t/devops,/t/linux",Do I need swap space if I have more than enough amount of RAM?,http://unix.stackexchange.com/questions/190398/do-i-need-swap-space-if-i-have-more-than-enough-amount-of-ram,/u/qznc,27
+1,2017-04-03 19:22:48 -0500,"/t/pdf,/t/compsci","No Ifs, Ands, or Buts: Uncovering the Simplicity of Conditionals",http://www.subtext-lang.org/OOPSLA07.pdf,/u/pushcx,9
+25,2017-04-03 07:37:52 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/8ykhls/what_are_you_working_on_this_week,/u/caius,17
+2,2017-04-03 21:30:49 -0500,"/t/science,/t/visualization",How Uber Uses Behavioral Science Tricks to Push Its Drivers’ Buttons,https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html,/u/tf,4
+1,2017-04-03 20:21:25 -0500,/t/culture,Open Letter to the Free Software Community [from Libreboot] (2 Apr 2017),https://libreboot.org/unity/,/u/calvin,14
+25,2017-04-03 00:40:50 -0500,"/t/openbsd,/t/practices",Re: Why isn't OpenBSD in Google Summer of Code 2017?...,http://marc.info/?l=openbsd-misc&m=149119308705465&w=2,/u/cnst,30
+0,2017-04-04 05:50:39 -0500,"/t/pdf,/t/cogsci,/t/satire",DeepDoggo: Learning to Answer “Who's a Good Dog?”,http://www.cs.cmu.edu/~blengeri/downloads/deepdoggo.pdf,/u/calvin,3
+60,2017-04-02 12:06:51 -0500,/t/privacy,Welcome to Mastodon,https://medium.com/@Gargron/welcome-to-mastodon-111d9227e56a,/u/mulander,84
+2,2017-04-03 12:58:37 -0500,/t/vcs,gitbrute: brute force a Git hash with a given prefix,https://github.com/bradfitz/gitbrute,/u/kb,6
+1,2017-04-03 14:28:35 -0500,/t/security,Malware Development DOs and DON'Ts,https://wikileaks.org/ciav7p1/cms/page_14587109.html,/u/pushcx,8

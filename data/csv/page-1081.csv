@@ -1,25 +1,25 @@
-8,2015-06-29 08:09:23 -0500,['/t/unix'],DragonFly BSD 4.2 released,http://www.dragonflybsd.org/release42/,/u/fupjack,15
-8,2015-06-29 08:48:58 -0500,"['/t/programming', '/t/rust']","Rust, the language for growth",http://joelmccracken.github.io/entries/rust-the-language-for-growth/,/u/steveklabnik,8
-2,2015-06-29 13:51:16 -0500,['/t/java'],Java 9's new garbage collector: What's changing? What's staying?,http://jaxenter.com/java-9s-new-garbage-collector-whats-changing-whats-staying-118313.html,/u/kellogh,8
-2,2015-06-29 11:27:42 -0500,"['/t/ml', '/t/security']",Reviewing the Bitcoin Pinata,https://mirage.io/blog/bitcoin-pinata-results,/u/jcs,12
-1,2015-06-29 21:59:17 -0500,"['/t/pdf', '/t/lisp', '/t/programming']",Fields in Physics are like Curried Functions or Physics for Functional Programmers,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.1181,/u/rubenbarroso,4
-2,2015-06-29 10:40:55 -0500,"['/t/devops', '/t/freebsd', '/t/hardware', '/t/linux', '/t/openbsd', '/t/unix', '/t/web']",Linode turns 12! Here’s some KVM!,https://blog.linode.com/2015/06/16/linode-turns-12-heres-some-kvm/,/u/cnst,9
-0,2015-06-29 17:14:05 -0500,['/t/programming'],Design patterns for invariant suspension,http://bannalia.blogspot.com/2015/06/design-patterns-for-invariant-suspension.html,/u/bkudria,5
-1,2015-06-29 05:58:59 -0500,['/t/openbsd'],Call for Testing: Valgrind on OpenBSD,http://undeadly.org/cgi?action=article&sid=20150629081952&mode=expanded,/u/fcambus,16
-0,2015-06-29 21:35:43 -0500,['/t/android'],An update on Eclipse Android Developer Tools,http://android-developers.blogspot.com/2015/06/an-update-on-eclipse-android-developer.html,/u/jcs,1
-7,2015-06-28 13:17:46 -0500,"['/t/linux', '/t/openbsd']",OpenBSD from a veteran Linux user perspective,http://cfenollosa.com/blog/openbsd-from-a-veteran-linux-user-perspective.html,/u/mulander,23
-1,2015-06-29 00:05:13 -0500,"['/t/networking', '/t/privacy']",Save Domain Privacy,https://www.savedomainprivacy.org/,/u/jcs,10
-0,2015-06-29 12:33:50 -0500,"['/t/hardware', '/t/release']",Second RISC-V Workshop: Day One,http://www.lowrisc.org/blog/2015/06/second-risc-v-workshop-day-one/,/u/asb,2
-0,2015-06-29 11:01:33 -0500,['/t/web'],M-Lab shows massive interconnection congestion on U.S. eyeball networks,http://www.measurementlab.net/blog/interconnection_and_measurement_update,/u/cnst,2
-0,2015-06-29 05:53:21 -0500,"['/t/release', '/t/virtualization']",Docker cheatsheet,https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md,/u/goncalo,3
-2,2015-06-28 10:57:57 -0500,"['/t/browsers', '/t/security']",Stop Firefox leaking data about you,https://github.com/amq/firefox-debloat,/u/vvh,14
-1,2015-06-28 07:58:27 -0500,"['/t/c', '/t/linux']",Comparison of C/POSIX standard library implementations for Linux,http://www.etalabs.net/compare_libcs.html,/u/mulander,18
-1,2015-06-28 08:06:09 -0500,['/t/databases'],Log Orientated Architecture in PostgreSQL,http://kevinmahoney.co.uk/articles/log-orientated-data/,/u/kpm,21
-0,2015-06-28 21:39:18 -0500,"['/t/linux', '/t/release']",RLSD: minimalistic statically linked hardened linux,http://rlsd2.dimakrasner.com/,/u/calvin,4
-0,2015-06-28 08:19:19 -0500,"['/t/networking', '/t/openbsd']",How OpenNTPD handles leap seconds,https://marc.info/?l=openbsd-misc&m=143544318718489&w=2,/u/journeysquid,16
-3,2015-06-28 18:05:15 -0500,"['/t/video', '/t/culture']",BSDCan 2015: Fighting Harassment with Open Source Tools,http://blog.randi.io/2015/06/27/bsdcan-2015-fighting-harassment-with-open-source-tools/,/u/evaryont,9
-0,2015-06-28 12:36:55 -0500,"['/t/privacy', '/t/web']",ICANN’s assault on personal and small business privacy,https://blog.nearlyfreespeech.net/2015/06/27/icanns-assault-on-personal-and-small-business-privacy/,/u/pushcx,8
-1,2015-06-28 15:50:08 -0500,"['/t/show', '/t/javascript', '/t/web']",Angular kickstart template for creating new scalable Angular apps,https://github.com/JeremyMorgan/Angular-Kickstart,/u/JeremyMorgan,3
-2,2015-06-29 07:20:44 -0500,['/t/windows'],The Broken State of Trust In Root Certificates,https://ma.ttias.be/the-broken-state-of-trust-in-root-certificates/,/u/pxi,0
-0,2015-06-28 11:10:21 -0500,"['/t/compilers', '/t/ml']",OCaml - Compiling Mini-ML to Javascript,http://www.lexicallyscoped.com/2015/06/28/miniml-compiler-to-js.html,/u/fredyr,5
-0,2015-06-28 12:32:07 -0500,['/t/devops'],Five different ways to handle leap seconds with NTP,http://developerblog.redhat.com/2015/06/01/five-different-ways-handle-leap-seconds-ntp/,/u/pushcx,4
+8,2015-06-29 08:09:23 -0500,/t/unix,DragonFly BSD 4.2 released,http://www.dragonflybsd.org/release42/,/u/fupjack,15
+8,2015-06-29 08:48:58 -0500,"/t/programming,/t/rust","Rust, the language for growth",http://joelmccracken.github.io/entries/rust-the-language-for-growth/,/u/steveklabnik,8
+2,2015-06-29 13:51:16 -0500,/t/java,Java 9's new garbage collector: What's changing? What's staying?,http://jaxenter.com/java-9s-new-garbage-collector-whats-changing-whats-staying-118313.html,/u/kellogh,8
+2,2015-06-29 11:27:42 -0500,"/t/ml,/t/security",Reviewing the Bitcoin Pinata,https://mirage.io/blog/bitcoin-pinata-results,/u/jcs,12
+1,2015-06-29 21:59:17 -0500,"/t/pdf,/t/lisp,/t/programming",Fields in Physics are like Curried Functions or Physics for Functional Programmers,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.1181,/u/rubenbarroso,4
+2,2015-06-29 10:40:55 -0500,"/t/devops,/t/freebsd,/t/hardware,/t/linux,/t/openbsd,/t/unix,/t/web",Linode turns 12! Here’s some KVM!,https://blog.linode.com/2015/06/16/linode-turns-12-heres-some-kvm/,/u/cnst,9
+0,2015-06-29 17:14:05 -0500,/t/programming,Design patterns for invariant suspension,http://bannalia.blogspot.com/2015/06/design-patterns-for-invariant-suspension.html,/u/bkudria,5
+1,2015-06-29 05:58:59 -0500,/t/openbsd,Call for Testing: Valgrind on OpenBSD,http://undeadly.org/cgi?action=article&sid=20150629081952&mode=expanded,/u/fcambus,16
+0,2015-06-29 21:35:43 -0500,/t/android,An update on Eclipse Android Developer Tools,http://android-developers.blogspot.com/2015/06/an-update-on-eclipse-android-developer.html,/u/jcs,1
+7,2015-06-28 13:17:46 -0500,"/t/linux,/t/openbsd",OpenBSD from a veteran Linux user perspective,http://cfenollosa.com/blog/openbsd-from-a-veteran-linux-user-perspective.html,/u/mulander,23
+1,2015-06-29 00:05:13 -0500,"/t/networking,/t/privacy",Save Domain Privacy,https://www.savedomainprivacy.org/,/u/jcs,10
+0,2015-06-29 12:33:50 -0500,"/t/hardware,/t/release",Second RISC-V Workshop: Day One,http://www.lowrisc.org/blog/2015/06/second-risc-v-workshop-day-one/,/u/asb,2
+0,2015-06-29 11:01:33 -0500,/t/web,M-Lab shows massive interconnection congestion on U.S. eyeball networks,http://www.measurementlab.net/blog/interconnection_and_measurement_update,/u/cnst,2
+0,2015-06-29 05:53:21 -0500,"/t/release,/t/virtualization",Docker cheatsheet,https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md,/u/goncalo,3
+2,2015-06-28 10:57:57 -0500,"/t/browsers,/t/security",Stop Firefox leaking data about you,https://github.com/amq/firefox-debloat,/u/vvh,14
+1,2015-06-28 07:58:27 -0500,"/t/c,/t/linux",Comparison of C/POSIX standard library implementations for Linux,http://www.etalabs.net/compare_libcs.html,/u/mulander,18
+1,2015-06-28 08:06:09 -0500,/t/databases,Log Orientated Architecture in PostgreSQL,http://kevinmahoney.co.uk/articles/log-orientated-data/,/u/kpm,21
+0,2015-06-28 21:39:18 -0500,"/t/linux,/t/release",RLSD: minimalistic statically linked hardened linux,http://rlsd2.dimakrasner.com/,/u/calvin,4
+0,2015-06-28 08:19:19 -0500,"/t/networking,/t/openbsd",How OpenNTPD handles leap seconds,https://marc.info/?l=openbsd-misc&m=143544318718489&w=2,/u/journeysquid,16
+3,2015-06-28 18:05:15 -0500,"/t/video,/t/culture",BSDCan 2015: Fighting Harassment with Open Source Tools,http://blog.randi.io/2015/06/27/bsdcan-2015-fighting-harassment-with-open-source-tools/,/u/evaryont,9
+0,2015-06-28 12:36:55 -0500,"/t/privacy,/t/web",ICANN’s assault on personal and small business privacy,https://blog.nearlyfreespeech.net/2015/06/27/icanns-assault-on-personal-and-small-business-privacy/,/u/pushcx,8
+1,2015-06-28 15:50:08 -0500,"/t/show,/t/javascript,/t/web",Angular kickstart template for creating new scalable Angular apps,https://github.com/JeremyMorgan/Angular-Kickstart,/u/JeremyMorgan,3
+2,2015-06-29 07:20:44 -0500,/t/windows,The Broken State of Trust In Root Certificates,https://ma.ttias.be/the-broken-state-of-trust-in-root-certificates/,/u/pxi,0
+0,2015-06-28 11:10:21 -0500,"/t/compilers,/t/ml",OCaml - Compiling Mini-ML to Javascript,http://www.lexicallyscoped.com/2015/06/28/miniml-compiler-to-js.html,/u/fredyr,5
+0,2015-06-28 12:32:07 -0500,/t/devops,Five different ways to handle leap seconds with NTP,http://developerblog.redhat.com/2015/06/01/five-different-ways-handle-leap-seconds-ntp/,/u/pushcx,4

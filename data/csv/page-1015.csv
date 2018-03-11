@@ -1,25 +1,25 @@
-1,2015-09-29 09:47:25 -0500,"['/t/c', '/t/compilers', '/t/release']",The Lemon Parser Generator,https://www.sqlite.org/src/doc/trunk/doc/lemon.html,/u/pushcx,15
-3,2015-09-29 10:48:01 -0500,"['/t/devops', '/t/distributed', '/t/go']",Nomad,https://hashicorp.com/blog/nomad.html,/u/iconara,9
-3,2015-09-29 09:52:56 -0500,['/t/visualization'],A Linear Map of Lake Michigan,https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/,/u/pushcx,12
-9,2015-09-28 20:16:30 -0500,"['/t/slides', '/t/openbsd', '/t/programming', '/t/security']","tame() - bad kitty, no socket for you",http://www.openbsd.org/papers/tame-fsec2015/mgp00001.html,/u/calvin,35
-2,2015-09-29 11:58:15 -0500,"['/t/law', '/t/security']",ATM Skimmer Gang Firebombed Antivirus Firm,https://krebsonsecurity.com/2015/09/atm-skimmer-gang-firebombed-antivirus-firm/,/u/pushcx,6
-0,2015-09-29 19:23:13 -0500,"['/t/pdf', '/t/practices', '/t/programming']",Web Usage Patterns of Developers,http://christop.club/publications/pdfs/Corley-etal_2015b.pdf,/u/joshuacc,4
-1,2015-09-29 07:34:19 -0500,"['/t/compilers', '/t/go', '/t/javascript']",Surprises in GopherJS Performance,http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/,/u/ngrilly,10
-0,2015-09-29 14:04:06 -0500,"['/t/api', '/t/python', '/t/scaling']",Profiling Python in Production: How We Reduced CPU Usage by 80% through Python Profiling,https://nylas.com/blog/performance/,/u/bg,5
-2,2015-09-29 12:37:36 -0500,['/t/book'],Computer Systems: A Programmer's Perspective 3rd,http://csapp.cs.cmu.edu/3e/home.html,/u/behemoth,4
-5,2015-09-29 11:36:49 -0500,"['/t/video', '/t/android', '/t/event', '/t/hardware']",Google Press Event 9/29/15,http://www.youtube.com/watch?v=Jc-LEG0T_4c,/u/calvin,2
-7,2015-09-28 16:55:43 -0500,"['/t/show', '/t/c', '/t/release']",Logswan - Fast Web log analyzer using probabilistic data structures,https://github.com/fcambus/logswan,/u/fcambus,12
-0,2015-09-29 10:01:30 -0500,"['/t/programming', '/t/python']",assert_called_once Gotcha,http://engineeringblog.yelp.com/2015/02/assert_called_once-threat-or-menace.html,/u/pushcx,6
-8,2015-09-29 00:32:58 -0500,"['/t/show', '/t/go']",cfg - Simple read/write and commentable config files for go,https://github.com/walle/cfg,/u/walle,4
-0,2015-09-29 09:49:13 -0500,"['/t/lisp', '/t/programming', '/t/release']",Functional-navigational programming in Clojure(Script) with Specter,http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html,/u/pushcx,5
-24,2015-09-28 12:07:28 -0500,['/t/ask'],What are we all working on this week?,/s/02ygai/what_are_we_all_working_on_this_week,/u/BruceM,25
-0,2015-09-29 04:01:03 -0500,"['/t/slides', '/t/scaling']",Provisioning and Capacity Planning,http://www.slideshare.net/brianbrazil/provisioning-and-capacity-planning-workshop-dogpatch-labs-september-2015,/u/bbrazil,3
-3,2015-09-28 17:44:03 -0500,"['/t/programming', '/t/release']",Hook.io open-source microservice platform adds support for 11+ programming languages,https://hook.io/blog/new-multi-language-support,/u/marak,7
-16,2015-09-28 14:35:26 -0500,['/t/programming'],nil vs None,http://blog.carlosgaldino.com/2015/09/28/nil-vs-none.html,/u/carlosgaldino,6
-5,2015-09-29 08:03:58 -0500,['/t/culture'],"""Just""",https://the-pastry-box-project.net/brad-frost/2014-january-28,/u/flyingfisch,6
-0,2015-09-28 14:23:57 -0500,['/t/devops'],"Otto, the successor to Vagrant",https://www.hashicorp.com/blog/otto.html,/u/jpadilla,22
-1,2015-09-28 10:36:40 -0500,['/t/compsci'],"Amazon’s $23,698,655.93 book about flies (2011)",http://www.michaeleisen.org/blog/?p=358,/u/SirSkidmore,31
-1,2015-09-29 00:26:32 -0500,['/t/c'],Pitch Shifting Using The Fourier Transform,http://blogs.zynaptiq.com/bernsee/pitch-shifting-using-the-ft/,/u/jm,5
-30,2015-09-28 06:03:47 -0500,['/t/programming'],"When Rust Makes Sense, or The State of Typed Languages - No Fun Allowed",http://m50d.github.io/2015/09/28/when-rust-makes-sense.html,/u/asthasr,22
-0,2015-09-29 11:35:52 -0500,['/t/javascript'],Defining front-end architecture,http://radar.oreilly.com/2015/06/defining-front-end-architecture.html,/u/JeremyMorgan,1
-1,2015-09-28 21:43:22 -0500,"['/t/compilers', '/t/javascript']",Basic Block Versioning - My Best Result Yet,http://pointersgonewild.com/2015/09/24/basic-block-versioning-my-best-result-yet/,/u/pushcx,4
+1,2015-09-29 09:47:25 -0500,"/t/c,/t/compilers,/t/release",The Lemon Parser Generator,https://www.sqlite.org/src/doc/trunk/doc/lemon.html,/u/pushcx,15
+3,2015-09-29 10:48:01 -0500,"/t/devops,/t/distributed,/t/go",Nomad,https://hashicorp.com/blog/nomad.html,/u/iconara,9
+3,2015-09-29 09:52:56 -0500,/t/visualization,A Linear Map of Lake Michigan,https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/,/u/pushcx,12
+9,2015-09-28 20:16:30 -0500,"/t/slides,/t/openbsd,/t/programming,/t/security","tame() - bad kitty, no socket for you",http://www.openbsd.org/papers/tame-fsec2015/mgp00001.html,/u/calvin,35
+2,2015-09-29 11:58:15 -0500,"/t/law,/t/security",ATM Skimmer Gang Firebombed Antivirus Firm,https://krebsonsecurity.com/2015/09/atm-skimmer-gang-firebombed-antivirus-firm/,/u/pushcx,6
+0,2015-09-29 19:23:13 -0500,"/t/pdf,/t/practices,/t/programming",Web Usage Patterns of Developers,http://christop.club/publications/pdfs/Corley-etal_2015b.pdf,/u/joshuacc,4
+1,2015-09-29 07:34:19 -0500,"/t/compilers,/t/go,/t/javascript",Surprises in GopherJS Performance,http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/,/u/ngrilly,10
+0,2015-09-29 14:04:06 -0500,"/t/api,/t/python,/t/scaling",Profiling Python in Production: How We Reduced CPU Usage by 80% through Python Profiling,https://nylas.com/blog/performance/,/u/bg,5
+2,2015-09-29 12:37:36 -0500,/t/book,Computer Systems: A Programmer's Perspective 3rd,http://csapp.cs.cmu.edu/3e/home.html,/u/behemoth,4
+5,2015-09-29 11:36:49 -0500,"/t/video,/t/android,/t/event,/t/hardware",Google Press Event 9/29/15,http://www.youtube.com/watch?v=Jc-LEG0T_4c,/u/calvin,2
+7,2015-09-28 16:55:43 -0500,"/t/show,/t/c,/t/release",Logswan - Fast Web log analyzer using probabilistic data structures,https://github.com/fcambus/logswan,/u/fcambus,12
+0,2015-09-29 10:01:30 -0500,"/t/programming,/t/python",assert_called_once Gotcha,http://engineeringblog.yelp.com/2015/02/assert_called_once-threat-or-menace.html,/u/pushcx,6
+8,2015-09-29 00:32:58 -0500,"/t/show,/t/go",cfg - Simple read/write and commentable config files for go,https://github.com/walle/cfg,/u/walle,4
+0,2015-09-29 09:49:13 -0500,"/t/lisp,/t/programming,/t/release",Functional-navigational programming in Clojure(Script) with Specter,http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html,/u/pushcx,5
+24,2015-09-28 12:07:28 -0500,/t/ask,What are we all working on this week?,/s/02ygai/what_are_we_all_working_on_this_week,/u/BruceM,25
+0,2015-09-29 04:01:03 -0500,"/t/slides,/t/scaling",Provisioning and Capacity Planning,http://www.slideshare.net/brianbrazil/provisioning-and-capacity-planning-workshop-dogpatch-labs-september-2015,/u/bbrazil,3
+3,2015-09-28 17:44:03 -0500,"/t/programming,/t/release",Hook.io open-source microservice platform adds support for 11+ programming languages,https://hook.io/blog/new-multi-language-support,/u/marak,7
+16,2015-09-28 14:35:26 -0500,/t/programming,nil vs None,http://blog.carlosgaldino.com/2015/09/28/nil-vs-none.html,/u/carlosgaldino,6
+5,2015-09-29 08:03:58 -0500,/t/culture,"""Just""",https://the-pastry-box-project.net/brad-frost/2014-january-28,/u/flyingfisch,6
+0,2015-09-28 14:23:57 -0500,/t/devops,"Otto, the successor to Vagrant",https://www.hashicorp.com/blog/otto.html,/u/jpadilla,22
+1,2015-09-28 10:36:40 -0500,/t/compsci,"Amazon’s $23,698,655.93 book about flies (2011)",http://www.michaeleisen.org/blog/?p=358,/u/SirSkidmore,31
+1,2015-09-29 00:26:32 -0500,/t/c,Pitch Shifting Using The Fourier Transform,http://blogs.zynaptiq.com/bernsee/pitch-shifting-using-the-ft/,/u/jm,5
+30,2015-09-28 06:03:47 -0500,/t/programming,"When Rust Makes Sense, or The State of Typed Languages - No Fun Allowed",http://m50d.github.io/2015/09/28/when-rust-makes-sense.html,/u/asthasr,22
+0,2015-09-29 11:35:52 -0500,/t/javascript,Defining front-end architecture,http://radar.oreilly.com/2015/06/defining-front-end-architecture.html,/u/JeremyMorgan,1
+1,2015-09-28 21:43:22 -0500,"/t/compilers,/t/javascript",Basic Block Versioning - My Best Result Yet,http://pointersgonewild.com/2015/09/24/basic-block-versioning-my-best-result-yet/,/u/pushcx,4

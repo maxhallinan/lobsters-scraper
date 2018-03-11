@@ -1,25 +1,25 @@
-0,2016-04-22 17:51:47 -0500,"['/t/pdf', '/t/c']",The Functional C Experience (2002),http://eprints.eemcs.utwente.nl/747/01/00000084.pdf,/u/bsima,4
-5,2016-04-22 03:45:04 -0500,"['/t/browsers', '/t/privacy']",Free VPN Now built into Opera browser,http://www.opera.com/blogs/desktop/2016/04/free-vpn-integrated-opera-for-windows-mac/,/u/apy,11
-0,2016-04-22 14:14:32 -0500,"['/t/law', '/t/privacy']",Secret Court Takes Another Bite Out of the Fourth Amendment,https://www.eff.org/deeplinks/2016/04/secret-court-takes-another-bite-out-fourth-amendment,/u/halosghost,6
-0,2016-04-23 11:36:35 -0500,"['/t/culture', '/t/dotnet', '/t/java']",JavaZone Sells Open Source in TV Parodies,http://fossforce.com/2016/04/javazone-sells-open-source-tv-parodies/,/u/rodolfo,0
-0,2016-04-22 13:30:54 -0500,['/t/release'],"Continuous Deployment With Helm, Deis Workflow, and Wercker",https://deis.com/blog/2016/continuous-deployment-helm-deis-workflow-wercker/,/u/rimusz,2
-7,2016-04-21 10:24:28 -0500,['/t/security'],"How I Hacked Facebook, and Found Someone Else's Backdoor Script",http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/,/u/pushcx,56
-0,2016-04-22 11:31:22 -0500,['/t/games'],Visual Doom AI Competition @ CIG 2016,http://www.cs.put.poznan.pl/visualdoomai/competition-cig-2016.html,/u/pushcx,5
-0,2016-04-22 13:55:24 -0500,['/t/programming'],an open source pastebin with runnable snippets and API,https://glot.io/,/u/ryanguill,3
-5,2016-04-21 19:38:06 -0500,"['/t/databases', '/t/distributed', '/t/erlang', '/t/networking']","Lashup - high availability control plane foundation, crdt store",https://github.com/dcos/lashup,/u/icefall,14
-6,2016-04-21 11:47:10 -0500,['/t/hardware'],Typing Latency,https://pavelfatin.com/typing-with-pleasure/,/u/pushcx,23
-0,2016-04-22 12:47:17 -0500,"['/t/pdf', '/t/slides', '/t/reversing', '/t/swift']",Swift Reversing,http://infiltratecon.com/archives/swift_Ryan_Stortz.pdf,/u/mulander,2
-4,2016-04-21 12:47:57 -0500,['/t/law'],Computer generates all possible ideas to beat patent trolls,https://www.newscientist.com/article/2084755-computer-generates-all-possible-ideas-to-beat-patent-trolls/,/u/kb,19
-0,2016-04-23 01:01:22 -0500,['/t/culture'],Hackbright Academy acquired for $18 million,http://recode.net/2016/04/22/womens-coding-school-hackbright-academy-acquired-for-18-million/,/u/kb,0
-7,2016-04-21 07:37:50 -0500,"['/t/book', '/t/practices']",The Mythical Man Month : Frederick Brooks,https://archive.org/details/mythicalmanmonth00fred,/u/sevan,25
-1,2016-04-21 21:28:48 -0500,"['/t/mac', '/t/person']",Ron Wayne - Why I Left Apple Computer After Only 12 Days,https://www.facebook.com/RonGWayne/posts/370073493010333,/u/kghose,5
-0,2016-04-22 00:40:24 -0500,['/t/javascript'],Principia Physics Simulator,http://principia.cc,/u/jtolds,5
-2,2016-04-21 16:39:38 -0500,"['/t/freebsd', '/t/security']","Installing ElectroBSD the ""hard"" way ... by exploiting HardenedBSD",https://www.fabiankeil.de/gehacktes/hardenedbsd/,/u/jcs,7
-0,2016-04-21 14:57:18 -0500,['/t/devops'],"Don't Use a Chainsaw in Bed, and Other Operational Advice",http://blog.librato.com/posts/dont-use-a-chainsaw-in-ops,/u/Librato,7
-3,2016-04-21 10:11:55 -0500,"['/t/compsci', '/t/rust']",Leaf - Machine Learning for Hackers,http://autumnai.com/leaf/book/leaf.html,/u/tf,15
-0,2016-04-21 16:17:53 -0500,['/t/law'],EFF Asks Supreme Court to Overturn Dangerous Ruling Allowing Patent Owners to Undermine Ownership,https://www.eff.org/deeplinks/2016/04/eff-asks-supreme-court-overturn-dangerous-ruling-allowing-patent-owners-undermine,/u/friendlysock,10
-0,2016-04-22 03:21:47 -0500,"['/t/devops', '/t/go', '/t/scaling', '/t/web']",The Stack That Helped Medium Drive 2.6 Millennia of Reading Time,https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492,/u/ngrilly,2
-5,2016-04-21 05:15:41 -0500,['/t/science'],The Curious Link Between the Fly-By Anomaly and the “Impossible” EmDrive Thruster,https://www.technologyreview.com/s/601299/the-curious-link-between-the-fly-by-anomaly-and-the-impossible-emdrive-thruster/,/u/asthasr,16
-0,2016-04-21 18:02:30 -0500,"['/t/databases', '/t/practices']",Postgres Index Types,https://robots.thoughtbot.com/postgres-index-types,/u/friendlysock,6
-0,2016-04-22 17:43:27 -0500,['/t/culture'],System Failure: What I've Learned As A Data Scientist In Washington,http://www.forbes.com/sites/kalevleetaru/2016/03/29/system-failure-what-ive-learned-as-a-data-scientist-in-washington/,/u/adsouza,0
-0,2016-04-21 15:50:42 -0500,"['/t/practices', '/t/programming']",Cleverness is the bane of maintainability,https://precompile.com/2016/04/21/cleverness-is-the-bane-of-maintainability.html,/u/dirk,3
+0,2016-04-22 17:51:47 -0500,"/t/pdf,/t/c",The Functional C Experience (2002),http://eprints.eemcs.utwente.nl/747/01/00000084.pdf,/u/bsima,4
+5,2016-04-22 03:45:04 -0500,"/t/browsers,/t/privacy",Free VPN Now built into Opera browser,http://www.opera.com/blogs/desktop/2016/04/free-vpn-integrated-opera-for-windows-mac/,/u/apy,11
+0,2016-04-22 14:14:32 -0500,"/t/law,/t/privacy",Secret Court Takes Another Bite Out of the Fourth Amendment,https://www.eff.org/deeplinks/2016/04/secret-court-takes-another-bite-out-fourth-amendment,/u/halosghost,6
+0,2016-04-23 11:36:35 -0500,"/t/culture,/t/dotnet,/t/java",JavaZone Sells Open Source in TV Parodies,http://fossforce.com/2016/04/javazone-sells-open-source-tv-parodies/,/u/rodolfo,0
+0,2016-04-22 13:30:54 -0500,/t/release,"Continuous Deployment With Helm, Deis Workflow, and Wercker",https://deis.com/blog/2016/continuous-deployment-helm-deis-workflow-wercker/,/u/rimusz,2
+7,2016-04-21 10:24:28 -0500,/t/security,"How I Hacked Facebook, and Found Someone Else's Backdoor Script",http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/,/u/pushcx,56
+0,2016-04-22 11:31:22 -0500,/t/games,Visual Doom AI Competition @ CIG 2016,http://www.cs.put.poznan.pl/visualdoomai/competition-cig-2016.html,/u/pushcx,5
+0,2016-04-22 13:55:24 -0500,/t/programming,an open source pastebin with runnable snippets and API,https://glot.io/,/u/ryanguill,3
+5,2016-04-21 19:38:06 -0500,"/t/databases,/t/distributed,/t/erlang,/t/networking","Lashup - high availability control plane foundation, crdt store",https://github.com/dcos/lashup,/u/icefall,14
+6,2016-04-21 11:47:10 -0500,/t/hardware,Typing Latency,https://pavelfatin.com/typing-with-pleasure/,/u/pushcx,23
+0,2016-04-22 12:47:17 -0500,"/t/pdf,/t/slides,/t/reversing,/t/swift",Swift Reversing,http://infiltratecon.com/archives/swift_Ryan_Stortz.pdf,/u/mulander,2
+4,2016-04-21 12:47:57 -0500,/t/law,Computer generates all possible ideas to beat patent trolls,https://www.newscientist.com/article/2084755-computer-generates-all-possible-ideas-to-beat-patent-trolls/,/u/kb,19
+0,2016-04-23 01:01:22 -0500,/t/culture,Hackbright Academy acquired for $18 million,http://recode.net/2016/04/22/womens-coding-school-hackbright-academy-acquired-for-18-million/,/u/kb,0
+7,2016-04-21 07:37:50 -0500,"/t/book,/t/practices",The Mythical Man Month : Frederick Brooks,https://archive.org/details/mythicalmanmonth00fred,/u/sevan,25
+1,2016-04-21 21:28:48 -0500,"/t/mac,/t/person",Ron Wayne - Why I Left Apple Computer After Only 12 Days,https://www.facebook.com/RonGWayne/posts/370073493010333,/u/kghose,5
+0,2016-04-22 00:40:24 -0500,/t/javascript,Principia Physics Simulator,http://principia.cc,/u/jtolds,5
+2,2016-04-21 16:39:38 -0500,"/t/freebsd,/t/security","Installing ElectroBSD the ""hard"" way ... by exploiting HardenedBSD",https://www.fabiankeil.de/gehacktes/hardenedbsd/,/u/jcs,7
+0,2016-04-21 14:57:18 -0500,/t/devops,"Don't Use a Chainsaw in Bed, and Other Operational Advice",http://blog.librato.com/posts/dont-use-a-chainsaw-in-ops,/u/Librato,7
+3,2016-04-21 10:11:55 -0500,"/t/compsci,/t/rust",Leaf - Machine Learning for Hackers,http://autumnai.com/leaf/book/leaf.html,/u/tf,15
+0,2016-04-21 16:17:53 -0500,/t/law,EFF Asks Supreme Court to Overturn Dangerous Ruling Allowing Patent Owners to Undermine Ownership,https://www.eff.org/deeplinks/2016/04/eff-asks-supreme-court-overturn-dangerous-ruling-allowing-patent-owners-undermine,/u/friendlysock,10
+0,2016-04-22 03:21:47 -0500,"/t/devops,/t/go,/t/scaling,/t/web",The Stack That Helped Medium Drive 2.6 Millennia of Reading Time,https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492,/u/ngrilly,2
+5,2016-04-21 05:15:41 -0500,/t/science,The Curious Link Between the Fly-By Anomaly and the “Impossible” EmDrive Thruster,https://www.technologyreview.com/s/601299/the-curious-link-between-the-fly-by-anomaly-and-the-impossible-emdrive-thruster/,/u/asthasr,16
+0,2016-04-21 18:02:30 -0500,"/t/databases,/t/practices",Postgres Index Types,https://robots.thoughtbot.com/postgres-index-types,/u/friendlysock,6
+0,2016-04-22 17:43:27 -0500,/t/culture,System Failure: What I've Learned As A Data Scientist In Washington,http://www.forbes.com/sites/kalevleetaru/2016/03/29/system-failure-what-ive-learned-as-a-data-scientist-in-washington/,/u/adsouza,0
+0,2016-04-21 15:50:42 -0500,"/t/practices,/t/programming",Cleverness is the bane of maintainability,https://precompile.com/2016/04/21/cleverness-is-the-bane-of-maintainability.html,/u/dirk,3

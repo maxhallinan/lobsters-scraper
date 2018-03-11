@@ -1,25 +1,25 @@
-0,2013-05-07 13:17:27 -0500,['/t/javascript'],5 Things You Should Stop Doing With jQuery,http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/,/u/remotesynth,4
-0,2013-05-07 11:51:28 -0500,"['/t/c', '/t/security']",An Implementation of homomorphic encryption,https://github.com/shaih/HElib,/u/kyle,2
-0,2013-05-07 10:56:40 -0500,"['/t/scala', '/t/web']",Advanced routing in Play Framework,https://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html,/u/tobym,2
-1,2013-05-07 10:56:12 -0500,"['/t/devops', '/t/security', '/t/unix']",nginx security advisory (CVE-2013-2028) affecting 1.3.9 - 1.4.0,http://mailman.nginx.org/pipermail/nginx-announce/2013/000112.html,/u/jcs,1
-1,2013-05-07 09:14:45 -0500,"['/t/programming', '/t/ruby']",The Broken Promises of MRI/REE/YARV,http://timetobleed.com/the-broken-promises-of-mrireeyarv/,/u/tedu,2
-0,2013-05-07 08:27:40 -0500,['/t/hardware'],Intel’s Silvermont Architecture Revealed: Getting Serious About Mobile,http://anandtech.com/show/6936/intels-silvermont-architecture-revealed-getting-serious-about-mobile,/u/tedu,2
-0,2013-05-06 18:49:57 -0500,['/t/security'],Google's Buildings Hackable,http://cylance.com/techblog/Googles-Buildings-Hackable.shtml,/u/kyle,9
-0,2013-05-06 23:25:51 -0500,"['/t/python', '/t/web']",Sales data search: Writing a query parser / AST using pyparsing + elasticsearch (part 2),http://blog.close.io/post/49711234004/sales-data-search-writing-a-query-parser-ast-using,/u/tom,2
-0,2013-05-06 14:22:54 -0500,['/t/linux'],Digging out the craziest bug you never heard about from 2008: a linux threading regression,http://timetobleed.com/digging-out-the-craziest-bug-you-never-heard-about-from-2008-a-linux-threading-regression/,/u/jcs,6
-1,2013-05-06 11:24:43 -0500,['/t/web'],In defense of <canvas>,http://www.holovaty.com/writing/in-defense-of-canvas/,/u/jcs,5
-0,2013-05-06 14:45:46 -0500,"['/t/privacy', '/t/release', '/t/security']",LibOnionRoute is a fork of the Tor onion router sourcecode to transform it into a linkable library,http://www.onionroute.org/,/u/jcs,3
-0,2013-05-06 14:42:50 -0500,['/t/compsci'],Row Polymorphism Isn't Subtyping,http://brianmckenna.org/blog/row_polymorphism_isnt_subtyping,/u/puffnfresh,3
-0,2013-05-06 18:50:18 -0500,['/t/security'],Why I am the world’s greatest lover (and other worthless security claims),http://www.troyhunt.com/2013/05/why-i-am-worlds-greatest-lover-and.html,/u/kyle,1
-0,2013-05-06 09:40:55 -0500,"['/t/lisp', '/t/math']",Basic Machine Learning With K Nearest Neighbor and Racket,http://spin.atomicobject.com/2013/05/06/k-nearest-neighbor-racket/,/u/silentbicycle,3
-3,2013-05-06 06:42:13 -0500,['/t/security'],Honeywords: Making Password-Cracking Detectable,http://people.csail.mit.edu/rivest/honeywords/,/u/thorduri,2
-0,2013-05-06 06:24:10 -0500,"['/t/video', '/t/erlang']",Erlang's Open Telecom Platform (OTP) Framework,http://www.infoq.com/presentations/Erlang-OTP-Behaviors,/u/SeanTAllen,2
-0,2013-05-05 13:55:22 -0500,['/t/design'],Design for the New Normal (Revisited),http://superflux.in/blog/newnormal-revisited,/u/citizenparker,3
-11,2013-05-04 22:22:20 -0500,"['/t/show', '/t/book', '/t/go', '/t/security']",Practical Cryptography with Go,http://gokyle.org/book,/u/kyle,7
-0,2013-05-05 08:07:10 -0500,"['/t/video', '/t/erlang', '/t/scaling']",Building Highly Available Systems in Erlang,http://www.infoq.com/presentations/Building-Highly-Available-Systems-in-Erlang#.UUUKT7OwH5g.twitter,/u/SeanTAllen,3
-2,2013-05-04 19:17:12 -0500,"['/t/ios', '/t/security']",What’s a known source of malware doing in an iOS app?,http://arstechnica.com/security/2013/05/whats-a-known-source-of-malware-doing-in-an-ios-app-ars-investigates/,/u/tedu,3
-0,2013-05-04 23:27:14 -0500,"['/t/browsers', '/t/security']","Some harmless, old-fashioned fun with CSS",http://lcamtuf.blogspot.com/2013/05/some-harmless-old-fashioned-fun-with-css.html,/u/jcs,2
-0,2013-05-04 07:38:00 -0500,['/t/openbsd'],ZFS on OpenBSD,http://www.tedunangst.com/flak/post/ZFS-on-OpenBSD,/u/jage,9
-1,2013-05-04 12:20:46 -0500,"['/t/c', '/t/security']",Introduction to Format String Exploits,http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html,/u/jcs,4
-0,2013-05-04 11:52:34 -0500,"['/t/compsci', '/t/go', '/t/rust']",Go and Rust — objects without class,https://lwn.net/SubscriberLink/548560/16388a4dbede3884/,/u/kyle,3
-0,2013-05-04 12:51:05 -0500,"['/t/databases', '/t/scaling']",Dynamo Sure Works Hard,http://damienkatz.net/2013/05/dynamo_sure_works_hard.html,/u/kyle,1
+0,2013-05-07 13:17:27 -0500,/t/javascript,5 Things You Should Stop Doing With jQuery,http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/,/u/remotesynth,4
+0,2013-05-07 11:51:28 -0500,"/t/c,/t/security",An Implementation of homomorphic encryption,https://github.com/shaih/HElib,/u/kyle,2
+0,2013-05-07 10:56:40 -0500,"/t/scala,/t/web",Advanced routing in Play Framework,https://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html,/u/tobym,2
+1,2013-05-07 10:56:12 -0500,"/t/devops,/t/security,/t/unix",nginx security advisory (CVE-2013-2028) affecting 1.3.9 - 1.4.0,http://mailman.nginx.org/pipermail/nginx-announce/2013/000112.html,/u/jcs,1
+1,2013-05-07 09:14:45 -0500,"/t/programming,/t/ruby",The Broken Promises of MRI/REE/YARV,http://timetobleed.com/the-broken-promises-of-mrireeyarv/,/u/tedu,2
+0,2013-05-07 08:27:40 -0500,/t/hardware,Intel’s Silvermont Architecture Revealed: Getting Serious About Mobile,http://anandtech.com/show/6936/intels-silvermont-architecture-revealed-getting-serious-about-mobile,/u/tedu,2
+0,2013-05-06 18:49:57 -0500,/t/security,Google's Buildings Hackable,http://cylance.com/techblog/Googles-Buildings-Hackable.shtml,/u/kyle,9
+0,2013-05-06 23:25:51 -0500,"/t/python,/t/web",Sales data search: Writing a query parser / AST using pyparsing + elasticsearch (part 2),http://blog.close.io/post/49711234004/sales-data-search-writing-a-query-parser-ast-using,/u/tom,2
+0,2013-05-06 14:22:54 -0500,/t/linux,Digging out the craziest bug you never heard about from 2008: a linux threading regression,http://timetobleed.com/digging-out-the-craziest-bug-you-never-heard-about-from-2008-a-linux-threading-regression/,/u/jcs,6
+1,2013-05-06 11:24:43 -0500,/t/web,In defense of <canvas>,http://www.holovaty.com/writing/in-defense-of-canvas/,/u/jcs,5
+0,2013-05-06 14:45:46 -0500,"/t/privacy,/t/release,/t/security",LibOnionRoute is a fork of the Tor onion router sourcecode to transform it into a linkable library,http://www.onionroute.org/,/u/jcs,3
+0,2013-05-06 14:42:50 -0500,/t/compsci,Row Polymorphism Isn't Subtyping,http://brianmckenna.org/blog/row_polymorphism_isnt_subtyping,/u/puffnfresh,3
+0,2013-05-06 18:50:18 -0500,/t/security,Why I am the world’s greatest lover (and other worthless security claims),http://www.troyhunt.com/2013/05/why-i-am-worlds-greatest-lover-and.html,/u/kyle,1
+0,2013-05-06 09:40:55 -0500,"/t/lisp,/t/math",Basic Machine Learning With K Nearest Neighbor and Racket,http://spin.atomicobject.com/2013/05/06/k-nearest-neighbor-racket/,/u/silentbicycle,3
+3,2013-05-06 06:42:13 -0500,/t/security,Honeywords: Making Password-Cracking Detectable,http://people.csail.mit.edu/rivest/honeywords/,/u/thorduri,2
+0,2013-05-06 06:24:10 -0500,"/t/video,/t/erlang",Erlang's Open Telecom Platform (OTP) Framework,http://www.infoq.com/presentations/Erlang-OTP-Behaviors,/u/SeanTAllen,2
+0,2013-05-05 13:55:22 -0500,/t/design,Design for the New Normal (Revisited),http://superflux.in/blog/newnormal-revisited,/u/citizenparker,3
+11,2013-05-04 22:22:20 -0500,"/t/show,/t/book,/t/go,/t/security",Practical Cryptography with Go,http://gokyle.org/book,/u/kyle,7
+0,2013-05-05 08:07:10 -0500,"/t/video,/t/erlang,/t/scaling",Building Highly Available Systems in Erlang,http://www.infoq.com/presentations/Building-Highly-Available-Systems-in-Erlang#.UUUKT7OwH5g.twitter,/u/SeanTAllen,3
+2,2013-05-04 19:17:12 -0500,"/t/ios,/t/security",What’s a known source of malware doing in an iOS app?,http://arstechnica.com/security/2013/05/whats-a-known-source-of-malware-doing-in-an-ios-app-ars-investigates/,/u/tedu,3
+0,2013-05-04 23:27:14 -0500,"/t/browsers,/t/security","Some harmless, old-fashioned fun with CSS",http://lcamtuf.blogspot.com/2013/05/some-harmless-old-fashioned-fun-with-css.html,/u/jcs,2
+0,2013-05-04 07:38:00 -0500,/t/openbsd,ZFS on OpenBSD,http://www.tedunangst.com/flak/post/ZFS-on-OpenBSD,/u/jage,9
+1,2013-05-04 12:20:46 -0500,"/t/c,/t/security",Introduction to Format String Exploits,http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html,/u/jcs,4
+0,2013-05-04 11:52:34 -0500,"/t/compsci,/t/go,/t/rust",Go and Rust — objects without class,https://lwn.net/SubscriberLink/548560/16388a4dbede3884/,/u/kyle,3
+0,2013-05-04 12:51:05 -0500,"/t/databases,/t/scaling",Dynamo Sure Works Hard,http://damienkatz.net/2013/05/dynamo_sure_works_hard.html,/u/kyle,1

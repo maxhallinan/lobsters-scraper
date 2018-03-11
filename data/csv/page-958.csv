@@ -1,25 +1,25 @@
-14,2015-11-25 07:47:21 -0600,"['/t/openbsd', '/t/programming']","Today's world is amd64, armv7, and soon aarch64. Everything else is dead, Jim.",http://pastebin.com/W9RbUUN1,/u/mulander,48
-3,2015-11-25 16:08:16 -0600,"['/t/linux', '/t/security']",Debian-based Raspbian on Raspberry Pi generating predictable SSH host keys,https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=126892,/u/jcs,21
-2,2015-11-26 10:50:17 -0600,"['/t/slides', '/t/api']",The rise of API first applications,http://travistidwell.com/presentations/apifirst/,/u/journeysquid,1
-0,2015-11-26 15:54:49 -0600,"['/t/video', '/t/compsci']",Hashing with SL2: Hash Functions as Monoid Homomorphisms,https://www.youtube.com/watch?v=zQB1erzYxdI,/u/puffnfresh,1
-2,2015-11-25 13:52:12 -0600,"['/t/openbsd', '/t/python']",OpenBSD support for psutil,http://grodola.blogspot.com/2015/11/openbsd-support-for-psutil.html,/u/iv,14
-2,2015-11-25 12:20:00 -0600,['/t/hardware'],Macbook charger teardown: The surprising complexity inside Apple's power adapter,http://www.righto.com/2015/11/macbook-charger-teardown-surprising.html,/u/zg,18
-5,2015-11-25 12:02:03 -0600,['/t/satire'],Is it Pokemon or Big Data ?,http://pixelastic.github.io/pokemonorbigdata/,/u/james,35
-0,2015-11-25 13:30:34 -0600,['/t/book'],Easy Forth - Interactive Ebook,http://skilldrick.github.io/easyforth/,/u/fitzgen,15
-0,2015-11-25 12:46:13 -0600,"['/t/security', '/t/web']","Dell’s Tumble, Google’s Fumble, And How Government Sabotage Of Internet Security Works",https://blog.okturtles.com/2015/11/dells-tumble-googles-fumble-and-how-government-sabotage-of-internet-security-works/,/u/itistoday,6
-0,2015-11-25 16:58:20 -0600,"['/t/programming', '/t/ruby']",Making sure your rails app is thread safe,https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/,/u/samser,6
-10,2015-11-24 20:01:21 -0600,['/t/compsci'],What's worked in computer science,http://danluu.com/butler-lampson-1999/,/u/GeoffWozniak,21
-12,2015-11-24 09:56:55 -0600,"['/t/show', '/t/go', '/t/java', '/t/programming', '/t/release', '/t/vcs']","Sourcegraph, a new self-hosted Git service with semantic code navigation, search, and review",https://src.sourcegraph.com/sourcegraph@b1af2ab4761618930f6f7e44eb775e08fac3f38e/.tree/README.md,/u/sqs,36
-1,2015-11-25 10:18:08 -0600,['/t/programming'],Your Mouse is a Database,https://queue.acm.org/detail.cfm?id=2169076&dwn=0,/u/joshuacc,7
-2,2015-11-25 05:55:18 -0600,"['/t/c', '/t/science']",PhD student solves physics problems with C++ on daily stream,http://leios.github.io,/u/holsta,10
-0,2015-11-25 13:29:42 -0600,"['/t/show', '/t/javascript']",robotjs,https://github.com/octalmage/robotjs,/u/flyingfisch,4
-1,2015-11-25 01:00:50 -0600,['/t/practices'],Getting Software Teams Back On Track,http://codemanship.co.uk/parlezuml/blog/?postid=1335,/u/pushcx,12
-9,2015-11-24 17:14:50 -0600,"['/t/hardware', '/t/security']",MagSpoof - credit card/magstripe spoofer,https://github.com/samyk/magspoof,/u/SeanW,16
-0,2015-11-25 13:17:08 -0600,['/t/python'],Pyston talk recording,http://blog.pyston.org/2015/11/24/pyston-talk-recording/,/u/xcombelle,2
-0,2015-11-25 10:06:00 -0600,['/t/security'],s2n and Lucky 13,http://blogs.aws.amazon.com/security/post/TxLZP6HNAYWBQ6/s2n-and-Lucky-13,/u/asthasr,3
-1,2015-11-25 17:11:57 -0600,"['/t/video', '/t/culture', '/t/practices']",Martin Andrews - Open Salaries,https://www.youtube.com/watch?v=sf5r4yLTc9k,/u/duncan_bayne,2
-0,2015-11-25 11:26:41 -0600,['/t/javascript'],"Angular 2, Immutability and Encapsulation",http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation,/u/joshuacc,2
-7,2015-11-24 12:56:04 -0600,['/t/science'],What can a technologist do about climate change? A personal view.,http://worrydream.com/ClimateChange/,/u/mkremins,16
-29,2015-11-24 10:37:35 -0600,"['/t/law', '/t/practices', '/t/programming']",Fair Source License,https://fair.io/,/u/quad,18
-5,2015-11-24 13:54:06 -0600,"['/t/law', '/t/practices', '/t/programming']",OSI-approved Fair license,https://opensource.org/licenses/Fair,/u/chneukirchen,19
-1,2015-11-24 23:46:53 -0600,"['/t/haskell', '/t/release']",Flame graphs for GHC time profiles with ghc-prof-flamegraph,https://www.fpcomplete.com/blog/2015/04/ghc-prof-flamegraph,/u/pushcx,7
+14,2015-11-25 07:47:21 -0600,"/t/openbsd,/t/programming","Today's world is amd64, armv7, and soon aarch64. Everything else is dead, Jim.",http://pastebin.com/W9RbUUN1,/u/mulander,48
+3,2015-11-25 16:08:16 -0600,"/t/linux,/t/security",Debian-based Raspbian on Raspberry Pi generating predictable SSH host keys,https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=126892,/u/jcs,21
+2,2015-11-26 10:50:17 -0600,"/t/slides,/t/api",The rise of API first applications,http://travistidwell.com/presentations/apifirst/,/u/journeysquid,1
+0,2015-11-26 15:54:49 -0600,"/t/video,/t/compsci",Hashing with SL2: Hash Functions as Monoid Homomorphisms,https://www.youtube.com/watch?v=zQB1erzYxdI,/u/puffnfresh,1
+2,2015-11-25 13:52:12 -0600,"/t/openbsd,/t/python",OpenBSD support for psutil,http://grodola.blogspot.com/2015/11/openbsd-support-for-psutil.html,/u/iv,14
+2,2015-11-25 12:20:00 -0600,/t/hardware,Macbook charger teardown: The surprising complexity inside Apple's power adapter,http://www.righto.com/2015/11/macbook-charger-teardown-surprising.html,/u/zg,18
+5,2015-11-25 12:02:03 -0600,/t/satire,Is it Pokemon or Big Data ?,http://pixelastic.github.io/pokemonorbigdata/,/u/james,35
+0,2015-11-25 13:30:34 -0600,/t/book,Easy Forth - Interactive Ebook,http://skilldrick.github.io/easyforth/,/u/fitzgen,15
+0,2015-11-25 12:46:13 -0600,"/t/security,/t/web","Dell’s Tumble, Google’s Fumble, And How Government Sabotage Of Internet Security Works",https://blog.okturtles.com/2015/11/dells-tumble-googles-fumble-and-how-government-sabotage-of-internet-security-works/,/u/itistoday,6
+0,2015-11-25 16:58:20 -0600,"/t/programming,/t/ruby",Making sure your rails app is thread safe,https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/,/u/samser,6
+10,2015-11-24 20:01:21 -0600,/t/compsci,What's worked in computer science,http://danluu.com/butler-lampson-1999/,/u/GeoffWozniak,21
+12,2015-11-24 09:56:55 -0600,"/t/show,/t/go,/t/java,/t/programming,/t/release,/t/vcs","Sourcegraph, a new self-hosted Git service with semantic code navigation, search, and review",https://src.sourcegraph.com/sourcegraph@b1af2ab4761618930f6f7e44eb775e08fac3f38e/.tree/README.md,/u/sqs,36
+1,2015-11-25 10:18:08 -0600,/t/programming,Your Mouse is a Database,https://queue.acm.org/detail.cfm?id=2169076&dwn=0,/u/joshuacc,7
+2,2015-11-25 05:55:18 -0600,"/t/c,/t/science",PhD student solves physics problems with C++ on daily stream,http://leios.github.io,/u/holsta,10
+0,2015-11-25 13:29:42 -0600,"/t/show,/t/javascript",robotjs,https://github.com/octalmage/robotjs,/u/flyingfisch,4
+1,2015-11-25 01:00:50 -0600,/t/practices,Getting Software Teams Back On Track,http://codemanship.co.uk/parlezuml/blog/?postid=1335,/u/pushcx,12
+9,2015-11-24 17:14:50 -0600,"/t/hardware,/t/security",MagSpoof - credit card/magstripe spoofer,https://github.com/samyk/magspoof,/u/SeanW,16
+0,2015-11-25 13:17:08 -0600,/t/python,Pyston talk recording,http://blog.pyston.org/2015/11/24/pyston-talk-recording/,/u/xcombelle,2
+0,2015-11-25 10:06:00 -0600,/t/security,s2n and Lucky 13,http://blogs.aws.amazon.com/security/post/TxLZP6HNAYWBQ6/s2n-and-Lucky-13,/u/asthasr,3
+1,2015-11-25 17:11:57 -0600,"/t/video,/t/culture,/t/practices",Martin Andrews - Open Salaries,https://www.youtube.com/watch?v=sf5r4yLTc9k,/u/duncan_bayne,2
+0,2015-11-25 11:26:41 -0600,/t/javascript,"Angular 2, Immutability and Encapsulation",http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation,/u/joshuacc,2
+7,2015-11-24 12:56:04 -0600,/t/science,What can a technologist do about climate change? A personal view.,http://worrydream.com/ClimateChange/,/u/mkremins,16
+29,2015-11-24 10:37:35 -0600,"/t/law,/t/practices,/t/programming",Fair Source License,https://fair.io/,/u/quad,18
+5,2015-11-24 13:54:06 -0600,"/t/law,/t/practices,/t/programming",OSI-approved Fair license,https://opensource.org/licenses/Fair,/u/chneukirchen,19
+1,2015-11-24 23:46:53 -0600,"/t/haskell,/t/release",Flame graphs for GHC time profiles with ghc-prof-flamegraph,https://www.fpcomplete.com/blog/2015/04/ghc-prof-flamegraph,/u/pushcx,7

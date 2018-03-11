@@ -1,25 +1,25 @@
-1,2016-01-09 11:02:50 -0600,['/t/rust'],The Scope of Unsafe,https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html,/u/antifuchs,12
-3,2016-01-09 08:09:21 -0600,"['/t/databases', '/t/ruby']",ActiveRecord stole my data and now I want it back,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163#.45n1vceky,/u/pushcx,8
-1,2016-01-09 16:37:41 -0600,['/t/programming'],Optional Discourse on Emoji,http://babelstone.blogspot.com/2015/04/whats-new-in-unicode-80.html#emoji,/u/pushcx,5
-1,2016-01-09 15:43:30 -0600,"['/t/book', '/t/programming']",Object-Oriented Reengineering Patterns (2013),http://scg.unibe.ch/download/oorp/,/u/pushcx,5
-0,2016-01-09 16:18:45 -0600,['/t/c'],Common Pitfalls in Writing Lock-Free Algorithms (2013),http://blog.memsql.com/common-pitfalls-in-writing-lock-free-algorithms/,/u/peter,6
-0,2016-01-09 14:49:03 -0600,"['/t/philosophy', '/t/practices']",FSF Vision Survey,https://my.fsf.org/civicrm/profile/create?gid=403&reset=1,/u/JordiGH,7
-0,2016-01-09 16:57:28 -0600,['/t/databases'],N1QL vs TSQL - Aggregations with Couchbase Server vs SQL Server,http://blog.couchbase.com/2016/january/n1ql-vs-tsql---processing-aggregations,/u/pushcx,4
-0,2016-01-09 17:12:59 -0600,"['/t/graphics', '/t/web']",Image diffing using CSS,http://franklinta.com/2014/11/30/image-diffing-using-css/,/u/pushcx,2
-1,2016-01-09 00:45:18 -0600,"['/t/programming', '/t/swift']",Goto in Swift,https://harlanhaskins.com/2016/01/09/goto-in-swift.html,/u/harlanhaskins,5
-27,2016-01-08 04:27:51 -0600,['/t/c'],How to C (as of 2016),https://matt.sh/howto-c,/u/julienXX,62
-0,2016-01-09 15:32:38 -0600,"['/t/law', '/t/privacy']",Court Allows Shutterfly Facial Recognition Suit to Proceed,http://www.computerworld.com/article/3020457/data-privacy/court-rules-shutterfly-may-have-violated-privacy-by-scanning-face-photos.html,/u/pushcx,2
-1,2016-01-09 07:57:03 -0600,"['/t/compsci', '/t/math', '/t/programming']",Notes on Artificial Intelligence,http://frnsys.com/ai_notes/,/u/mbulte,4
-10,2016-01-08 10:40:54 -0600,['/t/math'],Mathematicians invent new way to evenly slice pizza,https://www.newscientist.com/article/dn28743-mathematicians-invent-new-way-to-slice-pizza-into-exotic-shapes/,/u/pushcx,27
-0,2016-01-09 09:24:46 -0600,['/t/haskell'],Viskell: Visual programming meets Haskell,https://github.com/wandernauta/viskell,/u/james,4
-10,2016-01-08 13:58:00 -0600,"['/t/c', '/t/compsci', '/t/programming']",When did we stop caring about memory management?,http://www.hanselman.com/blog/WhenDidWeStopCaringAboutMemoryManagement.aspx,/u/JeremyMorgan,17
-1,2016-01-09 08:30:20 -0600,"['/t/math', '/t/visualization']",User:LucasVB/Gallery,https://en.wikipedia.org/wiki/User:LucasVB/Gallery,/u/pushcx,3
-0,2016-01-09 15:50:47 -0600,['/t/culture'],Don't Assume It's Difficult until It Is,http://weblog.jamisbuck.org/2016/1/9/dont-assume-its-difficult.html,/u/pushcx,2
-12,2016-01-08 11:27:00 -0600,['/t/web'],"Why I’m joining the Dart team, of all places",https://medium.com/@filiph/why-i-m-joining-the-dart-team-of-all-places-d0b9f83a3b66#.9689zulgs,/u/mulander,15
-1,2016-01-08 22:34:01 -0600,['/t/ml'],Run Mirage Unikernels on KVM/QEMU with Solo5,https://mirage.io/blog/introducing-solo5,/u/jonschoning,7
-0,2016-01-09 08:38:20 -0600,['/t/ruby'],Contextual validations with form objects,http://blog.sundaycoding.com/blog/2016/01/08/contextual-validations-with-form-objects,/u/pushcx,2
-0,2016-01-08 16:38:59 -0600,['/t/math'],Dissecting a square - the prelude to the pizza slicing paper,http://www.solipsys.co.uk/new/DissectingASquare.html?L_20160108,/u/RiderOfGiraffes,6
-0,2016-01-08 16:47:01 -0600,"['/t/compilers', '/t/programming']",DM's Esoteric Programming Languages - Piet Samples,http://www.dangermouse.net/esoteric/piet/samples.html,/u/friendlysock,9
-0,2016-01-09 07:54:29 -0600,"['/t/programming', '/t/swift']",Swift Library Evolution,https://github.com/apple/swift/blob/master/docs/LibraryEvolution.rst,/u/355E3B,1
-0,2016-01-08 18:08:03 -0600,['/t/release'],"Encryptr - Free, zero-knowledge password manager by SpiderOak",https://spideroak.com/solutions/encryptr,/u/sev,7
-2,2016-01-08 10:04:51 -0600,['/t/ruby'],Ruby’s “unless X” is processed differently than “if !X”,http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently,/u/pushcx,15
+1,2016-01-09 11:02:50 -0600,/t/rust,The Scope of Unsafe,https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html,/u/antifuchs,12
+3,2016-01-09 08:09:21 -0600,"/t/databases,/t/ruby",ActiveRecord stole my data and now I want it back,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163#.45n1vceky,/u/pushcx,8
+1,2016-01-09 16:37:41 -0600,/t/programming,Optional Discourse on Emoji,http://babelstone.blogspot.com/2015/04/whats-new-in-unicode-80.html#emoji,/u/pushcx,5
+1,2016-01-09 15:43:30 -0600,"/t/book,/t/programming",Object-Oriented Reengineering Patterns (2013),http://scg.unibe.ch/download/oorp/,/u/pushcx,5
+0,2016-01-09 16:18:45 -0600,/t/c,Common Pitfalls in Writing Lock-Free Algorithms (2013),http://blog.memsql.com/common-pitfalls-in-writing-lock-free-algorithms/,/u/peter,6
+0,2016-01-09 14:49:03 -0600,"/t/philosophy,/t/practices",FSF Vision Survey,https://my.fsf.org/civicrm/profile/create?gid=403&reset=1,/u/JordiGH,7
+0,2016-01-09 16:57:28 -0600,/t/databases,N1QL vs TSQL - Aggregations with Couchbase Server vs SQL Server,http://blog.couchbase.com/2016/january/n1ql-vs-tsql---processing-aggregations,/u/pushcx,4
+0,2016-01-09 17:12:59 -0600,"/t/graphics,/t/web",Image diffing using CSS,http://franklinta.com/2014/11/30/image-diffing-using-css/,/u/pushcx,2
+1,2016-01-09 00:45:18 -0600,"/t/programming,/t/swift",Goto in Swift,https://harlanhaskins.com/2016/01/09/goto-in-swift.html,/u/harlanhaskins,5
+27,2016-01-08 04:27:51 -0600,/t/c,How to C (as of 2016),https://matt.sh/howto-c,/u/julienXX,62
+0,2016-01-09 15:32:38 -0600,"/t/law,/t/privacy",Court Allows Shutterfly Facial Recognition Suit to Proceed,http://www.computerworld.com/article/3020457/data-privacy/court-rules-shutterfly-may-have-violated-privacy-by-scanning-face-photos.html,/u/pushcx,2
+1,2016-01-09 07:57:03 -0600,"/t/compsci,/t/math,/t/programming",Notes on Artificial Intelligence,http://frnsys.com/ai_notes/,/u/mbulte,4
+10,2016-01-08 10:40:54 -0600,/t/math,Mathematicians invent new way to evenly slice pizza,https://www.newscientist.com/article/dn28743-mathematicians-invent-new-way-to-slice-pizza-into-exotic-shapes/,/u/pushcx,27
+0,2016-01-09 09:24:46 -0600,/t/haskell,Viskell: Visual programming meets Haskell,https://github.com/wandernauta/viskell,/u/james,4
+10,2016-01-08 13:58:00 -0600,"/t/c,/t/compsci,/t/programming",When did we stop caring about memory management?,http://www.hanselman.com/blog/WhenDidWeStopCaringAboutMemoryManagement.aspx,/u/JeremyMorgan,17
+1,2016-01-09 08:30:20 -0600,"/t/math,/t/visualization",User:LucasVB/Gallery,https://en.wikipedia.org/wiki/User:LucasVB/Gallery,/u/pushcx,3
+0,2016-01-09 15:50:47 -0600,/t/culture,Don't Assume It's Difficult until It Is,http://weblog.jamisbuck.org/2016/1/9/dont-assume-its-difficult.html,/u/pushcx,2
+12,2016-01-08 11:27:00 -0600,/t/web,"Why I’m joining the Dart team, of all places",https://medium.com/@filiph/why-i-m-joining-the-dart-team-of-all-places-d0b9f83a3b66#.9689zulgs,/u/mulander,15
+1,2016-01-08 22:34:01 -0600,/t/ml,Run Mirage Unikernels on KVM/QEMU with Solo5,https://mirage.io/blog/introducing-solo5,/u/jonschoning,7
+0,2016-01-09 08:38:20 -0600,/t/ruby,Contextual validations with form objects,http://blog.sundaycoding.com/blog/2016/01/08/contextual-validations-with-form-objects,/u/pushcx,2
+0,2016-01-08 16:38:59 -0600,/t/math,Dissecting a square - the prelude to the pizza slicing paper,http://www.solipsys.co.uk/new/DissectingASquare.html?L_20160108,/u/RiderOfGiraffes,6
+0,2016-01-08 16:47:01 -0600,"/t/compilers,/t/programming",DM's Esoteric Programming Languages - Piet Samples,http://www.dangermouse.net/esoteric/piet/samples.html,/u/friendlysock,9
+0,2016-01-09 07:54:29 -0600,"/t/programming,/t/swift",Swift Library Evolution,https://github.com/apple/swift/blob/master/docs/LibraryEvolution.rst,/u/355E3B,1
+0,2016-01-08 18:08:03 -0600,/t/release,"Encryptr - Free, zero-knowledge password manager by SpiderOak",https://spideroak.com/solutions/encryptr,/u/sev,7
+2,2016-01-08 10:04:51 -0600,/t/ruby,Ruby’s “unless X” is processed differently than “if !X”,http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently,/u/pushcx,15

@@ -1,25 +1,25 @@
-0,2016-08-10 14:36:08 -0500,"['/t/historical', '/t/web']",25 years ago the world changed forever,https://www.w3.org/blog/2016/08/25-years-ago-the-world-changed-forever/,/u/flyingfisch,6
-0,2016-08-10 16:02:17 -0500,"['/t/linux', '/t/unix']",A Deep Dive into the SIGTTIN / SIGTTOU Terminal Access Control Mechanism in Linux,http://curiousthing.org/sigttin-sigttou-deep-dive-linux,/u/twk,5
-3,2016-08-10 03:32:51 -0500,"['/t/debugging', '/t/ruby']",How does gdb work?,http://jvns.ca/blog/2016/08/10/how-does-gdb-work/,/u/pwatsonwailes,16
-0,2016-08-11 06:25:15 -0500,['/t/culture'],"Ashley Madison Code Shows More Women, and More Bots",http://gizmodo.com/ashley-madison-code-shows-more-women-and-more-bots-1727613924,/u/mulander,1
-20,2016-08-09 13:54:39 -0500,['/t/browsers'],Chrome to Block Flash,https://chrome.googleblog.com/2016/08/flash-and-chrome.html,/u/pushcx,37
-1,2016-08-10 07:20:50 -0500,"['/t/security', '/t/windows']","Secure Golden Key Boot: (MS16-094 / CVE-2016-3287, and MS16-100 / CVE-2016-3320)",https://rol.im/securegoldenkeyboot/,/u/calvin,6
-31,2016-08-09 18:52:49 -0500,"['/t/math', '/t/science']","Walking is 3 times more expensive than driving, from a fuel perspective",http://www.datadriventhoughts.com/2016/08/08/walking-is-3-times-more-expensive-than-driving-from-an-energy-perspective/,/u/tedu,14
-0,2016-08-10 06:33:02 -0500,['/t/erlang'],Escript Essentials,http://stratus3d.com/blog/2016/07/02/escript-essentials,/u/Stratus3D,4
-0,2016-08-10 13:54:16 -0500,"['/t/practices', '/t/programming']",Technical Debt: It’s not just the code,http://i-proving.com/2016/08/09/technical-debt-its-not-just-the-code/,/u/joshuacc,3
-34,2016-08-09 09:45:52 -0500,"['/t/ask', '/t/audio']",Which podcasts do you listen to/recommend?,/s/w8tbk6/which_podcasts_do_you_listen_recommend,/u/unbalancedparentheses,35
-0,2016-08-10 13:46:32 -0500,"['/t/cogsci', '/t/python']",fasttext - A Python interface for Facebook fastText,https://github.com/pyk/fastText.py,/u/pyk,1
-0,2016-08-10 13:24:34 -0500,"['/t/compsci', '/t/math', '/t/python']",Image Completion with Deep Learning in TensorFlow,http://bamos.github.io/2016/08/09/deep-completion/,/u/bamos,1
-1,2016-08-11 01:31:19 -0500,['/t/security'],Australian PM shifts blame to IBM for census failures,https://www.theguardian.com/australia-news/2016/aug/11/census-2016-malcolm-turnbull-shifts-blame-to-ibm-for-predictable-attack,/u/pwatsonwailes,0
-2,2016-08-10 09:13:43 -0500,"['/t/networking', '/t/security']",Librevault: File synchronization designed with privacy in mind,https://librevault.com/,/u/unbalancedparentheses,2
-1,2016-08-10 16:45:19 -0500,"['/t/culture', '/t/finance']",Who Stole the Four-Hour Workday? (2014),http://www.vice.com/read/who-stole-the-four-hour-workday-0000406-v21n8,/u/kel,3
-0,2016-08-10 13:59:05 -0500,"['/t/distributed', '/t/erlang', '/t/go']",Why scaling and parallelism remain hard even with new tools and languages,https://www.erlang-solutions.com/blog/the-continuing-headaches-of-distributed-programming.html,/u/unbalancedparentheses,2
-7,2016-08-09 15:21:11 -0500,['/t/networking'],The Netflix Tech Blog: Building fast.com,http://techblog.netflix.com/2016/08/building-fastcom.html,/u/gregnavis,16
-0,2016-08-10 09:41:56 -0500,['/t/databases'],Sharding a multi-tenant app with Postgres,https://www.citusdata.com/blog/2016/08/10/sharding-for-a-multi-tenant-app-with-postgres/,/u/rdegges,2
-6,2016-08-09 10:21:47 -0500,"['/t/show', '/t/distributed', '/t/go', '/t/security']",Distributed K/V store library (Go) built with raft and SSH,https://github.com/fabian-z/distkv,/u/fabian-z,14
-1,2016-08-09 17:01:08 -0500,['/t/distributed'],Updating Torrents Via DHT Mutable Items,http://www.bittorrent.org/beps/bep_0046.html,/u/pushcx,14
-2,2016-08-09 09:23:26 -0500,"['/t/c', '/t/programming']",Write a simple memory allocator,http://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator,/u/unbalancedparentheses,26
-0,2016-08-10 08:07:12 -0500,"['/t/security', '/t/virtualization']",Flip Feng Shui,https://www.vusec.net/projects/flip-feng-shui/,/u/mulander,2
-4,2016-08-09 17:30:44 -0500,"['/t/crypto', '/t/law', '/t/privacy', '/t/security']",A Few Thoughts on Cryptographic Engineering: How do we build encryption backdoors?,http://blog.cryptographyengineering.com/2015/04/how-do-we-build-encryption-backdors.html,/u/cmhamill,7
-0,2016-08-10 05:33:13 -0500,['/t/compsci'],The Boom Hierarchy (2014),https://blog.acolyer.org/2014/11/06/the-boom-hierarchy/,/u/adsouza,2
-1,2016-08-09 15:15:36 -0500,"['/t/debugging', '/t/practices', '/t/unix']",gdb Debugging Full Example (Tutorial): ncurses,http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html,/u/sevan,11
+0,2016-08-10 14:36:08 -0500,"/t/historical,/t/web",25 years ago the world changed forever,https://www.w3.org/blog/2016/08/25-years-ago-the-world-changed-forever/,/u/flyingfisch,6
+0,2016-08-10 16:02:17 -0500,"/t/linux,/t/unix",A Deep Dive into the SIGTTIN / SIGTTOU Terminal Access Control Mechanism in Linux,http://curiousthing.org/sigttin-sigttou-deep-dive-linux,/u/twk,5
+3,2016-08-10 03:32:51 -0500,"/t/debugging,/t/ruby",How does gdb work?,http://jvns.ca/blog/2016/08/10/how-does-gdb-work/,/u/pwatsonwailes,16
+0,2016-08-11 06:25:15 -0500,/t/culture,"Ashley Madison Code Shows More Women, and More Bots",http://gizmodo.com/ashley-madison-code-shows-more-women-and-more-bots-1727613924,/u/mulander,1
+20,2016-08-09 13:54:39 -0500,/t/browsers,Chrome to Block Flash,https://chrome.googleblog.com/2016/08/flash-and-chrome.html,/u/pushcx,37
+1,2016-08-10 07:20:50 -0500,"/t/security,/t/windows","Secure Golden Key Boot: (MS16-094 / CVE-2016-3287, and MS16-100 / CVE-2016-3320)",https://rol.im/securegoldenkeyboot/,/u/calvin,6
+31,2016-08-09 18:52:49 -0500,"/t/math,/t/science","Walking is 3 times more expensive than driving, from a fuel perspective",http://www.datadriventhoughts.com/2016/08/08/walking-is-3-times-more-expensive-than-driving-from-an-energy-perspective/,/u/tedu,14
+0,2016-08-10 06:33:02 -0500,/t/erlang,Escript Essentials,http://stratus3d.com/blog/2016/07/02/escript-essentials,/u/Stratus3D,4
+0,2016-08-10 13:54:16 -0500,"/t/practices,/t/programming",Technical Debt: It’s not just the code,http://i-proving.com/2016/08/09/technical-debt-its-not-just-the-code/,/u/joshuacc,3
+34,2016-08-09 09:45:52 -0500,"/t/ask,/t/audio",Which podcasts do you listen to/recommend?,/s/w8tbk6/which_podcasts_do_you_listen_recommend,/u/unbalancedparentheses,35
+0,2016-08-10 13:46:32 -0500,"/t/cogsci,/t/python",fasttext - A Python interface for Facebook fastText,https://github.com/pyk/fastText.py,/u/pyk,1
+0,2016-08-10 13:24:34 -0500,"/t/compsci,/t/math,/t/python",Image Completion with Deep Learning in TensorFlow,http://bamos.github.io/2016/08/09/deep-completion/,/u/bamos,1
+1,2016-08-11 01:31:19 -0500,/t/security,Australian PM shifts blame to IBM for census failures,https://www.theguardian.com/australia-news/2016/aug/11/census-2016-malcolm-turnbull-shifts-blame-to-ibm-for-predictable-attack,/u/pwatsonwailes,0
+2,2016-08-10 09:13:43 -0500,"/t/networking,/t/security",Librevault: File synchronization designed with privacy in mind,https://librevault.com/,/u/unbalancedparentheses,2
+1,2016-08-10 16:45:19 -0500,"/t/culture,/t/finance",Who Stole the Four-Hour Workday? (2014),http://www.vice.com/read/who-stole-the-four-hour-workday-0000406-v21n8,/u/kel,3
+0,2016-08-10 13:59:05 -0500,"/t/distributed,/t/erlang,/t/go",Why scaling and parallelism remain hard even with new tools and languages,https://www.erlang-solutions.com/blog/the-continuing-headaches-of-distributed-programming.html,/u/unbalancedparentheses,2
+7,2016-08-09 15:21:11 -0500,/t/networking,The Netflix Tech Blog: Building fast.com,http://techblog.netflix.com/2016/08/building-fastcom.html,/u/gregnavis,16
+0,2016-08-10 09:41:56 -0500,/t/databases,Sharding a multi-tenant app with Postgres,https://www.citusdata.com/blog/2016/08/10/sharding-for-a-multi-tenant-app-with-postgres/,/u/rdegges,2
+6,2016-08-09 10:21:47 -0500,"/t/show,/t/distributed,/t/go,/t/security",Distributed K/V store library (Go) built with raft and SSH,https://github.com/fabian-z/distkv,/u/fabian-z,14
+1,2016-08-09 17:01:08 -0500,/t/distributed,Updating Torrents Via DHT Mutable Items,http://www.bittorrent.org/beps/bep_0046.html,/u/pushcx,14
+2,2016-08-09 09:23:26 -0500,"/t/c,/t/programming",Write a simple memory allocator,http://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator,/u/unbalancedparentheses,26
+0,2016-08-10 08:07:12 -0500,"/t/security,/t/virtualization",Flip Feng Shui,https://www.vusec.net/projects/flip-feng-shui/,/u/mulander,2
+4,2016-08-09 17:30:44 -0500,"/t/crypto,/t/law,/t/privacy,/t/security",A Few Thoughts on Cryptographic Engineering: How do we build encryption backdoors?,http://blog.cryptographyengineering.com/2015/04/how-do-we-build-encryption-backdors.html,/u/cmhamill,7
+0,2016-08-10 05:33:13 -0500,/t/compsci,The Boom Hierarchy (2014),https://blog.acolyer.org/2014/11/06/the-boom-hierarchy/,/u/adsouza,2
+1,2016-08-09 15:15:36 -0500,"/t/debugging,/t/practices,/t/unix",gdb Debugging Full Example (Tutorial): ncurses,http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html,/u/sevan,11

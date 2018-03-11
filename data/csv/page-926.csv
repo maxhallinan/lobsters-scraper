@@ -1,25 +1,25 @@
-0,2015-12-31 07:05:23 -0600,"['/t/assembly', '/t/programming', '/t/virtualization']",Tutorial - Setting up RT-11 v5.3 on SimH PDP-11 Simulator in Support of Assembly Development,http://decuser.blogspot.com/2015/12/tutorial-setting-up-rt-11-v53-on-simh.html,/u/decuser,1
-0,2015-12-31 02:01:50 -0600,"['/t/practices', '/t/programming']",Software development skills for data scientists,http://www.kdnuggets.com/2015/12/software-development-skills-data-scientists.html,/u/tf,5
-19,2015-12-30 08:13:37 -0600,['/t/python'],"If you don't like exceptions, you don't like Python",http://stupidpythonideas.blogspot.com/2015/05/if-you-dont-like-exceptions-you-dont.html,/u/asthasr,18
-2,2015-12-30 15:21:22 -0600,['/t/java'],Awesome Java 8,http://jitterted.com/tidbits/2015/12/29/awesome-java-8/,/u/jitterted,5
-1,2015-12-30 10:31:13 -0600,['/t/practices'],Refactoring as a way to understand code,http://composition.al/blog/2015/12/29/refactoring-as-a-way-to-understand-code,/u/pushcx,20
-16,2015-12-30 09:31:45 -0600,['/t/programming'],Which Programming Languages Are Functional?,http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html,/u/pushcx,12
-1,2015-12-30 14:02:39 -0600,['/t/visualization'],I Smell a Chart,http://putanumonit.com/2015/12/17/009-smelly/,/u/pushcx,9
-0,2015-12-30 07:33:00 -0600,"['/t/erlang', '/t/java']",Interview with Jesper Louis Andersen about Erlang and the JVM,https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-5628fe591295#.61ohano83,/u/unbalancedparentheses,13
-3,2015-12-30 13:11:02 -0600,"['/t/graphics', '/t/math']",Introduction to the Math of Computer Graphics,http://codeofthedamned.com/index.php/introduction-to-the-math-of,/u/pushcx,6
-0,2015-12-31 06:50:22 -0600,"['/t/assembly', '/t/unix']",PDP-11 Bootstrap loaders - some analysis,http://decuser.blogspot.com/2015/12/pdp-11-bootstrap-loaders-some-analysis.html,/u/alynpost,1
-1,2015-12-30 18:11:10 -0600,"['/t/compsci', '/t/python']",Extended Attributes,https://worrbase.com/2015/12/30/extended-attributes.html,/u/sevan,5
-0,2015-12-30 18:37:02 -0600,['/t/games'],"You should make a Doom level, part 2",http://eev.ee/blog/2015/12/30/you-should-make-a-doom-level-part-2/,/u/worr,5
-0,2015-12-30 12:12:08 -0600,['/t/programming'],Dictionaries and Word Lists for Programmers,http://organicdonut.com/2015/12/dictionaries-and-word-lists-for-programmers/,/u/revx,3
-0,2015-12-30 12:46:27 -0600,"['/t/design', '/t/web']",CSS Cursor,http://css-cursor.techstream.org/,/u/flyingfisch,5
-7,2015-12-30 10:00:05 -0600,"['/t/linux', '/t/rant']","Main Linux problems on the desktop, 2016 edition",http://linuxfonts.narod.ru/why.linux.is.not.ready.for.the.desktop.current.html,/u/pushcx,13
-2,2015-12-30 03:56:34 -0600,['/t/programming'],Dolphin Smalltalk Goes Open-Source,http://object-arts.com/gettingstarted.html,/u/fabriceleal,11
-0,2015-12-30 17:28:06 -0600,"['/t/databases', '/t/erlang', '/t/visualization']",Ranking 4 Million Quake Live duels in 1.5 seconds,https://medium.com/@jlouis666/ranking-4-million-quake-live-duels-in-1-5-seconds-fc84750aad1f#.kulgxz9w5,/u/pushcx,2
-0,2015-12-30 12:13:51 -0600,"['/t/databases', '/t/devops']",Feeding Graph databases - a third use-case for modern log management platforms.,https://medium.com/@henrikjohansen/feeding-graph-databases-a-third-use-case-for-modern-log-management-platforms-d5dac8a80d53#.u0nwn09uc,/u/355E3B,4
-0,2015-12-30 09:48:01 -0600,['/t/release'],Yelp Prison Review Faxbot,http://lav.io/2014/11/yelp-prison-review-faxbot/,/u/pushcx,5
-1,2015-12-30 15:50:53 -0600,['/t/culture'],Lowering the bar,http://www.moishelettvin.com/2015/12/16/lowering-the-bar/,/u/fcbsd,4
-2,2015-12-29 17:38:21 -0600,"['/t/networking', '/t/web']","WebSockets, caution required!",https://samsaffron.com/archive/2015/12/29/websockets-caution-required,/u/nateberkopec,19
-0,2015-12-30 12:45:04 -0600,"['/t/python', '/t/web']",Log half life ranking an improved way to rank,http://www.creapptives.com/post/89037951542/log-half-life-ranking,/u/mxp,1
-0,2015-12-30 09:26:28 -0600,['/t/haskell'],How does the State monad work?,http://yawar.blogspot.com/2015/12/how-does-state-monad-work.html,/u/pushcx,4
-2,2015-12-29 12:21:27 -0600,['/t/rust'],Writing an OS in Rust,http://os.phil-opp.com/,/u/pyk,28
-0,2015-12-30 09:43:49 -0600,"['/t/video', '/t/programming']",Computational Meta-Psychology [32c3],https://www.youtube.com/watch?v=DATQKB7656E,/u/carinmeier,3
+0,2015-12-31 07:05:23 -0600,"/t/assembly,/t/programming,/t/virtualization",Tutorial - Setting up RT-11 v5.3 on SimH PDP-11 Simulator in Support of Assembly Development,http://decuser.blogspot.com/2015/12/tutorial-setting-up-rt-11-v53-on-simh.html,/u/decuser,1
+0,2015-12-31 02:01:50 -0600,"/t/practices,/t/programming",Software development skills for data scientists,http://www.kdnuggets.com/2015/12/software-development-skills-data-scientists.html,/u/tf,5
+19,2015-12-30 08:13:37 -0600,/t/python,"If you don't like exceptions, you don't like Python",http://stupidpythonideas.blogspot.com/2015/05/if-you-dont-like-exceptions-you-dont.html,/u/asthasr,18
+2,2015-12-30 15:21:22 -0600,/t/java,Awesome Java 8,http://jitterted.com/tidbits/2015/12/29/awesome-java-8/,/u/jitterted,5
+1,2015-12-30 10:31:13 -0600,/t/practices,Refactoring as a way to understand code,http://composition.al/blog/2015/12/29/refactoring-as-a-way-to-understand-code,/u/pushcx,20
+16,2015-12-30 09:31:45 -0600,/t/programming,Which Programming Languages Are Functional?,http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html,/u/pushcx,12
+1,2015-12-30 14:02:39 -0600,/t/visualization,I Smell a Chart,http://putanumonit.com/2015/12/17/009-smelly/,/u/pushcx,9
+0,2015-12-30 07:33:00 -0600,"/t/erlang,/t/java",Interview with Jesper Louis Andersen about Erlang and the JVM,https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-5628fe591295#.61ohano83,/u/unbalancedparentheses,13
+3,2015-12-30 13:11:02 -0600,"/t/graphics,/t/math",Introduction to the Math of Computer Graphics,http://codeofthedamned.com/index.php/introduction-to-the-math-of,/u/pushcx,6
+0,2015-12-31 06:50:22 -0600,"/t/assembly,/t/unix",PDP-11 Bootstrap loaders - some analysis,http://decuser.blogspot.com/2015/12/pdp-11-bootstrap-loaders-some-analysis.html,/u/alynpost,1
+1,2015-12-30 18:11:10 -0600,"/t/compsci,/t/python",Extended Attributes,https://worrbase.com/2015/12/30/extended-attributes.html,/u/sevan,5
+0,2015-12-30 18:37:02 -0600,/t/games,"You should make a Doom level, part 2",http://eev.ee/blog/2015/12/30/you-should-make-a-doom-level-part-2/,/u/worr,5
+0,2015-12-30 12:12:08 -0600,/t/programming,Dictionaries and Word Lists for Programmers,http://organicdonut.com/2015/12/dictionaries-and-word-lists-for-programmers/,/u/revx,3
+0,2015-12-30 12:46:27 -0600,"/t/design,/t/web",CSS Cursor,http://css-cursor.techstream.org/,/u/flyingfisch,5
+7,2015-12-30 10:00:05 -0600,"/t/linux,/t/rant","Main Linux problems on the desktop, 2016 edition",http://linuxfonts.narod.ru/why.linux.is.not.ready.for.the.desktop.current.html,/u/pushcx,13
+2,2015-12-30 03:56:34 -0600,/t/programming,Dolphin Smalltalk Goes Open-Source,http://object-arts.com/gettingstarted.html,/u/fabriceleal,11
+0,2015-12-30 17:28:06 -0600,"/t/databases,/t/erlang,/t/visualization",Ranking 4 Million Quake Live duels in 1.5 seconds,https://medium.com/@jlouis666/ranking-4-million-quake-live-duels-in-1-5-seconds-fc84750aad1f#.kulgxz9w5,/u/pushcx,2
+0,2015-12-30 12:13:51 -0600,"/t/databases,/t/devops",Feeding Graph databases - a third use-case for modern log management platforms.,https://medium.com/@henrikjohansen/feeding-graph-databases-a-third-use-case-for-modern-log-management-platforms-d5dac8a80d53#.u0nwn09uc,/u/355E3B,4
+0,2015-12-30 09:48:01 -0600,/t/release,Yelp Prison Review Faxbot,http://lav.io/2014/11/yelp-prison-review-faxbot/,/u/pushcx,5
+1,2015-12-30 15:50:53 -0600,/t/culture,Lowering the bar,http://www.moishelettvin.com/2015/12/16/lowering-the-bar/,/u/fcbsd,4
+2,2015-12-29 17:38:21 -0600,"/t/networking,/t/web","WebSockets, caution required!",https://samsaffron.com/archive/2015/12/29/websockets-caution-required,/u/nateberkopec,19
+0,2015-12-30 12:45:04 -0600,"/t/python,/t/web",Log half life ranking an improved way to rank,http://www.creapptives.com/post/89037951542/log-half-life-ranking,/u/mxp,1
+0,2015-12-30 09:26:28 -0600,/t/haskell,How does the State monad work?,http://yawar.blogspot.com/2015/12/how-does-state-monad-work.html,/u/pushcx,4
+2,2015-12-29 12:21:27 -0600,/t/rust,Writing an OS in Rust,http://os.phil-opp.com/,/u/pyk,28
+0,2015-12-30 09:43:49 -0600,"/t/video,/t/programming",Computational Meta-Psychology [32c3],https://www.youtube.com/watch?v=DATQKB7656E,/u/carinmeier,3

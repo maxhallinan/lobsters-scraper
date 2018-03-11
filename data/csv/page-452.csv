@@ -1,25 +1,25 @@
-10,2017-03-09 12:03:40 -0600,"['/t/practices', '/t/release', '/t/security', '/t/windows']",Notepad++ Fix CIA Hacking Issue,https://notepad-plus-plus.org/news/notepad-7.3.3-fix-cia-hacking-issue.html,/u/sevan,13
-0,2017-03-10 13:48:29 -0600,['/t/culture'],How to *never* complete anything,http://ewanvalentine.io/how-to-never-complete-anything/,/u/abugosh,2
-9,2017-03-09 10:28:00 -0600,"['/t/compsci', '/t/python']",Hypothesis for Computer Science Researchers,http://hypothesis.works/articles/hypothesis-for-researchers/,/u/Shapr,14
-0,2017-03-10 11:03:28 -0600,['/t/art'],California Chameleon House,http://www.dailymail.co.uk/news/article-4300810/Chameleon-house-California-covered-mirrors.html,/u/foxyjackfox,1
-0,2017-03-09 18:48:31 -0600,"['/t/video', '/t/games', '/t/historical', '/t/person']","Ron Gilbert: ""From Maniac Mansion to Thimbleweed Park""",https://www.youtube.com/watch?v=KgzWorfLjeE,/u/sevan,9
-1,2017-03-09 19:29:39 -0600,['/t/go'],A Roadmap to Merging 'dep' into the Go Toolchain,https://github.com/golang/dep/wiki/Roadmap,/u/av,6
-0,2017-03-10 09:35:56 -0600,"['/t/video', '/t/haskell']",Explain List Folds to Yourself,https://vimeo.com/64673035,/u/pushcx,1
-1,2017-03-10 06:11:22 -0600,"['/t/compsci', '/t/culture']",The mythology of programming language ideas,http://tomasp.net/blog/2017/programming-mythology/,/u/calvin,4
-0,2017-03-10 09:11:07 -0600,['/t/math'],Understanding Discrete vs. Continuous Growth,https://betterexplained.com/articles/understanding-discrete-vs-continuous-growth/,/u/flyingfisch,1
-8,2017-03-09 05:31:04 -0600,['/t/ruby'],Ruby's Dark Corners,http://norswap.com/ruby-dark-corners/,/u/norswap,10
-16,2017-03-09 05:39:25 -0600,['/t/windows'],Rico Mariani on Why Visual Studio Isn’t 64-bit,https://www.infoq.com/news/2016/01/VS-64-bit,/u/calvin,14
-0,2017-03-09 16:33:38 -0600,"['/t/api', '/t/distributed']",Early draft: On the Design of Distributed Programming Models,https://arxiv.org/abs/1701.07615,/u/cmeiklejohn,4
-35,2017-03-08 06:43:03 -0600,"['/t/ask', '/t/programming']",Papers that will actually make you a better programmer,/s/itxtjr/papers_will_actually_make_you_better,/u/geocar,85
-0,2017-03-09 12:36:18 -0600,['/t/java'],How does a maven repository work?,https://blog.packagecloud.io/eng/2017/03/09/how-does-a-maven-repository-work/,/u/capotej,6
-0,2017-03-09 19:46:02 -0600,"['/t/video', '/t/historical']",Xerox Alto Restoration Part 14 - playing Astroroids,https://www.youtube.com/watch?v=LxFv2JNNW-A,/u/calvin,4
-0,2017-03-09 20:14:45 -0600,['/t/css'],Does Circularity (Self-Reference) Pose a Problem for Element Queries?,http://codepen.io/tomhodgins/post/does-circularity-self-reference-pose-a-problem-for-element-queries,/u/innovati,1
-1,2017-03-09 08:13:22 -0600,['/t/security'],"Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits",http://www.rand.org/pubs/research_reports/RR1751.html,/u/craigstuntz,9
-0,2017-03-09 21:06:20 -0600,"['/t/pdf', '/t/programming']","Paranoid Programming - Techniques for Constructing Robust Software (1998, Stratus)",https://klibert.pl/statics/RobustProgramming.pdf,/u/nickpsecurity,2
-7,2017-03-09 15:38:41 -0600,"['/t/hardware', '/t/security']",Your Hot Hands Can Give Away Your Smartphone PIN,https://www.theatlantic.com/technology/archive/2017/03/hot-hands-smartphones/519069/,/u/pushcx,2
-2,2017-03-09 22:48:25 -0600,['/t/culture'],Does Anyone Actually Visit Stack Overflow's Home Page?,https://stackoverflow.blog/2017/03/09/anyone-actually-visit-stack-overflows-home-page/,/u/ThisIs_MyName,3
-1,2017-03-09 19:21:10 -0600,"['/t/databases', '/t/devops']",Google Cloud SQL for Postgres,https://cloud.google.com/sql/docs/postgres/,/u/av,1
-0,2017-03-09 18:05:38 -0600,"['/t/pdf', '/t/security']",BeyondCorp: A New Approach to Enterprise Security,https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43231.pdf,/u/355E3B,2
-1,2017-03-09 11:25:22 -0600,['/t/security'],WikiLeaks Seeks to Work With Companies After CIA Data Leak,https://www.bloomberg.com/news/articles/2017-03-09/wikileaks-seeks-to-work-with-companies-in-wake-of-cia-data-leak,/u/jch,4
-1,2017-03-09 19:28:17 -0600,"['/t/swift', '/t/web']",Pushing Swift to the Server,https://www.skilled.io/u/swiftsummit/pushing-swift-to-the-server,/u/av,1
-1,2017-03-09 03:34:26 -0600,"['/t/databases', '/t/security']",Postgres 10 highlight - SCRAM authentication,http://paquier.xyz/postgresql-2/postgres-10-scram-authentication/,/u/dege,9
+10,2017-03-09 12:03:40 -0600,"/t/practices,/t/release,/t/security,/t/windows",Notepad++ Fix CIA Hacking Issue,https://notepad-plus-plus.org/news/notepad-7.3.3-fix-cia-hacking-issue.html,/u/sevan,13
+0,2017-03-10 13:48:29 -0600,/t/culture,How to *never* complete anything,http://ewanvalentine.io/how-to-never-complete-anything/,/u/abugosh,2
+9,2017-03-09 10:28:00 -0600,"/t/compsci,/t/python",Hypothesis for Computer Science Researchers,http://hypothesis.works/articles/hypothesis-for-researchers/,/u/Shapr,14
+0,2017-03-10 11:03:28 -0600,/t/art,California Chameleon House,http://www.dailymail.co.uk/news/article-4300810/Chameleon-house-California-covered-mirrors.html,/u/foxyjackfox,1
+0,2017-03-09 18:48:31 -0600,"/t/video,/t/games,/t/historical,/t/person","Ron Gilbert: ""From Maniac Mansion to Thimbleweed Park""",https://www.youtube.com/watch?v=KgzWorfLjeE,/u/sevan,9
+1,2017-03-09 19:29:39 -0600,/t/go,A Roadmap to Merging 'dep' into the Go Toolchain,https://github.com/golang/dep/wiki/Roadmap,/u/av,6
+0,2017-03-10 09:35:56 -0600,"/t/video,/t/haskell",Explain List Folds to Yourself,https://vimeo.com/64673035,/u/pushcx,1
+1,2017-03-10 06:11:22 -0600,"/t/compsci,/t/culture",The mythology of programming language ideas,http://tomasp.net/blog/2017/programming-mythology/,/u/calvin,4
+0,2017-03-10 09:11:07 -0600,/t/math,Understanding Discrete vs. Continuous Growth,https://betterexplained.com/articles/understanding-discrete-vs-continuous-growth/,/u/flyingfisch,1
+8,2017-03-09 05:31:04 -0600,/t/ruby,Ruby's Dark Corners,http://norswap.com/ruby-dark-corners/,/u/norswap,10
+16,2017-03-09 05:39:25 -0600,/t/windows,Rico Mariani on Why Visual Studio Isn’t 64-bit,https://www.infoq.com/news/2016/01/VS-64-bit,/u/calvin,14
+0,2017-03-09 16:33:38 -0600,"/t/api,/t/distributed",Early draft: On the Design of Distributed Programming Models,https://arxiv.org/abs/1701.07615,/u/cmeiklejohn,4
+35,2017-03-08 06:43:03 -0600,"/t/ask,/t/programming",Papers that will actually make you a better programmer,/s/itxtjr/papers_will_actually_make_you_better,/u/geocar,85
+0,2017-03-09 12:36:18 -0600,/t/java,How does a maven repository work?,https://blog.packagecloud.io/eng/2017/03/09/how-does-a-maven-repository-work/,/u/capotej,6
+0,2017-03-09 19:46:02 -0600,"/t/video,/t/historical",Xerox Alto Restoration Part 14 - playing Astroroids,https://www.youtube.com/watch?v=LxFv2JNNW-A,/u/calvin,4
+0,2017-03-09 20:14:45 -0600,/t/css,Does Circularity (Self-Reference) Pose a Problem for Element Queries?,http://codepen.io/tomhodgins/post/does-circularity-self-reference-pose-a-problem-for-element-queries,/u/innovati,1
+1,2017-03-09 08:13:22 -0600,/t/security,"Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits",http://www.rand.org/pubs/research_reports/RR1751.html,/u/craigstuntz,9
+0,2017-03-09 21:06:20 -0600,"/t/pdf,/t/programming","Paranoid Programming - Techniques for Constructing Robust Software (1998, Stratus)",https://klibert.pl/statics/RobustProgramming.pdf,/u/nickpsecurity,2
+7,2017-03-09 15:38:41 -0600,"/t/hardware,/t/security",Your Hot Hands Can Give Away Your Smartphone PIN,https://www.theatlantic.com/technology/archive/2017/03/hot-hands-smartphones/519069/,/u/pushcx,2
+2,2017-03-09 22:48:25 -0600,/t/culture,Does Anyone Actually Visit Stack Overflow's Home Page?,https://stackoverflow.blog/2017/03/09/anyone-actually-visit-stack-overflows-home-page/,/u/ThisIs_MyName,3
+1,2017-03-09 19:21:10 -0600,"/t/databases,/t/devops",Google Cloud SQL for Postgres,https://cloud.google.com/sql/docs/postgres/,/u/av,1
+0,2017-03-09 18:05:38 -0600,"/t/pdf,/t/security",BeyondCorp: A New Approach to Enterprise Security,https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43231.pdf,/u/355E3B,2
+1,2017-03-09 11:25:22 -0600,/t/security,WikiLeaks Seeks to Work With Companies After CIA Data Leak,https://www.bloomberg.com/news/articles/2017-03-09/wikileaks-seeks-to-work-with-companies-in-wake-of-cia-data-leak,/u/jch,4
+1,2017-03-09 19:28:17 -0600,"/t/swift,/t/web",Pushing Swift to the Server,https://www.skilled.io/u/swiftsummit/pushing-swift-to-the-server,/u/av,1
+1,2017-03-09 03:34:26 -0600,"/t/databases,/t/security",Postgres 10 highlight - SCRAM authentication,http://paquier.xyz/postgresql-2/postgres-10-scram-authentication/,/u/dege,9

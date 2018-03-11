@@ -1,25 +1,25 @@
-0,2017-01-17 21:57:55 -0600,['/t/web'],Moving beyond localStorage,https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15,/u/av,2
-0,2017-01-17 19:56:28 -0600,"['/t/video', '/t/android', '/t/c', '/t/ios', '/t/linux', '/t/lua', '/t/mac', '/t/programming', '/t/swift']","Compile c++, objc and swift program across platforms fastly",http://tboox.org/2017/01/18/usage-demo/,/u/ruki,1
-0,2017-01-17 08:57:39 -0600,"['/t/debugging', '/t/networking', '/t/practices']",Packet Loss for an App-Level Developer. Part I,http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/,/u/friendlysock,10
-1,2017-01-17 13:45:26 -0600,"['/t/pdf', '/t/javascript']",Lifting the curse of stringly-typed code,https://peerj.com/preprints/2723/,/u/pushcx,4
-0,2017-01-17 23:25:29 -0600,['/t/cogsci'],Recognizing Traffic Lights With Deep Learning,https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc,/u/av,1
-3,2017-01-17 08:55:27 -0600,['/t/design'],Thinking Vs Clicking in Modern User Interfaces -- Personality Traits Make a Difference,http://labinthewild.tumblr.com/post/155444239065/thinking-vs-clicking-in-modern-user-interfaces,/u/adsouza,4
-0,2017-01-17 08:46:07 -0600,"['/t/api', '/t/haskell']","Ballast, a library for talking to Shipwire",http://alexeyzabelin.com/haskell-api-wrapper,/u/alexeyzab,4
-11,2017-01-16 23:24:51 -0600,['/t/unix'],Csh Programming Considered Harmful (1996),http://faqs.cs.uu.nl/na-dir/unix-faq/shell/csh-whynot.html,/u/feoh,11
-0,2017-01-17 22:28:19 -0600,"['/t/api', '/t/javascript', '/t/web']",Remote-control your Slack bots with JSON,http://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette/,/u/av,1
-0,2017-01-17 21:49:24 -0600,"['/t/javascript', '/t/web']",Mo.js: motion graphics toolbelt for the web,http://mojs.io/,/u/av,1
-0,2017-01-17 05:54:46 -0600,"['/t/practices', '/t/programming']",«Metaphors We Compute By» by Alvaro Videla,http://alvaro-videla.com/2017/01/metaphors-we-code-by.html,/u/gausby,9
-0,2017-01-17 14:19:49 -0600,['/t/crypto'],Exploring Elliptic Curve Pairings,https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627,/u/pushcx,3
-27,2017-01-16 09:07:59 -0600,['/t/compsci'],Disadvantages of purely functional programming,https://jaxenter.com/disadvantages-of-purely-functional-programming-126776.html,/u/kghose,35
-1,2017-01-17 05:21:07 -0600,"['/t/math', '/t/science']",When differences in significance aren’t significant differences,https://www.statisticsdonewrong.com/significant-differences.html,/u/tf,5
-0,2017-01-17 17:43:36 -0600,['/t/compsci'],Deep Learning at Gilt,"http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt",/u/adsouza,1
-11,2017-01-16 12:54:11 -0600,"['/t/linux', '/t/mac', '/t/practices']",Mastering Bash and Terminal,https://www.blockloop.io/mastering-bash-and-terminal,/u/benzimmer,19
-1,2017-01-17 10:22:02 -0600,['/t/ruby'],Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016,https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016,/u/soulcutter,4
-2,2017-01-16 21:53:44 -0600,"['/t/hardware', '/t/reversing']",Librem 13 coreboot report,https://puri.sm/posts/librem-13-coreboot-report-january-12-2017/,/u/1amzave,10
-0,2017-01-17 00:07:49 -0600,"['/t/javascript', '/t/web']",Introduction to WebAssembly,https://rsms.me/wasm-intro,/u/majjoha,10
-4,2017-01-16 22:41:29 -0600,['/t/historical'],A New RFC Archive,https://www.ietf.org/blog/2017/01/a-new-rfc-archive/,/u/ap,6
-0,2017-01-17 15:18:17 -0600,['/t/practices'],Computing is changing -- so is the FSF's High Priority Projects List,https://www.fsf.org/blogs/community/computing-is-changing-so-is-fsfs-high-priority-projects-list,/u/pizzaiolo,1
-0,2017-01-17 15:18:04 -0600,"['/t/video', '/t/linux', '/t/systemd']",systemd.conf 2016 videos,https://www.youtube.com/channel/UCvq_RgZp3kljp9X8Io9Z1DA,/u/klingtnet,1
-1,2017-01-16 21:09:59 -0600,"['/t/linux', '/t/systemd']",systemd for Developers - Socket Activation,http://0pointer.de/blog/projects/socket-activation.html,/u/aduffy,10
-0,2017-01-17 02:38:04 -0600,"['/t/compsci', '/t/databases', '/t/distributed', '/t/javascript']",GryadkaJS: A Paxos-based Redis replication layer supporting dynamic reconfiguration in 500 lines,https://github.com/gryadka/GryadkaJS,/u/rystsov,2
-0,2017-01-16 09:26:09 -0600,"['/t/show', '/t/vcs']",Vanity text for GitHub - Write to your GitHub activity chart,https://github.com/ihabunek/github-vanity,/u/bezdomni,17
+0,2017-01-17 21:57:55 -0600,/t/web,Moving beyond localStorage,https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15,/u/av,2
+0,2017-01-17 19:56:28 -0600,"/t/video,/t/android,/t/c,/t/ios,/t/linux,/t/lua,/t/mac,/t/programming,/t/swift","Compile c++, objc and swift program across platforms fastly",http://tboox.org/2017/01/18/usage-demo/,/u/ruki,1
+0,2017-01-17 08:57:39 -0600,"/t/debugging,/t/networking,/t/practices",Packet Loss for an App-Level Developer. Part I,http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/,/u/friendlysock,10
+1,2017-01-17 13:45:26 -0600,"/t/pdf,/t/javascript",Lifting the curse of stringly-typed code,https://peerj.com/preprints/2723/,/u/pushcx,4
+0,2017-01-17 23:25:29 -0600,/t/cogsci,Recognizing Traffic Lights With Deep Learning,https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc,/u/av,1
+3,2017-01-17 08:55:27 -0600,/t/design,Thinking Vs Clicking in Modern User Interfaces -- Personality Traits Make a Difference,http://labinthewild.tumblr.com/post/155444239065/thinking-vs-clicking-in-modern-user-interfaces,/u/adsouza,4
+0,2017-01-17 08:46:07 -0600,"/t/api,/t/haskell","Ballast, a library for talking to Shipwire",http://alexeyzabelin.com/haskell-api-wrapper,/u/alexeyzab,4
+11,2017-01-16 23:24:51 -0600,/t/unix,Csh Programming Considered Harmful (1996),http://faqs.cs.uu.nl/na-dir/unix-faq/shell/csh-whynot.html,/u/feoh,11
+0,2017-01-17 22:28:19 -0600,"/t/api,/t/javascript,/t/web",Remote-control your Slack bots with JSON,http://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette/,/u/av,1
+0,2017-01-17 21:49:24 -0600,"/t/javascript,/t/web",Mo.js: motion graphics toolbelt for the web,http://mojs.io/,/u/av,1
+0,2017-01-17 05:54:46 -0600,"/t/practices,/t/programming",«Metaphors We Compute By» by Alvaro Videla,http://alvaro-videla.com/2017/01/metaphors-we-code-by.html,/u/gausby,9
+0,2017-01-17 14:19:49 -0600,/t/crypto,Exploring Elliptic Curve Pairings,https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627,/u/pushcx,3
+27,2017-01-16 09:07:59 -0600,/t/compsci,Disadvantages of purely functional programming,https://jaxenter.com/disadvantages-of-purely-functional-programming-126776.html,/u/kghose,35
+1,2017-01-17 05:21:07 -0600,"/t/math,/t/science",When differences in significance aren’t significant differences,https://www.statisticsdonewrong.com/significant-differences.html,/u/tf,5
+0,2017-01-17 17:43:36 -0600,/t/compsci,Deep Learning at Gilt,"http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt",/u/adsouza,1
+11,2017-01-16 12:54:11 -0600,"/t/linux,/t/mac,/t/practices",Mastering Bash and Terminal,https://www.blockloop.io/mastering-bash-and-terminal,/u/benzimmer,19
+1,2017-01-17 10:22:02 -0600,/t/ruby,Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016,https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016,/u/soulcutter,4
+2,2017-01-16 21:53:44 -0600,"/t/hardware,/t/reversing",Librem 13 coreboot report,https://puri.sm/posts/librem-13-coreboot-report-january-12-2017/,/u/1amzave,10
+0,2017-01-17 00:07:49 -0600,"/t/javascript,/t/web",Introduction to WebAssembly,https://rsms.me/wasm-intro,/u/majjoha,10
+4,2017-01-16 22:41:29 -0600,/t/historical,A New RFC Archive,https://www.ietf.org/blog/2017/01/a-new-rfc-archive/,/u/ap,6
+0,2017-01-17 15:18:17 -0600,/t/practices,Computing is changing -- so is the FSF's High Priority Projects List,https://www.fsf.org/blogs/community/computing-is-changing-so-is-fsfs-high-priority-projects-list,/u/pizzaiolo,1
+0,2017-01-17 15:18:04 -0600,"/t/video,/t/linux,/t/systemd",systemd.conf 2016 videos,https://www.youtube.com/channel/UCvq_RgZp3kljp9X8Io9Z1DA,/u/klingtnet,1
+1,2017-01-16 21:09:59 -0600,"/t/linux,/t/systemd",systemd for Developers - Socket Activation,http://0pointer.de/blog/projects/socket-activation.html,/u/aduffy,10
+0,2017-01-17 02:38:04 -0600,"/t/compsci,/t/databases,/t/distributed,/t/javascript",GryadkaJS: A Paxos-based Redis replication layer supporting dynamic reconfiguration in 500 lines,https://github.com/gryadka/GryadkaJS,/u/rystsov,2
+0,2017-01-16 09:26:09 -0600,"/t/show,/t/vcs",Vanity text for GitHub - Write to your GitHub activity chart,https://github.com/ihabunek/github-vanity,/u/bezdomni,17

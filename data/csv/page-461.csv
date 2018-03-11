@@ -1,25 +1,25 @@
-0,2017-03-03 19:20:14 -0600,"['/t/c', '/t/programming', '/t/python']",Writing C in Cython,https://spacy.io/blog/writing-c-in-cython,/u/ThisIs_MyName,2
-3,2017-03-03 05:20:12 -0600,"['/t/c', '/t/programming']",Shooting yourself in the head with threads,https://www.stev.org/post/shootingyourselfintheheadwiththreads,/u/calvin,7
-0,2017-03-03 08:18:34 -0600,['/t/historical'],Raiders of the Lost OS: Reclaiming A Piece of Polish IT History,http://hackaday.com/2017/03/03/raiders-of-the-lost-os-reclaiming-a-piece-of-polish-it-history/,/u/flyingfisch,8
-0,2017-03-03 14:23:55 -0600,['/t/culture'],Stupid Shit No One Needs & Terrible Ideas Hackathon,http://www.stupidhackathon.com/,/u/colin,7
-0,2017-03-03 20:31:46 -0600,['/t/vcs'],Concerning Git's Packing Heuristics,https://github.com/git/git/blob/3bc53220cb2dcf709f7a027a3f526befd021d858/Documentation/technical/pack-heuristics.txt,/u/grahamc,1
-0,2017-03-03 19:11:52 -0600,"['/t/compsci', '/t/distributed', '/t/programming']",Conversational Context and Concurrency,http://prl.ccs.neu.edu/blog/2017/02/15/conversational-context-and-concurrency/,/u/gasche,1
-4,2017-03-02 11:25:57 -0600,"['/t/distributed', '/t/networking']",Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region,https://aws.amazon.com/message/41926/,/u/antifuchs,35
-0,2017-03-03 18:36:42 -0600,"['/t/math', '/t/person']","Kenneth Arrow, Nobel-Winning Economist Whose Influence Spanned Decades, Dies at 95",https://www.nytimes.com/2017/02/21/business/economy/kenneth-arrow-dead-nobel-laureate-in-economics.html,/u/tf,1
-0,2017-03-03 08:31:07 -0600,['/t/css'],FizzBuzz in EQCSS,http://codepen.io/tomhodgins/pen/OpNWPg,/u/innovati,2
-0,2017-03-03 11:04:39 -0600,"['/t/pdf', '/t/security']",BARing the System: New vulnerabilities in Coreboot & UEFI based systems,http://www.intelsecurity.com/advanced-threat-research/content/data/REConBrussels2017_BARing_the_system.pdf,/u/jcs,3
-0,2017-03-03 17:04:55 -0600,"['/t/pdf', '/t/c', '/t/javascript']",Web Tools Postmortem,https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf,/u/yumaikas,1
-0,2017-03-03 09:55:38 -0600,"['/t/pdf', '/t/hardware', '/t/practices']","Cold, Hard Cache: Insomniac Games’ Cache Simulator",https://deplinenoise.files.wordpress.com/2017/03/cachesimstyled.pdf,/u/friendlysock,3
-0,2017-03-03 16:04:32 -0600,['/t/php'],Log all queries in a Laravel CLI command,https://ma.ttias.be/log-queries-laravel-cli-command/,/u/flyingfisch,1
-4,2017-03-02 17:01:20 -0600,['/t/python'],"Python Fire, a library for automatically generating command line interfaces",https://opensource.googleblog.com/2017/03/python-fire-command-line.html,/u/sajith,15
-10,2017-03-02 08:20:39 -0600,['/t/practices'],The best technical interview question ever,http://chrisshaver64.ddns.net/bl0026,/u/av,31
-1,2017-03-02 16:22:15 -0600,"['/t/c', '/t/compilers']",selfie,http://selfie.cs.uni-salzburg.at/,/u/pushcx,18
-0,2017-03-03 10:32:19 -0600,"['/t/pdf', '/t/security']","Flask Security Architecture - System Support for Diverse, Security Policies (1999)",https://www.cs.cmu.edu/~dga/papers/flask-usenixsec99.pdf,/u/nickpsecurity,2
-4,2017-03-03 13:09:11 -0600,"['/t/culture', '/t/javascript']",Reducing Slack’s memory footprint,https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb,/u/colin,3
-2,2017-03-02 17:06:40 -0600,['/t/elm'],JSON decoding in Elm is still difficult,https://medium.com/@eeue56/json-decoding-in-elm-is-still-difficult-cad2d1fb39ae,/u/eeue56,7
-0,2017-03-03 09:54:57 -0600,"['/t/hardware', '/t/science']",Wimshurst Machines: High Voltage from the Gods,http://hackaday.com/2017/03/03/how-wimshurst-machines-work-high-voltage-from-the-gods/,/u/flyingfisch,2
-0,2017-03-03 04:03:44 -0600,"['/t/pdf', '/t/compsci']",Algebraic Subtyping [pdf],https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf,/u/akalin,4
-0,2017-03-03 11:23:02 -0600,"['/t/javascript', '/t/programming']",What Function Should I Use?,https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F,/u/romanzolotarev,1
-8,2017-03-02 10:31:20 -0600,"['/t/devops', '/t/distributed', '/t/programming']",You Can't Have a Rollback Button,https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9#.4mrpfezc9,/u/mcfunley,7
-0,2017-03-03 05:55:35 -0600,"['/t/release', '/t/web']",lib.reviews: Search features deployed,https://lib.reviews/team/developers/post/11c24276-da5a-4154-ab21-14bc33ba20a8,/u/pizzaiolo,2
-2,2017-03-02 13:34:27 -0600,"['/t/css', '/t/hardware']",Using a Custom Keyboard for CSS,http://codepen.io/tomhodgins/post/doing-the-68-key-shuffle,/u/innovati,7
+0,2017-03-03 19:20:14 -0600,"/t/c,/t/programming,/t/python",Writing C in Cython,https://spacy.io/blog/writing-c-in-cython,/u/ThisIs_MyName,2
+3,2017-03-03 05:20:12 -0600,"/t/c,/t/programming",Shooting yourself in the head with threads,https://www.stev.org/post/shootingyourselfintheheadwiththreads,/u/calvin,7
+0,2017-03-03 08:18:34 -0600,/t/historical,Raiders of the Lost OS: Reclaiming A Piece of Polish IT History,http://hackaday.com/2017/03/03/raiders-of-the-lost-os-reclaiming-a-piece-of-polish-it-history/,/u/flyingfisch,8
+0,2017-03-03 14:23:55 -0600,/t/culture,Stupid Shit No One Needs & Terrible Ideas Hackathon,http://www.stupidhackathon.com/,/u/colin,7
+0,2017-03-03 20:31:46 -0600,/t/vcs,Concerning Git's Packing Heuristics,https://github.com/git/git/blob/3bc53220cb2dcf709f7a027a3f526befd021d858/Documentation/technical/pack-heuristics.txt,/u/grahamc,1
+0,2017-03-03 19:11:52 -0600,"/t/compsci,/t/distributed,/t/programming",Conversational Context and Concurrency,http://prl.ccs.neu.edu/blog/2017/02/15/conversational-context-and-concurrency/,/u/gasche,1
+4,2017-03-02 11:25:57 -0600,"/t/distributed,/t/networking",Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region,https://aws.amazon.com/message/41926/,/u/antifuchs,35
+0,2017-03-03 18:36:42 -0600,"/t/math,/t/person","Kenneth Arrow, Nobel-Winning Economist Whose Influence Spanned Decades, Dies at 95",https://www.nytimes.com/2017/02/21/business/economy/kenneth-arrow-dead-nobel-laureate-in-economics.html,/u/tf,1
+0,2017-03-03 08:31:07 -0600,/t/css,FizzBuzz in EQCSS,http://codepen.io/tomhodgins/pen/OpNWPg,/u/innovati,2
+0,2017-03-03 11:04:39 -0600,"/t/pdf,/t/security",BARing the System: New vulnerabilities in Coreboot & UEFI based systems,http://www.intelsecurity.com/advanced-threat-research/content/data/REConBrussels2017_BARing_the_system.pdf,/u/jcs,3
+0,2017-03-03 17:04:55 -0600,"/t/pdf,/t/c,/t/javascript",Web Tools Postmortem,https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf,/u/yumaikas,1
+0,2017-03-03 09:55:38 -0600,"/t/pdf,/t/hardware,/t/practices","Cold, Hard Cache: Insomniac Games’ Cache Simulator",https://deplinenoise.files.wordpress.com/2017/03/cachesimstyled.pdf,/u/friendlysock,3
+0,2017-03-03 16:04:32 -0600,/t/php,Log all queries in a Laravel CLI command,https://ma.ttias.be/log-queries-laravel-cli-command/,/u/flyingfisch,1
+4,2017-03-02 17:01:20 -0600,/t/python,"Python Fire, a library for automatically generating command line interfaces",https://opensource.googleblog.com/2017/03/python-fire-command-line.html,/u/sajith,15
+10,2017-03-02 08:20:39 -0600,/t/practices,The best technical interview question ever,http://chrisshaver64.ddns.net/bl0026,/u/av,31
+1,2017-03-02 16:22:15 -0600,"/t/c,/t/compilers",selfie,http://selfie.cs.uni-salzburg.at/,/u/pushcx,18
+0,2017-03-03 10:32:19 -0600,"/t/pdf,/t/security","Flask Security Architecture - System Support for Diverse, Security Policies (1999)",https://www.cs.cmu.edu/~dga/papers/flask-usenixsec99.pdf,/u/nickpsecurity,2
+4,2017-03-03 13:09:11 -0600,"/t/culture,/t/javascript",Reducing Slack’s memory footprint,https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb,/u/colin,3
+2,2017-03-02 17:06:40 -0600,/t/elm,JSON decoding in Elm is still difficult,https://medium.com/@eeue56/json-decoding-in-elm-is-still-difficult-cad2d1fb39ae,/u/eeue56,7
+0,2017-03-03 09:54:57 -0600,"/t/hardware,/t/science",Wimshurst Machines: High Voltage from the Gods,http://hackaday.com/2017/03/03/how-wimshurst-machines-work-high-voltage-from-the-gods/,/u/flyingfisch,2
+0,2017-03-03 04:03:44 -0600,"/t/pdf,/t/compsci",Algebraic Subtyping [pdf],https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf,/u/akalin,4
+0,2017-03-03 11:23:02 -0600,"/t/javascript,/t/programming",What Function Should I Use?,https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F,/u/romanzolotarev,1
+8,2017-03-02 10:31:20 -0600,"/t/devops,/t/distributed,/t/programming",You Can't Have a Rollback Button,https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9#.4mrpfezc9,/u/mcfunley,7
+0,2017-03-03 05:55:35 -0600,"/t/release,/t/web",lib.reviews: Search features deployed,https://lib.reviews/team/developers/post/11c24276-da5a-4154-ab21-14bc33ba20a8,/u/pizzaiolo,2
+2,2017-03-02 13:34:27 -0600,"/t/css,/t/hardware",Using a Custom Keyboard for CSS,http://codepen.io/tomhodgins/post/doing-the-68-key-shuffle,/u/innovati,7

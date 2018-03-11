@@ -1,25 +1,25 @@
-0,2014-02-13 12:34:40 -0600,['/t/python'],Why Your Python Runs Slow. Part 1: Data Structures,http://lukauskas.co.uk/articles/2014/02/13/why-your-python-runs-slow-part-1-data-structures/,/u/journeysquid,4
-0,2014-02-13 14:25:45 -0600,"['/t/databases', '/t/release']",Introducing TokuMX 1.4: Major improvements to MongoDB sharding and replication,http://www.tokutek.com/2014/02/introducing-tokumx-1-4-major-improvements-to-mongodb-sharding-and-replication/,/u/leif,3
-0,2014-02-13 10:00:01 -0600,"['/t/devops', '/t/web']",From zero to fully working CI server in less than 10 minutes with Drone & Docker,http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker,/u/jipiboily,4
-0,2014-02-13 11:40:40 -0600,"['/t/video', '/t/distributed', '/t/event']",Detailed walkthrough of the Stripe CTF3 levels,https://www.youtube.com/watch?v=BWiuMHfAQz0,/u/jcs,3
-0,2014-02-13 14:05:23 -0600,['/t/openbsd'],"n2k14 hackathon report: jsg@ on Mesa, LLVM dependencies, and Static Analysis",http://undeadly.org/cgi?action=article&sid=20140213173808,/u/tedu,2
-2,2014-02-13 10:57:42 -0600,['/t/show'],Run your own chat proxy for $5/mo,https://squishtech.com/2014/02/12/chat-proxy/,/u/sprsquish,2
-0,2014-02-13 12:42:04 -0600,"['/t/privacy', '/t/security']","Secure your rsync shares, please.",http://blog.steve.org.uk/secure_your_rsync_shares__please_.html,/u/henkjan,2
-0,2014-02-13 15:43:49 -0600,"['/t/person', '/t/web']",First year as an independent business owner,http://lauris.h-s.io/2014/02/13/first-year-independent-business-owner/,/u/lauris,1
-10,2014-02-12 14:02:15 -0600,['/t/show'],wordy weather - forecasts for humans.,http://weather.nucleol.us,/u/jw,17
-0,2014-02-13 11:15:38 -0600,['/t/vcs'],Announcing gitsh,http://robots.thoughtbot.com/announcing-gitsh,/u/jdost,2
-0,2014-02-13 07:45:56 -0600,['/t/lisp'],Clojure Cookbook: Generating Ranges of Dates & Times,http://www.rkn.io/2014/02/13/clojure-cookbook-date-ranges/,/u/rkneufeld,3
-1,2014-02-12 21:11:03 -0600,"['/t/law', '/t/news', '/t/privacy']",The Day the Internet Didn't Fight Back,http://bits.blogs.nytimes.com/2014/02/11/the-day-the-internet-didnt-fight-back/,/u/journeysquid,6
-1,2014-02-12 14:16:49 -0600,['/t/release'],Elasticsearch 1.0.0 Released,http://www.elasticsearch.org/blog/1-0-0-released/,/u/SeanTAllen,7
-2,2014-02-12 17:06:26 -0600,"['/t/databases', '/t/mac']",Postgres.App,https://github.com/PostgresApp/PostgresApp/releases,/u/sevan,3
-4,2014-02-12 18:47:08 -0600,['/t/linux'],Why systemd is winning the init wars and other things aren't,http://utcc.utoronto.ca/~cks/space/blog/linux/SystemdWhyItWon,/u/journeysquid,2
-0,2014-02-12 21:35:01 -0600,"['/t/python', '/t/unix']",DTrace patch for Python 2.7 and 3.x,http://www.jcea.es/artic/python_dtrace.htm,/u/sevan,2
-0,2014-02-12 18:51:53 -0600,['/t/web'],Hemingway - make your writing bold and clear,http://www.hemingwayapp.com/,/u/journeysquid,2
-1,2014-02-12 21:10:16 -0600,"['/t/culture', '/t/programming']",5 Ways To Burn Out Programming,http://blog.braegger.pw/5-ways-to-burn-out-programming/,/u/journeysquid,3
-0,2014-02-13 01:03:42 -0600,"['/t/culture', '/t/python']",On Programming Communities,http://lucumr.pocoo.org/2014/2/13/programming-communities/,/u/zhemao,1
-0,2014-02-12 14:32:03 -0600,"['/t/lisp', '/t/programming', '/t/python']",quick-clojure: Python utility runs Clojure scripts/REPLs without long JVM startup time,https://github.com/benwbooth/quick-clojure,/u/amontalenti,2
-1,2014-02-12 11:53:29 -0600,"['/t/video', '/t/satire', '/t/security']",NSA Operation ORCHESTRA: Annual Status Report (phk at FOSDEM),http://mirrors.dotsrc.org/fosdem/2014/Janson/Sunday/NSA_operation_ORCHESTRA_Annual_Status_Report.webm,/u/jcs,6
-0,2014-02-11 23:58:37 -0600,"['/t/erlang', '/t/networking', '/t/scaling']",TCP incast,http://www.snookles.com/slf-blog/2012/01/05/tcp-incast-what-is-it/,/u/vjoel,11
-0,2014-02-12 09:56:23 -0600,['/t/compsci'],x86 is Turing-complete with no registers,http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html,/u/dl,3
-6,2014-02-11 12:28:33 -0600,"['/t/slides', '/t/go']",Toward Go 1.3,http://talks.golang.org/2014/go1.3.slide,/u/mattk,23
-2,2014-02-12 08:28:20 -0600,"['/t/show', '/t/cryptocurrencies']",What's the current bitcoin exchange rate?,http://bitcoinxtr.com/,/u/jturner,2
+0,2014-02-13 12:34:40 -0600,/t/python,Why Your Python Runs Slow. Part 1: Data Structures,http://lukauskas.co.uk/articles/2014/02/13/why-your-python-runs-slow-part-1-data-structures/,/u/journeysquid,4
+0,2014-02-13 14:25:45 -0600,"/t/databases,/t/release",Introducing TokuMX 1.4: Major improvements to MongoDB sharding and replication,http://www.tokutek.com/2014/02/introducing-tokumx-1-4-major-improvements-to-mongodb-sharding-and-replication/,/u/leif,3
+0,2014-02-13 10:00:01 -0600,"/t/devops,/t/web",From zero to fully working CI server in less than 10 minutes with Drone & Docker,http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker,/u/jipiboily,4
+0,2014-02-13 11:40:40 -0600,"/t/video,/t/distributed,/t/event",Detailed walkthrough of the Stripe CTF3 levels,https://www.youtube.com/watch?v=BWiuMHfAQz0,/u/jcs,3
+0,2014-02-13 14:05:23 -0600,/t/openbsd,"n2k14 hackathon report: jsg@ on Mesa, LLVM dependencies, and Static Analysis",http://undeadly.org/cgi?action=article&sid=20140213173808,/u/tedu,2
+2,2014-02-13 10:57:42 -0600,/t/show,Run your own chat proxy for $5/mo,https://squishtech.com/2014/02/12/chat-proxy/,/u/sprsquish,2
+0,2014-02-13 12:42:04 -0600,"/t/privacy,/t/security","Secure your rsync shares, please.",http://blog.steve.org.uk/secure_your_rsync_shares__please_.html,/u/henkjan,2
+0,2014-02-13 15:43:49 -0600,"/t/person,/t/web",First year as an independent business owner,http://lauris.h-s.io/2014/02/13/first-year-independent-business-owner/,/u/lauris,1
+10,2014-02-12 14:02:15 -0600,/t/show,wordy weather - forecasts for humans.,http://weather.nucleol.us,/u/jw,17
+0,2014-02-13 11:15:38 -0600,/t/vcs,Announcing gitsh,http://robots.thoughtbot.com/announcing-gitsh,/u/jdost,2
+0,2014-02-13 07:45:56 -0600,/t/lisp,Clojure Cookbook: Generating Ranges of Dates & Times,http://www.rkn.io/2014/02/13/clojure-cookbook-date-ranges/,/u/rkneufeld,3
+1,2014-02-12 21:11:03 -0600,"/t/law,/t/news,/t/privacy",The Day the Internet Didn't Fight Back,http://bits.blogs.nytimes.com/2014/02/11/the-day-the-internet-didnt-fight-back/,/u/journeysquid,6
+1,2014-02-12 14:16:49 -0600,/t/release,Elasticsearch 1.0.0 Released,http://www.elasticsearch.org/blog/1-0-0-released/,/u/SeanTAllen,7
+2,2014-02-12 17:06:26 -0600,"/t/databases,/t/mac",Postgres.App,https://github.com/PostgresApp/PostgresApp/releases,/u/sevan,3
+4,2014-02-12 18:47:08 -0600,/t/linux,Why systemd is winning the init wars and other things aren't,http://utcc.utoronto.ca/~cks/space/blog/linux/SystemdWhyItWon,/u/journeysquid,2
+0,2014-02-12 21:35:01 -0600,"/t/python,/t/unix",DTrace patch for Python 2.7 and 3.x,http://www.jcea.es/artic/python_dtrace.htm,/u/sevan,2
+0,2014-02-12 18:51:53 -0600,/t/web,Hemingway - make your writing bold and clear,http://www.hemingwayapp.com/,/u/journeysquid,2
+1,2014-02-12 21:10:16 -0600,"/t/culture,/t/programming",5 Ways To Burn Out Programming,http://blog.braegger.pw/5-ways-to-burn-out-programming/,/u/journeysquid,3
+0,2014-02-13 01:03:42 -0600,"/t/culture,/t/python",On Programming Communities,http://lucumr.pocoo.org/2014/2/13/programming-communities/,/u/zhemao,1
+0,2014-02-12 14:32:03 -0600,"/t/lisp,/t/programming,/t/python",quick-clojure: Python utility runs Clojure scripts/REPLs without long JVM startup time,https://github.com/benwbooth/quick-clojure,/u/amontalenti,2
+1,2014-02-12 11:53:29 -0600,"/t/video,/t/satire,/t/security",NSA Operation ORCHESTRA: Annual Status Report (phk at FOSDEM),http://mirrors.dotsrc.org/fosdem/2014/Janson/Sunday/NSA_operation_ORCHESTRA_Annual_Status_Report.webm,/u/jcs,6
+0,2014-02-11 23:58:37 -0600,"/t/erlang,/t/networking,/t/scaling",TCP incast,http://www.snookles.com/slf-blog/2012/01/05/tcp-incast-what-is-it/,/u/vjoel,11
+0,2014-02-12 09:56:23 -0600,/t/compsci,x86 is Turing-complete with no registers,http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html,/u/dl,3
+6,2014-02-11 12:28:33 -0600,"/t/slides,/t/go",Toward Go 1.3,http://talks.golang.org/2014/go1.3.slide,/u/mattk,23
+2,2014-02-12 08:28:20 -0600,"/t/show,/t/cryptocurrencies",What's the current bitcoin exchange rate?,http://bitcoinxtr.com/,/u/jturner,2

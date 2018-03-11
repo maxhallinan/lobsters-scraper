@@ -1,25 +1,25 @@
-0,2014-06-05 13:14:44 -0500,"['/t/devops', '/t/person']","Interview with Deis CTO, Gabriel Monroy",http://www.centurylinklabs.com/interview-with-deis-cto-gabriel-monroy/,/u/cardmagic,1
-11,2014-06-04 12:14:32 -0500,"['/t/show', '/t/web']","HackerQueue, the New Technology News Aggregate",http://hackerqueue.io,/u/ObligatoryRory,13
-0,2014-06-05 08:30:08 -0500,['/t/ruby'],Creating a project in Rails from scratch,http://pothibo.com/2014/6/how-rails-loads-by-creating-a-project-from-scratch,/u/pothibo,1
-0,2014-06-05 07:58:25 -0500,['/t/security'],Early ChangeCipherSpec Attack on OpenSSL,https://www.imperialviolet.org/2014/06/05/earlyccs.html,/u/PiotrSikora,1
-0,2014-06-05 07:26:32 -0500,['/t/practices'],The Original Sin of Software Metrics,http://www.infoq.com/articles/metrics-original-sin,/u/ancatrusca,1
-0,2014-06-05 09:29:55 -0500,"['/t/video', '/t/culture', '/t/event', '/t/philosophy', '/t/practices']",In defense of imitation: Gwenn Seemel at TEDxGeneva 2014,http://www.youtube.com/watch?v=HCMZ4s2A_k8,/u/csantosb,1
-0,2014-06-05 02:48:32 -0500,"['/t/pdf', '/t/privacy', '/t/security']",Anonymity on the Internet: Why the Price May Be Too High (2002),http://www.csl.mtu.edu/cs6461/www/Reading/Davenport02.pdf,/u/csantosb,1
-0,2014-06-04 15:50:38 -0500,['/t/cryptocurrencies'],Timelock: time-release encryption incentivised by Bitcoins,https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg05547.html,/u/bct,5
-2,2014-06-04 06:49:13 -0500,"['/t/security', '/t/web']",Unlimited Access with CORS,http://flippinawesome.org/2014/06/04/unlimited-access-with-cors/,/u/remotesynth,7
-8,2014-06-03 20:15:21 -0500,"['/t/show', '/t/programming']",Easy maintenance of your AUTHORS file,https://kev.inburke.com/kevin/easy-maintenance-of-your-authors-file/,/u/kb,15
-0,2014-06-04 10:33:01 -0500,"['/t/c', '/t/go', '/t/rust']",Systems Programming in 2014 and Beyond (Recorded Panel),http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond,/u/Rickasaurus,5
-2,2014-06-03 22:56:57 -0500,['/t/programming'],Leo Editor,http://leoeditor.com/,/u/jm,6
-4,2014-06-03 14:24:57 -0500,['/t/python'],Micro Python - a lean and efficient implementation of Python 3,https://mail.python.org/pipermail/python-list/2014-June/672994.html,/u/journeysquid,20
-6,2014-06-03 15:37:45 -0500,['/t/programming'],Typeclass encoding in Swift,http://maxs.io/typeclass-encoding-in-swift/,/u/bitemyapp,11
-31,2014-06-03 18:59:51 -0500,['/t/ask'],Hello fellow Lobste.rs! Post your playlist(s)!,/s/sa4fp2/hello_fellow_lobste_rs_post_your_playlist,/u/xyz,22
-0,2014-06-04 11:40:59 -0500,"['/t/browsers', '/t/mac']",Netflix HTML5 Video in Safari on OS X Yosemite,http://techblog.netflix.com/2014/06/html5-video-in-safari-on-os-x-yosemite.html,/u/jcs,1
-0,2014-06-03 18:38:28 -0500,['/t/programming'],"Devcards, Taking Interactivity to the Next Level",http://rigsomelight.com/2014/06/03/devcards-taking-interactivity-to-the-next-level.html,/u/bhauman,9
-38,2014-06-03 15:09:56 -0500,['/t/ask'],What are you working on this week?,/s/8xwwml/what_are_you_working_on_this_week,/u/kyle,22
-3,2014-06-03 10:06:09 -0500,['/t/practices'],How To Not Suck At Telecommuting,http://alertfalse.com/2013/02/how-to-telecommut/,/u/mikemccracken,17
-2,2014-06-03 15:13:41 -0500,['/t/security'],Google Online Security Blog: Making end-to-end encryption easier to use,http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html,/u/tante,7
-1,2014-06-03 21:46:21 -0500,"['/t/law', '/t/privacy']",Judge Releases Information about Police Use of Stingray Cell Phone Trackers,https://www.aclu.org/blog/national-security-technology-and-liberty/victory-judge-releases-information-about-police-use,/u/tedu,5
-0,2014-06-03 08:20:52 -0500,['/t/programming'],The Last Line Effect,http://www.viva64.com/en/b/0260/,/u/lcapaldo,21
-4,2014-06-02 23:15:39 -0500,"['/t/ios', '/t/rust']",Rust Creator Graydon Hoare's Thoughts On Swift,http://graydon2.dreamwidth.org/5785.html,/u/wting,34
-0,2014-06-04 04:54:35 -0500,"['/t/mobile', '/t/practices', '/t/web']",65 Web and Mobile App Analytics Tools,http://autosend.io/analytics-tools-web-mobile/,/u/andottto,1
-0,2014-06-04 01:37:26 -0500,"['/t/java', '/t/web']","Discontinued by Apple in 2009, the WebObjects community still lives on - even backing iOS apps",http://wiki.wocommunity.org/display/WEB/Home,/u/Axman6,1
+0,2014-06-05 13:14:44 -0500,"/t/devops,/t/person","Interview with Deis CTO, Gabriel Monroy",http://www.centurylinklabs.com/interview-with-deis-cto-gabriel-monroy/,/u/cardmagic,1
+11,2014-06-04 12:14:32 -0500,"/t/show,/t/web","HackerQueue, the New Technology News Aggregate",http://hackerqueue.io,/u/ObligatoryRory,13
+0,2014-06-05 08:30:08 -0500,/t/ruby,Creating a project in Rails from scratch,http://pothibo.com/2014/6/how-rails-loads-by-creating-a-project-from-scratch,/u/pothibo,1
+0,2014-06-05 07:58:25 -0500,/t/security,Early ChangeCipherSpec Attack on OpenSSL,https://www.imperialviolet.org/2014/06/05/earlyccs.html,/u/PiotrSikora,1
+0,2014-06-05 07:26:32 -0500,/t/practices,The Original Sin of Software Metrics,http://www.infoq.com/articles/metrics-original-sin,/u/ancatrusca,1
+0,2014-06-05 09:29:55 -0500,"/t/video,/t/culture,/t/event,/t/philosophy,/t/practices",In defense of imitation: Gwenn Seemel at TEDxGeneva 2014,http://www.youtube.com/watch?v=HCMZ4s2A_k8,/u/csantosb,1
+0,2014-06-05 02:48:32 -0500,"/t/pdf,/t/privacy,/t/security",Anonymity on the Internet: Why the Price May Be Too High (2002),http://www.csl.mtu.edu/cs6461/www/Reading/Davenport02.pdf,/u/csantosb,1
+0,2014-06-04 15:50:38 -0500,/t/cryptocurrencies,Timelock: time-release encryption incentivised by Bitcoins,https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg05547.html,/u/bct,5
+2,2014-06-04 06:49:13 -0500,"/t/security,/t/web",Unlimited Access with CORS,http://flippinawesome.org/2014/06/04/unlimited-access-with-cors/,/u/remotesynth,7
+8,2014-06-03 20:15:21 -0500,"/t/show,/t/programming",Easy maintenance of your AUTHORS file,https://kev.inburke.com/kevin/easy-maintenance-of-your-authors-file/,/u/kb,15
+0,2014-06-04 10:33:01 -0500,"/t/c,/t/go,/t/rust",Systems Programming in 2014 and Beyond (Recorded Panel),http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond,/u/Rickasaurus,5
+2,2014-06-03 22:56:57 -0500,/t/programming,Leo Editor,http://leoeditor.com/,/u/jm,6
+4,2014-06-03 14:24:57 -0500,/t/python,Micro Python - a lean and efficient implementation of Python 3,https://mail.python.org/pipermail/python-list/2014-June/672994.html,/u/journeysquid,20
+6,2014-06-03 15:37:45 -0500,/t/programming,Typeclass encoding in Swift,http://maxs.io/typeclass-encoding-in-swift/,/u/bitemyapp,11
+31,2014-06-03 18:59:51 -0500,/t/ask,Hello fellow Lobste.rs! Post your playlist(s)!,/s/sa4fp2/hello_fellow_lobste_rs_post_your_playlist,/u/xyz,22
+0,2014-06-04 11:40:59 -0500,"/t/browsers,/t/mac",Netflix HTML5 Video in Safari on OS X Yosemite,http://techblog.netflix.com/2014/06/html5-video-in-safari-on-os-x-yosemite.html,/u/jcs,1
+0,2014-06-03 18:38:28 -0500,/t/programming,"Devcards, Taking Interactivity to the Next Level",http://rigsomelight.com/2014/06/03/devcards-taking-interactivity-to-the-next-level.html,/u/bhauman,9
+38,2014-06-03 15:09:56 -0500,/t/ask,What are you working on this week?,/s/8xwwml/what_are_you_working_on_this_week,/u/kyle,22
+3,2014-06-03 10:06:09 -0500,/t/practices,How To Not Suck At Telecommuting,http://alertfalse.com/2013/02/how-to-telecommut/,/u/mikemccracken,17
+2,2014-06-03 15:13:41 -0500,/t/security,Google Online Security Blog: Making end-to-end encryption easier to use,http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html,/u/tante,7
+1,2014-06-03 21:46:21 -0500,"/t/law,/t/privacy",Judge Releases Information about Police Use of Stingray Cell Phone Trackers,https://www.aclu.org/blog/national-security-technology-and-liberty/victory-judge-releases-information-about-police-use,/u/tedu,5
+0,2014-06-03 08:20:52 -0500,/t/programming,The Last Line Effect,http://www.viva64.com/en/b/0260/,/u/lcapaldo,21
+4,2014-06-02 23:15:39 -0500,"/t/ios,/t/rust",Rust Creator Graydon Hoare's Thoughts On Swift,http://graydon2.dreamwidth.org/5785.html,/u/wting,34
+0,2014-06-04 04:54:35 -0500,"/t/mobile,/t/practices,/t/web",65 Web and Mobile App Analytics Tools,http://autosend.io/analytics-tools-web-mobile/,/u/andottto,1
+0,2014-06-04 01:37:26 -0500,"/t/java,/t/web","Discontinued by Apple in 2009, the WebObjects community still lives on - even backing iOS apps",http://wiki.wocommunity.org/display/WEB/Home,/u/Axman6,1

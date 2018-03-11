@@ -1,25 +1,25 @@
-0,2017-09-25 08:01:38 -0500,"['/t/python', '/t/testing']",Python Coverage could be fast,http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/,/u/DRMacIver,11
-10,2017-09-25 02:12:56 -0500,"['/t/browsers', '/t/security']","Google Experiment Tests Top 5 Browsers, Finds Safari Riddled With Security Bugs",https://www.bleepingcomputer.com/news/security/google-experiment-tests-top-5-browsers-finds-safari-riddled-with-security-bugs/,/u/pgl,18
-1,2017-09-25 17:35:47 -0500,"['/t/api', '/t/web']",Calling Webhooks asynchronously with Zurl,http://blog.fanout.io/2014/10/03/calling-webhooks-asynchronously-with-zurl/,/u/justinucd,4
-33,2017-09-25 10:27:18 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/rvs4jm/what_are_you_working_on_this_week,/u/caius,22
-4,2017-09-25 03:12:30 -0500,['/t/book'],On books,http://www.sicpers.info/2017/09/on-books/,/u/leeg,7
-3,2017-09-25 08:56:58 -0500,['/t/go'],Why Use Pointers?,https://pocketgophers.com/why-use-pointers/,/u/nathankerr,3
-0,2017-09-25 09:05:13 -0500,"['/t/compilers', '/t/rust']","Dialect of brainfuck, writtenin Rust, which only uses emoji",http://emotifuck.rs/,/u/djsumdog,11
-0,2017-09-26 07:49:50 -0500,"['/t/javascript', '/t/python', '/t/web']",Full-Stack Web Development - the Complete Roadmap - Startup Lab,https://startuplab.io/post/fullstack-web-development-roadmap?src=mst,/u/jdarnold,0
-4,2017-09-25 02:35:57 -0500,"['/t/mac', '/t/security']",High Sierra automatically checks EFI firmware each week,https://eclecticlight.co/2017/09/24/high-sierra-automatically-checks-efi-firmware-each-week/,/u/dark_grimoire,14
-0,2017-09-25 18:53:26 -0500,"['/t/video', '/t/dotnet']",Learning F#: Case study with branch and bound,https://www.youtube.com/watch?v=UZIqQMDZTwc,/u/mightybyte,1
-0,2017-09-25 08:52:07 -0500,['/t/visualization'],How I Make Explorable Explanations,http://blog.ncase.me/how-i-make-an-explorable-explanation/,/u/pushcx,9
-2,2017-09-25 14:58:19 -0500,['/t/php'],HHVM / HACK and PHP 7 Support,http://hhvm.com/blog/10859/php-7-support,/u/caviv,2
-0,2017-09-25 05:28:43 -0500,['/t/graphics'],Godot 3's renderer design explained,https://godotengine.org/article/godot-3-renderer-design-explained,/u/calvin,10
-0,2017-09-25 06:52:27 -0500,['/t/ruby'],Episode 99 - Creating a Basic Gem,https://www.driftingruby.com/episodes/creating-a-basic-gem,/u/kobaltz,4
-0,2017-09-25 14:44:37 -0500,['/t/javascript'],Vue.js Single-File JavaScript Components In The Browser,https://vuejsdevelopers.com/2017/09/24/vue-js-single-file-javascript-components/,/u/anthonygore,1
-4,2017-09-24 14:22:05 -0500,"['/t/video', '/t/debugging', '/t/reversing']",How I Fixed a 10 Year Old Guitar Hero Bug Without the Source Code,https://www.youtube.com/watch?v=A9U5wK_boYM,/u/calvin,29
-0,2017-09-26 06:58:39 -0500,"['/t/culture', '/t/job']",Kiwi businesses commit to 'no qualifications required' hiring,http://www.stuff.co.nz/business/97253320/kiwi-businesses-commit-to-no-qualifications-required-hiring,/u/djsumdog,0
-0,2017-09-26 06:56:21 -0500,"['/t/culture', '/t/web']",Modern Media Is a DoS Attack on Your Free Will,http://nautil.us/issue/52/the-hive/modern-media-is-a-dos-attack-on-your-free-will,/u/acorkery,0
-0,2017-09-25 08:57:37 -0500,"['/t/clojure', '/t/devops', '/t/programming']",How to Docker Compose a developer environment: an open source example,http://danlebrero.com/2017/09/25/how-do-docker-compose-development-environement/,/u/kardan,4
-2,2017-09-25 05:30:38 -0500,['/t/programming'],"Never Give Up, Retry: How Software Should Deal with Failures",http://allyouneedisbackend.com/blog/2017/09/15/how-backend-software-should-retry-on-failures/,/u/calvin,3
-0,2017-09-25 09:47:38 -0500,"['/t/pdf', '/t/compsci', '/t/programming', '/t/testing']","Combined Static and Dynamic, Automated, Test Generation (2011)",https://pdfs.semanticscholar.org/b351/f99c0d579d7f4df2c79fd465bdf300045e63.pdf,/u/nickpsecurity,3
-0,2017-09-24 20:33:13 -0500,['/t/mobile'],Why supporting the Librem Phone crowdfunding campaign helps postmarketOS (and friends),https://postmarketos.org/blog/2017/09/24/librem-5/,/u/singpolyma,14
-0,2017-09-24 16:27:54 -0500,"['/t/video', '/t/art', '/t/graphics', '/t/historical']",Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms,https://www.youtube.com/watch?v=5MexnBunH_g,/u/friendlysock,21
-5,2017-09-24 15:58:57 -0500,"['/t/video', '/t/security']","The Science of Insecurity (Meredith L. Patterson, 2011)",https://www.youtube.com/watch?v=3kEfedtQVOY,/u/Sietsebb,10
-0,2017-09-25 03:33:21 -0500,"['/t/philosophy', '/t/security']",The Ethics of Running a Data Breach Search Service,https://www.troyhunt.com/the-ethics-of-running-a-data-breach-search-service/,/u/pgl,5
+0,2017-09-25 08:01:38 -0500,"/t/python,/t/testing",Python Coverage could be fast,http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/,/u/DRMacIver,11
+10,2017-09-25 02:12:56 -0500,"/t/browsers,/t/security","Google Experiment Tests Top 5 Browsers, Finds Safari Riddled With Security Bugs",https://www.bleepingcomputer.com/news/security/google-experiment-tests-top-5-browsers-finds-safari-riddled-with-security-bugs/,/u/pgl,18
+1,2017-09-25 17:35:47 -0500,"/t/api,/t/web",Calling Webhooks asynchronously with Zurl,http://blog.fanout.io/2014/10/03/calling-webhooks-asynchronously-with-zurl/,/u/justinucd,4
+33,2017-09-25 10:27:18 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/rvs4jm/what_are_you_working_on_this_week,/u/caius,22
+4,2017-09-25 03:12:30 -0500,/t/book,On books,http://www.sicpers.info/2017/09/on-books/,/u/leeg,7
+3,2017-09-25 08:56:58 -0500,/t/go,Why Use Pointers?,https://pocketgophers.com/why-use-pointers/,/u/nathankerr,3
+0,2017-09-25 09:05:13 -0500,"/t/compilers,/t/rust","Dialect of brainfuck, writtenin Rust, which only uses emoji",http://emotifuck.rs/,/u/djsumdog,11
+0,2017-09-26 07:49:50 -0500,"/t/javascript,/t/python,/t/web",Full-Stack Web Development - the Complete Roadmap - Startup Lab,https://startuplab.io/post/fullstack-web-development-roadmap?src=mst,/u/jdarnold,0
+4,2017-09-25 02:35:57 -0500,"/t/mac,/t/security",High Sierra automatically checks EFI firmware each week,https://eclecticlight.co/2017/09/24/high-sierra-automatically-checks-efi-firmware-each-week/,/u/dark_grimoire,14
+0,2017-09-25 18:53:26 -0500,"/t/video,/t/dotnet",Learning F#: Case study with branch and bound,https://www.youtube.com/watch?v=UZIqQMDZTwc,/u/mightybyte,1
+0,2017-09-25 08:52:07 -0500,/t/visualization,How I Make Explorable Explanations,http://blog.ncase.me/how-i-make-an-explorable-explanation/,/u/pushcx,9
+2,2017-09-25 14:58:19 -0500,/t/php,HHVM / HACK and PHP 7 Support,http://hhvm.com/blog/10859/php-7-support,/u/caviv,2
+0,2017-09-25 05:28:43 -0500,/t/graphics,Godot 3's renderer design explained,https://godotengine.org/article/godot-3-renderer-design-explained,/u/calvin,10
+0,2017-09-25 06:52:27 -0500,/t/ruby,Episode 99 - Creating a Basic Gem,https://www.driftingruby.com/episodes/creating-a-basic-gem,/u/kobaltz,4
+0,2017-09-25 14:44:37 -0500,/t/javascript,Vue.js Single-File JavaScript Components In The Browser,https://vuejsdevelopers.com/2017/09/24/vue-js-single-file-javascript-components/,/u/anthonygore,1
+4,2017-09-24 14:22:05 -0500,"/t/video,/t/debugging,/t/reversing",How I Fixed a 10 Year Old Guitar Hero Bug Without the Source Code,https://www.youtube.com/watch?v=A9U5wK_boYM,/u/calvin,29
+0,2017-09-26 06:58:39 -0500,"/t/culture,/t/job",Kiwi businesses commit to 'no qualifications required' hiring,http://www.stuff.co.nz/business/97253320/kiwi-businesses-commit-to-no-qualifications-required-hiring,/u/djsumdog,0
+0,2017-09-26 06:56:21 -0500,"/t/culture,/t/web",Modern Media Is a DoS Attack on Your Free Will,http://nautil.us/issue/52/the-hive/modern-media-is-a-dos-attack-on-your-free-will,/u/acorkery,0
+0,2017-09-25 08:57:37 -0500,"/t/clojure,/t/devops,/t/programming",How to Docker Compose a developer environment: an open source example,http://danlebrero.com/2017/09/25/how-do-docker-compose-development-environement/,/u/kardan,4
+2,2017-09-25 05:30:38 -0500,/t/programming,"Never Give Up, Retry: How Software Should Deal with Failures",http://allyouneedisbackend.com/blog/2017/09/15/how-backend-software-should-retry-on-failures/,/u/calvin,3
+0,2017-09-25 09:47:38 -0500,"/t/pdf,/t/compsci,/t/programming,/t/testing","Combined Static and Dynamic, Automated, Test Generation (2011)",https://pdfs.semanticscholar.org/b351/f99c0d579d7f4df2c79fd465bdf300045e63.pdf,/u/nickpsecurity,3
+0,2017-09-24 20:33:13 -0500,/t/mobile,Why supporting the Librem Phone crowdfunding campaign helps postmarketOS (and friends),https://postmarketos.org/blog/2017/09/24/librem-5/,/u/singpolyma,14
+0,2017-09-24 16:27:54 -0500,"/t/video,/t/art,/t/graphics,/t/historical",Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms,https://www.youtube.com/watch?v=5MexnBunH_g,/u/friendlysock,21
+5,2017-09-24 15:58:57 -0500,"/t/video,/t/security","The Science of Insecurity (Meredith L. Patterson, 2011)",https://www.youtube.com/watch?v=3kEfedtQVOY,/u/Sietsebb,10
+0,2017-09-25 03:33:21 -0500,"/t/philosophy,/t/security",The Ethics of Running a Data Breach Search Service,https://www.troyhunt.com/the-ethics-of-running-a-data-breach-search-service/,/u/pgl,5

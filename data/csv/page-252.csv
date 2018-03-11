@@ -1,25 +1,25 @@
-0,2017-08-09 16:41:59 -0500,"['/t/assembly', '/t/security', '/t/windows']",Bringing Call Gates Back,http://www.alex-ionescu.com/?p=340,/u/pushcx,3
-1,2017-08-08 16:15:33 -0500,['/t/linux'],Linux Load Averages: Solving the Mystery,http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html,/u/janerik,45
-0,2017-08-09 22:16:38 -0500,"['/t/lisp', '/t/web']",Hypercrud: A clojure client/server framework for composable UIs,https://github.com/hyperfiddle/hypercrud.browser,/u/zem,1
-18,2017-08-08 10:56:54 -0500,"['/t/emacs', '/t/practices']",Getting Started With Emacs,https://chaseadams.io/getting-started-with-emacs/,/u/Thai,32
-4,2017-08-08 21:57:47 -0500,['/t/book'],Nim in Action,https://book.picheta.me/,/u/kevinSuttle,9
-0,2017-08-09 07:14:02 -0500,"['/t/haskell', '/t/scala']",Integrating Eta into your Scala projects,https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0,/u/jyothsna,6
-0,2017-08-09 10:10:45 -0500,['/t/assembly'],"The Alpha AXP, part 3: Integer constants",https://blogs.msdn.microsoft.com/oldnewthing/20170809-00/?p=96785,/u/calvin,4
-0,2017-08-09 06:56:42 -0500,"['/t/games', '/t/graphics']",Improved Culling for Tiled and Clustered Rendering in Call of Duty: Infinite Warfare,https://research.activision.com/t5/Research-Papers/Improved-Culling-for-Tiled-and-Clustered-Rendering-in-Call-of/ba-p/10338514,/u/lm,6
-0,2017-08-09 06:54:27 -0500,"['/t/slides', '/t/graphics']",Advances in Real-Time Rendering 2017,http://advances.realtimerendering.com/s2017/index.html,/u/mikejsavage,6
-5,2017-08-08 12:03:23 -0500,['/t/linux'],Why Github can't host the Linux Kernel Community,http://blog.ffwll.ch/2017/08/github-why-cant-host-the-kernel.html,/u/pizzaiolo,36
-1,2017-08-09 10:24:21 -0500,"['/t/pdf', '/t/browsers', '/t/formalmethods', '/t/programming', '/t/security']",Design and Implementing the OP and OP2 Web Browsers (2011),https://pdfs.semanticscholar.org/832a/911f97b500cd2df468018637e1d22c9c5572.pdf,/u/nickpsecurity,3
-0,2017-08-09 09:56:38 -0500,['/t/release'],Kotlin 1.2 M2 is out,https://blog.jetbrains.com/kotlin/2017/08/kotlin-1-2-m2-is-out/,/u/nikolay,3
-19,2017-08-08 09:25:29 -0500,['/t/practices'],The Return of the Hipster PDA,http://www.agilesysadmin.net/return-of-the-hipster-pda,/u/trn,22
-0,2017-08-09 08:28:04 -0500,"['/t/devops', '/t/security']",Kubernetes Secrets Encryption,https://www.twistlock.com/2017/08/02/kubernetes-secrets-encryption/,/u/zelivans,3
-0,2017-08-08 20:29:55 -0500,['/t/hardware'],Upgrading HP Microserver Gen8 CPU,http://caiustheory.com/upgrading-microserver-g8-cpu/,/u/caius,6
-2,2017-08-09 03:08:50 -0500,"['/t/hardware', '/t/programming']",Mongoose OS - an open source OS for the Internet of Things,https://mongoose-os.com/,/u/pgl,3
-0,2017-08-09 06:58:09 -0500,"['/t/slides', '/t/graphics']",Rethinking Texture Mapping,http://www.cemyuksel.com/courses/conferences/siggraph2017-rethinking_texture_mapping/,/u/mikejsavage,3
-1,2017-08-08 21:16:09 -0500,"['/t/games', '/t/programming']",Adventures in Emoji,https://ianrenton.com/blog/adventures-in-emoji/,/u/yumaikas,7
-5,2017-08-08 12:26:11 -0500,"['/t/hardware', '/t/programming', '/t/security']","Stopping ASIC Subversion - Attack Points, Defenses, and FOSS strategies",https://news.ycombinator.com/item?id=10468624,/u/nickpsecurity,10
-0,2017-08-09 07:47:59 -0500,"['/t/haskell', '/t/security']",Redirect vulnerabilities,http://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html,/u/NinjaTrappeur,2
-0,2017-08-09 05:02:34 -0500,['/t/c++'],Unreasonable Effectiveness of Profilers ·,http://aras-p.info/blog/2017/08/08/Unreasonable-Effectiveness-of-Profilers/,/u/mikejsavage,3
-0,2017-08-08 18:06:32 -0500,['/t/openbsd'],openbsd changes of note 626,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-626,/u/calvin,11
-0,2017-08-09 06:54:57 -0500,"['/t/slides', '/t/graphics']",Open Problems in Real-Time Rendering 2017,http://openproblems.realtimerendering.com/s2017/index.html,/u/mikejsavage,2
-0,2017-08-09 06:34:21 -0500,['/t/javascript'],Closing Iterables is a Leaky Abstraction,http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html,/u/tthisk,2
-53,2017-08-07 14:10:15 -0500,['/t/practices'],Can we please do useful things with software?,https://codewithoutrules.com/2017/08/07/do-something-useful/,/u/itamarst,55
+0,2017-08-09 16:41:59 -0500,"/t/assembly,/t/security,/t/windows",Bringing Call Gates Back,http://www.alex-ionescu.com/?p=340,/u/pushcx,3
+1,2017-08-08 16:15:33 -0500,/t/linux,Linux Load Averages: Solving the Mystery,http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html,/u/janerik,45
+0,2017-08-09 22:16:38 -0500,"/t/lisp,/t/web",Hypercrud: A clojure client/server framework for composable UIs,https://github.com/hyperfiddle/hypercrud.browser,/u/zem,1
+18,2017-08-08 10:56:54 -0500,"/t/emacs,/t/practices",Getting Started With Emacs,https://chaseadams.io/getting-started-with-emacs/,/u/Thai,32
+4,2017-08-08 21:57:47 -0500,/t/book,Nim in Action,https://book.picheta.me/,/u/kevinSuttle,9
+0,2017-08-09 07:14:02 -0500,"/t/haskell,/t/scala",Integrating Eta into your Scala projects,https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0,/u/jyothsna,6
+0,2017-08-09 10:10:45 -0500,/t/assembly,"The Alpha AXP, part 3: Integer constants",https://blogs.msdn.microsoft.com/oldnewthing/20170809-00/?p=96785,/u/calvin,4
+0,2017-08-09 06:56:42 -0500,"/t/games,/t/graphics",Improved Culling for Tiled and Clustered Rendering in Call of Duty: Infinite Warfare,https://research.activision.com/t5/Research-Papers/Improved-Culling-for-Tiled-and-Clustered-Rendering-in-Call-of/ba-p/10338514,/u/lm,6
+0,2017-08-09 06:54:27 -0500,"/t/slides,/t/graphics",Advances in Real-Time Rendering 2017,http://advances.realtimerendering.com/s2017/index.html,/u/mikejsavage,6
+5,2017-08-08 12:03:23 -0500,/t/linux,Why Github can't host the Linux Kernel Community,http://blog.ffwll.ch/2017/08/github-why-cant-host-the-kernel.html,/u/pizzaiolo,36
+1,2017-08-09 10:24:21 -0500,"/t/pdf,/t/browsers,/t/formalmethods,/t/programming,/t/security",Design and Implementing the OP and OP2 Web Browsers (2011),https://pdfs.semanticscholar.org/832a/911f97b500cd2df468018637e1d22c9c5572.pdf,/u/nickpsecurity,3
+0,2017-08-09 09:56:38 -0500,/t/release,Kotlin 1.2 M2 is out,https://blog.jetbrains.com/kotlin/2017/08/kotlin-1-2-m2-is-out/,/u/nikolay,3
+19,2017-08-08 09:25:29 -0500,/t/practices,The Return of the Hipster PDA,http://www.agilesysadmin.net/return-of-the-hipster-pda,/u/trn,22
+0,2017-08-09 08:28:04 -0500,"/t/devops,/t/security",Kubernetes Secrets Encryption,https://www.twistlock.com/2017/08/02/kubernetes-secrets-encryption/,/u/zelivans,3
+0,2017-08-08 20:29:55 -0500,/t/hardware,Upgrading HP Microserver Gen8 CPU,http://caiustheory.com/upgrading-microserver-g8-cpu/,/u/caius,6
+2,2017-08-09 03:08:50 -0500,"/t/hardware,/t/programming",Mongoose OS - an open source OS for the Internet of Things,https://mongoose-os.com/,/u/pgl,3
+0,2017-08-09 06:58:09 -0500,"/t/slides,/t/graphics",Rethinking Texture Mapping,http://www.cemyuksel.com/courses/conferences/siggraph2017-rethinking_texture_mapping/,/u/mikejsavage,3
+1,2017-08-08 21:16:09 -0500,"/t/games,/t/programming",Adventures in Emoji,https://ianrenton.com/blog/adventures-in-emoji/,/u/yumaikas,7
+5,2017-08-08 12:26:11 -0500,"/t/hardware,/t/programming,/t/security","Stopping ASIC Subversion - Attack Points, Defenses, and FOSS strategies",https://news.ycombinator.com/item?id=10468624,/u/nickpsecurity,10
+0,2017-08-09 07:47:59 -0500,"/t/haskell,/t/security",Redirect vulnerabilities,http://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html,/u/NinjaTrappeur,2
+0,2017-08-09 05:02:34 -0500,/t/c++,Unreasonable Effectiveness of Profilers ·,http://aras-p.info/blog/2017/08/08/Unreasonable-Effectiveness-of-Profilers/,/u/mikejsavage,3
+0,2017-08-08 18:06:32 -0500,/t/openbsd,openbsd changes of note 626,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-626,/u/calvin,11
+0,2017-08-09 06:54:57 -0500,"/t/slides,/t/graphics",Open Problems in Real-Time Rendering 2017,http://openproblems.realtimerendering.com/s2017/index.html,/u/mikejsavage,2
+0,2017-08-09 06:34:21 -0500,/t/javascript,Closing Iterables is a Leaky Abstraction,http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html,/u/tthisk,2
+53,2017-08-07 14:10:15 -0500,/t/practices,Can we please do useful things with software?,https://codewithoutrules.com/2017/08/07/do-something-useful/,/u/itamarst,55

@@ -1,25 +1,25 @@
-3,2016-11-10 08:07:54 -0600,"['/t/culture', '/t/programming']",The problem with a technology revolution designed primarily for men,http://qz.com/640302/why-is-so-much-of-our-new-technology-designed-primarily-for-men/,/u/pizzaiolo,9
-0,2016-11-10 11:28:13 -0600,"['/t/cogsci', '/t/javascript', '/t/math']",FlappyLearning - Program learning to play Flappy Bird by machine learning,https://github.com/xviniette/FlappyLearning,/u/av,2
-0,2016-11-10 11:24:55 -0600,"['/t/compilers', '/t/swift']",Mu: Writing Your Own Programming Language,https://github.com/marciok/Mu,/u/av,2
-1,2016-11-10 02:45:45 -0600,['/t/databases'],Convalesco | A quick overview: SQL vs NoSQL,https://www.convalesco.org/articles/2016/11/10/a-quick-overview-sql-vs-nosql/,/u/atmosx,2
-9,2016-11-09 16:51:49 -0600,['/t/elm'],Elm from a Business Perspective,http://www.gizra.com/content/elm-business-perspective/,/u/mulander,9
-0,2016-11-10 15:14:12 -0600,"['/t/culture', '/t/linux', '/t/programming']",ElementaryOS is now hosting valadoc.org,http://blog.elementary.io/post/152967321211/were-now-hosting-valadocorg,/u/zem,1
-0,2016-11-09 21:45:44 -0600,"['/t/android', '/t/erlang']",MLFE v0.2.4 Released,http://noisycode.com/blog/2016/11/09/mlfe-v0-dot-2-4-released,/u/tristan,6
-0,2016-11-09 18:20:27 -0600,['/t/javascript'],TypeScript 2.0: Tagged Union Types,https://blog.mariusschulz.com/2016/11/03/typescript-2-0-tagged-union-types,/u/zem,9
-0,2016-11-09 10:45:42 -0600,"['/t/practices', '/t/python']",Why I took October off from OSS volunteering,http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering,/u/ngoldbaum,19
-11,2016-11-09 03:39:23 -0600,['/t/c'],So you think you know C?,https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6,/u/av,20
-0,2016-11-10 13:19:53 -0600,['/t/games'],Thoughts on Gametrailers and Game Trailers,http://www.ultimaratioregum.co.uk/game/2016/11/10/thoughts-on-gametrailers-and-game-trailers/,/u/pushcx,0
-11,2016-11-09 05:27:05 -0600,['/t/vcs'],"git-open, open your git repo from your terminal",https://github.com/gerep/git-open,/u/gerep,7
-0,2016-11-09 16:42:21 -0600,"['/t/elixir', '/t/practices', '/t/web']","Beyond 10,000 Lines",https://shift.infinite.red/beyond-10-000-lines-ba1adc17cc7b,/u/friendlysock,7
-8,2016-11-09 09:50:54 -0600,"['/t/devops', '/t/practices', '/t/programming']",System Settings - Inaka’s approach at removing literals from code,https://medium.com/@elbrujohalcon/system-settings-9ed72d5ef629,/u/elbrujohalcon,4
-1,2016-11-09 18:19:44 -0600,"['/t/design', '/t/virtualization']",Hyper.sh - GIF Competition,https://gif.hyper.sh/,/u/lei,3
-37,2016-11-08 16:25:02 -0600,"['/t/hardware', '/t/mac']",The 2016 MacBook Pro,https://jcs.org/notaweblog/2016/11/08/the_2016_macbook_pro/,/u/fcbsd,38
-0,2016-11-09 16:11:08 -0600,"['/t/compsci', '/t/hardware', '/t/historical']",Burroughs B5500 Emulator (in Javascript),http://www.phkimpel.us/B5500/,/u/earthy,5
-6,2016-11-09 07:30:23 -0600,"['/t/mac', '/t/release', '/t/virtualization']",Veertu - Run Windows and Linux on your Mac,https://veertu.com/,/u/355E3B,6
-0,2016-11-09 10:16:36 -0600,['/t/haskell'],Covariance and Contravariance,https://www.fpcomplete.com/blog/2016/11/covariance-contravariance,/u/pushcx,7
-3,2016-11-09 13:53:30 -0600,['/t/programming'],The Cost of Abstraction,http://250bpm.com/blog:86,/u/evhan,2
-0,2016-11-09 17:56:40 -0600,"['/t/programming', '/t/rust']",Rust and Vala,https://blogs.gnome.org/despinosa/2016/11/01/rust-and-vala/,/u/zem,2
-3,2016-11-09 07:51:50 -0600,['/t/programming'],Is intuition in programming important to you?,https://vermillionazure.com/2016/11/09/is-intuition-in-programming-important-to-you/,/u/calvin,4
-0,2016-11-09 20:48:15 -0600,"['/t/pdf', '/t/ios', '/t/security']",Pangu 9 [iOS Jailbreak] Internals,http://blog.pangu.io/wp-content/uploads/2016/08/us-16-Pangu9-Internals.pdf,/u/jcspencer,1
-15,2016-11-08 10:46:36 -0600,"['/t/elm', '/t/haskell']",Elm Is Wrong,http://reasonablypolymorphic.com/blog/elm-is-wrong,/u/unbalancedparentheses,33
-0,2016-11-09 11:30:52 -0600,['/t/security'],The first cryptor to exploit Telegram,https://securelist.com/blog/research/76558/the-first-cryptor-to-exploit-telegram/,/u/av,4
+3,2016-11-10 08:07:54 -0600,"/t/culture,/t/programming",The problem with a technology revolution designed primarily for men,http://qz.com/640302/why-is-so-much-of-our-new-technology-designed-primarily-for-men/,/u/pizzaiolo,9
+0,2016-11-10 11:28:13 -0600,"/t/cogsci,/t/javascript,/t/math",FlappyLearning - Program learning to play Flappy Bird by machine learning,https://github.com/xviniette/FlappyLearning,/u/av,2
+0,2016-11-10 11:24:55 -0600,"/t/compilers,/t/swift",Mu: Writing Your Own Programming Language,https://github.com/marciok/Mu,/u/av,2
+1,2016-11-10 02:45:45 -0600,/t/databases,Convalesco | A quick overview: SQL vs NoSQL,https://www.convalesco.org/articles/2016/11/10/a-quick-overview-sql-vs-nosql/,/u/atmosx,2
+9,2016-11-09 16:51:49 -0600,/t/elm,Elm from a Business Perspective,http://www.gizra.com/content/elm-business-perspective/,/u/mulander,9
+0,2016-11-10 15:14:12 -0600,"/t/culture,/t/linux,/t/programming",ElementaryOS is now hosting valadoc.org,http://blog.elementary.io/post/152967321211/were-now-hosting-valadocorg,/u/zem,1
+0,2016-11-09 21:45:44 -0600,"/t/android,/t/erlang",MLFE v0.2.4 Released,http://noisycode.com/blog/2016/11/09/mlfe-v0-dot-2-4-released,/u/tristan,6
+0,2016-11-09 18:20:27 -0600,/t/javascript,TypeScript 2.0: Tagged Union Types,https://blog.mariusschulz.com/2016/11/03/typescript-2-0-tagged-union-types,/u/zem,9
+0,2016-11-09 10:45:42 -0600,"/t/practices,/t/python",Why I took October off from OSS volunteering,http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering,/u/ngoldbaum,19
+11,2016-11-09 03:39:23 -0600,/t/c,So you think you know C?,https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6,/u/av,20
+0,2016-11-10 13:19:53 -0600,/t/games,Thoughts on Gametrailers and Game Trailers,http://www.ultimaratioregum.co.uk/game/2016/11/10/thoughts-on-gametrailers-and-game-trailers/,/u/pushcx,0
+11,2016-11-09 05:27:05 -0600,/t/vcs,"git-open, open your git repo from your terminal",https://github.com/gerep/git-open,/u/gerep,7
+0,2016-11-09 16:42:21 -0600,"/t/elixir,/t/practices,/t/web","Beyond 10,000 Lines",https://shift.infinite.red/beyond-10-000-lines-ba1adc17cc7b,/u/friendlysock,7
+8,2016-11-09 09:50:54 -0600,"/t/devops,/t/practices,/t/programming",System Settings - Inaka’s approach at removing literals from code,https://medium.com/@elbrujohalcon/system-settings-9ed72d5ef629,/u/elbrujohalcon,4
+1,2016-11-09 18:19:44 -0600,"/t/design,/t/virtualization",Hyper.sh - GIF Competition,https://gif.hyper.sh/,/u/lei,3
+37,2016-11-08 16:25:02 -0600,"/t/hardware,/t/mac",The 2016 MacBook Pro,https://jcs.org/notaweblog/2016/11/08/the_2016_macbook_pro/,/u/fcbsd,38
+0,2016-11-09 16:11:08 -0600,"/t/compsci,/t/hardware,/t/historical",Burroughs B5500 Emulator (in Javascript),http://www.phkimpel.us/B5500/,/u/earthy,5
+6,2016-11-09 07:30:23 -0600,"/t/mac,/t/release,/t/virtualization",Veertu - Run Windows and Linux on your Mac,https://veertu.com/,/u/355E3B,6
+0,2016-11-09 10:16:36 -0600,/t/haskell,Covariance and Contravariance,https://www.fpcomplete.com/blog/2016/11/covariance-contravariance,/u/pushcx,7
+3,2016-11-09 13:53:30 -0600,/t/programming,The Cost of Abstraction,http://250bpm.com/blog:86,/u/evhan,2
+0,2016-11-09 17:56:40 -0600,"/t/programming,/t/rust",Rust and Vala,https://blogs.gnome.org/despinosa/2016/11/01/rust-and-vala/,/u/zem,2
+3,2016-11-09 07:51:50 -0600,/t/programming,Is intuition in programming important to you?,https://vermillionazure.com/2016/11/09/is-intuition-in-programming-important-to-you/,/u/calvin,4
+0,2016-11-09 20:48:15 -0600,"/t/pdf,/t/ios,/t/security",Pangu 9 [iOS Jailbreak] Internals,http://blog.pangu.io/wp-content/uploads/2016/08/us-16-Pangu9-Internals.pdf,/u/jcspencer,1
+15,2016-11-08 10:46:36 -0600,"/t/elm,/t/haskell",Elm Is Wrong,http://reasonablypolymorphic.com/blog/elm-is-wrong,/u/unbalancedparentheses,33
+0,2016-11-09 11:30:52 -0600,/t/security,The first cryptor to exploit Telegram,https://securelist.com/blog/research/76558/the-first-cryptor-to-exploit-telegram/,/u/av,4

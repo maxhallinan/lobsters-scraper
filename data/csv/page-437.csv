@@ -1,25 +1,25 @@
-2,2017-03-21 00:59:07 -0500,['/t/vcs'],Subversion to fix file renaming,http://www.theregister.co.uk/2017/03/17/subversion_svn_file_renaming/,/u/stsp,3
-17,2017-03-20 09:26:32 -0500,"['/t/go', '/t/rust']",Changes I would make to Go,http://sitr.us/2017/02/21/changes-i-would-make-to-go.html,/u/av,16
-23,2017-03-20 08:54:08 -0500,['/t/ask'],What are you working on this week?,/s/enqsqe/what_are_you_working_on_this_week,/u/caius,9
-0,2017-03-21 11:25:01 -0500,['/t/javascript'],"moveTo - A lightweight, smooth scrolling javascript library without any dependency",https://hsnaydd.github.io/moveTo/,/u/av,1
-0,2017-03-21 05:23:21 -0500,"['/t/culture', '/t/practices']",Blogging principles I use,https://jvns.ca/blog/2017/03/20/blogging-principles/,/u/calvin,5
-0,2017-03-20 22:19:45 -0500,['/t/practices'],How I Became a Better Programmer,http://jlongster.com/How-I-Became-Better-Programmer,/u/av,6
-0,2017-03-21 10:02:32 -0500,"['/t/javascript', '/t/testing']",Introduction to Property Based Testing,http://get-finch.com/2017/03/21/introduction_to_property_based_testing.html,/u/pushcx,1
-5,2017-03-20 10:24:01 -0500,"['/t/compilers', '/t/lua', '/t/web']",Lua VM running on web assembly,https://github.com/vvanders/wasm_lua,/u/Etiene,14
-0,2017-03-21 08:48:17 -0500,['/t/databases'],Date Math In The WHERE Clause,https://www.brentozar.com/archive/2016/12/date-math-clause/,/u/pushcx,1
-0,2017-03-21 08:16:30 -0500,"['/t/math', '/t/person']",Remembering Wim Klein,https://home.cern/cern-people/updates/2012/12/remembering-wim-klein,/u/JordiGH,1
-1,2017-03-20 12:53:43 -0500,"['/t/compsci', '/t/science']","Distill: a visual, interactive journal for machine learning research emphasizing human understanding",http://colah.github.io/posts/2017-03-Distill/,/u/tf,11
-1,2017-03-21 13:09:45 -0500,['/t/practices'],"How I Built a Profitable ""Startup"" in 28 Days With a $100 Budget - Gaps",https://gaps.com/startup-challenge/,/u/wgx,0
-3,2017-03-20 10:47:25 -0500,"['/t/api', '/t/linux', '/t/programming']",Epoll is fundamentally broken 2/2,https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/,/u/janerik,9
-4,2017-03-19 22:39:12 -0500,"['/t/math', '/t/programming']",Whiteboard problems in pure lambda calculus,http://www.jtolds.com/writing/2017/03/whiteboard-problems-in-pure-lambda-calculus/,/u/jtolds,15
-3,2017-03-20 07:35:07 -0500,"['/t/browsers', '/t/lua']",Luakit Web Browser (Updated fork),http://aidanholm.github.io/luakit/,/u/aidanholm,7
-0,2017-03-21 00:37:11 -0500,['/t/programming'],The System Design Primer,https://github.com/donnemartin/system-design-primer,/u/av,2
-0,2017-03-20 13:49:40 -0500,"['/t/math', '/t/programming']",Lambda calculus browser playground,https://jtolds.github.io/sheepda/,/u/jtolds,4
-0,2017-03-20 18:19:24 -0500,"['/t/historical', '/t/person']","How Aristotle ""Created"" the Computer",https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/,/u/adsouza,4
-0,2017-03-21 02:26:26 -0500,['/t/javascript'],dawson - a serverless framework for Node.js on AWS,https://dawson.sh/,/u/av,1
-9,2017-03-19 19:42:14 -0500,"['/t/show', '/t/go', '/t/programming']","A utility for running exhaustiveness checks on ""sum types"" in Go",https://github.com/BurntSushi/go-sumtype,/u/burntsushi,16
-7,2017-03-20 09:04:27 -0500,['/t/databases'],Hash indexes are faster than Btree indexes?,http://amitkapila16.blogspot.com/2017/03/hash-indexes-are-faster-than-btree.html,/u/av,5
-0,2017-03-20 15:44:55 -0500,['/t/linux'],Application crash consistency and performance with CCFS,https://blog.acolyer.org/2017/03/15/application-crash-consistency-and-performance-with-ccfs/,/u/xcombelle,4
-0,2017-03-20 12:27:38 -0500,['/t/databases'],Trying out PostgreSQL Bloom indexes,http://www.cybertec.at/trying-out-postgres-bloom-indexes/,/u/pushcx,6
-0,2017-03-20 17:12:52 -0500,['/t/historical'],Children of the Miracle: from Algol to Prolog,https://vanemden.wordpress.com/2017/03/18/children-of-the-miracle-from-algol-to-prolog/,/u/qznc,3
-2,2017-03-19 20:02:45 -0500,"['/t/browsers', '/t/security', '/t/virtualization']","Virtual machine escape fetches $105,000 at Pwn2Own hacking contest",https://arstechnica.co.uk/security/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/,/u/pizzaiolo,26
+2,2017-03-21 00:59:07 -0500,/t/vcs,Subversion to fix file renaming,http://www.theregister.co.uk/2017/03/17/subversion_svn_file_renaming/,/u/stsp,3
+17,2017-03-20 09:26:32 -0500,"/t/go,/t/rust",Changes I would make to Go,http://sitr.us/2017/02/21/changes-i-would-make-to-go.html,/u/av,16
+23,2017-03-20 08:54:08 -0500,/t/ask,What are you working on this week?,/s/enqsqe/what_are_you_working_on_this_week,/u/caius,9
+0,2017-03-21 11:25:01 -0500,/t/javascript,"moveTo - A lightweight, smooth scrolling javascript library without any dependency",https://hsnaydd.github.io/moveTo/,/u/av,1
+0,2017-03-21 05:23:21 -0500,"/t/culture,/t/practices",Blogging principles I use,https://jvns.ca/blog/2017/03/20/blogging-principles/,/u/calvin,5
+0,2017-03-20 22:19:45 -0500,/t/practices,How I Became a Better Programmer,http://jlongster.com/How-I-Became-Better-Programmer,/u/av,6
+0,2017-03-21 10:02:32 -0500,"/t/javascript,/t/testing",Introduction to Property Based Testing,http://get-finch.com/2017/03/21/introduction_to_property_based_testing.html,/u/pushcx,1
+5,2017-03-20 10:24:01 -0500,"/t/compilers,/t/lua,/t/web",Lua VM running on web assembly,https://github.com/vvanders/wasm_lua,/u/Etiene,14
+0,2017-03-21 08:48:17 -0500,/t/databases,Date Math In The WHERE Clause,https://www.brentozar.com/archive/2016/12/date-math-clause/,/u/pushcx,1
+0,2017-03-21 08:16:30 -0500,"/t/math,/t/person",Remembering Wim Klein,https://home.cern/cern-people/updates/2012/12/remembering-wim-klein,/u/JordiGH,1
+1,2017-03-20 12:53:43 -0500,"/t/compsci,/t/science","Distill: a visual, interactive journal for machine learning research emphasizing human understanding",http://colah.github.io/posts/2017-03-Distill/,/u/tf,11
+1,2017-03-21 13:09:45 -0500,/t/practices,"How I Built a Profitable ""Startup"" in 28 Days With a $100 Budget - Gaps",https://gaps.com/startup-challenge/,/u/wgx,0
+3,2017-03-20 10:47:25 -0500,"/t/api,/t/linux,/t/programming",Epoll is fundamentally broken 2/2,https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/,/u/janerik,9
+4,2017-03-19 22:39:12 -0500,"/t/math,/t/programming",Whiteboard problems in pure lambda calculus,http://www.jtolds.com/writing/2017/03/whiteboard-problems-in-pure-lambda-calculus/,/u/jtolds,15
+3,2017-03-20 07:35:07 -0500,"/t/browsers,/t/lua",Luakit Web Browser (Updated fork),http://aidanholm.github.io/luakit/,/u/aidanholm,7
+0,2017-03-21 00:37:11 -0500,/t/programming,The System Design Primer,https://github.com/donnemartin/system-design-primer,/u/av,2
+0,2017-03-20 13:49:40 -0500,"/t/math,/t/programming",Lambda calculus browser playground,https://jtolds.github.io/sheepda/,/u/jtolds,4
+0,2017-03-20 18:19:24 -0500,"/t/historical,/t/person","How Aristotle ""Created"" the Computer",https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/,/u/adsouza,4
+0,2017-03-21 02:26:26 -0500,/t/javascript,dawson - a serverless framework for Node.js on AWS,https://dawson.sh/,/u/av,1
+9,2017-03-19 19:42:14 -0500,"/t/show,/t/go,/t/programming","A utility for running exhaustiveness checks on ""sum types"" in Go",https://github.com/BurntSushi/go-sumtype,/u/burntsushi,16
+7,2017-03-20 09:04:27 -0500,/t/databases,Hash indexes are faster than Btree indexes?,http://amitkapila16.blogspot.com/2017/03/hash-indexes-are-faster-than-btree.html,/u/av,5
+0,2017-03-20 15:44:55 -0500,/t/linux,Application crash consistency and performance with CCFS,https://blog.acolyer.org/2017/03/15/application-crash-consistency-and-performance-with-ccfs/,/u/xcombelle,4
+0,2017-03-20 12:27:38 -0500,/t/databases,Trying out PostgreSQL Bloom indexes,http://www.cybertec.at/trying-out-postgres-bloom-indexes/,/u/pushcx,6
+0,2017-03-20 17:12:52 -0500,/t/historical,Children of the Miracle: from Algol to Prolog,https://vanemden.wordpress.com/2017/03/18/children-of-the-miracle-from-algol-to-prolog/,/u/qznc,3
+2,2017-03-19 20:02:45 -0500,"/t/browsers,/t/security,/t/virtualization","Virtual machine escape fetches $105,000 at Pwn2Own hacking contest",https://arstechnica.co.uk/security/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/,/u/pizzaiolo,26

@@ -1,25 +1,25 @@
-0,2017-03-23 13:43:11 -0500,"['/t/hardware', '/t/historical']",How Old is the Remote?,http://hackaday.com/2017/03/16/retrotechtacular-how-old-is-the-remote/,/u/flyingfisch,1
-0,2017-03-23 13:42:38 -0500,['/t/css'],Hassle-free Full Bleed with *:not(),http://daverupert.com/2017/03/full-bleed-with-not/,/u/flyingfisch,1
-1,2017-03-23 08:50:41 -0500,"['/t/css', '/t/practices']",Thoughts on Negative Margins,http://daverupert.com/2017/03/thoughts-on-negative-margins/,/u/flyingfisch,1
-2,2017-03-22 13:06:03 -0500,"['/t/linux', '/t/release']",bcachefs: The COW filesystem that won't eat your data,http://bcachefs.org/,/u/pushcx,15
-0,2017-03-23 12:17:25 -0500,['/t/programming'],Hazelcast + Big Data: Interview with Ben Evans,https://blog.hazelcast.com/interview-ben-evans/,/u/ax,1
-0,2017-03-22 19:28:07 -0500,['/t/graphics'],Secret colours of the Commodore 64,http://www.aaronbell.com/secret-colours-of-the-commodore-64/,/u/pushcx,10
-0,2017-03-23 01:58:13 -0500,['/t/web'],"I've been a Web Developer for 17 Years, and this is what I learned",http://community.risingstack.com/ive-been-a-web-developer-for-17-years-and-this-is-what-i-learned-daniel-khan/,/u/av,4
-0,2017-03-22 20:11:07 -0500,"['/t/elm', '/t/programming']",Where Am I? Geolocation in Elm,https://jpvillaisaza.github.io/2017/03/22/where-am-i-geolocation-in-elm/,/u/jpvillaisaza,4
-0,2017-03-23 10:16:35 -0500,['/t/javascript'],Visualizing Daylight Saving Time,http://cushionapp.com/journal/visualizing-daylight-saving-time,/u/NanoXD,1
-8,2017-03-22 09:47:11 -0500,['/t/programming'],Stack Overflow Developer Survey Results 2017,https://stackoverflow.com/insights/survey/2017,/u/pushcx,12
-8,2017-03-22 04:51:26 -0500,['/t/programming'],Your calendrical fallacy is thinking...,http://yourcalendricalfallacyis.com/,/u/C-Keen,20
-0,2017-03-23 05:22:42 -0500,"['/t/debugging', '/t/practices']",The Debugging Mindset - ACM Queue,http://queue.acm.org/detail.cfm?id=3068754,/u/adaszko,2
-1,2017-03-22 20:52:28 -0500,['/t/ruby'],The New ‘Absent Operator’ in Ruby 2.4.1’s Regular Expressions,https://medium.com/rubyinside/the-new-absent-operator-in-ruby-s-regular-expressions-7c3ef6cd0b99,/u/peterc,2
-0,2017-03-22 17:24:24 -0500,"['/t/linux', '/t/reversing']",Efficient File Copying On Linux,https://eklitzke.org/efficient-file-copying-on-linux,/u/pushcx,9
-3,2017-03-22 04:55:33 -0500,"['/t/pdf', '/t/reversing']",PoC||GTFO Issue 0x14,https://www.alchemistowl.org/pocorgtfo/pocorgtfo14.pdf,/u/fcbsd,27
-4,2017-03-22 16:52:25 -0500,['/t/math'],Powers of the golden ratio are close to integers,https://www.johndcook.com/blog/2017/03/22/golden-powers-are-nearly-integers/,/u/pushcx,4
-2,2017-03-22 13:42:35 -0500,"['/t/databases', '/t/distributed', '/t/practices', '/t/scaling']",Pattern: Using Pseudo-URIs with Microservices,http://philcalcado.com/2017/03/22/pattern_using_seudo-uris_with_microservices.html,/u/pcalcado,4
-2,2017-03-22 15:58:40 -0500,['/t/release'],TruffleHog: find high-entropy strings in git repos,https://github.com/dxa4481/truffleHog,/u/pushcx,5
-3,2017-03-22 06:43:56 -0500,"['/t/lisp', '/t/programming']",Penti Chorded Keyboard,http://software-lab.de/penti.html,/u/C-Keen,16
-13,2017-03-22 04:02:18 -0500,['/t/philosophy'],"""This was a couple of software engineers who put this in for whatever reason,"" (2015)",https://8thlight.com/blog/uncle-bob/2015/10/14/VW.html,/u/hoopla,14
-0,2017-03-22 15:02:09 -0500,"['/t/c', '/t/lisp', '/t/programming']",Modern C++ and Lisp Programming Style,https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/,/u/chadski,8
-0,2017-03-22 15:39:42 -0500,"['/t/databases', '/t/math']",The Sultan's Riddle,https://explainextended.com/2016/12/31/happy-new-year-8/,/u/pushcx,6
-1,2017-03-22 02:52:35 -0500,"['/t/javascript', '/t/python']",JavaScript vs. Python in 2017,https://hackernoon.com/javascript-vs-python-in-2017-d31efbb641b4,/u/av,22
-3,2017-03-21 20:44:41 -0500,"['/t/programming', '/t/security']",Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware,https://motherboard.vice.com/en_us/article/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware,/u/vyodaiken,36
-0,2017-03-22 22:41:49 -0500,['/t/api'],Platforms vs. Products,https://blog.keen.io/platforms-vs-products-8994f4d726c7#.fqjjmhmj9,/u/wetzler,2
+0,2017-03-23 13:43:11 -0500,"/t/hardware,/t/historical",How Old is the Remote?,http://hackaday.com/2017/03/16/retrotechtacular-how-old-is-the-remote/,/u/flyingfisch,1
+0,2017-03-23 13:42:38 -0500,/t/css,Hassle-free Full Bleed with *:not(),http://daverupert.com/2017/03/full-bleed-with-not/,/u/flyingfisch,1
+1,2017-03-23 08:50:41 -0500,"/t/css,/t/practices",Thoughts on Negative Margins,http://daverupert.com/2017/03/thoughts-on-negative-margins/,/u/flyingfisch,1
+2,2017-03-22 13:06:03 -0500,"/t/linux,/t/release",bcachefs: The COW filesystem that won't eat your data,http://bcachefs.org/,/u/pushcx,15
+0,2017-03-23 12:17:25 -0500,/t/programming,Hazelcast + Big Data: Interview with Ben Evans,https://blog.hazelcast.com/interview-ben-evans/,/u/ax,1
+0,2017-03-22 19:28:07 -0500,/t/graphics,Secret colours of the Commodore 64,http://www.aaronbell.com/secret-colours-of-the-commodore-64/,/u/pushcx,10
+0,2017-03-23 01:58:13 -0500,/t/web,"I've been a Web Developer for 17 Years, and this is what I learned",http://community.risingstack.com/ive-been-a-web-developer-for-17-years-and-this-is-what-i-learned-daniel-khan/,/u/av,4
+0,2017-03-22 20:11:07 -0500,"/t/elm,/t/programming",Where Am I? Geolocation in Elm,https://jpvillaisaza.github.io/2017/03/22/where-am-i-geolocation-in-elm/,/u/jpvillaisaza,4
+0,2017-03-23 10:16:35 -0500,/t/javascript,Visualizing Daylight Saving Time,http://cushionapp.com/journal/visualizing-daylight-saving-time,/u/NanoXD,1
+8,2017-03-22 09:47:11 -0500,/t/programming,Stack Overflow Developer Survey Results 2017,https://stackoverflow.com/insights/survey/2017,/u/pushcx,12
+8,2017-03-22 04:51:26 -0500,/t/programming,Your calendrical fallacy is thinking...,http://yourcalendricalfallacyis.com/,/u/C-Keen,20
+0,2017-03-23 05:22:42 -0500,"/t/debugging,/t/practices",The Debugging Mindset - ACM Queue,http://queue.acm.org/detail.cfm?id=3068754,/u/adaszko,2
+1,2017-03-22 20:52:28 -0500,/t/ruby,The New ‘Absent Operator’ in Ruby 2.4.1’s Regular Expressions,https://medium.com/rubyinside/the-new-absent-operator-in-ruby-s-regular-expressions-7c3ef6cd0b99,/u/peterc,2
+0,2017-03-22 17:24:24 -0500,"/t/linux,/t/reversing",Efficient File Copying On Linux,https://eklitzke.org/efficient-file-copying-on-linux,/u/pushcx,9
+3,2017-03-22 04:55:33 -0500,"/t/pdf,/t/reversing",PoC||GTFO Issue 0x14,https://www.alchemistowl.org/pocorgtfo/pocorgtfo14.pdf,/u/fcbsd,27
+4,2017-03-22 16:52:25 -0500,/t/math,Powers of the golden ratio are close to integers,https://www.johndcook.com/blog/2017/03/22/golden-powers-are-nearly-integers/,/u/pushcx,4
+2,2017-03-22 13:42:35 -0500,"/t/databases,/t/distributed,/t/practices,/t/scaling",Pattern: Using Pseudo-URIs with Microservices,http://philcalcado.com/2017/03/22/pattern_using_seudo-uris_with_microservices.html,/u/pcalcado,4
+2,2017-03-22 15:58:40 -0500,/t/release,TruffleHog: find high-entropy strings in git repos,https://github.com/dxa4481/truffleHog,/u/pushcx,5
+3,2017-03-22 06:43:56 -0500,"/t/lisp,/t/programming",Penti Chorded Keyboard,http://software-lab.de/penti.html,/u/C-Keen,16
+13,2017-03-22 04:02:18 -0500,/t/philosophy,"""This was a couple of software engineers who put this in for whatever reason,"" (2015)",https://8thlight.com/blog/uncle-bob/2015/10/14/VW.html,/u/hoopla,14
+0,2017-03-22 15:02:09 -0500,"/t/c,/t/lisp,/t/programming",Modern C++ and Lisp Programming Style,https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/,/u/chadski,8
+0,2017-03-22 15:39:42 -0500,"/t/databases,/t/math",The Sultan's Riddle,https://explainextended.com/2016/12/31/happy-new-year-8/,/u/pushcx,6
+1,2017-03-22 02:52:35 -0500,"/t/javascript,/t/python",JavaScript vs. Python in 2017,https://hackernoon.com/javascript-vs-python-in-2017-d31efbb641b4,/u/av,22
+3,2017-03-21 20:44:41 -0500,"/t/programming,/t/security",Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware,https://motherboard.vice.com/en_us/article/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware,/u/vyodaiken,36
+0,2017-03-22 22:41:49 -0500,/t/api,Platforms vs. Products,https://blog.keen.io/platforms-vs-products-8994f4d726c7#.fqjjmhmj9,/u/wetzler,2

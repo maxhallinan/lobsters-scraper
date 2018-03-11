@@ -1,25 +1,25 @@
-9,2012-12-09 15:14:57 -0600,['/t/release'],Indirection is not Abstraction,http://zedshaw.com/essays/indirection_is_not_abstraction.html,/u/steveklabnik,9
-2,2012-12-09 15:55:59 -0600,['/t/unix'],The UNIX Philosophy and a Fear of Pixels,http://prog21.dadgum.com/159.html,/u/kyle,11
-4,2012-12-09 08:24:07 -0600,"['/t/ruby', '/t/web']",Better error page for Rails and other Rack apps,https://github.com/charliesome/better_errors,/u/jerodsanto,16
-0,2012-12-09 21:12:50 -0600,"['/t/philosophy', '/t/science']",The Folly of Scientism,http://www.thenewatlantis.com/publications/the-folly-of-scientism,/u/steveklabnik,5
-0,2012-12-09 20:48:18 -0600,['/t/go'],Go Data Structures: Interfaces (2009),http://research.swtch.com/interfaces,/u/kyle,5
-0,2012-12-09 22:24:01 -0600,"['/t/design', '/t/mobile', '/t/web']",The Magazines,http://patrickbgibson.com/post/37610752007/the-magazines,/u/tomdale,2
-0,2012-12-09 11:26:43 -0600,"['/t/browsers', '/t/networking', '/t/security']",The First Few Milliseconds of an HTTPS Connection (2009),http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html,/u/jcs,7
-1,2012-12-09 13:33:19 -0600,"['/t/pdf', '/t/ruby']",Implementation Details of Ruby 2.0 VM (Slides from Koichi Sasada's RubyConf talk),http://www.atdot.net/~ko1/activities/rubyconf.tw2012_ko1.pdf,/u/andrew,4
-11,2012-12-08 14:53:17 -0600,['/t/compsci'],The PLT Games: monthly programming language competition,http://www.pltgames.com/competition/2012/12,/u/puffnfresh,8
-0,2012-12-08 16:00:43 -0600,['/t/design'],The Anti-Mac User Interface (Don Gentner and Jakob Nielsen) [1996],http://www.useit.com/papers/anti-mac.html,/u/tobym,8
-0,2012-12-08 16:25:47 -0600,['/t/philosophy'],Disconnect « The Bygone Bureau,http://bygonebureau.com/2012/12/05/disconnect/,/u/rbxbx,3
-0,2012-12-08 12:59:20 -0600,"['/t/devops', '/t/release']",sysadvent: Day 8 - Scheduling Projects with TaskJuggler,http://sysadvent.blogspot.com/2012/12/day-8-scheduling-projects-with.html,/u/jcs,2
-0,2012-12-07 17:46:26 -0600,"['/t/openbsd', '/t/release']","OpenSMTPD: fully virtual setups, updated DNS & MTA code and SQLite support :)",https://www.poolp.org/0x7316/OpenSMTPD:-fully-virtual-setups-updated-DNS--MTA-code-SQLite-support,/u/virtualroot,7
-0,2012-12-07 16:53:48 -0600,"['/t/philosophy', '/t/release']",Deleuze for Developers: Deterritorialization,http://words.steveklabnik.com/deleuze-for-developers-deterritorialization,/u/steveklabnik,6
-0,2012-12-07 13:59:18 -0600,['/t/python'],The Code Of Conduct — jesse noller,http://jessenoller.com/blog/2012/12/7/the-code-of-conduct,/u/tef,8
-1,2012-12-07 20:35:34 -0600,['/t/satire'],How To Write Unmaintainable Code,http://thc.org/root/phun/unmaintain.html,/u/janogonzalez,6
-51,2012-12-06 13:01:05 -0600,['/t/show'],Ask Lobsters: What are you working on?,/s/pu55v6/ask_lobsters_what_are_you_working_on,/u/jcs,25
-1,2012-12-06 15:22:17 -0600,"['/t/compsci', '/t/haskell', '/t/ruby']","From Ruby to Haskell, Part 1: Testing",http://bendyworks.com/geekville/articles/2012/12/from-ruby-to-haskell-part-1-testing,/u/rbxbx,15
-2,2012-12-06 23:35:28 -0600,['/t/security'],Responsible Disclosure Can Be Anything But,http://daeken.com/responsible-disclosure-can-be-anything-but,/u/jcs,5
-5,2012-12-06 10:28:10 -0600,"['/t/compsci', '/t/philosophy']",10 Reasons to Avoid Test Driven Development,http://www.softwareandi.com/2011/12/10-reasons-to-avoid-test-driven.html,/u/tobym,13
-1,2012-12-06 17:02:42 -0600,"['/t/person', '/t/ruby']",An Interview With Jim Weirich,http://rubysource.com/an-interview-with-jim-weirich/,/u/rob,6
-0,2012-12-06 14:58:16 -0600,['/t/go'],Early results from high-performance NATS server,https://gist.github.com/4227635,/u/kyle,3
-1,2012-12-06 16:14:10 -0600,['/t/meta'],"""Who's Hiring?"" threads at Lobsters?",/s/xj3jm4/who_s_hiring_threads_at_lobsters,/u/polyfractal,5
-0,2012-12-06 06:43:49 -0600,['/t/ruby'],Everything you ever wanted to know about constant lookup in Ruby,http://cirw.in/blog/constant-lookup,/u/rob,6
-5,2012-12-05 15:12:39 -0600,"['/t/compsci', '/t/release']","Try R - A New, Free Course From CodeSchool",http://tryr.codeschool.com/,/u/rob,15
+9,2012-12-09 15:14:57 -0600,/t/release,Indirection is not Abstraction,http://zedshaw.com/essays/indirection_is_not_abstraction.html,/u/steveklabnik,9
+2,2012-12-09 15:55:59 -0600,/t/unix,The UNIX Philosophy and a Fear of Pixels,http://prog21.dadgum.com/159.html,/u/kyle,11
+4,2012-12-09 08:24:07 -0600,"/t/ruby,/t/web",Better error page for Rails and other Rack apps,https://github.com/charliesome/better_errors,/u/jerodsanto,16
+0,2012-12-09 21:12:50 -0600,"/t/philosophy,/t/science",The Folly of Scientism,http://www.thenewatlantis.com/publications/the-folly-of-scientism,/u/steveklabnik,5
+0,2012-12-09 20:48:18 -0600,/t/go,Go Data Structures: Interfaces (2009),http://research.swtch.com/interfaces,/u/kyle,5
+0,2012-12-09 22:24:01 -0600,"/t/design,/t/mobile,/t/web",The Magazines,http://patrickbgibson.com/post/37610752007/the-magazines,/u/tomdale,2
+0,2012-12-09 11:26:43 -0600,"/t/browsers,/t/networking,/t/security",The First Few Milliseconds of an HTTPS Connection (2009),http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html,/u/jcs,7
+1,2012-12-09 13:33:19 -0600,"/t/pdf,/t/ruby",Implementation Details of Ruby 2.0 VM (Slides from Koichi Sasada's RubyConf talk),http://www.atdot.net/~ko1/activities/rubyconf.tw2012_ko1.pdf,/u/andrew,4
+11,2012-12-08 14:53:17 -0600,/t/compsci,The PLT Games: monthly programming language competition,http://www.pltgames.com/competition/2012/12,/u/puffnfresh,8
+0,2012-12-08 16:00:43 -0600,/t/design,The Anti-Mac User Interface (Don Gentner and Jakob Nielsen) [1996],http://www.useit.com/papers/anti-mac.html,/u/tobym,8
+0,2012-12-08 16:25:47 -0600,/t/philosophy,Disconnect « The Bygone Bureau,http://bygonebureau.com/2012/12/05/disconnect/,/u/rbxbx,3
+0,2012-12-08 12:59:20 -0600,"/t/devops,/t/release",sysadvent: Day 8 - Scheduling Projects with TaskJuggler,http://sysadvent.blogspot.com/2012/12/day-8-scheduling-projects-with.html,/u/jcs,2
+0,2012-12-07 17:46:26 -0600,"/t/openbsd,/t/release","OpenSMTPD: fully virtual setups, updated DNS & MTA code and SQLite support :)",https://www.poolp.org/0x7316/OpenSMTPD:-fully-virtual-setups-updated-DNS--MTA-code-SQLite-support,/u/virtualroot,7
+0,2012-12-07 16:53:48 -0600,"/t/philosophy,/t/release",Deleuze for Developers: Deterritorialization,http://words.steveklabnik.com/deleuze-for-developers-deterritorialization,/u/steveklabnik,6
+0,2012-12-07 13:59:18 -0600,/t/python,The Code Of Conduct — jesse noller,http://jessenoller.com/blog/2012/12/7/the-code-of-conduct,/u/tef,8
+1,2012-12-07 20:35:34 -0600,/t/satire,How To Write Unmaintainable Code,http://thc.org/root/phun/unmaintain.html,/u/janogonzalez,6
+51,2012-12-06 13:01:05 -0600,/t/show,Ask Lobsters: What are you working on?,/s/pu55v6/ask_lobsters_what_are_you_working_on,/u/jcs,25
+1,2012-12-06 15:22:17 -0600,"/t/compsci,/t/haskell,/t/ruby","From Ruby to Haskell, Part 1: Testing",http://bendyworks.com/geekville/articles/2012/12/from-ruby-to-haskell-part-1-testing,/u/rbxbx,15
+2,2012-12-06 23:35:28 -0600,/t/security,Responsible Disclosure Can Be Anything But,http://daeken.com/responsible-disclosure-can-be-anything-but,/u/jcs,5
+5,2012-12-06 10:28:10 -0600,"/t/compsci,/t/philosophy",10 Reasons to Avoid Test Driven Development,http://www.softwareandi.com/2011/12/10-reasons-to-avoid-test-driven.html,/u/tobym,13
+1,2012-12-06 17:02:42 -0600,"/t/person,/t/ruby",An Interview With Jim Weirich,http://rubysource.com/an-interview-with-jim-weirich/,/u/rob,6
+0,2012-12-06 14:58:16 -0600,/t/go,Early results from high-performance NATS server,https://gist.github.com/4227635,/u/kyle,3
+1,2012-12-06 16:14:10 -0600,/t/meta,"""Who's Hiring?"" threads at Lobsters?",/s/xj3jm4/who_s_hiring_threads_at_lobsters,/u/polyfractal,5
+0,2012-12-06 06:43:49 -0600,/t/ruby,Everything you ever wanted to know about constant lookup in Ruby,http://cirw.in/blog/constant-lookup,/u/rob,6
+5,2012-12-05 15:12:39 -0600,"/t/compsci,/t/release","Try R - A New, Free Course From CodeSchool",http://tryr.codeschool.com/,/u/rob,15

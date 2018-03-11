@@ -1,25 +1,25 @@
-0,2018-02-22 06:11:07 -0600,"['/t/pdf', '/t/programming', '/t/web']",Semantics and Complexity of GraphQL,http://olafhartig.de/files/HartigPerez_WWW2018_Preprint.pdf,/u/balajmarius,6
-0,2018-02-22 12:32:05 -0600,['/t/python'],Truthiness and Short-Circuit Evaluation in Python,http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python,/u/jrheard,1
-1,2018-02-21 19:06:22 -0600,"['/t/law', '/t/linux']","Bruce Perens Seeks Mandatory Award of Legal Fees For His Defense in Open Source Security, Inc. and Bradley Spengler v. Bruce Perens",https://perens.com/2018/02/08/bruce-perens-seeks-mandatory-award-of-legal-fees-for-his-defense-in-open-source-security-inc-and-bradley-spengler-v-bruce-perens/,/u/fro,20
-0,2018-02-22 05:23:32 -0600,['/t/go'],"research!rsc: Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5)",https://research.swtch.com/vgo-repro,/u/4ad,6
-0,2018-02-22 13:20:52 -0600,"['/t/pdf', '/t/distributed', '/t/plt', '/t/programming']",Orca: GC and Type System Co-Design for Actor Languages (2017),https://www.doc.ic.ac.uk/~jvicent1/papers/2017/oopsla.pdf,/u/nickpsecurity,2
-0,2018-02-22 02:45:13 -0600,"['/t/api', '/t/programming']",Breaking and Mending Compatibility,https://michaelfeathers.silvrback.com/breaking-and-mending-compatibility,/u/mfeathers,4
-0,2018-02-22 04:45:03 -0600,"['/t/distributed', '/t/games']",Networked Physics in Virtual Reality: Networking a stack of cubes with Unity and PhysX,https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/,/u/friendlysock,5
-0,2018-02-22 08:22:14 -0600,"['/t/compsci', '/t/distributed', '/t/education', '/t/performance', '/t/web']",A vendor neutral open approach to decoupled data synchronization,https://blog.ably.io/a-vendor-neutral-open-approach-to-decoupled-data-synchronization-26d8914cb28b,/u/ms_dory,3
-0,2018-02-22 05:27:30 -0600,['/t/programming'],Observations on Buffering,https://grimoire.ca/dev/buffers,/u/adsouza,4
-5,2018-02-21 19:06:55 -0600,['/t/web'],Google Thinks The Future Of The Web Is . . . Email,https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email,/u/flyingfisch,6
-0,2018-02-22 10:47:34 -0600,['/t/web'],"Goodbye Disqus, Hello HTTPS with Lets Encrypt",https://www.briandorey.com/post/goodbye-disqus-hello-https-with-lets-encrypt,/u/flyingfisch,1
-4,2018-02-21 13:28:01 -0600,"['/t/databases', '/t/performance', '/t/scaling', '/t/testing']",Testing Database Changes the Right Way,https://heapanalytics.com/blog/engineering/testing-database-changes-right-way,/u/malisper,6
-1,2018-02-21 12:01:17 -0600,"['/t/video', '/t/hardware']",How a 555 Timer IC Works,https://www.youtube.com/watch?v=i0SNb__dkYI,/u/flyingfisch,17
-0,2018-02-21 14:32:53 -0600,['/t/rust'],Programming an ARM microcontroller in Rust at four different levels of abstraction,http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/,/u/alva,14
-0,2018-02-22 05:21:18 -0600,['/t/go'],"Dissecting golang's HandlerFunc, Handle and DefaultServeMux",http://echorand.me/dissecting-golangs-handlerfunc-handle-and-defaultservemux.html,/u/fkr,2
-0,2018-02-21 09:52:11 -0600,"['/t/games', '/t/networking', '/t/programming']",The Poor Man's Netcode,http://etodd.io/2018/02/20/poor-mans-netcode/,/u/calvin,22
-0,2018-02-22 14:33:42 -0600,"['/t/pdf', '/t/security']",MeltdownPrime and SpectrePrime,https://arxiv.org/pdf/1802.03802.pdf,/u/rzhikharevich,0
-0,2018-02-21 16:57:21 -0600,"['/t/dotnet', '/t/programming']",Building a Secure Containerized Microservice With .NET Core,https://dzone.com/articles/building-a-secure-containerized-microservice-with,/u/JeremyMorgan,4
-0,2018-02-21 16:50:11 -0600,['/t/go'],"research!rsc: Minimal Version Selection (Go & Versioning, Part 4)",https://research.swtch.com/vgo-mvs,/u/4ad,8
-1,2018-02-22 11:40:42 -0600,['/t/culture'],"CounterSocial - a social network with a zero tolerance policy for bots, trolls, and hostile nations",https://counter.social/about,/u/lukas,1
-3,2018-02-21 11:25:33 -0600,"['/t/security', '/t/web']",Let's Encrypt: ACMEv2 and Wildcard Launch Delays,https://community.letsencrypt.org/t/acmev2-and-wildcard-launch-delay/53654,/u/zpojqwfejwfhiunz,9
-4,2018-02-21 04:27:03 -0600,['/t/practices'],The Secret Power of ‘Read It Later’ Apps,https://praxis.fortelabs.co/the-secret-power-of-read-it-later-apps-6c75cc37ef42,/u/mulander,16
-0,2018-02-22 00:06:20 -0600,['/t/job'],"Austin, Denver, and Detroit are Good Places to Be a Software Engineer Looking for a Job",https://www.spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/austin-denver-and-detroit-are-good-places-to-be-a-software-engineer-looking-for-a-job,/u/wyclif,2
-2,2018-02-21 11:16:46 -0600,['/t/databases'],How to use QueryClips to track your weekly user growth,https://www.queryclips.com/posts/how-to-use-queryclips-to-build-automatic-weekly-user-growth-reports,/u/dpaola2,2
-0,2018-02-21 20:26:39 -0600,"['/t/compsci', '/t/math']",I don’t understand Graph Theory.,https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401,/u/calvin,3
+0,2018-02-22 06:11:07 -0600,"/t/pdf,/t/programming,/t/web",Semantics and Complexity of GraphQL,http://olafhartig.de/files/HartigPerez_WWW2018_Preprint.pdf,/u/balajmarius,6
+0,2018-02-22 12:32:05 -0600,/t/python,Truthiness and Short-Circuit Evaluation in Python,http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python,/u/jrheard,1
+1,2018-02-21 19:06:22 -0600,"/t/law,/t/linux","Bruce Perens Seeks Mandatory Award of Legal Fees For His Defense in Open Source Security, Inc. and Bradley Spengler v. Bruce Perens",https://perens.com/2018/02/08/bruce-perens-seeks-mandatory-award-of-legal-fees-for-his-defense-in-open-source-security-inc-and-bradley-spengler-v-bruce-perens/,/u/fro,20
+0,2018-02-22 05:23:32 -0600,/t/go,"research!rsc: Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5)",https://research.swtch.com/vgo-repro,/u/4ad,6
+0,2018-02-22 13:20:52 -0600,"/t/pdf,/t/distributed,/t/plt,/t/programming",Orca: GC and Type System Co-Design for Actor Languages (2017),https://www.doc.ic.ac.uk/~jvicent1/papers/2017/oopsla.pdf,/u/nickpsecurity,2
+0,2018-02-22 02:45:13 -0600,"/t/api,/t/programming",Breaking and Mending Compatibility,https://michaelfeathers.silvrback.com/breaking-and-mending-compatibility,/u/mfeathers,4
+0,2018-02-22 04:45:03 -0600,"/t/distributed,/t/games",Networked Physics in Virtual Reality: Networking a stack of cubes with Unity and PhysX,https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/,/u/friendlysock,5
+0,2018-02-22 08:22:14 -0600,"/t/compsci,/t/distributed,/t/education,/t/performance,/t/web",A vendor neutral open approach to decoupled data synchronization,https://blog.ably.io/a-vendor-neutral-open-approach-to-decoupled-data-synchronization-26d8914cb28b,/u/ms_dory,3
+0,2018-02-22 05:27:30 -0600,/t/programming,Observations on Buffering,https://grimoire.ca/dev/buffers,/u/adsouza,4
+5,2018-02-21 19:06:55 -0600,/t/web,Google Thinks The Future Of The Web Is . . . Email,https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email,/u/flyingfisch,6
+0,2018-02-22 10:47:34 -0600,/t/web,"Goodbye Disqus, Hello HTTPS with Lets Encrypt",https://www.briandorey.com/post/goodbye-disqus-hello-https-with-lets-encrypt,/u/flyingfisch,1
+4,2018-02-21 13:28:01 -0600,"/t/databases,/t/performance,/t/scaling,/t/testing",Testing Database Changes the Right Way,https://heapanalytics.com/blog/engineering/testing-database-changes-right-way,/u/malisper,6
+1,2018-02-21 12:01:17 -0600,"/t/video,/t/hardware",How a 555 Timer IC Works,https://www.youtube.com/watch?v=i0SNb__dkYI,/u/flyingfisch,17
+0,2018-02-21 14:32:53 -0600,/t/rust,Programming an ARM microcontroller in Rust at four different levels of abstraction,http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/,/u/alva,14
+0,2018-02-22 05:21:18 -0600,/t/go,"Dissecting golang's HandlerFunc, Handle and DefaultServeMux",http://echorand.me/dissecting-golangs-handlerfunc-handle-and-defaultservemux.html,/u/fkr,2
+0,2018-02-21 09:52:11 -0600,"/t/games,/t/networking,/t/programming",The Poor Man's Netcode,http://etodd.io/2018/02/20/poor-mans-netcode/,/u/calvin,22
+0,2018-02-22 14:33:42 -0600,"/t/pdf,/t/security",MeltdownPrime and SpectrePrime,https://arxiv.org/pdf/1802.03802.pdf,/u/rzhikharevich,0
+0,2018-02-21 16:57:21 -0600,"/t/dotnet,/t/programming",Building a Secure Containerized Microservice With .NET Core,https://dzone.com/articles/building-a-secure-containerized-microservice-with,/u/JeremyMorgan,4
+0,2018-02-21 16:50:11 -0600,/t/go,"research!rsc: Minimal Version Selection (Go & Versioning, Part 4)",https://research.swtch.com/vgo-mvs,/u/4ad,8
+1,2018-02-22 11:40:42 -0600,/t/culture,"CounterSocial - a social network with a zero tolerance policy for bots, trolls, and hostile nations",https://counter.social/about,/u/lukas,1
+3,2018-02-21 11:25:33 -0600,"/t/security,/t/web",Let's Encrypt: ACMEv2 and Wildcard Launch Delays,https://community.letsencrypt.org/t/acmev2-and-wildcard-launch-delay/53654,/u/zpojqwfejwfhiunz,9
+4,2018-02-21 04:27:03 -0600,/t/practices,The Secret Power of ‘Read It Later’ Apps,https://praxis.fortelabs.co/the-secret-power-of-read-it-later-apps-6c75cc37ef42,/u/mulander,16
+0,2018-02-22 00:06:20 -0600,/t/job,"Austin, Denver, and Detroit are Good Places to Be a Software Engineer Looking for a Job",https://www.spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/austin-denver-and-detroit-are-good-places-to-be-a-software-engineer-looking-for-a-job,/u/wyclif,2
+2,2018-02-21 11:16:46 -0600,/t/databases,How to use QueryClips to track your weekly user growth,https://www.queryclips.com/posts/how-to-use-queryclips-to-build-automatic-weekly-user-growth-reports,/u/dpaola2,2
+0,2018-02-21 20:26:39 -0600,"/t/compsci,/t/math",I don’t understand Graph Theory.,https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401,/u/calvin,3

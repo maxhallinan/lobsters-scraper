@@ -1,25 +1,25 @@
-1,2017-06-25 08:48:12 -0500,"['/t/culture', '/t/historical', '/t/unix']","Set the WABAC to 1984: Henry Spencer getopt, and the roots of open source",http://esr.ibiblio.org/?p=7552,/u/calvin,1
-0,2017-06-24 01:49:03 -0500,['/t/linux'],Typing Nix,http://www.tweag.io/posts/2017-05-23-typing-nix.html,/u/nixy,14
-2,2017-06-24 06:26:06 -0500,"['/t/compsci', '/t/python']",Myers Diff Algorithm - Code & Interactive Visualization,http://blog.robertelder.org/diff-algorithm/,/u/calvin,5
-3,2017-06-24 01:19:53 -0500,['/t/ai'],One Model To Learn Them All,https://arxiv.org/abs/1706.05137,/u/bsima,8
-13,2017-06-23 14:27:15 -0500,['/t/unix'],Building and Installing Software in $HOME,http://nullprogram.com/blog/2017/06/19/,/u/hobbes,21
-128,2017-06-22 17:07:28 -0500,"['/t/ask', '/t/practices']",Lobsters battlestations and screenshots (2017),/s/uyw4pq/lobsters_battlestations_screenshots,/u/calvin,77
-2,2017-06-23 14:20:09 -0500,"['/t/book', '/t/practices']",books chapter one,http://www.tedunangst.com/flak/post/books-chapter-one,/u/calvin,14
-4,2017-06-23 15:59:55 -0500,['/t/privacy'],Google Will Stop Reading Your Emails for Gmail Ads,https://www.bloomberg.com/news/articles/2017-06-23/google-will-stop-reading-your-emails-for-gmail-ads,/u/chadski,5
-7,2017-06-23 07:21:01 -0500,"['/t/networking', '/t/security']",Unprotected Redis Instances in the Wild,https://gkbrk.com/2017/06/unprotected-redis/,/u/gkbrk,9
-0,2017-06-23 17:01:41 -0500,"['/t/elixir', '/t/web']",Working with the new Phoenix 1.3 directory structure – A Love Story,https://blog.jakewilkins.com/2017/06/23/working-with-phoenix-1-3-directory-structure-a-love-story/,/u/havenwood,11
-3,2017-06-23 17:09:06 -0500,['/t/person'],Luca Cardelli,http://lucacardelli.name/,/u/bsima,8
-0,2017-06-24 00:06:37 -0500,"['/t/lisp', '/t/programming']",Clojure concurrency and blocking with core.async,http://eli.thegreenplace.net/2017/clojure-concurrency-and-blocking-with-coreasync/,/u/Yogthos,4
-6,2017-06-23 16:49:57 -0500,"['/t/philosophy', '/t/science']",How Chaos Cures Metaphysics,http://nautil.us/issue/49/the-absurd/chaos-makes-the-multiverse-unnecessary,/u/omphalos,4
-7,2017-06-23 11:27:09 -0500,['/t/ruby'],Rails' CurrentAttributes considered harmful,http://ryanbigg.com/2017/06/current-considered-harmful,/u/pushcx,8
-3,2017-06-23 09:05:09 -0500,"['/t/pdf', '/t/crypto']",Tempest attacks against AES: Stealing keys using minimal equipment,https://www.fox-it.com/nl/wp-content/uploads/sites/12/Tempest_attacks_against_AES.pdf,/u/nyx,10
-1,2017-06-23 15:47:09 -0500,"['/t/api', '/t/programming']",GitHub API Authentication using OAuth 2.0 within Insomnia,https://insomnia.rest/blog/oauth2-github-api/,/u/gschier,3
-4,2017-06-23 06:40:10 -0500,['/t/practices'],On reviewing code,https://www.luu.io/blog/on-reviewing-code,/u/calvin,11
-4,2017-06-23 13:33:16 -0500,['/t/programming'],Is Complexity Bad?,https://making.dia.com/is-complexity-bad-1f0d53e02375,/u/kulte,2
-0,2017-06-23 10:32:11 -0500,"['/t/practices', '/t/science']",Good enough practices in scientific computing,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510,/u/mjn,10
-2,2017-06-23 06:50:05 -0500,['/t/go'],How to not use an http-router in go,http://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html,/u/alek,10
-0,2017-06-23 04:31:16 -0500,"['/t/privacy', '/t/security']",How to hijack hundreds of HTTP connections with DNS typosquatting,https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e,/u/x0rz,10
-1,2017-06-23 09:59:02 -0500,['/t/math'],Mathematical Genealogy,https://jeremykun.com/2017/06/22/mathematical-genealogy/,/u/bsima,6
-0,2017-06-23 10:36:29 -0500,['/t/haskell'],Understanding ResourceT,https://www.fpcomplete.com/blog/2017/06/understanding-resourcet,/u/pushcx,7
-0,2017-06-23 10:25:53 -0500,['/t/programming'],Software Structure,https://www.destroyallsoftware.com/compendium/software-structure?share_key=21c6461398f13111,/u/pushcx,7
-0,2017-06-23 04:42:42 -0500,"['/t/devops', '/t/freebsd', '/t/security']",Using Let's Encrypt within FreeBSD.org - lessons learned and advice (2016),https://blog.crashed.org/letsencrypt-in-freebsd-org/,/u/mjturner,13
+1,2017-06-25 08:48:12 -0500,"/t/culture,/t/historical,/t/unix","Set the WABAC to 1984: Henry Spencer getopt, and the roots of open source",http://esr.ibiblio.org/?p=7552,/u/calvin,1
+0,2017-06-24 01:49:03 -0500,/t/linux,Typing Nix,http://www.tweag.io/posts/2017-05-23-typing-nix.html,/u/nixy,14
+2,2017-06-24 06:26:06 -0500,"/t/compsci,/t/python",Myers Diff Algorithm - Code & Interactive Visualization,http://blog.robertelder.org/diff-algorithm/,/u/calvin,5
+3,2017-06-24 01:19:53 -0500,/t/ai,One Model To Learn Them All,https://arxiv.org/abs/1706.05137,/u/bsima,8
+13,2017-06-23 14:27:15 -0500,/t/unix,Building and Installing Software in $HOME,http://nullprogram.com/blog/2017/06/19/,/u/hobbes,21
+128,2017-06-22 17:07:28 -0500,"/t/ask,/t/practices",Lobsters battlestations and screenshots (2017),/s/uyw4pq/lobsters_battlestations_screenshots,/u/calvin,77
+2,2017-06-23 14:20:09 -0500,"/t/book,/t/practices",books chapter one,http://www.tedunangst.com/flak/post/books-chapter-one,/u/calvin,14
+4,2017-06-23 15:59:55 -0500,/t/privacy,Google Will Stop Reading Your Emails for Gmail Ads,https://www.bloomberg.com/news/articles/2017-06-23/google-will-stop-reading-your-emails-for-gmail-ads,/u/chadski,5
+7,2017-06-23 07:21:01 -0500,"/t/networking,/t/security",Unprotected Redis Instances in the Wild,https://gkbrk.com/2017/06/unprotected-redis/,/u/gkbrk,9
+0,2017-06-23 17:01:41 -0500,"/t/elixir,/t/web",Working with the new Phoenix 1.3 directory structure – A Love Story,https://blog.jakewilkins.com/2017/06/23/working-with-phoenix-1-3-directory-structure-a-love-story/,/u/havenwood,11
+3,2017-06-23 17:09:06 -0500,/t/person,Luca Cardelli,http://lucacardelli.name/,/u/bsima,8
+0,2017-06-24 00:06:37 -0500,"/t/lisp,/t/programming",Clojure concurrency and blocking with core.async,http://eli.thegreenplace.net/2017/clojure-concurrency-and-blocking-with-coreasync/,/u/Yogthos,4
+6,2017-06-23 16:49:57 -0500,"/t/philosophy,/t/science",How Chaos Cures Metaphysics,http://nautil.us/issue/49/the-absurd/chaos-makes-the-multiverse-unnecessary,/u/omphalos,4
+7,2017-06-23 11:27:09 -0500,/t/ruby,Rails' CurrentAttributes considered harmful,http://ryanbigg.com/2017/06/current-considered-harmful,/u/pushcx,8
+3,2017-06-23 09:05:09 -0500,"/t/pdf,/t/crypto",Tempest attacks against AES: Stealing keys using minimal equipment,https://www.fox-it.com/nl/wp-content/uploads/sites/12/Tempest_attacks_against_AES.pdf,/u/nyx,10
+1,2017-06-23 15:47:09 -0500,"/t/api,/t/programming",GitHub API Authentication using OAuth 2.0 within Insomnia,https://insomnia.rest/blog/oauth2-github-api/,/u/gschier,3
+4,2017-06-23 06:40:10 -0500,/t/practices,On reviewing code,https://www.luu.io/blog/on-reviewing-code,/u/calvin,11
+4,2017-06-23 13:33:16 -0500,/t/programming,Is Complexity Bad?,https://making.dia.com/is-complexity-bad-1f0d53e02375,/u/kulte,2
+0,2017-06-23 10:32:11 -0500,"/t/practices,/t/science",Good enough practices in scientific computing,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510,/u/mjn,10
+2,2017-06-23 06:50:05 -0500,/t/go,How to not use an http-router in go,http://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html,/u/alek,10
+0,2017-06-23 04:31:16 -0500,"/t/privacy,/t/security",How to hijack hundreds of HTTP connections with DNS typosquatting,https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e,/u/x0rz,10
+1,2017-06-23 09:59:02 -0500,/t/math,Mathematical Genealogy,https://jeremykun.com/2017/06/22/mathematical-genealogy/,/u/bsima,6
+0,2017-06-23 10:36:29 -0500,/t/haskell,Understanding ResourceT,https://www.fpcomplete.com/blog/2017/06/understanding-resourcet,/u/pushcx,7
+0,2017-06-23 10:25:53 -0500,/t/programming,Software Structure,https://www.destroyallsoftware.com/compendium/software-structure?share_key=21c6461398f13111,/u/pushcx,7
+0,2017-06-23 04:42:42 -0500,"/t/devops,/t/freebsd,/t/security",Using Let's Encrypt within FreeBSD.org - lessons learned and advice (2016),https://blog.crashed.org/letsencrypt-in-freebsd-org/,/u/mjturner,13

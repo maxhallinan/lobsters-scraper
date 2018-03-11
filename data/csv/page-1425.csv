@@ -1,25 +1,25 @@
-0,2013-12-17 17:02:01 -0600,['/t/programming'],(Confessions From A Recovering Typoholic),http://lambda-the-ultimate.org/node/1311,/u/SeanTAllen,3
-0,2013-12-17 22:38:03 -0600,"['/t/design', '/t/javascript', '/t/web']",Create Floating Form Labels with FloatLabel.js or JVFloat.js,http://www.longren.org/create-floating-form-labels-with-floatlabel-js-or-jvfloat-js/,/u/tlongren,1
-2,2013-12-17 09:58:05 -0600,['/t/web'],DevDocs,http://devdocs.io/,/u/jm,3
-0,2013-12-17 18:53:49 -0600,"['/t/compsci', '/t/php', '/t/programming']",Faster and Cheaper: The Evolution of the hhvm JIT,http://www.hhvm.com/blog/2027/faster-and-cheaper-the-evolution-of-the-hhvm-jit,/u/tedu,1
-0,2013-12-17 09:03:22 -0600,"['/t/design', '/t/web']",Google Zeitgeist 2013,http://www.google.com/trends/topcharts?zg=full,/u/tlongren,1
-0,2013-12-17 08:52:07 -0600,['/t/lisp'],Eastwood - a clojure lint tool,https://github.com/jonase/eastwood,/u/SeanTAllen,1
-0,2013-12-16 22:57:50 -0600,"['/t/javascript', '/t/programming']",Avoiding the Monolithic design antipattern with Node.js,http://www.richardrodger.com/monolithic-nodejs,/u/seldo,3
-2,2013-12-16 13:39:09 -0600,['/t/cryptocurrencies'],BitHub = Bitcoin + GitHub. An experiment in funding privacy OSS.,https://whispersystems.org/blog/bithub/,/u/jm,6
-0,2013-12-17 00:25:04 -0600,"['/t/show', '/t/cryptocurrencies', '/t/javascript']","Show Lobsters: Get Bitcoin notifcations, scripted in JavaScript",http://coinbot.co/,/u/bh,2
-0,2013-12-16 13:34:53 -0600,['/t/web'],Optimizing NGINX TLS Time To First Byte (TTTFB),http://www.igvita.com/2013/12/16/optimizing-nginx-tls-time-to-first-byte/,/u/jm,8
-0,2013-12-16 20:09:51 -0600,['/t/compsci'],"Purely Functional Retrogames, Part 1",http://prog21.dadgum.com/23.html?Revisit,/u/jm,3
-0,2013-12-16 18:03:36 -0600,['/t/cryptocurrencies'],Out in the Open: Cyberpunk Builds Bitcoin Wallet That Even Apple Can’t Ban,http://www.wired.com/wiredenterprise/2013/12/coinpunk/,/u/derpiechan,1
-0,2013-12-16 06:29:56 -0600,['/t/programming'],Low-level is easy,http://www.yosefk.com/blog/low-level-is-easy.html,/u/thmzlt,5
-0,2013-12-16 11:25:01 -0600,"['/t/cryptocurrencies', '/t/security']",My run in with Unauthorised Litecoin mining on AWS,http://vertis.io/2013/12/16/unauthorised-litecoin-mining.html,/u/journeysquid,2
-0,2013-12-16 10:49:37 -0600,"['/t/android', '/t/ios', '/t/privacy']",Telegram Messenger For iPhone And Android (oss),http://telegram.org/,/u/bobbywilson0,2
-0,2013-12-16 11:15:06 -0600,['/t/practices'],Bring back the 40-hour work week,http://www.salon.com/2012/03/14/bring_back_the_40_hour_work_week/,/u/jm,1
-0,2013-12-16 09:54:10 -0600,"['/t/video', '/t/javascript', '/t/web']",Notch - Making a game from scratch in 48 hours,http://www.twitch.tv/notch/b/487318324,/u/jm,1
-0,2013-12-16 12:15:40 -0600,['/t/practices'],Revealing Company Info Before Getting an Acquisition LOI,http://shockwaveinnovations.com/2013/09/21/revealing-company-info-before-getting-an-loi/,/u/journeysquid,0
-0,2013-12-16 12:13:30 -0600,['/t/news'],Amazon takes away access to purchased Christmas movie during Christmas,http://boingboing.net/2013/12/15/amazon-takes-away-access-to-pu.html,/u/journeysquid,0
-0,2013-12-15 22:01:45 -0600,"['/t/video', '/t/hardware']",The Copenhagen Wheel,http://www.youtube.com/watch?feature=player_embedded&v=S10GMfG2NMY,/u/jm,3
-0,2013-12-15 18:40:08 -0600,['/t/cryptocurrencies'],Bitcoin Heading To The Cliff At Full Speed,http://www.descaped.com/technology/2013/12/15/bitcoin-heading-to-the-cliff-at-full-speed.html,/u/jm,3
-0,2013-12-16 00:39:07 -0600,"['/t/api', '/t/devops', '/t/person', '/t/programming', '/t/vcs', '/t/web']",Host a Personal Data API on Heroku,http://www.longren.org/host-a-personal-api-on-heroku/,/u/tlongren,1
-0,2013-12-15 16:17:53 -0600,"['/t/games', '/t/programming']","My ""Doom"" 20th Anniversary Stories",http://blog.wilshipley.com/2013/12/my-doom-20th-anniversary-stories.html,/u/journeysquid,3
-0,2013-12-15 16:19:10 -0600,"['/t/news', '/t/science']",The Selling of Attention Deficit Disorder,http://www.nytimes.com/2013/12/15/health/the-selling-of-attention-deficit-disorder.html,/u/journeysquid,2
-0,2013-12-15 13:13:46 -0600,"['/t/programming', '/t/science']",DNA seen through the eyes of a coder,http://ds9a.nl/amazing-dna/,/u/kyle,2
+0,2013-12-17 17:02:01 -0600,/t/programming,(Confessions From A Recovering Typoholic),http://lambda-the-ultimate.org/node/1311,/u/SeanTAllen,3
+0,2013-12-17 22:38:03 -0600,"/t/design,/t/javascript,/t/web",Create Floating Form Labels with FloatLabel.js or JVFloat.js,http://www.longren.org/create-floating-form-labels-with-floatlabel-js-or-jvfloat-js/,/u/tlongren,1
+2,2013-12-17 09:58:05 -0600,/t/web,DevDocs,http://devdocs.io/,/u/jm,3
+0,2013-12-17 18:53:49 -0600,"/t/compsci,/t/php,/t/programming",Faster and Cheaper: The Evolution of the hhvm JIT,http://www.hhvm.com/blog/2027/faster-and-cheaper-the-evolution-of-the-hhvm-jit,/u/tedu,1
+0,2013-12-17 09:03:22 -0600,"/t/design,/t/web",Google Zeitgeist 2013,http://www.google.com/trends/topcharts?zg=full,/u/tlongren,1
+0,2013-12-17 08:52:07 -0600,/t/lisp,Eastwood - a clojure lint tool,https://github.com/jonase/eastwood,/u/SeanTAllen,1
+0,2013-12-16 22:57:50 -0600,"/t/javascript,/t/programming",Avoiding the Monolithic design antipattern with Node.js,http://www.richardrodger.com/monolithic-nodejs,/u/seldo,3
+2,2013-12-16 13:39:09 -0600,/t/cryptocurrencies,BitHub = Bitcoin + GitHub. An experiment in funding privacy OSS.,https://whispersystems.org/blog/bithub/,/u/jm,6
+0,2013-12-17 00:25:04 -0600,"/t/show,/t/cryptocurrencies,/t/javascript","Show Lobsters: Get Bitcoin notifcations, scripted in JavaScript",http://coinbot.co/,/u/bh,2
+0,2013-12-16 13:34:53 -0600,/t/web,Optimizing NGINX TLS Time To First Byte (TTTFB),http://www.igvita.com/2013/12/16/optimizing-nginx-tls-time-to-first-byte/,/u/jm,8
+0,2013-12-16 20:09:51 -0600,/t/compsci,"Purely Functional Retrogames, Part 1",http://prog21.dadgum.com/23.html?Revisit,/u/jm,3
+0,2013-12-16 18:03:36 -0600,/t/cryptocurrencies,Out in the Open: Cyberpunk Builds Bitcoin Wallet That Even Apple Can’t Ban,http://www.wired.com/wiredenterprise/2013/12/coinpunk/,/u/derpiechan,1
+0,2013-12-16 06:29:56 -0600,/t/programming,Low-level is easy,http://www.yosefk.com/blog/low-level-is-easy.html,/u/thmzlt,5
+0,2013-12-16 11:25:01 -0600,"/t/cryptocurrencies,/t/security",My run in with Unauthorised Litecoin mining on AWS,http://vertis.io/2013/12/16/unauthorised-litecoin-mining.html,/u/journeysquid,2
+0,2013-12-16 10:49:37 -0600,"/t/android,/t/ios,/t/privacy",Telegram Messenger For iPhone And Android (oss),http://telegram.org/,/u/bobbywilson0,2
+0,2013-12-16 11:15:06 -0600,/t/practices,Bring back the 40-hour work week,http://www.salon.com/2012/03/14/bring_back_the_40_hour_work_week/,/u/jm,1
+0,2013-12-16 09:54:10 -0600,"/t/video,/t/javascript,/t/web",Notch - Making a game from scratch in 48 hours,http://www.twitch.tv/notch/b/487318324,/u/jm,1
+0,2013-12-16 12:15:40 -0600,/t/practices,Revealing Company Info Before Getting an Acquisition LOI,http://shockwaveinnovations.com/2013/09/21/revealing-company-info-before-getting-an-loi/,/u/journeysquid,0
+0,2013-12-16 12:13:30 -0600,/t/news,Amazon takes away access to purchased Christmas movie during Christmas,http://boingboing.net/2013/12/15/amazon-takes-away-access-to-pu.html,/u/journeysquid,0
+0,2013-12-15 22:01:45 -0600,"/t/video,/t/hardware",The Copenhagen Wheel,http://www.youtube.com/watch?feature=player_embedded&v=S10GMfG2NMY,/u/jm,3
+0,2013-12-15 18:40:08 -0600,/t/cryptocurrencies,Bitcoin Heading To The Cliff At Full Speed,http://www.descaped.com/technology/2013/12/15/bitcoin-heading-to-the-cliff-at-full-speed.html,/u/jm,3
+0,2013-12-16 00:39:07 -0600,"/t/api,/t/devops,/t/person,/t/programming,/t/vcs,/t/web",Host a Personal Data API on Heroku,http://www.longren.org/host-a-personal-api-on-heroku/,/u/tlongren,1
+0,2013-12-15 16:17:53 -0600,"/t/games,/t/programming","My ""Doom"" 20th Anniversary Stories",http://blog.wilshipley.com/2013/12/my-doom-20th-anniversary-stories.html,/u/journeysquid,3
+0,2013-12-15 16:19:10 -0600,"/t/news,/t/science",The Selling of Attention Deficit Disorder,http://www.nytimes.com/2013/12/15/health/the-selling-of-attention-deficit-disorder.html,/u/journeysquid,2
+0,2013-12-15 13:13:46 -0600,"/t/programming,/t/science",DNA seen through the eyes of a coder,http://ds9a.nl/amazing-dna/,/u/kyle,2

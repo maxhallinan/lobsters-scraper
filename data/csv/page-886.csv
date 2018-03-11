@@ -1,25 +1,25 @@
-4,2016-02-01 13:48:12 -0600,"['/t/browsers', '/t/javascript', '/t/programming']",firewall.js: create `<iframe>`s that block networking and downloading,https://github.com/geocar/firewall.js,/u/geocar,5
-0,2016-02-02 10:13:35 -0600,['/t/javascript'],Sharing and Testing Code in React with Higher Order Components,http://blog.carbonfive.com/2016/02/02/sharing-and-testing-code-in-react-with-higher-order-components/,/u/pushcx,1
-16,2016-02-01 02:51:56 -0600,['/t/c'],Why I'm Choosing C++,http://www.cjdrake.com/why-im-choosing-c.html,/u/av,26
-0,2016-02-02 10:04:52 -0600,['/t/law'],15 Frequent Tax Mistakes of Self-Employed Developers,http://trevormckendrick.com/15-frequent-tax-mistakes-made-by-developers/,/u/pushcx,1
-0,2016-02-02 09:40:14 -0600,"['/t/graphics', '/t/law']",Citizen-built technology tracks Locust Avenue speeders,http://www.cvilletomorrow.org/news/article/22908-locust-avenue-speeding/,/u/pushcx,1
-0,2016-02-02 09:07:20 -0600,['/t/programming'],Using your spam filter in real life,http://blog.cambridgecoding.com/2016/02/01/using-your-spam-filter-in-real-life/,/u/av,1
-2,2016-02-01 11:20:43 -0600,"['/t/devops', '/t/haskell']",Deploying A Haskell Web Service With Nix,http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/,/u/jgt,8
-0,2016-02-01 13:14:41 -0600,"['/t/historical', '/t/security']",Software Security Ideas Ahead of Their Time - The PL Enthusiast,http://www.pl-enthusiast.net/2016/02/01/software-security-ideas-ahead-of-their-time/,/u/artem,13
-0,2016-02-01 19:02:35 -0600,['/t/security'],NSA Hacker Chief Explains How to Keep Him Out of Your System,http://www.wired.com/2016/01/nsa-hacker-chief-explains-how-to-keep-him-out-of-your-system/,/u/derekprior,6
-0,2016-02-02 06:16:15 -0600,['/t/javascript'],What To Expect From JavaScript In 2016 – Beyond the Browser,http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/,/u/remotesynth,1
-1,2016-02-01 21:31:57 -0600,['/t/culture'],Fan-In,https://codahale.com/fan-in/,/u/pushcx,7
-0,2016-02-01 11:23:02 -0600,['/t/programming'],There Is no Happy Path in Programming,http://multithreaded.stitchfix.com/blog/2016/01/29/no-happy-path-in-programming,/u/pushcx,12
-0,2016-02-01 23:48:14 -0600,"['/t/pdf', '/t/databases', '/t/distributed']",Chapar: Certified Causally Consistent Distributed Key-Value Stores,http://adam.chlipala.net/papers/ChaparPOPL16/ChaparPOPL16.pdf,/u/jitterted,2
-4,2016-02-01 09:35:05 -0600,['/t/practices'],Why review papers?,http://composition.al/blog/2016/01/31/why-review-papers,/u/pushcx,6
-1,2016-02-01 16:14:58 -0600,['/t/math'],The maths of the paper disproving conspiracy theories don't add up,http://littleatoms.com/david-grimes-conspiracy-theory-maths,/u/pushcx,4
-0,2016-02-01 15:38:59 -0600,['/t/practices'],Potentially shippable is no longer good enough,https://gojko.net/2016/02/01/potentially-shippable/,/u/jitterted,5
-0,2016-02-01 11:10:36 -0600,['/t/games'],Rithmomachy,https://en.wikipedia.org/wiki/Rithmomachy,/u/joshuacc,8
-0,2016-02-01 22:08:34 -0600,['/t/culture'],Burnout and Recovery at a Tech Internship,https://medium.com/code-like-a-girl/burnout-and-recovery-at-a-tech-internship-88d59aded71d,/u/clay,4
-0,2016-02-01 16:04:49 -0600,['/t/python'],"GraphvizAnim - A tool to create animated graph visualizations, based on graphviz.",https://github.com/mapio/GraphvizAnim,/u/nc,4
-1,2016-02-01 09:26:56 -0600,"['/t/games', '/t/math']",A Chess Firewall at Zero?,https://rjlipton.wordpress.com/2016/01/21/a-chess-firewall-at-zero/,/u/pushcx,8
-12,2016-01-31 20:08:28 -0600,"['/t/security', '/t/unix']",Bashhub,https://bashhub.com,/u/kivikakk,18
-0,2016-02-01 16:42:08 -0600,"['/t/pdf', '/t/math']",Bayesian Belief Polarization,http://papers.nips.cc/paper/3725-bayesian-belief-polarization.pdf,/u/pushcx,3
-24,2016-01-31 11:56:45 -0600,"['/t/go', '/t/lisp', '/t/python', '/t/ruby', '/t/scala']","A Small, Nice Thing",http://codahale.com/a-small-nice-thing/,/u/michaelochurch,38
-0,2016-02-01 13:40:04 -0600,"['/t/practices', '/t/testing']","TDD and the ""6 Do's and 8 Skills"" of Software Development: Pt. 1",http://www.sustainabletdd.com/2016/01/tdd-and-6-dos-and-8-skills-of-software.html,/u/jitterted,3
-0,2016-02-01 09:43:52 -0600,['/t/windows'],"Small, Freestanding Windows Executables",http://nullprogram.com/blog/2016/01/31/,/u/pushcx,5
+4,2016-02-01 13:48:12 -0600,"/t/browsers,/t/javascript,/t/programming",firewall.js: create `<iframe>`s that block networking and downloading,https://github.com/geocar/firewall.js,/u/geocar,5
+0,2016-02-02 10:13:35 -0600,/t/javascript,Sharing and Testing Code in React with Higher Order Components,http://blog.carbonfive.com/2016/02/02/sharing-and-testing-code-in-react-with-higher-order-components/,/u/pushcx,1
+16,2016-02-01 02:51:56 -0600,/t/c,Why I'm Choosing C++,http://www.cjdrake.com/why-im-choosing-c.html,/u/av,26
+0,2016-02-02 10:04:52 -0600,/t/law,15 Frequent Tax Mistakes of Self-Employed Developers,http://trevormckendrick.com/15-frequent-tax-mistakes-made-by-developers/,/u/pushcx,1
+0,2016-02-02 09:40:14 -0600,"/t/graphics,/t/law",Citizen-built technology tracks Locust Avenue speeders,http://www.cvilletomorrow.org/news/article/22908-locust-avenue-speeding/,/u/pushcx,1
+0,2016-02-02 09:07:20 -0600,/t/programming,Using your spam filter in real life,http://blog.cambridgecoding.com/2016/02/01/using-your-spam-filter-in-real-life/,/u/av,1
+2,2016-02-01 11:20:43 -0600,"/t/devops,/t/haskell",Deploying A Haskell Web Service With Nix,http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/,/u/jgt,8
+0,2016-02-01 13:14:41 -0600,"/t/historical,/t/security",Software Security Ideas Ahead of Their Time - The PL Enthusiast,http://www.pl-enthusiast.net/2016/02/01/software-security-ideas-ahead-of-their-time/,/u/artem,13
+0,2016-02-01 19:02:35 -0600,/t/security,NSA Hacker Chief Explains How to Keep Him Out of Your System,http://www.wired.com/2016/01/nsa-hacker-chief-explains-how-to-keep-him-out-of-your-system/,/u/derekprior,6
+0,2016-02-02 06:16:15 -0600,/t/javascript,What To Expect From JavaScript In 2016 – Beyond the Browser,http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/,/u/remotesynth,1
+1,2016-02-01 21:31:57 -0600,/t/culture,Fan-In,https://codahale.com/fan-in/,/u/pushcx,7
+0,2016-02-01 11:23:02 -0600,/t/programming,There Is no Happy Path in Programming,http://multithreaded.stitchfix.com/blog/2016/01/29/no-happy-path-in-programming,/u/pushcx,12
+0,2016-02-01 23:48:14 -0600,"/t/pdf,/t/databases,/t/distributed",Chapar: Certified Causally Consistent Distributed Key-Value Stores,http://adam.chlipala.net/papers/ChaparPOPL16/ChaparPOPL16.pdf,/u/jitterted,2
+4,2016-02-01 09:35:05 -0600,/t/practices,Why review papers?,http://composition.al/blog/2016/01/31/why-review-papers,/u/pushcx,6
+1,2016-02-01 16:14:58 -0600,/t/math,The maths of the paper disproving conspiracy theories don't add up,http://littleatoms.com/david-grimes-conspiracy-theory-maths,/u/pushcx,4
+0,2016-02-01 15:38:59 -0600,/t/practices,Potentially shippable is no longer good enough,https://gojko.net/2016/02/01/potentially-shippable/,/u/jitterted,5
+0,2016-02-01 11:10:36 -0600,/t/games,Rithmomachy,https://en.wikipedia.org/wiki/Rithmomachy,/u/joshuacc,8
+0,2016-02-01 22:08:34 -0600,/t/culture,Burnout and Recovery at a Tech Internship,https://medium.com/code-like-a-girl/burnout-and-recovery-at-a-tech-internship-88d59aded71d,/u/clay,4
+0,2016-02-01 16:04:49 -0600,/t/python,"GraphvizAnim - A tool to create animated graph visualizations, based on graphviz.",https://github.com/mapio/GraphvizAnim,/u/nc,4
+1,2016-02-01 09:26:56 -0600,"/t/games,/t/math",A Chess Firewall at Zero?,https://rjlipton.wordpress.com/2016/01/21/a-chess-firewall-at-zero/,/u/pushcx,8
+12,2016-01-31 20:08:28 -0600,"/t/security,/t/unix",Bashhub,https://bashhub.com,/u/kivikakk,18
+0,2016-02-01 16:42:08 -0600,"/t/pdf,/t/math",Bayesian Belief Polarization,http://papers.nips.cc/paper/3725-bayesian-belief-polarization.pdf,/u/pushcx,3
+24,2016-01-31 11:56:45 -0600,"/t/go,/t/lisp,/t/python,/t/ruby,/t/scala","A Small, Nice Thing",http://codahale.com/a-small-nice-thing/,/u/michaelochurch,38
+0,2016-02-01 13:40:04 -0600,"/t/practices,/t/testing","TDD and the ""6 Do's and 8 Skills"" of Software Development: Pt. 1",http://www.sustainabletdd.com/2016/01/tdd-and-6-dos-and-8-skills-of-software.html,/u/jitterted,3
+0,2016-02-01 09:43:52 -0600,/t/windows,"Small, Freestanding Windows Executables",http://nullprogram.com/blog/2016/01/31/,/u/pushcx,5

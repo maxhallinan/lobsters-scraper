@@ -1,25 +1,25 @@
-1,2017-08-02 09:50:15 -0500,['/t/science'],Cosmology at a Crossroads: Tension With the Hubble Constant,https://arxiv.org/abs/1706.02739,/u/sanxiyn,2
-0,2017-08-02 10:44:14 -0500,"['/t/design', '/t/web']",Best Practices for Homepage Links on websites,https://www.nngroup.com/articles/homepage-links/,/u/flyingfisch,3
-4,2017-08-01 14:20:56 -0500,"['/t/performance', '/t/ruby', '/t/web']",Is WEBrick Webscale?,https://schneems.com/2017/08/01/is-webrick-webscale/,/u/schneems,15
-2,2017-08-01 12:52:33 -0500,['/t/release'],M for Mastodon,https://medium.com/@Gargron/m-for-mastodon-4269c0bf6c8b,/u/sajith,32
-0,2017-08-02 12:29:55 -0500,"['/t/programming', '/t/rust', '/t/web']","Grokking Diesel, Rust's ORM",https://gist.github.com/2fa2860c4526a9cc37dbf5af898ecc56,/u/beyang,2
-0,2017-08-02 09:10:47 -0500,"['/t/debugging', '/t/haskell']",Using GHC CallStacks,http://www.parsonsmatt.org/2017/07/29/using_ghc_callstacks.html,/u/pushcx,3
-0,2017-08-02 11:48:19 -0500,['/t/distributed'],Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?,https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/,/u/tylertreat,2
-0,2017-08-01 20:35:31 -0500,['/t/databases'],Practical Guide to SQL Transaction Isolation,https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html,/u/begriffs,7
-0,2017-08-02 15:08:46 -0500,"['/t/historical', '/t/perl']",First Language (1998),https://groups.google.com/forum/#!msg/comp.lang.perl.misc/z0rObxz4CLw/1xHbGEuni7UJ,/u/yumaikas,1
-1,2017-08-02 11:01:47 -0500,"['/t/devops', '/t/elixir', '/t/release']",Bootleg: Simple deployment and server automation for Elixir,https://hexdocs.pm/bootleg/readme.html,/u/drewda,1
-1,2017-08-02 14:47:26 -0500,"['/t/databases', '/t/scaling']",Solving Imaginary Scaling Issues (at scale),https://dev.to/ben/solving-imaginary-scaling-issues-at-scale,/u/soulcutter,1
-2,2017-08-01 19:18:26 -0500,['/t/programming'],Nearly All Binary Searches and Mergesorts are Broken (2006),https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html,/u/beyang,9
-1,2017-08-02 06:50:16 -0500,"['/t/performance', '/t/web']",The Critical Request,https://css-tricks.com/the-critical-request/,/u/calvin,2
-0,2017-08-02 09:11:13 -0500,['/t/databases'],Autonomous transactions using pg_background,https://www.openscg.com/2017/05/postgresql-autonomous-transactions-pg_background/,/u/pushcx,2
-0,2017-08-01 14:39:14 -0500,['/t/person'],"Bassel Khartabil, OSS Contributor, Confirmed Dead in Syria",https://fosspost.org/news/bassel-khartabil-oss-contributor-confirmed-dead-syria,/u/pizzaiolo,18
-8,2017-08-01 07:39:12 -0500,"['/t/databases', '/t/release']","Introducing Dexter, the Automatic Indexer for Postgres",https://medium.com/@ankane/introducing-dexter-the-automatic-indexer-for-postgres-5f8fa8b28f27,/u/pushcx,26
-0,2017-08-02 12:07:02 -0500,['/t/java'],The Top 5 Disadvantages of Not Implementing an Exception Inbox Zero Policy,http://blog.takipi.com/the-top-5-disadvantages-of-not-implementing-an-exception-inbox-zero-policy/,/u/hennidan,0
-3,2017-08-01 23:00:23 -0500,"['/t/pdf', '/t/historical']",Evolution of Operating Systems (2000),http://brinch-hansen.net/papers/2001b.pdf,/u/nickpsecurity,3
-0,2017-08-02 10:52:44 -0500,['/t/web'],What the Web Owes Flash,http://www.remotesynthesis.com/blog/what-the-web-owes-flash,/u/flyingfisch,1
-5,2017-08-01 18:31:36 -0500,['/t/rust'],Rust: Not So Great for Codec Implementing,https://codecs.multimedia.cx/?p=1246,/u/calvin,5
-1,2017-08-02 10:36:06 -0500,"['/t/pdf', '/t/formalmethods', '/t/programming']","versat - A Verified, Modern, SAT Solver (2012)",http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=2F94A093F2423881D7B30E28CE573851?doi=10.1.1.459.7149&rep=rep1&type=pdf,/u/nickpsecurity,1
-0,2017-08-02 05:46:04 -0500,['/t/security'],McAfee Security Scan Plus Remote Command Execution,https://blogs.securiteam.com/index.php/archives/3350,/u/fcbsd,2
-3,2017-08-01 15:22:37 -0500,['/t/databases'],End of the road for Basho: Court puts biz into receivership,https://www.theregister.co.uk/2017/07/31/end_of_the_road_for_basho_as_court_puts_biz_into_receivership/,/u/nh,10
-0,2017-08-02 05:26:49 -0500,"['/t/video', '/t/devops', '/t/emacs']",Literate DevOps with Emacs,https://www.youtube.com/watch?v=dljNabciEGg,/u/nick,2
-0,2017-08-02 09:11:10 -0500,['/t/dotnet'],A look at the internals of ‘boxing’ in the CLR,http://www.mattwarren.org/2017/08/02/A-look-at-the-internals-of-boxing-in-the-CLR/,/u/calvin,1
+1,2017-08-02 09:50:15 -0500,/t/science,Cosmology at a Crossroads: Tension With the Hubble Constant,https://arxiv.org/abs/1706.02739,/u/sanxiyn,2
+0,2017-08-02 10:44:14 -0500,"/t/design,/t/web",Best Practices for Homepage Links on websites,https://www.nngroup.com/articles/homepage-links/,/u/flyingfisch,3
+4,2017-08-01 14:20:56 -0500,"/t/performance,/t/ruby,/t/web",Is WEBrick Webscale?,https://schneems.com/2017/08/01/is-webrick-webscale/,/u/schneems,15
+2,2017-08-01 12:52:33 -0500,/t/release,M for Mastodon,https://medium.com/@Gargron/m-for-mastodon-4269c0bf6c8b,/u/sajith,32
+0,2017-08-02 12:29:55 -0500,"/t/programming,/t/rust,/t/web","Grokking Diesel, Rust's ORM",https://gist.github.com/2fa2860c4526a9cc37dbf5af898ecc56,/u/beyang,2
+0,2017-08-02 09:10:47 -0500,"/t/debugging,/t/haskell",Using GHC CallStacks,http://www.parsonsmatt.org/2017/07/29/using_ghc_callstacks.html,/u/pushcx,3
+0,2017-08-02 11:48:19 -0500,/t/distributed,Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?,https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/,/u/tylertreat,2
+0,2017-08-01 20:35:31 -0500,/t/databases,Practical Guide to SQL Transaction Isolation,https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html,/u/begriffs,7
+0,2017-08-02 15:08:46 -0500,"/t/historical,/t/perl",First Language (1998),https://groups.google.com/forum/#!msg/comp.lang.perl.misc/z0rObxz4CLw/1xHbGEuni7UJ,/u/yumaikas,1
+1,2017-08-02 11:01:47 -0500,"/t/devops,/t/elixir,/t/release",Bootleg: Simple deployment and server automation for Elixir,https://hexdocs.pm/bootleg/readme.html,/u/drewda,1
+1,2017-08-02 14:47:26 -0500,"/t/databases,/t/scaling",Solving Imaginary Scaling Issues (at scale),https://dev.to/ben/solving-imaginary-scaling-issues-at-scale,/u/soulcutter,1
+2,2017-08-01 19:18:26 -0500,/t/programming,Nearly All Binary Searches and Mergesorts are Broken (2006),https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html,/u/beyang,9
+1,2017-08-02 06:50:16 -0500,"/t/performance,/t/web",The Critical Request,https://css-tricks.com/the-critical-request/,/u/calvin,2
+0,2017-08-02 09:11:13 -0500,/t/databases,Autonomous transactions using pg_background,https://www.openscg.com/2017/05/postgresql-autonomous-transactions-pg_background/,/u/pushcx,2
+0,2017-08-01 14:39:14 -0500,/t/person,"Bassel Khartabil, OSS Contributor, Confirmed Dead in Syria",https://fosspost.org/news/bassel-khartabil-oss-contributor-confirmed-dead-syria,/u/pizzaiolo,18
+8,2017-08-01 07:39:12 -0500,"/t/databases,/t/release","Introducing Dexter, the Automatic Indexer for Postgres",https://medium.com/@ankane/introducing-dexter-the-automatic-indexer-for-postgres-5f8fa8b28f27,/u/pushcx,26
+0,2017-08-02 12:07:02 -0500,/t/java,The Top 5 Disadvantages of Not Implementing an Exception Inbox Zero Policy,http://blog.takipi.com/the-top-5-disadvantages-of-not-implementing-an-exception-inbox-zero-policy/,/u/hennidan,0
+3,2017-08-01 23:00:23 -0500,"/t/pdf,/t/historical",Evolution of Operating Systems (2000),http://brinch-hansen.net/papers/2001b.pdf,/u/nickpsecurity,3
+0,2017-08-02 10:52:44 -0500,/t/web,What the Web Owes Flash,http://www.remotesynthesis.com/blog/what-the-web-owes-flash,/u/flyingfisch,1
+5,2017-08-01 18:31:36 -0500,/t/rust,Rust: Not So Great for Codec Implementing,https://codecs.multimedia.cx/?p=1246,/u/calvin,5
+1,2017-08-02 10:36:06 -0500,"/t/pdf,/t/formalmethods,/t/programming","versat - A Verified, Modern, SAT Solver (2012)",http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=2F94A093F2423881D7B30E28CE573851?doi=10.1.1.459.7149&rep=rep1&type=pdf,/u/nickpsecurity,1
+0,2017-08-02 05:46:04 -0500,/t/security,McAfee Security Scan Plus Remote Command Execution,https://blogs.securiteam.com/index.php/archives/3350,/u/fcbsd,2
+3,2017-08-01 15:22:37 -0500,/t/databases,End of the road for Basho: Court puts biz into receivership,https://www.theregister.co.uk/2017/07/31/end_of_the_road_for_basho_as_court_puts_biz_into_receivership/,/u/nh,10
+0,2017-08-02 05:26:49 -0500,"/t/video,/t/devops,/t/emacs",Literate DevOps with Emacs,https://www.youtube.com/watch?v=dljNabciEGg,/u/nick,2
+0,2017-08-02 09:11:10 -0500,/t/dotnet,A look at the internals of ‘boxing’ in the CLR,http://www.mattwarren.org/2017/08/02/A-look-at-the-internals-of-boxing-in-the-CLR/,/u/calvin,1

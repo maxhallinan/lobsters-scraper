@@ -1,25 +1,25 @@
-0,2014-04-08 07:40:58 -0500,"['/t/release', '/t/security']",Preventing Damage From Potential Security Bugs Like Heartbleed,http://samlanning.com/2014/04/08/preventing-damage-from-potential-security-bugs-like-heartbleed/,/u/samlanning,1
-4,2014-04-07 08:03:49 -0500,"['/t/databases', '/t/distributed']",Copysets and Chainsets: A Better Way to Replicate,http://hackingdistributed.com/2014/02/14/chainsets/,/u/dgrnbrg,15
-0,2014-04-07 11:12:28 -0500,['/t/hardware'],Raspberry Pi Compute Module,http://www.raspberrypi.org/raspberry-pi-compute-module-new-product/,/u/journeysquid,8
-0,2014-04-07 16:28:39 -0500,"['/t/linux', '/t/programming']",Why Open Source?,http://www.lauradhamilton.com/why-open-source,/u/laura,3
-0,2014-04-06 23:51:24 -0500,"['/t/video', '/t/programming']",David Nolen - The Functional Final Frontier,https://www.youtube.com/watch?v=DMtwq3QtddY,/u/apg,19
-6,2014-04-07 17:24:27 -0500,['/t/compsci'],On the speed of Algorithms and Faster Hardware,http://videlalvaro.github.io/2014/04/on-the-speed-of-algorithms.html,/u/old_sound,1
-0,2014-04-07 14:33:22 -0500,"['/t/release', '/t/virtualization']",A Simple Capstan Example - OSv Blog,http://osv.io/blog/blog/2014/04/03/capstan/,/u/penberg,2
-0,2014-04-07 11:56:28 -0500,"['/t/design', '/t/philosophy', '/t/programming']","Programming languages are the least usable, but most powerful human-computer interfaces ever invente",http://blogs.uw.edu/ajko/2014/03/25/programming-languages-are-the-least-usable-but-most-powerful-human-computer-interfaces-ever-invented/,/u/drturtle,2
-0,2014-04-07 10:15:38 -0500,"['/t/culture', '/t/programming']",Serious reading takes a hit from online scanning and skimming,http://www.washingtonpost.com/local/serious-reading-takes-a-hit-from-online-scanning-and-skimming-researchers-say/2014/04/06/088028d2-b5d2-11e3-b899-20667de76985_story.html,/u/zmcartor,4
-3,2014-04-06 11:14:28 -0500,"['/t/pdf', '/t/lisp']","D-Expressions: Lisp Power, Dylan Style",http://people.csail.mit.edu/jrb/Projects/dexprs.pdf,/u/SeanTAllen,19
-0,2014-04-06 15:37:20 -0500,"['/t/c', '/t/linux']",A Story Of realloc (And Laziness),http://blog.httrack.com/blog/2014/04/05/a-story-of-realloc-and-laziness/,/u/leif,16
-3,2014-04-06 12:05:03 -0500,"['/t/api', '/t/programming']",Speedtest.net interface using Factor,http://re-factor.blogspot.com/2014/04/speedtest.html,/u/otoburb,8
-0,2014-04-06 23:52:17 -0500,['/t/math'],Taylor polynomials of the exponential function,http://www.mai.liu.se/~halun/complex/taylor/,/u/animatronic,3
-0,2014-04-06 11:47:47 -0500,['/t/lisp'],cells is a dataflow extension to CLOS,http://www.cliki.net/Cells,/u/SeanTAllen,13
-0,2014-04-06 10:51:03 -0500,"['/t/networking', '/t/security']",How I Hacked Your Router,http://disconnected.io/2014/03/18/how-i-hacked-your-router/,/u/journeysquid,14
-1,2014-04-06 06:11:47 -0500,['/t/security'],The spiped secure pipe daemon,https://www.tarsnap.com/spiped.html,/u/AdamGibbins,10
-0,2014-04-06 10:50:30 -0500,['/t/science'],The distortion of fuel consumption measurement,http://datagenetics.com/blog/april12014/index.html,/u/journeysquid,4
-0,2014-04-06 15:24:57 -0500,['/t/security'],NORX for CAESAR (new symmetric cipher submitted to CAESAR competition),http://cybermashup.com/2014/04/06/norx-for-caesar/,/u/kyle,2
-0,2014-04-06 16:42:50 -0500,"['/t/practices', '/t/ruby']",Inch · A documentation measurement tool for Ruby,http://trivelop.de/inch/,/u/antifuchs,1
-1,2014-04-06 15:02:59 -0500,"['/t/cryptocurrencies', '/t/databases', '/t/distributed']",NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of Flexcoin and Poloniex,http://hackingdistributed.com/2014/04/06/another-one-bites-the-dust-flexcoin/,/u/apy,1
-0,2014-04-06 11:02:57 -0500,"['/t/freebsd', '/t/hardware', '/t/linux', '/t/openbsd']","PC Engines apu system boards (3x GigE, AMD Bobcat, 2 or 4GB of DDR3) now in production",http://pcengines.ch/apu.htm,/u/cnst,1
-9,2014-04-05 04:53:45 -0500,"['/t/design', '/t/distributed', '/t/networking']",I reckon your message broker might be a bad idea.,http://programmingisterrible.com/post/81015328859/i-reckon-your-message-broker-might-be-a-bad-idea,/u/apy,19
-2,2014-04-05 15:58:35 -0500,['/t/math'],Proofs without Words,http://mathoverflow.net/questions/8846/proofs-without-words,/u/hdevalence,6
-0,2014-04-06 06:12:22 -0500,['/t/databases'],The kivaloo data store,https://www.tarsnap.com/kivaloo.html,/u/AdamGibbins,1
-0,2014-04-05 14:43:10 -0500,"['/t/programming', '/t/vcs']",Contributing to Open Source on GitHub,https://guides.github.com/overviews/os-contributing/,/u/journeysquid,9
+0,2014-04-08 07:40:58 -0500,"/t/release,/t/security",Preventing Damage From Potential Security Bugs Like Heartbleed,http://samlanning.com/2014/04/08/preventing-damage-from-potential-security-bugs-like-heartbleed/,/u/samlanning,1
+4,2014-04-07 08:03:49 -0500,"/t/databases,/t/distributed",Copysets and Chainsets: A Better Way to Replicate,http://hackingdistributed.com/2014/02/14/chainsets/,/u/dgrnbrg,15
+0,2014-04-07 11:12:28 -0500,/t/hardware,Raspberry Pi Compute Module,http://www.raspberrypi.org/raspberry-pi-compute-module-new-product/,/u/journeysquid,8
+0,2014-04-07 16:28:39 -0500,"/t/linux,/t/programming",Why Open Source?,http://www.lauradhamilton.com/why-open-source,/u/laura,3
+0,2014-04-06 23:51:24 -0500,"/t/video,/t/programming",David Nolen - The Functional Final Frontier,https://www.youtube.com/watch?v=DMtwq3QtddY,/u/apg,19
+6,2014-04-07 17:24:27 -0500,/t/compsci,On the speed of Algorithms and Faster Hardware,http://videlalvaro.github.io/2014/04/on-the-speed-of-algorithms.html,/u/old_sound,1
+0,2014-04-07 14:33:22 -0500,"/t/release,/t/virtualization",A Simple Capstan Example - OSv Blog,http://osv.io/blog/blog/2014/04/03/capstan/,/u/penberg,2
+0,2014-04-07 11:56:28 -0500,"/t/design,/t/philosophy,/t/programming","Programming languages are the least usable, but most powerful human-computer interfaces ever invente",http://blogs.uw.edu/ajko/2014/03/25/programming-languages-are-the-least-usable-but-most-powerful-human-computer-interfaces-ever-invented/,/u/drturtle,2
+0,2014-04-07 10:15:38 -0500,"/t/culture,/t/programming",Serious reading takes a hit from online scanning and skimming,http://www.washingtonpost.com/local/serious-reading-takes-a-hit-from-online-scanning-and-skimming-researchers-say/2014/04/06/088028d2-b5d2-11e3-b899-20667de76985_story.html,/u/zmcartor,4
+3,2014-04-06 11:14:28 -0500,"/t/pdf,/t/lisp","D-Expressions: Lisp Power, Dylan Style",http://people.csail.mit.edu/jrb/Projects/dexprs.pdf,/u/SeanTAllen,19
+0,2014-04-06 15:37:20 -0500,"/t/c,/t/linux",A Story Of realloc (And Laziness),http://blog.httrack.com/blog/2014/04/05/a-story-of-realloc-and-laziness/,/u/leif,16
+3,2014-04-06 12:05:03 -0500,"/t/api,/t/programming",Speedtest.net interface using Factor,http://re-factor.blogspot.com/2014/04/speedtest.html,/u/otoburb,8
+0,2014-04-06 23:52:17 -0500,/t/math,Taylor polynomials of the exponential function,http://www.mai.liu.se/~halun/complex/taylor/,/u/animatronic,3
+0,2014-04-06 11:47:47 -0500,/t/lisp,cells is a dataflow extension to CLOS,http://www.cliki.net/Cells,/u/SeanTAllen,13
+0,2014-04-06 10:51:03 -0500,"/t/networking,/t/security",How I Hacked Your Router,http://disconnected.io/2014/03/18/how-i-hacked-your-router/,/u/journeysquid,14
+1,2014-04-06 06:11:47 -0500,/t/security,The spiped secure pipe daemon,https://www.tarsnap.com/spiped.html,/u/AdamGibbins,10
+0,2014-04-06 10:50:30 -0500,/t/science,The distortion of fuel consumption measurement,http://datagenetics.com/blog/april12014/index.html,/u/journeysquid,4
+0,2014-04-06 15:24:57 -0500,/t/security,NORX for CAESAR (new symmetric cipher submitted to CAESAR competition),http://cybermashup.com/2014/04/06/norx-for-caesar/,/u/kyle,2
+0,2014-04-06 16:42:50 -0500,"/t/practices,/t/ruby",Inch · A documentation measurement tool for Ruby,http://trivelop.de/inch/,/u/antifuchs,1
+1,2014-04-06 15:02:59 -0500,"/t/cryptocurrencies,/t/databases,/t/distributed",NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of Flexcoin and Poloniex,http://hackingdistributed.com/2014/04/06/another-one-bites-the-dust-flexcoin/,/u/apy,1
+0,2014-04-06 11:02:57 -0500,"/t/freebsd,/t/hardware,/t/linux,/t/openbsd","PC Engines apu system boards (3x GigE, AMD Bobcat, 2 or 4GB of DDR3) now in production",http://pcengines.ch/apu.htm,/u/cnst,1
+9,2014-04-05 04:53:45 -0500,"/t/design,/t/distributed,/t/networking",I reckon your message broker might be a bad idea.,http://programmingisterrible.com/post/81015328859/i-reckon-your-message-broker-might-be-a-bad-idea,/u/apy,19
+2,2014-04-05 15:58:35 -0500,/t/math,Proofs without Words,http://mathoverflow.net/questions/8846/proofs-without-words,/u/hdevalence,6
+0,2014-04-06 06:12:22 -0500,/t/databases,The kivaloo data store,https://www.tarsnap.com/kivaloo.html,/u/AdamGibbins,1
+0,2014-04-05 14:43:10 -0500,"/t/programming,/t/vcs",Contributing to Open Source on GitHub,https://guides.github.com/overviews/os-contributing/,/u/journeysquid,9

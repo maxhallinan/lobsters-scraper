@@ -1,25 +1,25 @@
-3,2016-03-24 18:20:57 -0500,"['/t/hardware', '/t/privacy', '/t/security']",Apple designing its own servers to avoid snooping,http://arstechnica.com/information-technology/2016/03/report-apple-designing-its-own-servers-to-avoid-snooping/,/u/calvin,18
-5,2016-03-24 15:36:55 -0500,"['/t/video', '/t/programming']",Jonathan Blow on Software Quality,https://www.youtube.com/watch?v=k56wra39lwA,/u/mikejsavage,16
-0,2016-03-25 04:21:32 -0500,"['/t/api', '/t/devops', '/t/distributed', '/t/java']",Microservices Weekly (Issue #19): Ants vs elephants,http://www.microservicesweekly.com/issue/19,/u/svlada,2
-0,2016-03-24 21:43:42 -0500,['/t/javascript'],ES7 async functions - a step in the wrong direction,https://spion.github.io/posts/es7-async-await-step-in-the-wrong-direction.html,/u/friendlysock,9
-0,2016-03-25 19:41:42 -0500,"['/t/distributed', '/t/networking']",The disastrous events that would break the internet,http://www.bbc.com/future/story/20150310-how-to-break-the-internet,/u/calvin,0
-0,2016-03-24 23:31:15 -0500,['/t/show'],"Station307 – Stream files between cURL, Wget and/or browser",https://www.station307.com/,/u/mxp,6
-20,2016-03-24 04:25:19 -0500,"['/t/javascript', '/t/programming']",NPM & left-pad: Have We Forgotten How To Program?,http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/,/u/julienXX,23
-1,2016-03-24 22:10:48 -0500,"['/t/art', '/t/lisp']","ANA, a computer painting program",https://thebluereview.org/ana-ana-is-not-aaron-computer-painting/,/u/mjn,6
-7,2016-03-24 16:14:21 -0500,"['/t/emacs', '/t/satire', '/t/vim']",Why Notepad is the best editor ever,https://arcetera.moe/blog/2016/03/24/why-notepad-is-the-best-editor-ever/,/u/ix,6
-6,2016-03-24 15:15:45 -0500,['/t/go'],A look at Go from a newbie's perspective,http://julio.meroh.net/blog/2016/03/22/golang-review.html,/u/ngrilly,6
-5,2016-03-24 07:40:20 -0500,"['/t/javascript', '/t/law']",A discussion about the breaking of the Internet,https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d,/u/JordiGH,11
-1,2016-03-24 12:59:11 -0500,['/t/graphics'],Why you should be skeptical that any video is real?,https://www.washingtonpost.com/news/innovations/wp/2016/03/23/why-you-should-be-skeptical-that-any-video-is-real/,/u/eliezerb,9
-0,2016-03-24 21:49:06 -0500,['/t/graphics'],Real time Point Based Global Illumination,http://www.aduprat.com/portfolio/?page=articles%2FPBGI,/u/friendlysock,4
-2,2016-03-24 15:16:56 -0500,"['/t/programming', '/t/virtualization']",Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop,https://blog.docker.com/2016/03/docker-for-mac-windows-beta/,/u/softinio,5
-1,2016-03-25 10:02:00 -0500,['/t/privacy'],How the US Military Fails to Protect Its Soldiers' Emails,http://motherboard.vice.com/read/how-the-us-military-fails-to-protect-soldiers-emails,/u/joshuacc,0
-1,2016-03-24 15:19:57 -0500,"['/t/games', '/t/release']",Defold | Free 2D Game Engine for Cross-Platform Publishing,http://www.defold.com,/u/355E3B,4
-0,2016-03-24 10:31:25 -0500,"['/t/javascript', '/t/practices']",Micropackages and Open Source Trust Scaling,http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/,/u/nwjsmith,10
-10,2016-03-23 21:54:52 -0500,['/t/javascript'],"kik, left-pad, and npm",http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm,/u/emallson,20
-1,2016-03-24 15:37:56 -0500,"['/t/databases', '/t/devops']","Small Datum: Read, write & space amplification - pick 2",http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-pick-2_23.html,/u/friendlysock,3
-10,2016-03-24 04:15:58 -0500,['/t/satire'],left-pad.io,http://left-pad.io/,/u/sanxiyn,28
-4,2016-03-23 18:16:22 -0500,['/t/practices'],d’Oh My Zsh — How I unexpectedly built a monster of an open source project,https://medium.com/@robbyrussell/d-oh-my-zsh-af99ca54212c,/u/chadski,26
-4,2016-03-24 00:50:58 -0500,"['/t/databases', '/t/hardware']",I/O matters.,http://jvns.ca/blog/2016/03/23/io-matters/,/u/antifuchs,9
-0,2016-03-24 18:25:56 -0500,"['/t/culture', '/t/finance', '/t/practices']",Demystifying the Gender Pay Gap: Evidence from Glassdoor Salary Data,https://www.glassdoor.com/research/studies/gender-pay-gap/,/u/friendlysock,4
-0,2016-03-24 08:11:18 -0500,"['/t/slides', '/t/web']",Dirty Tricks From The Dark  Corners Of Front-End,https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end,/u/flyingfisch,7
-0,2016-03-24 14:31:25 -0500,['/t/security'],Bad Luck Over The Upcoming Badlock Vulnerability?,https://www.riskbasedsecurity.com/2016/03/bad-luck-over-the-upcoming-badlock-vulnerability/,/u/steveno,3
+3,2016-03-24 18:20:57 -0500,"/t/hardware,/t/privacy,/t/security",Apple designing its own servers to avoid snooping,http://arstechnica.com/information-technology/2016/03/report-apple-designing-its-own-servers-to-avoid-snooping/,/u/calvin,18
+5,2016-03-24 15:36:55 -0500,"/t/video,/t/programming",Jonathan Blow on Software Quality,https://www.youtube.com/watch?v=k56wra39lwA,/u/mikejsavage,16
+0,2016-03-25 04:21:32 -0500,"/t/api,/t/devops,/t/distributed,/t/java",Microservices Weekly (Issue #19): Ants vs elephants,http://www.microservicesweekly.com/issue/19,/u/svlada,2
+0,2016-03-24 21:43:42 -0500,/t/javascript,ES7 async functions - a step in the wrong direction,https://spion.github.io/posts/es7-async-await-step-in-the-wrong-direction.html,/u/friendlysock,9
+0,2016-03-25 19:41:42 -0500,"/t/distributed,/t/networking",The disastrous events that would break the internet,http://www.bbc.com/future/story/20150310-how-to-break-the-internet,/u/calvin,0
+0,2016-03-24 23:31:15 -0500,/t/show,"Station307 – Stream files between cURL, Wget and/or browser",https://www.station307.com/,/u/mxp,6
+20,2016-03-24 04:25:19 -0500,"/t/javascript,/t/programming",NPM & left-pad: Have We Forgotten How To Program?,http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/,/u/julienXX,23
+1,2016-03-24 22:10:48 -0500,"/t/art,/t/lisp","ANA, a computer painting program",https://thebluereview.org/ana-ana-is-not-aaron-computer-painting/,/u/mjn,6
+7,2016-03-24 16:14:21 -0500,"/t/emacs,/t/satire,/t/vim",Why Notepad is the best editor ever,https://arcetera.moe/blog/2016/03/24/why-notepad-is-the-best-editor-ever/,/u/ix,6
+6,2016-03-24 15:15:45 -0500,/t/go,A look at Go from a newbie's perspective,http://julio.meroh.net/blog/2016/03/22/golang-review.html,/u/ngrilly,6
+5,2016-03-24 07:40:20 -0500,"/t/javascript,/t/law",A discussion about the breaking of the Internet,https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d,/u/JordiGH,11
+1,2016-03-24 12:59:11 -0500,/t/graphics,Why you should be skeptical that any video is real?,https://www.washingtonpost.com/news/innovations/wp/2016/03/23/why-you-should-be-skeptical-that-any-video-is-real/,/u/eliezerb,9
+0,2016-03-24 21:49:06 -0500,/t/graphics,Real time Point Based Global Illumination,http://www.aduprat.com/portfolio/?page=articles%2FPBGI,/u/friendlysock,4
+2,2016-03-24 15:16:56 -0500,"/t/programming,/t/virtualization",Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop,https://blog.docker.com/2016/03/docker-for-mac-windows-beta/,/u/softinio,5
+1,2016-03-25 10:02:00 -0500,/t/privacy,How the US Military Fails to Protect Its Soldiers' Emails,http://motherboard.vice.com/read/how-the-us-military-fails-to-protect-soldiers-emails,/u/joshuacc,0
+1,2016-03-24 15:19:57 -0500,"/t/games,/t/release",Defold | Free 2D Game Engine for Cross-Platform Publishing,http://www.defold.com,/u/355E3B,4
+0,2016-03-24 10:31:25 -0500,"/t/javascript,/t/practices",Micropackages and Open Source Trust Scaling,http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/,/u/nwjsmith,10
+10,2016-03-23 21:54:52 -0500,/t/javascript,"kik, left-pad, and npm",http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm,/u/emallson,20
+1,2016-03-24 15:37:56 -0500,"/t/databases,/t/devops","Small Datum: Read, write & space amplification - pick 2",http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-pick-2_23.html,/u/friendlysock,3
+10,2016-03-24 04:15:58 -0500,/t/satire,left-pad.io,http://left-pad.io/,/u/sanxiyn,28
+4,2016-03-23 18:16:22 -0500,/t/practices,d’Oh My Zsh — How I unexpectedly built a monster of an open source project,https://medium.com/@robbyrussell/d-oh-my-zsh-af99ca54212c,/u/chadski,26
+4,2016-03-24 00:50:58 -0500,"/t/databases,/t/hardware",I/O matters.,http://jvns.ca/blog/2016/03/23/io-matters/,/u/antifuchs,9
+0,2016-03-24 18:25:56 -0500,"/t/culture,/t/finance,/t/practices",Demystifying the Gender Pay Gap: Evidence from Glassdoor Salary Data,https://www.glassdoor.com/research/studies/gender-pay-gap/,/u/friendlysock,4
+0,2016-03-24 08:11:18 -0500,"/t/slides,/t/web",Dirty Tricks From The Dark  Corners Of Front-End,https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end,/u/flyingfisch,7
+0,2016-03-24 14:31:25 -0500,/t/security,Bad Luck Over The Upcoming Badlock Vulnerability?,https://www.riskbasedsecurity.com/2016/03/bad-luck-over-the-upcoming-badlock-vulnerability/,/u/steveno,3

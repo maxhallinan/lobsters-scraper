@@ -1,25 +1,25 @@
-0,2017-11-29 13:15:01 -0600,['/t/c++'],Interactive Workflows for C++ with Jupyter,https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92,/u/dmuino,2
-1,2017-11-28 09:36:51 -0600,"['/t/networking', '/t/security', '/t/web']","DRM’s dead canary: how we lost the Web, what we learned, and what to do next",https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next,/u/bargap,46
-0,2017-11-29 07:30:09 -0600,"['/t/dotnet', '/t/security', '/t/web']",Anatomy of an ASP.NET Identity PasswordHash,http://www.blinkingcaret.com/2017/11/29/asp-net-identity-passwordhash/,/u/rdfi,2
-124,2017-11-27 19:07:22 -0600,"['/t/ask', '/t/web']","Crustaceans of Mastodon, where are you?",/s/7qazoc/crustaceans_mastodon_where_are_you,/u/stevelord,66
-0,2017-11-29 06:58:53 -0600,['/t/databases'],IS DISTINCT FROM — treat two NULL values as the same,http://modern-sql.com/feature/is-distinct-from,/u/fcbsd,4
-0,2017-11-29 00:26:58 -0600,"['/t/job', '/t/programming']",How to solve a hard programming interview question,https://dailycodingproblem.com/2017/11/29/how-to-solve-coding-interview-problem.html,/u/lawrence,4
-0,2017-11-29 13:28:16 -0600,['/t/ai'],Using AI to create photo-realistic faces of people who don't exist,https://petapixel.com/2017/11/07/ai-creates-photo-realistic-faces-people-dont-exist/,/u/bargap,1
-2,2017-11-28 17:42:21 -0600,"['/t/databases', '/t/javascript', '/t/visualization']",Geocoding Paradise Papers Addresses In Neo4j To Build Interactive Geographical Data Visualizations,http://www.lyonwj.com/2017/11/28/geocoding-paradise-papers-neo4j-spatial-visualization/,/u/lyonwj,5
-0,2017-11-28 15:11:25 -0600,"['/t/design', '/t/games', '/t/graphics']",The Poor Man's 3D Camera,http://etodd.io/2017/11/28/poor-mans-3d-camera/,/u/friendlysock,17
-0,2017-11-29 11:13:26 -0600,"['/t/video', '/t/perl']",2016 London Perl Workshop,http://www.youtube.com/playlist?list=PLxavAW22r8Ak2l6yBK27awPF1ZNP8Ryf2,/u/sevan,1
-4,2017-11-28 16:30:11 -0600,"['/t/c', '/t/programming']",How to write a very simple JIT compiler,https://github.com/spencertipping/jit-tutorial,/u/hoopla,8
-0,2017-11-29 06:31:46 -0600,"['/t/hardware', '/t/programming']",Mario Jump-Rope Challenge,https://medium.com/@antin/mario-jump-rope-challenge-f7bb44faf6bb,/u/calvin,2
-2,2017-11-29 00:24:13 -0600,"['/t/javascript', '/t/programming']",Basho: Shell macros with the goodness of JavaScript templates,https://medium.com/@jeswin/basho-shell-macros-with-the-goodness-of-javascript-templates-2b1891c16ea9,/u/jeswin,1
-1,2017-11-28 11:21:54 -0600,['/t/databases'],Scaling Connections in Postgres,https://www.citusdata.com/blog/2017/05/10/scaling-connections-in-postgres/,/u/craigkerstiens,9
-0,2017-11-29 02:54:51 -0600,"['/t/distributed', '/t/philosophy']",What We Talk About When We Talk About Distributed Systems,http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html,/u/quobit,3
-1,2017-11-28 14:44:40 -0600,"['/t/c', '/t/c++', '/t/emacs', '/t/programming']",[EXPERIMENT] Emacs with the SpiderMonkey garbage collector,http://lists.gnu.org/archive/html/emacs-devel/2017-11/msg00575.html,/u/chbarts,12
-24,2017-11-27 16:25:18 -0600,"['/t/ask', '/t/practices']",How do you keep your claws clacking?,/s/esmqqy/how_do_you_keep_your_claws_clacking,/u/jpm1,37
-0,2017-11-29 08:15:13 -0600,['/t/python'],Building Data Science Pipelines with Luigi and Jupyter Notebooks,https://intoli.com/blog/luigi-jupyter-notebooks/,/u/aperun,1
-3,2017-11-28 14:36:43 -0600,['/t/windows'],Tabs come to every window in Windows 10 “Sets”,https://arstechnica.com/gadgets/2017/11/tabs-come-to-every-window-in-windows-10-sets/,/u/calvin,7
-0,2017-11-28 18:24:15 -0600,"['/t/databases', '/t/performance']",COST in the land of databases,https://github.com/frankmcsherry/blog/blob/master/posts/2017-09-23.md,/u/hwayne,7
-0,2017-11-28 15:54:34 -0600,"['/t/education', '/t/programming']",Exploring the BBC micro:bit Software Stack,http://www.mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/,/u/calvin,9
-0,2017-11-28 16:17:34 -0600,"['/t/android', '/t/ios', '/t/web']",Lessons learned from 4 years of using Cordova in production,http://korban.net/posts/2017-11-29-lessons-4-years-of-cordova/,/u/alexkorban,4
-0,2017-11-28 16:17:16 -0600,['/t/math'],Open Problem Garden,http://www.openproblemgarden.org/,/u/pushcx,7
-1,2017-11-28 12:16:28 -0600,"['/t/culture', '/t/philosophy']",Owned Software vs Servant Software,http://www.naughtycomputer.uk/owned_software_servant_software.html,/u/Xylon,6
-0,2017-11-28 17:57:43 -0600,"['/t/pdf', '/t/programming', '/t/rust']",Multiprogramming a 64KB Computer Safely and Efficiently (2017),https://www.tockos.org/assets/papers/tock-sosp2017.pdf,/u/nickpsecurity,5
+0,2017-11-29 13:15:01 -0600,/t/c++,Interactive Workflows for C++ with Jupyter,https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92,/u/dmuino,2
+1,2017-11-28 09:36:51 -0600,"/t/networking,/t/security,/t/web","DRM’s dead canary: how we lost the Web, what we learned, and what to do next",https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next,/u/bargap,46
+0,2017-11-29 07:30:09 -0600,"/t/dotnet,/t/security,/t/web",Anatomy of an ASP.NET Identity PasswordHash,http://www.blinkingcaret.com/2017/11/29/asp-net-identity-passwordhash/,/u/rdfi,2
+124,2017-11-27 19:07:22 -0600,"/t/ask,/t/web","Crustaceans of Mastodon, where are you?",/s/7qazoc/crustaceans_mastodon_where_are_you,/u/stevelord,66
+0,2017-11-29 06:58:53 -0600,/t/databases,IS DISTINCT FROM — treat two NULL values as the same,http://modern-sql.com/feature/is-distinct-from,/u/fcbsd,4
+0,2017-11-29 00:26:58 -0600,"/t/job,/t/programming",How to solve a hard programming interview question,https://dailycodingproblem.com/2017/11/29/how-to-solve-coding-interview-problem.html,/u/lawrence,4
+0,2017-11-29 13:28:16 -0600,/t/ai,Using AI to create photo-realistic faces of people who don't exist,https://petapixel.com/2017/11/07/ai-creates-photo-realistic-faces-people-dont-exist/,/u/bargap,1
+2,2017-11-28 17:42:21 -0600,"/t/databases,/t/javascript,/t/visualization",Geocoding Paradise Papers Addresses In Neo4j To Build Interactive Geographical Data Visualizations,http://www.lyonwj.com/2017/11/28/geocoding-paradise-papers-neo4j-spatial-visualization/,/u/lyonwj,5
+0,2017-11-28 15:11:25 -0600,"/t/design,/t/games,/t/graphics",The Poor Man's 3D Camera,http://etodd.io/2017/11/28/poor-mans-3d-camera/,/u/friendlysock,17
+0,2017-11-29 11:13:26 -0600,"/t/video,/t/perl",2016 London Perl Workshop,http://www.youtube.com/playlist?list=PLxavAW22r8Ak2l6yBK27awPF1ZNP8Ryf2,/u/sevan,1
+4,2017-11-28 16:30:11 -0600,"/t/c,/t/programming",How to write a very simple JIT compiler,https://github.com/spencertipping/jit-tutorial,/u/hoopla,8
+0,2017-11-29 06:31:46 -0600,"/t/hardware,/t/programming",Mario Jump-Rope Challenge,https://medium.com/@antin/mario-jump-rope-challenge-f7bb44faf6bb,/u/calvin,2
+2,2017-11-29 00:24:13 -0600,"/t/javascript,/t/programming",Basho: Shell macros with the goodness of JavaScript templates,https://medium.com/@jeswin/basho-shell-macros-with-the-goodness-of-javascript-templates-2b1891c16ea9,/u/jeswin,1
+1,2017-11-28 11:21:54 -0600,/t/databases,Scaling Connections in Postgres,https://www.citusdata.com/blog/2017/05/10/scaling-connections-in-postgres/,/u/craigkerstiens,9
+0,2017-11-29 02:54:51 -0600,"/t/distributed,/t/philosophy",What We Talk About When We Talk About Distributed Systems,http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html,/u/quobit,3
+1,2017-11-28 14:44:40 -0600,"/t/c,/t/c++,/t/emacs,/t/programming",[EXPERIMENT] Emacs with the SpiderMonkey garbage collector,http://lists.gnu.org/archive/html/emacs-devel/2017-11/msg00575.html,/u/chbarts,12
+24,2017-11-27 16:25:18 -0600,"/t/ask,/t/practices",How do you keep your claws clacking?,/s/esmqqy/how_do_you_keep_your_claws_clacking,/u/jpm1,37
+0,2017-11-29 08:15:13 -0600,/t/python,Building Data Science Pipelines with Luigi and Jupyter Notebooks,https://intoli.com/blog/luigi-jupyter-notebooks/,/u/aperun,1
+3,2017-11-28 14:36:43 -0600,/t/windows,Tabs come to every window in Windows 10 “Sets”,https://arstechnica.com/gadgets/2017/11/tabs-come-to-every-window-in-windows-10-sets/,/u/calvin,7
+0,2017-11-28 18:24:15 -0600,"/t/databases,/t/performance",COST in the land of databases,https://github.com/frankmcsherry/blog/blob/master/posts/2017-09-23.md,/u/hwayne,7
+0,2017-11-28 15:54:34 -0600,"/t/education,/t/programming",Exploring the BBC micro:bit Software Stack,http://www.mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/,/u/calvin,9
+0,2017-11-28 16:17:34 -0600,"/t/android,/t/ios,/t/web",Lessons learned from 4 years of using Cordova in production,http://korban.net/posts/2017-11-29-lessons-4-years-of-cordova/,/u/alexkorban,4
+0,2017-11-28 16:17:16 -0600,/t/math,Open Problem Garden,http://www.openproblemgarden.org/,/u/pushcx,7
+1,2017-11-28 12:16:28 -0600,"/t/culture,/t/philosophy",Owned Software vs Servant Software,http://www.naughtycomputer.uk/owned_software_servant_software.html,/u/Xylon,6
+0,2017-11-28 17:57:43 -0600,"/t/pdf,/t/programming,/t/rust",Multiprogramming a 64KB Computer Safely and Efficiently (2017),https://www.tockos.org/assets/papers/tock-sosp2017.pdf,/u/nickpsecurity,5

@@ -1,25 +1,25 @@
-3,2017-12-12 18:59:09 -0600,"['/t/art', '/t/graphics', '/t/release']",GIMP 2.9.8 Released,https://www.gimp.org/news/2017/12/12/gimp-2-9-8-released/,/u/stsp,17
-0,2017-12-13 09:42:35 -0600,['/t/networking'],TP-Link firmware sends six DNS requests and one NTP query every 5 seconds,https://www.ctrl.blog/entry/tplink-aggressive-ntp,/u/bargap,3
-0,2017-12-13 00:42:55 -0600,['/t/math'],How to Read Mathematics,http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html,/u/av,9
-13,2017-12-12 10:40:58 -0600,['/t/web'],A case against net neutrality,http://apas.gr/2017/12/a-case-against-net-neutrality/,/u/apas,10
-8,2017-12-12 10:54:31 -0600,['/t/ruby'],"Surprises with Nested Transactions, Rollbacks and ActiveRecord",https://pragtob.wordpress.com/2017/12/12/surprises-with-nested-transactions-rollbacks-and-activerecord/,/u/PragTob,10
-9,2017-12-12 09:25:15 -0600,"['/t/linux', '/t/systemd']",The importance of Devuan,https://blog.ungleich.ch/en-us/cms/blog/2017/12/10/the-importance-of-devuan/,/u/pgl,20
-0,2017-12-12 15:16:18 -0600,"['/t/networking', '/t/security']",Popular Destinations rerouted to Russia,https://bgpmon.net/popular-destinations-rerouted-to-russia/,/u/sevan,21
-0,2017-12-13 14:00:48 -0600,"['/t/cryptocurrencies', '/t/security']",Starbucks wi-fi made computers mine cash,http://www.bbc.com/news/technology-42338754,/u/matthewfarwell,1
-2,2017-12-12 09:06:18 -0600,"['/t/crypto', '/t/security', '/t/web']",The ROBOT Attack - Return of Bleichenbacher's Oracle Threat,https://robotattack.org/,/u/hanno,18
-1,2017-12-13 03:38:30 -0600,['/t/practices'],"An epic treatise on scheduling, bug tracking, and triage",http://apenwarr.ca/log/?m=201712#13,/u/stip,4
-0,2017-12-13 08:26:44 -0600,"['/t/ai', '/t/python']",How to break a CAPTCHA system in 15 minutes with Machine Learning,https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710,/u/av,2
-1,2017-12-13 00:50:20 -0600,"['/t/go', '/t/javascript', '/t/release']",Introducing the Joy Compiler,https://mat.tm/joy/,/u/av,4
-1,2017-12-13 00:52:43 -0600,['/t/javascript'],The State of JavaScript 2017,http://stateofjs.com/2017/introduction/,/u/av,4
-0,2017-12-13 05:46:04 -0600,"['/t/databases', '/t/math']",A More Conversational Sublevel,https://medium.com/@lucianmarin/a-more-conversational-sublevel-4f8275dfa1e8,/u/lucian,1
-1,2017-12-12 07:42:41 -0600,['/t/networking'],Internet protocols are changing,https://blog.apnic.net/2017/12/12/internet-protocols-changing/,/u/calvin,31
-0,2017-12-13 04:03:01 -0600,"['/t/games', '/t/security']","Bot Fighting 103. Code Integrity Checks, Code Scrambling",http://ithare.com/bot-fighting-103-code-integrity-checks-code-scrambling/,/u/mikejsavage,3
-0,2017-12-13 10:34:41 -0600,"['/t/ai', '/t/release']",Introducing Gluon: a new library for machine learning from AWS and Microsoft,https://aws.amazon.com/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft/,/u/unbalancedparentheses,1
-0,2017-12-13 10:14:39 -0600,"['/t/pdf', '/t/ai', '/t/compsci', '/t/programming']",Learning Combinatorial Algorithms Over Graphs (2017),https://arxiv.org/abs/1704.01665,/u/nickpsecurity,1
-7,2017-12-12 08:22:15 -0600,"['/t/ai', '/t/privacy']",AI-Assisted Fake Porn Is Here and We’re All Fucked,https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn,/u/unbalancedparentheses,11
-0,2017-12-13 00:44:34 -0600,"['/t/security', '/t/web']",How RSA Works: TLS Foundations,https://fly.io/articles/how-rsa-works-tls-foundations/,/u/av,4
-4,2017-12-12 07:37:21 -0600,"['/t/practices', '/t/programming']","No, a supercomputer won’t make your code run faster",https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/,/u/calvin,19
-0,2017-12-12 18:00:15 -0600,"['/t/mac', '/t/release']",Homebrew 1.4.0 Released,https://brew.sh/2017/12/11/homebrew-1.4.0/,/u/zpojqwfejwfhiunz,8
-1,2017-12-12 16:17:47 -0600,['/t/programming'],Match Nested Brackets with Regex: A new approach,http://www.drregex.com/2017/11/match-nested-brackets-with-regex-new.html,/u/calvin,6
-0,2017-12-13 05:52:56 -0600,"['/t/javascript', '/t/performance']",JavaScript Startup Bytecode Cache,https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/,/u/calvin,1
-0,2017-12-12 17:59:17 -0600,['/t/hardware'],New silicon structure opens the gate to quantum computers,https://www.princeton.edu/news/2017/12/11/new-silicon-structure-opens-gate-quantum-computers,/u/Yogthos,5
+3,2017-12-12 18:59:09 -0600,"/t/art,/t/graphics,/t/release",GIMP 2.9.8 Released,https://www.gimp.org/news/2017/12/12/gimp-2-9-8-released/,/u/stsp,17
+0,2017-12-13 09:42:35 -0600,/t/networking,TP-Link firmware sends six DNS requests and one NTP query every 5 seconds,https://www.ctrl.blog/entry/tplink-aggressive-ntp,/u/bargap,3
+0,2017-12-13 00:42:55 -0600,/t/math,How to Read Mathematics,http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html,/u/av,9
+13,2017-12-12 10:40:58 -0600,/t/web,A case against net neutrality,http://apas.gr/2017/12/a-case-against-net-neutrality/,/u/apas,10
+8,2017-12-12 10:54:31 -0600,/t/ruby,"Surprises with Nested Transactions, Rollbacks and ActiveRecord",https://pragtob.wordpress.com/2017/12/12/surprises-with-nested-transactions-rollbacks-and-activerecord/,/u/PragTob,10
+9,2017-12-12 09:25:15 -0600,"/t/linux,/t/systemd",The importance of Devuan,https://blog.ungleich.ch/en-us/cms/blog/2017/12/10/the-importance-of-devuan/,/u/pgl,20
+0,2017-12-12 15:16:18 -0600,"/t/networking,/t/security",Popular Destinations rerouted to Russia,https://bgpmon.net/popular-destinations-rerouted-to-russia/,/u/sevan,21
+0,2017-12-13 14:00:48 -0600,"/t/cryptocurrencies,/t/security",Starbucks wi-fi made computers mine cash,http://www.bbc.com/news/technology-42338754,/u/matthewfarwell,1
+2,2017-12-12 09:06:18 -0600,"/t/crypto,/t/security,/t/web",The ROBOT Attack - Return of Bleichenbacher's Oracle Threat,https://robotattack.org/,/u/hanno,18
+1,2017-12-13 03:38:30 -0600,/t/practices,"An epic treatise on scheduling, bug tracking, and triage",http://apenwarr.ca/log/?m=201712#13,/u/stip,4
+0,2017-12-13 08:26:44 -0600,"/t/ai,/t/python",How to break a CAPTCHA system in 15 minutes with Machine Learning,https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710,/u/av,2
+1,2017-12-13 00:50:20 -0600,"/t/go,/t/javascript,/t/release",Introducing the Joy Compiler,https://mat.tm/joy/,/u/av,4
+1,2017-12-13 00:52:43 -0600,/t/javascript,The State of JavaScript 2017,http://stateofjs.com/2017/introduction/,/u/av,4
+0,2017-12-13 05:46:04 -0600,"/t/databases,/t/math",A More Conversational Sublevel,https://medium.com/@lucianmarin/a-more-conversational-sublevel-4f8275dfa1e8,/u/lucian,1
+1,2017-12-12 07:42:41 -0600,/t/networking,Internet protocols are changing,https://blog.apnic.net/2017/12/12/internet-protocols-changing/,/u/calvin,31
+0,2017-12-13 04:03:01 -0600,"/t/games,/t/security","Bot Fighting 103. Code Integrity Checks, Code Scrambling",http://ithare.com/bot-fighting-103-code-integrity-checks-code-scrambling/,/u/mikejsavage,3
+0,2017-12-13 10:34:41 -0600,"/t/ai,/t/release",Introducing Gluon: a new library for machine learning from AWS and Microsoft,https://aws.amazon.com/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft/,/u/unbalancedparentheses,1
+0,2017-12-13 10:14:39 -0600,"/t/pdf,/t/ai,/t/compsci,/t/programming",Learning Combinatorial Algorithms Over Graphs (2017),https://arxiv.org/abs/1704.01665,/u/nickpsecurity,1
+7,2017-12-12 08:22:15 -0600,"/t/ai,/t/privacy",AI-Assisted Fake Porn Is Here and We’re All Fucked,https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn,/u/unbalancedparentheses,11
+0,2017-12-13 00:44:34 -0600,"/t/security,/t/web",How RSA Works: TLS Foundations,https://fly.io/articles/how-rsa-works-tls-foundations/,/u/av,4
+4,2017-12-12 07:37:21 -0600,"/t/practices,/t/programming","No, a supercomputer won’t make your code run faster",https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/,/u/calvin,19
+0,2017-12-12 18:00:15 -0600,"/t/mac,/t/release",Homebrew 1.4.0 Released,https://brew.sh/2017/12/11/homebrew-1.4.0/,/u/zpojqwfejwfhiunz,8
+1,2017-12-12 16:17:47 -0600,/t/programming,Match Nested Brackets with Regex: A new approach,http://www.drregex.com/2017/11/match-nested-brackets-with-regex-new.html,/u/calvin,6
+0,2017-12-13 05:52:56 -0600,"/t/javascript,/t/performance",JavaScript Startup Bytecode Cache,https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/,/u/calvin,1
+0,2017-12-12 17:59:17 -0600,/t/hardware,New silicon structure opens the gate to quantum computers,https://www.princeton.edu/news/2017/12/11/new-silicon-structure-opens-gate-quantum-computers,/u/Yogthos,5

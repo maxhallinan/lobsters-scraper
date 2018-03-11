@@ -1,25 +1,25 @@
-1,2013-04-10 13:53:15 -0500,['/t/hardware'],Why is my TI-99/4A in Black and White?,http://www.pagetable.com/?p=672,/u/sschaubs,4
-0,2013-04-10 16:36:52 -0500,['/t/databases'],The Day the Replication Died,http://www.kickstarter.com/backing-and-hacking/the-day-the-replication-died,/u/jcs,3
-0,2013-04-10 16:37:55 -0500,"['/t/databases', '/t/reversing', '/t/security']",Dissecting PostgreSQL CVE-2013-1899,http://blog.blackwinghq.com/2013/04/08/2/,/u/jcs,2
-0,2013-04-10 16:33:22 -0500,['/t/javascript'],Category Theory for Promises/A+,http://brianmckenna.org/blog/category_theory_promisesaplus,/u/puffnfresh,1
-0,2013-04-10 10:18:20 -0500,"['/t/release', '/t/ruby', '/t/security']",Metasploit 4.6.0 Released,https://community.rapid7.com/community/metasploit/blog/2013/04/10/weekly-update-metasploit-460,/u/jcs,1
-0,2013-04-09 20:50:37 -0500,"['/t/news', '/t/person']",We Build At Night - Interview with Elbert Alias,http://webuildatnight.com/features/Readable,/u/rodriguezcommaj,6
-0,2013-04-09 11:28:19 -0500,"['/t/hardware', '/t/web']",View STL Files on GitHub,https://github.com/blog/1465-stl-file-viewing,/u/skalnik,5
-0,2013-04-09 17:18:26 -0500,['/t/security'],Nice Security Mindset Example,https://www.schneier.com/blog/archives/2013/04/nice_security_m.html,/u/tedu,2
-0,2013-04-09 09:34:01 -0500,['/t/practices'],Thunderbolt Labs: Conventions Are A Silver Thread,http://thunderboltlabs.com/posts/conventions-are-the-silver-thread,/u/tundal45,3
-0,2013-04-09 14:12:52 -0500,"['/t/browsers', '/t/security']",Yummy cookies across domains,https://github.com/blog/1466-yummy-cookies-across-domains,/u/jcs,1
-2,2013-04-08 21:00:28 -0500,"['/t/video', '/t/programming', '/t/visualization']",Bret Victor - Inventing on Principle,https://vimeo.com/36579366,/u/jcs,6
-3,2013-04-08 12:08:10 -0500,['/t/release'],Stop the hate on software RAID,http://www.chriscowley.me.uk/blog/2013/04/07/stop-the-hate-on-software-raid/,/u/jcs,4
-0,2013-04-08 11:33:07 -0500,"['/t/haskell', '/t/ruby']","From Ruby to Haskell, Part 2: Similarity, Refactoring, and Patterns",http://bendyworks.com/geekville/articles/2013/4/from-ruby-to-haskell-part-2-similarity-refactoring-and-patterns,/u/twopoint718,6
-0,2013-04-08 22:17:41 -0500,"['/t/networking', '/t/security']",Onion Routing: A History,http://www.onion-router.net/History.html,/u/jcs,1
-0,2013-04-08 11:59:30 -0500,['/t/go'],Tony Hoare's CSP paper implemented in Go,http://godoc.org/github.com/thomas11/csp,/u/kyle,2
-0,2013-04-08 09:05:41 -0500,"['/t/show', '/t/devops', '/t/python']",simmetrica - Simple metric aggregator,https://github.com/import/simmetrica,/u/pkhamre,2
-0,2013-04-07 23:35:23 -0500,"['/t/book', '/t/openbsd']",OpenBSD Foundation benefit Auction / Absolute OpenBSD 2nd Ed.,http://marc.info/?l=openbsd-misc&m=136539504315236&w=2,/u/tedu,7
-0,2013-04-08 12:01:46 -0500,"['/t/browsers', '/t/javascript']",Server side debugging in Chrome Console,http://chromelogger.com,/u/craig,1
-0,2013-04-07 18:19:00 -0500,"['/t/show', '/t/api']","Show Lobsters: Yardbase, free and open API of local, community-based data",http://yardbase.org,/u/listrophy,4
-0,2013-04-07 06:03:14 -0500,"['/t/api', '/t/web']",Hypermedia API for Industrial Applications,http://projexsys.com/demos/intro/,/u/michaelsbradleyjr,2
-0,2013-04-06 18:24:32 -0500,['/t/linux'],"Illustrating the Ubuntu clown car, AccountsService edition",http://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuAccountsServiceProblems,/u/kyle,4
-4,2013-04-05 14:51:51 -0500,"['/t/security', '/t/web']",New GitHub Pages domain: github.io (due to security concerns),https://github.com/blog/1452-new-github-pages-domain-github-io,/u/jcs,7
-0,2013-04-05 23:21:18 -0500,['/t/assembly'],Introduction to x64 Assembly,http://software.intel.com/en-us/articles/introduction-to-x64-assembly,/u/virtualroot,2
-3,2013-04-05 12:42:36 -0500,['/t/web'],The Website That Never Was,http://www.kyleconroy.com/2013/04/website-that-never-was,/u/conroy,5
-0,2013-04-05 21:15:00 -0500,"['/t/browsers', '/t/compilers']",The Baseline Compiler Has Landed (Firefox),https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/,/u/tedu,2
+1,2013-04-10 13:53:15 -0500,/t/hardware,Why is my TI-99/4A in Black and White?,http://www.pagetable.com/?p=672,/u/sschaubs,4
+0,2013-04-10 16:36:52 -0500,/t/databases,The Day the Replication Died,http://www.kickstarter.com/backing-and-hacking/the-day-the-replication-died,/u/jcs,3
+0,2013-04-10 16:37:55 -0500,"/t/databases,/t/reversing,/t/security",Dissecting PostgreSQL CVE-2013-1899,http://blog.blackwinghq.com/2013/04/08/2/,/u/jcs,2
+0,2013-04-10 16:33:22 -0500,/t/javascript,Category Theory for Promises/A+,http://brianmckenna.org/blog/category_theory_promisesaplus,/u/puffnfresh,1
+0,2013-04-10 10:18:20 -0500,"/t/release,/t/ruby,/t/security",Metasploit 4.6.0 Released,https://community.rapid7.com/community/metasploit/blog/2013/04/10/weekly-update-metasploit-460,/u/jcs,1
+0,2013-04-09 20:50:37 -0500,"/t/news,/t/person",We Build At Night - Interview with Elbert Alias,http://webuildatnight.com/features/Readable,/u/rodriguezcommaj,6
+0,2013-04-09 11:28:19 -0500,"/t/hardware,/t/web",View STL Files on GitHub,https://github.com/blog/1465-stl-file-viewing,/u/skalnik,5
+0,2013-04-09 17:18:26 -0500,/t/security,Nice Security Mindset Example,https://www.schneier.com/blog/archives/2013/04/nice_security_m.html,/u/tedu,2
+0,2013-04-09 09:34:01 -0500,/t/practices,Thunderbolt Labs: Conventions Are A Silver Thread,http://thunderboltlabs.com/posts/conventions-are-the-silver-thread,/u/tundal45,3
+0,2013-04-09 14:12:52 -0500,"/t/browsers,/t/security",Yummy cookies across domains,https://github.com/blog/1466-yummy-cookies-across-domains,/u/jcs,1
+2,2013-04-08 21:00:28 -0500,"/t/video,/t/programming,/t/visualization",Bret Victor - Inventing on Principle,https://vimeo.com/36579366,/u/jcs,6
+3,2013-04-08 12:08:10 -0500,/t/release,Stop the hate on software RAID,http://www.chriscowley.me.uk/blog/2013/04/07/stop-the-hate-on-software-raid/,/u/jcs,4
+0,2013-04-08 11:33:07 -0500,"/t/haskell,/t/ruby","From Ruby to Haskell, Part 2: Similarity, Refactoring, and Patterns",http://bendyworks.com/geekville/articles/2013/4/from-ruby-to-haskell-part-2-similarity-refactoring-and-patterns,/u/twopoint718,6
+0,2013-04-08 22:17:41 -0500,"/t/networking,/t/security",Onion Routing: A History,http://www.onion-router.net/History.html,/u/jcs,1
+0,2013-04-08 11:59:30 -0500,/t/go,Tony Hoare's CSP paper implemented in Go,http://godoc.org/github.com/thomas11/csp,/u/kyle,2
+0,2013-04-08 09:05:41 -0500,"/t/show,/t/devops,/t/python",simmetrica - Simple metric aggregator,https://github.com/import/simmetrica,/u/pkhamre,2
+0,2013-04-07 23:35:23 -0500,"/t/book,/t/openbsd",OpenBSD Foundation benefit Auction / Absolute OpenBSD 2nd Ed.,http://marc.info/?l=openbsd-misc&m=136539504315236&w=2,/u/tedu,7
+0,2013-04-08 12:01:46 -0500,"/t/browsers,/t/javascript",Server side debugging in Chrome Console,http://chromelogger.com,/u/craig,1
+0,2013-04-07 18:19:00 -0500,"/t/show,/t/api","Show Lobsters: Yardbase, free and open API of local, community-based data",http://yardbase.org,/u/listrophy,4
+0,2013-04-07 06:03:14 -0500,"/t/api,/t/web",Hypermedia API for Industrial Applications,http://projexsys.com/demos/intro/,/u/michaelsbradleyjr,2
+0,2013-04-06 18:24:32 -0500,/t/linux,"Illustrating the Ubuntu clown car, AccountsService edition",http://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuAccountsServiceProblems,/u/kyle,4
+4,2013-04-05 14:51:51 -0500,"/t/security,/t/web",New GitHub Pages domain: github.io (due to security concerns),https://github.com/blog/1452-new-github-pages-domain-github-io,/u/jcs,7
+0,2013-04-05 23:21:18 -0500,/t/assembly,Introduction to x64 Assembly,http://software.intel.com/en-us/articles/introduction-to-x64-assembly,/u/virtualroot,2
+3,2013-04-05 12:42:36 -0500,/t/web,The Website That Never Was,http://www.kyleconroy.com/2013/04/website-that-never-was,/u/conroy,5
+0,2013-04-05 21:15:00 -0500,"/t/browsers,/t/compilers",The Baseline Compiler Has Landed (Firefox),https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/,/u/tedu,2

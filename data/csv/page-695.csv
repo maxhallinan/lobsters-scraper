@@ -1,25 +1,25 @@
-0,2016-08-10 04:38:20 -0500,"['/t/networking', '/t/release']",SoftEther VPN Project - SoftEther VPN Project,https://www.softether.org/,/u/bowyakka,2
-0,2016-08-09 19:59:20 -0500,['/t/hardware'],MIT and DARPA Pack Lidar Sensor Onto Single Chip,http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/mit-lidar-on-a-chip,/u/adsouza,6
-1,2016-08-10 01:30:48 -0500,"['/t/linux', '/t/security']",Fixing an Internet Security Threat,http://www.isssource.com/fixing-an-internet-security-threat/,/u/antifuchs,1
-0,2016-08-09 20:05:41 -0500,"['/t/video', '/t/math', '/t/programming']",Category Theory for the Working Hacker,https://www.infoq.com/presentations/category-theory-propositions-principle,/u/petergao,4
-1,2016-08-09 14:30:23 -0500,['/t/philosophy'],Moral Machine,http://moralmachine.mit.edu,/u/calvin,6
-0,2016-08-09 17:46:37 -0500,"['/t/databases', '/t/visualization']",Using Neo4j Spatial Procedures to Analyze US Congressional Data,http://www.lyonwj.com/2016/08/09/neo4j-spatial-procedures-congressional-boundaries/,/u/lyonwj,2
-7,2016-08-08 18:07:40 -0500,['/t/openbsd'],Initial support for Raspberry Pi 2/3 in OpenBSD,https://marc.info/?l=openbsd-cvs&m=147059203101111&w=2,/u/calvin,38
-0,2016-08-09 07:40:08 -0500,['/t/security'],ProjectSauron: top level cyber-espionage platform covertly extracts encrypted government comms,https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/,/u/pushcx,12
-3,2016-08-09 05:23:05 -0500,['/t/programming'],ACM Turing Lecture 1972: The Humble Programmer,https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html,/u/sin,12
-2,2016-08-09 05:20:59 -0500,"['/t/pdf', '/t/slides', '/t/ios', '/t/security']",Behind the Scenes with iOS Security,https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf,/u/sevan,12
-0,2016-08-09 10:21:04 -0500,"['/t/audio', '/t/person', '/t/vcs']",Mercurial with Augie Fackler,http://podcastinit.com/augie-fackler-mercurial.html,/u/JordiGH,7
-1,2016-08-09 10:22:56 -0500,"['/t/privacy', '/t/security']",Where in the world is my data and how secure is it?,http://www.bbc.com/news/business-36854292,/u/tagawa,4
-0,2016-08-09 18:10:12 -0500,"['/t/pdf', '/t/java']",A Comprehensive Study on the Energy Efficiency of Java’s Thread-Safe Collections,http://gustavopinto.org/lost+found/icsme2016.pdf,/u/chadski,2
-1,2016-08-09 05:24:57 -0500,"['/t/culture', '/t/hardware']",I Want to Know What Code Is Running Inside My Body,https://backchannel.com/i-want-to-know-what-code-is-running-inside-my-body-ff9a159da34b,/u/mulander,19
-0,2016-08-09 07:01:21 -0500,"['/t/video', '/t/assembly', '/t/hardware', '/t/historical']",Motorola 68000 Oral History Panel,https://www.youtube.com/watch?v=UaHtGf4aRLs,/u/calvin,7
-0,2016-08-09 07:43:09 -0500,['/t/go'],Vendoring Dependencies in Go,https://www.meta.sc/tech/govendoring/,/u/pwatsonwailes,6
-7,2016-08-08 15:00:56 -0500,['/t/practices'],Why I'm not a big fan of Scrum,http://okigiveup.net/not-big-fan-of-scrum/,/u/mulander,22
-0,2016-08-09 12:40:18 -0500,['/t/javascript'],Dynamically Rendering React Components,https://wail.es/dynamically-rendering-react-components/,/u/pwatsonwailes,1
-2,2016-08-09 11:29:34 -0500,"['/t/culture', '/t/javascript']",export guy = [..] merged into babel-core,https://github.com/babel/babel/pull/3641#issuecomment-238422787,/u/damdotio,6
-0,2016-08-09 11:53:54 -0500,['/t/design'],The End of Excuses: Developer Experience on Mobile Devices,http://kevinsuttle.com/dx-on-mobile-devices/,/u/kevinSuttle,1
-0,2016-08-09 10:01:44 -0500,['/t/programming'],Language of the Month - Five Languages In,http://hoelz.ro/blog/lotm-retrospective,/u/hoelzro,1
-0,2016-08-09 07:31:14 -0500,"['/t/devops', '/t/haskell']",Secure Shared Credentials,http://brendanhay.nz/credentials,/u/jtobin,3
-1,2016-08-08 12:41:51 -0500,"['/t/c', '/t/openbsd', '/t/programming']",it's hard work printing nothing,http://www.tedunangst.com/flak/post/its-hard-work-printing-nothing,/u/jabberwock,26
-0,2016-08-09 09:38:30 -0500,"['/t/programming', '/t/python']",Writing Skills for Amazon Alexa Using Python and Flask,https://www.promptworks.com/blog/writing-skills-for-amazon-alexa,/u/promptworks,2
-7,2016-08-08 10:45:59 -0500,"['/t/show', '/t/dotnet', '/t/web']","Ulterius, complete control of your desktop — from your browser.",https://ulterius.xyz/,/u/andrewmd5,11
+0,2016-08-10 04:38:20 -0500,"/t/networking,/t/release",SoftEther VPN Project - SoftEther VPN Project,https://www.softether.org/,/u/bowyakka,2
+0,2016-08-09 19:59:20 -0500,/t/hardware,MIT and DARPA Pack Lidar Sensor Onto Single Chip,http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/mit-lidar-on-a-chip,/u/adsouza,6
+1,2016-08-10 01:30:48 -0500,"/t/linux,/t/security",Fixing an Internet Security Threat,http://www.isssource.com/fixing-an-internet-security-threat/,/u/antifuchs,1
+0,2016-08-09 20:05:41 -0500,"/t/video,/t/math,/t/programming",Category Theory for the Working Hacker,https://www.infoq.com/presentations/category-theory-propositions-principle,/u/petergao,4
+1,2016-08-09 14:30:23 -0500,/t/philosophy,Moral Machine,http://moralmachine.mit.edu,/u/calvin,6
+0,2016-08-09 17:46:37 -0500,"/t/databases,/t/visualization",Using Neo4j Spatial Procedures to Analyze US Congressional Data,http://www.lyonwj.com/2016/08/09/neo4j-spatial-procedures-congressional-boundaries/,/u/lyonwj,2
+7,2016-08-08 18:07:40 -0500,/t/openbsd,Initial support for Raspberry Pi 2/3 in OpenBSD,https://marc.info/?l=openbsd-cvs&m=147059203101111&w=2,/u/calvin,38
+0,2016-08-09 07:40:08 -0500,/t/security,ProjectSauron: top level cyber-espionage platform covertly extracts encrypted government comms,https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/,/u/pushcx,12
+3,2016-08-09 05:23:05 -0500,/t/programming,ACM Turing Lecture 1972: The Humble Programmer,https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html,/u/sin,12
+2,2016-08-09 05:20:59 -0500,"/t/pdf,/t/slides,/t/ios,/t/security",Behind the Scenes with iOS Security,https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf,/u/sevan,12
+0,2016-08-09 10:21:04 -0500,"/t/audio,/t/person,/t/vcs",Mercurial with Augie Fackler,http://podcastinit.com/augie-fackler-mercurial.html,/u/JordiGH,7
+1,2016-08-09 10:22:56 -0500,"/t/privacy,/t/security",Where in the world is my data and how secure is it?,http://www.bbc.com/news/business-36854292,/u/tagawa,4
+0,2016-08-09 18:10:12 -0500,"/t/pdf,/t/java",A Comprehensive Study on the Energy Efficiency of Java’s Thread-Safe Collections,http://gustavopinto.org/lost+found/icsme2016.pdf,/u/chadski,2
+1,2016-08-09 05:24:57 -0500,"/t/culture,/t/hardware",I Want to Know What Code Is Running Inside My Body,https://backchannel.com/i-want-to-know-what-code-is-running-inside-my-body-ff9a159da34b,/u/mulander,19
+0,2016-08-09 07:01:21 -0500,"/t/video,/t/assembly,/t/hardware,/t/historical",Motorola 68000 Oral History Panel,https://www.youtube.com/watch?v=UaHtGf4aRLs,/u/calvin,7
+0,2016-08-09 07:43:09 -0500,/t/go,Vendoring Dependencies in Go,https://www.meta.sc/tech/govendoring/,/u/pwatsonwailes,6
+7,2016-08-08 15:00:56 -0500,/t/practices,Why I'm not a big fan of Scrum,http://okigiveup.net/not-big-fan-of-scrum/,/u/mulander,22
+0,2016-08-09 12:40:18 -0500,/t/javascript,Dynamically Rendering React Components,https://wail.es/dynamically-rendering-react-components/,/u/pwatsonwailes,1
+2,2016-08-09 11:29:34 -0500,"/t/culture,/t/javascript",export guy = [..] merged into babel-core,https://github.com/babel/babel/pull/3641#issuecomment-238422787,/u/damdotio,6
+0,2016-08-09 11:53:54 -0500,/t/design,The End of Excuses: Developer Experience on Mobile Devices,http://kevinsuttle.com/dx-on-mobile-devices/,/u/kevinSuttle,1
+0,2016-08-09 10:01:44 -0500,/t/programming,Language of the Month - Five Languages In,http://hoelz.ro/blog/lotm-retrospective,/u/hoelzro,1
+0,2016-08-09 07:31:14 -0500,"/t/devops,/t/haskell",Secure Shared Credentials,http://brendanhay.nz/credentials,/u/jtobin,3
+1,2016-08-08 12:41:51 -0500,"/t/c,/t/openbsd,/t/programming",it's hard work printing nothing,http://www.tedunangst.com/flak/post/its-hard-work-printing-nothing,/u/jabberwock,26
+0,2016-08-09 09:38:30 -0500,"/t/programming,/t/python",Writing Skills for Amazon Alexa Using Python and Flask,https://www.promptworks.com/blog/writing-skills-for-amazon-alexa,/u/promptworks,2
+7,2016-08-08 10:45:59 -0500,"/t/show,/t/dotnet,/t/web","Ulterius, complete control of your desktop — from your browser.",https://ulterius.xyz/,/u/andrewmd5,11

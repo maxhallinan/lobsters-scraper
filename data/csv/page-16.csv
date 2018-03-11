@@ -1,25 +1,25 @@
-0,2018-02-20 16:25:35 -0600,"['/t/education', '/t/plt']",Designing and evaluating programming languages: Dagstuhl trip report,https://medium.com/bits-and-behavior/designing-learnable-teachable-and-productive-programming-languages-dagstuhl-trip-report-81e41bde84bd,/u/quobit,7
-45,2018-02-19 11:44:17 -0600,['/t/programming'],The Problem With APLs,https://www.hillelwayne.com/post/the-problem-with-apls/,/u/hwayne,40
-12,2018-02-19 19:09:22 -0600,['/t/law'],"Eric Lundgren, ‘e-waste’ recycling innovator, faces prison for trying to extend life span of PCs",https://www.washingtonpost.com/news/true-crime/wp/2018/02/15/eric-lundgren-e-waste-recycling-innovator-faces-prison-for-trying-to-extend-lifespan-of-pcs/,/u/calvin,39
-1,2018-02-20 13:12:54 -0600,"['/t/ruby', '/t/web', '/t/windows']",A comparison of 5 different Rails dev environment on Windows 10,http://cs.mcgill.ca/~mxia3/2018/02/18/Five-different-Rails-development-environment-on-Windows-10-and-their-pros-and-cons/,/u/xiamx,3
-9,2018-02-19 23:59:50 -0600,['/t/compsci'],Gradual Typing,https://golem.ph.utexas.edu/category/2018/02/gradual_typing.html,/u/pushcx,17
-0,2018-02-20 04:29:21 -0600,['/t/linux'],BPF comes to firewalls,https://lwn.net/SubscriberLink/747551/7b37e1ce398c30c0/,/u/nanxiao,17
-0,2018-02-20 16:05:55 -0600,['/t/freebsd'],Every Journey Starts with a FAIL,http://k3research.outerhaven.de/posts/every-journey-starts-with-a-fail.html,/u/fro,4
-0,2018-02-20 15:49:55 -0600,['/t/clojure'],Overview of Clojure nREPL,https://juxt.pro/blog/posts/nrepl.html,/u/Yogthos,4
-2,2018-02-20 08:16:28 -0600,"['/t/show', '/t/devops', '/t/freebsd', '/t/linux', '/t/release', '/t/web']",nuster 1.7.9.5 released – A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.5,/u/quicer,4
-1,2018-02-20 07:26:23 -0600,"['/t/api', '/t/javascript', '/t/nodejs']",Extending CircleCI's API with a Custom Microservice on AWS Lambda,https://intoli.com/blog/circleci-artifacts/,/u/foob,4
-1,2018-02-20 14:03:10 -0600,"['/t/show', '/t/devops', '/t/unix']","32b/docker-get - ""pull"" docker images from git repositories",https://github.com/32b/docker-get,/u/sgreben,1
-5,2018-02-20 00:54:51 -0600,"['/t/practices', '/t/privacy', '/t/security', '/t/web']",FSLabs' A320 installer seems to include a Chrome password extraction tool,https://www.reddit.com/r/flightsim/comments/7yh4zu/fslabs_a320_installer_seems_to_include_a_chrome/,/u/cnst,9
-0,2018-02-20 15:12:05 -0600,"['/t/culture', '/t/web']","Measuring a blog's success: focus on conversations, not page views",https://jvns.ca/blog/2018/02/20/measuring-blog-success/,/u/calvin,6
-12,2018-02-19 08:14:51 -0600,"['/t/c', '/t/rust']",Rust things I miss in C,https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html,/u/azdle,52
-14,2018-02-19 07:00:00 -0600,['/t/practices'],"Working remotely, 4 years in",https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/,/u/calvin,51
-0,2018-02-20 10:16:02 -0600,"['/t/pdf', '/t/c', '/t/formalmethods', '/t/testing']",Combining Symbolic Execution and Model Checking for Data Flow Testing (2015),http://web.cs.ucdavis.edu/~su/publications/icse15-dft.pdf,/u/nickpsecurity,4
-2,2018-02-20 14:00:04 -0600,"['/t/pdf', '/t/linux', '/t/security']","Linux ASLR and GNU Libc: Address space layout computing and defence, and ""stack canary"" bypass",https://github.com/blackzert/aslur/blob/master/offensivecon-talk.pdf,/u/fro,1
-5,2018-02-19 13:29:27 -0600,"['/t/book', '/t/plt', '/t/release']","""Chunks of Bytecode"", the next chapter in my book ""Crafting Interpreters""",http://www.craftinginterpreters.com/chunks-of-bytecode.html,/u/munificent,14
-27,2018-02-19 14:18:29 -0600,['/t/meta'],Tag request: `sensitive`,/s/wrqrxv/tag_request_sensitive,/u/friendlysock,15
-0,2018-02-20 21:34:03 -0600,"['/t/pdf', '/t/historical', '/t/meta']",Consider the Lobster (2004),http://theessayexperiencefall2013.qwriting.qc.cuny.edu/files/2013/11/Consider-the-Lobster_david-foster-wallace.pdf,/u/ngoldbaum,1
-2,2018-02-19 11:46:23 -0600,"['/t/javascript', '/t/performance']",Maybe you don't need Rust and WASM to speed up your JS,http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html,/u/friendlysock,27
-0,2018-02-20 11:57:15 -0600,"['/t/devops', '/t/practices', '/t/programming']",Kubernetes and PaaS: The Force of Developer Experience and Workflow,https://thenewstack.io/kubernetes-paas-force-developer-experience-workflow/,/u/rdl,2
-0,2018-02-20 06:53:14 -0600,['/t/programming'],Building low-overhead metrics collection for high-performance systems,https://blog.wallaroolabs.com/2018/02/building-low-overhead-metrics-collection-for-high-performance-systems/,/u/SeanTAllen,4
-1,2018-02-20 01:24:21 -0600,['/t/go'],Tags in Golang,https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e,/u/fkr,6
-0,2018-02-20 13:55:49 -0600,"['/t/clojure', '/t/java']",Understanding Data as the API philosophy in Clojure,https://medium.com/@chris.shellenbarger/key-lesson-building-cloudrepo-with-clojure-99bc1c1c405e,/u/Yogthos,1
+0,2018-02-20 16:25:35 -0600,"/t/education,/t/plt",Designing and evaluating programming languages: Dagstuhl trip report,https://medium.com/bits-and-behavior/designing-learnable-teachable-and-productive-programming-languages-dagstuhl-trip-report-81e41bde84bd,/u/quobit,7
+45,2018-02-19 11:44:17 -0600,/t/programming,The Problem With APLs,https://www.hillelwayne.com/post/the-problem-with-apls/,/u/hwayne,40
+12,2018-02-19 19:09:22 -0600,/t/law,"Eric Lundgren, ‘e-waste’ recycling innovator, faces prison for trying to extend life span of PCs",https://www.washingtonpost.com/news/true-crime/wp/2018/02/15/eric-lundgren-e-waste-recycling-innovator-faces-prison-for-trying-to-extend-lifespan-of-pcs/,/u/calvin,39
+1,2018-02-20 13:12:54 -0600,"/t/ruby,/t/web,/t/windows",A comparison of 5 different Rails dev environment on Windows 10,http://cs.mcgill.ca/~mxia3/2018/02/18/Five-different-Rails-development-environment-on-Windows-10-and-their-pros-and-cons/,/u/xiamx,3
+9,2018-02-19 23:59:50 -0600,/t/compsci,Gradual Typing,https://golem.ph.utexas.edu/category/2018/02/gradual_typing.html,/u/pushcx,17
+0,2018-02-20 04:29:21 -0600,/t/linux,BPF comes to firewalls,https://lwn.net/SubscriberLink/747551/7b37e1ce398c30c0/,/u/nanxiao,17
+0,2018-02-20 16:05:55 -0600,/t/freebsd,Every Journey Starts with a FAIL,http://k3research.outerhaven.de/posts/every-journey-starts-with-a-fail.html,/u/fro,4
+0,2018-02-20 15:49:55 -0600,/t/clojure,Overview of Clojure nREPL,https://juxt.pro/blog/posts/nrepl.html,/u/Yogthos,4
+2,2018-02-20 08:16:28 -0600,"/t/show,/t/devops,/t/freebsd,/t/linux,/t/release,/t/web",nuster 1.7.9.5 released – A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.5,/u/quicer,4
+1,2018-02-20 07:26:23 -0600,"/t/api,/t/javascript,/t/nodejs",Extending CircleCI's API with a Custom Microservice on AWS Lambda,https://intoli.com/blog/circleci-artifacts/,/u/foob,4
+1,2018-02-20 14:03:10 -0600,"/t/show,/t/devops,/t/unix","32b/docker-get - ""pull"" docker images from git repositories",https://github.com/32b/docker-get,/u/sgreben,1
+5,2018-02-20 00:54:51 -0600,"/t/practices,/t/privacy,/t/security,/t/web",FSLabs' A320 installer seems to include a Chrome password extraction tool,https://www.reddit.com/r/flightsim/comments/7yh4zu/fslabs_a320_installer_seems_to_include_a_chrome/,/u/cnst,9
+0,2018-02-20 15:12:05 -0600,"/t/culture,/t/web","Measuring a blog's success: focus on conversations, not page views",https://jvns.ca/blog/2018/02/20/measuring-blog-success/,/u/calvin,6
+12,2018-02-19 08:14:51 -0600,"/t/c,/t/rust",Rust things I miss in C,https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html,/u/azdle,52
+14,2018-02-19 07:00:00 -0600,/t/practices,"Working remotely, 4 years in",https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/,/u/calvin,51
+0,2018-02-20 10:16:02 -0600,"/t/pdf,/t/c,/t/formalmethods,/t/testing",Combining Symbolic Execution and Model Checking for Data Flow Testing (2015),http://web.cs.ucdavis.edu/~su/publications/icse15-dft.pdf,/u/nickpsecurity,4
+2,2018-02-20 14:00:04 -0600,"/t/pdf,/t/linux,/t/security","Linux ASLR and GNU Libc: Address space layout computing and defence, and ""stack canary"" bypass",https://github.com/blackzert/aslur/blob/master/offensivecon-talk.pdf,/u/fro,1
+5,2018-02-19 13:29:27 -0600,"/t/book,/t/plt,/t/release","""Chunks of Bytecode"", the next chapter in my book ""Crafting Interpreters""",http://www.craftinginterpreters.com/chunks-of-bytecode.html,/u/munificent,14
+27,2018-02-19 14:18:29 -0600,/t/meta,Tag request: `sensitive`,/s/wrqrxv/tag_request_sensitive,/u/friendlysock,15
+0,2018-02-20 21:34:03 -0600,"/t/pdf,/t/historical,/t/meta",Consider the Lobster (2004),http://theessayexperiencefall2013.qwriting.qc.cuny.edu/files/2013/11/Consider-the-Lobster_david-foster-wallace.pdf,/u/ngoldbaum,1
+2,2018-02-19 11:46:23 -0600,"/t/javascript,/t/performance",Maybe you don't need Rust and WASM to speed up your JS,http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html,/u/friendlysock,27
+0,2018-02-20 11:57:15 -0600,"/t/devops,/t/practices,/t/programming",Kubernetes and PaaS: The Force of Developer Experience and Workflow,https://thenewstack.io/kubernetes-paas-force-developer-experience-workflow/,/u/rdl,2
+0,2018-02-20 06:53:14 -0600,/t/programming,Building low-overhead metrics collection for high-performance systems,https://blog.wallaroolabs.com/2018/02/building-low-overhead-metrics-collection-for-high-performance-systems/,/u/SeanTAllen,4
+1,2018-02-20 01:24:21 -0600,/t/go,Tags in Golang,https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e,/u/fkr,6
+0,2018-02-20 13:55:49 -0600,"/t/clojure,/t/java",Understanding Data as the API philosophy in Clojure,https://medium.com/@chris.shellenbarger/key-lesson-building-cloudrepo-with-clojure-99bc1c1c405e,/u/Yogthos,1

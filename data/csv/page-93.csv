@@ -1,25 +1,25 @@
-0,2017-12-16 08:44:40 -0600,"['/t/cryptocurrencies', '/t/security']",Parity Proposals’ Potential Problems,http://hackingdistributed.com/2017/12/13/ether-resurrection/,/u/gerikson,2
-21,2017-12-15 05:28:58 -0600,"['/t/haskell', '/t/scaling']","Anatomy of a Haskell-based Application, Revisited",https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html,/u/vegai,18
-20,2017-12-15 02:54:12 -0600,"['/t/javascript', '/t/release']",The Last JSON Spec,https://www.tbray.org/ongoing/When/201x/2017/12/14/RFC-8259-STD-90,/u/pgl,23
-2,2017-12-15 21:37:56 -0600,"['/t/crypto', '/t/distributed']",Storj: An Encrypted Object Storage Blockchain Technology,https://storj.io/,/u/timetoplatypus,2
-1,2017-12-15 10:02:15 -0600,"['/t/games', '/t/math']",How to cheat at Settlers by loading the dice,https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html,/u/pushcx,16
-0,2017-12-15 18:25:49 -0600,['/t/programming'],Soliciting episode ideas for a new podcast - Developer's Deep Dive,https://github.com/feoh/dev-deep-dive-podcast,/u/feoh,3
-0,2017-12-15 18:37:50 -0600,"['/t/compilers', '/t/dotnet']",How does .NET JIT a method? (also featuring ‘Tiered Compilation’),http://www.mattwarren.org/2017/12/15/How-does-.NET-JIT-a-method-and-Tiered-Compilation/,/u/calvin,5
-2,2017-12-14 19:55:28 -0600,"['/t/historical', '/t/security']",The Mirai Botnet Was Part of a College Student Minecraft Scheme,https://www.wired.com/story/mirai-botnet-minecraft-scam-brought-down-the-internet,/u/adsouza,45
-3,2017-12-15 08:58:33 -0600,"['/t/compsci', '/t/education', '/t/historical', '/t/programming']",Fourteen Years of Software Engineering at ETH Zurich,https://arxiv.org/abs/1712.05078,/u/nickpsecurity,9
-0,2017-12-15 11:59:13 -0600,"['/t/pdf', '/t/math']","Exploring Physics with Geometric Algebra, Book I [pdf] (2016)",http://peeterjoot.com/archives/math2015/gabookI.pdf,/u/adamnemecek,8
-0,2017-12-15 16:55:27 -0600,['/t/graphics'],Crunch compression of ETC textures,https://blogs.unity3d.com/2017/12/15/crunch-compression-of-etc-textures/,/u/mikejsavage,4
-4,2017-12-15 02:51:16 -0600,"['/t/hardware', '/t/performance']",Tiny Titan,http://tinytitan.github.io/,/u/av,12
-6,2017-12-14 20:48:18 -0600,['/t/java'],Java 8 – The Bad Parts,http://4comprehension.com/java-8-the-bad-parts/,/u/soulcutter,21
-0,2017-12-15 10:48:08 -0600,['/t/databases'],Three-Valued Logic (3VL),http://modern-sql.com/concept/three-valued-logic,/u/av,5
-0,2017-12-15 06:55:45 -0600,['/t/programming'],State of Voice Coding — 2017,https://medium.com/bambuu/state-of-voice-coding-2017-3d2ff41c5015,/u/calvin,7
-7,2017-12-14 17:58:00 -0600,['/t/scaling'],Scaling Slack’s Job Queue,https://slack.engineering/scaling-slacks-job-queue-687222e9d100,/u/calvin,16
-0,2017-12-15 11:00:43 -0600,"['/t/security', '/t/windows']",keeper: privileged ui injected into pages (again) - project-zero,https://bugs.chromium.org/p/project-zero/issues/detail?id=1481,/u/sevan,4
-0,2017-12-15 09:26:39 -0600,['/t/swift'],Type Erasure in Swift,https://www.mikeash.com/pyblog/friday-qa-2017-12-08-type-erasure-in-swift.html,/u/av,4
-0,2017-12-15 07:19:17 -0600,['/t/go'],Diagnostics,https://tip.golang.org/doc/diagnostics.html,/u/mhausenblas,5
-0,2017-12-15 08:39:51 -0600,['/t/law'],New York City Wants to Audit the Powerful Algorithms That Control Our Lives,https://gizmodo.com/new-york-city-wants-to-audit-the-powerful-algorithms-th-1821305284,/u/adsouza,4
-15,2017-12-14 04:19:37 -0600,"['/t/security', '/t/web']","I'm Sorry You Feel This Way NatWest, but HTTPS on Your Landing Page Is Important",https://www.troyhunt.com/im-sorry-you-feel-this-way-natwest-but-https-on-your-landing-page-is-important/,/u/av,47
-0,2017-12-15 12:59:14 -0600,"['/t/education', '/t/programming']",Getting Started in Open Source Software,https://www.promptworks.com/blog/getting-started-in-open-source-software,/u/promptworks,2
-0,2017-12-14 19:27:35 -0600,['/t/games'],"Vintage Windows GUIs in ""Everything is going to be OK""",https://medium.com/@LiterallyAKing/vintage-windows-guis-in-everything-is-going-to-be-ok-20b38b11bb4f,/u/alexkorban,12
-4,2017-12-14 10:46:23 -0600,"['/t/hardware', '/t/security']","The Intel ME vulnerabilities are a big deal for some people, harmless for most",https://mjg59.dreamwidth.org/49788.html,/u/calvin,17
-9,2017-12-14 10:06:30 -0600,"['/t/cryptocurrencies', '/t/finance', '/t/historical']",The deal with Bitcoin,http://lcamtuf.blogspot.com/2017/12/the-deal-with-bitcoin.html,/u/mulander,14
+0,2017-12-16 08:44:40 -0600,"/t/cryptocurrencies,/t/security",Parity Proposals’ Potential Problems,http://hackingdistributed.com/2017/12/13/ether-resurrection/,/u/gerikson,2
+21,2017-12-15 05:28:58 -0600,"/t/haskell,/t/scaling","Anatomy of a Haskell-based Application, Revisited",https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html,/u/vegai,18
+20,2017-12-15 02:54:12 -0600,"/t/javascript,/t/release",The Last JSON Spec,https://www.tbray.org/ongoing/When/201x/2017/12/14/RFC-8259-STD-90,/u/pgl,23
+2,2017-12-15 21:37:56 -0600,"/t/crypto,/t/distributed",Storj: An Encrypted Object Storage Blockchain Technology,https://storj.io/,/u/timetoplatypus,2
+1,2017-12-15 10:02:15 -0600,"/t/games,/t/math",How to cheat at Settlers by loading the dice,https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html,/u/pushcx,16
+0,2017-12-15 18:25:49 -0600,/t/programming,Soliciting episode ideas for a new podcast - Developer's Deep Dive,https://github.com/feoh/dev-deep-dive-podcast,/u/feoh,3
+0,2017-12-15 18:37:50 -0600,"/t/compilers,/t/dotnet",How does .NET JIT a method? (also featuring ‘Tiered Compilation’),http://www.mattwarren.org/2017/12/15/How-does-.NET-JIT-a-method-and-Tiered-Compilation/,/u/calvin,5
+2,2017-12-14 19:55:28 -0600,"/t/historical,/t/security",The Mirai Botnet Was Part of a College Student Minecraft Scheme,https://www.wired.com/story/mirai-botnet-minecraft-scam-brought-down-the-internet,/u/adsouza,45
+3,2017-12-15 08:58:33 -0600,"/t/compsci,/t/education,/t/historical,/t/programming",Fourteen Years of Software Engineering at ETH Zurich,https://arxiv.org/abs/1712.05078,/u/nickpsecurity,9
+0,2017-12-15 11:59:13 -0600,"/t/pdf,/t/math","Exploring Physics with Geometric Algebra, Book I [pdf] (2016)",http://peeterjoot.com/archives/math2015/gabookI.pdf,/u/adamnemecek,8
+0,2017-12-15 16:55:27 -0600,/t/graphics,Crunch compression of ETC textures,https://blogs.unity3d.com/2017/12/15/crunch-compression-of-etc-textures/,/u/mikejsavage,4
+4,2017-12-15 02:51:16 -0600,"/t/hardware,/t/performance",Tiny Titan,http://tinytitan.github.io/,/u/av,12
+6,2017-12-14 20:48:18 -0600,/t/java,Java 8 – The Bad Parts,http://4comprehension.com/java-8-the-bad-parts/,/u/soulcutter,21
+0,2017-12-15 10:48:08 -0600,/t/databases,Three-Valued Logic (3VL),http://modern-sql.com/concept/three-valued-logic,/u/av,5
+0,2017-12-15 06:55:45 -0600,/t/programming,State of Voice Coding — 2017,https://medium.com/bambuu/state-of-voice-coding-2017-3d2ff41c5015,/u/calvin,7
+7,2017-12-14 17:58:00 -0600,/t/scaling,Scaling Slack’s Job Queue,https://slack.engineering/scaling-slacks-job-queue-687222e9d100,/u/calvin,16
+0,2017-12-15 11:00:43 -0600,"/t/security,/t/windows",keeper: privileged ui injected into pages (again) - project-zero,https://bugs.chromium.org/p/project-zero/issues/detail?id=1481,/u/sevan,4
+0,2017-12-15 09:26:39 -0600,/t/swift,Type Erasure in Swift,https://www.mikeash.com/pyblog/friday-qa-2017-12-08-type-erasure-in-swift.html,/u/av,4
+0,2017-12-15 07:19:17 -0600,/t/go,Diagnostics,https://tip.golang.org/doc/diagnostics.html,/u/mhausenblas,5
+0,2017-12-15 08:39:51 -0600,/t/law,New York City Wants to Audit the Powerful Algorithms That Control Our Lives,https://gizmodo.com/new-york-city-wants-to-audit-the-powerful-algorithms-th-1821305284,/u/adsouza,4
+15,2017-12-14 04:19:37 -0600,"/t/security,/t/web","I'm Sorry You Feel This Way NatWest, but HTTPS on Your Landing Page Is Important",https://www.troyhunt.com/im-sorry-you-feel-this-way-natwest-but-https-on-your-landing-page-is-important/,/u/av,47
+0,2017-12-15 12:59:14 -0600,"/t/education,/t/programming",Getting Started in Open Source Software,https://www.promptworks.com/blog/getting-started-in-open-source-software,/u/promptworks,2
+0,2017-12-14 19:27:35 -0600,/t/games,"Vintage Windows GUIs in ""Everything is going to be OK""",https://medium.com/@LiterallyAKing/vintage-windows-guis-in-everything-is-going-to-be-ok-20b38b11bb4f,/u/alexkorban,12
+4,2017-12-14 10:46:23 -0600,"/t/hardware,/t/security","The Intel ME vulnerabilities are a big deal for some people, harmless for most",https://mjg59.dreamwidth.org/49788.html,/u/calvin,17
+9,2017-12-14 10:06:30 -0600,"/t/cryptocurrencies,/t/finance,/t/historical",The deal with Bitcoin,http://lcamtuf.blogspot.com/2017/12/the-deal-with-bitcoin.html,/u/mulander,14

@@ -1,25 +1,25 @@
-0,2016-12-04 22:33:03 -0600,['/t/compilers'],Lift: performance portability on parallel accelerators,http://www.lift-project.org/,/u/sanxiyn,1
-0,2016-12-03 17:10:07 -0600,['/t/rust'],ripgrep code review,http://blog.mbrt.it/2016-12-01-ripgrep-code-review/,/u/peterhorne,30
-1,2016-12-04 07:56:42 -0600,"['/t/culture', '/t/privacy']",Real life seems like Shadowrun - so why can't I throw fragging fireballs?!,http://drwho.virtadpt.net/archive/2016-11-26/real-life-seems-like-shadowrun,/u/Bystroushaak,10
-0,2016-12-04 02:11:44 -0600,['/t/rust'],24 days of Rust,https://siciarz.net/24-days-rust-rayon/,/u/av,10
-0,2016-12-03 22:29:14 -0600,"['/t/pdf', '/t/ml']",ML Type Inference and Unification,https://www.cs.colorado.edu/~bec/courses/csci5535-s09/slides/ML_Type_Inference_and_Unification.pdf,/u/etc,14
-1,2016-12-04 17:14:32 -0600,"['/t/culture', '/t/programming', '/t/rant']",We don’t need a Tech Lead,http://vvgomes.com/we-dont-need-tech-leads/,/u/gtramontina,5
-10,2016-12-03 18:02:55 -0600,['/t/practices'],This AI Boom Will Also Bust,http://www.overcomingbias.com/2016/12/this-ai-boom-will-also-bust.html,/u/cmhamill,10
-0,2016-12-03 22:58:43 -0600,"['/t/design', '/t/mobile']",Small is Beautiful: Why Desktop UX still has something to teach Mobile,https://jenson.org/small/,/u/calvin,10
-1,2016-12-03 22:14:26 -0600,"['/t/haskell', '/t/vim']",Vim + Haskell,http://www.sillybytes.net/2016/08/vim-haskell_11.html,/u/pushcx,7
-2,2016-12-03 17:01:51 -0600,['/t/browsers'],Beaker | An experimental P2P browser,https://beakerbrowser.com/,/u/jackivan88,11
-0,2016-12-04 03:21:12 -0600,"['/t/games', '/t/graphics']",HL2 Map Editing Optimization Page,http://www.optimization.interlopers.net/index.php?chapter=intro,/u/mikejsavage,4
-0,2016-12-03 22:24:43 -0600,"['/t/audio', '/t/games', '/t/historical']",Zork I: The Great Underground Empire,http://monsterfeet.com/grue/notes/1,/u/pushcx,7
-0,2016-12-04 08:43:27 -0600,['/t/practices'],The Practice of Code Review,https://zerohour-productions.net/?q=node/242,/u/calvin,1
-1,2016-12-03 13:15:49 -0600,"['/t/erlang', '/t/practices']",Last resort testing,http://blog.ikura.co/posts/last-resort-testing.html,/u/nato,6
-0,2016-12-03 16:56:17 -0600,['/t/cogsci'],Neuroscientists Say Simple Mathematical Logic Underlies Complex Brain Computations,http://www.sci-news.com/featurednews/mathematical-logic-underlies-brain-computations-04397.html,/u/calvin,7
-8,2016-12-03 05:31:49 -0600,['/t/networking'],Forwarding issues related to MACs starting with a 4 or a 6,http://seclists.org/nanog/2016/Dec/29,/u/stsp,12
-1,2016-12-03 16:13:11 -0600,['/t/release'],Qubes OS Begins Commercialization and Community Funding Efforts,http://www.qubes-os.org/news/2016/11/30/qubes-commercialization/,/u/flux,7
-0,2016-12-03 17:24:16 -0600,"['/t/compsci', '/t/historical', '/t/philosophy']",Time to Reinspect the Foundations? - CACM Nov 2016,http://cacm.acm.org/magazines/2016/11/209121-time-to-reinspect-the-foundations/fulltext,/u/quobit,6
-19,2016-12-02 14:59:13 -0600,['/t/linux'],The Free Software Foundation is in need of members,/s/zejsq5/free_software_foundation_is_need_members,/u/pizzaiolo,25
-1,2016-12-03 16:48:52 -0600,"['/t/slides', '/t/cogsci', '/t/reversing', '/t/security']",Connecting Communities,https://speakerdeck.com/ange/connecting-communities,/u/355E3B,3
-2,2016-12-03 12:02:54 -0600,"['/t/video', '/t/science']",Pilot Wave Theory and Quantum Realism,https://www.youtube.com/watch?v=RlXdsyctD50,/u/nil,3
-0,2016-12-03 19:46:05 -0600,"['/t/games', '/t/lua']",TorchCraft - A bridge between Torch and StarCraft,https://github.com/TorchCraft/TorchCraft,/u/tf,2
-0,2016-12-03 13:28:13 -0600,['/t/browsers'],URL Parsing in WebKit,https://webkit.org/blog/7086/url-parsing-in-webkit/,/u/calvin,4
-0,2016-12-03 09:44:10 -0600,['/t/programming'],Macros: the Red language way,http://www.red-lang.org/2016/12/entering-world-of-macros.html,/u/unbalancedparentheses,6
-9,2016-12-02 22:11:22 -0600,['/t/c'],C++ confessions of a C developer,http://undo.io/resources/blog-articles/cpp-confessions-of-a-c-dev/,/u/av,11
+0,2016-12-04 22:33:03 -0600,/t/compilers,Lift: performance portability on parallel accelerators,http://www.lift-project.org/,/u/sanxiyn,1
+0,2016-12-03 17:10:07 -0600,/t/rust,ripgrep code review,http://blog.mbrt.it/2016-12-01-ripgrep-code-review/,/u/peterhorne,30
+1,2016-12-04 07:56:42 -0600,"/t/culture,/t/privacy",Real life seems like Shadowrun - so why can't I throw fragging fireballs?!,http://drwho.virtadpt.net/archive/2016-11-26/real-life-seems-like-shadowrun,/u/Bystroushaak,10
+0,2016-12-04 02:11:44 -0600,/t/rust,24 days of Rust,https://siciarz.net/24-days-rust-rayon/,/u/av,10
+0,2016-12-03 22:29:14 -0600,"/t/pdf,/t/ml",ML Type Inference and Unification,https://www.cs.colorado.edu/~bec/courses/csci5535-s09/slides/ML_Type_Inference_and_Unification.pdf,/u/etc,14
+1,2016-12-04 17:14:32 -0600,"/t/culture,/t/programming,/t/rant",We don’t need a Tech Lead,http://vvgomes.com/we-dont-need-tech-leads/,/u/gtramontina,5
+10,2016-12-03 18:02:55 -0600,/t/practices,This AI Boom Will Also Bust,http://www.overcomingbias.com/2016/12/this-ai-boom-will-also-bust.html,/u/cmhamill,10
+0,2016-12-03 22:58:43 -0600,"/t/design,/t/mobile",Small is Beautiful: Why Desktop UX still has something to teach Mobile,https://jenson.org/small/,/u/calvin,10
+1,2016-12-03 22:14:26 -0600,"/t/haskell,/t/vim",Vim + Haskell,http://www.sillybytes.net/2016/08/vim-haskell_11.html,/u/pushcx,7
+2,2016-12-03 17:01:51 -0600,/t/browsers,Beaker | An experimental P2P browser,https://beakerbrowser.com/,/u/jackivan88,11
+0,2016-12-04 03:21:12 -0600,"/t/games,/t/graphics",HL2 Map Editing Optimization Page,http://www.optimization.interlopers.net/index.php?chapter=intro,/u/mikejsavage,4
+0,2016-12-03 22:24:43 -0600,"/t/audio,/t/games,/t/historical",Zork I: The Great Underground Empire,http://monsterfeet.com/grue/notes/1,/u/pushcx,7
+0,2016-12-04 08:43:27 -0600,/t/practices,The Practice of Code Review,https://zerohour-productions.net/?q=node/242,/u/calvin,1
+1,2016-12-03 13:15:49 -0600,"/t/erlang,/t/practices",Last resort testing,http://blog.ikura.co/posts/last-resort-testing.html,/u/nato,6
+0,2016-12-03 16:56:17 -0600,/t/cogsci,Neuroscientists Say Simple Mathematical Logic Underlies Complex Brain Computations,http://www.sci-news.com/featurednews/mathematical-logic-underlies-brain-computations-04397.html,/u/calvin,7
+8,2016-12-03 05:31:49 -0600,/t/networking,Forwarding issues related to MACs starting with a 4 or a 6,http://seclists.org/nanog/2016/Dec/29,/u/stsp,12
+1,2016-12-03 16:13:11 -0600,/t/release,Qubes OS Begins Commercialization and Community Funding Efforts,http://www.qubes-os.org/news/2016/11/30/qubes-commercialization/,/u/flux,7
+0,2016-12-03 17:24:16 -0600,"/t/compsci,/t/historical,/t/philosophy",Time to Reinspect the Foundations? - CACM Nov 2016,http://cacm.acm.org/magazines/2016/11/209121-time-to-reinspect-the-foundations/fulltext,/u/quobit,6
+19,2016-12-02 14:59:13 -0600,/t/linux,The Free Software Foundation is in need of members,/s/zejsq5/free_software_foundation_is_need_members,/u/pizzaiolo,25
+1,2016-12-03 16:48:52 -0600,"/t/slides,/t/cogsci,/t/reversing,/t/security",Connecting Communities,https://speakerdeck.com/ange/connecting-communities,/u/355E3B,3
+2,2016-12-03 12:02:54 -0600,"/t/video,/t/science",Pilot Wave Theory and Quantum Realism,https://www.youtube.com/watch?v=RlXdsyctD50,/u/nil,3
+0,2016-12-03 19:46:05 -0600,"/t/games,/t/lua",TorchCraft - A bridge between Torch and StarCraft,https://github.com/TorchCraft/TorchCraft,/u/tf,2
+0,2016-12-03 13:28:13 -0600,/t/browsers,URL Parsing in WebKit,https://webkit.org/blog/7086/url-parsing-in-webkit/,/u/calvin,4
+0,2016-12-03 09:44:10 -0600,/t/programming,Macros: the Red language way,http://www.red-lang.org/2016/12/entering-world-of-macros.html,/u/unbalancedparentheses,6
+9,2016-12-02 22:11:22 -0600,/t/c,C++ confessions of a C developer,http://undo.io/resources/blog-articles/cpp-confessions-of-a-c-dev/,/u/av,11

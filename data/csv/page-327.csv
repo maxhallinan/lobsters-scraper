@@ -1,25 +1,25 @@
-0,2017-06-15 10:07:13 -0500,"['/t/android', '/t/hardware', '/t/security']","Nexus 9 vs. Malicious Headphones, Take Two",https://alephsecurity.com/2017/06/13/nexus9-ephemeral-fiq/,/u/jcs,8
-3,2017-06-15 04:53:19 -0500,['/t/lisp'],I dislike parentheses that that's one of the reasons why I love Lisp,https://twitter.com/nicoberger/status/874690048221995008,/u/unbalancedparentheses,11
-0,2017-06-15 17:19:09 -0500,['/t/dotnet'],How the .NET Runtime loads a Type,http://www.mattwarren.org/2017/06/15/How-the-.NET-Rutime-loads-a-Type/,/u/calvin,3
-3,2017-06-14 22:36:28 -0500,"['/t/networking', '/t/openbsd', '/t/virtualization']",My OpenBSD Server (2) - A virtualized network with OpenBSD's vmm,http://blog.hermes-technology.de/openbsd/server/virtualmachine/network/2017/06/12/vmd-for-a-virtual-server-network.html,/u/jcs,19
-0,2017-06-16 06:06:45 -0500,['/t/release'],libraries.io releases open dataset of 2.4 mio. open source projects,https://libraries.io/data,/u/fs111,0
-10,2017-06-14 12:42:36 -0500,"['/t/ai', '/t/meta']",Tag proposal: AI,/s/lcwvie/tag_proposal_ai,/u/mjn,42
-9,2017-06-14 07:39:45 -0500,['/t/practices'],"Lawyers, bad jokes and typos: how not to name your software",https://codewithoutrules.com/2017/06/14/how-to-name-your-software/,/u/itamarst,35
-0,2017-06-15 12:07:08 -0500,['/t/meta'],US National Lobster Day,https://www.nationaldaycalendar.com/days-2/national-lobster-day-june-15/,/u/goodger,9
-0,2017-06-15 14:49:36 -0500,"['/t/video', '/t/compsci']",Panel: What's Next for Our Programming Languages?,https://www.infoq.com/presentations/panel-languages-future,/u/craigstuntz,3
-1,2017-06-15 10:55:18 -0500,"['/t/compsci', '/t/formalmethods', '/t/programming']",Formal Reasoning About Programs (draft book by Chlipala),http://adam.chlipala.net/frap/,/u/nickpsecurity,5
-0,2017-06-15 17:20:16 -0500,"['/t/education', '/t/philosophy']",An Axiomatic Approach to Algebra and Other Aspects of Life (2011),http://carymillsap.blogspot.com/2011/01/axiomatic-approach-to-algebra-and-other.html,/u/calvin,2
-2,2017-06-15 16:39:06 -0500,"['/t/android', '/t/ios', '/t/mobile', '/t/web']",Our dirty little secret: Cross-platform email client with nothing but HTML,https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02,/u/yumaikas,1
-0,2017-06-15 15:49:40 -0500,"['/t/video', '/t/games']",BORDERLANDS 3 Tech Demo GDC 2017,https://www.youtube.com/watch?v=nWZh0DyA_4c,/u/soulcutter,2
-14,2017-06-14 10:18:36 -0500,"['/t/databases', '/t/mobile']",SQLite is 35% Faster Than The Filesystem,https://www.sqlite.org/fasterthanfs.html,/u/mpron,32
-5,2017-06-14 11:24:58 -0500,['/t/compsci'],Facebook Research just published an awesome paper on learning hierarchical representations,https://medium.com/@nishantnikhil/facebook-research-just-published-an-awesome-paper-on-learning-hierarchical-representations-34e3d829ede7,/u/nishnik,14
-4,2017-06-14 15:04:02 -0500,"['/t/pdf', '/t/api', '/t/compilers', '/t/historical', '/t/programming']","Project Oberon: The Design of an Operating System, a Compiler, and a Computer",https://www.inf.ethz.ch/personal/wirth/ProjectOberon/PO.System.pdf,/u/friendlysock,19
-2,2017-06-14 22:39:59 -0500,"['/t/api', '/t/web']",POST != Create and PUT != UpdatePOST,http://www.eq8.eu/blogs/37-post-create-and-put-update,/u/pushcx,6
-0,2017-06-15 11:01:16 -0500,"['/t/pdf', '/t/formalmethods', '/t/graphics', '/t/programming']","CertSkel - Verified Compiler for a Coq-Embedded, GPGPU DSL (2017)",http://prg.is.titech.ac.jp/wp-content/uploads/2016/11/CoqPL_2017_paper_15.pdf,/u/nickpsecurity,2
-0,2017-06-14 11:12:02 -0500,['/t/rust'],Bugs You'll Probably Only Have in Rust,https://gankro.github.io/blah/only-in-rust/,/u/pushcx,35
-8,2017-06-15 10:35:10 -0500,"['/t/security', '/t/windows']",Microsoft finally patches Windows XP to plug Wannacry vulnerability,https://technet.microsoft.com/en-us/library/security/4025685.aspx,/u/goodger,1
-2,2017-06-14 17:36:19 -0500,"['/t/job', '/t/practices', '/t/satire']",What if companies interviewed translators the way they interview coders?,https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6,/u/friendlysock,28
-1,2017-06-14 14:08:35 -0500,"['/t/law', '/t/philosophy']",The Right to Read,https://www.gnu.org/philosophy/right-to-read.html,/u/hobbes,16
-0,2017-06-15 10:21:41 -0500,"['/t/audio', '/t/css']",CSS Grid,http://shoptalkshow.com/episodes/262-css-grid-rachel-andrew-jen-simmons/,/u/flyingfisch,1
-5,2017-06-15 11:23:17 -0500,['/t/finance'],The 1 Year to $1 Million Project,https://franciskim.co/1-year-1-million/,/u/franciskim,0
-0,2017-06-15 10:09:18 -0500,"['/t/javascript', '/t/web']",Reduce your javascript bundle size by 77% with gzip,https://gist.github.com/481c03ad0ffeb14ff02a42ef3bd69246,/u/pushcx,1
+0,2017-06-15 10:07:13 -0500,"/t/android,/t/hardware,/t/security","Nexus 9 vs. Malicious Headphones, Take Two",https://alephsecurity.com/2017/06/13/nexus9-ephemeral-fiq/,/u/jcs,8
+3,2017-06-15 04:53:19 -0500,/t/lisp,I dislike parentheses that that's one of the reasons why I love Lisp,https://twitter.com/nicoberger/status/874690048221995008,/u/unbalancedparentheses,11
+0,2017-06-15 17:19:09 -0500,/t/dotnet,How the .NET Runtime loads a Type,http://www.mattwarren.org/2017/06/15/How-the-.NET-Rutime-loads-a-Type/,/u/calvin,3
+3,2017-06-14 22:36:28 -0500,"/t/networking,/t/openbsd,/t/virtualization",My OpenBSD Server (2) - A virtualized network with OpenBSD's vmm,http://blog.hermes-technology.de/openbsd/server/virtualmachine/network/2017/06/12/vmd-for-a-virtual-server-network.html,/u/jcs,19
+0,2017-06-16 06:06:45 -0500,/t/release,libraries.io releases open dataset of 2.4 mio. open source projects,https://libraries.io/data,/u/fs111,0
+10,2017-06-14 12:42:36 -0500,"/t/ai,/t/meta",Tag proposal: AI,/s/lcwvie/tag_proposal_ai,/u/mjn,42
+9,2017-06-14 07:39:45 -0500,/t/practices,"Lawyers, bad jokes and typos: how not to name your software",https://codewithoutrules.com/2017/06/14/how-to-name-your-software/,/u/itamarst,35
+0,2017-06-15 12:07:08 -0500,/t/meta,US National Lobster Day,https://www.nationaldaycalendar.com/days-2/national-lobster-day-june-15/,/u/goodger,9
+0,2017-06-15 14:49:36 -0500,"/t/video,/t/compsci",Panel: What's Next for Our Programming Languages?,https://www.infoq.com/presentations/panel-languages-future,/u/craigstuntz,3
+1,2017-06-15 10:55:18 -0500,"/t/compsci,/t/formalmethods,/t/programming",Formal Reasoning About Programs (draft book by Chlipala),http://adam.chlipala.net/frap/,/u/nickpsecurity,5
+0,2017-06-15 17:20:16 -0500,"/t/education,/t/philosophy",An Axiomatic Approach to Algebra and Other Aspects of Life (2011),http://carymillsap.blogspot.com/2011/01/axiomatic-approach-to-algebra-and-other.html,/u/calvin,2
+2,2017-06-15 16:39:06 -0500,"/t/android,/t/ios,/t/mobile,/t/web",Our dirty little secret: Cross-platform email client with nothing but HTML,https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02,/u/yumaikas,1
+0,2017-06-15 15:49:40 -0500,"/t/video,/t/games",BORDERLANDS 3 Tech Demo GDC 2017,https://www.youtube.com/watch?v=nWZh0DyA_4c,/u/soulcutter,2
+14,2017-06-14 10:18:36 -0500,"/t/databases,/t/mobile",SQLite is 35% Faster Than The Filesystem,https://www.sqlite.org/fasterthanfs.html,/u/mpron,32
+5,2017-06-14 11:24:58 -0500,/t/compsci,Facebook Research just published an awesome paper on learning hierarchical representations,https://medium.com/@nishantnikhil/facebook-research-just-published-an-awesome-paper-on-learning-hierarchical-representations-34e3d829ede7,/u/nishnik,14
+4,2017-06-14 15:04:02 -0500,"/t/pdf,/t/api,/t/compilers,/t/historical,/t/programming","Project Oberon: The Design of an Operating System, a Compiler, and a Computer",https://www.inf.ethz.ch/personal/wirth/ProjectOberon/PO.System.pdf,/u/friendlysock,19
+2,2017-06-14 22:39:59 -0500,"/t/api,/t/web",POST != Create and PUT != UpdatePOST,http://www.eq8.eu/blogs/37-post-create-and-put-update,/u/pushcx,6
+0,2017-06-15 11:01:16 -0500,"/t/pdf,/t/formalmethods,/t/graphics,/t/programming","CertSkel - Verified Compiler for a Coq-Embedded, GPGPU DSL (2017)",http://prg.is.titech.ac.jp/wp-content/uploads/2016/11/CoqPL_2017_paper_15.pdf,/u/nickpsecurity,2
+0,2017-06-14 11:12:02 -0500,/t/rust,Bugs You'll Probably Only Have in Rust,https://gankro.github.io/blah/only-in-rust/,/u/pushcx,35
+8,2017-06-15 10:35:10 -0500,"/t/security,/t/windows",Microsoft finally patches Windows XP to plug Wannacry vulnerability,https://technet.microsoft.com/en-us/library/security/4025685.aspx,/u/goodger,1
+2,2017-06-14 17:36:19 -0500,"/t/job,/t/practices,/t/satire",What if companies interviewed translators the way they interview coders?,https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6,/u/friendlysock,28
+1,2017-06-14 14:08:35 -0500,"/t/law,/t/philosophy",The Right to Read,https://www.gnu.org/philosophy/right-to-read.html,/u/hobbes,16
+0,2017-06-15 10:21:41 -0500,"/t/audio,/t/css",CSS Grid,http://shoptalkshow.com/episodes/262-css-grid-rachel-andrew-jen-simmons/,/u/flyingfisch,1
+5,2017-06-15 11:23:17 -0500,/t/finance,The 1 Year to $1 Million Project,https://franciskim.co/1-year-1-million/,/u/franciskim,0
+0,2017-06-15 10:09:18 -0500,"/t/javascript,/t/web",Reduce your javascript bundle size by 77% with gzip,https://gist.github.com/481c03ad0ffeb14ff02a42ef3bd69246,/u/pushcx,1

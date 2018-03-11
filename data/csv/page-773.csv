@@ -1,25 +1,25 @@
-0,2016-05-25 11:53:52 -0500,['/t/ruby'],Mainstream precludes cool,https://m.signalvnoise.com/mainstream-precludes-cool-506885f5f837,/u/joshuacc,8
-10,2016-05-24 12:22:20 -0500,['/t/practices'],Your Occasional Reminder to Use Plain Text Whenever Possible,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2016-05.html#e2016-05-23T13_55_02.htm,/u/fcambus,56
-0,2016-05-25 12:37:41 -0500,"['/t/javascript', '/t/programming', '/t/web']",The Complete-Ish Guide to Upgrading to Gulp 4,https://www.joezimjs.com/javascript/complete-guide-upgrading-gulp-4/,/u/joezimjs,3
-31,2016-05-24 11:53:46 -0500,"['/t/c', '/t/openbsd', '/t/web']","BCHS: BSD, C, httpd, SQLite",http://www.learnbchs.org/,/u/mulander,42
-0,2016-05-25 07:54:27 -0500,"['/t/design', '/t/web']",Creating a Web Type Lockup,https://css-tricks.com/creating-web-type-lockup/,/u/flyingfisch,7
-19,2016-05-24 13:47:53 -0500,"['/t/emacs', '/t/practices']",Org Mode - Organize Your Life In Plain Text!,http://doc.norang.ca/org-mode.html,/u/apy,25
-4,2016-05-25 01:11:02 -0500,['/t/compilers'],The surprising cleverness of modern compilers,http://lemire.me/blog/2016/05/23/the-surprising-cleverness-of-modern-compilers/,/u/jasper,7
-0,2016-05-25 11:02:18 -0500,"['/t/design', '/t/web']",Understanding The CSS Property Value Syntax,https://www.smashingmagazine.com/2016/05/understanding-the-css-property-value-syntax/,/u/flyingfisch,4
-0,2016-05-25 09:56:59 -0500,['/t/math'],Solving a Fun Little Puzzle with Analysis and Simulation,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2016-03.html#e2016-03-07T17_12_11.htm,/u/xcombelle,4
-0,2016-05-25 06:23:34 -0500,"['/t/crypto', '/t/security']",Cryptographic Agility,https://www.imperialviolet.org/2016/05/16/agility.html,/u/zgrep,6
-8,2016-05-24 10:12:26 -0500,"['/t/show', '/t/unix']",Comfort On The Command Line - A primer,https://www.cotcli.com,/u/gabe,16
-0,2016-05-25 11:56:19 -0500,['/t/distributed'],"Twitter's Heron, an API-compatible Apache Storm alternative, is now open source",http://twitter.github.io/heron/,/u/amontalenti,2
-0,2016-05-25 11:41:11 -0500,"['/t/video', '/t/visualization']",Joe Minicozzi - How We Measure the City,https://www.youtube.com/watch?v=yhvKIaLjOJ8,/u/asthasr,2
-0,2016-05-25 11:11:16 -0500,['/t/linux'],CentOS 6.8 released - Release Notes,http://wiki.centos.org/Manuals/ReleaseNotes/CentOS6.8,/u/fkr,2
-0,2016-05-24 19:10:31 -0500,['/t/programming'],Pony Patterns: Accessing an Actor with Arbitrary Transactions,http://patterns.ponylang.org/async/access.html,/u/SeanTAllen,12
-2,2016-05-24 15:31:16 -0500,"['/t/privacy', '/t/security']",Shadow leaks,http://blog.tintagel.pl/2016/05/24/shadow-leaks.html,/u/mulander,6
-0,2016-05-25 10:38:49 -0500,"['/t/video', '/t/web']",Web Performance Tooling at Google I/O 2016,https://www.youtube.com/watch?v=iMqi55rcR00&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&index=7,/u/flyingfisch,1
-0,2016-05-25 10:18:32 -0500,"['/t/c', '/t/ios']",Researching ResearchKit,http://petersteinberger.com/blog/2015/researching-researchkit/,/u/samsymons,1
-0,2016-05-25 17:20:35 -0500,"['/t/culture', '/t/satire']",CircleCI Blog - It's The Future (2015),https://circleci.com/blog/its-the-future/,/u/lannonbr,2
-2,2016-05-24 10:01:03 -0500,['/t/book'],Alan Kay's Reading List,http://www.squeakland.org/resources/books/readingList.jsp,/u/numberten,21
-8,2016-05-24 16:13:02 -0500,['/t/haskell'],Computing Cryptographic Hashes for Cyclic Dependencies,https://blog.fugue.co/2016-05-18-cryptographic-hashes-and-dependency-cycles.html,/u/jtobin,6
-40,2016-05-24 00:48:44 -0500,['/t/programming'],Death of a Language Dilettante,http://prog21.dadgum.com/219.html,/u/uggedal,31
-3,2016-05-24 08:07:07 -0500,"['/t/ruby', '/t/web']",Rails has won: The Elephant in the Room,http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room,/u/caius,14
-0,2016-05-25 00:37:49 -0500,['/t/distributed'],swarmchan : IPFS and Ethereum *chan clone,https://github.com/nginnever/swarmchan,/u/friendlysock,3
-1,2016-05-24 10:53:51 -0500,['/t/erlang'],Why Erlang Is Awesome (2010),http://veldstra.org/whyerlang/,/u/mulander,12
+0,2016-05-25 11:53:52 -0500,/t/ruby,Mainstream precludes cool,https://m.signalvnoise.com/mainstream-precludes-cool-506885f5f837,/u/joshuacc,8
+10,2016-05-24 12:22:20 -0500,/t/practices,Your Occasional Reminder to Use Plain Text Whenever Possible,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2016-05.html#e2016-05-23T13_55_02.htm,/u/fcambus,56
+0,2016-05-25 12:37:41 -0500,"/t/javascript,/t/programming,/t/web",The Complete-Ish Guide to Upgrading to Gulp 4,https://www.joezimjs.com/javascript/complete-guide-upgrading-gulp-4/,/u/joezimjs,3
+31,2016-05-24 11:53:46 -0500,"/t/c,/t/openbsd,/t/web","BCHS: BSD, C, httpd, SQLite",http://www.learnbchs.org/,/u/mulander,42
+0,2016-05-25 07:54:27 -0500,"/t/design,/t/web",Creating a Web Type Lockup,https://css-tricks.com/creating-web-type-lockup/,/u/flyingfisch,7
+19,2016-05-24 13:47:53 -0500,"/t/emacs,/t/practices",Org Mode - Organize Your Life In Plain Text!,http://doc.norang.ca/org-mode.html,/u/apy,25
+4,2016-05-25 01:11:02 -0500,/t/compilers,The surprising cleverness of modern compilers,http://lemire.me/blog/2016/05/23/the-surprising-cleverness-of-modern-compilers/,/u/jasper,7
+0,2016-05-25 11:02:18 -0500,"/t/design,/t/web",Understanding The CSS Property Value Syntax,https://www.smashingmagazine.com/2016/05/understanding-the-css-property-value-syntax/,/u/flyingfisch,4
+0,2016-05-25 09:56:59 -0500,/t/math,Solving a Fun Little Puzzle with Analysis and Simulation,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2016-03.html#e2016-03-07T17_12_11.htm,/u/xcombelle,4
+0,2016-05-25 06:23:34 -0500,"/t/crypto,/t/security",Cryptographic Agility,https://www.imperialviolet.org/2016/05/16/agility.html,/u/zgrep,6
+8,2016-05-24 10:12:26 -0500,"/t/show,/t/unix",Comfort On The Command Line - A primer,https://www.cotcli.com,/u/gabe,16
+0,2016-05-25 11:56:19 -0500,/t/distributed,"Twitter's Heron, an API-compatible Apache Storm alternative, is now open source",http://twitter.github.io/heron/,/u/amontalenti,2
+0,2016-05-25 11:41:11 -0500,"/t/video,/t/visualization",Joe Minicozzi - How We Measure the City,https://www.youtube.com/watch?v=yhvKIaLjOJ8,/u/asthasr,2
+0,2016-05-25 11:11:16 -0500,/t/linux,CentOS 6.8 released - Release Notes,http://wiki.centos.org/Manuals/ReleaseNotes/CentOS6.8,/u/fkr,2
+0,2016-05-24 19:10:31 -0500,/t/programming,Pony Patterns: Accessing an Actor with Arbitrary Transactions,http://patterns.ponylang.org/async/access.html,/u/SeanTAllen,12
+2,2016-05-24 15:31:16 -0500,"/t/privacy,/t/security",Shadow leaks,http://blog.tintagel.pl/2016/05/24/shadow-leaks.html,/u/mulander,6
+0,2016-05-25 10:38:49 -0500,"/t/video,/t/web",Web Performance Tooling at Google I/O 2016,https://www.youtube.com/watch?v=iMqi55rcR00&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&index=7,/u/flyingfisch,1
+0,2016-05-25 10:18:32 -0500,"/t/c,/t/ios",Researching ResearchKit,http://petersteinberger.com/blog/2015/researching-researchkit/,/u/samsymons,1
+0,2016-05-25 17:20:35 -0500,"/t/culture,/t/satire",CircleCI Blog - It's The Future (2015),https://circleci.com/blog/its-the-future/,/u/lannonbr,2
+2,2016-05-24 10:01:03 -0500,/t/book,Alan Kay's Reading List,http://www.squeakland.org/resources/books/readingList.jsp,/u/numberten,21
+8,2016-05-24 16:13:02 -0500,/t/haskell,Computing Cryptographic Hashes for Cyclic Dependencies,https://blog.fugue.co/2016-05-18-cryptographic-hashes-and-dependency-cycles.html,/u/jtobin,6
+40,2016-05-24 00:48:44 -0500,/t/programming,Death of a Language Dilettante,http://prog21.dadgum.com/219.html,/u/uggedal,31
+3,2016-05-24 08:07:07 -0500,"/t/ruby,/t/web",Rails has won: The Elephant in the Room,http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room,/u/caius,14
+0,2016-05-25 00:37:49 -0500,/t/distributed,swarmchan : IPFS and Ethereum *chan clone,https://github.com/nginnever/swarmchan,/u/friendlysock,3
+1,2016-05-24 10:53:51 -0500,/t/erlang,Why Erlang Is Awesome (2010),http://veldstra.org/whyerlang/,/u/mulander,12

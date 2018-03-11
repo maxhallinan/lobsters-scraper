@@ -1,25 +1,25 @@
-7,2016-03-04 10:07:10 -0600,['/t/unix'],Bash One Liner - Compose Music From Entropy in /dev/urandom,http://blog.robertelder.org/bash-one-liner-compose-music/,/u/ix,14
-2,2016-03-04 20:34:14 -0600,"['/t/pdf', '/t/math']",Is the Null Graph a Pointless Concept (2006),https://docs.google.com/uc?id=0BykFwa9JjyblajNfR3dfblNZOUk&export=download,/u/pushcx,6
-1,2016-03-04 14:15:36 -0600,['/t/distributed'],Promises,https://christophermeiklejohn.com/pl/2016/03/04/promises.html,/u/cmeiklejohn,7
-14,2016-03-04 15:28:32 -0600,['/t/finance'],Wealth Inequality Is Even Worse in Reputation Economies,http://www.locusmag.com/Perspectives/2016/03/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/,/u/pushcx,5
-0,2016-03-04 18:40:19 -0600,"['/t/assembly', '/t/programming']",A Gentle Introduction to Machine Fundamentals,https://marijnhaverbeke.nl/turtle/,/u/apg,8
-0,2016-03-04 22:15:03 -0600,"['/t/graphics', '/t/historical']",The Most Important Object In Computer Graphics History Is This Teapot,http://nautil.us/blog/the-most-important-object-in-computer-graphics-history-is-this-teapot,/u/jitterted,5
-1,2016-03-04 20:35:31 -0600,"['/t/compilers', '/t/scala']",Scala+LLVM,http://greedy.github.io/scala-llvm/,/u/355E3B,4
-1,2016-03-04 11:15:54 -0600,['/t/c'],Why < cstdlib > is more complicated than you might think,http://developers.redhat.com/blog/2016/02/29/why-cstdlib-is-more-complicated-than-you-might-think/,/u/pushcx,14
-4,2016-03-05 06:07:02 -0600,['/t/culture'],"We Hire the Best, Just Like Everyone Else",http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/,/u/adsouza,3
-3,2016-03-04 12:56:56 -0600,['/t/hardware'],Samsung Introduces World’s Largest Capacity (15.36TB) SSD,https://news.samsung.com/global/samsung-now-introducing-worlds-largest-capacity-15-36tb-ssd-for-enterprise-storage-systems,/u/calvin,8
-0,2016-03-04 09:25:01 -0600,['/t/games'],Cruelty scale,http://www.ifwiki.org/index.php/Cruelty_scale,/u/pushcx,17
-0,2016-03-05 04:35:22 -0600,['/t/cryptocurrencies'],"Bitcoin Guarantees Strong, not Eventual, Consistency",http://hackingdistributed.com/2016/03/01/bitcoin-guarantees-strong-not-eventual-consistency/,/u/apy,1
-0,2016-03-04 16:08:59 -0600,"['/t/assembly', '/t/linux', '/t/release']","rappel: assembly REPL for x86, amd64, and armv7",https://github.com/yrp604/rappel,/u/pushcx,6
-2,2016-03-04 13:29:02 -0600,['/t/programming'],"Emojicode: static, strongly typed programming language",http://www.emojicode.org/,/u/fcbsd,5
-0,2016-03-04 12:51:11 -0600,"['/t/networking', '/t/security']",A Deep Dive Into DNS Packet Sizes: Why Smaller Packet Sizes Keep The Internet Safe,http://blog.cloudflare.com/a-deep-dive-into-dns-packet-sizes-why-smaller-packet-sizes-keep-the-internet-safe/,/u/fcbsd,8
-3,2016-03-04 04:07:17 -0600,['/t/programming'],Programming with Algebra,https://developer.atlassian.com/blog/2016/03/programming-with-algebra/,/u/puffnfresh,16
-1,2016-03-04 08:52:49 -0600,"['/t/video', '/t/api', '/t/compsci', '/t/haskell']","Lenses, Folds, and Traversals",https://www.youtube.com/watch?v=cefnmjtAolY,/u/apy,8
-0,2016-03-04 15:44:22 -0600,"['/t/compsci', '/t/math']",An Update on fast Transit Routing with Transfer Patterns,http://googleresearch.blogspot.com/2016/03/an-update-on-fast-transit-routing-with.html,/u/jitterted,4
-1,2016-03-04 09:48:44 -0600,"['/t/games', '/t/programming']",Behavior trees for AI: How they work,http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php,/u/friendlysock,6
-0,2016-03-04 12:29:38 -0600,"['/t/release', '/t/unix']",catpoint - simple slides viewer,http://git.2f30.org/catpoint/file/README.html,/u/carlesfe,4
-3,2016-03-04 02:14:17 -0600,"['/t/book', '/t/go']",Book Review: The Go Programming Language,http://www.onebigfluke.com/2016/03/book-review-go-programming-language.html,/u/haxor,5
-0,2016-03-04 07:35:55 -0600,"['/t/cogsci', '/t/games']",KGS Go Server Open Sources Protocol,https://plus.google.com/+Gokgs/posts/RTK8aFQd98Y,/u/james,7
-0,2016-03-04 11:34:39 -0600,['/t/rust'],Announcing Leaf 0.2 (fast machine learning in rust),https://github.com/autumnai/leaf/blob/063ce978004b8bf4b7fc7481fdd58fed0515cfd8/RELEASE.md,/u/DrM,4
-0,2016-03-04 07:35:47 -0600,['/t/scala'],Getting started with Shapeless,http://jto.github.io/articles/getting-started-with-shapeless/,/u/softinio,5
-18,2016-03-03 21:02:15 -0600,['/t/meta'],Request: Straw-man downvote option,/s/rqqzwp/request_straw_man_downvote_option,/u/itistoday,8
+7,2016-03-04 10:07:10 -0600,/t/unix,Bash One Liner - Compose Music From Entropy in /dev/urandom,http://blog.robertelder.org/bash-one-liner-compose-music/,/u/ix,14
+2,2016-03-04 20:34:14 -0600,"/t/pdf,/t/math",Is the Null Graph a Pointless Concept (2006),https://docs.google.com/uc?id=0BykFwa9JjyblajNfR3dfblNZOUk&export=download,/u/pushcx,6
+1,2016-03-04 14:15:36 -0600,/t/distributed,Promises,https://christophermeiklejohn.com/pl/2016/03/04/promises.html,/u/cmeiklejohn,7
+14,2016-03-04 15:28:32 -0600,/t/finance,Wealth Inequality Is Even Worse in Reputation Economies,http://www.locusmag.com/Perspectives/2016/03/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/,/u/pushcx,5
+0,2016-03-04 18:40:19 -0600,"/t/assembly,/t/programming",A Gentle Introduction to Machine Fundamentals,https://marijnhaverbeke.nl/turtle/,/u/apg,8
+0,2016-03-04 22:15:03 -0600,"/t/graphics,/t/historical",The Most Important Object In Computer Graphics History Is This Teapot,http://nautil.us/blog/the-most-important-object-in-computer-graphics-history-is-this-teapot,/u/jitterted,5
+1,2016-03-04 20:35:31 -0600,"/t/compilers,/t/scala",Scala+LLVM,http://greedy.github.io/scala-llvm/,/u/355E3B,4
+1,2016-03-04 11:15:54 -0600,/t/c,Why < cstdlib > is more complicated than you might think,http://developers.redhat.com/blog/2016/02/29/why-cstdlib-is-more-complicated-than-you-might-think/,/u/pushcx,14
+4,2016-03-05 06:07:02 -0600,/t/culture,"We Hire the Best, Just Like Everyone Else",http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/,/u/adsouza,3
+3,2016-03-04 12:56:56 -0600,/t/hardware,Samsung Introduces World’s Largest Capacity (15.36TB) SSD,https://news.samsung.com/global/samsung-now-introducing-worlds-largest-capacity-15-36tb-ssd-for-enterprise-storage-systems,/u/calvin,8
+0,2016-03-04 09:25:01 -0600,/t/games,Cruelty scale,http://www.ifwiki.org/index.php/Cruelty_scale,/u/pushcx,17
+0,2016-03-05 04:35:22 -0600,/t/cryptocurrencies,"Bitcoin Guarantees Strong, not Eventual, Consistency",http://hackingdistributed.com/2016/03/01/bitcoin-guarantees-strong-not-eventual-consistency/,/u/apy,1
+0,2016-03-04 16:08:59 -0600,"/t/assembly,/t/linux,/t/release","rappel: assembly REPL for x86, amd64, and armv7",https://github.com/yrp604/rappel,/u/pushcx,6
+2,2016-03-04 13:29:02 -0600,/t/programming,"Emojicode: static, strongly typed programming language",http://www.emojicode.org/,/u/fcbsd,5
+0,2016-03-04 12:51:11 -0600,"/t/networking,/t/security",A Deep Dive Into DNS Packet Sizes: Why Smaller Packet Sizes Keep The Internet Safe,http://blog.cloudflare.com/a-deep-dive-into-dns-packet-sizes-why-smaller-packet-sizes-keep-the-internet-safe/,/u/fcbsd,8
+3,2016-03-04 04:07:17 -0600,/t/programming,Programming with Algebra,https://developer.atlassian.com/blog/2016/03/programming-with-algebra/,/u/puffnfresh,16
+1,2016-03-04 08:52:49 -0600,"/t/video,/t/api,/t/compsci,/t/haskell","Lenses, Folds, and Traversals",https://www.youtube.com/watch?v=cefnmjtAolY,/u/apy,8
+0,2016-03-04 15:44:22 -0600,"/t/compsci,/t/math",An Update on fast Transit Routing with Transfer Patterns,http://googleresearch.blogspot.com/2016/03/an-update-on-fast-transit-routing-with.html,/u/jitterted,4
+1,2016-03-04 09:48:44 -0600,"/t/games,/t/programming",Behavior trees for AI: How they work,http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php,/u/friendlysock,6
+0,2016-03-04 12:29:38 -0600,"/t/release,/t/unix",catpoint - simple slides viewer,http://git.2f30.org/catpoint/file/README.html,/u/carlesfe,4
+3,2016-03-04 02:14:17 -0600,"/t/book,/t/go",Book Review: The Go Programming Language,http://www.onebigfluke.com/2016/03/book-review-go-programming-language.html,/u/haxor,5
+0,2016-03-04 07:35:55 -0600,"/t/cogsci,/t/games",KGS Go Server Open Sources Protocol,https://plus.google.com/+Gokgs/posts/RTK8aFQd98Y,/u/james,7
+0,2016-03-04 11:34:39 -0600,/t/rust,Announcing Leaf 0.2 (fast machine learning in rust),https://github.com/autumnai/leaf/blob/063ce978004b8bf4b7fc7481fdd58fed0515cfd8/RELEASE.md,/u/DrM,4
+0,2016-03-04 07:35:47 -0600,/t/scala,Getting started with Shapeless,http://jto.github.io/articles/getting-started-with-shapeless/,/u/softinio,5
+18,2016-03-03 21:02:15 -0600,/t/meta,Request: Straw-man downvote option,/s/rqqzwp/request_straw_man_downvote_option,/u/itistoday,8

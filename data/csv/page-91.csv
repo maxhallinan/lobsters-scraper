@@ -1,25 +1,25 @@
-4,2017-12-17 22:01:26 -0600,['/t/culture'],Why I don't want to be the Pink Elephant in the room,https://imallika.com/post/168625383130/why-i-dont-want-to-be-the-pink-elephant-in-the,/u/av,32
-0,2017-12-18 11:30:11 -0600,"['/t/debugging', '/t/linux']",Kernel debugging for newbies,http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html,/u/pushcx,3
-0,2017-12-18 00:48:05 -0600,"['/t/debugging', '/t/python', '/t/ruby']",How do Ruby & Python profilers work?,https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/,/u/quobit,11
-26,2017-12-17 11:37:26 -0600,['/t/scaling'],From bare metal to Serverless,http://loige.co/from-bare-metal-to-serverless/,/u/loige,12
-6,2017-12-17 09:36:41 -0600,['/t/release'],Pony 0.21.0 Released,https://www.ponylang.org/blog/2017/12/0.21.0-released/,/u/SeanTAllen,21
-0,2017-12-18 22:30:12 -0600,['/t/law'],Osquery: Change license to Apache 2.0 and GPLv2,https://github.com/facebook/osquery/pull/4007,/u/av,0
-0,2017-12-18 11:07:51 -0600,"['/t/art', '/t/event', '/t/hardware', '/t/linux', '/t/nodejs']","OSHUG Event #63 - Collaborative music making, ultra-low latency audio and sensor processing",http://oshug.org/event/63,/u/sevan,2
-0,2017-12-18 13:52:25 -0600,['/t/culture'],On Code Review,https://medium.com/@9len/on-code-review-16ea85f7c585,/u/Yogthos,3
-0,2017-12-18 14:56:15 -0600,"['/t/devops', '/t/practices']",How to use Kubernetes with Github,https://github.com/kelseyhightower/pipeline,/u/adsouza,1
-0,2017-12-18 14:50:01 -0600,"['/t/historical', '/t/performance']",PCW Benchmarks,https://web.archive.org/web/20170312050304/http://www.geocities.ws/peterochocki/computers/pcwbm.html,/u/calvin,1
-0,2017-12-17 12:29:59 -0600,"['/t/games', '/t/release']",ScummVM v2.0 released,http://www.scummvm.org/news/20171217/,/u/bezdomni,28
-3,2017-12-17 18:05:19 -0600,['/t/haskell'],Functor Functors,https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html,/u/pushcx,11
-0,2017-12-18 03:20:45 -0600,"['/t/javascript', '/t/web']",How To Not Screw Up UX In A Single-Page Application,https://vuejsdevelopers.com/2017/12/18/single-page-application-ux/,/u/anthonygore,2
-1,2017-12-17 18:46:08 -0600,"['/t/haskell', '/t/release']",safe-money: Money in the type system where it belongs,https://ren.zone/articles/safe-money,/u/pushcx,11
-6,2017-12-17 07:31:13 -0600,"['/t/javascript', '/t/plt']",I Slipped on JavaScript's Banana Peel,https://bocoup.com/blog/i-slipped-on-javascripts-banana-peel,/u/calvin,22
-0,2017-12-18 04:51:00 -0600,"['/t/historical', '/t/linux']",The History of Linux in GIT Repository Format 1992-2010 (2010),https://archive.org/details/git-history-of-linux,/u/mjturner,3
-0,2017-12-17 16:31:55 -0600,"['/t/games', '/t/graphics']",Metal Gear Solid V - Graphics Study,http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/,/u/dege,13
-0,2017-12-18 03:37:55 -0600,"['/t/ai', '/t/games']",Truth From Zero?,https://rjlipton.wordpress.com/2017/12/17/truth-from-zero/,/u/xcombelle,3
-5,2017-12-17 10:01:48 -0600,"['/t/browsers', '/t/web']",Microsoft's Edge browser is in serious trouble,https://www.computerworld.com/article/3242165/microsoft-windows/microsofts-edge-browser-is-in-serious-trouble.html,/u/Yogthos,14
-1,2017-12-17 12:39:59 -0600,['/t/ai'],When Data Science Destabilizes Democracy and Facilitates Genocide,http://www.fast.ai/2017/11/02/ethics/,/u/unbalancedparentheses,9
-0,2017-12-17 13:31:26 -0600,"['/t/programming', '/t/unix']",Oil: When Are Lexer Modes Useful?,http://www.oilshell.org/blog/2017/12/17.html,/u/andyc,6
-0,2017-12-17 21:49:15 -0600,"['/t/games', '/t/javascript']",Boardgame.io: State management and more for turn-based games,https://google.github.io/boardgame.io/,/u/av,3
-0,2017-12-17 21:22:39 -0600,"['/t/philosophy', '/t/programming']",Towards Moore's Law Software: Part 1 of 3 (2008),http://www.moserware.com/2008/04/towards-moores-law-software-part-1-of-3.html,/u/calvin,3
-1,2017-12-17 13:16:10 -0600,['/t/math'],Notes on negation,http://bitmath.blogspot.com/2017/12/notes-on-negation.html,/u/GeoffWozniak,7
-0,2017-12-17 15:54:40 -0600,"['/t/pdf', '/t/privacy']",Big other: surveillance capitalism and the prospects of an information civilization,https://cryptome.org/2015/07/big-other.pdf,/u/unbalancedparentheses,5
+4,2017-12-17 22:01:26 -0600,/t/culture,Why I don't want to be the Pink Elephant in the room,https://imallika.com/post/168625383130/why-i-dont-want-to-be-the-pink-elephant-in-the,/u/av,32
+0,2017-12-18 11:30:11 -0600,"/t/debugging,/t/linux",Kernel debugging for newbies,http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html,/u/pushcx,3
+0,2017-12-18 00:48:05 -0600,"/t/debugging,/t/python,/t/ruby",How do Ruby & Python profilers work?,https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/,/u/quobit,11
+26,2017-12-17 11:37:26 -0600,/t/scaling,From bare metal to Serverless,http://loige.co/from-bare-metal-to-serverless/,/u/loige,12
+6,2017-12-17 09:36:41 -0600,/t/release,Pony 0.21.0 Released,https://www.ponylang.org/blog/2017/12/0.21.0-released/,/u/SeanTAllen,21
+0,2017-12-18 22:30:12 -0600,/t/law,Osquery: Change license to Apache 2.0 and GPLv2,https://github.com/facebook/osquery/pull/4007,/u/av,0
+0,2017-12-18 11:07:51 -0600,"/t/art,/t/event,/t/hardware,/t/linux,/t/nodejs","OSHUG Event #63 - Collaborative music making, ultra-low latency audio and sensor processing",http://oshug.org/event/63,/u/sevan,2
+0,2017-12-18 13:52:25 -0600,/t/culture,On Code Review,https://medium.com/@9len/on-code-review-16ea85f7c585,/u/Yogthos,3
+0,2017-12-18 14:56:15 -0600,"/t/devops,/t/practices",How to use Kubernetes with Github,https://github.com/kelseyhightower/pipeline,/u/adsouza,1
+0,2017-12-18 14:50:01 -0600,"/t/historical,/t/performance",PCW Benchmarks,https://web.archive.org/web/20170312050304/http://www.geocities.ws/peterochocki/computers/pcwbm.html,/u/calvin,1
+0,2017-12-17 12:29:59 -0600,"/t/games,/t/release",ScummVM v2.0 released,http://www.scummvm.org/news/20171217/,/u/bezdomni,28
+3,2017-12-17 18:05:19 -0600,/t/haskell,Functor Functors,https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html,/u/pushcx,11
+0,2017-12-18 03:20:45 -0600,"/t/javascript,/t/web",How To Not Screw Up UX In A Single-Page Application,https://vuejsdevelopers.com/2017/12/18/single-page-application-ux/,/u/anthonygore,2
+1,2017-12-17 18:46:08 -0600,"/t/haskell,/t/release",safe-money: Money in the type system where it belongs,https://ren.zone/articles/safe-money,/u/pushcx,11
+6,2017-12-17 07:31:13 -0600,"/t/javascript,/t/plt",I Slipped on JavaScript's Banana Peel,https://bocoup.com/blog/i-slipped-on-javascripts-banana-peel,/u/calvin,22
+0,2017-12-18 04:51:00 -0600,"/t/historical,/t/linux",The History of Linux in GIT Repository Format 1992-2010 (2010),https://archive.org/details/git-history-of-linux,/u/mjturner,3
+0,2017-12-17 16:31:55 -0600,"/t/games,/t/graphics",Metal Gear Solid V - Graphics Study,http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/,/u/dege,13
+0,2017-12-18 03:37:55 -0600,"/t/ai,/t/games",Truth From Zero?,https://rjlipton.wordpress.com/2017/12/17/truth-from-zero/,/u/xcombelle,3
+5,2017-12-17 10:01:48 -0600,"/t/browsers,/t/web",Microsoft's Edge browser is in serious trouble,https://www.computerworld.com/article/3242165/microsoft-windows/microsofts-edge-browser-is-in-serious-trouble.html,/u/Yogthos,14
+1,2017-12-17 12:39:59 -0600,/t/ai,When Data Science Destabilizes Democracy and Facilitates Genocide,http://www.fast.ai/2017/11/02/ethics/,/u/unbalancedparentheses,9
+0,2017-12-17 13:31:26 -0600,"/t/programming,/t/unix",Oil: When Are Lexer Modes Useful?,http://www.oilshell.org/blog/2017/12/17.html,/u/andyc,6
+0,2017-12-17 21:49:15 -0600,"/t/games,/t/javascript",Boardgame.io: State management and more for turn-based games,https://google.github.io/boardgame.io/,/u/av,3
+0,2017-12-17 21:22:39 -0600,"/t/philosophy,/t/programming",Towards Moore's Law Software: Part 1 of 3 (2008),http://www.moserware.com/2008/04/towards-moores-law-software-part-1-of-3.html,/u/calvin,3
+1,2017-12-17 13:16:10 -0600,/t/math,Notes on negation,http://bitmath.blogspot.com/2017/12/notes-on-negation.html,/u/GeoffWozniak,7
+0,2017-12-17 15:54:40 -0600,"/t/pdf,/t/privacy",Big other: surveillance capitalism and the prospects of an information civilization,https://cryptome.org/2015/07/big-other.pdf,/u/unbalancedparentheses,5

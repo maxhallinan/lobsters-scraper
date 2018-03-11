@@ -1,25 +1,25 @@
-3,2014-01-22 19:25:37 -0600,['/t/security'],How I found a Remote Code Execution bug affecting Facebook's servers,http://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution,/u/tedu,16
-4,2014-01-22 11:35:30 -0600,"['/t/scaling', '/t/web']",We spent a week making Trello boards load extremely fast. Here’s how we did it.,http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/,/u/tedu,25
-3,2014-01-22 22:35:24 -0600,['/t/design'],“UX Specialists” are killing web-design,https://medium.com/p/50b7d7607c13,/u/mattk,2
-9,2014-01-22 14:49:32 -0600,"['/t/distributed', '/t/programming']",Stripe CTF 3 is live,https://stripe-ctf.com/,/u/kb,10
-2,2014-01-22 20:10:38 -0600,['/t/erlang'],What I Did on My Winter Vacation,http://www.c800colon5.com/blog/2014/01/19/what-i-did-on-my-winter-vacation/,/u/GooseYArd,6
-2,2014-01-22 09:31:42 -0600,['/t/privacy'],Spoiled Onions,http://www.cs.kau.se/philwint/spoiled_onions/,/u/kyle,23
-0,2014-01-22 22:04:57 -0600,['/t/devops'],A Collection of Public Postmortems,https://pinboard.in/u:peakscale/t:postmortem/,/u/ryandotsmith,5
-1,2014-01-22 21:28:00 -0600,"['/t/cryptocurrencies', '/t/finance']",Dogecoin and the Appeal of Small Numbers,http://diegobasch.com/dogecoin-and-the-appeal-of-small-numbers,/u/journeysquid,4
-2,2014-01-22 17:03:01 -0600,"['/t/programming', '/t/science']",Code review for science: What we learned | Mozilla Science Lab,http://mozillascience.org/code-review-for-science-what-we-learned/,/u/joshuacc,6
-5,2014-01-22 18:02:45 -0600,['/t/python'],What's new in ggplot-0.4?,http://blog.yhathq.com/posts/ggplot-0.4-released.html,/u/mattk,4
-2,2014-01-22 20:40:54 -0600,['/t/vcs'],Git Is Giving Subversion A Run For Its Money: What Took So Long?,http://readwrite.com/2014/01/21/git-subversion-developers,/u/mattk,2
-3,2014-01-22 12:34:33 -0600,['/t/python'],A Geneva Convention for the Language Wars,http://slendermeans.org/language-wars.html,/u/mattk,6
-1,2014-01-22 14:50:43 -0600,['/t/programming'],The RedMonk Programming Language Rankings: January 2014,http://redmonk.com/sogrady/2014/01/22/language-rankings-1-14/,/u/puredanger,5
-2,2014-01-23 11:15:42 -0600,['/t/databases'],Did Microsoft Stop Releasing SQL Server Service Packs?,http://www.brentozar.com/archive/2014/01/did-microsoft-stop-releasing-sql-server-service-packs/,/u/leeflannery,0
-3,2014-01-22 14:09:45 -0600,['/t/networking'],Google Video Quality Report,http://www.google.com/get/videoqualityreport/,/u/journeysquid,3
-0,2014-01-22 12:35:14 -0600,['/t/hardware'],"4k, HDMI, and Deep Color",http://www.toonormal.com/2014/01/10/4k-hdmi-and-deep-color/,/u/jm,7
-0,2014-01-22 08:32:08 -0600,['/t/rust'],Destructuring in Rust,http://pzol.github.io/getting_rusty/posts/20140122_destructuring_in_rust/,/u/pzol,11
-19,2014-01-22 11:33:03 -0600,['/t/meta'],Ask Lobsters: Are we a community?,/s/7hiagt/ask_lobsters_are_we_community,/u/jm,14
-10,2014-01-22 18:52:36 -0600,['/t/ask'],Ask Lobsters: Can you recommend any videos of high-quality talks online?,/s/rbjewc/ask_lobsters_can_you_recommend_any_videos,/u/ajdecon,5
-0,2014-01-22 22:31:21 -0600,['/t/programming'],Extract meaningful statistical measures from data in JSON using R,http://www.ibm.com/developerworks/library/bd-jsonr/index.html,/u/mattk,1
-14,2014-01-21 23:17:58 -0600,['/t/show'],Ask Lobsters: what's in your personal bin directory?,/s/f4konf/ask_lobsters_what_s_your_personal_bin,/u/kb,9
-1,2014-01-22 11:28:01 -0600,['/t/cryptocurrencies'],Why Bitcoin's Deflationary Critics are Not Even Wrong,http://www.bayesianwitch.com/blog/2014/bitcoin_critics_not_even_wrong.html,/u/tedu,3
-5,2014-01-21 15:52:03 -0600,"['/t/interview', '/t/person']",Lobsters interview with Ted Unangst,/s/ppopah/lobsters_interview_with_ted_unangst,/u/kyle,25
-1,2014-01-22 12:46:02 -0600,"['/t/video', '/t/api']",Hypermedia APIs - a session at Øredev (2010),http://oredev.org/2010/sessions/hypermedia-apis,/u/danpalmer,2
-0,2014-01-22 10:25:19 -0600,['/t/release'],Cabot - monitor and alert,http://cabotapp.com,/u/SeanTAllen,4
+3,2014-01-22 19:25:37 -0600,/t/security,How I found a Remote Code Execution bug affecting Facebook's servers,http://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution,/u/tedu,16
+4,2014-01-22 11:35:30 -0600,"/t/scaling,/t/web",We spent a week making Trello boards load extremely fast. Here’s how we did it.,http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/,/u/tedu,25
+3,2014-01-22 22:35:24 -0600,/t/design,“UX Specialists” are killing web-design,https://medium.com/p/50b7d7607c13,/u/mattk,2
+9,2014-01-22 14:49:32 -0600,"/t/distributed,/t/programming",Stripe CTF 3 is live,https://stripe-ctf.com/,/u/kb,10
+2,2014-01-22 20:10:38 -0600,/t/erlang,What I Did on My Winter Vacation,http://www.c800colon5.com/blog/2014/01/19/what-i-did-on-my-winter-vacation/,/u/GooseYArd,6
+2,2014-01-22 09:31:42 -0600,/t/privacy,Spoiled Onions,http://www.cs.kau.se/philwint/spoiled_onions/,/u/kyle,23
+0,2014-01-22 22:04:57 -0600,/t/devops,A Collection of Public Postmortems,https://pinboard.in/u:peakscale/t:postmortem/,/u/ryandotsmith,5
+1,2014-01-22 21:28:00 -0600,"/t/cryptocurrencies,/t/finance",Dogecoin and the Appeal of Small Numbers,http://diegobasch.com/dogecoin-and-the-appeal-of-small-numbers,/u/journeysquid,4
+2,2014-01-22 17:03:01 -0600,"/t/programming,/t/science",Code review for science: What we learned | Mozilla Science Lab,http://mozillascience.org/code-review-for-science-what-we-learned/,/u/joshuacc,6
+5,2014-01-22 18:02:45 -0600,/t/python,What's new in ggplot-0.4?,http://blog.yhathq.com/posts/ggplot-0.4-released.html,/u/mattk,4
+2,2014-01-22 20:40:54 -0600,/t/vcs,Git Is Giving Subversion A Run For Its Money: What Took So Long?,http://readwrite.com/2014/01/21/git-subversion-developers,/u/mattk,2
+3,2014-01-22 12:34:33 -0600,/t/python,A Geneva Convention for the Language Wars,http://slendermeans.org/language-wars.html,/u/mattk,6
+1,2014-01-22 14:50:43 -0600,/t/programming,The RedMonk Programming Language Rankings: January 2014,http://redmonk.com/sogrady/2014/01/22/language-rankings-1-14/,/u/puredanger,5
+2,2014-01-23 11:15:42 -0600,/t/databases,Did Microsoft Stop Releasing SQL Server Service Packs?,http://www.brentozar.com/archive/2014/01/did-microsoft-stop-releasing-sql-server-service-packs/,/u/leeflannery,0
+3,2014-01-22 14:09:45 -0600,/t/networking,Google Video Quality Report,http://www.google.com/get/videoqualityreport/,/u/journeysquid,3
+0,2014-01-22 12:35:14 -0600,/t/hardware,"4k, HDMI, and Deep Color",http://www.toonormal.com/2014/01/10/4k-hdmi-and-deep-color/,/u/jm,7
+0,2014-01-22 08:32:08 -0600,/t/rust,Destructuring in Rust,http://pzol.github.io/getting_rusty/posts/20140122_destructuring_in_rust/,/u/pzol,11
+19,2014-01-22 11:33:03 -0600,/t/meta,Ask Lobsters: Are we a community?,/s/7hiagt/ask_lobsters_are_we_community,/u/jm,14
+10,2014-01-22 18:52:36 -0600,/t/ask,Ask Lobsters: Can you recommend any videos of high-quality talks online?,/s/rbjewc/ask_lobsters_can_you_recommend_any_videos,/u/ajdecon,5
+0,2014-01-22 22:31:21 -0600,/t/programming,Extract meaningful statistical measures from data in JSON using R,http://www.ibm.com/developerworks/library/bd-jsonr/index.html,/u/mattk,1
+14,2014-01-21 23:17:58 -0600,/t/show,Ask Lobsters: what's in your personal bin directory?,/s/f4konf/ask_lobsters_what_s_your_personal_bin,/u/kb,9
+1,2014-01-22 11:28:01 -0600,/t/cryptocurrencies,Why Bitcoin's Deflationary Critics are Not Even Wrong,http://www.bayesianwitch.com/blog/2014/bitcoin_critics_not_even_wrong.html,/u/tedu,3
+5,2014-01-21 15:52:03 -0600,"/t/interview,/t/person",Lobsters interview with Ted Unangst,/s/ppopah/lobsters_interview_with_ted_unangst,/u/kyle,25
+1,2014-01-22 12:46:02 -0600,"/t/video,/t/api",Hypermedia APIs - a session at Øredev (2010),http://oredev.org/2010/sessions/hypermedia-apis,/u/danpalmer,2
+0,2014-01-22 10:25:19 -0600,/t/release,Cabot - monitor and alert,http://cabotapp.com,/u/SeanTAllen,4

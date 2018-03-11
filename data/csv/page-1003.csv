@@ -1,25 +1,25 @@
-4,2015-10-13 14:26:18 -0500,['/t/go'],Ten Useful Techniques in Go,https://medium.com/@farslan/ten-useful-techniques-in-go-ddd94296c21b,/u/trousers,14
-0,2015-10-14 08:05:09 -0500,"['/t/pdf', '/t/networking']",Low-Rate TCP-Targeted Denial of Service Attacks (The Shrew vs. the Mice and Elephants) (2003),http://conferences.sigcomm.org/sigcomm/2003/papers/p75-kuzmanovic.pdf,/u/demoray,2
-2,2015-10-14 10:50:11 -0500,"['/t/culture', '/t/practices']",Agile Is The New Waterfall,https://medium.com/@ayasin/agile-is-the-new-waterfall-f7baef5d026d,/u/friendlysock,3
-0,2015-10-14 02:33:32 -0500,['/t/devops'],Orchestrating batch processing pipelines with cron and make,http://snowplowanalytics.com/blog/2015/10/13/orchestrating-batch-processing-pipelines-with-cron-and-make/,/u/alexdean,2
-0,2015-10-13 23:36:03 -0500,['/t/c'],Living with Microsoft C++ Compiler Bugs and Ambiguities,http://blog.jetbrains.com/rscpp/microsoft-cpp-compiler-bugs-ambiguities/,/u/zg,6
-0,2015-10-14 12:28:46 -0500,"['/t/culture', '/t/web']",Discussion Around Ad Blocking,https://css-tricks.com/discussion-around-ad-blocking/,/u/flyingfisch,2
-2,2015-10-13 21:00:57 -0500,"['/t/security', '/t/web']",The Web Authentication Arms Race – A Tale of Two Security Experts,http://blog.slaks.net/2015-10-13/web-authentication-arms-race-a-tale-of-two-security-experts/,/u/pushcx,5
-5,2015-10-13 10:06:49 -0500,"['/t/release', '/t/security']",A tale of software maintenance: OpenSSL and EVP_CHECK_DES_KEY,https://marc.info/?l=openbsd-tech&m=144472550016118&w=2,/u/journeysquid,14
-0,2015-10-13 19:59:13 -0500,"['/t/netbsd', '/t/person', '/t/unix']",NetBSD-7.0 developer interview: Antti Kantee,http://beastie.pl/deweloperzy-netbsd-7-0-antti-kantee/,/u/mulander,7
-0,2015-10-13 15:57:36 -0500,"['/t/design', '/t/practices', '/t/unix', '/t/web']",“Tomato” versus “#FF6347”—the tragicomic history of CSS color names,http://arstechnica.com/information-technology/2015/10/tomato-versus-ff6347-the-tragicomic-history-of-css-color-names/,/u/tedu,11
-1,2015-10-14 02:03:21 -0500,"['/t/distributed', '/t/programming', '/t/scaling']",Making the Case for Building Scalable Stateful Services in the Modern Era,http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html,/u/apy,3
-0,2015-10-13 16:47:49 -0500,"['/t/assembly', '/t/reversing', '/t/windows']",Statically Linking a Windows Kernel Driver as an ELF,http://gaasedelen.blogspot.com/2015/10/statically-linking-windows-kernel.html,/u/calvin,6
-0,2015-10-13 22:04:26 -0500,['/t/scaling'],CQRS revisited,https://lostechies.com/gabrielschenker/2015/04/07/cqrs-revisited/,/u/jm,3
-0,2015-10-13 23:36:32 -0500,['/t/hardware'],How IBM Stacks Up Power8 Against Xeon Servers,http://www.theplatform.net/2015/10/13/how-ibm-stacks-up-power8-against-xeon-servers/,/u/zg,2
-1,2015-10-13 16:01:23 -0500,"['/t/programming', '/t/ruby']",Generating quines in Ruby,http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html,/u/pushcx,4
-0,2015-10-13 10:09:54 -0500,['/t/release'],HoustonTracker 2,http://irrlichtproject.de/houston/,/u/julienXX,9
-0,2015-10-13 20:54:11 -0500,['/t/hardware'],Transistor Clock,http://www.transistorclock.com/,/u/pushcx,2
-5,2015-10-13 12:08:13 -0500,"['/t/cogsci', '/t/compsci']",From Seed AI to Technological Singularity via Recursively Self-Improving Software,http://arxiv.org/abs/1502.06512,/u/mindcrime,3
-1,2015-10-13 14:55:58 -0500,['/t/math'],Sequential Sampling Calculator,http://www.evanmiller.org/ab-testing/sequential.html,/u/pushcx,2
-0,2015-10-13 14:36:05 -0500,"['/t/pdf', '/t/slides', '/t/compilers']",Boosting Developer Productivity with Clang,http://events.linuxfoundation.org/sites/events/files/slides/linuxcon-europe-2015.pdf,/u/journeysquid,4
-0,2015-10-13 02:13:10 -0500,"['/t/video', '/t/art', '/t/hardware']",Electron microscope slow-motion video of vinyl LP,http://www.youtube.com/watch?v=GuCdsyCWmt8,/u/kel,16
-8,2015-10-13 03:11:18 -0500,"['/t/programming', '/t/python']",How a Math Genius Hacked OkCupid to Find True Love,http://www.wired.com/2014/01/how-to-hack-okcupid/,/u/av,1
-0,2015-10-13 11:51:23 -0500,"['/t/pdf', '/t/databases']",What's new in SQL:2011?,http://www.sigmod.org/publications/sigmod-record/1203/pdfs/10.industry.zemke.pdf,/u/pushcx,5
-3,2015-10-13 00:12:19 -0500,"['/t/haskell', '/t/python']",hask - Haskell language features and standard libraries in pure Python,https://github.com/billpmurphy/hask,/u/tf,12
-0,2015-10-12 11:18:38 -0500,['/t/security'],Five Things in Infosec That Should Scare You,https://coderanger.net/five-fears/,/u/coderanger,29
+4,2015-10-13 14:26:18 -0500,/t/go,Ten Useful Techniques in Go,https://medium.com/@farslan/ten-useful-techniques-in-go-ddd94296c21b,/u/trousers,14
+0,2015-10-14 08:05:09 -0500,"/t/pdf,/t/networking",Low-Rate TCP-Targeted Denial of Service Attacks (The Shrew vs. the Mice and Elephants) (2003),http://conferences.sigcomm.org/sigcomm/2003/papers/p75-kuzmanovic.pdf,/u/demoray,2
+2,2015-10-14 10:50:11 -0500,"/t/culture,/t/practices",Agile Is The New Waterfall,https://medium.com/@ayasin/agile-is-the-new-waterfall-f7baef5d026d,/u/friendlysock,3
+0,2015-10-14 02:33:32 -0500,/t/devops,Orchestrating batch processing pipelines with cron and make,http://snowplowanalytics.com/blog/2015/10/13/orchestrating-batch-processing-pipelines-with-cron-and-make/,/u/alexdean,2
+0,2015-10-13 23:36:03 -0500,/t/c,Living with Microsoft C++ Compiler Bugs and Ambiguities,http://blog.jetbrains.com/rscpp/microsoft-cpp-compiler-bugs-ambiguities/,/u/zg,6
+0,2015-10-14 12:28:46 -0500,"/t/culture,/t/web",Discussion Around Ad Blocking,https://css-tricks.com/discussion-around-ad-blocking/,/u/flyingfisch,2
+2,2015-10-13 21:00:57 -0500,"/t/security,/t/web",The Web Authentication Arms Race – A Tale of Two Security Experts,http://blog.slaks.net/2015-10-13/web-authentication-arms-race-a-tale-of-two-security-experts/,/u/pushcx,5
+5,2015-10-13 10:06:49 -0500,"/t/release,/t/security",A tale of software maintenance: OpenSSL and EVP_CHECK_DES_KEY,https://marc.info/?l=openbsd-tech&m=144472550016118&w=2,/u/journeysquid,14
+0,2015-10-13 19:59:13 -0500,"/t/netbsd,/t/person,/t/unix",NetBSD-7.0 developer interview: Antti Kantee,http://beastie.pl/deweloperzy-netbsd-7-0-antti-kantee/,/u/mulander,7
+0,2015-10-13 15:57:36 -0500,"/t/design,/t/practices,/t/unix,/t/web",“Tomato” versus “#FF6347”—the tragicomic history of CSS color names,http://arstechnica.com/information-technology/2015/10/tomato-versus-ff6347-the-tragicomic-history-of-css-color-names/,/u/tedu,11
+1,2015-10-14 02:03:21 -0500,"/t/distributed,/t/programming,/t/scaling",Making the Case for Building Scalable Stateful Services in the Modern Era,http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html,/u/apy,3
+0,2015-10-13 16:47:49 -0500,"/t/assembly,/t/reversing,/t/windows",Statically Linking a Windows Kernel Driver as an ELF,http://gaasedelen.blogspot.com/2015/10/statically-linking-windows-kernel.html,/u/calvin,6
+0,2015-10-13 22:04:26 -0500,/t/scaling,CQRS revisited,https://lostechies.com/gabrielschenker/2015/04/07/cqrs-revisited/,/u/jm,3
+0,2015-10-13 23:36:32 -0500,/t/hardware,How IBM Stacks Up Power8 Against Xeon Servers,http://www.theplatform.net/2015/10/13/how-ibm-stacks-up-power8-against-xeon-servers/,/u/zg,2
+1,2015-10-13 16:01:23 -0500,"/t/programming,/t/ruby",Generating quines in Ruby,http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html,/u/pushcx,4
+0,2015-10-13 10:09:54 -0500,/t/release,HoustonTracker 2,http://irrlichtproject.de/houston/,/u/julienXX,9
+0,2015-10-13 20:54:11 -0500,/t/hardware,Transistor Clock,http://www.transistorclock.com/,/u/pushcx,2
+5,2015-10-13 12:08:13 -0500,"/t/cogsci,/t/compsci",From Seed AI to Technological Singularity via Recursively Self-Improving Software,http://arxiv.org/abs/1502.06512,/u/mindcrime,3
+1,2015-10-13 14:55:58 -0500,/t/math,Sequential Sampling Calculator,http://www.evanmiller.org/ab-testing/sequential.html,/u/pushcx,2
+0,2015-10-13 14:36:05 -0500,"/t/pdf,/t/slides,/t/compilers",Boosting Developer Productivity with Clang,http://events.linuxfoundation.org/sites/events/files/slides/linuxcon-europe-2015.pdf,/u/journeysquid,4
+0,2015-10-13 02:13:10 -0500,"/t/video,/t/art,/t/hardware",Electron microscope slow-motion video of vinyl LP,http://www.youtube.com/watch?v=GuCdsyCWmt8,/u/kel,16
+8,2015-10-13 03:11:18 -0500,"/t/programming,/t/python",How a Math Genius Hacked OkCupid to Find True Love,http://www.wired.com/2014/01/how-to-hack-okcupid/,/u/av,1
+0,2015-10-13 11:51:23 -0500,"/t/pdf,/t/databases",What's new in SQL:2011?,http://www.sigmod.org/publications/sigmod-record/1203/pdfs/10.industry.zemke.pdf,/u/pushcx,5
+3,2015-10-13 00:12:19 -0500,"/t/haskell,/t/python",hask - Haskell language features and standard libraries in pure Python,https://github.com/billpmurphy/hask,/u/tf,12
+0,2015-10-12 11:18:38 -0500,/t/security,Five Things in Infosec That Should Scare You,https://coderanger.net/five-fears/,/u/coderanger,29

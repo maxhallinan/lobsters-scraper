@@ -1,25 +1,25 @@
-0,2014-04-15 11:23:12 -0500,['/t/privacy'],The surveillance state in Russia,https://www.contributoria.com/issue/2014-04/52f16caa884a391f10000041,/u/ntlk,1
-0,2014-04-15 09:49:20 -0500,['/t/satire'],Source code stolen from Github.com,https://kev.inburke.com/kevin/source-code-stolen-github/,/u/kb,3
-0,2014-04-15 02:56:23 -0500,"['/t/compsci', '/t/haskell']",Continuations and Exceptions,http://jozefg.bitbucket.org/posts/2014-04-14-either-and-conts.html,/u/Axman6,3
-0,2014-04-15 08:37:39 -0500,['/t/javascript'],Seven JavaScript Quirks I Wish I’d Known About,http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/,/u/remotesynth,1
-0,2014-04-14 20:15:40 -0500,"['/t/book', '/t/compsci', '/t/math']",How the backpropagation algorithm works,http://neuralnetworksanddeeplearning.com/chap2.html,/u/rz,6
-3,2014-04-14 20:11:44 -0500,['/t/ruby'],Manage ruby i18n with static analysis,https://github.com/glebm/i18n-tasks,/u/glebm,3
-0,2014-04-14 18:59:48 -0500,['/t/distributed'],etcd - The Road to 1.0,http://coreos.com/blog/etcd-The-Road-to-1.0/,/u/ajdecon,6
-0,2014-04-14 10:42:01 -0500,['/t/distributed'],"Without Conflicts, Serializability Is Free",http://www.bailis.org/blog/without-conflicts-serializability-is-free/,/u/kellogh,15
-0,2014-04-15 05:59:34 -0500,['/t/javascript'],"A small demo scene production, running in the JavaScript console",http://sandbox.photonstorm.com/console.log/,/u/henkjan,1
-0,2014-04-15 01:40:02 -0500,['/t/security'],OpenSSL Software Foundation need support from companies and governments for a team of 6+ workers,http://veridicalsystems.com/blog/of-money-responsibility-and-pride/,/u/codeon1,2
-0,2014-04-14 09:10:32 -0500,['/t/cryptocurrencies'],Over $100K in Bitcoin Was Stolen in a Ridiculously Low-Tech Heist,https://news.vice.com/articles/over-100k-in-bitcoin-was-stolen-in-a-ridiculously-low-tech-heist,/u/Tkm84,12
-0,2014-04-15 03:01:40 -0500,"['/t/networking', '/t/release']",Spectrum 2 - An XMPP Transport/Gateway,http://spectrum.im/,/u/GrayGnome,1
-0,2014-04-14 11:58:07 -0500,['/t/security'],iSEC Completes TrueCrypt Audit,https://isecpartners.github.io/news/2014/04/14/iSEC-Completes-Truecrypt-Audit.html,/u/zod000,8
-52,2014-04-14 05:37:55 -0500,['/t/ask'],What are you working on this week?,/s/dh47xo/what_are_you_working_on_this_week,/u/szalansky,30
-4,2014-04-14 11:28:24 -0500,"['/t/linux', '/t/networking', '/t/practices', '/t/security', '/t/unix']",Poor Man’s VPN With a Cheap VPS,http://longren.io/poor-mans-vpn-with-a-cheap-vps/,/u/tlongren,4
-0,2014-04-15 01:40:58 -0500,['/t/security'],"""BillGates"" Linux Botnet monitoring (tracking) tool",https://github.com/ValdikSS/billgates-botnet-tracker,/u/codeon1,1
-1,2014-04-14 11:10:27 -0500,"['/t/javascript', '/t/programming']","Huginn: Like ""Yahoo Pipes"" plus IFTTT on your own server",https://github.com/cantino/huginn/blob/master/README.md,/u/zmcartor,7
-0,2014-04-15 07:17:50 -0500,['/t/philosophy'],Survey Finds Developer Influence Reaches Far Beyond IT,http://blog.programmableweb.com/2014/04/14/survey-finds-developer-influence-reaches-far-beyond-it/,/u/eplumlee,0
-0,2014-04-14 09:55:25 -0500,"['/t/programming', '/t/security']",Preventing heartbleed bugs with safe programming languages,http://bluishcoder.co.nz/2014/04/11/preventing-heartbleed-bugs-with-safe-languages.html,/u/puffnfresh,7
-0,2014-04-14 16:25:45 -0500,"['/t/browsers', '/t/web']",WebRTC and HTML5: A look into communication services,http://www.lauradhamilton.com/webrtc-html5-communication-services,/u/laura,2
-1,2014-04-14 10:04:39 -0500,"['/t/video', '/t/web']",Tiip.me - Ads are the new online tip jar,http://get.tiip.me/,/u/keithbeaudoin,3
-0,2014-04-14 12:54:01 -0500,"['/t/devops', '/t/security']",The End-of-Life of Windows XP and SSL/TLS Configurations,http://blog.rlove.org/2014/04/the-end-of-life-of-windows-xp-and.html,/u/jcs,3
-0,2014-04-14 02:19:17 -0500,['/t/distributed'],Failure Detectors and Non-Blocking Atomic Commit,http://brooker.co.za/blog/2014/04/14/failure-detectors.html,/u/vjoel,9
-0,2014-04-14 07:27:48 -0500,['/t/security'],Flickr from SQL Injection to RCE,http://pwnrules.com/flickr-from-sql-injection-to-rce/,/u/henkjan,4
-0,2014-04-13 20:52:47 -0500,"['/t/ruby', '/t/web']",Know When the World Changes-- With Huginn,http://blog.andrewcantino.com/blog/2014/03/17/know-when-the-world-changes-with-huginn/,/u/rb,14
+0,2014-04-15 11:23:12 -0500,/t/privacy,The surveillance state in Russia,https://www.contributoria.com/issue/2014-04/52f16caa884a391f10000041,/u/ntlk,1
+0,2014-04-15 09:49:20 -0500,/t/satire,Source code stolen from Github.com,https://kev.inburke.com/kevin/source-code-stolen-github/,/u/kb,3
+0,2014-04-15 02:56:23 -0500,"/t/compsci,/t/haskell",Continuations and Exceptions,http://jozefg.bitbucket.org/posts/2014-04-14-either-and-conts.html,/u/Axman6,3
+0,2014-04-15 08:37:39 -0500,/t/javascript,Seven JavaScript Quirks I Wish I’d Known About,http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/,/u/remotesynth,1
+0,2014-04-14 20:15:40 -0500,"/t/book,/t/compsci,/t/math",How the backpropagation algorithm works,http://neuralnetworksanddeeplearning.com/chap2.html,/u/rz,6
+3,2014-04-14 20:11:44 -0500,/t/ruby,Manage ruby i18n with static analysis,https://github.com/glebm/i18n-tasks,/u/glebm,3
+0,2014-04-14 18:59:48 -0500,/t/distributed,etcd - The Road to 1.0,http://coreos.com/blog/etcd-The-Road-to-1.0/,/u/ajdecon,6
+0,2014-04-14 10:42:01 -0500,/t/distributed,"Without Conflicts, Serializability Is Free",http://www.bailis.org/blog/without-conflicts-serializability-is-free/,/u/kellogh,15
+0,2014-04-15 05:59:34 -0500,/t/javascript,"A small demo scene production, running in the JavaScript console",http://sandbox.photonstorm.com/console.log/,/u/henkjan,1
+0,2014-04-15 01:40:02 -0500,/t/security,OpenSSL Software Foundation need support from companies and governments for a team of 6+ workers,http://veridicalsystems.com/blog/of-money-responsibility-and-pride/,/u/codeon1,2
+0,2014-04-14 09:10:32 -0500,/t/cryptocurrencies,Over $100K in Bitcoin Was Stolen in a Ridiculously Low-Tech Heist,https://news.vice.com/articles/over-100k-in-bitcoin-was-stolen-in-a-ridiculously-low-tech-heist,/u/Tkm84,12
+0,2014-04-15 03:01:40 -0500,"/t/networking,/t/release",Spectrum 2 - An XMPP Transport/Gateway,http://spectrum.im/,/u/GrayGnome,1
+0,2014-04-14 11:58:07 -0500,/t/security,iSEC Completes TrueCrypt Audit,https://isecpartners.github.io/news/2014/04/14/iSEC-Completes-Truecrypt-Audit.html,/u/zod000,8
+52,2014-04-14 05:37:55 -0500,/t/ask,What are you working on this week?,/s/dh47xo/what_are_you_working_on_this_week,/u/szalansky,30
+4,2014-04-14 11:28:24 -0500,"/t/linux,/t/networking,/t/practices,/t/security,/t/unix",Poor Man’s VPN With a Cheap VPS,http://longren.io/poor-mans-vpn-with-a-cheap-vps/,/u/tlongren,4
+0,2014-04-15 01:40:58 -0500,/t/security,"""BillGates"" Linux Botnet monitoring (tracking) tool",https://github.com/ValdikSS/billgates-botnet-tracker,/u/codeon1,1
+1,2014-04-14 11:10:27 -0500,"/t/javascript,/t/programming","Huginn: Like ""Yahoo Pipes"" plus IFTTT on your own server",https://github.com/cantino/huginn/blob/master/README.md,/u/zmcartor,7
+0,2014-04-15 07:17:50 -0500,/t/philosophy,Survey Finds Developer Influence Reaches Far Beyond IT,http://blog.programmableweb.com/2014/04/14/survey-finds-developer-influence-reaches-far-beyond-it/,/u/eplumlee,0
+0,2014-04-14 09:55:25 -0500,"/t/programming,/t/security",Preventing heartbleed bugs with safe programming languages,http://bluishcoder.co.nz/2014/04/11/preventing-heartbleed-bugs-with-safe-languages.html,/u/puffnfresh,7
+0,2014-04-14 16:25:45 -0500,"/t/browsers,/t/web",WebRTC and HTML5: A look into communication services,http://www.lauradhamilton.com/webrtc-html5-communication-services,/u/laura,2
+1,2014-04-14 10:04:39 -0500,"/t/video,/t/web",Tiip.me - Ads are the new online tip jar,http://get.tiip.me/,/u/keithbeaudoin,3
+0,2014-04-14 12:54:01 -0500,"/t/devops,/t/security",The End-of-Life of Windows XP and SSL/TLS Configurations,http://blog.rlove.org/2014/04/the-end-of-life-of-windows-xp-and.html,/u/jcs,3
+0,2014-04-14 02:19:17 -0500,/t/distributed,Failure Detectors and Non-Blocking Atomic Commit,http://brooker.co.za/blog/2014/04/14/failure-detectors.html,/u/vjoel,9
+0,2014-04-14 07:27:48 -0500,/t/security,Flickr from SQL Injection to RCE,http://pwnrules.com/flickr-from-sql-injection-to-rce/,/u/henkjan,4
+0,2014-04-13 20:52:47 -0500,"/t/ruby,/t/web",Know When the World Changes-- With Huginn,http://blog.andrewcantino.com/blog/2014/03/17/know-when-the-world-changes-with-huginn/,/u/rb,14

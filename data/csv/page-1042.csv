@@ -1,25 +1,25 @@
-0,2015-08-21 18:51:05 -0500,"['/t/games', '/t/programming']",Writing a Game Boy Advance Game,https://www.reinterpretcast.com/writing-a-game-boy-advance-game,/u/pushcx,11
-1,2015-08-21 05:07:06 -0500,"['/t/show', '/t/distributed', '/t/javascript', '/t/web']",ProseMirror — in-browser structured text editing,http://prosemirror.net,/u/marijn,24
-0,2015-08-21 19:10:18 -0500,"['/t/games', '/t/programming']",Making maps with noise functions,http://www.redblobgames.com/maps/terrain-from-noise/,/u/pushcx,10
-2,2015-08-21 14:17:14 -0500,['/t/meta'],Invitation questions,/s/7mo9wl/invitation_questions,/u/akkartik,6
-1,2015-08-21 13:40:33 -0500,"['/t/practices', '/t/release', '/t/ruby']",Ruby Together Monthly Update for August 2015,https://rubytogether.org/news/2015-08-18-august-2015-monthly-update,/u/pushcx,8
-0,2015-08-21 14:25:15 -0500,['/t/python'],"Zeroless, pythonic zmq library",http://x8lucas8x.com/zeroless.html,/u/xcombelle,7
-1,2015-08-21 10:52:07 -0500,"['/t/games', '/t/hardware']",Everything I Learned About Dual-Stick Shooter Controls,http://gamasutra.com/blogs/MarkVenturelli/20150817/251387/Everything_I_Learned_About_DualStick_Shooter_Controls.php,/u/pushcx,7
-3,2015-08-21 09:51:56 -0500,"['/t/pdf', '/t/practices']",OIG Audits the Social Security Administration's Legacy Code (2012),http://oig.ssa.gov/sites/default/files/audit/full/pdf/A-14-11-11132_0.pdf,/u/pushcx,4
-0,2015-08-21 10:04:18 -0500,"['/t/law', '/t/security']",Petition the UK Government to abandon all ideas of trying to ban strong encryption.,https://petition.parliament.uk/petitions/106369,/u/mpasternacki,7
-1,2015-08-21 00:50:54 -0500,"['/t/programming', '/t/python']",How I Hacked Amazon’s $5 WiFi Button to track Baby Data,https://medium.com/@edwardbenson/how-i-hacked-amazon-s-5-wifi-button-to-track-baby-data-794214b0bdd8,/u/av,12
-0,2015-08-21 09:03:17 -0500,['/t/mac'],Home Row Computing on Macs,http://duartes.org/gustavo/blog/post/home-row-computing-on-mac,/u/pushcx,4
-17,2015-08-20 14:02:37 -0500,"['/t/python', '/t/release', '/t/security']",Lockheed Martin open sources intrustion dection software,https://github.com/lmco/laikaboss,/u/steveno,14
-0,2015-08-20 22:47:34 -0500,['/t/lisp'],Debugging Lisp Part 5: Miscellaneous,http://malisper.me/2015/08/19/debugging-lisp-part-5-miscellaneous/,/u/kyle,7
-0,2015-08-20 13:25:57 -0500,"['/t/games', '/t/go', '/t/programming', '/t/ruby']","Designing And Building Stockfighter, Our Programming Game",http://www.kalzumeus.com/2015/08/20/designing-and-building-stockfighter-our-programming-game/,/u/peterhorne,16
-0,2015-08-20 21:24:57 -0500,"['/t/cryptocurrencies', '/t/security']",Bitcoin XT appears to be the biggest attack on Bitcoin in history.,https://twitter.com/taoeffect/status/634534985328906240,/u/itistoday,3
-0,2015-08-20 18:56:37 -0500,"['/t/databases', '/t/lisp', '/t/programming']",Conversations with Datomic Part 2,http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/,/u/carinmeier,4
-3,2015-08-20 13:25:22 -0500,"['/t/assembly', '/t/freebsd', '/t/security']",Analysis of PS4's security and the state of hacking,http://cturt.github.io/ps4.html,/u/lm,9
-6,2015-08-20 10:22:13 -0500,"['/t/javascript', '/t/web']",imba - a new programming language for the web,http://imba.io/,/u/marvindanig,9
-0,2015-08-20 13:49:07 -0500,['/t/javascript'],"For Node, 4.0 is the new 1.0",https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d,/u/joshuacc,12
-1,2015-08-20 09:38:25 -0500,"['/t/devops', '/t/programming']",Lessons learned from reading post mortems,http://danluu.com/postmortem-lessons/,/u/stijlist,17
-8,2015-08-20 05:42:52 -0500,"['/t/design', '/t/javascript', '/t/web']",Bootstrap 4 alpha,http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/,/u/jc,13
-0,2015-08-20 06:37:48 -0500,"['/t/api', '/t/networking', '/t/ruby', '/t/web']",In search of performance - how we shaved 200ms off every POST request,https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/,/u/Sinjo,12
-0,2015-08-20 13:09:34 -0500,['/t/science'],Psychological and psychiatric terms to avoid,http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01100/full,/u/pushcx,10
-0,2015-08-20 22:35:20 -0500,['/t/programming'],GotoWindow - Sublime text package for quickly jumping between windows using the keyboard,https://packagecontrol.io/packages/GotoWindow,/u/craig,1
-1,2015-08-20 15:09:57 -0500,['/t/programming'],Stack Overflow 10 Million Questions,http://stackoverflow.com/10m,/u/flyingfisch,4
+0,2015-08-21 18:51:05 -0500,"/t/games,/t/programming",Writing a Game Boy Advance Game,https://www.reinterpretcast.com/writing-a-game-boy-advance-game,/u/pushcx,11
+1,2015-08-21 05:07:06 -0500,"/t/show,/t/distributed,/t/javascript,/t/web",ProseMirror — in-browser structured text editing,http://prosemirror.net,/u/marijn,24
+0,2015-08-21 19:10:18 -0500,"/t/games,/t/programming",Making maps with noise functions,http://www.redblobgames.com/maps/terrain-from-noise/,/u/pushcx,10
+2,2015-08-21 14:17:14 -0500,/t/meta,Invitation questions,/s/7mo9wl/invitation_questions,/u/akkartik,6
+1,2015-08-21 13:40:33 -0500,"/t/practices,/t/release,/t/ruby",Ruby Together Monthly Update for August 2015,https://rubytogether.org/news/2015-08-18-august-2015-monthly-update,/u/pushcx,8
+0,2015-08-21 14:25:15 -0500,/t/python,"Zeroless, pythonic zmq library",http://x8lucas8x.com/zeroless.html,/u/xcombelle,7
+1,2015-08-21 10:52:07 -0500,"/t/games,/t/hardware",Everything I Learned About Dual-Stick Shooter Controls,http://gamasutra.com/blogs/MarkVenturelli/20150817/251387/Everything_I_Learned_About_DualStick_Shooter_Controls.php,/u/pushcx,7
+3,2015-08-21 09:51:56 -0500,"/t/pdf,/t/practices",OIG Audits the Social Security Administration's Legacy Code (2012),http://oig.ssa.gov/sites/default/files/audit/full/pdf/A-14-11-11132_0.pdf,/u/pushcx,4
+0,2015-08-21 10:04:18 -0500,"/t/law,/t/security",Petition the UK Government to abandon all ideas of trying to ban strong encryption.,https://petition.parliament.uk/petitions/106369,/u/mpasternacki,7
+1,2015-08-21 00:50:54 -0500,"/t/programming,/t/python",How I Hacked Amazon’s $5 WiFi Button to track Baby Data,https://medium.com/@edwardbenson/how-i-hacked-amazon-s-5-wifi-button-to-track-baby-data-794214b0bdd8,/u/av,12
+0,2015-08-21 09:03:17 -0500,/t/mac,Home Row Computing on Macs,http://duartes.org/gustavo/blog/post/home-row-computing-on-mac,/u/pushcx,4
+17,2015-08-20 14:02:37 -0500,"/t/python,/t/release,/t/security",Lockheed Martin open sources intrustion dection software,https://github.com/lmco/laikaboss,/u/steveno,14
+0,2015-08-20 22:47:34 -0500,/t/lisp,Debugging Lisp Part 5: Miscellaneous,http://malisper.me/2015/08/19/debugging-lisp-part-5-miscellaneous/,/u/kyle,7
+0,2015-08-20 13:25:57 -0500,"/t/games,/t/go,/t/programming,/t/ruby","Designing And Building Stockfighter, Our Programming Game",http://www.kalzumeus.com/2015/08/20/designing-and-building-stockfighter-our-programming-game/,/u/peterhorne,16
+0,2015-08-20 21:24:57 -0500,"/t/cryptocurrencies,/t/security",Bitcoin XT appears to be the biggest attack on Bitcoin in history.,https://twitter.com/taoeffect/status/634534985328906240,/u/itistoday,3
+0,2015-08-20 18:56:37 -0500,"/t/databases,/t/lisp,/t/programming",Conversations with Datomic Part 2,http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/,/u/carinmeier,4
+3,2015-08-20 13:25:22 -0500,"/t/assembly,/t/freebsd,/t/security",Analysis of PS4's security and the state of hacking,http://cturt.github.io/ps4.html,/u/lm,9
+6,2015-08-20 10:22:13 -0500,"/t/javascript,/t/web",imba - a new programming language for the web,http://imba.io/,/u/marvindanig,9
+0,2015-08-20 13:49:07 -0500,/t/javascript,"For Node, 4.0 is the new 1.0",https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d,/u/joshuacc,12
+1,2015-08-20 09:38:25 -0500,"/t/devops,/t/programming",Lessons learned from reading post mortems,http://danluu.com/postmortem-lessons/,/u/stijlist,17
+8,2015-08-20 05:42:52 -0500,"/t/design,/t/javascript,/t/web",Bootstrap 4 alpha,http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/,/u/jc,13
+0,2015-08-20 06:37:48 -0500,"/t/api,/t/networking,/t/ruby,/t/web",In search of performance - how we shaved 200ms off every POST request,https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/,/u/Sinjo,12
+0,2015-08-20 13:09:34 -0500,/t/science,Psychological and psychiatric terms to avoid,http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01100/full,/u/pushcx,10
+0,2015-08-20 22:35:20 -0500,/t/programming,GotoWindow - Sublime text package for quickly jumping between windows using the keyboard,https://packagecontrol.io/packages/GotoWindow,/u/craig,1
+1,2015-08-20 15:09:57 -0500,/t/programming,Stack Overflow 10 Million Questions,http://stackoverflow.com/10m,/u/flyingfisch,4

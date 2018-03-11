@@ -1,25 +1,25 @@
-0,2015-01-16 09:34:48 -0600,"['/t/culture', '/t/programming']",Ponderous Programmer: Roles for Making a great (software dev) team,http://ponderousprog.blogspot.com/2014/10/roles-for-making-great-software-dev-team.html,/u/mreedell,2
-0,2015-01-15 13:45:42 -0600,"['/t/security', '/t/web']",Against DNSSEC,http://sockpuppet.org/blog/2015/01/15/against-dnssec/,/u/pushcx,11
-0,2015-01-15 21:35:20 -0600,['/t/culture'],Seven Laws of Sane Personal Computing,http://www.loper-os.org/?p=284,/u/pushcx,8
-0,2015-01-15 16:23:18 -0600,"['/t/privacy', '/t/security']",RevK's rants: z226etuo57q9m6brbblz6ztkpea5ct23rmex0vlv3ik*0m3rw,http://www.revk.uk/2015/01/z226etuo57q9m6brbblz6ztkpea5ct23rmex0vl.html,/u/fcbsd,6
-0,2015-01-16 08:30:52 -0600,"['/t/mobile', '/t/release']",Using TestFlight to Release Awesome Apps First Try,http://www.ryanbrink.com/using-apples-testflight-program/,/u/ry_brink,0
-0,2015-01-15 15:46:16 -0600,"['/t/networking', '/t/security']",Securing the Network Time Protocol,http://queue.acm.org/detail.cfm?id=2717320,/u/zacbrown,4
-0,2015-01-15 19:15:10 -0600,"['/t/databases', '/t/release']",Apache Spark: 100 TB of data sorted in 23 minutes,http://opensource.com/business/15/1/apache-spark-new-world-record,/u/pxi,2
-0,2015-01-15 11:56:01 -0600,['/t/unix'],Delphix is working on ZFS Device Removal,http://blog.delphix.com/alex/2015/01/15/openzfs-device-removal/,/u/jclulow,5
-1,2015-01-15 10:41:15 -0600,['/t/science'],Be My Eyes – Lend your eyes to the blind,http://www.bemyeyes.org/,/u/robin,3
-12,2015-01-15 11:11:10 -0600,['/t/privacy'],Cyph – Privacy starts here.,https://www.cyph.com/,/u/dh,2
-0,2015-01-15 09:50:11 -0600,"['/t/video', '/t/compsci']",Adventures in Functional Programming,http://vimeo.com/45140590,/u/SeanTAllen,3
-1,2015-01-14 23:56:25 -0600,"['/t/pdf', '/t/ml']",Mergeable persistent data structures,http://gazagnaire.org/pub/FGM15.pdf,/u/pushcx,7
-3,2015-01-15 07:51:03 -0600,['/t/ruby'],"Instances, Classes, and Modules, Oh My!",https://blog.engineyard.com/2015/instances-classes-and-modules,/u/fluxusfrequency,1
-9,2015-01-14 10:20:08 -0600,['/t/javascript'],The problem with AngularJS,http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html,/u/kb,19
-2,2015-01-15 10:09:47 -0600,['/t/release'],Is Facebook at Work an Enterprise Social Network?,http://fogbeam.blogspot.com/2015/01/is-facebook-at-work-enterprise-social.html,/u/mindcrime,1
-9,2015-01-14 12:21:28 -0600,['/t/practices'],"I Am Proposing ""Refactor Fridays""",http://geekregator.com/2015-01-09-refactor_fridays.html,/u/zacbrown,13
-1,2015-01-14 17:26:43 -0600,['/t/c'],Smart pointers for the C programming language,https://github.com/Snaipe/c-smart-pointers,/u/vvh,9
-0,2015-01-15 11:15:31 -0600,"['/t/compilers', '/t/dotnet', '/t/javascript', '/t/programming']",DuoCode is a C#-to-JavaScript compiler powered by Microsoft Roslyn,http://duoco.de/,/u/JeremyMorgan,1
-6,2015-01-14 07:59:58 -0600,"['/t/programming', '/t/rust']",A Quick Comparison of Nim vs. Rust,http://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html,/u/kellogh,15
-4,2015-01-14 14:36:55 -0600,['/t/freebsd'],DigitalOcean: Presenting FreeBSD! How We Made It Happen.,https://www.digitalocean.com/company/blog/presenting-freebsd-how-we-made-it-happen/,/u/cnst,6
-1,2015-01-15 03:00:31 -0600,"['/t/compsci', '/t/distributed']",A Brief Overview of Deep Learning,http://yyue.blogspot.co.uk/2015/01/a-brief-overview-of-deep-learning.html,/u/fcbsd,2
-0,2015-01-14 17:30:40 -0600,['/t/c'],C++14 officially an ISO Standard now,http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=64029,/u/zacbrown,7
-0,2015-01-14 11:17:52 -0600,"['/t/openbsd', '/t/security']",ASLR bypass on OpenBSD-5.6,http://marc.info/?l=openbsd-tech&m=142124702819328&w=2,/u/sin,9
-3,2015-01-14 13:16:57 -0600,"['/t/databases', '/t/go']",The Ultimate Guide to Building Database-Driven Apps with Go,https://vividcortex.com/resources/building-database-driven-apps-with-go/,/u/goinggo,5
-1,2015-01-14 12:27:44 -0600,"['/t/law', '/t/security']",Obama’s proposed changes to the computer hacking statute: a deep dive,http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/14/obamas-proposed-changes-to-the-computer-hacking-statute-a-deep-dive/?postshare=4001421228750202,/u/pushcx,5
+0,2015-01-16 09:34:48 -0600,"/t/culture,/t/programming",Ponderous Programmer: Roles for Making a great (software dev) team,http://ponderousprog.blogspot.com/2014/10/roles-for-making-great-software-dev-team.html,/u/mreedell,2
+0,2015-01-15 13:45:42 -0600,"/t/security,/t/web",Against DNSSEC,http://sockpuppet.org/blog/2015/01/15/against-dnssec/,/u/pushcx,11
+0,2015-01-15 21:35:20 -0600,/t/culture,Seven Laws of Sane Personal Computing,http://www.loper-os.org/?p=284,/u/pushcx,8
+0,2015-01-15 16:23:18 -0600,"/t/privacy,/t/security",RevK's rants: z226etuo57q9m6brbblz6ztkpea5ct23rmex0vlv3ik*0m3rw,http://www.revk.uk/2015/01/z226etuo57q9m6brbblz6ztkpea5ct23rmex0vl.html,/u/fcbsd,6
+0,2015-01-16 08:30:52 -0600,"/t/mobile,/t/release",Using TestFlight to Release Awesome Apps First Try,http://www.ryanbrink.com/using-apples-testflight-program/,/u/ry_brink,0
+0,2015-01-15 15:46:16 -0600,"/t/networking,/t/security",Securing the Network Time Protocol,http://queue.acm.org/detail.cfm?id=2717320,/u/zacbrown,4
+0,2015-01-15 19:15:10 -0600,"/t/databases,/t/release",Apache Spark: 100 TB of data sorted in 23 minutes,http://opensource.com/business/15/1/apache-spark-new-world-record,/u/pxi,2
+0,2015-01-15 11:56:01 -0600,/t/unix,Delphix is working on ZFS Device Removal,http://blog.delphix.com/alex/2015/01/15/openzfs-device-removal/,/u/jclulow,5
+1,2015-01-15 10:41:15 -0600,/t/science,Be My Eyes – Lend your eyes to the blind,http://www.bemyeyes.org/,/u/robin,3
+12,2015-01-15 11:11:10 -0600,/t/privacy,Cyph – Privacy starts here.,https://www.cyph.com/,/u/dh,2
+0,2015-01-15 09:50:11 -0600,"/t/video,/t/compsci",Adventures in Functional Programming,http://vimeo.com/45140590,/u/SeanTAllen,3
+1,2015-01-14 23:56:25 -0600,"/t/pdf,/t/ml",Mergeable persistent data structures,http://gazagnaire.org/pub/FGM15.pdf,/u/pushcx,7
+3,2015-01-15 07:51:03 -0600,/t/ruby,"Instances, Classes, and Modules, Oh My!",https://blog.engineyard.com/2015/instances-classes-and-modules,/u/fluxusfrequency,1
+9,2015-01-14 10:20:08 -0600,/t/javascript,The problem with AngularJS,http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html,/u/kb,19
+2,2015-01-15 10:09:47 -0600,/t/release,Is Facebook at Work an Enterprise Social Network?,http://fogbeam.blogspot.com/2015/01/is-facebook-at-work-enterprise-social.html,/u/mindcrime,1
+9,2015-01-14 12:21:28 -0600,/t/practices,"I Am Proposing ""Refactor Fridays""",http://geekregator.com/2015-01-09-refactor_fridays.html,/u/zacbrown,13
+1,2015-01-14 17:26:43 -0600,/t/c,Smart pointers for the C programming language,https://github.com/Snaipe/c-smart-pointers,/u/vvh,9
+0,2015-01-15 11:15:31 -0600,"/t/compilers,/t/dotnet,/t/javascript,/t/programming",DuoCode is a C#-to-JavaScript compiler powered by Microsoft Roslyn,http://duoco.de/,/u/JeremyMorgan,1
+6,2015-01-14 07:59:58 -0600,"/t/programming,/t/rust",A Quick Comparison of Nim vs. Rust,http://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html,/u/kellogh,15
+4,2015-01-14 14:36:55 -0600,/t/freebsd,DigitalOcean: Presenting FreeBSD! How We Made It Happen.,https://www.digitalocean.com/company/blog/presenting-freebsd-how-we-made-it-happen/,/u/cnst,6
+1,2015-01-15 03:00:31 -0600,"/t/compsci,/t/distributed",A Brief Overview of Deep Learning,http://yyue.blogspot.co.uk/2015/01/a-brief-overview-of-deep-learning.html,/u/fcbsd,2
+0,2015-01-14 17:30:40 -0600,/t/c,C++14 officially an ISO Standard now,http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=64029,/u/zacbrown,7
+0,2015-01-14 11:17:52 -0600,"/t/openbsd,/t/security",ASLR bypass on OpenBSD-5.6,http://marc.info/?l=openbsd-tech&m=142124702819328&w=2,/u/sin,9
+3,2015-01-14 13:16:57 -0600,"/t/databases,/t/go",The Ultimate Guide to Building Database-Driven Apps with Go,https://vividcortex.com/resources/building-database-driven-apps-with-go/,/u/goinggo,5
+1,2015-01-14 12:27:44 -0600,"/t/law,/t/security",Obama’s proposed changes to the computer hacking statute: a deep dive,http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/14/obamas-proposed-changes-to-the-computer-hacking-statute-a-deep-dive/?postshare=4001421228750202,/u/pushcx,5

@@ -1,25 +1,25 @@
-2,2017-10-26 04:43:14 -0500,"['/t/ai', '/t/android']",Neural Networks API in Android 8.1,https://developer.android.com/ndk/guides/neuralnetworks/index.html,/u/sanxiyn,5
-8,2017-10-25 13:51:21 -0500,['/t/unix'],Giant list of GNU AWK examples,https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md,/u/friendlysock,20
-0,2017-10-26 03:11:25 -0500,['/t/java'],How (not) to extend standard collection classes,https://javachannel.org/posts/how-not-to-extend-standard-collection-classes/,/u/hennidan,6
-18,2017-10-25 08:06:11 -0500,"['/t/show', '/t/distributed', '/t/python']","dramatiq, simple distributed task processing for Python 3",https://dramatiq.io,/u/bogdan,14
-0,2017-10-26 08:28:22 -0500,"['/t/c', '/t/programming', '/t/windows']","DMD, Windows, and C",https://dlang.org/blog/2017/10/25/dmd-windows-and-c/,/u/calvin,3
-0,2017-10-26 21:32:03 -0500,['/t/security'],APNewsBreak: Georgia election server wiped after suit filed,https://apnews.com/877ee1015f1c43f1965f63538b035d3f,/u/vyodaiken,0
-2,2017-10-26 07:56:29 -0500,['/t/security'],A Few Thoughts on Cryptographic Engineering,https://blog.cryptographyengineering.com/,/u/adsouza,2
-8,2017-10-25 07:12:45 -0500,"['/t/debugging', '/t/programming']",Something Rotten In The Core,http://www.codersnotes.com/notes/something-rotten-in-the-core/,/u/calvin,29
-1,2017-10-25 20:34:57 -0500,['/t/security'],What Are Capabilities?,http://habitatchronicles.com/2017/05/what-are-capabilities/,/u/kyle,8
-2,2017-10-25 15:53:06 -0500,"['/t/dotnet', '/t/erlang', '/t/ml']",fez an Fsharp to core Erlang compiler,https://github.com/kjnilsson/fez,/u/julienXX,11
-0,2017-10-26 03:39:57 -0500,['/t/cogsci'],Jamming the Signal: Better Living Through Subliminal Messages,http://www.mondo2000.com/2017/10/12/jamming-signal-better-living-subliminal-messages/,/u/pgl,3
-2,2017-10-25 06:07:40 -0500,"['/t/release', '/t/ruby']",Hanami v1.1.0,http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html,/u/jodosha,14
-0,2017-10-26 06:50:14 -0500,"['/t/performance', '/t/web']",A Guide to Faster Web App I/O and Data Operations with Streams,https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/,/u/pushcx,1
-0,2017-10-25 19:37:07 -0500,"['/t/hardware', '/t/historical']","Werner Buchholz Coins the Term ""Byte""",http://www.historyofinformation.com/expanded.php?id=4771,/u/nanxiao,5
-88,2017-10-24 11:01:11 -0500,['/t/meta'],"don't make ""hate posts""",/s/ryfsfd/don_t_make_hate_posts,/u/mulander,84
-7,2017-10-25 10:50:48 -0500,['/t/practices'],Tired: Engineering Interviews; Hired: Engineering Auditions.,https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57,/u/soulcutter,6
-0,2017-10-25 16:21:02 -0500,"['/t/elixir', '/t/erlang', '/t/event']",SpawnFest 2017 (December 9-10) - Registration is open!,https://spawnfest.github.io/registration,/u/elbrujohalcon,3
-2,2017-10-25 12:06:24 -0500,['/t/java'],Project Loom: Fibers and Continuations for the Java Virtual Machine,http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html,/u/omarkj,7
-0,2017-10-25 16:07:15 -0500,"['/t/javascript', '/t/web']",Getting started with Webpack: Source Maps,https://bendyworks.com/blog/getting-started-with-webpack-source-maps/,/u/abraham,3
-4,2017-10-25 09:53:47 -0500,"['/t/pdf', '/t/databases', '/t/distributed', '/t/scaling']",Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases,http://www.allthingsdistributed.com/files/p1041-verbitski.pdf,/u/ngrilly,6
-0,2017-10-25 12:07:19 -0500,"['/t/graphics', '/t/release']",CineForm Goes Open Source,http://cineform.blogspot.com/2017/10/cineform-goes-open-source.html,/u/pushcx,8
-0,2017-10-25 17:11:58 -0500,"['/t/browsers', '/t/graphics']",Rendering HTML at 1000 FPS – Part 1,https://stoyannk.wordpress.com/2017/10/25/rendering-html-at-1000-fps-part-1/,/u/calvin,4
-0,2017-10-26 01:51:47 -0500,"['/t/video', '/t/education', '/t/historical']",How Big Brother Seeded the Tech Revolution,https://www.youtube.com/watch?v=ET2E0KfSPDc,/u/grumpyoldman,1
-13,2017-10-24 15:29:38 -0500,"['/t/show', '/t/programming']",Introducing Faktory - a new background job system,http://www.mikeperham.com/2017/10/24/introducing-faktory/,/u/mperham,26
-7,2017-10-25 00:07:48 -0500,"['/t/hardware', '/t/virtualization']",Intel® Clear Containers,https://clearlinux.org/features/intel%C2%AE-clear-containers,/u/apy,12
+2,2017-10-26 04:43:14 -0500,"/t/ai,/t/android",Neural Networks API in Android 8.1,https://developer.android.com/ndk/guides/neuralnetworks/index.html,/u/sanxiyn,5
+8,2017-10-25 13:51:21 -0500,/t/unix,Giant list of GNU AWK examples,https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md,/u/friendlysock,20
+0,2017-10-26 03:11:25 -0500,/t/java,How (not) to extend standard collection classes,https://javachannel.org/posts/how-not-to-extend-standard-collection-classes/,/u/hennidan,6
+18,2017-10-25 08:06:11 -0500,"/t/show,/t/distributed,/t/python","dramatiq, simple distributed task processing for Python 3",https://dramatiq.io,/u/bogdan,14
+0,2017-10-26 08:28:22 -0500,"/t/c,/t/programming,/t/windows","DMD, Windows, and C",https://dlang.org/blog/2017/10/25/dmd-windows-and-c/,/u/calvin,3
+0,2017-10-26 21:32:03 -0500,/t/security,APNewsBreak: Georgia election server wiped after suit filed,https://apnews.com/877ee1015f1c43f1965f63538b035d3f,/u/vyodaiken,0
+2,2017-10-26 07:56:29 -0500,/t/security,A Few Thoughts on Cryptographic Engineering,https://blog.cryptographyengineering.com/,/u/adsouza,2
+8,2017-10-25 07:12:45 -0500,"/t/debugging,/t/programming",Something Rotten In The Core,http://www.codersnotes.com/notes/something-rotten-in-the-core/,/u/calvin,29
+1,2017-10-25 20:34:57 -0500,/t/security,What Are Capabilities?,http://habitatchronicles.com/2017/05/what-are-capabilities/,/u/kyle,8
+2,2017-10-25 15:53:06 -0500,"/t/dotnet,/t/erlang,/t/ml",fez an Fsharp to core Erlang compiler,https://github.com/kjnilsson/fez,/u/julienXX,11
+0,2017-10-26 03:39:57 -0500,/t/cogsci,Jamming the Signal: Better Living Through Subliminal Messages,http://www.mondo2000.com/2017/10/12/jamming-signal-better-living-subliminal-messages/,/u/pgl,3
+2,2017-10-25 06:07:40 -0500,"/t/release,/t/ruby",Hanami v1.1.0,http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html,/u/jodosha,14
+0,2017-10-26 06:50:14 -0500,"/t/performance,/t/web",A Guide to Faster Web App I/O and Data Operations with Streams,https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/,/u/pushcx,1
+0,2017-10-25 19:37:07 -0500,"/t/hardware,/t/historical","Werner Buchholz Coins the Term ""Byte""",http://www.historyofinformation.com/expanded.php?id=4771,/u/nanxiao,5
+88,2017-10-24 11:01:11 -0500,/t/meta,"don't make ""hate posts""",/s/ryfsfd/don_t_make_hate_posts,/u/mulander,84
+7,2017-10-25 10:50:48 -0500,/t/practices,Tired: Engineering Interviews; Hired: Engineering Auditions.,https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57,/u/soulcutter,6
+0,2017-10-25 16:21:02 -0500,"/t/elixir,/t/erlang,/t/event",SpawnFest 2017 (December 9-10) - Registration is open!,https://spawnfest.github.io/registration,/u/elbrujohalcon,3
+2,2017-10-25 12:06:24 -0500,/t/java,Project Loom: Fibers and Continuations for the Java Virtual Machine,http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html,/u/omarkj,7
+0,2017-10-25 16:07:15 -0500,"/t/javascript,/t/web",Getting started with Webpack: Source Maps,https://bendyworks.com/blog/getting-started-with-webpack-source-maps/,/u/abraham,3
+4,2017-10-25 09:53:47 -0500,"/t/pdf,/t/databases,/t/distributed,/t/scaling",Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases,http://www.allthingsdistributed.com/files/p1041-verbitski.pdf,/u/ngrilly,6
+0,2017-10-25 12:07:19 -0500,"/t/graphics,/t/release",CineForm Goes Open Source,http://cineform.blogspot.com/2017/10/cineform-goes-open-source.html,/u/pushcx,8
+0,2017-10-25 17:11:58 -0500,"/t/browsers,/t/graphics",Rendering HTML at 1000 FPS – Part 1,https://stoyannk.wordpress.com/2017/10/25/rendering-html-at-1000-fps-part-1/,/u/calvin,4
+0,2017-10-26 01:51:47 -0500,"/t/video,/t/education,/t/historical",How Big Brother Seeded the Tech Revolution,https://www.youtube.com/watch?v=ET2E0KfSPDc,/u/grumpyoldman,1
+13,2017-10-24 15:29:38 -0500,"/t/show,/t/programming",Introducing Faktory - a new background job system,http://www.mikeperham.com/2017/10/24/introducing-faktory/,/u/mperham,26
+7,2017-10-25 00:07:48 -0500,"/t/hardware,/t/virtualization",Intel® Clear Containers,https://clearlinux.org/features/intel%C2%AE-clear-containers,/u/apy,12

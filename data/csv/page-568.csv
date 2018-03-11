@@ -1,25 +1,25 @@
-0,2016-12-13 15:48:21 -0600,"['/t/culture', '/t/games']",An Essay on the State of Interactive Fiction and Free Software,http://zork.net/,/u/zem,2
-0,2016-12-13 03:27:24 -0600,"['/t/linux', '/t/security']",Redux: compromising Linux using... SNES Ricoh 5A22 processor opcodes?!,http://scarybeastsecurity.blogspot.com/2016/12/redux-compromising-linux-using-snes.html,/u/nyx,5
-35,2016-12-12 03:08:33 -0600,['/t/ask'],What are you working on this week?,/s/d4ben6/what_are_you_working_on_this_week,/u/caius,20
-2,2016-12-12 16:32:37 -0600,"['/t/practices', '/t/programming']",Programming Languages: “The Right Tool”,http://hammerprinciple.com/therighttool,/u/nil,10
-0,2016-12-13 04:30:11 -0600,"['/t/hardware', '/t/windows']",Notes on swapping the internal Xbox One hard disk for a solid-state disk,http://withinrafael.com/notes-on-swapping-the-internal-xbox-one-hard-disk-for-a-solid-state-disk/,/u/jackivan88,3
-3,2016-12-12 15:49:27 -0600,"['/t/javascript', '/t/security']",npm shrinkwrap allows remote code execution,https://medium.com/@deian/npm-shrinkwrap-allows-remote-code-execution-63e6e0a566a7,/u/pushcx,8
-6,2016-12-12 10:48:01 -0600,"['/t/compsci', '/t/math']",Type Safety and Statistical Computing,http://www.johnmyleswhite.com/notebook/2016/12/12/type-safety-and-statistical-computing/,/u/mjn,12
-3,2016-12-12 11:11:13 -0600,['/t/vim'],VimWiki – A personal wiki for Vim,http://vimwiki.github.io/,/u/av,16
-2,2016-12-12 18:15:59 -0600,"['/t/elixir', '/t/practices']",How Discord handles push request bursts of over a million per minute with Elixir’s GenStage,https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4,/u/friendlysock,7
-0,2016-12-12 22:44:17 -0600,['/t/hardware'],Knots on Mars,http://www.planetary.org/blogs/guest-blogs/20120905-knots-on-mars.html,/u/pushcx,4
-7,2016-12-12 07:29:17 -0600,"['/t/pdf', '/t/practices', '/t/programming', '/t/security']",Dramatically Reducing Software Vulnerabilities,http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf,/u/pizzaiolo,11
-1,2016-12-12 11:51:12 -0600,['/t/scala'],A Beginner-Friendly Tour through Functional Programming in Scala,http://degoes.net/articles/easy-monads,/u/jdegoes,5
-1,2016-12-13 02:36:25 -0600,"['/t/c', '/t/hardware', '/t/python']",openpilot - open source driving agent,https://github.com/commaai/openpilot,/u/tf,1
-0,2016-12-13 00:47:22 -0600,['/t/devops'],Operations For Developers,http://some.ops4devs.info/welcome/,/u/mhausenblas,1
-5,2016-12-12 10:22:49 -0600,"['/t/ios', '/t/mac', '/t/openbsd']",OpenBSD 6.0 VPN Endpoint for iOS and OSX,http://blog.gordonturner.ca/2016/12/10/openbsd-6-0-vpn-endpoint-for-ios-and-osx/,/u/jcs,9
-0,2016-12-13 01:41:47 -0600,['/t/web'],"When everything's important, nothing is!",https://aerotwist.com/blog/when-everything-is-important-nothing-is/,/u/haxor,2
-1,2016-12-12 15:38:26 -0600,"['/t/api', '/t/security', '/t/unix']",Welcome to NTPsec,https://www.ntpsec.org/,/u/friendlysock,6
-10,2016-12-12 07:51:54 -0600,"['/t/browsers', '/t/release']","Chrome 55 rolling out to Mac, Windows, and Linux, kills Flash by defaulting to HTML5",http://9to5google.com/2016/12/01/chrome-55-stable-adobe-flash-html5/,/u/flyingfisch,8
-1,2016-12-12 14:41:42 -0600,['/t/css'],"CSSBox: A minimal, pure-CSS Lightbox replacement, without JS",https://notabug.org/SylvieLorxu/CSSBox,/u/pizzaiolo,5
-1,2016-12-12 16:37:21 -0600,['/t/math'],"Think slow, think fast",http://datagenetics.com/blog/december32016/index.html,/u/rbn,4
-0,2016-12-13 01:45:41 -0600,['/t/databases'],PostGraphQL: PostgreSQL meets GraphQL,https://www.compose.com/articles/postgraphql-postgresql-meets-graphql/,/u/av,1
-9,2016-12-12 01:12:13 -0600,['/t/android'],Why Google Pixel lags 10x more than Moto Z,http://taras.glek.net/post/Moto-Z-has-10x-less-lag-than-pixel/,/u/chadski,10
-1,2016-12-12 09:22:16 -0600,"['/t/pdf', '/t/security']",A Patch for Postel’s Robustness Principle,http://www.cs.dartmouth.edu/~sergey/langsec//papers/postel-patch.pdf,/u/balrogboogie,5
-0,2016-12-12 10:17:29 -0600,"['/t/design', '/t/math']",LaTeX for Logicians,http://www.logicmatters.net/latex-for-logicians/,/u/pushcx,6
-0,2016-12-12 11:32:25 -0600,"['/t/go', '/t/lisp']",joker - Small interpreted dialect of Clojure written in Go,https://github.com/candid82/joker,/u/lukaszkorecki,5
+0,2016-12-13 15:48:21 -0600,"/t/culture,/t/games",An Essay on the State of Interactive Fiction and Free Software,http://zork.net/,/u/zem,2
+0,2016-12-13 03:27:24 -0600,"/t/linux,/t/security",Redux: compromising Linux using... SNES Ricoh 5A22 processor opcodes?!,http://scarybeastsecurity.blogspot.com/2016/12/redux-compromising-linux-using-snes.html,/u/nyx,5
+35,2016-12-12 03:08:33 -0600,/t/ask,What are you working on this week?,/s/d4ben6/what_are_you_working_on_this_week,/u/caius,20
+2,2016-12-12 16:32:37 -0600,"/t/practices,/t/programming",Programming Languages: “The Right Tool”,http://hammerprinciple.com/therighttool,/u/nil,10
+0,2016-12-13 04:30:11 -0600,"/t/hardware,/t/windows",Notes on swapping the internal Xbox One hard disk for a solid-state disk,http://withinrafael.com/notes-on-swapping-the-internal-xbox-one-hard-disk-for-a-solid-state-disk/,/u/jackivan88,3
+3,2016-12-12 15:49:27 -0600,"/t/javascript,/t/security",npm shrinkwrap allows remote code execution,https://medium.com/@deian/npm-shrinkwrap-allows-remote-code-execution-63e6e0a566a7,/u/pushcx,8
+6,2016-12-12 10:48:01 -0600,"/t/compsci,/t/math",Type Safety and Statistical Computing,http://www.johnmyleswhite.com/notebook/2016/12/12/type-safety-and-statistical-computing/,/u/mjn,12
+3,2016-12-12 11:11:13 -0600,/t/vim,VimWiki – A personal wiki for Vim,http://vimwiki.github.io/,/u/av,16
+2,2016-12-12 18:15:59 -0600,"/t/elixir,/t/practices",How Discord handles push request bursts of over a million per minute with Elixir’s GenStage,https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4,/u/friendlysock,7
+0,2016-12-12 22:44:17 -0600,/t/hardware,Knots on Mars,http://www.planetary.org/blogs/guest-blogs/20120905-knots-on-mars.html,/u/pushcx,4
+7,2016-12-12 07:29:17 -0600,"/t/pdf,/t/practices,/t/programming,/t/security",Dramatically Reducing Software Vulnerabilities,http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf,/u/pizzaiolo,11
+1,2016-12-12 11:51:12 -0600,/t/scala,A Beginner-Friendly Tour through Functional Programming in Scala,http://degoes.net/articles/easy-monads,/u/jdegoes,5
+1,2016-12-13 02:36:25 -0600,"/t/c,/t/hardware,/t/python",openpilot - open source driving agent,https://github.com/commaai/openpilot,/u/tf,1
+0,2016-12-13 00:47:22 -0600,/t/devops,Operations For Developers,http://some.ops4devs.info/welcome/,/u/mhausenblas,1
+5,2016-12-12 10:22:49 -0600,"/t/ios,/t/mac,/t/openbsd",OpenBSD 6.0 VPN Endpoint for iOS and OSX,http://blog.gordonturner.ca/2016/12/10/openbsd-6-0-vpn-endpoint-for-ios-and-osx/,/u/jcs,9
+0,2016-12-13 01:41:47 -0600,/t/web,"When everything's important, nothing is!",https://aerotwist.com/blog/when-everything-is-important-nothing-is/,/u/haxor,2
+1,2016-12-12 15:38:26 -0600,"/t/api,/t/security,/t/unix",Welcome to NTPsec,https://www.ntpsec.org/,/u/friendlysock,6
+10,2016-12-12 07:51:54 -0600,"/t/browsers,/t/release","Chrome 55 rolling out to Mac, Windows, and Linux, kills Flash by defaulting to HTML5",http://9to5google.com/2016/12/01/chrome-55-stable-adobe-flash-html5/,/u/flyingfisch,8
+1,2016-12-12 14:41:42 -0600,/t/css,"CSSBox: A minimal, pure-CSS Lightbox replacement, without JS",https://notabug.org/SylvieLorxu/CSSBox,/u/pizzaiolo,5
+1,2016-12-12 16:37:21 -0600,/t/math,"Think slow, think fast",http://datagenetics.com/blog/december32016/index.html,/u/rbn,4
+0,2016-12-13 01:45:41 -0600,/t/databases,PostGraphQL: PostgreSQL meets GraphQL,https://www.compose.com/articles/postgraphql-postgresql-meets-graphql/,/u/av,1
+9,2016-12-12 01:12:13 -0600,/t/android,Why Google Pixel lags 10x more than Moto Z,http://taras.glek.net/post/Moto-Z-has-10x-less-lag-than-pixel/,/u/chadski,10
+1,2016-12-12 09:22:16 -0600,"/t/pdf,/t/security",A Patch for Postel’s Robustness Principle,http://www.cs.dartmouth.edu/~sergey/langsec//papers/postel-patch.pdf,/u/balrogboogie,5
+0,2016-12-12 10:17:29 -0600,"/t/design,/t/math",LaTeX for Logicians,http://www.logicmatters.net/latex-for-logicians/,/u/pushcx,6
+0,2016-12-12 11:32:25 -0600,"/t/go,/t/lisp",joker - Small interpreted dialect of Clojure written in Go,https://github.com/candid82/joker,/u/lukaszkorecki,5

@@ -1,25 +1,25 @@
-3,2017-02-17 06:50:48 -0600,['/t/programming'],Design Patterns - An ultra-simplified explanation to design patterns,https://github.com/kamranahmedse/design-patterns-for-humans,/u/av,4
-1,2017-02-17 08:38:31 -0600,['/t/design'],Great Alternatives to Hamburger Menus,https://blog.mobiscroll.com/great-alternatives-to-hamburger-menus/,/u/flyingfisch,4
-4,2017-02-16 19:30:01 -0600,"['/t/law', '/t/privacy']",Riseup.net Canary Statement,https://riseup.net/en/about-us/press/canary-statement,/u/mjn,20
-2,2017-02-16 14:34:49 -0600,"['/t/book', '/t/compilers', '/t/programming']","The next chapter of Crafting Interpreters: ""Representing Code""",http://www.craftinginterpreters.com/representing-code.html,/u/munificent,19
-0,2017-02-17 04:42:22 -0600,"['/t/show', '/t/devops', '/t/linux', '/t/ruby']",Decoupled Puppet Monitoring Module With Automated Discovery,https://jonskarpeteig.blogspot.com/2017/02/decoupled-puppet-monitoring-module-with.html,/u/yuav,4
-0,2017-02-17 08:07:54 -0600,['/t/hardware'],Oldskool Demo on a 7 Segment Display,http://www.plingboot.com/2017/02/oldskool-demo-on-a-7-segment-display/,/u/flyingfisch,5
-0,2017-02-17 17:13:24 -0600,"['/t/netbsd', '/t/release']",Introducing pkg_comp 2.0 (and sandboxctl 1.0),http://julio.meroh.net/2017/02/introducing-pkg_comp-2.0.html,/u/sevan,1
-1,2017-02-17 09:11:05 -0600,['/t/vcs'],Git cheat list,https://gist.github.com/aleksey-bykov/1273f4982c317c92d532,/u/av,2
-1,2017-02-17 04:55:47 -0600,['/t/cogsci'],Semantic Question Matching with Deep Learning - Engineering at Quora,https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning,/u/Dawny33,3
-0,2017-02-17 06:54:06 -0600,"['/t/linux', '/t/release']",Ubuntu 16.04.2 LTS released,https://lists.ubuntu.com/archives/ubuntu-release/2017-February/004036.html,/u/av,3
-1,2017-02-17 06:46:15 -0600,['/t/security'],GitLeaks – Search engine for exposed secrets on GitHub,https://gitleaks.com/,/u/av,2
-0,2017-02-17 06:22:04 -0600,['/t/ruby'],Profiling MRuby Code,http://log.fundamental-code.com/2017/02/14/profiling-mruby.html,/u/hoopla,3
-0,2017-02-17 07:09:02 -0600,"['/t/programming', '/t/python', '/t/release']",RhodeCode 4.6.0 Release: new approach to code-review.,https://rhodecode.com/blog/123/rhodecode-460-release-new-approach-to-code-review,/u/maqio,1
-6,2017-02-16 13:17:03 -0600,['/t/math'],Why Isn't There a Nobel Prize in Mathematics?,http://mathforum.org/social/articles/ross.html,/u/Dawny33,11
-6,2017-02-16 10:52:02 -0600,"['/t/privacy', '/t/web']",Own Your DNS Data,http://www.linuxjournal.com/content/own-your-dns-data,/u/pizzaiolo,15
-0,2017-02-17 11:44:50 -0600,['/t/javascript'],A static website with React,http://www.thedotpost.com/2016/12/maxime-thirouin-a-static-website-with-react-really,/u/av,1
-27,2017-02-16 01:26:06 -0600,"['/t/practices', '/t/programming']",Drop Code Romance. Cheat.,http://0xdabbad00.com/2015/05/31/developing_solutions/,/u/sagi,34
-0,2017-02-17 10:46:38 -0600,"['/t/python', '/t/release']",Introduction to NumExpr-3,http://entropyproduction.blogspot.com/2017/02/introduction-to-numexpr-3-alpha.html,/u/ngoldbaum,1
-2,2017-02-16 06:39:35 -0600,['/t/practices'],Talk of tech innovation is bullsh*t. Shut up and get the work done – says Linus Torvalds,https://www.theregister.co.uk/2017/02/15/think_different_shut_up_and_work_harder_says_linus_torvalds/,/u/calvin,12
-1,2017-02-16 14:02:10 -0600,['/t/cogsci'],Attacking machine learning with adversarial examples,https://openai.com/blog/adversarial-example-research/,/u/Dawny33,9
-3,2017-02-16 10:21:00 -0600,"['/t/graphics', '/t/web']",Transparent JPG (With SVG),https://css-tricks.com/transparent-jpg-svg/,/u/flyingfisch,10
-0,2017-02-16 09:27:45 -0600,['/t/programming'],Habits that Pay Off for Programmers,http://www.daedtech.com/habits-pay-off-programmers/,/u/mpron,15
-0,2017-02-16 13:43:02 -0600,"['/t/c', '/t/windows']",Reducing Executable Size,http://www.catch22.net/tuts/reducing-executable-size,/u/chadski,9
-0,2017-02-17 04:59:38 -0600,"['/t/practices', '/t/visualization']",Open Data & Government White Papers,https://medium.swirrl.com/the-future-of-white-papers-2fa6a8ab4945,/u/InkyHarmonics,1
-0,2017-02-16 07:52:35 -0600,['/t/privacy'],Operational Signal: Using Signal pseudonymously over Tor,https://blog.0day.rocks/operational-signal-d41d2c457d8d,/u/x0rz,9
+3,2017-02-17 06:50:48 -0600,/t/programming,Design Patterns - An ultra-simplified explanation to design patterns,https://github.com/kamranahmedse/design-patterns-for-humans,/u/av,4
+1,2017-02-17 08:38:31 -0600,/t/design,Great Alternatives to Hamburger Menus,https://blog.mobiscroll.com/great-alternatives-to-hamburger-menus/,/u/flyingfisch,4
+4,2017-02-16 19:30:01 -0600,"/t/law,/t/privacy",Riseup.net Canary Statement,https://riseup.net/en/about-us/press/canary-statement,/u/mjn,20
+2,2017-02-16 14:34:49 -0600,"/t/book,/t/compilers,/t/programming","The next chapter of Crafting Interpreters: ""Representing Code""",http://www.craftinginterpreters.com/representing-code.html,/u/munificent,19
+0,2017-02-17 04:42:22 -0600,"/t/show,/t/devops,/t/linux,/t/ruby",Decoupled Puppet Monitoring Module With Automated Discovery,https://jonskarpeteig.blogspot.com/2017/02/decoupled-puppet-monitoring-module-with.html,/u/yuav,4
+0,2017-02-17 08:07:54 -0600,/t/hardware,Oldskool Demo on a 7 Segment Display,http://www.plingboot.com/2017/02/oldskool-demo-on-a-7-segment-display/,/u/flyingfisch,5
+0,2017-02-17 17:13:24 -0600,"/t/netbsd,/t/release",Introducing pkg_comp 2.0 (and sandboxctl 1.0),http://julio.meroh.net/2017/02/introducing-pkg_comp-2.0.html,/u/sevan,1
+1,2017-02-17 09:11:05 -0600,/t/vcs,Git cheat list,https://gist.github.com/aleksey-bykov/1273f4982c317c92d532,/u/av,2
+1,2017-02-17 04:55:47 -0600,/t/cogsci,Semantic Question Matching with Deep Learning - Engineering at Quora,https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning,/u/Dawny33,3
+0,2017-02-17 06:54:06 -0600,"/t/linux,/t/release",Ubuntu 16.04.2 LTS released,https://lists.ubuntu.com/archives/ubuntu-release/2017-February/004036.html,/u/av,3
+1,2017-02-17 06:46:15 -0600,/t/security,GitLeaks – Search engine for exposed secrets on GitHub,https://gitleaks.com/,/u/av,2
+0,2017-02-17 06:22:04 -0600,/t/ruby,Profiling MRuby Code,http://log.fundamental-code.com/2017/02/14/profiling-mruby.html,/u/hoopla,3
+0,2017-02-17 07:09:02 -0600,"/t/programming,/t/python,/t/release",RhodeCode 4.6.0 Release: new approach to code-review.,https://rhodecode.com/blog/123/rhodecode-460-release-new-approach-to-code-review,/u/maqio,1
+6,2017-02-16 13:17:03 -0600,/t/math,Why Isn't There a Nobel Prize in Mathematics?,http://mathforum.org/social/articles/ross.html,/u/Dawny33,11
+6,2017-02-16 10:52:02 -0600,"/t/privacy,/t/web",Own Your DNS Data,http://www.linuxjournal.com/content/own-your-dns-data,/u/pizzaiolo,15
+0,2017-02-17 11:44:50 -0600,/t/javascript,A static website with React,http://www.thedotpost.com/2016/12/maxime-thirouin-a-static-website-with-react-really,/u/av,1
+27,2017-02-16 01:26:06 -0600,"/t/practices,/t/programming",Drop Code Romance. Cheat.,http://0xdabbad00.com/2015/05/31/developing_solutions/,/u/sagi,34
+0,2017-02-17 10:46:38 -0600,"/t/python,/t/release",Introduction to NumExpr-3,http://entropyproduction.blogspot.com/2017/02/introduction-to-numexpr-3-alpha.html,/u/ngoldbaum,1
+2,2017-02-16 06:39:35 -0600,/t/practices,Talk of tech innovation is bullsh*t. Shut up and get the work done – says Linus Torvalds,https://www.theregister.co.uk/2017/02/15/think_different_shut_up_and_work_harder_says_linus_torvalds/,/u/calvin,12
+1,2017-02-16 14:02:10 -0600,/t/cogsci,Attacking machine learning with adversarial examples,https://openai.com/blog/adversarial-example-research/,/u/Dawny33,9
+3,2017-02-16 10:21:00 -0600,"/t/graphics,/t/web",Transparent JPG (With SVG),https://css-tricks.com/transparent-jpg-svg/,/u/flyingfisch,10
+0,2017-02-16 09:27:45 -0600,/t/programming,Habits that Pay Off for Programmers,http://www.daedtech.com/habits-pay-off-programmers/,/u/mpron,15
+0,2017-02-16 13:43:02 -0600,"/t/c,/t/windows",Reducing Executable Size,http://www.catch22.net/tuts/reducing-executable-size,/u/chadski,9
+0,2017-02-17 04:59:38 -0600,"/t/practices,/t/visualization",Open Data & Government White Papers,https://medium.swirrl.com/the-future-of-white-papers-2fa6a8ab4945,/u/InkyHarmonics,1
+0,2017-02-16 07:52:35 -0600,/t/privacy,Operational Signal: Using Signal pseudonymously over Tor,https://blog.0day.rocks/operational-signal-d41d2c457d8d,/u/x0rz,9

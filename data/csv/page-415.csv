@@ -1,25 +1,25 @@
-0,2017-04-06 05:21:35 -0500,"['/t/dotnet', '/t/release']",Announcing the .NET Framework 4.7,https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/,/u/calvin,2
-1,2017-04-05 07:31:49 -0500,['/t/crypto'],Love in the Time of Cryptography,https://backchannel.com/love-in-the-time-of-cryptography-dd3a74193ffb,/u/JordiGH,25
-4,2017-04-05 17:51:03 -0500,"['/t/c', '/t/compilers', '/t/practices']",emulating partial function application in c,http://stackoverflow.com/questions/5524299/emulating-partial-function-application-in-c,/u/friendlysock,4
-29,2017-04-04 21:53:03 -0500,"['/t/c', '/t/rust']",Rust Optimizations That C++ Can't Do,http://robert.ocallahan.org/2017/04/rust-optimizations-that-c-cant-do.html,/u/fitzgen,32
-1,2017-04-05 10:00:51 -0500,"['/t/compsci', '/t/person']",In Which Our Protagonist Learns The Importance Of The Base Case,http://www.scq.ubc.ca/quarterly013/0103stripper.html,/u/pushcx,16
-1,2017-04-05 18:08:43 -0500,"['/t/video', '/t/compilers']",Three Cool Things About D - The Case for the D Programing Language,https://www.youtube.com/watch?v=RlVpPstLPEc,/u/mr-foobar,5
-0,2017-04-05 08:06:45 -0500,['/t/hardware'],The Shocking Truth About Transformerless Power Supplies,http://hackaday.com/2017/04/04/the-shocking-truth-about-transformerless-power-supplies/,/u/flyingfisch,19
-0,2017-04-05 18:29:55 -0500,"['/t/graphics', '/t/historical', '/t/unix']","libsixel: encoder/decoder implementation for DEC SIXEL graphics, and some converter programs.",https://github.com/saitoha/libsixel,/u/trn,5
-4,2017-04-05 08:05:49 -0500,['/t/practices'],The Joel Test for 2017,https://myers.io/2017/04/04/the-joel-test-for-2017/,/u/calvin,9
-3,2017-04-05 10:37:34 -0500,"['/t/pdf', '/t/practices']",OpenVMS: State of the Port to x86_64 - April 3rd 2017 Update,http://vmssoftware.com/pdfs/State_of_Port_20170403.pdf,/u/trn,7
-1,2017-04-05 08:12:38 -0500,['/t/openbsd'],e2k17 Nano hackathon report from Bob Beck,http://undeadly.org/cgi?action=article&sid=20170405110059,/u/mulander,11
-0,2017-04-05 15:58:49 -0500,"['/t/culture', '/t/satire']",Hexing the technical interview,https://aphyr.com/posts/341-hexing-the-technical-interview,/u/355E3B,16
-0,2017-04-05 15:47:32 -0500,"['/t/android', '/t/security']",Samsung's Android Replacement Is a Hacker's Dream,https://motherboard.vice.com/en_us/article/samsung-tizen-operating-system-bugs-vulnerabilities,/u/wally,4
-0,2017-04-05 09:45:34 -0500,"['/t/compsci', '/t/math']",The Algebraic Analog of P vs NP,https://samidavies.wordpress.com/2017/04/02/the-algebraic-analog-of-p-vs-np/,/u/mwillsey,8
-0,2017-04-05 11:55:00 -0500,"['/t/elixir', '/t/testing']",Testing Mix Tasks in Elixir,https://jc00ke.com/2017/04/05/testing-elixir-mix-tasks/,/u/jc00ke,3
-9,2017-04-04 09:30:17 -0500,"['/t/crypto', '/t/security']",Upgrade your SSH keys!,https://blog.g3rt.nl/upgrade-your-ssh-keys.html,/u/davidjpeacock,54
-0,2017-04-05 09:22:39 -0500,['/t/browsers'],Cooking With Onions: Names for your onions,https://blog.torproject.org/blog/cooking-onions-names-your-onions,/u/pushcx,7
-0,2017-04-05 13:34:19 -0500,"['/t/law', '/t/privacy', '/t/security']",RCMP admits and defends use of secretive cellphone surveillance technology for the first time,http://www.cbc.ca/news/canada/rcmp-surveillance-imsi-catcher-mdi-stingray-cellphone-1.4056750,/u/trn,4
-1,2017-04-05 05:31:56 -0500,['/t/hardware'],Blinklight: Learn how to program FPGAs by building a Pong clone in an online simulator,https://www.blinklight.io/,/u/calvin,8
-0,2017-04-04 21:20:41 -0500,"['/t/compilers', '/t/erlang']",Unbalanced Parentheses – Erlang Battleground,https://medium.com/erlang-battleground/unbalanced-parentheses-6634140c6adb,/u/elbrujohalcon,11
-1,2017-04-04 20:45:36 -0500,['/t/hardware'],LEGO Macintosh classic replica with Wi-Fi and e‑paper display,https://jann.is/lego-macintosh-classic/,/u/pushcx,19
-0,2017-04-05 09:16:47 -0500,"['/t/api', '/t/programming']",gRPC Errors,http://avi.im/grpc-errors/,/u/av,2
-1,2017-04-05 11:11:55 -0500,"['/t/networking', '/t/web']",Opening up cyberspace with Matrix and WebVR!,https://matrix.org/blog/2017/04/04/opening-up-cyberspace-with-matrix-and-webvr/,/u/kodo,2
-15,2017-04-04 09:02:42 -0500,['/t/games'],Why F.E.A.R.’s AI is still the best in first-person shooters,https://www.rockpapershotgun.com/2017/04/03/why-fears-ai-is-still-the-best-in-first-person-shooters/,/u/qznc,28
-1,2017-04-05 08:38:39 -0500,['/t/practices'],Incident Summary: 2017–03–16 – Square Corner Blog – Medium,https://medium.com/square-corner-blog/incident-summary-2017-03-16-2f65be39297,/u/adsouza,2
+0,2017-04-06 05:21:35 -0500,"/t/dotnet,/t/release",Announcing the .NET Framework 4.7,https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/,/u/calvin,2
+1,2017-04-05 07:31:49 -0500,/t/crypto,Love in the Time of Cryptography,https://backchannel.com/love-in-the-time-of-cryptography-dd3a74193ffb,/u/JordiGH,25
+4,2017-04-05 17:51:03 -0500,"/t/c,/t/compilers,/t/practices",emulating partial function application in c,http://stackoverflow.com/questions/5524299/emulating-partial-function-application-in-c,/u/friendlysock,4
+29,2017-04-04 21:53:03 -0500,"/t/c,/t/rust",Rust Optimizations That C++ Can't Do,http://robert.ocallahan.org/2017/04/rust-optimizations-that-c-cant-do.html,/u/fitzgen,32
+1,2017-04-05 10:00:51 -0500,"/t/compsci,/t/person",In Which Our Protagonist Learns The Importance Of The Base Case,http://www.scq.ubc.ca/quarterly013/0103stripper.html,/u/pushcx,16
+1,2017-04-05 18:08:43 -0500,"/t/video,/t/compilers",Three Cool Things About D - The Case for the D Programing Language,https://www.youtube.com/watch?v=RlVpPstLPEc,/u/mr-foobar,5
+0,2017-04-05 08:06:45 -0500,/t/hardware,The Shocking Truth About Transformerless Power Supplies,http://hackaday.com/2017/04/04/the-shocking-truth-about-transformerless-power-supplies/,/u/flyingfisch,19
+0,2017-04-05 18:29:55 -0500,"/t/graphics,/t/historical,/t/unix","libsixel: encoder/decoder implementation for DEC SIXEL graphics, and some converter programs.",https://github.com/saitoha/libsixel,/u/trn,5
+4,2017-04-05 08:05:49 -0500,/t/practices,The Joel Test for 2017,https://myers.io/2017/04/04/the-joel-test-for-2017/,/u/calvin,9
+3,2017-04-05 10:37:34 -0500,"/t/pdf,/t/practices",OpenVMS: State of the Port to x86_64 - April 3rd 2017 Update,http://vmssoftware.com/pdfs/State_of_Port_20170403.pdf,/u/trn,7
+1,2017-04-05 08:12:38 -0500,/t/openbsd,e2k17 Nano hackathon report from Bob Beck,http://undeadly.org/cgi?action=article&sid=20170405110059,/u/mulander,11
+0,2017-04-05 15:58:49 -0500,"/t/culture,/t/satire",Hexing the technical interview,https://aphyr.com/posts/341-hexing-the-technical-interview,/u/355E3B,16
+0,2017-04-05 15:47:32 -0500,"/t/android,/t/security",Samsung's Android Replacement Is a Hacker's Dream,https://motherboard.vice.com/en_us/article/samsung-tizen-operating-system-bugs-vulnerabilities,/u/wally,4
+0,2017-04-05 09:45:34 -0500,"/t/compsci,/t/math",The Algebraic Analog of P vs NP,https://samidavies.wordpress.com/2017/04/02/the-algebraic-analog-of-p-vs-np/,/u/mwillsey,8
+0,2017-04-05 11:55:00 -0500,"/t/elixir,/t/testing",Testing Mix Tasks in Elixir,https://jc00ke.com/2017/04/05/testing-elixir-mix-tasks/,/u/jc00ke,3
+9,2017-04-04 09:30:17 -0500,"/t/crypto,/t/security",Upgrade your SSH keys!,https://blog.g3rt.nl/upgrade-your-ssh-keys.html,/u/davidjpeacock,54
+0,2017-04-05 09:22:39 -0500,/t/browsers,Cooking With Onions: Names for your onions,https://blog.torproject.org/blog/cooking-onions-names-your-onions,/u/pushcx,7
+0,2017-04-05 13:34:19 -0500,"/t/law,/t/privacy,/t/security",RCMP admits and defends use of secretive cellphone surveillance technology for the first time,http://www.cbc.ca/news/canada/rcmp-surveillance-imsi-catcher-mdi-stingray-cellphone-1.4056750,/u/trn,4
+1,2017-04-05 05:31:56 -0500,/t/hardware,Blinklight: Learn how to program FPGAs by building a Pong clone in an online simulator,https://www.blinklight.io/,/u/calvin,8
+0,2017-04-04 21:20:41 -0500,"/t/compilers,/t/erlang",Unbalanced Parentheses – Erlang Battleground,https://medium.com/erlang-battleground/unbalanced-parentheses-6634140c6adb,/u/elbrujohalcon,11
+1,2017-04-04 20:45:36 -0500,/t/hardware,LEGO Macintosh classic replica with Wi-Fi and e‑paper display,https://jann.is/lego-macintosh-classic/,/u/pushcx,19
+0,2017-04-05 09:16:47 -0500,"/t/api,/t/programming",gRPC Errors,http://avi.im/grpc-errors/,/u/av,2
+1,2017-04-05 11:11:55 -0500,"/t/networking,/t/web",Opening up cyberspace with Matrix and WebVR!,https://matrix.org/blog/2017/04/04/opening-up-cyberspace-with-matrix-and-webvr/,/u/kodo,2
+15,2017-04-04 09:02:42 -0500,/t/games,Why F.E.A.R.’s AI is still the best in first-person shooters,https://www.rockpapershotgun.com/2017/04/03/why-fears-ai-is-still-the-best-in-first-person-shooters/,/u/qznc,28
+1,2017-04-05 08:38:39 -0500,/t/practices,Incident Summary: 2017–03–16 – Square Corner Blog – Medium,https://medium.com/square-corner-blog/incident-summary-2017-03-16-2f65be39297,/u/adsouza,2

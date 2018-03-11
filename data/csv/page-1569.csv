@@ -1,25 +1,25 @@
-1,2012-07-07 00:46:00 -0500,['/t/vim'],VIM Adventures,http://vim-adventures.com/,/u/mc,3
-1,2012-07-07 00:29:12 -0500,['/t/privacy'],British Airways Will Google Passengers 'To Put A Face To The Name',http://www.huffingtonpost.com/2012/07/06/british-airways-will-google-passengers_n_1653530.html?utm_hp_ref=technology&ir=Technology,/u/mc,3
-1,2012-07-06 14:44:00 -0500,['/t/openbsd'],That grumpy BSD guy: Keeping Your OpenBSD System In Trim: A Works For Me Guide,http://bsdly.blogspot.dk/2012/07/keeping-your-openbsd-system-in-trim.html,/u/lynge,6
-0,2012-07-07 00:42:49 -0500,"['/t/android', '/t/security']","Android Botnet? No, a Much Simpler Flaw in Yahoo! Mail's App",http://securitywatch.pcmag.com/none/300005-android-botnet-no-a-much-simpler-flaw-in-yahoo-mail-s-app,/u/mc,1
-0,2012-07-06 15:46:18 -0500,"['/t/browsers', '/t/javascript']",Introducing BitTorrent Torque (In Browser BitTorrent),http://blog.bittorrent.com/2012/07/06/introducing-bittorrent-torque/,/u/kyle,4
-0,2012-07-06 22:59:40 -0500,['/t/news'],Mozilla ending future development on Thunderbird,http://blog.lizardwrangler.com/2012/07/06/thunderbird-stability-and-community-innovation/,/u/wally,1
-0,2012-07-06 13:32:17 -0500,"['/t/hardware', '/t/openbsd']","Gainframe offers OpenBSD dmesg, pcidump and usbdevs output for all systems they build",http://undeadly.org/cgi?action=article&sid=20120701211330,/u/virtualroot,3
-0,2012-07-06 15:54:20 -0500,['/t/news'],Patent war talks to be hosted by UN agency to protect innovation,http://www.bbc.com/news/technology-18736415,/u/kyle,1
-0,2012-07-06 03:23:06 -0500,"['/t/pdf', '/t/science']","Cycles, Cells and Platters: An Empirical Analysis of Hardware Failures on a Million Consumer PCs",http://research.microsoft.com/pubs/144888/eurosys84-nightingale.pdf,/u/lynge,2
-1,2012-07-05 22:13:50 -0500,"['/t/hardware', '/t/python']",Emulating USB Devices with Python,http://travisgoodspeed.blogspot.com/2012/07/emulating-usb-devices-with-python.html,/u/kyle,4
-9,2012-07-05 12:25:18 -0500,"['/t/ios', '/t/security']",First case of iOS malware to reach the App Store,https://www.securelist.com/en/blog/208193641/Find_and_Call_Leak_and_Spam,/u/jcs,5
-5,2012-07-05 13:06:50 -0500,"['/t/privacy', '/t/security']",Infiltrate the Vault: Security Analysis and Decryption of Lion Full Disk Encryption,http://eprint.iacr.org/2012/374,/u/kyle,2
-0,2012-07-05 12:42:48 -0500,['/t/privacy'],"Google Gets Dystopian - ""Google Glasses"" and the Surveillance State",http://www.alternet.org/story/156155/google_gets_dystopian%3A_%22google_glasses%22_and_the_surveillance_state/?page=entire,/u/wally,4
-0,2012-07-05 09:47:37 -0500,['/t/security'],Metasploit exploit development - the series (part 1),https://community.rapid7.com/community/metasploit/blog/2012/07/05/part-1-metasploit-module-development--the-series,/u/jcs,2
-0,2012-07-05 04:25:30 -0500,['/t/privacy'],"Cisco’s cloud vision: Mandatory, monetized, and killed at their discretion",http://www.extremetech.com/computing/132142-ciscos-cloud-vision-mandatory-monetized-and-killed-at-their-discretion,/u/lynge,2
-3,2012-07-04 17:36:38 -0500,['/t/scaling'],Tarsnap outage post-mortem,http://www.daemonology.net/blog/2012-07-04-tarsnap-outage.html,/u/virtualroot,3
-0,2012-07-05 03:21:45 -0500,['/t/security'],Is there a case for a unified SSL front?,http://daniel.haxx.se/blog/2012/07/04/is-there-a-case-for-a-unified-ssl-front/,/u/lynge,1
-2,2012-07-04 03:12:09 -0500,"['/t/news', '/t/science']",CERN observes new particle consistent with Higgs boson,http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html,/u/jed,6
-0,2012-07-03 22:07:00 -0500,"['/t/openbsd', '/t/security']",Encrypting the OpenBSD root filesystem with softraid,http://www.undeadly.org/cgi?action=article&sid=20110530221728,/u/virtualroot,4
-0,2012-07-03 18:51:17 -0500,"['/t/devops', '/t/scaling', '/t/visualization']",Visualizing Device Utilization,http://dtrace.org/blogs/brendan/2011/12/18/visualizing-device-utilization/,/u/jcs,4
-0,2012-07-03 16:32:54 -0500,['/t/security'],An Overview Of Protocol Reverse-Engineering,http://computer-forensics.sans.org/blog/2012/07/03/an-overview-of-protocol-reverse-engineering,/u/kyle,3
-0,2012-07-03 13:07:29 -0500,['/t/go'],Go at CloudFlare - CloudFlare blog,http://blog.cloudflare.com/go-at-cloudflare,/u/dwc,3
-0,2012-07-03 10:24:30 -0500,['/t/scaling'],Summary of the AWS Service Event in the US East Region,http://aws.amazon.com/message/67457/,/u/leo,4
-0,2012-07-03 11:03:00 -0500,"['/t/c', '/t/security']",x86 API Hooking Demystified,http://jbremer.org/x86-api-hooking-demystified/,/u/kyle,3
-1,2012-07-03 10:04:41 -0500,['/t/news'],"Twitter Loses ‘Occupy Wall Street’ Case, Forced To Hand Over User Info | TPM Idea Lab",http://idealab.talkingpointsmemo.com/2012/07/twitter-loses-occupy-wall-street-case-forced-to-hand-over-user-info.php,/u/squib,2
+1,2012-07-07 00:46:00 -0500,/t/vim,VIM Adventures,http://vim-adventures.com/,/u/mc,3
+1,2012-07-07 00:29:12 -0500,/t/privacy,British Airways Will Google Passengers 'To Put A Face To The Name',http://www.huffingtonpost.com/2012/07/06/british-airways-will-google-passengers_n_1653530.html?utm_hp_ref=technology&ir=Technology,/u/mc,3
+1,2012-07-06 14:44:00 -0500,/t/openbsd,That grumpy BSD guy: Keeping Your OpenBSD System In Trim: A Works For Me Guide,http://bsdly.blogspot.dk/2012/07/keeping-your-openbsd-system-in-trim.html,/u/lynge,6
+0,2012-07-07 00:42:49 -0500,"/t/android,/t/security","Android Botnet? No, a Much Simpler Flaw in Yahoo! Mail's App",http://securitywatch.pcmag.com/none/300005-android-botnet-no-a-much-simpler-flaw-in-yahoo-mail-s-app,/u/mc,1
+0,2012-07-06 15:46:18 -0500,"/t/browsers,/t/javascript",Introducing BitTorrent Torque (In Browser BitTorrent),http://blog.bittorrent.com/2012/07/06/introducing-bittorrent-torque/,/u/kyle,4
+0,2012-07-06 22:59:40 -0500,/t/news,Mozilla ending future development on Thunderbird,http://blog.lizardwrangler.com/2012/07/06/thunderbird-stability-and-community-innovation/,/u/wally,1
+0,2012-07-06 13:32:17 -0500,"/t/hardware,/t/openbsd","Gainframe offers OpenBSD dmesg, pcidump and usbdevs output for all systems they build",http://undeadly.org/cgi?action=article&sid=20120701211330,/u/virtualroot,3
+0,2012-07-06 15:54:20 -0500,/t/news,Patent war talks to be hosted by UN agency to protect innovation,http://www.bbc.com/news/technology-18736415,/u/kyle,1
+0,2012-07-06 03:23:06 -0500,"/t/pdf,/t/science","Cycles, Cells and Platters: An Empirical Analysis of Hardware Failures on a Million Consumer PCs",http://research.microsoft.com/pubs/144888/eurosys84-nightingale.pdf,/u/lynge,2
+1,2012-07-05 22:13:50 -0500,"/t/hardware,/t/python",Emulating USB Devices with Python,http://travisgoodspeed.blogspot.com/2012/07/emulating-usb-devices-with-python.html,/u/kyle,4
+9,2012-07-05 12:25:18 -0500,"/t/ios,/t/security",First case of iOS malware to reach the App Store,https://www.securelist.com/en/blog/208193641/Find_and_Call_Leak_and_Spam,/u/jcs,5
+5,2012-07-05 13:06:50 -0500,"/t/privacy,/t/security",Infiltrate the Vault: Security Analysis and Decryption of Lion Full Disk Encryption,http://eprint.iacr.org/2012/374,/u/kyle,2
+0,2012-07-05 12:42:48 -0500,/t/privacy,"Google Gets Dystopian - ""Google Glasses"" and the Surveillance State",http://www.alternet.org/story/156155/google_gets_dystopian%3A_%22google_glasses%22_and_the_surveillance_state/?page=entire,/u/wally,4
+0,2012-07-05 09:47:37 -0500,/t/security,Metasploit exploit development - the series (part 1),https://community.rapid7.com/community/metasploit/blog/2012/07/05/part-1-metasploit-module-development--the-series,/u/jcs,2
+0,2012-07-05 04:25:30 -0500,/t/privacy,"Cisco’s cloud vision: Mandatory, monetized, and killed at their discretion",http://www.extremetech.com/computing/132142-ciscos-cloud-vision-mandatory-monetized-and-killed-at-their-discretion,/u/lynge,2
+3,2012-07-04 17:36:38 -0500,/t/scaling,Tarsnap outage post-mortem,http://www.daemonology.net/blog/2012-07-04-tarsnap-outage.html,/u/virtualroot,3
+0,2012-07-05 03:21:45 -0500,/t/security,Is there a case for a unified SSL front?,http://daniel.haxx.se/blog/2012/07/04/is-there-a-case-for-a-unified-ssl-front/,/u/lynge,1
+2,2012-07-04 03:12:09 -0500,"/t/news,/t/science",CERN observes new particle consistent with Higgs boson,http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html,/u/jed,6
+0,2012-07-03 22:07:00 -0500,"/t/openbsd,/t/security",Encrypting the OpenBSD root filesystem with softraid,http://www.undeadly.org/cgi?action=article&sid=20110530221728,/u/virtualroot,4
+0,2012-07-03 18:51:17 -0500,"/t/devops,/t/scaling,/t/visualization",Visualizing Device Utilization,http://dtrace.org/blogs/brendan/2011/12/18/visualizing-device-utilization/,/u/jcs,4
+0,2012-07-03 16:32:54 -0500,/t/security,An Overview Of Protocol Reverse-Engineering,http://computer-forensics.sans.org/blog/2012/07/03/an-overview-of-protocol-reverse-engineering,/u/kyle,3
+0,2012-07-03 13:07:29 -0500,/t/go,Go at CloudFlare - CloudFlare blog,http://blog.cloudflare.com/go-at-cloudflare,/u/dwc,3
+0,2012-07-03 10:24:30 -0500,/t/scaling,Summary of the AWS Service Event in the US East Region,http://aws.amazon.com/message/67457/,/u/leo,4
+0,2012-07-03 11:03:00 -0500,"/t/c,/t/security",x86 API Hooking Demystified,http://jbremer.org/x86-api-hooking-demystified/,/u/kyle,3
+1,2012-07-03 10:04:41 -0500,/t/news,"Twitter Loses ‘Occupy Wall Street’ Case, Forced To Hand Over User Info | TPM Idea Lab",http://idealab.talkingpointsmemo.com/2012/07/twitter-loses-occupy-wall-street-case-forced-to-hand-over-user-info.php,/u/squib,2

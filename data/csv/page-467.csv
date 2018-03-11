@@ -1,25 +1,25 @@
-0,2017-02-28 11:15:22 -0600,"['/t/lisp', '/t/ruby']",How we've migrated from Ruby to Clojure (for the most part),https://medium.com/intercom-developers/from-ruby-to-clojure-an-intercom-integration-story-e6042806a152#.ykhqzmwqa,/u/lukaszkorecki,3
-22,2017-02-27 10:45:18 -0600,['/t/hardware'],My 2015 MacBook Pro Retina exploded.,https://medium.com/@dourvaris/my-2015-macbook-pro-retina-exploded-119ea5ea9d1f,/u/maqio,44
-1,2017-02-28 11:05:10 -0600,"['/t/pdf', '/t/math']",A Conceptual Introduction to Hamiltonian Monte Carlo,https://arxiv.org/abs/1701.02434,/u/pushcx,5
-0,2017-02-28 19:06:59 -0600,['/t/ruby'],Bundler Changed Where Your Canonical Ruby Information Lives: What You Need to Know,https://blog.heroku.com/bundler-and-canonical-ruby-version,/u/soulcutter,2
-0,2017-02-28 18:38:44 -0600,['/t/cogsci'],Deep Voice: real-time neural text-to-speech for production,http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/,/u/colin,2
-2,2017-02-28 03:32:22 -0600,"['/t/browsers', '/t/security']",Google reverts TLS 1.3 support for Chrome because of MITM-Proxies,https://bugs.chromium.org/p/chromium/issues/detail?id=694593,/u/av,7
-1,2017-02-28 10:24:08 -0600,['/t/meta'],"New tag suggestion: ""algorithms""",/s/zkrxch/new_tag_suggestion_algorithms,/u/jonhoo,4
-0,2017-02-28 09:25:49 -0600,['/t/javascript'],The Arecibo Message - for JS1K 2017,https://github.com/tomhodgins/js1k-arecibo,/u/innovati,3
-0,2017-03-01 02:37:01 -0600,['/t/browsers'],Major browsers can begin shipping WebAssembly on-by-default,https://lists.w3.org/Archives/Public/public-webassembly/2017Feb/0002.html?#options3,/u/av,0
-0,2017-02-28 11:09:23 -0600,"['/t/video', '/t/elixir', '/t/hardware']",Nerves and Elixir Updates - (Lonestar ElixirConf 2017- Keynote by Justin Schneck),https://www.youtube.com/watch?v=pVHhmqYozOM,/u/cooler_ranch,4
-1,2017-02-28 08:03:56 -0600,"['/t/pdf', '/t/cogsci', '/t/finance']",Worker-Owned Cooperative Models for Training Artificial Intelligence,https://homes.cs.washington.edu/~jbragg/files/sriraman-cscw17.pdf,/u/james,3
-0,2017-02-28 20:38:47 -0600,"['/t/culture', '/t/practices']",Programmers are confessing their coding sins to protest a broken job interview process,https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process,/u/calvin,2
-0,2017-02-28 14:50:13 -0600,"['/t/security', '/t/vcs']","Mercurial, SHA-1, and Trusting Version Control","http://gregoryszorc.com/blog/2017/02/28/mercurial,-sha-1,-and-trusting-version-control/",/u/ngoldbaum,2
-0,2017-02-28 11:25:32 -0600,['/t/compsci'],Two-part Rubik's algorithms,https://nedbatchelder.com/text/rubiks_algorithms.html,/u/pushcx,3
-10,2017-02-27 12:17:28 -0600,"['/t/api', '/t/debugging', '/t/practices']",So You Want To Write Your Own CSV code?,http://tburette.github.io/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/,/u/friendlysock,22
-0,2017-02-28 07:28:55 -0600,['/t/programming'],Patching closed software for beginners,http://www.malsmith.net/blog/patching-closed-software/,/u/julienXX,5
-1,2017-02-28 10:01:47 -0600,"['/t/python', '/t/security']",Preventing SQL injections in Python (and other vulnerabilities),https://blog.sqreen.io/preventing-sql-injections-in-python/,/u/PaulBlei,2
-0,2017-02-28 12:39:08 -0600,"['/t/video', '/t/elixir']",Lonestar Elixir 2017,http://www.youtube.com/playlist?list=PLE7tQUdRKcyaMEekS1T32hUw19UxzqBEo,/u/tf,2
-1,2017-02-28 04:25:35 -0600,"['/t/php', '/t/security']",Mitigating PHP's long standing issue with OPCache leaking sensitive data,https://ma.ttias.be/mitigating-phps-long-standing-issue-opcache-leaking-sensitive-data/,/u/sevan,5
-8,2017-02-27 07:47:56 -0600,['/t/law'],Balancing a binary search tree at immigration,https://twitter.com/cyberomin/status/835888786462625792,/u/vyodaiken,38
-0,2017-02-27 18:22:06 -0600,"['/t/compsci', '/t/distributed']",MIT reading group on Scalability but at what COST?,http://dsrg.pdos.csail.mit.edu/2016/06/26/scalability-cost/,/u/jonhoo,10
-0,2017-02-27 19:51:54 -0600,['/t/hardware'],The Librem 13 v1 coreboot port is now complete,https://puri.sm/posts/librem-13-coreboot-report-february-25th-2017/,/u/jcs,14
-0,2017-02-28 14:00:39 -0600,['/t/security'],The future of Ransomware,https://blog.cryptographyengineering.com/2017/02/28/the-future-of-ransomware/,/u/thorduri,1
-4,2017-02-27 15:14:17 -0600,['/t/go'],Configuring Go Apps with TOML,http://benaiah.me/posts/configuring-go-apps-with-toml/,/u/benaiah,6
-0,2017-02-28 13:30:40 -0600,"['/t/ruby', '/t/web']",Real-time Rails: Dreams for a Better ActionCable,http://alexmatchneer.com/blog/2017/02/27/realtime-rails/,/u/pushcx,1
+0,2017-02-28 11:15:22 -0600,"/t/lisp,/t/ruby",How we've migrated from Ruby to Clojure (for the most part),https://medium.com/intercom-developers/from-ruby-to-clojure-an-intercom-integration-story-e6042806a152#.ykhqzmwqa,/u/lukaszkorecki,3
+22,2017-02-27 10:45:18 -0600,/t/hardware,My 2015 MacBook Pro Retina exploded.,https://medium.com/@dourvaris/my-2015-macbook-pro-retina-exploded-119ea5ea9d1f,/u/maqio,44
+1,2017-02-28 11:05:10 -0600,"/t/pdf,/t/math",A Conceptual Introduction to Hamiltonian Monte Carlo,https://arxiv.org/abs/1701.02434,/u/pushcx,5
+0,2017-02-28 19:06:59 -0600,/t/ruby,Bundler Changed Where Your Canonical Ruby Information Lives: What You Need to Know,https://blog.heroku.com/bundler-and-canonical-ruby-version,/u/soulcutter,2
+0,2017-02-28 18:38:44 -0600,/t/cogsci,Deep Voice: real-time neural text-to-speech for production,http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/,/u/colin,2
+2,2017-02-28 03:32:22 -0600,"/t/browsers,/t/security",Google reverts TLS 1.3 support for Chrome because of MITM-Proxies,https://bugs.chromium.org/p/chromium/issues/detail?id=694593,/u/av,7
+1,2017-02-28 10:24:08 -0600,/t/meta,"New tag suggestion: ""algorithms""",/s/zkrxch/new_tag_suggestion_algorithms,/u/jonhoo,4
+0,2017-02-28 09:25:49 -0600,/t/javascript,The Arecibo Message - for JS1K 2017,https://github.com/tomhodgins/js1k-arecibo,/u/innovati,3
+0,2017-03-01 02:37:01 -0600,/t/browsers,Major browsers can begin shipping WebAssembly on-by-default,https://lists.w3.org/Archives/Public/public-webassembly/2017Feb/0002.html?#options3,/u/av,0
+0,2017-02-28 11:09:23 -0600,"/t/video,/t/elixir,/t/hardware",Nerves and Elixir Updates - (Lonestar ElixirConf 2017- Keynote by Justin Schneck),https://www.youtube.com/watch?v=pVHhmqYozOM,/u/cooler_ranch,4
+1,2017-02-28 08:03:56 -0600,"/t/pdf,/t/cogsci,/t/finance",Worker-Owned Cooperative Models for Training Artificial Intelligence,https://homes.cs.washington.edu/~jbragg/files/sriraman-cscw17.pdf,/u/james,3
+0,2017-02-28 20:38:47 -0600,"/t/culture,/t/practices",Programmers are confessing their coding sins to protest a broken job interview process,https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process,/u/calvin,2
+0,2017-02-28 14:50:13 -0600,"/t/security,/t/vcs","Mercurial, SHA-1, and Trusting Version Control","http://gregoryszorc.com/blog/2017/02/28/mercurial,-sha-1,-and-trusting-version-control/",/u/ngoldbaum,2
+0,2017-02-28 11:25:32 -0600,/t/compsci,Two-part Rubik's algorithms,https://nedbatchelder.com/text/rubiks_algorithms.html,/u/pushcx,3
+10,2017-02-27 12:17:28 -0600,"/t/api,/t/debugging,/t/practices",So You Want To Write Your Own CSV code?,http://tburette.github.io/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/,/u/friendlysock,22
+0,2017-02-28 07:28:55 -0600,/t/programming,Patching closed software for beginners,http://www.malsmith.net/blog/patching-closed-software/,/u/julienXX,5
+1,2017-02-28 10:01:47 -0600,"/t/python,/t/security",Preventing SQL injections in Python (and other vulnerabilities),https://blog.sqreen.io/preventing-sql-injections-in-python/,/u/PaulBlei,2
+0,2017-02-28 12:39:08 -0600,"/t/video,/t/elixir",Lonestar Elixir 2017,http://www.youtube.com/playlist?list=PLE7tQUdRKcyaMEekS1T32hUw19UxzqBEo,/u/tf,2
+1,2017-02-28 04:25:35 -0600,"/t/php,/t/security",Mitigating PHP's long standing issue with OPCache leaking sensitive data,https://ma.ttias.be/mitigating-phps-long-standing-issue-opcache-leaking-sensitive-data/,/u/sevan,5
+8,2017-02-27 07:47:56 -0600,/t/law,Balancing a binary search tree at immigration,https://twitter.com/cyberomin/status/835888786462625792,/u/vyodaiken,38
+0,2017-02-27 18:22:06 -0600,"/t/compsci,/t/distributed",MIT reading group on Scalability but at what COST?,http://dsrg.pdos.csail.mit.edu/2016/06/26/scalability-cost/,/u/jonhoo,10
+0,2017-02-27 19:51:54 -0600,/t/hardware,The Librem 13 v1 coreboot port is now complete,https://puri.sm/posts/librem-13-coreboot-report-february-25th-2017/,/u/jcs,14
+0,2017-02-28 14:00:39 -0600,/t/security,The future of Ransomware,https://blog.cryptographyengineering.com/2017/02/28/the-future-of-ransomware/,/u/thorduri,1
+4,2017-02-27 15:14:17 -0600,/t/go,Configuring Go Apps with TOML,http://benaiah.me/posts/configuring-go-apps-with-toml/,/u/benaiah,6
+0,2017-02-28 13:30:40 -0600,"/t/ruby,/t/web",Real-time Rails: Dreams for a Better ActionCable,http://alexmatchneer.com/blog/2017/02/27/realtime-rails/,/u/pushcx,1

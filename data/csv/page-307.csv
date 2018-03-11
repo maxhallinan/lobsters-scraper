@@ -1,25 +1,25 @@
-0,2017-07-03 16:05:43 -0500,"['/t/pdf', '/t/design', '/t/math']",Unicode Plain Text Encoding of Mathematics,http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v3.1.pdf,/u/pushcx,4
-0,2017-07-03 12:35:07 -0500,"['/t/compilers', '/t/netbsd', '/t/security']",LLVM asan and ubsan on NetBSD,http://blog.netbsd.org/tnf/entry/llvm_asan_and_ubsan_on,/u/sevan,6
-1,2017-07-03 20:21:32 -0500,['/t/elixir'],Course From Dave Thomas - Elixir for Programmers,https://codestool.coding-gnome.com/courses/elixir-for-programmers,/u/tallgeoff,1
-0,2017-07-03 10:57:28 -0500,"['/t/linux', '/t/unix']",Buffers and windows: The mystery of ‘ssh’ and ‘while read’ in excessive detail,http://www.vidarholen.net/contents/blog/?p=632,/u/ehamberg,7
-0,2017-07-03 09:28:29 -0500,['/t/graphics'],Energy Conservation In Games,http://www.rorydriscoll.com/2009/01/25/energy-conservation-in-games/,/u/mikejsavage,8
-1,2017-07-03 08:33:16 -0500,['/t/law'],Is it Time to Can the CAN-SPAM Act?,https://krebsonsecurity.com/2017/07/is-it-time-to-can-the-can-spam-act/,/u/flyingfisch,5
-10,2017-07-02 07:39:00 -0500,"['/t/security', '/t/systemd']",User accounts starting with a digit (such as 0day) get bonus root privileges.,https://github.com/systemd/systemd/issues/6237,/u/cnst,56
-0,2017-07-03 17:58:37 -0500,['/t/assembly'],Outsmarting the compiler,http://dpzmick.com/2017/05/25/outsmarting-the-compiler/,/u/pushcx,2
-0,2017-07-03 03:03:19 -0500,"['/t/c', '/t/netbsd']",Writing a NetBSD kernel module,https://saurvs.github.io/post/writing-netbsd-kern-mod/,/u/seschwar,13
-0,2017-07-03 05:35:43 -0500,"['/t/elm', '/t/programming']",What are Subscriptions and Commands in Elm,https://www.dailydrip.com/blog/what-are-subscriptions-and-commands-in-elm.html,/u/franzunix,5
-3,2017-07-03 15:36:40 -0500,"['/t/audio', '/t/web']",Shop Talk Show - An internet radio show about the internet starring Dave Rupert and Chris Coyier,http://shoptalkshow.com/,/u/flyingfisch,1
-0,2017-07-03 06:51:38 -0500,['/t/vim'],vim-indent-object: treat indented block (`ii`) as an object to select/indent/yank/change/etc,http://www.vim.org/scripts/script.php?script_id=3037,/u/Sietsebb,6
-0,2017-07-02 17:31:35 -0500,['/t/openbsd'],Kernel relinking status from Theo de Raadt,http://undeadly.org/cgi?action=article&sid=20170701170044,/u/calvin,25
-0,2017-07-03 05:48:50 -0500,"['/t/security', '/t/virtualization']",Vuln research in hypervisors by creating unusual system configurations,https://github.com/airbus-seclab/crashos,/u/rodolfo,5
-3,2017-07-03 05:24:05 -0500,"['/t/mac', '/t/practices', '/t/web']",Guide to Local WordPress Development,https://www.davidgagne.net/2017/01/23/the-ultimate-guide-to-local-wordpress-development-on-a-mac/,/u/fcbsd,2
-0,2017-07-03 08:31:10 -0500,['/t/css'],CSS is Awesome,https://css-tricks.com/css-is-awesome/,/u/flyingfisch,2
-0,2017-07-02 16:41:30 -0500,['/t/games'],Some memorable levels,https://eev.ee/blog/2017/07/01/some-memorable-levels/,/u/calvin,13
-0,2017-07-03 06:53:39 -0500,['/t/graphics'],Cascaded Shadow Maps,https://msdn.microsoft.com/en-us/library/windows/desktop/ee416307(v=vs.85).aspx,/u/mikejsavage,2
-0,2017-07-03 09:29:25 -0500,['/t/c++'],Emulating the C# using keyword in C++,https://blogs.msdn.microsoft.com/oldnewthing/20170703-00/?p=96515,/u/calvin,1
-2,2017-07-02 14:01:28 -0500,"['/t/emacs', '/t/lisp']",Synthesising Elisp Code,http://www.wilfred.me.uk/blog/2017/07/02/synthesising-elisp-code/,/u/Wilfred,12
-0,2017-07-03 04:53:25 -0500,"['/t/pdf', '/t/graphics', '/t/performance']",GCN performance tweets,http://developer.amd.com/wordpress/media/2013/05/GCNPerformanceTweets.pdf,/u/mikejsavage,2
-0,2017-07-02 19:48:13 -0500,['/t/openbsd'],The package of my very first cd and t-shirt of #OpenBSD,https://twitter.com/x61sh/status/881670884955746306,/u/gonzalo,3
-0,2017-07-03 13:03:56 -0500,"['/t/culture', '/t/job', '/t/person', '/t/programming']",?? Coding & relax at “Case al Borgo” – Codingfrom,https://medium.com/@codingfrom/coding-relax-at-case-al-borgo-ed0580c7f4b8,/u/loige,1
-2,2017-07-02 10:24:45 -0500,"['/t/c', '/t/historical']",Legacy-cc: Earliest known example of a C compiler,https://github.com/mortdeus/legacy-cc,/u/aleph,13
-1,2017-07-02 20:13:11 -0500,"['/t/crypto', '/t/historical']",multiple timing side channels in libgcrypt RSA (2015),https://lists.gnupg.org/pipermail/gcrypt-devel/2015-November/003618.html,/u/rain1,4
+0,2017-07-03 16:05:43 -0500,"/t/pdf,/t/design,/t/math",Unicode Plain Text Encoding of Mathematics,http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v3.1.pdf,/u/pushcx,4
+0,2017-07-03 12:35:07 -0500,"/t/compilers,/t/netbsd,/t/security",LLVM asan and ubsan on NetBSD,http://blog.netbsd.org/tnf/entry/llvm_asan_and_ubsan_on,/u/sevan,6
+1,2017-07-03 20:21:32 -0500,/t/elixir,Course From Dave Thomas - Elixir for Programmers,https://codestool.coding-gnome.com/courses/elixir-for-programmers,/u/tallgeoff,1
+0,2017-07-03 10:57:28 -0500,"/t/linux,/t/unix",Buffers and windows: The mystery of ‘ssh’ and ‘while read’ in excessive detail,http://www.vidarholen.net/contents/blog/?p=632,/u/ehamberg,7
+0,2017-07-03 09:28:29 -0500,/t/graphics,Energy Conservation In Games,http://www.rorydriscoll.com/2009/01/25/energy-conservation-in-games/,/u/mikejsavage,8
+1,2017-07-03 08:33:16 -0500,/t/law,Is it Time to Can the CAN-SPAM Act?,https://krebsonsecurity.com/2017/07/is-it-time-to-can-the-can-spam-act/,/u/flyingfisch,5
+10,2017-07-02 07:39:00 -0500,"/t/security,/t/systemd",User accounts starting with a digit (such as 0day) get bonus root privileges.,https://github.com/systemd/systemd/issues/6237,/u/cnst,56
+0,2017-07-03 17:58:37 -0500,/t/assembly,Outsmarting the compiler,http://dpzmick.com/2017/05/25/outsmarting-the-compiler/,/u/pushcx,2
+0,2017-07-03 03:03:19 -0500,"/t/c,/t/netbsd",Writing a NetBSD kernel module,https://saurvs.github.io/post/writing-netbsd-kern-mod/,/u/seschwar,13
+0,2017-07-03 05:35:43 -0500,"/t/elm,/t/programming",What are Subscriptions and Commands in Elm,https://www.dailydrip.com/blog/what-are-subscriptions-and-commands-in-elm.html,/u/franzunix,5
+3,2017-07-03 15:36:40 -0500,"/t/audio,/t/web",Shop Talk Show - An internet radio show about the internet starring Dave Rupert and Chris Coyier,http://shoptalkshow.com/,/u/flyingfisch,1
+0,2017-07-03 06:51:38 -0500,/t/vim,vim-indent-object: treat indented block (`ii`) as an object to select/indent/yank/change/etc,http://www.vim.org/scripts/script.php?script_id=3037,/u/Sietsebb,6
+0,2017-07-02 17:31:35 -0500,/t/openbsd,Kernel relinking status from Theo de Raadt,http://undeadly.org/cgi?action=article&sid=20170701170044,/u/calvin,25
+0,2017-07-03 05:48:50 -0500,"/t/security,/t/virtualization",Vuln research in hypervisors by creating unusual system configurations,https://github.com/airbus-seclab/crashos,/u/rodolfo,5
+3,2017-07-03 05:24:05 -0500,"/t/mac,/t/practices,/t/web",Guide to Local WordPress Development,https://www.davidgagne.net/2017/01/23/the-ultimate-guide-to-local-wordpress-development-on-a-mac/,/u/fcbsd,2
+0,2017-07-03 08:31:10 -0500,/t/css,CSS is Awesome,https://css-tricks.com/css-is-awesome/,/u/flyingfisch,2
+0,2017-07-02 16:41:30 -0500,/t/games,Some memorable levels,https://eev.ee/blog/2017/07/01/some-memorable-levels/,/u/calvin,13
+0,2017-07-03 06:53:39 -0500,/t/graphics,Cascaded Shadow Maps,https://msdn.microsoft.com/en-us/library/windows/desktop/ee416307(v=vs.85).aspx,/u/mikejsavage,2
+0,2017-07-03 09:29:25 -0500,/t/c++,Emulating the C# using keyword in C++,https://blogs.msdn.microsoft.com/oldnewthing/20170703-00/?p=96515,/u/calvin,1
+2,2017-07-02 14:01:28 -0500,"/t/emacs,/t/lisp",Synthesising Elisp Code,http://www.wilfred.me.uk/blog/2017/07/02/synthesising-elisp-code/,/u/Wilfred,12
+0,2017-07-03 04:53:25 -0500,"/t/pdf,/t/graphics,/t/performance",GCN performance tweets,http://developer.amd.com/wordpress/media/2013/05/GCNPerformanceTweets.pdf,/u/mikejsavage,2
+0,2017-07-02 19:48:13 -0500,/t/openbsd,The package of my very first cd and t-shirt of #OpenBSD,https://twitter.com/x61sh/status/881670884955746306,/u/gonzalo,3
+0,2017-07-03 13:03:56 -0500,"/t/culture,/t/job,/t/person,/t/programming",?? Coding & relax at “Case al Borgo” – Codingfrom,https://medium.com/@codingfrom/coding-relax-at-case-al-borgo-ed0580c7f4b8,/u/loige,1
+2,2017-07-02 10:24:45 -0500,"/t/c,/t/historical",Legacy-cc: Earliest known example of a C compiler,https://github.com/mortdeus/legacy-cc,/u/aleph,13
+1,2017-07-02 20:13:11 -0500,"/t/crypto,/t/historical",multiple timing side channels in libgcrypt RSA (2015),https://lists.gnupg.org/pipermail/gcrypt-devel/2015-November/003618.html,/u/rain1,4

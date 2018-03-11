@@ -1,25 +1,25 @@
-2,2014-04-02 11:05:04 -0500,['/t/hardware'],Novena open source laptop now taking funding/pre-orders,https://www.crowdsupply.com/kosagi/novena-open-laptop,/u/jcs,16
-0,2014-04-03 07:30:06 -0500,['/t/ruby'],Build complex forms with FormBuilder,http://pothibo.com/2014/04/build-your-forms-with-formbuilder/,/u/pothibo,1
-0,2014-04-02 23:09:44 -0500,"['/t/distributed', '/t/dotnet', '/t/programming']","Project ""Orleans"" Samples and CTP",https://orleans.codeplex.com/,/u/BruceM,3
-7,2014-04-03 04:30:52 -0500,['/t/meta'],Bug? Different stories show up in 'Home' than in 'Recent',/s/l5wtdb/bug_different_stories_show_up_home_than,/u/apy,3
-0,2014-04-03 01:40:49 -0500,['/t/privacy'],DMCA notification for sharing copyright protected files on Dropbox,https://twitter.com/darrellwhitelaw/status/450096476060794880,/u/atmosx,1
-13,2014-04-02 12:31:07 -0500,['/t/ask'],How do you articulate that more staff isn't always the correct solution to the higher ups?,/s/hwxitq/how_do_you_articulate_more_staff_isn_t,/u/xyz,12
-0,2014-04-02 15:54:14 -0500,"['/t/api', '/t/games', '/t/hardware', '/t/web']",SnowShoe: Create magic with a touch of plastic,http://beta.snowshoestamp.com,/u/ccmoberg,4
-0,2014-04-02 15:53:28 -0500,"['/t/mobile', '/t/networking']","Peer-to-peer networking app FireChat used in Taiwan ""Sunflower Movement"" protests",http://www.techinasia.com/unblockable-unstoppable-firechat-messaging-app-unites-china-and-taiwan-in-free-speech-and-its-not-pretty/,/u/zhemao,4
-0,2014-04-02 15:44:03 -0500,['/t/security'],Breaking Half of The Telegram Contest,https://blog.thijsalkema.de/blog/2014/04/02/breaking-half-of-the-telegram-contest/,/u/kyle,3
-1,2014-04-02 00:32:50 -0500,"['/t/haskell', '/t/javascript', '/t/programming', '/t/web']",Haste Language,http://haste-lang.org/,/u/kencausey,13
-7,2014-04-01 17:20:58 -0500,"['/t/privacy', '/t/release', '/t/security']",reop - reasonable expectation of privacy,http://www.tedunangst.com/flak/post/reop,/u/jcs,15
-3,2014-04-01 22:23:07 -0500,"['/t/mac', '/t/networking']","Rapid DHCP: Or, how do Macs get on the network so fast? (2011)",http://cafbit.com/entry/rapid_dhcp_or_how_do,/u/jcs,6
-0,2014-04-02 14:25:43 -0500,['/t/release'],Making Mahout Fast and Easy,http://www.mapr.com/blog/making-mahout-fast-and-easy,/u/tobym,1
-0,2014-04-02 13:34:37 -0500,"['/t/javascript', '/t/programming']",JQuery Promises and Deferreds,http://maori.geek.nz/post/i_promise_this_will_be_short,/u/codeon1,1
-3,2014-04-01 17:33:57 -0500,['/t/go'],Brvty - Thoughts On Golang Code Conventions And Standards,https://michaelwhatcott.com/familiarity-admits-brevity/,/u/xyz,8
-0,2014-04-01 18:23:15 -0500,"['/t/lisp', '/t/vim']",TimL - a Clojure-like Lisp implemented in and compiling down to VimL,https://github.com/tpope/timl,/u/tomjakubowski,12
-1,2014-04-01 18:19:35 -0500,['/t/devops'],Three Corner Rsync,http://blog.lrdesign.com/2014/04/three-corner-rsync/,/u/judsonlester,10
-0,2014-04-02 08:20:00 -0500,['/t/javascript'],Creating Sound with the Web Audio API and Oscillators,http://flippinawesome.org/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/,/u/remotesynth,2
-2,2014-04-01 08:59:27 -0500,"['/t/compsci', '/t/databases']",Redis new data structure: the HyperLogLog,http://antirez.com/news/75,/u/jcs,27
-0,2014-04-02 11:30:41 -0500,['/t/security'],Have I been pwned - a crawler for password dumps,https://haveibeenpwned.com/,/u/polydaic,1
-11,2014-04-01 09:45:18 -0500,['/t/rant'],Conduct unbecoming of a hacker,http://sealedabstract.com/rants/conduct-unbecoming-of-a-hacker/,/u/jkkm,45
-0,2014-04-01 15:13:38 -0500,"['/t/browsers', '/t/release', '/t/security']",The Design and Implementation of the Tor Browser,https://www.torproject.org/projects/torbrowser/design/,/u/badr,7
-0,2014-04-02 09:20:38 -0500,"['/t/php', '/t/programming', '/t/scaling']",Building a Better PHP — Part 3: Getting Started with Hack,https://blog.engineyard.com/2014/hhvm-hack-part-3,/u/dshafik,0
-4,2014-04-01 08:47:54 -0500,"['/t/show', '/t/linux', '/t/release']",Motif on Wayland,https://www.indiegogo.com/projects/motif-on-wayland/x/6279682,/u/algernon,6
-0,2014-04-01 10:35:02 -0500,['/t/c'],Reordering optimizations,http://blog.coverity.com/2014/03/26/reordering-optimizations/,/u/tedu,7
+2,2014-04-02 11:05:04 -0500,/t/hardware,Novena open source laptop now taking funding/pre-orders,https://www.crowdsupply.com/kosagi/novena-open-laptop,/u/jcs,16
+0,2014-04-03 07:30:06 -0500,/t/ruby,Build complex forms with FormBuilder,http://pothibo.com/2014/04/build-your-forms-with-formbuilder/,/u/pothibo,1
+0,2014-04-02 23:09:44 -0500,"/t/distributed,/t/dotnet,/t/programming","Project ""Orleans"" Samples and CTP",https://orleans.codeplex.com/,/u/BruceM,3
+7,2014-04-03 04:30:52 -0500,/t/meta,Bug? Different stories show up in 'Home' than in 'Recent',/s/l5wtdb/bug_different_stories_show_up_home_than,/u/apy,3
+0,2014-04-03 01:40:49 -0500,/t/privacy,DMCA notification for sharing copyright protected files on Dropbox,https://twitter.com/darrellwhitelaw/status/450096476060794880,/u/atmosx,1
+13,2014-04-02 12:31:07 -0500,/t/ask,How do you articulate that more staff isn't always the correct solution to the higher ups?,/s/hwxitq/how_do_you_articulate_more_staff_isn_t,/u/xyz,12
+0,2014-04-02 15:54:14 -0500,"/t/api,/t/games,/t/hardware,/t/web",SnowShoe: Create magic with a touch of plastic,http://beta.snowshoestamp.com,/u/ccmoberg,4
+0,2014-04-02 15:53:28 -0500,"/t/mobile,/t/networking","Peer-to-peer networking app FireChat used in Taiwan ""Sunflower Movement"" protests",http://www.techinasia.com/unblockable-unstoppable-firechat-messaging-app-unites-china-and-taiwan-in-free-speech-and-its-not-pretty/,/u/zhemao,4
+0,2014-04-02 15:44:03 -0500,/t/security,Breaking Half of The Telegram Contest,https://blog.thijsalkema.de/blog/2014/04/02/breaking-half-of-the-telegram-contest/,/u/kyle,3
+1,2014-04-02 00:32:50 -0500,"/t/haskell,/t/javascript,/t/programming,/t/web",Haste Language,http://haste-lang.org/,/u/kencausey,13
+7,2014-04-01 17:20:58 -0500,"/t/privacy,/t/release,/t/security",reop - reasonable expectation of privacy,http://www.tedunangst.com/flak/post/reop,/u/jcs,15
+3,2014-04-01 22:23:07 -0500,"/t/mac,/t/networking","Rapid DHCP: Or, how do Macs get on the network so fast? (2011)",http://cafbit.com/entry/rapid_dhcp_or_how_do,/u/jcs,6
+0,2014-04-02 14:25:43 -0500,/t/release,Making Mahout Fast and Easy,http://www.mapr.com/blog/making-mahout-fast-and-easy,/u/tobym,1
+0,2014-04-02 13:34:37 -0500,"/t/javascript,/t/programming",JQuery Promises and Deferreds,http://maori.geek.nz/post/i_promise_this_will_be_short,/u/codeon1,1
+3,2014-04-01 17:33:57 -0500,/t/go,Brvty - Thoughts On Golang Code Conventions And Standards,https://michaelwhatcott.com/familiarity-admits-brevity/,/u/xyz,8
+0,2014-04-01 18:23:15 -0500,"/t/lisp,/t/vim",TimL - a Clojure-like Lisp implemented in and compiling down to VimL,https://github.com/tpope/timl,/u/tomjakubowski,12
+1,2014-04-01 18:19:35 -0500,/t/devops,Three Corner Rsync,http://blog.lrdesign.com/2014/04/three-corner-rsync/,/u/judsonlester,10
+0,2014-04-02 08:20:00 -0500,/t/javascript,Creating Sound with the Web Audio API and Oscillators,http://flippinawesome.org/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/,/u/remotesynth,2
+2,2014-04-01 08:59:27 -0500,"/t/compsci,/t/databases",Redis new data structure: the HyperLogLog,http://antirez.com/news/75,/u/jcs,27
+0,2014-04-02 11:30:41 -0500,/t/security,Have I been pwned - a crawler for password dumps,https://haveibeenpwned.com/,/u/polydaic,1
+11,2014-04-01 09:45:18 -0500,/t/rant,Conduct unbecoming of a hacker,http://sealedabstract.com/rants/conduct-unbecoming-of-a-hacker/,/u/jkkm,45
+0,2014-04-01 15:13:38 -0500,"/t/browsers,/t/release,/t/security",The Design and Implementation of the Tor Browser,https://www.torproject.org/projects/torbrowser/design/,/u/badr,7
+0,2014-04-02 09:20:38 -0500,"/t/php,/t/programming,/t/scaling",Building a Better PHP — Part 3: Getting Started with Hack,https://blog.engineyard.com/2014/hhvm-hack-part-3,/u/dshafik,0
+4,2014-04-01 08:47:54 -0500,"/t/show,/t/linux,/t/release",Motif on Wayland,https://www.indiegogo.com/projects/motif-on-wayland/x/6279682,/u/algernon,6
+0,2014-04-01 10:35:02 -0500,/t/c,Reordering optimizations,http://blog.coverity.com/2014/03/26/reordering-optimizations/,/u/tedu,7

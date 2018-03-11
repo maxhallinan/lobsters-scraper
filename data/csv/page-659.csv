@@ -1,25 +1,25 @@
-0,2016-09-15 12:34:52 -0500,"['/t/networking', '/t/unix']",Turtles on the Wire: Understanding how the OS uses the Modern NIC,https://www.joyent.com/blog/virtualizing-nics,/u/wiedi,19
-1,2016-09-15 11:03:01 -0500,"['/t/book', '/t/graphics']",The Book of Shaders,https://thebookofshaders.com/,/u/pushcx,17
-0,2016-09-15 09:32:08 -0500,['/t/rust'],Why Rust's `std::collections` is absolutely fantastic,https://ticki.github.io/blog/fantastic/,/u/unbalancedparentheses,20
-0,2016-09-15 19:29:16 -0500,"['/t/javascript', '/t/mobile']",A Pre-Mortem on React Native,http://codecookbook.co/text/how-react-native-dies/,/u/philosophicalhacker,3
-35,2016-09-14 15:13:47 -0500,"['/t/programming', '/t/web']",Elbowing JavaScript out,http://blog.ikura.co/posts/elbowing-js-out.html,/u/nato,35
-1,2016-09-15 11:01:25 -0500,"['/t/api', '/t/release']",The GitHub GraphQL API,http://githubengineering.com/the-github-graphql-api/,/u/joshuacc,13
-3,2016-09-15 14:28:35 -0500,"['/t/practices', '/t/web']",Webfonts on the Prairie,http://alistapart.com/article/webfonts-on-the-prairie,/u/flyingfisch,4
-1,2016-09-15 14:43:42 -0500,['/t/hardware'],"Assessing IBM's POWER8, Part 2: Server Applications on OpenPOWER",http://www.anandtech.com/show/10539/assessing-ibms-power8-part-2-server-applications,/u/calvin,6
-1,2016-09-15 09:30:16 -0500,"['/t/haskell', '/t/programming']",Working with data in Haskell,https://www.fpcomplete.com/blog/2016/09/data-haskell,/u/unbalancedparentheses,11
-0,2016-09-15 11:48:13 -0500,"['/t/mobile', '/t/security']",Hunting For Vulnerabilities in Signal - Part 1,https://pwnaccelerator.github.io/2016/signal-part1.html,/u/jabberwock,7
-0,2016-09-15 10:36:00 -0500,"['/t/pdf', '/t/hardware', '/t/ios', '/t/security']",The bumpy road towards iPhone 5c NAND mirroring,http://arxiv.org/pdf/1609.04327v1,/u/mjturner,7
-1,2016-09-15 12:47:11 -0500,"['/t/browsers', '/t/security']","Deep down the certificate pinning rabbit hole of ""Tor Browser Exposed""",http://seclists.org/dailydave/2016/q3/51,/u/jabberwock,5
-0,2016-09-15 14:02:21 -0500,"['/t/hardware', '/t/historical']",Restoring YC's Xerox Alto: how our boot disk was trashed with random data,http://www.righto.com/2016/09/restoring-ycs-xerox-alto-how-our-boot.html,/u/calvin,4
-16,2016-09-14 13:42:10 -0500,"['/t/release', '/t/vcs']","A whole new GitHub Universe: announcing new tools, forums, and features",https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features,/u/cmm,29
-0,2016-09-15 17:44:37 -0500,"['/t/video', '/t/historical', '/t/practices', '/t/programming']",Alan Kay at Etech 2003,https://vimeo.com/1503181,/u/sevan,2
-3,2016-09-15 12:01:57 -0500,['/t/meta'],What is needed for tag addition/removal?,/s/q33lmv/what_is_needed_for_tag_addition_removal,/u/magikid,2
-0,2016-09-15 05:14:38 -0500,"['/t/browsers', '/t/debugging', '/t/web']",Introducing debugger.html,https://hacks.mozilla.org/2016/09/introducing-debugger-html/,/u/pwatsonwailes,9
-18,2016-09-14 14:55:35 -0500,['/t/windows'],Running i3 Window Manager on Bash for Windows,https://brianketelsen.com/blog/i3-windows/,/u/aleph,21
-0,2016-09-15 10:55:16 -0500,"['/t/compsci', '/t/graphics']",Defeating Image Obfuscation with Deep Learning,https://arxiv.org/pdf/1609.00408v2.pdf,/u/pushcx,4
-4,2016-09-15 11:10:45 -0500,['/t/culture'],Trying to reboot this,http://www.chapp.is,/u/karj,1
-30,2016-09-14 10:36:20 -0500,['/t/meta'],Retiring the `science` tag,/s/rsvc07/retiring_science_tag,/u/friendlysock,25
-1,2016-09-14 20:08:41 -0500,"['/t/security', '/t/web']",How I gained access to TMobile’s national network for free,https://medium.com/@jacobajit/how-i-gained-access-to-tmobiles-national-network-for-free-f9aaf9273dea,/u/calvin,16
-0,2016-09-15 03:55:28 -0500,"['/t/networking', '/t/programming']",How we built our Internal Networking Interface,https://blog.cesanta.com/mongoose-embedded-web-server-internal-networking-interface,/u/evthewolf,3
-0,2016-09-15 06:41:06 -0500,"['/t/design', '/t/linux']",Getting to know elementary: An interview with elementary OS UX Architect,http://www.techrepublic.com/article/getting-to-know-elementary-an-interview-with-elementary-os-ux-architect/,/u/calvin,4
-11,2016-09-14 16:43:05 -0500,"['/t/emacs', '/t/programming', '/t/release']",How to build your own Spacemacs,https://sam217pa.github.io/2016/09/02/how-to-build-your-own-spacemacs/,/u/basus,10
+0,2016-09-15 12:34:52 -0500,"/t/networking,/t/unix",Turtles on the Wire: Understanding how the OS uses the Modern NIC,https://www.joyent.com/blog/virtualizing-nics,/u/wiedi,19
+1,2016-09-15 11:03:01 -0500,"/t/book,/t/graphics",The Book of Shaders,https://thebookofshaders.com/,/u/pushcx,17
+0,2016-09-15 09:32:08 -0500,/t/rust,Why Rust's `std::collections` is absolutely fantastic,https://ticki.github.io/blog/fantastic/,/u/unbalancedparentheses,20
+0,2016-09-15 19:29:16 -0500,"/t/javascript,/t/mobile",A Pre-Mortem on React Native,http://codecookbook.co/text/how-react-native-dies/,/u/philosophicalhacker,3
+35,2016-09-14 15:13:47 -0500,"/t/programming,/t/web",Elbowing JavaScript out,http://blog.ikura.co/posts/elbowing-js-out.html,/u/nato,35
+1,2016-09-15 11:01:25 -0500,"/t/api,/t/release",The GitHub GraphQL API,http://githubengineering.com/the-github-graphql-api/,/u/joshuacc,13
+3,2016-09-15 14:28:35 -0500,"/t/practices,/t/web",Webfonts on the Prairie,http://alistapart.com/article/webfonts-on-the-prairie,/u/flyingfisch,4
+1,2016-09-15 14:43:42 -0500,/t/hardware,"Assessing IBM's POWER8, Part 2: Server Applications on OpenPOWER",http://www.anandtech.com/show/10539/assessing-ibms-power8-part-2-server-applications,/u/calvin,6
+1,2016-09-15 09:30:16 -0500,"/t/haskell,/t/programming",Working with data in Haskell,https://www.fpcomplete.com/blog/2016/09/data-haskell,/u/unbalancedparentheses,11
+0,2016-09-15 11:48:13 -0500,"/t/mobile,/t/security",Hunting For Vulnerabilities in Signal - Part 1,https://pwnaccelerator.github.io/2016/signal-part1.html,/u/jabberwock,7
+0,2016-09-15 10:36:00 -0500,"/t/pdf,/t/hardware,/t/ios,/t/security",The bumpy road towards iPhone 5c NAND mirroring,http://arxiv.org/pdf/1609.04327v1,/u/mjturner,7
+1,2016-09-15 12:47:11 -0500,"/t/browsers,/t/security","Deep down the certificate pinning rabbit hole of ""Tor Browser Exposed""",http://seclists.org/dailydave/2016/q3/51,/u/jabberwock,5
+0,2016-09-15 14:02:21 -0500,"/t/hardware,/t/historical",Restoring YC's Xerox Alto: how our boot disk was trashed with random data,http://www.righto.com/2016/09/restoring-ycs-xerox-alto-how-our-boot.html,/u/calvin,4
+16,2016-09-14 13:42:10 -0500,"/t/release,/t/vcs","A whole new GitHub Universe: announcing new tools, forums, and features",https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features,/u/cmm,29
+0,2016-09-15 17:44:37 -0500,"/t/video,/t/historical,/t/practices,/t/programming",Alan Kay at Etech 2003,https://vimeo.com/1503181,/u/sevan,2
+3,2016-09-15 12:01:57 -0500,/t/meta,What is needed for tag addition/removal?,/s/q33lmv/what_is_needed_for_tag_addition_removal,/u/magikid,2
+0,2016-09-15 05:14:38 -0500,"/t/browsers,/t/debugging,/t/web",Introducing debugger.html,https://hacks.mozilla.org/2016/09/introducing-debugger-html/,/u/pwatsonwailes,9
+18,2016-09-14 14:55:35 -0500,/t/windows,Running i3 Window Manager on Bash for Windows,https://brianketelsen.com/blog/i3-windows/,/u/aleph,21
+0,2016-09-15 10:55:16 -0500,"/t/compsci,/t/graphics",Defeating Image Obfuscation with Deep Learning,https://arxiv.org/pdf/1609.00408v2.pdf,/u/pushcx,4
+4,2016-09-15 11:10:45 -0500,/t/culture,Trying to reboot this,http://www.chapp.is,/u/karj,1
+30,2016-09-14 10:36:20 -0500,/t/meta,Retiring the `science` tag,/s/rsvc07/retiring_science_tag,/u/friendlysock,25
+1,2016-09-14 20:08:41 -0500,"/t/security,/t/web",How I gained access to TMobile’s national network for free,https://medium.com/@jacobajit/how-i-gained-access-to-tmobiles-national-network-for-free-f9aaf9273dea,/u/calvin,16
+0,2016-09-15 03:55:28 -0500,"/t/networking,/t/programming",How we built our Internal Networking Interface,https://blog.cesanta.com/mongoose-embedded-web-server-internal-networking-interface,/u/evthewolf,3
+0,2016-09-15 06:41:06 -0500,"/t/design,/t/linux",Getting to know elementary: An interview with elementary OS UX Architect,http://www.techrepublic.com/article/getting-to-know-elementary-an-interview-with-elementary-os-ux-architect/,/u/calvin,4
+11,2016-09-14 16:43:05 -0500,"/t/emacs,/t/programming,/t/release",How to build your own Spacemacs,https://sam217pa.github.io/2016/09/02/how-to-build-your-own-spacemacs/,/u/basus,10

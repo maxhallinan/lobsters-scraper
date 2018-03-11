@@ -1,25 +1,25 @@
-0,2018-01-14 14:09:55 -0600,['/t/hardware'],IBM mainframe tube module part II: Powering up and using a 1950s key debouncer,http://www.righto.com/2018/01/ibm-mainframe-tube-module-part-ii.html,/u/calvin,4
-5,2018-01-13 18:01:37 -0600,"['/t/ai', '/t/programming']",Classical Data Structures That Can Outperform Learned Indexes,http://dawn.cs.stanford.edu/2018/01/11/index-baselines/,/u/Yogthos,29
-6,2018-01-13 20:39:17 -0600,"['/t/practices', '/t/windows']",What Really Happened with Vista: An Insider’s Retrospective,https://blog.usejournal.com/what-really-happened-with-vista-an-insiders-retrospective-f713ee77c239,/u/calvin,22
-3,2018-01-13 22:08:29 -0600,['/t/hardware'],NekoCal - an E-Ink Calendar,https://hackaday.io/project/11537-nekocal-an-e-ink-calendar,/u/chadski,19
-5,2018-01-13 16:36:57 -0600,['/t/historical'],Antique BeOS Content by Scot Hacker,http://birdhouse.org/beos/byte/,/u/calvin,20
-3,2018-01-13 22:13:40 -0600,"['/t/games', '/t/javascript', '/t/ml']",Making a cross-platform mobile game in Reason/OCaml,https://jaredforsyth.com/2018/01/13/making-a-cross-platform-mobile-game-in-reason-ocaml/,/u/kevinSuttle,10
-8,2018-01-14 04:54:13 -0600,['/t/culture'],The Divine Comedy of the Tech Sisterhood,https://medium.com/@aderacine/the-divine-comedy-of-the-tech-sisterhood-62bf54fd2186,/u/adsouza,12
-0,2018-01-13 20:37:06 -0600,['/t/historical'],Reading disks from 1988 in 2018,https://sixcolors.com/post/2018/01/reading-disks-from-1988-in-2018/,/u/calvin,14
-0,2018-01-13 21:35:52 -0600,"['/t/hardware', '/t/openbsd', '/t/security']",amd64 Intel cpu microcode,https://marc.info/?l=openbsd-tech&m=151588857304763&w=2,/u/cnst,11
-2,2018-01-13 14:05:43 -0600,['/t/performance'],Meltdown patch reduces mkfile(8) throughput to less than 1/3 on macOS,http://blog.metaobject.com/2018/01/meltdown-patch-reduces-mkfile8.html,/u/GeoffWozniak,15
-6,2018-01-12 22:06:09 -0600,['/t/lisp'],How lenses can reduce the headache of nested data in Racket,https://technomancy.us/185,/u/technomancy,22
-0,2018-01-13 07:11:54 -0600,"['/t/distributed', '/t/networking']",DNSFS. Store your files in others DNS resolver caches,https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs,/u/calvin,15
-1,2018-01-13 18:52:00 -0600,['/t/ai'],Japanese scientists just used AI to read minds and it's amazing,https://www.cnbc.com/2018/01/08/japanese-scientists-use-artificial-intelligence-to-decode-thoughts.html,/u/unbalancedparentheses,2
-10,2018-01-12 18:50:51 -0600,['/t/culture'],The Time I Ruined Programming,https://michaelochurch.wordpress.com/2018/01/12/how-i-ruined-programming-and-why-were-stuck/,/u/michaelochurch,33
-0,2018-01-13 18:14:34 -0600,['/t/hardware'],Famicom & NES - Simple Tweaks to Restore Audio Balance Levels,http://nerdlypleasures.blogspot.com/2018/01/famicom-nes-simple-tweaks-to-restore.html,/u/calvin,3
-0,2018-01-13 11:24:42 -0600,['/t/graphics'],Fixing Camera Shake on Single Precision GPUs,http://hacksoflife.blogspot.com/2018/01/fixing-camera-shake-on-single-precision.html,/u/mikejsavage,7
-31,2018-01-12 12:06:42 -0600,['/t/practices'],"If no tool suits your need, maybe it’s you",https://medium.com/@punnie/if-no-tool-suits-your-need-maybe-its-you-310854bf4e67,/u/punnie,19
-6,2018-01-12 13:40:39 -0600,"['/t/games', '/t/historical']",The Making of Lemmings,https://readonlymemory.vg/the-making-of-lemmings/,/u/friendlysock,32
-1,2018-01-13 11:05:34 -0600,"['/t/browsers', '/t/security', '/t/web']",Certificate Authority Authorization (CAA) Research Study,https://caastudy.github.io/,/u/freddyb,3
-20,2018-01-12 16:06:09 -0600,['/t/devops'],The Death of Microservice Madness in 2018,http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/,/u/adsouza,14
-6,2018-01-13 05:10:21 -0600,['/t/java'],Kotlin: The Problem with `null`,http://arturdryomov.online/posts/kotlin-the-problem-with-null/,/u/av,3
-4,2018-01-12 12:42:54 -0600,"['/t/dotnet', '/t/elixir', '/t/elm', '/t/event', '/t/haskell', '/t/scala']",LambdaConf 2018: Call for Proposals,https://lambdaconf2018.dryfta.com/en/abstract-submission,/u/jdegoes,10
-5,2018-01-12 05:44:26 -0600,"['/t/culture', '/t/rust']",2018: The year we learn Rust 1.0,http://yakshav.es/rust-2018/,/u/skade,34
-2,2018-01-12 14:27:02 -0600,['/t/networking'],SDN using Raspberry Pis,https://blog.cyberreboot.org/building-a-software-defined-network-with-raspberry-pis-and-a-zodiac-fx-switch-97184032cdc1,/u/fhk,10
-5,2018-01-11 23:30:01 -0600,['/t/unix'],How to sleep a million years,https://idea.popcount.org/2013-07-19-how-to-sleep-a-million-years/,/u/calvin,63
+0,2018-01-14 14:09:55 -0600,/t/hardware,IBM mainframe tube module part II: Powering up and using a 1950s key debouncer,http://www.righto.com/2018/01/ibm-mainframe-tube-module-part-ii.html,/u/calvin,4
+5,2018-01-13 18:01:37 -0600,"/t/ai,/t/programming",Classical Data Structures That Can Outperform Learned Indexes,http://dawn.cs.stanford.edu/2018/01/11/index-baselines/,/u/Yogthos,29
+6,2018-01-13 20:39:17 -0600,"/t/practices,/t/windows",What Really Happened with Vista: An Insider’s Retrospective,https://blog.usejournal.com/what-really-happened-with-vista-an-insiders-retrospective-f713ee77c239,/u/calvin,22
+3,2018-01-13 22:08:29 -0600,/t/hardware,NekoCal - an E-Ink Calendar,https://hackaday.io/project/11537-nekocal-an-e-ink-calendar,/u/chadski,19
+5,2018-01-13 16:36:57 -0600,/t/historical,Antique BeOS Content by Scot Hacker,http://birdhouse.org/beos/byte/,/u/calvin,20
+3,2018-01-13 22:13:40 -0600,"/t/games,/t/javascript,/t/ml",Making a cross-platform mobile game in Reason/OCaml,https://jaredforsyth.com/2018/01/13/making-a-cross-platform-mobile-game-in-reason-ocaml/,/u/kevinSuttle,10
+8,2018-01-14 04:54:13 -0600,/t/culture,The Divine Comedy of the Tech Sisterhood,https://medium.com/@aderacine/the-divine-comedy-of-the-tech-sisterhood-62bf54fd2186,/u/adsouza,12
+0,2018-01-13 20:37:06 -0600,/t/historical,Reading disks from 1988 in 2018,https://sixcolors.com/post/2018/01/reading-disks-from-1988-in-2018/,/u/calvin,14
+0,2018-01-13 21:35:52 -0600,"/t/hardware,/t/openbsd,/t/security",amd64 Intel cpu microcode,https://marc.info/?l=openbsd-tech&m=151588857304763&w=2,/u/cnst,11
+2,2018-01-13 14:05:43 -0600,/t/performance,Meltdown patch reduces mkfile(8) throughput to less than 1/3 on macOS,http://blog.metaobject.com/2018/01/meltdown-patch-reduces-mkfile8.html,/u/GeoffWozniak,15
+6,2018-01-12 22:06:09 -0600,/t/lisp,How lenses can reduce the headache of nested data in Racket,https://technomancy.us/185,/u/technomancy,22
+0,2018-01-13 07:11:54 -0600,"/t/distributed,/t/networking",DNSFS. Store your files in others DNS resolver caches,https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs,/u/calvin,15
+1,2018-01-13 18:52:00 -0600,/t/ai,Japanese scientists just used AI to read minds and it's amazing,https://www.cnbc.com/2018/01/08/japanese-scientists-use-artificial-intelligence-to-decode-thoughts.html,/u/unbalancedparentheses,2
+10,2018-01-12 18:50:51 -0600,/t/culture,The Time I Ruined Programming,https://michaelochurch.wordpress.com/2018/01/12/how-i-ruined-programming-and-why-were-stuck/,/u/michaelochurch,33
+0,2018-01-13 18:14:34 -0600,/t/hardware,Famicom & NES - Simple Tweaks to Restore Audio Balance Levels,http://nerdlypleasures.blogspot.com/2018/01/famicom-nes-simple-tweaks-to-restore.html,/u/calvin,3
+0,2018-01-13 11:24:42 -0600,/t/graphics,Fixing Camera Shake on Single Precision GPUs,http://hacksoflife.blogspot.com/2018/01/fixing-camera-shake-on-single-precision.html,/u/mikejsavage,7
+31,2018-01-12 12:06:42 -0600,/t/practices,"If no tool suits your need, maybe it’s you",https://medium.com/@punnie/if-no-tool-suits-your-need-maybe-its-you-310854bf4e67,/u/punnie,19
+6,2018-01-12 13:40:39 -0600,"/t/games,/t/historical",The Making of Lemmings,https://readonlymemory.vg/the-making-of-lemmings/,/u/friendlysock,32
+1,2018-01-13 11:05:34 -0600,"/t/browsers,/t/security,/t/web",Certificate Authority Authorization (CAA) Research Study,https://caastudy.github.io/,/u/freddyb,3
+20,2018-01-12 16:06:09 -0600,/t/devops,The Death of Microservice Madness in 2018,http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/,/u/adsouza,14
+6,2018-01-13 05:10:21 -0600,/t/java,Kotlin: The Problem with `null`,http://arturdryomov.online/posts/kotlin-the-problem-with-null/,/u/av,3
+4,2018-01-12 12:42:54 -0600,"/t/dotnet,/t/elixir,/t/elm,/t/event,/t/haskell,/t/scala",LambdaConf 2018: Call for Proposals,https://lambdaconf2018.dryfta.com/en/abstract-submission,/u/jdegoes,10
+5,2018-01-12 05:44:26 -0600,"/t/culture,/t/rust",2018: The year we learn Rust 1.0,http://yakshav.es/rust-2018/,/u/skade,34
+2,2018-01-12 14:27:02 -0600,/t/networking,SDN using Raspberry Pis,https://blog.cyberreboot.org/building-a-software-defined-network-with-raspberry-pis-and-a-zodiac-fx-switch-97184032cdc1,/u/fhk,10
+5,2018-01-11 23:30:01 -0600,/t/unix,How to sleep a million years,https://idea.popcount.org/2013-07-19-how-to-sleep-a-million-years/,/u/calvin,63

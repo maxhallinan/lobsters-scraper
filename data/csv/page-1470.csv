@@ -1,25 +1,25 @@
-1,2013-07-05 15:43:17 -0500,"['/t/networking', '/t/release']",ZeroTier One creates flat virtual Ethernet networks of almost unlimited size,https://www.zerotier.com/,/u/jcs,4
-0,2013-07-05 08:41:00 -0500,['/t/go'],The Go scheduler,http://morsmachine.dk/go-scheduler,/u/journeysquid,8
-0,2013-07-05 14:25:28 -0500,['/t/release'],Google Reader Founder: I Never Would Have Founded Reader Inside Today's Google,http://www.forbes.com/sites/alexkantrowitz/2013/07/01/google-reader-founder-i-never-would-have-founded-reader-inside-todays-google/,/u/journeysquid,3
-0,2013-07-05 21:02:17 -0500,"['/t/browsers', '/t/web']",AdBlock Plus lets some advertisers (Google) pay to play,http://www.salon.com/2013/07/05/adblock_plus_lets_some_advertisers_pay_to_play/singleton/,/u/journeysquid,1
-1,2013-07-05 11:50:48 -0500,"['/t/person', '/t/rant', '/t/security']",Is Cryptography Engineering or Science?,https://www.schneier.com/blog/archives/2013/07/is_cryptography.html,/u/wally,8
-2,2013-07-05 06:11:53 -0500,"['/t/browsers', '/t/web']",Overview of Chromium's 900+ Command Line Switches,http://peter.sh/experiments/chromium-command-line-switches/,/u/djm,3
-0,2013-07-05 20:53:43 -0500,['/t/news'],A new symbol for 'the',http://www.theage.com.au/technology/technology-news/what-th-one-mans-quest-for-a-symbol-solution-20130705-2pgd8.html,/u/aaronmoodie,0
-1,2013-07-05 02:31:41 -0500,['/t/go'],Dockerfile deep dive,http://crosbymichael.com/dockerfile-deep-dive.html,/u/kyle,3
-0,2013-07-05 11:54:58 -0500,"['/t/video', '/t/compsci']",Brian Beckman: Don't fear the Monad,https://www.youtube.com/watch?v=ZhuHCtR3xq8,/u/SeanTAllen,1
-0,2013-07-05 11:15:59 -0500,"['/t/mobile', '/t/news']",Yahoo Keeps Buying Startups That Don't Make Their Own Apps,http://readwrite.com/2013/07/03/yahoo-qwiki-lawsuit-chaotic-moon,/u/journeysquid,1
-1,2013-07-05 00:22:46 -0500,['/t/privacy'],Distributed Everything,https://medium.com/surveillance-state/19a5db211e47,/u/kyle,2
-1,2013-07-04 12:41:34 -0500,"['/t/javascript', '/t/privacy']",DecryptoCat,http://tobtu.com/decryptocat.php,/u/kyle,11
-0,2013-07-04 16:19:02 -0500,"['/t/cryptocurrencies', '/t/finance']",Winklevoss Twins Plan First Fund for Bitcoins,http://dealbook.nytimes.com/2013/07/01/first-name-in-the-first-fund-for-bitcoins-winklevoss/,/u/journeysquid,1
-5,2013-07-03 12:04:48 -0500,['/t/unix'],bitrig porting HAMMER filesystem from DragonFly,https://www.bitrig.org/viewgit/?a=commit&p=bitrig&h=45265d1c17796419c73ae72482ced861d950958d,/u/jcs,13
-0,2013-07-04 02:47:25 -0500,['/t/privacy'],Redux: Metadata Matters - Tracking a German politician,http://www.f-secure.com/weblog/archives/00002574.html,/u/wally,3
-5,2013-07-03 11:13:05 -0500,['/t/programming'],High Costs and Negative Value of Pair Programming,http://namcookanalytics.com/high-costs-and-negative-value-of-pair-programming/,/u/kb,7
-4,2013-07-03 14:52:21 -0500,"['/t/law', '/t/privacy']",U.S. Postal Service Logging All Mail for Law Enforcement,http://www.nytimes.com/2013/07/04/us/monitoring-of-snail-mail.html?_r=0,/u/jcs,5
-0,2013-07-04 02:29:23 -0500,"['/t/networking', '/t/science']",Twisted Light Sends Data Through Optical Fiber for First Time (1.6 terrabits per second),http://spectrum.ieee.org/tech-talk/semiconductors/design/twisted-light-sends-data-through-optical-fiber-for-first-time,/u/wally,1
-1,2013-07-03 15:47:20 -0500,"['/t/android', '/t/security']",Uncovering Android Master Key That Makes 99% of Devices Vulnerable,http://bluebox.com/corporate-blog/bluebox-uncovers-android-master-key/,/u/kyle,4
-0,2013-07-03 20:39:27 -0500,"['/t/news', '/t/person']","Doug Engelbart, inventor of the mouse, dead at 88",http://www.ietf.org/mail-archive/web/ietf/current/msg80472.html,/u/sschaubs,2
-1,2013-07-03 12:14:47 -0500,"['/t/browsers', '/t/security']",Postpwnium writeup,http://rpw.io/blog/2013/06/11/postpwnium_writeup/,/u/jcs,4
-0,2013-07-03 18:48:50 -0500,"['/t/networking', '/t/virtualization']",Thinking Out Loud: The Future of VLANs,http://blog.scottlowe.org/2013/06/20/thinking-out-loud-the-future-of-vlans/,/u/mc,2
-0,2013-07-03 15:52:38 -0500,['/t/rust'],rust 0.7 released,https://github.com/mozilla/rust/blob/master/RELEASES.txt,/u/jasper,2
-2,2013-07-03 13:23:22 -0500,"['/t/javascript', '/t/web']",IE11: please bring “real script preloading” back,http://blog.getify.com/ie11-please-bring-real-script-preloading-back/,/u/joshuacc,1
-5,2013-07-01 12:13:57 -0500,['/t/announce'],Lobsters is 1 year old today,/s/rxmopc/lobsters_is_1_year_old_today,/u/jcs,44
+1,2013-07-05 15:43:17 -0500,"/t/networking,/t/release",ZeroTier One creates flat virtual Ethernet networks of almost unlimited size,https://www.zerotier.com/,/u/jcs,4
+0,2013-07-05 08:41:00 -0500,/t/go,The Go scheduler,http://morsmachine.dk/go-scheduler,/u/journeysquid,8
+0,2013-07-05 14:25:28 -0500,/t/release,Google Reader Founder: I Never Would Have Founded Reader Inside Today's Google,http://www.forbes.com/sites/alexkantrowitz/2013/07/01/google-reader-founder-i-never-would-have-founded-reader-inside-todays-google/,/u/journeysquid,3
+0,2013-07-05 21:02:17 -0500,"/t/browsers,/t/web",AdBlock Plus lets some advertisers (Google) pay to play,http://www.salon.com/2013/07/05/adblock_plus_lets_some_advertisers_pay_to_play/singleton/,/u/journeysquid,1
+1,2013-07-05 11:50:48 -0500,"/t/person,/t/rant,/t/security",Is Cryptography Engineering or Science?,https://www.schneier.com/blog/archives/2013/07/is_cryptography.html,/u/wally,8
+2,2013-07-05 06:11:53 -0500,"/t/browsers,/t/web",Overview of Chromium's 900+ Command Line Switches,http://peter.sh/experiments/chromium-command-line-switches/,/u/djm,3
+0,2013-07-05 20:53:43 -0500,/t/news,A new symbol for 'the',http://www.theage.com.au/technology/technology-news/what-th-one-mans-quest-for-a-symbol-solution-20130705-2pgd8.html,/u/aaronmoodie,0
+1,2013-07-05 02:31:41 -0500,/t/go,Dockerfile deep dive,http://crosbymichael.com/dockerfile-deep-dive.html,/u/kyle,3
+0,2013-07-05 11:54:58 -0500,"/t/video,/t/compsci",Brian Beckman: Don't fear the Monad,https://www.youtube.com/watch?v=ZhuHCtR3xq8,/u/SeanTAllen,1
+0,2013-07-05 11:15:59 -0500,"/t/mobile,/t/news",Yahoo Keeps Buying Startups That Don't Make Their Own Apps,http://readwrite.com/2013/07/03/yahoo-qwiki-lawsuit-chaotic-moon,/u/journeysquid,1
+1,2013-07-05 00:22:46 -0500,/t/privacy,Distributed Everything,https://medium.com/surveillance-state/19a5db211e47,/u/kyle,2
+1,2013-07-04 12:41:34 -0500,"/t/javascript,/t/privacy",DecryptoCat,http://tobtu.com/decryptocat.php,/u/kyle,11
+0,2013-07-04 16:19:02 -0500,"/t/cryptocurrencies,/t/finance",Winklevoss Twins Plan First Fund for Bitcoins,http://dealbook.nytimes.com/2013/07/01/first-name-in-the-first-fund-for-bitcoins-winklevoss/,/u/journeysquid,1
+5,2013-07-03 12:04:48 -0500,/t/unix,bitrig porting HAMMER filesystem from DragonFly,https://www.bitrig.org/viewgit/?a=commit&p=bitrig&h=45265d1c17796419c73ae72482ced861d950958d,/u/jcs,13
+0,2013-07-04 02:47:25 -0500,/t/privacy,Redux: Metadata Matters - Tracking a German politician,http://www.f-secure.com/weblog/archives/00002574.html,/u/wally,3
+5,2013-07-03 11:13:05 -0500,/t/programming,High Costs and Negative Value of Pair Programming,http://namcookanalytics.com/high-costs-and-negative-value-of-pair-programming/,/u/kb,7
+4,2013-07-03 14:52:21 -0500,"/t/law,/t/privacy",U.S. Postal Service Logging All Mail for Law Enforcement,http://www.nytimes.com/2013/07/04/us/monitoring-of-snail-mail.html?_r=0,/u/jcs,5
+0,2013-07-04 02:29:23 -0500,"/t/networking,/t/science",Twisted Light Sends Data Through Optical Fiber for First Time (1.6 terrabits per second),http://spectrum.ieee.org/tech-talk/semiconductors/design/twisted-light-sends-data-through-optical-fiber-for-first-time,/u/wally,1
+1,2013-07-03 15:47:20 -0500,"/t/android,/t/security",Uncovering Android Master Key That Makes 99% of Devices Vulnerable,http://bluebox.com/corporate-blog/bluebox-uncovers-android-master-key/,/u/kyle,4
+0,2013-07-03 20:39:27 -0500,"/t/news,/t/person","Doug Engelbart, inventor of the mouse, dead at 88",http://www.ietf.org/mail-archive/web/ietf/current/msg80472.html,/u/sschaubs,2
+1,2013-07-03 12:14:47 -0500,"/t/browsers,/t/security",Postpwnium writeup,http://rpw.io/blog/2013/06/11/postpwnium_writeup/,/u/jcs,4
+0,2013-07-03 18:48:50 -0500,"/t/networking,/t/virtualization",Thinking Out Loud: The Future of VLANs,http://blog.scottlowe.org/2013/06/20/thinking-out-loud-the-future-of-vlans/,/u/mc,2
+0,2013-07-03 15:52:38 -0500,/t/rust,rust 0.7 released,https://github.com/mozilla/rust/blob/master/RELEASES.txt,/u/jasper,2
+2,2013-07-03 13:23:22 -0500,"/t/javascript,/t/web",IE11: please bring “real script preloading” back,http://blog.getify.com/ie11-please-bring-real-script-preloading-back/,/u/joshuacc,1
+5,2013-07-01 12:13:57 -0500,/t/announce,Lobsters is 1 year old today,/s/rxmopc/lobsters_is_1_year_old_today,/u/jcs,44

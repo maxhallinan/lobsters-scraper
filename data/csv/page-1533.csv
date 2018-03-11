@@ -1,25 +1,25 @@
-2,2012-09-30 10:23:49 -0500,['/t/vim'],easybuffer.vim : vim plugin to quickly switch between buffers,https://github.com/troydm/easybuffer.vim,/u/b,5
-2,2012-09-30 08:19:10 -0500,['/t/event'],Technology - Open Air - Philadelphia,http://www.openairphilly.net/technology,/u/tedu,3
-2,2012-09-30 15:43:14 -0500,['/t/release'],"OMG, Test Driven Development actually works! - JP's blog",http://blog.jphpsf.com/2012/09/30/OMG-test-driven-development-actually-works/,/u/jphpsf,0
-0,2012-09-29 14:06:36 -0500,"['/t/science', '/t/web']",Stanford Bioengineers Introduce ‘Bi-Fi’ — The Biological Internet,http://engineering.stanford.edu/news/stanford-bioengineers-introduce-biological-internet,/u/JeffreyBaird,3
-4,2012-09-28 14:51:10 -0500,['/t/release'],Don't Say 'Emacs' or 'Vi',http://bendyworks.com/geekville/articles/2012/9/don-t-say-emacs-or-vi,/u/mathiasx,11
-4,2012-09-28 12:15:16 -0500,"['/t/mac', '/t/ruby']",brew-cask: a friendly homebrew CLI workflow for the administration of Mac apps,https://github.com/phinze/homebrew-cask,/u/phinze,15
-3,2012-09-28 17:01:01 -0500,['/t/scaling'],Service Oriented Side Effects,http://rdegges.com/service-oriented-side-effects,/u/craigkerstiens,7
-0,2012-09-28 20:43:39 -0500,"['/t/compsci', '/t/reversing']",Fun with Constrained Programming,http://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html,/u/jcs,4
-1,2012-09-28 15:18:04 -0500,['/t/person'],What Do You Do With the Brilliant Jerk?,http://boss.blogs.nytimes.com/2012/09/26/what-do-you-do-with-the-brilliant-jerk/,/u/wmoxam,4
-1,2012-09-28 14:23:48 -0500,"['/t/networking', '/t/scaling']",Linux TCP/IP tuning for scalability,http://lognormal.com/blog/2012/09/27/linux-tcpip-tuning/,/u/jphpsf,5
-0,2012-09-28 10:07:05 -0500,['/t/unix'],Automating with convention: Introducing sub,http://37signals.com/svn/posts/3264-automating-with-convention-introducing-sub,/u/b,9
-0,2012-09-28 12:04:17 -0500,['/t/go'],Go by Example: Timers and Tickers,http://mmcgrana.github.com/2012/09/go-by-example-timers-and-tickers.html,/u/craigkerstiens,6
-13,2012-09-27 17:21:09 -0500,"['/t/mac', '/t/release']",Shortcat - Spotlight for the UI,http://shortcatapp.com,/u/odin,17
-0,2012-09-28 13:00:57 -0500,"['/t/compsci', '/t/philosophy', '/t/release']",Learning Programming via Finger-Painting and Killing Zombies,https://jeremykun.wordpress.com/2012/03/15/learning-programming-zombies/,/u/tobym,3
-9,2012-09-27 20:22:38 -0500,['/t/ruby'],Seriously. Numbers. Use them. (Benchmarking Turbolinks),http://blog.steveklabnik.com/posts/2012-09-27-seriously--numbers--use-them-,/u/steveklabnik,12
-0,2012-09-28 13:13:23 -0500,"['/t/compsci', '/t/event', '/t/python']",We need more PyCon US 2013 submissions!,http://pydanny.com/we-need-more-pycon-us-2013-submissions.html,/u/vladikoff,1
-2,2012-09-28 00:49:39 -0500,"['/t/devops', '/t/security']",Inappropriate Use of Adobe Code Signing Certificate,http://blogs.adobe.com/asset/2012/09/inappropriate-use-of-adobe-code-signing-certificate.html,/u/tedu,4
-2,2012-09-27 13:47:26 -0500,['/t/unix'],Workflow in Tmux,http://coderwall.com/p/_g2vpq,/u/b,10
-1,2012-09-27 17:20:49 -0500,['/t/ruby'],Introducing Turbolinks for Rails 4.0,http://geekmonkey.org/articles/28-introducing-turbolinks-for-rails-4-0,/u/benwoodall,5
-5,2012-09-27 15:40:23 -0500,"['/t/linux', '/t/satire']",Linus Torvalds goes off on Linux and Git,http://typicalprogrammer.com/?p=143,/u/waseem,9
-1,2012-09-27 14:34:07 -0500,['/t/news'],Announcing the App.net Developer Incentive Program,http://blog.app.net/blog/2012/09/27/announcing-the-app-net-developer-incentive-program/,/u/b,4
-0,2012-09-27 17:14:34 -0500,['/t/browsers'],Chrome changes '-webkit-font-smoothing:antialiased' behaviour,http://code.google.com/p/chromium/issues/detail?id=152304,/u/mogstad,3
-0,2012-09-27 12:48:40 -0500,['/t/databases'],pgModeler - PostgreSQL Database Modeler,http://pgmodeler.com.br/,/u/gmcabrita,5
-2,2012-09-27 10:49:10 -0500,['/t/compsci'],Cobra Programming Language,http://cobra-language.com/,/u/moses,3
-1,2012-09-27 16:41:03 -0500,['/t/meta'],"Feature Request: JSON API and ""Session"" API",/s/uxdudg/feature_request_json_api_session_api,/u/eallam,3
+2,2012-09-30 10:23:49 -0500,/t/vim,easybuffer.vim : vim plugin to quickly switch between buffers,https://github.com/troydm/easybuffer.vim,/u/b,5
+2,2012-09-30 08:19:10 -0500,/t/event,Technology - Open Air - Philadelphia,http://www.openairphilly.net/technology,/u/tedu,3
+2,2012-09-30 15:43:14 -0500,/t/release,"OMG, Test Driven Development actually works! - JP's blog",http://blog.jphpsf.com/2012/09/30/OMG-test-driven-development-actually-works/,/u/jphpsf,0
+0,2012-09-29 14:06:36 -0500,"/t/science,/t/web",Stanford Bioengineers Introduce ‘Bi-Fi’ — The Biological Internet,http://engineering.stanford.edu/news/stanford-bioengineers-introduce-biological-internet,/u/JeffreyBaird,3
+4,2012-09-28 14:51:10 -0500,/t/release,Don't Say 'Emacs' or 'Vi',http://bendyworks.com/geekville/articles/2012/9/don-t-say-emacs-or-vi,/u/mathiasx,11
+4,2012-09-28 12:15:16 -0500,"/t/mac,/t/ruby",brew-cask: a friendly homebrew CLI workflow for the administration of Mac apps,https://github.com/phinze/homebrew-cask,/u/phinze,15
+3,2012-09-28 17:01:01 -0500,/t/scaling,Service Oriented Side Effects,http://rdegges.com/service-oriented-side-effects,/u/craigkerstiens,7
+0,2012-09-28 20:43:39 -0500,"/t/compsci,/t/reversing",Fun with Constrained Programming,http://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html,/u/jcs,4
+1,2012-09-28 15:18:04 -0500,/t/person,What Do You Do With the Brilliant Jerk?,http://boss.blogs.nytimes.com/2012/09/26/what-do-you-do-with-the-brilliant-jerk/,/u/wmoxam,4
+1,2012-09-28 14:23:48 -0500,"/t/networking,/t/scaling",Linux TCP/IP tuning for scalability,http://lognormal.com/blog/2012/09/27/linux-tcpip-tuning/,/u/jphpsf,5
+0,2012-09-28 10:07:05 -0500,/t/unix,Automating with convention: Introducing sub,http://37signals.com/svn/posts/3264-automating-with-convention-introducing-sub,/u/b,9
+0,2012-09-28 12:04:17 -0500,/t/go,Go by Example: Timers and Tickers,http://mmcgrana.github.com/2012/09/go-by-example-timers-and-tickers.html,/u/craigkerstiens,6
+13,2012-09-27 17:21:09 -0500,"/t/mac,/t/release",Shortcat - Spotlight for the UI,http://shortcatapp.com,/u/odin,17
+0,2012-09-28 13:00:57 -0500,"/t/compsci,/t/philosophy,/t/release",Learning Programming via Finger-Painting and Killing Zombies,https://jeremykun.wordpress.com/2012/03/15/learning-programming-zombies/,/u/tobym,3
+9,2012-09-27 20:22:38 -0500,/t/ruby,Seriously. Numbers. Use them. (Benchmarking Turbolinks),http://blog.steveklabnik.com/posts/2012-09-27-seriously--numbers--use-them-,/u/steveklabnik,12
+0,2012-09-28 13:13:23 -0500,"/t/compsci,/t/event,/t/python",We need more PyCon US 2013 submissions!,http://pydanny.com/we-need-more-pycon-us-2013-submissions.html,/u/vladikoff,1
+2,2012-09-28 00:49:39 -0500,"/t/devops,/t/security",Inappropriate Use of Adobe Code Signing Certificate,http://blogs.adobe.com/asset/2012/09/inappropriate-use-of-adobe-code-signing-certificate.html,/u/tedu,4
+2,2012-09-27 13:47:26 -0500,/t/unix,Workflow in Tmux,http://coderwall.com/p/_g2vpq,/u/b,10
+1,2012-09-27 17:20:49 -0500,/t/ruby,Introducing Turbolinks for Rails 4.0,http://geekmonkey.org/articles/28-introducing-turbolinks-for-rails-4-0,/u/benwoodall,5
+5,2012-09-27 15:40:23 -0500,"/t/linux,/t/satire",Linus Torvalds goes off on Linux and Git,http://typicalprogrammer.com/?p=143,/u/waseem,9
+1,2012-09-27 14:34:07 -0500,/t/news,Announcing the App.net Developer Incentive Program,http://blog.app.net/blog/2012/09/27/announcing-the-app-net-developer-incentive-program/,/u/b,4
+0,2012-09-27 17:14:34 -0500,/t/browsers,Chrome changes '-webkit-font-smoothing:antialiased' behaviour,http://code.google.com/p/chromium/issues/detail?id=152304,/u/mogstad,3
+0,2012-09-27 12:48:40 -0500,/t/databases,pgModeler - PostgreSQL Database Modeler,http://pgmodeler.com.br/,/u/gmcabrita,5
+2,2012-09-27 10:49:10 -0500,/t/compsci,Cobra Programming Language,http://cobra-language.com/,/u/moses,3
+1,2012-09-27 16:41:03 -0500,/t/meta,"Feature Request: JSON API and ""Session"" API",/s/uxdudg/feature_request_json_api_session_api,/u/eallam,3

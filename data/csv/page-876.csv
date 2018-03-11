@@ -1,25 +1,25 @@
-1,2016-02-09 23:15:05 -0600,['/t/browsers'],Smoother scrolling in Firefox 46 with APZ,https://hacks.mozilla.org/2016/02/smoother-scrolling-in-firefox-46-with-apz/,/u/jcs,8
-0,2016-02-10 10:12:49 -0600,['/t/haskell'],Making efficient use of memory in Haskell,http://blog.pusher.com/making-efficient-use-of-memory-in-haskell/,/u/pushcx,2
-0,2016-02-10 13:11:55 -0600,['/t/design'],"Transforming Lufthansa's Brand Strategy: From The Online To Interactive Age, A Case Study",https://www.smashingmagazine.com/2016/02/transforming-lufthansa-brand-style-guides-implementation-strategy/,/u/flyingfisch,1
-2,2016-02-10 15:37:23 -0600,"['/t/culture', '/t/networking']",The fall... and rise and rise and rise of chat networks,http://arstechnica.co.uk/information-technology/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/,/u/calvin,2
-0,2016-02-09 12:44:50 -0600,['/t/math'],Lean Theorem Prover,https://leanprover.github.io/,/u/zedoary,19
-6,2016-02-09 10:03:46 -0600,['/t/distributed'],Is Redlock safe?,http://antirez.com/news/101,/u/tylerholien,14
-2,2016-02-09 15:36:36 -0600,['/t/security'],Making email safer for you,http://gmailblog.blogspot.com/2016/02/making-email-safer-for-you-posted-by.html,/u/uggedal,7
-0,2016-02-10 09:33:18 -0600,['/t/web'],Deepstream.io – open-source realtime server with pubsub and data-sync,http://deepstream.io/,/u/av,1
-0,2016-02-10 09:32:34 -0600,['/t/web'],SocketCluster.io – flexible open-source realtime server with pubsub,http://socketcluster.io,/u/av,1
-0,2016-02-09 16:02:53 -0600,"['/t/compsci', '/t/rust']",UPenn Rust Programming Course,http://cis198-2016s.github.io/,/u/tf,10
-0,2016-02-09 17:51:33 -0600,['/t/haskell'],GraphQL Server in Haskell,https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/,/u/puffnfresh,8
-0,2016-02-09 20:30:03 -0600,"['/t/hardware', '/t/security']",ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs,https://www.cs.tau.ac.il/~tromer/ecdh/,/u/antifuchs,5
-1,2016-02-09 20:53:19 -0600,['/t/compsci'],Searching for the Algorithms Underlying Life (Leslie Valiant interview),https://www.quantamagazine.org/20160128-ecorithm-computers-and-life/,/u/tf,3
-0,2016-02-09 16:31:58 -0600,"['/t/math', '/t/philosophy']",Paraconsistent logic,https://en.wikipedia.org/wiki/Paraconsistent_logic,/u/friendlysock,7
-0,2016-02-10 12:02:40 -0600,"['/t/python', '/t/web']",Web Scraping Finds Stores Guilty of Price Inflation,https://blog.scrapinghub.com/2016/02/10/which-stores-are-guilty-of-price-inflation/,/u/av,0
-0,2016-02-09 03:54:46 -0600,['/t/programming'],Introduction to the Zig Programming Language,http://andrewkelley.me/post/intro-to-zig.html,/u/sanxiyn,21
-3,2016-02-09 12:04:46 -0600,['/t/ruby'],Ruby Unsafe Reflection Vulnerabilities,https://www.praetorian.com/blog/ruby-unsafe-reflection-vulnerabilities,/u/355E3B,4
-0,2016-02-09 07:08:44 -0600,['/t/erlang'],Erlang Scheduler Details and Why It Matters,https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html,/u/ericdykstra,14
-0,2016-02-09 16:35:08 -0600,['/t/javascript'],React AJAX Best Practices,http://andrewhfarmer.com/react-ajax-best-practices/,/u/pushcx,4
-0,2016-02-09 09:51:40 -0600,['/t/assembly'],The Surprising Subtleties of Zeroing a Register (2012),https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/,/u/pushcx,9
-0,2016-02-10 13:20:51 -0600,['/t/culture'],We're Ditching the Office Completely: Here's Why,https://open.buffer.com/no-office/,/u/flyingfisch,0
-0,2016-02-09 13:13:53 -0600,"['/t/devops', '/t/distributed', '/t/scaling']",Holistic Configuration Management at Facebook,http://muratbuffalo.blogspot.com/2016/02/holistic-configuration-management-at.html,/u/jitterted,6
-1,2016-02-09 07:41:50 -0600,"['/t/javascript', '/t/web']",ECMAScript String Padding,https://ponyfoo.com/articles/ecmascript-string-padding,/u/ponyfoo,4
-38,2016-02-08 14:46:41 -0600,"['/t/practices', '/t/web']",How WIRED Is Going to Handle Ad Blocking,http://www.wired.com/how-wired-is-going-to-handle-ad-blocking/,/u/flyingfisch,30
-32,2016-02-09 12:56:56 -0600,"['/t/ask', '/t/culture']",What's under your claw? (Keyboards 'n such),/s/3mhrv6/what_s_under_your_claw_keyboards_n_such,/u/jpm1,10
+1,2016-02-09 23:15:05 -0600,/t/browsers,Smoother scrolling in Firefox 46 with APZ,https://hacks.mozilla.org/2016/02/smoother-scrolling-in-firefox-46-with-apz/,/u/jcs,8
+0,2016-02-10 10:12:49 -0600,/t/haskell,Making efficient use of memory in Haskell,http://blog.pusher.com/making-efficient-use-of-memory-in-haskell/,/u/pushcx,2
+0,2016-02-10 13:11:55 -0600,/t/design,"Transforming Lufthansa's Brand Strategy: From The Online To Interactive Age, A Case Study",https://www.smashingmagazine.com/2016/02/transforming-lufthansa-brand-style-guides-implementation-strategy/,/u/flyingfisch,1
+2,2016-02-10 15:37:23 -0600,"/t/culture,/t/networking",The fall... and rise and rise and rise of chat networks,http://arstechnica.co.uk/information-technology/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/,/u/calvin,2
+0,2016-02-09 12:44:50 -0600,/t/math,Lean Theorem Prover,https://leanprover.github.io/,/u/zedoary,19
+6,2016-02-09 10:03:46 -0600,/t/distributed,Is Redlock safe?,http://antirez.com/news/101,/u/tylerholien,14
+2,2016-02-09 15:36:36 -0600,/t/security,Making email safer for you,http://gmailblog.blogspot.com/2016/02/making-email-safer-for-you-posted-by.html,/u/uggedal,7
+0,2016-02-10 09:33:18 -0600,/t/web,Deepstream.io – open-source realtime server with pubsub and data-sync,http://deepstream.io/,/u/av,1
+0,2016-02-10 09:32:34 -0600,/t/web,SocketCluster.io – flexible open-source realtime server with pubsub,http://socketcluster.io,/u/av,1
+0,2016-02-09 16:02:53 -0600,"/t/compsci,/t/rust",UPenn Rust Programming Course,http://cis198-2016s.github.io/,/u/tf,10
+0,2016-02-09 17:51:33 -0600,/t/haskell,GraphQL Server in Haskell,https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/,/u/puffnfresh,8
+0,2016-02-09 20:30:03 -0600,"/t/hardware,/t/security",ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs,https://www.cs.tau.ac.il/~tromer/ecdh/,/u/antifuchs,5
+1,2016-02-09 20:53:19 -0600,/t/compsci,Searching for the Algorithms Underlying Life (Leslie Valiant interview),https://www.quantamagazine.org/20160128-ecorithm-computers-and-life/,/u/tf,3
+0,2016-02-09 16:31:58 -0600,"/t/math,/t/philosophy",Paraconsistent logic,https://en.wikipedia.org/wiki/Paraconsistent_logic,/u/friendlysock,7
+0,2016-02-10 12:02:40 -0600,"/t/python,/t/web",Web Scraping Finds Stores Guilty of Price Inflation,https://blog.scrapinghub.com/2016/02/10/which-stores-are-guilty-of-price-inflation/,/u/av,0
+0,2016-02-09 03:54:46 -0600,/t/programming,Introduction to the Zig Programming Language,http://andrewkelley.me/post/intro-to-zig.html,/u/sanxiyn,21
+3,2016-02-09 12:04:46 -0600,/t/ruby,Ruby Unsafe Reflection Vulnerabilities,https://www.praetorian.com/blog/ruby-unsafe-reflection-vulnerabilities,/u/355E3B,4
+0,2016-02-09 07:08:44 -0600,/t/erlang,Erlang Scheduler Details and Why It Matters,https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html,/u/ericdykstra,14
+0,2016-02-09 16:35:08 -0600,/t/javascript,React AJAX Best Practices,http://andrewhfarmer.com/react-ajax-best-practices/,/u/pushcx,4
+0,2016-02-09 09:51:40 -0600,/t/assembly,The Surprising Subtleties of Zeroing a Register (2012),https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/,/u/pushcx,9
+0,2016-02-10 13:20:51 -0600,/t/culture,We're Ditching the Office Completely: Here's Why,https://open.buffer.com/no-office/,/u/flyingfisch,0
+0,2016-02-09 13:13:53 -0600,"/t/devops,/t/distributed,/t/scaling",Holistic Configuration Management at Facebook,http://muratbuffalo.blogspot.com/2016/02/holistic-configuration-management-at.html,/u/jitterted,6
+1,2016-02-09 07:41:50 -0600,"/t/javascript,/t/web",ECMAScript String Padding,https://ponyfoo.com/articles/ecmascript-string-padding,/u/ponyfoo,4
+38,2016-02-08 14:46:41 -0600,"/t/practices,/t/web",How WIRED Is Going to Handle Ad Blocking,http://www.wired.com/how-wired-is-going-to-handle-ad-blocking/,/u/flyingfisch,30
+32,2016-02-09 12:56:56 -0600,"/t/ask,/t/culture",What's under your claw? (Keyboards 'n such),/s/3mhrv6/what_s_under_your_claw_keyboards_n_such,/u/jpm1,10

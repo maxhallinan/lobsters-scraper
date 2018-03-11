@@ -1,25 +1,25 @@
-0,2014-05-08 04:14:56 -0500,"['/t/java', '/t/programming']",Speeding up JSON decoding in Clojure,https://gist.github.com/aphyr/f72e72992dade4578232,/u/kb,12
-0,2014-05-08 12:57:02 -0500,['/t/java'],Modern Java pt 2,http://blog.paralleluniverse.co/2014/05/08/modern-java-pt2/,/u/dix,4
-0,2014-05-08 00:49:40 -0500,['/t/haskell'],Learning Haskell Guide,https://gist.github.com/bitemyapp/8739525,/u/jm,16
-0,2014-05-08 09:56:08 -0500,"['/t/api', '/t/python']",Replaying user interactions from keen.io data,http://zoetrope.io/tech-blog/replaying-user-interactions-keenio-data,/u/ben_howes,5
-0,2014-05-08 18:29:54 -0500,['/t/c'],What if C++ looked more like Python or CoffeeScript?,http://cpprocks.com/what-if-c-looked-more-like-python-or-coffeescript/,/u/alexkorban,1
-35,2014-05-07 08:51:41 -0500,['/t/compsci'],What To Know Before Debating Type Systems,http://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/,/u/tobym,33
-0,2014-05-08 08:43:39 -0500,['/t/haskell'],Up-front Unit Testing in Haskell,https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/en/tutorial.md,/u/puffnfresh,2
-3,2014-05-07 15:42:55 -0500,['/t/web'],why blog pagination URL structure needs restructuring,http://blog.vrypan.net/2014/05/07/blog-pagination-url-structure-needs-resturcturing/,/u/vrypan,11
-1,2014-05-07 16:19:35 -0500,['/t/lisp'],Talking to Yourself: A Twitter Bot in Clojure as a Total Newb,http://nerd.kelseyinnis.com/blog/2014/05/06/talking-to-yourself-a-twitter-bot-in-clojure-by-a-total-newb/,/u/kelsey,11
-5,2014-05-07 10:34:01 -0500,['/t/programming'],"ack 2.12, a source code search tool for programmers",http://beyondgrep.com/,/u/jm,12
-0,2014-05-07 15:09:54 -0500,['/t/devops'],Docker 0.11 is the Release Candidate for 1.0,http://blog.docker.io/2014/05/docker-0-11-release-candidate-for-1-0/,/u/phil,10
-3,2014-05-07 09:05:35 -0500,['/t/programming'],Sum Types,https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/sum-types,/u/puffnfresh,15
-0,2014-05-07 09:33:57 -0500,"['/t/video', '/t/compsci']",LVars: lattice-based data structures for deterministic parallelism,https://www.youtube.com/watch?v=8dFO5Ir0xqY&list=PL9Jh2HsAWHxKAIZ5n-PkPW3CHg2wI-MWb,/u/SeanTAllen,13
-7,2014-05-07 06:24:42 -0500,"['/t/api', '/t/programming', '/t/web']",An API to generate image previews and metadata for almost any kind of file,http://filepreviews.io/,/u/jpadilla,13
-3,2014-05-07 06:09:24 -0500,['/t/go'],Videos from Gophercon,http://confreaks.com/events/gophercon2014,/u/kb,13
-1,2014-05-07 09:28:28 -0500,"['/t/linux', '/t/security']",Fishing for Hackers: Analysis of a Linux Server Attack,http://draios.com/fishing-for-hackers/,/u/tobym,7
-0,2014-05-07 11:49:59 -0500,"['/t/programming', '/t/security']",ack: Security Alert,http://beyondgrep.com/security/,/u/mikemccracken,5
-2,2014-05-07 09:32:26 -0500,"['/t/pdf', '/t/compsci']",Every Bell System Technical Journal issue between 1922-1983,http://alcatel-lucent.com/bstj/,/u/old_sound,5
-0,2014-05-07 21:48:16 -0500,['/t/games'],Using AI to Compare Variance in Threes and 2048,http://www.shamusyoung.com/twentysidedtale/?p=22502,/u/pushcx,1
-8,2014-05-06 12:51:16 -0500,['/t/release'],Atom is Now Open Source,http://blog.atom.io/2014/05/06/atom-is-now-open-source.html,/u/joshuacc,19
-0,2014-05-07 12:01:48 -0500,['/t/programming'],MergeSort in 9 lines of code - don't fear the cat,http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html,/u/bitemyapp,2
-0,2014-05-06 20:13:07 -0500,"['/t/event', '/t/programming']",JuliaCon 2014 - First conference for the Julia Language,http://juliacon.org/,/u/chops,10
-0,2014-05-07 12:05:20 -0500,"['/t/ruby', '/t/security']",Rails Directory Traversal Vulnerability With Certain Route Configurations (CVE-2014-0130),https://groups.google.com/forum/#!topic/rubyonrails-security/PyJo7_m-Ehk,/u/jcs,1
-0,2014-05-07 08:01:26 -0500,['/t/practices'],Emails reveal close Google relationship with NSA,http://america.aljazeera.com/articles/2014/5/6/nsa-chief-google.html,/u/mempko,2
-0,2014-05-07 08:30:56 -0500,"['/t/javascript', '/t/web']",Don’t Name Your Inputs ‘action’ or ‘submit’!,http://www.joezimjs.com/javascript/dont-name-inputs-action-submit/,/u/joezimjs,1
+0,2014-05-08 04:14:56 -0500,"/t/java,/t/programming",Speeding up JSON decoding in Clojure,https://gist.github.com/aphyr/f72e72992dade4578232,/u/kb,12
+0,2014-05-08 12:57:02 -0500,/t/java,Modern Java pt 2,http://blog.paralleluniverse.co/2014/05/08/modern-java-pt2/,/u/dix,4
+0,2014-05-08 00:49:40 -0500,/t/haskell,Learning Haskell Guide,https://gist.github.com/bitemyapp/8739525,/u/jm,16
+0,2014-05-08 09:56:08 -0500,"/t/api,/t/python",Replaying user interactions from keen.io data,http://zoetrope.io/tech-blog/replaying-user-interactions-keenio-data,/u/ben_howes,5
+0,2014-05-08 18:29:54 -0500,/t/c,What if C++ looked more like Python or CoffeeScript?,http://cpprocks.com/what-if-c-looked-more-like-python-or-coffeescript/,/u/alexkorban,1
+35,2014-05-07 08:51:41 -0500,/t/compsci,What To Know Before Debating Type Systems,http://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/,/u/tobym,33
+0,2014-05-08 08:43:39 -0500,/t/haskell,Up-front Unit Testing in Haskell,https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/en/tutorial.md,/u/puffnfresh,2
+3,2014-05-07 15:42:55 -0500,/t/web,why blog pagination URL structure needs restructuring,http://blog.vrypan.net/2014/05/07/blog-pagination-url-structure-needs-resturcturing/,/u/vrypan,11
+1,2014-05-07 16:19:35 -0500,/t/lisp,Talking to Yourself: A Twitter Bot in Clojure as a Total Newb,http://nerd.kelseyinnis.com/blog/2014/05/06/talking-to-yourself-a-twitter-bot-in-clojure-by-a-total-newb/,/u/kelsey,11
+5,2014-05-07 10:34:01 -0500,/t/programming,"ack 2.12, a source code search tool for programmers",http://beyondgrep.com/,/u/jm,12
+0,2014-05-07 15:09:54 -0500,/t/devops,Docker 0.11 is the Release Candidate for 1.0,http://blog.docker.io/2014/05/docker-0-11-release-candidate-for-1-0/,/u/phil,10
+3,2014-05-07 09:05:35 -0500,/t/programming,Sum Types,https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/sum-types,/u/puffnfresh,15
+0,2014-05-07 09:33:57 -0500,"/t/video,/t/compsci",LVars: lattice-based data structures for deterministic parallelism,https://www.youtube.com/watch?v=8dFO5Ir0xqY&list=PL9Jh2HsAWHxKAIZ5n-PkPW3CHg2wI-MWb,/u/SeanTAllen,13
+7,2014-05-07 06:24:42 -0500,"/t/api,/t/programming,/t/web",An API to generate image previews and metadata for almost any kind of file,http://filepreviews.io/,/u/jpadilla,13
+3,2014-05-07 06:09:24 -0500,/t/go,Videos from Gophercon,http://confreaks.com/events/gophercon2014,/u/kb,13
+1,2014-05-07 09:28:28 -0500,"/t/linux,/t/security",Fishing for Hackers: Analysis of a Linux Server Attack,http://draios.com/fishing-for-hackers/,/u/tobym,7
+0,2014-05-07 11:49:59 -0500,"/t/programming,/t/security",ack: Security Alert,http://beyondgrep.com/security/,/u/mikemccracken,5
+2,2014-05-07 09:32:26 -0500,"/t/pdf,/t/compsci",Every Bell System Technical Journal issue between 1922-1983,http://alcatel-lucent.com/bstj/,/u/old_sound,5
+0,2014-05-07 21:48:16 -0500,/t/games,Using AI to Compare Variance in Threes and 2048,http://www.shamusyoung.com/twentysidedtale/?p=22502,/u/pushcx,1
+8,2014-05-06 12:51:16 -0500,/t/release,Atom is Now Open Source,http://blog.atom.io/2014/05/06/atom-is-now-open-source.html,/u/joshuacc,19
+0,2014-05-07 12:01:48 -0500,/t/programming,MergeSort in 9 lines of code - don't fear the cat,http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html,/u/bitemyapp,2
+0,2014-05-06 20:13:07 -0500,"/t/event,/t/programming",JuliaCon 2014 - First conference for the Julia Language,http://juliacon.org/,/u/chops,10
+0,2014-05-07 12:05:20 -0500,"/t/ruby,/t/security",Rails Directory Traversal Vulnerability With Certain Route Configurations (CVE-2014-0130),https://groups.google.com/forum/#!topic/rubyonrails-security/PyJo7_m-Ehk,/u/jcs,1
+0,2014-05-07 08:01:26 -0500,/t/practices,Emails reveal close Google relationship with NSA,http://america.aljazeera.com/articles/2014/5/6/nsa-chief-google.html,/u/mempko,2
+0,2014-05-07 08:30:56 -0500,"/t/javascript,/t/web",Don’t Name Your Inputs ‘action’ or ‘submit’!,http://www.joezimjs.com/javascript/dont-name-inputs-action-submit/,/u/joezimjs,1

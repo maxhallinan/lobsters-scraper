@@ -1,25 +1,25 @@
-0,2016-04-25 09:44:42 -0500,['/t/emacs'],Emacs News,http://sachachua.com/blog/category/emacs-news/,/u/JordiGH,2
-5,2016-04-24 06:50:27 -0500,"['/t/c', '/t/programming']",moreram: Download up to an additional 12GB of RAM (malloc replacement),https://github.com/graphitemaster/moreram,/u/geocar,29
-2,2016-04-24 17:47:23 -0500,"['/t/linux', '/t/release']",Curse Of The Gifted (2000),https://lwn.net/2000/0824/a/esr-sharing.php3,/u/kartik,9
-0,2016-04-25 12:41:39 -0500,"['/t/video', '/t/games']",Payment Models and Game Design Tastes,https://www.youtube.com/watch?v=PQx7KyQoJNc,/u/pushcx,1
-0,2016-04-25 12:33:49 -0500,"['/t/assembly', '/t/c', '/t/reversing']",Defusing a binary bomb with gdb - Part 4,http://blog.carlosgaldino.com/2016/04/25/defusing-a-binary-bomb-with-gdb-part-4.html,/u/carlosgaldino,0
-10,2016-04-24 10:09:29 -0500,"['/t/law', '/t/privacy']",Schools are helping police spy on kids’ social media activity,https://www.washingtonpost.com/news/the-switch/wp/2016/04/22/schools-are-helping-police-spy-on-kids-social-media-activity/,/u/pushcx,10
-0,2016-04-24 14:22:22 -0500,['/t/c'],Clarifying the C memory object model,http://www.open-std.org/JTC1/SC22/WG14/www/docs/n2012.htm,/u/mjn,12
-0,2016-04-24 23:15:03 -0500,"['/t/security', '/t/web']",New debugging method found 23 undetected security flaws in 50 popular Web apps,http://news.mit.edu/2016/patching-web-applications-0415,/u/av,4
-3,2016-04-24 09:05:05 -0500,"['/t/linux', '/t/security']",Circumventing Ubuntu Snap confinement,http://mjg59.dreamwidth.org/42320.html,/u/mulander,13
-2,2016-04-24 05:27:08 -0500,"['/t/release', '/t/ruby', '/t/web']",Thredded: A new lightweight forums engine for Rails,https://thredded.org,/u/glebm,8
-0,2016-04-24 11:53:10 -0500,['/t/design'],Designing Ryanair’s Boarding Pass,https://medium.com/@aonghusdavoren/priority-queue-designing-ryanair-s-boarding-pass-a15895092211,/u/pushcx,9
-0,2016-04-24 08:54:16 -0500,"['/t/browsers', '/t/security']",Google Chrome: A History Of Crime,https://software-gunslinger.tumblr.com/post/143004937538/google-chrome-a-history-of-crime,/u/mulander,11
-2,2016-04-24 09:41:56 -0500,['/t/ruby'],Lessons learned from some of the best Ruby codebases (part 1),http://tech.blacklane.com/2016/04/23/lessons-learned-from-some-of-the-best-ruby-codebases-part-1,/u/soulcutter,6
-35,2016-04-23 12:32:47 -0500,"['/t/haskell', '/t/programming']","Why does Haskell, in your opinion, suck?",https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/,/u/unbalancedparentheses,32
-0,2016-04-24 09:05:51 -0500,['/t/reversing'],Dissecting a spammer's spam script,https://jelleraaijmakers.nl/2016/04/dissecting-spammers-spam-script,/u/mulander,6
-1,2016-04-24 09:08:18 -0500,"['/t/reversing', '/t/security']",Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide,https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide,/u/mulander,4
-2,2016-04-23 21:52:46 -0500,"['/t/law', '/t/privacy']",The Aadhaar Coup,http://www.thehindu.com/opinion/lead/jean-dreze-on-aadhaar-mass-surveillance-data-collection/article8352912.ece,/u/pushcx,13
-0,2016-04-24 09:07:13 -0500,['/t/reversing'],Teaching an old RAT new tricks,https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/,/u/mulander,4
-2,2016-04-23 16:54:11 -0500,"['/t/distributed', '/t/hardware']",4-node Open Compute desktop cluster build,https://polyfractal.com/post/4-node-open-compute-cluster/,/u/polyfractal,11
-3,2016-04-23 15:42:18 -0500,"['/t/c', '/t/compilers']",QBE - Compiler Backend,http://c9x.me/compile/,/u/wjh,16
-8,2016-04-23 09:26:32 -0500,"['/t/linux', '/t/windows']",Windows Subsystem for Linux Overview,https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/,/u/calvin,14
-8,2016-04-23 05:36:12 -0500,"['/t/design', '/t/security']",The God Login,http://blog.codinghorror.com/the-god-login/,/u/adsouza,19
-2,2016-04-23 15:54:54 -0500,"['/t/javascript', '/t/programming']",Timezones for programmers,http://twolfson.com/2016-04-22-timezones-for-programmers,/u/twolfson,4
-3,2016-04-23 14:25:53 -0500,"['/t/openbsd', '/t/ruby']",No Need for RVM or Rbenv on OpenBSD (2014),http://frankgroeneveld.nl/2014/03/16/no-need-for-rvm-or-rbenv-on-openbsd,/u/mulander,6
-17,2016-04-22 16:32:26 -0500,['/t/openbsd'],Year of the OpenBSD desktop,http://blog.tintagel.pl/2016/04/22/year-of-the-openbsd-desktop.html,/u/mulander,33
+0,2016-04-25 09:44:42 -0500,/t/emacs,Emacs News,http://sachachua.com/blog/category/emacs-news/,/u/JordiGH,2
+5,2016-04-24 06:50:27 -0500,"/t/c,/t/programming",moreram: Download up to an additional 12GB of RAM (malloc replacement),https://github.com/graphitemaster/moreram,/u/geocar,29
+2,2016-04-24 17:47:23 -0500,"/t/linux,/t/release",Curse Of The Gifted (2000),https://lwn.net/2000/0824/a/esr-sharing.php3,/u/kartik,9
+0,2016-04-25 12:41:39 -0500,"/t/video,/t/games",Payment Models and Game Design Tastes,https://www.youtube.com/watch?v=PQx7KyQoJNc,/u/pushcx,1
+0,2016-04-25 12:33:49 -0500,"/t/assembly,/t/c,/t/reversing",Defusing a binary bomb with gdb - Part 4,http://blog.carlosgaldino.com/2016/04/25/defusing-a-binary-bomb-with-gdb-part-4.html,/u/carlosgaldino,0
+10,2016-04-24 10:09:29 -0500,"/t/law,/t/privacy",Schools are helping police spy on kids’ social media activity,https://www.washingtonpost.com/news/the-switch/wp/2016/04/22/schools-are-helping-police-spy-on-kids-social-media-activity/,/u/pushcx,10
+0,2016-04-24 14:22:22 -0500,/t/c,Clarifying the C memory object model,http://www.open-std.org/JTC1/SC22/WG14/www/docs/n2012.htm,/u/mjn,12
+0,2016-04-24 23:15:03 -0500,"/t/security,/t/web",New debugging method found 23 undetected security flaws in 50 popular Web apps,http://news.mit.edu/2016/patching-web-applications-0415,/u/av,4
+3,2016-04-24 09:05:05 -0500,"/t/linux,/t/security",Circumventing Ubuntu Snap confinement,http://mjg59.dreamwidth.org/42320.html,/u/mulander,13
+2,2016-04-24 05:27:08 -0500,"/t/release,/t/ruby,/t/web",Thredded: A new lightweight forums engine for Rails,https://thredded.org,/u/glebm,8
+0,2016-04-24 11:53:10 -0500,/t/design,Designing Ryanair’s Boarding Pass,https://medium.com/@aonghusdavoren/priority-queue-designing-ryanair-s-boarding-pass-a15895092211,/u/pushcx,9
+0,2016-04-24 08:54:16 -0500,"/t/browsers,/t/security",Google Chrome: A History Of Crime,https://software-gunslinger.tumblr.com/post/143004937538/google-chrome-a-history-of-crime,/u/mulander,11
+2,2016-04-24 09:41:56 -0500,/t/ruby,Lessons learned from some of the best Ruby codebases (part 1),http://tech.blacklane.com/2016/04/23/lessons-learned-from-some-of-the-best-ruby-codebases-part-1,/u/soulcutter,6
+35,2016-04-23 12:32:47 -0500,"/t/haskell,/t/programming","Why does Haskell, in your opinion, suck?",https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/,/u/unbalancedparentheses,32
+0,2016-04-24 09:05:51 -0500,/t/reversing,Dissecting a spammer's spam script,https://jelleraaijmakers.nl/2016/04/dissecting-spammers-spam-script,/u/mulander,6
+1,2016-04-24 09:08:18 -0500,"/t/reversing,/t/security",Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide,https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide,/u/mulander,4
+2,2016-04-23 21:52:46 -0500,"/t/law,/t/privacy",The Aadhaar Coup,http://www.thehindu.com/opinion/lead/jean-dreze-on-aadhaar-mass-surveillance-data-collection/article8352912.ece,/u/pushcx,13
+0,2016-04-24 09:07:13 -0500,/t/reversing,Teaching an old RAT new tricks,https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/,/u/mulander,4
+2,2016-04-23 16:54:11 -0500,"/t/distributed,/t/hardware",4-node Open Compute desktop cluster build,https://polyfractal.com/post/4-node-open-compute-cluster/,/u/polyfractal,11
+3,2016-04-23 15:42:18 -0500,"/t/c,/t/compilers",QBE - Compiler Backend,http://c9x.me/compile/,/u/wjh,16
+8,2016-04-23 09:26:32 -0500,"/t/linux,/t/windows",Windows Subsystem for Linux Overview,https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/,/u/calvin,14
+8,2016-04-23 05:36:12 -0500,"/t/design,/t/security",The God Login,http://blog.codinghorror.com/the-god-login/,/u/adsouza,19
+2,2016-04-23 15:54:54 -0500,"/t/javascript,/t/programming",Timezones for programmers,http://twolfson.com/2016-04-22-timezones-for-programmers,/u/twolfson,4
+3,2016-04-23 14:25:53 -0500,"/t/openbsd,/t/ruby",No Need for RVM or Rbenv on OpenBSD (2014),http://frankgroeneveld.nl/2014/03/16/no-need-for-rvm-or-rbenv-on-openbsd,/u/mulander,6
+17,2016-04-22 16:32:26 -0500,/t/openbsd,Year of the OpenBSD desktop,http://blog.tintagel.pl/2016/04/22/year-of-the-openbsd-desktop.html,/u/mulander,33

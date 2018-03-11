@@ -1,25 +1,25 @@
-2,2012-09-12 10:31:53 -0500,['/t/compsci'],The Goal is to be Like a Bad Hacker Movie,http://prog21.dadgum.com/150.html,/u/kyle,6
-0,2012-09-12 10:29:27 -0500,['/t/release'],Why I’m done with Scrum,http://lostechies.com/jimmybogard/2012/09/12/why-im-done-with-scrum/,/u/kale,6
-1,2012-09-12 15:28:15 -0500,"['/t/show', '/t/api', '/t/assembly', '/t/reversing', '/t/virtualization']",Binary instrumentation library for QEMU,https://projects.gso.ac.upc.edu/projects/qemu-dbi/wiki,/u/mikeg,3
-0,2012-09-12 11:30:04 -0500,['/t/design'],What Skeuomorphism Is (And Isn’t),http://sachagreif.com/what-skeuomorphism-is-and-isnt/,/u/dmix,5
-1,2012-09-12 11:20:31 -0500,"['/t/news', '/t/web']",HTML Responsive Images Extension,http://dvcs.w3.org/hg/html-proposals/raw-file/tip/responsive-images/responsive-images.html,/u/davidpett,4
-1,2012-09-12 12:07:54 -0500,['/t/linux'],tmpfs considered harmful,https://rwmj.wordpress.com/2012/09/12/tmpfs-considered-harmful,/u/kyle,3
-1,2012-09-12 10:46:35 -0500,"['/t/video', '/t/privacy', '/t/security']",Video illustration on how key exchange in encryption works,http://www.wimp.com/howencryption/,/u/ww520,3
-0,2012-09-12 11:11:51 -0500,['/t/compsci'],Fast integer compression: decoding billions of integers per second,http://lemire.me/blog/archives/2012/09/12/fast-integer-compression-decoding-billions-of-integers-per-second/,/u/fcambus,3
-0,2012-09-11 22:31:53 -0500,['/t/compsci'],Magic: the Gathering is Turing Complete,http://www.toothycat.net/~hologram/Turing/HowItWorks.html,/u/steveklabnik,14
-0,2012-09-12 10:52:06 -0500,['/t/compsci'],Making the most of Scala's (extremely limited) type inference,http://pchiusano.blogspot.com/2011/05/making-most-of-scalas-extremely-limited.html,/u/tobym,3
-0,2012-09-12 08:28:32 -0500,['/t/networking'],Mail in 2012 from an admin’s perspective,http://blog.phusion.nl/2012/09/10/mail-in-2012-from-an-admins-perspective/,/u/fcambus,4
-0,2012-09-12 10:13:02 -0500,"['/t/assembly', '/t/security']",Getting Tricky With Shell Code,http://blog.fireeye.com/research/2012/09/getting-tricky-with-shell-code.html,/u/kyle,3
-0,2012-09-12 08:48:47 -0500,['/t/ruby'],Upload Directly to Amazon S3 with Support for CORS,http://highgroove.com/articles/2012/09/11/upload-directly-to-Amazon-s3-with-support-for-cors.html,/u/alindeman,3
-0,2012-09-12 15:18:15 -0500,['/t/news'],Canada designs new visa for immigrant entrepreneurs,http://www.theglobeandmail.com/report-on-business/small-business/starting-out/canada-designs-new-visa-for-immigrant-entrepreneurs/article4537339/,/u/wmoxam,1
-3,2012-09-11 19:55:22 -0500,['/t/go'],Go At Conformal,https://www.cyphertite.com/blog.php?/archives/7-Go-at-Conformal..html,/u/fcambus,10
-0,2012-09-12 10:08:36 -0500,['/t/vim'],Code substitution done right - Switch.vim,http://www.vimninjas.com/2012/09/12/switch/,/u/tobym,2
-0,2012-09-12 03:16:50 -0500,['/t/news'],Google Course Builder,https://code.google.com/p/course-builder/,/u/anil,5
-0,2012-09-12 08:51:18 -0500,"['/t/javascript', '/t/ruby', '/t/web']",Web Development Flashcards,http://www.oxbridgenotes.co.uk/other/web_development_flashcards,/u/rob,2
-7,2012-09-11 02:36:54 -0500,"['/t/show', '/t/event']",Terminal Keynote - A hack for terminal-based talks,https://github.com/fxn/tkn,/u/fcambus,26
-0,2012-09-12 02:16:39 -0500,"['/t/devops', '/t/linux', '/t/release']",Amazon S3 buckets as yum repositories,http://www.carrollops.com/blog/2012/09/11/s3-yum-repos-with-iam-authorization/,/u/pkhamre,2
-2,2012-09-11 10:59:35 -0500,"['/t/api', '/t/news']",Stripe Blog: New Recurring Billing Features,https://stripe.com/blog/new-recurring-billing-features,/u/rob,10
-1,2012-09-11 08:26:42 -0500,"['/t/go', '/t/networking']",Network Programming with Go,http://jan.newmarch.name/go/,/u/fcambus,12
-0,2012-09-11 19:01:49 -0500,"['/t/math', '/t/ruby']",Linear Regression Using Ruby,http://www.sharethrough.com/2012/09/linear-regression-using-ruby/,/u/rob,3
-0,2012-09-11 16:51:04 -0500,"['/t/compsci', '/t/ruby']","Code Tuning, a programming pearl in Ruby",http://blog.daniellobato.me/2012/09/code-tuning-a-programming-pearl-in-ruby/,/u/rob,4
-0,2012-09-11 14:50:19 -0500,"['/t/c', '/t/compsci']",why single-inheritance multiple-interfaces oop is the most beautiful thing,http://feepingcreature.github.com/oop.html,/u/kyle,5
+2,2012-09-12 10:31:53 -0500,/t/compsci,The Goal is to be Like a Bad Hacker Movie,http://prog21.dadgum.com/150.html,/u/kyle,6
+0,2012-09-12 10:29:27 -0500,/t/release,Why I’m done with Scrum,http://lostechies.com/jimmybogard/2012/09/12/why-im-done-with-scrum/,/u/kale,6
+1,2012-09-12 15:28:15 -0500,"/t/show,/t/api,/t/assembly,/t/reversing,/t/virtualization",Binary instrumentation library for QEMU,https://projects.gso.ac.upc.edu/projects/qemu-dbi/wiki,/u/mikeg,3
+0,2012-09-12 11:30:04 -0500,/t/design,What Skeuomorphism Is (And Isn’t),http://sachagreif.com/what-skeuomorphism-is-and-isnt/,/u/dmix,5
+1,2012-09-12 11:20:31 -0500,"/t/news,/t/web",HTML Responsive Images Extension,http://dvcs.w3.org/hg/html-proposals/raw-file/tip/responsive-images/responsive-images.html,/u/davidpett,4
+1,2012-09-12 12:07:54 -0500,/t/linux,tmpfs considered harmful,https://rwmj.wordpress.com/2012/09/12/tmpfs-considered-harmful,/u/kyle,3
+1,2012-09-12 10:46:35 -0500,"/t/video,/t/privacy,/t/security",Video illustration on how key exchange in encryption works,http://www.wimp.com/howencryption/,/u/ww520,3
+0,2012-09-12 11:11:51 -0500,/t/compsci,Fast integer compression: decoding billions of integers per second,http://lemire.me/blog/archives/2012/09/12/fast-integer-compression-decoding-billions-of-integers-per-second/,/u/fcambus,3
+0,2012-09-11 22:31:53 -0500,/t/compsci,Magic: the Gathering is Turing Complete,http://www.toothycat.net/~hologram/Turing/HowItWorks.html,/u/steveklabnik,14
+0,2012-09-12 10:52:06 -0500,/t/compsci,Making the most of Scala's (extremely limited) type inference,http://pchiusano.blogspot.com/2011/05/making-most-of-scalas-extremely-limited.html,/u/tobym,3
+0,2012-09-12 08:28:32 -0500,/t/networking,Mail in 2012 from an admin’s perspective,http://blog.phusion.nl/2012/09/10/mail-in-2012-from-an-admins-perspective/,/u/fcambus,4
+0,2012-09-12 10:13:02 -0500,"/t/assembly,/t/security",Getting Tricky With Shell Code,http://blog.fireeye.com/research/2012/09/getting-tricky-with-shell-code.html,/u/kyle,3
+0,2012-09-12 08:48:47 -0500,/t/ruby,Upload Directly to Amazon S3 with Support for CORS,http://highgroove.com/articles/2012/09/11/upload-directly-to-Amazon-s3-with-support-for-cors.html,/u/alindeman,3
+0,2012-09-12 15:18:15 -0500,/t/news,Canada designs new visa for immigrant entrepreneurs,http://www.theglobeandmail.com/report-on-business/small-business/starting-out/canada-designs-new-visa-for-immigrant-entrepreneurs/article4537339/,/u/wmoxam,1
+3,2012-09-11 19:55:22 -0500,/t/go,Go At Conformal,https://www.cyphertite.com/blog.php?/archives/7-Go-at-Conformal..html,/u/fcambus,10
+0,2012-09-12 10:08:36 -0500,/t/vim,Code substitution done right - Switch.vim,http://www.vimninjas.com/2012/09/12/switch/,/u/tobym,2
+0,2012-09-12 03:16:50 -0500,/t/news,Google Course Builder,https://code.google.com/p/course-builder/,/u/anil,5
+0,2012-09-12 08:51:18 -0500,"/t/javascript,/t/ruby,/t/web",Web Development Flashcards,http://www.oxbridgenotes.co.uk/other/web_development_flashcards,/u/rob,2
+7,2012-09-11 02:36:54 -0500,"/t/show,/t/event",Terminal Keynote - A hack for terminal-based talks,https://github.com/fxn/tkn,/u/fcambus,26
+0,2012-09-12 02:16:39 -0500,"/t/devops,/t/linux,/t/release",Amazon S3 buckets as yum repositories,http://www.carrollops.com/blog/2012/09/11/s3-yum-repos-with-iam-authorization/,/u/pkhamre,2
+2,2012-09-11 10:59:35 -0500,"/t/api,/t/news",Stripe Blog: New Recurring Billing Features,https://stripe.com/blog/new-recurring-billing-features,/u/rob,10
+1,2012-09-11 08:26:42 -0500,"/t/go,/t/networking",Network Programming with Go,http://jan.newmarch.name/go/,/u/fcambus,12
+0,2012-09-11 19:01:49 -0500,"/t/math,/t/ruby",Linear Regression Using Ruby,http://www.sharethrough.com/2012/09/linear-regression-using-ruby/,/u/rob,3
+0,2012-09-11 16:51:04 -0500,"/t/compsci,/t/ruby","Code Tuning, a programming pearl in Ruby",http://blog.daniellobato.me/2012/09/code-tuning-a-programming-pearl-in-ruby/,/u/rob,4
+0,2012-09-11 14:50:19 -0500,"/t/c,/t/compsci",why single-inheritance multiple-interfaces oop is the most beautiful thing,http://feepingcreature.github.com/oop.html,/u/kyle,5

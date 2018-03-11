@@ -1,25 +1,25 @@
-0,2012-08-22 18:42:47 -0500,"['/t/event', '/t/security']",Stripe Blog: Capture the Flag 2.0,https://stripe.com/blog/capture-the-flag-20,/u/jcs,5
-6,2012-08-22 11:01:01 -0500,['/t/meta'],Has anyone else noticed the 'L' in the top left has become a strange mix of black/red?,/s/kw6raw/has_anyone_else_noticed_l_top_left_has,/u/qbit,12
-0,2012-08-22 08:09:55 -0500,['/t/security'],Inside the Grum Botnet,http://krebsonsecurity.com/2012/08/inside-the-grum-botnet/,/u/mc,3
-2,2012-08-22 04:09:25 -0500,"['/t/openbsd', '/t/release']",OpenSMTPD: plenty of news,https://www.poolp.org/0x47a0/OpenSMTPD:-plenty-of-news,/u/lynge,4
-0,2012-08-22 00:24:25 -0500,['/t/hardware'],Ghosts in the ROM,http://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/,/u/kyle,5
-5,2012-08-21 12:20:58 -0500,"['/t/scaling', '/t/web']",Amazon Glacier lauches: $.01/G reliable storage with multi-hour retrieval queue,http://aws.amazon.com/glacier/,/u/pushcx,12
-0,2012-08-21 23:47:20 -0500,"['/t/python', '/t/reversing']",Automated Static Malware Analysis with Pythonect,http://blog.ikotler.org/2012/08/automated-static-malware-analysis-with.html,/u/kyle,2
-0,2012-08-21 13:40:14 -0500,"['/t/scaling', '/t/web']",Amazon Web Services Blog: Amazon Glacier: Archival Storage for One Penny Per GB Per Month,http://aws.typepad.com/aws/2012/08/amazon-glacier-offsite-archival-storage-for-one-penny-per-gb-per-month.html,/u/vesan,4
-0,2012-08-21 12:25:19 -0500,"['/t/ruby', '/t/web']",Ruby on Rails 10 week course,http://schneems.com/ut-rails,/u/mc,4
-1,2012-08-21 12:10:10 -0500,"['/t/compsci', '/t/ruby']",Aspect-Oriented Programming in Ruby using Combinator Birds,https://github.com/raganwald/homoiconic/blob/master/2008-11-07/from_birds_that_compose_to_method_advice.markdown,/u/pushcx,2
-6,2012-08-20 10:48:15 -0500,['/t/compsci'],A Generation Lost in the Bazaar,http://queue.acm.org/detail.cfm?id=2349257&ref=fullrss,/u/kyle,6
-0,2012-08-20 19:55:05 -0500,"['/t/api', '/t/reversing', '/t/security']",Ripping OAuth tokens (or other secrets) out of Twitter clients,http://timetobleed.com/ripping-oauth-tokens-or-other-secrets-out-of-tweetdeck-twitter-app-and-other-apps/,/u/pushcx,3
-2,2012-08-20 10:33:44 -0500,"['/t/show', '/t/release']",Task tracking for nerds,https://hollyapp.com,/u/randlaeufer,6
-1,2012-08-20 11:50:16 -0500,['/t/design'],A date range picker for Twitter Bootstrap,http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/,/u/pushcx,5
-0,2012-08-20 11:27:38 -0500,"['/t/reversing', '/t/security']","Tales from Crisis, Chapter 2: Backdoor's first steps",http://reverse.put.as/2012/08/20/tales-from-crisis-chapter-2-backdoors-first-steps/,/u/jcs,3
-7,2012-08-19 11:44:26 -0500,"['/t/person', '/t/privacy']",How I Got My Digital Life Back Again After An Epic Hacking,http://www.wired.com/gadgetlab/2012/08/mat-honan-data-recovery/all/,/u/jcs,6
-8,2012-08-19 17:07:21 -0500,['/t/linux'],Ubuntu + Cinnamon - A good idea? No. A great one.,http://www.dedoimedo.com/computers/ubuntu-cinnamon.html,/u/brycv,3
-4,2012-08-19 11:34:56 -0500,['/t/browsers'],Luminescence - plugin-based minimalistic web browser,http://mg0.fr/luminescence/,/u/sramov,6
-0,2012-08-19 17:30:22 -0500,"['/t/privacy', '/t/security']","Hackers Steal, Encrypt Health Records and Hold Data for Ransom",http://go.bloomberg.com/tech-blog/2012-08-10-hackers-steal-encrypt-health-records-and-hold-data-for-ransom/,/u/kyle,3
-4,2012-08-19 03:16:22 -0500,['/t/compsci'],Duolingo,http://duolingo.com/,/u/steveklabnik,5
-0,2012-08-19 14:19:00 -0500,['/t/science'],Asteroid Mining: Interview with Planetary Resources founders,http://www.slate.com/articles/health_and_science/new_scientist/2012/08/asteroid_mining_by_planetary_resources_google_billionaires_are_backing_an_outlandish_venture_.single.html,/u/dwc,2
-0,2012-08-19 12:12:49 -0500,['/t/hardware'],Very inexpensive RF module tutorial,http://hackaday.com/2012/08/19/very-inexpensive-rf-module-tutorial/,/u/kyle,2
-0,2012-08-18 10:05:07 -0500,['/t/c'],Basics of Memory Addresses in C,http://denniskubes.com/2012/08/17/basics-of-memory-addresses-in-c/,/u/kyle,4
-5,2012-08-17 21:07:34 -0500,['/t/python'],"Blessings: Curses, the Python way",http://pypi.python.org/pypi/blessings/,/u/zack,6
-0,2012-08-17 13:55:19 -0500,['/t/databases'],Disappearing test cases or did another part of MySQL just become closed source?,http://blog.mariadb.org/disappearing-test-cases/,/u/jcs,7
+0,2012-08-22 18:42:47 -0500,"/t/event,/t/security",Stripe Blog: Capture the Flag 2.0,https://stripe.com/blog/capture-the-flag-20,/u/jcs,5
+6,2012-08-22 11:01:01 -0500,/t/meta,Has anyone else noticed the 'L' in the top left has become a strange mix of black/red?,/s/kw6raw/has_anyone_else_noticed_l_top_left_has,/u/qbit,12
+0,2012-08-22 08:09:55 -0500,/t/security,Inside the Grum Botnet,http://krebsonsecurity.com/2012/08/inside-the-grum-botnet/,/u/mc,3
+2,2012-08-22 04:09:25 -0500,"/t/openbsd,/t/release",OpenSMTPD: plenty of news,https://www.poolp.org/0x47a0/OpenSMTPD:-plenty-of-news,/u/lynge,4
+0,2012-08-22 00:24:25 -0500,/t/hardware,Ghosts in the ROM,http://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/,/u/kyle,5
+5,2012-08-21 12:20:58 -0500,"/t/scaling,/t/web",Amazon Glacier lauches: $.01/G reliable storage with multi-hour retrieval queue,http://aws.amazon.com/glacier/,/u/pushcx,12
+0,2012-08-21 23:47:20 -0500,"/t/python,/t/reversing",Automated Static Malware Analysis with Pythonect,http://blog.ikotler.org/2012/08/automated-static-malware-analysis-with.html,/u/kyle,2
+0,2012-08-21 13:40:14 -0500,"/t/scaling,/t/web",Amazon Web Services Blog: Amazon Glacier: Archival Storage for One Penny Per GB Per Month,http://aws.typepad.com/aws/2012/08/amazon-glacier-offsite-archival-storage-for-one-penny-per-gb-per-month.html,/u/vesan,4
+0,2012-08-21 12:25:19 -0500,"/t/ruby,/t/web",Ruby on Rails 10 week course,http://schneems.com/ut-rails,/u/mc,4
+1,2012-08-21 12:10:10 -0500,"/t/compsci,/t/ruby",Aspect-Oriented Programming in Ruby using Combinator Birds,https://github.com/raganwald/homoiconic/blob/master/2008-11-07/from_birds_that_compose_to_method_advice.markdown,/u/pushcx,2
+6,2012-08-20 10:48:15 -0500,/t/compsci,A Generation Lost in the Bazaar,http://queue.acm.org/detail.cfm?id=2349257&ref=fullrss,/u/kyle,6
+0,2012-08-20 19:55:05 -0500,"/t/api,/t/reversing,/t/security",Ripping OAuth tokens (or other secrets) out of Twitter clients,http://timetobleed.com/ripping-oauth-tokens-or-other-secrets-out-of-tweetdeck-twitter-app-and-other-apps/,/u/pushcx,3
+2,2012-08-20 10:33:44 -0500,"/t/show,/t/release",Task tracking for nerds,https://hollyapp.com,/u/randlaeufer,6
+1,2012-08-20 11:50:16 -0500,/t/design,A date range picker for Twitter Bootstrap,http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/,/u/pushcx,5
+0,2012-08-20 11:27:38 -0500,"/t/reversing,/t/security","Tales from Crisis, Chapter 2: Backdoor's first steps",http://reverse.put.as/2012/08/20/tales-from-crisis-chapter-2-backdoors-first-steps/,/u/jcs,3
+7,2012-08-19 11:44:26 -0500,"/t/person,/t/privacy",How I Got My Digital Life Back Again After An Epic Hacking,http://www.wired.com/gadgetlab/2012/08/mat-honan-data-recovery/all/,/u/jcs,6
+8,2012-08-19 17:07:21 -0500,/t/linux,Ubuntu + Cinnamon - A good idea? No. A great one.,http://www.dedoimedo.com/computers/ubuntu-cinnamon.html,/u/brycv,3
+4,2012-08-19 11:34:56 -0500,/t/browsers,Luminescence - plugin-based minimalistic web browser,http://mg0.fr/luminescence/,/u/sramov,6
+0,2012-08-19 17:30:22 -0500,"/t/privacy,/t/security","Hackers Steal, Encrypt Health Records and Hold Data for Ransom",http://go.bloomberg.com/tech-blog/2012-08-10-hackers-steal-encrypt-health-records-and-hold-data-for-ransom/,/u/kyle,3
+4,2012-08-19 03:16:22 -0500,/t/compsci,Duolingo,http://duolingo.com/,/u/steveklabnik,5
+0,2012-08-19 14:19:00 -0500,/t/science,Asteroid Mining: Interview with Planetary Resources founders,http://www.slate.com/articles/health_and_science/new_scientist/2012/08/asteroid_mining_by_planetary_resources_google_billionaires_are_backing_an_outlandish_venture_.single.html,/u/dwc,2
+0,2012-08-19 12:12:49 -0500,/t/hardware,Very inexpensive RF module tutorial,http://hackaday.com/2012/08/19/very-inexpensive-rf-module-tutorial/,/u/kyle,2
+0,2012-08-18 10:05:07 -0500,/t/c,Basics of Memory Addresses in C,http://denniskubes.com/2012/08/17/basics-of-memory-addresses-in-c/,/u/kyle,4
+5,2012-08-17 21:07:34 -0500,/t/python,"Blessings: Curses, the Python way",http://pypi.python.org/pypi/blessings/,/u/zack,6
+0,2012-08-17 13:55:19 -0500,/t/databases,Disappearing test cases or did another part of MySQL just become closed source?,http://blog.mariadb.org/disappearing-test-cases/,/u/jcs,7

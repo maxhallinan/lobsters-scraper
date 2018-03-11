@@ -1,25 +1,25 @@
-9,2016-07-01 13:08:50 -0500,['/t/hardware'],The WRT54GL: A 54Mbps router from 2005 still makes millions for Linksys,http://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/,/u/chadski,26
-0,2016-07-02 00:01:35 -0500,['/t/security'],‘Right-to-Left Override’ Aids Email Attacks — Krebs on Security,http://krebsonsecurity.com/2011/09/right-to-left-override-aids-email-attacks/,/u/friendlysock,8
-1,2016-07-01 13:36:08 -0500,['/t/mac'],Twitter app prevents screen locking,https://www.jwz.org/blog/2016/06/twitter-prevents-screen-locking/,/u/tedu,19
-6,2016-07-01 13:28:52 -0500,['/t/debugging'],"Don't tug on that, you never know what it might be attached to",http://blog.plover.com/tech/tmpdir.html,/u/tedu,12
-7,2016-07-01 02:44:22 -0500,"['/t/browsers', '/t/rust']",Servo Nightly Builds Available,https://blog.servo.org/2016/06/30/servo-nightlies/,/u/awal,42
-7,2016-07-01 11:11:55 -0500,"['/t/ask', '/t/programming', '/t/unix']",How should I make this small program's interface UNIXy?,/s/fdzyio/how_should_i_make_this_small_program_s,/u/vfoley,11
-5,2016-07-01 09:44:31 -0500,['/t/programming'],Lily: An interpreted language with a focus on expressiveness and type safety,https://github.com/jesserayadkins/lily,/u/albino,15
-1,2016-07-01 17:13:22 -0500,['/t/networking'],openLTE: An open source 3GPP LTE implementation,https://sourceforge.net/projects/openlte/,/u/chadski,4
-3,2016-07-01 13:41:46 -0500,['/t/practices'],Automated to Death,http://spectrum.ieee.org/computing/software/automated-to-death,/u/kyle,4
-2,2016-07-01 07:26:14 -0500,"['/t/security', '/t/windows']",A Case Study in Attacking KeePass,http://www.harmj0y.net/blog/redteaming/a-case-study-in-attacking-keepass/,/u/calvin,8
-0,2016-07-01 18:57:48 -0500,"['/t/pdf', '/t/assembly', '/t/hardware', '/t/historical']",IBM RT Personal Computer Technology (1986),http://www.textfiles.com/bitsavers/pdf/ibm/pc/rt/SA23-1057_IBM_RT_Personal_Computer_Technology_1986.pdf,/u/calvin,2
-9,2016-07-01 02:23:22 -0500,"['/t/php', '/t/programming']","According to software metrics, programmers don't seem to evolve",https://www.mullie.eu/how-programmers-evolve/,/u/matthiasmullie,3
-0,2016-07-01 05:10:57 -0500,['/t/math'],The Dice (D120) You Never Knew You Needed - The New Yorker,http://www.newyorker.com/tech/elements/the-dice-you-never-knew-you-needed,/u/michaelochurch,8
-11,2016-06-30 11:15:59 -0500,['/t/ask'],Memcached and/or Redis,/s/elmdha/memcached_redis,/u/tschellenbach,26
-2,2016-06-30 16:48:43 -0500,"['/t/release', '/t/ruby']","Rails 5.0 Released with Action Cable, API mode, and more",http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/,/u/havenwood,21
-0,2016-06-30 19:59:23 -0500,"['/t/person', '/t/practices']",Joyent and Samsung: Thoughts after the close,https://www.joyent.com/blog/joyent-and-samsung-thoughts-after-the-close,/u/cnst,17
-0,2016-07-01 08:15:35 -0500,"['/t/hardware', '/t/reversing']",Researching protection and recovering Namco System ES1 arcades,https://medium.com/@ValdikSS/researching-protection-and-recovering-namco-system-es1-arcades-1f8423fdeb3b,/u/355E3B,3
-8,2016-06-30 23:53:09 -0500,"['/t/culture', '/t/law']","Chatbot lawyer overturns 160,000 parking tickets in London and New York",https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york,/u/geocar,14
-0,2016-06-30 17:34:47 -0500,['/t/haskell'],Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime,https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html,/u/jle,8
-2,2016-06-30 18:27:34 -0500,['/t/event'],"C◦mp◦se :: Conference, Melbourne - Call for Presentations!",http://www.composeconference.org/2016-melbourne/cfp/,/u/silky,9
-0,2016-07-01 01:20:16 -0500,['/t/compsci'],Power to the People: The Key to Using AI to Solve Real Human Problems,https://medium.com/@atduskgreg/power-to-the-people-how-one-unknown-group-of-researchers-holds-the-key-to-using-ai-to-solve-real-cc9e75b1f334,/u/DRMacIver,5
-14,2016-06-30 12:33:38 -0500,"['/t/culture', '/t/rust']",State of Rust Survey 2016,http://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html,/u/skade,22
-4,2016-06-30 09:43:40 -0500,['/t/netbsd'],How to Connect to Wireless Networks in NetBSD,http://ajcc.blogspot.com/2016/06/how-to-connect-to-wireless-networks-in.html,/u/fcambus,7
-1,2016-06-30 11:19:57 -0500,['/t/programming'],Submitting a Good Code Review,https://medium.com/snagajobeng/submitting-a-good-code-review-882390239c70#.pgzlesp4z,/u/softinio,7
-0,2016-06-30 07:14:26 -0500,"['/t/android', '/t/crypto', '/t/security']",Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption,http://bits-please.blogspot.com/2016/06/extracting-qualcomms-keymaster-keys.html,/u/lattera,14
+9,2016-07-01 13:08:50 -0500,/t/hardware,The WRT54GL: A 54Mbps router from 2005 still makes millions for Linksys,http://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/,/u/chadski,26
+0,2016-07-02 00:01:35 -0500,/t/security,‘Right-to-Left Override’ Aids Email Attacks — Krebs on Security,http://krebsonsecurity.com/2011/09/right-to-left-override-aids-email-attacks/,/u/friendlysock,8
+1,2016-07-01 13:36:08 -0500,/t/mac,Twitter app prevents screen locking,https://www.jwz.org/blog/2016/06/twitter-prevents-screen-locking/,/u/tedu,19
+6,2016-07-01 13:28:52 -0500,/t/debugging,"Don't tug on that, you never know what it might be attached to",http://blog.plover.com/tech/tmpdir.html,/u/tedu,12
+7,2016-07-01 02:44:22 -0500,"/t/browsers,/t/rust",Servo Nightly Builds Available,https://blog.servo.org/2016/06/30/servo-nightlies/,/u/awal,42
+7,2016-07-01 11:11:55 -0500,"/t/ask,/t/programming,/t/unix",How should I make this small program's interface UNIXy?,/s/fdzyio/how_should_i_make_this_small_program_s,/u/vfoley,11
+5,2016-07-01 09:44:31 -0500,/t/programming,Lily: An interpreted language with a focus on expressiveness and type safety,https://github.com/jesserayadkins/lily,/u/albino,15
+1,2016-07-01 17:13:22 -0500,/t/networking,openLTE: An open source 3GPP LTE implementation,https://sourceforge.net/projects/openlte/,/u/chadski,4
+3,2016-07-01 13:41:46 -0500,/t/practices,Automated to Death,http://spectrum.ieee.org/computing/software/automated-to-death,/u/kyle,4
+2,2016-07-01 07:26:14 -0500,"/t/security,/t/windows",A Case Study in Attacking KeePass,http://www.harmj0y.net/blog/redteaming/a-case-study-in-attacking-keepass/,/u/calvin,8
+0,2016-07-01 18:57:48 -0500,"/t/pdf,/t/assembly,/t/hardware,/t/historical",IBM RT Personal Computer Technology (1986),http://www.textfiles.com/bitsavers/pdf/ibm/pc/rt/SA23-1057_IBM_RT_Personal_Computer_Technology_1986.pdf,/u/calvin,2
+9,2016-07-01 02:23:22 -0500,"/t/php,/t/programming","According to software metrics, programmers don't seem to evolve",https://www.mullie.eu/how-programmers-evolve/,/u/matthiasmullie,3
+0,2016-07-01 05:10:57 -0500,/t/math,The Dice (D120) You Never Knew You Needed - The New Yorker,http://www.newyorker.com/tech/elements/the-dice-you-never-knew-you-needed,/u/michaelochurch,8
+11,2016-06-30 11:15:59 -0500,/t/ask,Memcached and/or Redis,/s/elmdha/memcached_redis,/u/tschellenbach,26
+2,2016-06-30 16:48:43 -0500,"/t/release,/t/ruby","Rails 5.0 Released with Action Cable, API mode, and more",http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/,/u/havenwood,21
+0,2016-06-30 19:59:23 -0500,"/t/person,/t/practices",Joyent and Samsung: Thoughts after the close,https://www.joyent.com/blog/joyent-and-samsung-thoughts-after-the-close,/u/cnst,17
+0,2016-07-01 08:15:35 -0500,"/t/hardware,/t/reversing",Researching protection and recovering Namco System ES1 arcades,https://medium.com/@ValdikSS/researching-protection-and-recovering-namco-system-es1-arcades-1f8423fdeb3b,/u/355E3B,3
+8,2016-06-30 23:53:09 -0500,"/t/culture,/t/law","Chatbot lawyer overturns 160,000 parking tickets in London and New York",https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york,/u/geocar,14
+0,2016-06-30 17:34:47 -0500,/t/haskell,Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime,https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html,/u/jle,8
+2,2016-06-30 18:27:34 -0500,/t/event,"C◦mp◦se :: Conference, Melbourne - Call for Presentations!",http://www.composeconference.org/2016-melbourne/cfp/,/u/silky,9
+0,2016-07-01 01:20:16 -0500,/t/compsci,Power to the People: The Key to Using AI to Solve Real Human Problems,https://medium.com/@atduskgreg/power-to-the-people-how-one-unknown-group-of-researchers-holds-the-key-to-using-ai-to-solve-real-cc9e75b1f334,/u/DRMacIver,5
+14,2016-06-30 12:33:38 -0500,"/t/culture,/t/rust",State of Rust Survey 2016,http://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html,/u/skade,22
+4,2016-06-30 09:43:40 -0500,/t/netbsd,How to Connect to Wireless Networks in NetBSD,http://ajcc.blogspot.com/2016/06/how-to-connect-to-wireless-networks-in.html,/u/fcambus,7
+1,2016-06-30 11:19:57 -0500,/t/programming,Submitting a Good Code Review,https://medium.com/snagajobeng/submitting-a-good-code-review-882390239c70#.pgzlesp4z,/u/softinio,7
+0,2016-06-30 07:14:26 -0500,"/t/android,/t/crypto,/t/security",Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption,http://bits-please.blogspot.com/2016/06/extracting-qualcomms-keymaster-keys.html,/u/lattera,14

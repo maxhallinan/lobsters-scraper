@@ -1,25 +1,25 @@
-0,2013-05-14 09:33:38 -0500,['/t/go'],Go 1.1 is released,http://blog.golang.org/2013/05/go-11-is-released.html,/u/jcs,9
-1,2013-05-14 08:52:44 -0500,['/t/go'],The Reliability of Go,http://andrewwdeane.blogspot.com/2013/05/the-reliability-of-go.html,/u/kyle,7
-0,2013-05-14 15:59:36 -0500,"['/t/devops', '/t/linux', '/t/virtualization']","150,000 cloud virtual machines will help solve mysteries of the Universe",http://arstechnica.com/information-technology/2013/05/150000-cloud-virtual-machines-will-help-solve-mysteries-of-the-universe/,/u/wally,1
-0,2013-05-14 12:01:44 -0500,['/t/web'],Are you a hobbyist developer who gets no recognition for your work?,http://blog.higg.im/are-you-a-hobbyist-developer-who-gets-no-recognition-for-your-work,/u/dh,1
-0,2013-05-13 23:52:09 -0500,"['/t/mac', '/t/openbsd']",Mac OS X FileVault encryption and OpenBSD encrypted softraid on a Macbook Air,https://gist.github.com/jcs/5573685,/u/jcs,6
-2,2013-05-13 18:24:14 -0500,"['/t/event', '/t/go']",GopherCon 2014 - Go Conference,http://gophercon.com,/u/kyle,5
-2,2013-05-13 20:18:50 -0500,"['/t/law', '/t/privacy']",U.S. Secretly Obtains Two Months of A.P. Phone Records,https://www.nytimes.com/aponline/2013/05/13/us/politics/ap-us-ap-phone-records-subpoena.html?hp&_r=0,/u/jcs,3
-0,2013-05-13 21:45:36 -0500,"['/t/reversing', '/t/windows']",Executable Archaeology: The Case Of The Stupid Thing Eating All My RAM,http://www.veracode.com/blog/2013/05/executable-archaeology-the-case-of-the-stupid-thing-eating-all-my-ram/,/u/tedu,2
-0,2013-05-13 22:04:04 -0500,"['/t/video', '/t/javascript', '/t/lisp', '/t/web']",Intro to Functional Reactive Programming with Bacon.js and ClojureScript,http://www.youtube.com/watch?v=nket0K1RXU4,/u/jamesmacaulay,1
-0,2013-05-13 11:22:52 -0500,"['/t/privacy', '/t/security']",A Saudi Arabia Telecom's Surveillance Pitch,http://www.thoughtcrime.org/blog/saudi-surveillance/,/u/jcs,5
-0,2013-05-13 10:46:36 -0500,"['/t/cryptocurrencies', '/t/networking']",Namecoin - A DNS alternative based on Bitcoin,http://bluishcoder.co.nz/2011/05/12/namecoin-a-dns-alternative-based-on-bitcoin.html,/u/eigenjoy,3
-0,2013-05-13 04:55:19 -0500,['/t/hardware'],Commercial quantum computer leaves PC in the dust,http://www.newscientist.com/article/dn23519-commercial-quantum-computer-leaves-pc-in-the-dust.html,/u/stevejalim,5
-0,2013-05-13 12:44:12 -0500,"['/t/cryptocurrencies', '/t/go']",btcjson: The bitcoin JSON-RPC package from btcd,https://blog.conformal.com/btcjson-the-bitcoin-json-rpc-package-from-btcd/,/u/kyle,1
-0,2013-05-13 00:33:26 -0500,"['/t/javascript', '/t/vcs', '/t/visualization', '/t/web']",GitHub ArchiveRoom - Explore your GitHub archive data in 3D!,http://archiveroom.net/,/u/vladikoff,1
-0,2013-05-12 12:29:29 -0500,"['/t/compsci', '/t/security', '/t/web']",Unicode in a Twitter username. It was once possible.,http://blog.higg.im/unicode-twitter-usernames,/u/dh,5
-1,2013-05-10 19:08:25 -0500,"['/t/rant', '/t/web']","DRM in HTML5 is a victory for the open Web, not a defeat",http://arstechnica.com/business/2013/05/drm-in-html5-is-a-victory-for-the-open-web-not-a-defeat/,/u/jcs,4
-0,2013-05-09 21:54:17 -0500,"['/t/c', '/t/visualization']",Cleaning Radar Images using Neural Nets & Computer Vision,http://blog.forecast.io/cleaning-radar-images-using-neural-nets-computer-vision/,/u/nwest,3
-0,2013-05-09 14:37:48 -0500,"['/t/video', '/t/scala']",What's New in Scala 2.10,http://marakana.com/s/post/1461/what_is_new_in_scala_2_10_adriaan_moors_video,/u/tobym,2
-0,2013-05-09 13:41:01 -0500,"['/t/databases', '/t/law', '/t/news']",Landmark Steps to Liberate [US Government] Open Data,http://www.whitehouse.gov/blog/2013/05/09/landmark-steps-liberate-open-data,/u/jcs,2
-0,2013-05-09 06:59:18 -0500,['/t/scaling'],There's Just No Getting around It: You're Building a Distributed System,http://queue.acm.org/detail.cfm?id=2482856,/u/SeanTAllen,4
-1,2013-05-08 16:05:08 -0500,"['/t/practices', '/t/virtualization']",If you love automation why is your development environment manual?,http://sidekicksrc.com/post/if-you-love-automation-why-is-your-development-environment-manual/,/u/jdost,4
-5,2013-05-08 05:43:24 -0500,"['/t/pdf', '/t/erlang', '/t/programming']",Making reliable distributed systems in the presence of software errors,http://www.erlang.org/download/armstrong_thesis_2003.pdf,/u/SeanTAllen,5
-2,2013-05-07 16:10:06 -0500,['/t/security'],Keccak: The New SHA-3 Encryption Standard,http://www.drdobbs.com/security/keccak-the-new-sha-3-encryption-standard/240154037,/u/sschaubs,6
-3,2013-05-07 08:35:55 -0500,['/t/windows'],Microsoft prepares U-turn on Windows 8,http://edition.cnn.com/2013/05/07/business/micrsoft-windows-8-u-turn/,/u/tobym,5
-0,2013-05-07 16:38:39 -0500,"['/t/law', '/t/openbsd']","The Term Hackathon Has Been Trademarked In Germany. Now Crawl Back Under That Rock, Please.",http://bsdly.blogspot.com/2013/05/the-term-hackathon-has-been-trademarked.html,/u/jcs,3
+0,2013-05-14 09:33:38 -0500,/t/go,Go 1.1 is released,http://blog.golang.org/2013/05/go-11-is-released.html,/u/jcs,9
+1,2013-05-14 08:52:44 -0500,/t/go,The Reliability of Go,http://andrewwdeane.blogspot.com/2013/05/the-reliability-of-go.html,/u/kyle,7
+0,2013-05-14 15:59:36 -0500,"/t/devops,/t/linux,/t/virtualization","150,000 cloud virtual machines will help solve mysteries of the Universe",http://arstechnica.com/information-technology/2013/05/150000-cloud-virtual-machines-will-help-solve-mysteries-of-the-universe/,/u/wally,1
+0,2013-05-14 12:01:44 -0500,/t/web,Are you a hobbyist developer who gets no recognition for your work?,http://blog.higg.im/are-you-a-hobbyist-developer-who-gets-no-recognition-for-your-work,/u/dh,1
+0,2013-05-13 23:52:09 -0500,"/t/mac,/t/openbsd",Mac OS X FileVault encryption and OpenBSD encrypted softraid on a Macbook Air,https://gist.github.com/jcs/5573685,/u/jcs,6
+2,2013-05-13 18:24:14 -0500,"/t/event,/t/go",GopherCon 2014 - Go Conference,http://gophercon.com,/u/kyle,5
+2,2013-05-13 20:18:50 -0500,"/t/law,/t/privacy",U.S. Secretly Obtains Two Months of A.P. Phone Records,https://www.nytimes.com/aponline/2013/05/13/us/politics/ap-us-ap-phone-records-subpoena.html?hp&_r=0,/u/jcs,3
+0,2013-05-13 21:45:36 -0500,"/t/reversing,/t/windows",Executable Archaeology: The Case Of The Stupid Thing Eating All My RAM,http://www.veracode.com/blog/2013/05/executable-archaeology-the-case-of-the-stupid-thing-eating-all-my-ram/,/u/tedu,2
+0,2013-05-13 22:04:04 -0500,"/t/video,/t/javascript,/t/lisp,/t/web",Intro to Functional Reactive Programming with Bacon.js and ClojureScript,http://www.youtube.com/watch?v=nket0K1RXU4,/u/jamesmacaulay,1
+0,2013-05-13 11:22:52 -0500,"/t/privacy,/t/security",A Saudi Arabia Telecom's Surveillance Pitch,http://www.thoughtcrime.org/blog/saudi-surveillance/,/u/jcs,5
+0,2013-05-13 10:46:36 -0500,"/t/cryptocurrencies,/t/networking",Namecoin - A DNS alternative based on Bitcoin,http://bluishcoder.co.nz/2011/05/12/namecoin-a-dns-alternative-based-on-bitcoin.html,/u/eigenjoy,3
+0,2013-05-13 04:55:19 -0500,/t/hardware,Commercial quantum computer leaves PC in the dust,http://www.newscientist.com/article/dn23519-commercial-quantum-computer-leaves-pc-in-the-dust.html,/u/stevejalim,5
+0,2013-05-13 12:44:12 -0500,"/t/cryptocurrencies,/t/go",btcjson: The bitcoin JSON-RPC package from btcd,https://blog.conformal.com/btcjson-the-bitcoin-json-rpc-package-from-btcd/,/u/kyle,1
+0,2013-05-13 00:33:26 -0500,"/t/javascript,/t/vcs,/t/visualization,/t/web",GitHub ArchiveRoom - Explore your GitHub archive data in 3D!,http://archiveroom.net/,/u/vladikoff,1
+0,2013-05-12 12:29:29 -0500,"/t/compsci,/t/security,/t/web",Unicode in a Twitter username. It was once possible.,http://blog.higg.im/unicode-twitter-usernames,/u/dh,5
+1,2013-05-10 19:08:25 -0500,"/t/rant,/t/web","DRM in HTML5 is a victory for the open Web, not a defeat",http://arstechnica.com/business/2013/05/drm-in-html5-is-a-victory-for-the-open-web-not-a-defeat/,/u/jcs,4
+0,2013-05-09 21:54:17 -0500,"/t/c,/t/visualization",Cleaning Radar Images using Neural Nets & Computer Vision,http://blog.forecast.io/cleaning-radar-images-using-neural-nets-computer-vision/,/u/nwest,3
+0,2013-05-09 14:37:48 -0500,"/t/video,/t/scala",What's New in Scala 2.10,http://marakana.com/s/post/1461/what_is_new_in_scala_2_10_adriaan_moors_video,/u/tobym,2
+0,2013-05-09 13:41:01 -0500,"/t/databases,/t/law,/t/news",Landmark Steps to Liberate [US Government] Open Data,http://www.whitehouse.gov/blog/2013/05/09/landmark-steps-liberate-open-data,/u/jcs,2
+0,2013-05-09 06:59:18 -0500,/t/scaling,There's Just No Getting around It: You're Building a Distributed System,http://queue.acm.org/detail.cfm?id=2482856,/u/SeanTAllen,4
+1,2013-05-08 16:05:08 -0500,"/t/practices,/t/virtualization",If you love automation why is your development environment manual?,http://sidekicksrc.com/post/if-you-love-automation-why-is-your-development-environment-manual/,/u/jdost,4
+5,2013-05-08 05:43:24 -0500,"/t/pdf,/t/erlang,/t/programming",Making reliable distributed systems in the presence of software errors,http://www.erlang.org/download/armstrong_thesis_2003.pdf,/u/SeanTAllen,5
+2,2013-05-07 16:10:06 -0500,/t/security,Keccak: The New SHA-3 Encryption Standard,http://www.drdobbs.com/security/keccak-the-new-sha-3-encryption-standard/240154037,/u/sschaubs,6
+3,2013-05-07 08:35:55 -0500,/t/windows,Microsoft prepares U-turn on Windows 8,http://edition.cnn.com/2013/05/07/business/micrsoft-windows-8-u-turn/,/u/tobym,5
+0,2013-05-07 16:38:39 -0500,"/t/law,/t/openbsd","The Term Hackathon Has Been Trademarked In Germany. Now Crawl Back Under That Rock, Please.",http://bsdly.blogspot.com/2013/05/the-term-hackathon-has-been-trademarked.html,/u/jcs,3

@@ -1,25 +1,25 @@
-0,2017-08-01 18:35:34 -0500,['/t/java'],"Avoiding Nulls with ""Tell, Don't Ask"" Style",http://natpryce.com/articles/000777.html,/u/pushcx,1
-0,2017-08-01 11:39:22 -0500,['/t/release'],diaspora* - Our federation protocol just got bigger and better!,https://blog.diasporafoundation.org/43-our-federation-protocol-just-got-bigger-and-better,/u/pizzaiolo,3
-0,2017-08-01 07:38:41 -0500,"['/t/javascript', '/t/ruby', '/t/web']",Server Rendering React on Rails,https://blog.codeship.com/server-rendering-react-on-rails/,/u/pushcx,5
-8,2017-07-31 13:49:00 -0500,"['/t/assembly', '/t/web']",Mozilla funds webpack to add WebAssembly,https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15,/u/blake,21
-3,2017-07-31 02:42:31 -0500,"['/t/go', '/t/haskell', '/t/programming']",Faster command line tools with Haskell,https://codygman.github.io/posts/2017-07-30-faster-command-line-tools-with-haskell.html,/u/codygman,34
-1,2017-08-01 12:29:56 -0500,['/t/culture'],Kite injected telemetry into the third most popular Sublime package,https://forum.sublimetext.com/t/rfc-default-package-control-channel-and-package-telemetry/30157,/u/mort,5
-0,2017-08-01 08:49:45 -0500,"['/t/art', '/t/programming', '/t/python']",Welcome to Nat's World,https://www.python.org/about/success/natsworld/,/u/yumaikas,3
-0,2017-07-31 23:59:47 -0500,"['/t/graphics', '/t/release']",OpenGL 4.6,https://www.khronos.org/news/press/khronos-releases-opengl-4.6-with-spir-v-support,/u/mikejsavage,8
-0,2017-08-01 10:18:14 -0500,['/t/security'],StartCom reapplies for inclusion by Mozilla,https://bugzilla.mozilla.org/show_bug.cgi?id=1311832#c12,/u/halosghost,2
-0,2017-08-01 09:43:23 -0500,['/t/graphics'],Optimal grid rendering is not optimal,http://zeuxcg.org/2017/07/31/optimal-grid-rendering-is-not-optimal/,/u/mikejsavage,2
-13,2017-07-31 06:56:33 -0500,['/t/cryptocurrencies'],Photos: Life inside of China’s massive and remote bitcoin mines,https://qz.com/1026605/photos-chinas-bitcoin-mines-and-miners/,/u/pgl,25
-0,2017-07-31 10:29:46 -0500,['/t/security'],Kids Pass Just Reminded Us How Hard Responsible Disclosure Is,https://www.troyhunt.com/kids-pass-just-reminded-us-how-hard-responsible-disclosure-is/,/u/pgl,32
-0,2017-07-31 21:37:45 -0500,"['/t/hardware', '/t/reversing']","""Holy Grail"" Bugs in Emulation, Part 2",https://mgba.io/2017/07/31/holy-grail-bugs-2/,/u/Screwtape,9
-0,2017-08-01 08:33:12 -0500,['/t/mobile'],UBports Community Update & Q&A,https://ubports.com/blog/ubports-blog-1/post/ubports-community-update-q-a-55,/u/pizzaiolo,2
-6,2017-07-31 04:57:27 -0500,['/t/programming'],X11: How does “the” clipboard work?,https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html,/u/mulander,34
-0,2017-08-01 07:37:20 -0500,['/t/python'],Finding fuzzy floats,https://nedbatchelder.com//blog/201707/finding_fuzzy_floats.html,/u/pushcx,2
-0,2017-08-01 07:33:58 -0500,"['/t/pdf', '/t/practices', '/t/science']",Preprint Déjà Vu: an FAQ,https://arxiv.org/abs/1706.04188,/u/pushcx,2
-0,2017-08-01 09:59:52 -0500,"['/t/pdf', '/t/culture', '/t/historical']","“Do Not Fold, Spindle or Mutilate”: A Cultural History of the Punch Card (1992)",http://www.cs.mun.ca/~harold/Courses/Old/CS1400.W15/Diary/Lubar1992.pdf,/u/trn,3
-2,2017-07-31 10:57:40 -0500,"['/t/education', '/t/philosophy', '/t/programming']",Intermediate Abstraction,https://www.arrdem.com/2017/07/27/intermediate-abstraction/,/u/arrdem,10
-1,2017-08-01 09:41:52 -0500,"['/t/culture', '/t/historical']",CLODO,https://en.wikipedia.org/wiki/CLODO,/u/trn,3
-0,2017-08-01 10:20:34 -0500,"['/t/pdf', '/t/historical', '/t/security']",Information Age Terrorism: Towards Cyberterror - Littleton - 1995.,https://www.hsdl.org/?view&did=438436,/u/trn,1
-0,2017-08-01 10:15:20 -0500,['/t/programming'],Strangler Application [2004],https://www.martinfowler.com/bliki/StranglerApplication.html,/u/soulcutter,1
-2,2017-07-31 13:27:43 -0500,"['/t/show', '/t/ai', '/t/browsers']",TensorFire: Blazing fast in-browser neural networks,https://tenso.rs/demos/fast-neural-style/,/u/anishathalye,5
-0,2017-08-01 09:43:48 -0500,"['/t/ai', '/t/compsci', '/t/programming']",A Follow-up to “The Unreasonable Ineffectiveness of Machine Learning in Computer Systems Research”,https://www.sigarch.org/a-follow-up-to-the-unreasonable-ineffectiveness-of-machine-learning-in-computer-systems-research/,/u/kartik,1
-0,2017-08-01 08:52:08 -0500,"['/t/pdf', '/t/databases']",C-Store: A Column-oriented DBMS (2005),http://db.lcs.mit.edu/projects/cstore/vldb.pdf,/u/asthasr,1
+0,2017-08-01 18:35:34 -0500,/t/java,"Avoiding Nulls with ""Tell, Don't Ask"" Style",http://natpryce.com/articles/000777.html,/u/pushcx,1
+0,2017-08-01 11:39:22 -0500,/t/release,diaspora* - Our federation protocol just got bigger and better!,https://blog.diasporafoundation.org/43-our-federation-protocol-just-got-bigger-and-better,/u/pizzaiolo,3
+0,2017-08-01 07:38:41 -0500,"/t/javascript,/t/ruby,/t/web",Server Rendering React on Rails,https://blog.codeship.com/server-rendering-react-on-rails/,/u/pushcx,5
+8,2017-07-31 13:49:00 -0500,"/t/assembly,/t/web",Mozilla funds webpack to add WebAssembly,https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15,/u/blake,21
+3,2017-07-31 02:42:31 -0500,"/t/go,/t/haskell,/t/programming",Faster command line tools with Haskell,https://codygman.github.io/posts/2017-07-30-faster-command-line-tools-with-haskell.html,/u/codygman,34
+1,2017-08-01 12:29:56 -0500,/t/culture,Kite injected telemetry into the third most popular Sublime package,https://forum.sublimetext.com/t/rfc-default-package-control-channel-and-package-telemetry/30157,/u/mort,5
+0,2017-08-01 08:49:45 -0500,"/t/art,/t/programming,/t/python",Welcome to Nat's World,https://www.python.org/about/success/natsworld/,/u/yumaikas,3
+0,2017-07-31 23:59:47 -0500,"/t/graphics,/t/release",OpenGL 4.6,https://www.khronos.org/news/press/khronos-releases-opengl-4.6-with-spir-v-support,/u/mikejsavage,8
+0,2017-08-01 10:18:14 -0500,/t/security,StartCom reapplies for inclusion by Mozilla,https://bugzilla.mozilla.org/show_bug.cgi?id=1311832#c12,/u/halosghost,2
+0,2017-08-01 09:43:23 -0500,/t/graphics,Optimal grid rendering is not optimal,http://zeuxcg.org/2017/07/31/optimal-grid-rendering-is-not-optimal/,/u/mikejsavage,2
+13,2017-07-31 06:56:33 -0500,/t/cryptocurrencies,Photos: Life inside of China’s massive and remote bitcoin mines,https://qz.com/1026605/photos-chinas-bitcoin-mines-and-miners/,/u/pgl,25
+0,2017-07-31 10:29:46 -0500,/t/security,Kids Pass Just Reminded Us How Hard Responsible Disclosure Is,https://www.troyhunt.com/kids-pass-just-reminded-us-how-hard-responsible-disclosure-is/,/u/pgl,32
+0,2017-07-31 21:37:45 -0500,"/t/hardware,/t/reversing","""Holy Grail"" Bugs in Emulation, Part 2",https://mgba.io/2017/07/31/holy-grail-bugs-2/,/u/Screwtape,9
+0,2017-08-01 08:33:12 -0500,/t/mobile,UBports Community Update & Q&A,https://ubports.com/blog/ubports-blog-1/post/ubports-community-update-q-a-55,/u/pizzaiolo,2
+6,2017-07-31 04:57:27 -0500,/t/programming,X11: How does “the” clipboard work?,https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html,/u/mulander,34
+0,2017-08-01 07:37:20 -0500,/t/python,Finding fuzzy floats,https://nedbatchelder.com//blog/201707/finding_fuzzy_floats.html,/u/pushcx,2
+0,2017-08-01 07:33:58 -0500,"/t/pdf,/t/practices,/t/science",Preprint Déjà Vu: an FAQ,https://arxiv.org/abs/1706.04188,/u/pushcx,2
+0,2017-08-01 09:59:52 -0500,"/t/pdf,/t/culture,/t/historical","“Do Not Fold, Spindle or Mutilate”: A Cultural History of the Punch Card (1992)",http://www.cs.mun.ca/~harold/Courses/Old/CS1400.W15/Diary/Lubar1992.pdf,/u/trn,3
+2,2017-07-31 10:57:40 -0500,"/t/education,/t/philosophy,/t/programming",Intermediate Abstraction,https://www.arrdem.com/2017/07/27/intermediate-abstraction/,/u/arrdem,10
+1,2017-08-01 09:41:52 -0500,"/t/culture,/t/historical",CLODO,https://en.wikipedia.org/wiki/CLODO,/u/trn,3
+0,2017-08-01 10:20:34 -0500,"/t/pdf,/t/historical,/t/security",Information Age Terrorism: Towards Cyberterror - Littleton - 1995.,https://www.hsdl.org/?view&did=438436,/u/trn,1
+0,2017-08-01 10:15:20 -0500,/t/programming,Strangler Application [2004],https://www.martinfowler.com/bliki/StranglerApplication.html,/u/soulcutter,1
+2,2017-07-31 13:27:43 -0500,"/t/show,/t/ai,/t/browsers",TensorFire: Blazing fast in-browser neural networks,https://tenso.rs/demos/fast-neural-style/,/u/anishathalye,5
+0,2017-08-01 09:43:48 -0500,"/t/ai,/t/compsci,/t/programming",A Follow-up to “The Unreasonable Ineffectiveness of Machine Learning in Computer Systems Research”,https://www.sigarch.org/a-follow-up-to-the-unreasonable-ineffectiveness-of-machine-learning-in-computer-systems-research/,/u/kartik,1
+0,2017-08-01 08:52:08 -0500,"/t/pdf,/t/databases",C-Store: A Column-oriented DBMS (2005),http://db.lcs.mit.edu/projects/cstore/vldb.pdf,/u/asthasr,1

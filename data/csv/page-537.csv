@@ -1,25 +1,25 @@
-0,2017-01-10 02:49:47 -0600,"['/t/historical', '/t/web']",The World Wide Web project - The first web site,http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html,/u/av,10
-13,2017-01-09 16:07:00 -0600,['/t/vcs'],Using Git Hunks,https://www.bignerdranch.com/blog/using-git-hunks/,/u/kghose,16
-8,2017-01-09 07:43:40 -0600,['/t/c'],"Add a const here, delete a const there…",https://randomascii.wordpress.com/2017/01/08/add-a-const-here-delete-a-const-there/,/u/calvin,40
-0,2017-01-10 02:47:31 -0600,['/t/windows'],Tiny - VNC for DOS,http://josh.com/tiny/,/u/av,7
-10,2017-01-09 08:41:46 -0600,"['/t/go', '/t/practices']",Go and Dogma,https://research.swtch.com/dogma,/u/sevan,25
-0,2017-01-10 08:58:18 -0600,['/t/programming'],Watch Your Language!,https://24ways.org/2016/watch-your-language/,/u/flyingfisch,3
-0,2017-01-10 15:23:28 -0600,['/t/freebsd'],[net80211] Add initial VHT support routines.,https://lists.freebsd.org/pipermail/svn-src-head/2017-January/095565.html,/u/stsp,1
-0,2017-01-09 19:12:19 -0600,"['/t/compilers', '/t/swift']","Building a Compiler in Swift with LLVM, Part 1: Introduction and the Lexer",https://harlanhaskins.com/2017/01/08/building-a-compiler-with-swift-in-llvm-part-1-introduction-and-the-lexer.html,/u/harlanhaskins,8
-2,2017-01-09 22:26:27 -0600,"['/t/browsers', '/t/ios', '/t/privacy']",The official Tor browser for iOS is free to use,http://arstechnica.com/security/2017/01/tor-onion-browser-ios-vpn/,/u/calvin,5
-0,2017-01-10 08:43:36 -0600,['/t/css'],Grid by Example - Usage examples of CSS Grid Layout,http://gridbyexample.com/examples/,/u/flyingfisch,2
-0,2017-01-10 12:35:30 -0600,"['/t/python', '/t/web']",GlowScript: Python-based 3d animations in the browser,http://www.glowscript.org/,/u/zem,1
-0,2017-01-10 07:01:50 -0600,"['/t/security', '/t/web']",htpasswDoS: Local Denial of Service via Apache httpd password hashes,https://blog.fuzzing-project.org/56-htpasswDoS-Local-Denial-of-Service-via-Apache-httpd-password-hashes.html,/u/hanno,1
-0,2017-01-10 08:28:09 -0600,['/t/design'],Etsy’s Evolving Icon System,https://medium.com/etsy-design/etsys-evolving-icon-system-41c55a639be2,/u/flyingfisch,2
-0,2017-01-10 02:51:21 -0600,['/t/ios'],Bringing Wide Color to Instagram,https://engineering.instagram.com/bringing-wide-color-to-instagram-5a5481802d7d,/u/av,4
-36,2017-01-09 05:02:20 -0600,['/t/ask'],What are you working on this week?,/s/cqurna/what_are_you_working_on_this_week,/u/caius,23
-0,2017-01-10 02:52:01 -0600,"['/t/security', '/t/web']",How Stack Overflow plans to survive the next DNS attack - Server Fault Blog,http://blog.serverfault.com/2017/01/09/surviving-the-next-dns-attack/,/u/av,3
-14,2017-01-09 13:27:31 -0600,"['/t/compsci', '/t/games']",DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker,https://arxiv.org/abs/1701.01724,/u/pushcx,7
-0,2017-01-09 21:52:56 -0600,['/t/security'],Cracking 12 Character & Above Passwords,http://www.netmux.com/blog/cracking-12-character-above-passwords,/u/calvin,5
-1,2017-01-09 15:36:39 -0600,"['/t/api', '/t/compilers', '/t/javascript', '/t/math']",Ammo.js (Bullet Physics) compiled to WebAssembly,https://gist.github.com/sasha240100/1e0c0894b2dd98623ef68f89d4ef87ab,/u/alex2401,4
-0,2017-01-10 07:49:50 -0600,"['/t/devops', '/t/release', '/t/security']",Ansible: New RCs for Security Bug CVE-2016-9587,https://groups.google.com/forum/#!topic/ansible-project/zVeVYtivD2Q,/u/ChrisShort,1
-7,2017-01-09 10:12:40 -0600,"['/t/css', '/t/satire']",CSS in French! ??,http://codepen.io/tomhodgins/pen/YpgbGj,/u/innovati,9
-0,2017-01-10 00:34:58 -0600,"['/t/distributed', '/t/historical']",The Anatomy of a Large-Scale Hypertextual Web Search Engine (Google - 1998),http://infolab.stanford.edu/~backrub/google.html,/u/aduffy,3
-0,2017-01-10 02:24:36 -0600,"['/t/compilers', '/t/security']",grsecurity: Reuse Attack Protector (RAP),https://grsecurity.net/rap_faq.php,/u/numinit,2
-0,2017-01-10 00:45:47 -0600,"['/t/api', '/t/compilers', '/t/compsci', '/t/programming', '/t/python', '/t/unix']",What is oheap?,http://www.oilshell.org/blog/2017/01/09.html,/u/andyc,1
-1,2017-01-09 11:47:06 -0600,"['/t/debugging', '/t/ml']",A brief trip through Spacetime,https://blogs.janestreet.com/a-brief-trip-through-spacetime/,/u/dwc,11
+0,2017-01-10 02:49:47 -0600,"/t/historical,/t/web",The World Wide Web project - The first web site,http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html,/u/av,10
+13,2017-01-09 16:07:00 -0600,/t/vcs,Using Git Hunks,https://www.bignerdranch.com/blog/using-git-hunks/,/u/kghose,16
+8,2017-01-09 07:43:40 -0600,/t/c,"Add a const here, delete a const there…",https://randomascii.wordpress.com/2017/01/08/add-a-const-here-delete-a-const-there/,/u/calvin,40
+0,2017-01-10 02:47:31 -0600,/t/windows,Tiny - VNC for DOS,http://josh.com/tiny/,/u/av,7
+10,2017-01-09 08:41:46 -0600,"/t/go,/t/practices",Go and Dogma,https://research.swtch.com/dogma,/u/sevan,25
+0,2017-01-10 08:58:18 -0600,/t/programming,Watch Your Language!,https://24ways.org/2016/watch-your-language/,/u/flyingfisch,3
+0,2017-01-10 15:23:28 -0600,/t/freebsd,[net80211] Add initial VHT support routines.,https://lists.freebsd.org/pipermail/svn-src-head/2017-January/095565.html,/u/stsp,1
+0,2017-01-09 19:12:19 -0600,"/t/compilers,/t/swift","Building a Compiler in Swift with LLVM, Part 1: Introduction and the Lexer",https://harlanhaskins.com/2017/01/08/building-a-compiler-with-swift-in-llvm-part-1-introduction-and-the-lexer.html,/u/harlanhaskins,8
+2,2017-01-09 22:26:27 -0600,"/t/browsers,/t/ios,/t/privacy",The official Tor browser for iOS is free to use,http://arstechnica.com/security/2017/01/tor-onion-browser-ios-vpn/,/u/calvin,5
+0,2017-01-10 08:43:36 -0600,/t/css,Grid by Example - Usage examples of CSS Grid Layout,http://gridbyexample.com/examples/,/u/flyingfisch,2
+0,2017-01-10 12:35:30 -0600,"/t/python,/t/web",GlowScript: Python-based 3d animations in the browser,http://www.glowscript.org/,/u/zem,1
+0,2017-01-10 07:01:50 -0600,"/t/security,/t/web",htpasswDoS: Local Denial of Service via Apache httpd password hashes,https://blog.fuzzing-project.org/56-htpasswDoS-Local-Denial-of-Service-via-Apache-httpd-password-hashes.html,/u/hanno,1
+0,2017-01-10 08:28:09 -0600,/t/design,Etsy’s Evolving Icon System,https://medium.com/etsy-design/etsys-evolving-icon-system-41c55a639be2,/u/flyingfisch,2
+0,2017-01-10 02:51:21 -0600,/t/ios,Bringing Wide Color to Instagram,https://engineering.instagram.com/bringing-wide-color-to-instagram-5a5481802d7d,/u/av,4
+36,2017-01-09 05:02:20 -0600,/t/ask,What are you working on this week?,/s/cqurna/what_are_you_working_on_this_week,/u/caius,23
+0,2017-01-10 02:52:01 -0600,"/t/security,/t/web",How Stack Overflow plans to survive the next DNS attack - Server Fault Blog,http://blog.serverfault.com/2017/01/09/surviving-the-next-dns-attack/,/u/av,3
+14,2017-01-09 13:27:31 -0600,"/t/compsci,/t/games",DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker,https://arxiv.org/abs/1701.01724,/u/pushcx,7
+0,2017-01-09 21:52:56 -0600,/t/security,Cracking 12 Character & Above Passwords,http://www.netmux.com/blog/cracking-12-character-above-passwords,/u/calvin,5
+1,2017-01-09 15:36:39 -0600,"/t/api,/t/compilers,/t/javascript,/t/math",Ammo.js (Bullet Physics) compiled to WebAssembly,https://gist.github.com/sasha240100/1e0c0894b2dd98623ef68f89d4ef87ab,/u/alex2401,4
+0,2017-01-10 07:49:50 -0600,"/t/devops,/t/release,/t/security",Ansible: New RCs for Security Bug CVE-2016-9587,https://groups.google.com/forum/#!topic/ansible-project/zVeVYtivD2Q,/u/ChrisShort,1
+7,2017-01-09 10:12:40 -0600,"/t/css,/t/satire",CSS in French! ??,http://codepen.io/tomhodgins/pen/YpgbGj,/u/innovati,9
+0,2017-01-10 00:34:58 -0600,"/t/distributed,/t/historical",The Anatomy of a Large-Scale Hypertextual Web Search Engine (Google - 1998),http://infolab.stanford.edu/~backrub/google.html,/u/aduffy,3
+0,2017-01-10 02:24:36 -0600,"/t/compilers,/t/security",grsecurity: Reuse Attack Protector (RAP),https://grsecurity.net/rap_faq.php,/u/numinit,2
+0,2017-01-10 00:45:47 -0600,"/t/api,/t/compilers,/t/compsci,/t/programming,/t/python,/t/unix",What is oheap?,http://www.oilshell.org/blog/2017/01/09.html,/u/andyc,1
+1,2017-01-09 11:47:06 -0600,"/t/debugging,/t/ml",A brief trip through Spacetime,https://blogs.janestreet.com/a-brief-trip-through-spacetime/,/u/dwc,11

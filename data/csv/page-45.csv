@@ -1,25 +1,25 @@
-0,2018-01-26 17:31:49 -0600,['/t/security'],Ransomware as a Service - SANS Internet Storm Center,https://isc.sans.edu/forums/diary/Ransomware+as+a+Service/23277/,/u/zpojqwfejwfhiunz,4
-2,2018-01-26 07:55:19 -0600,"['/t/ask', '/t/plt']",Ask: Is it possible to infer a general type signature from a more specific type signature?,https://stackoverflow.com/questions/48460579/is-it-possible-to-infer-a-general-type-signature-from-a-more-specific-type-signa,/u/maxhallinan,4
-30,2018-01-25 20:00:31 -0600,"['/t/ask', '/t/culture']",What's your smartphone policy?,/s/dyhcft/what_s_your_smartphone_policy,/u/gsg,20
-0,2018-01-26 10:21:23 -0600,"['/t/javascript', '/t/web']",5 practical tips to finally learn React in 2018,https://goshakkk.name/tips-finally-learn-react/,/u/goshakkk,4
-0,2018-01-26 20:32:25 -0600,['/t/crypto'],RANDU: The case of the bad RNG,https://csgillespie.wordpress.com/2016/02/16/randu-the-case-of-the-bad-rng/,/u/calvin,2
-0,2018-01-26 14:24:50 -0600,"['/t/art', '/t/math']",Blooms: Phi-Based Strobe Animated Sculptures,http://www.instructables.com/id/Blooming-Zoetrope-Sculptures/,/u/andyc,4
-0,2018-01-26 10:11:31 -0600,"['/t/cryptocurrencies', '/t/reversing', '/t/science']",From DNA to bitcoin: How I won the Davos DNA-storage Bitcoin Challenge,https://swuyts.wordpress.com/2018/01/16/from-dna-to-bitcoin-how-i-won-the-davos-bitcoin-challenge/,/u/mulander,6
-12,2018-01-25 11:53:16 -0600,['/t/programming'],Eve (programming language) is winding down,https://groups.google.com/forum/#!topic/eve-talk/YFguOGkNrBo,/u/roryokane,45
-3,2018-01-25 14:15:56 -0600,"['/t/c', '/t/testing']",Some obscure C features you might not know about,https://mort.coffee/home/obscure-c-features/,/u/mort,21
-0,2018-01-26 14:03:15 -0600,['/t/ruby'],yield_self is more awesome than you could think,http://zverok.github.io/blog/2018-01-24-yield_self.html,/u/soulcutter,3
-6,2018-01-25 10:27:57 -0600,"['/t/art', '/t/linux']",Ubuntu Animals,https://sylviaritter.deviantart.com/gallery/59957223/Ubuntu-Animals,/u/JordiGH,52
-0,2018-01-26 09:00:21 -0600,"['/t/hardware', '/t/security']","How to Hack a Turned-off Computer, or Running Unsigned Code in Intel ME",http://blog.ptsecurity.com/2018/01/running-unsigned-code-in-intel-me.html,/u/av,5
-0,2018-01-26 14:58:59 -0600,"['/t/pdf', '/t/security']",Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis,http://people.cs.umass.edu/~milad/papers/compress_CCS.pdf,/u/muhammeddkilicc,2
-0,2018-01-26 11:44:39 -0600,"['/t/mac', '/t/programming', '/t/rust']",How do you read the memory maps of a Mac process?,https://jvns.ca/blog/2018/01/26/mac-memory-maps/,/u/calvin,3
-2,2018-01-25 21:51:24 -0600,['/t/unix'],Chmod and the mysterious first octet,https://major.io/2007/02/13/chmod-and-the-mysterious-first-octet/,/u/calvin,11
-0,2018-01-26 12:33:39 -0600,"['/t/javascript', '/t/programming']",Ramda Chops: Function Composition,https://robertwpearce.com/blog/ramda-chops-function-composition.html,/u/robertwpearce,1
-2,2018-01-26 03:41:05 -0600,['/t/devops'],6 practices for super smooth Ansible experience,http://hakunin.com/six-ansible-practices,/u/jstoja,5
-28,2018-01-25 07:26:09 -0600,"['/t/linux', '/t/security']",Why does APT not use HTTPS?,https://whydoesaptnotusehttps.com/,/u/apy,35
-24,2018-01-25 12:36:48 -0600,"['/t/browsers', '/t/web']",Update on Pocket and Firefox Integration,https://blog.mozilla.org/futurereleases/2018/01/24/update-on-pocket-and-firefox-integration/,/u/dz,18
-1,2018-01-26 15:42:33 -0600,['/t/unix'],Moving efficiently in the CLI,https://clementc.github.io/blog/2018/01/25/moving_cli/,/u/pushcx,1
-0,2018-01-26 10:36:23 -0600,"['/t/ai', '/t/python', '/t/release']",Tensorflow Release 1.5.0,https://github.com/tensorflow/tensorflow/releases/tag/v1.5.0,/u/carschno,2
-0,2018-01-26 10:21:09 -0600,"['/t/pdf', '/t/assembly', '/t/formalmethods']",Automated Verification of RISC-V Kernel Code (2016),https://courses.cs.washington.edu/courses/cse599w/16sp/projects/riscv.pdf,/u/nickpsecurity,2
-0,2018-01-26 07:10:47 -0600,"['/t/hardware', '/t/historical']",Solder History: The Unsung Hero of Digital Electronics,https://tedium.co/2018/01/25/soldering-technology-history/,/u/calvin,3
-2,2018-01-26 07:47:11 -0600,['/t/culture'],The Dirty War Over Diversity Inside Google,https://www.wired.com/story/the-dirty-war-over-diversity-inside-google/,/u/Irene,6
-0,2018-01-26 09:00:03 -0600,"['/t/freebsd', '/t/programming', '/t/web']",How To Run Your Own Mail Server,https://www.c0ffee.net/blog/mail-server-guide,/u/av,2
+0,2018-01-26 17:31:49 -0600,/t/security,Ransomware as a Service - SANS Internet Storm Center,https://isc.sans.edu/forums/diary/Ransomware+as+a+Service/23277/,/u/zpojqwfejwfhiunz,4
+2,2018-01-26 07:55:19 -0600,"/t/ask,/t/plt",Ask: Is it possible to infer a general type signature from a more specific type signature?,https://stackoverflow.com/questions/48460579/is-it-possible-to-infer-a-general-type-signature-from-a-more-specific-type-signa,/u/maxhallinan,4
+30,2018-01-25 20:00:31 -0600,"/t/ask,/t/culture",What's your smartphone policy?,/s/dyhcft/what_s_your_smartphone_policy,/u/gsg,20
+0,2018-01-26 10:21:23 -0600,"/t/javascript,/t/web",5 practical tips to finally learn React in 2018,https://goshakkk.name/tips-finally-learn-react/,/u/goshakkk,4
+0,2018-01-26 20:32:25 -0600,/t/crypto,RANDU: The case of the bad RNG,https://csgillespie.wordpress.com/2016/02/16/randu-the-case-of-the-bad-rng/,/u/calvin,2
+0,2018-01-26 14:24:50 -0600,"/t/art,/t/math",Blooms: Phi-Based Strobe Animated Sculptures,http://www.instructables.com/id/Blooming-Zoetrope-Sculptures/,/u/andyc,4
+0,2018-01-26 10:11:31 -0600,"/t/cryptocurrencies,/t/reversing,/t/science",From DNA to bitcoin: How I won the Davos DNA-storage Bitcoin Challenge,https://swuyts.wordpress.com/2018/01/16/from-dna-to-bitcoin-how-i-won-the-davos-bitcoin-challenge/,/u/mulander,6
+12,2018-01-25 11:53:16 -0600,/t/programming,Eve (programming language) is winding down,https://groups.google.com/forum/#!topic/eve-talk/YFguOGkNrBo,/u/roryokane,45
+3,2018-01-25 14:15:56 -0600,"/t/c,/t/testing",Some obscure C features you might not know about,https://mort.coffee/home/obscure-c-features/,/u/mort,21
+0,2018-01-26 14:03:15 -0600,/t/ruby,yield_self is more awesome than you could think,http://zverok.github.io/blog/2018-01-24-yield_self.html,/u/soulcutter,3
+6,2018-01-25 10:27:57 -0600,"/t/art,/t/linux",Ubuntu Animals,https://sylviaritter.deviantart.com/gallery/59957223/Ubuntu-Animals,/u/JordiGH,52
+0,2018-01-26 09:00:21 -0600,"/t/hardware,/t/security","How to Hack a Turned-off Computer, or Running Unsigned Code in Intel ME",http://blog.ptsecurity.com/2018/01/running-unsigned-code-in-intel-me.html,/u/av,5
+0,2018-01-26 14:58:59 -0600,"/t/pdf,/t/security",Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis,http://people.cs.umass.edu/~milad/papers/compress_CCS.pdf,/u/muhammeddkilicc,2
+0,2018-01-26 11:44:39 -0600,"/t/mac,/t/programming,/t/rust",How do you read the memory maps of a Mac process?,https://jvns.ca/blog/2018/01/26/mac-memory-maps/,/u/calvin,3
+2,2018-01-25 21:51:24 -0600,/t/unix,Chmod and the mysterious first octet,https://major.io/2007/02/13/chmod-and-the-mysterious-first-octet/,/u/calvin,11
+0,2018-01-26 12:33:39 -0600,"/t/javascript,/t/programming",Ramda Chops: Function Composition,https://robertwpearce.com/blog/ramda-chops-function-composition.html,/u/robertwpearce,1
+2,2018-01-26 03:41:05 -0600,/t/devops,6 practices for super smooth Ansible experience,http://hakunin.com/six-ansible-practices,/u/jstoja,5
+28,2018-01-25 07:26:09 -0600,"/t/linux,/t/security",Why does APT not use HTTPS?,https://whydoesaptnotusehttps.com/,/u/apy,35
+24,2018-01-25 12:36:48 -0600,"/t/browsers,/t/web",Update on Pocket and Firefox Integration,https://blog.mozilla.org/futurereleases/2018/01/24/update-on-pocket-and-firefox-integration/,/u/dz,18
+1,2018-01-26 15:42:33 -0600,/t/unix,Moving efficiently in the CLI,https://clementc.github.io/blog/2018/01/25/moving_cli/,/u/pushcx,1
+0,2018-01-26 10:36:23 -0600,"/t/ai,/t/python,/t/release",Tensorflow Release 1.5.0,https://github.com/tensorflow/tensorflow/releases/tag/v1.5.0,/u/carschno,2
+0,2018-01-26 10:21:09 -0600,"/t/pdf,/t/assembly,/t/formalmethods",Automated Verification of RISC-V Kernel Code (2016),https://courses.cs.washington.edu/courses/cse599w/16sp/projects/riscv.pdf,/u/nickpsecurity,2
+0,2018-01-26 07:10:47 -0600,"/t/hardware,/t/historical",Solder History: The Unsung Hero of Digital Electronics,https://tedium.co/2018/01/25/soldering-technology-history/,/u/calvin,3
+2,2018-01-26 07:47:11 -0600,/t/culture,The Dirty War Over Diversity Inside Google,https://www.wired.com/story/the-dirty-war-over-diversity-inside-google/,/u/Irene,6
+0,2018-01-26 09:00:03 -0600,"/t/freebsd,/t/programming,/t/web",How To Run Your Own Mail Server,https://www.c0ffee.net/blog/mail-server-guide,/u/av,2

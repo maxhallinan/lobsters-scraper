@@ -1,25 +1,25 @@
-2,2015-05-20 09:09:09 -0500,['/t/security'],Logjam: How Diffie-Hellman Fails in Practice,https://weakdh.org/,/u/jcs,33
-9,2015-05-21 00:49:15 -0500,"['/t/culture', '/t/javascript', '/t/practices']",Chasing the New Shiny,http://benlakey.com/2015/05/20/chasing-the-new-shiny/,/u/byte1,10
-0,2015-05-20 16:43:47 -0500,"['/t/design', '/t/javascript', '/t/web']",viewport.js: reflect scrolling position on the navigation menu﻿,http://asvd.github.io/viewport/,/u/xpostman,8
-2,2015-05-20 12:11:03 -0500,"['/t/browsers', '/t/web']","1025703 – Ignore autocomplete=""off"" for filling login forms",https://bugzilla.mozilla.org/show_bug.cgi?id=1025703,/u/cnst,7
-0,2015-05-20 10:47:36 -0500,"['/t/video', '/t/databases', '/t/distributed']",Data Structures in Riak,https://vimeo.com/52414903,/u/SeanTAllen,8
-1,2015-05-20 06:32:15 -0500,['/t/graphics'],waifu2x: Image superresolution using deep convolutional neural networks,https://github.com/nagadomi/waifu2x,/u/sanxiyn,11
-0,2015-05-20 13:50:42 -0500,['/t/programming'],Design Principles and Goals (Part 1) - High Level Architecture,http://dev.theladders.com/2015/05/design-principles-and-goals-high-level-architecture/,/u/SeanTAllen,4
-0,2015-05-20 11:51:44 -0500,"['/t/hardware', '/t/linux']",CHIP - The World's First Nine Dollar Computer,https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer,/u/cnst,5
-0,2015-05-20 15:18:08 -0500,['/t/cryptocurrencies'],The Death of Bitcoin: an examination of next generation Bitcoin-replacement cryptocurrencies,http://tonyarcieri.com/the-death-of-bitcoin,/u/bascule,3
-0,2015-05-20 13:20:58 -0500,['/t/php'],CrudKit: Open source CRUD framework. It's like Django Admin for PHP,http://crudkit.com,/u/skyronic,3
-0,2015-05-20 13:15:27 -0500,['/t/cryptocurrencies'],Virtual-Notary,http://virtual-notary.org/,/u/evhan,3
-3,2015-05-19 23:18:11 -0500,['/t/devops'],How We Moved From Linode to AWS With Less Than a Minute of Downtime,http://docraptor.com/blog/2014/08/20/linode_to_aws_migration,/u/pushcx,8
-1,2015-05-20 05:40:57 -0500,"['/t/culture', '/t/practices', '/t/programming']",Nudging Novices: 5 Persuasive Patterns,http://blog.leif.me/2015/02/nudging-novices-persuasive-patterns/,/u/skunkwerks,11
-28,2015-05-19 03:58:40 -0500,['/t/ruby'],The Ruby Community: The Next Version,http://hawkins.io/2015/05/the-ruby-community-the-next-version/,/u/szalansky,38
-1,2015-05-20 11:35:40 -0500,"['/t/android', '/t/hardware', '/t/mobile']",Alcatel One Touch Idol 3,http://www.alcatelonetouch.us/ALCATEL-ONETOUCH-IDOL-SMARTPHONE-Unlocked/dp/B00V3U6FFK,/u/cnst,1
-0,2015-05-20 04:46:33 -0500,['/t/javascript'],Stubby: better mocking of HTTP requests in client side tests,https://gocardless.com/blog/stubby/,/u/jackfranklin,3
-8,2015-05-19 12:43:58 -0500,"['/t/culture', '/t/practices']",The Sliding Scale of Giving a Fuck,http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck,/u/antifuchs,36
-0,2015-05-19 23:14:56 -0500,['/t/web'],Getting Dicey With Flexbox,http://davidwalsh.name/flexbox-dice,/u/friendlysock,4
-4,2015-05-19 06:59:07 -0500,['/t/programming'],Protect your software with the Circuit Breaker design pattern,http://particular.net/blog/protect-your-software-with-the-circuit-breaker-design-pattern,/u/robin,15
-0,2015-05-20 11:31:25 -0500,"['/t/android', '/t/hardware', '/t/mobile']","ASUS ZenFone 2 (2GB 16GB @ 199 USD, 4GB 64GB @ 299 USD)",http://www.asus.com/Phones/ZenFone_2_ZE551ML/,/u/cnst,0
-1,2015-05-19 13:32:47 -0500,"['/t/culture', '/t/practices']","Give Hard Feedback Fast (followup to ""Be Kind"")",http://boz.com/articles/give-hard-feedback-fast.html,/u/Arrgh,15
-1,2015-05-19 14:37:06 -0500,['/t/haskell'],Can we write a Monoidal Either?,http://jaspervdj.be/posts/2015-05-19-monoidal-either.html,/u/fredrik,6
-0,2015-05-19 15:52:22 -0500,['/t/visualization'],"Bus riding, the best-kept secret of NYC transit",http://visualizing.nyc/bus-riding-the-best-kept-secret-of-nyc-transit/,/u/pushcx,6
-0,2015-05-20 08:01:39 -0500,"['/t/audio', '/t/culture', '/t/security']",Special: One on One with a Hacker,http://shoptalkshow.com/episodes/special-one-one-hacker/,/u/flyingfisch,1
-15,2015-05-19 03:55:59 -0500,['/t/culture'],Be Kind,http://boz.com/articles/be-kind.html,/u/stig,34
+2,2015-05-20 09:09:09 -0500,/t/security,Logjam: How Diffie-Hellman Fails in Practice,https://weakdh.org/,/u/jcs,33
+9,2015-05-21 00:49:15 -0500,"/t/culture,/t/javascript,/t/practices",Chasing the New Shiny,http://benlakey.com/2015/05/20/chasing-the-new-shiny/,/u/byte1,10
+0,2015-05-20 16:43:47 -0500,"/t/design,/t/javascript,/t/web",viewport.js: reflect scrolling position on the navigation menu﻿,http://asvd.github.io/viewport/,/u/xpostman,8
+2,2015-05-20 12:11:03 -0500,"/t/browsers,/t/web","1025703 – Ignore autocomplete=""off"" for filling login forms",https://bugzilla.mozilla.org/show_bug.cgi?id=1025703,/u/cnst,7
+0,2015-05-20 10:47:36 -0500,"/t/video,/t/databases,/t/distributed",Data Structures in Riak,https://vimeo.com/52414903,/u/SeanTAllen,8
+1,2015-05-20 06:32:15 -0500,/t/graphics,waifu2x: Image superresolution using deep convolutional neural networks,https://github.com/nagadomi/waifu2x,/u/sanxiyn,11
+0,2015-05-20 13:50:42 -0500,/t/programming,Design Principles and Goals (Part 1) - High Level Architecture,http://dev.theladders.com/2015/05/design-principles-and-goals-high-level-architecture/,/u/SeanTAllen,4
+0,2015-05-20 11:51:44 -0500,"/t/hardware,/t/linux",CHIP - The World's First Nine Dollar Computer,https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer,/u/cnst,5
+0,2015-05-20 15:18:08 -0500,/t/cryptocurrencies,The Death of Bitcoin: an examination of next generation Bitcoin-replacement cryptocurrencies,http://tonyarcieri.com/the-death-of-bitcoin,/u/bascule,3
+0,2015-05-20 13:20:58 -0500,/t/php,CrudKit: Open source CRUD framework. It's like Django Admin for PHP,http://crudkit.com,/u/skyronic,3
+0,2015-05-20 13:15:27 -0500,/t/cryptocurrencies,Virtual-Notary,http://virtual-notary.org/,/u/evhan,3
+3,2015-05-19 23:18:11 -0500,/t/devops,How We Moved From Linode to AWS With Less Than a Minute of Downtime,http://docraptor.com/blog/2014/08/20/linode_to_aws_migration,/u/pushcx,8
+1,2015-05-20 05:40:57 -0500,"/t/culture,/t/practices,/t/programming",Nudging Novices: 5 Persuasive Patterns,http://blog.leif.me/2015/02/nudging-novices-persuasive-patterns/,/u/skunkwerks,11
+28,2015-05-19 03:58:40 -0500,/t/ruby,The Ruby Community: The Next Version,http://hawkins.io/2015/05/the-ruby-community-the-next-version/,/u/szalansky,38
+1,2015-05-20 11:35:40 -0500,"/t/android,/t/hardware,/t/mobile",Alcatel One Touch Idol 3,http://www.alcatelonetouch.us/ALCATEL-ONETOUCH-IDOL-SMARTPHONE-Unlocked/dp/B00V3U6FFK,/u/cnst,1
+0,2015-05-20 04:46:33 -0500,/t/javascript,Stubby: better mocking of HTTP requests in client side tests,https://gocardless.com/blog/stubby/,/u/jackfranklin,3
+8,2015-05-19 12:43:58 -0500,"/t/culture,/t/practices",The Sliding Scale of Giving a Fuck,http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck,/u/antifuchs,36
+0,2015-05-19 23:14:56 -0500,/t/web,Getting Dicey With Flexbox,http://davidwalsh.name/flexbox-dice,/u/friendlysock,4
+4,2015-05-19 06:59:07 -0500,/t/programming,Protect your software with the Circuit Breaker design pattern,http://particular.net/blog/protect-your-software-with-the-circuit-breaker-design-pattern,/u/robin,15
+0,2015-05-20 11:31:25 -0500,"/t/android,/t/hardware,/t/mobile","ASUS ZenFone 2 (2GB 16GB @ 199 USD, 4GB 64GB @ 299 USD)",http://www.asus.com/Phones/ZenFone_2_ZE551ML/,/u/cnst,0
+1,2015-05-19 13:32:47 -0500,"/t/culture,/t/practices","Give Hard Feedback Fast (followup to ""Be Kind"")",http://boz.com/articles/give-hard-feedback-fast.html,/u/Arrgh,15
+1,2015-05-19 14:37:06 -0500,/t/haskell,Can we write a Monoidal Either?,http://jaspervdj.be/posts/2015-05-19-monoidal-either.html,/u/fredrik,6
+0,2015-05-19 15:52:22 -0500,/t/visualization,"Bus riding, the best-kept secret of NYC transit",http://visualizing.nyc/bus-riding-the-best-kept-secret-of-nyc-transit/,/u/pushcx,6
+0,2015-05-20 08:01:39 -0500,"/t/audio,/t/culture,/t/security",Special: One on One with a Hacker,http://shoptalkshow.com/episodes/special-one-one-hacker/,/u/flyingfisch,1
+15,2015-05-19 03:55:59 -0500,/t/culture,Be Kind,http://boz.com/articles/be-kind.html,/u/stig,34

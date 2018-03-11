@@ -1,25 +1,25 @@
-15,2016-11-02 10:48:44 -0500,"['/t/linux', '/t/mac']",Switching from macOS to elementary OS: The Basics,http://blog.elementary.io/post/152626170946/switching-from-macos-the-basics,/u/pizzaiolo,13
-0,2016-11-02 16:11:20 -0500,"['/t/browsers', '/t/design']",10 principles for smooth web animations,https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29,/u/myusuf3,13
-3,2016-11-02 10:45:08 -0500,['/t/philosophy'],Of Inertia and Computing,https://www.arrdem.com/2016/11/02/of_inertia_and_computing/,/u/arrdem,7
-0,2016-11-03 09:10:10 -0500,['/t/devops'],Graceful Shutdown using AWS AutoScaling Groups and Terraform,https://circleci.com/blog/graceful-shutdown-using-aws/,/u/asthasr,1
-0,2016-11-02 19:51:39 -0500,"['/t/elixir', '/t/erlang', '/t/reversing']","Elixir and IO Lists, Part 2: IO Lists in Phoenix",https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/,/u/friendlysock,7
-1,2016-11-02 12:10:45 -0500,['/t/meta'],Drafting the Lobsters constitution,/s/7a8voj/drafting_lobsters_constitution,/u/calvin,3
-1,2016-11-02 16:05:33 -0500,['/t/web'],Pointing the Way Forward,https://developers.google.com/web/updates/2016/10/pointer-events,/u/flyingfisch,6
-3,2016-11-02 04:14:03 -0500,['/t/web'],Don't just turn off the cache,http://www.blinkingcaret.com/2016/09/28/dont-just-turn-off-the-cache/,/u/rdfi,8
-5,2016-11-02 04:55:08 -0500,"['/t/release', '/t/security']",sshesame: A fake SSH server that lets everyone in and logs their activity,https://github.com/jaksi/sshesame,/u/calvin,16
-2,2016-11-02 09:01:35 -0500,['/t/ruby'],Duck typing vs type safety in Ruby,http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html,/u/julienXX,10
-116,2016-11-01 14:42:16 -0500,['/t/meta'],Lobsters Community Standards,/s/oackyq/lobsters_community_standards,/u/meskarune,49
-9,2016-11-02 05:25:22 -0500,['/t/meta'],Feature request: ability to block/mute/killfile users,/s/jdjxhs/feature_request_ability_block_mute,/u/flaviusb,10
-1,2016-11-02 11:59:24 -0500,"['/t/math', '/t/programming']",The Rise of Mixed Precision Arithmetic,https://nickhigham.wordpress.com/2015/10/20/the-rise-of-mixed-precision-arithmetic/,/u/pushcx,7
-3,2016-11-02 05:42:41 -0500,"['/t/mac', '/t/windows']",Why it’s healthy that Microsoft and Google are eating Apple’s lunch,https://cpbotha.net/2016/11/02/why-its-healthy-that-microsoft-and-google-are-eating-apples-lunch/,/u/cvoxel,4
-0,2016-11-02 17:53:33 -0500,"['/t/programming', '/t/release', '/t/visualization']",Announcing RStudio v1.0!,https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/,/u/tf,4
-0,2016-11-02 17:53:01 -0500,['/t/security'],Django - Security & DNS rebinding,https://www.djangoproject.com/weblog/2016/nov/01/security-releases/,/u/tschellenbach,3
-0,2016-11-02 16:00:14 -0500,['/t/culture'],Help me make a contribution to the design of better development tools,https://gdd.typeform.com/to/bctxh6,/u/elise,3
-0,2016-11-02 15:47:32 -0500,"['/t/pdf', '/t/graphics']",Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition,https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf,/u/pushcx,3
-0,2016-11-02 04:47:47 -0500,"['/t/release', '/t/security']",curl 7.51.0 released with 11 CVEs fixed,https://curl.haxx.se/mail/lib-2016-11/0019.html,/u/dege,11
-0,2016-11-02 09:28:44 -0500,"['/t/compilers', '/t/ruby']",Ruby meta-hacking: Looking under the hood,https://sankhs.com/2016/10/28/ruby-metahacking/,/u/pushcx,6
-23,2016-11-01 12:46:15 -0500,"['/t/law', '/t/math']",Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks.,https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing,/u/tf,20
-9,2016-11-01 11:24:54 -0500,['/t/programming'],A Random Walk Through Ada,http://cowlark.com/2014-04-27-ada/index.html,/u/asthasr,23
-0,2016-11-02 12:48:21 -0500,['/t/security'],Return Flow Guard,http://xlab.tencent.com/en/2016/11/02/return-flow-guard/,/u/lattera,2
-0,2016-11-01 22:47:35 -0500,['/t/programming'],async/await support in Firefox,https://blog.nightly.mozilla.org/2016/11/01/async-await-support-in-firefox/,/u/av,10
-4,2016-11-02 09:33:47 -0500,"['/t/api', '/t/graphics', '/t/rant']",I have ported XScreenSaver to the iPhone. (2012),https://www.jwz.org/blog/2012/06/i-have-ported-xscreensaver-to-the-iphone/,/u/akpoff,5
+15,2016-11-02 10:48:44 -0500,"/t/linux,/t/mac",Switching from macOS to elementary OS: The Basics,http://blog.elementary.io/post/152626170946/switching-from-macos-the-basics,/u/pizzaiolo,13
+0,2016-11-02 16:11:20 -0500,"/t/browsers,/t/design",10 principles for smooth web animations,https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29,/u/myusuf3,13
+3,2016-11-02 10:45:08 -0500,/t/philosophy,Of Inertia and Computing,https://www.arrdem.com/2016/11/02/of_inertia_and_computing/,/u/arrdem,7
+0,2016-11-03 09:10:10 -0500,/t/devops,Graceful Shutdown using AWS AutoScaling Groups and Terraform,https://circleci.com/blog/graceful-shutdown-using-aws/,/u/asthasr,1
+0,2016-11-02 19:51:39 -0500,"/t/elixir,/t/erlang,/t/reversing","Elixir and IO Lists, Part 2: IO Lists in Phoenix",https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/,/u/friendlysock,7
+1,2016-11-02 12:10:45 -0500,/t/meta,Drafting the Lobsters constitution,/s/7a8voj/drafting_lobsters_constitution,/u/calvin,3
+1,2016-11-02 16:05:33 -0500,/t/web,Pointing the Way Forward,https://developers.google.com/web/updates/2016/10/pointer-events,/u/flyingfisch,6
+3,2016-11-02 04:14:03 -0500,/t/web,Don't just turn off the cache,http://www.blinkingcaret.com/2016/09/28/dont-just-turn-off-the-cache/,/u/rdfi,8
+5,2016-11-02 04:55:08 -0500,"/t/release,/t/security",sshesame: A fake SSH server that lets everyone in and logs their activity,https://github.com/jaksi/sshesame,/u/calvin,16
+2,2016-11-02 09:01:35 -0500,/t/ruby,Duck typing vs type safety in Ruby,http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html,/u/julienXX,10
+116,2016-11-01 14:42:16 -0500,/t/meta,Lobsters Community Standards,/s/oackyq/lobsters_community_standards,/u/meskarune,49
+9,2016-11-02 05:25:22 -0500,/t/meta,Feature request: ability to block/mute/killfile users,/s/jdjxhs/feature_request_ability_block_mute,/u/flaviusb,10
+1,2016-11-02 11:59:24 -0500,"/t/math,/t/programming",The Rise of Mixed Precision Arithmetic,https://nickhigham.wordpress.com/2015/10/20/the-rise-of-mixed-precision-arithmetic/,/u/pushcx,7
+3,2016-11-02 05:42:41 -0500,"/t/mac,/t/windows",Why it’s healthy that Microsoft and Google are eating Apple’s lunch,https://cpbotha.net/2016/11/02/why-its-healthy-that-microsoft-and-google-are-eating-apples-lunch/,/u/cvoxel,4
+0,2016-11-02 17:53:33 -0500,"/t/programming,/t/release,/t/visualization",Announcing RStudio v1.0!,https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/,/u/tf,4
+0,2016-11-02 17:53:01 -0500,/t/security,Django - Security & DNS rebinding,https://www.djangoproject.com/weblog/2016/nov/01/security-releases/,/u/tschellenbach,3
+0,2016-11-02 16:00:14 -0500,/t/culture,Help me make a contribution to the design of better development tools,https://gdd.typeform.com/to/bctxh6,/u/elise,3
+0,2016-11-02 15:47:32 -0500,"/t/pdf,/t/graphics",Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition,https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf,/u/pushcx,3
+0,2016-11-02 04:47:47 -0500,"/t/release,/t/security",curl 7.51.0 released with 11 CVEs fixed,https://curl.haxx.se/mail/lib-2016-11/0019.html,/u/dege,11
+0,2016-11-02 09:28:44 -0500,"/t/compilers,/t/ruby",Ruby meta-hacking: Looking under the hood,https://sankhs.com/2016/10/28/ruby-metahacking/,/u/pushcx,6
+23,2016-11-01 12:46:15 -0500,"/t/law,/t/math",Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks.,https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing,/u/tf,20
+9,2016-11-01 11:24:54 -0500,/t/programming,A Random Walk Through Ada,http://cowlark.com/2014-04-27-ada/index.html,/u/asthasr,23
+0,2016-11-02 12:48:21 -0500,/t/security,Return Flow Guard,http://xlab.tencent.com/en/2016/11/02/return-flow-guard/,/u/lattera,2
+0,2016-11-01 22:47:35 -0500,/t/programming,async/await support in Firefox,https://blog.nightly.mozilla.org/2016/11/01/async-await-support-in-firefox/,/u/av,10
+4,2016-11-02 09:33:47 -0500,"/t/api,/t/graphics,/t/rant",I have ported XScreenSaver to the iPhone. (2012),https://www.jwz.org/blog/2012/06/i-have-ported-xscreensaver-to-the-iphone/,/u/akpoff,5

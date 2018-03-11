@@ -1,25 +1,25 @@
-6,2017-03-13 10:45:32 -0500,['/t/programming'],Time matters: when UTC time is just not enough,https://lazystone.github.io//programming/time/2017/03/13/time-matters.html,/u/colin,10
-1,2017-03-13 15:40:40 -0500,['/t/security'],Critical Vulnerability Uncovered in JSON Encryption,http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html,/u/kb,10
-0,2017-03-13 14:03:31 -0500,"['/t/security', '/t/web']","Password-less login, continued",https://medium.com/findworkco/password-less-login-continued-9f61bfda0175,/u/twolfson,7
-0,2017-03-13 15:07:06 -0500,"['/t/show', '/t/javascript', '/t/vcs']",[Help][Github] Looking for open source CONTRIBUTORS,https://github.com/WhitestormJS/whitestorm.js?1,/u/alex2401,6
-5,2017-03-13 03:38:34 -0500,['/t/c'],How C is not a subset of C++,http://faehnri.ch/how-c-is-not-a-subset-of-cpp/,/u/av,22
-0,2017-03-13 15:17:41 -0500,['/t/compsci'],Playing the Game with PLT Redex,https://www.leafac.com/prose/playing-the-game-with-plt-redex/,/u/craigstuntz,7
-0,2017-03-13 16:15:49 -0500,"['/t/historical', '/t/unix']",Simulate a UUCP network with 4.2BSD SimH images,https://github.com/DoctorWkt/4bsd-uucp,/u/mjturner,6
-5,2017-03-13 08:35:55 -0500,"['/t/slides', '/t/netbsd']",A modern replacement for spell(1),http://netbsd.org/gallery/presentations/abhinav/AsiaBSDCon2017/asiabsdcon_2017_modern_spell.html#/,/u/sevan,7
-4,2017-03-13 03:52:59 -0500,['/t/go'],"Go doesn't support exception, in syntax. Go has many exceptions, in syntax.",http://www.tapirgames.com/blog/golang-syntax-sugars-and-exceptions,/u/av,14
-0,2017-03-13 12:36:25 -0500,"['/t/compilers', '/t/compsci', '/t/release']",Elsa: a lightweight proof-checker,https://github.com/ucsd-progsys/elsa/blob/master/README.md,/u/pushcx,8
-0,2017-03-13 16:40:08 -0500,['/t/programming'],Patterns of Software: Highlights,http://norswap.com/patterns-of-software/,/u/norswap,2
-0,2017-03-13 19:14:00 -0500,"['/t/release', '/t/unix']",saucelabs/kioskwm - minimalist window manager for kiosks,https://github.com/saucelabs/kioskwm,/u/sevan,3
-3,2017-03-13 19:13:45 -0500,"['/t/culture', '/t/person', '/t/python']",On Programming Languages; Why My Dad Went From Programming to Driving a Bus,https://ntguardian.wordpress.com/2017/03/13/on-programming-languages-why-my-dad-went-from-programming-to-driving-a-bus/,/u/michaelochurch,6
-2,2017-03-13 15:11:28 -0500,"['/t/compilers', '/t/release']",LLVM 4.0.0 released,http://lists.llvm.org/pipermail/llvm-announce/2017-March/000073.html,/u/colin,3
-1,2017-03-13 13:35:53 -0500,"['/t/databases', '/t/python']",Avoid Django's GenericForeignKey,https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/,/u/pushcx,5
-5,2017-03-13 08:41:05 -0500,"['/t/pdf', '/t/openbsd']",OMRON LUNA-88K2 & OpenBSD /luna88k,http://www.nk-home.net/~aoyama/AsiaBSDCon/AsiaBSDCon2017-flyer.pdf,/u/sevan,5
-2,2017-03-13 03:35:28 -0500,['/t/programming'],The Ken Thompson Hack,http://wiki.c2.com/?TheKenThompsonHack,/u/av,10
-14,2017-03-13 09:44:26 -0500,"['/t/culture', '/t/practices']",We didn’t lose control of the web – it was stolen,https://ar.al/notes/we-didnt-lose-control-it-was-stolen/,/u/michaelochurch,15
-0,2017-03-13 14:23:18 -0500,"['/t/hardware', '/t/historical', '/t/reversing']",Analyzing the vintage 8008 processor from die photos: its unusual counters,http://www.righto.com/2017/03/analyzing-vintage-8008-processor-from.html,/u/calvin,4
-0,2017-03-13 08:10:07 -0500,"['/t/testing', '/t/web']",Linting HTML using CSS,https://bitsofco.de/linting-html-using-css/,/u/flyingfisch,6
-9,2017-03-12 20:05:40 -0500,"['/t/practices', '/t/scaling']",The Back-end for Front-end Pattern (BFF),http://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html,/u/pcalcado,6
-19,2017-03-12 21:49:20 -0500,['/t/unix'],Unix System Call Timeouts,https://eklitzke.org/unix-system-call-timeouts,/u/pushcx,9
-29,2017-03-12 08:33:52 -0500,"['/t/devops', '/t/practices']",Stop spending engineering effort solving problems you don’t have,https://medium.com/@doctor_julz/stop-spending-engineering-effort-solving-problems-you-dont-have-8d18584f4d2a,/u/calvin,36
-0,2017-03-13 05:38:25 -0500,"['/t/pdf', '/t/compsci']",An introduction to video coding,http://people.xiph.org/~tterribe/pubs/lca2012/auckland/intro_to_video1.pdf,/u/mikejsavage,7
-0,2017-03-13 14:18:47 -0500,"['/t/assembly', '/t/c', '/t/security']",CFI directives in assembly files,https://www.imperialviolet.org/2017/01/18/cfi.html,/u/prefork,2
+6,2017-03-13 10:45:32 -0500,/t/programming,Time matters: when UTC time is just not enough,https://lazystone.github.io//programming/time/2017/03/13/time-matters.html,/u/colin,10
+1,2017-03-13 15:40:40 -0500,/t/security,Critical Vulnerability Uncovered in JSON Encryption,http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html,/u/kb,10
+0,2017-03-13 14:03:31 -0500,"/t/security,/t/web","Password-less login, continued",https://medium.com/findworkco/password-less-login-continued-9f61bfda0175,/u/twolfson,7
+0,2017-03-13 15:07:06 -0500,"/t/show,/t/javascript,/t/vcs",[Help][Github] Looking for open source CONTRIBUTORS,https://github.com/WhitestormJS/whitestorm.js?1,/u/alex2401,6
+5,2017-03-13 03:38:34 -0500,/t/c,How C is not a subset of C++,http://faehnri.ch/how-c-is-not-a-subset-of-cpp/,/u/av,22
+0,2017-03-13 15:17:41 -0500,/t/compsci,Playing the Game with PLT Redex,https://www.leafac.com/prose/playing-the-game-with-plt-redex/,/u/craigstuntz,7
+0,2017-03-13 16:15:49 -0500,"/t/historical,/t/unix",Simulate a UUCP network with 4.2BSD SimH images,https://github.com/DoctorWkt/4bsd-uucp,/u/mjturner,6
+5,2017-03-13 08:35:55 -0500,"/t/slides,/t/netbsd",A modern replacement for spell(1),http://netbsd.org/gallery/presentations/abhinav/AsiaBSDCon2017/asiabsdcon_2017_modern_spell.html#/,/u/sevan,7
+4,2017-03-13 03:52:59 -0500,/t/go,"Go doesn't support exception, in syntax. Go has many exceptions, in syntax.",http://www.tapirgames.com/blog/golang-syntax-sugars-and-exceptions,/u/av,14
+0,2017-03-13 12:36:25 -0500,"/t/compilers,/t/compsci,/t/release",Elsa: a lightweight proof-checker,https://github.com/ucsd-progsys/elsa/blob/master/README.md,/u/pushcx,8
+0,2017-03-13 16:40:08 -0500,/t/programming,Patterns of Software: Highlights,http://norswap.com/patterns-of-software/,/u/norswap,2
+0,2017-03-13 19:14:00 -0500,"/t/release,/t/unix",saucelabs/kioskwm - minimalist window manager for kiosks,https://github.com/saucelabs/kioskwm,/u/sevan,3
+3,2017-03-13 19:13:45 -0500,"/t/culture,/t/person,/t/python",On Programming Languages; Why My Dad Went From Programming to Driving a Bus,https://ntguardian.wordpress.com/2017/03/13/on-programming-languages-why-my-dad-went-from-programming-to-driving-a-bus/,/u/michaelochurch,6
+2,2017-03-13 15:11:28 -0500,"/t/compilers,/t/release",LLVM 4.0.0 released,http://lists.llvm.org/pipermail/llvm-announce/2017-March/000073.html,/u/colin,3
+1,2017-03-13 13:35:53 -0500,"/t/databases,/t/python",Avoid Django's GenericForeignKey,https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/,/u/pushcx,5
+5,2017-03-13 08:41:05 -0500,"/t/pdf,/t/openbsd",OMRON LUNA-88K2 & OpenBSD /luna88k,http://www.nk-home.net/~aoyama/AsiaBSDCon/AsiaBSDCon2017-flyer.pdf,/u/sevan,5
+2,2017-03-13 03:35:28 -0500,/t/programming,The Ken Thompson Hack,http://wiki.c2.com/?TheKenThompsonHack,/u/av,10
+14,2017-03-13 09:44:26 -0500,"/t/culture,/t/practices",We didn’t lose control of the web – it was stolen,https://ar.al/notes/we-didnt-lose-control-it-was-stolen/,/u/michaelochurch,15
+0,2017-03-13 14:23:18 -0500,"/t/hardware,/t/historical,/t/reversing",Analyzing the vintage 8008 processor from die photos: its unusual counters,http://www.righto.com/2017/03/analyzing-vintage-8008-processor-from.html,/u/calvin,4
+0,2017-03-13 08:10:07 -0500,"/t/testing,/t/web",Linting HTML using CSS,https://bitsofco.de/linting-html-using-css/,/u/flyingfisch,6
+9,2017-03-12 20:05:40 -0500,"/t/practices,/t/scaling",The Back-end for Front-end Pattern (BFF),http://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html,/u/pcalcado,6
+19,2017-03-12 21:49:20 -0500,/t/unix,Unix System Call Timeouts,https://eklitzke.org/unix-system-call-timeouts,/u/pushcx,9
+29,2017-03-12 08:33:52 -0500,"/t/devops,/t/practices",Stop spending engineering effort solving problems you don’t have,https://medium.com/@doctor_julz/stop-spending-engineering-effort-solving-problems-you-dont-have-8d18584f4d2a,/u/calvin,36
+0,2017-03-13 05:38:25 -0500,"/t/pdf,/t/compsci",An introduction to video coding,http://people.xiph.org/~tterribe/pubs/lca2012/auckland/intro_to_video1.pdf,/u/mikejsavage,7
+0,2017-03-13 14:18:47 -0500,"/t/assembly,/t/c,/t/security",CFI directives in assembly files,https://www.imperialviolet.org/2017/01/18/cfi.html,/u/prefork,2

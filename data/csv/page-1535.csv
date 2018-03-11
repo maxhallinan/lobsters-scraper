@@ -1,25 +1,25 @@
-0,2012-09-24 18:58:25 -0500,"['/t/browsers', '/t/mobile', '/t/web']",A browser benchmark that has your back: RoboHornet,http://paulirish.com/2012/a-browser-benchmark-that-has-your-back-robohornet/,/u/vladikoff,3
-0,2012-09-24 13:31:09 -0500,['/t/python'],monads for normal people in python and clojure,http://www.dustingetz.com/2012/07/21/monads2.html,/u/kGb8RNFtg6,5
-0,2012-09-24 15:30:07 -0500,"['/t/video', '/t/philosophy']","Gonzo - Exploration of Culture, Innovation and the Weird in Software",http://confreaks.com/videos/1104-madisonruby2012-gonzo-exploration-of-culture-innovation-and-the-weird-in-software,/u/listrophy,3
-1,2012-09-24 09:35:30 -0500,"['/t/design', '/t/go', '/t/python']",Error codes vs exceptions: critical code vs typical code,http://www.yosefk.com/blog/error-codes-vs-exceptions-critical-code-vs-typical-code.html,/u/dwc,5
-0,2012-09-24 14:13:48 -0500,"['/t/video', '/t/security']","""Why do you lock your door?"" - RVASec 2012",https://www.youtube.com/watch?v=jqjacHSTd48,/u/jcs,3
-3,2012-09-24 11:02:19 -0500,['/t/meta'],Lobsters Feature Request: Be able to mark a story a response to another,/s/qiaqlw/lobsters_feature_request_be_able_mark,/u/moses,7
-1,2012-09-23 22:30:19 -0500,['/t/compsci'],Laurence Tratt: Fast Enough VMs in Fast Enough Time,http://www.tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time,/u/tobym,8
-3,2012-09-23 17:20:30 -0500,"['/t/go', '/t/python']",Why I’m not leaving Python for Go,https://uberpython.wordpress.com/2012/09/23/why-im-not-leaving-python-for-go/,/u/jcs,8
-4,2012-09-23 13:48:26 -0500,['/t/compsci'],Big O analysis considered harmful,http://t-a-w.blogspot.co.uk/2007/03/big-o-analysis-considered-harmful.html,/u/tobym,3
-0,2012-09-23 16:06:36 -0500,"['/t/javascript', '/t/web']",Fokus - Emphasized text-highlighting using JavaScript,http://lab.hakim.se/fokus,/u/vladikoff,3
-2,2012-09-22 21:38:00 -0500,['/t/ruby'],Rescuing Resque: Let's do this,http://blog.steveklabnik.com/posts/2012-09-22-resque--let-s-do-this,/u/steveklabnik,24
-0,2012-09-22 21:19:52 -0500,"['/t/databases', '/t/distributed']",Doing redundant work to speed up distributed queries,http://www.bailis.org/blog/doing-redundant-work-to-speed-up-distributed-queries/,/u/mf,7
-0,2012-09-23 02:17:04 -0500,"['/t/ios', '/t/ruby']",Ruby motion + CoreData + data binding + outlets/actions,https://github.com/mattgreen/nitron/wiki/Tutorial,/u/chumpy,3
-2,2012-09-22 06:34:59 -0500,['/t/ruby'],Ruby’s magic underscore,http://po-ru.com/diary/rubys-magic-underscore/,/u/Hates_,19
-3,2012-09-22 13:36:57 -0500,"['/t/ruby', '/t/web']","AuthN - Simple, Lightweight, & Easy Authentication (cross-framework)",http://krainboltgreene.github.com/authn/,/u/krainboltgreene,5
-0,2012-09-22 15:06:04 -0500,['/t/ruby'],Be Assertive with Sane Exception Handling,http://pbrisbin.com/posts/be_assertive,/u/waseem,5
-5,2012-09-22 08:23:00 -0500,"['/t/show', '/t/ios']",Show iOS devs: PSTCollectionView - API compatible replacement of UICollectionView (iOS6) for iOS4.3+,https://github.com/steipete/PSTCollectionView,/u/MSch,4
-0,2012-09-21 22:53:16 -0500,"['/t/c', '/t/release']",How to code debuggers,http://t-a-w.blogspot.co.uk/2007/03/how-to-code-debuggers.html,/u/steveklabnik,5
-0,2012-09-22 03:24:43 -0500,"['/t/browsers', '/t/networking', '/t/security']",CRIME,http://www.imperialviolet.org/2012/09/21/crime.html,/u/dekz,2
-3,2012-09-21 16:18:34 -0500,"['/t/databases', '/t/ruby']",Querying PostgreSQL datatypes in ActiveRecord with postgres_ext,http://reefpoints.dockyard.com/ruby/2012/09/21/querying-postgresql-datatypes-in-active-record-with-postgres_ext.html,/u/craigkerstiens,5
-2,2012-09-21 16:04:27 -0500,"['/t/release', '/t/web']",Easier builds and deployments using Git over HTTPS and OAuth · GitHub,https://github.com/blog/1270-easier-builds-and-deployments-using-git-over-https-and-oauth,/u/virtualroot,5
-2,2012-09-21 16:16:14 -0500,"['/t/browsers', '/t/ruby']",Why Sinatra's Halt is Awesome,http://myronmars.to/n/dev-blog/2012/01/why-sinatras-halt-is-awesome,/u/virtualroot,5
-1,2012-09-21 13:54:38 -0500,"['/t/release', '/t/ruby', '/t/web']",WyeWorks Blog: Rails 4 in a MindNode,http://blog.wyeworks.com/2012/9/20/rails-4-in-a-mindnode/,/u/spastorino,6
-1,2012-09-21 12:13:38 -0500,"['/t/databases', '/t/devops', '/t/scaling']",Handling Database Failover at Craigslist,http://blog.zawodny.com/2012/09/18/handling-database-failover-at-craigslist/,/u/jcs,6
-1,2012-09-21 10:46:41 -0500,['/t/hardware'],How to build your own dedicated Pandora radio,http://hackaday.com/2012/09/20/how-to-build-your-own-dedicated-pandora-radio/,/u/tobym,6
+0,2012-09-24 18:58:25 -0500,"/t/browsers,/t/mobile,/t/web",A browser benchmark that has your back: RoboHornet,http://paulirish.com/2012/a-browser-benchmark-that-has-your-back-robohornet/,/u/vladikoff,3
+0,2012-09-24 13:31:09 -0500,/t/python,monads for normal people in python and clojure,http://www.dustingetz.com/2012/07/21/monads2.html,/u/kGb8RNFtg6,5
+0,2012-09-24 15:30:07 -0500,"/t/video,/t/philosophy","Gonzo - Exploration of Culture, Innovation and the Weird in Software",http://confreaks.com/videos/1104-madisonruby2012-gonzo-exploration-of-culture-innovation-and-the-weird-in-software,/u/listrophy,3
+1,2012-09-24 09:35:30 -0500,"/t/design,/t/go,/t/python",Error codes vs exceptions: critical code vs typical code,http://www.yosefk.com/blog/error-codes-vs-exceptions-critical-code-vs-typical-code.html,/u/dwc,5
+0,2012-09-24 14:13:48 -0500,"/t/video,/t/security","""Why do you lock your door?"" - RVASec 2012",https://www.youtube.com/watch?v=jqjacHSTd48,/u/jcs,3
+3,2012-09-24 11:02:19 -0500,/t/meta,Lobsters Feature Request: Be able to mark a story a response to another,/s/qiaqlw/lobsters_feature_request_be_able_mark,/u/moses,7
+1,2012-09-23 22:30:19 -0500,/t/compsci,Laurence Tratt: Fast Enough VMs in Fast Enough Time,http://www.tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time,/u/tobym,8
+3,2012-09-23 17:20:30 -0500,"/t/go,/t/python",Why I’m not leaving Python for Go,https://uberpython.wordpress.com/2012/09/23/why-im-not-leaving-python-for-go/,/u/jcs,8
+4,2012-09-23 13:48:26 -0500,/t/compsci,Big O analysis considered harmful,http://t-a-w.blogspot.co.uk/2007/03/big-o-analysis-considered-harmful.html,/u/tobym,3
+0,2012-09-23 16:06:36 -0500,"/t/javascript,/t/web",Fokus - Emphasized text-highlighting using JavaScript,http://lab.hakim.se/fokus,/u/vladikoff,3
+2,2012-09-22 21:38:00 -0500,/t/ruby,Rescuing Resque: Let's do this,http://blog.steveklabnik.com/posts/2012-09-22-resque--let-s-do-this,/u/steveklabnik,24
+0,2012-09-22 21:19:52 -0500,"/t/databases,/t/distributed",Doing redundant work to speed up distributed queries,http://www.bailis.org/blog/doing-redundant-work-to-speed-up-distributed-queries/,/u/mf,7
+0,2012-09-23 02:17:04 -0500,"/t/ios,/t/ruby",Ruby motion + CoreData + data binding + outlets/actions,https://github.com/mattgreen/nitron/wiki/Tutorial,/u/chumpy,3
+2,2012-09-22 06:34:59 -0500,/t/ruby,Ruby’s magic underscore,http://po-ru.com/diary/rubys-magic-underscore/,/u/Hates_,19
+3,2012-09-22 13:36:57 -0500,"/t/ruby,/t/web","AuthN - Simple, Lightweight, & Easy Authentication (cross-framework)",http://krainboltgreene.github.com/authn/,/u/krainboltgreene,5
+0,2012-09-22 15:06:04 -0500,/t/ruby,Be Assertive with Sane Exception Handling,http://pbrisbin.com/posts/be_assertive,/u/waseem,5
+5,2012-09-22 08:23:00 -0500,"/t/show,/t/ios",Show iOS devs: PSTCollectionView - API compatible replacement of UICollectionView (iOS6) for iOS4.3+,https://github.com/steipete/PSTCollectionView,/u/MSch,4
+0,2012-09-21 22:53:16 -0500,"/t/c,/t/release",How to code debuggers,http://t-a-w.blogspot.co.uk/2007/03/how-to-code-debuggers.html,/u/steveklabnik,5
+0,2012-09-22 03:24:43 -0500,"/t/browsers,/t/networking,/t/security",CRIME,http://www.imperialviolet.org/2012/09/21/crime.html,/u/dekz,2
+3,2012-09-21 16:18:34 -0500,"/t/databases,/t/ruby",Querying PostgreSQL datatypes in ActiveRecord with postgres_ext,http://reefpoints.dockyard.com/ruby/2012/09/21/querying-postgresql-datatypes-in-active-record-with-postgres_ext.html,/u/craigkerstiens,5
+2,2012-09-21 16:04:27 -0500,"/t/release,/t/web",Easier builds and deployments using Git over HTTPS and OAuth · GitHub,https://github.com/blog/1270-easier-builds-and-deployments-using-git-over-https-and-oauth,/u/virtualroot,5
+2,2012-09-21 16:16:14 -0500,"/t/browsers,/t/ruby",Why Sinatra's Halt is Awesome,http://myronmars.to/n/dev-blog/2012/01/why-sinatras-halt-is-awesome,/u/virtualroot,5
+1,2012-09-21 13:54:38 -0500,"/t/release,/t/ruby,/t/web",WyeWorks Blog: Rails 4 in a MindNode,http://blog.wyeworks.com/2012/9/20/rails-4-in-a-mindnode/,/u/spastorino,6
+1,2012-09-21 12:13:38 -0500,"/t/databases,/t/devops,/t/scaling",Handling Database Failover at Craigslist,http://blog.zawodny.com/2012/09/18/handling-database-failover-at-craigslist/,/u/jcs,6
+1,2012-09-21 10:46:41 -0500,/t/hardware,How to build your own dedicated Pandora radio,http://hackaday.com/2012/09/20/how-to-build-your-own-dedicated-pandora-radio/,/u/tobym,6

@@ -1,25 +1,25 @@
-0,2017-10-29 10:27:30 -0500,"['/t/design', '/t/hardware']",Portable cathedrals (2011),https://www.domusweb.it/en/design/2011/12/15/portable-cathedrals.html,/u/jackivan88,0
-4,2017-10-28 11:43:52 -0500,['/t/devops'],Docker's first aid for software developers,https://fillmem.com/post/docker-tips-software-developers/,/u/gsempe,3
-0,2017-10-28 02:33:23 -0500,['/t/privacy'],The New York Times is Now Available as a Tor Onion Service,https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482,/u/av,26
-0,2017-10-28 11:42:56 -0500,"['/t/compilers', '/t/haskell', '/t/lisp']",A space of their own: adding a type namespace to Hackett,http://lexi-lambda.github.io/blog/2017/10/27/a-space-of-their-own-adding-a-type-namespace-to-hackett,/u/apg,9
-0,2017-10-28 11:37:33 -0500,"['/t/pdf', '/t/formalmethods', '/t/security']","""Wherein existing techniques for building secure systems are examined and found wanting"" (2000)",http://www.cypherpunks.to/~peter/04_verif_techniques.pdf,/u/hwayne,9
-1,2017-10-28 10:55:00 -0500,"['/t/haskell', '/t/programming']",Motor: Finite-State Machines in Haskell,https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html,/u/NinjaTrappeur,8
-0,2017-10-28 06:46:12 -0500,['/t/elixir'],Pleroma: Mastodon API-compatible OStatus implementation in Elixir,https://git.pleroma.social/pleroma/pleroma,/u/feld,12
-0,2017-10-28 11:49:10 -0500,"['/t/hardware', '/t/netbsd']",How to use bta2dpd(8) with Bluetooth headphone under NetBSD-current,http://blog.onodera.asia/2017/10/how-to-use-bta2dpd8-with-bluetooth.html,/u/sevan,6
-1,2017-10-28 14:58:48 -0500,['/t/networking'],Discovering issues in HTTP/2 with Chaos Testing,https://www.twilio.com/blog/2017/10/http2-issues.html,/u/kb,3
-0,2017-10-28 19:49:08 -0500,"['/t/pdf', '/t/security']",Stack Bounds Protection with Low Fat Pointers,http://www.comp.nus.edu.sg/~tsunami/papers/stack-ndss17.pdf,/u/fro,2
-1,2017-10-28 11:30:28 -0500,"['/t/pdf', '/t/compsci', '/t/performance']",The World's Fastest Scrabble Program (1988),https://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf,/u/pushcx,4
-11,2017-10-27 11:18:35 -0500,"['/t/pdf', '/t/linux', '/t/security']",Replace your exploit-ridden firmware with a Linux kernel,https://schd.ws/hosted_files/osseu17/84/Replace%20UEFI%20with%20Linux.pdf,/u/pizzaiolo,44
-0,2017-10-28 14:52:52 -0500,['/t/science'],A/2017 U1 - Interstellar asteroid,https://en.wikipedia.org/wiki/A/2017_U1,/u/kghose,3
-0,2017-10-28 11:32:44 -0500,"['/t/pdf', '/t/compsci', '/t/hardware', '/t/security']",Security Analysis of x86 Processor Microcode (2014),https://www.dcddcc.com/docs/2014_paper_microcode.pdf,/u/nickpsecurity,3
-1,2017-10-27 22:21:59 -0500,"['/t/book', '/t/practices', '/t/programming']",books chapter fifteen,http://www.tedunangst.com/flak/post/books-chapter-fifteen,/u/calvin,8
-17,2017-10-27 07:36:08 -0500,['/t/vcs'],Changeset Evolution with Mercurial,https://www.mercurial-scm.org/doc/evolution/,/u/ngoldbaum,24
-2,2017-10-27 11:16:14 -0500,['/t/law'],No net neutrality in Portugal leads to cable style market segments,https://twitter.com/rokhanna/status/923701871092441088,/u/vyodaiken,18
-0,2017-10-28 05:26:44 -0500,['/t/databases'],Cheating at a word game using SQL,http://www.sqlfluent.ninja/2017/10/cheating-at-word-game-using-sql.html,/u/unbalancedparentheses,3
-10,2017-10-27 10:18:04 -0500,"['/t/games', '/t/historical']",Why Adventure Games Suck,http://grumpygamer.com/why_adventure_games_suck,/u/djsumdog,13
-2,2017-10-27 06:41:19 -0500,['/t/practices'],Project from Hell (2008),https://projectfailures.wordpress.com/2008/06/24/project-from-hell/,/u/goodger,24
-17,2017-10-27 13:24:29 -0500,"['/t/go', '/t/satire']","A hilarious, not too serious collection of facts about Go",https://twitter.com/pasiphae_goals/status/923821586213457920,/u/soc,27
-1,2017-10-27 11:01:09 -0500,"['/t/api', '/t/databases']",Implementing Stripe-like Idempotency Keys in Postgres,https://brandur.org/idempotency-keys,/u/pushcx,15
-26,2017-10-27 03:04:33 -0500,"['/t/devops', '/t/practices', '/t/vcs']",Stop Using Git Pull To Deploy (2014),https://grimoire.ca/git/stop-using-git-pull-to-deploy,/u/mjturner,19
-3,2017-10-28 18:36:35 -0500,['/t/satire'],Engineers Explained,http://www.pcuf.fi/~pjt/pink/engineers.html,/u/jackivan88,0
-0,2017-10-28 03:26:28 -0500,['/t/programming'],Codestrates: Literate Computing with Webstrates,http://codestrates.org/,/u/lainon,1
+0,2017-10-29 10:27:30 -0500,"/t/design,/t/hardware",Portable cathedrals (2011),https://www.domusweb.it/en/design/2011/12/15/portable-cathedrals.html,/u/jackivan88,0
+4,2017-10-28 11:43:52 -0500,/t/devops,Docker's first aid for software developers,https://fillmem.com/post/docker-tips-software-developers/,/u/gsempe,3
+0,2017-10-28 02:33:23 -0500,/t/privacy,The New York Times is Now Available as a Tor Onion Service,https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482,/u/av,26
+0,2017-10-28 11:42:56 -0500,"/t/compilers,/t/haskell,/t/lisp",A space of their own: adding a type namespace to Hackett,http://lexi-lambda.github.io/blog/2017/10/27/a-space-of-their-own-adding-a-type-namespace-to-hackett,/u/apg,9
+0,2017-10-28 11:37:33 -0500,"/t/pdf,/t/formalmethods,/t/security","""Wherein existing techniques for building secure systems are examined and found wanting"" (2000)",http://www.cypherpunks.to/~peter/04_verif_techniques.pdf,/u/hwayne,9
+1,2017-10-28 10:55:00 -0500,"/t/haskell,/t/programming",Motor: Finite-State Machines in Haskell,https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html,/u/NinjaTrappeur,8
+0,2017-10-28 06:46:12 -0500,/t/elixir,Pleroma: Mastodon API-compatible OStatus implementation in Elixir,https://git.pleroma.social/pleroma/pleroma,/u/feld,12
+0,2017-10-28 11:49:10 -0500,"/t/hardware,/t/netbsd",How to use bta2dpd(8) with Bluetooth headphone under NetBSD-current,http://blog.onodera.asia/2017/10/how-to-use-bta2dpd8-with-bluetooth.html,/u/sevan,6
+1,2017-10-28 14:58:48 -0500,/t/networking,Discovering issues in HTTP/2 with Chaos Testing,https://www.twilio.com/blog/2017/10/http2-issues.html,/u/kb,3
+0,2017-10-28 19:49:08 -0500,"/t/pdf,/t/security",Stack Bounds Protection with Low Fat Pointers,http://www.comp.nus.edu.sg/~tsunami/papers/stack-ndss17.pdf,/u/fro,2
+1,2017-10-28 11:30:28 -0500,"/t/pdf,/t/compsci,/t/performance",The World's Fastest Scrabble Program (1988),https://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf,/u/pushcx,4
+11,2017-10-27 11:18:35 -0500,"/t/pdf,/t/linux,/t/security",Replace your exploit-ridden firmware with a Linux kernel,https://schd.ws/hosted_files/osseu17/84/Replace%20UEFI%20with%20Linux.pdf,/u/pizzaiolo,44
+0,2017-10-28 14:52:52 -0500,/t/science,A/2017 U1 - Interstellar asteroid,https://en.wikipedia.org/wiki/A/2017_U1,/u/kghose,3
+0,2017-10-28 11:32:44 -0500,"/t/pdf,/t/compsci,/t/hardware,/t/security",Security Analysis of x86 Processor Microcode (2014),https://www.dcddcc.com/docs/2014_paper_microcode.pdf,/u/nickpsecurity,3
+1,2017-10-27 22:21:59 -0500,"/t/book,/t/practices,/t/programming",books chapter fifteen,http://www.tedunangst.com/flak/post/books-chapter-fifteen,/u/calvin,8
+17,2017-10-27 07:36:08 -0500,/t/vcs,Changeset Evolution with Mercurial,https://www.mercurial-scm.org/doc/evolution/,/u/ngoldbaum,24
+2,2017-10-27 11:16:14 -0500,/t/law,No net neutrality in Portugal leads to cable style market segments,https://twitter.com/rokhanna/status/923701871092441088,/u/vyodaiken,18
+0,2017-10-28 05:26:44 -0500,/t/databases,Cheating at a word game using SQL,http://www.sqlfluent.ninja/2017/10/cheating-at-word-game-using-sql.html,/u/unbalancedparentheses,3
+10,2017-10-27 10:18:04 -0500,"/t/games,/t/historical",Why Adventure Games Suck,http://grumpygamer.com/why_adventure_games_suck,/u/djsumdog,13
+2,2017-10-27 06:41:19 -0500,/t/practices,Project from Hell (2008),https://projectfailures.wordpress.com/2008/06/24/project-from-hell/,/u/goodger,24
+17,2017-10-27 13:24:29 -0500,"/t/go,/t/satire","A hilarious, not too serious collection of facts about Go",https://twitter.com/pasiphae_goals/status/923821586213457920,/u/soc,27
+1,2017-10-27 11:01:09 -0500,"/t/api,/t/databases",Implementing Stripe-like Idempotency Keys in Postgres,https://brandur.org/idempotency-keys,/u/pushcx,15
+26,2017-10-27 03:04:33 -0500,"/t/devops,/t/practices,/t/vcs",Stop Using Git Pull To Deploy (2014),https://grimoire.ca/git/stop-using-git-pull-to-deploy,/u/mjturner,19
+3,2017-10-28 18:36:35 -0500,/t/satire,Engineers Explained,http://www.pcuf.fi/~pjt/pink/engineers.html,/u/jackivan88,0
+0,2017-10-28 03:26:28 -0500,/t/programming,Codestrates: Literate Computing with Webstrates,http://codestrates.org/,/u/lainon,1

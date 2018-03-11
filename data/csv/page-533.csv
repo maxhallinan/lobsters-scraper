@@ -1,25 +1,25 @@
-1,2017-01-12 21:34:07 -0600,['/t/compilers'],GCC is C++17 Complete,https://gcc.gnu.org/projects/cxx-status.html#cxx1z,/u/av,5
-33,2017-01-12 03:37:27 -0600,['/t/ruby'],Why I don't think Ruby is great,https://gist.github.com/anonymous/f904d724aefd87e3ae5c8b695c987f22,/u/fredrik,23
-7,2017-01-12 08:52:04 -0600,"['/t/rust', '/t/vcs']",Pijul - First usable Pijul,http://pijul.org/2017/01/10/first-working-pijul.html,/u/balrogboogie,13
-1,2017-01-13 15:57:59 -0600,['/t/programming'],Types and Tests,http://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html,/u/hypepat,0
-1,2017-01-12 20:06:12 -0600,"['/t/games', '/t/reversing']",Disassembling Jak & Daxter,http://www.codersnotes.com/notes/disassembling-jak/,/u/calvin,5
-0,2017-01-13 07:38:25 -0600,"['/t/ask', '/t/job']","Looking for a Senior AWS Systems Engineer in Durham, NC",http://solarwinds.jobs/durham-nc/senior-aws-systems-engineer/866A1F89D368408CB7F6F774409D961A/job/,/u/ChrisShort,2
-2,2017-01-12 13:24:49 -0600,"['/t/distributed', '/t/web']",Webmention is a W3C Recommendation,https://www.w3.org/blog/news/archives/6052,/u/voxpelli,9
-0,2017-01-12 16:24:46 -0600,"['/t/compilers', '/t/release']",GCC Port for RISC-V,https://gcc.gnu.org/ml/gcc-patches/2017-01/msg00776.html,/u/chadski,7
-0,2017-01-12 21:40:22 -0600,"['/t/cogsci', '/t/lua']",OpenNMT: Open-Source Neural Machine Translation,https://github.com/OpenNMT/OpenNMT,/u/av,3
-13,2017-01-11 17:51:25 -0600,"['/t/emacs', '/t/rust']",Announcing Remacs: Porting Emacs to Rust,http://www.wilfred.me.uk/blog/2017/01/11/announcing-remacs-porting-emacs-to-rust/,/u/zem,37
-1,2017-01-12 21:15:54 -0600,"['/t/pdf', '/t/book', '/t/compsci', '/t/math', '/t/programming']",Semantics With Applications: A Formal Introduction (1999),http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf,/u/nickpsecurity,3
-0,2017-01-12 07:20:13 -0600,"['/t/api', '/t/lisp', '/t/programming']",How we built the foundations of Finnish national Netflix with microservices,https://www.reaktor.com/blog/a-story-of-a-microservice/,/u/pva,6
-0,2017-01-12 10:24:13 -0600,"['/t/pdf', '/t/security']",An Evil Copy: How the Loader Betrays You,https://nebelwelt.net/publications/files/17NDSS.pdf,/u/lattera,11
-1,2017-01-12 14:36:14 -0600,"['/t/crypto', '/t/security']","Google releases Key Transparency, an auditable directory for PGP keys",https://github.com/google/key-transparency,/u/utzig,5
-3,2017-01-12 11:00:20 -0600,"['/t/pdf', '/t/compsci', '/t/programming']",Abstract State Machines Method for High-level System Design and Analysis (2007),http://www.di.unipi.it/~boerger/Papers/Methodology/BcsFacs07.pdf,/u/nickpsecurity,8
-2,2017-01-12 12:26:34 -0600,['/t/css'],New Feature: caret-color,https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color,/u/flyingfisch,5
-0,2017-01-12 21:41:20 -0600,['/t/dotnet'],What lies beneath async/await in C# ?,http://foreverframe.pl/what-lies-beneath-asyncawait-in-c/,/u/av,2
-2,2017-01-12 09:54:06 -0600,['/t/ruby'],How I fixed my biggest mistake with implementing Rails background jobs,https://www.saturnflyer.com/blog/working-later-bridging-your-code-with-the-background,/u/saturnflyer,3
-0,2017-01-12 20:55:58 -0600,"['/t/compsci', '/t/programming', '/t/testing']",The Schiaparelli Lesson – Unusual and Faulty Conditions | Intel® Software,https://software.intel.com/en-us/blogs/2017/01/11/the-schiaparelli-lesson-unusual-and-faulty-conditions,/u/kartik,2
-0,2017-01-12 19:53:05 -0600,"['/t/go', '/t/programming']",JetBrains Gogland: Up and Coming Go IDE,https://www.jetbrains.com/go/,/u/hypepat,2
-1,2017-01-12 08:15:35 -0600,"['/t/design', '/t/programming']",The importance of reification in software development,https://www.oreilly.com/ideas/the-importance-of-reification-in-software-development,/u/practicingruby,3
-0,2017-01-12 16:46:38 -0600,"['/t/programming', '/t/web']",Fast and painless application configuration,https://precompile.com/2017/01/12/fast-painless-application-configuration.html,/u/dirk,1
-18,2017-01-11 11:21:32 -0600,"['/t/linux', '/t/unix']",The reason why I can’t use GNU/Linux (for now),https://medium.com/@mratmartinez/the-reason-why-i-cant-use-gnu-linux-for-now-918bc8225eea,/u/Mrat,19
-10,2017-01-11 07:17:12 -0600,['/t/unix'],dd is not a disk writing tool,http://www.vidarholen.net/contents/blog/?p=479,/u/benzimmer,47
-0,2017-01-11 20:45:40 -0600,['/t/go'],Writing Advanced Web Applications with Go,http://www.jtolds.com/writing/2017/01/writing-advanced-web-applications-with-go/,/u/jtolds,11
+1,2017-01-12 21:34:07 -0600,/t/compilers,GCC is C++17 Complete,https://gcc.gnu.org/projects/cxx-status.html#cxx1z,/u/av,5
+33,2017-01-12 03:37:27 -0600,/t/ruby,Why I don't think Ruby is great,https://gist.github.com/anonymous/f904d724aefd87e3ae5c8b695c987f22,/u/fredrik,23
+7,2017-01-12 08:52:04 -0600,"/t/rust,/t/vcs",Pijul - First usable Pijul,http://pijul.org/2017/01/10/first-working-pijul.html,/u/balrogboogie,13
+1,2017-01-13 15:57:59 -0600,/t/programming,Types and Tests,http://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html,/u/hypepat,0
+1,2017-01-12 20:06:12 -0600,"/t/games,/t/reversing",Disassembling Jak & Daxter,http://www.codersnotes.com/notes/disassembling-jak/,/u/calvin,5
+0,2017-01-13 07:38:25 -0600,"/t/ask,/t/job","Looking for a Senior AWS Systems Engineer in Durham, NC",http://solarwinds.jobs/durham-nc/senior-aws-systems-engineer/866A1F89D368408CB7F6F774409D961A/job/,/u/ChrisShort,2
+2,2017-01-12 13:24:49 -0600,"/t/distributed,/t/web",Webmention is a W3C Recommendation,https://www.w3.org/blog/news/archives/6052,/u/voxpelli,9
+0,2017-01-12 16:24:46 -0600,"/t/compilers,/t/release",GCC Port for RISC-V,https://gcc.gnu.org/ml/gcc-patches/2017-01/msg00776.html,/u/chadski,7
+0,2017-01-12 21:40:22 -0600,"/t/cogsci,/t/lua",OpenNMT: Open-Source Neural Machine Translation,https://github.com/OpenNMT/OpenNMT,/u/av,3
+13,2017-01-11 17:51:25 -0600,"/t/emacs,/t/rust",Announcing Remacs: Porting Emacs to Rust,http://www.wilfred.me.uk/blog/2017/01/11/announcing-remacs-porting-emacs-to-rust/,/u/zem,37
+1,2017-01-12 21:15:54 -0600,"/t/pdf,/t/book,/t/compsci,/t/math,/t/programming",Semantics With Applications: A Formal Introduction (1999),http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf,/u/nickpsecurity,3
+0,2017-01-12 07:20:13 -0600,"/t/api,/t/lisp,/t/programming",How we built the foundations of Finnish national Netflix with microservices,https://www.reaktor.com/blog/a-story-of-a-microservice/,/u/pva,6
+0,2017-01-12 10:24:13 -0600,"/t/pdf,/t/security",An Evil Copy: How the Loader Betrays You,https://nebelwelt.net/publications/files/17NDSS.pdf,/u/lattera,11
+1,2017-01-12 14:36:14 -0600,"/t/crypto,/t/security","Google releases Key Transparency, an auditable directory for PGP keys",https://github.com/google/key-transparency,/u/utzig,5
+3,2017-01-12 11:00:20 -0600,"/t/pdf,/t/compsci,/t/programming",Abstract State Machines Method for High-level System Design and Analysis (2007),http://www.di.unipi.it/~boerger/Papers/Methodology/BcsFacs07.pdf,/u/nickpsecurity,8
+2,2017-01-12 12:26:34 -0600,/t/css,New Feature: caret-color,https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color,/u/flyingfisch,5
+0,2017-01-12 21:41:20 -0600,/t/dotnet,What lies beneath async/await in C# ?,http://foreverframe.pl/what-lies-beneath-asyncawait-in-c/,/u/av,2
+2,2017-01-12 09:54:06 -0600,/t/ruby,How I fixed my biggest mistake with implementing Rails background jobs,https://www.saturnflyer.com/blog/working-later-bridging-your-code-with-the-background,/u/saturnflyer,3
+0,2017-01-12 20:55:58 -0600,"/t/compsci,/t/programming,/t/testing",The Schiaparelli Lesson – Unusual and Faulty Conditions | Intel® Software,https://software.intel.com/en-us/blogs/2017/01/11/the-schiaparelli-lesson-unusual-and-faulty-conditions,/u/kartik,2
+0,2017-01-12 19:53:05 -0600,"/t/go,/t/programming",JetBrains Gogland: Up and Coming Go IDE,https://www.jetbrains.com/go/,/u/hypepat,2
+1,2017-01-12 08:15:35 -0600,"/t/design,/t/programming",The importance of reification in software development,https://www.oreilly.com/ideas/the-importance-of-reification-in-software-development,/u/practicingruby,3
+0,2017-01-12 16:46:38 -0600,"/t/programming,/t/web",Fast and painless application configuration,https://precompile.com/2017/01/12/fast-painless-application-configuration.html,/u/dirk,1
+18,2017-01-11 11:21:32 -0600,"/t/linux,/t/unix",The reason why I can’t use GNU/Linux (for now),https://medium.com/@mratmartinez/the-reason-why-i-cant-use-gnu-linux-for-now-918bc8225eea,/u/Mrat,19
+10,2017-01-11 07:17:12 -0600,/t/unix,dd is not a disk writing tool,http://www.vidarholen.net/contents/blog/?p=479,/u/benzimmer,47
+0,2017-01-11 20:45:40 -0600,/t/go,Writing Advanced Web Applications with Go,http://www.jtolds.com/writing/2017/01/writing-advanced-web-applications-with-go/,/u/jtolds,11

@@ -1,25 +1,25 @@
-0,2016-05-11 16:50:12 -0500,"['/t/browsers', '/t/security']",Five CVE's patched in March 11th Chrome stable release,http://googlechromereleases.blogspot.com/2016/05/stable-channel-update.html,/u/kel,5
-15,2016-05-10 09:55:12 -0500,"['/t/programming', '/t/release', '/t/vcs']","BitKeeper: Enterprise-ready version control, now open-source",https://www.bitkeeper.org,/u/wscott,33
-0,2016-05-11 12:27:52 -0500,['/t/databases'],Redis Loadable Modules System,http://www.antirez.com/news/106,/u/apy,6
-0,2016-05-11 11:53:51 -0500,['/t/debugging'],Symbolic Debugging With DWARF (video and PDF),http://backtrace.io/blog/blog/2016/05/09/symbolic-debugging-with-dwarf,/u/sbahra,3
-18,2016-05-10 16:58:46 -0500,"['/t/networking', '/t/web']",HTTP Is The New Lisp,https://www.pandastrike.com/posts/20160509-http-is-the-new-lisp,/u/pushcx,25
-0,2016-05-12 06:01:22 -0500,['/t/dotnet'],"ASP.NET Core retires ""project.json,"" moves back to MSBuild",https://twitter.com/davidfowl/status/730219570783363073,/u/calvin,0
-0,2016-05-11 07:03:24 -0500,['/t/programming'],Exploring actors in Pony,https://bluishcoder.co.nz/2016/05/11/exploring-actors-in-pony.html,/u/doublec,5
-1,2016-05-11 10:27:37 -0500,"['/t/devops', '/t/release']",Grafana 3.0 Stable Released,http://grafana.org/blog/2016/05/11/grafana-3-0-stable-released.html,/u/napkindrawing,6
-0,2016-05-11 17:55:15 -0500,"['/t/video', '/t/distributed']",Distributed Systems in Production (2014),http://www.infoq.com/presentations/distributed-systems-production,/u/apg,2
-2,2016-05-11 01:19:55 -0500,"['/t/slides', '/t/scala']",Odersky: Scala – The Road Ahead,http://www.slideshare.net/Odersky/scala-days-nyc-2016,/u/soc,14
-1,2016-05-11 05:41:02 -0500,"['/t/release', '/t/security']",routersploit,https://github.com/reverse-shell/routersploit,/u/mulander,7
-4,2016-05-10 09:56:21 -0500,"['/t/elm', '/t/javascript', '/t/ml', '/t/programming']",Elm - A Farewell to FRP,http://elm-lang.org/blog/farewell-to-frp,/u/bogdan,56
-0,2016-05-11 10:12:26 -0500,"['/t/java', '/t/security']",Security update for IntelliJ-based IDEs v2016.1 and older versions,http://blog.jetbrains.com/blog/2016/05/11/security-update-for-intellij-based-ides-v2016-1-and-older-versions/,/u/gadams,4
-1,2016-05-11 09:27:13 -0500,['/t/databases'],How To Make Fossils Productive Again,http://www.bailis.org/blog/how-to-make-fossils-productive-again/,/u/apy,4
-21,2016-05-10 12:14:34 -0500,"['/t/crypto', '/t/privacy', '/t/scaling']",Reflections: The ecosystem is moving,https://whispersystems.org/blog/the-ecosystem-is-moving/,/u/untitaker,21
-0,2016-05-10 12:26:42 -0500,['/t/c'],Teaching C,http://blog.regehr.org/archives/1393,/u/kyle,35
-9,2016-05-10 12:12:32 -0500,"['/t/finance', '/t/ios', '/t/privacy']",Apple’s actual role in podcasting: be careful what you wish for,https://marco.org/2016/05/07/apple-role-in-podcasting,/u/tedu,18
-0,2016-05-11 10:13:37 -0500,['/t/culture'],Please don’t learn to code,http://techcrunch.com/2016/05/10/please-dont-learn-to-code/,/u/zg,5
-3,2016-05-10 15:38:38 -0500,"['/t/android', '/t/linux', '/t/security']",This is what a root debug backdoor in a Linux kernel looks like,http://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/,/u/mulander,13
-3,2016-05-10 19:19:04 -0500,"['/t/javascript', '/t/security']",Use system random generator in crypto · Issue #5798 · nodejs/node,https://github.com/nodejs/node/issues/5798,/u/qbit,4
-0,2016-05-11 04:55:10 -0500,"['/t/linux', '/t/testing']",Parallel testing multiple versions of ImageMagick,http://blog.garage-coding.com/2016/05/10/parallel-testing-multiple-versions.html,/u/wsdookadr,1
-1,2016-05-10 10:30:43 -0500,"['/t/games', '/t/release']",Dota2 AI Framework,https://github.com/lightbringer/dota2ai,/u/mjn,18
-0,2016-05-10 22:51:58 -0500,"['/t/hardware', '/t/release']",MicroPython 1.8 released (with ESP8266 Port),https://github.com/micropython/micropython/releases/tag/v1.8,/u/av,4
-3,2016-05-10 10:32:39 -0500,"['/t/pdf', '/t/book', '/t/compsci']",Aho/Ullman Foundations of Computer Science,http://infolab.stanford.edu/~ullman/focs.html,/u/vfoley,12
-2,2016-05-10 10:02:23 -0500,"['/t/android', '/t/java', '/t/law']",Jury is picked for $9 billion Oracle v. Google showdown,http://arstechnica.com/tech-policy/2016/05/jury-is-picked-for-9-billion-oracle-v-google-showdown/,/u/calvin,11
+0,2016-05-11 16:50:12 -0500,"/t/browsers,/t/security",Five CVE's patched in March 11th Chrome stable release,http://googlechromereleases.blogspot.com/2016/05/stable-channel-update.html,/u/kel,5
+15,2016-05-10 09:55:12 -0500,"/t/programming,/t/release,/t/vcs","BitKeeper: Enterprise-ready version control, now open-source",https://www.bitkeeper.org,/u/wscott,33
+0,2016-05-11 12:27:52 -0500,/t/databases,Redis Loadable Modules System,http://www.antirez.com/news/106,/u/apy,6
+0,2016-05-11 11:53:51 -0500,/t/debugging,Symbolic Debugging With DWARF (video and PDF),http://backtrace.io/blog/blog/2016/05/09/symbolic-debugging-with-dwarf,/u/sbahra,3
+18,2016-05-10 16:58:46 -0500,"/t/networking,/t/web",HTTP Is The New Lisp,https://www.pandastrike.com/posts/20160509-http-is-the-new-lisp,/u/pushcx,25
+0,2016-05-12 06:01:22 -0500,/t/dotnet,"ASP.NET Core retires ""project.json,"" moves back to MSBuild",https://twitter.com/davidfowl/status/730219570783363073,/u/calvin,0
+0,2016-05-11 07:03:24 -0500,/t/programming,Exploring actors in Pony,https://bluishcoder.co.nz/2016/05/11/exploring-actors-in-pony.html,/u/doublec,5
+1,2016-05-11 10:27:37 -0500,"/t/devops,/t/release",Grafana 3.0 Stable Released,http://grafana.org/blog/2016/05/11/grafana-3-0-stable-released.html,/u/napkindrawing,6
+0,2016-05-11 17:55:15 -0500,"/t/video,/t/distributed",Distributed Systems in Production (2014),http://www.infoq.com/presentations/distributed-systems-production,/u/apg,2
+2,2016-05-11 01:19:55 -0500,"/t/slides,/t/scala",Odersky: Scala – The Road Ahead,http://www.slideshare.net/Odersky/scala-days-nyc-2016,/u/soc,14
+1,2016-05-11 05:41:02 -0500,"/t/release,/t/security",routersploit,https://github.com/reverse-shell/routersploit,/u/mulander,7
+4,2016-05-10 09:56:21 -0500,"/t/elm,/t/javascript,/t/ml,/t/programming",Elm - A Farewell to FRP,http://elm-lang.org/blog/farewell-to-frp,/u/bogdan,56
+0,2016-05-11 10:12:26 -0500,"/t/java,/t/security",Security update for IntelliJ-based IDEs v2016.1 and older versions,http://blog.jetbrains.com/blog/2016/05/11/security-update-for-intellij-based-ides-v2016-1-and-older-versions/,/u/gadams,4
+1,2016-05-11 09:27:13 -0500,/t/databases,How To Make Fossils Productive Again,http://www.bailis.org/blog/how-to-make-fossils-productive-again/,/u/apy,4
+21,2016-05-10 12:14:34 -0500,"/t/crypto,/t/privacy,/t/scaling",Reflections: The ecosystem is moving,https://whispersystems.org/blog/the-ecosystem-is-moving/,/u/untitaker,21
+0,2016-05-10 12:26:42 -0500,/t/c,Teaching C,http://blog.regehr.org/archives/1393,/u/kyle,35
+9,2016-05-10 12:12:32 -0500,"/t/finance,/t/ios,/t/privacy",Apple’s actual role in podcasting: be careful what you wish for,https://marco.org/2016/05/07/apple-role-in-podcasting,/u/tedu,18
+0,2016-05-11 10:13:37 -0500,/t/culture,Please don’t learn to code,http://techcrunch.com/2016/05/10/please-dont-learn-to-code/,/u/zg,5
+3,2016-05-10 15:38:38 -0500,"/t/android,/t/linux,/t/security",This is what a root debug backdoor in a Linux kernel looks like,http://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/,/u/mulander,13
+3,2016-05-10 19:19:04 -0500,"/t/javascript,/t/security",Use system random generator in crypto · Issue #5798 · nodejs/node,https://github.com/nodejs/node/issues/5798,/u/qbit,4
+0,2016-05-11 04:55:10 -0500,"/t/linux,/t/testing",Parallel testing multiple versions of ImageMagick,http://blog.garage-coding.com/2016/05/10/parallel-testing-multiple-versions.html,/u/wsdookadr,1
+1,2016-05-10 10:30:43 -0500,"/t/games,/t/release",Dota2 AI Framework,https://github.com/lightbringer/dota2ai,/u/mjn,18
+0,2016-05-10 22:51:58 -0500,"/t/hardware,/t/release",MicroPython 1.8 released (with ESP8266 Port),https://github.com/micropython/micropython/releases/tag/v1.8,/u/av,4
+3,2016-05-10 10:32:39 -0500,"/t/pdf,/t/book,/t/compsci",Aho/Ullman Foundations of Computer Science,http://infolab.stanford.edu/~ullman/focs.html,/u/vfoley,12
+2,2016-05-10 10:02:23 -0500,"/t/android,/t/java,/t/law",Jury is picked for $9 billion Oracle v. Google showdown,http://arstechnica.com/tech-policy/2016/05/jury-is-picked-for-9-billion-oracle-v-google-showdown/,/u/calvin,11

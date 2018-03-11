@@ -1,25 +1,25 @@
-0,2012-12-18 09:10:21 -0600,"['/t/news', '/t/privacy']",Instagram's new legalese pisses off users,http://boingboing.net/2012/12/18/instagrams-new-legalese-piss.html,/u/wally,3
-0,2012-12-18 11:44:25 -0600,"['/t/show', '/t/web']",GitHub Game Off Winners,https://github.com/blog/1337-github-game-off-winners,/u/vladikoff,2
-3,2012-12-17 22:40:21 -0600,['/t/practices'],Chat Trumps Meetings,http://zachholman.com/posts/chat/,/u/conroy,8
-0,2012-12-18 10:02:29 -0600,['/t/web'],UC Berkeley Course Lectures: Analyzing Big Data With Twitter,http://blogs.ischool.berkeley.edu/i290-abdt-s12/2012/12/13/uc-berkeley-course-lectures-analyzing-big-data-with-twitter/,/u/vladikoff,2
-0,2012-12-18 09:20:55 -0600,"['/t/mac', '/t/release']",Boxer 1.4 emulates a 24-pin dot matrix parallel printer,http://boxerapp.com/blog/2012/11/12/pc-load-letter/,/u/jcs,2
-0,2012-12-18 01:26:40 -0600,['/t/javascript'],How to unit test AJAX Requests with QUnit and Sinon.JS,http://philfreo.com/blog/how-to-unit-test-ajax-requests-with-qunit-and-sinon-js/,/u/philfreo,2
-0,2012-12-17 11:39:35 -0600,"['/t/c', '/t/go']",Go for C programmers,http://talks.golang.org/2012/goforc.slide,/u/jcs,9
-0,2012-12-17 20:18:19 -0600,"['/t/compilers', '/t/python']",A Python Compiler for Big Data,http://continuum.io/blog/blaze,/u/vladikoff,2
-0,2012-12-17 11:07:51 -0600,"['/t/compsci', '/t/ruby']","Ruby, Smalltalk and Class Variables",http://patshaughnessy.net/2012/12/17/ruby-smalltalk-and-class-variables,/u/jcs,6
-0,2012-12-17 11:37:53 -0600,"['/t/privacy', '/t/web']",New Developments in Deanonymization,http://33bits.org/2012/12/17/new-developments-in-deanonymization/,/u/jcs,4
-0,2012-12-17 09:45:47 -0600,"['/t/mobile', '/t/web']",Fastbook: the core Facebook experience rebuilt in HTML5,http://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story,/u/jerodsanto,5
-0,2012-12-17 19:45:02 -0600,"['/t/api', '/t/design']",Notes on the USE paradigm for API design,http://hjr3.tumblr.com/post/37753764586/notes-on-the-use-paradigm-for-api-design,/u/hjr3,1
-0,2012-12-17 19:07:09 -0600,"['/t/networking', '/t/ruby']",15 Tips For Building A Successful User Group,http://judd.lillestrand.com/posts/15-tips-for-building-a-successful-user-group,/u/judd,1
-6,2012-12-16 22:45:13 -0600,"['/t/linux', '/t/security']",Linux terminal keylogger in userspace,http://average-coder.blogspot.com.ar/2012/02/linux-terminal-keylogger.html,/u/kyle,4
-0,2012-12-17 05:00:44 -0600,"['/t/javascript', '/t/visualization']",Interactive D3 Tutorial,http://vogievetsky.github.com/IntroD3/#1,/u/markprovan,3
-0,2012-12-16 13:15:51 -0600,"['/t/openbsd', '/t/release']",OpenSMTPD support for LDAP and DKIM,https://poolp.org/0x765d/OpenSMTPD:-LDAP-support-selectable-source--DKIM-and-Goodies,/u/lynge,7
-3,2012-12-16 12:12:35 -0600,"['/t/android', '/t/security']",Root exploit on Exynos,http://forum.xda-developers.com/showthread.php?p=35469999,/u/kyle,4
-3,2012-12-16 01:34:12 -0600,"['/t/release', '/t/web']",Pick Your Battles,http://zef.me/4235/pick-your-battles,/u/vladikoff,5
-0,2012-12-15 11:25:11 -0600,['/t/hardware'],Building my Own Laptop,http://www.bunniestudios.com/blog/?p=2686,/u/jcs,12
-7,2012-12-14 13:40:06 -0600,['/t/philosophy'],Dear Open Source Project Leader: Quit Being A Jerk,http://lostechies.com/derickbailey/2012/12/14/dear-open-source-project-leader-quit-being-a-jerk/,/u/miles,7
-0,2012-12-14 10:43:55 -0600,['/t/javascript'],Coroutine Event Loops in Javascript,http://syzygy.st/javascript-coroutines/,/u/dansitu,3
-0,2012-12-14 00:26:19 -0600,"['/t/javascript', '/t/web']",Backbone.js 0.9.9 Released,http://backbonejs.org/#upgrading,/u/philfreo,8
-0,2012-12-14 09:21:55 -0600,"['/t/hardware', '/t/security']","How to bring down mission-critical GPS networks with $2,500",http://arstechnica.com/security/2012/12/how-to-bring-down-mission-critical-gps-networks-with-2500/,/u/polyfractal,2
-2,2012-12-13 15:58:05 -0600,"['/t/design', '/t/news', '/t/web']",New Github Homepage,https://github.com/blog/1355-new-homepage,/u/pkhamre,7
-4,2012-12-13 17:13:37 -0600,"['/t/rant', '/t/web']",The Web We Lost,http://dashes.com/anil/2012/12/the-web-we-lost.html,/u/jcs,17
+0,2012-12-18 09:10:21 -0600,"/t/news,/t/privacy",Instagram's new legalese pisses off users,http://boingboing.net/2012/12/18/instagrams-new-legalese-piss.html,/u/wally,3
+0,2012-12-18 11:44:25 -0600,"/t/show,/t/web",GitHub Game Off Winners,https://github.com/blog/1337-github-game-off-winners,/u/vladikoff,2
+3,2012-12-17 22:40:21 -0600,/t/practices,Chat Trumps Meetings,http://zachholman.com/posts/chat/,/u/conroy,8
+0,2012-12-18 10:02:29 -0600,/t/web,UC Berkeley Course Lectures: Analyzing Big Data With Twitter,http://blogs.ischool.berkeley.edu/i290-abdt-s12/2012/12/13/uc-berkeley-course-lectures-analyzing-big-data-with-twitter/,/u/vladikoff,2
+0,2012-12-18 09:20:55 -0600,"/t/mac,/t/release",Boxer 1.4 emulates a 24-pin dot matrix parallel printer,http://boxerapp.com/blog/2012/11/12/pc-load-letter/,/u/jcs,2
+0,2012-12-18 01:26:40 -0600,/t/javascript,How to unit test AJAX Requests with QUnit and Sinon.JS,http://philfreo.com/blog/how-to-unit-test-ajax-requests-with-qunit-and-sinon-js/,/u/philfreo,2
+0,2012-12-17 11:39:35 -0600,"/t/c,/t/go",Go for C programmers,http://talks.golang.org/2012/goforc.slide,/u/jcs,9
+0,2012-12-17 20:18:19 -0600,"/t/compilers,/t/python",A Python Compiler for Big Data,http://continuum.io/blog/blaze,/u/vladikoff,2
+0,2012-12-17 11:07:51 -0600,"/t/compsci,/t/ruby","Ruby, Smalltalk and Class Variables",http://patshaughnessy.net/2012/12/17/ruby-smalltalk-and-class-variables,/u/jcs,6
+0,2012-12-17 11:37:53 -0600,"/t/privacy,/t/web",New Developments in Deanonymization,http://33bits.org/2012/12/17/new-developments-in-deanonymization/,/u/jcs,4
+0,2012-12-17 09:45:47 -0600,"/t/mobile,/t/web",Fastbook: the core Facebook experience rebuilt in HTML5,http://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story,/u/jerodsanto,5
+0,2012-12-17 19:45:02 -0600,"/t/api,/t/design",Notes on the USE paradigm for API design,http://hjr3.tumblr.com/post/37753764586/notes-on-the-use-paradigm-for-api-design,/u/hjr3,1
+0,2012-12-17 19:07:09 -0600,"/t/networking,/t/ruby",15 Tips For Building A Successful User Group,http://judd.lillestrand.com/posts/15-tips-for-building-a-successful-user-group,/u/judd,1
+6,2012-12-16 22:45:13 -0600,"/t/linux,/t/security",Linux terminal keylogger in userspace,http://average-coder.blogspot.com.ar/2012/02/linux-terminal-keylogger.html,/u/kyle,4
+0,2012-12-17 05:00:44 -0600,"/t/javascript,/t/visualization",Interactive D3 Tutorial,http://vogievetsky.github.com/IntroD3/#1,/u/markprovan,3
+0,2012-12-16 13:15:51 -0600,"/t/openbsd,/t/release",OpenSMTPD support for LDAP and DKIM,https://poolp.org/0x765d/OpenSMTPD:-LDAP-support-selectable-source--DKIM-and-Goodies,/u/lynge,7
+3,2012-12-16 12:12:35 -0600,"/t/android,/t/security",Root exploit on Exynos,http://forum.xda-developers.com/showthread.php?p=35469999,/u/kyle,4
+3,2012-12-16 01:34:12 -0600,"/t/release,/t/web",Pick Your Battles,http://zef.me/4235/pick-your-battles,/u/vladikoff,5
+0,2012-12-15 11:25:11 -0600,/t/hardware,Building my Own Laptop,http://www.bunniestudios.com/blog/?p=2686,/u/jcs,12
+7,2012-12-14 13:40:06 -0600,/t/philosophy,Dear Open Source Project Leader: Quit Being A Jerk,http://lostechies.com/derickbailey/2012/12/14/dear-open-source-project-leader-quit-being-a-jerk/,/u/miles,7
+0,2012-12-14 10:43:55 -0600,/t/javascript,Coroutine Event Loops in Javascript,http://syzygy.st/javascript-coroutines/,/u/dansitu,3
+0,2012-12-14 00:26:19 -0600,"/t/javascript,/t/web",Backbone.js 0.9.9 Released,http://backbonejs.org/#upgrading,/u/philfreo,8
+0,2012-12-14 09:21:55 -0600,"/t/hardware,/t/security","How to bring down mission-critical GPS networks with $2,500",http://arstechnica.com/security/2012/12/how-to-bring-down-mission-critical-gps-networks-with-2500/,/u/polyfractal,2
+2,2012-12-13 15:58:05 -0600,"/t/design,/t/news,/t/web",New Github Homepage,https://github.com/blog/1355-new-homepage,/u/pkhamre,7
+4,2012-12-13 17:13:37 -0600,"/t/rant,/t/web",The Web We Lost,http://dashes.com/anil/2012/12/the-web-we-lost.html,/u/jcs,17

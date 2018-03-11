@@ -1,25 +1,25 @@
-3,2015-10-09 18:30:24 -0500,"['/t/culture', '/t/person', '/t/privacy']",Facebook: I want out,https://medium.com/@violetblue/facebook-i-want-out-e1e891975531,/u/kaiju,23
-7,2015-10-09 09:56:46 -0500,"['/t/javascript', '/t/web']",Keeping Your npm Dependencies Immutable,http://ponyfoo.com/articles/immutable-npm-dependencies,/u/ponyfoo,8
-0,2015-10-10 07:38:00 -0500,['/t/practices'],Clef's Handbook,https://github.com/clef/handbook,/u/pushcx,2
-0,2015-10-10 04:16:29 -0500,['/t/javascript'],"Lazy, composable, and modular JavaScript",https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript,/u/zdx,1
-3,2015-10-09 09:25:36 -0500,['/t/c'],Object-oriented techniques in C,http://dmitryfrank.com/articles/oop_in_c,/u/dimonomid,10
-0,2015-10-09 10:52:05 -0500,"['/t/databases', '/t/practices']","In PostgreSQL, as in life, don't wait too long to commit",http://blog.lerner.co.il/in-postgresql-as-in-life-dont-wait-too-long-to-commit/,/u/friendlysock,17
-17,2015-10-09 09:37:56 -0500,"['/t/release', '/t/security', '/t/web']",LastPass Joins the LogMeIn Family,https://blog.lastpass.com/2015/10/lastpass-joins-logmein.html/,/u/pushcx,8
-2,2015-10-09 12:53:10 -0500,"['/t/databases', '/t/devops']",Outage postmortem (2015-10-08 UTC) : Stripe,https://support.stripe.com/questions/outage-postmortem-2015-10-08-utc,/u/antifuchs,8
-0,2015-10-09 08:24:43 -0500,"['/t/compilers', '/t/release']",Julia 0.4 Release Announcement,http://julialang.org/blog/2015/10/julia-0.4-release/,/u/pushcx,18
-9,2015-10-09 16:49:36 -0500,"['/t/practices', '/t/satire']","Getting a Job, a Short Story by Your Parents",https://www.vice.com/en_uk/read/getting-a-job-a-short-story-by-your-parents-172,/u/pushcx,9
-1,2015-10-09 13:52:08 -0500,"['/t/programming', '/t/rust']",Understanding Over Guesswork,http://hoverbear.org/2015/09/12/understand-over-guesswork/,/u/pushcx,5
-0,2015-10-09 13:50:27 -0500,"['/t/video', '/t/ruby', '/t/rust']",Rust for Rubyists,http://www.youtube.com/watch?v=NaIXIKVxg3M,/u/pushcx,6
-0,2015-10-09 13:04:59 -0500,"['/t/hardware', '/t/programming']",New DoorBot for the Recurse Center,https://shunyata.github.io/2015/10/08/its-alive/,/u/empty,3
-0,2015-10-09 08:29:59 -0500,['/t/vcs'],gitsh - An interactive shell for git,https://github.com/thoughtbot/gitsh,/u/flyingfisch,8
-0,2015-10-09 08:30:10 -0500,['/t/security'],SHA-1 Freestart Collision,https://www.schneier.com/blog/archives/2015/10/sha-1_freestart.html,/u/pushcx,7
-0,2015-10-09 14:36:04 -0500,['/t/devops'],"Building a Streaming Data Hub with Elasticsearch, Kafka and Cassandra",http://thenewstack.io/building-streaming-data-hub-elasticsearch-kafka-cassandra/,/u/PJ,3
-0,2015-10-09 11:56:22 -0500,['/t/science'],Protecting Mars from Earth Contamination,http://www.nytimes.com/2015/10/06/science/mars-catharine-conley-nasa-planetary-protection-officer.html,/u/pushcx,4
-13,2015-10-08 11:02:06 -0500,"['/t/finance', '/t/privacy']","Citizen Score, China's credit score system, is a warning for Americans",http://www.computerworld.com/article/2990203/security/aclu-orwellian-citizen-score-chinas-credit-score-system-is-a-warning-for-americans.html,/u/pushcx,17
-1,2015-10-08 21:26:45 -0500,"['/t/pdf', '/t/networking']",Delay Tolerant Networking,http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20130012049.pdf,/u/kghose,9
-2,2015-10-08 21:56:03 -0500,"['/t/video', '/t/hardware', '/t/reversing']",Demo: A fully open source flow for iCE40 FPGAs (using Project IceStorm),http://www.youtube.com/watch?v=yUiNlmvVOq8,/u/kragen,7
-10,2015-10-08 05:10:15 -0500,['/t/security'],freestart collisions for SHA-1,https://sites.google.com/site/itstheshappening/,/u/fcbsd,24
-3,2015-10-08 11:59:12 -0500,['/t/python'],How The Fuck works,https://nvbn.github.io/2015/10/08/how-thefuck-works/,/u/av,12
-5,2015-10-08 16:10:55 -0500,['/t/practices'],What We Got Wrong About Self-Management,https://open.bufferapp.com/self-management-hierarchy/,/u/pushcx,5
-1,2015-10-08 08:32:57 -0500,"['/t/c', '/t/programming']",How I Start: C++,http://howistart.org/posts/cpp/1,/u/tristan,21
-0,2015-10-08 21:17:35 -0500,['/t/science'],New Horizons Finds Blue Skies and Water Ice on Pluto,http://www.nasa.gov/nh/nh-finds-blue-skies-and-water-ice-on-pluto,/u/kghose,5
+3,2015-10-09 18:30:24 -0500,"/t/culture,/t/person,/t/privacy",Facebook: I want out,https://medium.com/@violetblue/facebook-i-want-out-e1e891975531,/u/kaiju,23
+7,2015-10-09 09:56:46 -0500,"/t/javascript,/t/web",Keeping Your npm Dependencies Immutable,http://ponyfoo.com/articles/immutable-npm-dependencies,/u/ponyfoo,8
+0,2015-10-10 07:38:00 -0500,/t/practices,Clef's Handbook,https://github.com/clef/handbook,/u/pushcx,2
+0,2015-10-10 04:16:29 -0500,/t/javascript,"Lazy, composable, and modular JavaScript",https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript,/u/zdx,1
+3,2015-10-09 09:25:36 -0500,/t/c,Object-oriented techniques in C,http://dmitryfrank.com/articles/oop_in_c,/u/dimonomid,10
+0,2015-10-09 10:52:05 -0500,"/t/databases,/t/practices","In PostgreSQL, as in life, don't wait too long to commit",http://blog.lerner.co.il/in-postgresql-as-in-life-dont-wait-too-long-to-commit/,/u/friendlysock,17
+17,2015-10-09 09:37:56 -0500,"/t/release,/t/security,/t/web",LastPass Joins the LogMeIn Family,https://blog.lastpass.com/2015/10/lastpass-joins-logmein.html/,/u/pushcx,8
+2,2015-10-09 12:53:10 -0500,"/t/databases,/t/devops",Outage postmortem (2015-10-08 UTC) : Stripe,https://support.stripe.com/questions/outage-postmortem-2015-10-08-utc,/u/antifuchs,8
+0,2015-10-09 08:24:43 -0500,"/t/compilers,/t/release",Julia 0.4 Release Announcement,http://julialang.org/blog/2015/10/julia-0.4-release/,/u/pushcx,18
+9,2015-10-09 16:49:36 -0500,"/t/practices,/t/satire","Getting a Job, a Short Story by Your Parents",https://www.vice.com/en_uk/read/getting-a-job-a-short-story-by-your-parents-172,/u/pushcx,9
+1,2015-10-09 13:52:08 -0500,"/t/programming,/t/rust",Understanding Over Guesswork,http://hoverbear.org/2015/09/12/understand-over-guesswork/,/u/pushcx,5
+0,2015-10-09 13:50:27 -0500,"/t/video,/t/ruby,/t/rust",Rust for Rubyists,http://www.youtube.com/watch?v=NaIXIKVxg3M,/u/pushcx,6
+0,2015-10-09 13:04:59 -0500,"/t/hardware,/t/programming",New DoorBot for the Recurse Center,https://shunyata.github.io/2015/10/08/its-alive/,/u/empty,3
+0,2015-10-09 08:29:59 -0500,/t/vcs,gitsh - An interactive shell for git,https://github.com/thoughtbot/gitsh,/u/flyingfisch,8
+0,2015-10-09 08:30:10 -0500,/t/security,SHA-1 Freestart Collision,https://www.schneier.com/blog/archives/2015/10/sha-1_freestart.html,/u/pushcx,7
+0,2015-10-09 14:36:04 -0500,/t/devops,"Building a Streaming Data Hub with Elasticsearch, Kafka and Cassandra",http://thenewstack.io/building-streaming-data-hub-elasticsearch-kafka-cassandra/,/u/PJ,3
+0,2015-10-09 11:56:22 -0500,/t/science,Protecting Mars from Earth Contamination,http://www.nytimes.com/2015/10/06/science/mars-catharine-conley-nasa-planetary-protection-officer.html,/u/pushcx,4
+13,2015-10-08 11:02:06 -0500,"/t/finance,/t/privacy","Citizen Score, China's credit score system, is a warning for Americans",http://www.computerworld.com/article/2990203/security/aclu-orwellian-citizen-score-chinas-credit-score-system-is-a-warning-for-americans.html,/u/pushcx,17
+1,2015-10-08 21:26:45 -0500,"/t/pdf,/t/networking",Delay Tolerant Networking,http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20130012049.pdf,/u/kghose,9
+2,2015-10-08 21:56:03 -0500,"/t/video,/t/hardware,/t/reversing",Demo: A fully open source flow for iCE40 FPGAs (using Project IceStorm),http://www.youtube.com/watch?v=yUiNlmvVOq8,/u/kragen,7
+10,2015-10-08 05:10:15 -0500,/t/security,freestart collisions for SHA-1,https://sites.google.com/site/itstheshappening/,/u/fcbsd,24
+3,2015-10-08 11:59:12 -0500,/t/python,How The Fuck works,https://nvbn.github.io/2015/10/08/how-thefuck-works/,/u/av,12
+5,2015-10-08 16:10:55 -0500,/t/practices,What We Got Wrong About Self-Management,https://open.bufferapp.com/self-management-hierarchy/,/u/pushcx,5
+1,2015-10-08 08:32:57 -0500,"/t/c,/t/programming",How I Start: C++,http://howistart.org/posts/cpp/1,/u/tristan,21
+0,2015-10-08 21:17:35 -0500,/t/science,New Horizons Finds Blue Skies and Water Ice on Pluto,http://www.nasa.gov/nh/nh-finds-blue-skies-and-water-ice-on-pluto,/u/kghose,5

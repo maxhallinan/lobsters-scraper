@@ -1,25 +1,25 @@
-7,2015-10-23 09:30:24 -0500,['/t/distributed'],Swarm v. Fleet v. Kubernetes v. Mesos,http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html,/u/pyk,7
-10,2015-10-22 13:52:38 -0500,"['/t/browsers', '/t/web']","<input> I ♡ you, but you're bringing me down",http://meowni.ca/posts/a-story-about-input/,/u/pushcx,41
-0,2015-10-23 22:13:19 -0500,"['/t/cogsci', '/t/compsci']",Obstacles On the path to AI (LeCun),https://drive.google.com/file/d/0BxKBnD5y2M8NbWN6XzM5UXkwNDA/view?pli=1,/u/joe_the_user,1
-0,2015-10-23 15:13:35 -0500,"['/t/video', '/t/python', '/t/reversing', '/t/security']",Python in a hacker's toolbox,http://www.youtube.com/watch?v=aEj8W_K1IFE,/u/mulander,3
-0,2015-10-23 00:56:29 -0500,"['/t/go', '/t/release', '/t/web']",devd: a web daemon for developers,http://corte.si/posts/devd/intro/index.html,/u/peter,16
-8,2015-10-22 18:44:33 -0500,['/t/practices'],I Prefer This Over That,http://testobsessed.com/2015/05/i-prefer-this-over-that/,/u/joshuacc,21
-2,2015-10-23 04:00:48 -0500,['/t/release'],rr 4.0 Released With Reverse Execution,http://robert.ocallahan.org/2015/10/rr-40-released-with-reverse-execution.html,/u/sanxiyn,7
-0,2015-10-23 17:35:13 -0500,"['/t/pdf', '/t/slides', '/t/security', '/t/virtualization', '/t/windows']",Battle of SKM and IUM: How Windows 10 Rewrites OS Architecture,http://www.alex-ionescu.com/blackhat2015.pdf,/u/chadski,1
-0,2015-10-23 12:13:28 -0500,"['/t/design', '/t/web']",Compare responsive frameworks,http://www.codeply.com/,/u/flyingfisch,2
-0,2015-10-23 09:19:29 -0500,"['/t/programming', '/t/web']",OAuth 2.0 and the Road to Hell (2012),http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/,/u/pushcx,3
-2,2015-10-22 07:49:17 -0500,['/t/security'],A riddle wrapped in a curve (on the NSA's mysterious decision to deep-six Suite B),http://blog.cryptographyengineering.com/2015/10/a-riddle-wrapped-in-curve.html,/u/craigstuntz,28
-0,2015-10-22 13:24:42 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Dmitrij D. Czarkoff,http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/,/u/mulander,15
-1,2015-10-22 15:58:07 -0500,['/t/browsers'],Essential Tool: Firefox’s `screenshot` Command,http://meyerweb.com/eric/thoughts/2015/10/22/firefoxs-screenshot-command/,/u/pushcx,9
-0,2015-10-23 08:46:51 -0500,"['/t/javascript', '/t/web']",Refactoring Angular Apps to Component Style,http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html,/u/joshuacc,1
-11,2015-10-22 09:17:10 -0500,['/t/ruby'],"Introduce ""Safe navigation operator""",https://bugs.ruby-lang.org/issues/11537,/u/pushcx,11
-0,2015-10-22 10:17:49 -0500,"['/t/compsci', '/t/erlang']",Life is More Than a Series of Cache Misses,http://prog21.dadgum.com/204.html,/u/michaelochurch,16
-13,2015-10-22 11:52:33 -0500,"['/t/compsci', '/t/programming']",Snowsuit Zine // issue 10 - Object Oriented Programming is a Conceptual Deadend,http://snowsuit.io/issue10.html,/u/apy,6
-5,2015-10-22 08:30:36 -0500,"['/t/show', '/t/ios']","How Much? – The Smart, Offline Currency Converter for iOS and watchOS",http://gethowmuch.com,/u/ehamberg,7
-0,2015-10-22 18:10:44 -0500,"['/t/pdf', '/t/security']",How to Memorize a Random 60-Bit string,http://www.isi.edu/natural-language/mt/memorize-random-60.pdf,/u/jm,6
-13,2015-10-22 11:02:46 -0500,"['/t/devops', '/t/linux', '/t/networking', '/t/programming', '/t/release', '/t/virtualization']",Why I'm Excited About Docker,http://deis.com/blog/2015/why-excited-about-docker,/u/mazembo,3
-0,2015-10-22 09:30:58 -0500,"['/t/show', '/t/vcs']",Flaggrocrag,https://github.com/renttherunway/flaggrocrag,/u/wunsch,7
-6,2015-10-23 09:25:17 -0500,"['/t/culture', '/t/practices']",Google boss: 'Volkswagen scandal wouldn't have happened if more women were in charge',http://www.telegraph.co.uk/women/womens-business/11919494/Google-boss-Volkswagen-scandal-wouldnt-have-happened-if-more-women-were-in-charge.html,/u/stig,1
-0,2015-10-22 18:39:28 -0500,"['/t/games', '/t/hardware', '/t/practices']",Steam Machines: Avoiding 3DO’s Destiny,http://boilingsteam.com/steam-machines-avoiding-3dos-destiny/,/u/calvin,4
-0,2015-10-22 13:22:56 -0500,"['/t/c', '/t/windows']",Microsoft promises Clang for Windows in November Visual C++ update,http://www.theregister.co.uk/2015/10/21/microsoft_promises_clang_for_windows_in_november_visual_c_update/,/u/zacbrown,7
-10,2015-10-22 10:19:22 -0500,['/t/programming'],Train with Programming Challenges/Kata,http://codewars.com,/u/flyingfisch,5
+7,2015-10-23 09:30:24 -0500,/t/distributed,Swarm v. Fleet v. Kubernetes v. Mesos,http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html,/u/pyk,7
+10,2015-10-22 13:52:38 -0500,"/t/browsers,/t/web","<input> I ♡ you, but you're bringing me down",http://meowni.ca/posts/a-story-about-input/,/u/pushcx,41
+0,2015-10-23 22:13:19 -0500,"/t/cogsci,/t/compsci",Obstacles On the path to AI (LeCun),https://drive.google.com/file/d/0BxKBnD5y2M8NbWN6XzM5UXkwNDA/view?pli=1,/u/joe_the_user,1
+0,2015-10-23 15:13:35 -0500,"/t/video,/t/python,/t/reversing,/t/security",Python in a hacker's toolbox,http://www.youtube.com/watch?v=aEj8W_K1IFE,/u/mulander,3
+0,2015-10-23 00:56:29 -0500,"/t/go,/t/release,/t/web",devd: a web daemon for developers,http://corte.si/posts/devd/intro/index.html,/u/peter,16
+8,2015-10-22 18:44:33 -0500,/t/practices,I Prefer This Over That,http://testobsessed.com/2015/05/i-prefer-this-over-that/,/u/joshuacc,21
+2,2015-10-23 04:00:48 -0500,/t/release,rr 4.0 Released With Reverse Execution,http://robert.ocallahan.org/2015/10/rr-40-released-with-reverse-execution.html,/u/sanxiyn,7
+0,2015-10-23 17:35:13 -0500,"/t/pdf,/t/slides,/t/security,/t/virtualization,/t/windows",Battle of SKM and IUM: How Windows 10 Rewrites OS Architecture,http://www.alex-ionescu.com/blackhat2015.pdf,/u/chadski,1
+0,2015-10-23 12:13:28 -0500,"/t/design,/t/web",Compare responsive frameworks,http://www.codeply.com/,/u/flyingfisch,2
+0,2015-10-23 09:19:29 -0500,"/t/programming,/t/web",OAuth 2.0 and the Road to Hell (2012),http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/,/u/pushcx,3
+2,2015-10-22 07:49:17 -0500,/t/security,A riddle wrapped in a curve (on the NSA's mysterious decision to deep-six Suite B),http://blog.cryptographyengineering.com/2015/10/a-riddle-wrapped-in-curve.html,/u/craigstuntz,28
+0,2015-10-22 13:24:42 -0500,"/t/openbsd,/t/person",OpenBSD developers: Dmitrij D. Czarkoff,http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/,/u/mulander,15
+1,2015-10-22 15:58:07 -0500,/t/browsers,Essential Tool: Firefox’s `screenshot` Command,http://meyerweb.com/eric/thoughts/2015/10/22/firefoxs-screenshot-command/,/u/pushcx,9
+0,2015-10-23 08:46:51 -0500,"/t/javascript,/t/web",Refactoring Angular Apps to Component Style,http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html,/u/joshuacc,1
+11,2015-10-22 09:17:10 -0500,/t/ruby,"Introduce ""Safe navigation operator""",https://bugs.ruby-lang.org/issues/11537,/u/pushcx,11
+0,2015-10-22 10:17:49 -0500,"/t/compsci,/t/erlang",Life is More Than a Series of Cache Misses,http://prog21.dadgum.com/204.html,/u/michaelochurch,16
+13,2015-10-22 11:52:33 -0500,"/t/compsci,/t/programming",Snowsuit Zine // issue 10 - Object Oriented Programming is a Conceptual Deadend,http://snowsuit.io/issue10.html,/u/apy,6
+5,2015-10-22 08:30:36 -0500,"/t/show,/t/ios","How Much? – The Smart, Offline Currency Converter for iOS and watchOS",http://gethowmuch.com,/u/ehamberg,7
+0,2015-10-22 18:10:44 -0500,"/t/pdf,/t/security",How to Memorize a Random 60-Bit string,http://www.isi.edu/natural-language/mt/memorize-random-60.pdf,/u/jm,6
+13,2015-10-22 11:02:46 -0500,"/t/devops,/t/linux,/t/networking,/t/programming,/t/release,/t/virtualization",Why I'm Excited About Docker,http://deis.com/blog/2015/why-excited-about-docker,/u/mazembo,3
+0,2015-10-22 09:30:58 -0500,"/t/show,/t/vcs",Flaggrocrag,https://github.com/renttherunway/flaggrocrag,/u/wunsch,7
+6,2015-10-23 09:25:17 -0500,"/t/culture,/t/practices",Google boss: 'Volkswagen scandal wouldn't have happened if more women were in charge',http://www.telegraph.co.uk/women/womens-business/11919494/Google-boss-Volkswagen-scandal-wouldnt-have-happened-if-more-women-were-in-charge.html,/u/stig,1
+0,2015-10-22 18:39:28 -0500,"/t/games,/t/hardware,/t/practices",Steam Machines: Avoiding 3DO’s Destiny,http://boilingsteam.com/steam-machines-avoiding-3dos-destiny/,/u/calvin,4
+0,2015-10-22 13:22:56 -0500,"/t/c,/t/windows",Microsoft promises Clang for Windows in November Visual C++ update,http://www.theregister.co.uk/2015/10/21/microsoft_promises_clang_for_windows_in_november_visual_c_update/,/u/zacbrown,7
+10,2015-10-22 10:19:22 -0500,/t/programming,Train with Programming Challenges/Kata,http://codewars.com,/u/flyingfisch,5

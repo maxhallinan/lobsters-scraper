@@ -1,25 +1,25 @@
-0,2016-06-14 10:55:21 -0500,"['/t/javascript', '/t/lisp', '/t/programming', '/t/scala', '/t/swift']","Understand and implement laziness with examples in Scala, JavaScript, Swift and Racket",http://matt.might.net/articles/implementing-laziness/,/u/unbalancedparentheses,4
-0,2016-06-14 03:36:53 -0500,"['/t/games', '/t/programming']",Writing a 2D Platform Game in Nim with SDL2,https://hookrace.net/blog/writing-a-2d-platform-game-in-nim-with-sdl2/,/u/def-,4
-1,2016-06-13 18:30:44 -0500,"['/t/historical', '/t/web']",Hypermedia: How the WWW fell short,http://www.wilfred.me.uk/blog/2016/06/14/hypermedia-how-the-www-fell-short/,/u/Wilfred,8
-10,2016-06-13 15:31:03 -0500,['/t/api'],Gtk 4.0 is not Gtk 4,https://blogs.gnome.org/desrt/2016/06/13/gtk-4-0-is-not-gtk-4/,/u/stsp,13
-2,2016-06-13 10:43:45 -0500,['/t/haskell'],Four months with Haskell,http://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/,/u/pushcx,29
-54,2016-06-13 06:22:59 -0500,['/t/ask'],What are you working on this week?,/s/nfh5nd/what_are_you_working_on_this_week,/u/caius,30
-4,2016-06-13 15:03:01 -0500,['/t/mac'],Apple file system,https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999,/u/ngoldbaum,13
-0,2016-06-14 08:46:06 -0500,"['/t/haskell', '/t/programming']",Behavior-driven development (BDD) in Haskell with Hspec,https://www.stackbuilders.com/tutorials/haskell/bdd-in-haskell-with-hspec/,/u/jpvillaisaza,2
-3,2016-06-13 17:48:05 -0500,"['/t/games', '/t/rant']",Rant about current state of computer games,https://cisstrd.me/writings/games_rant.html,/u/ioqnpc,6
-11,2016-06-13 02:43:20 -0500,"['/t/c', '/t/rust']","""Safe C++ Subset"" Is Vapourware",http://robert.ocallahan.org/2016/06/safe-c-subset-is-vapourware.html,/u/sanxiyn,26
-23,2016-06-13 06:03:23 -0500,['/t/meta'],Don't hide subtree if its score is overall positive?,/s/1t2lsl/don_t_hide_subtree_if_its_score_is_overall,/u/stig,13
-11,2016-06-13 07:07:29 -0500,"['/t/video', '/t/event', '/t/ios', '/t/mac', '/t/swift']",WWDC 2016,http://www.apple.com/apple-events/june-2016/,/u/calvin,9
-16,2016-06-12 15:21:05 -0500,['/t/person'],"One year later (followup to ""I quit the tech industry"")",https://eev.ee/blog/2016/06/12/one-year-later/,/u/calvin,46
-2,2016-06-13 10:31:15 -0500,"['/t/compsci', '/t/programming']",Novice Programming Mistakes,http://neverworkintheory.org/2016/06/09/novice-programming-mistakes.html,/u/jitterted,8
-1,2016-06-13 13:21:17 -0500,"['/t/mac', '/t/unix']",Homebrew Dupes,https://github.com/Homebrew/homebrew-dupes,/u/pushcx,6
-10,2016-06-13 03:43:50 -0500,['/t/haskell'],Using UUIDs in Yesod,https://jezenthomas.com/using-uuids-in-yesod/,/u/jgt,6
-1,2016-06-13 06:58:24 -0500,"['/t/historical', '/t/satire']","A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html,/u/Flisk,26
-0,2016-06-14 08:46:53 -0500,['/t/security'],Sakurity OAuth,http://sakurity.com/oauth,/u/jan,0
-1,2016-06-13 11:14:46 -0500,"['/t/lisp', '/t/programming']",Lisp Koans - Common Lisp Programming Exercises,https://github.com/google/lisp-koans,/u/dwc,6
-1,2016-06-13 11:40:59 -0500,"['/t/hardware', '/t/historical']",The ClearDesk Project(or) (1997),http://lucacardelli.name/indexExtra.html,/u/calvin,6
-2,2016-06-13 10:05:15 -0500,"['/t/programming', '/t/testing']",A new way of testing,http://akkartik.name/post/tracing-tests,/u/peterhorne,5
-31,2016-06-13 06:31:33 -0500,['/t/meta'],Show which users downvoted comments,/s/phxbjl/show_which_users_downvoted_comments,/u/rbn,6
-1,2016-06-13 17:25:37 -0500,"['/t/culture', '/t/philosophy']",The Copenhagen Interpretation of Ethics,https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/,/u/tedu,6
-0,2016-06-13 23:10:15 -0500,['/t/android'],Android Photo Filters by Zomato,https://github.com/Zomato/AndroidPhotoFilters,/u/Dawny33,1
-5,2016-06-12 19:22:20 -0500,['/t/rust'],Rust out your C: experience report about rewriting zopfli in Rust,https://github.com/carols10cents/rust-out-your-c-talk/blob/master/slides-with-speaker-notes.pdf,/u/sanxiyn,23
+0,2016-06-14 10:55:21 -0500,"/t/javascript,/t/lisp,/t/programming,/t/scala,/t/swift","Understand and implement laziness with examples in Scala, JavaScript, Swift and Racket",http://matt.might.net/articles/implementing-laziness/,/u/unbalancedparentheses,4
+0,2016-06-14 03:36:53 -0500,"/t/games,/t/programming",Writing a 2D Platform Game in Nim with SDL2,https://hookrace.net/blog/writing-a-2d-platform-game-in-nim-with-sdl2/,/u/def-,4
+1,2016-06-13 18:30:44 -0500,"/t/historical,/t/web",Hypermedia: How the WWW fell short,http://www.wilfred.me.uk/blog/2016/06/14/hypermedia-how-the-www-fell-short/,/u/Wilfred,8
+10,2016-06-13 15:31:03 -0500,/t/api,Gtk 4.0 is not Gtk 4,https://blogs.gnome.org/desrt/2016/06/13/gtk-4-0-is-not-gtk-4/,/u/stsp,13
+2,2016-06-13 10:43:45 -0500,/t/haskell,Four months with Haskell,http://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/,/u/pushcx,29
+54,2016-06-13 06:22:59 -0500,/t/ask,What are you working on this week?,/s/nfh5nd/what_are_you_working_on_this_week,/u/caius,30
+4,2016-06-13 15:03:01 -0500,/t/mac,Apple file system,https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999,/u/ngoldbaum,13
+0,2016-06-14 08:46:06 -0500,"/t/haskell,/t/programming",Behavior-driven development (BDD) in Haskell with Hspec,https://www.stackbuilders.com/tutorials/haskell/bdd-in-haskell-with-hspec/,/u/jpvillaisaza,2
+3,2016-06-13 17:48:05 -0500,"/t/games,/t/rant",Rant about current state of computer games,https://cisstrd.me/writings/games_rant.html,/u/ioqnpc,6
+11,2016-06-13 02:43:20 -0500,"/t/c,/t/rust","""Safe C++ Subset"" Is Vapourware",http://robert.ocallahan.org/2016/06/safe-c-subset-is-vapourware.html,/u/sanxiyn,26
+23,2016-06-13 06:03:23 -0500,/t/meta,Don't hide subtree if its score is overall positive?,/s/1t2lsl/don_t_hide_subtree_if_its_score_is_overall,/u/stig,13
+11,2016-06-13 07:07:29 -0500,"/t/video,/t/event,/t/ios,/t/mac,/t/swift",WWDC 2016,http://www.apple.com/apple-events/june-2016/,/u/calvin,9
+16,2016-06-12 15:21:05 -0500,/t/person,"One year later (followup to ""I quit the tech industry"")",https://eev.ee/blog/2016/06/12/one-year-later/,/u/calvin,46
+2,2016-06-13 10:31:15 -0500,"/t/compsci,/t/programming",Novice Programming Mistakes,http://neverworkintheory.org/2016/06/09/novice-programming-mistakes.html,/u/jitterted,8
+1,2016-06-13 13:21:17 -0500,"/t/mac,/t/unix",Homebrew Dupes,https://github.com/Homebrew/homebrew-dupes,/u/pushcx,6
+10,2016-06-13 03:43:50 -0500,/t/haskell,Using UUIDs in Yesod,https://jezenthomas.com/using-uuids-in-yesod/,/u/jgt,6
+1,2016-06-13 06:58:24 -0500,"/t/historical,/t/satire","A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html,/u/Flisk,26
+0,2016-06-14 08:46:53 -0500,/t/security,Sakurity OAuth,http://sakurity.com/oauth,/u/jan,0
+1,2016-06-13 11:14:46 -0500,"/t/lisp,/t/programming",Lisp Koans - Common Lisp Programming Exercises,https://github.com/google/lisp-koans,/u/dwc,6
+1,2016-06-13 11:40:59 -0500,"/t/hardware,/t/historical",The ClearDesk Project(or) (1997),http://lucacardelli.name/indexExtra.html,/u/calvin,6
+2,2016-06-13 10:05:15 -0500,"/t/programming,/t/testing",A new way of testing,http://akkartik.name/post/tracing-tests,/u/peterhorne,5
+31,2016-06-13 06:31:33 -0500,/t/meta,Show which users downvoted comments,/s/phxbjl/show_which_users_downvoted_comments,/u/rbn,6
+1,2016-06-13 17:25:37 -0500,"/t/culture,/t/philosophy",The Copenhagen Interpretation of Ethics,https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/,/u/tedu,6
+0,2016-06-13 23:10:15 -0500,/t/android,Android Photo Filters by Zomato,https://github.com/Zomato/AndroidPhotoFilters,/u/Dawny33,1
+5,2016-06-12 19:22:20 -0500,/t/rust,Rust out your C: experience report about rewriting zopfli in Rust,https://github.com/carols10cents/rust-out-your-c-talk/blob/master/slides-with-speaker-notes.pdf,/u/sanxiyn,23

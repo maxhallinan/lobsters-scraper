@@ -1,25 +1,25 @@
-0,2016-05-31 23:06:00 -0500,"['/t/hardware', '/t/science']",On the Effectiveness of Aluminium Foil Helmets: An Empirical Study,https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/,/u/pushcx,13
-1,2016-06-01 14:23:38 -0500,"['/t/culture', '/t/games']","Working on Fable destroyed my life, but I don't regret it",http://www.polygon.com/2016/6/1/11820966/fable-crunch-microsoft,/u/worr,4
-1,2016-06-01 10:15:55 -0500,['/t/meta'],Changing comment highlight background color,/s/lmxpim/changing_comment_highlight_background,/u/flyingfisch,3
-0,2016-06-01 12:31:53 -0500,['/t/practices'],Flipping the open source contribution model,https://opensource.com/life/16/2/flipping-open-source-contribution-model,/u/pushcx,2
-0,2016-06-01 01:54:45 -0500,"['/t/browsers', '/t/javascript', '/t/testing', '/t/web']",HyperDev – Developer Playground for Full-Stack Web Apps,http://joelonsoftware.com/items/2016/05/30.html,/u/polydaic,8
-0,2016-06-01 11:17:48 -0500,['/t/hardware'],Make with Ada: ARM Cortex-M CNC controller,http://blog.adacore.com/make-with-ada-arm-cortex-m-cnc-controller,/u/mulander,2
-0,2016-05-31 16:44:25 -0500,['/t/linux'],contained.af (game for learning about capabilities and syscalls),https://contained.af/,/u/kyle,17
-0,2016-06-01 08:04:03 -0500,"['/t/perl', '/t/programming']",Combining Character Caveats,http://hoelz.ro/blog/combining-character-caveats,/u/hoelzro,1
-0,2016-06-01 07:07:25 -0500,['/t/compsci'],L* Search and Inference of Deterministic Finite Automata,http://www.drmaciver.com/2016/06/l-search-and-inference-of-deterministic-finite-automata/,/u/DRMacIver,1
-0,2016-06-01 08:20:29 -0500,['/t/games'],"Hatchit ""Postmortem""",http://arsentuf.me/2016/05/31/hatchit-postmortem/,/u/pushcx,2
-0,2016-06-01 12:05:10 -0500,"['/t/video', '/t/math', '/t/python']","Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016",https://www.youtube.com/watch?v=GZBIPwdGtkk,/u/michaelochurch,1
-3,2016-05-31 07:52:42 -0500,"['/t/elm', '/t/event']",elm-conf US 2016,https://www.elm-conf.us,/u/brianhicks,17
-0,2016-06-01 07:20:03 -0500,"['/t/release', '/t/satire']","Tyreese, a terminal text editor written in C with no syntax highlighting and no api",https://github.com/lf94/tyreese,/u/indirection,2
-15,2016-05-31 12:57:28 -0500,"['/t/philosophy', '/t/privacy']",Guardian of the GPL: Online advertising is becoming “a perfect despotism”,http://arstechnica.co.uk/information-technology/2016/05/eben-moglen-gpl-online-advertising-is-becoming-a-perfect-despotism/,/u/hobbes,9
-7,2016-05-31 03:43:00 -0500,"['/t/programming', '/t/rust']",Beyond Memory Safety With Types,https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types,/u/awal,22
-9,2016-05-31 06:44:22 -0500,"['/t/go', '/t/programming', '/t/release']","Micro, a terminal text editor written in go with syntax highlighting and lua api",https://github.com/zyedidia/micro,/u/tudurom,11
-0,2016-05-31 10:19:11 -0500,"['/t/javascript', '/t/web']",Setting Up Elasticsearch for a Blog,https://ponyfoo.com/articles/setting-up-elasticsearch-for-a-blog,/u/ponyfoo,7
-0,2016-05-31 18:22:24 -0500,"['/t/pdf', '/t/cogsci', '/t/math']",Understanding Convolutional Neural Networks,http://arxiv.org/pdf/1605.09081v1.pdf,/u/bsima,5
-0,2016-05-31 12:25:59 -0500,"['/t/freebsd', '/t/security']",Analysis of stack disclosure vulnerabilities in FreeBSD compatibility layers,https://cturt.github.io/compat-info-leaks.html,/u/lattera,10
-0,2016-05-31 15:59:35 -0500,['/t/release'],"Deis Workflow Basics, Part One",https://deis.com/blog/2016/deis-workflow-basics-pt-1/,/u/rimusz,3
-0,2016-05-31 09:00:39 -0500,['/t/databases'],BedquiltDB: A JSON document-store built on PostgreSQL,http://bedquiltdb.github.io/,/u/s_kilk,7
-1,2016-05-31 11:01:47 -0500,['/t/graphics'],New defaults for matplotlib colormaps,https://bids.github.io/colormap/,/u/pushcx,8
-2,2016-05-31 13:38:10 -0500,"['/t/pdf', '/t/security', '/t/windows']",Out-of-Box Exploitation: A Security Analysis of OEM Updaters,https://www.wired.com/wp-content/uploads/2016/05/Out-of-Box-Exploitation-%E2%80%94-OEM-Updaters-Dup-Labs.pdf,/u/355E3B,4
-0,2016-05-31 13:57:56 -0500,"['/t/devops', '/t/scaling']",Choosing Metrics that Matter (Beyond CPU/Disk/Network),http://blog.librato.com/posts/metrics-beyond-cpu,/u/Librato,3
-1,2016-05-31 10:17:16 -0500,"['/t/haskell', '/t/programming']",CSV encoding and decoding in Haskell with Cassava,https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/,/u/jpvillaisaza,3
+0,2016-05-31 23:06:00 -0500,"/t/hardware,/t/science",On the Effectiveness of Aluminium Foil Helmets: An Empirical Study,https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/,/u/pushcx,13
+1,2016-06-01 14:23:38 -0500,"/t/culture,/t/games","Working on Fable destroyed my life, but I don't regret it",http://www.polygon.com/2016/6/1/11820966/fable-crunch-microsoft,/u/worr,4
+1,2016-06-01 10:15:55 -0500,/t/meta,Changing comment highlight background color,/s/lmxpim/changing_comment_highlight_background,/u/flyingfisch,3
+0,2016-06-01 12:31:53 -0500,/t/practices,Flipping the open source contribution model,https://opensource.com/life/16/2/flipping-open-source-contribution-model,/u/pushcx,2
+0,2016-06-01 01:54:45 -0500,"/t/browsers,/t/javascript,/t/testing,/t/web",HyperDev – Developer Playground for Full-Stack Web Apps,http://joelonsoftware.com/items/2016/05/30.html,/u/polydaic,8
+0,2016-06-01 11:17:48 -0500,/t/hardware,Make with Ada: ARM Cortex-M CNC controller,http://blog.adacore.com/make-with-ada-arm-cortex-m-cnc-controller,/u/mulander,2
+0,2016-05-31 16:44:25 -0500,/t/linux,contained.af (game for learning about capabilities and syscalls),https://contained.af/,/u/kyle,17
+0,2016-06-01 08:04:03 -0500,"/t/perl,/t/programming",Combining Character Caveats,http://hoelz.ro/blog/combining-character-caveats,/u/hoelzro,1
+0,2016-06-01 07:07:25 -0500,/t/compsci,L* Search and Inference of Deterministic Finite Automata,http://www.drmaciver.com/2016/06/l-search-and-inference-of-deterministic-finite-automata/,/u/DRMacIver,1
+0,2016-06-01 08:20:29 -0500,/t/games,"Hatchit ""Postmortem""",http://arsentuf.me/2016/05/31/hatchit-postmortem/,/u/pushcx,2
+0,2016-06-01 12:05:10 -0500,"/t/video,/t/math,/t/python","Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016",https://www.youtube.com/watch?v=GZBIPwdGtkk,/u/michaelochurch,1
+3,2016-05-31 07:52:42 -0500,"/t/elm,/t/event",elm-conf US 2016,https://www.elm-conf.us,/u/brianhicks,17
+0,2016-06-01 07:20:03 -0500,"/t/release,/t/satire","Tyreese, a terminal text editor written in C with no syntax highlighting and no api",https://github.com/lf94/tyreese,/u/indirection,2
+15,2016-05-31 12:57:28 -0500,"/t/philosophy,/t/privacy",Guardian of the GPL: Online advertising is becoming “a perfect despotism”,http://arstechnica.co.uk/information-technology/2016/05/eben-moglen-gpl-online-advertising-is-becoming-a-perfect-despotism/,/u/hobbes,9
+7,2016-05-31 03:43:00 -0500,"/t/programming,/t/rust",Beyond Memory Safety With Types,https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types,/u/awal,22
+9,2016-05-31 06:44:22 -0500,"/t/go,/t/programming,/t/release","Micro, a terminal text editor written in go with syntax highlighting and lua api",https://github.com/zyedidia/micro,/u/tudurom,11
+0,2016-05-31 10:19:11 -0500,"/t/javascript,/t/web",Setting Up Elasticsearch for a Blog,https://ponyfoo.com/articles/setting-up-elasticsearch-for-a-blog,/u/ponyfoo,7
+0,2016-05-31 18:22:24 -0500,"/t/pdf,/t/cogsci,/t/math",Understanding Convolutional Neural Networks,http://arxiv.org/pdf/1605.09081v1.pdf,/u/bsima,5
+0,2016-05-31 12:25:59 -0500,"/t/freebsd,/t/security",Analysis of stack disclosure vulnerabilities in FreeBSD compatibility layers,https://cturt.github.io/compat-info-leaks.html,/u/lattera,10
+0,2016-05-31 15:59:35 -0500,/t/release,"Deis Workflow Basics, Part One",https://deis.com/blog/2016/deis-workflow-basics-pt-1/,/u/rimusz,3
+0,2016-05-31 09:00:39 -0500,/t/databases,BedquiltDB: A JSON document-store built on PostgreSQL,http://bedquiltdb.github.io/,/u/s_kilk,7
+1,2016-05-31 11:01:47 -0500,/t/graphics,New defaults for matplotlib colormaps,https://bids.github.io/colormap/,/u/pushcx,8
+2,2016-05-31 13:38:10 -0500,"/t/pdf,/t/security,/t/windows",Out-of-Box Exploitation: A Security Analysis of OEM Updaters,https://www.wired.com/wp-content/uploads/2016/05/Out-of-Box-Exploitation-%E2%80%94-OEM-Updaters-Dup-Labs.pdf,/u/355E3B,4
+0,2016-05-31 13:57:56 -0500,"/t/devops,/t/scaling",Choosing Metrics that Matter (Beyond CPU/Disk/Network),http://blog.librato.com/posts/metrics-beyond-cpu,/u/Librato,3
+1,2016-05-31 10:17:16 -0500,"/t/haskell,/t/programming",CSV encoding and decoding in Haskell with Cassava,https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/,/u/jpvillaisaza,3

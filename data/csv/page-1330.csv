@@ -1,25 +1,25 @@
-1,2014-05-14 14:55:54 -0500,"['/t/go', '/t/javascript']",Async IO - NodeJS to Go,http://kidoman.io/programming/async-io-part-1.html,/u/howdoipython,6
-3,2014-05-14 09:27:19 -0500,['/t/browsers'],AdBlock Plus adds ~100-200 MB per Firefox tab,https://blog.mozilla.org/nnethercote/2014/05/14/adblock-pluss-effect-on-firefoxs-memory-usage/,/u/kb,8
-0,2014-05-15 09:08:02 -0500,"['/t/javascript', '/t/practices', '/t/rant']",The Infamous Angular Learning Curve,http://www.planningforaliens.com/blog/2014/05/13/documentation/,/u/smrf,1
-0,2014-05-14 18:08:02 -0500,['/t/programming'],ASCII Flowchart Tool,http://asciiflow.com/,/u/dysinger,4
-0,2014-05-15 02:50:27 -0500,['/t/javascript'],A simple build tool for nodejs using generators,https://github.com/jeswin/fora-build,/u/jeswin,1
-0,2014-05-14 18:35:49 -0500,"['/t/privacy', '/t/vcs']",A Git Horror Story: Repository Integrity With Signed Commits,http://mikegerwitz.com/papers/git-horror-story,/u/tkozik,3
-12,2014-05-13 16:12:06 -0500,['/t/vcs'],Octotree: Browser extension to display GitHub code in tree format,https://github.com/buunguyen/octotree/,/u/PiotrSikora,30
-3,2014-05-14 02:26:58 -0500,"['/t/javascript', '/t/programming']",Introducing the WebKit FTL JIT,https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/,/u/penberg,8
-2,2014-05-14 08:07:16 -0500,"['/t/hardware', '/t/programming']","The TEM library - 32bit RISC CPU based on SPARCv8, implemented in VHDL",http://temlib.org/site/,/u/sevan,5
-0,2014-05-14 16:51:02 -0500,['/t/security'],SHA-256 certificates are coming,https://www.imperialviolet.org/2014/05/14/sha256.html,/u/kyle,2
-0,2014-05-14 16:35:04 -0500,['/t/games'],Scrabble and Intellectual Property,http://nojesusnopeas.blogspot.co.uk/2012/11/scrabble-and-intellectual-property.html,/u/zem,2
-0,2014-05-14 13:08:45 -0500,['/t/privacy'],FreedomBox 0.2 has been released!,https://www.freedomboxfoundation.org/news/FreedomBox-0.2/index.en.html,/u/evaryont,2
-0,2014-05-14 16:50:56 -0500,"['/t/video', '/t/ios', '/t/lisp', '/t/mobile']",Creating a Planet Lisp mobile app in 15 minutes with mocl,https://wukix.com/pl-screencast,/u/zmcartor,1
-0,2014-05-14 14:18:51 -0500,['/t/programming'],10 Articles Every Programmer Must Read,http://javarevisited.blogspot.fr/2014/05/10-articles-every-programmer-must-read.html,/u/journeysquid,1
-0,2014-05-14 04:58:24 -0500,"['/t/javascript', '/t/programming']",Javascript text translations with google drive forms and gulp.js,http://zoetrope.io/tech-blog/javascript-translations-google-drive-forms-and-gulpjs,/u/ben_howes,4
-0,2014-05-14 11:58:36 -0500,"['/t/databases', '/t/ruby']",Safe Operations For High Volume PostgreSQL,https://www.braintreepayments.com/braintrust/safe-operations-for-high-volume-postgresql,/u/dix,1
-0,2014-05-14 11:46:37 -0500,['/t/games'],2048 Silicon Valley Edition,http://lukeweil.github.io/2048-silicon-valley/,/u/lukeweil,1
-0,2014-05-14 11:35:10 -0500,"['/t/hardware', '/t/mobile']",Introducing Moto E and Moto G with 4G LTE: Smart phones priced for all,http://motorola-blog.blogspot.fr/2014/05/introducing-moto-e-and-moto-g-with-4g-lte.html,/u/journeysquid,1
-0,2014-05-13 16:46:56 -0500,['/t/windows'],Babun - A new Windows shell,http://babun.github.io/,/u/jm,12
-0,2014-05-14 09:58:14 -0500,"['/t/programming', '/t/ruby']",Expressr - Express.js for Ruby,https://github.com/tombenner/expressr,/u/tombenner,1
-0,2014-05-14 09:57:11 -0500,"['/t/programming', '/t/ruby']",Noder - Node.js for Ruby,https://github.com/tombenner/noder,/u/tombenner,1
-0,2014-05-13 18:05:04 -0500,"['/t/design', '/t/programming']",Typography in 8 bits: System fonts,http://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts,/u/robey,8
-5,2014-05-13 11:25:07 -0500,"['/t/video', '/t/distributed']",Monitorama PDX 2014 - James Mickens,http://vimeo.com/95066828,/u/moses,7
-9,2014-05-13 07:26:40 -0500,"['/t/slides', '/t/scala']",Scala - The Simple Parts,http://www.slideshare.net/Odersky/flatmap-oslo-presentation-slides,/u/lauris,10
-0,2014-05-14 05:21:01 -0500,"['/t/api', '/t/compsci', '/t/programming']",How to Create a self hosted API for Local Development,http://www.jeremymorgan.com/blog/programming/how-to-create-asp-self-hosted-api/,/u/JeremyMorgan,1
+1,2014-05-14 14:55:54 -0500,"/t/go,/t/javascript",Async IO - NodeJS to Go,http://kidoman.io/programming/async-io-part-1.html,/u/howdoipython,6
+3,2014-05-14 09:27:19 -0500,/t/browsers,AdBlock Plus adds ~100-200 MB per Firefox tab,https://blog.mozilla.org/nnethercote/2014/05/14/adblock-pluss-effect-on-firefoxs-memory-usage/,/u/kb,8
+0,2014-05-15 09:08:02 -0500,"/t/javascript,/t/practices,/t/rant",The Infamous Angular Learning Curve,http://www.planningforaliens.com/blog/2014/05/13/documentation/,/u/smrf,1
+0,2014-05-14 18:08:02 -0500,/t/programming,ASCII Flowchart Tool,http://asciiflow.com/,/u/dysinger,4
+0,2014-05-15 02:50:27 -0500,/t/javascript,A simple build tool for nodejs using generators,https://github.com/jeswin/fora-build,/u/jeswin,1
+0,2014-05-14 18:35:49 -0500,"/t/privacy,/t/vcs",A Git Horror Story: Repository Integrity With Signed Commits,http://mikegerwitz.com/papers/git-horror-story,/u/tkozik,3
+12,2014-05-13 16:12:06 -0500,/t/vcs,Octotree: Browser extension to display GitHub code in tree format,https://github.com/buunguyen/octotree/,/u/PiotrSikora,30
+3,2014-05-14 02:26:58 -0500,"/t/javascript,/t/programming",Introducing the WebKit FTL JIT,https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/,/u/penberg,8
+2,2014-05-14 08:07:16 -0500,"/t/hardware,/t/programming","The TEM library - 32bit RISC CPU based on SPARCv8, implemented in VHDL",http://temlib.org/site/,/u/sevan,5
+0,2014-05-14 16:51:02 -0500,/t/security,SHA-256 certificates are coming,https://www.imperialviolet.org/2014/05/14/sha256.html,/u/kyle,2
+0,2014-05-14 16:35:04 -0500,/t/games,Scrabble and Intellectual Property,http://nojesusnopeas.blogspot.co.uk/2012/11/scrabble-and-intellectual-property.html,/u/zem,2
+0,2014-05-14 13:08:45 -0500,/t/privacy,FreedomBox 0.2 has been released!,https://www.freedomboxfoundation.org/news/FreedomBox-0.2/index.en.html,/u/evaryont,2
+0,2014-05-14 16:50:56 -0500,"/t/video,/t/ios,/t/lisp,/t/mobile",Creating a Planet Lisp mobile app in 15 minutes with mocl,https://wukix.com/pl-screencast,/u/zmcartor,1
+0,2014-05-14 14:18:51 -0500,/t/programming,10 Articles Every Programmer Must Read,http://javarevisited.blogspot.fr/2014/05/10-articles-every-programmer-must-read.html,/u/journeysquid,1
+0,2014-05-14 04:58:24 -0500,"/t/javascript,/t/programming",Javascript text translations with google drive forms and gulp.js,http://zoetrope.io/tech-blog/javascript-translations-google-drive-forms-and-gulpjs,/u/ben_howes,4
+0,2014-05-14 11:58:36 -0500,"/t/databases,/t/ruby",Safe Operations For High Volume PostgreSQL,https://www.braintreepayments.com/braintrust/safe-operations-for-high-volume-postgresql,/u/dix,1
+0,2014-05-14 11:46:37 -0500,/t/games,2048 Silicon Valley Edition,http://lukeweil.github.io/2048-silicon-valley/,/u/lukeweil,1
+0,2014-05-14 11:35:10 -0500,"/t/hardware,/t/mobile",Introducing Moto E and Moto G with 4G LTE: Smart phones priced for all,http://motorola-blog.blogspot.fr/2014/05/introducing-moto-e-and-moto-g-with-4g-lte.html,/u/journeysquid,1
+0,2014-05-13 16:46:56 -0500,/t/windows,Babun - A new Windows shell,http://babun.github.io/,/u/jm,12
+0,2014-05-14 09:58:14 -0500,"/t/programming,/t/ruby",Expressr - Express.js for Ruby,https://github.com/tombenner/expressr,/u/tombenner,1
+0,2014-05-14 09:57:11 -0500,"/t/programming,/t/ruby",Noder - Node.js for Ruby,https://github.com/tombenner/noder,/u/tombenner,1
+0,2014-05-13 18:05:04 -0500,"/t/design,/t/programming",Typography in 8 bits: System fonts,http://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts,/u/robey,8
+5,2014-05-13 11:25:07 -0500,"/t/video,/t/distributed",Monitorama PDX 2014 - James Mickens,http://vimeo.com/95066828,/u/moses,7
+9,2014-05-13 07:26:40 -0500,"/t/slides,/t/scala",Scala - The Simple Parts,http://www.slideshare.net/Odersky/flatmap-oslo-presentation-slides,/u/lauris,10
+0,2014-05-14 05:21:01 -0500,"/t/api,/t/compsci,/t/programming",How to Create a self hosted API for Local Development,http://www.jeremymorgan.com/blog/programming/how-to-create-asp-self-hosted-api/,/u/JeremyMorgan,1

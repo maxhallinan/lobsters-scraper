@@ -1,25 +1,25 @@
-0,2016-06-10 12:36:52 -0500,"['/t/games', '/t/practices', '/t/programming']",Experiences of Running an Online Game for 3 Years,https://hookrace.net/blog/ddnet-evolution-architecture-technology/,/u/def-,13
-0,2016-06-10 11:22:52 -0500,"['/t/browsers', '/t/debugging', '/t/programming', '/t/security', '/t/web']",JWT Inspector - Chrome extension to inspect and debug JSON Web Tokens,https://www.jwtinspector.io/,/u/rdegges,11
-0,2016-06-10 18:34:23 -0500,['/t/go'],Buford v0.7.0 Apple Push Notifications for Go 1.6 and HTTP/2,https://groups.google.com/forum/#!topic/golang-nuts/KfTMCYt-c2w,/u/nathany,2
-4,2016-06-10 11:38:30 -0500,"['/t/hardware', '/t/law', '/t/networking', '/t/virtualization']",New router chips could save open source firmware from FCC rules,http://arstechnica.com/information-technology/2016/06/new-router-chips-could-save-open-source-firmware-from-fcc-rules/,/u/calvin,5
-3,2016-06-10 22:45:04 -0500,"['/t/compsci', '/t/culture']",The Golden Age of MOOCs is over and Why I hate Coursera,https://reachtarunhere.github.io//2016/06/11/Golden-Age-of-MOOCs-is-over-and-why-I-hate-Coursera/,/u/michaelochurch,5
-0,2016-06-10 16:19:54 -0500,"['/t/linux', '/t/release']","Deis Workflow Basics, Part Three",https://deis.com/blog/2016/deis-workflow-basics-pt-3/,/u/rimusz,2
-1,2016-06-10 10:36:17 -0500,"['/t/art', '/t/python']",Time-slicing photos with Python and ImageMagick,http://dellsystem.me/posts/time-slicing,/u/JordiGH,7
-6,2016-06-10 05:02:56 -0500,"['/t/satire', '/t/unix']",xkcd: Man Page,http://xkcd.com/1692/,/u/calvin,29
-0,2016-06-10 16:38:36 -0500,"['/t/compsci', '/t/graphics', '/t/math']",Master's Thesis: Split Packing,https://morr.cc/split-packing/,/u/jitterted,4
-0,2016-06-10 10:42:53 -0500,"['/t/python', '/t/testing', '/t/web']",sappy | A single-page application web server for end-to-end testing.,https://github.com/jacebrowning/sappy,/u/jacebrowning,4
-0,2016-06-10 23:09:11 -0500,"['/t/video', '/t/event', '/t/programming', '/t/scaling']",SATURN 2016 Keynote: Abstracting the Unknown with Grady Booch,https://www.youtube.com/watch?v=yBm7MDEODUw,/u/tjmaglio,1
-0,2016-06-10 06:11:09 -0500,['/t/art'],Bytebeat,http://canonical.org/~kragen/bytebeat/,/u/calvin,10
-0,2016-06-10 12:28:11 -0500,['/t/vcs'],new svn conflict resolver status update,http://svn.haxx.se/dev/archive-2016-06/0006.shtml,/u/stsp,2
-0,2016-06-10 11:26:46 -0500,"['/t/culture', '/t/networking']",The kremvax hoax,http://godfatherof.nl/kremvax.html,/u/calvin,8
-0,2016-06-10 13:19:44 -0500,['/t/math'],Computing optimal road trips on a limited budget,http://www.randalolson.com/2016/06/05/computing-optimal-road-trips-on-a-limited-budget/,/u/flyingfisch,3
-3,2016-06-10 08:52:02 -0500,"['/t/pdf', '/t/hardware', '/t/security']",ROP Mitigation with Control-flow Enforcement Technology by Intel (Preview),https://software.intel.com/sites/default/files/managed/4d/2a/control-flow-enforcement-technology-preview.pdf,/u/isra17,4
-0,2016-06-10 05:12:48 -0500,"['/t/compsci', '/t/programming', '/t/security']",NICTA's open source Cogent: Reducing the cost of verified systems software.,https://ssrg.nicta.com.au/projects/TS/cogent.pml,/u/BruceM,7
-0,2016-06-10 13:30:48 -0500,"['/t/databases', '/t/web']",How To Use Airtable as a Front End Developer,https://css-tricks.com/use-airtable-front-end-developer/,/u/flyingfisch,2
-0,2016-06-10 05:50:27 -0500,"['/t/openbsd', '/t/security']",timeline of libexpat random vulnerability,http://www.tedunangst.com/flak/post/timeline-of-libexpat-random-vulnerability,/u/mulander,5
-3,2016-06-09 19:31:52 -0500,"['/t/debugging', '/t/dotnet']",Tracking down a performance hit,https://codeblog.jonskeet.uk/2016/06/09/tracking-down-a-performance-hit/,/u/tedu,12
-16,2016-06-09 08:54:45 -0500,"['/t/ask', '/t/distributed', '/t/security']",How do you manage your secrets,/s/yxpysq/how_do_you_manage_your_secrets,/u/millerjs,21
-0,2016-06-10 14:11:11 -0500,"['/t/freebsd', '/t/release']",gerenuk - An easy and opinionated way to setup poudriere via vagrant.,https://github.com/swills/gerenuk,/u/sevan,1
-0,2016-06-10 10:14:22 -0500,"['/t/math', '/t/science']","Tornado Town, USA",http://fivethirtyeight.com/features/tornadoes/,/u/pushcx,2
-31,2016-06-09 02:20:30 -0500,"['/t/person', '/t/practices']",I quit the tech industry (2015),https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/,/u/cnst,41
-0,2016-06-09 21:18:01 -0500,"['/t/historical', '/t/unix']","Usenet, updated in real time as it was thirty years ago",http://olduse.net/,/u/cln,8
+0,2016-06-10 12:36:52 -0500,"/t/games,/t/practices,/t/programming",Experiences of Running an Online Game for 3 Years,https://hookrace.net/blog/ddnet-evolution-architecture-technology/,/u/def-,13
+0,2016-06-10 11:22:52 -0500,"/t/browsers,/t/debugging,/t/programming,/t/security,/t/web",JWT Inspector - Chrome extension to inspect and debug JSON Web Tokens,https://www.jwtinspector.io/,/u/rdegges,11
+0,2016-06-10 18:34:23 -0500,/t/go,Buford v0.7.0 Apple Push Notifications for Go 1.6 and HTTP/2,https://groups.google.com/forum/#!topic/golang-nuts/KfTMCYt-c2w,/u/nathany,2
+4,2016-06-10 11:38:30 -0500,"/t/hardware,/t/law,/t/networking,/t/virtualization",New router chips could save open source firmware from FCC rules,http://arstechnica.com/information-technology/2016/06/new-router-chips-could-save-open-source-firmware-from-fcc-rules/,/u/calvin,5
+3,2016-06-10 22:45:04 -0500,"/t/compsci,/t/culture",The Golden Age of MOOCs is over and Why I hate Coursera,https://reachtarunhere.github.io//2016/06/11/Golden-Age-of-MOOCs-is-over-and-why-I-hate-Coursera/,/u/michaelochurch,5
+0,2016-06-10 16:19:54 -0500,"/t/linux,/t/release","Deis Workflow Basics, Part Three",https://deis.com/blog/2016/deis-workflow-basics-pt-3/,/u/rimusz,2
+1,2016-06-10 10:36:17 -0500,"/t/art,/t/python",Time-slicing photos with Python and ImageMagick,http://dellsystem.me/posts/time-slicing,/u/JordiGH,7
+6,2016-06-10 05:02:56 -0500,"/t/satire,/t/unix",xkcd: Man Page,http://xkcd.com/1692/,/u/calvin,29
+0,2016-06-10 16:38:36 -0500,"/t/compsci,/t/graphics,/t/math",Master's Thesis: Split Packing,https://morr.cc/split-packing/,/u/jitterted,4
+0,2016-06-10 10:42:53 -0500,"/t/python,/t/testing,/t/web",sappy | A single-page application web server for end-to-end testing.,https://github.com/jacebrowning/sappy,/u/jacebrowning,4
+0,2016-06-10 23:09:11 -0500,"/t/video,/t/event,/t/programming,/t/scaling",SATURN 2016 Keynote: Abstracting the Unknown with Grady Booch,https://www.youtube.com/watch?v=yBm7MDEODUw,/u/tjmaglio,1
+0,2016-06-10 06:11:09 -0500,/t/art,Bytebeat,http://canonical.org/~kragen/bytebeat/,/u/calvin,10
+0,2016-06-10 12:28:11 -0500,/t/vcs,new svn conflict resolver status update,http://svn.haxx.se/dev/archive-2016-06/0006.shtml,/u/stsp,2
+0,2016-06-10 11:26:46 -0500,"/t/culture,/t/networking",The kremvax hoax,http://godfatherof.nl/kremvax.html,/u/calvin,8
+0,2016-06-10 13:19:44 -0500,/t/math,Computing optimal road trips on a limited budget,http://www.randalolson.com/2016/06/05/computing-optimal-road-trips-on-a-limited-budget/,/u/flyingfisch,3
+3,2016-06-10 08:52:02 -0500,"/t/pdf,/t/hardware,/t/security",ROP Mitigation with Control-flow Enforcement Technology by Intel (Preview),https://software.intel.com/sites/default/files/managed/4d/2a/control-flow-enforcement-technology-preview.pdf,/u/isra17,4
+0,2016-06-10 05:12:48 -0500,"/t/compsci,/t/programming,/t/security",NICTA's open source Cogent: Reducing the cost of verified systems software.,https://ssrg.nicta.com.au/projects/TS/cogent.pml,/u/BruceM,7
+0,2016-06-10 13:30:48 -0500,"/t/databases,/t/web",How To Use Airtable as a Front End Developer,https://css-tricks.com/use-airtable-front-end-developer/,/u/flyingfisch,2
+0,2016-06-10 05:50:27 -0500,"/t/openbsd,/t/security",timeline of libexpat random vulnerability,http://www.tedunangst.com/flak/post/timeline-of-libexpat-random-vulnerability,/u/mulander,5
+3,2016-06-09 19:31:52 -0500,"/t/debugging,/t/dotnet",Tracking down a performance hit,https://codeblog.jonskeet.uk/2016/06/09/tracking-down-a-performance-hit/,/u/tedu,12
+16,2016-06-09 08:54:45 -0500,"/t/ask,/t/distributed,/t/security",How do you manage your secrets,/s/yxpysq/how_do_you_manage_your_secrets,/u/millerjs,21
+0,2016-06-10 14:11:11 -0500,"/t/freebsd,/t/release",gerenuk - An easy and opinionated way to setup poudriere via vagrant.,https://github.com/swills/gerenuk,/u/sevan,1
+0,2016-06-10 10:14:22 -0500,"/t/math,/t/science","Tornado Town, USA",http://fivethirtyeight.com/features/tornadoes/,/u/pushcx,2
+31,2016-06-09 02:20:30 -0500,"/t/person,/t/practices",I quit the tech industry (2015),https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/,/u/cnst,41
+0,2016-06-09 21:18:01 -0500,"/t/historical,/t/unix","Usenet, updated in real time as it was thirty years ago",http://olduse.net/,/u/cln,8

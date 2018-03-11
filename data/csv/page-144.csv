@@ -1,25 +1,25 @@
-0,2017-11-03 10:41:40 -0500,"['/t/ai', '/t/design', '/t/education']",Magic Paper,http://cognitivemedium.com/magic_paper/,/u/klingtnet,4
-0,2017-11-03 06:58:09 -0500,['/t/design'],USS McCain collision ultimately caused by UI confusion,https://arstechnica.co.uk/information-technology/2017/11/uss-mccain-collision-ultimately-caused-by-ui-confusion/,/u/caius,6
-9,2017-11-02 14:50:15 -0500,['/t/culture'],Respect,https://mail.haskell.org/pipermail/haskell/2016-September/024995.html,/u/asthasr,64
-1,2017-11-03 06:11:47 -0500,"['/t/javascript', '/t/nodejs', '/t/practices', '/t/web']",How to Use npm as a Build Tool (2014),https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/,/u/mjturner,4
-3,2017-11-02 19:06:51 -0500,['/t/compsci'],Adventures in Programming Interviews: Misleadingly Simple NP-Hard Problem,https://hackernoon.com/adventures-in-programming-interviews-misleadingly-difficult-np-hard-problem-43092597018c,/u/calvin,16
-2,2017-11-03 07:21:46 -0500,"['/t/games', '/t/security']",Fraud Detection in Pokémon Go - Schneier on Security,https://www.schneier.com/blog/archives/2017/11/fraud_detection.html,/u/pgl,3
-0,2017-11-03 13:29:31 -0500,['/t/programming'],ARM GCC Cross Compilation in Visual Studio,https://blogs.msdn.microsoft.com/vcblog/2017/10/23/arm-gcc-cross-compilation-in-visual-studio/,/u/calvin,2
-0,2017-11-03 06:20:38 -0500,['/t/ai'],How to scale data tagging in medical imaging,http://blog.paralleldots.com/healthcare/data-tagging-medical-imaging-overview/,/u/parth,2
-8,2017-11-03 10:40:57 -0500,['/t/meta'],https://www.lobste.rs gives a TLS security warning,/s/g5aq1f/https_www_lobste_rs_gives_tls_security,/u/seven1m,1
-4,2017-11-02 11:26:03 -0500,['/t/go'],Do you think that Go might support accepting the other types into variadic funcs w/ empty-interface,/s/jb8xil/do_you_think_go_might_support_accepting,/u/blackflicker,9
-0,2017-11-03 13:34:37 -0500,"['/t/ai', '/t/security']",Automated Analysis of Cybercriminal Markets,https://evidencebasedsecurity.org/forums/,/u/lainon,1
-12,2017-11-02 10:43:52 -0500,"['/t/audio', '/t/show', '/t/culture']",General Intellect Unit: Podcast of the Cybernetic Marxists,http://generalintellectunit.net/,/u/s_kilk,20
-4,2017-11-02 15:34:23 -0500,['/t/satire'],If The World Was Created By A Programmer [Comic],https://blog.toggl.com/world-created-programmer/,/u/Teckla,26
-2,2017-11-02 10:49:52 -0500,"['/t/pdf', '/t/c', '/t/compsci']","Locksmith - Practical, Static, Race Detection for C",http://www.cs.umd.edu/~mwh/papers/locksmith-journal.pdf,/u/nickpsecurity,13
-10,2017-11-02 12:57:05 -0500,"['/t/culture', '/t/web']",Against an increasingly user-hostile web,https://www.neustadt.fr/essays/against-a-user-hostile-web/,/u/bargap,26
-0,2017-11-03 08:00:50 -0500,"['/t/javascript', '/t/web']",Scalable remote management of embedded Linux devices via WebSockets,https://airtame.engineering/scalable-remote-management-of-embedded-linux-devices-via-websockets-de98e4c95863,/u/jdarnold,1
-0,2017-11-02 19:07:16 -0500,"['/t/c++', '/t/person']",Towards a more powerful and simpler C++ with Herb Sutter,https://blog.jetbrains.com/clion/2017/11/towards-a-more-powerful-and-simpler-cpp-with-herb-sutter/,/u/calvin,6
-0,2017-11-02 16:10:08 -0500,"['/t/graphics', '/t/math']",Axioms of constructive geometry (1996),https://ac.els-cdn.com/0168007295000052/1-s2.0-0168007295000052-main.pdf?_tid=5ebda0a6-c011-11e7-9b6c-00000aacb35f&acdnat=1509656829_464f11e6375dd57f20f57e87e305f2d6,/u/adamnemecek,8
-0,2017-11-02 16:42:25 -0500,"['/t/historical', '/t/unix', '/t/virtualization']",4.2BSD on SIMH vax with networking,http://plover.net/~agarvin/4.2bsd.html,/u/sevan,7
-1,2017-11-02 21:20:09 -0500,"['/t/devops', '/t/security', '/t/unix']",App Container Spec,https://github.com/appc/spec,/u/itistoday,2
-1,2017-11-02 10:40:22 -0500,"['/t/slides', '/t/video', '/t/event', '/t/unix']",OpenZFS Developer Summit 2017,http://www.open-zfs.org/wiki/OpenZFS_Developer_Summit_2017,/u/seschwar,9
-15,2017-11-01 16:07:51 -0500,['/t/art'],Why you hate contemporary architecture,https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture,/u/bargap,33
-1,2017-11-02 12:32:19 -0500,"['/t/linux', '/t/mobile']",Running Plasma Mobile on an i.MX 6 test board,https://puri.sm/posts/running-plasma-mobile-on-an-imx6-test-board/,/u/pizzaiolo,5
-0,2017-11-02 12:25:58 -0500,"['/t/api', '/t/scaling']",GraphQL at massive scale: GraphQL as the glue in a microservice architecture,https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/,/u/attfarhan,6
-3,2017-11-01 23:36:05 -0500,"['/t/pdf', '/t/c', '/t/c++', '/t/programming']",What every systems programmer should know about lockless concurrency,https://assets.bitbashing.io/papers/lockless.pdf,/u/Forty-Bot,21
+0,2017-11-03 10:41:40 -0500,"/t/ai,/t/design,/t/education",Magic Paper,http://cognitivemedium.com/magic_paper/,/u/klingtnet,4
+0,2017-11-03 06:58:09 -0500,/t/design,USS McCain collision ultimately caused by UI confusion,https://arstechnica.co.uk/information-technology/2017/11/uss-mccain-collision-ultimately-caused-by-ui-confusion/,/u/caius,6
+9,2017-11-02 14:50:15 -0500,/t/culture,Respect,https://mail.haskell.org/pipermail/haskell/2016-September/024995.html,/u/asthasr,64
+1,2017-11-03 06:11:47 -0500,"/t/javascript,/t/nodejs,/t/practices,/t/web",How to Use npm as a Build Tool (2014),https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/,/u/mjturner,4
+3,2017-11-02 19:06:51 -0500,/t/compsci,Adventures in Programming Interviews: Misleadingly Simple NP-Hard Problem,https://hackernoon.com/adventures-in-programming-interviews-misleadingly-difficult-np-hard-problem-43092597018c,/u/calvin,16
+2,2017-11-03 07:21:46 -0500,"/t/games,/t/security",Fraud Detection in Pokémon Go - Schneier on Security,https://www.schneier.com/blog/archives/2017/11/fraud_detection.html,/u/pgl,3
+0,2017-11-03 13:29:31 -0500,/t/programming,ARM GCC Cross Compilation in Visual Studio,https://blogs.msdn.microsoft.com/vcblog/2017/10/23/arm-gcc-cross-compilation-in-visual-studio/,/u/calvin,2
+0,2017-11-03 06:20:38 -0500,/t/ai,How to scale data tagging in medical imaging,http://blog.paralleldots.com/healthcare/data-tagging-medical-imaging-overview/,/u/parth,2
+8,2017-11-03 10:40:57 -0500,/t/meta,https://www.lobste.rs gives a TLS security warning,/s/g5aq1f/https_www_lobste_rs_gives_tls_security,/u/seven1m,1
+4,2017-11-02 11:26:03 -0500,/t/go,Do you think that Go might support accepting the other types into variadic funcs w/ empty-interface,/s/jb8xil/do_you_think_go_might_support_accepting,/u/blackflicker,9
+0,2017-11-03 13:34:37 -0500,"/t/ai,/t/security",Automated Analysis of Cybercriminal Markets,https://evidencebasedsecurity.org/forums/,/u/lainon,1
+12,2017-11-02 10:43:52 -0500,"/t/audio,/t/show,/t/culture",General Intellect Unit: Podcast of the Cybernetic Marxists,http://generalintellectunit.net/,/u/s_kilk,20
+4,2017-11-02 15:34:23 -0500,/t/satire,If The World Was Created By A Programmer [Comic],https://blog.toggl.com/world-created-programmer/,/u/Teckla,26
+2,2017-11-02 10:49:52 -0500,"/t/pdf,/t/c,/t/compsci","Locksmith - Practical, Static, Race Detection for C",http://www.cs.umd.edu/~mwh/papers/locksmith-journal.pdf,/u/nickpsecurity,13
+10,2017-11-02 12:57:05 -0500,"/t/culture,/t/web",Against an increasingly user-hostile web,https://www.neustadt.fr/essays/against-a-user-hostile-web/,/u/bargap,26
+0,2017-11-03 08:00:50 -0500,"/t/javascript,/t/web",Scalable remote management of embedded Linux devices via WebSockets,https://airtame.engineering/scalable-remote-management-of-embedded-linux-devices-via-websockets-de98e4c95863,/u/jdarnold,1
+0,2017-11-02 19:07:16 -0500,"/t/c++,/t/person",Towards a more powerful and simpler C++ with Herb Sutter,https://blog.jetbrains.com/clion/2017/11/towards-a-more-powerful-and-simpler-cpp-with-herb-sutter/,/u/calvin,6
+0,2017-11-02 16:10:08 -0500,"/t/graphics,/t/math",Axioms of constructive geometry (1996),https://ac.els-cdn.com/0168007295000052/1-s2.0-0168007295000052-main.pdf?_tid=5ebda0a6-c011-11e7-9b6c-00000aacb35f&acdnat=1509656829_464f11e6375dd57f20f57e87e305f2d6,/u/adamnemecek,8
+0,2017-11-02 16:42:25 -0500,"/t/historical,/t/unix,/t/virtualization",4.2BSD on SIMH vax with networking,http://plover.net/~agarvin/4.2bsd.html,/u/sevan,7
+1,2017-11-02 21:20:09 -0500,"/t/devops,/t/security,/t/unix",App Container Spec,https://github.com/appc/spec,/u/itistoday,2
+1,2017-11-02 10:40:22 -0500,"/t/slides,/t/video,/t/event,/t/unix",OpenZFS Developer Summit 2017,http://www.open-zfs.org/wiki/OpenZFS_Developer_Summit_2017,/u/seschwar,9
+15,2017-11-01 16:07:51 -0500,/t/art,Why you hate contemporary architecture,https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture,/u/bargap,33
+1,2017-11-02 12:32:19 -0500,"/t/linux,/t/mobile",Running Plasma Mobile on an i.MX 6 test board,https://puri.sm/posts/running-plasma-mobile-on-an-imx6-test-board/,/u/pizzaiolo,5
+0,2017-11-02 12:25:58 -0500,"/t/api,/t/scaling",GraphQL at massive scale: GraphQL as the glue in a microservice architecture,https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/,/u/attfarhan,6
+3,2017-11-01 23:36:05 -0500,"/t/pdf,/t/c,/t/c++,/t/programming",What every systems programmer should know about lockless concurrency,https://assets.bitbashing.io/papers/lockless.pdf,/u/Forty-Bot,21

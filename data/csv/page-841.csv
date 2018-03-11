@@ -1,25 +1,25 @@
-1,2016-03-14 10:39:06 -0500,"['/t/show', '/t/lisp', '/t/programming']",Parser combinator macros for Common Lisp,https://github.com/arathnim/parmesan,/u/merzberimbow,17
-0,2016-03-14 09:29:51 -0500,"['/t/pdf', '/t/openbsd']",OpenBSD project status update,http://www.openbsd.org/papers/asiabsdcon2016-openbsd.pdf,/u/fcambus,19
-0,2016-03-14 19:46:03 -0500,['/t/php'],How Badoo saved one million dollars switching to PHP7,https://techblog.badoo.com/blog/2016/03/14/how-badoo-saved-one-million-dollars-switching-to-php7/,/u/jcs,6
-0,2016-03-14 22:01:36 -0500,"['/t/programming', '/t/web']",GitHub Pages for Non-Rubyists,http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/,/u/av,4
-0,2016-03-14 16:18:02 -0500,['/t/databases'],MongoDB: The Frankenstein Monster of NoSQL Databases,https://www.linkedin.com/pulse/mongodb-frankenstein-monster-nosql-databases-john-de-goes,/u/jdegoes,4
-0,2016-03-14 14:15:56 -0500,['/t/linux'],How does ltrace work?,http://blog.packagecloud.io/eng/2016/03/14/how-does-ltrace-work/,/u/kb,10
-1,2016-03-14 19:52:20 -0500,"['/t/show', '/t/javascript', '/t/release']",CLI for testing Node.js modules from NPM easier,https://github.com/VictorBjelkholm/trymodule,/u/VictorBjelkholm,2
-0,2016-03-14 13:23:27 -0500,"['/t/philosophy', '/t/privacy']",The Nature Of The Self In The Digital Age,https://ar.al/notes/the-nature-of-the-self-in-the-digital-age/,/u/james,9
-1,2016-03-14 13:37:06 -0500,"['/t/ml', '/t/programming']",Type-safe C bindings using ocaml-ctypes and stub generation,http://simonjbeaumont.com/posts/ocaml-ctypes/,/u/zem,6
-1,2016-03-14 09:28:54 -0500,"['/t/pdf', '/t/openbsd']",Implementation of Xen PVHVM drivers in OpenBSD,http://www.openbsd.org/papers/asiabsdcon2016-xen-slides.pdf,/u/fcambus,11
-3,2016-03-14 08:45:31 -0500,"['/t/design', '/t/web']",Viewport Unit Based Typography,http://zellwk.com/blog/viewport-based-typography/,/u/flyingfisch,7
-1,2016-03-14 07:07:22 -0500,['/t/scala'],Announcing The Scala Center,http://www.scala-lang.org/blog/2016/03/14/announcing-the-scala-center.html,/u/softinio,9
-13,2016-03-14 14:42:22 -0500,['/t/security'],Former cyber czar says NSA could crack the San Bernadino shooter’s phone,http://arstechnica.com/tech-policy/2016/03/former-cyber-czar-says-nsa-could-crack-the-san-bernadino-shooters-phone/,/u/steveno,2
-1,2016-03-14 08:37:41 -0500,['/t/javascript'],A Year Without jQuery,http://blog.wearecolony.com/a-year-without-jquery/,/u/flyingfisch,8
-0,2016-03-14 17:48:57 -0500,"['/t/linux', '/t/programming', '/t/python', '/t/unix']",Unix split command in Python,http://jugad2.blogspot.com/2016/03/unix-split-command-in-python.html,/u/vasudevram,1
-5,2016-03-14 10:53:47 -0500,['/t/visualization'],What Is a List? The Ultimate Predicate Showdown (in Clojure),http://www.bytopia.org/2016/03/08/what-is-a-list/,/u/dotemacs,3
-0,2016-03-14 11:55:19 -0500,"['/t/javascript', '/t/programming', '/t/testing', '/t/web']",Integrating Your Development Workflow Into Sublime With Build Systems - Part 4: Project-Specific Builds,http://ow.ly/ZruZw,/u/joezimjs,2
-2,2016-03-13 19:33:33 -0500,"['/t/elixir', '/t/erlang', '/t/web']",Managing two million web servers,http://joearms.github.com/2016/03/13/Managing-two-million-webservers.html,/u/hails,26
-0,2016-03-14 12:16:17 -0500,"['/t/android', '/t/privacy', '/t/release']",Eraser Map – privacy-focused mapping application that tracks nothing about you and has no accounts,https://mapzen.com/blog/erasermap-beta,/u/drewda,4
-0,2016-03-14 08:45:11 -0500,['/t/hardware'],WD PiDrive: a 314GB hard drive optimized for Raspberry Pi,http://wdlabs.wd.com/products/wd-pidrive-314gb/,/u/calvin,6
-0,2016-03-14 08:36:35 -0500,"['/t/video', '/t/design', '/t/historical']",Why the Wingdings font exists,https://www.youtube.com/watch?v=JdKV1L1DJHc,/u/flyingfisch,6
-2,2016-03-14 01:55:51 -0500,"['/t/games', '/t/graphics', '/t/programming']","""Another World"" source code review (2011)",http://fabiensanglard.net/anotherWorld_code_review/,/u/antifuchs,8
-0,2016-03-14 03:31:15 -0500,['/t/compsci'],Open-access CACM articles,http://www.kmjn.org/notes/open_access_cacm_articles.html,/u/mjn,5
-8,2016-03-13 15:53:52 -0500,"['/t/compsci', '/t/haskell', '/t/ml', '/t/programming', '/t/scala']",[Survey] Functional Programming Paradigm,http://goo.gl/forms/rkOshVDDZE,/u/gragtah,9
-0,2016-03-14 03:35:12 -0500,"['/t/pdf', '/t/security']",The first 10 years of Curve25519,https://cr.yp.to/talks/2016.03.09/slides-djb-20160309-a4.pdf,/u/fcambus,8
+1,2016-03-14 10:39:06 -0500,"/t/show,/t/lisp,/t/programming",Parser combinator macros for Common Lisp,https://github.com/arathnim/parmesan,/u/merzberimbow,17
+0,2016-03-14 09:29:51 -0500,"/t/pdf,/t/openbsd",OpenBSD project status update,http://www.openbsd.org/papers/asiabsdcon2016-openbsd.pdf,/u/fcambus,19
+0,2016-03-14 19:46:03 -0500,/t/php,How Badoo saved one million dollars switching to PHP7,https://techblog.badoo.com/blog/2016/03/14/how-badoo-saved-one-million-dollars-switching-to-php7/,/u/jcs,6
+0,2016-03-14 22:01:36 -0500,"/t/programming,/t/web",GitHub Pages for Non-Rubyists,http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/,/u/av,4
+0,2016-03-14 16:18:02 -0500,/t/databases,MongoDB: The Frankenstein Monster of NoSQL Databases,https://www.linkedin.com/pulse/mongodb-frankenstein-monster-nosql-databases-john-de-goes,/u/jdegoes,4
+0,2016-03-14 14:15:56 -0500,/t/linux,How does ltrace work?,http://blog.packagecloud.io/eng/2016/03/14/how-does-ltrace-work/,/u/kb,10
+1,2016-03-14 19:52:20 -0500,"/t/show,/t/javascript,/t/release",CLI for testing Node.js modules from NPM easier,https://github.com/VictorBjelkholm/trymodule,/u/VictorBjelkholm,2
+0,2016-03-14 13:23:27 -0500,"/t/philosophy,/t/privacy",The Nature Of The Self In The Digital Age,https://ar.al/notes/the-nature-of-the-self-in-the-digital-age/,/u/james,9
+1,2016-03-14 13:37:06 -0500,"/t/ml,/t/programming",Type-safe C bindings using ocaml-ctypes and stub generation,http://simonjbeaumont.com/posts/ocaml-ctypes/,/u/zem,6
+1,2016-03-14 09:28:54 -0500,"/t/pdf,/t/openbsd",Implementation of Xen PVHVM drivers in OpenBSD,http://www.openbsd.org/papers/asiabsdcon2016-xen-slides.pdf,/u/fcambus,11
+3,2016-03-14 08:45:31 -0500,"/t/design,/t/web",Viewport Unit Based Typography,http://zellwk.com/blog/viewport-based-typography/,/u/flyingfisch,7
+1,2016-03-14 07:07:22 -0500,/t/scala,Announcing The Scala Center,http://www.scala-lang.org/blog/2016/03/14/announcing-the-scala-center.html,/u/softinio,9
+13,2016-03-14 14:42:22 -0500,/t/security,Former cyber czar says NSA could crack the San Bernadino shooter’s phone,http://arstechnica.com/tech-policy/2016/03/former-cyber-czar-says-nsa-could-crack-the-san-bernadino-shooters-phone/,/u/steveno,2
+1,2016-03-14 08:37:41 -0500,/t/javascript,A Year Without jQuery,http://blog.wearecolony.com/a-year-without-jquery/,/u/flyingfisch,8
+0,2016-03-14 17:48:57 -0500,"/t/linux,/t/programming,/t/python,/t/unix",Unix split command in Python,http://jugad2.blogspot.com/2016/03/unix-split-command-in-python.html,/u/vasudevram,1
+5,2016-03-14 10:53:47 -0500,/t/visualization,What Is a List? The Ultimate Predicate Showdown (in Clojure),http://www.bytopia.org/2016/03/08/what-is-a-list/,/u/dotemacs,3
+0,2016-03-14 11:55:19 -0500,"/t/javascript,/t/programming,/t/testing,/t/web",Integrating Your Development Workflow Into Sublime With Build Systems - Part 4: Project-Specific Builds,http://ow.ly/ZruZw,/u/joezimjs,2
+2,2016-03-13 19:33:33 -0500,"/t/elixir,/t/erlang,/t/web",Managing two million web servers,http://joearms.github.com/2016/03/13/Managing-two-million-webservers.html,/u/hails,26
+0,2016-03-14 12:16:17 -0500,"/t/android,/t/privacy,/t/release",Eraser Map – privacy-focused mapping application that tracks nothing about you and has no accounts,https://mapzen.com/blog/erasermap-beta,/u/drewda,4
+0,2016-03-14 08:45:11 -0500,/t/hardware,WD PiDrive: a 314GB hard drive optimized for Raspberry Pi,http://wdlabs.wd.com/products/wd-pidrive-314gb/,/u/calvin,6
+0,2016-03-14 08:36:35 -0500,"/t/video,/t/design,/t/historical",Why the Wingdings font exists,https://www.youtube.com/watch?v=JdKV1L1DJHc,/u/flyingfisch,6
+2,2016-03-14 01:55:51 -0500,"/t/games,/t/graphics,/t/programming","""Another World"" source code review (2011)",http://fabiensanglard.net/anotherWorld_code_review/,/u/antifuchs,8
+0,2016-03-14 03:31:15 -0500,/t/compsci,Open-access CACM articles,http://www.kmjn.org/notes/open_access_cacm_articles.html,/u/mjn,5
+8,2016-03-13 15:53:52 -0500,"/t/compsci,/t/haskell,/t/ml,/t/programming,/t/scala",[Survey] Functional Programming Paradigm,http://goo.gl/forms/rkOshVDDZE,/u/gragtah,9
+0,2016-03-14 03:35:12 -0500,"/t/pdf,/t/security",The first 10 years of Curve25519,https://cr.yp.to/talks/2016.03.09/slides-djb-20160309-a4.pdf,/u/fcambus,8

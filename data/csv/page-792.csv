@@ -1,25 +1,25 @@
-7,2016-05-05 07:00:21 -0500,['/t/web'],"target=""_blank"" - the most underestimated vulnerability ever",https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/,/u/resir014,30
-3,2016-05-05 10:29:21 -0500,"['/t/dotnet', '/t/netbsd', '/t/unix']",.NET framework ported to NetBSD,https://github.com/dotnet/coreclr/pull/4504/files,/u/nbyouri,18
-0,2016-05-05 17:59:41 -0500,"['/t/law', '/t/science']",Elsevier Complaint Shuts Down Sci-Hub Domain Name,https://torrentfreak.com/elsevier-complaint-shuts-down-sci-hub-domain-name-160504/,/u/JordiGH,9
-1,2016-05-05 17:00:25 -0500,"['/t/practices', '/t/windows']","How can I write an unkillable program, redux",https://blogs.msdn.microsoft.com/oldnewthing/20160505-00/?p=93415,/u/tedu,6
-0,2016-05-05 12:21:15 -0500,"['/t/privacy', '/t/release', '/t/security']",An update on SSH protocol 1,http://lists.mindrot.org/pipermail/openssh-unix-dev/2016-May/035069.html,/u/cnst,13
-3,2016-05-05 12:04:53 -0500,"['/t/javascript', '/t/web']",shots: pull down the entire Internet into a single animated gif,https://github.com/bevacqua/shots,/u/bevacqua,6
-2,2016-05-05 04:51:55 -0500,"['/t/ios', '/t/networking']",Apple moves iOS to IPv6-only networks,https://ma.ttias.be/apple-moves-ios-ipv6-networks/,/u/mattiasgeniar,12
-2,2016-05-05 10:24:41 -0500,"['/t/finance', '/t/math']",What's wrong with Fibonacci?,http://adamhgrimes.com/blog/whats-wrong-fibonacci/,/u/voidzero,8
-4,2016-05-05 11:09:46 -0500,['/t/databases'],Comparison of different SQL implementations,http://troels.arvin.dk/db/rdbms,/u/asthasr,5
-0,2016-05-05 20:21:57 -0500,"['/t/javascript', '/t/web']",rollup.js — super-efficient next-generation JavaScript module bundler,http://rollupjs.org,/u/itistoday,3
-5,2016-05-05 15:30:42 -0500,['/t/javascript'],Why you should enforce Dangling Commas for Multiline Statements,https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8,/u/pushcx,2
-0,2016-05-05 20:12:13 -0500,"['/t/browsers', '/t/games', '/t/networking']",Beyond the Browser: Artillery’s Native Game Client,http://blog.artillery.com/2015/09/artillery-native-game-client.html,/u/pushcx,2
-0,2016-05-05 06:55:27 -0500,['/t/databases'],What PostgreSQL Tells You About Its Performance,http://okigiveup.net/what-postgresql-tells-you-about-its-performance/,/u/fcbsd,11
-0,2016-05-05 18:14:16 -0500,"['/t/practices', '/t/rust']",Cargo: predictable dependency management,http://blog.rust-lang.org/2016/05/05/cargo-pillars.html,/u/jitterted,2
-0,2016-05-05 17:13:19 -0500,"['/t/video', '/t/person', '/t/practices']","Hamming, ""You and Your Research"" (June 6, 1995)",https://www.youtube.com/watch?v=a1zDuOPkMSw,/u/sevan,2
-0,2016-05-05 17:06:02 -0500,['/t/security'],"Verizon 2016 DBIR: Phishing, Known Vulnerabilities & Credentials",https://duo.com/blog/verizon-2016-dbir-phishing-known-vulnerabilities-and-stolen-credentials,/u/tedu,2
-0,2016-05-05 20:03:21 -0500,"['/t/video', '/t/linux']",Linux Systems Performance,https://www.youtube.com/watch?v=CbmEDXq7es0,/u/sevan,1
-17,2016-05-04 08:39:56 -0500,['/t/ask'],What are some good resources for improving documentation skills?,/s/fug2hv/what_are_some_good_resources_for,/u/twelvebravo,40
-9,2016-05-04 15:51:15 -0500,"['/t/law', '/t/person']",FBI Harassment,https://blog.patternsinthevoid.net/fbi-harassment.html,/u/pushcx,18
-0,2016-05-05 12:50:08 -0500,"['/t/databases', '/t/distributed']","Serializable, Lockless, Distributed: Isolation in CockroachDB",https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/,/u/ngrilly,3
-0,2016-05-05 11:30:42 -0500,"['/t/cryptocurrencies', '/t/law']","At the Libertarian Convention, where blockchain evangelists dream of a perfect election",http://www.theverge.com/2016/5/5/11592806/libertarian-bitcoin-blockchain-voting-john-mcafee,/u/calvin,3
-0,2016-05-05 14:01:01 -0500,['/t/programming'],Logo Programming with Comics,http://whynotfireworks.com/programming-with-comics/,/u/pushcx,2
-0,2016-05-05 16:45:16 -0500,['/t/javascript'],A Taste of JavaScript’s New Parallel Primitives,https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/,/u/fitzgen,1
-0,2016-05-05 12:26:57 -0500,"['/t/devops', '/t/unix', '/t/windows']",Clarification regarding the status of Identity Management for Unix (IDMU) & NIS Server Role in Windows Server 2016 and beyond,https://blogs.technet.microsoft.com/activedirectoryua/2016/02/09/identity-management-for-unix-idmu-is-deprecated-in-windows-server/,/u/calvin,2
-0,2016-05-05 15:08:32 -0500,"['/t/api', '/t/programming', '/t/security']",OZorkAuth - Learn OAuth2 + Spring Boot The Fun Way!,https://stormpath.com/blog/ozorkauth-learn-oauth2-spring-boot-fun-way,/u/nbarbettini,1
+7,2016-05-05 07:00:21 -0500,/t/web,"target=""_blank"" - the most underestimated vulnerability ever",https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/,/u/resir014,30
+3,2016-05-05 10:29:21 -0500,"/t/dotnet,/t/netbsd,/t/unix",.NET framework ported to NetBSD,https://github.com/dotnet/coreclr/pull/4504/files,/u/nbyouri,18
+0,2016-05-05 17:59:41 -0500,"/t/law,/t/science",Elsevier Complaint Shuts Down Sci-Hub Domain Name,https://torrentfreak.com/elsevier-complaint-shuts-down-sci-hub-domain-name-160504/,/u/JordiGH,9
+1,2016-05-05 17:00:25 -0500,"/t/practices,/t/windows","How can I write an unkillable program, redux",https://blogs.msdn.microsoft.com/oldnewthing/20160505-00/?p=93415,/u/tedu,6
+0,2016-05-05 12:21:15 -0500,"/t/privacy,/t/release,/t/security",An update on SSH protocol 1,http://lists.mindrot.org/pipermail/openssh-unix-dev/2016-May/035069.html,/u/cnst,13
+3,2016-05-05 12:04:53 -0500,"/t/javascript,/t/web",shots: pull down the entire Internet into a single animated gif,https://github.com/bevacqua/shots,/u/bevacqua,6
+2,2016-05-05 04:51:55 -0500,"/t/ios,/t/networking",Apple moves iOS to IPv6-only networks,https://ma.ttias.be/apple-moves-ios-ipv6-networks/,/u/mattiasgeniar,12
+2,2016-05-05 10:24:41 -0500,"/t/finance,/t/math",What's wrong with Fibonacci?,http://adamhgrimes.com/blog/whats-wrong-fibonacci/,/u/voidzero,8
+4,2016-05-05 11:09:46 -0500,/t/databases,Comparison of different SQL implementations,http://troels.arvin.dk/db/rdbms,/u/asthasr,5
+0,2016-05-05 20:21:57 -0500,"/t/javascript,/t/web",rollup.js — super-efficient next-generation JavaScript module bundler,http://rollupjs.org,/u/itistoday,3
+5,2016-05-05 15:30:42 -0500,/t/javascript,Why you should enforce Dangling Commas for Multiline Statements,https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8,/u/pushcx,2
+0,2016-05-05 20:12:13 -0500,"/t/browsers,/t/games,/t/networking",Beyond the Browser: Artillery’s Native Game Client,http://blog.artillery.com/2015/09/artillery-native-game-client.html,/u/pushcx,2
+0,2016-05-05 06:55:27 -0500,/t/databases,What PostgreSQL Tells You About Its Performance,http://okigiveup.net/what-postgresql-tells-you-about-its-performance/,/u/fcbsd,11
+0,2016-05-05 18:14:16 -0500,"/t/practices,/t/rust",Cargo: predictable dependency management,http://blog.rust-lang.org/2016/05/05/cargo-pillars.html,/u/jitterted,2
+0,2016-05-05 17:13:19 -0500,"/t/video,/t/person,/t/practices","Hamming, ""You and Your Research"" (June 6, 1995)",https://www.youtube.com/watch?v=a1zDuOPkMSw,/u/sevan,2
+0,2016-05-05 17:06:02 -0500,/t/security,"Verizon 2016 DBIR: Phishing, Known Vulnerabilities & Credentials",https://duo.com/blog/verizon-2016-dbir-phishing-known-vulnerabilities-and-stolen-credentials,/u/tedu,2
+0,2016-05-05 20:03:21 -0500,"/t/video,/t/linux",Linux Systems Performance,https://www.youtube.com/watch?v=CbmEDXq7es0,/u/sevan,1
+17,2016-05-04 08:39:56 -0500,/t/ask,What are some good resources for improving documentation skills?,/s/fug2hv/what_are_some_good_resources_for,/u/twelvebravo,40
+9,2016-05-04 15:51:15 -0500,"/t/law,/t/person",FBI Harassment,https://blog.patternsinthevoid.net/fbi-harassment.html,/u/pushcx,18
+0,2016-05-05 12:50:08 -0500,"/t/databases,/t/distributed","Serializable, Lockless, Distributed: Isolation in CockroachDB",https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/,/u/ngrilly,3
+0,2016-05-05 11:30:42 -0500,"/t/cryptocurrencies,/t/law","At the Libertarian Convention, where blockchain evangelists dream of a perfect election",http://www.theverge.com/2016/5/5/11592806/libertarian-bitcoin-blockchain-voting-john-mcafee,/u/calvin,3
+0,2016-05-05 14:01:01 -0500,/t/programming,Logo Programming with Comics,http://whynotfireworks.com/programming-with-comics/,/u/pushcx,2
+0,2016-05-05 16:45:16 -0500,/t/javascript,A Taste of JavaScript’s New Parallel Primitives,https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/,/u/fitzgen,1
+0,2016-05-05 12:26:57 -0500,"/t/devops,/t/unix,/t/windows",Clarification regarding the status of Identity Management for Unix (IDMU) & NIS Server Role in Windows Server 2016 and beyond,https://blogs.technet.microsoft.com/activedirectoryua/2016/02/09/identity-management-for-unix-idmu-is-deprecated-in-windows-server/,/u/calvin,2
+0,2016-05-05 15:08:32 -0500,"/t/api,/t/programming,/t/security",OZorkAuth - Learn OAuth2 + Spring Boot The Fun Way!,https://stormpath.com/blog/ozorkauth-learn-oauth2-spring-boot-fun-way,/u/nbarbettini,1

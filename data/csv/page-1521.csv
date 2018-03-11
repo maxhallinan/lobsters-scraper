@@ -1,25 +1,25 @@
-1,2012-11-14 08:18:22 -0600,['/t/python'],The Performance Impact of Using dict() Instead of {} in CPython 2.7,http://www.doughellmann.com/articles/misc/dict-performance/,/u/kyle,6
-0,2012-11-14 14:18:36 -0600,"['/t/databases', '/t/python']","CodernityDB pure python, NoSQL, fast database — CodernityDB",http://labs.codernity.com/codernitydb/,/u/vladikoff,2
-4,2012-11-14 22:39:15 -0600,"['/t/c', '/t/unix']",JamesM's kernel development tutorials,http://www.jamesmolloy.co.uk/tutorial_html/index.html,/u/kyle,0
-0,2012-11-13 20:44:35 -0600,['/t/security'],Anatomy of an Attack: How I Hacked StackOverflow,http://blog.ircmaxell.com/2012/11/anatomy-of-attack-how-i-hacked.html,/u/jcs,7
-0,2012-11-14 00:22:36 -0600,"['/t/rant', '/t/release']",OOP Isn't a Fundamental Particle of Computing,http://prog21.dadgum.com/156.html,/u/trousers,7
-0,2012-11-13 15:23:37 -0600,['/t/ruby'],Rails 4 compilation links,http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/,/u/spastorino,7
-7,2012-11-13 15:46:29 -0600,"['/t/show', '/t/ruby']","TermNote - Write Ruby or YAML, get keynote in your terminal",https://github.com/krainboltgreene/termnote,/u/krainboltgreene,3
-1,2012-11-13 12:54:32 -0600,['/t/security'],All the crypto code you’ve ever written is probably broken,http://tonyarcieri.com/all-the-crypto-code-youve-ever-written-is-probably-broken,/u/kyle,6
-0,2012-11-13 15:20:03 -0600,['/t/erlang'],Why Erlang matters,http://petrohi.me/post/35644212001/why-erlang-matters,/u/jcs,3
-0,2012-11-13 09:44:40 -0600,"['/t/ruby', '/t/web']",rspec-rails and capybara 2.0: what you need to know,http://alindeman.github.com/2012/11/11/rspec-rails-and-capybara-2.0-what-you-need-to-know.html,/u/alindeman,5
-0,2012-11-13 12:21:45 -0600,['/t/c'],C++ Template Brainfuckery,http://blog.rfw.name/2012/11/12/brainfuck_with_templates.html,/u/kyle,2
-0,2012-11-13 12:20:41 -0600,['/t/compsci'],Twitter Engineering: Dimension Independent Similarity Computation (DISCO),http://engineering.twitter.com/2012/11/dimension-independent-similarity.html,/u/kyle,2
-1,2012-11-13 05:25:18 -0600,"['/t/show', '/t/c', '/t/release', '/t/web']",tengine - TaoBao's fork of nginx,https://github.com/taobao/tengine,/u/pkhamre,4
-2,2012-11-12 12:31:30 -0600,"['/t/video', '/t/vim']",Vim - precision editing at the speed of thought,http://vimeo.com/53144573,/u/jcs,11
-7,2012-11-11 21:23:45 -0600,"['/t/devops', '/t/unix']",fresh - a tool to manage and distribute dot files (think Bundler),http://freshshell.com/,/u/jasoncodes,15
-0,2012-11-12 21:24:32 -0600,"['/t/compsci', '/t/philosophy']","Some Thoughts on Teaching R to 50,000 Students",http://simplystatistics.org/post/35563800852/some-thoughts-on-teaching-r-to-50-000-students,/u/polyfractal,1
-5,2012-11-12 05:54:26 -0600,"['/t/video', '/t/ruby']",Ruby vs. the world - Matt Aimonetti - Ruby Conference 2012,http://confreaks.com/videos/1288-rubyconf2012-ruby-vs-the-world,/u/jipiboily,3
-0,2012-11-12 05:54:45 -0600,"['/t/video', '/t/ruby']",Real Time Salami - Aaron Patterson - Ruby Conference 2012,http://confreaks.com/videos/1291-rubyconf2012-real-time-salami,/u/jipiboily,4
-1,2012-11-12 02:57:38 -0600,['/t/ruby'],Running: gem to do Ruby implementation specific coding,https://github.com/kyledrake/running,/u/derpiechan,1
-0,2012-11-12 03:31:35 -0600,"['/t/show', '/t/javascript', '/t/release']",SSH2 client module written in pure JavaScript for node.js,https://github.com/mscdex/ssh2,/u/pkhamre,1
-0,2012-11-11 18:37:21 -0600,"['/t/android', '/t/design']",Android UI Patterns: Android Apps Redesigned,http://www.androiduipatterns.com/2012/11/android-apps-redesigned.html,/u/jcs,2
-1,2012-11-11 14:11:59 -0600,"['/t/video', '/t/compsci', '/t/ruby']",Refactoring from Good to Great - Ben Orenstein - Aloha Ruby Conf 2012,http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great,/u/jcs,2
-3,2012-11-09 13:39:55 -0600,['/t/databases'],RethinkDB - a distributed document database for scalable web applications,http://www.rethinkdb.com/,/u/polyfractal,7
-0,2012-11-09 06:41:28 -0600,"['/t/event', '/t/ruby']",Toward a Design for Ruby - Brian Ford - Ruby Conference 2012,http://www.confreaks.com/videos/1278-rubyconf2012-toward-a-design-for-ruby,/u/GutenYe,10
-1,2012-11-09 15:28:42 -0600,['/t/video'],"""That'll Never Work!"" | John Graham-Cumming",http://blog.jgc.org/2012/11/thatll-never-work.html,/u/trousers,2
+1,2012-11-14 08:18:22 -0600,/t/python,The Performance Impact of Using dict() Instead of {} in CPython 2.7,http://www.doughellmann.com/articles/misc/dict-performance/,/u/kyle,6
+0,2012-11-14 14:18:36 -0600,"/t/databases,/t/python","CodernityDB pure python, NoSQL, fast database — CodernityDB",http://labs.codernity.com/codernitydb/,/u/vladikoff,2
+4,2012-11-14 22:39:15 -0600,"/t/c,/t/unix",JamesM's kernel development tutorials,http://www.jamesmolloy.co.uk/tutorial_html/index.html,/u/kyle,0
+0,2012-11-13 20:44:35 -0600,/t/security,Anatomy of an Attack: How I Hacked StackOverflow,http://blog.ircmaxell.com/2012/11/anatomy-of-attack-how-i-hacked.html,/u/jcs,7
+0,2012-11-14 00:22:36 -0600,"/t/rant,/t/release",OOP Isn't a Fundamental Particle of Computing,http://prog21.dadgum.com/156.html,/u/trousers,7
+0,2012-11-13 15:23:37 -0600,/t/ruby,Rails 4 compilation links,http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/,/u/spastorino,7
+7,2012-11-13 15:46:29 -0600,"/t/show,/t/ruby","TermNote - Write Ruby or YAML, get keynote in your terminal",https://github.com/krainboltgreene/termnote,/u/krainboltgreene,3
+1,2012-11-13 12:54:32 -0600,/t/security,All the crypto code you’ve ever written is probably broken,http://tonyarcieri.com/all-the-crypto-code-youve-ever-written-is-probably-broken,/u/kyle,6
+0,2012-11-13 15:20:03 -0600,/t/erlang,Why Erlang matters,http://petrohi.me/post/35644212001/why-erlang-matters,/u/jcs,3
+0,2012-11-13 09:44:40 -0600,"/t/ruby,/t/web",rspec-rails and capybara 2.0: what you need to know,http://alindeman.github.com/2012/11/11/rspec-rails-and-capybara-2.0-what-you-need-to-know.html,/u/alindeman,5
+0,2012-11-13 12:21:45 -0600,/t/c,C++ Template Brainfuckery,http://blog.rfw.name/2012/11/12/brainfuck_with_templates.html,/u/kyle,2
+0,2012-11-13 12:20:41 -0600,/t/compsci,Twitter Engineering: Dimension Independent Similarity Computation (DISCO),http://engineering.twitter.com/2012/11/dimension-independent-similarity.html,/u/kyle,2
+1,2012-11-13 05:25:18 -0600,"/t/show,/t/c,/t/release,/t/web",tengine - TaoBao's fork of nginx,https://github.com/taobao/tengine,/u/pkhamre,4
+2,2012-11-12 12:31:30 -0600,"/t/video,/t/vim",Vim - precision editing at the speed of thought,http://vimeo.com/53144573,/u/jcs,11
+7,2012-11-11 21:23:45 -0600,"/t/devops,/t/unix",fresh - a tool to manage and distribute dot files (think Bundler),http://freshshell.com/,/u/jasoncodes,15
+0,2012-11-12 21:24:32 -0600,"/t/compsci,/t/philosophy","Some Thoughts on Teaching R to 50,000 Students",http://simplystatistics.org/post/35563800852/some-thoughts-on-teaching-r-to-50-000-students,/u/polyfractal,1
+5,2012-11-12 05:54:26 -0600,"/t/video,/t/ruby",Ruby vs. the world - Matt Aimonetti - Ruby Conference 2012,http://confreaks.com/videos/1288-rubyconf2012-ruby-vs-the-world,/u/jipiboily,3
+0,2012-11-12 05:54:45 -0600,"/t/video,/t/ruby",Real Time Salami - Aaron Patterson - Ruby Conference 2012,http://confreaks.com/videos/1291-rubyconf2012-real-time-salami,/u/jipiboily,4
+1,2012-11-12 02:57:38 -0600,/t/ruby,Running: gem to do Ruby implementation specific coding,https://github.com/kyledrake/running,/u/derpiechan,1
+0,2012-11-12 03:31:35 -0600,"/t/show,/t/javascript,/t/release",SSH2 client module written in pure JavaScript for node.js,https://github.com/mscdex/ssh2,/u/pkhamre,1
+0,2012-11-11 18:37:21 -0600,"/t/android,/t/design",Android UI Patterns: Android Apps Redesigned,http://www.androiduipatterns.com/2012/11/android-apps-redesigned.html,/u/jcs,2
+1,2012-11-11 14:11:59 -0600,"/t/video,/t/compsci,/t/ruby",Refactoring from Good to Great - Ben Orenstein - Aloha Ruby Conf 2012,http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great,/u/jcs,2
+3,2012-11-09 13:39:55 -0600,/t/databases,RethinkDB - a distributed document database for scalable web applications,http://www.rethinkdb.com/,/u/polyfractal,7
+0,2012-11-09 06:41:28 -0600,"/t/event,/t/ruby",Toward a Design for Ruby - Brian Ford - Ruby Conference 2012,http://www.confreaks.com/videos/1278-rubyconf2012-toward-a-design-for-ruby,/u/GutenYe,10
+1,2012-11-09 15:28:42 -0600,/t/video,"""That'll Never Work!"" | John Graham-Cumming",http://blog.jgc.org/2012/11/thatll-never-work.html,/u/trousers,2

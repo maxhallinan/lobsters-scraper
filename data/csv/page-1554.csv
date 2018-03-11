@@ -1,25 +1,25 @@
-0,2012-08-26 22:25:08 -0500,['/t/science'],Stanford biologist and computer scientist discover the 'anternet',http://engineering.stanford.edu/news/stanford-biologist-computer-scientist-discover-anternet,/u/mc,3
-0,2012-08-26 12:31:57 -0500,['/t/security'],Differential Fault Analysis by Example,http://www.limited-entropy.com/crypto-series-dfa,/u/kyle,2
-0,2012-08-26 01:04:26 -0500,['/t/security'],Exploiting SHA-1-signed messages,http://journal.batard.info/post/2011/03/04/exploiting-sha-1-signed-messages,/u/kyle,6
-0,2012-08-25 14:50:22 -0500,"['/t/news', '/t/person']",Neil Armstrong dead: Famed astronaut and first man on the moon dies aged 82,http://www.dailymail.co.uk/news/article-2193587/Neil-Armstrong-dead-Famed-astronaut-man-moon-dies-aged-82.html,/u/kyle,7
-0,2012-08-25 14:10:33 -0500,"['/t/javascript', '/t/security']",Stuffing Javascript into DNS names,http://www.skullsecurity.org/blog/2010/stuffing-javascript-into-dns-names,/u/kyle,3
-0,2012-08-25 14:11:17 -0500,['/t/privacy'],How Privacy in America Went Virtually Extinct in Just a Decade,http://www.alternet.org/civil-liberties/how-privacy-america-went-virtually-extinct-just-decade,/u/kyle,2
-4,2012-08-24 11:54:11 -0500,"['/t/show', '/t/ruby']",Lobsters is now open source,https://github.com/jcs/lobsters,/u/jcs,13
-0,2012-08-25 00:55:53 -0500,['/t/compsci'],Type Safety in Five Easy Lemmas,http://siek.blogspot.com/2012/08/type-safety-in-five-easy-lemmas.html,/u/kyle,2
-0,2012-08-24 17:09:31 -0500,['/t/vim'],Vim tips from Master Wq,http://blog.sanctum.geek.nz/vim-koans/,/u/qbit,4
-0,2012-08-24 12:31:32 -0500,['/t/science'],Researchers return blood cells to stem cell state,http://medicalxpress.com/news/2012-08-blood-cells-stem-cell-state.html,/u/mc,3
-0,2012-08-23 23:51:29 -0500,['/t/release'],Typing Practice for Programmers,http://typing.io/,/u/kyle,5
-0,2012-08-23 23:43:32 -0500,"['/t/c', '/t/scaling']",Plugins in C,http://eli.thegreenplace.net/2012/08/24/plugins-in-c/,/u/kyle,4
-0,2012-08-24 00:22:43 -0500,"['/t/hardware', '/t/scaling']","Observations on Errors, Corrections, & Trust of Dependent Systems",http://perspectives.mvdirona.com/2012/02/26/ObservationsOnErrorsCorrectionsTrustOfDependentSystems.aspx,/u/brycv,2
-3,2012-08-23 19:24:59 -0500,['/t/hardware'],Anyone Know the Difference Between the Intel S1200KP and S1200KPR?,http://brycv.com/blog/2012/anyone-know-the-difference-between-s1200kp-and-s1200kpr/,/u/brycv,2
-1,2012-08-23 16:03:44 -0500,"['/t/hardware', '/t/science']","Nanocellulose: A cheap, conductive, stronger-than-Kevlar wonder material made from wood pulp",http://www.extremetech.com/extreme/134910-nanocellulose-a-cheap-conductive-stronger-than-kevlar-wonder-material-made-from-wood-pulp,/u/jamesbritt,3
-1,2012-08-23 11:37:35 -0500,"['/t/show', '/t/javascript', '/t/web']",WebSocket Dot game written in Node.JS ( don't use firefox ),http://qbit.io,/u/qbit,5
-0,2012-08-23 11:43:16 -0500,['/t/compsci'],John Carmack discusses the art and science of software engineering,http://blogs.uw.edu/ajko/2012/08/22/john-carmack-discusses-the-art-and-science-of-software-engineering/,/u/pushcx,5
-3,2012-08-23 13:14:59 -0500,['/t/design'],Microsoft Unveils a New Look,https://blogs.technet.com/b/microsoft_blog/archive/2012/08/23/microsoft-unveils-a-new-look.aspx?Redirected=true,/u/jcs,2
-0,2012-08-23 18:02:20 -0500,"['/t/compsci', '/t/hardware']",Robot learns to recognise itself in mirror,http://www.bbc.com/news/technology-19354994,/u/kyle,2
-0,2012-08-23 18:02:08 -0500,"['/t/compsci', '/t/scaling']",Using Machine Learning on Social Networks to Figure Out What You Should Read on the Web ,http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html,/u/kyle,2
-3,2012-08-22 23:55:51 -0500,"['/t/show', '/t/book', '/t/networking', '/t/release', '/t/scaling', '/t/web']",Ask Lobsters: What are the best resources for learning REST properly?,/s/pjsowe/ask_lobsters_what_are_best_resources_for,/u/moses,8
-1,2012-08-23 10:49:10 -0500,['/t/privacy'],Who's Watching the NSA Watchers?,http://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html,/u/kyle,2
-0,2012-08-23 19:23:38 -0500,['/t/virtualization'],VMware Fusion 5 and VMware Workstation 9 Released,http://brycv.com/blog/2012/vmware-fusion-5-and-vmware-workstation-9-released/,/u/brycv,1
-0,2012-08-23 01:21:36 -0500,"['/t/show', '/t/go']",gopush: a Go client library for pushover,https://bitbucket.org/kisom/gopush,/u/kyle,7
-0,2012-08-23 01:32:56 -0500,"['/t/python', '/t/security']",Help Review Code for the Cryptography and Code Breaking Book,http://inventwithpython.com/blog/2012/08/21/help-review-code-for-the-cryptography-and-code-breaking-book/,/u/kyle,2
+0,2012-08-26 22:25:08 -0500,/t/science,Stanford biologist and computer scientist discover the 'anternet',http://engineering.stanford.edu/news/stanford-biologist-computer-scientist-discover-anternet,/u/mc,3
+0,2012-08-26 12:31:57 -0500,/t/security,Differential Fault Analysis by Example,http://www.limited-entropy.com/crypto-series-dfa,/u/kyle,2
+0,2012-08-26 01:04:26 -0500,/t/security,Exploiting SHA-1-signed messages,http://journal.batard.info/post/2011/03/04/exploiting-sha-1-signed-messages,/u/kyle,6
+0,2012-08-25 14:50:22 -0500,"/t/news,/t/person",Neil Armstrong dead: Famed astronaut and first man on the moon dies aged 82,http://www.dailymail.co.uk/news/article-2193587/Neil-Armstrong-dead-Famed-astronaut-man-moon-dies-aged-82.html,/u/kyle,7
+0,2012-08-25 14:10:33 -0500,"/t/javascript,/t/security",Stuffing Javascript into DNS names,http://www.skullsecurity.org/blog/2010/stuffing-javascript-into-dns-names,/u/kyle,3
+0,2012-08-25 14:11:17 -0500,/t/privacy,How Privacy in America Went Virtually Extinct in Just a Decade,http://www.alternet.org/civil-liberties/how-privacy-america-went-virtually-extinct-just-decade,/u/kyle,2
+4,2012-08-24 11:54:11 -0500,"/t/show,/t/ruby",Lobsters is now open source,https://github.com/jcs/lobsters,/u/jcs,13
+0,2012-08-25 00:55:53 -0500,/t/compsci,Type Safety in Five Easy Lemmas,http://siek.blogspot.com/2012/08/type-safety-in-five-easy-lemmas.html,/u/kyle,2
+0,2012-08-24 17:09:31 -0500,/t/vim,Vim tips from Master Wq,http://blog.sanctum.geek.nz/vim-koans/,/u/qbit,4
+0,2012-08-24 12:31:32 -0500,/t/science,Researchers return blood cells to stem cell state,http://medicalxpress.com/news/2012-08-blood-cells-stem-cell-state.html,/u/mc,3
+0,2012-08-23 23:51:29 -0500,/t/release,Typing Practice for Programmers,http://typing.io/,/u/kyle,5
+0,2012-08-23 23:43:32 -0500,"/t/c,/t/scaling",Plugins in C,http://eli.thegreenplace.net/2012/08/24/plugins-in-c/,/u/kyle,4
+0,2012-08-24 00:22:43 -0500,"/t/hardware,/t/scaling","Observations on Errors, Corrections, & Trust of Dependent Systems",http://perspectives.mvdirona.com/2012/02/26/ObservationsOnErrorsCorrectionsTrustOfDependentSystems.aspx,/u/brycv,2
+3,2012-08-23 19:24:59 -0500,/t/hardware,Anyone Know the Difference Between the Intel S1200KP and S1200KPR?,http://brycv.com/blog/2012/anyone-know-the-difference-between-s1200kp-and-s1200kpr/,/u/brycv,2
+1,2012-08-23 16:03:44 -0500,"/t/hardware,/t/science","Nanocellulose: A cheap, conductive, stronger-than-Kevlar wonder material made from wood pulp",http://www.extremetech.com/extreme/134910-nanocellulose-a-cheap-conductive-stronger-than-kevlar-wonder-material-made-from-wood-pulp,/u/jamesbritt,3
+1,2012-08-23 11:37:35 -0500,"/t/show,/t/javascript,/t/web",WebSocket Dot game written in Node.JS ( don't use firefox ),http://qbit.io,/u/qbit,5
+0,2012-08-23 11:43:16 -0500,/t/compsci,John Carmack discusses the art and science of software engineering,http://blogs.uw.edu/ajko/2012/08/22/john-carmack-discusses-the-art-and-science-of-software-engineering/,/u/pushcx,5
+3,2012-08-23 13:14:59 -0500,/t/design,Microsoft Unveils a New Look,https://blogs.technet.com/b/microsoft_blog/archive/2012/08/23/microsoft-unveils-a-new-look.aspx?Redirected=true,/u/jcs,2
+0,2012-08-23 18:02:20 -0500,"/t/compsci,/t/hardware",Robot learns to recognise itself in mirror,http://www.bbc.com/news/technology-19354994,/u/kyle,2
+0,2012-08-23 18:02:08 -0500,"/t/compsci,/t/scaling",Using Machine Learning on Social Networks to Figure Out What You Should Read on the Web ,http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html,/u/kyle,2
+3,2012-08-22 23:55:51 -0500,"/t/show,/t/book,/t/networking,/t/release,/t/scaling,/t/web",Ask Lobsters: What are the best resources for learning REST properly?,/s/pjsowe/ask_lobsters_what_are_best_resources_for,/u/moses,8
+1,2012-08-23 10:49:10 -0500,/t/privacy,Who's Watching the NSA Watchers?,http://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html,/u/kyle,2
+0,2012-08-23 19:23:38 -0500,/t/virtualization,VMware Fusion 5 and VMware Workstation 9 Released,http://brycv.com/blog/2012/vmware-fusion-5-and-vmware-workstation-9-released/,/u/brycv,1
+0,2012-08-23 01:21:36 -0500,"/t/show,/t/go",gopush: a Go client library for pushover,https://bitbucket.org/kisom/gopush,/u/kyle,7
+0,2012-08-23 01:32:56 -0500,"/t/python,/t/security",Help Review Code for the Cryptography and Code Breaking Book,http://inventwithpython.com/blog/2012/08/21/help-review-code-for-the-cryptography-and-code-breaking-book/,/u/kyle,2

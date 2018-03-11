@@ -14,7 +14,9 @@ def scrape_story(story_soup):
 
     submitted_on = story_soup.select(".byline span")[0]["title"]
 
-    tags = [ tag_soup["href"] for tag_soup in story_soup.select(".tag")]
+    tag_list = [ tag_soup["href"] for tag_soup in story_soup.select(".tag")]
+    
+    tags = ",".join(tag_list)
 
     title = story_soup.select(".link a")[0].text
 

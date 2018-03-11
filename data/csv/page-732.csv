@@ -1,25 +1,25 @@
-10,2016-07-06 10:49:07 -0500,"['/t/javascript', '/t/practices', '/t/web']",The Future of the Web,http://alistapart.com/article/the-future-of-the-web,/u/flyingfisch,3
-0,2016-07-05 19:57:18 -0500,"['/t/go', '/t/networking']",Go’s march to low-latency GC,https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7,/u/kb,32
-0,2016-07-06 08:10:19 -0500,['/t/security'],Logic security flaw in TP-LINK - tplinklogin.net,http://seclists.org/bugtraq/2016/Jul/3,/u/stsp,5
-1,2016-07-06 11:38:47 -0500,"['/t/pdf', '/t/compilers', '/t/compsci']",Uniprocessor Garbage Collection Techniques,http://www.cs.rice.edu/~javaplt/311/Readings/wilson92uniprocessor.pdf,/u/pushcx,2
-2,2016-07-05 19:47:35 -0500,['/t/math'],What are the most misleading alternate definitions in taught mathematics?,http://mathoverflow.net/questions/7584/what-are-the-most-misleading-alternate-definitions-in-taught-mathematics,/u/omphalos,15
-9,2016-07-05 15:18:25 -0500,"['/t/mac', '/t/release']",iTerm2 Version 3 Released,https://www.iterm2.com/version3.html,/u/ngoldbaum,17
-24,2016-07-05 04:19:18 -0500,"['/t/api', '/t/programming']",Why do we keep building rotten foundations? (a.k.a. GTK versioning),https://davmac.wordpress.com/2016/07/05/why-do-we-keep-building-rotten-foundations/,/u/edd,45
-0,2016-07-06 16:13:18 -0500,['/t/c'],C++ IDE Cevelop 1.5 released,https://www.cevelop.com/2016/07/06/neon.html,/u/Mordo,1
-1,2016-07-05 10:46:51 -0500,['/t/programming'],What is Tensorflow?,http://blog.softwarecurmudgeon.com/what-is-tensorflow/,/u/dix,22
-0,2016-07-06 02:40:51 -0500,"['/t/lisp', '/t/programming', '/t/release']",Rapid Scheme 0.1: An implementation of R7RS scheme written in R7RS scheme,https://groups.google.com/forum/?hl=en&fromgroups#!topic/comp.lang.scheme/RFRAgbNVtcA,/u/zem,7
-0,2016-07-05 23:33:25 -0500,['/t/law'],Bulgaria Got a Law Requiring Open Source,https://thepolicy.us/bulgaria-got-a-law-requiring-open-source-98bf626cf70a,/u/cnst,9
-0,2016-07-06 08:29:46 -0500,"['/t/databases', '/t/programming', '/t/python']",Geolocation using multiple services,http://blog.garage-coding.com/2016/07/06/geolocation-using-multiple-services.html,/u/wsdookadr,1
-0,2016-07-06 01:14:20 -0500,"['/t/show', '/t/release']",xmake v2.0.2 released!,http://xmake.io,/u/ruki,3
-0,2016-07-06 02:48:26 -0500,"['/t/linux', '/t/release', '/t/security']",Tails 2.4 Released,https://tails.boum.org/news/version_2.4/index.en.html,/u/Snocrash,5
-4,2016-07-05 06:46:11 -0500,"['/t/devops', '/t/testing']",Egypt cancelled DST ... with just 3 days' notice,http://mm.icann.org/pipermail/tz/2016-July/023855.html,/u/skunkwerks,32
-2,2016-07-05 06:10:52 -0500,"['/t/c', '/t/haskell', '/t/programming', '/t/rust']",Corrode: A C -> Rust translator in literate haskell,https://github.com/jameysharp/corrode/blob/master/src/Language/Rust/Corrode/C.md,/u/zem,26
-0,2016-07-06 12:34:01 -0500,"['/t/cogsci', '/t/culture']",Capital Capitals,http://chronicle.com/blogs/linguafranca/2016/07/05/capital-capitals/,/u/tedu,1
-0,2016-07-05 22:07:43 -0500,['/t/hardware'],Earth-friendly EOMA68 Computing Devices,https://www.crowdsupply.com/eoma68/micro-desktop,/u/adsouza,4
-5,2016-07-05 07:55:49 -0500,['/t/ios'],"""How to turn off the shutter sound?"" (Dec 2010)",http://stackoverflow.com/questions/4401232/avfoundation-how-to-turn-off-the-shutter-sound-when-capturestillimageasynchrono,/u/dangerstick,11
-0,2016-07-06 02:42:33 -0500,"['/t/games', '/t/javascript', '/t/web']",Web Font Preloading for HTML5 Games,https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/,/u/Snocrash,2
-0,2016-07-05 21:28:21 -0500,"['/t/math', '/t/programming']",J Dictionary,http://www.cs.trinity.edu/About/The_Courses/jhelp/dictionary/contents.htm,/u/davyjones,4
-0,2016-07-05 17:46:22 -0500,"['/t/devops', '/t/event', '/t/scaling']",Monitorama 2016 - A (Biased) Recap,http://blog.librato.com/posts/monitorama-2016-recap,/u/Librato,3
-18,2016-07-05 01:30:50 -0500,"['/t/freebsd', '/t/linux', '/t/netbsd', '/t/openbsd']",BSD vs Linux (2004),http://www.over-yonder.net/~fullermd/rants/bsd4linux/01,/u/zg,18
-10,2016-07-05 04:59:15 -0500,"['/t/hardware', '/t/security']",SexyCyborg goes Pentesting,http://imgur.com/a/c4WNF,/u/mulander,14
-1,2016-07-05 08:21:18 -0500,"['/t/dotnet', '/t/release']",Building a BitTorrent client from scratch in C#,https://cheatdeath.github.io/research-bittorrent-doc/,/u/355E3B,15
+10,2016-07-06 10:49:07 -0500,"/t/javascript,/t/practices,/t/web",The Future of the Web,http://alistapart.com/article/the-future-of-the-web,/u/flyingfisch,3
+0,2016-07-05 19:57:18 -0500,"/t/go,/t/networking",Go’s march to low-latency GC,https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7,/u/kb,32
+0,2016-07-06 08:10:19 -0500,/t/security,Logic security flaw in TP-LINK - tplinklogin.net,http://seclists.org/bugtraq/2016/Jul/3,/u/stsp,5
+1,2016-07-06 11:38:47 -0500,"/t/pdf,/t/compilers,/t/compsci",Uniprocessor Garbage Collection Techniques,http://www.cs.rice.edu/~javaplt/311/Readings/wilson92uniprocessor.pdf,/u/pushcx,2
+2,2016-07-05 19:47:35 -0500,/t/math,What are the most misleading alternate definitions in taught mathematics?,http://mathoverflow.net/questions/7584/what-are-the-most-misleading-alternate-definitions-in-taught-mathematics,/u/omphalos,15
+9,2016-07-05 15:18:25 -0500,"/t/mac,/t/release",iTerm2 Version 3 Released,https://www.iterm2.com/version3.html,/u/ngoldbaum,17
+24,2016-07-05 04:19:18 -0500,"/t/api,/t/programming",Why do we keep building rotten foundations? (a.k.a. GTK versioning),https://davmac.wordpress.com/2016/07/05/why-do-we-keep-building-rotten-foundations/,/u/edd,45
+0,2016-07-06 16:13:18 -0500,/t/c,C++ IDE Cevelop 1.5 released,https://www.cevelop.com/2016/07/06/neon.html,/u/Mordo,1
+1,2016-07-05 10:46:51 -0500,/t/programming,What is Tensorflow?,http://blog.softwarecurmudgeon.com/what-is-tensorflow/,/u/dix,22
+0,2016-07-06 02:40:51 -0500,"/t/lisp,/t/programming,/t/release",Rapid Scheme 0.1: An implementation of R7RS scheme written in R7RS scheme,https://groups.google.com/forum/?hl=en&fromgroups#!topic/comp.lang.scheme/RFRAgbNVtcA,/u/zem,7
+0,2016-07-05 23:33:25 -0500,/t/law,Bulgaria Got a Law Requiring Open Source,https://thepolicy.us/bulgaria-got-a-law-requiring-open-source-98bf626cf70a,/u/cnst,9
+0,2016-07-06 08:29:46 -0500,"/t/databases,/t/programming,/t/python",Geolocation using multiple services,http://blog.garage-coding.com/2016/07/06/geolocation-using-multiple-services.html,/u/wsdookadr,1
+0,2016-07-06 01:14:20 -0500,"/t/show,/t/release",xmake v2.0.2 released!,http://xmake.io,/u/ruki,3
+0,2016-07-06 02:48:26 -0500,"/t/linux,/t/release,/t/security",Tails 2.4 Released,https://tails.boum.org/news/version_2.4/index.en.html,/u/Snocrash,5
+4,2016-07-05 06:46:11 -0500,"/t/devops,/t/testing",Egypt cancelled DST ... with just 3 days' notice,http://mm.icann.org/pipermail/tz/2016-July/023855.html,/u/skunkwerks,32
+2,2016-07-05 06:10:52 -0500,"/t/c,/t/haskell,/t/programming,/t/rust",Corrode: A C -> Rust translator in literate haskell,https://github.com/jameysharp/corrode/blob/master/src/Language/Rust/Corrode/C.md,/u/zem,26
+0,2016-07-06 12:34:01 -0500,"/t/cogsci,/t/culture",Capital Capitals,http://chronicle.com/blogs/linguafranca/2016/07/05/capital-capitals/,/u/tedu,1
+0,2016-07-05 22:07:43 -0500,/t/hardware,Earth-friendly EOMA68 Computing Devices,https://www.crowdsupply.com/eoma68/micro-desktop,/u/adsouza,4
+5,2016-07-05 07:55:49 -0500,/t/ios,"""How to turn off the shutter sound?"" (Dec 2010)",http://stackoverflow.com/questions/4401232/avfoundation-how-to-turn-off-the-shutter-sound-when-capturestillimageasynchrono,/u/dangerstick,11
+0,2016-07-06 02:42:33 -0500,"/t/games,/t/javascript,/t/web",Web Font Preloading for HTML5 Games,https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/,/u/Snocrash,2
+0,2016-07-05 21:28:21 -0500,"/t/math,/t/programming",J Dictionary,http://www.cs.trinity.edu/About/The_Courses/jhelp/dictionary/contents.htm,/u/davyjones,4
+0,2016-07-05 17:46:22 -0500,"/t/devops,/t/event,/t/scaling",Monitorama 2016 - A (Biased) Recap,http://blog.librato.com/posts/monitorama-2016-recap,/u/Librato,3
+18,2016-07-05 01:30:50 -0500,"/t/freebsd,/t/linux,/t/netbsd,/t/openbsd",BSD vs Linux (2004),http://www.over-yonder.net/~fullermd/rants/bsd4linux/01,/u/zg,18
+10,2016-07-05 04:59:15 -0500,"/t/hardware,/t/security",SexyCyborg goes Pentesting,http://imgur.com/a/c4WNF,/u/mulander,14
+1,2016-07-05 08:21:18 -0500,"/t/dotnet,/t/release",Building a BitTorrent client from scratch in C#,https://cheatdeath.github.io/research-bittorrent-doc/,/u/355E3B,15

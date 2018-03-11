@@ -1,25 +1,25 @@
-0,2017-05-08 13:51:40 -0500,['/t/haskell'],Haskell Under the Hood - Scalpel's Scraper,http://hs.eraveline.eu/posts/scalpel.html,/u/numberten,3
-0,2017-05-08 09:50:46 -0500,['/t/graphics'],Lightmap Compression in The Witness,http://www.ludicon.com/castano/blog/2016/09/lightmap-compression-in-the-witness/,/u/mikejsavage,5
-0,2017-05-08 12:54:45 -0500,['/t/dotnet'],Arrays and the CLR - a Very Special Relationship,http://www.mattwarren.org/2017/05/08/Arrays-and-the-CLR-a-Very-Special-Relationship/,/u/flyingfisch,3
-0,2017-05-08 09:41:33 -0500,['/t/graphics'],Shadow Mapping Summary – Part 1,http://the-witness.net/news/2013/09/shadow-mapping-summary-part-1/,/u/mikejsavage,4
-5,2017-05-07 17:39:38 -0500,"['/t/compsci', '/t/education', '/t/practices']",A Better Software Engineering Course (2014),http://third-bit.com/2014/10/02/a-better-software-engineering-course.html,/u/quobit,13
-0,2017-05-08 13:39:55 -0500,"['/t/pdf', '/t/compsci', '/t/programming']","RTFM-core - Reactive, real-time, concurrency-safe language for IoT apps",https://www.diva-portal.org/smash/get/diva2:1013248/FULLTEXT01.pdf,/u/nickpsecurity,2
-0,2017-05-08 09:40:13 -0500,"['/t/pdf', '/t/graphics']","Shadows in games, practical considerations",http://www.dimension3.sk/downloads/valient12_shadows_in_games.pdf,/u/mikejsavage,3
-1,2017-05-08 16:34:19 -0500,"['/t/ask', '/t/culture', '/t/practices']",Scientific Project Estimation: Does anybody care about the answers?,/s/lo1elp/scientific_project_estimation_does,/u/JohnCarter,2
-0,2017-05-08 09:42:31 -0500,['/t/graphics'],A Sampling of Shadow Techniques,https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/,/u/mikejsavage,2
-1,2017-05-07 16:06:45 -0500,['/t/programming'],What Event Sourcing is not,https://www.hugopicado.com/2017/05/06/what-event-sourcing-is-not.html,/u/pushcx,14
-0,2017-05-08 12:00:44 -0500,['/t/programming'],Better Keynote Export,https://github.com/mcfunley/better-keynote-export,/u/kb,1
-2,2017-05-08 03:01:37 -0500,['/t/practices'],Why is software / website tendering so broken?,https://www.linkedin.com/pulse/why-softwarewebsite-tendering-so-broken-peter-brownell,/u/james,2
-2,2017-05-07 18:41:04 -0500,['/t/css'],CSSplus - a family of CSS reprocessor plugins,https://tomhodgins.github.io/cssplus/,/u/innovati,3
-0,2017-05-07 21:26:59 -0500,"['/t/assembly', '/t/graphics', '/t/programming']",Optimizing Lever PNG loading,http://boxbase.org/entries/2017/may/8/optimizing_lever_png/,/u/calvin,4
-2,2017-05-07 08:23:46 -0500,['/t/freebsd'],Bringing up 802.11ac on FreeBSD,http://adrianchadd.blogspot.com/2017/04/bringing-up-80211ac-on-freebsd.html,/u/stsp,17
-2,2017-05-07 10:42:21 -0500,['/t/databases'],The Long Road to Mongo's Durability,https://brandur.org/fragments/mongo-durability,/u/craigkerstiens,8
-2,2017-05-07 08:52:10 -0500,"['/t/c++', '/t/security']","Ode to the use-after-free: one vulnerable function, a thousand possibilities",https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html,/u/craigstuntz,14
-3,2017-05-07 02:17:47 -0500,"['/t/release', '/t/security']",HandBrake Mirror Download Server Compromised,https://forum.handbrake.fr/viewtopic.php?t=36364,/u/trousers,19
-13,2017-05-06 18:50:35 -0500,['/t/rust'],The Grass is Always Greener - My Struggles with Rust,https://compileandrun.com/stuggles-with-rust.html,/u/calvin,36
-0,2017-05-07 13:46:25 -0500,"['/t/hardware', '/t/historical']",Steve Jobs’ Custom Apple I,https://techcrunch.com/2017/04/17/steve-jobs-custom-apple-i-and-other-historic-machines-are-on-display-at-seattle-museum/,/u/pushcx,6
-0,2017-05-07 15:13:43 -0500,"['/t/video', '/t/event']",Memory Safety and D - Walter Bright at DConf2017,https://www.youtube.com/watch?v=u-g5ZVgvVrE,/u/qznc,5
-2,2017-05-07 06:35:30 -0500,['/t/mac'],APFS: A Look Inside the New Apple File System,https://www.backblaze.com/blog/apfs-apple-file-system/,/u/adsouza,12
-16,2017-05-06 11:43:12 -0500,"['/t/design', '/t/emacs']",Less intrusive color theme,http://vfoley.xyz/syntax-highlighting/,/u/vfoley,19
-6,2017-05-06 17:32:05 -0500,"['/t/book', '/t/education', '/t/practices']",Textbook manifesto – Students should read and understand textbooks,http://greenteapress.com/wp/textbook-manifesto/,/u/quobit,22
-12,2017-05-07 07:04:16 -0500,['/t/culture'],Mark Zuckerberg should try living in the real world,https://www.theguardian.com/commentisfree/2017/may/07/mark-zuckerberg-should-try-living-in-real-world-facebook,/u/jackivan88,11
+0,2017-05-08 13:51:40 -0500,/t/haskell,Haskell Under the Hood - Scalpel's Scraper,http://hs.eraveline.eu/posts/scalpel.html,/u/numberten,3
+0,2017-05-08 09:50:46 -0500,/t/graphics,Lightmap Compression in The Witness,http://www.ludicon.com/castano/blog/2016/09/lightmap-compression-in-the-witness/,/u/mikejsavage,5
+0,2017-05-08 12:54:45 -0500,/t/dotnet,Arrays and the CLR - a Very Special Relationship,http://www.mattwarren.org/2017/05/08/Arrays-and-the-CLR-a-Very-Special-Relationship/,/u/flyingfisch,3
+0,2017-05-08 09:41:33 -0500,/t/graphics,Shadow Mapping Summary – Part 1,http://the-witness.net/news/2013/09/shadow-mapping-summary-part-1/,/u/mikejsavage,4
+5,2017-05-07 17:39:38 -0500,"/t/compsci,/t/education,/t/practices",A Better Software Engineering Course (2014),http://third-bit.com/2014/10/02/a-better-software-engineering-course.html,/u/quobit,13
+0,2017-05-08 13:39:55 -0500,"/t/pdf,/t/compsci,/t/programming","RTFM-core - Reactive, real-time, concurrency-safe language for IoT apps",https://www.diva-portal.org/smash/get/diva2:1013248/FULLTEXT01.pdf,/u/nickpsecurity,2
+0,2017-05-08 09:40:13 -0500,"/t/pdf,/t/graphics","Shadows in games, practical considerations",http://www.dimension3.sk/downloads/valient12_shadows_in_games.pdf,/u/mikejsavage,3
+1,2017-05-08 16:34:19 -0500,"/t/ask,/t/culture,/t/practices",Scientific Project Estimation: Does anybody care about the answers?,/s/lo1elp/scientific_project_estimation_does,/u/JohnCarter,2
+0,2017-05-08 09:42:31 -0500,/t/graphics,A Sampling of Shadow Techniques,https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/,/u/mikejsavage,2
+1,2017-05-07 16:06:45 -0500,/t/programming,What Event Sourcing is not,https://www.hugopicado.com/2017/05/06/what-event-sourcing-is-not.html,/u/pushcx,14
+0,2017-05-08 12:00:44 -0500,/t/programming,Better Keynote Export,https://github.com/mcfunley/better-keynote-export,/u/kb,1
+2,2017-05-08 03:01:37 -0500,/t/practices,Why is software / website tendering so broken?,https://www.linkedin.com/pulse/why-softwarewebsite-tendering-so-broken-peter-brownell,/u/james,2
+2,2017-05-07 18:41:04 -0500,/t/css,CSSplus - a family of CSS reprocessor plugins,https://tomhodgins.github.io/cssplus/,/u/innovati,3
+0,2017-05-07 21:26:59 -0500,"/t/assembly,/t/graphics,/t/programming",Optimizing Lever PNG loading,http://boxbase.org/entries/2017/may/8/optimizing_lever_png/,/u/calvin,4
+2,2017-05-07 08:23:46 -0500,/t/freebsd,Bringing up 802.11ac on FreeBSD,http://adrianchadd.blogspot.com/2017/04/bringing-up-80211ac-on-freebsd.html,/u/stsp,17
+2,2017-05-07 10:42:21 -0500,/t/databases,The Long Road to Mongo's Durability,https://brandur.org/fragments/mongo-durability,/u/craigkerstiens,8
+2,2017-05-07 08:52:10 -0500,"/t/c++,/t/security","Ode to the use-after-free: one vulnerable function, a thousand possibilities",https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html,/u/craigstuntz,14
+3,2017-05-07 02:17:47 -0500,"/t/release,/t/security",HandBrake Mirror Download Server Compromised,https://forum.handbrake.fr/viewtopic.php?t=36364,/u/trousers,19
+13,2017-05-06 18:50:35 -0500,/t/rust,The Grass is Always Greener - My Struggles with Rust,https://compileandrun.com/stuggles-with-rust.html,/u/calvin,36
+0,2017-05-07 13:46:25 -0500,"/t/hardware,/t/historical",Steve Jobs’ Custom Apple I,https://techcrunch.com/2017/04/17/steve-jobs-custom-apple-i-and-other-historic-machines-are-on-display-at-seattle-museum/,/u/pushcx,6
+0,2017-05-07 15:13:43 -0500,"/t/video,/t/event",Memory Safety and D - Walter Bright at DConf2017,https://www.youtube.com/watch?v=u-g5ZVgvVrE,/u/qznc,5
+2,2017-05-07 06:35:30 -0500,/t/mac,APFS: A Look Inside the New Apple File System,https://www.backblaze.com/blog/apfs-apple-file-system/,/u/adsouza,12
+16,2017-05-06 11:43:12 -0500,"/t/design,/t/emacs",Less intrusive color theme,http://vfoley.xyz/syntax-highlighting/,/u/vfoley,19
+6,2017-05-06 17:32:05 -0500,"/t/book,/t/education,/t/practices",Textbook manifesto – Students should read and understand textbooks,http://greenteapress.com/wp/textbook-manifesto/,/u/quobit,22
+12,2017-05-07 07:04:16 -0500,/t/culture,Mark Zuckerberg should try living in the real world,https://www.theguardian.com/commentisfree/2017/may/07/mark-zuckerberg-should-try-living-in-real-world-facebook,/u/jackivan88,11

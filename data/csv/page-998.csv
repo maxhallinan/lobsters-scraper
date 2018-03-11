@@ -1,25 +1,25 @@
-0,2015-10-19 18:25:05 -0500,"['/t/video', '/t/law', '/t/security']",Policy.Byte: Governments Weakening Encryption,http://www.youtube.com/watch?v=SRUwEpiec7M,/u/tf,2
-0,2015-10-19 18:06:04 -0500,['/t/windows'],PowerShell/Win32-OpenSSH,https://github.com/PowerShell/Win32-OpenSSH,/u/qbit,2
-1,2015-10-18 21:58:59 -0500,['/t/games'],The quest for Shadow of the Colossus' last big secret (2013),http://www.eurogamer.net/articles/2013-05-02-the-quest-for-shadow-of-the-colossuss-last-big-secret,/u/pushcx,19
-11,2015-10-18 17:47:41 -0500,"['/t/privacy', '/t/web']",Evidence of IP-based personalized filtering on Twitter,https://twitter.com/taoeffect/status/655876435651878913,/u/itistoday,12
-0,2015-10-19 10:24:10 -0500,"['/t/compsci', '/t/math']",Measuring The Error of Floating Point Programs,http://alex.uwplse.org/2015/08/03/measuring-error.html,/u/pushcx,5
-7,2015-10-19 02:25:38 -0500,"['/t/ios', '/t/security']",Facebook iOS App Scrapes Your Clipboard?,https://un-excogitate.org/facebook-ios-clipboard/,/u/daGrevis,6
-3,2015-10-19 08:07:56 -0500,"['/t/javascript', '/t/programming', '/t/visualization', '/t/web']",JavaScript Charting Made Easy with JSCharting,http://www.joezimjs.com/javascript/javascript-charting-made-easy-with-js-charting/,/u/joezimjs,1
-0,2015-10-19 10:16:33 -0500,"['/t/databases', '/t/haskell', '/t/programming']",Opaleye's sugar on top: SQL in the type system where it belongs,http://ren.zone/articles/opaleye-sot,/u/pushcx,4
-6,2015-10-18 12:02:17 -0500,['/t/practices'],An Engineering Theory of the Volkswagen Scandal,http://www.newyorker.com/business/currency/an-engineering-theory-of-the-volkswagen-scandal,/u/pushcx,20
-6,2015-10-18 22:05:55 -0500,"['/t/c', '/t/programming']",Rant: On the std::experimental::variant to come to C++,http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come,/u/zem,6
-0,2015-10-18 10:32:16 -0500,['/t/openbsd'],OpenBSD 5.8 released,http://www.openbsd.org/58.html,/u/fcambus,42
-0,2015-10-19 06:26:36 -0500,"['/t/javascript', '/t/web']",Lazy Loading Images on the Web,http://developer.telerik.com/featured/lazy-loading-images-on-the-web/,/u/remotesynth,2
-0,2015-10-18 17:55:17 -0500,['/t/compilers'],Even More BF Optimisations,http://www.wilfred.me.uk/blog/2015/10/18/even-more-bf-optimisations/,/u/Wilfred,9
-0,2015-10-19 14:28:11 -0500,"['/t/design', '/t/web']",Sass Color Maps,http://codepen.io/zgreen/post/sass-color-maps,/u/flyingfisch,1
-0,2015-10-19 10:17:28 -0500,"['/t/video', '/t/browsers']",So how does the browser actually render a website?,https://www.youtube.com/watch?v=SmE4OwHztCc,/u/pushcx,2
-0,2015-10-19 09:48:30 -0500,['/t/ask'],What reference books are you using this week?,/s/5r0e5b/what_reference_books_are_you_using_this,/u/zg,2
-1,2015-10-18 16:53:42 -0500,['/t/lisp'],The birth of LISP – a summary of John McCarthy’s original paper,http://swizec.com/blog/the-birth-of-lisp-a-summary-of-john-mccarthys-original-paper/swizec/5075,/u/rubenbarroso,13
-0,2015-10-18 17:09:09 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Ingo Schwarze,http://beastie.pl/deweloperzy-openbsd-ingo-schwarze/,/u/mulander,12
-0,2015-10-18 12:26:28 -0500,['/t/security'],Why is length > complexity? Because math...,http://malwarejake.blogspot.com/2015/10/why-is-length-complexity-because-math.html,/u/pushcx,18
-0,2015-10-19 06:02:38 -0500,"['/t/pdf', '/t/compsci', '/t/security']",Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice,https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf,/u/goncalo,2
-1,2015-10-18 14:56:27 -0500,['/t/compsci'],A conversation with Sussman on AI and asynchronous programming,http://dustycloud.org/blog/sussman-on-ai/,/u/rubenbarroso,9
-0,2015-10-18 20:56:50 -0500,['/t/javascript'],How to Use Classes and Sleep at Night,https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4,/u/pushcx,5
-21,2015-10-17 16:34:21 -0500,"['/t/networking', '/t/practices']",The Hostile Email Landscape,http://liminality.xyz/the-hostile-email-landscape/,/u/pushcx,53
-0,2015-10-19 08:07:27 -0500,"['/t/culture', '/t/practices', '/t/programming']",Code Machines,https://medium.com/design-and-develop/code-machines-29b066b65716,/u/flyingfisch,2
-0,2015-10-18 21:33:05 -0500,['/t/databases'],RDBMS Genealogy,https://hpi.de/naumann/projects/rdbms_genealogy.html,/u/pushcx,4
+0,2015-10-19 18:25:05 -0500,"/t/video,/t/law,/t/security",Policy.Byte: Governments Weakening Encryption,http://www.youtube.com/watch?v=SRUwEpiec7M,/u/tf,2
+0,2015-10-19 18:06:04 -0500,/t/windows,PowerShell/Win32-OpenSSH,https://github.com/PowerShell/Win32-OpenSSH,/u/qbit,2
+1,2015-10-18 21:58:59 -0500,/t/games,The quest for Shadow of the Colossus' last big secret (2013),http://www.eurogamer.net/articles/2013-05-02-the-quest-for-shadow-of-the-colossuss-last-big-secret,/u/pushcx,19
+11,2015-10-18 17:47:41 -0500,"/t/privacy,/t/web",Evidence of IP-based personalized filtering on Twitter,https://twitter.com/taoeffect/status/655876435651878913,/u/itistoday,12
+0,2015-10-19 10:24:10 -0500,"/t/compsci,/t/math",Measuring The Error of Floating Point Programs,http://alex.uwplse.org/2015/08/03/measuring-error.html,/u/pushcx,5
+7,2015-10-19 02:25:38 -0500,"/t/ios,/t/security",Facebook iOS App Scrapes Your Clipboard?,https://un-excogitate.org/facebook-ios-clipboard/,/u/daGrevis,6
+3,2015-10-19 08:07:56 -0500,"/t/javascript,/t/programming,/t/visualization,/t/web",JavaScript Charting Made Easy with JSCharting,http://www.joezimjs.com/javascript/javascript-charting-made-easy-with-js-charting/,/u/joezimjs,1
+0,2015-10-19 10:16:33 -0500,"/t/databases,/t/haskell,/t/programming",Opaleye's sugar on top: SQL in the type system where it belongs,http://ren.zone/articles/opaleye-sot,/u/pushcx,4
+6,2015-10-18 12:02:17 -0500,/t/practices,An Engineering Theory of the Volkswagen Scandal,http://www.newyorker.com/business/currency/an-engineering-theory-of-the-volkswagen-scandal,/u/pushcx,20
+6,2015-10-18 22:05:55 -0500,"/t/c,/t/programming",Rant: On the std::experimental::variant to come to C++,http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come,/u/zem,6
+0,2015-10-18 10:32:16 -0500,/t/openbsd,OpenBSD 5.8 released,http://www.openbsd.org/58.html,/u/fcambus,42
+0,2015-10-19 06:26:36 -0500,"/t/javascript,/t/web",Lazy Loading Images on the Web,http://developer.telerik.com/featured/lazy-loading-images-on-the-web/,/u/remotesynth,2
+0,2015-10-18 17:55:17 -0500,/t/compilers,Even More BF Optimisations,http://www.wilfred.me.uk/blog/2015/10/18/even-more-bf-optimisations/,/u/Wilfred,9
+0,2015-10-19 14:28:11 -0500,"/t/design,/t/web",Sass Color Maps,http://codepen.io/zgreen/post/sass-color-maps,/u/flyingfisch,1
+0,2015-10-19 10:17:28 -0500,"/t/video,/t/browsers",So how does the browser actually render a website?,https://www.youtube.com/watch?v=SmE4OwHztCc,/u/pushcx,2
+0,2015-10-19 09:48:30 -0500,/t/ask,What reference books are you using this week?,/s/5r0e5b/what_reference_books_are_you_using_this,/u/zg,2
+1,2015-10-18 16:53:42 -0500,/t/lisp,The birth of LISP – a summary of John McCarthy’s original paper,http://swizec.com/blog/the-birth-of-lisp-a-summary-of-john-mccarthys-original-paper/swizec/5075,/u/rubenbarroso,13
+0,2015-10-18 17:09:09 -0500,"/t/openbsd,/t/person",OpenBSD developers: Ingo Schwarze,http://beastie.pl/deweloperzy-openbsd-ingo-schwarze/,/u/mulander,12
+0,2015-10-18 12:26:28 -0500,/t/security,Why is length > complexity? Because math...,http://malwarejake.blogspot.com/2015/10/why-is-length-complexity-because-math.html,/u/pushcx,18
+0,2015-10-19 06:02:38 -0500,"/t/pdf,/t/compsci,/t/security",Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice,https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf,/u/goncalo,2
+1,2015-10-18 14:56:27 -0500,/t/compsci,A conversation with Sussman on AI and asynchronous programming,http://dustycloud.org/blog/sussman-on-ai/,/u/rubenbarroso,9
+0,2015-10-18 20:56:50 -0500,/t/javascript,How to Use Classes and Sleep at Night,https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4,/u/pushcx,5
+21,2015-10-17 16:34:21 -0500,"/t/networking,/t/practices",The Hostile Email Landscape,http://liminality.xyz/the-hostile-email-landscape/,/u/pushcx,53
+0,2015-10-19 08:07:27 -0500,"/t/culture,/t/practices,/t/programming",Code Machines,https://medium.com/design-and-develop/code-machines-29b066b65716,/u/flyingfisch,2
+0,2015-10-18 21:33:05 -0500,/t/databases,RDBMS Genealogy,https://hpi.de/naumann/projects/rdbms_genealogy.html,/u/pushcx,4

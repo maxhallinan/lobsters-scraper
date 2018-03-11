@@ -1,25 +1,25 @@
-0,2017-07-31 18:53:59 -0500,"['/t/ios', '/t/law', '/t/privacy']",On Apple Removing VPN Apps From the App Store in China,https://daringfireball.net/2017/07/apple_china_vpn_apps,/u/calvin,1
-2,2017-07-31 05:30:44 -0500,"['/t/programming', '/t/ruby', '/t/web']",Working with payments on Rails,https://www.dailydrip.com/blog/working-with-payments-on-rails.html,/u/franzunix,2
-0,2017-07-31 04:06:30 -0500,['/t/cryptocurrencies'],"Hidden surprises in the Bitcoin blockchain and how they are stored: Nelson Mandela, Wikileaks, photos, and Python software",http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html,/u/hdhzy,8
-0,2017-07-31 08:55:26 -0500,"['/t/javascript', '/t/web']",Understanding Service Workers,http://blog.88mph.io/2017/07/28/understanding-service-workers/,/u/bttf,2
-0,2017-07-31 18:09:34 -0500,"['/t/go', '/t/programming']",Creating a Custom Serialization Format in Go (Scott Mansfield at GopherCon),https://about.sourcegraph.com/go/creating-a-custom-serialization-format,/u/beyang,1
-7,2017-07-30 11:33:50 -0500,"['/t/design', '/t/programming']",Falsehoods programmers believe about geography,https://wiesmann.codiferes.net/wordpress/?p=15187,/u/stig,31
-0,2017-07-31 17:03:57 -0500,"['/t/dotnet', '/t/testing']",An introduction to property-based testing,https://fsharpforfunandprofit.com/posts/property-based-testing/,/u/hdhzy,1
-38,2017-07-30 20:30:24 -0500,['/t/privacy'],Palantir: the ‘special ops’ tech giant that wields as much real-world power as Google,https://www.theguardian.com/world/2017/jul/30/palantir-peter-thiel-cia-data-crime-police,/u/pizzaiolo,2
-0,2017-07-31 04:18:35 -0500,"['/t/databases', '/t/vim']",vipsql: A vim frontend for interacting with psql,https://github.com/martingms/vipsql,/u/ehamberg,5
-0,2017-07-31 14:43:49 -0500,"['/t/api', '/t/browsers', '/t/performance', '/t/web']",Image load time optimization,https://blog.uploadcare.com/accelerate-your-images-by-9x-with-image-cdn-6b63aa27e639,/u/id,1
-20,2017-07-30 13:21:53 -0500,"['/t/ask', '/t/networking']",What do you use for drawing network diagrams?,/s/stlaxh/what_do_you_use_for_drawing_network,/u/fab,13
-0,2017-07-31 11:59:51 -0500,"['/t/api', '/t/c', '/t/linux', '/t/rant']",Re: [SLUG] Ximian / Gnome and Xalf,http://lists.slug.org.au/archives/slug-chat/2001/July/msg00054.html,/u/friendlysock,3
-0,2017-07-31 05:57:03 -0500,"['/t/devops', '/t/practices']",The SRE model,https://medium.com/@rakyll/the-sre-model-6e19376ef986,/u/calvin,3
-0,2017-07-30 15:40:45 -0500,"['/t/erlang', '/t/lisp']",Clojerl - Clojure implemented on the Erlang VM,https://github.com/jfacorro/clojerl/blob/master/README.md,/u/bsima,15
-0,2017-07-30 23:06:45 -0500,['/t/programming'],"Reference Capabilities, Consume and Recover in Pony",https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html,/u/doublec,3
-0,2017-07-31 07:04:03 -0500,['/t/practices'],Best Practices for Large Features,https://drivy.engineering/best-practices-for-large-features/,/u/hoopla,2
-0,2017-07-31 10:53:59 -0500,"['/t/python', '/t/testing']",Subtests are the Best,https://www.caktusgroup.com/blog/2017/05/29/subtests-are-best/,/u/pushcx,1
-0,2017-07-31 05:22:56 -0500,['/t/databases'],1.1B taxi rides benchmark on the GPU- and PostgreSQL-powered BrytlytDB,http://tech.marksblogg.com/billion-nyc-taxi-rides-aws-ec2-p2-16xlarge-brytlytdb.html,/u/marklit,1
-0,2017-07-31 10:48:08 -0500,['/t/ruby'],Add Output to Your Long Running Rake Tasks,http://blog.nrowegt.com/add-output-to-long-running-rake-tasks/,/u/pushcx,1
-0,2017-07-30 20:33:07 -0500,"['/t/elm', '/t/programming']","Elm, Geocoding & DarkSky: Pt. 2 – Geocoding an Address",https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-2-geocoding-an-address.html,/u/robertwpearce,3
-0,2017-07-31 08:38:34 -0500,['/t/science'],Asteroid Flyby Will Benefit NASA Detection and Tracking Network,https://www.nasa.gov/feature/jpl/asteroid-flyby-will-benefit-nasa-detection-and-tracking-network,/u/stsp,1
-0,2017-07-31 01:39:31 -0500,"['/t/css', '/t/web']",Using CSS Grid where appropriate,https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/,/u/starbist,1
-0,2017-07-30 16:54:22 -0500,['/t/linux'],"Welcome, Flathub!",http://ramcq.net/2017/07/29/welcome-flathub/,/u/calvin,7
-3,2017-07-31 06:55:20 -0500,['/t/ruby'],Episode 91 - Custom Error Pages with Slack Notification,https://www.driftingruby.com/episodes/custom-error-pages-with-slack-notification,/u/kobaltz,0
-1,2017-07-30 06:25:28 -0500,['/t/distributed'],How does the Kubernetes scheduler work?,https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/,/u/calvin,17
+0,2017-07-31 18:53:59 -0500,"/t/ios,/t/law,/t/privacy",On Apple Removing VPN Apps From the App Store in China,https://daringfireball.net/2017/07/apple_china_vpn_apps,/u/calvin,1
+2,2017-07-31 05:30:44 -0500,"/t/programming,/t/ruby,/t/web",Working with payments on Rails,https://www.dailydrip.com/blog/working-with-payments-on-rails.html,/u/franzunix,2
+0,2017-07-31 04:06:30 -0500,/t/cryptocurrencies,"Hidden surprises in the Bitcoin blockchain and how they are stored: Nelson Mandela, Wikileaks, photos, and Python software",http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html,/u/hdhzy,8
+0,2017-07-31 08:55:26 -0500,"/t/javascript,/t/web",Understanding Service Workers,http://blog.88mph.io/2017/07/28/understanding-service-workers/,/u/bttf,2
+0,2017-07-31 18:09:34 -0500,"/t/go,/t/programming",Creating a Custom Serialization Format in Go (Scott Mansfield at GopherCon),https://about.sourcegraph.com/go/creating-a-custom-serialization-format,/u/beyang,1
+7,2017-07-30 11:33:50 -0500,"/t/design,/t/programming",Falsehoods programmers believe about geography,https://wiesmann.codiferes.net/wordpress/?p=15187,/u/stig,31
+0,2017-07-31 17:03:57 -0500,"/t/dotnet,/t/testing",An introduction to property-based testing,https://fsharpforfunandprofit.com/posts/property-based-testing/,/u/hdhzy,1
+38,2017-07-30 20:30:24 -0500,/t/privacy,Palantir: the ‘special ops’ tech giant that wields as much real-world power as Google,https://www.theguardian.com/world/2017/jul/30/palantir-peter-thiel-cia-data-crime-police,/u/pizzaiolo,2
+0,2017-07-31 04:18:35 -0500,"/t/databases,/t/vim",vipsql: A vim frontend for interacting with psql,https://github.com/martingms/vipsql,/u/ehamberg,5
+0,2017-07-31 14:43:49 -0500,"/t/api,/t/browsers,/t/performance,/t/web",Image load time optimization,https://blog.uploadcare.com/accelerate-your-images-by-9x-with-image-cdn-6b63aa27e639,/u/id,1
+20,2017-07-30 13:21:53 -0500,"/t/ask,/t/networking",What do you use for drawing network diagrams?,/s/stlaxh/what_do_you_use_for_drawing_network,/u/fab,13
+0,2017-07-31 11:59:51 -0500,"/t/api,/t/c,/t/linux,/t/rant",Re: [SLUG] Ximian / Gnome and Xalf,http://lists.slug.org.au/archives/slug-chat/2001/July/msg00054.html,/u/friendlysock,3
+0,2017-07-31 05:57:03 -0500,"/t/devops,/t/practices",The SRE model,https://medium.com/@rakyll/the-sre-model-6e19376ef986,/u/calvin,3
+0,2017-07-30 15:40:45 -0500,"/t/erlang,/t/lisp",Clojerl - Clojure implemented on the Erlang VM,https://github.com/jfacorro/clojerl/blob/master/README.md,/u/bsima,15
+0,2017-07-30 23:06:45 -0500,/t/programming,"Reference Capabilities, Consume and Recover in Pony",https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html,/u/doublec,3
+0,2017-07-31 07:04:03 -0500,/t/practices,Best Practices for Large Features,https://drivy.engineering/best-practices-for-large-features/,/u/hoopla,2
+0,2017-07-31 10:53:59 -0500,"/t/python,/t/testing",Subtests are the Best,https://www.caktusgroup.com/blog/2017/05/29/subtests-are-best/,/u/pushcx,1
+0,2017-07-31 05:22:56 -0500,/t/databases,1.1B taxi rides benchmark on the GPU- and PostgreSQL-powered BrytlytDB,http://tech.marksblogg.com/billion-nyc-taxi-rides-aws-ec2-p2-16xlarge-brytlytdb.html,/u/marklit,1
+0,2017-07-31 10:48:08 -0500,/t/ruby,Add Output to Your Long Running Rake Tasks,http://blog.nrowegt.com/add-output-to-long-running-rake-tasks/,/u/pushcx,1
+0,2017-07-30 20:33:07 -0500,"/t/elm,/t/programming","Elm, Geocoding & DarkSky: Pt. 2 – Geocoding an Address",https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-2-geocoding-an-address.html,/u/robertwpearce,3
+0,2017-07-31 08:38:34 -0500,/t/science,Asteroid Flyby Will Benefit NASA Detection and Tracking Network,https://www.nasa.gov/feature/jpl/asteroid-flyby-will-benefit-nasa-detection-and-tracking-network,/u/stsp,1
+0,2017-07-31 01:39:31 -0500,"/t/css,/t/web",Using CSS Grid where appropriate,https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/,/u/starbist,1
+0,2017-07-30 16:54:22 -0500,/t/linux,"Welcome, Flathub!",http://ramcq.net/2017/07/29/welcome-flathub/,/u/calvin,7
+3,2017-07-31 06:55:20 -0500,/t/ruby,Episode 91 - Custom Error Pages with Slack Notification,https://www.driftingruby.com/episodes/custom-error-pages-with-slack-notification,/u/kobaltz,0
+1,2017-07-30 06:25:28 -0500,/t/distributed,How does the Kubernetes scheduler work?,https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/,/u/calvin,17

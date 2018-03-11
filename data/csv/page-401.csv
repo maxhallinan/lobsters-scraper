@@ -1,25 +1,25 @@
-0,2017-04-16 21:51:56 -0500,"['/t/compilers', '/t/rust']",Optimizing Rust Struct Size: A 6-month Compiler Development Project,http://camlorn.net/posts/April%202017/rust-struct-field-reordering.html,/u/sanxiyn,19
-0,2017-04-17 07:26:16 -0500,"['/t/historical', '/t/person']",Remembering Bob Taylor,http://www.cringely.com/2017/04/17/remembering-bob-taylor/,/u/sevan,6
-0,2017-04-17 14:32:33 -0500,['/t/web'],GraphQL: Tips after a year in production (2016),https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3,/u/pushcx,2
-0,2017-04-17 07:36:56 -0500,['/t/security'],Ring-Road Bug: Leaking Sensitive Data in Security Protocols,http://www.ringroadbug.com/,/u/craigstuntz,5
-0,2017-04-17 14:05:50 -0500,"['/t/compsci', '/t/graphics']",OpenGL PBR,https://learnopengl.com/#!PBR/Theory,/u/mikejsavage,2
-0,2017-04-16 13:53:55 -0500,"['/t/show', '/t/python']",toot - A Mastodon CLI interface,https://github.com/ihabunek/toot,/u/bezdomni,20
-0,2017-04-17 13:51:19 -0500,"['/t/ml', '/t/programming']","NESL - A Nested, Data-Parallel, Programming Language (1990's)",https://www.cs.cmu.edu/~scandal/nesl.html,/u/nickpsecurity,2
-0,2017-04-17 17:25:46 -0500,"['/t/mac', '/t/python']",Text-mode menu bar indicators,https://nedbatchelder.com//blog/201704/textmode_menu_bar_indicators.html,/u/pushcx,1
-0,2017-04-17 07:59:50 -0500,['/t/practices'],Frequency Reduces Difficulty,https://martinfowler.com/bliki/FrequencyReducesDifficulty.html,/u/pushcx,4
-1,2017-04-16 19:53:37 -0500,['/t/java'],Is Jigsaw good or is it wack?,https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f,/u/colin,14
-57,2017-04-16 07:03:17 -0500,['/t/web'],In response to “Electron is flash for the desktop”,https://rempel.world/posts/electron.html,/u/calvin,29
-5,2017-04-16 15:14:01 -0500,"['/t/show', '/t/distributed', '/t/python']",Eliot: Causal Logging for Complex and Distributed Systems,http://eliot.readthedocs.io/en/1.0.0/introduction.html,/u/itamarst,9
-0,2017-04-16 20:17:47 -0500,"['/t/c', '/t/programming', '/t/python']",rtl2dot: Create C callgraphs from gcc rtldumps via GraphViz,https://github.com/cbdevnet/rtl2dot,/u/cbdev,6
-1,2017-04-16 21:02:30 -0500,"['/t/practices', '/t/programming']",Why don't you just rewrite it in X?,http://nibblestew.blogspot.com/2017/04/why-dont-you-just-rewrite-it-in-x.html,/u/calvin,9
-0,2017-04-17 08:59:33 -0500,"['/t/practices', '/t/web']",Smooth Scrolling and Accessibility,https://css-tricks.com/smooth-scrolling-accessibility/,/u/flyingfisch,2
-3,2017-04-16 16:21:07 -0500,"['/t/compsci', '/t/law', '/t/math']",How to Quantify (and Fight) Gerrymandering,https://www.quantamagazine.org/20170404-gerrymandering-math-standard/,/u/tf,11
-0,2017-04-16 22:44:57 -0500,"['/t/devops', '/t/programming']",Lessons learned from moving my side project to Kubernetes,https://medium.com/@14domino/lessons-learned-from-moving-my-side-project-to-kubernetes-c28161a16c69,/u/zem,6
-4,2017-04-16 11:12:57 -0500,"['/t/compilers', '/t/hardware']",Cynth: a simple C-to-Verilog compiler,https://github.com/cseed/cynth,/u/cotton,7
-0,2017-04-17 08:56:41 -0500,"['/t/hardware', '/t/historical']",Building an Xi 8088 PC,http://www.smbaker.com/building-an-xi-8088-pc,/u/flyingfisch,1
-0,2017-04-16 11:38:56 -0500,"['/t/historical', '/t/mac', '/t/virtualization']",Early Macintosh Emulation Comes to the Archive,https://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/,/u/pushcx,13
-0,2017-04-17 05:19:19 -0500,['/t/visualization'],Using AI to make public transport safer,http://blog.paralleldots.com/technology/artificial-intelligence-can-make-public-transportation-safer/,/u/parth,1
-0,2017-04-16 21:48:01 -0500,"['/t/compilers', '/t/php']",PHP 7 Virtual Machine,https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html,/u/pushcx,3
-1,2017-04-16 22:52:03 -0500,"['/t/culture', '/t/devops']",On-call at any size – Increment: On-Call,https://increment.com/on-call/on-call-at-any-size/,/u/Dawny33,5
-5,2017-04-16 08:27:45 -0500,"['/t/compilers', '/t/programming']",Let’s Build a Programming Language,https://hackernoon.com/lets-build-a-programming-language-2612349105c6,/u/av,7
-3,2017-04-16 06:42:24 -0500,['/t/debugging'],debug-me,https://joeyh.name/code/debug-me/,/u/oz,10
+0,2017-04-16 21:51:56 -0500,"/t/compilers,/t/rust",Optimizing Rust Struct Size: A 6-month Compiler Development Project,http://camlorn.net/posts/April%202017/rust-struct-field-reordering.html,/u/sanxiyn,19
+0,2017-04-17 07:26:16 -0500,"/t/historical,/t/person",Remembering Bob Taylor,http://www.cringely.com/2017/04/17/remembering-bob-taylor/,/u/sevan,6
+0,2017-04-17 14:32:33 -0500,/t/web,GraphQL: Tips after a year in production (2016),https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3,/u/pushcx,2
+0,2017-04-17 07:36:56 -0500,/t/security,Ring-Road Bug: Leaking Sensitive Data in Security Protocols,http://www.ringroadbug.com/,/u/craigstuntz,5
+0,2017-04-17 14:05:50 -0500,"/t/compsci,/t/graphics",OpenGL PBR,https://learnopengl.com/#!PBR/Theory,/u/mikejsavage,2
+0,2017-04-16 13:53:55 -0500,"/t/show,/t/python",toot - A Mastodon CLI interface,https://github.com/ihabunek/toot,/u/bezdomni,20
+0,2017-04-17 13:51:19 -0500,"/t/ml,/t/programming","NESL - A Nested, Data-Parallel, Programming Language (1990's)",https://www.cs.cmu.edu/~scandal/nesl.html,/u/nickpsecurity,2
+0,2017-04-17 17:25:46 -0500,"/t/mac,/t/python",Text-mode menu bar indicators,https://nedbatchelder.com//blog/201704/textmode_menu_bar_indicators.html,/u/pushcx,1
+0,2017-04-17 07:59:50 -0500,/t/practices,Frequency Reduces Difficulty,https://martinfowler.com/bliki/FrequencyReducesDifficulty.html,/u/pushcx,4
+1,2017-04-16 19:53:37 -0500,/t/java,Is Jigsaw good or is it wack?,https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f,/u/colin,14
+57,2017-04-16 07:03:17 -0500,/t/web,In response to “Electron is flash for the desktop”,https://rempel.world/posts/electron.html,/u/calvin,29
+5,2017-04-16 15:14:01 -0500,"/t/show,/t/distributed,/t/python",Eliot: Causal Logging for Complex and Distributed Systems,http://eliot.readthedocs.io/en/1.0.0/introduction.html,/u/itamarst,9
+0,2017-04-16 20:17:47 -0500,"/t/c,/t/programming,/t/python",rtl2dot: Create C callgraphs from gcc rtldumps via GraphViz,https://github.com/cbdevnet/rtl2dot,/u/cbdev,6
+1,2017-04-16 21:02:30 -0500,"/t/practices,/t/programming",Why don't you just rewrite it in X?,http://nibblestew.blogspot.com/2017/04/why-dont-you-just-rewrite-it-in-x.html,/u/calvin,9
+0,2017-04-17 08:59:33 -0500,"/t/practices,/t/web",Smooth Scrolling and Accessibility,https://css-tricks.com/smooth-scrolling-accessibility/,/u/flyingfisch,2
+3,2017-04-16 16:21:07 -0500,"/t/compsci,/t/law,/t/math",How to Quantify (and Fight) Gerrymandering,https://www.quantamagazine.org/20170404-gerrymandering-math-standard/,/u/tf,11
+0,2017-04-16 22:44:57 -0500,"/t/devops,/t/programming",Lessons learned from moving my side project to Kubernetes,https://medium.com/@14domino/lessons-learned-from-moving-my-side-project-to-kubernetes-c28161a16c69,/u/zem,6
+4,2017-04-16 11:12:57 -0500,"/t/compilers,/t/hardware",Cynth: a simple C-to-Verilog compiler,https://github.com/cseed/cynth,/u/cotton,7
+0,2017-04-17 08:56:41 -0500,"/t/hardware,/t/historical",Building an Xi 8088 PC,http://www.smbaker.com/building-an-xi-8088-pc,/u/flyingfisch,1
+0,2017-04-16 11:38:56 -0500,"/t/historical,/t/mac,/t/virtualization",Early Macintosh Emulation Comes to the Archive,https://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/,/u/pushcx,13
+0,2017-04-17 05:19:19 -0500,/t/visualization,Using AI to make public transport safer,http://blog.paralleldots.com/technology/artificial-intelligence-can-make-public-transportation-safer/,/u/parth,1
+0,2017-04-16 21:48:01 -0500,"/t/compilers,/t/php",PHP 7 Virtual Machine,https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html,/u/pushcx,3
+1,2017-04-16 22:52:03 -0500,"/t/culture,/t/devops",On-call at any size – Increment: On-Call,https://increment.com/on-call/on-call-at-any-size/,/u/Dawny33,5
+5,2017-04-16 08:27:45 -0500,"/t/compilers,/t/programming",Let’s Build a Programming Language,https://hackernoon.com/lets-build-a-programming-language-2612349105c6,/u/av,7
+3,2017-04-16 06:42:24 -0500,/t/debugging,debug-me,https://joeyh.name/code/debug-me/,/u/oz,10

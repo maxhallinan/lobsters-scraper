@@ -1,25 +1,25 @@
-0,2017-04-28 14:00:44 -0500,"['/t/browsers', '/t/privacy', '/t/security', '/t/web']",Stealing sensitive browser data with the W3C Ambient Light Sensor API,https://blog.lukaszolejnik.com/stealing-sensitive-browser-data-with-the-w3c-ambient-light-sensor-api/,/u/tedu,9
-3,2017-04-28 11:41:44 -0500,"['/t/practices', '/t/vcs']",Advanced Git Log,https://www.atlassian.com/git/tutorials/git-log,/u/pushcx,5
-0,2017-04-28 10:04:26 -0500,['/t/devops'],"Instead of containerization, give me strong config & deployment primitives",https://abe-winter.github.io/blues/2017/04/27/config-vs-containers.html,/u/colin,12
-1,2017-04-28 10:26:32 -0500,"['/t/api', '/t/databases', '/t/finance', '/t/javascript']","Analyzing A Local Startup Ecosystem With Mattermark, GraphQL, Apollo Client, and Neo4j",http://www.lyonwj.com/2017/04/27/mattermark-api-graphql-neo4j-startup-funding/,/u/lyonwj,5
-5,2017-04-28 11:15:17 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Precise Verification of C Programs (2014) (dissertation),https://www.cs.ox.ac.uk/people/matt.lewis/thesis.pdf,/u/nickpsecurity,6
-0,2017-04-28 14:05:29 -0500,"['/t/databases', '/t/ruby']",Postgres tips for Rails developers,https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/,/u/craigkerstiens,7
-2,2017-04-28 13:10:49 -0500,"['/t/privacy', '/t/release']",Tor 0.3.0.6 is released: a new series is stable!,https://blog.torproject.org/blog/tor-0306-released-new-series-stable,/u/trn,6
-12,2017-04-27 21:31:02 -0500,"['/t/pdf', '/t/practices', '/t/programming']",The original Waterfall paper was anti-Waterfall? (1970),https://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf,/u/nickpsecurity,20
-20,2017-04-27 12:26:20 -0500,"['/t/release', '/t/rust']",Announcing Rust 1.17 - The Rust Programming Language Blog,http://blog.rust-lang.org/2017/04/27/Rust-1.17.html,/u/skade,40
-8,2017-04-27 09:40:47 -0500,"['/t/javascript', '/t/web']",Closing the loop: why TypeScript and React are a superheroic dynamic duo,https://github.com/ryanatkn/react-typescript-closing-the-loop,/u/overtowed,29
-0,2017-04-28 07:34:20 -0500,"['/t/security', '/t/virtualization']",VM escape – QEMU Case Study,http://www.phrack.org/papers/vm-escape-qemu-case-study.html,/u/ssl,8
-1,2017-04-28 04:35:07 -0500,"['/t/compsci', '/t/lisp']",Common Lisp Standard Draft,http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html,/u/sevan,8
-0,2017-04-28 15:19:10 -0500,"['/t/person', '/t/practices']",Crossing the Equator 1: From Tech Blogging To Fiction,https://michaelochurch.wordpress.com/2017/04/28/crossing-the-equator-1-from-tech-blogging-to-fiction/,/u/michaelochurch,1
-5,2017-04-27 16:05:56 -0500,['/t/programming'],Slow Is Fast,http://www.programmerfu.com/2017/04/20/fast-is-slow-slow-is-smooth-smooth-is-fast.html,/u/calvin,21
-0,2017-04-28 06:20:49 -0500,"['/t/design', '/t/programming']",Painting with Code,http://airbnb.design/painting-with-code/,/u/av,7
-0,2017-04-28 17:07:06 -0500,"['/t/linux', '/t/release']","chap: analyze un-instrumented ELF core files for leaks, memory growth, and corruption",https://github.com/vmware/chap#readme,/u/pushcx,1
-13,2017-04-28 07:16:16 -0500,['/t/culture'],Should I fire a software engineer for always working on his side projects during office hours?,https://www.quora.com/Should-I-fire-a-software-engineer-for-always-working-on-his-side-projects-during-office-hours,/u/colin,10
-0,2017-04-28 06:46:44 -0500,['/t/api'],Emotion Detection Using Machine Learning,http://blog.paralleldots.com/technology/deep-learning/emotion-detection-using-machine-learning/,/u/Gargi,2
-30,2017-04-27 08:49:51 -0500,['/t/cryptocurrencies'],Bitcoin's Energy Consumption Is Unsustainable (2015),https://motherboard.vice.com/en_us/article/bitcoin-is-unsustainable,/u/pushcx,23
-0,2017-04-28 08:31:46 -0500,['/t/security'],Using bluetooth to make credit card skimming more efficient,http://www.consumerreports.org/cro/2013/08/credit-card-skimming-at-gas-pumps/index.htm,/u/vyodaiken,3
-0,2017-04-28 07:20:43 -0500,['/t/satire'],Spellfucker,https://spellfucker.com/,/u/colin,7
-0,2017-04-27 21:46:39 -0500,"['/t/compilers', '/t/compsci', '/t/devops']",Typing nix: Gradual types and annotations,https://typing-nix.regnat.ovh/posts/gradual_and_annotations.html,/u/pushcx,11
-0,2017-04-28 14:05:48 -0500,"['/t/law', '/t/privacy']",N.S.A. Halts Collection of Americans’ Emails About Foreign Targets,https://www.nytimes.com/2017/04/28/us/politics/nsa-surveillance-terrorism-privacy.html,/u/tf,1
-24,2017-04-27 21:43:22 -0500,"['/t/culture', '/t/satire']",the three hot trends in Silicon Valley horseshit,https://medium.com/@freddiedeboer/the-three-hot-trends-in-silicon-valley-horseshit-95cc5a85e8a4,/u/asdf89asdc9jasdf,30
-0,2017-04-27 18:34:52 -0500,"['/t/c', '/t/compilers']",A bug in GCC that may cause memory leaks in valid C++ programs,https://akrzemi1.wordpress.com/2017/04/27/a-serious-bug-in-gcc/,/u/chadski,12
+0,2017-04-28 14:00:44 -0500,"/t/browsers,/t/privacy,/t/security,/t/web",Stealing sensitive browser data with the W3C Ambient Light Sensor API,https://blog.lukaszolejnik.com/stealing-sensitive-browser-data-with-the-w3c-ambient-light-sensor-api/,/u/tedu,9
+3,2017-04-28 11:41:44 -0500,"/t/practices,/t/vcs",Advanced Git Log,https://www.atlassian.com/git/tutorials/git-log,/u/pushcx,5
+0,2017-04-28 10:04:26 -0500,/t/devops,"Instead of containerization, give me strong config & deployment primitives",https://abe-winter.github.io/blues/2017/04/27/config-vs-containers.html,/u/colin,12
+1,2017-04-28 10:26:32 -0500,"/t/api,/t/databases,/t/finance,/t/javascript","Analyzing A Local Startup Ecosystem With Mattermark, GraphQL, Apollo Client, and Neo4j",http://www.lyonwj.com/2017/04/27/mattermark-api-graphql-neo4j-startup-funding/,/u/lyonwj,5
+5,2017-04-28 11:15:17 -0500,"/t/pdf,/t/compsci,/t/programming",Precise Verification of C Programs (2014) (dissertation),https://www.cs.ox.ac.uk/people/matt.lewis/thesis.pdf,/u/nickpsecurity,6
+0,2017-04-28 14:05:29 -0500,"/t/databases,/t/ruby",Postgres tips for Rails developers,https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/,/u/craigkerstiens,7
+2,2017-04-28 13:10:49 -0500,"/t/privacy,/t/release",Tor 0.3.0.6 is released: a new series is stable!,https://blog.torproject.org/blog/tor-0306-released-new-series-stable,/u/trn,6
+12,2017-04-27 21:31:02 -0500,"/t/pdf,/t/practices,/t/programming",The original Waterfall paper was anti-Waterfall? (1970),https://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf,/u/nickpsecurity,20
+20,2017-04-27 12:26:20 -0500,"/t/release,/t/rust",Announcing Rust 1.17 - The Rust Programming Language Blog,http://blog.rust-lang.org/2017/04/27/Rust-1.17.html,/u/skade,40
+8,2017-04-27 09:40:47 -0500,"/t/javascript,/t/web",Closing the loop: why TypeScript and React are a superheroic dynamic duo,https://github.com/ryanatkn/react-typescript-closing-the-loop,/u/overtowed,29
+0,2017-04-28 07:34:20 -0500,"/t/security,/t/virtualization",VM escape – QEMU Case Study,http://www.phrack.org/papers/vm-escape-qemu-case-study.html,/u/ssl,8
+1,2017-04-28 04:35:07 -0500,"/t/compsci,/t/lisp",Common Lisp Standard Draft,http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html,/u/sevan,8
+0,2017-04-28 15:19:10 -0500,"/t/person,/t/practices",Crossing the Equator 1: From Tech Blogging To Fiction,https://michaelochurch.wordpress.com/2017/04/28/crossing-the-equator-1-from-tech-blogging-to-fiction/,/u/michaelochurch,1
+5,2017-04-27 16:05:56 -0500,/t/programming,Slow Is Fast,http://www.programmerfu.com/2017/04/20/fast-is-slow-slow-is-smooth-smooth-is-fast.html,/u/calvin,21
+0,2017-04-28 06:20:49 -0500,"/t/design,/t/programming",Painting with Code,http://airbnb.design/painting-with-code/,/u/av,7
+0,2017-04-28 17:07:06 -0500,"/t/linux,/t/release","chap: analyze un-instrumented ELF core files for leaks, memory growth, and corruption",https://github.com/vmware/chap#readme,/u/pushcx,1
+13,2017-04-28 07:16:16 -0500,/t/culture,Should I fire a software engineer for always working on his side projects during office hours?,https://www.quora.com/Should-I-fire-a-software-engineer-for-always-working-on-his-side-projects-during-office-hours,/u/colin,10
+0,2017-04-28 06:46:44 -0500,/t/api,Emotion Detection Using Machine Learning,http://blog.paralleldots.com/technology/deep-learning/emotion-detection-using-machine-learning/,/u/Gargi,2
+30,2017-04-27 08:49:51 -0500,/t/cryptocurrencies,Bitcoin's Energy Consumption Is Unsustainable (2015),https://motherboard.vice.com/en_us/article/bitcoin-is-unsustainable,/u/pushcx,23
+0,2017-04-28 08:31:46 -0500,/t/security,Using bluetooth to make credit card skimming more efficient,http://www.consumerreports.org/cro/2013/08/credit-card-skimming-at-gas-pumps/index.htm,/u/vyodaiken,3
+0,2017-04-28 07:20:43 -0500,/t/satire,Spellfucker,https://spellfucker.com/,/u/colin,7
+0,2017-04-27 21:46:39 -0500,"/t/compilers,/t/compsci,/t/devops",Typing nix: Gradual types and annotations,https://typing-nix.regnat.ovh/posts/gradual_and_annotations.html,/u/pushcx,11
+0,2017-04-28 14:05:48 -0500,"/t/law,/t/privacy",N.S.A. Halts Collection of Americans’ Emails About Foreign Targets,https://www.nytimes.com/2017/04/28/us/politics/nsa-surveillance-terrorism-privacy.html,/u/tf,1
+24,2017-04-27 21:43:22 -0500,"/t/culture,/t/satire",the three hot trends in Silicon Valley horseshit,https://medium.com/@freddiedeboer/the-three-hot-trends-in-silicon-valley-horseshit-95cc5a85e8a4,/u/asdf89asdc9jasdf,30
+0,2017-04-27 18:34:52 -0500,"/t/c,/t/compilers",A bug in GCC that may cause memory leaks in valid C++ programs,https://akrzemi1.wordpress.com/2017/04/27/a-serious-bug-in-gcc/,/u/chadski,12

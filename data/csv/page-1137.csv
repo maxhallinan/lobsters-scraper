@@ -1,25 +1,25 @@
-0,2015-03-24 04:59:25 -0500,"['/t/games', '/t/hardware']",Space Invaders made real!,http://www.justaddsharks.co.uk/space-invaders-made-real/,/u/fcbsd,4
-0,2015-03-24 13:22:06 -0500,"['/t/networking', '/t/scala']",Introduction to scalaz-stream,https://gist.github.com/djspiewak/d93a9c4983f63721c41c,/u/stephenjudkins,1
-4,2015-03-23 11:50:01 -0500,['/t/practices'],How to save datetimes for future events - (when UTC is not the right answer),http://www.creativedeletion.com/2015/03/19/persisting_future_datetimes.html,/u/pushcx,14
-7,2015-03-23 14:11:41 -0500,['/t/haskell'],Modular Code and Lazy Evaluation in Haskell,https://hackhands.com/modular-code-lazy-evaluation-haskell/,/u/pushcx,7
-2,2015-03-23 12:36:05 -0500,"['/t/javascript', '/t/vcs']",Explain Git with D3,http://onlywei.github.io/explain-git-with-d3,/u/qbit,13
-0,2015-03-24 04:40:28 -0500,"['/t/c', '/t/linux']",Why Are My Page_faults So High in Perf?,http://sdf.org/~riley/blog/2014/10/27/why-are-my-page-faults-to-high,/u/passy,2
-6,2015-03-23 10:08:29 -0500,['/t/programming'],11 Rules All Programmers Should Live By,http://dotnet.dzone.com/articles/11-rules-all-programmers,/u/JeremyMorgan,8
-0,2015-03-23 22:53:45 -0500,['/t/haskell'],An Eq instance for non de Bruijn terms,http://blog.ezyang.com/2015/01/an-eq-instance-for-non-de-bruijn-terms/,/u/puffnfresh,4
-3,2015-03-23 08:55:32 -0500,"['/t/assembly', '/t/hardware']",12-minute Mandelbrot: fractals on a 50 year old IBM 1401 mainframe,http://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html,/u/craigstuntz,15
-0,2015-03-24 07:22:50 -0500,"['/t/programming', '/t/security']",standalone fortify source implementation,http://git.2f30.org/fortify-headers,/u/sin,1
-0,2015-03-23 16:46:15 -0500,"['/t/hardware', '/t/programming']",You mean __atomic when you say Interrupt disable or Scheduler Lock.,/s/9qztym/you_mean_atomic_when_you_say_interrupt,/u/JohnCarter,7
-0,2015-03-23 22:55:36 -0500,"['/t/compilers', '/t/compsci']","λ● - Authenticated Data Structures, Generically",https://amiller.github.io/lambda-auth/,/u/puffnfresh,3
-27,2015-03-23 13:16:45 -0500,['/t/ask'],What are we working on this week?,/s/mfrcym/what_are_we_working_on_this_week,/u/joshuacc,18
-2,2015-03-23 10:40:05 -0500,"['/t/show', '/t/cryptocurrencies', '/t/networking', '/t/security']",Eclipse Attacks on Bitcoin’s Peer-to-Peer Network,http://cs-people.bu.edu/heilman/eclipse/,/u/EthanHeilman,10
-0,2015-03-23 15:53:47 -0500,"['/t/devops', '/t/ruby']",Ruby in Production: Lessons Learned,https://medium.com/@rdsubhas/ruby-in-production-lessons-learned-36d7ab726d99,/u/pushcx,6
-1,2015-03-23 13:40:41 -0500,['/t/haskell'],Thinking in Types,https://robots.thoughtbot.com/thinking-in-types,/u/pushcx,6
-0,2015-03-23 15:01:33 -0500,['/t/haskell'],Thinking Functionally with Haskell,https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell,/u/pushcx,6
-0,2015-03-23 17:57:01 -0500,"['/t/ml', '/t/programming']",MirageOS pioneer projects,https://github.com/mirage/mirage-www/wiki/Pioneer-Projects,/u/zem,4
-0,2015-03-23 06:18:11 -0500,"['/t/compsci', '/t/databases']",The Morning Paper: A Comprehensive study of Convergent and Commutative Replicated Data Types,http://blog.acolyer.org/2015/03/18/a-comprehensive-study-of-convergent-and-commutative-replicated-data-types/,/u/SeanTAllen,10
-0,2015-03-24 05:11:15 -0500,['/t/philosophy'],Bad Competition and Good Competition,http://blog.domini.io/bad-competition-and-good-competition,/u/mocatta,0
-0,2015-03-24 05:10:50 -0500,['/t/philosophy'],Bullshit Work is an Opportunity,http://blog.domini.io/bullshit-work-is-an-opportunity,/u/mocatta,0
-0,2015-03-23 14:50:01 -0500,['/t/programming'],Cryptic genetic variation in software: hunting a buffered 41 year old bug (2014),http://cryptogenomicon.org/2014/10/13/cryptic-genetic-variation-in-software-hunting-a-buffered-41-year-old-bug/,/u/pushcx,3
-0,2015-03-23 20:13:56 -0500,"['/t/pdf', '/t/compsci', '/t/distributed']",Making Sense of Performance in Data Analytics Frameworks,http://www.eecs.berkeley.edu/~keo/publications/nsdi15-final147.pdf,/u/haxor,1
-6,2015-03-22 10:57:20 -0500,"['/t/javascript', '/t/release']",jq is sed for JSON,https://robots.thoughtbot.com/jq-is-sed-for-json,/u/pushcx,42
-8,2015-03-22 15:49:54 -0500,"['/t/show', '/t/book']",Learn to design 3D printable models by writing code,http://www.designingwithopenscad.com/,/u/iamwil,17
+0,2015-03-24 04:59:25 -0500,"/t/games,/t/hardware",Space Invaders made real!,http://www.justaddsharks.co.uk/space-invaders-made-real/,/u/fcbsd,4
+0,2015-03-24 13:22:06 -0500,"/t/networking,/t/scala",Introduction to scalaz-stream,https://gist.github.com/djspiewak/d93a9c4983f63721c41c,/u/stephenjudkins,1
+4,2015-03-23 11:50:01 -0500,/t/practices,How to save datetimes for future events - (when UTC is not the right answer),http://www.creativedeletion.com/2015/03/19/persisting_future_datetimes.html,/u/pushcx,14
+7,2015-03-23 14:11:41 -0500,/t/haskell,Modular Code and Lazy Evaluation in Haskell,https://hackhands.com/modular-code-lazy-evaluation-haskell/,/u/pushcx,7
+2,2015-03-23 12:36:05 -0500,"/t/javascript,/t/vcs",Explain Git with D3,http://onlywei.github.io/explain-git-with-d3,/u/qbit,13
+0,2015-03-24 04:40:28 -0500,"/t/c,/t/linux",Why Are My Page_faults So High in Perf?,http://sdf.org/~riley/blog/2014/10/27/why-are-my-page-faults-to-high,/u/passy,2
+6,2015-03-23 10:08:29 -0500,/t/programming,11 Rules All Programmers Should Live By,http://dotnet.dzone.com/articles/11-rules-all-programmers,/u/JeremyMorgan,8
+0,2015-03-23 22:53:45 -0500,/t/haskell,An Eq instance for non de Bruijn terms,http://blog.ezyang.com/2015/01/an-eq-instance-for-non-de-bruijn-terms/,/u/puffnfresh,4
+3,2015-03-23 08:55:32 -0500,"/t/assembly,/t/hardware",12-minute Mandelbrot: fractals on a 50 year old IBM 1401 mainframe,http://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html,/u/craigstuntz,15
+0,2015-03-24 07:22:50 -0500,"/t/programming,/t/security",standalone fortify source implementation,http://git.2f30.org/fortify-headers,/u/sin,1
+0,2015-03-23 16:46:15 -0500,"/t/hardware,/t/programming",You mean __atomic when you say Interrupt disable or Scheduler Lock.,/s/9qztym/you_mean_atomic_when_you_say_interrupt,/u/JohnCarter,7
+0,2015-03-23 22:55:36 -0500,"/t/compilers,/t/compsci","λ● - Authenticated Data Structures, Generically",https://amiller.github.io/lambda-auth/,/u/puffnfresh,3
+27,2015-03-23 13:16:45 -0500,/t/ask,What are we working on this week?,/s/mfrcym/what_are_we_working_on_this_week,/u/joshuacc,18
+2,2015-03-23 10:40:05 -0500,"/t/show,/t/cryptocurrencies,/t/networking,/t/security",Eclipse Attacks on Bitcoin’s Peer-to-Peer Network,http://cs-people.bu.edu/heilman/eclipse/,/u/EthanHeilman,10
+0,2015-03-23 15:53:47 -0500,"/t/devops,/t/ruby",Ruby in Production: Lessons Learned,https://medium.com/@rdsubhas/ruby-in-production-lessons-learned-36d7ab726d99,/u/pushcx,6
+1,2015-03-23 13:40:41 -0500,/t/haskell,Thinking in Types,https://robots.thoughtbot.com/thinking-in-types,/u/pushcx,6
+0,2015-03-23 15:01:33 -0500,/t/haskell,Thinking Functionally with Haskell,https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell,/u/pushcx,6
+0,2015-03-23 17:57:01 -0500,"/t/ml,/t/programming",MirageOS pioneer projects,https://github.com/mirage/mirage-www/wiki/Pioneer-Projects,/u/zem,4
+0,2015-03-23 06:18:11 -0500,"/t/compsci,/t/databases",The Morning Paper: A Comprehensive study of Convergent and Commutative Replicated Data Types,http://blog.acolyer.org/2015/03/18/a-comprehensive-study-of-convergent-and-commutative-replicated-data-types/,/u/SeanTAllen,10
+0,2015-03-24 05:11:15 -0500,/t/philosophy,Bad Competition and Good Competition,http://blog.domini.io/bad-competition-and-good-competition,/u/mocatta,0
+0,2015-03-24 05:10:50 -0500,/t/philosophy,Bullshit Work is an Opportunity,http://blog.domini.io/bullshit-work-is-an-opportunity,/u/mocatta,0
+0,2015-03-23 14:50:01 -0500,/t/programming,Cryptic genetic variation in software: hunting a buffered 41 year old bug (2014),http://cryptogenomicon.org/2014/10/13/cryptic-genetic-variation-in-software-hunting-a-buffered-41-year-old-bug/,/u/pushcx,3
+0,2015-03-23 20:13:56 -0500,"/t/pdf,/t/compsci,/t/distributed",Making Sense of Performance in Data Analytics Frameworks,http://www.eecs.berkeley.edu/~keo/publications/nsdi15-final147.pdf,/u/haxor,1
+6,2015-03-22 10:57:20 -0500,"/t/javascript,/t/release",jq is sed for JSON,https://robots.thoughtbot.com/jq-is-sed-for-json,/u/pushcx,42
+8,2015-03-22 15:49:54 -0500,"/t/show,/t/book",Learn to design 3D printable models by writing code,http://www.designingwithopenscad.com/,/u/iamwil,17

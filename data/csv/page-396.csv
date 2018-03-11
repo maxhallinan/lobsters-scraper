@@ -1,25 +1,25 @@
-2,2017-04-20 16:18:54 -0500,['/t/virtualization'],Docker is transitioning to Moby,https://github.com/moby/moby/pull/32691,/u/lukas,7
-7,2017-04-20 03:25:05 -0500,['/t/networking'],MIT Sells Half of /8 to Fund Move to IPv6,https://gist.github.com/simonster/e22e50cd52b7dffcf5a4db2b8ea4cce0,/u/mjturner,18
-0,2017-04-20 17:54:10 -0500,['/t/security'],Phishing with Unicode Domains,https://www.xn--80ak6aa92e.com/,/u/davidjpeacock,4
-2,2017-04-20 07:50:38 -0500,['/t/security'],Hajime worm battles Mirai for control of the Internet of Things,https://www.symantec.com/connect/blogs/hajime-worm-battles-mirai-control-internet-things,/u/mulander,9
-0,2017-04-20 20:26:58 -0500,"['/t/graphics', '/t/math']",Building a fast Equation Grapher (Part I),http://www.rykap.com/math/computer%20graphics/2017/04/11/compiling-shaders-on-the-fly/,/u/zem,2
-2,2017-04-20 19:52:57 -0500,"['/t/javascript', '/t/release']","Relay Modern: Simpler, faster, more extensible",https://code.facebook.com/posts/1362748677097871/relay-modern-simpler-faster-more-extensible/,/u/joshuacc,1
-22,2017-04-19 15:05:12 -0500,"['/t/practices', '/t/vcs']",Don't Link that Line Number!,http://andrew.yurisich.com/work/2014/07/16/dont-link-that-line-number/,/u/hobbes,29
-0,2017-04-20 07:56:48 -0500,['/t/python'],A tale of event loops,https://github.com/AndreLouisCaron/a-tale-of-event-loops,/u/adaszko,9
-8,2017-04-20 10:02:49 -0500,"['/t/devops', '/t/virtualization']",Docker project renamed to Moby,https://github.com/moby/moby,/u/maqio,3
-0,2017-04-20 05:36:04 -0500,"['/t/compsci', '/t/historical']",The Early History Of Smalltalk,http://worrydream.com/EarlyHistoryOfSmalltalk,/u/sevan,11
-1,2017-04-20 18:50:00 -0500,"['/t/freebsd', '/t/unix']",64-bit inodes (ino64) Status Update and Call for Testing,https://lists.freebsd.org/pipermail/freebsd-current/2017-April/065687.html,/u/sevan,1
-0,2017-04-20 10:12:59 -0500,['/t/haskell'],Package takeover: indents,https://jaspervdj.be/posts/2016-12-22-indents.html,/u/pushcx,6
-5,2017-04-19 23:11:48 -0500,"['/t/practices', '/t/python', '/t/release']",Release of IPython 6.0,http://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/,/u/ngoldbaum,14
-10,2017-04-19 09:05:00 -0500,['/t/practices'],The Four Year Typo,http://schneems.com/2017/04/19/the-four-year-typo/,/u/schneems,30
-0,2017-04-20 11:34:17 -0500,"['/t/assembly', '/t/compilers', '/t/lisp']",A Scheme Interpreter for ARM Microcontrollers,http://armpit.sourceforge.net/,/u/weakforce,5
-0,2017-04-20 21:43:02 -0500,['/t/distributed'],Evolving Distributed Tracing at Uber Engineering,https://eng.uber.com/distributed-tracing/,/u/Dawny33,1
-0,2017-04-20 14:33:54 -0500,['/t/browsers'],Modernizing the DOM tree in Microsoft Edge,https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/,/u/jeremy,3
-15,2017-04-19 20:13:35 -0500,['/t/security'],Proprietary Software is often malware,https://www.gnu.org/proprietary/proprietary.html,/u/pizzaiolo,13
-0,2017-04-20 07:40:04 -0500,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/practices', '/t/testing']",An Empirical Study on the Correctness of Formally Verified Distributed Systems,https://homes.cs.washington.edu/~pfonseca/papers/eurosys2017-dsbugs.pdf,/u/koomi,7
-14,2017-04-19 10:32:17 -0500,"['/t/art', '/t/design', '/t/visualization']",An Open Letter to Boring Avatars Everywhere — Meet Foxes,https://patreonhq.com/an-open-letter-to-boring-avatars-everywhere-meet-foxes-6575f0b5de31,/u/antifuchs,35
-17,2017-04-19 13:20:58 -0500,['/t/practices'],Why I Stopped Attending Programming Meet-ups,https://python.sh/2017/4/why-i-stopped-attending-programming-meetups,/u/pushcx,24
-2,2017-04-19 16:17:24 -0500,"['/t/javascript', '/t/nodejs']",Hard-won lessons: Five years with Node.js,https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/,/u/scottnonnenberg,10
-13,2017-04-19 14:39:55 -0500,"['/t/c', '/t/openbsd', '/t/release']",OpenBSD-current 2017/04/19 has clang enabled for amd64 and i386,https://www.openbsd.org/faq/current.html,/u/trn,18
-2,2017-04-19 23:26:01 -0500,"['/t/pdf', '/t/compilers', '/t/haskell']",Mio: A High-Performance Multicore IO Manager for GHC (2013),http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf,/u/NinjaTrappeur,9
-5,2017-04-19 15:15:03 -0500,"['/t/law', '/t/networking', '/t/privacy']",I have found a secret tunnel that runs underneath the phone companies and emerges in paradise (2016),http://boingboing.net/2016/09/22/i-have-found-a-secret-tunnel-t.html,/u/cnst,24
+2,2017-04-20 16:18:54 -0500,/t/virtualization,Docker is transitioning to Moby,https://github.com/moby/moby/pull/32691,/u/lukas,7
+7,2017-04-20 03:25:05 -0500,/t/networking,MIT Sells Half of /8 to Fund Move to IPv6,https://gist.github.com/simonster/e22e50cd52b7dffcf5a4db2b8ea4cce0,/u/mjturner,18
+0,2017-04-20 17:54:10 -0500,/t/security,Phishing with Unicode Domains,https://www.xn--80ak6aa92e.com/,/u/davidjpeacock,4
+2,2017-04-20 07:50:38 -0500,/t/security,Hajime worm battles Mirai for control of the Internet of Things,https://www.symantec.com/connect/blogs/hajime-worm-battles-mirai-control-internet-things,/u/mulander,9
+0,2017-04-20 20:26:58 -0500,"/t/graphics,/t/math",Building a fast Equation Grapher (Part I),http://www.rykap.com/math/computer%20graphics/2017/04/11/compiling-shaders-on-the-fly/,/u/zem,2
+2,2017-04-20 19:52:57 -0500,"/t/javascript,/t/release","Relay Modern: Simpler, faster, more extensible",https://code.facebook.com/posts/1362748677097871/relay-modern-simpler-faster-more-extensible/,/u/joshuacc,1
+22,2017-04-19 15:05:12 -0500,"/t/practices,/t/vcs",Don't Link that Line Number!,http://andrew.yurisich.com/work/2014/07/16/dont-link-that-line-number/,/u/hobbes,29
+0,2017-04-20 07:56:48 -0500,/t/python,A tale of event loops,https://github.com/AndreLouisCaron/a-tale-of-event-loops,/u/adaszko,9
+8,2017-04-20 10:02:49 -0500,"/t/devops,/t/virtualization",Docker project renamed to Moby,https://github.com/moby/moby,/u/maqio,3
+0,2017-04-20 05:36:04 -0500,"/t/compsci,/t/historical",The Early History Of Smalltalk,http://worrydream.com/EarlyHistoryOfSmalltalk,/u/sevan,11
+1,2017-04-20 18:50:00 -0500,"/t/freebsd,/t/unix",64-bit inodes (ino64) Status Update and Call for Testing,https://lists.freebsd.org/pipermail/freebsd-current/2017-April/065687.html,/u/sevan,1
+0,2017-04-20 10:12:59 -0500,/t/haskell,Package takeover: indents,https://jaspervdj.be/posts/2016-12-22-indents.html,/u/pushcx,6
+5,2017-04-19 23:11:48 -0500,"/t/practices,/t/python,/t/release",Release of IPython 6.0,http://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/,/u/ngoldbaum,14
+10,2017-04-19 09:05:00 -0500,/t/practices,The Four Year Typo,http://schneems.com/2017/04/19/the-four-year-typo/,/u/schneems,30
+0,2017-04-20 11:34:17 -0500,"/t/assembly,/t/compilers,/t/lisp",A Scheme Interpreter for ARM Microcontrollers,http://armpit.sourceforge.net/,/u/weakforce,5
+0,2017-04-20 21:43:02 -0500,/t/distributed,Evolving Distributed Tracing at Uber Engineering,https://eng.uber.com/distributed-tracing/,/u/Dawny33,1
+0,2017-04-20 14:33:54 -0500,/t/browsers,Modernizing the DOM tree in Microsoft Edge,https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/,/u/jeremy,3
+15,2017-04-19 20:13:35 -0500,/t/security,Proprietary Software is often malware,https://www.gnu.org/proprietary/proprietary.html,/u/pizzaiolo,13
+0,2017-04-20 07:40:04 -0500,"/t/pdf,/t/compsci,/t/distributed,/t/practices,/t/testing",An Empirical Study on the Correctness of Formally Verified Distributed Systems,https://homes.cs.washington.edu/~pfonseca/papers/eurosys2017-dsbugs.pdf,/u/koomi,7
+14,2017-04-19 10:32:17 -0500,"/t/art,/t/design,/t/visualization",An Open Letter to Boring Avatars Everywhere — Meet Foxes,https://patreonhq.com/an-open-letter-to-boring-avatars-everywhere-meet-foxes-6575f0b5de31,/u/antifuchs,35
+17,2017-04-19 13:20:58 -0500,/t/practices,Why I Stopped Attending Programming Meet-ups,https://python.sh/2017/4/why-i-stopped-attending-programming-meetups,/u/pushcx,24
+2,2017-04-19 16:17:24 -0500,"/t/javascript,/t/nodejs",Hard-won lessons: Five years with Node.js,https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/,/u/scottnonnenberg,10
+13,2017-04-19 14:39:55 -0500,"/t/c,/t/openbsd,/t/release",OpenBSD-current 2017/04/19 has clang enabled for amd64 and i386,https://www.openbsd.org/faq/current.html,/u/trn,18
+2,2017-04-19 23:26:01 -0500,"/t/pdf,/t/compilers,/t/haskell",Mio: A High-Performance Multicore IO Manager for GHC (2013),http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf,/u/NinjaTrappeur,9
+5,2017-04-19 15:15:03 -0500,"/t/law,/t/networking,/t/privacy",I have found a secret tunnel that runs underneath the phone companies and emerges in paradise (2016),http://boingboing.net/2016/09/22/i-have-found-a-secret-tunnel-t.html,/u/cnst,24

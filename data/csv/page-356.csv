@@ -1,25 +1,25 @@
-1,2017-05-23 13:59:01 -0500,"['/t/pdf', '/t/math']",How to not lie with statistics: The correct way to summarize benchmark results,http://www.cse.unsw.edu.au/~cs9242/15/papers/Fleming_Wallace_86.pdf,/u/petergao,11
-0,2017-05-24 05:02:50 -0500,"['/t/video', '/t/ruby', '/t/web']",Perusing the Rails Source Code - A Beginners Guide,http://confreaks.tv/videos/railsconf2017-perusing-the-rails-source-code-a-beginners-guide,/u/pushcx,2
-0,2017-05-23 11:27:24 -0500,['/t/crypto'],AES-GCM-SIV,https://www.imperialviolet.org/2017/05/14/aesgcmsiv.html,/u/jcs,16
-0,2017-05-23 13:02:12 -0500,"['/t/video', '/t/browsers', '/t/security', '/t/web']",From DNS to DPKI (Decentralized Public Key Infrastructure),https://www.youtube.com/watch?v=8CAvwJVB_9s&feature=youtu.be,/u/itistoday,7
-2,2017-05-23 14:37:54 -0500,['/t/practices'],A year of mob programming,https://engineering.klarna.com/a-year-of-mob-programming-e8cc7543ac2,/u/calvin,7
-0,2017-05-23 16:25:12 -0500,"['/t/pdf', '/t/compsci']",Cuckoo Filter: Practically Better Than Bloom,https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf,/u/petergao,8
-3,2017-05-23 09:37:26 -0500,"['/t/distributed', '/t/release']",Secure Scuttlebutt,https://www.scuttlebutt.nz/,/u/pushcx,14
-0,2017-05-23 14:57:54 -0500,"['/t/devops', '/t/freebsd', '/t/linux', '/t/unix']",How to improve ZFS performance,https://icesquare.com/wordpress/how-to-improve-zfs-performance/,/u/mjturner,9
-0,2017-05-23 06:15:44 -0500,['/t/security'],Chaos Computer Clubs breaks iris recognition system of the Samsung Galaxy S8,http://www.ccc.de/en/updates/2017/iriden,/u/lawl,21
-3,2017-05-24 00:47:29 -0500,"['/t/programming', '/t/python']",Take the Triplebyte Programming Quiz!,https://quiz.triplebyte.com/,/u/akalin,1
-0,2017-05-22 23:18:32 -0500,"['/t/hardware', '/t/openbsd']","OpenBSD on the Xiaomi Mi Air 12.5""",https://jcs.org/2017/05/22/xiaomiair,/u/wally,37
-0,2017-05-23 17:03:30 -0500,"['/t/emacs', '/t/programming']",The Astounding Variety of Groovy Strings,http://www.wilfred.me.uk/blog/2017/05/23/the-astounding-variety-of-groovy-strings/,/u/Wilfred,2
-0,2017-05-24 02:14:01 -0500,"['/t/pdf', '/t/cogsci', '/t/games']",Evolving Maps for Match Balancing in First Person Shooters,http://storage.kghost.de/cig_proc/full/paper_77.pdf,/u/friendlysock,1
-1,2017-05-23 17:42:57 -0500,"['/t/networking', '/t/security']",Who controls the Internet? Analyzing global threats using property traversal graphs,https://blog.acolyer.org/2017/05/19/who-controls-the-internet-analyzing-global-threats-using-property-traversal-graphs/,/u/unbalancedparentheses,2
-11,2017-05-23 17:10:32 -0500,"['/t/culture', '/t/lisp', '/t/programming']","Simple Ain't Easy, but Hard Ain't Simple: Leaving Clojure for Ruby",https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html,/u/arrdem,7
-0,2017-05-23 17:06:22 -0500,"['/t/api', '/t/erlang']",Erlang GraphQL Tutorial,https://shopgun.github.io/graphql-erlang-tutorial/#_why_graphql,/u/unbalancedparentheses,3
-1,2017-05-23 17:01:13 -0500,"['/t/linux', '/t/release', '/t/security']",A Simple Tool for Linux Kernel Audits,http://www.droidsec.org/blogs/2017/05/22/a-simple-tool-for-linux-kernel-audits.html,/u/pushcx,2
-0,2017-05-23 16:54:27 -0500,['/t/practices'],Turning Off GitHub Issues In Favor of PRs,https://gist.github.com/ryanflorence/8a62abea562ca2896dee,/u/pushcx,3
-1,2017-05-23 09:14:33 -0500,['/t/law'],U.S. top court tightens patent suit rules in blow to 'patent trolls',http://www.reuters.com/article/us-usa-court-kraft-heinz-idUSKBN18I1SZ,/u/adsouza,5
-0,2017-05-23 09:25:32 -0500,"['/t/hardware', '/t/science']",Homodyne measurement of Earth's rotation with a PlayStation Move controller and a record player,http://www.pabr.org/copernitron/copernitron.en.html,/u/pushcx,6
-0,2017-05-23 21:14:10 -0500,"['/t/dotnet', '/t/networking', '/t/release']",pgodwin/GopherServer: A Gopher Server implemented in C#,https://github.com/pgodwin/GopherServer,/u/calvin,1
-0,2017-05-23 17:20:51 -0500,['/t/databases'],How Cassandra Writes Data,http://www.mahdix.com/blog/2016/07/29/how-cassandra-writes-data-part-1/,/u/unbalancedparentheses,2
-0,2017-05-23 16:51:54 -0500,['/t/compsci'],Solving twenty-four puzzles,http://blog.plover.com/math/24-puzzle.html,/u/pushcx,2
-0,2017-05-23 20:14:12 -0500,"['/t/practices', '/t/programming']",Stack Overflow Code Snippets in GitHub Projects,https://sbaltes.github.io/blog/so-snippets-in-gh-projects,/u/calvin,1
-0,2017-05-23 09:59:56 -0500,['/t/vcs'],Git-configured email SaaS developermail.io now available without invites,https://twitter.com/devmailio/status/867031536029368322,/u/chr4,2
+1,2017-05-23 13:59:01 -0500,"/t/pdf,/t/math",How to not lie with statistics: The correct way to summarize benchmark results,http://www.cse.unsw.edu.au/~cs9242/15/papers/Fleming_Wallace_86.pdf,/u/petergao,11
+0,2017-05-24 05:02:50 -0500,"/t/video,/t/ruby,/t/web",Perusing the Rails Source Code - A Beginners Guide,http://confreaks.tv/videos/railsconf2017-perusing-the-rails-source-code-a-beginners-guide,/u/pushcx,2
+0,2017-05-23 11:27:24 -0500,/t/crypto,AES-GCM-SIV,https://www.imperialviolet.org/2017/05/14/aesgcmsiv.html,/u/jcs,16
+0,2017-05-23 13:02:12 -0500,"/t/video,/t/browsers,/t/security,/t/web",From DNS to DPKI (Decentralized Public Key Infrastructure),https://www.youtube.com/watch?v=8CAvwJVB_9s&feature=youtu.be,/u/itistoday,7
+2,2017-05-23 14:37:54 -0500,/t/practices,A year of mob programming,https://engineering.klarna.com/a-year-of-mob-programming-e8cc7543ac2,/u/calvin,7
+0,2017-05-23 16:25:12 -0500,"/t/pdf,/t/compsci",Cuckoo Filter: Practically Better Than Bloom,https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf,/u/petergao,8
+3,2017-05-23 09:37:26 -0500,"/t/distributed,/t/release",Secure Scuttlebutt,https://www.scuttlebutt.nz/,/u/pushcx,14
+0,2017-05-23 14:57:54 -0500,"/t/devops,/t/freebsd,/t/linux,/t/unix",How to improve ZFS performance,https://icesquare.com/wordpress/how-to-improve-zfs-performance/,/u/mjturner,9
+0,2017-05-23 06:15:44 -0500,/t/security,Chaos Computer Clubs breaks iris recognition system of the Samsung Galaxy S8,http://www.ccc.de/en/updates/2017/iriden,/u/lawl,21
+3,2017-05-24 00:47:29 -0500,"/t/programming,/t/python",Take the Triplebyte Programming Quiz!,https://quiz.triplebyte.com/,/u/akalin,1
+0,2017-05-22 23:18:32 -0500,"/t/hardware,/t/openbsd","OpenBSD on the Xiaomi Mi Air 12.5""",https://jcs.org/2017/05/22/xiaomiair,/u/wally,37
+0,2017-05-23 17:03:30 -0500,"/t/emacs,/t/programming",The Astounding Variety of Groovy Strings,http://www.wilfred.me.uk/blog/2017/05/23/the-astounding-variety-of-groovy-strings/,/u/Wilfred,2
+0,2017-05-24 02:14:01 -0500,"/t/pdf,/t/cogsci,/t/games",Evolving Maps for Match Balancing in First Person Shooters,http://storage.kghost.de/cig_proc/full/paper_77.pdf,/u/friendlysock,1
+1,2017-05-23 17:42:57 -0500,"/t/networking,/t/security",Who controls the Internet? Analyzing global threats using property traversal graphs,https://blog.acolyer.org/2017/05/19/who-controls-the-internet-analyzing-global-threats-using-property-traversal-graphs/,/u/unbalancedparentheses,2
+11,2017-05-23 17:10:32 -0500,"/t/culture,/t/lisp,/t/programming","Simple Ain't Easy, but Hard Ain't Simple: Leaving Clojure for Ruby",https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html,/u/arrdem,7
+0,2017-05-23 17:06:22 -0500,"/t/api,/t/erlang",Erlang GraphQL Tutorial,https://shopgun.github.io/graphql-erlang-tutorial/#_why_graphql,/u/unbalancedparentheses,3
+1,2017-05-23 17:01:13 -0500,"/t/linux,/t/release,/t/security",A Simple Tool for Linux Kernel Audits,http://www.droidsec.org/blogs/2017/05/22/a-simple-tool-for-linux-kernel-audits.html,/u/pushcx,2
+0,2017-05-23 16:54:27 -0500,/t/practices,Turning Off GitHub Issues In Favor of PRs,https://gist.github.com/ryanflorence/8a62abea562ca2896dee,/u/pushcx,3
+1,2017-05-23 09:14:33 -0500,/t/law,U.S. top court tightens patent suit rules in blow to 'patent trolls',http://www.reuters.com/article/us-usa-court-kraft-heinz-idUSKBN18I1SZ,/u/adsouza,5
+0,2017-05-23 09:25:32 -0500,"/t/hardware,/t/science",Homodyne measurement of Earth's rotation with a PlayStation Move controller and a record player,http://www.pabr.org/copernitron/copernitron.en.html,/u/pushcx,6
+0,2017-05-23 21:14:10 -0500,"/t/dotnet,/t/networking,/t/release",pgodwin/GopherServer: A Gopher Server implemented in C#,https://github.com/pgodwin/GopherServer,/u/calvin,1
+0,2017-05-23 17:20:51 -0500,/t/databases,How Cassandra Writes Data,http://www.mahdix.com/blog/2016/07/29/how-cassandra-writes-data-part-1/,/u/unbalancedparentheses,2
+0,2017-05-23 16:51:54 -0500,/t/compsci,Solving twenty-four puzzles,http://blog.plover.com/math/24-puzzle.html,/u/pushcx,2
+0,2017-05-23 20:14:12 -0500,"/t/practices,/t/programming",Stack Overflow Code Snippets in GitHub Projects,https://sbaltes.github.io/blog/so-snippets-in-gh-projects,/u/calvin,1
+0,2017-05-23 09:59:56 -0500,/t/vcs,Git-configured email SaaS developermail.io now available without invites,https://twitter.com/devmailio/status/867031536029368322,/u/chr4,2

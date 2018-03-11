@@ -1,25 +1,25 @@
-0,2015-05-15 13:36:50 -0500,"['/t/compsci', '/t/haskell', '/t/programming']",Another Personal Programming Language Roadmap,http://www.stackbuilders.com/news/another-personal-programming-language-roadmap,/u/jsl,6
-3,2015-05-15 05:35:22 -0500,['/t/assembly'],MenuetOS 1.00 released,http://menuetos.net/,/u/sanxiyn,10
-1,2015-05-15 06:36:17 -0500,['/t/linux'],poor man's profiler,http://poormansprofiler.org/,/u/sheki,6
-5,2015-05-14 14:00:27 -0500,"['/t/programming', '/t/rust']",A Taste of Rust,http://www.evanmiller.org/a-taste-of-rust.html,/u/pushcx,27
-0,2015-05-15 09:09:55 -0500,['/t/security'],About Public Key Pinning,https://noncombatant.org/2015/05/01/about-http-public-key-pinning/,/u/UkiahSmith,5
-1,2015-05-15 15:33:12 -0500,"['/t/graphics', '/t/math', '/t/security']",New in the Wolfram Language: Cryptography—Wolfram Blog,http://blog.wolfram.com/2015/05/15/new-in-the-wolfram-language-cryptography/,/u/antifuchs,1
-0,2015-05-15 09:53:18 -0500,"['/t/compsci', '/t/programming']",Against the definition of types,http://tomasp.net/blog/2015/against-types/,/u/pushcx,4
-0,2015-05-15 11:17:44 -0500,"['/t/video', '/t/distributed', '/t/practices']",Testing in a Distributed World,http://www.youtube.com/watch?v=KSdNYi55kjg,/u/SeanTAllen,3
-12,2015-05-14 12:54:22 -0500,['/t/api'],Do you really know why you prefer REST over RPC?,http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/,/u/journeysquid,19
-4,2015-05-14 19:28:03 -0500,['/t/programming'],Divorce from Framework or Library,https://sam-serpoosh.github.io/divorce-from-framework-or-tool/,/u/pushcx,7
-18,2015-05-14 12:53:12 -0500,['/t/go'],Why I like Go's interfaces,http://theburningmonk.com/2015/05/why-i-like-golang-interfaces/,/u/journeysquid,14
-2,2015-05-14 15:38:26 -0500,['/t/openbsd'],"From 0 to an OpenBSD install, with no hands and a custom disk layout",http://blog.jeffreyforman.net/2015/05/09/from-0-to-an-openbsd-install-with-no-hands-and-a-custom-disk-layout/,/u/fcambus,13
-0,2015-05-14 18:23:10 -0500,['/t/hardware'],Raspberry Pi Model B+ price cut ($35 to $25),https://www.raspberrypi.org/price-cut-raspberry-pi-model-b-now-only-25/,/u/calvin,11
-5,2015-05-14 15:46:02 -0500,['/t/meta'],Is everything okay with the Lobsters infrastructure?,/s/6oiemh/is_everything_okay_with_lobsters,/u/Irene,22
-0,2015-05-15 09:14:25 -0500,['/t/cryptocurrencies'],Why the block chain matters,http://www.wired.co.uk/magazine/archive/2015/06/features/bitcoin-reid-hoffman/viewall,/u/UkiahSmith,1
-0,2015-05-14 19:28:21 -0500,"['/t/programming', '/t/ruby']",How Ruby Uses Memory,http://www.sitepoint.com/ruby-uses-memory/,/u/pushcx,5
-0,2015-05-14 16:44:16 -0500,"['/t/programming', '/t/release']",Eve: the development diary of a programming environment aimed at non-programmers,http://lambda-the-ultimate.org/node/5156,/u/pushcx,4
-0,2015-05-14 09:57:39 -0500,"['/t/programming', '/t/rust']",Error Handling in Rust,http://blog.burntsushi.net/rust-error-handling,/u/burntsushi,8
-0,2015-05-14 11:32:23 -0500,['/t/mac'],Debugging `launchd` on OSX 10.10.3,http://blog.wuntee.sexy/osx/kernel/debugging/2015/05/11/debugging-launchd/,/u/antifuchs,6
-3,2015-05-13 23:18:23 -0500,"['/t/programming', '/t/ruby', '/t/web']",Strong Parameters Are A Weak Schema,http://gilesbowkett.blogspot.com/2015/05/strong-parameters-are-weak-schema.html,/u/pushcx,11
-0,2015-05-14 12:49:42 -0500,['/t/practices'],"Happy, Sad, Evil, Weird: Driving Feature Development With Feature Planning",https://blog.engineyard.com/2015/happy-sad-evil-weird-feature-planning,/u/fluxusfrequency,2
-4,2015-05-13 09:24:28 -0500,"['/t/design', '/t/graphics']",A pixel artist renounces pixel art,http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/,/u/antifuchs,33
-3,2015-05-13 20:20:41 -0500,"['/t/javascript', '/t/programming']",io.js and Node.js to Join the Node Foundation · Vote Happened and Merger Going Ahead,https://github.com/iojs/io.js/issues/1664#issuecomment-101828384,/u/davidjpeacock,12
-0,2015-05-13 21:24:49 -0500,['/t/linux'],Linux futex_wait bug,https://groups.google.com/forum/#!topic/mechanical-sympathy/QbmpZxp6C64,/u/SeanTAllen,12
-8,2015-05-13 10:07:37 -0500,['/t/programming'],The 'designing with types' series,http://fsharpforfunandprofit.com/series/designing-with-types.html,/u/pushcx,12
+0,2015-05-15 13:36:50 -0500,"/t/compsci,/t/haskell,/t/programming",Another Personal Programming Language Roadmap,http://www.stackbuilders.com/news/another-personal-programming-language-roadmap,/u/jsl,6
+3,2015-05-15 05:35:22 -0500,/t/assembly,MenuetOS 1.00 released,http://menuetos.net/,/u/sanxiyn,10
+1,2015-05-15 06:36:17 -0500,/t/linux,poor man's profiler,http://poormansprofiler.org/,/u/sheki,6
+5,2015-05-14 14:00:27 -0500,"/t/programming,/t/rust",A Taste of Rust,http://www.evanmiller.org/a-taste-of-rust.html,/u/pushcx,27
+0,2015-05-15 09:09:55 -0500,/t/security,About Public Key Pinning,https://noncombatant.org/2015/05/01/about-http-public-key-pinning/,/u/UkiahSmith,5
+1,2015-05-15 15:33:12 -0500,"/t/graphics,/t/math,/t/security",New in the Wolfram Language: Cryptography—Wolfram Blog,http://blog.wolfram.com/2015/05/15/new-in-the-wolfram-language-cryptography/,/u/antifuchs,1
+0,2015-05-15 09:53:18 -0500,"/t/compsci,/t/programming",Against the definition of types,http://tomasp.net/blog/2015/against-types/,/u/pushcx,4
+0,2015-05-15 11:17:44 -0500,"/t/video,/t/distributed,/t/practices",Testing in a Distributed World,http://www.youtube.com/watch?v=KSdNYi55kjg,/u/SeanTAllen,3
+12,2015-05-14 12:54:22 -0500,/t/api,Do you really know why you prefer REST over RPC?,http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/,/u/journeysquid,19
+4,2015-05-14 19:28:03 -0500,/t/programming,Divorce from Framework or Library,https://sam-serpoosh.github.io/divorce-from-framework-or-tool/,/u/pushcx,7
+18,2015-05-14 12:53:12 -0500,/t/go,Why I like Go's interfaces,http://theburningmonk.com/2015/05/why-i-like-golang-interfaces/,/u/journeysquid,14
+2,2015-05-14 15:38:26 -0500,/t/openbsd,"From 0 to an OpenBSD install, with no hands and a custom disk layout",http://blog.jeffreyforman.net/2015/05/09/from-0-to-an-openbsd-install-with-no-hands-and-a-custom-disk-layout/,/u/fcambus,13
+0,2015-05-14 18:23:10 -0500,/t/hardware,Raspberry Pi Model B+ price cut ($35 to $25),https://www.raspberrypi.org/price-cut-raspberry-pi-model-b-now-only-25/,/u/calvin,11
+5,2015-05-14 15:46:02 -0500,/t/meta,Is everything okay with the Lobsters infrastructure?,/s/6oiemh/is_everything_okay_with_lobsters,/u/Irene,22
+0,2015-05-15 09:14:25 -0500,/t/cryptocurrencies,Why the block chain matters,http://www.wired.co.uk/magazine/archive/2015/06/features/bitcoin-reid-hoffman/viewall,/u/UkiahSmith,1
+0,2015-05-14 19:28:21 -0500,"/t/programming,/t/ruby",How Ruby Uses Memory,http://www.sitepoint.com/ruby-uses-memory/,/u/pushcx,5
+0,2015-05-14 16:44:16 -0500,"/t/programming,/t/release",Eve: the development diary of a programming environment aimed at non-programmers,http://lambda-the-ultimate.org/node/5156,/u/pushcx,4
+0,2015-05-14 09:57:39 -0500,"/t/programming,/t/rust",Error Handling in Rust,http://blog.burntsushi.net/rust-error-handling,/u/burntsushi,8
+0,2015-05-14 11:32:23 -0500,/t/mac,Debugging `launchd` on OSX 10.10.3,http://blog.wuntee.sexy/osx/kernel/debugging/2015/05/11/debugging-launchd/,/u/antifuchs,6
+3,2015-05-13 23:18:23 -0500,"/t/programming,/t/ruby,/t/web",Strong Parameters Are A Weak Schema,http://gilesbowkett.blogspot.com/2015/05/strong-parameters-are-weak-schema.html,/u/pushcx,11
+0,2015-05-14 12:49:42 -0500,/t/practices,"Happy, Sad, Evil, Weird: Driving Feature Development With Feature Planning",https://blog.engineyard.com/2015/happy-sad-evil-weird-feature-planning,/u/fluxusfrequency,2
+4,2015-05-13 09:24:28 -0500,"/t/design,/t/graphics",A pixel artist renounces pixel art,http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/,/u/antifuchs,33
+3,2015-05-13 20:20:41 -0500,"/t/javascript,/t/programming",io.js and Node.js to Join the Node Foundation · Vote Happened and Merger Going Ahead,https://github.com/iojs/io.js/issues/1664#issuecomment-101828384,/u/davidjpeacock,12
+0,2015-05-13 21:24:49 -0500,/t/linux,Linux futex_wait bug,https://groups.google.com/forum/#!topic/mechanical-sympathy/QbmpZxp6C64,/u/SeanTAllen,12
+8,2015-05-13 10:07:37 -0500,/t/programming,The 'designing with types' series,http://fsharpforfunandprofit.com/series/designing-with-types.html,/u/pushcx,12

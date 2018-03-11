@@ -1,25 +1,25 @@
-0,2017-08-06 11:29:52 -0500,['/t/math'],How do you find the integer solutions to x/(y + z) + y/(x + z) + z/(x + y) = 4?,https://www.quora.com/What-is-an-example-of-a-conjecture-that-was-proven-wrong-for-very-large-numbers,/u/JordiGH,14
-5,2017-08-06 07:49:18 -0500,['/t/education'],AP Computer Science Principles course,https://advancesinap.collegeboard.org/stem/computer-science-principles,/u/burntsushi,17
-0,2017-08-06 21:29:58 -0500,"['/t/browsers', '/t/javascript']",NoScript’s Migration to WebExtensions APIs,https://blog.mozilla.org/addons/2017/08/01/noscripts-migration-to-webextensions-apis/,/u/calvin,4
-72,2017-08-05 08:11:30 -0500,"['/t/ask', '/t/practices']",What email providers do Lobsters recommend?,/s/3sa4z3/what_email_providers_do_lobsters,/u/calvin,61
-0,2017-08-06 12:57:12 -0500,"['/t/databases', '/t/scaling']",Experimenting with scaling and full parallelism in PostgreSQL,http://www.cybertec.at/experimenting-scaling-full-parallelism-postgresql/,/u/pushcx,9
-0,2017-08-07 02:51:25 -0500,"['/t/hardware', '/t/security']",It’s 2017 and Hayes AT modem commands can hack luxury cars,https://www.theregister.co.uk/2017/08/01/telematics_vulnerabilities_in_bmw_infiniti_ford_nissan/,/u/pgl,1
-0,2017-08-06 22:35:37 -0500,"['/t/security', '/t/virtualization']",OpenXT,http://openxt.org/,/u/zgrep,2
-0,2017-08-06 15:23:49 -0500,"['/t/linux', '/t/security']",Intro to Linux Forensics,https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/,/u/calvin,5
-1,2017-08-06 06:28:21 -0500,"['/t/linux', '/t/programming']",The NOVA filesystem,https://lwn.net/SubscriberLink/729812/1557fcd18e4dd96f/,/u/calvin,12
-2,2017-08-06 04:50:31 -0500,"['/t/linux', '/t/rust', '/t/virtualization']",Vagga is a containerization tool without daemons,https://github.com/tailhook/vagga,/u/raindev,11
-2,2017-08-06 06:29:05 -0500,"['/t/c++', '/t/math']",Generating Random Numbers From a Specific Distribution By Inverting the CDF,https://blog.demofox.org/2017/08/05/generating-random-numbers-from-a-specific-distribution-by-inverting-the-cdf/,/u/calvin,6
-0,2017-08-06 06:29:55 -0500,"['/t/hardware', '/t/programming']",Tinkering with electronics,https://www.thanassis.space/thebeast.html,/u/calvin,8
-0,2017-08-06 19:38:53 -0500,['/t/linux'],"Myths and Misunderstandings about Unity, Mir and Ubuntu Touch",https://distrowatch.com/weekly.php?issue=20170807#myth,/u/pizzaiolo,1
-1,2017-08-06 09:50:45 -0500,"['/t/assembly', '/t/reversing', '/t/security']",To Depart From Clemency: a DEF CON 2017 Retrospective,http://dttw.tech/posts/rJHDh3RLb,/u/calvin,3
-0,2017-08-06 20:49:42 -0500,"['/t/programming', '/t/satire']",Is there more to life than programming?,https://www.reddit.com/r/haskell/comments/6rvjqb/is_there_more_to_life_than_programming/,/u/bsima,2
-0,2017-08-06 06:39:35 -0500,"['/t/c', '/t/c++', '/t/lua', '/t/programming', '/t/release']","xmake v2.1.5 released, lots of new feature updates",http://tboox.org/2017/08/05/update-v2.1.5/,/u/ruki,3
-20,2017-08-05 07:30:36 -0500,['/t/vim'],Why I Still Use Vim,https://medium.freecodecamp.org/why-i-still-use-vim-67afd76b4db6,/u/mulander,37
-6,2017-08-06 16:26:24 -0500,"['/t/culture', '/t/practices']",The lack of multilingual affordances in modern software,http://www.osnews.com/story/29950/The_lack_of_multilingual_affordances_in_modern_software,/u/calvin,3
-0,2017-08-06 12:56:49 -0500,"['/t/ai', '/t/python']","Predicting Housing Prices with Linear Regression using Python, pandas, and statsmodels",http://www.learndatasci.com/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/,/u/pushcx,2
-2,2017-08-05 17:45:39 -0500,"['/t/programming', '/t/release']",Pony 0.17.0 Released,https://www.ponylang.org/blog/2017/08/0.17.0-released/,/u/SeanTAllen,13
-12,2017-08-05 18:11:23 -0500,['/t/education'],Girls set AP Computer Science record…skyrocketing growth outpaces boys,https://medium.com/@codeorg/girls-set-ap-computer-science-record-skyrocketing-growth-outpaces-boys-41b7c01373a5,/u/adsouza,14
-0,2017-08-05 17:08:17 -0500,['/t/scala'],Scala Design Success: Generics,http://soc.github.io/lessons-learned/generics.html,/u/soc,10
-0,2017-08-06 05:36:43 -0500,"['/t/video', '/t/art']",INORI — we pray all nukes will eternally disappear from the world.,https://vimeo.com/228515156,/u/sevan,4
-0,2017-08-05 23:39:15 -0500,['/t/scala'],Stackless Function Composition,https://mpilquist.github.io/blog/2017/03/11/stackless-function-composition/,/u/pushcx,5
-3,2017-08-05 13:31:25 -0500,"['/t/devops', '/t/hardware']",832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1,http://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/,/u/friendlysock,10
+0,2017-08-06 11:29:52 -0500,/t/math,How do you find the integer solutions to x/(y + z) + y/(x + z) + z/(x + y) = 4?,https://www.quora.com/What-is-an-example-of-a-conjecture-that-was-proven-wrong-for-very-large-numbers,/u/JordiGH,14
+5,2017-08-06 07:49:18 -0500,/t/education,AP Computer Science Principles course,https://advancesinap.collegeboard.org/stem/computer-science-principles,/u/burntsushi,17
+0,2017-08-06 21:29:58 -0500,"/t/browsers,/t/javascript",NoScript’s Migration to WebExtensions APIs,https://blog.mozilla.org/addons/2017/08/01/noscripts-migration-to-webextensions-apis/,/u/calvin,4
+72,2017-08-05 08:11:30 -0500,"/t/ask,/t/practices",What email providers do Lobsters recommend?,/s/3sa4z3/what_email_providers_do_lobsters,/u/calvin,61
+0,2017-08-06 12:57:12 -0500,"/t/databases,/t/scaling",Experimenting with scaling and full parallelism in PostgreSQL,http://www.cybertec.at/experimenting-scaling-full-parallelism-postgresql/,/u/pushcx,9
+0,2017-08-07 02:51:25 -0500,"/t/hardware,/t/security",It’s 2017 and Hayes AT modem commands can hack luxury cars,https://www.theregister.co.uk/2017/08/01/telematics_vulnerabilities_in_bmw_infiniti_ford_nissan/,/u/pgl,1
+0,2017-08-06 22:35:37 -0500,"/t/security,/t/virtualization",OpenXT,http://openxt.org/,/u/zgrep,2
+0,2017-08-06 15:23:49 -0500,"/t/linux,/t/security",Intro to Linux Forensics,https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/,/u/calvin,5
+1,2017-08-06 06:28:21 -0500,"/t/linux,/t/programming",The NOVA filesystem,https://lwn.net/SubscriberLink/729812/1557fcd18e4dd96f/,/u/calvin,12
+2,2017-08-06 04:50:31 -0500,"/t/linux,/t/rust,/t/virtualization",Vagga is a containerization tool without daemons,https://github.com/tailhook/vagga,/u/raindev,11
+2,2017-08-06 06:29:05 -0500,"/t/c++,/t/math",Generating Random Numbers From a Specific Distribution By Inverting the CDF,https://blog.demofox.org/2017/08/05/generating-random-numbers-from-a-specific-distribution-by-inverting-the-cdf/,/u/calvin,6
+0,2017-08-06 06:29:55 -0500,"/t/hardware,/t/programming",Tinkering with electronics,https://www.thanassis.space/thebeast.html,/u/calvin,8
+0,2017-08-06 19:38:53 -0500,/t/linux,"Myths and Misunderstandings about Unity, Mir and Ubuntu Touch",https://distrowatch.com/weekly.php?issue=20170807#myth,/u/pizzaiolo,1
+1,2017-08-06 09:50:45 -0500,"/t/assembly,/t/reversing,/t/security",To Depart From Clemency: a DEF CON 2017 Retrospective,http://dttw.tech/posts/rJHDh3RLb,/u/calvin,3
+0,2017-08-06 20:49:42 -0500,"/t/programming,/t/satire",Is there more to life than programming?,https://www.reddit.com/r/haskell/comments/6rvjqb/is_there_more_to_life_than_programming/,/u/bsima,2
+0,2017-08-06 06:39:35 -0500,"/t/c,/t/c++,/t/lua,/t/programming,/t/release","xmake v2.1.5 released, lots of new feature updates",http://tboox.org/2017/08/05/update-v2.1.5/,/u/ruki,3
+20,2017-08-05 07:30:36 -0500,/t/vim,Why I Still Use Vim,https://medium.freecodecamp.org/why-i-still-use-vim-67afd76b4db6,/u/mulander,37
+6,2017-08-06 16:26:24 -0500,"/t/culture,/t/practices",The lack of multilingual affordances in modern software,http://www.osnews.com/story/29950/The_lack_of_multilingual_affordances_in_modern_software,/u/calvin,3
+0,2017-08-06 12:56:49 -0500,"/t/ai,/t/python","Predicting Housing Prices with Linear Regression using Python, pandas, and statsmodels",http://www.learndatasci.com/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/,/u/pushcx,2
+2,2017-08-05 17:45:39 -0500,"/t/programming,/t/release",Pony 0.17.0 Released,https://www.ponylang.org/blog/2017/08/0.17.0-released/,/u/SeanTAllen,13
+12,2017-08-05 18:11:23 -0500,/t/education,Girls set AP Computer Science record…skyrocketing growth outpaces boys,https://medium.com/@codeorg/girls-set-ap-computer-science-record-skyrocketing-growth-outpaces-boys-41b7c01373a5,/u/adsouza,14
+0,2017-08-05 17:08:17 -0500,/t/scala,Scala Design Success: Generics,http://soc.github.io/lessons-learned/generics.html,/u/soc,10
+0,2017-08-06 05:36:43 -0500,"/t/video,/t/art",INORI — we pray all nukes will eternally disappear from the world.,https://vimeo.com/228515156,/u/sevan,4
+0,2017-08-05 23:39:15 -0500,/t/scala,Stackless Function Composition,https://mpilquist.github.io/blog/2017/03/11/stackless-function-composition/,/u/pushcx,5
+3,2017-08-05 13:31:25 -0500,"/t/devops,/t/hardware",832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1,http://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/,/u/friendlysock,10

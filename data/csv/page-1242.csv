@@ -1,25 +1,25 @@
-1,2014-09-29 04:04:57 -0500,"['/t/programming', '/t/web']",SWI-Prolog for the (semantic) web,http://www.swi-prolog.org/web/index.html,/u/fabriceleal,4
-0,2014-09-29 06:35:17 -0500,"['/t/hardware', '/t/reversing']",Reverse Engineering Wireless Pro Studio Lighting,http://zoetrope.io/tech-blog/reverse-engineering-wireless-pro-studio-lighting,/u/ben_howes,4
-0,2014-09-28 13:14:34 -0500,"['/t/c', '/t/openbsd', '/t/security']",LibreSSL: More Than 30 Days Later,http://www.openbsd.org/papers/eurobsdcon2014-libressl.html,/u/kyle,29
-2,2014-09-28 23:13:48 -0500,"['/t/video', '/t/games', '/t/lisp', '/t/programming']",Infinite Functional Entertainment at 60 FPS!,https://www.youtube.com/watch?v=_x0Ob2HY8C4&index=5&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh,/u/michaelsbradleyjr,6
-0,2014-09-29 10:51:16 -0500,"['/t/programming', '/t/vim']",Welcome to Eclim — eclim (eclipse + vim),http://eclim.org/,/u/tobym,1
-0,2014-09-29 09:13:47 -0500,"['/t/javascript', '/t/windows']",WinJS 3.0 Shows Industry Shift Towards JavaScript,http://developer.telerik.com/featured/winjs-3-0-shows-industry-shift-towards-javascript/,/u/remotesynth,1
-0,2014-09-29 08:09:06 -0500,"['/t/cryptocurrencies', '/t/programming']",Mining Bitcoin with pencil and paper: 0.67 hashes per day [blog],http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html,/u/zod000,1
-1,2014-09-28 22:09:30 -0500,"['/t/programming', '/t/release']",Myrddin Playground: Try My Language Online.,http://eigenstate.org/myrddin/playground,/u/orib,3
-3,2014-09-27 14:35:21 -0500,['/t/databases'],Postgres Outperforms MongoDB,http://blogs.enterprisedb.com/2014/09/24/postgres-outperforms-mongodb-and-ushers-in-new-developer-reality/,/u/journeysquid,24
-3,2014-09-28 10:24:28 -0500,['/t/culture'],Shellshock and the Jackals,http://weev.livejournal.com/409835.html,/u/mempko,7
-3,2014-09-27 16:32:15 -0500,"['/t/linux', '/t/security']","Bash bug: so, like, apply the unofficial patch now (CVE-2014-6277)",http://lcamtuf.blogspot.com/2014/09/bash-bug-apply-unofficial-patch-now.html,/u/jcs,7
-0,2014-09-27 18:51:01 -0500,"['/t/c', '/t/openbsd', '/t/security']",Developing Software in a Hostile Environment,http://www.openbsd.org/papers/dev-sw-hostile-env.html,/u/kyle,10
-0,2014-09-28 10:28:22 -0500,"['/t/distributed', '/t/erlang']","Programming Models and the SyncFree Research Project, Part 1",http://christophermeiklejohn.com/derflow/erlang/2014/09/28/try-derflow.html,/u/cmeiklejohn,1
-0,2014-09-28 09:57:24 -0500,"['/t/video', '/t/cryptocurrencies']",Ethereum Update by Vitalik Buterin,https://www.youtube.com/watch?v=z_7mvN7ixK0,/u/james,1
-11,2014-09-27 09:06:12 -0500,"['/t/security', '/t/unix']",Not a bash bug,http://paste.lisp.org/display/143864,/u/pushcx,12
-0,2014-09-27 17:29:38 -0500,"['/t/haskell', '/t/programming']",What are free monads?,http://stackoverflow.com/questions/13352205/what-are-free-monads/13352580#13352580,/u/bitemyapp,9
-0,2014-09-28 07:21:19 -0500,['/t/security'],"qmail is a vector for CVE-2014-6271 (bash ""shellshock"")",http://marc.info/?l=qmail&m=141183309314366&w=2,/u/0xfg,1
-0,2014-09-28 06:50:40 -0500,"['/t/video', '/t/scaling']",The Tail at Scale: Achieving Rapid Response Times in Large Online Services,https://www.youtube.com/watch?v=C_PxVdQmfpk&list=PL9Jh2HsAWHxKAIZ5n-PkPW3CHg2wI-MWb,/u/SeanTAllen,1
-0,2014-09-27 16:15:58 -0500,"['/t/assembly', '/t/c', '/t/hardware']",The Megalomaniac Bore: Write your own Virtual CPU in C++ (4001 CPU),http://megalomaniacbore.blogspot.co.uk/2014/04/virtual-cpu-in-c-4001-cpu.html,/u/RiderOfGiraffes,6
-1,2014-09-27 04:55:38 -0500,"['/t/design', '/t/lisp']",Clojure Distilled,http://yogthos.github.io/ClojureDistilled.html,/u/daGrevis,19
-0,2014-09-28 01:17:20 -0500,['/t/security'],PKCS#1 signature validation,https://www.imperialviolet.org/2014/09/26/pkcs1.html,/u/kyle,1
-2,2014-09-27 13:07:34 -0500,"['/t/meta', '/t/netbsd']",Add a NetBSD tag?,/s/lktdeu/add_netbsd_tag,/u/fcambus,3
-0,2014-09-27 11:04:34 -0500,"['/t/video', '/t/erlang']",Optimizing Native Code for Erlang,https://www.youtube.com/watch?v=57AkoJfojK8&feature=youtu.be,/u/cmeiklejohn,7
-0,2014-09-27 13:49:04 -0500,"['/t/haskell', '/t/programming']",Automasymbolic Differentiation,http://jtobin.ca/blog/2014/07/06/automasymbolic-differentiation/,/u/bitemyapp,3
-0,2014-09-27 09:16:43 -0500,"['/t/emacs', '/t/programming']",The Definitive Guide To Syntax Highlighting,http://www.wilfred.me.uk/blog/2014/09/27/the-definitive-guide-to-syntax-highlighting/,/u/Wilfred,5
+1,2014-09-29 04:04:57 -0500,"/t/programming,/t/web",SWI-Prolog for the (semantic) web,http://www.swi-prolog.org/web/index.html,/u/fabriceleal,4
+0,2014-09-29 06:35:17 -0500,"/t/hardware,/t/reversing",Reverse Engineering Wireless Pro Studio Lighting,http://zoetrope.io/tech-blog/reverse-engineering-wireless-pro-studio-lighting,/u/ben_howes,4
+0,2014-09-28 13:14:34 -0500,"/t/c,/t/openbsd,/t/security",LibreSSL: More Than 30 Days Later,http://www.openbsd.org/papers/eurobsdcon2014-libressl.html,/u/kyle,29
+2,2014-09-28 23:13:48 -0500,"/t/video,/t/games,/t/lisp,/t/programming",Infinite Functional Entertainment at 60 FPS!,https://www.youtube.com/watch?v=_x0Ob2HY8C4&index=5&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh,/u/michaelsbradleyjr,6
+0,2014-09-29 10:51:16 -0500,"/t/programming,/t/vim",Welcome to Eclim — eclim (eclipse + vim),http://eclim.org/,/u/tobym,1
+0,2014-09-29 09:13:47 -0500,"/t/javascript,/t/windows",WinJS 3.0 Shows Industry Shift Towards JavaScript,http://developer.telerik.com/featured/winjs-3-0-shows-industry-shift-towards-javascript/,/u/remotesynth,1
+0,2014-09-29 08:09:06 -0500,"/t/cryptocurrencies,/t/programming",Mining Bitcoin with pencil and paper: 0.67 hashes per day [blog],http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html,/u/zod000,1
+1,2014-09-28 22:09:30 -0500,"/t/programming,/t/release",Myrddin Playground: Try My Language Online.,http://eigenstate.org/myrddin/playground,/u/orib,3
+3,2014-09-27 14:35:21 -0500,/t/databases,Postgres Outperforms MongoDB,http://blogs.enterprisedb.com/2014/09/24/postgres-outperforms-mongodb-and-ushers-in-new-developer-reality/,/u/journeysquid,24
+3,2014-09-28 10:24:28 -0500,/t/culture,Shellshock and the Jackals,http://weev.livejournal.com/409835.html,/u/mempko,7
+3,2014-09-27 16:32:15 -0500,"/t/linux,/t/security","Bash bug: so, like, apply the unofficial patch now (CVE-2014-6277)",http://lcamtuf.blogspot.com/2014/09/bash-bug-apply-unofficial-patch-now.html,/u/jcs,7
+0,2014-09-27 18:51:01 -0500,"/t/c,/t/openbsd,/t/security",Developing Software in a Hostile Environment,http://www.openbsd.org/papers/dev-sw-hostile-env.html,/u/kyle,10
+0,2014-09-28 10:28:22 -0500,"/t/distributed,/t/erlang","Programming Models and the SyncFree Research Project, Part 1",http://christophermeiklejohn.com/derflow/erlang/2014/09/28/try-derflow.html,/u/cmeiklejohn,1
+0,2014-09-28 09:57:24 -0500,"/t/video,/t/cryptocurrencies",Ethereum Update by Vitalik Buterin,https://www.youtube.com/watch?v=z_7mvN7ixK0,/u/james,1
+11,2014-09-27 09:06:12 -0500,"/t/security,/t/unix",Not a bash bug,http://paste.lisp.org/display/143864,/u/pushcx,12
+0,2014-09-27 17:29:38 -0500,"/t/haskell,/t/programming",What are free monads?,http://stackoverflow.com/questions/13352205/what-are-free-monads/13352580#13352580,/u/bitemyapp,9
+0,2014-09-28 07:21:19 -0500,/t/security,"qmail is a vector for CVE-2014-6271 (bash ""shellshock"")",http://marc.info/?l=qmail&m=141183309314366&w=2,/u/0xfg,1
+0,2014-09-28 06:50:40 -0500,"/t/video,/t/scaling",The Tail at Scale: Achieving Rapid Response Times in Large Online Services,https://www.youtube.com/watch?v=C_PxVdQmfpk&list=PL9Jh2HsAWHxKAIZ5n-PkPW3CHg2wI-MWb,/u/SeanTAllen,1
+0,2014-09-27 16:15:58 -0500,"/t/assembly,/t/c,/t/hardware",The Megalomaniac Bore: Write your own Virtual CPU in C++ (4001 CPU),http://megalomaniacbore.blogspot.co.uk/2014/04/virtual-cpu-in-c-4001-cpu.html,/u/RiderOfGiraffes,6
+1,2014-09-27 04:55:38 -0500,"/t/design,/t/lisp",Clojure Distilled,http://yogthos.github.io/ClojureDistilled.html,/u/daGrevis,19
+0,2014-09-28 01:17:20 -0500,/t/security,PKCS#1 signature validation,https://www.imperialviolet.org/2014/09/26/pkcs1.html,/u/kyle,1
+2,2014-09-27 13:07:34 -0500,"/t/meta,/t/netbsd",Add a NetBSD tag?,/s/lktdeu/add_netbsd_tag,/u/fcambus,3
+0,2014-09-27 11:04:34 -0500,"/t/video,/t/erlang",Optimizing Native Code for Erlang,https://www.youtube.com/watch?v=57AkoJfojK8&feature=youtu.be,/u/cmeiklejohn,7
+0,2014-09-27 13:49:04 -0500,"/t/haskell,/t/programming",Automasymbolic Differentiation,http://jtobin.ca/blog/2014/07/06/automasymbolic-differentiation/,/u/bitemyapp,3
+0,2014-09-27 09:16:43 -0500,"/t/emacs,/t/programming",The Definitive Guide To Syntax Highlighting,http://www.wilfred.me.uk/blog/2014/09/27/the-definitive-guide-to-syntax-highlighting/,/u/Wilfred,5

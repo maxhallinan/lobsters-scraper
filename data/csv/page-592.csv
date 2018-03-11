@@ -1,25 +1,25 @@
-0,2016-11-22 13:01:05 -0600,['/t/compsci'],A DNA-Based Archival Storage System,http://jeenalee.com/2016/11/21/pwl.html,/u/fitzgen,4
-5,2016-11-21 22:02:57 -0600,"['/t/practices', '/t/security', '/t/web']","WordPress (all versions): SPOF, RCE, and Negligence",http://www.openwall.com/lists/oss-security/2016/11/21/3,/u/calvin,13
-0,2016-11-22 19:57:43 -0600,"['/t/lisp', '/t/release', '/t/web']",Lumo 1.0.0: Node-based clojurescript repl,https://github.com/anmonteiro/lumo/releases/tag/1.0.0,/u/zem,1
-2,2016-11-21 23:12:49 -0600,['/t/linux'],Things to learn about Linux - Julia Evans,https://jvns.ca/blog/2016/11/21/things-to-learn-about-linux/,/u/lei,13
-0,2016-11-22 11:51:02 -0600,"['/t/distributed', '/t/programming', '/t/ruby']",Taking everlane.com global,https://precompile.com/2016/11/22/taking-everlane-global.html,/u/dirk,1
-4,2016-11-21 07:03:38 -0600,['/t/historical'],The Balanced Ternary Machines of Soviet Russia,https://dev.to/buntine/the-balanced-ternary-machines-of-soviet-russia,/u/unbalancedparentheses,54
-1,2016-11-21 21:24:00 -0600,['/t/compsci'],A 4-bit Calculator made in cardboard and marble,http://lapinozz.github.io/learning/2016/11/19/calculator-with-caordboard-and-marbles.html,/u/av,9
-14,2016-11-21 12:21:30 -0600,['/t/ask'],What are you working on this week?,/s/hg8haq/what_are_you_working_on_this_week,/u/kel,13
-0,2016-11-22 11:37:54 -0600,['/t/programming'],"Keyframes: Delivering scalable, high-quality animations to mobile clients",https://code.facebook.com/posts/354469174916519/,/u/av,1
-1,2016-11-21 20:59:28 -0600,['/t/hardware'],Apple IIc Drive Switch,http://roger-s-stuff.blogspot.com/2016/11/apple-iic-drive-switch.html,/u/Teckla,6
-3,2016-11-21 11:51:20 -0600,['/t/security'],Watch out: ɢoogle isn't the same as Google,http://thenextweb.com/google/2016/11/21/google-isnt-google/,/u/av,10
-0,2016-11-22 09:31:37 -0600,"['/t/book', '/t/javascript']",Exploring ES6: Upgrade to the next version of JavaScript,http://exploringjs.com/es6.html,/u/flyingfisch,1
-0,2016-11-21 21:26:45 -0600,['/t/c'],Inspecting C's qsort Through Animation,http://nullprogram.com/blog/2016/09/05/,/u/av,6
-2,2016-11-21 16:38:31 -0600,"['/t/api', '/t/ios', '/t/web']",Jasonette - Native App over HTTP,http://jasonette.com/,/u/gtramontina,9
-2,2016-11-21 14:37:00 -0600,"['/t/privacy', '/t/release', '/t/security']",Riot releases end-to-end encryption: get ready to chat securely!,https://medium.com/@RiotChat/exciting-new-riot-release-get-ready-for-chatting-securely-acc93ecfe0a,/u/mulander,9
-0,2016-11-22 08:28:10 -0600,"['/t/practices', '/t/programming', '/t/web']",The Rise of the ETA Stack,https://www.stackbuilders.com/news/the-rise-of-the-eta-stack,/u/juanpaucar,1
-0,2016-11-22 14:51:55 -0600,"['/t/android', '/t/ios', '/t/mobile', '/t/security']",What is mobile security? What is the mobile security ecosystem?,http://developers.redhat.com/blog/2016/11/21/what-is-mobile-security-what-is-the-mobile-security-ecosystem/,/u/svag,0
-0,2016-11-22 02:32:23 -0600,"['/t/games', '/t/programming']",The people trying to save programming from itself,https://killscreen.com/articles/people-trying-save-programming/,/u/bronlund,2
-0,2016-11-21 15:34:13 -0600,"['/t/dotnet', '/t/release']",JetBrains Rider Early Access Program is now public,https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/,/u/calvin,7
-0,2016-11-22 03:49:27 -0600,"['/t/javascript', '/t/ruby']",How We Made Our React-Rails App 5x Faster,https://blog.progressly.com/how-we-made-our-app-5x-faster-and-set-up-our-dev-team-for-continuous-delivery-193f9b37ff9a,/u/av,1
-0,2016-11-21 23:01:21 -0600,"['/t/slides', '/t/compsci', '/t/programming']",Data Rectangling,https://speakerdeck.com/jennybc/data-rectangling,/u/ngoldbaum,2
-1,2016-11-22 08:44:02 -0600,['/t/devops'],How We Saved 98% on Infrastructure Monitoring Costs,http://blog.runnable.com/post/153498635761/how-we-saved-98-on-infrastructure-monitoring,/u/sundip,0
-6,2016-11-21 13:03:49 -0600,"['/t/culture', '/t/programming']",How terrible code gets written by perfectly sane people,http://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people,/u/innerspirit,3
-0,2016-11-21 07:53:01 -0600,['/t/release'],Ruby 2.3.3 Released,https://www.ruby-lang.org/en/news/2016/11/21/ruby-2-3-3-released/,/u/av,11
-0,2016-11-21 18:05:12 -0600,"['/t/games', '/t/historical']",Our Day at NOA,https://www.skyskipperproject.com/our-day-at-noa/,/u/evaryont,3
+0,2016-11-22 13:01:05 -0600,/t/compsci,A DNA-Based Archival Storage System,http://jeenalee.com/2016/11/21/pwl.html,/u/fitzgen,4
+5,2016-11-21 22:02:57 -0600,"/t/practices,/t/security,/t/web","WordPress (all versions): SPOF, RCE, and Negligence",http://www.openwall.com/lists/oss-security/2016/11/21/3,/u/calvin,13
+0,2016-11-22 19:57:43 -0600,"/t/lisp,/t/release,/t/web",Lumo 1.0.0: Node-based clojurescript repl,https://github.com/anmonteiro/lumo/releases/tag/1.0.0,/u/zem,1
+2,2016-11-21 23:12:49 -0600,/t/linux,Things to learn about Linux - Julia Evans,https://jvns.ca/blog/2016/11/21/things-to-learn-about-linux/,/u/lei,13
+0,2016-11-22 11:51:02 -0600,"/t/distributed,/t/programming,/t/ruby",Taking everlane.com global,https://precompile.com/2016/11/22/taking-everlane-global.html,/u/dirk,1
+4,2016-11-21 07:03:38 -0600,/t/historical,The Balanced Ternary Machines of Soviet Russia,https://dev.to/buntine/the-balanced-ternary-machines-of-soviet-russia,/u/unbalancedparentheses,54
+1,2016-11-21 21:24:00 -0600,/t/compsci,A 4-bit Calculator made in cardboard and marble,http://lapinozz.github.io/learning/2016/11/19/calculator-with-caordboard-and-marbles.html,/u/av,9
+14,2016-11-21 12:21:30 -0600,/t/ask,What are you working on this week?,/s/hg8haq/what_are_you_working_on_this_week,/u/kel,13
+0,2016-11-22 11:37:54 -0600,/t/programming,"Keyframes: Delivering scalable, high-quality animations to mobile clients",https://code.facebook.com/posts/354469174916519/,/u/av,1
+1,2016-11-21 20:59:28 -0600,/t/hardware,Apple IIc Drive Switch,http://roger-s-stuff.blogspot.com/2016/11/apple-iic-drive-switch.html,/u/Teckla,6
+3,2016-11-21 11:51:20 -0600,/t/security,Watch out: ɢoogle isn't the same as Google,http://thenextweb.com/google/2016/11/21/google-isnt-google/,/u/av,10
+0,2016-11-22 09:31:37 -0600,"/t/book,/t/javascript",Exploring ES6: Upgrade to the next version of JavaScript,http://exploringjs.com/es6.html,/u/flyingfisch,1
+0,2016-11-21 21:26:45 -0600,/t/c,Inspecting C's qsort Through Animation,http://nullprogram.com/blog/2016/09/05/,/u/av,6
+2,2016-11-21 16:38:31 -0600,"/t/api,/t/ios,/t/web",Jasonette - Native App over HTTP,http://jasonette.com/,/u/gtramontina,9
+2,2016-11-21 14:37:00 -0600,"/t/privacy,/t/release,/t/security",Riot releases end-to-end encryption: get ready to chat securely!,https://medium.com/@RiotChat/exciting-new-riot-release-get-ready-for-chatting-securely-acc93ecfe0a,/u/mulander,9
+0,2016-11-22 08:28:10 -0600,"/t/practices,/t/programming,/t/web",The Rise of the ETA Stack,https://www.stackbuilders.com/news/the-rise-of-the-eta-stack,/u/juanpaucar,1
+0,2016-11-22 14:51:55 -0600,"/t/android,/t/ios,/t/mobile,/t/security",What is mobile security? What is the mobile security ecosystem?,http://developers.redhat.com/blog/2016/11/21/what-is-mobile-security-what-is-the-mobile-security-ecosystem/,/u/svag,0
+0,2016-11-22 02:32:23 -0600,"/t/games,/t/programming",The people trying to save programming from itself,https://killscreen.com/articles/people-trying-save-programming/,/u/bronlund,2
+0,2016-11-21 15:34:13 -0600,"/t/dotnet,/t/release",JetBrains Rider Early Access Program is now public,https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/,/u/calvin,7
+0,2016-11-22 03:49:27 -0600,"/t/javascript,/t/ruby",How We Made Our React-Rails App 5x Faster,https://blog.progressly.com/how-we-made-our-app-5x-faster-and-set-up-our-dev-team-for-continuous-delivery-193f9b37ff9a,/u/av,1
+0,2016-11-21 23:01:21 -0600,"/t/slides,/t/compsci,/t/programming",Data Rectangling,https://speakerdeck.com/jennybc/data-rectangling,/u/ngoldbaum,2
+1,2016-11-22 08:44:02 -0600,/t/devops,How We Saved 98% on Infrastructure Monitoring Costs,http://blog.runnable.com/post/153498635761/how-we-saved-98-on-infrastructure-monitoring,/u/sundip,0
+6,2016-11-21 13:03:49 -0600,"/t/culture,/t/programming",How terrible code gets written by perfectly sane people,http://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people,/u/innerspirit,3
+0,2016-11-21 07:53:01 -0600,/t/release,Ruby 2.3.3 Released,https://www.ruby-lang.org/en/news/2016/11/21/ruby-2-3-3-released/,/u/av,11
+0,2016-11-21 18:05:12 -0600,"/t/games,/t/historical",Our Day at NOA,https://www.skyskipperproject.com/our-day-at-noa/,/u/evaryont,3

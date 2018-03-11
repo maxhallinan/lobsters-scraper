@@ -1,25 +1,25 @@
-2,2017-08-14 17:19:49 -0500,"['/t/practices', '/t/programming']","Highlights on ""quality,"" and Deming's work as it applies to software development",http://apenwarr.ca/log/?m=201612,/u/yumaikas,24
-1,2017-08-15 10:34:33 -0500,['/t/culture'],"Happy 20th Birthday, GNOME!",https://www.gnome.org/news/2017/08/twenty-years-strong/,/u/calvin,6
-0,2017-08-15 15:26:02 -0500,['/t/assembly'],"The Alpha AXP, part 7: Memory access, loading unaligned data",https://blogs.msdn.microsoft.com/oldnewthing/20170815-00/?p=96816,/u/calvin,1
-0,2017-08-14 18:26:08 -0500,['/t/linux'],debian-policy: Packages should be reproducible,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=844431,/u/chadski,17
-0,2017-08-14 22:54:09 -0500,['/t/javascript'],Migrating A VueJS App To Vuex,https://vuejsdevelopers.com/2017/08/15/vue-js-migrating-to-vuex/?jsdojo_id=lob_mvv,/u/anthonygore,5
-6,2017-08-14 09:28:52 -0500,['/t/python'],PyPy: Let's remove the Global Interpreter Lock,https://morepypy.blogspot.com/2017/08/lets-remove-global-interpreter-lock.html,/u/geier,28
-0,2017-08-15 04:43:45 -0500,['/t/go'],Ways to limit concurrent resource use,https://pocketgophers.com/limit-concurrent-use/,/u/nathankerr,2
-0,2017-08-15 09:21:08 -0500,['/t/ruby'],Advanced Enumeration with Ruby,https://blog.codeship.com/advanced-enumeration-with-ruby/,/u/pushcx,2
-2,2017-08-14 16:29:55 -0500,"['/t/crypto', '/t/math', '/t/programming']",How to Generate a Sequence of Unique Random Integers,http://preshing.com/20121224/how-to-generate-a-sequence-of-unique-random-integers,/u/rain1,7
-24,2017-08-14 01:32:35 -0500,['/t/practices'],The LaTeX Fetish,http://www.danielallington.net/2016/09/the-latex-fetish/,/u/nickpsecurity,30
-0,2017-08-14 17:46:48 -0500,['/t/ai'],Bringing Deep Learning to OpenCL,http://vertex.ai/blog/bringing-deep-learning-to-opencl,/u/hedgehog,5
-1,2017-08-14 12:17:31 -0500,"['/t/dotnet', '/t/release']",Announcing .NET Core 2.0,https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/,/u/colin,15
-0,2017-08-15 09:08:36 -0500,"['/t/culture', '/t/science']",The Pernicious Science of James Damore’s Google Memo,https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/,/u/vyodaiken,2
-2,2017-08-14 18:48:01 -0500,['/t/testing'],Isolated Integration Tests in Shell,https://zachholman.com/posts/integration-tests,/u/soulcutter,3
-4,2017-08-14 13:50:53 -0500,"['/t/compilers', '/t/release']",GCC 7.2 Released,https://gcc.gnu.org/ml/gcc/2017-08/msg00129.html,/u/halosghost,6
-1,2017-08-14 18:45:00 -0500,"['/t/practices', '/t/security']",Can we make people value IT security?,https://www.riscs.org.uk/2017/08/14/angela-sasse-can-we-make-people-value-it-security/,/u/tedu,4
-2,2017-08-14 08:05:26 -0500,"['/t/compilers', '/t/lisp']",Meta Circular Interpreter Without Letrec Define,https://carld.github.io/2017/08/14/meta-circular-interpreter-without-letrec-define.html,/u/pushcx,13
-0,2017-08-14 14:31:00 -0500,"['/t/javascript', '/t/ruby', '/t/web']",Using React Inside Your Rails Apps,https://blog.codeship.com/using-react-inside-your-rails-apps/,/u/pushcx,7
-0,2017-08-14 04:32:21 -0500,"['/t/networking', '/t/programming']",Things we (finally) know about network queues,http://apenwarr.ca/log/?m=201708#14,/u/NinjaTrappeur,21
-0,2017-08-14 16:37:52 -0500,"['/t/ai', '/t/games']",WaveFunctionCollapse is Constraint Solving in the Wild,http://isaackarth.com/papers/wfc_is_constraint_solving_in_the_wild/,/u/mjn,4
-0,2017-08-14 08:04:48 -0500,"['/t/c', '/t/math']",Fixed Point Division,http://blog.veitheller.de/Fixed_Point_Division.html,/u/pushcx,10
-6,2017-08-13 16:44:34 -0500,"['/t/perl', '/t/programming']",A Review of Perl 6,http://www.evanmiller.org/a-review-of-perl-6.html,/u/tedu,37
-0,2017-08-14 08:30:38 -0500,['/t/design'],Designing for Accessibility,https://substrakthealth.com/news/designing-for-accessibility/,/u/stevejalim,8
-0,2017-08-14 16:01:46 -0500,"['/t/practices', '/t/programming']",Technical Debt: an Incomplete Metaphor?,http://redmonk.com/rstephens/2017/08/08/technical-debt/,/u/luisonthekeyboard,3
-0,2017-08-14 16:09:55 -0500,"['/t/javascript', '/t/nodejs']",Bootstrapping a JavaScript Library,https://monades.roperzh.com/bootstrapping-javascript-library/,/u/roperzh,1
+2,2017-08-14 17:19:49 -0500,"/t/practices,/t/programming","Highlights on ""quality,"" and Deming's work as it applies to software development",http://apenwarr.ca/log/?m=201612,/u/yumaikas,24
+1,2017-08-15 10:34:33 -0500,/t/culture,"Happy 20th Birthday, GNOME!",https://www.gnome.org/news/2017/08/twenty-years-strong/,/u/calvin,6
+0,2017-08-15 15:26:02 -0500,/t/assembly,"The Alpha AXP, part 7: Memory access, loading unaligned data",https://blogs.msdn.microsoft.com/oldnewthing/20170815-00/?p=96816,/u/calvin,1
+0,2017-08-14 18:26:08 -0500,/t/linux,debian-policy: Packages should be reproducible,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=844431,/u/chadski,17
+0,2017-08-14 22:54:09 -0500,/t/javascript,Migrating A VueJS App To Vuex,https://vuejsdevelopers.com/2017/08/15/vue-js-migrating-to-vuex/?jsdojo_id=lob_mvv,/u/anthonygore,5
+6,2017-08-14 09:28:52 -0500,/t/python,PyPy: Let's remove the Global Interpreter Lock,https://morepypy.blogspot.com/2017/08/lets-remove-global-interpreter-lock.html,/u/geier,28
+0,2017-08-15 04:43:45 -0500,/t/go,Ways to limit concurrent resource use,https://pocketgophers.com/limit-concurrent-use/,/u/nathankerr,2
+0,2017-08-15 09:21:08 -0500,/t/ruby,Advanced Enumeration with Ruby,https://blog.codeship.com/advanced-enumeration-with-ruby/,/u/pushcx,2
+2,2017-08-14 16:29:55 -0500,"/t/crypto,/t/math,/t/programming",How to Generate a Sequence of Unique Random Integers,http://preshing.com/20121224/how-to-generate-a-sequence-of-unique-random-integers,/u/rain1,7
+24,2017-08-14 01:32:35 -0500,/t/practices,The LaTeX Fetish,http://www.danielallington.net/2016/09/the-latex-fetish/,/u/nickpsecurity,30
+0,2017-08-14 17:46:48 -0500,/t/ai,Bringing Deep Learning to OpenCL,http://vertex.ai/blog/bringing-deep-learning-to-opencl,/u/hedgehog,5
+1,2017-08-14 12:17:31 -0500,"/t/dotnet,/t/release",Announcing .NET Core 2.0,https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/,/u/colin,15
+0,2017-08-15 09:08:36 -0500,"/t/culture,/t/science",The Pernicious Science of James Damore’s Google Memo,https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/,/u/vyodaiken,2
+2,2017-08-14 18:48:01 -0500,/t/testing,Isolated Integration Tests in Shell,https://zachholman.com/posts/integration-tests,/u/soulcutter,3
+4,2017-08-14 13:50:53 -0500,"/t/compilers,/t/release",GCC 7.2 Released,https://gcc.gnu.org/ml/gcc/2017-08/msg00129.html,/u/halosghost,6
+1,2017-08-14 18:45:00 -0500,"/t/practices,/t/security",Can we make people value IT security?,https://www.riscs.org.uk/2017/08/14/angela-sasse-can-we-make-people-value-it-security/,/u/tedu,4
+2,2017-08-14 08:05:26 -0500,"/t/compilers,/t/lisp",Meta Circular Interpreter Without Letrec Define,https://carld.github.io/2017/08/14/meta-circular-interpreter-without-letrec-define.html,/u/pushcx,13
+0,2017-08-14 14:31:00 -0500,"/t/javascript,/t/ruby,/t/web",Using React Inside Your Rails Apps,https://blog.codeship.com/using-react-inside-your-rails-apps/,/u/pushcx,7
+0,2017-08-14 04:32:21 -0500,"/t/networking,/t/programming",Things we (finally) know about network queues,http://apenwarr.ca/log/?m=201708#14,/u/NinjaTrappeur,21
+0,2017-08-14 16:37:52 -0500,"/t/ai,/t/games",WaveFunctionCollapse is Constraint Solving in the Wild,http://isaackarth.com/papers/wfc_is_constraint_solving_in_the_wild/,/u/mjn,4
+0,2017-08-14 08:04:48 -0500,"/t/c,/t/math",Fixed Point Division,http://blog.veitheller.de/Fixed_Point_Division.html,/u/pushcx,10
+6,2017-08-13 16:44:34 -0500,"/t/perl,/t/programming",A Review of Perl 6,http://www.evanmiller.org/a-review-of-perl-6.html,/u/tedu,37
+0,2017-08-14 08:30:38 -0500,/t/design,Designing for Accessibility,https://substrakthealth.com/news/designing-for-accessibility/,/u/stevejalim,8
+0,2017-08-14 16:01:46 -0500,"/t/practices,/t/programming",Technical Debt: an Incomplete Metaphor?,http://redmonk.com/rstephens/2017/08/08/technical-debt/,/u/luisonthekeyboard,3
+0,2017-08-14 16:09:55 -0500,"/t/javascript,/t/nodejs",Bootstrapping a JavaScript Library,https://monades.roperzh.com/bootstrapping-javascript-library/,/u/roperzh,1

@@ -1,25 +1,25 @@
-11,2017-03-28 17:43:42 -0500,['/t/philosophy'],Why Solipsism is Bullshit,https://www.phy.duke.edu/~rgb/Philosophy/axioms/axioms/node43.html,/u/ZtF,6
-0,2017-03-29 00:45:31 -0500,['/t/practices'],Sandboxing landscape,https://idea.popcount.org/2017-03-28-sandboxing-landscape/,/u/NinjaTrappeur,6
-4,2017-03-28 16:40:20 -0500,"['/t/databases', '/t/practices']",What is the best way to store an email address in PostgreSQL?,http://dba.stackexchange.com/questions/68266/what-is-the-best-way-to-store-an-email-address-in-postgresql,/u/friendlysock,10
-0,2017-03-29 12:04:30 -0500,"['/t/databases', '/t/historical']",Data Science Cultures in Archaeology vs. Astronomy,https://blog.keen.io/data-science-cultures-archaeology-vs-astronomy-aa3356f7e86?s=lb,/u/wetzler,1
-0,2017-03-29 06:59:49 -0500,"['/t/browsers', '/t/design']",Making input type=date complicated,https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a,/u/pushcx,2
-3,2017-03-28 17:51:17 -0500,"['/t/browsers', '/t/web']",Proposed Chromium policy on JavaScript dialogs,https://developers.google.com/web/updates/2017/03/dialogs-policy,/u/jcs,5
-1,2017-03-28 21:26:18 -0500,"['/t/law', '/t/privacy']",VPNs are not the solution to a policy problem,https://asininetech.com/2017/03/28/vpns-are-not-the-solution-to-a-policy-problem/,/u/tf,3
-2,2017-03-28 10:07:58 -0500,['/t/devops'],7 questions to ask before choosing your technology stack,https://modernweb.com/choosing-technology-stack/,/u/mikehostetler,4
-0,2017-03-29 10:46:40 -0500,['/t/databases'],Learn Redis the hard way (in production),http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/?,/u/av,0
-1,2017-03-28 14:58:33 -0500,"['/t/javascript', '/t/practices']",A JavaScript static analysis journey,https://blog.scottnonnenberg.com/tags/eslint/,/u/scottnonnenberg,2
-0,2017-03-28 13:21:18 -0500,"['/t/philosophy', '/t/programming']",LOOPY: A Post-Mortem,http://blog.ncase.me/loopy-a-post-mortem/,/u/qznc,7
-3,2017-03-28 03:46:57 -0500,['/t/programming'],A deep dive into APL,https://curtisautery.appspot.com/5776042744610816,/u/ericdykstra,16
-0,2017-03-28 16:54:45 -0500,"['/t/pdf', '/t/graphics', '/t/security']",Universal adversarial perturbations,https://arxiv.org/abs/1610.08401,/u/friendlysock,4
-1,2017-03-28 11:11:57 -0500,['/t/ruby'],N+1 Queries or Memory Problems: Why not Solve Both?,https://blog.heroku.com/solving-n-plus-one-queries,/u/craigkerstiens,6
-13,2017-03-27 20:50:53 -0500,"['/t/c', '/t/practices']",Assert() in the hands of bad coders,http://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html,/u/GeoffWozniak,17
-3,2017-03-28 12:05:05 -0500,"['/t/show', '/t/android', '/t/privacy']",EteSync: End-to-end encrypted and journaled contacts and calendar synchronization for Android,https://www.etesync.com,/u/untitaker,5
-0,2017-03-28 11:37:33 -0500,"['/t/pdf', '/t/math']","Building an Orthonormal Basis, Revisited",http://jcgt.org/published/0006/01/01/paper.pdf,/u/mikejsavage,6
-0,2017-03-28 19:31:49 -0500,['/t/science'],The Algorithm Will See You Now,http://www.newyorker.com/magazine/2017/04/03/ai-versus-md,/u/adsouza,2
-0,2017-03-28 16:02:47 -0500,"['/t/practices', '/t/security']",Tabletops for Bug Bounty,https://medium.com/@magoo/tabletops-for-bug-bounty-95fdfbdbe55e,/u/pushcx,3
-9,2017-03-27 16:08:48 -0500,"['/t/historical', '/t/programming', '/t/unix']","Release of 8th, 9th and 10th Editions Unix Source Code",http://minnie.tuhs.org/pipermail/tuhs/2017-March/009354.html,/u/orib,32
-0,2017-03-28 16:01:17 -0500,"['/t/javascript', '/t/web']",Presenting: Optimizing JavaScript Web App Performance With Webpack,https://www.joezimjs.com/javascript/presenting-optimizing-js-web-app-performance-webpack/,/u/joezimjs,1
-0,2017-03-28 09:22:05 -0500,['/t/ruby'],From Rails to Hanami: Controllers,https://blog.codeminer42.com/from-rails-to-hanami-controllers-ad7ef6d09dd0,/u/iagomds,3
-1,2017-03-28 09:13:42 -0500,"['/t/compsci', '/t/security']",OS Hardening Principles,http://etutorials.org/Linux+systems/secure+linux-based+servers/Chapter+3.+Hardening+Linux/Section+3.1.+OS+Hardening+Principles/,/u/Dawny33,5
-0,2017-03-28 08:56:21 -0500,['/t/databases'],Move Data Between MySQL and CrateDB with Shinkansen,https://crate.io/a/move-data-mysql-cratedb-shinkansen/,/u/nslater,3
-2,2017-03-27 19:42:12 -0500,['/t/hardware'],okreader: Free/libre firmware for Kobo ebook readers,https://github.com/lgeek/okreader,/u/pizzaiolo,23
+11,2017-03-28 17:43:42 -0500,/t/philosophy,Why Solipsism is Bullshit,https://www.phy.duke.edu/~rgb/Philosophy/axioms/axioms/node43.html,/u/ZtF,6
+0,2017-03-29 00:45:31 -0500,/t/practices,Sandboxing landscape,https://idea.popcount.org/2017-03-28-sandboxing-landscape/,/u/NinjaTrappeur,6
+4,2017-03-28 16:40:20 -0500,"/t/databases,/t/practices",What is the best way to store an email address in PostgreSQL?,http://dba.stackexchange.com/questions/68266/what-is-the-best-way-to-store-an-email-address-in-postgresql,/u/friendlysock,10
+0,2017-03-29 12:04:30 -0500,"/t/databases,/t/historical",Data Science Cultures in Archaeology vs. Astronomy,https://blog.keen.io/data-science-cultures-archaeology-vs-astronomy-aa3356f7e86?s=lb,/u/wetzler,1
+0,2017-03-29 06:59:49 -0500,"/t/browsers,/t/design",Making input type=date complicated,https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a,/u/pushcx,2
+3,2017-03-28 17:51:17 -0500,"/t/browsers,/t/web",Proposed Chromium policy on JavaScript dialogs,https://developers.google.com/web/updates/2017/03/dialogs-policy,/u/jcs,5
+1,2017-03-28 21:26:18 -0500,"/t/law,/t/privacy",VPNs are not the solution to a policy problem,https://asininetech.com/2017/03/28/vpns-are-not-the-solution-to-a-policy-problem/,/u/tf,3
+2,2017-03-28 10:07:58 -0500,/t/devops,7 questions to ask before choosing your technology stack,https://modernweb.com/choosing-technology-stack/,/u/mikehostetler,4
+0,2017-03-29 10:46:40 -0500,/t/databases,Learn Redis the hard way (in production),http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/?,/u/av,0
+1,2017-03-28 14:58:33 -0500,"/t/javascript,/t/practices",A JavaScript static analysis journey,https://blog.scottnonnenberg.com/tags/eslint/,/u/scottnonnenberg,2
+0,2017-03-28 13:21:18 -0500,"/t/philosophy,/t/programming",LOOPY: A Post-Mortem,http://blog.ncase.me/loopy-a-post-mortem/,/u/qznc,7
+3,2017-03-28 03:46:57 -0500,/t/programming,A deep dive into APL,https://curtisautery.appspot.com/5776042744610816,/u/ericdykstra,16
+0,2017-03-28 16:54:45 -0500,"/t/pdf,/t/graphics,/t/security",Universal adversarial perturbations,https://arxiv.org/abs/1610.08401,/u/friendlysock,4
+1,2017-03-28 11:11:57 -0500,/t/ruby,N+1 Queries or Memory Problems: Why not Solve Both?,https://blog.heroku.com/solving-n-plus-one-queries,/u/craigkerstiens,6
+13,2017-03-27 20:50:53 -0500,"/t/c,/t/practices",Assert() in the hands of bad coders,http://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html,/u/GeoffWozniak,17
+3,2017-03-28 12:05:05 -0500,"/t/show,/t/android,/t/privacy",EteSync: End-to-end encrypted and journaled contacts and calendar synchronization for Android,https://www.etesync.com,/u/untitaker,5
+0,2017-03-28 11:37:33 -0500,"/t/pdf,/t/math","Building an Orthonormal Basis, Revisited",http://jcgt.org/published/0006/01/01/paper.pdf,/u/mikejsavage,6
+0,2017-03-28 19:31:49 -0500,/t/science,The Algorithm Will See You Now,http://www.newyorker.com/magazine/2017/04/03/ai-versus-md,/u/adsouza,2
+0,2017-03-28 16:02:47 -0500,"/t/practices,/t/security",Tabletops for Bug Bounty,https://medium.com/@magoo/tabletops-for-bug-bounty-95fdfbdbe55e,/u/pushcx,3
+9,2017-03-27 16:08:48 -0500,"/t/historical,/t/programming,/t/unix","Release of 8th, 9th and 10th Editions Unix Source Code",http://minnie.tuhs.org/pipermail/tuhs/2017-March/009354.html,/u/orib,32
+0,2017-03-28 16:01:17 -0500,"/t/javascript,/t/web",Presenting: Optimizing JavaScript Web App Performance With Webpack,https://www.joezimjs.com/javascript/presenting-optimizing-js-web-app-performance-webpack/,/u/joezimjs,1
+0,2017-03-28 09:22:05 -0500,/t/ruby,From Rails to Hanami: Controllers,https://blog.codeminer42.com/from-rails-to-hanami-controllers-ad7ef6d09dd0,/u/iagomds,3
+1,2017-03-28 09:13:42 -0500,"/t/compsci,/t/security",OS Hardening Principles,http://etutorials.org/Linux+systems/secure+linux-based+servers/Chapter+3.+Hardening+Linux/Section+3.1.+OS+Hardening+Principles/,/u/Dawny33,5
+0,2017-03-28 08:56:21 -0500,/t/databases,Move Data Between MySQL and CrateDB with Shinkansen,https://crate.io/a/move-data-mysql-cratedb-shinkansen/,/u/nslater,3
+2,2017-03-27 19:42:12 -0500,/t/hardware,okreader: Free/libre firmware for Kobo ebook readers,https://github.com/lgeek/okreader,/u/pizzaiolo,23

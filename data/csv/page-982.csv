@@ -1,25 +1,25 @@
-0,2015-11-04 06:30:38 -0600,['/t/python'],"Brainstorm - Fast, flexible and fun neural networks.",https://github.com/IDSIA/brainstorm/,/u/vvh,2
-4,2015-11-03 11:17:00 -0600,"['/t/show', '/t/vim']",vibreoffice - Vi Mode for LibreOffice/OpenOffice,https://github.com/seanyeh/vibreoffice,/u/flyingfisch,15
-5,2015-11-03 09:47:09 -0600,['/t/release'],OS/2: Blue Lion to be the next distro of the 28-year-old OS,http://www.techrepublic.com/article/os2-blue-lion-to-be-the-next-distro-of-the-28-year-old-os/,/u/calvin,15
-0,2015-11-03 23:24:32 -0600,['/t/python'],Pyston 0.4 released,http://blog.pyston.org/2015/11/03/102/,/u/sanxiyn,5
-10,2015-11-04 05:56:05 -0600,['/t/javascript'],Will Angular 2 be a success? You bet!,http://developer.telerik.com/featured/will-angular-2-be-a-success-you-bet/,/u/remotesynth,1
-0,2015-11-04 05:52:38 -0600,['/t/practices'],Microspeak: North star,http://blogs.msdn.com/b/oldnewthing/archive/2015/11/03/10651911.aspx,/u/calvin,2
-1,2015-11-03 18:03:29 -0600,"['/t/compilers', '/t/lisp']","two paths, one peak: a view from below on high-performance language implementations",https://wingolog.org/archives/2015/11/03/two-paths-one-peak-a-view-from-below-on-high-performance-language-implementations,/u/fitzgen,6
-0,2015-11-03 19:41:53 -0600,['/t/compilers'],Compiling large real-world codebases with Clang on Windows,https://docs.google.com/presentation/d/1oxNHaVjA9Gn_rTzX6HIpJHP7nXRua_0URXxxJ3oYRq0/,/u/adsouza,6
-2,2015-11-04 13:08:15 -0600,['/t/culture'],Fix elasticsearch (homebrew) formula #45644,https://github.com/Homebrew/homebrew/pull/45644,/u/av,1
-0,2015-11-03 11:04:16 -0600,['/t/compsci'],Computer Science Field Guide,http://csfieldguide.org.nz/,/u/av,15
-0,2015-11-04 11:14:59 -0600,['/t/culture'],The 5 things a developer expects from a Project Manager: how a Project Manager can help developers becoming much more productive,http://tomassetti.me/the-5-things-a-developer-expects-from-a-project-manager-how-a-project-manager-can-help-developers-becoming-much-more-productive/,/u/av,1
-1,2015-11-03 17:12:51 -0600,['/t/testing'],Mocks,http://cumulative-hypotheses.org/2015/11/03/mocks/,/u/pushcx,4
-0,2015-11-03 11:02:25 -0600,['/t/compsci'],"Computer, respond to this email.",http://googleresearch.blogspot.com/2015/11/computer-respond-to-this-email.html,/u/av,11
-0,2015-11-03 13:59:11 -0600,"['/t/compsci', '/t/lisp']","Recursive Functions of Symbolic Expressions andTheir Computation by Machine, Part I",http://www-formal.stanford.edu/jmc/recursive/recursive.html,/u/friendlysock,7
-6,2015-11-02 23:51:37 -0600,['/t/programming'],Facebook’s code quality problem,http://www.darkcoding.net/software/facebooks-code-quality-problem/,/u/av,16
-5,2015-11-02 23:39:06 -0600,"['/t/programming', '/t/unix']",Have You Seen This Cache?,https://push.cx/2015/have-you-seen-this-cache,/u/pushcx,9
-0,2015-11-03 14:30:08 -0600,['/t/security'],Security in an error-prone world,https://lwn.net/SubscriberLink/662690/dfc6db5a71a9d310/,/u/kyle,4
-0,2015-11-03 11:05:13 -0600,['/t/web'],Firefox DevTools Challenger,http://devtoolschallenger.com/,/u/av,6
-0,2015-11-03 11:22:22 -0600,['/t/python'],Building Simple Command Line Interfaces in Python,https://stormpath.com/blog/building-simple-cli-interfaces-in-python,/u/rdegges,2
-0,2015-11-03 20:12:41 -0600,['/t/devops'],Announcing Docker 1.9: Production-ready Swarm and Multi-host Networking,http://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/,/u/pyk,1
-8,2015-11-02 09:12:39 -0600,"['/t/programming', '/t/security']",Don't wait to fix your password storage,http://jtdowney.com/blog/2015/11/01/dont-wait-to-fix-your-password-storage,/u/jtdowney,29
-8,2015-11-03 13:01:45 -0600,"['/t/pdf', '/t/programming', '/t/science']",The Programming Language Wars: Questions and Responsibilities for the Programming Language Community,http://dl.acm.org/authorize?N84615,/u/englishm,1
-10,2015-11-02 13:04:44 -0600,"['/t/go', '/t/haskell', '/t/programming']",Language choice,https://honza.ca/2015/11/language-choice,/u/honza,13
-19,2015-11-02 11:21:56 -0600,"['/t/practices', '/t/privacy']",Five Open-Source Slack Alternatives,https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/,/u/itistoday,28
-0,2015-11-03 12:32:18 -0600,['/t/python'],Teardown: Refactoring Search from Monolith to Microservice,https://www.safaribooksonline.com/blog/2015/11/03/teardown-refactoring-search-from-monolith-to-microservice/,/u/av,3
+0,2015-11-04 06:30:38 -0600,/t/python,"Brainstorm - Fast, flexible and fun neural networks.",https://github.com/IDSIA/brainstorm/,/u/vvh,2
+4,2015-11-03 11:17:00 -0600,"/t/show,/t/vim",vibreoffice - Vi Mode for LibreOffice/OpenOffice,https://github.com/seanyeh/vibreoffice,/u/flyingfisch,15
+5,2015-11-03 09:47:09 -0600,/t/release,OS/2: Blue Lion to be the next distro of the 28-year-old OS,http://www.techrepublic.com/article/os2-blue-lion-to-be-the-next-distro-of-the-28-year-old-os/,/u/calvin,15
+0,2015-11-03 23:24:32 -0600,/t/python,Pyston 0.4 released,http://blog.pyston.org/2015/11/03/102/,/u/sanxiyn,5
+10,2015-11-04 05:56:05 -0600,/t/javascript,Will Angular 2 be a success? You bet!,http://developer.telerik.com/featured/will-angular-2-be-a-success-you-bet/,/u/remotesynth,1
+0,2015-11-04 05:52:38 -0600,/t/practices,Microspeak: North star,http://blogs.msdn.com/b/oldnewthing/archive/2015/11/03/10651911.aspx,/u/calvin,2
+1,2015-11-03 18:03:29 -0600,"/t/compilers,/t/lisp","two paths, one peak: a view from below on high-performance language implementations",https://wingolog.org/archives/2015/11/03/two-paths-one-peak-a-view-from-below-on-high-performance-language-implementations,/u/fitzgen,6
+0,2015-11-03 19:41:53 -0600,/t/compilers,Compiling large real-world codebases with Clang on Windows,https://docs.google.com/presentation/d/1oxNHaVjA9Gn_rTzX6HIpJHP7nXRua_0URXxxJ3oYRq0/,/u/adsouza,6
+2,2015-11-04 13:08:15 -0600,/t/culture,Fix elasticsearch (homebrew) formula #45644,https://github.com/Homebrew/homebrew/pull/45644,/u/av,1
+0,2015-11-03 11:04:16 -0600,/t/compsci,Computer Science Field Guide,http://csfieldguide.org.nz/,/u/av,15
+0,2015-11-04 11:14:59 -0600,/t/culture,The 5 things a developer expects from a Project Manager: how a Project Manager can help developers becoming much more productive,http://tomassetti.me/the-5-things-a-developer-expects-from-a-project-manager-how-a-project-manager-can-help-developers-becoming-much-more-productive/,/u/av,1
+1,2015-11-03 17:12:51 -0600,/t/testing,Mocks,http://cumulative-hypotheses.org/2015/11/03/mocks/,/u/pushcx,4
+0,2015-11-03 11:02:25 -0600,/t/compsci,"Computer, respond to this email.",http://googleresearch.blogspot.com/2015/11/computer-respond-to-this-email.html,/u/av,11
+0,2015-11-03 13:59:11 -0600,"/t/compsci,/t/lisp","Recursive Functions of Symbolic Expressions andTheir Computation by Machine, Part I",http://www-formal.stanford.edu/jmc/recursive/recursive.html,/u/friendlysock,7
+6,2015-11-02 23:51:37 -0600,/t/programming,Facebook’s code quality problem,http://www.darkcoding.net/software/facebooks-code-quality-problem/,/u/av,16
+5,2015-11-02 23:39:06 -0600,"/t/programming,/t/unix",Have You Seen This Cache?,https://push.cx/2015/have-you-seen-this-cache,/u/pushcx,9
+0,2015-11-03 14:30:08 -0600,/t/security,Security in an error-prone world,https://lwn.net/SubscriberLink/662690/dfc6db5a71a9d310/,/u/kyle,4
+0,2015-11-03 11:05:13 -0600,/t/web,Firefox DevTools Challenger,http://devtoolschallenger.com/,/u/av,6
+0,2015-11-03 11:22:22 -0600,/t/python,Building Simple Command Line Interfaces in Python,https://stormpath.com/blog/building-simple-cli-interfaces-in-python,/u/rdegges,2
+0,2015-11-03 20:12:41 -0600,/t/devops,Announcing Docker 1.9: Production-ready Swarm and Multi-host Networking,http://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/,/u/pyk,1
+8,2015-11-02 09:12:39 -0600,"/t/programming,/t/security",Don't wait to fix your password storage,http://jtdowney.com/blog/2015/11/01/dont-wait-to-fix-your-password-storage,/u/jtdowney,29
+8,2015-11-03 13:01:45 -0600,"/t/pdf,/t/programming,/t/science",The Programming Language Wars: Questions and Responsibilities for the Programming Language Community,http://dl.acm.org/authorize?N84615,/u/englishm,1
+10,2015-11-02 13:04:44 -0600,"/t/go,/t/haskell,/t/programming",Language choice,https://honza.ca/2015/11/language-choice,/u/honza,13
+19,2015-11-02 11:21:56 -0600,"/t/practices,/t/privacy",Five Open-Source Slack Alternatives,https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/,/u/itistoday,28
+0,2015-11-03 12:32:18 -0600,/t/python,Teardown: Refactoring Search from Monolith to Microservice,https://www.safaribooksonline.com/blog/2015/11/03/teardown-refactoring-search-from-monolith-to-microservice/,/u/av,3

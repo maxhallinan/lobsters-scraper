@@ -1,25 +1,25 @@
-2,2015-10-07 09:57:08 -0500,['/t/web'],Ludicrously Fast Page Loads - A Guide for Full-Stack Devs,http://nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html,/u/joshuacc,8
-2,2015-10-07 08:05:41 -0500,"['/t/programming', '/t/rust']",Experiences Building an OS in Rust,https://mostlytyped.com/posts/experiences-building-an-os-in-ru,/u/englishm,16
-0,2015-10-07 08:34:40 -0500,['/t/math'],"Gambler's Verity? How in small sets, randomness can be quite surprising",http://www.andrewconner.org/gambler-s-verity,/u/andrewc,9
-36,2015-10-06 16:45:57 -0500,"['/t/linux', '/t/release']",Going my own way,https://mjg59.dreamwidth.org/38136.html,/u/sevan,44
-0,2015-10-07 14:15:56 -0500,['/t/science'],Global eradication of wild poliovirus type 2 declared,http://www.polioeradication.org/mediaroom/newsstories/Global-eradication-of-wild-poliovirus-type-2-declared/tabid/526/news/1289/Default.aspx,/u/pushcx,8
-5,2015-10-07 03:19:56 -0500,"['/t/compilers', '/t/compsci', '/t/programming']",Jitterdämmerung,http://blog.metaobject.com/2015/10/jitterdammerung.html,/u/passy,15
-0,2015-10-07 16:27:21 -0500,['/t/distributed'],Fuzzing Raft for Fun and Publication,http://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit,/u/craigstuntz,6
-1,2015-10-07 11:21:53 -0500,"['/t/video', '/t/freebsd', '/t/openbsd']",EuroBSDCon 2015 OpenBSD Presentations Online,http://undeadly.org/cgi?action=article&sid=20151006134046,/u/bmercer,7
-0,2015-10-07 07:55:32 -0500,"['/t/devops', '/t/hardware', '/t/scaling']",Why Intel added cache partitioning,http://danluu.com/intel-cat/,/u/pushcx,12
-0,2015-10-07 14:31:38 -0500,['/t/linux'],Improving the Linux kernel with upstream contributions,https://code.facebook.com/posts/938078729581886,/u/steveno,5
-1,2015-10-07 13:25:12 -0500,['/t/devops'],Pros and Cons of 5 Popular Continuous Delivery Patterns,https://www.cycligent.com/blog/pros-and-cons-of-5-popular-continuous-delivery-patterns/,/u/pushcx,3
-12,2015-10-06 12:37:38 -0500,['/t/privacy'],Vendor lock-in is our least problem,http://blog.tintagel.pl/2015/10/06/vendor-lock-in-is-our-least-problem.html,/u/mulander,23
-1,2015-10-07 09:37:30 -0500,"['/t/compilers', '/t/haskell', '/t/programming']",Polymorphism for dummies,http://www.haskellforall.com/2015/10/polymorphism-for-dummies.html,/u/pushcx,5
-8,2015-10-06 16:01:01 -0500,"['/t/programming', '/t/unix']","More shell, less egg",http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/,/u/stig,29
-0,2015-10-07 11:25:42 -0500,['/t/games'],Rogue's Item ID in Too Much Yet Not Enough Detail,http://rodneylives.blogspot.com/2015/04/play-81-rogues-item-id-in-too-much-yet.html,/u/pushcx,3
-5,2015-10-07 14:45:49 -0500,['/t/culture'],#FFFFFF Diversity — This is Hard.,https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a,/u/patrickod,4
-0,2015-10-07 09:55:58 -0500,"['/t/haskell', '/t/programming']",Creating a BitTorrent client in Haskell,https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html,/u/pushcx,3
-0,2015-10-07 10:53:38 -0500,['/t/devops'],Developing with Docker at IFTTT,https://medium.com/@silvamerica/developing-with-docker-at-ifttt-5bd03b4e597c,/u/jpadilla,2
-1,2015-10-06 16:44:34 -0500,"['/t/elixir', '/t/programming']",How To Learn a New Programming Language While Maintaining Your Day Job and Still Being There For You,http://rob.conery.io/2015/10/06/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-your-family/,/u/julienXX,13
-0,2015-10-06 13:22:08 -0500,"['/t/show', '/t/go']","wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia",https://github.com/walle/wiki,/u/walle,10
-0,2015-10-07 10:36:49 -0500,['/t/culture'],As We May Think (1945),http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/,/u/pushcx,3
-0,2015-10-07 07:42:07 -0500,['/t/privacy'],Automatic Face Recognition and Surveillance,https://www.schneier.com/blog/archives/2015/10/automatic_face_.html,/u/pushcx,2
-1,2015-10-06 22:48:21 -0500,"['/t/math', '/t/programming']",The Julia language for Scientific Computing,http://www.nowozin.net/sebastian/blog/the-julia-language-for-scientific-computing.html,/u/zem,4
-0,2015-10-06 10:18:38 -0500,['/t/practices'],Crafting a conference talk.,http://blog.testdouble.com/posts/2014-04-04-crafting-a-conference-talk.html,/u/pushcx,15
-2,2015-10-06 11:25:44 -0500,['/t/javascript'],How do JavaScript closures work under the hood,http://dmitryfrank.com/articles/js_closures,/u/dimonomid,5
+2,2015-10-07 09:57:08 -0500,/t/web,Ludicrously Fast Page Loads - A Guide for Full-Stack Devs,http://nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html,/u/joshuacc,8
+2,2015-10-07 08:05:41 -0500,"/t/programming,/t/rust",Experiences Building an OS in Rust,https://mostlytyped.com/posts/experiences-building-an-os-in-ru,/u/englishm,16
+0,2015-10-07 08:34:40 -0500,/t/math,"Gambler's Verity? How in small sets, randomness can be quite surprising",http://www.andrewconner.org/gambler-s-verity,/u/andrewc,9
+36,2015-10-06 16:45:57 -0500,"/t/linux,/t/release",Going my own way,https://mjg59.dreamwidth.org/38136.html,/u/sevan,44
+0,2015-10-07 14:15:56 -0500,/t/science,Global eradication of wild poliovirus type 2 declared,http://www.polioeradication.org/mediaroom/newsstories/Global-eradication-of-wild-poliovirus-type-2-declared/tabid/526/news/1289/Default.aspx,/u/pushcx,8
+5,2015-10-07 03:19:56 -0500,"/t/compilers,/t/compsci,/t/programming",Jitterdämmerung,http://blog.metaobject.com/2015/10/jitterdammerung.html,/u/passy,15
+0,2015-10-07 16:27:21 -0500,/t/distributed,Fuzzing Raft for Fun and Publication,http://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit,/u/craigstuntz,6
+1,2015-10-07 11:21:53 -0500,"/t/video,/t/freebsd,/t/openbsd",EuroBSDCon 2015 OpenBSD Presentations Online,http://undeadly.org/cgi?action=article&sid=20151006134046,/u/bmercer,7
+0,2015-10-07 07:55:32 -0500,"/t/devops,/t/hardware,/t/scaling",Why Intel added cache partitioning,http://danluu.com/intel-cat/,/u/pushcx,12
+0,2015-10-07 14:31:38 -0500,/t/linux,Improving the Linux kernel with upstream contributions,https://code.facebook.com/posts/938078729581886,/u/steveno,5
+1,2015-10-07 13:25:12 -0500,/t/devops,Pros and Cons of 5 Popular Continuous Delivery Patterns,https://www.cycligent.com/blog/pros-and-cons-of-5-popular-continuous-delivery-patterns/,/u/pushcx,3
+12,2015-10-06 12:37:38 -0500,/t/privacy,Vendor lock-in is our least problem,http://blog.tintagel.pl/2015/10/06/vendor-lock-in-is-our-least-problem.html,/u/mulander,23
+1,2015-10-07 09:37:30 -0500,"/t/compilers,/t/haskell,/t/programming",Polymorphism for dummies,http://www.haskellforall.com/2015/10/polymorphism-for-dummies.html,/u/pushcx,5
+8,2015-10-06 16:01:01 -0500,"/t/programming,/t/unix","More shell, less egg",http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/,/u/stig,29
+0,2015-10-07 11:25:42 -0500,/t/games,Rogue's Item ID in Too Much Yet Not Enough Detail,http://rodneylives.blogspot.com/2015/04/play-81-rogues-item-id-in-too-much-yet.html,/u/pushcx,3
+5,2015-10-07 14:45:49 -0500,/t/culture,#FFFFFF Diversity — This is Hard.,https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a,/u/patrickod,4
+0,2015-10-07 09:55:58 -0500,"/t/haskell,/t/programming",Creating a BitTorrent client in Haskell,https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html,/u/pushcx,3
+0,2015-10-07 10:53:38 -0500,/t/devops,Developing with Docker at IFTTT,https://medium.com/@silvamerica/developing-with-docker-at-ifttt-5bd03b4e597c,/u/jpadilla,2
+1,2015-10-06 16:44:34 -0500,"/t/elixir,/t/programming",How To Learn a New Programming Language While Maintaining Your Day Job and Still Being There For You,http://rob.conery.io/2015/10/06/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-your-family/,/u/julienXX,13
+0,2015-10-06 13:22:08 -0500,"/t/show,/t/go","wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia",https://github.com/walle/wiki,/u/walle,10
+0,2015-10-07 10:36:49 -0500,/t/culture,As We May Think (1945),http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/,/u/pushcx,3
+0,2015-10-07 07:42:07 -0500,/t/privacy,Automatic Face Recognition and Surveillance,https://www.schneier.com/blog/archives/2015/10/automatic_face_.html,/u/pushcx,2
+1,2015-10-06 22:48:21 -0500,"/t/math,/t/programming",The Julia language for Scientific Computing,http://www.nowozin.net/sebastian/blog/the-julia-language-for-scientific-computing.html,/u/zem,4
+0,2015-10-06 10:18:38 -0500,/t/practices,Crafting a conference talk.,http://blog.testdouble.com/posts/2014-04-04-crafting-a-conference-talk.html,/u/pushcx,15
+2,2015-10-06 11:25:44 -0500,/t/javascript,How do JavaScript closures work under the hood,http://dmitryfrank.com/articles/js_closures,/u/dimonomid,5

@@ -1,25 +1,25 @@
-1,2016-08-07 22:19:01 -0500,"['/t/c', '/t/compilers', '/t/programming']",Programming Your Own Language in C++,https://accu.org/index.php/journals/2252,/u/unbalancedparentheses,3
-15,2016-08-06 22:13:49 -0500,['/t/javascript'],return true to win,http://alf.nu/ReturnTrue,/u/pushcx,39
-0,2016-08-07 23:17:38 -0500,"['/t/release', '/t/security']",The Update Framework (TUF),https://theupdateframework.github.io/,/u/chadski,4
-1,2016-08-07 09:06:50 -0500,"['/t/linux', '/t/programming']",A x64 OS #1: UEFI,http://kazlauskas.me/entries/x64-uefi-os-1.html,/u/av,14
-9,2016-08-07 09:04:12 -0500,"['/t/cogsci', '/t/programming']",IBM Watson correctly diagnoses a form of leukemia,http://siliconangle.com/blog/2016/08/05/watson-correctly-diagnoses-woman-after-doctors-were-stumped/,/u/av,9
-0,2016-08-07 17:38:45 -0500,"['/t/c', '/t/security']",Bubblewrap: Unprivileged sandboxing tool,https://github.com/projectatomic/bubblewrap,/u/nicot,5
-0,2016-08-07 14:35:33 -0500,"['/t/hardware', '/t/historical', '/t/networking', '/t/programming']",Local Area Networking on RS-232,http://www.ipspace.net/Local_Area_Networking_on_RS-232,/u/calvin,10
-0,2016-08-07 23:43:56 -0500,"['/t/video', '/t/dotnet']",F#: Type Providers from the Ground Up,https://www.youtube.com/watch?v=pXT0li6zxKQ,/u/unbalancedparentheses,3
-0,2016-08-07 18:03:50 -0500,"['/t/audio', '/t/go']",Go Time - podcast,https://changelog.com/gotime/,/u/quobit,6
-0,2016-08-08 11:44:38 -0500,['/t/security'],200k+ Parked/Expired Domains Used to Distribute Malicious Ads,https://blog.sucuri.net/2016/06/spam-via-expired-domains.html,/u/mikec,0
-0,2016-08-07 19:38:10 -0500,"['/t/event', '/t/historical']",Vintage Computer Festival West returns after nine-year hiatus,http://www.mercurynews.com/bay-area-news/ci_30214923/vintage-computer-festival-west-returns-after-nine-year,/u/calvin,4
-0,2016-08-07 07:52:27 -0500,"['/t/freebsd', '/t/security']",Vulnerability Update: libarchive,https://hardenedbsd.org/article/shawn-webb/2016-08-07/vulnerability-update-libarchive,/u/lattera,8
-1,2016-08-07 08:25:22 -0500,"['/t/databases', '/t/go', '/t/javascript', '/t/release']",noms: a decentralized database based on ideas from Git,https://github.com/attic-labs/noms,/u/pushcx,12
-1,2016-08-07 07:19:07 -0500,['/t/haskell'],The constraint trick for instances,http://chrisdone.com/posts/haskell-constraint-trick,/u/pushcx,9
-2,2016-08-06 19:53:39 -0500,['/t/web'],Embedded Landing Page for an Image,http://lcamtuf.coredump.cx/squirrel/,/u/zgrep,21
-0,2016-08-07 17:58:19 -0500,"['/t/audio', '/t/person', '/t/practices']",Request For Commits - new podcast,https://changelog.com/rfc/,/u/quobit,2
-9,2016-08-06 19:07:55 -0500,"['/t/javascript', '/t/practices', '/t/satire']",I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next,https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558,/u/friendlysock,44
-18,2016-08-06 18:21:27 -0500,"['/t/cogsci', '/t/law', '/t/networking', '/t/philosophy']",Information + people != democracy,https://grugq.tumblr.com/post/148394704908/cyber-showdown,/u/tedu,11
-5,2016-08-06 17:07:56 -0500,"['/t/show', '/t/games', '/t/lua']",lover - a simple LÖVE 2D game dev CLI,https://github.com/jerluc/lover,/u/jerluc,7
-0,2016-08-07 15:25:00 -0500,['/t/devops'],Sharing Servers for International Friendship Day,https://coreos.com/blog/international-friendship-day.html,/u/calvin,1
-1,2016-08-07 10:55:30 -0500,['/t/web'],Riot.js: anatomy of a tag (2015),http://www.marcusoft.net/2015/12/riotjs-anatomy-of-a-tag.html,/u/mulander,1
-4,2016-08-06 20:13:40 -0500,"['/t/go', '/t/vcs']",git gofmt pre-commit hook,https://golang.org/misc/git/pre-commit,/u/zg,5
-0,2016-08-06 20:03:09 -0500,['/t/linux'],Bedrock Linux,http://bedrocklinux.org/,/u/zgrep,9
-18,2016-08-06 09:41:08 -0500,"['/t/law', '/t/privacy', '/t/security']",BBC to deploy detection vans to snoop on internet users,http://www.telegraph.co.uk/news/2016/08/05/bbc-to-deploy-detection-vans-to-snoop-on-internet-users/,/u/rain1,14
-1,2016-08-06 17:05:37 -0500,['/t/haskell'],Hask is not a category - Andrej Bauer,http://math.andrej.com/2016/08/06/hask-is-not-a-category/,/u/rain1,8
+1,2016-08-07 22:19:01 -0500,"/t/c,/t/compilers,/t/programming",Programming Your Own Language in C++,https://accu.org/index.php/journals/2252,/u/unbalancedparentheses,3
+15,2016-08-06 22:13:49 -0500,/t/javascript,return true to win,http://alf.nu/ReturnTrue,/u/pushcx,39
+0,2016-08-07 23:17:38 -0500,"/t/release,/t/security",The Update Framework (TUF),https://theupdateframework.github.io/,/u/chadski,4
+1,2016-08-07 09:06:50 -0500,"/t/linux,/t/programming",A x64 OS #1: UEFI,http://kazlauskas.me/entries/x64-uefi-os-1.html,/u/av,14
+9,2016-08-07 09:04:12 -0500,"/t/cogsci,/t/programming",IBM Watson correctly diagnoses a form of leukemia,http://siliconangle.com/blog/2016/08/05/watson-correctly-diagnoses-woman-after-doctors-were-stumped/,/u/av,9
+0,2016-08-07 17:38:45 -0500,"/t/c,/t/security",Bubblewrap: Unprivileged sandboxing tool,https://github.com/projectatomic/bubblewrap,/u/nicot,5
+0,2016-08-07 14:35:33 -0500,"/t/hardware,/t/historical,/t/networking,/t/programming",Local Area Networking on RS-232,http://www.ipspace.net/Local_Area_Networking_on_RS-232,/u/calvin,10
+0,2016-08-07 23:43:56 -0500,"/t/video,/t/dotnet",F#: Type Providers from the Ground Up,https://www.youtube.com/watch?v=pXT0li6zxKQ,/u/unbalancedparentheses,3
+0,2016-08-07 18:03:50 -0500,"/t/audio,/t/go",Go Time - podcast,https://changelog.com/gotime/,/u/quobit,6
+0,2016-08-08 11:44:38 -0500,/t/security,200k+ Parked/Expired Domains Used to Distribute Malicious Ads,https://blog.sucuri.net/2016/06/spam-via-expired-domains.html,/u/mikec,0
+0,2016-08-07 19:38:10 -0500,"/t/event,/t/historical",Vintage Computer Festival West returns after nine-year hiatus,http://www.mercurynews.com/bay-area-news/ci_30214923/vintage-computer-festival-west-returns-after-nine-year,/u/calvin,4
+0,2016-08-07 07:52:27 -0500,"/t/freebsd,/t/security",Vulnerability Update: libarchive,https://hardenedbsd.org/article/shawn-webb/2016-08-07/vulnerability-update-libarchive,/u/lattera,8
+1,2016-08-07 08:25:22 -0500,"/t/databases,/t/go,/t/javascript,/t/release",noms: a decentralized database based on ideas from Git,https://github.com/attic-labs/noms,/u/pushcx,12
+1,2016-08-07 07:19:07 -0500,/t/haskell,The constraint trick for instances,http://chrisdone.com/posts/haskell-constraint-trick,/u/pushcx,9
+2,2016-08-06 19:53:39 -0500,/t/web,Embedded Landing Page for an Image,http://lcamtuf.coredump.cx/squirrel/,/u/zgrep,21
+0,2016-08-07 17:58:19 -0500,"/t/audio,/t/person,/t/practices",Request For Commits - new podcast,https://changelog.com/rfc/,/u/quobit,2
+9,2016-08-06 19:07:55 -0500,"/t/javascript,/t/practices,/t/satire",I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next,https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558,/u/friendlysock,44
+18,2016-08-06 18:21:27 -0500,"/t/cogsci,/t/law,/t/networking,/t/philosophy",Information + people != democracy,https://grugq.tumblr.com/post/148394704908/cyber-showdown,/u/tedu,11
+5,2016-08-06 17:07:56 -0500,"/t/show,/t/games,/t/lua",lover - a simple LÖVE 2D game dev CLI,https://github.com/jerluc/lover,/u/jerluc,7
+0,2016-08-07 15:25:00 -0500,/t/devops,Sharing Servers for International Friendship Day,https://coreos.com/blog/international-friendship-day.html,/u/calvin,1
+1,2016-08-07 10:55:30 -0500,/t/web,Riot.js: anatomy of a tag (2015),http://www.marcusoft.net/2015/12/riotjs-anatomy-of-a-tag.html,/u/mulander,1
+4,2016-08-06 20:13:40 -0500,"/t/go,/t/vcs",git gofmt pre-commit hook,https://golang.org/misc/git/pre-commit,/u/zg,5
+0,2016-08-06 20:03:09 -0500,/t/linux,Bedrock Linux,http://bedrocklinux.org/,/u/zgrep,9
+18,2016-08-06 09:41:08 -0500,"/t/law,/t/privacy,/t/security",BBC to deploy detection vans to snoop on internet users,http://www.telegraph.co.uk/news/2016/08/05/bbc-to-deploy-detection-vans-to-snoop-on-internet-users/,/u/rain1,14
+1,2016-08-06 17:05:37 -0500,/t/haskell,Hask is not a category - Andrej Bauer,http://math.andrej.com/2016/08/06/hask-is-not-a-category/,/u/rain1,8

@@ -1,25 +1,25 @@
-0,2016-05-28 09:59:59 -0500,"['/t/show', '/t/book']",The Solar Eye - Cyberpunks [webcomics],https://bubbl.in/cover/fisheye-placebo-the-solar-eye-by-wenqing-yan,/u/marvindanig,3
-0,2016-05-27 17:15:04 -0500,['/t/release'],Harvey OS ~ A Fresh Take on Plan 9,http://harvey-os.org/,/u/voidzero,20
-0,2016-05-28 11:06:29 -0500,['/t/security'],HackInTheBox 2016 Amsterdam Presentation Materials,https://conference.hitb.org/hitbsecconf2016ams/materials/,/u/lattera,2
-0,2016-05-28 01:57:49 -0500,['/t/rust'],Connecting a webservice to a database in Rust,http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html,/u/fkr,6
-1,2016-05-27 22:02:42 -0500,"['/t/show', '/t/c', '/t/databases', '/t/windows']",Windows port of SQLite4's LSM storage engine,https://github.com/maxpert/lsm-windows,/u/mxp,3
-5,2016-05-27 20:47:48 -0500,"['/t/api', '/t/law']",Op-ed: Oracle attorney says Google’s court victory might kill the GPL,http://arstechnica.com/tech-policy/2016/05/op-ed-oracle-attorney-says-googles-court-victory-might-kill-the-gpl/,/u/calvin,4
-4,2016-05-27 11:53:24 -0500,['/t/javascript'],Why I’m Not Waiting On ‘await’,https://blog.getify.com/not-awaiting-1/,/u/kintamanimatt,9
-1,2016-05-27 10:05:08 -0500,['/t/lisp'],uLisp - Lisp for the Arduino,http://www.ulisp.com/,/u/dwc,15
-1,2016-05-27 15:06:57 -0500,"['/t/databases', '/t/unix']",Relocatable PostgreSQL Builds,https://begriffs.com/posts/2016-05-21-relocatable-postgresql.html,/u/ehamberg,7
-3,2016-05-27 13:26:46 -0500,"['/t/hardware', '/t/netbsd']",What to do when you run out of (ancient) 50 pin SCSI disks?,http://blog.netbsd.org/tnf/entry/what_to_do_when_you,/u/sevan,6
-0,2016-05-28 06:45:28 -0500,['/t/design'],Multicultural Names For InVision's Craft Plugin (Sketch & Photoshop),http://rizwanjavaid.com/blog/2016/2/4/multicultural-names-for-invisions-craft-plugin-sketch-photoshop,/u/adsouza,1
-11,2016-05-26 15:23:38 -0500,"['/t/android', '/t/api', '/t/law']",The verdict is in: Android is “fair use” as Google beats Oracle,http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/,/u/spinda,61
-0,2016-05-27 10:05:35 -0500,"['/t/databases', '/t/python']",Redesigning a notification system using PostgreSQL,http://blog.garage-coding.com/2016/05/25/redesigning-notification.html,/u/wsdookadr,6
-0,2016-05-27 18:10:25 -0500,['/t/security'],A secure repository for sensitive data,https://github.com/dacav/secshare,/u/dacav,2
-1,2016-05-27 08:53:42 -0500,"['/t/freebsd', '/t/virtualization']",bhyve graphics support,https://lists.freebsd.org/pipermail/freebsd-virtualization/2016-May/004471.html,/u/sevan,10
-0,2016-05-27 13:25:50 -0500,"['/t/math', '/t/python']",The Model Complexity Myth,https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/,/u/michaelochurch,7
-0,2016-05-27 09:20:52 -0500,['/t/security'],Symantec issues intermediate CA to company that's sold MITM services to nation states,https://crt.sh/?id=19538258,/u/kb,8
-0,2016-05-27 16:37:38 -0500,"['/t/java', '/t/scaling']",Linkedin's feed technology,https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter,/u/tschellenbach,3
-0,2016-05-27 13:55:25 -0500,['/t/devops'],Getting Started With Kubernetes,https://blog.codeship.com/getting-started-with-kubernetes/,/u/nslater,4
-0,2016-05-26 20:19:53 -0500,"['/t/pdf', '/t/compilers', '/t/ml']",Compiling a Functional Language,http://lucacardelli.name/Papers/CompilingML.A4.pdf,/u/lojikil,23
-0,2016-05-27 06:42:25 -0500,['/t/graphics'],PDE-based Image Compression,http://www.mia.uni-saarland.de/Research/IP_Compress.shtml,/u/pushcx,7
-14,2016-05-26 15:34:39 -0500,['/t/games'],"Craft - Minecraft clone for Windows, Mac OS X and Linux",https://github.com/fogleman/Craft,/u/flyingfisch,18
-2,2016-05-27 04:44:17 -0500,"['/t/practices', '/t/security']",Did the Clinton Email Server Have an Internet-Based Printer?,https://krebsonsecurity.com/2016/05/did-the-clinton-email-server-have-an-internet-based-printer/,/u/calvin,5
-2,2016-05-27 11:44:15 -0500,"['/t/pdf', '/t/programming']",My Recollections of Operating System Design (2001),https://www.cs.utexas.edu/users/EWD/ewd13xx/EWD1303.PDF,/u/geocar,2
-5,2016-05-26 13:40:54 -0500,"['/t/release', '/t/unix']",9front Frequently Questioned Answers: An introduction to using a maintained Plan 9 distribution.,http://fqa.9front.org/,/u/orib,19
+0,2016-05-28 09:59:59 -0500,"/t/show,/t/book",The Solar Eye - Cyberpunks [webcomics],https://bubbl.in/cover/fisheye-placebo-the-solar-eye-by-wenqing-yan,/u/marvindanig,3
+0,2016-05-27 17:15:04 -0500,/t/release,Harvey OS ~ A Fresh Take on Plan 9,http://harvey-os.org/,/u/voidzero,20
+0,2016-05-28 11:06:29 -0500,/t/security,HackInTheBox 2016 Amsterdam Presentation Materials,https://conference.hitb.org/hitbsecconf2016ams/materials/,/u/lattera,2
+0,2016-05-28 01:57:49 -0500,/t/rust,Connecting a webservice to a database in Rust,http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html,/u/fkr,6
+1,2016-05-27 22:02:42 -0500,"/t/show,/t/c,/t/databases,/t/windows",Windows port of SQLite4's LSM storage engine,https://github.com/maxpert/lsm-windows,/u/mxp,3
+5,2016-05-27 20:47:48 -0500,"/t/api,/t/law",Op-ed: Oracle attorney says Google’s court victory might kill the GPL,http://arstechnica.com/tech-policy/2016/05/op-ed-oracle-attorney-says-googles-court-victory-might-kill-the-gpl/,/u/calvin,4
+4,2016-05-27 11:53:24 -0500,/t/javascript,Why I’m Not Waiting On ‘await’,https://blog.getify.com/not-awaiting-1/,/u/kintamanimatt,9
+1,2016-05-27 10:05:08 -0500,/t/lisp,uLisp - Lisp for the Arduino,http://www.ulisp.com/,/u/dwc,15
+1,2016-05-27 15:06:57 -0500,"/t/databases,/t/unix",Relocatable PostgreSQL Builds,https://begriffs.com/posts/2016-05-21-relocatable-postgresql.html,/u/ehamberg,7
+3,2016-05-27 13:26:46 -0500,"/t/hardware,/t/netbsd",What to do when you run out of (ancient) 50 pin SCSI disks?,http://blog.netbsd.org/tnf/entry/what_to_do_when_you,/u/sevan,6
+0,2016-05-28 06:45:28 -0500,/t/design,Multicultural Names For InVision's Craft Plugin (Sketch & Photoshop),http://rizwanjavaid.com/blog/2016/2/4/multicultural-names-for-invisions-craft-plugin-sketch-photoshop,/u/adsouza,1
+11,2016-05-26 15:23:38 -0500,"/t/android,/t/api,/t/law",The verdict is in: Android is “fair use” as Google beats Oracle,http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/,/u/spinda,61
+0,2016-05-27 10:05:35 -0500,"/t/databases,/t/python",Redesigning a notification system using PostgreSQL,http://blog.garage-coding.com/2016/05/25/redesigning-notification.html,/u/wsdookadr,6
+0,2016-05-27 18:10:25 -0500,/t/security,A secure repository for sensitive data,https://github.com/dacav/secshare,/u/dacav,2
+1,2016-05-27 08:53:42 -0500,"/t/freebsd,/t/virtualization",bhyve graphics support,https://lists.freebsd.org/pipermail/freebsd-virtualization/2016-May/004471.html,/u/sevan,10
+0,2016-05-27 13:25:50 -0500,"/t/math,/t/python",The Model Complexity Myth,https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/,/u/michaelochurch,7
+0,2016-05-27 09:20:52 -0500,/t/security,Symantec issues intermediate CA to company that's sold MITM services to nation states,https://crt.sh/?id=19538258,/u/kb,8
+0,2016-05-27 16:37:38 -0500,"/t/java,/t/scaling",Linkedin's feed technology,https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter,/u/tschellenbach,3
+0,2016-05-27 13:55:25 -0500,/t/devops,Getting Started With Kubernetes,https://blog.codeship.com/getting-started-with-kubernetes/,/u/nslater,4
+0,2016-05-26 20:19:53 -0500,"/t/pdf,/t/compilers,/t/ml",Compiling a Functional Language,http://lucacardelli.name/Papers/CompilingML.A4.pdf,/u/lojikil,23
+0,2016-05-27 06:42:25 -0500,/t/graphics,PDE-based Image Compression,http://www.mia.uni-saarland.de/Research/IP_Compress.shtml,/u/pushcx,7
+14,2016-05-26 15:34:39 -0500,/t/games,"Craft - Minecraft clone for Windows, Mac OS X and Linux",https://github.com/fogleman/Craft,/u/flyingfisch,18
+2,2016-05-27 04:44:17 -0500,"/t/practices,/t/security",Did the Clinton Email Server Have an Internet-Based Printer?,https://krebsonsecurity.com/2016/05/did-the-clinton-email-server-have-an-internet-based-printer/,/u/calvin,5
+2,2016-05-27 11:44:15 -0500,"/t/pdf,/t/programming",My Recollections of Operating System Design (2001),https://www.cs.utexas.edu/users/EWD/ewd13xx/EWD1303.PDF,/u/geocar,2
+5,2016-05-26 13:40:54 -0500,"/t/release,/t/unix",9front Frequently Questioned Answers: An introduction to using a maintained Plan 9 distribution.,http://fqa.9front.org/,/u/orib,19

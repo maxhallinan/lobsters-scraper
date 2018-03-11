@@ -1,25 +1,25 @@
-0,2014-02-19 12:51:50 -0600,['/t/linux'],Working with modules in Linux made easy,http://www.coolcoder.in/2014/01/working-with-modules-in-linux-systems.html,/u/codeon1,1
-1,2014-02-19 06:12:44 -0600,['/t/databases'],Eventually Consistent: Not What You Were Expecting?,http://queue.acm.org/detail.cfm?id=2582994,/u/thorduri,2
-0,2014-02-19 12:33:32 -0600,['/t/devops'],Vagrant 1.5 Feature Preview: Boxes 2.0 - Vagrant,http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-boxes-2-0.html,/u/antifuchs,1
-10,2014-02-18 06:42:31 -0600,['/t/go'],Embed static files into a Go executable,https://github.com/rakyll/statik,/u/rakyll,17
-0,2014-02-19 05:49:00 -0600,"['/t/video', '/t/scala']",The Trouble With Types,http://www.infoq.com/presentations/data-types-issues,/u/SeanTAllen,2
-2,2014-02-18 10:34:29 -0600,"['/t/emacs', '/t/haskell']",Haskell Development on Emacs,http://tim.dysinger.net/posts/2014-02-18-haskell-with-emacs.html,/u/dysinger,18
-0,2014-02-19 07:45:23 -0600,"['/t/compsci', '/t/math']","A probabilistic model of prime numbers, based on network theory",http://arxiv.org/abs/1402.3612,/u/RiderOfGiraffes,1
-8,2014-02-18 10:57:55 -0600,"['/t/programming', '/t/scala']",Why we love Scala at Coursera - Coursera Technology,http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/,/u/beala,6
-1,2014-02-18 13:03:56 -0600,"['/t/compilers', '/t/scala']","Dotty open-sourced, research platform for new language concepts and compiler technologies for Scala",https://groups.google.com/forum/#!msg/scala-internals/6HL6lVLI3bQ/IY4gEyOwFhoJ,/u/tobym,9
-0,2014-02-18 16:07:15 -0600,"['/t/release', '/t/ruby', '/t/security']","Rails 3.2.17, 4.0.3 and 4.1.0.beta2 have been released fixing security bugs",http://weblog.rubyonrails.org/2014/2/18/Rails_3_2_17_4_0_3_and_4_1_0_beta2_have_been_released/,/u/jcs,5
-0,2014-02-18 21:55:16 -0600,['/t/practices'],Coding Horror: Complaint-Driven Development,http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html,/u/jm,1
-0,2014-02-18 21:37:58 -0600,['/t/compsci'],Flexible Muscle-Based Locomotion for Bipedal Creatures,http://www.staff.science.uu.nl/~geijt101/papers/SA2013/,/u/jm,1
-0,2014-02-18 14:58:06 -0600,['/t/cryptocurrencies'],Ethereum Scalability and Decentralization Updates,http://blog.ethereum.org/2014/02/18/ethereum-scalability-and-decentralization-updates/,/u/thorduri,3
-0,2014-02-18 21:30:42 -0600,"['/t/android', '/t/c', '/t/windows']",Android++,http://android-plus-plus.com/download/,/u/jm,1
-0,2014-02-18 21:24:04 -0600,"['/t/linux', '/t/programming', '/t/unix', '/t/virtualization']",Deploy a Secure Instance of Owncloud 6 With Docker,http://www.alanb.ca/blog/2014/02/18/deploy-a-secure-instance-of-owncloud-with-docker/,/u/aboudreault,1
-0,2014-02-18 07:10:52 -0600,['/t/compsci'],Top publications in computer science (by citation),http://academic.research.microsoft.com/RankList?entitytype=1&topDomainID=2,/u/azoic,7
-13,2014-02-18 12:34:34 -0600,"['/t/culture', '/t/practices']",Dropbox's hiring practices explain its disappointing​ lack of female employees,http://www.linkedin.com/today/post/article/20140217222725-8451-dropbox-s-hiring-practices-explain-its-disappointing-lack-of-female-employees,/u/journeysquid,7
-1,2014-02-18 11:24:41 -0600,"['/t/javascript', '/t/programming']",How to Learn AngularJS,http://www.ng-newsletter.com/posts/how-to-learn-angular.html,/u/eigenjoy,2
-3,2014-02-17 12:56:44 -0600,['/t/compsci'],What is a Type System for?,http://michaelrbernste.in/2014/02/17/what-is-a-type-system-for.html,/u/mrb,23
-0,2014-02-18 14:10:09 -0600,"['/t/javascript', '/t/networking']",Cat-DNS: a DNS server that resolves everything to cats,http://notwaldorf.github.io/posts/go-cat-dns-go/,/u/kamalmarhubi,1
-0,2014-02-17 22:11:55 -0600,"['/t/pdf', '/t/distributed', '/t/scaling', '/t/unix']",A Scalable and Explicit Event Delivery Mechanism for UNIX (1999),https://www.usenix.org/legacy/event/usenix99/full_papers/banga/banga.pdf,/u/moses,6
-2,2014-02-17 12:17:40 -0600,"['/t/practices', '/t/security', '/t/web']",Immediately Migrating Existing Passwords to bcrypt,http://taylor.fausak.me/2013/05/21/immediately-migrating-existing-passwords-to-bcrypt/,/u/RiderOfGiraffes,13
-34,2014-02-17 11:51:44 -0600,['/t/ask'],What are you working on this week?,/s/gzjl5d/what_are_you_working_on_this_week,/u/kb,28
-0,2014-02-17 22:44:37 -0600,['/t/c'],Trip report: Winter ISO C++ meeting,http://isocpp.org/blog/2014/02/trip-report,/u/tedu,4
-4,2014-02-17 19:09:17 -0600,"['/t/games', '/t/privacy', '/t/security']",Steam's VAC now reads all the domains you have visited and sends it back to their servers,http://www.reddit.com/r/technology/comments/1y4za5/steams_vac_now_reads_all_the_domains_you_have/cfhelpr,/u/journeysquid,2
+0,2014-02-19 12:51:50 -0600,/t/linux,Working with modules in Linux made easy,http://www.coolcoder.in/2014/01/working-with-modules-in-linux-systems.html,/u/codeon1,1
+1,2014-02-19 06:12:44 -0600,/t/databases,Eventually Consistent: Not What You Were Expecting?,http://queue.acm.org/detail.cfm?id=2582994,/u/thorduri,2
+0,2014-02-19 12:33:32 -0600,/t/devops,Vagrant 1.5 Feature Preview: Boxes 2.0 - Vagrant,http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-boxes-2-0.html,/u/antifuchs,1
+10,2014-02-18 06:42:31 -0600,/t/go,Embed static files into a Go executable,https://github.com/rakyll/statik,/u/rakyll,17
+0,2014-02-19 05:49:00 -0600,"/t/video,/t/scala",The Trouble With Types,http://www.infoq.com/presentations/data-types-issues,/u/SeanTAllen,2
+2,2014-02-18 10:34:29 -0600,"/t/emacs,/t/haskell",Haskell Development on Emacs,http://tim.dysinger.net/posts/2014-02-18-haskell-with-emacs.html,/u/dysinger,18
+0,2014-02-19 07:45:23 -0600,"/t/compsci,/t/math","A probabilistic model of prime numbers, based on network theory",http://arxiv.org/abs/1402.3612,/u/RiderOfGiraffes,1
+8,2014-02-18 10:57:55 -0600,"/t/programming,/t/scala",Why we love Scala at Coursera - Coursera Technology,http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/,/u/beala,6
+1,2014-02-18 13:03:56 -0600,"/t/compilers,/t/scala","Dotty open-sourced, research platform for new language concepts and compiler technologies for Scala",https://groups.google.com/forum/#!msg/scala-internals/6HL6lVLI3bQ/IY4gEyOwFhoJ,/u/tobym,9
+0,2014-02-18 16:07:15 -0600,"/t/release,/t/ruby,/t/security","Rails 3.2.17, 4.0.3 and 4.1.0.beta2 have been released fixing security bugs",http://weblog.rubyonrails.org/2014/2/18/Rails_3_2_17_4_0_3_and_4_1_0_beta2_have_been_released/,/u/jcs,5
+0,2014-02-18 21:55:16 -0600,/t/practices,Coding Horror: Complaint-Driven Development,http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html,/u/jm,1
+0,2014-02-18 21:37:58 -0600,/t/compsci,Flexible Muscle-Based Locomotion for Bipedal Creatures,http://www.staff.science.uu.nl/~geijt101/papers/SA2013/,/u/jm,1
+0,2014-02-18 14:58:06 -0600,/t/cryptocurrencies,Ethereum Scalability and Decentralization Updates,http://blog.ethereum.org/2014/02/18/ethereum-scalability-and-decentralization-updates/,/u/thorduri,3
+0,2014-02-18 21:30:42 -0600,"/t/android,/t/c,/t/windows",Android++,http://android-plus-plus.com/download/,/u/jm,1
+0,2014-02-18 21:24:04 -0600,"/t/linux,/t/programming,/t/unix,/t/virtualization",Deploy a Secure Instance of Owncloud 6 With Docker,http://www.alanb.ca/blog/2014/02/18/deploy-a-secure-instance-of-owncloud-with-docker/,/u/aboudreault,1
+0,2014-02-18 07:10:52 -0600,/t/compsci,Top publications in computer science (by citation),http://academic.research.microsoft.com/RankList?entitytype=1&topDomainID=2,/u/azoic,7
+13,2014-02-18 12:34:34 -0600,"/t/culture,/t/practices",Dropbox's hiring practices explain its disappointing​ lack of female employees,http://www.linkedin.com/today/post/article/20140217222725-8451-dropbox-s-hiring-practices-explain-its-disappointing-lack-of-female-employees,/u/journeysquid,7
+1,2014-02-18 11:24:41 -0600,"/t/javascript,/t/programming",How to Learn AngularJS,http://www.ng-newsletter.com/posts/how-to-learn-angular.html,/u/eigenjoy,2
+3,2014-02-17 12:56:44 -0600,/t/compsci,What is a Type System for?,http://michaelrbernste.in/2014/02/17/what-is-a-type-system-for.html,/u/mrb,23
+0,2014-02-18 14:10:09 -0600,"/t/javascript,/t/networking",Cat-DNS: a DNS server that resolves everything to cats,http://notwaldorf.github.io/posts/go-cat-dns-go/,/u/kamalmarhubi,1
+0,2014-02-17 22:11:55 -0600,"/t/pdf,/t/distributed,/t/scaling,/t/unix",A Scalable and Explicit Event Delivery Mechanism for UNIX (1999),https://www.usenix.org/legacy/event/usenix99/full_papers/banga/banga.pdf,/u/moses,6
+2,2014-02-17 12:17:40 -0600,"/t/practices,/t/security,/t/web",Immediately Migrating Existing Passwords to bcrypt,http://taylor.fausak.me/2013/05/21/immediately-migrating-existing-passwords-to-bcrypt/,/u/RiderOfGiraffes,13
+34,2014-02-17 11:51:44 -0600,/t/ask,What are you working on this week?,/s/gzjl5d/what_are_you_working_on_this_week,/u/kb,28
+0,2014-02-17 22:44:37 -0600,/t/c,Trip report: Winter ISO C++ meeting,http://isocpp.org/blog/2014/02/trip-report,/u/tedu,4
+4,2014-02-17 19:09:17 -0600,"/t/games,/t/privacy,/t/security",Steam's VAC now reads all the domains you have visited and sends it back to their servers,http://www.reddit.com/r/technology/comments/1y4za5/steams_vac_now_reads_all_the_domains_you_have/cfhelpr,/u/journeysquid,2

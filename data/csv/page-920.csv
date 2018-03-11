@@ -1,25 +1,25 @@
-1,2016-01-06 05:01:46 -0600,"['/t/compsci', '/t/programming', '/t/ruby']",Review of Ruby Static Analysis Tools,http://blog.codacy.com/2015/12/31/review-of-ruby-static-analysis-tools/,/u/PaulBlei,1
-0,2016-01-06 05:51:33 -0600,"['/t/culture', '/t/practices']",Interviewing is Broken,http://www.stilldrinking.org/interviewing-is-broken,/u/av,3
-0,2016-01-05 10:47:24 -0600,"['/t/assembly', '/t/haskell']",Monads to Machine Code (Part 1),http://www.stephendiehl.com/posts/monads_machine_code.html,/u/michaelochurch,15
-1,2016-01-05 14:36:33 -0600,"['/t/math', '/t/visualization']",Visualizing Bayes’ Theorem (2009),https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/,/u/pushcx,6
-1,2016-01-05 09:18:56 -0600,['/t/erlang'],rebar3 shell,http://ferd.ca/dev/rebar3-shell.html,/u/tristan,12
-0,2016-01-05 20:38:31 -0600,['/t/compilers'],A problem with LLVM's undef,http://playingwithpointers.com/problem-with-undef.html,/u/davyjones,3
-0,2016-01-05 08:26:35 -0600,"['/t/hardware', '/t/networking']",DIY Backpack Base Station,http://begriffs.com/posts/2016-01-04-backpack-base-station.html,/u/pushcx,13
-0,2016-01-05 10:27:11 -0600,"['/t/compsci', '/t/distributed']",Best of both worlds: Raft's joint consensus with Single Decree Paxos,http://rystsov.info/2016/01/05/raft-paxos.html,/u/rystsov,5
-1,2016-01-05 14:16:22 -0600,"['/t/pdf', '/t/compsci', '/t/programming']",In Defense of Soundiness: A Manifesto,https://yanniss.github.io/Soundiness-CACM.pdf,/u/pushcx,4
-0,2016-01-05 11:21:49 -0600,"['/t/design', '/t/distributed', '/t/games', '/t/scaling']",Development and Deployment of Massively Multiplayer Games,http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/,/u/jitterted,7
-0,2016-01-05 15:21:01 -0600,['/t/cogsci'],Timing of Turn-Taking in Conversation,http://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we-do-during-conversations/422439/,/u/pushcx,4
-0,2016-01-05 19:41:02 -0600,"['/t/go', '/t/linux']",Encrypted overlay filesystem [FUSE] written in Go,https://github.com/rfjakob/gocryptfs,/u/jitterted,2
-0,2016-01-05 13:28:23 -0600,"['/t/devops', '/t/practices']","Logs and Metrics and Graphs, Oh My!",http://blog.raintank.io/logs-and-metrics-and-graphs-oh-my/,/u/bbrazil,2
-0,2016-01-05 10:15:14 -0600,"['/t/programming', '/t/testing']",Getting to Zero Exceptions,http://yellerapp.com/posts/2015-06-01-getting-to-exception-zero.html,/u/craigstuntz,6
-0,2016-01-05 18:17:06 -0600,['/t/practices'],Why a simple spreadsheet spread like wildfire - the origins of VisiCalc,http://www.theguardian.com/commentisfree/2016/jan/03/visicalc-software-first-killer-app-john-naughton,/u/calvin,2
-0,2016-01-05 11:39:15 -0600,"['/t/cryptocurrencies', '/t/culture', '/t/distributed']",On the dangers of a blockchain monoculture,https://tonyarcieri.com/on-the-dangers-of-a-blockchain-monoculture,/u/bascule,5
-0,2016-01-05 10:57:36 -0600,"['/t/programming', '/t/release']","Basekernel: a simple operating system kernel for research, teaching, and fun",https://github.com/dthain/basekernel,/u/pushcx,5
-0,2016-01-05 10:15:16 -0600,['/t/reversing'],My Favorite Debug Ever,http://ryan.hypnoticocelot.com/post/136617949294/my-favorite-debug-ever,/u/pushcx,5
-0,2016-01-05 13:16:50 -0600,['/t/api'],"Improving Your API Conversations with Hypermedia, ETags, and Real-Time APIs",http://launchany.com/extending-your-api-conversations/,/u/jitterted,3
-13,2016-01-04 15:43:01 -0600,['/t/cogsci'],The concept of different “learning styles” is one of the greatest neuroscience myths,http://qz.com/585143/the-concept-of-different-learning-styles-is-one-of-the-greatest-neuroscience-myths/,/u/pushcx,18
-8,2016-01-04 08:58:00 -0600,"['/t/databases', '/t/distributed']",Jepsen: RethinkDB 2.1.5,http://aphyr.com/posts/329-jepsen-rethinkdb-2-1-5,/u/uggedal,47
-0,2016-01-05 07:26:34 -0600,['/t/release'],BitBar - lets you put the output from any script/program in your Mac OS X Menu Bar.,https://github.com/matryer/bitbar,/u/355E3B,6
-0,2016-01-05 09:40:23 -0600,['/t/visualization'],Simulating The Word (In Emoji),http://ncase.me/simulating/,/u/pushcx,4
-1,2016-01-05 07:37:12 -0600,['/t/python'],Refactoring a Crossword Game Program,http://nbviewer.ipython.org/url/norvig.com/ipython/Scrabble.ipynb,/u/pushcx,4
-1,2016-01-05 16:24:42 -0600,"['/t/api', '/t/satire', '/t/web']",HTTP Status Cats API,https://http.cat/,/u/friendlysock,3
+1,2016-01-06 05:01:46 -0600,"/t/compsci,/t/programming,/t/ruby",Review of Ruby Static Analysis Tools,http://blog.codacy.com/2015/12/31/review-of-ruby-static-analysis-tools/,/u/PaulBlei,1
+0,2016-01-06 05:51:33 -0600,"/t/culture,/t/practices",Interviewing is Broken,http://www.stilldrinking.org/interviewing-is-broken,/u/av,3
+0,2016-01-05 10:47:24 -0600,"/t/assembly,/t/haskell",Monads to Machine Code (Part 1),http://www.stephendiehl.com/posts/monads_machine_code.html,/u/michaelochurch,15
+1,2016-01-05 14:36:33 -0600,"/t/math,/t/visualization",Visualizing Bayes’ Theorem (2009),https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/,/u/pushcx,6
+1,2016-01-05 09:18:56 -0600,/t/erlang,rebar3 shell,http://ferd.ca/dev/rebar3-shell.html,/u/tristan,12
+0,2016-01-05 20:38:31 -0600,/t/compilers,A problem with LLVM's undef,http://playingwithpointers.com/problem-with-undef.html,/u/davyjones,3
+0,2016-01-05 08:26:35 -0600,"/t/hardware,/t/networking",DIY Backpack Base Station,http://begriffs.com/posts/2016-01-04-backpack-base-station.html,/u/pushcx,13
+0,2016-01-05 10:27:11 -0600,"/t/compsci,/t/distributed",Best of both worlds: Raft's joint consensus with Single Decree Paxos,http://rystsov.info/2016/01/05/raft-paxos.html,/u/rystsov,5
+1,2016-01-05 14:16:22 -0600,"/t/pdf,/t/compsci,/t/programming",In Defense of Soundiness: A Manifesto,https://yanniss.github.io/Soundiness-CACM.pdf,/u/pushcx,4
+0,2016-01-05 11:21:49 -0600,"/t/design,/t/distributed,/t/games,/t/scaling",Development and Deployment of Massively Multiplayer Games,http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/,/u/jitterted,7
+0,2016-01-05 15:21:01 -0600,/t/cogsci,Timing of Turn-Taking in Conversation,http://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we-do-during-conversations/422439/,/u/pushcx,4
+0,2016-01-05 19:41:02 -0600,"/t/go,/t/linux",Encrypted overlay filesystem [FUSE] written in Go,https://github.com/rfjakob/gocryptfs,/u/jitterted,2
+0,2016-01-05 13:28:23 -0600,"/t/devops,/t/practices","Logs and Metrics and Graphs, Oh My!",http://blog.raintank.io/logs-and-metrics-and-graphs-oh-my/,/u/bbrazil,2
+0,2016-01-05 10:15:14 -0600,"/t/programming,/t/testing",Getting to Zero Exceptions,http://yellerapp.com/posts/2015-06-01-getting-to-exception-zero.html,/u/craigstuntz,6
+0,2016-01-05 18:17:06 -0600,/t/practices,Why a simple spreadsheet spread like wildfire - the origins of VisiCalc,http://www.theguardian.com/commentisfree/2016/jan/03/visicalc-software-first-killer-app-john-naughton,/u/calvin,2
+0,2016-01-05 11:39:15 -0600,"/t/cryptocurrencies,/t/culture,/t/distributed",On the dangers of a blockchain monoculture,https://tonyarcieri.com/on-the-dangers-of-a-blockchain-monoculture,/u/bascule,5
+0,2016-01-05 10:57:36 -0600,"/t/programming,/t/release","Basekernel: a simple operating system kernel for research, teaching, and fun",https://github.com/dthain/basekernel,/u/pushcx,5
+0,2016-01-05 10:15:16 -0600,/t/reversing,My Favorite Debug Ever,http://ryan.hypnoticocelot.com/post/136617949294/my-favorite-debug-ever,/u/pushcx,5
+0,2016-01-05 13:16:50 -0600,/t/api,"Improving Your API Conversations with Hypermedia, ETags, and Real-Time APIs",http://launchany.com/extending-your-api-conversations/,/u/jitterted,3
+13,2016-01-04 15:43:01 -0600,/t/cogsci,The concept of different “learning styles” is one of the greatest neuroscience myths,http://qz.com/585143/the-concept-of-different-learning-styles-is-one-of-the-greatest-neuroscience-myths/,/u/pushcx,18
+8,2016-01-04 08:58:00 -0600,"/t/databases,/t/distributed",Jepsen: RethinkDB 2.1.5,http://aphyr.com/posts/329-jepsen-rethinkdb-2-1-5,/u/uggedal,47
+0,2016-01-05 07:26:34 -0600,/t/release,BitBar - lets you put the output from any script/program in your Mac OS X Menu Bar.,https://github.com/matryer/bitbar,/u/355E3B,6
+0,2016-01-05 09:40:23 -0600,/t/visualization,Simulating The Word (In Emoji),http://ncase.me/simulating/,/u/pushcx,4
+1,2016-01-05 07:37:12 -0600,/t/python,Refactoring a Crossword Game Program,http://nbviewer.ipython.org/url/norvig.com/ipython/Scrabble.ipynb,/u/pushcx,4
+1,2016-01-05 16:24:42 -0600,"/t/api,/t/satire,/t/web",HTTP Status Cats API,https://http.cat/,/u/friendlysock,3

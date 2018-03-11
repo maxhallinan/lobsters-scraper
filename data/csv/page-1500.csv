@@ -1,25 +1,25 @@
-2,2013-02-18 01:03:38 -0600,['/t/meta'],Tell Lobsters: HN is down,/s/tenobq/tell_lobsters_hn_is_down,/u/kb,3
-0,2013-02-16 19:31:10 -0600,"['/t/show', '/t/security', '/t/web']",Twitframe - Embed Tweets in an iframe,https://twitframe.com/,/u/jcs,5
-3,2013-02-16 15:10:28 -0600,"['/t/networking', '/t/security']","There's No Protection In High Ports Anymore, Son. If Indeed There Ever Was.",http://bsdly.blogspot.com/2013/02/theres-no-protection-in-high-ports.html,/u/jcs,5
-2,2013-02-15 09:03:08 -0600,['/t/c'],Duke Nukem 3D Code Review,http://fabiensanglard.net/duke3d/index.php,/u/jcs,9
-0,2013-02-15 09:36:19 -0600,"['/t/c', '/t/ios', '/t/ruby']",FFI: Foreign Function Interfaces for Fun & Industry,http://spin.atomicobject.com/2013/02/15/ffi-foreign-function-interfaces/,/u/silentbicycle,4
-0,2013-02-15 13:20:35 -0600,['/t/javascript'],Peer Dependencies in nodejs,http://domenic.me/2013/02/08/peer-dependencies,/u/dansitu,2
-0,2013-02-14 13:46:58 -0600,"['/t/event', '/t/security']",Password Hashing Competition,https://password-hashing.net/,/u/jcs,7
-0,2013-02-14 18:58:35 -0600,"['/t/law', '/t/web']",Looks like CISPA is Back.,https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048,/u/kusuriya,3
-0,2013-02-14 13:16:46 -0600,"['/t/databases', '/t/scaling']",Netflix Queue: Data migration for a high volume web application,http://techblog.netflix.com/2013/02/netflix-queue-data-migration-for-high.html,/u/jcs,3
-2,2013-02-14 01:01:03 -0600,['/t/show'],[Show lobste.rs] domainregret.com is a safe way to cash out on those old domains,https://domainregret.com,/u/readevalprint,8
-0,2013-02-14 12:32:30 -0600,['/t/javascript'],PeerJS - Peer-to-peer data in the web browser,http://peerjs.com/,/u/sridatta,1
-0,2013-02-13 23:23:57 -0600,"['/t/mobile', '/t/security']",Silent Circle releases source code to encrypted phone and text messaging apps,https://github.com/SilentCircle,/u/jcs,4
-0,2013-02-13 22:51:04 -0600,"['/t/mobile', '/t/reversing', '/t/security']",From USR to SVC: Dissecting the 'evasi0n' Kernel Exploit,http://blog.azimuthsecurity.com/2013/02/from-usr-to-svc-dissecting-evasi0n.html,/u/jcs,3
-0,2013-02-13 05:47:17 -0600,['/t/browsers'],Opera gears up for webkit,http://www.opera.com/press/releases/2013/02/13/,/u/kusuriya,12
-0,2013-02-13 11:50:20 -0600,['/t/databases'],"How I work with Postgres – psql, My PostgreSQL Admin",http://craigkerstiens.com/2013/02/13/How-I-Work-With-Postgres/,/u/rob,5
-0,2013-02-12 13:43:48 -0600,['/t/scala'],A new backend and optimizer for scalac,http://magarciaepfl.github.com/scala/,/u/tobym,4
-0,2013-02-12 19:59:28 -0600,['/t/practices'],Managers as Curators,http://marktattersall.com/2013/02/managers-as-curators/,/u/mtattersall,1
-0,2013-02-12 19:41:20 -0600,"['/t/video', '/t/networking']","Susan Crawford on Why U.S. Internet Access is Slow, Costly, and Unfair on Vimeo",http://vimeo.com/59236702,/u/kusuriya,1
-0,2013-02-12 10:18:13 -0600,"['/t/person', '/t/ruby']",Laurent Sansonetti on RubyMotion Internals,http://rubysource.com/laurent-sansonetti-on-rubymotion-internals/,/u/jcs,2
-1,2013-02-11 21:42:39 -0600,"['/t/ruby', '/t/security']","Rails 3.2.12, 3.1.11, and 2.3.17 have been released",http://weblog.rubyonrails.org/2013/2/11/SEC-ANN-Rails-3-2-12-3-1-11-and-2-3-17-have-been-released/,/u/jcs,5
-0,2013-02-11 13:52:54 -0600,['/t/javascript'],CoffeeScript Ristretto Online,http://ristrettolo.gy,/u/raganwald,11
-0,2013-02-11 17:41:55 -0600,['/t/assembly'],Manually creating an ELF executable,http://www.negrebskoh.net/howto/howto_elf_exec.html,/u/kyle,5
-0,2013-02-11 11:19:05 -0600,['/t/hardware'],Where USB Memory Sticks are Born,http://www.bunniestudios.com/blog/?p=2946,/u/jcs,5
-0,2013-02-11 14:54:27 -0600,"['/t/ruby', '/t/web']",Rails Security Monitor - Code Climate,https://codeclimate.com/security-monitor,/u/karlfreeman,3
-0,2013-02-11 11:25:13 -0600,"['/t/c', '/t/linux']",Glibc and the kernel user-space API,https://lwn.net/Articles/534682/,/u/kyle,3
+2,2013-02-18 01:03:38 -0600,/t/meta,Tell Lobsters: HN is down,/s/tenobq/tell_lobsters_hn_is_down,/u/kb,3
+0,2013-02-16 19:31:10 -0600,"/t/show,/t/security,/t/web",Twitframe - Embed Tweets in an iframe,https://twitframe.com/,/u/jcs,5
+3,2013-02-16 15:10:28 -0600,"/t/networking,/t/security","There's No Protection In High Ports Anymore, Son. If Indeed There Ever Was.",http://bsdly.blogspot.com/2013/02/theres-no-protection-in-high-ports.html,/u/jcs,5
+2,2013-02-15 09:03:08 -0600,/t/c,Duke Nukem 3D Code Review,http://fabiensanglard.net/duke3d/index.php,/u/jcs,9
+0,2013-02-15 09:36:19 -0600,"/t/c,/t/ios,/t/ruby",FFI: Foreign Function Interfaces for Fun & Industry,http://spin.atomicobject.com/2013/02/15/ffi-foreign-function-interfaces/,/u/silentbicycle,4
+0,2013-02-15 13:20:35 -0600,/t/javascript,Peer Dependencies in nodejs,http://domenic.me/2013/02/08/peer-dependencies,/u/dansitu,2
+0,2013-02-14 13:46:58 -0600,"/t/event,/t/security",Password Hashing Competition,https://password-hashing.net/,/u/jcs,7
+0,2013-02-14 18:58:35 -0600,"/t/law,/t/web",Looks like CISPA is Back.,https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048,/u/kusuriya,3
+0,2013-02-14 13:16:46 -0600,"/t/databases,/t/scaling",Netflix Queue: Data migration for a high volume web application,http://techblog.netflix.com/2013/02/netflix-queue-data-migration-for-high.html,/u/jcs,3
+2,2013-02-14 01:01:03 -0600,/t/show,[Show lobste.rs] domainregret.com is a safe way to cash out on those old domains,https://domainregret.com,/u/readevalprint,8
+0,2013-02-14 12:32:30 -0600,/t/javascript,PeerJS - Peer-to-peer data in the web browser,http://peerjs.com/,/u/sridatta,1
+0,2013-02-13 23:23:57 -0600,"/t/mobile,/t/security",Silent Circle releases source code to encrypted phone and text messaging apps,https://github.com/SilentCircle,/u/jcs,4
+0,2013-02-13 22:51:04 -0600,"/t/mobile,/t/reversing,/t/security",From USR to SVC: Dissecting the 'evasi0n' Kernel Exploit,http://blog.azimuthsecurity.com/2013/02/from-usr-to-svc-dissecting-evasi0n.html,/u/jcs,3
+0,2013-02-13 05:47:17 -0600,/t/browsers,Opera gears up for webkit,http://www.opera.com/press/releases/2013/02/13/,/u/kusuriya,12
+0,2013-02-13 11:50:20 -0600,/t/databases,"How I work with Postgres – psql, My PostgreSQL Admin",http://craigkerstiens.com/2013/02/13/How-I-Work-With-Postgres/,/u/rob,5
+0,2013-02-12 13:43:48 -0600,/t/scala,A new backend and optimizer for scalac,http://magarciaepfl.github.com/scala/,/u/tobym,4
+0,2013-02-12 19:59:28 -0600,/t/practices,Managers as Curators,http://marktattersall.com/2013/02/managers-as-curators/,/u/mtattersall,1
+0,2013-02-12 19:41:20 -0600,"/t/video,/t/networking","Susan Crawford on Why U.S. Internet Access is Slow, Costly, and Unfair on Vimeo",http://vimeo.com/59236702,/u/kusuriya,1
+0,2013-02-12 10:18:13 -0600,"/t/person,/t/ruby",Laurent Sansonetti on RubyMotion Internals,http://rubysource.com/laurent-sansonetti-on-rubymotion-internals/,/u/jcs,2
+1,2013-02-11 21:42:39 -0600,"/t/ruby,/t/security","Rails 3.2.12, 3.1.11, and 2.3.17 have been released",http://weblog.rubyonrails.org/2013/2/11/SEC-ANN-Rails-3-2-12-3-1-11-and-2-3-17-have-been-released/,/u/jcs,5
+0,2013-02-11 13:52:54 -0600,/t/javascript,CoffeeScript Ristretto Online,http://ristrettolo.gy,/u/raganwald,11
+0,2013-02-11 17:41:55 -0600,/t/assembly,Manually creating an ELF executable,http://www.negrebskoh.net/howto/howto_elf_exec.html,/u/kyle,5
+0,2013-02-11 11:19:05 -0600,/t/hardware,Where USB Memory Sticks are Born,http://www.bunniestudios.com/blog/?p=2946,/u/jcs,5
+0,2013-02-11 14:54:27 -0600,"/t/ruby,/t/web",Rails Security Monitor - Code Climate,https://codeclimate.com/security-monitor,/u/karlfreeman,3
+0,2013-02-11 11:25:13 -0600,"/t/c,/t/linux",Glibc and the kernel user-space API,https://lwn.net/Articles/534682/,/u/kyle,3

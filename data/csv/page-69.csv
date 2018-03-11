@@ -1,25 +1,25 @@
-0,2018-01-06 13:00:10 -0600,"['/t/reversing', '/t/security', '/t/windows']",The Inside Story Behind MS08-067,https://blogs.technet.microsoft.com/johnla/2015/09/26/the-inside-story-behind-ms08-067/,/u/timetoplatypus,4
-1,2018-01-06 12:57:56 -0600,"['/t/databases', '/t/python']",Full-Text Search in Django with PostgreSQL,http://www.paulox.net/2017/12/22/full-text-search-in-django-with-postgresql/,/u/av,3
-0,2018-01-05 12:47:33 -0600,"['/t/dragonflybsd', '/t/programming', '/t/security']",Meltdown and Spectre and DragonFly,https://www.dragonflydigest.com/2018/01/05/20672.html,/u/fupjack,29
-0,2018-01-05 19:20:50 -0600,"['/t/compsci', '/t/lisp']",Racket-on-Chez Status: January 2018,http://blog.racket-lang.org/2018/01/racket-on-chez-status.html,/u/jturner,23
-0,2018-01-06 03:42:20 -0600,['/t/clojure'],Git Deps for Clojure,https://clojure.org/news/2018/01/05/git-deps,/u/a4j,8
-2,2018-01-05 21:04:23 -0600,"['/t/historical', '/t/unix']",A Brief History of sed,https://blog.sourcerer.io/a-brief-history-of-sed-6eaf00302ed,/u/calvin,15
-3,2018-01-05 09:46:31 -0600,"['/t/devops', '/t/security']","Spectre-on-Kubernetes, a proof of concept",https://medium.com/@mhausenblas/spectre-on-kubernetes-a-proof-of-concept-baade68284f8,/u/mhausenblas,19
-1,2018-01-06 09:07:45 -0600,"['/t/compsci', '/t/distributed', '/t/programming', '/t/security']","SafeFS: Secure, Modular, Customizable, Software-Defined Filesystem (2016)",https://github.com/safecloud-project/safefs,/u/nickpsecurity,3
-0,2018-01-06 04:42:40 -0600,['/t/scala'],Stainless Scala - verification framework,https://github.com/epfl-lara/stainless,/u/puffnfresh,4
-0,2018-01-06 12:00:27 -0600,['/t/programming'],Year in Review: 2017 Highlights from Uber Open Source,https://eng.uber.com/2017-open-source/,/u/Dawny33,1
-2,2018-01-05 13:53:18 -0600,"['/t/dragonflybsd', '/t/security']",Intel Meltdown bug mitigation in master,http://lists.dragonflybsd.org/pipermail/users/2018-January/313758.html,/u/cnst,16
-0,2018-01-05 20:53:10 -0600,"['/t/c', '/t/c++', '/t/programming']",OpenMP Little Book,https://www.gitbook.com/book/nanxiao/openmp-little-book/details,/u/nanxiao,4
-0,2018-01-05 22:38:17 -0600,"['/t/audio', '/t/rust']",New Rustacean – News: Rust 1.23,http://www.newrustacean.com/show_notes/news/rust_1_23/index.html,/u/chriskrycho,3
-3,2018-01-05 17:22:32 -0600,['/t/security'],"Mainframes, An Overlooked Cyber Attack Target",https://www.peerlyst.com/posts/mainframes-an-overlooked-cyber-attack-target-part-two-kimberly-crawley,/u/GeoffWozniak,5
-0,2018-01-05 18:56:57 -0600,"['/t/haskell', '/t/vim']",Neovim for Haskell Development,https://mendo.zone/fun/neovim-setup-haskell/,/u/pushcx,7
-1,2018-01-05 13:46:16 -0600,"['/t/pdf', '/t/security']",Intel Analysis of Speculative Execution Side Channels,https://newsroom.intel.com/wp-content/uploads/sites/11/2018/01/Intel-Analysis-of-Speculative-Execution-Side-Channels.pdf,/u/stephenjudkins,8
-0,2018-01-05 19:21:54 -0600,"['/t/pdf', '/t/compsci', '/t/hardware', '/t/programming', '/t/security']","Robust and Efficient Elimination of Cache and Timing, Side Channels (2015)",https://arxiv.org/pdf/1506.00189.pdf,/u/nickpsecurity,6
-0,2018-01-05 14:59:42 -0600,['/t/databases'],The State of VACUUM in Postgres,http://rhaas.blogspot.com/2018/01/the-state-of-vacuum.html,/u/craigkerstiens,10
-2,2018-01-05 16:38:49 -0600,"['/t/devops', '/t/performance']",Scaling your monorepo for an efficient CI,http://alexrs.me/2018/shopify-monorepo/,/u/alejandro,3
-64,2018-01-04 15:15:43 -0600,"['/t/ask', '/t/programming']",What is annoying about certain build systems?,/s/5ms7mb/what_is_annoying_about_certain_build,/u/qznc,35
-0,2018-01-05 14:35:07 -0600,"['/t/hardware', '/t/security']",AMD-PSP: fTPM Remote Code Execution via crafted EK certificate,http://seclists.org/fulldisclosure/2018/Jan/12,/u/fcambus,9
-25,2018-01-04 19:56:11 -0600,"['/t/ask', '/t/book']",Off-Topic Reading Recommendations,/s/vus2zq/off_topic_reading_recommendations,/u/aleph,18
-1,2018-01-05 07:21:35 -0600,['/t/debugging'],How does gdb call functions?,https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/,/u/calvin,12
-21,2018-01-04 15:14:25 -0600,"['/t/hardware', '/t/programming']",LKML: Linus Torvalds: Re: Avoid speculative indirect calls in kernel,https://lkml.org/lkml/2018/1/3/797,/u/Yogthos,42
-0,2018-01-05 20:14:31 -0600,"['/t/dotnet', '/t/plt']",One equality operator to rule them all,https://mzabani.wordpress.com/2018/01/02/one-equality-operator-to-rule-them-all/,/u/calvin,3
+0,2018-01-06 13:00:10 -0600,"/t/reversing,/t/security,/t/windows",The Inside Story Behind MS08-067,https://blogs.technet.microsoft.com/johnla/2015/09/26/the-inside-story-behind-ms08-067/,/u/timetoplatypus,4
+1,2018-01-06 12:57:56 -0600,"/t/databases,/t/python",Full-Text Search in Django with PostgreSQL,http://www.paulox.net/2017/12/22/full-text-search-in-django-with-postgresql/,/u/av,3
+0,2018-01-05 12:47:33 -0600,"/t/dragonflybsd,/t/programming,/t/security",Meltdown and Spectre and DragonFly,https://www.dragonflydigest.com/2018/01/05/20672.html,/u/fupjack,29
+0,2018-01-05 19:20:50 -0600,"/t/compsci,/t/lisp",Racket-on-Chez Status: January 2018,http://blog.racket-lang.org/2018/01/racket-on-chez-status.html,/u/jturner,23
+0,2018-01-06 03:42:20 -0600,/t/clojure,Git Deps for Clojure,https://clojure.org/news/2018/01/05/git-deps,/u/a4j,8
+2,2018-01-05 21:04:23 -0600,"/t/historical,/t/unix",A Brief History of sed,https://blog.sourcerer.io/a-brief-history-of-sed-6eaf00302ed,/u/calvin,15
+3,2018-01-05 09:46:31 -0600,"/t/devops,/t/security","Spectre-on-Kubernetes, a proof of concept",https://medium.com/@mhausenblas/spectre-on-kubernetes-a-proof-of-concept-baade68284f8,/u/mhausenblas,19
+1,2018-01-06 09:07:45 -0600,"/t/compsci,/t/distributed,/t/programming,/t/security","SafeFS: Secure, Modular, Customizable, Software-Defined Filesystem (2016)",https://github.com/safecloud-project/safefs,/u/nickpsecurity,3
+0,2018-01-06 04:42:40 -0600,/t/scala,Stainless Scala - verification framework,https://github.com/epfl-lara/stainless,/u/puffnfresh,4
+0,2018-01-06 12:00:27 -0600,/t/programming,Year in Review: 2017 Highlights from Uber Open Source,https://eng.uber.com/2017-open-source/,/u/Dawny33,1
+2,2018-01-05 13:53:18 -0600,"/t/dragonflybsd,/t/security",Intel Meltdown bug mitigation in master,http://lists.dragonflybsd.org/pipermail/users/2018-January/313758.html,/u/cnst,16
+0,2018-01-05 20:53:10 -0600,"/t/c,/t/c++,/t/programming",OpenMP Little Book,https://www.gitbook.com/book/nanxiao/openmp-little-book/details,/u/nanxiao,4
+0,2018-01-05 22:38:17 -0600,"/t/audio,/t/rust",New Rustacean – News: Rust 1.23,http://www.newrustacean.com/show_notes/news/rust_1_23/index.html,/u/chriskrycho,3
+3,2018-01-05 17:22:32 -0600,/t/security,"Mainframes, An Overlooked Cyber Attack Target",https://www.peerlyst.com/posts/mainframes-an-overlooked-cyber-attack-target-part-two-kimberly-crawley,/u/GeoffWozniak,5
+0,2018-01-05 18:56:57 -0600,"/t/haskell,/t/vim",Neovim for Haskell Development,https://mendo.zone/fun/neovim-setup-haskell/,/u/pushcx,7
+1,2018-01-05 13:46:16 -0600,"/t/pdf,/t/security",Intel Analysis of Speculative Execution Side Channels,https://newsroom.intel.com/wp-content/uploads/sites/11/2018/01/Intel-Analysis-of-Speculative-Execution-Side-Channels.pdf,/u/stephenjudkins,8
+0,2018-01-05 19:21:54 -0600,"/t/pdf,/t/compsci,/t/hardware,/t/programming,/t/security","Robust and Efficient Elimination of Cache and Timing, Side Channels (2015)",https://arxiv.org/pdf/1506.00189.pdf,/u/nickpsecurity,6
+0,2018-01-05 14:59:42 -0600,/t/databases,The State of VACUUM in Postgres,http://rhaas.blogspot.com/2018/01/the-state-of-vacuum.html,/u/craigkerstiens,10
+2,2018-01-05 16:38:49 -0600,"/t/devops,/t/performance",Scaling your monorepo for an efficient CI,http://alexrs.me/2018/shopify-monorepo/,/u/alejandro,3
+64,2018-01-04 15:15:43 -0600,"/t/ask,/t/programming",What is annoying about certain build systems?,/s/5ms7mb/what_is_annoying_about_certain_build,/u/qznc,35
+0,2018-01-05 14:35:07 -0600,"/t/hardware,/t/security",AMD-PSP: fTPM Remote Code Execution via crafted EK certificate,http://seclists.org/fulldisclosure/2018/Jan/12,/u/fcambus,9
+25,2018-01-04 19:56:11 -0600,"/t/ask,/t/book",Off-Topic Reading Recommendations,/s/vus2zq/off_topic_reading_recommendations,/u/aleph,18
+1,2018-01-05 07:21:35 -0600,/t/debugging,How does gdb call functions?,https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/,/u/calvin,12
+21,2018-01-04 15:14:25 -0600,"/t/hardware,/t/programming",LKML: Linus Torvalds: Re: Avoid speculative indirect calls in kernel,https://lkml.org/lkml/2018/1/3/797,/u/Yogthos,42
+0,2018-01-05 20:14:31 -0600,"/t/dotnet,/t/plt",One equality operator to rule them all,https://mzabani.wordpress.com/2018/01/02/one-equality-operator-to-rule-them-all/,/u/calvin,3

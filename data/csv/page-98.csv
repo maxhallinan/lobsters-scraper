@@ -1,25 +1,25 @@
-10,2017-12-11 02:54:59 -0600,"['/t/ai', '/t/compsci']",The Case for Learned Index Structures,https://www.arxiv-vanity.com/papers/1712.01208v1/,/u/rauyran,26
-3,2017-12-11 17:05:19 -0600,['/t/math'],Fun With Random Numbers: Random Projection,http://jasonpunyon.com/blog/2017/12/02/fun-with-random-numbers-random-projection,/u/calvin,6
-8,2017-12-11 07:40:14 -0600,"['/t/haskell', '/t/java']",Unwanted Haskell triangle (2014),https://chris-martin.org/2014/unwanted-haskell-triangle,/u/pushcx,14
-44,2017-12-11 02:48:05 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/i7vjri/what_are_you_working_on_this_week,/u/caius,19
-5,2017-12-11 12:43:34 -0600,['/t/cryptocurrencies'],Parity suggests Ethereum hardfork to rescue funds locked by bug in their software,https://paritytech.io/blog/on-classes-of-stuck-ether-and-potential-solutions-2.html,/u/gerikson,6
-0,2017-12-11 12:28:09 -0600,"['/t/linux', '/t/security']",Qualys Security Advisory - Buffer overflow in glibc's ld.so,http://www.openwall.com/lists/oss-security/2017/12/11/4,/u/lattera,11
-3,2017-12-11 05:02:57 -0600,['/t/databases'],"1.1B Taxi Rides w/ BrytlytDB 2.1,a 5-node IBM Minsky Cluster & 20 Nvidia P100s",http://tech.marksblogg.com/billion-nyc-taxi-rides-brytlytdb-ibm-minsky.html,/u/marklit,8
-0,2017-12-12 05:10:59 -0600,"['/t/security', '/t/windows']",Introducing: Detection Lab,https://medium.com/@clong/introducing-detection-lab-61db34bed6ae,/u/pgl,1
-0,2017-12-11 17:11:24 -0600,"['/t/programming', '/t/release', '/t/windows']",Welcome to the Microsoft Quantum Development Kit Preview,https://docs.microsoft.com/en-us/quantum/,/u/chadski,6
-0,2017-12-12 00:43:13 -0600,"['/t/cryptocurrencies', '/t/law']",Statement on Cryptocurrencies and Initial Coin Offerings,https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11,/u/av,2
-0,2017-12-11 12:34:47 -0600,['/t/c++'],Z80 Emu Evolution,http://floooh.github.com/2017/12/10/z80-emu-evolution.html,/u/jad,9
-0,2017-12-11 18:29:14 -0600,['/t/ruby'],10 More New Features in Ruby v2.5,https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/,/u/soulcutter,4
-0,2017-12-12 02:27:53 -0600,['/t/ai'],Detecting Diseases in Chest X-ray Using Deep Learning,http://blog.paralleldots.com/research/detecting-chest-xray-diseases/,/u/Shashankg22,0
-7,2017-12-10 20:08:12 -0600,"['/t/ask', '/t/video', '/t/hardware']",The Dirty Little Secret Of Inkjet Printers,https://www.youtube.com/watch?v=ycD4XkUtbIw,/u/itistoday,19
-0,2017-12-11 19:53:39 -0600,"['/t/games', '/t/math']",The Mathematics of 2048: Counting States by Exhaustive Enumeration,http://jdlm.info/articles/2017/12/10/counting-states-enumeration-2048.html,/u/calvin,2
-37,2017-12-10 03:52:44 -0600,"['/t/compsci', '/t/practices']",Falsehoods programmers believe about programming,http://www.sicpers.info/2017/12/falsehoods-programmers-believe-about-programming/,/u/leeg,48
-0,2017-12-11 06:02:16 -0600,"['/t/javascript', '/t/web']",Vue.js Server-Side Rendering With Vue Router: Step-By-Step Guide,https://vuejsdevelopers.com/2017/12/11/vue-ssr-router/,/u/anthonygore,5
-0,2017-12-11 12:52:00 -0600,"['/t/video', '/t/compsci']",A Conjecture That Had To Be True,http://scpdweb.stanford.edu/free-stuff/live-webinars-lectures/donald-knuths-annual-christmas-lecture,/u/pushcx,4
-0,2017-12-11 21:13:46 -0600,"['/t/law', '/t/networking']",Pioneers for Net Neutrality,https://pioneersfornetneutrality.tumblr.com,/u/cnst,1
-4,2017-12-11 12:28:04 -0600,"['/t/pdf', '/t/slides', '/t/ai', '/t/compsci']",Machine Learning for Systems and Systems for Machine Learning (2017),http://learningsys.org/nips17/assets/slides/dean-nips17.pdf,/u/nickpsecurity,2
-0,2017-12-11 12:08:33 -0600,"['/t/culture', '/t/philosophy']",The Freedom to Destroy - Technologically Advanced Human,http://www.technologicallyadvancedhuman.uk/the_freedom_to_destroy.html,/u/Xylon,4
-0,2017-12-11 10:15:37 -0600,"['/t/video', '/t/hardware']",The Mill CPU Architecture – Threading (13 of 13 & more to come),https://www.youtube.com/watch?v=7KQnrOEoWEY,/u/grahamc,4
-7,2017-12-11 00:57:15 -0600,['/t/math'],"Napoleon was the Best General Ever, and the Math Proves it.",https://towardsdatascience.com/napoleon-was-the-best-general-ever-and-the-math-proves-it-86efed303eeb,/u/av,4
-1,2017-12-10 04:21:45 -0600,"['/t/hardware', '/t/person', '/t/privacy']",An Open Letter to Intel [Updated],/s/pnhzdi/open_letter_intel_updated,/u/av,34
-9,2017-12-11 03:41:39 -0600,['/t/lua'],Lua Records — PowerDNS Recursor 4.1.1-pre documentation,https://powerdns.org/auth-4.1.1-docs/lua-records.html,/u/adamo,3
+10,2017-12-11 02:54:59 -0600,"/t/ai,/t/compsci",The Case for Learned Index Structures,https://www.arxiv-vanity.com/papers/1712.01208v1/,/u/rauyran,26
+3,2017-12-11 17:05:19 -0600,/t/math,Fun With Random Numbers: Random Projection,http://jasonpunyon.com/blog/2017/12/02/fun-with-random-numbers-random-projection,/u/calvin,6
+8,2017-12-11 07:40:14 -0600,"/t/haskell,/t/java",Unwanted Haskell triangle (2014),https://chris-martin.org/2014/unwanted-haskell-triangle,/u/pushcx,14
+44,2017-12-11 02:48:05 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/i7vjri/what_are_you_working_on_this_week,/u/caius,19
+5,2017-12-11 12:43:34 -0600,/t/cryptocurrencies,Parity suggests Ethereum hardfork to rescue funds locked by bug in their software,https://paritytech.io/blog/on-classes-of-stuck-ether-and-potential-solutions-2.html,/u/gerikson,6
+0,2017-12-11 12:28:09 -0600,"/t/linux,/t/security",Qualys Security Advisory - Buffer overflow in glibc's ld.so,http://www.openwall.com/lists/oss-security/2017/12/11/4,/u/lattera,11
+3,2017-12-11 05:02:57 -0600,/t/databases,"1.1B Taxi Rides w/ BrytlytDB 2.1,a 5-node IBM Minsky Cluster & 20 Nvidia P100s",http://tech.marksblogg.com/billion-nyc-taxi-rides-brytlytdb-ibm-minsky.html,/u/marklit,8
+0,2017-12-12 05:10:59 -0600,"/t/security,/t/windows",Introducing: Detection Lab,https://medium.com/@clong/introducing-detection-lab-61db34bed6ae,/u/pgl,1
+0,2017-12-11 17:11:24 -0600,"/t/programming,/t/release,/t/windows",Welcome to the Microsoft Quantum Development Kit Preview,https://docs.microsoft.com/en-us/quantum/,/u/chadski,6
+0,2017-12-12 00:43:13 -0600,"/t/cryptocurrencies,/t/law",Statement on Cryptocurrencies and Initial Coin Offerings,https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11,/u/av,2
+0,2017-12-11 12:34:47 -0600,/t/c++,Z80 Emu Evolution,http://floooh.github.com/2017/12/10/z80-emu-evolution.html,/u/jad,9
+0,2017-12-11 18:29:14 -0600,/t/ruby,10 More New Features in Ruby v2.5,https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/,/u/soulcutter,4
+0,2017-12-12 02:27:53 -0600,/t/ai,Detecting Diseases in Chest X-ray Using Deep Learning,http://blog.paralleldots.com/research/detecting-chest-xray-diseases/,/u/Shashankg22,0
+7,2017-12-10 20:08:12 -0600,"/t/ask,/t/video,/t/hardware",The Dirty Little Secret Of Inkjet Printers,https://www.youtube.com/watch?v=ycD4XkUtbIw,/u/itistoday,19
+0,2017-12-11 19:53:39 -0600,"/t/games,/t/math",The Mathematics of 2048: Counting States by Exhaustive Enumeration,http://jdlm.info/articles/2017/12/10/counting-states-enumeration-2048.html,/u/calvin,2
+37,2017-12-10 03:52:44 -0600,"/t/compsci,/t/practices",Falsehoods programmers believe about programming,http://www.sicpers.info/2017/12/falsehoods-programmers-believe-about-programming/,/u/leeg,48
+0,2017-12-11 06:02:16 -0600,"/t/javascript,/t/web",Vue.js Server-Side Rendering With Vue Router: Step-By-Step Guide,https://vuejsdevelopers.com/2017/12/11/vue-ssr-router/,/u/anthonygore,5
+0,2017-12-11 12:52:00 -0600,"/t/video,/t/compsci",A Conjecture That Had To Be True,http://scpdweb.stanford.edu/free-stuff/live-webinars-lectures/donald-knuths-annual-christmas-lecture,/u/pushcx,4
+0,2017-12-11 21:13:46 -0600,"/t/law,/t/networking",Pioneers for Net Neutrality,https://pioneersfornetneutrality.tumblr.com,/u/cnst,1
+4,2017-12-11 12:28:04 -0600,"/t/pdf,/t/slides,/t/ai,/t/compsci",Machine Learning for Systems and Systems for Machine Learning (2017),http://learningsys.org/nips17/assets/slides/dean-nips17.pdf,/u/nickpsecurity,2
+0,2017-12-11 12:08:33 -0600,"/t/culture,/t/philosophy",The Freedom to Destroy - Technologically Advanced Human,http://www.technologicallyadvancedhuman.uk/the_freedom_to_destroy.html,/u/Xylon,4
+0,2017-12-11 10:15:37 -0600,"/t/video,/t/hardware",The Mill CPU Architecture – Threading (13 of 13 & more to come),https://www.youtube.com/watch?v=7KQnrOEoWEY,/u/grahamc,4
+7,2017-12-11 00:57:15 -0600,/t/math,"Napoleon was the Best General Ever, and the Math Proves it.",https://towardsdatascience.com/napoleon-was-the-best-general-ever-and-the-math-proves-it-86efed303eeb,/u/av,4
+1,2017-12-10 04:21:45 -0600,"/t/hardware,/t/person,/t/privacy",An Open Letter to Intel [Updated],/s/pnhzdi/open_letter_intel_updated,/u/av,34
+9,2017-12-11 03:41:39 -0600,/t/lua,Lua Records — PowerDNS Recursor 4.1.1-pre documentation,https://powerdns.org/auth-4.1.1-docs/lua-records.html,/u/adamo,3

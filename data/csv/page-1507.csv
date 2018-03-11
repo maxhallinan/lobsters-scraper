@@ -1,25 +1,25 @@
-1,2013-01-14 18:47:38 -0600,"['/t/compsci', '/t/databases']",You Can’t Sacrifice Partition Tolerance (2010),http://codahale.com/you-cant-sacrifice-partition-tolerance/,/u/polyfractal,3
-1,2013-01-14 13:19:24 -0600,"['/t/video', '/t/hardware', '/t/security']",Hardware-based Full Disk Encryption (In)Security,https://www1.cs.fau.de/sed,/u/jcs,3
-0,2013-01-14 16:47:35 -0600,"['/t/freebsd', '/t/openbsd', '/t/unix']",BSDA Recertification Requirements Published,http://www.bsdcertification.org/news/bsda-recertification-requirements-published,/u/lynge,3
-0,2013-01-14 10:11:43 -0600,"['/t/compsci', '/t/rant']",The First Time Programming Scared Me,http://spin.atomicobject.com/2013/01/14/first-time-programming-scared-me/,/u/silentbicycle,5
-4,2013-01-14 08:06:25 -0600,['/t/meta'],Reflections on tags in Lobste.rs,/s/u9cgsf/reflections_on_tags_lobste_rs,/u/riffraff,6
-0,2013-01-13 21:45:23 -0600,"['/t/practices', '/t/security', '/t/web']",GitHub team management and repo security,http://fromonesrc.com/blog/2013/01/12/github-team-management-and-repo-security/,/u/fromonesrc,5
-0,2013-01-14 06:35:58 -0600,['/t/compsci'],Graph Traversal: solving the 8-puzzle with basic A.I.,http://6brand.com/solving-8-puzzle-with-artificial-intelligence.html,/u/tundal45,1
-0,2013-01-13 12:50:26 -0600,"['/t/c', '/t/compsci', '/t/scaling']","Learning C, reducing fear",https://michaelochurch.wordpress.com/2013/01/13/learning-c-reducing-fear/,/u/silentbicycle,5
-1,2013-01-13 14:43:59 -0600,['/t/ruby'],Unit Testing Correctly,http://sethvargo.com/20130112/unit-testing-correctly/,/u/sethvargo,2
-0,2013-01-13 14:44:21 -0600,"['/t/devops', '/t/ruby']",Unit Testing Chef Cookbooks,http://sethvargo.com/20130113/unit-testing-chef-cookbooks/,/u/sethvargo,2
-0,2013-01-13 17:14:12 -0600,['/t/openbsd'],Binary patches with BinpatchNG,http://www.undeadly.org/cgi?action=article&sid=20130113185003,/u/kyle,1
-0,2013-01-12 16:27:55 -0600,"['/t/news', '/t/person']","Aaron Swartz, Internet Activist, Dies at 26 - NYTimes.com",http://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html,/u/erichmenge,18
-0,2013-01-12 00:38:15 -0600,"['/t/browsers', '/t/javascript']",Gmail and the GC — Joys of JavaScript,https://medium.com/joys-of-javascript/6b1ea3ffca45,/u/jcs,9
-2,2013-01-11 18:19:07 -0600,"['/t/release', '/t/ruby', '/t/security']",Brakeman - Rails Security Scanner,http://brakemanscanner.org/,/u/jcs,8
-0,2013-01-12 00:53:57 -0600,['/t/haskell'],Getting Started with Haskell,http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/,/u/bob,2
-0,2013-01-11 11:15:32 -0600,"['/t/browsers', '/t/security', '/t/web']",An Introduction to Mozilla Persona,http://davidwalsh.name/introduction-persona,/u/dansitu,5
-0,2013-01-11 11:04:56 -0600,"['/t/design', '/t/web']",A better scrolling solution,http://www.magicscroll.net/ScrollTheWeb.html,/u/JoelMcCracken,5
-0,2013-01-11 14:40:02 -0600,['/t/ruby'],How to decrease coupling in your controllers & views with decent_exposure for better maintainability,http://blog.remarkablelabs.com/2013/01/how-to-decrease-coupling-in-your-controllers-views-with-decent_exposure-for-better-maintainability,/u/jcs,2
-0,2013-01-11 17:33:22 -0600,"['/t/pdf', '/t/assembly', '/t/java', '/t/reversing']",Java MBeanInstantiator.findClass 0Day Analysis,https://partners.immunityinc.com/idocs/Java%20MBeanInstantiator.findClass%200day%20Analysis.pdf,/u/jcs,1
-0,2013-01-11 03:05:46 -0600,"['/t/api', '/t/web']",Should HTTP clients include a default user agent?,https://github.com/joyent/node/issues/4552,/u/kb,4
-0,2013-01-11 09:35:51 -0600,"['/t/javascript', '/t/web']",Node.js Websocket Hosting Roundup,http://saewitz.com/node-dot-js-websocket-hosting-roundup,/u/janogonzalez,1
-0,2013-01-10 10:58:34 -0600,['/t/c'],The Unreasonable Effectiveness of C,http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html,/u/kyle,12
-0,2013-01-10 10:23:33 -0600,"['/t/scaling', '/t/web']",Just how big are porn sites? (SFW),http://www.extremetech.com/computing/123929-just-how-big-are-porn-sites,/u/tobym,8
-0,2013-01-10 11:27:42 -0600,['/t/c'],DTrace and the little ustack helper that could,http://blog.indutny.com/3.dtrace-ustack-helper,/u/indutny,4
-2,2013-01-10 15:21:24 -0600,"['/t/go', '/t/web']",gorefit - A Go library for theming websites,http://code.google.com/p/gorefit,/u/alek,1
+1,2013-01-14 18:47:38 -0600,"/t/compsci,/t/databases",You Can’t Sacrifice Partition Tolerance (2010),http://codahale.com/you-cant-sacrifice-partition-tolerance/,/u/polyfractal,3
+1,2013-01-14 13:19:24 -0600,"/t/video,/t/hardware,/t/security",Hardware-based Full Disk Encryption (In)Security,https://www1.cs.fau.de/sed,/u/jcs,3
+0,2013-01-14 16:47:35 -0600,"/t/freebsd,/t/openbsd,/t/unix",BSDA Recertification Requirements Published,http://www.bsdcertification.org/news/bsda-recertification-requirements-published,/u/lynge,3
+0,2013-01-14 10:11:43 -0600,"/t/compsci,/t/rant",The First Time Programming Scared Me,http://spin.atomicobject.com/2013/01/14/first-time-programming-scared-me/,/u/silentbicycle,5
+4,2013-01-14 08:06:25 -0600,/t/meta,Reflections on tags in Lobste.rs,/s/u9cgsf/reflections_on_tags_lobste_rs,/u/riffraff,6
+0,2013-01-13 21:45:23 -0600,"/t/practices,/t/security,/t/web",GitHub team management and repo security,http://fromonesrc.com/blog/2013/01/12/github-team-management-and-repo-security/,/u/fromonesrc,5
+0,2013-01-14 06:35:58 -0600,/t/compsci,Graph Traversal: solving the 8-puzzle with basic A.I.,http://6brand.com/solving-8-puzzle-with-artificial-intelligence.html,/u/tundal45,1
+0,2013-01-13 12:50:26 -0600,"/t/c,/t/compsci,/t/scaling","Learning C, reducing fear",https://michaelochurch.wordpress.com/2013/01/13/learning-c-reducing-fear/,/u/silentbicycle,5
+1,2013-01-13 14:43:59 -0600,/t/ruby,Unit Testing Correctly,http://sethvargo.com/20130112/unit-testing-correctly/,/u/sethvargo,2
+0,2013-01-13 14:44:21 -0600,"/t/devops,/t/ruby",Unit Testing Chef Cookbooks,http://sethvargo.com/20130113/unit-testing-chef-cookbooks/,/u/sethvargo,2
+0,2013-01-13 17:14:12 -0600,/t/openbsd,Binary patches with BinpatchNG,http://www.undeadly.org/cgi?action=article&sid=20130113185003,/u/kyle,1
+0,2013-01-12 16:27:55 -0600,"/t/news,/t/person","Aaron Swartz, Internet Activist, Dies at 26 - NYTimes.com",http://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html,/u/erichmenge,18
+0,2013-01-12 00:38:15 -0600,"/t/browsers,/t/javascript",Gmail and the GC — Joys of JavaScript,https://medium.com/joys-of-javascript/6b1ea3ffca45,/u/jcs,9
+2,2013-01-11 18:19:07 -0600,"/t/release,/t/ruby,/t/security",Brakeman - Rails Security Scanner,http://brakemanscanner.org/,/u/jcs,8
+0,2013-01-12 00:53:57 -0600,/t/haskell,Getting Started with Haskell,http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/,/u/bob,2
+0,2013-01-11 11:15:32 -0600,"/t/browsers,/t/security,/t/web",An Introduction to Mozilla Persona,http://davidwalsh.name/introduction-persona,/u/dansitu,5
+0,2013-01-11 11:04:56 -0600,"/t/design,/t/web",A better scrolling solution,http://www.magicscroll.net/ScrollTheWeb.html,/u/JoelMcCracken,5
+0,2013-01-11 14:40:02 -0600,/t/ruby,How to decrease coupling in your controllers & views with decent_exposure for better maintainability,http://blog.remarkablelabs.com/2013/01/how-to-decrease-coupling-in-your-controllers-views-with-decent_exposure-for-better-maintainability,/u/jcs,2
+0,2013-01-11 17:33:22 -0600,"/t/pdf,/t/assembly,/t/java,/t/reversing",Java MBeanInstantiator.findClass 0Day Analysis,https://partners.immunityinc.com/idocs/Java%20MBeanInstantiator.findClass%200day%20Analysis.pdf,/u/jcs,1
+0,2013-01-11 03:05:46 -0600,"/t/api,/t/web",Should HTTP clients include a default user agent?,https://github.com/joyent/node/issues/4552,/u/kb,4
+0,2013-01-11 09:35:51 -0600,"/t/javascript,/t/web",Node.js Websocket Hosting Roundup,http://saewitz.com/node-dot-js-websocket-hosting-roundup,/u/janogonzalez,1
+0,2013-01-10 10:58:34 -0600,/t/c,The Unreasonable Effectiveness of C,http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html,/u/kyle,12
+0,2013-01-10 10:23:33 -0600,"/t/scaling,/t/web",Just how big are porn sites? (SFW),http://www.extremetech.com/computing/123929-just-how-big-are-porn-sites,/u/tobym,8
+0,2013-01-10 11:27:42 -0600,/t/c,DTrace and the little ustack helper that could,http://blog.indutny.com/3.dtrace-ustack-helper,/u/indutny,4
+2,2013-01-10 15:21:24 -0600,"/t/go,/t/web",gorefit - A Go library for theming websites,http://code.google.com/p/gorefit,/u/alek,1

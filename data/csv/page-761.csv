@@ -1,25 +1,25 @@
-0,2016-06-04 12:15:35 -0500,"['/t/programming', '/t/rust']",Implementing a Language with LLVM in Rust,https://github.com/jauhien/iron-kaleidoscope,/u/unbalancedparentheses,7
-0,2016-06-04 13:56:17 -0500,"['/t/release', '/t/reversing', '/t/security']",ROPMEMU - A Framework for the Analysis of Complex Code-Reuse Attacks,http://blog.talosintel.com/2016/06/ropmemu.html,/u/mulander,5
-0,2016-06-04 12:24:00 -0500,"['/t/lisp', '/t/programming']",Make a Lisp guide,https://github.com/kanaka/mal/blob/master/process/guide.md,/u/unbalancedparentheses,6
-9,2016-06-03 16:40:13 -0500,"['/t/networking', '/t/practices']","Starting an ISP is really hard, don't do it",http://www.slashgeek.net/2016/05/31/starting-isp-really-hard-dont/,/u/calvin,29
-1,2016-06-04 17:08:45 -0500,"['/t/satire', '/t/security']",Security Snake Oil,https://securitysnakeoil.org/,/u/mulander,6
-0,2016-06-04 14:41:59 -0500,"['/t/video', '/t/ml']",Parallel Algorithmic Differentiation for OCaml,https://www.youtube.com/watch?v=HmYl0lYSeyg,/u/dwc,4
-21,2016-06-03 10:38:00 -0500,['/t/browsers'],Browser ktrace browsing,http://www.tedunangst.com/flak/post/browser-ktrace-browsing,/u/curtis,36
-0,2016-06-04 05:00:09 -0500,"['/t/linux', '/t/networking']",Ngrok vs dynamic DNS for remote Linux home server access,https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2,/u/milanaleksic,4
-0,2016-06-04 17:47:15 -0500,['/t/event'],NIPS 2015 Workshop Videos,https://nips.cc/Conferences/2015/Schedule?type=Workshop,/u/jonschoning,1
-0,2016-06-04 06:36:12 -0500,"['/t/book', '/t/programming']",Leanpub: a website with work-in-progress and finished programming books that can be bought for free,https://leanpub.com/,/u/tudurom,4
-5,2016-06-03 18:18:35 -0500,['/t/python'],Gilectomy,https://lwn.net/SubscriberLink/689548/4328423f85a47679/,/u/ngoldbaum,9
-8,2016-06-03 11:38:51 -0500,['/t/vcs'],Warming up to Mercurial,http://vakila.github.io/blog/warming-up-to-mercurial/,/u/ngoldbaum,20
-0,2016-06-04 03:36:36 -0500,['/t/programming'],The official D Blog is live,http://dlang.org/blog/,/u/zem,5
-0,2016-06-04 10:08:47 -0500,"['/t/linux', '/t/python', '/t/release']",Maintboot: Run maintenance tasks outside the OS,https://github.com/g2p/maintboot#readme,/u/voidzero,2
-0,2016-06-04 09:55:10 -0500,"['/t/video', '/t/go', '/t/programming']",Hacking with Andrew and Brad: an HTTP/2 client in Go,https://www.youtube.com/watch?v=yG-UaBJXZ80,/u/unbalancedparentheses,2
-1,2016-06-03 21:32:17 -0500,"['/t/lisp', '/t/practices']",A Tool For Thought,http://swannodette.github.io/2016/06/03/tools-for-thought,/u/nwjsmith,7
-0,2016-06-03 22:35:22 -0500,['/t/haskell'],Efficient parsing of large text files,https://hbtvl.wordpress.com/2015/11/19/efficient-parsing-of-large-text-files-part-1/,/u/asthasr,7
-9,2016-06-03 08:06:57 -0500,"['/t/finance', '/t/release', '/t/web']","""Wow. ownCloud Inc. collapses only 12 hours after the Nextcloud announcement.""",https://twitter.com/fkarlitschek/status/738603779155591168,/u/calvin,17
-0,2016-06-04 06:13:02 -0500,"['/t/slides', '/t/video', '/t/lua', '/t/security']",Mastering the Nmap Scripting Engine (2010),https://nmap.org/presentations/BHDC10/,/u/mulander,2
-0,2016-06-04 10:59:24 -0500,"['/t/culture', '/t/historical', '/t/security']",Hack The Planet zines,https://github.com/nachash/htp-zines,/u/mulander,2
-2,2016-06-03 10:13:45 -0500,['/t/rust'],& vs. ref in Rust patterns,http://xion.io/post/code/rust-patterns-ref.html,/u/unbalancedparentheses,14
-4,2016-06-03 09:25:33 -0500,"['/t/javascript', '/t/math']",Learning about some IEEE-754 behavior!,https://ecc-comp.blogspot.com/2016/06/math-in-javascript-broken-irrational.html,/u/indirection,5
-0,2016-06-03 18:10:52 -0500,['/t/games'],The Wit.nes (demo),https://dustmop.itch.io/the-witnes,/u/pushcx,6
-6,2016-06-03 12:11:29 -0500,"['/t/android', '/t/historical']","A look back at Sooner, Google's first Android phone (2015)",http://www.androidcentral.com/look-back-google-sooner-first-android-phone,/u/mulander,6
-2,2016-06-03 16:30:10 -0500,['/t/programming'],Discussion about the relationship between OO and functional programming,https://news.ycombinator.com/item?id=11808551,/u/unbalancedparentheses,4
+0,2016-06-04 12:15:35 -0500,"/t/programming,/t/rust",Implementing a Language with LLVM in Rust,https://github.com/jauhien/iron-kaleidoscope,/u/unbalancedparentheses,7
+0,2016-06-04 13:56:17 -0500,"/t/release,/t/reversing,/t/security",ROPMEMU - A Framework for the Analysis of Complex Code-Reuse Attacks,http://blog.talosintel.com/2016/06/ropmemu.html,/u/mulander,5
+0,2016-06-04 12:24:00 -0500,"/t/lisp,/t/programming",Make a Lisp guide,https://github.com/kanaka/mal/blob/master/process/guide.md,/u/unbalancedparentheses,6
+9,2016-06-03 16:40:13 -0500,"/t/networking,/t/practices","Starting an ISP is really hard, don't do it",http://www.slashgeek.net/2016/05/31/starting-isp-really-hard-dont/,/u/calvin,29
+1,2016-06-04 17:08:45 -0500,"/t/satire,/t/security",Security Snake Oil,https://securitysnakeoil.org/,/u/mulander,6
+0,2016-06-04 14:41:59 -0500,"/t/video,/t/ml",Parallel Algorithmic Differentiation for OCaml,https://www.youtube.com/watch?v=HmYl0lYSeyg,/u/dwc,4
+21,2016-06-03 10:38:00 -0500,/t/browsers,Browser ktrace browsing,http://www.tedunangst.com/flak/post/browser-ktrace-browsing,/u/curtis,36
+0,2016-06-04 05:00:09 -0500,"/t/linux,/t/networking",Ngrok vs dynamic DNS for remote Linux home server access,https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2,/u/milanaleksic,4
+0,2016-06-04 17:47:15 -0500,/t/event,NIPS 2015 Workshop Videos,https://nips.cc/Conferences/2015/Schedule?type=Workshop,/u/jonschoning,1
+0,2016-06-04 06:36:12 -0500,"/t/book,/t/programming",Leanpub: a website with work-in-progress and finished programming books that can be bought for free,https://leanpub.com/,/u/tudurom,4
+5,2016-06-03 18:18:35 -0500,/t/python,Gilectomy,https://lwn.net/SubscriberLink/689548/4328423f85a47679/,/u/ngoldbaum,9
+8,2016-06-03 11:38:51 -0500,/t/vcs,Warming up to Mercurial,http://vakila.github.io/blog/warming-up-to-mercurial/,/u/ngoldbaum,20
+0,2016-06-04 03:36:36 -0500,/t/programming,The official D Blog is live,http://dlang.org/blog/,/u/zem,5
+0,2016-06-04 10:08:47 -0500,"/t/linux,/t/python,/t/release",Maintboot: Run maintenance tasks outside the OS,https://github.com/g2p/maintboot#readme,/u/voidzero,2
+0,2016-06-04 09:55:10 -0500,"/t/video,/t/go,/t/programming",Hacking with Andrew and Brad: an HTTP/2 client in Go,https://www.youtube.com/watch?v=yG-UaBJXZ80,/u/unbalancedparentheses,2
+1,2016-06-03 21:32:17 -0500,"/t/lisp,/t/practices",A Tool For Thought,http://swannodette.github.io/2016/06/03/tools-for-thought,/u/nwjsmith,7
+0,2016-06-03 22:35:22 -0500,/t/haskell,Efficient parsing of large text files,https://hbtvl.wordpress.com/2015/11/19/efficient-parsing-of-large-text-files-part-1/,/u/asthasr,7
+9,2016-06-03 08:06:57 -0500,"/t/finance,/t/release,/t/web","""Wow. ownCloud Inc. collapses only 12 hours after the Nextcloud announcement.""",https://twitter.com/fkarlitschek/status/738603779155591168,/u/calvin,17
+0,2016-06-04 06:13:02 -0500,"/t/slides,/t/video,/t/lua,/t/security",Mastering the Nmap Scripting Engine (2010),https://nmap.org/presentations/BHDC10/,/u/mulander,2
+0,2016-06-04 10:59:24 -0500,"/t/culture,/t/historical,/t/security",Hack The Planet zines,https://github.com/nachash/htp-zines,/u/mulander,2
+2,2016-06-03 10:13:45 -0500,/t/rust,& vs. ref in Rust patterns,http://xion.io/post/code/rust-patterns-ref.html,/u/unbalancedparentheses,14
+4,2016-06-03 09:25:33 -0500,"/t/javascript,/t/math",Learning about some IEEE-754 behavior!,https://ecc-comp.blogspot.com/2016/06/math-in-javascript-broken-irrational.html,/u/indirection,5
+0,2016-06-03 18:10:52 -0500,/t/games,The Wit.nes (demo),https://dustmop.itch.io/the-witnes,/u/pushcx,6
+6,2016-06-03 12:11:29 -0500,"/t/android,/t/historical","A look back at Sooner, Google's first Android phone (2015)",http://www.androidcentral.com/look-back-google-sooner-first-android-phone,/u/mulander,6
+2,2016-06-03 16:30:10 -0500,/t/programming,Discussion about the relationship between OO and functional programming,https://news.ycombinator.com/item?id=11808551,/u/unbalancedparentheses,4

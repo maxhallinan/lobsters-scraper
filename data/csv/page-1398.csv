@@ -1,25 +1,25 @@
-9,2014-01-29 11:01:16 -0600,"['/t/show', '/t/release', '/t/web']",Show Lobste.rs: Building a better analytics platform,http://rangefinderapp.com/,/u/dirk,7
-0,2014-01-29 11:34:42 -0600,['/t/reversing'],Using video bugs to determine YouTube's FFmpeg version (2011),http://multimedia.cx/eggs/googles-youtube-uses-ffmpeg/,/u/journeysquid,8
-4,2014-01-29 01:11:26 -0600,"['/t/go', '/t/web']",Thoughts on writing webapps in Go,http://relax.svbtle.com/thoughts-on-writing-webapps-in-go,/u/Relax,16
-8,2014-01-29 11:47:38 -0600,"['/t/show', '/t/meta']",Rename project tag to show?,/s/wvxc81/rename_project_tag_show,/u/jcs,11
-7,2014-01-29 13:08:41 -0600,['/t/databases'],Enums for when you just cant handle another foreign key (PostgreSQL),http://datachomp.com/archives/enums-for-when-you-just-cant-hande-another-foreign-key/,/u/mattk,1
-1,2014-01-28 22:40:21 -0600,"['/t/c', '/t/security']",-fstack-protector-strong,http://www.outflux.net/blog/archives/2014/01/27/fstack-protector-strong/,/u/jcs,14
-11,2014-01-28 14:06:29 -0600,['/t/practices'],Passwordless Products,https://blog.bolt.co/2014/01/28/passwordless-products.html,/u/amb,14
-5,2014-01-28 18:01:08 -0600,['/t/show'],"Show Lobsters: WeDomainSearch - Collaborative domain search, like Etherpad for Domains",http://wedomainsearch.com/,/u/shazow,9
-0,2014-01-29 06:54:03 -0600,['/t/javascript'],BDD in JavaScript with CucumberJS,http://flippinawesome.org/2014/01/27/bdd-in-javascript-with-cucumberjs/,/u/remotesynth,2
-6,2014-01-28 07:32:21 -0600,['/t/go'],Why writing sysadmin tools in Go is getting attractive,http://utcc.utoronto.ca/~cks/space/blog/programming/GoSysadminAttractions,/u/mattk,18
-3,2014-01-28 14:43:36 -0600,"['/t/show', '/t/databases', '/t/haskell']",Show Lobsters: erd - creates entity-relationship diagrams from simple text descriptions,https://github.com/BurntSushi/erd,/u/burntsushi,10
-0,2014-01-28 18:21:46 -0600,"['/t/ask', '/t/lisp', '/t/programming']",Open Dylan's Call For Help,http://opendylan.org/news/2014/01/28/call-for-help.html,/u/BruceM,12
-0,2014-01-28 13:56:13 -0600,['/t/compsci'],There’s Only Four Billion Floats–So Test Them All!,http://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/,/u/jm,9
-11,2014-01-27 22:12:33 -0600,['/t/c'],The Descent to C,http://www.chiark.greenend.org.uk/~sgtatham/cdescent/,/u/mattk,22
-0,2014-01-29 00:56:34 -0600,"['/t/databases', '/t/ruby']",Ruby Cassandra driver cql-rb reaches v1.2.0,http://architecturalatrocities.com/post/74920760542/cql-rb-v1-2-0-released,/u/iconara,1
-0,2014-01-28 12:42:03 -0600,['/t/compsci'],Sketch of the Day: HyperLogLog,http://blog.aggregateknowledge.com/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/,/u/bobpoekert,6
-1,2014-01-28 10:19:43 -0600,"['/t/cryptocurrencies', '/t/privacy']",Untraceable,http://untraceableblog.com/,/u/jm,4
-0,2014-01-28 20:15:24 -0600,"['/t/programming', '/t/python']",On The Future Of Statistical Languages,http://www.drbunsen.org/on-the-future-of-statistical-languages/,/u/mattk,2
-0,2014-01-28 09:21:58 -0600,['/t/go'],Why I Love Go,http://blog.jonathanoliver.com/why-i-love-go/,/u/mattk,8
-0,2014-01-28 14:14:08 -0600,"['/t/practices', '/t/scaling']",LARGE x RARE == DIFFERENT: Why scaling companies is harder than it looks,http://blog.asmartbear.com/scaling-startups.html,/u/tedu,4
-0,2014-01-28 14:00:05 -0600,"['/t/devops', '/t/release']","Fig | Fast, isolated development environments using Docker",http://orchardup.github.io/fig,/u/pellegrino,4
-1,2014-01-28 12:24:26 -0600,"['/t/pdf', '/t/programming']",Data on the Outside vs Data on the Inside,http://lab.mscs.mu.edu/Dist2012/lectures/dataoutsidevsdatainside.pdf,/u/SeanTAllen,2
-3,2014-01-27 22:48:51 -0600,"['/t/lisp', '/t/programming']",REPL Driven Development (Jay Fields),http://blog.jayfields.com/2014/01/repl-driven-development.html,/u/juliangamble,8
-0,2014-01-28 10:30:49 -0600,"['/t/c', '/t/mac']",Setting OmniGraphSketcher Free,http://www.omnigroup.com/blog/setting-omnigraphsketcher-free,/u/sevan,2
-0,2014-01-28 14:02:56 -0600,"['/t/ios', '/t/mobile']",How to Extract the Images From Any App in the App Store,http://objcsharp.wordpress.com/2014/01/22/how-to-extract-the-images-from-any-app-in-the-app-store/?goback=.gde_2627917_member_5833568980127744002#!,/u/jm,1
+9,2014-01-29 11:01:16 -0600,"/t/show,/t/release,/t/web",Show Lobste.rs: Building a better analytics platform,http://rangefinderapp.com/,/u/dirk,7
+0,2014-01-29 11:34:42 -0600,/t/reversing,Using video bugs to determine YouTube's FFmpeg version (2011),http://multimedia.cx/eggs/googles-youtube-uses-ffmpeg/,/u/journeysquid,8
+4,2014-01-29 01:11:26 -0600,"/t/go,/t/web",Thoughts on writing webapps in Go,http://relax.svbtle.com/thoughts-on-writing-webapps-in-go,/u/Relax,16
+8,2014-01-29 11:47:38 -0600,"/t/show,/t/meta",Rename project tag to show?,/s/wvxc81/rename_project_tag_show,/u/jcs,11
+7,2014-01-29 13:08:41 -0600,/t/databases,Enums for when you just cant handle another foreign key (PostgreSQL),http://datachomp.com/archives/enums-for-when-you-just-cant-hande-another-foreign-key/,/u/mattk,1
+1,2014-01-28 22:40:21 -0600,"/t/c,/t/security",-fstack-protector-strong,http://www.outflux.net/blog/archives/2014/01/27/fstack-protector-strong/,/u/jcs,14
+11,2014-01-28 14:06:29 -0600,/t/practices,Passwordless Products,https://blog.bolt.co/2014/01/28/passwordless-products.html,/u/amb,14
+5,2014-01-28 18:01:08 -0600,/t/show,"Show Lobsters: WeDomainSearch - Collaborative domain search, like Etherpad for Domains",http://wedomainsearch.com/,/u/shazow,9
+0,2014-01-29 06:54:03 -0600,/t/javascript,BDD in JavaScript with CucumberJS,http://flippinawesome.org/2014/01/27/bdd-in-javascript-with-cucumberjs/,/u/remotesynth,2
+6,2014-01-28 07:32:21 -0600,/t/go,Why writing sysadmin tools in Go is getting attractive,http://utcc.utoronto.ca/~cks/space/blog/programming/GoSysadminAttractions,/u/mattk,18
+3,2014-01-28 14:43:36 -0600,"/t/show,/t/databases,/t/haskell",Show Lobsters: erd - creates entity-relationship diagrams from simple text descriptions,https://github.com/BurntSushi/erd,/u/burntsushi,10
+0,2014-01-28 18:21:46 -0600,"/t/ask,/t/lisp,/t/programming",Open Dylan's Call For Help,http://opendylan.org/news/2014/01/28/call-for-help.html,/u/BruceM,12
+0,2014-01-28 13:56:13 -0600,/t/compsci,There’s Only Four Billion Floats–So Test Them All!,http://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/,/u/jm,9
+11,2014-01-27 22:12:33 -0600,/t/c,The Descent to C,http://www.chiark.greenend.org.uk/~sgtatham/cdescent/,/u/mattk,22
+0,2014-01-29 00:56:34 -0600,"/t/databases,/t/ruby",Ruby Cassandra driver cql-rb reaches v1.2.0,http://architecturalatrocities.com/post/74920760542/cql-rb-v1-2-0-released,/u/iconara,1
+0,2014-01-28 12:42:03 -0600,/t/compsci,Sketch of the Day: HyperLogLog,http://blog.aggregateknowledge.com/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/,/u/bobpoekert,6
+1,2014-01-28 10:19:43 -0600,"/t/cryptocurrencies,/t/privacy",Untraceable,http://untraceableblog.com/,/u/jm,4
+0,2014-01-28 20:15:24 -0600,"/t/programming,/t/python",On The Future Of Statistical Languages,http://www.drbunsen.org/on-the-future-of-statistical-languages/,/u/mattk,2
+0,2014-01-28 09:21:58 -0600,/t/go,Why I Love Go,http://blog.jonathanoliver.com/why-i-love-go/,/u/mattk,8
+0,2014-01-28 14:14:08 -0600,"/t/practices,/t/scaling",LARGE x RARE == DIFFERENT: Why scaling companies is harder than it looks,http://blog.asmartbear.com/scaling-startups.html,/u/tedu,4
+0,2014-01-28 14:00:05 -0600,"/t/devops,/t/release","Fig | Fast, isolated development environments using Docker",http://orchardup.github.io/fig,/u/pellegrino,4
+1,2014-01-28 12:24:26 -0600,"/t/pdf,/t/programming",Data on the Outside vs Data on the Inside,http://lab.mscs.mu.edu/Dist2012/lectures/dataoutsidevsdatainside.pdf,/u/SeanTAllen,2
+3,2014-01-27 22:48:51 -0600,"/t/lisp,/t/programming",REPL Driven Development (Jay Fields),http://blog.jayfields.com/2014/01/repl-driven-development.html,/u/juliangamble,8
+0,2014-01-28 10:30:49 -0600,"/t/c,/t/mac",Setting OmniGraphSketcher Free,http://www.omnigroup.com/blog/setting-omnigraphsketcher-free,/u/sevan,2
+0,2014-01-28 14:02:56 -0600,"/t/ios,/t/mobile",How to Extract the Images From Any App in the App Store,http://objcsharp.wordpress.com/2014/01/22/how-to-extract-the-images-from-any-app-in-the-app-store/?goback=.gde_2627917_member_5833568980127744002#!,/u/jm,1

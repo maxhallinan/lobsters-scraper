@@ -1,25 +1,25 @@
-0,2017-11-22 00:53:44 -0600,['/t/practices'],Managing software development effort,https://blog.hasura.io/heuristics-to-manage-software-engineering-f993b4a13a8c,/u/Lpasqualis,1
-0,2017-11-21 15:12:39 -0600,"['/t/practices', '/t/programming']",Airplanes and Ashtrays,https://csswizardry.com/2017/10/airplanes-and-ashtrays/,/u/flyingfisch,4
-0,2017-11-21 15:01:08 -0600,"['/t/ruby', '/t/web']",Session-only cookie corruption in Ruby web apps,https://perlkour.pl/2017/11/ruby-cookie-corruption/,/u/pushcx,4
-0,2017-11-21 14:44:06 -0600,['/t/historical'],My History of Visual Studio (Part 1),https://blogs.msdn.microsoft.com/ricom/2009/10/05/my-history-of-visual-studio-part-1/,/u/julienXX,4
-0,2017-11-21 16:34:33 -0600,"['/t/pdf', '/t/haskell']","Functional Programming with Bananas, Envelopes, Lenses and Barbed Wire (1991)",https://maartenfokkinga.github.io/utwente/mmf91m.pdf,/u/pushcx,3
-0,2017-11-21 07:48:37 -0600,['/t/performance'],"Of SVG, Minification and Gzip",https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007,/u/pushcx,9
-0,2017-11-21 15:53:39 -0600,['/t/programming'],Software Estimation in the Fractal Dimension,https://medium.com/@Smrimell/software-estimation-in-the-fractal-dimension-914569e2ccb9,/u/Yogthos,3
-0,2017-11-21 09:57:26 -0600,['/t/games'],How good should we expect decisions to be?,https://danluu.com/bad-decisions/,/u/pushcx,6
-0,2017-11-21 16:41:18 -0600,['/t/python'],DEAL WITH IT in Python with Face Detection,https://dev.to/burningion/deal-with-it-in-python-with-face-detection-chi,/u/Lpasqualis,2
-11,2017-11-20 08:51:12 -0600,"['/t/pdf', '/t/assembly', '/t/reversing', '/t/security']",PoC || GTFO 16,https://www.alchemistowl.org/pocorgtfo/pocorgtfo16.pdf,/u/isra17,45
-0,2017-11-21 18:46:55 -0600,['/t/devops'],In the Shadow of Murphy’s Law: Designing for Failure,https://blog.domaintools.com/2017/11/in-the-shadow-of-murphys-law-designing-for-failure/,/u/djsumdog,1
-56,2017-11-20 05:21:06 -0600,"['/t/linux', '/t/security']",Some 'security people are f*cking morons' says Linus Torvalds,https://www.theregister.co.uk/2017/11/20/security_people_are_morons_says_linus_torvalds/,/u/mulander,43
-5,2017-11-20 14:06:52 -0600,['/t/cryptocurrencies'],There can only ever be 21 million forks of Bitcoin: a survey so far,https://davidgerard.co.uk/blockchain/2017/11/20/there-can-only-ever-be-21-million-forks-of-bitcoin-a-survey-so-far/,/u/David_Gerard,12
-10,2017-11-20 14:37:04 -0600,['/t/security'],An in-depth security review of the Intel Management Engine,https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00086&languageid=en-fr,/u/zg,13
-5,2017-11-20 13:58:37 -0600,['/t/release'],Github: Introducing Team discussions,https://github.com/blog/2471-introducing-team-discussions,/u/unbalancedparentheses,16
-1,2017-11-21 01:40:54 -0600,"['/t/video', '/t/law', '/t/person', '/t/practices', '/t/web']",Google will ‘de-rank’ RT articles to make them harder to find – Eric Schmidt,https://www.rt.com/news/410444-google-alphabet-derank-rt/,/u/cnst,5
-0,2017-11-21 14:49:17 -0600,"['/t/pdf', '/t/plt', '/t/vcs']",Boa: A Domain-Specific Language for Ultra Large Scale Software Repository Mining (2015),http://boa.cs.iastate.edu/papers/tosem15.pdf,/u/timetoplatypus,1
-0,2017-11-21 10:41:25 -0600,"['/t/pdf', '/t/compsci', '/t/programming']","Laddie - Language for Automated, Device Drivers (2008)",https://www.eg.bucknell.edu/~lwittie/research/Laddie.pdf,/u/nickpsecurity,2
-0,2017-11-21 08:44:02 -0600,"['/t/browsers', '/t/python']",Using Firefox WebExtensions with Selenium,https://intoli.com/blog/firefox-extensions-with-selenium/,/u/foob,1
-3,2017-11-20 06:58:17 -0600,"['/t/c', '/t/c++', '/t/security']",A vulnerability by any other name,https://alexgaynor.net/2017/nov/20/a-vulnerability-by-any-other-name/,/u/alex_gaynor,20
-0,2017-11-21 08:55:58 -0600,"['/t/video', '/t/databases']",Integrating Prometheus and InfluxDB,https://www.youtube.com/watch?v=BZkHlhautGk,/u/unbalancedparentheses,2
-4,2017-11-20 10:43:19 -0600,['/t/networking'],"Becoming Your Own ISP, Just for Fun",http://hackaday.com/2017/11/18/becoming-your-own-isp-just-for-fun/,/u/flyingfisch,16
-2,2017-11-20 13:56:43 -0600,['/t/elm'],Advanced Types in Elm - Phantom Types,https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d,/u/pushcx,14
-8,2017-11-20 07:20:58 -0600,['/t/linux'],5 Coolest Linux Terminal Emulators,https://www.linux.com/learn/intro-to-linux/2017/11/5-coolest-linux-terminal-emulators,/u/jdarnold,16
-3,2017-11-20 17:29:15 -0600,"['/t/historical', '/t/java']",Sun's Project Looking Glass debuted 14 years ago,http://www.osnews.com/story/30091/Sun_s_Project_Looking_Glass_debuted_14_years_ago,/u/calvin,6
+0,2017-11-22 00:53:44 -0600,/t/practices,Managing software development effort,https://blog.hasura.io/heuristics-to-manage-software-engineering-f993b4a13a8c,/u/Lpasqualis,1
+0,2017-11-21 15:12:39 -0600,"/t/practices,/t/programming",Airplanes and Ashtrays,https://csswizardry.com/2017/10/airplanes-and-ashtrays/,/u/flyingfisch,4
+0,2017-11-21 15:01:08 -0600,"/t/ruby,/t/web",Session-only cookie corruption in Ruby web apps,https://perlkour.pl/2017/11/ruby-cookie-corruption/,/u/pushcx,4
+0,2017-11-21 14:44:06 -0600,/t/historical,My History of Visual Studio (Part 1),https://blogs.msdn.microsoft.com/ricom/2009/10/05/my-history-of-visual-studio-part-1/,/u/julienXX,4
+0,2017-11-21 16:34:33 -0600,"/t/pdf,/t/haskell","Functional Programming with Bananas, Envelopes, Lenses and Barbed Wire (1991)",https://maartenfokkinga.github.io/utwente/mmf91m.pdf,/u/pushcx,3
+0,2017-11-21 07:48:37 -0600,/t/performance,"Of SVG, Minification and Gzip",https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007,/u/pushcx,9
+0,2017-11-21 15:53:39 -0600,/t/programming,Software Estimation in the Fractal Dimension,https://medium.com/@Smrimell/software-estimation-in-the-fractal-dimension-914569e2ccb9,/u/Yogthos,3
+0,2017-11-21 09:57:26 -0600,/t/games,How good should we expect decisions to be?,https://danluu.com/bad-decisions/,/u/pushcx,6
+0,2017-11-21 16:41:18 -0600,/t/python,DEAL WITH IT in Python with Face Detection,https://dev.to/burningion/deal-with-it-in-python-with-face-detection-chi,/u/Lpasqualis,2
+11,2017-11-20 08:51:12 -0600,"/t/pdf,/t/assembly,/t/reversing,/t/security",PoC || GTFO 16,https://www.alchemistowl.org/pocorgtfo/pocorgtfo16.pdf,/u/isra17,45
+0,2017-11-21 18:46:55 -0600,/t/devops,In the Shadow of Murphy’s Law: Designing for Failure,https://blog.domaintools.com/2017/11/in-the-shadow-of-murphys-law-designing-for-failure/,/u/djsumdog,1
+56,2017-11-20 05:21:06 -0600,"/t/linux,/t/security",Some 'security people are f*cking morons' says Linus Torvalds,https://www.theregister.co.uk/2017/11/20/security_people_are_morons_says_linus_torvalds/,/u/mulander,43
+5,2017-11-20 14:06:52 -0600,/t/cryptocurrencies,There can only ever be 21 million forks of Bitcoin: a survey so far,https://davidgerard.co.uk/blockchain/2017/11/20/there-can-only-ever-be-21-million-forks-of-bitcoin-a-survey-so-far/,/u/David_Gerard,12
+10,2017-11-20 14:37:04 -0600,/t/security,An in-depth security review of the Intel Management Engine,https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00086&languageid=en-fr,/u/zg,13
+5,2017-11-20 13:58:37 -0600,/t/release,Github: Introducing Team discussions,https://github.com/blog/2471-introducing-team-discussions,/u/unbalancedparentheses,16
+1,2017-11-21 01:40:54 -0600,"/t/video,/t/law,/t/person,/t/practices,/t/web",Google will ‘de-rank’ RT articles to make them harder to find – Eric Schmidt,https://www.rt.com/news/410444-google-alphabet-derank-rt/,/u/cnst,5
+0,2017-11-21 14:49:17 -0600,"/t/pdf,/t/plt,/t/vcs",Boa: A Domain-Specific Language for Ultra Large Scale Software Repository Mining (2015),http://boa.cs.iastate.edu/papers/tosem15.pdf,/u/timetoplatypus,1
+0,2017-11-21 10:41:25 -0600,"/t/pdf,/t/compsci,/t/programming","Laddie - Language for Automated, Device Drivers (2008)",https://www.eg.bucknell.edu/~lwittie/research/Laddie.pdf,/u/nickpsecurity,2
+0,2017-11-21 08:44:02 -0600,"/t/browsers,/t/python",Using Firefox WebExtensions with Selenium,https://intoli.com/blog/firefox-extensions-with-selenium/,/u/foob,1
+3,2017-11-20 06:58:17 -0600,"/t/c,/t/c++,/t/security",A vulnerability by any other name,https://alexgaynor.net/2017/nov/20/a-vulnerability-by-any-other-name/,/u/alex_gaynor,20
+0,2017-11-21 08:55:58 -0600,"/t/video,/t/databases",Integrating Prometheus and InfluxDB,https://www.youtube.com/watch?v=BZkHlhautGk,/u/unbalancedparentheses,2
+4,2017-11-20 10:43:19 -0600,/t/networking,"Becoming Your Own ISP, Just for Fun",http://hackaday.com/2017/11/18/becoming-your-own-isp-just-for-fun/,/u/flyingfisch,16
+2,2017-11-20 13:56:43 -0600,/t/elm,Advanced Types in Elm - Phantom Types,https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d,/u/pushcx,14
+8,2017-11-20 07:20:58 -0600,/t/linux,5 Coolest Linux Terminal Emulators,https://www.linux.com/learn/intro-to-linux/2017/11/5-coolest-linux-terminal-emulators,/u/jdarnold,16
+3,2017-11-20 17:29:15 -0600,"/t/historical,/t/java",Sun's Project Looking Glass debuted 14 years ago,http://www.osnews.com/story/30091/Sun_s_Project_Looking_Glass_debuted_14_years_ago,/u/calvin,6

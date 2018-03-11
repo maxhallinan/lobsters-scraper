@@ -1,25 +1,25 @@
-0,2016-12-22 02:13:18 -0600,['/t/debugging'],Cache COW — a debugging adventure on Minoca OS,https://blog.minocacorp.com/cache-cow-a-debugging-adventure-on-minoca-os-573a7bd0d5c9,/u/zgrep,7
-8,2016-12-21 10:52:10 -0600,['/t/philosophy'],The lost medium,http://www.dgsiegel.net/talks/the-lost-medium,/u/Bystroushaak,17
-7,2016-12-21 09:01:23 -0600,['/t/lisp'],NES Emulator in Common Lisp,https://github.com/samanthadoran/potential-disco,/u/dwc,21
-0,2016-12-21 16:38:43 -0600,['/t/haskell'],Spanish translation of the PureScript book,https://leanpub.com/purescriptmedianteejemplos,/u/jacereda,8
-0,2016-12-21 14:13:36 -0600,['/t/event'],Reflections on Systems We Love,https://www.joyent.com/blog/reflections-on-systems-we-love,/u/bcantrill,10
-0,2016-12-22 10:17:17 -0600,"['/t/culture', '/t/practices']",How to reward skilled coders with something other than people management (2014),http://lizthedeveloper.com/how-to-reward-skilled-coders-with-something-other-than-people-management,/u/kevinSuttle,3
-0,2016-12-22 02:29:01 -0600,"['/t/video', '/t/historical']","The KGB, the Computer, and Me",https://www.youtube.com/watch?v=EcKxaq1FTac,/u/earthy,4
-2,2016-12-21 14:45:56 -0600,['/t/css'],How to Center in CSS,http://howtocenterincss.com,/u/flyingfisch,12
-0,2016-12-21 21:08:44 -0600,"['/t/hardware', '/t/reversing']",Reverse Engineering the Amazon Dash Button’s Wireless Audio Configuration,http://www.blog.jay-greco.com/wp/?p=116,/u/freehunter,7
-3,2016-12-21 10:12:01 -0600,['/t/databases'],"Datomish: A persistent, relational store inspired by Datomic and DataScript",https://github.com/mozilla/datomish,/u/jeremy,12
-1,2016-12-21 07:22:29 -0600,"['/t/graphics', '/t/lisp']",Identicons with ClojureScript,http://darrennewton.com/2016/12/17/identicons-with-clojurescript/,/u/d_run,11
-0,2016-12-21 14:27:54 -0600,"['/t/video', '/t/java']",Shenandoah GC: Java Without The Garbage Collection Hiccups,https://www.youtube.com/watch?v=N0JTvyCxiv8,/u/stephenjudkins,9
-0,2016-12-21 12:06:55 -0600,"['/t/pdf', '/t/assembly', '/t/c']",SIMD at Insomniac Games,https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf,/u/mikejsavage,10
-3,2016-12-21 06:01:50 -0600,"['/t/distributed', '/t/networking']",Improving load balancing with a new consistent-hashing algorithm,https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed,/u/calvin,16
-2,2016-12-21 13:51:34 -0600,"['/t/design', '/t/programming']",Interactive Data Visualization in Medicine with Smalltalk,http://mutabit.com/offray/blog/en/entry/sdv-infomed,/u/patrickdlogan,4
-0,2016-12-21 21:15:59 -0600,['/t/go'],Performance overhead when calling assembly from Go,http://lemire.me/blog/2016/12/21/performance-overhead-when-calling-assembly-from-go/,/u/kb,3
-2,2016-12-21 07:46:41 -0600,['/t/javascript'],Regexgen: Generate regular expressions that match a set of strings,https://github.com/devongovett/regexgen,/u/d_run,11
-0,2016-12-21 01:11:37 -0600,['/t/openbsd'],openbsd changes of note 4,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-4,/u/duclare,26
-0,2016-12-21 20:46:19 -0600,['/t/go'],Advanced Encoding and Decoding Techniques in Go,https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/,/u/adsouza,2
-1,2016-12-21 15:58:57 -0600,"['/t/css', '/t/practices']","MaintainableCSS - an approach to writing modular, scalable and maintainable CSS",http://maintainablecss.com/,/u/flyingfisch,2
-1,2016-12-21 12:14:25 -0600,"['/t/pdf', '/t/security']",The Methbot Operation,http://go.whiteops.com/rs/179-SQE-823/images/WO_Methbot_Operation_WP.pdf,/u/yumaikas,3
-0,2016-12-21 15:58:09 -0600,['/t/web'],The Headless Web,https://paul.kinlan.me/the-headless-web/,/u/flyingfisch,3
-0,2016-12-21 11:43:13 -0600,"['/t/video', '/t/java', '/t/mobile', '/t/networking']",The Secret Life of SIM Cards (2013),https://www.youtube.com/watch?v=31D94QOo2gY,/u/calvin,5
-21,2016-12-20 23:55:07 -0600,"['/t/browsers', '/t/rant']",Why are browsers so slow?,http://ilyabirman.net/meanwhile/all/why-are-browsers-so-slow/,/u/av,35
-0,2016-12-21 15:18:28 -0600,['/t/css'],How well do you know CSS display?,https://www.chenhuijing.com/blog/how-well-do-you-know-display/,/u/flyingfisch,3
+0,2016-12-22 02:13:18 -0600,/t/debugging,Cache COW — a debugging adventure on Minoca OS,https://blog.minocacorp.com/cache-cow-a-debugging-adventure-on-minoca-os-573a7bd0d5c9,/u/zgrep,7
+8,2016-12-21 10:52:10 -0600,/t/philosophy,The lost medium,http://www.dgsiegel.net/talks/the-lost-medium,/u/Bystroushaak,17
+7,2016-12-21 09:01:23 -0600,/t/lisp,NES Emulator in Common Lisp,https://github.com/samanthadoran/potential-disco,/u/dwc,21
+0,2016-12-21 16:38:43 -0600,/t/haskell,Spanish translation of the PureScript book,https://leanpub.com/purescriptmedianteejemplos,/u/jacereda,8
+0,2016-12-21 14:13:36 -0600,/t/event,Reflections on Systems We Love,https://www.joyent.com/blog/reflections-on-systems-we-love,/u/bcantrill,10
+0,2016-12-22 10:17:17 -0600,"/t/culture,/t/practices",How to reward skilled coders with something other than people management (2014),http://lizthedeveloper.com/how-to-reward-skilled-coders-with-something-other-than-people-management,/u/kevinSuttle,3
+0,2016-12-22 02:29:01 -0600,"/t/video,/t/historical","The KGB, the Computer, and Me",https://www.youtube.com/watch?v=EcKxaq1FTac,/u/earthy,4
+2,2016-12-21 14:45:56 -0600,/t/css,How to Center in CSS,http://howtocenterincss.com,/u/flyingfisch,12
+0,2016-12-21 21:08:44 -0600,"/t/hardware,/t/reversing",Reverse Engineering the Amazon Dash Button’s Wireless Audio Configuration,http://www.blog.jay-greco.com/wp/?p=116,/u/freehunter,7
+3,2016-12-21 10:12:01 -0600,/t/databases,"Datomish: A persistent, relational store inspired by Datomic and DataScript",https://github.com/mozilla/datomish,/u/jeremy,12
+1,2016-12-21 07:22:29 -0600,"/t/graphics,/t/lisp",Identicons with ClojureScript,http://darrennewton.com/2016/12/17/identicons-with-clojurescript/,/u/d_run,11
+0,2016-12-21 14:27:54 -0600,"/t/video,/t/java",Shenandoah GC: Java Without The Garbage Collection Hiccups,https://www.youtube.com/watch?v=N0JTvyCxiv8,/u/stephenjudkins,9
+0,2016-12-21 12:06:55 -0600,"/t/pdf,/t/assembly,/t/c",SIMD at Insomniac Games,https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf,/u/mikejsavage,10
+3,2016-12-21 06:01:50 -0600,"/t/distributed,/t/networking",Improving load balancing with a new consistent-hashing algorithm,https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed,/u/calvin,16
+2,2016-12-21 13:51:34 -0600,"/t/design,/t/programming",Interactive Data Visualization in Medicine with Smalltalk,http://mutabit.com/offray/blog/en/entry/sdv-infomed,/u/patrickdlogan,4
+0,2016-12-21 21:15:59 -0600,/t/go,Performance overhead when calling assembly from Go,http://lemire.me/blog/2016/12/21/performance-overhead-when-calling-assembly-from-go/,/u/kb,3
+2,2016-12-21 07:46:41 -0600,/t/javascript,Regexgen: Generate regular expressions that match a set of strings,https://github.com/devongovett/regexgen,/u/d_run,11
+0,2016-12-21 01:11:37 -0600,/t/openbsd,openbsd changes of note 4,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-4,/u/duclare,26
+0,2016-12-21 20:46:19 -0600,/t/go,Advanced Encoding and Decoding Techniques in Go,https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/,/u/adsouza,2
+1,2016-12-21 15:58:57 -0600,"/t/css,/t/practices","MaintainableCSS - an approach to writing modular, scalable and maintainable CSS",http://maintainablecss.com/,/u/flyingfisch,2
+1,2016-12-21 12:14:25 -0600,"/t/pdf,/t/security",The Methbot Operation,http://go.whiteops.com/rs/179-SQE-823/images/WO_Methbot_Operation_WP.pdf,/u/yumaikas,3
+0,2016-12-21 15:58:09 -0600,/t/web,The Headless Web,https://paul.kinlan.me/the-headless-web/,/u/flyingfisch,3
+0,2016-12-21 11:43:13 -0600,"/t/video,/t/java,/t/mobile,/t/networking",The Secret Life of SIM Cards (2013),https://www.youtube.com/watch?v=31D94QOo2gY,/u/calvin,5
+21,2016-12-20 23:55:07 -0600,"/t/browsers,/t/rant",Why are browsers so slow?,http://ilyabirman.net/meanwhile/all/why-are-browsers-so-slow/,/u/av,35
+0,2016-12-21 15:18:28 -0600,/t/css,How well do you know CSS display?,https://www.chenhuijing.com/blog/how-well-do-you-know-display/,/u/flyingfisch,3

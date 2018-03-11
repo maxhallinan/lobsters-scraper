@@ -1,25 +1,25 @@
-0,2016-03-14 11:07:30 -0500,"['/t/api', '/t/practices', '/t/programming']",Four Strategies for Organizing Code,https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33,/u/untitaker,3
-0,2016-03-14 10:39:23 -0500,['/t/windows'],Executing *BSD ELFs on Windows,http://ghettohaxxx-blog.azurewebsites.net/executing-bsd-elfs-in-windows/,/u/awreece,3
-2,2016-03-14 10:28:56 -0500,"['/t/culture', '/t/programming']",Pragmatism is poison,https://einarwh.wordpress.com/2016/03/10/pragmatism-is-poison/,/u/hails,4
-0,2016-03-14 06:05:30 -0500,"['/t/api', '/t/javascript', '/t/programming']",GraphQL/Relay as Change-Enabling Architecture,https://gist.github.com/idibidiart/49a095b6bc528638f34f,/u/marcfawzi,1
-0,2016-03-14 06:53:43 -0500,['/t/haskell'],Efficient binary serialization,https://www.fpcomplete.com/blog/2016/03/efficient-binary-serialization,/u/sts,2
-0,2016-03-13 22:14:59 -0500,"['/t/compilers', '/t/go']",An introduction to LLVM in Go,http://blog.felixangell.com/an-introduction-to-llvm-in-go/,/u/mattetti,6
-0,2016-03-13 17:51:28 -0500,"['/t/elixir', '/t/erlang']",Calling Elixir from Erlang,http://joearms.github.io/2016/03/13/Calling-Elixir-From_Erlang.html,/u/djm,10
-6,2016-03-13 04:44:26 -0500,"['/t/networking', '/t/security']",Imgur disclosed on HackerOne: SSRF in https://imgur.com/vidgif/url,https://hackerone.com/reports/115748,/u/noelle,27
-0,2016-03-14 09:18:04 -0500,"['/t/lua', '/t/reversing', '/t/security']",Analysis of VM escape by using LUA script,http://en.wooyun.io/2016/02/29/44.html,/u/355E3B,1
-1,2016-03-13 10:19:31 -0500,"['/t/pdf', '/t/openbsd', '/t/virtualization']",OpenBSD vmm/vmd Update,http://bhyvecon.org/bhyvecon2016-Mike.pdf,/u/fcambus,20
-0,2016-03-14 15:02:58 -0500,"['/t/compsci', '/t/historical']",Beginner's Guide to the History of Data Science,http://dataconomy.com/beginners-guide-history-data-science/,/u/mjn,0
-2,2016-03-13 10:46:51 -0500,"['/t/historical', '/t/lisp', '/t/practices']",Why Did Symbolics Fail?,https://web.archive.org/web/20080614223925/http://dlweinreb.wordpress.com/2007/11/16/why-did-symbolics-fail/,/u/calvin,15
-2,2016-03-14 02:53:43 -0500,"['/t/book', '/t/c']",Small Memory Software (2000),http://www.smallmemory.com/book.html,/u/pushcx,1
-0,2016-03-13 15:31:11 -0500,['/t/javascript'],Please stop referring to proposed JavaScript features as ES7,https://medium.com/@jayphelps/please-stop-referring-to-proposed-javascript-features-as-es7-cad29f9dcc4b,/u/joshuacc,6
-0,2016-03-13 06:53:30 -0500,['/t/linux'],How does perf work? (in which we read the Linux kernel source),http://jvns.ca/blog/2016/03/12/how-does-perf-work-and-some-questions/,/u/lukaszkorecki,16
-0,2016-03-14 08:44:49 -0500,"['/t/browsers', '/t/practices']",Opera's browser now has a built-in ad blocker,http://thenextweb.com/apps/2016/03/10/960860/,/u/flyingfisch,0
-3,2016-03-13 11:44:24 -0500,"['/t/show', '/t/web']",Nameserver.io - Easy Nameserver Redirects,http://nameserver.io/,/u/mikec,2
-0,2016-03-13 19:12:00 -0500,['/t/games'],Clash Royale: Creating a sticky first time user experience,https://medium.com/@Matthewwspencerr/clash-royale-creating-a-sticky-first-time-user-experience-113e17b18f36,/u/adsouza,3
-0,2016-03-13 20:15:10 -0500,"['/t/pdf', '/t/security']",Essays on Conspiracy by Julian Assange (2006),https://cryptome.org/0002/ja-conspiracies.pdf,/u/gkop,2
-0,2016-03-13 23:06:34 -0500,['/t/web'],yo-yo.js: A tiny library for building modular UI components using DOM diffing and ES6 templates,https://github.com/maxogden/yo-yo,/u/maxbittker,1
-7,2016-03-12 17:17:27 -0600,['/t/games'],"AlphaGo, Google's deep mind AI, already win his match against humans in go game",/s/odgszc/alphago_google_s_deep_mind_ai_already_win,/u/xcombelle,9
-0,2016-03-14 03:53:18 -0500,['/t/science'],Youngest Kids In Class At Higher Risk Of ADHD Diagnosis,http://www.npr.org/sections/health-shots/2016/03/10/469929700/a-late-birth-date-could-boost-the-risk-of-an-adhd-diagnosis,/u/skade,0
-0,2016-03-13 18:36:14 -0500,"['/t/culture', '/t/law']",Interesting Parallels Between The Cannabis and File-Sharing Debates,https://torrentfreak.com/interesting-parallels-between-the-cannabis-and-file-sharing-debates-160313/,/u/rbn,2
-0,2016-03-13 12:45:18 -0500,"['/t/compsci', '/t/math']",Example of execution of graph search algorithm,http://www.cse.unsw.edu.au/~billw/cs9414/notes/prolog/path-trace.html,/u/friendlysock,2
-0,2016-03-12 11:31:58 -0600,['/t/python'],PyPy 5.0 released,http://morepypy.blogspot.com/2016/03/pypy-50-released.html,/u/geier,25
+0,2016-03-14 11:07:30 -0500,"/t/api,/t/practices,/t/programming",Four Strategies for Organizing Code,https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33,/u/untitaker,3
+0,2016-03-14 10:39:23 -0500,/t/windows,Executing *BSD ELFs on Windows,http://ghettohaxxx-blog.azurewebsites.net/executing-bsd-elfs-in-windows/,/u/awreece,3
+2,2016-03-14 10:28:56 -0500,"/t/culture,/t/programming",Pragmatism is poison,https://einarwh.wordpress.com/2016/03/10/pragmatism-is-poison/,/u/hails,4
+0,2016-03-14 06:05:30 -0500,"/t/api,/t/javascript,/t/programming",GraphQL/Relay as Change-Enabling Architecture,https://gist.github.com/idibidiart/49a095b6bc528638f34f,/u/marcfawzi,1
+0,2016-03-14 06:53:43 -0500,/t/haskell,Efficient binary serialization,https://www.fpcomplete.com/blog/2016/03/efficient-binary-serialization,/u/sts,2
+0,2016-03-13 22:14:59 -0500,"/t/compilers,/t/go",An introduction to LLVM in Go,http://blog.felixangell.com/an-introduction-to-llvm-in-go/,/u/mattetti,6
+0,2016-03-13 17:51:28 -0500,"/t/elixir,/t/erlang",Calling Elixir from Erlang,http://joearms.github.io/2016/03/13/Calling-Elixir-From_Erlang.html,/u/djm,10
+6,2016-03-13 04:44:26 -0500,"/t/networking,/t/security",Imgur disclosed on HackerOne: SSRF in https://imgur.com/vidgif/url,https://hackerone.com/reports/115748,/u/noelle,27
+0,2016-03-14 09:18:04 -0500,"/t/lua,/t/reversing,/t/security",Analysis of VM escape by using LUA script,http://en.wooyun.io/2016/02/29/44.html,/u/355E3B,1
+1,2016-03-13 10:19:31 -0500,"/t/pdf,/t/openbsd,/t/virtualization",OpenBSD vmm/vmd Update,http://bhyvecon.org/bhyvecon2016-Mike.pdf,/u/fcambus,20
+0,2016-03-14 15:02:58 -0500,"/t/compsci,/t/historical",Beginner's Guide to the History of Data Science,http://dataconomy.com/beginners-guide-history-data-science/,/u/mjn,0
+2,2016-03-13 10:46:51 -0500,"/t/historical,/t/lisp,/t/practices",Why Did Symbolics Fail?,https://web.archive.org/web/20080614223925/http://dlweinreb.wordpress.com/2007/11/16/why-did-symbolics-fail/,/u/calvin,15
+2,2016-03-14 02:53:43 -0500,"/t/book,/t/c",Small Memory Software (2000),http://www.smallmemory.com/book.html,/u/pushcx,1
+0,2016-03-13 15:31:11 -0500,/t/javascript,Please stop referring to proposed JavaScript features as ES7,https://medium.com/@jayphelps/please-stop-referring-to-proposed-javascript-features-as-es7-cad29f9dcc4b,/u/joshuacc,6
+0,2016-03-13 06:53:30 -0500,/t/linux,How does perf work? (in which we read the Linux kernel source),http://jvns.ca/blog/2016/03/12/how-does-perf-work-and-some-questions/,/u/lukaszkorecki,16
+0,2016-03-14 08:44:49 -0500,"/t/browsers,/t/practices",Opera's browser now has a built-in ad blocker,http://thenextweb.com/apps/2016/03/10/960860/,/u/flyingfisch,0
+3,2016-03-13 11:44:24 -0500,"/t/show,/t/web",Nameserver.io - Easy Nameserver Redirects,http://nameserver.io/,/u/mikec,2
+0,2016-03-13 19:12:00 -0500,/t/games,Clash Royale: Creating a sticky first time user experience,https://medium.com/@Matthewwspencerr/clash-royale-creating-a-sticky-first-time-user-experience-113e17b18f36,/u/adsouza,3
+0,2016-03-13 20:15:10 -0500,"/t/pdf,/t/security",Essays on Conspiracy by Julian Assange (2006),https://cryptome.org/0002/ja-conspiracies.pdf,/u/gkop,2
+0,2016-03-13 23:06:34 -0500,/t/web,yo-yo.js: A tiny library for building modular UI components using DOM diffing and ES6 templates,https://github.com/maxogden/yo-yo,/u/maxbittker,1
+7,2016-03-12 17:17:27 -0600,/t/games,"AlphaGo, Google's deep mind AI, already win his match against humans in go game",/s/odgszc/alphago_google_s_deep_mind_ai_already_win,/u/xcombelle,9
+0,2016-03-14 03:53:18 -0500,/t/science,Youngest Kids In Class At Higher Risk Of ADHD Diagnosis,http://www.npr.org/sections/health-shots/2016/03/10/469929700/a-late-birth-date-could-boost-the-risk-of-an-adhd-diagnosis,/u/skade,0
+0,2016-03-13 18:36:14 -0500,"/t/culture,/t/law",Interesting Parallels Between The Cannabis and File-Sharing Debates,https://torrentfreak.com/interesting-parallels-between-the-cannabis-and-file-sharing-debates-160313/,/u/rbn,2
+0,2016-03-13 12:45:18 -0500,"/t/compsci,/t/math",Example of execution of graph search algorithm,http://www.cse.unsw.edu.au/~billw/cs9414/notes/prolog/path-trace.html,/u/friendlysock,2
+0,2016-03-12 11:31:58 -0600,/t/python,PyPy 5.0 released,http://morepypy.blogspot.com/2016/03/pypy-50-released.html,/u/geier,25

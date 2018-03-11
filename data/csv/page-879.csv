@@ -1,25 +1,25 @@
-1,2016-02-07 09:55:56 -0600,"['/t/linux', '/t/python', '/t/release', '/t/reversing']",Logging a program's syscalls without allowing (some of) them with maybe,https://github.com/p-e-w/maybe,/u/sigmavirus24,11
-0,2016-02-07 18:17:46 -0600,"['/t/video', '/t/security']",Ben Nagy Fuzzing OSX At Scale,https://vimeo.com/129701495,/u/sevan,4
-1,2016-02-07 13:22:59 -0600,['/t/privacy'],Differential Privacy: The Basics,http://research.neustar.biz/2014/09/08/differential-privacy-the-basics/,/u/pims,4
-7,2016-02-06 12:19:52 -0600,"['/t/haskell', '/t/programming']",Haskell Is the Dark Souls of Programming,http://deliberate-software.com/haskell-is-the-dark-souls-of-programming/,/u/steveshogren,17
-2,2016-02-07 02:08:38 -0600,"['/t/art', '/t/compsci', '/t/math']",Visual Turing Test,http://turing.deepart.io/,/u/Curiositry,9
-1,2016-02-07 09:55:53 -0600,"['/t/art', '/t/historical', '/t/security']",The Malware Museum,https://archive.org/details/malwaremuseum&tab=collection,/u/calvin,4
-1,2016-02-06 17:06:38 -0600,['/t/games'],Saving Zelda,http://tevisthompson.com/saving-zelda/,/u/pushcx,27
-0,2016-02-07 01:24:09 -0600,"['/t/go', '/t/security']",socat-lite with letsencrypt support,https://github.com/jtolds/lecat,/u/jtolds,5
-6,2016-02-06 11:33:29 -0600,['/t/ruby'],I am a puts debuggerer,https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html,/u/pushcx,23
-0,2016-02-06 23:19:00 -0600,"['/t/practices', '/t/programming']",Writing Reviewable Code,https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/,/u/gabe,9
-14,2016-02-06 07:11:10 -0600,"['/t/ios', '/t/security']",‘Error 53’ fury mounts as Apple software update threatens to kill your iPhone 6,http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair,/u/asthasr,24
-12,2016-02-06 17:08:35 -0600,"['/t/go', '/t/programming']",Unhelpful abstractions,http://dave.cheney.net/2016/02/06/unhelpful-abstractions,/u/bbrazil,7
-0,2016-02-07 12:07:57 -0600,"['/t/video', '/t/privacy']",Privacy and Secrecy in the Digital Age,https://www.youtube.com/watch?v=mZQsMUU2NSY,/u/mulander,1
-8,2016-02-06 08:06:42 -0600,"['/t/hardware', '/t/privacy']",HR reading consistently high last few days,https://np.reddit.com/r/fitbit/comments/445ppj/hr_reading_consistently_high_last_few_days/,/u/pushcx,12
-3,2016-02-06 16:43:47 -0600,['/t/ask'],Where do you go to find consulting clients?,/s/vnzzu3/where_do_you_go_find_consulting_clients,/u/michaelochurch,5
-0,2016-02-06 18:26:26 -0600,"['/t/compsci', '/t/lisp', '/t/math']",Why Hyperdimensional Socks Never Match,http://gigasquidsoftware.com/blog/2016/02/06/why-hyperdimensional-socks-never-match/,/u/carinmeier,3
-0,2016-02-06 18:54:24 -0600,['/t/javascript'],Beginner's Guide to Webpack,https://github.com/AriaFallah/WebpackTutorial/tree/master/part1,/u/pushcx,5
-3,2016-02-06 08:06:01 -0600,['/t/devops'],Systems in production,https://medium.com/@jlouis666/systems-in-production-c2ed26b6a72e,/u/pushcx,10
-8,2016-02-07 05:13:10 -0600,['/t/culture'],The Kitten Setting (2013),http://whatever.scalzi.com/2013/01/21/the-kitten-setting/,/u/adsouza,2
-9,2016-02-07 06:53:22 -0600,"['/t/culture', '/t/practices']",GitHub is undergoing a full-blown overhaul as execs and employees depart,http://www.businessinsider.com/github-the-full-inside-story-2016-2,/u/whbboyd,6
-1,2016-02-07 07:23:15 -0600,"['/t/video', '/t/culture', '/t/historical', '/t/person']","Genevieve Bell ""Building the Future""",https://www.youtube.com/watch?v=QqADuKyBNMc,/u/nickzoic,1
-0,2016-02-06 18:39:28 -0600,['/t/lua'],Streamboat.tv hotlink protection with nginx and Varnish,http://benwilber.github.io/streamboat.tv/nginx/varnish/hotlink/video/streaming/2016/02/06/streamboat-tv-hotlink-protection-with-nginx-and-varnish.html,/u/benwilber,1
-0,2016-02-06 08:36:30 -0600,['/t/cogsci'],Cross-cultural studies of toddler self-awareness have been using an unfair test,http://digest.bps.org.uk/2016/02/cross-cultural-studies-of-toddler-self.html,/u/pushcx,8
-0,2016-02-06 11:30:19 -0600,['/t/javascript'],Beginner Webpack Tutorial Part 1 - Introduction To Webpack,https://github.com/AriaFallah/WebpackTutorial/blob/master/part1/README.md,/u/joshuacc,5
-4,2016-02-05 17:44:13 -0600,['/t/book'],80's Computer and coding books from Usborne Publishing available as free downloads,http://www.usborne.com/catalogue/feature-page/computer-and-coding-books.aspx,/u/julienXX,22
+1,2016-02-07 09:55:56 -0600,"/t/linux,/t/python,/t/release,/t/reversing",Logging a program's syscalls without allowing (some of) them with maybe,https://github.com/p-e-w/maybe,/u/sigmavirus24,11
+0,2016-02-07 18:17:46 -0600,"/t/video,/t/security",Ben Nagy Fuzzing OSX At Scale,https://vimeo.com/129701495,/u/sevan,4
+1,2016-02-07 13:22:59 -0600,/t/privacy,Differential Privacy: The Basics,http://research.neustar.biz/2014/09/08/differential-privacy-the-basics/,/u/pims,4
+7,2016-02-06 12:19:52 -0600,"/t/haskell,/t/programming",Haskell Is the Dark Souls of Programming,http://deliberate-software.com/haskell-is-the-dark-souls-of-programming/,/u/steveshogren,17
+2,2016-02-07 02:08:38 -0600,"/t/art,/t/compsci,/t/math",Visual Turing Test,http://turing.deepart.io/,/u/Curiositry,9
+1,2016-02-07 09:55:53 -0600,"/t/art,/t/historical,/t/security",The Malware Museum,https://archive.org/details/malwaremuseum&tab=collection,/u/calvin,4
+1,2016-02-06 17:06:38 -0600,/t/games,Saving Zelda,http://tevisthompson.com/saving-zelda/,/u/pushcx,27
+0,2016-02-07 01:24:09 -0600,"/t/go,/t/security",socat-lite with letsencrypt support,https://github.com/jtolds/lecat,/u/jtolds,5
+6,2016-02-06 11:33:29 -0600,/t/ruby,I am a puts debuggerer,https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html,/u/pushcx,23
+0,2016-02-06 23:19:00 -0600,"/t/practices,/t/programming",Writing Reviewable Code,https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/,/u/gabe,9
+14,2016-02-06 07:11:10 -0600,"/t/ios,/t/security",‘Error 53’ fury mounts as Apple software update threatens to kill your iPhone 6,http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair,/u/asthasr,24
+12,2016-02-06 17:08:35 -0600,"/t/go,/t/programming",Unhelpful abstractions,http://dave.cheney.net/2016/02/06/unhelpful-abstractions,/u/bbrazil,7
+0,2016-02-07 12:07:57 -0600,"/t/video,/t/privacy",Privacy and Secrecy in the Digital Age,https://www.youtube.com/watch?v=mZQsMUU2NSY,/u/mulander,1
+8,2016-02-06 08:06:42 -0600,"/t/hardware,/t/privacy",HR reading consistently high last few days,https://np.reddit.com/r/fitbit/comments/445ppj/hr_reading_consistently_high_last_few_days/,/u/pushcx,12
+3,2016-02-06 16:43:47 -0600,/t/ask,Where do you go to find consulting clients?,/s/vnzzu3/where_do_you_go_find_consulting_clients,/u/michaelochurch,5
+0,2016-02-06 18:26:26 -0600,"/t/compsci,/t/lisp,/t/math",Why Hyperdimensional Socks Never Match,http://gigasquidsoftware.com/blog/2016/02/06/why-hyperdimensional-socks-never-match/,/u/carinmeier,3
+0,2016-02-06 18:54:24 -0600,/t/javascript,Beginner's Guide to Webpack,https://github.com/AriaFallah/WebpackTutorial/tree/master/part1,/u/pushcx,5
+3,2016-02-06 08:06:01 -0600,/t/devops,Systems in production,https://medium.com/@jlouis666/systems-in-production-c2ed26b6a72e,/u/pushcx,10
+8,2016-02-07 05:13:10 -0600,/t/culture,The Kitten Setting (2013),http://whatever.scalzi.com/2013/01/21/the-kitten-setting/,/u/adsouza,2
+9,2016-02-07 06:53:22 -0600,"/t/culture,/t/practices",GitHub is undergoing a full-blown overhaul as execs and employees depart,http://www.businessinsider.com/github-the-full-inside-story-2016-2,/u/whbboyd,6
+1,2016-02-07 07:23:15 -0600,"/t/video,/t/culture,/t/historical,/t/person","Genevieve Bell ""Building the Future""",https://www.youtube.com/watch?v=QqADuKyBNMc,/u/nickzoic,1
+0,2016-02-06 18:39:28 -0600,/t/lua,Streamboat.tv hotlink protection with nginx and Varnish,http://benwilber.github.io/streamboat.tv/nginx/varnish/hotlink/video/streaming/2016/02/06/streamboat-tv-hotlink-protection-with-nginx-and-varnish.html,/u/benwilber,1
+0,2016-02-06 08:36:30 -0600,/t/cogsci,Cross-cultural studies of toddler self-awareness have been using an unfair test,http://digest.bps.org.uk/2016/02/cross-cultural-studies-of-toddler-self.html,/u/pushcx,8
+0,2016-02-06 11:30:19 -0600,/t/javascript,Beginner Webpack Tutorial Part 1 - Introduction To Webpack,https://github.com/AriaFallah/WebpackTutorial/blob/master/part1/README.md,/u/joshuacc,5
+4,2016-02-05 17:44:13 -0600,/t/book,80's Computer and coding books from Usborne Publishing available as free downloads,http://www.usborne.com/catalogue/feature-page/computer-and-coding-books.aspx,/u/julienXX,22

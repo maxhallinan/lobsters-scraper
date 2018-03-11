@@ -1,25 +1,25 @@
-0,2018-02-22 10:55:11 -0600,"['/t/devops', '/t/go', '/t/programming']",Dissecting Kubernetes Deployments,https://blog.heroku.com/dissecting-kubernetes-deployments,/u/dmathieu,7
-2,2018-02-22 13:03:46 -0600,['/t/databases'],When Postgres blocks: 7 tips for dealing with locks,https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/,/u/craigkerstiens,8
-0,2018-02-22 16:14:34 -0600,['/t/go'],"research!rsc: Defining Go Modules (Go and Versioning, Part 6)",https://research.swtch.com/vgo-module,/u/4ad,6
-1,2018-02-22 11:29:21 -0600,"['/t/programming', '/t/web']",Let's Learn About Waveforms,https://pudding.cool/2018/02/waveforms,/u/julienXX,8
-0,2018-02-22 19:20:40 -0600,['/t/c++'],"Modern C++ isn’t memory safe, either",https://neosmart.net/blog/2018/modern-c-isnt-memory-safe/,/u/calvin,4
-29,2018-02-21 12:42:48 -0600,['/t/privacy'],Signal Becomes a 501(c)(3) Foundation,https://signal.org/blog/signal-foundation/,/u/lattera,53
-1,2018-02-22 10:00:03 -0600,"['/t/practices', '/t/vcs']",Why we use SCM systems,https://grimoire.ca/dev/why-scm,/u/yumaikas,7
-0,2018-02-22 13:24:09 -0600,"['/t/pdf', '/t/ai', '/t/distributed', '/t/haskell']",HLogo: A Parallel Haskell Variant of Netlogo (2016),https://ccl.northwestern.edu/2017/4.pdf,/u/nickpsecurity,6
-1,2018-02-22 10:10:16 -0600,"['/t/pdf', '/t/distributed']",CASPaxos: Replicated State Machines without logs,https://arxiv.org/pdf/1802.07000.pdf,/u/tobym,6
-14,2018-02-21 14:37:14 -0600,"['/t/linux', '/t/unix']",futures of distributions,http://joeyh.name/blog/entry/futures_of_distributions/,/u/hobbes,31
-17,2018-02-21 13:57:55 -0600,"['/t/devops', '/t/security']",Attacks against GPG signed APT repositories,https://blog.packagecloud.io/eng/2018/02/21/attacks-against-secure-apt-repositories/,/u/capotej,18
-0,2018-02-22 23:19:24 -0600,"['/t/programming', '/t/scala']",In Defense of OOFP,https://alexn.org/blog/2018/02/12/in-defense-oofp.html,/u/ane,1
-30,2018-02-21 15:08:30 -0600,['/t/programming'],What Does OO Afford?,https://www.sandimetz.com/blog/2018/21/what-does-oo-afford,/u/pushcx,26
-3,2018-02-22 16:47:15 -0600,['/t/culture'],Disillusionment and Modern Programming,https://pragmacoders.com/disillusionment-and-modern-programming/,/u/friendlysock,5
-0,2018-02-22 09:36:56 -0600,['/t/design'],"Goodnight, Adobe CreativeSDK – PJ Hagerty",https://medium.com/@aspleenic/goodnight-adobe-creativesdk-e59dd77478f1,/u/PJ,3
-0,2018-02-21 16:21:11 -0600,"['/t/openbsd', '/t/security']",Meltdown fix committed for OpenBSD,https://undeadly.org/cgi?action=article;sid=20180221201856,/u/j11g,39
-15,2018-02-21 11:18:51 -0600,['/t/programming'],The World's Most Mind-Bending Language Has the Best Development Environment,http://prog21.dadgum.com/48.html,/u/yumaikas,33
-0,2018-02-22 13:37:54 -0600,"['/t/historical', '/t/python']",Guido van Rossum: 2018 Computer History Museum Fellow,http://www.computerhistory.org/fellowawards/hall/guido-van-rossum/,/u/zpojqwfejwfhiunz,3
-2,2018-02-22 09:03:39 -0600,"['/t/cryptocurrencies', '/t/culture']","No, You Probably Don't Need a Blockchain",http://www.ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain,/u/colin,10
-0,2018-02-22 13:11:16 -0600,"['/t/pdf', '/t/compilers', '/t/databases', '/t/ml', '/t/plt']",Type-Safe Access to Key-Value Stores from a Functional Language (2016),https://www.jstage.jst.go.jp/article/ipsjjip/24/1/24_141/_pdf,/u/nickpsecurity,3
-0,2018-02-22 19:37:24 -0600,"['/t/education', '/t/programming']",Collection of programming books under CC License,https://github.com/Mikerr1111/Programming-Books,/u/Yogthos,1
-0,2018-02-22 19:27:57 -0600,"['/t/video', '/t/debugging', '/t/practices']",The Hurricane's Butterfly: Debugging Pathologically Performing Systems,https://www.youtube.com/watch?v=7AO4wz6gI3Q,/u/sevan,1
-1,2018-02-22 05:34:25 -0600,['/t/practices'],Nobody Cares About Your Build,https://grimoire.ca/dev/builds,/u/adsouza,4
-1,2018-02-22 08:53:27 -0600,['/t/practices'],"Bugs, Tasks, and Tickets from First Principles",https://grimoire.ca/dev/trackers-from-first-principles,/u/adsouza,3
-0,2018-02-22 14:32:07 -0600,"['/t/programming', '/t/web']",Announcing Dart 2: Optimized for Client-Side Development,https://medium.com/@asandholm/announcing-dart-2-80ba01f43b6,/u/indy,2
+0,2018-02-22 10:55:11 -0600,"/t/devops,/t/go,/t/programming",Dissecting Kubernetes Deployments,https://blog.heroku.com/dissecting-kubernetes-deployments,/u/dmathieu,7
+2,2018-02-22 13:03:46 -0600,/t/databases,When Postgres blocks: 7 tips for dealing with locks,https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/,/u/craigkerstiens,8
+0,2018-02-22 16:14:34 -0600,/t/go,"research!rsc: Defining Go Modules (Go and Versioning, Part 6)",https://research.swtch.com/vgo-module,/u/4ad,6
+1,2018-02-22 11:29:21 -0600,"/t/programming,/t/web",Let's Learn About Waveforms,https://pudding.cool/2018/02/waveforms,/u/julienXX,8
+0,2018-02-22 19:20:40 -0600,/t/c++,"Modern C++ isn’t memory safe, either",https://neosmart.net/blog/2018/modern-c-isnt-memory-safe/,/u/calvin,4
+29,2018-02-21 12:42:48 -0600,/t/privacy,Signal Becomes a 501(c)(3) Foundation,https://signal.org/blog/signal-foundation/,/u/lattera,53
+1,2018-02-22 10:00:03 -0600,"/t/practices,/t/vcs",Why we use SCM systems,https://grimoire.ca/dev/why-scm,/u/yumaikas,7
+0,2018-02-22 13:24:09 -0600,"/t/pdf,/t/ai,/t/distributed,/t/haskell",HLogo: A Parallel Haskell Variant of Netlogo (2016),https://ccl.northwestern.edu/2017/4.pdf,/u/nickpsecurity,6
+1,2018-02-22 10:10:16 -0600,"/t/pdf,/t/distributed",CASPaxos: Replicated State Machines without logs,https://arxiv.org/pdf/1802.07000.pdf,/u/tobym,6
+14,2018-02-21 14:37:14 -0600,"/t/linux,/t/unix",futures of distributions,http://joeyh.name/blog/entry/futures_of_distributions/,/u/hobbes,31
+17,2018-02-21 13:57:55 -0600,"/t/devops,/t/security",Attacks against GPG signed APT repositories,https://blog.packagecloud.io/eng/2018/02/21/attacks-against-secure-apt-repositories/,/u/capotej,18
+0,2018-02-22 23:19:24 -0600,"/t/programming,/t/scala",In Defense of OOFP,https://alexn.org/blog/2018/02/12/in-defense-oofp.html,/u/ane,1
+30,2018-02-21 15:08:30 -0600,/t/programming,What Does OO Afford?,https://www.sandimetz.com/blog/2018/21/what-does-oo-afford,/u/pushcx,26
+3,2018-02-22 16:47:15 -0600,/t/culture,Disillusionment and Modern Programming,https://pragmacoders.com/disillusionment-and-modern-programming/,/u/friendlysock,5
+0,2018-02-22 09:36:56 -0600,/t/design,"Goodnight, Adobe CreativeSDK – PJ Hagerty",https://medium.com/@aspleenic/goodnight-adobe-creativesdk-e59dd77478f1,/u/PJ,3
+0,2018-02-21 16:21:11 -0600,"/t/openbsd,/t/security",Meltdown fix committed for OpenBSD,https://undeadly.org/cgi?action=article;sid=20180221201856,/u/j11g,39
+15,2018-02-21 11:18:51 -0600,/t/programming,The World's Most Mind-Bending Language Has the Best Development Environment,http://prog21.dadgum.com/48.html,/u/yumaikas,33
+0,2018-02-22 13:37:54 -0600,"/t/historical,/t/python",Guido van Rossum: 2018 Computer History Museum Fellow,http://www.computerhistory.org/fellowawards/hall/guido-van-rossum/,/u/zpojqwfejwfhiunz,3
+2,2018-02-22 09:03:39 -0600,"/t/cryptocurrencies,/t/culture","No, You Probably Don't Need a Blockchain",http://www.ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain,/u/colin,10
+0,2018-02-22 13:11:16 -0600,"/t/pdf,/t/compilers,/t/databases,/t/ml,/t/plt",Type-Safe Access to Key-Value Stores from a Functional Language (2016),https://www.jstage.jst.go.jp/article/ipsjjip/24/1/24_141/_pdf,/u/nickpsecurity,3
+0,2018-02-22 19:37:24 -0600,"/t/education,/t/programming",Collection of programming books under CC License,https://github.com/Mikerr1111/Programming-Books,/u/Yogthos,1
+0,2018-02-22 19:27:57 -0600,"/t/video,/t/debugging,/t/practices",The Hurricane's Butterfly: Debugging Pathologically Performing Systems,https://www.youtube.com/watch?v=7AO4wz6gI3Q,/u/sevan,1
+1,2018-02-22 05:34:25 -0600,/t/practices,Nobody Cares About Your Build,https://grimoire.ca/dev/builds,/u/adsouza,4
+1,2018-02-22 08:53:27 -0600,/t/practices,"Bugs, Tasks, and Tickets from First Principles",https://grimoire.ca/dev/trackers-from-first-principles,/u/adsouza,3
+0,2018-02-22 14:32:07 -0600,"/t/programming,/t/web",Announcing Dart 2: Optimized for Client-Side Development,https://medium.com/@asandholm/announcing-dart-2-80ba01f43b6,/u/indy,2

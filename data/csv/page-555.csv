@@ -1,25 +1,25 @@
-0,2016-12-24 09:32:50 -0600,"['/t/linux', '/t/programming', '/t/security']",Basics of Making a Rootkit: From syscall to hook!,https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/,/u/calvin,6
-1,2016-12-24 09:48:45 -0600,"['/t/linux', '/t/release']",GNU Guix and GuixSD 0.12.0 released,https://www.gnu.org/software/guix/news/gnu-guix-and-guixsd-0120-released.html,/u/pizzaiolo,4
-0,2016-12-24 14:24:49 -0600,['/t/lisp'],Interpreted programming languages,http://fexpr.blogspot.com/2016/08/interpreted-programming-languages.html,/u/PuercoPop,3
-0,2016-12-24 22:12:35 -0600,"['/t/culture', '/t/practices']",Reclaiming Software Engineering,http://www.zerobanana.com/essays/reclaiming-software-engineering/,/u/joshuacc,1
-10,2016-12-23 12:32:59 -0600,['/t/linux'],Debian considering automated upgrades,https://anarc.at/blog/2016-12-22-debian-considering-automated-upgrades/,/u/calvin,18
-1,2016-12-23 22:03:40 -0600,['/t/programming'],Deep Learning Enables You to Hide Screen when Your Boss is Approaching,http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/,/u/tomjakubowski,8
-6,2016-12-23 16:27:13 -0600,"['/t/mac', '/t/security']",Bypass alerts for Little Snitch and Little Flocker on OS X,https://github.com/pwnsdx/Security-Bypass,/u/itistoday,9
-18,2016-12-23 12:21:16 -0600,"['/t/hardware', '/t/mac']",New MacBook Pros Fail to Earn Consumer Reports Recommendation,http://www.consumerreports.org/laptops/macbook-pros-fail-to-earn-consumer-reports-recommendation/,/u/jennifer,11
-3,2016-12-23 14:12:09 -0600,"['/t/practices', '/t/programming']",GTD For Hackers,http://gtdfh.branchable.com,/u/majjoha,9
-0,2016-12-23 19:37:36 -0600,"['/t/compsci', '/t/programming']",Do Be Do Be Do (Frank language),http://lambda-the-ultimate.org/node/5401,/u/xcombelle,6
-1,2016-12-23 08:28:00 -0600,"['/t/freebsd', '/t/practices', '/t/unix']",From Micro-Services to Monoliths,https://iwantmyname.com/blog/from-micro-services-to-monoliths,/u/sevan,20
-3,2016-12-23 17:28:26 -0600,"['/t/culture', '/t/philosophy']",Superintelligence: The Idea That Eats Smart People,http://idlewords.com/talks/superintelligence.htm,/u/ralish,16
-0,2016-12-23 21:31:16 -0600,"['/t/compsci', '/t/dotnet']",A Very Markov Christmas,http://yoloprogramming.com/post/2016/12/23/A-Very-Markov-Christmas,/u/calvin,5
-9,2016-12-23 00:32:14 -0600,['/t/design'],racket-lang.org has a new design,http://racket-lang.org/,/u/av,31
-0,2016-12-23 06:54:22 -0600,"['/t/python', '/t/release']",Python 3.6.0 is now available,http://blog.python.org/2016/12/python-360-is-now-available.html,/u/av,26
-2,2016-12-23 06:55:35 -0600,"['/t/scaling', '/t/web']",0 to 1 Million: Scaling my side project to 1 million requests a day,http://www.re-cycledair.com/0-to-1-million-scaling-my-side-project-to-1-million-requests-a-day,/u/calvin,14
-0,2016-12-23 00:33:15 -0600,"['/t/release', '/t/rust']",Announcing Rust 1.14,http://blog.rust-lang.org/2016/12/22/Rust-1.14.html,/u/av,30
-1,2016-12-23 12:54:55 -0600,"['/t/networking', '/t/security']",Stack buffer overflow vulnerability in NETGEAR WNR2000 router,https://raw.githubusercontent.com/pedrib/PoC/master/advisories/netgear-wnr2000.txt,/u/stsp,7
-1,2016-12-23 07:22:02 -0600,"['/t/linux', '/t/security']",The State of Linux Security,https://linux-audit.com/the-state-of-linux-security/,/u/mulander,7
-1,2016-12-23 09:14:57 -0600,"['/t/pdf', '/t/math', '/t/programming']",On Formalism in Specifications,http://se.ethz.ch/~meyer/publications/ieee/formalism.pdf,/u/peterhorne,5
-2,2016-12-23 00:23:03 -0600,['/t/c'],Building and Linking Libraries in C,https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html,/u/av,8
-0,2016-12-22 18:58:17 -0600,"['/t/c', '/t/programming']",Modest: A pure C99 HTML renderer,https://lexborisov.github.io/Modest/,/u/zem,28
-13,2016-12-22 09:29:03 -0600,"['/t/practices', '/t/programming']",On Being A Senior Engineer,http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/,/u/majjoha,30
-13,2016-12-22 15:49:17 -0600,['/t/ask'],What books did you read in 2016?,/s/bdkpdj/what_books_did_you_read_2016,/u/Curiositry,11
-3,2016-12-22 15:52:34 -0600,"['/t/privacy', '/t/security']",When is a Tor exit not an exit,https://defenceforstartups.com/posts/when-is-a-tor-exit-not-an-exit.html,/u/viraptor,5
+0,2016-12-24 09:32:50 -0600,"/t/linux,/t/programming,/t/security",Basics of Making a Rootkit: From syscall to hook!,https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/,/u/calvin,6
+1,2016-12-24 09:48:45 -0600,"/t/linux,/t/release",GNU Guix and GuixSD 0.12.0 released,https://www.gnu.org/software/guix/news/gnu-guix-and-guixsd-0120-released.html,/u/pizzaiolo,4
+0,2016-12-24 14:24:49 -0600,/t/lisp,Interpreted programming languages,http://fexpr.blogspot.com/2016/08/interpreted-programming-languages.html,/u/PuercoPop,3
+0,2016-12-24 22:12:35 -0600,"/t/culture,/t/practices",Reclaiming Software Engineering,http://www.zerobanana.com/essays/reclaiming-software-engineering/,/u/joshuacc,1
+10,2016-12-23 12:32:59 -0600,/t/linux,Debian considering automated upgrades,https://anarc.at/blog/2016-12-22-debian-considering-automated-upgrades/,/u/calvin,18
+1,2016-12-23 22:03:40 -0600,/t/programming,Deep Learning Enables You to Hide Screen when Your Boss is Approaching,http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/,/u/tomjakubowski,8
+6,2016-12-23 16:27:13 -0600,"/t/mac,/t/security",Bypass alerts for Little Snitch and Little Flocker on OS X,https://github.com/pwnsdx/Security-Bypass,/u/itistoday,9
+18,2016-12-23 12:21:16 -0600,"/t/hardware,/t/mac",New MacBook Pros Fail to Earn Consumer Reports Recommendation,http://www.consumerreports.org/laptops/macbook-pros-fail-to-earn-consumer-reports-recommendation/,/u/jennifer,11
+3,2016-12-23 14:12:09 -0600,"/t/practices,/t/programming",GTD For Hackers,http://gtdfh.branchable.com,/u/majjoha,9
+0,2016-12-23 19:37:36 -0600,"/t/compsci,/t/programming",Do Be Do Be Do (Frank language),http://lambda-the-ultimate.org/node/5401,/u/xcombelle,6
+1,2016-12-23 08:28:00 -0600,"/t/freebsd,/t/practices,/t/unix",From Micro-Services to Monoliths,https://iwantmyname.com/blog/from-micro-services-to-monoliths,/u/sevan,20
+3,2016-12-23 17:28:26 -0600,"/t/culture,/t/philosophy",Superintelligence: The Idea That Eats Smart People,http://idlewords.com/talks/superintelligence.htm,/u/ralish,16
+0,2016-12-23 21:31:16 -0600,"/t/compsci,/t/dotnet",A Very Markov Christmas,http://yoloprogramming.com/post/2016/12/23/A-Very-Markov-Christmas,/u/calvin,5
+9,2016-12-23 00:32:14 -0600,/t/design,racket-lang.org has a new design,http://racket-lang.org/,/u/av,31
+0,2016-12-23 06:54:22 -0600,"/t/python,/t/release",Python 3.6.0 is now available,http://blog.python.org/2016/12/python-360-is-now-available.html,/u/av,26
+2,2016-12-23 06:55:35 -0600,"/t/scaling,/t/web",0 to 1 Million: Scaling my side project to 1 million requests a day,http://www.re-cycledair.com/0-to-1-million-scaling-my-side-project-to-1-million-requests-a-day,/u/calvin,14
+0,2016-12-23 00:33:15 -0600,"/t/release,/t/rust",Announcing Rust 1.14,http://blog.rust-lang.org/2016/12/22/Rust-1.14.html,/u/av,30
+1,2016-12-23 12:54:55 -0600,"/t/networking,/t/security",Stack buffer overflow vulnerability in NETGEAR WNR2000 router,https://raw.githubusercontent.com/pedrib/PoC/master/advisories/netgear-wnr2000.txt,/u/stsp,7
+1,2016-12-23 07:22:02 -0600,"/t/linux,/t/security",The State of Linux Security,https://linux-audit.com/the-state-of-linux-security/,/u/mulander,7
+1,2016-12-23 09:14:57 -0600,"/t/pdf,/t/math,/t/programming",On Formalism in Specifications,http://se.ethz.ch/~meyer/publications/ieee/formalism.pdf,/u/peterhorne,5
+2,2016-12-23 00:23:03 -0600,/t/c,Building and Linking Libraries in C,https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html,/u/av,8
+0,2016-12-22 18:58:17 -0600,"/t/c,/t/programming",Modest: A pure C99 HTML renderer,https://lexborisov.github.io/Modest/,/u/zem,28
+13,2016-12-22 09:29:03 -0600,"/t/practices,/t/programming",On Being A Senior Engineer,http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/,/u/majjoha,30
+13,2016-12-22 15:49:17 -0600,/t/ask,What books did you read in 2016?,/s/bdkpdj/what_books_did_you_read_2016,/u/Curiositry,11
+3,2016-12-22 15:52:34 -0600,"/t/privacy,/t/security",When is a Tor exit not an exit,https://defenceforstartups.com/posts/when-is-a-tor-exit-not-an-exit.html,/u/viraptor,5

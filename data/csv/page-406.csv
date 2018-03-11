@@ -1,25 +1,25 @@
-2,2017-04-13 06:54:33 -0500,"['/t/javascript', '/t/programming', '/t/web']",Vitaly Slobodin steps down as PhantomJS maintainer because of headless Chrome,https://groups.google.com/forum/#!topic/phantomjs/9aI5d-LDuNE,/u/koehr,3
-0,2017-04-13 11:14:36 -0500,"['/t/hardware', '/t/science']",Optimized Conductive Glass,https://simplifier.neocities.org/optglass.html,/u/flyingfisch,2
-2,2017-04-13 02:57:38 -0500,"['/t/browsers', '/t/rust', '/t/web']",Windows nightly builds for Servo now available,https://blog.servo.org/2017/04/13/windows/,/u/Manishearth,5
-0,2017-04-13 10:40:44 -0500,['/t/distributed'],Life Beyond Distributed Transactions,https://queue.acm.org/detail.cfm?id=3025012,/u/julienXX,2
-0,2017-04-13 10:36:39 -0500,['/t/devops'],Microservices Series #1: Microservices are software components that work,https://modernweb.com/microservices-software-components-work/,/u/mikehostetler,2
-0,2017-04-13 10:36:20 -0500,"['/t/practices', '/t/security', '/t/web']",CAs and SSL and Phishing Oh My!,https://unmitigatedrisk.com/?p=570,/u/pushcx,2
-0,2017-04-13 14:15:45 -0500,"['/t/math', '/t/programming']",Typical Sets and the Curse of Dimensionality,http://mc-stan.org/documentation/case-studies/curse-dims.html,/u/tf,1
-0,2017-04-13 10:14:50 -0500,"['/t/video', '/t/hardware']",Building a liquid crystal display (LCD),https://www.youtube.com/watch?v=d4QFNWBSZYg,/u/flyingfisch,2
-0,2017-04-13 09:09:15 -0500,['/t/programming'],Low-Level Programming University - Study Guide,https://github.com/gurugio/lowlevelprogramming-university,/u/Dawny33,2
-0,2017-04-13 09:04:05 -0500,['/t/ruby'],When you're trying to understand ruby memory,https://github.com/benoittgt/understand_ruby_memory,/u/hoopla,2
-3,2017-04-12 13:32:29 -0500,['/t/ruby'],Jumping Off The Ruby Memory Cliff,https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/,/u/schneems,8
-0,2017-04-13 08:59:51 -0500,['/t/ruby'],Make a failing Sidekiq worker call a method after a specific number of retries,https://medium.com/appaloosa-store-engineering/make-a-failing-sidekiq-worker-call-a-method-after-a-specific-number-of-retries-709d7f2cb9f3,/u/hoopla,2
-1,2017-04-13 11:35:56 -0500,['/t/javascript'],React.createClass versus extends React.Component (2016),https://toddmotto.com/react-create-class-versus-component/,/u/pushcx,1
-1,2017-04-13 02:14:53 -0500,"['/t/practices', '/t/privacy']",How the 'dual-use' ruse is employed to sell spyware,http://www.aljazeera.com/indepth/features/2017/04/dual-ruse-employed-sell-spyware-170409092222936.html,/u/stsp,3
-1,2017-04-12 14:37:23 -0500,['/t/javascript'],Retiring Octane,https://v8project.blogspot.com/2017/04/retiring-octane.html,/u/fitzgen,12
-5,2017-04-12 13:31:32 -0500,['/t/devops'],Introducing DnsControl – “DNS as Code” has Arrived,http://blog.serverfault.com/2017/04/11/introducing-dnscontrol-dns-as-code-has-arrived/,/u/Dawny33,10
-0,2017-04-13 09:16:05 -0500,['/t/hardware'],Upgrading a Vectrex to 32 Bits,http://www.galacticstudios.org/vectrex32smartcart/,/u/pushcx,1
-0,2017-04-13 08:32:19 -0500,['/t/security'],Culprit broadcast signal that triggered Dallas' emergency sirens Friday night,https://www.dallasnews.com/news/news/2017/04/10/hacker-broadcast-signal-triggered-dallas-emergency-sirens-friday-night,/u/trn,1
-0,2017-04-12 20:21:46 -0500,"['/t/slides', '/t/compilers']","Why Python, Ruby, and Javascript are Slow (2013)",https://speakerdeck.com/alex/why-python-ruby-and-javascript-are-slow,/u/pushcx,6
-0,2017-04-12 13:38:12 -0500,"['/t/practices', '/t/programming']",Gut Driven Development,http://kevinmahoney.co.uk/articles/gut-driven-development/,/u/kpm,6
-1,2017-04-12 21:18:42 -0500,['/t/art'],AutoDraw turns doodles into clipart,https://autodraw.com/,/u/hwayne,4
-0,2017-04-13 11:09:37 -0500,['/t/culture'],Jeff Bezos' Annual Letter,https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm,/u/jrg,1
-0,2017-04-12 15:02:22 -0500,['/t/openbsd'],openbsd changes of note 620,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-620,/u/calvin,8
-0,2017-04-12 20:24:41 -0500,['/t/databases'],Postgres at Scale: Query Performance and Autovacuuming for Large Tables,https://medium.com/contactually-engineering/postgres-at-scale-query-performance-and-autovacuuming-for-large-tables-d7e8ad40b16b,/u/pushcx,4
-14,2017-04-11 22:27:39 -0500,"['/t/education', '/t/security']",Investigation finds inmates built computers and hid them in prison ceiling,http://wjla.com/news/nation-world/investigation-finds-inmates-built-computers-and-hid-them-in-ceiling-at-marion-prison-04-11-2017,/u/vyodaiken,24
+2,2017-04-13 06:54:33 -0500,"/t/javascript,/t/programming,/t/web",Vitaly Slobodin steps down as PhantomJS maintainer because of headless Chrome,https://groups.google.com/forum/#!topic/phantomjs/9aI5d-LDuNE,/u/koehr,3
+0,2017-04-13 11:14:36 -0500,"/t/hardware,/t/science",Optimized Conductive Glass,https://simplifier.neocities.org/optglass.html,/u/flyingfisch,2
+2,2017-04-13 02:57:38 -0500,"/t/browsers,/t/rust,/t/web",Windows nightly builds for Servo now available,https://blog.servo.org/2017/04/13/windows/,/u/Manishearth,5
+0,2017-04-13 10:40:44 -0500,/t/distributed,Life Beyond Distributed Transactions,https://queue.acm.org/detail.cfm?id=3025012,/u/julienXX,2
+0,2017-04-13 10:36:39 -0500,/t/devops,Microservices Series #1: Microservices are software components that work,https://modernweb.com/microservices-software-components-work/,/u/mikehostetler,2
+0,2017-04-13 10:36:20 -0500,"/t/practices,/t/security,/t/web",CAs and SSL and Phishing Oh My!,https://unmitigatedrisk.com/?p=570,/u/pushcx,2
+0,2017-04-13 14:15:45 -0500,"/t/math,/t/programming",Typical Sets and the Curse of Dimensionality,http://mc-stan.org/documentation/case-studies/curse-dims.html,/u/tf,1
+0,2017-04-13 10:14:50 -0500,"/t/video,/t/hardware",Building a liquid crystal display (LCD),https://www.youtube.com/watch?v=d4QFNWBSZYg,/u/flyingfisch,2
+0,2017-04-13 09:09:15 -0500,/t/programming,Low-Level Programming University - Study Guide,https://github.com/gurugio/lowlevelprogramming-university,/u/Dawny33,2
+0,2017-04-13 09:04:05 -0500,/t/ruby,When you're trying to understand ruby memory,https://github.com/benoittgt/understand_ruby_memory,/u/hoopla,2
+3,2017-04-12 13:32:29 -0500,/t/ruby,Jumping Off The Ruby Memory Cliff,https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/,/u/schneems,8
+0,2017-04-13 08:59:51 -0500,/t/ruby,Make a failing Sidekiq worker call a method after a specific number of retries,https://medium.com/appaloosa-store-engineering/make-a-failing-sidekiq-worker-call-a-method-after-a-specific-number-of-retries-709d7f2cb9f3,/u/hoopla,2
+1,2017-04-13 11:35:56 -0500,/t/javascript,React.createClass versus extends React.Component (2016),https://toddmotto.com/react-create-class-versus-component/,/u/pushcx,1
+1,2017-04-13 02:14:53 -0500,"/t/practices,/t/privacy",How the 'dual-use' ruse is employed to sell spyware,http://www.aljazeera.com/indepth/features/2017/04/dual-ruse-employed-sell-spyware-170409092222936.html,/u/stsp,3
+1,2017-04-12 14:37:23 -0500,/t/javascript,Retiring Octane,https://v8project.blogspot.com/2017/04/retiring-octane.html,/u/fitzgen,12
+5,2017-04-12 13:31:32 -0500,/t/devops,Introducing DnsControl – “DNS as Code” has Arrived,http://blog.serverfault.com/2017/04/11/introducing-dnscontrol-dns-as-code-has-arrived/,/u/Dawny33,10
+0,2017-04-13 09:16:05 -0500,/t/hardware,Upgrading a Vectrex to 32 Bits,http://www.galacticstudios.org/vectrex32smartcart/,/u/pushcx,1
+0,2017-04-13 08:32:19 -0500,/t/security,Culprit broadcast signal that triggered Dallas' emergency sirens Friday night,https://www.dallasnews.com/news/news/2017/04/10/hacker-broadcast-signal-triggered-dallas-emergency-sirens-friday-night,/u/trn,1
+0,2017-04-12 20:21:46 -0500,"/t/slides,/t/compilers","Why Python, Ruby, and Javascript are Slow (2013)",https://speakerdeck.com/alex/why-python-ruby-and-javascript-are-slow,/u/pushcx,6
+0,2017-04-12 13:38:12 -0500,"/t/practices,/t/programming",Gut Driven Development,http://kevinmahoney.co.uk/articles/gut-driven-development/,/u/kpm,6
+1,2017-04-12 21:18:42 -0500,/t/art,AutoDraw turns doodles into clipart,https://autodraw.com/,/u/hwayne,4
+0,2017-04-13 11:09:37 -0500,/t/culture,Jeff Bezos' Annual Letter,https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm,/u/jrg,1
+0,2017-04-12 15:02:22 -0500,/t/openbsd,openbsd changes of note 620,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-620,/u/calvin,8
+0,2017-04-12 20:24:41 -0500,/t/databases,Postgres at Scale: Query Performance and Autovacuuming for Large Tables,https://medium.com/contactually-engineering/postgres-at-scale-query-performance-and-autovacuuming-for-large-tables-d7e8ad40b16b,/u/pushcx,4
+14,2017-04-11 22:27:39 -0500,"/t/education,/t/security",Investigation finds inmates built computers and hid them in prison ceiling,http://wjla.com/news/nation-world/investigation-finds-inmates-built-computers-and-hid-them-in-ceiling-at-marion-prison-04-11-2017,/u/vyodaiken,24

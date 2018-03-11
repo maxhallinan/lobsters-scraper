@@ -1,25 +1,25 @@
-0,2013-12-08 06:12:40 -0600,"['/t/api', '/t/c', '/t/lisp']",Dylan: Eliminating Copies in C-FFI,http://dylanfoundry.org/2013/12/08/eliminating-copies-in-c-ffi/,/u/SeanTAllen,3
-0,2013-12-08 12:18:32 -0600,"['/t/practices', '/t/web']",Epic Fail: The Rise and Fall of Demand Media,http://variety.com/2013/biz/news/epic-fail-the-rise-and-fall-of-demand-media-1200914646/?lobsters,/u/journeysquid,1
-0,2013-12-08 10:12:35 -0600,"['/t/video', '/t/api']",Building Hypermedia APIs with HTML,http://www.infoq.com/presentations/web-api-html,/u/SeanTAllen,1
-0,2013-12-08 06:52:05 -0600,"['/t/programming', '/t/web']",Graylog2 - Syslog implementation using ElasticSearch,http://www.graylog2.org/,/u/thmzlt,1
-0,2013-12-08 02:15:39 -0600,"['/t/privacy', '/t/security']","FBI’s search for ‘Mo,’ suspect in bomb threats, highlights use of malware for surveillance",http://www.washingtonpost.com/business/technology/fbis-search-for-mo-suspect-in-bomb-threats-highlights-use-of-malware-for-surveillance/2013/12/06/352ba174-5397-11e3-9e2c-e1d01116fd98_print.html,/u/kyle,2
-0,2013-12-07 23:59:24 -0600,['/t/security'],Google further improves digital certificate security,http://googleonlinesecurity.blogspot.com/2013/12/further-improving-digital-certificate.html,/u/kyle,2
-0,2013-12-08 10:04:02 -0600,['/t/release'],"Terminology 0.4, a terminal emulator written with the enlightenment foundation libraries, is out",https://phab.enlightenment.org/phame/live/3/post/terminology_0_4/,/u/billiob,0
-4,2013-12-07 13:29:43 -0600,"['/t/programming', '/t/vcs']",Legit: Git for Humans,https://github.com/kennethreitz/legit,/u/SeanTAllen,3
-0,2013-12-07 11:52:30 -0600,"['/t/compsci', '/t/games']",The Art of Rendering,http://www.fxguide.com/featured/the-art-of-rendering/,/u/thmzlt,5
-1,2013-12-07 12:04:54 -0600,"['/t/show', '/t/book', '/t/linux', '/t/virtualization']","Lean, mean data science machine",http://jeroenjanssens.com/2013/12/07/lean-mean-data-science-machine.html,/u/jeroenjanssens,2
-0,2013-12-07 11:31:01 -0600,"['/t/video', '/t/databases']",Partitions for Everyone! pt. 2,http://www.infoq.com/presentations/partitioning-comparison,/u/SeanTAllen,3
-0,2013-12-07 17:14:04 -0600,['/t/android'],Google’s $179 Moto G puts every single cheap Android phone to shame,http://arstechnica.com/gadgets/2013/12/review-googles-179-moto-g-puts-every-single-cheap-android-phone-to-shame/?lobsters,/u/journeysquid,1
-0,2013-12-07 12:38:54 -0600,['/t/science'],Peter Higgs: I wouldn't be productive enough for today's academic system,http://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system?lobsters,/u/journeysquid,2
-0,2013-12-07 14:57:06 -0600,"['/t/news', '/t/science']",Killing cancer like the common cold,http://www.cnn.com/2013/12/07/health/cohen-cancer-study/index.html?lobsters,/u/journeysquid,1
-1,2013-12-06 14:02:22 -0600,"['/t/openbsd', '/t/security']",New private key format for OpenSSH,http://marc.info/?l=openbsd-cvs&m=138633690918227&w=2,/u/tedu,9
-5,2013-12-06 07:21:07 -0600,"['/t/freebsd', '/t/unix']",FreeBSD Project Falls Short of Year End Funding Target By Over 50%,http://slashdot.org/submission/3171031/freebsd-project-falls-short-of-year-end-funding-target-by-over-50,/u/xmj,9
-2,2013-12-06 11:21:35 -0600,"['/t/slides', '/t/video', '/t/scaling']",How a Small Team Scales Instagram,http://www.infoq.com/presentations/scaling-instagram,/u/teoruiz,7
-0,2013-12-06 16:40:15 -0600,"['/t/lisp', '/t/unix']",X11 server in Lisp,https://github.com/pyb/zen,/u/kyle,5
-1,2013-12-06 12:39:45 -0600,['/t/javascript'],Tearable Cloth,http://codepen.io/suffick/pen/KrAwx,/u/a4j,6
-0,2013-12-07 00:47:17 -0600,['/t/haskell'],Popularizing Haskell through easy web deployment,http://blog.begriffs.com/2013/12/popularizing-haskell-through-easy-web.html,/u/puffnfresh,1
-1,2013-12-06 14:17:12 -0600,"['/t/mac', '/t/security']",Mac Intrusion Detection Analysis System,https://github.com/etsy/MIDAS,/u/jcs,5
-0,2013-12-06 13:49:31 -0600,['/t/cryptocurrencies'],How the Bitcoin protocol actually works,http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/,/u/kyle,4
-0,2013-12-06 10:56:34 -0600,['/t/math'],German tank problem - Wikipedia,http://en.wikipedia.org/wiki/German_tank_problem,/u/jm,5
-0,2013-12-06 13:32:35 -0600,['/t/security'],Telepathwords: A New Password Strength Estimator,https://www.schneier.com/blog/archives/2013/12/telepathwords_a.html,/u/kyle,3
-0,2013-12-06 05:11:34 -0600,"['/t/assembly', '/t/compsci', '/t/programming']",MikeOS - simple x86 assembly language operating system,http://mikeos.berlios.de,/u/jbrooksuk,7
+0,2013-12-08 06:12:40 -0600,"/t/api,/t/c,/t/lisp",Dylan: Eliminating Copies in C-FFI,http://dylanfoundry.org/2013/12/08/eliminating-copies-in-c-ffi/,/u/SeanTAllen,3
+0,2013-12-08 12:18:32 -0600,"/t/practices,/t/web",Epic Fail: The Rise and Fall of Demand Media,http://variety.com/2013/biz/news/epic-fail-the-rise-and-fall-of-demand-media-1200914646/?lobsters,/u/journeysquid,1
+0,2013-12-08 10:12:35 -0600,"/t/video,/t/api",Building Hypermedia APIs with HTML,http://www.infoq.com/presentations/web-api-html,/u/SeanTAllen,1
+0,2013-12-08 06:52:05 -0600,"/t/programming,/t/web",Graylog2 - Syslog implementation using ElasticSearch,http://www.graylog2.org/,/u/thmzlt,1
+0,2013-12-08 02:15:39 -0600,"/t/privacy,/t/security","FBI’s search for ‘Mo,’ suspect in bomb threats, highlights use of malware for surveillance",http://www.washingtonpost.com/business/technology/fbis-search-for-mo-suspect-in-bomb-threats-highlights-use-of-malware-for-surveillance/2013/12/06/352ba174-5397-11e3-9e2c-e1d01116fd98_print.html,/u/kyle,2
+0,2013-12-07 23:59:24 -0600,/t/security,Google further improves digital certificate security,http://googleonlinesecurity.blogspot.com/2013/12/further-improving-digital-certificate.html,/u/kyle,2
+0,2013-12-08 10:04:02 -0600,/t/release,"Terminology 0.4, a terminal emulator written with the enlightenment foundation libraries, is out",https://phab.enlightenment.org/phame/live/3/post/terminology_0_4/,/u/billiob,0
+4,2013-12-07 13:29:43 -0600,"/t/programming,/t/vcs",Legit: Git for Humans,https://github.com/kennethreitz/legit,/u/SeanTAllen,3
+0,2013-12-07 11:52:30 -0600,"/t/compsci,/t/games",The Art of Rendering,http://www.fxguide.com/featured/the-art-of-rendering/,/u/thmzlt,5
+1,2013-12-07 12:04:54 -0600,"/t/show,/t/book,/t/linux,/t/virtualization","Lean, mean data science machine",http://jeroenjanssens.com/2013/12/07/lean-mean-data-science-machine.html,/u/jeroenjanssens,2
+0,2013-12-07 11:31:01 -0600,"/t/video,/t/databases",Partitions for Everyone! pt. 2,http://www.infoq.com/presentations/partitioning-comparison,/u/SeanTAllen,3
+0,2013-12-07 17:14:04 -0600,/t/android,Google’s $179 Moto G puts every single cheap Android phone to shame,http://arstechnica.com/gadgets/2013/12/review-googles-179-moto-g-puts-every-single-cheap-android-phone-to-shame/?lobsters,/u/journeysquid,1
+0,2013-12-07 12:38:54 -0600,/t/science,Peter Higgs: I wouldn't be productive enough for today's academic system,http://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system?lobsters,/u/journeysquid,2
+0,2013-12-07 14:57:06 -0600,"/t/news,/t/science",Killing cancer like the common cold,http://www.cnn.com/2013/12/07/health/cohen-cancer-study/index.html?lobsters,/u/journeysquid,1
+1,2013-12-06 14:02:22 -0600,"/t/openbsd,/t/security",New private key format for OpenSSH,http://marc.info/?l=openbsd-cvs&m=138633690918227&w=2,/u/tedu,9
+5,2013-12-06 07:21:07 -0600,"/t/freebsd,/t/unix",FreeBSD Project Falls Short of Year End Funding Target By Over 50%,http://slashdot.org/submission/3171031/freebsd-project-falls-short-of-year-end-funding-target-by-over-50,/u/xmj,9
+2,2013-12-06 11:21:35 -0600,"/t/slides,/t/video,/t/scaling",How a Small Team Scales Instagram,http://www.infoq.com/presentations/scaling-instagram,/u/teoruiz,7
+0,2013-12-06 16:40:15 -0600,"/t/lisp,/t/unix",X11 server in Lisp,https://github.com/pyb/zen,/u/kyle,5
+1,2013-12-06 12:39:45 -0600,/t/javascript,Tearable Cloth,http://codepen.io/suffick/pen/KrAwx,/u/a4j,6
+0,2013-12-07 00:47:17 -0600,/t/haskell,Popularizing Haskell through easy web deployment,http://blog.begriffs.com/2013/12/popularizing-haskell-through-easy-web.html,/u/puffnfresh,1
+1,2013-12-06 14:17:12 -0600,"/t/mac,/t/security",Mac Intrusion Detection Analysis System,https://github.com/etsy/MIDAS,/u/jcs,5
+0,2013-12-06 13:49:31 -0600,/t/cryptocurrencies,How the Bitcoin protocol actually works,http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/,/u/kyle,4
+0,2013-12-06 10:56:34 -0600,/t/math,German tank problem - Wikipedia,http://en.wikipedia.org/wiki/German_tank_problem,/u/jm,5
+0,2013-12-06 13:32:35 -0600,/t/security,Telepathwords: A New Password Strength Estimator,https://www.schneier.com/blog/archives/2013/12/telepathwords_a.html,/u/kyle,3
+0,2013-12-06 05:11:34 -0600,"/t/assembly,/t/compsci,/t/programming",MikeOS - simple x86 assembly language operating system,http://mikeos.berlios.de,/u/jbrooksuk,7

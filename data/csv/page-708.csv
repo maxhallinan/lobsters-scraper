@@ -1,25 +1,25 @@
-6,2016-07-28 11:03:39 -0500,"['/t/compsci', '/t/elm', '/t/programming']",Non-Empty Recursion in Elm,https://x.st/non-empty-recursion-in-elm/,/u/kilovoltaire,11
-3,2016-07-28 12:39:10 -0500,['/t/erlang'],10 Essential Erlang Tools for Erlang Developers,http://tutorials.pluralsight.com/erlang/10-essential-erlang-tools-for-erlang-developers,/u/elbrujohalcon,10
-1,2016-07-29 08:00:37 -0500,['/t/hardware'],"Power Management States: P-States, C-States, and Package C-States",https://software.intel.com/en-us/articles/power-management-states-p-states-c-states-and-package-c-states,/u/voidzero,2
-0,2016-07-29 11:36:12 -0500,"['/t/audio', '/t/programming']",Why Are Computers 2: This Increasingly Complicated World,http://whyarecomputers.com/2,/u/pushcx,1
-0,2016-07-29 11:03:14 -0500,"['/t/hardware', '/t/math', '/t/rust', '/t/science']","Bay Area Rust Meetup - ""Machine Learning, Bioinformatics, and Embedded OSes""",https://air.mozilla.org/bay-area-rust-meetup-july-2016/,/u/tf,1
-0,2016-07-29 07:29:48 -0500,"['/t/practices', '/t/satire']",How to write unmaintainable code,https://github.com/Droogans/unmaintainable-code,/u/calvin,4
-0,2016-07-29 11:41:51 -0500,['/t/culture'],Inside India’s Coder Boom,https://wordlyties.wordpress.com/2015/10/17/inside-indias-coder-boom/,/u/av,2
-0,2016-07-28 20:38:52 -0500,"['/t/math', '/t/programming', '/t/rust']",Coq to Rust program extraction,https://github.com/pirapira/coq2rust,/u/omphalos,6
-2,2016-07-28 16:46:22 -0500,"['/t/ask', '/t/practices']",How do you keep a journal?,/s/3sxdbu/how_do_you_keep_journal,/u/gnusosa,6
-0,2016-07-29 04:57:25 -0500,['/t/linux'],Controlling access to the memory cache,https://lwn.net/Articles/694800/,/u/av,2
-5,2016-07-28 23:05:11 -0500,"['/t/programming', '/t/satire']",If programming languages were vehicles,http://crashworks.org/if_programming_languages_were_vehicles/,/u/Lethargicpanda,8
-0,2016-07-28 22:03:16 -0500,"['/t/pdf', '/t/databases']",Learning to Compose Neural Networks for Question Answering,https://arxiv.org/pdf/1601.01705v4.pdf,/u/xitrium,3
-9,2016-07-28 01:41:35 -0500,['/t/practices'],IMAP Sucks,http://hea-www.cfa.harvard.edu/~fine/opinions/IMAPsucks.html,/u/friendlysock,16
-0,2016-07-28 23:18:59 -0500,['/t/python'],Python Internals - PyObject,http://www.gahcep.com/python-internals-pyobject/,/u/av,2
-0,2016-07-28 21:52:12 -0500,"['/t/pdf', '/t/compsci']",Foundations of Session Types and Behavioural Contracts,http://dl.acm.org/citation.cfm?id=2873052,/u/craigstuntz,2
-39,2016-07-27 18:59:36 -0500,['/t/security'],Don’t want to get hacked? Close your laptop,https://medium.freecodecamp.com/how-to-hack-your-friends-eef055389344,/u/rdegges,23
-1,2016-07-28 10:19:32 -0500,['/t/vcs'],"X-Men: Days of Future Past, Explained in Mercurial Evolve",http://jordi.inversethought.com/blog/x-men-in-mercurial-evolve/,/u/unbalancedparentheses,6
-10,2016-07-28 02:06:59 -0500,['/t/programming'],Tail recursion and debugging (2011),http://funcall.blogspot.com/2011/03/tail-recursion-and-debugging.html,/u/apg,10
-0,2016-07-28 19:23:35 -0500,"['/t/graphics', '/t/hardware']",How Magic Leap Works - From Field of View to GPU,http://gpuofthebrain.com/blog/2016/7/22/how-magic-leap-will-work,/u/friendlysock,2
-19,2016-07-27 22:13:17 -0500,['/t/programming'],The Top Programming Languages 2016,http://spectrum.ieee.org/computing/software/the-2016-top-programming-languages,/u/pyk,13
-0,2016-07-28 16:07:48 -0500,"['/t/devops', '/t/hardware', '/t/networking', '/t/web']",Dedibox is now Available in Amsterdam,http://blog.online.net/2016/07/28/dedibox-is-now-available-in-amsterdam/,/u/cnst,3
-0,2016-07-28 02:07:39 -0500,"['/t/compilers', '/t/ml']",Why is an int in OCaml only 31 bits?,http://stackoverflow.com/questions/3773985/why-is-an-int-in-ocaml-only-31-bits,/u/apg,14
-14,2016-07-27 15:27:00 -0500,['/t/finance'],Why It's Nearly Impossible To Stop This Amazon and eBay Scheme,https://www.entrepreneur.com/article/278622,/u/tedu,21
-1,2016-07-27 23:36:03 -0500,['/t/rust'],The Rust Platform,https://aturon.github.io/blog/2016/07/27/rust-platform/,/u/av,15
-0,2016-07-28 04:09:51 -0500,"['/t/ml', '/t/programming']",Union Type in Idris,http://nicolas.biri.name/posts/2016-07-26-union-type-in-idris-part-1.html,/u/julienXX,10
+6,2016-07-28 11:03:39 -0500,"/t/compsci,/t/elm,/t/programming",Non-Empty Recursion in Elm,https://x.st/non-empty-recursion-in-elm/,/u/kilovoltaire,11
+3,2016-07-28 12:39:10 -0500,/t/erlang,10 Essential Erlang Tools for Erlang Developers,http://tutorials.pluralsight.com/erlang/10-essential-erlang-tools-for-erlang-developers,/u/elbrujohalcon,10
+1,2016-07-29 08:00:37 -0500,/t/hardware,"Power Management States: P-States, C-States, and Package C-States",https://software.intel.com/en-us/articles/power-management-states-p-states-c-states-and-package-c-states,/u/voidzero,2
+0,2016-07-29 11:36:12 -0500,"/t/audio,/t/programming",Why Are Computers 2: This Increasingly Complicated World,http://whyarecomputers.com/2,/u/pushcx,1
+0,2016-07-29 11:03:14 -0500,"/t/hardware,/t/math,/t/rust,/t/science","Bay Area Rust Meetup - ""Machine Learning, Bioinformatics, and Embedded OSes""",https://air.mozilla.org/bay-area-rust-meetup-july-2016/,/u/tf,1
+0,2016-07-29 07:29:48 -0500,"/t/practices,/t/satire",How to write unmaintainable code,https://github.com/Droogans/unmaintainable-code,/u/calvin,4
+0,2016-07-29 11:41:51 -0500,/t/culture,Inside India’s Coder Boom,https://wordlyties.wordpress.com/2015/10/17/inside-indias-coder-boom/,/u/av,2
+0,2016-07-28 20:38:52 -0500,"/t/math,/t/programming,/t/rust",Coq to Rust program extraction,https://github.com/pirapira/coq2rust,/u/omphalos,6
+2,2016-07-28 16:46:22 -0500,"/t/ask,/t/practices",How do you keep a journal?,/s/3sxdbu/how_do_you_keep_journal,/u/gnusosa,6
+0,2016-07-29 04:57:25 -0500,/t/linux,Controlling access to the memory cache,https://lwn.net/Articles/694800/,/u/av,2
+5,2016-07-28 23:05:11 -0500,"/t/programming,/t/satire",If programming languages were vehicles,http://crashworks.org/if_programming_languages_were_vehicles/,/u/Lethargicpanda,8
+0,2016-07-28 22:03:16 -0500,"/t/pdf,/t/databases",Learning to Compose Neural Networks for Question Answering,https://arxiv.org/pdf/1601.01705v4.pdf,/u/xitrium,3
+9,2016-07-28 01:41:35 -0500,/t/practices,IMAP Sucks,http://hea-www.cfa.harvard.edu/~fine/opinions/IMAPsucks.html,/u/friendlysock,16
+0,2016-07-28 23:18:59 -0500,/t/python,Python Internals - PyObject,http://www.gahcep.com/python-internals-pyobject/,/u/av,2
+0,2016-07-28 21:52:12 -0500,"/t/pdf,/t/compsci",Foundations of Session Types and Behavioural Contracts,http://dl.acm.org/citation.cfm?id=2873052,/u/craigstuntz,2
+39,2016-07-27 18:59:36 -0500,/t/security,Don’t want to get hacked? Close your laptop,https://medium.freecodecamp.com/how-to-hack-your-friends-eef055389344,/u/rdegges,23
+1,2016-07-28 10:19:32 -0500,/t/vcs,"X-Men: Days of Future Past, Explained in Mercurial Evolve",http://jordi.inversethought.com/blog/x-men-in-mercurial-evolve/,/u/unbalancedparentheses,6
+10,2016-07-28 02:06:59 -0500,/t/programming,Tail recursion and debugging (2011),http://funcall.blogspot.com/2011/03/tail-recursion-and-debugging.html,/u/apg,10
+0,2016-07-28 19:23:35 -0500,"/t/graphics,/t/hardware",How Magic Leap Works - From Field of View to GPU,http://gpuofthebrain.com/blog/2016/7/22/how-magic-leap-will-work,/u/friendlysock,2
+19,2016-07-27 22:13:17 -0500,/t/programming,The Top Programming Languages 2016,http://spectrum.ieee.org/computing/software/the-2016-top-programming-languages,/u/pyk,13
+0,2016-07-28 16:07:48 -0500,"/t/devops,/t/hardware,/t/networking,/t/web",Dedibox is now Available in Amsterdam,http://blog.online.net/2016/07/28/dedibox-is-now-available-in-amsterdam/,/u/cnst,3
+0,2016-07-28 02:07:39 -0500,"/t/compilers,/t/ml",Why is an int in OCaml only 31 bits?,http://stackoverflow.com/questions/3773985/why-is-an-int-in-ocaml-only-31-bits,/u/apg,14
+14,2016-07-27 15:27:00 -0500,/t/finance,Why It's Nearly Impossible To Stop This Amazon and eBay Scheme,https://www.entrepreneur.com/article/278622,/u/tedu,21
+1,2016-07-27 23:36:03 -0500,/t/rust,The Rust Platform,https://aturon.github.io/blog/2016/07/27/rust-platform/,/u/av,15
+0,2016-07-28 04:09:51 -0500,"/t/ml,/t/programming",Union Type in Idris,http://nicolas.biri.name/posts/2016-07-26-union-type-in-idris-part-1.html,/u/julienXX,10

@@ -1,25 +1,25 @@
-0,2012-09-06 11:45:05 -0500,['/t/scaling'],Netflix Shares Cloud Load Balancing And Failover Tool: Eureka!,http://techblog.netflix.com/2012/09/eureka.html,/u/virtualroot,8
-0,2012-09-06 14:56:48 -0500,"['/t/c', '/t/unix']",The Linux Graphics Stack,http://blog.mecheye.net/2012/06/the-linux-graphics-stack/,/u/tedu,5
-0,2012-09-06 09:49:42 -0500,['/t/ruby'],Ruby supports recursive arrays,http://stackoverflow.com/questions/10606734/what-are-recursive-arrays-good-for,/u/pushcx,9
-1,2012-09-06 16:06:58 -0500,"['/t/release', '/t/web']",How Google Builds Its Maps—and What It Means for the Future of Everything,http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/,/u/mikeg,4
-1,2012-09-06 09:54:57 -0500,"['/t/news', '/t/privacy']",Jimmy Wales: Wikipedia will use encryption to beat snooper's charter,http://www.telegraph.co.uk/technology/news/9524474/Jimmy-Wales-Wikipedia-will-use-encryption-to-beat-snoopers-charter.html,/u/wally,6
-0,2012-09-06 11:22:12 -0500,['/t/ruby'],Refactoring in Practice: Speeding up Your Rails Tests,http://www.nateklaiber.com/blog/2012/08/29/refactoring-in-practice-speeding-up-your-rails-tests,/u/pushcx,5
-0,2012-09-06 12:44:52 -0500,"['/t/video', '/t/compsci']",Defining Object-Oriented Design by Sandi Metz (54m),http://vimeo.com/48071436,/u/pushcx,4
-0,2012-09-06 10:58:00 -0500,['/t/design'],Roof Kerning in Amsterdam,http://typographica.org/on-typography/roof-kerning-in-amsterdam/,/u/pushcx,5
-6,2012-09-05 21:55:02 -0500,['/t/release'],Happier as a Hacker,http://bjeanes.com/2012/09/happier-as-a-hacker,/u/odin,12
-11,2012-09-05 13:31:19 -0500,"['/t/news', '/t/scaling']",How we keep GitHub fast,https://github.com/blog/1252-how-we-keep-github-fast,/u/davidpett,33
-0,2012-09-06 11:18:27 -0500,"['/t/databases', '/t/ruby']",Using Recursive SQL with ActiveRecord Trees,http://blog.hashrocket.com/posts/recursive-sql-in-activerecord,/u/pushcx,4
-0,2012-09-06 10:46:39 -0500,['/t/hardware'],Keyboard Ghosting Explained,http://www.microsoft.com/appliedsciences/antighostingexplained.mspx,/u/pushcx,4
-0,2012-09-06 10:19:39 -0500,"['/t/assembly', '/t/compsci']",Heavily Annotated Tiny Implementation of Forth in ASM,http://www.retroprogramming.com/2012/09/itsy-documenting-bit-twiddling-voodoo.html,/u/pushcx,4
-0,2012-09-06 12:27:32 -0500,['/t/design'],"Agile, The Control Paradox, and the Boring Software Manifesto",http://pathfindersoftware.com/2007/09/agile-the-contr/,/u/pushcx,3
-0,2012-09-06 11:45:51 -0500,"['/t/event', '/t/python']",PyCon Uruguay 2012,http://pycon.python.org.uy/,/u/virtualroot,3
-0,2012-09-06 12:52:30 -0500,['/t/pdf'],Mutual Assessment in the Social Programmer Ecosystem,http://leif.me/papers/MutualAssessment-DCS-347-IR.pdf,/u/wmoxam,2
-0,2012-09-06 09:44:11 -0500,"['/t/ios', '/t/news']",Apple patent could remotely disable protesters phone cameras,http://www.zdnet.com/apple-patent-could-remotely-disable-protesters-phone-cameras-7000003640/,/u/Francis,3
-5,2012-09-05 17:52:02 -0500,"['/t/ruby', '/t/web']",Rails in Realtime,http://layervault.tumblr.com/post/30932219739/rails-in-realtime,/u/odin,12
-0,2012-09-06 09:03:48 -0500,"['/t/show', '/t/javascript']",Show Lobsters: Sublime Text 2 Package - AMD/RequireJS Module Editor,https://github.com/wukkuan/AMD-Module-Editor,/u/wukkuan,2
-1,2012-09-06 11:07:46 -0500,['/t/release'],Software foundations (new free textbook on developing formally verified software),http://www.cis.upenn.edu/~bcpierce/sf/index.html,/u/mikeg,2
-0,2012-09-06 11:05:08 -0500,"['/t/math', '/t/ruby', '/t/web']",Validation Issues; A/B Testing Valid Forms,http://www.ror-e.com/posts/31-validation-issues,/u/pushcx,2
-1,2012-09-05 17:39:08 -0500,['/t/unix'],4 unix commands I abuse every day,http://everythingsysadmin.com/2012/09/unorthodoxunix.html,/u/grourk,16
-0,2012-09-06 10:26:25 -0500,"['/t/javascript', '/t/scaling']","Free online book on libuv, evented IO for node",http://nikhilm.github.com/uvbook/introduction.html,/u/pushcx,2
-0,2012-09-06 07:28:35 -0500,"['/t/ruby', '/t/web']",Quick Tip: Easily create single page applications with Sprockets,http://omgninjas.net/2012/09/01/quick-tip-easily-create-single-page-applications-with-sprockets/,/u/pkhamre,3
-0,2012-09-06 10:11:23 -0500,"['/t/browsers', '/t/compsci', '/t/rust']",Rust (1): Primer,http://winningraceconditions.blogspot.co.uk/2012/09/rust-1-primer.html,/u/pushcx,2
+0,2012-09-06 11:45:05 -0500,/t/scaling,Netflix Shares Cloud Load Balancing And Failover Tool: Eureka!,http://techblog.netflix.com/2012/09/eureka.html,/u/virtualroot,8
+0,2012-09-06 14:56:48 -0500,"/t/c,/t/unix",The Linux Graphics Stack,http://blog.mecheye.net/2012/06/the-linux-graphics-stack/,/u/tedu,5
+0,2012-09-06 09:49:42 -0500,/t/ruby,Ruby supports recursive arrays,http://stackoverflow.com/questions/10606734/what-are-recursive-arrays-good-for,/u/pushcx,9
+1,2012-09-06 16:06:58 -0500,"/t/release,/t/web",How Google Builds Its Maps—and What It Means for the Future of Everything,http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/,/u/mikeg,4
+1,2012-09-06 09:54:57 -0500,"/t/news,/t/privacy",Jimmy Wales: Wikipedia will use encryption to beat snooper's charter,http://www.telegraph.co.uk/technology/news/9524474/Jimmy-Wales-Wikipedia-will-use-encryption-to-beat-snoopers-charter.html,/u/wally,6
+0,2012-09-06 11:22:12 -0500,/t/ruby,Refactoring in Practice: Speeding up Your Rails Tests,http://www.nateklaiber.com/blog/2012/08/29/refactoring-in-practice-speeding-up-your-rails-tests,/u/pushcx,5
+0,2012-09-06 12:44:52 -0500,"/t/video,/t/compsci",Defining Object-Oriented Design by Sandi Metz (54m),http://vimeo.com/48071436,/u/pushcx,4
+0,2012-09-06 10:58:00 -0500,/t/design,Roof Kerning in Amsterdam,http://typographica.org/on-typography/roof-kerning-in-amsterdam/,/u/pushcx,5
+6,2012-09-05 21:55:02 -0500,/t/release,Happier as a Hacker,http://bjeanes.com/2012/09/happier-as-a-hacker,/u/odin,12
+11,2012-09-05 13:31:19 -0500,"/t/news,/t/scaling",How we keep GitHub fast,https://github.com/blog/1252-how-we-keep-github-fast,/u/davidpett,33
+0,2012-09-06 11:18:27 -0500,"/t/databases,/t/ruby",Using Recursive SQL with ActiveRecord Trees,http://blog.hashrocket.com/posts/recursive-sql-in-activerecord,/u/pushcx,4
+0,2012-09-06 10:46:39 -0500,/t/hardware,Keyboard Ghosting Explained,http://www.microsoft.com/appliedsciences/antighostingexplained.mspx,/u/pushcx,4
+0,2012-09-06 10:19:39 -0500,"/t/assembly,/t/compsci",Heavily Annotated Tiny Implementation of Forth in ASM,http://www.retroprogramming.com/2012/09/itsy-documenting-bit-twiddling-voodoo.html,/u/pushcx,4
+0,2012-09-06 12:27:32 -0500,/t/design,"Agile, The Control Paradox, and the Boring Software Manifesto",http://pathfindersoftware.com/2007/09/agile-the-contr/,/u/pushcx,3
+0,2012-09-06 11:45:51 -0500,"/t/event,/t/python",PyCon Uruguay 2012,http://pycon.python.org.uy/,/u/virtualroot,3
+0,2012-09-06 12:52:30 -0500,/t/pdf,Mutual Assessment in the Social Programmer Ecosystem,http://leif.me/papers/MutualAssessment-DCS-347-IR.pdf,/u/wmoxam,2
+0,2012-09-06 09:44:11 -0500,"/t/ios,/t/news",Apple patent could remotely disable protesters phone cameras,http://www.zdnet.com/apple-patent-could-remotely-disable-protesters-phone-cameras-7000003640/,/u/Francis,3
+5,2012-09-05 17:52:02 -0500,"/t/ruby,/t/web",Rails in Realtime,http://layervault.tumblr.com/post/30932219739/rails-in-realtime,/u/odin,12
+0,2012-09-06 09:03:48 -0500,"/t/show,/t/javascript",Show Lobsters: Sublime Text 2 Package - AMD/RequireJS Module Editor,https://github.com/wukkuan/AMD-Module-Editor,/u/wukkuan,2
+1,2012-09-06 11:07:46 -0500,/t/release,Software foundations (new free textbook on developing formally verified software),http://www.cis.upenn.edu/~bcpierce/sf/index.html,/u/mikeg,2
+0,2012-09-06 11:05:08 -0500,"/t/math,/t/ruby,/t/web",Validation Issues; A/B Testing Valid Forms,http://www.ror-e.com/posts/31-validation-issues,/u/pushcx,2
+1,2012-09-05 17:39:08 -0500,/t/unix,4 unix commands I abuse every day,http://everythingsysadmin.com/2012/09/unorthodoxunix.html,/u/grourk,16
+0,2012-09-06 10:26:25 -0500,"/t/javascript,/t/scaling","Free online book on libuv, evented IO for node",http://nikhilm.github.com/uvbook/introduction.html,/u/pushcx,2
+0,2012-09-06 07:28:35 -0500,"/t/ruby,/t/web",Quick Tip: Easily create single page applications with Sprockets,http://omgninjas.net/2012/09/01/quick-tip-easily-create-single-page-applications-with-sprockets/,/u/pkhamre,3
+0,2012-09-06 10:11:23 -0500,"/t/browsers,/t/compsci,/t/rust",Rust (1): Primer,http://winningraceconditions.blogspot.co.uk/2012/09/rust-1-primer.html,/u/pushcx,2

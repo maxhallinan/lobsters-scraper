@@ -1,25 +1,25 @@
-6,2014-05-05 05:10:59 -0500,"['/t/programming', '/t/security', '/t/unix']",A good idea with bad usage: /dev/urandom,http://insanecoding.blogspot.ca/2014/05/a-good-idea-with-bad-usage-devurandom.html,/u/penberg,15
-0,2014-05-06 01:14:14 -0500,"['/t/programming', '/t/ruby']",Why should you write Tests for Ruby on Rails code?,http://hayksaakian.com/article/53687c97ef8c990200c7fcea/Why%20should%20you%20write%20Tests%20for%20Ruby%20on%20Rails%20code?,/u/hayk,2
-22,2014-05-05 07:08:36 -0500,"['/t/show', '/t/android', '/t/meta', '/t/mobile']",Pinchy: A Lobste.rs android app,https://play.google.com/store/apps/details?id=com.pinchy.android,/u/mongey,34
-0,2014-05-06 03:43:01 -0500,"['/t/pdf', '/t/compsci', '/t/programming']","Comparative Evaluation of Matlab, Octave, Scilab, R and IDL (HPCF 2012)",http://userpages.umbc.edu/~gobbert/papers/ComanHPCF2012.pdf,/u/csantosb,1
-0,2014-05-05 11:25:37 -0500,['/t/cryptocurrencies'],Minimum Viable Block Chain,http://www.igvita.com/2014/05/05/minimum-viable-block-chain/#triple-entry,/u/jm,10
-0,2014-05-06 00:47:32 -0500,['/t/web'],Amazon launches shopping via Twitter,http://www.bbc.com/news/technology-27289401,/u/atmosx,1
-2,2014-05-05 06:55:11 -0500,"['/t/design', '/t/lisp', '/t/python']",7 simple steps to implementing a programming language,http://kjetilvalle.com/posts/implement-a-programming-language.html,/u/daGrevis,8
-0,2014-05-05 18:17:14 -0500,['/t/programming'],"Learning sum types, value constructors, and type constructors by proxying values with types",http://bitemyapp.com/posts/2014-04-05-grokking-sums-and-constructors.html,/u/bitemyapp,2
-0,2014-05-05 07:02:51 -0500,"['/t/practices', '/t/programming']",What Writing - And Selling - Software Was Like In The 80's,http://thecodist.com/article/what_writing_and_selling_software_was_like_in_the_80_39_s,/u/journeysquid,8
-0,2014-05-05 16:22:40 -0500,"['/t/api', '/t/javascript', '/t/ruby']",What is an API? [beginner's guide],http://jocellyn.cz/2014/05/01/what-is-api.html,/u/shosanna,2
-6,2014-05-06 08:18:54 -0500,"['/t/culture', '/t/person', '/t/web']",Follow up to the investigation results behind github employees claims,https://github.com/blog/1826-follow-up-to-the-investigation-results,/u/gabeio,0
-0,2014-05-05 15:50:42 -0500,"['/t/pdf', '/t/compsci']",Bit Preservation: A Solved Problem? [2010],http://www.ijdc.net/index.php/ijdc/article/viewFile/151/224,/u/jm,2
-0,2014-05-05 19:37:31 -0500,['/t/go'],Some suggested rules for generating good errors in Go,https://rogpeppe.wordpress.com/2014/04/23/some-suggested-rules-for-generating-good-errors-in-go/,/u/journeysquid,1
-0,2014-05-05 15:30:09 -0500,['/t/security'],TextSecure Private Group Messaging,https://whispersystems.org/blog/private-groups/,/u/kyle,2
-0,2014-05-05 18:08:00 -0500,['/t/release'],Inferno OS port to Raspberry Pi - Beta1,http://lynxline.com/inferno-raspberry-pi-image-beta1/,/u/sevan,1
-0,2014-05-04 23:13:00 -0500,"['/t/video', '/t/programming']",Idris: verifying a monoid - YouTube,https://www.youtube.com/watch?v=P82dqVrS8ik,/u/bitemyapp,10
-0,2014-05-05 19:57:41 -0500,"['/t/databases', '/t/erlang', '/t/satire']",OlegDB 'Cartwheeling Trespassers' Released,https://olegdb.org/blog/0003_OlegDB_0.1.1_Released.html,/u/Pfiffer,1
-0,2014-05-05 12:30:34 -0500,"['/t/php', '/t/security']",Building Secure PHP Apps,http://buildsecurephpapps.com,/u/Benedmunds,1
-0,2014-05-05 11:45:22 -0500,"['/t/c', '/t/ios']",Testing Core Data with OCMock,http://hackazach.net/code/2014/04/13/ios-testing-and-core-data,/u/zmcartor,1
-0,2014-05-05 10:30:20 -0500,"['/t/c', '/t/reversing']",The bug that hides from breakpoints,http://drewdevault.com/2014/02/02/The-worst-bugs.html,/u/journeysquid,1
-1,2014-05-04 14:42:26 -0500,"['/t/culture', '/t/devops']",DevOps Against Humanity,https://github.com/bridgetkromhout/devops-against-humanity,/u/ajdecon,24
-0,2014-05-05 06:34:55 -0500,['/t/scala'],eventsourced: A library for building event-sourced applications in scala,https://github.com/eligosource/eventsourced,/u/SeanTAllen,1
-0,2014-05-04 21:19:04 -0500,"['/t/show', '/t/programming']",atsboot: tiny 32 bit kernel written in ATS,https://github.com/puffnfresh/atsboot,/u/puffnfresh,4
-0,2014-05-04 21:09:40 -0500,['/t/programming'],Introduction to Avail; general purpose language which emphasizes articulate programming,http://www.availlang.org/about-avail/introduction/index.html,/u/drturtle,4
-0,2014-05-05 05:48:03 -0500,['/t/php'],"Scaling PHP Book - Scale LAMP, PHP, MySQL Easily",https://www.scalingphpbook.com/,/u/napolux,1
+6,2014-05-05 05:10:59 -0500,"/t/programming,/t/security,/t/unix",A good idea with bad usage: /dev/urandom,http://insanecoding.blogspot.ca/2014/05/a-good-idea-with-bad-usage-devurandom.html,/u/penberg,15
+0,2014-05-06 01:14:14 -0500,"/t/programming,/t/ruby",Why should you write Tests for Ruby on Rails code?,http://hayksaakian.com/article/53687c97ef8c990200c7fcea/Why%20should%20you%20write%20Tests%20for%20Ruby%20on%20Rails%20code?,/u/hayk,2
+22,2014-05-05 07:08:36 -0500,"/t/show,/t/android,/t/meta,/t/mobile",Pinchy: A Lobste.rs android app,https://play.google.com/store/apps/details?id=com.pinchy.android,/u/mongey,34
+0,2014-05-06 03:43:01 -0500,"/t/pdf,/t/compsci,/t/programming","Comparative Evaluation of Matlab, Octave, Scilab, R and IDL (HPCF 2012)",http://userpages.umbc.edu/~gobbert/papers/ComanHPCF2012.pdf,/u/csantosb,1
+0,2014-05-05 11:25:37 -0500,/t/cryptocurrencies,Minimum Viable Block Chain,http://www.igvita.com/2014/05/05/minimum-viable-block-chain/#triple-entry,/u/jm,10
+0,2014-05-06 00:47:32 -0500,/t/web,Amazon launches shopping via Twitter,http://www.bbc.com/news/technology-27289401,/u/atmosx,1
+2,2014-05-05 06:55:11 -0500,"/t/design,/t/lisp,/t/python",7 simple steps to implementing a programming language,http://kjetilvalle.com/posts/implement-a-programming-language.html,/u/daGrevis,8
+0,2014-05-05 18:17:14 -0500,/t/programming,"Learning sum types, value constructors, and type constructors by proxying values with types",http://bitemyapp.com/posts/2014-04-05-grokking-sums-and-constructors.html,/u/bitemyapp,2
+0,2014-05-05 07:02:51 -0500,"/t/practices,/t/programming",What Writing - And Selling - Software Was Like In The 80's,http://thecodist.com/article/what_writing_and_selling_software_was_like_in_the_80_39_s,/u/journeysquid,8
+0,2014-05-05 16:22:40 -0500,"/t/api,/t/javascript,/t/ruby",What is an API? [beginner's guide],http://jocellyn.cz/2014/05/01/what-is-api.html,/u/shosanna,2
+6,2014-05-06 08:18:54 -0500,"/t/culture,/t/person,/t/web",Follow up to the investigation results behind github employees claims,https://github.com/blog/1826-follow-up-to-the-investigation-results,/u/gabeio,0
+0,2014-05-05 15:50:42 -0500,"/t/pdf,/t/compsci",Bit Preservation: A Solved Problem? [2010],http://www.ijdc.net/index.php/ijdc/article/viewFile/151/224,/u/jm,2
+0,2014-05-05 19:37:31 -0500,/t/go,Some suggested rules for generating good errors in Go,https://rogpeppe.wordpress.com/2014/04/23/some-suggested-rules-for-generating-good-errors-in-go/,/u/journeysquid,1
+0,2014-05-05 15:30:09 -0500,/t/security,TextSecure Private Group Messaging,https://whispersystems.org/blog/private-groups/,/u/kyle,2
+0,2014-05-05 18:08:00 -0500,/t/release,Inferno OS port to Raspberry Pi - Beta1,http://lynxline.com/inferno-raspberry-pi-image-beta1/,/u/sevan,1
+0,2014-05-04 23:13:00 -0500,"/t/video,/t/programming",Idris: verifying a monoid - YouTube,https://www.youtube.com/watch?v=P82dqVrS8ik,/u/bitemyapp,10
+0,2014-05-05 19:57:41 -0500,"/t/databases,/t/erlang,/t/satire",OlegDB 'Cartwheeling Trespassers' Released,https://olegdb.org/blog/0003_OlegDB_0.1.1_Released.html,/u/Pfiffer,1
+0,2014-05-05 12:30:34 -0500,"/t/php,/t/security",Building Secure PHP Apps,http://buildsecurephpapps.com,/u/Benedmunds,1
+0,2014-05-05 11:45:22 -0500,"/t/c,/t/ios",Testing Core Data with OCMock,http://hackazach.net/code/2014/04/13/ios-testing-and-core-data,/u/zmcartor,1
+0,2014-05-05 10:30:20 -0500,"/t/c,/t/reversing",The bug that hides from breakpoints,http://drewdevault.com/2014/02/02/The-worst-bugs.html,/u/journeysquid,1
+1,2014-05-04 14:42:26 -0500,"/t/culture,/t/devops",DevOps Against Humanity,https://github.com/bridgetkromhout/devops-against-humanity,/u/ajdecon,24
+0,2014-05-05 06:34:55 -0500,/t/scala,eventsourced: A library for building event-sourced applications in scala,https://github.com/eligosource/eventsourced,/u/SeanTAllen,1
+0,2014-05-04 21:19:04 -0500,"/t/show,/t/programming",atsboot: tiny 32 bit kernel written in ATS,https://github.com/puffnfresh/atsboot,/u/puffnfresh,4
+0,2014-05-04 21:09:40 -0500,/t/programming,Introduction to Avail; general purpose language which emphasizes articulate programming,http://www.availlang.org/about-avail/introduction/index.html,/u/drturtle,4
+0,2014-05-05 05:48:03 -0500,/t/php,"Scaling PHP Book - Scale LAMP, PHP, MySQL Easily",https://www.scalingphpbook.com/,/u/napolux,1

@@ -1,25 +1,25 @@
-0,2017-05-14 12:46:32 -0500,"['/t/video', '/t/rust']",GStreamer & Rust – A perfect match,https://www.youtube.com/watch?v=W_mnFFqpMpQ,/u/bwr,8
-0,2017-05-15 02:21:10 -0500,"['/t/ios', '/t/mobile', '/t/swift']",Resolving Massive View Controller with Coordinators & Model-View-ViewModel,http://anuragajwani.com/2017/05/resolving-massive-view-controller-with-coordinators-model-view-viewmodel/,/u/szalansky,1
-30,2017-05-13 13:55:31 -0500,['/t/cryptocurrencies'],I Don’t Believe in Blockchain,https://www.tbray.org/ongoing/When/201x/2017/05/13/Not-Believing-in-Blockchain,/u/markos,36
-0,2017-05-14 17:41:48 -0500,['/t/historical'],Migrating Solaris content off of Java.net,https://blogs.oracle.com/alanc/migrating-solaris-content-off-of-javanet,/u/fcbsd,3
-3,2017-05-14 05:15:02 -0500,['/t/databases'],LittleTable: A Time Series DB Used by Cisco Meraki Devices for Event Data,http://dl.acm.org/citation.cfm?id=3056102,/u/amontalenti,10
-1,2017-05-14 08:33:09 -0500,"['/t/event', '/t/networking']",Radical Networks 2017 (New York),http://radicalnetworks.org/,/u/james,5
-0,2017-05-14 09:11:51 -0500,"['/t/pdf', '/t/hardware', '/t/programming', '/t/security']","Verification of a practical, hardware, security architecture through static, info-flow analysis 2017",https://www.cs.cornell.edu/andru/papers/trustzone/asplos17.pdf,/u/nickpsecurity,6
-0,2017-05-14 12:07:18 -0500,['/t/compsci'],Your tl;dr by an ai: a deep reinforced model for abstractive summarization,https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization,/u/jitterted,4
-0,2017-05-13 21:30:06 -0500,"['/t/security', '/t/testing']",Fuzzing Irssi,https://irssi.org/2017/05/12/fuzzing-irssi/,/u/pushcx,18
-6,2017-05-13 17:35:50 -0500,"['/t/video', '/t/c', '/t/unix']",Re-Writing BSD 4.4 Shell Commands: cat,https://www.youtube.com/watch?v=MCuzvy79WWQ,/u/pushcx,16
-0,2017-05-14 12:10:22 -0500,['/t/art'],The decline of Deutsche Gramophon,https://van-us.atavist.com/deutsche-grammophon,/u/derek-jones,2
-1,2017-05-14 02:19:00 -0500,['/t/privacy'],Report warns computers may threaten constitutional rights (1982),https://archive.org/stream/80_Microcomputing_Issue_26_1982-02_1001001_US#page/n295/mode/2up,/u/nickfrostatx,6
-9,2017-05-13 07:33:10 -0500,"['/t/crypto', '/t/law']",Leaked UK document mandates encryption backdoors,https://act.openmedia.org/saveoursecurityuk,/u/ianopolous,30
-5,2017-05-13 15:40:32 -0500,['/t/visualization'],A DSL for drawing hierarchically nested box diagrams (esp. architecture diagrams),https://tex.stackexchange.com/questions/367778/any-recommendations-for-drawing-a-hierarchically-nested-box-diagram/369116,/u/Sietsebb,8
-2,2017-05-13 07:33:22 -0500,"['/t/networking', '/t/security']",How to Accidentally Stop a Global Cyber Attack,https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html,/u/rain1,27
-1,2017-05-13 15:52:53 -0500,"['/t/fortran', '/t/ml']",Interfacing Fortran with OCaml,http://lambda-diode.com/software/ocaml/scientific/fortran,/u/zem,9
-1,2017-05-13 14:04:15 -0500,"['/t/hardware', '/t/reversing']",Reverse-engineering the Intel Management Engine’s ROMP module,https://puri.sm/posts/reverse-engineering-the-intel-management-engine-romp-module/,/u/stsp,10
-2,2017-05-13 13:59:16 -0500,"['/t/education', '/t/math', '/t/programming']",Julia for the Raspberry Pi,https://www.raspberrypi.org/blog/julia-language-raspberry-pi/,/u/zem,10
-2,2017-05-13 14:39:30 -0500,"['/t/android', '/t/release']",Replicant 6.0 released,https://blog.replicant.us/2017/05/replicant-6-0-released/,/u/pizzaiolo,7
-0,2017-05-13 06:41:20 -0500,"['/t/math', '/t/visualization']",Voronoi Tessellations,http://datagenetics.com/blog/may12017/index.html,/u/rbn,21
-26,2017-05-12 11:04:31 -0500,['/t/elixir'],Elixir's Secret Weapon,http://blog.drewolson.org/elixirs-secret-weapon/,/u/kGb8RNFtg6,43
-1,2017-05-13 05:37:15 -0500,['/t/web'],How to Think About HTTP Status Codes,https://www.mnot.net/blog/2017/05/11/status_codes,/u/calvin,11
-7,2017-05-13 02:18:27 -0500,['/t/linux'],nnn: The missing terminal file browser for X,https://github.com/jarun/nnn,/u/zem,8
-28,2017-05-12 10:46:12 -0500,"['/t/crypto', '/t/security']","NHS hit by ransomware attack, hospitals across country shutting down",https://www.theregister.co.uk/2017/05/12/nhs_hospital_shut_down_due_to_cyber_attack/,/u/rain1,39
-0,2017-05-13 05:28:14 -0500,"['/t/hardware', '/t/practices']",Zooming in on 10 materials and their supply chains,https://www.fairphone.com/en/2017/05/04/zooming-in-10-materials-and-their-supply-chains/,/u/stsp,10
+0,2017-05-14 12:46:32 -0500,"/t/video,/t/rust",GStreamer & Rust – A perfect match,https://www.youtube.com/watch?v=W_mnFFqpMpQ,/u/bwr,8
+0,2017-05-15 02:21:10 -0500,"/t/ios,/t/mobile,/t/swift",Resolving Massive View Controller with Coordinators & Model-View-ViewModel,http://anuragajwani.com/2017/05/resolving-massive-view-controller-with-coordinators-model-view-viewmodel/,/u/szalansky,1
+30,2017-05-13 13:55:31 -0500,/t/cryptocurrencies,I Don’t Believe in Blockchain,https://www.tbray.org/ongoing/When/201x/2017/05/13/Not-Believing-in-Blockchain,/u/markos,36
+0,2017-05-14 17:41:48 -0500,/t/historical,Migrating Solaris content off of Java.net,https://blogs.oracle.com/alanc/migrating-solaris-content-off-of-javanet,/u/fcbsd,3
+3,2017-05-14 05:15:02 -0500,/t/databases,LittleTable: A Time Series DB Used by Cisco Meraki Devices for Event Data,http://dl.acm.org/citation.cfm?id=3056102,/u/amontalenti,10
+1,2017-05-14 08:33:09 -0500,"/t/event,/t/networking",Radical Networks 2017 (New York),http://radicalnetworks.org/,/u/james,5
+0,2017-05-14 09:11:51 -0500,"/t/pdf,/t/hardware,/t/programming,/t/security","Verification of a practical, hardware, security architecture through static, info-flow analysis 2017",https://www.cs.cornell.edu/andru/papers/trustzone/asplos17.pdf,/u/nickpsecurity,6
+0,2017-05-14 12:07:18 -0500,/t/compsci,Your tl;dr by an ai: a deep reinforced model for abstractive summarization,https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization,/u/jitterted,4
+0,2017-05-13 21:30:06 -0500,"/t/security,/t/testing",Fuzzing Irssi,https://irssi.org/2017/05/12/fuzzing-irssi/,/u/pushcx,18
+6,2017-05-13 17:35:50 -0500,"/t/video,/t/c,/t/unix",Re-Writing BSD 4.4 Shell Commands: cat,https://www.youtube.com/watch?v=MCuzvy79WWQ,/u/pushcx,16
+0,2017-05-14 12:10:22 -0500,/t/art,The decline of Deutsche Gramophon,https://van-us.atavist.com/deutsche-grammophon,/u/derek-jones,2
+1,2017-05-14 02:19:00 -0500,/t/privacy,Report warns computers may threaten constitutional rights (1982),https://archive.org/stream/80_Microcomputing_Issue_26_1982-02_1001001_US#page/n295/mode/2up,/u/nickfrostatx,6
+9,2017-05-13 07:33:10 -0500,"/t/crypto,/t/law",Leaked UK document mandates encryption backdoors,https://act.openmedia.org/saveoursecurityuk,/u/ianopolous,30
+5,2017-05-13 15:40:32 -0500,/t/visualization,A DSL for drawing hierarchically nested box diagrams (esp. architecture diagrams),https://tex.stackexchange.com/questions/367778/any-recommendations-for-drawing-a-hierarchically-nested-box-diagram/369116,/u/Sietsebb,8
+2,2017-05-13 07:33:22 -0500,"/t/networking,/t/security",How to Accidentally Stop a Global Cyber Attack,https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html,/u/rain1,27
+1,2017-05-13 15:52:53 -0500,"/t/fortran,/t/ml",Interfacing Fortran with OCaml,http://lambda-diode.com/software/ocaml/scientific/fortran,/u/zem,9
+1,2017-05-13 14:04:15 -0500,"/t/hardware,/t/reversing",Reverse-engineering the Intel Management Engine’s ROMP module,https://puri.sm/posts/reverse-engineering-the-intel-management-engine-romp-module/,/u/stsp,10
+2,2017-05-13 13:59:16 -0500,"/t/education,/t/math,/t/programming",Julia for the Raspberry Pi,https://www.raspberrypi.org/blog/julia-language-raspberry-pi/,/u/zem,10
+2,2017-05-13 14:39:30 -0500,"/t/android,/t/release",Replicant 6.0 released,https://blog.replicant.us/2017/05/replicant-6-0-released/,/u/pizzaiolo,7
+0,2017-05-13 06:41:20 -0500,"/t/math,/t/visualization",Voronoi Tessellations,http://datagenetics.com/blog/may12017/index.html,/u/rbn,21
+26,2017-05-12 11:04:31 -0500,/t/elixir,Elixir's Secret Weapon,http://blog.drewolson.org/elixirs-secret-weapon/,/u/kGb8RNFtg6,43
+1,2017-05-13 05:37:15 -0500,/t/web,How to Think About HTTP Status Codes,https://www.mnot.net/blog/2017/05/11/status_codes,/u/calvin,11
+7,2017-05-13 02:18:27 -0500,/t/linux,nnn: The missing terminal file browser for X,https://github.com/jarun/nnn,/u/zem,8
+28,2017-05-12 10:46:12 -0500,"/t/crypto,/t/security","NHS hit by ransomware attack, hospitals across country shutting down",https://www.theregister.co.uk/2017/05/12/nhs_hospital_shut_down_due_to_cyber_attack/,/u/rain1,39
+0,2017-05-13 05:28:14 -0500,"/t/hardware,/t/practices",Zooming in on 10 materials and their supply chains,https://www.fairphone.com/en/2017/05/04/zooming-in-10-materials-and-their-supply-chains/,/u/stsp,10

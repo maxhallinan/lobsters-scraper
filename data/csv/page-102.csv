@@ -1,25 +1,25 @@
-0,2017-12-07 20:59:52 -0600,['/t/design'],Cognitive Overload,https://daverupert.com/2017/12/cognitive-overload/,/u/calvin,4
-4,2017-12-07 07:26:41 -0600,['/t/release'],GNU Guix and GuixSD 0.14.0 released,https://gnu.org/s/guix/blog/2017/gnu-guix-and-guixsd-0.14.0-released,/u/clacke,12
-1,2017-12-07 06:19:26 -0600,"['/t/compilers', '/t/javascript', '/t/performance']",Some SpiderMonkey optimizations in Firefox Quantum,https://jandemooij.nl/blog/2017/12/06/some-spidermonkey-optimizations-in-firefox-quantum/,/u/calvin,17
-28,2017-12-06 20:03:17 -0600,"['/t/law', '/t/web']",Net Neutrality Is a Freedom of Speech Issue.,https://blog.united.vote/2017/12/06/net-neutrality-is-a-freedom-of-speech-issue-period/,/u/itistoday,14
-0,2017-12-07 20:49:48 -0600,"['/t/assembly', '/t/hardware', '/t/historical']",Creating a Christmas card on a vintage IBM 1401 mainframe,http://www.righto.com/2017/12/creating-christmas-card-on-vintage-ibm_7.html,/u/calvin,3
-0,2017-12-07 21:44:35 -0600,['/t/programming'],Infinite Loops,https://repl.it/site/blog/infinite-loops,/u/av,2
-0,2017-12-07 21:42:09 -0600,"['/t/ai', '/t/devops']",Kubeflow – Machine Learning Toolkit for Kubernetes,https://github.com/google/kubeflow,/u/av,2
-2,2017-12-07 04:01:46 -0600,['/t/security'],"Introducing ProtonMail Bridge, email encryption for Outlook, Thunderbird, and Apple Mail",https://protonmail.com/blog/thunderbird-outlook-encrypted-email/,/u/jstoja,14
-0,2017-12-07 12:35:20 -0600,"['/t/go', '/t/programming']",5 Gotchas of Defer in Go— Part I,https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01,/u/blackflicker,3
-6,2017-12-06 21:51:37 -0600,"['/t/release', '/t/windows']",ReactOS 0.4.7 released,https://reactos.org/project-news/reactos-047-released,/u/calvin,21
-0,2017-12-07 08:13:24 -0600,['/t/math'],Down with Determinants!,http://www.axler.net/DwD.html,/u/awn,9
-0,2017-12-07 10:09:58 -0600,['/t/ai'],Deep Image Prior,https://dmitryulyanov.github.io/deep_image_prior,/u/unbalancedparentheses,7
-0,2017-12-07 16:50:50 -0600,['/t/cryptocurrencies'],"I created an educational Bitcoin, Cryptocurrency, and Blockchain newsletter",https://stefanovic.ventures/cryptonews,/u/bojan,1
-0,2017-12-07 09:05:24 -0600,"['/t/pdf', '/t/compsci', '/t/plt', '/t/programming']",Stateful Contracts for Affine Types (2010),http://users.eecs.northwestern.edu/~jesse/pubs/affine-contracts/,/u/nickpsecurity,6
-3,2017-12-07 03:52:50 -0600,['/t/ai'],DeepMind’s AI became a superhuman chess player in a few hours,https://www.theverge.com/2017/12/6/16741106/deepmind-ai-chess-alphazero-shogi-go,/u/abhinav,5
-10,2017-12-06 17:14:14 -0600,['/t/meta'],Bringing Back the Lobste.rs BBS,/s/i9rcqz/bringing_back_lobste_rs_bbs,/u/atti1a,15
-43,2017-12-06 06:21:22 -0600,['/t/programming'],Simplistic programming is underrated,https://lemire.me/blog/2017/12/06/simplistic-programming-is-underrated/,/u/calvin,44
-0,2017-12-07 08:52:51 -0600,"['/t/pdf', '/t/c', '/t/compsci']",Introspection for C and Its Applications to Library Robustness (2017),https://arxiv.org/pdf/1712.01163.pdf,/u/nickpsecurity,4
-5,2017-12-06 14:57:47 -0600,['/t/programming'],"Why life sucks: On the duality of operating system structures, and why both Threads and Events Hurt.",https://blog.acolyer.org/2014/12/10/why-events-are-a-bad-idea/,/u/JohnCarter,22
-0,2017-12-07 04:51:25 -0600,"['/t/book', '/t/compsci', '/t/education']",How to Teach Programming (and Other Things),http://third-bit.com/teaching/,/u/quobit,6
-1,2017-12-06 15:05:55 -0600,"['/t/browsers', '/t/web']",A Classic Extension Reborn: Tree Style Tab,https://hacks.mozilla.org/2017/12/webextension-tree-style-tab/,/u/talklittle,19
-2,2017-12-07 11:44:33 -0600,['/t/cryptocurrencies'],Large collection of ICO whitepapers,https://github.com/masonicGIT/ico-whitepapers,/u/friendlysock,1
-0,2017-12-07 06:09:04 -0600,['/t/ai'],Google AI beats the best chess engine till now,https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match,/u/maqio,4
-14,2017-12-06 06:26:02 -0600,"['/t/devops', '/t/rust']",The Rise of Rust in Dev/Ops,https://mesosphere.com/blog/rust-devops/,/u/calvin,29
-0,2017-12-07 09:46:51 -0600,['/t/c++'],Modernize: Sink Functions,http://www.bfilipek.com/2017/02/modernize-sink-functions.html,/u/pushcx,2
+0,2017-12-07 20:59:52 -0600,/t/design,Cognitive Overload,https://daverupert.com/2017/12/cognitive-overload/,/u/calvin,4
+4,2017-12-07 07:26:41 -0600,/t/release,GNU Guix and GuixSD 0.14.0 released,https://gnu.org/s/guix/blog/2017/gnu-guix-and-guixsd-0.14.0-released,/u/clacke,12
+1,2017-12-07 06:19:26 -0600,"/t/compilers,/t/javascript,/t/performance",Some SpiderMonkey optimizations in Firefox Quantum,https://jandemooij.nl/blog/2017/12/06/some-spidermonkey-optimizations-in-firefox-quantum/,/u/calvin,17
+28,2017-12-06 20:03:17 -0600,"/t/law,/t/web",Net Neutrality Is a Freedom of Speech Issue.,https://blog.united.vote/2017/12/06/net-neutrality-is-a-freedom-of-speech-issue-period/,/u/itistoday,14
+0,2017-12-07 20:49:48 -0600,"/t/assembly,/t/hardware,/t/historical",Creating a Christmas card on a vintage IBM 1401 mainframe,http://www.righto.com/2017/12/creating-christmas-card-on-vintage-ibm_7.html,/u/calvin,3
+0,2017-12-07 21:44:35 -0600,/t/programming,Infinite Loops,https://repl.it/site/blog/infinite-loops,/u/av,2
+0,2017-12-07 21:42:09 -0600,"/t/ai,/t/devops",Kubeflow – Machine Learning Toolkit for Kubernetes,https://github.com/google/kubeflow,/u/av,2
+2,2017-12-07 04:01:46 -0600,/t/security,"Introducing ProtonMail Bridge, email encryption for Outlook, Thunderbird, and Apple Mail",https://protonmail.com/blog/thunderbird-outlook-encrypted-email/,/u/jstoja,14
+0,2017-12-07 12:35:20 -0600,"/t/go,/t/programming",5 Gotchas of Defer in Go— Part I,https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01,/u/blackflicker,3
+6,2017-12-06 21:51:37 -0600,"/t/release,/t/windows",ReactOS 0.4.7 released,https://reactos.org/project-news/reactos-047-released,/u/calvin,21
+0,2017-12-07 08:13:24 -0600,/t/math,Down with Determinants!,http://www.axler.net/DwD.html,/u/awn,9
+0,2017-12-07 10:09:58 -0600,/t/ai,Deep Image Prior,https://dmitryulyanov.github.io/deep_image_prior,/u/unbalancedparentheses,7
+0,2017-12-07 16:50:50 -0600,/t/cryptocurrencies,"I created an educational Bitcoin, Cryptocurrency, and Blockchain newsletter",https://stefanovic.ventures/cryptonews,/u/bojan,1
+0,2017-12-07 09:05:24 -0600,"/t/pdf,/t/compsci,/t/plt,/t/programming",Stateful Contracts for Affine Types (2010),http://users.eecs.northwestern.edu/~jesse/pubs/affine-contracts/,/u/nickpsecurity,6
+3,2017-12-07 03:52:50 -0600,/t/ai,DeepMind’s AI became a superhuman chess player in a few hours,https://www.theverge.com/2017/12/6/16741106/deepmind-ai-chess-alphazero-shogi-go,/u/abhinav,5
+10,2017-12-06 17:14:14 -0600,/t/meta,Bringing Back the Lobste.rs BBS,/s/i9rcqz/bringing_back_lobste_rs_bbs,/u/atti1a,15
+43,2017-12-06 06:21:22 -0600,/t/programming,Simplistic programming is underrated,https://lemire.me/blog/2017/12/06/simplistic-programming-is-underrated/,/u/calvin,44
+0,2017-12-07 08:52:51 -0600,"/t/pdf,/t/c,/t/compsci",Introspection for C and Its Applications to Library Robustness (2017),https://arxiv.org/pdf/1712.01163.pdf,/u/nickpsecurity,4
+5,2017-12-06 14:57:47 -0600,/t/programming,"Why life sucks: On the duality of operating system structures, and why both Threads and Events Hurt.",https://blog.acolyer.org/2014/12/10/why-events-are-a-bad-idea/,/u/JohnCarter,22
+0,2017-12-07 04:51:25 -0600,"/t/book,/t/compsci,/t/education",How to Teach Programming (and Other Things),http://third-bit.com/teaching/,/u/quobit,6
+1,2017-12-06 15:05:55 -0600,"/t/browsers,/t/web",A Classic Extension Reborn: Tree Style Tab,https://hacks.mozilla.org/2017/12/webextension-tree-style-tab/,/u/talklittle,19
+2,2017-12-07 11:44:33 -0600,/t/cryptocurrencies,Large collection of ICO whitepapers,https://github.com/masonicGIT/ico-whitepapers,/u/friendlysock,1
+0,2017-12-07 06:09:04 -0600,/t/ai,Google AI beats the best chess engine till now,https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match,/u/maqio,4
+14,2017-12-06 06:26:02 -0600,"/t/devops,/t/rust",The Rise of Rust in Dev/Ops,https://mesosphere.com/blog/rust-devops/,/u/calvin,29
+0,2017-12-07 09:46:51 -0600,/t/c++,Modernize: Sink Functions,http://www.bfilipek.com/2017/02/modernize-sink-functions.html,/u/pushcx,2

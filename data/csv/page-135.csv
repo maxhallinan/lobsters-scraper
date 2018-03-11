@@ -1,25 +1,25 @@
-0,2017-11-11 17:49:45 -0600,['/t/security'],ACM CCS 2017 Accepted Papers,https://acmccs.github.io/papers/,/u/fro,2
-2,2017-11-11 03:32:25 -0600,['/t/javascript'],How we do Vue: one year later,https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/,/u/av,8
-0,2017-11-11 00:38:02 -0600,"['/t/c', '/t/c++', '/t/performance']","Inlining qsort, and std::sort",https://agottem.com/blog/inlining_qsort_sort,/u/antifuchs,13
-0,2017-11-11 12:28:46 -0600,"['/t/pdf', '/t/security']",RAGuard: A Hardware Based Mechanism for Backward-Edge Control-Flow Integrity,http://www.cse.chalmers.se/~mckee/papers/cf17.pdf,/u/fro,3
-3,2017-11-11 07:15:32 -0600,"['/t/javascript', '/t/reversing']",Hacking Google reCaptcha,http://rickyhan.com/jekyll/update/2017/11/10/bypassing-recaptcha.html,/u/calvin,2
-1,2017-11-10 13:37:52 -0600,"['/t/programming', '/t/testing', '/t/unix']",OSH 0.2 - Parsing One Million Lines of Shell,http://www.oilshell.org/blog/2017/11/10.html,/u/andyc,14
-1,2017-11-10 14:10:22 -0600,"['/t/hardware', '/t/performance']",On the dangers of Intel's frequency scaling,http://blog.cloudflare.com/on-the-dangers-of-intels-frequency-scaling/,/u/calvin,23
-7,2017-11-11 06:58:11 -0600,"['/t/culture', '/t/web']",The Case for RSS,https://www.macsparky.com/blog/2017/11/the-case-for-rss,/u/calvin,7
-8,2017-11-10 15:03:21 -0600,['/t/go'],Eight years of Go,https://blog.golang.org/8years,/u/utzig,10
-3,2017-11-10 07:45:14 -0600,"['/t/hardware', '/t/security']",Intel ME is finally cracked,https://twitter.com/h0t_max/status/928269320064450560,/u/av,32
-0,2017-11-11 12:55:13 -0600,"['/t/pdf', '/t/ai']",On the State of the Art of Evaluation in Neural Language Models,https://arxiv.org/pdf/1707.05589v1.pdf,/u/mjn,1
-3,2017-11-10 09:11:08 -0600,"['/t/browsers', '/t/rust']",A reimagining of what it looks like to generate WebAssembly code from Rust,https://github.com/rust-lang/rust/pull/45905,/u/steveklabnik,20
-0,2017-11-11 09:45:47 -0600,"['/t/programming', '/t/visualization']",DataViz Mastery Part 2 - Word Clouds,https://mubaris.com/2017-11-11/dataviz-mastery-part2,/u/mubaris,0
-0,2017-11-10 04:57:08 -0600,"['/t/video', '/t/c']",Malloc From Scratch (Gary Bernhardt),https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch,/u/gsg,33
-0,2017-11-10 15:45:24 -0600,"['/t/historical', '/t/unix']",AMIX History,http://amix.failsure.net/AMIX+History,/u/pstef,8
-0,2017-11-10 11:38:40 -0600,"['/t/culture', '/t/finance']",What does a sustainable open source project look like?,https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8,/u/andrewnez,11
-1,2017-11-10 10:48:36 -0600,"['/t/pdf', '/t/c++', '/t/testing']","KLOVER: A Symbolic Execution and Automatic, Test Generator for C++ Programs",http://www.cs.utah.edu/~ligd/publications/KLOVER-CAV11.pdf,/u/nickpsecurity,7
-0,2017-11-10 13:12:52 -0600,"['/t/assembly', '/t/linux', '/t/security']",x86_64 TCP bind shellcode with basic authentication on Linux systems,https://pentesterslife.blog/2017/11/01/x86_64-tcp-bind-shellcode-with-basic-authentication-on-linux-systems/,/u/mulander,6
-0,2017-11-10 16:07:35 -0600,"['/t/c++', '/t/programming']",How Media Molecule Does Serialization,https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization,/u/mikejsavage,4
-17,2017-11-09 13:02:08 -0600,"['/t/show', '/t/python']",athena – yet another (but better) minimal static blog generator,https://github.com/apas/athena,/u/apas,20
-0,2017-11-10 07:36:00 -0600,['/t/openbsd'],"p2k17 Hackathon Report: Anthony J. Bentley on firmware, games and securing pkg_add runs",http://undeadly.org/cgi?action=article;sid=20171110124656,/u/calvin,9
-2,2017-11-10 06:54:17 -0600,['/t/math'],Fake news: “Math is about nothing”,http://www.crikeymath.com/2017/09/12/fake-news-math-is-about-nothing/,/u/balajmarius,5
-0,2017-11-10 10:53:25 -0600,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/formalmethods', '/t/programming']",Runtime Checking of Concurrent Data Structures (2005),https://core.ac.uk/download/pdf/82158063.pdf,/u/nickpsecurity,5
-0,2017-11-10 12:14:28 -0600,"['/t/book', '/t/practices', '/t/programming']",books chapter sixteen,http://www.tedunangst.com/flak/post/books-chapter-sixteen,/u/calvin,4
-41,2017-11-09 02:10:15 -0600,['/t/cryptocurrencies'],"The latest Ethereum Parity wallet disaster, play by play",https://davidgerard.co.uk/blockchain/2017/11/08/the-ethereum-parity-wallet-disaster-play-by-play/,/u/David_Gerard,41
+0,2017-11-11 17:49:45 -0600,/t/security,ACM CCS 2017 Accepted Papers,https://acmccs.github.io/papers/,/u/fro,2
+2,2017-11-11 03:32:25 -0600,/t/javascript,How we do Vue: one year later,https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/,/u/av,8
+0,2017-11-11 00:38:02 -0600,"/t/c,/t/c++,/t/performance","Inlining qsort, and std::sort",https://agottem.com/blog/inlining_qsort_sort,/u/antifuchs,13
+0,2017-11-11 12:28:46 -0600,"/t/pdf,/t/security",RAGuard: A Hardware Based Mechanism for Backward-Edge Control-Flow Integrity,http://www.cse.chalmers.se/~mckee/papers/cf17.pdf,/u/fro,3
+3,2017-11-11 07:15:32 -0600,"/t/javascript,/t/reversing",Hacking Google reCaptcha,http://rickyhan.com/jekyll/update/2017/11/10/bypassing-recaptcha.html,/u/calvin,2
+1,2017-11-10 13:37:52 -0600,"/t/programming,/t/testing,/t/unix",OSH 0.2 - Parsing One Million Lines of Shell,http://www.oilshell.org/blog/2017/11/10.html,/u/andyc,14
+1,2017-11-10 14:10:22 -0600,"/t/hardware,/t/performance",On the dangers of Intel's frequency scaling,http://blog.cloudflare.com/on-the-dangers-of-intels-frequency-scaling/,/u/calvin,23
+7,2017-11-11 06:58:11 -0600,"/t/culture,/t/web",The Case for RSS,https://www.macsparky.com/blog/2017/11/the-case-for-rss,/u/calvin,7
+8,2017-11-10 15:03:21 -0600,/t/go,Eight years of Go,https://blog.golang.org/8years,/u/utzig,10
+3,2017-11-10 07:45:14 -0600,"/t/hardware,/t/security",Intel ME is finally cracked,https://twitter.com/h0t_max/status/928269320064450560,/u/av,32
+0,2017-11-11 12:55:13 -0600,"/t/pdf,/t/ai",On the State of the Art of Evaluation in Neural Language Models,https://arxiv.org/pdf/1707.05589v1.pdf,/u/mjn,1
+3,2017-11-10 09:11:08 -0600,"/t/browsers,/t/rust",A reimagining of what it looks like to generate WebAssembly code from Rust,https://github.com/rust-lang/rust/pull/45905,/u/steveklabnik,20
+0,2017-11-11 09:45:47 -0600,"/t/programming,/t/visualization",DataViz Mastery Part 2 - Word Clouds,https://mubaris.com/2017-11-11/dataviz-mastery-part2,/u/mubaris,0
+0,2017-11-10 04:57:08 -0600,"/t/video,/t/c",Malloc From Scratch (Gary Bernhardt),https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch,/u/gsg,33
+0,2017-11-10 15:45:24 -0600,"/t/historical,/t/unix",AMIX History,http://amix.failsure.net/AMIX+History,/u/pstef,8
+0,2017-11-10 11:38:40 -0600,"/t/culture,/t/finance",What does a sustainable open source project look like?,https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8,/u/andrewnez,11
+1,2017-11-10 10:48:36 -0600,"/t/pdf,/t/c++,/t/testing","KLOVER: A Symbolic Execution and Automatic, Test Generator for C++ Programs",http://www.cs.utah.edu/~ligd/publications/KLOVER-CAV11.pdf,/u/nickpsecurity,7
+0,2017-11-10 13:12:52 -0600,"/t/assembly,/t/linux,/t/security",x86_64 TCP bind shellcode with basic authentication on Linux systems,https://pentesterslife.blog/2017/11/01/x86_64-tcp-bind-shellcode-with-basic-authentication-on-linux-systems/,/u/mulander,6
+0,2017-11-10 16:07:35 -0600,"/t/c++,/t/programming",How Media Molecule Does Serialization,https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization,/u/mikejsavage,4
+17,2017-11-09 13:02:08 -0600,"/t/show,/t/python",athena – yet another (but better) minimal static blog generator,https://github.com/apas/athena,/u/apas,20
+0,2017-11-10 07:36:00 -0600,/t/openbsd,"p2k17 Hackathon Report: Anthony J. Bentley on firmware, games and securing pkg_add runs",http://undeadly.org/cgi?action=article;sid=20171110124656,/u/calvin,9
+2,2017-11-10 06:54:17 -0600,/t/math,Fake news: “Math is about nothing”,http://www.crikeymath.com/2017/09/12/fake-news-math-is-about-nothing/,/u/balajmarius,5
+0,2017-11-10 10:53:25 -0600,"/t/pdf,/t/compsci,/t/distributed,/t/formalmethods,/t/programming",Runtime Checking of Concurrent Data Structures (2005),https://core.ac.uk/download/pdf/82158063.pdf,/u/nickpsecurity,5
+0,2017-11-10 12:14:28 -0600,"/t/book,/t/practices,/t/programming",books chapter sixteen,http://www.tedunangst.com/flak/post/books-chapter-sixteen,/u/calvin,4
+41,2017-11-09 02:10:15 -0600,/t/cryptocurrencies,"The latest Ethereum Parity wallet disaster, play by play",https://davidgerard.co.uk/blockchain/2017/11/08/the-ethereum-parity-wallet-disaster-play-by-play/,/u/David_Gerard,41

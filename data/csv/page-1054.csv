@@ -1,25 +1,25 @@
-2,2015-08-05 03:16:09 -0500,['/t/security'],Check if you are vulnerable for the critical BIND9 exploit (CVE-2015-5477).,https://scan.patrolserver.com/bind/CVE-2015-5477,/u/matvp,5
-0,2015-08-05 18:35:43 -0500,"['/t/dotnet', '/t/programming']",Understanding map and apply,http://fsharpforfunandprofit.com/posts/elevated-world/,/u/pushcx,2
-0,2015-08-05 13:07:24 -0500,['/t/programming'],Chess Programming Wiki,https://chessprogramming.wikispaces.com/,/u/av,4
-6,2015-08-04 14:46:09 -0500,"['/t/devops', '/t/unix']",Switching from Homebrew to Nix,https://blog.errright.com/switching-from-homebrew-to-nix/,/u/stephenjudkins,32
-0,2015-08-05 15:56:20 -0500,['/t/job'],Remote job opportunities: ops + front-end dev,https://laterpay.net/jobs/,/u/stig,2
-1,2015-08-04 22:39:11 -0500,['/t/emacs'],EXWM (Emacs X Window Manager) is a tiling X window manager for Emacs,https://github.com/ch11ng/exwm/wiki,/u/puffnfresh,15
-0,2015-08-05 05:37:03 -0500,['/t/javascript'],JAWS – A JavaScript and AWS Stack,https://github.com/servant-app/JAWS,/u/av,6
-0,2015-08-05 12:15:57 -0500,"['/t/design', '/t/web']",More Thoughts on Why Web Design is Dead,http://uxmag.com/articles/more-thoughts-on-why-web-design-is-dead,/u/flyingfisch,2
-7,2015-08-04 13:04:05 -0500,['/t/security'],Is Extended Random A Malicious NSA Plot?,http://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/,/u/tedu,17
-1,2015-08-05 10:16:08 -0500,"['/t/programming', '/t/python']","Small choices, big decisions: coverage run --append",http://nedbatchelder.com/blog/201508/small_choices_big_decisions_coverage_run_append.html,/u/pushcx,2
-0,2015-08-05 12:34:43 -0500,['/t/javascript'],Inlining package version into ES6 npm packages using sed,http://darian.af/post/inlining-package-json-version-into-es6-npm-packages-using-sed/,/u/stip,1
-0,2015-08-05 12:30:12 -0500,['/t/games'],Why Mobile Will Win First in VR,https://medium.com/@firstround/why-mobile-will-win-first-in-vr-af542820c2a0,/u/aguynamedben,1
-1,2015-08-04 23:59:48 -0500,"['/t/hardware', '/t/linux']",Cubieboard 5 (aka CubieTruck Plus) Development Board is Powered by Allwinner H8 SoC,http://www.cnx-software.com/2015/08/03/cubieboard-5-aka-cubietruck-plus-development-board-is-powered-by-allwinner-h8-soc/,/u/breul99,4
-0,2015-08-05 01:43:31 -0500,['/t/vcs'],Comparing Git Work Flows,https://www.atlassian.com/git/tutorials/comparing-workflows,/u/av,4
-4,2015-08-04 14:21:55 -0500,['/t/vcs'],GitHub - Remove sensitive data,https://help.github.com/articles/remove-sensitive-data/,/u/zg,12
-1,2015-08-05 01:06:57 -0500,"['/t/practices', '/t/science']",Two Dynamical Core Formulation Flaws Exposed by a Baroclinic Instability Test Case,http://journals.ametsoc.org/doi/full/10.1175/2008MWR2587.1,/u/sanxiyn,4
-9,2015-08-04 08:10:30 -0500,"['/t/show', '/t/dotnet', '/t/meta']","a Lobsters to Gopher proxy, for people who can't give up port 70",https://github.com/NattyNarwhal/LobsterGopher,/u/calvin,14
-0,2015-08-04 18:19:58 -0500,['/t/games'],Doom v0.3 Resurfaces,http://www.doomworld.com/vb/doomworld-news/73984-doom-v0-3-resurfaces/,/u/kaiju,9
-0,2015-08-04 12:40:06 -0500,"['/t/linux', '/t/programming']",Developing V8 with Guix,https://wingolog.org/archives/2015/08/04/developing-v8-with-guix,/u/gandro,14
-0,2015-08-05 14:22:31 -0500,"['/t/android', '/t/ios', '/t/web']",The War for Control of the Mobile Web is About to Heat Up,https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe,/u/tjvantoll,0
-1,2015-08-04 21:18:23 -0500,['/t/privacy'],MemoryHole: Protected E-mail Headers,https://github.com/ModernPGP/memoryhole,/u/kevinSuttle,3
-8,2015-08-04 08:09:12 -0500,"['/t/design', '/t/windows']",Windows 10 is unfinished,http://gbl08ma.com/windows-10-is-unfinished/,/u/flyingfisch,8
-4,2015-08-05 10:54:44 -0500,['/t/law'],Pennsylvania to Become First State to Use “Precrime” Statistics in Criminal Sentencing,http://www.infowars.com/pennsylvania-to-become-first-state-to-use-precrime-statistics-in-criminal-sentencing/,/u/atmosx,0
-0,2015-08-05 00:01:05 -0500,"['/t/hardware', '/t/linux']",Arch Linux ARM project has preliminary support for ARMv8 boards,http://archlinuxarm.org/platforms/armv8/generic,/u/breul99,2
-1,2015-08-04 09:12:49 -0500,['/t/programming'],Twitter Contest Winning as a Service,http://www.hscott.net/twitter-contest-winning-as-a-service/,/u/pushcx,12
+2,2015-08-05 03:16:09 -0500,/t/security,Check if you are vulnerable for the critical BIND9 exploit (CVE-2015-5477).,https://scan.patrolserver.com/bind/CVE-2015-5477,/u/matvp,5
+0,2015-08-05 18:35:43 -0500,"/t/dotnet,/t/programming",Understanding map and apply,http://fsharpforfunandprofit.com/posts/elevated-world/,/u/pushcx,2
+0,2015-08-05 13:07:24 -0500,/t/programming,Chess Programming Wiki,https://chessprogramming.wikispaces.com/,/u/av,4
+6,2015-08-04 14:46:09 -0500,"/t/devops,/t/unix",Switching from Homebrew to Nix,https://blog.errright.com/switching-from-homebrew-to-nix/,/u/stephenjudkins,32
+0,2015-08-05 15:56:20 -0500,/t/job,Remote job opportunities: ops + front-end dev,https://laterpay.net/jobs/,/u/stig,2
+1,2015-08-04 22:39:11 -0500,/t/emacs,EXWM (Emacs X Window Manager) is a tiling X window manager for Emacs,https://github.com/ch11ng/exwm/wiki,/u/puffnfresh,15
+0,2015-08-05 05:37:03 -0500,/t/javascript,JAWS – A JavaScript and AWS Stack,https://github.com/servant-app/JAWS,/u/av,6
+0,2015-08-05 12:15:57 -0500,"/t/design,/t/web",More Thoughts on Why Web Design is Dead,http://uxmag.com/articles/more-thoughts-on-why-web-design-is-dead,/u/flyingfisch,2
+7,2015-08-04 13:04:05 -0500,/t/security,Is Extended Random A Malicious NSA Plot?,http://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/,/u/tedu,17
+1,2015-08-05 10:16:08 -0500,"/t/programming,/t/python","Small choices, big decisions: coverage run --append",http://nedbatchelder.com/blog/201508/small_choices_big_decisions_coverage_run_append.html,/u/pushcx,2
+0,2015-08-05 12:34:43 -0500,/t/javascript,Inlining package version into ES6 npm packages using sed,http://darian.af/post/inlining-package-json-version-into-es6-npm-packages-using-sed/,/u/stip,1
+0,2015-08-05 12:30:12 -0500,/t/games,Why Mobile Will Win First in VR,https://medium.com/@firstround/why-mobile-will-win-first-in-vr-af542820c2a0,/u/aguynamedben,1
+1,2015-08-04 23:59:48 -0500,"/t/hardware,/t/linux",Cubieboard 5 (aka CubieTruck Plus) Development Board is Powered by Allwinner H8 SoC,http://www.cnx-software.com/2015/08/03/cubieboard-5-aka-cubietruck-plus-development-board-is-powered-by-allwinner-h8-soc/,/u/breul99,4
+0,2015-08-05 01:43:31 -0500,/t/vcs,Comparing Git Work Flows,https://www.atlassian.com/git/tutorials/comparing-workflows,/u/av,4
+4,2015-08-04 14:21:55 -0500,/t/vcs,GitHub - Remove sensitive data,https://help.github.com/articles/remove-sensitive-data/,/u/zg,12
+1,2015-08-05 01:06:57 -0500,"/t/practices,/t/science",Two Dynamical Core Formulation Flaws Exposed by a Baroclinic Instability Test Case,http://journals.ametsoc.org/doi/full/10.1175/2008MWR2587.1,/u/sanxiyn,4
+9,2015-08-04 08:10:30 -0500,"/t/show,/t/dotnet,/t/meta","a Lobsters to Gopher proxy, for people who can't give up port 70",https://github.com/NattyNarwhal/LobsterGopher,/u/calvin,14
+0,2015-08-04 18:19:58 -0500,/t/games,Doom v0.3 Resurfaces,http://www.doomworld.com/vb/doomworld-news/73984-doom-v0-3-resurfaces/,/u/kaiju,9
+0,2015-08-04 12:40:06 -0500,"/t/linux,/t/programming",Developing V8 with Guix,https://wingolog.org/archives/2015/08/04/developing-v8-with-guix,/u/gandro,14
+0,2015-08-05 14:22:31 -0500,"/t/android,/t/ios,/t/web",The War for Control of the Mobile Web is About to Heat Up,https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe,/u/tjvantoll,0
+1,2015-08-04 21:18:23 -0500,/t/privacy,MemoryHole: Protected E-mail Headers,https://github.com/ModernPGP/memoryhole,/u/kevinSuttle,3
+8,2015-08-04 08:09:12 -0500,"/t/design,/t/windows",Windows 10 is unfinished,http://gbl08ma.com/windows-10-is-unfinished/,/u/flyingfisch,8
+4,2015-08-05 10:54:44 -0500,/t/law,Pennsylvania to Become First State to Use “Precrime” Statistics in Criminal Sentencing,http://www.infowars.com/pennsylvania-to-become-first-state-to-use-precrime-statistics-in-criminal-sentencing/,/u/atmosx,0
+0,2015-08-05 00:01:05 -0500,"/t/hardware,/t/linux",Arch Linux ARM project has preliminary support for ARMv8 boards,http://archlinuxarm.org/platforms/armv8/generic,/u/breul99,2
+1,2015-08-04 09:12:49 -0500,/t/programming,Twitter Contest Winning as a Service,http://www.hscott.net/twitter-contest-winning-as-a-service/,/u/pushcx,12

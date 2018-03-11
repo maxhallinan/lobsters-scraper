@@ -1,25 +1,25 @@
-0,2016-05-26 08:44:28 -0500,"['/t/compsci', '/t/java']",[1605.05274] Java Generics are Turing Complete,http://arxiv.org/abs/1605.05274,/u/rain1,6
-4,2016-05-26 06:07:41 -0500,"['/t/games', '/t/hardware']",CHIP - The World's First Nine Dollar Computer,https://getchip.com/,/u/romanzolotarev,5
-0,2016-05-26 10:12:22 -0500,"['/t/pdf', '/t/hardware', '/t/security']",A2: Analog Malicious Hardware,http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf?token=w3dhe%2B6JZ1Jso48tLOlumHPZkRc%3D,/u/zedoary,4
-0,2016-05-25 22:59:55 -0500,['/t/haskell'],Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1),https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html,/u/pushcx,14
-0,2016-05-26 13:56:22 -0500,"['/t/debugging', '/t/python']",Machete-mode Debugging,http://nedbatchelder.com/text/machete.html,/u/ngoldbaum,2
-4,2016-05-26 05:08:32 -0500,"['/t/release', '/t/security']",Going deeper with Project Infinite,http://blogs.dropbox.com/tech/2016/05/going-deeper-with-project-infinite/,/u/mulander,3
-2,2016-05-26 04:59:05 -0500,['/t/ruby'],Programmer's log: Throttling outgoing requests,http://devblog.synup.com/throttling-outgoing-requests.html,/u/hashnuke,2
-0,2016-05-26 16:26:49 -0500,['/t/hardware'],504 OSD Ceph cluster on converged microserver ethernet drives,http://ceph.com/community/500-osd-ceph-cluster/,/u/sevan,1
-0,2016-05-26 11:17:09 -0500,"['/t/programming', '/t/testing']",Exploring Voting Systems with Hypothesis,http://hypothesis.works/articles/exploring-voting-with-hypothesis/,/u/DRMacIver,2
-29,2016-05-25 07:46:21 -0500,"['/t/android', '/t/privacy']",Google aims to kill passwords by the end of this year,https://www.theguardian.com/technology/2016/may/24/google-passwords-android,/u/mulander,21
-21,2016-05-25 07:27:20 -0500,['/t/vcs'],Who Needs Git When You Got ZFS?,http://zef.me/blog/6023/who-needs-git-when-you-got-zfs,/u/355E3B,21
-1,2016-05-26 01:14:16 -0500,"['/t/distributed', '/t/java']",Open Sourcing Twitter Heron,https://blog.twitter.com/2016/open-sourcing-twitter-heron,/u/antifuchs,4
-0,2016-05-26 11:39:31 -0500,['/t/science'],Increasing postdoc pay,http://ivory.idyll.org/blog/2016-raising-the-postdocs.html,/u/ngoldbaum,1
-1,2016-05-25 11:12:03 -0500,"['/t/linux', '/t/security']",SELinux is beyond saving at this point,https://utcc.utoronto.ca/~cks/space/blog/linux/SELinuxBeyondSaving,/u/mulander,14
-1,2016-05-25 09:52:12 -0500,"['/t/video', '/t/openbsd']",Theo de Raadt - Privilege Separation and Pledge (dotSecurity 2016),https://www.youtube.com/watch?v=a_EYdzGyNWs,/u/fcambus,21
-0,2016-05-26 14:39:34 -0500,"['/t/databases', '/t/debugging']",A Two Month Debugging Story,https://kev.inburke.com/kevin/a-two-month-debugging-story/,/u/fcbsd,0
-0,2016-05-26 07:50:30 -0500,['/t/devops'],Six Ways Ansible Makes Docker-Compose Better,https://www.ansible.com/blog/six-ways-ansible-makes-docker-compose-better,/u/drewda,1
-0,2016-05-25 11:29:05 -0500,['/t/programming'],Pony Patterns: Supply Chain,http://patterns.ponylang.org/creation/supply-chain.html,/u/SeanTAllen,8
-2,2016-05-25 18:08:18 -0500,['/t/culture'],100 Awesome Women In The Open-Source Community You Should Know,http://blog.sourced.tech/post/100-awesome-women-in-the-open-source-community-you-should-know/,/u/tcard,13
-1,2016-05-25 10:18:59 -0500,['/t/math'],Mathematicians Bridge Finite-Infinite Divide,https://www.quantamagazine.org/20160524-mathematicians-bridge-finite-infinite-divide/,/u/michaelochurch,13
-0,2016-05-26 07:33:18 -0500,"['/t/culture', '/t/historical', '/t/practices']",Coding without Google,http://www.bfilipek.com/2016/05/coding-without-google.html,/u/mulander,2
-0,2016-05-26 00:25:36 -0500,"['/t/devops', '/t/programming', '/t/release']",Get started with fleet APIs,https://devup.co/get-started-with-fleet-apis-8c19bfa1b499,/u/tiwarinitish86,1
-0,2016-05-25 17:12:18 -0500,"['/t/perl', '/t/security']","""Anguish"": Invisible Programming Language and Invisible Data Theft",http://blogs.perl.org/users/zoffix_znet/2016/05/anguish-invisible-programming-language-and-invisible-data-theft.html,/u/fcbsd,6
-0,2016-05-25 10:52:37 -0500,"['/t/historical', '/t/security']",The Great Swiss Bank Heist,http://www.newyorker.com/magazine/2016/05/30/herve-falcianis-great-swiss-bank-heist,/u/mikec,12
-0,2016-05-25 16:00:07 -0500,"['/t/networking', '/t/programming']",pwnat: NAT to NAT client-server communication,http://samy.pl/pwnat/,/u/geocar,5
+0,2016-05-26 08:44:28 -0500,"/t/compsci,/t/java",[1605.05274] Java Generics are Turing Complete,http://arxiv.org/abs/1605.05274,/u/rain1,6
+4,2016-05-26 06:07:41 -0500,"/t/games,/t/hardware",CHIP - The World's First Nine Dollar Computer,https://getchip.com/,/u/romanzolotarev,5
+0,2016-05-26 10:12:22 -0500,"/t/pdf,/t/hardware,/t/security",A2: Analog Malicious Hardware,http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf?token=w3dhe%2B6JZ1Jso48tLOlumHPZkRc%3D,/u/zedoary,4
+0,2016-05-25 22:59:55 -0500,/t/haskell,Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1),https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html,/u/pushcx,14
+0,2016-05-26 13:56:22 -0500,"/t/debugging,/t/python",Machete-mode Debugging,http://nedbatchelder.com/text/machete.html,/u/ngoldbaum,2
+4,2016-05-26 05:08:32 -0500,"/t/release,/t/security",Going deeper with Project Infinite,http://blogs.dropbox.com/tech/2016/05/going-deeper-with-project-infinite/,/u/mulander,3
+2,2016-05-26 04:59:05 -0500,/t/ruby,Programmer's log: Throttling outgoing requests,http://devblog.synup.com/throttling-outgoing-requests.html,/u/hashnuke,2
+0,2016-05-26 16:26:49 -0500,/t/hardware,504 OSD Ceph cluster on converged microserver ethernet drives,http://ceph.com/community/500-osd-ceph-cluster/,/u/sevan,1
+0,2016-05-26 11:17:09 -0500,"/t/programming,/t/testing",Exploring Voting Systems with Hypothesis,http://hypothesis.works/articles/exploring-voting-with-hypothesis/,/u/DRMacIver,2
+29,2016-05-25 07:46:21 -0500,"/t/android,/t/privacy",Google aims to kill passwords by the end of this year,https://www.theguardian.com/technology/2016/may/24/google-passwords-android,/u/mulander,21
+21,2016-05-25 07:27:20 -0500,/t/vcs,Who Needs Git When You Got ZFS?,http://zef.me/blog/6023/who-needs-git-when-you-got-zfs,/u/355E3B,21
+1,2016-05-26 01:14:16 -0500,"/t/distributed,/t/java",Open Sourcing Twitter Heron,https://blog.twitter.com/2016/open-sourcing-twitter-heron,/u/antifuchs,4
+0,2016-05-26 11:39:31 -0500,/t/science,Increasing postdoc pay,http://ivory.idyll.org/blog/2016-raising-the-postdocs.html,/u/ngoldbaum,1
+1,2016-05-25 11:12:03 -0500,"/t/linux,/t/security",SELinux is beyond saving at this point,https://utcc.utoronto.ca/~cks/space/blog/linux/SELinuxBeyondSaving,/u/mulander,14
+1,2016-05-25 09:52:12 -0500,"/t/video,/t/openbsd",Theo de Raadt - Privilege Separation and Pledge (dotSecurity 2016),https://www.youtube.com/watch?v=a_EYdzGyNWs,/u/fcambus,21
+0,2016-05-26 14:39:34 -0500,"/t/databases,/t/debugging",A Two Month Debugging Story,https://kev.inburke.com/kevin/a-two-month-debugging-story/,/u/fcbsd,0
+0,2016-05-26 07:50:30 -0500,/t/devops,Six Ways Ansible Makes Docker-Compose Better,https://www.ansible.com/blog/six-ways-ansible-makes-docker-compose-better,/u/drewda,1
+0,2016-05-25 11:29:05 -0500,/t/programming,Pony Patterns: Supply Chain,http://patterns.ponylang.org/creation/supply-chain.html,/u/SeanTAllen,8
+2,2016-05-25 18:08:18 -0500,/t/culture,100 Awesome Women In The Open-Source Community You Should Know,http://blog.sourced.tech/post/100-awesome-women-in-the-open-source-community-you-should-know/,/u/tcard,13
+1,2016-05-25 10:18:59 -0500,/t/math,Mathematicians Bridge Finite-Infinite Divide,https://www.quantamagazine.org/20160524-mathematicians-bridge-finite-infinite-divide/,/u/michaelochurch,13
+0,2016-05-26 07:33:18 -0500,"/t/culture,/t/historical,/t/practices",Coding without Google,http://www.bfilipek.com/2016/05/coding-without-google.html,/u/mulander,2
+0,2016-05-26 00:25:36 -0500,"/t/devops,/t/programming,/t/release",Get started with fleet APIs,https://devup.co/get-started-with-fleet-apis-8c19bfa1b499,/u/tiwarinitish86,1
+0,2016-05-25 17:12:18 -0500,"/t/perl,/t/security","""Anguish"": Invisible Programming Language and Invisible Data Theft",http://blogs.perl.org/users/zoffix_znet/2016/05/anguish-invisible-programming-language-and-invisible-data-theft.html,/u/fcbsd,6
+0,2016-05-25 10:52:37 -0500,"/t/historical,/t/security",The Great Swiss Bank Heist,http://www.newyorker.com/magazine/2016/05/30/herve-falcianis-great-swiss-bank-heist,/u/mikec,12
+0,2016-05-25 16:00:07 -0500,"/t/networking,/t/programming",pwnat: NAT to NAT client-server communication,http://samy.pl/pwnat/,/u/geocar,5

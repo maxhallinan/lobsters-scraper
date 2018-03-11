@@ -1,25 +1,25 @@
-1,2016-07-21 16:40:29 -0500,"['/t/devops', '/t/vcs']",Command Everything with a Serverless Slack Bot,http://blog.librato.com/posts/nestor-chatbot,/u/Librato,2
-5,2016-07-21 09:32:49 -0500,['/t/compilers'],The Bootstrapped Compiler and the Damage Done,http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done.html,/u/unbalancedparentheses,8
-0,2016-07-22 06:50:14 -0500,['/t/programming'],How to complie project using the cross-toolchains,http://tboox.org/2016/07/22/how-to-compile-on-cross-toolchains/,/u/ruki,0
-0,2016-07-21 22:26:14 -0500,['/t/games'],A Critique of the Entity Component Model,http://www.gamedev.net/page/resources/_/technical/game-programming/a-critique-of-the-entity-component-model-r3621,/u/jm,3
-2,2016-07-21 11:56:40 -0500,"['/t/practices', '/t/programming']",How Learning Smalltalk Can Improve Your Skills as a Programmer,http://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer,/u/Snocrash,8
-6,2016-07-20 18:59:38 -0500,"['/t/javascript', '/t/mobile', '/t/programming', '/t/web']",Building with Make,https://deviceready.net/building-with-make,/u/thmzlt,22
-12,2016-07-20 14:17:29 -0500,"['/t/debugging', '/t/devops', '/t/networking']",tcpdump is amazing,http://jvns.ca/blog/2016/03/17/tcpdump-is-amazing/,/u/friendlysock,49
-2,2016-07-21 09:04:27 -0500,"['/t/go', '/t/unix']",piknik - Copy/paste anything over the network,https://github.com/jedisct1/piknik,/u/henkjan,9
-1,2016-07-21 10:47:32 -0500,"['/t/law', '/t/security']",Statement on DMCA lawsuit,http://blog.cryptographyengineering.com/2016/07/statement-on-dmca-lawsuit.html,/u/jabberwock,8
-0,2016-07-22 08:32:22 -0500,"['/t/ruby', '/t/security', '/t/web']",Use LetsEncrypt and CloudFlare to secure any Heroku app for free,https://github.com/substrakt/letsencrypt-heroku,/u/av,0
-0,2016-07-21 15:23:03 -0500,['/t/erlang'],Erlang shell: REPL? A bit more (and less) than that [2013],http://ferd.ca/repl-a-bit-more-and-less-than-that.html,/u/unbalancedparentheses,5
-0,2016-07-22 08:24:27 -0500,"['/t/security', '/t/web']",A practical security guide for web developers,https://github.com/FallibleInc/security-guide-for-developers,/u/av,0
-0,2016-07-21 11:01:08 -0500,"['/t/mobile', '/t/security']",CVE-2016-5080: RF baseband ASN.1 buffer overflow affects many smartphones,https://github.com/programa-stic/security-advisories/blob/master/ObjSys/CVE-2016-5080/README.md,/u/calvin,7
-12,2016-07-20 16:17:02 -0500,['/t/compsci'],"Stack Exchange Outage Postmortem - July 20, 2016",http://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016,/u/antifuchs,27
-0,2016-07-21 09:30:15 -0500,"['/t/video', '/t/event', '/t/programming']","Curry On! Rome, 2016 - Videos",https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos,/u/gandro,8
-1,2016-07-21 19:36:11 -0500,"['/t/culture', '/t/law']",EFF Lawsuit Takes on DMCA Section 1201: Research and Technology Restrictions Violate the First Amendment,https://www.eff.org/press/releases/eff-lawsuit-takes-dmca-section-1201-research-and-technology-restrictions-violate,/u/Snocrash,4
-1,2016-07-21 08:11:26 -0500,"['/t/culture', '/t/law']",Why I’m Suing the US Government,https://www.bunniestudios.com/blog/?p=4782,/u/sevan,15
-0,2016-07-21 10:44:11 -0500,['/t/python'],Python 3 for Scientists,http://python-3-for-scientists.readthedocs.io/en/latest/,/u/ngoldbaum,2
-1,2016-07-21 13:28:32 -0500,"['/t/culture', '/t/finance', '/t/javascript', '/t/practices']",The toxic side of free. Or: how I lost the love for my side project (part 4),https://remysharp.com/2015/09/17/jsbin-toxic-part-4,/u/friendlysock,6
-1,2016-07-21 00:55:29 -0500,['/t/javascript'],NeuroEvolution Pond Simulation,http://maxbittker.github.io/pond/,/u/maxbittker,7
-0,2016-07-21 15:24:48 -0500,['/t/programming'],Keep Your ORM Out of my Controller [2010],http://ferd.ca/keep-your-orm-out-of-my-controller.html,/u/unbalancedparentheses,2
-0,2016-07-21 11:23:39 -0500,"['/t/video', '/t/browsers', '/t/rust']",Dave Herman - Building an Open Source Research Lab - Curry On,https://www.youtube.com/watch?v=9OHcJzJQ2Nk,/u/majjoha,3
-0,2016-07-22 00:12:34 -0500,"['/t/compsci', '/t/python']",Creative Applications of Deep Learning with TensorFlow,https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info,/u/tf,0
-2,2016-07-21 00:37:23 -0500,['/t/compsci'],Regular expression Denial of Service,https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS;,/u/zg,6
-0,2016-07-21 00:35:25 -0500,"['/t/hardware', '/t/reversing']",IBM Capsense USB keyboard controllers,http://downloads.cornall.co/ibm-capsense-usb-web/ibm-capsense-usb.html,/u/geocar,10
+1,2016-07-21 16:40:29 -0500,"/t/devops,/t/vcs",Command Everything with a Serverless Slack Bot,http://blog.librato.com/posts/nestor-chatbot,/u/Librato,2
+5,2016-07-21 09:32:49 -0500,/t/compilers,The Bootstrapped Compiler and the Damage Done,http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done.html,/u/unbalancedparentheses,8
+0,2016-07-22 06:50:14 -0500,/t/programming,How to complie project using the cross-toolchains,http://tboox.org/2016/07/22/how-to-compile-on-cross-toolchains/,/u/ruki,0
+0,2016-07-21 22:26:14 -0500,/t/games,A Critique of the Entity Component Model,http://www.gamedev.net/page/resources/_/technical/game-programming/a-critique-of-the-entity-component-model-r3621,/u/jm,3
+2,2016-07-21 11:56:40 -0500,"/t/practices,/t/programming",How Learning Smalltalk Can Improve Your Skills as a Programmer,http://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer,/u/Snocrash,8
+6,2016-07-20 18:59:38 -0500,"/t/javascript,/t/mobile,/t/programming,/t/web",Building with Make,https://deviceready.net/building-with-make,/u/thmzlt,22
+12,2016-07-20 14:17:29 -0500,"/t/debugging,/t/devops,/t/networking",tcpdump is amazing,http://jvns.ca/blog/2016/03/17/tcpdump-is-amazing/,/u/friendlysock,49
+2,2016-07-21 09:04:27 -0500,"/t/go,/t/unix",piknik - Copy/paste anything over the network,https://github.com/jedisct1/piknik,/u/henkjan,9
+1,2016-07-21 10:47:32 -0500,"/t/law,/t/security",Statement on DMCA lawsuit,http://blog.cryptographyengineering.com/2016/07/statement-on-dmca-lawsuit.html,/u/jabberwock,8
+0,2016-07-22 08:32:22 -0500,"/t/ruby,/t/security,/t/web",Use LetsEncrypt and CloudFlare to secure any Heroku app for free,https://github.com/substrakt/letsencrypt-heroku,/u/av,0
+0,2016-07-21 15:23:03 -0500,/t/erlang,Erlang shell: REPL? A bit more (and less) than that [2013],http://ferd.ca/repl-a-bit-more-and-less-than-that.html,/u/unbalancedparentheses,5
+0,2016-07-22 08:24:27 -0500,"/t/security,/t/web",A practical security guide for web developers,https://github.com/FallibleInc/security-guide-for-developers,/u/av,0
+0,2016-07-21 11:01:08 -0500,"/t/mobile,/t/security",CVE-2016-5080: RF baseband ASN.1 buffer overflow affects many smartphones,https://github.com/programa-stic/security-advisories/blob/master/ObjSys/CVE-2016-5080/README.md,/u/calvin,7
+12,2016-07-20 16:17:02 -0500,/t/compsci,"Stack Exchange Outage Postmortem - July 20, 2016",http://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016,/u/antifuchs,27
+0,2016-07-21 09:30:15 -0500,"/t/video,/t/event,/t/programming","Curry On! Rome, 2016 - Videos",https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos,/u/gandro,8
+1,2016-07-21 19:36:11 -0500,"/t/culture,/t/law",EFF Lawsuit Takes on DMCA Section 1201: Research and Technology Restrictions Violate the First Amendment,https://www.eff.org/press/releases/eff-lawsuit-takes-dmca-section-1201-research-and-technology-restrictions-violate,/u/Snocrash,4
+1,2016-07-21 08:11:26 -0500,"/t/culture,/t/law",Why I’m Suing the US Government,https://www.bunniestudios.com/blog/?p=4782,/u/sevan,15
+0,2016-07-21 10:44:11 -0500,/t/python,Python 3 for Scientists,http://python-3-for-scientists.readthedocs.io/en/latest/,/u/ngoldbaum,2
+1,2016-07-21 13:28:32 -0500,"/t/culture,/t/finance,/t/javascript,/t/practices",The toxic side of free. Or: how I lost the love for my side project (part 4),https://remysharp.com/2015/09/17/jsbin-toxic-part-4,/u/friendlysock,6
+1,2016-07-21 00:55:29 -0500,/t/javascript,NeuroEvolution Pond Simulation,http://maxbittker.github.io/pond/,/u/maxbittker,7
+0,2016-07-21 15:24:48 -0500,/t/programming,Keep Your ORM Out of my Controller [2010],http://ferd.ca/keep-your-orm-out-of-my-controller.html,/u/unbalancedparentheses,2
+0,2016-07-21 11:23:39 -0500,"/t/video,/t/browsers,/t/rust",Dave Herman - Building an Open Source Research Lab - Curry On,https://www.youtube.com/watch?v=9OHcJzJQ2Nk,/u/majjoha,3
+0,2016-07-22 00:12:34 -0500,"/t/compsci,/t/python",Creative Applications of Deep Learning with TensorFlow,https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info,/u/tf,0
+2,2016-07-21 00:37:23 -0500,/t/compsci,Regular expression Denial of Service,https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS;,/u/zg,6
+0,2016-07-21 00:35:25 -0500,"/t/hardware,/t/reversing",IBM Capsense USB keyboard controllers,http://downloads.cornall.co/ibm-capsense-usb-web/ibm-capsense-usb.html,/u/geocar,10

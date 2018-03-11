@@ -1,25 +1,25 @@
-0,2016-12-15 11:25:47 -0600,['/t/ruby'],Rake without Rails,http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html,/u/pushcx,4
-0,2016-12-15 10:52:49 -0600,"['/t/go', '/t/lisp']",A lisp built for extending go,https://github.com/glycerine/zygomys,/u/yumaikas,4
-0,2016-12-15 09:20:16 -0600,"['/t/databases', '/t/nodejs', '/t/programming', '/t/security']",MongoDB will not prevent NoSQL injections in your Node.js app,https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/,/u/PaulBlei,4
-1,2016-12-15 03:26:23 -0600,['/t/python'],"Feed2tweet 0.8, tool to post RSS feeds to Twitter, released",https://carlchenet.com/feed2tweet-0-8-tool-to-post-rss-feeds-to-twitter-released/,/u/chaica,3
-0,2016-12-15 13:20:58 -0600,"['/t/compsci', '/t/practices']",The Great A.I. Awakening,http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html,/u/jpm1,2
-2,2016-12-15 00:44:31 -0600,['/t/vcs'],Gitql - A git query language,https://github.com/cloudson/gitql,/u/av,7
-0,2016-12-15 15:50:09 -0600,"['/t/javascript', '/t/release']",webpack 2.2: The Release Candidate,https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f,/u/joshuacc,1
-0,2016-12-15 14:31:15 -0600,"['/t/go', '/t/release']",godb - a Go query builder and struct mapper,https://github.com/samonzeweb/godb,/u/pushcx,1
-0,2016-12-15 07:52:05 -0600,"['/t/practices', '/t/security']",DRAFT NIST Special Publication 800-63B,https://pages.nist.gov/800-63-3/sp800-63b.html#memorized-secret-verifiers,/u/calvin,3
-6,2016-12-14 07:28:13 -0600,['/t/haskell'],Haskell in the Datacentre,https://simonmar.github.io/posts/2016-12-08-Haskell-in-the-datacentre.html,/u/gluegadget,30
-1,2016-12-15 04:33:24 -0600,['/t/reversing'],Practical Reverse Engineering Part 5 - Digging Through the Firmware,http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/,/u/fcbsd,4
-5,2016-12-14 10:09:23 -0600,['/t/web'],RFC 7764 - Guidance on Markdown,https://tools.ietf.org/html/rfc7764,/u/ngoldbaum,17
-1,2016-12-15 01:41:34 -0600,['/t/dotnet'],Project Springfield: a Cloud Service Built Entirely in F#,https://blogs.msdn.microsoft.com/dotnet/2016/12/13/project-springfield-a-cloud-service-built-entirely-in-f/,/u/ryanslade,3
-10,2016-12-14 16:39:35 -0600,"['/t/crypto', '/t/practices']",Axolotl and Proteus,https://medium.com/@wireapp/axolotl-and-proteus-788519b186a7,/u/pizzaiolo,7
-19,2016-12-14 11:52:53 -0600,"['/t/show', '/t/javascript', '/t/web']",Diaeresis.js — Wield diæreses like C̶h̶u̶c̶k̶ Mary Norris,http://curiositry.github.io/diaeresis,/u/Curiositry,6
-0,2016-12-15 00:38:06 -0600,['/t/release'],Visual Studio Code v1.8,https://code.visualstudio.com/updates/v1_8,/u/av,5
-0,2016-12-15 09:38:06 -0600,['/t/css'],What next for CSS Grid Layout?,https://24ways.org/2016/what-next-for-css-grid-layout/,/u/flyingfisch,1
-0,2016-12-14 17:14:17 -0600,"['/t/linux', '/t/security']",Reliably compromising Ubuntu desktops by attacking the crash reporter,https://donncha.is/2016/12/compromising-ubuntu-desktop/,/u/mulander,10
-0,2016-12-15 09:03:13 -0600,"['/t/devops', '/t/distributed', '/t/scaling']",Provisioning and Deploying Cloud Native Systems in AWS with Terraform and Shell Scripts,https://github.com/18F/cloud-native-aws-terraform-workshop,/u/mjturner,1
-4,2016-12-14 09:59:28 -0600,['/t/haskell'],Introducing the Hamilton library,https://blog.jle.im/entry/introducing-the-hamilton-library.htm,/u/passy,11
-0,2016-12-14 17:01:40 -0600,"['/t/book', '/t/science']",The Feynman Lectures on Physics,http://www.feynmanlectures.caltech.edu/,/u/pushcx,8
-6,2016-12-14 08:28:26 -0600,['/t/rust'],Trait Driven Development in Rust,https://scribbles.pascalhertleif.de/trait-driven-development-in-rust.html,/u/balrogboogie,12
-1,2016-12-14 16:47:34 -0600,['/t/linux'],Is Linux Kernel Growth Sustainable?,http://fossforce.com/2016/12/linux-kernel-growth-sustainable/,/u/pizzaiolo,4
-3,2016-12-14 06:29:26 -0600,['/t/networking'],DCCP: The socket type you probably never heard of,https://www.anmolsarma.in/post/dccp/,/u/calvin,15
-0,2016-12-14 11:28:45 -0600,"['/t/hardware', '/t/security']",Z1FFER: an open source hardware random number generator,http://www.openrandom.org/,/u/pushcx,10
+0,2016-12-15 11:25:47 -0600,/t/ruby,Rake without Rails,http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html,/u/pushcx,4
+0,2016-12-15 10:52:49 -0600,"/t/go,/t/lisp",A lisp built for extending go,https://github.com/glycerine/zygomys,/u/yumaikas,4
+0,2016-12-15 09:20:16 -0600,"/t/databases,/t/nodejs,/t/programming,/t/security",MongoDB will not prevent NoSQL injections in your Node.js app,https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/,/u/PaulBlei,4
+1,2016-12-15 03:26:23 -0600,/t/python,"Feed2tweet 0.8, tool to post RSS feeds to Twitter, released",https://carlchenet.com/feed2tweet-0-8-tool-to-post-rss-feeds-to-twitter-released/,/u/chaica,3
+0,2016-12-15 13:20:58 -0600,"/t/compsci,/t/practices",The Great A.I. Awakening,http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html,/u/jpm1,2
+2,2016-12-15 00:44:31 -0600,/t/vcs,Gitql - A git query language,https://github.com/cloudson/gitql,/u/av,7
+0,2016-12-15 15:50:09 -0600,"/t/javascript,/t/release",webpack 2.2: The Release Candidate,https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f,/u/joshuacc,1
+0,2016-12-15 14:31:15 -0600,"/t/go,/t/release",godb - a Go query builder and struct mapper,https://github.com/samonzeweb/godb,/u/pushcx,1
+0,2016-12-15 07:52:05 -0600,"/t/practices,/t/security",DRAFT NIST Special Publication 800-63B,https://pages.nist.gov/800-63-3/sp800-63b.html#memorized-secret-verifiers,/u/calvin,3
+6,2016-12-14 07:28:13 -0600,/t/haskell,Haskell in the Datacentre,https://simonmar.github.io/posts/2016-12-08-Haskell-in-the-datacentre.html,/u/gluegadget,30
+1,2016-12-15 04:33:24 -0600,/t/reversing,Practical Reverse Engineering Part 5 - Digging Through the Firmware,http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/,/u/fcbsd,4
+5,2016-12-14 10:09:23 -0600,/t/web,RFC 7764 - Guidance on Markdown,https://tools.ietf.org/html/rfc7764,/u/ngoldbaum,17
+1,2016-12-15 01:41:34 -0600,/t/dotnet,Project Springfield: a Cloud Service Built Entirely in F#,https://blogs.msdn.microsoft.com/dotnet/2016/12/13/project-springfield-a-cloud-service-built-entirely-in-f/,/u/ryanslade,3
+10,2016-12-14 16:39:35 -0600,"/t/crypto,/t/practices",Axolotl and Proteus,https://medium.com/@wireapp/axolotl-and-proteus-788519b186a7,/u/pizzaiolo,7
+19,2016-12-14 11:52:53 -0600,"/t/show,/t/javascript,/t/web",Diaeresis.js — Wield diæreses like C̶h̶u̶c̶k̶ Mary Norris,http://curiositry.github.io/diaeresis,/u/Curiositry,6
+0,2016-12-15 00:38:06 -0600,/t/release,Visual Studio Code v1.8,https://code.visualstudio.com/updates/v1_8,/u/av,5
+0,2016-12-15 09:38:06 -0600,/t/css,What next for CSS Grid Layout?,https://24ways.org/2016/what-next-for-css-grid-layout/,/u/flyingfisch,1
+0,2016-12-14 17:14:17 -0600,"/t/linux,/t/security",Reliably compromising Ubuntu desktops by attacking the crash reporter,https://donncha.is/2016/12/compromising-ubuntu-desktop/,/u/mulander,10
+0,2016-12-15 09:03:13 -0600,"/t/devops,/t/distributed,/t/scaling",Provisioning and Deploying Cloud Native Systems in AWS with Terraform and Shell Scripts,https://github.com/18F/cloud-native-aws-terraform-workshop,/u/mjturner,1
+4,2016-12-14 09:59:28 -0600,/t/haskell,Introducing the Hamilton library,https://blog.jle.im/entry/introducing-the-hamilton-library.htm,/u/passy,11
+0,2016-12-14 17:01:40 -0600,"/t/book,/t/science",The Feynman Lectures on Physics,http://www.feynmanlectures.caltech.edu/,/u/pushcx,8
+6,2016-12-14 08:28:26 -0600,/t/rust,Trait Driven Development in Rust,https://scribbles.pascalhertleif.de/trait-driven-development-in-rust.html,/u/balrogboogie,12
+1,2016-12-14 16:47:34 -0600,/t/linux,Is Linux Kernel Growth Sustainable?,http://fossforce.com/2016/12/linux-kernel-growth-sustainable/,/u/pizzaiolo,4
+3,2016-12-14 06:29:26 -0600,/t/networking,DCCP: The socket type you probably never heard of,https://www.anmolsarma.in/post/dccp/,/u/calvin,15
+0,2016-12-14 11:28:45 -0600,"/t/hardware,/t/security",Z1FFER: an open source hardware random number generator,http://www.openrandom.org/,/u/pushcx,10

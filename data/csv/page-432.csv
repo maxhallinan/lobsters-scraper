@@ -1,25 +1,25 @@
-0,2017-03-23 10:35:33 -0500,"['/t/databases', '/t/scaling']",Tuning PostgreSQL with pgbench,https://blog.codeship.com/tuning-postgresql-with-pgbench/,/u/pushcx,10
-2,2017-03-23 13:40:29 -0500,['/t/privacy'],Vault 7: Projects - Dark Matter,https://wikileaks.org/vault7/darkmatter/,/u/mulander,4
-2,2017-03-24 08:01:02 -0500,"['/t/javascript', '/t/release']",Angular 4.0.0 Now Available,http://angularjs.blogspot.com/2017/03/angular-400-now-available.html,/u/joshuacc,0
-36,2017-03-22 11:06:44 -0500,['/t/education'],"20,000 Worldclass University Lectures Made Illegal, So We Irrevocably Mirrored Them",https://lbry.io/news/20000-illegal-college-lectures-rescued,/u/bsima,53
-0,2017-03-23 18:14:50 -0500,['/t/networking'],(Almost) Zero Additional Latency UDP-over-TCP,http://ithare.com/almost-zero-additional-latency-udp-over-tcp/,/u/mikejsavage,3
-2,2017-03-23 12:06:00 -0500,['/t/javascript'],Modern JavaScript for Ancient Web Developers,https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9,/u/pwatsonwailes,3
-2,2017-03-23 10:13:40 -0500,['/t/networking'],Sunsetting SixXS,https://www.sixxs.net/sunset,/u/mjturner,5
-5,2017-03-23 01:48:32 -0500,"['/t/linux', '/t/windows']",Swan - a Linux-like graphical desktop for 64 bit Microsoft Windows based on Cygwin,http://www.starlig.ht/about/,/u/av,11
-1,2017-03-23 01:53:25 -0500,['/t/programming'],Text Editor Performance Comparison,https://github.com/jhallen/joes-sandbox/tree/master/editor-perf,/u/av,16
-12,2017-03-22 15:30:26 -0500,"['/t/audio', '/t/databases', '/t/person']",Why SQLite Succeeded as a Database with Richard Hipp,https://changelog.com/podcast/201,/u/pushcx,23
-12,2017-03-23 17:57:49 -0500,['/t/meta'],Hiding comments by specific users?,https://github.com/jcs/lobsters/issues/197,/u/danielcompton,4
-1,2017-03-23 01:49:39 -0500,"['/t/law', '/t/linux', '/t/windows']",Onedrive is slow on Linux but fast with a “Windows” user-agent (2016),https://answers.microsoft.com/en-us/msoffice/forum/msoffice_onedrivefb-mso_o365brs/onedrive-for-business-open-is-very-slow-on-linux/3d33dc1b-3cc3-4c24-9998-9ab96bad31fc,/u/av,11
-0,2017-03-23 08:45:30 -0500,['/t/css'],A new CSS Grid demo on mozilla.org,https://hacks.mozilla.org/2017/03/a-new-css-grid-demo-on-mozilla-org/,/u/flyingfisch,6
-1,2017-03-23 12:51:13 -0500,"['/t/distributed', '/t/programming']","Event Sourcing, overcoming the monolith | Engineering by Talkdesk",https://engineering.talkdesk.com/posts/2017-03-10-event-sourcing.html,/u/punnie,2
-0,2017-03-23 08:47:38 -0500,['/t/haskell'],Applicative Sorting,https://elvishjerricco.github.io/2017/03/23/applicative-sorting.html,/u/pushcx,5
-0,2017-03-23 13:44:01 -0500,['/t/css'],Practical CSS Grid: Adding Grid to an Existing Design,https://alistapart.com/article/practical-grid,/u/flyingfisch,2
-0,2017-03-23 02:13:32 -0500,"['/t/games', '/t/historical', '/t/reversing']",Chasing the First Arcade Easter Egg,https://edfries.wordpress.com/2017/03/22/chasing-the-first-arcade-easter-egg/,/u/antifuchs,9
-0,2017-03-23 08:43:21 -0500,['/t/hardware'],Negative Resistance: It Shouldn’t Make Sense!,http://hackaday.com/2017/03/21/negative-resistance-it-shouldnt-make-sense/,/u/flyingfisch,4
-6,2017-03-22 14:58:49 -0500,['/t/cryptocurrencies'],LBRY - Content Freedom,https://lbry.io/,/u/feoh,26
-1,2017-03-23 02:49:41 -0500,"['/t/finance', '/t/go']","Building a Bank with Golang, Microservices and Containers",https://www.infoq.com/news/2017/03/monzo-bank-golang,/u/av,6
-1,2017-03-23 09:24:47 -0500,['/t/go'],Hopfield networks in Go,http://mlexplore.org/2017/03/12/hopfield-networks-in-go/,/u/av,2
-1,2017-03-23 06:18:06 -0500,"['/t/c', '/t/programming']",A glib-like multi-platform c library,https://github.com/tboox/tbox,/u/ruki,2
-0,2017-03-23 06:20:08 -0500,['/t/programming'],"Programming won’t be automated, or it already has been",https://mortoray.com/2017/03/22/programming-wont-be-automated-or-it-already-has-been/,/u/qznc,4
-0,2017-03-23 09:28:10 -0500,"['/t/compsci', '/t/programming', '/t/web']",Quick tips for reducing the cognitive load of your code,https://hackernoon.com/quick-tips-for-reducing-the-cognitive-load-of-your-code-bb75d43b5676,/u/innerspirit,1
-0,2017-03-23 10:30:10 -0500,['/t/practices'],Working Effectively with Legacy Code,http://www.sicpers.info/2017/03/working-effectively-with-legacy-code/,/u/NanoXD,2
+0,2017-03-23 10:35:33 -0500,"/t/databases,/t/scaling",Tuning PostgreSQL with pgbench,https://blog.codeship.com/tuning-postgresql-with-pgbench/,/u/pushcx,10
+2,2017-03-23 13:40:29 -0500,/t/privacy,Vault 7: Projects - Dark Matter,https://wikileaks.org/vault7/darkmatter/,/u/mulander,4
+2,2017-03-24 08:01:02 -0500,"/t/javascript,/t/release",Angular 4.0.0 Now Available,http://angularjs.blogspot.com/2017/03/angular-400-now-available.html,/u/joshuacc,0
+36,2017-03-22 11:06:44 -0500,/t/education,"20,000 Worldclass University Lectures Made Illegal, So We Irrevocably Mirrored Them",https://lbry.io/news/20000-illegal-college-lectures-rescued,/u/bsima,53
+0,2017-03-23 18:14:50 -0500,/t/networking,(Almost) Zero Additional Latency UDP-over-TCP,http://ithare.com/almost-zero-additional-latency-udp-over-tcp/,/u/mikejsavage,3
+2,2017-03-23 12:06:00 -0500,/t/javascript,Modern JavaScript for Ancient Web Developers,https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9,/u/pwatsonwailes,3
+2,2017-03-23 10:13:40 -0500,/t/networking,Sunsetting SixXS,https://www.sixxs.net/sunset,/u/mjturner,5
+5,2017-03-23 01:48:32 -0500,"/t/linux,/t/windows",Swan - a Linux-like graphical desktop for 64 bit Microsoft Windows based on Cygwin,http://www.starlig.ht/about/,/u/av,11
+1,2017-03-23 01:53:25 -0500,/t/programming,Text Editor Performance Comparison,https://github.com/jhallen/joes-sandbox/tree/master/editor-perf,/u/av,16
+12,2017-03-22 15:30:26 -0500,"/t/audio,/t/databases,/t/person",Why SQLite Succeeded as a Database with Richard Hipp,https://changelog.com/podcast/201,/u/pushcx,23
+12,2017-03-23 17:57:49 -0500,/t/meta,Hiding comments by specific users?,https://github.com/jcs/lobsters/issues/197,/u/danielcompton,4
+1,2017-03-23 01:49:39 -0500,"/t/law,/t/linux,/t/windows",Onedrive is slow on Linux but fast with a “Windows” user-agent (2016),https://answers.microsoft.com/en-us/msoffice/forum/msoffice_onedrivefb-mso_o365brs/onedrive-for-business-open-is-very-slow-on-linux/3d33dc1b-3cc3-4c24-9998-9ab96bad31fc,/u/av,11
+0,2017-03-23 08:45:30 -0500,/t/css,A new CSS Grid demo on mozilla.org,https://hacks.mozilla.org/2017/03/a-new-css-grid-demo-on-mozilla-org/,/u/flyingfisch,6
+1,2017-03-23 12:51:13 -0500,"/t/distributed,/t/programming","Event Sourcing, overcoming the monolith | Engineering by Talkdesk",https://engineering.talkdesk.com/posts/2017-03-10-event-sourcing.html,/u/punnie,2
+0,2017-03-23 08:47:38 -0500,/t/haskell,Applicative Sorting,https://elvishjerricco.github.io/2017/03/23/applicative-sorting.html,/u/pushcx,5
+0,2017-03-23 13:44:01 -0500,/t/css,Practical CSS Grid: Adding Grid to an Existing Design,https://alistapart.com/article/practical-grid,/u/flyingfisch,2
+0,2017-03-23 02:13:32 -0500,"/t/games,/t/historical,/t/reversing",Chasing the First Arcade Easter Egg,https://edfries.wordpress.com/2017/03/22/chasing-the-first-arcade-easter-egg/,/u/antifuchs,9
+0,2017-03-23 08:43:21 -0500,/t/hardware,Negative Resistance: It Shouldn’t Make Sense!,http://hackaday.com/2017/03/21/negative-resistance-it-shouldnt-make-sense/,/u/flyingfisch,4
+6,2017-03-22 14:58:49 -0500,/t/cryptocurrencies,LBRY - Content Freedom,https://lbry.io/,/u/feoh,26
+1,2017-03-23 02:49:41 -0500,"/t/finance,/t/go","Building a Bank with Golang, Microservices and Containers",https://www.infoq.com/news/2017/03/monzo-bank-golang,/u/av,6
+1,2017-03-23 09:24:47 -0500,/t/go,Hopfield networks in Go,http://mlexplore.org/2017/03/12/hopfield-networks-in-go/,/u/av,2
+1,2017-03-23 06:18:06 -0500,"/t/c,/t/programming",A glib-like multi-platform c library,https://github.com/tboox/tbox,/u/ruki,2
+0,2017-03-23 06:20:08 -0500,/t/programming,"Programming won’t be automated, or it already has been",https://mortoray.com/2017/03/22/programming-wont-be-automated-or-it-already-has-been/,/u/qznc,4
+0,2017-03-23 09:28:10 -0500,"/t/compsci,/t/programming,/t/web",Quick tips for reducing the cognitive load of your code,https://hackernoon.com/quick-tips-for-reducing-the-cognitive-load-of-your-code-bb75d43b5676,/u/innerspirit,1
+0,2017-03-23 10:30:10 -0500,/t/practices,Working Effectively with Legacy Code,http://www.sicpers.info/2017/03/working-effectively-with-legacy-code/,/u/NanoXD,2

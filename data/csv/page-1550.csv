@@ -1,25 +1,25 @@
-9,2012-09-02 11:38:14 -0500,['/t/meta'],Can we avoid non-news items about people?,/s/rmpoyn/can_we_avoid_non_news_items_about_people,/u/bcrescimanno,7
-0,2012-09-01 12:49:47 -0500,"['/t/javascript', '/t/web']",Amazon S3 - Cross Origin Resource Sharing Support,http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html,/u/davidpett,13
-0,2012-09-02 01:21:06 -0500,['/t/hardware'],Reversing an RF Clicker,http://travisgoodspeed.blogspot.com/2010/07/reversing-rf-clicker.html,/u/kyle,2
-0,2012-09-01 14:42:56 -0500,['/t/browsers'],Hacking Mountain Lion: Bringing the old WebKit Web Inspector back to Safari,http://thomasst.ch/webinspector/,/u/philfreo,7
-0,2012-09-01 19:05:16 -0500,['/t/security'],Google engineer finds British spyware on PCs and smartphones,http://www.theregister.co.uk/2012/08/31/finspy_gamma_polcie_spying/,/u/mc,3
-0,2012-09-01 15:02:17 -0500,['/t/javascript'],Detecting if code was run with eval(),http://stackoverflow.com/questions/12227546/how-can-i-detect-im-inside-an-eval-call/12227567,/u/pushcx,5
-0,2012-09-02 00:32:03 -0500,['/t/hardware'],Tacocopter Basics,http://www.danshapiro.com/blog/2012/09/tacocopter-basics/,/u/danshapiro,0
-0,2012-08-31 16:14:02 -0500,"['/t/javascript', '/t/web']",Game On: Backbone and Ember | Nettuts+,http://net.tutsplus.com/tutorials/javascript-ajax/game-on-backbone-and-ember/,/u/davidpett,11
-1,2012-08-31 17:47:47 -0500,['/t/security'],New security issue affecting Java SE 7 Update 7 (full JVM sandbox bypass),http://seclists.org/fulldisclosure/2012/Aug/388,/u/titanous,5
-5,2012-08-31 15:49:15 -0500,"['/t/news', '/t/person']",Fat (guy who wrote Bootstrap) is leaving Twitter,https://twitter.com/fat/status/241635164726386688,/u/steveklabnik,2
-0,2012-08-31 12:37:33 -0500,"['/t/devops', '/t/hardware', '/t/scaling']",What Hardware Powers Etsy.com?,http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/,/u/titanous,10
-5,2012-08-31 11:38:43 -0500,['/t/hardware'],How to start in FPGA development?,http://www.fpgarelated.com/showarticle/38.php,/u/kyle,5
-1,2012-08-31 09:07:52 -0500,"['/t/mobile', '/t/python']",human.io -- Develop lightweight mobile applications with a simple Python API,http://human.io/,/u/snk,10
-0,2012-08-31 11:35:09 -0500,['/t/c'],Computed goto for efficient dispatch tables,http://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables/,/u/kyle,5
-4,2012-08-31 10:11:09 -0500,"['/t/release', '/t/web']",Protological Control: An Introduction,http://words.steveklabnik.com/protological-control-an-introduction,/u/steveklabnik,3
-0,2012-08-31 13:03:12 -0500,['/t/python'],Code Style Guidelines for the Seattle project,https://seattle.cs.washington.edu/wiki/CodingStyle,/u/daniel_kehoe,3
-0,2012-08-31 07:59:31 -0500,['/t/lisp'],Condition Handling for Non-Lispers,http://lubutu.com/soso/condition-handling-for-non-lispers,/u/kyle,5
-5,2012-08-30 18:02:50 -0500,"['/t/ruby', '/t/web']",What's New in Bundler 1.2,http://gembundler.com/v1.2/whats_new.html,/u/daniel_kehoe,17
-0,2012-08-31 10:18:55 -0500,['/t/javascript'],Using Method Decorators to Decouple Code,https://github.com/raganwald/homoiconic/blob/master/2012/08/decoupling_with_method_decorators.md#using-method-decorators-to-decouple-code,/u/pushcx,3
-4,2012-08-31 05:53:30 -0500,"['/t/design', '/t/web']",Mailrox | A web application to quickly build bulletproof HTML emails.,https://www.mailrox.com/,/u/grk,1
-1,2012-08-31 04:45:13 -0500,['/t/linux'],Data science linux distribution,http://datasciencelinux.com/,/u/bravura,3
-0,2012-08-31 06:08:58 -0500,"['/t/freebsd', '/t/hardware', '/t/linux', '/t/openbsd']",Gainframe - Hardware for Software Freedom,http://gainframe.com/,/u/sramov,2
-2,2012-08-30 22:44:12 -0500,"['/t/hardware', '/t/openbsd']",The Trouble with USB 3.0,http://brycv.com/blog/2012/the-trouble-with-usb-3/,/u/brycv,3
-2,2012-08-30 12:05:46 -0500,['/t/ruby'],RSpec's New Expectation Syntax (no more Object#should),http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax,/u/steveklabnik,8
-1,2012-08-30 09:07:42 -0500,['/t/ruby'],pry to the rescue,http://cirw.in/blog/pry-to-the-rescue,/u/pushcx,9
+9,2012-09-02 11:38:14 -0500,/t/meta,Can we avoid non-news items about people?,/s/rmpoyn/can_we_avoid_non_news_items_about_people,/u/bcrescimanno,7
+0,2012-09-01 12:49:47 -0500,"/t/javascript,/t/web",Amazon S3 - Cross Origin Resource Sharing Support,http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html,/u/davidpett,13
+0,2012-09-02 01:21:06 -0500,/t/hardware,Reversing an RF Clicker,http://travisgoodspeed.blogspot.com/2010/07/reversing-rf-clicker.html,/u/kyle,2
+0,2012-09-01 14:42:56 -0500,/t/browsers,Hacking Mountain Lion: Bringing the old WebKit Web Inspector back to Safari,http://thomasst.ch/webinspector/,/u/philfreo,7
+0,2012-09-01 19:05:16 -0500,/t/security,Google engineer finds British spyware on PCs and smartphones,http://www.theregister.co.uk/2012/08/31/finspy_gamma_polcie_spying/,/u/mc,3
+0,2012-09-01 15:02:17 -0500,/t/javascript,Detecting if code was run with eval(),http://stackoverflow.com/questions/12227546/how-can-i-detect-im-inside-an-eval-call/12227567,/u/pushcx,5
+0,2012-09-02 00:32:03 -0500,/t/hardware,Tacocopter Basics,http://www.danshapiro.com/blog/2012/09/tacocopter-basics/,/u/danshapiro,0
+0,2012-08-31 16:14:02 -0500,"/t/javascript,/t/web",Game On: Backbone and Ember | Nettuts+,http://net.tutsplus.com/tutorials/javascript-ajax/game-on-backbone-and-ember/,/u/davidpett,11
+1,2012-08-31 17:47:47 -0500,/t/security,New security issue affecting Java SE 7 Update 7 (full JVM sandbox bypass),http://seclists.org/fulldisclosure/2012/Aug/388,/u/titanous,5
+5,2012-08-31 15:49:15 -0500,"/t/news,/t/person",Fat (guy who wrote Bootstrap) is leaving Twitter,https://twitter.com/fat/status/241635164726386688,/u/steveklabnik,2
+0,2012-08-31 12:37:33 -0500,"/t/devops,/t/hardware,/t/scaling",What Hardware Powers Etsy.com?,http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/,/u/titanous,10
+5,2012-08-31 11:38:43 -0500,/t/hardware,How to start in FPGA development?,http://www.fpgarelated.com/showarticle/38.php,/u/kyle,5
+1,2012-08-31 09:07:52 -0500,"/t/mobile,/t/python",human.io -- Develop lightweight mobile applications with a simple Python API,http://human.io/,/u/snk,10
+0,2012-08-31 11:35:09 -0500,/t/c,Computed goto for efficient dispatch tables,http://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables/,/u/kyle,5
+4,2012-08-31 10:11:09 -0500,"/t/release,/t/web",Protological Control: An Introduction,http://words.steveklabnik.com/protological-control-an-introduction,/u/steveklabnik,3
+0,2012-08-31 13:03:12 -0500,/t/python,Code Style Guidelines for the Seattle project,https://seattle.cs.washington.edu/wiki/CodingStyle,/u/daniel_kehoe,3
+0,2012-08-31 07:59:31 -0500,/t/lisp,Condition Handling for Non-Lispers,http://lubutu.com/soso/condition-handling-for-non-lispers,/u/kyle,5
+5,2012-08-30 18:02:50 -0500,"/t/ruby,/t/web",What's New in Bundler 1.2,http://gembundler.com/v1.2/whats_new.html,/u/daniel_kehoe,17
+0,2012-08-31 10:18:55 -0500,/t/javascript,Using Method Decorators to Decouple Code,https://github.com/raganwald/homoiconic/blob/master/2012/08/decoupling_with_method_decorators.md#using-method-decorators-to-decouple-code,/u/pushcx,3
+4,2012-08-31 05:53:30 -0500,"/t/design,/t/web",Mailrox | A web application to quickly build bulletproof HTML emails.,https://www.mailrox.com/,/u/grk,1
+1,2012-08-31 04:45:13 -0500,/t/linux,Data science linux distribution,http://datasciencelinux.com/,/u/bravura,3
+0,2012-08-31 06:08:58 -0500,"/t/freebsd,/t/hardware,/t/linux,/t/openbsd",Gainframe - Hardware for Software Freedom,http://gainframe.com/,/u/sramov,2
+2,2012-08-30 22:44:12 -0500,"/t/hardware,/t/openbsd",The Trouble with USB 3.0,http://brycv.com/blog/2012/the-trouble-with-usb-3/,/u/brycv,3
+2,2012-08-30 12:05:46 -0500,/t/ruby,RSpec's New Expectation Syntax (no more Object#should),http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax,/u/steveklabnik,8
+1,2012-08-30 09:07:42 -0500,/t/ruby,pry to the rescue,http://cirw.in/blog/pry-to-the-rescue,/u/pushcx,9

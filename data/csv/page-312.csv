@@ -1,25 +1,25 @@
-0,2017-06-28 11:14:05 -0500,"['/t/book', '/t/go']",The Lost Chapter: A Macro System For Monkey,https://thorstenball.com/blog/2017/06/28/the-lost-chapter-a-macro-system-for-monkey/,/u/mrnugget,7
-5,2017-06-28 11:54:29 -0500,"['/t/video', '/t/graphics', '/t/javascript']",Makepad: Rethinking Web UI's with WebGL,https://www.youtube.com/watch?v=Xr6dtXw0Ipg,/u/pushcx,6
-11,2017-06-28 10:28:53 -0500,"['/t/c++', '/t/linux', '/t/programming', '/t/systemd']",Safety and Daemons,https://davmac.wordpress.com/2017/06/29/safety-and-daemons/,/u/Mex,7
-0,2017-06-28 20:32:10 -0500,['/t/design'],Pencil Project - Rapid website and application prototyping GUI,http://pencil.evolus.vn/,/u/steveno,4
-0,2017-06-28 14:30:19 -0500,"['/t/design', '/t/security']",Signal SafetyNnumber Updates,https://signal.org/blog/verified-safety-number-updates/,/u/pushcx,8
-26,2017-06-27 18:36:28 -0500,"['/t/api', '/t/security', '/t/web']",Petya Ransomware: Live Counter of Ransom Dollars Paid,https://franciskim.co/petya-ransomware-live-counter-ransom-dollars-paid/,/u/franciskim,19
-4,2017-06-28 10:30:29 -0500,['/t/security'],Sha256 vulnerability for full rounds. Free-start collision attack + circular hash attack,https://github.com/laie/WorldsFirstSha2Vulnerability,/u/qbit,4
-0,2017-06-28 17:40:50 -0500,"['/t/ai', '/t/formalmethods', '/t/programming']",Developing Bug-Free Machine Learning Systems With Formal Mathematics,https://arxiv.org/abs/1706.08605,/u/nickpsecurity,3
-0,2017-06-28 11:37:23 -0500,"['/t/linux', '/t/security', '/t/systemd']",USN-3341-1: Systemd vulnerability,https://www.ubuntu.com/usn/usn-3341-1/,/u/mulander,6
-0,2017-06-28 07:15:11 -0500,"['/t/networking', '/t/openbsd']",d2k17 Hackathon Report: Alexander Bluhm on Network Stack Improvements and more,http://undeadly.org/cgi?action=article&sid=20170628074903,/u/calvin,10
-14,2017-06-27 19:59:56 -0500,['/t/freebsd'],Introducing OpenNTPd in Base,https://hardenedbsd.org/article/shawn-webb/2017-06-27/introducing-openntpd-base,/u/lattera,17
-48,2017-06-27 09:26:06 -0500,"['/t/c', '/t/compilers']",The C standard versus C and the mother of all hacks (more on UB),http://www.yodaiken.com/2017/06/26/the-c-standard-versus-c-and-the-mother-of-all-hacks/,/u/vyodaiken,28
-0,2017-06-28 09:34:53 -0500,['/t/haskell'],How to write function for N-ary tree traversal in Haskell,https://stackoverflow.com/questions/44784899/how-to-write-function-for-n-ary-tree-traversal-in-haskell/44802556,/u/asthasr,6
-3,2017-06-28 12:10:54 -0500,['/t/networking'],Global Internet Map Map 2017,http://global-internet-map-2017.telegeography.com/,/u/lattera,2
-0,2017-06-28 11:05:23 -0500,"['/t/c', '/t/ruby']",How to write a lock free Queue,https://www.schneems.com/2017/06/28/how-to-write-a-lock-free-queue/,/u/schneems,2
-0,2017-06-28 07:51:01 -0500,['/t/programming'],Keep your dependencies under check,https://blog.ovalerio.net/archives/1296,/u/dethos,3
-0,2017-06-28 09:55:11 -0500,"['/t/show', '/t/practices']",A simple command line (bash/shell) utility to estimate tasks using PERT,https://github.com/arzzen/pert,/u/arzzen,2
-6,2017-06-27 18:02:53 -0500,"['/t/javascript', '/t/testing']",Fuzz testing makes you a better programmer,https://blog.reifyworks.com/fuzz-testing-makes-you-a-better-programmer-e065b04e7d32,/u/pushcx,15
-0,2017-06-28 14:43:54 -0500,['/t/api'],A guide to RESTful API design: 35+ of the most-recommended resources,https://techbeacon.com/guide-restful-api-design-35-must-reads,/u/mpron,2
-10,2017-06-27 05:51:30 -0500,"['/t/debugging', '/t/practices']",It’s always your responsibility,https://codewithoutrules.com/2017/06/27/its-always-your-fault-in-practice/,/u/itamarst,21
-0,2017-06-28 09:49:47 -0500,"['/t/linux', '/t/security']",How many bits of entropy does ASLR on linux provide?,https://gist.github.com/thestinger/b43b460cfccfade51b5a2220a0550c35,/u/rain1,3
-5,2017-06-27 19:01:49 -0500,['/t/security'],NSA Technology Transfer Program,https://nationalsecurityagency.github.io/,/u/timetoplatypus,8
-0,2017-06-28 00:47:30 -0500,"['/t/ruby', '/t/web']",RailsCasts Pro episodes are now free,http://railscasts.com/announcements/13,/u/havenwood,6
-0,2017-06-28 07:04:08 -0500,"['/t/show', '/t/databases', '/t/release', '/t/rust']",pg-amqp-bridge: Send messages to RabbitMQ from PostgreSQL,https://github.com/subzerocloud/pg-amqp-bridge,/u/ruslan_talpa,1
-1,2017-06-27 12:25:49 -0500,['/t/release'],"mblaze 0.1, a Maildir-focused command line mail client",https://groups.google.com/forum/#!topic/mblaze/1UPtGo6ulHo,/u/duncaen,23
+0,2017-06-28 11:14:05 -0500,"/t/book,/t/go",The Lost Chapter: A Macro System For Monkey,https://thorstenball.com/blog/2017/06/28/the-lost-chapter-a-macro-system-for-monkey/,/u/mrnugget,7
+5,2017-06-28 11:54:29 -0500,"/t/video,/t/graphics,/t/javascript",Makepad: Rethinking Web UI's with WebGL,https://www.youtube.com/watch?v=Xr6dtXw0Ipg,/u/pushcx,6
+11,2017-06-28 10:28:53 -0500,"/t/c++,/t/linux,/t/programming,/t/systemd",Safety and Daemons,https://davmac.wordpress.com/2017/06/29/safety-and-daemons/,/u/Mex,7
+0,2017-06-28 20:32:10 -0500,/t/design,Pencil Project - Rapid website and application prototyping GUI,http://pencil.evolus.vn/,/u/steveno,4
+0,2017-06-28 14:30:19 -0500,"/t/design,/t/security",Signal SafetyNnumber Updates,https://signal.org/blog/verified-safety-number-updates/,/u/pushcx,8
+26,2017-06-27 18:36:28 -0500,"/t/api,/t/security,/t/web",Petya Ransomware: Live Counter of Ransom Dollars Paid,https://franciskim.co/petya-ransomware-live-counter-ransom-dollars-paid/,/u/franciskim,19
+4,2017-06-28 10:30:29 -0500,/t/security,Sha256 vulnerability for full rounds. Free-start collision attack + circular hash attack,https://github.com/laie/WorldsFirstSha2Vulnerability,/u/qbit,4
+0,2017-06-28 17:40:50 -0500,"/t/ai,/t/formalmethods,/t/programming",Developing Bug-Free Machine Learning Systems With Formal Mathematics,https://arxiv.org/abs/1706.08605,/u/nickpsecurity,3
+0,2017-06-28 11:37:23 -0500,"/t/linux,/t/security,/t/systemd",USN-3341-1: Systemd vulnerability,https://www.ubuntu.com/usn/usn-3341-1/,/u/mulander,6
+0,2017-06-28 07:15:11 -0500,"/t/networking,/t/openbsd",d2k17 Hackathon Report: Alexander Bluhm on Network Stack Improvements and more,http://undeadly.org/cgi?action=article&sid=20170628074903,/u/calvin,10
+14,2017-06-27 19:59:56 -0500,/t/freebsd,Introducing OpenNTPd in Base,https://hardenedbsd.org/article/shawn-webb/2017-06-27/introducing-openntpd-base,/u/lattera,17
+48,2017-06-27 09:26:06 -0500,"/t/c,/t/compilers",The C standard versus C and the mother of all hacks (more on UB),http://www.yodaiken.com/2017/06/26/the-c-standard-versus-c-and-the-mother-of-all-hacks/,/u/vyodaiken,28
+0,2017-06-28 09:34:53 -0500,/t/haskell,How to write function for N-ary tree traversal in Haskell,https://stackoverflow.com/questions/44784899/how-to-write-function-for-n-ary-tree-traversal-in-haskell/44802556,/u/asthasr,6
+3,2017-06-28 12:10:54 -0500,/t/networking,Global Internet Map Map 2017,http://global-internet-map-2017.telegeography.com/,/u/lattera,2
+0,2017-06-28 11:05:23 -0500,"/t/c,/t/ruby",How to write a lock free Queue,https://www.schneems.com/2017/06/28/how-to-write-a-lock-free-queue/,/u/schneems,2
+0,2017-06-28 07:51:01 -0500,/t/programming,Keep your dependencies under check,https://blog.ovalerio.net/archives/1296,/u/dethos,3
+0,2017-06-28 09:55:11 -0500,"/t/show,/t/practices",A simple command line (bash/shell) utility to estimate tasks using PERT,https://github.com/arzzen/pert,/u/arzzen,2
+6,2017-06-27 18:02:53 -0500,"/t/javascript,/t/testing",Fuzz testing makes you a better programmer,https://blog.reifyworks.com/fuzz-testing-makes-you-a-better-programmer-e065b04e7d32,/u/pushcx,15
+0,2017-06-28 14:43:54 -0500,/t/api,A guide to RESTful API design: 35+ of the most-recommended resources,https://techbeacon.com/guide-restful-api-design-35-must-reads,/u/mpron,2
+10,2017-06-27 05:51:30 -0500,"/t/debugging,/t/practices",It’s always your responsibility,https://codewithoutrules.com/2017/06/27/its-always-your-fault-in-practice/,/u/itamarst,21
+0,2017-06-28 09:49:47 -0500,"/t/linux,/t/security",How many bits of entropy does ASLR on linux provide?,https://gist.github.com/thestinger/b43b460cfccfade51b5a2220a0550c35,/u/rain1,3
+5,2017-06-27 19:01:49 -0500,/t/security,NSA Technology Transfer Program,https://nationalsecurityagency.github.io/,/u/timetoplatypus,8
+0,2017-06-28 00:47:30 -0500,"/t/ruby,/t/web",RailsCasts Pro episodes are now free,http://railscasts.com/announcements/13,/u/havenwood,6
+0,2017-06-28 07:04:08 -0500,"/t/show,/t/databases,/t/release,/t/rust",pg-amqp-bridge: Send messages to RabbitMQ from PostgreSQL,https://github.com/subzerocloud/pg-amqp-bridge,/u/ruslan_talpa,1
+1,2017-06-27 12:25:49 -0500,/t/release,"mblaze 0.1, a Maildir-focused command line mail client",https://groups.google.com/forum/#!topic/mblaze/1UPtGo6ulHo,/u/duncaen,23

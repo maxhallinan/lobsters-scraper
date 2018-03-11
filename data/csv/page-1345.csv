@@ -1,25 +1,25 @@
-13,2014-04-20 13:48:35 -0500,['/t/practices'],"Don't Call Yourself A Programmer, And Other Career Advice",http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/,/u/jm,27
-1,2014-04-21 13:21:10 -0500,"['/t/show', '/t/api']",Konfect | Social Network Connection Manager,http://www.konfect.com,/u/webjay,3
-0,2014-04-21 10:34:27 -0500,['/t/practices'],Automated Bug Detection With Analytics,http://danluu.com/bugalytics/,/u/jvns,3
-0,2014-04-21 02:34:54 -0500,['/t/programming'],Implementation of xkcd 1286,https://github.com/geon/xkcd_1286,/u/codeon1,6
-1,2014-04-21 01:10:32 -0500,['/t/practices'],Why do software projects fail?,http://spage.fi/software-fail,/u/harri,5
-1,2014-04-20 17:53:19 -0500,['/t/linux'],Debug your programs like they're closed source!,http://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/,/u/jvns,11
-0,2014-04-21 16:47:47 -0500,"['/t/culture', '/t/person']","Farewell GitHub, Hello Immersive Computing",http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html,/u/AdamGibbins,1
-0,2014-04-20 14:56:08 -0500,"['/t/c', '/t/lisp']",The Convergence of Modern C++ on the Lisp Programming Style,http://chriskohlhepp.wordpress.com/convergence-of-modern-cplusplus-and-lisp/,/u/antifuchs,12
-0,2014-04-21 08:45:15 -0500,"['/t/javascript', '/t/web']",Code Protection and Packaging for Node.js Projects with JXCore,http://flippinawesome.org/2014/04/21/code-protection-and-packaging-for-node-js-projects-with-jxcore/,/u/remotesynth,1
-2,2014-04-20 11:04:15 -0500,"['/t/haskell', '/t/release']",Cabal 1.20 Released,http://blog.johantibell.com/2014/04/announcing-cabal-120.html,/u/wting,12
-5,2014-04-20 07:10:53 -0500,"['/t/databases', '/t/scaling']",How We Made Our ORM 40 Times Faster,http://deliberate-software.com/Learn-To-Database/,/u/steveshogren,13
-0,2014-04-21 02:34:20 -0500,['/t/programming'],CSS 3D Solar System,http://codepen.io/juliangarnier/pen/idhuG,/u/codeon1,2
-0,2014-04-20 02:19:32 -0500,"['/t/programming', '/t/rust']",Rust for C++ programmers - part 2: control flow,http://featherweightmusings.blogspot.co.nz/2014/04/rust-for-c-programmers-part-2-control.html,/u/kbuck,13
-0,2014-04-20 02:18:52 -0500,"['/t/programming', '/t/rust']",Rust for C++ programmers - part 1: Hello world,http://featherweightmusings.blogspot.co.nz/2014/04/rust-for-c-programmers-part-1-hello.html,/u/kbuck,11
-0,2014-04-20 17:51:51 -0500,['/t/javascript'],Google Distance Matrix API for Node.js – Easily find distance data between locations,https://github.com/edwlook/node-google-distance,/u/edwlook,1
-1,2014-04-19 21:03:15 -0500,['/t/practices'],The limits of “unlimited” vacation,http://jacobian.org/writing/unlimited-vacation/,/u/journeysquid,12
-2,2014-04-19 19:39:41 -0500,"['/t/browsers', '/t/security']","No, don't enable revocation checking",https://www.imperialviolet.org/2014/04/19/revchecking.html,/u/jcs,14
-0,2014-04-20 13:54:26 -0500,['/t/ruby'],A List of ActiveRecord Naming Conventions,http://shinynuggetsofcode.wordpress.com/2013/09/30/convention-vs-configuration/,/u/MasonJar,1
-0,2014-04-19 17:55:38 -0500,['/t/security'],Fairy tales in password hashing with scrypt,http://vnhacker.blogspot.com.ar/2014/04/fairy-tales-in-password-hashing-with.html,/u/jcs,15
-1,2014-04-20 02:14:51 -0500,"['/t/programming', '/t/security']",The Transport Layer Security (TLS) Protocol Version 1.3 draft,http://tools.ietf.org/html/draft-ietf-tls-rfc5246-bis-00,/u/codeon1,3
-2,2014-04-19 13:16:59 -0500,"['/t/programming', '/t/ruby']",Don't just dump code into your models,http://blog.sensible.io/2014/04/19/don-t-just-dump-code-into-your-models.html,/u/darthdeus,7
-2,2014-04-19 18:59:00 -0500,"['/t/culture', '/t/networking', '/t/windows']",Chat Wars,http://nplusonemag.com/chat-wars,/u/andrewcooke,9
-16,2014-04-19 22:01:10 -0500,"['/t/ask', '/t/practices']",bug tracking software recommendations?,/s/tmmlxa/bug_tracking_software_recommendations,/u/patrickxb,6
-0,2014-04-19 13:24:01 -0500,"['/t/hardware', '/t/science']","Noise, Dynamic Range, and Bit Depth in Digital SLRs",http://theory.uchicago.edu/~ejm/pix/20d/tests/noise/,/u/hdevalence,8
-0,2014-04-19 11:38:20 -0500,['/t/programming'],"You Don't Read Code, You Explore It",http://prog21.dadgum.com/194.html,/u/journeysquid,8
+13,2014-04-20 13:48:35 -0500,/t/practices,"Don't Call Yourself A Programmer, And Other Career Advice",http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/,/u/jm,27
+1,2014-04-21 13:21:10 -0500,"/t/show,/t/api",Konfect | Social Network Connection Manager,http://www.konfect.com,/u/webjay,3
+0,2014-04-21 10:34:27 -0500,/t/practices,Automated Bug Detection With Analytics,http://danluu.com/bugalytics/,/u/jvns,3
+0,2014-04-21 02:34:54 -0500,/t/programming,Implementation of xkcd 1286,https://github.com/geon/xkcd_1286,/u/codeon1,6
+1,2014-04-21 01:10:32 -0500,/t/practices,Why do software projects fail?,http://spage.fi/software-fail,/u/harri,5
+1,2014-04-20 17:53:19 -0500,/t/linux,Debug your programs like they're closed source!,http://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/,/u/jvns,11
+0,2014-04-21 16:47:47 -0500,"/t/culture,/t/person","Farewell GitHub, Hello Immersive Computing",http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html,/u/AdamGibbins,1
+0,2014-04-20 14:56:08 -0500,"/t/c,/t/lisp",The Convergence of Modern C++ on the Lisp Programming Style,http://chriskohlhepp.wordpress.com/convergence-of-modern-cplusplus-and-lisp/,/u/antifuchs,12
+0,2014-04-21 08:45:15 -0500,"/t/javascript,/t/web",Code Protection and Packaging for Node.js Projects with JXCore,http://flippinawesome.org/2014/04/21/code-protection-and-packaging-for-node-js-projects-with-jxcore/,/u/remotesynth,1
+2,2014-04-20 11:04:15 -0500,"/t/haskell,/t/release",Cabal 1.20 Released,http://blog.johantibell.com/2014/04/announcing-cabal-120.html,/u/wting,12
+5,2014-04-20 07:10:53 -0500,"/t/databases,/t/scaling",How We Made Our ORM 40 Times Faster,http://deliberate-software.com/Learn-To-Database/,/u/steveshogren,13
+0,2014-04-21 02:34:20 -0500,/t/programming,CSS 3D Solar System,http://codepen.io/juliangarnier/pen/idhuG,/u/codeon1,2
+0,2014-04-20 02:19:32 -0500,"/t/programming,/t/rust",Rust for C++ programmers - part 2: control flow,http://featherweightmusings.blogspot.co.nz/2014/04/rust-for-c-programmers-part-2-control.html,/u/kbuck,13
+0,2014-04-20 02:18:52 -0500,"/t/programming,/t/rust",Rust for C++ programmers - part 1: Hello world,http://featherweightmusings.blogspot.co.nz/2014/04/rust-for-c-programmers-part-1-hello.html,/u/kbuck,11
+0,2014-04-20 17:51:51 -0500,/t/javascript,Google Distance Matrix API for Node.js – Easily find distance data between locations,https://github.com/edwlook/node-google-distance,/u/edwlook,1
+1,2014-04-19 21:03:15 -0500,/t/practices,The limits of “unlimited” vacation,http://jacobian.org/writing/unlimited-vacation/,/u/journeysquid,12
+2,2014-04-19 19:39:41 -0500,"/t/browsers,/t/security","No, don't enable revocation checking",https://www.imperialviolet.org/2014/04/19/revchecking.html,/u/jcs,14
+0,2014-04-20 13:54:26 -0500,/t/ruby,A List of ActiveRecord Naming Conventions,http://shinynuggetsofcode.wordpress.com/2013/09/30/convention-vs-configuration/,/u/MasonJar,1
+0,2014-04-19 17:55:38 -0500,/t/security,Fairy tales in password hashing with scrypt,http://vnhacker.blogspot.com.ar/2014/04/fairy-tales-in-password-hashing-with.html,/u/jcs,15
+1,2014-04-20 02:14:51 -0500,"/t/programming,/t/security",The Transport Layer Security (TLS) Protocol Version 1.3 draft,http://tools.ietf.org/html/draft-ietf-tls-rfc5246-bis-00,/u/codeon1,3
+2,2014-04-19 13:16:59 -0500,"/t/programming,/t/ruby",Don't just dump code into your models,http://blog.sensible.io/2014/04/19/don-t-just-dump-code-into-your-models.html,/u/darthdeus,7
+2,2014-04-19 18:59:00 -0500,"/t/culture,/t/networking,/t/windows",Chat Wars,http://nplusonemag.com/chat-wars,/u/andrewcooke,9
+16,2014-04-19 22:01:10 -0500,"/t/ask,/t/practices",bug tracking software recommendations?,/s/tmmlxa/bug_tracking_software_recommendations,/u/patrickxb,6
+0,2014-04-19 13:24:01 -0500,"/t/hardware,/t/science","Noise, Dynamic Range, and Bit Depth in Digital SLRs",http://theory.uchicago.edu/~ejm/pix/20d/tests/noise/,/u/hdevalence,8
+0,2014-04-19 11:38:20 -0500,/t/programming,"You Don't Read Code, You Explore It",http://prog21.dadgum.com/194.html,/u/journeysquid,8

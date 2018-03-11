@@ -1,25 +1,25 @@
-0,2013-02-05 11:42:52 -0600,"['/t/unix', '/t/vim']",who needs documentation when you have ctags?,http://www.psychedeli.ca/2013/02/05/who-needs-docs-when-you-have-ctags,/u/tubbo,1
-0,2013-02-04 23:20:02 -0600,['/t/vim'],"YouCompleteMe: a Fast, As-You-Type, Clang-based Code Completion Engine for Vim",https://github.com/Valloric/YouCompleteMe,/u/ed,5
-0,2013-02-04 18:02:00 -0600,['/t/hardware'],The Arensito Keyboard Layout,http://www.pvv.org/~hakonhal/main.cgi/keyboard,/u/jcs,4
-0,2013-02-04 18:36:48 -0600,"['/t/security', '/t/unix']",A Decade of OS Access-control Extensibility,http://queue.acm.org/detail.cfm?id=2430732,/u/jturner,3
-0,2013-02-04 13:18:26 -0600,['/t/law'],Rebooting Computer Crime Law Part 1: No Prison Time For Violating Terms of Service,https://www.eff.org/deeplinks/2013/01/rebooting-computer-crime-law-part-1-no-prison-time-for-violating-terms-of-service,/u/jcs,5
-0,2013-02-04 11:26:08 -0600,['/t/security'],Lucky Thirteen: Breaking the TLS and DTLS Record Protocols,http://www.isg.rhul.ac.uk/tls/,/u/kyle,5
-0,2013-02-04 11:31:03 -0600,['/t/security'],Lucky Thirteen attack on TLS CBC,http://www.imperialviolet.org/2013/02/04/luckythirteen.html,/u/jcs,3
-0,2013-02-03 22:27:11 -0600,"['/t/android', '/t/assembly', '/t/c', '/t/linux', '/t/security']",Exploiting 64-bit Linux like a boss,http://scarybeastsecurity.blogspot.se/2013/02/exploiting-64-bit-linux-like-boss.html,/u/kyle,7
-1,2013-02-04 05:08:50 -0600,"['/t/android', '/t/linux']",Wine for Android Coming Soon,http://thenextweb.com/apps/2013/02/03/wine-for-linux-is-going-mobile-you-will-soon-be-able-to-run-windows-apps-on-android/,/u/markprovan,1
-9,2013-02-02 14:01:38 -0600,"['/t/openbsd', '/t/ruby']",Removal of Rails and dependencies from OpenBSD,http://marc.info/?l=openbsd-ports&m=135794600931567&w=2,/u/mc,5
-1,2013-02-02 11:13:11 -0600,['/t/security'],IPMI: Freight Train to Hell,http://fish2.com/ipmi/itrain.html,/u/lynge,4
-2,2013-02-02 12:26:49 -0600,['/t/ruby'],ExceptionNotification v3.0.1 has been released!,https://rubygems.org/gems/exception_notification/versions/3.0.1,/u/smartinez87,2
-0,2013-02-02 16:08:48 -0600,"['/t/c', '/t/ios', '/t/mobile']",RestKit v0.20.0-rc1 Released,http://restkit.tumblr.com/post/42079720667/restkit-v0-20-0-rc1-released,/u/blakewatters,2
-0,2013-02-02 15:59:21 -0600,['/t/linux'],experimental raid5/6 support added to btrfs,http://www.mail-archive.com/linux-btrfs@vger.kernel.org/msg21915.html,/u/pedro,1
-1,2013-02-01 20:25:04 -0600,"['/t/netbsd', '/t/unix']",Managing NetBSD with Ansible,http://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20130202_0149.html,/u/jcs,5
-0,2013-02-01 22:49:54 -0600,"['/t/ruby', '/t/security']",Let’s figure out a way to start signing RubyGems | Tony Arcieri,http://tonyarcieri.com/lets-figure-out-a-way-to-start-signing-rubygems,/u/erichmenge,5
-0,2013-02-01 17:27:48 -0600,"['/t/cryptocurrencies', '/t/hardware']",They are real: The Bitcoin Foundation Opens Up Avalon’s First ASIC,https://bitcoinfoundation.org/blog/?p=112,/u/jcs,3
-0,2013-02-01 11:59:06 -0600,['/t/ruby'],Styleguide Rails: might as well learn it... you'll be using it in 6 months,http://bendyworks.com/geekville/articles/2013/2/styleguide-rails,/u/twopoint718,4
-0,2013-02-01 13:34:40 -0600,['/t/freebsd'],BSDTalk222 - Tinkering with Raspberry Pi,http://bsdtalk.blogspot.dk/2013/01/bsdtalk222-tinkering-with-raspberry-pi.html,/u/lynge,3
-0,2013-02-01 10:03:19 -0600,['/t/practices'],A real world usage for git subtrees,https://gist.github.com/4688345,/u/jcs,4
-2,2013-02-01 00:50:30 -0600,"['/t/networking', '/t/openbsd']",OpenBSD n2k13 update: Hardware VLAN tagging/stripping and performance enhancements for vr(4),http://undeadly.org/cgi?action=article&sid=20130201054156,/u/jcs,6
-1,2013-02-01 01:14:39 -0600,['/t/openbsd'],Gnome 3 on OpenBSD 5.2,http://callfortesting.org/gnome3/,/u/jcs,7
-0,2013-02-01 04:57:35 -0600,['/t/devops'],EC2's M3 Instances Go Global; Reduced EC2 Charges and Lower Bandwidth Prices,http://aws.typepad.com/aws/2013/02/ec2s-m3-global-reduced-ec2-bandwidth.html,/u/karlfreeman,2
-0,2013-01-31 18:45:06 -0600,['/t/networking'],WhisperSystems - Creating a low-latency calling network,http://www.whispersystems.org/blog/low-latency-switching/,/u/jcs,3
-0,2013-01-31 19:16:36 -0600,"['/t/ruby', '/t/security']",Safe YAML in ActiveSupport,https://github.com/rails/rails/issues/9139,/u/balexand,1
+0,2013-02-05 11:42:52 -0600,"/t/unix,/t/vim",who needs documentation when you have ctags?,http://www.psychedeli.ca/2013/02/05/who-needs-docs-when-you-have-ctags,/u/tubbo,1
+0,2013-02-04 23:20:02 -0600,/t/vim,"YouCompleteMe: a Fast, As-You-Type, Clang-based Code Completion Engine for Vim",https://github.com/Valloric/YouCompleteMe,/u/ed,5
+0,2013-02-04 18:02:00 -0600,/t/hardware,The Arensito Keyboard Layout,http://www.pvv.org/~hakonhal/main.cgi/keyboard,/u/jcs,4
+0,2013-02-04 18:36:48 -0600,"/t/security,/t/unix",A Decade of OS Access-control Extensibility,http://queue.acm.org/detail.cfm?id=2430732,/u/jturner,3
+0,2013-02-04 13:18:26 -0600,/t/law,Rebooting Computer Crime Law Part 1: No Prison Time For Violating Terms of Service,https://www.eff.org/deeplinks/2013/01/rebooting-computer-crime-law-part-1-no-prison-time-for-violating-terms-of-service,/u/jcs,5
+0,2013-02-04 11:26:08 -0600,/t/security,Lucky Thirteen: Breaking the TLS and DTLS Record Protocols,http://www.isg.rhul.ac.uk/tls/,/u/kyle,5
+0,2013-02-04 11:31:03 -0600,/t/security,Lucky Thirteen attack on TLS CBC,http://www.imperialviolet.org/2013/02/04/luckythirteen.html,/u/jcs,3
+0,2013-02-03 22:27:11 -0600,"/t/android,/t/assembly,/t/c,/t/linux,/t/security",Exploiting 64-bit Linux like a boss,http://scarybeastsecurity.blogspot.se/2013/02/exploiting-64-bit-linux-like-boss.html,/u/kyle,7
+1,2013-02-04 05:08:50 -0600,"/t/android,/t/linux",Wine for Android Coming Soon,http://thenextweb.com/apps/2013/02/03/wine-for-linux-is-going-mobile-you-will-soon-be-able-to-run-windows-apps-on-android/,/u/markprovan,1
+9,2013-02-02 14:01:38 -0600,"/t/openbsd,/t/ruby",Removal of Rails and dependencies from OpenBSD,http://marc.info/?l=openbsd-ports&m=135794600931567&w=2,/u/mc,5
+1,2013-02-02 11:13:11 -0600,/t/security,IPMI: Freight Train to Hell,http://fish2.com/ipmi/itrain.html,/u/lynge,4
+2,2013-02-02 12:26:49 -0600,/t/ruby,ExceptionNotification v3.0.1 has been released!,https://rubygems.org/gems/exception_notification/versions/3.0.1,/u/smartinez87,2
+0,2013-02-02 16:08:48 -0600,"/t/c,/t/ios,/t/mobile",RestKit v0.20.0-rc1 Released,http://restkit.tumblr.com/post/42079720667/restkit-v0-20-0-rc1-released,/u/blakewatters,2
+0,2013-02-02 15:59:21 -0600,/t/linux,experimental raid5/6 support added to btrfs,http://www.mail-archive.com/linux-btrfs@vger.kernel.org/msg21915.html,/u/pedro,1
+1,2013-02-01 20:25:04 -0600,"/t/netbsd,/t/unix",Managing NetBSD with Ansible,http://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20130202_0149.html,/u/jcs,5
+0,2013-02-01 22:49:54 -0600,"/t/ruby,/t/security",Let’s figure out a way to start signing RubyGems | Tony Arcieri,http://tonyarcieri.com/lets-figure-out-a-way-to-start-signing-rubygems,/u/erichmenge,5
+0,2013-02-01 17:27:48 -0600,"/t/cryptocurrencies,/t/hardware",They are real: The Bitcoin Foundation Opens Up Avalon’s First ASIC,https://bitcoinfoundation.org/blog/?p=112,/u/jcs,3
+0,2013-02-01 11:59:06 -0600,/t/ruby,Styleguide Rails: might as well learn it... you'll be using it in 6 months,http://bendyworks.com/geekville/articles/2013/2/styleguide-rails,/u/twopoint718,4
+0,2013-02-01 13:34:40 -0600,/t/freebsd,BSDTalk222 - Tinkering with Raspberry Pi,http://bsdtalk.blogspot.dk/2013/01/bsdtalk222-tinkering-with-raspberry-pi.html,/u/lynge,3
+0,2013-02-01 10:03:19 -0600,/t/practices,A real world usage for git subtrees,https://gist.github.com/4688345,/u/jcs,4
+2,2013-02-01 00:50:30 -0600,"/t/networking,/t/openbsd",OpenBSD n2k13 update: Hardware VLAN tagging/stripping and performance enhancements for vr(4),http://undeadly.org/cgi?action=article&sid=20130201054156,/u/jcs,6
+1,2013-02-01 01:14:39 -0600,/t/openbsd,Gnome 3 on OpenBSD 5.2,http://callfortesting.org/gnome3/,/u/jcs,7
+0,2013-02-01 04:57:35 -0600,/t/devops,EC2's M3 Instances Go Global; Reduced EC2 Charges and Lower Bandwidth Prices,http://aws.typepad.com/aws/2013/02/ec2s-m3-global-reduced-ec2-bandwidth.html,/u/karlfreeman,2
+0,2013-01-31 18:45:06 -0600,/t/networking,WhisperSystems - Creating a low-latency calling network,http://www.whispersystems.org/blog/low-latency-switching/,/u/jcs,3
+0,2013-01-31 19:16:36 -0600,"/t/ruby,/t/security",Safe YAML in ActiveSupport,https://github.com/rails/rails/issues/9139,/u/balexand,1

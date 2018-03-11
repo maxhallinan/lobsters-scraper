@@ -1,25 +1,25 @@
-0,2016-01-16 20:18:55 -0600,"['/t/pdf', '/t/graphics', '/t/security']",VISIBLE: Video-Assisted Keystroke Inference from Tablet Backside Motion,http://www2.hawaii.edu/~ruizhang/paper/sun-NDSS16.pdf,/u/noelle,4
-0,2016-01-16 15:31:25 -0600,"['/t/networking', '/t/security', '/t/windows']","Hot Potato: Privilege Escalation on Windows 7,8,10, Server 2008, Server 2012",http://foxglovesecurity.com/2016/01/16/hot-potato/,/u/noelle,6
-4,2016-01-16 10:57:22 -0600,"['/t/mobile', '/t/web']",The Average Page is a Myth,https://www.igvita.com/2016/01/12/the-average-page-is-a-myth/,/u/joshuacc,5
-0,2016-01-16 21:10:28 -0600,"['/t/android', '/t/security']",PowerSpy: Location Tracking Using Mobile Device Power Analysis,https://crypto.stanford.edu/powerspy/,/u/noelle,2
-0,2016-01-16 20:16:01 -0600,"['/t/slides', '/t/hardware', '/t/security']",Intel® Software Guard Extensions - Memory Encryption Engine,https://drive.google.com/file/d/0Bzm_4XrWnl5zOXdTcUlEMmdZem8/view?usp=sharing,/u/noelle,2
-0,2016-01-16 22:33:08 -0600,['/t/practices'],The keys to a successful Google team,https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/,/u/pushcx,1
-1,2016-01-15 19:21:43 -0600,"['/t/finance', '/t/philosophy']",How I Stumbled Upon The Internet’s Biggest Blind Spot,https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58,/u/gkop,21
-0,2016-01-16 19:34:12 -0600,"['/t/video', '/t/programming']",BASIC Programming Language in Minecraft,https://www.youtube.com/watch?v=t4e7PjRygt0,/u/ngoldbaum,1
-2,2016-01-15 15:19:28 -0600,"['/t/networking', '/t/security']",My Experience With the Great Firewall of China,http://blog.zorinaq.com/?e=81,/u/pushcx,27
-0,2016-01-16 03:52:06 -0600,"['/t/book', '/t/c']",Scalable C – Writing Large-Scale Distributed C,https://hintjens.gitbooks.io/scalable-c/content/preface.html,/u/av,6
-9,2016-01-15 18:52:53 -0600,['/t/security'],raru: run as random user,https://github.com/teran-mckinney/raru,/u/noelle,8
-5,2016-01-16 19:49:27 -0600,['/t/cryptocurrencies'],Whiny Ragequitting,https://medium.com/@bramcohen/whiny-ragequitting-cab164b1e88,/u/itistoday,0
-11,2016-01-15 04:30:07 -0600,"['/t/c', '/t/programming']","A critique of ""How to C in 2016"" by ""matt""",https://github.com/Keith-S-Thompson/how-to-c-response,/u/passy,35
-0,2016-01-16 08:51:59 -0600,['/t/python'],Isolated @memoize,http://nedbatchelder.com//blog/201601/isolated_memoize.html,/u/pushcx,2
-1,2016-01-15 13:22:17 -0600,['/t/hardware'],Electronics That Last: How I Built an Heirloom Laptop,http://makezine.com/2016/01/15/electronics-that-last-how-i-built-an-heirloom-laptop/,/u/jcs,16
-0,2016-01-15 18:56:23 -0600,['/t/distributed'],Time is an Illusion,https://queue.acm.org/detail.cfm?id=2878574,/u/pushcx,8
-2,2016-01-15 11:12:16 -0600,"['/t/openbsd', '/t/security']",outrageous roaming fees,http://www.tedunangst.com/flak/post/outrageous-roaming-fees,/u/mulander,13
-23,2016-01-14 19:55:12 -0600,"['/t/release', '/t/web']",Dear GitHub,https://github.com/dear-github/dear-github,/u/zg,43
-0,2016-01-15 10:48:27 -0600,"['/t/show', '/t/linux', '/t/testing']",Using off-cpu flame graphs on Linux,http://codearcana.com/posts/2015/12/20/using-off-cpu-flame-graphs-on-linux.html,/u/awreece,9
-1,2016-01-15 19:23:37 -0600,"['/t/programming', '/t/security']","Write Crypto Code, don't publish it",http://www.cryptofails.com/post/75204435608/write-crypto-code-dont-publish-it,/u/pushcx,4
-3,2016-01-15 13:53:13 -0600,"['/t/games', '/t/programming', '/t/web']",Chess-inspired MMO,https://github.com/srpeck/kchess,/u/geocar,6
-3,2016-01-15 14:45:02 -0600,"['/t/javascript', '/t/security']",Buffer(number) is unsafe · Issue #4660 · nodejs/node,https://github.com/nodejs/node/issues/4660,/u/ianloic,5
-0,2016-01-15 11:28:08 -0600,"['/t/law', '/t/privacy']","You Can't Destroy the Village to Save It: W3C vs DRM, Round Two",https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two,/u/halosghost,10
-6,2016-01-15 13:37:15 -0600,['/t/programming'],OSwatch,https://oswatch.net/,/u/superpat,3
-0,2016-01-15 17:44:13 -0600,"['/t/release', '/t/security']",Case Studies in Copy Protection,http://www.filfre.net/2016/01/a-pirates-life-for-me-part-3-case-studies-in-copy-protection/,/u/fcbsd,3
+0,2016-01-16 20:18:55 -0600,"/t/pdf,/t/graphics,/t/security",VISIBLE: Video-Assisted Keystroke Inference from Tablet Backside Motion,http://www2.hawaii.edu/~ruizhang/paper/sun-NDSS16.pdf,/u/noelle,4
+0,2016-01-16 15:31:25 -0600,"/t/networking,/t/security,/t/windows","Hot Potato: Privilege Escalation on Windows 7,8,10, Server 2008, Server 2012",http://foxglovesecurity.com/2016/01/16/hot-potato/,/u/noelle,6
+4,2016-01-16 10:57:22 -0600,"/t/mobile,/t/web",The Average Page is a Myth,https://www.igvita.com/2016/01/12/the-average-page-is-a-myth/,/u/joshuacc,5
+0,2016-01-16 21:10:28 -0600,"/t/android,/t/security",PowerSpy: Location Tracking Using Mobile Device Power Analysis,https://crypto.stanford.edu/powerspy/,/u/noelle,2
+0,2016-01-16 20:16:01 -0600,"/t/slides,/t/hardware,/t/security",Intel® Software Guard Extensions - Memory Encryption Engine,https://drive.google.com/file/d/0Bzm_4XrWnl5zOXdTcUlEMmdZem8/view?usp=sharing,/u/noelle,2
+0,2016-01-16 22:33:08 -0600,/t/practices,The keys to a successful Google team,https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/,/u/pushcx,1
+1,2016-01-15 19:21:43 -0600,"/t/finance,/t/philosophy",How I Stumbled Upon The Internet’s Biggest Blind Spot,https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58,/u/gkop,21
+0,2016-01-16 19:34:12 -0600,"/t/video,/t/programming",BASIC Programming Language in Minecraft,https://www.youtube.com/watch?v=t4e7PjRygt0,/u/ngoldbaum,1
+2,2016-01-15 15:19:28 -0600,"/t/networking,/t/security",My Experience With the Great Firewall of China,http://blog.zorinaq.com/?e=81,/u/pushcx,27
+0,2016-01-16 03:52:06 -0600,"/t/book,/t/c",Scalable C – Writing Large-Scale Distributed C,https://hintjens.gitbooks.io/scalable-c/content/preface.html,/u/av,6
+9,2016-01-15 18:52:53 -0600,/t/security,raru: run as random user,https://github.com/teran-mckinney/raru,/u/noelle,8
+5,2016-01-16 19:49:27 -0600,/t/cryptocurrencies,Whiny Ragequitting,https://medium.com/@bramcohen/whiny-ragequitting-cab164b1e88,/u/itistoday,0
+11,2016-01-15 04:30:07 -0600,"/t/c,/t/programming","A critique of ""How to C in 2016"" by ""matt""",https://github.com/Keith-S-Thompson/how-to-c-response,/u/passy,35
+0,2016-01-16 08:51:59 -0600,/t/python,Isolated @memoize,http://nedbatchelder.com//blog/201601/isolated_memoize.html,/u/pushcx,2
+1,2016-01-15 13:22:17 -0600,/t/hardware,Electronics That Last: How I Built an Heirloom Laptop,http://makezine.com/2016/01/15/electronics-that-last-how-i-built-an-heirloom-laptop/,/u/jcs,16
+0,2016-01-15 18:56:23 -0600,/t/distributed,Time is an Illusion,https://queue.acm.org/detail.cfm?id=2878574,/u/pushcx,8
+2,2016-01-15 11:12:16 -0600,"/t/openbsd,/t/security",outrageous roaming fees,http://www.tedunangst.com/flak/post/outrageous-roaming-fees,/u/mulander,13
+23,2016-01-14 19:55:12 -0600,"/t/release,/t/web",Dear GitHub,https://github.com/dear-github/dear-github,/u/zg,43
+0,2016-01-15 10:48:27 -0600,"/t/show,/t/linux,/t/testing",Using off-cpu flame graphs on Linux,http://codearcana.com/posts/2015/12/20/using-off-cpu-flame-graphs-on-linux.html,/u/awreece,9
+1,2016-01-15 19:23:37 -0600,"/t/programming,/t/security","Write Crypto Code, don't publish it",http://www.cryptofails.com/post/75204435608/write-crypto-code-dont-publish-it,/u/pushcx,4
+3,2016-01-15 13:53:13 -0600,"/t/games,/t/programming,/t/web",Chess-inspired MMO,https://github.com/srpeck/kchess,/u/geocar,6
+3,2016-01-15 14:45:02 -0600,"/t/javascript,/t/security",Buffer(number) is unsafe · Issue #4660 · nodejs/node,https://github.com/nodejs/node/issues/4660,/u/ianloic,5
+0,2016-01-15 11:28:08 -0600,"/t/law,/t/privacy","You Can't Destroy the Village to Save It: W3C vs DRM, Round Two",https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two,/u/halosghost,10
+6,2016-01-15 13:37:15 -0600,/t/programming,OSwatch,https://oswatch.net/,/u/superpat,3
+0,2016-01-15 17:44:13 -0600,"/t/release,/t/security",Case Studies in Copy Protection,http://www.filfre.net/2016/01/a-pirates-life-for-me-part-3-case-studies-in-copy-protection/,/u/fcbsd,3

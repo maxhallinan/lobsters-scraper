@@ -1,25 +1,25 @@
-0,2013-08-17 09:45:50 -0500,"['/t/privacy', '/t/security']",Reply to Zooko,http://silentcircle.wordpress.com/2013/08/17/reply-to-zooko/,/u/kyle,2
-1,2013-08-16 20:45:16 -0500,['/t/networking'],Google's downtime caused a 40% in global traffic,https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic,/u/journeysquid,3
-1,2013-08-16 13:24:50 -0500,['/t/practices'],Google engineers insist 20% time is not dead - it’s just turned into 120% time,http://qz.com/116196/google-engineers-insist-20-time-is-not-dead-its-just-turned-into-120-time/,/u/journeysquid,5
-2,2013-08-16 17:42:19 -0500,['/t/haskell'],Tricking Haskell into being dynamic,http://blog.begriffs.com/2013/08/tricking-haskell-into-being-dynamic.html,/u/puffnfresh,3
-0,2013-08-16 18:01:00 -0500,['/t/hardware'],The (De-)evolution of My Laptop Battery,http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html,/u/journeysquid,2
-0,2013-08-16 05:35:40 -0500,['/t/linux'],Happy 20th birthday Debian!,http://bits.debian.org/2013/08/20-birthday-debian.html,/u/fcambus,5
-5,2013-08-15 09:59:16 -0500,"['/t/haskell', '/t/practices']",Writing Haskell every damn day,http://blog.begriffs.com/2013/08/writing-haskell-every-damn-day.html,/u/begriffs,8
-2,2013-08-15 10:30:04 -0500,['/t/book'],Release It! Deploying Production Ready Software,http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213,/u/kb,2
-0,2013-08-15 15:39:42 -0500,"['/t/python', '/t/rant']",All Machine Learning Platforms are Terrible (but some less so),http://richardminerich.com/2013/08/all-machine-learning-platforms-are-terrible-but-some-less-so/,/u/Rickasaurus,3
-0,2013-08-15 10:36:39 -0500,['/t/programming'],Frak takes an entirely different approach to generating regular expressions,http://thechangelog.com/frak-takes-an-entirely-different-approach-to-generating-regular-expressions/,/u/jerodsanto,2
-0,2013-08-14 18:52:29 -0500,"['/t/android', '/t/java', '/t/security']",Some SecureRandom Thoughts,http://android-developers.blogspot.com/2013/08/some-securerandom-thoughts.html,/u/jcs,4
-0,2013-08-14 20:07:04 -0500,['/t/linux'],ZRAM Might Finally Be Moved Out Of Linux Staging,http://www.phoronix.com/scan.php?page=news_item&px=MTQzNjY,/u/journeysquid,3
-0,2013-08-15 00:46:58 -0500,"['/t/python', '/t/security']",bletchley - A collection of practical application cryptanalysis tools,https://code.google.com/p/bletchley/,/u/kyle,1
-0,2013-08-14 13:53:05 -0500,"['/t/pdf', '/t/python', '/t/reversing']",Looking inside the (Drop) box,https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf,/u/jcs,5
-0,2013-08-14 20:06:13 -0500,['/t/go'],Go 1.1.2 Released,https://code.google.com/p/go/source/list?name=release-branch.go1.1&r=go1.1.2,/u/journeysquid,2
-0,2013-08-14 18:05:34 -0500,['/t/hardware'],[2007]: BORPH: An Operating System for FPGA-Based Reconfigurable Computers,http://www.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-92.html,/u/vg,2
-2,2013-08-14 10:56:00 -0500,['/t/security'],Encryption is less secure than we thought,http://www.mit.edu/newsoffice/2013/encryption-is-less-secure-than-we-thought-0814.html,/u/kyle,3
-0,2013-08-14 09:55:05 -0500,['/t/design'],Composite – Interactive prototypes straight from Photoshop to your iPhone.,http://www.getcomposite.com,/u/mogstad,3
-1,2013-08-13 11:11:07 -0500,['/t/mac'],Hacking the OS X Kernel for Fun and Profiles,http://research.swtch.com/macpprof,/u/jcs,7
-5,2013-08-13 10:36:33 -0500,['/t/security'],Security rewards at Google: Two MEEELLION Dollars Later,http://blog.chromium.org/2013/08/security-rewards-at-google-two.html,/u/jcs,5
-0,2013-08-13 12:42:14 -0500,"['/t/news', '/t/person']",How Laura Poitras Helped Snowden Spill His Secrets,http://www.nytimes.com/2013/08/18/magazine/laura-poitras-snowden.html?pagewanted=all,/u/jturner,4
-1,2013-08-13 02:43:33 -0500,['/t/openbsd'],64-bit Time on OpenBSD,http://undeadly.org/cgi?action=article&sid=20130813072244,/u/dbd,10
-0,2013-08-13 10:10:08 -0500,"['/t/networking', '/t/security']",Quick Blind TCP Connection Spoofing with SYN Cookies,http://www.jakoblell.com/blog/2013/08/13/quick-blind-tcp-connection-spoofing-with-syn-cookies/,/u/jcs,5
-0,2013-08-13 12:29:20 -0500,['/t/go'],Gophercloud: A multi-cloud software development kit for Go,http://developer.rackspace.com/blog/gophercloud.html,/u/nexneo,3
-1,2013-08-13 08:29:08 -0500,"['/t/compsci', '/t/ruby']",Twilio Phone Call Automation,http://engineering.coachup.com/47/,/u/pushcx,4
+0,2013-08-17 09:45:50 -0500,"/t/privacy,/t/security",Reply to Zooko,http://silentcircle.wordpress.com/2013/08/17/reply-to-zooko/,/u/kyle,2
+1,2013-08-16 20:45:16 -0500,/t/networking,Google's downtime caused a 40% in global traffic,https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic,/u/journeysquid,3
+1,2013-08-16 13:24:50 -0500,/t/practices,Google engineers insist 20% time is not dead - it’s just turned into 120% time,http://qz.com/116196/google-engineers-insist-20-time-is-not-dead-its-just-turned-into-120-time/,/u/journeysquid,5
+2,2013-08-16 17:42:19 -0500,/t/haskell,Tricking Haskell into being dynamic,http://blog.begriffs.com/2013/08/tricking-haskell-into-being-dynamic.html,/u/puffnfresh,3
+0,2013-08-16 18:01:00 -0500,/t/hardware,The (De-)evolution of My Laptop Battery,http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html,/u/journeysquid,2
+0,2013-08-16 05:35:40 -0500,/t/linux,Happy 20th birthday Debian!,http://bits.debian.org/2013/08/20-birthday-debian.html,/u/fcambus,5
+5,2013-08-15 09:59:16 -0500,"/t/haskell,/t/practices",Writing Haskell every damn day,http://blog.begriffs.com/2013/08/writing-haskell-every-damn-day.html,/u/begriffs,8
+2,2013-08-15 10:30:04 -0500,/t/book,Release It! Deploying Production Ready Software,http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213,/u/kb,2
+0,2013-08-15 15:39:42 -0500,"/t/python,/t/rant",All Machine Learning Platforms are Terrible (but some less so),http://richardminerich.com/2013/08/all-machine-learning-platforms-are-terrible-but-some-less-so/,/u/Rickasaurus,3
+0,2013-08-15 10:36:39 -0500,/t/programming,Frak takes an entirely different approach to generating regular expressions,http://thechangelog.com/frak-takes-an-entirely-different-approach-to-generating-regular-expressions/,/u/jerodsanto,2
+0,2013-08-14 18:52:29 -0500,"/t/android,/t/java,/t/security",Some SecureRandom Thoughts,http://android-developers.blogspot.com/2013/08/some-securerandom-thoughts.html,/u/jcs,4
+0,2013-08-14 20:07:04 -0500,/t/linux,ZRAM Might Finally Be Moved Out Of Linux Staging,http://www.phoronix.com/scan.php?page=news_item&px=MTQzNjY,/u/journeysquid,3
+0,2013-08-15 00:46:58 -0500,"/t/python,/t/security",bletchley - A collection of practical application cryptanalysis tools,https://code.google.com/p/bletchley/,/u/kyle,1
+0,2013-08-14 13:53:05 -0500,"/t/pdf,/t/python,/t/reversing",Looking inside the (Drop) box,https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf,/u/jcs,5
+0,2013-08-14 20:06:13 -0500,/t/go,Go 1.1.2 Released,https://code.google.com/p/go/source/list?name=release-branch.go1.1&r=go1.1.2,/u/journeysquid,2
+0,2013-08-14 18:05:34 -0500,/t/hardware,[2007]: BORPH: An Operating System for FPGA-Based Reconfigurable Computers,http://www.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-92.html,/u/vg,2
+2,2013-08-14 10:56:00 -0500,/t/security,Encryption is less secure than we thought,http://www.mit.edu/newsoffice/2013/encryption-is-less-secure-than-we-thought-0814.html,/u/kyle,3
+0,2013-08-14 09:55:05 -0500,/t/design,Composite – Interactive prototypes straight from Photoshop to your iPhone.,http://www.getcomposite.com,/u/mogstad,3
+1,2013-08-13 11:11:07 -0500,/t/mac,Hacking the OS X Kernel for Fun and Profiles,http://research.swtch.com/macpprof,/u/jcs,7
+5,2013-08-13 10:36:33 -0500,/t/security,Security rewards at Google: Two MEEELLION Dollars Later,http://blog.chromium.org/2013/08/security-rewards-at-google-two.html,/u/jcs,5
+0,2013-08-13 12:42:14 -0500,"/t/news,/t/person",How Laura Poitras Helped Snowden Spill His Secrets,http://www.nytimes.com/2013/08/18/magazine/laura-poitras-snowden.html?pagewanted=all,/u/jturner,4
+1,2013-08-13 02:43:33 -0500,/t/openbsd,64-bit Time on OpenBSD,http://undeadly.org/cgi?action=article&sid=20130813072244,/u/dbd,10
+0,2013-08-13 10:10:08 -0500,"/t/networking,/t/security",Quick Blind TCP Connection Spoofing with SYN Cookies,http://www.jakoblell.com/blog/2013/08/13/quick-blind-tcp-connection-spoofing-with-syn-cookies/,/u/jcs,5
+0,2013-08-13 12:29:20 -0500,/t/go,Gophercloud: A multi-cloud software development kit for Go,http://developer.rackspace.com/blog/gophercloud.html,/u/nexneo,3
+1,2013-08-13 08:29:08 -0500,"/t/compsci,/t/ruby",Twilio Phone Call Automation,http://engineering.coachup.com/47/,/u/pushcx,4

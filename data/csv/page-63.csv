@@ -1,25 +1,25 @@
-5,2018-01-10 23:35:13 -0600,"['/t/crypto', '/t/security']",Attack of the Week: Group Messaging in WhatsApp and Signal,https://blog.cryptographyengineering.com/2018/01/10/attack-of-the-week-group-messaging-in-whatsapp-and-signal/,/u/freddyb,10
-20,2018-01-10 14:01:05 -0600,"['/t/ask', '/t/practices']",How have you proved to (prospective) employers that you've 'leveled up' in your career?,/s/hbqg3d/how_have_you_proved_prospective,/u/bsima,12
-0,2018-01-11 10:10:41 -0600,"['/t/mac', '/t/security']",AppStore Preferences lock is a lie,https://openradar.appspot.com/36350507,/u/atti1a,4
-2,2018-01-11 13:03:13 -0600,['/t/science'],The Earth is Flat,https://bartoszmilewski.com/2018/01/11/the-earth-is-flat/,/u/NinjaTrappeur,1
-8,2018-01-10 22:40:25 -0600,"['/t/compsci', '/t/programming']",What the Four Color Theorem Can Teach Us About Writing Software,http://alexkudlick.com/blog/what-the-four-color-theorem-can-teach-us-about-writing-software/,/u/calvin,7
-11,2018-01-10 12:51:25 -0600,"['/t/ask', '/t/compilers', '/t/plt']",Ask: Type systems in natural languages?,/s/gsafb7/ask_type_systems_natural_languages,/u/faitswulff,11
-0,2018-01-11 13:20:43 -0600,['/t/crypto'],Recommendation for the Entropy Sources Used for Random Bit Generation,https://csrc.nist.gov/publications/detail/sp/800-90B/final,/u/trn,2
-1,2018-01-11 07:30:45 -0600,['/t/distributed'],Understanding the blockchain,https://www.oreilly.com/ideas/understanding-the-blockchain,/u/Usermac,3
-0,2018-01-11 01:08:22 -0600,"['/t/php', '/t/practices', '/t/programming', '/t/testing', '/t/web']",PHP software development workflow,https://keith-mifsud.me/php-software-development-workflow,/u/keithmifsud,5
-0,2018-01-11 12:06:15 -0600,"['/t/games', '/t/mac', '/t/python']",Tips And Tricks for Shipping a PyGame App on the Mac,https://glyph.twistedmatrix.com/2018/01/shipping-pygame-mac-app.html,/u/phildini,2
-0,2018-01-11 10:15:38 -0600,['/t/ruby'],Tutorial: deploying a Rails app via AWS Fargate,http://blog.scoutapp.com/articles/2018/01/08/deploying-to-aws-part-i-running-a-rails-app-on-fargate,/u/dlite,1
-13,2018-01-10 07:29:12 -0600,"['/t/pdf', '/t/book', '/t/ml']","ML For The Working Programmer, 2nd ed.",https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html,/u/pushcx,28
-1,2018-01-11 15:06:32 -0600,"['/t/book', '/t/php']",Gift Recommendation Website I made,https://best-gifts.in/,/u/kanakiyajay,0
-22,2018-01-10 12:46:38 -0600,"['/t/javascript', '/t/practices', '/t/programming', '/t/web']",Electron is {derogatory_phrase_here}!!!111,https://chronicbuildfailure.co/electron-is-derogatory-phrase-here-111-a622b9e50fba,/u/colindean,12
-17,2018-01-10 07:48:16 -0600,['/t/practices'],The Stress of Remote Working,https://medium.com/@madewulf/the-stress-of-remote-working-38be5bdcf4da,/u/calvin,19
-0,2018-01-11 04:59:17 -0600,['/t/security'],mitm6 – compromising IPv4 networks via IPv6,https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/,/u/j11g,3
-0,2018-01-10 15:51:38 -0600,"['/t/formalmethods', '/t/programming']",Capturing program invariants in ATS,https://bluishcoder.co.nz/2018/01/10/capturing-program-invariants-in-ats.html,/u/doublec,7
-7,2018-01-10 20:13:43 -0600,['/t/css'],Preset: A simple CSS reset for 2018,https://github.com/tomhodgins/preset,/u/innovati,2
-0,2018-01-11 06:30:41 -0600,"['/t/practices', '/t/science', '/t/security']",Behind the scenes of a bug collision,https://cyber.wtf/2018/01/05/behind-the-scene-of-a-bug-collision/,/u/stsp,2
-0,2018-01-10 20:57:42 -0600,"['/t/c', '/t/performance', '/t/programming']",The Lost Art of C Structure Packing,http://www.catb.org/esr/structure-packing/,/u/nhooyr,6
-8,2018-01-10 08:00:08 -0600,['/t/rust'],Rust in 2018,http://manishearth.github.io/blog/2018/01/10/rust-in-2018/,/u/NinjaTrappeur,13
-0,2018-01-11 15:23:39 -0600,['/t/javascript'],Manage Application State with Mobx-state-tree,https://egghead.io/courses/manage-application-state-with-mobx-state-tree,/u/phaedryx,0
-0,2018-01-10 15:29:54 -0600,['/t/programming'],"Announcing Sourcegraph Server 2.4: free, powerful code search",https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-4,/u/beyang,5
-1,2018-01-10 13:11:38 -0600,['/t/databases'],Database sharding explained in plain English,https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/,/u/craigkerstiens,4
-9,2018-01-09 15:38:34 -0600,"['/t/show', '/t/programming']",A few great things Recursers did in 2017,https://www.recurse.com/blog/124-a-few-great-things-Recursers-did-in-2017,/u/rhonorv,37
+5,2018-01-10 23:35:13 -0600,"/t/crypto,/t/security",Attack of the Week: Group Messaging in WhatsApp and Signal,https://blog.cryptographyengineering.com/2018/01/10/attack-of-the-week-group-messaging-in-whatsapp-and-signal/,/u/freddyb,10
+20,2018-01-10 14:01:05 -0600,"/t/ask,/t/practices",How have you proved to (prospective) employers that you've 'leveled up' in your career?,/s/hbqg3d/how_have_you_proved_prospective,/u/bsima,12
+0,2018-01-11 10:10:41 -0600,"/t/mac,/t/security",AppStore Preferences lock is a lie,https://openradar.appspot.com/36350507,/u/atti1a,4
+2,2018-01-11 13:03:13 -0600,/t/science,The Earth is Flat,https://bartoszmilewski.com/2018/01/11/the-earth-is-flat/,/u/NinjaTrappeur,1
+8,2018-01-10 22:40:25 -0600,"/t/compsci,/t/programming",What the Four Color Theorem Can Teach Us About Writing Software,http://alexkudlick.com/blog/what-the-four-color-theorem-can-teach-us-about-writing-software/,/u/calvin,7
+11,2018-01-10 12:51:25 -0600,"/t/ask,/t/compilers,/t/plt",Ask: Type systems in natural languages?,/s/gsafb7/ask_type_systems_natural_languages,/u/faitswulff,11
+0,2018-01-11 13:20:43 -0600,/t/crypto,Recommendation for the Entropy Sources Used for Random Bit Generation,https://csrc.nist.gov/publications/detail/sp/800-90B/final,/u/trn,2
+1,2018-01-11 07:30:45 -0600,/t/distributed,Understanding the blockchain,https://www.oreilly.com/ideas/understanding-the-blockchain,/u/Usermac,3
+0,2018-01-11 01:08:22 -0600,"/t/php,/t/practices,/t/programming,/t/testing,/t/web",PHP software development workflow,https://keith-mifsud.me/php-software-development-workflow,/u/keithmifsud,5
+0,2018-01-11 12:06:15 -0600,"/t/games,/t/mac,/t/python",Tips And Tricks for Shipping a PyGame App on the Mac,https://glyph.twistedmatrix.com/2018/01/shipping-pygame-mac-app.html,/u/phildini,2
+0,2018-01-11 10:15:38 -0600,/t/ruby,Tutorial: deploying a Rails app via AWS Fargate,http://blog.scoutapp.com/articles/2018/01/08/deploying-to-aws-part-i-running-a-rails-app-on-fargate,/u/dlite,1
+13,2018-01-10 07:29:12 -0600,"/t/pdf,/t/book,/t/ml","ML For The Working Programmer, 2nd ed.",https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html,/u/pushcx,28
+1,2018-01-11 15:06:32 -0600,"/t/book,/t/php",Gift Recommendation Website I made,https://best-gifts.in/,/u/kanakiyajay,0
+22,2018-01-10 12:46:38 -0600,"/t/javascript,/t/practices,/t/programming,/t/web",Electron is {derogatory_phrase_here}!!!111,https://chronicbuildfailure.co/electron-is-derogatory-phrase-here-111-a622b9e50fba,/u/colindean,12
+17,2018-01-10 07:48:16 -0600,/t/practices,The Stress of Remote Working,https://medium.com/@madewulf/the-stress-of-remote-working-38be5bdcf4da,/u/calvin,19
+0,2018-01-11 04:59:17 -0600,/t/security,mitm6 – compromising IPv4 networks via IPv6,https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/,/u/j11g,3
+0,2018-01-10 15:51:38 -0600,"/t/formalmethods,/t/programming",Capturing program invariants in ATS,https://bluishcoder.co.nz/2018/01/10/capturing-program-invariants-in-ats.html,/u/doublec,7
+7,2018-01-10 20:13:43 -0600,/t/css,Preset: A simple CSS reset for 2018,https://github.com/tomhodgins/preset,/u/innovati,2
+0,2018-01-11 06:30:41 -0600,"/t/practices,/t/science,/t/security",Behind the scenes of a bug collision,https://cyber.wtf/2018/01/05/behind-the-scene-of-a-bug-collision/,/u/stsp,2
+0,2018-01-10 20:57:42 -0600,"/t/c,/t/performance,/t/programming",The Lost Art of C Structure Packing,http://www.catb.org/esr/structure-packing/,/u/nhooyr,6
+8,2018-01-10 08:00:08 -0600,/t/rust,Rust in 2018,http://manishearth.github.io/blog/2018/01/10/rust-in-2018/,/u/NinjaTrappeur,13
+0,2018-01-11 15:23:39 -0600,/t/javascript,Manage Application State with Mobx-state-tree,https://egghead.io/courses/manage-application-state-with-mobx-state-tree,/u/phaedryx,0
+0,2018-01-10 15:29:54 -0600,/t/programming,"Announcing Sourcegraph Server 2.4: free, powerful code search",https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-4,/u/beyang,5
+1,2018-01-10 13:11:38 -0600,/t/databases,Database sharding explained in plain English,https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/,/u/craigkerstiens,4
+9,2018-01-09 15:38:34 -0600,"/t/show,/t/programming",A few great things Recursers did in 2017,https://www.recurse.com/blog/124-a-few-great-things-Recursers-did-in-2017,/u/rhonorv,37

@@ -1,25 +1,25 @@
-0,2017-11-14 12:38:46 -0600,['/t/event'],DConf 2018: Assemblage in Bavaria,https://dlang.org/blog/2017/11/14/dconf-2018-assemblage-in-bavaria/,/u/JordiGH,1
-2,2017-11-13 14:01:25 -0600,['/t/programming'],Scripting the GUI with 'hey',https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/,/u/calvin,16
-18,2017-11-13 02:22:49 -0600,"['/t/hardware', '/t/security']",Google Working To Remove MINIX-Based ME From Intel Platforms,"http://www.tomshardware.com/news/google-removing-minix-management-engine-intel,35876.html",/u/pgl,31
-4,2017-11-13 12:15:12 -0600,['/t/security'],A Boeing 757 was remotely hacked by US homeland security experts in just 2 days,http://www.ibtimes.co.uk/boeing-757-was-remotely-hacked-by-us-homeland-security-experts-just-2-days-1647025,/u/cnst,13
-0,2017-11-14 10:21:50 -0600,"['/t/android', '/t/security']",More than 1 billion Android devices run outdated software,http://www.osnews.com/story/30085/More_than_1_billion_Android_devices_run_outdated_software,/u/calvin,1
-53,2017-11-13 04:53:14 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/q3gmyi/what_are_you_working_on_this_week,/u/caius,21
-1,2017-11-13 18:24:03 -0600,['/t/openbsd'],"p2k17 Hackathon report: Florian Obser on network stack progress, kernel relinking and more",https://undeadly.org/cgi?action=article;sid=20171113235334,/u/stsp,8
-1,2017-11-13 09:09:19 -0600,"['/t/go', '/t/performance']","Go, don't collect my garbage",http://blog.cloudflare.com/go-dont-collect-my-garbage/,/u/av,19
-1,2017-11-13 04:42:39 -0600,"['/t/games', '/t/historical']","Behold, mortal, the origins of robotfindskitten...",https://www.crummy.com/writing/speaking/2017-Roguelike%20Celebration/,/u/Screwtape,29
-10,2017-11-12 20:18:20 -0600,['/t/practices'],You’re working in the wrong place.,https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c,/u/calvin,44
-0,2017-11-13 23:55:40 -0600,['/t/css'],QSS - a simple element query syntax for CSS,https://gist.github.com/tomhodgins/da7d8aa89d34b69e5c4120980e3945ef,/u/innovati,1
-0,2017-11-13 14:45:32 -0600,"['/t/clojure', '/t/web']",Re-frame approach to state management,https://purelyfunctional.tv/guide/state-in-re-frame/,/u/Yogthos,8
-0,2017-11-13 20:11:14 -0600,['/t/dotnet'],Mono's New .NET Interpreter,http://www.mono-project.com/news/2017/11/13/mono-interpreter/,/u/calvin,4
-1,2017-11-13 06:49:33 -0600,['/t/privacy'],The Importance Of Free Firmware,https://jxself.org/free-firmware.shtml,/u/pizzaiolo,16
-0,2017-11-13 08:06:42 -0600,"['/t/distributed', '/t/erlang', '/t/python']",An Erlang node implemented in Python,https://github.com/esl/Pyrlang,/u/unbalancedparentheses,16
-3,2017-11-13 09:25:02 -0600,"['/t/pdf', '/t/book', '/t/programming']",A Pamphlet against R,https://panicz.github.io/pamphlet/,/u/pushcx,7
-3,2017-11-13 09:03:52 -0600,"['/t/api', '/t/databases', '/t/python', '/t/visualization', '/t/web']","Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL",http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/,/u/lyonwj,3
-0,2017-11-13 19:42:31 -0600,"['/t/ios', '/t/security']",Apple Face ID can be outsmarted using mask,https://www.rt.com/news/409727-iphone-x-face-apple-id/,/u/cnst,3
-2,2017-11-13 16:41:29 -0600,['/t/ai'],Foo bar machines,http://blog.ikura.co/posts/foo-bar-machines.html,/u/nato,1
-0,2017-11-13 06:08:15 -0600,['/t/javascript'],Glitch: write fun small web projects instantly,https://jvns.ca/blog/2017/11/13/glitch--write-small-web-projects-easily/,/u/calvin,15
-0,2017-11-13 20:22:02 -0600,"['/t/dotnet', '/t/programming']",Recursion Without Recursion,https://www.benjamin.pizza/posts/2017-11-13-recursion-without-recursion.html,/u/calvin,2
-6,2017-11-12 20:49:01 -0600,['/t/practices'],Why software engineers don’t get jobs: Three horror stories,https://coderfit.com/why-software-engineers-dont-get-jobs-three-horror-stories/,/u/calvin,16
-0,2017-11-14 00:04:36 -0600,['/t/culture'],GitHub Community Forum,https://github.community/,/u/av,2
-0,2017-11-13 17:41:05 -0600,"['/t/linux', '/t/release']",ENOFIRMWARE is now available,https://lists.gnu.org/archive/html/info-gnu/2017-11/msg00004.html,/u/pizzaiolo,2
-1,2017-11-13 02:24:17 -0600,['/t/assembly'],FunTAL: mixing a functional language with assembly,https://dbp.io/artifacts/funtal/,/u/lainon,12
+0,2017-11-14 12:38:46 -0600,/t/event,DConf 2018: Assemblage in Bavaria,https://dlang.org/blog/2017/11/14/dconf-2018-assemblage-in-bavaria/,/u/JordiGH,1
+2,2017-11-13 14:01:25 -0600,/t/programming,Scripting the GUI with 'hey',https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/,/u/calvin,16
+18,2017-11-13 02:22:49 -0600,"/t/hardware,/t/security",Google Working To Remove MINIX-Based ME From Intel Platforms,"http://www.tomshardware.com/news/google-removing-minix-management-engine-intel,35876.html",/u/pgl,31
+4,2017-11-13 12:15:12 -0600,/t/security,A Boeing 757 was remotely hacked by US homeland security experts in just 2 days,http://www.ibtimes.co.uk/boeing-757-was-remotely-hacked-by-us-homeland-security-experts-just-2-days-1647025,/u/cnst,13
+0,2017-11-14 10:21:50 -0600,"/t/android,/t/security",More than 1 billion Android devices run outdated software,http://www.osnews.com/story/30085/More_than_1_billion_Android_devices_run_outdated_software,/u/calvin,1
+53,2017-11-13 04:53:14 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/q3gmyi/what_are_you_working_on_this_week,/u/caius,21
+1,2017-11-13 18:24:03 -0600,/t/openbsd,"p2k17 Hackathon report: Florian Obser on network stack progress, kernel relinking and more",https://undeadly.org/cgi?action=article;sid=20171113235334,/u/stsp,8
+1,2017-11-13 09:09:19 -0600,"/t/go,/t/performance","Go, don't collect my garbage",http://blog.cloudflare.com/go-dont-collect-my-garbage/,/u/av,19
+1,2017-11-13 04:42:39 -0600,"/t/games,/t/historical","Behold, mortal, the origins of robotfindskitten...",https://www.crummy.com/writing/speaking/2017-Roguelike%20Celebration/,/u/Screwtape,29
+10,2017-11-12 20:18:20 -0600,/t/practices,You’re working in the wrong place.,https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c,/u/calvin,44
+0,2017-11-13 23:55:40 -0600,/t/css,QSS - a simple element query syntax for CSS,https://gist.github.com/tomhodgins/da7d8aa89d34b69e5c4120980e3945ef,/u/innovati,1
+0,2017-11-13 14:45:32 -0600,"/t/clojure,/t/web",Re-frame approach to state management,https://purelyfunctional.tv/guide/state-in-re-frame/,/u/Yogthos,8
+0,2017-11-13 20:11:14 -0600,/t/dotnet,Mono's New .NET Interpreter,http://www.mono-project.com/news/2017/11/13/mono-interpreter/,/u/calvin,4
+1,2017-11-13 06:49:33 -0600,/t/privacy,The Importance Of Free Firmware,https://jxself.org/free-firmware.shtml,/u/pizzaiolo,16
+0,2017-11-13 08:06:42 -0600,"/t/distributed,/t/erlang,/t/python",An Erlang node implemented in Python,https://github.com/esl/Pyrlang,/u/unbalancedparentheses,16
+3,2017-11-13 09:25:02 -0600,"/t/pdf,/t/book,/t/programming",A Pamphlet against R,https://panicz.github.io/pamphlet/,/u/pushcx,7
+3,2017-11-13 09:03:52 -0600,"/t/api,/t/databases,/t/python,/t/visualization,/t/web","Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL",http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/,/u/lyonwj,3
+0,2017-11-13 19:42:31 -0600,"/t/ios,/t/security",Apple Face ID can be outsmarted using mask,https://www.rt.com/news/409727-iphone-x-face-apple-id/,/u/cnst,3
+2,2017-11-13 16:41:29 -0600,/t/ai,Foo bar machines,http://blog.ikura.co/posts/foo-bar-machines.html,/u/nato,1
+0,2017-11-13 06:08:15 -0600,/t/javascript,Glitch: write fun small web projects instantly,https://jvns.ca/blog/2017/11/13/glitch--write-small-web-projects-easily/,/u/calvin,15
+0,2017-11-13 20:22:02 -0600,"/t/dotnet,/t/programming",Recursion Without Recursion,https://www.benjamin.pizza/posts/2017-11-13-recursion-without-recursion.html,/u/calvin,2
+6,2017-11-12 20:49:01 -0600,/t/practices,Why software engineers don’t get jobs: Three horror stories,https://coderfit.com/why-software-engineers-dont-get-jobs-three-horror-stories/,/u/calvin,16
+0,2017-11-14 00:04:36 -0600,/t/culture,GitHub Community Forum,https://github.community/,/u/av,2
+0,2017-11-13 17:41:05 -0600,"/t/linux,/t/release",ENOFIRMWARE is now available,https://lists.gnu.org/archive/html/info-gnu/2017-11/msg00004.html,/u/pizzaiolo,2
+1,2017-11-13 02:24:17 -0600,/t/assembly,FunTAL: mixing a functional language with assembly,https://dbp.io/artifacts/funtal/,/u/lainon,12

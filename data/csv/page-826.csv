@@ -1,25 +1,25 @@
-0,2016-04-01 23:15:39 -0500,"['/t/video', '/t/compsci', '/t/satire']",Extreme Data compression (Route 85),https://www.youtube.com/watch?v=KOvoD1upTxM,/u/tf,0
-1,2016-03-31 10:54:39 -0500,"['/t/dotnet', '/t/mobile']",Xamarin free in Visual Studio and open sourcing Xamarin SDKs,https://blog.xamarin.com/xamarin-for-all/,/u/bratsche,19
-2,2016-03-31 16:14:29 -0500,['/t/devops'],When ChatOps goes from cool to critical,http://blog.librato.com/posts/chatops-critical,/u/Librato,6
-1,2016-03-31 10:11:44 -0500,"['/t/programming', '/t/security']",'W^X enforcement' - for Common Criteria,http://marc.info/?l=openbsd-misc&m=145942646223658&w=2,/u/phessler,17
-15,2016-03-31 02:10:41 -0500,"['/t/math', '/t/person']",Srinivasa Ramanujan,https://en.wikipedia.org/wiki/Srinivasa_Ramanujan,/u/chadski,21
-1,2016-03-31 19:24:28 -0500,"['/t/devops', '/t/hardware', '/t/networking', '/t/web']",Introducing Native IPv6 Connectivity on Scaleway,http://blog.scaleway.com/2016/03/31/introducing-native-ipv6-connectivity-on-scaleway/,/u/cnst,4
-0,2016-03-31 19:08:38 -0500,"['/t/elixir', '/t/hardware']",nerves - craft bulletproof firmware in the stunningly productive elixir language,http://nerves-project.org/,/u/dwc,5
-1,2016-03-31 13:38:14 -0500,['/t/browsers'],"Opera browser built-in ad blocking, now in beta",http://www.opera.com/blogs/desktop/2016/03/opera-built-ad-blocking-now-beta/,/u/mulander,7
-0,2016-03-31 13:29:35 -0500,['/t/programming'],Don’t Answer the User’s Question,http://engineroom.trackmaven.com/blog/product-management-101/,/u/softinio,9
-0,2016-03-31 19:03:19 -0500,['/t/practices'],What is Continuous Delivery?,http://continuousdelivery.com/,/u/joshuacc,2
-0,2016-04-01 03:09:10 -0500,"['/t/api', '/t/devops', '/t/distributed', '/t/linux', '/t/scaling', '/t/virtualization']",Microservices Weekly (Issue #20): This week's news/articles on microservices,http://microservicesweekly.com/issue/20,/u/svlada,0
-0,2016-03-31 11:48:26 -0500,"['/t/devops', '/t/practices']",Promoting reliability in web software companies,https://codewords.recurse.com/issues/six/promoting-reliability-in-web-software-companies,/u/rhonorv,6
-8,2016-03-30 11:26:32 -0500,"['/t/unix', '/t/windows']",How bad is the Windows command line really?,http://blog.nullspace.io/batch.html,/u/apy,38
-3,2016-03-31 00:36:46 -0500,"['/t/c', '/t/linux', '/t/programming', '/t/release', '/t/windows']",Visual C++ for Linux Development,https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/,/u/geocar,7
-0,2016-03-31 08:52:25 -0500,"['/t/devops', '/t/linux']","Docker Overview, Part Two",https://deis.com/blog/2016/docker-overview-pt-2/,/u/rimusz,2
-21,2016-03-30 09:07:13 -0500,"['/t/linux', '/t/windows']",​Microsoft and Canonical partner to bring Ubuntu to Windows 10,http://www.zdnet.com/article/microsoft-and-canonical-partner-to-bring-ubuntu-to-windows-10/,/u/calvin,28
-0,2016-03-31 02:33:02 -0500,"['/t/linux', '/t/windows']",Running Bash on Ubuntu on Windows: Demo,https://ma.ttias.be/running-bash-ubuntu-windows-demo/,/u/mattiasgeniar,4
-7,2016-03-30 12:14:29 -0500,"['/t/design', '/t/web']",Houdini: Maybe The Most Exciting Development In CSS You've Never Heard Of,https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/,/u/flyingfisch,18
-0,2016-03-31 10:00:29 -0500,"['/t/javascript', '/t/web']",Pony Foo Weekly — Issue #4,https://ponyfoo.com/weekly/4,/u/ponyfoo,1
-5,2016-03-30 11:28:39 -0500,['/t/security'],TrendMicro: A remote debugger stub is listening in default install,https://bugs.chromium.org/p/project-zero/issues/detail?id=773,/u/kb,24
-0,2016-03-31 09:54:47 -0500,['/t/culture'],Before you start to organize a meetup,https://pragtob.wordpress.com/2016/03/31/before-you-start-to-organize-a-meetup/,/u/PragTob,2
-0,2016-03-31 02:24:11 -0500,['/t/databases'],CockroachDB Skitters into Beta | Blog | Cockroach Labs,https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/,/u/igorclark,5
-6,2016-03-30 07:05:44 -0500,['/t/web'],CloudFlare's Trouble with Tor,http://blog.cloudflare.com/the-trouble-with-tor/,/u/pushcx,23
-2,2016-03-30 21:55:57 -0500,['/t/practices'],The economy of waiting times: Cost of delay,https://www.leanability.com/en/blog-en/2016/03/the-economy-of-waiting-times-cost-of-delay/,/u/joshuacc,3
-0,2016-03-31 03:31:58 -0500,"['/t/culture', '/t/event', '/t/practices']",GitHub - Version controlled user group meetups,http://tschuermans.be/2016/03/version-controlled-ug-meetups/,/u/TSchuermans,2
+0,2016-04-01 23:15:39 -0500,"/t/video,/t/compsci,/t/satire",Extreme Data compression (Route 85),https://www.youtube.com/watch?v=KOvoD1upTxM,/u/tf,0
+1,2016-03-31 10:54:39 -0500,"/t/dotnet,/t/mobile",Xamarin free in Visual Studio and open sourcing Xamarin SDKs,https://blog.xamarin.com/xamarin-for-all/,/u/bratsche,19
+2,2016-03-31 16:14:29 -0500,/t/devops,When ChatOps goes from cool to critical,http://blog.librato.com/posts/chatops-critical,/u/Librato,6
+1,2016-03-31 10:11:44 -0500,"/t/programming,/t/security",'W^X enforcement' - for Common Criteria,http://marc.info/?l=openbsd-misc&m=145942646223658&w=2,/u/phessler,17
+15,2016-03-31 02:10:41 -0500,"/t/math,/t/person",Srinivasa Ramanujan,https://en.wikipedia.org/wiki/Srinivasa_Ramanujan,/u/chadski,21
+1,2016-03-31 19:24:28 -0500,"/t/devops,/t/hardware,/t/networking,/t/web",Introducing Native IPv6 Connectivity on Scaleway,http://blog.scaleway.com/2016/03/31/introducing-native-ipv6-connectivity-on-scaleway/,/u/cnst,4
+0,2016-03-31 19:08:38 -0500,"/t/elixir,/t/hardware",nerves - craft bulletproof firmware in the stunningly productive elixir language,http://nerves-project.org/,/u/dwc,5
+1,2016-03-31 13:38:14 -0500,/t/browsers,"Opera browser built-in ad blocking, now in beta",http://www.opera.com/blogs/desktop/2016/03/opera-built-ad-blocking-now-beta/,/u/mulander,7
+0,2016-03-31 13:29:35 -0500,/t/programming,Don’t Answer the User’s Question,http://engineroom.trackmaven.com/blog/product-management-101/,/u/softinio,9
+0,2016-03-31 19:03:19 -0500,/t/practices,What is Continuous Delivery?,http://continuousdelivery.com/,/u/joshuacc,2
+0,2016-04-01 03:09:10 -0500,"/t/api,/t/devops,/t/distributed,/t/linux,/t/scaling,/t/virtualization",Microservices Weekly (Issue #20): This week's news/articles on microservices,http://microservicesweekly.com/issue/20,/u/svlada,0
+0,2016-03-31 11:48:26 -0500,"/t/devops,/t/practices",Promoting reliability in web software companies,https://codewords.recurse.com/issues/six/promoting-reliability-in-web-software-companies,/u/rhonorv,6
+8,2016-03-30 11:26:32 -0500,"/t/unix,/t/windows",How bad is the Windows command line really?,http://blog.nullspace.io/batch.html,/u/apy,38
+3,2016-03-31 00:36:46 -0500,"/t/c,/t/linux,/t/programming,/t/release,/t/windows",Visual C++ for Linux Development,https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/,/u/geocar,7
+0,2016-03-31 08:52:25 -0500,"/t/devops,/t/linux","Docker Overview, Part Two",https://deis.com/blog/2016/docker-overview-pt-2/,/u/rimusz,2
+21,2016-03-30 09:07:13 -0500,"/t/linux,/t/windows",​Microsoft and Canonical partner to bring Ubuntu to Windows 10,http://www.zdnet.com/article/microsoft-and-canonical-partner-to-bring-ubuntu-to-windows-10/,/u/calvin,28
+0,2016-03-31 02:33:02 -0500,"/t/linux,/t/windows",Running Bash on Ubuntu on Windows: Demo,https://ma.ttias.be/running-bash-ubuntu-windows-demo/,/u/mattiasgeniar,4
+7,2016-03-30 12:14:29 -0500,"/t/design,/t/web",Houdini: Maybe The Most Exciting Development In CSS You've Never Heard Of,https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/,/u/flyingfisch,18
+0,2016-03-31 10:00:29 -0500,"/t/javascript,/t/web",Pony Foo Weekly — Issue #4,https://ponyfoo.com/weekly/4,/u/ponyfoo,1
+5,2016-03-30 11:28:39 -0500,/t/security,TrendMicro: A remote debugger stub is listening in default install,https://bugs.chromium.org/p/project-zero/issues/detail?id=773,/u/kb,24
+0,2016-03-31 09:54:47 -0500,/t/culture,Before you start to organize a meetup,https://pragtob.wordpress.com/2016/03/31/before-you-start-to-organize-a-meetup/,/u/PragTob,2
+0,2016-03-31 02:24:11 -0500,/t/databases,CockroachDB Skitters into Beta | Blog | Cockroach Labs,https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/,/u/igorclark,5
+6,2016-03-30 07:05:44 -0500,/t/web,CloudFlare's Trouble with Tor,http://blog.cloudflare.com/the-trouble-with-tor/,/u/pushcx,23
+2,2016-03-30 21:55:57 -0500,/t/practices,The economy of waiting times: Cost of delay,https://www.leanability.com/en/blog-en/2016/03/the-economy-of-waiting-times-cost-of-delay/,/u/joshuacc,3
+0,2016-03-31 03:31:58 -0500,"/t/culture,/t/event,/t/practices",GitHub - Version controlled user group meetups,http://tschuermans.be/2016/03/version-controlled-ug-meetups/,/u/TSchuermans,2

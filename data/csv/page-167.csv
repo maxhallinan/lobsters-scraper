@@ -1,25 +1,25 @@
-25,2017-10-14 19:00:54 -0500,['/t/hardware'],The impossible dream of USB-C,https://marco.org/2017/10/14/impossible-dream-of-usb-c,/u/ngoldbaum,41
-1,2017-10-15 22:27:42 -0500,"['/t/databases', '/t/scaling']",Efficient pagination of a table with 100M records,http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/,/u/av,2
-3,2017-10-15 02:03:08 -0500,"['/t/show', '/t/java', '/t/programming']",directories – A tiny library to help applications stop littering users' $HOME directories,https://github.com/soc/directories,/u/soc,14
-0,2017-10-15 18:41:21 -0500,['/t/visualization'],The Python Graph Gallery,https://python-graph-gallery.com/,/u/quobit,4
-4,2017-10-15 06:09:23 -0500,"['/t/java', '/t/programming']",The case against annotations,https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67,/u/calvin,11
-3,2017-10-15 03:23:08 -0500,['/t/devops'],Docker as Build Environment,https://www.rainerhahnekamp.com/en/docker-build-environment/,/u/rainerhahnekamp,8
-3,2017-10-15 07:50:40 -0500,"['/t/javascript', '/t/web']",Micro Front ends – extending the microservice idea to front end development,https://micro-frontends.org/,/u/av,6
-0,2017-10-15 21:21:46 -0500,['/t/math'],Arithmetic Gas,https://mathematicalgarden.wordpress.com/2014/08/27/arithmetic-gas/,/u/pushcx,2
-0,2017-10-15 11:21:01 -0500,"['/t/databases', '/t/education', '/t/math', '/t/programming']",The Top 13 Resources for Understanding Graph Theory & Algorithms,https://neo4j.com/blog/top-13-resources-graph-theory-algorithms/,/u/SamuelPB,7
-7,2017-10-14 17:18:58 -0500,['/t/meta'],LOBSTERS PSA: Message backup instructions,/s/v99vh8/lobsters_psa_message_backup,/u/friendlysock,24
-14,2017-10-15 07:19:45 -0500,['/t/practices'],Why don’t software development methodologies work?,http://typicalprogrammer.com/why-dont-software-development-methodologies-work,/u/GeoffWozniak,5
-0,2017-10-15 11:14:44 -0500,['/t/devops'],"DevOps’ish 045: Sick Days, Kubernetes, Kaspersky, Go, AWS, etc.",https://devopsish.com/devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313,/u/ChrisShort,3
-2,2017-10-15 11:56:05 -0500,"['/t/pdf', '/t/practices', '/t/programming']",A History of Software Inspections by Fagan (2001),http://www.mfagan.com/pdfs/software_pioneers.pdf,/u/nickpsecurity,3
-0,2017-10-15 14:16:16 -0500,['/t/lisp'],Switching from Common Lisp to Julia,https://tpapp.github.io/post/common-lisp-to-julia/,/u/pushcx,3
-9,2017-10-14 16:48:06 -0500,['/t/practices'],The software engineering notebook,http://winterflower.github.io/2017/08/17/software-engineering-notebook/,/u/je,12
-2,2017-10-14 14:53:56 -0500,"['/t/video', '/t/crypto', '/t/go']",Live streaming Cryptopals,https://blog.filippo.io/live-streaming-cryptopals/,/u/FiloSottile,9
-0,2017-10-14 21:40:15 -0500,['/t/testing'],Testing curl,https://daniel.haxx.se/blog/2017/10/12/testing-curl/,/u/calvin,9
-1,2017-10-14 07:30:20 -0500,['/t/programming'],Modern Text Editor Design,https://blogs.gnome.org/chergert/2017/10/14/modern-text-editor-design/,/u/jackivan88,31
-0,2017-10-15 05:17:10 -0500,['/t/javascript'],How JavaScript works,https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5,/u/av,3
-7,2017-10-14 14:42:36 -0500,['/t/python'],The decorators they won't tell you about,https://github.com/hchasestevens/posts/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb,/u/hwayne,8
-0,2017-10-15 07:47:05 -0500,"['/t/culture', '/t/programming']",Technical Interview Performance by Editor/OS/Language,https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language,/u/adsouza,4
-1,2017-10-14 16:18:56 -0500,['/t/programming'],Web Audio Modem,https://martinmelhus.com/web-audio-modem/,/u/henkjan,10
-0,2017-10-15 10:29:16 -0500,"['/t/python', '/t/web']",Slide Image Kiosk written in Sanic for minimal web previewer,http://sik.pickfire.tk/,/u/pickfire,0
-0,2017-10-14 17:37:08 -0500,['/t/compilers'],Recompiler: Porting Xbox360 Executables to Windows,https://github.com/rexdex/recompiler#porting-xbox360-executables-to-windows,/u/justinucd,8
-0,2017-10-14 12:33:56 -0500,"['/t/hardware', '/t/historical', '/t/reversing']","Inside the vintage Xerox Alto's display, a tiny lightbulb keeps it working",http://www.righto.com/2017/10/inside-vintage-xerox-altos-display-tiny.html,/u/calvin,11
+25,2017-10-14 19:00:54 -0500,/t/hardware,The impossible dream of USB-C,https://marco.org/2017/10/14/impossible-dream-of-usb-c,/u/ngoldbaum,41
+1,2017-10-15 22:27:42 -0500,"/t/databases,/t/scaling",Efficient pagination of a table with 100M records,http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/,/u/av,2
+3,2017-10-15 02:03:08 -0500,"/t/show,/t/java,/t/programming",directories – A tiny library to help applications stop littering users' $HOME directories,https://github.com/soc/directories,/u/soc,14
+0,2017-10-15 18:41:21 -0500,/t/visualization,The Python Graph Gallery,https://python-graph-gallery.com/,/u/quobit,4
+4,2017-10-15 06:09:23 -0500,"/t/java,/t/programming",The case against annotations,https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67,/u/calvin,11
+3,2017-10-15 03:23:08 -0500,/t/devops,Docker as Build Environment,https://www.rainerhahnekamp.com/en/docker-build-environment/,/u/rainerhahnekamp,8
+3,2017-10-15 07:50:40 -0500,"/t/javascript,/t/web",Micro Front ends – extending the microservice idea to front end development,https://micro-frontends.org/,/u/av,6
+0,2017-10-15 21:21:46 -0500,/t/math,Arithmetic Gas,https://mathematicalgarden.wordpress.com/2014/08/27/arithmetic-gas/,/u/pushcx,2
+0,2017-10-15 11:21:01 -0500,"/t/databases,/t/education,/t/math,/t/programming",The Top 13 Resources for Understanding Graph Theory & Algorithms,https://neo4j.com/blog/top-13-resources-graph-theory-algorithms/,/u/SamuelPB,7
+7,2017-10-14 17:18:58 -0500,/t/meta,LOBSTERS PSA: Message backup instructions,/s/v99vh8/lobsters_psa_message_backup,/u/friendlysock,24
+14,2017-10-15 07:19:45 -0500,/t/practices,Why don’t software development methodologies work?,http://typicalprogrammer.com/why-dont-software-development-methodologies-work,/u/GeoffWozniak,5
+0,2017-10-15 11:14:44 -0500,/t/devops,"DevOps’ish 045: Sick Days, Kubernetes, Kaspersky, Go, AWS, etc.",https://devopsish.com/devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313,/u/ChrisShort,3
+2,2017-10-15 11:56:05 -0500,"/t/pdf,/t/practices,/t/programming",A History of Software Inspections by Fagan (2001),http://www.mfagan.com/pdfs/software_pioneers.pdf,/u/nickpsecurity,3
+0,2017-10-15 14:16:16 -0500,/t/lisp,Switching from Common Lisp to Julia,https://tpapp.github.io/post/common-lisp-to-julia/,/u/pushcx,3
+9,2017-10-14 16:48:06 -0500,/t/practices,The software engineering notebook,http://winterflower.github.io/2017/08/17/software-engineering-notebook/,/u/je,12
+2,2017-10-14 14:53:56 -0500,"/t/video,/t/crypto,/t/go",Live streaming Cryptopals,https://blog.filippo.io/live-streaming-cryptopals/,/u/FiloSottile,9
+0,2017-10-14 21:40:15 -0500,/t/testing,Testing curl,https://daniel.haxx.se/blog/2017/10/12/testing-curl/,/u/calvin,9
+1,2017-10-14 07:30:20 -0500,/t/programming,Modern Text Editor Design,https://blogs.gnome.org/chergert/2017/10/14/modern-text-editor-design/,/u/jackivan88,31
+0,2017-10-15 05:17:10 -0500,/t/javascript,How JavaScript works,https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5,/u/av,3
+7,2017-10-14 14:42:36 -0500,/t/python,The decorators they won't tell you about,https://github.com/hchasestevens/posts/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb,/u/hwayne,8
+0,2017-10-15 07:47:05 -0500,"/t/culture,/t/programming",Technical Interview Performance by Editor/OS/Language,https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language,/u/adsouza,4
+1,2017-10-14 16:18:56 -0500,/t/programming,Web Audio Modem,https://martinmelhus.com/web-audio-modem/,/u/henkjan,10
+0,2017-10-15 10:29:16 -0500,"/t/python,/t/web",Slide Image Kiosk written in Sanic for minimal web previewer,http://sik.pickfire.tk/,/u/pickfire,0
+0,2017-10-14 17:37:08 -0500,/t/compilers,Recompiler: Porting Xbox360 Executables to Windows,https://github.com/rexdex/recompiler#porting-xbox360-executables-to-windows,/u/justinucd,8
+0,2017-10-14 12:33:56 -0500,"/t/hardware,/t/historical,/t/reversing","Inside the vintage Xerox Alto's display, a tiny lightbulb keeps it working",http://www.righto.com/2017/10/inside-vintage-xerox-altos-display-tiny.html,/u/calvin,11

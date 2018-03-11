@@ -1,25 +1,25 @@
-0,2014-08-21 00:27:07 -0500,"['/t/lisp', '/t/programming']",ILC2014 summary (International Lisp Conference),http://www.cipht.net/2014/08/19/ilc2014.html,/u/BruceM,11
-0,2014-08-21 11:49:22 -0500,"['/t/browsers', '/t/databases', '/t/web']",An Introduction To PouchDB,https://blog.engineyard.com/2014/an-introduction-to-pouchdb,/u/nslater,2
-0,2014-08-21 07:48:33 -0500,"['/t/programming', '/t/scala']",A URL shortener service in 45 lines of Scala,http://grasswire-engineering.tumblr.com/post/94043813041/a-url-shortener-service-in-45-lines-of-scala,/u/lauris,3
-2,2014-08-20 16:25:07 -0500,['/t/networking'],"How to run your own e-mail server with your own domain, part 1",http://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/,/u/binsearch,8
-0,2014-08-21 11:50:58 -0500,['/t/api'],Converging API Governance and SOA Governance,http://www.infoq.com/articles/converging-api-soa-governance,/u/ancatrusca,1
-9,2014-08-20 13:48:00 -0500,"['/t/api', '/t/web']",The S in REST,http://teddziuba.github.io/2014/08/18/the-s-in-rest/,/u/journeysquid,9
-0,2014-08-21 10:42:41 -0500,['/t/javascript'],Debugging AngularJS Apps from the Console,http://modernweb.com/2014/08/21/debugging-angularjs-apps-console/,/u/mikehostetler,1
-0,2014-08-21 10:27:16 -0500,['/t/ruby'],"Rack, Change of Maintainer & Status",https://groups.google.com/forum/#!msg/rack-devel/P8oOycVBaH0/1bm4eERJWPQJ,/u/pushcx,1
-0,2014-08-20 21:50:19 -0500,['/t/linux'],Ftrace: The hidden light switch,http://lwn.net/Articles/608497/,/u/pushcx,6
-0,2014-08-21 07:48:43 -0500,['/t/go'],A practical guide to protocol buffers in Go,http://www.minaandrawos.com/2014/05/27/practical-guide-protocol-buffers-protobuf-go-golang/,/u/journeysquid,1
-1,2014-08-20 14:47:28 -0500,"['/t/compsci', '/t/virtualization']",Fast Enough VMs in Fast Enough Time,http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time,/u/pushcx,9
-0,2014-08-20 11:27:22 -0500,"['/t/compsci', '/t/databases']",PostgreSQL count_distinct improvements,http://blog.pgaddict.com/posts/count-distinct-improvements,/u/pushcx,13
-1,2014-08-20 10:19:14 -0500,['/t/compsci'],An editor for composed programs,http://tratt.net/laurie/blog/entries/an_editor_for_composed_programs,/u/pushcx,11
-0,2014-08-20 10:25:07 -0500,"['/t/audio', '/t/programming']",Turing-Incomplete: A Podcast About Programming,http://turing.cool,/u/justincampbell,9
-0,2014-08-20 11:33:02 -0500,"['/t/games', '/t/programming', '/t/rust']",Roguelike tutorial in Rust,http://jaredonline.svbtle.com/roguelike-tutorial-in-rust,/u/steveklabnik,4
-0,2014-08-20 16:13:15 -0500,['/t/games'],Crimes Against Mimesis,http://www.reocities.com/aetus_kane/writing/cam.html,/u/zem,1
-0,2014-08-20 12:01:20 -0500,"['/t/api', '/t/ios', '/t/programming']",Interview with Adam Ernst on functional approaches for iOS applications,http://www.infoq.com/interviews/adam-ernst-facebook-ios,/u/ancatrusca,2
-0,2014-08-20 13:51:13 -0500,['/t/go'],"Go has both make and new functions, what gives?",http://dave.cheney.net/2014/08/17/go-has-both-make-and-new-functions-what-gives,/u/journeysquid,1
-0,2014-08-20 09:36:02 -0500,"['/t/databases', '/t/web']",Exposing Resources in Datomic using Linked Data,http://blog.pellucid.com/post/95282190715/exposing-resources-in-datomic-using-linked-data,/u/dtwhitney,2
-0,2014-08-20 12:16:57 -0500,"['/t/art', '/t/lisp', '/t/programming']",Google DevArt: Co(de)Factory,http://devartcodefactory.com/,/u/tvachon,1
-0,2014-08-20 10:16:02 -0500,['/t/compsci'],Parsing: The Solved Problem That Isn't (2011),http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt,/u/pushcx,1
-0,2014-08-20 09:38:18 -0500,['/t/go'],REST Microservices in Go with Gin,http://txt.fliglio.com/2014/07/restful-microservices-in-go-with-gin/,/u/jpadilla,1
-1,2014-08-19 19:38:15 -0500,['/t/go'],Command Execution in Go,http://www.darrencoxall.com/golang/executing-commands-in-go/,/u/journeysquid,6
-22,2014-08-19 17:07:24 -0500,['/t/programming'],The frozen const string build reason pattern,/s/mb1llu/frozen_const_string_build_reason_pattern,/u/JohnCarter,5
-0,2014-08-20 09:10:08 -0500,['/t/javascript'],Modern Web Best Practice: Pub/Sub,http://modernweb.com/2014/08/20/modern-web-best-practice-pubsub/,/u/mikehostetler,1
+0,2014-08-21 00:27:07 -0500,"/t/lisp,/t/programming",ILC2014 summary (International Lisp Conference),http://www.cipht.net/2014/08/19/ilc2014.html,/u/BruceM,11
+0,2014-08-21 11:49:22 -0500,"/t/browsers,/t/databases,/t/web",An Introduction To PouchDB,https://blog.engineyard.com/2014/an-introduction-to-pouchdb,/u/nslater,2
+0,2014-08-21 07:48:33 -0500,"/t/programming,/t/scala",A URL shortener service in 45 lines of Scala,http://grasswire-engineering.tumblr.com/post/94043813041/a-url-shortener-service-in-45-lines-of-scala,/u/lauris,3
+2,2014-08-20 16:25:07 -0500,/t/networking,"How to run your own e-mail server with your own domain, part 1",http://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/,/u/binsearch,8
+0,2014-08-21 11:50:58 -0500,/t/api,Converging API Governance and SOA Governance,http://www.infoq.com/articles/converging-api-soa-governance,/u/ancatrusca,1
+9,2014-08-20 13:48:00 -0500,"/t/api,/t/web",The S in REST,http://teddziuba.github.io/2014/08/18/the-s-in-rest/,/u/journeysquid,9
+0,2014-08-21 10:42:41 -0500,/t/javascript,Debugging AngularJS Apps from the Console,http://modernweb.com/2014/08/21/debugging-angularjs-apps-console/,/u/mikehostetler,1
+0,2014-08-21 10:27:16 -0500,/t/ruby,"Rack, Change of Maintainer & Status",https://groups.google.com/forum/#!msg/rack-devel/P8oOycVBaH0/1bm4eERJWPQJ,/u/pushcx,1
+0,2014-08-20 21:50:19 -0500,/t/linux,Ftrace: The hidden light switch,http://lwn.net/Articles/608497/,/u/pushcx,6
+0,2014-08-21 07:48:43 -0500,/t/go,A practical guide to protocol buffers in Go,http://www.minaandrawos.com/2014/05/27/practical-guide-protocol-buffers-protobuf-go-golang/,/u/journeysquid,1
+1,2014-08-20 14:47:28 -0500,"/t/compsci,/t/virtualization",Fast Enough VMs in Fast Enough Time,http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time,/u/pushcx,9
+0,2014-08-20 11:27:22 -0500,"/t/compsci,/t/databases",PostgreSQL count_distinct improvements,http://blog.pgaddict.com/posts/count-distinct-improvements,/u/pushcx,13
+1,2014-08-20 10:19:14 -0500,/t/compsci,An editor for composed programs,http://tratt.net/laurie/blog/entries/an_editor_for_composed_programs,/u/pushcx,11
+0,2014-08-20 10:25:07 -0500,"/t/audio,/t/programming",Turing-Incomplete: A Podcast About Programming,http://turing.cool,/u/justincampbell,9
+0,2014-08-20 11:33:02 -0500,"/t/games,/t/programming,/t/rust",Roguelike tutorial in Rust,http://jaredonline.svbtle.com/roguelike-tutorial-in-rust,/u/steveklabnik,4
+0,2014-08-20 16:13:15 -0500,/t/games,Crimes Against Mimesis,http://www.reocities.com/aetus_kane/writing/cam.html,/u/zem,1
+0,2014-08-20 12:01:20 -0500,"/t/api,/t/ios,/t/programming",Interview with Adam Ernst on functional approaches for iOS applications,http://www.infoq.com/interviews/adam-ernst-facebook-ios,/u/ancatrusca,2
+0,2014-08-20 13:51:13 -0500,/t/go,"Go has both make and new functions, what gives?",http://dave.cheney.net/2014/08/17/go-has-both-make-and-new-functions-what-gives,/u/journeysquid,1
+0,2014-08-20 09:36:02 -0500,"/t/databases,/t/web",Exposing Resources in Datomic using Linked Data,http://blog.pellucid.com/post/95282190715/exposing-resources-in-datomic-using-linked-data,/u/dtwhitney,2
+0,2014-08-20 12:16:57 -0500,"/t/art,/t/lisp,/t/programming",Google DevArt: Co(de)Factory,http://devartcodefactory.com/,/u/tvachon,1
+0,2014-08-20 10:16:02 -0500,/t/compsci,Parsing: The Solved Problem That Isn't (2011),http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt,/u/pushcx,1
+0,2014-08-20 09:38:18 -0500,/t/go,REST Microservices in Go with Gin,http://txt.fliglio.com/2014/07/restful-microservices-in-go-with-gin/,/u/jpadilla,1
+1,2014-08-19 19:38:15 -0500,/t/go,Command Execution in Go,http://www.darrencoxall.com/golang/executing-commands-in-go/,/u/journeysquid,6
+22,2014-08-19 17:07:24 -0500,/t/programming,The frozen const string build reason pattern,/s/mb1llu/frozen_const_string_build_reason_pattern,/u/JohnCarter,5
+0,2014-08-20 09:10:08 -0500,/t/javascript,Modern Web Best Practice: Pub/Sub,http://modernweb.com/2014/08/20/modern-web-best-practice-pubsub/,/u/mikehostetler,1

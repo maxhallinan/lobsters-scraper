@@ -1,25 +1,25 @@
-0,2015-06-24 08:20:41 -0500,['/t/erlang'],Erlang Programming Language Erlang/OTP 18.0 has been released,http://www.erlang.org/news/88,/u/julienXX,15
-1,2015-06-25 10:47:47 -0500,"['/t/law', '/t/security']",Cell Site Simulator use by San Francisco Police Department,https://www.muckrock.com/foi/san-francisco-141/cell-site-simulator-use-by-san-francisco-police-department-18573/,/u/hdevalence,0
-0,2015-06-24 12:53:16 -0500,['/t/practices'],"Goodbye MVP, Hello v1",https://blog.engineyard.com/2015/goodbye-minimum-viable-product-hello-v1,/u/fluxusfrequency,6
-1,2015-06-23 20:51:04 -0500,['/t/compsci'],Programming Language Theory,http://steshaw.org/plt/,/u/rubenbarroso,29
-0,2015-06-24 08:46:53 -0500,"['/t/video', '/t/law', '/t/networking', '/t/security']",l0pht Testifying at the United States Senate (1998),http://www.youtube.com/watch?v=VVJldn_MmMY,/u/calvin,8
-2,2015-06-24 14:22:02 -0500,"['/t/compilers', '/t/programming']",Simple 4-bit virtual computer,https://github.com/gto76/comp-cpp,/u/tobym,3
-0,2015-06-24 13:28:34 -0500,"['/t/practices', '/t/programming']",Data study: When do errors happen?,https://opbeat.com/blog/posts/error-data-study/,/u/adsouza,4
-0,2015-06-24 10:31:55 -0500,"['/t/distributed', '/t/haskell']",Moving Haskell processes between nodes,https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv,/u/julienXX,5
-0,2015-06-24 07:10:10 -0500,"['/t/pdf', '/t/compsci']",Optimal Reductions for Lambda Calculus,http://pauillac.inria.fr/~levy/pubs/80curry.pdf,/u/SirSkidmore,6
-4,2015-06-23 17:13:15 -0500,"['/t/c', '/t/compilers']",Implementing a Virtual Machine in C,http://www.felixangell.com/virtual-machine-in-c/,/u/pushcx,17
-0,2015-06-24 11:42:01 -0500,"['/t/hardware', '/t/math']",Moonstick: slide rule moon phase calendar,http://www.moonstick.com/moonstick.htm,/u/pushcx,3
-1,2015-06-24 10:44:20 -0500,"['/t/compilers', '/t/javascript', '/t/programming']",MetaES Playground: a metacircular interpreter of JavaScript,http://metaes.org/,/u/pushcx,2
-8,2015-06-23 17:05:13 -0500,['/t/programming'],What really happened on Mars? (1997),http://research.microsoft.com/en-us/um/people/mbj/Mars_Pathfinder/Authoritative_Account.html,/u/pushcx,11
-0,2015-06-24 07:34:57 -0500,"['/t/video', '/t/design', '/t/web']",The User is Drunk,http://www.youtube.com/watch?v=r2CbbBLVaPk,/u/flyingfisch,3
-4,2015-06-23 09:56:33 -0500,"['/t/programming', '/t/rust']",First Rust Program Pain (So you can avoid it…),http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/,/u/pushcx,27
-1,2015-06-23 21:20:07 -0500,"['/t/distributed', '/t/games', '/t/networking']",64 Network DO's and DON'Ts for Game Engine Developers. Part I: Client Side,http://ithare.com/64-network-dos-and-donts-for-game-engine-developers-part-i-client-side/,/u/pushcx,9
-1,2015-06-23 12:59:14 -0500,['/t/linux'],kdbus: to merge or not to merge?,http://lkml.iu.edu/hypermail/linux/kernel/1506.2/04853.html,/u/journeysquid,14
-0,2015-06-24 07:02:16 -0500,"['/t/video', '/t/compsci', '/t/event']",Samy Al Bahra on Making Lockless Synchronization Fast,http://paperswelove.org/2015/video/samy-al-bahra-lockless-synchronization/,/u/d_run,2
-8,2015-06-23 16:09:41 -0500,['/t/hardware'],SSD Prices In A Free Fall,http://www.networkcomputing.com/storage/ssd-prices-in-a-free-fall/a/d-id/1320958,/u/adsouza,3
-0,2015-06-23 21:24:05 -0500,['/t/programming'],"Regexes: the Bad, the Better, and the Best",https://www.loggly.com/blog/regexes-the-bad-better-best/,/u/pushcx,5
-0,2015-06-23 15:12:23 -0500,"['/t/privacy', '/t/security']",A month with BADONIONS,https://chloe.re/2015/06/20/a-month-with-badonions/,/u/calvin,9
-4,2015-06-23 05:53:23 -0500,['/t/javascript'],Nanoscope - A Lens Library for JavaScript,http://kovach.me/nanoscope/getting-started.html,/u/d_run,15
-4,2015-06-23 11:45:34 -0500,['/t/ios'],Imagining MessageKit: Apple's path to turning iMessage into a platform,https://medium.com/@mg/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857,/u/zg,5
-0,2015-06-23 11:41:06 -0500,['/t/ruby'],Announcing Lotus v0.4.0,http://lotusrb.org/blog/2015/06/23/announcing-lotus-040.html,/u/jodosha,9
-1,2015-06-23 10:41:03 -0500,['/t/erlang'],How I Start Erlang updated with rebar3,http://www.howistart.org/posts/erlang/1,/u/tristan,9
+0,2015-06-24 08:20:41 -0500,/t/erlang,Erlang Programming Language Erlang/OTP 18.0 has been released,http://www.erlang.org/news/88,/u/julienXX,15
+1,2015-06-25 10:47:47 -0500,"/t/law,/t/security",Cell Site Simulator use by San Francisco Police Department,https://www.muckrock.com/foi/san-francisco-141/cell-site-simulator-use-by-san-francisco-police-department-18573/,/u/hdevalence,0
+0,2015-06-24 12:53:16 -0500,/t/practices,"Goodbye MVP, Hello v1",https://blog.engineyard.com/2015/goodbye-minimum-viable-product-hello-v1,/u/fluxusfrequency,6
+1,2015-06-23 20:51:04 -0500,/t/compsci,Programming Language Theory,http://steshaw.org/plt/,/u/rubenbarroso,29
+0,2015-06-24 08:46:53 -0500,"/t/video,/t/law,/t/networking,/t/security",l0pht Testifying at the United States Senate (1998),http://www.youtube.com/watch?v=VVJldn_MmMY,/u/calvin,8
+2,2015-06-24 14:22:02 -0500,"/t/compilers,/t/programming",Simple 4-bit virtual computer,https://github.com/gto76/comp-cpp,/u/tobym,3
+0,2015-06-24 13:28:34 -0500,"/t/practices,/t/programming",Data study: When do errors happen?,https://opbeat.com/blog/posts/error-data-study/,/u/adsouza,4
+0,2015-06-24 10:31:55 -0500,"/t/distributed,/t/haskell",Moving Haskell processes between nodes,https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv,/u/julienXX,5
+0,2015-06-24 07:10:10 -0500,"/t/pdf,/t/compsci",Optimal Reductions for Lambda Calculus,http://pauillac.inria.fr/~levy/pubs/80curry.pdf,/u/SirSkidmore,6
+4,2015-06-23 17:13:15 -0500,"/t/c,/t/compilers",Implementing a Virtual Machine in C,http://www.felixangell.com/virtual-machine-in-c/,/u/pushcx,17
+0,2015-06-24 11:42:01 -0500,"/t/hardware,/t/math",Moonstick: slide rule moon phase calendar,http://www.moonstick.com/moonstick.htm,/u/pushcx,3
+1,2015-06-24 10:44:20 -0500,"/t/compilers,/t/javascript,/t/programming",MetaES Playground: a metacircular interpreter of JavaScript,http://metaes.org/,/u/pushcx,2
+8,2015-06-23 17:05:13 -0500,/t/programming,What really happened on Mars? (1997),http://research.microsoft.com/en-us/um/people/mbj/Mars_Pathfinder/Authoritative_Account.html,/u/pushcx,11
+0,2015-06-24 07:34:57 -0500,"/t/video,/t/design,/t/web",The User is Drunk,http://www.youtube.com/watch?v=r2CbbBLVaPk,/u/flyingfisch,3
+4,2015-06-23 09:56:33 -0500,"/t/programming,/t/rust",First Rust Program Pain (So you can avoid it…),http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/,/u/pushcx,27
+1,2015-06-23 21:20:07 -0500,"/t/distributed,/t/games,/t/networking",64 Network DO's and DON'Ts for Game Engine Developers. Part I: Client Side,http://ithare.com/64-network-dos-and-donts-for-game-engine-developers-part-i-client-side/,/u/pushcx,9
+1,2015-06-23 12:59:14 -0500,/t/linux,kdbus: to merge or not to merge?,http://lkml.iu.edu/hypermail/linux/kernel/1506.2/04853.html,/u/journeysquid,14
+0,2015-06-24 07:02:16 -0500,"/t/video,/t/compsci,/t/event",Samy Al Bahra on Making Lockless Synchronization Fast,http://paperswelove.org/2015/video/samy-al-bahra-lockless-synchronization/,/u/d_run,2
+8,2015-06-23 16:09:41 -0500,/t/hardware,SSD Prices In A Free Fall,http://www.networkcomputing.com/storage/ssd-prices-in-a-free-fall/a/d-id/1320958,/u/adsouza,3
+0,2015-06-23 21:24:05 -0500,/t/programming,"Regexes: the Bad, the Better, and the Best",https://www.loggly.com/blog/regexes-the-bad-better-best/,/u/pushcx,5
+0,2015-06-23 15:12:23 -0500,"/t/privacy,/t/security",A month with BADONIONS,https://chloe.re/2015/06/20/a-month-with-badonions/,/u/calvin,9
+4,2015-06-23 05:53:23 -0500,/t/javascript,Nanoscope - A Lens Library for JavaScript,http://kovach.me/nanoscope/getting-started.html,/u/d_run,15
+4,2015-06-23 11:45:34 -0500,/t/ios,Imagining MessageKit: Apple's path to turning iMessage into a platform,https://medium.com/@mg/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857,/u/zg,5
+0,2015-06-23 11:41:06 -0500,/t/ruby,Announcing Lotus v0.4.0,http://lotusrb.org/blog/2015/06/23/announcing-lotus-040.html,/u/jodosha,9
+1,2015-06-23 10:41:03 -0500,/t/erlang,How I Start Erlang updated with rebar3,http://www.howistart.org/posts/erlang/1,/u/tristan,9

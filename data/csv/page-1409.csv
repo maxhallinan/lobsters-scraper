@@ -1,25 +1,25 @@
-0,2014-01-12 19:12:18 -0600,"['/t/javascript', '/t/lisp']",Ki is a lisp with Clojure data structures and semantics,https://github.com/lantiga/ki,/u/lambda,6
-18,2014-01-12 15:34:22 -0600,['/t/meta'],New-user downvoting,/s/fdyztr/new_user_downvoting,/u/jcs,18
-0,2014-01-12 12:54:03 -0600,['/t/release'],Skyline is a real-time anomaly detection system,https://github.com/etsy/skyline,/u/SeanTAllen,12
-0,2014-01-12 09:02:42 -0600,"['/t/math', '/t/programming']",Implementing Digital Filters in Julia,http://nbviewer.ipython.org/github/zhemao/digital_filters/blob/master/Digital%20Filters.ipynb,/u/zhemao,12
-2,2014-01-12 12:53:04 -0600,"['/t/java', '/t/programming']","A Taste of Functional Programming in Java 7, Java 8 and C# 4",http://en.lucida.me/blog/a-taste-of-functional-programming-in-java-7/,/u/pashields,5
-0,2014-01-12 16:28:39 -0600,"['/t/compsci', '/t/programming']",RealTime Data Compression: Finite State Entropy - A new breed of entropy coder,http://fastcompression.blogspot.fr/2013/12/finite-state-entropy-new-breed-of.html,/u/robey,4
-0,2014-01-13 00:23:06 -0600,"['/t/release', '/t/reversing', '/t/security']",Cuckoo Sandbox Automated Malware Analysis 1.0 Released,http://cuckoosandbox.org/2014-01-09-cuckoo-sandbox-10.html,/u/jcs,1
-2,2014-01-12 13:37:57 -0600,"['/t/c', '/t/programming', '/t/scaling']","simple linear-time sorting algorithm, using a flattened linked-list index",https://gist.github.com/silentbicycle/8389129,/u/valbonneconsulting,2
-3,2014-01-11 22:56:24 -0600,['/t/python'],Guido is giving a talk on PEP 3156 at Linkedin on Jan 23rd,http://www.meetup.com/silicon-valley-python/events/138635282/,/u/jonb,6
-2,2014-01-11 17:55:18 -0600,"['/t/book', '/t/programming']",Natural Language Processing for the Working Programmer,http://nlpwp.org,/u/SeanTAllen,9
-2,2014-01-12 00:14:12 -0600,"['/t/video', '/t/lisp', '/t/programming']",Predicting Vehicle Usage with Clojure,http://www.youtube.com/watch?v=joOGH-JtHNY&feature=youtu.be,/u/juliangamble,3
-1,2014-01-11 19:27:08 -0600,"['/t/show', '/t/c', '/t/programming', '/t/release']",Open Source: Make any Application or Game Borderless-Fullscreen,http://andrew.codeusa.net/post/73033805492/this-week-in-im-bored,/u/andrewmd5,7
-1,2014-01-11 23:43:06 -0600,"['/t/distributed', '/t/release']","Parallel, distributed, and decentralized file treewalk with ftw(3) style API",https://github.com/hpc/libdftw/blob/master/libdftw/dftw.c,/u/jonb,3
-0,2014-01-11 09:41:38 -0600,['/t/go'],gen - a generics library for Go,http://clipperhouse.github.io/gen/,/u/nphase,14
-0,2014-01-12 16:17:45 -0600,"['/t/video', '/t/cryptocurrencies', '/t/rant']",Keiser Report: Let's Encrypt the Internet! (E548 ft. Kim Dotcom),https://www.youtube.com/watch?v=N1bDMfRfsrw,/u/valbonneconsulting,0
-1,2014-01-11 11:21:36 -0600,"['/t/slides', '/t/video', '/t/openbsd', '/t/person', '/t/security']","Exploit Mitigation Techniques: an Update After 10 Years, interview with Theo de Raadt",http://tech.yandex.ru/events/yagosti/ruBSD/talks/1487/,/u/jcs,8
-1,2014-01-11 18:00:07 -0600,"['/t/databases', '/t/release']",Druid | Open-source infrastructure for Real-time Exploratory Analytics on Large datasets,http://druid.io,/u/SeanTAllen,3
-0,2014-01-11 17:56:12 -0600,"['/t/video', '/t/programming']",Deep Learning for NLP (without Magic) - Part 1,http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/,/u/SeanTAllen,4
-0,2014-01-11 17:52:13 -0600,"['/t/compsci', '/t/distributed', '/t/event']","Learn Distributed - Distributed Systems Workshop in Providence, RI",http://signup.learndistributed.com/,/u/cmeiklejohn,3
-0,2014-01-11 20:55:45 -0600,['/t/cryptocurrencies'],Feed Open Source,http://feedopensource.com/,/u/substack,1
-0,2014-01-11 16:54:03 -0600,['/t/programming'],A Worst Case for Functional Programming?,http://prog21.dadgum.com/189.html,/u/kyle,2
-0,2014-01-11 18:15:03 -0600,['/t/privacy'],The value of our confidences,https://whispersystems.org/blog/the-value-of-our-confidences/,/u/kyle,1
-4,2014-01-10 22:19:46 -0600,['/t/distributed'],"New paper draft: “Joining Forces: Toward a Unified Account of LVars and CRDTs""",http://composition.al/blog/2014/01/10/new-paper-draft-joining-forces/,/u/lindvall,8
-2,2014-01-10 17:05:27 -0600,['/t/virtualization'],Comparing filesystem performance in virtual machines,http://mitchellh.com/comparing-filesystem-performance-in-virtual-machines,/u/kb,12
-0,2014-01-10 23:01:20 -0600,['/t/compsci'],"[Feedback Requested] Proposed Curriculum for Think Distributed Systems Summer School; Providence, RI",https://gist.github.com/cmeiklejohn/8346377,/u/cmeiklejohn,5
+0,2014-01-12 19:12:18 -0600,"/t/javascript,/t/lisp",Ki is a lisp with Clojure data structures and semantics,https://github.com/lantiga/ki,/u/lambda,6
+18,2014-01-12 15:34:22 -0600,/t/meta,New-user downvoting,/s/fdyztr/new_user_downvoting,/u/jcs,18
+0,2014-01-12 12:54:03 -0600,/t/release,Skyline is a real-time anomaly detection system,https://github.com/etsy/skyline,/u/SeanTAllen,12
+0,2014-01-12 09:02:42 -0600,"/t/math,/t/programming",Implementing Digital Filters in Julia,http://nbviewer.ipython.org/github/zhemao/digital_filters/blob/master/Digital%20Filters.ipynb,/u/zhemao,12
+2,2014-01-12 12:53:04 -0600,"/t/java,/t/programming","A Taste of Functional Programming in Java 7, Java 8 and C# 4",http://en.lucida.me/blog/a-taste-of-functional-programming-in-java-7/,/u/pashields,5
+0,2014-01-12 16:28:39 -0600,"/t/compsci,/t/programming",RealTime Data Compression: Finite State Entropy - A new breed of entropy coder,http://fastcompression.blogspot.fr/2013/12/finite-state-entropy-new-breed-of.html,/u/robey,4
+0,2014-01-13 00:23:06 -0600,"/t/release,/t/reversing,/t/security",Cuckoo Sandbox Automated Malware Analysis 1.0 Released,http://cuckoosandbox.org/2014-01-09-cuckoo-sandbox-10.html,/u/jcs,1
+2,2014-01-12 13:37:57 -0600,"/t/c,/t/programming,/t/scaling","simple linear-time sorting algorithm, using a flattened linked-list index",https://gist.github.com/silentbicycle/8389129,/u/valbonneconsulting,2
+3,2014-01-11 22:56:24 -0600,/t/python,Guido is giving a talk on PEP 3156 at Linkedin on Jan 23rd,http://www.meetup.com/silicon-valley-python/events/138635282/,/u/jonb,6
+2,2014-01-11 17:55:18 -0600,"/t/book,/t/programming",Natural Language Processing for the Working Programmer,http://nlpwp.org,/u/SeanTAllen,9
+2,2014-01-12 00:14:12 -0600,"/t/video,/t/lisp,/t/programming",Predicting Vehicle Usage with Clojure,http://www.youtube.com/watch?v=joOGH-JtHNY&feature=youtu.be,/u/juliangamble,3
+1,2014-01-11 19:27:08 -0600,"/t/show,/t/c,/t/programming,/t/release",Open Source: Make any Application or Game Borderless-Fullscreen,http://andrew.codeusa.net/post/73033805492/this-week-in-im-bored,/u/andrewmd5,7
+1,2014-01-11 23:43:06 -0600,"/t/distributed,/t/release","Parallel, distributed, and decentralized file treewalk with ftw(3) style API",https://github.com/hpc/libdftw/blob/master/libdftw/dftw.c,/u/jonb,3
+0,2014-01-11 09:41:38 -0600,/t/go,gen - a generics library for Go,http://clipperhouse.github.io/gen/,/u/nphase,14
+0,2014-01-12 16:17:45 -0600,"/t/video,/t/cryptocurrencies,/t/rant",Keiser Report: Let's Encrypt the Internet! (E548 ft. Kim Dotcom),https://www.youtube.com/watch?v=N1bDMfRfsrw,/u/valbonneconsulting,0
+1,2014-01-11 11:21:36 -0600,"/t/slides,/t/video,/t/openbsd,/t/person,/t/security","Exploit Mitigation Techniques: an Update After 10 Years, interview with Theo de Raadt",http://tech.yandex.ru/events/yagosti/ruBSD/talks/1487/,/u/jcs,8
+1,2014-01-11 18:00:07 -0600,"/t/databases,/t/release",Druid | Open-source infrastructure for Real-time Exploratory Analytics on Large datasets,http://druid.io,/u/SeanTAllen,3
+0,2014-01-11 17:56:12 -0600,"/t/video,/t/programming",Deep Learning for NLP (without Magic) - Part 1,http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/,/u/SeanTAllen,4
+0,2014-01-11 17:52:13 -0600,"/t/compsci,/t/distributed,/t/event","Learn Distributed - Distributed Systems Workshop in Providence, RI",http://signup.learndistributed.com/,/u/cmeiklejohn,3
+0,2014-01-11 20:55:45 -0600,/t/cryptocurrencies,Feed Open Source,http://feedopensource.com/,/u/substack,1
+0,2014-01-11 16:54:03 -0600,/t/programming,A Worst Case for Functional Programming?,http://prog21.dadgum.com/189.html,/u/kyle,2
+0,2014-01-11 18:15:03 -0600,/t/privacy,The value of our confidences,https://whispersystems.org/blog/the-value-of-our-confidences/,/u/kyle,1
+4,2014-01-10 22:19:46 -0600,/t/distributed,"New paper draft: “Joining Forces: Toward a Unified Account of LVars and CRDTs""",http://composition.al/blog/2014/01/10/new-paper-draft-joining-forces/,/u/lindvall,8
+2,2014-01-10 17:05:27 -0600,/t/virtualization,Comparing filesystem performance in virtual machines,http://mitchellh.com/comparing-filesystem-performance-in-virtual-machines,/u/kb,12
+0,2014-01-10 23:01:20 -0600,/t/compsci,"[Feedback Requested] Proposed Curriculum for Think Distributed Systems Summer School; Providence, RI",https://gist.github.com/cmeiklejohn/8346377,/u/cmeiklejohn,5

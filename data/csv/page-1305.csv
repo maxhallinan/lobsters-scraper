@@ -1,25 +1,25 @@
-0,2014-06-24 16:18:50 -0500,['/t/ruby'],"Lotus, a complete web framework for Ruby",https://github.com/lotus/lotus,/u/pushcx,0
-4,2014-06-23 10:16:19 -0500,['/t/programming'],A Preview of McSema: A framework for converting x86 binaries to LLVM bitcode,http://blog.trailofbits.com/2014/06/23/a-preview-of-mcsema/,/u/BruceM,18
-0,2014-06-24 07:32:26 -0500,"['/t/assembly', '/t/compsci', '/t/java', '/t/reversing']",Dare - Dalvik Retargeting to .class,http://siis.cse.psu.edu/dare/index.html,/u/animatronic,1
-0,2014-06-23 14:02:31 -0500,"['/t/databases', '/t/networking']",Call me maybe: Carly Rae Jepsen and the perils of network partitions,http://aphyr.com/posts/281-call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions,/u/pushcx,9
-0,2014-06-23 16:50:57 -0500,"['/t/art', '/t/math']",Math & Music (This Week's Finds in Mathematical Physics #234),http://math.ucr.edu/home/baez/week234.html,/u/hdevalence,5
-0,2014-06-24 02:34:44 -0500,"['/t/ruby', '/t/web']",Lotus - a new Ruby Web Framework,http://lucaguidi.com/2014/06/23/introducing-lotus.html,/u/deepak,1
-0,2014-06-24 02:23:24 -0500,"['/t/programming', '/t/web']",Google Domains,http://domains.google.com/about/,/u/musgrove,1
-5,2014-06-23 11:30:01 -0500,"['/t/practices', '/t/programming', '/t/ruby']",How I Start: Ruby,http://howistart.org/posts/ruby/1,/u/steveklabnik,5
-0,2014-06-23 12:10:08 -0500,"['/t/javascript', '/t/programming']",A GPU Approach to Path Finding,http://nullprogram.com/blog/2014/06/22/,/u/zhemao,7
-0,2014-06-23 13:21:50 -0500,"['/t/pdf', '/t/hardware']",A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services,https://research.microsoft.com/pubs/212001/Catapult_ISCA_2014.pdf,/u/pushcx,6
-0,2014-06-23 21:12:56 -0500,"['/t/networking', '/t/privacy', '/t/security']","""Free"" Wi-Fi from Xfinity and AT&T also frees you to be hacked",http://arstechnica.com/security/2014/06/free-wi-fi-from-xfinity-and-att-also-frees-you-to-be-hacked/,/u/journeysquid,2
-1,2014-06-23 03:51:15 -0500,"['/t/databases', '/t/scaling']",AtlasDB: Transactions for Distributed Key-Value Stores,http://www.palantir.com/2014/06/atlasdb-transactions-for-distributed-key-value-stores-part-i/,/u/apy,13
-0,2014-06-23 17:28:15 -0500,['/t/go'],Easily consume REST APIs with Go,https://github.com/bndr/gopencils,/u/bndr,3
-0,2014-06-23 17:24:11 -0500,"['/t/assembly', '/t/c', '/t/games', '/t/hardware']",DOOM ported to Zylin CPU (ZPU),http://turbogrill.blogspot.ca/2014/06/doom-on-zpu.html,/u/zhemao,3
-0,2014-06-23 13:29:45 -0500,['/t/math'],Tuning in on Noise?,http://physics.ucsd.edu/do-the-math/2014/06/tuning-in-on-noise/,/u/pushcx,5
-0,2014-06-23 15:35:25 -0500,"['/t/programming', '/t/rust']",Static checking of units in Servo,https://blog.mozilla.org/research/2014/06/23/static-checking-of-units-in-servo/,/u/steveklabnik,3
-0,2014-06-23 17:21:31 -0500,"['/t/assembly', '/t/games', '/t/hardware']",Bare Metal StarFox clone on a Raspberry Pi,https://github.com/ICTeam28/PiFox,/u/zhemao,2
-1,2014-06-23 12:11:54 -0500,['/t/scala'],Mapping Sets,http://typelevel.org/blog/2014/06/22/mapping-sets.html,/u/puffnfresh,3
-2,2014-06-23 13:12:03 -0500,"['/t/pdf', '/t/compilers', '/t/compsci']",LnQ: Building High Performance Dynamic Binary Translators with Existing Compiler Backends,http://people.cs.nctu.edu.tw/~chenwj/slide/paper/lnq.pdf,/u/animatronic,2
-1,2014-06-23 10:24:20 -0500,"['/t/compsci', '/t/distributed', '/t/programming', '/t/python', '/t/scaling', '/t/web']","OpenRoss - fast, scalable, on-demand image resizer",http://developers.lyst.com/data/images/2014/06/23/openross/,/u/trepca,2
-1,2014-06-22 20:30:30 -0500,['/t/practices'],Employees Who Stay In Companies Longer Than Two Years Get Paid 50% Less,http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/,/u/journeysquid,7
-1,2014-06-22 23:11:49 -0500,"['/t/video', '/t/math']","John Baez: ""Network Theory II: Stochastic Petri nets, reaction networks and Feynman diagrams""",https://www.youtube.com/watch?v=bd3wTrRh2O0,/u/bitemyapp,7
-1,2014-06-22 13:11:16 -0500,"['/t/devops', '/t/visualization']",Latency Tip Of The Day: Q: What's wrong with this picture? A: Everything!,http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html,/u/vjoel,13
-0,2014-06-23 08:36:39 -0500,['/t/javascript'],Using Node.js in Production,http://flippinawesome.org/2014/06/23/using-node-js-in-production/,/u/remotesynth,1
-0,2014-06-22 19:27:47 -0500,"['/t/browsers', '/t/security']",History theft with CSS Boolean algebra,http://lcamtuf.coredump.cx/css_algebra/,/u/jcs,6
+0,2014-06-24 16:18:50 -0500,/t/ruby,"Lotus, a complete web framework for Ruby",https://github.com/lotus/lotus,/u/pushcx,0
+4,2014-06-23 10:16:19 -0500,/t/programming,A Preview of McSema: A framework for converting x86 binaries to LLVM bitcode,http://blog.trailofbits.com/2014/06/23/a-preview-of-mcsema/,/u/BruceM,18
+0,2014-06-24 07:32:26 -0500,"/t/assembly,/t/compsci,/t/java,/t/reversing",Dare - Dalvik Retargeting to .class,http://siis.cse.psu.edu/dare/index.html,/u/animatronic,1
+0,2014-06-23 14:02:31 -0500,"/t/databases,/t/networking",Call me maybe: Carly Rae Jepsen and the perils of network partitions,http://aphyr.com/posts/281-call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions,/u/pushcx,9
+0,2014-06-23 16:50:57 -0500,"/t/art,/t/math",Math & Music (This Week's Finds in Mathematical Physics #234),http://math.ucr.edu/home/baez/week234.html,/u/hdevalence,5
+0,2014-06-24 02:34:44 -0500,"/t/ruby,/t/web",Lotus - a new Ruby Web Framework,http://lucaguidi.com/2014/06/23/introducing-lotus.html,/u/deepak,1
+0,2014-06-24 02:23:24 -0500,"/t/programming,/t/web",Google Domains,http://domains.google.com/about/,/u/musgrove,1
+5,2014-06-23 11:30:01 -0500,"/t/practices,/t/programming,/t/ruby",How I Start: Ruby,http://howistart.org/posts/ruby/1,/u/steveklabnik,5
+0,2014-06-23 12:10:08 -0500,"/t/javascript,/t/programming",A GPU Approach to Path Finding,http://nullprogram.com/blog/2014/06/22/,/u/zhemao,7
+0,2014-06-23 13:21:50 -0500,"/t/pdf,/t/hardware",A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services,https://research.microsoft.com/pubs/212001/Catapult_ISCA_2014.pdf,/u/pushcx,6
+0,2014-06-23 21:12:56 -0500,"/t/networking,/t/privacy,/t/security","""Free"" Wi-Fi from Xfinity and AT&T also frees you to be hacked",http://arstechnica.com/security/2014/06/free-wi-fi-from-xfinity-and-att-also-frees-you-to-be-hacked/,/u/journeysquid,2
+1,2014-06-23 03:51:15 -0500,"/t/databases,/t/scaling",AtlasDB: Transactions for Distributed Key-Value Stores,http://www.palantir.com/2014/06/atlasdb-transactions-for-distributed-key-value-stores-part-i/,/u/apy,13
+0,2014-06-23 17:28:15 -0500,/t/go,Easily consume REST APIs with Go,https://github.com/bndr/gopencils,/u/bndr,3
+0,2014-06-23 17:24:11 -0500,"/t/assembly,/t/c,/t/games,/t/hardware",DOOM ported to Zylin CPU (ZPU),http://turbogrill.blogspot.ca/2014/06/doom-on-zpu.html,/u/zhemao,3
+0,2014-06-23 13:29:45 -0500,/t/math,Tuning in on Noise?,http://physics.ucsd.edu/do-the-math/2014/06/tuning-in-on-noise/,/u/pushcx,5
+0,2014-06-23 15:35:25 -0500,"/t/programming,/t/rust",Static checking of units in Servo,https://blog.mozilla.org/research/2014/06/23/static-checking-of-units-in-servo/,/u/steveklabnik,3
+0,2014-06-23 17:21:31 -0500,"/t/assembly,/t/games,/t/hardware",Bare Metal StarFox clone on a Raspberry Pi,https://github.com/ICTeam28/PiFox,/u/zhemao,2
+1,2014-06-23 12:11:54 -0500,/t/scala,Mapping Sets,http://typelevel.org/blog/2014/06/22/mapping-sets.html,/u/puffnfresh,3
+2,2014-06-23 13:12:03 -0500,"/t/pdf,/t/compilers,/t/compsci",LnQ: Building High Performance Dynamic Binary Translators with Existing Compiler Backends,http://people.cs.nctu.edu.tw/~chenwj/slide/paper/lnq.pdf,/u/animatronic,2
+1,2014-06-23 10:24:20 -0500,"/t/compsci,/t/distributed,/t/programming,/t/python,/t/scaling,/t/web","OpenRoss - fast, scalable, on-demand image resizer",http://developers.lyst.com/data/images/2014/06/23/openross/,/u/trepca,2
+1,2014-06-22 20:30:30 -0500,/t/practices,Employees Who Stay In Companies Longer Than Two Years Get Paid 50% Less,http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/,/u/journeysquid,7
+1,2014-06-22 23:11:49 -0500,"/t/video,/t/math","John Baez: ""Network Theory II: Stochastic Petri nets, reaction networks and Feynman diagrams""",https://www.youtube.com/watch?v=bd3wTrRh2O0,/u/bitemyapp,7
+1,2014-06-22 13:11:16 -0500,"/t/devops,/t/visualization",Latency Tip Of The Day: Q: What's wrong with this picture? A: Everything!,http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html,/u/vjoel,13
+0,2014-06-23 08:36:39 -0500,/t/javascript,Using Node.js in Production,http://flippinawesome.org/2014/06/23/using-node-js-in-production/,/u/remotesynth,1
+0,2014-06-22 19:27:47 -0500,"/t/browsers,/t/security",History theft with CSS Boolean algebra,http://lcamtuf.coredump.cx/css_algebra/,/u/jcs,6

@@ -1,25 +1,25 @@
-10,2017-08-16 02:50:35 -0500,"['/t/practices', '/t/programming']",When not to use a regex,https://drewdevault.com/2017/08/13/When-not-to-use-a-regex.html,/u/emrox,9
-5,2017-08-16 08:14:25 -0500,"['/t/art', '/t/culture']",Richard Stallman asked me to change the name of my music project,https://festivalpeak.com/richard-stallman-made-me-change-the-name-of-my-music-project-6bdc549d7d86,/u/calvin,16
-0,2017-08-16 16:13:29 -0500,"['/t/practices', '/t/release']",Why I Use Open DCL Lite,http://jonesrh.info/dcll/dcll_why_i_use.html,/u/trn,3
-0,2017-08-16 06:45:51 -0500,"['/t/elm', '/t/javascript']",The Power of Elm in JavaScript,https://www.dailydrip.com/blog/the-power-of-elm-in-javascript.html,/u/franzunix,5
-0,2017-08-16 12:40:06 -0500,"['/t/browsers', '/t/nodejs']",Puppeteer: a high-level Node API to control headless Chrome,https://github.com/GoogleChrome/puppeteer,/u/colin,4
-2,2017-08-15 20:58:40 -0500,"['/t/art', '/t/book', '/t/fortran']",A FORTRAN Coloring Book (1978),https://archive.org/stream/9780262610261#page/n1/mode/2up,/u/calvin,13
-3,2017-08-15 07:29:00 -0500,"['/t/go', '/t/rust']",rustgo: calling Rust from Go with near-zero overhead,https://blog.filippo.io/rustgo/,/u/FiloSottile,36
-0,2017-08-16 13:38:46 -0500,"['/t/video', '/t/historical', '/t/mac', '/t/person']",Oral History of Avie Tevanian - Session 1,https://www.youtube.com/watch?v=vwCdKU9uYnE,/u/sevan,2
-0,2017-08-16 10:41:17 -0500,['/t/assembly'],"The Alpha AXP, part 8: Memory access, storing bytes and words and unaligned data",https://blogs.msdn.microsoft.com/oldnewthing/20170816-00/?p=96825,/u/calvin,3
-0,2017-08-16 07:42:42 -0500,['/t/python'],Scraping User-Submitted Reviews from the Steam Store,https://intoli.com/blog/steam-scraper/,/u/aperun,2
-0,2017-08-16 09:51:35 -0500,"['/t/databases', '/t/devops']",Migrating 1200 db from Mysql to Postgres,http://psyenix.blogspot.com/2017/08/migrating-1200-db-from-mysql-to-postgres.html,/u/pushcx,3
-18,2017-08-15 07:10:16 -0500,"['/t/education', '/t/programming']",Text is Keeping Kids from Coding,https://medium.com/@dannyyaroslavski/text-is-keeping-kids-from-coding-b70988dd7541,/u/calvin,31
-13,2017-08-15 07:07:31 -0500,['/t/programming'],GTK drops Autotools in favor of Meson,https://mail.gnome.org/archives/gtk-devel-list/2017-August/msg00028.html,/u/calvin,30
-1,2017-08-16 11:17:22 -0500,['/t/programming'],More on the Part-Time R-User [because R deliberately targets non-programmer populations],http://www.win-vector.com/blog/2017/08/more-on-the-part-time-r-user/,/u/Sietsebb,2
-0,2017-08-16 09:49:32 -0500,"['/t/pdf', '/t/ai']",Robust Physical-World Attacks on Machine Learning Models,https://arxiv.org/abs/1707.08945,/u/mikejsavage,2
-2,2017-08-15 14:12:13 -0500,"['/t/release', '/t/unix']",High-process-count support added to master,http://lists.dragonflybsd.org/pipermail/users/2017-August/313552.html,/u/friendlysock,20
-0,2017-08-15 20:50:34 -0500,['/t/api'],APIs as infrastructure: future-proofing Stripe with versioning,https://stripe.com/blog/api-versioning,/u/pims,9
-0,2017-08-16 13:41:09 -0500,"['/t/programming', '/t/satire']",Movies as code,https://github.com/whirmill/movies-as-code/tree/master/movies,/u/hdhzy,2
-0,2017-08-16 07:44:13 -0500,"['/t/hardware', '/t/reversing']",Reverse Engineering IoT Devices,https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/,/u/calvin,2
-0,2017-08-16 02:20:21 -0500,"['/t/databases', '/t/distributed']",Field notes on modelling relational data with CRDTs (Gies-A-Job Remix),https://medium.com/@gordonguthrie/field-notes-on-modelling-relational-data-with-crdts-gies-a-job-remix-d1b3672a08c3,/u/larshesel,4
-0,2017-08-16 11:05:06 -0500,"['/t/pdf', '/t/practices', '/t/privacy', '/t/security']","NIST SP 800-53, Security and Privacy Controls for Information Systems and Organizations, Draft 5.",http://csrc.nist.gov/publications/drafts/800-53/sp800-53r5-draft.pdf,/u/trn,1
-0,2017-08-16 10:27:37 -0500,"['/t/ai', '/t/testing']","A ""data-driven"" approach to improving HMM-based map-matching",https://mapzen.com/blog/map-matching-validation,/u/drewda,1
-0,2017-08-16 05:50:05 -0500,['/t/ruby'],Untangling Ruby Threads,https://robots.thoughtbot.com/untangling-ruby-threads,/u/pushcx,2
-0,2017-08-16 05:49:52 -0500,"['/t/compsci', '/t/databases']",Set Theory: the Method To Database Madness,https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79,/u/pushcx,1
-0,2017-08-16 03:20:17 -0500,['/t/ai'],Data Science Digest - Issue #10,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-10-68406,/u/m31,1
+10,2017-08-16 02:50:35 -0500,"/t/practices,/t/programming",When not to use a regex,https://drewdevault.com/2017/08/13/When-not-to-use-a-regex.html,/u/emrox,9
+5,2017-08-16 08:14:25 -0500,"/t/art,/t/culture",Richard Stallman asked me to change the name of my music project,https://festivalpeak.com/richard-stallman-made-me-change-the-name-of-my-music-project-6bdc549d7d86,/u/calvin,16
+0,2017-08-16 16:13:29 -0500,"/t/practices,/t/release",Why I Use Open DCL Lite,http://jonesrh.info/dcll/dcll_why_i_use.html,/u/trn,3
+0,2017-08-16 06:45:51 -0500,"/t/elm,/t/javascript",The Power of Elm in JavaScript,https://www.dailydrip.com/blog/the-power-of-elm-in-javascript.html,/u/franzunix,5
+0,2017-08-16 12:40:06 -0500,"/t/browsers,/t/nodejs",Puppeteer: a high-level Node API to control headless Chrome,https://github.com/GoogleChrome/puppeteer,/u/colin,4
+2,2017-08-15 20:58:40 -0500,"/t/art,/t/book,/t/fortran",A FORTRAN Coloring Book (1978),https://archive.org/stream/9780262610261#page/n1/mode/2up,/u/calvin,13
+3,2017-08-15 07:29:00 -0500,"/t/go,/t/rust",rustgo: calling Rust from Go with near-zero overhead,https://blog.filippo.io/rustgo/,/u/FiloSottile,36
+0,2017-08-16 13:38:46 -0500,"/t/video,/t/historical,/t/mac,/t/person",Oral History of Avie Tevanian - Session 1,https://www.youtube.com/watch?v=vwCdKU9uYnE,/u/sevan,2
+0,2017-08-16 10:41:17 -0500,/t/assembly,"The Alpha AXP, part 8: Memory access, storing bytes and words and unaligned data",https://blogs.msdn.microsoft.com/oldnewthing/20170816-00/?p=96825,/u/calvin,3
+0,2017-08-16 07:42:42 -0500,/t/python,Scraping User-Submitted Reviews from the Steam Store,https://intoli.com/blog/steam-scraper/,/u/aperun,2
+0,2017-08-16 09:51:35 -0500,"/t/databases,/t/devops",Migrating 1200 db from Mysql to Postgres,http://psyenix.blogspot.com/2017/08/migrating-1200-db-from-mysql-to-postgres.html,/u/pushcx,3
+18,2017-08-15 07:10:16 -0500,"/t/education,/t/programming",Text is Keeping Kids from Coding,https://medium.com/@dannyyaroslavski/text-is-keeping-kids-from-coding-b70988dd7541,/u/calvin,31
+13,2017-08-15 07:07:31 -0500,/t/programming,GTK drops Autotools in favor of Meson,https://mail.gnome.org/archives/gtk-devel-list/2017-August/msg00028.html,/u/calvin,30
+1,2017-08-16 11:17:22 -0500,/t/programming,More on the Part-Time R-User [because R deliberately targets non-programmer populations],http://www.win-vector.com/blog/2017/08/more-on-the-part-time-r-user/,/u/Sietsebb,2
+0,2017-08-16 09:49:32 -0500,"/t/pdf,/t/ai",Robust Physical-World Attacks on Machine Learning Models,https://arxiv.org/abs/1707.08945,/u/mikejsavage,2
+2,2017-08-15 14:12:13 -0500,"/t/release,/t/unix",High-process-count support added to master,http://lists.dragonflybsd.org/pipermail/users/2017-August/313552.html,/u/friendlysock,20
+0,2017-08-15 20:50:34 -0500,/t/api,APIs as infrastructure: future-proofing Stripe with versioning,https://stripe.com/blog/api-versioning,/u/pims,9
+0,2017-08-16 13:41:09 -0500,"/t/programming,/t/satire",Movies as code,https://github.com/whirmill/movies-as-code/tree/master/movies,/u/hdhzy,2
+0,2017-08-16 07:44:13 -0500,"/t/hardware,/t/reversing",Reverse Engineering IoT Devices,https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/,/u/calvin,2
+0,2017-08-16 02:20:21 -0500,"/t/databases,/t/distributed",Field notes on modelling relational data with CRDTs (Gies-A-Job Remix),https://medium.com/@gordonguthrie/field-notes-on-modelling-relational-data-with-crdts-gies-a-job-remix-d1b3672a08c3,/u/larshesel,4
+0,2017-08-16 11:05:06 -0500,"/t/pdf,/t/practices,/t/privacy,/t/security","NIST SP 800-53, Security and Privacy Controls for Information Systems and Organizations, Draft 5.",http://csrc.nist.gov/publications/drafts/800-53/sp800-53r5-draft.pdf,/u/trn,1
+0,2017-08-16 10:27:37 -0500,"/t/ai,/t/testing","A ""data-driven"" approach to improving HMM-based map-matching",https://mapzen.com/blog/map-matching-validation,/u/drewda,1
+0,2017-08-16 05:50:05 -0500,/t/ruby,Untangling Ruby Threads,https://robots.thoughtbot.com/untangling-ruby-threads,/u/pushcx,2
+0,2017-08-16 05:49:52 -0500,"/t/compsci,/t/databases",Set Theory: the Method To Database Madness,https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79,/u/pushcx,1
+0,2017-08-16 03:20:17 -0500,/t/ai,Data Science Digest - Issue #10,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-10-68406,/u/m31,1

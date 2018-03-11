@@ -1,25 +1,25 @@
-2,2013-07-30 19:21:52 -0500,"['/t/browsers', '/t/privacy']",OCSP Stapling in Firefox,https://blog.mozilla.org/security/2013/07/29/ocsp-stapling-in-firefox/,/u/jcs,2
-0,2013-07-31 00:53:10 -0500,['/t/practices'],The Definitive Guide To Project Billing,http://planscope.io/blog/the-definitive-guide-to-project-billing/,/u/jcs,1
-0,2013-07-30 12:29:42 -0500,"['/t/c', '/t/mac', '/t/privacy', '/t/security']","Tor.framework, for routing WebKit and other connections in Cocoa apps through Tor",https://github.com/grabhive/Tor.framework,/u/jcs,5
-0,2013-07-30 19:09:23 -0500,"['/t/go', '/t/release']",A highly-available key value store for shared configuration and service discovery.,https://github.com/coreos/etcd,/u/trousers,1
-0,2013-07-30 14:46:14 -0500,['/t/java'],The Java Modularity Story,http://branchandbound.net/blog/java/2013/07/java-modularity-story/,/u/SanderMak,1
-2,2013-07-29 15:10:44 -0500,"['/t/c', '/t/openbsd', '/t/security']",How to screw up crypto the easy way,http://www.tedunangst.com/flak/post/how-to-screw-up-crypto-the-easy-way,/u/lynge,9
-0,2013-07-29 13:35:39 -0500,"['/t/show', '/t/programming', '/t/web']",Show lobste.rs: an in-browser JSON editor,https://github.com/kevinburke/hulk,/u/kb,9
-2,2013-07-29 18:58:44 -0500,"['/t/show', '/t/news', '/t/web']",The Hacked-Together Index of Tumblr's Lost Porn,http://dailydot.com/entertainment/pornblur-tumblr-adult-content-index/,/u/languagehacker,2
-1,2013-07-29 16:06:42 -0500,['/t/go'],"When Lousy Code Strikes, Google Dispatches Its Elite 'Gopher Team'",http://www.wired.com/wiredenterprise/2013/07/gopher/,/u/journeysquid,4
-0,2013-07-29 13:28:46 -0500,"['/t/security', '/t/web']",… Green For The Anti-Pineapple,http://penturalabs.wordpress.com/2013/07/29/green-for-the-anti-pineapple/,/u/qbit,2
-0,2013-07-29 14:08:06 -0500,['/t/news'],The Old Reader: Desperate times call for desperate measures,http://blog.theoldreader.com/post/56798895350/desperate-times-call-for-desperate-measures,/u/journeysquid,1
-0,2013-07-29 11:46:28 -0500,['/t/javascript'],Writing a Command Line Utility using Node,http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/,/u/remotesynth,1
-0,2013-07-29 16:09:37 -0500,['/t/javascript'],Creating Multi-step Forms with jQuery and Promin,http://flippinawesome.org/2013/07/29/creating-multi-step-forms-with-jquery-and-promin/,/u/remotesynth,0
-0,2013-07-28 23:56:07 -0500,['/t/security'],Chromecast: Exploiting the Newest Device By Google.,http://blog.gtvhacker.com/2013/chromecast-exploiting-the-newest-device-by-google/,/u/kyle,4
-0,2013-07-29 05:40:49 -0500,['/t/javascript'],The Difference Between Boolean Objects and Boolean Primitives in JavaScript,http://www.designpepper.com/blog/drips/the-difference-between-boolean-objects-and-boolean-primitives-in-javascript,/u/joshuacc,1
-1,2013-07-28 12:55:25 -0500,"['/t/distributed', '/t/programming', '/t/scaling']",Notes on Distributed Systems for Young Bloods,http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/,/u/SeanTAllen,9
-1,2013-07-29 07:42:32 -0500,['/t/vcs'],Changing History with Git,http://flippinawesome.org/2013/07/29/changing-history-with-git/,/u/remotesynth,0
-0,2013-07-28 23:58:30 -0500,"['/t/hardware', '/t/linux', '/t/scaling']",Russ’ 10 Ingredient Recipe for Making 1 Million TPS on $5K Hardware,http://highscalability.com/blog/2012/9/10/russ-10-ingredient-recipe-for-making-1-million-tps-on-5k-har.html,/u/kyle,1
-2,2013-07-28 04:35:13 -0500,['/t/compsci'],Ruins of forgotten empires: APL languages,http://scottlocklin.wordpress.com/2013/07/28/ruins-of-forgotten-empires-apl-languages/,/u/jasper,11
-0,2013-07-28 17:28:28 -0500,"['/t/pdf', '/t/compsci', '/t/scaling']",Achieving Rapid Response Times in Large Online Services (2012),http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/people/jeff/Berkeley-Latency-Mar2012.pdf,/u/moses,2
-0,2013-07-28 12:52:20 -0500,"['/t/video', '/t/erlang', '/t/java', '/t/scala']",Bringing Erlang's Fault Tolerance and Distribution to Java with Akka and Erjang,http://www.infoq.com/interviews/jonasboner-krestenkrabthorup-erlang-jvm,/u/SeanTAllen,1
-0,2013-07-28 12:49:27 -0500,"['/t/video', '/t/compsci']","The Actor Model (everything you wanted to know, but were afraid to ask) | Going Deep | Channel 9",http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask,/u/SeanTAllen,1
-1,2013-07-27 23:22:08 -0500,"['/t/event', '/t/security']",Nominations for 2013 Pwnie Awards,http://pwnies.com/nominations/index.html,/u/jcs,5
-0,2013-07-28 04:20:20 -0500,['/t/web'],Bootstrap 3 RC1,http://twitter.github.io/bootstrap/,/u/jasper,3
-2,2013-07-28 12:54:07 -0500,['/t/scaling'],Denormalize the Datas for Great Good,http://dev.theladders.com/2013/07/denormalize-the-datas-for-great-good/,/u/SeanTAllen,0
+2,2013-07-30 19:21:52 -0500,"/t/browsers,/t/privacy",OCSP Stapling in Firefox,https://blog.mozilla.org/security/2013/07/29/ocsp-stapling-in-firefox/,/u/jcs,2
+0,2013-07-31 00:53:10 -0500,/t/practices,The Definitive Guide To Project Billing,http://planscope.io/blog/the-definitive-guide-to-project-billing/,/u/jcs,1
+0,2013-07-30 12:29:42 -0500,"/t/c,/t/mac,/t/privacy,/t/security","Tor.framework, for routing WebKit and other connections in Cocoa apps through Tor",https://github.com/grabhive/Tor.framework,/u/jcs,5
+0,2013-07-30 19:09:23 -0500,"/t/go,/t/release",A highly-available key value store for shared configuration and service discovery.,https://github.com/coreos/etcd,/u/trousers,1
+0,2013-07-30 14:46:14 -0500,/t/java,The Java Modularity Story,http://branchandbound.net/blog/java/2013/07/java-modularity-story/,/u/SanderMak,1
+2,2013-07-29 15:10:44 -0500,"/t/c,/t/openbsd,/t/security",How to screw up crypto the easy way,http://www.tedunangst.com/flak/post/how-to-screw-up-crypto-the-easy-way,/u/lynge,9
+0,2013-07-29 13:35:39 -0500,"/t/show,/t/programming,/t/web",Show lobste.rs: an in-browser JSON editor,https://github.com/kevinburke/hulk,/u/kb,9
+2,2013-07-29 18:58:44 -0500,"/t/show,/t/news,/t/web",The Hacked-Together Index of Tumblr's Lost Porn,http://dailydot.com/entertainment/pornblur-tumblr-adult-content-index/,/u/languagehacker,2
+1,2013-07-29 16:06:42 -0500,/t/go,"When Lousy Code Strikes, Google Dispatches Its Elite 'Gopher Team'",http://www.wired.com/wiredenterprise/2013/07/gopher/,/u/journeysquid,4
+0,2013-07-29 13:28:46 -0500,"/t/security,/t/web",… Green For The Anti-Pineapple,http://penturalabs.wordpress.com/2013/07/29/green-for-the-anti-pineapple/,/u/qbit,2
+0,2013-07-29 14:08:06 -0500,/t/news,The Old Reader: Desperate times call for desperate measures,http://blog.theoldreader.com/post/56798895350/desperate-times-call-for-desperate-measures,/u/journeysquid,1
+0,2013-07-29 11:46:28 -0500,/t/javascript,Writing a Command Line Utility using Node,http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/,/u/remotesynth,1
+0,2013-07-29 16:09:37 -0500,/t/javascript,Creating Multi-step Forms with jQuery and Promin,http://flippinawesome.org/2013/07/29/creating-multi-step-forms-with-jquery-and-promin/,/u/remotesynth,0
+0,2013-07-28 23:56:07 -0500,/t/security,Chromecast: Exploiting the Newest Device By Google.,http://blog.gtvhacker.com/2013/chromecast-exploiting-the-newest-device-by-google/,/u/kyle,4
+0,2013-07-29 05:40:49 -0500,/t/javascript,The Difference Between Boolean Objects and Boolean Primitives in JavaScript,http://www.designpepper.com/blog/drips/the-difference-between-boolean-objects-and-boolean-primitives-in-javascript,/u/joshuacc,1
+1,2013-07-28 12:55:25 -0500,"/t/distributed,/t/programming,/t/scaling",Notes on Distributed Systems for Young Bloods,http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/,/u/SeanTAllen,9
+1,2013-07-29 07:42:32 -0500,/t/vcs,Changing History with Git,http://flippinawesome.org/2013/07/29/changing-history-with-git/,/u/remotesynth,0
+0,2013-07-28 23:58:30 -0500,"/t/hardware,/t/linux,/t/scaling",Russ’ 10 Ingredient Recipe for Making 1 Million TPS on $5K Hardware,http://highscalability.com/blog/2012/9/10/russ-10-ingredient-recipe-for-making-1-million-tps-on-5k-har.html,/u/kyle,1
+2,2013-07-28 04:35:13 -0500,/t/compsci,Ruins of forgotten empires: APL languages,http://scottlocklin.wordpress.com/2013/07/28/ruins-of-forgotten-empires-apl-languages/,/u/jasper,11
+0,2013-07-28 17:28:28 -0500,"/t/pdf,/t/compsci,/t/scaling",Achieving Rapid Response Times in Large Online Services (2012),http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/people/jeff/Berkeley-Latency-Mar2012.pdf,/u/moses,2
+0,2013-07-28 12:52:20 -0500,"/t/video,/t/erlang,/t/java,/t/scala",Bringing Erlang's Fault Tolerance and Distribution to Java with Akka and Erjang,http://www.infoq.com/interviews/jonasboner-krestenkrabthorup-erlang-jvm,/u/SeanTAllen,1
+0,2013-07-28 12:49:27 -0500,"/t/video,/t/compsci","The Actor Model (everything you wanted to know, but were afraid to ask) | Going Deep | Channel 9",http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask,/u/SeanTAllen,1
+1,2013-07-27 23:22:08 -0500,"/t/event,/t/security",Nominations for 2013 Pwnie Awards,http://pwnies.com/nominations/index.html,/u/jcs,5
+0,2013-07-28 04:20:20 -0500,/t/web,Bootstrap 3 RC1,http://twitter.github.io/bootstrap/,/u/jasper,3
+2,2013-07-28 12:54:07 -0500,/t/scaling,Denormalize the Datas for Great Good,http://dev.theladders.com/2013/07/denormalize-the-datas-for-great-good/,/u/SeanTAllen,0

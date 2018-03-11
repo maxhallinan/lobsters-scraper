@@ -1,25 +1,25 @@
-0,2017-11-23 10:34:25 -0600,"['/t/openbsd', '/t/security']",OpenBSD ELF Auxiliary Vector Information Leak,https://xorl.wordpress.com/2017/11/22/openbsd-elf-auxiliary-vector-information-leak/,/u/mulander,11
-2,2017-11-23 01:15:33 -0600,['/t/devops'],Less unit tests more logs,https://www.voucherify.io/blog/less-unit-tests-more-logs,/u/dedrix,8
-11,2017-11-22 20:04:26 -0600,"['/t/historical', '/t/networking']","A Modern BBS: Reviving the local, distributed, weird precursor to Facebook. (2016)",https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d,/u/jackivan88,16
-0,2017-11-23 09:04:01 -0600,"['/t/video', '/t/games']",Everything but the Clouds,https://vimeo.com/241966869,/u/pushcx,7
-1,2017-11-23 15:33:47 -0600,['/t/culture'],Why we never thank open source maintainers,https://windsooon.github.io/2017/11/23/Why%20we%20never%20thank%20open%20source%20maintainers/,/u/nhooyr,6
-13,2017-11-22 04:37:16 -0600,['/t/programming'],integrated development window manager,http://acha.ninja/integrated_development_window_manager.html,/u/ac,53
-3,2017-11-23 04:48:24 -0600,['/t/design'],What Is a Computational Essay?,http://blog.stephenwolfram.com/2017/11/what-is-a-computational-essay/,/u/Sietsebb,4
-23,2017-11-22 03:21:10 -0600,"['/t/linux', '/t/security']",Linus Torvalds: 'Do No Harm',https://lkml.org/lkml/2017/11/21/356,/u/av,51
-0,2017-11-23 12:43:23 -0600,['/t/haskell'],Quick and easy user-defined operators with Plated,https://qfpl.io/posts/quick-and-easy-user-defined-operators/,/u/puffnfresh,2
-4,2017-11-22 16:03:23 -0600,['/t/programming'],You are your tools,https://lemire.me/blog/2017/11/22/you-are-your-tools/,/u/eddelbuettel,12
-3,2017-11-23 10:11:54 -0600,"['/t/devops', '/t/javascript', '/t/nodejs']",Node config best practices,http://codingsans.com/blog/node-config-best-practices,/u/womszi,1
-10,2017-11-22 14:52:27 -0600,['/t/practices'],About that Tech Interview…,https://medium.com/@avrukin/about-that-tech-interview-1223aeb2fa26,/u/adsouza,10
-0,2017-11-22 14:40:54 -0600,"['/t/linux', '/t/networking', '/t/security']","Better Random Number Generation for OpenSSL, libc, and Linux Mainline",https://aws.amazon.com/blogs/opensource/better-random-number-generation-for-openssl-libc-and-linux-mainline/,/u/pushcx,16
-9,2017-11-22 08:24:01 -0600,['/t/databases'],Recursive Filesystem Entries,http://blog.wesleyac.com/posts/filesystem-recursion,/u/calvin,14
-9,2017-11-22 03:12:45 -0600,"['/t/programming', '/t/vcs']",Fossil: Fossil-NG,https://www.fossil-scm.org/index.html/wiki?name=Fossil-NG,/u/C-Keen,31
-3,2017-11-22 05:54:23 -0600,['/t/hardware'],NES Dual Port RAM Interface,http://www.andrewreitano.com/2907125-nes-dual-port-ram-interface,/u/sevan,17
-0,2017-11-22 08:26:28 -0600,"['/t/law', '/t/person', '/t/security']",I'm Testifying in Front of Congress in Washington DC about Data Breaches - What Should I Say?,https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/,/u/calvin,15
-0,2017-11-22 13:59:21 -0600,"['/t/formalmethods', '/t/networking']",Network Semantics,https://www.cl.cam.ac.uk/~pes20/Netsem/index.html,/u/pushcx,9
-13,2017-11-22 10:52:36 -0600,['/t/culture'],There is More to Programming Than Programming Languages,http://malisper.me/there-is-more-to-programming-than-programming-languages/,/u/malisper,6
-3,2017-11-22 10:58:20 -0600,"['/t/javascript', '/t/nodejs']",Is my NODE_ENV correct?,https://nodeenv.com/,/u/drewh,2
-0,2017-11-22 23:05:13 -0600,"['/t/compsci', '/t/games']",“Super Mario Brothers” is hard (2016),http://news.mit.edu/2016/mario-brothers-hard-complexity-class-pspace-0601,/u/jad,2
-1,2017-11-22 09:46:32 -0600,"['/t/historical', '/t/security']",Max Headroom broadcast signal intrusion (30th anniversary),https://en.wikipedia.org/wiki/Max_Headroom_broadcast_signal_intrusion,/u/jpm1,11
-3,2017-11-22 11:04:34 -0600,['/t/devops'],Hosting a self made Kubernetes infrastructure on Scaleway,https://chmod666.org/2017/11/Hosting-a-self-made-Kubernetes-infrastructure-on-Scaleway,/u/unbalancedparentheses,5
-10,2017-11-21 11:06:34 -0600,['/t/programming'],"Why does man print ""gimme gimme gimme"" at 00:30?",https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030,/u/grahamc,75
-12,2017-11-22 16:51:20 -0600,['/t/culture'],I just don’t want to be a software developer anymore,https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1,/u/calvin,22
+0,2017-11-23 10:34:25 -0600,"/t/openbsd,/t/security",OpenBSD ELF Auxiliary Vector Information Leak,https://xorl.wordpress.com/2017/11/22/openbsd-elf-auxiliary-vector-information-leak/,/u/mulander,11
+2,2017-11-23 01:15:33 -0600,/t/devops,Less unit tests more logs,https://www.voucherify.io/blog/less-unit-tests-more-logs,/u/dedrix,8
+11,2017-11-22 20:04:26 -0600,"/t/historical,/t/networking","A Modern BBS: Reviving the local, distributed, weird precursor to Facebook. (2016)",https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d,/u/jackivan88,16
+0,2017-11-23 09:04:01 -0600,"/t/video,/t/games",Everything but the Clouds,https://vimeo.com/241966869,/u/pushcx,7
+1,2017-11-23 15:33:47 -0600,/t/culture,Why we never thank open source maintainers,https://windsooon.github.io/2017/11/23/Why%20we%20never%20thank%20open%20source%20maintainers/,/u/nhooyr,6
+13,2017-11-22 04:37:16 -0600,/t/programming,integrated development window manager,http://acha.ninja/integrated_development_window_manager.html,/u/ac,53
+3,2017-11-23 04:48:24 -0600,/t/design,What Is a Computational Essay?,http://blog.stephenwolfram.com/2017/11/what-is-a-computational-essay/,/u/Sietsebb,4
+23,2017-11-22 03:21:10 -0600,"/t/linux,/t/security",Linus Torvalds: 'Do No Harm',https://lkml.org/lkml/2017/11/21/356,/u/av,51
+0,2017-11-23 12:43:23 -0600,/t/haskell,Quick and easy user-defined operators with Plated,https://qfpl.io/posts/quick-and-easy-user-defined-operators/,/u/puffnfresh,2
+4,2017-11-22 16:03:23 -0600,/t/programming,You are your tools,https://lemire.me/blog/2017/11/22/you-are-your-tools/,/u/eddelbuettel,12
+3,2017-11-23 10:11:54 -0600,"/t/devops,/t/javascript,/t/nodejs",Node config best practices,http://codingsans.com/blog/node-config-best-practices,/u/womszi,1
+10,2017-11-22 14:52:27 -0600,/t/practices,About that Tech Interview…,https://medium.com/@avrukin/about-that-tech-interview-1223aeb2fa26,/u/adsouza,10
+0,2017-11-22 14:40:54 -0600,"/t/linux,/t/networking,/t/security","Better Random Number Generation for OpenSSL, libc, and Linux Mainline",https://aws.amazon.com/blogs/opensource/better-random-number-generation-for-openssl-libc-and-linux-mainline/,/u/pushcx,16
+9,2017-11-22 08:24:01 -0600,/t/databases,Recursive Filesystem Entries,http://blog.wesleyac.com/posts/filesystem-recursion,/u/calvin,14
+9,2017-11-22 03:12:45 -0600,"/t/programming,/t/vcs",Fossil: Fossil-NG,https://www.fossil-scm.org/index.html/wiki?name=Fossil-NG,/u/C-Keen,31
+3,2017-11-22 05:54:23 -0600,/t/hardware,NES Dual Port RAM Interface,http://www.andrewreitano.com/2907125-nes-dual-port-ram-interface,/u/sevan,17
+0,2017-11-22 08:26:28 -0600,"/t/law,/t/person,/t/security",I'm Testifying in Front of Congress in Washington DC about Data Breaches - What Should I Say?,https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/,/u/calvin,15
+0,2017-11-22 13:59:21 -0600,"/t/formalmethods,/t/networking",Network Semantics,https://www.cl.cam.ac.uk/~pes20/Netsem/index.html,/u/pushcx,9
+13,2017-11-22 10:52:36 -0600,/t/culture,There is More to Programming Than Programming Languages,http://malisper.me/there-is-more-to-programming-than-programming-languages/,/u/malisper,6
+3,2017-11-22 10:58:20 -0600,"/t/javascript,/t/nodejs",Is my NODE_ENV correct?,https://nodeenv.com/,/u/drewh,2
+0,2017-11-22 23:05:13 -0600,"/t/compsci,/t/games",“Super Mario Brothers” is hard (2016),http://news.mit.edu/2016/mario-brothers-hard-complexity-class-pspace-0601,/u/jad,2
+1,2017-11-22 09:46:32 -0600,"/t/historical,/t/security",Max Headroom broadcast signal intrusion (30th anniversary),https://en.wikipedia.org/wiki/Max_Headroom_broadcast_signal_intrusion,/u/jpm1,11
+3,2017-11-22 11:04:34 -0600,/t/devops,Hosting a self made Kubernetes infrastructure on Scaleway,https://chmod666.org/2017/11/Hosting-a-self-made-Kubernetes-infrastructure-on-Scaleway,/u/unbalancedparentheses,5
+10,2017-11-21 11:06:34 -0600,/t/programming,"Why does man print ""gimme gimme gimme"" at 00:30?",https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030,/u/grahamc,75
+12,2017-11-22 16:51:20 -0600,/t/culture,I just don’t want to be a software developer anymore,https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1,/u/calvin,22

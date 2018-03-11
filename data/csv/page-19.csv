@@ -1,25 +1,25 @@
-16,2018-02-17 08:39:36 -0600,['/t/openbsd'],OpenBSD Email Service,https://github.com/vedetta-com/caesonia,/u/sin,18
-0,2018-02-17 12:31:26 -0600,"['/t/distributed', '/t/erlang']","Riak core tutorial: an up to date using the riak_core_ng fork, Erlang/OTP 20 and rebar3",https://github.com/lambdaclass/riak_core_tutorial,/u/unbalancedparentheses,12
-12,2018-02-17 15:44:28 -0600,['/t/culture'],How not to replace email,https://jamey.thesharps.us/2018/02/16/how-not-to-replace-email/,/u/calvin,27
-1,2018-02-17 13:56:30 -0600,"['/t/c', '/t/debugging', '/t/python']",Debugging C like it's Python,http://blog.asrpo.com/debugging_c_like_python,/u/asrp,7
-0,2018-02-17 17:05:23 -0600,['/t/api'],Adopting OpenAPI to describe DNSimple API v2,https://blog.dnsimple.com/2018/02/openapi/,/u/fkr,6
-1,2018-02-17 10:47:05 -0600,"['/t/pdf', '/t/assembly', '/t/python']",PeachPy: A Python Framework for Developing High-Performance Assembly Kernels (2013),http://www.dlr.de/sc/en/Portaldata/15/Resources/dokumente/PyHPC2013/submissions/pyhpc2013_submission_10.pdf,/u/nickpsecurity,8
-2,2018-02-17 08:22:21 -0600,"['/t/mobile', '/t/web']",React Native relicensed under the MIT license to match React,https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88,/u/Yogthos,9
-9,2018-02-16 23:26:35 -0600,['/t/programming'],Learning to program is getting harder,http://allendowney.blogspot.com/2018/02/learning-to-program-is-getting-harder.html,/u/zpojqwfejwfhiunz,11
-0,2018-02-17 06:47:02 -0600,"['/t/games', '/t/graphics', '/t/reversing']",Let’s add a photo mode to Wolfenstein II: The New Colossus (PC),https://weblogs.asp.net/fbouma/let-s-add-a-photo-mode-to-wolfenstein-ii-the-new-colossus-pc,/u/calvin,9
-3,2018-02-17 04:33:53 -0600,['/t/javascript'],javascript try catch is fail,https://peterlyons.com/problog/2016/03/javascript-try-catch-is-fail,/u/friendlysock,5
-0,2018-02-17 16:44:50 -0600,['/t/python'],Using environment specific settings in a Django project,https://www.stevenmercatante.com/using-environment-specific-settings-in-django/,/u/neonpython,2
-8,2018-02-16 16:19:18 -0600,['/t/javascript'],Promises are not neutral enough,https://staltz.com/promises-are-not-neutral-enough.html,/u/pushcx,22
-0,2018-02-17 10:45:52 -0600,"['/t/pdf', '/t/formalmethods']",A Gentle Introduction to Formal Verification by Abstract Interpretation (2009),http://www.di.ens.fr/~cousot/publications.www/CousotCousot-Marktoberdorf-2009.pdf,/u/nickpsecurity,4
-35,2018-02-16 06:27:07 -0600,"['/t/ask', '/t/meta']",Is it possible to make the donation progress bar hideable / collapsable?,/s/h7ch5l/is_it_possible_make_donation_progress_bar,/u/davidjpeacock,45
-11,2018-02-16 08:11:54 -0600,['/t/c++'],A Brief Beginner’s Guide To CMake,https://github.com/pyk/cmake-tutorial,/u/pyk,22
-1,2018-02-16 12:51:38 -0600,['/t/culture'],Why OpenStreetMap is in Serious Trouble,https://blog.emacsen.net/blog/2018/02/16/osm-is-in-trouble/,/u/calvin,67
-9,2018-02-16 10:45:54 -0600,['/t/hardware'],Whatever Happened to the Desktop Computer?,https://hackaday.com/2018/02/16/whatever-happened-to-the-desktop-computer/,/u/szczys,18
-6,2018-02-16 11:34:05 -0600,['/t/api'],JSON Meta Application Protocol Specification (JMAP),http://jmap.io/,/u/akpoff,16
-0,2018-02-16 14:12:15 -0600,"['/t/go', '/t/release']",Go 1.10 is released,https://blog.golang.org/go1.10,/u/dgv,20
-2,2018-02-16 15:02:29 -0600,['/t/programming'],3D engine entirely made of MS Excel formulae,https://www.gamasutra.com/blogs/CBel/20180213/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php,/u/Yogthos,14
-0,2018-02-16 19:40:30 -0600,"['/t/javascript', '/t/performance', '/t/web']",Speeding up an octopress blog by 25x-50x (2014),http://danluu.com/octopress-speedup/,/u/cnst,5
-1,2018-02-16 11:59:53 -0600,"['/t/show', '/t/devops', '/t/go']",Fidelius – Access private GitHub repos in docker build,https://medium.com/verloop-engineering/fidelius-e4b2d8b6b1df,/u/av,5
-2,2018-02-16 17:12:43 -0600,"['/t/android', '/t/compsci', '/t/distributed', '/t/release']",bhgv/Inferno-OS_Android - an Android port of Inferno OS,https://github.com/bhgv/Inferno-OS_Android,/u/sevan,5
-1,2018-02-16 08:07:54 -0600,['/t/practices'],6 Lessons I learned while implementing technical RFCs as a management tool,https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb,/u/calvin,15
-8,2018-02-16 12:24:57 -0600,"['/t/culture', '/t/practices']",Why's that company so big? I could do that in a weekend,http://danluu.com/sounds-easy/,/u/moowiz,18
+16,2018-02-17 08:39:36 -0600,/t/openbsd,OpenBSD Email Service,https://github.com/vedetta-com/caesonia,/u/sin,18
+0,2018-02-17 12:31:26 -0600,"/t/distributed,/t/erlang","Riak core tutorial: an up to date using the riak_core_ng fork, Erlang/OTP 20 and rebar3",https://github.com/lambdaclass/riak_core_tutorial,/u/unbalancedparentheses,12
+12,2018-02-17 15:44:28 -0600,/t/culture,How not to replace email,https://jamey.thesharps.us/2018/02/16/how-not-to-replace-email/,/u/calvin,27
+1,2018-02-17 13:56:30 -0600,"/t/c,/t/debugging,/t/python",Debugging C like it's Python,http://blog.asrpo.com/debugging_c_like_python,/u/asrp,7
+0,2018-02-17 17:05:23 -0600,/t/api,Adopting OpenAPI to describe DNSimple API v2,https://blog.dnsimple.com/2018/02/openapi/,/u/fkr,6
+1,2018-02-17 10:47:05 -0600,"/t/pdf,/t/assembly,/t/python",PeachPy: A Python Framework for Developing High-Performance Assembly Kernels (2013),http://www.dlr.de/sc/en/Portaldata/15/Resources/dokumente/PyHPC2013/submissions/pyhpc2013_submission_10.pdf,/u/nickpsecurity,8
+2,2018-02-17 08:22:21 -0600,"/t/mobile,/t/web",React Native relicensed under the MIT license to match React,https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88,/u/Yogthos,9
+9,2018-02-16 23:26:35 -0600,/t/programming,Learning to program is getting harder,http://allendowney.blogspot.com/2018/02/learning-to-program-is-getting-harder.html,/u/zpojqwfejwfhiunz,11
+0,2018-02-17 06:47:02 -0600,"/t/games,/t/graphics,/t/reversing",Let’s add a photo mode to Wolfenstein II: The New Colossus (PC),https://weblogs.asp.net/fbouma/let-s-add-a-photo-mode-to-wolfenstein-ii-the-new-colossus-pc,/u/calvin,9
+3,2018-02-17 04:33:53 -0600,/t/javascript,javascript try catch is fail,https://peterlyons.com/problog/2016/03/javascript-try-catch-is-fail,/u/friendlysock,5
+0,2018-02-17 16:44:50 -0600,/t/python,Using environment specific settings in a Django project,https://www.stevenmercatante.com/using-environment-specific-settings-in-django/,/u/neonpython,2
+8,2018-02-16 16:19:18 -0600,/t/javascript,Promises are not neutral enough,https://staltz.com/promises-are-not-neutral-enough.html,/u/pushcx,22
+0,2018-02-17 10:45:52 -0600,"/t/pdf,/t/formalmethods",A Gentle Introduction to Formal Verification by Abstract Interpretation (2009),http://www.di.ens.fr/~cousot/publications.www/CousotCousot-Marktoberdorf-2009.pdf,/u/nickpsecurity,4
+35,2018-02-16 06:27:07 -0600,"/t/ask,/t/meta",Is it possible to make the donation progress bar hideable / collapsable?,/s/h7ch5l/is_it_possible_make_donation_progress_bar,/u/davidjpeacock,45
+11,2018-02-16 08:11:54 -0600,/t/c++,A Brief Beginner’s Guide To CMake,https://github.com/pyk/cmake-tutorial,/u/pyk,22
+1,2018-02-16 12:51:38 -0600,/t/culture,Why OpenStreetMap is in Serious Trouble,https://blog.emacsen.net/blog/2018/02/16/osm-is-in-trouble/,/u/calvin,67
+9,2018-02-16 10:45:54 -0600,/t/hardware,Whatever Happened to the Desktop Computer?,https://hackaday.com/2018/02/16/whatever-happened-to-the-desktop-computer/,/u/szczys,18
+6,2018-02-16 11:34:05 -0600,/t/api,JSON Meta Application Protocol Specification (JMAP),http://jmap.io/,/u/akpoff,16
+0,2018-02-16 14:12:15 -0600,"/t/go,/t/release",Go 1.10 is released,https://blog.golang.org/go1.10,/u/dgv,20
+2,2018-02-16 15:02:29 -0600,/t/programming,3D engine entirely made of MS Excel formulae,https://www.gamasutra.com/blogs/CBel/20180213/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php,/u/Yogthos,14
+0,2018-02-16 19:40:30 -0600,"/t/javascript,/t/performance,/t/web",Speeding up an octopress blog by 25x-50x (2014),http://danluu.com/octopress-speedup/,/u/cnst,5
+1,2018-02-16 11:59:53 -0600,"/t/show,/t/devops,/t/go",Fidelius – Access private GitHub repos in docker build,https://medium.com/verloop-engineering/fidelius-e4b2d8b6b1df,/u/av,5
+2,2018-02-16 17:12:43 -0600,"/t/android,/t/compsci,/t/distributed,/t/release",bhgv/Inferno-OS_Android - an Android port of Inferno OS,https://github.com/bhgv/Inferno-OS_Android,/u/sevan,5
+1,2018-02-16 08:07:54 -0600,/t/practices,6 Lessons I learned while implementing technical RFCs as a management tool,https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb,/u/calvin,15
+8,2018-02-16 12:24:57 -0600,"/t/culture,/t/practices",Why's that company so big? I could do that in a weekend,http://danluu.com/sounds-easy/,/u/moowiz,18

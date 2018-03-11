@@ -1,25 +1,25 @@
-1,2017-06-25 18:17:13 -0500,"['/t/graphics', '/t/javascript']",GPU-Accelerated Particles with WebGL 2,http://gpfault.net/posts/webgl2-particles.txt.html,/u/nicebyte,4
-0,2017-06-26 05:32:43 -0500,['/t/haskell'],The Reader Monad — Part 1,https://medium.com/@jonathangfischoff/the-reader-monad-part-1-1e4d947983a8,/u/calvin,2
-0,2017-06-26 03:59:22 -0500,['/t/performance'],Morton encoding/decoding through bit interleaving,http://www.forceflow.be/2013/10/07/morton-encodingdecoding-through-bit-interleaving-implementations/,/u/mikejsavage,2
-0,2017-06-25 23:27:31 -0500,['/t/security'],"Victoria, Australia's entire speed camera network to be reviewed over software virus",http://www.abc.net.au/news/2017-06-24/victoria-speed-red-light-camera-network-to-be-reviewed/8649196,/u/pilkch,3
-0,2017-06-26 01:53:18 -0500,"['/t/databases', '/t/science']",Integrating All of Biology into a Public Neo4j Database,https://neo4j.com/blog/integrating-biology-public-neo4j-database/,/u/bwmerkl,2
-0,2017-06-25 16:56:17 -0500,['/t/databases'],Literate SQL using the WITH clause,http://modern-sql.com/use-case/literate-sql,/u/pushcx,6
-0,2017-06-26 03:55:10 -0500,"['/t/graphics', '/t/performance']","Thinking Parallel, Part II: Tree Traversal on the GPU",https://devblogs.nvidia.com/parallelforall/thinking-parallel-part-ii-tree-traversal-gpu/,/u/mikejsavage,1
-12,2017-06-24 20:00:51 -0500,['/t/hardware'],The PowerPC Notebook campaign has just started,https://www.powerpc-notebook.org/2017/06/powerpc-notebook-campaign-just-started/,/u/sevan,22
-0,2017-06-25 06:58:22 -0500,"['/t/video', '/t/programming']",Pony: Co-designing a Type-system and a Runtime,https://www.infoq.com/presentations/pony-type-system,/u/SeanTAllen,12
-2,2017-06-25 11:43:04 -0500,['/t/design'],Origami Studio by Facebook,https://www.producthunt.com/posts/origami-studio-by-facebook,/u/franzunix,2
-14,2017-06-24 14:59:07 -0500,"['/t/api', '/t/security']",Discord: Rise Of The Bot Wars,https://blackhole12.blogspot.com/2017/06/discord-rise-of-bot-wars.html,/u/calvin,23
-0,2017-06-25 20:47:44 -0500,"['/t/pdf', '/t/security']",PT-Rand: Practical Mitigation of Data-only Attacks against Page Tables,https://www.internetsociety.org/sites/default/files/ndss2017_05B-4_Davi_paper.pdf,/u/fro,1
-0,2017-06-25 07:07:05 -0500,"['/t/api', '/t/security']",AWS Security Primer,https://cloudonaut.io/aws-security-primer/,/u/calvin,7
-6,2017-06-25 03:28:47 -0500,"['/t/video', '/t/law', '/t/person']",Julia Reda's talk at the International IP Enforcement Summit,http://www.ipsummit17.eu/VOD/Julia_Reda_Day2_Video_Archive.php,/u/stsp,7
-6,2017-06-24 15:02:10 -0500,"['/t/compilers', '/t/formalmethods', '/t/security']",Getting compilers right: a reliable foundation for secure software,https://www.microsoft.com/en-us/research/blog/getting-compilers-right-secure-software/,/u/calvin,22
-0,2017-06-25 07:11:16 -0500,"['/t/video', '/t/programming']",Pony: 714 Days Later,https://www.youtube.com/watch?v=HGDSnOZaU7Y,/u/SeanTAllen,4
-0,2017-06-24 21:56:01 -0500,"['/t/programming', '/t/testing', '/t/unix']",How I Plan to Use Tests: Transforming OSH,http://www.oilshell.org/blog/2017/06/24.html,/u/andyc,6
-0,2017-06-24 17:04:09 -0500,"['/t/graphics', '/t/lisp']",malcolmstill/ulubis - A Wayland compositor written in Common Lisp,https://github.com/malcolmstill/ulubis,/u/sevan,18
-27,2017-06-24 13:25:21 -0500,"['/t/pdf', '/t/compsci']",Frame-Based Editing,https://kclpure.kcl.ac.uk/portal/files/71018111/Frame_based_editing.pdf,/u/GeoffWozniak,13
-0,2017-06-24 14:00:02 -0500,['/t/hardware'],WiFi232 with a Macintosh 512ke,https://jcs.org/2017/06/23/wifi232,/u/fcbsd,20
-1,2017-06-24 17:24:56 -0500,"['/t/video', '/t/math']",The Map of Mathematics: Animation Shows How All the Different Fields in Math Fit Together,http://www.openculture.com/2017/02/the-map-of-mathematics.html,/u/quobit,11
-2,2017-06-24 11:25:32 -0500,"['/t/pdf', '/t/formalmethods', '/t/programming', '/t/rust']",Simple Verification of Rust Programs with Functional Purification (2016),https://pp.info.uni-karlsruhe.de/uploads/publikationen/ullrich16masterarbeit.pdf,/u/nickpsecurity,14
-0,2017-06-24 13:32:43 -0500,"['/t/video', '/t/compsci', '/t/perl', '/t/person']",Welcome Inside the Head of Larry Wall - Joe Armstrong and Larry Wall,https://www.youtube.com/watch?v=SpH9BTMZKXc,/u/sevan,8
-4,2017-06-24 01:19:04 -0500,['/t/testing'],We had a unit test which only failed on Sundays,https://qntm.org/unit,/u/pushcx,22
-4,2017-06-24 06:26:31 -0500,"['/t/unix', '/t/web']",Scraping a Subreddit With a One-Liner,https://unnikked.ga/scraping-a-subreddit-with-a-one-liner-6322f74134df,/u/calvin,10
+1,2017-06-25 18:17:13 -0500,"/t/graphics,/t/javascript",GPU-Accelerated Particles with WebGL 2,http://gpfault.net/posts/webgl2-particles.txt.html,/u/nicebyte,4
+0,2017-06-26 05:32:43 -0500,/t/haskell,The Reader Monad — Part 1,https://medium.com/@jonathangfischoff/the-reader-monad-part-1-1e4d947983a8,/u/calvin,2
+0,2017-06-26 03:59:22 -0500,/t/performance,Morton encoding/decoding through bit interleaving,http://www.forceflow.be/2013/10/07/morton-encodingdecoding-through-bit-interleaving-implementations/,/u/mikejsavage,2
+0,2017-06-25 23:27:31 -0500,/t/security,"Victoria, Australia's entire speed camera network to be reviewed over software virus",http://www.abc.net.au/news/2017-06-24/victoria-speed-red-light-camera-network-to-be-reviewed/8649196,/u/pilkch,3
+0,2017-06-26 01:53:18 -0500,"/t/databases,/t/science",Integrating All of Biology into a Public Neo4j Database,https://neo4j.com/blog/integrating-biology-public-neo4j-database/,/u/bwmerkl,2
+0,2017-06-25 16:56:17 -0500,/t/databases,Literate SQL using the WITH clause,http://modern-sql.com/use-case/literate-sql,/u/pushcx,6
+0,2017-06-26 03:55:10 -0500,"/t/graphics,/t/performance","Thinking Parallel, Part II: Tree Traversal on the GPU",https://devblogs.nvidia.com/parallelforall/thinking-parallel-part-ii-tree-traversal-gpu/,/u/mikejsavage,1
+12,2017-06-24 20:00:51 -0500,/t/hardware,The PowerPC Notebook campaign has just started,https://www.powerpc-notebook.org/2017/06/powerpc-notebook-campaign-just-started/,/u/sevan,22
+0,2017-06-25 06:58:22 -0500,"/t/video,/t/programming",Pony: Co-designing a Type-system and a Runtime,https://www.infoq.com/presentations/pony-type-system,/u/SeanTAllen,12
+2,2017-06-25 11:43:04 -0500,/t/design,Origami Studio by Facebook,https://www.producthunt.com/posts/origami-studio-by-facebook,/u/franzunix,2
+14,2017-06-24 14:59:07 -0500,"/t/api,/t/security",Discord: Rise Of The Bot Wars,https://blackhole12.blogspot.com/2017/06/discord-rise-of-bot-wars.html,/u/calvin,23
+0,2017-06-25 20:47:44 -0500,"/t/pdf,/t/security",PT-Rand: Practical Mitigation of Data-only Attacks against Page Tables,https://www.internetsociety.org/sites/default/files/ndss2017_05B-4_Davi_paper.pdf,/u/fro,1
+0,2017-06-25 07:07:05 -0500,"/t/api,/t/security",AWS Security Primer,https://cloudonaut.io/aws-security-primer/,/u/calvin,7
+6,2017-06-25 03:28:47 -0500,"/t/video,/t/law,/t/person",Julia Reda's talk at the International IP Enforcement Summit,http://www.ipsummit17.eu/VOD/Julia_Reda_Day2_Video_Archive.php,/u/stsp,7
+6,2017-06-24 15:02:10 -0500,"/t/compilers,/t/formalmethods,/t/security",Getting compilers right: a reliable foundation for secure software,https://www.microsoft.com/en-us/research/blog/getting-compilers-right-secure-software/,/u/calvin,22
+0,2017-06-25 07:11:16 -0500,"/t/video,/t/programming",Pony: 714 Days Later,https://www.youtube.com/watch?v=HGDSnOZaU7Y,/u/SeanTAllen,4
+0,2017-06-24 21:56:01 -0500,"/t/programming,/t/testing,/t/unix",How I Plan to Use Tests: Transforming OSH,http://www.oilshell.org/blog/2017/06/24.html,/u/andyc,6
+0,2017-06-24 17:04:09 -0500,"/t/graphics,/t/lisp",malcolmstill/ulubis - A Wayland compositor written in Common Lisp,https://github.com/malcolmstill/ulubis,/u/sevan,18
+27,2017-06-24 13:25:21 -0500,"/t/pdf,/t/compsci",Frame-Based Editing,https://kclpure.kcl.ac.uk/portal/files/71018111/Frame_based_editing.pdf,/u/GeoffWozniak,13
+0,2017-06-24 14:00:02 -0500,/t/hardware,WiFi232 with a Macintosh 512ke,https://jcs.org/2017/06/23/wifi232,/u/fcbsd,20
+1,2017-06-24 17:24:56 -0500,"/t/video,/t/math",The Map of Mathematics: Animation Shows How All the Different Fields in Math Fit Together,http://www.openculture.com/2017/02/the-map-of-mathematics.html,/u/quobit,11
+2,2017-06-24 11:25:32 -0500,"/t/pdf,/t/formalmethods,/t/programming,/t/rust",Simple Verification of Rust Programs with Functional Purification (2016),https://pp.info.uni-karlsruhe.de/uploads/publikationen/ullrich16masterarbeit.pdf,/u/nickpsecurity,14
+0,2017-06-24 13:32:43 -0500,"/t/video,/t/compsci,/t/perl,/t/person",Welcome Inside the Head of Larry Wall - Joe Armstrong and Larry Wall,https://www.youtube.com/watch?v=SpH9BTMZKXc,/u/sevan,8
+4,2017-06-24 01:19:04 -0500,/t/testing,We had a unit test which only failed on Sundays,https://qntm.org/unit,/u/pushcx,22
+4,2017-06-24 06:26:31 -0500,"/t/unix,/t/web",Scraping a Subreddit With a One-Liner,https://unnikked.ga/scraping-a-subreddit-with-a-one-liner-6322f74134df,/u/calvin,10

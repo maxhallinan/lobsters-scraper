@@ -1,25 +1,25 @@
-3,2012-09-17 08:02:23 -0500,['/t/design'],How to get designers to make your open source project awesome,http://www.michaelboeke.com/post/31705661648/how-to-get-designers-to-make-your-open-source-project,/u/b,10
-0,2012-09-17 12:00:26 -0500,['/t/security'],Virgin Mobile security hole lets anyone log in to your account,http://kev.inburke.com/kevin/open-season-on-virgin-mobile-customer-data/,/u/kb,8
-0,2012-09-17 11:05:06 -0500,['/t/lisp'],Joxa: Lisp on the Erlang VM,http://joxa.org/,/u/eigenjoy,8
-0,2012-09-17 16:38:01 -0500,['/t/compsci'],tinytocs: computer science research of 140 characters or less,http://tinytocs.org/,/u/yawniek,4
-0,2012-09-17 12:32:12 -0500,['/t/math'],A/B Testing vs MAB algorithms - It's complicated,http://bentilly.blogspot.com/2012/09/ab-testing-vs-mab-algorithms-its.html,/u/pushcx,4
-1,2012-09-17 09:00:09 -0500,"['/t/api', '/t/web']",Amazon Maps API,http://www.amazonappstoredev.com/2012/09/amazon-maps-api.html,/u/jcs,4
-1,2012-09-17 11:15:45 -0500,"['/t/event', '/t/ruby']",RubyConf Argentina 2012,http://rubyconfargentina.org/en,/u/virtualroot,2
-1,2012-09-16 23:44:58 -0500,['/t/ruby'],fastruby: An experiment in static compilation of Ruby,http://blog.headius.com/2012/09/an-experiment-in-static-compilation-of.html,/u/mf,12
-0,2012-09-17 11:31:15 -0500,['/t/compsci'],How I procedurally generated a texture on an arbitrarily perturbed sphere,http://www.reddit.com/r/gamedev/comments/100rl5/if_youve_ever_want_to_proceduraly_generate_a/,/u/pushcx,1
-1,2012-09-16 22:17:51 -0500,"['/t/math', '/t/philosophy']",Why Do We Learn Math?,http://betterexplained.com/articles/why-do-we-learn-math/,/u/tobym,4
-2,2012-09-16 17:41:56 -0500,"['/t/reversing', '/t/security', '/t/web']",Breaking CAPTCHA with automated humans for $0.001,http://www.troyhunt.com/2012/01/breaking-captcha-with-automated-humans.html,/u/tobym,6
-0,2012-09-17 00:22:34 -0500,['/t/go'],golang-weekly issue #4,https://groups.google.com/forum/#!msg/golang-weekly/J66zT4mzxKA/iDCXHE8ygCcJ,/u/nilmethod,3
-1,2012-09-16 09:07:52 -0500,['/t/security'],Some thoughts on the CRIME attack,https://blog.torproject.org/blog/some-thoughts-crime-attack,/u/jcs,7
-0,2012-09-15 16:11:35 -0500,"['/t/compsci', '/t/databases', '/t/scaling']",Spanner: Google's Globally-Distributed Database,http://research.google.com/archive/spanner.html,/u/moses,11
-0,2012-09-15 20:21:09 -0500,"['/t/browsers', '/t/mobile', '/t/release', '/t/web']",Perf Feedback - What's slowing down Mobile Facebook,http://lists.w3.org/Archives/Public/public-coremob/2012Sep/0021.html,/u/tobym,6
-7,2012-09-15 16:28:48 -0500,['/t/compsci'],Dynamic languages are static languages,http://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/,/u/kyle,3
-0,2012-09-15 20:56:20 -0500,['/t/python'],"pudb: A full-screen, console-based Python debugger",http://pypi.python.org/pypi/pudb,/u/kyle,3
-0,2012-09-15 15:28:00 -0500,['/t/javascript'],Algebraic data types for JavaScript,https://github.com/rehno-lindeque/adt.js,/u/jamesbritt,2
-0,2012-09-14 17:51:50 -0500,['/t/devops'],Retro on GitHub availability this week,https://github.com/blog/1261-github-availability-this-week,/u/listrophy,19
-3,2012-09-15 04:30:05 -0500,"['/t/book', '/t/ruby']",Practical Object-Oriented Design in Ruby: An Agile Primer: Sandi Metz: Amazon.com,http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330,/u/vesan,2
-0,2012-09-14 19:39:29 -0500,['/t/go'],Why I went from Python to Go (and not node.js),http://jordanorelli.tumblr.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js,/u/rob,9
-0,2012-09-15 00:16:00 -0500,['/t/go'],go with confidence — just muxing about,http://gowithconfidence.tumblr.com/post/31431608488/muxing,/u/nexneo,5
-9,2012-09-14 11:12:12 -0500,['/t/ruby'],"On Rails, Sinatra, and picking the right tool for the job",http://pedro.herokuapp.com/past/2012/9/12/on_rails_sinatra_and_picking_the_right_tool_for_the_job/,/u/craigkerstiens,11
-0,2012-09-14 14:32:31 -0500,"['/t/event', '/t/ruby']",My Madison Ruby Story,http://marginaldialogue.blogspot.com/2012/09/my-madison-ruby-story.html,/u/listrophy,7
-0,2012-09-14 17:32:23 -0500,"['/t/pdf', '/t/security']",Identifying Website Users by TLS Traffic Analysis: New Attacks and Effective Countermeasures,http://hal.inria.fr/docs/00/73/24/49/PDF/RR-8067.pdf,/u/fcambus,4
+3,2012-09-17 08:02:23 -0500,/t/design,How to get designers to make your open source project awesome,http://www.michaelboeke.com/post/31705661648/how-to-get-designers-to-make-your-open-source-project,/u/b,10
+0,2012-09-17 12:00:26 -0500,/t/security,Virgin Mobile security hole lets anyone log in to your account,http://kev.inburke.com/kevin/open-season-on-virgin-mobile-customer-data/,/u/kb,8
+0,2012-09-17 11:05:06 -0500,/t/lisp,Joxa: Lisp on the Erlang VM,http://joxa.org/,/u/eigenjoy,8
+0,2012-09-17 16:38:01 -0500,/t/compsci,tinytocs: computer science research of 140 characters or less,http://tinytocs.org/,/u/yawniek,4
+0,2012-09-17 12:32:12 -0500,/t/math,A/B Testing vs MAB algorithms - It's complicated,http://bentilly.blogspot.com/2012/09/ab-testing-vs-mab-algorithms-its.html,/u/pushcx,4
+1,2012-09-17 09:00:09 -0500,"/t/api,/t/web",Amazon Maps API,http://www.amazonappstoredev.com/2012/09/amazon-maps-api.html,/u/jcs,4
+1,2012-09-17 11:15:45 -0500,"/t/event,/t/ruby",RubyConf Argentina 2012,http://rubyconfargentina.org/en,/u/virtualroot,2
+1,2012-09-16 23:44:58 -0500,/t/ruby,fastruby: An experiment in static compilation of Ruby,http://blog.headius.com/2012/09/an-experiment-in-static-compilation-of.html,/u/mf,12
+0,2012-09-17 11:31:15 -0500,/t/compsci,How I procedurally generated a texture on an arbitrarily perturbed sphere,http://www.reddit.com/r/gamedev/comments/100rl5/if_youve_ever_want_to_proceduraly_generate_a/,/u/pushcx,1
+1,2012-09-16 22:17:51 -0500,"/t/math,/t/philosophy",Why Do We Learn Math?,http://betterexplained.com/articles/why-do-we-learn-math/,/u/tobym,4
+2,2012-09-16 17:41:56 -0500,"/t/reversing,/t/security,/t/web",Breaking CAPTCHA with automated humans for $0.001,http://www.troyhunt.com/2012/01/breaking-captcha-with-automated-humans.html,/u/tobym,6
+0,2012-09-17 00:22:34 -0500,/t/go,golang-weekly issue #4,https://groups.google.com/forum/#!msg/golang-weekly/J66zT4mzxKA/iDCXHE8ygCcJ,/u/nilmethod,3
+1,2012-09-16 09:07:52 -0500,/t/security,Some thoughts on the CRIME attack,https://blog.torproject.org/blog/some-thoughts-crime-attack,/u/jcs,7
+0,2012-09-15 16:11:35 -0500,"/t/compsci,/t/databases,/t/scaling",Spanner: Google's Globally-Distributed Database,http://research.google.com/archive/spanner.html,/u/moses,11
+0,2012-09-15 20:21:09 -0500,"/t/browsers,/t/mobile,/t/release,/t/web",Perf Feedback - What's slowing down Mobile Facebook,http://lists.w3.org/Archives/Public/public-coremob/2012Sep/0021.html,/u/tobym,6
+7,2012-09-15 16:28:48 -0500,/t/compsci,Dynamic languages are static languages,http://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/,/u/kyle,3
+0,2012-09-15 20:56:20 -0500,/t/python,"pudb: A full-screen, console-based Python debugger",http://pypi.python.org/pypi/pudb,/u/kyle,3
+0,2012-09-15 15:28:00 -0500,/t/javascript,Algebraic data types for JavaScript,https://github.com/rehno-lindeque/adt.js,/u/jamesbritt,2
+0,2012-09-14 17:51:50 -0500,/t/devops,Retro on GitHub availability this week,https://github.com/blog/1261-github-availability-this-week,/u/listrophy,19
+3,2012-09-15 04:30:05 -0500,"/t/book,/t/ruby",Practical Object-Oriented Design in Ruby: An Agile Primer: Sandi Metz: Amazon.com,http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330,/u/vesan,2
+0,2012-09-14 19:39:29 -0500,/t/go,Why I went from Python to Go (and not node.js),http://jordanorelli.tumblr.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js,/u/rob,9
+0,2012-09-15 00:16:00 -0500,/t/go,go with confidence — just muxing about,http://gowithconfidence.tumblr.com/post/31431608488/muxing,/u/nexneo,5
+9,2012-09-14 11:12:12 -0500,/t/ruby,"On Rails, Sinatra, and picking the right tool for the job",http://pedro.herokuapp.com/past/2012/9/12/on_rails_sinatra_and_picking_the_right_tool_for_the_job/,/u/craigkerstiens,11
+0,2012-09-14 14:32:31 -0500,"/t/event,/t/ruby",My Madison Ruby Story,http://marginaldialogue.blogspot.com/2012/09/my-madison-ruby-story.html,/u/listrophy,7
+0,2012-09-14 17:32:23 -0500,"/t/pdf,/t/security",Identifying Website Users by TLS Traffic Analysis: New Attacks and Effective Countermeasures,http://hal.inria.fr/docs/00/73/24/49/PDF/RR-8067.pdf,/u/fcambus,4

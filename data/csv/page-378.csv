@@ -1,25 +1,25 @@
-0,2017-05-05 12:05:48 -0500,['/t/java'],An Open Letter to the JCP Executive Committee,http://mreinhold.org/blog/to-the-jcp-ec,/u/aduffy,4
-0,2017-05-05 07:56:41 -0500,['/t/education'],Tweak,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-05.html#e2017-05-04T16_07_07.htm,/u/flyingfisch,6
-13,2017-05-04 12:27:33 -0500,['/t/rust'],Launching the 2017 State of Rust Survey,http://blog.rust-lang.org/2017/05/03/survey.html,/u/skade,24
-3,2017-05-04 22:01:15 -0500,['/t/practices'],How Stripe teaches employees to code,https://stripe.com/blog/teaching-employees-to-code,/u/pushcx,9
-4,2017-05-04 16:41:39 -0500,"['/t/android', '/t/privacy']",Something is wrong when the ‘telephone app’ on your phone becomes 3rd party,https://martinruenz.de/article/data-privacy/2017/05/03/something-is-wrong.html,/u/johnLate,16
-1,2017-05-05 09:01:35 -0500,['/t/databases'],Benchmarking Complex Query Performance in CrateDB and PostgreSQL,https://crate.io/a/benchmarking-complex-query-performance-cratedb-postgresql/,/u/nslater,3
-0,2017-05-05 01:47:01 -0500,['/t/c++'],Final Classes,https://arne-mertz.de/2017/04/final-classes/,/u/rsadowski,5
-1,2017-05-05 08:45:59 -0500,['/t/devops'],Keeping Provisioning and Deployment Simple,https://www.protoapi.net/blog/1/,/u/cschorn,2
-0,2017-05-05 11:55:03 -0500,"['/t/design', '/t/practices']",Designing for People Who Have Better Things To Do With Their Lives (2000),https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/,/u/calvin,2
-6,2017-05-04 09:02:31 -0500,"['/t/education', '/t/haskell']",What a Haskell Study Group is Not,http://bitemyapp.com/posts/2017-05-03-what-a-haskell-study-group-is-not.html,/u/bitemyapp,26
-4,2017-05-04 10:06:41 -0500,"['/t/assembly', '/t/c', '/t/javascript', '/t/ruby']",Mipsdis: MIPS disassembler in the browser,http://blog.loadzero.com/blog/announcing-mipsdis/,/u/loadzero,11
-2,2017-05-04 12:19:05 -0500,['/t/security'],Thieves drain 2fa-protected bank accounts by abusing SS7 routing protocol,https://arstechnica.com/security/2017/05/thieves-drain-2fa-protected-bank-accounts-by-abusing-ss7-routing-protocol/,/u/Sinjo,11
-2,2017-05-04 19:36:18 -0500,"['/t/culture', '/t/ios']",Damage,http://mattgemmell.com/damage/,/u/calvin,13
-4,2017-05-03 22:18:24 -0500,"['/t/fortran', '/t/meta']",Tag suggestion: Fortran,/s/komtsd/tag_suggestion_fortran,/u/ngoldbaum,43
-4,2017-05-04 05:02:06 -0500,"['/t/release', '/t/security']",CVE-2017-8301: TLS verification vulnerability in LibreSSL 2.5.1 - 2.5.3,http://seclists.org/oss-sec/2017/q2/145,/u/mjturner,13
-29,2017-05-04 08:53:57 -0500,['/t/meta'],Tag suggestion: Writing,/s/vnno7l/tag_suggestion_writing,/u/michaelochurch,7
-0,2017-05-04 08:57:07 -0500,"['/t/release', '/t/vcs']",What's new in Mercurial 4.2,https://www.mercurial-scm.org/wiki/Release4.2,/u/maqio,16
-0,2017-05-04 22:34:16 -0500,"['/t/python', '/t/visualization']",HyperTools: A python toolbox for visualizing and manipulating high-dimensional data,http://hypertools.readthedocs.io/en/latest/,/u/tf,3
-1,2017-05-04 22:48:28 -0500,['/t/fortran'],NASA Issues a Challenge to Speed Up Its Supercomputer Code,https://www.nasa.gov/aero/nasa-issues-a-challenge-to-speed-up-its-supercomputer-code,/u/alynpost,1
-8,2017-05-04 05:27:56 -0500,['/t/scala'],When the Scala compiler doesn't help,http://latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help/,/u/calvin,10
-9,2017-05-03 20:15:07 -0500,['/t/devops'],The Future of Ops,http://bravenewgeek.com/the-future-of-ops/,/u/tylertreat,14
-12,2017-05-04 07:41:34 -0500,"['/t/formalmethods', '/t/programming']",Proving the Ghost Common Divisor (GCD) in SPARK,http://www.spark-2014.org/entries/detail/gnatprove-tips-and-tricks-proving-the-ghost-common-denominator-gcd,/u/doublec,6
-1,2017-05-04 20:56:34 -0500,"['/t/video', '/t/compsci']",Does Computational Complexity Restrict Artificial Intelligence (AI) and Machine Learning?,https://www.youtube.com/watch?v=p64CMGvKneQ,/u/tf,1
-3,2017-05-03 21:16:07 -0500,"['/t/elixir', '/t/haskell']",What's a Monad? Digging into Haskell,https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/,/u/scottnonnenberg,11
-0,2017-05-04 11:23:49 -0500,"['/t/java', '/t/release']",Wrapping up Java 9 new Features,http://aboullaite.me/wrapping-up-java-9-new-features/,/u/gambogi,6
+0,2017-05-05 12:05:48 -0500,/t/java,An Open Letter to the JCP Executive Committee,http://mreinhold.org/blog/to-the-jcp-ec,/u/aduffy,4
+0,2017-05-05 07:56:41 -0500,/t/education,Tweak,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-05.html#e2017-05-04T16_07_07.htm,/u/flyingfisch,6
+13,2017-05-04 12:27:33 -0500,/t/rust,Launching the 2017 State of Rust Survey,http://blog.rust-lang.org/2017/05/03/survey.html,/u/skade,24
+3,2017-05-04 22:01:15 -0500,/t/practices,How Stripe teaches employees to code,https://stripe.com/blog/teaching-employees-to-code,/u/pushcx,9
+4,2017-05-04 16:41:39 -0500,"/t/android,/t/privacy",Something is wrong when the ‘telephone app’ on your phone becomes 3rd party,https://martinruenz.de/article/data-privacy/2017/05/03/something-is-wrong.html,/u/johnLate,16
+1,2017-05-05 09:01:35 -0500,/t/databases,Benchmarking Complex Query Performance in CrateDB and PostgreSQL,https://crate.io/a/benchmarking-complex-query-performance-cratedb-postgresql/,/u/nslater,3
+0,2017-05-05 01:47:01 -0500,/t/c++,Final Classes,https://arne-mertz.de/2017/04/final-classes/,/u/rsadowski,5
+1,2017-05-05 08:45:59 -0500,/t/devops,Keeping Provisioning and Deployment Simple,https://www.protoapi.net/blog/1/,/u/cschorn,2
+0,2017-05-05 11:55:03 -0500,"/t/design,/t/practices",Designing for People Who Have Better Things To Do With Their Lives (2000),https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/,/u/calvin,2
+6,2017-05-04 09:02:31 -0500,"/t/education,/t/haskell",What a Haskell Study Group is Not,http://bitemyapp.com/posts/2017-05-03-what-a-haskell-study-group-is-not.html,/u/bitemyapp,26
+4,2017-05-04 10:06:41 -0500,"/t/assembly,/t/c,/t/javascript,/t/ruby",Mipsdis: MIPS disassembler in the browser,http://blog.loadzero.com/blog/announcing-mipsdis/,/u/loadzero,11
+2,2017-05-04 12:19:05 -0500,/t/security,Thieves drain 2fa-protected bank accounts by abusing SS7 routing protocol,https://arstechnica.com/security/2017/05/thieves-drain-2fa-protected-bank-accounts-by-abusing-ss7-routing-protocol/,/u/Sinjo,11
+2,2017-05-04 19:36:18 -0500,"/t/culture,/t/ios",Damage,http://mattgemmell.com/damage/,/u/calvin,13
+4,2017-05-03 22:18:24 -0500,"/t/fortran,/t/meta",Tag suggestion: Fortran,/s/komtsd/tag_suggestion_fortran,/u/ngoldbaum,43
+4,2017-05-04 05:02:06 -0500,"/t/release,/t/security",CVE-2017-8301: TLS verification vulnerability in LibreSSL 2.5.1 - 2.5.3,http://seclists.org/oss-sec/2017/q2/145,/u/mjturner,13
+29,2017-05-04 08:53:57 -0500,/t/meta,Tag suggestion: Writing,/s/vnno7l/tag_suggestion_writing,/u/michaelochurch,7
+0,2017-05-04 08:57:07 -0500,"/t/release,/t/vcs",What's new in Mercurial 4.2,https://www.mercurial-scm.org/wiki/Release4.2,/u/maqio,16
+0,2017-05-04 22:34:16 -0500,"/t/python,/t/visualization",HyperTools: A python toolbox for visualizing and manipulating high-dimensional data,http://hypertools.readthedocs.io/en/latest/,/u/tf,3
+1,2017-05-04 22:48:28 -0500,/t/fortran,NASA Issues a Challenge to Speed Up Its Supercomputer Code,https://www.nasa.gov/aero/nasa-issues-a-challenge-to-speed-up-its-supercomputer-code,/u/alynpost,1
+8,2017-05-04 05:27:56 -0500,/t/scala,When the Scala compiler doesn't help,http://latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help/,/u/calvin,10
+9,2017-05-03 20:15:07 -0500,/t/devops,The Future of Ops,http://bravenewgeek.com/the-future-of-ops/,/u/tylertreat,14
+12,2017-05-04 07:41:34 -0500,"/t/formalmethods,/t/programming",Proving the Ghost Common Divisor (GCD) in SPARK,http://www.spark-2014.org/entries/detail/gnatprove-tips-and-tricks-proving-the-ghost-common-denominator-gcd,/u/doublec,6
+1,2017-05-04 20:56:34 -0500,"/t/video,/t/compsci",Does Computational Complexity Restrict Artificial Intelligence (AI) and Machine Learning?,https://www.youtube.com/watch?v=p64CMGvKneQ,/u/tf,1
+3,2017-05-03 21:16:07 -0500,"/t/elixir,/t/haskell",What's a Monad? Digging into Haskell,https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/,/u/scottnonnenberg,11
+0,2017-05-04 11:23:49 -0500,"/t/java,/t/release",Wrapping up Java 9 new Features,http://aboullaite.me/wrapping-up-java-9-new-features/,/u/gambogi,6

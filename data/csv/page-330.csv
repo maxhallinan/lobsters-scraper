@@ -1,25 +1,25 @@
-0,2017-06-13 20:08:16 -0500,"['/t/programming', '/t/reversing']",Modifying Microsoft Flight Simulator 4 to run on three immersive monitors,http://www.tinmith.net/wayne/blog/2017/06/immersive-flight-sim-4.htm,/u/calvin,3
-0,2017-06-13 09:52:22 -0500,"['/t/javascript', '/t/programming']",Using GraphCool with React Native,https://www.dailydrip.com/topics/react-native/drips/using-graphcool-with-react-native,/u/franzunix,5
-0,2017-06-13 21:43:42 -0500,"['/t/programming', '/t/security']",Pre-release of mixed criticality seL4 extensions,https://sel4.systems/pipermail/devel/2017-June/001470.html,/u/BruceM,2
-3,2017-06-12 22:36:06 -0500,"['/t/openbsd', '/t/security']",KARL - kernel address randomized link,https://marc.info/?l=openbsd-tech&m=149732026405941&w=2,/u/jcs,25
-4,2017-06-13 08:42:20 -0500,['/t/haskell'],Data Structures Are Antithetical to Functional Programming,http://degoes.net/articles/kill-data,/u/pushcx,5
-0,2017-06-13 15:06:31 -0500,"['/t/privacy', '/t/release']",Tails - Tails 3.0 is out,https://tails.boum.org/news/version_3.0/,/u/tobym,4
-0,2017-06-13 11:26:24 -0500,"['/t/practices', '/t/python', '/t/vcs']",Introducing Epithet - a python tool for managing Github labels,https://www.wordfugue.com/introducing-epithet/,/u/phildini,3
-0,2017-06-13 23:30:37 -0500,"['/t/cogsci', '/t/games', '/t/programming']",Improve Inventory-Aware Pathfinding with Map Preprocessing,http://www.gamasutra.com/blogs/DavideAversa/20170612/299814/Improve_InventoryAware_Pathfinding_with_Map_Preprocessing.php,/u/friendlysock,1
-11,2017-06-12 14:03:21 -0500,['/t/devops'],Terraform Gotchas And How We Work Around Them,http://heap.engineering/terraform-gotchas/,/u/kamalmarhubi,23
-0,2017-06-13 15:43:53 -0500,"['/t/api', '/t/philosophy', '/t/programming']",On the duality of operating system structures,https://blog.acolyer.org/2014/12/08/on-the-duality-of-operating-system-structures/,/u/friendlysock,3
-0,2017-06-13 15:33:13 -0500,['/t/ruby'],The future of the Ruby Toolbox,https://github.com/rubytoolbox/rubytoolbox/issues/1,/u/soulcutter,3
-15,2017-06-12 19:07:55 -0500,['/t/cryptocurrencies'],FreeWallet.org Steals Millions in Ethereum,https://www.reddit.com/r/CryptoCurrency/comments/6gtrmd/freewalletorg_scam_millions_stolen/,/u/pushcx,16
-5,2017-06-12 15:24:30 -0500,['/t/vim'],Vim Tips & Tricks,https://bluz71.github.io/2017/05/15/vim-tips-tricks.html,/u/soulcutter,36
-1,2017-06-13 12:20:15 -0500,['/t/ruby'],"7 ways to evaluate gems, and 1 crazy idea",https://www.saturnflyer.com/blog/7-ways-to-evaluate-gems-and-1-crazy-idea,/u/saturnflyer,1
-1,2017-06-13 14:16:49 -0500,['/t/go'],achilleasa/gopher-os,https://github.com/achilleasa/gopher-os,/u/fkr,2
-5,2017-06-12 14:23:28 -0500,"['/t/finance', '/t/math']",Hedging Bets,http://angersock.com/blog/2017/06/12/hedging-bets,/u/friendlysock,16
-0,2017-06-13 14:55:51 -0500,['/t/security'],Using CORS policies to implement CSRF protection,https://mixmax.com/blog/modern-csrf,/u/wgx,2
-0,2017-06-13 07:45:59 -0500,['/t/crypto'],Is Symmetric Security Solved?,https://www.cryptologie.net/article/402/is-symmetric-security-solved/,/u/rain1,5
-8,2017-06-12 04:58:55 -0500,"['/t/css', '/t/web']",#c0ffee is the color,http://c0ffee.surge.sh/,/u/asfgda,75
-1,2017-06-13 09:24:39 -0500,['/t/web'],"Wah, a slightly higher level language for WebAssembly, with a reference compiler in Clojure",https://macwright.org/2017/05/20/wah-and-wasm.html,/u/mpron,3
-4,2017-06-12 12:08:27 -0500,"['/t/api', '/t/c++', '/t/graphics', '/t/linux', '/t/mac', '/t/windows']",New C++ library makes it easy to plot cool 2D looking charts,https://github.com/madplotlib/madplotlib,/u/karlphillip,17
-0,2017-06-13 10:41:06 -0500,['/t/linux'],Smarter half tiling in GNOME Shell/Mutter,https://feaneron.com/2017/06/13/smarter-half-tiling-in-gnome-shellmutter/,/u/rodolfo,3
-3,2017-06-13 02:49:51 -0500,"['/t/slides', '/t/distributed', '/t/scaling']",Understanding Serverless Architectures,https://speakerdeck.com/dawny33/understanding-serverless-architectures,/u/Dawny33,2
-0,2017-06-13 12:38:19 -0500,"['/t/video', '/t/hardware', '/t/historical']","Sir Robin Saxby, first ARM CEO and Chairman",https://www.youtube.com/watch?v=FO5PsAY5aaI,/u/adaszko,2
-0,2017-06-13 09:35:56 -0500,['/t/ruby'],Rails Helper Testing Made Simple,http://chriskottom.com/blog/2017/06/rails-helper-testing-made-simple,/u/pushcx,3
+0,2017-06-13 20:08:16 -0500,"/t/programming,/t/reversing",Modifying Microsoft Flight Simulator 4 to run on three immersive monitors,http://www.tinmith.net/wayne/blog/2017/06/immersive-flight-sim-4.htm,/u/calvin,3
+0,2017-06-13 09:52:22 -0500,"/t/javascript,/t/programming",Using GraphCool with React Native,https://www.dailydrip.com/topics/react-native/drips/using-graphcool-with-react-native,/u/franzunix,5
+0,2017-06-13 21:43:42 -0500,"/t/programming,/t/security",Pre-release of mixed criticality seL4 extensions,https://sel4.systems/pipermail/devel/2017-June/001470.html,/u/BruceM,2
+3,2017-06-12 22:36:06 -0500,"/t/openbsd,/t/security",KARL - kernel address randomized link,https://marc.info/?l=openbsd-tech&m=149732026405941&w=2,/u/jcs,25
+4,2017-06-13 08:42:20 -0500,/t/haskell,Data Structures Are Antithetical to Functional Programming,http://degoes.net/articles/kill-data,/u/pushcx,5
+0,2017-06-13 15:06:31 -0500,"/t/privacy,/t/release",Tails - Tails 3.0 is out,https://tails.boum.org/news/version_3.0/,/u/tobym,4
+0,2017-06-13 11:26:24 -0500,"/t/practices,/t/python,/t/vcs",Introducing Epithet - a python tool for managing Github labels,https://www.wordfugue.com/introducing-epithet/,/u/phildini,3
+0,2017-06-13 23:30:37 -0500,"/t/cogsci,/t/games,/t/programming",Improve Inventory-Aware Pathfinding with Map Preprocessing,http://www.gamasutra.com/blogs/DavideAversa/20170612/299814/Improve_InventoryAware_Pathfinding_with_Map_Preprocessing.php,/u/friendlysock,1
+11,2017-06-12 14:03:21 -0500,/t/devops,Terraform Gotchas And How We Work Around Them,http://heap.engineering/terraform-gotchas/,/u/kamalmarhubi,23
+0,2017-06-13 15:43:53 -0500,"/t/api,/t/philosophy,/t/programming",On the duality of operating system structures,https://blog.acolyer.org/2014/12/08/on-the-duality-of-operating-system-structures/,/u/friendlysock,3
+0,2017-06-13 15:33:13 -0500,/t/ruby,The future of the Ruby Toolbox,https://github.com/rubytoolbox/rubytoolbox/issues/1,/u/soulcutter,3
+15,2017-06-12 19:07:55 -0500,/t/cryptocurrencies,FreeWallet.org Steals Millions in Ethereum,https://www.reddit.com/r/CryptoCurrency/comments/6gtrmd/freewalletorg_scam_millions_stolen/,/u/pushcx,16
+5,2017-06-12 15:24:30 -0500,/t/vim,Vim Tips & Tricks,https://bluz71.github.io/2017/05/15/vim-tips-tricks.html,/u/soulcutter,36
+1,2017-06-13 12:20:15 -0500,/t/ruby,"7 ways to evaluate gems, and 1 crazy idea",https://www.saturnflyer.com/blog/7-ways-to-evaluate-gems-and-1-crazy-idea,/u/saturnflyer,1
+1,2017-06-13 14:16:49 -0500,/t/go,achilleasa/gopher-os,https://github.com/achilleasa/gopher-os,/u/fkr,2
+5,2017-06-12 14:23:28 -0500,"/t/finance,/t/math",Hedging Bets,http://angersock.com/blog/2017/06/12/hedging-bets,/u/friendlysock,16
+0,2017-06-13 14:55:51 -0500,/t/security,Using CORS policies to implement CSRF protection,https://mixmax.com/blog/modern-csrf,/u/wgx,2
+0,2017-06-13 07:45:59 -0500,/t/crypto,Is Symmetric Security Solved?,https://www.cryptologie.net/article/402/is-symmetric-security-solved/,/u/rain1,5
+8,2017-06-12 04:58:55 -0500,"/t/css,/t/web",#c0ffee is the color,http://c0ffee.surge.sh/,/u/asfgda,75
+1,2017-06-13 09:24:39 -0500,/t/web,"Wah, a slightly higher level language for WebAssembly, with a reference compiler in Clojure",https://macwright.org/2017/05/20/wah-and-wasm.html,/u/mpron,3
+4,2017-06-12 12:08:27 -0500,"/t/api,/t/c++,/t/graphics,/t/linux,/t/mac,/t/windows",New C++ library makes it easy to plot cool 2D looking charts,https://github.com/madplotlib/madplotlib,/u/karlphillip,17
+0,2017-06-13 10:41:06 -0500,/t/linux,Smarter half tiling in GNOME Shell/Mutter,https://feaneron.com/2017/06/13/smarter-half-tiling-in-gnome-shellmutter/,/u/rodolfo,3
+3,2017-06-13 02:49:51 -0500,"/t/slides,/t/distributed,/t/scaling",Understanding Serverless Architectures,https://speakerdeck.com/dawny33/understanding-serverless-architectures,/u/Dawny33,2
+0,2017-06-13 12:38:19 -0500,"/t/video,/t/hardware,/t/historical","Sir Robin Saxby, first ARM CEO and Chairman",https://www.youtube.com/watch?v=FO5PsAY5aaI,/u/adaszko,2
+0,2017-06-13 09:35:56 -0500,/t/ruby,Rails Helper Testing Made Simple,http://chriskottom.com/blog/2017/06/rails-helper-testing-made-simple,/u/pushcx,3

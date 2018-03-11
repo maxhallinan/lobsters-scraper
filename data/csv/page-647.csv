@@ -1,25 +1,25 @@
-0,2016-09-29 01:18:22 -0500,"['/t/debugging', '/t/python']","Python: hash, id and Dictionary Order (2013)",http://amir.rachum.com/blog/2013/07/03/python-hash-id-and-dictionary-order/,/u/AmirRachum,2
-2,2016-09-28 21:06:15 -0500,['/t/visualization'],Urban heat islands & street trees in Philadelphia,http://urbanspatialanalysis.com/urban-heat-islands-street-trees-in-philadelphia/,/u/pushcx,6
-2,2016-09-28 19:23:42 -0500,['/t/javascript'],I Promise this was a bad idea,https://korynunn.wordpress.com/2016/09/19/i-promise-this-was-a-bad-idea/,/u/korynunn,2
-4,2016-09-28 22:38:41 -0500,['/t/ask'],How would you call a (real) number within the 0‥1 interval?,http://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive,/u/sebastien,10
-0,2016-09-28 15:26:45 -0500,"['/t/show', '/t/devops', '/t/go', '/t/programming']",envjson: Config Checking for 12 Factor Apps,http://sigusr2.net/envjson.html,/u/apg,6
-0,2016-09-29 01:20:35 -0500,['/t/cogsci'],Concise Visual Summary of Deep Learning Architectures,http://www.datasciencecentral.com/profiles/blogs/concise-visual-summary-of-deep-learning-architectures,/u/Dawny33,2
-0,2016-09-28 18:32:05 -0500,['/t/databases'],Evolutionary Database Design,http://martinfowler.com/articles/evodb.html,/u/pushcx,5
-7,2016-09-28 16:29:13 -0500,"['/t/compilers', '/t/culture', '/t/law']",Theo de Raadt on LLVM license change,https://marc.info/?l=openbsd-misc&m=147503691302850&w=2,/u/calvin,12
-0,2016-09-28 21:53:51 -0500,"['/t/compsci', '/t/haskell']",Dependent Types At Work,http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf,/u/pushcx,3
-2,2016-09-28 14:28:55 -0500,"['/t/audio', '/t/historical']","The creation of the THX ""Deep Note"" (2005)",http://musicthing.blogspot.com/2005/05/tiny-music-makers-pt-3-thx-sound.html,/u/mechazoidal,6
-0,2016-09-28 18:38:44 -0500,"['/t/crypto', '/t/security']",Crypto Classics: Wiener's RSA Attack,https://sagi.io/2016/04/crypto-classics-wieners-rsa-attack/,/u/sagi,2
-0,2016-09-28 04:12:30 -0500,"['/t/elm', '/t/web']",Elm Is The New Rails by Giles Bowkett,http://gilesbowkett.blogspot.com/2016/09/elm-is-new-rails.html,/u/romanzolotarev,22
-2,2016-09-28 08:44:44 -0500,['/t/networking'],CIDR subnet mask cheatsheet,https://oav.net/mirrors/cidr.html,/u/jeremy,9
-4,2016-09-28 10:08:03 -0500,['/t/c'],The Ave Mail Client,https://ave.handmade.network/blogs/p/1551#8745,/u/pushcx,9
-0,2016-09-28 13:35:41 -0500,['/t/ruby'],Concurrency in Ruby 3 with Guilds,http://olivierlacan.com/posts/concurrency-in-ruby-3-with-guilds/,/u/olivierlacan,3
-0,2016-09-28 22:50:05 -0500,"['/t/audio', '/t/compilers', '/t/programming']",Andreas Stefik on the state of language research and evidence,https://www.functionalgeekery.com/episode-55-andreas-stefik/,/u/unbalancedparentheses,1
-0,2016-09-28 12:05:17 -0500,"['/t/law', '/t/math']",Deprecating May’s Theorem,https://groupincome.org/2016/09/deprecating-mays-theorem/,/u/Don_Pellegrino,5
-2,2016-09-28 07:15:31 -0500,"['/t/javascript', '/t/release', '/t/visualization']",Meet Leaflet 1.0,http://leafletjs.com/2016/09/27/leaflet-1.0-final.html,/u/mpasternacki,6
-1,2016-09-28 09:13:53 -0500,['/t/javascript'],From Callback to Future -> Functor -> Monad (2015),https://hackernoon.com/from-callback-to-future-functor-monad-6c86d9c16cb5,/u/magikid,4
-0,2016-09-28 14:06:10 -0500,"['/t/release', '/t/web']",Thimble by Mozilla - An online code editor for learners & educators.,https://thimble.mozilla.org/en-US,/u/flyingfisch,3
-1,2016-09-28 10:28:26 -0500,"['/t/show', '/t/python']",Using f-strings(PEP 498) style literal string interpolation without Python 3.6.,https://github.com/damnever/fmt,/u/xcg,3
-0,2016-09-28 14:22:23 -0500,"['/t/graphics', '/t/web']",SVG has more potential,http://madebymike.com.au/writing/svg-has-more-potential/,/u/flyingfisch,2
-0,2016-09-28 12:59:15 -0500,"['/t/video', '/t/scaling']",GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney,https://www.youtube.com/watch?v=kb-m2fasdDY,/u/tallgeoff,2
-5,2016-09-27 10:57:43 -0500,['/t/practices'],Is developer compensation becoming bimodal?,http://danluu.com/bimodal-compensation/,/u/soulcutter,21
-0,2016-09-28 09:22:40 -0500,"['/t/security', '/t/web']",Defending Against Hackers Took a Back Seat at Yahoo,http://www.nytimes.com/2016/09/29/technology/yahoo-data-breach-hacking.html,/u/zg,3
+0,2016-09-29 01:18:22 -0500,"/t/debugging,/t/python","Python: hash, id and Dictionary Order (2013)",http://amir.rachum.com/blog/2013/07/03/python-hash-id-and-dictionary-order/,/u/AmirRachum,2
+2,2016-09-28 21:06:15 -0500,/t/visualization,Urban heat islands & street trees in Philadelphia,http://urbanspatialanalysis.com/urban-heat-islands-street-trees-in-philadelphia/,/u/pushcx,6
+2,2016-09-28 19:23:42 -0500,/t/javascript,I Promise this was a bad idea,https://korynunn.wordpress.com/2016/09/19/i-promise-this-was-a-bad-idea/,/u/korynunn,2
+4,2016-09-28 22:38:41 -0500,/t/ask,How would you call a (real) number within the 0‥1 interval?,http://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive,/u/sebastien,10
+0,2016-09-28 15:26:45 -0500,"/t/show,/t/devops,/t/go,/t/programming",envjson: Config Checking for 12 Factor Apps,http://sigusr2.net/envjson.html,/u/apg,6
+0,2016-09-29 01:20:35 -0500,/t/cogsci,Concise Visual Summary of Deep Learning Architectures,http://www.datasciencecentral.com/profiles/blogs/concise-visual-summary-of-deep-learning-architectures,/u/Dawny33,2
+0,2016-09-28 18:32:05 -0500,/t/databases,Evolutionary Database Design,http://martinfowler.com/articles/evodb.html,/u/pushcx,5
+7,2016-09-28 16:29:13 -0500,"/t/compilers,/t/culture,/t/law",Theo de Raadt on LLVM license change,https://marc.info/?l=openbsd-misc&m=147503691302850&w=2,/u/calvin,12
+0,2016-09-28 21:53:51 -0500,"/t/compsci,/t/haskell",Dependent Types At Work,http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf,/u/pushcx,3
+2,2016-09-28 14:28:55 -0500,"/t/audio,/t/historical","The creation of the THX ""Deep Note"" (2005)",http://musicthing.blogspot.com/2005/05/tiny-music-makers-pt-3-thx-sound.html,/u/mechazoidal,6
+0,2016-09-28 18:38:44 -0500,"/t/crypto,/t/security",Crypto Classics: Wiener's RSA Attack,https://sagi.io/2016/04/crypto-classics-wieners-rsa-attack/,/u/sagi,2
+0,2016-09-28 04:12:30 -0500,"/t/elm,/t/web",Elm Is The New Rails by Giles Bowkett,http://gilesbowkett.blogspot.com/2016/09/elm-is-new-rails.html,/u/romanzolotarev,22
+2,2016-09-28 08:44:44 -0500,/t/networking,CIDR subnet mask cheatsheet,https://oav.net/mirrors/cidr.html,/u/jeremy,9
+4,2016-09-28 10:08:03 -0500,/t/c,The Ave Mail Client,https://ave.handmade.network/blogs/p/1551#8745,/u/pushcx,9
+0,2016-09-28 13:35:41 -0500,/t/ruby,Concurrency in Ruby 3 with Guilds,http://olivierlacan.com/posts/concurrency-in-ruby-3-with-guilds/,/u/olivierlacan,3
+0,2016-09-28 22:50:05 -0500,"/t/audio,/t/compilers,/t/programming",Andreas Stefik on the state of language research and evidence,https://www.functionalgeekery.com/episode-55-andreas-stefik/,/u/unbalancedparentheses,1
+0,2016-09-28 12:05:17 -0500,"/t/law,/t/math",Deprecating May’s Theorem,https://groupincome.org/2016/09/deprecating-mays-theorem/,/u/Don_Pellegrino,5
+2,2016-09-28 07:15:31 -0500,"/t/javascript,/t/release,/t/visualization",Meet Leaflet 1.0,http://leafletjs.com/2016/09/27/leaflet-1.0-final.html,/u/mpasternacki,6
+1,2016-09-28 09:13:53 -0500,/t/javascript,From Callback to Future -> Functor -> Monad (2015),https://hackernoon.com/from-callback-to-future-functor-monad-6c86d9c16cb5,/u/magikid,4
+0,2016-09-28 14:06:10 -0500,"/t/release,/t/web",Thimble by Mozilla - An online code editor for learners & educators.,https://thimble.mozilla.org/en-US,/u/flyingfisch,3
+1,2016-09-28 10:28:26 -0500,"/t/show,/t/python",Using f-strings(PEP 498) style literal string interpolation without Python 3.6.,https://github.com/damnever/fmt,/u/xcg,3
+0,2016-09-28 14:22:23 -0500,"/t/graphics,/t/web",SVG has more potential,http://madebymike.com.au/writing/svg-has-more-potential/,/u/flyingfisch,2
+0,2016-09-28 12:59:15 -0500,"/t/video,/t/scaling",GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney,https://www.youtube.com/watch?v=kb-m2fasdDY,/u/tallgeoff,2
+5,2016-09-27 10:57:43 -0500,/t/practices,Is developer compensation becoming bimodal?,http://danluu.com/bimodal-compensation/,/u/soulcutter,21
+0,2016-09-28 09:22:40 -0500,"/t/security,/t/web",Defending Against Hackers Took a Back Seat at Yahoo,http://www.nytimes.com/2016/09/29/technology/yahoo-data-breach-hacking.html,/u/zg,3

@@ -1,25 +1,25 @@
-9,2016-01-30 11:19:05 -0600,['/t/compsci'],Alist vs. hash-table,http://funcall.blogspot.com/2016/01/alist-vs-hash-table.html,/u/antifuchs,38
-0,2016-01-31 03:57:12 -0600,['/t/compsci'],Hamming Codes,http://datagenetics.com/blog/january42016/index.html,/u/rbn,10
-0,2016-01-31 13:26:16 -0600,['/t/hardware'],Building an Oscilloscope,http://blog.digital-scurf.org/posts/building-an-oscilloscope/,/u/JordiGH,3
-0,2016-01-31 07:26:09 -0600,"['/t/databases', '/t/python']",An overview on using PostgreSQL with Python,http://www.fullstackpython.com/postgresql.html,/u/av,5
-2,2016-01-30 23:24:41 -0600,"['/t/go', '/t/networking', '/t/privacy']",MeshBird - distributed private networking,http://meshbird.com/,/u/tf,9
-1,2016-01-30 19:51:49 -0600,"['/t/javascript', '/t/ml']",Incrementality and the web,https://blogs.janestreet.com/incrementality-and-the-web/,/u/yminsky,9
-0,2016-01-31 07:57:21 -0600,['/t/swift'],Swift API Design Guidelines,https://swift.org/documentation/api-design-guidelines/,/u/av,4
-2,2016-01-30 16:03:35 -0600,['/t/design'],Bulma: a modern CSS framework,http://bulma.io/,/u/355E3B,12
-0,2016-01-30 21:11:29 -0600,"['/t/assembly', '/t/science']",Apollo 11 source code,http://www.ibiblio.org/apollo/listings/Luminary099/MAIN.agc.html,/u/calvin,9
-0,2016-01-31 07:55:46 -0600,"['/t/security', '/t/web']",Get HTTPS for free!,https://gethttpsforfree.com,/u/av,1
-0,2016-01-31 04:13:09 -0600,['/t/compilers'],WebKit B3: Bare Bones Backend,https://webkit.org/docs/b3/,/u/sanxiyn,3
-0,2016-01-30 14:27:01 -0600,"['/t/browsers', '/t/games']",The Secret Feature of EM-DOSBOX on Internet Archive,http://ascii.textfiles.com/archives/4924,/u/pushcx,13
-0,2016-01-30 14:53:53 -0600,"['/t/video', '/t/haskell']",A primer for commercial Haskell programming,https://www.youtube.com/watch?v=ywOvfjpbYR4,/u/pushcx,10
-6,2016-01-31 07:40:10 -0600,"['/t/culture', '/t/rant']",Parents are Dumb and Kids Don’t Know Anything About Computers Anymore,https://medium.com/@seibelj/parents-are-dumb-and-kids-don-t-know-anything-about-computers-anymore-b59e974d052c,/u/av,5
-1,2016-01-30 19:41:56 -0600,['/t/security'],OS X Mass Pwning using BetterCap and the Sparkle Updater Vulnerability,https://www.evilsocket.net/2016/01/30/osx-mass-pwning-using-bettercap-and-the-sparkle-updater-vulnerability/,/u/itistoday,5
-5,2016-01-30 07:29:02 -0600,['/t/haskell'],Our Functional Future or: How I Learned to Stop Worrying and Love Haskell,https://blog.fugue.co/2016-01-27-our-functional-future-or-how-i-learned-to-stop-worrying-and-love-haskell.html,/u/pushcx,13
-0,2016-01-30 10:49:00 -0600,['/t/javascript'],The final feature set of ECMAScript 2016 (ES7),http://www.2ality.com/2016/01/ecmascript-2016.html,/u/joshuacc,8
-0,2016-01-30 20:52:20 -0600,"['/t/hardware', '/t/math', '/t/python']","Self-driving RC Car with Python, OpenCV Neural Network, and Haar-Cascade Classifiers",https://zhengludwig.wordpress.com/projects/self-driving-rc-car/,/u/Curiositry,2
-2,2016-01-30 03:42:11 -0600,['/t/practices'],Making 20% Time Work,http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html,/u/jasper,11
-2,2016-01-29 20:08:11 -0600,"['/t/c', '/t/emacs']",Removing support for Emacs unexec from Glibc,https://lwn.net/SubscriberLink/673724/d9809e674cde21df/,/u/calvin,24
-1,2016-01-30 00:28:16 -0600,"['/t/mac', '/t/security']",There's a lot of vulnerable OS X applications out there.,https://vulnsec.com/2016/osx-apps-vulnerabilities/,/u/antifuchs,14
-0,2016-01-30 12:48:57 -0600,"['/t/go', '/t/release']",google/seesaw,https://github.com/google/seesaw,/u/mulander,3
-9,2016-01-29 11:27:49 -0600,['/t/linux'],Mount efivarfs read-only · Issue #2402 · systemd/systemd,https://github.com/systemd/systemd/issues/2402,/u/mulander,23
-10,2016-01-29 12:42:10 -0600,['/t/practices'],"Developer Interviews are Broken, and You Can't Fix It",http://www.gayle.com/blog/2015/6/10/developer-interviews-are-broken-and-you-cant-fix-it,/u/gkop,19
-4,2016-01-29 19:25:02 -0600,['/t/math'],How many ways can you arrange 128 tennis balls? Researchers solve an apparently impossible problem,http://www.cam.ac.uk/research/news/how-many-ways-can-you-arrange-128-tennis-balls-researchers-solve-an-apparently-impossible-problem,/u/jitterted,11
+9,2016-01-30 11:19:05 -0600,/t/compsci,Alist vs. hash-table,http://funcall.blogspot.com/2016/01/alist-vs-hash-table.html,/u/antifuchs,38
+0,2016-01-31 03:57:12 -0600,/t/compsci,Hamming Codes,http://datagenetics.com/blog/january42016/index.html,/u/rbn,10
+0,2016-01-31 13:26:16 -0600,/t/hardware,Building an Oscilloscope,http://blog.digital-scurf.org/posts/building-an-oscilloscope/,/u/JordiGH,3
+0,2016-01-31 07:26:09 -0600,"/t/databases,/t/python",An overview on using PostgreSQL with Python,http://www.fullstackpython.com/postgresql.html,/u/av,5
+2,2016-01-30 23:24:41 -0600,"/t/go,/t/networking,/t/privacy",MeshBird - distributed private networking,http://meshbird.com/,/u/tf,9
+1,2016-01-30 19:51:49 -0600,"/t/javascript,/t/ml",Incrementality and the web,https://blogs.janestreet.com/incrementality-and-the-web/,/u/yminsky,9
+0,2016-01-31 07:57:21 -0600,/t/swift,Swift API Design Guidelines,https://swift.org/documentation/api-design-guidelines/,/u/av,4
+2,2016-01-30 16:03:35 -0600,/t/design,Bulma: a modern CSS framework,http://bulma.io/,/u/355E3B,12
+0,2016-01-30 21:11:29 -0600,"/t/assembly,/t/science",Apollo 11 source code,http://www.ibiblio.org/apollo/listings/Luminary099/MAIN.agc.html,/u/calvin,9
+0,2016-01-31 07:55:46 -0600,"/t/security,/t/web",Get HTTPS for free!,https://gethttpsforfree.com,/u/av,1
+0,2016-01-31 04:13:09 -0600,/t/compilers,WebKit B3: Bare Bones Backend,https://webkit.org/docs/b3/,/u/sanxiyn,3
+0,2016-01-30 14:27:01 -0600,"/t/browsers,/t/games",The Secret Feature of EM-DOSBOX on Internet Archive,http://ascii.textfiles.com/archives/4924,/u/pushcx,13
+0,2016-01-30 14:53:53 -0600,"/t/video,/t/haskell",A primer for commercial Haskell programming,https://www.youtube.com/watch?v=ywOvfjpbYR4,/u/pushcx,10
+6,2016-01-31 07:40:10 -0600,"/t/culture,/t/rant",Parents are Dumb and Kids Don’t Know Anything About Computers Anymore,https://medium.com/@seibelj/parents-are-dumb-and-kids-don-t-know-anything-about-computers-anymore-b59e974d052c,/u/av,5
+1,2016-01-30 19:41:56 -0600,/t/security,OS X Mass Pwning using BetterCap and the Sparkle Updater Vulnerability,https://www.evilsocket.net/2016/01/30/osx-mass-pwning-using-bettercap-and-the-sparkle-updater-vulnerability/,/u/itistoday,5
+5,2016-01-30 07:29:02 -0600,/t/haskell,Our Functional Future or: How I Learned to Stop Worrying and Love Haskell,https://blog.fugue.co/2016-01-27-our-functional-future-or-how-i-learned-to-stop-worrying-and-love-haskell.html,/u/pushcx,13
+0,2016-01-30 10:49:00 -0600,/t/javascript,The final feature set of ECMAScript 2016 (ES7),http://www.2ality.com/2016/01/ecmascript-2016.html,/u/joshuacc,8
+0,2016-01-30 20:52:20 -0600,"/t/hardware,/t/math,/t/python","Self-driving RC Car with Python, OpenCV Neural Network, and Haar-Cascade Classifiers",https://zhengludwig.wordpress.com/projects/self-driving-rc-car/,/u/Curiositry,2
+2,2016-01-30 03:42:11 -0600,/t/practices,Making 20% Time Work,http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html,/u/jasper,11
+2,2016-01-29 20:08:11 -0600,"/t/c,/t/emacs",Removing support for Emacs unexec from Glibc,https://lwn.net/SubscriberLink/673724/d9809e674cde21df/,/u/calvin,24
+1,2016-01-30 00:28:16 -0600,"/t/mac,/t/security",There's a lot of vulnerable OS X applications out there.,https://vulnsec.com/2016/osx-apps-vulnerabilities/,/u/antifuchs,14
+0,2016-01-30 12:48:57 -0600,"/t/go,/t/release",google/seesaw,https://github.com/google/seesaw,/u/mulander,3
+9,2016-01-29 11:27:49 -0600,/t/linux,Mount efivarfs read-only · Issue #2402 · systemd/systemd,https://github.com/systemd/systemd/issues/2402,/u/mulander,23
+10,2016-01-29 12:42:10 -0600,/t/practices,"Developer Interviews are Broken, and You Can't Fix It",http://www.gayle.com/blog/2015/6/10/developer-interviews-are-broken-and-you-cant-fix-it,/u/gkop,19
+4,2016-01-29 19:25:02 -0600,/t/math,How many ways can you arrange 128 tennis balls? Researchers solve an apparently impossible problem,http://www.cam.ac.uk/research/news/how-many-ways-can-you-arrange-128-tennis-balls-researchers-solve-an-apparently-impossible-problem,/u/jitterted,11

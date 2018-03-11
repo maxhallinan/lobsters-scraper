@@ -1,25 +1,25 @@
-0,2017-02-03 10:16:03 -0600,"['/t/scaling', '/t/vcs']",Fast CDN-based repository clones on Bitbucket Cloud,https://developer.atlassian.com/blog/2017/02/bitbucket-CDN-cloning/,/u/ngoldbaum,6
-1,2017-02-03 03:23:15 -0600,"['/t/c', '/t/linux']",libuEv - Simple event loop for Linux,https://github.com/troglobit/libuev,/u/hawski,8
-19,2017-02-02 09:54:35 -0600,['/t/design'],Apple’s Icons Have That Shape for a Very Good Reason,https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14,/u/antifuchs,32
-3,2017-02-03 02:10:44 -0600,"['/t/erlang', '/t/haskell']",Introducing PureScript Erlang backend,http://nwolverson.uk/devlog/2016/08/01/introducing-purescript-erlang.html,/u/lthms,10
-0,2017-02-03 15:23:09 -0600,['/t/mac'],Identifying Deleted File References in the Trash (.DS_Store) Files - Part 1,http://ponderthebits.com/2017/01/mac-dumpster-diving-identifying-deleted-file-references-in-the-trash-ds_store-files-part-1/,/u/fcbsd,2
-2,2017-02-03 07:50:17 -0600,['/t/browsers'],"Mozilla gives up on last vestiges of Firefox OS, lays off 50",https://arstechnica.com/gadgets/2017/02/mozilla-ends-firefox-os-connected-device-ambitions-lays-off-50/,/u/flyingfisch,3
-5,2017-02-02 14:18:42 -0600,"['/t/crypto', '/t/ios', '/t/law', '/t/privacy', '/t/security']",The Guardian v WhatsApp,http://thlog.anfedorov.com/post/guardian-v-whatsapp/,/u/anfedorov,13
-1,2017-02-03 07:48:35 -0600,"['/t/hardware', '/t/science']",Graphene? Soybean!,http://hackaday.com/2017/02/03/graphene-soybean/,/u/flyingfisch,4
-1,2017-02-03 07:09:44 -0600,"['/t/devops', '/t/javascript']","How to build, test and deploy React Applications in 2017",https://blog.sqreen.io/how-to-build-test-and-deploy-react-applications/,/u/PaulBlei,3
-0,2017-02-03 12:41:41 -0600,"['/t/video', '/t/graphics', '/t/programming']",Game Engine Programming playlist,http://www.youtube.com/playlist?list=PLmV5I2fxaiCI9IAdFmGChKbIbenqRMi6Z,/u/mikejsavage,2
-2,2017-02-02 10:29:39 -0600,"['/t/go', '/t/security']",Announcing gopass - The 'pass' compatible password manager for teams,https://www.justwatch.com/blog/post/announcing-gopass/,/u/endymi0n,18
-22,2017-02-02 12:17:17 -0600,"['/t/elm', '/t/haskell', '/t/ruby']",The Tragedy of Maybe and Ruby,http://bendyworks.com/blog/tragedy-maybe-monad-ruby,/u/listrophy,8
-0,2017-02-03 19:22:53 -0600,"['/t/culture', '/t/privacy', '/t/security']",Lavabit is back after 2013 anti-subpoena shutdown,https://lavabit.com/explain-lavabit.html,/u/flux,1
-0,2017-02-03 06:10:47 -0600,"['/t/javascript', '/t/web']",Angular dragtable,https://silvestarbistrovic.from.hr/en/articles/angular-dragtable/,/u/starbist,1
-1,2017-02-02 22:22:17 -0600,['/t/science'],Physicists patent detonation technique to mass-produce graphene,https://m.phys.org/news/2017-01-physicists-patent-detonation-technique-mass-produce.html,/u/serialx,6
-0,2017-02-02 16:32:03 -0600,"['/t/video', '/t/games', '/t/programming']",Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy,https://www.youtube.com/watch?v=kSKeWH4TY9Y,/u/jcs,12
-0,2017-02-02 16:15:59 -0600,"['/t/practices', '/t/programming']",Composition and Diamonds,https://www.arrdem.com/2017/02/02/composition/,/u/arrdem,6
-0,2017-02-02 16:06:40 -0600,"['/t/elm', '/t/web']",Using Elm in Production at Pivotal Tracker,https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/,/u/djm,11
-1,2017-02-03 03:05:43 -0600,"['/t/security', '/t/windows']",Detecting In-Memory Mimikats,https://securityriskadvisors.com/blog/post/detecting-in-memory-mimikatz/,/u/noelle,1
-9,2017-02-02 11:01:48 -0600,['/t/programming'],"Goto, multiple inheritance, eval, and recursion—They still have use cases",https://techbeacon.com/revisiting-forgotten-code-constructs,/u/mpron,6
-0,2017-02-02 20:06:57 -0600,['/t/math'],Mathematicians Chase Moonshine’s Shadow,https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/,/u/chadski,4
-0,2017-02-02 14:55:30 -0600,['/t/science'],Brain–Computer Interface–Based Communication in the Completely Locked-In State,http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002593,/u/flyingfisch,7
-13,2017-02-02 04:43:56 -0600,"['/t/c', '/t/linux']",Kicking Off Budgie 11,https://budgie-desktop.org/2017/01/25/kicking-off-budgie-11/,/u/jackivan88,11
-0,2017-02-02 09:37:48 -0600,['/t/haskell'],Haskell Type Equality Constraints,http://blog.infinitenegativeutility.com/2017/1/haskell-type-equality-constraints,/u/passy,11
-3,2017-02-02 04:55:25 -0600,['/t/javascript'],How ES2017's async functions are related to callbacks and closures,https://docs.google.com/presentation/d/1aUv14ILVzLDfPzLhhPXPd6wTexur7Wp1JwGEEJ1zyHU/edit?usp=sharing,/u/stas,5
+0,2017-02-03 10:16:03 -0600,"/t/scaling,/t/vcs",Fast CDN-based repository clones on Bitbucket Cloud,https://developer.atlassian.com/blog/2017/02/bitbucket-CDN-cloning/,/u/ngoldbaum,6
+1,2017-02-03 03:23:15 -0600,"/t/c,/t/linux",libuEv - Simple event loop for Linux,https://github.com/troglobit/libuev,/u/hawski,8
+19,2017-02-02 09:54:35 -0600,/t/design,Apple’s Icons Have That Shape for a Very Good Reason,https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14,/u/antifuchs,32
+3,2017-02-03 02:10:44 -0600,"/t/erlang,/t/haskell",Introducing PureScript Erlang backend,http://nwolverson.uk/devlog/2016/08/01/introducing-purescript-erlang.html,/u/lthms,10
+0,2017-02-03 15:23:09 -0600,/t/mac,Identifying Deleted File References in the Trash (.DS_Store) Files - Part 1,http://ponderthebits.com/2017/01/mac-dumpster-diving-identifying-deleted-file-references-in-the-trash-ds_store-files-part-1/,/u/fcbsd,2
+2,2017-02-03 07:50:17 -0600,/t/browsers,"Mozilla gives up on last vestiges of Firefox OS, lays off 50",https://arstechnica.com/gadgets/2017/02/mozilla-ends-firefox-os-connected-device-ambitions-lays-off-50/,/u/flyingfisch,3
+5,2017-02-02 14:18:42 -0600,"/t/crypto,/t/ios,/t/law,/t/privacy,/t/security",The Guardian v WhatsApp,http://thlog.anfedorov.com/post/guardian-v-whatsapp/,/u/anfedorov,13
+1,2017-02-03 07:48:35 -0600,"/t/hardware,/t/science",Graphene? Soybean!,http://hackaday.com/2017/02/03/graphene-soybean/,/u/flyingfisch,4
+1,2017-02-03 07:09:44 -0600,"/t/devops,/t/javascript","How to build, test and deploy React Applications in 2017",https://blog.sqreen.io/how-to-build-test-and-deploy-react-applications/,/u/PaulBlei,3
+0,2017-02-03 12:41:41 -0600,"/t/video,/t/graphics,/t/programming",Game Engine Programming playlist,http://www.youtube.com/playlist?list=PLmV5I2fxaiCI9IAdFmGChKbIbenqRMi6Z,/u/mikejsavage,2
+2,2017-02-02 10:29:39 -0600,"/t/go,/t/security",Announcing gopass - The 'pass' compatible password manager for teams,https://www.justwatch.com/blog/post/announcing-gopass/,/u/endymi0n,18
+22,2017-02-02 12:17:17 -0600,"/t/elm,/t/haskell,/t/ruby",The Tragedy of Maybe and Ruby,http://bendyworks.com/blog/tragedy-maybe-monad-ruby,/u/listrophy,8
+0,2017-02-03 19:22:53 -0600,"/t/culture,/t/privacy,/t/security",Lavabit is back after 2013 anti-subpoena shutdown,https://lavabit.com/explain-lavabit.html,/u/flux,1
+0,2017-02-03 06:10:47 -0600,"/t/javascript,/t/web",Angular dragtable,https://silvestarbistrovic.from.hr/en/articles/angular-dragtable/,/u/starbist,1
+1,2017-02-02 22:22:17 -0600,/t/science,Physicists patent detonation technique to mass-produce graphene,https://m.phys.org/news/2017-01-physicists-patent-detonation-technique-mass-produce.html,/u/serialx,6
+0,2017-02-02 16:32:03 -0600,"/t/video,/t/games,/t/programming",Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy,https://www.youtube.com/watch?v=kSKeWH4TY9Y,/u/jcs,12
+0,2017-02-02 16:15:59 -0600,"/t/practices,/t/programming",Composition and Diamonds,https://www.arrdem.com/2017/02/02/composition/,/u/arrdem,6
+0,2017-02-02 16:06:40 -0600,"/t/elm,/t/web",Using Elm in Production at Pivotal Tracker,https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/,/u/djm,11
+1,2017-02-03 03:05:43 -0600,"/t/security,/t/windows",Detecting In-Memory Mimikats,https://securityriskadvisors.com/blog/post/detecting-in-memory-mimikatz/,/u/noelle,1
+9,2017-02-02 11:01:48 -0600,/t/programming,"Goto, multiple inheritance, eval, and recursion—They still have use cases",https://techbeacon.com/revisiting-forgotten-code-constructs,/u/mpron,6
+0,2017-02-02 20:06:57 -0600,/t/math,Mathematicians Chase Moonshine’s Shadow,https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/,/u/chadski,4
+0,2017-02-02 14:55:30 -0600,/t/science,Brain–Computer Interface–Based Communication in the Completely Locked-In State,http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002593,/u/flyingfisch,7
+13,2017-02-02 04:43:56 -0600,"/t/c,/t/linux",Kicking Off Budgie 11,https://budgie-desktop.org/2017/01/25/kicking-off-budgie-11/,/u/jackivan88,11
+0,2017-02-02 09:37:48 -0600,/t/haskell,Haskell Type Equality Constraints,http://blog.infinitenegativeutility.com/2017/1/haskell-type-equality-constraints,/u/passy,11
+3,2017-02-02 04:55:25 -0600,/t/javascript,How ES2017's async functions are related to callbacks and closures,https://docs.google.com/presentation/d/1aUv14ILVzLDfPzLhhPXPd6wTexur7Wp1JwGEEJ1zyHU/edit?usp=sharing,/u/stas,5

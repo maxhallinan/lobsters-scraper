@@ -1,25 +1,25 @@
-0,2014-01-08 09:01:48 -0600,"['/t/pdf', '/t/programming']",Cognac: a framework for documenting and verifying the design of Cobol systems (2009),http://soft.vub.ac.be/Publications/2009/vub-prog-tr-09-02.pdf,/u/aturley,2
-0,2014-01-07 19:32:11 -0600,['/t/programming'],Lock-Based vs Lock-Free Concurrent Algorithms,http://mechanical-sympathy.blogspot.co.uk/2013/08/lock-based-vs-lock-free-concurrent.html,/u/SeanTAllen,8
-2,2014-01-07 17:16:15 -0600,['/t/assembly'],corkami - Reverse engineering & visual documentations,https://code.google.com/p/corkami/,/u/old_sound,7
-1,2014-01-07 22:17:09 -0600,"['/t/compsci', '/t/programming']",Pratt Parsers: Expression Parsing Made Easy,http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/,/u/lambda,4
-0,2014-01-07 14:28:31 -0600,"['/t/reversing', '/t/security']",In-depth malware: Unpacking the ‘lcmw’ Trojan,https://blog.skullsecurity.org/2014/in-depth-malware-unpacking-the-lcmw-trojan,/u/tobym,13
-1,2014-01-07 19:43:46 -0600,"['/t/person', '/t/unix']",UTF-8 history,http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt,/u/silentbicycle,6
-0,2014-01-07 19:23:26 -0600,"['/t/pdf', '/t/programming']",Communicating Sequential Processes,http://usingcsp.com/cspbook.pdf,/u/SeanTAllen,7
-0,2014-01-08 04:19:48 -0600,"['/t/android', '/t/ios', '/t/release']",Introducing Jelly (social-network-powered search),http://blog.jelly.co/post/72563498393/introducing-jelly,/u/stevejalim,2
-2,2014-01-07 13:55:26 -0600,"['/t/c', '/t/compsci', '/t/distributed', '/t/linux']",Ori - A Secure Distributed File System,http://ori.scs.stanford.edu/,/u/yawniek,7
-1,2014-01-07 15:23:21 -0600,['/t/linux'],CentOS Project joins forces with Red Hat,http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html,/u/trousers,7
-6,2014-01-07 16:36:25 -0600,['/t/meta'],Add a 'clojure' tag?,/s/rq6tij/add_clojure_tag,/u/lambda,13
-1,2014-01-07 13:56:09 -0600,"['/t/book', '/t/practices', '/t/web']",Thoughtbot Playbook v2,http://robots.thoughtbot.com/playbook-v2,/u/rkneufeld,8
-4,2014-01-07 09:41:58 -0600,"['/t/video', '/t/compilers', '/t/compsci', '/t/programming']",Writing a Nanopass Compiler,https://www.youtube.com/watch?v=Os7FE3J-U5Q,/u/lambda,8
-0,2014-01-07 16:27:52 -0600,"['/t/browsers', '/t/networking']",Prioritization Only Works When There's Pending Data to Prioritize,https://insouciant.org/tech/prioritization-only-works-when-theres-pending-data-to-prioritize/,/u/jcs,6
-0,2014-01-07 23:37:40 -0600,"['/t/practices', '/t/programming', '/t/virtualization']","Portable, Shareable Application Development Environments",http://glenngillen.com/thoughts/portable-shareable-development-environments,/u/glenngillen,2
-23,2014-01-07 12:09:49 -0600,"['/t/distributed', '/t/meta']",Add 'distributed systems' tag?,/s/3yfd1t/add_distributed_systems_tag,/u/cemerick,15
-0,2014-01-07 13:50:05 -0600,['/t/javascript'],gulp.js - the streaming build system,http://gulpjs.com,/u/danielsarsi,5
-0,2014-01-07 12:06:41 -0600,"['/t/pdf', '/t/distributed', '/t/programming']",Edelweiss: Automatic Storage Reclamation for Distributed Programming,http://db.cs.berkeley.edu/papers/vldb14-edelweiss.pdf,/u/cemerick,6
-2,2014-01-07 06:15:21 -0600,['/t/security'],How the NSA (may have) put a backdoor in RSA’s cryptography: A technical primer,http://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer,/u/kyle,9
-0,2014-01-07 10:54:29 -0600,['/t/python'],Solving xkcd 1313 in Python,http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb,/u/journeysquid,5
-0,2014-01-07 14:35:31 -0600,['/t/hardware'],Knights Landing Details,http://www.realworldtech.com/knights-landing-details/,/u/ajdecon,3
-0,2014-01-07 20:46:41 -0600,"['/t/pdf', '/t/cryptocurrencies']",Bitcoin Transaction Graph Analysis,http://css.csail.mit.edu/6.858/2013/projects/mfleder-mkester-spillai.pdf,/u/jm,1
-0,2014-01-07 13:46:29 -0600,['/t/web'],Why the world needs OpenStreetMap,http://blog.emacsen.net/blog/2014/01/04/why-the-world-needs-openstreetmap/,/u/jcs,3
-3,2014-01-06 21:21:51 -0600,"['/t/android', '/t/hardware', '/t/mobile']","Some of what we did at Danger (makers of the Sidekick, predecessor to Android)",https://medium.com/tech-talk/d823af31f7c,/u/robey,16
-0,2014-01-07 09:51:49 -0600,"['/t/show', '/t/java', '/t/programming', '/t/web']",Sideproject: JVine an online app for downloading Vines and converting them to animated gifs/APNG.,http://andrew.codeusa.net/post/72488717326/jvine-v2-did-someone-say-gifs,/u/andrewmd5,4
+0,2014-01-08 09:01:48 -0600,"/t/pdf,/t/programming",Cognac: a framework for documenting and verifying the design of Cobol systems (2009),http://soft.vub.ac.be/Publications/2009/vub-prog-tr-09-02.pdf,/u/aturley,2
+0,2014-01-07 19:32:11 -0600,/t/programming,Lock-Based vs Lock-Free Concurrent Algorithms,http://mechanical-sympathy.blogspot.co.uk/2013/08/lock-based-vs-lock-free-concurrent.html,/u/SeanTAllen,8
+2,2014-01-07 17:16:15 -0600,/t/assembly,corkami - Reverse engineering & visual documentations,https://code.google.com/p/corkami/,/u/old_sound,7
+1,2014-01-07 22:17:09 -0600,"/t/compsci,/t/programming",Pratt Parsers: Expression Parsing Made Easy,http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/,/u/lambda,4
+0,2014-01-07 14:28:31 -0600,"/t/reversing,/t/security",In-depth malware: Unpacking the ‘lcmw’ Trojan,https://blog.skullsecurity.org/2014/in-depth-malware-unpacking-the-lcmw-trojan,/u/tobym,13
+1,2014-01-07 19:43:46 -0600,"/t/person,/t/unix",UTF-8 history,http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt,/u/silentbicycle,6
+0,2014-01-07 19:23:26 -0600,"/t/pdf,/t/programming",Communicating Sequential Processes,http://usingcsp.com/cspbook.pdf,/u/SeanTAllen,7
+0,2014-01-08 04:19:48 -0600,"/t/android,/t/ios,/t/release",Introducing Jelly (social-network-powered search),http://blog.jelly.co/post/72563498393/introducing-jelly,/u/stevejalim,2
+2,2014-01-07 13:55:26 -0600,"/t/c,/t/compsci,/t/distributed,/t/linux",Ori - A Secure Distributed File System,http://ori.scs.stanford.edu/,/u/yawniek,7
+1,2014-01-07 15:23:21 -0600,/t/linux,CentOS Project joins forces with Red Hat,http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html,/u/trousers,7
+6,2014-01-07 16:36:25 -0600,/t/meta,Add a 'clojure' tag?,/s/rq6tij/add_clojure_tag,/u/lambda,13
+1,2014-01-07 13:56:09 -0600,"/t/book,/t/practices,/t/web",Thoughtbot Playbook v2,http://robots.thoughtbot.com/playbook-v2,/u/rkneufeld,8
+4,2014-01-07 09:41:58 -0600,"/t/video,/t/compilers,/t/compsci,/t/programming",Writing a Nanopass Compiler,https://www.youtube.com/watch?v=Os7FE3J-U5Q,/u/lambda,8
+0,2014-01-07 16:27:52 -0600,"/t/browsers,/t/networking",Prioritization Only Works When There's Pending Data to Prioritize,https://insouciant.org/tech/prioritization-only-works-when-theres-pending-data-to-prioritize/,/u/jcs,6
+0,2014-01-07 23:37:40 -0600,"/t/practices,/t/programming,/t/virtualization","Portable, Shareable Application Development Environments",http://glenngillen.com/thoughts/portable-shareable-development-environments,/u/glenngillen,2
+23,2014-01-07 12:09:49 -0600,"/t/distributed,/t/meta",Add 'distributed systems' tag?,/s/3yfd1t/add_distributed_systems_tag,/u/cemerick,15
+0,2014-01-07 13:50:05 -0600,/t/javascript,gulp.js - the streaming build system,http://gulpjs.com,/u/danielsarsi,5
+0,2014-01-07 12:06:41 -0600,"/t/pdf,/t/distributed,/t/programming",Edelweiss: Automatic Storage Reclamation for Distributed Programming,http://db.cs.berkeley.edu/papers/vldb14-edelweiss.pdf,/u/cemerick,6
+2,2014-01-07 06:15:21 -0600,/t/security,How the NSA (may have) put a backdoor in RSA’s cryptography: A technical primer,http://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer,/u/kyle,9
+0,2014-01-07 10:54:29 -0600,/t/python,Solving xkcd 1313 in Python,http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb,/u/journeysquid,5
+0,2014-01-07 14:35:31 -0600,/t/hardware,Knights Landing Details,http://www.realworldtech.com/knights-landing-details/,/u/ajdecon,3
+0,2014-01-07 20:46:41 -0600,"/t/pdf,/t/cryptocurrencies",Bitcoin Transaction Graph Analysis,http://css.csail.mit.edu/6.858/2013/projects/mfleder-mkester-spillai.pdf,/u/jm,1
+0,2014-01-07 13:46:29 -0600,/t/web,Why the world needs OpenStreetMap,http://blog.emacsen.net/blog/2014/01/04/why-the-world-needs-openstreetmap/,/u/jcs,3
+3,2014-01-06 21:21:51 -0600,"/t/android,/t/hardware,/t/mobile","Some of what we did at Danger (makers of the Sidekick, predecessor to Android)",https://medium.com/tech-talk/d823af31f7c,/u/robey,16
+0,2014-01-07 09:51:49 -0600,"/t/show,/t/java,/t/programming,/t/web",Sideproject: JVine an online app for downloading Vines and converting them to animated gifs/APNG.,http://andrew.codeusa.net/post/72488717326/jvine-v2-did-someone-say-gifs,/u/andrewmd5,4

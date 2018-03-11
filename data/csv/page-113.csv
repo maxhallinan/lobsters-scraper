@@ -1,25 +1,25 @@
-0,2017-11-30 09:00:09 -0600,"['/t/javascript', '/t/performance', '/t/web']",A Pinterest Progressive Web App Performance Case Study,https://medium.com/@addyosmani/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154,/u/soulcutter,1
-1,2017-11-30 08:33:14 -0600,['/t/javascript'],Introducing React Food Truck,https://burkeknowswords.com/introducing-react-food-truck-b23ea1e2cf79,/u/burkeholland,0
-0,2017-11-30 06:44:56 -0600,"['/t/audio', '/t/historical', '/t/person']",The Culture of Tech | Episode 1: Steve Wozniak and Television,http://www.thecultureoftech.com/index.php/2017/11/29/episode-1-steve-wozniak-and-television/,/u/sevan,1
-6,2017-11-29 06:01:45 -0600,"['/t/python', '/t/rust']",py2rs - From Python into Rust,https://github.com/rochacbruno/py2rs,/u/quobit,18
-6,2017-11-29 12:19:15 -0600,['/t/ruby'],Ruby 2.5 added delete_prefix and delete_suffix methods,https://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html,/u/soulcutter,6
-21,2017-11-29 04:16:54 -0600,['/t/culture'],The decline of Stack Overflow,https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d,/u/jeremiahlee,48
-1,2017-11-29 12:02:44 -0600,"['/t/person', '/t/privacy']","Leaving Apple and Google: my ""eelo odyssey"". Part1: the mobile OS",https://www.indidea.org/gael/blog/leaving-apple-google-eelo-odyssey-part1-mobile-os/,/u/pizzaiolo,9
-0,2017-11-29 21:56:09 -0600,"['/t/law', '/t/security']",Here's What I'm Telling US Congress about Data Breaches,https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/,/u/calvin,3
-28,2017-11-29 02:38:11 -0600,"['/t/video', '/t/compsci', '/t/haskell']",What is a Monad?,https://www.youtube.com/watch?v=t1e8gqXLbsU,/u/blake,13
-1,2017-11-29 12:54:03 -0600,['/t/performance'],"Cache effects, illustrated",http://msinilo.pl/blog2/post/cache-effects-illustrated/,/u/mikejsavage,6
-3,2017-11-29 13:43:37 -0600,['/t/culture'],How Programmers Get Disqualified from Doing Everything Else,https://medium.com/@Empanado/how-programmers-get-disqualified-from-doing-everything-else-3959f4a21cc1,/u/davidholman,13
-0,2017-11-29 11:31:45 -0600,['/t/databases'],S3 and missing rows in Redshift,https://medium.com/appaloosa-store-engineering/s3-and-missing-rows-in-redshift-108b0340aeda,/u/hoopla,4
-0,2017-11-29 13:28:57 -0600,['/t/databases'],Say No to Randos (in Your Database),https://www.schneems.com/2017/11/29/say-no-to-randos-in-your-database/,/u/schneems,3
-1,2017-11-29 10:15:43 -0600,['/t/cryptocurrencies'],Understanding Ethereum Smart Contracts,http://gjermundbjaanes.com/understanding-ethereum-smart-contracts/,/u/av,7
-3,2017-11-29 04:30:33 -0600,['/t/visualization'],Bringing still photos to life,https://research.fb.com/bringing-still-photos-to-life-and-3d-photography-to-your-phone/,/u/tthisk,10
-0,2017-11-30 01:26:54 -0600,['/t/ai'],Text Analysis in Excel: Real world use-cases,http://blog.paralleldots.com/product/use-cases-excel-add-text-analysis/,/u/Shashankg22,0
-2,2017-11-28 17:34:12 -0600,['/t/rust'],What's a reference in Rust?,https://jvns.ca/blog/2017/11/27/rust-ref/,/u/quobit,37
-0,2017-11-29 04:02:52 -0600,"['/t/databases', '/t/programming']","Code Quality Comparison of Firebird, MySQL, and PostgreSQL",https://www.viva64.com/en/b/0542/,/u/fcbsd,12
-4,2017-11-29 10:49:50 -0600,"['/t/culture', '/t/privacy']",Facebook’s New Test: 'Upload A Clear Photo of Your Face',https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/,/u/rama_dan,10
-0,2017-11-29 12:11:59 -0600,"['/t/pdf', '/t/compsci', '/t/formalmethods', '/t/hardware', '/t/programming', '/t/security']",A Type-Safe Apparatus Executing Higher-Order Functions in Conjunction with Hardware Error Tolerance,http://arro.anglia.ac.uk/581958/1/Kimmitt%20thesis_web.pdf,/u/nickpsecurity,4
-0,2017-11-29 02:14:21 -0600,"['/t/javascript', '/t/lua', '/t/perl', '/t/programming', '/t/python']",Object models / fuzzy notepad,https://eev.ee/blog/2017/11/28/object-models/,/u/wipi,12
-6,2017-11-28 11:30:19 -0600,"['/t/browsers', '/t/rust']","Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox",http://bholley.net/blog/2017/stylo.html,/u/fitzgen,42
-0,2017-11-29 04:34:21 -0600,"['/t/haskell', '/t/programming']",Bracket: a Tale of Partially Applied Functions,https://alternativebit.fr/posts/haskell/bracket/,/u/NinjaTrappeur,4
-0,2017-11-29 18:27:11 -0600,['/t/dotnet'],Dissecting the async methods in C#,https://blogs.msdn.microsoft.com/seteplia/2017/11/30/dissecting-the-async-methods-in-c/,/u/calvin,1
-0,2017-11-29 13:36:21 -0600,"['/t/historical', '/t/mac']","How Apple Created Hackintosh, Part I",http://www.os2museum.com/wp/how-apple-created-hackintosh-part-i/,/u/calvin,2
+0,2017-11-30 09:00:09 -0600,"/t/javascript,/t/performance,/t/web",A Pinterest Progressive Web App Performance Case Study,https://medium.com/@addyosmani/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154,/u/soulcutter,1
+1,2017-11-30 08:33:14 -0600,/t/javascript,Introducing React Food Truck,https://burkeknowswords.com/introducing-react-food-truck-b23ea1e2cf79,/u/burkeholland,0
+0,2017-11-30 06:44:56 -0600,"/t/audio,/t/historical,/t/person",The Culture of Tech | Episode 1: Steve Wozniak and Television,http://www.thecultureoftech.com/index.php/2017/11/29/episode-1-steve-wozniak-and-television/,/u/sevan,1
+6,2017-11-29 06:01:45 -0600,"/t/python,/t/rust",py2rs - From Python into Rust,https://github.com/rochacbruno/py2rs,/u/quobit,18
+6,2017-11-29 12:19:15 -0600,/t/ruby,Ruby 2.5 added delete_prefix and delete_suffix methods,https://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html,/u/soulcutter,6
+21,2017-11-29 04:16:54 -0600,/t/culture,The decline of Stack Overflow,https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d,/u/jeremiahlee,48
+1,2017-11-29 12:02:44 -0600,"/t/person,/t/privacy","Leaving Apple and Google: my ""eelo odyssey"". Part1: the mobile OS",https://www.indidea.org/gael/blog/leaving-apple-google-eelo-odyssey-part1-mobile-os/,/u/pizzaiolo,9
+0,2017-11-29 21:56:09 -0600,"/t/law,/t/security",Here's What I'm Telling US Congress about Data Breaches,https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/,/u/calvin,3
+28,2017-11-29 02:38:11 -0600,"/t/video,/t/compsci,/t/haskell",What is a Monad?,https://www.youtube.com/watch?v=t1e8gqXLbsU,/u/blake,13
+1,2017-11-29 12:54:03 -0600,/t/performance,"Cache effects, illustrated",http://msinilo.pl/blog2/post/cache-effects-illustrated/,/u/mikejsavage,6
+3,2017-11-29 13:43:37 -0600,/t/culture,How Programmers Get Disqualified from Doing Everything Else,https://medium.com/@Empanado/how-programmers-get-disqualified-from-doing-everything-else-3959f4a21cc1,/u/davidholman,13
+0,2017-11-29 11:31:45 -0600,/t/databases,S3 and missing rows in Redshift,https://medium.com/appaloosa-store-engineering/s3-and-missing-rows-in-redshift-108b0340aeda,/u/hoopla,4
+0,2017-11-29 13:28:57 -0600,/t/databases,Say No to Randos (in Your Database),https://www.schneems.com/2017/11/29/say-no-to-randos-in-your-database/,/u/schneems,3
+1,2017-11-29 10:15:43 -0600,/t/cryptocurrencies,Understanding Ethereum Smart Contracts,http://gjermundbjaanes.com/understanding-ethereum-smart-contracts/,/u/av,7
+3,2017-11-29 04:30:33 -0600,/t/visualization,Bringing still photos to life,https://research.fb.com/bringing-still-photos-to-life-and-3d-photography-to-your-phone/,/u/tthisk,10
+0,2017-11-30 01:26:54 -0600,/t/ai,Text Analysis in Excel: Real world use-cases,http://blog.paralleldots.com/product/use-cases-excel-add-text-analysis/,/u/Shashankg22,0
+2,2017-11-28 17:34:12 -0600,/t/rust,What's a reference in Rust?,https://jvns.ca/blog/2017/11/27/rust-ref/,/u/quobit,37
+0,2017-11-29 04:02:52 -0600,"/t/databases,/t/programming","Code Quality Comparison of Firebird, MySQL, and PostgreSQL",https://www.viva64.com/en/b/0542/,/u/fcbsd,12
+4,2017-11-29 10:49:50 -0600,"/t/culture,/t/privacy",Facebook’s New Test: 'Upload A Clear Photo of Your Face',https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/,/u/rama_dan,10
+0,2017-11-29 12:11:59 -0600,"/t/pdf,/t/compsci,/t/formalmethods,/t/hardware,/t/programming,/t/security",A Type-Safe Apparatus Executing Higher-Order Functions in Conjunction with Hardware Error Tolerance,http://arro.anglia.ac.uk/581958/1/Kimmitt%20thesis_web.pdf,/u/nickpsecurity,4
+0,2017-11-29 02:14:21 -0600,"/t/javascript,/t/lua,/t/perl,/t/programming,/t/python",Object models / fuzzy notepad,https://eev.ee/blog/2017/11/28/object-models/,/u/wipi,12
+6,2017-11-28 11:30:19 -0600,"/t/browsers,/t/rust","Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox",http://bholley.net/blog/2017/stylo.html,/u/fitzgen,42
+0,2017-11-29 04:34:21 -0600,"/t/haskell,/t/programming",Bracket: a Tale of Partially Applied Functions,https://alternativebit.fr/posts/haskell/bracket/,/u/NinjaTrappeur,4
+0,2017-11-29 18:27:11 -0600,/t/dotnet,Dissecting the async methods in C#,https://blogs.msdn.microsoft.com/seteplia/2017/11/30/dissecting-the-async-methods-in-c/,/u/calvin,1
+0,2017-11-29 13:36:21 -0600,"/t/historical,/t/mac","How Apple Created Hackintosh, Part I",http://www.os2museum.com/wp/how-apple-created-hackintosh-part-i/,/u/calvin,2

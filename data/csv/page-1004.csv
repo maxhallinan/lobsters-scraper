@@ -1,25 +1,25 @@
-0,2015-10-12 21:01:33 -0500,['/t/math'],A Visual Introduction to Machine Learning,http://www.r2d3.us/visual-intro-to-machine-learning-part-1/,/u/adsouza,15
-43,2015-10-12 00:42:38 -0500,"['/t/math', '/t/person']",Blowing the Whistle on the UC Berkeley Mathematics Department,http://alexandercoward.com/BlowingTheWhistleOnUCBerkeleyMathematics.html,/u/whbboyd,61
-2,2015-10-13 11:19:47 -0500,"['/t/culture', '/t/practices']",Interview Tests Considered Harmful,http://itturnsout.com/interview-tests-considered-harmful/,/u/mattgreenrocks,5
-0,2015-10-13 11:59:00 -0500,"['/t/security', '/t/web']",Cross-Site WebSocket Hijacking (CSWSH),http://www.christian-schneider.net/CrossSiteWebSocketHijacking.html,/u/brianshaler,2
-0,2015-10-13 08:10:26 -0500,"['/t/compsci', '/t/ml']",Runtime Tagging,http://jozefg.bitbucket.org/posts/2015-10-12-tags.html,/u/pushcx,3
-0,2015-10-13 10:09:13 -0500,"['/t/reversing', '/t/security']",Deobfuscating Shifu,http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html,/u/pushcx,2
-0,2015-10-12 21:42:28 -0500,['/t/ruby'],Fixing SQL Injection Vulnerabilities,http://gavinmiller.io/2015/fixing-sql-injection-vulnerabilities/,/u/gavinmiller,5
-2,2015-10-12 11:22:58 -0500,['/t/visualization'],Down the Rabbit Hole of The Ol' Reddit Switcharoo,http://imgur.com/gallery/Q2seQ,/u/pushcx,21
-0,2015-10-12 17:39:47 -0500,['/t/c'],Metaprogramming custom control structures in C (2012),http://www.chiark.greenend.org.uk/~sgtatham/mp/,/u/antifuchs,10
-4,2015-10-12 10:49:41 -0500,['/t/math'],How Not To Sort By Average Rating,http://www.evanmiller.org/how-not-to-sort-by-average-rating.html,/u/rubenbarroso,14
-0,2015-10-12 11:17:43 -0500,"['/t/compsci', '/t/databases', '/t/distributed']","EPaxos, transactions and the next 700 Paxos systems",http://rystsov.info/2015/10/09/epaxos700.html,/u/rystsov,10
-0,2015-10-12 19:45:34 -0500,"['/t/linux', '/t/networking']",The strange case of ICMP Type 69 on Linux,https://blog.benjojo.co.uk/post/linux-icmp-type-69,/u/pushcx,7
-27,2015-10-12 01:03:43 -0500,['/t/ask'],What are you working on this week?,/s/aomrlh/what_are_you_working_on_this_week,/u/marvindanig,26
-6,2015-10-12 10:52:32 -0500,"['/t/compilers', '/t/compsci']",BNF and EBNF: What are they and how do they work?,http://www.garshol.priv.no/download/text/bnf.html,/u/rubenbarroso,8
-1,2015-10-12 13:10:47 -0500,['/t/graphics'],Re-renders of the POV-Ray short code contest,https://mscharrer.net/povray/scc5/,/u/zem,10
-0,2015-10-13 12:11:00 -0500,"['/t/culture', '/t/graphics']",The Surprisingly Complex Design of Facebook’s New Emoji,http://www.wired.com/2015/10/facebook-reactions-design/,/u/flyingfisch,1
-0,2015-10-12 09:04:31 -0500,"['/t/release', '/t/rust']",Formalizing Rust,https://www.ralfj.de/blog/2015/10/12/formalizing-rust.html,/u/steveklabnik,18
-1,2015-10-12 09:21:41 -0500,"['/t/law', '/t/visualization']",How I Teach Gerrymandering,http://mitesp.tumblr.com/post/130793404248/how-i-teach-gerrymandering,/u/pushcx,8
-0,2015-10-12 10:29:25 -0500,['/t/programming'],SICP in Clojure Blog Series,http://www.afronski.pl/sicp-in-clojure/2015/06/04/sicp-in-clojure-chapter-1.html,/u/samser,7
-1,2015-10-12 09:05:15 -0500,"['/t/lisp', '/t/web']",core.async in the browser is sweet,http://ku1ik.com/2015/10/12/sweet-core-async.html,/u/jan,5
-0,2015-10-12 09:14:03 -0500,['/t/scala'],Akka without the Actors,http://eng.localytics.com/akka-streams-akka-without-the-actors/,/u/spacewitch,5
-0,2015-10-12 10:51:54 -0500,['/t/compsci'],What the Tortoise Said to Laurie,http://carlos.bueno.org/2011/01/tortoise.html,/u/rubenbarroso,4
-1,2015-10-12 07:18:10 -0500,"['/t/javascript', '/t/web']",Securing Your Web App in 3 Easy Steps,https://ponyfoo.com/articles/securing-your-web-app-in-3-easy-steps,/u/ponyfoo,2
-0,2015-10-11 20:29:47 -0500,"['/t/linux', '/t/security', '/t/unix']",Structural and semantic deficiencies in the systemd architecture,http://blog.darknedgy.net/technology/2015/10/11/0/,/u/bpo,21
-0,2015-10-12 10:11:31 -0500,"['/t/linux', '/t/lua', '/t/networking', '/t/programming']",Snabb Switch: kernel-bypass networking illustrated,https://github.com/lukego/blog/issues/13,/u/englishm,4
+0,2015-10-12 21:01:33 -0500,/t/math,A Visual Introduction to Machine Learning,http://www.r2d3.us/visual-intro-to-machine-learning-part-1/,/u/adsouza,15
+43,2015-10-12 00:42:38 -0500,"/t/math,/t/person",Blowing the Whistle on the UC Berkeley Mathematics Department,http://alexandercoward.com/BlowingTheWhistleOnUCBerkeleyMathematics.html,/u/whbboyd,61
+2,2015-10-13 11:19:47 -0500,"/t/culture,/t/practices",Interview Tests Considered Harmful,http://itturnsout.com/interview-tests-considered-harmful/,/u/mattgreenrocks,5
+0,2015-10-13 11:59:00 -0500,"/t/security,/t/web",Cross-Site WebSocket Hijacking (CSWSH),http://www.christian-schneider.net/CrossSiteWebSocketHijacking.html,/u/brianshaler,2
+0,2015-10-13 08:10:26 -0500,"/t/compsci,/t/ml",Runtime Tagging,http://jozefg.bitbucket.org/posts/2015-10-12-tags.html,/u/pushcx,3
+0,2015-10-13 10:09:13 -0500,"/t/reversing,/t/security",Deobfuscating Shifu,http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html,/u/pushcx,2
+0,2015-10-12 21:42:28 -0500,/t/ruby,Fixing SQL Injection Vulnerabilities,http://gavinmiller.io/2015/fixing-sql-injection-vulnerabilities/,/u/gavinmiller,5
+2,2015-10-12 11:22:58 -0500,/t/visualization,Down the Rabbit Hole of The Ol' Reddit Switcharoo,http://imgur.com/gallery/Q2seQ,/u/pushcx,21
+0,2015-10-12 17:39:47 -0500,/t/c,Metaprogramming custom control structures in C (2012),http://www.chiark.greenend.org.uk/~sgtatham/mp/,/u/antifuchs,10
+4,2015-10-12 10:49:41 -0500,/t/math,How Not To Sort By Average Rating,http://www.evanmiller.org/how-not-to-sort-by-average-rating.html,/u/rubenbarroso,14
+0,2015-10-12 11:17:43 -0500,"/t/compsci,/t/databases,/t/distributed","EPaxos, transactions and the next 700 Paxos systems",http://rystsov.info/2015/10/09/epaxos700.html,/u/rystsov,10
+0,2015-10-12 19:45:34 -0500,"/t/linux,/t/networking",The strange case of ICMP Type 69 on Linux,https://blog.benjojo.co.uk/post/linux-icmp-type-69,/u/pushcx,7
+27,2015-10-12 01:03:43 -0500,/t/ask,What are you working on this week?,/s/aomrlh/what_are_you_working_on_this_week,/u/marvindanig,26
+6,2015-10-12 10:52:32 -0500,"/t/compilers,/t/compsci",BNF and EBNF: What are they and how do they work?,http://www.garshol.priv.no/download/text/bnf.html,/u/rubenbarroso,8
+1,2015-10-12 13:10:47 -0500,/t/graphics,Re-renders of the POV-Ray short code contest,https://mscharrer.net/povray/scc5/,/u/zem,10
+0,2015-10-13 12:11:00 -0500,"/t/culture,/t/graphics",The Surprisingly Complex Design of Facebook’s New Emoji,http://www.wired.com/2015/10/facebook-reactions-design/,/u/flyingfisch,1
+0,2015-10-12 09:04:31 -0500,"/t/release,/t/rust",Formalizing Rust,https://www.ralfj.de/blog/2015/10/12/formalizing-rust.html,/u/steveklabnik,18
+1,2015-10-12 09:21:41 -0500,"/t/law,/t/visualization",How I Teach Gerrymandering,http://mitesp.tumblr.com/post/130793404248/how-i-teach-gerrymandering,/u/pushcx,8
+0,2015-10-12 10:29:25 -0500,/t/programming,SICP in Clojure Blog Series,http://www.afronski.pl/sicp-in-clojure/2015/06/04/sicp-in-clojure-chapter-1.html,/u/samser,7
+1,2015-10-12 09:05:15 -0500,"/t/lisp,/t/web",core.async in the browser is sweet,http://ku1ik.com/2015/10/12/sweet-core-async.html,/u/jan,5
+0,2015-10-12 09:14:03 -0500,/t/scala,Akka without the Actors,http://eng.localytics.com/akka-streams-akka-without-the-actors/,/u/spacewitch,5
+0,2015-10-12 10:51:54 -0500,/t/compsci,What the Tortoise Said to Laurie,http://carlos.bueno.org/2011/01/tortoise.html,/u/rubenbarroso,4
+1,2015-10-12 07:18:10 -0500,"/t/javascript,/t/web",Securing Your Web App in 3 Easy Steps,https://ponyfoo.com/articles/securing-your-web-app-in-3-easy-steps,/u/ponyfoo,2
+0,2015-10-11 20:29:47 -0500,"/t/linux,/t/security,/t/unix",Structural and semantic deficiencies in the systemd architecture,http://blog.darknedgy.net/technology/2015/10/11/0/,/u/bpo,21
+0,2015-10-12 10:11:31 -0500,"/t/linux,/t/lua,/t/networking,/t/programming",Snabb Switch: kernel-bypass networking illustrated,https://github.com/lukego/blog/issues/13,/u/englishm,4

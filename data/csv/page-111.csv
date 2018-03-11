@@ -1,25 +1,25 @@
-7,2017-11-30 08:34:21 -0600,"['/t/programming', '/t/release']",The second Libraries.io open data release has arrived,https://tidelift.com/blog/2017/11/30/second-librariesio-open-data-release,/u/andrewnez,12
-0,2017-12-01 12:56:55 -0600,['/t/devops'],Vector: Netflix performance monitoring framework,http://vectoross.io/,/u/unbalancedparentheses,1
-0,2017-11-30 13:25:10 -0600,['/t/vcs'],Git PSA: git-rev-parse,https://blog.plover.com/prog/git-rev-parse.html,/u/tokenrove,20
-0,2017-12-01 11:41:16 -0600,"['/t/culture', '/t/person', '/t/practices']",“What engineers are not getting at their current jobs”: an interview with Lynne Tye,https://codewithoutrules.com/2017/12/01/interview-lynne-tye/,/u/itamarst,1
-20,2017-11-30 06:28:30 -0600,['/t/programming'],VS Code Can Do That?,http://vscodecandothat.com/,/u/gregnavis,20
-0,2017-12-01 04:20:59 -0600,['/t/hardware'],System76 ME Firmware Updates Plan,http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan,/u/av,3
-2,2017-11-30 10:20:55 -0600,"['/t/compsci', '/t/math']",A Gentle Introduction to Erasure Codes,https://www.akalin.com/intro-erasure-codes,/u/akalin,12
-2,2017-11-30 05:21:39 -0600,['/t/cryptocurrencies'],Guessing Bitcoin private keys,https://pastebin.com/jCDFcESz,/u/maqio,38
-26,2017-11-29 23:16:43 -0600,"['/t/event', '/t/programming']",Advent of Code 2017,https://adventofcode.com/2017,/u/azdle,40
-0,2017-12-01 10:28:29 -0600,"['/t/pdf', '/t/compsci', '/t/javascript', '/t/programming', '/t/security']","CrowdFlow: Efficient, Information-Flow Security (2013)",http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.713.3783,/u/nickpsecurity,1
-0,2017-12-01 14:52:09 -0600,"['/t/culture', '/t/law']",Do researchers need to follow Terms of Service?,https://medium.com/sigchi-ethics-committee/do-researchers-need-to-follow-tos-f3bde1950d3c,/u/mjn,1
-3,2017-11-30 10:35:15 -0600,"['/t/pdf', '/t/cryptocurrencies']",Is Filecoin a $257M Ponzi Scheme?,https://github.com/backender/filecoin-survey/releases/download/0.5/filecoin_survey.2.pdf,/u/av,9
-9,2017-11-29 20:08:57 -0600,"['/t/design', '/t/emacs', '/t/games']",Dwarf Fortress and ivy-mode,http://vfoley.xyz/ivy-df/,/u/vfoley,23
-0,2017-11-30 15:05:59 -0600,"['/t/assembly', '/t/programming']",The Old-School Fire Effect and Bare-Metal Programming,http://www.hanshq.net/fire.html,/u/calvin,10
-0,2017-11-30 10:28:53 -0600,['/t/erlang'],Erlang Garbage Collector,https://www.erlang-solutions.com/blog/erlang-garbage-collector.html,/u/355E3B,16
-0,2017-11-30 16:08:06 -0600,['/t/compsci'],"base_cs: Exploring the basics of computer science, every Monday, for a year.",https://medium.com/basecs,/u/unbalancedparentheses,8
-4,2017-11-30 09:39:33 -0600,"['/t/linux', '/t/security']",“Huge Dirty COW” (CVE-2017–1000405),https://medium.com/bindecy/huge-dirty-cow-cve-2017-1000405-110eca132de0,/u/lattera,9
-0,2017-12-01 00:00:05 -0600,"['/t/programming', '/t/unix']",Oil Blog Retrospective #3,http://www.oilshell.org/blog/2017/11/30.html,/u/andyc,1
-0,2017-11-30 22:37:58 -0600,"['/t/video', '/t/programming']",Computer Architecture,https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_,/u/nanxiao,3
-0,2017-11-30 09:52:57 -0600,"['/t/c', '/t/compilers']","Writing a C Compiler, Part 1",https://norasandler.com/2017/11/29/Write-a-Compiler.html,/u/wesleyac,14
-1,2017-11-30 22:11:12 -0600,"['/t/video', '/t/event']",Open Source Cubesat Workshop 2017 talks,http://www.youtube.com/playlist?list=PLCzrYL9QmZiSYYx5h_j8djGeLYibvbCp4,/u/elkos,2
-28,2017-11-29 15:50:57 -0600,"['/t/ask', '/t/devops', '/t/practices']",How do you parameterize configuration files?,/s/ewiny0/how_do_you_parameterize_configuration,/u/sgreben,22
-0,2017-11-30 15:58:14 -0600,"['/t/c', '/t/c++', '/t/programming']",First Impressions! (D),http://forum.dlang.org/thread/dvngtqpqoxbjnrklvfvf@forum.dlang.org,/u/JordiGH,5
-0,2017-11-30 21:40:44 -0600,['/t/programming'],What makes a Unicode code point safe?,https://qntm.org/safe,/u/calvin,2
-0,2017-11-30 16:33:47 -0600,"['/t/netbsd', '/t/security']",The LLVM Thread Sanitizer has been ported to NetBSD,https://blog.netbsd.org/tnf/entry/the_llvm_thread_sanitizer_has,/u/fro,4
+7,2017-11-30 08:34:21 -0600,"/t/programming,/t/release",The second Libraries.io open data release has arrived,https://tidelift.com/blog/2017/11/30/second-librariesio-open-data-release,/u/andrewnez,12
+0,2017-12-01 12:56:55 -0600,/t/devops,Vector: Netflix performance monitoring framework,http://vectoross.io/,/u/unbalancedparentheses,1
+0,2017-11-30 13:25:10 -0600,/t/vcs,Git PSA: git-rev-parse,https://blog.plover.com/prog/git-rev-parse.html,/u/tokenrove,20
+0,2017-12-01 11:41:16 -0600,"/t/culture,/t/person,/t/practices",“What engineers are not getting at their current jobs”: an interview with Lynne Tye,https://codewithoutrules.com/2017/12/01/interview-lynne-tye/,/u/itamarst,1
+20,2017-11-30 06:28:30 -0600,/t/programming,VS Code Can Do That?,http://vscodecandothat.com/,/u/gregnavis,20
+0,2017-12-01 04:20:59 -0600,/t/hardware,System76 ME Firmware Updates Plan,http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan,/u/av,3
+2,2017-11-30 10:20:55 -0600,"/t/compsci,/t/math",A Gentle Introduction to Erasure Codes,https://www.akalin.com/intro-erasure-codes,/u/akalin,12
+2,2017-11-30 05:21:39 -0600,/t/cryptocurrencies,Guessing Bitcoin private keys,https://pastebin.com/jCDFcESz,/u/maqio,38
+26,2017-11-29 23:16:43 -0600,"/t/event,/t/programming",Advent of Code 2017,https://adventofcode.com/2017,/u/azdle,40
+0,2017-12-01 10:28:29 -0600,"/t/pdf,/t/compsci,/t/javascript,/t/programming,/t/security","CrowdFlow: Efficient, Information-Flow Security (2013)",http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.713.3783,/u/nickpsecurity,1
+0,2017-12-01 14:52:09 -0600,"/t/culture,/t/law",Do researchers need to follow Terms of Service?,https://medium.com/sigchi-ethics-committee/do-researchers-need-to-follow-tos-f3bde1950d3c,/u/mjn,1
+3,2017-11-30 10:35:15 -0600,"/t/pdf,/t/cryptocurrencies",Is Filecoin a $257M Ponzi Scheme?,https://github.com/backender/filecoin-survey/releases/download/0.5/filecoin_survey.2.pdf,/u/av,9
+9,2017-11-29 20:08:57 -0600,"/t/design,/t/emacs,/t/games",Dwarf Fortress and ivy-mode,http://vfoley.xyz/ivy-df/,/u/vfoley,23
+0,2017-11-30 15:05:59 -0600,"/t/assembly,/t/programming",The Old-School Fire Effect and Bare-Metal Programming,http://www.hanshq.net/fire.html,/u/calvin,10
+0,2017-11-30 10:28:53 -0600,/t/erlang,Erlang Garbage Collector,https://www.erlang-solutions.com/blog/erlang-garbage-collector.html,/u/355E3B,16
+0,2017-11-30 16:08:06 -0600,/t/compsci,"base_cs: Exploring the basics of computer science, every Monday, for a year.",https://medium.com/basecs,/u/unbalancedparentheses,8
+4,2017-11-30 09:39:33 -0600,"/t/linux,/t/security",“Huge Dirty COW” (CVE-2017–1000405),https://medium.com/bindecy/huge-dirty-cow-cve-2017-1000405-110eca132de0,/u/lattera,9
+0,2017-12-01 00:00:05 -0600,"/t/programming,/t/unix",Oil Blog Retrospective #3,http://www.oilshell.org/blog/2017/11/30.html,/u/andyc,1
+0,2017-11-30 22:37:58 -0600,"/t/video,/t/programming",Computer Architecture,https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_,/u/nanxiao,3
+0,2017-11-30 09:52:57 -0600,"/t/c,/t/compilers","Writing a C Compiler, Part 1",https://norasandler.com/2017/11/29/Write-a-Compiler.html,/u/wesleyac,14
+1,2017-11-30 22:11:12 -0600,"/t/video,/t/event",Open Source Cubesat Workshop 2017 talks,http://www.youtube.com/playlist?list=PLCzrYL9QmZiSYYx5h_j8djGeLYibvbCp4,/u/elkos,2
+28,2017-11-29 15:50:57 -0600,"/t/ask,/t/devops,/t/practices",How do you parameterize configuration files?,/s/ewiny0/how_do_you_parameterize_configuration,/u/sgreben,22
+0,2017-11-30 15:58:14 -0600,"/t/c,/t/c++,/t/programming",First Impressions! (D),http://forum.dlang.org/thread/dvngtqpqoxbjnrklvfvf@forum.dlang.org,/u/JordiGH,5
+0,2017-11-30 21:40:44 -0600,/t/programming,What makes a Unicode code point safe?,https://qntm.org/safe,/u/calvin,2
+0,2017-11-30 16:33:47 -0600,"/t/netbsd,/t/security",The LLVM Thread Sanitizer has been ported to NetBSD,https://blog.netbsd.org/tnf/entry/the_llvm_thread_sanitizer_has,/u/fro,4

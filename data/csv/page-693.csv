@@ -1,25 +1,25 @@
-0,2016-08-11 15:04:43 -0500,"['/t/culture', '/t/security']",Reviewing bug bounties - a hacker's perspective,http://www.skeletonscribe.net/2016/08/reviewing-bug-bounties-hackers.html,/u/mulander,4
-0,2016-08-11 11:06:05 -0500,"['/t/video', '/t/mobile', '/t/release']",Osmocom - Open Source Mobile Communications,https://media.ccc.de/v/emf2016-182-osmocom-open-source-mobile-communications,/u/sevan,3
-0,2016-08-11 14:53:50 -0500,"['/t/video', '/t/practices']",Techniques and Tools For a Coherent Discussion About Performance in Complex Architectures,https://www.youtube.com/watch?v=gYVpzlgKrsU,/u/sevan,1
-0,2016-08-11 16:29:10 -0500,"['/t/audio', '/t/compsci', '/t/culture', '/t/practices']",A Wardrobe for the Emperor: Stitching Practical Bias into Systems Software Research,https://www.usenix.org/conference/atc16/technical-sessions/presentation/cantrill,/u/sevan,2
-2,2016-08-10 15:01:47 -0500,"['/t/networking', '/t/rust']",Asynchronous Servers In Rust,https://gkbrk.com/2016/08/asynchronous-servers-in-rust/,/u/gkbrk,8
-0,2016-08-11 09:21:52 -0500,"['/t/crypto', '/t/security']",Breaking https' AES-GCM (or a part of it),https://www.cryptologie.net/article/361/nonce-disrespecting-adversaries-practical-forgery-attacks-on-gcm-in-tls/,/u/jtdowney,2
-1,2016-08-10 09:36:13 -0500,"['/t/math', '/t/person']",Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half,https://www.r-bloggers.com/text-analysis-of-trumps-tweets-confirms-he-writes-only-the-angrier-android-half/,/u/pwatsonwailes,27
-0,2016-08-11 08:05:47 -0500,['/t/graphics'],Fast and Accurate Document Detection for Scanning,http://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/,/u/pushcx,2
-0,2016-08-11 03:10:34 -0500,"['/t/crypto', '/t/math']",Interactive Sudoku Zero-knowledge Proof - In Pursuit of Laziness,http://manishearth.github.io/blog/2016/08/10/interactive-sudoku-zero-knowledge-proof/,/u/geocar,4
-0,2016-08-11 18:14:05 -0500,"['/t/video', '/t/finance', '/t/person']",Vinay Gupta on venture capital: focus on complex technologies and taking care of founders,http://hexayurt.com/capital,/u/alynpost,0
-6,2016-08-10 15:07:48 -0500,"['/t/hardware', '/t/linux', '/t/scaling']",ZFS High-Availability NAS,https://github.com/ewwhite/zfs-ha/wiki,/u/mjturner,8
-9,2016-08-10 08:55:08 -0500,"['/t/book', '/t/math', '/t/science']","OpenStax: free, peer-reviewed textbooks",https://openstax.org/,/u/sajith,20
-1,2016-08-10 14:32:55 -0500,"['/t/person', '/t/security']",On Cybersecurity and Being Targeted,http://www.kennethreitz.org/essays/on-cybersecurity-and-being-targeted,/u/calvin,11
-12,2016-08-10 09:19:16 -0500,"['/t/android', '/t/security']",Copperhead OS: The startup that wants to solve Android’s woeful security,http://arstechnica.com/security/2016/08/copperhead-os-fix-android-security/,/u/lattera,13
-1,2016-08-11 01:28:58 -0500,['/t/linux'],UEFI on top of U-Boot on ARM,http://lists.denx.de/pipermail/u-boot/2016-February/244378.html,/u/pwatsonwailes,3
-1,2016-08-10 16:58:47 -0500,['/t/security'],"Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks",http://arstechnica.com/security/2016/08/linux-bug-leaves-usa-today-other-top-sites-vulnerable-to-serious-hijacking-attacks/,/u/GMW,7
-0,2016-08-11 07:58:02 -0500,"['/t/culture', '/t/devops']",Don't laugh at other's downtime,https://writing.natwelch.com/post/598,/u/icco,1
-0,2016-08-10 16:14:44 -0500,"['/t/distributed', '/t/erlang', '/t/programming']",Erlang RPC: The Road we didn't go down,http://armstrongonsoftware.blogspot.com/2008/05/road-we-didnt-go-down.html,/u/unbalancedparentheses,8
-0,2016-08-11 02:37:32 -0500,['/t/browsers'],"Vivaldi version 1.3 debuts with custom themes, enhanced privacy",https://vivaldi.net/en-US/teamblog/143-vivaldi-version-1-3-the-most-customizable-browser-is-now-the-most-colorful,/u/pwatsonwailes,2
-5,2016-08-10 07:03:35 -0500,"['/t/audio', '/t/openbsd']",OpenBSD release song for 6.0: Money,https://www.openbsd.org/lyrics.html#60c,/u/calvin,11
-1,2016-08-10 16:47:39 -0500,"['/t/javascript', '/t/scala', '/t/web']",From first principles: Why I bet on Scala.js,http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html,/u/soc,5
-2,2016-08-10 07:57:31 -0500,"['/t/freebsd', '/t/security']",FreeBSD Core statement on recent freebsd-update and related vulnerabilities,https://bsdsec.net/articles/freebsd-announce-freebsd-core-statement-on-recent-freebsd-update-and-related-vulnerabilities,/u/lattera,16
-0,2016-08-10 22:13:39 -0500,['/t/visualization'],Wealth of nations over time,https://www.gapminder.org/tools/bubbles,/u/fhk,3
-0,2016-08-10 21:14:59 -0500,['/t/web'],The Garden and the Stream: A Technopastoral,https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/,/u/pushcx,3
-13,2016-08-10 07:52:08 -0500,['/t/culture'],Everyone is quitting,https://sites.google.com/site/thefaceofamazon/home/everyone-is-quitting,/u/flyingfisch,26
+0,2016-08-11 15:04:43 -0500,"/t/culture,/t/security",Reviewing bug bounties - a hacker's perspective,http://www.skeletonscribe.net/2016/08/reviewing-bug-bounties-hackers.html,/u/mulander,4
+0,2016-08-11 11:06:05 -0500,"/t/video,/t/mobile,/t/release",Osmocom - Open Source Mobile Communications,https://media.ccc.de/v/emf2016-182-osmocom-open-source-mobile-communications,/u/sevan,3
+0,2016-08-11 14:53:50 -0500,"/t/video,/t/practices",Techniques and Tools For a Coherent Discussion About Performance in Complex Architectures,https://www.youtube.com/watch?v=gYVpzlgKrsU,/u/sevan,1
+0,2016-08-11 16:29:10 -0500,"/t/audio,/t/compsci,/t/culture,/t/practices",A Wardrobe for the Emperor: Stitching Practical Bias into Systems Software Research,https://www.usenix.org/conference/atc16/technical-sessions/presentation/cantrill,/u/sevan,2
+2,2016-08-10 15:01:47 -0500,"/t/networking,/t/rust",Asynchronous Servers In Rust,https://gkbrk.com/2016/08/asynchronous-servers-in-rust/,/u/gkbrk,8
+0,2016-08-11 09:21:52 -0500,"/t/crypto,/t/security",Breaking https' AES-GCM (or a part of it),https://www.cryptologie.net/article/361/nonce-disrespecting-adversaries-practical-forgery-attacks-on-gcm-in-tls/,/u/jtdowney,2
+1,2016-08-10 09:36:13 -0500,"/t/math,/t/person",Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half,https://www.r-bloggers.com/text-analysis-of-trumps-tweets-confirms-he-writes-only-the-angrier-android-half/,/u/pwatsonwailes,27
+0,2016-08-11 08:05:47 -0500,/t/graphics,Fast and Accurate Document Detection for Scanning,http://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/,/u/pushcx,2
+0,2016-08-11 03:10:34 -0500,"/t/crypto,/t/math",Interactive Sudoku Zero-knowledge Proof - In Pursuit of Laziness,http://manishearth.github.io/blog/2016/08/10/interactive-sudoku-zero-knowledge-proof/,/u/geocar,4
+0,2016-08-11 18:14:05 -0500,"/t/video,/t/finance,/t/person",Vinay Gupta on venture capital: focus on complex technologies and taking care of founders,http://hexayurt.com/capital,/u/alynpost,0
+6,2016-08-10 15:07:48 -0500,"/t/hardware,/t/linux,/t/scaling",ZFS High-Availability NAS,https://github.com/ewwhite/zfs-ha/wiki,/u/mjturner,8
+9,2016-08-10 08:55:08 -0500,"/t/book,/t/math,/t/science","OpenStax: free, peer-reviewed textbooks",https://openstax.org/,/u/sajith,20
+1,2016-08-10 14:32:55 -0500,"/t/person,/t/security",On Cybersecurity and Being Targeted,http://www.kennethreitz.org/essays/on-cybersecurity-and-being-targeted,/u/calvin,11
+12,2016-08-10 09:19:16 -0500,"/t/android,/t/security",Copperhead OS: The startup that wants to solve Android’s woeful security,http://arstechnica.com/security/2016/08/copperhead-os-fix-android-security/,/u/lattera,13
+1,2016-08-11 01:28:58 -0500,/t/linux,UEFI on top of U-Boot on ARM,http://lists.denx.de/pipermail/u-boot/2016-February/244378.html,/u/pwatsonwailes,3
+1,2016-08-10 16:58:47 -0500,/t/security,"Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks",http://arstechnica.com/security/2016/08/linux-bug-leaves-usa-today-other-top-sites-vulnerable-to-serious-hijacking-attacks/,/u/GMW,7
+0,2016-08-11 07:58:02 -0500,"/t/culture,/t/devops",Don't laugh at other's downtime,https://writing.natwelch.com/post/598,/u/icco,1
+0,2016-08-10 16:14:44 -0500,"/t/distributed,/t/erlang,/t/programming",Erlang RPC: The Road we didn't go down,http://armstrongonsoftware.blogspot.com/2008/05/road-we-didnt-go-down.html,/u/unbalancedparentheses,8
+0,2016-08-11 02:37:32 -0500,/t/browsers,"Vivaldi version 1.3 debuts with custom themes, enhanced privacy",https://vivaldi.net/en-US/teamblog/143-vivaldi-version-1-3-the-most-customizable-browser-is-now-the-most-colorful,/u/pwatsonwailes,2
+5,2016-08-10 07:03:35 -0500,"/t/audio,/t/openbsd",OpenBSD release song for 6.0: Money,https://www.openbsd.org/lyrics.html#60c,/u/calvin,11
+1,2016-08-10 16:47:39 -0500,"/t/javascript,/t/scala,/t/web",From first principles: Why I bet on Scala.js,http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html,/u/soc,5
+2,2016-08-10 07:57:31 -0500,"/t/freebsd,/t/security",FreeBSD Core statement on recent freebsd-update and related vulnerabilities,https://bsdsec.net/articles/freebsd-announce-freebsd-core-statement-on-recent-freebsd-update-and-related-vulnerabilities,/u/lattera,16
+0,2016-08-10 22:13:39 -0500,/t/visualization,Wealth of nations over time,https://www.gapminder.org/tools/bubbles,/u/fhk,3
+0,2016-08-10 21:14:59 -0500,/t/web,The Garden and the Stream: A Technopastoral,https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/,/u/pushcx,3
+13,2016-08-10 07:52:08 -0500,/t/culture,Everyone is quitting,https://sites.google.com/site/thefaceofamazon/home/everyone-is-quitting,/u/flyingfisch,26

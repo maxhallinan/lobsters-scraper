@@ -1,25 +1,25 @@
-2,2015-02-27 15:37:15 -0600,"['/t/programming', '/t/rust']",An alternative introduction to Rust,http://words.steveklabnik.com/a-new-introduction-to-rust,/u/steveklabnik,13
-10,2015-02-27 10:13:47 -0600,"['/t/release', '/t/ruby']",Show Lobster: Express probabilities directly in code. A DSL for querying for probabilities,https://github.com/iamwilhelm/prolly,/u/iamwil,12
-0,2015-02-27 14:51:08 -0600,['/t/c'],LLVM 3.6 Release,http://lists.cs.uiuc.edu/pipermail/llvm-announce/2015-February/000057.html,/u/journeysquid,7
-7,2015-02-27 06:16:35 -0600,"['/t/api', '/t/security']",Mailpile: More thoughts on working with GnuPG,http://www.mailpile.is/blog/2015-02-26_Revisiting_the_GnuPG_discussion.html,/u/DrM,6
-0,2015-02-27 06:10:55 -0600,"['/t/distributed', '/t/networking', '/t/scaling']","Introducing gRPC, a new open source HTTP/2 RPC Framework",http://googledevelopers.blogspot.com/2015/02/introducing-grpc-new-open-source-http2.html,/u/DocSavage,11
-0,2015-02-27 18:55:43 -0600,"['/t/culture', '/t/law', '/t/networking']",Sonic CEO: I Welcome Being Regulated As A Common Carrier,http://www.dslreports.com/shownews/Sonic-CEO-I-Welcome-Being-Regulated-As-A-Common-Carrier-132800,/u/cnst,4
-1,2015-02-27 15:07:36 -0600,"['/t/lisp', '/t/ruby']",Hacking S-expressions into Ruby,https://sonnym.github.io/2015/02/26/hacking-s-expressions-into-ruby/,/u/pushcx,2
-0,2015-02-27 15:49:09 -0600,['/t/devops'],AWS Lambda Deployments,https://medium.com/@elbuo8/aws-%CE%BB-lambda-deployments-67e0216de3a6,/u/jpadilla,2
-0,2015-02-27 15:06:06 -0600,"['/t/slides', '/t/video', '/t/scaling']",Linux Profiling at Netflix,http://www.brendangregg.com/blog/2015-02-27/linux-profiling-at-netflix.html,/u/pushcx,2
-0,2015-02-27 14:45:56 -0600,"['/t/finance', '/t/person']",Meet the man who could own Aviva France,http://ftalphaville.ft.com/2015/02/27/2120422/meet-the-man-who-could-own-aviva-france/,/u/pushcx,2
-4,2015-02-26 16:18:32 -0600,['/t/ruby'],Why blocks make Ruby methods 439% slower,https://www.omniref.com/ruby/2.2.0/symbols/Proc/yield?#annotation=4087638&line=711,/u/pushcx,15
-1,2015-02-26 13:12:49 -0600,"['/t/law', '/t/networking']","FCC votes for net neutrality, a ban on paid fast lanes, and Title II",http://arstechnica.com/business/2015/02/fcc-votes-for-net-neutrality-a-ban-on-paid-fast-lanes-and-title-ii/,/u/jcs,19
-15,2015-02-26 12:18:33 -0600,"['/t/culture', '/t/security']",A story about Jessica,http://swiftonsecurity.tumblr.com/post/98675308034/a-story-about-jessica,/u/calvin,39
-23,2015-02-26 07:52:16 -0600,"['/t/haskell', '/t/programming']",An Haskell implementation of Timsort exhibits the same bug as Python and Java implementations,https://github.com/timjb/haskell-timsort/commit/d9c3e1e454c7d338320f8c2aa12e882921d42828,/u/ngrilly,14
-1,2015-02-26 15:22:37 -0600,"['/t/compilers', '/t/go']",New SSA Backend for the Go Compiler,https://docs.google.com/document/d/1szwabPJJc4J-igUZU4ZKprOrNRNJug2JPD8OYi3i1K0/preview,/u/journeysquid,9
-0,2015-02-27 11:01:25 -0600,"['/t/culture', '/t/finance', '/t/person', '/t/privacy']",Running a profitable internet business requires real world muscle,http://aeon.co/magazine/technology/on-the-high-seas-of-the-hidden-internet/,/u/derek-jones,1
-1,2015-02-26 16:07:10 -0600,"['/t/release', '/t/unix']",JSON.sh: a pipeable JSON parser written in Bash,https://github.com/dominictarr/JSON.sh,/u/jcs,6
-0,2015-02-26 13:15:26 -0600,"['/t/compsci', '/t/erlang', '/t/lisp']",SICP: Lisp-flavored Erlang edition,http://lfe.gitbooks.io/sicp/content/,/u/friendlysock,9
-1,2015-02-26 23:34:16 -0600,"['/t/pdf', '/t/practices', '/t/programming']",Software Engineering Principles and Practices Exam Specifications,https://cdn.ncees.org/wp-content/uploads/2012/11/SWE-Apr-2013.pdf,/u/mikemccracken,1
-0,2015-02-26 16:50:36 -0600,"['/t/javascript', '/t/web']",The Path to Parallel JavaScript,https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/,/u/pushcx,5
-5,2015-02-26 07:31:10 -0600,"['/t/culture', '/t/practices']",Side projects,http://antirez.com/news/86,/u/fcambus,27
-1,2015-02-26 14:50:26 -0600,"['/t/pdf', '/t/privacy', '/t/security']",De-anonymizing alt.anonymous.messages,https://ritter.vg/blog-deanonymizing_amm.html,/u/mikejsavage,5
-0,2015-02-26 11:49:07 -0600,"['/t/dotnet', '/t/programming', '/t/windows']",Understanding .NET 2015,http://blogs.msdn.com/b/bethmassi/archive/2015/02/25/understanding-net-2015.aspx,/u/JeremyMorgan,6
-0,2015-02-26 12:57:43 -0600,"['/t/compsci', '/t/math']",The Right Stuff of Emptiness - How ∅ versus {ε} can be a life-and-death difference,https://rjlipton.wordpress.com/2015/02/23/the-right-stuff-of-emptiness/,/u/craigstuntz,4
-1,2015-02-26 13:50:16 -0600,['/t/ruby'],Serving Custom JSON From Your Rails API With ActiveModel::Serializers,https://blog.engineyard.com/2015/active-model-serializers,/u/fluxusfrequency,2
+2,2015-02-27 15:37:15 -0600,"/t/programming,/t/rust",An alternative introduction to Rust,http://words.steveklabnik.com/a-new-introduction-to-rust,/u/steveklabnik,13
+10,2015-02-27 10:13:47 -0600,"/t/release,/t/ruby",Show Lobster: Express probabilities directly in code. A DSL for querying for probabilities,https://github.com/iamwilhelm/prolly,/u/iamwil,12
+0,2015-02-27 14:51:08 -0600,/t/c,LLVM 3.6 Release,http://lists.cs.uiuc.edu/pipermail/llvm-announce/2015-February/000057.html,/u/journeysquid,7
+7,2015-02-27 06:16:35 -0600,"/t/api,/t/security",Mailpile: More thoughts on working with GnuPG,http://www.mailpile.is/blog/2015-02-26_Revisiting_the_GnuPG_discussion.html,/u/DrM,6
+0,2015-02-27 06:10:55 -0600,"/t/distributed,/t/networking,/t/scaling","Introducing gRPC, a new open source HTTP/2 RPC Framework",http://googledevelopers.blogspot.com/2015/02/introducing-grpc-new-open-source-http2.html,/u/DocSavage,11
+0,2015-02-27 18:55:43 -0600,"/t/culture,/t/law,/t/networking",Sonic CEO: I Welcome Being Regulated As A Common Carrier,http://www.dslreports.com/shownews/Sonic-CEO-I-Welcome-Being-Regulated-As-A-Common-Carrier-132800,/u/cnst,4
+1,2015-02-27 15:07:36 -0600,"/t/lisp,/t/ruby",Hacking S-expressions into Ruby,https://sonnym.github.io/2015/02/26/hacking-s-expressions-into-ruby/,/u/pushcx,2
+0,2015-02-27 15:49:09 -0600,/t/devops,AWS Lambda Deployments,https://medium.com/@elbuo8/aws-%CE%BB-lambda-deployments-67e0216de3a6,/u/jpadilla,2
+0,2015-02-27 15:06:06 -0600,"/t/slides,/t/video,/t/scaling",Linux Profiling at Netflix,http://www.brendangregg.com/blog/2015-02-27/linux-profiling-at-netflix.html,/u/pushcx,2
+0,2015-02-27 14:45:56 -0600,"/t/finance,/t/person",Meet the man who could own Aviva France,http://ftalphaville.ft.com/2015/02/27/2120422/meet-the-man-who-could-own-aviva-france/,/u/pushcx,2
+4,2015-02-26 16:18:32 -0600,/t/ruby,Why blocks make Ruby methods 439% slower,https://www.omniref.com/ruby/2.2.0/symbols/Proc/yield?#annotation=4087638&line=711,/u/pushcx,15
+1,2015-02-26 13:12:49 -0600,"/t/law,/t/networking","FCC votes for net neutrality, a ban on paid fast lanes, and Title II",http://arstechnica.com/business/2015/02/fcc-votes-for-net-neutrality-a-ban-on-paid-fast-lanes-and-title-ii/,/u/jcs,19
+15,2015-02-26 12:18:33 -0600,"/t/culture,/t/security",A story about Jessica,http://swiftonsecurity.tumblr.com/post/98675308034/a-story-about-jessica,/u/calvin,39
+23,2015-02-26 07:52:16 -0600,"/t/haskell,/t/programming",An Haskell implementation of Timsort exhibits the same bug as Python and Java implementations,https://github.com/timjb/haskell-timsort/commit/d9c3e1e454c7d338320f8c2aa12e882921d42828,/u/ngrilly,14
+1,2015-02-26 15:22:37 -0600,"/t/compilers,/t/go",New SSA Backend for the Go Compiler,https://docs.google.com/document/d/1szwabPJJc4J-igUZU4ZKprOrNRNJug2JPD8OYi3i1K0/preview,/u/journeysquid,9
+0,2015-02-27 11:01:25 -0600,"/t/culture,/t/finance,/t/person,/t/privacy",Running a profitable internet business requires real world muscle,http://aeon.co/magazine/technology/on-the-high-seas-of-the-hidden-internet/,/u/derek-jones,1
+1,2015-02-26 16:07:10 -0600,"/t/release,/t/unix",JSON.sh: a pipeable JSON parser written in Bash,https://github.com/dominictarr/JSON.sh,/u/jcs,6
+0,2015-02-26 13:15:26 -0600,"/t/compsci,/t/erlang,/t/lisp",SICP: Lisp-flavored Erlang edition,http://lfe.gitbooks.io/sicp/content/,/u/friendlysock,9
+1,2015-02-26 23:34:16 -0600,"/t/pdf,/t/practices,/t/programming",Software Engineering Principles and Practices Exam Specifications,https://cdn.ncees.org/wp-content/uploads/2012/11/SWE-Apr-2013.pdf,/u/mikemccracken,1
+0,2015-02-26 16:50:36 -0600,"/t/javascript,/t/web",The Path to Parallel JavaScript,https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/,/u/pushcx,5
+5,2015-02-26 07:31:10 -0600,"/t/culture,/t/practices",Side projects,http://antirez.com/news/86,/u/fcambus,27
+1,2015-02-26 14:50:26 -0600,"/t/pdf,/t/privacy,/t/security",De-anonymizing alt.anonymous.messages,https://ritter.vg/blog-deanonymizing_amm.html,/u/mikejsavage,5
+0,2015-02-26 11:49:07 -0600,"/t/dotnet,/t/programming,/t/windows",Understanding .NET 2015,http://blogs.msdn.com/b/bethmassi/archive/2015/02/25/understanding-net-2015.aspx,/u/JeremyMorgan,6
+0,2015-02-26 12:57:43 -0600,"/t/compsci,/t/math",The Right Stuff of Emptiness - How ∅ versus {ε} can be a life-and-death difference,https://rjlipton.wordpress.com/2015/02/23/the-right-stuff-of-emptiness/,/u/craigstuntz,4
+1,2015-02-26 13:50:16 -0600,/t/ruby,Serving Custom JSON From Your Rails API With ActiveModel::Serializers,https://blog.engineyard.com/2015/active-model-serializers,/u/fluxusfrequency,2

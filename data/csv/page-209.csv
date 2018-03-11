@@ -1,25 +1,25 @@
-1,2017-09-11 11:32:54 -0500,['/t/openbsd'],Screencasting with OpenBSD,http://eradman.com/posts/screencasting.html,/u/jcs,26
-2,2017-09-11 18:16:42 -0500,"['/t/programming', '/t/web']","Serverless is cheaper, not simpler",https://medium.com/@dzimine/serverless-is-cheaper-not-simpler-a10c4fc30e49,/u/hwayne,8
-7,2017-09-11 03:17:50 -0500,['/t/openbsd'],OpenBSD Daily Recap,http://blog.tintagel.pl/2017/09/10/openbsd-daily-recap.html,/u/mulander,17
-0,2017-09-12 07:07:24 -0500,['/t/graphics'],Non-Linearly Quantized Moment Shadow Maps,http://cg.cs.uni-bonn.de/en/publications/paper-details/peters-2017-quantized-msm/,/u/speps,2
-13,2017-09-11 10:58:39 -0500,['/t/practices'],I hate MVPs. So do your customers. Make it SLC instead.,https://blog.asmartbear.com/slc.html,/u/stig,10
-6,2017-09-11 12:47:03 -0500,['/t/web'],The average web page is 3MB. How much should we care?,https://speedcurve.com/blog/web-performance-page-bloat/,/u/flyingfisch,9
-0,2017-09-12 05:50:18 -0500,['/t/culture'],Gift vs. Reputation in OSS,http://250bpm.com/blog:101,/u/sustrik,2
-1,2017-09-11 17:53:21 -0500,['/t/programming'],J interpreter in the browser (via emscripten),https://joebo.github.io/j-emscripten/full.html,/u/doublec,9
-0,2017-09-11 20:24:44 -0500,"['/t/pdf', '/t/culture', '/t/science']",You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech,http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf,/u/pushcx,12
-2,2017-09-11 08:38:46 -0500,"['/t/hardware', '/t/historical']","If You’re Going To Make A Model Engine, You Might As Well Make It A Merlin",http://hackaday.com/2017/09/11/if-youre-going-to-make-a-model-engine-you-might-as-well-make-it-a-merlin/,/u/flyingfisch,18
-0,2017-09-12 01:49:05 -0500,"['/t/freebsd', '/t/security']",The way Tor currently does sandboxing is completely incompatible with FreeBSD Capsicum,https://mastodon.social/@lattera/17869728,/u/stsp,3
-0,2017-09-11 09:13:47 -0500,"['/t/compsci', '/t/databases', '/t/distributed']","On Disk IO, Part 2: More Flavours of IO",https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13,/u/ifesdjeen,9
-3,2017-09-12 12:33:56 -0500,['/t/security'],"Meet “badBIOS,” the mysterious Mac and PC malware that jumps airgaps",https://arstechnica.com/information-technology/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/,/u/hdhzy,0
-3,2017-09-11 08:07:29 -0500,"['/t/practices', '/t/security']",security.txt: A Method for Web Security Policies (draft),https://datatracker.ietf.org/doc/draft-foudil-securitytxt/,/u/pgl,10
-13,2017-09-10 15:33:56 -0500,"['/t/show', '/t/browsers', '/t/web']",Mouseless is a Firefox addon to browse without using the mouse as much which supports Firefox 57,https://addons.mozilla.org/en-US/firefox/addon/mouseless-plugin/,/u/mort,36
-0,2017-09-11 17:57:20 -0500,['/t/ai'],Transformer: A Novel Neural Network Architecture for Language Understanding,https://research.googleblog.com/2017/08/transformer-novel-neural-network.html,/u/adsouza,4
-1,2017-09-11 13:09:17 -0500,"['/t/design', '/t/practices']",Don’t 'Validate' Designs; User Test Them,https://www.nngroup.com/articles/no-validate-in-ux/,/u/joshuacc,4
-0,2017-09-11 13:16:44 -0500,['/t/openbsd'],"t2k17 Hackathon report: Ken Westerback on dhclient progress, developer herding",http://undeadly.org/cgi?action=article;sid=20170911155125,/u/calvin,5
-2,2017-09-11 14:27:58 -0500,"['/t/culture', '/t/practices']",Degrees of intellectual dishonesty [regarding software engineering statistics],https://plus.google.com/+LaurentBossavit/posts/aNKut1QV8pT,/u/friendlysock,8
-0,2017-09-11 19:26:11 -0500,['/t/javascript'],Modern Modules,https://medium.com/@mikeal/modern-modules-d99b6867b8f1,/u/asthasr,2
-0,2017-09-11 16:54:15 -0500,"['/t/distributed', '/t/go', '/t/scaling']",Use cases for persistent logs with NATS Streaming,https://dev.to/byronruth/use-cases-for-persistent-logs-with-nats-streaming,/u/bruth,1
-0,2017-09-11 09:42:57 -0500,"['/t/crypto', '/t/security', '/t/web']",Comodo fails to check CAA records,https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg08027.html,/u/hanno,3
-3,2017-09-11 08:58:47 -0500,"['/t/emacs', '/t/security']",GNU Emacs 25.2 enriched text remote code execution,https://mailinglist-archive.mojah.be/,/u/PuercoPop,3
-33,2017-09-11 05:23:30 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/oj0kry/what_are_you_working_on_this_week,/u/caius,16
-0,2017-09-11 07:00:31 -0500,"['/t/crypto', '/t/haskell']",A minimal cryptocurrency in Haskell,https://github.com/tdietert/nanocoin,/u/sdiehl,7
+1,2017-09-11 11:32:54 -0500,/t/openbsd,Screencasting with OpenBSD,http://eradman.com/posts/screencasting.html,/u/jcs,26
+2,2017-09-11 18:16:42 -0500,"/t/programming,/t/web","Serverless is cheaper, not simpler",https://medium.com/@dzimine/serverless-is-cheaper-not-simpler-a10c4fc30e49,/u/hwayne,8
+7,2017-09-11 03:17:50 -0500,/t/openbsd,OpenBSD Daily Recap,http://blog.tintagel.pl/2017/09/10/openbsd-daily-recap.html,/u/mulander,17
+0,2017-09-12 07:07:24 -0500,/t/graphics,Non-Linearly Quantized Moment Shadow Maps,http://cg.cs.uni-bonn.de/en/publications/paper-details/peters-2017-quantized-msm/,/u/speps,2
+13,2017-09-11 10:58:39 -0500,/t/practices,I hate MVPs. So do your customers. Make it SLC instead.,https://blog.asmartbear.com/slc.html,/u/stig,10
+6,2017-09-11 12:47:03 -0500,/t/web,The average web page is 3MB. How much should we care?,https://speedcurve.com/blog/web-performance-page-bloat/,/u/flyingfisch,9
+0,2017-09-12 05:50:18 -0500,/t/culture,Gift vs. Reputation in OSS,http://250bpm.com/blog:101,/u/sustrik,2
+1,2017-09-11 17:53:21 -0500,/t/programming,J interpreter in the browser (via emscripten),https://joebo.github.io/j-emscripten/full.html,/u/doublec,9
+0,2017-09-11 20:24:44 -0500,"/t/pdf,/t/culture,/t/science",You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech,http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf,/u/pushcx,12
+2,2017-09-11 08:38:46 -0500,"/t/hardware,/t/historical","If You’re Going To Make A Model Engine, You Might As Well Make It A Merlin",http://hackaday.com/2017/09/11/if-youre-going-to-make-a-model-engine-you-might-as-well-make-it-a-merlin/,/u/flyingfisch,18
+0,2017-09-12 01:49:05 -0500,"/t/freebsd,/t/security",The way Tor currently does sandboxing is completely incompatible with FreeBSD Capsicum,https://mastodon.social/@lattera/17869728,/u/stsp,3
+0,2017-09-11 09:13:47 -0500,"/t/compsci,/t/databases,/t/distributed","On Disk IO, Part 2: More Flavours of IO",https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13,/u/ifesdjeen,9
+3,2017-09-12 12:33:56 -0500,/t/security,"Meet “badBIOS,” the mysterious Mac and PC malware that jumps airgaps",https://arstechnica.com/information-technology/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/,/u/hdhzy,0
+3,2017-09-11 08:07:29 -0500,"/t/practices,/t/security",security.txt: A Method for Web Security Policies (draft),https://datatracker.ietf.org/doc/draft-foudil-securitytxt/,/u/pgl,10
+13,2017-09-10 15:33:56 -0500,"/t/show,/t/browsers,/t/web",Mouseless is a Firefox addon to browse without using the mouse as much which supports Firefox 57,https://addons.mozilla.org/en-US/firefox/addon/mouseless-plugin/,/u/mort,36
+0,2017-09-11 17:57:20 -0500,/t/ai,Transformer: A Novel Neural Network Architecture for Language Understanding,https://research.googleblog.com/2017/08/transformer-novel-neural-network.html,/u/adsouza,4
+1,2017-09-11 13:09:17 -0500,"/t/design,/t/practices",Don’t 'Validate' Designs; User Test Them,https://www.nngroup.com/articles/no-validate-in-ux/,/u/joshuacc,4
+0,2017-09-11 13:16:44 -0500,/t/openbsd,"t2k17 Hackathon report: Ken Westerback on dhclient progress, developer herding",http://undeadly.org/cgi?action=article;sid=20170911155125,/u/calvin,5
+2,2017-09-11 14:27:58 -0500,"/t/culture,/t/practices",Degrees of intellectual dishonesty [regarding software engineering statistics],https://plus.google.com/+LaurentBossavit/posts/aNKut1QV8pT,/u/friendlysock,8
+0,2017-09-11 19:26:11 -0500,/t/javascript,Modern Modules,https://medium.com/@mikeal/modern-modules-d99b6867b8f1,/u/asthasr,2
+0,2017-09-11 16:54:15 -0500,"/t/distributed,/t/go,/t/scaling",Use cases for persistent logs with NATS Streaming,https://dev.to/byronruth/use-cases-for-persistent-logs-with-nats-streaming,/u/bruth,1
+0,2017-09-11 09:42:57 -0500,"/t/crypto,/t/security,/t/web",Comodo fails to check CAA records,https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg08027.html,/u/hanno,3
+3,2017-09-11 08:58:47 -0500,"/t/emacs,/t/security",GNU Emacs 25.2 enriched text remote code execution,https://mailinglist-archive.mojah.be/,/u/PuercoPop,3
+33,2017-09-11 05:23:30 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/oj0kry/what_are_you_working_on_this_week,/u/caius,16
+0,2017-09-11 07:00:31 -0500,"/t/crypto,/t/haskell",A minimal cryptocurrency in Haskell,https://github.com/tdietert/nanocoin,/u/sdiehl,7

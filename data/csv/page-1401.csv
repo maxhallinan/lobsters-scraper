@@ -1,25 +1,25 @@
-2,2014-01-24 04:11:15 -0600,"['/t/video', '/t/compsci']",Don't fear the Monad,http://www.youtube.com/watch?v=ZhuHCtR3xq8&feature=youtu.be,/u/SeanTAllen,13
-0,2014-01-24 15:05:58 -0600,"['/t/video', '/t/scala']",Scala Days 2013 Videos,http://www.parleys.com/channel/51ae1022e4b01033a7e4b6ca/presentations?sort=date&state=public,/u/SeanTAllen,4
-0,2014-01-24 18:20:27 -0600,"['/t/law', '/t/science']","Bayer CEO Marijn Dekkers: Nexavar cancer drug is for ""western patients who can afford it.""",http://keionline.org/node/1910,/u/journeysquid,2
-5,2014-01-23 16:19:51 -0600,"['/t/go', '/t/security']",Designing a key server in Go,http://kyleisom.net/blog/2014/01/23/building-a-key-server/,/u/jcs,26
-6,2014-01-24 01:44:38 -0600,['/t/meta'],Lobsters metrics are now public,/s/oogrez/lobsters_metrics_are_now_public,/u/conroy,19
-5,2014-01-23 12:41:28 -0600,['/t/programming'],Why I’m Betting on Julia,http://www.evanmiller.org/why-im-betting-on-julia.html,/u/mattk,22
-0,2014-01-24 01:52:08 -0600,"['/t/databases', '/t/distributed']",Cassandra: tuning the JVM for read heavy workloads,http://tech.shift.com/post/74311817513/cassandra-tuning-the-jvm-for-read-heavy-workloads,/u/fatumka,6
-0,2014-01-24 04:30:10 -0600,"['/t/video', '/t/lisp', '/t/programming']",A walkthrough of channels in Core.Async,http://www.youtube.com/watch?v=WSgg-TQLsdw&feature=youtu.be&a,/u/juliangamble,4
-3,2014-01-23 12:16:42 -0600,['/t/web'],HTTP Security headers you should always be using,http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using,/u/conroy,15
-0,2014-01-23 23:45:46 -0600,"['/t/haskell', '/t/scala']","EvenOdd in Agda, Idris, Haskell, Scala",http://brianmckenna.org/blog/evenodd_agda_idris_haskell_scala,/u/puffnfresh,4
-0,2014-01-24 01:53:29 -0600,"['/t/erlang', '/t/programming']",Erlang Binary Garbage Collection: A love/hate relationship,http://blog.bugsense.com/post/74179424069/erlang-binary-garbage-collection-a-love-hate,/u/fatumka,3
-2,2014-01-23 14:33:23 -0600,"['/t/databases', '/t/distributed']",BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data,http://blinkdb.org/#,/u/kellogh,8
-0,2014-01-23 17:22:07 -0600,"['/t/video', '/t/programming']",Hello Ruby: A Children's Picture Book about Programming,http://www.kickstarter.com/projects/lindaliukas/hello-ruby,/u/zhemao,8
-1,2014-01-23 11:52:18 -0600,"['/t/pdf', '/t/book', '/t/databases']",Foundations of Databases,http://webdam.inria.fr/Alice/,/u/fatumka,12
-3,2014-01-23 11:12:29 -0600,"['/t/databases', '/t/distributed', '/t/scala']",Apache Spark: The Next Big Data Thing?,http://blog.mikiobraun.de/2014/01/apache-spark.html,/u/fatumka,8
-1,2014-01-23 20:49:03 -0600,['/t/devops'],What did devops mean ?,http://dave.cheney.net/2014/01/23/what-did-devops-mean,/u/mattk,2
-1,2014-01-23 16:54:13 -0600,['/t/python'],The potential for a Python 2.8,http://regebro.wordpress.com/2014/01/23/the-potential-for-a-python-2-8/,/u/mattk,4
-1,2014-01-23 15:38:52 -0600,['/t/programming'],aRrgh: a newcomer's (angry) guide to R,http://tim-smith.us/arrgh/,/u/mattk,4
-0,2014-01-24 09:20:31 -0600,"['/t/databases', '/t/distributed']",HBase Architecture,http://bigdataanalyticsnews.com/hbase-architecture/,/u/fatumka,0
-2,2014-01-23 10:03:39 -0600,"['/t/c', '/t/go']",Confession From a Go Programmer,http://notbroken.org/go_confession.html,/u/journeysquid,3
-0,2014-01-23 17:28:25 -0600,['/t/rust'],File I/O in Rust,http://blog.safaribooksonline.com/2014/01/23/file-io-rust/,/u/kellogh,3
-0,2014-01-23 15:05:06 -0600,['/t/scaling'],Preventing Unbounded Buffers with RabbitMQ,http://www.rabbitmq.com/blog/2014/01/23/preventing-unbounded-buffers-with-rabbitmq/,/u/old_sound,4
-0,2014-01-23 11:14:49 -0600,"['/t/pdf', '/t/distributed']",Discretized Streams: A Fault-Tolerant Model for Scalable Stream Processing,http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-259.pdf,/u/fatumka,6
-0,2014-01-23 11:13:49 -0600,"['/t/pdf', '/t/distributed', '/t/scala']",Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,http://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf,/u/fatumka,5
-0,2014-01-23 15:04:38 -0600,"['/t/video', '/t/haskell', '/t/scaling']",Brian Hurt: A Pragmatic Case for Static Typing,http://vimeo.com/72870631,/u/michaelochurch,2
+2,2014-01-24 04:11:15 -0600,"/t/video,/t/compsci",Don't fear the Monad,http://www.youtube.com/watch?v=ZhuHCtR3xq8&feature=youtu.be,/u/SeanTAllen,13
+0,2014-01-24 15:05:58 -0600,"/t/video,/t/scala",Scala Days 2013 Videos,http://www.parleys.com/channel/51ae1022e4b01033a7e4b6ca/presentations?sort=date&state=public,/u/SeanTAllen,4
+0,2014-01-24 18:20:27 -0600,"/t/law,/t/science","Bayer CEO Marijn Dekkers: Nexavar cancer drug is for ""western patients who can afford it.""",http://keionline.org/node/1910,/u/journeysquid,2
+5,2014-01-23 16:19:51 -0600,"/t/go,/t/security",Designing a key server in Go,http://kyleisom.net/blog/2014/01/23/building-a-key-server/,/u/jcs,26
+6,2014-01-24 01:44:38 -0600,/t/meta,Lobsters metrics are now public,/s/oogrez/lobsters_metrics_are_now_public,/u/conroy,19
+5,2014-01-23 12:41:28 -0600,/t/programming,Why I’m Betting on Julia,http://www.evanmiller.org/why-im-betting-on-julia.html,/u/mattk,22
+0,2014-01-24 01:52:08 -0600,"/t/databases,/t/distributed",Cassandra: tuning the JVM for read heavy workloads,http://tech.shift.com/post/74311817513/cassandra-tuning-the-jvm-for-read-heavy-workloads,/u/fatumka,6
+0,2014-01-24 04:30:10 -0600,"/t/video,/t/lisp,/t/programming",A walkthrough of channels in Core.Async,http://www.youtube.com/watch?v=WSgg-TQLsdw&feature=youtu.be&a,/u/juliangamble,4
+3,2014-01-23 12:16:42 -0600,/t/web,HTTP Security headers you should always be using,http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using,/u/conroy,15
+0,2014-01-23 23:45:46 -0600,"/t/haskell,/t/scala","EvenOdd in Agda, Idris, Haskell, Scala",http://brianmckenna.org/blog/evenodd_agda_idris_haskell_scala,/u/puffnfresh,4
+0,2014-01-24 01:53:29 -0600,"/t/erlang,/t/programming",Erlang Binary Garbage Collection: A love/hate relationship,http://blog.bugsense.com/post/74179424069/erlang-binary-garbage-collection-a-love-hate,/u/fatumka,3
+2,2014-01-23 14:33:23 -0600,"/t/databases,/t/distributed",BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data,http://blinkdb.org/#,/u/kellogh,8
+0,2014-01-23 17:22:07 -0600,"/t/video,/t/programming",Hello Ruby: A Children's Picture Book about Programming,http://www.kickstarter.com/projects/lindaliukas/hello-ruby,/u/zhemao,8
+1,2014-01-23 11:52:18 -0600,"/t/pdf,/t/book,/t/databases",Foundations of Databases,http://webdam.inria.fr/Alice/,/u/fatumka,12
+3,2014-01-23 11:12:29 -0600,"/t/databases,/t/distributed,/t/scala",Apache Spark: The Next Big Data Thing?,http://blog.mikiobraun.de/2014/01/apache-spark.html,/u/fatumka,8
+1,2014-01-23 20:49:03 -0600,/t/devops,What did devops mean ?,http://dave.cheney.net/2014/01/23/what-did-devops-mean,/u/mattk,2
+1,2014-01-23 16:54:13 -0600,/t/python,The potential for a Python 2.8,http://regebro.wordpress.com/2014/01/23/the-potential-for-a-python-2-8/,/u/mattk,4
+1,2014-01-23 15:38:52 -0600,/t/programming,aRrgh: a newcomer's (angry) guide to R,http://tim-smith.us/arrgh/,/u/mattk,4
+0,2014-01-24 09:20:31 -0600,"/t/databases,/t/distributed",HBase Architecture,http://bigdataanalyticsnews.com/hbase-architecture/,/u/fatumka,0
+2,2014-01-23 10:03:39 -0600,"/t/c,/t/go",Confession From a Go Programmer,http://notbroken.org/go_confession.html,/u/journeysquid,3
+0,2014-01-23 17:28:25 -0600,/t/rust,File I/O in Rust,http://blog.safaribooksonline.com/2014/01/23/file-io-rust/,/u/kellogh,3
+0,2014-01-23 15:05:06 -0600,/t/scaling,Preventing Unbounded Buffers with RabbitMQ,http://www.rabbitmq.com/blog/2014/01/23/preventing-unbounded-buffers-with-rabbitmq/,/u/old_sound,4
+0,2014-01-23 11:14:49 -0600,"/t/pdf,/t/distributed",Discretized Streams: A Fault-Tolerant Model for Scalable Stream Processing,http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-259.pdf,/u/fatumka,6
+0,2014-01-23 11:13:49 -0600,"/t/pdf,/t/distributed,/t/scala",Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,http://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf,/u/fatumka,5
+0,2014-01-23 15:04:38 -0600,"/t/video,/t/haskell,/t/scaling",Brian Hurt: A Pragmatic Case for Static Typing,http://vimeo.com/72870631,/u/michaelochurch,2

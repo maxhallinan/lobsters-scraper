@@ -1,25 +1,25 @@
-0,2016-11-28 03:38:55 -0600,"['/t/devops', '/t/release']",[ANNOUNCE] haproxy-1.7.0,https://www.mail-archive.com/haproxy@formilux.org/msg24244.html,/u/komuW,8
-1,2016-11-28 01:18:24 -0600,"['/t/c', '/t/games']",LaiNES: cycle-accurate NES Emulator in ~1 KLOC,https://github.com/AndreaOrru/LaiNES,/u/pushcx,9
-5,2016-11-27 12:42:47 -0600,['/t/practices'],12 Signs You’re Working in a Feature Factory,https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2,/u/asthasr,24
-0,2016-11-28 12:43:31 -0600,['/t/scala'],The Neophyte's Guide to Scala Part 11: Currying and partially applied functions,http://danielwestheide.com/blog/2013/01/30/the-neophytes-guide-to-scala-part-11-currying-and-partially-applied-functions.html,/u/pushcx,2
-0,2016-11-28 14:41:44 -0600,"['/t/pdf', '/t/assembly']",Ulrich Drepper's x86 opcode cheatsheet,https://www.akkadia.org/drepper/x86-opcode-structure.pdf,/u/goncalo,1
-4,2016-11-27 14:58:22 -0600,['/t/openbsd'],Héberger son serveur avec OpenBSD,http://yeuxdelibad.net/ah/,/u/quobit,17
-0,2016-11-28 04:32:00 -0600,"['/t/pdf', '/t/debugging', '/t/distributed']",TaxDC: A Taxonomy of Non-Deterministic Concurrency Bugs in Datacenter Distributed Systems,http://ucare.cs.uchicago.edu/pdf/asplos16-TaxDC.pdf,/u/sanxiyn,4
-0,2016-11-28 12:15:17 -0600,['/t/compsci'],Floating-point representation (2011),http://www.toves.org/books/float/,/u/awal,1
-3,2016-11-27 08:26:59 -0600,['/t/web'],Google's AMP is a gilded cage,https://shkspr.mobi/blog/2016/11/removing-your-site-from-amp/,/u/awal,22
-0,2016-11-27 22:27:01 -0600,['/t/web'],Base-122 Encoding,http://blog.kevinalbs.com/base122,/u/pushcx,6
-3,2016-11-27 16:37:17 -0600,"['/t/devops', '/t/programming']",Tradeoffs in Software Provisioning Tools,https://kev.inburke.com/kevin/provisioning-tradeoffs/,/u/kb,3
-4,2016-11-27 08:30:11 -0600,"['/t/rust', '/t/security']",Peer to Peer VPN implemented in rust,https://github.com/dswd/vpncloud.rs,/u/unbalancedparentheses,21
-0,2016-11-27 10:19:42 -0600,['/t/assembly'],Learning to Read x86 Assembly Language,http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language,/u/jeffd,21
-1,2016-11-28 09:14:00 -0600,['/t/culture'],GitHub Platform Forum,https://platform.github.community/,/u/av,2
-0,2016-11-27 12:24:22 -0600,['/t/python'],"Mail-in-a-Box – one-click, easy-to-deploy email server",https://github.com/mail-in-a-box/mailinabox,/u/av,12
-8,2016-11-26 19:33:12 -0600,['/t/unix'],Interactive filter: a new standard tool.,/s/squpog/interactive_filter_new_standard_tool,/u/josuah,26
-1,2016-11-27 14:31:42 -0600,"['/t/cryptocurrencies', '/t/distributed']",App Coins and the dawn of the Decentralized Business Model,https://medium.com/the-coinbase-blog/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f,/u/jtobin,6
-2,2016-11-27 16:15:47 -0600,['/t/programming'],Proof You Can Become a Better Programmer,https://www.new2code.com/2016/11/proof-you-can-become-a-better-programmer/,/u/calvin,3
-0,2016-11-27 22:47:21 -0600,"['/t/elixir', '/t/javascript', '/t/networking', '/t/web']",Binary data over Phoenix sockets,https://nerds.stoiximan.gr/2016/11/23/binary-data-over-phoenix-sockets/,/u/friendlysock,2
-2,2016-11-27 08:23:28 -0600,"['/t/mobile', '/t/programming', '/t/web']",I made an iPhone game with PhoneGap and I'll never do it again,http://bokstuff.com/i-made-an-iphone-game-with-phonegap-and-ill-never-do-it-again/,/u/calvin,9
-9,2016-11-26 20:25:15 -0600,"['/t/compsci', '/t/java', '/t/scala']",Java and Scala's Type Systems are Unsound,http://io.livecode.ch/learn/namin/unsound,/u/mcheely,21
-0,2016-11-27 11:35:45 -0600,"['/t/math', '/t/visualization']",An Interactive Tutorial on Numerical Optimization,http://www.benfrederickson.com/numerical-optimization/,/u/pushcx,7
-2,2016-11-27 05:47:08 -0600,['/t/math'],Euclidea - Geometric Constructions Game with Straightedge and Compass,http://www.euclidea.xyz/,/u/RiderOfGiraffes,11
-0,2016-11-27 19:00:22 -0600,['/t/privacy'],"alecmuffett/the-onion-diaries - A Basic ""Production"" Ubuntu Server for Onion Sites",https://github.com/alecmuffett/the-onion-diaries/blob/master/basic-production-onion-server.md,/u/sevan,2
-0,2016-11-27 12:38:09 -0600,"['/t/pdf', '/t/cryptocurrencies', '/t/law']",Comments to SEC on Proposed Winkelvoss Bitcoin ETF,https://www.sec.gov/comments/sr-batsbzx-2016-30/batsbzx201630-20.pdf,/u/pushcx,4
+0,2016-11-28 03:38:55 -0600,"/t/devops,/t/release",[ANNOUNCE] haproxy-1.7.0,https://www.mail-archive.com/haproxy@formilux.org/msg24244.html,/u/komuW,8
+1,2016-11-28 01:18:24 -0600,"/t/c,/t/games",LaiNES: cycle-accurate NES Emulator in ~1 KLOC,https://github.com/AndreaOrru/LaiNES,/u/pushcx,9
+5,2016-11-27 12:42:47 -0600,/t/practices,12 Signs You’re Working in a Feature Factory,https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2,/u/asthasr,24
+0,2016-11-28 12:43:31 -0600,/t/scala,The Neophyte's Guide to Scala Part 11: Currying and partially applied functions,http://danielwestheide.com/blog/2013/01/30/the-neophytes-guide-to-scala-part-11-currying-and-partially-applied-functions.html,/u/pushcx,2
+0,2016-11-28 14:41:44 -0600,"/t/pdf,/t/assembly",Ulrich Drepper's x86 opcode cheatsheet,https://www.akkadia.org/drepper/x86-opcode-structure.pdf,/u/goncalo,1
+4,2016-11-27 14:58:22 -0600,/t/openbsd,Héberger son serveur avec OpenBSD,http://yeuxdelibad.net/ah/,/u/quobit,17
+0,2016-11-28 04:32:00 -0600,"/t/pdf,/t/debugging,/t/distributed",TaxDC: A Taxonomy of Non-Deterministic Concurrency Bugs in Datacenter Distributed Systems,http://ucare.cs.uchicago.edu/pdf/asplos16-TaxDC.pdf,/u/sanxiyn,4
+0,2016-11-28 12:15:17 -0600,/t/compsci,Floating-point representation (2011),http://www.toves.org/books/float/,/u/awal,1
+3,2016-11-27 08:26:59 -0600,/t/web,Google's AMP is a gilded cage,https://shkspr.mobi/blog/2016/11/removing-your-site-from-amp/,/u/awal,22
+0,2016-11-27 22:27:01 -0600,/t/web,Base-122 Encoding,http://blog.kevinalbs.com/base122,/u/pushcx,6
+3,2016-11-27 16:37:17 -0600,"/t/devops,/t/programming",Tradeoffs in Software Provisioning Tools,https://kev.inburke.com/kevin/provisioning-tradeoffs/,/u/kb,3
+4,2016-11-27 08:30:11 -0600,"/t/rust,/t/security",Peer to Peer VPN implemented in rust,https://github.com/dswd/vpncloud.rs,/u/unbalancedparentheses,21
+0,2016-11-27 10:19:42 -0600,/t/assembly,Learning to Read x86 Assembly Language,http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language,/u/jeffd,21
+1,2016-11-28 09:14:00 -0600,/t/culture,GitHub Platform Forum,https://platform.github.community/,/u/av,2
+0,2016-11-27 12:24:22 -0600,/t/python,"Mail-in-a-Box – one-click, easy-to-deploy email server",https://github.com/mail-in-a-box/mailinabox,/u/av,12
+8,2016-11-26 19:33:12 -0600,/t/unix,Interactive filter: a new standard tool.,/s/squpog/interactive_filter_new_standard_tool,/u/josuah,26
+1,2016-11-27 14:31:42 -0600,"/t/cryptocurrencies,/t/distributed",App Coins and the dawn of the Decentralized Business Model,https://medium.com/the-coinbase-blog/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f,/u/jtobin,6
+2,2016-11-27 16:15:47 -0600,/t/programming,Proof You Can Become a Better Programmer,https://www.new2code.com/2016/11/proof-you-can-become-a-better-programmer/,/u/calvin,3
+0,2016-11-27 22:47:21 -0600,"/t/elixir,/t/javascript,/t/networking,/t/web",Binary data over Phoenix sockets,https://nerds.stoiximan.gr/2016/11/23/binary-data-over-phoenix-sockets/,/u/friendlysock,2
+2,2016-11-27 08:23:28 -0600,"/t/mobile,/t/programming,/t/web",I made an iPhone game with PhoneGap and I'll never do it again,http://bokstuff.com/i-made-an-iphone-game-with-phonegap-and-ill-never-do-it-again/,/u/calvin,9
+9,2016-11-26 20:25:15 -0600,"/t/compsci,/t/java,/t/scala",Java and Scala's Type Systems are Unsound,http://io.livecode.ch/learn/namin/unsound,/u/mcheely,21
+0,2016-11-27 11:35:45 -0600,"/t/math,/t/visualization",An Interactive Tutorial on Numerical Optimization,http://www.benfrederickson.com/numerical-optimization/,/u/pushcx,7
+2,2016-11-27 05:47:08 -0600,/t/math,Euclidea - Geometric Constructions Game with Straightedge and Compass,http://www.euclidea.xyz/,/u/RiderOfGiraffes,11
+0,2016-11-27 19:00:22 -0600,/t/privacy,"alecmuffett/the-onion-diaries - A Basic ""Production"" Ubuntu Server for Onion Sites",https://github.com/alecmuffett/the-onion-diaries/blob/master/basic-production-onion-server.md,/u/sevan,2
+0,2016-11-27 12:38:09 -0600,"/t/pdf,/t/cryptocurrencies,/t/law",Comments to SEC on Proposed Winkelvoss Bitcoin ETF,https://www.sec.gov/comments/sr-batsbzx-2016-30/batsbzx201630-20.pdf,/u/pushcx,4

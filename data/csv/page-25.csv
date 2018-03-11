@@ -1,25 +1,25 @@
-8,2018-02-11 19:05:31 -0600,['/t/practices'],The futile comfort of working long hours,https://codewithoutrules.com/2018/02/11/working-long-hours/,/u/itamarst,45
-0,2018-02-12 05:32:31 -0600,"['/t/crypto', '/t/formalmethods', '/t/mobile', '/t/security']","Authentication vulnerability in most recent 5G drafts, found by formal methods",https://www.cs.ox.ac.uk/5G-analysis/,/u/mpdehnel,23
-0,2018-02-12 09:31:34 -0600,"['/t/culture', '/t/python']",Thanks (for Python),https://github.com/phildini/thanks,/u/phildini,27
-0,2018-02-13 00:11:06 -0600,['/t/programming'],Lector in Codigo,https://medium.com/@old_sound/lector-in-codigo-ec1b41511052,/u/old_sound,2
-0,2018-02-13 09:00:18 -0600,['/t/hardware'],Hand Waving and OpenCV,https://www.embedded.fm/blog/2018/2/9/hand-waving-and-opencv,/u/flyingfisch,1
-0,2018-02-13 08:53:06 -0600,['/t/web'],CSS Basics: Using Fallback Colors,https://css-tricks.com/css-basics-using-fallback-colors/,/u/flyingfisch,1
-0,2018-02-12 20:47:41 -0600,['/t/lisp'],LLVM’s garbage collection facilities and SBCL’s generational GC,https://medium.com/@MartinCracauer/llvms-garbage-collection-facilities-and-sbcl-s-generational-gc-a13eedfb1b31,/u/PuercoPop,6
-0,2018-02-12 20:30:35 -0600,['/t/programming'],I Wrote Down Everything I Learned While Programming for a Month,https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/,/u/zpojqwfejwfhiunz,6
-0,2018-02-13 07:27:12 -0600,"['/t/debugging', '/t/nodejs']",Debugging Node without restarting processes,https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200,/u/calvin,1
-38,2018-02-11 23:27:56 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/l304gf/what_are_you_working_on_this_week,/u/kzisme,27
-1,2018-02-12 18:17:01 -0600,"['/t/practices', '/t/programming']",The Cranky Developer Manifesto,https://dev.to/codemouse92/the-cranky-developer-manifesto--24km,/u/friendlysock,5
-5,2018-02-12 10:27:33 -0600,"['/t/pdf', '/t/compilers', '/t/haskell', '/t/plt']","Implementing and Optimizing a Simple, Dependently-Typed Language (2010)",http://publications.lib.chalmers.se/records/fulltext/124826.pdf,/u/nickpsecurity,9
-1,2018-02-12 12:55:38 -0600,['/t/haskell'],Haskell developer experience in NixOS,http://www.kuznero.com/posts/nixos/haskell-devexp-in-nixos.html,/u/pushcx,10
-0,2018-02-13 07:45:59 -0600,['/t/culture'],‘Never get high on your own supply’ – why social media bosses don’t use social media,https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-social-media,/u/rzhikharevich,2
-2,2018-02-12 10:20:10 -0600,['/t/compsci'],The P-versus-NP page,http://www.win.tue.nl/~gwoegi/P-versus-NP.htm,/u/lainon,12
-0,2018-02-12 06:40:42 -0600,['/t/javascript'],TypeScript 2.6: JSX Fragment Syntax,https://blog.mariusschulz.com/2018/02/09/typescript-2-6-jsx-fragment-syntax,/u/mariusschulz,11
-0,2018-02-12 19:28:38 -0600,"['/t/api', '/t/networking', '/t/programming']","Tough love, or stultifying ossification? I don't know",http://boston.conman.org/2018/02/12.1,/u/spc476,2
-2,2018-02-12 20:02:57 -0600,"['/t/python', '/t/virtualization', '/t/web']",Dockerizing Django for Development,https://fernandofreitasalves.com/dockerizing-django-for-development/,/u/wyclif,2
-0,2018-02-12 13:12:58 -0600,"['/t/compilers', '/t/performance', '/t/ruby']",Speeding up Ruby with Shared Strings,https://tenderlovemaking.com/2018/02/12/speeding-up-ruby-with-shared-strings.html,/u/hoopla,9
-2,2018-02-12 18:46:27 -0600,"['/t/android', '/t/java', '/t/networking', '/t/programming']","Java project Hydra, a network framework",https://github.com/DataSecs/Hydra,/u/DataSecs,1
-0,2018-02-12 23:59:29 -0600,['/t/rust'],Keep your dependencies up-to-date,https://deps.rs/,/u/puffnfresh,2
-0,2018-02-12 13:15:07 -0600,"['/t/haskell', '/t/math']",Introducing the backprop library: automatic differentiation of heterogeneous Haskell functions,https://blog.jle.im/entry/introducing-the-backprop-library.html,/u/jle,4
-5,2018-02-11 23:13:16 -0600,"['/t/programming', '/t/python', '/t/web']",Let's talk about usernames,https://www.b-list.org/weblog/2018/feb/11/usernames/,/u/zpojqwfejwfhiunz,29
-3,2018-02-12 18:16:27 -0600,"['/t/historical', '/t/windows']",The Story of Windows: Windows 3.0 Takes Off,https://community.windows.com/,/u/chadski,2
-39,2018-02-12 08:40:32 -0600,"['/t/practices', '/t/rant']",Slack is the opposite of organizational memory,https://abe-winter.github.io/plea's/help/2018/02/11/slack.html,/u/gerikson,28
+8,2018-02-11 19:05:31 -0600,/t/practices,The futile comfort of working long hours,https://codewithoutrules.com/2018/02/11/working-long-hours/,/u/itamarst,45
+0,2018-02-12 05:32:31 -0600,"/t/crypto,/t/formalmethods,/t/mobile,/t/security","Authentication vulnerability in most recent 5G drafts, found by formal methods",https://www.cs.ox.ac.uk/5G-analysis/,/u/mpdehnel,23
+0,2018-02-12 09:31:34 -0600,"/t/culture,/t/python",Thanks (for Python),https://github.com/phildini/thanks,/u/phildini,27
+0,2018-02-13 00:11:06 -0600,/t/programming,Lector in Codigo,https://medium.com/@old_sound/lector-in-codigo-ec1b41511052,/u/old_sound,2
+0,2018-02-13 09:00:18 -0600,/t/hardware,Hand Waving and OpenCV,https://www.embedded.fm/blog/2018/2/9/hand-waving-and-opencv,/u/flyingfisch,1
+0,2018-02-13 08:53:06 -0600,/t/web,CSS Basics: Using Fallback Colors,https://css-tricks.com/css-basics-using-fallback-colors/,/u/flyingfisch,1
+0,2018-02-12 20:47:41 -0600,/t/lisp,LLVM’s garbage collection facilities and SBCL’s generational GC,https://medium.com/@MartinCracauer/llvms-garbage-collection-facilities-and-sbcl-s-generational-gc-a13eedfb1b31,/u/PuercoPop,6
+0,2018-02-12 20:30:35 -0600,/t/programming,I Wrote Down Everything I Learned While Programming for a Month,https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/,/u/zpojqwfejwfhiunz,6
+0,2018-02-13 07:27:12 -0600,"/t/debugging,/t/nodejs",Debugging Node without restarting processes,https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200,/u/calvin,1
+38,2018-02-11 23:27:56 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/l304gf/what_are_you_working_on_this_week,/u/kzisme,27
+1,2018-02-12 18:17:01 -0600,"/t/practices,/t/programming",The Cranky Developer Manifesto,https://dev.to/codemouse92/the-cranky-developer-manifesto--24km,/u/friendlysock,5
+5,2018-02-12 10:27:33 -0600,"/t/pdf,/t/compilers,/t/haskell,/t/plt","Implementing and Optimizing a Simple, Dependently-Typed Language (2010)",http://publications.lib.chalmers.se/records/fulltext/124826.pdf,/u/nickpsecurity,9
+1,2018-02-12 12:55:38 -0600,/t/haskell,Haskell developer experience in NixOS,http://www.kuznero.com/posts/nixos/haskell-devexp-in-nixos.html,/u/pushcx,10
+0,2018-02-13 07:45:59 -0600,/t/culture,‘Never get high on your own supply’ – why social media bosses don’t use social media,https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-social-media,/u/rzhikharevich,2
+2,2018-02-12 10:20:10 -0600,/t/compsci,The P-versus-NP page,http://www.win.tue.nl/~gwoegi/P-versus-NP.htm,/u/lainon,12
+0,2018-02-12 06:40:42 -0600,/t/javascript,TypeScript 2.6: JSX Fragment Syntax,https://blog.mariusschulz.com/2018/02/09/typescript-2-6-jsx-fragment-syntax,/u/mariusschulz,11
+0,2018-02-12 19:28:38 -0600,"/t/api,/t/networking,/t/programming","Tough love, or stultifying ossification? I don't know",http://boston.conman.org/2018/02/12.1,/u/spc476,2
+2,2018-02-12 20:02:57 -0600,"/t/python,/t/virtualization,/t/web",Dockerizing Django for Development,https://fernandofreitasalves.com/dockerizing-django-for-development/,/u/wyclif,2
+0,2018-02-12 13:12:58 -0600,"/t/compilers,/t/performance,/t/ruby",Speeding up Ruby with Shared Strings,https://tenderlovemaking.com/2018/02/12/speeding-up-ruby-with-shared-strings.html,/u/hoopla,9
+2,2018-02-12 18:46:27 -0600,"/t/android,/t/java,/t/networking,/t/programming","Java project Hydra, a network framework",https://github.com/DataSecs/Hydra,/u/DataSecs,1
+0,2018-02-12 23:59:29 -0600,/t/rust,Keep your dependencies up-to-date,https://deps.rs/,/u/puffnfresh,2
+0,2018-02-12 13:15:07 -0600,"/t/haskell,/t/math",Introducing the backprop library: automatic differentiation of heterogeneous Haskell functions,https://blog.jle.im/entry/introducing-the-backprop-library.html,/u/jle,4
+5,2018-02-11 23:13:16 -0600,"/t/programming,/t/python,/t/web",Let's talk about usernames,https://www.b-list.org/weblog/2018/feb/11/usernames/,/u/zpojqwfejwfhiunz,29
+3,2018-02-12 18:16:27 -0600,"/t/historical,/t/windows",The Story of Windows: Windows 3.0 Takes Off,https://community.windows.com/,/u/chadski,2
+39,2018-02-12 08:40:32 -0600,"/t/practices,/t/rant",Slack is the opposite of organizational memory,https://abe-winter.github.io/plea's/help/2018/02/11/slack.html,/u/gerikson,28

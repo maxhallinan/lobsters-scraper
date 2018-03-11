@@ -1,25 +1,25 @@
-1,2012-11-08 19:00:55 -0600,"['/t/event', '/t/ruby']",RubyConf 2012 Keynote by Matz,http://www.confreaks.com/videos/1268-rubyconf2012-keynote-reinventing-wheels-of-the-future,/u/janogonzalez,5
-0,2012-11-08 17:03:39 -0600,"['/t/api', '/t/erlang', '/t/release']",Using Unicode to play chess over SMS,http://www.twilio.com/engineering/2012/11/08/adventures-in-unicode-sms,/u/kb,6
-1,2012-11-08 10:01:19 -0600,"['/t/javascript', '/t/unix']",Kernel Drivers Compiled to Javascript and Run in Browser,http://blog.netbsd.org/tnf/entry/kernel_drivers_compiled_to_javascript,/u/jturner,6
-2,2012-11-08 02:42:55 -0600,"['/t/linux', '/t/unix']",E17 (Enlightenment) enters alpha after 12 years,http://www.enlightenment.org/p.php?p=news/show&l=en&news_id=62,/u/trousers,6
-0,2012-11-08 09:34:19 -0600,['/t/science'],A Talk by NASA Astronaut Donald Pettit on Doing Photography in Space,http://www.petapixel.com/2012/11/06/a-talk-by-nasa-astronaut-donald-pettit-on-doing-photography-in-space/,/u/wally,2
-0,2012-11-07 10:19:08 -0600,['/t/security'],"Security, security! But do you test it?",http://www.viva64.com/en/b/0178/,/u/jcs,9
-1,2012-11-06 13:37:26 -0600,"['/t/android', '/t/ruby']","Sidekiq vs Resque, with MRI and JRuby - Josh Rendek",http://joshrendek.com/2012/11/sidekiq-vs-resque/,/u/joshrendek,4
-2,2012-11-06 12:24:57 -0600,['/t/release'],Meet the new Light Table,http://www.chris-granger.com/2012/11/05/meet-the-new-light-table,/u/vladikoff,5
-0,2012-11-06 14:15:00 -0600,"['/t/security', '/t/virtualization']",Cross-VM side-channel attacks,http://blog.cryptographyengineering.com/2012/10/attack-of-week-cross-vm-timing-attacks.html,/u/kyle,5
-0,2012-11-06 09:19:02 -0600,"['/t/openbsd', '/t/security', '/t/unix']",Open Source Full Disk Encryption: What Took So Long?,https://www.cyphertite.com/blog.php?/archives/8-Open-Source-Full-Disk-Encryption-What-took-so-long.html,/u/lynge,9
-0,2012-11-06 14:51:31 -0600,['/t/web'],pathod - A pathological HTTP daemon for testing and torturing client software,http://cortesi.github.com/pathod/,/u/tobym,2
-0,2012-11-06 13:49:05 -0600,['/t/scala'],Iteratees for imperative programmers,http://jazzy.id.au/default/2012/11/06/iteratees_for_imperative_programmers.html,/u/tobym,2
-1,2012-11-06 06:05:08 -0600,['/t/philosophy'],Theory and Practice,http://words.steveklabnik.com/theory-and-practice,/u/steveklabnik,4
-2,2012-11-06 03:20:39 -0600,"['/t/compilers', '/t/freebsd']",Clang is now the default compiler on FreeBSD i386 and amd64,http://lists.freebsd.org/pipermail/freebsd-current/2012-November/037458.html,/u/lynge,6
-1,2012-11-06 00:38:50 -0600,['/t/android'],Building Inferno OS for Android Phones,http://www.bluishcoder.co.nz/2012/06/11/building-inferno-os-for-android-phones.html,/u/kyle,6
-0,2012-11-06 09:54:14 -0600,"['/t/databases', '/t/python']",Using Postgres Arrays in Django,http://craigkerstiens.com/2012/11/06/django-and-arrays/,/u/craigkerstiens,2
-0,2012-11-05 23:55:35 -0600,['/t/ruby'],Deploying a Rails Application to AWS Elastic Beanstalk,http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html,/u/sren,2
-8,2012-11-04 16:42:26 -0600,['/t/go'],Go at Google (Slides by Rob Pike),http://talks.golang.org/2012/splash.slide,/u/jcs,18
-20,2012-11-04 11:58:53 -0600,['/t/ruby'],Learning to Program and When to Start Building Your Own App?,http://www.andrewkkirk.com/2012/11/learning-to-program-start-build-your-own-app/,/u/andrewkkirk,9
-1,2012-11-04 11:35:15 -0600,"['/t/compsci', '/t/rust']",Rust: Function and Object Types,http://smallcultfollowing.com/babysteps/blog/2012/10/23/function-and-object-types/,/u/andymatuschak,1
-6,2012-11-03 15:45:51 -0500,['/t/philosophy'],The Background Noise Was Louder than I Realized,http://prog21.dadgum.com/155.html,/u/dwc,7
-0,2012-11-03 13:17:36 -0500,['/t/design'],(Typography) Spacing Research,http://aldusleaf.org/rhea.php,/u/jcs,6
-2,2012-11-03 10:34:24 -0500,['/t/philosophy'],Journalistic Epistemology,http://markcoddington.com/2012/10/31/nate-silver-journalism-politics-knowledge-epistemology/,/u/steveklabnik,6
-2,2012-11-03 13:50:01 -0500,"['/t/video', '/t/ruby']",RubyCasts: Rails 101,http://rubycasts.github.com/2012/11/03/rails-101/,/u/jrg,2
-0,2012-11-03 11:24:47 -0500,"['/t/browsers', '/t/mobile', '/t/web']",mozilla/r2d2b2g · GitHub - Try out FirefoxOS,https://github.com/mozilla/r2d2b2g,/u/twopoint718,2
+1,2012-11-08 19:00:55 -0600,"/t/event,/t/ruby",RubyConf 2012 Keynote by Matz,http://www.confreaks.com/videos/1268-rubyconf2012-keynote-reinventing-wheels-of-the-future,/u/janogonzalez,5
+0,2012-11-08 17:03:39 -0600,"/t/api,/t/erlang,/t/release",Using Unicode to play chess over SMS,http://www.twilio.com/engineering/2012/11/08/adventures-in-unicode-sms,/u/kb,6
+1,2012-11-08 10:01:19 -0600,"/t/javascript,/t/unix",Kernel Drivers Compiled to Javascript and Run in Browser,http://blog.netbsd.org/tnf/entry/kernel_drivers_compiled_to_javascript,/u/jturner,6
+2,2012-11-08 02:42:55 -0600,"/t/linux,/t/unix",E17 (Enlightenment) enters alpha after 12 years,http://www.enlightenment.org/p.php?p=news/show&l=en&news_id=62,/u/trousers,6
+0,2012-11-08 09:34:19 -0600,/t/science,A Talk by NASA Astronaut Donald Pettit on Doing Photography in Space,http://www.petapixel.com/2012/11/06/a-talk-by-nasa-astronaut-donald-pettit-on-doing-photography-in-space/,/u/wally,2
+0,2012-11-07 10:19:08 -0600,/t/security,"Security, security! But do you test it?",http://www.viva64.com/en/b/0178/,/u/jcs,9
+1,2012-11-06 13:37:26 -0600,"/t/android,/t/ruby","Sidekiq vs Resque, with MRI and JRuby - Josh Rendek",http://joshrendek.com/2012/11/sidekiq-vs-resque/,/u/joshrendek,4
+2,2012-11-06 12:24:57 -0600,/t/release,Meet the new Light Table,http://www.chris-granger.com/2012/11/05/meet-the-new-light-table,/u/vladikoff,5
+0,2012-11-06 14:15:00 -0600,"/t/security,/t/virtualization",Cross-VM side-channel attacks,http://blog.cryptographyengineering.com/2012/10/attack-of-week-cross-vm-timing-attacks.html,/u/kyle,5
+0,2012-11-06 09:19:02 -0600,"/t/openbsd,/t/security,/t/unix",Open Source Full Disk Encryption: What Took So Long?,https://www.cyphertite.com/blog.php?/archives/8-Open-Source-Full-Disk-Encryption-What-took-so-long.html,/u/lynge,9
+0,2012-11-06 14:51:31 -0600,/t/web,pathod - A pathological HTTP daemon for testing and torturing client software,http://cortesi.github.com/pathod/,/u/tobym,2
+0,2012-11-06 13:49:05 -0600,/t/scala,Iteratees for imperative programmers,http://jazzy.id.au/default/2012/11/06/iteratees_for_imperative_programmers.html,/u/tobym,2
+1,2012-11-06 06:05:08 -0600,/t/philosophy,Theory and Practice,http://words.steveklabnik.com/theory-and-practice,/u/steveklabnik,4
+2,2012-11-06 03:20:39 -0600,"/t/compilers,/t/freebsd",Clang is now the default compiler on FreeBSD i386 and amd64,http://lists.freebsd.org/pipermail/freebsd-current/2012-November/037458.html,/u/lynge,6
+1,2012-11-06 00:38:50 -0600,/t/android,Building Inferno OS for Android Phones,http://www.bluishcoder.co.nz/2012/06/11/building-inferno-os-for-android-phones.html,/u/kyle,6
+0,2012-11-06 09:54:14 -0600,"/t/databases,/t/python",Using Postgres Arrays in Django,http://craigkerstiens.com/2012/11/06/django-and-arrays/,/u/craigkerstiens,2
+0,2012-11-05 23:55:35 -0600,/t/ruby,Deploying a Rails Application to AWS Elastic Beanstalk,http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html,/u/sren,2
+8,2012-11-04 16:42:26 -0600,/t/go,Go at Google (Slides by Rob Pike),http://talks.golang.org/2012/splash.slide,/u/jcs,18
+20,2012-11-04 11:58:53 -0600,/t/ruby,Learning to Program and When to Start Building Your Own App?,http://www.andrewkkirk.com/2012/11/learning-to-program-start-build-your-own-app/,/u/andrewkkirk,9
+1,2012-11-04 11:35:15 -0600,"/t/compsci,/t/rust",Rust: Function and Object Types,http://smallcultfollowing.com/babysteps/blog/2012/10/23/function-and-object-types/,/u/andymatuschak,1
+6,2012-11-03 15:45:51 -0500,/t/philosophy,The Background Noise Was Louder than I Realized,http://prog21.dadgum.com/155.html,/u/dwc,7
+0,2012-11-03 13:17:36 -0500,/t/design,(Typography) Spacing Research,http://aldusleaf.org/rhea.php,/u/jcs,6
+2,2012-11-03 10:34:24 -0500,/t/philosophy,Journalistic Epistemology,http://markcoddington.com/2012/10/31/nate-silver-journalism-politics-knowledge-epistemology/,/u/steveklabnik,6
+2,2012-11-03 13:50:01 -0500,"/t/video,/t/ruby",RubyCasts: Rails 101,http://rubycasts.github.com/2012/11/03/rails-101/,/u/jrg,2
+0,2012-11-03 11:24:47 -0500,"/t/browsers,/t/mobile,/t/web",mozilla/r2d2b2g · GitHub - Try out FirefoxOS,https://github.com/mozilla/r2d2b2g,/u/twopoint718,2

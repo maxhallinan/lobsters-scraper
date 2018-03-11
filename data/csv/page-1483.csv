@@ -1,25 +1,25 @@
-0,2013-05-04 01:02:22 -0500,['/t/visualization'],StoryLine - time data visualisation,http://www.hoodb.com,/u/antulik,2
-3,2013-05-03 04:21:39 -0500,"['/t/openbsd', '/t/security']",OpenBSD Stable packages and binpatches,https://stable.mtier.org/,/u/jasper,11
-0,2013-05-03 13:50:22 -0500,"['/t/scaling', '/t/web']",Varnish in Five Acts,http://dev.theladders.com/2013/05/varnish-in-five-acts/,/u/SeanTAllen,3
-1,2013-05-03 15:19:51 -0500,"['/t/android', '/t/law']",The Linkify Problem: The Patent and the Behavior,http://commonsware.com/blog/2012/07/23/linkify-problem-patent-behavior.html,/u/jcs,2
-0,2013-05-03 13:38:10 -0500,"['/t/release', '/t/ruby']","Stringer, a self-hosted anti-social RSS reader",https://github.com/swanson/stringer,/u/snk,2
-0,2013-05-03 13:23:34 -0500,"['/t/practices', '/t/programming']",Learning from a dropped refactoring – The Real Adam,http://therealadam.com/2013/05/01/learning-from-a-dropped-refactoring/,/u/tundal45,1
-1,2013-05-02 20:54:50 -0500,['/t/hardware'],Intel Iris & Iris Pro Graphics: Haswell GT3/GT3e Gets a Brand,http://www.anandtech.com/show/6926/intel-iris-iris-pro-graphics-haswell-gt3gt3e-gets-a-brand,/u/tedu,4
-0,2013-05-03 00:31:12 -0500,"['/t/go', '/t/scaling']",Introducing Heka,https://blog.mozilla.org/services/2013/04/30/introducing-heka/,/u/kyle,2
-0,2013-05-02 16:04:25 -0500,"['/t/security', '/t/web']",Practical HTTP Host header attacks,http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html,/u/thorduri,4
-1,2013-05-03 11:00:52 -0500,"['/t/book', '/t/person', '/t/rant']",On Blogging,http://blog.higg.im/on-blogging,/u/dh,0
-0,2013-05-02 14:16:39 -0500,"['/t/c', '/t/lisp', '/t/person', '/t/programming']",Behind the Scenes with CHICKEN Scheme (Part 1),http://spin.atomicobject.com/2013/05/02/chicken-scheme-part-1/,/u/silentbicycle,2
-0,2013-05-02 10:56:58 -0500,"['/t/release', '/t/unix']",A dramatically improved CFF rasterizer for FreeType,http://google-opensource.blogspot.com.au/2013/05/got-cff.html,/u/jcs,3
-0,2013-05-01 23:15:12 -0500,"['/t/javascript', '/t/release', '/t/web']",Intern: A next-generation JavaScript testing stack,http://theintern.io/,/u/vladikoff,4
-1,2013-05-01 09:33:16 -0500,"['/t/openbsd', '/t/release']",OpenBSD 5.3 Released,http://www.openbsd.org/53.html,/u/jcs,16
-0,2013-05-01 17:49:58 -0500,"['/t/cryptocurrencies', '/t/go']",btcd: a bitcoind alternative written in Go,https://blog.conformal.com/btcd-a-bitcoind-alternative-written-in-go/,/u/jcs,6
-0,2013-05-01 23:43:35 -0500,"['/t/release', '/t/unix']",Selection of roadmap for i386 platform End-of-Life | DragonFly,http://lists.dragonflybsd.org/pipermail/kernel/2013-April/031209.html,/u/virtualroot,2
-1,2013-05-01 12:13:18 -0500,"['/t/c', '/t/ruby', '/t/scaling']","Hey Judy, don't make it bad (on Ruby's GC and Judy Arrays)",https://github.com/blog/1489-hey-judy-don-t-make-it-bad,/u/jcs,3
-1,2013-05-01 09:15:20 -0500,"['/t/news', '/t/visualization']",This Is the Most Detailed Picture of the Internet Ever (and Making it Was Very Illegal),http://motherboard.vice.com/blog/this-is-most-detailed-picture-internet-ever,/u/snk,4
-0,2013-05-01 13:50:09 -0500,['/t/web'],Beginners guide to HTTP cache headers,https://www.mobify.com/blog/beginners-guide-to-http-cache-headers/,/u/thorduri,2
-1,2013-05-01 11:42:13 -0500,"['/t/law', '/t/news']",Use a Software Bug to Win Video Poker? That’s a Federal Hacking Case,http://www.wired.com/threatlevel/2013/05/game-king/,/u/jcs,1
-4,2013-05-01 01:02:15 -0500,['/t/vcs'],The problem with pull requests / code reviews,http://philfreo.com/blog/the-problem-with-pull-requests-code-reviews/,/u/philfreo,3
-0,2013-05-01 12:44:52 -0500,"['/t/programming', '/t/python', '/t/science']",What Makes Code Hard to Understand?,http://arxiv.org/abs/1304.5257,/u/jamesmacaulay,1
-0,2013-05-01 12:01:37 -0500,['/t/visualization'],Diff Displays: Tracking Visual Changes on Unattended Displays,http://sachi.cs.st-andrews.ac.uk/research/software/diffdisplays/,/u/jcs,1
-1,2013-04-30 21:53:36 -0500,['/t/ruby'],Sandi Metz - Magic tricks of testing,https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=0,/u/kb,3
-0,2013-04-30 20:32:07 -0500,"['/t/law', '/t/privacy']",Who Has Your Back? 2013,https://www.eff.org/who-has-your-back-2013,/u/jcs,3
+0,2013-05-04 01:02:22 -0500,/t/visualization,StoryLine - time data visualisation,http://www.hoodb.com,/u/antulik,2
+3,2013-05-03 04:21:39 -0500,"/t/openbsd,/t/security",OpenBSD Stable packages and binpatches,https://stable.mtier.org/,/u/jasper,11
+0,2013-05-03 13:50:22 -0500,"/t/scaling,/t/web",Varnish in Five Acts,http://dev.theladders.com/2013/05/varnish-in-five-acts/,/u/SeanTAllen,3
+1,2013-05-03 15:19:51 -0500,"/t/android,/t/law",The Linkify Problem: The Patent and the Behavior,http://commonsware.com/blog/2012/07/23/linkify-problem-patent-behavior.html,/u/jcs,2
+0,2013-05-03 13:38:10 -0500,"/t/release,/t/ruby","Stringer, a self-hosted anti-social RSS reader",https://github.com/swanson/stringer,/u/snk,2
+0,2013-05-03 13:23:34 -0500,"/t/practices,/t/programming",Learning from a dropped refactoring – The Real Adam,http://therealadam.com/2013/05/01/learning-from-a-dropped-refactoring/,/u/tundal45,1
+1,2013-05-02 20:54:50 -0500,/t/hardware,Intel Iris & Iris Pro Graphics: Haswell GT3/GT3e Gets a Brand,http://www.anandtech.com/show/6926/intel-iris-iris-pro-graphics-haswell-gt3gt3e-gets-a-brand,/u/tedu,4
+0,2013-05-03 00:31:12 -0500,"/t/go,/t/scaling",Introducing Heka,https://blog.mozilla.org/services/2013/04/30/introducing-heka/,/u/kyle,2
+0,2013-05-02 16:04:25 -0500,"/t/security,/t/web",Practical HTTP Host header attacks,http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html,/u/thorduri,4
+1,2013-05-03 11:00:52 -0500,"/t/book,/t/person,/t/rant",On Blogging,http://blog.higg.im/on-blogging,/u/dh,0
+0,2013-05-02 14:16:39 -0500,"/t/c,/t/lisp,/t/person,/t/programming",Behind the Scenes with CHICKEN Scheme (Part 1),http://spin.atomicobject.com/2013/05/02/chicken-scheme-part-1/,/u/silentbicycle,2
+0,2013-05-02 10:56:58 -0500,"/t/release,/t/unix",A dramatically improved CFF rasterizer for FreeType,http://google-opensource.blogspot.com.au/2013/05/got-cff.html,/u/jcs,3
+0,2013-05-01 23:15:12 -0500,"/t/javascript,/t/release,/t/web",Intern: A next-generation JavaScript testing stack,http://theintern.io/,/u/vladikoff,4
+1,2013-05-01 09:33:16 -0500,"/t/openbsd,/t/release",OpenBSD 5.3 Released,http://www.openbsd.org/53.html,/u/jcs,16
+0,2013-05-01 17:49:58 -0500,"/t/cryptocurrencies,/t/go",btcd: a bitcoind alternative written in Go,https://blog.conformal.com/btcd-a-bitcoind-alternative-written-in-go/,/u/jcs,6
+0,2013-05-01 23:43:35 -0500,"/t/release,/t/unix",Selection of roadmap for i386 platform End-of-Life | DragonFly,http://lists.dragonflybsd.org/pipermail/kernel/2013-April/031209.html,/u/virtualroot,2
+1,2013-05-01 12:13:18 -0500,"/t/c,/t/ruby,/t/scaling","Hey Judy, don't make it bad (on Ruby's GC and Judy Arrays)",https://github.com/blog/1489-hey-judy-don-t-make-it-bad,/u/jcs,3
+1,2013-05-01 09:15:20 -0500,"/t/news,/t/visualization",This Is the Most Detailed Picture of the Internet Ever (and Making it Was Very Illegal),http://motherboard.vice.com/blog/this-is-most-detailed-picture-internet-ever,/u/snk,4
+0,2013-05-01 13:50:09 -0500,/t/web,Beginners guide to HTTP cache headers,https://www.mobify.com/blog/beginners-guide-to-http-cache-headers/,/u/thorduri,2
+1,2013-05-01 11:42:13 -0500,"/t/law,/t/news",Use a Software Bug to Win Video Poker? That’s a Federal Hacking Case,http://www.wired.com/threatlevel/2013/05/game-king/,/u/jcs,1
+4,2013-05-01 01:02:15 -0500,/t/vcs,The problem with pull requests / code reviews,http://philfreo.com/blog/the-problem-with-pull-requests-code-reviews/,/u/philfreo,3
+0,2013-05-01 12:44:52 -0500,"/t/programming,/t/python,/t/science",What Makes Code Hard to Understand?,http://arxiv.org/abs/1304.5257,/u/jamesmacaulay,1
+0,2013-05-01 12:01:37 -0500,/t/visualization,Diff Displays: Tracking Visual Changes on Unattended Displays,http://sachi.cs.st-andrews.ac.uk/research/software/diffdisplays/,/u/jcs,1
+1,2013-04-30 21:53:36 -0500,/t/ruby,Sandi Metz - Magic tricks of testing,https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=0,/u/kb,3
+0,2013-04-30 20:32:07 -0500,"/t/law,/t/privacy",Who Has Your Back? 2013,https://www.eff.org/who-has-your-back-2013,/u/jcs,3

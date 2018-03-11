@@ -1,25 +1,25 @@
-0,2017-08-31 15:20:47 -0500,['/t/elm'],Building your SPA in Elm - Part 1,https://www.dailydrip.com/blog/building-your-spa-in-elm-part-1.html,/u/franzunix,9
-0,2017-09-01 07:06:33 -0500,"['/t/assembly', '/t/programming', '/t/windows']",Detecting debuggers by abusing a bad assumption within Windows,http://www.triplefault.io/2017/08/detecting-debuggers-by-abusing-bad.html,/u/calvin,2
-0,2017-09-01 15:51:11 -0500,"['/t/culture', '/t/practices']",What We Should Teach Up-and-Coming Developers,https://meiert.com/en/blog/teaching-developers/,/u/flyingfisch,1
-1,2017-08-31 15:49:42 -0500,"['/t/art', '/t/math']",A Game of Life on Penrose tilings,https://arxiv.org/abs/1708.09301,/u/hl,8
-0,2017-09-01 03:57:33 -0500,"['/t/go', '/t/testing', '/t/web']",How to test Go HTTPS Services,https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/,/u/jodosha,1
-0,2017-09-01 08:25:07 -0500,['/t/science'],Betteridge's Law Of Headlines,https://en.m.wikipedia.org/wiki/Betteridge%27s_law_of_headlines,/u/freddyb,1
-16,2017-08-31 08:22:55 -0500,['/t/philosophy'],Why I'm Not Ditching Cloudflare,https://chrisshort.net/why-im-not-ditching-cloudflare/,/u/ChrisShort,5
-1,2017-08-31 10:48:00 -0500,"['/t/browsers', '/t/javascript', '/t/testing']",Firefox in Headless mode,https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode,/u/comzeradd,15
-2,2017-08-31 11:33:58 -0500,"['/t/pdf', '/t/android', '/t/privacy']",Does disabling Wi-Fi prevent my Android phone from sending Wi-Fi frames?,https://hal.inria.fr/hal-01575519/document,/u/pushcx,8
-0,2017-08-31 06:18:55 -0500,"['/t/graphics', '/t/linux', '/t/programming']",Low-Level Graphics on Linux,http://betteros.org/tut/graphics1.php,/u/calvin,20
-25,2017-08-30 14:16:50 -0500,['/t/ruby'],"How I lost 17,000 GitHub Auth Tokens in One Night",https://www.schneems.com/2017/08/30/how-i-lost-17000-github-auth-tokens-in-one-night/,/u/schneems,29
-15,2017-08-30 22:00:16 -0500,"['/t/hardware', '/t/practices']",Why I Stopped Using Multiple Monitors,https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b,/u/calvin,21
-0,2017-09-01 02:23:41 -0500,"['/t/netbsd', '/t/unix']","GSoC 2017 Reports: Add SUBPACKAGES support to pkgsrc, part 1",https://blog.netbsd.org/tnf/entry/gsoc_2017_reports_add_code,/u/mjturner,1
-7,2017-08-31 14:04:40 -0500,"['/t/networking', '/t/web']",How to have your cake and h2,https://whitane.com/post/how-to-have-your-cake-and-h2/,/u/shanemhansen,3
-0,2017-08-31 16:34:23 -0500,['/t/culture'],How to provide help,http://sigusr2.net/how-to-provide-help.html,/u/apg,4
-27,2017-08-30 16:02:39 -0500,['/t/security'],465k patients told to visit doctor to patch critical pacemaker vulnerability,https://arstechnica.com/information-technology/2017/08/465k-patients-need-a-firmware-update-to-prevent-serious-pacemaker-hacks/,/u/JordiGH,31
-0,2017-08-31 14:24:49 -0500,"['/t/crypto', '/t/law', '/t/philosophy', '/t/privacy']",What Colour are your bits?,http://ansuz.sooke.bc.ca/entry/23,/u/yumaikas,5
-3,2017-08-31 08:05:46 -0500,"['/t/practices', '/t/programming']",Comment Drift,http://kellysutton.com/2017/08/30/comment-drift.html,/u/flyingfisch,6
-0,2017-08-31 11:53:01 -0500,['/t/python'],A collection of interesting and tricky Python examples,https://github.com/satwikkansal/wtfpython,/u/pushcx,6
-0,2017-08-31 11:50:13 -0500,"['/t/android', '/t/linux', '/t/security']",Hardening the Kernel in Android Oreo,https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html,/u/calvin,5
-0,2017-08-31 13:18:06 -0500,"['/t/video', '/t/distributed', '/t/perl']",From sockets to services: reactive distributed software in Perl 6,https://www.youtube.com/watch?v=6CsBDnTUJ3A,/u/domm,4
-24,2017-08-30 11:02:44 -0500,['/t/ml'],OCaml for the impatient,http://adambard.com/blog/getting-started-with-ocaml/,/u/bsima,38
-9,2017-08-30 18:31:05 -0500,"['/t/compilers', '/t/programming']",yet another introduction to yacc,http://www.tedunangst.com/flak/post/yaity,/u/calvin,19
-5,2017-08-30 16:02:52 -0500,['/t/distributed'],"Efficient, cross-actor distributed transactions in Microsoft Orleans",https://github.com/dotnet/orleans/issues/3369,/u/cmeiklejohn,10
-8,2017-08-30 21:55:35 -0500,"['/t/cogsci', '/t/hardware', '/t/practices']",Overcoming Repetitive Strain Injury(RSI): What worked and what didn’t,https://medium.com/bambuu/overcoming-reptitive-strain-injury-rsi-what-worked-and-what-didnt-e315e737b96a,/u/calvin,9
+0,2017-08-31 15:20:47 -0500,/t/elm,Building your SPA in Elm - Part 1,https://www.dailydrip.com/blog/building-your-spa-in-elm-part-1.html,/u/franzunix,9
+0,2017-09-01 07:06:33 -0500,"/t/assembly,/t/programming,/t/windows",Detecting debuggers by abusing a bad assumption within Windows,http://www.triplefault.io/2017/08/detecting-debuggers-by-abusing-bad.html,/u/calvin,2
+0,2017-09-01 15:51:11 -0500,"/t/culture,/t/practices",What We Should Teach Up-and-Coming Developers,https://meiert.com/en/blog/teaching-developers/,/u/flyingfisch,1
+1,2017-08-31 15:49:42 -0500,"/t/art,/t/math",A Game of Life on Penrose tilings,https://arxiv.org/abs/1708.09301,/u/hl,8
+0,2017-09-01 03:57:33 -0500,"/t/go,/t/testing,/t/web",How to test Go HTTPS Services,https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/,/u/jodosha,1
+0,2017-09-01 08:25:07 -0500,/t/science,Betteridge's Law Of Headlines,https://en.m.wikipedia.org/wiki/Betteridge%27s_law_of_headlines,/u/freddyb,1
+16,2017-08-31 08:22:55 -0500,/t/philosophy,Why I'm Not Ditching Cloudflare,https://chrisshort.net/why-im-not-ditching-cloudflare/,/u/ChrisShort,5
+1,2017-08-31 10:48:00 -0500,"/t/browsers,/t/javascript,/t/testing",Firefox in Headless mode,https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode,/u/comzeradd,15
+2,2017-08-31 11:33:58 -0500,"/t/pdf,/t/android,/t/privacy",Does disabling Wi-Fi prevent my Android phone from sending Wi-Fi frames?,https://hal.inria.fr/hal-01575519/document,/u/pushcx,8
+0,2017-08-31 06:18:55 -0500,"/t/graphics,/t/linux,/t/programming",Low-Level Graphics on Linux,http://betteros.org/tut/graphics1.php,/u/calvin,20
+25,2017-08-30 14:16:50 -0500,/t/ruby,"How I lost 17,000 GitHub Auth Tokens in One Night",https://www.schneems.com/2017/08/30/how-i-lost-17000-github-auth-tokens-in-one-night/,/u/schneems,29
+15,2017-08-30 22:00:16 -0500,"/t/hardware,/t/practices",Why I Stopped Using Multiple Monitors,https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b,/u/calvin,21
+0,2017-09-01 02:23:41 -0500,"/t/netbsd,/t/unix","GSoC 2017 Reports: Add SUBPACKAGES support to pkgsrc, part 1",https://blog.netbsd.org/tnf/entry/gsoc_2017_reports_add_code,/u/mjturner,1
+7,2017-08-31 14:04:40 -0500,"/t/networking,/t/web",How to have your cake and h2,https://whitane.com/post/how-to-have-your-cake-and-h2/,/u/shanemhansen,3
+0,2017-08-31 16:34:23 -0500,/t/culture,How to provide help,http://sigusr2.net/how-to-provide-help.html,/u/apg,4
+27,2017-08-30 16:02:39 -0500,/t/security,465k patients told to visit doctor to patch critical pacemaker vulnerability,https://arstechnica.com/information-technology/2017/08/465k-patients-need-a-firmware-update-to-prevent-serious-pacemaker-hacks/,/u/JordiGH,31
+0,2017-08-31 14:24:49 -0500,"/t/crypto,/t/law,/t/philosophy,/t/privacy",What Colour are your bits?,http://ansuz.sooke.bc.ca/entry/23,/u/yumaikas,5
+3,2017-08-31 08:05:46 -0500,"/t/practices,/t/programming",Comment Drift,http://kellysutton.com/2017/08/30/comment-drift.html,/u/flyingfisch,6
+0,2017-08-31 11:53:01 -0500,/t/python,A collection of interesting and tricky Python examples,https://github.com/satwikkansal/wtfpython,/u/pushcx,6
+0,2017-08-31 11:50:13 -0500,"/t/android,/t/linux,/t/security",Hardening the Kernel in Android Oreo,https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html,/u/calvin,5
+0,2017-08-31 13:18:06 -0500,"/t/video,/t/distributed,/t/perl",From sockets to services: reactive distributed software in Perl 6,https://www.youtube.com/watch?v=6CsBDnTUJ3A,/u/domm,4
+24,2017-08-30 11:02:44 -0500,/t/ml,OCaml for the impatient,http://adambard.com/blog/getting-started-with-ocaml/,/u/bsima,38
+9,2017-08-30 18:31:05 -0500,"/t/compilers,/t/programming",yet another introduction to yacc,http://www.tedunangst.com/flak/post/yaity,/u/calvin,19
+5,2017-08-30 16:02:52 -0500,/t/distributed,"Efficient, cross-actor distributed transactions in Microsoft Orleans",https://github.com/dotnet/orleans/issues/3369,/u/cmeiklejohn,10
+8,2017-08-30 21:55:35 -0500,"/t/cogsci,/t/hardware,/t/practices",Overcoming Repetitive Strain Injury(RSI): What worked and what didn’t,https://medium.com/bambuu/overcoming-reptitive-strain-injury-rsi-what-worked-and-what-didnt-e315e737b96a,/u/calvin,9

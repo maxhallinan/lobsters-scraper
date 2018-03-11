@@ -1,25 +1,25 @@
-11,2016-07-21 15:22:52 -0500,"['/t/show', '/t/go', '/t/web']",clay - A git backed wiki/personal notebook in golang,/s/sqxgfi/clay_git_backed_wiki_personal_notebook,/u/rain1,23
-0,2016-07-22 09:37:20 -0500,['/t/historical'],The Last VCRs Ever Will Be Made This Month,http://www.popularmechanics.com/technology/gadgets/a21956/the-last-vcr/,/u/mikec,11
-5,2016-07-21 19:05:00 -0500,"['/t/show', '/t/rust']","gabelstaplerwm - a minimal(istic) tiling window manager written in Rust, using XCB",https://github.com/ibabushkin/gabelstaplerwm,/u/twk,21
-0,2016-07-22 16:14:19 -0500,['/t/hardware'],My Raspberry Pi cluster,http://blog.erratasec.com/2016/07/my-raspeberry-pi-cluster.html,/u/pushcx,4
-0,2016-07-22 18:06:53 -0500,"['/t/compsci', '/t/windows']",A Decade of Software Model Checking with SLAM (2011),http://cacm.acm.org/magazines/2011/7/109893-a-decade-of-software-model-checking-with-slam/fulltext,/u/mjn,2
-0,2016-07-22 08:36:16 -0500,['/t/networking'],A tcpdump Primer with Examples,https://danielmiessler.com/study/tcpdump/,/u/av,7
-3,2016-07-21 17:48:16 -0500,"['/t/netbsd', '/t/security', '/t/unix']",Spawn your shell like it's 90s again!,http://akat1.pl/?id=2,/u/sevan,25
-0,2016-07-22 08:25:10 -0500,"['/t/c', '/t/compilers']",LLVM Programmer’s Manual,http://llvm.org/docs/ProgrammersManual.html,/u/av,5
-0,2016-07-22 08:26:22 -0500,"['/t/book', '/t/c']",Practical Guide to Bare Metal C++,https://arobenko.gitbooks.io/bare_metal_cpp/content/,/u/av,4
-5,2016-07-21 12:04:20 -0500,"['/t/games', '/t/lua']",in which a spacefaring text editor holds up against an onslaught,http://technomancy.us/180,/u/apg,27
-0,2016-07-22 07:49:06 -0500,"['/t/video', '/t/compsci']",Analyzing Programs with Z3,https://www.youtube.com/watch?v=ruNFcH-KibY,/u/craigstuntz,4
-0,2016-07-22 09:41:46 -0500,"['/t/javascript', '/t/testing']",Testing Angular 2 Services,https://www.angularonrails.com/angular-2-service-test-example/,/u/pushcx,3
-0,2016-07-22 09:30:50 -0500,['/t/devops'],Docker Storage: An introduction,https://deis.com/blog/2016/docker-storage-introduction/,/u/nslater,3
-14,2016-07-21 09:19:39 -0500,['/t/web'],I wanna go fast: HTTPS' massive speed advantage,https://www.troyhunt.com/i-wanna-go-fast-https-massive-speed-advantage/,/u/resir014,24
-19,2016-07-21 09:31:00 -0500,['/t/ask'],Are you using keybase? What do you think about it?,/s/gdjykp/are_you_using_keybase_what_do_you_think,/u/unbalancedparentheses,22
-6,2016-07-21 16:16:35 -0500,['/t/hardware'],Assessing IBM's POWER8,http://www.anandtech.com/show/10435/assessing-ibms-power8-part-1,/u/tedu,9
-0,2016-07-22 08:27:40 -0500,['/t/python'],riko - A python stream processing engine modeled after Yahoo! Pipes,https://github.com/nerevu/riko,/u/av,2
-0,2016-07-22 03:26:51 -0500,['/t/python'],The History of Python: Microsoft Ships Python Code... in 1996,http://python-history.blogspot.com/2009/01/microsoft-ships-python-code-in-1996.html,/u/myururdurmaz,4
-0,2016-07-22 11:18:13 -0500,['/t/javascript'],Create Apps with No Configuration,https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html,/u/av,1
-4,2016-07-21 15:24:24 -0500,['/t/erlang'],Where Erlang BLOOMs [2012],http://ferd.ca/rtb-where-erlang-blooms.html,/u/unbalancedparentheses,9
-10,2016-07-21 10:39:50 -0500,['/t/security'],Publishing My Private Keys [2012],http://nullprogram.com/blog/2012/06/24/,/u/unbalancedparentheses,12
-0,2016-07-21 18:19:56 -0500,"['/t/video', '/t/ml']",From Unikernels to Databases to UIs: Truly full-stack apps in OCaml - Curry On,https://www.youtube.com/watch?v=QWfHrbSqnB0,/u/unbalancedparentheses,10
-9,2016-07-21 11:36:30 -0500,"['/t/ios', '/t/mac', '/t/security']",Update your Apple devices now to fix a terrifying security bug,http://qz.com/738214/update-your-apple-devices-now-to-fix-a-terrifying-security-bug/,/u/apg,10
-8,2016-07-21 06:21:22 -0500,['/t/programming'],Welcome to Stack Overflow Documentation,http://stackoverflow.com/tour/documentation,/u/binarymax,16
-0,2016-07-21 15:38:39 -0500,"['/t/video', '/t/programming']",Pony VUG #4: Luke Cheeseman: Simple Value-Dependent Types In Pony,https://vimeo.com/175746403,/u/SeanTAllen,9
+11,2016-07-21 15:22:52 -0500,"/t/show,/t/go,/t/web",clay - A git backed wiki/personal notebook in golang,/s/sqxgfi/clay_git_backed_wiki_personal_notebook,/u/rain1,23
+0,2016-07-22 09:37:20 -0500,/t/historical,The Last VCRs Ever Will Be Made This Month,http://www.popularmechanics.com/technology/gadgets/a21956/the-last-vcr/,/u/mikec,11
+5,2016-07-21 19:05:00 -0500,"/t/show,/t/rust","gabelstaplerwm - a minimal(istic) tiling window manager written in Rust, using XCB",https://github.com/ibabushkin/gabelstaplerwm,/u/twk,21
+0,2016-07-22 16:14:19 -0500,/t/hardware,My Raspberry Pi cluster,http://blog.erratasec.com/2016/07/my-raspeberry-pi-cluster.html,/u/pushcx,4
+0,2016-07-22 18:06:53 -0500,"/t/compsci,/t/windows",A Decade of Software Model Checking with SLAM (2011),http://cacm.acm.org/magazines/2011/7/109893-a-decade-of-software-model-checking-with-slam/fulltext,/u/mjn,2
+0,2016-07-22 08:36:16 -0500,/t/networking,A tcpdump Primer with Examples,https://danielmiessler.com/study/tcpdump/,/u/av,7
+3,2016-07-21 17:48:16 -0500,"/t/netbsd,/t/security,/t/unix",Spawn your shell like it's 90s again!,http://akat1.pl/?id=2,/u/sevan,25
+0,2016-07-22 08:25:10 -0500,"/t/c,/t/compilers",LLVM Programmer’s Manual,http://llvm.org/docs/ProgrammersManual.html,/u/av,5
+0,2016-07-22 08:26:22 -0500,"/t/book,/t/c",Practical Guide to Bare Metal C++,https://arobenko.gitbooks.io/bare_metal_cpp/content/,/u/av,4
+5,2016-07-21 12:04:20 -0500,"/t/games,/t/lua",in which a spacefaring text editor holds up against an onslaught,http://technomancy.us/180,/u/apg,27
+0,2016-07-22 07:49:06 -0500,"/t/video,/t/compsci",Analyzing Programs with Z3,https://www.youtube.com/watch?v=ruNFcH-KibY,/u/craigstuntz,4
+0,2016-07-22 09:41:46 -0500,"/t/javascript,/t/testing",Testing Angular 2 Services,https://www.angularonrails.com/angular-2-service-test-example/,/u/pushcx,3
+0,2016-07-22 09:30:50 -0500,/t/devops,Docker Storage: An introduction,https://deis.com/blog/2016/docker-storage-introduction/,/u/nslater,3
+14,2016-07-21 09:19:39 -0500,/t/web,I wanna go fast: HTTPS' massive speed advantage,https://www.troyhunt.com/i-wanna-go-fast-https-massive-speed-advantage/,/u/resir014,24
+19,2016-07-21 09:31:00 -0500,/t/ask,Are you using keybase? What do you think about it?,/s/gdjykp/are_you_using_keybase_what_do_you_think,/u/unbalancedparentheses,22
+6,2016-07-21 16:16:35 -0500,/t/hardware,Assessing IBM's POWER8,http://www.anandtech.com/show/10435/assessing-ibms-power8-part-1,/u/tedu,9
+0,2016-07-22 08:27:40 -0500,/t/python,riko - A python stream processing engine modeled after Yahoo! Pipes,https://github.com/nerevu/riko,/u/av,2
+0,2016-07-22 03:26:51 -0500,/t/python,The History of Python: Microsoft Ships Python Code... in 1996,http://python-history.blogspot.com/2009/01/microsoft-ships-python-code-in-1996.html,/u/myururdurmaz,4
+0,2016-07-22 11:18:13 -0500,/t/javascript,Create Apps with No Configuration,https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html,/u/av,1
+4,2016-07-21 15:24:24 -0500,/t/erlang,Where Erlang BLOOMs [2012],http://ferd.ca/rtb-where-erlang-blooms.html,/u/unbalancedparentheses,9
+10,2016-07-21 10:39:50 -0500,/t/security,Publishing My Private Keys [2012],http://nullprogram.com/blog/2012/06/24/,/u/unbalancedparentheses,12
+0,2016-07-21 18:19:56 -0500,"/t/video,/t/ml",From Unikernels to Databases to UIs: Truly full-stack apps in OCaml - Curry On,https://www.youtube.com/watch?v=QWfHrbSqnB0,/u/unbalancedparentheses,10
+9,2016-07-21 11:36:30 -0500,"/t/ios,/t/mac,/t/security",Update your Apple devices now to fix a terrifying security bug,http://qz.com/738214/update-your-apple-devices-now-to-fix-a-terrifying-security-bug/,/u/apg,10
+8,2016-07-21 06:21:22 -0500,/t/programming,Welcome to Stack Overflow Documentation,http://stackoverflow.com/tour/documentation,/u/binarymax,16
+0,2016-07-21 15:38:39 -0500,"/t/video,/t/programming",Pony VUG #4: Luke Cheeseman: Simple Value-Dependent Types In Pony,https://vimeo.com/175746403,/u/SeanTAllen,9

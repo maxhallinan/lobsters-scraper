@@ -1,25 +1,25 @@
-9,2017-06-09 00:58:04 -0500,"['/t/security', '/t/unix']",How Torch broke ls and made me vulnerable (or the hidden dangers of LD_LIBRARY_PATH),https://joshumax.github.io/general/2017/06/08/how-torch-broke-ls.html,/u/pushcx,34
-0,2017-06-09 10:56:56 -0500,['/t/compilers'],Writing a Forth,http://www.reinvanderwoerd.nl/blog/2017/06/08/writing-a-forth,/u/pushcx,18
-0,2017-06-09 11:04:31 -0500,"['/t/show', '/t/web']",A WebRTC soundboard,https://noisy.fun/,/u/stephank,9
-0,2017-06-10 00:38:47 -0500,"['/t/linux', '/t/networking']",Blocking Adware Domains & Other Unwanted Traffic,https://pi-hole.net/,/u/timetoplatypus,3
-0,2017-06-09 10:47:48 -0500,['/t/javascript'],TypeScript 2.3: The --strict Compiler Option,https://blog.mariusschulz.com/2017/06/09/typescript-2-3-the-strict-compiler-option,/u/mariusschulz,8
-2,2017-06-09 05:53:10 -0500,['/t/rust'],Language servers and IDEs,https://perplexinglyemma.blogspot.com/2017/06/language-servers-and-ides.html,/u/lkurusa,21
-0,2017-06-09 18:12:46 -0500,"['/t/pdf', '/t/formalmethods', '/t/programming']","VeriStar - Efficient, verified prover for separation logic (2012)",http://oucsace.cs.ohiou.edu/~gstewart/p/veristar/veristar.pdf,/u/nickpsecurity,6
-1,2017-06-09 10:41:15 -0500,['/t/security'],Real Talk on Reality Winner's Arrest,https://medium.com/@thegrugq/real-talk-on-reality-cf07cbb78530,/u/pushcx,11
-2,2017-06-09 14:05:10 -0500,['/t/formalmethods'],Programs and Proofs: Mechanizing Mathematics with Dependent Types,http://ilyasergey.net/pnp/,/u/pushcx,6
-4,2017-06-09 06:09:31 -0500,"['/t/linux', '/t/networking']",Iptables basics,https://jvns.ca/blog/2017/06/07/iptables-basics/,/u/calvin,8
-0,2017-06-09 14:07:09 -0500,"['/t/haskell', '/t/math']",Can’t see the FOUR-est for the trees.,http://www.gigamonkeys.com/trees/,/u/pushcx,5
-0,2017-06-09 15:45:38 -0500,['/t/javascript'],"A Rebuttal of ""Adopting Flow & TypeScript"" by a TypeScript PM",https://www.reddit.com/r/javascript/comments/6g0k7z/adopting_flow_typescript/,/u/joshuacc,3
-19,2017-06-08 10:22:10 -0500,"['/t/browsers', '/t/web']",Be Careful Celebrating Google’s New Ad Blocker. Here’s What’s Really Going On.,https://theintercept.com/2017/06/05/be-careful-celebrating-googles-new-ad-blocker-heres-whats-really-going-on/,/u/pizzaiolo,39
-0,2017-06-09 09:20:17 -0500,['/t/javascript'],A Data Oriented alternate to Redux,http://lexical.foobar.systems/2017/06/09/emes/,/u/mr-foobar,3
-4,2017-06-09 06:47:34 -0500,"['/t/compilers', '/t/javascript']",Prepack in the real world,http://blog.primehammer.com/2017/06/03/is-prepack-ready-for-production/,/u/baklazan,2
-1,2017-06-09 06:53:22 -0500,"['/t/hardware', '/t/ios']",Apple will now let hobbyists build their own HomeKit devices,https://www.theverge.com/2017/6/8/15761800/apple-homekit-updates-ios-11-easier-build-requirements-wwdc-2017,/u/calvin,5
-0,2017-06-09 11:18:02 -0500,"['/t/mac', '/t/security']",Safari sandbox – Mount yourself a root shell,https://phoenhex.re/2017-06-09/pwn2own-diskarbitrationd-privesc,/u/smlb,4
-4,2017-06-08 14:42:11 -0500,"['/t/freebsd', '/t/performance']",Speeding up builds on FreeBSD,https://xmj.github.io/articles/sysadmin/builds_ccache_memcached.html,/u/xmj,13
-1,2017-06-08 14:54:03 -0500,"['/t/openbsd', '/t/virtualization']",Running OpenBSD on Azure,https://azure.microsoft.com/es-es/blog/running-openbsd-on-azure/,/u/quobit,22
-0,2017-06-09 08:11:54 -0500,"['/t/video', '/t/c++', '/t/programming', '/t/scaling']","C++Now 2017: Juanpe Bolivar “Postmodern Immutable Data Structures""",https://www.youtube.com/watch?v=ZsryQp0UAC8,/u/nikhedonia,4
-0,2017-06-09 12:47:28 -0500,"['/t/compilers', '/t/compsci', '/t/distributed']",MOG (MIMD On GPU) : Run arbitrary parallel code on a GPU,http://aggregate.org/MOG/,/u/joe_the_user,2
-0,2017-06-09 01:47:47 -0500,"['/t/show', '/t/javascript', '/t/nodejs', '/t/release']",Code Cracked for Code-Splitting + SSR in Reactlandia: React Loadable + Webpack Flush Chunks and more,https://medium.com/@faceyspacey/code-cracked-for-code-splitting-ssr-in-reactlandia-react-loadable-webpack-flush-chunks-and-1a6b0112a8b8,/u/faceyspacey,4
-1,2017-06-08 16:06:33 -0500,['/t/security'],"Malware uses Intel Management Engine to avoid firewalls, maintain invisibility",https://blogs.technet.microsoft.com/mmpc/2017/06/07/platinum-continues-to-evolve-find-ways-to-maintain-invisibility/,/u/chadski,22
-0,2017-06-08 14:55:07 -0500,"['/t/performance', '/t/rust']",Rust Performance Pitfalls,https://llogiq.github.io/2017/06/01/perf-pitfalls.html,/u/aleph,23
-3,2017-06-08 21:31:29 -0500,['/t/science'],The Benefits of Talking to Yourself,https://www.nytimes.com/2017/06/08/smarter-living/benefits-of-talking-to-yourself-self-talk.html,/u/smalina,8
+9,2017-06-09 00:58:04 -0500,"/t/security,/t/unix",How Torch broke ls and made me vulnerable (or the hidden dangers of LD_LIBRARY_PATH),https://joshumax.github.io/general/2017/06/08/how-torch-broke-ls.html,/u/pushcx,34
+0,2017-06-09 10:56:56 -0500,/t/compilers,Writing a Forth,http://www.reinvanderwoerd.nl/blog/2017/06/08/writing-a-forth,/u/pushcx,18
+0,2017-06-09 11:04:31 -0500,"/t/show,/t/web",A WebRTC soundboard,https://noisy.fun/,/u/stephank,9
+0,2017-06-10 00:38:47 -0500,"/t/linux,/t/networking",Blocking Adware Domains & Other Unwanted Traffic,https://pi-hole.net/,/u/timetoplatypus,3
+0,2017-06-09 10:47:48 -0500,/t/javascript,TypeScript 2.3: The --strict Compiler Option,https://blog.mariusschulz.com/2017/06/09/typescript-2-3-the-strict-compiler-option,/u/mariusschulz,8
+2,2017-06-09 05:53:10 -0500,/t/rust,Language servers and IDEs,https://perplexinglyemma.blogspot.com/2017/06/language-servers-and-ides.html,/u/lkurusa,21
+0,2017-06-09 18:12:46 -0500,"/t/pdf,/t/formalmethods,/t/programming","VeriStar - Efficient, verified prover for separation logic (2012)",http://oucsace.cs.ohiou.edu/~gstewart/p/veristar/veristar.pdf,/u/nickpsecurity,6
+1,2017-06-09 10:41:15 -0500,/t/security,Real Talk on Reality Winner's Arrest,https://medium.com/@thegrugq/real-talk-on-reality-cf07cbb78530,/u/pushcx,11
+2,2017-06-09 14:05:10 -0500,/t/formalmethods,Programs and Proofs: Mechanizing Mathematics with Dependent Types,http://ilyasergey.net/pnp/,/u/pushcx,6
+4,2017-06-09 06:09:31 -0500,"/t/linux,/t/networking",Iptables basics,https://jvns.ca/blog/2017/06/07/iptables-basics/,/u/calvin,8
+0,2017-06-09 14:07:09 -0500,"/t/haskell,/t/math",Can’t see the FOUR-est for the trees.,http://www.gigamonkeys.com/trees/,/u/pushcx,5
+0,2017-06-09 15:45:38 -0500,/t/javascript,"A Rebuttal of ""Adopting Flow & TypeScript"" by a TypeScript PM",https://www.reddit.com/r/javascript/comments/6g0k7z/adopting_flow_typescript/,/u/joshuacc,3
+19,2017-06-08 10:22:10 -0500,"/t/browsers,/t/web",Be Careful Celebrating Google’s New Ad Blocker. Here’s What’s Really Going On.,https://theintercept.com/2017/06/05/be-careful-celebrating-googles-new-ad-blocker-heres-whats-really-going-on/,/u/pizzaiolo,39
+0,2017-06-09 09:20:17 -0500,/t/javascript,A Data Oriented alternate to Redux,http://lexical.foobar.systems/2017/06/09/emes/,/u/mr-foobar,3
+4,2017-06-09 06:47:34 -0500,"/t/compilers,/t/javascript",Prepack in the real world,http://blog.primehammer.com/2017/06/03/is-prepack-ready-for-production/,/u/baklazan,2
+1,2017-06-09 06:53:22 -0500,"/t/hardware,/t/ios",Apple will now let hobbyists build their own HomeKit devices,https://www.theverge.com/2017/6/8/15761800/apple-homekit-updates-ios-11-easier-build-requirements-wwdc-2017,/u/calvin,5
+0,2017-06-09 11:18:02 -0500,"/t/mac,/t/security",Safari sandbox – Mount yourself a root shell,https://phoenhex.re/2017-06-09/pwn2own-diskarbitrationd-privesc,/u/smlb,4
+4,2017-06-08 14:42:11 -0500,"/t/freebsd,/t/performance",Speeding up builds on FreeBSD,https://xmj.github.io/articles/sysadmin/builds_ccache_memcached.html,/u/xmj,13
+1,2017-06-08 14:54:03 -0500,"/t/openbsd,/t/virtualization",Running OpenBSD on Azure,https://azure.microsoft.com/es-es/blog/running-openbsd-on-azure/,/u/quobit,22
+0,2017-06-09 08:11:54 -0500,"/t/video,/t/c++,/t/programming,/t/scaling","C++Now 2017: Juanpe Bolivar “Postmodern Immutable Data Structures""",https://www.youtube.com/watch?v=ZsryQp0UAC8,/u/nikhedonia,4
+0,2017-06-09 12:47:28 -0500,"/t/compilers,/t/compsci,/t/distributed",MOG (MIMD On GPU) : Run arbitrary parallel code on a GPU,http://aggregate.org/MOG/,/u/joe_the_user,2
+0,2017-06-09 01:47:47 -0500,"/t/show,/t/javascript,/t/nodejs,/t/release",Code Cracked for Code-Splitting + SSR in Reactlandia: React Loadable + Webpack Flush Chunks and more,https://medium.com/@faceyspacey/code-cracked-for-code-splitting-ssr-in-reactlandia-react-loadable-webpack-flush-chunks-and-1a6b0112a8b8,/u/faceyspacey,4
+1,2017-06-08 16:06:33 -0500,/t/security,"Malware uses Intel Management Engine to avoid firewalls, maintain invisibility",https://blogs.technet.microsoft.com/mmpc/2017/06/07/platinum-continues-to-evolve-find-ways-to-maintain-invisibility/,/u/chadski,22
+0,2017-06-08 14:55:07 -0500,"/t/performance,/t/rust",Rust Performance Pitfalls,https://llogiq.github.io/2017/06/01/perf-pitfalls.html,/u/aleph,23
+3,2017-06-08 21:31:29 -0500,/t/science,The Benefits of Talking to Yourself,https://www.nytimes.com/2017/06/08/smarter-living/benefits-of-talking-to-yourself-self-talk.html,/u/smalina,8

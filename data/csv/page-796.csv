@@ -1,25 +1,25 @@
-1,2016-05-02 14:14:59 -0500,"['/t/math', '/t/person']",Who Was Ramanujan?,https://backchannel.com/who-was-ramanujan-83b4d5b05665,/u/soulcutter,11
-0,2016-05-03 08:15:21 -0500,"['/t/art', '/t/programming']",Machine Learning for Artists,http://ml4a.github.io/classes/itp-S16/,/u/binarymax,1
-3,2016-05-02 17:10:55 -0500,['/t/testing'],On the importance of manually maintained isolation for unit tests written in impure languages,http://blog.cgiffard.com/on-the-importance-of-manually-maintained-isolation-for-unit-tests-written-in-impure-languages/,/u/DRMacIver,6
-0,2016-05-03 07:15:00 -0500,"['/t/video', '/t/haskell']",Cryptography and Verification with Cryptol,https://www.youtube.com/watch?v=sC2_5WaavFc,/u/mightybyte,1
-0,2016-05-02 17:56:00 -0500,['/t/security'],Firejail 0.9.40-rc1 - Now with X11 support,https://l3net.wordpress.com/2016/04/03/firejail-0-9-40-rc1-release-announcement/,/u/tca,7
-1,2016-05-02 18:02:22 -0500,"['/t/privacy', '/t/security']",Phuctor: The RSA Super Collider,http://phuctor.nosuchlabs.com/phuctored,/u/gadams,5
-5,2016-05-02 02:50:21 -0500,['/t/cryptocurrencies'],Craig Wright claims to be Bitcoin inventor Satoshi Nakamoto,http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin,/u/austinz,18
-0,2016-05-02 12:06:25 -0500,['/t/rust'],Non-lexical Lifetimes: Introduction,http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/,/u/gsquire,12
-0,2016-05-02 15:31:24 -0500,"['/t/api', '/t/go']","rickover - a job queue/scheduler available over HTTP, written in Go, and backed by Postgres",https://github.com/Shyp/rickover,/u/kb,3
-0,2016-05-03 09:15:18 -0500,['/t/javascript'],Angular 2 RC 0,https://github.com/angular/angular/blob/master/CHANGELOG.md#200-rc0-2016-05-02,/u/joshuacc,0
-0,2016-05-02 13:04:24 -0500,"['/t/historical', '/t/mobile']",My Tablet Has Stickers — Learning By Shipping,https://medium.com/learning-by-shipping/my-tablet-has-stickers-8f7ab9022ebd,/u/adsouza,6
-7,2016-05-02 01:51:33 -0500,['/t/compsci'],"Myth: ""CS Researchers Don't Publish Code or Data""",http://jxyzabc.blogspot.com/2016/05/myth-cs-researchers-dont-publish-code.html,/u/DRMacIver,10
-0,2016-05-02 16:01:57 -0500,['/t/culture'],The government GitHub ecosystem,https://emanuelfeld.github.io/blog/2016/04/27/government-github-ecosystem.html,/u/evhan,7
-0,2016-05-02 01:43:52 -0500,"['/t/networking', '/t/security']",SSH for fun and profit,https://karla.io/2016/04/30/ssh-for-fun-and-profit.html,/u/antifuchs,17
-1,2016-05-01 21:44:37 -0500,"['/t/javascript', '/t/security']",Node.js and Socket.IO: How Security Fails When 'null' Is 'false',https://www.cigital.com/blog/node-js-socket-io/,/u/jcs,13
-1,2016-05-01 18:32:38 -0500,['/t/art'],Velocipedia - renderings of bicycle sketches,http://www.gianlucagimini.it/prototypes/velocipedia.html,/u/tedu,11
-5,2016-05-01 19:47:16 -0500,['/t/culture'],"Fellow Professional Programmers, Happy May Day",https://en.wikipedia.org/wiki/International_Workers'_Day,/u/mempko,19
-1,2016-05-01 12:51:25 -0500,"['/t/go', '/t/practices']","Go best practices, six years in",https://peter.bourgon.org/go-best-practices-2016/,/u/mulander,16
-4,2016-05-01 10:25:51 -0500,"['/t/art', '/t/design', '/t/games', '/t/programming']",Neural Networks to Upscale & Stylize Pixel Art,https://nucl.ai/blog/enhance-pixel-art/,/u/meskarune,16
-2,2016-05-01 08:25:36 -0500,"['/t/pdf', '/t/assembly', '/t/hardware']",Design of the RISC-V Instruction Set Architecture,http://www.eecs.berkeley.edu/~waterman/papers/phd-thesis.pdf,/u/gandro,12
-4,2016-05-01 05:41:56 -0500,"['/t/practices', '/t/programming', '/t/ruby']",Naming is Abstraction,http://benlakey.com/2016/04/29/naming-is-abstraction/,/u/benlakey,5
-0,2016-05-01 10:01:54 -0500,"['/t/emacs', '/t/games']",Emacs Autotetris Mode,http://nullprogram.com/blog/2014/10/19/,/u/apg,10
-7,2016-04-30 16:54:53 -0500,"['/t/person', '/t/practices']",Some things I learned about dealing with RSI,https://boinkor.net/2016/04/some-things-i-learned-about-dealing-with-rsi/,/u/antifuchs,25
-7,2016-05-01 06:46:49 -0500,['/t/historical'],On the Timing of Time Zone Changes,http://codeofmatt.com/2016/04/23/on-the-timing-of-time-zone-changes/,/u/doismellburning,7
-13,2016-05-01 12:26:34 -0500,"['/t/culture', '/t/historical']","Born for it, How the image of software developers came about",http://martinfowler.com/articles/born-for-it.html,/u/meskarune,13
+1,2016-05-02 14:14:59 -0500,"/t/math,/t/person",Who Was Ramanujan?,https://backchannel.com/who-was-ramanujan-83b4d5b05665,/u/soulcutter,11
+0,2016-05-03 08:15:21 -0500,"/t/art,/t/programming",Machine Learning for Artists,http://ml4a.github.io/classes/itp-S16/,/u/binarymax,1
+3,2016-05-02 17:10:55 -0500,/t/testing,On the importance of manually maintained isolation for unit tests written in impure languages,http://blog.cgiffard.com/on-the-importance-of-manually-maintained-isolation-for-unit-tests-written-in-impure-languages/,/u/DRMacIver,6
+0,2016-05-03 07:15:00 -0500,"/t/video,/t/haskell",Cryptography and Verification with Cryptol,https://www.youtube.com/watch?v=sC2_5WaavFc,/u/mightybyte,1
+0,2016-05-02 17:56:00 -0500,/t/security,Firejail 0.9.40-rc1 - Now with X11 support,https://l3net.wordpress.com/2016/04/03/firejail-0-9-40-rc1-release-announcement/,/u/tca,7
+1,2016-05-02 18:02:22 -0500,"/t/privacy,/t/security",Phuctor: The RSA Super Collider,http://phuctor.nosuchlabs.com/phuctored,/u/gadams,5
+5,2016-05-02 02:50:21 -0500,/t/cryptocurrencies,Craig Wright claims to be Bitcoin inventor Satoshi Nakamoto,http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin,/u/austinz,18
+0,2016-05-02 12:06:25 -0500,/t/rust,Non-lexical Lifetimes: Introduction,http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/,/u/gsquire,12
+0,2016-05-02 15:31:24 -0500,"/t/api,/t/go","rickover - a job queue/scheduler available over HTTP, written in Go, and backed by Postgres",https://github.com/Shyp/rickover,/u/kb,3
+0,2016-05-03 09:15:18 -0500,/t/javascript,Angular 2 RC 0,https://github.com/angular/angular/blob/master/CHANGELOG.md#200-rc0-2016-05-02,/u/joshuacc,0
+0,2016-05-02 13:04:24 -0500,"/t/historical,/t/mobile",My Tablet Has Stickers — Learning By Shipping,https://medium.com/learning-by-shipping/my-tablet-has-stickers-8f7ab9022ebd,/u/adsouza,6
+7,2016-05-02 01:51:33 -0500,/t/compsci,"Myth: ""CS Researchers Don't Publish Code or Data""",http://jxyzabc.blogspot.com/2016/05/myth-cs-researchers-dont-publish-code.html,/u/DRMacIver,10
+0,2016-05-02 16:01:57 -0500,/t/culture,The government GitHub ecosystem,https://emanuelfeld.github.io/blog/2016/04/27/government-github-ecosystem.html,/u/evhan,7
+0,2016-05-02 01:43:52 -0500,"/t/networking,/t/security",SSH for fun and profit,https://karla.io/2016/04/30/ssh-for-fun-and-profit.html,/u/antifuchs,17
+1,2016-05-01 21:44:37 -0500,"/t/javascript,/t/security",Node.js and Socket.IO: How Security Fails When 'null' Is 'false',https://www.cigital.com/blog/node-js-socket-io/,/u/jcs,13
+1,2016-05-01 18:32:38 -0500,/t/art,Velocipedia - renderings of bicycle sketches,http://www.gianlucagimini.it/prototypes/velocipedia.html,/u/tedu,11
+5,2016-05-01 19:47:16 -0500,/t/culture,"Fellow Professional Programmers, Happy May Day",https://en.wikipedia.org/wiki/International_Workers'_Day,/u/mempko,19
+1,2016-05-01 12:51:25 -0500,"/t/go,/t/practices","Go best practices, six years in",https://peter.bourgon.org/go-best-practices-2016/,/u/mulander,16
+4,2016-05-01 10:25:51 -0500,"/t/art,/t/design,/t/games,/t/programming",Neural Networks to Upscale & Stylize Pixel Art,https://nucl.ai/blog/enhance-pixel-art/,/u/meskarune,16
+2,2016-05-01 08:25:36 -0500,"/t/pdf,/t/assembly,/t/hardware",Design of the RISC-V Instruction Set Architecture,http://www.eecs.berkeley.edu/~waterman/papers/phd-thesis.pdf,/u/gandro,12
+4,2016-05-01 05:41:56 -0500,"/t/practices,/t/programming,/t/ruby",Naming is Abstraction,http://benlakey.com/2016/04/29/naming-is-abstraction/,/u/benlakey,5
+0,2016-05-01 10:01:54 -0500,"/t/emacs,/t/games",Emacs Autotetris Mode,http://nullprogram.com/blog/2014/10/19/,/u/apg,10
+7,2016-04-30 16:54:53 -0500,"/t/person,/t/practices",Some things I learned about dealing with RSI,https://boinkor.net/2016/04/some-things-i-learned-about-dealing-with-rsi/,/u/antifuchs,25
+7,2016-05-01 06:46:49 -0500,/t/historical,On the Timing of Time Zone Changes,http://codeofmatt.com/2016/04/23/on-the-timing-of-time-zone-changes/,/u/doismellburning,7
+13,2016-05-01 12:26:34 -0500,"/t/culture,/t/historical","Born for it, How the image of software developers came about",http://martinfowler.com/articles/born-for-it.html,/u/meskarune,13

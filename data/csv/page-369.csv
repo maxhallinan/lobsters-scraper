@@ -1,25 +1,25 @@
-1,2017-05-12 05:55:04 -0500,"['/t/assembly', '/t/historical', '/t/programming']",Crash course to Amiga assembly programming,https://www.reaktor.com/blog/crash-course-to-amiga-assembly-programming/,/u/calvin,8
-5,2017-05-11 16:38:33 -0500,"['/t/show', '/t/meta']",Write.Narwhal.Space Lobsters Clone,https://write.narwhal.space/,/u/etc,27
-27,2017-05-11 15:47:59 -0500,['/t/security'],"HOWTO: Strong Passwords, aka The Most Important Guide On The Internet",https://strongpass.us,/u/simba,11
-0,2017-05-12 10:13:03 -0500,['/t/java'],When Subclasses Are Ready To Die,http://blog.thecodewhisperer.com/permalink/when-subclasses-are-ready-to-die,/u/pushcx,5
-0,2017-05-12 16:13:10 -0500,"['/t/python', '/t/web']",How to profile Django views,http://rock-it.pl/how-to-profile-django-views/,/u/pushcx,2
-0,2017-05-12 14:54:48 -0500,"['/t/mobile', '/t/programming']",Writing my First Flutter App,http://tonydowney.ca/writing-my-first-flutter-app/,/u/adsouza,2
-0,2017-05-12 05:52:38 -0500,['/t/hardware'],VME Broken on AMD Ryzen,http://www.os2museum.com/wp/vme-broken-on-amd-ryzen/,/u/calvin,6
-0,2017-05-11 19:13:59 -0500,['/t/law'],Standing Up to a Dangerous New Breed of Patent Troll,http://blog.cloudflare.com/standing-up-to-a-dangerous-new-breed-of-patent-troll/,/u/voidzero,18
-0,2017-05-12 16:11:19 -0500,['/t/databases'],The Basics of Good T-SQL Coding Style,https://www.simple-talk.com/sql/t-sql-programming/basics-good-t-sql-coding-style/,/u/pushcx,1
-7,2017-05-11 15:47:49 -0500,['/t/hardware'],Mill CPU,https://millcomputing.com/technology/docs/,/u/yumaikas,19
-9,2017-05-10 23:39:18 -0500,['/t/rust'],The Story of a Rust Bug,https://thesquareplanet.com/blog/the-story-of-a-rust-bug/,/u/jonhoo,33
-0,2017-05-12 16:05:34 -0500,['/t/culture'],Recovering from Burnout,https://kierantie.com/a/burnout/,/u/streblo,2
-6,2017-05-11 09:47:54 -0500,['/t/privacy'],Crashed ad screen at pizza place shows logs of facial recognition results,https://www.reddit.com/r/norge/comments/67jox4/denne_kr%C3%A6sjede_skjermen_p%C3%A5_peppespizza_viser_en/dgrltgl/,/u/johnLate,27
-0,2017-05-12 03:45:24 -0500,"['/t/release', '/t/vcs']",Git can now conditionally set configuration variables (git release 2.13),https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/RelNotes/2.13.0.txt#n127,/u/jnb,5
-0,2017-05-12 14:28:11 -0500,"['/t/culture', '/t/games', '/t/historical']","The View from the Trenches (or, Some Deadly Sins of CRPG Design)",http://www.filfre.net/2017/05/the-view-from-the-trenches-or-some-deadly-sins-of-crpg-design/,/u/calvin,2
-0,2017-05-11 20:18:15 -0500,['/t/web'],The curl user survey 2017,https://daniel.haxx.se/blog/2017/05/11/the-curl-user-survey-2017/,/u/rjc,9
-0,2017-05-12 01:39:00 -0500,['/t/databases'],Recursive Queries - Iterative Awesome,https://mankykitty.github.io/sql/postgres/2017/05/06/recursive-queries.html,/u/mankyKitty,2
-0,2017-05-12 07:04:13 -0500,"['/t/person', '/t/practices', '/t/programming']",Conversations with Technology Leaders: Erik Meijer - ACM Queue,http://queue.acm.org/detail.cfm?id=3092954,/u/kartik,2
-0,2017-05-11 13:12:01 -0500,"['/t/c', '/t/compsci', '/t/formalmethods', '/t/math']","Eprover — a free, efficient automatic theorem prover",https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html,/u/c-cube,18
-14,2017-05-11 08:34:50 -0500,['/t/hardware'],"Intel's Itanium, once destined to replace x86 processors in PCs, hits end of line",http://www.pcworld.com/article/3196080/data-center/intels-itanium-once-destined-to-replace-x86-in-pcs-hits-end-of-line.html,/u/calvin,14
-7,2017-05-11 01:55:51 -0500,"['/t/api', '/t/security']",How my car insurance exposed my position,https://www.andreascarpino.it/posts/how-my-car-insurance-exposed-my-position.html,/u/NinjaTrappeur,34
-0,2017-05-12 03:41:13 -0500,['/t/graphics'],Deringing in DCT via overshoot and clipping,https://kornel.ski/deringing/,/u/mikejsavage,2
-0,2017-05-12 03:23:31 -0500,['/t/security'],Rotating passwords in bulk in the wake of security events,http://sircmpwn.github.io/2017/05/11/Rotating-passwords.html,/u/C-Keen,2
-14,2017-05-10 20:50:42 -0500,['/t/unix'],sctd: a minimal 'daemon' for sct,/s/stlowv/sctd_minimal_daemon_for_sct,/u/qbit,22
-0,2017-05-11 14:56:29 -0500,['/t/security'],The OpenVPN 2.4.0 Audit by OSTIF and QuarksLab Results,https://ostif.org/the-openvpn-2-4-0-audit-by-ostif-and-quarkslab-results/,/u/nyx,9
+1,2017-05-12 05:55:04 -0500,"/t/assembly,/t/historical,/t/programming",Crash course to Amiga assembly programming,https://www.reaktor.com/blog/crash-course-to-amiga-assembly-programming/,/u/calvin,8
+5,2017-05-11 16:38:33 -0500,"/t/show,/t/meta",Write.Narwhal.Space Lobsters Clone,https://write.narwhal.space/,/u/etc,27
+27,2017-05-11 15:47:59 -0500,/t/security,"HOWTO: Strong Passwords, aka The Most Important Guide On The Internet",https://strongpass.us,/u/simba,11
+0,2017-05-12 10:13:03 -0500,/t/java,When Subclasses Are Ready To Die,http://blog.thecodewhisperer.com/permalink/when-subclasses-are-ready-to-die,/u/pushcx,5
+0,2017-05-12 16:13:10 -0500,"/t/python,/t/web",How to profile Django views,http://rock-it.pl/how-to-profile-django-views/,/u/pushcx,2
+0,2017-05-12 14:54:48 -0500,"/t/mobile,/t/programming",Writing my First Flutter App,http://tonydowney.ca/writing-my-first-flutter-app/,/u/adsouza,2
+0,2017-05-12 05:52:38 -0500,/t/hardware,VME Broken on AMD Ryzen,http://www.os2museum.com/wp/vme-broken-on-amd-ryzen/,/u/calvin,6
+0,2017-05-11 19:13:59 -0500,/t/law,Standing Up to a Dangerous New Breed of Patent Troll,http://blog.cloudflare.com/standing-up-to-a-dangerous-new-breed-of-patent-troll/,/u/voidzero,18
+0,2017-05-12 16:11:19 -0500,/t/databases,The Basics of Good T-SQL Coding Style,https://www.simple-talk.com/sql/t-sql-programming/basics-good-t-sql-coding-style/,/u/pushcx,1
+7,2017-05-11 15:47:49 -0500,/t/hardware,Mill CPU,https://millcomputing.com/technology/docs/,/u/yumaikas,19
+9,2017-05-10 23:39:18 -0500,/t/rust,The Story of a Rust Bug,https://thesquareplanet.com/blog/the-story-of-a-rust-bug/,/u/jonhoo,33
+0,2017-05-12 16:05:34 -0500,/t/culture,Recovering from Burnout,https://kierantie.com/a/burnout/,/u/streblo,2
+6,2017-05-11 09:47:54 -0500,/t/privacy,Crashed ad screen at pizza place shows logs of facial recognition results,https://www.reddit.com/r/norge/comments/67jox4/denne_kr%C3%A6sjede_skjermen_p%C3%A5_peppespizza_viser_en/dgrltgl/,/u/johnLate,27
+0,2017-05-12 03:45:24 -0500,"/t/release,/t/vcs",Git can now conditionally set configuration variables (git release 2.13),https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/RelNotes/2.13.0.txt#n127,/u/jnb,5
+0,2017-05-12 14:28:11 -0500,"/t/culture,/t/games,/t/historical","The View from the Trenches (or, Some Deadly Sins of CRPG Design)",http://www.filfre.net/2017/05/the-view-from-the-trenches-or-some-deadly-sins-of-crpg-design/,/u/calvin,2
+0,2017-05-11 20:18:15 -0500,/t/web,The curl user survey 2017,https://daniel.haxx.se/blog/2017/05/11/the-curl-user-survey-2017/,/u/rjc,9
+0,2017-05-12 01:39:00 -0500,/t/databases,Recursive Queries - Iterative Awesome,https://mankykitty.github.io/sql/postgres/2017/05/06/recursive-queries.html,/u/mankyKitty,2
+0,2017-05-12 07:04:13 -0500,"/t/person,/t/practices,/t/programming",Conversations with Technology Leaders: Erik Meijer - ACM Queue,http://queue.acm.org/detail.cfm?id=3092954,/u/kartik,2
+0,2017-05-11 13:12:01 -0500,"/t/c,/t/compsci,/t/formalmethods,/t/math","Eprover — a free, efficient automatic theorem prover",https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html,/u/c-cube,18
+14,2017-05-11 08:34:50 -0500,/t/hardware,"Intel's Itanium, once destined to replace x86 processors in PCs, hits end of line",http://www.pcworld.com/article/3196080/data-center/intels-itanium-once-destined-to-replace-x86-in-pcs-hits-end-of-line.html,/u/calvin,14
+7,2017-05-11 01:55:51 -0500,"/t/api,/t/security",How my car insurance exposed my position,https://www.andreascarpino.it/posts/how-my-car-insurance-exposed-my-position.html,/u/NinjaTrappeur,34
+0,2017-05-12 03:41:13 -0500,/t/graphics,Deringing in DCT via overshoot and clipping,https://kornel.ski/deringing/,/u/mikejsavage,2
+0,2017-05-12 03:23:31 -0500,/t/security,Rotating passwords in bulk in the wake of security events,http://sircmpwn.github.io/2017/05/11/Rotating-passwords.html,/u/C-Keen,2
+14,2017-05-10 20:50:42 -0500,/t/unix,sctd: a minimal 'daemon' for sct,/s/stlowv/sctd_minimal_daemon_for_sct,/u/qbit,22
+0,2017-05-11 14:56:29 -0500,/t/security,The OpenVPN 2.4.0 Audit by OSTIF and QuarksLab Results,https://ostif.org/the-openvpn-2-4-0-audit-by-ostif-and-quarkslab-results/,/u/nyx,9

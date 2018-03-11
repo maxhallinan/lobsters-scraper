@@ -1,25 +1,25 @@
-2,2017-06-30 19:43:31 -0500,"['/t/video', '/t/ml']",Why OCaml,https://www.youtube.com/watch?v=v1CmGbOGb2I,/u/pushcx,13
-1,2017-07-01 06:30:59 -0500,"['/t/reversing', '/t/security', '/t/windows']",Tales from the MSRC: from pixels to POC,https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/,/u/calvin,4
-5,2017-06-30 14:05:56 -0500,"['/t/show', '/t/practices']",Coder Dvorak (2008),https://robey.lag.net/2008/09/20/coder-dvorak.html,/u/robey,9
-0,2017-07-01 21:26:08 -0500,['/t/security'],Microsoft says: Lock down your software supply chain before the malware scum get in,https://www.theregister.co.uk/2017/05/05/malware_attacking_payment_systems/,/u/cnst,0
-9,2017-06-30 07:21:50 -0500,"['/t/elm', '/t/programming']",How to get data from APIs using Elm,https://www.dailydrip.com/blog/how-to-get-data-from-apis-using-elm.html,/u/franzunix,14
-0,2017-06-30 07:34:05 -0500,"['/t/show', '/t/book', '/t/practices']","Increase your citation count, send me your data!",http://shape-of-code.coding-guidelines.com/2017/06/30/increase-your-citation-count-send-me-your-data/,/u/derek-jones,15
-5,2017-06-30 15:49:05 -0500,"['/t/cryptocurrencies', '/t/satire']",hard facts about shitcoins,http://www.tedunangst.com/flak/post/hard-facts-about-shitcoins,/u/calvin,20
-1,2017-06-30 15:14:22 -0500,['/t/security'],exiv2: multiple memory safety issues,http://www.openwall.com/lists/oss-security/2017/06/30/1,/u/johnLate,7
-6,2017-06-30 19:43:28 -0500,['/t/culture'],"Silicon Valley Women, in Cultural Shift, Frankly Describe Sexual Harassment",https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html,/u/stephenjudkins,13
-0,2017-07-01 08:18:52 -0500,"['/t/release', '/t/ruby', '/t/satire']","is_bullshit, a gem to call bullshit",https://github.com/alexford/is_bullshit,/u/pushcx,2
-2,2017-06-30 14:11:06 -0500,['/t/hardware'],Homebrew Computers Web-Ring,http://members.iinet.net.au/~daveb/simplex/ringhome.html,/u/hobbes,9
-2,2017-06-30 09:50:54 -0500,"['/t/devops', '/t/practices']",Naming Schemes,https://namingschemes.com,/u/friendlysock,10
-0,2017-06-30 08:15:43 -0500,['/t/vim'],12 Vim Tips (2014),https://dalibornasevic.com/posts/43-12-vim-tips,/u/hoopla,15
-2,2017-06-30 18:08:16 -0500,"['/t/browsers', '/t/mobile', '/t/web']","For web devs who struggle with IE11 rendering, use this meta tag to make things better.",/s/e6zpvv/for_web_devs_who_struggle_with_ie11,/u/Usermac,1
-0,2017-06-30 10:58:47 -0500,"['/t/ai', '/t/lisp', '/t/programming']",Functional programming for deep learning,https://medium.com/towards-data-science/functional-programming-for-deep-learning-bc7b80e347e9,/u/Yogthos,10
-16,2017-06-29 11:15:34 -0500,"['/t/practices', '/t/security']",Don’t include social engineering in penetration tests,https://jacobian.org/writing/social-engineering-pentests/,/u/friendlysock,63
-3,2017-06-30 05:11:16 -0500,"['/t/security', '/t/windows']",This Windows Defender bug was so gaping its PoC exploit had to be encrypted,https://arstechnica.com/security/2017/06/latest-high-severity-flaw-in-windows-defender-highlights-the-dark-side-of-av/,/u/adsouza,11
-0,2017-06-30 16:53:14 -0500,['/t/linux'],Debian Installer's preseed.cfg,https://wiki.debian.org/DebianInstaller/Preseed,/u/hobbes,4
-0,2017-06-30 08:24:19 -0500,['/t/networking'],Notes on BPF & eBPF,https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/,/u/calvin,10
-0,2017-06-30 05:30:41 -0500,"['/t/pdf', '/t/hardware', '/t/math']",Beyond Floating Point,http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf,/u/adsouza,13
-0,2017-06-30 13:29:30 -0500,['/t/css'],What Does a Well-Documented CSS Codebase Look Like?,https://css-tricks.com/well-documented-css-codebase-look-like/,/u/flyingfisch,4
-0,2017-06-30 10:54:20 -0500,"['/t/culture', '/t/education']",What I Learned From Researching Coding Bootcamps,https://medium.com/bits-and-behavior/what-i-learned-from-researching-coding-bootcamps-f594c15bd9e0,/u/hwayne,10
-2,2017-06-30 05:13:16 -0500,"['/t/javascript', '/t/nodejs']","jsotp - a node module to generate and verify one-time password, based on RFC4226(HOTP) and RFC6238(T",https://github.com/LanceGin/jsotp,/u/lancegin,4
-0,2017-06-30 17:24:36 -0500,['/t/culture'],Levels of Techie Enlightenment,http://hackingdistributed.com/2017/05/04/stages-of-enlightenment/,/u/aduffy,4
-0,2017-06-30 13:08:28 -0500,"['/t/crypto', '/t/science']",Cryptography for genetic material,http://www.biorxiv.org/content/early/2017/06/30/157685,/u/bsima,3
+2,2017-06-30 19:43:31 -0500,"/t/video,/t/ml",Why OCaml,https://www.youtube.com/watch?v=v1CmGbOGb2I,/u/pushcx,13
+1,2017-07-01 06:30:59 -0500,"/t/reversing,/t/security,/t/windows",Tales from the MSRC: from pixels to POC,https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/,/u/calvin,4
+5,2017-06-30 14:05:56 -0500,"/t/show,/t/practices",Coder Dvorak (2008),https://robey.lag.net/2008/09/20/coder-dvorak.html,/u/robey,9
+0,2017-07-01 21:26:08 -0500,/t/security,Microsoft says: Lock down your software supply chain before the malware scum get in,https://www.theregister.co.uk/2017/05/05/malware_attacking_payment_systems/,/u/cnst,0
+9,2017-06-30 07:21:50 -0500,"/t/elm,/t/programming",How to get data from APIs using Elm,https://www.dailydrip.com/blog/how-to-get-data-from-apis-using-elm.html,/u/franzunix,14
+0,2017-06-30 07:34:05 -0500,"/t/show,/t/book,/t/practices","Increase your citation count, send me your data!",http://shape-of-code.coding-guidelines.com/2017/06/30/increase-your-citation-count-send-me-your-data/,/u/derek-jones,15
+5,2017-06-30 15:49:05 -0500,"/t/cryptocurrencies,/t/satire",hard facts about shitcoins,http://www.tedunangst.com/flak/post/hard-facts-about-shitcoins,/u/calvin,20
+1,2017-06-30 15:14:22 -0500,/t/security,exiv2: multiple memory safety issues,http://www.openwall.com/lists/oss-security/2017/06/30/1,/u/johnLate,7
+6,2017-06-30 19:43:28 -0500,/t/culture,"Silicon Valley Women, in Cultural Shift, Frankly Describe Sexual Harassment",https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html,/u/stephenjudkins,13
+0,2017-07-01 08:18:52 -0500,"/t/release,/t/ruby,/t/satire","is_bullshit, a gem to call bullshit",https://github.com/alexford/is_bullshit,/u/pushcx,2
+2,2017-06-30 14:11:06 -0500,/t/hardware,Homebrew Computers Web-Ring,http://members.iinet.net.au/~daveb/simplex/ringhome.html,/u/hobbes,9
+2,2017-06-30 09:50:54 -0500,"/t/devops,/t/practices",Naming Schemes,https://namingschemes.com,/u/friendlysock,10
+0,2017-06-30 08:15:43 -0500,/t/vim,12 Vim Tips (2014),https://dalibornasevic.com/posts/43-12-vim-tips,/u/hoopla,15
+2,2017-06-30 18:08:16 -0500,"/t/browsers,/t/mobile,/t/web","For web devs who struggle with IE11 rendering, use this meta tag to make things better.",/s/e6zpvv/for_web_devs_who_struggle_with_ie11,/u/Usermac,1
+0,2017-06-30 10:58:47 -0500,"/t/ai,/t/lisp,/t/programming",Functional programming for deep learning,https://medium.com/towards-data-science/functional-programming-for-deep-learning-bc7b80e347e9,/u/Yogthos,10
+16,2017-06-29 11:15:34 -0500,"/t/practices,/t/security",Don’t include social engineering in penetration tests,https://jacobian.org/writing/social-engineering-pentests/,/u/friendlysock,63
+3,2017-06-30 05:11:16 -0500,"/t/security,/t/windows",This Windows Defender bug was so gaping its PoC exploit had to be encrypted,https://arstechnica.com/security/2017/06/latest-high-severity-flaw-in-windows-defender-highlights-the-dark-side-of-av/,/u/adsouza,11
+0,2017-06-30 16:53:14 -0500,/t/linux,Debian Installer's preseed.cfg,https://wiki.debian.org/DebianInstaller/Preseed,/u/hobbes,4
+0,2017-06-30 08:24:19 -0500,/t/networking,Notes on BPF & eBPF,https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/,/u/calvin,10
+0,2017-06-30 05:30:41 -0500,"/t/pdf,/t/hardware,/t/math",Beyond Floating Point,http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf,/u/adsouza,13
+0,2017-06-30 13:29:30 -0500,/t/css,What Does a Well-Documented CSS Codebase Look Like?,https://css-tricks.com/well-documented-css-codebase-look-like/,/u/flyingfisch,4
+0,2017-06-30 10:54:20 -0500,"/t/culture,/t/education",What I Learned From Researching Coding Bootcamps,https://medium.com/bits-and-behavior/what-i-learned-from-researching-coding-bootcamps-f594c15bd9e0,/u/hwayne,10
+2,2017-06-30 05:13:16 -0500,"/t/javascript,/t/nodejs","jsotp - a node module to generate and verify one-time password, based on RFC4226(HOTP) and RFC6238(T",https://github.com/LanceGin/jsotp,/u/lancegin,4
+0,2017-06-30 17:24:36 -0500,/t/culture,Levels of Techie Enlightenment,http://hackingdistributed.com/2017/05/04/stages-of-enlightenment/,/u/aduffy,4
+0,2017-06-30 13:08:28 -0500,"/t/crypto,/t/science",Cryptography for genetic material,http://www.biorxiv.org/content/early/2017/06/30/157685,/u/bsima,3

@@ -1,25 +1,25 @@
-0,2018-02-10 06:34:00 -0600,"['/t/linux', '/t/performance', '/t/security']",KPTI/KAISER Meltdown Initial Performance Regressions,http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.html,/u/calvin,12
-0,2018-02-10 20:07:18 -0600,"['/t/ai', '/t/historical']",A Historical Perspective of Speech Recognition (2014),https://cacm.acm.org/magazines/2014/1/170863-a-historical-perspective-of-speech-recognition/fulltext,/u/mjn,2
-12,2018-02-09 16:34:12 -0600,['/t/security'],GitHub Shouldn't Allow Username Reuse,https://donatstudios.com/GithubsTotalSecurityFacepalm,/u/Yogthos,26
-0,2018-02-09 19:49:43 -0600,"['/t/rust', '/t/unix']",Reflecting on ppbert,https://vfoley.xyz/ppbert/,/u/vfoley,19
-17,2018-02-09 10:47:21 -0600,"['/t/historical', '/t/plt']",We've Already Thought the Unthinkable,https://www.hillelwayne.com/post/thinking-the-unthinkable/,/u/hwayne,25
-1,2018-02-10 09:55:40 -0600,"['/t/pdf', '/t/hardware', '/t/programming']","A Stall-Free, Real-Time, Garbage Collector for Reconfigurable Hardware (2012)",https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon12AndThen.pdf,/u/nickpsecurity,5
-34,2018-02-08 21:32:23 -0600,"['/t/ask', '/t/video', '/t/programming']",What are your favorite videos?,/s/0qkuol/what_are_your_favorite_videos,/u/hwayne,64
-2,2018-02-10 01:08:06 -0600,['/t/release'],"Nextcloud 13 Brings Improved UI, Video and Text Chat, End-to-end Encryption, Improved performance and more",https://nextcloud.com/blog/nextcloud-13-brings-secure-file-sync-and-collaboration-to-the-next-level/,/u/evaryont,9
-0,2018-02-09 21:52:31 -0600,['/t/programming'],Porting software is fun and rewarding,http://nanxiao.me/en/porting-software-is-fun-rewarding/,/u/nanxiao,6
-0,2018-02-10 15:16:36 -0600,['/t/hardware'],Lars and the Real Internet of Things - Part 2,http://www.twobraids.com/2018/02/lars-and-real-internet-of-things-part-2.html,/u/freddyb,1
-0,2018-02-09 16:42:10 -0600,"['/t/rust', '/t/web']",A Wee Allocator for WebAssembly,http://fitzgeraldnick.com/2018/02/09/wee-alloc.html,/u/freddyb,16
-0,2018-02-09 10:28:47 -0600,"['/t/pdf', '/t/distributed']",Partisan: Enabling Cloud-Scale Erlang Applications,https://arxiv.org/abs/1802.02652,/u/cmeiklejohn,16
-1,2018-02-09 18:31:56 -0600,"['/t/assembly', '/t/graphics', '/t/programming', '/t/windows']",Optimizing BitBlt by generating code on the fly,https://blogs.msdn.microsoft.com/oldnewthing/20180209-00/?p=97995,/u/tedu,10
-10,2018-02-09 11:34:31 -0600,['/t/release'],VLC 3.0 Vetinari,https://www.videolan.org/vlc/releases/3.0.0.html,/u/av,11
-10,2018-02-09 09:11:22 -0600,['/t/programming'],Guidelines for future hypertext systems,https://medium.com/@enkiv2/guidelines-for-future-hypertext-systems-647b6a10f7dd,/u/calvin,13
-0,2018-02-09 14:05:53 -0600,['/t/math'],Graphical Linear Algebra,https://graphicallinearalgebra.net/,/u/hobbes,13
-0,2018-02-09 21:57:03 -0600,['/t/linux'],A Decade of Plasma,http://jriddell.org/2018/02/08/a-decade-of-plasma/,/u/calvin,5
-6,2018-02-09 12:14:35 -0600,['/t/programming'],Coding without a keystroke: The hands-free creation of a full video game,https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/,/u/mf,7
-2,2018-02-09 09:51:20 -0600,"['/t/c', '/t/security']","Fail-Safe C: Memory-Safe Implementation of Full, ANSI C (2009)",https://staff.aist.go.jp/y.oiwa/FailSafeC/index-en.html,/u/nickpsecurity,13
-0,2018-02-09 10:50:24 -0600,['/t/compsci'],To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction,http://dkeenan.com/Lambda/,/u/pushcx,14
-1,2018-02-09 14:51:11 -0600,['/t/devops'],Anatomy of a Ceph meltdown,http://chneukirchen.org/blog/archive/2018/01/anatomy-of-a-ceph-meltdown.html,/u/klingtnet,7
-0,2018-02-09 21:34:46 -0600,"['/t/graphics', '/t/programming']",Using K-D Trees to Calculate Nearest Neighbors in 3D Vector Space,http://blog.krum.io/k-d-trees/,/u/Yogthos,3
-0,2018-02-09 15:12:58 -0600,['/t/security'],Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability,https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure,/u/hobbes,6
-3,2018-02-09 08:27:05 -0600,['/t/rust'],Async/Await V: Getting back to the futures,https://boats.gitlab.io/blog/post/2018-02-08-async-v-getting-back-to-the-futures/,/u/pushcx,6
-0,2018-02-09 14:12:23 -0600,['/t/programming'],The Power of Clojure: Debugging,https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging,/u/PJ,4
+0,2018-02-10 06:34:00 -0600,"/t/linux,/t/performance,/t/security",KPTI/KAISER Meltdown Initial Performance Regressions,http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.html,/u/calvin,12
+0,2018-02-10 20:07:18 -0600,"/t/ai,/t/historical",A Historical Perspective of Speech Recognition (2014),https://cacm.acm.org/magazines/2014/1/170863-a-historical-perspective-of-speech-recognition/fulltext,/u/mjn,2
+12,2018-02-09 16:34:12 -0600,/t/security,GitHub Shouldn't Allow Username Reuse,https://donatstudios.com/GithubsTotalSecurityFacepalm,/u/Yogthos,26
+0,2018-02-09 19:49:43 -0600,"/t/rust,/t/unix",Reflecting on ppbert,https://vfoley.xyz/ppbert/,/u/vfoley,19
+17,2018-02-09 10:47:21 -0600,"/t/historical,/t/plt",We've Already Thought the Unthinkable,https://www.hillelwayne.com/post/thinking-the-unthinkable/,/u/hwayne,25
+1,2018-02-10 09:55:40 -0600,"/t/pdf,/t/hardware,/t/programming","A Stall-Free, Real-Time, Garbage Collector for Reconfigurable Hardware (2012)",https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon12AndThen.pdf,/u/nickpsecurity,5
+34,2018-02-08 21:32:23 -0600,"/t/ask,/t/video,/t/programming",What are your favorite videos?,/s/0qkuol/what_are_your_favorite_videos,/u/hwayne,64
+2,2018-02-10 01:08:06 -0600,/t/release,"Nextcloud 13 Brings Improved UI, Video and Text Chat, End-to-end Encryption, Improved performance and more",https://nextcloud.com/blog/nextcloud-13-brings-secure-file-sync-and-collaboration-to-the-next-level/,/u/evaryont,9
+0,2018-02-09 21:52:31 -0600,/t/programming,Porting software is fun and rewarding,http://nanxiao.me/en/porting-software-is-fun-rewarding/,/u/nanxiao,6
+0,2018-02-10 15:16:36 -0600,/t/hardware,Lars and the Real Internet of Things - Part 2,http://www.twobraids.com/2018/02/lars-and-real-internet-of-things-part-2.html,/u/freddyb,1
+0,2018-02-09 16:42:10 -0600,"/t/rust,/t/web",A Wee Allocator for WebAssembly,http://fitzgeraldnick.com/2018/02/09/wee-alloc.html,/u/freddyb,16
+0,2018-02-09 10:28:47 -0600,"/t/pdf,/t/distributed",Partisan: Enabling Cloud-Scale Erlang Applications,https://arxiv.org/abs/1802.02652,/u/cmeiklejohn,16
+1,2018-02-09 18:31:56 -0600,"/t/assembly,/t/graphics,/t/programming,/t/windows",Optimizing BitBlt by generating code on the fly,https://blogs.msdn.microsoft.com/oldnewthing/20180209-00/?p=97995,/u/tedu,10
+10,2018-02-09 11:34:31 -0600,/t/release,VLC 3.0 Vetinari,https://www.videolan.org/vlc/releases/3.0.0.html,/u/av,11
+10,2018-02-09 09:11:22 -0600,/t/programming,Guidelines for future hypertext systems,https://medium.com/@enkiv2/guidelines-for-future-hypertext-systems-647b6a10f7dd,/u/calvin,13
+0,2018-02-09 14:05:53 -0600,/t/math,Graphical Linear Algebra,https://graphicallinearalgebra.net/,/u/hobbes,13
+0,2018-02-09 21:57:03 -0600,/t/linux,A Decade of Plasma,http://jriddell.org/2018/02/08/a-decade-of-plasma/,/u/calvin,5
+6,2018-02-09 12:14:35 -0600,/t/programming,Coding without a keystroke: The hands-free creation of a full video game,https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/,/u/mf,7
+2,2018-02-09 09:51:20 -0600,"/t/c,/t/security","Fail-Safe C: Memory-Safe Implementation of Full, ANSI C (2009)",https://staff.aist.go.jp/y.oiwa/FailSafeC/index-en.html,/u/nickpsecurity,13
+0,2018-02-09 10:50:24 -0600,/t/compsci,To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction,http://dkeenan.com/Lambda/,/u/pushcx,14
+1,2018-02-09 14:51:11 -0600,/t/devops,Anatomy of a Ceph meltdown,http://chneukirchen.org/blog/archive/2018/01/anatomy-of-a-ceph-meltdown.html,/u/klingtnet,7
+0,2018-02-09 21:34:46 -0600,"/t/graphics,/t/programming",Using K-D Trees to Calculate Nearest Neighbors in 3D Vector Space,http://blog.krum.io/k-d-trees/,/u/Yogthos,3
+0,2018-02-09 15:12:58 -0600,/t/security,Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability,https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure,/u/hobbes,6
+3,2018-02-09 08:27:05 -0600,/t/rust,Async/Await V: Getting back to the futures,https://boats.gitlab.io/blog/post/2018-02-08-async-v-getting-back-to-the-futures/,/u/pushcx,6
+0,2018-02-09 14:12:23 -0600,/t/programming,The Power of Clojure: Debugging,https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging,/u/PJ,4

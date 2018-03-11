@@ -1,25 +1,25 @@
-5,2016-11-03 15:02:13 -0500,"['/t/hardware', '/t/programming']","Why hardware development is hard, part 1: Verilog is weird",https://danluu.com/why-hardware-development-is-hard/,/u/calvin,13
-0,2016-11-04 04:44:44 -0500,['/t/security'],GPON FTTH networks (in)security,https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html,/u/chaica,3
-0,2016-11-03 16:00:36 -0500,"['/t/browsers', '/t/privacy']","Mozilla removes browser extension “Web of Trust” from its store, because it collects, records, analyzes and sells user-related data to third-parties",https://www.reddit.com/r/linux/comments/5ayeu9/mozilla_removes_browser_extension_web_of_trust/,/u/mulander,14
-1,2016-11-03 09:30:35 -0500,['/t/security'],How to Flawlessly Predict Anything on the Internet,https://medium.com/message/how-to-always-be-right-on-the-internet-delete-your-mistakes-519a595da2f5,/u/pushcx,25
-0,2016-11-03 09:03:46 -0500,"['/t/c', '/t/rust']",Porting a few C functions to Rust,https://people.gnome.org/~federico/news-2016-10.html#28,/u/asthasr,22
-0,2016-11-03 19:22:21 -0500,['/t/programming'],An Introduction to Writing Systems & Unicode,https://r12a.github.io/scripts/tutorial/index,/u/adsouza,6
-0,2016-11-03 15:01:02 -0500,['/t/programming'],Why I became a software engineer,https://dev.to/edemkumodzi/why-i-became-a-software-engineer,/u/calvin,10
-28,2016-11-03 07:07:28 -0500,['/t/security'],bitwarden - OpenSource Password Manager,https://bitwarden.com/,/u/rodolfo,8
-17,2016-11-03 04:40:36 -0500,"['/t/release', '/t/web']",Pump.io 2.0.0 beta is here,https://strugee.net/blog/2016/11/pump.io-2.0.0-beta-is-here,/u/clacke,9
-7,2016-11-02 21:17:48 -0500,['/t/practices'],The Government IT Self-Harm Playbook,https://medium.com/@sheldonline/the-government-it-self-harm-playbook-6537d3920f65,/u/adsouza,22
-0,2016-11-03 18:13:29 -0500,['/t/crypto'],The Million-Key Question—Investigating the Origins of RSA Public Keys,https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/svenda,/u/fkr,2
-2,2016-11-03 14:18:05 -0500,"['/t/hardware', '/t/mobile', '/t/privacy']",Blocking ultrasonic tracking signals,http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/,/u/tedu,2
-0,2016-11-03 17:38:16 -0500,"['/t/design', '/t/javascript']",My process for building generative pens,http://codepen.io/rachsmith/post/my-process-for-building-generative-pens,/u/fcbsd,2
-0,2016-11-03 17:10:12 -0500,"['/t/pdf', '/t/historical', '/t/programming']",Programming Algol 68 made easy,http://www.nunan.myzen.co.uk/algol68/pame.pdf,/u/earthy,2
-12,2016-11-02 10:58:36 -0500,"['/t/linux', '/t/mac']",Darling - a macOS translation layer for Linux,https://www.darlinghq.org/,/u/halosghost,33
-10,2016-11-02 11:54:40 -0500,"['/t/programming', '/t/security']","Introducing TJSON, a stricter, typed form of JSON",https://tonyarcieri.com/introducing-tjson-a-stricter-typed-form-of-json,/u/bascule,16
-0,2016-11-03 14:50:22 -0500,"['/t/security', '/t/windows']",Moving Beyond EMET,https://blogs.technet.microsoft.com/srd/2016/11/03/beyond-emet/,/u/lattera,2
-0,2016-11-03 11:26:01 -0500,['/t/programming'],The Iron Triangle: One Project Constraint to Rule Them All,https://www.promptworks.com/blog/the-iron-triangle,/u/promptworks,3
-0,2016-11-03 02:45:54 -0500,"['/t/javascript', '/t/ruby', '/t/web']",Half stack web frameworks,http://ane.github.io/2016/11/02/half-stack-web-frameworks.html,/u/ane,4
-0,2016-11-03 04:18:50 -0500,"['/t/python', '/t/satire']",drathier/stack-overflow-import,https://github.com/drathier/stack-overflow-import,/u/clacke,12
-0,2016-11-03 12:38:58 -0500,"['/t/compsci', '/t/haskell']",Reverse Engineering Machines with the Yoneda Lemma (2006),http://blog.sigfpe.com/2006/11/yoneda-lemma.html,/u/pushcx,2
-0,2016-11-02 23:12:25 -0500,"['/t/programming', '/t/release']","D Version 2.072 Released: Over 200 Bugs Fixed, Native TLS on macOS, 40 Significant Library Changes,",https://dlang.org/changelog/2.072.0.html,/u/btbytes,9
-0,2016-11-02 11:58:00 -0500,"['/t/pdf', '/t/compilers']",Why Aren't More Users More Happy With Our VMs?,http://soft-dev.org/talks/2016/vmil.pdf,/u/mgaudet,31
-3,2016-11-03 09:51:30 -0500,"['/t/programming', '/t/security', '/t/web']","Tor – the good, the bad, and the ugly",https://blog.sqreen.io/tor-the-good-the-bad-and-the-ugly/,/u/PaulBlei,1
-2,2016-11-02 10:03:33 -0500,['/t/web'],Pornhub Bypasses Ad Blockers With WebSockets,http://blog.bugreplay.com/post/152579164219/pornhubdodgesadblockersusingwebsockets,/u/pushcx,23
+5,2016-11-03 15:02:13 -0500,"/t/hardware,/t/programming","Why hardware development is hard, part 1: Verilog is weird",https://danluu.com/why-hardware-development-is-hard/,/u/calvin,13
+0,2016-11-04 04:44:44 -0500,/t/security,GPON FTTH networks (in)security,https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html,/u/chaica,3
+0,2016-11-03 16:00:36 -0500,"/t/browsers,/t/privacy","Mozilla removes browser extension “Web of Trust” from its store, because it collects, records, analyzes and sells user-related data to third-parties",https://www.reddit.com/r/linux/comments/5ayeu9/mozilla_removes_browser_extension_web_of_trust/,/u/mulander,14
+1,2016-11-03 09:30:35 -0500,/t/security,How to Flawlessly Predict Anything on the Internet,https://medium.com/message/how-to-always-be-right-on-the-internet-delete-your-mistakes-519a595da2f5,/u/pushcx,25
+0,2016-11-03 09:03:46 -0500,"/t/c,/t/rust",Porting a few C functions to Rust,https://people.gnome.org/~federico/news-2016-10.html#28,/u/asthasr,22
+0,2016-11-03 19:22:21 -0500,/t/programming,An Introduction to Writing Systems & Unicode,https://r12a.github.io/scripts/tutorial/index,/u/adsouza,6
+0,2016-11-03 15:01:02 -0500,/t/programming,Why I became a software engineer,https://dev.to/edemkumodzi/why-i-became-a-software-engineer,/u/calvin,10
+28,2016-11-03 07:07:28 -0500,/t/security,bitwarden - OpenSource Password Manager,https://bitwarden.com/,/u/rodolfo,8
+17,2016-11-03 04:40:36 -0500,"/t/release,/t/web",Pump.io 2.0.0 beta is here,https://strugee.net/blog/2016/11/pump.io-2.0.0-beta-is-here,/u/clacke,9
+7,2016-11-02 21:17:48 -0500,/t/practices,The Government IT Self-Harm Playbook,https://medium.com/@sheldonline/the-government-it-self-harm-playbook-6537d3920f65,/u/adsouza,22
+0,2016-11-03 18:13:29 -0500,/t/crypto,The Million-Key Question—Investigating the Origins of RSA Public Keys,https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/svenda,/u/fkr,2
+2,2016-11-03 14:18:05 -0500,"/t/hardware,/t/mobile,/t/privacy",Blocking ultrasonic tracking signals,http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/,/u/tedu,2
+0,2016-11-03 17:38:16 -0500,"/t/design,/t/javascript",My process for building generative pens,http://codepen.io/rachsmith/post/my-process-for-building-generative-pens,/u/fcbsd,2
+0,2016-11-03 17:10:12 -0500,"/t/pdf,/t/historical,/t/programming",Programming Algol 68 made easy,http://www.nunan.myzen.co.uk/algol68/pame.pdf,/u/earthy,2
+12,2016-11-02 10:58:36 -0500,"/t/linux,/t/mac",Darling - a macOS translation layer for Linux,https://www.darlinghq.org/,/u/halosghost,33
+10,2016-11-02 11:54:40 -0500,"/t/programming,/t/security","Introducing TJSON, a stricter, typed form of JSON",https://tonyarcieri.com/introducing-tjson-a-stricter-typed-form-of-json,/u/bascule,16
+0,2016-11-03 14:50:22 -0500,"/t/security,/t/windows",Moving Beyond EMET,https://blogs.technet.microsoft.com/srd/2016/11/03/beyond-emet/,/u/lattera,2
+0,2016-11-03 11:26:01 -0500,/t/programming,The Iron Triangle: One Project Constraint to Rule Them All,https://www.promptworks.com/blog/the-iron-triangle,/u/promptworks,3
+0,2016-11-03 02:45:54 -0500,"/t/javascript,/t/ruby,/t/web",Half stack web frameworks,http://ane.github.io/2016/11/02/half-stack-web-frameworks.html,/u/ane,4
+0,2016-11-03 04:18:50 -0500,"/t/python,/t/satire",drathier/stack-overflow-import,https://github.com/drathier/stack-overflow-import,/u/clacke,12
+0,2016-11-03 12:38:58 -0500,"/t/compsci,/t/haskell",Reverse Engineering Machines with the Yoneda Lemma (2006),http://blog.sigfpe.com/2006/11/yoneda-lemma.html,/u/pushcx,2
+0,2016-11-02 23:12:25 -0500,"/t/programming,/t/release","D Version 2.072 Released: Over 200 Bugs Fixed, Native TLS on macOS, 40 Significant Library Changes,",https://dlang.org/changelog/2.072.0.html,/u/btbytes,9
+0,2016-11-02 11:58:00 -0500,"/t/pdf,/t/compilers",Why Aren't More Users More Happy With Our VMs?,http://soft-dev.org/talks/2016/vmil.pdf,/u/mgaudet,31
+3,2016-11-03 09:51:30 -0500,"/t/programming,/t/security,/t/web","Tor – the good, the bad, and the ugly",https://blog.sqreen.io/tor-the-good-the-bad-and-the-ugly/,/u/PaulBlei,1
+2,2016-11-02 10:03:33 -0500,/t/web,Pornhub Bypasses Ad Blockers With WebSockets,http://blog.bugreplay.com/post/152579164219/pornhubdodgesadblockersusingwebsockets,/u/pushcx,23

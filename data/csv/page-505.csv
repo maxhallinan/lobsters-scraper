@@ -1,25 +1,25 @@
-0,2017-02-02 09:33:04 -0600,['/t/programming'],What's Functional Programming All About?,http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html,/u/pushcx,11
-2,2017-02-02 09:44:48 -0600,"['/t/graphics', '/t/javascript']",JSMpeg – Decode it like it's 1999,http://jsmpeg.com/,/u/calvin,8
-0,2017-02-02 22:27:10 -0600,"['/t/law', '/t/security']","High-assurance, Lawful Intercept for Lavabit-style Situations (2014)",https://www.schneier.com/blog/archives/2014/09/fake_cell_phone.html#c6679179,/u/nickpsecurity,2
-10,2017-02-01 10:15:16 -0600,['/t/practices'],The Dark Standup,https://18f.gsa.gov/2017/01/19/the-dark-standup/,/u/pushcx,75
-0,2017-02-02 18:21:34 -0600,['/t/release'],Visual Studio Code 1.9 released,https://code.visualstudio.com/updates/v1_9,/u/cmm,3
-0,2017-02-02 09:36:13 -0600,['/t/web'],Using HTTP/2 Responsibly: Adapting for Users,http://alistapart.com/article/using-http-2-responsibly-adapting-for-users,/u/flyingfisch,8
-0,2017-02-02 17:08:51 -0600,"['/t/law', '/t/person']",John Carmack on the Oculus/ZeniMax lawsuit,https://www.facebook.com/permalink.php?story_fbid=1913546895546485&id=100006735798590,/u/calvin,3
-6,2017-02-02 05:16:26 -0600,"['/t/devops', '/t/go']",Should you containerize your Go code?,https://www.oreilly.com/ideas/should-you-containerize-your-go-code,/u/mhausenblas,6
-0,2017-02-02 16:29:34 -0600,"['/t/distributed', '/t/dotnet', '/t/go']",Actors for Go and .NET,http://proto.actor/,/u/msun,3
-0,2017-02-02 19:01:02 -0600,['/t/testing'],TDD Bug Categories (2004),http://www.exampler.com/old-blog/2004/01/27/index.html#tdd-bug-categories,/u/pushcx,2
-9,2017-02-02 09:23:29 -0600,['/t/book'],Humble Book Bundle: Hacks presented by O'Reilly,https://www.humblebundle.com/books/hacks-book-bundle,/u/flyingfisch,1
-0,2017-02-03 03:08:47 -0600,['/t/security'],"Several polish banks hacked, information stolen by unknown attackers",https://badcyber.com/several-polish-banks-hacked-information-stolen-by-unknown-attackers/,/u/mulander,0
-0,2017-02-02 16:28:10 -0600,"['/t/compilers', '/t/go', '/t/haskell']",Fencing off Go: Liveness and safety for channel-based programming,https://blog.acolyer.org/2017/02/02/fencing-off-go-liveness-and-safety-for-channel-based-programming/,/u/aduffy,2
-0,2017-02-02 07:52:55 -0600,"['/t/video', '/t/hardware', '/t/reversing']",Shining some light on the Amazon Dash button,https://media.ccc.de/v/33c3-8398-shining_some_light_on_the_amazon_dash_button,/u/flyingfisch,6
-25,2017-02-01 11:51:00 -0600,"['/t/java', '/t/nodejs', '/t/ruby']",The JVM is not that heavy,https://www.opensourcery.co.za/2017/01/05/the-jvm-is-not-that-heavy/,/u/soulcutter,27
-0,2017-02-02 19:25:06 -0600,['/t/security'],Yubikeys and U2F make two-factor authentication easier,https://www.citusdata.com/blog/2017/02/01/u2f-yubikey-support-on-citus-cloud/,/u/craigkerstiens,0
-0,2017-02-02 09:22:37 -0600,"['/t/hardware', '/t/security']",Hacking the Aether: How Data Crosses the Air-Gap,http://hackaday.com/2017/02/02/hacking-the-aether/,/u/flyingfisch,4
-0,2017-02-02 18:07:38 -0600,['/t/javascript'],Announcing TypeScript 2.2 RC,https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/,/u/joshuacc,1
-0,2017-02-02 18:04:58 -0600,"['/t/compsci', '/t/crypto']",Defeating Quantum Algorithms with Hash Functions,https://research.kudelskisecurity.com/2017/02/01/defeating-quantum-algorithms-with-hash-functions/,/u/calvin,1
-0,2017-02-02 09:16:16 -0600,"['/t/crypto', '/t/freebsd', '/t/security']",Deeper Exploration in (Free|Hardened)BSD Entropy (Part 2 of series),https://www.weaponizedawesome.com/blog/?p=173,/u/lattera,3
-2,2017-02-01 15:43:29 -0600,['/t/games'],The Founder: A Game About The Dark Side Of Silicon Valley,https://www.fastcodesign.com/3067405/the-founder-a-game-about-the-dark-side-of-silicon-valley,/u/adsouza,13
-0,2017-02-02 11:25:32 -0600,['/t/go'],TCP/IP Networking: working at the TCP socket level from Go,https://appliedgo.net/networking/,/u/benballjr,2
-10,2017-02-01 13:53:59 -0600,"['/t/debugging', '/t/javascript']","Stop Filing Bugs, File a Container!",http://blog.runkit.com/2017/02/01/stop-filing-bugs-file-a-container.html,/u/rentzsch,7
-9,2017-02-01 10:36:33 -0600,['/t/meta'],Invitation pledge-drive results,/s/2scxd0/invitation_pledge_drive_results,/u/jcs,19
-1,2017-02-02 07:09:42 -0600,"['/t/javascript', '/t/web']",Decode It Like It's 1999,http://phoboslab.org/log/2017/02/decode-it-like-its-1999,/u/fcbsd,3
+0,2017-02-02 09:33:04 -0600,/t/programming,What's Functional Programming All About?,http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html,/u/pushcx,11
+2,2017-02-02 09:44:48 -0600,"/t/graphics,/t/javascript",JSMpeg – Decode it like it's 1999,http://jsmpeg.com/,/u/calvin,8
+0,2017-02-02 22:27:10 -0600,"/t/law,/t/security","High-assurance, Lawful Intercept for Lavabit-style Situations (2014)",https://www.schneier.com/blog/archives/2014/09/fake_cell_phone.html#c6679179,/u/nickpsecurity,2
+10,2017-02-01 10:15:16 -0600,/t/practices,The Dark Standup,https://18f.gsa.gov/2017/01/19/the-dark-standup/,/u/pushcx,75
+0,2017-02-02 18:21:34 -0600,/t/release,Visual Studio Code 1.9 released,https://code.visualstudio.com/updates/v1_9,/u/cmm,3
+0,2017-02-02 09:36:13 -0600,/t/web,Using HTTP/2 Responsibly: Adapting for Users,http://alistapart.com/article/using-http-2-responsibly-adapting-for-users,/u/flyingfisch,8
+0,2017-02-02 17:08:51 -0600,"/t/law,/t/person",John Carmack on the Oculus/ZeniMax lawsuit,https://www.facebook.com/permalink.php?story_fbid=1913546895546485&id=100006735798590,/u/calvin,3
+6,2017-02-02 05:16:26 -0600,"/t/devops,/t/go",Should you containerize your Go code?,https://www.oreilly.com/ideas/should-you-containerize-your-go-code,/u/mhausenblas,6
+0,2017-02-02 16:29:34 -0600,"/t/distributed,/t/dotnet,/t/go",Actors for Go and .NET,http://proto.actor/,/u/msun,3
+0,2017-02-02 19:01:02 -0600,/t/testing,TDD Bug Categories (2004),http://www.exampler.com/old-blog/2004/01/27/index.html#tdd-bug-categories,/u/pushcx,2
+9,2017-02-02 09:23:29 -0600,/t/book,Humble Book Bundle: Hacks presented by O'Reilly,https://www.humblebundle.com/books/hacks-book-bundle,/u/flyingfisch,1
+0,2017-02-03 03:08:47 -0600,/t/security,"Several polish banks hacked, information stolen by unknown attackers",https://badcyber.com/several-polish-banks-hacked-information-stolen-by-unknown-attackers/,/u/mulander,0
+0,2017-02-02 16:28:10 -0600,"/t/compilers,/t/go,/t/haskell",Fencing off Go: Liveness and safety for channel-based programming,https://blog.acolyer.org/2017/02/02/fencing-off-go-liveness-and-safety-for-channel-based-programming/,/u/aduffy,2
+0,2017-02-02 07:52:55 -0600,"/t/video,/t/hardware,/t/reversing",Shining some light on the Amazon Dash button,https://media.ccc.de/v/33c3-8398-shining_some_light_on_the_amazon_dash_button,/u/flyingfisch,6
+25,2017-02-01 11:51:00 -0600,"/t/java,/t/nodejs,/t/ruby",The JVM is not that heavy,https://www.opensourcery.co.za/2017/01/05/the-jvm-is-not-that-heavy/,/u/soulcutter,27
+0,2017-02-02 19:25:06 -0600,/t/security,Yubikeys and U2F make two-factor authentication easier,https://www.citusdata.com/blog/2017/02/01/u2f-yubikey-support-on-citus-cloud/,/u/craigkerstiens,0
+0,2017-02-02 09:22:37 -0600,"/t/hardware,/t/security",Hacking the Aether: How Data Crosses the Air-Gap,http://hackaday.com/2017/02/02/hacking-the-aether/,/u/flyingfisch,4
+0,2017-02-02 18:07:38 -0600,/t/javascript,Announcing TypeScript 2.2 RC,https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/,/u/joshuacc,1
+0,2017-02-02 18:04:58 -0600,"/t/compsci,/t/crypto",Defeating Quantum Algorithms with Hash Functions,https://research.kudelskisecurity.com/2017/02/01/defeating-quantum-algorithms-with-hash-functions/,/u/calvin,1
+0,2017-02-02 09:16:16 -0600,"/t/crypto,/t/freebsd,/t/security",Deeper Exploration in (Free|Hardened)BSD Entropy (Part 2 of series),https://www.weaponizedawesome.com/blog/?p=173,/u/lattera,3
+2,2017-02-01 15:43:29 -0600,/t/games,The Founder: A Game About The Dark Side Of Silicon Valley,https://www.fastcodesign.com/3067405/the-founder-a-game-about-the-dark-side-of-silicon-valley,/u/adsouza,13
+0,2017-02-02 11:25:32 -0600,/t/go,TCP/IP Networking: working at the TCP socket level from Go,https://appliedgo.net/networking/,/u/benballjr,2
+10,2017-02-01 13:53:59 -0600,"/t/debugging,/t/javascript","Stop Filing Bugs, File a Container!",http://blog.runkit.com/2017/02/01/stop-filing-bugs-file-a-container.html,/u/rentzsch,7
+9,2017-02-01 10:36:33 -0600,/t/meta,Invitation pledge-drive results,/s/2scxd0/invitation_pledge_drive_results,/u/jcs,19
+1,2017-02-02 07:09:42 -0600,"/t/javascript,/t/web",Decode It Like It's 1999,http://phoboslab.org/log/2017/02/decode-it-like-its-1999,/u/fcbsd,3

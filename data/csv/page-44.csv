@@ -1,25 +1,25 @@
-28,2018-01-26 14:35:59 -0600,"['/t/haskell', '/t/plt', '/t/programming']",Selling Laziness,http://www.usrsb.in/selling-laziness.html,/u/beala,12
-1,2018-01-26 09:31:14 -0600,"['/t/c++', '/t/job', '/t/web']",We’re Hiring a Developer to Work on Thunderbird Full-Time!,https://blog.mozilla.org/thunderbird/2018/01/were-hiring-a-developer-to-work-on-thunderbird-full-time/,/u/JordiGH,36
-0,2018-01-27 09:20:09 -0600,"['/t/pdf', '/t/ml']",Certified Development Tools Implementation in Objective Caml (2008),https://pdfs.semanticscholar.org/2867/ae0cbd1f1fd394aca5f19ef62342d07eedac.pdf,/u/nickpsecurity,5
-2,2018-01-27 09:59:05 -0600,"['/t/culture', '/t/ios', '/t/security']","iPhones, Armed Robbery, and Hacking",https://manybutfinite.com/post/iphones-armed-robbery-hacking/,/u/calvin,8
-0,2018-01-27 11:54:59 -0600,"['/t/debugging', '/t/dotnet']",Stacktrace improvements in .NET Core 2.1,https://www.ageofascent.com/2018/01/26/stack-trace-for-exceptions-in-dotnet-core-2.1/,/u/calvin,3
-0,2018-01-27 07:21:18 -0600,"['/t/javascript', '/t/plt']","Why NOT to add the pipeline operator to JavaScript (or TypeScript, etc.)?",https://djedr.github.io/posts/random-2018-01-25.html,/u/calvin,5
-4,2018-01-26 19:46:00 -0600,['/t/browsers'],Extensions in Firefox 59,https://blog.mozilla.org/addons/2018/01/26/extensions-firefox-59/,/u/calvin,13
-0,2018-01-27 10:54:51 -0600,['/t/databases'],Data Consistency Checks,https://slack.engineering/data-consistency-checks-e73261318f96,/u/hwayne,3
-0,2018-01-27 04:52:26 -0600,['/t/databases'],Postgres Indexes Under the Hood,https://rcoh.me/posts/postgres-indexes-under-the-hood/,/u/mulander,6
-2,2018-01-27 04:37:33 -0600,"['/t/design', '/t/historical', '/t/web']",Ted Nelson's (inventor of hypertext) earliest papers are now online (for free),https://twitter.com/thetednelson/status/956516146462670848,/u/kristof,4
-1,2018-01-27 07:53:51 -0600,['/t/ai'],The UX of AI,https://design.google/library/ux-ai/,/u/colin,2
-20,2018-01-26 02:04:22 -0600,"['/t/programming', '/t/web']",How (and Why) I Run My Own DNS Servers,https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/,/u/zwischenzugs,23
-1,2018-01-27 09:32:11 -0600,"['/t/pdf', '/t/formalmethods', '/t/hardware', '/t/historical']",The Notion of Proof in Hardware Verification (draft) (1989),http://www.cl.cam.ac.uk/archive/mjcg/papers/AvraProofPaper.pdf,/u/nickpsecurity,2
-0,2018-01-27 04:01:51 -0600,['/t/javascript'],Asynchronous Reduce in JavaScript,http://bloomca-me.github.io/2018/01/27/asynchronous-reduce-in-javascript.html,/u/bloomca,2
-4,2018-01-26 09:48:17 -0600,['/t/visualization'],Ranking Programming Languages by GitHub Users,http://www.benfrederickson.com/ranking-programming-languages-by-github-users/,/u/muhammeddkilicc,14
-6,2018-01-26 15:37:29 -0600,"['/t/design', '/t/visualization']",Gay Cliques Census (SFW survey and visualization),http://www.studiomoh.com/fun/census/results.php,/u/friendlysock,6
-6,2018-01-26 13:20:55 -0600,"['/t/ask', '/t/programming']",CLI-based Scaffolding Generator Library?,/s/pbbigh/cli_based_scaffolding_generator_library,/u/wambotron,4
-0,2018-01-26 23:06:08 -0600,"['/t/debugging', '/t/go']",Using Go 1.10 new trace features to debug an integration test,https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d,/u/zpojqwfejwfhiunz,4
-29,2018-01-25 18:46:27 -0600,"['/t/freebsd', '/t/netbsd', '/t/openbsd', '/t/security']",Are the BSDs dying? Some security researchers think so,https://www.csoonline.com/article/3250653/open-source-tools/is-the-bsd-os-dying-some-security-researchers-think-so.html,/u/nanxiao,45
-5,2018-01-26 09:02:14 -0600,"['/t/devops', '/t/linux']",A minimalist guide to tmux,https://medium.com/actualize-network/a-minimalist-guide-to-tmux-13675fb160fa,/u/av,11
-8,2018-01-26 07:57:05 -0600,"['/t/pdf', '/t/release']","VMS Software's OpenVMS AXP/IA64/x86-64 Rolling Roadmap, Updated for December 2017",https://www.vmssoftware.com/pdfs/VSI_Roadmap_20171215.pdf,/u/mjturner,10
-0,2018-01-27 05:41:25 -0600,"['/t/linux', '/t/security']",Introducing Qubreboot - a script to prepare a flash drive for easy Qubes installation on Libreboot,http://dodoid.net/qubreboot/,/u/pizzaiolo,1
-5,2018-01-26 06:43:00 -0600,['/t/mac'],Prepare for changes to macOS Server,https://support.apple.com/en-us/HT208312,/u/sevan,8
-1,2018-01-26 19:13:21 -0600,['/t/plt'],Crash Course on Notation in Programming Language Theory (2012),http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html,/u/zpojqwfejwfhiunz,2
-0,2018-01-26 07:52:31 -0600,"['/t/compsci', '/t/plt']",A practitioner’s guide to reading programming languages papers,https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/,/u/calvin,13
+28,2018-01-26 14:35:59 -0600,"/t/haskell,/t/plt,/t/programming",Selling Laziness,http://www.usrsb.in/selling-laziness.html,/u/beala,12
+1,2018-01-26 09:31:14 -0600,"/t/c++,/t/job,/t/web",We’re Hiring a Developer to Work on Thunderbird Full-Time!,https://blog.mozilla.org/thunderbird/2018/01/were-hiring-a-developer-to-work-on-thunderbird-full-time/,/u/JordiGH,36
+0,2018-01-27 09:20:09 -0600,"/t/pdf,/t/ml",Certified Development Tools Implementation in Objective Caml (2008),https://pdfs.semanticscholar.org/2867/ae0cbd1f1fd394aca5f19ef62342d07eedac.pdf,/u/nickpsecurity,5
+2,2018-01-27 09:59:05 -0600,"/t/culture,/t/ios,/t/security","iPhones, Armed Robbery, and Hacking",https://manybutfinite.com/post/iphones-armed-robbery-hacking/,/u/calvin,8
+0,2018-01-27 11:54:59 -0600,"/t/debugging,/t/dotnet",Stacktrace improvements in .NET Core 2.1,https://www.ageofascent.com/2018/01/26/stack-trace-for-exceptions-in-dotnet-core-2.1/,/u/calvin,3
+0,2018-01-27 07:21:18 -0600,"/t/javascript,/t/plt","Why NOT to add the pipeline operator to JavaScript (or TypeScript, etc.)?",https://djedr.github.io/posts/random-2018-01-25.html,/u/calvin,5
+4,2018-01-26 19:46:00 -0600,/t/browsers,Extensions in Firefox 59,https://blog.mozilla.org/addons/2018/01/26/extensions-firefox-59/,/u/calvin,13
+0,2018-01-27 10:54:51 -0600,/t/databases,Data Consistency Checks,https://slack.engineering/data-consistency-checks-e73261318f96,/u/hwayne,3
+0,2018-01-27 04:52:26 -0600,/t/databases,Postgres Indexes Under the Hood,https://rcoh.me/posts/postgres-indexes-under-the-hood/,/u/mulander,6
+2,2018-01-27 04:37:33 -0600,"/t/design,/t/historical,/t/web",Ted Nelson's (inventor of hypertext) earliest papers are now online (for free),https://twitter.com/thetednelson/status/956516146462670848,/u/kristof,4
+1,2018-01-27 07:53:51 -0600,/t/ai,The UX of AI,https://design.google/library/ux-ai/,/u/colin,2
+20,2018-01-26 02:04:22 -0600,"/t/programming,/t/web",How (and Why) I Run My Own DNS Servers,https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/,/u/zwischenzugs,23
+1,2018-01-27 09:32:11 -0600,"/t/pdf,/t/formalmethods,/t/hardware,/t/historical",The Notion of Proof in Hardware Verification (draft) (1989),http://www.cl.cam.ac.uk/archive/mjcg/papers/AvraProofPaper.pdf,/u/nickpsecurity,2
+0,2018-01-27 04:01:51 -0600,/t/javascript,Asynchronous Reduce in JavaScript,http://bloomca-me.github.io/2018/01/27/asynchronous-reduce-in-javascript.html,/u/bloomca,2
+4,2018-01-26 09:48:17 -0600,/t/visualization,Ranking Programming Languages by GitHub Users,http://www.benfrederickson.com/ranking-programming-languages-by-github-users/,/u/muhammeddkilicc,14
+6,2018-01-26 15:37:29 -0600,"/t/design,/t/visualization",Gay Cliques Census (SFW survey and visualization),http://www.studiomoh.com/fun/census/results.php,/u/friendlysock,6
+6,2018-01-26 13:20:55 -0600,"/t/ask,/t/programming",CLI-based Scaffolding Generator Library?,/s/pbbigh/cli_based_scaffolding_generator_library,/u/wambotron,4
+0,2018-01-26 23:06:08 -0600,"/t/debugging,/t/go",Using Go 1.10 new trace features to debug an integration test,https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d,/u/zpojqwfejwfhiunz,4
+29,2018-01-25 18:46:27 -0600,"/t/freebsd,/t/netbsd,/t/openbsd,/t/security",Are the BSDs dying? Some security researchers think so,https://www.csoonline.com/article/3250653/open-source-tools/is-the-bsd-os-dying-some-security-researchers-think-so.html,/u/nanxiao,45
+5,2018-01-26 09:02:14 -0600,"/t/devops,/t/linux",A minimalist guide to tmux,https://medium.com/actualize-network/a-minimalist-guide-to-tmux-13675fb160fa,/u/av,11
+8,2018-01-26 07:57:05 -0600,"/t/pdf,/t/release","VMS Software's OpenVMS AXP/IA64/x86-64 Rolling Roadmap, Updated for December 2017",https://www.vmssoftware.com/pdfs/VSI_Roadmap_20171215.pdf,/u/mjturner,10
+0,2018-01-27 05:41:25 -0600,"/t/linux,/t/security",Introducing Qubreboot - a script to prepare a flash drive for easy Qubes installation on Libreboot,http://dodoid.net/qubreboot/,/u/pizzaiolo,1
+5,2018-01-26 06:43:00 -0600,/t/mac,Prepare for changes to macOS Server,https://support.apple.com/en-us/HT208312,/u/sevan,8
+1,2018-01-26 19:13:21 -0600,/t/plt,Crash Course on Notation in Programming Language Theory (2012),http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html,/u/zpojqwfejwfhiunz,2
+0,2018-01-26 07:52:31 -0600,"/t/compsci,/t/plt",A practitioner’s guide to reading programming languages papers,https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/,/u/calvin,13

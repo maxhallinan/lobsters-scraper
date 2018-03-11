@@ -1,25 +1,25 @@
-0,2014-10-31 10:33:07 -0500,['/t/hardware'],Choosing hardware to minimize latency,https://groups.google.com/forum/#!topic/mechanical-sympathy/jdIhW0TaZQ4,/u/tobym,3
-0,2014-10-31 11:38:47 -0500,"['/t/book', '/t/freebsd', '/t/networking', '/t/openbsd']","The Book of PF, 3rd edition, first copy signed by author, auction for OpenBSD",http://bsdly.blogspot.com/2014/10/the-book-of-pf-3rd-edition-is-here.html,/u/brynet,2
-3,2014-10-30 20:20:41 -0500,['/t/release'],Fetching - Your own personal Google,http://fetching.io/,/u/dh,7
-0,2014-10-31 11:07:13 -0500,['/t/hardware'],Gnu/Linux PowerPC notebook | To make happen a new powerpc notebook will be produced soon.,http://www.powerpc-notebook.org,/u/sevan,1
-0,2014-10-30 13:02:30 -0500,"['/t/openbsd', '/t/programming', '/t/security']",reallocarray() in OpenBSD: Integer Overflow Detection for Free,http://lteo.net/blog/2014/10/28/reallocarray-in-openbsd-integer-overflow-detection-for-free/,/u/jcs,16
-1,2014-10-30 16:14:40 -0500,"['/t/ruby', '/t/web']",The New Kid on the Block for Ruby Servers: Raptor!,http://www.akitaonrails.com/2014/10/19/the-new-kid-on-the-block-for-ruby-servers-raptor#.VFKqB_hGjUY,/u/zem,3
-3,2014-10-30 06:29:23 -0500,['/t/javascript'],Can AngularJS Maintain Its Dominance?,http://developer.telerik.com/featured/can-angularjs-maintain-dominance/,/u/remotesynth,6
-0,2014-10-30 20:54:21 -0500,"['/t/practices', '/t/programming', '/t/rust']",Stability as a Deliverable,http://blog.rust-lang.org/2014/10/30/Stability.html,/u/steveklabnik,1
-0,2014-10-30 14:05:48 -0500,['/t/php'],Composer: It’s All About the Lock File,https://blog.engineyard.com/2014/composer-its-all-about-the-lock-file,/u/dshafik,3
-0,2014-10-30 08:07:54 -0500,['/t/programming'],Extreme Formatting,http://prog21.dadgum.com/200.html,/u/silentbicycle,5
-3,2014-10-29 20:14:57 -0500,"['/t/compsci', '/t/hardware']",What Does an Idle CPU Do?,http://duartes.org/gustavo/blog/post/what-does-an-idle-cpu-do/,/u/journeysquid,14
-0,2014-10-30 14:45:18 -0500,['/t/linux'],Suse enterprise Linux can take your system back in time,http://www.networkworld.com/article/2839354/suse-enterprise-linux-can-take-your-system-back-in-time.html,/u/flyingfisch,1
-0,2014-10-30 14:23:37 -0500,['/t/release'],SOUP (software of unknown pedigree),https://en.wikipedia.org/wiki/SOUP_%28software_of_unknown_pedigree%29,/u/dh,1
-0,2014-10-30 14:05:21 -0500,['/t/hardware'],"Mother - The care you need, the care you want",https://sen.se/,/u/dh,1
-0,2014-10-30 05:32:40 -0500,"['/t/haskell', '/t/programming', '/t/scala']",Type-safe transducers in Clojure. And Scala. And Haskell.,http://blog.podsnap.com/ducers2.html,/u/irrequietus,3
-0,2014-10-30 11:46:55 -0500,"['/t/practices', '/t/programming']",How to comment code,http://hilton.org.uk/blog/how-to-comment-code,/u/fcbsd,1
-7,2014-10-29 23:37:05 -0500,"['/t/hardware', '/t/mobile']",Microsoft Band,http://www.microsoft.com/microsoft-band/en-us,/u/akurilin,2
-0,2014-10-30 12:51:17 -0500,['/t/culture'],The EntitleMen: techno-libertarian right wing sockpuppets of silicon valley,http://graydon2.dreamwidth.org/193575.html,/u/steveklabnik,2
-1,2014-10-29 15:19:55 -0500,['/t/haskell'],The Guts of a Spineless Machine,http://jozefg.bitbucket.org/posts/2014-10-28-stg.html,/u/jozefg,11
-4,2014-10-29 10:16:59 -0500,"['/t/devops', '/t/practices', '/t/web']",MOST page loads will experience the 99%'ile server response,http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-most-page-loads.html?m=1,/u/tobym,10
-0,2014-10-30 07:37:47 -0500,['/t/hardware'],Candy or Death: The Automatic Halloween Candy Dispenser,http://www.benrady.com/2014/10/candy-or-death-the-automatic-halloween-candy-dispenser.html,/u/duelinmarkers,1
-0,2014-10-29 17:07:23 -0500,['/t/security'],Attack of the Week: Unpicking PLAID,http://blog.cryptographyengineering.com/2014/10/attack-of-week-unpicking-plaid.html,/u/tedu,8
-1,2014-10-30 03:06:26 -0500,['/t/web'],Bootstrap 3.3.0 released,http://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/,/u/akurilin,2
-12,2014-10-29 09:52:17 -0500,"['/t/culture', '/t/databases', '/t/networking']",This is why I (Antirez) can't have conversations using Twitter,http://antirez.com/news/82,/u/journeysquid,31
-0,2014-10-30 04:50:18 -0500,"['/t/programming', '/t/rust']",A Quick Intro to Rust Macros,https://danielkeep.github.io/quick-intro-to-macros.html,/u/irrequietus,1
+0,2014-10-31 10:33:07 -0500,/t/hardware,Choosing hardware to minimize latency,https://groups.google.com/forum/#!topic/mechanical-sympathy/jdIhW0TaZQ4,/u/tobym,3
+0,2014-10-31 11:38:47 -0500,"/t/book,/t/freebsd,/t/networking,/t/openbsd","The Book of PF, 3rd edition, first copy signed by author, auction for OpenBSD",http://bsdly.blogspot.com/2014/10/the-book-of-pf-3rd-edition-is-here.html,/u/brynet,2
+3,2014-10-30 20:20:41 -0500,/t/release,Fetching - Your own personal Google,http://fetching.io/,/u/dh,7
+0,2014-10-31 11:07:13 -0500,/t/hardware,Gnu/Linux PowerPC notebook | To make happen a new powerpc notebook will be produced soon.,http://www.powerpc-notebook.org,/u/sevan,1
+0,2014-10-30 13:02:30 -0500,"/t/openbsd,/t/programming,/t/security",reallocarray() in OpenBSD: Integer Overflow Detection for Free,http://lteo.net/blog/2014/10/28/reallocarray-in-openbsd-integer-overflow-detection-for-free/,/u/jcs,16
+1,2014-10-30 16:14:40 -0500,"/t/ruby,/t/web",The New Kid on the Block for Ruby Servers: Raptor!,http://www.akitaonrails.com/2014/10/19/the-new-kid-on-the-block-for-ruby-servers-raptor#.VFKqB_hGjUY,/u/zem,3
+3,2014-10-30 06:29:23 -0500,/t/javascript,Can AngularJS Maintain Its Dominance?,http://developer.telerik.com/featured/can-angularjs-maintain-dominance/,/u/remotesynth,6
+0,2014-10-30 20:54:21 -0500,"/t/practices,/t/programming,/t/rust",Stability as a Deliverable,http://blog.rust-lang.org/2014/10/30/Stability.html,/u/steveklabnik,1
+0,2014-10-30 14:05:48 -0500,/t/php,Composer: It’s All About the Lock File,https://blog.engineyard.com/2014/composer-its-all-about-the-lock-file,/u/dshafik,3
+0,2014-10-30 08:07:54 -0500,/t/programming,Extreme Formatting,http://prog21.dadgum.com/200.html,/u/silentbicycle,5
+3,2014-10-29 20:14:57 -0500,"/t/compsci,/t/hardware",What Does an Idle CPU Do?,http://duartes.org/gustavo/blog/post/what-does-an-idle-cpu-do/,/u/journeysquid,14
+0,2014-10-30 14:45:18 -0500,/t/linux,Suse enterprise Linux can take your system back in time,http://www.networkworld.com/article/2839354/suse-enterprise-linux-can-take-your-system-back-in-time.html,/u/flyingfisch,1
+0,2014-10-30 14:23:37 -0500,/t/release,SOUP (software of unknown pedigree),https://en.wikipedia.org/wiki/SOUP_%28software_of_unknown_pedigree%29,/u/dh,1
+0,2014-10-30 14:05:21 -0500,/t/hardware,"Mother - The care you need, the care you want",https://sen.se/,/u/dh,1
+0,2014-10-30 05:32:40 -0500,"/t/haskell,/t/programming,/t/scala",Type-safe transducers in Clojure. And Scala. And Haskell.,http://blog.podsnap.com/ducers2.html,/u/irrequietus,3
+0,2014-10-30 11:46:55 -0500,"/t/practices,/t/programming",How to comment code,http://hilton.org.uk/blog/how-to-comment-code,/u/fcbsd,1
+7,2014-10-29 23:37:05 -0500,"/t/hardware,/t/mobile",Microsoft Band,http://www.microsoft.com/microsoft-band/en-us,/u/akurilin,2
+0,2014-10-30 12:51:17 -0500,/t/culture,The EntitleMen: techno-libertarian right wing sockpuppets of silicon valley,http://graydon2.dreamwidth.org/193575.html,/u/steveklabnik,2
+1,2014-10-29 15:19:55 -0500,/t/haskell,The Guts of a Spineless Machine,http://jozefg.bitbucket.org/posts/2014-10-28-stg.html,/u/jozefg,11
+4,2014-10-29 10:16:59 -0500,"/t/devops,/t/practices,/t/web",MOST page loads will experience the 99%'ile server response,http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-most-page-loads.html?m=1,/u/tobym,10
+0,2014-10-30 07:37:47 -0500,/t/hardware,Candy or Death: The Automatic Halloween Candy Dispenser,http://www.benrady.com/2014/10/candy-or-death-the-automatic-halloween-candy-dispenser.html,/u/duelinmarkers,1
+0,2014-10-29 17:07:23 -0500,/t/security,Attack of the Week: Unpicking PLAID,http://blog.cryptographyengineering.com/2014/10/attack-of-week-unpicking-plaid.html,/u/tedu,8
+1,2014-10-30 03:06:26 -0500,/t/web,Bootstrap 3.3.0 released,http://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/,/u/akurilin,2
+12,2014-10-29 09:52:17 -0500,"/t/culture,/t/databases,/t/networking",This is why I (Antirez) can't have conversations using Twitter,http://antirez.com/news/82,/u/journeysquid,31
+0,2014-10-30 04:50:18 -0500,"/t/programming,/t/rust",A Quick Intro to Rust Macros,https://danielkeep.github.io/quick-intro-to-macros.html,/u/irrequietus,1

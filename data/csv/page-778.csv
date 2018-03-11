@@ -1,25 +1,25 @@
-1,2016-05-20 11:52:19 -0500,"['/t/devops', '/t/go', '/t/javascript', '/t/programming', '/t/scaling']","Apex – ""Serverless"" infrastructure management (by @tjholowaychuk)",http://apex.run/,/u/felixgallo,5
-3,2016-05-20 03:34:52 -0500,['/t/games'],Human Resource Machine,https://tomorrowcorporation.com/humanresourcemachine,/u/mordae,11
-0,2016-05-20 08:42:50 -0500,['/t/linux'],Improvements to PulseAudio’s Echo Cancellation | Arun Raghavan,http://arunraghavan.net/2016/05/improvements-to-pulseaudios-echo-cancellation/,/u/arun,4
-2,2016-05-20 06:30:22 -0500,['/t/virtualization'],Easy Amazon EC2 Instance Comparison,http://www.ec2instances.info/,/u/dege,7
-0,2016-05-20 09:09:31 -0500,"['/t/hardware', '/t/linux']",How to install Debian on a TI-Nspire,http://ivoah.net/blog/2016/03/20/how-to-install-debian-on-a-ti-nspire/,/u/flyingfisch,6
-0,2016-05-21 01:51:20 -0500,['/t/culture'],Some of the best tech job survival advice I've ever read,http://www.network-node.com/blog/2016/5/19/careerjob-advice-and-observations,/u/JeremyMorgan,1
-5,2016-05-19 17:09:39 -0500,"['/t/show', '/t/linux']","Staticus, a poor man status page generator",http://javier.io/blog/en/2016/05/19/staticus-poor-man-status-page-generator.html,/u/javier-lopez,10
-0,2016-05-20 02:49:53 -0500,['/t/c'],A non-exhaustive list of ways C compilers break for objects larger than PTRDIFF_MAX bytes,http://trust-in-soft.com/objects-larger-than-ptrdiff_max-bytes/,/u/kyle,11
-0,2016-05-20 02:44:55 -0500,"['/t/person', '/t/vim']","How I Vim - Andy Stewart, a.k.a airblade",http://howivim.com/2016/andy-stewart/,/u/daGrevis,11
-2,2016-05-20 07:15:18 -0500,"['/t/api', '/t/java']",Swagger – The World's Most Popular Framework for APIs.,http://swagger.io/,/u/fkr,4
-6,2016-05-19 18:11:50 -0500,"['/t/security', '/t/unix']",Using ed(1) as a password manager,http://tim.thechases.com/posts/cli/using-ed1-as-a-password-manager/,/u/sevan,11
-0,2016-05-20 12:53:53 -0500,['/t/ruby'],RubyGems.org 2016 Push,http://blog.rubygems.org/2016/05/20/rubygems-org-2016-push.html,/u/soulcutter,2
-0,2016-05-20 11:22:36 -0500,"['/t/design', '/t/web']",CSS coding techniques,https://hacks.mozilla.org/2016/05/css-coding-techniques/,/u/samsymons,2
-7,2016-05-19 11:34:17 -0500,"['/t/cogsci', '/t/philosophy']",Hubert Dreyfus's critique on artificial intelligence,https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence,/u/bsima,15
-0,2016-05-19 20:26:17 -0500,['/t/c'],Even the Deathstation 9000 can't screw up the BIND 9.10.4 fix,http://fanf.livejournal.com/144615.html,/u/jcs,10
-4,2016-05-19 11:32:01 -0500,['/t/freebsd'],"Updating the broadcom softmac driver (bwn), or ""damnit, I said I'd never do this!""",http://adrianchadd.blogspot.com/2016/05/updating-broadcom-softmac-driver-bwn-or.html,/u/lattera,15
-0,2016-05-20 06:56:49 -0500,"['/t/release', '/t/reversing', '/t/security']",Analysis of a Heap Overflow in Foxit Reader,https://scoding.de/analysis-of-a-heap-overflow-in-foxit-reader,/u/mulander,2
-1,2016-05-19 18:13:16 -0500,['/t/freebsd'],Followup on packaging base with pkg(8),https://lists.freebsd.org/pipermail/freebsd-pkgbase/2016-May/000238.html,/u/lattera,6
-3,2016-05-19 10:18:23 -0500,['/t/ruby'],A change-positive Ruby web application architecture,http://icelab.com.au/s/1441,/u/pushcx,16
-18,2016-05-19 00:36:15 -0500,['/t/design'],Mononoki - a font for programming and code review,https://madmalik.github.io/mononoki/,/u/streblo,26
-0,2016-05-20 11:52:26 -0500,['/t/culture'],Messaging and mobile platforms (2015),http://ben-evans.com/benedictevans/2015/3/24/the-state-of-messaging,/u/zg,1
-1,2016-05-19 10:47:39 -0500,['/t/security'],TeslaCrypt shuts down and Releases Master Decryption Key,http://www.bleepingcomputer.com/news/security/teslacrypt-shuts-down-and-releases-master-decryption-key/,/u/calvin,9
-0,2016-05-19 22:56:58 -0500,['/t/programming'],Interfaces In Nim,http://openmymind.net/Interfaces-In-Nim/,/u/oz,3
-3,2016-05-19 10:33:25 -0500,"['/t/pdf', '/t/haskell']",Haskell Communities and Activities Report for May 2016,https://www.haskell.org/communities/05-2016/report.pdf,/u/pushcx,10
-1,2016-05-19 10:44:05 -0500,['/t/ruby'],RSpec and Rails Are Mocking Me — Table XI,https://medium.com/table-xi/rspec-and-rails-are-mocking-me-cb72745c33d2,/u/noelrap,5
+1,2016-05-20 11:52:19 -0500,"/t/devops,/t/go,/t/javascript,/t/programming,/t/scaling","Apex – ""Serverless"" infrastructure management (by @tjholowaychuk)",http://apex.run/,/u/felixgallo,5
+3,2016-05-20 03:34:52 -0500,/t/games,Human Resource Machine,https://tomorrowcorporation.com/humanresourcemachine,/u/mordae,11
+0,2016-05-20 08:42:50 -0500,/t/linux,Improvements to PulseAudio’s Echo Cancellation | Arun Raghavan,http://arunraghavan.net/2016/05/improvements-to-pulseaudios-echo-cancellation/,/u/arun,4
+2,2016-05-20 06:30:22 -0500,/t/virtualization,Easy Amazon EC2 Instance Comparison,http://www.ec2instances.info/,/u/dege,7
+0,2016-05-20 09:09:31 -0500,"/t/hardware,/t/linux",How to install Debian on a TI-Nspire,http://ivoah.net/blog/2016/03/20/how-to-install-debian-on-a-ti-nspire/,/u/flyingfisch,6
+0,2016-05-21 01:51:20 -0500,/t/culture,Some of the best tech job survival advice I've ever read,http://www.network-node.com/blog/2016/5/19/careerjob-advice-and-observations,/u/JeremyMorgan,1
+5,2016-05-19 17:09:39 -0500,"/t/show,/t/linux","Staticus, a poor man status page generator",http://javier.io/blog/en/2016/05/19/staticus-poor-man-status-page-generator.html,/u/javier-lopez,10
+0,2016-05-20 02:49:53 -0500,/t/c,A non-exhaustive list of ways C compilers break for objects larger than PTRDIFF_MAX bytes,http://trust-in-soft.com/objects-larger-than-ptrdiff_max-bytes/,/u/kyle,11
+0,2016-05-20 02:44:55 -0500,"/t/person,/t/vim","How I Vim - Andy Stewart, a.k.a airblade",http://howivim.com/2016/andy-stewart/,/u/daGrevis,11
+2,2016-05-20 07:15:18 -0500,"/t/api,/t/java",Swagger – The World's Most Popular Framework for APIs.,http://swagger.io/,/u/fkr,4
+6,2016-05-19 18:11:50 -0500,"/t/security,/t/unix",Using ed(1) as a password manager,http://tim.thechases.com/posts/cli/using-ed1-as-a-password-manager/,/u/sevan,11
+0,2016-05-20 12:53:53 -0500,/t/ruby,RubyGems.org 2016 Push,http://blog.rubygems.org/2016/05/20/rubygems-org-2016-push.html,/u/soulcutter,2
+0,2016-05-20 11:22:36 -0500,"/t/design,/t/web",CSS coding techniques,https://hacks.mozilla.org/2016/05/css-coding-techniques/,/u/samsymons,2
+7,2016-05-19 11:34:17 -0500,"/t/cogsci,/t/philosophy",Hubert Dreyfus's critique on artificial intelligence,https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence,/u/bsima,15
+0,2016-05-19 20:26:17 -0500,/t/c,Even the Deathstation 9000 can't screw up the BIND 9.10.4 fix,http://fanf.livejournal.com/144615.html,/u/jcs,10
+4,2016-05-19 11:32:01 -0500,/t/freebsd,"Updating the broadcom softmac driver (bwn), or ""damnit, I said I'd never do this!""",http://adrianchadd.blogspot.com/2016/05/updating-broadcom-softmac-driver-bwn-or.html,/u/lattera,15
+0,2016-05-20 06:56:49 -0500,"/t/release,/t/reversing,/t/security",Analysis of a Heap Overflow in Foxit Reader,https://scoding.de/analysis-of-a-heap-overflow-in-foxit-reader,/u/mulander,2
+1,2016-05-19 18:13:16 -0500,/t/freebsd,Followup on packaging base with pkg(8),https://lists.freebsd.org/pipermail/freebsd-pkgbase/2016-May/000238.html,/u/lattera,6
+3,2016-05-19 10:18:23 -0500,/t/ruby,A change-positive Ruby web application architecture,http://icelab.com.au/s/1441,/u/pushcx,16
+18,2016-05-19 00:36:15 -0500,/t/design,Mononoki - a font for programming and code review,https://madmalik.github.io/mononoki/,/u/streblo,26
+0,2016-05-20 11:52:26 -0500,/t/culture,Messaging and mobile platforms (2015),http://ben-evans.com/benedictevans/2015/3/24/the-state-of-messaging,/u/zg,1
+1,2016-05-19 10:47:39 -0500,/t/security,TeslaCrypt shuts down and Releases Master Decryption Key,http://www.bleepingcomputer.com/news/security/teslacrypt-shuts-down-and-releases-master-decryption-key/,/u/calvin,9
+0,2016-05-19 22:56:58 -0500,/t/programming,Interfaces In Nim,http://openmymind.net/Interfaces-In-Nim/,/u/oz,3
+3,2016-05-19 10:33:25 -0500,"/t/pdf,/t/haskell",Haskell Communities and Activities Report for May 2016,https://www.haskell.org/communities/05-2016/report.pdf,/u/pushcx,10
+1,2016-05-19 10:44:05 -0500,/t/ruby,RSpec and Rails Are Mocking Me — Table XI,https://medium.com/table-xi/rspec-and-rails-are-mocking-me-cb72745c33d2,/u/noelrap,5

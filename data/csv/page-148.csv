@@ -1,25 +1,25 @@
-0,2017-10-31 13:18:33 -0500,"['/t/video', '/t/api', '/t/linux']",How To Design A Linux Kernel API,https://www.youtube.com/watch?v=DOZZOLHQpd0,/u/ThisIs_MyName,2
-0,2017-10-30 19:57:58 -0500,"['/t/browsers', '/t/privacy', '/t/security', '/t/web']",Firefox takes a bite out of the canvas ‘super cookie’,https://nakedsecurity.sophos.com/2017/10/30/firefox-takes-a-bite-out-of-the-canvas-super-cookie/,/u/calvin,16
-8,2017-10-30 15:08:57 -0500,['/t/security'],"Messing with the Google Buganizer System for $15,600 in Bounties",https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5,/u/adsouza,15
-7,2017-10-30 08:50:05 -0500,"['/t/historical', '/t/windows']","Why is the DOS path character ""\""? [2005]",https://blogs.msdn.microsoft.com/larryosterman/2005/06/24/why-is-the-dos-path-character/,/u/gerikson,29
-0,2017-10-31 07:15:46 -0500,['/t/api'],How APIs work — An Analogy For Dummies,https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b,/u/calvin,3
-7,2017-10-30 05:57:32 -0500,['/t/security'],The fall of public key pinning and rise of Certificate Transparency,https://medium.com/@mattrco/on-guarding-against-certificate-mis-issuance-b968e61baf18,/u/motter,12
-0,2017-10-31 11:23:47 -0500,"['/t/graphics', '/t/javascript']",Lallassu/voxelengine3 -- Voxel engine in JS,https://github.com/Lallassu/voxelengine3,/u/friendlysock,1
-15,2017-10-30 07:18:59 -0500,['/t/programming'],Splitting Strings,https://chriszetter.com/blog/2017/10/29/splitting-strings/,/u/calvin,18
-0,2017-10-31 10:27:26 -0500,"['/t/databases', '/t/scaling']",MySQL Performance: 8.0 re-designed REDO log & ReadWrite Workloads Scalability,http://dimitrik.free.fr/blog/archives/2017/10/mysql-performance-80-redesigned-redo-log-readwrite-wor,/u/ngrilly,1
-0,2017-10-31 09:09:38 -0500,"['/t/audio', '/t/programming']",The Changelog #267: Functional Programming with Eric Normand,https://changelog.com/podcast/267,/u/balajmarius,1
-0,2017-10-30 15:15:00 -0500,['/t/debugging'],gdbgui: browser-based frontend to GDB,https://github.com/cs01/gdbgui,/u/haldean,12
-1,2017-10-30 22:12:07 -0500,"['/t/lua', '/t/performance']",Helping to make LuaJIT faster,http://blog.cloudflare.com/helping-to-make-luajit-faster/,/u/clacke,5
-1,2017-10-30 23:34:51 -0500,"['/t/emacs', '/t/lisp', '/t/nodejs', '/t/programming']",Elnode: Backend web services in elisp,https://www.emacswiki.org/emacs/Elnode,/u/orib,3
-1,2017-10-30 15:55:18 -0500,"['/t/practices', '/t/ruby']",Enough With the Service Objects Already,https://avdi.codes/service-objects/,/u/soulcutter,8
-17,2017-10-29 20:58:22 -0500,"['/t/pdf', '/t/compilers', '/t/programming']",Near Future of Programming Languages,http://dev.stephendiehl.com/nearfuture.pdf,/u/bitwalker,47
-13,2017-10-30 05:00:41 -0500,['/t/compsci'],Hard Things in Computer Science: Naming things,http://250bpm.com/blog:110,/u/sustrik,8
-0,2017-10-31 05:51:50 -0500,"['/t/ai', '/t/programming']",Continuous Integration for ML Projects,https://medium.com/onfido-tech/continuous-integration-for-ml-projects-e11bc1a4d34f,/u/szalansky,1
-0,2017-10-30 20:12:47 -0500,['/t/c++'],A categorized list of C++ resources.,https://github.com/MattPD/cpplinks,/u/nanxiao,4
-1,2017-10-30 14:27:13 -0500,['/t/security'],A Masscan Tutorial and Primer,https://danielmiessler.com/study/masscan/,/u/danielmiessler,3
-0,2017-10-31 04:24:11 -0500,"['/t/nodejs', '/t/performance']","Get ready: A new V8 is coming, Node.js performance is changing.",https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/,/u/dedrix,1
-4,2017-10-30 07:26:35 -0500,"['/t/javascript', '/t/testing']",Mocking is a Code Smell,https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a,/u/calvin,10
-2,2017-10-30 06:47:07 -0500,"['/t/ml', '/t/release']",F*: A Higher-Order Effectful Language Designed for Program Verification,https://www.fstar-lang.org/#introduction,/u/pushcx,15
-0,2017-10-31 02:23:50 -0500,"['/t/c++', '/t/compsci']",A look at some bounded queues - part 2,http://cbloomrants.blogspot.com/2011/07/07-30-11-look-at-some-bounded-queues.html,/u/mikejsavage,1
-0,2017-10-30 09:31:15 -0500,['/t/databases'],On Disk IO: Access Patterns in LSM Trees,https://medium.com/@ifesdjeen/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9,/u/ifesdjeen,5
-0,2017-10-31 00:39:31 -0500,"['/t/ai', '/t/cogsci']",ICLR 2018 Reproducibility Challenge,http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html,/u/Dawny33,1
+0,2017-10-31 13:18:33 -0500,"/t/video,/t/api,/t/linux",How To Design A Linux Kernel API,https://www.youtube.com/watch?v=DOZZOLHQpd0,/u/ThisIs_MyName,2
+0,2017-10-30 19:57:58 -0500,"/t/browsers,/t/privacy,/t/security,/t/web",Firefox takes a bite out of the canvas ‘super cookie’,https://nakedsecurity.sophos.com/2017/10/30/firefox-takes-a-bite-out-of-the-canvas-super-cookie/,/u/calvin,16
+8,2017-10-30 15:08:57 -0500,/t/security,"Messing with the Google Buganizer System for $15,600 in Bounties",https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5,/u/adsouza,15
+7,2017-10-30 08:50:05 -0500,"/t/historical,/t/windows","Why is the DOS path character ""\""? [2005]",https://blogs.msdn.microsoft.com/larryosterman/2005/06/24/why-is-the-dos-path-character/,/u/gerikson,29
+0,2017-10-31 07:15:46 -0500,/t/api,How APIs work — An Analogy For Dummies,https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b,/u/calvin,3
+7,2017-10-30 05:57:32 -0500,/t/security,The fall of public key pinning and rise of Certificate Transparency,https://medium.com/@mattrco/on-guarding-against-certificate-mis-issuance-b968e61baf18,/u/motter,12
+0,2017-10-31 11:23:47 -0500,"/t/graphics,/t/javascript",Lallassu/voxelengine3 -- Voxel engine in JS,https://github.com/Lallassu/voxelengine3,/u/friendlysock,1
+15,2017-10-30 07:18:59 -0500,/t/programming,Splitting Strings,https://chriszetter.com/blog/2017/10/29/splitting-strings/,/u/calvin,18
+0,2017-10-31 10:27:26 -0500,"/t/databases,/t/scaling",MySQL Performance: 8.0 re-designed REDO log & ReadWrite Workloads Scalability,http://dimitrik.free.fr/blog/archives/2017/10/mysql-performance-80-redesigned-redo-log-readwrite-wor,/u/ngrilly,1
+0,2017-10-31 09:09:38 -0500,"/t/audio,/t/programming",The Changelog #267: Functional Programming with Eric Normand,https://changelog.com/podcast/267,/u/balajmarius,1
+0,2017-10-30 15:15:00 -0500,/t/debugging,gdbgui: browser-based frontend to GDB,https://github.com/cs01/gdbgui,/u/haldean,12
+1,2017-10-30 22:12:07 -0500,"/t/lua,/t/performance",Helping to make LuaJIT faster,http://blog.cloudflare.com/helping-to-make-luajit-faster/,/u/clacke,5
+1,2017-10-30 23:34:51 -0500,"/t/emacs,/t/lisp,/t/nodejs,/t/programming",Elnode: Backend web services in elisp,https://www.emacswiki.org/emacs/Elnode,/u/orib,3
+1,2017-10-30 15:55:18 -0500,"/t/practices,/t/ruby",Enough With the Service Objects Already,https://avdi.codes/service-objects/,/u/soulcutter,8
+17,2017-10-29 20:58:22 -0500,"/t/pdf,/t/compilers,/t/programming",Near Future of Programming Languages,http://dev.stephendiehl.com/nearfuture.pdf,/u/bitwalker,47
+13,2017-10-30 05:00:41 -0500,/t/compsci,Hard Things in Computer Science: Naming things,http://250bpm.com/blog:110,/u/sustrik,8
+0,2017-10-31 05:51:50 -0500,"/t/ai,/t/programming",Continuous Integration for ML Projects,https://medium.com/onfido-tech/continuous-integration-for-ml-projects-e11bc1a4d34f,/u/szalansky,1
+0,2017-10-30 20:12:47 -0500,/t/c++,A categorized list of C++ resources.,https://github.com/MattPD/cpplinks,/u/nanxiao,4
+1,2017-10-30 14:27:13 -0500,/t/security,A Masscan Tutorial and Primer,https://danielmiessler.com/study/masscan/,/u/danielmiessler,3
+0,2017-10-31 04:24:11 -0500,"/t/nodejs,/t/performance","Get ready: A new V8 is coming, Node.js performance is changing.",https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/,/u/dedrix,1
+4,2017-10-30 07:26:35 -0500,"/t/javascript,/t/testing",Mocking is a Code Smell,https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a,/u/calvin,10
+2,2017-10-30 06:47:07 -0500,"/t/ml,/t/release",F*: A Higher-Order Effectful Language Designed for Program Verification,https://www.fstar-lang.org/#introduction,/u/pushcx,15
+0,2017-10-31 02:23:50 -0500,"/t/c++,/t/compsci",A look at some bounded queues - part 2,http://cbloomrants.blogspot.com/2011/07/07-30-11-look-at-some-bounded-queues.html,/u/mikejsavage,1
+0,2017-10-30 09:31:15 -0500,/t/databases,On Disk IO: Access Patterns in LSM Trees,https://medium.com/@ifesdjeen/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9,/u/ifesdjeen,5
+0,2017-10-31 00:39:31 -0500,"/t/ai,/t/cogsci",ICLR 2018 Reproducibility Challenge,http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html,/u/Dawny33,1

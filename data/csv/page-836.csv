@@ -1,25 +1,25 @@
-0,2016-03-21 00:40:18 -0500,"['/t/hardware', '/t/historical']",Creating Magnetic Disk Storage at IBM,http://ethw.org/Creating_Magnetic_Disk_Storage_at_IBM,/u/friendlysock,2
-0,2016-03-20 13:06:49 -0500,"['/t/pdf', '/t/compilers']",Sulong: Fast LLVM IR Execution on the JVM with Truffle and Graal,http://llvm.org/devmtg/2016-01/slides/Sulong.pdf,/u/chadski,8
-0,2016-03-19 22:34:42 -0500,"['/t/elixir', '/t/programming']",Extensible Design with Protocols,http://blog.drewolson.org/extensible-design-with-protocols/,/u/kGb8RNFtg6,16
-0,2016-03-20 15:43:15 -0500,['/t/law'],Elsevier v. Sci-Hub on the Docket,http://www.stephenmclaughlin.net/2016/03/18/elsevier-v-sci-hub-on-the-docket/,/u/mjn,4
-3,2016-03-19 19:03:32 -0500,['/t/python'],Pyship: static python for desktop apps,https://github.com/burrows-labs/pyship,/u/burrows,6
-3,2016-03-19 11:16:50 -0500,"['/t/finance', '/t/law']",NY bill would provide tax credit for open source contributors,https://opensource.com/government/16/3/ny-bill-tax-credit-open-source-contributors,/u/calvin,25
-2,2016-03-19 17:12:59 -0500,['/t/mobile'],A Fast Twitter Alternative,https://sublevel.net/explore/,/u/lucian,4
-0,2016-03-19 18:38:37 -0500,"['/t/networking', '/t/security']",Internet Draft: SMTP Strict Transport Security,https://tools.ietf.org/html/draft-margolis-smtp-sts-00,/u/alynpost,11
-1,2016-03-19 16:24:37 -0500,"['/t/assembly', '/t/programming', '/t/reversing', '/t/security']",BinDiff now available for free,https://security.googleblog.com/2016/03/bindiff-now-available-for-free.html,/u/lattera,11
-0,2016-03-19 22:04:26 -0500,"['/t/video', '/t/science']",Want to know why we sometimes see a set of stripy clouds in the sky?,https://www.youtube.com/watch?v=rOdRbUQzajo,/u/weakforce,6
-2,2016-03-19 15:47:48 -0500,['/t/practices'],When Self-Organizing Teams Are Effective,http://deliberate-software.com/self-organizing-teams/,/u/steveshogren,4
-16,2016-03-19 18:14:06 -0500,"['/t/video', '/t/compsci', '/t/practices', '/t/rant']",Object-Oriented Programming is Embarrassing: 4 Short Examples,https://www.youtube.com/watch?v=IRTfhkiAqPw,/u/friendlysock,8
-2,2016-03-19 15:47:17 -0500,['/t/hardware'],Testing Data Centers That Live On The Ocean Floor,http://www.fastcodesign.com/3056183/innovation-by-design/why-microsoft-is-testing-data-centers-that-live-on-the-ocean-floor,/u/james,3
-0,2016-03-19 15:24:58 -0500,"['/t/culture', '/t/databases']",Oracle's letter to Russian IT companies,http://www.postgresql.org/message-id/CANNMO++6tPiwBv2OKcy-HhiYmByhL+XSSUH3NDvOs3G1VVg++g@mail.gmail.com,/u/sevan,10
-6,2016-03-18 17:26:05 -0500,['/t/freebsd'],FreeBSD - a lesson in poor defaults,https://vez.mrsk.me/freebsd-defaults.txt,/u/sin,33
-1,2016-03-19 23:59:52 -0500,"['/t/hardware', '/t/rant']","""Brutal"" Architecture",http://weblogs.asp.net/kpleas/121407,/u/friendlysock,2
-0,2016-03-19 08:51:30 -0500,"['/t/release', '/t/scala']",Announcing Scala.js 0.6.8,https://www.scala-js.org/news/2016/03/18/announcing-scalajs-0.6.8/,/u/softinio,7
-0,2016-03-19 09:31:12 -0500,['/t/scala'],Getting into Scaladoc Development,http://www.scala-lang.org/blog/2016/03/17/getting-into-scaladoc-dev.html,/u/softinio,6
-0,2016-03-19 11:58:57 -0500,['/t/security'],Hackers Stalked Bangladesh Bank for Two Weeks Before Big Heist,http://www.bloomberg.com/news/articles/2016-03-18/hackers-stalked-bangladesh-bank-for-two-weeks-before-big-heist,/u/foxyjackfox,3
-0,2016-03-19 14:15:32 -0500,['/t/scala'],Publishing scala.js libraries on Sonatype,https://www.querki.net/u/jducoeur/scala-notes/#!Creating-a-Scalajs-Open-Source-Project,/u/softinio,2
-0,2016-03-19 05:38:01 -0500,"['/t/ios', '/t/javascript', '/t/mac']",A set of URI schemes bugs that lead Safari to crash/freeze.,https://github.com/pwnsdx/iOS-URI-Schemes-Abuse-PoC,/u/pwnsdx,3
-30,2016-03-18 10:00:33 -0500,['/t/practices'],Why You Shouldn’t Use “Markdown” for Documentation,http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/,/u/geier,27
-2,2016-03-19 06:55:52 -0500,"['/t/culture', '/t/practices']",An Invitation To The Free Software Community For Real Dialog,https://www.w3.org/blog/2016/03/an-invitation-to-the-free-software-community-for-real-dialog/,/u/james,9
-3,2016-03-18 13:03:08 -0500,"['/t/slides', '/t/databases', '/t/linux']","PostgreSQL on EXT4, XFS, BTRFS and ZFS",http://www.slideshare.net/fuzzycz/postgresql-on-ext4-xfs-btrfs-and-zfs,/u/awreece,25
-3,2016-03-18 11:48:49 -0500,['/t/web'],Status code 451,https://developer.github.com/changes/2016-03-17-the-451-status-code-is-now-supported/,/u/marvindanig,17
+0,2016-03-21 00:40:18 -0500,"/t/hardware,/t/historical",Creating Magnetic Disk Storage at IBM,http://ethw.org/Creating_Magnetic_Disk_Storage_at_IBM,/u/friendlysock,2
+0,2016-03-20 13:06:49 -0500,"/t/pdf,/t/compilers",Sulong: Fast LLVM IR Execution on the JVM with Truffle and Graal,http://llvm.org/devmtg/2016-01/slides/Sulong.pdf,/u/chadski,8
+0,2016-03-19 22:34:42 -0500,"/t/elixir,/t/programming",Extensible Design with Protocols,http://blog.drewolson.org/extensible-design-with-protocols/,/u/kGb8RNFtg6,16
+0,2016-03-20 15:43:15 -0500,/t/law,Elsevier v. Sci-Hub on the Docket,http://www.stephenmclaughlin.net/2016/03/18/elsevier-v-sci-hub-on-the-docket/,/u/mjn,4
+3,2016-03-19 19:03:32 -0500,/t/python,Pyship: static python for desktop apps,https://github.com/burrows-labs/pyship,/u/burrows,6
+3,2016-03-19 11:16:50 -0500,"/t/finance,/t/law",NY bill would provide tax credit for open source contributors,https://opensource.com/government/16/3/ny-bill-tax-credit-open-source-contributors,/u/calvin,25
+2,2016-03-19 17:12:59 -0500,/t/mobile,A Fast Twitter Alternative,https://sublevel.net/explore/,/u/lucian,4
+0,2016-03-19 18:38:37 -0500,"/t/networking,/t/security",Internet Draft: SMTP Strict Transport Security,https://tools.ietf.org/html/draft-margolis-smtp-sts-00,/u/alynpost,11
+1,2016-03-19 16:24:37 -0500,"/t/assembly,/t/programming,/t/reversing,/t/security",BinDiff now available for free,https://security.googleblog.com/2016/03/bindiff-now-available-for-free.html,/u/lattera,11
+0,2016-03-19 22:04:26 -0500,"/t/video,/t/science",Want to know why we sometimes see a set of stripy clouds in the sky?,https://www.youtube.com/watch?v=rOdRbUQzajo,/u/weakforce,6
+2,2016-03-19 15:47:48 -0500,/t/practices,When Self-Organizing Teams Are Effective,http://deliberate-software.com/self-organizing-teams/,/u/steveshogren,4
+16,2016-03-19 18:14:06 -0500,"/t/video,/t/compsci,/t/practices,/t/rant",Object-Oriented Programming is Embarrassing: 4 Short Examples,https://www.youtube.com/watch?v=IRTfhkiAqPw,/u/friendlysock,8
+2,2016-03-19 15:47:17 -0500,/t/hardware,Testing Data Centers That Live On The Ocean Floor,http://www.fastcodesign.com/3056183/innovation-by-design/why-microsoft-is-testing-data-centers-that-live-on-the-ocean-floor,/u/james,3
+0,2016-03-19 15:24:58 -0500,"/t/culture,/t/databases",Oracle's letter to Russian IT companies,http://www.postgresql.org/message-id/CANNMO++6tPiwBv2OKcy-HhiYmByhL+XSSUH3NDvOs3G1VVg++g@mail.gmail.com,/u/sevan,10
+6,2016-03-18 17:26:05 -0500,/t/freebsd,FreeBSD - a lesson in poor defaults,https://vez.mrsk.me/freebsd-defaults.txt,/u/sin,33
+1,2016-03-19 23:59:52 -0500,"/t/hardware,/t/rant","""Brutal"" Architecture",http://weblogs.asp.net/kpleas/121407,/u/friendlysock,2
+0,2016-03-19 08:51:30 -0500,"/t/release,/t/scala",Announcing Scala.js 0.6.8,https://www.scala-js.org/news/2016/03/18/announcing-scalajs-0.6.8/,/u/softinio,7
+0,2016-03-19 09:31:12 -0500,/t/scala,Getting into Scaladoc Development,http://www.scala-lang.org/blog/2016/03/17/getting-into-scaladoc-dev.html,/u/softinio,6
+0,2016-03-19 11:58:57 -0500,/t/security,Hackers Stalked Bangladesh Bank for Two Weeks Before Big Heist,http://www.bloomberg.com/news/articles/2016-03-18/hackers-stalked-bangladesh-bank-for-two-weeks-before-big-heist,/u/foxyjackfox,3
+0,2016-03-19 14:15:32 -0500,/t/scala,Publishing scala.js libraries on Sonatype,https://www.querki.net/u/jducoeur/scala-notes/#!Creating-a-Scalajs-Open-Source-Project,/u/softinio,2
+0,2016-03-19 05:38:01 -0500,"/t/ios,/t/javascript,/t/mac",A set of URI schemes bugs that lead Safari to crash/freeze.,https://github.com/pwnsdx/iOS-URI-Schemes-Abuse-PoC,/u/pwnsdx,3
+30,2016-03-18 10:00:33 -0500,/t/practices,Why You Shouldn’t Use “Markdown” for Documentation,http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/,/u/geier,27
+2,2016-03-19 06:55:52 -0500,"/t/culture,/t/practices",An Invitation To The Free Software Community For Real Dialog,https://www.w3.org/blog/2016/03/an-invitation-to-the-free-software-community-for-real-dialog/,/u/james,9
+3,2016-03-18 13:03:08 -0500,"/t/slides,/t/databases,/t/linux","PostgreSQL on EXT4, XFS, BTRFS and ZFS",http://www.slideshare.net/fuzzycz/postgresql-on-ext4-xfs-btrfs-and-zfs,/u/awreece,25
+3,2016-03-18 11:48:49 -0500,/t/web,Status code 451,https://developer.github.com/changes/2016-03-17-the-451-status-code-is-now-supported/,/u/marvindanig,17

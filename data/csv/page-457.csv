@@ -1,25 +1,25 @@
-0,2017-03-06 21:14:24 -0600,['/t/cryptocurrencies'],Is the Zcoin bug in CheckTransaction() validation code?,https://makebitcoingreatagain.wordpress.com/2017/02/18/is-the-zcoin-bug-in-checktransaction/,/u/pushcx,3
-0,2017-03-06 16:30:39 -0600,"['/t/art', '/t/distributed', '/t/graphics']",Build a digital clock in Conway's Game of Life,http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/,/u/derek-jones,5
-0,2017-03-06 22:24:05 -0600,['/t/math'],Video lectures of mathematics courses available online for free,http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free,/u/Dawny33,2
-0,2017-03-06 11:46:49 -0600,['/t/distributed'],Simple Consensus,http://rystsov.info/2017/02/15/simple-consensus.html,/u/icefall,8
-16,2017-03-05 09:36:17 -0600,"['/t/show', '/t/programming', '/t/release']",First Release of the Myrddin Programming Language,https://myrlang.org/release-notes,/u/orib,41
-0,2017-03-06 20:27:12 -0600,['/t/javascript'],Three ways of understanding Promises,http://www.2ality.com/2016/10/understanding-promises.html,/u/pushcx,2
-0,2017-03-06 18:41:36 -0600,"['/t/compsci', '/t/python']",Exact cover III,http://garethrees.org/2016/06/04/exact-cover/,/u/pushcx,2
-0,2017-03-06 18:38:39 -0600,['/t/programming'],One Hundred Years of Solitude: how I analyzed my favorite book,https://medium.com/@finalfire/one-hundred-years-of-solitude-how-i-analyzed-my-favorite-book-6c20456480c8,/u/pushcx,2
-2,2017-03-05 20:51:33 -0600,['/t/unix'],/usr/bin/time: not the command you think you know,https://hackernoon.com/usr-bin-time-not-the-command-you-think-you-know-34ac03e55cc3,/u/colin,14
-1,2017-03-06 17:41:40 -0600,"['/t/pdf', '/t/programming', '/t/security']","Ironclad Apps - End-to-End Security via Automated, Full-System Verification (2014)",https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-hawblitzel.pdf,/u/nickpsecurity,2
-0,2017-03-06 17:29:30 -0600,['/t/devops'],Announcing the AWS Health Tools Repository,https://aws.amazon.com/blogs/aws/announcing-the-aws-health-tools-repository/,/u/colin,2
-0,2017-03-06 17:14:11 -0600,"['/t/games', '/t/philosophy']",Snakisms,https://pippinbarr.github.io/SNAKISMS/,/u/spinda,2
-0,2017-03-06 17:11:04 -0600,"['/t/games', '/t/programming']",Writing a Game Engine in 2017,http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/,/u/calvin,2
-0,2017-03-06 11:06:53 -0600,"['/t/devops', '/t/programming']",differ - make it easy to check whether commands generated a git diff,https://github.com/kevinburke/differ,/u/kb,2
-0,2017-03-06 09:30:48 -0600,"['/t/pdf', '/t/security']",Malware Guard Extension: Using SGX to Conceal Cache Attacks,https://arxiv.org/pdf/1702.08719.pdf,/u/lattera,5
-0,2017-03-06 10:40:36 -0600,"['/t/video', '/t/haskell']",How I use nix for Haskell development,https://www.youtube.com/watch?v=G9yiJ7d5LeI,/u/pushcx,4
-1,2017-03-06 09:44:04 -0600,"['/t/practices', '/t/programming']",Why you’re (not) failing at your new job,https://codewithoutrules.com/2017/03/05/failing-at-your-new-job/,/u/flyingfisch,3
-10,2017-03-05 11:52:23 -0600,['/t/hardware'],The Mix Slide Mechanical Keyboard Version 1,https://www.youtube.com/watch?v=Et519h_-UtI,/u/pushcx,31
-0,2017-03-06 14:24:34 -0600,['/t/java'],"Incremental Compilation, the Java Library Plugin, and other performance features in Gradle 3.4",https://blog.gradle.org/incremental-compiler-avoidance,/u/ThisIs_MyName,2
-0,2017-03-06 17:57:59 -0600,['/t/scala'],"Contraband, an alternative to case class",http://eed3si9n.com/contraband-an-alternative-to-case-class,/u/tobym,1
-6,2017-03-05 17:04:29 -0600,['/t/practices'],A modern typewriter,https://medium.com/@bertrandom/a-modern-typewriter-7d8b4c86b625,/u/zem,15
-0,2017-03-06 18:36:57 -0600,['/t/culture'],Sustainable Open Source: The Maintainers Perspective,http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html,/u/zem,2
-0,2017-03-06 12:34:24 -0600,['/t/compsci'],Working code for Operational Transformation/CRDT hybrid,https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da,/u/aduffy,2
-0,2017-03-06 09:07:43 -0600,"['/t/hardware', '/t/reversing']",Exploiting PSoC4 for fun and profit,http://dmitry.gr/index.php?r=05.Projects&proj=23.%20PSoC4,/u/flyingfisch,3
-2,2017-03-06 11:38:03 -0600,['/t/security'],Cybersecurity Risk Assessment for Startup CTOs,https://blog.sqreen.io/cybersecurity-risk-assessment-for-startup-cto/,/u/PaulBlei,1
+0,2017-03-06 21:14:24 -0600,/t/cryptocurrencies,Is the Zcoin bug in CheckTransaction() validation code?,https://makebitcoingreatagain.wordpress.com/2017/02/18/is-the-zcoin-bug-in-checktransaction/,/u/pushcx,3
+0,2017-03-06 16:30:39 -0600,"/t/art,/t/distributed,/t/graphics",Build a digital clock in Conway's Game of Life,http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/,/u/derek-jones,5
+0,2017-03-06 22:24:05 -0600,/t/math,Video lectures of mathematics courses available online for free,http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free,/u/Dawny33,2
+0,2017-03-06 11:46:49 -0600,/t/distributed,Simple Consensus,http://rystsov.info/2017/02/15/simple-consensus.html,/u/icefall,8
+16,2017-03-05 09:36:17 -0600,"/t/show,/t/programming,/t/release",First Release of the Myrddin Programming Language,https://myrlang.org/release-notes,/u/orib,41
+0,2017-03-06 20:27:12 -0600,/t/javascript,Three ways of understanding Promises,http://www.2ality.com/2016/10/understanding-promises.html,/u/pushcx,2
+0,2017-03-06 18:41:36 -0600,"/t/compsci,/t/python",Exact cover III,http://garethrees.org/2016/06/04/exact-cover/,/u/pushcx,2
+0,2017-03-06 18:38:39 -0600,/t/programming,One Hundred Years of Solitude: how I analyzed my favorite book,https://medium.com/@finalfire/one-hundred-years-of-solitude-how-i-analyzed-my-favorite-book-6c20456480c8,/u/pushcx,2
+2,2017-03-05 20:51:33 -0600,/t/unix,/usr/bin/time: not the command you think you know,https://hackernoon.com/usr-bin-time-not-the-command-you-think-you-know-34ac03e55cc3,/u/colin,14
+1,2017-03-06 17:41:40 -0600,"/t/pdf,/t/programming,/t/security","Ironclad Apps - End-to-End Security via Automated, Full-System Verification (2014)",https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-hawblitzel.pdf,/u/nickpsecurity,2
+0,2017-03-06 17:29:30 -0600,/t/devops,Announcing the AWS Health Tools Repository,https://aws.amazon.com/blogs/aws/announcing-the-aws-health-tools-repository/,/u/colin,2
+0,2017-03-06 17:14:11 -0600,"/t/games,/t/philosophy",Snakisms,https://pippinbarr.github.io/SNAKISMS/,/u/spinda,2
+0,2017-03-06 17:11:04 -0600,"/t/games,/t/programming",Writing a Game Engine in 2017,http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/,/u/calvin,2
+0,2017-03-06 11:06:53 -0600,"/t/devops,/t/programming",differ - make it easy to check whether commands generated a git diff,https://github.com/kevinburke/differ,/u/kb,2
+0,2017-03-06 09:30:48 -0600,"/t/pdf,/t/security",Malware Guard Extension: Using SGX to Conceal Cache Attacks,https://arxiv.org/pdf/1702.08719.pdf,/u/lattera,5
+0,2017-03-06 10:40:36 -0600,"/t/video,/t/haskell",How I use nix for Haskell development,https://www.youtube.com/watch?v=G9yiJ7d5LeI,/u/pushcx,4
+1,2017-03-06 09:44:04 -0600,"/t/practices,/t/programming",Why you’re (not) failing at your new job,https://codewithoutrules.com/2017/03/05/failing-at-your-new-job/,/u/flyingfisch,3
+10,2017-03-05 11:52:23 -0600,/t/hardware,The Mix Slide Mechanical Keyboard Version 1,https://www.youtube.com/watch?v=Et519h_-UtI,/u/pushcx,31
+0,2017-03-06 14:24:34 -0600,/t/java,"Incremental Compilation, the Java Library Plugin, and other performance features in Gradle 3.4",https://blog.gradle.org/incremental-compiler-avoidance,/u/ThisIs_MyName,2
+0,2017-03-06 17:57:59 -0600,/t/scala,"Contraband, an alternative to case class",http://eed3si9n.com/contraband-an-alternative-to-case-class,/u/tobym,1
+6,2017-03-05 17:04:29 -0600,/t/practices,A modern typewriter,https://medium.com/@bertrandom/a-modern-typewriter-7d8b4c86b625,/u/zem,15
+0,2017-03-06 18:36:57 -0600,/t/culture,Sustainable Open Source: The Maintainers Perspective,http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html,/u/zem,2
+0,2017-03-06 12:34:24 -0600,/t/compsci,Working code for Operational Transformation/CRDT hybrid,https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da,/u/aduffy,2
+0,2017-03-06 09:07:43 -0600,"/t/hardware,/t/reversing",Exploiting PSoC4 for fun and profit,http://dmitry.gr/index.php?r=05.Projects&proj=23.%20PSoC4,/u/flyingfisch,3
+2,2017-03-06 11:38:03 -0600,/t/security,Cybersecurity Risk Assessment for Startup CTOs,https://blog.sqreen.io/cybersecurity-risk-assessment-for-startup-cto/,/u/PaulBlei,1

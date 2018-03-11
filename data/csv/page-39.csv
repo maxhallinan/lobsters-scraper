@@ -1,25 +1,25 @@
-0,2018-01-31 21:35:25 -0600,"['/t/openbsd', '/t/security']",Migrating from IPF to Packet Filter in Solaris 11.4,https://blogs.oracle.com/solaris/migrating-from-ipf-to-packet-filter-in-solaris-114,/u/nanxiao,5
-25,2018-01-30 12:27:40 -0600,"['/t/video', '/t/graphics', '/t/performance']",Xi: an editor for the next 20 years,https://www.recurse.com/events/localhost-raph-levien,/u/jamesjporter,83
-0,2018-02-01 06:37:34 -0600,"['/t/event', '/t/hardware']",OSHUG Event #64 - Intel® Movidius™ Neural Compute Stick Workshop,http://oshug.org/event/64,/u/sevan,1
-0,2018-01-31 14:57:48 -0600,"['/t/javascript', '/t/release']",Announcing TypeScript 2.7,https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7/,/u/colin,9
-9,2018-01-31 06:55:06 -0600,"['/t/cryptocurrencies', '/t/haskell']",Haskelling Bitcoin,https://medium.com/@sahabi/haskelling-bitcoin-7e7128a9d4b4,/u/hashemi,10
-15,2018-01-30 16:25:24 -0600,"['/t/show', '/t/graphics', '/t/linux']",Programming the Linux Framebuffer,https://cmcenroe.me/2018/01/30/fbclock.html,/u/curtis,32
-0,2018-02-01 10:44:44 -0600,['/t/ruby'],Koichi Sasada — 1st Year at Cookpad Q & A,https://sourcediving.com/koichi-sasada-1st-year-at-cookpad-q-a-6cf8b2401ec2,/u/hoopla,0
-1,2018-01-31 10:22:19 -0600,['/t/databases'],DO or UNDO - there is no VACUUM,http://rhaas.blogspot.com/2018/01/do-or-undo-there-is-no-vacuum.html,/u/ngrilly,10
-12,2018-01-31 05:15:59 -0600,"['/t/pdf', '/t/programming']",An Oz Implementation using Truffle and Graal,http://www.info.ucl.ac.be/~pvr/MemoireMaximeIstasse.pdf,/u/doublec,9
-1,2018-01-31 07:30:50 -0600,"['/t/historical', '/t/person']",Hans Peter Luhn and the Birth of the Hashing Algorithm,https://spectrum.ieee.org/tech-history/silicon-revolution/hans-peter-luhn-and-the-birth-of-the-hashing-algorithm,/u/calvin,10
-0,2018-02-01 09:09:37 -0600,['/t/practices'],Things are going so well we’re doing a hiring freeze,https://m.signalvnoise.com/things-are-going-so-well-were-doing-a-hiring-freeze-5f66372a4214,/u/joshuacc,0
-0,2018-01-31 11:43:34 -0600,"['/t/pdf', '/t/crypto', '/t/cryptocurrencies', '/t/privacy']",Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis,https://arxiv.org/pdf/1801.07501.pdf,/u/asthasr,8
-0,2018-01-31 17:18:21 -0600,"['/t/browsers', '/t/privacy']",Preventing data leaks by stripping path information in HTTP Referrers,https://blog.mozilla.org/security/2018/01/31/preventing-data-leaks-by-stripping-path-information-in-http-referrers/,/u/calvin,3
-4,2018-01-30 18:40:39 -0600,['/t/practices'],Software Complexity Is Killing Us,https://www.simplethread.com/software-complexity-killing-us/,/u/calvin,18
-0,2018-01-31 14:36:05 -0600,['/t/databases'],Exporting a Hierarchy in JSON: with recursive queries,http://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/,/u/hoopla,3
-4,2018-01-30 15:44:41 -0600,['/t/linux'],CoreOS to join Red Hat,https://coreos.com/blog/coreos-agrees-to-join-red-hat/,/u/jamesog,27
-0,2018-01-31 08:03:51 -0600,['/t/javascript'],TypeScript 2.5: Optional catch Binding,https://blog.mariusschulz.com/2018/01/30/typescript-2-5-optional-catch-binding,/u/mariusschulz,2
-0,2018-01-31 10:33:36 -0600,"['/t/pdf', '/t/linux', '/t/security', '/t/virtualization']",vLibOS: Babysitting OS Evolution with a Virtualized Library OS,https://arxiv.org/pdf/1801.07880.pdf,/u/nickpsecurity,2
-5,2018-01-30 14:14:07 -0600,['/t/networking'],Propane is a new language for configuring the network.,https://propane-lang.org/,/u/sergeyb,16
-7,2018-01-30 09:20:50 -0600,['/t/programming'],Bit Rot: the silent killer,http://blog.tidelift.com/bit-rot-the-silent-killer,/u/andrewnez,9
-5,2018-01-30 15:26:42 -0600,['/t/devops'],"Red Hat to Acquire CoreOS, Expanding its Kubernetes and Containers Leadership",https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership,/u/KevinMGranger,5
-0,2018-01-30 10:16:17 -0600,"['/t/person', '/t/vcs']",Remembering Shawn Pearce,https://sfconservancy.org/blog/2018/jan/30/shawn-pearce/,/u/sajith,20
-13,2018-01-30 13:28:27 -0600,['/t/culture'],Alleviating the Stress Induced by Maintaining a Popular Free and Open Source Software Project,http://fitzgeraldnick.com/2018/01/30/foss-maintenance-stress.html,/u/fitzgen,7
-2,2018-01-30 13:02:48 -0600,"['/t/javascript', '/t/programming']",Ramda Chops: Safely Accessing Properties,https://robertwpearce.com/blog/ramda-chops-safely-accessing-properties.html,/u/robertwpearce,5
-27,2018-01-29 11:51:27 -0600,"['/t/programming', '/t/unix']",Why Create a New Unix Shell?,http://www.oilshell.org/blog/2018/01/28.html,/u/andyc,66
+0,2018-01-31 21:35:25 -0600,"/t/openbsd,/t/security",Migrating from IPF to Packet Filter in Solaris 11.4,https://blogs.oracle.com/solaris/migrating-from-ipf-to-packet-filter-in-solaris-114,/u/nanxiao,5
+25,2018-01-30 12:27:40 -0600,"/t/video,/t/graphics,/t/performance",Xi: an editor for the next 20 years,https://www.recurse.com/events/localhost-raph-levien,/u/jamesjporter,83
+0,2018-02-01 06:37:34 -0600,"/t/event,/t/hardware",OSHUG Event #64 - Intel® Movidius™ Neural Compute Stick Workshop,http://oshug.org/event/64,/u/sevan,1
+0,2018-01-31 14:57:48 -0600,"/t/javascript,/t/release",Announcing TypeScript 2.7,https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7/,/u/colin,9
+9,2018-01-31 06:55:06 -0600,"/t/cryptocurrencies,/t/haskell",Haskelling Bitcoin,https://medium.com/@sahabi/haskelling-bitcoin-7e7128a9d4b4,/u/hashemi,10
+15,2018-01-30 16:25:24 -0600,"/t/show,/t/graphics,/t/linux",Programming the Linux Framebuffer,https://cmcenroe.me/2018/01/30/fbclock.html,/u/curtis,32
+0,2018-02-01 10:44:44 -0600,/t/ruby,Koichi Sasada — 1st Year at Cookpad Q & A,https://sourcediving.com/koichi-sasada-1st-year-at-cookpad-q-a-6cf8b2401ec2,/u/hoopla,0
+1,2018-01-31 10:22:19 -0600,/t/databases,DO or UNDO - there is no VACUUM,http://rhaas.blogspot.com/2018/01/do-or-undo-there-is-no-vacuum.html,/u/ngrilly,10
+12,2018-01-31 05:15:59 -0600,"/t/pdf,/t/programming",An Oz Implementation using Truffle and Graal,http://www.info.ucl.ac.be/~pvr/MemoireMaximeIstasse.pdf,/u/doublec,9
+1,2018-01-31 07:30:50 -0600,"/t/historical,/t/person",Hans Peter Luhn and the Birth of the Hashing Algorithm,https://spectrum.ieee.org/tech-history/silicon-revolution/hans-peter-luhn-and-the-birth-of-the-hashing-algorithm,/u/calvin,10
+0,2018-02-01 09:09:37 -0600,/t/practices,Things are going so well we’re doing a hiring freeze,https://m.signalvnoise.com/things-are-going-so-well-were-doing-a-hiring-freeze-5f66372a4214,/u/joshuacc,0
+0,2018-01-31 11:43:34 -0600,"/t/pdf,/t/crypto,/t/cryptocurrencies,/t/privacy",Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis,https://arxiv.org/pdf/1801.07501.pdf,/u/asthasr,8
+0,2018-01-31 17:18:21 -0600,"/t/browsers,/t/privacy",Preventing data leaks by stripping path information in HTTP Referrers,https://blog.mozilla.org/security/2018/01/31/preventing-data-leaks-by-stripping-path-information-in-http-referrers/,/u/calvin,3
+4,2018-01-30 18:40:39 -0600,/t/practices,Software Complexity Is Killing Us,https://www.simplethread.com/software-complexity-killing-us/,/u/calvin,18
+0,2018-01-31 14:36:05 -0600,/t/databases,Exporting a Hierarchy in JSON: with recursive queries,http://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/,/u/hoopla,3
+4,2018-01-30 15:44:41 -0600,/t/linux,CoreOS to join Red Hat,https://coreos.com/blog/coreos-agrees-to-join-red-hat/,/u/jamesog,27
+0,2018-01-31 08:03:51 -0600,/t/javascript,TypeScript 2.5: Optional catch Binding,https://blog.mariusschulz.com/2018/01/30/typescript-2-5-optional-catch-binding,/u/mariusschulz,2
+0,2018-01-31 10:33:36 -0600,"/t/pdf,/t/linux,/t/security,/t/virtualization",vLibOS: Babysitting OS Evolution with a Virtualized Library OS,https://arxiv.org/pdf/1801.07880.pdf,/u/nickpsecurity,2
+5,2018-01-30 14:14:07 -0600,/t/networking,Propane is a new language for configuring the network.,https://propane-lang.org/,/u/sergeyb,16
+7,2018-01-30 09:20:50 -0600,/t/programming,Bit Rot: the silent killer,http://blog.tidelift.com/bit-rot-the-silent-killer,/u/andrewnez,9
+5,2018-01-30 15:26:42 -0600,/t/devops,"Red Hat to Acquire CoreOS, Expanding its Kubernetes and Containers Leadership",https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership,/u/KevinMGranger,5
+0,2018-01-30 10:16:17 -0600,"/t/person,/t/vcs",Remembering Shawn Pearce,https://sfconservancy.org/blog/2018/jan/30/shawn-pearce/,/u/sajith,20
+13,2018-01-30 13:28:27 -0600,/t/culture,Alleviating the Stress Induced by Maintaining a Popular Free and Open Source Software Project,http://fitzgeraldnick.com/2018/01/30/foss-maintenance-stress.html,/u/fitzgen,7
+2,2018-01-30 13:02:48 -0600,"/t/javascript,/t/programming",Ramda Chops: Safely Accessing Properties,https://robertwpearce.com/blog/ramda-chops-safely-accessing-properties.html,/u/robertwpearce,5
+27,2018-01-29 11:51:27 -0600,"/t/programming,/t/unix",Why Create a New Unix Shell?,http://www.oilshell.org/blog/2018/01/28.html,/u/andyc,66

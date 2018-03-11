@@ -1,25 +1,25 @@
-11,2015-09-25 13:53:34 -0500,"['/t/culture', '/t/practices']",The Spy Who Fired Me: The human costs of workplace monitoring,http://harpers.org/archive/2015/03/the-spy-who-fired-me/?single=1,/u/pushcx,15
-0,2015-09-26 15:55:42 -0500,"['/t/pdf', '/t/culture', '/t/practices']",Humanize the Craft of Building Interactive Computer Applications,http://melconway.com/humanize-the-craft.pdf,/u/jitterted,0
-0,2015-09-24 18:05:25 -0500,"['/t/databases', '/t/distributed']",Call me Maybe: Percona XtraDB Cluster,https://aphyr.com/posts/328-call-me-maybe-percona-xtradb-cluster,/u/aphyr,35
-0,2015-09-25 15:32:28 -0500,"['/t/ios', '/t/security']",How hackers can access iPhone contacts and photos without a password,http://arstechnica.com/security/2015/09/how-hackers-can-access-iphone-contacts-and-photos-without-a-password/,/u/adsouza,5
-18,2015-09-24 13:20:56 -0500,"['/t/practices', '/t/programming']",Selling Out and the Death of Hacker Culture,https://medium.com/@folz/selling-out-and-the-death-of-hacker-culture-fec1f101b138,/u/journeysquid,31
-22,2015-09-24 14:58:20 -0500,"['/t/ask', '/t/practices', '/t/programming']",Do you write self-commenting code or write comments?,/s/cynetl/do_you_write_self_commenting_code_write,/u/zg,22
-13,2015-09-24 11:12:41 -0500,"['/t/hardware', '/t/linux']",The life and death of a laptop battery,http://people.skolelinux.org/pere/blog/The_life_and_death_of_a_laptop_battery.html,/u/jcs,33
-0,2015-09-25 11:44:51 -0500,"['/t/law', '/t/privacy']","From Radio to Porn, British Spies Track Web Users’ Online Identities",https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/,/u/pushcx,2
-2,2015-09-24 13:02:36 -0500,"['/t/linux', '/t/programming', '/t/security']",Terminal escape sequences - the new XSS for Linux sysadmins,https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/,/u/mattiasgeniar,12
-5,2015-09-24 11:31:20 -0500,"['/t/programming', '/t/web']",How I attacked myself using Google Spreadsheets and I ramped up a $1000 bandwidth bill,http://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html,/u/pushcx,20
-0,2015-09-25 14:34:26 -0500,"['/t/pdf', '/t/culture']",2015 O'Reilly Data Science Salary Survey,http://www.oreilly.com/data/free/files/2015-data-science-salary-survey.pdf,/u/michaelochurch,2
-10,2015-09-24 02:05:26 -0500,"['/t/practices', '/t/programming']",Infrastructure as code would be easy if we cared,http://m50d.github.io/2015/09/23/infrastructure-as-code-would-be-easy.html,/u/lmm,24
-0,2015-09-25 01:00:02 -0500,['/t/swift'],Swift 2.1,http://www.russbishop.net/swift-2-1,/u/av,5
-18,2015-09-23 22:16:51 -0500,['/t/c'],C - never use an array notation as a function parameter [Linus Torvalds],https://lkml.org/lkml/2015/9/3/428,/u/av,44
-2,2015-09-24 11:36:29 -0500,"['/t/haskell', '/t/programming']",The Incredible Proof Machine,https://www.joachim-breitner.de/blog/682-The_Incredible_Proof_Machine,/u/pushcx,11
-2,2015-09-24 16:44:48 -0500,['/t/web'],"Mozilla’s Vision for a Healthy, Sustainable Web",https://blog.mozilla.org/blog/2015/09/24/mozillas-vision-for-a-healthy-sustainable-web/,/u/skade,3
-0,2015-09-24 22:31:02 -0500,['/t/swift'],Swift 2: Control Flow Pattern Matching Examples,http://austinzheng.com/2015/09/23/pmatch-control-flow/,/u/austinz,1
-2,2015-09-24 11:01:42 -0500,['/t/visualization'],"Years You Have Left to Live, Probably",http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/,/u/pushcx,8
-4,2015-09-24 15:40:28 -0500,"['/t/audio', '/t/compsci', '/t/math']",Talking Machines: Human Conversation About Machine Learning,http://www.thetalkingmachines.com/,/u/craigstuntz,3
-2,2015-09-24 10:14:43 -0500,"['/t/ios', '/t/programming']",Why I’m not enabling Bitcode,https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5,/u/pushcx,5
-0,2015-09-24 16:49:27 -0500,"['/t/slides', '/t/video', '/t/compsci', '/t/dotnet', '/t/programming']",Functional Programming Design Patterns,http://fsharpforfunandprofit.com/fppatterns/,/u/pushcx,4
-2,2015-09-24 08:17:10 -0500,"['/t/ask', '/t/networking', '/t/programming']",libev or libuv?,/s/v00gip/libev_libuv,/u/apy,8
-18,2015-09-23 15:18:22 -0500,['/t/lisp'],Why CircleCI is no longer using Clojure's core.typed,http://blog.circleci.com/why-were-no-longer-using-core-typed/,/u/mjn,31
-0,2015-09-24 09:37:26 -0500,"['/t/law', '/t/security']",Obama administration quietly explored ways to bypass smartphone encryption,https://www.washingtonpost.com/world/national-security/obama-administration-ponders-how-to-seek-access-to-encrypted-data/2015/09/23/107a811c-5b22-11e5-b38e-06883aacba64_story.html,/u/pushcx,8
-1,2015-09-24 11:08:36 -0500,"['/t/databases', '/t/python']",Reasons I Love SQLAlchemy,http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html,/u/pushcx,3
+11,2015-09-25 13:53:34 -0500,"/t/culture,/t/practices",The Spy Who Fired Me: The human costs of workplace monitoring,http://harpers.org/archive/2015/03/the-spy-who-fired-me/?single=1,/u/pushcx,15
+0,2015-09-26 15:55:42 -0500,"/t/pdf,/t/culture,/t/practices",Humanize the Craft of Building Interactive Computer Applications,http://melconway.com/humanize-the-craft.pdf,/u/jitterted,0
+0,2015-09-24 18:05:25 -0500,"/t/databases,/t/distributed",Call me Maybe: Percona XtraDB Cluster,https://aphyr.com/posts/328-call-me-maybe-percona-xtradb-cluster,/u/aphyr,35
+0,2015-09-25 15:32:28 -0500,"/t/ios,/t/security",How hackers can access iPhone contacts and photos without a password,http://arstechnica.com/security/2015/09/how-hackers-can-access-iphone-contacts-and-photos-without-a-password/,/u/adsouza,5
+18,2015-09-24 13:20:56 -0500,"/t/practices,/t/programming",Selling Out and the Death of Hacker Culture,https://medium.com/@folz/selling-out-and-the-death-of-hacker-culture-fec1f101b138,/u/journeysquid,31
+22,2015-09-24 14:58:20 -0500,"/t/ask,/t/practices,/t/programming",Do you write self-commenting code or write comments?,/s/cynetl/do_you_write_self_commenting_code_write,/u/zg,22
+13,2015-09-24 11:12:41 -0500,"/t/hardware,/t/linux",The life and death of a laptop battery,http://people.skolelinux.org/pere/blog/The_life_and_death_of_a_laptop_battery.html,/u/jcs,33
+0,2015-09-25 11:44:51 -0500,"/t/law,/t/privacy","From Radio to Porn, British Spies Track Web Users’ Online Identities",https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/,/u/pushcx,2
+2,2015-09-24 13:02:36 -0500,"/t/linux,/t/programming,/t/security",Terminal escape sequences - the new XSS for Linux sysadmins,https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/,/u/mattiasgeniar,12
+5,2015-09-24 11:31:20 -0500,"/t/programming,/t/web",How I attacked myself using Google Spreadsheets and I ramped up a $1000 bandwidth bill,http://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html,/u/pushcx,20
+0,2015-09-25 14:34:26 -0500,"/t/pdf,/t/culture",2015 O'Reilly Data Science Salary Survey,http://www.oreilly.com/data/free/files/2015-data-science-salary-survey.pdf,/u/michaelochurch,2
+10,2015-09-24 02:05:26 -0500,"/t/practices,/t/programming",Infrastructure as code would be easy if we cared,http://m50d.github.io/2015/09/23/infrastructure-as-code-would-be-easy.html,/u/lmm,24
+0,2015-09-25 01:00:02 -0500,/t/swift,Swift 2.1,http://www.russbishop.net/swift-2-1,/u/av,5
+18,2015-09-23 22:16:51 -0500,/t/c,C - never use an array notation as a function parameter [Linus Torvalds],https://lkml.org/lkml/2015/9/3/428,/u/av,44
+2,2015-09-24 11:36:29 -0500,"/t/haskell,/t/programming",The Incredible Proof Machine,https://www.joachim-breitner.de/blog/682-The_Incredible_Proof_Machine,/u/pushcx,11
+2,2015-09-24 16:44:48 -0500,/t/web,"Mozilla’s Vision for a Healthy, Sustainable Web",https://blog.mozilla.org/blog/2015/09/24/mozillas-vision-for-a-healthy-sustainable-web/,/u/skade,3
+0,2015-09-24 22:31:02 -0500,/t/swift,Swift 2: Control Flow Pattern Matching Examples,http://austinzheng.com/2015/09/23/pmatch-control-flow/,/u/austinz,1
+2,2015-09-24 11:01:42 -0500,/t/visualization,"Years You Have Left to Live, Probably",http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/,/u/pushcx,8
+4,2015-09-24 15:40:28 -0500,"/t/audio,/t/compsci,/t/math",Talking Machines: Human Conversation About Machine Learning,http://www.thetalkingmachines.com/,/u/craigstuntz,3
+2,2015-09-24 10:14:43 -0500,"/t/ios,/t/programming",Why I’m not enabling Bitcode,https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5,/u/pushcx,5
+0,2015-09-24 16:49:27 -0500,"/t/slides,/t/video,/t/compsci,/t/dotnet,/t/programming",Functional Programming Design Patterns,http://fsharpforfunandprofit.com/fppatterns/,/u/pushcx,4
+2,2015-09-24 08:17:10 -0500,"/t/ask,/t/networking,/t/programming",libev or libuv?,/s/v00gip/libev_libuv,/u/apy,8
+18,2015-09-23 15:18:22 -0500,/t/lisp,Why CircleCI is no longer using Clojure's core.typed,http://blog.circleci.com/why-were-no-longer-using-core-typed/,/u/mjn,31
+0,2015-09-24 09:37:26 -0500,"/t/law,/t/security",Obama administration quietly explored ways to bypass smartphone encryption,https://www.washingtonpost.com/world/national-security/obama-administration-ponders-how-to-seek-access-to-encrypted-data/2015/09/23/107a811c-5b22-11e5-b38e-06883aacba64_story.html,/u/pushcx,8
+1,2015-09-24 11:08:36 -0500,"/t/databases,/t/python",Reasons I Love SQLAlchemy,http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html,/u/pushcx,3

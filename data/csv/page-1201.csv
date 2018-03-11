@@ -1,25 +1,25 @@
-12,2014-12-11 14:29:30 -0600,['/t/haskell'],You Are Learning Haskell Right Now (Or Anything You Want Really),http://michaelrbernste.in/2014/12/11/you-are-learning-haskell-right-now.html,/u/arcatan,27
-0,2014-12-12 12:29:38 -0600,['/t/science'],The Darwin Awards: sex differences in idiotic behaviour,http://www.bmj.com/content/349/bmj.g7094,/u/pushcx,1
-0,2014-12-12 10:37:16 -0600,"['/t/video', '/t/programming']",Geo Carncross: How to program computers (kos),http://youtu.be/kTrOg19gzP4?list=PLmRrx948XMnEUlzKOCYn3AzT8OAInP_5M,/u/englishm,1
-0,2014-12-12 10:36:26 -0600,"['/t/distributed', '/t/networking']",Papertrail DNS Outage Postmortem,http://blog.papertrailapp.com/dns-outage-on-monday-december-1-2014/,/u/kb,1
-0,2014-12-12 08:02:45 -0600,"['/t/video', '/t/haskell', '/t/math']",DSLs and Towers of Abstraction with Gershom Bazerman on Vimeo,http://vimeo.com/72870861,/u/tel,1
-0,2014-12-11 12:04:20 -0600,"['/t/api', '/t/haskell']",Writing a Haskell API Server (Part 2),http://bendyworks.com/haskell-api-server-2/,/u/twopoint718,10
-0,2014-12-11 12:31:33 -0600,"['/t/devops', '/t/emacs']",Literate DevOps,http://www.howardism.org/Technical/Emacs/literate-devops.html,/u/arcatan,7
-1,2014-12-11 00:33:06 -0600,['/t/go'],Go 1.4 released,https://blog.golang.org/go1.4,/u/kb,22
-0,2014-12-11 23:30:43 -0600,['/t/science'],Is it time to try geoengineering?,http://recode.net/2014/12/11/harvards-david-keith-knows-how-to-dial-down-the-earths-thermostat-is-it-time-to-try/,/u/kb,1
-0,2014-12-11 15:10:08 -0600,"['/t/databases', '/t/php', '/t/programming', '/t/web']",Easy Read/Write Splitting with PHP’s MySQLnd,https://blog.engineyard.com/2014/easy-read-write-splitting-php-mysqlnd/,/u/dshafik,2
-0,2014-12-11 11:15:03 -0600,"['/t/pdf', '/t/culture', '/t/science']",Trolls Just Want to Have Fun,http://scottbarrykaufman.com/wp-content/uploads/2014/02/trolls-just-want-to-have-fun.pdf,/u/pushcx,7
-2,2014-12-11 03:56:48 -0600,"['/t/video', '/t/compsci', '/t/math']",Category Theory by Tom LaGatta,https://www.youtube.com/watch?v=o6L6XeNdd_k,/u/RiderOfGiraffes,5
-0,2014-12-11 07:35:30 -0600,"['/t/linux', '/t/release']",Asynchronous filesystem replication with FUSE and rsync,https://github.com/immobiliare/sfs,/u/Lethalman,4
-3,2014-12-10 20:23:06 -0600,"['/t/c', '/t/programming']",socket99: Wrapper library for the BSD sockets API with a nicer C99 interface,https://github.com/silentbicycle/socket99,/u/zem,9
-11,2014-12-10 13:29:48 -0600,"['/t/databases', '/t/distributed']",Databases at 14.4Mhz,http://blog.foundationdb.com/databases-at-14.4mhz,/u/peter,13
-0,2014-12-11 14:08:25 -0600,['/t/programming'],streem: A new stream-based concurrent scripting language from Matz,https://github.com/matz/streem,/u/zem,1
-11,2014-12-10 13:55:44 -0600,['/t/culture'],From Open (Unlimited) to Minimum Vacation Policy,http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html,/u/tobym,41
-1,2014-12-11 09:41:57 -0600,"['/t/compsci', '/t/practices', '/t/rant']",Ten Things I Hate About Object-Oriented Programming (2010),http://blog.jot.fm/2010/08/26/ten-things-i-hate-about-object-oriented-programming/comment-page-2/,/u/pushcx,4
-2,2014-12-10 12:05:55 -0600,['/t/programming'],An ASM Monad,http://wall.org/~lewis/2013/10/15/asm-monad.html,/u/bitemyapp,16
-0,2014-12-11 11:38:31 -0600,"['/t/api', '/t/web']",API Design Best Practices (series),http://blogs.mulesoft.org/api-best-practices-series-intro/,/u/journeysquid,1
-14,2014-12-10 17:59:13 -0600,"['/t/ask', '/t/philosophy']",How to finish?,/s/pzj4mj/how_finish,/u/mordae,16
-0,2014-12-11 06:25:42 -0600,"['/t/javascript', '/t/web']",Planning A Front-end JavaScript Application,http://developer.telerik.com/featured/planning-front-end-javascript-application/,/u/remotesynth,1
-0,2014-12-10 13:10:51 -0600,"['/t/browsers', '/t/web']",firefox.html,https://github.com/paulrouget/firefox.html,/u/mediremi,10
-0,2014-12-11 10:35:33 -0600,"['/t/culture', '/t/games', '/t/practices']",A word about the future,http://luckyframe.co.uk/a-word-about-the-future/,/u/pushcx,1
-2,2014-12-10 10:18:26 -0600,"['/t/release', '/t/web']",Skeleton 2.0 CSS framework released,https://medium.com/@dhg/dear-skeleton-452f4bb07d69,/u/journeysquid,11
+12,2014-12-11 14:29:30 -0600,/t/haskell,You Are Learning Haskell Right Now (Or Anything You Want Really),http://michaelrbernste.in/2014/12/11/you-are-learning-haskell-right-now.html,/u/arcatan,27
+0,2014-12-12 12:29:38 -0600,/t/science,The Darwin Awards: sex differences in idiotic behaviour,http://www.bmj.com/content/349/bmj.g7094,/u/pushcx,1
+0,2014-12-12 10:37:16 -0600,"/t/video,/t/programming",Geo Carncross: How to program computers (kos),http://youtu.be/kTrOg19gzP4?list=PLmRrx948XMnEUlzKOCYn3AzT8OAInP_5M,/u/englishm,1
+0,2014-12-12 10:36:26 -0600,"/t/distributed,/t/networking",Papertrail DNS Outage Postmortem,http://blog.papertrailapp.com/dns-outage-on-monday-december-1-2014/,/u/kb,1
+0,2014-12-12 08:02:45 -0600,"/t/video,/t/haskell,/t/math",DSLs and Towers of Abstraction with Gershom Bazerman on Vimeo,http://vimeo.com/72870861,/u/tel,1
+0,2014-12-11 12:04:20 -0600,"/t/api,/t/haskell",Writing a Haskell API Server (Part 2),http://bendyworks.com/haskell-api-server-2/,/u/twopoint718,10
+0,2014-12-11 12:31:33 -0600,"/t/devops,/t/emacs",Literate DevOps,http://www.howardism.org/Technical/Emacs/literate-devops.html,/u/arcatan,7
+1,2014-12-11 00:33:06 -0600,/t/go,Go 1.4 released,https://blog.golang.org/go1.4,/u/kb,22
+0,2014-12-11 23:30:43 -0600,/t/science,Is it time to try geoengineering?,http://recode.net/2014/12/11/harvards-david-keith-knows-how-to-dial-down-the-earths-thermostat-is-it-time-to-try/,/u/kb,1
+0,2014-12-11 15:10:08 -0600,"/t/databases,/t/php,/t/programming,/t/web",Easy Read/Write Splitting with PHP’s MySQLnd,https://blog.engineyard.com/2014/easy-read-write-splitting-php-mysqlnd/,/u/dshafik,2
+0,2014-12-11 11:15:03 -0600,"/t/pdf,/t/culture,/t/science",Trolls Just Want to Have Fun,http://scottbarrykaufman.com/wp-content/uploads/2014/02/trolls-just-want-to-have-fun.pdf,/u/pushcx,7
+2,2014-12-11 03:56:48 -0600,"/t/video,/t/compsci,/t/math",Category Theory by Tom LaGatta,https://www.youtube.com/watch?v=o6L6XeNdd_k,/u/RiderOfGiraffes,5
+0,2014-12-11 07:35:30 -0600,"/t/linux,/t/release",Asynchronous filesystem replication with FUSE and rsync,https://github.com/immobiliare/sfs,/u/Lethalman,4
+3,2014-12-10 20:23:06 -0600,"/t/c,/t/programming",socket99: Wrapper library for the BSD sockets API with a nicer C99 interface,https://github.com/silentbicycle/socket99,/u/zem,9
+11,2014-12-10 13:29:48 -0600,"/t/databases,/t/distributed",Databases at 14.4Mhz,http://blog.foundationdb.com/databases-at-14.4mhz,/u/peter,13
+0,2014-12-11 14:08:25 -0600,/t/programming,streem: A new stream-based concurrent scripting language from Matz,https://github.com/matz/streem,/u/zem,1
+11,2014-12-10 13:55:44 -0600,/t/culture,From Open (Unlimited) to Minimum Vacation Policy,http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html,/u/tobym,41
+1,2014-12-11 09:41:57 -0600,"/t/compsci,/t/practices,/t/rant",Ten Things I Hate About Object-Oriented Programming (2010),http://blog.jot.fm/2010/08/26/ten-things-i-hate-about-object-oriented-programming/comment-page-2/,/u/pushcx,4
+2,2014-12-10 12:05:55 -0600,/t/programming,An ASM Monad,http://wall.org/~lewis/2013/10/15/asm-monad.html,/u/bitemyapp,16
+0,2014-12-11 11:38:31 -0600,"/t/api,/t/web",API Design Best Practices (series),http://blogs.mulesoft.org/api-best-practices-series-intro/,/u/journeysquid,1
+14,2014-12-10 17:59:13 -0600,"/t/ask,/t/philosophy",How to finish?,/s/pzj4mj/how_finish,/u/mordae,16
+0,2014-12-11 06:25:42 -0600,"/t/javascript,/t/web",Planning A Front-end JavaScript Application,http://developer.telerik.com/featured/planning-front-end-javascript-application/,/u/remotesynth,1
+0,2014-12-10 13:10:51 -0600,"/t/browsers,/t/web",firefox.html,https://github.com/paulrouget/firefox.html,/u/mediremi,10
+0,2014-12-11 10:35:33 -0600,"/t/culture,/t/games,/t/practices",A word about the future,http://luckyframe.co.uk/a-word-about-the-future/,/u/pushcx,1
+2,2014-12-10 10:18:26 -0600,"/t/release,/t/web",Skeleton 2.0 CSS framework released,https://medium.com/@dhg/dear-skeleton-452f4bb07d69,/u/journeysquid,11

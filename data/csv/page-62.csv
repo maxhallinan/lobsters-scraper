@@ -1,25 +1,25 @@
-0,2018-01-12 05:47:46 -0600,['/t/javascript'],[ES5 & ES6] Debounce React Events on Inputs,https://toughcompetent.com/es5-es6-debounce-react-events-on-inputs/,/u/pwatsonwailes,2
-0,2018-01-11 19:11:52 -0600,['/t/hardware'],Intel Warns Its Patches for Chip Flaws Are Buggy,https://www.wsj.com/articles/intel-warns-its-patches-for-chip-flaws-are-buggy-1515715212,/u/tedu,12
-5,2018-01-11 13:40:45 -0600,"['/t/clojure', '/t/games', '/t/programming', '/t/web']",Quinto: Resurrecting an Abandoned Board Game,http://blog.jrheard.com/quinto-resurrecting-an-abandoned-board-game,/u/Yogthos,12
-5,2018-01-11 15:59:13 -0600,"['/t/ask', '/t/security']",Why is the clflush instruction unprivileged?,/s/bjy1pq/why_is_clflush_instruction_unprivileged,/u/vyodaiken,4
-0,2018-01-12 11:45:02 -0600,"['/t/cryptocurrencies', '/t/security']",Website Glitch Let Me Overstock My Coinbase,https://krebsonsecurity.com/2018/01/website-glitch-let-me-overstock-my-coinbase/,/u/av,1
-11,2018-01-11 08:44:31 -0600,"['/t/programming', '/t/satire']",If programming languages were medieval characters,https://cternus.net/blog/2018/01/10/if-programming-languages-were-medieval-characters/,/u/frenata,58
-5,2018-01-11 12:29:59 -0600,['/t/practices'],Lies My Parents Told Me (About Logs),https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/,/u/GeoffWozniak,11
-0,2018-01-12 10:22:55 -0600,['/t/web'],Performance Tuning Wordpress for SEO – Aaptiv Engineering,https://medium.com/aaptiv-engineering/performance-tuning-wordpress-for-seo-a2c55b2a1143,/u/kathleenyanolatos,1
-0,2018-01-11 13:10:39 -0600,"['/t/cryptocurrencies', '/t/satire']",Announcing Blockchainifyly,http://blockchainifyly.com,/u/cirla,17
-3,2018-01-11 08:39:37 -0600,"['/t/compilers', '/t/plt']",Considerations for programming language design: a rebuttal,https://hackernoon.com/considerations-for-programming-language-design-a-rebuttal-5fb7ef2fd4ba,/u/calvin,19
-0,2018-01-12 14:14:09 -0600,['/t/culture'],Birdcage liners,https://www.joelonsoftware.com/2018/01/12/birdcage-liners/,/u/calvin,1
-0,2018-01-12 08:01:13 -0600,"['/t/haskell', '/t/programming']",Minor improvement to yesod-form: A Stack Builders open source update,https://www.stackbuilders.com/news/minor-improvement-to-yesod-forms-a-stack-builders-open-source-update,/u/jpvillaisaza,1
-1,2018-01-12 00:33:27 -0600,['/t/networking'],HTTPS explained with carrier pigeons,https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351,/u/Dawny33,1
-0,2018-01-12 02:54:26 -0600,"['/t/cryptocurrencies', '/t/satire']",SpaceKIM - The First North Korean ICO,http://www.spacekim.io/,/u/av,3
-0,2018-01-11 10:41:54 -0600,['/t/formalmethods'],Why you should use modeling [with TLA+/PlusCal],http://muratbuffalo.blogspot.com/2018/01/why-you-should-use-modeling-with.html,/u/hwayne,11
-3,2018-01-11 07:40:55 -0600,['/t/programming'],Learn about your package manager,http://sircmpwn.github.io/2018/01/10/Learn-your-package-manager.html,/u/calvin,9
-1,2018-01-11 14:21:06 -0600,['/t/haskell'],Software Transactional Memory Containers,https://nikita-volkov.github.io/stm-containers/,/u/Shapr,4
-0,2018-01-11 12:08:20 -0600,"['/t/python', '/t/web']",Eel - electron-like apps in python,https://github.com/ChrisKnott/Eel,/u/phildini,7
-6,2018-01-10 18:05:54 -0600,"['/t/art', '/t/games', '/t/philosophy']",The World Needs Good Games,http://widdersh.in/the-world-needs-good-games,/u/Widdershin,14
-4,2018-01-11 22:36:16 -0600,"['/t/crypto', '/t/culture', '/t/privacy']",Signal partners with Microsoft to bring end-to-end encryption to Skype,https://signal.org/blog/skype-partnership/,/u/rama_dan,3
-4,2018-01-11 03:42:00 -0600,"['/t/security', '/t/web']",Cierge - passwordless authentication done right,https://pwdless.github.io/Cierge-Website/,/u/ngrilly,12
-0,2018-01-11 07:50:54 -0600,"['/t/javascript', '/t/web']",Using Puppeteer to Scrape Websites with Infinite Scrolling,https://intoli.com/blog/scrape-infinite-scroll/,/u/aperun,4
-0,2018-01-11 18:09:29 -0600,"['/t/freebsd', '/t/virtualization']",Running FreeBSD in Travis-CI,http://erouault.blogspot.com/2016/09/running-freebsd-in-travis-ci.html,/u/fcbsd,2
-1,2018-01-11 11:06:04 -0600,"['/t/pdf', '/t/programming']",Monads for functional programming,http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf,/u/balajmarius,4
-0,2018-01-11 03:51:47 -0600,"['/t/compilers', '/t/programming']",lily - An interpreted language with a focus on expressiveness and type safety,http://fascinatedbox.github.io/lily/,/u/av,11
+0,2018-01-12 05:47:46 -0600,/t/javascript,[ES5 & ES6] Debounce React Events on Inputs,https://toughcompetent.com/es5-es6-debounce-react-events-on-inputs/,/u/pwatsonwailes,2
+0,2018-01-11 19:11:52 -0600,/t/hardware,Intel Warns Its Patches for Chip Flaws Are Buggy,https://www.wsj.com/articles/intel-warns-its-patches-for-chip-flaws-are-buggy-1515715212,/u/tedu,12
+5,2018-01-11 13:40:45 -0600,"/t/clojure,/t/games,/t/programming,/t/web",Quinto: Resurrecting an Abandoned Board Game,http://blog.jrheard.com/quinto-resurrecting-an-abandoned-board-game,/u/Yogthos,12
+5,2018-01-11 15:59:13 -0600,"/t/ask,/t/security",Why is the clflush instruction unprivileged?,/s/bjy1pq/why_is_clflush_instruction_unprivileged,/u/vyodaiken,4
+0,2018-01-12 11:45:02 -0600,"/t/cryptocurrencies,/t/security",Website Glitch Let Me Overstock My Coinbase,https://krebsonsecurity.com/2018/01/website-glitch-let-me-overstock-my-coinbase/,/u/av,1
+11,2018-01-11 08:44:31 -0600,"/t/programming,/t/satire",If programming languages were medieval characters,https://cternus.net/blog/2018/01/10/if-programming-languages-were-medieval-characters/,/u/frenata,58
+5,2018-01-11 12:29:59 -0600,/t/practices,Lies My Parents Told Me (About Logs),https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/,/u/GeoffWozniak,11
+0,2018-01-12 10:22:55 -0600,/t/web,Performance Tuning Wordpress for SEO – Aaptiv Engineering,https://medium.com/aaptiv-engineering/performance-tuning-wordpress-for-seo-a2c55b2a1143,/u/kathleenyanolatos,1
+0,2018-01-11 13:10:39 -0600,"/t/cryptocurrencies,/t/satire",Announcing Blockchainifyly,http://blockchainifyly.com,/u/cirla,17
+3,2018-01-11 08:39:37 -0600,"/t/compilers,/t/plt",Considerations for programming language design: a rebuttal,https://hackernoon.com/considerations-for-programming-language-design-a-rebuttal-5fb7ef2fd4ba,/u/calvin,19
+0,2018-01-12 14:14:09 -0600,/t/culture,Birdcage liners,https://www.joelonsoftware.com/2018/01/12/birdcage-liners/,/u/calvin,1
+0,2018-01-12 08:01:13 -0600,"/t/haskell,/t/programming",Minor improvement to yesod-form: A Stack Builders open source update,https://www.stackbuilders.com/news/minor-improvement-to-yesod-forms-a-stack-builders-open-source-update,/u/jpvillaisaza,1
+1,2018-01-12 00:33:27 -0600,/t/networking,HTTPS explained with carrier pigeons,https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351,/u/Dawny33,1
+0,2018-01-12 02:54:26 -0600,"/t/cryptocurrencies,/t/satire",SpaceKIM - The First North Korean ICO,http://www.spacekim.io/,/u/av,3
+0,2018-01-11 10:41:54 -0600,/t/formalmethods,Why you should use modeling [with TLA+/PlusCal],http://muratbuffalo.blogspot.com/2018/01/why-you-should-use-modeling-with.html,/u/hwayne,11
+3,2018-01-11 07:40:55 -0600,/t/programming,Learn about your package manager,http://sircmpwn.github.io/2018/01/10/Learn-your-package-manager.html,/u/calvin,9
+1,2018-01-11 14:21:06 -0600,/t/haskell,Software Transactional Memory Containers,https://nikita-volkov.github.io/stm-containers/,/u/Shapr,4
+0,2018-01-11 12:08:20 -0600,"/t/python,/t/web",Eel - electron-like apps in python,https://github.com/ChrisKnott/Eel,/u/phildini,7
+6,2018-01-10 18:05:54 -0600,"/t/art,/t/games,/t/philosophy",The World Needs Good Games,http://widdersh.in/the-world-needs-good-games,/u/Widdershin,14
+4,2018-01-11 22:36:16 -0600,"/t/crypto,/t/culture,/t/privacy",Signal partners with Microsoft to bring end-to-end encryption to Skype,https://signal.org/blog/skype-partnership/,/u/rama_dan,3
+4,2018-01-11 03:42:00 -0600,"/t/security,/t/web",Cierge - passwordless authentication done right,https://pwdless.github.io/Cierge-Website/,/u/ngrilly,12
+0,2018-01-11 07:50:54 -0600,"/t/javascript,/t/web",Using Puppeteer to Scrape Websites with Infinite Scrolling,https://intoli.com/blog/scrape-infinite-scroll/,/u/aperun,4
+0,2018-01-11 18:09:29 -0600,"/t/freebsd,/t/virtualization",Running FreeBSD in Travis-CI,http://erouault.blogspot.com/2016/09/running-freebsd-in-travis-ci.html,/u/fcbsd,2
+1,2018-01-11 11:06:04 -0600,"/t/pdf,/t/programming",Monads for functional programming,http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf,/u/balajmarius,4
+0,2018-01-11 03:51:47 -0600,"/t/compilers,/t/programming",lily - An interpreted language with a focus on expressiveness and type safety,http://fascinatedbox.github.io/lily/,/u/av,11

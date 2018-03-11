@@ -1,25 +1,25 @@
-0,2012-12-24 16:59:31 -0600,['/t/mobile'],Performance Calendar » Make your mobile pages render in under one second,http://calendar.perfplanet.com/2012/make-your-mobile-pages-render-in-under-one-second/,/u/craigwickesser,2
-0,2012-12-23 10:14:21 -0600,['/t/web'],Write Ember.js App With Middleman,https://gist.github.com/4364010,/u/GutenYe,6
-4,2012-12-22 22:15:29 -0600,"['/t/show', '/t/go']",kisom / check_github,https://bitbucket.org/kisom/check_github,/u/kyle,3
-0,2012-12-22 06:49:00 -0600,"['/t/linux', '/t/release', '/t/unix']",E17 finally officially released,http://enlightenment.org/p.php?p=news/show&l=en&news_id=77,/u/chneukirchen,8
-1,2012-12-22 12:07:21 -0600,"['/t/rant', '/t/release']","GNU sed 4.2.2 released, and a rant from the maintainer",http://thread.gmane.org/gmane.comp.lang.smalltalk.gnu.general/7873,/u/chneukirchen,7
-6,2012-12-21 11:31:40 -0600,"['/t/databases', '/t/ruby']",What's new in Active Record 4,http://blog.remarkablelabs.com/2012/12/what-s-new-in-active-record-rails-4-countdown-to-2013,/u/jcs,13
-0,2012-12-21 21:39:46 -0600,"['/t/compsci', '/t/math']",What does randomness look like?,http://www.empiricalzeal.com/2012/12/21/what-does-randomness-look-like/,/u/thmzlt,5
-2,2012-12-21 10:47:40 -0600,['/t/philosophy'],Imagine a DNS server that removed top million domains from its database,http://millionshort.com/dns.html,/u/tobym,3
-0,2012-12-21 10:45:21 -0600,['/t/scala'],Slick 1.0.0-RC1 released (Scala database query API),http://slick.typesafe.com/news/2012/12/21/slick-1.0.0-RC1-released.html,/u/tobym,5
-0,2012-12-21 10:15:00 -0600,"['/t/design', '/t/web']",What is a UI antipattern?,http://www.michaelboeke.com/post/38441502280/what-is-a-ui-antipattern,/u/michael,4
-0,2012-12-20 15:21:00 -0600,"['/t/design', '/t/release']",Building the Netflix UI for Wii U,http://techblog.netflix.com/2012/12/building-netflix-ui-for-wii-u.html,/u/jcs,5
-2,2012-12-20 06:48:57 -0600,['/t/ruby'],2012: The Year Rubyists Learned to Stop Worrying and Love Threads,http://tonyarcieri.com/2012-the-year-rubyists-learned-to-stop-worrying-and-love-the-threads,/u/pkhamre,9
-2,2012-12-20 09:20:31 -0600,"['/t/emacs', '/t/event', '/t/lisp']",Emacs Conf to take place on March 30th in the UK,http://lists.hugadev.com/pipermail/emacs-conf-hugadev.com/2012-December/000026.html,/u/JoelMcCracken,6
-3,2012-12-20 10:59:53 -0600,"['/t/compsci', '/t/lisp', '/t/release']",Getting Started with OpenDylan 2012.1,http://dylanfoundry.org/2012/12/20/getting-started-with-opendylan-20121/,/u/BruceM,3
-1,2012-12-19 15:58:20 -0600,"['/t/news', '/t/release']",The Octoverse in 2012 · GitHub Blog,https://github.com/blog/1359-the-octoverse-in-2012,/u/rpowelll,8
-16,2012-12-19 00:33:06 -0600,"['/t/show', '/t/ios']",Show Lobsters: A Lobsters iPhone app I've started working on,https://github.com/jcs/lobsters/issues/42#issuecomment-11519034,/u/rpowelll,18
-3,2012-12-19 14:55:45 -0600,['/t/person'],Zork Creators Honored With Pioneer Award (interview as text adventure game),http://www.wired.com/gamelife/2012/12/zork-infocom-pioneer-award/,/u/jcs,4
-0,2012-12-19 16:10:34 -0600,"['/t/browsers', '/t/security']",UI Redressing Mayhem: HttpOnly bypass PayPwn style,http://blog.nibblesec.org/2012/12/ui-redressing-mayhem-httponly-bypass_19.html,/u/kyle,2
-2,2012-12-18 20:35:34 -0600,"['/t/scaling', '/t/web']","AWS: the good, the bad and the ugly",http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/,/u/vladikoff,7
-4,2012-12-18 10:06:07 -0600,['/t/practices'],No fighting in the war room,https://www.braintreepayments.com/braintrust/no-fighting-in-the-war-room,/u/kGb8RNFtg6,12
-1,2012-12-18 16:02:33 -0600,['/t/compsci'],Single Writer Principle,http://mechanical-sympathy.blogspot.com/2011/09/single-writer-principle.html,/u/tobym,3
-0,2012-12-18 09:31:55 -0600,['/t/scala'],"Experimental optimizer does closure-inlining, and strips unused private class members",https://groups.google.com/d/msg/scala-internals/5DO64yeHEBE/R-FBX5xM1IMJ,/u/tobym,6
-0,2012-12-18 14:48:28 -0600,"['/t/ios', '/t/mobile']",Thoughts on default apps on iOS,http://thomasst.ch/defaultapps/,/u/tom,3
-0,2012-12-18 16:01:40 -0600,"['/t/visualization', '/t/web']",Tutorial: Building 'Shiny' Web Applications with R,http://rstudio.github.com/shiny/tutorial/#,/u/tobym,2
-0,2012-12-18 12:24:06 -0600,['/t/ruby'],Badger-Rails is Heroku for your own servers,http://curiousminds.github.com/badger-rails/,/u/mattvv,3
+0,2012-12-24 16:59:31 -0600,/t/mobile,Performance Calendar » Make your mobile pages render in under one second,http://calendar.perfplanet.com/2012/make-your-mobile-pages-render-in-under-one-second/,/u/craigwickesser,2
+0,2012-12-23 10:14:21 -0600,/t/web,Write Ember.js App With Middleman,https://gist.github.com/4364010,/u/GutenYe,6
+4,2012-12-22 22:15:29 -0600,"/t/show,/t/go",kisom / check_github,https://bitbucket.org/kisom/check_github,/u/kyle,3
+0,2012-12-22 06:49:00 -0600,"/t/linux,/t/release,/t/unix",E17 finally officially released,http://enlightenment.org/p.php?p=news/show&l=en&news_id=77,/u/chneukirchen,8
+1,2012-12-22 12:07:21 -0600,"/t/rant,/t/release","GNU sed 4.2.2 released, and a rant from the maintainer",http://thread.gmane.org/gmane.comp.lang.smalltalk.gnu.general/7873,/u/chneukirchen,7
+6,2012-12-21 11:31:40 -0600,"/t/databases,/t/ruby",What's new in Active Record 4,http://blog.remarkablelabs.com/2012/12/what-s-new-in-active-record-rails-4-countdown-to-2013,/u/jcs,13
+0,2012-12-21 21:39:46 -0600,"/t/compsci,/t/math",What does randomness look like?,http://www.empiricalzeal.com/2012/12/21/what-does-randomness-look-like/,/u/thmzlt,5
+2,2012-12-21 10:47:40 -0600,/t/philosophy,Imagine a DNS server that removed top million domains from its database,http://millionshort.com/dns.html,/u/tobym,3
+0,2012-12-21 10:45:21 -0600,/t/scala,Slick 1.0.0-RC1 released (Scala database query API),http://slick.typesafe.com/news/2012/12/21/slick-1.0.0-RC1-released.html,/u/tobym,5
+0,2012-12-21 10:15:00 -0600,"/t/design,/t/web",What is a UI antipattern?,http://www.michaelboeke.com/post/38441502280/what-is-a-ui-antipattern,/u/michael,4
+0,2012-12-20 15:21:00 -0600,"/t/design,/t/release",Building the Netflix UI for Wii U,http://techblog.netflix.com/2012/12/building-netflix-ui-for-wii-u.html,/u/jcs,5
+2,2012-12-20 06:48:57 -0600,/t/ruby,2012: The Year Rubyists Learned to Stop Worrying and Love Threads,http://tonyarcieri.com/2012-the-year-rubyists-learned-to-stop-worrying-and-love-the-threads,/u/pkhamre,9
+2,2012-12-20 09:20:31 -0600,"/t/emacs,/t/event,/t/lisp",Emacs Conf to take place on March 30th in the UK,http://lists.hugadev.com/pipermail/emacs-conf-hugadev.com/2012-December/000026.html,/u/JoelMcCracken,6
+3,2012-12-20 10:59:53 -0600,"/t/compsci,/t/lisp,/t/release",Getting Started with OpenDylan 2012.1,http://dylanfoundry.org/2012/12/20/getting-started-with-opendylan-20121/,/u/BruceM,3
+1,2012-12-19 15:58:20 -0600,"/t/news,/t/release",The Octoverse in 2012 · GitHub Blog,https://github.com/blog/1359-the-octoverse-in-2012,/u/rpowelll,8
+16,2012-12-19 00:33:06 -0600,"/t/show,/t/ios",Show Lobsters: A Lobsters iPhone app I've started working on,https://github.com/jcs/lobsters/issues/42#issuecomment-11519034,/u/rpowelll,18
+3,2012-12-19 14:55:45 -0600,/t/person,Zork Creators Honored With Pioneer Award (interview as text adventure game),http://www.wired.com/gamelife/2012/12/zork-infocom-pioneer-award/,/u/jcs,4
+0,2012-12-19 16:10:34 -0600,"/t/browsers,/t/security",UI Redressing Mayhem: HttpOnly bypass PayPwn style,http://blog.nibblesec.org/2012/12/ui-redressing-mayhem-httponly-bypass_19.html,/u/kyle,2
+2,2012-12-18 20:35:34 -0600,"/t/scaling,/t/web","AWS: the good, the bad and the ugly",http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/,/u/vladikoff,7
+4,2012-12-18 10:06:07 -0600,/t/practices,No fighting in the war room,https://www.braintreepayments.com/braintrust/no-fighting-in-the-war-room,/u/kGb8RNFtg6,12
+1,2012-12-18 16:02:33 -0600,/t/compsci,Single Writer Principle,http://mechanical-sympathy.blogspot.com/2011/09/single-writer-principle.html,/u/tobym,3
+0,2012-12-18 09:31:55 -0600,/t/scala,"Experimental optimizer does closure-inlining, and strips unused private class members",https://groups.google.com/d/msg/scala-internals/5DO64yeHEBE/R-FBX5xM1IMJ,/u/tobym,6
+0,2012-12-18 14:48:28 -0600,"/t/ios,/t/mobile",Thoughts on default apps on iOS,http://thomasst.ch/defaultapps/,/u/tom,3
+0,2012-12-18 16:01:40 -0600,"/t/visualization,/t/web",Tutorial: Building 'Shiny' Web Applications with R,http://rstudio.github.com/shiny/tutorial/#,/u/tobym,2
+0,2012-12-18 12:24:06 -0600,/t/ruby,Badger-Rails is Heroku for your own servers,http://curiousminds.github.com/badger-rails/,/u/mattvv,3

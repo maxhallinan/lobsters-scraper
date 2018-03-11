@@ -1,25 +1,25 @@
-0,2017-06-08 08:14:37 -0500,['/t/compsci'],Data structure for triangle meshes,http://www.redblobgames.com/x/1722-b-rep-triangle-meshes/,/u/pushcx,6
-0,2017-06-08 04:41:20 -0500,['/t/openbsd'],"d2k17 Hackathon Report: Antoine Jacoutot on rc.d, syspatch, and more",http://undeadly.org/cgi?action=article&sid=20170608074033,/u/mulander,9
-0,2017-06-08 12:44:58 -0500,['/t/graphics'],Half-edge based mesh representations: theory,https://fgiesen.wordpress.com/2012/02/21/half-edge-based-mesh-representations-theory/,/u/mikejsavage,3
-0,2017-06-07 21:38:44 -0500,"['/t/distributed', '/t/programming']",A few things I've learned about Kubernetes,https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/,/u/Dawny33,17
-0,2017-06-08 10:20:02 -0500,"['/t/slides', '/t/mobile', '/t/security']",Mobile Network Attack Evolution by Karsten Nohl,https://www.slideshare.net/phdays/140521karsten-nohl-phdmobileattackevolution-35161629,/u/nickpsecurity,3
-8,2017-06-07 10:16:50 -0500,"['/t/programming', '/t/web']",On the Futility of Email Address Regex Validation,https://jackfoxy.github.io/FsRegEx/emailregex.html,/u/foxyjackfox,13
-0,2017-06-08 12:31:47 -0500,['/t/graphics'],Order your graphics draw calls around!,http://realtimecollisiondetection.net/blog/?p=86,/u/mikejsavage,2
-0,2017-06-08 12:31:14 -0500,['/t/graphics'],"Stateless, layered, multi-threaded rendering",https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/,/u/mikejsavage,2
-0,2017-06-08 15:37:18 -0500,['/t/compsci'],DeepMind Shows AI Has Trouble Seeing Homer Simpson's Actions,http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/deepmind-shows-ai-has-trouble-seeing-homer-simpson-actions,/u/adsouza,1
-0,2017-06-08 04:50:47 -0500,"['/t/dotnet', '/t/performance']",Performance Improvements in .NET Core,https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/,/u/calvin,4
-1,2017-06-07 14:32:18 -0500,"['/t/distributed', '/t/historical']",A Brief History of the UUID,https://segment.com/blog/a-brief-history-of-the-uuid/,/u/pushcx,20
-9,2017-06-08 14:30:09 -0500,['/t/javascript'],Webpack ignores 36 years of history,https://github.com/webpack/webpack/issues/5032,/u/kb,0
-1,2017-06-07 08:44:59 -0500,"['/t/c++', '/t/programming']",Error Handling in C++ or: Why You Should Use Eithers in Favor of Exceptions and Error-codes,https://hackernoon.com/error-handling-in-c-or-why-you-should-use-eithers-in-favor-of-exceptions-and-error-codes-f0640912eb45,/u/nikhedonia,19
-0,2017-06-07 16:51:19 -0500,"['/t/devops', '/t/linux', '/t/performance']",Linux Performance (updated),http://www.brendangregg.com/linuxperf.html,/u/fkr,14
-5,2017-06-07 08:02:52 -0500,['/t/web'],"ORMs, Lazy Loading and Web Applications",http://www.blinkingcaret.com/2017/06/07/orms-lazy-loading-and-web-applications/,/u/rdfi,10
-0,2017-06-07 05:35:43 -0500,['/t/graphics'],Quake 3 Vulkanized,https://medium.com/@kennyalive/quake-3-vulkanized-245cc349fdcf,/u/calvin,37
-9,2017-06-07 09:47:57 -0500,"['/t/haskell', '/t/testing']",The round-trip property,http://teh.id.au/posts/2017/06/07/round-trip-property/index.html,/u/pushcx,12
-20,2017-06-06 16:53:43 -0500,['/t/practices'],Use GNU Stow,https://jnboehm.com/post/gnu-stow/,/u/jnb,40
-6,2017-06-07 11:49:42 -0500,['/t/practices'],Software Companies Tech Competency Matrix,https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix,/u/friendlysock,7
-0,2017-06-07 18:50:38 -0500,['/t/lisp'],"Reducers, transducers and core.async in Clojure",http://eli.thegreenplace.net/2017/reducers-transducers-and-coreasync-in-clojure/,/u/Yogthos,6
-0,2017-06-08 05:48:23 -0500,"['/t/networking', '/t/security']",CS4G Network Simulator,https://netsim.erinn.io/,/u/adsouza,1
-1,2017-06-07 13:10:04 -0500,['/t/lisp'],All 4clojure tasks on PicoLisp,https://bitbucket.org/mihailp/tankfeeder/src/919c4b16ed37b84ade980218bb8e749da29772c9/4clojure/?at=default,/u/tankfeeder,3
-0,2017-06-07 09:31:39 -0500,['/t/programming'],"What does ""abstract over"" mean?",https://stackoverflow.com/questions/4765532/what-does-abstract-over-mean,/u/asthasr,13
-1,2017-06-07 13:13:52 -0500,['/t/programming'],"Reduce Nesting, Reduce Complexity",https://testing.googleblog.com/2017/06/code-health-reduce-nesting-reduce.html,/u/calvin,5
-0,2017-06-07 09:55:27 -0500,['/t/math'],Tupper’s Self-Referential Formula Debunked,http://arvindn.livejournal.com/132943.html,/u/pushcx,10
+0,2017-06-08 08:14:37 -0500,/t/compsci,Data structure for triangle meshes,http://www.redblobgames.com/x/1722-b-rep-triangle-meshes/,/u/pushcx,6
+0,2017-06-08 04:41:20 -0500,/t/openbsd,"d2k17 Hackathon Report: Antoine Jacoutot on rc.d, syspatch, and more",http://undeadly.org/cgi?action=article&sid=20170608074033,/u/mulander,9
+0,2017-06-08 12:44:58 -0500,/t/graphics,Half-edge based mesh representations: theory,https://fgiesen.wordpress.com/2012/02/21/half-edge-based-mesh-representations-theory/,/u/mikejsavage,3
+0,2017-06-07 21:38:44 -0500,"/t/distributed,/t/programming",A few things I've learned about Kubernetes,https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/,/u/Dawny33,17
+0,2017-06-08 10:20:02 -0500,"/t/slides,/t/mobile,/t/security",Mobile Network Attack Evolution by Karsten Nohl,https://www.slideshare.net/phdays/140521karsten-nohl-phdmobileattackevolution-35161629,/u/nickpsecurity,3
+8,2017-06-07 10:16:50 -0500,"/t/programming,/t/web",On the Futility of Email Address Regex Validation,https://jackfoxy.github.io/FsRegEx/emailregex.html,/u/foxyjackfox,13
+0,2017-06-08 12:31:47 -0500,/t/graphics,Order your graphics draw calls around!,http://realtimecollisiondetection.net/blog/?p=86,/u/mikejsavage,2
+0,2017-06-08 12:31:14 -0500,/t/graphics,"Stateless, layered, multi-threaded rendering",https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/,/u/mikejsavage,2
+0,2017-06-08 15:37:18 -0500,/t/compsci,DeepMind Shows AI Has Trouble Seeing Homer Simpson's Actions,http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/deepmind-shows-ai-has-trouble-seeing-homer-simpson-actions,/u/adsouza,1
+0,2017-06-08 04:50:47 -0500,"/t/dotnet,/t/performance",Performance Improvements in .NET Core,https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/,/u/calvin,4
+1,2017-06-07 14:32:18 -0500,"/t/distributed,/t/historical",A Brief History of the UUID,https://segment.com/blog/a-brief-history-of-the-uuid/,/u/pushcx,20
+9,2017-06-08 14:30:09 -0500,/t/javascript,Webpack ignores 36 years of history,https://github.com/webpack/webpack/issues/5032,/u/kb,0
+1,2017-06-07 08:44:59 -0500,"/t/c++,/t/programming",Error Handling in C++ or: Why You Should Use Eithers in Favor of Exceptions and Error-codes,https://hackernoon.com/error-handling-in-c-or-why-you-should-use-eithers-in-favor-of-exceptions-and-error-codes-f0640912eb45,/u/nikhedonia,19
+0,2017-06-07 16:51:19 -0500,"/t/devops,/t/linux,/t/performance",Linux Performance (updated),http://www.brendangregg.com/linuxperf.html,/u/fkr,14
+5,2017-06-07 08:02:52 -0500,/t/web,"ORMs, Lazy Loading and Web Applications",http://www.blinkingcaret.com/2017/06/07/orms-lazy-loading-and-web-applications/,/u/rdfi,10
+0,2017-06-07 05:35:43 -0500,/t/graphics,Quake 3 Vulkanized,https://medium.com/@kennyalive/quake-3-vulkanized-245cc349fdcf,/u/calvin,37
+9,2017-06-07 09:47:57 -0500,"/t/haskell,/t/testing",The round-trip property,http://teh.id.au/posts/2017/06/07/round-trip-property/index.html,/u/pushcx,12
+20,2017-06-06 16:53:43 -0500,/t/practices,Use GNU Stow,https://jnboehm.com/post/gnu-stow/,/u/jnb,40
+6,2017-06-07 11:49:42 -0500,/t/practices,Software Companies Tech Competency Matrix,https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix,/u/friendlysock,7
+0,2017-06-07 18:50:38 -0500,/t/lisp,"Reducers, transducers and core.async in Clojure",http://eli.thegreenplace.net/2017/reducers-transducers-and-coreasync-in-clojure/,/u/Yogthos,6
+0,2017-06-08 05:48:23 -0500,"/t/networking,/t/security",CS4G Network Simulator,https://netsim.erinn.io/,/u/adsouza,1
+1,2017-06-07 13:10:04 -0500,/t/lisp,All 4clojure tasks on PicoLisp,https://bitbucket.org/mihailp/tankfeeder/src/919c4b16ed37b84ade980218bb8e749da29772c9/4clojure/?at=default,/u/tankfeeder,3
+0,2017-06-07 09:31:39 -0500,/t/programming,"What does ""abstract over"" mean?",https://stackoverflow.com/questions/4765532/what-does-abstract-over-mean,/u/asthasr,13
+1,2017-06-07 13:13:52 -0500,/t/programming,"Reduce Nesting, Reduce Complexity",https://testing.googleblog.com/2017/06/code-health-reduce-nesting-reduce.html,/u/calvin,5
+0,2017-06-07 09:55:27 -0500,/t/math,Tupper’s Self-Referential Formula Debunked,http://arvindn.livejournal.com/132943.html,/u/pushcx,10

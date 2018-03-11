@@ -1,25 +1,25 @@
-0,2017-03-12 04:32:37 -0500,['/t/programming'],How I ended up writing a new real-time kernel [Dmitry Frank],https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel,/u/ThisIs_MyName,14
-2,2017-03-12 13:39:56 -0500,"['/t/practices', '/t/testing']","Unit testing, Lean Startup, and everything in-between",https://codewithoutrules.com/2017/03/12/software-testing-big-picture/,/u/itamarst,1
-18,2017-03-11 15:54:43 -0600,['/t/vcs'],Goodbye Fossil,https://roy.marples.name/blog/goodbye-fossil,/u/sevan,21
-0,2017-03-12 10:57:47 -0500,"['/t/games', '/t/go']",G3N - Go 3D Game Engine,https://github.com/g3n/engine,/u/davidjpeacock,5
-0,2017-03-12 04:36:24 -0500,['/t/devops'],From Vagrant to Nixops,https://blog.mayflower.de/5976-From-Vagrant-to-Nixops.html,/u/vegai,10
-0,2017-03-12 01:27:30 -0600,['/t/web'],Thou shalt not depend on me: analysing the use of outdated JavaScript libraries on the web,https://blog.acolyer.org/2017/03/07/thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web/,/u/ThisIs_MyName,7
-0,2017-03-11 10:52:45 -0600,['/t/programming'],Pony 0.11.0 released,https://pony.groups.io/g/user/message/892,/u/SeanTAllen,17
-6,2017-03-11 14:13:02 -0600,"['/t/javascript', '/t/php', '/t/practices']","“Hello, (real) world!” in PHP in 2017",https://kukuruku.co/post/hello-real-world-in-php-in-2017/,/u/friendlysock,8
-9,2017-03-11 10:31:21 -0600,"['/t/ask', '/t/audio']",Personal Audio Streaming Server - Choices?,/s/xnrppe/personal_audio_streaming_server_choices,/u/dtsdwarak,14
-4,2017-03-11 22:30:44 -0600,"['/t/law', '/t/privacy', '/t/security']","When Should the Government Disclose ""Stockpiled"" Vulnerabilities?",http://www.crypto.com/blog/between_immediately_and_never/,/u/tf,2
-1,2017-03-11 17:59:12 -0600,['/t/security'],The Nintendo Switch already hacked through a known vulnerability?,http://wololo.net/2017/03/11/nintendo-switch-already-hacked-known-vulnerability/,/u/calvin,6
-9,2017-03-11 06:04:07 -0600,"['/t/show', '/t/python']",A python parser that builds python ASTs in 502 lines of python without using modules,https://github.com/asrp/pymetaterp,/u/asrp,7
-0,2017-03-11 17:00:21 -0600,['/t/programming'],Pony: State of the Stable 2017 Community Survey,https://goo.gl/forms/5qAmppwIEkvvEFkq1,/u/SeanTAllen,3
-1,2017-03-11 07:38:45 -0600,"['/t/emacs', '/t/programming']",Wireworld in Emacs,http://dustycloud.org/blog/wireworld-in-emacs/,/u/gasche,15
-1,2017-03-10 18:12:59 -0600,"['/t/compilers', '/t/programming', '/t/rust']",Rust's Type System is Turing-Complete: an exploration of type-level programming in Rust,https://sdleffler.github.io/RustTypeSystemTuringComplete/,/u/sleffy,30
-0,2017-03-11 13:02:16 -0600,"['/t/pdf', '/t/games', '/t/historical']",Full Throttle Scenery Studies,http://ben304.blogspot.com/2017/03/full-throttle-scenery-studies.html,/u/sevan,6
-9,2017-03-10 16:26:45 -0600,"['/t/philosophy', '/t/science']",Who will own Mars?,http://www.autodidacts.io/who-will-own-mars/,/u/Curiositry,12
-1,2017-03-11 07:15:21 -0600,"['/t/historical', '/t/practices']",Complexity and Strategy,https://hackernoon.com/complexity-and-strategy-325cd7f59a92,/u/calvin,7
-0,2017-03-11 03:26:04 -0600,"['/t/pdf', '/t/graphics']",Ghost Recon Wildlands: Terrain Tools and Technology,https://666uille.files.wordpress.com/2017/03/gdc2017_ghostreconwildlands_terrainandtechnologytools-onlinevideos1.pdf,/u/mikejsavage,9
-8,2017-03-11 14:44:01 -0600,"['/t/ask', '/t/crypto', '/t/security']",Crypto-Ransomware: What are we waiting for?,/s/88zadl/crypto_ransomware_what_are_we_waiting_for,/u/rain1,1
-11,2017-03-10 09:05:30 -0600,['/t/security'],Password Rules Are Bullshit,https://blog.codinghorror.com/password-rules-are-bullshit/,/u/flyingfisch,32
-0,2017-03-11 03:28:07 -0600,"['/t/pdf', '/t/graphics']",Rendering Rainbow Six Siege,http://www.gdcvault.com/play/1022990/Rendering-Rainbow-Six-Siege,/u/mikejsavage,6
-2,2017-03-10 16:57:38 -0600,"['/t/pdf', '/t/cryptocurrencies']",Bitcoin ETF disapproved by SEC,https://www.sec.gov/rules/sro/batsbzx/2017/34-80206.pdf,/u/colin,8
-6,2017-03-10 04:08:34 -0600,['/t/testing'],Testing is a separate skill and that’s why you are frustrated,https://medium.com/@pankowecki/testing-is-a-separate-skill-and-thats-why-you-are-frustrated-7239b1500a6c,/u/rupert,13
-0,2017-03-10 21:15:44 -0600,"['/t/culture', '/t/person']",How Slack Supports Junior Engineers,https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1,/u/don,10
+0,2017-03-12 04:32:37 -0500,/t/programming,How I ended up writing a new real-time kernel [Dmitry Frank],https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel,/u/ThisIs_MyName,14
+2,2017-03-12 13:39:56 -0500,"/t/practices,/t/testing","Unit testing, Lean Startup, and everything in-between",https://codewithoutrules.com/2017/03/12/software-testing-big-picture/,/u/itamarst,1
+18,2017-03-11 15:54:43 -0600,/t/vcs,Goodbye Fossil,https://roy.marples.name/blog/goodbye-fossil,/u/sevan,21
+0,2017-03-12 10:57:47 -0500,"/t/games,/t/go",G3N - Go 3D Game Engine,https://github.com/g3n/engine,/u/davidjpeacock,5
+0,2017-03-12 04:36:24 -0500,/t/devops,From Vagrant to Nixops,https://blog.mayflower.de/5976-From-Vagrant-to-Nixops.html,/u/vegai,10
+0,2017-03-12 01:27:30 -0600,/t/web,Thou shalt not depend on me: analysing the use of outdated JavaScript libraries on the web,https://blog.acolyer.org/2017/03/07/thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web/,/u/ThisIs_MyName,7
+0,2017-03-11 10:52:45 -0600,/t/programming,Pony 0.11.0 released,https://pony.groups.io/g/user/message/892,/u/SeanTAllen,17
+6,2017-03-11 14:13:02 -0600,"/t/javascript,/t/php,/t/practices","“Hello, (real) world!” in PHP in 2017",https://kukuruku.co/post/hello-real-world-in-php-in-2017/,/u/friendlysock,8
+9,2017-03-11 10:31:21 -0600,"/t/ask,/t/audio",Personal Audio Streaming Server - Choices?,/s/xnrppe/personal_audio_streaming_server_choices,/u/dtsdwarak,14
+4,2017-03-11 22:30:44 -0600,"/t/law,/t/privacy,/t/security","When Should the Government Disclose ""Stockpiled"" Vulnerabilities?",http://www.crypto.com/blog/between_immediately_and_never/,/u/tf,2
+1,2017-03-11 17:59:12 -0600,/t/security,The Nintendo Switch already hacked through a known vulnerability?,http://wololo.net/2017/03/11/nintendo-switch-already-hacked-known-vulnerability/,/u/calvin,6
+9,2017-03-11 06:04:07 -0600,"/t/show,/t/python",A python parser that builds python ASTs in 502 lines of python without using modules,https://github.com/asrp/pymetaterp,/u/asrp,7
+0,2017-03-11 17:00:21 -0600,/t/programming,Pony: State of the Stable 2017 Community Survey,https://goo.gl/forms/5qAmppwIEkvvEFkq1,/u/SeanTAllen,3
+1,2017-03-11 07:38:45 -0600,"/t/emacs,/t/programming",Wireworld in Emacs,http://dustycloud.org/blog/wireworld-in-emacs/,/u/gasche,15
+1,2017-03-10 18:12:59 -0600,"/t/compilers,/t/programming,/t/rust",Rust's Type System is Turing-Complete: an exploration of type-level programming in Rust,https://sdleffler.github.io/RustTypeSystemTuringComplete/,/u/sleffy,30
+0,2017-03-11 13:02:16 -0600,"/t/pdf,/t/games,/t/historical",Full Throttle Scenery Studies,http://ben304.blogspot.com/2017/03/full-throttle-scenery-studies.html,/u/sevan,6
+9,2017-03-10 16:26:45 -0600,"/t/philosophy,/t/science",Who will own Mars?,http://www.autodidacts.io/who-will-own-mars/,/u/Curiositry,12
+1,2017-03-11 07:15:21 -0600,"/t/historical,/t/practices",Complexity and Strategy,https://hackernoon.com/complexity-and-strategy-325cd7f59a92,/u/calvin,7
+0,2017-03-11 03:26:04 -0600,"/t/pdf,/t/graphics",Ghost Recon Wildlands: Terrain Tools and Technology,https://666uille.files.wordpress.com/2017/03/gdc2017_ghostreconwildlands_terrainandtechnologytools-onlinevideos1.pdf,/u/mikejsavage,9
+8,2017-03-11 14:44:01 -0600,"/t/ask,/t/crypto,/t/security",Crypto-Ransomware: What are we waiting for?,/s/88zadl/crypto_ransomware_what_are_we_waiting_for,/u/rain1,1
+11,2017-03-10 09:05:30 -0600,/t/security,Password Rules Are Bullshit,https://blog.codinghorror.com/password-rules-are-bullshit/,/u/flyingfisch,32
+0,2017-03-11 03:28:07 -0600,"/t/pdf,/t/graphics",Rendering Rainbow Six Siege,http://www.gdcvault.com/play/1022990/Rendering-Rainbow-Six-Siege,/u/mikejsavage,6
+2,2017-03-10 16:57:38 -0600,"/t/pdf,/t/cryptocurrencies",Bitcoin ETF disapproved by SEC,https://www.sec.gov/rules/sro/batsbzx/2017/34-80206.pdf,/u/colin,8
+6,2017-03-10 04:08:34 -0600,/t/testing,Testing is a separate skill and that’s why you are frustrated,https://medium.com/@pankowecki/testing-is-a-separate-skill-and-thats-why-you-are-frustrated-7239b1500a6c,/u/rupert,13
+0,2017-03-10 21:15:44 -0600,"/t/culture,/t/person",How Slack Supports Junior Engineers,https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1,/u/don,10

@@ -1,25 +1,25 @@
-0,2017-10-07 23:49:35 -0500,"['/t/assembly', '/t/hardware', '/t/historical']",Great Microprocessors of the Past and Present (2003),http://www.cpushack.com/CPU/cpu.html,/u/calvin,18
-0,2017-10-08 20:01:27 -0500,['/t/culture'],The Geezer and the Penguin,http://linuxblog.darkduck.com/2017/10/the-geezer-and-penguin.html,/u/singpolyma,3
-0,2017-10-08 16:41:09 -0500,"['/t/video', '/t/clojure', '/t/programming']",Manipulating complex data structures using Specter,https://www.youtube.com/watch?v=rh5J4vacG98,/u/Yogthos,2
-0,2017-10-08 04:33:09 -0500,"['/t/erlang', '/t/performance']",When is an Erlang iolist an iovec?,http://www.cipht.net/2017/01/15/when-is-an-iolist-an-iovec.html,/u/friendlysock,9
-0,2017-10-08 13:06:22 -0500,['/t/elixir'],Subscribe GenStages Under Umbrella,https://medium.com/@iacobson/subscribe-genstages-under-umbrella-1fceec366633,/u/friendlysock,3
-0,2017-10-08 07:29:40 -0500,['/t/devops'],Monitoring in the time of Cloud Native,https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e,/u/jstoja,6
-0,2017-10-08 14:21:08 -0500,['/t/ai'],Is artificial intelligence going off the rails? (Terry Winograd interview),https://theoutline.com/post/2373/is-artificial-intelligence-going-off-the-rails,/u/dgv,2
-14,2017-10-07 09:34:28 -0500,['/t/networking'],Returning to the Original Social Network (2016),https://begriffs.com/posts/2016-07-08-returning-original-social-network.html,/u/jackivan88,24
-1,2017-10-08 05:22:40 -0500,"['/t/compsci', '/t/historical', '/t/practices']",Epigrams on Programming (1982),http://www.developingandstuff.com/2015/02/epigrams-on-programming-highlighted.html,/u/mparramon,4
-0,2017-10-08 06:58:10 -0500,"['/t/reversing', '/t/security', '/t/windows']",Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs,https://googleprojectzero.blogspot.com/2017/10/using-binary-diffing-to-discover.html,/u/mulander,3
-0,2017-10-08 13:16:55 -0500,"['/t/video', '/t/programming']",Reifying Programming,https://vimeo.com/228372549,/u/GeoffWozniak,1
-5,2017-10-07 11:54:14 -0500,['/t/programming'],A Comparison of Four Algorithms Textbooks,https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/,/u/av,14
-0,2017-10-07 17:32:45 -0500,"['/t/design', '/t/practices']",A Five Minutes Guide to Better Typography,http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography,/u/friendlysock,10
-0,2017-10-08 09:05:51 -0500,"['/t/hardware', '/t/historical', '/t/practices']",Fairchild Semiconductor: 60th Anniversity of a Silicon Valley Legend,https://medium.com/chmcore/fairchild-semiconductor-the-60th-anniversary-of-a-silicon-valley-legend-d4355ea15cb5,/u/nickpsecurity,1
-8,2017-10-07 02:21:50 -0500,['/t/systemd'],Dynamic Users with systemd,http://0pointer.net/blog/dynamic-users-with-systemd.html,/u/evaryont,18
-9,2017-10-07 01:16:10 -0500,"['/t/objectivec', '/t/swift']",Why many developers still prefer Objective-C to Swift,https://www.hackingwithswift.com/articles/27/why-many-developers-still-prefer-objective-c-to-swift,/u/av,20
-2,2017-10-07 11:34:58 -0500,"['/t/math', '/t/visualization']",Hasse diagram of the 2008 Olympic medal table,https://tartarus.org/~simon/2008-olympics-hasse/,/u/pstef,9
-0,2017-10-07 10:04:50 -0500,"['/t/c', '/t/crypto']",SHA3-Shake-Kangaroo12 on ziglang,https://bitbucket.org/mihailp/zig-sha3/src,/u/tankfeeder,5
-1,2017-10-07 09:40:31 -0500,['/t/practices'],How to write good hyperlinks (2011),http://iainbroome.com/blog/write-hyperlinks,/u/jackivan88,9
-5,2017-10-07 01:00:58 -0500,['/t/security'],security.txt,https://securitytxt.org/,/u/av,17
-2,2017-10-07 01:16:51 -0500,['/t/law'],The License Zero Manifesto,https://writing.kemitchell.com/2017/09/12/The-License-Zero-Manifesto.html,/u/av,17
-9,2017-10-06 09:04:03 -0500,"['/t/databases', '/t/distributed']",Jepsen: Hazelcast 3.8.3,https://jepsen.io/analyses/hazelcast-3-8-3,/u/aphyr,45
-6,2017-10-07 08:39:03 -0500,['/t/ruby'],Do. Or do not. There is no Object#try,http://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful,/u/pushcx,4
-0,2017-10-07 00:59:07 -0500,['/t/lisp'],The Land of Lisp,http://landoflisp.com/,/u/av,18
-12,2017-10-06 05:56:35 -0500,['/t/networking'],Putting My Blog on IPFS,https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/,/u/gkbrk,52
+0,2017-10-07 23:49:35 -0500,"/t/assembly,/t/hardware,/t/historical",Great Microprocessors of the Past and Present (2003),http://www.cpushack.com/CPU/cpu.html,/u/calvin,18
+0,2017-10-08 20:01:27 -0500,/t/culture,The Geezer and the Penguin,http://linuxblog.darkduck.com/2017/10/the-geezer-and-penguin.html,/u/singpolyma,3
+0,2017-10-08 16:41:09 -0500,"/t/video,/t/clojure,/t/programming",Manipulating complex data structures using Specter,https://www.youtube.com/watch?v=rh5J4vacG98,/u/Yogthos,2
+0,2017-10-08 04:33:09 -0500,"/t/erlang,/t/performance",When is an Erlang iolist an iovec?,http://www.cipht.net/2017/01/15/when-is-an-iolist-an-iovec.html,/u/friendlysock,9
+0,2017-10-08 13:06:22 -0500,/t/elixir,Subscribe GenStages Under Umbrella,https://medium.com/@iacobson/subscribe-genstages-under-umbrella-1fceec366633,/u/friendlysock,3
+0,2017-10-08 07:29:40 -0500,/t/devops,Monitoring in the time of Cloud Native,https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e,/u/jstoja,6
+0,2017-10-08 14:21:08 -0500,/t/ai,Is artificial intelligence going off the rails? (Terry Winograd interview),https://theoutline.com/post/2373/is-artificial-intelligence-going-off-the-rails,/u/dgv,2
+14,2017-10-07 09:34:28 -0500,/t/networking,Returning to the Original Social Network (2016),https://begriffs.com/posts/2016-07-08-returning-original-social-network.html,/u/jackivan88,24
+1,2017-10-08 05:22:40 -0500,"/t/compsci,/t/historical,/t/practices",Epigrams on Programming (1982),http://www.developingandstuff.com/2015/02/epigrams-on-programming-highlighted.html,/u/mparramon,4
+0,2017-10-08 06:58:10 -0500,"/t/reversing,/t/security,/t/windows",Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs,https://googleprojectzero.blogspot.com/2017/10/using-binary-diffing-to-discover.html,/u/mulander,3
+0,2017-10-08 13:16:55 -0500,"/t/video,/t/programming",Reifying Programming,https://vimeo.com/228372549,/u/GeoffWozniak,1
+5,2017-10-07 11:54:14 -0500,/t/programming,A Comparison of Four Algorithms Textbooks,https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/,/u/av,14
+0,2017-10-07 17:32:45 -0500,"/t/design,/t/practices",A Five Minutes Guide to Better Typography,http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography,/u/friendlysock,10
+0,2017-10-08 09:05:51 -0500,"/t/hardware,/t/historical,/t/practices",Fairchild Semiconductor: 60th Anniversity of a Silicon Valley Legend,https://medium.com/chmcore/fairchild-semiconductor-the-60th-anniversary-of-a-silicon-valley-legend-d4355ea15cb5,/u/nickpsecurity,1
+8,2017-10-07 02:21:50 -0500,/t/systemd,Dynamic Users with systemd,http://0pointer.net/blog/dynamic-users-with-systemd.html,/u/evaryont,18
+9,2017-10-07 01:16:10 -0500,"/t/objectivec,/t/swift",Why many developers still prefer Objective-C to Swift,https://www.hackingwithswift.com/articles/27/why-many-developers-still-prefer-objective-c-to-swift,/u/av,20
+2,2017-10-07 11:34:58 -0500,"/t/math,/t/visualization",Hasse diagram of the 2008 Olympic medal table,https://tartarus.org/~simon/2008-olympics-hasse/,/u/pstef,9
+0,2017-10-07 10:04:50 -0500,"/t/c,/t/crypto",SHA3-Shake-Kangaroo12 on ziglang,https://bitbucket.org/mihailp/zig-sha3/src,/u/tankfeeder,5
+1,2017-10-07 09:40:31 -0500,/t/practices,How to write good hyperlinks (2011),http://iainbroome.com/blog/write-hyperlinks,/u/jackivan88,9
+5,2017-10-07 01:00:58 -0500,/t/security,security.txt,https://securitytxt.org/,/u/av,17
+2,2017-10-07 01:16:51 -0500,/t/law,The License Zero Manifesto,https://writing.kemitchell.com/2017/09/12/The-License-Zero-Manifesto.html,/u/av,17
+9,2017-10-06 09:04:03 -0500,"/t/databases,/t/distributed",Jepsen: Hazelcast 3.8.3,https://jepsen.io/analyses/hazelcast-3-8-3,/u/aphyr,45
+6,2017-10-07 08:39:03 -0500,/t/ruby,Do. Or do not. There is no Object#try,http://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful,/u/pushcx,4
+0,2017-10-07 00:59:07 -0500,/t/lisp,The Land of Lisp,http://landoflisp.com/,/u/av,18
+12,2017-10-06 05:56:35 -0500,/t/networking,Putting My Blog on IPFS,https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/,/u/gkbrk,52

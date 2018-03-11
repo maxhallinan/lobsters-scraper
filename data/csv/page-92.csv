@@ -1,25 +1,25 @@
-8,2017-12-16 23:51:00 -0600,['/t/security'],Internet Chemotherapy: The Anti-IoT Botnet Project,https://ghostbin.com/paste/q2vq2,/u/timetoplatypus,17
-0,2017-12-17 21:58:14 -0600,['/t/elixir'],Elixir. Multiple processes. Basics.,http://whatdidilearn.info/2017/12/17/elixir-multiple-processes-basics.html,/u/av,2
-2,2017-12-17 04:05:27 -0600,['/t/cryptocurrencies'],IOTA : A Tangled Mess,http://codesuppository.blogspot.com/2017/12/iota-tangled-mess.html,/u/av,12
-0,2017-12-17 17:28:56 -0600,['/t/graphics'],Embedding Powershell Scripts In PNG Image Files,https://github.com/peewpw/Invoke-PSImage,/u/timetoplatypus,2
-0,2017-12-17 06:53:16 -0600,"['/t/c++', '/t/programming']",Introducing Dasynq - the C++ event-loop library for robust clients,https://davmac.wordpress.com/2017/12/17/introducing-dasynq/,/u/davmac,4
-6,2017-12-17 15:28:41 -0600,"['/t/culture', '/t/games', '/t/historical']",How a counterfeit NES console opened up the Russian games market,http://www.eurogamer.net/articles/2017-12-17-how-a-counterfeit-nes-console-opened-up-the-russian-games-market,/u/calvin,5
-3,2017-12-16 18:33:13 -0600,['/t/lisp'],Common Lisp: A Tutorial on Conditions and Restarts (2008),http://lisper.in/restarts,/u/calvin,17
-0,2017-12-17 10:51:20 -0600,['/t/culture'],My big dumb #MozFest fail (2016),https://openmatt.org/2016/11/01/fail/,/u/calvin,7
-36,2017-12-16 11:39:02 -0600,"['/t/browsers', '/t/privacy', '/t/rant', '/t/security']",Firefox is on a slippery slope,http://sircmpwn.github.io/2017/12/16/Firefox-is-on-a-slippery-slope.html,/u/goodger,76
-0,2017-12-17 11:34:09 -0600,['/t/ruby'],Store Your Files on S3 Using the Ruby Shrine Gem: Part 2 - Direct File Uploads,https://www.ironin.it/blog/store-your-files-on-s3-using-the-ruby-shrine-gem-part-2.html,/u/soulcutter,2
-15,2017-12-16 05:25:10 -0600,['/t/web'],REST is the new SOAP,https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d,/u/av,30
-0,2017-12-17 11:35:41 -0600,['/t/javascript'],Integrate React and Redux better with middleware – Aleksandar Cambas,https://gist.github.com/8b7688a81de48af4abfe2ae2a966c5f1,/u/loige,1
-0,2017-12-16 05:23:08 -0600,['/t/hardware'],Introducing the GoodWatch,https://goodwatch.org/posts/introducing-the-goodwatch/,/u/av,40
-0,2017-12-16 18:20:31 -0600,"['/t/games', '/t/performance', '/t/programming']",Memory Matters: A special RAM edition of Dirty Coding Tricks,https://www.gamasutra.com/view/news/310660/Memory_Matters_A_special_RAM_edition_of_Dirty_Coding_Tricks.php,/u/calvin,9
-0,2017-12-17 04:06:06 -0600,"['/t/c++', '/t/virtualization']",Clang 5 in a Docker container for C++17 development,https://solarianprogrammer.com/2017/12/14/clang-in-docker-container-cpp-17-development/,/u/av,2
-12,2017-12-16 09:08:25 -0600,['/t/cryptocurrencies'],The Creator of Signal Has a Plan to Fix Cryptocurrency,https://www.wired.com/story/mobilecoin-cryptocurrency/,/u/lattera,9
-8,2017-12-16 05:25:42 -0600,['/t/programming'],Clean – A functional programming language,http://clean.cs.ru.nl/Clean,/u/av,12
-4,2017-12-16 15:06:30 -0600,"['/t/api', '/t/javascript', '/t/testing']",Introducing Pointed: Mock backends as a service,https://blog.pointed.io/introducing-pointed/,/u/jfo,2
-0,2017-12-16 11:29:36 -0600,"['/t/culture', '/t/web']",Worker's enquiry in the cynical mode: the unrevolutionary working life of the web developer (2010),https://endnotes.org.uk/issues/2/en/endnotes-sleep-worker-s-enquiry,/u/kel,8
-6,2017-12-15 10:57:37 -0600,"['/t/programming', '/t/unix']",The Oil Lexer: Introduction and Recap,http://www.oilshell.org/blog/2017/12/15.html,/u/andyc,21
-0,2017-12-16 06:36:35 -0600,"['/t/audio', '/t/scala']",Scala at Duolingo with Andre Kenji Horie,https://softwareengineeringdaily.com/2017/12/14/scala-at-duolingo-with-andre-kenji-horie/,/u/calvin,5
-3,2017-12-15 20:54:02 -0600,"['/t/historical', '/t/practices']",The i-Opener Internet Appliance,http://www.jklp.org/profession/papers/netpliance/netpliance.html,/u/calvin,9
-0,2017-12-16 12:03:40 -0600,"['/t/video', '/t/scala', '/t/scaling']",Reducing Microservice Complexity with Kafka and Reactive Streams,https://www.youtube.com/watch?v=k_Y5ieFHGbs,/u/unbalancedparentheses,2
-4,2017-12-15 14:52:37 -0600,['/t/python'],Microsoft Considers Adding Python as an Official Scripting Language to Excel,https://www.bleepingcomputer.com/news/microsoft/microsoft-considers-adding-python-as-an-official-scripting-language-to-excel/,/u/calvin,19
-0,2017-12-15 16:21:04 -0600,"['/t/android', '/t/security']",F-Droid and the Janus Vulnerability,https://f-droid.org/en/2017/12/13/fdroid-and-janus.html,/u/pizzaiolo,17
+8,2017-12-16 23:51:00 -0600,/t/security,Internet Chemotherapy: The Anti-IoT Botnet Project,https://ghostbin.com/paste/q2vq2,/u/timetoplatypus,17
+0,2017-12-17 21:58:14 -0600,/t/elixir,Elixir. Multiple processes. Basics.,http://whatdidilearn.info/2017/12/17/elixir-multiple-processes-basics.html,/u/av,2
+2,2017-12-17 04:05:27 -0600,/t/cryptocurrencies,IOTA : A Tangled Mess,http://codesuppository.blogspot.com/2017/12/iota-tangled-mess.html,/u/av,12
+0,2017-12-17 17:28:56 -0600,/t/graphics,Embedding Powershell Scripts In PNG Image Files,https://github.com/peewpw/Invoke-PSImage,/u/timetoplatypus,2
+0,2017-12-17 06:53:16 -0600,"/t/c++,/t/programming",Introducing Dasynq - the C++ event-loop library for robust clients,https://davmac.wordpress.com/2017/12/17/introducing-dasynq/,/u/davmac,4
+6,2017-12-17 15:28:41 -0600,"/t/culture,/t/games,/t/historical",How a counterfeit NES console opened up the Russian games market,http://www.eurogamer.net/articles/2017-12-17-how-a-counterfeit-nes-console-opened-up-the-russian-games-market,/u/calvin,5
+3,2017-12-16 18:33:13 -0600,/t/lisp,Common Lisp: A Tutorial on Conditions and Restarts (2008),http://lisper.in/restarts,/u/calvin,17
+0,2017-12-17 10:51:20 -0600,/t/culture,My big dumb #MozFest fail (2016),https://openmatt.org/2016/11/01/fail/,/u/calvin,7
+36,2017-12-16 11:39:02 -0600,"/t/browsers,/t/privacy,/t/rant,/t/security",Firefox is on a slippery slope,http://sircmpwn.github.io/2017/12/16/Firefox-is-on-a-slippery-slope.html,/u/goodger,76
+0,2017-12-17 11:34:09 -0600,/t/ruby,Store Your Files on S3 Using the Ruby Shrine Gem: Part 2 - Direct File Uploads,https://www.ironin.it/blog/store-your-files-on-s3-using-the-ruby-shrine-gem-part-2.html,/u/soulcutter,2
+15,2017-12-16 05:25:10 -0600,/t/web,REST is the new SOAP,https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d,/u/av,30
+0,2017-12-17 11:35:41 -0600,/t/javascript,Integrate React and Redux better with middleware – Aleksandar Cambas,https://gist.github.com/8b7688a81de48af4abfe2ae2a966c5f1,/u/loige,1
+0,2017-12-16 05:23:08 -0600,/t/hardware,Introducing the GoodWatch,https://goodwatch.org/posts/introducing-the-goodwatch/,/u/av,40
+0,2017-12-16 18:20:31 -0600,"/t/games,/t/performance,/t/programming",Memory Matters: A special RAM edition of Dirty Coding Tricks,https://www.gamasutra.com/view/news/310660/Memory_Matters_A_special_RAM_edition_of_Dirty_Coding_Tricks.php,/u/calvin,9
+0,2017-12-17 04:06:06 -0600,"/t/c++,/t/virtualization",Clang 5 in a Docker container for C++17 development,https://solarianprogrammer.com/2017/12/14/clang-in-docker-container-cpp-17-development/,/u/av,2
+12,2017-12-16 09:08:25 -0600,/t/cryptocurrencies,The Creator of Signal Has a Plan to Fix Cryptocurrency,https://www.wired.com/story/mobilecoin-cryptocurrency/,/u/lattera,9
+8,2017-12-16 05:25:42 -0600,/t/programming,Clean – A functional programming language,http://clean.cs.ru.nl/Clean,/u/av,12
+4,2017-12-16 15:06:30 -0600,"/t/api,/t/javascript,/t/testing",Introducing Pointed: Mock backends as a service,https://blog.pointed.io/introducing-pointed/,/u/jfo,2
+0,2017-12-16 11:29:36 -0600,"/t/culture,/t/web",Worker's enquiry in the cynical mode: the unrevolutionary working life of the web developer (2010),https://endnotes.org.uk/issues/2/en/endnotes-sleep-worker-s-enquiry,/u/kel,8
+6,2017-12-15 10:57:37 -0600,"/t/programming,/t/unix",The Oil Lexer: Introduction and Recap,http://www.oilshell.org/blog/2017/12/15.html,/u/andyc,21
+0,2017-12-16 06:36:35 -0600,"/t/audio,/t/scala",Scala at Duolingo with Andre Kenji Horie,https://softwareengineeringdaily.com/2017/12/14/scala-at-duolingo-with-andre-kenji-horie/,/u/calvin,5
+3,2017-12-15 20:54:02 -0600,"/t/historical,/t/practices",The i-Opener Internet Appliance,http://www.jklp.org/profession/papers/netpliance/netpliance.html,/u/calvin,9
+0,2017-12-16 12:03:40 -0600,"/t/video,/t/scala,/t/scaling",Reducing Microservice Complexity with Kafka and Reactive Streams,https://www.youtube.com/watch?v=k_Y5ieFHGbs,/u/unbalancedparentheses,2
+4,2017-12-15 14:52:37 -0600,/t/python,Microsoft Considers Adding Python as an Official Scripting Language to Excel,https://www.bleepingcomputer.com/news/microsoft/microsoft-considers-adding-python-as-an-official-scripting-language-to-excel/,/u/calvin,19
+0,2017-12-15 16:21:04 -0600,"/t/android,/t/security",F-Droid and the Janus Vulnerability,https://f-droid.org/en/2017/12/13/fdroid-and-janus.html,/u/pizzaiolo,17

@@ -1,25 +1,25 @@
-0,2014-03-13 17:10:44 -0500,['/t/go'],Go Concurrency Patterns: Pipelines and cancellation,http://blog.golang.org/pipelines,/u/ryandotsmith,14
-2,2014-03-13 13:27:16 -0500,['/t/programming'],Model-Oriented Programming,https://github.com/imatix/gsl/blob/master/README.md#toc2-623,/u/vjoel,9
-5,2014-03-13 11:12:52 -0500,"['/t/api', '/t/programming']","Understanding Practical API Design, Static Typing and Functional Programming",http://blog.tmorris.net/posts/understanding-practical-api-design-static-typing-and-functional-programming/index.html,/u/pushcx,10
-11,2014-03-13 03:13:53 -0500,['/t/openbsd'],OpenSMTPd Now the Default MTA in OpenBSD,http://undeadly.org/cgi?action=article&sid=20140313052817,/u/lynge,18
-1,2014-03-14 02:41:56 -0500,['/t/javascript'],"AngularJS, fighting against controller size",http://www.traininjs.com/angularjs-fighting-against-controller-size/,/u/davidb583,1
-4,2014-03-13 11:53:26 -0500,['/t/programming'],Garbage collection thoughts,http://sebastiansylvan.com/2012/12/01/garbage-collection-thoughts/,/u/tobym,6
-3,2014-03-13 01:25:38 -0500,"['/t/games', '/t/programming']",2048: A Javascript tile game,http://gabrielecirulli.github.io/2048/,/u/codeon1,19
-0,2014-03-12 23:28:11 -0500,['/t/rust'],Writing an OS in Rust in tiny steps,http://jvns.ca/blog/2014/03/12/the-rust-os-story/,/u/whbboyd,23
-1,2014-03-13 15:56:14 -0500,"['/t/slides', '/t/compsci', '/t/math']",Parallel Tree Methods (2010),http://www.fz-juelich.de/ias/jsc/EN/AboutUs/Organisation/ComputationalScience/Simlabs/slpp/Teaching/docs/Heraeus2010_ParallelTreeMethods.pdf?__blob=publicationFile,/u/drturtle,3
-0,2014-03-13 08:50:20 -0500,"['/t/design', '/t/practices', '/t/programming', '/t/visualization']","Editing the Future – Light Table, and Atom, and Then What?",http://spin.atomicobject.com/2014/03/13/light-table-github-atom-ide/,/u/englishm,7
-5,2014-03-13 12:47:30 -0500,['/t/release'],Open Source Tools for Nonprofits: Twilio.org Rapid Response Kit,https://www.twilio.com/blog/2014/03/open-source-nonprofit-tools-twilio-org-rapid-response-kit.html,/u/tobym,2
-0,2014-03-13 17:24:53 -0500,"['/t/javascript', '/t/virtualization']","x86 virtualization in JavaScript, running in your browser and NodeJS",https://github.com/copy/v86,/u/qbit,2
-0,2014-03-13 14:25:21 -0500,"['/t/linux', '/t/openbsd', '/t/release']",portable cwm 5.5,http://marc.info/?l=openbsd-misc&m=139473803112092&w=2,/u/chneukirchen,2
-0,2014-03-13 09:16:04 -0500,['/t/linux'],Multitail,http://www.vanheusden.com/multitail/,/u/napolux,4
-0,2014-03-13 14:14:29 -0500,['/t/practices'],How We Make Trello,http://blog.fogcreek.com/how-we-make-trello/,/u/tedu,1
-6,2014-03-12 17:01:59 -0500,"['/t/android', '/t/security']",Replicant developers find and close Samsung Galaxy back-door,https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-galaxy-backdoor,/u/jcs,8
-1,2014-03-12 15:07:52 -0500,"['/t/show', '/t/rust']",QuickCheck for Rust,https://github.com/BurntSushi/quickcheck,/u/burntsushi,17
-0,2014-03-13 11:05:46 -0500,['/t/databases'],Riak 2.0: Data Types,http://blog.joeljacobson.com/riak-2-0-data-types/,/u/SeanTAllen,1
-0,2014-03-13 16:15:25 -0500,"['/t/culture', '/t/person']",Everyone leads and is led every day: Bryan Cantrill,https://popforms.com/leader-bryan-cantrill/,/u/sevan,1
-7,2014-03-12 10:36:14 -0500,"['/t/show', '/t/go', '/t/programming']",Seq: Generic immutable and lazy data structures for Go,https://github.com/mediocregopher/seq,/u/mediocregopher,15
-6,2014-03-12 11:21:48 -0500,['/t/security'],Why I Don't Recommend Scrypt,http://blog.ircmaxell.com/2014/03/why-i-dont-recommend-scrypt.html,/u/jcs,10
-1,2014-03-12 21:07:59 -0500,"['/t/ios', '/t/security']",Attacking the iOS 7 early_random() PRNG,http://blog.azimuthsecurity.com/2014/03/attacking-ios-7-earlyrandom-prng.html,/u/jcs,4
-0,2014-03-12 15:08:09 -0500,['/t/go'],"logrus - Structured, pleasant logging for Go.",https://github.com/Sirupsen/logrus,/u/walle,11
-3,2014-03-12 17:33:42 -0500,['/t/programming'],Consider the Nimrod Programming Language,http://geetduggal.wordpress.com/2014/03/03/consider-nimrod/,/u/rivd,5
-4,2014-03-12 12:51:26 -0500,"['/t/lua', '/t/release']",LuaJIT 2.0.3 released,http://luajit.org/changes.html,/u/tedu,8
+0,2014-03-13 17:10:44 -0500,/t/go,Go Concurrency Patterns: Pipelines and cancellation,http://blog.golang.org/pipelines,/u/ryandotsmith,14
+2,2014-03-13 13:27:16 -0500,/t/programming,Model-Oriented Programming,https://github.com/imatix/gsl/blob/master/README.md#toc2-623,/u/vjoel,9
+5,2014-03-13 11:12:52 -0500,"/t/api,/t/programming","Understanding Practical API Design, Static Typing and Functional Programming",http://blog.tmorris.net/posts/understanding-practical-api-design-static-typing-and-functional-programming/index.html,/u/pushcx,10
+11,2014-03-13 03:13:53 -0500,/t/openbsd,OpenSMTPd Now the Default MTA in OpenBSD,http://undeadly.org/cgi?action=article&sid=20140313052817,/u/lynge,18
+1,2014-03-14 02:41:56 -0500,/t/javascript,"AngularJS, fighting against controller size",http://www.traininjs.com/angularjs-fighting-against-controller-size/,/u/davidb583,1
+4,2014-03-13 11:53:26 -0500,/t/programming,Garbage collection thoughts,http://sebastiansylvan.com/2012/12/01/garbage-collection-thoughts/,/u/tobym,6
+3,2014-03-13 01:25:38 -0500,"/t/games,/t/programming",2048: A Javascript tile game,http://gabrielecirulli.github.io/2048/,/u/codeon1,19
+0,2014-03-12 23:28:11 -0500,/t/rust,Writing an OS in Rust in tiny steps,http://jvns.ca/blog/2014/03/12/the-rust-os-story/,/u/whbboyd,23
+1,2014-03-13 15:56:14 -0500,"/t/slides,/t/compsci,/t/math",Parallel Tree Methods (2010),http://www.fz-juelich.de/ias/jsc/EN/AboutUs/Organisation/ComputationalScience/Simlabs/slpp/Teaching/docs/Heraeus2010_ParallelTreeMethods.pdf?__blob=publicationFile,/u/drturtle,3
+0,2014-03-13 08:50:20 -0500,"/t/design,/t/practices,/t/programming,/t/visualization","Editing the Future – Light Table, and Atom, and Then What?",http://spin.atomicobject.com/2014/03/13/light-table-github-atom-ide/,/u/englishm,7
+5,2014-03-13 12:47:30 -0500,/t/release,Open Source Tools for Nonprofits: Twilio.org Rapid Response Kit,https://www.twilio.com/blog/2014/03/open-source-nonprofit-tools-twilio-org-rapid-response-kit.html,/u/tobym,2
+0,2014-03-13 17:24:53 -0500,"/t/javascript,/t/virtualization","x86 virtualization in JavaScript, running in your browser and NodeJS",https://github.com/copy/v86,/u/qbit,2
+0,2014-03-13 14:25:21 -0500,"/t/linux,/t/openbsd,/t/release",portable cwm 5.5,http://marc.info/?l=openbsd-misc&m=139473803112092&w=2,/u/chneukirchen,2
+0,2014-03-13 09:16:04 -0500,/t/linux,Multitail,http://www.vanheusden.com/multitail/,/u/napolux,4
+0,2014-03-13 14:14:29 -0500,/t/practices,How We Make Trello,http://blog.fogcreek.com/how-we-make-trello/,/u/tedu,1
+6,2014-03-12 17:01:59 -0500,"/t/android,/t/security",Replicant developers find and close Samsung Galaxy back-door,https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-galaxy-backdoor,/u/jcs,8
+1,2014-03-12 15:07:52 -0500,"/t/show,/t/rust",QuickCheck for Rust,https://github.com/BurntSushi/quickcheck,/u/burntsushi,17
+0,2014-03-13 11:05:46 -0500,/t/databases,Riak 2.0: Data Types,http://blog.joeljacobson.com/riak-2-0-data-types/,/u/SeanTAllen,1
+0,2014-03-13 16:15:25 -0500,"/t/culture,/t/person",Everyone leads and is led every day: Bryan Cantrill,https://popforms.com/leader-bryan-cantrill/,/u/sevan,1
+7,2014-03-12 10:36:14 -0500,"/t/show,/t/go,/t/programming",Seq: Generic immutable and lazy data structures for Go,https://github.com/mediocregopher/seq,/u/mediocregopher,15
+6,2014-03-12 11:21:48 -0500,/t/security,Why I Don't Recommend Scrypt,http://blog.ircmaxell.com/2014/03/why-i-dont-recommend-scrypt.html,/u/jcs,10
+1,2014-03-12 21:07:59 -0500,"/t/ios,/t/security",Attacking the iOS 7 early_random() PRNG,http://blog.azimuthsecurity.com/2014/03/attacking-ios-7-earlyrandom-prng.html,/u/jcs,4
+0,2014-03-12 15:08:09 -0500,/t/go,"logrus - Structured, pleasant logging for Go.",https://github.com/Sirupsen/logrus,/u/walle,11
+3,2014-03-12 17:33:42 -0500,/t/programming,Consider the Nimrod Programming Language,http://geetduggal.wordpress.com/2014/03/03/consider-nimrod/,/u/rivd,5
+4,2014-03-12 12:51:26 -0500,"/t/lua,/t/release",LuaJIT 2.0.3 released,http://luajit.org/changes.html,/u/tedu,8

@@ -1,25 +1,25 @@
-4,2015-06-16 01:31:24 -0500,['/t/release'],"Cheap, Fast or Good. Pick any Two",https://www.jeremymorgan.com/blog/programming/software-craftsmanship/,/u/fiveliterstang,6
-0,2015-06-16 10:27:09 -0500,['/t/security'],St. Louis Cardinals investigated by FBI for hacking Astros player database,http://www.nytimes.com/2015/06/17/sports/baseball/st-louis-cardinals-hack-astros-fbi.html,/u/kb,3
-0,2015-06-16 09:10:56 -0500,"['/t/javascript', '/t/programming', '/t/web']",Some useful guidelines and filters for AngularJS,https://bitcalm.com/blog/useful-guidelines-and-filters-for-angularjs/,/u/m_smirnov,3
-3,2015-06-15 20:21:29 -0500,"['/t/c', '/t/security', '/t/windows']","Dude, where’s my heap?",http://googleprojectzero.blogspot.com/2015/06/dude-wheres-my-heap.html,/u/tedu,13
-1,2015-06-16 06:30:40 -0500,"['/t/pdf', '/t/programming']",Reasoned Programming (paper),http://www.doc.ic.ac.uk/~susan/firstyearbook.pdf,/u/robin,3
-0,2015-06-16 06:02:49 -0500,"['/t/distributed', '/t/practices']","On monoliths, microservices and critical thinking",http://branchandbound.net/blog/architecture/2015/06/on-microservices-monoliths-and-critical-thinking/,/u/SanderMak,3
-0,2015-06-16 10:18:52 -0500,"['/t/android', '/t/design', '/t/ios', '/t/mobile']",Mobile App Design that Scales: Building for Existing and Fututre Devices,http://www.telerik.com/campaigns/mobile-app-design-that-scales,/u/pakostina,1
-0,2015-06-15 15:50:25 -0500,['/t/practices'],What technical recruiters can learn from online dating,http://www.nczonline.net/blog/2013/02/05/what-technical-recruiters-can-learn-from-online-dating/,/u/SeanTAllen,8
-2,2015-06-15 03:04:26 -0500,['/t/release'],Notepad++ leaves SourceForge,https://notepad-plus-plus.org/news/notepad-plus-plus-leaves-sf.html,/u/andrewnez,27
-41,2015-06-15 10:57:41 -0500,['/t/ask'],What's everyone working on this week?,/s/spzcs1/what_s_everyone_working_on_this_week,/u/kyle,23
-4,2015-06-15 21:09:23 -0500,['/t/ask'],Resources on database transactions?,/s/skbnfo/resources_on_database_transactions,/u/kb,5
-0,2015-06-15 08:11:53 -0500,"['/t/compsci', '/t/math', '/t/philosophy']","Functionality, Mutability & Non-Determinism in Type Theory",http://www.jonmsterling.com/posts/2015-06-14-functionality-mutability-non-determinism.html,/u/craigstuntz,11
-13,2015-06-15 03:24:46 -0500,"['/t/cogsci', '/t/science']",The AI Revolution: Road to Superintelligence,http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html,/u/skunkwerks,5
-8,2015-06-15 14:04:03 -0500,"['/t/pdf', '/t/rant', '/t/unix']",UNIX Haters Handbook,http://web.mit.edu/~simsong/www/ugh.pdf,/u/calvin,6
-2,2015-06-15 06:08:05 -0500,['/t/go'],Ten Useful Techniques in Go,http://arslan.io/ten-useful-techniques-in-go,/u/vvh,5
-0,2015-06-15 09:06:19 -0500,"['/t/hardware', '/t/programming']",Is 'Good Enough' Computing Good Enough?,http://cacm.acm.org/magazines/2015/5/186012-is-good-enough-computing-good-enough/fulltext,/u/kellogh,4
-0,2015-06-15 10:23:08 -0500,"['/t/show', '/t/databases']",All the Databases-as-a-Service for testing,https://databasepack.com/,/u/lauris,2
-3,2015-06-14 13:10:45 -0500,['/t/games'],GDC Vault - JPS+: Over 100x Faster than A*,http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than,/u/breul99,12
-0,2015-06-15 06:23:07 -0500,['/t/scala'],Scala School,https://twitter.github.io/scala_school/,/u/robin,2
-5,2015-06-14 07:53:39 -0500,"['/t/book', '/t/privacy']",Little Brother,http://craphound.com/littlebrother/download/,/u/stig,11
-0,2015-06-14 10:27:29 -0500,"['/t/pdf', '/t/freebsd', '/t/openbsd', '/t/unix']",mandoc: becoming the main BSD manual toolbox,http://www.openbsd.org/papers/bsdcan15-mandoc.pdf,/u/fcambus,16
-0,2015-06-14 12:30:53 -0500,"['/t/math', '/t/ml']",Introducing PeaCoq,http://goto.ucsd.edu/~vrobert/coq-en-stock/blog/2015/06/03/introducing-peacoq,/u/stip,10
-62,2015-06-13 11:46:00 -0500,['/t/go'],Why Golang is doomed to succeed,https://texlution.com/post/why-go-is-doomed-to-succeed/,/u/mulander,37
-6,2015-06-14 05:16:00 -0500,['/t/hardware'],"usb-c.me, a collection of usb type-c devices + accessories.",http://jonginn.com/2015/06/10/usb-c-me/,/u/jonginn,5
-0,2015-06-14 06:23:33 -0500,['/t/meta'],Icon Request: fa-lobste-rs · Issue #6750 · FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome/issues/6750,/u/atmosx,6
+4,2015-06-16 01:31:24 -0500,/t/release,"Cheap, Fast or Good. Pick any Two",https://www.jeremymorgan.com/blog/programming/software-craftsmanship/,/u/fiveliterstang,6
+0,2015-06-16 10:27:09 -0500,/t/security,St. Louis Cardinals investigated by FBI for hacking Astros player database,http://www.nytimes.com/2015/06/17/sports/baseball/st-louis-cardinals-hack-astros-fbi.html,/u/kb,3
+0,2015-06-16 09:10:56 -0500,"/t/javascript,/t/programming,/t/web",Some useful guidelines and filters for AngularJS,https://bitcalm.com/blog/useful-guidelines-and-filters-for-angularjs/,/u/m_smirnov,3
+3,2015-06-15 20:21:29 -0500,"/t/c,/t/security,/t/windows","Dude, where’s my heap?",http://googleprojectzero.blogspot.com/2015/06/dude-wheres-my-heap.html,/u/tedu,13
+1,2015-06-16 06:30:40 -0500,"/t/pdf,/t/programming",Reasoned Programming (paper),http://www.doc.ic.ac.uk/~susan/firstyearbook.pdf,/u/robin,3
+0,2015-06-16 06:02:49 -0500,"/t/distributed,/t/practices","On monoliths, microservices and critical thinking",http://branchandbound.net/blog/architecture/2015/06/on-microservices-monoliths-and-critical-thinking/,/u/SanderMak,3
+0,2015-06-16 10:18:52 -0500,"/t/android,/t/design,/t/ios,/t/mobile",Mobile App Design that Scales: Building for Existing and Fututre Devices,http://www.telerik.com/campaigns/mobile-app-design-that-scales,/u/pakostina,1
+0,2015-06-15 15:50:25 -0500,/t/practices,What technical recruiters can learn from online dating,http://www.nczonline.net/blog/2013/02/05/what-technical-recruiters-can-learn-from-online-dating/,/u/SeanTAllen,8
+2,2015-06-15 03:04:26 -0500,/t/release,Notepad++ leaves SourceForge,https://notepad-plus-plus.org/news/notepad-plus-plus-leaves-sf.html,/u/andrewnez,27
+41,2015-06-15 10:57:41 -0500,/t/ask,What's everyone working on this week?,/s/spzcs1/what_s_everyone_working_on_this_week,/u/kyle,23
+4,2015-06-15 21:09:23 -0500,/t/ask,Resources on database transactions?,/s/skbnfo/resources_on_database_transactions,/u/kb,5
+0,2015-06-15 08:11:53 -0500,"/t/compsci,/t/math,/t/philosophy","Functionality, Mutability & Non-Determinism in Type Theory",http://www.jonmsterling.com/posts/2015-06-14-functionality-mutability-non-determinism.html,/u/craigstuntz,11
+13,2015-06-15 03:24:46 -0500,"/t/cogsci,/t/science",The AI Revolution: Road to Superintelligence,http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html,/u/skunkwerks,5
+8,2015-06-15 14:04:03 -0500,"/t/pdf,/t/rant,/t/unix",UNIX Haters Handbook,http://web.mit.edu/~simsong/www/ugh.pdf,/u/calvin,6
+2,2015-06-15 06:08:05 -0500,/t/go,Ten Useful Techniques in Go,http://arslan.io/ten-useful-techniques-in-go,/u/vvh,5
+0,2015-06-15 09:06:19 -0500,"/t/hardware,/t/programming",Is 'Good Enough' Computing Good Enough?,http://cacm.acm.org/magazines/2015/5/186012-is-good-enough-computing-good-enough/fulltext,/u/kellogh,4
+0,2015-06-15 10:23:08 -0500,"/t/show,/t/databases",All the Databases-as-a-Service for testing,https://databasepack.com/,/u/lauris,2
+3,2015-06-14 13:10:45 -0500,/t/games,GDC Vault - JPS+: Over 100x Faster than A*,http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than,/u/breul99,12
+0,2015-06-15 06:23:07 -0500,/t/scala,Scala School,https://twitter.github.io/scala_school/,/u/robin,2
+5,2015-06-14 07:53:39 -0500,"/t/book,/t/privacy",Little Brother,http://craphound.com/littlebrother/download/,/u/stig,11
+0,2015-06-14 10:27:29 -0500,"/t/pdf,/t/freebsd,/t/openbsd,/t/unix",mandoc: becoming the main BSD manual toolbox,http://www.openbsd.org/papers/bsdcan15-mandoc.pdf,/u/fcambus,16
+0,2015-06-14 12:30:53 -0500,"/t/math,/t/ml",Introducing PeaCoq,http://goto.ucsd.edu/~vrobert/coq-en-stock/blog/2015/06/03/introducing-peacoq,/u/stip,10
+62,2015-06-13 11:46:00 -0500,/t/go,Why Golang is doomed to succeed,https://texlution.com/post/why-go-is-doomed-to-succeed/,/u/mulander,37
+6,2015-06-14 05:16:00 -0500,/t/hardware,"usb-c.me, a collection of usb type-c devices + accessories.",http://jonginn.com/2015/06/10/usb-c-me/,/u/jonginn,5
+0,2015-06-14 06:23:33 -0500,/t/meta,Icon Request: fa-lobste-rs · Issue #6750 · FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome/issues/6750,/u/atmosx,6

@@ -1,25 +1,25 @@
-11,2016-07-16 23:28:58 -0500,"['/t/culture', '/t/finance', '/t/mobile']",Pokémon Go is everything that is wrong with late capitalism,http://www.vox.com/2016/7/12/12152728/pokemon-go-economic-problems,/u/kavon,4
-1,2016-07-16 12:21:06 -0500,"['/t/lisp', '/t/programming']",Full Metal Jacket: A Visual Programming Language Based on Lisp,http://web.onetel.com/~hibou/fmj/FMJ.html,/u/unbalancedparentheses,4
-0,2016-07-16 15:34:47 -0500,['/t/databases'],When to use unstructured datatypes in Postgres–Hstore vs. JSON vs. JSONB,https://www.citusdata.com/blog/2016/07/14/choosing-nosql-hstore-json-jsonb/,/u/craigkerstiens,3
-0,2016-07-16 12:29:52 -0500,"['/t/web', '/t/windows']",Just finished my first Pluralsight course: IIS Administration Fundamentals,https://www.pluralsight.com/courses/iis-administration-fundamentals,/u/JeremyMorgan,2
-0,2016-07-16 17:52:49 -0500,"['/t/ml', '/t/networking']",MaBo - MRT and BGP in OCaml,https://github.com/ANSSI-FR/mabo,/u/dwc,2
-13,2016-07-16 00:59:37 -0500,"['/t/culture', '/t/law']",I Don't Give a Shit About Licensing,https://www.rdegges.com/2016/i-dont-give-a-shit-about-licensing/,/u/rdegges,8
-0,2016-07-16 09:37:54 -0500,"['/t/crypto', '/t/security']",The Tor Project Elects New Board of Directors | The Tor Blog,https://blog.torproject.org/blog/tor-project-elects-new-board%C2%A0-directors,/u/rain1,5
-0,2016-07-16 12:13:47 -0500,['/t/programming'],How to Write Your Own Recommendation System,http://elliot.land/how-to-write-your-own-recommendation-system-part-1,/u/unbalancedparentheses,3
-0,2016-07-16 17:55:50 -0500,"['/t/ml', '/t/networking', '/t/security']",TaBi - Track BGP Hijacks,https://github.com/ANSSI-FR/tabi,/u/dwc,1
-0,2016-07-16 06:13:22 -0500,"['/t/reversing', '/t/security']","UPC UBEE EVW3226 WPA2 Password Reverse Engineering, rev 3",https://deadcode.me/blog/2016/07/01/UPC-UBEE-EVW3226-WPA2-Reversing.html,/u/mulander,4
-2,2016-07-15 11:18:14 -0500,"['/t/c', '/t/openbsd']",my int is too big,http://www.tedunangst.com/flak/post/my-int-is-too-big,/u/jcs,31
-2,2016-07-16 09:52:38 -0500,"['/t/art', '/t/culture', '/t/graphics']",Women can be scientists and rockstars too: The emoji world is ditching gender stereotypes,http://qz.com/733265/women-can-be-scientists-and-rockstars-too-the-emoji-world-is-ditching-gender-stereotypes/,/u/rain1,4
-0,2016-07-16 10:49:15 -0500,"['/t/culture', '/t/law']",Misuse of Creative Commons-licensed photo leads to public apology,http://blog.wikimedia.org/2016/07/12/free-license-misuse-apology/,/u/dwc,3
-1,2016-07-15 14:47:50 -0500,['/t/networking'],SYN Flood Mitigation with synsanity,http://githubengineering.com/syn-flood-mitigation-with-synsanity/,/u/calvin,9
-1,2016-07-15 12:22:33 -0500,['/t/programming'],The Architecture of Open Source Applications,http://aosabook.org/en/index.html,/u/fcbsd,12
-0,2016-07-16 06:18:49 -0500,"['/t/release', '/t/security']",Sublist3r v1.0 released : Fast subdomains enumeration tool for penetration testers,http://seclist.us/sublist3r-v1-0-released-fast-subdomains-enumeration-tool-for-penetration-testers.html,/u/mulander,1
-1,2016-07-15 16:15:33 -0500,"['/t/hardware', '/t/science']",Soldering on: The DIY kit for people with type 1 diabetes,http://www.bbc.com/news/technology-36711994,/u/calvin,6
-0,2016-07-15 15:36:42 -0500,"['/t/video', '/t/compsci', '/t/programming']",JuliaCon 2016 (Keynote) | Fortress Features and Lessons Learned | Guy Steele,https://www.youtube.com/watch?v=EZD3Scuv02g,/u/sevan,8
-0,2016-07-15 15:22:33 -0500,"['/t/games', '/t/hardware']",DIY RetroPie Gameboy,http://imgur.com/gallery/XBXNu,/u/pushcx,7
-0,2016-07-15 14:37:05 -0500,['/t/math'],Book of Proof,http://www.people.vcu.edu/~rhammack/BookOfProof/,/u/bsima,7
-0,2016-07-15 16:29:29 -0500,"['/t/games', '/t/historical', '/t/release']",Fallout 1.5: Resurrection,http://resurrection.cz/en/97-the-resurrection-of-fallout-has-come/,/u/mulander,5
-5,2016-07-15 10:18:14 -0500,['/t/release'],Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure,http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/,/u/kb,5
-7,2016-07-14 17:28:27 -0500,"['/t/openbsd', '/t/security']",Multiple Bugs in OpenBSD Kernel,http://marc.info/?l=oss-security&m=146853062403622&w=2,/u/pyk,33
-6,2016-07-15 02:40:12 -0500,"['/t/mac', '/t/release']",m-cli: Swiss Army Knife for Mac OS X,https://github.com/rgcr/m-cli,/u/mjturner,13
-0,2016-07-15 14:51:04 -0500,"['/t/assembly', '/t/virtualization', '/t/windows']",Running Windows 64-bit in QEMU Emulation Mode,https://www.invincealabs.com/blog/2016/07/running-windows-64bit-qemu/,/u/calvin,5
+11,2016-07-16 23:28:58 -0500,"/t/culture,/t/finance,/t/mobile",Pokémon Go is everything that is wrong with late capitalism,http://www.vox.com/2016/7/12/12152728/pokemon-go-economic-problems,/u/kavon,4
+1,2016-07-16 12:21:06 -0500,"/t/lisp,/t/programming",Full Metal Jacket: A Visual Programming Language Based on Lisp,http://web.onetel.com/~hibou/fmj/FMJ.html,/u/unbalancedparentheses,4
+0,2016-07-16 15:34:47 -0500,/t/databases,When to use unstructured datatypes in Postgres–Hstore vs. JSON vs. JSONB,https://www.citusdata.com/blog/2016/07/14/choosing-nosql-hstore-json-jsonb/,/u/craigkerstiens,3
+0,2016-07-16 12:29:52 -0500,"/t/web,/t/windows",Just finished my first Pluralsight course: IIS Administration Fundamentals,https://www.pluralsight.com/courses/iis-administration-fundamentals,/u/JeremyMorgan,2
+0,2016-07-16 17:52:49 -0500,"/t/ml,/t/networking",MaBo - MRT and BGP in OCaml,https://github.com/ANSSI-FR/mabo,/u/dwc,2
+13,2016-07-16 00:59:37 -0500,"/t/culture,/t/law",I Don't Give a Shit About Licensing,https://www.rdegges.com/2016/i-dont-give-a-shit-about-licensing/,/u/rdegges,8
+0,2016-07-16 09:37:54 -0500,"/t/crypto,/t/security",The Tor Project Elects New Board of Directors | The Tor Blog,https://blog.torproject.org/blog/tor-project-elects-new-board%C2%A0-directors,/u/rain1,5
+0,2016-07-16 12:13:47 -0500,/t/programming,How to Write Your Own Recommendation System,http://elliot.land/how-to-write-your-own-recommendation-system-part-1,/u/unbalancedparentheses,3
+0,2016-07-16 17:55:50 -0500,"/t/ml,/t/networking,/t/security",TaBi - Track BGP Hijacks,https://github.com/ANSSI-FR/tabi,/u/dwc,1
+0,2016-07-16 06:13:22 -0500,"/t/reversing,/t/security","UPC UBEE EVW3226 WPA2 Password Reverse Engineering, rev 3",https://deadcode.me/blog/2016/07/01/UPC-UBEE-EVW3226-WPA2-Reversing.html,/u/mulander,4
+2,2016-07-15 11:18:14 -0500,"/t/c,/t/openbsd",my int is too big,http://www.tedunangst.com/flak/post/my-int-is-too-big,/u/jcs,31
+2,2016-07-16 09:52:38 -0500,"/t/art,/t/culture,/t/graphics",Women can be scientists and rockstars too: The emoji world is ditching gender stereotypes,http://qz.com/733265/women-can-be-scientists-and-rockstars-too-the-emoji-world-is-ditching-gender-stereotypes/,/u/rain1,4
+0,2016-07-16 10:49:15 -0500,"/t/culture,/t/law",Misuse of Creative Commons-licensed photo leads to public apology,http://blog.wikimedia.org/2016/07/12/free-license-misuse-apology/,/u/dwc,3
+1,2016-07-15 14:47:50 -0500,/t/networking,SYN Flood Mitigation with synsanity,http://githubengineering.com/syn-flood-mitigation-with-synsanity/,/u/calvin,9
+1,2016-07-15 12:22:33 -0500,/t/programming,The Architecture of Open Source Applications,http://aosabook.org/en/index.html,/u/fcbsd,12
+0,2016-07-16 06:18:49 -0500,"/t/release,/t/security",Sublist3r v1.0 released : Fast subdomains enumeration tool for penetration testers,http://seclist.us/sublist3r-v1-0-released-fast-subdomains-enumeration-tool-for-penetration-testers.html,/u/mulander,1
+1,2016-07-15 16:15:33 -0500,"/t/hardware,/t/science",Soldering on: The DIY kit for people with type 1 diabetes,http://www.bbc.com/news/technology-36711994,/u/calvin,6
+0,2016-07-15 15:36:42 -0500,"/t/video,/t/compsci,/t/programming",JuliaCon 2016 (Keynote) | Fortress Features and Lessons Learned | Guy Steele,https://www.youtube.com/watch?v=EZD3Scuv02g,/u/sevan,8
+0,2016-07-15 15:22:33 -0500,"/t/games,/t/hardware",DIY RetroPie Gameboy,http://imgur.com/gallery/XBXNu,/u/pushcx,7
+0,2016-07-15 14:37:05 -0500,/t/math,Book of Proof,http://www.people.vcu.edu/~rhammack/BookOfProof/,/u/bsima,7
+0,2016-07-15 16:29:29 -0500,"/t/games,/t/historical,/t/release",Fallout 1.5: Resurrection,http://resurrection.cz/en/97-the-resurrection-of-fallout-has-come/,/u/mulander,5
+5,2016-07-15 10:18:14 -0500,/t/release,Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure,http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/,/u/kb,5
+7,2016-07-14 17:28:27 -0500,"/t/openbsd,/t/security",Multiple Bugs in OpenBSD Kernel,http://marc.info/?l=oss-security&m=146853062403622&w=2,/u/pyk,33
+6,2016-07-15 02:40:12 -0500,"/t/mac,/t/release",m-cli: Swiss Army Knife for Mac OS X,https://github.com/rgcr/m-cli,/u/mjturner,13
+0,2016-07-15 14:51:04 -0500,"/t/assembly,/t/virtualization,/t/windows",Running Windows 64-bit in QEMU Emulation Mode,https://www.invincealabs.com/blog/2016/07/running-windows-64bit-qemu/,/u/calvin,5

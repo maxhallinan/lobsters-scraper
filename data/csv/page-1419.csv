@@ -1,25 +1,25 @@
-1,2013-12-31 18:16:37 -0600,['/t/hardware'],Mac Pro Late 2013 Teardown,http://www.ifixit.com/Teardown/Mac+Pro+Late+2013+Teardown/20778,/u/journeysquid,2
-6,2013-12-30 15:36:22 -0600,"['/t/browsers', '/t/privacy', '/t/security']",What’s wrong with in-browser cryptography?,http://tonyarcieri.com/whats-wrong-with-webcrypto,/u/kyle,15
-0,2013-12-31 15:07:48 -0600,['/t/design'],Creating cookie cutters using offsets in OpenSCAD,http://blog.cubehero.com/2013/12/31/creating-cookie-cutters-using-offsets-in-openscad/,/u/iamwil,1
-1,2013-12-30 15:11:52 -0600,"['/t/video', '/t/privacy', '/t/security']",30C3 videos,http://media.ccc.de/browse/congress/2013/,/u/kyle,9
-5,2013-12-30 14:27:38 -0600,['/t/haskell'],Haskell: Haskell and GHC: Too Big to Fail? (panel),http://ezyang.tumblr.com/post/62157468762/haskell-haskell-and-ghc-too-big-to-fail-panel,/u/SeanTAllen,5
-3,2013-12-30 17:20:18 -0600,['/t/lisp'],Potemkin is a collection of clojure facades and workarounds,https://github.com/ztellman/potemkin,/u/SeanTAllen,4
-7,2013-12-30 16:00:10 -0600,"['/t/privacy', '/t/security']",NSA’s ANT Division Catalog of Exploits for Nearly Every Major Software/Hardware/Firmware,http://leaksource.wordpress.com/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/,/u/jm,4
-0,2013-12-30 10:22:52 -0600,['/t/networking'],We're About to Lose Net Neutrality,http://www.wired.com/opinion/2013/11/so-the-internets-about-to-lose-its-net-neutrality,/u/journeysquid,5
-0,2013-12-30 09:57:34 -0600,"['/t/video', '/t/science']",To the Moon! (talk from Clojure/conj),http://www.youtube.com/watch?v=4Sso4HtvJsw,/u/puredanger,4
-0,2013-12-30 08:32:15 -0600,"['/t/video', '/t/event', '/t/security']","30c3: To Protect And Infect, Part 2",https://www.youtube.com/watch?v=b0w36GAyZIA,/u/virtualroot,4
-2,2013-12-29 20:22:44 -0600,"['/t/video', '/t/event', '/t/math', '/t/security']",30c3: The Year in Crypto,https://www.youtube.com/watch?v=Fty107Us7oc,/u/jcs,7
-0,2013-12-29 20:13:08 -0600,['/t/openbsd'],OpenBSD i386 moves to PIE,http://undeadly.org/cgi?action=article&sid=20131229065646,/u/kyle,9
-0,2013-12-29 22:40:32 -0600,['/t/lisp'],Frustrations with namespaces in Clojure,http://programming-puzzler.blogspot.com/2013/12/frustrations-with-namespaces-in-clojure.html,/u/SeanTAllen,3
-0,2013-12-29 11:03:35 -0600,"['/t/hardware', '/t/reversing', '/t/security']",On Hacking MicroSD Cards,http://www.bunniestudios.com/blog/?p=3554,/u/jcs,10
-0,2013-12-29 16:08:26 -0600,"['/t/video', '/t/lisp']",LOOM: graph algorithms in clojure,http://vimeo.com/82507679,/u/SeanTAllen,4
-0,2013-12-29 10:25:44 -0600,['/t/unix'],Xplain - an interactive explanation of the X Window System,http://magcius.github.io/xplain/article/,/u/jcs,7
-0,2013-12-28 16:32:12 -0600,['/t/hardware'],Analysis of SSD Reliability during power-outages,http://lkcl.net/reports/ssd_analysis.html,/u/kyle,11
-0,2013-12-28 23:36:44 -0600,['/t/haskell'],Haskell development environment for your iPad,http://slidetocode.com/raskell/,/u/jm,4
-0,2013-12-28 14:10:37 -0600,['/t/security'],A few more notes on NSA random number generators,http://blog.cryptographyengineering.com/2013/12/a-few-more-notes-on-nsa-random-number.html,/u/kyle,5
-0,2013-12-28 12:03:41 -0600,"['/t/c', '/t/programming']",A glimpse into a new general purpose programming language under development at Microsoft,http://lambda-the-ultimate.org/node/4862,/u/journeysquid,5
-0,2013-12-28 15:58:43 -0600,['/t/rant'],The Downfall of Imperative Programming,https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/,/u/SeanTAllen,6
-0,2013-12-28 14:09:09 -0600,['/t/rant'],Functional programming is a ghetto,http://michaelochurch.wordpress.com/2012/04/24/functional-programming-is-a-ghetto/,/u/SeanTAllen,7
-1,2013-12-28 14:12:02 -0600,['/t/erlang'],Kerlnel is a project trying to move the erlang runtime closer to bare metal,http://kerlnel.org,/u/SeanTAllen,2
-0,2013-12-28 14:10:42 -0600,['/t/programming'],Gen_server in Ocaml,http://functional-orbitz.blogspot.com/2013/12/genserver-in-ocaml.html,/u/SeanTAllen,3
-0,2013-12-27 23:00:33 -0600,"['/t/math', '/t/programming']",Mathematica Minecraft,http://mathematica.stackexchange.com/questions/19669/mathematica-minecraft/19670#19670,/u/jm,3
+1,2013-12-31 18:16:37 -0600,/t/hardware,Mac Pro Late 2013 Teardown,http://www.ifixit.com/Teardown/Mac+Pro+Late+2013+Teardown/20778,/u/journeysquid,2
+6,2013-12-30 15:36:22 -0600,"/t/browsers,/t/privacy,/t/security",What’s wrong with in-browser cryptography?,http://tonyarcieri.com/whats-wrong-with-webcrypto,/u/kyle,15
+0,2013-12-31 15:07:48 -0600,/t/design,Creating cookie cutters using offsets in OpenSCAD,http://blog.cubehero.com/2013/12/31/creating-cookie-cutters-using-offsets-in-openscad/,/u/iamwil,1
+1,2013-12-30 15:11:52 -0600,"/t/video,/t/privacy,/t/security",30C3 videos,http://media.ccc.de/browse/congress/2013/,/u/kyle,9
+5,2013-12-30 14:27:38 -0600,/t/haskell,Haskell: Haskell and GHC: Too Big to Fail? (panel),http://ezyang.tumblr.com/post/62157468762/haskell-haskell-and-ghc-too-big-to-fail-panel,/u/SeanTAllen,5
+3,2013-12-30 17:20:18 -0600,/t/lisp,Potemkin is a collection of clojure facades and workarounds,https://github.com/ztellman/potemkin,/u/SeanTAllen,4
+7,2013-12-30 16:00:10 -0600,"/t/privacy,/t/security",NSA’s ANT Division Catalog of Exploits for Nearly Every Major Software/Hardware/Firmware,http://leaksource.wordpress.com/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/,/u/jm,4
+0,2013-12-30 10:22:52 -0600,/t/networking,We're About to Lose Net Neutrality,http://www.wired.com/opinion/2013/11/so-the-internets-about-to-lose-its-net-neutrality,/u/journeysquid,5
+0,2013-12-30 09:57:34 -0600,"/t/video,/t/science",To the Moon! (talk from Clojure/conj),http://www.youtube.com/watch?v=4Sso4HtvJsw,/u/puredanger,4
+0,2013-12-30 08:32:15 -0600,"/t/video,/t/event,/t/security","30c3: To Protect And Infect, Part 2",https://www.youtube.com/watch?v=b0w36GAyZIA,/u/virtualroot,4
+2,2013-12-29 20:22:44 -0600,"/t/video,/t/event,/t/math,/t/security",30c3: The Year in Crypto,https://www.youtube.com/watch?v=Fty107Us7oc,/u/jcs,7
+0,2013-12-29 20:13:08 -0600,/t/openbsd,OpenBSD i386 moves to PIE,http://undeadly.org/cgi?action=article&sid=20131229065646,/u/kyle,9
+0,2013-12-29 22:40:32 -0600,/t/lisp,Frustrations with namespaces in Clojure,http://programming-puzzler.blogspot.com/2013/12/frustrations-with-namespaces-in-clojure.html,/u/SeanTAllen,3
+0,2013-12-29 11:03:35 -0600,"/t/hardware,/t/reversing,/t/security",On Hacking MicroSD Cards,http://www.bunniestudios.com/blog/?p=3554,/u/jcs,10
+0,2013-12-29 16:08:26 -0600,"/t/video,/t/lisp",LOOM: graph algorithms in clojure,http://vimeo.com/82507679,/u/SeanTAllen,4
+0,2013-12-29 10:25:44 -0600,/t/unix,Xplain - an interactive explanation of the X Window System,http://magcius.github.io/xplain/article/,/u/jcs,7
+0,2013-12-28 16:32:12 -0600,/t/hardware,Analysis of SSD Reliability during power-outages,http://lkcl.net/reports/ssd_analysis.html,/u/kyle,11
+0,2013-12-28 23:36:44 -0600,/t/haskell,Haskell development environment for your iPad,http://slidetocode.com/raskell/,/u/jm,4
+0,2013-12-28 14:10:37 -0600,/t/security,A few more notes on NSA random number generators,http://blog.cryptographyengineering.com/2013/12/a-few-more-notes-on-nsa-random-number.html,/u/kyle,5
+0,2013-12-28 12:03:41 -0600,"/t/c,/t/programming",A glimpse into a new general purpose programming language under development at Microsoft,http://lambda-the-ultimate.org/node/4862,/u/journeysquid,5
+0,2013-12-28 15:58:43 -0600,/t/rant,The Downfall of Imperative Programming,https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/,/u/SeanTAllen,6
+0,2013-12-28 14:09:09 -0600,/t/rant,Functional programming is a ghetto,http://michaelochurch.wordpress.com/2012/04/24/functional-programming-is-a-ghetto/,/u/SeanTAllen,7
+1,2013-12-28 14:12:02 -0600,/t/erlang,Kerlnel is a project trying to move the erlang runtime closer to bare metal,http://kerlnel.org,/u/SeanTAllen,2
+0,2013-12-28 14:10:42 -0600,/t/programming,Gen_server in Ocaml,http://functional-orbitz.blogspot.com/2013/12/genserver-in-ocaml.html,/u/SeanTAllen,3
+0,2013-12-27 23:00:33 -0600,"/t/math,/t/programming",Mathematica Minecraft,http://mathematica.stackexchange.com/questions/19669/mathematica-minecraft/19670#19670,/u/jm,3

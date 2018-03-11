@@ -1,25 +1,25 @@
-3,2016-02-14 16:07:06 -0600,['/t/haskell'],Haskell IO Without the M-word (2015),http://kevinmahoney.co.uk/articles/haskell-io/,/u/pushcx,9
-0,2016-02-15 11:38:50 -0600,['/t/browsers'],The Anatomy of a Frame,https://aerotwist.com/blog/the-anatomy-of-a-frame/,/u/pushcx,1
-1,2016-02-14 13:20:28 -0600,"['/t/show', '/t/assembly', '/t/games']","Building a Tetris Clone in x86 Assembly, pt. Ⅲ: Time, pt. Ⅰ",https://cmcenroe.me/2016/02/14/tetrasm-3-1.html,/u/curtis,9
-0,2016-02-15 10:06:58 -0600,['/t/privacy'],The dark side of big data,https://www.martinruenz.de/article/data-privacy/2016/02/14/the-dark-side-of-big-data.html,/u/pushcx,1
-0,2016-02-15 09:59:44 -0600,['/t/job'],"Integration Engineer (remote, but must speak German)",https://laterpay.workable.com/jobs/204160/,/u/stig,1
-0,2016-02-15 09:50:27 -0600,['/t/mac'],Warning: Bug in Adobe Creative Cloud deletes Mac user data without warning,http://arstechnica.com/apple/2016/02/warning-bug-in-adobe-creative-cloud-deletes-mac-user-data-without-warning/,/u/flyingfisch,1
-0,2016-02-15 09:36:38 -0600,['/t/culture'],"Optimising for communication efficiency, to a fault",http://blog.erlend.sh/optimising-for-communication-efficiency-to-a-fault/,/u/erlend_sh,1
-0,2016-02-14 08:21:52 -0600,['/t/openbsd'],The OpenBSD Foundation 2016 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2016.html,/u/fcambus,26
-0,2016-02-15 09:52:42 -0600,"['/t/culture', '/t/privacy', '/t/web']",It’s been 20 years since John Perry Barlow declared cyberspace independence,http://www.wired.com/2016/02/its-been-20-years-since-this-man-declared-cyberspace-independence/,/u/flyingfisch,2
-0,2016-02-14 23:37:23 -0600,"['/t/graphics', '/t/hardware']",A Large Dataset of Object Scans,http://redwood-data.org/3dscan/index.html,/u/antifuchs,3
-2,2016-02-15 12:51:46 -0600,['/t/graphics'],Moving on from Picasa,http://googlephotos.blogspot.com/2016/02/moving-on-from-picasa.html,/u/flyingfisch,0
-4,2016-02-13 16:02:20 -0600,"['/t/haskell', '/t/programming']",Tests vs Types,http://kevinmahoney.co.uk/articles/tests-vs-types/,/u/kpm,31
-3,2016-02-14 09:18:41 -0600,['/t/assembly'],Assembly is Too High Level: Repetition of REP Instructions That Don’t Repeat Anything,http://xlogicx.net/?p=493,/u/pushcx,6
-0,2016-02-14 05:39:01 -0600,['/t/haskell'],Stack traces in GHCi - Simon Marlow,http://simonmar.github.io/posts/2016-02-12-Stack-traces-in-GHCi.html,/u/sts,13
-0,2016-02-14 20:10:41 -0600,['/t/practices'],Agile Certifications Are Actively Destructive (2014),http://www.drdobbs.com/architecture-and-design/agile-certifications-are-actively-destru/240169223,/u/svm,2
-17,2016-02-13 14:53:16 -0600,"['/t/android', '/t/mobile']",Why I don't like smartphones,https://www.devever.net/~hl/smartphones,/u/nc,28
-0,2016-02-14 13:13:10 -0600,['/t/compsci'],We Need To Talk About Binary Search (2012),http://canhazcode.blogspot.com/2012/02/we-need-to-talk-about-binary-search.html,/u/pushcx,3
-0,2016-02-14 08:53:47 -0600,['/t/vcs'],git tbdiff: difference between topic branches,https://github.com/trast/tbdiff,/u/gasche,4
-1,2016-02-14 09:14:31 -0600,"['/t/browsers', '/t/culture']",Blocking Zuckerberg with uBlock,https://ssl.higg.so/2016/02/14/blocking-zuckerberg-with-ublock.html,/u/robin,5
-3,2016-02-13 13:48:06 -0600,"['/t/pdf', '/t/practices']",All Late Projects Are The Same,http://www.systemsguild.com/pdfs/DeMarcoNov2011.pdf,/u/james,16
-0,2016-02-13 16:28:38 -0600,['/t/distributed'],Benchmarking Message Queue Latency,http://bravenewgeek.com/benchmarking-message-queue-latency/,/u/tylertreat,8
-0,2016-02-14 07:13:39 -0600,['/t/games'],Stimulus Driven Creatures,http://randsinrepose.com/archives/stimulus-driven-creatures/,/u/adsouza,2
-7,2016-02-13 07:15:38 -0600,['/t/programming'],"Write code that is easy to delete, not easy to extend.",http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to,/u/pushcx,20
-0,2016-02-13 21:14:23 -0600,['/t/reversing'],Extracting My Data from the Microsoft Band,http://jeffhuang.com/extracting_my_data_from_the_microsoft_band.html,/u/pushcx,6
-1,2016-02-14 08:14:54 -0600,"['/t/video', '/t/programming']",Designing and Evaluating Reusable Components (2004),https://www.youtube.com/watch?v=ZQ5_u8Lgvyk,/u/pushcx,1
+3,2016-02-14 16:07:06 -0600,/t/haskell,Haskell IO Without the M-word (2015),http://kevinmahoney.co.uk/articles/haskell-io/,/u/pushcx,9
+0,2016-02-15 11:38:50 -0600,/t/browsers,The Anatomy of a Frame,https://aerotwist.com/blog/the-anatomy-of-a-frame/,/u/pushcx,1
+1,2016-02-14 13:20:28 -0600,"/t/show,/t/assembly,/t/games","Building a Tetris Clone in x86 Assembly, pt. Ⅲ: Time, pt. Ⅰ",https://cmcenroe.me/2016/02/14/tetrasm-3-1.html,/u/curtis,9
+0,2016-02-15 10:06:58 -0600,/t/privacy,The dark side of big data,https://www.martinruenz.de/article/data-privacy/2016/02/14/the-dark-side-of-big-data.html,/u/pushcx,1
+0,2016-02-15 09:59:44 -0600,/t/job,"Integration Engineer (remote, but must speak German)",https://laterpay.workable.com/jobs/204160/,/u/stig,1
+0,2016-02-15 09:50:27 -0600,/t/mac,Warning: Bug in Adobe Creative Cloud deletes Mac user data without warning,http://arstechnica.com/apple/2016/02/warning-bug-in-adobe-creative-cloud-deletes-mac-user-data-without-warning/,/u/flyingfisch,1
+0,2016-02-15 09:36:38 -0600,/t/culture,"Optimising for communication efficiency, to a fault",http://blog.erlend.sh/optimising-for-communication-efficiency-to-a-fault/,/u/erlend_sh,1
+0,2016-02-14 08:21:52 -0600,/t/openbsd,The OpenBSD Foundation 2016 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2016.html,/u/fcambus,26
+0,2016-02-15 09:52:42 -0600,"/t/culture,/t/privacy,/t/web",It’s been 20 years since John Perry Barlow declared cyberspace independence,http://www.wired.com/2016/02/its-been-20-years-since-this-man-declared-cyberspace-independence/,/u/flyingfisch,2
+0,2016-02-14 23:37:23 -0600,"/t/graphics,/t/hardware",A Large Dataset of Object Scans,http://redwood-data.org/3dscan/index.html,/u/antifuchs,3
+2,2016-02-15 12:51:46 -0600,/t/graphics,Moving on from Picasa,http://googlephotos.blogspot.com/2016/02/moving-on-from-picasa.html,/u/flyingfisch,0
+4,2016-02-13 16:02:20 -0600,"/t/haskell,/t/programming",Tests vs Types,http://kevinmahoney.co.uk/articles/tests-vs-types/,/u/kpm,31
+3,2016-02-14 09:18:41 -0600,/t/assembly,Assembly is Too High Level: Repetition of REP Instructions That Don’t Repeat Anything,http://xlogicx.net/?p=493,/u/pushcx,6
+0,2016-02-14 05:39:01 -0600,/t/haskell,Stack traces in GHCi - Simon Marlow,http://simonmar.github.io/posts/2016-02-12-Stack-traces-in-GHCi.html,/u/sts,13
+0,2016-02-14 20:10:41 -0600,/t/practices,Agile Certifications Are Actively Destructive (2014),http://www.drdobbs.com/architecture-and-design/agile-certifications-are-actively-destru/240169223,/u/svm,2
+17,2016-02-13 14:53:16 -0600,"/t/android,/t/mobile",Why I don't like smartphones,https://www.devever.net/~hl/smartphones,/u/nc,28
+0,2016-02-14 13:13:10 -0600,/t/compsci,We Need To Talk About Binary Search (2012),http://canhazcode.blogspot.com/2012/02/we-need-to-talk-about-binary-search.html,/u/pushcx,3
+0,2016-02-14 08:53:47 -0600,/t/vcs,git tbdiff: difference between topic branches,https://github.com/trast/tbdiff,/u/gasche,4
+1,2016-02-14 09:14:31 -0600,"/t/browsers,/t/culture",Blocking Zuckerberg with uBlock,https://ssl.higg.so/2016/02/14/blocking-zuckerberg-with-ublock.html,/u/robin,5
+3,2016-02-13 13:48:06 -0600,"/t/pdf,/t/practices",All Late Projects Are The Same,http://www.systemsguild.com/pdfs/DeMarcoNov2011.pdf,/u/james,16
+0,2016-02-13 16:28:38 -0600,/t/distributed,Benchmarking Message Queue Latency,http://bravenewgeek.com/benchmarking-message-queue-latency/,/u/tylertreat,8
+0,2016-02-14 07:13:39 -0600,/t/games,Stimulus Driven Creatures,http://randsinrepose.com/archives/stimulus-driven-creatures/,/u/adsouza,2
+7,2016-02-13 07:15:38 -0600,/t/programming,"Write code that is easy to delete, not easy to extend.",http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to,/u/pushcx,20
+0,2016-02-13 21:14:23 -0600,/t/reversing,Extracting My Data from the Microsoft Band,http://jeffhuang.com/extracting_my_data_from_the_microsoft_band.html,/u/pushcx,6
+1,2016-02-14 08:14:54 -0600,"/t/video,/t/programming",Designing and Evaluating Reusable Components (2004),https://www.youtube.com/watch?v=ZQ5_u8Lgvyk,/u/pushcx,1

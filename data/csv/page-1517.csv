@@ -1,25 +1,25 @@
-1,2012-11-30 12:35:44 -0600,['/t/unix'],Getting Plan 9 running on the Raspberry Pi,http://bendyworks.com/geekville/lab_projects/2012/11/getting-plan-9-running-on-the-raspberry-pi,/u/twopoint718,8
-8,2012-11-30 14:11:24 -0600,"['/t/javascript', '/t/ruby', '/t/web']",RubyJS - A JavaScript standard library based on the Ruby core-lib,http://rubyjs.org/,/u/rob,4
-2,2012-11-30 12:20:36 -0600,['/t/release'],24pullrequests: One PR per day in December!,http://24pullrequests.com/,/u/steveklabnik,5
-0,2012-11-30 14:58:32 -0600,"['/t/rant', '/t/security']",Forget Disclosure — Hackers Should Keep Security Holes to Themselves | Wired Opinion,http://www.wired.com/opinion/2012/11/hacking-choice-and-disclosure/,/u/jcs,6
-1,2012-11-30 10:49:49 -0600,"['/t/compsci', '/t/visualization']",Cellular automata and music,https://www.ibm.com/developerworks/java/library/j-camusic/,/u/tobym,2
-1,2012-11-29 15:35:30 -0600,"['/t/book', '/t/philosophy']","""10 PRINT"" is a book about a one-line Commodore 64 BASIC program",http://10print.org/,/u/steveklabnik,8
-0,2012-11-29 13:09:24 -0600,['/t/ruby'],"""I decided not to introduce full refinement for Ruby 2.0.""",https://bugs.ruby-lang.org/issues/4085#note-175,/u/steveklabnik,12
-2,2012-11-29 09:31:37 -0600,"['/t/design', '/t/web']",UI Antipatterns: Splitting Numbers,http://www.michaelboeke.com/post/36792496832/ui-antipatterns-splitting-numbers,/u/michael,6
-0,2012-11-29 13:23:04 -0600,"['/t/mac', '/t/release', '/t/visualization']",Heard - a Mac application that locally records what you listen to in iTunes,http://macwright.org/2012/10/01/heard.html,/u/jcs,4
-0,2012-11-29 18:14:06 -0600,"['/t/event', '/t/lua']",Lua Workshop 2012 Presentations,http://www.lua.org/wshop12.html,/u/jturner,2
-0,2012-11-29 10:59:44 -0600,['/t/ruby'],Declaring war on the framework: What I've been cleaning up for the past year,http://psychedeli.ca/2012/08/17/declaring-war-on-the-framework,/u/tubbo,5
-0,2012-11-29 13:57:58 -0600,"['/t/java', '/t/web']",Introduction to Netty,http://seeallhearall.blogspot.co.uk/2012/05/netty-tutorial-part-1-introduction-to.html,/u/tobym,2
-0,2012-11-29 17:00:09 -0600,"['/t/law', '/t/privacy']",Tor operator charged for child porn transmitted over his servers,http://arstechnica.com/tech-policy/2012/11/tor-operator-charged-for-child-porn-transmitted-over-his-servers/,/u/jcs,1
-2,2012-11-29 08:13:18 -0600,"['/t/devops', '/t/hardware', '/t/release', '/t/visualization']",Graphdat - Real-time application perfomance monitoring,https://dashboard.graphdat.com/landing,/u/stevedomin,2
-0,2012-11-29 16:33:27 -0600,"['/t/php', '/t/scaling']",Speeding up PHP-based development with HipHop VM,https://www.facebook.com/notes/facebook-engineering/speeding-up-php-based-development-with-hiphop-vm/10151170460698920,/u/jcs,1
-0,2012-11-29 03:41:11 -0600,"['/t/linux', '/t/unix']","UNIX V5, OpenBSD, Plan 9, FreeBSD, and GNU coreutils implementations of echo.c — Gist",https://gist.github.com/1091803,/u/trousers,6
-3,2012-11-28 14:17:41 -0600,['/t/philosophy'],Software Engineers should keep lab notebooks,http://blog.nelhage.com/2010/05/software-and-lab-notebooks/,/u/tobym,14
-4,2012-11-28 13:39:34 -0600,"['/t/news', '/t/ruby', '/t/virtualization']",Announcing HashiCorp: a company for Vagrant,http://www.hashicorp.com/blog/announcing-hashicorp.html,/u/steveklabnik,11
-0,2012-11-29 08:47:57 -0600,['/t/philosophy'],"Squashed Philosophers - major works of philosophy, condensed",http://sqapo.com/chronology.htm,/u/steveklabnik,1
-0,2012-11-29 00:49:20 -0600,"['/t/javascript', '/t/web']",Breakpoint Actions in JavaScript,http://www.randomthink.net/blog/2012/11/breakpoint-actions-in-javascript/,/u/vladikoff,3
-3,2012-11-28 11:41:03 -0600,['/t/philosophy'],Philosophy for Dummies,http://blog.mjburgess.co.uk/2012/11/philosophy-for-dummies.html,/u/steveklabnik,5
-0,2012-11-28 13:08:39 -0600,['/t/javascript'],Gator.js - simple javascript event delegation in ~800 bytes,http://craig.is/riding/gators,/u/craig,3
-0,2012-11-28 14:19:36 -0600,"['/t/video', '/t/compsci']",Data Structures: The Code That Isn't There,http://www.infoq.com/presentations/Data-Structures,/u/silentbicycle,1
-0,2012-11-28 13:30:24 -0600,['/t/web'],CSS Based fadeOut Effect,http://brandenwiegand.com/2012/11/26/css-based-fadeout-effect/,/u/lazukars,1
-3,2012-11-27 21:56:30 -0600,['/t/python'],Ninja-ide Is Not Just Another IDE,http://ninja-ide.org/,/u/mc,4
+1,2012-11-30 12:35:44 -0600,/t/unix,Getting Plan 9 running on the Raspberry Pi,http://bendyworks.com/geekville/lab_projects/2012/11/getting-plan-9-running-on-the-raspberry-pi,/u/twopoint718,8
+8,2012-11-30 14:11:24 -0600,"/t/javascript,/t/ruby,/t/web",RubyJS - A JavaScript standard library based on the Ruby core-lib,http://rubyjs.org/,/u/rob,4
+2,2012-11-30 12:20:36 -0600,/t/release,24pullrequests: One PR per day in December!,http://24pullrequests.com/,/u/steveklabnik,5
+0,2012-11-30 14:58:32 -0600,"/t/rant,/t/security",Forget Disclosure — Hackers Should Keep Security Holes to Themselves | Wired Opinion,http://www.wired.com/opinion/2012/11/hacking-choice-and-disclosure/,/u/jcs,6
+1,2012-11-30 10:49:49 -0600,"/t/compsci,/t/visualization",Cellular automata and music,https://www.ibm.com/developerworks/java/library/j-camusic/,/u/tobym,2
+1,2012-11-29 15:35:30 -0600,"/t/book,/t/philosophy","""10 PRINT"" is a book about a one-line Commodore 64 BASIC program",http://10print.org/,/u/steveklabnik,8
+0,2012-11-29 13:09:24 -0600,/t/ruby,"""I decided not to introduce full refinement for Ruby 2.0.""",https://bugs.ruby-lang.org/issues/4085#note-175,/u/steveklabnik,12
+2,2012-11-29 09:31:37 -0600,"/t/design,/t/web",UI Antipatterns: Splitting Numbers,http://www.michaelboeke.com/post/36792496832/ui-antipatterns-splitting-numbers,/u/michael,6
+0,2012-11-29 13:23:04 -0600,"/t/mac,/t/release,/t/visualization",Heard - a Mac application that locally records what you listen to in iTunes,http://macwright.org/2012/10/01/heard.html,/u/jcs,4
+0,2012-11-29 18:14:06 -0600,"/t/event,/t/lua",Lua Workshop 2012 Presentations,http://www.lua.org/wshop12.html,/u/jturner,2
+0,2012-11-29 10:59:44 -0600,/t/ruby,Declaring war on the framework: What I've been cleaning up for the past year,http://psychedeli.ca/2012/08/17/declaring-war-on-the-framework,/u/tubbo,5
+0,2012-11-29 13:57:58 -0600,"/t/java,/t/web",Introduction to Netty,http://seeallhearall.blogspot.co.uk/2012/05/netty-tutorial-part-1-introduction-to.html,/u/tobym,2
+0,2012-11-29 17:00:09 -0600,"/t/law,/t/privacy",Tor operator charged for child porn transmitted over his servers,http://arstechnica.com/tech-policy/2012/11/tor-operator-charged-for-child-porn-transmitted-over-his-servers/,/u/jcs,1
+2,2012-11-29 08:13:18 -0600,"/t/devops,/t/hardware,/t/release,/t/visualization",Graphdat - Real-time application perfomance monitoring,https://dashboard.graphdat.com/landing,/u/stevedomin,2
+0,2012-11-29 16:33:27 -0600,"/t/php,/t/scaling",Speeding up PHP-based development with HipHop VM,https://www.facebook.com/notes/facebook-engineering/speeding-up-php-based-development-with-hiphop-vm/10151170460698920,/u/jcs,1
+0,2012-11-29 03:41:11 -0600,"/t/linux,/t/unix","UNIX V5, OpenBSD, Plan 9, FreeBSD, and GNU coreutils implementations of echo.c — Gist",https://gist.github.com/1091803,/u/trousers,6
+3,2012-11-28 14:17:41 -0600,/t/philosophy,Software Engineers should keep lab notebooks,http://blog.nelhage.com/2010/05/software-and-lab-notebooks/,/u/tobym,14
+4,2012-11-28 13:39:34 -0600,"/t/news,/t/ruby,/t/virtualization",Announcing HashiCorp: a company for Vagrant,http://www.hashicorp.com/blog/announcing-hashicorp.html,/u/steveklabnik,11
+0,2012-11-29 08:47:57 -0600,/t/philosophy,"Squashed Philosophers - major works of philosophy, condensed",http://sqapo.com/chronology.htm,/u/steveklabnik,1
+0,2012-11-29 00:49:20 -0600,"/t/javascript,/t/web",Breakpoint Actions in JavaScript,http://www.randomthink.net/blog/2012/11/breakpoint-actions-in-javascript/,/u/vladikoff,3
+3,2012-11-28 11:41:03 -0600,/t/philosophy,Philosophy for Dummies,http://blog.mjburgess.co.uk/2012/11/philosophy-for-dummies.html,/u/steveklabnik,5
+0,2012-11-28 13:08:39 -0600,/t/javascript,Gator.js - simple javascript event delegation in ~800 bytes,http://craig.is/riding/gators,/u/craig,3
+0,2012-11-28 14:19:36 -0600,"/t/video,/t/compsci",Data Structures: The Code That Isn't There,http://www.infoq.com/presentations/Data-Structures,/u/silentbicycle,1
+0,2012-11-28 13:30:24 -0600,/t/web,CSS Based fadeOut Effect,http://brandenwiegand.com/2012/11/26/css-based-fadeout-effect/,/u/lazukars,1
+3,2012-11-27 21:56:30 -0600,/t/python,Ninja-ide Is Not Just Another IDE,http://ninja-ide.org/,/u/mc,4

@@ -1,25 +1,25 @@
-0,2017-01-16 09:26:18 -0600,['/t/css'],Hyphenation with Element Queries,http://codepen.io/tomhodgins/pen/rrwQOP,/u/innovati,2
-0,2017-01-16 03:22:32 -0600,"['/t/compsci', '/t/math', '/t/python']",Deep Probabilistic Programming,https://arxiv.org/abs/1701.03757,/u/tf,9
-3,2017-01-15 10:23:10 -0600,['/t/security'],Why No Smartphone Is Secure and Where to Improve Them,https://news.ycombinator.com/item?id=10906999,/u/nickpsecurity,24
-0,2017-01-16 14:45:07 -0600,"['/t/culture', '/t/programming', '/t/unix']","Odd Comments and Strange Doings in Unix [Dennis Ritchie, 2002]",https://www.bell-labs.com/usr/dmr/www/odd.html,/u/orib,4
-6,2017-01-15 16:09:29 -0600,"['/t/reversing', '/t/security']","We reverse engineered 16k apps, here’s what we found",https://medium.com/@mkagenius/afdccb592b81,/u/goncalo,17
-0,2017-01-16 16:42:11 -0600,"['/t/historical', '/t/philosophy']",Manuel DeLanda - Open-Source: A Movement in Search of a Philosophy (2001),http://www.cddc.vt.edu/host/delanda/pages/opensource.htm,/u/bsima,1
-7,2017-01-15 13:46:26 -0600,"['/t/games', '/t/programming', '/t/python']",The Ren'Py Visual Novel Engine,https://www.renpy.org,/u/friendlysock,16
-0,2017-01-16 08:17:51 -0600,['/t/hardware'],Compute Module 3 out now,https://www.raspberrypi.org/magpi/compute-module-3/,/u/av,3
-10,2017-01-15 02:58:43 -0600,['/t/programming'],Let’s Stop Ascribing Meaning to Code Points,http://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/,/u/gandro,45
-0,2017-01-15 22:20:42 -0600,['/t/programming'],What Happens to OO When Processors Are Free?,http://blog.metaobject.com/2015/08/what-happens-to-oo-when-processors-are.html,/u/av,8
-3,2017-01-15 14:22:54 -0600,"['/t/api', '/t/programming']",Morbid bindings,http://rant.gulbrandsen.priv.no/programming/morbid-bindings,/u/tokenrove,15
-0,2017-01-16 12:42:53 -0600,['/t/design'],A Dao of Product Design,http://alistapart.com/article/dao-of-product-design,/u/flyingfisch,1
-0,2017-01-16 08:03:30 -0600,"['/t/graphics', '/t/mobile']",SSAO for the masses (2014),http://aurelm.com/2014/08/16/ssao-for-the-masses/,/u/calvin,2
-11,2017-01-15 11:27:17 -0600,['/t/nodejs'],Tiny Guide to Non Fancy Node,https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node,/u/sotojuan,11
-3,2017-01-15 13:57:11 -0600,"['/t/security', '/t/web']",Stealing passwords from McDonald's users,https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users,/u/calvin,10
-0,2017-01-15 22:22:29 -0600,"['/t/browsers', '/t/vim']",Vimperator: a Vim-like Firefox,http://www.vimperator.org/vimperator,/u/av,5
-0,2017-01-15 22:02:11 -0600,['/t/databases'],PostgreSQL Inheritance,https://swth.ch/2016/12/03/postgresql-inheritance/,/u/pushcx,5
-4,2017-01-15 11:02:21 -0600,"['/t/games', '/t/hardware', '/t/rant']",Spurn the computer game industry,http://www.naughtycomputer.uk/spurn_the_computer_game_industry.html,/u/Xylon,8
-1,2017-01-15 14:39:08 -0600,['/t/linux'],Blobless Linux on Raspberry Pi (rpi-open-firmware),http://crna.cc/b/11,/u/sevan,9
-0,2017-01-15 21:17:43 -0600,['/t/programming'],Behind the Veil: A Peek at GNU Radio's Buffer Architecture,http://gnuradio.org/blog/buffers/,/u/pushcx,4
-1,2017-01-15 19:30:20 -0600,"['/t/linux', '/t/mobile']",The Case for Ubuntu Phone,http://gould.cx/ted/blog/2017/01/14/The-Case-for-Ubuntu-Phone/,/u/calvin,3
-3,2017-01-15 03:48:55 -0600,['/t/android'],microG - re-implementation of Google’s proprietary Android apps and libraries,https://microg.org/,/u/reezer,22
-0,2017-01-15 18:40:02 -0600,"['/t/design', '/t/math']",Fitts’s Law,https://en.wikipedia.org/wiki/Fitts%27s_law,/u/nil,5
-1,2017-01-15 13:55:01 -0600,['/t/mac'],Mach-O Executables (2013),https://www.objc.io/issues/6-build-tools/mach-o-executables/,/u/sevan,6
-8,2017-01-15 02:50:48 -0600,['/t/privacy'],online social behaviors: the Real Name fallacy,https://blog.coralproject.net/the-real-name-fallacy/,/u/gasche,14
+0,2017-01-16 09:26:18 -0600,/t/css,Hyphenation with Element Queries,http://codepen.io/tomhodgins/pen/rrwQOP,/u/innovati,2
+0,2017-01-16 03:22:32 -0600,"/t/compsci,/t/math,/t/python",Deep Probabilistic Programming,https://arxiv.org/abs/1701.03757,/u/tf,9
+3,2017-01-15 10:23:10 -0600,/t/security,Why No Smartphone Is Secure and Where to Improve Them,https://news.ycombinator.com/item?id=10906999,/u/nickpsecurity,24
+0,2017-01-16 14:45:07 -0600,"/t/culture,/t/programming,/t/unix","Odd Comments and Strange Doings in Unix [Dennis Ritchie, 2002]",https://www.bell-labs.com/usr/dmr/www/odd.html,/u/orib,4
+6,2017-01-15 16:09:29 -0600,"/t/reversing,/t/security","We reverse engineered 16k apps, here’s what we found",https://medium.com/@mkagenius/afdccb592b81,/u/goncalo,17
+0,2017-01-16 16:42:11 -0600,"/t/historical,/t/philosophy",Manuel DeLanda - Open-Source: A Movement in Search of a Philosophy (2001),http://www.cddc.vt.edu/host/delanda/pages/opensource.htm,/u/bsima,1
+7,2017-01-15 13:46:26 -0600,"/t/games,/t/programming,/t/python",The Ren'Py Visual Novel Engine,https://www.renpy.org,/u/friendlysock,16
+0,2017-01-16 08:17:51 -0600,/t/hardware,Compute Module 3 out now,https://www.raspberrypi.org/magpi/compute-module-3/,/u/av,3
+10,2017-01-15 02:58:43 -0600,/t/programming,Let’s Stop Ascribing Meaning to Code Points,http://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/,/u/gandro,45
+0,2017-01-15 22:20:42 -0600,/t/programming,What Happens to OO When Processors Are Free?,http://blog.metaobject.com/2015/08/what-happens-to-oo-when-processors-are.html,/u/av,8
+3,2017-01-15 14:22:54 -0600,"/t/api,/t/programming",Morbid bindings,http://rant.gulbrandsen.priv.no/programming/morbid-bindings,/u/tokenrove,15
+0,2017-01-16 12:42:53 -0600,/t/design,A Dao of Product Design,http://alistapart.com/article/dao-of-product-design,/u/flyingfisch,1
+0,2017-01-16 08:03:30 -0600,"/t/graphics,/t/mobile",SSAO for the masses (2014),http://aurelm.com/2014/08/16/ssao-for-the-masses/,/u/calvin,2
+11,2017-01-15 11:27:17 -0600,/t/nodejs,Tiny Guide to Non Fancy Node,https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node,/u/sotojuan,11
+3,2017-01-15 13:57:11 -0600,"/t/security,/t/web",Stealing passwords from McDonald's users,https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users,/u/calvin,10
+0,2017-01-15 22:22:29 -0600,"/t/browsers,/t/vim",Vimperator: a Vim-like Firefox,http://www.vimperator.org/vimperator,/u/av,5
+0,2017-01-15 22:02:11 -0600,/t/databases,PostgreSQL Inheritance,https://swth.ch/2016/12/03/postgresql-inheritance/,/u/pushcx,5
+4,2017-01-15 11:02:21 -0600,"/t/games,/t/hardware,/t/rant",Spurn the computer game industry,http://www.naughtycomputer.uk/spurn_the_computer_game_industry.html,/u/Xylon,8
+1,2017-01-15 14:39:08 -0600,/t/linux,Blobless Linux on Raspberry Pi (rpi-open-firmware),http://crna.cc/b/11,/u/sevan,9
+0,2017-01-15 21:17:43 -0600,/t/programming,Behind the Veil: A Peek at GNU Radio's Buffer Architecture,http://gnuradio.org/blog/buffers/,/u/pushcx,4
+1,2017-01-15 19:30:20 -0600,"/t/linux,/t/mobile",The Case for Ubuntu Phone,http://gould.cx/ted/blog/2017/01/14/The-Case-for-Ubuntu-Phone/,/u/calvin,3
+3,2017-01-15 03:48:55 -0600,/t/android,microG - re-implementation of Google’s proprietary Android apps and libraries,https://microg.org/,/u/reezer,22
+0,2017-01-15 18:40:02 -0600,"/t/design,/t/math",Fitts’s Law,https://en.wikipedia.org/wiki/Fitts%27s_law,/u/nil,5
+1,2017-01-15 13:55:01 -0600,/t/mac,Mach-O Executables (2013),https://www.objc.io/issues/6-build-tools/mach-o-executables/,/u/sevan,6
+8,2017-01-15 02:50:48 -0600,/t/privacy,online social behaviors: the Real Name fallacy,https://blog.coralproject.net/the-real-name-fallacy/,/u/gasche,14

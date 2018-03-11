@@ -1,25 +1,25 @@
-0,2017-11-22 10:46:17 -0600,['/t/devops'],Getting Started With CrateDB as an MQTT Endpoint,https://crate.io/a/getting-started-cratedb-mqtt-endpoint/,/u/nslater,5
-5,2017-11-21 16:48:27 -0600,"['/t/privacy', '/t/security']",Uber Concealed Cyberattack That Exposed 57 Million People’s Data,https://www.bloomberg.com/news/articles/2017-11-21/uber-concealed-cyberattack-that-exposed-57-million-people-s-data,/u/numberten,25
-7,2017-11-21 17:57:57 -0600,['/t/web'],Has Web Advertising Jumped The Shark?,http://blog.dshr.org/2017/11/has-web-advertising-jumped-shark.html,/u/tokenrove,15
-23,2017-11-21 08:04:52 -0600,"['/t/android', '/t/privacy', '/t/security']",Google collects Android users' locations even when location services are disabled,https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/,/u/unbalancedparentheses,43
-49,2017-11-21 14:46:58 -0600,['/t/meta'],Can we get rid of individual user scores?,/s/liks2o/can_we_get_rid_individual_user_scores,/u/mordae,18
-14,2017-11-21 12:06:23 -0600,['/t/privacy'],FCC plan would give Internet providers power to choose the sites customers see and use,https://www.washingtonpost.com/news/the-switch/wp/2017/11/21/the-fcc-has-unveiled-its-plan-to-rollback-its-net-neutrality-rules/,/u/bsima,29
-7,2017-11-21 12:49:26 -0600,"['/t/plt', '/t/programming']",Calculating Burn Rates in J,https://www.hillelwayne.com/post/burn-rate-j/,/u/hwayne,15
-0,2017-11-22 13:21:36 -0600,"['/t/programming', '/t/python', '/t/visualization']",Applied Data Science with Python (free courses),https://cognitiveclass.ai/learn/data-science-with-python/,/u/antonio,2
-0,2017-11-22 08:26:50 -0600,"['/t/compsci', '/t/math']",Demystifying Floating Point Precision,https://blog.demofox.org/2017/11/21/floating-point-precision/,/u/calvin,4
-33,2017-11-21 04:47:50 -0600,"['/t/compilers', '/t/programming']",Low Hanging Fruit of Programming Language Design,http://250bpm.com/blog:112,/u/sustrik,24
-3,2017-11-21 15:49:46 -0600,"['/t/video', '/t/web']",PureScript: Tomorrow's JavaScript Today,https://vimeo.com/243148125,/u/krisajenkins,11
-0,2017-11-22 11:55:48 -0600,"['/t/pdf', '/t/compsci', '/t/privacy', '/t/web']",Privad: Practical Privacy in Online Advertising (2011),http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.4751&rep=rep1&type=pdf,/u/nickpsecurity,2
-0,2017-11-21 21:43:52 -0600,['/t/scala'],"Constraints are for methods, not data",https://brianmckenna.org/blog/constraints_are_for_methods,/u/puffnfresh,5
-0,2017-11-22 13:24:10 -0600,['/t/math'],Contrast codes are an implementation detail,http://scattered-thoughts.net/blog/2017/11/21/contrast-coding-is-an-implementation-detail/,/u/pushcx,1
-4,2017-11-21 13:14:49 -0600,"['/t/historical', '/t/web']",Gopher: Remembering the web that wasn't,http://ajroach42.github.io/gopher-remembering-the-web-that-wasn-t/,/u/calvin,13
-0,2017-11-21 22:26:35 -0600,['/t/security'],TP-Link serves outdated or no firmware at all on 30% of its European websites,https://www.ctrl.blog/entry/tplink-firmware-outdated-downloads,/u/calvin,7
-3,2017-11-21 11:08:13 -0600,['/t/security'],"No, you’re not being paranoid. Sites really are watching your every move",https://arstechnica.com/tech-policy/2017/11/an-alarming-number-of-sites-employ-privacy-invading-session-replay-scripts/,/u/unbalancedparentheses,20
-0,2017-11-22 09:25:32 -0600,['/t/databases'],CockroachDB: Executing Parallel Statements to Improve Performance,https://www.cockroachlabs.com/blog/parallel-sql-statements/,/u/unbalancedparentheses,1
-0,2017-11-22 08:25:00 -0600,['/t/programming'],The Future of Languages in Visual Studio,https://poshtools.com/2017/11/22/the-future-of-languages-in-visual-studio/,/u/calvin,1
-1,2017-11-21 19:10:08 -0600,['/t/scala'],"So, what's wrong with SBT?",http://www.lihaoyi.com/post/SowhatswrongwithSBT.html,/u/djsumdog,6
-1,2017-11-21 13:51:22 -0600,"['/t/graphics', '/t/performance', '/t/windows']",Desktop compositing latency is real and it annoys me,http://www.lofibucket.com/articles/dwm_latency.html,/u/pushcx,8
-0,2017-11-21 06:28:31 -0600,['/t/browsers'],Extensions in Firefox 58,https://blog.mozilla.org/addons/2017/11/20/extensions-in-firefox-58/,/u/calvin,19
-0,2017-11-21 15:28:42 -0600,"['/t/hardware', '/t/security']",NERF - Trammell Hudson's Projects (the Linux/Go Intel ME replacement project),https://trmm.net/NERF,/u/hobbes,6
-0,2017-11-22 03:05:28 -0600,['/t/elixir'],Phoenix WebSockets Under a Microscope,https://zorbash.com/post/phoenix-websockets-under-a-microscope/,/u/dmathieu,1
-2,2017-11-21 02:01:40 -0600,['/t/linux'],How do groups work on Linux?,https://jvns.ca/blog/2017/11/20/groups/,/u/quobit,21
+0,2017-11-22 10:46:17 -0600,/t/devops,Getting Started With CrateDB as an MQTT Endpoint,https://crate.io/a/getting-started-cratedb-mqtt-endpoint/,/u/nslater,5
+5,2017-11-21 16:48:27 -0600,"/t/privacy,/t/security",Uber Concealed Cyberattack That Exposed 57 Million People’s Data,https://www.bloomberg.com/news/articles/2017-11-21/uber-concealed-cyberattack-that-exposed-57-million-people-s-data,/u/numberten,25
+7,2017-11-21 17:57:57 -0600,/t/web,Has Web Advertising Jumped The Shark?,http://blog.dshr.org/2017/11/has-web-advertising-jumped-shark.html,/u/tokenrove,15
+23,2017-11-21 08:04:52 -0600,"/t/android,/t/privacy,/t/security",Google collects Android users' locations even when location services are disabled,https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/,/u/unbalancedparentheses,43
+49,2017-11-21 14:46:58 -0600,/t/meta,Can we get rid of individual user scores?,/s/liks2o/can_we_get_rid_individual_user_scores,/u/mordae,18
+14,2017-11-21 12:06:23 -0600,/t/privacy,FCC plan would give Internet providers power to choose the sites customers see and use,https://www.washingtonpost.com/news/the-switch/wp/2017/11/21/the-fcc-has-unveiled-its-plan-to-rollback-its-net-neutrality-rules/,/u/bsima,29
+7,2017-11-21 12:49:26 -0600,"/t/plt,/t/programming",Calculating Burn Rates in J,https://www.hillelwayne.com/post/burn-rate-j/,/u/hwayne,15
+0,2017-11-22 13:21:36 -0600,"/t/programming,/t/python,/t/visualization",Applied Data Science with Python (free courses),https://cognitiveclass.ai/learn/data-science-with-python/,/u/antonio,2
+0,2017-11-22 08:26:50 -0600,"/t/compsci,/t/math",Demystifying Floating Point Precision,https://blog.demofox.org/2017/11/21/floating-point-precision/,/u/calvin,4
+33,2017-11-21 04:47:50 -0600,"/t/compilers,/t/programming",Low Hanging Fruit of Programming Language Design,http://250bpm.com/blog:112,/u/sustrik,24
+3,2017-11-21 15:49:46 -0600,"/t/video,/t/web",PureScript: Tomorrow's JavaScript Today,https://vimeo.com/243148125,/u/krisajenkins,11
+0,2017-11-22 11:55:48 -0600,"/t/pdf,/t/compsci,/t/privacy,/t/web",Privad: Practical Privacy in Online Advertising (2011),http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.4751&rep=rep1&type=pdf,/u/nickpsecurity,2
+0,2017-11-21 21:43:52 -0600,/t/scala,"Constraints are for methods, not data",https://brianmckenna.org/blog/constraints_are_for_methods,/u/puffnfresh,5
+0,2017-11-22 13:24:10 -0600,/t/math,Contrast codes are an implementation detail,http://scattered-thoughts.net/blog/2017/11/21/contrast-coding-is-an-implementation-detail/,/u/pushcx,1
+4,2017-11-21 13:14:49 -0600,"/t/historical,/t/web",Gopher: Remembering the web that wasn't,http://ajroach42.github.io/gopher-remembering-the-web-that-wasn-t/,/u/calvin,13
+0,2017-11-21 22:26:35 -0600,/t/security,TP-Link serves outdated or no firmware at all on 30% of its European websites,https://www.ctrl.blog/entry/tplink-firmware-outdated-downloads,/u/calvin,7
+3,2017-11-21 11:08:13 -0600,/t/security,"No, you’re not being paranoid. Sites really are watching your every move",https://arstechnica.com/tech-policy/2017/11/an-alarming-number-of-sites-employ-privacy-invading-session-replay-scripts/,/u/unbalancedparentheses,20
+0,2017-11-22 09:25:32 -0600,/t/databases,CockroachDB: Executing Parallel Statements to Improve Performance,https://www.cockroachlabs.com/blog/parallel-sql-statements/,/u/unbalancedparentheses,1
+0,2017-11-22 08:25:00 -0600,/t/programming,The Future of Languages in Visual Studio,https://poshtools.com/2017/11/22/the-future-of-languages-in-visual-studio/,/u/calvin,1
+1,2017-11-21 19:10:08 -0600,/t/scala,"So, what's wrong with SBT?",http://www.lihaoyi.com/post/SowhatswrongwithSBT.html,/u/djsumdog,6
+1,2017-11-21 13:51:22 -0600,"/t/graphics,/t/performance,/t/windows",Desktop compositing latency is real and it annoys me,http://www.lofibucket.com/articles/dwm_latency.html,/u/pushcx,8
+0,2017-11-21 06:28:31 -0600,/t/browsers,Extensions in Firefox 58,https://blog.mozilla.org/addons/2017/11/20/extensions-in-firefox-58/,/u/calvin,19
+0,2017-11-21 15:28:42 -0600,"/t/hardware,/t/security",NERF - Trammell Hudson's Projects (the Linux/Go Intel ME replacement project),https://trmm.net/NERF,/u/hobbes,6
+0,2017-11-22 03:05:28 -0600,/t/elixir,Phoenix WebSockets Under a Microscope,https://zorbash.com/post/phoenix-websockets-under-a-microscope/,/u/dmathieu,1
+2,2017-11-21 02:01:40 -0600,/t/linux,How do groups work on Linux?,https://jvns.ca/blog/2017/11/20/groups/,/u/quobit,21

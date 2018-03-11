@@ -1,25 +1,25 @@
-0,2017-03-15 00:44:47 -0500,"['/t/math', '/t/programming']",Some fun with π in Julia,http://julialang.org/blog/2017/03/piday,/u/av,4
-0,2017-03-15 09:22:50 -0500,"['/t/c', '/t/games', '/t/programming', '/t/reversing']",Walking the interface list,https://aixxe.net/2017/03/walking-interface-list,/u/lewis,1
-1,2017-03-14 14:13:18 -0500,"['/t/haskell', '/t/programming']",Minimal Cabal Files,https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files/,/u/jpvillaisaza,5
-8,2017-03-14 05:53:33 -0500,['/t/emacs'],"One person submitted 10% of the 18,500 Emacs bug reports over the past nine years",https://lists.gnu.org/archive/html/emacs-devel/2017-03/msg00222.html,/u/calvin,21
-0,2017-03-15 05:31:07 -0500,"['/t/rant', '/t/security']",We’ve lost control of our personal data (including 33M NetProspex records),https://www.troyhunt.com/weve-lost-control-of-our-personal-data-including-33m-netprospex-records/,/u/qznc,4
-2,2017-03-14 13:27:15 -0500,['/t/web'],20 lines of code that will beat A/B testing every time (2013),http://stevehanov.ca/blog/index.php?id=132,/u/qznc,10
-16,2017-03-14 12:45:57 -0500,"['/t/debugging', '/t/linux', '/t/programming', '/t/python']",The Case of the Mysterious Python Crash,https://benbernardblog.com/the-case-of-the-mysterious-python-crash/,/u/mbenbernard,4
-0,2017-03-15 04:38:50 -0500,"['/t/games', '/t/graphics']",Particle Systems From the Ground Up (2012),http://buildnewgames.com/particle-systems,/u/qznc,2
-2,2017-03-14 10:24:30 -0500,['/t/unix'],SSH Escape Sequences (aka Kill Dead SSH Sessions) (2011),https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/,/u/pushcx,17
-1,2017-03-14 22:51:45 -0500,['/t/devops'],The Dark Side of DevOps,https://dzone.com/articles/the-dark-side-of-devops,/u/amey,2
-0,2017-03-15 00:45:40 -0500,"['/t/android', '/t/java']",Future of Java 8 Language Feature Support on Android,https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html,/u/av,3
-0,2017-03-14 16:17:36 -0500,"['/t/math', '/t/visualization']",Seeing Theory: A Visual Introduction to Probability and Statistics,http://students.brown.edu/seeing-theory/index.html,/u/friendlysock,8
-0,2017-03-15 13:01:15 -0500,['/t/linux'],Linux XIA Joins Conservancy as a Member Project,https://sfconservancy.org/news/2017/mar/15/linux-xia-joins/,/u/pizzaiolo,0
-0,2017-03-14 06:40:15 -0500,"['/t/art', '/t/compsci', '/t/programming']",Build a digital clock in Conway's Game of Life,http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/111932,/u/varjag,22
-1,2017-03-15 01:53:21 -0500,['/t/math'],y-cruncher - A Multi-Threaded Pi Program,http://www.numberworld.org/y-cruncher/,/u/Dawny33,1
-3,2017-03-14 09:32:59 -0500,"['/t/lua', '/t/programming', '/t/release']",A make-like build utility based on Lua,https://github.com/tboox/xmake,/u/ruki,4
-0,2017-03-14 18:23:21 -0500,"['/t/databases', '/t/ruby']",Master Many-to-Many Associations with ActiveRecord,https://www.sitepoint.com/master-many-to-many-associations-with-activerecord/,/u/pushcx,5
-0,2017-03-15 00:46:50 -0500,['/t/databases'],Parallel Query v2,http://rhaas.blogspot.com/2017/03/parallel-query-v2.html,/u/av,2
-0,2017-03-14 15:12:02 -0500,"['/t/pdf', '/t/slides', '/t/security']",Getting Physical with USB Type-C,http://alex-ionescu.com/publications/Recon/recon2017-bru.pdf,/u/lattera,5
-0,2017-03-15 00:44:29 -0500,['/t/javascript'],React VR,https://facebookincubator.github.io/react-vr/,/u/av,1
-2,2017-03-13 18:22:46 -0500,['/t/haskell'],Linear types make performance more predictable,http://blog.tweag.io/posts/2017-03-13-linear-types.html,/u/puffnfresh,38
-3,2017-03-14 08:20:56 -0500,['/t/practices'],Why the way we look at technical debt is wrong,http://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/,/u/adsouza,4
-1,2017-03-14 08:18:13 -0500,['/t/practices'],Aim for 0.1x Growth,https://wail.es/aim-for-0-1x-growth/,/u/pwatsonwailes,2
-0,2017-03-14 18:31:34 -0500,"['/t/ruby', '/t/web']",Providing useful error responses in a Rails API,https://medium.com/@stevenpetryk/providing-useful-error-responses-in-a-rails-api-24c004b31a2e,/u/pushcx,2
-0,2017-03-14 12:54:49 -0500,"['/t/api', '/t/javascript', '/t/testing', '/t/web']",Web application test strategy,https://blog.scottnonnenberg.com/web-application-test-strategy/,/u/scottnonnenberg,2
+0,2017-03-15 00:44:47 -0500,"/t/math,/t/programming",Some fun with π in Julia,http://julialang.org/blog/2017/03/piday,/u/av,4
+0,2017-03-15 09:22:50 -0500,"/t/c,/t/games,/t/programming,/t/reversing",Walking the interface list,https://aixxe.net/2017/03/walking-interface-list,/u/lewis,1
+1,2017-03-14 14:13:18 -0500,"/t/haskell,/t/programming",Minimal Cabal Files,https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files/,/u/jpvillaisaza,5
+8,2017-03-14 05:53:33 -0500,/t/emacs,"One person submitted 10% of the 18,500 Emacs bug reports over the past nine years",https://lists.gnu.org/archive/html/emacs-devel/2017-03/msg00222.html,/u/calvin,21
+0,2017-03-15 05:31:07 -0500,"/t/rant,/t/security",We’ve lost control of our personal data (including 33M NetProspex records),https://www.troyhunt.com/weve-lost-control-of-our-personal-data-including-33m-netprospex-records/,/u/qznc,4
+2,2017-03-14 13:27:15 -0500,/t/web,20 lines of code that will beat A/B testing every time (2013),http://stevehanov.ca/blog/index.php?id=132,/u/qznc,10
+16,2017-03-14 12:45:57 -0500,"/t/debugging,/t/linux,/t/programming,/t/python",The Case of the Mysterious Python Crash,https://benbernardblog.com/the-case-of-the-mysterious-python-crash/,/u/mbenbernard,4
+0,2017-03-15 04:38:50 -0500,"/t/games,/t/graphics",Particle Systems From the Ground Up (2012),http://buildnewgames.com/particle-systems,/u/qznc,2
+2,2017-03-14 10:24:30 -0500,/t/unix,SSH Escape Sequences (aka Kill Dead SSH Sessions) (2011),https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/,/u/pushcx,17
+1,2017-03-14 22:51:45 -0500,/t/devops,The Dark Side of DevOps,https://dzone.com/articles/the-dark-side-of-devops,/u/amey,2
+0,2017-03-15 00:45:40 -0500,"/t/android,/t/java",Future of Java 8 Language Feature Support on Android,https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html,/u/av,3
+0,2017-03-14 16:17:36 -0500,"/t/math,/t/visualization",Seeing Theory: A Visual Introduction to Probability and Statistics,http://students.brown.edu/seeing-theory/index.html,/u/friendlysock,8
+0,2017-03-15 13:01:15 -0500,/t/linux,Linux XIA Joins Conservancy as a Member Project,https://sfconservancy.org/news/2017/mar/15/linux-xia-joins/,/u/pizzaiolo,0
+0,2017-03-14 06:40:15 -0500,"/t/art,/t/compsci,/t/programming",Build a digital clock in Conway's Game of Life,http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/111932,/u/varjag,22
+1,2017-03-15 01:53:21 -0500,/t/math,y-cruncher - A Multi-Threaded Pi Program,http://www.numberworld.org/y-cruncher/,/u/Dawny33,1
+3,2017-03-14 09:32:59 -0500,"/t/lua,/t/programming,/t/release",A make-like build utility based on Lua,https://github.com/tboox/xmake,/u/ruki,4
+0,2017-03-14 18:23:21 -0500,"/t/databases,/t/ruby",Master Many-to-Many Associations with ActiveRecord,https://www.sitepoint.com/master-many-to-many-associations-with-activerecord/,/u/pushcx,5
+0,2017-03-15 00:46:50 -0500,/t/databases,Parallel Query v2,http://rhaas.blogspot.com/2017/03/parallel-query-v2.html,/u/av,2
+0,2017-03-14 15:12:02 -0500,"/t/pdf,/t/slides,/t/security",Getting Physical with USB Type-C,http://alex-ionescu.com/publications/Recon/recon2017-bru.pdf,/u/lattera,5
+0,2017-03-15 00:44:29 -0500,/t/javascript,React VR,https://facebookincubator.github.io/react-vr/,/u/av,1
+2,2017-03-13 18:22:46 -0500,/t/haskell,Linear types make performance more predictable,http://blog.tweag.io/posts/2017-03-13-linear-types.html,/u/puffnfresh,38
+3,2017-03-14 08:20:56 -0500,/t/practices,Why the way we look at technical debt is wrong,http://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/,/u/adsouza,4
+1,2017-03-14 08:18:13 -0500,/t/practices,Aim for 0.1x Growth,https://wail.es/aim-for-0-1x-growth/,/u/pwatsonwailes,2
+0,2017-03-14 18:31:34 -0500,"/t/ruby,/t/web",Providing useful error responses in a Rails API,https://medium.com/@stevenpetryk/providing-useful-error-responses-in-a-rails-api-24c004b31a2e,/u/pushcx,2
+0,2017-03-14 12:54:49 -0500,"/t/api,/t/javascript,/t/testing,/t/web",Web application test strategy,https://blog.scottnonnenberg.com/web-application-test-strategy/,/u/scottnonnenberg,2

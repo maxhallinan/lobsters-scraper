@@ -1,25 +1,25 @@
-17,2016-09-17 06:57:14 -0500,['/t/culture'],Leah Rowe (Libreboot maintainer) accuses FSF of lying,http://lists.gnu.org/archive/html/libreboot/2016-09/msg00053.html,/u/sanxiyn,14
-0,2016-09-17 06:36:12 -0500,"['/t/browsers', '/t/security']",Mozilla plans Firefox fix for same vulnerability that bit Tor,http://arstechnica.com/security/2016/09/mozilla-checks-if-firefox-is-affected-by-same-malware-vulnerability-as-tor/,/u/jabberwock,5
-5,2016-09-16 20:05:39 -0500,"['/t/databases', '/t/programming']",Consistency is Consistently Undervalued,http://kevinmahoney.co.uk/articles/consistency-consistently-undervalued/,/u/kpm,4
-32,2016-09-16 10:53:38 -0500,['/t/compsci'],"The advantages of static typing, simply stated",https://pchiusano.github.io/2016-09-15/static-vs-dynamic.html,/u/pushcx,20
-12,2016-09-16 04:51:44 -0500,['/t/math'],Music theory for nerds,https://eev.ee/blog/2016/09/15/music-theory-for-nerds/,/u/calvin,35
-0,2016-09-17 00:05:44 -0500,"['/t/elixir', '/t/practices']",ExUnit Cheat Sheet,http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html,/u/friendlysock,8
-0,2016-09-17 09:14:47 -0500,"['/t/release', '/t/unix']",Tribblix Milestone 18,http://ptribble.blogspot.com/2016/09/tribblix-milestone-18.html,/u/sevan,2
-0,2016-09-17 09:14:34 -0500,['/t/java'],Coding WebIDE goes open source – The WebIDE Community Edition,https://github.com/Coding/WebIDE,/u/tvvocold,2
-4,2016-09-16 10:02:53 -0500,"['/t/meta', '/t/release']",Renaming the software tag,/s/dvz9y8/renaming_software_tag,/u/flyingfisch,13
-3,2016-09-16 09:15:28 -0500,"['/t/compilers', '/t/compsci']","Esolang, the esoteric programming languages wiki",https://esolangs.org/wiki/Main_Page,/u/pushcx,15
-0,2016-09-16 19:43:49 -0500,"['/t/compilers', '/t/ruby']",Fibonacci benchmark,http://crystal-lang.org/2016/07/15/fibonacci-benchmark.html,/u/pushcx,6
-0,2016-09-17 03:18:36 -0500,"['/t/video', '/t/linux', '/t/virtualization']",DockerCon 2015: Jessie Frazelle on Container Hacks and Fun Images,https://www.youtube.com/watch?v=1qlLUf7KtAw,/u/majjoha,2
-17,2016-09-15 22:59:59 -0500,"['/t/browsers', '/t/privacy', '/t/security']",Google Chrome Listens In To Your Room (2015),https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/,/u/nc,28
-0,2016-09-16 12:16:16 -0500,"['/t/c', '/t/compilers', '/t/debugging', '/t/windows']","Everything Old is New Again, and a Compiler Bug",https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/,/u/craigstuntz,10
-2,2016-09-16 12:34:25 -0500,"['/t/hardware', '/t/security']",Stealing login credentials from a locked PC or Mac just got easier,http://arstechnica.com/security/2016/09/stealing-login-credentials-from-a-locked-pc-or-mac-just-got-easier/,/u/pushcx,7
-1,2016-09-16 09:56:32 -0500,['/t/haskell'],School of Haskell,https://www.schoolofhaskell.com/,/u/unbalancedparentheses,9
-0,2016-09-16 10:59:35 -0500,"['/t/api', '/t/ios', '/t/programming', '/t/swift']","Function Naming In Swift 3, by Pablo Villar",http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/,/u/InakaESI,3
-0,2016-09-16 14:43:22 -0500,['/t/javascript'],js-joda - Immutable date and time library for javascript,https://github.com/js-joda/js-joda,/u/flyingfisch,3
-44,2016-09-15 09:28:55 -0500,"['/t/hardware', '/t/ios']","Courage (or, the mistake of the 3.5mm mini plug)",https://brandur.org/fragments/courage,/u/apg,37
-2,2016-09-15 16:47:56 -0500,"['/t/historical', '/t/python', '/t/web']","Guido van Rossum wrote a Python bot that mapped out the web in 1993, and found 50-60 sites",http://1997.webhistory.org/www.lists/www-talk.1993q1/0060.html,/u/calvin,20
-1,2016-09-16 14:13:36 -0500,"['/t/compsci', '/t/lua']",Reinforcement Learning for Torch: Introducing torch-twrl,https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl,/u/tf,1
-11,2016-09-15 13:22:45 -0500,"['/t/debugging', '/t/java']",A Funny Thing Happened on the Way to Java 8,http://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/,/u/tedu,18
-0,2016-09-15 22:36:23 -0500,['/t/databases'],BRIN Indexes in Postgres 9.5,http://dev.sortable.com/brin-indexes-in-postgres-9.5/,/u/unbalancedparentheses,13
-0,2016-09-16 10:34:28 -0500,"['/t/pdf', '/t/games']","You Say Jump, I Say How High? Operationalising the Game Feel of Jumping",https://www.dropbox.com/s/srrwa02cnplnxf3/YouSayJumpISayHowHigh2.1.pdf,/u/mjn,3
-2,2016-09-15 22:07:54 -0500,"['/t/historical', '/t/mac']",Why the Apple II ProDOS 2.4 Release is the OS News of the Year,http://ascii.textfiles.com/archives/5054,/u/tedu,8
+17,2016-09-17 06:57:14 -0500,/t/culture,Leah Rowe (Libreboot maintainer) accuses FSF of lying,http://lists.gnu.org/archive/html/libreboot/2016-09/msg00053.html,/u/sanxiyn,14
+0,2016-09-17 06:36:12 -0500,"/t/browsers,/t/security",Mozilla plans Firefox fix for same vulnerability that bit Tor,http://arstechnica.com/security/2016/09/mozilla-checks-if-firefox-is-affected-by-same-malware-vulnerability-as-tor/,/u/jabberwock,5
+5,2016-09-16 20:05:39 -0500,"/t/databases,/t/programming",Consistency is Consistently Undervalued,http://kevinmahoney.co.uk/articles/consistency-consistently-undervalued/,/u/kpm,4
+32,2016-09-16 10:53:38 -0500,/t/compsci,"The advantages of static typing, simply stated",https://pchiusano.github.io/2016-09-15/static-vs-dynamic.html,/u/pushcx,20
+12,2016-09-16 04:51:44 -0500,/t/math,Music theory for nerds,https://eev.ee/blog/2016/09/15/music-theory-for-nerds/,/u/calvin,35
+0,2016-09-17 00:05:44 -0500,"/t/elixir,/t/practices",ExUnit Cheat Sheet,http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html,/u/friendlysock,8
+0,2016-09-17 09:14:47 -0500,"/t/release,/t/unix",Tribblix Milestone 18,http://ptribble.blogspot.com/2016/09/tribblix-milestone-18.html,/u/sevan,2
+0,2016-09-17 09:14:34 -0500,/t/java,Coding WebIDE goes open source – The WebIDE Community Edition,https://github.com/Coding/WebIDE,/u/tvvocold,2
+4,2016-09-16 10:02:53 -0500,"/t/meta,/t/release",Renaming the software tag,/s/dvz9y8/renaming_software_tag,/u/flyingfisch,13
+3,2016-09-16 09:15:28 -0500,"/t/compilers,/t/compsci","Esolang, the esoteric programming languages wiki",https://esolangs.org/wiki/Main_Page,/u/pushcx,15
+0,2016-09-16 19:43:49 -0500,"/t/compilers,/t/ruby",Fibonacci benchmark,http://crystal-lang.org/2016/07/15/fibonacci-benchmark.html,/u/pushcx,6
+0,2016-09-17 03:18:36 -0500,"/t/video,/t/linux,/t/virtualization",DockerCon 2015: Jessie Frazelle on Container Hacks and Fun Images,https://www.youtube.com/watch?v=1qlLUf7KtAw,/u/majjoha,2
+17,2016-09-15 22:59:59 -0500,"/t/browsers,/t/privacy,/t/security",Google Chrome Listens In To Your Room (2015),https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/,/u/nc,28
+0,2016-09-16 12:16:16 -0500,"/t/c,/t/compilers,/t/debugging,/t/windows","Everything Old is New Again, and a Compiler Bug",https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/,/u/craigstuntz,10
+2,2016-09-16 12:34:25 -0500,"/t/hardware,/t/security",Stealing login credentials from a locked PC or Mac just got easier,http://arstechnica.com/security/2016/09/stealing-login-credentials-from-a-locked-pc-or-mac-just-got-easier/,/u/pushcx,7
+1,2016-09-16 09:56:32 -0500,/t/haskell,School of Haskell,https://www.schoolofhaskell.com/,/u/unbalancedparentheses,9
+0,2016-09-16 10:59:35 -0500,"/t/api,/t/ios,/t/programming,/t/swift","Function Naming In Swift 3, by Pablo Villar",http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/,/u/InakaESI,3
+0,2016-09-16 14:43:22 -0500,/t/javascript,js-joda - Immutable date and time library for javascript,https://github.com/js-joda/js-joda,/u/flyingfisch,3
+44,2016-09-15 09:28:55 -0500,"/t/hardware,/t/ios","Courage (or, the mistake of the 3.5mm mini plug)",https://brandur.org/fragments/courage,/u/apg,37
+2,2016-09-15 16:47:56 -0500,"/t/historical,/t/python,/t/web","Guido van Rossum wrote a Python bot that mapped out the web in 1993, and found 50-60 sites",http://1997.webhistory.org/www.lists/www-talk.1993q1/0060.html,/u/calvin,20
+1,2016-09-16 14:13:36 -0500,"/t/compsci,/t/lua",Reinforcement Learning for Torch: Introducing torch-twrl,https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl,/u/tf,1
+11,2016-09-15 13:22:45 -0500,"/t/debugging,/t/java",A Funny Thing Happened on the Way to Java 8,http://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/,/u/tedu,18
+0,2016-09-15 22:36:23 -0500,/t/databases,BRIN Indexes in Postgres 9.5,http://dev.sortable.com/brin-indexes-in-postgres-9.5/,/u/unbalancedparentheses,13
+0,2016-09-16 10:34:28 -0500,"/t/pdf,/t/games","You Say Jump, I Say How High? Operationalising the Game Feel of Jumping",https://www.dropbox.com/s/srrwa02cnplnxf3/YouSayJumpISayHowHigh2.1.pdf,/u/mjn,3
+2,2016-09-15 22:07:54 -0500,"/t/historical,/t/mac",Why the Apple II ProDOS 2.4 Release is the OS News of the Year,http://ascii.textfiles.com/archives/5054,/u/tedu,8

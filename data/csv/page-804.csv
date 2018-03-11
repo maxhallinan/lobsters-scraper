@@ -1,25 +1,25 @@
-1,2016-04-23 21:59:46 -0500,['/t/release'],"HYPER_ Deploy your containers in seconds to an infinite cloud, right from your laptop",https://console.hyper.sh/register,/u/lei,3
-1,2016-04-23 12:07:02 -0500,['/t/practices'],When to Rewrite from Scratch - Autopsy of a Failed Software,http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/,/u/jan,11
-1,2016-04-23 14:29:18 -0500,"['/t/crypto', '/t/reversing', '/t/security']",Reversing the petya ransomware with constraint solvers,http://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html,/u/bluerise,6
-0,2016-04-24 08:59:33 -0500,"['/t/android', '/t/security']",Android Security 2015 Annual Report,https://security.googleblog.com/2016/04/android-security-2015-annual-report.html,/u/mulander,0
-1,2016-04-23 19:40:46 -0500,"['/t/practices', '/t/programming']",Mob Software,http://www.dreamsongs.com/MobSoftware.html,/u/calvin,2
-14,2016-04-22 15:16:10 -0500,['/t/practices'],Trigger happy,http://blog.tintagel.pl/2016/04/21/trigger-happy.html,/u/mulander,18
-2,2016-04-23 18:27:31 -0500,['/t/web'],Character Entity Reference Chart (2008),https://dev.w3.org/html5/html-author/charref,/u/cnst,1
-0,2016-04-23 08:56:17 -0500,"['/t/video', '/t/programming']",Pony: Writing Generic Code,https://vimeo.com/163871856,/u/SeanTAllen,7
-0,2016-04-23 16:42:19 -0500,['/t/web'],Wikipedia to the Moon,https://meta.wikimedia.org/wiki/Wikipedia_to_the_Moon,/u/nil,2
-0,2016-04-23 16:12:42 -0500,"['/t/javascript', '/t/scala']",Scala vs. Node.js as a RESTful backend server,http://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/,/u/softinio,2
-1,2016-04-23 04:23:50 -0500,"['/t/pdf', '/t/openbsd']",Privilege Separation and Pledge,http://www.openbsd.org/papers/dot2016.pdf,/u/sin,7
-0,2016-04-23 00:58:42 -0500,['/t/lua'],"Lua interprets x86 instructions as magic address, chaos ensues",http://www.freelists.org/post/luajit/Random-failures-in-compiled-code,/u/kb,12
-1,2016-04-22 17:58:13 -0500,"['/t/pdf', '/t/book', '/t/c']","Functional C (Full Book, 1999)",http://eprints.eemcs.utwente.nl/1077/02/book.pdf,/u/bsima,18
-3,2016-04-22 23:46:07 -0500,"['/t/freebsd', '/t/netbsd', '/t/security']",NetBSD: ASLR now on by default in amd64.,http://mail-index.netbsd.org/source-changes/2016/04/10/msg073939.html,/u/cnst,8
-10,2016-04-22 11:43:53 -0500,['/t/hardware'],Scientists can now make lithium-ion batteries last a lifetime,http://www.computerworld.com/article/3060005/mobile-wireless/scientists-can-now-make-lithium-ion-batteries-last-a-lifetime.html,/u/ngrilly,20
-4,2016-04-22 21:22:11 -0500,['/t/compsci'],"Functors, Applicatives, and Monads in Plain English",http://www.russbishop.net/monoids-monads-and-functors,/u/pushcx,6
-7,2016-04-22 02:39:53 -0500,['/t/philosophy'],A Protocol for Dying,http://hintjens.com/blog:115,/u/Mordo,45
-6,2016-04-22 09:48:36 -0500,"['/t/browsers', '/t/security']","Opera VPN behind the curtains is just a proxy, here's how it works",https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10,/u/mulander,10
-3,2016-04-22 09:52:02 -0500,['/t/browsers'],Who are the Chinese tech companies that just bought Opera?,https://www.techinasia.com/chinese-tech-companies-bought-opera,/u/mulander,13
-0,2016-04-22 15:19:24 -0500,['/t/haskell'],Haskell by Types,http://www.holger-peters.de/haskell-by-types.html,/u/data_hope,5
-1,2016-04-22 17:22:11 -0500,['/t/c'],What tools are there for functional programming in C?,http://stackoverflow.com/questions/216037/what-tools-are-there-for-functional-programming-in-c,/u/bsima,5
-0,2016-04-22 20:02:38 -0500,"['/t/programming', '/t/security', '/t/web']",How to set up Free SSL for your Website,https://www.jeremymorgan.com/blog/programming/how-to-set-up-free-ssl/,/u/JeremyMorgan,2
-24,2016-04-21 21:40:17 -0500,['/t/science'],Why I gave your paper a Strong Reject,http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html,/u/pushcx,21
-1,2016-04-22 18:10:26 -0500,['/t/culture'],"5,000 developers talk about their salaries",https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8,/u/adsouza,8
-0,2016-04-23 02:38:12 -0500,"['/t/culture', '/t/philosophy']",My meditation on Earth Day. The Mother Software,https://mempko.wordpress.com/2016/04/23/the-mother-software/,/u/mempko,1
+1,2016-04-23 21:59:46 -0500,/t/release,"HYPER_ Deploy your containers in seconds to an infinite cloud, right from your laptop",https://console.hyper.sh/register,/u/lei,3
+1,2016-04-23 12:07:02 -0500,/t/practices,When to Rewrite from Scratch - Autopsy of a Failed Software,http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/,/u/jan,11
+1,2016-04-23 14:29:18 -0500,"/t/crypto,/t/reversing,/t/security",Reversing the petya ransomware with constraint solvers,http://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html,/u/bluerise,6
+0,2016-04-24 08:59:33 -0500,"/t/android,/t/security",Android Security 2015 Annual Report,https://security.googleblog.com/2016/04/android-security-2015-annual-report.html,/u/mulander,0
+1,2016-04-23 19:40:46 -0500,"/t/practices,/t/programming",Mob Software,http://www.dreamsongs.com/MobSoftware.html,/u/calvin,2
+14,2016-04-22 15:16:10 -0500,/t/practices,Trigger happy,http://blog.tintagel.pl/2016/04/21/trigger-happy.html,/u/mulander,18
+2,2016-04-23 18:27:31 -0500,/t/web,Character Entity Reference Chart (2008),https://dev.w3.org/html5/html-author/charref,/u/cnst,1
+0,2016-04-23 08:56:17 -0500,"/t/video,/t/programming",Pony: Writing Generic Code,https://vimeo.com/163871856,/u/SeanTAllen,7
+0,2016-04-23 16:42:19 -0500,/t/web,Wikipedia to the Moon,https://meta.wikimedia.org/wiki/Wikipedia_to_the_Moon,/u/nil,2
+0,2016-04-23 16:12:42 -0500,"/t/javascript,/t/scala",Scala vs. Node.js as a RESTful backend server,http://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/,/u/softinio,2
+1,2016-04-23 04:23:50 -0500,"/t/pdf,/t/openbsd",Privilege Separation and Pledge,http://www.openbsd.org/papers/dot2016.pdf,/u/sin,7
+0,2016-04-23 00:58:42 -0500,/t/lua,"Lua interprets x86 instructions as magic address, chaos ensues",http://www.freelists.org/post/luajit/Random-failures-in-compiled-code,/u/kb,12
+1,2016-04-22 17:58:13 -0500,"/t/pdf,/t/book,/t/c","Functional C (Full Book, 1999)",http://eprints.eemcs.utwente.nl/1077/02/book.pdf,/u/bsima,18
+3,2016-04-22 23:46:07 -0500,"/t/freebsd,/t/netbsd,/t/security",NetBSD: ASLR now on by default in amd64.,http://mail-index.netbsd.org/source-changes/2016/04/10/msg073939.html,/u/cnst,8
+10,2016-04-22 11:43:53 -0500,/t/hardware,Scientists can now make lithium-ion batteries last a lifetime,http://www.computerworld.com/article/3060005/mobile-wireless/scientists-can-now-make-lithium-ion-batteries-last-a-lifetime.html,/u/ngrilly,20
+4,2016-04-22 21:22:11 -0500,/t/compsci,"Functors, Applicatives, and Monads in Plain English",http://www.russbishop.net/monoids-monads-and-functors,/u/pushcx,6
+7,2016-04-22 02:39:53 -0500,/t/philosophy,A Protocol for Dying,http://hintjens.com/blog:115,/u/Mordo,45
+6,2016-04-22 09:48:36 -0500,"/t/browsers,/t/security","Opera VPN behind the curtains is just a proxy, here's how it works",https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10,/u/mulander,10
+3,2016-04-22 09:52:02 -0500,/t/browsers,Who are the Chinese tech companies that just bought Opera?,https://www.techinasia.com/chinese-tech-companies-bought-opera,/u/mulander,13
+0,2016-04-22 15:19:24 -0500,/t/haskell,Haskell by Types,http://www.holger-peters.de/haskell-by-types.html,/u/data_hope,5
+1,2016-04-22 17:22:11 -0500,/t/c,What tools are there for functional programming in C?,http://stackoverflow.com/questions/216037/what-tools-are-there-for-functional-programming-in-c,/u/bsima,5
+0,2016-04-22 20:02:38 -0500,"/t/programming,/t/security,/t/web",How to set up Free SSL for your Website,https://www.jeremymorgan.com/blog/programming/how-to-set-up-free-ssl/,/u/JeremyMorgan,2
+24,2016-04-21 21:40:17 -0500,/t/science,Why I gave your paper a Strong Reject,http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html,/u/pushcx,21
+1,2016-04-22 18:10:26 -0500,/t/culture,"5,000 developers talk about their salaries",https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8,/u/adsouza,8
+0,2016-04-23 02:38:12 -0500,"/t/culture,/t/philosophy",My meditation on Earth Day. The Mother Software,https://mempko.wordpress.com/2016/04/23/the-mother-software/,/u/mempko,1

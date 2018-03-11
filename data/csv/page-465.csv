@@ -1,25 +1,25 @@
-0,2017-03-01 16:22:01 -0600,"['/t/compsci', '/t/javascript']",Proof Refinement Basics,http://languagengine.co/blog/proof-refinement-basics/,/u/pushcx,2
-2,2017-02-28 21:46:58 -0600,['/t/crypto'],"colliding, fast and slow",http://www.tedunangst.com/flak/post/hashing-fast-and-slow,/u/calvin,15
-0,2017-03-01 12:54:34 -0600,['/t/visualization'],Revisiting the vaccine visualizations,http://www.randalolson.com/2016/03/04/revisiting-the-vaccine-visualizations/,/u/pushcx,3
-0,2017-03-01 10:46:24 -0600,"['/t/games', '/t/web']",Web Games Platform: Newest Developments,https://hacks.mozilla.org/2017/03/web-games-platform-newest-developments/,/u/flyingfisch,4
-0,2017-03-01 12:48:38 -0600,['/t/art'],Some Thoughts on Generative Art,http://inconvergent.net/thoughts-on-generative-art/,/u/flyingfisch,3
-0,2017-03-01 12:47:43 -0600,"['/t/pdf', '/t/cogsci']",Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument,https://arxiv.org/abs/1702.08495,/u/bsima,3
-0,2017-03-01 15:31:05 -0600,"['/t/devops', '/t/distributed', '/t/networking']",Dodging S3 Downtime With Nginx and HAProxy,https://blog.sentry.io/2017/03/01/dodging-s3-downtime-with-nginx-and-haproxy.html,/u/maxbittker,2
-0,2017-03-01 15:28:58 -0600,"['/t/book', '/t/hardware']",Textbook for Electrical Engineering & Electronics,https://www.allaboutcircuits.com/textbook/,/u/flyingfisch,2
-0,2017-02-28 19:15:55 -0600,"['/t/c', '/t/unix']",.SUNW_cap arcana,http://lethargy.org/~jesus/writes/sunw_cap-arcana/,/u/wiedi,22
-0,2017-03-01 13:28:31 -0600,['/t/networking'],OpenFastPath | The OpenFastPath project page,http://www.openfastpath.org/,/u/bowyakka,2
-0,2017-03-01 07:42:57 -0600,"['/t/javascript', '/t/lisp']",cljsbin - HTTP client testing service written in ClojureScript,https://cljsbin-bkhgroqzwe.now.sh/,/u/facundoolano,2
-24,2017-02-28 10:02:18 -0600,"['/t/api', '/t/web']",Why Messaging Queues Suck,https://www.programmableweb.com/news/why-messaging-queues-suck/analysis/2017/02/13,/u/yumaikas,25
-22,2017-02-28 16:25:37 -0600,['/t/rant'],"An annotated digest of the top ""Hacker"" ""News"" posts",https://www.jwz.org/blog/2017/02/an-annotated-digest-of-the-top-hacker-news-posts/,/u/stkrzysiak,48
-0,2017-02-28 18:46:55 -0600,['/t/compilers'],Why (most) High Level Languages are Slow,http://www.sebastiansylvan.com/post/why-most-high-level-languages-are-slow/,/u/adsouza,19
-0,2017-03-01 16:30:57 -0600,['/t/programming'],Languages That Let You Assemble Software from Components,https://kartick-log.blogspot.com/2017/03/languages-that-let-you-assemble.html,/u/pushcx,1
-6,2017-02-28 16:28:21 -0600,"['/t/practices', '/t/programming']",Comments on comments,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-02.html#e2017-02-28T15_47_49.htm,/u/fcbsd,11
-5,2017-02-28 14:59:04 -0600,['/t/nodejs'],The dangerous cliffs of Node.js,https://blog.scottnonnenberg.com/the-dangerous-cliffs-of-node-js/,/u/scottnonnenberg,9
-0,2017-03-01 11:27:17 -0600,"['/t/c', '/t/compsci', '/t/netbsd']",ptrace(2) tasks segment finished,http://blog.netbsd.org/tnf/entry/ptrace_2_tasks_segment_finished,/u/sevan,2
-0,2017-03-01 14:06:41 -0600,['/t/android'],Using Kotlin coroutines in Android code,https://medium.com/@macastiblancot/android-coroutines-getting-rid-of-runonuithread-and-callbacks-cleaner-thread-handling-and-more-234c0a9bd8eb,/u/zem,1
-0,2017-03-01 13:25:37 -0600,['/t/security'],CloudPets toys are trivially hackable from any Bluetooth client,https://www.contextis.com/news/new-blog-hacking-unicorns-bluetooth/,/u/mechazoidal,1
-0,2017-03-01 12:03:54 -0600,"['/t/security', '/t/web']",ReBreakCaptcha: breaking Google’s ReCaptcha v2 using Google,https://east-ee.com/2017/02/28/rebreakcaptcha-breaking-googles-recaptcha-v2-using-google/,/u/colin,1
-0,2017-03-01 08:01:32 -0600,"['/t/practices', '/t/web']",Doubling Down on Cross-Browser Testing,https://hacks.mozilla.org/2017/03/doubling-down-on-cross-browser-testing/,/u/flyingfisch,2
-1,2017-03-01 10:35:05 -0600,['/t/culture'],Is Your Child A Hacker?,http://hackaday.com/2017/02/27/is-your-child-a-hacker/,/u/lukas,3
-0,2017-03-01 05:30:55 -0600,"['/t/security', '/t/web']",HTTPS in ASP.NET Core from Scratch,http://www.blinkingcaret.com/2017/03/01/https-asp-net-core/,/u/rdfi,1
-13,2017-02-28 03:47:02 -0600,"['/t/databases', '/t/security']",Two million recordings of families imperiled by cloud-connected toys' crappy MongoDB,https://www.theregister.co.uk/2017/02/28/cloudpets_database_leak/,/u/dege,25
+0,2017-03-01 16:22:01 -0600,"/t/compsci,/t/javascript",Proof Refinement Basics,http://languagengine.co/blog/proof-refinement-basics/,/u/pushcx,2
+2,2017-02-28 21:46:58 -0600,/t/crypto,"colliding, fast and slow",http://www.tedunangst.com/flak/post/hashing-fast-and-slow,/u/calvin,15
+0,2017-03-01 12:54:34 -0600,/t/visualization,Revisiting the vaccine visualizations,http://www.randalolson.com/2016/03/04/revisiting-the-vaccine-visualizations/,/u/pushcx,3
+0,2017-03-01 10:46:24 -0600,"/t/games,/t/web",Web Games Platform: Newest Developments,https://hacks.mozilla.org/2017/03/web-games-platform-newest-developments/,/u/flyingfisch,4
+0,2017-03-01 12:48:38 -0600,/t/art,Some Thoughts on Generative Art,http://inconvergent.net/thoughts-on-generative-art/,/u/flyingfisch,3
+0,2017-03-01 12:47:43 -0600,"/t/pdf,/t/cogsci",Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument,https://arxiv.org/abs/1702.08495,/u/bsima,3
+0,2017-03-01 15:31:05 -0600,"/t/devops,/t/distributed,/t/networking",Dodging S3 Downtime With Nginx and HAProxy,https://blog.sentry.io/2017/03/01/dodging-s3-downtime-with-nginx-and-haproxy.html,/u/maxbittker,2
+0,2017-03-01 15:28:58 -0600,"/t/book,/t/hardware",Textbook for Electrical Engineering & Electronics,https://www.allaboutcircuits.com/textbook/,/u/flyingfisch,2
+0,2017-02-28 19:15:55 -0600,"/t/c,/t/unix",.SUNW_cap arcana,http://lethargy.org/~jesus/writes/sunw_cap-arcana/,/u/wiedi,22
+0,2017-03-01 13:28:31 -0600,/t/networking,OpenFastPath | The OpenFastPath project page,http://www.openfastpath.org/,/u/bowyakka,2
+0,2017-03-01 07:42:57 -0600,"/t/javascript,/t/lisp",cljsbin - HTTP client testing service written in ClojureScript,https://cljsbin-bkhgroqzwe.now.sh/,/u/facundoolano,2
+24,2017-02-28 10:02:18 -0600,"/t/api,/t/web",Why Messaging Queues Suck,https://www.programmableweb.com/news/why-messaging-queues-suck/analysis/2017/02/13,/u/yumaikas,25
+22,2017-02-28 16:25:37 -0600,/t/rant,"An annotated digest of the top ""Hacker"" ""News"" posts",https://www.jwz.org/blog/2017/02/an-annotated-digest-of-the-top-hacker-news-posts/,/u/stkrzysiak,48
+0,2017-02-28 18:46:55 -0600,/t/compilers,Why (most) High Level Languages are Slow,http://www.sebastiansylvan.com/post/why-most-high-level-languages-are-slow/,/u/adsouza,19
+0,2017-03-01 16:30:57 -0600,/t/programming,Languages That Let You Assemble Software from Components,https://kartick-log.blogspot.com/2017/03/languages-that-let-you-assemble.html,/u/pushcx,1
+6,2017-02-28 16:28:21 -0600,"/t/practices,/t/programming",Comments on comments,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-02.html#e2017-02-28T15_47_49.htm,/u/fcbsd,11
+5,2017-02-28 14:59:04 -0600,/t/nodejs,The dangerous cliffs of Node.js,https://blog.scottnonnenberg.com/the-dangerous-cliffs-of-node-js/,/u/scottnonnenberg,9
+0,2017-03-01 11:27:17 -0600,"/t/c,/t/compsci,/t/netbsd",ptrace(2) tasks segment finished,http://blog.netbsd.org/tnf/entry/ptrace_2_tasks_segment_finished,/u/sevan,2
+0,2017-03-01 14:06:41 -0600,/t/android,Using Kotlin coroutines in Android code,https://medium.com/@macastiblancot/android-coroutines-getting-rid-of-runonuithread-and-callbacks-cleaner-thread-handling-and-more-234c0a9bd8eb,/u/zem,1
+0,2017-03-01 13:25:37 -0600,/t/security,CloudPets toys are trivially hackable from any Bluetooth client,https://www.contextis.com/news/new-blog-hacking-unicorns-bluetooth/,/u/mechazoidal,1
+0,2017-03-01 12:03:54 -0600,"/t/security,/t/web",ReBreakCaptcha: breaking Google’s ReCaptcha v2 using Google,https://east-ee.com/2017/02/28/rebreakcaptcha-breaking-googles-recaptcha-v2-using-google/,/u/colin,1
+0,2017-03-01 08:01:32 -0600,"/t/practices,/t/web",Doubling Down on Cross-Browser Testing,https://hacks.mozilla.org/2017/03/doubling-down-on-cross-browser-testing/,/u/flyingfisch,2
+1,2017-03-01 10:35:05 -0600,/t/culture,Is Your Child A Hacker?,http://hackaday.com/2017/02/27/is-your-child-a-hacker/,/u/lukas,3
+0,2017-03-01 05:30:55 -0600,"/t/security,/t/web",HTTPS in ASP.NET Core from Scratch,http://www.blinkingcaret.com/2017/03/01/https-asp-net-core/,/u/rdfi,1
+13,2017-02-28 03:47:02 -0600,"/t/databases,/t/security",Two million recordings of families imperiled by cloud-connected toys' crappy MongoDB,https://www.theregister.co.uk/2017/02/28/cloudpets_database_leak/,/u/dege,25

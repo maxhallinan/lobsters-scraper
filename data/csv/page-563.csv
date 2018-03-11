@@ -1,25 +1,25 @@
-0,2016-12-17 02:47:30 -0600,"['/t/lisp', '/t/programming', '/t/release']",GNU Guile 2.1.5 released,https://www.gnu.org/software/guile/news/gnu-guile-215-released.html,/u/clacke,10
-4,2016-12-16 21:41:42 -0600,"['/t/java', '/t/law']",Oracle finally targets Java non-payers – six years after plucking Sun,http://www.theregister.co.uk/2016/12/16/oracle_targets_java_users_non_compliance/,/u/calvin,8
-0,2016-12-17 13:08:49 -0600,"['/t/book', '/t/javascript']",30 Days of React,https://www.fullstackreact.com/30-days-of-react/,/u/av,2
-6,2016-12-16 17:32:04 -0600,['/t/culture'],Programming is Forgetting: Toward a New Hacker Ethic,http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/,/u/mechazoidal,24
-0,2016-12-16 23:30:49 -0600,"['/t/elixir', '/t/practices']",Tuning Elixir GenStage/Flow pipeline processing,http://teamon.eu/2016/tuning-elixir-genstage-flow-pipeline-processing/,/u/friendlysock,5
-7,2016-12-16 05:20:50 -0600,['/t/programming'],Pyret – A language exploring scripting and functional programming,http://pyret.org/index.html,/u/av,25
-0,2016-12-16 09:46:00 -0600,['/t/openbsd'],watt time is left,http://www.tedunangst.com/flak/post/watt-time-is-left,/u/lynge,21
-1,2016-12-16 21:55:17 -0600,"['/t/linux', '/t/windows']",How an old Drawbridge helped Microsoft bring SQL Server to Linux,http://arstechnica.com/information-technology/2016/12/how-an-old-drawbridge-helped-microsoft-bring-sql-server-to-linux/,/u/calvin,3
-0,2016-12-16 11:23:48 -0600,['/t/javascript'],TypeScript 2.1: External Helpers Library,https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library,/u/mariusschulz,8
-0,2016-12-16 07:35:04 -0600,['/t/lisp'],The Idea of Lisp,https://dev.to/ericnormand/the-idea-of-lisp,/u/adamo,20
-0,2016-12-16 12:54:02 -0600,"['/t/law', '/t/person']","I thought I was designing for SpaceX, I was actually designing for the Silk Road",https://words.motel.is/i-thought-i-was-designing-for-spacex-i-was-actually-designing-for-the-silk-road-4b4b64834868,/u/av,10
-0,2016-12-16 01:39:36 -0600,"['/t/browsers', '/t/rust']",Rust required to build Gecko,https://groups.google.com/forum/m/#!msg/mozilla.dev.platform/Gzwh1IbxvHE/7RlO21I6DwAJ,/u/chadski,30
-0,2016-12-16 15:23:44 -0600,['/t/culture'],What happened to the most-wired town of the 1990s?,http://www.theverge.com/2016/12/14/13923952/blacksburg-electronic-village-virginia-tech-digital-community-internet,/u/lukas,6
-1,2016-12-16 09:42:42 -0600,"['/t/mac', '/t/security']",macOS FileVault2 Password Retrieval,http://blog.frizk.net/2016/12/filevault-password-retrieval.html,/u/av,10
-1,2016-12-16 06:44:41 -0600,['/t/java'],The Exceptional Performance of Lil' Exception,https://shipilev.net/blog/2014/exceptional-performance/,/u/mrfabbri,9
-1,2016-12-16 01:15:51 -0600,"['/t/pdf', '/t/compsci', '/t/programming']","Do Be Do Be Do: Exploring Frank, a functional language featuring a bidirectional effect type system",https://arxiv.org/pdf/1611.09259v1.pdf,/u/Snocrash,16
-2,2016-12-16 09:55:12 -0600,"['/t/culture', '/t/person']",Why I Studied Full-Time for 8 Months for a Google Interview,https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13,/u/av,12
-0,2016-12-16 05:08:40 -0600,"['/t/book', '/t/math']",Machine Learning with TensorFlow,http://www.tensorflowbook.com/,/u/av,10
-0,2016-12-16 17:38:19 -0600,"['/t/culture', '/t/programming']",Stroustrup's Rule and Layering Over Time,http://thefeedbackloop.xyz/stroustrups-rule-and-layering-over-time/,/u/akkartik,4
-0,2016-12-16 06:23:23 -0600,['/t/programming'],printbf -- Brainfuck interpreter in printf,https://github.com/HexHive/printbf,/u/calvin,8
-0,2016-12-16 05:55:21 -0600,"['/t/devops', '/t/linux']",Introducing rkt’s ability to automatically detect privilege escalation attacks on containers,https://coreos.com/blog/rkt-detect-privilege-escalation.html,/u/mhausenblas,7
-0,2016-12-16 06:06:29 -0600,['/t/mac'],Building ZealDocs for OSX,http://stratus3d.com/blog/2016/12/09/building-zealdocs-for-osx,/u/Stratus3D,3
-21,2016-12-15 05:48:32 -0600,['/t/practices'],Free Software Needs Free Tools,https://mako.cc/writing/hill-free_tools.html,/u/pizzaiolo,40
-2,2016-12-15 14:22:33 -0600,"['/t/event', '/t/rust']",The First Annual Underhanded Rust Contest,https://underhanded.rs/blog/2016/12/15/underhanded-rust.en-US.html,/u/pushcx,27
-6,2016-12-15 12:28:14 -0600,"['/t/browsers', '/t/hardware', '/t/practices']",Firefox Hardware Report,https://metrics.mozilla.com/firefox-hardware-report/,/u/friendlysock,21
+0,2016-12-17 02:47:30 -0600,"/t/lisp,/t/programming,/t/release",GNU Guile 2.1.5 released,https://www.gnu.org/software/guile/news/gnu-guile-215-released.html,/u/clacke,10
+4,2016-12-16 21:41:42 -0600,"/t/java,/t/law",Oracle finally targets Java non-payers – six years after plucking Sun,http://www.theregister.co.uk/2016/12/16/oracle_targets_java_users_non_compliance/,/u/calvin,8
+0,2016-12-17 13:08:49 -0600,"/t/book,/t/javascript",30 Days of React,https://www.fullstackreact.com/30-days-of-react/,/u/av,2
+6,2016-12-16 17:32:04 -0600,/t/culture,Programming is Forgetting: Toward a New Hacker Ethic,http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/,/u/mechazoidal,24
+0,2016-12-16 23:30:49 -0600,"/t/elixir,/t/practices",Tuning Elixir GenStage/Flow pipeline processing,http://teamon.eu/2016/tuning-elixir-genstage-flow-pipeline-processing/,/u/friendlysock,5
+7,2016-12-16 05:20:50 -0600,/t/programming,Pyret – A language exploring scripting and functional programming,http://pyret.org/index.html,/u/av,25
+0,2016-12-16 09:46:00 -0600,/t/openbsd,watt time is left,http://www.tedunangst.com/flak/post/watt-time-is-left,/u/lynge,21
+1,2016-12-16 21:55:17 -0600,"/t/linux,/t/windows",How an old Drawbridge helped Microsoft bring SQL Server to Linux,http://arstechnica.com/information-technology/2016/12/how-an-old-drawbridge-helped-microsoft-bring-sql-server-to-linux/,/u/calvin,3
+0,2016-12-16 11:23:48 -0600,/t/javascript,TypeScript 2.1: External Helpers Library,https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library,/u/mariusschulz,8
+0,2016-12-16 07:35:04 -0600,/t/lisp,The Idea of Lisp,https://dev.to/ericnormand/the-idea-of-lisp,/u/adamo,20
+0,2016-12-16 12:54:02 -0600,"/t/law,/t/person","I thought I was designing for SpaceX, I was actually designing for the Silk Road",https://words.motel.is/i-thought-i-was-designing-for-spacex-i-was-actually-designing-for-the-silk-road-4b4b64834868,/u/av,10
+0,2016-12-16 01:39:36 -0600,"/t/browsers,/t/rust",Rust required to build Gecko,https://groups.google.com/forum/m/#!msg/mozilla.dev.platform/Gzwh1IbxvHE/7RlO21I6DwAJ,/u/chadski,30
+0,2016-12-16 15:23:44 -0600,/t/culture,What happened to the most-wired town of the 1990s?,http://www.theverge.com/2016/12/14/13923952/blacksburg-electronic-village-virginia-tech-digital-community-internet,/u/lukas,6
+1,2016-12-16 09:42:42 -0600,"/t/mac,/t/security",macOS FileVault2 Password Retrieval,http://blog.frizk.net/2016/12/filevault-password-retrieval.html,/u/av,10
+1,2016-12-16 06:44:41 -0600,/t/java,The Exceptional Performance of Lil' Exception,https://shipilev.net/blog/2014/exceptional-performance/,/u/mrfabbri,9
+1,2016-12-16 01:15:51 -0600,"/t/pdf,/t/compsci,/t/programming","Do Be Do Be Do: Exploring Frank, a functional language featuring a bidirectional effect type system",https://arxiv.org/pdf/1611.09259v1.pdf,/u/Snocrash,16
+2,2016-12-16 09:55:12 -0600,"/t/culture,/t/person",Why I Studied Full-Time for 8 Months for a Google Interview,https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13,/u/av,12
+0,2016-12-16 05:08:40 -0600,"/t/book,/t/math",Machine Learning with TensorFlow,http://www.tensorflowbook.com/,/u/av,10
+0,2016-12-16 17:38:19 -0600,"/t/culture,/t/programming",Stroustrup's Rule and Layering Over Time,http://thefeedbackloop.xyz/stroustrups-rule-and-layering-over-time/,/u/akkartik,4
+0,2016-12-16 06:23:23 -0600,/t/programming,printbf -- Brainfuck interpreter in printf,https://github.com/HexHive/printbf,/u/calvin,8
+0,2016-12-16 05:55:21 -0600,"/t/devops,/t/linux",Introducing rkt’s ability to automatically detect privilege escalation attacks on containers,https://coreos.com/blog/rkt-detect-privilege-escalation.html,/u/mhausenblas,7
+0,2016-12-16 06:06:29 -0600,/t/mac,Building ZealDocs for OSX,http://stratus3d.com/blog/2016/12/09/building-zealdocs-for-osx,/u/Stratus3D,3
+21,2016-12-15 05:48:32 -0600,/t/practices,Free Software Needs Free Tools,https://mako.cc/writing/hill-free_tools.html,/u/pizzaiolo,40
+2,2016-12-15 14:22:33 -0600,"/t/event,/t/rust",The First Annual Underhanded Rust Contest,https://underhanded.rs/blog/2016/12/15/underhanded-rust.en-US.html,/u/pushcx,27
+6,2016-12-15 12:28:14 -0600,"/t/browsers,/t/hardware,/t/practices",Firefox Hardware Report,https://metrics.mozilla.com/firefox-hardware-report/,/u/friendlysock,21

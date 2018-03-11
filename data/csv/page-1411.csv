@@ -1,25 +1,25 @@
-0,2014-01-09 13:56:33 -0600,"['/t/compilers', '/t/compsci', '/t/haskell']",Implementing a JIT Compiler with Haskell and LLVM,http://www.stephendiehl.com/llvm/,/u/jm,8
-0,2014-01-09 10:17:06 -0600,"['/t/programming', '/t/ruby']",How Big is a Bignum?,http://patshaughnessy.net/2014/1/9/how-big-is-a-bignum,/u/jcs,12
-3,2014-01-09 11:12:34 -0600,['/t/science'],Childhood amnesia kicks in around age 7,http://bps-research-digest.blogspot.cz/2014/01/childhood-amnesia-kicks-in-around-age-7.html,/u/journeysquid,6
-1,2014-01-09 20:21:35 -0600,['/t/cryptocurrencies'],"I am a tax attorney, here are my answers to the most common questions about the taxation of bitcoins",http://www.reddit.com/r/Bitcoin/comments/1uccfz/i_am_a_tax_attorney_here_are_my_answers_to_the/,/u/jm,1
-2,2014-01-09 06:55:55 -0600,['/t/security'],Security Risks of Embedded Systems,https://www.schneier.com/blog/archives/2014/01/security_risks_9.html,/u/kyle,9
-0,2014-01-09 19:25:22 -0600,['/t/privacy'],Google just made it really easy for strangers to email you,http://www.theverge.com/2014/1/9/5292310/gmail-now-lets-you-send-emails-to-other-google-users,/u/journeysquid,2
-0,2014-01-09 13:58:24 -0600,"['/t/java', '/t/lisp']",Clojure: the JFDI language,https://docs.google.com/presentation/d/15-7qFy6URdE7Owi2LitkQI_OHBu1AFWPUwHxgBc-O4E/edit,/u/michaelochurch,4
-1,2014-01-09 10:41:16 -0600,"['/t/pdf', '/t/book', '/t/compsci', '/t/distributed', '/t/scaling']",Data-Intensive Text Processing with MapReduce [2010],http://beowulf.csail.mit.edu/18.337-2012/MapReduce-book-final.pdf,/u/petrohi,4
-0,2014-01-09 13:20:02 -0600,['/t/cogsci'],Computer Algorithm Seeks To Crack Code Of Fiction Bestsellers,http://www.insidescience.org/content/computer-algorithm-seeks-crack-code-fiction-bestsellers/1530,/u/tobym,2
-7,2014-01-08 20:21:42 -0600,"['/t/show', '/t/c', '/t/hardware']",FPGA MD5 Cracker,https://github.com/zhemao/md5cracker,/u/zhemao,10
-0,2014-01-09 12:52:54 -0600,"['/t/cryptocurrencies', '/t/haskell']",Haskell-based bitcoin startup Bridgewalker is now open source,https://www.bridgewalkerapp.com/blog/2014/01/07/bridgewalker-open-source/,/u/relrod6,2
-2,2014-01-08 10:50:45 -0600,"['/t/javascript', '/t/lisp', '/t/news']",Light Table is open source,http://www.chris-granger.com/2014/01/07/light-table-is-open-source/,/u/rkneufeld,41
-0,2014-01-09 12:16:35 -0600,['/t/programming'],Floobits for Remote Pairing,http://www.22ideastreet.com/blog/2014/01/08/floobits-for-remote-pairing,/u/andrewkkirk,2
-0,2014-01-09 15:02:48 -0600,['/t/visualization'],Graphing your Nest thermostat,http://blog.librato.com/posts/nest-thermostat-monitoring,/u/josephruscio,1
-0,2014-01-09 10:53:33 -0600,['/t/dotnet'],scriptcs - Write C# scripts in your favorite text editor,http://scriptcs.net/,/u/jm,2
-35,2014-01-08 17:45:54 -0600,"['/t/ask', '/t/show', '/t/programming']",What are good small practice projects every programmer needs to do?,/s/ygyu8h/what_are_good_small_practice_projects,/u/whyrusleeping,31
-0,2014-01-09 01:21:46 -0600,"['/t/video', '/t/lisp', '/t/programming']",Streaming MapReduce in Clojure,http://www.youtube.com/watch?v=uuJW3EaN_3Q&feature=youtu.be,/u/juliangamble,6
-0,2014-01-09 08:50:39 -0600,['/t/security'],Digging Into the NSA Revelations,http://rdist.root.org/2014/01/06/digging-into-the-nsa-revelations/,/u/tedu,2
-11,2014-01-08 08:05:30 -0600,['/t/hardware'],Building an Open Source Laptop,http://makezine.com/magazine/building-an-open-source-laptop/,/u/kyle,22
-0,2014-01-09 00:25:52 -0600,['/t/ruby'],"Hammerspace: Persistent, Concurrent, Off-heap Storage",http://nerds.airbnb.com/hammerspace-persistent-concurrent-off-heap-storage/,/u/ataranto,5
-0,2014-01-08 20:16:13 -0600,"['/t/pdf', '/t/hardware', '/t/linux']",What Every Programmer Should Know About Memory [2007],http://www.akkadia.org/drepper/cpumemory.pdf,/u/petrohi,8
-0,2014-01-08 20:44:52 -0600,"['/t/api', '/t/javascript', '/t/ruby']",Hull : social infrastructure for modern apps,http://hull.io,/u/bbthorson,7
-4,2014-01-08 17:11:29 -0600,"['/t/hardware', '/t/security']",Understanding Intel's Ivy Bridge Random Number Generator,http://electronicdesign.com/learning-resources/understanding-intels-ivy-bridge-random-number-generator,/u/kyle,5
-3,2014-01-08 13:39:18 -0600,"['/t/emacs', '/t/go']",Writing Go in Emacs,http://dominik.honnef.co/posts/2013/03/writing_go_in_emacs/,/u/robdaemon,9
-0,2014-01-08 21:39:14 -0600,"['/t/video', '/t/lisp', '/t/programming']",Clojure: Programming with Hand Tools,https://www.youtube.com/watch?v=ShEez0JkOFw,/u/lambda,5
+0,2014-01-09 13:56:33 -0600,"/t/compilers,/t/compsci,/t/haskell",Implementing a JIT Compiler with Haskell and LLVM,http://www.stephendiehl.com/llvm/,/u/jm,8
+0,2014-01-09 10:17:06 -0600,"/t/programming,/t/ruby",How Big is a Bignum?,http://patshaughnessy.net/2014/1/9/how-big-is-a-bignum,/u/jcs,12
+3,2014-01-09 11:12:34 -0600,/t/science,Childhood amnesia kicks in around age 7,http://bps-research-digest.blogspot.cz/2014/01/childhood-amnesia-kicks-in-around-age-7.html,/u/journeysquid,6
+1,2014-01-09 20:21:35 -0600,/t/cryptocurrencies,"I am a tax attorney, here are my answers to the most common questions about the taxation of bitcoins",http://www.reddit.com/r/Bitcoin/comments/1uccfz/i_am_a_tax_attorney_here_are_my_answers_to_the/,/u/jm,1
+2,2014-01-09 06:55:55 -0600,/t/security,Security Risks of Embedded Systems,https://www.schneier.com/blog/archives/2014/01/security_risks_9.html,/u/kyle,9
+0,2014-01-09 19:25:22 -0600,/t/privacy,Google just made it really easy for strangers to email you,http://www.theverge.com/2014/1/9/5292310/gmail-now-lets-you-send-emails-to-other-google-users,/u/journeysquid,2
+0,2014-01-09 13:58:24 -0600,"/t/java,/t/lisp",Clojure: the JFDI language,https://docs.google.com/presentation/d/15-7qFy6URdE7Owi2LitkQI_OHBu1AFWPUwHxgBc-O4E/edit,/u/michaelochurch,4
+1,2014-01-09 10:41:16 -0600,"/t/pdf,/t/book,/t/compsci,/t/distributed,/t/scaling",Data-Intensive Text Processing with MapReduce [2010],http://beowulf.csail.mit.edu/18.337-2012/MapReduce-book-final.pdf,/u/petrohi,4
+0,2014-01-09 13:20:02 -0600,/t/cogsci,Computer Algorithm Seeks To Crack Code Of Fiction Bestsellers,http://www.insidescience.org/content/computer-algorithm-seeks-crack-code-fiction-bestsellers/1530,/u/tobym,2
+7,2014-01-08 20:21:42 -0600,"/t/show,/t/c,/t/hardware",FPGA MD5 Cracker,https://github.com/zhemao/md5cracker,/u/zhemao,10
+0,2014-01-09 12:52:54 -0600,"/t/cryptocurrencies,/t/haskell",Haskell-based bitcoin startup Bridgewalker is now open source,https://www.bridgewalkerapp.com/blog/2014/01/07/bridgewalker-open-source/,/u/relrod6,2
+2,2014-01-08 10:50:45 -0600,"/t/javascript,/t/lisp,/t/news",Light Table is open source,http://www.chris-granger.com/2014/01/07/light-table-is-open-source/,/u/rkneufeld,41
+0,2014-01-09 12:16:35 -0600,/t/programming,Floobits for Remote Pairing,http://www.22ideastreet.com/blog/2014/01/08/floobits-for-remote-pairing,/u/andrewkkirk,2
+0,2014-01-09 15:02:48 -0600,/t/visualization,Graphing your Nest thermostat,http://blog.librato.com/posts/nest-thermostat-monitoring,/u/josephruscio,1
+0,2014-01-09 10:53:33 -0600,/t/dotnet,scriptcs - Write C# scripts in your favorite text editor,http://scriptcs.net/,/u/jm,2
+35,2014-01-08 17:45:54 -0600,"/t/ask,/t/show,/t/programming",What are good small practice projects every programmer needs to do?,/s/ygyu8h/what_are_good_small_practice_projects,/u/whyrusleeping,31
+0,2014-01-09 01:21:46 -0600,"/t/video,/t/lisp,/t/programming",Streaming MapReduce in Clojure,http://www.youtube.com/watch?v=uuJW3EaN_3Q&feature=youtu.be,/u/juliangamble,6
+0,2014-01-09 08:50:39 -0600,/t/security,Digging Into the NSA Revelations,http://rdist.root.org/2014/01/06/digging-into-the-nsa-revelations/,/u/tedu,2
+11,2014-01-08 08:05:30 -0600,/t/hardware,Building an Open Source Laptop,http://makezine.com/magazine/building-an-open-source-laptop/,/u/kyle,22
+0,2014-01-09 00:25:52 -0600,/t/ruby,"Hammerspace: Persistent, Concurrent, Off-heap Storage",http://nerds.airbnb.com/hammerspace-persistent-concurrent-off-heap-storage/,/u/ataranto,5
+0,2014-01-08 20:16:13 -0600,"/t/pdf,/t/hardware,/t/linux",What Every Programmer Should Know About Memory [2007],http://www.akkadia.org/drepper/cpumemory.pdf,/u/petrohi,8
+0,2014-01-08 20:44:52 -0600,"/t/api,/t/javascript,/t/ruby",Hull : social infrastructure for modern apps,http://hull.io,/u/bbthorson,7
+4,2014-01-08 17:11:29 -0600,"/t/hardware,/t/security",Understanding Intel's Ivy Bridge Random Number Generator,http://electronicdesign.com/learning-resources/understanding-intels-ivy-bridge-random-number-generator,/u/kyle,5
+3,2014-01-08 13:39:18 -0600,"/t/emacs,/t/go",Writing Go in Emacs,http://dominik.honnef.co/posts/2013/03/writing_go_in_emacs/,/u/robdaemon,9
+0,2014-01-08 21:39:14 -0600,"/t/video,/t/lisp,/t/programming",Clojure: Programming with Hand Tools,https://www.youtube.com/watch?v=ShEez0JkOFw,/u/lambda,5

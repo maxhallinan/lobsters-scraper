@@ -1,25 +1,25 @@
-1,2015-12-28 13:09:20 -0600,"['/t/erlang', '/t/go', '/t/haskell', '/t/ml', '/t/programming']",Interview with Jesper Louis Andersen,https://medium.com/@unbalancedparen/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-b0de06440fbd,/u/fitzgen,7
-1,2015-12-28 10:35:08 -0600,"['/t/video', '/t/compilers', '/t/compsci']",Pi-Forall: How to use and implement a dependently-typed language,https://www.youtube.com/watch?v=6klfKLBnz9k&list=PLDFjrbtSUOm7_0pUXwfln1P3qweb1Ol3t,/u/pushcx,11
-0,2015-12-29 03:21:13 -0600,['/t/programming'],Programming Primes (1968–1976): A Paradigmatic Program and Its Incarnations in the Age of Structured Programming,http://www.tandfonline.com/doi/full/10.1080/01445340.2015.1065459,/u/mjn,1
-0,2015-12-28 12:45:35 -0600,"['/t/javascript', '/t/release', '/t/visualization']",Introducing d3-scale,https://medium.com/@mbostock/introducing-d3-scale-61980c51545f#.lie98hyvh,/u/pushcx,8
-0,2015-12-28 07:54:56 -0600,"['/t/c', '/t/perl', '/t/programming']",Using Valgrind to find memory problems,http://hoelz.ro/blog/using-valgrind-to-find-memory-problems,/u/hoelzro,7
-0,2015-12-28 10:09:19 -0600,"['/t/book', '/t/reversing']",Reverse Engineering for Beginners,http://beginners.re/,/u/pushcx,9
-1,2015-12-28 13:09:46 -0600,"['/t/databases', '/t/privacy', '/t/security']",191 Million US Voter Registration Records Leaked In Mystery Database,http://www.forbes.com/sites/thomasbrewster/2015/12/28/us-voter-database-leak/,/u/noelle,5
-0,2015-12-28 18:01:40 -0600,"['/t/pdf', '/t/c', '/t/compilers']",Validation and Conversion of Physical Units at Compile Time,http://www.home.hs-karlsruhe.de/~fado0001/2015-32C3/paper-onecolumn-colour.pdf,/u/pushcx,3
-0,2015-12-28 18:55:17 -0600,"['/t/math', '/t/python']",Load Balancing and the Power of Hashing,http://jeremykun.com/2015/12/28/load-balancing-and-the-power-of-hashing/,/u/pyk,2
-0,2015-12-28 12:38:12 -0600,"['/t/api', '/t/databases']",Querying online datasets (reddit and stackoverflow),http://blog.garage-coding.com/2015/12/28/query-online-datasets.html,/u/wsdookadr,2
-0,2015-12-28 17:21:34 -0600,"['/t/math', '/t/science']",The Ancient Egyptian Discovery of Algol’s Period Confirmed,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144140,/u/pushcx,2
-0,2015-12-28 16:26:07 -0600,"['/t/video', '/t/networking', '/t/privacy', '/t/reversing']",How the Great Firewall discovers hidden circumvention servers,https://media.ccc.de/v/32c3-7196-how_the_great_firewall_discovers_hidden_circumvention_servers#video,/u/calvin,2
-0,2015-12-28 16:05:54 -0600,"['/t/pdf', '/t/distributed', '/t/networking']",The Chubby lock service for loosely-coupled distributed systems,https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf,/u/pushcx,2
-26,2015-12-27 12:42:42 -0600,"['/t/c', '/t/erlang', '/t/haskell', '/t/python']","Would You Bet $100,000,000 on Your Pet Programming Language? (2007)",http://prog21.dadgum.com/13.html,/u/michaelochurch,23
-1,2015-12-28 08:17:23 -0600,"['/t/design', '/t/web']","Grid, Flexbox, Box Alignment: Our New System for Layout",https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/,/u/flyingfisch,3
-2,2015-12-27 21:34:45 -0600,['/t/unix'],Processing mail is hard(ly difficult),http://plasmasturm.org/log/mailsort/,/u/pushcx,16
-0,2015-12-28 11:02:40 -0600,"['/t/assembly', '/t/hardware']",Proposal for an ideal extensible instruction set,http://www.agner.org/optimize/blog/read.php?i=421,/u/pushcx,3
-9,2015-12-27 23:47:17 -0600,"['/t/devops', '/t/hardware', '/t/practices', '/t/scaling']",The Environmental Toll of a Netflix Binge,http://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/,/u/tedu,5
-14,2015-12-27 07:34:42 -0600,['/t/rust'],intermezzOS: a little OS,https://intermezzos.github.io/,/u/superpat,22
-0,2015-12-28 05:44:11 -0600,"['/t/openbsd', '/t/security']",VPN IKEv2 between a Windows 8 Road Warrior Host and an OpenBSD gateway,http://mouedine.net/,/u/mulander,3
-0,2015-12-27 16:24:53 -0600,['/t/databases'],Postgres 9.5 - The feature rundown,http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/,/u/craigkerstiens,14
-0,2015-12-28 06:40:43 -0600,"['/t/assembly', '/t/reversing', '/t/testing']",A (mostly) useful debugger on z/OS,http://www.bigendiansmalls.com/a-mostly-useful-debugger-on-zos/,/u/calvin,2
-0,2015-12-28 10:29:52 -0600,['/t/c'],Is malloc slow? (2011),http://voices.canonical.com/jussi.pakkanen/2011/09/27/is-malloc-slow/,/u/pyk,1
-0,2015-12-27 10:07:57 -0600,"['/t/show', '/t/go', '/t/javascript', '/t/web']",Raspchat a Raspberry Pi web chat server.,http://raspchat.ngrok.io/,/u/mxp,13
-0,2015-12-28 08:45:12 -0600,"['/t/pdf', '/t/security']",Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures,http://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf,/u/craigstuntz,1
+1,2015-12-28 13:09:20 -0600,"/t/erlang,/t/go,/t/haskell,/t/ml,/t/programming",Interview with Jesper Louis Andersen,https://medium.com/@unbalancedparen/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-b0de06440fbd,/u/fitzgen,7
+1,2015-12-28 10:35:08 -0600,"/t/video,/t/compilers,/t/compsci",Pi-Forall: How to use and implement a dependently-typed language,https://www.youtube.com/watch?v=6klfKLBnz9k&list=PLDFjrbtSUOm7_0pUXwfln1P3qweb1Ol3t,/u/pushcx,11
+0,2015-12-29 03:21:13 -0600,/t/programming,Programming Primes (1968–1976): A Paradigmatic Program and Its Incarnations in the Age of Structured Programming,http://www.tandfonline.com/doi/full/10.1080/01445340.2015.1065459,/u/mjn,1
+0,2015-12-28 12:45:35 -0600,"/t/javascript,/t/release,/t/visualization",Introducing d3-scale,https://medium.com/@mbostock/introducing-d3-scale-61980c51545f#.lie98hyvh,/u/pushcx,8
+0,2015-12-28 07:54:56 -0600,"/t/c,/t/perl,/t/programming",Using Valgrind to find memory problems,http://hoelz.ro/blog/using-valgrind-to-find-memory-problems,/u/hoelzro,7
+0,2015-12-28 10:09:19 -0600,"/t/book,/t/reversing",Reverse Engineering for Beginners,http://beginners.re/,/u/pushcx,9
+1,2015-12-28 13:09:46 -0600,"/t/databases,/t/privacy,/t/security",191 Million US Voter Registration Records Leaked In Mystery Database,http://www.forbes.com/sites/thomasbrewster/2015/12/28/us-voter-database-leak/,/u/noelle,5
+0,2015-12-28 18:01:40 -0600,"/t/pdf,/t/c,/t/compilers",Validation and Conversion of Physical Units at Compile Time,http://www.home.hs-karlsruhe.de/~fado0001/2015-32C3/paper-onecolumn-colour.pdf,/u/pushcx,3
+0,2015-12-28 18:55:17 -0600,"/t/math,/t/python",Load Balancing and the Power of Hashing,http://jeremykun.com/2015/12/28/load-balancing-and-the-power-of-hashing/,/u/pyk,2
+0,2015-12-28 12:38:12 -0600,"/t/api,/t/databases",Querying online datasets (reddit and stackoverflow),http://blog.garage-coding.com/2015/12/28/query-online-datasets.html,/u/wsdookadr,2
+0,2015-12-28 17:21:34 -0600,"/t/math,/t/science",The Ancient Egyptian Discovery of Algol’s Period Confirmed,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144140,/u/pushcx,2
+0,2015-12-28 16:26:07 -0600,"/t/video,/t/networking,/t/privacy,/t/reversing",How the Great Firewall discovers hidden circumvention servers,https://media.ccc.de/v/32c3-7196-how_the_great_firewall_discovers_hidden_circumvention_servers#video,/u/calvin,2
+0,2015-12-28 16:05:54 -0600,"/t/pdf,/t/distributed,/t/networking",The Chubby lock service for loosely-coupled distributed systems,https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf,/u/pushcx,2
+26,2015-12-27 12:42:42 -0600,"/t/c,/t/erlang,/t/haskell,/t/python","Would You Bet $100,000,000 on Your Pet Programming Language? (2007)",http://prog21.dadgum.com/13.html,/u/michaelochurch,23
+1,2015-12-28 08:17:23 -0600,"/t/design,/t/web","Grid, Flexbox, Box Alignment: Our New System for Layout",https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/,/u/flyingfisch,3
+2,2015-12-27 21:34:45 -0600,/t/unix,Processing mail is hard(ly difficult),http://plasmasturm.org/log/mailsort/,/u/pushcx,16
+0,2015-12-28 11:02:40 -0600,"/t/assembly,/t/hardware",Proposal for an ideal extensible instruction set,http://www.agner.org/optimize/blog/read.php?i=421,/u/pushcx,3
+9,2015-12-27 23:47:17 -0600,"/t/devops,/t/hardware,/t/practices,/t/scaling",The Environmental Toll of a Netflix Binge,http://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/,/u/tedu,5
+14,2015-12-27 07:34:42 -0600,/t/rust,intermezzOS: a little OS,https://intermezzos.github.io/,/u/superpat,22
+0,2015-12-28 05:44:11 -0600,"/t/openbsd,/t/security",VPN IKEv2 between a Windows 8 Road Warrior Host and an OpenBSD gateway,http://mouedine.net/,/u/mulander,3
+0,2015-12-27 16:24:53 -0600,/t/databases,Postgres 9.5 - The feature rundown,http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/,/u/craigkerstiens,14
+0,2015-12-28 06:40:43 -0600,"/t/assembly,/t/reversing,/t/testing",A (mostly) useful debugger on z/OS,http://www.bigendiansmalls.com/a-mostly-useful-debugger-on-zos/,/u/calvin,2
+0,2015-12-28 10:29:52 -0600,/t/c,Is malloc slow? (2011),http://voices.canonical.com/jussi.pakkanen/2011/09/27/is-malloc-slow/,/u/pyk,1
+0,2015-12-27 10:07:57 -0600,"/t/show,/t/go,/t/javascript,/t/web",Raspchat a Raspberry Pi web chat server.,http://raspchat.ngrok.io/,/u/mxp,13
+0,2015-12-28 08:45:12 -0600,"/t/pdf,/t/security",Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures,http://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf,/u/craigstuntz,1

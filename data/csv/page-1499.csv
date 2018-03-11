@@ -1,25 +1,25 @@
-0,2013-02-21 08:26:37 -0600,['/t/design'],"Design critiques are loaded with BS, and that's OK",http://www.michaelboeke.com/post/43626708438/design-critiques-are-loaded-with-bs-and-thats-ok,/u/michael,2
-0,2013-02-21 10:10:50 -0600,['/t/databases'],Getting more out of psql,http://craigkerstiens.com/2013/02/21/more-out-of-psql/,/u/craigkerstiens,1
-1,2013-02-20 13:32:06 -0600,"['/t/show', '/t/release']","Show Lobste.rs: Marksy - easily translate between markup languages on the fly, in your browser",http://marksy.arc90.com/,/u/d_run,8
-1,2013-02-20 10:54:50 -0600,['/t/go'],Golang Weekly Issue #1,http://golangweekly.com/archive/golang-weekly-issue-1.html,/u/kyle,5
-0,2013-02-20 17:06:30 -0600,"['/t/design', '/t/practices', '/t/web']",Dynamic Selectors in CSS: What Bootstrap Should Do,http://philipwalton.com/articles/dynamic-selectors/,/u/philipwalton,2
-0,2013-02-20 20:15:00 -0600,"['/t/android', '/t/security']",Secure USB debugging in Android 4.2.2,http://nelenkov.blogspot.co.uk/2013/02/secure-usb-debugging-in-android-422.html,/u/jcs,1
-0,2013-02-20 20:12:08 -0600,"['/t/android', '/t/security']",Using Cryptography to Store Credentials Safely,http://android-developers.blogspot.com/2013/02/using-cryptography-to-store-credentials.html,/u/jcs,1
-0,2013-02-20 10:42:28 -0600,"['/t/browsers', '/t/security']",How we hacked Facebook with OAuth2 and Chrome bugs,http://homakov.blogspot.com/2013/02/hacking-facebook-with-oauth2-and-chrome.html,/u/jcs,4
-0,2013-02-20 13:31:21 -0600,"['/t/show', '/t/python']",show lobste.rs: pyermc - python memcache library (yet another),https://github.com/playhaven/pyermc,/u/trousers,2
-0,2013-02-20 03:38:33 -0600,"['/t/c', '/t/security']","Cryptography Coding Standard: Rules, guidelines and references for the most common mistakes.",https://cryptocoding.net/,/u/thorduri,5
-8,2013-02-19 09:28:30 -0600,"['/t/interview', '/t/person']",Lobsters interview with Steve Klabnik,/s/x5hnrf/lobsters_interview_with_steve_klabnik,/u/jcs,21
-0,2013-02-20 05:23:55 -0600,"['/t/compsci', '/t/hardware']",Mechanical Sympathy: Cache Flushing Fallacy,http://mechanical-sympathy.blogspot.se/2013/02/cpu-cache-flushing-fallacy.html,/u/thorduri,2
-0,2013-02-19 13:58:01 -0600,"['/t/javascript', '/t/web']","Emblem.js: a concise, indented alternative Handlebars syntax",http://emblemjs.com,/u/railsjedi,3
-0,2013-02-19 11:24:37 -0600,"['/t/ruby', '/t/web']",Decoding Rails Session Cookies,http://alindeman.github.com/2013/02/18/decoding-rails-session-cookies.html,/u/alindeman,3
-0,2013-02-19 12:52:03 -0600,"['/t/show', '/t/python', '/t/vcs', '/t/vim']",[Show lobste.rs] vim plugin to view git/hg add/mod/del in gutter,https://bitbucket.org/sirpengi/iwilldiffer,/u/sirpengi,2
-2,2013-02-18 10:39:14 -0600,['/t/show'],Show Lobste.rs: The Well-Sorted Version,http://www.wellsortedversion.com,/u/pushcx,10
-0,2013-02-18 21:21:08 -0600,['/t/windows'],Running x86 apps on WinRT devices,http://forum.xda-developers.com/showthread.php?t=2095934,/u/sridatta,2
-1,2013-02-18 11:27:56 -0600,['/t/databases'],Is MySQL 5.6 slower than MySQL 5.5?,http://www.mysqlperformanceblog.com/2013/02/18/is-mysql-5-6-slower-than-mysql-5-5/,/u/andrew,5
-0,2013-02-19 00:18:18 -0600,['/t/python'],There's no magic: virtualenv edition,https://www.hackerschool.com/blog/14-there-is-no-magic-virtualenv-edition,/u/tobym,1
-0,2013-02-18 09:45:42 -0600,"['/t/freebsd', '/t/netbsd', '/t/openbsd', '/t/unix']","mdoc.su — Short manual page URLs for FreeBSD, OpenBSD, NetBSD and DragonFly BSD",http://mdoc.su/,/u/jcs,8
-0,2013-02-18 18:42:59 -0600,"['/t/hardware', '/t/linux']",Sputnik 2 is here: Dell XPS 13 Developer Edition goes 1080p and lands in Europe,http://bartongeorge.net/2013/02/18/spuntik-2-is-here-xps-13-developer-edition-goes-1080p-and-launches-in-emea/,/u/jcs,2
-0,2013-02-18 09:37:56 -0600,"['/t/hardware', '/t/reversing']",HDCP is dead. Long live HDCP. A peek into the curious world of HDMI copy protection...,http://adamsblog.aperturelabs.com/2013/02/hdcp-is-dead-long-live-hdcp-peek-into.html,/u/jcs,3
-0,2013-02-18 01:03:01 -0600,"['/t/show', '/t/web']",Helping Beginners Get HTML Right,http://kev.inburke.com/kevin/helping-you-get-html-right/,/u/kb,5
-2,2013-02-17 18:35:24 -0600,['/t/unix'],Useless Use of This and That,http://www.netmeister.org/slides/nycbug201205/,/u/chneukirchen,7
-0,2013-02-18 08:34:59 -0600,['/t/philosophy'],Tips for work-life balance,http://matt.might.net/articles/work-life-balance/,/u/tobym,1
+0,2013-02-21 08:26:37 -0600,/t/design,"Design critiques are loaded with BS, and that's OK",http://www.michaelboeke.com/post/43626708438/design-critiques-are-loaded-with-bs-and-thats-ok,/u/michael,2
+0,2013-02-21 10:10:50 -0600,/t/databases,Getting more out of psql,http://craigkerstiens.com/2013/02/21/more-out-of-psql/,/u/craigkerstiens,1
+1,2013-02-20 13:32:06 -0600,"/t/show,/t/release","Show Lobste.rs: Marksy - easily translate between markup languages on the fly, in your browser",http://marksy.arc90.com/,/u/d_run,8
+1,2013-02-20 10:54:50 -0600,/t/go,Golang Weekly Issue #1,http://golangweekly.com/archive/golang-weekly-issue-1.html,/u/kyle,5
+0,2013-02-20 17:06:30 -0600,"/t/design,/t/practices,/t/web",Dynamic Selectors in CSS: What Bootstrap Should Do,http://philipwalton.com/articles/dynamic-selectors/,/u/philipwalton,2
+0,2013-02-20 20:15:00 -0600,"/t/android,/t/security",Secure USB debugging in Android 4.2.2,http://nelenkov.blogspot.co.uk/2013/02/secure-usb-debugging-in-android-422.html,/u/jcs,1
+0,2013-02-20 20:12:08 -0600,"/t/android,/t/security",Using Cryptography to Store Credentials Safely,http://android-developers.blogspot.com/2013/02/using-cryptography-to-store-credentials.html,/u/jcs,1
+0,2013-02-20 10:42:28 -0600,"/t/browsers,/t/security",How we hacked Facebook with OAuth2 and Chrome bugs,http://homakov.blogspot.com/2013/02/hacking-facebook-with-oauth2-and-chrome.html,/u/jcs,4
+0,2013-02-20 13:31:21 -0600,"/t/show,/t/python",show lobste.rs: pyermc - python memcache library (yet another),https://github.com/playhaven/pyermc,/u/trousers,2
+0,2013-02-20 03:38:33 -0600,"/t/c,/t/security","Cryptography Coding Standard: Rules, guidelines and references for the most common mistakes.",https://cryptocoding.net/,/u/thorduri,5
+8,2013-02-19 09:28:30 -0600,"/t/interview,/t/person",Lobsters interview with Steve Klabnik,/s/x5hnrf/lobsters_interview_with_steve_klabnik,/u/jcs,21
+0,2013-02-20 05:23:55 -0600,"/t/compsci,/t/hardware",Mechanical Sympathy: Cache Flushing Fallacy,http://mechanical-sympathy.blogspot.se/2013/02/cpu-cache-flushing-fallacy.html,/u/thorduri,2
+0,2013-02-19 13:58:01 -0600,"/t/javascript,/t/web","Emblem.js: a concise, indented alternative Handlebars syntax",http://emblemjs.com,/u/railsjedi,3
+0,2013-02-19 11:24:37 -0600,"/t/ruby,/t/web",Decoding Rails Session Cookies,http://alindeman.github.com/2013/02/18/decoding-rails-session-cookies.html,/u/alindeman,3
+0,2013-02-19 12:52:03 -0600,"/t/show,/t/python,/t/vcs,/t/vim",[Show lobste.rs] vim plugin to view git/hg add/mod/del in gutter,https://bitbucket.org/sirpengi/iwilldiffer,/u/sirpengi,2
+2,2013-02-18 10:39:14 -0600,/t/show,Show Lobste.rs: The Well-Sorted Version,http://www.wellsortedversion.com,/u/pushcx,10
+0,2013-02-18 21:21:08 -0600,/t/windows,Running x86 apps on WinRT devices,http://forum.xda-developers.com/showthread.php?t=2095934,/u/sridatta,2
+1,2013-02-18 11:27:56 -0600,/t/databases,Is MySQL 5.6 slower than MySQL 5.5?,http://www.mysqlperformanceblog.com/2013/02/18/is-mysql-5-6-slower-than-mysql-5-5/,/u/andrew,5
+0,2013-02-19 00:18:18 -0600,/t/python,There's no magic: virtualenv edition,https://www.hackerschool.com/blog/14-there-is-no-magic-virtualenv-edition,/u/tobym,1
+0,2013-02-18 09:45:42 -0600,"/t/freebsd,/t/netbsd,/t/openbsd,/t/unix","mdoc.su — Short manual page URLs for FreeBSD, OpenBSD, NetBSD and DragonFly BSD",http://mdoc.su/,/u/jcs,8
+0,2013-02-18 18:42:59 -0600,"/t/hardware,/t/linux",Sputnik 2 is here: Dell XPS 13 Developer Edition goes 1080p and lands in Europe,http://bartongeorge.net/2013/02/18/spuntik-2-is-here-xps-13-developer-edition-goes-1080p-and-launches-in-emea/,/u/jcs,2
+0,2013-02-18 09:37:56 -0600,"/t/hardware,/t/reversing",HDCP is dead. Long live HDCP. A peek into the curious world of HDMI copy protection...,http://adamsblog.aperturelabs.com/2013/02/hdcp-is-dead-long-live-hdcp-peek-into.html,/u/jcs,3
+0,2013-02-18 01:03:01 -0600,"/t/show,/t/web",Helping Beginners Get HTML Right,http://kev.inburke.com/kevin/helping-you-get-html-right/,/u/kb,5
+2,2013-02-17 18:35:24 -0600,/t/unix,Useless Use of This and That,http://www.netmeister.org/slides/nycbug201205/,/u/chneukirchen,7
+0,2013-02-18 08:34:59 -0600,/t/philosophy,Tips for work-life balance,http://matt.might.net/articles/work-life-balance/,/u/tobym,1

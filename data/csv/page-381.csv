@@ -1,25 +1,25 @@
-7,2017-05-02 14:42:48 -0500,"['/t/programming', '/t/security']",Why safe languages are the best way to achieve memory safety,http://trevorjim.com/why-safe-languages-are-the-best-way-to-achieve-memory-safety/,/u/davidjpeacock,10
-8,2017-05-02 12:49:24 -0500,"['/t/browsers', '/t/security', '/t/web']",Google Is Making Sweeping Changes to How We Keep the Internet Safe,http://www.slate.com/articles/technology/future_tense/2017/05/google_is_making_sweeping_changes_to_how_we_keep_secure_websites_secure.html,/u/itistoday,12
-1,2017-05-03 10:52:20 -0500,"['/t/pdf', '/t/math', '/t/rant']",A Mathematician’s Lament,https://www.maa.org/external_archive/devlin/LockhartsLament.pdf,/u/lukas,3
-1,2017-05-02 20:28:47 -0500,['/t/art'],"RFC 8140: ""The Arte of ASCII: Or, An True and Accurate Representation of an Menagerie of Thynges""",https://www.rfc-editor.org/rfc/rfc8140.txt,/u/sajith,6
-0,2017-05-03 10:10:35 -0500,['/t/css'],Ordered Lists with Unicode Symbols,https://css-tricks.com/ordered-lists-unicode-symbols/,/u/flyingfisch,1
-0,2017-05-03 10:08:18 -0500,['/t/css'],CSS Ruleset Terminology,https://css-tricks.com/css-ruleset-terminology/,/u/flyingfisch,1
-0,2017-05-03 10:06:55 -0500,['/t/javascript'],Functional pattern: flatMap,http://2ality.com/2017/04/flatmap.html,/u/flyingfisch,1
-2,2017-05-02 14:41:03 -0500,"['/t/assembly', '/t/hardware']",Agner`s CPU blog - Test results for AMD Ryzen,http://agner.org/optimize/blog/read.php?i=838,/u/orib,10
-1,2017-05-02 20:19:57 -0500,"['/t/pdf', '/t/ml', '/t/programming', '/t/unix']",UNIX System Programming with Standard ML (2001),http://mlton.org/References.attachments/Shipman02.pdf,/u/nickpsecurity,5
-0,2017-05-02 17:06:00 -0500,"['/t/haskell', '/t/release']",Duckling: a Haskell library that parses text into structured data,https://github.com/facebookincubator/duckling,/u/pushcx,9
-1,2017-05-02 04:29:15 -0500,"['/t/release', '/t/vim']",neovim 0.2 released,https://github.com/neovim/neovim/releases/tag/v0.2.0,/u/geier,31
-1,2017-05-02 12:09:03 -0500,"['/t/c', '/t/compilers', '/t/release']",GCC 7.1 Released,https://gcc.gnu.org/ml/gcc/2017-05/msg00017.html,/u/halosghost,14
-3,2017-05-02 05:17:29 -0500,['/t/linux'],OpenSnitch: a GNU/Linux port of the Little Snitch application firewall.,https://github.com/evilsocket/opensnitch,/u/dvk,25
-0,2017-05-03 07:36:34 -0500,"['/t/crypto', '/t/games']",PLEASE REMAIN CALM: Solving the Owl Sector ARG,https://fatebringer.net/please-remain-calm/,/u/cmacrae,1
-5,2017-05-02 06:23:47 -0500,"['/t/programming', '/t/unix']",Why GNU Autotools is not my favorite build system (2011),http://voices.canonical.com/jussi.pakkanen/2011/09/13/autotools/,/u/calvin,12
-0,2017-05-02 14:42:29 -0500,"['/t/hardware', '/t/linux']",Debian GNU/Linux port for RISC-V 64-bit (riscv64),https://people.debian.org/~mafm/posts/2017/20170422_debian-gnulinux-port-for-risc-v-64-bit-riscv64/,/u/Quintus,9
-0,2017-05-02 19:06:38 -0500,['/t/practices'],Beans and Noses,https://www.uie.com/brainsparks/2011/07/08/beans-and-noses/,/u/grahamc,5
-43,2017-05-01 10:44:08 -0500,"['/t/hardware', '/t/security']",Remote security exploit in all 2008+ Intel platforms,https://semiaccurate.com/2017/05/01/remote-security-exploit-2008-intel-platforms/,/u/albino,77
-8,2017-05-02 04:50:23 -0500,['/t/databases'],SQL is 43 years old - here’s 8 reasons we still use it today,http://blog.sqlizer.io/posts/sql-43/,/u/wgx,11
-0,2017-05-02 23:54:48 -0500,"['/t/games', '/t/programming']",Deriving Quests from Open World Mechanics,https://arxiv.org/abs/1705.00341,/u/friendlysock,2
-0,2017-05-02 18:53:03 -0500,"['/t/c', '/t/programming', '/t/python']",C++ Language Interface Foundation (CLIF),https://github.com/google/clif,/u/zem,3
-1,2017-05-02 11:09:28 -0500,['/t/practices'],"The good, the bad, and the clients",http://martiancraft.com/blog/2017/05/client-interview/,/u/zmcartor,2
-0,2017-05-02 10:01:16 -0500,['/t/lisp'],Simplified Common Lisp reference,http://jtra.cz/stuff/lisp/sclr/index.html,/u/pushcx,6
-2,2017-05-02 19:52:06 -0500,['/t/satire'],n-gate on FOSDEM,http://n-gate.com/fosdem/,/u/akalin,3
-0,2017-05-02 06:34:41 -0500,['/t/haskell'],What do you mean ExceptT doesn't Compose?,http://www.mega-nerd.com/erikd/Blog/CodeHacking/Haskell/what_do_you_mean.html,/u/puffnfresh,8
+7,2017-05-02 14:42:48 -0500,"/t/programming,/t/security",Why safe languages are the best way to achieve memory safety,http://trevorjim.com/why-safe-languages-are-the-best-way-to-achieve-memory-safety/,/u/davidjpeacock,10
+8,2017-05-02 12:49:24 -0500,"/t/browsers,/t/security,/t/web",Google Is Making Sweeping Changes to How We Keep the Internet Safe,http://www.slate.com/articles/technology/future_tense/2017/05/google_is_making_sweeping_changes_to_how_we_keep_secure_websites_secure.html,/u/itistoday,12
+1,2017-05-03 10:52:20 -0500,"/t/pdf,/t/math,/t/rant",A Mathematician’s Lament,https://www.maa.org/external_archive/devlin/LockhartsLament.pdf,/u/lukas,3
+1,2017-05-02 20:28:47 -0500,/t/art,"RFC 8140: ""The Arte of ASCII: Or, An True and Accurate Representation of an Menagerie of Thynges""",https://www.rfc-editor.org/rfc/rfc8140.txt,/u/sajith,6
+0,2017-05-03 10:10:35 -0500,/t/css,Ordered Lists with Unicode Symbols,https://css-tricks.com/ordered-lists-unicode-symbols/,/u/flyingfisch,1
+0,2017-05-03 10:08:18 -0500,/t/css,CSS Ruleset Terminology,https://css-tricks.com/css-ruleset-terminology/,/u/flyingfisch,1
+0,2017-05-03 10:06:55 -0500,/t/javascript,Functional pattern: flatMap,http://2ality.com/2017/04/flatmap.html,/u/flyingfisch,1
+2,2017-05-02 14:41:03 -0500,"/t/assembly,/t/hardware",Agner`s CPU blog - Test results for AMD Ryzen,http://agner.org/optimize/blog/read.php?i=838,/u/orib,10
+1,2017-05-02 20:19:57 -0500,"/t/pdf,/t/ml,/t/programming,/t/unix",UNIX System Programming with Standard ML (2001),http://mlton.org/References.attachments/Shipman02.pdf,/u/nickpsecurity,5
+0,2017-05-02 17:06:00 -0500,"/t/haskell,/t/release",Duckling: a Haskell library that parses text into structured data,https://github.com/facebookincubator/duckling,/u/pushcx,9
+1,2017-05-02 04:29:15 -0500,"/t/release,/t/vim",neovim 0.2 released,https://github.com/neovim/neovim/releases/tag/v0.2.0,/u/geier,31
+1,2017-05-02 12:09:03 -0500,"/t/c,/t/compilers,/t/release",GCC 7.1 Released,https://gcc.gnu.org/ml/gcc/2017-05/msg00017.html,/u/halosghost,14
+3,2017-05-02 05:17:29 -0500,/t/linux,OpenSnitch: a GNU/Linux port of the Little Snitch application firewall.,https://github.com/evilsocket/opensnitch,/u/dvk,25
+0,2017-05-03 07:36:34 -0500,"/t/crypto,/t/games",PLEASE REMAIN CALM: Solving the Owl Sector ARG,https://fatebringer.net/please-remain-calm/,/u/cmacrae,1
+5,2017-05-02 06:23:47 -0500,"/t/programming,/t/unix",Why GNU Autotools is not my favorite build system (2011),http://voices.canonical.com/jussi.pakkanen/2011/09/13/autotools/,/u/calvin,12
+0,2017-05-02 14:42:29 -0500,"/t/hardware,/t/linux",Debian GNU/Linux port for RISC-V 64-bit (riscv64),https://people.debian.org/~mafm/posts/2017/20170422_debian-gnulinux-port-for-risc-v-64-bit-riscv64/,/u/Quintus,9
+0,2017-05-02 19:06:38 -0500,/t/practices,Beans and Noses,https://www.uie.com/brainsparks/2011/07/08/beans-and-noses/,/u/grahamc,5
+43,2017-05-01 10:44:08 -0500,"/t/hardware,/t/security",Remote security exploit in all 2008+ Intel platforms,https://semiaccurate.com/2017/05/01/remote-security-exploit-2008-intel-platforms/,/u/albino,77
+8,2017-05-02 04:50:23 -0500,/t/databases,SQL is 43 years old - here’s 8 reasons we still use it today,http://blog.sqlizer.io/posts/sql-43/,/u/wgx,11
+0,2017-05-02 23:54:48 -0500,"/t/games,/t/programming",Deriving Quests from Open World Mechanics,https://arxiv.org/abs/1705.00341,/u/friendlysock,2
+0,2017-05-02 18:53:03 -0500,"/t/c,/t/programming,/t/python",C++ Language Interface Foundation (CLIF),https://github.com/google/clif,/u/zem,3
+1,2017-05-02 11:09:28 -0500,/t/practices,"The good, the bad, and the clients",http://martiancraft.com/blog/2017/05/client-interview/,/u/zmcartor,2
+0,2017-05-02 10:01:16 -0500,/t/lisp,Simplified Common Lisp reference,http://jtra.cz/stuff/lisp/sclr/index.html,/u/pushcx,6
+2,2017-05-02 19:52:06 -0500,/t/satire,n-gate on FOSDEM,http://n-gate.com/fosdem/,/u/akalin,3
+0,2017-05-02 06:34:41 -0500,/t/haskell,What do you mean ExceptT doesn't Compose?,http://www.mega-nerd.com/erikd/Blog/CodeHacking/Haskell/what_do_you_mean.html,/u/puffnfresh,8

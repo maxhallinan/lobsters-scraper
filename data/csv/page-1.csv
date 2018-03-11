@@ -1,25 +1,25 @@
-7,2018-03-05 03:25:31 -0600,"['/t/ai', '/t/c', '/t/c++', '/t/openbsd', '/t/person']","John Carmack on OpenBSD, C++ & machine learning",https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590,/u/mulander,16
-24,2018-03-04 16:16:42 -0600,['/t/practices'],Only code at work? That doesn’t make you a worse programmer,https://codewithoutrules.com/2018/03/04/only-code-at-work/,/u/itamarst,12
-12,2018-03-05 00:25:24 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/t5x3zi/what_are_you_working_on_this_week,/u/kzisme,8
-0,2018-03-05 02:59:40 -0600,"['/t/distributed', '/t/web']",ActivityPub support in Pleroma,https://blog.soykaf.com/post/activity-pub-in-pleroma/,/u/mercer,4
-0,2018-03-05 00:23:27 -0600,['/t/linux'],Nerd Sniped by BINFMT_MISC,https://blog.jessfraz.com/post/nerd-sniped-by-binfmt_misc/,/u/awreece,10
-0,2018-03-05 06:22:01 -0600,"['/t/css', '/t/security']",Third party CSS is not safe,https://jakearchibald.com/2018/third-party-css-is-not-safe/,/u/pizzaiolo,4
-9,2018-03-04 07:23:18 -0600,['/t/rust'],Why Rust Has Macros,https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/,/u/calvin,24
-0,2018-03-05 07:10:12 -0600,"['/t/video', '/t/ruby']",Encrypted Credentials in Rails 5.2,https://www.driftingruby.com/episodes/encrypted-credentials-in-rails-5-2,/u/kobaltz,1
-0,2018-03-04 16:37:58 -0600,['/t/culture'],"Hiveway.io shamelessly rips off of Mastodon and slaps a blockchain on top, for some reason",https://medium.com/we-distribute/hiveway-io-shamelessly-rips-off-of-mastodon-and-slaps-a-blockchain-on-top-for-some-reason-57b7aba3e84f,/u/erin,27
-1,2018-03-04 08:39:37 -0600,"['/t/video', '/t/games']",4-2: The History of Super Mario Bros.' Most Infamous Level,https://www.youtube.com/watch?v=i1AHCaokqhg,/u/michaelochurch,30
-1,2018-03-04 17:25:29 -0600,"['/t/compilers', '/t/haskell', '/t/ml']",Amulet's New Type Checker,https://hydraz.semi.works/posts/2018-02-18.html,/u/hydraz,5
-3,2018-03-04 23:25:06 -0600,"['/t/c', '/t/games']",LoveDOS – a reimplementation of LÖVE 2D game engine API for MS-DOS (2017),https://github.com/rxi/lovedos,/u/skrzyp,3
-0,2018-03-05 07:11:54 -0600,['/t/ai'],Do neural nets dream of electric sheep?,http://aiweirdness.com/post/171451900302/do-neural-nets-dream-of-electric-sheep,/u/jabberwock,1
-1,2018-03-04 23:22:03 -0600,"['/t/programming', '/t/reversing']",Reclaim your abandonware,https://alva.link/post/reclaim-your-abandonware/,/u/hoopla,2
-0,2018-03-04 16:43:02 -0600,"['/t/netbsd', '/t/unix']",A week of NetBSD #1,https://www.geeklan.co.uk/?p=2256,/u/sevan,4
-1,2018-03-04 23:00:19 -0600,['/t/practices'],The Homely Mutt (2012),http://stevelosh.com/blog/2012/10/the-homely-mutt/,/u/cnst,3
-0,2018-03-05 01:29:51 -0600,"['/t/video', '/t/practices']",Accelerating Agile: hyper-performing teams without the hype (2013),https://vimeo.com/68215534,/u/dbremner,2
-0,2018-03-04 19:57:42 -0600,['/t/distributed'],Paxos shaken but not stirred,http://www.yodaiken.com/2018/03/04/paxos-shaken-but-not-stirred/,/u/vyodaiken,2
-0,2018-03-04 17:06:09 -0600,"['/t/dotnet', '/t/ml', '/t/plt']",Type Inference by Solving Constraints,http://www.calebh.io/Type-Inference-by-Solving-Constraints/,/u/calvin,6
-0,2018-03-04 16:51:22 -0600,['/t/networking'],"The XMPP Newsletter, 28 February 2018",https://xmpp.org/2018/02/the-xmpp-newsletter-28-february-2018/,/u/evaryont,6
-0,2018-03-04 17:22:58 -0600,['/t/emacs'],emacs anywhere,https://github.com/zachcurry/emacs-anywhere,/u/zpojqwfejwfhiunz,4
-0,2018-03-04 21:04:54 -0600,['/t/haskell'],MonadFix and the Lazy and Strict State Monad,https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html,/u/pushcx,3
-0,2018-03-04 01:44:15 -0600,['/t/rust'],Serializing awkward data with serde,http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html,/u/Screwtape,14
-2,2018-03-04 14:50:59 -0600,"['/t/compsci', '/t/haskell']",Constructing human-grade parsers,http://duriansoftware.com/joe/Constructing-human-grade-parsers.html,/u/hwayne,3
-2,2018-03-04 05:38:46 -0600,"['/t/hardware', '/t/historical']",How US watchmakers tried to get ahead of the quartz watch game in the 1970s,https://www.hodinkee.com/articles/four-revolutions-led-watches,/u/gerikson,11
+7,2018-03-05 03:25:31 -0600,"/t/ai,/t/c,/t/c++,/t/openbsd,/t/person","John Carmack on OpenBSD, C++ & machine learning",https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590,/u/mulander,16
+24,2018-03-04 16:16:42 -0600,/t/practices,Only code at work? That doesn’t make you a worse programmer,https://codewithoutrules.com/2018/03/04/only-code-at-work/,/u/itamarst,12
+12,2018-03-05 00:25:24 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/t5x3zi/what_are_you_working_on_this_week,/u/kzisme,8
+0,2018-03-05 02:59:40 -0600,"/t/distributed,/t/web",ActivityPub support in Pleroma,https://blog.soykaf.com/post/activity-pub-in-pleroma/,/u/mercer,4
+0,2018-03-05 00:23:27 -0600,/t/linux,Nerd Sniped by BINFMT_MISC,https://blog.jessfraz.com/post/nerd-sniped-by-binfmt_misc/,/u/awreece,10
+0,2018-03-05 06:22:01 -0600,"/t/css,/t/security",Third party CSS is not safe,https://jakearchibald.com/2018/third-party-css-is-not-safe/,/u/pizzaiolo,4
+9,2018-03-04 07:23:18 -0600,/t/rust,Why Rust Has Macros,https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/,/u/calvin,24
+0,2018-03-05 07:10:12 -0600,"/t/video,/t/ruby",Encrypted Credentials in Rails 5.2,https://www.driftingruby.com/episodes/encrypted-credentials-in-rails-5-2,/u/kobaltz,1
+0,2018-03-04 16:37:58 -0600,/t/culture,"Hiveway.io shamelessly rips off of Mastodon and slaps a blockchain on top, for some reason",https://medium.com/we-distribute/hiveway-io-shamelessly-rips-off-of-mastodon-and-slaps-a-blockchain-on-top-for-some-reason-57b7aba3e84f,/u/erin,27
+1,2018-03-04 08:39:37 -0600,"/t/video,/t/games",4-2: The History of Super Mario Bros.' Most Infamous Level,https://www.youtube.com/watch?v=i1AHCaokqhg,/u/michaelochurch,30
+1,2018-03-04 17:25:29 -0600,"/t/compilers,/t/haskell,/t/ml",Amulet's New Type Checker,https://hydraz.semi.works/posts/2018-02-18.html,/u/hydraz,5
+3,2018-03-04 23:25:06 -0600,"/t/c,/t/games",LoveDOS – a reimplementation of LÖVE 2D game engine API for MS-DOS (2017),https://github.com/rxi/lovedos,/u/skrzyp,3
+0,2018-03-05 07:11:54 -0600,/t/ai,Do neural nets dream of electric sheep?,http://aiweirdness.com/post/171451900302/do-neural-nets-dream-of-electric-sheep,/u/jabberwock,1
+1,2018-03-04 23:22:03 -0600,"/t/programming,/t/reversing",Reclaim your abandonware,https://alva.link/post/reclaim-your-abandonware/,/u/hoopla,2
+0,2018-03-04 16:43:02 -0600,"/t/netbsd,/t/unix",A week of NetBSD #1,https://www.geeklan.co.uk/?p=2256,/u/sevan,4
+1,2018-03-04 23:00:19 -0600,/t/practices,The Homely Mutt (2012),http://stevelosh.com/blog/2012/10/the-homely-mutt/,/u/cnst,3
+0,2018-03-05 01:29:51 -0600,"/t/video,/t/practices",Accelerating Agile: hyper-performing teams without the hype (2013),https://vimeo.com/68215534,/u/dbremner,2
+0,2018-03-04 19:57:42 -0600,/t/distributed,Paxos shaken but not stirred,http://www.yodaiken.com/2018/03/04/paxos-shaken-but-not-stirred/,/u/vyodaiken,2
+0,2018-03-04 17:06:09 -0600,"/t/dotnet,/t/ml,/t/plt",Type Inference by Solving Constraints,http://www.calebh.io/Type-Inference-by-Solving-Constraints/,/u/calvin,6
+0,2018-03-04 16:51:22 -0600,/t/networking,"The XMPP Newsletter, 28 February 2018",https://xmpp.org/2018/02/the-xmpp-newsletter-28-february-2018/,/u/evaryont,6
+0,2018-03-04 17:22:58 -0600,/t/emacs,emacs anywhere,https://github.com/zachcurry/emacs-anywhere,/u/zpojqwfejwfhiunz,4
+0,2018-03-04 21:04:54 -0600,/t/haskell,MonadFix and the Lazy and Strict State Monad,https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html,/u/pushcx,3
+0,2018-03-04 01:44:15 -0600,/t/rust,Serializing awkward data with serde,http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html,/u/Screwtape,14
+2,2018-03-04 14:50:59 -0600,"/t/compsci,/t/haskell",Constructing human-grade parsers,http://duriansoftware.com/joe/Constructing-human-grade-parsers.html,/u/hwayne,3
+2,2018-03-04 05:38:46 -0600,"/t/hardware,/t/historical",How US watchmakers tried to get ahead of the quartz watch game in the 1970s,https://www.hodinkee.com/articles/four-revolutions-led-watches,/u/gerikson,11

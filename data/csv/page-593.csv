@@ -1,25 +1,25 @@
-10,2016-11-20 14:08:50 -0600,"['/t/compsci', '/t/distributed']",A Critique of the CAP Theorem,https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/,/u/pushcx,36
-0,2016-11-21 12:12:28 -0600,['/t/javascript'],An Introduction to mo.js,https://css-tricks.com/introduction-mo-js/,/u/flyingfisch,5
-0,2016-11-21 11:50:09 -0600,"['/t/databases', '/t/lua']",Lua: A Guide for Redis Users,https://www.redisgreen.net/blog/intro-to-lua-for-redis-programmers/,/u/av,5
-0,2016-11-21 18:27:10 -0600,"['/t/pdf', '/t/api', '/t/c', '/t/compsci', '/t/historical']",Engineering a Sort Function,http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=263E4A520295B82C8A3FA99C98F6A8D3?doi=10.1.1.14.8162&rep=rep1&type=pdf,/u/friendlysock,2
-0,2016-11-21 13:12:14 -0600,['/t/games'],IFComp crowns its first non-parser game,http://waxy.org/2016/11/ifcomp-crowns-its-first-non-parser-game/,/u/mjn,4
-0,2016-11-21 14:58:30 -0600,"['/t/video', '/t/freebsd', '/t/networking']","Devin Teske - Jail Networking, MeetBSD 2016",https://www.youtube.com/watch?v=aoW7pWuhT_A,/u/sevan,3
-9,2016-11-20 14:51:11 -0600,['/t/science'],NASA's Peer-Reviewed EM Drive Paper Has Been Published,http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published,/u/whjms,27
-1,2016-11-21 11:50:24 -0600,['/t/swift'],Swift and the Legacy of Functional Programming,https://realm.io/news/tryswift-rob-napier-swift-legacy-functional-programming/,/u/av,2
-0,2016-11-21 05:05:46 -0600,"['/t/art', '/t/book', '/t/compsci', '/t/historical', '/t/person']",The Thrilling Adventures of Lovelace and Babbage,http://martinfowler.com/articles/lovelace-babbage.html,/u/kartik,7
-0,2016-11-21 13:41:24 -0600,"['/t/slides', '/t/video', '/t/crypto']",PQCRYPTO videos,https://pqcrypto.eu.org/miniws/videos.html,/u/pushcx,2
-0,2016-11-21 13:16:17 -0600,['/t/security'],"DOD Announces Digital Vulnerability Disclosure Policy and “Hack the Army"" Kick-Off",http://www.defense.gov/News/News-Releases/News-Release-View/Article/1009956/dod-announces-digital-vulnerability-disclosure-policy-and-hack-the-army-kick-off,/u/lattera,2
-0,2016-11-21 07:57:30 -0600,['/t/javascript'],md2googleslides -- Markdown to Google Slides (by Google),https://github.com/googlesamples/md2googleslides,/u/av,4
-0,2016-11-21 12:13:05 -0600,"['/t/practices', '/t/web']",Native Browser Copy To Clipboard,https://css-tricks.com/native-browser-copy-clipboard/,/u/flyingfisch,2
-0,2016-11-21 06:25:12 -0600,"['/t/erlang', '/t/event']",Brujo à la carte – Erlang Battleground,https://medium.com/erlang-battleground/brujo-%C3%A0-la-carte-13ea4f872419,/u/elbrujohalcon,2
-0,2016-11-21 02:10:53 -0600,"['/t/historical', '/t/mac', '/t/programming']",How HyperCard got its color back…,http://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/,/u/julienXX,7
-11,2016-11-20 11:33:39 -0600,['/t/linux'],30 days in a terminal: Day 0 — The adventure begins,http://www.networkworld.com/article/3083268/linux/30-days-in-a-terminal-day-0-the-adventure-begins.html,/u/pizzaiolo,15
-1,2016-11-20 20:08:23 -0600,"['/t/linux', '/t/windows']",Do not change [Windows Subsystem for] Linux files using Windows apps and tools,https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/,/u/calvin,10
-0,2016-11-21 11:49:20 -0600,['/t/security'],DDoS: Four Best Practices for Prevention and Response,https://insights.sei.cmu.edu/sei_blog/2016/11/distributed-denial-of-service-attacks-four-best-practices-for-prevention-and-response.html,/u/av,1
-2,2016-11-20 19:33:30 -0600,['/t/php'],Scheduling ElePHPants (DateTime math is HARD),https://devzone.zend.com/7418/scheduling-elephpants-datetime-math-is-hard/,/u/calevans,4
-38,2016-11-20 14:16:43 -0600,['/t/linux'],Debian Doubletalk,https://jxself.org/debian-doubletalk.shtml,/u/pizzaiolo,6
-0,2016-11-20 20:07:37 -0600,"['/t/api', '/t/c', '/t/reversing']",Anatomy of a Program in Memory,http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory,/u/friendlysock,6
-1,2016-11-20 17:09:31 -0600,['/t/testing'],Utility oriented testing,http://twolfson.com/2016-11-19-utility-oriented-testing,/u/twolfson,3
-0,2016-11-20 16:57:29 -0600,"['/t/assembly', '/t/historical', '/t/reversing']",radare2 meets com101,https://zxvf.org/post/r2com101/,/u/rseymour,4
-0,2016-11-21 00:31:54 -0600,['/t/math'],Tupper's Formula Tools,http://tuppers-formula.tk/,/u/pushcx,3
-11,2016-11-20 05:25:03 -0600,"['/t/practices', '/t/python']",A new way to declare dependencies for your Python applications,https://github.com/pypa/pipfile,/u/quobit,13
+10,2016-11-20 14:08:50 -0600,"/t/compsci,/t/distributed",A Critique of the CAP Theorem,https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/,/u/pushcx,36
+0,2016-11-21 12:12:28 -0600,/t/javascript,An Introduction to mo.js,https://css-tricks.com/introduction-mo-js/,/u/flyingfisch,5
+0,2016-11-21 11:50:09 -0600,"/t/databases,/t/lua",Lua: A Guide for Redis Users,https://www.redisgreen.net/blog/intro-to-lua-for-redis-programmers/,/u/av,5
+0,2016-11-21 18:27:10 -0600,"/t/pdf,/t/api,/t/c,/t/compsci,/t/historical",Engineering a Sort Function,http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=263E4A520295B82C8A3FA99C98F6A8D3?doi=10.1.1.14.8162&rep=rep1&type=pdf,/u/friendlysock,2
+0,2016-11-21 13:12:14 -0600,/t/games,IFComp crowns its first non-parser game,http://waxy.org/2016/11/ifcomp-crowns-its-first-non-parser-game/,/u/mjn,4
+0,2016-11-21 14:58:30 -0600,"/t/video,/t/freebsd,/t/networking","Devin Teske - Jail Networking, MeetBSD 2016",https://www.youtube.com/watch?v=aoW7pWuhT_A,/u/sevan,3
+9,2016-11-20 14:51:11 -0600,/t/science,NASA's Peer-Reviewed EM Drive Paper Has Been Published,http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published,/u/whjms,27
+1,2016-11-21 11:50:24 -0600,/t/swift,Swift and the Legacy of Functional Programming,https://realm.io/news/tryswift-rob-napier-swift-legacy-functional-programming/,/u/av,2
+0,2016-11-21 05:05:46 -0600,"/t/art,/t/book,/t/compsci,/t/historical,/t/person",The Thrilling Adventures of Lovelace and Babbage,http://martinfowler.com/articles/lovelace-babbage.html,/u/kartik,7
+0,2016-11-21 13:41:24 -0600,"/t/slides,/t/video,/t/crypto",PQCRYPTO videos,https://pqcrypto.eu.org/miniws/videos.html,/u/pushcx,2
+0,2016-11-21 13:16:17 -0600,/t/security,"DOD Announces Digital Vulnerability Disclosure Policy and “Hack the Army"" Kick-Off",http://www.defense.gov/News/News-Releases/News-Release-View/Article/1009956/dod-announces-digital-vulnerability-disclosure-policy-and-hack-the-army-kick-off,/u/lattera,2
+0,2016-11-21 07:57:30 -0600,/t/javascript,md2googleslides -- Markdown to Google Slides (by Google),https://github.com/googlesamples/md2googleslides,/u/av,4
+0,2016-11-21 12:13:05 -0600,"/t/practices,/t/web",Native Browser Copy To Clipboard,https://css-tricks.com/native-browser-copy-clipboard/,/u/flyingfisch,2
+0,2016-11-21 06:25:12 -0600,"/t/erlang,/t/event",Brujo à la carte – Erlang Battleground,https://medium.com/erlang-battleground/brujo-%C3%A0-la-carte-13ea4f872419,/u/elbrujohalcon,2
+0,2016-11-21 02:10:53 -0600,"/t/historical,/t/mac,/t/programming",How HyperCard got its color back…,http://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/,/u/julienXX,7
+11,2016-11-20 11:33:39 -0600,/t/linux,30 days in a terminal: Day 0 — The adventure begins,http://www.networkworld.com/article/3083268/linux/30-days-in-a-terminal-day-0-the-adventure-begins.html,/u/pizzaiolo,15
+1,2016-11-20 20:08:23 -0600,"/t/linux,/t/windows",Do not change [Windows Subsystem for] Linux files using Windows apps and tools,https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/,/u/calvin,10
+0,2016-11-21 11:49:20 -0600,/t/security,DDoS: Four Best Practices for Prevention and Response,https://insights.sei.cmu.edu/sei_blog/2016/11/distributed-denial-of-service-attacks-four-best-practices-for-prevention-and-response.html,/u/av,1
+2,2016-11-20 19:33:30 -0600,/t/php,Scheduling ElePHPants (DateTime math is HARD),https://devzone.zend.com/7418/scheduling-elephpants-datetime-math-is-hard/,/u/calevans,4
+38,2016-11-20 14:16:43 -0600,/t/linux,Debian Doubletalk,https://jxself.org/debian-doubletalk.shtml,/u/pizzaiolo,6
+0,2016-11-20 20:07:37 -0600,"/t/api,/t/c,/t/reversing",Anatomy of a Program in Memory,http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory,/u/friendlysock,6
+1,2016-11-20 17:09:31 -0600,/t/testing,Utility oriented testing,http://twolfson.com/2016-11-19-utility-oriented-testing,/u/twolfson,3
+0,2016-11-20 16:57:29 -0600,"/t/assembly,/t/historical,/t/reversing",radare2 meets com101,https://zxvf.org/post/r2com101/,/u/rseymour,4
+0,2016-11-21 00:31:54 -0600,/t/math,Tupper's Formula Tools,http://tuppers-formula.tk/,/u/pushcx,3
+11,2016-11-20 05:25:03 -0600,"/t/practices,/t/python",A new way to declare dependencies for your Python applications,https://github.com/pypa/pipfile,/u/quobit,13

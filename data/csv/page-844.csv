@@ -1,25 +1,25 @@
-0,2016-03-11 00:00:14 -0600,['/t/graphics'],Image Processing 101,https://codewords.recurse.com/issues/six/image-processing-101,/u/friendlysock,11
-17,2016-03-10 09:51:26 -0600,"['/t/practices', '/t/release']",Is Caddy Free?,https://caddyserver.com/blog/is-caddy-free,/u/jcs,25
-1,2016-03-11 08:02:40 -0600,['/t/compsci'],Automatic Donald Trump,https://filiph.github.io/markov/,/u/pushcx,2
-0,2016-03-10 19:47:05 -0600,"['/t/elixir', '/t/elm']",Phoenix and Elm – Making the Web Functional,https://www.youtube.com/watch?v=XJ9ckqCMiKk,/u/machuga,16
-0,2016-03-11 04:03:31 -0600,"['/t/api', '/t/distributed', '/t/virtualization']",Microservices Weekly - Issue #17,http://microservicesweekly.com/issue/17,/u/svlada,3
-0,2016-03-11 04:08:35 -0600,"['/t/video', '/t/javascript']","JavaScript Combinators, the “Six” Edition - Reginald Braithwaite",https://vimeo.com/153097877,/u/robin,5
-6,2016-03-10 20:45:01 -0600,"['/t/compsci', '/t/programming', '/t/release']",System Design Interview Question – Create a TinyURL System,http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/,/u/jakecook,6
-44,2016-03-10 08:19:42 -0600,['/t/person'],"The founder of 4chan joins Google, presumably to work on Google+",http://arstechnica.com/gadgets/2016/03/the-founder-of-4chan-joins-google-presumably-to-work-on-google/,/u/flyingfisch,21
-2,2016-03-10 12:05:44 -0600,['/t/practices'],Keeping Yourself Mentally Fit Using Conspiracy Theories,https://fixingtao.com/2016/03/keeping-yourself-mentally-fit-using-conspiracy-theories/,/u/itistoday,10
-0,2016-03-11 02:57:53 -0600,"['/t/compilers', '/t/testing']",Testing GCC in the wild,http://developers.redhat.com/blog/2016/03/10/testing-gcc-in-the-wild/,/u/svag,5
-0,2016-03-10 12:12:00 -0600,"['/t/art', '/t/python']",Turn your two-bit doodles into fine artworks with deep neural networks,https://github.com/alexjc/neural-doodle,/u/joshuacc,26
-0,2016-03-11 06:19:30 -0600,['/t/games'],"Playing ""Moneyball"" on EA FIFA 16",https://arybressane.github.io/playing-moneyball-on-ea-fifa-16/,/u/pushcx,2
-2,2016-03-10 09:32:54 -0600,['/t/show'],Odd Networks - Open-Source OTT Video Platform,https://www.oddnetworks.com,/u/brkattk,12
-12,2016-03-10 03:29:47 -0600,['/t/science'],"ADHD is vastly overdiagnosed and many children are just immature, say scientists",http://www.telegraph.co.uk/news/science/science-news/12189369/ADHD-is-vastly-overdiagnosed-and-many-children-are-just-immature-say-scientists.html,/u/duncan_bayne,14
-6,2016-03-10 10:01:28 -0600,"['/t/security', '/t/unix']",OpenSSH Security Advisory: x11fwd.adv,http://www.openssh.com/txt/x11fwd.adv,/u/jcs,11
-7,2016-03-10 12:50:11 -0600,"['/t/practices', '/t/programming', '/t/vcs']",Jr. Developers #0: Hello World,https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c,/u/feoh,6
-0,2016-03-10 22:29:03 -0600,['/t/devops'],What's the Best Cloud? Probably GCP,https://quizlet.com/blog/whats-the-best-cloud-probably-gcp,/u/moowiz,3
-0,2016-03-10 11:22:32 -0600,['/t/security'],Time to rethink mandatory password changes,https://www.ftc.gov/news-events/blogs/techftc/2016/03/time-rethink-mandatory-password-changes,/u/jcs,11
-1,2016-03-10 10:06:20 -0600,"['/t/javascript', '/t/web']",Pony Foo Weekly — Issue #1,https://ponyfoo.com/weekly/1,/u/ponyfoo,5
-0,2016-03-10 18:42:00 -0600,"['/t/programming', '/t/ruby', '/t/rust']",mrusty: mruby safe bindings for rust,https://github.com/anima-engine/mrusty,/u/zem,3
-0,2016-03-10 10:26:06 -0600,"['/t/freebsd', '/t/security']",Call for testing - ASLR patch,https://lists.freebsd.org/pipermail/freebsd-arch/2016-March/017719.html,/u/lattera,8
-0,2016-03-10 14:29:07 -0600,"['/t/android', '/t/java', '/t/security']",An Examination Of Ineffective Certificate Pinning Implementations,https://www.cigital.com/blog/ineffective-certificate-pinning-implementations/,/u/jcs,4
-0,2016-03-11 04:49:47 -0600,"['/t/networking', '/t/privacy']",What Happens When the Surveillance State Becomes an Affordable Gadget?,http://www.bloomberg.com/news/articles/2016-03-10/what-happens-when-the-surveillance-state-becomes-an-affordable-gadget,/u/pushcx,0
-2,2016-03-10 15:01:52 -0600,['/t/meta'],"New tag suggestion: ""performance""",/s/51d5kg/new_tag_suggestion_performance,/u/cnst,1
-0,2016-03-10 09:38:49 -0600,"['/t/graphics', '/t/release']","Building polygons, from OpenStreetMap to 3D printer",https://mapzen.com/blog/tile-exporter,/u/drewda,6
+0,2016-03-11 00:00:14 -0600,/t/graphics,Image Processing 101,https://codewords.recurse.com/issues/six/image-processing-101,/u/friendlysock,11
+17,2016-03-10 09:51:26 -0600,"/t/practices,/t/release",Is Caddy Free?,https://caddyserver.com/blog/is-caddy-free,/u/jcs,25
+1,2016-03-11 08:02:40 -0600,/t/compsci,Automatic Donald Trump,https://filiph.github.io/markov/,/u/pushcx,2
+0,2016-03-10 19:47:05 -0600,"/t/elixir,/t/elm",Phoenix and Elm – Making the Web Functional,https://www.youtube.com/watch?v=XJ9ckqCMiKk,/u/machuga,16
+0,2016-03-11 04:03:31 -0600,"/t/api,/t/distributed,/t/virtualization",Microservices Weekly - Issue #17,http://microservicesweekly.com/issue/17,/u/svlada,3
+0,2016-03-11 04:08:35 -0600,"/t/video,/t/javascript","JavaScript Combinators, the “Six” Edition - Reginald Braithwaite",https://vimeo.com/153097877,/u/robin,5
+6,2016-03-10 20:45:01 -0600,"/t/compsci,/t/programming,/t/release",System Design Interview Question – Create a TinyURL System,http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/,/u/jakecook,6
+44,2016-03-10 08:19:42 -0600,/t/person,"The founder of 4chan joins Google, presumably to work on Google+",http://arstechnica.com/gadgets/2016/03/the-founder-of-4chan-joins-google-presumably-to-work-on-google/,/u/flyingfisch,21
+2,2016-03-10 12:05:44 -0600,/t/practices,Keeping Yourself Mentally Fit Using Conspiracy Theories,https://fixingtao.com/2016/03/keeping-yourself-mentally-fit-using-conspiracy-theories/,/u/itistoday,10
+0,2016-03-11 02:57:53 -0600,"/t/compilers,/t/testing",Testing GCC in the wild,http://developers.redhat.com/blog/2016/03/10/testing-gcc-in-the-wild/,/u/svag,5
+0,2016-03-10 12:12:00 -0600,"/t/art,/t/python",Turn your two-bit doodles into fine artworks with deep neural networks,https://github.com/alexjc/neural-doodle,/u/joshuacc,26
+0,2016-03-11 06:19:30 -0600,/t/games,"Playing ""Moneyball"" on EA FIFA 16",https://arybressane.github.io/playing-moneyball-on-ea-fifa-16/,/u/pushcx,2
+2,2016-03-10 09:32:54 -0600,/t/show,Odd Networks - Open-Source OTT Video Platform,https://www.oddnetworks.com,/u/brkattk,12
+12,2016-03-10 03:29:47 -0600,/t/science,"ADHD is vastly overdiagnosed and many children are just immature, say scientists",http://www.telegraph.co.uk/news/science/science-news/12189369/ADHD-is-vastly-overdiagnosed-and-many-children-are-just-immature-say-scientists.html,/u/duncan_bayne,14
+6,2016-03-10 10:01:28 -0600,"/t/security,/t/unix",OpenSSH Security Advisory: x11fwd.adv,http://www.openssh.com/txt/x11fwd.adv,/u/jcs,11
+7,2016-03-10 12:50:11 -0600,"/t/practices,/t/programming,/t/vcs",Jr. Developers #0: Hello World,https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c,/u/feoh,6
+0,2016-03-10 22:29:03 -0600,/t/devops,What's the Best Cloud? Probably GCP,https://quizlet.com/blog/whats-the-best-cloud-probably-gcp,/u/moowiz,3
+0,2016-03-10 11:22:32 -0600,/t/security,Time to rethink mandatory password changes,https://www.ftc.gov/news-events/blogs/techftc/2016/03/time-rethink-mandatory-password-changes,/u/jcs,11
+1,2016-03-10 10:06:20 -0600,"/t/javascript,/t/web",Pony Foo Weekly — Issue #1,https://ponyfoo.com/weekly/1,/u/ponyfoo,5
+0,2016-03-10 18:42:00 -0600,"/t/programming,/t/ruby,/t/rust",mrusty: mruby safe bindings for rust,https://github.com/anima-engine/mrusty,/u/zem,3
+0,2016-03-10 10:26:06 -0600,"/t/freebsd,/t/security",Call for testing - ASLR patch,https://lists.freebsd.org/pipermail/freebsd-arch/2016-March/017719.html,/u/lattera,8
+0,2016-03-10 14:29:07 -0600,"/t/android,/t/java,/t/security",An Examination Of Ineffective Certificate Pinning Implementations,https://www.cigital.com/blog/ineffective-certificate-pinning-implementations/,/u/jcs,4
+0,2016-03-11 04:49:47 -0600,"/t/networking,/t/privacy",What Happens When the Surveillance State Becomes an Affordable Gadget?,http://www.bloomberg.com/news/articles/2016-03-10/what-happens-when-the-surveillance-state-becomes-an-affordable-gadget,/u/pushcx,0
+2,2016-03-10 15:01:52 -0600,/t/meta,"New tag suggestion: ""performance""",/s/51d5kg/new_tag_suggestion_performance,/u/cnst,1
+0,2016-03-10 09:38:49 -0600,"/t/graphics,/t/release","Building polygons, from OpenStreetMap to 3D printer",https://mapzen.com/blog/tile-exporter,/u/drewda,6

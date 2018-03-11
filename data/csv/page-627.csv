@@ -1,25 +1,25 @@
-1,2016-10-20 09:14:58 -0500,"['/t/javascript', '/t/web']",Web development has two flavors of graceful degradation,http://seldo.com/weblog/2016/10/14/web_development_has_two_flavors_of_graceful_degradation,/u/daguar,10
-2,2016-10-20 12:37:01 -0500,['/t/web'],CacheP2P: distributed webpage caching platform,http://www.cachep2p.com/,/u/unbalancedparentheses,5
-1,2016-10-20 15:06:13 -0500,['/t/devops'],Is SPF Simply Too Hard For Application Developers?,http://bsdly.blogspot.com/2016/10/is-spf-simply-too-hard-for-application.html,/u/jabberwock,4
-14,2016-10-19 11:36:27 -0500,"['/t/design', '/t/web']",How the Web Became Unreadable,https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6,/u/jabberwock,42
-1,2016-10-20 00:56:42 -0500,"['/t/distributed', '/t/go']",Netflix opensources chaosmonkey,https://github.com/Netflix/chaosmonkey,/u/Dawny33,18
-1,2016-10-20 09:39:56 -0500,['/t/design'],Disenfranchised by Bad Design,https://www.propublica.org/article/disenfranchised-by-bad-design,/u/pushcx,6
-0,2016-10-20 12:24:21 -0500,"['/t/linux', '/t/windows']",Windows and Ubuntu Interoperability (WSL),https://blogs.msdn.microsoft.com/wsl/2016/10/19/windows-and-ubuntu-interoperability/,/u/sdlnv,5
-1,2016-10-20 09:35:44 -0500,['/t/elixir'],Reactive Tweets with Elixir GenStage,https://almightycouch.org/blog/reactive-tweets-elixir-genstage/,/u/unbalancedparentheses,6
-1,2016-10-20 07:23:42 -0500,['/t/science'],"SRI Demonstrates Abacus, a New Rotary Transmission",http://spectrum.ieee.org/automaton/robotics/robotics-hardware/sri-demonstrates-abacus-rotary-transmission,/u/fcbsd,5
-0,2016-10-20 11:52:53 -0500,"['/t/linux', '/t/security']",Dirty COW (CVE-2016-5195),https://dirtycow.ninja/,/u/lattera,4
-4,2016-10-19 16:50:29 -0500,"['/t/python', '/t/rust']",Fixing Python Performance with Rust,https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html,/u/ngoldbaum,26
-10,2016-10-19 14:58:39 -0500,"['/t/practices', '/t/web']","Progressive enhancement isn’t dead, but it smells funny",https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/,/u/flyingfisch,15
-0,2016-10-19 19:13:50 -0500,"['/t/python', '/t/testing']","Why Pylint is both useful and unusable, and how you can actually use it",https://codewithoutrules.com/2016/10/19/pylint/,/u/itamarst,9
-1,2016-10-19 20:46:11 -0500,"['/t/lisp', '/t/programming']",Lisp Is Just Syntax,http://www.wilfred.me.uk/blog/2014/02/04/lisp-is-just-syntax/,/u/unbalancedparentheses,9
-0,2016-10-19 20:52:51 -0500,"['/t/emacs', '/t/lisp']",Adding A New Language major mode to Emacs,http://www.wilfred.me.uk/blog/2015/03/19/adding-a-new-language-to-emacs/,/u/unbalancedparentheses,13
-0,2016-10-19 20:30:41 -0500,['/t/go'],Go 1.8 vs go 1.7 performance improvements,https://www.reddit.com/r/golang/comments/58b4ep/go_18_vs_go_17_performance_improvements/,/u/unbalancedparentheses,11
-0,2016-10-20 12:51:56 -0500,"['/t/devops', '/t/networking']",Google Cloud incident: 2016-10-13 Load Balancer outage,https://status.cloud.google.com/incident/compute/16020,/u/antifuchs,1
-19,2016-10-18 23:21:38 -0500,['/t/erlang'],Donald Knuth Was The First Erlang Programmer,http://videlalvaro.github.io/2016/10/knuth-first-erlang-programmer.html,/u/old_sound,25
-0,2016-10-20 12:29:38 -0500,['/t/release'],"Google Cloud Storage is now cheaper, faster and more available than Amazon S3",https://cloudplatform.googleblog.com/2016/10/introducing-Coldline-and-a-unified-platform-for-data-storage.html,/u/unbalancedparentheses,1
-19,2016-10-19 06:14:20 -0500,"['/t/historical', '/t/mac']",GUIdebook: Screenshots from Mac OS 9,http://guidebookgallery.org/screenshots/macos90,/u/majjoha,22
-6,2016-10-19 21:22:57 -0500,"['/t/haskell', '/t/programming']",Of Types and Men [2014],http://www.wilfred.me.uk/blog/2014/02/15/of-types-and-men/,/u/unbalancedparentheses,4
-0,2016-10-20 07:51:46 -0500,"['/t/historical', '/t/virtualization']",Fun with virtualization,https://virtuallyfun.superglobalmegacorp.com/,/u/mjturner,2
-3,2016-10-19 20:32:31 -0500,"['/t/programming', '/t/scaling']","How Airbnb operate at scale with Rails, Java, and MySQL",https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf,/u/unbalancedparentheses,5
-0,2016-10-19 20:50:20 -0500,"['/t/video', '/t/historical', '/t/mac']",The @adafruit unboxing of the NeXT box!,https://www.youtube.com/watch?v=5kkYYCcK8_4,/u/sevan,7
-0,2016-10-20 04:07:26 -0500,"['/t/devops', '/t/distributed', '/t/virtualization']",Announcing the Infinit Docker volume plugin,http://blog.infinit.sh/announcing-the-infinit-docker-volume-plugin/,/u/cad,1
+1,2016-10-20 09:14:58 -0500,"/t/javascript,/t/web",Web development has two flavors of graceful degradation,http://seldo.com/weblog/2016/10/14/web_development_has_two_flavors_of_graceful_degradation,/u/daguar,10
+2,2016-10-20 12:37:01 -0500,/t/web,CacheP2P: distributed webpage caching platform,http://www.cachep2p.com/,/u/unbalancedparentheses,5
+1,2016-10-20 15:06:13 -0500,/t/devops,Is SPF Simply Too Hard For Application Developers?,http://bsdly.blogspot.com/2016/10/is-spf-simply-too-hard-for-application.html,/u/jabberwock,4
+14,2016-10-19 11:36:27 -0500,"/t/design,/t/web",How the Web Became Unreadable,https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6,/u/jabberwock,42
+1,2016-10-20 00:56:42 -0500,"/t/distributed,/t/go",Netflix opensources chaosmonkey,https://github.com/Netflix/chaosmonkey,/u/Dawny33,18
+1,2016-10-20 09:39:56 -0500,/t/design,Disenfranchised by Bad Design,https://www.propublica.org/article/disenfranchised-by-bad-design,/u/pushcx,6
+0,2016-10-20 12:24:21 -0500,"/t/linux,/t/windows",Windows and Ubuntu Interoperability (WSL),https://blogs.msdn.microsoft.com/wsl/2016/10/19/windows-and-ubuntu-interoperability/,/u/sdlnv,5
+1,2016-10-20 09:35:44 -0500,/t/elixir,Reactive Tweets with Elixir GenStage,https://almightycouch.org/blog/reactive-tweets-elixir-genstage/,/u/unbalancedparentheses,6
+1,2016-10-20 07:23:42 -0500,/t/science,"SRI Demonstrates Abacus, a New Rotary Transmission",http://spectrum.ieee.org/automaton/robotics/robotics-hardware/sri-demonstrates-abacus-rotary-transmission,/u/fcbsd,5
+0,2016-10-20 11:52:53 -0500,"/t/linux,/t/security",Dirty COW (CVE-2016-5195),https://dirtycow.ninja/,/u/lattera,4
+4,2016-10-19 16:50:29 -0500,"/t/python,/t/rust",Fixing Python Performance with Rust,https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html,/u/ngoldbaum,26
+10,2016-10-19 14:58:39 -0500,"/t/practices,/t/web","Progressive enhancement isn’t dead, but it smells funny",https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/,/u/flyingfisch,15
+0,2016-10-19 19:13:50 -0500,"/t/python,/t/testing","Why Pylint is both useful and unusable, and how you can actually use it",https://codewithoutrules.com/2016/10/19/pylint/,/u/itamarst,9
+1,2016-10-19 20:46:11 -0500,"/t/lisp,/t/programming",Lisp Is Just Syntax,http://www.wilfred.me.uk/blog/2014/02/04/lisp-is-just-syntax/,/u/unbalancedparentheses,9
+0,2016-10-19 20:52:51 -0500,"/t/emacs,/t/lisp",Adding A New Language major mode to Emacs,http://www.wilfred.me.uk/blog/2015/03/19/adding-a-new-language-to-emacs/,/u/unbalancedparentheses,13
+0,2016-10-19 20:30:41 -0500,/t/go,Go 1.8 vs go 1.7 performance improvements,https://www.reddit.com/r/golang/comments/58b4ep/go_18_vs_go_17_performance_improvements/,/u/unbalancedparentheses,11
+0,2016-10-20 12:51:56 -0500,"/t/devops,/t/networking",Google Cloud incident: 2016-10-13 Load Balancer outage,https://status.cloud.google.com/incident/compute/16020,/u/antifuchs,1
+19,2016-10-18 23:21:38 -0500,/t/erlang,Donald Knuth Was The First Erlang Programmer,http://videlalvaro.github.io/2016/10/knuth-first-erlang-programmer.html,/u/old_sound,25
+0,2016-10-20 12:29:38 -0500,/t/release,"Google Cloud Storage is now cheaper, faster and more available than Amazon S3",https://cloudplatform.googleblog.com/2016/10/introducing-Coldline-and-a-unified-platform-for-data-storage.html,/u/unbalancedparentheses,1
+19,2016-10-19 06:14:20 -0500,"/t/historical,/t/mac",GUIdebook: Screenshots from Mac OS 9,http://guidebookgallery.org/screenshots/macos90,/u/majjoha,22
+6,2016-10-19 21:22:57 -0500,"/t/haskell,/t/programming",Of Types and Men [2014],http://www.wilfred.me.uk/blog/2014/02/15/of-types-and-men/,/u/unbalancedparentheses,4
+0,2016-10-20 07:51:46 -0500,"/t/historical,/t/virtualization",Fun with virtualization,https://virtuallyfun.superglobalmegacorp.com/,/u/mjturner,2
+3,2016-10-19 20:32:31 -0500,"/t/programming,/t/scaling","How Airbnb operate at scale with Rails, Java, and MySQL",https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf,/u/unbalancedparentheses,5
+0,2016-10-19 20:50:20 -0500,"/t/video,/t/historical,/t/mac",The @adafruit unboxing of the NeXT box!,https://www.youtube.com/watch?v=5kkYYCcK8_4,/u/sevan,7
+0,2016-10-20 04:07:26 -0500,"/t/devops,/t/distributed,/t/virtualization",Announcing the Infinit Docker volume plugin,http://blog.infinit.sh/announcing-the-infinit-docker-volume-plugin/,/u/cad,1

@@ -1,25 +1,25 @@
-0,2014-12-21 15:11:05 -0600,"['/t/video', '/t/security']","Why the Usual Password Policies Don't Work, and What to Do About It",https://www.usenix.org/conference/lisa14/conference-program/presentation/singer-talk,/u/GeoffWozniak,1
-0,2014-12-21 14:39:08 -0600,"['/t/programming', '/t/ruby']",Algorithms playground for common questions solved in Ruby syntax,https://github.com/sagivo/algorithms,/u/vvh,1
-2,2014-12-20 16:01:42 -0600,"['/t/dotnet', '/t/ml', '/t/practices']",Why F# became my goto language,https://mrange.wordpress.com/2014/12/20/why-fsharp-became-my-goto-language/,/u/pushcx,15
-0,2014-12-21 10:14:42 -0600,['/t/philosophy'],Curiosity in Young Learners Is the Foundation of Academic Success,http://blogs.kqed.org/mindshift/2014/11/curiosity-in-young-learners-is-the-foundation-of-academic-success/,/u/animatronic,1
-0,2014-12-20 13:32:48 -0600,"['/t/math', '/t/philosophy', '/t/programming']","Mixing floats, ints and NaNs",https://codewords.hackerschool.com/issues/one/when-is-equality-transitive-and-other-floating-point-curiosities,/u/derek-jones,11
-0,2014-12-21 11:41:55 -0600,"['/t/culture', '/t/practices', '/t/programming']",why write todo comments?,http://generic.cx/essays/comments/,/u/nsfmc,1
-2,2014-12-20 12:06:51 -0600,['/t/networking'],Your Friendly North Korean Network Observer,https://nknetobserver.github.io/,/u/breul99,9
-0,2014-12-20 11:14:20 -0600,['/t/hardware'],Librem 15: A Free/Libre Software Laptop,https://www.crowdsupply.com/purism/librem-laptop,/u/jcs,8
-0,2014-12-20 12:17:32 -0600,['/t/javascript'],JavaScript Application Architecture On The Road To 2015,https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b,/u/tobym,5
-3,2014-12-19 22:53:49 -0600,['/t/ruby'],Rails 4.2,http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/,/u/marvindanig,10
-3,2014-12-19 20:43:30 -0600,"['/t/compsci', '/t/haskell']",Treating Programs like Vending Machines - Notes on Coinduction,http://jozefg.bitbucket.org/posts/2014-12-19-bisim.html,/u/jozefg,9
-0,2014-12-19 14:21:27 -0600,['/t/python'],"Obfuscating ""Hello world!""",http://benkurtovic.com/2014/06/01/obfuscating-hello-world.html,/u/pushcx,12
-3,2014-12-19 12:08:20 -0600,"['/t/networking', '/t/security']",NTP Code Execution Vulnerability Discovered; In All Releases Before 4.2.8,http://support.ntp.org/bin/view/Main/SecurityNotice#Buffer_overflow_in_ctl_putdata,/u/kel,11
-0,2014-12-19 14:02:50 -0600,"['/t/compilers', '/t/python']",Nuitka - Python Compiler,http://nuitka.net/pages/overview.html,/u/flyingfisch,9
-2,2014-12-19 16:13:14 -0600,"['/t/networking', '/t/security']",Possible upcoming attempts to disable the Tor network,https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network,/u/jcs,5
-0,2014-12-19 18:54:16 -0600,"['/t/c', '/t/compilers', '/t/programming']",C++ Compiler Benchmarks,http://imagine-rt.blogspot.com/2014/12/c-compiler-benchmarks.html,/u/jlarocco,4
-0,2014-12-19 18:10:08 -0600,"['/t/pdf', '/t/compsci']",Loop Parallelization in the Polytope Model [1993],http://www.infosun.fim.uni-passau.de/cl/papers/concur93c.pdf,/u/aysylu,4
-0,2014-12-19 13:02:19 -0600,['/t/linux'],Linux process states,https://idea.popcount.org/2012-12-11-linux-process-states/,/u/pushcx,7
-15,2014-12-18 16:25:55 -0600,"['/t/security', '/t/vcs']",Vulnerability announced: update your Git clients,https://github.com/blog/1938-git-client-vulnerability-announced,/u/tomjakubowski,30
-0,2014-12-19 02:26:09 -0600,"['/t/c', '/t/go']",C & C++ build tool inspired by 'go build',https://github.com/andlabs/qo,/u/voldyman,13
-0,2014-12-19 08:49:02 -0600,['/t/programming'],"libchop, tools & library for data backup and distributed storage",http://nongnu.org/libchop/,/u/puffnfresh,5
-3,2014-12-18 09:30:53 -0600,"['/t/databases', '/t/scaling']",PostgreSQL 9.4 Released,http://www.postgresql.org/about/news/1557/,/u/marvindanig,28
-2,2014-12-18 19:32:40 -0600,['/t/philosophy'],Preface by Tony Hoare on Theoretical Foundations of Programming Methodology,http://telegraphics.com.au/~toby/hoare-tfpm.txt,/u/tobym,11
-0,2014-12-19 05:16:56 -0600,['/t/security'],German researchers discover a flaw that could let anyone listen to your calls – The Washington Post,http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/18/german-researchers-discover-a-flaw-that-could-let-anyone-listen-to-your-cell-calls-and-read-your-texts/,/u/chaica,3
-0,2014-12-19 02:34:11 -0600,['/t/programming'],The Slate Programming Language,http://www.slatelanguage.org,/u/vvh,4
+0,2014-12-21 15:11:05 -0600,"/t/video,/t/security","Why the Usual Password Policies Don't Work, and What to Do About It",https://www.usenix.org/conference/lisa14/conference-program/presentation/singer-talk,/u/GeoffWozniak,1
+0,2014-12-21 14:39:08 -0600,"/t/programming,/t/ruby",Algorithms playground for common questions solved in Ruby syntax,https://github.com/sagivo/algorithms,/u/vvh,1
+2,2014-12-20 16:01:42 -0600,"/t/dotnet,/t/ml,/t/practices",Why F# became my goto language,https://mrange.wordpress.com/2014/12/20/why-fsharp-became-my-goto-language/,/u/pushcx,15
+0,2014-12-21 10:14:42 -0600,/t/philosophy,Curiosity in Young Learners Is the Foundation of Academic Success,http://blogs.kqed.org/mindshift/2014/11/curiosity-in-young-learners-is-the-foundation-of-academic-success/,/u/animatronic,1
+0,2014-12-20 13:32:48 -0600,"/t/math,/t/philosophy,/t/programming","Mixing floats, ints and NaNs",https://codewords.hackerschool.com/issues/one/when-is-equality-transitive-and-other-floating-point-curiosities,/u/derek-jones,11
+0,2014-12-21 11:41:55 -0600,"/t/culture,/t/practices,/t/programming",why write todo comments?,http://generic.cx/essays/comments/,/u/nsfmc,1
+2,2014-12-20 12:06:51 -0600,/t/networking,Your Friendly North Korean Network Observer,https://nknetobserver.github.io/,/u/breul99,9
+0,2014-12-20 11:14:20 -0600,/t/hardware,Librem 15: A Free/Libre Software Laptop,https://www.crowdsupply.com/purism/librem-laptop,/u/jcs,8
+0,2014-12-20 12:17:32 -0600,/t/javascript,JavaScript Application Architecture On The Road To 2015,https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b,/u/tobym,5
+3,2014-12-19 22:53:49 -0600,/t/ruby,Rails 4.2,http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/,/u/marvindanig,10
+3,2014-12-19 20:43:30 -0600,"/t/compsci,/t/haskell",Treating Programs like Vending Machines - Notes on Coinduction,http://jozefg.bitbucket.org/posts/2014-12-19-bisim.html,/u/jozefg,9
+0,2014-12-19 14:21:27 -0600,/t/python,"Obfuscating ""Hello world!""",http://benkurtovic.com/2014/06/01/obfuscating-hello-world.html,/u/pushcx,12
+3,2014-12-19 12:08:20 -0600,"/t/networking,/t/security",NTP Code Execution Vulnerability Discovered; In All Releases Before 4.2.8,http://support.ntp.org/bin/view/Main/SecurityNotice#Buffer_overflow_in_ctl_putdata,/u/kel,11
+0,2014-12-19 14:02:50 -0600,"/t/compilers,/t/python",Nuitka - Python Compiler,http://nuitka.net/pages/overview.html,/u/flyingfisch,9
+2,2014-12-19 16:13:14 -0600,"/t/networking,/t/security",Possible upcoming attempts to disable the Tor network,https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network,/u/jcs,5
+0,2014-12-19 18:54:16 -0600,"/t/c,/t/compilers,/t/programming",C++ Compiler Benchmarks,http://imagine-rt.blogspot.com/2014/12/c-compiler-benchmarks.html,/u/jlarocco,4
+0,2014-12-19 18:10:08 -0600,"/t/pdf,/t/compsci",Loop Parallelization in the Polytope Model [1993],http://www.infosun.fim.uni-passau.de/cl/papers/concur93c.pdf,/u/aysylu,4
+0,2014-12-19 13:02:19 -0600,/t/linux,Linux process states,https://idea.popcount.org/2012-12-11-linux-process-states/,/u/pushcx,7
+15,2014-12-18 16:25:55 -0600,"/t/security,/t/vcs",Vulnerability announced: update your Git clients,https://github.com/blog/1938-git-client-vulnerability-announced,/u/tomjakubowski,30
+0,2014-12-19 02:26:09 -0600,"/t/c,/t/go",C & C++ build tool inspired by 'go build',https://github.com/andlabs/qo,/u/voldyman,13
+0,2014-12-19 08:49:02 -0600,/t/programming,"libchop, tools & library for data backup and distributed storage",http://nongnu.org/libchop/,/u/puffnfresh,5
+3,2014-12-18 09:30:53 -0600,"/t/databases,/t/scaling",PostgreSQL 9.4 Released,http://www.postgresql.org/about/news/1557/,/u/marvindanig,28
+2,2014-12-18 19:32:40 -0600,/t/philosophy,Preface by Tony Hoare on Theoretical Foundations of Programming Methodology,http://telegraphics.com.au/~toby/hoare-tfpm.txt,/u/tobym,11
+0,2014-12-19 05:16:56 -0600,/t/security,German researchers discover a flaw that could let anyone listen to your calls – The Washington Post,http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/18/german-researchers-discover-a-flaw-that-could-let-anyone-listen-to-your-cell-calls-and-read-your-texts/,/u/chaica,3
+0,2014-12-19 02:34:11 -0600,/t/programming,The Slate Programming Language,http://www.slatelanguage.org,/u/vvh,4

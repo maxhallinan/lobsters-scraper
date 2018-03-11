@@ -1,25 +1,25 @@
-0,2016-03-30 06:36:31 -0500,"['/t/practices', '/t/programming', '/t/vcs']",GIT - Hooks - Enforce commit messages format,http://tschuermans.be/2016/03/git-hooks-enforce-commit-messages-format/,/u/TSchuermans,1
-0,2016-03-30 09:38:57 -0500,['/t/vcs'],Git for Mercurial users,https://bitbucket.org/sjl/dotfiles/src/7d16f9d89280c9ae0096fdbc94410a9b881bfe20/gitconfig?fileviewer=file-view-default#gitconfig-10,/u/JordiGH,1
-0,2016-03-29 16:36:54 -0500,"['/t/hardware', '/t/science']",Transistor Aging,http://spectrum.ieee.org/semiconductors/processors/transistor-aging,/u/calvin,8
-15,2016-03-28 18:43:14 -0500,['/t/api'],My Heroic and Lazy Stand Against IFTTT,https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/,/u/jcs,63
-0,2016-03-29 22:10:25 -0500,['/t/art'],"""Real Life"" Portal",http://smeenk.com/real-life-portal/,/u/karlinfox,4
-2,2016-03-29 21:24:31 -0500,"['/t/practices', '/t/programming']","What popular ""best practices"" are not always best, and why? (2010)",http://programmers.stackexchange.com/questions/14856/what-popular-best-practices-are-not-always-best-and-why,/u/bigdeddu,2
-0,2016-03-29 14:52:25 -0500,['/t/perl'],Binding to C++ With NativeCall,http://hoelz.ro/blog/binding-to-cpp-with-nativecall,/u/hoelzro,4
-0,2016-03-29 23:34:49 -0500,"['/t/video', '/t/ml']",Composing Network Operating Systems,https://www.youtube.com/watch?v=uXt4a_46qZ0,/u/mightybyte,1
-0,2016-03-29 23:57:23 -0500,['/t/compsci'],Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection,http://arxiv.org/abs/1603.02199,/u/sanxiyn,2
-3,2016-03-29 18:01:29 -0500,"['/t/practices', '/t/testing']",The next (BIG) step in Automated Test Discipline?,/s/mulntw/next_big_step_automated_test_discipline,/u/JohnCarter,1
-1,2016-03-29 13:53:19 -0500,"['/t/compsci', '/t/math']",A hard theorem becomes easy over time,http://www.yodaiken.com/2014/09/08/a-hard-theorem-becomes-easy-over-time/,/u/vjoel,6
-1,2016-03-29 09:57:38 -0500,['/t/programming'],Back to the Future of Handwriting Recognition,http://jackschaedler.github.io/handwriting-recognition/,/u/pushcx,10
-0,2016-03-29 15:36:00 -0500,"['/t/video', '/t/programming']",Jonathan Blow - How to program independent games (2011),https://www.youtube.com/watch?v=JjDsP5n2kSM,/u/moowiz,4
-0,2016-03-29 12:17:32 -0500,"['/t/pdf', '/t/programming']",And so Forth... (2001),http://ficl.sourceforge.net/pdf/Forth_Primer.pdf,/u/vadik,5
-1,2016-03-29 01:08:25 -0500,"['/t/programming', '/t/vcs']",Git 2.8 released,https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.8.0.txt,/u/fkr,13
-0,2016-03-29 10:45:53 -0500,"['/t/practices', '/t/programming']",How to Avoid Brittle Code,https://www.go.cd/2016/03/24/how-to-avoid-brittle-code.html,/u/soulcutter,5
-0,2016-03-29 06:24:02 -0500,"['/t/javascript', '/t/web']",ECMAScript Proposal for JavaScript Decorators(and protocols),https://ponyfoo.com/articles/javascript-decorators-proposal,/u/ponyfoo,4
-0,2016-03-29 20:13:16 -0500,"['/t/video', '/t/rust']",Rustlang Screencasts,https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc,/u/millerjs,1
-0,2016-03-30 01:24:21 -0500,"['/t/culture', '/t/programming']",A Tale of Two Programmers,http://blog.prakashvenkat.com/a-tale-of-two-programmers/,/u/dopatraman,1
-1,2016-03-28 17:23:39 -0500,"['/t/video', '/t/hardware', '/t/historical']",Here's What Happens When an 18 Year Old Buys a Mainframe,https://www.youtube.com/watch?v=45X4VP8CGtk,/u/355E3B,22
-0,2016-03-29 17:26:16 -0500,['/t/practices'],Accelerating Upside: Convexity in Software Development,https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447/,/u/antifuchs,1
-0,2016-03-29 09:56:27 -0500,"['/t/devops', '/t/release']",Announcing Rancher 1.0 GA,http://rancher.com/announcing-rancher-1-0-ga/,/u/jpadilla,3
-3,2016-03-29 00:42:49 -0500,"['/t/video', '/t/python']",James Powell - `from __past__ import print_statement`: a Dadaist Rejection of Python 2 vs 3,https://www.youtube.com/watch?v=anP1TU1vHbs&list=PLGVZCDnMOq0rzDLHi5WxWmN5vueHU5Ar7,/u/tf,6
-1,2016-03-28 21:01:27 -0500,"['/t/video', '/t/assembly', '/t/historical', '/t/reversing']",E7 E7 E7 EE: the story of the greatest copy protection ever invented,https://archive.org/details/2015_Kfest_Pilgrim_Copy_Protection,/u/jcs,12
-0,2016-03-29 12:23:47 -0500,"['/t/security', '/t/vcs']",Mercurial security release,https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_3.7.3_.282016-3-29.29,/u/JordiGH,2
+0,2016-03-30 06:36:31 -0500,"/t/practices,/t/programming,/t/vcs",GIT - Hooks - Enforce commit messages format,http://tschuermans.be/2016/03/git-hooks-enforce-commit-messages-format/,/u/TSchuermans,1
+0,2016-03-30 09:38:57 -0500,/t/vcs,Git for Mercurial users,https://bitbucket.org/sjl/dotfiles/src/7d16f9d89280c9ae0096fdbc94410a9b881bfe20/gitconfig?fileviewer=file-view-default#gitconfig-10,/u/JordiGH,1
+0,2016-03-29 16:36:54 -0500,"/t/hardware,/t/science",Transistor Aging,http://spectrum.ieee.org/semiconductors/processors/transistor-aging,/u/calvin,8
+15,2016-03-28 18:43:14 -0500,/t/api,My Heroic and Lazy Stand Against IFTTT,https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/,/u/jcs,63
+0,2016-03-29 22:10:25 -0500,/t/art,"""Real Life"" Portal",http://smeenk.com/real-life-portal/,/u/karlinfox,4
+2,2016-03-29 21:24:31 -0500,"/t/practices,/t/programming","What popular ""best practices"" are not always best, and why? (2010)",http://programmers.stackexchange.com/questions/14856/what-popular-best-practices-are-not-always-best-and-why,/u/bigdeddu,2
+0,2016-03-29 14:52:25 -0500,/t/perl,Binding to C++ With NativeCall,http://hoelz.ro/blog/binding-to-cpp-with-nativecall,/u/hoelzro,4
+0,2016-03-29 23:34:49 -0500,"/t/video,/t/ml",Composing Network Operating Systems,https://www.youtube.com/watch?v=uXt4a_46qZ0,/u/mightybyte,1
+0,2016-03-29 23:57:23 -0500,/t/compsci,Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection,http://arxiv.org/abs/1603.02199,/u/sanxiyn,2
+3,2016-03-29 18:01:29 -0500,"/t/practices,/t/testing",The next (BIG) step in Automated Test Discipline?,/s/mulntw/next_big_step_automated_test_discipline,/u/JohnCarter,1
+1,2016-03-29 13:53:19 -0500,"/t/compsci,/t/math",A hard theorem becomes easy over time,http://www.yodaiken.com/2014/09/08/a-hard-theorem-becomes-easy-over-time/,/u/vjoel,6
+1,2016-03-29 09:57:38 -0500,/t/programming,Back to the Future of Handwriting Recognition,http://jackschaedler.github.io/handwriting-recognition/,/u/pushcx,10
+0,2016-03-29 15:36:00 -0500,"/t/video,/t/programming",Jonathan Blow - How to program independent games (2011),https://www.youtube.com/watch?v=JjDsP5n2kSM,/u/moowiz,4
+0,2016-03-29 12:17:32 -0500,"/t/pdf,/t/programming",And so Forth... (2001),http://ficl.sourceforge.net/pdf/Forth_Primer.pdf,/u/vadik,5
+1,2016-03-29 01:08:25 -0500,"/t/programming,/t/vcs",Git 2.8 released,https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.8.0.txt,/u/fkr,13
+0,2016-03-29 10:45:53 -0500,"/t/practices,/t/programming",How to Avoid Brittle Code,https://www.go.cd/2016/03/24/how-to-avoid-brittle-code.html,/u/soulcutter,5
+0,2016-03-29 06:24:02 -0500,"/t/javascript,/t/web",ECMAScript Proposal for JavaScript Decorators(and protocols),https://ponyfoo.com/articles/javascript-decorators-proposal,/u/ponyfoo,4
+0,2016-03-29 20:13:16 -0500,"/t/video,/t/rust",Rustlang Screencasts,https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc,/u/millerjs,1
+0,2016-03-30 01:24:21 -0500,"/t/culture,/t/programming",A Tale of Two Programmers,http://blog.prakashvenkat.com/a-tale-of-two-programmers/,/u/dopatraman,1
+1,2016-03-28 17:23:39 -0500,"/t/video,/t/hardware,/t/historical",Here's What Happens When an 18 Year Old Buys a Mainframe,https://www.youtube.com/watch?v=45X4VP8CGtk,/u/355E3B,22
+0,2016-03-29 17:26:16 -0500,/t/practices,Accelerating Upside: Convexity in Software Development,https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447/,/u/antifuchs,1
+0,2016-03-29 09:56:27 -0500,"/t/devops,/t/release",Announcing Rancher 1.0 GA,http://rancher.com/announcing-rancher-1-0-ga/,/u/jpadilla,3
+3,2016-03-29 00:42:49 -0500,"/t/video,/t/python",James Powell - `from __past__ import print_statement`: a Dadaist Rejection of Python 2 vs 3,https://www.youtube.com/watch?v=anP1TU1vHbs&list=PLGVZCDnMOq0rzDLHi5WxWmN5vueHU5Ar7,/u/tf,6
+1,2016-03-28 21:01:27 -0500,"/t/video,/t/assembly,/t/historical,/t/reversing",E7 E7 E7 EE: the story of the greatest copy protection ever invented,https://archive.org/details/2015_Kfest_Pilgrim_Copy_Protection,/u/jcs,12
+0,2016-03-29 12:23:47 -0500,"/t/security,/t/vcs",Mercurial security release,https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_3.7.3_.282016-3-29.29,/u/JordiGH,2

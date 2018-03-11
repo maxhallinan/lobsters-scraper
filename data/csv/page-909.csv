@@ -1,25 +1,25 @@
-0,2016-01-13 19:37:11 -0600,"['/t/compsci', '/t/python']",Angrier Birds: Bayesian reinforcement learning,http://gitxiv.com/posts/Nr2N7j4YrR4gnCYK9/angrier-birds-bayesian-reinforcement-learning,/u/tf,4
-2,2016-01-13 09:20:26 -0600,"['/t/book', '/t/programming']",80+ e-books on popular technologies for free,https://www.syncfusion.com/resources/techportal/ebooks,/u/av,11
-1,2016-01-13 07:50:10 -0600,"['/t/java', '/t/math']",How we used Category Theory to solve a problem in Java,http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/,/u/vik,10
-0,2016-01-13 20:05:19 -0600,"['/t/browsers', '/t/web']",Compatibility Living Standard for de facto web features,https://compat.spec.whatwg.org/,/u/joshuacc,3
-32,2016-01-12 16:17:16 -0600,"['/t/c', '/t/graphics', '/t/release', '/t/unix']",farbfeld - A suckless image format,http://tools.suckless.org/farbfeld/,/u/FRIGN,38
-0,2016-01-13 19:52:41 -0600,['/t/c'],Adding New Capabilities to Kiibohd,https://atlanis.net/blog/2016/01/13/Adding-New-Capabilities-to-the-Kiibohd-Firmware/,/u/emallson,1
-0,2016-01-13 14:23:35 -0600,"['/t/pdf', '/t/compilers', '/t/hardware', '/t/programming']",On The Advantages Of Tagged Architecture,http://www.feustel.us/Feustel%20&%20Associates/Advantages.pdf,/u/friendlysock,3
-1,2016-01-13 10:16:10 -0600,['/t/c'],How to initialise structures to all-elements-zero-or-null,http://www.ex-parrot.com/~chris/random/initialise.html,/u/mulander,3
-0,2016-01-13 16:52:53 -0600,"['/t/culture', '/t/privacy', '/t/security']",Hackers and Heroes: Rise of the CCC and Hackerspaces,http://hackaday.com/2016/01/12/hackers-and-heroes-rise-of-ccc-and-hackerspaces/,/u/vista,4
-0,2016-01-13 13:13:01 -0600,"['/t/c', '/t/programming']",libconcurrent: A portable C11 asymmetric coroutine library,https://github.com/sharow/libconcurrent,/u/zem,3
-1,2016-01-13 04:10:04 -0600,['/t/math'],The Dying Art of Mental Math Tricks,http://blog.tanyakhovanova.com/2015/06/the-dying-art-of-mental-math-tricks/,/u/geocar,7
-0,2016-01-13 10:37:56 -0600,['/t/python'],Why Zapier Doesn't Use Gevent (Yet),https://zapier.com/engineering/why-zapier-doesnt-use-gevent-yet/,/u/pushcx,4
-0,2016-01-13 15:28:09 -0600,"['/t/assembly', '/t/hardware']",It’s been 30 years since the launch of MIPS R2000,http://blog.imgtec.com/mips-processors/thirty-years-of-mips-r2000,/u/calvin,2
-0,2016-01-13 19:16:23 -0600,['/t/visualization'],Thenmap: historical border data,http://www.thenmap.net/,/u/pushcx,1
-0,2016-01-13 13:17:59 -0600,"['/t/philosophy', '/t/practices']","Lunatics, Terrorists, And The Three Noble Truths Of Systems",https://fixingtao.com/2016/01/lunatics-terrorists-and-the-three-noble-truths-of-systems/,/u/itistoday,1
-0,2016-01-13 14:53:56 -0600,"['/t/pdf', '/t/math']",Fun with Non-Standard Models,http://www.math.hawaii.edu/~ross/fun_with_nsmodels.pdf,/u/michaelochurch,2
-0,2016-01-13 14:40:26 -0600,"['/t/hardware', '/t/practices']",The Executive Computer (1985),http://www.nytimes.com/1985/12/08/business/the-executive-computer.html,/u/pushcx,2
-0,2016-01-13 11:45:20 -0600,['/t/programming'],Stack Overflow Annual Survey 2016,http://meta.stackoverflow.com/questions/314186/stack-overflow-annual-survey-2016,/u/mgaudet,3
-0,2016-01-13 12:07:29 -0600,"['/t/privacy', '/t/security']",Hacking for Charity: Automated Bug-finding in LibOTR,http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr/,/u/artem,1
-0,2016-01-13 09:23:30 -0600,"['/t/programming', '/t/web']",RESTful Service-Design: How to overcome the CRUD-nature of the REST-style,http://itblogs.stephanbauer.me/restful-service-design-how-to-overcome-the-crud-nature-of-the-rest-style/,/u/av,3
-0,2016-01-13 12:05:48 -0600,"['/t/compilers', '/t/games']","8 Bit CPU in Prison Architect: 7 opcodes, 15b ROM, 7b RAM",https://steamcommunity.com/sharedfiles/filedetails/?id=294577888,/u/pushcx,2
-1,2016-01-12 12:54:14 -0600,['/t/rust'],Two weeks of Rust,http://www.matusiak.eu/numerodix/blog/2016/1/10/two-weeks-rust/,/u/pushcx,27
-3,2016-01-12 13:15:07 -0600,"['/t/assembly', '/t/games']","TIS-100P - ""the assembly language programming game you never asked for!""",https://itunes.apple.com/us/app/tis-100p/id1070879899?mt=8,/u/nateberkopec,20
-32,2016-01-12 07:16:12 -0600,"['/t/design', '/t/hardware', '/t/mobile']",Why I Carry a Newton,http://eggfreckles.net/notes/why-newton/,/u/calvin,27
-1,2016-01-12 23:52:44 -0600,['/t/person'],How to honor Aaron Swartz’s life,https://medium.com/the-coffeelicious/how-to-honor-aaron-swartz-33a2ae09598a,/u/av,7
+0,2016-01-13 19:37:11 -0600,"/t/compsci,/t/python",Angrier Birds: Bayesian reinforcement learning,http://gitxiv.com/posts/Nr2N7j4YrR4gnCYK9/angrier-birds-bayesian-reinforcement-learning,/u/tf,4
+2,2016-01-13 09:20:26 -0600,"/t/book,/t/programming",80+ e-books on popular technologies for free,https://www.syncfusion.com/resources/techportal/ebooks,/u/av,11
+1,2016-01-13 07:50:10 -0600,"/t/java,/t/math",How we used Category Theory to solve a problem in Java,http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/,/u/vik,10
+0,2016-01-13 20:05:19 -0600,"/t/browsers,/t/web",Compatibility Living Standard for de facto web features,https://compat.spec.whatwg.org/,/u/joshuacc,3
+32,2016-01-12 16:17:16 -0600,"/t/c,/t/graphics,/t/release,/t/unix",farbfeld - A suckless image format,http://tools.suckless.org/farbfeld/,/u/FRIGN,38
+0,2016-01-13 19:52:41 -0600,/t/c,Adding New Capabilities to Kiibohd,https://atlanis.net/blog/2016/01/13/Adding-New-Capabilities-to-the-Kiibohd-Firmware/,/u/emallson,1
+0,2016-01-13 14:23:35 -0600,"/t/pdf,/t/compilers,/t/hardware,/t/programming",On The Advantages Of Tagged Architecture,http://www.feustel.us/Feustel%20&%20Associates/Advantages.pdf,/u/friendlysock,3
+1,2016-01-13 10:16:10 -0600,/t/c,How to initialise structures to all-elements-zero-or-null,http://www.ex-parrot.com/~chris/random/initialise.html,/u/mulander,3
+0,2016-01-13 16:52:53 -0600,"/t/culture,/t/privacy,/t/security",Hackers and Heroes: Rise of the CCC and Hackerspaces,http://hackaday.com/2016/01/12/hackers-and-heroes-rise-of-ccc-and-hackerspaces/,/u/vista,4
+0,2016-01-13 13:13:01 -0600,"/t/c,/t/programming",libconcurrent: A portable C11 asymmetric coroutine library,https://github.com/sharow/libconcurrent,/u/zem,3
+1,2016-01-13 04:10:04 -0600,/t/math,The Dying Art of Mental Math Tricks,http://blog.tanyakhovanova.com/2015/06/the-dying-art-of-mental-math-tricks/,/u/geocar,7
+0,2016-01-13 10:37:56 -0600,/t/python,Why Zapier Doesn't Use Gevent (Yet),https://zapier.com/engineering/why-zapier-doesnt-use-gevent-yet/,/u/pushcx,4
+0,2016-01-13 15:28:09 -0600,"/t/assembly,/t/hardware",It’s been 30 years since the launch of MIPS R2000,http://blog.imgtec.com/mips-processors/thirty-years-of-mips-r2000,/u/calvin,2
+0,2016-01-13 19:16:23 -0600,/t/visualization,Thenmap: historical border data,http://www.thenmap.net/,/u/pushcx,1
+0,2016-01-13 13:17:59 -0600,"/t/philosophy,/t/practices","Lunatics, Terrorists, And The Three Noble Truths Of Systems",https://fixingtao.com/2016/01/lunatics-terrorists-and-the-three-noble-truths-of-systems/,/u/itistoday,1
+0,2016-01-13 14:53:56 -0600,"/t/pdf,/t/math",Fun with Non-Standard Models,http://www.math.hawaii.edu/~ross/fun_with_nsmodels.pdf,/u/michaelochurch,2
+0,2016-01-13 14:40:26 -0600,"/t/hardware,/t/practices",The Executive Computer (1985),http://www.nytimes.com/1985/12/08/business/the-executive-computer.html,/u/pushcx,2
+0,2016-01-13 11:45:20 -0600,/t/programming,Stack Overflow Annual Survey 2016,http://meta.stackoverflow.com/questions/314186/stack-overflow-annual-survey-2016,/u/mgaudet,3
+0,2016-01-13 12:07:29 -0600,"/t/privacy,/t/security",Hacking for Charity: Automated Bug-finding in LibOTR,http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr/,/u/artem,1
+0,2016-01-13 09:23:30 -0600,"/t/programming,/t/web",RESTful Service-Design: How to overcome the CRUD-nature of the REST-style,http://itblogs.stephanbauer.me/restful-service-design-how-to-overcome-the-crud-nature-of-the-rest-style/,/u/av,3
+0,2016-01-13 12:05:48 -0600,"/t/compilers,/t/games","8 Bit CPU in Prison Architect: 7 opcodes, 15b ROM, 7b RAM",https://steamcommunity.com/sharedfiles/filedetails/?id=294577888,/u/pushcx,2
+1,2016-01-12 12:54:14 -0600,/t/rust,Two weeks of Rust,http://www.matusiak.eu/numerodix/blog/2016/1/10/two-weeks-rust/,/u/pushcx,27
+3,2016-01-12 13:15:07 -0600,"/t/assembly,/t/games","TIS-100P - ""the assembly language programming game you never asked for!""",https://itunes.apple.com/us/app/tis-100p/id1070879899?mt=8,/u/nateberkopec,20
+32,2016-01-12 07:16:12 -0600,"/t/design,/t/hardware,/t/mobile",Why I Carry a Newton,http://eggfreckles.net/notes/why-newton/,/u/calvin,27
+1,2016-01-12 23:52:44 -0600,/t/person,How to honor Aaron Swartz’s life,https://medium.com/the-coffeelicious/how-to-honor-aaron-swartz-33a2ae09598a,/u/av,7

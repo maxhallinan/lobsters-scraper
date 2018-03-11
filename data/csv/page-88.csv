@@ -1,25 +1,25 @@
-0,2017-12-20 00:43:38 -0600,['/t/linux'],Ubuntu 17.10 corrupting BIOS on some machines,https://bugs.launchpad.net/bugs/1734147,/u/motet-a,17
-0,2017-12-20 09:00:16 -0600,['/t/programming'],D’s Newfangled Name Mangling,https://dlang.org/blog/2017/12/20/ds-newfangled-name-mangling/,/u/calvin,6
-1,2017-12-20 11:37:24 -0600,"['/t/pdf', '/t/compsci', '/t/programming', '/t/testing']",Driller - Augmenting Fuzzing Through Selective Symbolic Execution (2016),http://cs.ucsb.edu/~chris/research/doc/ndss16_driller.pdf,/u/nickpsecurity,4
-14,2017-12-19 14:55:42 -0600,"['/t/c', '/t/formalmethods']",Runtime error in formally verified CompCert C compiler's parser,https://github.com/AbsInt/CompCert/issues/211,/u/minimax,18
-4,2017-12-19 16:51:48 -0600,"['/t/compsci', '/t/design', '/t/visualization']",Dynamicland,https://dynamicland.org,/u/sevan,25
-0,2017-12-20 14:23:14 -0600,['/t/css'],Turn that frown upside down,https://css-tricks.com/turn-frown-upside/,/u/flyingfisch,2
-0,2017-12-20 12:41:06 -0600,['/t/javascript'],Unopinionated comparison of Glimmer and React,http://wyeworks.com/blog/2017/12/20/unopinionated-comparison-of-glimmer-and-react,/u/wyeworks,1
-17,2017-12-19 09:07:40 -0600,['/t/art'],The Screenless Office,http://screenl.es/,/u/friendlysock,29
-0,2017-12-20 08:42:36 -0600,"['/t/ios', '/t/security']",Your home was not so secure after all,https://medium.com/@khaost/your-home-was-not-so-secure-after-all-af52fbd6777c,/u/calvin,4
-0,2017-12-20 17:18:29 -0600,['/t/mac'],"How Apple Created Hackintosh, Part II",http://www.os2museum.com/wp/how-apple-created-hackintosh-part-ii/,/u/calvin,1
-2,2017-12-20 10:33:50 -0600,['/t/culture'],Funding Yourself As A Free Software Developer,http://tyil.work/articles/funding-yourself-as-free-software-developer.html,/u/av,6
-54,2017-12-19 07:16:09 -0600,"['/t/law', '/t/practices', '/t/privacy']",GDPR: Why We Stopped Selling Stuff to Europe,https://www.brentozar.com/archive/2017/12/gdpr-stopped-selling-stuff-europe/,/u/calvin,29
-0,2017-12-20 15:04:43 -0600,"['/t/assembly', '/t/reversing']",Running native programs on the Amstrad NC200 (Z80 portable computer),http://cowlark.com/2017-12-04-nc200-reverse-engineering/,/u/wezm,1
-0,2017-12-20 10:49:27 -0600,['/t/css'],Building Better UI Designs With Layout Grids,https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/,/u/flyingfisch,2
-0,2017-12-20 10:03:14 -0600,"['/t/ai', '/t/math']","Generalization Theory and Deep Nets, An introduction",http://offconvex.github.io/2017/12/08/generalization1/,/u/mjn,2
-0,2017-12-20 06:59:16 -0600,"['/t/python', '/t/release', '/t/virtualization']",Simplifying Stream Processing in Python and Wallaroo using Docker,https://blog.wallaroolabs.com/2017/12/simplify-stream-processing-in-python-and-wallaroo-using-docker/,/u/SeanTAllen,3
-1,2017-12-20 04:28:21 -0600,"['/t/hardware', '/t/ios']",iPhone Performance and Battery Age,https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/,/u/av,3
-0,2017-12-20 14:08:25 -0600,"['/t/event', '/t/javascript']",The latest React and React Native conferences on 99 videos,http://meetupfeed.com/the-latest-react-and-react-native-conferences-on-99-videos-react-talks-digest-q3-2017/,/u/tamas,0
-1,2017-12-20 06:18:21 -0600,['/t/privacy'],"Facebook Can Now Find Your Face, Even When It's Not Tagged",https://www.wired.com/story/facebook-will-find-your-face-even-when-its-not-tagged/,/u/calvin,2
-2,2017-12-19 20:04:38 -0600,['/t/games'],"Mom, 'Final Fantasy' and the Language of Gaming",https://www.rollingstone.com/glixel/features/mom-final-fantasy-and-the-language-of-gaming-w514193,/u/JordiGH,8
-2,2017-12-19 09:41:40 -0600,"['/t/devops', '/t/practices']",Project Management as Code with Graphviz,https://zwischenzugs.com/2017/12/18/project-management-as-code-with-graphviz/,/u/zwischenzugs,14
-0,2017-12-19 23:35:37 -0600,"['/t/browsers', '/t/privacy']",Firefox 57 delays requests to tracking domains,https://www.janbambas.cz/firefox-57-delays-requests-tracking-domains/,/u/freddyb,6
-0,2017-12-19 15:05:36 -0600,['/t/release'],New Thunderbird Releases and New Thunderbird Staff,https://blog.mozilla.org/thunderbird/2017/12/new-thunderbird-releases-and-new-thunderbird-staff/,/u/freddyb,15
-9,2017-12-19 07:28:43 -0600,"['/t/java', '/t/practices', '/t/programming']",Why JetBrains Invented and Promotes Kotlin,https://www.techyourchance.com/jetbrains-invented-promotes-kotlin/,/u/calvin,17
-1,2017-12-19 21:31:15 -0600,"['/t/book', '/t/math']",Stats Without Tears (2016),https://brownmath.com/swt/,/u/pushcx,5
+0,2017-12-20 00:43:38 -0600,/t/linux,Ubuntu 17.10 corrupting BIOS on some machines,https://bugs.launchpad.net/bugs/1734147,/u/motet-a,17
+0,2017-12-20 09:00:16 -0600,/t/programming,D’s Newfangled Name Mangling,https://dlang.org/blog/2017/12/20/ds-newfangled-name-mangling/,/u/calvin,6
+1,2017-12-20 11:37:24 -0600,"/t/pdf,/t/compsci,/t/programming,/t/testing",Driller - Augmenting Fuzzing Through Selective Symbolic Execution (2016),http://cs.ucsb.edu/~chris/research/doc/ndss16_driller.pdf,/u/nickpsecurity,4
+14,2017-12-19 14:55:42 -0600,"/t/c,/t/formalmethods",Runtime error in formally verified CompCert C compiler's parser,https://github.com/AbsInt/CompCert/issues/211,/u/minimax,18
+4,2017-12-19 16:51:48 -0600,"/t/compsci,/t/design,/t/visualization",Dynamicland,https://dynamicland.org,/u/sevan,25
+0,2017-12-20 14:23:14 -0600,/t/css,Turn that frown upside down,https://css-tricks.com/turn-frown-upside/,/u/flyingfisch,2
+0,2017-12-20 12:41:06 -0600,/t/javascript,Unopinionated comparison of Glimmer and React,http://wyeworks.com/blog/2017/12/20/unopinionated-comparison-of-glimmer-and-react,/u/wyeworks,1
+17,2017-12-19 09:07:40 -0600,/t/art,The Screenless Office,http://screenl.es/,/u/friendlysock,29
+0,2017-12-20 08:42:36 -0600,"/t/ios,/t/security",Your home was not so secure after all,https://medium.com/@khaost/your-home-was-not-so-secure-after-all-af52fbd6777c,/u/calvin,4
+0,2017-12-20 17:18:29 -0600,/t/mac,"How Apple Created Hackintosh, Part II",http://www.os2museum.com/wp/how-apple-created-hackintosh-part-ii/,/u/calvin,1
+2,2017-12-20 10:33:50 -0600,/t/culture,Funding Yourself As A Free Software Developer,http://tyil.work/articles/funding-yourself-as-free-software-developer.html,/u/av,6
+54,2017-12-19 07:16:09 -0600,"/t/law,/t/practices,/t/privacy",GDPR: Why We Stopped Selling Stuff to Europe,https://www.brentozar.com/archive/2017/12/gdpr-stopped-selling-stuff-europe/,/u/calvin,29
+0,2017-12-20 15:04:43 -0600,"/t/assembly,/t/reversing",Running native programs on the Amstrad NC200 (Z80 portable computer),http://cowlark.com/2017-12-04-nc200-reverse-engineering/,/u/wezm,1
+0,2017-12-20 10:49:27 -0600,/t/css,Building Better UI Designs With Layout Grids,https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/,/u/flyingfisch,2
+0,2017-12-20 10:03:14 -0600,"/t/ai,/t/math","Generalization Theory and Deep Nets, An introduction",http://offconvex.github.io/2017/12/08/generalization1/,/u/mjn,2
+0,2017-12-20 06:59:16 -0600,"/t/python,/t/release,/t/virtualization",Simplifying Stream Processing in Python and Wallaroo using Docker,https://blog.wallaroolabs.com/2017/12/simplify-stream-processing-in-python-and-wallaroo-using-docker/,/u/SeanTAllen,3
+1,2017-12-20 04:28:21 -0600,"/t/hardware,/t/ios",iPhone Performance and Battery Age,https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/,/u/av,3
+0,2017-12-20 14:08:25 -0600,"/t/event,/t/javascript",The latest React and React Native conferences on 99 videos,http://meetupfeed.com/the-latest-react-and-react-native-conferences-on-99-videos-react-talks-digest-q3-2017/,/u/tamas,0
+1,2017-12-20 06:18:21 -0600,/t/privacy,"Facebook Can Now Find Your Face, Even When It's Not Tagged",https://www.wired.com/story/facebook-will-find-your-face-even-when-its-not-tagged/,/u/calvin,2
+2,2017-12-19 20:04:38 -0600,/t/games,"Mom, 'Final Fantasy' and the Language of Gaming",https://www.rollingstone.com/glixel/features/mom-final-fantasy-and-the-language-of-gaming-w514193,/u/JordiGH,8
+2,2017-12-19 09:41:40 -0600,"/t/devops,/t/practices",Project Management as Code with Graphviz,https://zwischenzugs.com/2017/12/18/project-management-as-code-with-graphviz/,/u/zwischenzugs,14
+0,2017-12-19 23:35:37 -0600,"/t/browsers,/t/privacy",Firefox 57 delays requests to tracking domains,https://www.janbambas.cz/firefox-57-delays-requests-tracking-domains/,/u/freddyb,6
+0,2017-12-19 15:05:36 -0600,/t/release,New Thunderbird Releases and New Thunderbird Staff,https://blog.mozilla.org/thunderbird/2017/12/new-thunderbird-releases-and-new-thunderbird-staff/,/u/freddyb,15
+9,2017-12-19 07:28:43 -0600,"/t/java,/t/practices,/t/programming",Why JetBrains Invented and Promotes Kotlin,https://www.techyourchance.com/jetbrains-invented-promotes-kotlin/,/u/calvin,17
+1,2017-12-19 21:31:15 -0600,"/t/book,/t/math",Stats Without Tears (2016),https://brownmath.com/swt/,/u/pushcx,5

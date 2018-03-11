@@ -1,25 +1,25 @@
-26,2018-01-23 03:22:22 -0600,"['/t/education', '/t/programming']","List.community - a wrapper on top of the various ""awesome"" lists on GitHub",https://list.community,/u/emrox,20
-0,2018-01-23 13:08:05 -0600,"['/t/devops', '/t/programming', '/t/unix']",Rediscovering make: automatic variables,https://monades.roperzh.com/rediscovering-make-automatic-variables/,/u/roperzh,6
-0,2018-01-23 15:26:30 -0600,"['/t/privacy', '/t/web']","Privacy, simplified.",https://spreadprivacy.com/privacy-simplified/,/u/fs111,8
-0,2018-01-23 15:55:31 -0600,['/t/design'],The King vs. Pawn Game of UI Design,http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design,/u/flyingfisch,7
-4,2018-01-23 05:22:12 -0600,['/t/event'],FOSDEM 2018 - Schedule,https://fosdem.org/2018/schedule/,/u/fs111,13
-0,2018-01-23 17:11:09 -0600,['/t/dotnet'],Resources for Learning about .NET Internals,http://www.mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/,/u/calvin,5
-0,2018-01-23 20:03:37 -0600,"['/t/performance', '/t/ruby']",How Much Does Meltdown/Spectre Patching Slow Down a Big Rails App?,http://engineering.appfolio.com/appfolio-engineering/2018/1/4/rails-ruby-bench-cruby-and-meltdownspectre,/u/soulcutter,3
-38,2018-01-22 08:26:20 -0600,['/t/meta'],Please don't deep-link to outbursts on mailing lists,/s/sjxeis/please_don_t_deep_link_outbursts_on,/u/skade,80
-6,2018-01-24 09:12:49 -0600,"['/t/video', '/t/law']",Lawsplaining: Damore v. Google,https://www.youtube.com/watch?v=6EofaLD42hE,/u/khaaan,0
-0,2018-01-23 12:16:30 -0600,['/t/distributed'],"Building a Distributed Log from Scratch, Part 5: Sketching a New System",https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-5-sketching-a-new-system/,/u/tylertreat,4
-0,2018-01-23 15:22:36 -0600,['/t/cryptocurrencies'],Stripe - Ending Bitcoin Support,https://stripe.com/blog/ending-bitcoin-support,/u/maqio,4
-1,2018-01-23 16:26:02 -0600,['/t/practices'],In Pursuit of Production Minimalism (2017),https://brandur.org/minimalism,/u/sotojuan,2
-0,2018-01-23 08:35:17 -0600,"['/t/hardware', '/t/reversing', '/t/security']",Remote Code Execution on the Smiths Medical Medfusion 4000,https://github.com/sgayou/medfusion-4000-research/blob/master/doc/README.md,/u/mulander,8
-1,2018-01-23 10:52:13 -0600,"['/t/pdf', '/t/compsci', '/t/formalmethods', '/t/programming']","Natural Synthesis of Provably-Correct, Data-Structure Manipulations (2017)",https://engineering.purdue.edu/~xqiu/natural-synthesis.pdf,/u/nickpsecurity,6
-0,2018-01-23 10:32:52 -0600,"['/t/job', '/t/python', '/t/web']",Mailpile: Jobs,https://www.mailpile.is/jobs/,/u/JordiGH,6
-0,2018-01-23 08:05:48 -0600,"['/t/javascript', '/t/web']",SurveyJS is out of Beta,https://hackernoon.com/surveyjs-an-open-source-javascript-survey-library-with-versions-for-angular-2-react-vue-2086d988b974,/u/duodvk,4
-3,2018-01-23 08:03:06 -0600,"['/t/debugging', '/t/freebsd', '/t/unix']",Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace,http://nullprogram.com/blog/2018/01/17/,/u/nanxiao,4
-0,2018-01-23 05:44:52 -0600,"['/t/practices', '/t/programming']",Popping Kernels,https://queue.acm.org/detail.cfm?id=3180444,/u/sevan,9
-3,2018-01-23 02:34:11 -0600,['/t/javascript'],Paper Programs - run JavaScript on pieces of paper,https://paperprograms.org/,/u/av,7
-0,2018-01-22 22:37:30 -0600,['/t/math'],Why Discrete Math Is Important,https://artofproblemsolving.com/articles/discrete-math,/u/av,17
-0,2018-01-23 14:40:15 -0600,"['/t/pdf', '/t/ai', '/t/compsci', '/t/formalmethods', '/t/scala']",Genetic Programming + Proof Search = Automatic Improvement (2015),https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9409-5.pdf,/u/nickpsecurity,2
-0,2018-01-23 11:33:06 -0600,"['/t/databases', '/t/dotnet']",Multi-tenant web apps with ASP.NET Core and Postgres,https://www.citusdata.com/blog/2018/01/22/multi-tenant-web-apps-with-dot-net-core-and-postgres/,/u/rdegges,3
-0,2018-01-23 11:44:24 -0600,"['/t/javascript', '/t/programming', '/t/web']","Made a new library! Makes the ""render prop"" technique (React.js) easier to use",https://github.com/beyond-labs/render-prop,/u/ashtonsix,1
-0,2018-01-22 15:17:02 -0600,['/t/practices'],Worrying,https://www.onebigfluke.com/2018/01/worrying.html,/u/haxor,15
-3,2018-01-22 18:37:35 -0600,"['/t/book', '/t/debugging']",On battle scars and debugging,http://wozniak.ca/blog/2018/01/15/On-battle-scars-and-debugging/index.html,/u/GeoffWozniak,8
+26,2018-01-23 03:22:22 -0600,"/t/education,/t/programming","List.community - a wrapper on top of the various ""awesome"" lists on GitHub",https://list.community,/u/emrox,20
+0,2018-01-23 13:08:05 -0600,"/t/devops,/t/programming,/t/unix",Rediscovering make: automatic variables,https://monades.roperzh.com/rediscovering-make-automatic-variables/,/u/roperzh,6
+0,2018-01-23 15:26:30 -0600,"/t/privacy,/t/web","Privacy, simplified.",https://spreadprivacy.com/privacy-simplified/,/u/fs111,8
+0,2018-01-23 15:55:31 -0600,/t/design,The King vs. Pawn Game of UI Design,http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design,/u/flyingfisch,7
+4,2018-01-23 05:22:12 -0600,/t/event,FOSDEM 2018 - Schedule,https://fosdem.org/2018/schedule/,/u/fs111,13
+0,2018-01-23 17:11:09 -0600,/t/dotnet,Resources for Learning about .NET Internals,http://www.mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/,/u/calvin,5
+0,2018-01-23 20:03:37 -0600,"/t/performance,/t/ruby",How Much Does Meltdown/Spectre Patching Slow Down a Big Rails App?,http://engineering.appfolio.com/appfolio-engineering/2018/1/4/rails-ruby-bench-cruby-and-meltdownspectre,/u/soulcutter,3
+38,2018-01-22 08:26:20 -0600,/t/meta,Please don't deep-link to outbursts on mailing lists,/s/sjxeis/please_don_t_deep_link_outbursts_on,/u/skade,80
+6,2018-01-24 09:12:49 -0600,"/t/video,/t/law",Lawsplaining: Damore v. Google,https://www.youtube.com/watch?v=6EofaLD42hE,/u/khaaan,0
+0,2018-01-23 12:16:30 -0600,/t/distributed,"Building a Distributed Log from Scratch, Part 5: Sketching a New System",https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-5-sketching-a-new-system/,/u/tylertreat,4
+0,2018-01-23 15:22:36 -0600,/t/cryptocurrencies,Stripe - Ending Bitcoin Support,https://stripe.com/blog/ending-bitcoin-support,/u/maqio,4
+1,2018-01-23 16:26:02 -0600,/t/practices,In Pursuit of Production Minimalism (2017),https://brandur.org/minimalism,/u/sotojuan,2
+0,2018-01-23 08:35:17 -0600,"/t/hardware,/t/reversing,/t/security",Remote Code Execution on the Smiths Medical Medfusion 4000,https://github.com/sgayou/medfusion-4000-research/blob/master/doc/README.md,/u/mulander,8
+1,2018-01-23 10:52:13 -0600,"/t/pdf,/t/compsci,/t/formalmethods,/t/programming","Natural Synthesis of Provably-Correct, Data-Structure Manipulations (2017)",https://engineering.purdue.edu/~xqiu/natural-synthesis.pdf,/u/nickpsecurity,6
+0,2018-01-23 10:32:52 -0600,"/t/job,/t/python,/t/web",Mailpile: Jobs,https://www.mailpile.is/jobs/,/u/JordiGH,6
+0,2018-01-23 08:05:48 -0600,"/t/javascript,/t/web",SurveyJS is out of Beta,https://hackernoon.com/surveyjs-an-open-source-javascript-survey-library-with-versions-for-angular-2-react-vue-2086d988b974,/u/duodvk,4
+3,2018-01-23 08:03:06 -0600,"/t/debugging,/t/freebsd,/t/unix",Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace,http://nullprogram.com/blog/2018/01/17/,/u/nanxiao,4
+0,2018-01-23 05:44:52 -0600,"/t/practices,/t/programming",Popping Kernels,https://queue.acm.org/detail.cfm?id=3180444,/u/sevan,9
+3,2018-01-23 02:34:11 -0600,/t/javascript,Paper Programs - run JavaScript on pieces of paper,https://paperprograms.org/,/u/av,7
+0,2018-01-22 22:37:30 -0600,/t/math,Why Discrete Math Is Important,https://artofproblemsolving.com/articles/discrete-math,/u/av,17
+0,2018-01-23 14:40:15 -0600,"/t/pdf,/t/ai,/t/compsci,/t/formalmethods,/t/scala",Genetic Programming + Proof Search = Automatic Improvement (2015),https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9409-5.pdf,/u/nickpsecurity,2
+0,2018-01-23 11:33:06 -0600,"/t/databases,/t/dotnet",Multi-tenant web apps with ASP.NET Core and Postgres,https://www.citusdata.com/blog/2018/01/22/multi-tenant-web-apps-with-dot-net-core-and-postgres/,/u/rdegges,3
+0,2018-01-23 11:44:24 -0600,"/t/javascript,/t/programming,/t/web","Made a new library! Makes the ""render prop"" technique (React.js) easier to use",https://github.com/beyond-labs/render-prop,/u/ashtonsix,1
+0,2018-01-22 15:17:02 -0600,/t/practices,Worrying,https://www.onebigfluke.com/2018/01/worrying.html,/u/haxor,15
+3,2018-01-22 18:37:35 -0600,"/t/book,/t/debugging",On battle scars and debugging,http://wozniak.ca/blog/2018/01/15/On-battle-scars-and-debugging/index.html,/u/GeoffWozniak,8

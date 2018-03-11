@@ -1,25 +1,25 @@
-29,2017-11-20 12:10:45 -0600,"['/t/job', '/t/person', '/t/practices', '/t/programming']",Why Don't You Contribute to Open Source?,http://www.yegor256.com/2015/12/22/why-dont-you-contribute-to-open-source.html,/u/cnst,6
-11,2017-11-20 10:08:15 -0600,"['/t/ask', '/t/networking', '/t/performance', '/t/web', '/t/windows']",Does anyone know of a way to throttle my own internet connection?,/s/mapnrm/does_anyone_know_way_throttle_my_own,/u/sosurprised,10
-9,2017-11-20 02:39:57 -0600,['/t/security'],Time for Password Expiration to Die,https://er.educause.edu/blogs/2017/10/time-for-password-expiration-to-die,/u/pgl,22
-0,2017-11-20 17:55:40 -0600,"['/t/practices', '/t/security', '/t/web']",DJI private keys in public view,https://arstechnica.com/information-technology/2017/11/dji-left-private-keys-for-ssl-cloud-storage-in-public-view-and-exposed-customers/,/u/minimax,7
-3,2017-11-21 13:27:55 -0600,['/t/visualization'],Remove the legend to become one,http://www.eugenewei.com/blog/2017/11/13/remove-the-legend,/u/pushcx,0
-5,2017-11-20 12:21:39 -0600,['/t/design'],Mobile Interface Myths You Should Throw Out The Window,https://www.smashingmagazine.com/2017/11/mobile-interface-myths/,/u/flyingfisch,5
-0,2017-11-20 11:28:39 -0600,"['/t/netbsd', '/t/security']","The strongest KASLR, ever?",https://blog.netbsd.org/tnf/entry/the_strongest_kaslr_ever,/u/fro,11
-34,2017-11-20 00:37:31 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/jq1wne/what_are_you_working_on_this_week,/u/kzisme,18
-26,2017-11-19 12:35:32 -0600,"['/t/ask', '/t/linux', '/t/openbsd']",Anyone with ARM laptop experience?,/s/li32ik/anyone_with_arm_laptop_experience,/u/peter,31
-1,2017-11-20 00:04:37 -0600,"['/t/linux', '/t/networking', '/t/openbsd']",The difference of loopback packets on Linux and OpenBSD,http://nanxiao.me/en/the-difference-of-loopback-packets-on-linux-and-openbsd/,/u/nanxiao,13
-0,2017-11-20 10:22:07 -0600,"['/t/c', '/t/practices', '/t/programming']",Mars Code: Building Robust Software (2012),http://www.verticalsysadmin.com/making_robust_software/,/u/nickpsecurity,8
-2,2017-11-20 11:53:26 -0600,"['/t/pdf', '/t/hardware', '/t/networking', '/t/security']",GSMem: Data Exfiltration from Air-Gapped Computers over GSM Frequencies (2015),https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-guri-update.pdf,/u/pushcx,3
-10,2017-11-20 06:28:37 -0600,['/t/ai'],r/MachineLearning: Low entry barrier is destroying deep learning reputation,https://www.reddit.com/r/MachineLearning/comments/7dqtby/d_low_entry_barrier_is_destroying_deep_learning/,/u/unbalancedparentheses,4
-3,2017-11-20 09:19:49 -0600,"['/t/privacy', '/t/security']",Dark Cloud: Inside The Pentagon's Leaked Internet Surveillance Archive,https://www.upguard.com/breaches/cloud-leak-centcom,/u/pgl,4
-5,2017-11-19 18:26:16 -0600,['/t/mac'],Enabling the F4 key in macOS,https://boinkor.net/2017/11/enabling-the-f4-key-in-macos/,/u/antifuchs,9
-0,2017-11-20 07:03:51 -0600,['/t/openbsd'],p2k17 Hackathon report: Antoine Jacoutot on ports+packages progress,https://undeadly.org/cgi?action=article;sid=20171120075903,/u/calvin,5
-0,2017-11-20 10:50:58 -0600,['/t/web'],Happier HTML5 Form Validation,http://daverupert.com/2017/11/happier-html5-forms/,/u/flyingfisch,3
-4,2017-11-19 20:11:30 -0600,"['/t/api', '/t/networking']",IRC Client Protocol,https://modern.ircdocs.horse/,/u/pushcx,11
-0,2017-11-19 22:03:06 -0600,"['/t/browsers', '/t/security']",On Web Extensions shortcomings and their impact on add-on security,https://palant.de/2017/11/11/on-web-extensions-shortcomings-and-their-impact-on-add-on-security,/u/calvin,10
-63,2017-11-18 19:46:31 -0600,"['/t/ask', '/t/practices']","Crustaceans, how is your work/life balance?",/s/lvfarp/crustaceans_how_is_your_work_life_balance,/u/pab,44
-4,2017-11-19 16:48:33 -0600,"['/t/javascript', '/t/nodejs']",grabity - Gets preview data from a link. Just grab it! (Node.js),https://github.com/e-oj/grabity,/u/e-oj,4
-1,2017-11-19 16:36:34 -0600,"['/t/practices', '/t/vcs']",Repo style wars: mono vs multi,http://www.gigamonkeys.com/mono-vs-multi/,/u/GeoffWozniak,12
-0,2017-11-20 10:50:03 -0600,['/t/design'],Simple Patterns for Separation (Better Than Color Alone),https://css-tricks.com/simple-patterns-for-separation/,/u/flyingfisch,1
-0,2017-11-20 15:54:27 -0600,"['/t/practices', '/t/programming']",The 5 Problem-Solving Skills of Great Software Developers,https://www.coderhood.com/5-problem-solving-skills-great-software-developers/,/u/adsouza,0
-0,2017-11-20 09:11:22 -0600,"['/t/video', '/t/compilers']",How do computers read code?,https://www.youtube.com/watch?v=QXjU9qTsYCc,/u/av,1
+29,2017-11-20 12:10:45 -0600,"/t/job,/t/person,/t/practices,/t/programming",Why Don't You Contribute to Open Source?,http://www.yegor256.com/2015/12/22/why-dont-you-contribute-to-open-source.html,/u/cnst,6
+11,2017-11-20 10:08:15 -0600,"/t/ask,/t/networking,/t/performance,/t/web,/t/windows",Does anyone know of a way to throttle my own internet connection?,/s/mapnrm/does_anyone_know_way_throttle_my_own,/u/sosurprised,10
+9,2017-11-20 02:39:57 -0600,/t/security,Time for Password Expiration to Die,https://er.educause.edu/blogs/2017/10/time-for-password-expiration-to-die,/u/pgl,22
+0,2017-11-20 17:55:40 -0600,"/t/practices,/t/security,/t/web",DJI private keys in public view,https://arstechnica.com/information-technology/2017/11/dji-left-private-keys-for-ssl-cloud-storage-in-public-view-and-exposed-customers/,/u/minimax,7
+3,2017-11-21 13:27:55 -0600,/t/visualization,Remove the legend to become one,http://www.eugenewei.com/blog/2017/11/13/remove-the-legend,/u/pushcx,0
+5,2017-11-20 12:21:39 -0600,/t/design,Mobile Interface Myths You Should Throw Out The Window,https://www.smashingmagazine.com/2017/11/mobile-interface-myths/,/u/flyingfisch,5
+0,2017-11-20 11:28:39 -0600,"/t/netbsd,/t/security","The strongest KASLR, ever?",https://blog.netbsd.org/tnf/entry/the_strongest_kaslr_ever,/u/fro,11
+34,2017-11-20 00:37:31 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/jq1wne/what_are_you_working_on_this_week,/u/kzisme,18
+26,2017-11-19 12:35:32 -0600,"/t/ask,/t/linux,/t/openbsd",Anyone with ARM laptop experience?,/s/li32ik/anyone_with_arm_laptop_experience,/u/peter,31
+1,2017-11-20 00:04:37 -0600,"/t/linux,/t/networking,/t/openbsd",The difference of loopback packets on Linux and OpenBSD,http://nanxiao.me/en/the-difference-of-loopback-packets-on-linux-and-openbsd/,/u/nanxiao,13
+0,2017-11-20 10:22:07 -0600,"/t/c,/t/practices,/t/programming",Mars Code: Building Robust Software (2012),http://www.verticalsysadmin.com/making_robust_software/,/u/nickpsecurity,8
+2,2017-11-20 11:53:26 -0600,"/t/pdf,/t/hardware,/t/networking,/t/security",GSMem: Data Exfiltration from Air-Gapped Computers over GSM Frequencies (2015),https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-guri-update.pdf,/u/pushcx,3
+10,2017-11-20 06:28:37 -0600,/t/ai,r/MachineLearning: Low entry barrier is destroying deep learning reputation,https://www.reddit.com/r/MachineLearning/comments/7dqtby/d_low_entry_barrier_is_destroying_deep_learning/,/u/unbalancedparentheses,4
+3,2017-11-20 09:19:49 -0600,"/t/privacy,/t/security",Dark Cloud: Inside The Pentagon's Leaked Internet Surveillance Archive,https://www.upguard.com/breaches/cloud-leak-centcom,/u/pgl,4
+5,2017-11-19 18:26:16 -0600,/t/mac,Enabling the F4 key in macOS,https://boinkor.net/2017/11/enabling-the-f4-key-in-macos/,/u/antifuchs,9
+0,2017-11-20 07:03:51 -0600,/t/openbsd,p2k17 Hackathon report: Antoine Jacoutot on ports+packages progress,https://undeadly.org/cgi?action=article;sid=20171120075903,/u/calvin,5
+0,2017-11-20 10:50:58 -0600,/t/web,Happier HTML5 Form Validation,http://daverupert.com/2017/11/happier-html5-forms/,/u/flyingfisch,3
+4,2017-11-19 20:11:30 -0600,"/t/api,/t/networking",IRC Client Protocol,https://modern.ircdocs.horse/,/u/pushcx,11
+0,2017-11-19 22:03:06 -0600,"/t/browsers,/t/security",On Web Extensions shortcomings and their impact on add-on security,https://palant.de/2017/11/11/on-web-extensions-shortcomings-and-their-impact-on-add-on-security,/u/calvin,10
+63,2017-11-18 19:46:31 -0600,"/t/ask,/t/practices","Crustaceans, how is your work/life balance?",/s/lvfarp/crustaceans_how_is_your_work_life_balance,/u/pab,44
+4,2017-11-19 16:48:33 -0600,"/t/javascript,/t/nodejs",grabity - Gets preview data from a link. Just grab it! (Node.js),https://github.com/e-oj/grabity,/u/e-oj,4
+1,2017-11-19 16:36:34 -0600,"/t/practices,/t/vcs",Repo style wars: mono vs multi,http://www.gigamonkeys.com/mono-vs-multi/,/u/GeoffWozniak,12
+0,2017-11-20 10:50:03 -0600,/t/design,Simple Patterns for Separation (Better Than Color Alone),https://css-tricks.com/simple-patterns-for-separation/,/u/flyingfisch,1
+0,2017-11-20 15:54:27 -0600,"/t/practices,/t/programming",The 5 Problem-Solving Skills of Great Software Developers,https://www.coderhood.com/5-problem-solving-skills-great-software-developers/,/u/adsouza,0
+0,2017-11-20 09:11:22 -0600,"/t/video,/t/compilers",How do computers read code?,https://www.youtube.com/watch?v=QXjU9qTsYCc,/u/av,1

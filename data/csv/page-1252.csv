@@ -1,25 +1,25 @@
-7,2014-09-11 14:18:44 -0500,"['/t/practices', '/t/programming']",The fundamental problem of programming language package management,http://blog.ezyang.com/2014/08/the-fundamental-problem-of-programming-language-package-management/,/u/englishm,21
-0,2014-09-12 16:47:14 -0500,['/t/browsers'],HeadlessBrowsers,https://github.com/dhamaniasad/HeadlessBrowsers,/u/jm,1
-0,2014-09-12 16:30:16 -0500,['/t/web'],Efficiently Rendering CSS,http://css-tricks.com/efficiently-rendering-css/,/u/pushcx,1
-0,2014-09-11 15:19:44 -0500,['/t/c'],JetBrains CLion C++ IDE First Impressions,http://cpprocks.com/jetbrains-clion-c-ide-first-impressions/,/u/alexkorban,17
-0,2014-09-12 05:29:16 -0500,['/t/math'],CausalImpact: A new open-source package for estimating causal effects in time series,http://google-opensource.blogspot.fr/2014/09/causalimpact-new-open-source-package.html,/u/ngrilly,3
-1,2014-09-11 19:53:16 -0500,['/t/science'],24-year-old woman found to have no cerebellum in her brain,http://www.newscientist.com/article/mg22329861.900-woman-of-24-found-to-have-no-cerebellum-in-her-brain.html,/u/journeysquid,9
-3,2014-09-11 14:46:04 -0500,"['/t/freebsd', '/t/linux']",You have your Windows in my Linux,http://www.infoworld.com/d/data-center/you-have-your-windows-in-my-linux-249483,/u/journeysquid,7
-2,2014-09-11 10:14:03 -0500,"['/t/video', '/t/ml', '/t/programming']",Caml Trading - Experiences with OCaml on Wall Street,http://www.infoq.com/presentations/jane-street-caml-ocaml,/u/diethylamine,18
-1,2014-09-11 14:40:54 -0500,"['/t/programming', '/t/ruby', '/t/web']","Yukihiro Matsumoto Speaks, “Software is no longer soft”",https://blog.engineyard.com/2014/software-is-not-soft,/u/PJ,7
-0,2014-09-11 16:40:18 -0500,"['/t/c', '/t/programming']",Using a Lippincott Function for centralized exception handling in C++,http://cppsecrets.blogspot.com/2013/12/using-lippincott-function-for.html,/u/zem,6
-0,2014-09-11 13:28:51 -0500,['/t/programming'],Understanding Hybrid Concurrency Models,http://salmito.com/papers/rb-resd2011/,/u/TiagoBraw,6
-0,2014-09-11 20:16:48 -0500,"['/t/pdf', '/t/design', '/t/programming']",Imposing a Memory Management Discipline on Software Deployment,http://nixos.org/~eelco/pubs/immdsd-icse2004-final.pdf,/u/englishm,2
-0,2014-09-11 20:08:07 -0500,"['/t/linux', '/t/networking', '/t/programming', '/t/python', '/t/vcs']",Doga : HTTP log monitoring console for Humans,https://github.com/pravj/Doga,/u/pravj,2
-1,2014-09-11 09:02:03 -0500,"['/t/c', '/t/linux', '/t/security']",promet - A Local Traffic Monitor,https://github.com/nkman/promet,/u/nkman,3
-0,2014-09-11 11:50:17 -0500,"['/t/pdf', '/t/networking']",Concurrent NetCore: From Policies to Pipelines,http://www.cis.upenn.edu/~mgree/papers/icfp2014sub_cnc.pdf,/u/SeanTAllen,2
-0,2014-09-11 14:55:32 -0500,"['/t/video', '/t/practices', '/t/programming']",Software GR: Andy Keller - Build vs Buy,http://vimeo.com/37869961,/u/englishm,1
-4,2014-09-10 19:45:25 -0500,['/t/linux'],Why I Love Linux (Through Examples),http://swarminglogic.com/article/2014_08_whylinux,/u/zem,7
-9,2014-09-10 20:26:33 -0500,['/t/show'],Go library for working with your /etc/hosts file,https://github.com/kevinburke/hostsfile,/u/kb,5
-3,2014-09-10 12:39:10 -0500,"['/t/compilers', '/t/programming']",CakeML - A bootstrapping verified ML compiler,https://cakeml.org/,/u/ika,21
-0,2014-09-11 11:48:14 -0500,"['/t/video', '/t/java', '/t/scala', '/t/scaling']",Everything I Ever Learned about JVM Performance Tuning @twitter,http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter,/u/SeanTAllen,1
-0,2014-09-11 11:33:57 -0500,['/t/programming'],What is “immediate connection” good for?,http://blog.lacebark.io/2014/09/04/what-is-immediate-connection-good-for/,/u/iamwil,1
-0,2014-09-10 17:19:16 -0500,"['/t/erlang', '/t/release']",The Elixir language just hit 1.0!,https://github.com/elixir-lang/elixir/commit/52ff7e96867c027745d29f5d3feb77f546f22c4f,/u/jcspencer,11
-1,2014-09-10 18:23:04 -0500,"['/t/c', '/t/lisp']",Embedding Lisp (ECL) in C++,http://chriskohlhepp.wordpress.com/embedding-lisp-in-cplusplus-a-recipe/,/u/zem,7
-0,2014-09-10 22:06:08 -0500,"['/t/design', '/t/ios']",Apple Watch: Asking Why and Saying No,http://stratechery.com/2014/apple-watch-asking-saying/,/u/tedu,5
-2,2014-09-10 11:19:20 -0500,"['/t/c', '/t/go', '/t/security']",goreSSL,http://www.tedunangst.com/flak/post/goreSSL,/u/jcs,14
+7,2014-09-11 14:18:44 -0500,"/t/practices,/t/programming",The fundamental problem of programming language package management,http://blog.ezyang.com/2014/08/the-fundamental-problem-of-programming-language-package-management/,/u/englishm,21
+0,2014-09-12 16:47:14 -0500,/t/browsers,HeadlessBrowsers,https://github.com/dhamaniasad/HeadlessBrowsers,/u/jm,1
+0,2014-09-12 16:30:16 -0500,/t/web,Efficiently Rendering CSS,http://css-tricks.com/efficiently-rendering-css/,/u/pushcx,1
+0,2014-09-11 15:19:44 -0500,/t/c,JetBrains CLion C++ IDE First Impressions,http://cpprocks.com/jetbrains-clion-c-ide-first-impressions/,/u/alexkorban,17
+0,2014-09-12 05:29:16 -0500,/t/math,CausalImpact: A new open-source package for estimating causal effects in time series,http://google-opensource.blogspot.fr/2014/09/causalimpact-new-open-source-package.html,/u/ngrilly,3
+1,2014-09-11 19:53:16 -0500,/t/science,24-year-old woman found to have no cerebellum in her brain,http://www.newscientist.com/article/mg22329861.900-woman-of-24-found-to-have-no-cerebellum-in-her-brain.html,/u/journeysquid,9
+3,2014-09-11 14:46:04 -0500,"/t/freebsd,/t/linux",You have your Windows in my Linux,http://www.infoworld.com/d/data-center/you-have-your-windows-in-my-linux-249483,/u/journeysquid,7
+2,2014-09-11 10:14:03 -0500,"/t/video,/t/ml,/t/programming",Caml Trading - Experiences with OCaml on Wall Street,http://www.infoq.com/presentations/jane-street-caml-ocaml,/u/diethylamine,18
+1,2014-09-11 14:40:54 -0500,"/t/programming,/t/ruby,/t/web","Yukihiro Matsumoto Speaks, “Software is no longer soft”",https://blog.engineyard.com/2014/software-is-not-soft,/u/PJ,7
+0,2014-09-11 16:40:18 -0500,"/t/c,/t/programming",Using a Lippincott Function for centralized exception handling in C++,http://cppsecrets.blogspot.com/2013/12/using-lippincott-function-for.html,/u/zem,6
+0,2014-09-11 13:28:51 -0500,/t/programming,Understanding Hybrid Concurrency Models,http://salmito.com/papers/rb-resd2011/,/u/TiagoBraw,6
+0,2014-09-11 20:16:48 -0500,"/t/pdf,/t/design,/t/programming",Imposing a Memory Management Discipline on Software Deployment,http://nixos.org/~eelco/pubs/immdsd-icse2004-final.pdf,/u/englishm,2
+0,2014-09-11 20:08:07 -0500,"/t/linux,/t/networking,/t/programming,/t/python,/t/vcs",Doga : HTTP log monitoring console for Humans,https://github.com/pravj/Doga,/u/pravj,2
+1,2014-09-11 09:02:03 -0500,"/t/c,/t/linux,/t/security",promet - A Local Traffic Monitor,https://github.com/nkman/promet,/u/nkman,3
+0,2014-09-11 11:50:17 -0500,"/t/pdf,/t/networking",Concurrent NetCore: From Policies to Pipelines,http://www.cis.upenn.edu/~mgree/papers/icfp2014sub_cnc.pdf,/u/SeanTAllen,2
+0,2014-09-11 14:55:32 -0500,"/t/video,/t/practices,/t/programming",Software GR: Andy Keller - Build vs Buy,http://vimeo.com/37869961,/u/englishm,1
+4,2014-09-10 19:45:25 -0500,/t/linux,Why I Love Linux (Through Examples),http://swarminglogic.com/article/2014_08_whylinux,/u/zem,7
+9,2014-09-10 20:26:33 -0500,/t/show,Go library for working with your /etc/hosts file,https://github.com/kevinburke/hostsfile,/u/kb,5
+3,2014-09-10 12:39:10 -0500,"/t/compilers,/t/programming",CakeML - A bootstrapping verified ML compiler,https://cakeml.org/,/u/ika,21
+0,2014-09-11 11:48:14 -0500,"/t/video,/t/java,/t/scala,/t/scaling",Everything I Ever Learned about JVM Performance Tuning @twitter,http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter,/u/SeanTAllen,1
+0,2014-09-11 11:33:57 -0500,/t/programming,What is “immediate connection” good for?,http://blog.lacebark.io/2014/09/04/what-is-immediate-connection-good-for/,/u/iamwil,1
+0,2014-09-10 17:19:16 -0500,"/t/erlang,/t/release",The Elixir language just hit 1.0!,https://github.com/elixir-lang/elixir/commit/52ff7e96867c027745d29f5d3feb77f546f22c4f,/u/jcspencer,11
+1,2014-09-10 18:23:04 -0500,"/t/c,/t/lisp",Embedding Lisp (ECL) in C++,http://chriskohlhepp.wordpress.com/embedding-lisp-in-cplusplus-a-recipe/,/u/zem,7
+0,2014-09-10 22:06:08 -0500,"/t/design,/t/ios",Apple Watch: Asking Why and Saying No,http://stratechery.com/2014/apple-watch-asking-saying/,/u/tedu,5
+2,2014-09-10 11:19:20 -0500,"/t/c,/t/go,/t/security",goreSSL,http://www.tedunangst.com/flak/post/goreSSL,/u/jcs,14

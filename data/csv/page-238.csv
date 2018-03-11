@@ -1,25 +1,25 @@
-0,2017-08-20 13:27:49 -0500,"['/t/pdf', '/t/security']",UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages (2016),https://www.cc.gatech.edu/~klu38/publications/unisan-ccs16.pdf,/u/fro,2
-9,2017-08-19 19:46:30 -0500,"['/t/culture', '/t/distributed']",Mastodon is big in Japan. The reason why is… uncomfortable,http://www.ethanzuckerman.com/blog/2017/08/18/mastodon-is-big-in-japan-the-reason-why-is-uncomfortable/,/u/hamed_r,29
-2,2017-08-20 08:07:10 -0500,"['/t/video', '/t/compsci']",Keynote: Why Functional Programming Matters,https://www.youtube.com/watch?v=1qBHf8DrWR8,/u/adsouza,2
-0,2017-08-20 04:55:51 -0500,"['/t/javascript', '/t/web']","Sailboat: A streaming, asynchronous router for React apps",https://medium.com/@jeswin/sailboat-a-modern-router-for-react-4000f00b9867,/u/jeswin,2
-1,2017-08-19 21:09:43 -0500,['/t/programming'],Programming language life expectancy,https://www.johndcook.com/blog/2017/08/19/programming-language-life-expectancy/,/u/calvin,10
-0,2017-08-20 08:18:56 -0500,"['/t/javascript', '/t/web']",NSOAP: An RPC and URL convention for JavaScript,https://github.com/nsoap-official/nsoap-express/,/u/jeswin,1
-0,2017-08-20 09:45:04 -0500,['/t/linux'],Extended File Attributes Rock! (2011),http://www.linux-mag.com/id/8741/,/u/calvin,2
-6,2017-08-19 13:35:17 -0500,"['/t/databases', '/t/javascript', '/t/nodejs', '/t/web']",Fawn - Transactions in MongoDB using two-phase commits,https://github.com/e-oj/Fawn,/u/e-oj,5
-0,2017-08-19 23:46:14 -0500,"['/t/crypto', '/t/devops', '/t/practices', '/t/security']",Secrets and LIE-abilities: The State of Modern Secret Management (2017),https://medium.com/on-docker/secrets-and-lie-abilities-the-state-of-modern-secret-management-2017-c82ec9136a3d,/u/Thai,5
-0,2017-08-19 01:48:11 -0500,"['/t/ml', '/t/programming']",What next?,http://graydon2.dreamwidth.org/253769.html,/u/zxtx,56
-0,2017-08-19 16:39:53 -0500,"['/t/freebsd', '/t/release']",64 Hijacked ARMs,https://www.soldierx.com/news/64-Hijacked-ARMs,/u/lattera,4
-2,2017-08-19 11:49:05 -0500,['/t/javascript'],Vue.js Compared with Other Frameworks,https://vuejs.org/v2/guide/comparison.html#React,/u/pushcx,10
-0,2017-08-19 15:33:42 -0500,"['/t/linux', '/t/mobile']",Porting PostmarketOS to the Motorola Photon Q,http://www.public.asu.edu/~cdchapm2/postmarket-xt897/index.html,/u/pizzaiolo,8
-0,2017-08-19 08:34:38 -0500,"['/t/culture', '/t/haskell']",The Haskell Pyramid,https://patrickmn.com/software/the-haskell-pyramid/,/u/pushcx,20
-0,2017-08-19 21:13:11 -0500,"['/t/compilers', '/t/debugging', '/t/windows']",LLVM on Windows now supports PDB Debug Info,http://blog.llvm.org/2017/08/llvm-on-windows-now-supports-pdb-debug.html,/u/calvin,2
-0,2017-08-19 07:53:58 -0500,"['/t/games', '/t/historical']",Early History of Core War,http://corewar.co.uk/earlycw.htm,/u/calvin,11
-0,2017-08-19 21:04:24 -0500,['/t/assembly'],"The Alpha AXP, part 10: Atomic updates to byte and word memory units",https://blogs.msdn.microsoft.com/oldnewthing/20170818-00/?p=96845,/u/calvin,2
-0,2017-08-19 10:06:33 -0500,"['/t/c', '/t/python', '/t/testing']",Analyse and test C with Python,http://jamesroutley.co.uk/tech/2017/08/16/analyse-test-c-with-python.html,/u/pushcx,7
-3,2017-08-19 01:39:43 -0500,"['/t/audio', '/t/openbsd']",Garbage Podcast: 41: Interview with Patrick Wildt,https://garbage.fm/episodes/41,/u/quobit,12
-0,2017-08-19 21:20:32 -0500,['/t/programming'],The Interface Segregation Principle,http://jackhiston.com/2017/8/3/the-interface-segregation-principle,/u/calvin,1
-0,2017-08-19 08:40:30 -0500,['/t/lisp'],Not Everything is an Expression (2016),http://www.rntz.net/post/2016-06-06-not-everything-is-an-expression.html,/u/pushcx,6
-0,2017-08-19 10:04:58 -0500,"['/t/crypto', '/t/haskell']",Rolling your Own Blockchain in Haskell by Michael Burge,http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html,/u/romanzolotarev,5
-1,2017-08-18 19:31:56 -0500,['/t/linux'],Emoji support is coming to GNOME,https://blogs.gnome.org/mclasen/2017/08/18/post-guadec-distractions/,/u/pizzaiolo,19
-5,2017-08-18 21:01:58 -0500,"['/t/devops', '/t/practices']",Ops: It's everyone's job now,https://opensource.com/article/17/7/state-systems-administration,/u/Thai,11
-0,2017-08-18 23:13:27 -0500,['/t/compsci'],Microkernels are quite attractive to academic computer science researchers,https://utcc.utoronto.ca/~cks/space/blog/tech/AcademicMicrokernels,/u/zem,12
+0,2017-08-20 13:27:49 -0500,"/t/pdf,/t/security",UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages (2016),https://www.cc.gatech.edu/~klu38/publications/unisan-ccs16.pdf,/u/fro,2
+9,2017-08-19 19:46:30 -0500,"/t/culture,/t/distributed",Mastodon is big in Japan. The reason why is… uncomfortable,http://www.ethanzuckerman.com/blog/2017/08/18/mastodon-is-big-in-japan-the-reason-why-is-uncomfortable/,/u/hamed_r,29
+2,2017-08-20 08:07:10 -0500,"/t/video,/t/compsci",Keynote: Why Functional Programming Matters,https://www.youtube.com/watch?v=1qBHf8DrWR8,/u/adsouza,2
+0,2017-08-20 04:55:51 -0500,"/t/javascript,/t/web","Sailboat: A streaming, asynchronous router for React apps",https://medium.com/@jeswin/sailboat-a-modern-router-for-react-4000f00b9867,/u/jeswin,2
+1,2017-08-19 21:09:43 -0500,/t/programming,Programming language life expectancy,https://www.johndcook.com/blog/2017/08/19/programming-language-life-expectancy/,/u/calvin,10
+0,2017-08-20 08:18:56 -0500,"/t/javascript,/t/web",NSOAP: An RPC and URL convention for JavaScript,https://github.com/nsoap-official/nsoap-express/,/u/jeswin,1
+0,2017-08-20 09:45:04 -0500,/t/linux,Extended File Attributes Rock! (2011),http://www.linux-mag.com/id/8741/,/u/calvin,2
+6,2017-08-19 13:35:17 -0500,"/t/databases,/t/javascript,/t/nodejs,/t/web",Fawn - Transactions in MongoDB using two-phase commits,https://github.com/e-oj/Fawn,/u/e-oj,5
+0,2017-08-19 23:46:14 -0500,"/t/crypto,/t/devops,/t/practices,/t/security",Secrets and LIE-abilities: The State of Modern Secret Management (2017),https://medium.com/on-docker/secrets-and-lie-abilities-the-state-of-modern-secret-management-2017-c82ec9136a3d,/u/Thai,5
+0,2017-08-19 01:48:11 -0500,"/t/ml,/t/programming",What next?,http://graydon2.dreamwidth.org/253769.html,/u/zxtx,56
+0,2017-08-19 16:39:53 -0500,"/t/freebsd,/t/release",64 Hijacked ARMs,https://www.soldierx.com/news/64-Hijacked-ARMs,/u/lattera,4
+2,2017-08-19 11:49:05 -0500,/t/javascript,Vue.js Compared with Other Frameworks,https://vuejs.org/v2/guide/comparison.html#React,/u/pushcx,10
+0,2017-08-19 15:33:42 -0500,"/t/linux,/t/mobile",Porting PostmarketOS to the Motorola Photon Q,http://www.public.asu.edu/~cdchapm2/postmarket-xt897/index.html,/u/pizzaiolo,8
+0,2017-08-19 08:34:38 -0500,"/t/culture,/t/haskell",The Haskell Pyramid,https://patrickmn.com/software/the-haskell-pyramid/,/u/pushcx,20
+0,2017-08-19 21:13:11 -0500,"/t/compilers,/t/debugging,/t/windows",LLVM on Windows now supports PDB Debug Info,http://blog.llvm.org/2017/08/llvm-on-windows-now-supports-pdb-debug.html,/u/calvin,2
+0,2017-08-19 07:53:58 -0500,"/t/games,/t/historical",Early History of Core War,http://corewar.co.uk/earlycw.htm,/u/calvin,11
+0,2017-08-19 21:04:24 -0500,/t/assembly,"The Alpha AXP, part 10: Atomic updates to byte and word memory units",https://blogs.msdn.microsoft.com/oldnewthing/20170818-00/?p=96845,/u/calvin,2
+0,2017-08-19 10:06:33 -0500,"/t/c,/t/python,/t/testing",Analyse and test C with Python,http://jamesroutley.co.uk/tech/2017/08/16/analyse-test-c-with-python.html,/u/pushcx,7
+3,2017-08-19 01:39:43 -0500,"/t/audio,/t/openbsd",Garbage Podcast: 41: Interview with Patrick Wildt,https://garbage.fm/episodes/41,/u/quobit,12
+0,2017-08-19 21:20:32 -0500,/t/programming,The Interface Segregation Principle,http://jackhiston.com/2017/8/3/the-interface-segregation-principle,/u/calvin,1
+0,2017-08-19 08:40:30 -0500,/t/lisp,Not Everything is an Expression (2016),http://www.rntz.net/post/2016-06-06-not-everything-is-an-expression.html,/u/pushcx,6
+0,2017-08-19 10:04:58 -0500,"/t/crypto,/t/haskell",Rolling your Own Blockchain in Haskell by Michael Burge,http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html,/u/romanzolotarev,5
+1,2017-08-18 19:31:56 -0500,/t/linux,Emoji support is coming to GNOME,https://blogs.gnome.org/mclasen/2017/08/18/post-guadec-distractions/,/u/pizzaiolo,19
+5,2017-08-18 21:01:58 -0500,"/t/devops,/t/practices",Ops: It's everyone's job now,https://opensource.com/article/17/7/state-systems-administration,/u/Thai,11
+0,2017-08-18 23:13:27 -0500,/t/compsci,Microkernels are quite attractive to academic computer science researchers,https://utcc.utoronto.ca/~cks/space/blog/tech/AcademicMicrokernels,/u/zem,12

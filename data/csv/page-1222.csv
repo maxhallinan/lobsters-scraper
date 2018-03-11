@@ -1,25 +1,25 @@
-0,2014-11-08 22:56:45 -0600,['/t/programming'],Things I Wish Someone Had Told Me When I Was Learning How to Code,https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329,/u/SeanTAllen,1
-0,2014-11-08 07:53:12 -0600,"['/t/compsci', '/t/haskell', '/t/math']",A Partial Ordering of some Category Theory applied to Haskell (2010),http://blog.sigfpe.com/2010_03_01_archive.html,/u/pushcx,5
-0,2014-11-07 13:57:45 -0600,['/t/compsci'],Pulling JPEGs out of thin air,http://lcamtuf.blogspot.com/2014/11/pulling-jpegs-out-of-thin-air.html,/u/pushcx,34
-0,2014-11-08 06:12:47 -0600,"['/t/javascript', '/t/programming', '/t/vcs', '/t/web']",I built a platform for deploying HTTP microservices in seconds using Github Gists. Feedback?,http://hook.io,/u/marak,1
-0,2014-11-07 11:05:29 -0600,"['/t/python', '/t/ruby']",Building A Ruby List Comprehension,https://blog.engineyard.com/2014/ruby-list-comprehension,/u/fluxusfrequency,4
-0,2014-11-07 19:16:13 -0600,"['/t/databases', '/t/security']",Extracting timstamp and MAC address from MySQL UUIDs,http://rpbouman.blogspot.com/2014/06/mysql-extracting-timstamp-and-mac.html,/u/pushcx,1
-0,2014-11-07 09:40:31 -0600,['/t/culture'],On tolerating personal abuse,http://www.eyrie.org/~eagle/journal/2014-11/001.html,/u/algernon,8
-3,2014-11-06 15:22:21 -0600,['/t/science'],engineering pornography (big-time power line repair) (2002),http://www.jwz.org/blog/2002/11/engineering-pornography/,/u/mikemccracken,24
-0,2014-11-06 22:33:24 -0600,"['/t/hardware', '/t/science']",Running the South Pole Data Center,http://arstechnica.com/business/2012/04/coolest-jobs-in-tech-literally-running-a-south-pole-data-center/,/u/pushcx,10
-0,2014-11-07 17:36:46 -0600,['/t/culture'],Service Oriented Architecture vs. Dunbar’s Number,http://opusmagnus.wordpress.com/2014/10/19/service-oriented-architecture-vs-dunbars-number/,/u/seldo,1
-0,2014-11-06 13:28:58 -0600,"['/t/privacy', '/t/release', '/t/security']",GnuPG - What’s new in 2.1,https://gnupg.org/faq/whats-new-in-2.1.html,/u/evhan,9
-0,2014-11-06 07:05:58 -0600,"['/t/programming', '/t/rust']",Improved Error Handling in Rust,http://lucumr.pocoo.org/2014/11/6/error-handling-in-rust/,/u/davecardwell,18
-151,2014-11-06 02:49:56 -0600,"['/t/ask', '/t/rant']",What's Your Most Controversial Technical Opinion?,http://techblog.trunkclub.com/whats-your-most-controversial-technical-opinion/,/u/apy,49
-1,2014-11-06 13:37:17 -0600,"['/t/api', '/t/web']",Building APIs: lessons learned the hard way,https://gocardless.com/blog/building-apis/,/u/journeysquid,5
-0,2014-11-06 17:24:52 -0600,['/t/security'],Behind enemy lines in our war against account hijackers,http://googleonlinesecurity.blogspot.com/2014/11/behind-enemy-lines-in-our-war-against.html,/u/tedu,4
-0,2014-11-06 17:42:17 -0600,['/t/design'],The history of a radio-button,https://www.jitbit.com/alexblog/242-the-history-of-a-radio-button/,/u/jitbit,3
-11,2014-11-06 10:46:49 -0600,"['/t/ask', '/t/culture']",What do I do when a colleague is taking all the credit for my work?,/s/2lrbvl/what_do_i_do_when_colleague_is_taking_all,/u/lenary,18
-0,2014-11-06 10:39:59 -0600,"['/t/netbsd', '/t/unix']",NetBSD ARM multiprocessor support,http://blog.netbsd.org/tnf/entry/working_arm_multiprocessor_support,/u/fcambus,4
-0,2014-11-06 17:39:18 -0600,['/t/culture'],Open sourcing Twitter emoji for everyone,https://blog.twitter.com/2014/open-sourcing-twitter-emoji-for-everyone,/u/dh,3
-0,2014-11-06 12:57:49 -0600,"['/t/culture', '/t/visualization', '/t/web']",The reddit Front Page is Not a Meritocracy,http://toddwschneider.com/posts/the-reddit-front-page-is-not-a-meritocracy/,/u/pushcx,4
-8,2014-11-05 15:17:37 -0600,"['/t/javascript', '/t/web']",AngularJS: The Bad Parts,http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/,/u/pushcx,12
-12,2014-11-04 14:04:58 -0600,['/t/announce'],Lobsters stickers,/s/zykwh8/lobsters_stickers,/u/jcs,62
-0,2014-11-06 12:13:24 -0600,['/t/javascript'],"Harp, the static web server with built-in preprocessing",http://harpjs.com/,/u/Tkm84,1
-2,2014-11-05 11:54:18 -0600,"['/t/art', '/t/culture', '/t/person']",The Sixth Stage of Grief is Retro-Computing,https://medium.com/message/networks-without-networks-7644933a3100,/u/james,35
-0,2014-11-05 16:25:30 -0600,"['/t/c', '/t/programming']",Building C Projects,http://nethack4.org/blog/building-c.html,/u/zem,10
+0,2014-11-08 22:56:45 -0600,/t/programming,Things I Wish Someone Had Told Me When I Was Learning How to Code,https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329,/u/SeanTAllen,1
+0,2014-11-08 07:53:12 -0600,"/t/compsci,/t/haskell,/t/math",A Partial Ordering of some Category Theory applied to Haskell (2010),http://blog.sigfpe.com/2010_03_01_archive.html,/u/pushcx,5
+0,2014-11-07 13:57:45 -0600,/t/compsci,Pulling JPEGs out of thin air,http://lcamtuf.blogspot.com/2014/11/pulling-jpegs-out-of-thin-air.html,/u/pushcx,34
+0,2014-11-08 06:12:47 -0600,"/t/javascript,/t/programming,/t/vcs,/t/web",I built a platform for deploying HTTP microservices in seconds using Github Gists. Feedback?,http://hook.io,/u/marak,1
+0,2014-11-07 11:05:29 -0600,"/t/python,/t/ruby",Building A Ruby List Comprehension,https://blog.engineyard.com/2014/ruby-list-comprehension,/u/fluxusfrequency,4
+0,2014-11-07 19:16:13 -0600,"/t/databases,/t/security",Extracting timstamp and MAC address from MySQL UUIDs,http://rpbouman.blogspot.com/2014/06/mysql-extracting-timstamp-and-mac.html,/u/pushcx,1
+0,2014-11-07 09:40:31 -0600,/t/culture,On tolerating personal abuse,http://www.eyrie.org/~eagle/journal/2014-11/001.html,/u/algernon,8
+3,2014-11-06 15:22:21 -0600,/t/science,engineering pornography (big-time power line repair) (2002),http://www.jwz.org/blog/2002/11/engineering-pornography/,/u/mikemccracken,24
+0,2014-11-06 22:33:24 -0600,"/t/hardware,/t/science",Running the South Pole Data Center,http://arstechnica.com/business/2012/04/coolest-jobs-in-tech-literally-running-a-south-pole-data-center/,/u/pushcx,10
+0,2014-11-07 17:36:46 -0600,/t/culture,Service Oriented Architecture vs. Dunbar’s Number,http://opusmagnus.wordpress.com/2014/10/19/service-oriented-architecture-vs-dunbars-number/,/u/seldo,1
+0,2014-11-06 13:28:58 -0600,"/t/privacy,/t/release,/t/security",GnuPG - What’s new in 2.1,https://gnupg.org/faq/whats-new-in-2.1.html,/u/evhan,9
+0,2014-11-06 07:05:58 -0600,"/t/programming,/t/rust",Improved Error Handling in Rust,http://lucumr.pocoo.org/2014/11/6/error-handling-in-rust/,/u/davecardwell,18
+151,2014-11-06 02:49:56 -0600,"/t/ask,/t/rant",What's Your Most Controversial Technical Opinion?,http://techblog.trunkclub.com/whats-your-most-controversial-technical-opinion/,/u/apy,49
+1,2014-11-06 13:37:17 -0600,"/t/api,/t/web",Building APIs: lessons learned the hard way,https://gocardless.com/blog/building-apis/,/u/journeysquid,5
+0,2014-11-06 17:24:52 -0600,/t/security,Behind enemy lines in our war against account hijackers,http://googleonlinesecurity.blogspot.com/2014/11/behind-enemy-lines-in-our-war-against.html,/u/tedu,4
+0,2014-11-06 17:42:17 -0600,/t/design,The history of a radio-button,https://www.jitbit.com/alexblog/242-the-history-of-a-radio-button/,/u/jitbit,3
+11,2014-11-06 10:46:49 -0600,"/t/ask,/t/culture",What do I do when a colleague is taking all the credit for my work?,/s/2lrbvl/what_do_i_do_when_colleague_is_taking_all,/u/lenary,18
+0,2014-11-06 10:39:59 -0600,"/t/netbsd,/t/unix",NetBSD ARM multiprocessor support,http://blog.netbsd.org/tnf/entry/working_arm_multiprocessor_support,/u/fcambus,4
+0,2014-11-06 17:39:18 -0600,/t/culture,Open sourcing Twitter emoji for everyone,https://blog.twitter.com/2014/open-sourcing-twitter-emoji-for-everyone,/u/dh,3
+0,2014-11-06 12:57:49 -0600,"/t/culture,/t/visualization,/t/web",The reddit Front Page is Not a Meritocracy,http://toddwschneider.com/posts/the-reddit-front-page-is-not-a-meritocracy/,/u/pushcx,4
+8,2014-11-05 15:17:37 -0600,"/t/javascript,/t/web",AngularJS: The Bad Parts,http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/,/u/pushcx,12
+12,2014-11-04 14:04:58 -0600,/t/announce,Lobsters stickers,/s/zykwh8/lobsters_stickers,/u/jcs,62
+0,2014-11-06 12:13:24 -0600,/t/javascript,"Harp, the static web server with built-in preprocessing",http://harpjs.com/,/u/Tkm84,1
+2,2014-11-05 11:54:18 -0600,"/t/art,/t/culture,/t/person",The Sixth Stage of Grief is Retro-Computing,https://medium.com/message/networks-without-networks-7644933a3100,/u/james,35
+0,2014-11-05 16:25:30 -0600,"/t/c,/t/programming",Building C Projects,http://nethack4.org/blog/building-c.html,/u/zem,10

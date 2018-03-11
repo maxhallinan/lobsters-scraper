@@ -1,25 +1,25 @@
-2,2012-08-29 22:41:11 -0500,"['/t/lisp', '/t/release']",Deft: Emacs mode for note-taking (inspired by Notational Velocity),http://jblevins.org/projects/deft/,/u/kyle,5
-0,2012-08-30 07:24:28 -0500,['/t/compsci'],Case Study: An Auto-Updating Cache Using Actors,http://letitcrash.com/post/30509298968/case-study-an-auto-updating-cache-using-actors,/u/kyle,2
-0,2012-08-30 10:33:07 -0500,['/t/news'],U.S. Public Libraries Weather the Storm,http://boingboing.net/2012/08/30/u-s-public-libraries-weather.html,/u/snk,1
-0,2012-08-29 22:10:59 -0500,"['/t/javascript', '/t/linux']",Boot the Linux kernel inside your browser,http://bellard.org/jslinux/,/u/tim,6
-13,2012-08-29 11:55:53 -0500,"['/t/javascript', '/t/rant', '/t/web']",Advice On & Instruction in The Use of Ember.js,http://trek.github.com/,/u/tomdale,31
-2,2012-08-29 15:58:00 -0500,['/t/hardware'],3D printer that uses metal instead of plastic,http://www.theage.com.au/technology/sci-tech/just-the-laser-printer-to-reshape-local-industry-20120827-24wox.html,/u/kyle,7
-1,2012-08-29 22:46:44 -0500,['/t/compsci'],Yacc is dead: An update,http://matt.might.net/articles/parsing-with-derivatives/,/u/kyle,3
-18,2012-08-29 20:09:14 -0500,['/t/meta'],Positive and Negative Ratings for Comments?,/s/fcjt6v/positive_negative_ratings_for_comments,/u/wycats,11
-0,2012-08-29 23:45:27 -0500,['/t/compsci'],20 controversial programming opinions,http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/,/u/kyle,3
-4,2012-08-29 21:30:45 -0500,['/t/lisp'],A fast quicksort in Clojure,http://clojurefun.wordpress.com/2012/08/29/a-fast-quicksort-in-clojure/,/u/diego,2
-0,2012-08-29 21:26:54 -0500,['/t/javascript'],Exploring the RVP pattern with Resource Reflection in JavaScript,http://blog.nodejitsu.com/resource-reflection-in-flatiron,/u/marak,4
-0,2012-08-29 22:07:00 -0500,"['/t/api', '/t/security', '/t/web']",OAuth2: One access_token To Rule Them All,http://homakov.blogspot.com/2012/08/oauth2-one-accesstoken-to-rule-them-all.html,/u/titanous,3
-0,2012-08-29 15:52:54 -0500,"['/t/compsci', '/t/lisp']",Tabasco Sort: a super-optimal merge sort,http://www.pvk.ca/Blog/2012/08/27/tabasco-sort-super-optimal-merge-sort/,/u/kyle,6
-0,2012-08-29 22:45:39 -0500,['/t/python'],Using R from within Python,http://www.sciprogblog.com/2012/08/using-r-from-within-python.html,/u/kyle,2
-0,2012-08-29 12:33:43 -0500,"['/t/security', '/t/web']",Content hosting for the modern web,http://googleonlinesecurity.blogspot.com/2012/08/content-hosting-for-modern-web.html,/u/jcs,5
-0,2012-08-29 04:08:22 -0500,"['/t/openbsd', '/t/release']",OpenSMTPD: encypted queue backend,https://poolp.org/0x4aaf/OpenSMTPD:-crypto-backend-and-encrypted-queue,/u/lynge,8
-0,2012-08-29 02:21:55 -0500,['/t/release'],OpenSSH 6.1 Released,http://www.openssh.com/txt/release-6.1,/u/lynge,6
-13,2012-08-28 13:37:33 -0500,['/t/browsers'],xombrero 1.3.0 released,https://opensource.conformal.com/fluxbb/viewtopic.php?pid=1663#p1663,/u/jrick,12
-0,2012-08-28 20:51:47 -0500,['/t/hardware'],Auto AMP: Turn your speakers on when music is playing,http://www.electrobob.com/auto-amp/,/u/kyle,5
-0,2012-08-28 20:42:33 -0500,['/t/lua'],busted : Elegant Lua unit testing,http://olivinelabs.com/busted/,/u/kyle,4
-0,2012-08-28 20:48:53 -0500,['/t/python'],the tox automation project,http://tox.testrun.org/latest/,/u/kyle,3
-1,2012-08-28 10:00:32 -0500,['/t/browsers'],Fixing the Firefox Plugin Memory Leak,http://blog.kylehuey.com/post/21892343371/fixing-the-memory-leak,/u/pushcx,6
-0,2012-08-28 15:25:03 -0500,['/t/news'],New Megaupload Will Be Massive Global Network To Change The World,https://torrentfreak.com/new-megaupload-will-be-massive-global-network-to-change-the-world-120828/,/u/kusuriya,3
-0,2012-08-28 09:40:12 -0500,['/t/compsci'],Deep Dive: Java's Lock-Free Concurrency,http://www.eecs.berkeley.edu/~pwendell/2012/08/13/java-lock-free-deepdive.html,/u/pushcx,6
-0,2012-08-28 15:11:51 -0500,"['/t/hardware', '/t/linux', '/t/openbsd']",The Crossroads,http://callfortesting.org/crossroads/,/u/brycv,2
+2,2012-08-29 22:41:11 -0500,"/t/lisp,/t/release",Deft: Emacs mode for note-taking (inspired by Notational Velocity),http://jblevins.org/projects/deft/,/u/kyle,5
+0,2012-08-30 07:24:28 -0500,/t/compsci,Case Study: An Auto-Updating Cache Using Actors,http://letitcrash.com/post/30509298968/case-study-an-auto-updating-cache-using-actors,/u/kyle,2
+0,2012-08-30 10:33:07 -0500,/t/news,U.S. Public Libraries Weather the Storm,http://boingboing.net/2012/08/30/u-s-public-libraries-weather.html,/u/snk,1
+0,2012-08-29 22:10:59 -0500,"/t/javascript,/t/linux",Boot the Linux kernel inside your browser,http://bellard.org/jslinux/,/u/tim,6
+13,2012-08-29 11:55:53 -0500,"/t/javascript,/t/rant,/t/web",Advice On & Instruction in The Use of Ember.js,http://trek.github.com/,/u/tomdale,31
+2,2012-08-29 15:58:00 -0500,/t/hardware,3D printer that uses metal instead of plastic,http://www.theage.com.au/technology/sci-tech/just-the-laser-printer-to-reshape-local-industry-20120827-24wox.html,/u/kyle,7
+1,2012-08-29 22:46:44 -0500,/t/compsci,Yacc is dead: An update,http://matt.might.net/articles/parsing-with-derivatives/,/u/kyle,3
+18,2012-08-29 20:09:14 -0500,/t/meta,Positive and Negative Ratings for Comments?,/s/fcjt6v/positive_negative_ratings_for_comments,/u/wycats,11
+0,2012-08-29 23:45:27 -0500,/t/compsci,20 controversial programming opinions,http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/,/u/kyle,3
+4,2012-08-29 21:30:45 -0500,/t/lisp,A fast quicksort in Clojure,http://clojurefun.wordpress.com/2012/08/29/a-fast-quicksort-in-clojure/,/u/diego,2
+0,2012-08-29 21:26:54 -0500,/t/javascript,Exploring the RVP pattern with Resource Reflection in JavaScript,http://blog.nodejitsu.com/resource-reflection-in-flatiron,/u/marak,4
+0,2012-08-29 22:07:00 -0500,"/t/api,/t/security,/t/web",OAuth2: One access_token To Rule Them All,http://homakov.blogspot.com/2012/08/oauth2-one-accesstoken-to-rule-them-all.html,/u/titanous,3
+0,2012-08-29 15:52:54 -0500,"/t/compsci,/t/lisp",Tabasco Sort: a super-optimal merge sort,http://www.pvk.ca/Blog/2012/08/27/tabasco-sort-super-optimal-merge-sort/,/u/kyle,6
+0,2012-08-29 22:45:39 -0500,/t/python,Using R from within Python,http://www.sciprogblog.com/2012/08/using-r-from-within-python.html,/u/kyle,2
+0,2012-08-29 12:33:43 -0500,"/t/security,/t/web",Content hosting for the modern web,http://googleonlinesecurity.blogspot.com/2012/08/content-hosting-for-modern-web.html,/u/jcs,5
+0,2012-08-29 04:08:22 -0500,"/t/openbsd,/t/release",OpenSMTPD: encypted queue backend,https://poolp.org/0x4aaf/OpenSMTPD:-crypto-backend-and-encrypted-queue,/u/lynge,8
+0,2012-08-29 02:21:55 -0500,/t/release,OpenSSH 6.1 Released,http://www.openssh.com/txt/release-6.1,/u/lynge,6
+13,2012-08-28 13:37:33 -0500,/t/browsers,xombrero 1.3.0 released,https://opensource.conformal.com/fluxbb/viewtopic.php?pid=1663#p1663,/u/jrick,12
+0,2012-08-28 20:51:47 -0500,/t/hardware,Auto AMP: Turn your speakers on when music is playing,http://www.electrobob.com/auto-amp/,/u/kyle,5
+0,2012-08-28 20:42:33 -0500,/t/lua,busted : Elegant Lua unit testing,http://olivinelabs.com/busted/,/u/kyle,4
+0,2012-08-28 20:48:53 -0500,/t/python,the tox automation project,http://tox.testrun.org/latest/,/u/kyle,3
+1,2012-08-28 10:00:32 -0500,/t/browsers,Fixing the Firefox Plugin Memory Leak,http://blog.kylehuey.com/post/21892343371/fixing-the-memory-leak,/u/pushcx,6
+0,2012-08-28 15:25:03 -0500,/t/news,New Megaupload Will Be Massive Global Network To Change The World,https://torrentfreak.com/new-megaupload-will-be-massive-global-network-to-change-the-world-120828/,/u/kusuriya,3
+0,2012-08-28 09:40:12 -0500,/t/compsci,Deep Dive: Java's Lock-Free Concurrency,http://www.eecs.berkeley.edu/~pwendell/2012/08/13/java-lock-free-deepdive.html,/u/pushcx,6
+0,2012-08-28 15:11:51 -0500,"/t/hardware,/t/linux,/t/openbsd",The Crossroads,http://callfortesting.org/crossroads/,/u/brycv,2

@@ -1,25 +1,25 @@
-0,2015-02-12 14:12:47 -0600,"['/t/compsci', '/t/distributed']",The TLA Home Page,http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html,/u/tobym,8
-0,2015-02-12 14:10:52 -0600,"['/t/distributed', '/t/networking']","Decentralization, I want to believe",http://adamierymenko.com/decentralization-i-want-to-believe/,/u/lithp,8
-5,2015-02-12 09:33:44 -0600,['/t/web'],Firefox to Require Extension Signing,https://blog.mozilla.org/addons/2015/02/10/extension-signing-safer-experience/,/u/pushcx,9
-1,2015-02-12 10:23:14 -0600,['/t/math'],An Introduction to the Central Limit Theorem,http://spin.atomicobject.com/2015/02/12/central-limit-theorem-intro/,/u/robin,9
-0,2015-02-12 18:15:17 -0600,"['/t/go', '/t/programming']",Go concurrency: Monte Carlo simulations,http://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/,/u/gsquire,4
-0,2015-02-12 11:18:43 -0600,"['/t/job', '/t/programming']",Good Developer CVs (Résumés),http://blog.mavnn.co.uk/good-developer-cvs/,/u/mavnn,8
-0,2015-02-12 10:20:36 -0600,"['/t/pdf', '/t/slides', '/t/hardware', '/t/networking']",Google Fiber: Speed is Hard,http://mirror.csclub.uwaterloo.ca/csclub/speed-is-hard-at-uwaterloo.pdf,/u/pushcx,7
-6,2015-02-12 08:38:30 -0600,"['/t/culture', '/t/linux']",Why we make you type “$0”,http://blog.elementaryos.org/post/110645528530/payments,/u/calvin,13
-0,2015-02-12 12:39:38 -0600,['/t/privacy'],How to join Facebook without giving up all of your and your friends’ privacy,http://paul.henrich.me/posts/2015/02/facing-facebook.html,/u/paulh,4
-0,2015-02-12 03:35:54 -0600,['/t/openbsd'],Jazz concert with OpenBSD synths,http://undeadly.org/cgi?action=article&sid=20150211134052,/u/dbd,10
-0,2015-02-12 12:44:02 -0600,"['/t/databases', '/t/lisp']","An opinionated CQRS/ES implementation using Onyx, Datomic, DynamoDB, Kafka and Zookeeper.",http://yuppiechef.github.io/cqrs-server/,/u/gaustin,3
-1,2015-02-12 12:38:11 -0600,"['/t/programming', '/t/ruby']",The 4 Rules of East-oriented Code: Rule 1,http://www.saturnflyer.com/blog/jim/2015/02/10/the-4-rules-of-east-oriented-code-rule-1/,/u/saturnflyer,2
-0,2015-02-12 16:55:23 -0600,"['/t/api', '/t/networking', '/t/programming']",Microservices - an ESB anti-pattern,http://blog.soa.com/microservices-esb-anti-pattern/,/u/journeysquid,1
-0,2015-02-12 15:49:54 -0600,['/t/java'],The Black Magic of (Java) Method Dispatch,http://shipilev.net/blog/2015/black-magic-method-dispatch/,/u/kellogh,1
-1,2015-02-12 08:51:44 -0600,['/t/api'],Changes to LinkedIn Developer Program,https://developer.linkedin.com/blog/posts/2015/developer-program-changes,/u/statenjason,1
-0,2015-02-12 10:52:11 -0600,"['/t/networking', '/t/web']",Why I run this blog on MaxCDN and Ghost,http://blog.higg.im/2015/02/10/why-i-run-this-blog-on-maxcdn/,/u/dh,1
-0,2015-02-12 10:51:34 -0600,"['/t/design', '/t/practices', '/t/web']",Trello CSS Guide,https://gist.github.com/bobbygrace/9e961e8982f42eb91b80,/u/pushcx,1
-0,2015-02-12 09:07:39 -0600,['/t/go'],Go Patterns: Timers and Debouncers,https://www.new-bamboo.co.uk/blog/2015/02/10/go-patterns-timers-and-debouncers/,/u/journeysquid,1
-0,2015-02-12 10:41:55 -0600,"['/t/culture', '/t/security']",Examples of abusive software,https://www.gnu.org/philosophy/proprietary.html,/u/JordiGH,2
-14,2015-02-11 14:50:41 -0600,"['/t/culture', '/t/philosophy', '/t/practices']",How should I make a business case for being open-source?,/s/a0701t/how_should_i_make_business_case_for_being,/u/friendlysock,22
-16,2015-02-10 20:44:25 -0600,"['/t/openbsd', '/t/person', '/t/web']","The Setup / joshua stein, our dear leader",http://joshua.stein.usesthis.com/,/u/brynet,45
-0,2015-02-11 11:49:44 -0600,['/t/compsci'],Randomness Is Pretty Great,http://www.freefour.com/randomness-is-pretty-great/,/u/apg,12
-0,2015-02-12 12:15:50 -0600,"['/t/devops', '/t/ruby']",Increasing Performance While Decreasing Price: Testing the New T2 Instances From Amazon,https://blog.engineyard.com/2015/increasing-performance-decreasing-price-testing-t2-instances,/u/PJ,0
-6,2015-02-11 08:00:13 -0600,['/t/privacy'],Samsung's smart TVs are inserting unwanted ads into users' own movies,http://www.theverge.com/2015/2/11/8017771/samsung-smart-tvs-inserting-unwanted-ads,/u/journeysquid,10
-0,2015-02-11 13:25:50 -0600,"['/t/go', '/t/programming']",Go kit: Go in the modern enterprise (services),http://peter.bourgon.org/go-kit/,/u/zacbrown,9
+0,2015-02-12 14:12:47 -0600,"/t/compsci,/t/distributed",The TLA Home Page,http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html,/u/tobym,8
+0,2015-02-12 14:10:52 -0600,"/t/distributed,/t/networking","Decentralization, I want to believe",http://adamierymenko.com/decentralization-i-want-to-believe/,/u/lithp,8
+5,2015-02-12 09:33:44 -0600,/t/web,Firefox to Require Extension Signing,https://blog.mozilla.org/addons/2015/02/10/extension-signing-safer-experience/,/u/pushcx,9
+1,2015-02-12 10:23:14 -0600,/t/math,An Introduction to the Central Limit Theorem,http://spin.atomicobject.com/2015/02/12/central-limit-theorem-intro/,/u/robin,9
+0,2015-02-12 18:15:17 -0600,"/t/go,/t/programming",Go concurrency: Monte Carlo simulations,http://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/,/u/gsquire,4
+0,2015-02-12 11:18:43 -0600,"/t/job,/t/programming",Good Developer CVs (Résumés),http://blog.mavnn.co.uk/good-developer-cvs/,/u/mavnn,8
+0,2015-02-12 10:20:36 -0600,"/t/pdf,/t/slides,/t/hardware,/t/networking",Google Fiber: Speed is Hard,http://mirror.csclub.uwaterloo.ca/csclub/speed-is-hard-at-uwaterloo.pdf,/u/pushcx,7
+6,2015-02-12 08:38:30 -0600,"/t/culture,/t/linux",Why we make you type “$0”,http://blog.elementaryos.org/post/110645528530/payments,/u/calvin,13
+0,2015-02-12 12:39:38 -0600,/t/privacy,How to join Facebook without giving up all of your and your friends’ privacy,http://paul.henrich.me/posts/2015/02/facing-facebook.html,/u/paulh,4
+0,2015-02-12 03:35:54 -0600,/t/openbsd,Jazz concert with OpenBSD synths,http://undeadly.org/cgi?action=article&sid=20150211134052,/u/dbd,10
+0,2015-02-12 12:44:02 -0600,"/t/databases,/t/lisp","An opinionated CQRS/ES implementation using Onyx, Datomic, DynamoDB, Kafka and Zookeeper.",http://yuppiechef.github.io/cqrs-server/,/u/gaustin,3
+1,2015-02-12 12:38:11 -0600,"/t/programming,/t/ruby",The 4 Rules of East-oriented Code: Rule 1,http://www.saturnflyer.com/blog/jim/2015/02/10/the-4-rules-of-east-oriented-code-rule-1/,/u/saturnflyer,2
+0,2015-02-12 16:55:23 -0600,"/t/api,/t/networking,/t/programming",Microservices - an ESB anti-pattern,http://blog.soa.com/microservices-esb-anti-pattern/,/u/journeysquid,1
+0,2015-02-12 15:49:54 -0600,/t/java,The Black Magic of (Java) Method Dispatch,http://shipilev.net/blog/2015/black-magic-method-dispatch/,/u/kellogh,1
+1,2015-02-12 08:51:44 -0600,/t/api,Changes to LinkedIn Developer Program,https://developer.linkedin.com/blog/posts/2015/developer-program-changes,/u/statenjason,1
+0,2015-02-12 10:52:11 -0600,"/t/networking,/t/web",Why I run this blog on MaxCDN and Ghost,http://blog.higg.im/2015/02/10/why-i-run-this-blog-on-maxcdn/,/u/dh,1
+0,2015-02-12 10:51:34 -0600,"/t/design,/t/practices,/t/web",Trello CSS Guide,https://gist.github.com/bobbygrace/9e961e8982f42eb91b80,/u/pushcx,1
+0,2015-02-12 09:07:39 -0600,/t/go,Go Patterns: Timers and Debouncers,https://www.new-bamboo.co.uk/blog/2015/02/10/go-patterns-timers-and-debouncers/,/u/journeysquid,1
+0,2015-02-12 10:41:55 -0600,"/t/culture,/t/security",Examples of abusive software,https://www.gnu.org/philosophy/proprietary.html,/u/JordiGH,2
+14,2015-02-11 14:50:41 -0600,"/t/culture,/t/philosophy,/t/practices",How should I make a business case for being open-source?,/s/a0701t/how_should_i_make_business_case_for_being,/u/friendlysock,22
+16,2015-02-10 20:44:25 -0600,"/t/openbsd,/t/person,/t/web","The Setup / joshua stein, our dear leader",http://joshua.stein.usesthis.com/,/u/brynet,45
+0,2015-02-11 11:49:44 -0600,/t/compsci,Randomness Is Pretty Great,http://www.freefour.com/randomness-is-pretty-great/,/u/apg,12
+0,2015-02-12 12:15:50 -0600,"/t/devops,/t/ruby",Increasing Performance While Decreasing Price: Testing the New T2 Instances From Amazon,https://blog.engineyard.com/2015/increasing-performance-decreasing-price-testing-t2-instances,/u/PJ,0
+6,2015-02-11 08:00:13 -0600,/t/privacy,Samsung's smart TVs are inserting unwanted ads into users' own movies,http://www.theverge.com/2015/2/11/8017771/samsung-smart-tvs-inserting-unwanted-ads,/u/journeysquid,10
+0,2015-02-11 13:25:50 -0600,"/t/go,/t/programming",Go kit: Go in the modern enterprise (services),http://peter.bourgon.org/go-kit/,/u/zacbrown,9

@@ -1,25 +1,25 @@
-4,2015-01-13 22:06:49 -0600,"['/t/openbsd', '/t/security']",OpenBSD amd64 kernel gets W^X,http://marc.info/?l=openbsd-tech&m=142120787308107&w=2,/u/bmercer,19
-0,2015-01-14 13:36:09 -0600,"['/t/freebsd', '/t/linux']",A Comparative Introduction to FreeBSD for Linux Users | DigitalOcean,https://www.digitalocean.com/community/tutorials/a-comparative-introduction-to-freebsd-for-linux-users,/u/russoue,4
-0,2015-01-14 18:15:18 -0600,"['/t/rant', '/t/security']",Hopefully the last post I'll ever write on Dual EC DRBG,http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html,/u/evhan,4
-0,2015-01-14 17:28:57 -0600,"['/t/games', '/t/practices']",Agile Process for Mobile Game Development and Testing,http://testdroid.com/testdroid/9146/the-agile-process-for-mobile-game-development-and-testing,/u/vvh,2
-0,2015-01-14 07:23:21 -0600,"['/t/cryptocurrencies', '/t/web']",ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,https://github.com/HelloZeroNet/ZeroNet,/u/omphalos,7
-0,2015-01-14 09:35:45 -0600,"['/t/java', '/t/release']",jHiccup: Open Source Tool to Measure Variations in Java Performance,http://www.azulsystems.com/jHiccup,/u/SeanTAllen,5
-16,2015-01-13 07:35:34 -0600,"['/t/linux', '/t/unix']",Your Servers MUST Be In UTC,http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html,/u/tcrayford,42
-0,2015-01-13 21:08:14 -0600,"['/t/pdf', '/t/distributed']",Checklist before designing/deploying distributed systems,http://monkey.org/~marius/checklist.pdf,/u/kb,17
-1,2015-01-13 11:12:33 -0600,"['/t/person', '/t/web']",Please admit defeat (2014),https://lists.w3.org/Archives/Public/ietf-http-wg/2014AprJun/0815.html,/u/cnst,47
-0,2015-01-14 09:24:38 -0600,"['/t/programming', '/t/release']",Microsoft BASIC for 6502 Original Source Code (1978),http://www.pagetable.com/?p=774,/u/journeysquid,3
-0,2015-01-14 11:28:54 -0600,"['/t/programming', '/t/scala']",On Currying and Partial Function Application,http://www.vasinov.com/blog/on-currying-and-partial-function-application/,/u/vasinov,2
-0,2015-01-14 08:28:10 -0600,"['/t/rust', '/t/security']",launch-code: Cryptographic signatures for auditing unsafe code in Rust,https://github.com/kmcallister/launch-code,/u/jcs,3
-5,2015-01-13 14:29:03 -0600,['/t/hardware'],"Librem 13, Hardware Kill Switches, RMS, and More",https://www.crowdsupply.com/purism/librem-laptop/updates/librem-13-and-more,/u/jcs,15
-0,2015-01-13 20:40:01 -0600,['/t/go'],Stack Traces In Go,http://www.goinggo.net/2015/01/stack-traces-in-go.html,/u/goinggo,9
-0,2015-01-13 10:44:56 -0600,['/t/person'],"“Hi, It’s Google Corporate Development”",https://medium.com/@WhatALongHandle/hi-its-google-corporate-development-d0c77fd69191,/u/mediremi,18
-0,2015-01-14 07:14:48 -0600,"['/t/javascript', '/t/mobile']",Native Mobile Apps with JavaScript Using NativeScript,http://developer.telerik.com/featured/getting-started-nativescript/,/u/remotesynth,1
-0,2015-01-13 21:48:06 -0600,['/t/hardware'],The Lightning Digital AV Adapter Surprise (2013),https://www.panic.com/blog/the-lightning-digital-av-adapter-surprise/,/u/jcs,3
-0,2015-01-13 18:09:16 -0600,"['/t/culture', '/t/programming']",The Rise and Fall of the Lone Game Developer,http://www.jeffwofford.com/?p=1579,/u/jcs,9
-1,2015-01-13 17:27:39 -0600,"['/t/cogsci', '/t/philosophy']",The Society of Mind,http://aurellem.org/society-of-mind/,/u/RiderOfGiraffes,4
-0,2015-01-13 09:50:16 -0600,['/t/java'],Byte Buffers and Non-Heap Memory,http://www.kdgregory.com/index.php?page=java.byteBuffer,/u/SeanTAllen,12
-1,2015-01-13 16:48:10 -0600,"['/t/games', '/t/law']",2015: The Year We Get Loading Screen Mini-Games Back,http://gamasutra.com/blogs/DavidHoppe/20150109/233806/2015_The_Year_We_Get_Loading_Screen_MiniGames_Back.php?print=1,/u/pushcx,5
-0,2015-01-13 20:34:50 -0600,['/t/go'],Why Tech Startups Should Look At Go,http://startupedmonton.tumblr.com/post/107921476571/why-tech-startups-should-look-at-go,/u/nathany,3
-0,2015-01-13 15:59:57 -0600,['/t/security'],Gitrob: Putting the Open Source in OSINT,http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint/,/u/jpadilla,4
-0,2015-01-13 07:22:55 -0600,"['/t/programming', '/t/security']",Local privilege escalation vulnerabilities in Yosemite,http://randomthoughts.greyhats.it/2015/01/osx-bluetooth-lpe.html?m=1,/u/BruceM,9
-0,2015-01-13 11:54:20 -0600,"['/t/haskell', '/t/javascript', '/t/web']",Writing a React JS Front-end in Haskell,http://begriffs.com/posts/2015-01-12-reactjs-in-haskell.html,/u/begriffs,4
+4,2015-01-13 22:06:49 -0600,"/t/openbsd,/t/security",OpenBSD amd64 kernel gets W^X,http://marc.info/?l=openbsd-tech&m=142120787308107&w=2,/u/bmercer,19
+0,2015-01-14 13:36:09 -0600,"/t/freebsd,/t/linux",A Comparative Introduction to FreeBSD for Linux Users | DigitalOcean,https://www.digitalocean.com/community/tutorials/a-comparative-introduction-to-freebsd-for-linux-users,/u/russoue,4
+0,2015-01-14 18:15:18 -0600,"/t/rant,/t/security",Hopefully the last post I'll ever write on Dual EC DRBG,http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html,/u/evhan,4
+0,2015-01-14 17:28:57 -0600,"/t/games,/t/practices",Agile Process for Mobile Game Development and Testing,http://testdroid.com/testdroid/9146/the-agile-process-for-mobile-game-development-and-testing,/u/vvh,2
+0,2015-01-14 07:23:21 -0600,"/t/cryptocurrencies,/t/web",ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,https://github.com/HelloZeroNet/ZeroNet,/u/omphalos,7
+0,2015-01-14 09:35:45 -0600,"/t/java,/t/release",jHiccup: Open Source Tool to Measure Variations in Java Performance,http://www.azulsystems.com/jHiccup,/u/SeanTAllen,5
+16,2015-01-13 07:35:34 -0600,"/t/linux,/t/unix",Your Servers MUST Be In UTC,http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html,/u/tcrayford,42
+0,2015-01-13 21:08:14 -0600,"/t/pdf,/t/distributed",Checklist before designing/deploying distributed systems,http://monkey.org/~marius/checklist.pdf,/u/kb,17
+1,2015-01-13 11:12:33 -0600,"/t/person,/t/web",Please admit defeat (2014),https://lists.w3.org/Archives/Public/ietf-http-wg/2014AprJun/0815.html,/u/cnst,47
+0,2015-01-14 09:24:38 -0600,"/t/programming,/t/release",Microsoft BASIC for 6502 Original Source Code (1978),http://www.pagetable.com/?p=774,/u/journeysquid,3
+0,2015-01-14 11:28:54 -0600,"/t/programming,/t/scala",On Currying and Partial Function Application,http://www.vasinov.com/blog/on-currying-and-partial-function-application/,/u/vasinov,2
+0,2015-01-14 08:28:10 -0600,"/t/rust,/t/security",launch-code: Cryptographic signatures for auditing unsafe code in Rust,https://github.com/kmcallister/launch-code,/u/jcs,3
+5,2015-01-13 14:29:03 -0600,/t/hardware,"Librem 13, Hardware Kill Switches, RMS, and More",https://www.crowdsupply.com/purism/librem-laptop/updates/librem-13-and-more,/u/jcs,15
+0,2015-01-13 20:40:01 -0600,/t/go,Stack Traces In Go,http://www.goinggo.net/2015/01/stack-traces-in-go.html,/u/goinggo,9
+0,2015-01-13 10:44:56 -0600,/t/person,"“Hi, It’s Google Corporate Development”",https://medium.com/@WhatALongHandle/hi-its-google-corporate-development-d0c77fd69191,/u/mediremi,18
+0,2015-01-14 07:14:48 -0600,"/t/javascript,/t/mobile",Native Mobile Apps with JavaScript Using NativeScript,http://developer.telerik.com/featured/getting-started-nativescript/,/u/remotesynth,1
+0,2015-01-13 21:48:06 -0600,/t/hardware,The Lightning Digital AV Adapter Surprise (2013),https://www.panic.com/blog/the-lightning-digital-av-adapter-surprise/,/u/jcs,3
+0,2015-01-13 18:09:16 -0600,"/t/culture,/t/programming",The Rise and Fall of the Lone Game Developer,http://www.jeffwofford.com/?p=1579,/u/jcs,9
+1,2015-01-13 17:27:39 -0600,"/t/cogsci,/t/philosophy",The Society of Mind,http://aurellem.org/society-of-mind/,/u/RiderOfGiraffes,4
+0,2015-01-13 09:50:16 -0600,/t/java,Byte Buffers and Non-Heap Memory,http://www.kdgregory.com/index.php?page=java.byteBuffer,/u/SeanTAllen,12
+1,2015-01-13 16:48:10 -0600,"/t/games,/t/law",2015: The Year We Get Loading Screen Mini-Games Back,http://gamasutra.com/blogs/DavidHoppe/20150109/233806/2015_The_Year_We_Get_Loading_Screen_MiniGames_Back.php?print=1,/u/pushcx,5
+0,2015-01-13 20:34:50 -0600,/t/go,Why Tech Startups Should Look At Go,http://startupedmonton.tumblr.com/post/107921476571/why-tech-startups-should-look-at-go,/u/nathany,3
+0,2015-01-13 15:59:57 -0600,/t/security,Gitrob: Putting the Open Source in OSINT,http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint/,/u/jpadilla,4
+0,2015-01-13 07:22:55 -0600,"/t/programming,/t/security",Local privilege escalation vulnerabilities in Yosemite,http://randomthoughts.greyhats.it/2015/01/osx-bluetooth-lpe.html?m=1,/u/BruceM,9
+0,2015-01-13 11:54:20 -0600,"/t/haskell,/t/javascript,/t/web",Writing a React JS Front-end in Haskell,http://begriffs.com/posts/2015-01-12-reactjs-in-haskell.html,/u/begriffs,4

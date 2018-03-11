@@ -1,25 +1,25 @@
-0,2014-03-12 16:12:12 -0500,"['/t/compsci', '/t/programming']","Programming on Parallel Machines; GPU, Multicore, Clusters and More",http://heather.cs.ucdavis.edu/parprocbook,/u/sevan,8
-14,2014-03-12 17:12:32 -0500,['/t/meta'],A week of no story downvotes,/s/csd2tj/week_no_story_downvotes,/u/jcs,13
-0,2014-03-13 01:09:26 -0500,"['/t/devops', '/t/visualization']",Collections of various data,http://blog.visual.ly/data-sources/,/u/daniel_e_gabriel,2
-1,2014-03-12 09:33:48 -0500,"['/t/compsci', '/t/lisp', '/t/programming']",Recent Changes in the Memory Pool System,http://mailman.ravenbrook.com/pipermail/mps-discussion/2014-March/000133.html,/u/BruceM,14
-0,2014-03-12 16:47:51 -0500,"['/t/security', '/t/web']",Guidelines for Setting Security Headers,http://blog.veracode.com/2014/03/guidelines-for-setting-security-headers/,/u/tedu,5
-0,2014-03-12 22:46:29 -0500,"['/t/c', '/t/programming']",Implementing a web server in a single printf() call,http://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/,/u/jm,2
-0,2014-03-12 16:42:28 -0500,"['/t/reversing', '/t/security']",Deep Analysis of CVE-2014-0502 – A Double Free Story,http://blog.spiderlabs.com/2014/03/deep-analysis-of-cve-2014-0502-a-double-free-story.html,/u/jcs,4
-0,2014-03-12 16:10:50 -0500,['/t/vcs'],Git 2.0 Release Notes,https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes/2.0.0.txt,/u/dkasper,4
-0,2014-03-12 13:34:44 -0500,"['/t/go', '/t/programming']",Introducing Streamtools: A Tool for Working with Streams of Data,https://source.opennews.org/en-US/articles/introducing-streamtools/,/u/jaywgraves,4
-0,2014-03-12 21:11:50 -0500,"['/t/android', '/t/security']",Samsung Galaxy Back-door,http://redmine.replicant.us/projects/replicant/wiki/SamsungGalaxyBackdoor,/u/journeysquid,1
-0,2014-03-12 12:25:31 -0500,['/t/practices'],30 Days of Inbox Zero. How I Did it.,http://waxman.me/30-days-of-inbox-zero-how-i-did-it,/u/jm,4
-0,2014-03-12 11:22:04 -0500,['/t/show'],Simple tool to send Markdown formatted letters to a group of contacts,https://bitbucket.org/kevinburke/send-letter,/u/kb,4
-0,2014-03-12 14:44:58 -0500,['/t/compsci'],The Computer Graphics Library,http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php,/u/penberg,1
-2,2014-03-11 23:18:56 -0500,['/t/databases'],SQL select tutorial for developers that barely know SQL,http://jeffmax.io/blog/2011/05/20/progressively-improving-a-sql-query/,/u/jeffmax,6
-8,2014-03-11 09:22:32 -0500,['/t/practices'],There is a gender gap in tech salaries,http://danluu.com/gender-gap,/u/dl,27
-0,2014-03-12 12:37:29 -0500,"['/t/javascript', '/t/web']",Cloud-backed localStorage at SproutSocial,http://www.lauradhamilton.com/cloud-backed-localstorage-sproutsocial,/u/laura,1
-6,2014-03-11 15:06:38 -0500,"['/t/distributed', '/t/go']","Reviewing go-raft, part I",http://ayende.com/blog/165858/reviewing-go-raft-part-i,/u/vjoel,11
-0,2014-03-12 11:18:40 -0500,"['/t/security', '/t/web']","More Than 162,000 WordPress Sites Used for Distributed Denial of Service Attack",http://blog.sucuri.net/2014/03/more-than-162000-wordpress-sites-used-for-distributed-denial-of-service-attack.html,/u/jcs,1
-2,2014-03-11 12:30:31 -0500,"['/t/slides', '/t/distributed']",Vector Clocks in Coq: An Experience Report,https://speakerdeck.com/cmeiklejohn/vector-clocks-in-coq-an-experience-report,/u/cmeiklejohn,14
-1,2014-03-11 12:19:08 -0500,['/t/devops'],Stateless configuration management: why puppet/chef/ansible aren't good enough,https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/,/u/vjoel,14
-0,2014-03-12 01:55:10 -0500,"['/t/freebsd', '/t/linux', '/t/unix']",[CFT] Replace Fedora 10 with CentOS 6.5 as Base Linux distro.,http://lists.freebsd.org/pipermail/freebsd-ports/2014-March/090658.html,/u/xmj,3
-0,2014-03-12 07:05:32 -0500,"['/t/compsci', '/t/java', '/t/programming']",Faster problem solving in Java with heuristic search (impl. of a popular search algorithm for AI),http://www.ibm.com/developerworks/java/library/j-ai-search/index.html,/u/svm,1
-2,2014-03-11 14:33:12 -0500,"['/t/pdf', '/t/compsci']","Computing 10,000x more efficiently",http://web.media.mit.edu/~bates/Summary_files/BatesTalk.pdf,/u/SeanTAllen,7
-0,2014-03-11 18:21:15 -0500,"['/t/design', '/t/web']",Cerberus - Responsive Email Patterns,http://tedgoas.github.io/Cerberus/,/u/dkasper,5
-2,2014-03-11 10:15:43 -0500,['/t/programming'],Micro Service Architecture,http://yobriefca.se/blog/2013/04/29/micro-service-architecture/,/u/tobym,9
+0,2014-03-12 16:12:12 -0500,"/t/compsci,/t/programming","Programming on Parallel Machines; GPU, Multicore, Clusters and More",http://heather.cs.ucdavis.edu/parprocbook,/u/sevan,8
+14,2014-03-12 17:12:32 -0500,/t/meta,A week of no story downvotes,/s/csd2tj/week_no_story_downvotes,/u/jcs,13
+0,2014-03-13 01:09:26 -0500,"/t/devops,/t/visualization",Collections of various data,http://blog.visual.ly/data-sources/,/u/daniel_e_gabriel,2
+1,2014-03-12 09:33:48 -0500,"/t/compsci,/t/lisp,/t/programming",Recent Changes in the Memory Pool System,http://mailman.ravenbrook.com/pipermail/mps-discussion/2014-March/000133.html,/u/BruceM,14
+0,2014-03-12 16:47:51 -0500,"/t/security,/t/web",Guidelines for Setting Security Headers,http://blog.veracode.com/2014/03/guidelines-for-setting-security-headers/,/u/tedu,5
+0,2014-03-12 22:46:29 -0500,"/t/c,/t/programming",Implementing a web server in a single printf() call,http://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/,/u/jm,2
+0,2014-03-12 16:42:28 -0500,"/t/reversing,/t/security",Deep Analysis of CVE-2014-0502 – A Double Free Story,http://blog.spiderlabs.com/2014/03/deep-analysis-of-cve-2014-0502-a-double-free-story.html,/u/jcs,4
+0,2014-03-12 16:10:50 -0500,/t/vcs,Git 2.0 Release Notes,https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes/2.0.0.txt,/u/dkasper,4
+0,2014-03-12 13:34:44 -0500,"/t/go,/t/programming",Introducing Streamtools: A Tool for Working with Streams of Data,https://source.opennews.org/en-US/articles/introducing-streamtools/,/u/jaywgraves,4
+0,2014-03-12 21:11:50 -0500,"/t/android,/t/security",Samsung Galaxy Back-door,http://redmine.replicant.us/projects/replicant/wiki/SamsungGalaxyBackdoor,/u/journeysquid,1
+0,2014-03-12 12:25:31 -0500,/t/practices,30 Days of Inbox Zero. How I Did it.,http://waxman.me/30-days-of-inbox-zero-how-i-did-it,/u/jm,4
+0,2014-03-12 11:22:04 -0500,/t/show,Simple tool to send Markdown formatted letters to a group of contacts,https://bitbucket.org/kevinburke/send-letter,/u/kb,4
+0,2014-03-12 14:44:58 -0500,/t/compsci,The Computer Graphics Library,http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php,/u/penberg,1
+2,2014-03-11 23:18:56 -0500,/t/databases,SQL select tutorial for developers that barely know SQL,http://jeffmax.io/blog/2011/05/20/progressively-improving-a-sql-query/,/u/jeffmax,6
+8,2014-03-11 09:22:32 -0500,/t/practices,There is a gender gap in tech salaries,http://danluu.com/gender-gap,/u/dl,27
+0,2014-03-12 12:37:29 -0500,"/t/javascript,/t/web",Cloud-backed localStorage at SproutSocial,http://www.lauradhamilton.com/cloud-backed-localstorage-sproutsocial,/u/laura,1
+6,2014-03-11 15:06:38 -0500,"/t/distributed,/t/go","Reviewing go-raft, part I",http://ayende.com/blog/165858/reviewing-go-raft-part-i,/u/vjoel,11
+0,2014-03-12 11:18:40 -0500,"/t/security,/t/web","More Than 162,000 WordPress Sites Used for Distributed Denial of Service Attack",http://blog.sucuri.net/2014/03/more-than-162000-wordpress-sites-used-for-distributed-denial-of-service-attack.html,/u/jcs,1
+2,2014-03-11 12:30:31 -0500,"/t/slides,/t/distributed",Vector Clocks in Coq: An Experience Report,https://speakerdeck.com/cmeiklejohn/vector-clocks-in-coq-an-experience-report,/u/cmeiklejohn,14
+1,2014-03-11 12:19:08 -0500,/t/devops,Stateless configuration management: why puppet/chef/ansible aren't good enough,https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/,/u/vjoel,14
+0,2014-03-12 01:55:10 -0500,"/t/freebsd,/t/linux,/t/unix",[CFT] Replace Fedora 10 with CentOS 6.5 as Base Linux distro.,http://lists.freebsd.org/pipermail/freebsd-ports/2014-March/090658.html,/u/xmj,3
+0,2014-03-12 07:05:32 -0500,"/t/compsci,/t/java,/t/programming",Faster problem solving in Java with heuristic search (impl. of a popular search algorithm for AI),http://www.ibm.com/developerworks/java/library/j-ai-search/index.html,/u/svm,1
+2,2014-03-11 14:33:12 -0500,"/t/pdf,/t/compsci","Computing 10,000x more efficiently",http://web.media.mit.edu/~bates/Summary_files/BatesTalk.pdf,/u/SeanTAllen,7
+0,2014-03-11 18:21:15 -0500,"/t/design,/t/web",Cerberus - Responsive Email Patterns,http://tedgoas.github.io/Cerberus/,/u/dkasper,5
+2,2014-03-11 10:15:43 -0500,/t/programming,Micro Service Architecture,http://yobriefca.se/blog/2013/04/29/micro-service-architecture/,/u/tobym,9

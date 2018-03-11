@@ -1,25 +1,25 @@
-0,2016-01-08 11:06:47 -0600,['/t/practices'],"The big data of bad driving, and how insurers plan to track your every turn",https://www.washingtonpost.com/news/the-switch/wp/2016/01/04/the-big-data-of-bad-driving-and-how-insurers-plan-to-track-your-every-turn/,/u/pushcx,1
-7,2016-01-07 04:18:04 -0600,"['/t/show', '/t/security']","genpass, yet another stateless password generator",http://javier.io/blog/en/2016/01/07/genpass-yet-another-stateless-password-generator.html,/u/javier-lopez,15
-0,2016-01-08 10:40:39 -0600,"['/t/cogsci', '/t/science']",Bug eyes: Tiny glasses confirm 3D vision in insects,http://www.ncl.ac.uk/press/news/2016/01/3dglassesformantises/,/u/mempko,1
-0,2016-01-07 08:47:46 -0600,"['/t/slides', '/t/rust']",Why I ❤ Rust,https://speakerdeck.com/jvns/why-i-rust,/u/antifuchs,27
-3,2016-01-07 05:52:54 -0600,"['/t/openbsd', '/t/security']",Chromium: now with OpenBSD pledge(2),http://undeadly.org/cgi?action=article&sid=20160107075227,/u/mulander,29
-0,2016-01-07 10:14:19 -0600,"['/t/databases', '/t/release']","PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data",http://www.postgresql.org/about/news/1636/,/u/antifuchs,19
-9,2016-01-07 03:40:28 -0600,['/t/job'],Two remote jobs available,https://laterpay.workable.com,/u/stig,9
-4,2016-01-07 09:46:04 -0600,['/t/security'],Storing Passwords in a Highly Parallelized World,https://hynek.me/articles/storing-passwords/,/u/pushcx,9
-0,2016-01-07 12:43:51 -0600,"['/t/video', '/t/databases', '/t/distributed', '/t/practices']",Getting data out of databases: a surprisingly tricky problem — Martin Kleppmann’s talks,http://martin.kleppmann.com/2015/11/13/change-data-capture-at-all-your-base.html,/u/jitterted,9
-4,2016-01-07 08:31:57 -0600,['/t/compilers'],Dafny: A language and program verifier for functional correctness,http://research.microsoft.com/en-us/projects/dafny/,/u/pushcx,8
-1,2016-01-07 14:13:32 -0600,"['/t/browsers', '/t/networking', '/t/security', '/t/web']",1232689 – Root Certification Authority of the Republic of Kazakhstan (root.gov.kz),https://bugzilla.mozilla.org/show_bug.cgi?id=1232689,/u/cnst,4
-2,2016-01-07 03:00:00 -0600,"['/t/c', '/t/unix']",The format of strings in early (pre-C) Unix,https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyStrings,/u/uggedal,14
-3,2016-01-08 05:47:34 -0600,"['/t/culture', '/t/practices']","It's not your size that is slowing you down, it's your communism",http://kranglefant.tumblr.com/post/136874082265/tear-down-this-wall,/u/ehamberg,1
-1,2016-01-07 11:55:18 -0600,"['/t/pdf', '/t/math', '/t/security']",A Tutorial on Linear and Differential Cryptanalysis,http://www.engr.mun.ca/~howard/PAPERS/ldc_tutorial.pdf,/u/numberten,5
-0,2016-01-07 13:24:55 -0600,"['/t/api', '/t/distributed', '/t/ruby']",ActiveRecord stole my data and now I want it back!,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163,/u/byte1,4
-1,2016-01-07 06:31:54 -0600,['/t/dotnet'],.NET Developers – Love Thy Command Line,http://developer.telerik.com/featured/net-developers-love-thy-command-line/,/u/remotesynth,8
-2,2016-01-07 13:06:49 -0600,['/t/linux'],There are no current plans to enable secure boot as a security measure - Ubuntu,https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1475954,/u/kb,2
-0,2016-01-07 16:52:49 -0600,"['/t/devops', '/t/virtualization']",Setting Up Your Own PaaS and CI/CD Pipeline,http://sysadvent.blogspot.de/2015/12/day-16-merry-paasmas-and-very.html,/u/nslater,2
-1,2016-01-07 04:25:24 -0600,['/t/practices'],Inside Automattic's remote hiring process,http://davemart.in/2015/04/22/inside-automattics-remote-hiring-process/,/u/av,8
-0,2016-01-07 08:39:03 -0600,['/t/python'],Countdown to 2016,http://nbviewer.ipython.org/url/norvig.com/ipython/Countdown.ipynb,/u/pushcx,6
-1,2016-01-07 15:12:47 -0600,['/t/practices'],Find LinkedIn Profiles via Google Search (2014),https://www.linkedin.com/pulse/20141015044826-1769200-find-linkedin-profiles-via-google-search,/u/gkop,1
-13,2016-01-06 16:53:06 -0600,"['/t/practices', '/t/security']",Let's Encrypt Now Being Abused By Malvertisers,http://blog.trendmicro.com/trendlabs-security-intelligence/lets-encrypt-now-being-abused-by-malvertisers/,/u/evaryont,15
-0,2016-01-07 11:57:12 -0600,"['/t/pdf', '/t/games']",Simulating the Fog of War (1989),https://www.rand.org/content/dam/rand/pubs/papers/2008/P7511.pdf,/u/pushcx,3
-8,2016-01-06 20:58:45 -0600,"['/t/practices', '/t/science']",Moving away from HDF5,http://cyrille.rossant.net/moving-away-hdf5/,/u/ngoldbaum,10
-0,2016-01-07 14:25:36 -0600,"['/t/assembly', '/t/openbsd']",Writing Assembly on OpenBSD (x86) (2012),https://web.archive.org/web/20120509101207/http://lucifer.phiral.net/openbsdasm.htm,/u/mulander,2
+0,2016-01-08 11:06:47 -0600,/t/practices,"The big data of bad driving, and how insurers plan to track your every turn",https://www.washingtonpost.com/news/the-switch/wp/2016/01/04/the-big-data-of-bad-driving-and-how-insurers-plan-to-track-your-every-turn/,/u/pushcx,1
+7,2016-01-07 04:18:04 -0600,"/t/show,/t/security","genpass, yet another stateless password generator",http://javier.io/blog/en/2016/01/07/genpass-yet-another-stateless-password-generator.html,/u/javier-lopez,15
+0,2016-01-08 10:40:39 -0600,"/t/cogsci,/t/science",Bug eyes: Tiny glasses confirm 3D vision in insects,http://www.ncl.ac.uk/press/news/2016/01/3dglassesformantises/,/u/mempko,1
+0,2016-01-07 08:47:46 -0600,"/t/slides,/t/rust",Why I ❤ Rust,https://speakerdeck.com/jvns/why-i-rust,/u/antifuchs,27
+3,2016-01-07 05:52:54 -0600,"/t/openbsd,/t/security",Chromium: now with OpenBSD pledge(2),http://undeadly.org/cgi?action=article&sid=20160107075227,/u/mulander,29
+0,2016-01-07 10:14:19 -0600,"/t/databases,/t/release","PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data",http://www.postgresql.org/about/news/1636/,/u/antifuchs,19
+9,2016-01-07 03:40:28 -0600,/t/job,Two remote jobs available,https://laterpay.workable.com,/u/stig,9
+4,2016-01-07 09:46:04 -0600,/t/security,Storing Passwords in a Highly Parallelized World,https://hynek.me/articles/storing-passwords/,/u/pushcx,9
+0,2016-01-07 12:43:51 -0600,"/t/video,/t/databases,/t/distributed,/t/practices",Getting data out of databases: a surprisingly tricky problem — Martin Kleppmann’s talks,http://martin.kleppmann.com/2015/11/13/change-data-capture-at-all-your-base.html,/u/jitterted,9
+4,2016-01-07 08:31:57 -0600,/t/compilers,Dafny: A language and program verifier for functional correctness,http://research.microsoft.com/en-us/projects/dafny/,/u/pushcx,8
+1,2016-01-07 14:13:32 -0600,"/t/browsers,/t/networking,/t/security,/t/web",1232689 – Root Certification Authority of the Republic of Kazakhstan (root.gov.kz),https://bugzilla.mozilla.org/show_bug.cgi?id=1232689,/u/cnst,4
+2,2016-01-07 03:00:00 -0600,"/t/c,/t/unix",The format of strings in early (pre-C) Unix,https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyStrings,/u/uggedal,14
+3,2016-01-08 05:47:34 -0600,"/t/culture,/t/practices","It's not your size that is slowing you down, it's your communism",http://kranglefant.tumblr.com/post/136874082265/tear-down-this-wall,/u/ehamberg,1
+1,2016-01-07 11:55:18 -0600,"/t/pdf,/t/math,/t/security",A Tutorial on Linear and Differential Cryptanalysis,http://www.engr.mun.ca/~howard/PAPERS/ldc_tutorial.pdf,/u/numberten,5
+0,2016-01-07 13:24:55 -0600,"/t/api,/t/distributed,/t/ruby",ActiveRecord stole my data and now I want it back!,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163,/u/byte1,4
+1,2016-01-07 06:31:54 -0600,/t/dotnet,.NET Developers – Love Thy Command Line,http://developer.telerik.com/featured/net-developers-love-thy-command-line/,/u/remotesynth,8
+2,2016-01-07 13:06:49 -0600,/t/linux,There are no current plans to enable secure boot as a security measure - Ubuntu,https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1475954,/u/kb,2
+0,2016-01-07 16:52:49 -0600,"/t/devops,/t/virtualization",Setting Up Your Own PaaS and CI/CD Pipeline,http://sysadvent.blogspot.de/2015/12/day-16-merry-paasmas-and-very.html,/u/nslater,2
+1,2016-01-07 04:25:24 -0600,/t/practices,Inside Automattic's remote hiring process,http://davemart.in/2015/04/22/inside-automattics-remote-hiring-process/,/u/av,8
+0,2016-01-07 08:39:03 -0600,/t/python,Countdown to 2016,http://nbviewer.ipython.org/url/norvig.com/ipython/Countdown.ipynb,/u/pushcx,6
+1,2016-01-07 15:12:47 -0600,/t/practices,Find LinkedIn Profiles via Google Search (2014),https://www.linkedin.com/pulse/20141015044826-1769200-find-linkedin-profiles-via-google-search,/u/gkop,1
+13,2016-01-06 16:53:06 -0600,"/t/practices,/t/security",Let's Encrypt Now Being Abused By Malvertisers,http://blog.trendmicro.com/trendlabs-security-intelligence/lets-encrypt-now-being-abused-by-malvertisers/,/u/evaryont,15
+0,2016-01-07 11:57:12 -0600,"/t/pdf,/t/games",Simulating the Fog of War (1989),https://www.rand.org/content/dam/rand/pubs/papers/2008/P7511.pdf,/u/pushcx,3
+8,2016-01-06 20:58:45 -0600,"/t/practices,/t/science",Moving away from HDF5,http://cyrille.rossant.net/moving-away-hdf5/,/u/ngoldbaum,10
+0,2016-01-07 14:25:36 -0600,"/t/assembly,/t/openbsd",Writing Assembly on OpenBSD (x86) (2012),https://web.archive.org/web/20120509101207/http://lucifer.phiral.net/openbsdasm.htm,/u/mulander,2

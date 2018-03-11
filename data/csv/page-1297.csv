@@ -1,25 +1,25 @@
-0,2014-07-07 01:44:51 -0500,"['/t/php', '/t/programming']",So you want to be a PHP Developer?,http://dannynunez.com/want-to-be-a-php-developer/,/u/JeremyMorgan,4
-2,2014-07-06 18:12:07 -0500,"['/t/erlang', '/t/practices', '/t/programming']",Programming Rules and Conventions,http://erlang.se/doc/programming_rules.shtml,/u/MSch,5
-0,2014-07-06 11:31:20 -0500,['/t/games'],Dropping Loot,http://journal.stuffwithstuff.com/2014/07/05/dropping-loot/,/u/pushcx,16
-0,2014-07-06 11:56:06 -0500,['/t/python'],"PyPy-STM: first ""interesting"" release",http://morepypy.blogspot.com/2014/07/pypy-stm-first-interesting-release.html,/u/pushcx,15
-0,2014-07-06 22:13:12 -0500,"['/t/javascript', '/t/release']",Project Ramda: A practical functional library for Javascript programmers,https://github.com/CrossEye/ramda,/u/pushcx,3
-0,2014-07-06 22:00:23 -0500,"['/t/math', '/t/practices']",How to Read Proofs Faster: A Summary of Useful Advice,http://calnewport.com/blog/2014/07/04/how-to-read-proofs-faster-a-summary-of-useful-advice/,/u/pushcx,3
-0,2014-07-06 23:43:03 -0500,"['/t/pdf', '/t/math']",Modern Science and the Bayesian-Frequentist Controversey,http://statweb.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf,/u/pushcx,2
-6,2014-07-05 22:22:53 -0500,['/t/compsci'],The Fibonacci heap ruins my life,http://maryrosecook.com/blog/post/the-fibonacci-heap-ruins-my-life,/u/kyle,19
-0,2014-07-06 07:06:13 -0500,"['/t/pdf', '/t/math']","How to Write a Proof, by Leslie Lamport",http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-how-to-write.pdf,/u/ngrilly,8
-0,2014-07-05 23:08:49 -0500,"['/t/pdf', '/t/compsci', '/t/lisp', '/t/programming']",Optimization Coaching in Racket,http://www.ccs.neu.edu/home/stamourv/papers/optimization-coaching.pdf,/u/BruceM,9
-3,2014-07-05 16:32:04 -0500,"['/t/video', '/t/unix']",Xikishell - interactive shell addon demo,http://xsh.org,/u/alexkorban,8
-0,2014-07-06 10:26:26 -0500,['/t/science'],Consciousness on-off switch discovered deep in brain,http://www.newscientist.com/article/mg22329762.700-consciousness-onoff-switch-discovered-deep-in-brain.html?full=true,/u/journeysquid,1
-0,2014-07-06 11:54:02 -0500,['/t/culture'],The Last Days of the Polymath,http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath,/u/pushcx,2
-1,2014-07-05 08:51:11 -0500,"['/t/compilers', '/t/lisp', '/t/programming']",A simple Scheme compiler for x86_64 systems (from Chicken's author),http://www.call-with-current-continuation.org/bones/,/u/BruceM,20
-1,2014-07-05 19:57:19 -0500,"['/t/video', '/t/programming']","Why JavaScript Programmers Hate You: an ode to dynamic languages, Jan Vitek - YouTube",https://www.youtube.com/watch?v=t3GzCwoQfb4,/u/jamesjporter,5
-0,2014-07-05 14:21:37 -0500,"['/t/java', '/t/scala']",Java vs. Scala: Divided We Fail (Cross-Language Benchmarks),http://shipilev.net/blog/2014/java-scala-divided-we-fail/,/u/vjoel,10
-2,2014-07-05 14:00:55 -0500,"['/t/networking', '/t/security']",The SSL Co-operative,http://www.sslcoop.org/,/u/jcs,7
-5,2014-07-05 12:25:05 -0500,['/t/python'],"Pragmatic Unicode, or: How Do I Stop The Pain",http://nedbatchelder.com/text/unipain.html,/u/pushcx,5
-1,2014-07-05 12:18:05 -0500,['/t/vim'],Tips for Editing Lisp,http://tech.gilt.com/post/90661198239/five-simple-lisp-tips-guaranteed-to-boost-your,/u/pushcx,7
-2,2014-07-05 11:11:02 -0500,['/t/scala'],Argonaut: Purely Functional JSON in Scala,http://argonaut.io,/u/SeanTAllen,2
-6,2014-07-04 17:25:42 -0500,"['/t/privacy', '/t/security']",Jamming XKeyScore,http://blog.erratasec.com/2014/07/jamming-xkeyscore_4.html,/u/kyle,7
-0,2014-07-05 12:20:20 -0500,['/t/practices'],One Practical Alternative to Estimates,http://www.jbrains.ca/permalink/one-practical-alternative-to-estimates,/u/pushcx,1
-21,2014-07-03 23:04:12 -0500,"['/t/go', '/t/javascript']",Farewell Node.js,https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b,/u/pushcx,30
-0,2014-07-04 15:47:02 -0500,['/t/programming'],Some problems with adding immutable strings in OCaml-4.02,http://blog.camlcity.org/blog/bytes1.html,/u/zem,9
-0,2014-07-04 20:45:02 -0500,"['/t/haskell', '/t/programming']",3D scene representation in Haskell,http://devskypers.blogspot.fr/2014/07/lost-in-space.html,/u/zem,4
+0,2014-07-07 01:44:51 -0500,"/t/php,/t/programming",So you want to be a PHP Developer?,http://dannynunez.com/want-to-be-a-php-developer/,/u/JeremyMorgan,4
+2,2014-07-06 18:12:07 -0500,"/t/erlang,/t/practices,/t/programming",Programming Rules and Conventions,http://erlang.se/doc/programming_rules.shtml,/u/MSch,5
+0,2014-07-06 11:31:20 -0500,/t/games,Dropping Loot,http://journal.stuffwithstuff.com/2014/07/05/dropping-loot/,/u/pushcx,16
+0,2014-07-06 11:56:06 -0500,/t/python,"PyPy-STM: first ""interesting"" release",http://morepypy.blogspot.com/2014/07/pypy-stm-first-interesting-release.html,/u/pushcx,15
+0,2014-07-06 22:13:12 -0500,"/t/javascript,/t/release",Project Ramda: A practical functional library for Javascript programmers,https://github.com/CrossEye/ramda,/u/pushcx,3
+0,2014-07-06 22:00:23 -0500,"/t/math,/t/practices",How to Read Proofs Faster: A Summary of Useful Advice,http://calnewport.com/blog/2014/07/04/how-to-read-proofs-faster-a-summary-of-useful-advice/,/u/pushcx,3
+0,2014-07-06 23:43:03 -0500,"/t/pdf,/t/math",Modern Science and the Bayesian-Frequentist Controversey,http://statweb.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf,/u/pushcx,2
+6,2014-07-05 22:22:53 -0500,/t/compsci,The Fibonacci heap ruins my life,http://maryrosecook.com/blog/post/the-fibonacci-heap-ruins-my-life,/u/kyle,19
+0,2014-07-06 07:06:13 -0500,"/t/pdf,/t/math","How to Write a Proof, by Leslie Lamport",http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-how-to-write.pdf,/u/ngrilly,8
+0,2014-07-05 23:08:49 -0500,"/t/pdf,/t/compsci,/t/lisp,/t/programming",Optimization Coaching in Racket,http://www.ccs.neu.edu/home/stamourv/papers/optimization-coaching.pdf,/u/BruceM,9
+3,2014-07-05 16:32:04 -0500,"/t/video,/t/unix",Xikishell - interactive shell addon demo,http://xsh.org,/u/alexkorban,8
+0,2014-07-06 10:26:26 -0500,/t/science,Consciousness on-off switch discovered deep in brain,http://www.newscientist.com/article/mg22329762.700-consciousness-onoff-switch-discovered-deep-in-brain.html?full=true,/u/journeysquid,1
+0,2014-07-06 11:54:02 -0500,/t/culture,The Last Days of the Polymath,http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath,/u/pushcx,2
+1,2014-07-05 08:51:11 -0500,"/t/compilers,/t/lisp,/t/programming",A simple Scheme compiler for x86_64 systems (from Chicken's author),http://www.call-with-current-continuation.org/bones/,/u/BruceM,20
+1,2014-07-05 19:57:19 -0500,"/t/video,/t/programming","Why JavaScript Programmers Hate You: an ode to dynamic languages, Jan Vitek - YouTube",https://www.youtube.com/watch?v=t3GzCwoQfb4,/u/jamesjporter,5
+0,2014-07-05 14:21:37 -0500,"/t/java,/t/scala",Java vs. Scala: Divided We Fail (Cross-Language Benchmarks),http://shipilev.net/blog/2014/java-scala-divided-we-fail/,/u/vjoel,10
+2,2014-07-05 14:00:55 -0500,"/t/networking,/t/security",The SSL Co-operative,http://www.sslcoop.org/,/u/jcs,7
+5,2014-07-05 12:25:05 -0500,/t/python,"Pragmatic Unicode, or: How Do I Stop The Pain",http://nedbatchelder.com/text/unipain.html,/u/pushcx,5
+1,2014-07-05 12:18:05 -0500,/t/vim,Tips for Editing Lisp,http://tech.gilt.com/post/90661198239/five-simple-lisp-tips-guaranteed-to-boost-your,/u/pushcx,7
+2,2014-07-05 11:11:02 -0500,/t/scala,Argonaut: Purely Functional JSON in Scala,http://argonaut.io,/u/SeanTAllen,2
+6,2014-07-04 17:25:42 -0500,"/t/privacy,/t/security",Jamming XKeyScore,http://blog.erratasec.com/2014/07/jamming-xkeyscore_4.html,/u/kyle,7
+0,2014-07-05 12:20:20 -0500,/t/practices,One Practical Alternative to Estimates,http://www.jbrains.ca/permalink/one-practical-alternative-to-estimates,/u/pushcx,1
+21,2014-07-03 23:04:12 -0500,"/t/go,/t/javascript",Farewell Node.js,https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b,/u/pushcx,30
+0,2014-07-04 15:47:02 -0500,/t/programming,Some problems with adding immutable strings in OCaml-4.02,http://blog.camlcity.org/blog/bytes1.html,/u/zem,9
+0,2014-07-04 20:45:02 -0500,"/t/haskell,/t/programming",3D scene representation in Haskell,http://devskypers.blogspot.fr/2014/07/lost-in-space.html,/u/zem,4

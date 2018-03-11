@@ -1,25 +1,25 @@
-0,2015-06-06 16:31:27 -0500,"['/t/rant', '/t/ruby']",Cutting Corners or Why Rails May Kill Ruby,http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html,/u/pushcx,12
-0,2015-06-06 08:49:13 -0500,['/t/practices'],The Errors of Our Ways,http://www.theawl.com/2015/06/the-errors-of-our-ways,/u/pushcx,10
-5,2015-06-05 23:18:50 -0500,"['/t/games', '/t/programming', '/t/release']",TIS-100,http://www.zachtronics.com/tis-100/,/u/pushcx,17
-0,2015-06-06 08:38:26 -0500,"['/t/linux', '/t/security']",A Machine for Keeping Secrets?,http://www.linuxjournal.com/content/machine-keeping-secrets,/u/james,6
-2,2015-06-05 22:50:00 -0500,"['/t/programming', '/t/ruby']",Demystifying @tenderlove's homeopathic code optimizations,http://nithinbekal.com/posts/homeopathic-code-optimizations/,/u/pushcx,8
-9,2015-06-05 06:49:03 -0500,['/t/haskell'],Haskell in Production: Bdellium,https://medium.com/@folsen/haskell-in-production-bdellium-1df48de40e19,/u/fredrik,32
-4,2015-06-05 13:16:59 -0500,"['/t/distributed', '/t/linux', '/t/practices', '/t/virtualization']","Docker, Mesos, Marathon, and the End of Pets",http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets,/u/ztellman,15
-0,2015-06-06 00:24:31 -0500,"['/t/book', '/t/haskell']",Learning Haskell the Hard Way,https://superginbaby.wordpress.com/2015/05/30/learning-haskell-the-hard-way/,/u/bitemyapp,7
-0,2015-06-05 16:59:19 -0500,['/t/openbsd'],Putting OpenBSD in the cloud,http://www.anchor.com.au/blog/2015/06/putting-openbsd-cloud/,/u/fcambus,12
-7,2015-06-05 10:50:29 -0500,"['/t/databases', '/t/distributed', '/t/go']",Cockroach Labs: Hello World,http://www.cockroachlabs.com/blog/hello-world/,/u/DocSavage,12
-16,2015-06-05 16:17:44 -0500,"['/t/go', '/t/rant']",A year with Go,http://vagabond.github.io/rants/2015/06/05/a-year-with-go/,/u/codahale,23
-2,2015-06-05 11:19:37 -0500,['/t/scaling'],Scalability! But at what COST?,http://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/,/u/tobym,15
-1,2015-06-06 13:29:50 -0500,"['/t/ios', '/t/mac', '/t/windows']",Apple is having its Microsoft moment,http://money.cnn.com/2015/06/05/technology/apple-bugs/index.html?iid=SF_LN,/u/anata,0
-0,2015-06-05 04:18:21 -0500,['/t/rust'],Three months of Rust,http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust,/u/jodosha,27
-0,2015-06-06 03:50:24 -0500,"['/t/video', '/t/networking']",Linux.conf.au 2013 Keynote - Radia Perlman: Network protocols and their history,http://www.youtube.com/watch?v=mKa592OZhcc,/u/antifuchs,1
-2,2015-06-05 09:16:25 -0500,"['/t/programming', '/t/ruby']",when a+b+c != c+b+a,http://ruru.name/entries/when-a-plus-b-plus-c-equals-c-plus-b-plus-a/,/u/pushcx,8
-1,2015-06-05 09:22:49 -0500,"['/t/programming', '/t/web']",Using Protobuf instead of JSON to communicate with a frontend,https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend,/u/pushcx,8
-1,2015-06-05 15:50:32 -0500,"['/t/security', '/t/web']",Let's Encrypt: Root and Intermediate Certificates,https://letsencrypt.org/2015/06/04/isrg-ca-certs.html,/u/apk,3
-3,2015-06-05 06:13:03 -0500,['/t/api'],RedditStorage,https://github.com/Rossem/RedditStorage,/u/andrewnez,6
-1,2015-06-05 06:06:21 -0500,['/t/databases'],"PostgreSQL: the good, the bad, and the ugly",https://lwn.net/Articles/645020/,/u/behemoth,10
-0,2015-06-05 10:30:49 -0500,"['/t/games', '/t/person']",Did Star Wars Galaxies Fail?,http://www.raphkoster.com/2015/04/27/did-star-wars-galaxies-fail/,/u/pushcx,5
-0,2015-06-05 06:11:17 -0500,"['/t/hardware', '/t/linux', '/t/programming']",A fresh look at the kernel's device model,https://lwn.net/Articles/645810/,/u/behemoth,8
-0,2015-06-05 10:06:43 -0500,"['/t/ml', '/t/programming', '/t/security']",Signing the OPAM repository,http://opam.ocaml.org/blog/Signing-the-opam-repository/,/u/BruceM,3
-0,2015-06-05 09:36:23 -0500,"['/t/javascript', '/t/programming']",ES6 In Depth: Arrow functions,https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/,/u/pushcx,2
-4,2015-06-05 05:58:57 -0500,"['/t/unix', '/t/vim']",What are Unix swap (.swp) files?,http://www.itworld.com/article/2931534/it-management/what-are-unix-swap-swp-files.html,/u/behemoth,1
+0,2015-06-06 16:31:27 -0500,"/t/rant,/t/ruby",Cutting Corners or Why Rails May Kill Ruby,http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html,/u/pushcx,12
+0,2015-06-06 08:49:13 -0500,/t/practices,The Errors of Our Ways,http://www.theawl.com/2015/06/the-errors-of-our-ways,/u/pushcx,10
+5,2015-06-05 23:18:50 -0500,"/t/games,/t/programming,/t/release",TIS-100,http://www.zachtronics.com/tis-100/,/u/pushcx,17
+0,2015-06-06 08:38:26 -0500,"/t/linux,/t/security",A Machine for Keeping Secrets?,http://www.linuxjournal.com/content/machine-keeping-secrets,/u/james,6
+2,2015-06-05 22:50:00 -0500,"/t/programming,/t/ruby",Demystifying @tenderlove's homeopathic code optimizations,http://nithinbekal.com/posts/homeopathic-code-optimizations/,/u/pushcx,8
+9,2015-06-05 06:49:03 -0500,/t/haskell,Haskell in Production: Bdellium,https://medium.com/@folsen/haskell-in-production-bdellium-1df48de40e19,/u/fredrik,32
+4,2015-06-05 13:16:59 -0500,"/t/distributed,/t/linux,/t/practices,/t/virtualization","Docker, Mesos, Marathon, and the End of Pets",http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets,/u/ztellman,15
+0,2015-06-06 00:24:31 -0500,"/t/book,/t/haskell",Learning Haskell the Hard Way,https://superginbaby.wordpress.com/2015/05/30/learning-haskell-the-hard-way/,/u/bitemyapp,7
+0,2015-06-05 16:59:19 -0500,/t/openbsd,Putting OpenBSD in the cloud,http://www.anchor.com.au/blog/2015/06/putting-openbsd-cloud/,/u/fcambus,12
+7,2015-06-05 10:50:29 -0500,"/t/databases,/t/distributed,/t/go",Cockroach Labs: Hello World,http://www.cockroachlabs.com/blog/hello-world/,/u/DocSavage,12
+16,2015-06-05 16:17:44 -0500,"/t/go,/t/rant",A year with Go,http://vagabond.github.io/rants/2015/06/05/a-year-with-go/,/u/codahale,23
+2,2015-06-05 11:19:37 -0500,/t/scaling,Scalability! But at what COST?,http://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/,/u/tobym,15
+1,2015-06-06 13:29:50 -0500,"/t/ios,/t/mac,/t/windows",Apple is having its Microsoft moment,http://money.cnn.com/2015/06/05/technology/apple-bugs/index.html?iid=SF_LN,/u/anata,0
+0,2015-06-05 04:18:21 -0500,/t/rust,Three months of Rust,http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust,/u/jodosha,27
+0,2015-06-06 03:50:24 -0500,"/t/video,/t/networking",Linux.conf.au 2013 Keynote - Radia Perlman: Network protocols and their history,http://www.youtube.com/watch?v=mKa592OZhcc,/u/antifuchs,1
+2,2015-06-05 09:16:25 -0500,"/t/programming,/t/ruby",when a+b+c != c+b+a,http://ruru.name/entries/when-a-plus-b-plus-c-equals-c-plus-b-plus-a/,/u/pushcx,8
+1,2015-06-05 09:22:49 -0500,"/t/programming,/t/web",Using Protobuf instead of JSON to communicate with a frontend,https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend,/u/pushcx,8
+1,2015-06-05 15:50:32 -0500,"/t/security,/t/web",Let's Encrypt: Root and Intermediate Certificates,https://letsencrypt.org/2015/06/04/isrg-ca-certs.html,/u/apk,3
+3,2015-06-05 06:13:03 -0500,/t/api,RedditStorage,https://github.com/Rossem/RedditStorage,/u/andrewnez,6
+1,2015-06-05 06:06:21 -0500,/t/databases,"PostgreSQL: the good, the bad, and the ugly",https://lwn.net/Articles/645020/,/u/behemoth,10
+0,2015-06-05 10:30:49 -0500,"/t/games,/t/person",Did Star Wars Galaxies Fail?,http://www.raphkoster.com/2015/04/27/did-star-wars-galaxies-fail/,/u/pushcx,5
+0,2015-06-05 06:11:17 -0500,"/t/hardware,/t/linux,/t/programming",A fresh look at the kernel's device model,https://lwn.net/Articles/645810/,/u/behemoth,8
+0,2015-06-05 10:06:43 -0500,"/t/ml,/t/programming,/t/security",Signing the OPAM repository,http://opam.ocaml.org/blog/Signing-the-opam-repository/,/u/BruceM,3
+0,2015-06-05 09:36:23 -0500,"/t/javascript,/t/programming",ES6 In Depth: Arrow functions,https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/,/u/pushcx,2
+4,2015-06-05 05:58:57 -0500,"/t/unix,/t/vim",What are Unix swap (.swp) files?,http://www.itworld.com/article/2931534/it-management/what-are-unix-swap-swp-files.html,/u/behemoth,1

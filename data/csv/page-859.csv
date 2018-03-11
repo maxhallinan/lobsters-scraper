@@ -1,25 +1,25 @@
-0,2016-02-25 15:55:32 -0600,['/t/compsci'],The Netflix Tech Blog: Recommending for the World,http://techblog.netflix.com/2016/02/recommending-for-world.html,/u/svm,1
-0,2016-02-25 11:41:19 -0600,"['/t/android', '/t/swift']",Swift pull request: Port to Android,https://github.com/apple/swift/pull/1442,/u/calvin,2
-5,2016-02-24 13:02:45 -0600,"['/t/law', '/t/security']","Confirmed: Carnegie Mellon University Attacked Tor, Was Subpoenaed By Feds",http://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-was-subpoenaed-by-feds,/u/pushcx,23
-0,2016-02-25 13:44:16 -0600,"['/t/law', '/t/linux']","Copyrights, Licenses and CDDL Illustrated (2006)",https://blogs.oracle.com/chandan/entry/copyrights_licenses_and_cddl_illustrated,/u/cnst,1
-0,2016-02-24 20:52:36 -0600,"['/t/linux', '/t/netbsd', '/t/programming']",sabotage-linux/netbsd-curses,https://github.com/sabotage-linux/netbsd-curses,/u/merzberimbow,10
-0,2016-02-25 09:24:04 -0600,['/t/culture'],Play nice! How the internet is trying to design out toxic behaviour,http://www.theguardian.com/technology/2016/feb/22/play-nice-how-the-internet-is-trying-to-design-out-toxic-behaviour,/u/pushcx,4
-0,2016-02-24 14:11:38 -0600,['/t/design'],All Talk and No Buttons: The Conversational UI,http://alistapart.com/article/all-talk-and-no-buttons-the-conversational-ui,/u/flyingfisch,17
-0,2016-02-25 10:17:20 -0600,['/t/programming'],How core.async and CSP help you prove your async code works,http://reaktor.com/blog/why-csp-matters-i-keeping-things-in-sync/,/u/willho,1
-2,2016-02-25 06:50:08 -0600,"['/t/culture', '/t/linux', '/t/security']",Distribution packages considered insecure,https://statuscode.ch/2016/02/distribution-packages-considered-insecure,/u/untitaker,4
-0,2016-02-24 14:04:36 -0600,['/t/perl'],All Software is Legacy,https://leejo.github.io/2016/02/22/all_software_is_legacy/,/u/pushcx,14
-0,2016-02-24 14:38:12 -0600,"['/t/privacy', '/t/security']",I dared expert hackers to destroy my life,http://fusion.net/video/271750/real-future-episode-8-hack-attack/,/u/pushcx,11
-0,2016-02-25 01:23:35 -0600,"['/t/hardware', '/t/science']",Overclocking Arduino with liquid nitrogen cooling,http://3.14.by/en/read/arduino-liquid-nitrogen-overclocking,/u/friendlysock,3
-0,2016-02-25 07:14:11 -0600,"['/t/privacy', '/t/security']",The Importance of Strong Encryption to Security,https://www.schneier.com/blog/archives/2016/02/the_importance_.html,/u/rbn,1
-1,2016-02-24 08:37:48 -0600,['/t/security'],Controlling vehicle features of Nissan LEAFs across the globe via vulnerable APIs,http://www.troyhunt.com/2016/02/controlling-vehicle-features-of-nissan.html,/u/whbboyd,17
-0,2016-02-24 14:51:01 -0600,"['/t/javascript', '/t/web']","CSJS: modular, scoped CSS with ES6",https://github.com/rtsao/csjs,/u/rtsao,4
-0,2016-02-24 18:43:48 -0600,['/t/javascript'],async/await: It’s Good and Bad,https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40,/u/joshuacc,6
-0,2016-02-24 19:09:55 -0600,['/t/programming'],Data Locality · Optimization Patterns · Game Programming Patterns,http://gameprogrammingpatterns.com/data-locality.html,/u/kghose,5
-0,2016-02-24 18:43:35 -0600,['/t/distributed'],Maglev: A Fast and Reliable Software Network Load Balancer,http://research.google.com/pubs/pub44824.html,/u/apg,5
-1,2016-02-24 13:05:42 -0600,"['/t/historical', '/t/security']",‘WarGames’ and Cybersecurity’s Debt to a Hollywood Hack,http://www.nytimes.com/2016/02/21/movies/wargames-and-cybersecuritys-debt-to-a-hollywood-hack.html,/u/mulander,7
-0,2016-02-24 23:11:34 -0600,['/t/web'],Important Changes to Mandrill,http://blog.mailchimp.com/important-changes-to-mandrill/,/u/shelakel,2
-0,2016-02-24 07:46:19 -0600,"['/t/hardware', '/t/security']",Mousejack - Injecting Keystrokes into Wireless Mice,https://www.bastille.net/technical-details,/u/mulander,14
-1,2016-02-24 16:07:08 -0600,"['/t/pdf', '/t/networking', '/t/security']",Website-Targeted False Content Injection by Network Operators,http://arxiv.org/pdf/1602.07128v1.pdf,/u/pushcx,3
-0,2016-02-24 15:00:40 -0600,['/t/web'],The Current State of Telephone Links,https://css-tricks.com/the-current-state-of-telephone-links/,/u/flyingfisch,5
-0,2016-02-25 00:48:30 -0600,['/t/programming'],Use of the specification pattern,http://teotti.com/use-of-the-specification-pattern/,/u/pushcx,1
-0,2016-02-24 12:31:04 -0600,"['/t/databases', '/t/security']",ZeroDB whitepaper | end to end encrypted database,http://arxiv.org/abs/1602.07168,/u/355E3B,6
+0,2016-02-25 15:55:32 -0600,/t/compsci,The Netflix Tech Blog: Recommending for the World,http://techblog.netflix.com/2016/02/recommending-for-world.html,/u/svm,1
+0,2016-02-25 11:41:19 -0600,"/t/android,/t/swift",Swift pull request: Port to Android,https://github.com/apple/swift/pull/1442,/u/calvin,2
+5,2016-02-24 13:02:45 -0600,"/t/law,/t/security","Confirmed: Carnegie Mellon University Attacked Tor, Was Subpoenaed By Feds",http://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-was-subpoenaed-by-feds,/u/pushcx,23
+0,2016-02-25 13:44:16 -0600,"/t/law,/t/linux","Copyrights, Licenses and CDDL Illustrated (2006)",https://blogs.oracle.com/chandan/entry/copyrights_licenses_and_cddl_illustrated,/u/cnst,1
+0,2016-02-24 20:52:36 -0600,"/t/linux,/t/netbsd,/t/programming",sabotage-linux/netbsd-curses,https://github.com/sabotage-linux/netbsd-curses,/u/merzberimbow,10
+0,2016-02-25 09:24:04 -0600,/t/culture,Play nice! How the internet is trying to design out toxic behaviour,http://www.theguardian.com/technology/2016/feb/22/play-nice-how-the-internet-is-trying-to-design-out-toxic-behaviour,/u/pushcx,4
+0,2016-02-24 14:11:38 -0600,/t/design,All Talk and No Buttons: The Conversational UI,http://alistapart.com/article/all-talk-and-no-buttons-the-conversational-ui,/u/flyingfisch,17
+0,2016-02-25 10:17:20 -0600,/t/programming,How core.async and CSP help you prove your async code works,http://reaktor.com/blog/why-csp-matters-i-keeping-things-in-sync/,/u/willho,1
+2,2016-02-25 06:50:08 -0600,"/t/culture,/t/linux,/t/security",Distribution packages considered insecure,https://statuscode.ch/2016/02/distribution-packages-considered-insecure,/u/untitaker,4
+0,2016-02-24 14:04:36 -0600,/t/perl,All Software is Legacy,https://leejo.github.io/2016/02/22/all_software_is_legacy/,/u/pushcx,14
+0,2016-02-24 14:38:12 -0600,"/t/privacy,/t/security",I dared expert hackers to destroy my life,http://fusion.net/video/271750/real-future-episode-8-hack-attack/,/u/pushcx,11
+0,2016-02-25 01:23:35 -0600,"/t/hardware,/t/science",Overclocking Arduino with liquid nitrogen cooling,http://3.14.by/en/read/arduino-liquid-nitrogen-overclocking,/u/friendlysock,3
+0,2016-02-25 07:14:11 -0600,"/t/privacy,/t/security",The Importance of Strong Encryption to Security,https://www.schneier.com/blog/archives/2016/02/the_importance_.html,/u/rbn,1
+1,2016-02-24 08:37:48 -0600,/t/security,Controlling vehicle features of Nissan LEAFs across the globe via vulnerable APIs,http://www.troyhunt.com/2016/02/controlling-vehicle-features-of-nissan.html,/u/whbboyd,17
+0,2016-02-24 14:51:01 -0600,"/t/javascript,/t/web","CSJS: modular, scoped CSS with ES6",https://github.com/rtsao/csjs,/u/rtsao,4
+0,2016-02-24 18:43:48 -0600,/t/javascript,async/await: It’s Good and Bad,https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40,/u/joshuacc,6
+0,2016-02-24 19:09:55 -0600,/t/programming,Data Locality · Optimization Patterns · Game Programming Patterns,http://gameprogrammingpatterns.com/data-locality.html,/u/kghose,5
+0,2016-02-24 18:43:35 -0600,/t/distributed,Maglev: A Fast and Reliable Software Network Load Balancer,http://research.google.com/pubs/pub44824.html,/u/apg,5
+1,2016-02-24 13:05:42 -0600,"/t/historical,/t/security",‘WarGames’ and Cybersecurity’s Debt to a Hollywood Hack,http://www.nytimes.com/2016/02/21/movies/wargames-and-cybersecuritys-debt-to-a-hollywood-hack.html,/u/mulander,7
+0,2016-02-24 23:11:34 -0600,/t/web,Important Changes to Mandrill,http://blog.mailchimp.com/important-changes-to-mandrill/,/u/shelakel,2
+0,2016-02-24 07:46:19 -0600,"/t/hardware,/t/security",Mousejack - Injecting Keystrokes into Wireless Mice,https://www.bastille.net/technical-details,/u/mulander,14
+1,2016-02-24 16:07:08 -0600,"/t/pdf,/t/networking,/t/security",Website-Targeted False Content Injection by Network Operators,http://arxiv.org/pdf/1602.07128v1.pdf,/u/pushcx,3
+0,2016-02-24 15:00:40 -0600,/t/web,The Current State of Telephone Links,https://css-tricks.com/the-current-state-of-telephone-links/,/u/flyingfisch,5
+0,2016-02-25 00:48:30 -0600,/t/programming,Use of the specification pattern,http://teotti.com/use-of-the-specification-pattern/,/u/pushcx,1
+0,2016-02-24 12:31:04 -0600,"/t/databases,/t/security",ZeroDB whitepaper | end to end encrypted database,http://arxiv.org/abs/1602.07168,/u/355E3B,6

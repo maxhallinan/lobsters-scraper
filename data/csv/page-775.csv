@@ -1,25 +1,25 @@
-2,2016-05-23 09:20:30 -0500,"['/t/compilers', '/t/lisp', '/t/release']",Introducing clojure.spec,http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec,/u/pushcx,19
-0,2016-05-23 21:49:41 -0500,['/t/hardware'],Introducing the RSTHD layout,https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/,/u/falvese,5
-4,2016-05-23 13:59:57 -0500,"['/t/c', '/t/web']",Balde: A microframework for web applications in C,https://balde.rgm.io/,/u/nickfrostatx,6
-0,2016-05-24 03:08:44 -0500,"['/t/compsci', '/t/scala']",Parallel Programming,https://www.coursera.org/learn/parprog1/,/u/tf,2
-1,2016-05-23 07:42:11 -0500,['/t/vim'],Why Learn Vim Commands,http://deliberate-software.com/editor-abstractions/,/u/steveshogren,9
-0,2016-05-24 06:02:56 -0500,"['/t/culture', '/t/networking']",IPv6 Excuse Bingo,http://ipv6bingo.com/,/u/sevan,2
-0,2016-05-23 17:54:02 -0500,['/t/science'],Astronomers do not Date Sappho’s ‘Midnight’ Poem,http://dhayton.haverford.edu/blog/2016/05/20/astronomers-do-not-date-sapphos-midnight-poem/,/u/tedu,5
-2,2016-05-23 13:09:00 -0500,"['/t/elixir', '/t/programming']",The Elixir of concurrency,http://cfenollosa.com/blog/the-elixir-of-concurrency.html,/u/carlesfe,2
-0,2016-05-23 16:36:08 -0500,"['/t/crypto', '/t/debugging', '/t/programming', '/t/testing']","Mid-2016 Tor bug retrospective, with lessons for future coding | The Tor Blog",https://blog.torproject.org/blog/mid-2016-tor-bug-retrospective-lessons-future-coding,/u/rain1,5
-1,2016-05-23 22:06:49 -0500,['/t/web'],"Google Trends - .io vs .org - Worldwide, 2004 - present",https://www.google.com/trends/explore#q=.org%2C%20.io&cmpt=q&tz=Etc%2FGMT%2B4,/u/mikec,1
-0,2016-05-23 20:19:32 -0500,"['/t/java', '/t/lisp']","Neanderthal 0.6.0: now on Nvidia, AMD, and Intel GPU (Clojure matrix library)",http://neanderthal.uncomplicate.org/articles/news/release-0.6.0.html,/u/dragandj,1
-14,2016-05-22 09:27:51 -0500,['/t/ruby'],My time with Rails is up,http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html,/u/355E3B,51
-0,2016-05-23 19:11:43 -0500,"['/t/compilers', '/t/compsci', '/t/databases']",Efficient query plans for modern hardware,https://blog.acolyer.org/2016/05/23/efficiently-compiling-efficient-query-plans-for-modern-hardware/,/u/amontalenti,2
-0,2016-05-23 22:41:14 -0500,"['/t/linux', '/t/networking']",The Proc Connector and Socket Filters,http://netsplit.com/the-proc-connector-and-socket-filters,/u/antifuchs,1
-1,2016-05-23 16:00:44 -0500,"['/t/video', '/t/historical']",The Internet As It Was In 1996,https://www.youtube.com/watch?v=WTKIgdfoHxM,/u/mikec,2
-0,2016-05-23 13:36:37 -0500,"['/t/assembly', '/t/c', '/t/reversing']",PolyHook -- Library for Hooking Functions,https://github.com/stevemk14ebr/PolyHook,/u/friendlysock,4
-1,2016-05-23 12:31:31 -0500,['/t/event'],NodeConf Argentina Call for Speakers is Open!,https://2016.nodeconf.com.ar/call-for-speakers.html,/u/bevacqua,2
-0,2016-05-23 11:46:54 -0500,['/t/visualization'],Crowdsourcing the Definition of 'Punk',http://poly-graph.co/punk/#prclt-ll1k2itR,/u/julienXX,4
-14,2016-05-22 14:22:09 -0500,"['/t/c', '/t/databases', '/t/release', '/t/web']",Postage – a modern replacement for pgAdmin,http://www.workflowproducts.com/postage.html,/u/cnst,19
-1,2016-05-23 14:46:41 -0500,"['/t/javascript', '/t/release']",xkcd-substitutions,https://github.com/michalkow/xkcd-substitutions,/u/flyingfisch,1
-17,2016-05-22 13:31:14 -0500,"['/t/c', '/t/java', '/t/programming']",Blue. No! Yellow!,http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html,/u/kartik,16
-1,2016-05-23 12:26:23 -0500,['/t/javascript'],"Who put this JavaScript in my COBOL? Node.cobol, that’s who",http://arstechnica.com/information-technology/2016/05/who-put-this-javascript-in-my-cobol-node-cobol-thats-who/,/u/mulander,1
-6,2016-05-22 17:13:06 -0500,"['/t/hardware', '/t/openbsd']",OpenBSD/loongson on the Lemote Yeeloong 8101B,http://www.cambus.net/openbsd-loongson-on-the-lemote-yeeloong-8101b/,/u/fcambus,7
-0,2016-05-23 08:30:06 -0500,"['/t/video', '/t/emacs']",Emacs For Writers,https://www.youtube.com/watch?v=FtieBc3KptU,/u/vfoley,4
-0,2016-05-23 04:56:57 -0500,['/t/release'],Roundcube Webmail 1.2.0 released,https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released,/u/mulander,6
+2,2016-05-23 09:20:30 -0500,"/t/compilers,/t/lisp,/t/release",Introducing clojure.spec,http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec,/u/pushcx,19
+0,2016-05-23 21:49:41 -0500,/t/hardware,Introducing the RSTHD layout,https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/,/u/falvese,5
+4,2016-05-23 13:59:57 -0500,"/t/c,/t/web",Balde: A microframework for web applications in C,https://balde.rgm.io/,/u/nickfrostatx,6
+0,2016-05-24 03:08:44 -0500,"/t/compsci,/t/scala",Parallel Programming,https://www.coursera.org/learn/parprog1/,/u/tf,2
+1,2016-05-23 07:42:11 -0500,/t/vim,Why Learn Vim Commands,http://deliberate-software.com/editor-abstractions/,/u/steveshogren,9
+0,2016-05-24 06:02:56 -0500,"/t/culture,/t/networking",IPv6 Excuse Bingo,http://ipv6bingo.com/,/u/sevan,2
+0,2016-05-23 17:54:02 -0500,/t/science,Astronomers do not Date Sappho’s ‘Midnight’ Poem,http://dhayton.haverford.edu/blog/2016/05/20/astronomers-do-not-date-sapphos-midnight-poem/,/u/tedu,5
+2,2016-05-23 13:09:00 -0500,"/t/elixir,/t/programming",The Elixir of concurrency,http://cfenollosa.com/blog/the-elixir-of-concurrency.html,/u/carlesfe,2
+0,2016-05-23 16:36:08 -0500,"/t/crypto,/t/debugging,/t/programming,/t/testing","Mid-2016 Tor bug retrospective, with lessons for future coding | The Tor Blog",https://blog.torproject.org/blog/mid-2016-tor-bug-retrospective-lessons-future-coding,/u/rain1,5
+1,2016-05-23 22:06:49 -0500,/t/web,"Google Trends - .io vs .org - Worldwide, 2004 - present",https://www.google.com/trends/explore#q=.org%2C%20.io&cmpt=q&tz=Etc%2FGMT%2B4,/u/mikec,1
+0,2016-05-23 20:19:32 -0500,"/t/java,/t/lisp","Neanderthal 0.6.0: now on Nvidia, AMD, and Intel GPU (Clojure matrix library)",http://neanderthal.uncomplicate.org/articles/news/release-0.6.0.html,/u/dragandj,1
+14,2016-05-22 09:27:51 -0500,/t/ruby,My time with Rails is up,http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html,/u/355E3B,51
+0,2016-05-23 19:11:43 -0500,"/t/compilers,/t/compsci,/t/databases",Efficient query plans for modern hardware,https://blog.acolyer.org/2016/05/23/efficiently-compiling-efficient-query-plans-for-modern-hardware/,/u/amontalenti,2
+0,2016-05-23 22:41:14 -0500,"/t/linux,/t/networking",The Proc Connector and Socket Filters,http://netsplit.com/the-proc-connector-and-socket-filters,/u/antifuchs,1
+1,2016-05-23 16:00:44 -0500,"/t/video,/t/historical",The Internet As It Was In 1996,https://www.youtube.com/watch?v=WTKIgdfoHxM,/u/mikec,2
+0,2016-05-23 13:36:37 -0500,"/t/assembly,/t/c,/t/reversing",PolyHook -- Library for Hooking Functions,https://github.com/stevemk14ebr/PolyHook,/u/friendlysock,4
+1,2016-05-23 12:31:31 -0500,/t/event,NodeConf Argentina Call for Speakers is Open!,https://2016.nodeconf.com.ar/call-for-speakers.html,/u/bevacqua,2
+0,2016-05-23 11:46:54 -0500,/t/visualization,Crowdsourcing the Definition of 'Punk',http://poly-graph.co/punk/#prclt-ll1k2itR,/u/julienXX,4
+14,2016-05-22 14:22:09 -0500,"/t/c,/t/databases,/t/release,/t/web",Postage – a modern replacement for pgAdmin,http://www.workflowproducts.com/postage.html,/u/cnst,19
+1,2016-05-23 14:46:41 -0500,"/t/javascript,/t/release",xkcd-substitutions,https://github.com/michalkow/xkcd-substitutions,/u/flyingfisch,1
+17,2016-05-22 13:31:14 -0500,"/t/c,/t/java,/t/programming",Blue. No! Yellow!,http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html,/u/kartik,16
+1,2016-05-23 12:26:23 -0500,/t/javascript,"Who put this JavaScript in my COBOL? Node.cobol, that’s who",http://arstechnica.com/information-technology/2016/05/who-put-this-javascript-in-my-cobol-node-cobol-thats-who/,/u/mulander,1
+6,2016-05-22 17:13:06 -0500,"/t/hardware,/t/openbsd",OpenBSD/loongson on the Lemote Yeeloong 8101B,http://www.cambus.net/openbsd-loongson-on-the-lemote-yeeloong-8101b/,/u/fcambus,7
+0,2016-05-23 08:30:06 -0500,"/t/video,/t/emacs",Emacs For Writers,https://www.youtube.com/watch?v=FtieBc3KptU,/u/vfoley,4
+0,2016-05-23 04:56:57 -0500,/t/release,Roundcube Webmail 1.2.0 released,https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released,/u/mulander,6

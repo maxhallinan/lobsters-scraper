@@ -1,25 +1,25 @@
-4,2018-02-01 13:18:25 -0600,['/t/performance'],Lament for search,http://blog.ikura.co/posts/lament-for-search.html,/u/nato,18
-11,2018-02-02 04:05:33 -0600,"['/t/cogsci', '/t/compilers', '/t/practices']",The Quorum Programming Language,https://quorumlanguage.com,/u/yumaikas,5
-4,2018-02-01 18:11:54 -0600,"['/t/show', '/t/python']",A minimal Python interpreter in Python with runtime AST definition and edit-and-continue,https://github.com/asrp/python_terp,/u/asrp,13
-30,2018-01-31 10:52:38 -0600,['/t/announce'],"Unread tracking, less deletion, hat doffing, deployment, bug fixes",/s/usel8g/unread_tracking_less_deletion_hat,/u/pushcx,91
-0,2018-02-01 20:25:30 -0600,"['/t/games', '/t/javascript', '/t/programming']","Let's Write a 2D Platformer From Scratch Using HTML5 and JavaScript, Part 3: Collision Detection",https://nlogn.xyz/2018/02/01/lets-write-a-2d-platformer-from-scratch-part-3.html,/u/darthdeus,10
-0,2018-02-02 18:08:48 -0600,"['/t/release', '/t/vcs']","Lifecycle Versioning (v01, alpha)",https://ferrisellis.com/posts/lifecycle_versioning_v1_alpha/,/u/hwayne,1
-12,2018-02-01 09:57:49 -0600,"['/t/audio', '/t/linux', '/t/networking']",MiniModem: Software Modem to Transfer Files Over Audio,http://www.whence.com/minimodem/,/u/nickpsecurity,32
-1,2018-02-01 07:36:38 -0600,"['/t/linux', '/t/release']",Exodus – Painless relocation of Linux binaries without containers,https://github.com/Intoli/exodus,/u/foob,34
-0,2018-02-02 04:05:59 -0600,['/t/linux'],Custom Embedded Linux Distributions,http://www.linuxjournal.com/content/custom-embedded-linux-distributions,/u/nanxiao,5
-0,2018-02-02 14:31:40 -0600,"['/t/ai', '/t/graphics']",DensePose -- Dense Human Pose Estimation In The Wild,http://densepose.org/,/u/friendlysock,1
-3,2018-02-01 12:28:57 -0600,"['/t/ai', '/t/security']",Breaking 7 / 8 of the ICLR 2018 adversarial example defenses,https://github.com/anishathalye/obfuscated-gradients,/u/anishathalye,12
-1,2018-02-01 17:49:11 -0600,"['/t/hardware', '/t/law']",Spectre/Meltdown Pits Transparency Against Liability: Which is More Important to You?,https://www.bunniestudios.com/blog/?p=5127,/u/calvin,12
-0,2018-02-02 12:52:37 -0600,['/t/dotnet'],.NET Core 2.1 Roadmap,https://blogs.msdn.microsoft.com/dotnet/2018/02/02/net-core-2-1-roadmap/,/u/colin,1
-5,2018-02-01 07:27:52 -0600,"['/t/elm', '/t/programming']",Critique of a Code Meme,https://maxhallinan.com/posts/2018/01/31/critique-of-a-code-meme/,/u/maxhallinan,13
-0,2018-02-02 16:05:36 -0600,"['/t/video', '/t/culture', '/t/programming']",Fundamental Principals of Software,https://www.youtube.com/watch?v=1VLN57wJAcU&t=284,/u/Yogthos,1
-0,2018-02-02 08:40:21 -0600,"['/t/culture', '/t/games', '/t/historical']",The Sierra Network,https://www.filfre.net/2018/02/the-sierra-network/,/u/calvin,3
-0,2018-02-02 02:47:23 -0600,"['/t/video', '/t/practices']","What We Actually Know About Software Development, and Why We Believe It's True (2007)",https://vimeo.com/9270320/recommended,/u/yumaikas,3
-1,2018-02-01 19:28:50 -0600,"['/t/pdf', '/t/testing']",The Art of Fuzzing,https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf,/u/GeoffWozniak,6
-0,2018-02-01 15:36:46 -0600,"['/t/devops', '/t/distributed', '/t/networking', '/t/security']","A system to collect, analyze, and label all Internet mass scanner data",https://greynoise.io/blog/2018/2/1/what-is-greynoise,/u/morris,6
-2,2018-02-01 05:43:55 -0600,"['/t/cryptocurrencies', '/t/security']",Chain of Fools,http://www.allenpike.com/2018/blockchain,/u/jackivan88,28
-1,2018-02-01 10:28:17 -0600,['/t/hardware'],BitScope: 3000-core Raspberry Pi cluster computer,https://www.raspberrypi.org/magpi/bitscope-3000-core-raspberry-pi-cluster-computer/,/u/av,17
-0,2018-02-01 11:25:20 -0600,"['/t/hardware', '/t/security']",Internet of Dildos: A Long Way to a Vibrant Future – From IoT to IoD,https://www.sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html,/u/lukas,16
-21,2018-01-31 17:44:27 -0600,['/t/hardware'],A Eulogy for the Headphone Jack,https://medium.com/@flimshaw/a-eulogy-for-the-headphone-jack-aabda6c66cd8,/u/calvin,42
-0,2018-02-02 05:19:16 -0600,"['/t/audio', '/t/video', '/t/cogsci', '/t/practices']",RR 184 - What We Actually Know About Software Development and Why We Believe It's True - Ruby Rogues,https://www.youtube.com/watch?v=qDY-Lk1rsQY,/u/yumaikas,1
-2,2018-02-01 07:11:57 -0600,['/t/privacy'],Privacy could be the next big thing,https://kryogenix.org/code/privacy-could-be-the-next-big-thing-hackference/,/u/stevejalim,8
+4,2018-02-01 13:18:25 -0600,/t/performance,Lament for search,http://blog.ikura.co/posts/lament-for-search.html,/u/nato,18
+11,2018-02-02 04:05:33 -0600,"/t/cogsci,/t/compilers,/t/practices",The Quorum Programming Language,https://quorumlanguage.com,/u/yumaikas,5
+4,2018-02-01 18:11:54 -0600,"/t/show,/t/python",A minimal Python interpreter in Python with runtime AST definition and edit-and-continue,https://github.com/asrp/python_terp,/u/asrp,13
+30,2018-01-31 10:52:38 -0600,/t/announce,"Unread tracking, less deletion, hat doffing, deployment, bug fixes",/s/usel8g/unread_tracking_less_deletion_hat,/u/pushcx,91
+0,2018-02-01 20:25:30 -0600,"/t/games,/t/javascript,/t/programming","Let's Write a 2D Platformer From Scratch Using HTML5 and JavaScript, Part 3: Collision Detection",https://nlogn.xyz/2018/02/01/lets-write-a-2d-platformer-from-scratch-part-3.html,/u/darthdeus,10
+0,2018-02-02 18:08:48 -0600,"/t/release,/t/vcs","Lifecycle Versioning (v01, alpha)",https://ferrisellis.com/posts/lifecycle_versioning_v1_alpha/,/u/hwayne,1
+12,2018-02-01 09:57:49 -0600,"/t/audio,/t/linux,/t/networking",MiniModem: Software Modem to Transfer Files Over Audio,http://www.whence.com/minimodem/,/u/nickpsecurity,32
+1,2018-02-01 07:36:38 -0600,"/t/linux,/t/release",Exodus – Painless relocation of Linux binaries without containers,https://github.com/Intoli/exodus,/u/foob,34
+0,2018-02-02 04:05:59 -0600,/t/linux,Custom Embedded Linux Distributions,http://www.linuxjournal.com/content/custom-embedded-linux-distributions,/u/nanxiao,5
+0,2018-02-02 14:31:40 -0600,"/t/ai,/t/graphics",DensePose -- Dense Human Pose Estimation In The Wild,http://densepose.org/,/u/friendlysock,1
+3,2018-02-01 12:28:57 -0600,"/t/ai,/t/security",Breaking 7 / 8 of the ICLR 2018 adversarial example defenses,https://github.com/anishathalye/obfuscated-gradients,/u/anishathalye,12
+1,2018-02-01 17:49:11 -0600,"/t/hardware,/t/law",Spectre/Meltdown Pits Transparency Against Liability: Which is More Important to You?,https://www.bunniestudios.com/blog/?p=5127,/u/calvin,12
+0,2018-02-02 12:52:37 -0600,/t/dotnet,.NET Core 2.1 Roadmap,https://blogs.msdn.microsoft.com/dotnet/2018/02/02/net-core-2-1-roadmap/,/u/colin,1
+5,2018-02-01 07:27:52 -0600,"/t/elm,/t/programming",Critique of a Code Meme,https://maxhallinan.com/posts/2018/01/31/critique-of-a-code-meme/,/u/maxhallinan,13
+0,2018-02-02 16:05:36 -0600,"/t/video,/t/culture,/t/programming",Fundamental Principals of Software,https://www.youtube.com/watch?v=1VLN57wJAcU&t=284,/u/Yogthos,1
+0,2018-02-02 08:40:21 -0600,"/t/culture,/t/games,/t/historical",The Sierra Network,https://www.filfre.net/2018/02/the-sierra-network/,/u/calvin,3
+0,2018-02-02 02:47:23 -0600,"/t/video,/t/practices","What We Actually Know About Software Development, and Why We Believe It's True (2007)",https://vimeo.com/9270320/recommended,/u/yumaikas,3
+1,2018-02-01 19:28:50 -0600,"/t/pdf,/t/testing",The Art of Fuzzing,https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf,/u/GeoffWozniak,6
+0,2018-02-01 15:36:46 -0600,"/t/devops,/t/distributed,/t/networking,/t/security","A system to collect, analyze, and label all Internet mass scanner data",https://greynoise.io/blog/2018/2/1/what-is-greynoise,/u/morris,6
+2,2018-02-01 05:43:55 -0600,"/t/cryptocurrencies,/t/security",Chain of Fools,http://www.allenpike.com/2018/blockchain,/u/jackivan88,28
+1,2018-02-01 10:28:17 -0600,/t/hardware,BitScope: 3000-core Raspberry Pi cluster computer,https://www.raspberrypi.org/magpi/bitscope-3000-core-raspberry-pi-cluster-computer/,/u/av,17
+0,2018-02-01 11:25:20 -0600,"/t/hardware,/t/security",Internet of Dildos: A Long Way to a Vibrant Future – From IoT to IoD,https://www.sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html,/u/lukas,16
+21,2018-01-31 17:44:27 -0600,/t/hardware,A Eulogy for the Headphone Jack,https://medium.com/@flimshaw/a-eulogy-for-the-headphone-jack-aabda6c66cd8,/u/calvin,42
+0,2018-02-02 05:19:16 -0600,"/t/audio,/t/video,/t/cogsci,/t/practices",RR 184 - What We Actually Know About Software Development and Why We Believe It's True - Ruby Rogues,https://www.youtube.com/watch?v=qDY-Lk1rsQY,/u/yumaikas,1
+2,2018-02-01 07:11:57 -0600,/t/privacy,Privacy could be the next big thing,https://kryogenix.org/code/privacy-could-be-the-next-big-thing-hackference/,/u/stevejalim,8

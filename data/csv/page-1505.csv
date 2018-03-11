@@ -1,25 +1,25 @@
-0,2013-01-23 21:47:53 -0600,['/t/compsci'],How Google Code Search Worked,http://swtch.com/~rsc/regexp/regexp4.html,/u/tobym,5
-0,2013-01-23 21:51:30 -0600,['/t/compsci'],Regular Expression Matching Can Be Simple And Fast,http://swtch.com/~rsc/regexp/regexp1.html,/u/tobym,3
-5,2013-01-23 10:28:45 -0600,"['/t/compsci', '/t/ruby']",Ruby MRI Source Code Idioms #1: Accessing Data Via Macros - Pat Shaughnessy,http://patshaughnessy.net/2013/1/23/ruby-mri-source-code-idioms-1-accessing-data-via-macros,/u/rob,3
-1,2013-01-23 13:20:22 -0600,"['/t/browsers', '/t/security']",CRIME: A vulnerability in the SPDY protocol,http://www.imperialviolet.org/2012/09/21/crime.html,/u/bct,3
-0,2013-01-23 14:13:32 -0600,"['/t/javascript', '/t/security']",PolyCrypt: A WebCrypto Polyfill,http://polycrypt.net/,/u/jamesmacaulay,2
-0,2013-01-23 09:20:09 -0600,"['/t/compsci', '/t/databases', '/t/scala']",What Makes Spark Exciting,http://dev.bizo.com/2013/01/what-makes-spark-exciting.html,/u/tobym,3
-0,2013-01-23 08:27:15 -0600,['/t/scala'],The Neophyte's Guide to Scala Part 10: Staying DRY with higher-order functions,http://danielwestheide.com/blog/2013/01/23/the-neophytes-guide-to-scala-part-10-staying-dry-with-higher-order-functions.html,/u/tobym,3
-0,2013-01-23 03:38:58 -0600,"['/t/openbsd', '/t/security']",OpenBSD relayd SSL interception,http://marc.info/?l=openbsd-tech&m=135887624714548&w=2,/u/lynge,4
-3,2013-01-22 15:08:31 -0600,"['/t/linux', '/t/ruby']",Subtle: Tiling window manager with a ruby configuration DSL,http://subforge.org/projects/subtle/wiki,/u/b,6
-2,2013-01-22 12:15:46 -0600,['/t/ruby'],Gallery of the best Open Source Ruby on Rails apps (relaunched),http://www.opensourcerails.com/,/u/railsjedi,9
-2,2013-01-22 13:45:39 -0600,"['/t/javascript', '/t/web']",URI.js - URLs in Javascript,http://medialize.github.com/URI.js/,/u/tobym,3
-0,2013-01-22 22:30:10 -0600,"['/t/hardware', '/t/mobile']",Firefox OS Developer Preview Devices Announced,http://www.geeksphone.com/,/u/GutenYe,1
-0,2013-01-22 13:58:49 -0600,"['/t/scala', '/t/web']",Play Framework - async by default,https://groups.google.com/forum/#!topic/play-framework-dev/30MqnKDp0Fs/discussion,/u/tobym,2
-0,2013-01-22 09:58:10 -0600,"['/t/philosophy', '/t/release']","""Philosophy in a time of Software"", a Google Group for discussing philosophy + software",https://groups.google.com/forum/?fromgroups#!forum/philosophy-in-a-time-of-software,/u/steveklabnik,3
-0,2013-01-22 09:47:50 -0600,"['/t/math', '/t/visualization']",How to Fold a Julia Fractal,http://acko.net/blog/how-to-fold-a-julia-fractal/,/u/phinze,1
-0,2013-01-21 19:08:19 -0600,"['/t/philosophy', '/t/practices']",The Cult of Done Manifesto (2009),http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html,/u/JoelMcCracken,3
-0,2013-01-21 07:31:32 -0600,['/t/practices'],Mental Model Mis-steps,http://marktattersall.com/2013/01/mental-model-mis-steps/,/u/mtattersall,5
-0,2013-01-21 03:48:57 -0600,['/t/openbsd'],OpenBSD hibernate on amd64 getting closer,http://undeadly.org/cgi?action=article&sid=20130121065534,/u/lynge,4
-0,2013-01-21 03:38:51 -0600,"['/t/book', '/t/compsci', '/t/lisp']","Dylan Programming Guide (1996) now available in PDF, ePub, updated HTML",http://opendylan.org/news/2013/01/21/dylan-programming-guide.html,/u/BruceM,2
-0,2013-01-20 17:32:29 -0600,"['/t/api', '/t/javascript', '/t/networking']","A Rest DNS API allowing to perform DNS queries over HTTP, outputting JSON",http://www.statdns.com/api/,/u/fcambus,3
-1,2013-01-19 10:40:10 -0600,['/t/practices'],What do MySQL datetime types and scrum have in common?,https://github.com/hjr3/hjr3.github.com/blob/master/posts/datetime-scrum.md,/u/hjr3,2
-0,2013-01-19 12:41:55 -0600,"['/t/browsers', '/t/javascript', '/t/release']","texlive.js lets you run TeX in your browser, thanks to emscripten",http://manuels.github.com/texlive.js/website/,/u/chneukirchen,1
-0,2013-01-18 20:29:01 -0600,"['/t/javascript', '/t/scaling', '/t/web']",Hardening node.js for production by using nginx to avoid load,http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/,/u/taterbase,5
-5,2013-01-18 09:15:13 -0600,['/t/go'],Go: a nice language with an annoying personality,http://corte.si/posts/code/go/go-rant.html,/u/jcs,11
-0,2013-01-18 17:35:42 -0600,['/t/news'],Filabot Turns Your Plastic Junk Into Material for 3-D Printers,http://www.wired.com/design/2013/01/filabot-plastic-recycler/,/u/kusuriya,3
+0,2013-01-23 21:47:53 -0600,/t/compsci,How Google Code Search Worked,http://swtch.com/~rsc/regexp/regexp4.html,/u/tobym,5
+0,2013-01-23 21:51:30 -0600,/t/compsci,Regular Expression Matching Can Be Simple And Fast,http://swtch.com/~rsc/regexp/regexp1.html,/u/tobym,3
+5,2013-01-23 10:28:45 -0600,"/t/compsci,/t/ruby",Ruby MRI Source Code Idioms #1: Accessing Data Via Macros - Pat Shaughnessy,http://patshaughnessy.net/2013/1/23/ruby-mri-source-code-idioms-1-accessing-data-via-macros,/u/rob,3
+1,2013-01-23 13:20:22 -0600,"/t/browsers,/t/security",CRIME: A vulnerability in the SPDY protocol,http://www.imperialviolet.org/2012/09/21/crime.html,/u/bct,3
+0,2013-01-23 14:13:32 -0600,"/t/javascript,/t/security",PolyCrypt: A WebCrypto Polyfill,http://polycrypt.net/,/u/jamesmacaulay,2
+0,2013-01-23 09:20:09 -0600,"/t/compsci,/t/databases,/t/scala",What Makes Spark Exciting,http://dev.bizo.com/2013/01/what-makes-spark-exciting.html,/u/tobym,3
+0,2013-01-23 08:27:15 -0600,/t/scala,The Neophyte's Guide to Scala Part 10: Staying DRY with higher-order functions,http://danielwestheide.com/blog/2013/01/23/the-neophytes-guide-to-scala-part-10-staying-dry-with-higher-order-functions.html,/u/tobym,3
+0,2013-01-23 03:38:58 -0600,"/t/openbsd,/t/security",OpenBSD relayd SSL interception,http://marc.info/?l=openbsd-tech&m=135887624714548&w=2,/u/lynge,4
+3,2013-01-22 15:08:31 -0600,"/t/linux,/t/ruby",Subtle: Tiling window manager with a ruby configuration DSL,http://subforge.org/projects/subtle/wiki,/u/b,6
+2,2013-01-22 12:15:46 -0600,/t/ruby,Gallery of the best Open Source Ruby on Rails apps (relaunched),http://www.opensourcerails.com/,/u/railsjedi,9
+2,2013-01-22 13:45:39 -0600,"/t/javascript,/t/web",URI.js - URLs in Javascript,http://medialize.github.com/URI.js/,/u/tobym,3
+0,2013-01-22 22:30:10 -0600,"/t/hardware,/t/mobile",Firefox OS Developer Preview Devices Announced,http://www.geeksphone.com/,/u/GutenYe,1
+0,2013-01-22 13:58:49 -0600,"/t/scala,/t/web",Play Framework - async by default,https://groups.google.com/forum/#!topic/play-framework-dev/30MqnKDp0Fs/discussion,/u/tobym,2
+0,2013-01-22 09:58:10 -0600,"/t/philosophy,/t/release","""Philosophy in a time of Software"", a Google Group for discussing philosophy + software",https://groups.google.com/forum/?fromgroups#!forum/philosophy-in-a-time-of-software,/u/steveklabnik,3
+0,2013-01-22 09:47:50 -0600,"/t/math,/t/visualization",How to Fold a Julia Fractal,http://acko.net/blog/how-to-fold-a-julia-fractal/,/u/phinze,1
+0,2013-01-21 19:08:19 -0600,"/t/philosophy,/t/practices",The Cult of Done Manifesto (2009),http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html,/u/JoelMcCracken,3
+0,2013-01-21 07:31:32 -0600,/t/practices,Mental Model Mis-steps,http://marktattersall.com/2013/01/mental-model-mis-steps/,/u/mtattersall,5
+0,2013-01-21 03:48:57 -0600,/t/openbsd,OpenBSD hibernate on amd64 getting closer,http://undeadly.org/cgi?action=article&sid=20130121065534,/u/lynge,4
+0,2013-01-21 03:38:51 -0600,"/t/book,/t/compsci,/t/lisp","Dylan Programming Guide (1996) now available in PDF, ePub, updated HTML",http://opendylan.org/news/2013/01/21/dylan-programming-guide.html,/u/BruceM,2
+0,2013-01-20 17:32:29 -0600,"/t/api,/t/javascript,/t/networking","A Rest DNS API allowing to perform DNS queries over HTTP, outputting JSON",http://www.statdns.com/api/,/u/fcambus,3
+1,2013-01-19 10:40:10 -0600,/t/practices,What do MySQL datetime types and scrum have in common?,https://github.com/hjr3/hjr3.github.com/blob/master/posts/datetime-scrum.md,/u/hjr3,2
+0,2013-01-19 12:41:55 -0600,"/t/browsers,/t/javascript,/t/release","texlive.js lets you run TeX in your browser, thanks to emscripten",http://manuels.github.com/texlive.js/website/,/u/chneukirchen,1
+0,2013-01-18 20:29:01 -0600,"/t/javascript,/t/scaling,/t/web",Hardening node.js for production by using nginx to avoid load,http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/,/u/taterbase,5
+5,2013-01-18 09:15:13 -0600,/t/go,Go: a nice language with an annoying personality,http://corte.si/posts/code/go/go-rant.html,/u/jcs,11
+0,2013-01-18 17:35:42 -0600,/t/news,Filabot Turns Your Plastic Junk Into Material for 3-D Printers,http://www.wired.com/design/2013/01/filabot-plastic-recycler/,/u/kusuriya,3

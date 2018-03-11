@@ -1,25 +1,25 @@
-0,2015-11-29 18:11:28 -0600,"['/t/programming', '/t/security']",seL4 2.0.0 just released: Release Notes,http://sel4.systems/pipermail/devel/2015-November/000603.html,/u/BruceM,12
-2,2015-11-29 17:12:59 -0600,"['/t/games', '/t/programming']",StarCraft AI Competition,http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/report2015.shtml,/u/xcombelle,12
-5,2015-11-29 09:17:19 -0600,['/t/emacs'],A CEO's Guide to Emacs,https://blog.fugue.co/2015-11-11-guide-to-emacs.html,/u/JordiGH,21
-2,2015-11-30 09:37:56 -0600,"['/t/culture', '/t/practices', '/t/rant']",The Beggar CEO and Sucker Culture,http://www.daedtech.com/the-beggar-ceo-and-sucker-culture,/u/mulander,5
-0,2015-11-29 23:53:49 -0600,['/t/web'],What Web Can Do Today,https://whatwebcando.today/,/u/av,4
-1,2015-11-29 17:40:54 -0600,"['/t/video', '/t/satire']","It Was Never Going to Work, So Let’s Have Some Tea (James Mickens)",https://vimeo.com/146524997,/u/trousers,11
-0,2015-11-29 11:04:46 -0600,['/t/go'],A whirlwind tour of Go’s runtime environment variables,http://dave.cheney.net/2015/11/29/a-whirlwind-tour-of-gos-runtime-environment-variables,/u/oz,9
-0,2015-11-29 12:53:36 -0600,['/t/programming'],A Conversation with Manfred von Thun (creator of Joy),http://www.nsl.com/papers/interview.htm,/u/jeremy,7
-4,2015-11-29 10:38:26 -0600,['/t/culture'],"Conference talks, where did we go wrong?",http://barbarafusinska.com/2015/10/20/conference-talkswhere-did-we-go-wrong/,/u/jan,17
-1,2015-11-29 03:06:33 -0600,"['/t/networking', '/t/openbsd']",PXE boot OpenBSD from OpenWRT,http://uggedal.com/journal/pxe-boot-openbsd-from-openwrt/,/u/uggedal,8
-16,2015-11-28 13:17:37 -0600,['/t/javascript'],Virtual DOM is not a feature,http://uniphil.github.io/virtual-dom/,/u/phil,22
-0,2015-11-29 12:56:21 -0600,['/t/scala'],Quill: Compile-time Language Integrated Query for Scala,http://getquill.io/,/u/herval,5
-0,2015-11-29 07:06:50 -0600,"['/t/art', '/t/compsci', '/t/graphics', '/t/science']",Yarn-Based Cloth Simulation,http://www.cs.cornell.edu/projects/YarnCloth/,/u/animatronic,9
-0,2015-11-29 16:05:03 -0600,['/t/javascript'],Writing Your First ES2015 Module With Babel,http://www.polyglotweekly.com/2015/11/29/writing-your-first-es2015-javascript-module.html,/u/bcoe,1
-5,2015-11-28 16:51:17 -0600,"['/t/video', '/t/programming']",Wat,https://www.youtube.com/watch?v=20BySC_6HyY,/u/merzberimbow,17
-3,2015-11-29 07:28:02 -0600,['/t/culture'],Living in the Age of Software Fuckery,https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877#.143gnxu1g,/u/michaelochurch,8
-10,2015-11-28 18:36:34 -0600,['/t/compilers'],"Musings on AOT, JIT and Language Design",http://pointersgonewild.com/2015/11/28/musings-on-aot-jit-and-language-design/,/u/fitzgen,8
-2,2015-11-28 21:24:55 -0600,"['/t/art', '/t/design', '/t/programming']","Behind the Scenes: ""Subete ga F ni Naru"" ED",http://baku89.com/article/2394,/u/merzberimbow,10
-0,2015-11-29 09:22:55 -0600,['/t/culture'],How Software Groups Rot: Legacy of the Expert Beginner,http://www.daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner,/u/adsouza,5
-1,2015-11-28 19:37:36 -0600,"['/t/javascript', '/t/linux', '/t/programming', '/t/release', '/t/web']",Promise Based Scraper in Node.js,https://franciskim.co/2015/11/28/promise-based-scraper-in-node-js/,/u/franciskim,4
-6,2015-11-28 03:57:25 -0600,['/t/web'],How Udemy Is Profiting From Piracy,https://medium.com/@robconery/how-udemy-is-profiting-from-piracy-5638b929ffca,/u/zg,18
-0,2015-11-28 10:14:54 -0600,"['/t/lua', '/t/security']",Hackers do the Haka - Packet Manipulation DSL,http://thisissecurity.net/2015/11/23/hackers-do-the-haka-part-1/,/u/abugosh,8
-0,2015-11-28 07:23:58 -0600,['/t/practices'],Do you know what software you’re running?,http://www.robustperception.io/do-you-know-what-software-youre-running/,/u/bbrazil,4
-5,2015-11-27 18:35:19 -0600,['/t/ruby'],Why Ruby’s Timeout is dangerous (and Thread.raise is terrifying),http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/,/u/antifuchs,21
-7,2015-11-27 18:59:37 -0600,['/t/security'],"PS.: Having read this, you are now illegal in the UK. ;-)",https://www.reddit.com/r/crypto/comments/3udpvn/strong_easy_brain_based_cryptography_and_password/,/u/itistoday,15
+0,2015-11-29 18:11:28 -0600,"/t/programming,/t/security",seL4 2.0.0 just released: Release Notes,http://sel4.systems/pipermail/devel/2015-November/000603.html,/u/BruceM,12
+2,2015-11-29 17:12:59 -0600,"/t/games,/t/programming",StarCraft AI Competition,http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/report2015.shtml,/u/xcombelle,12
+5,2015-11-29 09:17:19 -0600,/t/emacs,A CEO's Guide to Emacs,https://blog.fugue.co/2015-11-11-guide-to-emacs.html,/u/JordiGH,21
+2,2015-11-30 09:37:56 -0600,"/t/culture,/t/practices,/t/rant",The Beggar CEO and Sucker Culture,http://www.daedtech.com/the-beggar-ceo-and-sucker-culture,/u/mulander,5
+0,2015-11-29 23:53:49 -0600,/t/web,What Web Can Do Today,https://whatwebcando.today/,/u/av,4
+1,2015-11-29 17:40:54 -0600,"/t/video,/t/satire","It Was Never Going to Work, So Let’s Have Some Tea (James Mickens)",https://vimeo.com/146524997,/u/trousers,11
+0,2015-11-29 11:04:46 -0600,/t/go,A whirlwind tour of Go’s runtime environment variables,http://dave.cheney.net/2015/11/29/a-whirlwind-tour-of-gos-runtime-environment-variables,/u/oz,9
+0,2015-11-29 12:53:36 -0600,/t/programming,A Conversation with Manfred von Thun (creator of Joy),http://www.nsl.com/papers/interview.htm,/u/jeremy,7
+4,2015-11-29 10:38:26 -0600,/t/culture,"Conference talks, where did we go wrong?",http://barbarafusinska.com/2015/10/20/conference-talkswhere-did-we-go-wrong/,/u/jan,17
+1,2015-11-29 03:06:33 -0600,"/t/networking,/t/openbsd",PXE boot OpenBSD from OpenWRT,http://uggedal.com/journal/pxe-boot-openbsd-from-openwrt/,/u/uggedal,8
+16,2015-11-28 13:17:37 -0600,/t/javascript,Virtual DOM is not a feature,http://uniphil.github.io/virtual-dom/,/u/phil,22
+0,2015-11-29 12:56:21 -0600,/t/scala,Quill: Compile-time Language Integrated Query for Scala,http://getquill.io/,/u/herval,5
+0,2015-11-29 07:06:50 -0600,"/t/art,/t/compsci,/t/graphics,/t/science",Yarn-Based Cloth Simulation,http://www.cs.cornell.edu/projects/YarnCloth/,/u/animatronic,9
+0,2015-11-29 16:05:03 -0600,/t/javascript,Writing Your First ES2015 Module With Babel,http://www.polyglotweekly.com/2015/11/29/writing-your-first-es2015-javascript-module.html,/u/bcoe,1
+5,2015-11-28 16:51:17 -0600,"/t/video,/t/programming",Wat,https://www.youtube.com/watch?v=20BySC_6HyY,/u/merzberimbow,17
+3,2015-11-29 07:28:02 -0600,/t/culture,Living in the Age of Software Fuckery,https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877#.143gnxu1g,/u/michaelochurch,8
+10,2015-11-28 18:36:34 -0600,/t/compilers,"Musings on AOT, JIT and Language Design",http://pointersgonewild.com/2015/11/28/musings-on-aot-jit-and-language-design/,/u/fitzgen,8
+2,2015-11-28 21:24:55 -0600,"/t/art,/t/design,/t/programming","Behind the Scenes: ""Subete ga F ni Naru"" ED",http://baku89.com/article/2394,/u/merzberimbow,10
+0,2015-11-29 09:22:55 -0600,/t/culture,How Software Groups Rot: Legacy of the Expert Beginner,http://www.daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner,/u/adsouza,5
+1,2015-11-28 19:37:36 -0600,"/t/javascript,/t/linux,/t/programming,/t/release,/t/web",Promise Based Scraper in Node.js,https://franciskim.co/2015/11/28/promise-based-scraper-in-node-js/,/u/franciskim,4
+6,2015-11-28 03:57:25 -0600,/t/web,How Udemy Is Profiting From Piracy,https://medium.com/@robconery/how-udemy-is-profiting-from-piracy-5638b929ffca,/u/zg,18
+0,2015-11-28 10:14:54 -0600,"/t/lua,/t/security",Hackers do the Haka - Packet Manipulation DSL,http://thisissecurity.net/2015/11/23/hackers-do-the-haka-part-1/,/u/abugosh,8
+0,2015-11-28 07:23:58 -0600,/t/practices,Do you know what software you’re running?,http://www.robustperception.io/do-you-know-what-software-youre-running/,/u/bbrazil,4
+5,2015-11-27 18:35:19 -0600,/t/ruby,Why Ruby’s Timeout is dangerous (and Thread.raise is terrifying),http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/,/u/antifuchs,21
+7,2015-11-27 18:59:37 -0600,/t/security,"PS.: Having read this, you are now illegal in the UK. ;-)",https://www.reddit.com/r/crypto/comments/3udpvn/strong_easy_brain_based_cryptography_and_password/,/u/itistoday,15

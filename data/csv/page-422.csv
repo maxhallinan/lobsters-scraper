@@ -1,25 +1,25 @@
-0,2017-03-30 11:27:02 -0500,"['/t/pdf', '/t/compilers', '/t/java']","Your next JVM: Panama, Valhalla, Metropolis",http://cr.openjdk.java.net/~jrose/pres/201703-YourNextVM.pdf,/u/sanxiyn,22
-2,2017-03-30 05:55:37 -0500,"['/t/video', '/t/person', '/t/programming']",Donald Knuth - My advice to young people,https://www.youtube.com/watch?v=75Ju0eM5T2c&list=PLVV0r6CmEsFzeNLngr1JqyQki3wdoGrCn&index=93,/u/dgv,29
-0,2017-03-30 16:35:00 -0500,['/t/api'],Studio Ghibli API,https://ghibliapi.herokuapp.com/,/u/colin,9
-0,2017-03-31 12:18:47 -0500,"['/t/math', '/t/satire']",Predicting If I Had the Nerve to Ask Barry Cottonfield to the Junior Prom in 1997,https://arxiv.org/abs/1703.10449,/u/soulcutter,1
-2,2017-03-30 11:57:13 -0500,['/t/math'],An Intuitive (and Short) Explanation of Bayes’ Theorem,https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/,/u/pushcx,9
-1,2017-03-30 15:54:03 -0500,['/t/api'],Scaling your API with rate limiters,https://stripe.com/blog/rate-limiters,/u/bigdubs,5
-0,2017-03-31 00:20:15 -0500,['/t/javascript'],Redux Offline – Build Offline-First Apps for Web and React Native,https://github.com/jevakallio/redux-offline,/u/av,2
-0,2017-03-30 10:55:43 -0500,['/t/practices'],From Engineer to Manager: keeping your technical skills,https://hackernoon.com/from-engineer-to-manager-keeping-your-technical-skills-40579cc8ea00,/u/calvin,11
-0,2017-03-30 19:13:59 -0500,"['/t/pdf', '/t/distributed', '/t/ml', '/t/programming']","Opis: Reliable, Distributed Systems in Ocaml (2009)",http://lara.epfl.ch/~kuncak/papers/DagandETAL09Opis.pdf,/u/nickpsecurity,4
-0,2017-03-31 08:12:22 -0500,"['/t/video', '/t/culture', '/t/satire']",Stack Overflow Introduces Dance Dance Authentication,https://www.youtube.com/watch?v=VgC4b9K-gYU,/u/colin,3
-40,2017-03-30 08:57:28 -0500,"['/t/rust', '/t/satire']",Have you considered Rewriting It In Rust?,http://transitiontech.ca/random/RIIR,/u/jturner,27
-10,2017-03-29 19:29:10 -0500,['/t/law'],Lawyer's perception of open source licenses,https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html,/u/twolfson,36
-1,2017-03-30 15:09:36 -0500,"['/t/video', '/t/event']",Libreplanet 2017 Video Presentation Archive,https://media.libreplanet.org/u/libreplanet/tag/libreplanet-2017-video/,/u/pizzaiolo,5
-0,2017-03-31 02:36:51 -0500,"['/t/education', '/t/hardware']",The Min-T Processor,http://www.tran1.org/home,/u/qznc,1
-0,2017-03-30 09:36:21 -0500,['/t/api'],Some New Interesting Deep Learning Datasets for Data Scientists - ParallelDots,http://blog.paralleldots.com/data-scientist/new-deep-learning-datasets-data-scientists/,/u/Gargi,5
-0,2017-03-30 16:04:59 -0500,"['/t/css', '/t/testing']","Testing the invisible, preventing elements invisibly blocking other elements",https://medium.com/findworkco/testing-the-invisible-2ac2ccae1101,/u/twolfson,2
-0,2017-03-30 20:51:23 -0500,"['/t/javascript', '/t/nodejs']",Optimize your Node app by simply upgrading Node.js,https://blog.sqreen.io/optimize-your-node-app-by-simply-upgrading-node-js/,/u/colin,2
-8,2017-03-29 16:43:02 -0500,['/t/practices'],LaTeX Tooling Guide,http://norswap.com/latex-tooling/,/u/norswap,16
-0,2017-03-30 12:32:41 -0500,"['/t/pdf', '/t/cogsci', '/t/compsci', '/t/math']",Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model,https://arxiv.org/abs/1703.10135,/u/bsima,6
-10,2017-03-30 02:30:12 -0500,['/t/freebsd'],LionBSD,https://lionbsd.org,/u/fkr,9
-4,2017-03-30 04:59:26 -0500,"['/t/c', '/t/web']",kcgi | minimal CGI and FastCGI library for C,https://kristaps.bsd.lv/kcgi/,/u/hawski,10
-3,2017-03-30 20:20:59 -0500,"['/t/meta', '/t/satire']",Please tag your April Fool's submissions with [satire],/s/yfbv0r/please_tag_your_april_fool_s_submissions,/u/riking,4
-0,2017-03-30 13:34:52 -0500,"['/t/programming', '/t/python']",Nim For Python Programmers,http://blog.zdsmith.com/posts/nim-for-python-programmers.html,/u/zdsmith,2
-0,2017-03-30 22:36:56 -0500,"['/t/pdf', '/t/education']",Teaching Parallel and Distributed Computing Concepts Using a Meme-Based Programming Language,https://arxiv.org/pdf/1703.10242.pdf,/u/brinker,1
-0,2017-03-30 10:04:07 -0500,"['/t/networking', '/t/security']",DNSCrypt: A protocol to improve DNS security,https://dnscrypt.org/,/u/colin,6
+0,2017-03-30 11:27:02 -0500,"/t/pdf,/t/compilers,/t/java","Your next JVM: Panama, Valhalla, Metropolis",http://cr.openjdk.java.net/~jrose/pres/201703-YourNextVM.pdf,/u/sanxiyn,22
+2,2017-03-30 05:55:37 -0500,"/t/video,/t/person,/t/programming",Donald Knuth - My advice to young people,https://www.youtube.com/watch?v=75Ju0eM5T2c&list=PLVV0r6CmEsFzeNLngr1JqyQki3wdoGrCn&index=93,/u/dgv,29
+0,2017-03-30 16:35:00 -0500,/t/api,Studio Ghibli API,https://ghibliapi.herokuapp.com/,/u/colin,9
+0,2017-03-31 12:18:47 -0500,"/t/math,/t/satire",Predicting If I Had the Nerve to Ask Barry Cottonfield to the Junior Prom in 1997,https://arxiv.org/abs/1703.10449,/u/soulcutter,1
+2,2017-03-30 11:57:13 -0500,/t/math,An Intuitive (and Short) Explanation of Bayes’ Theorem,https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/,/u/pushcx,9
+1,2017-03-30 15:54:03 -0500,/t/api,Scaling your API with rate limiters,https://stripe.com/blog/rate-limiters,/u/bigdubs,5
+0,2017-03-31 00:20:15 -0500,/t/javascript,Redux Offline – Build Offline-First Apps for Web and React Native,https://github.com/jevakallio/redux-offline,/u/av,2
+0,2017-03-30 10:55:43 -0500,/t/practices,From Engineer to Manager: keeping your technical skills,https://hackernoon.com/from-engineer-to-manager-keeping-your-technical-skills-40579cc8ea00,/u/calvin,11
+0,2017-03-30 19:13:59 -0500,"/t/pdf,/t/distributed,/t/ml,/t/programming","Opis: Reliable, Distributed Systems in Ocaml (2009)",http://lara.epfl.ch/~kuncak/papers/DagandETAL09Opis.pdf,/u/nickpsecurity,4
+0,2017-03-31 08:12:22 -0500,"/t/video,/t/culture,/t/satire",Stack Overflow Introduces Dance Dance Authentication,https://www.youtube.com/watch?v=VgC4b9K-gYU,/u/colin,3
+40,2017-03-30 08:57:28 -0500,"/t/rust,/t/satire",Have you considered Rewriting It In Rust?,http://transitiontech.ca/random/RIIR,/u/jturner,27
+10,2017-03-29 19:29:10 -0500,/t/law,Lawyer's perception of open source licenses,https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html,/u/twolfson,36
+1,2017-03-30 15:09:36 -0500,"/t/video,/t/event",Libreplanet 2017 Video Presentation Archive,https://media.libreplanet.org/u/libreplanet/tag/libreplanet-2017-video/,/u/pizzaiolo,5
+0,2017-03-31 02:36:51 -0500,"/t/education,/t/hardware",The Min-T Processor,http://www.tran1.org/home,/u/qznc,1
+0,2017-03-30 09:36:21 -0500,/t/api,Some New Interesting Deep Learning Datasets for Data Scientists - ParallelDots,http://blog.paralleldots.com/data-scientist/new-deep-learning-datasets-data-scientists/,/u/Gargi,5
+0,2017-03-30 16:04:59 -0500,"/t/css,/t/testing","Testing the invisible, preventing elements invisibly blocking other elements",https://medium.com/findworkco/testing-the-invisible-2ac2ccae1101,/u/twolfson,2
+0,2017-03-30 20:51:23 -0500,"/t/javascript,/t/nodejs",Optimize your Node app by simply upgrading Node.js,https://blog.sqreen.io/optimize-your-node-app-by-simply-upgrading-node-js/,/u/colin,2
+8,2017-03-29 16:43:02 -0500,/t/practices,LaTeX Tooling Guide,http://norswap.com/latex-tooling/,/u/norswap,16
+0,2017-03-30 12:32:41 -0500,"/t/pdf,/t/cogsci,/t/compsci,/t/math",Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model,https://arxiv.org/abs/1703.10135,/u/bsima,6
+10,2017-03-30 02:30:12 -0500,/t/freebsd,LionBSD,https://lionbsd.org,/u/fkr,9
+4,2017-03-30 04:59:26 -0500,"/t/c,/t/web",kcgi | minimal CGI and FastCGI library for C,https://kristaps.bsd.lv/kcgi/,/u/hawski,10
+3,2017-03-30 20:20:59 -0500,"/t/meta,/t/satire",Please tag your April Fool's submissions with [satire],/s/yfbv0r/please_tag_your_april_fool_s_submissions,/u/riking,4
+0,2017-03-30 13:34:52 -0500,"/t/programming,/t/python",Nim For Python Programmers,http://blog.zdsmith.com/posts/nim-for-python-programmers.html,/u/zdsmith,2
+0,2017-03-30 22:36:56 -0500,"/t/pdf,/t/education",Teaching Parallel and Distributed Computing Concepts Using a Meme-Based Programming Language,https://arxiv.org/pdf/1703.10242.pdf,/u/brinker,1
+0,2017-03-30 10:04:07 -0500,"/t/networking,/t/security",DNSCrypt: A protocol to improve DNS security,https://dnscrypt.org/,/u/colin,6

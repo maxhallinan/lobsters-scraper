@@ -1,25 +1,25 @@
-0,2017-07-09 02:01:41 -0500,['/t/scala'],Using cats with reactive-kafka,http://www.iravid.com/posts/using-cats-with-reactive-kafka.html,/u/avivby,2
-1,2017-07-08 16:43:21 -0500,"['/t/distributed', '/t/science']",Locking Science Open with Decentralized Scientific Archives,http://blog.datproject.org/2017/06/21/locking-science-open/,/u/pizzaiolo,5
-6,2017-07-08 02:09:01 -0500,['/t/python'],Learn Python 3 The Hard Way Officially Released,https://blog.learncodethehardway.com/2017/07/07/learn-python-3-the-hard-way-officially-released/,/u/quobit,15
-3,2017-07-08 11:18:38 -0500,"['/t/ai', '/t/linux', '/t/python']",Mycroft Artificial Intelligence,https://mycroft.ai/,/u/nil,5
-0,2017-07-08 15:31:53 -0500,['/t/elixir'],Debugging Mix Dependencies Locally,http://joeellis.la/debugging-mix-dependencies-locally/,/u/notjoeellis,2
-0,2017-07-08 15:36:30 -0500,"['/t/databases', '/t/release']","Diskhash: Disk-based, persistent hash tables",https://metarabbit.wordpress.com/2017/06/30/ann-diskhash-disk-based-persistent-hash-tables/,/u/pushcx,4
-0,2017-07-08 17:40:45 -0500,"['/t/pdf', '/t/security']",Reviving Instruction Set Randomization,https://cs.brown.edu/~vpk/papers/polyglot.host17.pdf,/u/fro,3
-17,2017-07-07 14:24:04 -0500,['/t/web'],"Tim Berners-Lee approves Web DRM, but W3C member organizations have two weeks to appeal",https://defectivebydesign.org/blog/tim_bernerslee_approves_web_drm_w3c_member_organizations_have_two_weeks_appeal,/u/pizzaiolo,28
-1,2017-07-08 11:05:50 -0500,['/t/hardware'],Mozilla launches Project Things IoT framework on Raspberry Pi,http://linuxgizmos.com/mozilla-launches-project-things-iot-framework-on-raspberry-pi/,/u/pizzaiolo,4
-2,2017-07-07 14:46:05 -0500,['/t/person'],Roland McGrath - I'm already gone,https://sourceware.org/ml/libc-alpha/2017-07/msg00281.html,/u/sajith,39
-0,2017-07-08 06:44:36 -0500,"['/t/debugging', '/t/linux']",Linux tracing systems & how they fit together,https://jvns.ca/blog/2017/07/05/linux-tracing-systems/,/u/calvin,9
-0,2017-07-08 17:56:06 -0500,"['/t/distributed', '/t/formalmethods', '/t/programming']",Moderately Complex Paxos Made Simple: High-Level Specification of Distributed Algorithm (2017),https://arxiv.org/abs/1704.00082,/u/nickpsecurity,2
-0,2017-07-08 15:21:10 -0500,"['/t/compsci', '/t/programming']",EXACT STRING MATCHING ALGORITHMS,http://www-igm.univ-mlv.fr/~lecroq/string/,/u/rain1,2
-1,2017-07-08 10:21:29 -0500,['/t/devops'],Docker Compose: Wait for Dependencies,https://8thlight.com/blog/dariusz-pasciak/2016/10/17/docker-compose-wait-for-dependencies.html,/u/unbalancedparentheses,2
-7,2017-07-07 16:45:49 -0500,['/t/release'],Irssi 1.0.4 Released,https://irssi.org/2017/07/07/irssi-1.0.4-released/,/u/mischa,13
-3,2017-07-07 14:58:49 -0500,"['/t/person', '/t/security']",I Got Hacked and All I Got Was This New SIM Card,https://carpeaqua.com/2017/07/07/hack-the-planet/,/u/jcs,21
-2,2017-07-07 22:41:38 -0500,"['/t/compsci', '/t/networking', '/t/programming']",Two Perspectives on the End-to-End Principle,https://blog.nelhage.com/post/end-to-end-principle/,/u/kartik,6
-0,2017-07-07 14:07:54 -0500,"['/t/games', '/t/historical']",How I Managed to Design the Most Successful Educational Computer Game of All Time,https://medium.com/the-philipendium/how-i-managed-to-design-the-most-successful-educational-computer-game-of-all-time-4626ea09e184,/u/hwayne,26
-0,2017-07-08 13:13:25 -0500,"['/t/lisp', '/t/web']",The Re-Frame Guide: Front-End Architecture in Clojure,https://purelyfunctional.tv/guide/re-frame-building-blocks/,/u/Yogthos,1
-0,2017-07-08 09:20:29 -0500,"['/t/pdf', '/t/slides', '/t/video', '/t/event', '/t/programming']","Videos, Slides and Photos PharoDays17",http://pharo.org/news/PharoDays2017Photos,/u/sevan,2
-4,2017-07-07 10:11:06 -0500,"['/t/hardware', '/t/programming']",Spaghetti Sort,https://en.m.wikipedia.org/wiki/Spaghetti_sort,/u/nickpsecurity,18
-1,2017-07-07 18:04:28 -0500,"['/t/python', '/t/web']",Django vs Flask,http://www.git-pull.com/code_explorer/django-vs-flask.html,/u/pushcx,12
-0,2017-07-08 00:45:19 -0500,"['/t/slides', '/t/graphics']",Rendering of Call of Duty: Infinite Warfare,https://research.activision.com/t5/Research-Blog-Hidden/Rendering-of-Call-of-Duty-Infinite-Warfare/ba-p/10308283,/u/mikejsavage,5
-7,2017-07-07 13:00:08 -0500,"['/t/show', '/t/programming']",We've been producing a weekly developer news email for 16 weeks now. Feedback?,https://www.dailydrip.com/blog/weekly-drip-016-1-data-structures-old-programmers-better-programmers-and-google-docs-hacks,/u/knewter,4
-3,2017-07-07 11:13:00 -0500,"['/t/hardware', '/t/release']",Fifteen new devices from Technoethical now FSF-certified to respect your freedom,https://www.fsf.org/blogs/licensing/fifteen-new-devices-from-technoethical-now-fsf-certified-to-respect-your-freedom,/u/pizzaiolo,12
+0,2017-07-09 02:01:41 -0500,/t/scala,Using cats with reactive-kafka,http://www.iravid.com/posts/using-cats-with-reactive-kafka.html,/u/avivby,2
+1,2017-07-08 16:43:21 -0500,"/t/distributed,/t/science",Locking Science Open with Decentralized Scientific Archives,http://blog.datproject.org/2017/06/21/locking-science-open/,/u/pizzaiolo,5
+6,2017-07-08 02:09:01 -0500,/t/python,Learn Python 3 The Hard Way Officially Released,https://blog.learncodethehardway.com/2017/07/07/learn-python-3-the-hard-way-officially-released/,/u/quobit,15
+3,2017-07-08 11:18:38 -0500,"/t/ai,/t/linux,/t/python",Mycroft Artificial Intelligence,https://mycroft.ai/,/u/nil,5
+0,2017-07-08 15:31:53 -0500,/t/elixir,Debugging Mix Dependencies Locally,http://joeellis.la/debugging-mix-dependencies-locally/,/u/notjoeellis,2
+0,2017-07-08 15:36:30 -0500,"/t/databases,/t/release","Diskhash: Disk-based, persistent hash tables",https://metarabbit.wordpress.com/2017/06/30/ann-diskhash-disk-based-persistent-hash-tables/,/u/pushcx,4
+0,2017-07-08 17:40:45 -0500,"/t/pdf,/t/security",Reviving Instruction Set Randomization,https://cs.brown.edu/~vpk/papers/polyglot.host17.pdf,/u/fro,3
+17,2017-07-07 14:24:04 -0500,/t/web,"Tim Berners-Lee approves Web DRM, but W3C member organizations have two weeks to appeal",https://defectivebydesign.org/blog/tim_bernerslee_approves_web_drm_w3c_member_organizations_have_two_weeks_appeal,/u/pizzaiolo,28
+1,2017-07-08 11:05:50 -0500,/t/hardware,Mozilla launches Project Things IoT framework on Raspberry Pi,http://linuxgizmos.com/mozilla-launches-project-things-iot-framework-on-raspberry-pi/,/u/pizzaiolo,4
+2,2017-07-07 14:46:05 -0500,/t/person,Roland McGrath - I'm already gone,https://sourceware.org/ml/libc-alpha/2017-07/msg00281.html,/u/sajith,39
+0,2017-07-08 06:44:36 -0500,"/t/debugging,/t/linux",Linux tracing systems & how they fit together,https://jvns.ca/blog/2017/07/05/linux-tracing-systems/,/u/calvin,9
+0,2017-07-08 17:56:06 -0500,"/t/distributed,/t/formalmethods,/t/programming",Moderately Complex Paxos Made Simple: High-Level Specification of Distributed Algorithm (2017),https://arxiv.org/abs/1704.00082,/u/nickpsecurity,2
+0,2017-07-08 15:21:10 -0500,"/t/compsci,/t/programming",EXACT STRING MATCHING ALGORITHMS,http://www-igm.univ-mlv.fr/~lecroq/string/,/u/rain1,2
+1,2017-07-08 10:21:29 -0500,/t/devops,Docker Compose: Wait for Dependencies,https://8thlight.com/blog/dariusz-pasciak/2016/10/17/docker-compose-wait-for-dependencies.html,/u/unbalancedparentheses,2
+7,2017-07-07 16:45:49 -0500,/t/release,Irssi 1.0.4 Released,https://irssi.org/2017/07/07/irssi-1.0.4-released/,/u/mischa,13
+3,2017-07-07 14:58:49 -0500,"/t/person,/t/security",I Got Hacked and All I Got Was This New SIM Card,https://carpeaqua.com/2017/07/07/hack-the-planet/,/u/jcs,21
+2,2017-07-07 22:41:38 -0500,"/t/compsci,/t/networking,/t/programming",Two Perspectives on the End-to-End Principle,https://blog.nelhage.com/post/end-to-end-principle/,/u/kartik,6
+0,2017-07-07 14:07:54 -0500,"/t/games,/t/historical",How I Managed to Design the Most Successful Educational Computer Game of All Time,https://medium.com/the-philipendium/how-i-managed-to-design-the-most-successful-educational-computer-game-of-all-time-4626ea09e184,/u/hwayne,26
+0,2017-07-08 13:13:25 -0500,"/t/lisp,/t/web",The Re-Frame Guide: Front-End Architecture in Clojure,https://purelyfunctional.tv/guide/re-frame-building-blocks/,/u/Yogthos,1
+0,2017-07-08 09:20:29 -0500,"/t/pdf,/t/slides,/t/video,/t/event,/t/programming","Videos, Slides and Photos PharoDays17",http://pharo.org/news/PharoDays2017Photos,/u/sevan,2
+4,2017-07-07 10:11:06 -0500,"/t/hardware,/t/programming",Spaghetti Sort,https://en.m.wikipedia.org/wiki/Spaghetti_sort,/u/nickpsecurity,18
+1,2017-07-07 18:04:28 -0500,"/t/python,/t/web",Django vs Flask,http://www.git-pull.com/code_explorer/django-vs-flask.html,/u/pushcx,12
+0,2017-07-08 00:45:19 -0500,"/t/slides,/t/graphics",Rendering of Call of Duty: Infinite Warfare,https://research.activision.com/t5/Research-Blog-Hidden/Rendering-of-Call-of-Duty-Infinite-Warfare/ba-p/10308283,/u/mikejsavage,5
+7,2017-07-07 13:00:08 -0500,"/t/show,/t/programming",We've been producing a weekly developer news email for 16 weeks now. Feedback?,https://www.dailydrip.com/blog/weekly-drip-016-1-data-structures-old-programmers-better-programmers-and-google-docs-hacks,/u/knewter,4
+3,2017-07-07 11:13:00 -0500,"/t/hardware,/t/release",Fifteen new devices from Technoethical now FSF-certified to respect your freedom,https://www.fsf.org/blogs/licensing/fifteen-new-devices-from-technoethical-now-fsf-certified-to-respect-your-freedom,/u/pizzaiolo,12

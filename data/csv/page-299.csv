@@ -1,25 +1,25 @@
-0,2017-07-09 19:27:41 -0500,"['/t/pdf', '/t/programming', '/t/security']",A Study of Overﬂow Vulnerabilities on GPUs,https://www.aimlab.org/haochen/papers/npc16-overflow.pdf,/u/calvin,4
-1,2017-07-09 11:19:45 -0500,"['/t/video', '/t/historical', '/t/security']",Stasi Training Video: Clandestine Apartment Search,https://www.youtube.com/watch?v=Bba3tryTJbs,/u/friendlysock,8
-0,2017-07-09 20:58:13 -0500,"['/t/cryptocurrencies', '/t/databases', '/t/finance']","Analyzing Ethereum, Bitcoin, and 1200+ other Cryptocurrencies using PostgreSQL",https://blog.timescale.com/analyzing-ethereum-bitcoin-and-1200-cryptocurrencies-using-postgresql-3958b3662e51,/u/calvin,3
-5,2017-07-09 03:05:42 -0500,"['/t/programming', '/t/testing']",Testing Bash applications,https://medium.com/wemake-services/testing-bash-applications-85512e7fe2de,/u/sobolevn,7
-0,2017-07-09 17:53:34 -0500,"['/t/devops', '/t/games']","Pterodactyl/Panel -- free, open-source, game agnostic, self-hosted control panel for game servers",https://github.com/Pterodactyl/Panel,/u/friendlysock,3
-0,2017-07-09 08:47:21 -0500,"['/t/hardware', '/t/historical']",Multics Simulator,http://multicians.org/simulator.html,/u/sevan,9
-1,2017-07-09 07:06:37 -0500,"['/t/graphics', '/t/visualization']",Image formats comparison,http://wyohknott.github.io/image-formats-comparison/,/u/calvin,8
-1,2017-07-09 13:31:00 -0500,['/t/satire'],HORG,http://www.horg.com/horg/,/u/zdsmith,7
-6,2017-07-08 17:15:14 -0500,"['/t/linux', '/t/practices']",What happened to Steam Machines?,http://www.pcgamer.com/what-happened-to-steam-machines/,/u/calvin,18
-1,2017-07-09 07:51:11 -0500,"['/t/hardware', '/t/netbsd']",Porting NetBSD to Allwinner H3 SoCs,http://blog.netbsd.org/tnf/entry/porting_netbsd_to_allwinner_h3,/u/sevan,5
-0,2017-07-09 06:52:01 -0500,['/t/programming'],Haiku monthly activity report - 06/2017,https://www.haiku-os.org/blog/pulkomandy/2017-07-03_haiku_monthly_activity_report_june_2017/,/u/calvin,5
-1,2017-07-08 21:02:05 -0500,"['/t/historical', '/t/networking']","My Space Shuttle story, for Catherine...",https://www.facebook.com/notes/howard-chu/my-space-shuttle-story-for-catherine/109922698035/,/u/pushcx,13
-1,2017-07-09 07:51:35 -0500,"['/t/ai', '/t/python']",Reconstructing pictures with machine learning,http://arogozhnikov.github.io/2016/02/09/DrawingPictureWithML.html,/u/calvin,3
-0,2017-07-09 12:11:22 -0500,"['/t/video', '/t/compsci', '/t/javascript']",10 Common Data Structures Explained with Videos + Exercises,https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b,/u/pushcx,2
-6,2017-07-08 21:14:14 -0500,"['/t/android', '/t/ios', '/t/security']",Broadpwn Bug Affects Millions of Android and iOS Devices,https://www.bleepingcomputer.com/news/security/broadpwn-bug-affects-millions-of-android-and-ios-devices/,/u/pushcx,6
-21,2017-07-08 03:27:16 -0500,"['/t/compsci', '/t/programming']",Where do Type Systems Come From?,http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from,/u/philix,23
-11,2017-07-08 07:14:54 -0500,['/t/web'],URLs are UI,https://www.hanselman.com/blog/URLsAreUI.aspx,/u/awal,33
-0,2017-07-08 20:25:50 -0500,['/t/programming'],Minimal PDF (2014),https://brendanzagaeski.appspot.com/0004.html,/u/pushcx,10
-3,2017-07-08 14:24:40 -0500,['/t/go'],Survey of Rounding Implementations in Go,https://www.cockroachlabs.com/blog/rounding-implementations-in-go/,/u/mjn,15
-0,2017-07-09 04:47:18 -0500,['/t/javascript'],3 Code Splitting Patterns For VueJS and Webpack,http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/?jsdojo_id=lob_csp,/u/anthonygore,1
-0,2017-07-08 21:01:42 -0500,['/t/css'],What's the Deal with Collapsible Margins?,https://bitsofco.de/collapsible-margins/,/u/pushcx,7
-0,2017-07-08 18:54:46 -0500,"['/t/event', '/t/netbsd', '/t/unix']",pkgsrcCon 2017 report,http://blog.netbsd.org/tnf/entry/pkgsrccon_2017_report,/u/sevan,4
-0,2017-07-09 15:20:38 -0500,"['/t/games', '/t/historical']",OHRRPGCE: Official Hamster Republic Role Playing Game Construction Engine,http://rpg.hamsterrepublic.com/ohrrpgce/Main_Page,/u/mabynogy,0
-3,2017-07-08 15:00:05 -0500,"['/t/distributed', '/t/privacy']","Onion Routed Cloud, a distributed, anonymous, object storage platform",https://orc.network/,/u/pizzaiolo,6
-20,2017-07-07 08:44:51 -0500,['/t/practices'],"Don’t crank out code at 2AM, especially if you’re the CTO",https://codewithoutrules.com/2017/07/07/dont-code-at-2am/,/u/itamarst,64
+0,2017-07-09 19:27:41 -0500,"/t/pdf,/t/programming,/t/security",A Study of Overﬂow Vulnerabilities on GPUs,https://www.aimlab.org/haochen/papers/npc16-overflow.pdf,/u/calvin,4
+1,2017-07-09 11:19:45 -0500,"/t/video,/t/historical,/t/security",Stasi Training Video: Clandestine Apartment Search,https://www.youtube.com/watch?v=Bba3tryTJbs,/u/friendlysock,8
+0,2017-07-09 20:58:13 -0500,"/t/cryptocurrencies,/t/databases,/t/finance","Analyzing Ethereum, Bitcoin, and 1200+ other Cryptocurrencies using PostgreSQL",https://blog.timescale.com/analyzing-ethereum-bitcoin-and-1200-cryptocurrencies-using-postgresql-3958b3662e51,/u/calvin,3
+5,2017-07-09 03:05:42 -0500,"/t/programming,/t/testing",Testing Bash applications,https://medium.com/wemake-services/testing-bash-applications-85512e7fe2de,/u/sobolevn,7
+0,2017-07-09 17:53:34 -0500,"/t/devops,/t/games","Pterodactyl/Panel -- free, open-source, game agnostic, self-hosted control panel for game servers",https://github.com/Pterodactyl/Panel,/u/friendlysock,3
+0,2017-07-09 08:47:21 -0500,"/t/hardware,/t/historical",Multics Simulator,http://multicians.org/simulator.html,/u/sevan,9
+1,2017-07-09 07:06:37 -0500,"/t/graphics,/t/visualization",Image formats comparison,http://wyohknott.github.io/image-formats-comparison/,/u/calvin,8
+1,2017-07-09 13:31:00 -0500,/t/satire,HORG,http://www.horg.com/horg/,/u/zdsmith,7
+6,2017-07-08 17:15:14 -0500,"/t/linux,/t/practices",What happened to Steam Machines?,http://www.pcgamer.com/what-happened-to-steam-machines/,/u/calvin,18
+1,2017-07-09 07:51:11 -0500,"/t/hardware,/t/netbsd",Porting NetBSD to Allwinner H3 SoCs,http://blog.netbsd.org/tnf/entry/porting_netbsd_to_allwinner_h3,/u/sevan,5
+0,2017-07-09 06:52:01 -0500,/t/programming,Haiku monthly activity report - 06/2017,https://www.haiku-os.org/blog/pulkomandy/2017-07-03_haiku_monthly_activity_report_june_2017/,/u/calvin,5
+1,2017-07-08 21:02:05 -0500,"/t/historical,/t/networking","My Space Shuttle story, for Catherine...",https://www.facebook.com/notes/howard-chu/my-space-shuttle-story-for-catherine/109922698035/,/u/pushcx,13
+1,2017-07-09 07:51:35 -0500,"/t/ai,/t/python",Reconstructing pictures with machine learning,http://arogozhnikov.github.io/2016/02/09/DrawingPictureWithML.html,/u/calvin,3
+0,2017-07-09 12:11:22 -0500,"/t/video,/t/compsci,/t/javascript",10 Common Data Structures Explained with Videos + Exercises,https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b,/u/pushcx,2
+6,2017-07-08 21:14:14 -0500,"/t/android,/t/ios,/t/security",Broadpwn Bug Affects Millions of Android and iOS Devices,https://www.bleepingcomputer.com/news/security/broadpwn-bug-affects-millions-of-android-and-ios-devices/,/u/pushcx,6
+21,2017-07-08 03:27:16 -0500,"/t/compsci,/t/programming",Where do Type Systems Come From?,http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from,/u/philix,23
+11,2017-07-08 07:14:54 -0500,/t/web,URLs are UI,https://www.hanselman.com/blog/URLsAreUI.aspx,/u/awal,33
+0,2017-07-08 20:25:50 -0500,/t/programming,Minimal PDF (2014),https://brendanzagaeski.appspot.com/0004.html,/u/pushcx,10
+3,2017-07-08 14:24:40 -0500,/t/go,Survey of Rounding Implementations in Go,https://www.cockroachlabs.com/blog/rounding-implementations-in-go/,/u/mjn,15
+0,2017-07-09 04:47:18 -0500,/t/javascript,3 Code Splitting Patterns For VueJS and Webpack,http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/?jsdojo_id=lob_csp,/u/anthonygore,1
+0,2017-07-08 21:01:42 -0500,/t/css,What's the Deal with Collapsible Margins?,https://bitsofco.de/collapsible-margins/,/u/pushcx,7
+0,2017-07-08 18:54:46 -0500,"/t/event,/t/netbsd,/t/unix",pkgsrcCon 2017 report,http://blog.netbsd.org/tnf/entry/pkgsrccon_2017_report,/u/sevan,4
+0,2017-07-09 15:20:38 -0500,"/t/games,/t/historical",OHRRPGCE: Official Hamster Republic Role Playing Game Construction Engine,http://rpg.hamsterrepublic.com/ohrrpgce/Main_Page,/u/mabynogy,0
+3,2017-07-08 15:00:05 -0500,"/t/distributed,/t/privacy","Onion Routed Cloud, a distributed, anonymous, object storage platform",https://orc.network/,/u/pizzaiolo,6
+20,2017-07-07 08:44:51 -0500,/t/practices,"Don’t crank out code at 2AM, especially if you’re the CTO",https://codewithoutrules.com/2017/07/07/dont-code-at-2am/,/u/itamarst,64

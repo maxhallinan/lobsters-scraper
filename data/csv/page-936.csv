@@ -1,25 +1,25 @@
-0,2015-12-20 16:59:44 -0600,['/t/design'],Open source is ugly: Improving UI and UX,https://opensource.com/life/15/9/ato-interview-garth-braithwaite,/u/calvin,7
-0,2015-12-20 08:29:12 -0600,['/t/math'],Graph Three Colouring,http://www.solipsys.co.uk/new/GraphThreeColouring.html?L_20151220,/u/RiderOfGiraffes,9
-1,2015-12-21 06:45:13 -0600,"['/t/culture', '/t/design']",Open Design Foundation,http://opendesign.foundation/,/u/kel,2
-0,2015-12-20 10:24:46 -0600,['/t/games'],"You should make a Doom level, part 1: the basics",http://eev.ee/blog/2015/12/19/you-should-make-a-doom-level-part-1/,/u/pushcx,12
-30,2015-12-19 18:30:32 -0600,"['/t/go', '/t/scala']",Moving a team from Scala to Golang,http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/,/u/haxor,31
-0,2015-12-20 09:52:53 -0600,"['/t/security', '/t/web']",Taking Let's Encrypt for a Spin,https://timkadlec.com/2015/12/taking-lets-encrypt-for-a-spin/,/u/adsouza,9
-10,2015-12-19 18:28:59 -0600,"['/t/practices', '/t/programming']",About Those Lava Lamps,https://gist.github.com/marick/3ec112bc38b2af267e15,/u/joshuacc,29
-0,2015-12-19 22:41:14 -0600,['/t/compilers'],Safe Native Code,http://joeduffyblog.com/2015/12/19/safe-native-code/,/u/jrick,18
-1,2015-12-20 10:56:31 -0600,"['/t/ruby', '/t/testing']",In-Memory Fake Adapters,http://blog.arkency.com/2015/12/in-memory-fake-adapters/,/u/pushcx,3
-0,2015-12-20 15:42:27 -0600,"['/t/pdf', '/t/cogsci']",New Technologies and Mixed-Use Convergence - How Humans and Algorithms are Adapting to Each Other,http://posr.org/w/images/b/b5/Applin_Fischer_IEEE_ISTAS_2015_PREPUB_DRAFT.pdf,/u/james,2
-0,2015-12-20 10:45:17 -0600,['/t/hardware'],Soundproofing for New York Noise,http://www.nytimes.com/2015/12/13/realestate/soundproofing-for-new-york-noise.html,/u/pushcx,4
-6,2015-12-20 05:17:21 -0600,"['/t/cogsci', '/t/philosophy']",Who Will Choose AI’s Ethical Code?,http://www.technologyreview.com/news/544556/what-will-it-take-to-build-a-virtuous-ai/,/u/james,3
-0,2015-12-20 11:02:35 -0600,['/t/practices'],Why Are Projects Always Behind Schedule?,http://priceonomics.com/why-are-projects-always-behind-schedule/,/u/pushcx,3
-1,2015-12-19 16:08:38 -0600,['/t/unix'],Ulix OS -- The Literate Operating System,http://ulixos.org/,/u/tokenrove,26
-0,2015-12-20 10:38:39 -0600,['/t/haskell'],Haskell Basics: How to Loop,http://andyfriesen.com/2015/12/18/haskell-basics-how-to-loop.html,/u/pushcx,3
-0,2015-12-20 12:48:21 -0600,"['/t/security', '/t/vcs']",Software Configuration Management (SCM) Security (2011),http://www.dwheeler.com/essays/scm-security.html,/u/355E3B,2
-0,2015-12-20 12:42:41 -0600,"['/t/video', '/t/ruby']",Rails 5: Action Cable demo,https://www.youtube.com/watch?v=n0WUjGkDFS0,/u/355E3B,2
-0,2015-12-19 21:30:11 -0600,"['/t/event', '/t/programming']",LambdaConf 2016 CFP open: all topics in FP welcome,https://www.surveymonkey.com/r/lambdaconf-2016-cfp,/u/jdegoes,7
-2,2015-12-19 15:57:04 -0600,['/t/lisp'],Clojure Design Patterns,http://mishadoff.com/blog/clojure-design-patterns/,/u/bowmanb,16
-0,2015-12-20 10:57:31 -0600,"['/t/practices', '/t/security']",A decisionmaker's guide to buying security appliances and gateways,http://addxorrol.blogspot.com/2015/12/a-decisionmakers-guide-to-buying.html,/u/pushcx,2
-4,2015-12-19 11:29:07 -0600,"['/t/android', '/t/distributed', '/t/release']",Rumble: An internetless microblog,http://disruptedsystems.org/,/u/alek,14
-0,2015-12-19 09:31:58 -0600,"['/t/emacs', '/t/unix']",Reading offline in batches with Org Mode,http://blog.garage-coding.com/2015/12/12/offline-reading-setup.html,/u/wsdookadr,12
-1,2015-12-19 09:30:06 -0600,"['/t/databases', '/t/python']",Postgres full-text search,http://blog.garage-coding.com/2015/12/18/postgres-fulltext-search.html,/u/wsdookadr,7
-0,2015-12-19 07:32:27 -0600,"['/t/reversing', '/t/security']","Hacking the PS4, part 3 - Kernel exploitation",https://cturt.github.io/ps4-3.html,/u/calvin,17
-0,2015-12-19 08:12:45 -0600,"['/t/compsci', '/t/programming']",Rewriting as a Computational Paradigm,http://www.freefour.com/rewriting-as-a-computational-paradigm/,/u/apg,12
+0,2015-12-20 16:59:44 -0600,/t/design,Open source is ugly: Improving UI and UX,https://opensource.com/life/15/9/ato-interview-garth-braithwaite,/u/calvin,7
+0,2015-12-20 08:29:12 -0600,/t/math,Graph Three Colouring,http://www.solipsys.co.uk/new/GraphThreeColouring.html?L_20151220,/u/RiderOfGiraffes,9
+1,2015-12-21 06:45:13 -0600,"/t/culture,/t/design",Open Design Foundation,http://opendesign.foundation/,/u/kel,2
+0,2015-12-20 10:24:46 -0600,/t/games,"You should make a Doom level, part 1: the basics",http://eev.ee/blog/2015/12/19/you-should-make-a-doom-level-part-1/,/u/pushcx,12
+30,2015-12-19 18:30:32 -0600,"/t/go,/t/scala",Moving a team from Scala to Golang,http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/,/u/haxor,31
+0,2015-12-20 09:52:53 -0600,"/t/security,/t/web",Taking Let's Encrypt for a Spin,https://timkadlec.com/2015/12/taking-lets-encrypt-for-a-spin/,/u/adsouza,9
+10,2015-12-19 18:28:59 -0600,"/t/practices,/t/programming",About Those Lava Lamps,https://gist.github.com/marick/3ec112bc38b2af267e15,/u/joshuacc,29
+0,2015-12-19 22:41:14 -0600,/t/compilers,Safe Native Code,http://joeduffyblog.com/2015/12/19/safe-native-code/,/u/jrick,18
+1,2015-12-20 10:56:31 -0600,"/t/ruby,/t/testing",In-Memory Fake Adapters,http://blog.arkency.com/2015/12/in-memory-fake-adapters/,/u/pushcx,3
+0,2015-12-20 15:42:27 -0600,"/t/pdf,/t/cogsci",New Technologies and Mixed-Use Convergence - How Humans and Algorithms are Adapting to Each Other,http://posr.org/w/images/b/b5/Applin_Fischer_IEEE_ISTAS_2015_PREPUB_DRAFT.pdf,/u/james,2
+0,2015-12-20 10:45:17 -0600,/t/hardware,Soundproofing for New York Noise,http://www.nytimes.com/2015/12/13/realestate/soundproofing-for-new-york-noise.html,/u/pushcx,4
+6,2015-12-20 05:17:21 -0600,"/t/cogsci,/t/philosophy",Who Will Choose AI’s Ethical Code?,http://www.technologyreview.com/news/544556/what-will-it-take-to-build-a-virtuous-ai/,/u/james,3
+0,2015-12-20 11:02:35 -0600,/t/practices,Why Are Projects Always Behind Schedule?,http://priceonomics.com/why-are-projects-always-behind-schedule/,/u/pushcx,3
+1,2015-12-19 16:08:38 -0600,/t/unix,Ulix OS -- The Literate Operating System,http://ulixos.org/,/u/tokenrove,26
+0,2015-12-20 10:38:39 -0600,/t/haskell,Haskell Basics: How to Loop,http://andyfriesen.com/2015/12/18/haskell-basics-how-to-loop.html,/u/pushcx,3
+0,2015-12-20 12:48:21 -0600,"/t/security,/t/vcs",Software Configuration Management (SCM) Security (2011),http://www.dwheeler.com/essays/scm-security.html,/u/355E3B,2
+0,2015-12-20 12:42:41 -0600,"/t/video,/t/ruby",Rails 5: Action Cable demo,https://www.youtube.com/watch?v=n0WUjGkDFS0,/u/355E3B,2
+0,2015-12-19 21:30:11 -0600,"/t/event,/t/programming",LambdaConf 2016 CFP open: all topics in FP welcome,https://www.surveymonkey.com/r/lambdaconf-2016-cfp,/u/jdegoes,7
+2,2015-12-19 15:57:04 -0600,/t/lisp,Clojure Design Patterns,http://mishadoff.com/blog/clojure-design-patterns/,/u/bowmanb,16
+0,2015-12-20 10:57:31 -0600,"/t/practices,/t/security",A decisionmaker's guide to buying security appliances and gateways,http://addxorrol.blogspot.com/2015/12/a-decisionmakers-guide-to-buying.html,/u/pushcx,2
+4,2015-12-19 11:29:07 -0600,"/t/android,/t/distributed,/t/release",Rumble: An internetless microblog,http://disruptedsystems.org/,/u/alek,14
+0,2015-12-19 09:31:58 -0600,"/t/emacs,/t/unix",Reading offline in batches with Org Mode,http://blog.garage-coding.com/2015/12/12/offline-reading-setup.html,/u/wsdookadr,12
+1,2015-12-19 09:30:06 -0600,"/t/databases,/t/python",Postgres full-text search,http://blog.garage-coding.com/2015/12/18/postgres-fulltext-search.html,/u/wsdookadr,7
+0,2015-12-19 07:32:27 -0600,"/t/reversing,/t/security","Hacking the PS4, part 3 - Kernel exploitation",https://cturt.github.io/ps4-3.html,/u/calvin,17
+0,2015-12-19 08:12:45 -0600,"/t/compsci,/t/programming",Rewriting as a Computational Paradigm,http://www.freefour.com/rewriting-as-a-computational-paradigm/,/u/apg,12

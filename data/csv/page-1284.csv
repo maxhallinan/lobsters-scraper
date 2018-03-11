@@ -1,25 +1,25 @@
-0,2014-07-23 07:56:30 -0500,['/t/job'],LanceList - A directory of ways for freelancers to find work,http://lancelist.com,/u/stevejalim,1
-2,2014-07-22 12:04:11 -0500,['/t/distributed'],Readings in conflict-free replicated data types,http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html,/u/cmeiklejohn,11
-0,2014-07-23 07:15:58 -0500,"['/t/android', '/t/ios', '/t/mobile']",Device Mirroring Options for Mobile Developers,http://developer.telerik.com/featured/mirroring-options-mobile-developers/,/u/remotesynth,1
-0,2014-07-22 09:21:46 -0500,"['/t/compsci', '/t/ml', '/t/programming', '/t/virtualization']",Mirage v2.0: a recap of the new features,http://openmirage.org/blog/announcing-mirage-20-release,/u/BruceM,14
-0,2014-07-22 11:12:36 -0500,"['/t/c', '/t/security']",ELF Research Projects,http://bitlackeys.org/#research,/u/lattera,11
-0,2014-07-22 10:48:28 -0500,"['/t/api', '/t/javascript']",A Tour of Transit,http://cognitect.github.io/transit-tour/,/u/jamesmacaulay,9
-10,2014-07-22 00:52:42 -0500,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/programming', '/t/scaling']",Crash-only Software,https://www.usenix.org/legacy/events/hotos03/tech/full_papers/candea/candea.pdf,/u/apy,14
-0,2014-07-22 23:45:06 -0500,"['/t/pdf', '/t/security']",How to manipulate curve standards: a white paper for the black hat,http://safecurves.cr.yp.to/bada55/bada55-20140722.pdf,/u/kyle,1
-4,2014-07-22 12:22:42 -0500,"['/t/mobile', '/t/practices']",Backend as a Service,https://blog.engineyard.com/2014/backend-as-a-service,/u/nslater,1
-0,2014-07-22 11:30:40 -0500,['/t/compsci'],Virtual Apollo Guidance Computer,http://www.ibiblio.org/apollo/,/u/jm,5
-3,2014-07-21 21:57:12 -0500,"['/t/distributed', '/t/hardware']",1 second per second is harder than it sounds,https://rachelbythebay.com/w/2014/06/14/time/,/u/pushcx,19
-0,2014-07-22 10:54:01 -0500,"['/t/ruby', '/t/scaling']",Kafka Producer Pipeline for Ruby on Rails,http://www.shopify.com/technology/14909841-kafka-producer-pipeline-for-ruby-on-rails,/u/csaunders,5
-0,2014-07-22 07:42:07 -0500,"['/t/video', '/t/haskell', '/t/python']",What can Python learn from Haskell?,https://www.youtube.com/watch?v=eVChXmNjV7o,/u/wting,6
-0,2014-07-22 18:39:15 -0500,['/t/c'],Spotlight on libraries relying on C++14,http://cpprocks.com/spotlight-on-libraries-relying-on-c14/,/u/alexkorban,1
-0,2014-07-22 10:02:59 -0500,"['/t/compilers', '/t/programming', '/t/rust']",Embedding and Customizing the Rust compiler,http://brson.github.io/2014/07/21/embedding-rustc/,/u/steveklabnik,3
-0,2014-07-22 07:26:56 -0500,"['/t/python', '/t/windows']",Stop struggling with Python on Windows,http://pythonforengineers.com/stop-struggling-with-python-on-windows,/u/Pyskool,4
-0,2014-07-22 09:32:33 -0500,"['/t/culture', '/t/release']","I made a patch for Mozilla, and you can do it too",http://marti.us/w/2014-07-19-Mozilla-BSP.html,/u/daGrevis,6
-6,2014-07-21 16:38:24 -0500,"['/t/distributed', '/t/release']",Riak 2.0.0 RC1,http://lists.basho.com/pipermail/riak-users_lists.basho.com/2014-July/015556.html,/u/cmeiklejohn,8
-0,2014-07-22 12:59:56 -0500,"['/t/compsci', '/t/distributed', '/t/release']","Transit: Efficient, schema-optional serialization format",http://blog.cognitect.com/blog/2014/7/22/transit,/u/pushcx,1
-7,2014-07-21 12:36:49 -0500,"['/t/scaling', '/t/web']","StackOverflow Update: 560M Pageviews a Month, 25 Servers",http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html,/u/pushcx,9
-0,2014-07-22 08:03:14 -0500,"['/t/dotnet', '/t/web']",Server Side Responsive Layouts in ASP.NET AJAX,http://developer.telerik.com/featured/server-side-responsive-layouts-asp-net-ajax/,/u/remotesynth,1
-49,2014-07-21 12:41:07 -0500,['/t/ask'],What are you working on this week?,/s/4fwvcf/what_are_you_working_on_this_week,/u/zhemao,22
-0,2014-07-21 15:05:20 -0500,"['/t/programming', '/t/rust']",Compiling Rust for the Rasberry Pi,http://metaverse.fr/blog/compiling-rust-for-the-raspberry-pi/,/u/steveklabnik,7
-0,2014-07-21 10:32:33 -0500,"['/t/elm', '/t/javascript', '/t/web']",Blazing Fast HTML: Virtual DOM in Elm,http://elm-lang.org/blog/Blazing-Fast-Html.elm,/u/jamesmacaulay,11
-0,2014-07-21 22:36:32 -0500,"['/t/haskell', '/t/programming']",FsCheck + XUnit = The Bomb,http://www.clear-lines.com/blog/post/FsCheck-and-XUnit-is-The-Bomb.aspx,/u/pushcx,2
+0,2014-07-23 07:56:30 -0500,/t/job,LanceList - A directory of ways for freelancers to find work,http://lancelist.com,/u/stevejalim,1
+2,2014-07-22 12:04:11 -0500,/t/distributed,Readings in conflict-free replicated data types,http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html,/u/cmeiklejohn,11
+0,2014-07-23 07:15:58 -0500,"/t/android,/t/ios,/t/mobile",Device Mirroring Options for Mobile Developers,http://developer.telerik.com/featured/mirroring-options-mobile-developers/,/u/remotesynth,1
+0,2014-07-22 09:21:46 -0500,"/t/compsci,/t/ml,/t/programming,/t/virtualization",Mirage v2.0: a recap of the new features,http://openmirage.org/blog/announcing-mirage-20-release,/u/BruceM,14
+0,2014-07-22 11:12:36 -0500,"/t/c,/t/security",ELF Research Projects,http://bitlackeys.org/#research,/u/lattera,11
+0,2014-07-22 10:48:28 -0500,"/t/api,/t/javascript",A Tour of Transit,http://cognitect.github.io/transit-tour/,/u/jamesmacaulay,9
+10,2014-07-22 00:52:42 -0500,"/t/pdf,/t/compsci,/t/distributed,/t/programming,/t/scaling",Crash-only Software,https://www.usenix.org/legacy/events/hotos03/tech/full_papers/candea/candea.pdf,/u/apy,14
+0,2014-07-22 23:45:06 -0500,"/t/pdf,/t/security",How to manipulate curve standards: a white paper for the black hat,http://safecurves.cr.yp.to/bada55/bada55-20140722.pdf,/u/kyle,1
+4,2014-07-22 12:22:42 -0500,"/t/mobile,/t/practices",Backend as a Service,https://blog.engineyard.com/2014/backend-as-a-service,/u/nslater,1
+0,2014-07-22 11:30:40 -0500,/t/compsci,Virtual Apollo Guidance Computer,http://www.ibiblio.org/apollo/,/u/jm,5
+3,2014-07-21 21:57:12 -0500,"/t/distributed,/t/hardware",1 second per second is harder than it sounds,https://rachelbythebay.com/w/2014/06/14/time/,/u/pushcx,19
+0,2014-07-22 10:54:01 -0500,"/t/ruby,/t/scaling",Kafka Producer Pipeline for Ruby on Rails,http://www.shopify.com/technology/14909841-kafka-producer-pipeline-for-ruby-on-rails,/u/csaunders,5
+0,2014-07-22 07:42:07 -0500,"/t/video,/t/haskell,/t/python",What can Python learn from Haskell?,https://www.youtube.com/watch?v=eVChXmNjV7o,/u/wting,6
+0,2014-07-22 18:39:15 -0500,/t/c,Spotlight on libraries relying on C++14,http://cpprocks.com/spotlight-on-libraries-relying-on-c14/,/u/alexkorban,1
+0,2014-07-22 10:02:59 -0500,"/t/compilers,/t/programming,/t/rust",Embedding and Customizing the Rust compiler,http://brson.github.io/2014/07/21/embedding-rustc/,/u/steveklabnik,3
+0,2014-07-22 07:26:56 -0500,"/t/python,/t/windows",Stop struggling with Python on Windows,http://pythonforengineers.com/stop-struggling-with-python-on-windows,/u/Pyskool,4
+0,2014-07-22 09:32:33 -0500,"/t/culture,/t/release","I made a patch for Mozilla, and you can do it too",http://marti.us/w/2014-07-19-Mozilla-BSP.html,/u/daGrevis,6
+6,2014-07-21 16:38:24 -0500,"/t/distributed,/t/release",Riak 2.0.0 RC1,http://lists.basho.com/pipermail/riak-users_lists.basho.com/2014-July/015556.html,/u/cmeiklejohn,8
+0,2014-07-22 12:59:56 -0500,"/t/compsci,/t/distributed,/t/release","Transit: Efficient, schema-optional serialization format",http://blog.cognitect.com/blog/2014/7/22/transit,/u/pushcx,1
+7,2014-07-21 12:36:49 -0500,"/t/scaling,/t/web","StackOverflow Update: 560M Pageviews a Month, 25 Servers",http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html,/u/pushcx,9
+0,2014-07-22 08:03:14 -0500,"/t/dotnet,/t/web",Server Side Responsive Layouts in ASP.NET AJAX,http://developer.telerik.com/featured/server-side-responsive-layouts-asp-net-ajax/,/u/remotesynth,1
+49,2014-07-21 12:41:07 -0500,/t/ask,What are you working on this week?,/s/4fwvcf/what_are_you_working_on_this_week,/u/zhemao,22
+0,2014-07-21 15:05:20 -0500,"/t/programming,/t/rust",Compiling Rust for the Rasberry Pi,http://metaverse.fr/blog/compiling-rust-for-the-raspberry-pi/,/u/steveklabnik,7
+0,2014-07-21 10:32:33 -0500,"/t/elm,/t/javascript,/t/web",Blazing Fast HTML: Virtual DOM in Elm,http://elm-lang.org/blog/Blazing-Fast-Html.elm,/u/jamesmacaulay,11
+0,2014-07-21 22:36:32 -0500,"/t/haskell,/t/programming",FsCheck + XUnit = The Bomb,http://www.clear-lines.com/blog/post/FsCheck-and-XUnit-is-The-Bomb.aspx,/u/pushcx,2

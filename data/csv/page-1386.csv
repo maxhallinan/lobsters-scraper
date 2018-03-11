@@ -1,25 +1,25 @@
-1,2014-02-19 11:01:01 -0600,['/t/c'],How bad can 1GB pages be?,http://www.pvk.ca/Blog/2014/02/18/how-bad-can-1gb-pages-be/,/u/thorduri,23
-0,2014-02-20 11:00:57 -0600,['/t/news'],BBVA acquires Simple,https://www.simple.com/blog/the-next-chapter/,/u/kb,1
-3,2014-02-19 15:25:56 -0600,"['/t/databases', '/t/ruby']",Making ActiveRecord 2x faster,http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html,/u/dkasper,9
-0,2014-02-20 01:18:20 -0600,"['/t/c', '/t/compsci', '/t/programming']",C/C++ Low Level Curriculum: Inheritance,http://www.altdevblogaday.com/2013/05/03/cc-low-level-curriculum-part-11-inheritance/,/u/friendlysock,4
-2,2014-02-20 15:23:55 -0600,"['/t/practices', '/t/programming']",Simple Made Easy by Rich Hickey,http://www.reddit.com/r/programming/comments/lirke/simple_made_easy_by_rich_hickey_video/,/u/wting,0
-1,2014-02-20 14:31:28 -0600,"['/t/networking', '/t/security']",Using BGP to Reroute Traffic during a DDoS,http://blog.thousandeyes.com/using-bgp-reroute-traffic-ddos/,/u/kyle,0
-4,2014-02-20 00:50:49 -0600,"['/t/databases', '/t/rant']",A Rant on Redis,http://www.roguelazer.com/2013/12/a-rant-on-redis/,/u/vjoel,6
-3,2014-02-19 17:06:40 -0600,['/t/news'],Facebook aquires WhatsApp,https://blog.whatsapp.com,/u/psuter,4
-8,2014-02-19 10:12:47 -0600,"['/t/compsci', '/t/distributed']",Distributed Semaphores with RabbitMQ,http://www.rabbitmq.com/blog/2014/02/19/distributed-semaphores-with-rabbitmq/,/u/old_sound,8
-1,2014-02-20 11:31:56 -0600,"['/t/design', '/t/ios']",Composite Prototyping Tool for iPhone Updated with Fixed Elements Support,http://www.getcomposite.com/blog/2014/02/15/composite-v1-2.html,/u/stiaje,0
-0,2014-02-19 09:31:10 -0600,['/t/databases'],"Aggregating NBA Data, PostgreSQL vs MongoDB",http://tapoueh.org/blog/2014/02/17-aggregating-nba-data-PostgreSQL-vs-MongoDB,/u/mattk,14
-0,2014-02-19 15:09:59 -0600,['/t/java'],Monadic futures in Java 8: How to organize your data flow and avoid callback hell,http://zeroturnaround.com/rebellabs/monadic-futures-in-java8/,/u/robdaemon,7
-10,2014-02-19 07:40:37 -0600,"['/t/javascript', '/t/web']",What Every JavaScript Developer Should Know About Floating Points,http://flippinawesome.org/2014/02/17/what-every-javascript-developer-should-know-about-floating-points/,/u/remotesynth,8
-1,2014-02-19 11:13:18 -0600,['/t/programming'],Programming Laws and Reality,http://www.drdobbs.com/architecture-and-design/programming-laws-and-reality-do-we-know/240166164,/u/kb,9
-0,2014-02-20 07:10:21 -0600,"['/t/practices', '/t/programming']",How-To: Continuous Integration with TeamCity and Behat,http://weavora.com/blog/2014/02/20/guide-continuous-integration-teamcity-behat/,/u/tinochkin,0
-0,2014-02-19 15:09:50 -0600,"['/t/show', '/t/security']",opass,https://github.com/orbitz/opass/tree/1.0.1,/u/apy,4
-0,2014-02-19 19:31:51 -0600,"['/t/compsci', '/t/person', '/t/science']",The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/,/u/jm,2
-1,2014-02-19 13:54:47 -0600,['/t/networking'],Statement by FCC Chairman Tom Wheeler on the FCC's Open Internet Rules,https://www.fcc.gov/document/statement-fcc-chairman-tom-wheeler-fccs-open-internet-rules,/u/journeysquid,2
-0,2014-02-19 10:50:10 -0600,['/t/hardware'],5G Service On Your 4G Phone?,http://spectrum.ieee.org/tech-talk/telecom/wireless/5g-service-on-your-4g-phone,/u/jm,5
-2,2014-02-18 21:24:17 -0600,['/t/linux'],sta.li stali - static linux,http://sta.li/,/u/jm,15
-0,2014-02-19 09:13:44 -0600,['/t/databases'],Costs of a PostgreSQL connection,http://hans.io/blog/2014/02/19/postgresql_connection/index.html,/u/mattk,4
-1,2014-02-18 23:25:31 -0600,"['/t/c', '/t/reversing', '/t/security']",WRT120N fprintf Stack Overflow,http://www.devttys0.com/2014/02/wrt120n-fprintf-stack-overflow/,/u/tedu,9
-0,2014-02-18 22:02:52 -0600,"['/t/compsci', '/t/games']",Pathfinding for Tower Defense,http://www.redblobgames.com/pathfinding/tower-defense/,/u/pushcx,11
-6,2014-02-18 10:40:14 -0600,['/t/networking'],nanomsg - networking communication patterns library,http://nanomsg.org/,/u/apg,26
-0,2014-02-19 10:07:57 -0600,"['/t/cryptocurrencies', '/t/finance']",What is the correct price for a (crypto or other) currency?,http://www.chrisstucchio.com/blog/2014/demand_for_bitcoins.html,/u/tedu,2
+1,2014-02-19 11:01:01 -0600,/t/c,How bad can 1GB pages be?,http://www.pvk.ca/Blog/2014/02/18/how-bad-can-1gb-pages-be/,/u/thorduri,23
+0,2014-02-20 11:00:57 -0600,/t/news,BBVA acquires Simple,https://www.simple.com/blog/the-next-chapter/,/u/kb,1
+3,2014-02-19 15:25:56 -0600,"/t/databases,/t/ruby",Making ActiveRecord 2x faster,http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html,/u/dkasper,9
+0,2014-02-20 01:18:20 -0600,"/t/c,/t/compsci,/t/programming",C/C++ Low Level Curriculum: Inheritance,http://www.altdevblogaday.com/2013/05/03/cc-low-level-curriculum-part-11-inheritance/,/u/friendlysock,4
+2,2014-02-20 15:23:55 -0600,"/t/practices,/t/programming",Simple Made Easy by Rich Hickey,http://www.reddit.com/r/programming/comments/lirke/simple_made_easy_by_rich_hickey_video/,/u/wting,0
+1,2014-02-20 14:31:28 -0600,"/t/networking,/t/security",Using BGP to Reroute Traffic during a DDoS,http://blog.thousandeyes.com/using-bgp-reroute-traffic-ddos/,/u/kyle,0
+4,2014-02-20 00:50:49 -0600,"/t/databases,/t/rant",A Rant on Redis,http://www.roguelazer.com/2013/12/a-rant-on-redis/,/u/vjoel,6
+3,2014-02-19 17:06:40 -0600,/t/news,Facebook aquires WhatsApp,https://blog.whatsapp.com,/u/psuter,4
+8,2014-02-19 10:12:47 -0600,"/t/compsci,/t/distributed",Distributed Semaphores with RabbitMQ,http://www.rabbitmq.com/blog/2014/02/19/distributed-semaphores-with-rabbitmq/,/u/old_sound,8
+1,2014-02-20 11:31:56 -0600,"/t/design,/t/ios",Composite Prototyping Tool for iPhone Updated with Fixed Elements Support,http://www.getcomposite.com/blog/2014/02/15/composite-v1-2.html,/u/stiaje,0
+0,2014-02-19 09:31:10 -0600,/t/databases,"Aggregating NBA Data, PostgreSQL vs MongoDB",http://tapoueh.org/blog/2014/02/17-aggregating-nba-data-PostgreSQL-vs-MongoDB,/u/mattk,14
+0,2014-02-19 15:09:59 -0600,/t/java,Monadic futures in Java 8: How to organize your data flow and avoid callback hell,http://zeroturnaround.com/rebellabs/monadic-futures-in-java8/,/u/robdaemon,7
+10,2014-02-19 07:40:37 -0600,"/t/javascript,/t/web",What Every JavaScript Developer Should Know About Floating Points,http://flippinawesome.org/2014/02/17/what-every-javascript-developer-should-know-about-floating-points/,/u/remotesynth,8
+1,2014-02-19 11:13:18 -0600,/t/programming,Programming Laws and Reality,http://www.drdobbs.com/architecture-and-design/programming-laws-and-reality-do-we-know/240166164,/u/kb,9
+0,2014-02-20 07:10:21 -0600,"/t/practices,/t/programming",How-To: Continuous Integration with TeamCity and Behat,http://weavora.com/blog/2014/02/20/guide-continuous-integration-teamcity-behat/,/u/tinochkin,0
+0,2014-02-19 15:09:50 -0600,"/t/show,/t/security",opass,https://github.com/orbitz/opass/tree/1.0.1,/u/apy,4
+0,2014-02-19 19:31:51 -0600,"/t/compsci,/t/person,/t/science",The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/,/u/jm,2
+1,2014-02-19 13:54:47 -0600,/t/networking,Statement by FCC Chairman Tom Wheeler on the FCC's Open Internet Rules,https://www.fcc.gov/document/statement-fcc-chairman-tom-wheeler-fccs-open-internet-rules,/u/journeysquid,2
+0,2014-02-19 10:50:10 -0600,/t/hardware,5G Service On Your 4G Phone?,http://spectrum.ieee.org/tech-talk/telecom/wireless/5g-service-on-your-4g-phone,/u/jm,5
+2,2014-02-18 21:24:17 -0600,/t/linux,sta.li stali - static linux,http://sta.li/,/u/jm,15
+0,2014-02-19 09:13:44 -0600,/t/databases,Costs of a PostgreSQL connection,http://hans.io/blog/2014/02/19/postgresql_connection/index.html,/u/mattk,4
+1,2014-02-18 23:25:31 -0600,"/t/c,/t/reversing,/t/security",WRT120N fprintf Stack Overflow,http://www.devttys0.com/2014/02/wrt120n-fprintf-stack-overflow/,/u/tedu,9
+0,2014-02-18 22:02:52 -0600,"/t/compsci,/t/games",Pathfinding for Tower Defense,http://www.redblobgames.com/pathfinding/tower-defense/,/u/pushcx,11
+6,2014-02-18 10:40:14 -0600,/t/networking,nanomsg - networking communication patterns library,http://nanomsg.org/,/u/apg,26
+0,2014-02-19 10:07:57 -0600,"/t/cryptocurrencies,/t/finance",What is the correct price for a (crypto or other) currency?,http://www.chrisstucchio.com/blog/2014/demand_for_bitcoins.html,/u/tedu,2

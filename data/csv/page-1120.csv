@@ -1,25 +1,25 @@
-0,2015-04-20 12:15:14 -0500,"['/t/assembly', '/t/games', '/t/lisp']",Pokemon Yellow Total Control Hack,http://aurellem.org/vba-clojure/html/total-control.html,/u/pushcx,7
-1,2015-04-20 02:25:43 -0500,"['/t/javascript', '/t/programming']",Node's require is dog slow,https://kev.inburke.com/kevin/node-require-is-dog-slow/,/u/kb,17
-0,2015-04-20 16:36:01 -0500,"['/t/lisp', '/t/programming']","Dead-simple threading with functions, in Clojure",http://missingfaktor.blogspot.com/2014/03/dead-simple-threading-with-functions-in.html,/u/pushcx,3
-40,2015-04-20 04:42:20 -0500,['/t/ask'],What are you working on this week?,/s/ckuro2/what_are_you_working_on_this_week,/u/BruceM,23
-0,2015-04-20 11:57:05 -0500,['/t/ruby'],Kiba - a lightweight Ruby ETL framework,http://www.kiba-etl.org/,/u/robin,5
-0,2015-04-20 16:03:37 -0500,"['/t/pdf', '/t/satire', '/t/science']",A Unified Theory of Superman's Powers,http://www.qwantz.com/fanart/superman.pdf,/u/pushcx,5
-0,2015-04-20 08:45:58 -0500,"['/t/mac', '/t/release']",pkgsrc-2015Q1 packages for OS X now available,http://mail-index.netbsd.org/pkgsrc-users/2015/04/20/msg021423.html,/u/sevan,6
-10,2015-04-19 08:59:25 -0500,['/t/programming'],Of Debt and Decisions,http://www.monkeysnatchbanana.com/2015/04/19/of-debt-and-decisions/,/u/SeanTAllen,37
-0,2015-04-20 08:14:11 -0500,['/t/programming'],Coz: Causal Profiling,https://github.com/plasma-umass/coz,/u/sanxiyn,5
-0,2015-04-20 14:33:03 -0500,"['/t/javascript', '/t/programming', '/t/web']",jQuery's browser bug workarounds,https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/preview?sle=true#,/u/pushcx,2
-1,2015-04-20 00:07:58 -0500,['/t/devops'],"The breakout of Ansible, and the state of config-management communities",http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/,/u/jitterted,8
-1,2015-04-19 23:49:44 -0500,['/t/hardware'],Freedom CPU: Open-Source High Performance Microprocessor,http://f-cpu.org,/u/listrophy,7
-0,2015-04-20 02:54:41 -0500,"['/t/practices', '/t/programming']",Lessons Learned in Software Development,http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/,/u/RiderOfGiraffes,5
-6,2015-04-19 23:33:10 -0500,['/t/culture'],Hackership fights gender bias with an anonymous application process,http://blog.hackership.org/2015/04/Anonymous-Reviews.html,/u/anouk,13
-0,2015-04-19 20:35:25 -0500,"['/t/pdf', '/t/practices', '/t/science']",The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking,http://www.hepl.ch/files/live/sites/systemsite/files/filiere-bp/programme-formation/the_pen_is_mightier_than_the_keyboard.pdf,/u/pushcx,9
-1,2015-04-19 15:39:02 -0500,['/t/programming'],"polyglotweekly.com, a community curated coding blog",http://www.polyglotweekly.com/2015/04/05/introducing-polyglotweekly.com.html,/u/aredridel,11
-0,2015-04-19 13:25:03 -0500,"['/t/openbsd', '/t/security']","""I just added crypto to ping.""",https://twitter.com/dlgwynne/status/589784636714143745,/u/journeysquid,16
-0,2015-04-20 07:15:06 -0500,['/t/android'],Android for Maven Eclipse version 1.3.0 release with Andmore support,https://github.com/rgladwell/m2e-android/releases/tag/1.3.0,/u/rgladwell,1
-2,2015-04-19 10:37:38 -0500,"['/t/compsci', '/t/math', '/t/person', '/t/security']",cr.yp.to: blog,http://blog.cr.yp.to/,/u/cnst,6
-1,2015-04-19 10:30:51 -0500,['/t/programming'],An Introduction To Domain-Driven Design,https://msdn.microsoft.com/en-us/magazine/dd419654.aspx,/u/reiver,3
-0,2015-04-18 19:48:13 -0500,"['/t/pdf', '/t/compsci', '/t/math', '/t/science']","From Parametricity to Conservation Laws, via Noether’s Theorem",http://bentnib.org/conservation-laws.pdf,/u/tel,5
-0,2015-04-18 14:52:11 -0500,"['/t/video', '/t/openbsd', '/t/person']",Brian Callahan's OpenBSD Talk at RPI RCOS,https://www.youtube.com/watch?v=NYxXzlhvSG4,/u/brynet,7
-1,2015-04-18 10:49:31 -0500,"['/t/browsers', '/t/networking']",A QUIC update on Google's experimental transport,http://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html,/u/journeysquid,9
-0,2015-04-18 13:39:51 -0500,['/t/security'],Keeping Your Car Safe From Electronic Thieves,http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html,/u/journeysquid,6
-0,2015-04-17 23:30:27 -0500,"['/t/video', '/t/compilers', '/t/compsci', '/t/lisp', '/t/programming']",Dependently Typed Racket (Informal Preview),http://www.youtube.com/watch?v=ZK0WtcppZuA,/u/BruceM,21
+0,2015-04-20 12:15:14 -0500,"/t/assembly,/t/games,/t/lisp",Pokemon Yellow Total Control Hack,http://aurellem.org/vba-clojure/html/total-control.html,/u/pushcx,7
+1,2015-04-20 02:25:43 -0500,"/t/javascript,/t/programming",Node's require is dog slow,https://kev.inburke.com/kevin/node-require-is-dog-slow/,/u/kb,17
+0,2015-04-20 16:36:01 -0500,"/t/lisp,/t/programming","Dead-simple threading with functions, in Clojure",http://missingfaktor.blogspot.com/2014/03/dead-simple-threading-with-functions-in.html,/u/pushcx,3
+40,2015-04-20 04:42:20 -0500,/t/ask,What are you working on this week?,/s/ckuro2/what_are_you_working_on_this_week,/u/BruceM,23
+0,2015-04-20 11:57:05 -0500,/t/ruby,Kiba - a lightweight Ruby ETL framework,http://www.kiba-etl.org/,/u/robin,5
+0,2015-04-20 16:03:37 -0500,"/t/pdf,/t/satire,/t/science",A Unified Theory of Superman's Powers,http://www.qwantz.com/fanart/superman.pdf,/u/pushcx,5
+0,2015-04-20 08:45:58 -0500,"/t/mac,/t/release",pkgsrc-2015Q1 packages for OS X now available,http://mail-index.netbsd.org/pkgsrc-users/2015/04/20/msg021423.html,/u/sevan,6
+10,2015-04-19 08:59:25 -0500,/t/programming,Of Debt and Decisions,http://www.monkeysnatchbanana.com/2015/04/19/of-debt-and-decisions/,/u/SeanTAllen,37
+0,2015-04-20 08:14:11 -0500,/t/programming,Coz: Causal Profiling,https://github.com/plasma-umass/coz,/u/sanxiyn,5
+0,2015-04-20 14:33:03 -0500,"/t/javascript,/t/programming,/t/web",jQuery's browser bug workarounds,https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/preview?sle=true#,/u/pushcx,2
+1,2015-04-20 00:07:58 -0500,/t/devops,"The breakout of Ansible, and the state of config-management communities",http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/,/u/jitterted,8
+1,2015-04-19 23:49:44 -0500,/t/hardware,Freedom CPU: Open-Source High Performance Microprocessor,http://f-cpu.org,/u/listrophy,7
+0,2015-04-20 02:54:41 -0500,"/t/practices,/t/programming",Lessons Learned in Software Development,http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/,/u/RiderOfGiraffes,5
+6,2015-04-19 23:33:10 -0500,/t/culture,Hackership fights gender bias with an anonymous application process,http://blog.hackership.org/2015/04/Anonymous-Reviews.html,/u/anouk,13
+0,2015-04-19 20:35:25 -0500,"/t/pdf,/t/practices,/t/science",The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking,http://www.hepl.ch/files/live/sites/systemsite/files/filiere-bp/programme-formation/the_pen_is_mightier_than_the_keyboard.pdf,/u/pushcx,9
+1,2015-04-19 15:39:02 -0500,/t/programming,"polyglotweekly.com, a community curated coding blog",http://www.polyglotweekly.com/2015/04/05/introducing-polyglotweekly.com.html,/u/aredridel,11
+0,2015-04-19 13:25:03 -0500,"/t/openbsd,/t/security","""I just added crypto to ping.""",https://twitter.com/dlgwynne/status/589784636714143745,/u/journeysquid,16
+0,2015-04-20 07:15:06 -0500,/t/android,Android for Maven Eclipse version 1.3.0 release with Andmore support,https://github.com/rgladwell/m2e-android/releases/tag/1.3.0,/u/rgladwell,1
+2,2015-04-19 10:37:38 -0500,"/t/compsci,/t/math,/t/person,/t/security",cr.yp.to: blog,http://blog.cr.yp.to/,/u/cnst,6
+1,2015-04-19 10:30:51 -0500,/t/programming,An Introduction To Domain-Driven Design,https://msdn.microsoft.com/en-us/magazine/dd419654.aspx,/u/reiver,3
+0,2015-04-18 19:48:13 -0500,"/t/pdf,/t/compsci,/t/math,/t/science","From Parametricity to Conservation Laws, via Noether’s Theorem",http://bentnib.org/conservation-laws.pdf,/u/tel,5
+0,2015-04-18 14:52:11 -0500,"/t/video,/t/openbsd,/t/person",Brian Callahan's OpenBSD Talk at RPI RCOS,https://www.youtube.com/watch?v=NYxXzlhvSG4,/u/brynet,7
+1,2015-04-18 10:49:31 -0500,"/t/browsers,/t/networking",A QUIC update on Google's experimental transport,http://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html,/u/journeysquid,9
+0,2015-04-18 13:39:51 -0500,/t/security,Keeping Your Car Safe From Electronic Thieves,http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html,/u/journeysquid,6
+0,2015-04-17 23:30:27 -0500,"/t/video,/t/compilers,/t/compsci,/t/lisp,/t/programming",Dependently Typed Racket (Informal Preview),http://www.youtube.com/watch?v=ZK0WtcppZuA,/u/BruceM,21

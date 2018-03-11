@@ -1,25 +1,25 @@
-0,2017-10-13 14:02:07 -0500,"['/t/networking', '/t/security']",Shadow,https://github.com/shadow/shadow/releases/tag/v1.12.0,/u/tobym,6
-14,2017-10-13 03:25:17 -0500,['/t/mobile'],Easy and fast SDK for beautiful [native] apps - Flutter [from Google],https://flutter.io/technical-overview/,/u/stevejalim,10
-2,2017-10-12 21:01:32 -0500,['/t/web'],ZeroMe - Decentralized Microblogging on ZeroNet,https://bluishcoder.co.nz/2017/10/12/zerome-decentralized-microblogging-on-zeronet.html,/u/doublec,18
-0,2017-10-13 14:22:45 -0500,"['/t/pdf', '/t/historical', '/t/networking']","ARPANET Information Brochure, December 1985",http://www.dtic.mil/dtic/tr/fulltext/u2/a164353.pdf,/u/trn,5
-6,2017-10-14 07:13:58 -0500,"['/t/culture', '/t/go']",Help us Choose a Name for our Go IDE,https://blog.jetbrains.com/go/2017/10/13/help-us-choose-a-name-for-our-go-ide/,/u/calvin,1
-2,2017-10-13 02:28:47 -0500,"['/t/hardware', '/t/reversing']",Intel ME: The Way of Static Analysis (ME 11 is based on MINIX 3),http://blog.ptsecurity.com/2017/04/intel-me-way-of-static-analysis.html,/u/cnst,13
-1,2017-10-12 22:10:57 -0500,['/t/rust'],Rust: str vs String,http://juggernaut.github.io/rust/2017/10/12/rust-str-vs-String.html,/u/calvin,22
-0,2017-10-13 12:08:29 -0500,"['/t/javascript', '/t/release']",Announcing TypeScript 2.6 RC,https://blogs.msdn.microsoft.com/typescript/2017/10/12/announcing-typescript-2-6-rc/,/u/joshuacc,5
-0,2017-10-13 12:59:55 -0500,"['/t/book', '/t/practices', '/t/programming']",books chapter fourteen,http://www.tedunangst.com/flak/post/books-chapter-fourteen,/u/calvin,4
-0,2017-10-13 12:33:26 -0500,['/t/vcs'],Faster blame on hg.mozilla.org (2016),https://groups.google.com/forum/#!topic/mozilla.dev.version-control/z7PWzhk61EA,/u/JordiGH,4
-4,2017-10-14 03:30:08 -0500,"['/t/law', '/t/reversing']",Epic Sues 'Fortnite' Cheaters For Copyright Infringement,https://torrentfreak.com/epic-sues-fortnite-cheaters-for-copyright-infringement-171012/,/u/tumdum,0
-0,2017-10-13 11:39:13 -0500,"['/t/hardware', '/t/historical']","The 68000 Wars, Part 5: The Age of Multimedia",http://www.filfre.net/2017/10/the-68000-wars-part-5-the-age-of-multimedia/,/u/calvin,4
-2,2017-10-13 07:51:57 -0500,"['/t/programming', '/t/swift']",Total programming in Swift,https://medium.com/@andre_videla/total-programming-in-swift-526508c12a74,/u/calvin,3
-2,2017-10-13 07:54:19 -0500,"['/t/hardware', '/t/historical', '/t/openbsd', '/t/rant', '/t/science', '/t/testing']",Drive Mirroring solution for OpenBSD (2000),https://marc.info/?l=openbsd-misc&m=96398385425151&w=2,/u/stsp,9
-3,2017-10-12 14:37:43 -0500,"['/t/games', '/t/graphics', '/t/historical']",Digging for treasure in Aladdin’s source code – Video Game History Foundation,https://gamehistory.org/aladdin-source-code/,/u/sunnyps,20
-1,2017-10-13 11:04:58 -0500,"['/t/devops', '/t/elixir', '/t/practices']",Mastering Elixir Releases with Distillery — A (Pretty) Complete Guide,https://hackernoon.com/mastering-elixir-releases-with-distillery-a-pretty-complete-guide-497546f298bc,/u/friendlysock,2
-0,2017-10-13 14:53:24 -0500,"['/t/pdf', '/t/ai', '/t/games']",Why Most Decisions Are Easy in Tetris,http://proceedings.mlr.press/v48/simsek16.pdf,/u/mjn,1
-0,2017-10-13 07:40:55 -0500,"['/t/programming', '/t/python']",Solving Sudoku: Part I,https://medium.com/@neshpatel/solving-sudoku-part-i-7c4bb3097aa7,/u/calvin,3
-6,2017-10-12 09:52:33 -0500,['/t/practices'],Note Taking During One on Ones,http://marcgg.com/blog/2017/10/09/paper-note-taking-meetings/,/u/hoopla,29
-6,2017-10-12 15:05:11 -0500,"['/t/security', '/t/unix']",Xorg 1.19.5 is out fixing a dozen security vulnerabilities,https://lists.x.org/archives/xorg-devel/2017-October/054871.html,/u/matthias,11
-3,2017-10-12 07:24:40 -0500,"['/t/performance', '/t/programming', '/t/unix']",A Little Story About the `yes` Unix Command,https://matthias-endler.de/2017/yes/,/u/calvin,26
-7,2017-10-12 04:13:02 -0500,['/t/vcs'],Tig: text-mode interface for Git,https://github.com/jonas/tig,/u/balajmarius,29
-8,2017-10-12 07:41:53 -0500,"['/t/historical', '/t/practices']",SGI Software Usability II (1993),http://www.art.net/~hopkins/Don/unix-haters/tirix/embarrassing-memo.html,/u/calvin,13
-7,2017-10-11 22:04:43 -0500,"['/t/security', '/t/vcs']",Git Bomb: Crafting Uncloneable Repos,https://kate.io/blog/git-bomb/,/u/ternus,42
-0,2017-10-12 13:00:52 -0500,"['/t/privacy', '/t/python']",Differential Privacy and RAPPOR,http://alexrs.me/2017/rappor/,/u/alejandro,7
+0,2017-10-13 14:02:07 -0500,"/t/networking,/t/security",Shadow,https://github.com/shadow/shadow/releases/tag/v1.12.0,/u/tobym,6
+14,2017-10-13 03:25:17 -0500,/t/mobile,Easy and fast SDK for beautiful [native] apps - Flutter [from Google],https://flutter.io/technical-overview/,/u/stevejalim,10
+2,2017-10-12 21:01:32 -0500,/t/web,ZeroMe - Decentralized Microblogging on ZeroNet,https://bluishcoder.co.nz/2017/10/12/zerome-decentralized-microblogging-on-zeronet.html,/u/doublec,18
+0,2017-10-13 14:22:45 -0500,"/t/pdf,/t/historical,/t/networking","ARPANET Information Brochure, December 1985",http://www.dtic.mil/dtic/tr/fulltext/u2/a164353.pdf,/u/trn,5
+6,2017-10-14 07:13:58 -0500,"/t/culture,/t/go",Help us Choose a Name for our Go IDE,https://blog.jetbrains.com/go/2017/10/13/help-us-choose-a-name-for-our-go-ide/,/u/calvin,1
+2,2017-10-13 02:28:47 -0500,"/t/hardware,/t/reversing",Intel ME: The Way of Static Analysis (ME 11 is based on MINIX 3),http://blog.ptsecurity.com/2017/04/intel-me-way-of-static-analysis.html,/u/cnst,13
+1,2017-10-12 22:10:57 -0500,/t/rust,Rust: str vs String,http://juggernaut.github.io/rust/2017/10/12/rust-str-vs-String.html,/u/calvin,22
+0,2017-10-13 12:08:29 -0500,"/t/javascript,/t/release",Announcing TypeScript 2.6 RC,https://blogs.msdn.microsoft.com/typescript/2017/10/12/announcing-typescript-2-6-rc/,/u/joshuacc,5
+0,2017-10-13 12:59:55 -0500,"/t/book,/t/practices,/t/programming",books chapter fourteen,http://www.tedunangst.com/flak/post/books-chapter-fourteen,/u/calvin,4
+0,2017-10-13 12:33:26 -0500,/t/vcs,Faster blame on hg.mozilla.org (2016),https://groups.google.com/forum/#!topic/mozilla.dev.version-control/z7PWzhk61EA,/u/JordiGH,4
+4,2017-10-14 03:30:08 -0500,"/t/law,/t/reversing",Epic Sues 'Fortnite' Cheaters For Copyright Infringement,https://torrentfreak.com/epic-sues-fortnite-cheaters-for-copyright-infringement-171012/,/u/tumdum,0
+0,2017-10-13 11:39:13 -0500,"/t/hardware,/t/historical","The 68000 Wars, Part 5: The Age of Multimedia",http://www.filfre.net/2017/10/the-68000-wars-part-5-the-age-of-multimedia/,/u/calvin,4
+2,2017-10-13 07:51:57 -0500,"/t/programming,/t/swift",Total programming in Swift,https://medium.com/@andre_videla/total-programming-in-swift-526508c12a74,/u/calvin,3
+2,2017-10-13 07:54:19 -0500,"/t/hardware,/t/historical,/t/openbsd,/t/rant,/t/science,/t/testing",Drive Mirroring solution for OpenBSD (2000),https://marc.info/?l=openbsd-misc&m=96398385425151&w=2,/u/stsp,9
+3,2017-10-12 14:37:43 -0500,"/t/games,/t/graphics,/t/historical",Digging for treasure in Aladdin’s source code – Video Game History Foundation,https://gamehistory.org/aladdin-source-code/,/u/sunnyps,20
+1,2017-10-13 11:04:58 -0500,"/t/devops,/t/elixir,/t/practices",Mastering Elixir Releases with Distillery — A (Pretty) Complete Guide,https://hackernoon.com/mastering-elixir-releases-with-distillery-a-pretty-complete-guide-497546f298bc,/u/friendlysock,2
+0,2017-10-13 14:53:24 -0500,"/t/pdf,/t/ai,/t/games",Why Most Decisions Are Easy in Tetris,http://proceedings.mlr.press/v48/simsek16.pdf,/u/mjn,1
+0,2017-10-13 07:40:55 -0500,"/t/programming,/t/python",Solving Sudoku: Part I,https://medium.com/@neshpatel/solving-sudoku-part-i-7c4bb3097aa7,/u/calvin,3
+6,2017-10-12 09:52:33 -0500,/t/practices,Note Taking During One on Ones,http://marcgg.com/blog/2017/10/09/paper-note-taking-meetings/,/u/hoopla,29
+6,2017-10-12 15:05:11 -0500,"/t/security,/t/unix",Xorg 1.19.5 is out fixing a dozen security vulnerabilities,https://lists.x.org/archives/xorg-devel/2017-October/054871.html,/u/matthias,11
+3,2017-10-12 07:24:40 -0500,"/t/performance,/t/programming,/t/unix",A Little Story About the `yes` Unix Command,https://matthias-endler.de/2017/yes/,/u/calvin,26
+7,2017-10-12 04:13:02 -0500,/t/vcs,Tig: text-mode interface for Git,https://github.com/jonas/tig,/u/balajmarius,29
+8,2017-10-12 07:41:53 -0500,"/t/historical,/t/practices",SGI Software Usability II (1993),http://www.art.net/~hopkins/Don/unix-haters/tirix/embarrassing-memo.html,/u/calvin,13
+7,2017-10-11 22:04:43 -0500,"/t/security,/t/vcs",Git Bomb: Crafting Uncloneable Repos,https://kate.io/blog/git-bomb/,/u/ternus,42
+0,2017-10-12 13:00:52 -0500,"/t/privacy,/t/python",Differential Privacy and RAPPOR,http://alexrs.me/2017/rappor/,/u/alejandro,7

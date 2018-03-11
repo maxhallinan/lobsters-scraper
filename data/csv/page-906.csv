@@ -1,25 +1,25 @@
-10,2016-01-14 16:29:29 -0600,"['/t/cryptocurrencies', '/t/person']",The resolution of the Bitcoin experiment,https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.3qodf0p0m,/u/pushcx,32
-7,2016-01-14 15:58:20 -0600,['/t/rust'],Rust has a brand new FAQ,https://www.rust-lang.org/faq.html,/u/steveklabnik,38
-9,2016-01-14 19:08:41 -0600,"['/t/hardware', '/t/networking', '/t/security']",There are no secure smartphones,https://www.devever.net/~hl/nosecuresmartphone,/u/pushcx,24
-4,2016-01-15 03:44:43 -0600,['/t/web'],"Stack Overflow Code: A New License. The MIT, this time with Attribution Required",http://meta.stackexchange.com/questions/272956/a-new-code-license-the-mit-this-time-with-attribution-required,/u/djm,8
-0,2016-01-15 10:44:53 -0600,['/t/practices'],Ways we leveled up as a dev team,https://medium.com/@gammons/4-awesome-ways-to-level-up-your-dev-team-32ab43f90678#.jye3o7vkn,/u/pushcx,6
-0,2016-01-15 16:04:25 -0600,['/t/culture'],"It’s not your fault, and other lessons learned from being sexually harassed at Google",https://medium.com/@juliachou/it-s-not-your-fault-3e5ad1ccb95c,/u/gkop,6
-0,2016-01-15 18:24:06 -0600,"['/t/pdf', '/t/compsci']",Data Abstraction and Hierarchy (1987),http://www.rendezvouswithdestiny.net/index_files/LiskovSub.pdf,/u/pushcx,2
-0,2016-01-15 13:26:26 -0600,"['/t/javascript', '/t/release', '/t/web']",jQuery 3.0 Beta Released,http://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/,/u/flyingfisch,4
-0,2016-01-15 13:18:22 -0600,['/t/web'],Online Shopping in the 1950s,http://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/,/u/flyingfisch,4
-0,2016-01-15 10:06:16 -0600,"['/t/compsci', '/t/haskell']",Efficient Amortised and Real-Time Queues in Haskell,http://www.well-typed.com/blog/2016/01/efficient-queues/,/u/pushcx,5
-19,2016-01-14 09:51:47 -0600,"['/t/release', '/t/security']",OpenSSH: client bug can leak keys to malicious servers,http://undeadly.org/cgi?action=article&sid=20160114142733,/u/pushcx,36
-0,2016-01-15 19:33:11 -0600,"['/t/design', '/t/web']",Styling SVG <use> Content with CSS,http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/,/u/joshuacc,1
-0,2016-01-15 18:39:49 -0600,"['/t/browsers', '/t/privacy']",Do privacy studies help? A Retrospective look at Canvas Fingerprinting,https://freedom-to-tinker.com/blog/englehardt/retrospective-look-at-canvas-fingerprinting/,/u/pushcx,1
-5,2016-01-15 11:40:48 -0600,"['/t/compsci', '/t/programming']",Buzz: Language for swarm robotics,https://github.com/MISTLab/Buzz/blob/master/README.md,/u/superpat,1
-1,2016-01-15 08:33:51 -0600,"['/t/cogsci', '/t/philosophy']",The Science of Everyday Thinking,http://think101.org/,/u/animatronic,2
-16,2016-01-14 12:47:30 -0600,['/t/programming'],Pony - High Performance Actor Programming,http://www.ponylang.org/,/u/av,17
-0,2016-01-15 04:12:49 -0600,"['/t/hardware', '/t/job']",Ultimate Hacking Keyboard looking for a firmware developer,https://docs.google.com/document/d/1RHJif-2QSuf3Jq8UVX2Ug_WUUD7nYJ4SUWMfptqhZSg/edit#,/u/algernon,5
-0,2016-01-15 13:31:56 -0600,['/t/cogsci'],A 'Brief' History of Neural Nets and Deep Learning,http://andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/,/u/pyk,1
-0,2016-01-15 13:16:17 -0600,"['/t/assembly', '/t/c', '/t/java', '/t/virtualization']",Running Java on the Atari 2600,http://www.mikekohn.net/micro/atari2600_java.php,/u/drs,1
-0,2016-01-15 05:42:24 -0600,"['/t/assembly', '/t/reversing', '/t/security']",How to radare2 a fake openssh exploit,https://dustri.org/b/how-to-radare2-a-fake-openssh-exploit.html,/u/mulander,3
-0,2016-01-15 01:41:54 -0600,['/t/web'],Feed2tweet 0.2: power of the command line sending your Feed RSS to Twitter,http://carlchenet.com/2016/01/11/feed2tweet-0-2-power-of-the-command-line-sending-your-feed-rss-to-twitter/,/u/chaica,2
-0,2016-01-15 00:33:44 -0600,"['/t/law', '/t/privacy']",French Secretary of State says encryption backdoors are 'not the right solution',http://www.dailydot.com/politics/france-encryption-backdoors-secretary-of-state-rejection-crypto-wars/,/u/acatton,5
-1,2016-01-15 02:16:51 -0600,"['/t/databases', '/t/python']","Examples of using Walrus, a lightweight Redis Toolkit",http://charlesleifer.com/blog/examples-of-using-walrus-a-lightweight-redis-toolkit/,/u/av,3
-1,2016-01-14 22:26:17 -0600,"['/t/compsci', '/t/programming', '/t/security']",DARPA - Open Project Catalog,http://opencatalog.darpa.mil/,/u/friendlysock,5
-9,2016-01-14 11:52:27 -0600,"['/t/python', '/t/vcs']",The history behind the decision to move Python to GitHub,http://www.snarky.ca/the-history-behind-the-decision-to-move-python-to-github,/u/jlarocco,10
+10,2016-01-14 16:29:29 -0600,"/t/cryptocurrencies,/t/person",The resolution of the Bitcoin experiment,https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.3qodf0p0m,/u/pushcx,32
+7,2016-01-14 15:58:20 -0600,/t/rust,Rust has a brand new FAQ,https://www.rust-lang.org/faq.html,/u/steveklabnik,38
+9,2016-01-14 19:08:41 -0600,"/t/hardware,/t/networking,/t/security",There are no secure smartphones,https://www.devever.net/~hl/nosecuresmartphone,/u/pushcx,24
+4,2016-01-15 03:44:43 -0600,/t/web,"Stack Overflow Code: A New License. The MIT, this time with Attribution Required",http://meta.stackexchange.com/questions/272956/a-new-code-license-the-mit-this-time-with-attribution-required,/u/djm,8
+0,2016-01-15 10:44:53 -0600,/t/practices,Ways we leveled up as a dev team,https://medium.com/@gammons/4-awesome-ways-to-level-up-your-dev-team-32ab43f90678#.jye3o7vkn,/u/pushcx,6
+0,2016-01-15 16:04:25 -0600,/t/culture,"It’s not your fault, and other lessons learned from being sexually harassed at Google",https://medium.com/@juliachou/it-s-not-your-fault-3e5ad1ccb95c,/u/gkop,6
+0,2016-01-15 18:24:06 -0600,"/t/pdf,/t/compsci",Data Abstraction and Hierarchy (1987),http://www.rendezvouswithdestiny.net/index_files/LiskovSub.pdf,/u/pushcx,2
+0,2016-01-15 13:26:26 -0600,"/t/javascript,/t/release,/t/web",jQuery 3.0 Beta Released,http://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/,/u/flyingfisch,4
+0,2016-01-15 13:18:22 -0600,/t/web,Online Shopping in the 1950s,http://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/,/u/flyingfisch,4
+0,2016-01-15 10:06:16 -0600,"/t/compsci,/t/haskell",Efficient Amortised and Real-Time Queues in Haskell,http://www.well-typed.com/blog/2016/01/efficient-queues/,/u/pushcx,5
+19,2016-01-14 09:51:47 -0600,"/t/release,/t/security",OpenSSH: client bug can leak keys to malicious servers,http://undeadly.org/cgi?action=article&sid=20160114142733,/u/pushcx,36
+0,2016-01-15 19:33:11 -0600,"/t/design,/t/web",Styling SVG <use> Content with CSS,http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/,/u/joshuacc,1
+0,2016-01-15 18:39:49 -0600,"/t/browsers,/t/privacy",Do privacy studies help? A Retrospective look at Canvas Fingerprinting,https://freedom-to-tinker.com/blog/englehardt/retrospective-look-at-canvas-fingerprinting/,/u/pushcx,1
+5,2016-01-15 11:40:48 -0600,"/t/compsci,/t/programming",Buzz: Language for swarm robotics,https://github.com/MISTLab/Buzz/blob/master/README.md,/u/superpat,1
+1,2016-01-15 08:33:51 -0600,"/t/cogsci,/t/philosophy",The Science of Everyday Thinking,http://think101.org/,/u/animatronic,2
+16,2016-01-14 12:47:30 -0600,/t/programming,Pony - High Performance Actor Programming,http://www.ponylang.org/,/u/av,17
+0,2016-01-15 04:12:49 -0600,"/t/hardware,/t/job",Ultimate Hacking Keyboard looking for a firmware developer,https://docs.google.com/document/d/1RHJif-2QSuf3Jq8UVX2Ug_WUUD7nYJ4SUWMfptqhZSg/edit#,/u/algernon,5
+0,2016-01-15 13:31:56 -0600,/t/cogsci,A 'Brief' History of Neural Nets and Deep Learning,http://andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/,/u/pyk,1
+0,2016-01-15 13:16:17 -0600,"/t/assembly,/t/c,/t/java,/t/virtualization",Running Java on the Atari 2600,http://www.mikekohn.net/micro/atari2600_java.php,/u/drs,1
+0,2016-01-15 05:42:24 -0600,"/t/assembly,/t/reversing,/t/security",How to radare2 a fake openssh exploit,https://dustri.org/b/how-to-radare2-a-fake-openssh-exploit.html,/u/mulander,3
+0,2016-01-15 01:41:54 -0600,/t/web,Feed2tweet 0.2: power of the command line sending your Feed RSS to Twitter,http://carlchenet.com/2016/01/11/feed2tweet-0-2-power-of-the-command-line-sending-your-feed-rss-to-twitter/,/u/chaica,2
+0,2016-01-15 00:33:44 -0600,"/t/law,/t/privacy",French Secretary of State says encryption backdoors are 'not the right solution',http://www.dailydot.com/politics/france-encryption-backdoors-secretary-of-state-rejection-crypto-wars/,/u/acatton,5
+1,2016-01-15 02:16:51 -0600,"/t/databases,/t/python","Examples of using Walrus, a lightweight Redis Toolkit",http://charlesleifer.com/blog/examples-of-using-walrus-a-lightweight-redis-toolkit/,/u/av,3
+1,2016-01-14 22:26:17 -0600,"/t/compsci,/t/programming,/t/security",DARPA - Open Project Catalog,http://opencatalog.darpa.mil/,/u/friendlysock,5
+9,2016-01-14 11:52:27 -0600,"/t/python,/t/vcs",The history behind the decision to move Python to GitHub,http://www.snarky.ca/the-history-behind-the-decision-to-move-python-to-github,/u/jlarocco,10

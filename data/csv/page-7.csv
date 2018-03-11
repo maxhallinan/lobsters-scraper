@@ -1,25 +1,25 @@
-0,2018-02-28 05:22:08 -0600,['/t/practices'],Team Leader Venn Diagram,http://larahogan.me/blog/team-leader-venn-diagram/,/u/adsouza,9
-0,2018-02-28 07:10:55 -0600,['/t/math'],Types of Errors in Numerical Methods,https://waterprogramming.wordpress.com/2018/02/21/types-of-errors-in-numerical-methods/,/u/calvin,7
-0,2018-02-28 07:10:29 -0600,"['/t/design', '/t/law']","Developers Ask: Can I Legally Use The ""Fluent UI"" Or Ribbon Design?",https://www.infoq.com/news/2018/02/Ribbon-UI,/u/calvin,7
-0,2018-02-28 14:13:40 -0600,"['/t/design', '/t/javascript', '/t/web']",Vue Animations with Sketch + Haiku,https://www.haiku.ai/blog/vue-animations-with-sketch-and-haiku/,/u/roperzh,1
-0,2018-02-28 14:11:30 -0600,['/t/programming'],Please: A blaze-inspired cross-language build system,https://please.build/index.html,/u/zem,2
-0,2018-02-28 17:55:43 -0600,"['/t/performance', '/t/programming']",Vectorized shifts: are immediates faster?,https://lemire.me/blog/2018/02/28/vectorized-shifts-are-immediates-faster/,/u/calvin,1
-4,2018-02-28 00:24:10 -0600,"['/t/practices', '/t/programming']",Why Code Comments Still Matter,https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext,/u/quobit,5
-4,2018-02-27 06:53:46 -0600,['/t/performance'],How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies,https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/,/u/jtfmumm,26
-0,2018-02-28 11:29:00 -0600,"['/t/pdf', '/t/c', '/t/formalmethods', '/t/testing']",Testing First-Order Logic Axioms in Program Verification (2011),https://ti.arc.nasa.gov/m/profile/edenney/papers/testing-axioms_final.pdf,/u/nickpsecurity,2
-0,2018-02-28 05:14:29 -0600,['/t/event'],44CON 2018 CFP Is Open,https://44con.com/2018/02/27/44con-2018-cfp-is-open/,/u/stevelord,2
-2,2018-02-27 11:06:52 -0600,"['/t/hardware', '/t/privacy', '/t/security']","Librem adds tamper-evident features, now most secure laptop under full customer control",https://puri.sm/posts/librem-now-most-secure-laptop-under-full-user-with-tamper-evident-features/,/u/halosghost,23
-0,2018-02-28 03:51:17 -0600,"['/t/hardware', '/t/historical']",Musée Bolo | Progress Report – January/February 2018,https://www.abcm.ch/wp/?p=4347,/u/r2gf,2
-0,2018-02-28 12:28:28 -0600,"['/t/video', '/t/assembly', '/t/rust', '/t/web']",A Code Cartoon introduction to WebAssembly with Lin Clark,https://www.youtube.com/watch?v=smcN0Dvctac,/u/colindean,1
-9,2018-02-27 13:03:38 -0600,['/t/programming'],Stop Validating Email Addresses With Regex [2012],https://davidcel.is/posts/stop-validating-email-addresses-with-regex/,/u/jumex,11
-1,2018-02-27 10:37:59 -0600,['/t/security'],Memcrashed - Major amplification attacks from UDP port 11211,https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/,/u/jabberwock,25
-0,2018-02-28 11:33:01 -0600,"['/t/pdf', '/t/c', '/t/formalmethods', '/t/graphics']",Automated Verification of Functional Correctness of Race-Free GPU Programs (2017),http://www.fos.kuis.kyoto-u.ac.jp/~kozima/paper/auto-verif-gpu.pdf,/u/nickpsecurity,1
-57,2018-02-26 17:51:36 -0600,"['/t/philosophy', '/t/practices']",Programmer's Oath,https://github.com/Widdershin/programmers-oath,/u/Widdershin,34
-2,2018-02-27 11:23:50 -0600,['/t/security'],A Breakdown of the New SAML Authentication Bypass Vulnerability,https://developer.okta.com/blog/2018/02/27/a-breakdown-of-the-new-saml-authentication-bypass-vulnerability,/u/rdegges,8
-19,2018-02-27 09:50:30 -0600,['/t/security'],An argument for passwordless,https://biarity.gitlab.io/2018/02/23/passwordless/,/u/calvin,11
-0,2018-02-27 16:47:57 -0600,"['/t/pdf', '/t/book', '/t/compsci', '/t/math']",Mathematics and Computation,https://www.math.ias.edu/avi/book,/u/lainon,10
-0,2018-02-28 08:43:10 -0600,"['/t/programming', '/t/release']",The Tidelift Subscription,https://tidelift.com,/u/andrewnez,1
-1,2018-02-27 21:56:13 -0600,['/t/programming'],Design duality and the expression problem,http://www.tedinski.com/2018/02/27/the-expression-problem.html,/u/calvin,3
-0,2018-02-27 09:43:29 -0600,['/t/openbsd'],SSL_CIPHER_description(3) weirdness,https://marc.info/?l=openbsd-misc&m=151974573718360&w=2,/u/xorhash,20
-2,2018-02-27 09:18:29 -0600,"['/t/mobile', '/t/programming']",Announcing Flutter beta 1: Build beautiful native apps,https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0,/u/pfmaggi,13
-3,2018-02-27 12:26:23 -0600,"['/t/pdf', '/t/distributed', '/t/plt']",Capability-based Type Systems for Concurrency Control,http://uu.diva-portal.org/smash/get/diva2:1164769/FULLTEXT01.pdf,/u/nickpsecurity,6
+0,2018-02-28 05:22:08 -0600,/t/practices,Team Leader Venn Diagram,http://larahogan.me/blog/team-leader-venn-diagram/,/u/adsouza,9
+0,2018-02-28 07:10:55 -0600,/t/math,Types of Errors in Numerical Methods,https://waterprogramming.wordpress.com/2018/02/21/types-of-errors-in-numerical-methods/,/u/calvin,7
+0,2018-02-28 07:10:29 -0600,"/t/design,/t/law","Developers Ask: Can I Legally Use The ""Fluent UI"" Or Ribbon Design?",https://www.infoq.com/news/2018/02/Ribbon-UI,/u/calvin,7
+0,2018-02-28 14:13:40 -0600,"/t/design,/t/javascript,/t/web",Vue Animations with Sketch + Haiku,https://www.haiku.ai/blog/vue-animations-with-sketch-and-haiku/,/u/roperzh,1
+0,2018-02-28 14:11:30 -0600,/t/programming,Please: A blaze-inspired cross-language build system,https://please.build/index.html,/u/zem,2
+0,2018-02-28 17:55:43 -0600,"/t/performance,/t/programming",Vectorized shifts: are immediates faster?,https://lemire.me/blog/2018/02/28/vectorized-shifts-are-immediates-faster/,/u/calvin,1
+4,2018-02-28 00:24:10 -0600,"/t/practices,/t/programming",Why Code Comments Still Matter,https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext,/u/quobit,5
+4,2018-02-27 06:53:46 -0600,/t/performance,How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies,https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/,/u/jtfmumm,26
+0,2018-02-28 11:29:00 -0600,"/t/pdf,/t/c,/t/formalmethods,/t/testing",Testing First-Order Logic Axioms in Program Verification (2011),https://ti.arc.nasa.gov/m/profile/edenney/papers/testing-axioms_final.pdf,/u/nickpsecurity,2
+0,2018-02-28 05:14:29 -0600,/t/event,44CON 2018 CFP Is Open,https://44con.com/2018/02/27/44con-2018-cfp-is-open/,/u/stevelord,2
+2,2018-02-27 11:06:52 -0600,"/t/hardware,/t/privacy,/t/security","Librem adds tamper-evident features, now most secure laptop under full customer control",https://puri.sm/posts/librem-now-most-secure-laptop-under-full-user-with-tamper-evident-features/,/u/halosghost,23
+0,2018-02-28 03:51:17 -0600,"/t/hardware,/t/historical",Musée Bolo | Progress Report – January/February 2018,https://www.abcm.ch/wp/?p=4347,/u/r2gf,2
+0,2018-02-28 12:28:28 -0600,"/t/video,/t/assembly,/t/rust,/t/web",A Code Cartoon introduction to WebAssembly with Lin Clark,https://www.youtube.com/watch?v=smcN0Dvctac,/u/colindean,1
+9,2018-02-27 13:03:38 -0600,/t/programming,Stop Validating Email Addresses With Regex [2012],https://davidcel.is/posts/stop-validating-email-addresses-with-regex/,/u/jumex,11
+1,2018-02-27 10:37:59 -0600,/t/security,Memcrashed - Major amplification attacks from UDP port 11211,https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/,/u/jabberwock,25
+0,2018-02-28 11:33:01 -0600,"/t/pdf,/t/c,/t/formalmethods,/t/graphics",Automated Verification of Functional Correctness of Race-Free GPU Programs (2017),http://www.fos.kuis.kyoto-u.ac.jp/~kozima/paper/auto-verif-gpu.pdf,/u/nickpsecurity,1
+57,2018-02-26 17:51:36 -0600,"/t/philosophy,/t/practices",Programmer's Oath,https://github.com/Widdershin/programmers-oath,/u/Widdershin,34
+2,2018-02-27 11:23:50 -0600,/t/security,A Breakdown of the New SAML Authentication Bypass Vulnerability,https://developer.okta.com/blog/2018/02/27/a-breakdown-of-the-new-saml-authentication-bypass-vulnerability,/u/rdegges,8
+19,2018-02-27 09:50:30 -0600,/t/security,An argument for passwordless,https://biarity.gitlab.io/2018/02/23/passwordless/,/u/calvin,11
+0,2018-02-27 16:47:57 -0600,"/t/pdf,/t/book,/t/compsci,/t/math",Mathematics and Computation,https://www.math.ias.edu/avi/book,/u/lainon,10
+0,2018-02-28 08:43:10 -0600,"/t/programming,/t/release",The Tidelift Subscription,https://tidelift.com,/u/andrewnez,1
+1,2018-02-27 21:56:13 -0600,/t/programming,Design duality and the expression problem,http://www.tedinski.com/2018/02/27/the-expression-problem.html,/u/calvin,3
+0,2018-02-27 09:43:29 -0600,/t/openbsd,SSL_CIPHER_description(3) weirdness,https://marc.info/?l=openbsd-misc&m=151974573718360&w=2,/u/xorhash,20
+2,2018-02-27 09:18:29 -0600,"/t/mobile,/t/programming",Announcing Flutter beta 1: Build beautiful native apps,https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0,/u/pfmaggi,13
+3,2018-02-27 12:26:23 -0600,"/t/pdf,/t/distributed,/t/plt",Capability-based Type Systems for Concurrency Control,http://uu.diva-portal.org/smash/get/diva2:1164769/FULLTEXT01.pdf,/u/nickpsecurity,6

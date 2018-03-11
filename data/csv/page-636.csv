@@ -1,25 +1,25 @@
-1,2016-10-11 09:11:48 -0500,['/t/security'],Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras,http://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/,/u/ngoldbaum,13
-4,2016-10-11 08:24:54 -0500,['/t/ios'],Dash and Apple: My Side of the Story,https://blog.kapeli.com/dash-and-apple-my-side-of-the-story,/u/feoh,7
-0,2016-10-11 17:33:16 -0500,"['/t/video', '/t/compsci']",Deep Learning School 2016,https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW,/u/tf,5
-0,2016-10-12 00:04:23 -0500,"['/t/databases', '/t/devops', '/t/practices']",A Comparison of Time Series Databases and Netsil’s Use of Druid,https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206,/u/friendlysock,2
-2,2016-10-11 08:12:48 -0500,['/t/web'],But what about the ads?,https://medium.com/@cramforce/but-what-about-the-ads-bfe5025b6606,/u/adsouza,9
-0,2016-10-12 03:36:11 -0500,"['/t/api', '/t/graphics', '/t/reversing', '/t/web']","How to read web specs Part I – Or: WebVR, how do you work?",https://surma.link/things/reading-specs/,/u/friendlysock,1
-80,2016-10-10 15:30:00 -0500,['/t/ask'],What kind of keyboard do you use?,/s/hiipej/what_kind_keyboard_do_you_use,/u/soulcutter,35
-0,2016-10-11 14:35:58 -0500,"['/t/linux', '/t/networking']",Illustrated Guide to Monitoring and Tuning the Linux Networking Stack: Receiving Data,http://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-linux-networking-stack-receiving-data-illustrated/,/u/jamesog,5
-0,2016-10-11 13:27:18 -0500,['/t/historical'],Restoring YC's Xerox Alto day 9: tracing a crash through software and hardware,http://www.righto.com/2016/10/restoring-ycs-xerox-alto-day-9-tracing.html,/u/chadski,5
-1,2016-10-11 07:13:25 -0500,['/t/programming'],Ned Batchelder: Fix error handling first (2007),http://nedbatchelder.com/text/fix-err-hand.html,/u/pushcx,9
-0,2016-10-11 15:02:48 -0500,"['/t/ios', '/t/security']",Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656),http://jndok.github.io/2016/10/04/pegasus-writeup/,/u/noelle,3
-0,2016-10-11 12:30:25 -0500,"['/t/practices', '/t/web']",The A11Y Project - A community-driven effort to make web accessibility easier,http://a11yproject.com/,/u/flyingfisch,4
-1,2016-10-11 01:02:04 -0500,['/t/distributed'],List of project ideas for distributed systems,http://www.scs.stanford.edu/14au-cs244b/labs/project.html,/u/Dawny33,11
-0,2016-10-11 13:40:41 -0500,"['/t/lisp', '/t/programming']",Nightlight: An embedded editor for Clojure,https://sekao.net/nightlight/,/u/majjoha,2
-20,2016-10-10 11:46:26 -0500,['/t/ask'],What are you working on this week?,/s/qkprum/what_are_you_working_on_this_week,/u/calvin,22
-0,2016-10-11 03:42:56 -0500,"['/t/emacs', '/t/historical', '/t/lisp']",Multics Emacs History/Design/Implementation (1979),http://www.multicians.org/mepap.html,/u/lukaszkorecki,7
-0,2016-10-11 09:47:46 -0500,"['/t/pdf', '/t/crypto']",A kilobit hidden SNFS discrete logarithm computation,https://eprint.iacr.org/2016/961.pdf,/u/355E3B,3
-1,2016-10-10 13:13:23 -0500,"['/t/freebsd', '/t/release']",FreeBSD 11.0-RELEASE officially available,https://www.freebsd.org/releases/11.0R/announce.html,/u/seschwar,28
-0,2016-10-11 14:15:29 -0500,"['/t/rant', '/t/security', '/t/web']",byuu on the free CAs and the CA model,https://byuu.org/articles/ssl/,/u/calvin,3
-0,2016-10-11 11:26:33 -0500,['/t/programming'],3 Ways GitHub Integrations are About to Get Better,http://blog.runnable.com/post/151647975206/3-ways-github-integrations-are-about-to-get-better,/u/sundip,2
-2,2016-10-10 14:05:55 -0500,"['/t/law', '/t/privacy']","Suspicious court cases, with missing defendants, aim at getting web pages taken down",https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/10/10/dozens-of-suspicious-court-cases-with-missing-defendants-aim-at-getting-web-pages-taken-down-or-deindexed/,/u/tedu,17
-6,2016-10-10 09:33:39 -0500,['/t/programming'],One Letter Programming Languages,http://beza1e1.tuxen.de/one_letter_proglangs.html,/u/355E3B,23
-0,2016-10-11 12:41:41 -0500,"['/t/video', '/t/mac', '/t/security']",The Apple Sandbox: Deeper Into The Quagmire,https://www.youtube.com/watch?v=mG715HcDgO8,/u/sevan,1
-3,2016-10-10 08:54:36 -0500,['/t/ruby'],"MiniTest is not ""Just Ruby"", it is ""Just Rails""",http://zverok.github.io/blog/2016-10-09-minitest.html,/u/soulcutter,21
-0,2016-10-11 11:21:38 -0500,"['/t/law', '/t/privacy']",Law Enforcement are Struggling to Investigate the Dark Web,https://mascherari.press/law-enforcement-are-struggling-to-investigate-the-dark-web/,/u/jabberwock,1
+1,2016-10-11 09:11:48 -0500,/t/security,Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras,http://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/,/u/ngoldbaum,13
+4,2016-10-11 08:24:54 -0500,/t/ios,Dash and Apple: My Side of the Story,https://blog.kapeli.com/dash-and-apple-my-side-of-the-story,/u/feoh,7
+0,2016-10-11 17:33:16 -0500,"/t/video,/t/compsci",Deep Learning School 2016,https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW,/u/tf,5
+0,2016-10-12 00:04:23 -0500,"/t/databases,/t/devops,/t/practices",A Comparison of Time Series Databases and Netsil’s Use of Druid,https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206,/u/friendlysock,2
+2,2016-10-11 08:12:48 -0500,/t/web,But what about the ads?,https://medium.com/@cramforce/but-what-about-the-ads-bfe5025b6606,/u/adsouza,9
+0,2016-10-12 03:36:11 -0500,"/t/api,/t/graphics,/t/reversing,/t/web","How to read web specs Part I – Or: WebVR, how do you work?",https://surma.link/things/reading-specs/,/u/friendlysock,1
+80,2016-10-10 15:30:00 -0500,/t/ask,What kind of keyboard do you use?,/s/hiipej/what_kind_keyboard_do_you_use,/u/soulcutter,35
+0,2016-10-11 14:35:58 -0500,"/t/linux,/t/networking",Illustrated Guide to Monitoring and Tuning the Linux Networking Stack: Receiving Data,http://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-linux-networking-stack-receiving-data-illustrated/,/u/jamesog,5
+0,2016-10-11 13:27:18 -0500,/t/historical,Restoring YC's Xerox Alto day 9: tracing a crash through software and hardware,http://www.righto.com/2016/10/restoring-ycs-xerox-alto-day-9-tracing.html,/u/chadski,5
+1,2016-10-11 07:13:25 -0500,/t/programming,Ned Batchelder: Fix error handling first (2007),http://nedbatchelder.com/text/fix-err-hand.html,/u/pushcx,9
+0,2016-10-11 15:02:48 -0500,"/t/ios,/t/security",Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656),http://jndok.github.io/2016/10/04/pegasus-writeup/,/u/noelle,3
+0,2016-10-11 12:30:25 -0500,"/t/practices,/t/web",The A11Y Project - A community-driven effort to make web accessibility easier,http://a11yproject.com/,/u/flyingfisch,4
+1,2016-10-11 01:02:04 -0500,/t/distributed,List of project ideas for distributed systems,http://www.scs.stanford.edu/14au-cs244b/labs/project.html,/u/Dawny33,11
+0,2016-10-11 13:40:41 -0500,"/t/lisp,/t/programming",Nightlight: An embedded editor for Clojure,https://sekao.net/nightlight/,/u/majjoha,2
+20,2016-10-10 11:46:26 -0500,/t/ask,What are you working on this week?,/s/qkprum/what_are_you_working_on_this_week,/u/calvin,22
+0,2016-10-11 03:42:56 -0500,"/t/emacs,/t/historical,/t/lisp",Multics Emacs History/Design/Implementation (1979),http://www.multicians.org/mepap.html,/u/lukaszkorecki,7
+0,2016-10-11 09:47:46 -0500,"/t/pdf,/t/crypto",A kilobit hidden SNFS discrete logarithm computation,https://eprint.iacr.org/2016/961.pdf,/u/355E3B,3
+1,2016-10-10 13:13:23 -0500,"/t/freebsd,/t/release",FreeBSD 11.0-RELEASE officially available,https://www.freebsd.org/releases/11.0R/announce.html,/u/seschwar,28
+0,2016-10-11 14:15:29 -0500,"/t/rant,/t/security,/t/web",byuu on the free CAs and the CA model,https://byuu.org/articles/ssl/,/u/calvin,3
+0,2016-10-11 11:26:33 -0500,/t/programming,3 Ways GitHub Integrations are About to Get Better,http://blog.runnable.com/post/151647975206/3-ways-github-integrations-are-about-to-get-better,/u/sundip,2
+2,2016-10-10 14:05:55 -0500,"/t/law,/t/privacy","Suspicious court cases, with missing defendants, aim at getting web pages taken down",https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/10/10/dozens-of-suspicious-court-cases-with-missing-defendants-aim-at-getting-web-pages-taken-down-or-deindexed/,/u/tedu,17
+6,2016-10-10 09:33:39 -0500,/t/programming,One Letter Programming Languages,http://beza1e1.tuxen.de/one_letter_proglangs.html,/u/355E3B,23
+0,2016-10-11 12:41:41 -0500,"/t/video,/t/mac,/t/security",The Apple Sandbox: Deeper Into The Quagmire,https://www.youtube.com/watch?v=mG715HcDgO8,/u/sevan,1
+3,2016-10-10 08:54:36 -0500,/t/ruby,"MiniTest is not ""Just Ruby"", it is ""Just Rails""",http://zverok.github.io/blog/2016-10-09-minitest.html,/u/soulcutter,21
+0,2016-10-11 11:21:38 -0500,"/t/law,/t/privacy",Law Enforcement are Struggling to Investigate the Dark Web,https://mascherari.press/law-enforcement-are-struggling-to-investigate-the-dark-web/,/u/jabberwock,1

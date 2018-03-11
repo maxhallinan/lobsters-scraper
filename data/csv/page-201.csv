@@ -1,25 +1,25 @@
-35,2017-09-17 10:46:46 -0500,['/t/hardware'],Thinkpad X62,https://geoff.greer.fm/2017/07/16/thinkpad-x62/,/u/calvin,57
-2,2017-09-18 03:32:12 -0500,['/t/databases'],1.1 Billion Taxi Trips on 3 Raspberry Pis Running Spark 2.2,http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-raspberry-pi.html,/u/marklit,6
-0,2017-09-19 06:52:43 -0500,"['/t/compsci', '/t/programming']",How complexity classes can help you avoid a bar fight!,https://www.dailydrip.com/blog/how-complexity-classes-can-help-you-avoid-a-bar-fight.html,/u/franzunix,0
-11,2017-09-17 16:21:36 -0500,['/t/design'],Input: Fonts for Code,http://input.fontbureau.com/info/,/u/pushcx,27
-2,2017-09-18 11:09:09 -0500,['/t/event'],"Vivint's Game of Codes - week long programming competition, no login required now",https://goc.vivint.com/,/u/jtolds,2
-0,2017-09-18 12:01:28 -0500,"['/t/haskell', '/t/release', '/t/visualization']",Visualizing lazy evaluation,http://www.well-typed.com/blog/2017/09/visualize-cbn/,/u/pushcx,5
-0,2017-09-18 17:42:08 -0500,"['/t/design', '/t/ios']",Dive into the details of iOS 11: Is Apple still detail-oriented?,https://gist.github.com/anonymous/a444036381a3faaca85170142f418d39,/u/calvin,2
-1,2017-09-18 11:22:11 -0500,['/t/linux'],Memory allocation for the curious,http://kahlonel.io/memory-allocation-for-the-curious/,/u/pushcx,3
-0,2017-09-18 16:12:00 -0500,"['/t/hardware', '/t/virtualization']",The Little Orphan: Tomy Tutor,http://www.floodgap.com/retrobits/tomy/,/u/sevan,2
-0,2017-09-18 07:51:26 -0500,"['/t/hardware', '/t/linux']",The state of open source accelerated graphics on ARM devices,https://nullr0ute.com/2017/09/the-state-of-open-source-accelerated-graphics-on-arm-devices/,/u/calvin,4
-0,2017-09-18 09:55:13 -0500,"['/t/javascript', '/t/performance']",How I cut my Webpack bundle size in half,http://jmduke.com/posts/how-i-cut-my-webpack-bundle-size-in-half/,/u/pushcx,3
-0,2017-09-18 16:13:08 -0500,"['/t/release', '/t/virtualization']",Tutti II: The Tape-Enabled Tomy Tutor Emulator,http://www.floodgap.com/retrobits/tomy/xtomydev/tutti2.html,/u/sevan,1
-0,2017-09-18 09:27:01 -0500,"['/t/cryptocurrencies', '/t/security']",Cracking MtGox,https://www.youtube.com/watch?v=l70iRcSxqzo,/u/pushcx,3
-2,2017-09-18 06:23:28 -0500,['/t/distributed'],Open Source is Missing Out on Microservices - Kubernetes is the Solution,https://medium.com/terria/open-source-is-missing-out-on-microservices-kubernetes-is-the-solution-d06e4c3c133f,/u/AlexGilleran,1
-0,2017-09-18 09:01:35 -0500,"['/t/video', '/t/clojure', '/t/lisp']",Clojure: Turtles All The Way Down,https://www.youtube.com/watch?v=Gkwc3332L-0,/u/Yogthos,3
-0,2017-09-18 06:21:45 -0500,"['/t/video', '/t/hardware']",Raspberry Pi Looper / Synth / Drum thing,https://www.youtube.com/watch?v=_nBK8sAl9nw,/u/james,4
-1,2017-09-18 07:55:32 -0500,['/t/web'],Localizing Slack,https://slack.engineering/localizing-slack-680c4bc7f45a,/u/mt,2
-0,2017-09-18 03:58:07 -0500,['/t/virtualization'],Xen: Unicore Subproject Proposal,https://lists.xen.org/archives/html/xen-devel/2017-09/msg00670.html,/u/raindev,5
-0,2017-09-18 10:02:00 -0500,"['/t/pdf', '/t/compsci', '/t/java', '/t/programming']",Micro-Reboot: A Technique for Cheap Recovery (2004),https://www.usenix.org/legacy/event/osdi04/tech/full_papers/candea/candea.pdf,/u/nickpsecurity,2
-3,2017-09-17 11:59:27 -0500,"['/t/education', '/t/rust']",Discover the world of microcontrollers through Rust!,https://japaric.github.io/discovery/,/u/DrM,21
-0,2017-09-18 06:59:57 -0500,['/t/ruby'],Episode 98 - Polymorphic Associations,https://www.driftingruby.com/episodes/polymorphic-associations,/u/kobaltz,1
-2,2017-09-17 08:45:19 -0500,['/t/rust'],Rust: Frequently Asked Questions,https://www.rust-lang.org/en-US/faq.html,/u/unbalancedparentheses,29
-6,2017-09-17 14:32:28 -0500,['/t/browsers'],Chrome to force .dev domains to HTTPS via preloaded HSTS,https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/,/u/colin,9
-1,2017-09-17 17:04:02 -0500,"['/t/c', '/t/reversing', '/t/unix']",Malloc in <200 lines (from V7 Unix),http://www.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/libc/gen/malloc.c,/u/friendlysock,12
-0,2017-09-18 10:52:35 -0500,"['/t/android', '/t/lisp', '/t/programming']",PilBox - Building Android Apps in PicoLisp,https://www.mail-archive.com/picolisp@software-lab.de/msg07658.html,/u/tankfeeder,1
+35,2017-09-17 10:46:46 -0500,/t/hardware,Thinkpad X62,https://geoff.greer.fm/2017/07/16/thinkpad-x62/,/u/calvin,57
+2,2017-09-18 03:32:12 -0500,/t/databases,1.1 Billion Taxi Trips on 3 Raspberry Pis Running Spark 2.2,http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-raspberry-pi.html,/u/marklit,6
+0,2017-09-19 06:52:43 -0500,"/t/compsci,/t/programming",How complexity classes can help you avoid a bar fight!,https://www.dailydrip.com/blog/how-complexity-classes-can-help-you-avoid-a-bar-fight.html,/u/franzunix,0
+11,2017-09-17 16:21:36 -0500,/t/design,Input: Fonts for Code,http://input.fontbureau.com/info/,/u/pushcx,27
+2,2017-09-18 11:09:09 -0500,/t/event,"Vivint's Game of Codes - week long programming competition, no login required now",https://goc.vivint.com/,/u/jtolds,2
+0,2017-09-18 12:01:28 -0500,"/t/haskell,/t/release,/t/visualization",Visualizing lazy evaluation,http://www.well-typed.com/blog/2017/09/visualize-cbn/,/u/pushcx,5
+0,2017-09-18 17:42:08 -0500,"/t/design,/t/ios",Dive into the details of iOS 11: Is Apple still detail-oriented?,https://gist.github.com/anonymous/a444036381a3faaca85170142f418d39,/u/calvin,2
+1,2017-09-18 11:22:11 -0500,/t/linux,Memory allocation for the curious,http://kahlonel.io/memory-allocation-for-the-curious/,/u/pushcx,3
+0,2017-09-18 16:12:00 -0500,"/t/hardware,/t/virtualization",The Little Orphan: Tomy Tutor,http://www.floodgap.com/retrobits/tomy/,/u/sevan,2
+0,2017-09-18 07:51:26 -0500,"/t/hardware,/t/linux",The state of open source accelerated graphics on ARM devices,https://nullr0ute.com/2017/09/the-state-of-open-source-accelerated-graphics-on-arm-devices/,/u/calvin,4
+0,2017-09-18 09:55:13 -0500,"/t/javascript,/t/performance",How I cut my Webpack bundle size in half,http://jmduke.com/posts/how-i-cut-my-webpack-bundle-size-in-half/,/u/pushcx,3
+0,2017-09-18 16:13:08 -0500,"/t/release,/t/virtualization",Tutti II: The Tape-Enabled Tomy Tutor Emulator,http://www.floodgap.com/retrobits/tomy/xtomydev/tutti2.html,/u/sevan,1
+0,2017-09-18 09:27:01 -0500,"/t/cryptocurrencies,/t/security",Cracking MtGox,https://www.youtube.com/watch?v=l70iRcSxqzo,/u/pushcx,3
+2,2017-09-18 06:23:28 -0500,/t/distributed,Open Source is Missing Out on Microservices - Kubernetes is the Solution,https://medium.com/terria/open-source-is-missing-out-on-microservices-kubernetes-is-the-solution-d06e4c3c133f,/u/AlexGilleran,1
+0,2017-09-18 09:01:35 -0500,"/t/video,/t/clojure,/t/lisp",Clojure: Turtles All The Way Down,https://www.youtube.com/watch?v=Gkwc3332L-0,/u/Yogthos,3
+0,2017-09-18 06:21:45 -0500,"/t/video,/t/hardware",Raspberry Pi Looper / Synth / Drum thing,https://www.youtube.com/watch?v=_nBK8sAl9nw,/u/james,4
+1,2017-09-18 07:55:32 -0500,/t/web,Localizing Slack,https://slack.engineering/localizing-slack-680c4bc7f45a,/u/mt,2
+0,2017-09-18 03:58:07 -0500,/t/virtualization,Xen: Unicore Subproject Proposal,https://lists.xen.org/archives/html/xen-devel/2017-09/msg00670.html,/u/raindev,5
+0,2017-09-18 10:02:00 -0500,"/t/pdf,/t/compsci,/t/java,/t/programming",Micro-Reboot: A Technique for Cheap Recovery (2004),https://www.usenix.org/legacy/event/osdi04/tech/full_papers/candea/candea.pdf,/u/nickpsecurity,2
+3,2017-09-17 11:59:27 -0500,"/t/education,/t/rust",Discover the world of microcontrollers through Rust!,https://japaric.github.io/discovery/,/u/DrM,21
+0,2017-09-18 06:59:57 -0500,/t/ruby,Episode 98 - Polymorphic Associations,https://www.driftingruby.com/episodes/polymorphic-associations,/u/kobaltz,1
+2,2017-09-17 08:45:19 -0500,/t/rust,Rust: Frequently Asked Questions,https://www.rust-lang.org/en-US/faq.html,/u/unbalancedparentheses,29
+6,2017-09-17 14:32:28 -0500,/t/browsers,Chrome to force .dev domains to HTTPS via preloaded HSTS,https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/,/u/colin,9
+1,2017-09-17 17:04:02 -0500,"/t/c,/t/reversing,/t/unix",Malloc in <200 lines (from V7 Unix),http://www.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/libc/gen/malloc.c,/u/friendlysock,12
+0,2017-09-18 10:52:35 -0500,"/t/android,/t/lisp,/t/programming",PilBox - Building Android Apps in PicoLisp,https://www.mail-archive.com/picolisp@software-lab.de/msg07658.html,/u/tankfeeder,1

@@ -1,25 +1,25 @@
-0,2015-08-19 10:00:04 -0500,"['/t/law', '/t/mac', '/t/security']","Apple, Lavabit, and Legal Intercept",http://tlog.anfedorov.com/apple-lavabit-legal-intercept,/u/anfedorov,5
-4,2015-08-18 11:48:30 -0500,['/t/distributed'],Call me Maybe: Chronos,https://aphyr.com/posts/326-call-me-maybe-chronos,/u/aphyr,41
-0,2015-08-19 13:39:27 -0500,"['/t/compilers', '/t/haskell', '/t/programming', '/t/release']",Planned change to GHC: merging types and kinds,https://typesandkinds.wordpress.com/2015/08/19/planned-change-to-ghc-merging-types-and-kinds/,/u/pushcx,5
-0,2015-08-19 16:58:38 -0500,['/t/programming'],"Run Qt apps in headless mode, access over VNC",https://github.com/pigshell/qtbase/blob/vnc-websocket/README.md,/u/zem,3
-15,2015-08-18 18:09:08 -0500,"['/t/compsci', '/t/person']",HOWTO: Get tenure,http://matt.might.net/articles/tenure/,/u/stijlist,17
-0,2015-08-19 08:29:35 -0500,"['/t/c', '/t/hardware']",Getting Started with Embedded Programing,https://spin.atomicobject.com/2015/08/19/learn-embedded-systems-programming/,/u/silentbicycle,7
-12,2015-08-18 12:23:37 -0500,['/t/security'],Need some private ssh keys?,https://github.com/search?utf8=✓&q=filename%3Aid_rsa&type=Code&ref=searchresults,/u/av,31
-1,2015-08-19 11:50:39 -0500,['/t/security'],Anti-botnet efforts useless for cleanup,http://www.theregister.co.uk/2015/08/18/antibotnet_initiatives_useless_in_sea_of_patchhating_pirates/,/u/calvin,2
-0,2015-08-19 19:39:35 -0500,['/t/cryptocurrencies'],"""Bitcoin XT's vision for a decentralized future is cheap, it only costs about 20 miracles""",https://forum.blockstack.org/t/blockstack-community-thoughts-on-block-size-bitcoin-xt-debate/152/24?u=greg,/u/itistoday,0
-0,2015-08-19 14:23:14 -0500,['/t/compsci'],Ligra: A Lightweight Graph Processing Framework for Shared Memory,http://www.cs.cmu.edu/~jshun/ligra.html,/u/mjn,2
-9,2015-08-18 16:58:47 -0500,"['/t/hardware', '/t/networking']",Google announces new router,http://googleblog.blogspot.com/2015/08/meet-onhub-new-router-for-new-way-to-wi.html,/u/calvin,13
-0,2015-08-18 23:44:36 -0500,"['/t/compsci', '/t/networking', '/t/security', '/t/unix']",Alibi Routing,https://alibi.cs.umd.edu/,/u/jonbaer,8
-1,2015-08-18 22:12:19 -0500,['/t/web'],The End of the Internet Dream,https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61,/u/zg,11
-6,2015-08-18 08:57:41 -0500,['/t/security'],Multiple Vulnerabilities in Pocket,https://www.gnu.gl/blog/Posts/multiple-vulnerabilities-in-pocket/,/u/joshuacc,27
-0,2015-08-19 09:45:39 -0500,"['/t/hardware', '/t/security']",The Most Secure Way to Communicate? An iPod Touch,http://www.wired.com/2015/08/secure-way-communicate-ipod-touch/,/u/journeysquid,2
-0,2015-08-18 21:10:25 -0500,"['/t/haskell', '/t/programming']",State of the Haskell ecosystem - August 2015,https://github.com/Gabriel439/post-rfc/blob/master/sotu.md,/u/pushcx,10
-9,2015-08-18 07:50:26 -0500,"['/t/hardware', '/t/openbsd']",OpenBSD on EdgeRouter Lite,http://www.tedunangst.com/flak/post/OpenBSD-on-ERL,/u/journeysquid,22
-0,2015-08-18 18:35:16 -0500,"['/t/elm', '/t/javascript', '/t/programming']",Walkthrough: Introducing Elm to a JS Web App,http://noredinktech.tumblr.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app,/u/pushcx,9
-0,2015-08-18 06:14:25 -0500,"['/t/lisp', '/t/programming']",Conversations with Datomic,http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/,/u/carinmeier,17
-0,2015-08-18 16:09:46 -0500,['/t/ruby'],Rails Enum is a Sharp Knife,http://bendyworks.com/rails-enum-sharp-knife/,/u/listrophy,5
-5,2015-08-18 10:47:04 -0500,"['/t/math', '/t/programming']",Streaming Percentiles,http://blog.superfeedr.com/streaming-percentiles/,/u/julien,4
-2,2015-08-18 05:59:33 -0500,"['/t/games', '/t/lisp', '/t/web']",Parens of the Dead,http://www.parens-of-the-dead.com/,/u/algernon,18
-0,2015-08-19 01:23:15 -0500,"['/t/hardware', '/t/programming']",Hitting the Target: the road to a wireless flash drive.,https://brian.mastenbrook.net/blog/2015/hitting-the-target.html,/u/self,2
-3,2015-08-19 15:38:10 -0500,"['/t/culture', '/t/rant', '/t/web']","New Clues - a reminder of the old clues, which so many haven't managed to get yet.",http://newclues.cluetrain.com/,/u/JohnCarter,1
-1,2015-08-18 09:16:08 -0500,['/t/virtualization'],Just-in-Time Summoning of Unikernels,http://www.skjegstad.com/blog/2015/08/17/jitsu-v02/,/u/gandro,12
+0,2015-08-19 10:00:04 -0500,"/t/law,/t/mac,/t/security","Apple, Lavabit, and Legal Intercept",http://tlog.anfedorov.com/apple-lavabit-legal-intercept,/u/anfedorov,5
+4,2015-08-18 11:48:30 -0500,/t/distributed,Call me Maybe: Chronos,https://aphyr.com/posts/326-call-me-maybe-chronos,/u/aphyr,41
+0,2015-08-19 13:39:27 -0500,"/t/compilers,/t/haskell,/t/programming,/t/release",Planned change to GHC: merging types and kinds,https://typesandkinds.wordpress.com/2015/08/19/planned-change-to-ghc-merging-types-and-kinds/,/u/pushcx,5
+0,2015-08-19 16:58:38 -0500,/t/programming,"Run Qt apps in headless mode, access over VNC",https://github.com/pigshell/qtbase/blob/vnc-websocket/README.md,/u/zem,3
+15,2015-08-18 18:09:08 -0500,"/t/compsci,/t/person",HOWTO: Get tenure,http://matt.might.net/articles/tenure/,/u/stijlist,17
+0,2015-08-19 08:29:35 -0500,"/t/c,/t/hardware",Getting Started with Embedded Programing,https://spin.atomicobject.com/2015/08/19/learn-embedded-systems-programming/,/u/silentbicycle,7
+12,2015-08-18 12:23:37 -0500,/t/security,Need some private ssh keys?,https://github.com/search?utf8=✓&q=filename%3Aid_rsa&type=Code&ref=searchresults,/u/av,31
+1,2015-08-19 11:50:39 -0500,/t/security,Anti-botnet efforts useless for cleanup,http://www.theregister.co.uk/2015/08/18/antibotnet_initiatives_useless_in_sea_of_patchhating_pirates/,/u/calvin,2
+0,2015-08-19 19:39:35 -0500,/t/cryptocurrencies,"""Bitcoin XT's vision for a decentralized future is cheap, it only costs about 20 miracles""",https://forum.blockstack.org/t/blockstack-community-thoughts-on-block-size-bitcoin-xt-debate/152/24?u=greg,/u/itistoday,0
+0,2015-08-19 14:23:14 -0500,/t/compsci,Ligra: A Lightweight Graph Processing Framework for Shared Memory,http://www.cs.cmu.edu/~jshun/ligra.html,/u/mjn,2
+9,2015-08-18 16:58:47 -0500,"/t/hardware,/t/networking",Google announces new router,http://googleblog.blogspot.com/2015/08/meet-onhub-new-router-for-new-way-to-wi.html,/u/calvin,13
+0,2015-08-18 23:44:36 -0500,"/t/compsci,/t/networking,/t/security,/t/unix",Alibi Routing,https://alibi.cs.umd.edu/,/u/jonbaer,8
+1,2015-08-18 22:12:19 -0500,/t/web,The End of the Internet Dream,https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61,/u/zg,11
+6,2015-08-18 08:57:41 -0500,/t/security,Multiple Vulnerabilities in Pocket,https://www.gnu.gl/blog/Posts/multiple-vulnerabilities-in-pocket/,/u/joshuacc,27
+0,2015-08-19 09:45:39 -0500,"/t/hardware,/t/security",The Most Secure Way to Communicate? An iPod Touch,http://www.wired.com/2015/08/secure-way-communicate-ipod-touch/,/u/journeysquid,2
+0,2015-08-18 21:10:25 -0500,"/t/haskell,/t/programming",State of the Haskell ecosystem - August 2015,https://github.com/Gabriel439/post-rfc/blob/master/sotu.md,/u/pushcx,10
+9,2015-08-18 07:50:26 -0500,"/t/hardware,/t/openbsd",OpenBSD on EdgeRouter Lite,http://www.tedunangst.com/flak/post/OpenBSD-on-ERL,/u/journeysquid,22
+0,2015-08-18 18:35:16 -0500,"/t/elm,/t/javascript,/t/programming",Walkthrough: Introducing Elm to a JS Web App,http://noredinktech.tumblr.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app,/u/pushcx,9
+0,2015-08-18 06:14:25 -0500,"/t/lisp,/t/programming",Conversations with Datomic,http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/,/u/carinmeier,17
+0,2015-08-18 16:09:46 -0500,/t/ruby,Rails Enum is a Sharp Knife,http://bendyworks.com/rails-enum-sharp-knife/,/u/listrophy,5
+5,2015-08-18 10:47:04 -0500,"/t/math,/t/programming",Streaming Percentiles,http://blog.superfeedr.com/streaming-percentiles/,/u/julien,4
+2,2015-08-18 05:59:33 -0500,"/t/games,/t/lisp,/t/web",Parens of the Dead,http://www.parens-of-the-dead.com/,/u/algernon,18
+0,2015-08-19 01:23:15 -0500,"/t/hardware,/t/programming",Hitting the Target: the road to a wireless flash drive.,https://brian.mastenbrook.net/blog/2015/hitting-the-target.html,/u/self,2
+3,2015-08-19 15:38:10 -0500,"/t/culture,/t/rant,/t/web","New Clues - a reminder of the old clues, which so many haven't managed to get yet.",http://newclues.cluetrain.com/,/u/JohnCarter,1
+1,2015-08-18 09:16:08 -0500,/t/virtualization,Just-in-Time Summoning of Unikernels,http://www.skjegstad.com/blog/2015/08/17/jitsu-v02/,/u/gandro,12

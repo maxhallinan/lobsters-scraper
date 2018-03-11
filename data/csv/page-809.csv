@@ -1,25 +1,25 @@
-1,2016-04-19 22:41:42 -0500,"['/t/culture', '/t/practices', '/t/satire']",More Good Programming Quotes,https://henrikwarne.com/2016/04/17/more-good-programming-quotes/,/u/friendlysock,6
-11,2016-04-18 16:03:49 -0500,"['/t/programming', '/t/release']",Zeal,https://zealdocs.org/,/u/mulander,27
-0,2016-04-19 19:02:04 -0500,"['/t/linux', '/t/programming', '/t/security']",How to stay up-to-date on open source announcements and vulnerabilities via Twitter,https://ma.ttias.be/stay-date-open-source-announcements-security-issues-via-twitter/,/u/mattiasgeniar,0
-5,2016-04-18 20:15:29 -0500,"['/t/hardware', '/t/ios']",Apple Watch battery-strap accessory killed thanks to watchOS update,http://pocketnow.com/2016/04/18/apple-watch-battery-strap-accessory,/u/calvin,9
-34,2016-04-18 10:26:02 -0500,"['/t/ask', '/t/compilers', '/t/programming']",Significant Whitespace: good or bad?,/s/yyuo7f/significant_whitespace_good_bad,/u/kristof,14
-0,2016-04-19 17:00:33 -0500,"['/t/c', '/t/practices', '/t/programming']",C++ in Competitive Programming: warmup,https://marcoarena.wordpress.com/2016/04/14/cpp-in-competitive-programming-warmup/,/u/kartik,1
-1,2016-04-18 15:31:22 -0500,"['/t/design', '/t/web']",A Simple Web Developer's Guide To Color,https://www.smashingmagazine.com/2016/04/web-developer-guide-color/,/u/pushcx,21
-75,2016-04-18 05:53:01 -0500,['/t/ask'],What are you working on this week?,/s/mhcexj/what_are_you_working_on_this_week,/u/caius,30
-2,2016-04-18 15:41:40 -0500,"['/t/python', '/t/satire']",A bad citizen in Pythonland,https://unterwaditzer.net/2016/pythonland.html,/u/untitaker,17
-1,2016-04-18 23:35:39 -0500,"['/t/show', '/t/book']",ABCs for babies,https://github.com/marvindanig/ABCD-Animal-Book,/u/marvindanig,2
-3,2016-04-18 10:51:59 -0500,"['/t/compilers', '/t/compsci', '/t/programming']",Futhark - High-Performance Functional Programming,http://futhark-lang.org,/u/runejuhl,21
-1,2016-04-19 06:50:36 -0500,"['/t/haskell', '/t/web']",A simple starter project for building Reflex applications with Stack.,https://github.com/yamafaktory/reflex-starter,/u/tigerfinch,2
-7,2016-04-18 04:26:55 -0500,['/t/design'],Brutalist Websites,http://brutalistwebsites.com/,/u/citizenk,23
-1,2016-04-18 15:55:18 -0500,['/t/design'],MarkMaker - Protoype logo generator,http://emblemmatic.org/markmaker/,/u/tigerfinch,6
-0,2016-04-18 14:47:39 -0500,"['/t/practices', '/t/programming']",Reviewing code is as important as writing code,https://precompile.com/2016/04/18/reviewing-code-is-as-important-as-writing-code.html,/u/dirk,4
-2,2016-04-18 02:06:39 -0500,"['/t/mac', '/t/security']","Remote code execution, git, and OS X",https://rachelbythebay.com/w/2016/04/17/unprotected/,/u/resir014,18
-3,2016-04-18 12:08:45 -0500,['/t/design'],We invited three top design firms to give the tax agency a new public face,http://www.bloomberg.com/news/features/2016-04-15/death-and-taxes-three-top-design-firms-rebrand-the-irs,/u/calvin,7
-4,2016-04-18 08:14:39 -0500,"['/t/finance', '/t/philosophy']","What is a developer’s job, actually?",https://www.clever-cloud.com/blog/company/2016/04/18/what-is-a-developers-job/,/u/cnivolle,7
-0,2016-04-18 11:48:40 -0500,"['/t/browsers', '/t/games', '/t/web']",Browser Ball,http://weareinstrument.com/ball/#,/u/antifuchs,9
-2,2016-04-18 13:04:49 -0500,"['/t/linux', '/t/programming']",Universal Install Script by XKCD – Combat test,http://www.ocsmag.com/2016/04/16/universal-install-script-by-xkcd-combat-test/,/u/calvin,6
-0,2016-04-18 21:22:09 -0500,['/t/python'],Pyjion: A JIT API for CPython,https://github.com/Microsoft/Pyjion,/u/sanxiyn,2
-0,2016-04-18 15:23:51 -0500,"['/t/pdf', '/t/linux']","Extended/paraseable version of ""A Decade of Wasted Cores""",http://www.i3s.unice.fr/~jplozi/wastedcores/files/extended_talk.pdf,/u/friendlysock,3
-0,2016-04-18 20:48:25 -0500,['/t/culture'],Passion is not a cannon that can be aimed by a third party,https://emshort.wordpress.com/2016/04/17/passion/,/u/sanxiyn,3
-0,2016-04-18 17:51:26 -0500,"['/t/devops', '/t/programming']",Identifying Outages with Argos,https://eng.uber.com/argos/,/u/apg,2
-1,2016-04-18 06:19:03 -0500,['/t/web'],Arachne: Rapid Web Development for Clojure,https://www.kickstarter.com/projects/1346708779/arachne-rapid-web-development-for-clojure,/u/jhchabran,7
+1,2016-04-19 22:41:42 -0500,"/t/culture,/t/practices,/t/satire",More Good Programming Quotes,https://henrikwarne.com/2016/04/17/more-good-programming-quotes/,/u/friendlysock,6
+11,2016-04-18 16:03:49 -0500,"/t/programming,/t/release",Zeal,https://zealdocs.org/,/u/mulander,27
+0,2016-04-19 19:02:04 -0500,"/t/linux,/t/programming,/t/security",How to stay up-to-date on open source announcements and vulnerabilities via Twitter,https://ma.ttias.be/stay-date-open-source-announcements-security-issues-via-twitter/,/u/mattiasgeniar,0
+5,2016-04-18 20:15:29 -0500,"/t/hardware,/t/ios",Apple Watch battery-strap accessory killed thanks to watchOS update,http://pocketnow.com/2016/04/18/apple-watch-battery-strap-accessory,/u/calvin,9
+34,2016-04-18 10:26:02 -0500,"/t/ask,/t/compilers,/t/programming",Significant Whitespace: good or bad?,/s/yyuo7f/significant_whitespace_good_bad,/u/kristof,14
+0,2016-04-19 17:00:33 -0500,"/t/c,/t/practices,/t/programming",C++ in Competitive Programming: warmup,https://marcoarena.wordpress.com/2016/04/14/cpp-in-competitive-programming-warmup/,/u/kartik,1
+1,2016-04-18 15:31:22 -0500,"/t/design,/t/web",A Simple Web Developer's Guide To Color,https://www.smashingmagazine.com/2016/04/web-developer-guide-color/,/u/pushcx,21
+75,2016-04-18 05:53:01 -0500,/t/ask,What are you working on this week?,/s/mhcexj/what_are_you_working_on_this_week,/u/caius,30
+2,2016-04-18 15:41:40 -0500,"/t/python,/t/satire",A bad citizen in Pythonland,https://unterwaditzer.net/2016/pythonland.html,/u/untitaker,17
+1,2016-04-18 23:35:39 -0500,"/t/show,/t/book",ABCs for babies,https://github.com/marvindanig/ABCD-Animal-Book,/u/marvindanig,2
+3,2016-04-18 10:51:59 -0500,"/t/compilers,/t/compsci,/t/programming",Futhark - High-Performance Functional Programming,http://futhark-lang.org,/u/runejuhl,21
+1,2016-04-19 06:50:36 -0500,"/t/haskell,/t/web",A simple starter project for building Reflex applications with Stack.,https://github.com/yamafaktory/reflex-starter,/u/tigerfinch,2
+7,2016-04-18 04:26:55 -0500,/t/design,Brutalist Websites,http://brutalistwebsites.com/,/u/citizenk,23
+1,2016-04-18 15:55:18 -0500,/t/design,MarkMaker - Protoype logo generator,http://emblemmatic.org/markmaker/,/u/tigerfinch,6
+0,2016-04-18 14:47:39 -0500,"/t/practices,/t/programming",Reviewing code is as important as writing code,https://precompile.com/2016/04/18/reviewing-code-is-as-important-as-writing-code.html,/u/dirk,4
+2,2016-04-18 02:06:39 -0500,"/t/mac,/t/security","Remote code execution, git, and OS X",https://rachelbythebay.com/w/2016/04/17/unprotected/,/u/resir014,18
+3,2016-04-18 12:08:45 -0500,/t/design,We invited three top design firms to give the tax agency a new public face,http://www.bloomberg.com/news/features/2016-04-15/death-and-taxes-three-top-design-firms-rebrand-the-irs,/u/calvin,7
+4,2016-04-18 08:14:39 -0500,"/t/finance,/t/philosophy","What is a developer’s job, actually?",https://www.clever-cloud.com/blog/company/2016/04/18/what-is-a-developers-job/,/u/cnivolle,7
+0,2016-04-18 11:48:40 -0500,"/t/browsers,/t/games,/t/web",Browser Ball,http://weareinstrument.com/ball/#,/u/antifuchs,9
+2,2016-04-18 13:04:49 -0500,"/t/linux,/t/programming",Universal Install Script by XKCD – Combat test,http://www.ocsmag.com/2016/04/16/universal-install-script-by-xkcd-combat-test/,/u/calvin,6
+0,2016-04-18 21:22:09 -0500,/t/python,Pyjion: A JIT API for CPython,https://github.com/Microsoft/Pyjion,/u/sanxiyn,2
+0,2016-04-18 15:23:51 -0500,"/t/pdf,/t/linux","Extended/paraseable version of ""A Decade of Wasted Cores""",http://www.i3s.unice.fr/~jplozi/wastedcores/files/extended_talk.pdf,/u/friendlysock,3
+0,2016-04-18 20:48:25 -0500,/t/culture,Passion is not a cannon that can be aimed by a third party,https://emshort.wordpress.com/2016/04/17/passion/,/u/sanxiyn,3
+0,2016-04-18 17:51:26 -0500,"/t/devops,/t/programming",Identifying Outages with Argos,https://eng.uber.com/argos/,/u/apg,2
+1,2016-04-18 06:19:03 -0500,/t/web,Arachne: Rapid Web Development for Clojure,https://www.kickstarter.com/projects/1346708779/arachne-rapid-web-development-for-clojure,/u/jhchabran,7

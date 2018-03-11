@@ -1,25 +1,25 @@
-0,2016-12-13 21:17:51 -0600,"['/t/c', '/t/release']",PDCLib - the public domain C standard library,http://pdclib.e43.eu/,/u/pushcx,8
-0,2016-12-13 16:46:24 -0600,['/t/math'],Quantum neural networks,https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html,/u/silky,7
-8,2016-12-13 09:44:46 -0600,['/t/compsci'],Version SAT,https://research.swtch.com/version-sat,/u/rbn,16
-0,2016-12-14 04:09:48 -0600,['/t/programming'],HIP: Convert CUDA to Portable C++ Code (from AMD),https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP,/u/sanxiyn,3
-0,2016-12-13 11:17:40 -0600,"['/t/video', '/t/games']",The Implementation of Rewind in Braid,https://www.youtube.com/watch?v=8dinUbg2h70,/u/mikejsavage,21
-0,2016-12-14 15:48:08 -0600,"['/t/ios', '/t/practices']",A Computer for Everything: One Year of iPad Pro,https://www.macstories.net/stories/one-year-of-ipad-pro/,/u/calvin,0
-0,2016-12-13 17:31:38 -0600,['/t/security'],(Google) Sharing National Security Letters with the Public,https://blog.google/topics/public-policy/sharing-national-security-letters-public/,/u/moowiz,9
-1,2016-12-13 09:52:01 -0600,['/t/unix'],Detexify: LaTeX handwritten symbol recognition,http://detexify.kirelabs.org/classify.html,/u/pushcx,15
-0,2016-12-14 02:33:31 -0600,['/t/virtualization'],Notes on Migrating from a traditional PaaS to Hyper.sh,https://medium.com/@jmarhee/notes-on-migrating-from-a-traditional-paas-to-hyper-sh-f4323d02f2a,/u/lei,2
-0,2016-12-13 17:57:22 -0600,"['/t/games', '/t/release']",Improbable announces SpatialOS Game Developer alpha,https://improbable.io/2016/12/13/google-partnership,/u/Hamcha,5
-1,2016-12-13 16:14:35 -0600,['/t/privacy'],peekier: the most privacy-oriented search engine,https://peekier.com/,/u/unbalancedparentheses,5
-2,2016-12-13 11:56:11 -0600,['/t/python'],Bayes'n'Bootstrap,http://www.holger-peters.de/data-science/2016/12/11/bayes-and-bootstrap.html,/u/data_hope,4
-0,2016-12-13 15:45:04 -0600,['/t/graphics'],Overview of the VP9 video codec,https://blogs.gnome.org/rbultje/2016/12/13/overview-of-the-vp9-video-codec/,/u/calvin,6
-0,2016-12-13 07:22:49 -0600,"['/t/distributed', '/t/networking']",Just say NO to Paxos overhead: replacing consensus with network ordering,https://blog.acolyer.org/2016/12/08/just-say-no-to-paxos-overhead-replacing-consensus-with-network-ordering/,/u/apy,15
-1,2016-12-13 08:25:28 -0600,"['/t/compilers', '/t/lua']",Lua Vermelha,https://github.com/Leonardo2718/lua-vermelha,/u/mgaudet,7
-10,2016-12-13 02:11:08 -0600,"['/t/javascript', '/t/release']",Hyper - A terminal built on web technologies - v1.0,https://github.com/zeit/hyper/releases/tag/1.0.0,/u/av,9
-25,2016-12-13 09:19:10 -0600,"['/t/browsers', '/t/javascript', '/t/rant']",Why I have disabled Javascript in my web-browser,/s/l2daeq/why_i_have_disabled_javascript_my_web,/u/pizzaiolo,3
-0,2016-12-13 16:59:33 -0600,"['/t/compsci', '/t/event', '/t/programming']",Salon des Refusés: Dialectics for new computer science,https://refuses.github.io/,/u/tf,2
-4,2016-12-13 11:45:57 -0600,['/t/programming'],How We Pre-Bake Docker Images to Reduce Infrastructure Spin-Up Time,http://blog.runnable.com/post/154422684406/how-we-pre-bake-docker-images-to-reduce,/u/taylor,2
-5,2016-12-12 13:55:28 -0600,"['/t/assembly', '/t/c', '/t/compilers', '/t/reversing']",Compiler Explorer,http://godbolt.org/,/u/calvin,30
-3,2016-12-13 09:58:09 -0600,['/t/compsci'],From Failed Researcher to IPO,http://blog.dietzen.com/post/131886378252/from-failed-researcher-to-ipo-invited-talk,/u/kartik,1
-1,2016-12-13 02:27:12 -0600,['/t/release'],Kubernetes v1.5.0,https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md#v150,/u/av,8
-21,2016-12-12 07:42:39 -0600,['/t/emacs'],Concurrency has landed,https://lists.gnu.org/archive/html/emacs-devel/2016-12/msg00378.html,/u/julienXX,30
-11,2016-12-12 16:07:22 -0600,"['/t/lisp', '/t/programming']",Hash Table Syntax in Common Lisp (2010),http://frank.kank.net/essays/hash.html,/u/asthasr,12
-0,2016-12-12 21:24:33 -0600,"['/t/reversing', '/t/security']",McAfee Virus Scan for Linux: Vulnerability Writeup,https://nation.state.actor/mcafee.html,/u/calvin,12
+0,2016-12-13 21:17:51 -0600,"/t/c,/t/release",PDCLib - the public domain C standard library,http://pdclib.e43.eu/,/u/pushcx,8
+0,2016-12-13 16:46:24 -0600,/t/math,Quantum neural networks,https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html,/u/silky,7
+8,2016-12-13 09:44:46 -0600,/t/compsci,Version SAT,https://research.swtch.com/version-sat,/u/rbn,16
+0,2016-12-14 04:09:48 -0600,/t/programming,HIP: Convert CUDA to Portable C++ Code (from AMD),https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP,/u/sanxiyn,3
+0,2016-12-13 11:17:40 -0600,"/t/video,/t/games",The Implementation of Rewind in Braid,https://www.youtube.com/watch?v=8dinUbg2h70,/u/mikejsavage,21
+0,2016-12-14 15:48:08 -0600,"/t/ios,/t/practices",A Computer for Everything: One Year of iPad Pro,https://www.macstories.net/stories/one-year-of-ipad-pro/,/u/calvin,0
+0,2016-12-13 17:31:38 -0600,/t/security,(Google) Sharing National Security Letters with the Public,https://blog.google/topics/public-policy/sharing-national-security-letters-public/,/u/moowiz,9
+1,2016-12-13 09:52:01 -0600,/t/unix,Detexify: LaTeX handwritten symbol recognition,http://detexify.kirelabs.org/classify.html,/u/pushcx,15
+0,2016-12-14 02:33:31 -0600,/t/virtualization,Notes on Migrating from a traditional PaaS to Hyper.sh,https://medium.com/@jmarhee/notes-on-migrating-from-a-traditional-paas-to-hyper-sh-f4323d02f2a,/u/lei,2
+0,2016-12-13 17:57:22 -0600,"/t/games,/t/release",Improbable announces SpatialOS Game Developer alpha,https://improbable.io/2016/12/13/google-partnership,/u/Hamcha,5
+1,2016-12-13 16:14:35 -0600,/t/privacy,peekier: the most privacy-oriented search engine,https://peekier.com/,/u/unbalancedparentheses,5
+2,2016-12-13 11:56:11 -0600,/t/python,Bayes'n'Bootstrap,http://www.holger-peters.de/data-science/2016/12/11/bayes-and-bootstrap.html,/u/data_hope,4
+0,2016-12-13 15:45:04 -0600,/t/graphics,Overview of the VP9 video codec,https://blogs.gnome.org/rbultje/2016/12/13/overview-of-the-vp9-video-codec/,/u/calvin,6
+0,2016-12-13 07:22:49 -0600,"/t/distributed,/t/networking",Just say NO to Paxos overhead: replacing consensus with network ordering,https://blog.acolyer.org/2016/12/08/just-say-no-to-paxos-overhead-replacing-consensus-with-network-ordering/,/u/apy,15
+1,2016-12-13 08:25:28 -0600,"/t/compilers,/t/lua",Lua Vermelha,https://github.com/Leonardo2718/lua-vermelha,/u/mgaudet,7
+10,2016-12-13 02:11:08 -0600,"/t/javascript,/t/release",Hyper - A terminal built on web technologies - v1.0,https://github.com/zeit/hyper/releases/tag/1.0.0,/u/av,9
+25,2016-12-13 09:19:10 -0600,"/t/browsers,/t/javascript,/t/rant",Why I have disabled Javascript in my web-browser,/s/l2daeq/why_i_have_disabled_javascript_my_web,/u/pizzaiolo,3
+0,2016-12-13 16:59:33 -0600,"/t/compsci,/t/event,/t/programming",Salon des Refusés: Dialectics for new computer science,https://refuses.github.io/,/u/tf,2
+4,2016-12-13 11:45:57 -0600,/t/programming,How We Pre-Bake Docker Images to Reduce Infrastructure Spin-Up Time,http://blog.runnable.com/post/154422684406/how-we-pre-bake-docker-images-to-reduce,/u/taylor,2
+5,2016-12-12 13:55:28 -0600,"/t/assembly,/t/c,/t/compilers,/t/reversing",Compiler Explorer,http://godbolt.org/,/u/calvin,30
+3,2016-12-13 09:58:09 -0600,/t/compsci,From Failed Researcher to IPO,http://blog.dietzen.com/post/131886378252/from-failed-researcher-to-ipo-invited-talk,/u/kartik,1
+1,2016-12-13 02:27:12 -0600,/t/release,Kubernetes v1.5.0,https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md#v150,/u/av,8
+21,2016-12-12 07:42:39 -0600,/t/emacs,Concurrency has landed,https://lists.gnu.org/archive/html/emacs-devel/2016-12/msg00378.html,/u/julienXX,30
+11,2016-12-12 16:07:22 -0600,"/t/lisp,/t/programming",Hash Table Syntax in Common Lisp (2010),http://frank.kank.net/essays/hash.html,/u/asthasr,12
+0,2016-12-12 21:24:33 -0600,"/t/reversing,/t/security",McAfee Virus Scan for Linux: Vulnerability Writeup,https://nation.state.actor/mcafee.html,/u/calvin,12

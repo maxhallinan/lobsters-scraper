@@ -1,25 +1,25 @@
-0,2017-08-17 09:00:55 -0500,"['/t/javascript', '/t/programming']",Use a decorator to conditionally render React components,https://medium.com/@shaun_gallagher/use-a-decorator-to-conditionally-render-react-components-da80b27a3ebf,/u/jawns,2
-1,2017-08-17 11:52:02 -0500,"['/t/api', '/t/historical', '/t/rant']",The X-Windows Disaster,http://www.art.net/~hopkins/Don/unix-haters/x-windows/disaster.html,/u/friendlysock,5
-0,2017-08-17 07:54:32 -0500,"['/t/pdf', '/t/historical', '/t/security']",The Welchia Worm (2003),https://www.giac.org/paper/gcih/517/welchia-worm/105720,/u/calvin,4
-0,2017-08-17 03:48:33 -0500,"['/t/pdf', '/t/programming', '/t/web']",Why Elm? (O'Reilly report PDF),http://www.oreilly.com/web-platform/free/files/why-elm.pdf,/u/stevejalim,6
-0,2017-08-17 04:53:52 -0500,['/t/graphics'],Blending normal maps,http://blog.selfshadow.com/publications/blending-in-detail,/u/mikejsavage,5
-12,2017-08-16 07:41:07 -0500,"['/t/c', '/t/programming']",Using black magic to make a fast circular buffer.,https://lo.calho.st/quick-hacks/employing-black-magic-in-the-linux-page-table/,/u/calvin,32
-17,2017-08-16 07:36:55 -0500,"['/t/practices', '/t/security']",Ransomware Changed the Rules,https://medium.com/@thegrugq/ransomware-changed-the-rules-2f9346197663,/u/calvin,21
-6,2017-08-16 13:39:08 -0500,['/t/linux'],Casually removing root files,http://ervinb.github.io/2017/08/16/casually-removing-root-files/,/u/klingtnet,12
-5,2017-08-16 09:17:16 -0500,"['/t/debugging', '/t/python']",The tragic tale of the deadlocking Python queue,https://codewithoutrules.com/2017/08/16/concurrency-python/,/u/itamarst,9
-0,2017-08-17 05:48:02 -0500,"['/t/compsci', '/t/graphics']",How to Simulate Cellular Automata with Shaders,http://www.alanzucconi.com/2016/03/16/cellular-automata-with-shaders/,/u/calvin,2
-0,2017-08-17 05:46:01 -0500,"['/t/graphics', '/t/virtualization']",Rewriting Vertex Processing for Massive Performance Gains,https://rpcs3.net/blog/2017/08/16/rewriting-vertex-processing-for-massive-performance-gains/,/u/calvin,2
-0,2017-08-17 09:36:26 -0500,"['/t/design', '/t/web']",The State of SVG Animation,https://blogs.adobe.com/creativecloud/the-state-of-svg-animation/,/u/joshuacc,1
-1,2017-08-16 13:41:39 -0500,['/t/compsci'],Magic: the Gathering is Turing Complete (2012),http://www.toothycat.net/~hologram/Turing/HowItWorks.html,/u/molloy,12
-1,2017-08-16 10:12:20 -0500,['/t/databases'],Stability in a Chaotic World: How Postgres Makes Transactions Atomic,https://brandur.org/postgres-atomicity,/u/irfansharif,19
-2,2017-08-16 09:43:30 -0500,"['/t/c', '/t/c++', '/t/lua', '/t/programming', '/t/release']","xmake v2.1.6 released, a make-like build utility based on Lua",https://github.com/tboox/xmake/releases/tag/v2.1.6,/u/ruki,6
-1,2017-08-16 11:06:47 -0500,['/t/security'],Libsodium v1.0.12 and v1.0.13 Security Assessment,https://www.privateinternetaccess.com/blog/2017/08/libsodium-v1-0-12-and-v1-0-13-security-assessment/,/u/jcs,12
-0,2017-08-16 20:41:03 -0500,['/t/linux'],Build Your Own Linux,http://www.buildyourownlinux.com/,/u/calvin,4
-2,2017-08-16 05:50:19 -0500,['/t/compsci'],A dive into spatial search algorithms,https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a,/u/pushcx,18
-4,2017-08-16 06:54:55 -0500,"['/t/mobile', '/t/programming', '/t/web']",3 Creative Techniques for Writing Modular Code,https://techbeacon.com/3-creative-techniques-writing-modular-code,/u/innerspirit,4
-0,2017-08-17 08:45:15 -0500,"['/t/culture', '/t/programming']",Socio-PLT: Quantifying Programming Language Perceptions,http://lmeyerov.github.io/projects/socioplt/viz/index.html,/u/rain1,1
-4,2017-08-16 07:42:19 -0500,"['/t/practices', '/t/programming']",Seam Obsession,https://pw-sw.com/2017/08/16/seam-obsessions/,/u/calvin,9
-0,2017-08-16 14:07:21 -0500,"['/t/pdf', '/t/compsci', '/t/hardware']","PAPAC-00, a Do-It-Yourself Paper Computer",http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=5222588,/u/friendlysock,6
-23,2017-08-15 12:02:22 -0500,['/t/science'],How Do We Trust Our Science Code?,https://www.hillelwayne.com/post/how-do-we-trust-science-code/,/u/hwayne,29
-0,2017-08-16 16:23:45 -0500,"['/t/pdf', '/t/historical']","Coded Character Sets, History and Development (1980)",https://textfiles.meulie.net/bitsaved/Books/Mackenzie_CodedCharSets.pdf,/u/earthy,4
-3,2017-08-16 05:52:08 -0500,['/t/haskell'],Untangling Haskell's Strings,https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings,/u/pushcx,10
+0,2017-08-17 09:00:55 -0500,"/t/javascript,/t/programming",Use a decorator to conditionally render React components,https://medium.com/@shaun_gallagher/use-a-decorator-to-conditionally-render-react-components-da80b27a3ebf,/u/jawns,2
+1,2017-08-17 11:52:02 -0500,"/t/api,/t/historical,/t/rant",The X-Windows Disaster,http://www.art.net/~hopkins/Don/unix-haters/x-windows/disaster.html,/u/friendlysock,5
+0,2017-08-17 07:54:32 -0500,"/t/pdf,/t/historical,/t/security",The Welchia Worm (2003),https://www.giac.org/paper/gcih/517/welchia-worm/105720,/u/calvin,4
+0,2017-08-17 03:48:33 -0500,"/t/pdf,/t/programming,/t/web",Why Elm? (O'Reilly report PDF),http://www.oreilly.com/web-platform/free/files/why-elm.pdf,/u/stevejalim,6
+0,2017-08-17 04:53:52 -0500,/t/graphics,Blending normal maps,http://blog.selfshadow.com/publications/blending-in-detail,/u/mikejsavage,5
+12,2017-08-16 07:41:07 -0500,"/t/c,/t/programming",Using black magic to make a fast circular buffer.,https://lo.calho.st/quick-hacks/employing-black-magic-in-the-linux-page-table/,/u/calvin,32
+17,2017-08-16 07:36:55 -0500,"/t/practices,/t/security",Ransomware Changed the Rules,https://medium.com/@thegrugq/ransomware-changed-the-rules-2f9346197663,/u/calvin,21
+6,2017-08-16 13:39:08 -0500,/t/linux,Casually removing root files,http://ervinb.github.io/2017/08/16/casually-removing-root-files/,/u/klingtnet,12
+5,2017-08-16 09:17:16 -0500,"/t/debugging,/t/python",The tragic tale of the deadlocking Python queue,https://codewithoutrules.com/2017/08/16/concurrency-python/,/u/itamarst,9
+0,2017-08-17 05:48:02 -0500,"/t/compsci,/t/graphics",How to Simulate Cellular Automata with Shaders,http://www.alanzucconi.com/2016/03/16/cellular-automata-with-shaders/,/u/calvin,2
+0,2017-08-17 05:46:01 -0500,"/t/graphics,/t/virtualization",Rewriting Vertex Processing for Massive Performance Gains,https://rpcs3.net/blog/2017/08/16/rewriting-vertex-processing-for-massive-performance-gains/,/u/calvin,2
+0,2017-08-17 09:36:26 -0500,"/t/design,/t/web",The State of SVG Animation,https://blogs.adobe.com/creativecloud/the-state-of-svg-animation/,/u/joshuacc,1
+1,2017-08-16 13:41:39 -0500,/t/compsci,Magic: the Gathering is Turing Complete (2012),http://www.toothycat.net/~hologram/Turing/HowItWorks.html,/u/molloy,12
+1,2017-08-16 10:12:20 -0500,/t/databases,Stability in a Chaotic World: How Postgres Makes Transactions Atomic,https://brandur.org/postgres-atomicity,/u/irfansharif,19
+2,2017-08-16 09:43:30 -0500,"/t/c,/t/c++,/t/lua,/t/programming,/t/release","xmake v2.1.6 released, a make-like build utility based on Lua",https://github.com/tboox/xmake/releases/tag/v2.1.6,/u/ruki,6
+1,2017-08-16 11:06:47 -0500,/t/security,Libsodium v1.0.12 and v1.0.13 Security Assessment,https://www.privateinternetaccess.com/blog/2017/08/libsodium-v1-0-12-and-v1-0-13-security-assessment/,/u/jcs,12
+0,2017-08-16 20:41:03 -0500,/t/linux,Build Your Own Linux,http://www.buildyourownlinux.com/,/u/calvin,4
+2,2017-08-16 05:50:19 -0500,/t/compsci,A dive into spatial search algorithms,https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a,/u/pushcx,18
+4,2017-08-16 06:54:55 -0500,"/t/mobile,/t/programming,/t/web",3 Creative Techniques for Writing Modular Code,https://techbeacon.com/3-creative-techniques-writing-modular-code,/u/innerspirit,4
+0,2017-08-17 08:45:15 -0500,"/t/culture,/t/programming",Socio-PLT: Quantifying Programming Language Perceptions,http://lmeyerov.github.io/projects/socioplt/viz/index.html,/u/rain1,1
+4,2017-08-16 07:42:19 -0500,"/t/practices,/t/programming",Seam Obsession,https://pw-sw.com/2017/08/16/seam-obsessions/,/u/calvin,9
+0,2017-08-16 14:07:21 -0500,"/t/pdf,/t/compsci,/t/hardware","PAPAC-00, a Do-It-Yourself Paper Computer",http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=5222588,/u/friendlysock,6
+23,2017-08-15 12:02:22 -0500,/t/science,How Do We Trust Our Science Code?,https://www.hillelwayne.com/post/how-do-we-trust-science-code/,/u/hwayne,29
+0,2017-08-16 16:23:45 -0500,"/t/pdf,/t/historical","Coded Character Sets, History and Development (1980)",https://textfiles.meulie.net/bitsaved/Books/Mackenzie_CodedCharSets.pdf,/u/earthy,4
+3,2017-08-16 05:52:08 -0500,/t/haskell,Untangling Haskell's Strings,https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings,/u/pushcx,10

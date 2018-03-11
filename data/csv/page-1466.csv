@@ -1,25 +1,25 @@
-2,2013-07-20 15:06:41 -0500,"['/t/programming', '/t/web']",Web development performance inside and outside a VM,https://www.stackmachine.com/blog/web-development-on-a-vm-is-it-slower,/u/kb,4
-0,2013-07-20 23:46:51 -0500,['/t/programming'],"Sticks, stones, but names are not useful to me",http://blog.tmorris.net/posts/identifier-names/,/u/puffnfresh,1
-4,2013-07-19 21:23:46 -0500,"['/t/hardware', '/t/security']","“Well, that was unexpected…”: The Raspberry Pi’s Hardware Random Number Generator",http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/,/u/kyle,5
-1,2013-07-19 15:54:26 -0500,['/t/go'],Twik : a tiny language for Go,http://blog.labix.org/2013/07/16/twik-a-tiny-language-for-go,/u/fcambus,7
-0,2013-07-19 21:26:53 -0500,['/t/security'],"NIST Approves FIPS 186-4, Digital Signature Standard",http://cryptome.org/2013/07/nist-fips-186-4.htm,/u/kyle,3
-1,2013-07-19 14:47:08 -0500,"['/t/compsci', '/t/javascript', '/t/programming']",Communicating Sequential Processes,http://swannodette.github.io/2013/07/12/communicating-sequential-processes/,/u/carinmeier,2
-0,2013-07-19 15:04:17 -0500,['/t/hardware'],Block I Apollo Guidance Computer (AGC): How to build one in your basement,http://klabs.org/history/build_agc/,/u/kyle,1
-0,2013-07-19 07:34:09 -0500,"['/t/compsci', '/t/math']",Unhappy Truckers and Other Algorithmic Problems,http://nautil.us/issue/3/in-transit/unhappy-truckers-and-other-algorithmic-problems,/u/jasper,2
-0,2013-07-18 16:32:02 -0500,['/t/security'],Hash based signatures,https://www.imperialviolet.org/2013/07/18/hashsig.html,/u/jcs,10
-0,2013-07-18 17:48:45 -0500,['/t/hardware'],Reverse-engineering the flag circuits in the 8085 processor,http://www.righto.com/2013/07/reverse-engineering-flag-circuits-in.html?m=1,/u/kyle,4
-2,2013-07-18 15:25:58 -0500,"['/t/practices', '/t/programming', '/t/rant']",Being defensive when developing automated systems,/s/rgjfav/being_defensive_when_developing,/u/jcs,9
-0,2013-07-18 14:14:45 -0500,"['/t/api', '/t/security', '/t/web']",Persona: A login that matches your site,http://identity.mozilla.com/post/55796551587/persona-a-login-that-matches-your-site,/u/vladikoff,5
-0,2013-07-18 11:29:31 -0500,"['/t/go', '/t/rust']","Philosophy and ""for"" loops (and their design in Go and Rust)",http://lwn.net/Articles/557073/,/u/bct,4
-1,2013-07-18 03:08:13 -0500,['/t/go'],The first Go program,http://blog.golang.org/first-go-program,/u/kyle,9
-5,2013-07-18 13:16:12 -0500,"['/t/rant', '/t/web']",Has Mozilla Lost Its Values?,https://www.iab.net/iablog/2013/07/has-mozilla-lost-its-values.html,/u/jcs,3
-0,2013-07-18 06:18:56 -0500,"['/t/philosophy', '/t/practices', '/t/programming']",Social Anarchy in Software Development,http://barunsingh.com/2012/12/13/anarchy_in_software.html,/u/chneukirchen,1
-4,2013-07-17 08:57:03 -0500,['/t/security'],Malware Hidden Inside JPG EXIF Headers,http://blog.sucuri.net/2013/07/malware-hidden-inside-jpg-exif-headers.html,/u/zod000,5
-0,2013-07-17 09:38:02 -0500,"['/t/hardware', '/t/security']",Google Glass exploit hacked wearable with QR codes,http://www.slashgear.com/google-glass-exploit-hacked-wearable-with-qr-codes-17290717/,/u/wally,8
-6,2013-07-17 02:52:14 -0500,"['/t/compsci', '/t/programming', '/t/unix']",Regex Crossword,http://regexcrossword.com,/u/ray,9
-1,2013-07-17 08:38:16 -0500,"['/t/javascript', '/t/practices']",Why I Test Private Functions In JavaScript,http://philipwalton.com/articles/why-i-test-private-functions-in-javascript/,/u/joshuacc,5
-0,2013-07-17 07:07:34 -0500,['/t/javascript'],Fuck Off As A Service (FOAAS),http://foaas.herokuapp.com/,/u/zod000,7
-0,2013-07-17 09:41:28 -0500,"['/t/c', '/t/compsci']",C as an intermediate language,http://www.yosefk.com/blog/c-as-an-intermediate-language.html,/u/kyle,5
-0,2013-07-17 13:27:20 -0500,"['/t/news', '/t/privacy']",The World of Black-Ops Reputation Management,http://nymag.com/news/features/online-reputation-management-2013-6/,/u/tedu,2
-0,2013-07-17 03:06:18 -0500,"['/t/freebsd', '/t/networking', '/t/security']",FreeBSD improves SYN Cookie implementation,http://svnweb.freebsd.org/base?view=revision&revision=253210,/u/jcs,7
-0,2013-07-16 20:49:06 -0500,"['/t/practices', '/t/programming']",What is Programmer Anarchy and does it have a future?,http://martinjeeblog.wordpress.com/2012/11/20/what-is-programmer-anarchy-and-does-it-have-a-future/,/u/cjh,3
+2,2013-07-20 15:06:41 -0500,"/t/programming,/t/web",Web development performance inside and outside a VM,https://www.stackmachine.com/blog/web-development-on-a-vm-is-it-slower,/u/kb,4
+0,2013-07-20 23:46:51 -0500,/t/programming,"Sticks, stones, but names are not useful to me",http://blog.tmorris.net/posts/identifier-names/,/u/puffnfresh,1
+4,2013-07-19 21:23:46 -0500,"/t/hardware,/t/security","“Well, that was unexpected…”: The Raspberry Pi’s Hardware Random Number Generator",http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/,/u/kyle,5
+1,2013-07-19 15:54:26 -0500,/t/go,Twik : a tiny language for Go,http://blog.labix.org/2013/07/16/twik-a-tiny-language-for-go,/u/fcambus,7
+0,2013-07-19 21:26:53 -0500,/t/security,"NIST Approves FIPS 186-4, Digital Signature Standard",http://cryptome.org/2013/07/nist-fips-186-4.htm,/u/kyle,3
+1,2013-07-19 14:47:08 -0500,"/t/compsci,/t/javascript,/t/programming",Communicating Sequential Processes,http://swannodette.github.io/2013/07/12/communicating-sequential-processes/,/u/carinmeier,2
+0,2013-07-19 15:04:17 -0500,/t/hardware,Block I Apollo Guidance Computer (AGC): How to build one in your basement,http://klabs.org/history/build_agc/,/u/kyle,1
+0,2013-07-19 07:34:09 -0500,"/t/compsci,/t/math",Unhappy Truckers and Other Algorithmic Problems,http://nautil.us/issue/3/in-transit/unhappy-truckers-and-other-algorithmic-problems,/u/jasper,2
+0,2013-07-18 16:32:02 -0500,/t/security,Hash based signatures,https://www.imperialviolet.org/2013/07/18/hashsig.html,/u/jcs,10
+0,2013-07-18 17:48:45 -0500,/t/hardware,Reverse-engineering the flag circuits in the 8085 processor,http://www.righto.com/2013/07/reverse-engineering-flag-circuits-in.html?m=1,/u/kyle,4
+2,2013-07-18 15:25:58 -0500,"/t/practices,/t/programming,/t/rant",Being defensive when developing automated systems,/s/rgjfav/being_defensive_when_developing,/u/jcs,9
+0,2013-07-18 14:14:45 -0500,"/t/api,/t/security,/t/web",Persona: A login that matches your site,http://identity.mozilla.com/post/55796551587/persona-a-login-that-matches-your-site,/u/vladikoff,5
+0,2013-07-18 11:29:31 -0500,"/t/go,/t/rust","Philosophy and ""for"" loops (and their design in Go and Rust)",http://lwn.net/Articles/557073/,/u/bct,4
+1,2013-07-18 03:08:13 -0500,/t/go,The first Go program,http://blog.golang.org/first-go-program,/u/kyle,9
+5,2013-07-18 13:16:12 -0500,"/t/rant,/t/web",Has Mozilla Lost Its Values?,https://www.iab.net/iablog/2013/07/has-mozilla-lost-its-values.html,/u/jcs,3
+0,2013-07-18 06:18:56 -0500,"/t/philosophy,/t/practices,/t/programming",Social Anarchy in Software Development,http://barunsingh.com/2012/12/13/anarchy_in_software.html,/u/chneukirchen,1
+4,2013-07-17 08:57:03 -0500,/t/security,Malware Hidden Inside JPG EXIF Headers,http://blog.sucuri.net/2013/07/malware-hidden-inside-jpg-exif-headers.html,/u/zod000,5
+0,2013-07-17 09:38:02 -0500,"/t/hardware,/t/security",Google Glass exploit hacked wearable with QR codes,http://www.slashgear.com/google-glass-exploit-hacked-wearable-with-qr-codes-17290717/,/u/wally,8
+6,2013-07-17 02:52:14 -0500,"/t/compsci,/t/programming,/t/unix",Regex Crossword,http://regexcrossword.com,/u/ray,9
+1,2013-07-17 08:38:16 -0500,"/t/javascript,/t/practices",Why I Test Private Functions In JavaScript,http://philipwalton.com/articles/why-i-test-private-functions-in-javascript/,/u/joshuacc,5
+0,2013-07-17 07:07:34 -0500,/t/javascript,Fuck Off As A Service (FOAAS),http://foaas.herokuapp.com/,/u/zod000,7
+0,2013-07-17 09:41:28 -0500,"/t/c,/t/compsci",C as an intermediate language,http://www.yosefk.com/blog/c-as-an-intermediate-language.html,/u/kyle,5
+0,2013-07-17 13:27:20 -0500,"/t/news,/t/privacy",The World of Black-Ops Reputation Management,http://nymag.com/news/features/online-reputation-management-2013-6/,/u/tedu,2
+0,2013-07-17 03:06:18 -0500,"/t/freebsd,/t/networking,/t/security",FreeBSD improves SYN Cookie implementation,http://svnweb.freebsd.org/base?view=revision&revision=253210,/u/jcs,7
+0,2013-07-16 20:49:06 -0500,"/t/practices,/t/programming",What is Programmer Anarchy and does it have a future?,http://martinjeeblog.wordpress.com/2012/11/20/what-is-programmer-anarchy-and-does-it-have-a-future/,/u/cjh,3

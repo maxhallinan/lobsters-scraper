@@ -1,25 +1,25 @@
-2,2017-02-22 12:16:14 -0600,['/t/release'],"Little Birdie - Post Lobster, Hackernews, etc comments to Slack",https://littlebirdie.io/,/u/maqio,5
-0,2017-02-23 01:56:37 -0600,['/t/security'],Meet Securitybot: Open Sourcing Automated Security at Scale,http://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/,/u/av,1
-0,2017-02-22 07:57:54 -0600,"['/t/c', '/t/compilers', '/t/programming']",Snowflake Strings,https://dlang.org/blog/2017/02/22/snowflake-strings/,/u/hoelzro,12
-0,2017-02-23 01:43:48 -0600,['/t/python'],Elastic PyPi - Serverless PyPi,https://github.com/khornberg/elasticpypi,/u/av,1
-19,2017-02-21 12:22:11 -0600,"['/t/show', '/t/release']","F5Bot - Get an email when you're mentioned on Lobste.rs, Hacker News, or Reddit!",https://f5bot.com,/u/code,22
-1,2017-02-22 08:39:50 -0600,['/t/hardware'],Jeep Bluetooth Radio Hack for a TJ Jeep,http://longhornengineer.com/2017/02/06/jeep-bluetooth-radio-hack-for-a-tj-jeep/,/u/flyingfisch,7
-0,2017-02-22 23:16:22 -0600,"['/t/video', '/t/scala']",Scala Collections: Why Not? (2014),https://www.youtube.com/watch?v=uiJycy6dFSQ,/u/aduffy,1
-1,2017-02-22 13:13:40 -0600,"['/t/design', '/t/practices']",Make Your Pull Requests Visual for Front-End Changes,https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-changes-ef91d83d4fc2,/u/flyingfisch,3
-0,2017-02-22 14:01:01 -0600,['/t/api'],API Design Guide,https://cloud.google.com/apis/design/,/u/pushcx,4
-0,2017-02-22 18:16:15 -0600,"['/t/debugging', '/t/devops', '/t/web']",Understanding Nginx Server and Location Block Selection Algorithms,https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms,/u/friendlysock,2
-0,2017-02-22 21:08:21 -0600,['/t/compsci'],List of Theoretical CS conferences and workshops,http://cstheory.stackexchange.com/questions/7900/list-of-tcs-conferences-and-workshops,/u/Dawny33,1
-0,2017-02-22 21:07:48 -0600,['/t/compsci'],Applications of Game theory in computer science,http://cstheory.stackexchange.com/questions/16187/applications-of-game-theory-in-computer-science,/u/Dawny33,1
-12,2017-02-21 11:40:05 -0600,"['/t/linux', '/t/scaling']",How setting the TZ environment variable avoids thousands of system calls,https://blog.packagecloud.io/eng/2017/02/21/set-environment-variable-save-thousands-of-system-calls/,/u/capotej,38
-0,2017-02-22 10:43:11 -0600,['/t/ruby'],Building a tool that's easy for your team to use,https://www.saturnflyer.com/blog/building-a-tool-thats-easy-for-your-team-to-use,/u/saturnflyer,2
-0,2017-02-22 06:25:20 -0600,"['/t/pdf', '/t/networking', '/t/security']",The Security Impact of HTTPS Interception,https://zakird.com/papers/https_interception.pdf,/u/calvin,7
-0,2017-02-22 15:25:09 -0600,"['/t/hardware', '/t/reversing']",Universal Radio Hacker: investigate wireless protocols like a boss,https://github.com/jopohl/urh,/u/utzig,2
-4,2017-02-21 16:12:13 -0600,['/t/go'],Upspin - easier file sharing from Go core contributors,https://upspin.io/doc/overview.md,/u/kb,18
-56,2017-02-22 00:33:53 -0600,"['/t/finance', '/t/job', '/t/programming']",How Much Do You Cost?,http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html,/u/cnst,3
-0,2017-02-22 14:19:35 -0600,['/t/historical'],"Leibniz: emulator for RUNT based Newtons (OMP, Expert Pad, etc)",https://github.com/pablomarx/Leibniz,/u/wiedi,2
-7,2017-02-21 12:09:42 -0600,['/t/programming'],I found the best anagram in English,http://blog.plover.com/lang/anagram-scoring.html,/u/pushcx,30
-0,2017-02-22 08:30:22 -0600,"['/t/browsers', '/t/css', '/t/design']",Why I Love Element Queries & You Should Too!,https://hashnode.com/post/why-i-love-element-queries-and-you-should-too-cizgq4uyy000m7m53dsyeghst,/u/innovati,2
-1,2017-02-22 00:48:29 -0600,"['/t/programming', '/t/visualization']","Finding Radiohead’s most depressing song, with R",https://www.r-bloggers.com/finding-radioheads-most-depressing-song-with-r/,/u/av,8
-0,2017-02-22 16:30:53 -0600,"['/t/graphics', '/t/math']",Stuffing curves into boxes: calculating the bounds,https://mortoray.com/2017/02/23/stuffing-curves-into-boxes-calculating-the-bounds/,/u/eeue56,1
-0,2017-02-22 01:34:01 -0600,['/t/release'],mandoc 1.14.1 released,http://mdocml.bsd.lv/NEWS,/u/sevan,8
-0,2017-02-22 11:23:59 -0600,"['/t/elixir', '/t/testing']",End-to-end Testing in Elixir with Hound,https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound,/u/cooler_ranch,2
+2,2017-02-22 12:16:14 -0600,/t/release,"Little Birdie - Post Lobster, Hackernews, etc comments to Slack",https://littlebirdie.io/,/u/maqio,5
+0,2017-02-23 01:56:37 -0600,/t/security,Meet Securitybot: Open Sourcing Automated Security at Scale,http://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/,/u/av,1
+0,2017-02-22 07:57:54 -0600,"/t/c,/t/compilers,/t/programming",Snowflake Strings,https://dlang.org/blog/2017/02/22/snowflake-strings/,/u/hoelzro,12
+0,2017-02-23 01:43:48 -0600,/t/python,Elastic PyPi - Serverless PyPi,https://github.com/khornberg/elasticpypi,/u/av,1
+19,2017-02-21 12:22:11 -0600,"/t/show,/t/release","F5Bot - Get an email when you're mentioned on Lobste.rs, Hacker News, or Reddit!",https://f5bot.com,/u/code,22
+1,2017-02-22 08:39:50 -0600,/t/hardware,Jeep Bluetooth Radio Hack for a TJ Jeep,http://longhornengineer.com/2017/02/06/jeep-bluetooth-radio-hack-for-a-tj-jeep/,/u/flyingfisch,7
+0,2017-02-22 23:16:22 -0600,"/t/video,/t/scala",Scala Collections: Why Not? (2014),https://www.youtube.com/watch?v=uiJycy6dFSQ,/u/aduffy,1
+1,2017-02-22 13:13:40 -0600,"/t/design,/t/practices",Make Your Pull Requests Visual for Front-End Changes,https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-changes-ef91d83d4fc2,/u/flyingfisch,3
+0,2017-02-22 14:01:01 -0600,/t/api,API Design Guide,https://cloud.google.com/apis/design/,/u/pushcx,4
+0,2017-02-22 18:16:15 -0600,"/t/debugging,/t/devops,/t/web",Understanding Nginx Server and Location Block Selection Algorithms,https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms,/u/friendlysock,2
+0,2017-02-22 21:08:21 -0600,/t/compsci,List of Theoretical CS conferences and workshops,http://cstheory.stackexchange.com/questions/7900/list-of-tcs-conferences-and-workshops,/u/Dawny33,1
+0,2017-02-22 21:07:48 -0600,/t/compsci,Applications of Game theory in computer science,http://cstheory.stackexchange.com/questions/16187/applications-of-game-theory-in-computer-science,/u/Dawny33,1
+12,2017-02-21 11:40:05 -0600,"/t/linux,/t/scaling",How setting the TZ environment variable avoids thousands of system calls,https://blog.packagecloud.io/eng/2017/02/21/set-environment-variable-save-thousands-of-system-calls/,/u/capotej,38
+0,2017-02-22 10:43:11 -0600,/t/ruby,Building a tool that's easy for your team to use,https://www.saturnflyer.com/blog/building-a-tool-thats-easy-for-your-team-to-use,/u/saturnflyer,2
+0,2017-02-22 06:25:20 -0600,"/t/pdf,/t/networking,/t/security",The Security Impact of HTTPS Interception,https://zakird.com/papers/https_interception.pdf,/u/calvin,7
+0,2017-02-22 15:25:09 -0600,"/t/hardware,/t/reversing",Universal Radio Hacker: investigate wireless protocols like a boss,https://github.com/jopohl/urh,/u/utzig,2
+4,2017-02-21 16:12:13 -0600,/t/go,Upspin - easier file sharing from Go core contributors,https://upspin.io/doc/overview.md,/u/kb,18
+56,2017-02-22 00:33:53 -0600,"/t/finance,/t/job,/t/programming",How Much Do You Cost?,http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html,/u/cnst,3
+0,2017-02-22 14:19:35 -0600,/t/historical,"Leibniz: emulator for RUNT based Newtons (OMP, Expert Pad, etc)",https://github.com/pablomarx/Leibniz,/u/wiedi,2
+7,2017-02-21 12:09:42 -0600,/t/programming,I found the best anagram in English,http://blog.plover.com/lang/anagram-scoring.html,/u/pushcx,30
+0,2017-02-22 08:30:22 -0600,"/t/browsers,/t/css,/t/design",Why I Love Element Queries & You Should Too!,https://hashnode.com/post/why-i-love-element-queries-and-you-should-too-cizgq4uyy000m7m53dsyeghst,/u/innovati,2
+1,2017-02-22 00:48:29 -0600,"/t/programming,/t/visualization","Finding Radiohead’s most depressing song, with R",https://www.r-bloggers.com/finding-radioheads-most-depressing-song-with-r/,/u/av,8
+0,2017-02-22 16:30:53 -0600,"/t/graphics,/t/math",Stuffing curves into boxes: calculating the bounds,https://mortoray.com/2017/02/23/stuffing-curves-into-boxes-calculating-the-bounds/,/u/eeue56,1
+0,2017-02-22 01:34:01 -0600,/t/release,mandoc 1.14.1 released,http://mdocml.bsd.lv/NEWS,/u/sevan,8
+0,2017-02-22 11:23:59 -0600,"/t/elixir,/t/testing",End-to-end Testing in Elixir with Hound,https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound,/u/cooler_ranch,2

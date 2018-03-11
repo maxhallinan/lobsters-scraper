@@ -1,25 +1,25 @@
-6,2017-12-04 07:49:38 -0600,"['/t/cryptocurrencies', '/t/law']",The UK and EU want to force bitcoin users to reveal their identities,http://www.businessinsider.com/anti-money-laundering-cryptocurrencies-regulation-eu-uk-identity-2017-12,/u/djsumdog,2
-4,2017-12-03 15:32:47 -0600,"['/t/netbsd', '/t/practices', '/t/virtualization']",Leaving AWS,https://gist.github.com/bsiegert/aa477dbe371c318d9f86a2cad95137f1#file-leaving-aws-md,/u/sevan,22
-0,2017-12-04 06:36:51 -0600,"['/t/browsers', '/t/javascript', '/t/rust']",Rocket - A Rust game running on WASM,https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/,/u/av,4
-0,2017-12-04 06:18:18 -0600,"['/t/practices', '/t/science']",The role of software in spacecraft accidents,https://blog.acolyer.org/2017/11/30/the-role-of-software-in-spacecraft-accidents/,/u/calvin,4
-1,2017-12-04 06:45:04 -0600,['/t/vcs'],How to use Git hooks to version control your Excel VBA code,https://www.xltrail.com/blog/auto-export-vba-commit-hook,/u/av,2
-2,2017-12-03 13:49:02 -0600,"['/t/ask', '/t/show', '/t/compsci', '/t/education']",New Version of Learn Anything released (Open Source website to learn anything with Interactive maps),/s/r73vux/new_version_learn_anything_released_open,/u/nikivi,11
-0,2017-12-03 20:54:46 -0600,['/t/practices'],Unapocalyptic Software,https://www.tbray.org/ongoing/When/201x/2017/11/27/Software-Reality,/u/calvin,10
-0,2017-12-04 09:17:36 -0600,['/t/security'],European Parliament Approves Budget for VLC Bounty Program,https://hackerone.com/vlc,/u/flyingfisch,2
-0,2017-12-04 07:05:59 -0600,['/t/ruby'],Episode 108 - Tracking Errors with Sentry,https://www.driftingruby.com/episodes/tracking-errors-with-sentry,/u/kobaltz,1
-0,2017-12-04 11:59:27 -0600,"['/t/dotnet', '/t/programming']",How Jet Built a GPU-Powered Fulfillment Engine with F# and CUDA,https://devblogs.nvidia.com/parallelforall/jet-gpu-powered-fulfillment/,/u/mfeathers,1
-0,2017-12-04 10:19:18 -0600,['/t/browsers'],Using the new theming API in Firefox,https://hacks.mozilla.org/2017/12/using-the-new-theming-api-in-firefox/,/u/flyingfisch,1
-0,2017-12-04 01:25:40 -0600,['/t/design'],How Stripe Designs Beautiful Websites,https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/,/u/av,4
-0,2017-12-03 19:48:13 -0600,"['/t/compsci', '/t/haskell']",Debugging Church Numerals in Haskell,http://www.hansdieterhiep.nl/tutorials/debugging-church-numerals-in-haskell/,/u/praalhans,4
-0,2017-12-03 12:26:54 -0600,['/t/hardware'],Hands-on with the PocketBeagle: the tiny $25 Linux computer in the BeagleBone family,http://www.righto.com/2017/12/hands-on-with-pocketbeagle-tiny-25.html,/u/calvin,18
-0,2017-12-04 09:42:30 -0600,"['/t/video', '/t/devops']",How Your Systems Keep Running Day After Day,https://www.youtube.com/watch?v=xA5U85LSk0M,/u/unbalancedparentheses,1
-2,2017-12-03 21:03:27 -0600,"['/t/haskell', '/t/programming', '/t/ruby']",Event Sourcing is a transferable skill,https://blog.arkency.com/event-sourcing-is-a-transferable-skill/,/u/calvin,4
-2,2017-12-04 03:55:43 -0600,['/t/cryptocurrencies'],Ethereum network is currently clogged by cryptokitties.co,https://www.reddit.com/r/ArkEcosystem/comments/7hcwq1/ethereum_network_is_currently_clogged_by/,/u/David_Gerard,1
-0,2017-12-04 02:57:47 -0600,['/t/graphics'],Volumetric Atmospheric Scattering,https://www.alanzucconi.com/2017/10/10/atmospheric-scattering-1/,/u/mikejsavage,2
-1,2017-12-03 11:13:54 -0600,['/t/math'],"Dice Become Ordered When Stirred, Not Shaken",https://physics.aps.org/articles/v10/130,/u/awn,13
-3,2017-12-03 14:10:17 -0600,['/t/cryptocurrencies'],"Smart contracts, Heise Technology Review, Oktober 2017: original interview in English",https://davidgerard.co.uk/blockchain/2017/12/03/smart-contracts-article-in-heise-technology-review-oktober-2017-original-interview-in-english/,/u/David_Gerard,3
-1,2017-12-03 21:55:06 -0600,"['/t/practices', '/t/security']",INSCOM Red Disk image found on public AWS storage,http://www.zdnet.com/article/nsa-leak-inscom-exposes-red-disk-intelligence-system/,/u/minimax,2
-0,2017-12-03 21:16:36 -0600,"['/t/devops', '/t/go', '/t/visualization']",A DIY Dashboard with Grafana,https://appliedgo.net/diydashboard/,/u/jackklika,3
-2,2017-12-03 20:52:24 -0600,"['/t/c', '/t/historical', '/t/programming', '/t/windows']",The Infamous Windows “Hello World” Program,http://www.charlespetzold.com/blog/2014/12/The-Infamous-Windows-Hello-World-Program.html?1,/u/calvin,2
-0,2017-12-03 21:50:29 -0600,"['/t/linux', '/t/release']",metastore 1.1.1 - bugfix release of metadata tool for file system trees on Linux,https://www.freelists.org/post/metastore-announce/metastore-v111,/u/przemoc,1
-0,2017-12-04 01:27:23 -0600,['/t/clojure'],Nightcoders.net - A cloud IDE for ClojureScript,http://nightcoders.net/,/u/av,1
+6,2017-12-04 07:49:38 -0600,"/t/cryptocurrencies,/t/law",The UK and EU want to force bitcoin users to reveal their identities,http://www.businessinsider.com/anti-money-laundering-cryptocurrencies-regulation-eu-uk-identity-2017-12,/u/djsumdog,2
+4,2017-12-03 15:32:47 -0600,"/t/netbsd,/t/practices,/t/virtualization",Leaving AWS,https://gist.github.com/bsiegert/aa477dbe371c318d9f86a2cad95137f1#file-leaving-aws-md,/u/sevan,22
+0,2017-12-04 06:36:51 -0600,"/t/browsers,/t/javascript,/t/rust",Rocket - A Rust game running on WASM,https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/,/u/av,4
+0,2017-12-04 06:18:18 -0600,"/t/practices,/t/science",The role of software in spacecraft accidents,https://blog.acolyer.org/2017/11/30/the-role-of-software-in-spacecraft-accidents/,/u/calvin,4
+1,2017-12-04 06:45:04 -0600,/t/vcs,How to use Git hooks to version control your Excel VBA code,https://www.xltrail.com/blog/auto-export-vba-commit-hook,/u/av,2
+2,2017-12-03 13:49:02 -0600,"/t/ask,/t/show,/t/compsci,/t/education",New Version of Learn Anything released (Open Source website to learn anything with Interactive maps),/s/r73vux/new_version_learn_anything_released_open,/u/nikivi,11
+0,2017-12-03 20:54:46 -0600,/t/practices,Unapocalyptic Software,https://www.tbray.org/ongoing/When/201x/2017/11/27/Software-Reality,/u/calvin,10
+0,2017-12-04 09:17:36 -0600,/t/security,European Parliament Approves Budget for VLC Bounty Program,https://hackerone.com/vlc,/u/flyingfisch,2
+0,2017-12-04 07:05:59 -0600,/t/ruby,Episode 108 - Tracking Errors with Sentry,https://www.driftingruby.com/episodes/tracking-errors-with-sentry,/u/kobaltz,1
+0,2017-12-04 11:59:27 -0600,"/t/dotnet,/t/programming",How Jet Built a GPU-Powered Fulfillment Engine with F# and CUDA,https://devblogs.nvidia.com/parallelforall/jet-gpu-powered-fulfillment/,/u/mfeathers,1
+0,2017-12-04 10:19:18 -0600,/t/browsers,Using the new theming API in Firefox,https://hacks.mozilla.org/2017/12/using-the-new-theming-api-in-firefox/,/u/flyingfisch,1
+0,2017-12-04 01:25:40 -0600,/t/design,How Stripe Designs Beautiful Websites,https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/,/u/av,4
+0,2017-12-03 19:48:13 -0600,"/t/compsci,/t/haskell",Debugging Church Numerals in Haskell,http://www.hansdieterhiep.nl/tutorials/debugging-church-numerals-in-haskell/,/u/praalhans,4
+0,2017-12-03 12:26:54 -0600,/t/hardware,Hands-on with the PocketBeagle: the tiny $25 Linux computer in the BeagleBone family,http://www.righto.com/2017/12/hands-on-with-pocketbeagle-tiny-25.html,/u/calvin,18
+0,2017-12-04 09:42:30 -0600,"/t/video,/t/devops",How Your Systems Keep Running Day After Day,https://www.youtube.com/watch?v=xA5U85LSk0M,/u/unbalancedparentheses,1
+2,2017-12-03 21:03:27 -0600,"/t/haskell,/t/programming,/t/ruby",Event Sourcing is a transferable skill,https://blog.arkency.com/event-sourcing-is-a-transferable-skill/,/u/calvin,4
+2,2017-12-04 03:55:43 -0600,/t/cryptocurrencies,Ethereum network is currently clogged by cryptokitties.co,https://www.reddit.com/r/ArkEcosystem/comments/7hcwq1/ethereum_network_is_currently_clogged_by/,/u/David_Gerard,1
+0,2017-12-04 02:57:47 -0600,/t/graphics,Volumetric Atmospheric Scattering,https://www.alanzucconi.com/2017/10/10/atmospheric-scattering-1/,/u/mikejsavage,2
+1,2017-12-03 11:13:54 -0600,/t/math,"Dice Become Ordered When Stirred, Not Shaken",https://physics.aps.org/articles/v10/130,/u/awn,13
+3,2017-12-03 14:10:17 -0600,/t/cryptocurrencies,"Smart contracts, Heise Technology Review, Oktober 2017: original interview in English",https://davidgerard.co.uk/blockchain/2017/12/03/smart-contracts-article-in-heise-technology-review-oktober-2017-original-interview-in-english/,/u/David_Gerard,3
+1,2017-12-03 21:55:06 -0600,"/t/practices,/t/security",INSCOM Red Disk image found on public AWS storage,http://www.zdnet.com/article/nsa-leak-inscom-exposes-red-disk-intelligence-system/,/u/minimax,2
+0,2017-12-03 21:16:36 -0600,"/t/devops,/t/go,/t/visualization",A DIY Dashboard with Grafana,https://appliedgo.net/diydashboard/,/u/jackklika,3
+2,2017-12-03 20:52:24 -0600,"/t/c,/t/historical,/t/programming,/t/windows",The Infamous Windows “Hello World” Program,http://www.charlespetzold.com/blog/2014/12/The-Infamous-Windows-Hello-World-Program.html?1,/u/calvin,2
+0,2017-12-03 21:50:29 -0600,"/t/linux,/t/release",metastore 1.1.1 - bugfix release of metadata tool for file system trees on Linux,https://www.freelists.org/post/metastore-announce/metastore-v111,/u/przemoc,1
+0,2017-12-04 01:27:23 -0600,/t/clojure,Nightcoders.net - A cloud IDE for ClojureScript,http://nightcoders.net/,/u/av,1

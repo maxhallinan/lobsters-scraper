@@ -1,25 +1,25 @@
-0,2016-06-22 05:32:40 -0500,"['/t/compilers', '/t/scala']",Dotty - A next generation compiler for Scala,http://dotty.epfl.ch/,/u/355E3B,11
-0,2016-06-22 12:55:45 -0500,"['/t/javascript', '/t/web']",An Elastic Stack Primer,https://ponyfoo.com/articles/an-elastic-stack-primer,/u/ponyfoo,2
-1,2016-06-22 14:18:36 -0500,"['/t/browsers', '/t/web']",Web Share API Proposal,https://groups.google.com/a/chromium.org/d/msg/blink-dev/1BOhy5av8MQ/OPPt76oZCQAJ,/u/flyingfisch,2
-3,2016-06-22 14:09:12 -0500,"['/t/culture', '/t/law', '/t/philosophy']",The New Censorship,http://www.usnews.com/opinion/articles/2016-06-22/google-is-the-worlds-biggest-censor-and-its-power-must-be-regulated,/u/friendlysock,6
-3,2016-06-21 20:31:49 -0500,"['/t/show', '/t/release']",XMake: A make-like build utility based on Lua,https://github.com/waruqi/xmake,/u/ruki,8
-1,2016-06-22 15:57:04 -0500,"['/t/design', '/t/web']",Icons - Materialize Framework,http://materializecss.com/icons.html,/u/flyingfisch,2
-31,2016-06-21 11:12:55 -0500,"['/t/debugging', '/t/practices']",I do not use a debugger,http://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/,/u/GeoffWozniak,28
-1,2016-06-23 06:44:56 -0500,['/t/culture'],Welcoming Communities,http://hood.ie/blog/welcoming-communities.html,/u/adsouza,0
-0,2016-06-21 20:54:40 -0500,"['/t/book', '/t/haskell']",Programming in Haskell 2nd Ed.,http://www.cambridge.org/gb/academic/subjects/computer-science/programming-languages-and-applied-logic/programming-haskell-2nd-edition,/u/davyjones,18
-0,2016-06-22 14:19:20 -0500,"['/t/design', '/t/testing', '/t/web']",The Art Of Layout Testing With Galen Framework,https://www.smashingmagazine.com/2016/06/the-art-of-layout-testing-with-galen-framework/,/u/flyingfisch,2
-0,2016-06-22 18:06:58 -0500,"['/t/javascript', '/t/release']",JavaScript performance updates in Microsoft Edge and Chakra,https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/,/u/friendlysock,1
-0,2016-06-22 06:12:31 -0500,['/t/compsci'],Concrete AI safety problems,https://openai.com/blog/concrete-ai-safety-problems/,/u/adsouza,5
-1,2016-06-22 05:24:13 -0500,"['/t/cogsci', '/t/programming']",Writing good code: how to reduce the cognitive load of your code,http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/,/u/innerspirit,1
-1,2016-06-22 02:04:30 -0500,"['/t/math', '/t/programming']",One year as a Data Scientist at Stack Overflow,http://varianceexplained.org/r/year_data_scientist/,/u/tf,5
-0,2016-06-22 06:34:40 -0500,['/t/freebsd'],Run CoreOS on FreeBSD's bhyve,https://imil.net/blog/2016/06/21/CoreOS_on_bhyve/,/u/sevan,3
-2,2016-06-21 09:04:03 -0500,"['/t/elixir', '/t/release']",Elixir v1.3 released,http://elixir-lang.org/blog/2016/06/21/elixir-v1-3-0-released/,/u/ajorgensen,31
-2,2016-06-21 11:28:07 -0500,"['/t/philosophy', '/t/practices']","So busy doing my job, I can't get any work done",http://sethgodin.typepad.com/seths_blog/2016/06/so-busy-doing-my-job-i-cant-get-any-work-done.html,/u/dwc,17
-0,2016-06-21 21:54:39 -0500,"['/t/law', '/t/privacy']",We Made the Message Loud and Clear: Stop the Rule 41 Updates,https://www.eff.org/deeplinks/2016/06/we-made-message-loud-and-clear-stop-rule-41-updates,/u/friendlysock,7
-9,2016-06-21 10:13:32 -0500,['/t/privacy'],PayPal Attempts Blackmailing app.selfie.de Into Breaking the Law,https://seafile.de/en/important-infos-about-app-seafile-de-and-licensing-purchases-through-our-web-shops/,/u/fkr,10
-0,2016-06-21 10:32:15 -0500,['/t/browsers'],Chromium JIT compiler not preserving method behavior,https://bugs.chromium.org/p/chromium/issues/detail?id=604033,/u/ajorgensen,13
-0,2016-06-21 17:00:47 -0500,['/t/finance'],Rogue Machine Intelligence and A New Kind of Hedge Fund,https://medium.com/@Numerai/rogue-machine-intelligence-and-a-new-kind-of-hedge-fund-7b208deec5f0,/u/pushcx,6
-1,2016-06-21 11:22:25 -0500,"['/t/video', '/t/hardware', '/t/law']",Shenzhen: A new breed of intellectual property (Part 3),https://www.youtube.com/watch?v=e4wbFdePb-k,/u/jcs,7
-3,2016-06-21 02:15:06 -0500,"['/t/dotnet', '/t/web']",F# Implementation of The Elm Architecture,http://anthonylloyd.github.io/blog/2016/06/20/fsharp-elm-part1,/u/geocar,21
-0,2016-06-21 12:22:33 -0500,"['/t/devops', '/t/distributed', '/t/go']",Deis Workflow: Migrating from fleet to Kubernetes,https://deis.com/blog/2016/deis-workflow-migrating-fleet-kubernetes/,/u/bacongobbler,4
-0,2016-06-21 10:25:51 -0500,['/t/compilers'],ThinLTO: Scalable and Incremental LTO,http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html,/u/awreece,9
+0,2016-06-22 05:32:40 -0500,"/t/compilers,/t/scala",Dotty - A next generation compiler for Scala,http://dotty.epfl.ch/,/u/355E3B,11
+0,2016-06-22 12:55:45 -0500,"/t/javascript,/t/web",An Elastic Stack Primer,https://ponyfoo.com/articles/an-elastic-stack-primer,/u/ponyfoo,2
+1,2016-06-22 14:18:36 -0500,"/t/browsers,/t/web",Web Share API Proposal,https://groups.google.com/a/chromium.org/d/msg/blink-dev/1BOhy5av8MQ/OPPt76oZCQAJ,/u/flyingfisch,2
+3,2016-06-22 14:09:12 -0500,"/t/culture,/t/law,/t/philosophy",The New Censorship,http://www.usnews.com/opinion/articles/2016-06-22/google-is-the-worlds-biggest-censor-and-its-power-must-be-regulated,/u/friendlysock,6
+3,2016-06-21 20:31:49 -0500,"/t/show,/t/release",XMake: A make-like build utility based on Lua,https://github.com/waruqi/xmake,/u/ruki,8
+1,2016-06-22 15:57:04 -0500,"/t/design,/t/web",Icons - Materialize Framework,http://materializecss.com/icons.html,/u/flyingfisch,2
+31,2016-06-21 11:12:55 -0500,"/t/debugging,/t/practices",I do not use a debugger,http://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/,/u/GeoffWozniak,28
+1,2016-06-23 06:44:56 -0500,/t/culture,Welcoming Communities,http://hood.ie/blog/welcoming-communities.html,/u/adsouza,0
+0,2016-06-21 20:54:40 -0500,"/t/book,/t/haskell",Programming in Haskell 2nd Ed.,http://www.cambridge.org/gb/academic/subjects/computer-science/programming-languages-and-applied-logic/programming-haskell-2nd-edition,/u/davyjones,18
+0,2016-06-22 14:19:20 -0500,"/t/design,/t/testing,/t/web",The Art Of Layout Testing With Galen Framework,https://www.smashingmagazine.com/2016/06/the-art-of-layout-testing-with-galen-framework/,/u/flyingfisch,2
+0,2016-06-22 18:06:58 -0500,"/t/javascript,/t/release",JavaScript performance updates in Microsoft Edge and Chakra,https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/,/u/friendlysock,1
+0,2016-06-22 06:12:31 -0500,/t/compsci,Concrete AI safety problems,https://openai.com/blog/concrete-ai-safety-problems/,/u/adsouza,5
+1,2016-06-22 05:24:13 -0500,"/t/cogsci,/t/programming",Writing good code: how to reduce the cognitive load of your code,http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/,/u/innerspirit,1
+1,2016-06-22 02:04:30 -0500,"/t/math,/t/programming",One year as a Data Scientist at Stack Overflow,http://varianceexplained.org/r/year_data_scientist/,/u/tf,5
+0,2016-06-22 06:34:40 -0500,/t/freebsd,Run CoreOS on FreeBSD's bhyve,https://imil.net/blog/2016/06/21/CoreOS_on_bhyve/,/u/sevan,3
+2,2016-06-21 09:04:03 -0500,"/t/elixir,/t/release",Elixir v1.3 released,http://elixir-lang.org/blog/2016/06/21/elixir-v1-3-0-released/,/u/ajorgensen,31
+2,2016-06-21 11:28:07 -0500,"/t/philosophy,/t/practices","So busy doing my job, I can't get any work done",http://sethgodin.typepad.com/seths_blog/2016/06/so-busy-doing-my-job-i-cant-get-any-work-done.html,/u/dwc,17
+0,2016-06-21 21:54:39 -0500,"/t/law,/t/privacy",We Made the Message Loud and Clear: Stop the Rule 41 Updates,https://www.eff.org/deeplinks/2016/06/we-made-message-loud-and-clear-stop-rule-41-updates,/u/friendlysock,7
+9,2016-06-21 10:13:32 -0500,/t/privacy,PayPal Attempts Blackmailing app.selfie.de Into Breaking the Law,https://seafile.de/en/important-infos-about-app-seafile-de-and-licensing-purchases-through-our-web-shops/,/u/fkr,10
+0,2016-06-21 10:32:15 -0500,/t/browsers,Chromium JIT compiler not preserving method behavior,https://bugs.chromium.org/p/chromium/issues/detail?id=604033,/u/ajorgensen,13
+0,2016-06-21 17:00:47 -0500,/t/finance,Rogue Machine Intelligence and A New Kind of Hedge Fund,https://medium.com/@Numerai/rogue-machine-intelligence-and-a-new-kind-of-hedge-fund-7b208deec5f0,/u/pushcx,6
+1,2016-06-21 11:22:25 -0500,"/t/video,/t/hardware,/t/law",Shenzhen: A new breed of intellectual property (Part 3),https://www.youtube.com/watch?v=e4wbFdePb-k,/u/jcs,7
+3,2016-06-21 02:15:06 -0500,"/t/dotnet,/t/web",F# Implementation of The Elm Architecture,http://anthonylloyd.github.io/blog/2016/06/20/fsharp-elm-part1,/u/geocar,21
+0,2016-06-21 12:22:33 -0500,"/t/devops,/t/distributed,/t/go",Deis Workflow: Migrating from fleet to Kubernetes,https://deis.com/blog/2016/deis-workflow-migrating-fleet-kubernetes/,/u/bacongobbler,4
+0,2016-06-21 10:25:51 -0500,/t/compilers,ThinLTO: Scalable and Incremental LTO,http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html,/u/awreece,9

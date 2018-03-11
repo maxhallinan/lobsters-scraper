@@ -1,25 +1,25 @@
-1,2013-04-30 10:31:03 -0500,"['/t/javascript', '/t/mac', '/t/python', '/t/release']",Light Table 0.4 Released,http://www.chris-granger.com/2013/04/28/light-table-040/,/u/jcs,4
-2,2013-04-30 05:59:24 -0500,['/t/programming'],Some insight into the read cache of ZFS - or: The ARC,http://www.c0t0d0s0.org/archives/5329-Some-insight-into-the-read-cache-of-ZFS-or-The-ARC.html,/u/thorduri,4
-0,2013-04-30 12:11:06 -0500,['/t/compsci'],Iso-Recursive versus Equi-Recursive Types,http://whiley.org/2013/04/21/iso-recursive-versus-equi-recursive-types/,/u/puffnfresh,1
-0,2013-04-29 23:37:51 -0500,"['/t/release', '/t/unix']",DragonFly 3.4 released,http://lists.dragonflybsd.org/pipermail/users/2013-April/053314.html,/u/jcs,6
-0,2013-04-30 01:16:05 -0500,['/t/go'],Curious Channels,http://dave.cheney.net/2013/04/30/curious-channels,/u/kyle,3
-1,2013-04-29 21:32:19 -0500,"['/t/mac', '/t/networking', '/t/security']","Your Mac, iPhone or iPad may have left the Apple store with a serious security risk",http://www.troyhunt.com/2013/04/your-mac-iphone-or-ipad-may-have-left.html,/u/jcs,1
-1,2013-04-29 13:44:55 -0500,['/t/security'],Mozilla Persona for the non-web,https://hacks.mozilla.org/2013/04/mozilla-persona-for-the-non-web/,/u/jcs,4
-0,2013-04-29 12:57:45 -0500,"['/t/security', '/t/unix']",bcron: a new cron system designed with secure operations in mind,http://www.untroubled.org/bcron/,/u/jcs,3
-0,2013-04-29 15:34:42 -0500,"['/t/privacy', '/t/security']",What Happened to the Crypto Dream? Now in a new and improved paper form,http://33bits.org/2013/04/29/what-happened-to-the-crypto-dream-now-in-a-new-and-improved-paper-form/,/u/jcs,2
-1,2013-04-29 11:30:37 -0500,"['/t/compsci', '/t/programming']",Real Talk Podcast,http://realtalk.io/,/u/jcs,2
-1,2013-04-29 06:00:10 -0500,"['/t/pdf', '/t/compsci']",Raft: In Search of an Understandable Consensus Algorithm,https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf,/u/thorduri,4
-12,2013-04-28 08:25:34 -0500,"['/t/go', '/t/linux']",Daemonising Go Programs,http://kyleisom.net/blog/2013/04/27/making-go-code-upstart-friendly,/u/kyle,6
-2,2013-04-27 14:33:15 -0500,['/t/hardware'],My two-week review of Google Glass,https://plus.google.com/+Scobleizer/posts/ZLV9GdmkRzS,/u/apas,3
-0,2013-04-26 17:09:57 -0500,"['/t/linux', '/t/programming', '/t/ruby']",Yak Shaving Day: Rails Asset Precompilation to Kernel Debugging,http://www.gironda.org/2013/04/26/from-asset-precompilation-to-system-calls.html,/u/jcs,4
-0,2013-04-26 13:16:20 -0500,"['/t/compsci', '/t/programming']",Dive into parser combinators: parsing search queries with F# and FParsec,http://blog.fogcreek.com/fparsec/,/u/tedu,3
-0,2013-04-26 12:08:10 -0500,"['/t/pdf', '/t/mac', '/t/mobile', '/t/security']",Stefan Esser: Mountain Lion/iOS Vulnerabilities Garage Sale,http://antid0te.com/syscan_2013/SyScan2013_Stefan_Esser_Mountain_Lion_iOS_Vulnerabilities_Garage_Sale.pdf,/u/jcs,2
-0,2013-04-26 09:51:06 -0500,"['/t/lua', '/t/web']",Lapis - A web framework for MoonScript (or Lua) & OpenResty,http://leafo.net/lapis/,/u/fcambus,2
-2,2013-04-25 10:37:13 -0500,['/t/event'],Ask Lobste.rs: Meetup at Railsconf?,/s/4b8dvb/ask_lobste_rs_meetup_at_railsconf,/u/kb,7
-1,2013-04-25 12:21:34 -0500,"['/t/browsers', '/t/security']",Abusing Safari's webarchive file format,https://community.rapid7.com/community/metasploit/blog/2013/04/25/abusing-safaris-webarchive-file-format,/u/jcs,4
-0,2013-04-25 21:59:13 -0500,"['/t/openbsd', '/t/security']",The Hail Mary Cloud And The Lessons Learned,http://home.nuug.no/~peter/hailmary2013/,/u/dcasati,1
-1,2013-04-25 09:19:48 -0500,['/t/ruby'],Advanced topics in Ruby FFI,http://www.elabs.se/blog/61-advanced-topics-in-ruby-ffi,/u/jperkins,5
-0,2013-04-25 09:36:59 -0500,['/t/math'],fhtr: Logic Algebra,http://fhtr.blogspot.com/2013/04/logic-algebra.html,/u/jperkins,3
-0,2013-04-25 09:35:07 -0500,"['/t/compsci', '/t/scala']","A Simple, Functional, Merkle Tree Implementation in Scala",http://blog.adelbertc.com/post/48389747897/a-simple-functional-merkle-tree-implementation-in,/u/jperkins,2
-0,2013-04-25 09:33:27 -0500,"['/t/networking', '/t/release']",Re: The Complexity of a Simple Prefix,http://blog.freron.com/2013/re-the-complexity-of-a-simple-prefix/,/u/jperkins,2
-0,2013-04-25 09:25:18 -0500,['/t/devops'],Scaling Pinterest - From 0 to 10s of Billions of Page Views a Month in Two Years,http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html,/u/jperkins,2
+1,2013-04-30 10:31:03 -0500,"/t/javascript,/t/mac,/t/python,/t/release",Light Table 0.4 Released,http://www.chris-granger.com/2013/04/28/light-table-040/,/u/jcs,4
+2,2013-04-30 05:59:24 -0500,/t/programming,Some insight into the read cache of ZFS - or: The ARC,http://www.c0t0d0s0.org/archives/5329-Some-insight-into-the-read-cache-of-ZFS-or-The-ARC.html,/u/thorduri,4
+0,2013-04-30 12:11:06 -0500,/t/compsci,Iso-Recursive versus Equi-Recursive Types,http://whiley.org/2013/04/21/iso-recursive-versus-equi-recursive-types/,/u/puffnfresh,1
+0,2013-04-29 23:37:51 -0500,"/t/release,/t/unix",DragonFly 3.4 released,http://lists.dragonflybsd.org/pipermail/users/2013-April/053314.html,/u/jcs,6
+0,2013-04-30 01:16:05 -0500,/t/go,Curious Channels,http://dave.cheney.net/2013/04/30/curious-channels,/u/kyle,3
+1,2013-04-29 21:32:19 -0500,"/t/mac,/t/networking,/t/security","Your Mac, iPhone or iPad may have left the Apple store with a serious security risk",http://www.troyhunt.com/2013/04/your-mac-iphone-or-ipad-may-have-left.html,/u/jcs,1
+1,2013-04-29 13:44:55 -0500,/t/security,Mozilla Persona for the non-web,https://hacks.mozilla.org/2013/04/mozilla-persona-for-the-non-web/,/u/jcs,4
+0,2013-04-29 12:57:45 -0500,"/t/security,/t/unix",bcron: a new cron system designed with secure operations in mind,http://www.untroubled.org/bcron/,/u/jcs,3
+0,2013-04-29 15:34:42 -0500,"/t/privacy,/t/security",What Happened to the Crypto Dream? Now in a new and improved paper form,http://33bits.org/2013/04/29/what-happened-to-the-crypto-dream-now-in-a-new-and-improved-paper-form/,/u/jcs,2
+1,2013-04-29 11:30:37 -0500,"/t/compsci,/t/programming",Real Talk Podcast,http://realtalk.io/,/u/jcs,2
+1,2013-04-29 06:00:10 -0500,"/t/pdf,/t/compsci",Raft: In Search of an Understandable Consensus Algorithm,https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf,/u/thorduri,4
+12,2013-04-28 08:25:34 -0500,"/t/go,/t/linux",Daemonising Go Programs,http://kyleisom.net/blog/2013/04/27/making-go-code-upstart-friendly,/u/kyle,6
+2,2013-04-27 14:33:15 -0500,/t/hardware,My two-week review of Google Glass,https://plus.google.com/+Scobleizer/posts/ZLV9GdmkRzS,/u/apas,3
+0,2013-04-26 17:09:57 -0500,"/t/linux,/t/programming,/t/ruby",Yak Shaving Day: Rails Asset Precompilation to Kernel Debugging,http://www.gironda.org/2013/04/26/from-asset-precompilation-to-system-calls.html,/u/jcs,4
+0,2013-04-26 13:16:20 -0500,"/t/compsci,/t/programming",Dive into parser combinators: parsing search queries with F# and FParsec,http://blog.fogcreek.com/fparsec/,/u/tedu,3
+0,2013-04-26 12:08:10 -0500,"/t/pdf,/t/mac,/t/mobile,/t/security",Stefan Esser: Mountain Lion/iOS Vulnerabilities Garage Sale,http://antid0te.com/syscan_2013/SyScan2013_Stefan_Esser_Mountain_Lion_iOS_Vulnerabilities_Garage_Sale.pdf,/u/jcs,2
+0,2013-04-26 09:51:06 -0500,"/t/lua,/t/web",Lapis - A web framework for MoonScript (or Lua) & OpenResty,http://leafo.net/lapis/,/u/fcambus,2
+2,2013-04-25 10:37:13 -0500,/t/event,Ask Lobste.rs: Meetup at Railsconf?,/s/4b8dvb/ask_lobste_rs_meetup_at_railsconf,/u/kb,7
+1,2013-04-25 12:21:34 -0500,"/t/browsers,/t/security",Abusing Safari's webarchive file format,https://community.rapid7.com/community/metasploit/blog/2013/04/25/abusing-safaris-webarchive-file-format,/u/jcs,4
+0,2013-04-25 21:59:13 -0500,"/t/openbsd,/t/security",The Hail Mary Cloud And The Lessons Learned,http://home.nuug.no/~peter/hailmary2013/,/u/dcasati,1
+1,2013-04-25 09:19:48 -0500,/t/ruby,Advanced topics in Ruby FFI,http://www.elabs.se/blog/61-advanced-topics-in-ruby-ffi,/u/jperkins,5
+0,2013-04-25 09:36:59 -0500,/t/math,fhtr: Logic Algebra,http://fhtr.blogspot.com/2013/04/logic-algebra.html,/u/jperkins,3
+0,2013-04-25 09:35:07 -0500,"/t/compsci,/t/scala","A Simple, Functional, Merkle Tree Implementation in Scala",http://blog.adelbertc.com/post/48389747897/a-simple-functional-merkle-tree-implementation-in,/u/jperkins,2
+0,2013-04-25 09:33:27 -0500,"/t/networking,/t/release",Re: The Complexity of a Simple Prefix,http://blog.freron.com/2013/re-the-complexity-of-a-simple-prefix/,/u/jperkins,2
+0,2013-04-25 09:25:18 -0500,/t/devops,Scaling Pinterest - From 0 to 10s of Billions of Page Views a Month in Two Years,http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html,/u/jperkins,2

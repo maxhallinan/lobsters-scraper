@@ -1,25 +1,25 @@
-0,2016-09-12 04:29:37 -0500,['/t/scaling'],Kubernetes The Hard Way,https://github.com/kelseyhightower/kubernetes-the-hard-way,/u/Dawny33,5
-13,2016-09-11 10:39:10 -0500,"['/t/hardware', '/t/science']",What will the iPhone 8 be made of?,https://www.quora.com/What-will-the-iPhone-8-be-made-of/answer/Brian-Roemmele?srid=Pi3,/u/calvin,17
-0,2016-09-11 13:45:32 -0500,"['/t/slides', '/t/programming', '/t/rust']",Learning systems programming with Rust,http://jvns.ca/blog/2016/09/11/rustconf-keynote/,/u/calvin,22
-2,2016-09-11 17:06:54 -0500,"['/t/finance', '/t/practices']",Startup employees don't earn more,https://80000hours.org/2015/10/startup-salaries-and-equity-compensation/,/u/friendlysock,8
-1,2016-09-12 03:57:40 -0500,"['/t/c', '/t/distributed']",Thrill: High-Performance Algorithmic Distributed Batch Data Processing with C++,http://arxiv.org/abs/1608.05634,/u/pyk,2
-24,2016-09-11 07:49:01 -0500,['/t/ask'],Which is better: longer password or more varied characters?,/s/6a8g8f/which_is_better_longer_password_more,/u/rauyran,13
-0,2016-09-11 19:22:20 -0500,"['/t/hardware', '/t/security']",Using Wi-Fi Signals to Identify People by Body Shape,https://www.schneier.com/blog/archives/2016/08/using_wi-fi_sig.html,/u/adsouza,7
-0,2016-09-12 03:31:36 -0500,"['/t/culture', '/t/person', '/t/practices']","Freelancer’s Field Guide, a How To on Living in a Modern Nomad’s Paradise",https://medium.com/@kfrzcode/freelancers-field-guide-d2555388947f,/u/kfrz,2
-7,2016-09-11 20:09:08 -0500,"['/t/programming', '/t/rant', '/t/rust']",Why I’m dropping Rust,https://hackernoon.com/why-im-dropping-rust-fd1c32986c88,/u/robey,10
-1,2016-09-11 11:36:50 -0500,['/t/science'],Stunning Videos of Evolution in Action,http://www.theatlantic.com/science/archive/2016/09/stunning-videos-of-evolution-in-action/499136/,/u/jm,12
-0,2016-09-11 12:00:39 -0500,['/t/databases'],A tour of Postgres' Foreign Data Wrappers,http://www.craigkerstiens.com/2016/09/11/a-tour-of-fdws/,/u/craigkerstiens,6
-7,2016-09-11 00:50:57 -0500,['/t/c'],22nd Century C,https://procedural.github.io/post/22nd-Century-C/,/u/pyk,16
-0,2016-09-12 13:03:33 -0500,['/t/culture'],"Bots are overhyped and underpowered, says the man who runs Facebook Messenger",http://www.theverge.com/2016/9/12/12890032/techcrunch-disrupt-david-marcus-bots-facebook-messenger,/u/calvin,0
-0,2016-09-11 11:44:11 -0500,"['/t/culture', '/t/mac']",An OS 9 odyssey: Why these Mac users won’t abandon 16-year-old software,http://arstechnica.com/apple/2016/09/an-os-9-odyssey-why-do-some-mac-users-still-rely-on-16-year-old-software/,/u/calvin,13
-0,2016-09-11 13:32:51 -0500,"['/t/elixir', '/t/practices']",Elixir boilerplate,https://mattvonrocketstein.github.io/heredoc/elixir-boilerplate.html,/u/friendlysock,5
-3,2016-09-11 00:30:05 -0500,['/t/openbsd'],"g2k16 Hackathon Report: Antoine Jacoutot on binary patches, ports progress and more",http://undeadly.org/cgi?action=article&sid=20160911012316,/u/pyk,10
-0,2016-09-11 17:02:06 -0500,"['/t/cogsci', '/t/python']",Skill acquisition in online games,http://www.dataonthemind.org/node/1591,/u/tf,2
-0,2016-09-11 03:10:28 -0500,['/t/databases'],Database Design: Heterogeneous Collections,http://kevinmahoney.co.uk/articles/heterogeneous-collections/,/u/kpm,5
-7,2016-09-11 06:02:58 -0500,"['/t/practices', '/t/programming']",Physics of Test Driven Development (2008),http://blog.wingman-sw.com/archives/16,/u/swifthand,3
-1,2016-09-11 04:30:07 -0500,['/t/linux'],"Getting daily Pushbullet notifications for InformIT ""Deal of the Day""",https://medium.com/@milanaleksic/informit-ebook-deal-of-the-day-pushbullet-5aaf7849e954,/u/milanaleksic,2
-1,2016-09-10 17:48:46 -0500,['/t/programming'],Voldemort Types In D,http://www.drdobbs.com/cpp/voldemort-types-in-d/232901591,/u/calvin,13
-0,2016-09-10 22:56:25 -0500,['/t/science'],"Freeman Dyson talks about math, nuclear rockets, and astounding things about the universe",http://www.businessinsider.com/freeman-dyson-interview-2016-9,/u/vjoel,7
-5,2016-09-10 17:18:36 -0500,"['/t/netbsd', '/t/release', '/t/unix']",user340/fdgw2 - One Floppy NetBSD Distribution,https://github.com/user340/fdgw2,/u/sevan,6
-0,2016-09-10 15:25:14 -0500,"['/t/audio', '/t/programming', '/t/rust']","? New Rustacean Bonus 7: Katas—or, learning by doing",http://www.newrustacean.com/show_notes/bonus/_7/,/u/chriskrycho,5
-0,2016-09-10 19:36:37 -0500,"['/t/compsci', '/t/elixir']",Church Encoding in Elixir,https://www.dailydrip.com/topics/elixir/drips/church-encoding-in-elixir,/u/friendlysock,5
+0,2016-09-12 04:29:37 -0500,/t/scaling,Kubernetes The Hard Way,https://github.com/kelseyhightower/kubernetes-the-hard-way,/u/Dawny33,5
+13,2016-09-11 10:39:10 -0500,"/t/hardware,/t/science",What will the iPhone 8 be made of?,https://www.quora.com/What-will-the-iPhone-8-be-made-of/answer/Brian-Roemmele?srid=Pi3,/u/calvin,17
+0,2016-09-11 13:45:32 -0500,"/t/slides,/t/programming,/t/rust",Learning systems programming with Rust,http://jvns.ca/blog/2016/09/11/rustconf-keynote/,/u/calvin,22
+2,2016-09-11 17:06:54 -0500,"/t/finance,/t/practices",Startup employees don't earn more,https://80000hours.org/2015/10/startup-salaries-and-equity-compensation/,/u/friendlysock,8
+1,2016-09-12 03:57:40 -0500,"/t/c,/t/distributed",Thrill: High-Performance Algorithmic Distributed Batch Data Processing with C++,http://arxiv.org/abs/1608.05634,/u/pyk,2
+24,2016-09-11 07:49:01 -0500,/t/ask,Which is better: longer password or more varied characters?,/s/6a8g8f/which_is_better_longer_password_more,/u/rauyran,13
+0,2016-09-11 19:22:20 -0500,"/t/hardware,/t/security",Using Wi-Fi Signals to Identify People by Body Shape,https://www.schneier.com/blog/archives/2016/08/using_wi-fi_sig.html,/u/adsouza,7
+0,2016-09-12 03:31:36 -0500,"/t/culture,/t/person,/t/practices","Freelancer’s Field Guide, a How To on Living in a Modern Nomad’s Paradise",https://medium.com/@kfrzcode/freelancers-field-guide-d2555388947f,/u/kfrz,2
+7,2016-09-11 20:09:08 -0500,"/t/programming,/t/rant,/t/rust",Why I’m dropping Rust,https://hackernoon.com/why-im-dropping-rust-fd1c32986c88,/u/robey,10
+1,2016-09-11 11:36:50 -0500,/t/science,Stunning Videos of Evolution in Action,http://www.theatlantic.com/science/archive/2016/09/stunning-videos-of-evolution-in-action/499136/,/u/jm,12
+0,2016-09-11 12:00:39 -0500,/t/databases,A tour of Postgres' Foreign Data Wrappers,http://www.craigkerstiens.com/2016/09/11/a-tour-of-fdws/,/u/craigkerstiens,6
+7,2016-09-11 00:50:57 -0500,/t/c,22nd Century C,https://procedural.github.io/post/22nd-Century-C/,/u/pyk,16
+0,2016-09-12 13:03:33 -0500,/t/culture,"Bots are overhyped and underpowered, says the man who runs Facebook Messenger",http://www.theverge.com/2016/9/12/12890032/techcrunch-disrupt-david-marcus-bots-facebook-messenger,/u/calvin,0
+0,2016-09-11 11:44:11 -0500,"/t/culture,/t/mac",An OS 9 odyssey: Why these Mac users won’t abandon 16-year-old software,http://arstechnica.com/apple/2016/09/an-os-9-odyssey-why-do-some-mac-users-still-rely-on-16-year-old-software/,/u/calvin,13
+0,2016-09-11 13:32:51 -0500,"/t/elixir,/t/practices",Elixir boilerplate,https://mattvonrocketstein.github.io/heredoc/elixir-boilerplate.html,/u/friendlysock,5
+3,2016-09-11 00:30:05 -0500,/t/openbsd,"g2k16 Hackathon Report: Antoine Jacoutot on binary patches, ports progress and more",http://undeadly.org/cgi?action=article&sid=20160911012316,/u/pyk,10
+0,2016-09-11 17:02:06 -0500,"/t/cogsci,/t/python",Skill acquisition in online games,http://www.dataonthemind.org/node/1591,/u/tf,2
+0,2016-09-11 03:10:28 -0500,/t/databases,Database Design: Heterogeneous Collections,http://kevinmahoney.co.uk/articles/heterogeneous-collections/,/u/kpm,5
+7,2016-09-11 06:02:58 -0500,"/t/practices,/t/programming",Physics of Test Driven Development (2008),http://blog.wingman-sw.com/archives/16,/u/swifthand,3
+1,2016-09-11 04:30:07 -0500,/t/linux,"Getting daily Pushbullet notifications for InformIT ""Deal of the Day""",https://medium.com/@milanaleksic/informit-ebook-deal-of-the-day-pushbullet-5aaf7849e954,/u/milanaleksic,2
+1,2016-09-10 17:48:46 -0500,/t/programming,Voldemort Types In D,http://www.drdobbs.com/cpp/voldemort-types-in-d/232901591,/u/calvin,13
+0,2016-09-10 22:56:25 -0500,/t/science,"Freeman Dyson talks about math, nuclear rockets, and astounding things about the universe",http://www.businessinsider.com/freeman-dyson-interview-2016-9,/u/vjoel,7
+5,2016-09-10 17:18:36 -0500,"/t/netbsd,/t/release,/t/unix",user340/fdgw2 - One Floppy NetBSD Distribution,https://github.com/user340/fdgw2,/u/sevan,6
+0,2016-09-10 15:25:14 -0500,"/t/audio,/t/programming,/t/rust","? New Rustacean Bonus 7: Katas—or, learning by doing",http://www.newrustacean.com/show_notes/bonus/_7/,/u/chriskrycho,5
+0,2016-09-10 19:36:37 -0500,"/t/compsci,/t/elixir",Church Encoding in Elixir,https://www.dailydrip.com/topics/elixir/drips/church-encoding-in-elixir,/u/friendlysock,5

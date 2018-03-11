@@ -1,25 +1,25 @@
-0,2016-08-19 07:16:09 -0500,"['/t/compsci', '/t/programming']",How do you implement a Research paper?,https://www.reddit.com/r/rust/comments/4ya06w/how_do_you_implement_a_research_paper/,/u/Dawny33,3
-4,2016-08-18 07:39:20 -0500,"['/t/linux', '/t/release']",The aristocratic desktop (part 1),https://ploum.net/195-the-aristocratic-desktop-part-1/,/u/rain1,21
-0,2016-08-18 17:21:39 -0500,"['/t/debugging', '/t/networking', '/t/practices']",TCP Puzzlers,https://www.joyent.com/blog/tcp-puzzlers,/u/friendlysock,14
-0,2016-08-18 15:44:22 -0500,"['/t/release', '/t/rust']",Announcing Rust 1.11 - The Rust Programming Language Blog,http://blog.rust-lang.org/2016/08/18/Rust-1.11.html,/u/chadski,16
-3,2016-08-18 09:54:07 -0500,['/t/visualization'],Reddit’s uptime (2008–2016),https://medium.com/@hoffa/reddit-uptime-2008-2016-bigquery-b3d7b11046e0,/u/calvin,20
-1,2016-08-18 16:35:04 -0500,['/t/rust'],GC Support in Rust: API Design,http://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/,/u/julienXX,11
-0,2016-08-18 23:09:10 -0500,"['/t/lisp', '/t/programming']",Zero to Sixty in Racket,http://prl.ccs.neu.edu/blog/2016/08/02/tutorial-zero-to-sixty-in-racket/,/u/unbalancedparentheses,6
-0,2016-08-19 01:05:22 -0500,"['/t/c', '/t/lisp', '/t/programming']",Using Racket's FFI,http://prl.ccs.neu.edu/blog/2016/06/27/tutorial-using-racket-s-ffi/,/u/unbalancedparentheses,3
-0,2016-08-18 16:34:38 -0500,"['/t/video', '/t/go', '/t/programming']",Rob Pike - The Design of the Go Assembler,https://www.youtube.com/watch?v=KINIAgRpkDA,/u/sevan,8
-0,2016-08-18 10:17:25 -0500,"['/t/browsers', '/t/web']",Ping pong with Facebook,https://adblockplus.org/blog/ping-pong-with-facebook,/u/jabberwock,15
-0,2016-08-18 22:02:55 -0500,"['/t/android', '/t/security']",How I Hacked an Android App to Get Free Beer,http://breakdev.org/how-i-hacked-an-android-app-to-get-free-beer/,/u/calvin,3
-0,2016-08-18 12:55:53 -0500,['/t/python'],Page dewarping,https://mzucker.github.io/2016/08/15/page-dewarping.html,/u/pwatsonwailes,9
-0,2016-08-18 17:43:03 -0500,['/t/haskell'],Rank 'n Classy Limited Effects,http://www.parsonsmatt.org/2016/07/14/rank_n_classy_limited_effects.html,/u/pushcx,5
-7,2016-08-17 22:29:21 -0500,['/t/vim'],Vim 8.0 pre-announcement,https://groups.google.com/forum/#!topic/vim_announce/T3foH_UCJt8,/u/romanzolotarev,21
-0,2016-08-18 17:22:39 -0500,"['/t/video', '/t/historical', '/t/windows']",A strange digital time capsule,https://trackchanges.postlight.com/a-strange-digital-time-capsule-e1604845d65b,/u/pushcx,4
-1,2016-08-18 13:00:24 -0500,"['/t/ask', '/t/practices']",Tips for taking better notes?,/s/c8kqtk/tips_for_taking_better_notes,/u/vfoley,4
-9,2016-08-17 16:10:11 -0500,['/t/unix'],with: Command line prefixing for single-tool workflows,https://github.com/mchav/with,/u/zem,44
-0,2016-08-18 12:10:08 -0500,"['/t/hardware', '/t/programming']",The BeagleBone's I/O pins: inside the software stack that makes them work,http://www.righto.com/2016/08/the-beaglebones-io-pins-inside-software.html,/u/calvin,6
-0,2016-08-18 12:28:35 -0500,['/t/web'],US ready to 'hand over' the internet's naming system,http://www.bbc.com/news/technology-37114313,/u/marvindanig,4
-0,2016-08-18 20:51:39 -0500,"['/t/databases', '/t/python']",Building a Real-Time Recommendation Engine with Data Science,https://neo4j.com/blog/real-time-recommendation-engine-data-science/,/u/bwmerkl,1
-2,2016-08-17 17:28:40 -0500,"['/t/book', '/t/programming']",Humble Book Bundle: Joy of Coding presented by No Starch Press,https://www.humblebundle.com/books/joy-of-coding-book-bundle,/u/zem,24
-0,2016-08-18 12:11:41 -0500,"['/t/practices', '/t/science']","Academic clickbait: articles with positively-framed titles, interesting phrasing, and no wordplay get more attention online.",https://thewinnower.com/papers/4892-academic-clickbait-articles-with-positively-framed-titles-interesting-phrasing-and-no-wordplay-get-more-attention-online,/u/binarymax,3
-0,2016-08-18 09:39:01 -0500,['/t/go'],Tasty: My First Go Program,http://blog.leahhanson.us/post/recursecenter2016/tasty.html,/u/icco,4
-1,2016-08-17 21:49:47 -0500,"['/t/graphics', '/t/javascript']",Drawing isometric boxes in the correct order,https://shaunlebron.github.io/IsometricBlocks/,/u/pushcx,13
-9,2016-08-17 15:44:56 -0500,"['/t/emacs', '/t/vim']","My ambivalent view on Vim superintelligence, contrasted with GNU Emacs",https://utcc.utoronto.ca/~cks/space/blog/unix/VimSmartsVsGNUEmacs,/u/mjn,15
+0,2016-08-19 07:16:09 -0500,"/t/compsci,/t/programming",How do you implement a Research paper?,https://www.reddit.com/r/rust/comments/4ya06w/how_do_you_implement_a_research_paper/,/u/Dawny33,3
+4,2016-08-18 07:39:20 -0500,"/t/linux,/t/release",The aristocratic desktop (part 1),https://ploum.net/195-the-aristocratic-desktop-part-1/,/u/rain1,21
+0,2016-08-18 17:21:39 -0500,"/t/debugging,/t/networking,/t/practices",TCP Puzzlers,https://www.joyent.com/blog/tcp-puzzlers,/u/friendlysock,14
+0,2016-08-18 15:44:22 -0500,"/t/release,/t/rust",Announcing Rust 1.11 - The Rust Programming Language Blog,http://blog.rust-lang.org/2016/08/18/Rust-1.11.html,/u/chadski,16
+3,2016-08-18 09:54:07 -0500,/t/visualization,Reddit’s uptime (2008–2016),https://medium.com/@hoffa/reddit-uptime-2008-2016-bigquery-b3d7b11046e0,/u/calvin,20
+1,2016-08-18 16:35:04 -0500,/t/rust,GC Support in Rust: API Design,http://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/,/u/julienXX,11
+0,2016-08-18 23:09:10 -0500,"/t/lisp,/t/programming",Zero to Sixty in Racket,http://prl.ccs.neu.edu/blog/2016/08/02/tutorial-zero-to-sixty-in-racket/,/u/unbalancedparentheses,6
+0,2016-08-19 01:05:22 -0500,"/t/c,/t/lisp,/t/programming",Using Racket's FFI,http://prl.ccs.neu.edu/blog/2016/06/27/tutorial-using-racket-s-ffi/,/u/unbalancedparentheses,3
+0,2016-08-18 16:34:38 -0500,"/t/video,/t/go,/t/programming",Rob Pike - The Design of the Go Assembler,https://www.youtube.com/watch?v=KINIAgRpkDA,/u/sevan,8
+0,2016-08-18 10:17:25 -0500,"/t/browsers,/t/web",Ping pong with Facebook,https://adblockplus.org/blog/ping-pong-with-facebook,/u/jabberwock,15
+0,2016-08-18 22:02:55 -0500,"/t/android,/t/security",How I Hacked an Android App to Get Free Beer,http://breakdev.org/how-i-hacked-an-android-app-to-get-free-beer/,/u/calvin,3
+0,2016-08-18 12:55:53 -0500,/t/python,Page dewarping,https://mzucker.github.io/2016/08/15/page-dewarping.html,/u/pwatsonwailes,9
+0,2016-08-18 17:43:03 -0500,/t/haskell,Rank 'n Classy Limited Effects,http://www.parsonsmatt.org/2016/07/14/rank_n_classy_limited_effects.html,/u/pushcx,5
+7,2016-08-17 22:29:21 -0500,/t/vim,Vim 8.0 pre-announcement,https://groups.google.com/forum/#!topic/vim_announce/T3foH_UCJt8,/u/romanzolotarev,21
+0,2016-08-18 17:22:39 -0500,"/t/video,/t/historical,/t/windows",A strange digital time capsule,https://trackchanges.postlight.com/a-strange-digital-time-capsule-e1604845d65b,/u/pushcx,4
+1,2016-08-18 13:00:24 -0500,"/t/ask,/t/practices",Tips for taking better notes?,/s/c8kqtk/tips_for_taking_better_notes,/u/vfoley,4
+9,2016-08-17 16:10:11 -0500,/t/unix,with: Command line prefixing for single-tool workflows,https://github.com/mchav/with,/u/zem,44
+0,2016-08-18 12:10:08 -0500,"/t/hardware,/t/programming",The BeagleBone's I/O pins: inside the software stack that makes them work,http://www.righto.com/2016/08/the-beaglebones-io-pins-inside-software.html,/u/calvin,6
+0,2016-08-18 12:28:35 -0500,/t/web,US ready to 'hand over' the internet's naming system,http://www.bbc.com/news/technology-37114313,/u/marvindanig,4
+0,2016-08-18 20:51:39 -0500,"/t/databases,/t/python",Building a Real-Time Recommendation Engine with Data Science,https://neo4j.com/blog/real-time-recommendation-engine-data-science/,/u/bwmerkl,1
+2,2016-08-17 17:28:40 -0500,"/t/book,/t/programming",Humble Book Bundle: Joy of Coding presented by No Starch Press,https://www.humblebundle.com/books/joy-of-coding-book-bundle,/u/zem,24
+0,2016-08-18 12:11:41 -0500,"/t/practices,/t/science","Academic clickbait: articles with positively-framed titles, interesting phrasing, and no wordplay get more attention online.",https://thewinnower.com/papers/4892-academic-clickbait-articles-with-positively-framed-titles-interesting-phrasing-and-no-wordplay-get-more-attention-online,/u/binarymax,3
+0,2016-08-18 09:39:01 -0500,/t/go,Tasty: My First Go Program,http://blog.leahhanson.us/post/recursecenter2016/tasty.html,/u/icco,4
+1,2016-08-17 21:49:47 -0500,"/t/graphics,/t/javascript",Drawing isometric boxes in the correct order,https://shaunlebron.github.io/IsometricBlocks/,/u/pushcx,13
+9,2016-08-17 15:44:56 -0500,"/t/emacs,/t/vim","My ambivalent view on Vim superintelligence, contrasted with GNU Emacs",https://utcc.utoronto.ca/~cks/space/blog/unix/VimSmartsVsGNUEmacs,/u/mjn,15

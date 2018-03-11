@@ -1,25 +1,25 @@
-0,2017-02-27 20:10:37 -0600,['/t/compsci'],Turing tarpit,https://esolangs.org/wiki/Turing_tarpit,/u/Dawny33,3
-0,2017-02-27 06:03:38 -0600,"['/t/culture', '/t/design']",The Future of User Interfaces,https://brandur.org/interfaces,/u/a-109-107,29
-0,2017-02-27 11:33:44 -0600,['/t/math'],The Reasonable Effectiveness of the Multiplicative Weights Update Algorithm,https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/,/u/craigstuntz,8
-2,2017-02-27 22:01:54 -0600,['/t/compsci'],"Soundex: indexing names by sound, as pronounced in English",https://en.wikipedia.org/wiki/Soundex,/u/jonhoo,1
-6,2017-02-27 07:55:26 -0600,"['/t/hardware', '/t/privacy']",Burglars invited,http://lucstechblog.blogspot.com/2017/02/burglars-invited.html,/u/flyingfisch,6
-2,2017-02-27 02:47:15 -0600,"['/t/compsci', '/t/programming', '/t/unix']",Oil Shell Status Update and Blog Backlog,http://www.oilshell.org/blog/2017/02/26.html,/u/andyc,9
-0,2017-02-27 15:03:02 -0600,"['/t/hardware', '/t/reversing']",About the Newton MessagePad 2xxx ROM card,http://www.matthiasm.com/romCard.html,/u/sevan,4
-1,2017-02-27 10:32:59 -0600,['/t/compsci'],smalLZ4 - optimal LZ4 compression,http://create.stephan-brumme.com/smallz4/,/u/mikejsavage,6
-0,2017-02-27 00:54:58 -0600,['/t/distributed'],Students' Guide to Raft,https://thesquareplanet.com/blog/students-guide-to-raft/,/u/Dawny33,19
-2,2017-02-27 07:59:18 -0600,"['/t/show', '/t/api']",Unplugg: An automated Forecasting API for timeseries data,http://unplu.gg/test_api.html,/u/dethos,5
-7,2017-02-26 17:33:41 -0600,"['/t/education', '/t/meta']","New tag suggestion: ""education""",/s/6bortq/new_tag_suggestion_education,/u/jonhoo,24
-0,2017-02-27 13:13:38 -0600,['/t/elixir'],Phoenix with Ecto and MongoDb,http://tomjoro.github.io/2017-02-09-ecto3-mongodb-phoenix/,/u/soulcutter,3
-0,2017-02-27 05:35:04 -0600,"['/t/python', '/t/visualization']",Prophet: forecasting at scale,https://research.fb.com/prophet-forecasting-at-scale/,/u/av,7
-0,2017-02-26 19:39:26 -0600,"['/t/networking', '/t/web']",Why can't I send UDP packets from a browser? Introducing netcode.io,http://new.gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/,/u/cmr,21
-0,2017-02-26 17:35:26 -0600,"['/t/compsci', '/t/philosophy']",Instructors' Guide to Raft,https://thesquareplanet.com/blog/instructors-guide-to-raft/,/u/jonhoo,11
-23,2017-02-26 12:02:11 -0600,"['/t/browsers', '/t/security']",Fix TLS. Let’s get rid of certificates.,http://blog.xot.nl/2017/02/26/fix-tls-lets-get-rid-of-certificates/,/u/fkooman,18
-3,2017-02-26 13:21:09 -0600,"['/t/browsers', '/t/security', '/t/web']",Chrome extension to check your history for Cloudflare sites,https://chrome.google.com/webstore/detail/history-bleed/jpkhbecnecbmngclppiklcjjddhehdce,/u/av,8
-0,2017-02-27 16:34:43 -0600,['/t/culture'],Is your child a hacker? Liverpudlian parents get warning signs checklist,https://www.theregister.co.uk/2017/02/20/is_your_child_a_hacker_liverpudlian_parents_handed_cyber_checklist/,/u/flyingfisch,2
-0,2017-02-27 08:18:21 -0600,"['/t/hardware', '/t/science']",Marsarium 9,https://reprage.com/post/marsarium-9,/u/flyingfisch,3
-0,2017-02-27 05:25:02 -0600,"['/t/compsci', '/t/programming']",I Wrote The Fastest Hashtable,https://probablydance.com/2017/02/26/i-wrote-the-fastest-hashtable/,/u/calvin,4
-5,2017-02-26 11:01:14 -0600,"['/t/databases', '/t/rust']",PumpkinDB: an event sourcing database engine that doesn't overwrite data,http://pumpkindb.org/,/u/colin,18
-1,2017-02-26 22:15:10 -0600,"['/t/pdf', '/t/math', '/t/security']",Practical Homomorphic Encryption Over the Integers,https://arxiv.org/abs/1702.07588,/u/silky,5
-9,2017-02-26 11:00:50 -0600,['/t/programming'],"DoD Announces the Launch of “Code.mil,” an Experiment in Open Source",https://www.defense.gov/News/News-Releases/News-Release-View/Article/1092364/dod-announces-the-launch-of-codemil-an-experiment-in-open-source,/u/calvin,11
-1,2017-02-26 15:33:36 -0600,"['/t/historical', '/t/security', '/t/vcs']",SHA1 collisions make Git vulnerable (2005),http://www.metzdowd.com/pipermail/cryptography/2017-February/031623.html,/u/GeoffWozniak,12
-2,2017-02-27 14:32:40 -0600,"['/t/culture', '/t/practices', '/t/rant']",Exponential growth devours and corrupts,https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131,/u/friendlysock,2
+0,2017-02-27 20:10:37 -0600,/t/compsci,Turing tarpit,https://esolangs.org/wiki/Turing_tarpit,/u/Dawny33,3
+0,2017-02-27 06:03:38 -0600,"/t/culture,/t/design",The Future of User Interfaces,https://brandur.org/interfaces,/u/a-109-107,29
+0,2017-02-27 11:33:44 -0600,/t/math,The Reasonable Effectiveness of the Multiplicative Weights Update Algorithm,https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/,/u/craigstuntz,8
+2,2017-02-27 22:01:54 -0600,/t/compsci,"Soundex: indexing names by sound, as pronounced in English",https://en.wikipedia.org/wiki/Soundex,/u/jonhoo,1
+6,2017-02-27 07:55:26 -0600,"/t/hardware,/t/privacy",Burglars invited,http://lucstechblog.blogspot.com/2017/02/burglars-invited.html,/u/flyingfisch,6
+2,2017-02-27 02:47:15 -0600,"/t/compsci,/t/programming,/t/unix",Oil Shell Status Update and Blog Backlog,http://www.oilshell.org/blog/2017/02/26.html,/u/andyc,9
+0,2017-02-27 15:03:02 -0600,"/t/hardware,/t/reversing",About the Newton MessagePad 2xxx ROM card,http://www.matthiasm.com/romCard.html,/u/sevan,4
+1,2017-02-27 10:32:59 -0600,/t/compsci,smalLZ4 - optimal LZ4 compression,http://create.stephan-brumme.com/smallz4/,/u/mikejsavage,6
+0,2017-02-27 00:54:58 -0600,/t/distributed,Students' Guide to Raft,https://thesquareplanet.com/blog/students-guide-to-raft/,/u/Dawny33,19
+2,2017-02-27 07:59:18 -0600,"/t/show,/t/api",Unplugg: An automated Forecasting API for timeseries data,http://unplu.gg/test_api.html,/u/dethos,5
+7,2017-02-26 17:33:41 -0600,"/t/education,/t/meta","New tag suggestion: ""education""",/s/6bortq/new_tag_suggestion_education,/u/jonhoo,24
+0,2017-02-27 13:13:38 -0600,/t/elixir,Phoenix with Ecto and MongoDb,http://tomjoro.github.io/2017-02-09-ecto3-mongodb-phoenix/,/u/soulcutter,3
+0,2017-02-27 05:35:04 -0600,"/t/python,/t/visualization",Prophet: forecasting at scale,https://research.fb.com/prophet-forecasting-at-scale/,/u/av,7
+0,2017-02-26 19:39:26 -0600,"/t/networking,/t/web",Why can't I send UDP packets from a browser? Introducing netcode.io,http://new.gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/,/u/cmr,21
+0,2017-02-26 17:35:26 -0600,"/t/compsci,/t/philosophy",Instructors' Guide to Raft,https://thesquareplanet.com/blog/instructors-guide-to-raft/,/u/jonhoo,11
+23,2017-02-26 12:02:11 -0600,"/t/browsers,/t/security",Fix TLS. Let’s get rid of certificates.,http://blog.xot.nl/2017/02/26/fix-tls-lets-get-rid-of-certificates/,/u/fkooman,18
+3,2017-02-26 13:21:09 -0600,"/t/browsers,/t/security,/t/web",Chrome extension to check your history for Cloudflare sites,https://chrome.google.com/webstore/detail/history-bleed/jpkhbecnecbmngclppiklcjjddhehdce,/u/av,8
+0,2017-02-27 16:34:43 -0600,/t/culture,Is your child a hacker? Liverpudlian parents get warning signs checklist,https://www.theregister.co.uk/2017/02/20/is_your_child_a_hacker_liverpudlian_parents_handed_cyber_checklist/,/u/flyingfisch,2
+0,2017-02-27 08:18:21 -0600,"/t/hardware,/t/science",Marsarium 9,https://reprage.com/post/marsarium-9,/u/flyingfisch,3
+0,2017-02-27 05:25:02 -0600,"/t/compsci,/t/programming",I Wrote The Fastest Hashtable,https://probablydance.com/2017/02/26/i-wrote-the-fastest-hashtable/,/u/calvin,4
+5,2017-02-26 11:01:14 -0600,"/t/databases,/t/rust",PumpkinDB: an event sourcing database engine that doesn't overwrite data,http://pumpkindb.org/,/u/colin,18
+1,2017-02-26 22:15:10 -0600,"/t/pdf,/t/math,/t/security",Practical Homomorphic Encryption Over the Integers,https://arxiv.org/abs/1702.07588,/u/silky,5
+9,2017-02-26 11:00:50 -0600,/t/programming,"DoD Announces the Launch of “Code.mil,” an Experiment in Open Source",https://www.defense.gov/News/News-Releases/News-Release-View/Article/1092364/dod-announces-the-launch-of-codemil-an-experiment-in-open-source,/u/calvin,11
+1,2017-02-26 15:33:36 -0600,"/t/historical,/t/security,/t/vcs",SHA1 collisions make Git vulnerable (2005),http://www.metzdowd.com/pipermail/cryptography/2017-February/031623.html,/u/GeoffWozniak,12
+2,2017-02-27 14:32:40 -0600,"/t/culture,/t/practices,/t/rant",Exponential growth devours and corrupts,https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131,/u/friendlysock,2

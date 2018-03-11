@@ -1,25 +1,25 @@
-16,2016-07-29 09:51:56 -0500,['/t/haskell'],A founder's perspective on 4 years with Haskell,http://baatz.io/posts/haskell-in-a-startup/,/u/pushcx,36
-0,2016-07-30 20:12:04 -0500,"['/t/design', '/t/web']",Accessible UI Components For The Web,https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67,/u/pushcx,1
-0,2016-07-30 19:13:46 -0500,"['/t/lisp', '/t/math', '/t/release']",Bayadera: A Clojure Library for Bayesian Data Analysis and Machine Learning on the GPU,https://github.com/uncomplicate/bayadera,/u/pushcx,1
-0,2016-07-30 12:20:05 -0500,"['/t/video', '/t/art', '/t/hardware']",MECHANICAL TECHNO DEMONSTRATION,https://www.youtube.com/watch?v=wl1ZrEza7uY,/u/friendlysock,3
-0,2016-07-30 14:12:56 -0500,"['/t/video', '/t/historical', '/t/philosophy', '/t/practices']",Alan Kay in conversation with Vishal Sikka,https://www.youtube.com/watch?v=S6JC_W9F8-g,/u/sevan,2
-4,2016-07-29 13:14:45 -0500,['/t/databases'],On Uber’s Choice of Databases,http://Use-The-Index-Luke.com/blog/2016-07-29/on-ubers-choice-of-databases,/u/pushcx,30
-10,2016-07-29 22:11:06 -0500,"['/t/cogsci', '/t/philosophy']",Can Artificial Intelligences Suffer from Mental Illness? A Philosophical Matter to Consider,http://link.springer.com/article/10.1007/s11948-016-9783-0,/u/friendlysock,6
-7,2016-07-29 06:23:23 -0500,"['/t/javascript', '/t/practices', '/t/programming', '/t/vcs']",The Inner JSON Effect - The Daily WTF,http://thedailywtf.com/articles/the-inner-json-effect,/u/awal,34
-1,2016-07-29 23:22:07 -0500,['/t/cogsci'],A first lesson in meta-rationality,http://meaningness.com/metablog/bongard-meta-rationality,/u/pushcx,8
-0,2016-07-30 10:43:33 -0500,"['/t/math', '/t/visualization']",Decomposing a function into its even and odd parts,http://blog.plover.com/math/even-odd.html,/u/antifuchs,2
-2,2016-07-29 13:58:22 -0500,"['/t/person', '/t/practices']",A Famed Hacker Is Grading Thousands of Programs — and May Revolutionize Software in the Process,https://theintercept.com/2016/07/29/a-famed-hacker-is-grading-thousands-of-programs-and-may-revolutionize-software-in-the-process/,/u/pushcx,12
-1,2016-07-29 16:45:01 -0500,"['/t/c', '/t/debugging']","Arena ""leak"" in glibc",http://codearcana.com/posts/2016/07/11/arena-leak-in-glibc.html,/u/awreece,8
-0,2016-07-30 01:54:15 -0500,"['/t/privacy', '/t/reversing']",WhatsApp Forensic Artifacts: Chats Aren’t Being Deleted,http://www.zdziarski.com/blog/?p=6143,/u/Snocrash,6
-0,2016-07-30 09:38:54 -0500,"['/t/compsci', '/t/math']",What is a Proof?,https://samidavies.wordpress.com/2016/07/29/what-is-a-proof/,/u/mwillsey,2
-0,2016-07-29 23:18:15 -0500,['/t/devops'],#chatops,https://medium.com/git-out-the-vote/chatops-198f0b62c601#.o77eaybbt,/u/icco,2
-4,2016-07-29 10:03:00 -0500,"['/t/crypto', '/t/security']","North Korea re-opens numbers station, not used since the 50s",https://www.theguardian.com/world/2016/jul/19/north-korea-radio-broadcast-numbers-code-spies,/u/rain1,11
-0,2016-07-30 13:18:23 -0500,"['/t/ask', '/t/video', '/t/culture']",Abstractions conference Scholarship Fund in deficit,https://www.youtube.com/watch?v=bXhav5umYY0,/u/colindean,1
-2,2016-07-29 11:30:36 -0500,"['/t/freebsd', '/t/security']",Attacks against FreeBSD Update components,https://gist.github.com/anonymous/e48209b03f1dd9625a992717e7b89c4f,/u/tedu,10
-1,2016-07-29 19:36:17 -0500,['/t/practices'],broken features aren't used,http://www.tedunangst.com/flak/post/broken-features-arent-used,/u/calvin,5
-0,2016-07-29 06:56:48 -0500,"['/t/haskell', '/t/programming']",First-class sum- and product-types for Haskell,http://nikita-volkov.github.io/first-class-sums-and-products/,/u/nikita-volkov,13
-3,2016-07-29 04:49:59 -0500,['/t/emacs'],Unexecute,http://emacshorrors.com/posts/unexecute.html,/u/av,19
-0,2016-07-30 01:13:55 -0500,"['/t/compsci', '/t/practices']",Encapsulation and Optimal Module Size [2003],http://www.catb.org/esr/writings/taoup/html/ch04s01.html,/u/quobit,2
-2,2016-07-29 12:45:19 -0500,['/t/meta'],Suggestion: add a `transcript` media tag,/s/xqx7cl/suggestion_add_transcript_media_tag,/u/pushcx,6
-0,2016-07-29 21:22:48 -0500,['/t/swift'],Looking back on Swift 3 and ahead to Swift 4,https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160725/025676.html,/u/austinz,3
-0,2016-07-29 21:20:58 -0500,"['/t/art', '/t/haskell', '/t/math']",Factorization Diagrams,https://mathlesstraveled.com/2012/10/05/factorization-diagrams/,/u/nil,3
+16,2016-07-29 09:51:56 -0500,/t/haskell,A founder's perspective on 4 years with Haskell,http://baatz.io/posts/haskell-in-a-startup/,/u/pushcx,36
+0,2016-07-30 20:12:04 -0500,"/t/design,/t/web",Accessible UI Components For The Web,https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67,/u/pushcx,1
+0,2016-07-30 19:13:46 -0500,"/t/lisp,/t/math,/t/release",Bayadera: A Clojure Library for Bayesian Data Analysis and Machine Learning on the GPU,https://github.com/uncomplicate/bayadera,/u/pushcx,1
+0,2016-07-30 12:20:05 -0500,"/t/video,/t/art,/t/hardware",MECHANICAL TECHNO DEMONSTRATION,https://www.youtube.com/watch?v=wl1ZrEza7uY,/u/friendlysock,3
+0,2016-07-30 14:12:56 -0500,"/t/video,/t/historical,/t/philosophy,/t/practices",Alan Kay in conversation with Vishal Sikka,https://www.youtube.com/watch?v=S6JC_W9F8-g,/u/sevan,2
+4,2016-07-29 13:14:45 -0500,/t/databases,On Uber’s Choice of Databases,http://Use-The-Index-Luke.com/blog/2016-07-29/on-ubers-choice-of-databases,/u/pushcx,30
+10,2016-07-29 22:11:06 -0500,"/t/cogsci,/t/philosophy",Can Artificial Intelligences Suffer from Mental Illness? A Philosophical Matter to Consider,http://link.springer.com/article/10.1007/s11948-016-9783-0,/u/friendlysock,6
+7,2016-07-29 06:23:23 -0500,"/t/javascript,/t/practices,/t/programming,/t/vcs",The Inner JSON Effect - The Daily WTF,http://thedailywtf.com/articles/the-inner-json-effect,/u/awal,34
+1,2016-07-29 23:22:07 -0500,/t/cogsci,A first lesson in meta-rationality,http://meaningness.com/metablog/bongard-meta-rationality,/u/pushcx,8
+0,2016-07-30 10:43:33 -0500,"/t/math,/t/visualization",Decomposing a function into its even and odd parts,http://blog.plover.com/math/even-odd.html,/u/antifuchs,2
+2,2016-07-29 13:58:22 -0500,"/t/person,/t/practices",A Famed Hacker Is Grading Thousands of Programs — and May Revolutionize Software in the Process,https://theintercept.com/2016/07/29/a-famed-hacker-is-grading-thousands-of-programs-and-may-revolutionize-software-in-the-process/,/u/pushcx,12
+1,2016-07-29 16:45:01 -0500,"/t/c,/t/debugging","Arena ""leak"" in glibc",http://codearcana.com/posts/2016/07/11/arena-leak-in-glibc.html,/u/awreece,8
+0,2016-07-30 01:54:15 -0500,"/t/privacy,/t/reversing",WhatsApp Forensic Artifacts: Chats Aren’t Being Deleted,http://www.zdziarski.com/blog/?p=6143,/u/Snocrash,6
+0,2016-07-30 09:38:54 -0500,"/t/compsci,/t/math",What is a Proof?,https://samidavies.wordpress.com/2016/07/29/what-is-a-proof/,/u/mwillsey,2
+0,2016-07-29 23:18:15 -0500,/t/devops,#chatops,https://medium.com/git-out-the-vote/chatops-198f0b62c601#.o77eaybbt,/u/icco,2
+4,2016-07-29 10:03:00 -0500,"/t/crypto,/t/security","North Korea re-opens numbers station, not used since the 50s",https://www.theguardian.com/world/2016/jul/19/north-korea-radio-broadcast-numbers-code-spies,/u/rain1,11
+0,2016-07-30 13:18:23 -0500,"/t/ask,/t/video,/t/culture",Abstractions conference Scholarship Fund in deficit,https://www.youtube.com/watch?v=bXhav5umYY0,/u/colindean,1
+2,2016-07-29 11:30:36 -0500,"/t/freebsd,/t/security",Attacks against FreeBSD Update components,https://gist.github.com/anonymous/e48209b03f1dd9625a992717e7b89c4f,/u/tedu,10
+1,2016-07-29 19:36:17 -0500,/t/practices,broken features aren't used,http://www.tedunangst.com/flak/post/broken-features-arent-used,/u/calvin,5
+0,2016-07-29 06:56:48 -0500,"/t/haskell,/t/programming",First-class sum- and product-types for Haskell,http://nikita-volkov.github.io/first-class-sums-and-products/,/u/nikita-volkov,13
+3,2016-07-29 04:49:59 -0500,/t/emacs,Unexecute,http://emacshorrors.com/posts/unexecute.html,/u/av,19
+0,2016-07-30 01:13:55 -0500,"/t/compsci,/t/practices",Encapsulation and Optimal Module Size [2003],http://www.catb.org/esr/writings/taoup/html/ch04s01.html,/u/quobit,2
+2,2016-07-29 12:45:19 -0500,/t/meta,Suggestion: add a `transcript` media tag,/s/xqx7cl/suggestion_add_transcript_media_tag,/u/pushcx,6
+0,2016-07-29 21:22:48 -0500,/t/swift,Looking back on Swift 3 and ahead to Swift 4,https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160725/025676.html,/u/austinz,3
+0,2016-07-29 21:20:58 -0500,"/t/art,/t/haskell,/t/math",Factorization Diagrams,https://mathlesstraveled.com/2012/10/05/factorization-diagrams/,/u/nil,3

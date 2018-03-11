@@ -1,25 +1,25 @@
-6,2016-12-20 14:13:22 -0600,['/t/go'],Thinking about $GOPATH,https://dave.cheney.net/2016/12/20/thinking-about-gopath,/u/jitterted,8
-4,2016-12-20 10:05:35 -0600,"['/t/devops', '/t/programming']",Blue Ocean,https://jenkins.io/projects/blueocean/,/u/av,15
-3,2016-12-20 17:24:22 -0600,"['/t/compsci', '/t/databases', '/t/programming']",antirez/neural-redis,https://github.com/antirez/neural-redis,/u/stevejalim,5
-1,2016-12-20 07:34:00 -0600,"['/t/crypto', '/t/networking', '/t/openbsd']",Disable TKIP (WPA1) by default,https://www.mail-archive.com/source-changes@openbsd.org/msg84599.html,/u/stsp,13
-1,2016-12-20 17:12:05 -0600,"['/t/games', '/t/graphics']",Roguelike Lighting Demo,https://gridbugs.org/roguelike-lighting-demo/,/u/zem,7
-0,2016-12-20 12:48:22 -0600,"['/t/historical', '/t/linux']","Linux at 20, some personal memories",http://liw.fi/linux20/,/u/majjoha,14
-0,2016-12-21 08:00:33 -0600,"['/t/finance', '/t/games', '/t/practices']",Payment Processing. Credit Cards. Chargebacks and Collateral Damage,http://ithare.com/payment-processing-credit-cards-chargebacks-and-collateral-damage/,/u/355E3B,1
-4,2016-12-20 08:45:32 -0600,['/t/meta'],Handling reposts,/s/hck7sm/handling_reposts,/u/flyingfisch,14
-0,2016-12-20 08:18:54 -0600,['/t/openbsd'],LibreSSL documentation status report,http://undeadly.org/cgi?action=article&sid=20161215221715&mode=expanded,/u/anjbe,21
-1,2016-12-20 08:51:07 -0600,['/t/security'],Forgers Use Fake Web Users to Steal Real Over a Billion in Ad Revenue,http://www.nytimes.com/2016/12/20/technology/forgers-use-fake-web-users-to-steal-real-ad-revenue.html,/u/pushcx,9
-0,2016-12-21 02:39:00 -0600,['/t/programming'],Practical Deep Learning For Coders—18 hours of lessons for free,http://course.fast.ai/,/u/ofr,2
-1,2016-12-20 17:02:52 -0600,['/t/hardware'],How To Create A CYBERDECK64,https://n-o-d-e.net/cyberdeck64.html,/u/pushcx,6
-1,2016-12-20 21:31:23 -0600,"['/t/go', '/t/ruby']",AnyCable: Action Cable on steroids,https://evilmartians.com/chronicles/anycable-actioncable-on-steroids,/u/jcs,3
-0,2016-12-20 06:04:41 -0600,['/t/vim'],practice the Vim history registers,https://github.com/steveshogren/10-minute-vim-exercises/blob/master/book_sample_history_registers.md,/u/steveshogren,13
-27,2016-12-19 22:58:28 -0600,['/t/ask'],Why are you using containers? Why not? What is holding you back?,/s/ket0a7/why_are_you_using_containers_why_not_what,/u/mhausenblas,24
-0,2016-12-20 11:55:27 -0600,"['/t/erlang', '/t/programming']",Beyond the Limits of an ETS – Erlang Battleground,https://medium.com/erlang-battleground/beyond-the-limits-of-an-ets-cdd79fa8300c,/u/elbrujohalcon,6
-0,2016-12-21 10:48:26 -0600,"['/t/video', '/t/culture', '/t/programming']",Gilad Bracha - Utopia And Dystopia: Smalltalk And The Wider World,https://www.youtube.com/watch?v=BDwlEJGP3Mk,/u/Bystroushaak,1
-0,2016-12-20 16:00:08 -0600,"['/t/video', '/t/cogsci']",GOTO 2016 • Who do You Trust? Beware of Your Brain • Linda Rising,https://www.youtube.com/watch?v=IGHhCmdIvuI,/u/afronski,6
-0,2016-12-20 15:35:14 -0600,"['/t/video', '/t/erlang', '/t/testing']",A CutEr Tool,https://www.youtube.com/watch?v=XVOV0KQAf-8,/u/0,6
-0,2016-12-20 23:34:11 -0600,['/t/ruby'],"Sandi Metz Workshop, Procore 2016",http://m3lch.blogspot.com/2016/10/sandi-metz-workshop-procore-2016.html,/u/HParker,2
-1,2016-12-20 03:30:13 -0600,"['/t/privacy', '/t/security']",Tor and its Discontents,https://medium.com/@thegrugq/tor-and-its-discontents-ef5164845908,/u/jabberwock,17
-0,2016-12-20 11:46:02 -0600,"['/t/browsers', '/t/web']",Firebug lives on in Firefox DevTools,https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/,/u/av,9
-2,2016-12-20 00:06:21 -0600,['/t/go'],So you want to expose Go on the Internet,https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/,/u/av,28
-0,2016-12-20 19:40:08 -0600,['/t/go'],Go Walkthrough,https://medium.com/go-walkthrough,/u/adsouza,3
-0,2016-12-20 10:57:46 -0600,"['/t/pdf', '/t/compsci']",Do Be Do Be Do,http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-march2014.pdf,/u/bsima,5
+6,2016-12-20 14:13:22 -0600,/t/go,Thinking about $GOPATH,https://dave.cheney.net/2016/12/20/thinking-about-gopath,/u/jitterted,8
+4,2016-12-20 10:05:35 -0600,"/t/devops,/t/programming",Blue Ocean,https://jenkins.io/projects/blueocean/,/u/av,15
+3,2016-12-20 17:24:22 -0600,"/t/compsci,/t/databases,/t/programming",antirez/neural-redis,https://github.com/antirez/neural-redis,/u/stevejalim,5
+1,2016-12-20 07:34:00 -0600,"/t/crypto,/t/networking,/t/openbsd",Disable TKIP (WPA1) by default,https://www.mail-archive.com/source-changes@openbsd.org/msg84599.html,/u/stsp,13
+1,2016-12-20 17:12:05 -0600,"/t/games,/t/graphics",Roguelike Lighting Demo,https://gridbugs.org/roguelike-lighting-demo/,/u/zem,7
+0,2016-12-20 12:48:22 -0600,"/t/historical,/t/linux","Linux at 20, some personal memories",http://liw.fi/linux20/,/u/majjoha,14
+0,2016-12-21 08:00:33 -0600,"/t/finance,/t/games,/t/practices",Payment Processing. Credit Cards. Chargebacks and Collateral Damage,http://ithare.com/payment-processing-credit-cards-chargebacks-and-collateral-damage/,/u/355E3B,1
+4,2016-12-20 08:45:32 -0600,/t/meta,Handling reposts,/s/hck7sm/handling_reposts,/u/flyingfisch,14
+0,2016-12-20 08:18:54 -0600,/t/openbsd,LibreSSL documentation status report,http://undeadly.org/cgi?action=article&sid=20161215221715&mode=expanded,/u/anjbe,21
+1,2016-12-20 08:51:07 -0600,/t/security,Forgers Use Fake Web Users to Steal Real Over a Billion in Ad Revenue,http://www.nytimes.com/2016/12/20/technology/forgers-use-fake-web-users-to-steal-real-ad-revenue.html,/u/pushcx,9
+0,2016-12-21 02:39:00 -0600,/t/programming,Practical Deep Learning For Coders—18 hours of lessons for free,http://course.fast.ai/,/u/ofr,2
+1,2016-12-20 17:02:52 -0600,/t/hardware,How To Create A CYBERDECK64,https://n-o-d-e.net/cyberdeck64.html,/u/pushcx,6
+1,2016-12-20 21:31:23 -0600,"/t/go,/t/ruby",AnyCable: Action Cable on steroids,https://evilmartians.com/chronicles/anycable-actioncable-on-steroids,/u/jcs,3
+0,2016-12-20 06:04:41 -0600,/t/vim,practice the Vim history registers,https://github.com/steveshogren/10-minute-vim-exercises/blob/master/book_sample_history_registers.md,/u/steveshogren,13
+27,2016-12-19 22:58:28 -0600,/t/ask,Why are you using containers? Why not? What is holding you back?,/s/ket0a7/why_are_you_using_containers_why_not_what,/u/mhausenblas,24
+0,2016-12-20 11:55:27 -0600,"/t/erlang,/t/programming",Beyond the Limits of an ETS – Erlang Battleground,https://medium.com/erlang-battleground/beyond-the-limits-of-an-ets-cdd79fa8300c,/u/elbrujohalcon,6
+0,2016-12-21 10:48:26 -0600,"/t/video,/t/culture,/t/programming",Gilad Bracha - Utopia And Dystopia: Smalltalk And The Wider World,https://www.youtube.com/watch?v=BDwlEJGP3Mk,/u/Bystroushaak,1
+0,2016-12-20 16:00:08 -0600,"/t/video,/t/cogsci",GOTO 2016 • Who do You Trust? Beware of Your Brain • Linda Rising,https://www.youtube.com/watch?v=IGHhCmdIvuI,/u/afronski,6
+0,2016-12-20 15:35:14 -0600,"/t/video,/t/erlang,/t/testing",A CutEr Tool,https://www.youtube.com/watch?v=XVOV0KQAf-8,/u/0,6
+0,2016-12-20 23:34:11 -0600,/t/ruby,"Sandi Metz Workshop, Procore 2016",http://m3lch.blogspot.com/2016/10/sandi-metz-workshop-procore-2016.html,/u/HParker,2
+1,2016-12-20 03:30:13 -0600,"/t/privacy,/t/security",Tor and its Discontents,https://medium.com/@thegrugq/tor-and-its-discontents-ef5164845908,/u/jabberwock,17
+0,2016-12-20 11:46:02 -0600,"/t/browsers,/t/web",Firebug lives on in Firefox DevTools,https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/,/u/av,9
+2,2016-12-20 00:06:21 -0600,/t/go,So you want to expose Go on the Internet,https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/,/u/av,28
+0,2016-12-20 19:40:08 -0600,/t/go,Go Walkthrough,https://medium.com/go-walkthrough,/u/adsouza,3
+0,2016-12-20 10:57:46 -0600,"/t/pdf,/t/compsci",Do Be Do Be Do,http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-march2014.pdf,/u/bsima,5

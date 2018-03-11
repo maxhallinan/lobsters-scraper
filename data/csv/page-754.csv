@@ -1,25 +1,25 @@
-20,2016-06-09 10:16:02 -0500,['/t/openbsd'],Two months of OpenBSD (2015),http://blog.greduan.com/2015-06-18-tmoo.html,/u/mulander,11
-12,2016-06-09 15:37:19 -0500,"['/t/mobile', '/t/rant', '/t/web']",The Fucking Open Web,https://hueniverse.com/2016/06/08/the-fucking-open-web/,/u/tedu,23
-13,2016-06-09 03:42:39 -0500,"['/t/distributed', '/t/freebsd']","Microsoft creates FreeBSD distribution for Azure, contributing changes to upstream",http://www.theregister.co.uk/2016/06/09/microsoft_freebsd/,/u/ane,21
-0,2016-06-10 08:50:43 -0500,['/t/javascript'],jQuery 3.0 Final Released,http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/,/u/joshuacc,1
-4,2016-06-09 08:47:49 -0500,"['/t/databases', '/t/distributed', '/t/python']","PyKafka: Fast, Pythonic Kafka, at Last!",http://blog.parsely.com/post/3886/pykafka-now/,/u/emmett9001,4
-1,2016-06-09 10:56:59 -0500,['/t/release'],GoAccess v1.0,https://goaccess.io/releases#v1.0,/u/mulander,10
-0,2016-06-09 18:53:38 -0500,"['/t/devops', '/t/javascript']",Building Modular JavaScript with Webpack,http://blog.librato.com/posts/webpack,/u/Librato,2
-0,2016-06-09 09:27:02 -0500,['/t/games'],Coelacanth: Lessons from Doom,http://vectorpoem.com/news/?p=74,/u/calvin,10
-0,2016-06-09 04:06:38 -0500,"['/t/emacs', '/t/games']",Elite for EMACS,http://sami.salkosuo.net/elite-for-emacs/,/u/355E3B,16
-1,2016-06-09 13:30:28 -0500,['/t/finance'],"Stock Charts Lie, and So Do Your Statements",http://www.investopedia.com/articles/investing/060816/stock-charts-lie-and-so-do-your-statements.asp,/u/pushcx,3
-0,2016-06-09 11:49:43 -0500,['/t/javascript'],Firebase 3.0 boilerplate using React/Redux,https://github.com/douglascorrea/react-hot-redux-firebase-starter,/u/douglascorrea,3
-0,2016-06-09 12:44:09 -0500,"['/t/programming', '/t/python', '/t/science']",astronometry.net - automatic recognition of astronomical images,https://github.com/dstndstn/astrometry.net,/u/tudurom,5
-0,2016-06-09 18:44:28 -0500,['/t/culture'],How “Silicon Valley” Nails Silicon Valley,http://www.newyorker.com/culture/culture-desk/how-silicon-valley-nails-silicon-valley,/u/tedu,4
-1,2016-06-09 16:55:57 -0500,"['/t/databases', '/t/java']",Oracle library for writing Java apps that work with JSON in the Oracle Database,https://github.com/oracle/soda-for-java,/u/braydenjw,1
-3,2016-06-08 15:09:53 -0500,['/t/lisp'],"Carp, a statically typed lisp, without a GC",https://github.com/eriksvedang/Carp,/u/unbalancedparentheses,35
-0,2016-06-09 13:15:34 -0500,['/t/release'],Storage in PaaS: Minio and Deis,https://blog.minio.io/storage-in-paas-minio-and-deis-7f9f604dedf2,/u/tiwarinitish86,1
-0,2016-06-09 14:09:12 -0500,"['/t/pdf', '/t/lisp']",The Semantics of Destructive Lisp (1986),http://sul-derivatives.stanford.edu/derivative?CSNID=00000086&mediaType=application/pdf,/u/jlarocco,2
-0,2016-06-09 17:52:45 -0500,['/t/c'],Building And Packaging C++ Modules In VS2015,http://blog.conan.io/2016/06/01/Building-and-packaging-C++-modules-in-VS2015.html,/u/Mordo,1
-0,2016-06-09 06:54:17 -0500,['/t/culture'],The search engine manipulation effect and its possible impact on the outcomes of elections (2015),http://www.pnas.org/content/112/33/E4512.full,/u/mjn,10
-1,2016-06-09 02:54:13 -0500,"['/t/browsers', '/t/graphics', '/t/web']",Microsoft Edge WebGL open-sourced,https://github.com/MicrosoftEdge/WebGL,/u/zg,6
-4,2016-06-08 10:52:12 -0500,['/t/security'],Typosquatting programming language package managers,http://incolumitas.com/2016/06/08/typosquatting-package-managers/,/u/dsdeiz,34
-4,2016-06-08 10:48:20 -0500,['/t/browsers'],Firefox 48 enables Electrolysis for multi-process goodness,http://arstechnica.com/information-technology/2016/06/firefox-48-electrolysis-download-details/,/u/pushcx,28
-0,2016-06-09 15:40:24 -0500,['/t/devops'],"Deis Workflow, Now Stable!",https://deis.com/blog/2016/workflow-stable/,/u/nslater,1
-7,2016-06-08 13:20:25 -0500,['/t/hardware'],"My open-source, do-it-yourself cellphone (built with Arduino). (2013)",https://blog.arduino.cc/2013/08/12/diy-cellphone/,/u/chadski,19
-0,2016-06-08 18:49:38 -0500,"['/t/javascript', '/t/programming']","""I Was Wrong About TypeScript, Here is Why""",http://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/,/u/zem,13
+20,2016-06-09 10:16:02 -0500,/t/openbsd,Two months of OpenBSD (2015),http://blog.greduan.com/2015-06-18-tmoo.html,/u/mulander,11
+12,2016-06-09 15:37:19 -0500,"/t/mobile,/t/rant,/t/web",The Fucking Open Web,https://hueniverse.com/2016/06/08/the-fucking-open-web/,/u/tedu,23
+13,2016-06-09 03:42:39 -0500,"/t/distributed,/t/freebsd","Microsoft creates FreeBSD distribution for Azure, contributing changes to upstream",http://www.theregister.co.uk/2016/06/09/microsoft_freebsd/,/u/ane,21
+0,2016-06-10 08:50:43 -0500,/t/javascript,jQuery 3.0 Final Released,http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/,/u/joshuacc,1
+4,2016-06-09 08:47:49 -0500,"/t/databases,/t/distributed,/t/python","PyKafka: Fast, Pythonic Kafka, at Last!",http://blog.parsely.com/post/3886/pykafka-now/,/u/emmett9001,4
+1,2016-06-09 10:56:59 -0500,/t/release,GoAccess v1.0,https://goaccess.io/releases#v1.0,/u/mulander,10
+0,2016-06-09 18:53:38 -0500,"/t/devops,/t/javascript",Building Modular JavaScript with Webpack,http://blog.librato.com/posts/webpack,/u/Librato,2
+0,2016-06-09 09:27:02 -0500,/t/games,Coelacanth: Lessons from Doom,http://vectorpoem.com/news/?p=74,/u/calvin,10
+0,2016-06-09 04:06:38 -0500,"/t/emacs,/t/games",Elite for EMACS,http://sami.salkosuo.net/elite-for-emacs/,/u/355E3B,16
+1,2016-06-09 13:30:28 -0500,/t/finance,"Stock Charts Lie, and So Do Your Statements",http://www.investopedia.com/articles/investing/060816/stock-charts-lie-and-so-do-your-statements.asp,/u/pushcx,3
+0,2016-06-09 11:49:43 -0500,/t/javascript,Firebase 3.0 boilerplate using React/Redux,https://github.com/douglascorrea/react-hot-redux-firebase-starter,/u/douglascorrea,3
+0,2016-06-09 12:44:09 -0500,"/t/programming,/t/python,/t/science",astronometry.net - automatic recognition of astronomical images,https://github.com/dstndstn/astrometry.net,/u/tudurom,5
+0,2016-06-09 18:44:28 -0500,/t/culture,How “Silicon Valley” Nails Silicon Valley,http://www.newyorker.com/culture/culture-desk/how-silicon-valley-nails-silicon-valley,/u/tedu,4
+1,2016-06-09 16:55:57 -0500,"/t/databases,/t/java",Oracle library for writing Java apps that work with JSON in the Oracle Database,https://github.com/oracle/soda-for-java,/u/braydenjw,1
+3,2016-06-08 15:09:53 -0500,/t/lisp,"Carp, a statically typed lisp, without a GC",https://github.com/eriksvedang/Carp,/u/unbalancedparentheses,35
+0,2016-06-09 13:15:34 -0500,/t/release,Storage in PaaS: Minio and Deis,https://blog.minio.io/storage-in-paas-minio-and-deis-7f9f604dedf2,/u/tiwarinitish86,1
+0,2016-06-09 14:09:12 -0500,"/t/pdf,/t/lisp",The Semantics of Destructive Lisp (1986),http://sul-derivatives.stanford.edu/derivative?CSNID=00000086&mediaType=application/pdf,/u/jlarocco,2
+0,2016-06-09 17:52:45 -0500,/t/c,Building And Packaging C++ Modules In VS2015,http://blog.conan.io/2016/06/01/Building-and-packaging-C++-modules-in-VS2015.html,/u/Mordo,1
+0,2016-06-09 06:54:17 -0500,/t/culture,The search engine manipulation effect and its possible impact on the outcomes of elections (2015),http://www.pnas.org/content/112/33/E4512.full,/u/mjn,10
+1,2016-06-09 02:54:13 -0500,"/t/browsers,/t/graphics,/t/web",Microsoft Edge WebGL open-sourced,https://github.com/MicrosoftEdge/WebGL,/u/zg,6
+4,2016-06-08 10:52:12 -0500,/t/security,Typosquatting programming language package managers,http://incolumitas.com/2016/06/08/typosquatting-package-managers/,/u/dsdeiz,34
+4,2016-06-08 10:48:20 -0500,/t/browsers,Firefox 48 enables Electrolysis for multi-process goodness,http://arstechnica.com/information-technology/2016/06/firefox-48-electrolysis-download-details/,/u/pushcx,28
+0,2016-06-09 15:40:24 -0500,/t/devops,"Deis Workflow, Now Stable!",https://deis.com/blog/2016/workflow-stable/,/u/nslater,1
+7,2016-06-08 13:20:25 -0500,/t/hardware,"My open-source, do-it-yourself cellphone (built with Arduino). (2013)",https://blog.arduino.cc/2013/08/12/diy-cellphone/,/u/chadski,19
+0,2016-06-08 18:49:38 -0500,"/t/javascript,/t/programming","""I Was Wrong About TypeScript, Here is Why""",http://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/,/u/zem,13

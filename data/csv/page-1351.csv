@@ -1,25 +1,25 @@
-4,2014-04-11 13:29:59 -0500,"['/t/pdf', '/t/compsci']",What Have We Learnt in 20 Years of L4 Microkernels?,http://www.nicta.com.au/pub?doc=6930,/u/zem,15
-6,2014-04-11 13:49:12 -0500,"['/t/distributed', '/t/web']",Elasticsearch,http://www.lauradhamilton.com/elasticsearch,/u/laura,11
-0,2014-04-11 07:11:06 -0500,['/t/security'],How we got read access on Google's production servers,http://blog.detectify.com/post/82370846588/how-we-got-read-access-on-googles-production-servers,/u/dl,36
-2,2014-04-11 10:13:52 -0500,['/t/security'],Answering the Critical Question: Can You Get Private SSL Keys Using Heartbleed?,http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed,/u/jcs,15
-0,2014-04-11 02:03:04 -0500,['/t/security'],"A Graphical Explanation of Heartbleed, by xkcd",http://xkcd.com/1354/,/u/brycied00d,46
-0,2014-04-11 12:33:17 -0500,['/t/security'],Secure storage of private (RSA) keys [in OpenSSL - patch from Akamai],http://www.mail-archive.com/openssl-users@openssl.org/msg73503.html,/u/andrewcooke,11
-0,2014-04-11 16:25:22 -0500,['/t/hardware'],Dudley Buck's Forgotten Cryotron Computer,http://spectrum.ieee.org/computing/hardware/dudley-bucks-forgotten-cryotron-computer#.U0hH31rpCqg.hackernews,/u/jm,7
-1,2014-04-11 12:03:47 -0500,"['/t/c', '/t/security']",Heartbleed and Static Analysis,http://blog.regehr.org/archives/1125,/u/jkkm,6
-0,2014-04-11 19:53:48 -0500,"['/t/networking', '/t/privacy']","The Feds Cut a Deal With In-Flight Wi-Fi Providers, and Privacy Groups Are Worried",http://www.wired.com/2014/04/gogo-collaboration-feds/,/u/journeysquid,2
-6,2014-04-10 20:29:12 -0500,"['/t/pdf', '/t/programming']",The Little Manual of API Design,http://www4.in.tum.de/~blanchet/api-design.pdf,/u/SeanTAllen,15
-0,2014-04-11 11:06:20 -0500,"['/t/pdf', '/t/programming']",Time Travel: A Pattern Language for Values That Change,http://www.lifeware.ch/upload/DMS/TimeTravel.pdf,/u/SeanTAllen,4
-2,2014-04-11 06:28:20 -0500,"['/t/programming', '/t/scala']",The Dark Side of Scala,http://nurkiewicz.github.io/talks/2014/scalar/,/u/lauris,3
-4,2014-04-10 13:53:46 -0500,['/t/practices'],Write Code Every Day,http://ejohn.org/blog/write-code-every-day/,/u/nikola,20
-1,2014-04-11 11:58:39 -0500,['/t/databases'],NoSQL No More,http://technosophos.com/2014/04/11/nosql-no-more.html,/u/mattk,1
-0,2014-04-11 14:37:03 -0500,"['/t/lisp', '/t/programming']",A thorough introduction to CHICKEN scheme's test egg,http://lisp-unleashed.de/2014/04/11/testing_your_chicken_code/,/u/zem,1
-8,2014-04-10 12:54:14 -0500,['/t/openbsd'],OpenBSD Foundation 2014 fundraising campaign goal reached,http://marc.info/?l=openbsd-misc&m=139714707927779&w=2,/u/jcs,20
-0,2014-04-11 10:54:56 -0500,"['/t/pdf', '/t/law']",Weev's conviction struck down on venue,http://pdfserver.amlaw.com/nlj/auernheimer-op-usca3.pdf,/u/wcummings,1
-0,2014-04-10 17:23:22 -0500,['/t/law'],Warrant Canary Frequently Asked Questions,https://www.eff.org/deeplinks/2014/04/warrant-canary-faq,/u/jcs,9
-0,2014-04-11 09:04:10 -0500,"['/t/javascript', '/t/programming']",Synchronizing Asynchronous JavaScript with ES7,http://www.joezimjs.com/javascript/synchronizing-asynchronous-javascript-es7/,/u/joezimjs,1
-1,2014-04-10 17:01:07 -0500,"['/t/practices', '/t/programming', '/t/security']",Be Still My Breaking Heart,http://dankaminsky.com/2014/04/10/heartbleed/,/u/tante,9
-0,2014-04-11 06:37:10 -0500,['/t/compsci'],Computer science quiz,http://makaroni4.com/2014/04/11/computer-science-quiz/,/u/freetonik,1
-0,2014-04-10 14:27:09 -0500,"['/t/javascript', '/t/vim']","Treed: A general tree editor component; vim shortcuts, drag & drop",http://jaredly.github.io/treed/,/u/jaredly,9
-0,2014-04-10 08:38:10 -0500,"['/t/release', '/t/security']",analysis of openssl freelist reuse,http://www.tedunangst.com/flak/post/analysis-of-openssl-freelist-reuse,/u/jturner,17
-3,2014-04-10 12:45:19 -0500,"['/t/api', '/t/c', '/t/rant']",OpenSSL is written by monkeys,https://www.peereboom.us/assl/assl/html/openssl.html,/u/robey,18
-13,2014-04-08 18:18:18 -0500,['/t/announce'],Story merging,/s/cqq0kg/story_merging,/u/jcs,60
+4,2014-04-11 13:29:59 -0500,"/t/pdf,/t/compsci",What Have We Learnt in 20 Years of L4 Microkernels?,http://www.nicta.com.au/pub?doc=6930,/u/zem,15
+6,2014-04-11 13:49:12 -0500,"/t/distributed,/t/web",Elasticsearch,http://www.lauradhamilton.com/elasticsearch,/u/laura,11
+0,2014-04-11 07:11:06 -0500,/t/security,How we got read access on Google's production servers,http://blog.detectify.com/post/82370846588/how-we-got-read-access-on-googles-production-servers,/u/dl,36
+2,2014-04-11 10:13:52 -0500,/t/security,Answering the Critical Question: Can You Get Private SSL Keys Using Heartbleed?,http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed,/u/jcs,15
+0,2014-04-11 02:03:04 -0500,/t/security,"A Graphical Explanation of Heartbleed, by xkcd",http://xkcd.com/1354/,/u/brycied00d,46
+0,2014-04-11 12:33:17 -0500,/t/security,Secure storage of private (RSA) keys [in OpenSSL - patch from Akamai],http://www.mail-archive.com/openssl-users@openssl.org/msg73503.html,/u/andrewcooke,11
+0,2014-04-11 16:25:22 -0500,/t/hardware,Dudley Buck's Forgotten Cryotron Computer,http://spectrum.ieee.org/computing/hardware/dudley-bucks-forgotten-cryotron-computer#.U0hH31rpCqg.hackernews,/u/jm,7
+1,2014-04-11 12:03:47 -0500,"/t/c,/t/security",Heartbleed and Static Analysis,http://blog.regehr.org/archives/1125,/u/jkkm,6
+0,2014-04-11 19:53:48 -0500,"/t/networking,/t/privacy","The Feds Cut a Deal With In-Flight Wi-Fi Providers, and Privacy Groups Are Worried",http://www.wired.com/2014/04/gogo-collaboration-feds/,/u/journeysquid,2
+6,2014-04-10 20:29:12 -0500,"/t/pdf,/t/programming",The Little Manual of API Design,http://www4.in.tum.de/~blanchet/api-design.pdf,/u/SeanTAllen,15
+0,2014-04-11 11:06:20 -0500,"/t/pdf,/t/programming",Time Travel: A Pattern Language for Values That Change,http://www.lifeware.ch/upload/DMS/TimeTravel.pdf,/u/SeanTAllen,4
+2,2014-04-11 06:28:20 -0500,"/t/programming,/t/scala",The Dark Side of Scala,http://nurkiewicz.github.io/talks/2014/scalar/,/u/lauris,3
+4,2014-04-10 13:53:46 -0500,/t/practices,Write Code Every Day,http://ejohn.org/blog/write-code-every-day/,/u/nikola,20
+1,2014-04-11 11:58:39 -0500,/t/databases,NoSQL No More,http://technosophos.com/2014/04/11/nosql-no-more.html,/u/mattk,1
+0,2014-04-11 14:37:03 -0500,"/t/lisp,/t/programming",A thorough introduction to CHICKEN scheme's test egg,http://lisp-unleashed.de/2014/04/11/testing_your_chicken_code/,/u/zem,1
+8,2014-04-10 12:54:14 -0500,/t/openbsd,OpenBSD Foundation 2014 fundraising campaign goal reached,http://marc.info/?l=openbsd-misc&m=139714707927779&w=2,/u/jcs,20
+0,2014-04-11 10:54:56 -0500,"/t/pdf,/t/law",Weev's conviction struck down on venue,http://pdfserver.amlaw.com/nlj/auernheimer-op-usca3.pdf,/u/wcummings,1
+0,2014-04-10 17:23:22 -0500,/t/law,Warrant Canary Frequently Asked Questions,https://www.eff.org/deeplinks/2014/04/warrant-canary-faq,/u/jcs,9
+0,2014-04-11 09:04:10 -0500,"/t/javascript,/t/programming",Synchronizing Asynchronous JavaScript with ES7,http://www.joezimjs.com/javascript/synchronizing-asynchronous-javascript-es7/,/u/joezimjs,1
+1,2014-04-10 17:01:07 -0500,"/t/practices,/t/programming,/t/security",Be Still My Breaking Heart,http://dankaminsky.com/2014/04/10/heartbleed/,/u/tante,9
+0,2014-04-11 06:37:10 -0500,/t/compsci,Computer science quiz,http://makaroni4.com/2014/04/11/computer-science-quiz/,/u/freetonik,1
+0,2014-04-10 14:27:09 -0500,"/t/javascript,/t/vim","Treed: A general tree editor component; vim shortcuts, drag & drop",http://jaredly.github.io/treed/,/u/jaredly,9
+0,2014-04-10 08:38:10 -0500,"/t/release,/t/security",analysis of openssl freelist reuse,http://www.tedunangst.com/flak/post/analysis-of-openssl-freelist-reuse,/u/jturner,17
+3,2014-04-10 12:45:19 -0500,"/t/api,/t/c,/t/rant",OpenSSL is written by monkeys,https://www.peereboom.us/assl/assl/html/openssl.html,/u/robey,18
+13,2014-04-08 18:18:18 -0500,/t/announce,Story merging,/s/cqq0kg/story_merging,/u/jcs,60

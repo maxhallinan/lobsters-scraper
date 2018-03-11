@@ -1,25 +1,25 @@
-0,2014-12-03 13:24:00 -0600,"['/t/design', '/t/mobile']",Chinese mobile app UI trends,http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html,/u/kb,17
-14,2014-12-03 11:32:42 -0600,['/t/java'],Java Doesn’t Suck – You’re Just Using it Wrong,http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong,/u/craigkerstiens,10
-7,2014-12-03 00:44:48 -0600,['/t/practices'],Programming Modern Systems Like It Was 1984,http://prog21.dadgum.com/201.html,/u/pushcx,37
-0,2014-12-03 20:04:52 -0600,"['/t/security', '/t/web']",Hacking PayPal Accounts with one click,http://yasserali.com/hacking-paypal-accounts-with-one-click/,/u/journeysquid,7
-0,2014-12-03 12:22:25 -0600,"['/t/haskell', '/t/programming']",24 Days of GHC Extensions: Pattern Synonyms,https://ocharles.org.uk/blog/posts/2014-12-03-pattern-synonyms.html,/u/ocharles,12
-0,2014-12-03 14:59:24 -0600,"['/t/c', '/t/compilers', '/t/programming']",Summary of experience in writing a JIT compiler,https://dirk.to/blog/2014/12/03/hivm-semester-of-jit.html,/u/dirk,4
-0,2014-12-03 08:42:42 -0600,"['/t/video', '/t/programming', '/t/ruby']",Eastward Ho! A Clear Path Through Ruby With OO - Ruby Conference 2014 presentation,http://confreaks.com/videos/4825-RubyConf2014-eastward-ho-a-clear-path-through-ruby-with-oo,/u/saturnflyer,5
-5,2014-12-02 17:04:27 -0600,['/t/programming'],How to make your code self-documenting,http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/,/u/pushcx,16
-2,2014-12-02 13:27:49 -0600,['/t/databases'],PostgreSQL’s Powerful New Join Type: LATERAL,http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/,/u/craigkerstiens,32
-0,2014-12-03 05:49:34 -0600,"['/t/compsci', '/t/programming']",Imperative vs Declarative (2013),http://latentflip.com/imperative-vs-declarative/,/u/daGrevis,6
-0,2014-12-02 23:15:59 -0600,['/t/practices'],"Characterizing people as non-linear, first-order components in software development","http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development",/u/banjiewen,8
-0,2014-12-02 15:36:59 -0600,"['/t/haskell', '/t/programming']",24 Days of GHC Extensions: View Patterns,https://ocharles.org.uk/blog/posts/2014-12-02-view-patterns.html,/u/ocharles,15
-0,2014-12-03 00:30:20 -0600,['/t/vcs'],AWS CodeCommit,https://aws.amazon.com/codecommit/,/u/vvh,4
-4,2014-12-02 11:13:55 -0600,"['/t/ruby', '/t/web']",Coven - All the news a programmer could ever need. Open sourced Chrome extension,http://www.coven.link,/u/goddamnyouryan,13
-0,2014-12-03 06:08:40 -0600,"['/t/mobile', '/t/release', '/t/web']","Here is an iOS app that shows metrics in a today widget, for all you Google Analytics gurus",http://www.ryanbrink.ca/ga-today/,/u/ry_brink,1
-0,2014-12-03 11:39:33 -0600,['/t/privacy'],Our government's war on our privacy,http://wiredpen.com/2014/11/13/governments-comprehensive-war-privacy/,/u/jm,0
-0,2014-12-02 16:10:22 -0600,['/t/swift'],Why we're rewriting our robotics software in Swift,http://www.sunsetlakesoftware.com/2014/12/02/why-were-rewriting-our-robotics-software-swift,/u/listrophy,6
-0,2014-12-02 17:31:09 -0600,['/t/programming'],"Eve updates: stability, integrity constraints, query planning improvements",http://incidentalcomplexity.com/2014/12/01/november/,/u/kb,5
-2,2014-12-02 13:27:34 -0600,"['/t/databases', '/t/ruby']",Have Some (Referential) Integrity with Foreign Keys,http://robots.thoughtbot.com/referential-integrity-with-foreign-keys,/u/craigkerstiens,4
-0,2014-12-02 03:32:44 -0600,"['/t/compsci', '/t/math']",Learn You an Agda,http://williamdemeo.github.io/2014/02/27/learn-you-an-agda/,/u/SeanW,22
-4,2014-12-01 21:11:53 -0600,"['/t/c', '/t/compsci']",You could have invented Parser Combinators,http://theorangeduck.com/page/you-could-have-invented-parser-combinators,/u/pushcx,16
-12,2014-12-01 13:12:19 -0600,"['/t/security', '/t/web']",“Invalid Username or Password” is a useless security measure,https://kev.inburke.com/kevin/invalid-username-or-password-useless/,/u/kb,18
-0,2014-12-02 04:25:00 -0600,"['/t/compsci', '/t/programming', '/t/visualization']",Shadershop: An interface for programming through spatial reasoning,http://tobyschachman.com/Shadershop/,/u/mrfabbri,5
-0,2014-12-02 09:33:07 -0600,"['/t/programming', '/t/ruby']","Forwarding messages with Tell, Don't Ask",http://www.saturnflyer.com/blog/jim/2014/12/02/forwarding-messages-with-tell-dont-ask/,/u/saturnflyer,2
-5,2014-12-01 11:27:02 -0600,"['/t/haskell', '/t/vcs']",Reimplementing 'git clone' in Haskell from the bottom up,http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/,/u/pushcx,23
+0,2014-12-03 13:24:00 -0600,"/t/design,/t/mobile",Chinese mobile app UI trends,http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html,/u/kb,17
+14,2014-12-03 11:32:42 -0600,/t/java,Java Doesn’t Suck – You’re Just Using it Wrong,http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong,/u/craigkerstiens,10
+7,2014-12-03 00:44:48 -0600,/t/practices,Programming Modern Systems Like It Was 1984,http://prog21.dadgum.com/201.html,/u/pushcx,37
+0,2014-12-03 20:04:52 -0600,"/t/security,/t/web",Hacking PayPal Accounts with one click,http://yasserali.com/hacking-paypal-accounts-with-one-click/,/u/journeysquid,7
+0,2014-12-03 12:22:25 -0600,"/t/haskell,/t/programming",24 Days of GHC Extensions: Pattern Synonyms,https://ocharles.org.uk/blog/posts/2014-12-03-pattern-synonyms.html,/u/ocharles,12
+0,2014-12-03 14:59:24 -0600,"/t/c,/t/compilers,/t/programming",Summary of experience in writing a JIT compiler,https://dirk.to/blog/2014/12/03/hivm-semester-of-jit.html,/u/dirk,4
+0,2014-12-03 08:42:42 -0600,"/t/video,/t/programming,/t/ruby",Eastward Ho! A Clear Path Through Ruby With OO - Ruby Conference 2014 presentation,http://confreaks.com/videos/4825-RubyConf2014-eastward-ho-a-clear-path-through-ruby-with-oo,/u/saturnflyer,5
+5,2014-12-02 17:04:27 -0600,/t/programming,How to make your code self-documenting,http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/,/u/pushcx,16
+2,2014-12-02 13:27:49 -0600,/t/databases,PostgreSQL’s Powerful New Join Type: LATERAL,http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/,/u/craigkerstiens,32
+0,2014-12-03 05:49:34 -0600,"/t/compsci,/t/programming",Imperative vs Declarative (2013),http://latentflip.com/imperative-vs-declarative/,/u/daGrevis,6
+0,2014-12-02 23:15:59 -0600,/t/practices,"Characterizing people as non-linear, first-order components in software development","http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development",/u/banjiewen,8
+0,2014-12-02 15:36:59 -0600,"/t/haskell,/t/programming",24 Days of GHC Extensions: View Patterns,https://ocharles.org.uk/blog/posts/2014-12-02-view-patterns.html,/u/ocharles,15
+0,2014-12-03 00:30:20 -0600,/t/vcs,AWS CodeCommit,https://aws.amazon.com/codecommit/,/u/vvh,4
+4,2014-12-02 11:13:55 -0600,"/t/ruby,/t/web",Coven - All the news a programmer could ever need. Open sourced Chrome extension,http://www.coven.link,/u/goddamnyouryan,13
+0,2014-12-03 06:08:40 -0600,"/t/mobile,/t/release,/t/web","Here is an iOS app that shows metrics in a today widget, for all you Google Analytics gurus",http://www.ryanbrink.ca/ga-today/,/u/ry_brink,1
+0,2014-12-03 11:39:33 -0600,/t/privacy,Our government's war on our privacy,http://wiredpen.com/2014/11/13/governments-comprehensive-war-privacy/,/u/jm,0
+0,2014-12-02 16:10:22 -0600,/t/swift,Why we're rewriting our robotics software in Swift,http://www.sunsetlakesoftware.com/2014/12/02/why-were-rewriting-our-robotics-software-swift,/u/listrophy,6
+0,2014-12-02 17:31:09 -0600,/t/programming,"Eve updates: stability, integrity constraints, query planning improvements",http://incidentalcomplexity.com/2014/12/01/november/,/u/kb,5
+2,2014-12-02 13:27:34 -0600,"/t/databases,/t/ruby",Have Some (Referential) Integrity with Foreign Keys,http://robots.thoughtbot.com/referential-integrity-with-foreign-keys,/u/craigkerstiens,4
+0,2014-12-02 03:32:44 -0600,"/t/compsci,/t/math",Learn You an Agda,http://williamdemeo.github.io/2014/02/27/learn-you-an-agda/,/u/SeanW,22
+4,2014-12-01 21:11:53 -0600,"/t/c,/t/compsci",You could have invented Parser Combinators,http://theorangeduck.com/page/you-could-have-invented-parser-combinators,/u/pushcx,16
+12,2014-12-01 13:12:19 -0600,"/t/security,/t/web",“Invalid Username or Password” is a useless security measure,https://kev.inburke.com/kevin/invalid-username-or-password-useless/,/u/kb,18
+0,2014-12-02 04:25:00 -0600,"/t/compsci,/t/programming,/t/visualization",Shadershop: An interface for programming through spatial reasoning,http://tobyschachman.com/Shadershop/,/u/mrfabbri,5
+0,2014-12-02 09:33:07 -0600,"/t/programming,/t/ruby","Forwarding messages with Tell, Don't Ask",http://www.saturnflyer.com/blog/jim/2014/12/02/forwarding-messages-with-tell-dont-ask/,/u/saturnflyer,2
+5,2014-12-01 11:27:02 -0600,"/t/haskell,/t/vcs",Reimplementing 'git clone' in Haskell from the bottom up,http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/,/u/pushcx,23

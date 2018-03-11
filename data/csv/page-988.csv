@@ -1,25 +1,25 @@
-0,2015-10-29 19:21:53 -0500,['/t/practices'],The Power of the Outdoor Office,http://calnewport.com/blog/2015/10/21/the-power-of-the-outdoor-office/,/u/joshuacc,4
-5,2015-10-29 08:33:18 -0500,['/t/vcs'],Fixing Stupid Mistakes in Git Pull Requests,http://developer.telerik.com/featured/fixing-stupid-mistakes-in-git-pull-requests/,/u/remotesynth,7
-8,2015-10-29 08:57:51 -0500,"['/t/pdf', '/t/security']",Why is the NSA moving away from ECC?,https://eprint.iacr.org/2015/1018.pdf,/u/pushcx,6
-1,2015-10-29 17:32:23 -0500,"['/t/javascript', '/t/practices', '/t/programming']",Small modules: it’s not quite that simple,https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4,/u/joshuacc,3
-4,2015-10-29 04:05:34 -0500,"['/t/c', '/t/release', '/t/web']","Housecat, my new static site generator",http://www.mort.coffee/home/housecat/,/u/mort,5
-1,2015-10-29 09:58:20 -0500,"['/t/practices', '/t/security']","Breaches, traders, plain text passwords, ethical disclosure and 000webhost",http://www.troyhunt.com/2015/10/breaches-traders-plain-text-passwords.html,/u/pushcx,7
-4,2015-10-29 12:52:27 -0500,['/t/databases'],Postgresql Table Partioning,https://sheeju.github.io/2015/10/postgres-table-partitioning-big-weather-table.html,/u/pushcx,3
-2,2015-10-29 12:11:35 -0500,"['/t/cogsci', '/t/math']",Math & Beauty & Brain Areas,http://www.dam.brown.edu/people/mumford/blog/2015/MathBeautyBrain.html,/u/carinmeier,5
-2,2015-10-29 14:25:02 -0500,['/t/networking'],Time Zone News,http://time.is/time_zone_news,/u/pushcx,2
-0,2015-10-29 17:00:45 -0500,"['/t/databases', '/t/devops', '/t/distributed', '/t/java', '/t/virtualization']",5 Ready-made OSS Docker Images,https://deis.com/blog/2015/ready-made-open-source-containers,/u/ckoliver,1
-0,2015-10-29 07:12:14 -0500,"['/t/javascript', '/t/web']",ServiceWorker and Progressive Networking,https://ponyfoo.com/articles/progressive-networking-serviceworker,/u/ponyfoo,4
-0,2015-10-29 17:10:35 -0500,"['/t/linux', '/t/security']",x86 AES-CBC encryption with AVX2 multi-buffer,http://lkml.iu.edu/hypermail/linux/kernel/1510.3/03473.html,/u/journeysquid,2
-0,2015-10-29 04:35:41 -0500,"['/t/security', '/t/web']",Caution: Copy-Pasting URLs from Google Search can Leak Previous Searches,https://medium.com/@jeremyrubin/caution-copy-pasting-urls-from-google-search-can-leak-previous-searches-11940508e79,/u/daGrevis,10
-0,2015-10-29 11:27:44 -0500,"['/t/ruby', '/t/rust']",Using Resque with Rust,http://julienblanchard.com/2015/using-resque-with-rust/,/u/julienXX,2
-45,2015-10-28 12:41:33 -0500,['/t/go'],Why Go is a poorly designed language,https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2,/u/av,25
-0,2015-10-29 19:05:43 -0500,"['/t/video', '/t/practices']",Not Just Code Monkeys,https://www.youtube.com/watch?v=Z8aECe4lp44,/u/pushcx,1
-0,2015-10-29 09:52:47 -0500,['/t/math'],"The Mathematical Surprises of Triangles, Squares and Pentagons",http://blogs.scientificamerican.com/guest-blog/martin-gardner-at-101-it-s-as-not-so-easy-as-3-4-5/,/u/pushcx,4
-5,2015-10-28 15:34:10 -0500,['/t/programming'],Why you might want to choose Ceylon,http://ceylon-lang.org/blog/2015/10/27/why/,/u/zem,13
-1,2015-10-28 21:23:49 -0500,['/t/vcs'],Git - Signing Your Work,https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work,/u/zg,12
-0,2015-10-29 14:55:19 -0500,['/t/python'],Using Python to see how the New York Times writes about men and women,http://nbviewer.ipython.org/gist/nealcaren/5105037,/u/pushcx,1
-10,2015-10-28 08:20:52 -0500,"['/t/practices', '/t/programming', '/t/vcs']",Writing Better Commit Messages with Tmux,http://spin.atomicobject.com/2015/10/28/tmux-commit-messages/,/u/silentbicycle,23
-0,2015-10-28 14:18:07 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: joshua stein,http://beastie.pl/deweloperzy-openbsd-joshua-stein/,/u/mulander,24
-0,2015-10-29 10:30:30 -0500,['/t/api'],Managing [API] Change Behind the Scenes with Continuous Regression Testing,http://blog.runscope.com/posts/managing-change-behind-the-scenes-with-continuous-regression-testing-for-a-seamless-customer-experience,/u/journeysquid,1
-0,2015-10-29 10:01:29 -0500,"['/t/hardware', '/t/science']",Tiny 'ThumbSats' Aim to Bring Space to All,http://news.discovery.com/space/private-spaceflight/tiny-thumbsats-aim-to-bring-space-to-all-151026.htm,/u/pushcx,1
-0,2015-10-29 09:23:30 -0500,"['/t/pdf', '/t/programming', '/t/python']",What makes code hard to understand? (2013),http://arxiv.org/pdf/1304.5257.pdf,/u/pushcx,1
+0,2015-10-29 19:21:53 -0500,/t/practices,The Power of the Outdoor Office,http://calnewport.com/blog/2015/10/21/the-power-of-the-outdoor-office/,/u/joshuacc,4
+5,2015-10-29 08:33:18 -0500,/t/vcs,Fixing Stupid Mistakes in Git Pull Requests,http://developer.telerik.com/featured/fixing-stupid-mistakes-in-git-pull-requests/,/u/remotesynth,7
+8,2015-10-29 08:57:51 -0500,"/t/pdf,/t/security",Why is the NSA moving away from ECC?,https://eprint.iacr.org/2015/1018.pdf,/u/pushcx,6
+1,2015-10-29 17:32:23 -0500,"/t/javascript,/t/practices,/t/programming",Small modules: it’s not quite that simple,https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4,/u/joshuacc,3
+4,2015-10-29 04:05:34 -0500,"/t/c,/t/release,/t/web","Housecat, my new static site generator",http://www.mort.coffee/home/housecat/,/u/mort,5
+1,2015-10-29 09:58:20 -0500,"/t/practices,/t/security","Breaches, traders, plain text passwords, ethical disclosure and 000webhost",http://www.troyhunt.com/2015/10/breaches-traders-plain-text-passwords.html,/u/pushcx,7
+4,2015-10-29 12:52:27 -0500,/t/databases,Postgresql Table Partioning,https://sheeju.github.io/2015/10/postgres-table-partitioning-big-weather-table.html,/u/pushcx,3
+2,2015-10-29 12:11:35 -0500,"/t/cogsci,/t/math",Math & Beauty & Brain Areas,http://www.dam.brown.edu/people/mumford/blog/2015/MathBeautyBrain.html,/u/carinmeier,5
+2,2015-10-29 14:25:02 -0500,/t/networking,Time Zone News,http://time.is/time_zone_news,/u/pushcx,2
+0,2015-10-29 17:00:45 -0500,"/t/databases,/t/devops,/t/distributed,/t/java,/t/virtualization",5 Ready-made OSS Docker Images,https://deis.com/blog/2015/ready-made-open-source-containers,/u/ckoliver,1
+0,2015-10-29 07:12:14 -0500,"/t/javascript,/t/web",ServiceWorker and Progressive Networking,https://ponyfoo.com/articles/progressive-networking-serviceworker,/u/ponyfoo,4
+0,2015-10-29 17:10:35 -0500,"/t/linux,/t/security",x86 AES-CBC encryption with AVX2 multi-buffer,http://lkml.iu.edu/hypermail/linux/kernel/1510.3/03473.html,/u/journeysquid,2
+0,2015-10-29 04:35:41 -0500,"/t/security,/t/web",Caution: Copy-Pasting URLs from Google Search can Leak Previous Searches,https://medium.com/@jeremyrubin/caution-copy-pasting-urls-from-google-search-can-leak-previous-searches-11940508e79,/u/daGrevis,10
+0,2015-10-29 11:27:44 -0500,"/t/ruby,/t/rust",Using Resque with Rust,http://julienblanchard.com/2015/using-resque-with-rust/,/u/julienXX,2
+45,2015-10-28 12:41:33 -0500,/t/go,Why Go is a poorly designed language,https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2,/u/av,25
+0,2015-10-29 19:05:43 -0500,"/t/video,/t/practices",Not Just Code Monkeys,https://www.youtube.com/watch?v=Z8aECe4lp44,/u/pushcx,1
+0,2015-10-29 09:52:47 -0500,/t/math,"The Mathematical Surprises of Triangles, Squares and Pentagons",http://blogs.scientificamerican.com/guest-blog/martin-gardner-at-101-it-s-as-not-so-easy-as-3-4-5/,/u/pushcx,4
+5,2015-10-28 15:34:10 -0500,/t/programming,Why you might want to choose Ceylon,http://ceylon-lang.org/blog/2015/10/27/why/,/u/zem,13
+1,2015-10-28 21:23:49 -0500,/t/vcs,Git - Signing Your Work,https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work,/u/zg,12
+0,2015-10-29 14:55:19 -0500,/t/python,Using Python to see how the New York Times writes about men and women,http://nbviewer.ipython.org/gist/nealcaren/5105037,/u/pushcx,1
+10,2015-10-28 08:20:52 -0500,"/t/practices,/t/programming,/t/vcs",Writing Better Commit Messages with Tmux,http://spin.atomicobject.com/2015/10/28/tmux-commit-messages/,/u/silentbicycle,23
+0,2015-10-28 14:18:07 -0500,"/t/openbsd,/t/person",OpenBSD developers: joshua stein,http://beastie.pl/deweloperzy-openbsd-joshua-stein/,/u/mulander,24
+0,2015-10-29 10:30:30 -0500,/t/api,Managing [API] Change Behind the Scenes with Continuous Regression Testing,http://blog.runscope.com/posts/managing-change-behind-the-scenes-with-continuous-regression-testing-for-a-seamless-customer-experience,/u/journeysquid,1
+0,2015-10-29 10:01:29 -0500,"/t/hardware,/t/science",Tiny 'ThumbSats' Aim to Bring Space to All,http://news.discovery.com/space/private-spaceflight/tiny-thumbsats-aim-to-bring-space-to-all-151026.htm,/u/pushcx,1
+0,2015-10-29 09:23:30 -0500,"/t/pdf,/t/programming,/t/python",What makes code hard to understand? (2013),http://arxiv.org/pdf/1304.5257.pdf,/u/pushcx,1

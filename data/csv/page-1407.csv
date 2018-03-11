@@ -1,25 +1,25 @@
-1,2014-01-15 07:27:24 -0600,"['/t/pdf', '/t/lisp', '/t/programming']",μKanren: Relational (logic) Programming in 39 lines of Scheme,http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf,/u/mrb,11
-0,2014-01-15 15:02:43 -0600,"['/t/devops', '/t/java', '/t/linux']",osv,https://github.com/cloudius-systems/osv,/u/jm,5
-0,2014-01-15 08:54:55 -0600,"['/t/devops', '/t/distributed']",Mathematical Purity in Distributed Systems: CRDTs Without Fear,http://codedependents.com/2014/01/13/mathematical-purity-in-distributed-systems-crdts-without-fear/,/u/lambda,9
-0,2014-01-15 10:52:46 -0600,['/t/practices'],The Code is your Enemy,http://blog.asmartbear.com/the-code-is-your-enemy.html,/u/jm,6
-1,2014-01-15 13:57:19 -0600,['/t/dotnet'],CudaSharp,https://github.com/khyperia/CudaSharp,/u/jm,3
-0,2014-01-15 11:34:52 -0600,"['/t/design', '/t/windows']",Living a High-DPI desktop lifestyle can be painful,http://www.hanselman.com/blog/LivingAHighDPIDesktopLifestyleCanBePainful.aspx,/u/journeysquid,5
-0,2014-01-15 21:23:31 -0600,['/t/web'],Keeping the footer always at bottom using HTML and CSS only!,http://manzzup.blogspot.com/2013/09/keeping-footer-at-bottom-using-css-and.html,/u/manzzup,1
-0,2014-01-15 20:00:49 -0600,"['/t/databases', '/t/javascript']",Email and Password Auth with AngularFire,http://thephuse.com/development/email-password-auth-with-angularfire/,/u/tlongren,1
-0,2014-01-15 13:07:21 -0600,['/t/lisp'],memoize done right (2010),https://kotka.de/blog/2010/03/memoize_done_right.html,/u/pashields,3
-0,2014-01-15 17:59:10 -0600,"['/t/news', '/t/release', '/t/security']",Path has been hit by a Spam Attack.,http://gazerlog.com/path-has-been-hit-by-a-spam-attack/,/u/dotcom,1
-7,2014-01-14 11:44:06 -0600,"['/t/interview', '/t/person']",Lobsters interview with Kyle Conroy,/s/tdyo9e/lobsters_interview_with_kyle_conroy,/u/kyle,27
-0,2014-01-15 12:52:09 -0600,['/t/compsci'],Typed tagless-final interpretations: Lecture notes,http://okmij.org/ftp/tagless-final/course,/u/cmeiklejohn,2
-0,2014-01-15 01:17:02 -0600,['/t/security'],TrueCrypt Master Key Extraction And Volume Identification,http://volatility-labs.blogspot.com/2014/01/truecrypt-master-key-extraction-and.html,/u/kyle,8
-0,2014-01-15 11:42:08 -0600,['/t/haskell'],GHC type holes now on by default,https://github.com/ghc/ghc/commit/235fd88a9a35a6ca1aed70ff71291d7b433e45e4,/u/puffnfresh,2
-1,2014-01-15 11:41:22 -0600,['/t/javascript'],The Next Phase of Node.js - TJ Fontaine is new Node.js project lead,http://blog.nodejs.org/2014/01/15/the-next-phase-of-node-js/index.html,/u/patrickod,2
-0,2014-01-15 00:32:13 -0600,"['/t/pdf', '/t/book', '/t/math', '/t/programming']",Think Stats: Probability and Statistics for Programmers [2011],http://www.greenteapress.com/thinkstats/thinkstats.pdf,/u/petrohi,4
-2,2014-01-14 13:05:35 -0600,['/t/unix'],The Unix Shell's Humble If,http://robots.thoughtbot.com/the-unix-shells-humble-if,/u/tedu,13
-3,2014-01-14 08:00:35 -0600,['/t/programming'],Elixir and the Internet of Things – Handling a Stampede,http://www.neo.com/2014/01/14/elixir-and-the-internet-of-things-handling-a-stampede,/u/carinmeier,11
-0,2014-01-14 12:56:53 -0600,['/t/rust'],The Periodic Table of Rust Types,http://cosmic.mearie.org/tmp/periodic-table-of-rust-types,/u/kellogh,8
-2,2014-01-14 14:37:32 -0600,"['/t/practices', '/t/science']",An argument for code review of software attached to scientific publications,http://ivory.idyll.org/blog//kelleher-on-code-review.html,/u/ajdecon,3
-0,2014-01-14 08:08:24 -0600,['/t/lisp'],Real-time Twitter trending on a budget with riemann,http://spootnik.org/entries/2014/01/14_real-time-twitter-trending-on-a-budget-with-riemann.html,/u/pyr,10
-6,2014-01-14 12:09:08 -0600,['/t/show'],"Maintenr, a platform for auto enthusiasts",https://www.maintenr.com/,/u/aleksey,3
-0,2014-01-14 12:16:17 -0600,"['/t/php', '/t/programming']",Clever testrunner for PHPUnit,https://github.com/lstrojny/phpunit-clever-and-smart/,/u/sorin,5
-0,2014-01-14 09:48:31 -0600,"['/t/cryptocurrencies', '/t/privacy']",Brazilian hacker creates Twitter-like app shielded from NSA gaze,http://rt.com/news/twitter-twister-network-bitcoin-576/,/u/jm,5
-0,2014-01-14 15:34:24 -0600,"['/t/pdf', '/t/compsci', '/t/practices']",The Relationship Between COBOL and Computer Science (1985),http://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf,/u/aturley,2
+1,2014-01-15 07:27:24 -0600,"/t/pdf,/t/lisp,/t/programming",μKanren: Relational (logic) Programming in 39 lines of Scheme,http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf,/u/mrb,11
+0,2014-01-15 15:02:43 -0600,"/t/devops,/t/java,/t/linux",osv,https://github.com/cloudius-systems/osv,/u/jm,5
+0,2014-01-15 08:54:55 -0600,"/t/devops,/t/distributed",Mathematical Purity in Distributed Systems: CRDTs Without Fear,http://codedependents.com/2014/01/13/mathematical-purity-in-distributed-systems-crdts-without-fear/,/u/lambda,9
+0,2014-01-15 10:52:46 -0600,/t/practices,The Code is your Enemy,http://blog.asmartbear.com/the-code-is-your-enemy.html,/u/jm,6
+1,2014-01-15 13:57:19 -0600,/t/dotnet,CudaSharp,https://github.com/khyperia/CudaSharp,/u/jm,3
+0,2014-01-15 11:34:52 -0600,"/t/design,/t/windows",Living a High-DPI desktop lifestyle can be painful,http://www.hanselman.com/blog/LivingAHighDPIDesktopLifestyleCanBePainful.aspx,/u/journeysquid,5
+0,2014-01-15 21:23:31 -0600,/t/web,Keeping the footer always at bottom using HTML and CSS only!,http://manzzup.blogspot.com/2013/09/keeping-footer-at-bottom-using-css-and.html,/u/manzzup,1
+0,2014-01-15 20:00:49 -0600,"/t/databases,/t/javascript",Email and Password Auth with AngularFire,http://thephuse.com/development/email-password-auth-with-angularfire/,/u/tlongren,1
+0,2014-01-15 13:07:21 -0600,/t/lisp,memoize done right (2010),https://kotka.de/blog/2010/03/memoize_done_right.html,/u/pashields,3
+0,2014-01-15 17:59:10 -0600,"/t/news,/t/release,/t/security",Path has been hit by a Spam Attack.,http://gazerlog.com/path-has-been-hit-by-a-spam-attack/,/u/dotcom,1
+7,2014-01-14 11:44:06 -0600,"/t/interview,/t/person",Lobsters interview with Kyle Conroy,/s/tdyo9e/lobsters_interview_with_kyle_conroy,/u/kyle,27
+0,2014-01-15 12:52:09 -0600,/t/compsci,Typed tagless-final interpretations: Lecture notes,http://okmij.org/ftp/tagless-final/course,/u/cmeiklejohn,2
+0,2014-01-15 01:17:02 -0600,/t/security,TrueCrypt Master Key Extraction And Volume Identification,http://volatility-labs.blogspot.com/2014/01/truecrypt-master-key-extraction-and.html,/u/kyle,8
+0,2014-01-15 11:42:08 -0600,/t/haskell,GHC type holes now on by default,https://github.com/ghc/ghc/commit/235fd88a9a35a6ca1aed70ff71291d7b433e45e4,/u/puffnfresh,2
+1,2014-01-15 11:41:22 -0600,/t/javascript,The Next Phase of Node.js - TJ Fontaine is new Node.js project lead,http://blog.nodejs.org/2014/01/15/the-next-phase-of-node-js/index.html,/u/patrickod,2
+0,2014-01-15 00:32:13 -0600,"/t/pdf,/t/book,/t/math,/t/programming",Think Stats: Probability and Statistics for Programmers [2011],http://www.greenteapress.com/thinkstats/thinkstats.pdf,/u/petrohi,4
+2,2014-01-14 13:05:35 -0600,/t/unix,The Unix Shell's Humble If,http://robots.thoughtbot.com/the-unix-shells-humble-if,/u/tedu,13
+3,2014-01-14 08:00:35 -0600,/t/programming,Elixir and the Internet of Things – Handling a Stampede,http://www.neo.com/2014/01/14/elixir-and-the-internet-of-things-handling-a-stampede,/u/carinmeier,11
+0,2014-01-14 12:56:53 -0600,/t/rust,The Periodic Table of Rust Types,http://cosmic.mearie.org/tmp/periodic-table-of-rust-types,/u/kellogh,8
+2,2014-01-14 14:37:32 -0600,"/t/practices,/t/science",An argument for code review of software attached to scientific publications,http://ivory.idyll.org/blog//kelleher-on-code-review.html,/u/ajdecon,3
+0,2014-01-14 08:08:24 -0600,/t/lisp,Real-time Twitter trending on a budget with riemann,http://spootnik.org/entries/2014/01/14_real-time-twitter-trending-on-a-budget-with-riemann.html,/u/pyr,10
+6,2014-01-14 12:09:08 -0600,/t/show,"Maintenr, a platform for auto enthusiasts",https://www.maintenr.com/,/u/aleksey,3
+0,2014-01-14 12:16:17 -0600,"/t/php,/t/programming",Clever testrunner for PHPUnit,https://github.com/lstrojny/phpunit-clever-and-smart/,/u/sorin,5
+0,2014-01-14 09:48:31 -0600,"/t/cryptocurrencies,/t/privacy",Brazilian hacker creates Twitter-like app shielded from NSA gaze,http://rt.com/news/twitter-twister-network-bitcoin-576/,/u/jm,5
+0,2014-01-14 15:34:24 -0600,"/t/pdf,/t/compsci,/t/practices",The Relationship Between COBOL and Computer Science (1985),http://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf,/u/aturley,2

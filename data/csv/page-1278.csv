@@ -1,25 +1,25 @@
-0,2014-07-30 08:28:18 -0500,"['/t/go', '/t/linux']",tenus - Linux networking golang package,http://containerops.org/2014/07/30/tenus-golang-powered-linux-networking/,/u/gyre007,7
-2,2014-07-30 08:19:02 -0500,"['/t/privacy', '/t/security']","Tor security advisory: ""relay early"" traffic confirmation attack",https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack,/u/jcs,5
-0,2014-07-30 12:22:39 -0500,"['/t/compsci', '/t/ios', '/t/programming']",Immutable Enumeration in Swift,http://tel.github.io/2014/07/30/immutable_enumeration_in_swift/,/u/tel,4
-0,2014-07-30 07:29:55 -0500,"['/t/javascript', '/t/programming']","Eloquent JavaScript, second edition",http://eloquentjavascript.net/,/u/nikola,6
-0,2014-07-30 12:35:33 -0500,"['/t/devops', '/t/security']",How DevOps and Models Enhance Behavioral Detection,http://blog.threatstack.com/labs/2014/7/30/how-devops-and-models-enhance-behavioral-detection,/u/byoung,3
-0,2014-07-30 10:03:43 -0500,['/t/python'],Creative looping,http://nedbatchelder.com//blog/201407/creative_looping.html,/u/pushcx,3
-0,2014-07-30 16:01:58 -0500,"['/t/design', '/t/javascript']",An Admin UI for the Hexo static blogging engine in React,http://jaredly.github.io/hexo-admin/,/u/jaredly,1
-21,2014-07-29 10:40:31 -0500,['/t/vcs'],Flight rules for git,https://github.com/k88hudson/git-flight-rules,/u/tobym,15
-0,2014-07-29 21:27:24 -0500,"['/t/pdf', '/t/compsci']",GEDANKEN: A Simple Typeless Language Which Permits Functional Data Structures and Coroutines (1969),http://www.softwarepreservation.org/projects/lang/GEDANKEN/Reynolds-GEDANKEN-ANL_7621-1969.pdf,/u/pushcx,9
-1,2014-07-29 22:48:44 -0500,['/t/go'],C and Go without CGO,http://skullcountry.com/c-and-go-without-cgo,/u/shanemhansen,6
-0,2014-07-30 04:42:49 -0500,"['/t/haskell', '/t/programming']",Generating JSON from types whose structure doesn't come with a lot of guarantees,http://bitemyapp.com/posts/2014-07-30-aeson-with-uncertainty.html,/u/bitemyapp,3
-0,2014-07-30 10:19:24 -0500,['/t/ruby'],The state of RMagick development,http://linduxed.com/blog/2014/07/25/the-state-of-rmagick-development/,/u/jcs,1
-0,2014-07-30 10:06:06 -0500,"['/t/pdf', '/t/security']","Surveillance Costs: The NSA’s Impact on the Economy, Internet Freedom & Cybersecurity",http://oti.newamerica.net/sites/newamerica.net/files/policydocs/Surveilance_Costs_Final.pdf,/u/pushcx,1
-0,2014-07-30 09:52:23 -0500,['/t/go'],Getting started with Go,http://jpadilla.com/post/93299452857/getting-started-with-go,/u/jpadilla,1
-2,2014-07-29 07:43:58 -0500,"['/t/distributed', '/t/ml', '/t/programming', '/t/security', '/t/virtualization']",My first unikernel (OpenMirage),http://roscidus.com/blog/blog/2014/07/28/my-first-unikernel/,/u/tizoc,17
-0,2014-07-29 11:51:07 -0500,['/t/haskell'],"The Modular, Functional Client Side",http://www.stackbuilders.com/news/the-modular-functional-client-side,/u/jsl,9
-16,2014-07-29 17:31:32 -0500,"['/t/ask', '/t/devops']",Advice for incorporating remote workers in agile teams,/s/d7aeic/advice_for_incorporating_remote_workers,/u/stig,8
-0,2014-07-29 21:06:47 -0500,"['/t/pdf', '/t/compsci']",The Power of Interoperability: Why Objects Are Inevitable,https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf,/u/pushcx,2
-0,2014-07-29 21:26:04 -0500,"['/t/pdf', '/t/compsci']",Dataless Programming (1967),http://www.rand.org/content/dam/rand/pubs/research_memoranda/2007/RM5290.pdf,/u/pushcx,1
-1,2014-07-28 21:02:56 -0500,"['/t/programming', '/t/security']",seL4 open sourced,http://sel4.systems/,/u/BruceM,16
-3,2014-07-29 11:11:17 -0500,"['/t/haskell', '/t/rant']",Dynamic Typing: A Local Minimum for Code Comprehension,http://aaronlevin.ca/post/93173077293/dynamic-typing-a-local-minimum-for-code-comprehension,/u/aaronlevin,5
-0,2014-07-29 14:58:41 -0500,"['/t/design', '/t/web']",Responsive Logos,http://responsivelogos.co.uk/,/u/flyingfisch,1
-0,2014-07-29 14:31:50 -0500,"['/t/design', '/t/web']",Responsive Web Design Bloat,http://daverupert.com/2014/07/rwd-bloat/,/u/flyingfisch,1
-0,2014-07-29 13:32:43 -0500,['/t/web'],concrete5: Free CMS and Open Source Content Management System,http://www.concrete5.org/,/u/flyingfisch,1
-0,2014-07-29 18:06:42 -0500,['/t/culture'],Profanity in Programming: A Google Code Search Experiment,http://codeulate.com/2007/12/fcking-programming/,/u/dopatraman,1
+0,2014-07-30 08:28:18 -0500,"/t/go,/t/linux",tenus - Linux networking golang package,http://containerops.org/2014/07/30/tenus-golang-powered-linux-networking/,/u/gyre007,7
+2,2014-07-30 08:19:02 -0500,"/t/privacy,/t/security","Tor security advisory: ""relay early"" traffic confirmation attack",https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack,/u/jcs,5
+0,2014-07-30 12:22:39 -0500,"/t/compsci,/t/ios,/t/programming",Immutable Enumeration in Swift,http://tel.github.io/2014/07/30/immutable_enumeration_in_swift/,/u/tel,4
+0,2014-07-30 07:29:55 -0500,"/t/javascript,/t/programming","Eloquent JavaScript, second edition",http://eloquentjavascript.net/,/u/nikola,6
+0,2014-07-30 12:35:33 -0500,"/t/devops,/t/security",How DevOps and Models Enhance Behavioral Detection,http://blog.threatstack.com/labs/2014/7/30/how-devops-and-models-enhance-behavioral-detection,/u/byoung,3
+0,2014-07-30 10:03:43 -0500,/t/python,Creative looping,http://nedbatchelder.com//blog/201407/creative_looping.html,/u/pushcx,3
+0,2014-07-30 16:01:58 -0500,"/t/design,/t/javascript",An Admin UI for the Hexo static blogging engine in React,http://jaredly.github.io/hexo-admin/,/u/jaredly,1
+21,2014-07-29 10:40:31 -0500,/t/vcs,Flight rules for git,https://github.com/k88hudson/git-flight-rules,/u/tobym,15
+0,2014-07-29 21:27:24 -0500,"/t/pdf,/t/compsci",GEDANKEN: A Simple Typeless Language Which Permits Functional Data Structures and Coroutines (1969),http://www.softwarepreservation.org/projects/lang/GEDANKEN/Reynolds-GEDANKEN-ANL_7621-1969.pdf,/u/pushcx,9
+1,2014-07-29 22:48:44 -0500,/t/go,C and Go without CGO,http://skullcountry.com/c-and-go-without-cgo,/u/shanemhansen,6
+0,2014-07-30 04:42:49 -0500,"/t/haskell,/t/programming",Generating JSON from types whose structure doesn't come with a lot of guarantees,http://bitemyapp.com/posts/2014-07-30-aeson-with-uncertainty.html,/u/bitemyapp,3
+0,2014-07-30 10:19:24 -0500,/t/ruby,The state of RMagick development,http://linduxed.com/blog/2014/07/25/the-state-of-rmagick-development/,/u/jcs,1
+0,2014-07-30 10:06:06 -0500,"/t/pdf,/t/security","Surveillance Costs: The NSA’s Impact on the Economy, Internet Freedom & Cybersecurity",http://oti.newamerica.net/sites/newamerica.net/files/policydocs/Surveilance_Costs_Final.pdf,/u/pushcx,1
+0,2014-07-30 09:52:23 -0500,/t/go,Getting started with Go,http://jpadilla.com/post/93299452857/getting-started-with-go,/u/jpadilla,1
+2,2014-07-29 07:43:58 -0500,"/t/distributed,/t/ml,/t/programming,/t/security,/t/virtualization",My first unikernel (OpenMirage),http://roscidus.com/blog/blog/2014/07/28/my-first-unikernel/,/u/tizoc,17
+0,2014-07-29 11:51:07 -0500,/t/haskell,"The Modular, Functional Client Side",http://www.stackbuilders.com/news/the-modular-functional-client-side,/u/jsl,9
+16,2014-07-29 17:31:32 -0500,"/t/ask,/t/devops",Advice for incorporating remote workers in agile teams,/s/d7aeic/advice_for_incorporating_remote_workers,/u/stig,8
+0,2014-07-29 21:06:47 -0500,"/t/pdf,/t/compsci",The Power of Interoperability: Why Objects Are Inevitable,https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf,/u/pushcx,2
+0,2014-07-29 21:26:04 -0500,"/t/pdf,/t/compsci",Dataless Programming (1967),http://www.rand.org/content/dam/rand/pubs/research_memoranda/2007/RM5290.pdf,/u/pushcx,1
+1,2014-07-28 21:02:56 -0500,"/t/programming,/t/security",seL4 open sourced,http://sel4.systems/,/u/BruceM,16
+3,2014-07-29 11:11:17 -0500,"/t/haskell,/t/rant",Dynamic Typing: A Local Minimum for Code Comprehension,http://aaronlevin.ca/post/93173077293/dynamic-typing-a-local-minimum-for-code-comprehension,/u/aaronlevin,5
+0,2014-07-29 14:58:41 -0500,"/t/design,/t/web",Responsive Logos,http://responsivelogos.co.uk/,/u/flyingfisch,1
+0,2014-07-29 14:31:50 -0500,"/t/design,/t/web",Responsive Web Design Bloat,http://daverupert.com/2014/07/rwd-bloat/,/u/flyingfisch,1
+0,2014-07-29 13:32:43 -0500,/t/web,concrete5: Free CMS and Open Source Content Management System,http://www.concrete5.org/,/u/flyingfisch,1
+0,2014-07-29 18:06:42 -0500,/t/culture,Profanity in Programming: A Google Code Search Experiment,http://codeulate.com/2007/12/fcking-programming/,/u/dopatraman,1

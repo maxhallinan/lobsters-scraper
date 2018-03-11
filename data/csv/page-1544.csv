@@ -1,25 +1,25 @@
-0,2012-09-07 16:00:17 -0500,['/t/compsci'],The Wisdom of Crowds: Using Ensembles for Machine Learning,http://blog.factual.com/the-wisdom-of-crowds,/u/kyle,3
-0,2012-09-07 13:44:38 -0500,"['/t/ios', '/t/mobile', '/t/ruby']",RubyMotion Wrappers,http://rubymotion-wrappers.com/,/u/rob,4
-0,2012-09-07 09:41:43 -0500,"['/t/compsci', '/t/design']",Naming From the Outside In (Kent Beck),https://www.facebook.com/notes/kent-beck/naming-from-the-outside-in/464270190272517,/u/pushcx,6
-1,2012-09-07 12:43:47 -0500,"['/t/compsci', '/t/haskell']",Haskell prelude using GHC's new data kind promotion,http://blog.atnnn.com/p/type-prelude-and-ghc-7-6-1/,/u/Luke,3
-0,2012-09-07 09:27:50 -0500,['/t/compsci'],Cardinality Estimation Algorithm,http://blog.notdot.net/2012/09/Dam-Cool-Algorithms-Cardinality-Estimation,/u/pushcx,5
-0,2012-09-07 13:06:50 -0500,['/t/compsci'],Test Mercenaries,http://mike-bland.com/2012/07/10/test-mercenaries.html,/u/pushcx,3
-5,2012-09-06 22:18:52 -0500,"['/t/news', '/t/release']",Rich Hickey - Extensible Data Notation,https://github.com/richhickey/edn,/u/rob,10
-0,2012-09-07 10:45:46 -0500,"['/t/databases', '/t/ruby']",Labrador is a SQL and Mongo development database browser,http://chrismccord.github.com/labrador/,/u/automach,3
-0,2012-09-07 10:32:13 -0500,['/t/ios'],A Mind Map for iOS Testing,http://www.neglectedpotential.com/2012/09/a-mind-map-for-ios-testing,/u/jon,3
-0,2012-09-07 06:11:52 -0500,['/t/security'],On the (provable) security of TLS: Part 1,http://blog.cryptographyengineering.com/2012/09/on-provable-security-of-tls-part-1.html,/u/jtdowney,4
-0,2012-09-07 02:55:03 -0500,['/t/openbsd'],Bsdtalk219 - David Gwynne,http://bsdtalk.blogspot.dk/2012/09/bsdtalk219-david-gwynne.html,/u/lynge,5
-0,2012-09-07 09:30:38 -0500,['/t/design'],Wikipedia Redefined,http://www.wikipediaredefined.com,/u/listrophy,2
-0,2012-09-07 02:06:10 -0500,['/t/ruby'],Testing Your Factories First,http://robots.thoughtbot.com/post/30994874643/testing-your-factories-first,/u/pushcx,5
-0,2012-09-06 21:41:22 -0500,"['/t/pdf', '/t/release']",Out of the Tar Pit (2006),http://shaffner.us/cs/papers/tarpit.pdf,/u/kGb8RNFtg6,7
-2,2012-09-06 12:55:13 -0500,"['/t/hardware', '/t/news']","Amazon announces new Kindle e-reader with ""paperwhite"" display",http://www.theverge.com/2012/9/6/3296627/amazon-new-kindle-paperwhite-announcement,/u/wally,15
-0,2012-09-07 09:24:52 -0500,"['/t/compsci', '/t/rant', '/t/release']","Touching the stove, broken glass, and other peoples mistakes",http://philcrissman.com/2012/08/26/touching-the-stove/,/u/philcrissman,2
-3,2012-09-06 11:24:31 -0500,['/t/ruby'],All about Struct,http://rubylearning.com/blog/2012/09/06/all-about-struct/,/u/pushcx,10
-1,2012-09-06 10:09:56 -0500,['/t/c'],Why is my program slow when looping over exactly 8192 elements?,http://stackoverflow.com/questions/12264970/why-is-my-program-slow-when-looping-over-exactly-8192-elements,/u/pushcx,16
-3,2012-09-06 12:24:14 -0500,['/t/databases'],Why Postgres,http://www.craigkerstiens.com/2012/04/30/why-postgres/,/u/pushcx,7
-7,2012-09-06 13:59:53 -0500,"['/t/hardware', '/t/news']",Amazon announces Kindle Fire HD 4G LTE plan: $49.99/year for 250MB per month,http://www.theverge.com/2012/9/6/3298242/amazon-kindle-fire-hd-4G-LTE-plans,/u/wally,5
-0,2012-09-06 23:27:45 -0500,"['/t/linux', '/t/security']",cr0 blog: Introducing Chrome's next-generation Linux sandbox,http://blog.cr0.org/2012/09/introducing-chromes-next-generation.html,/u/syndrowm,3
-0,2012-09-06 17:36:43 -0500,"['/t/release', '/t/unix']",Pass - Password Manager the Unix way,http://zx2c4.com/projects/password-store/,/u/dekz,6
-8,2012-09-07 01:55:07 -0500,['/t/meta'],"There is no 'emacs' tag, maybe we should have an 'editors' tag.",/s/iwiyid/there_is_no_emacs_tag_maybe_we_should_have,/u/odin,4
-1,2012-09-06 11:26:23 -0500,['/t/ruby'],Writing Beautiful RSpec Matchers,http://www.rojotek.com/blog/2012/09/04/writing-beautiful-rspec-matchers/,/u/pushcx,10
-8,2012-09-06 15:36:33 -0500,"['/t/rant', '/t/ruby', '/t/web']",Stop Validating Email Addresses With Regex,http://davidcelis.com/blog/2012/09/06/stop-validating-email-addresses-with-regex/,/u/davidcelis,12
+0,2012-09-07 16:00:17 -0500,/t/compsci,The Wisdom of Crowds: Using Ensembles for Machine Learning,http://blog.factual.com/the-wisdom-of-crowds,/u/kyle,3
+0,2012-09-07 13:44:38 -0500,"/t/ios,/t/mobile,/t/ruby",RubyMotion Wrappers,http://rubymotion-wrappers.com/,/u/rob,4
+0,2012-09-07 09:41:43 -0500,"/t/compsci,/t/design",Naming From the Outside In (Kent Beck),https://www.facebook.com/notes/kent-beck/naming-from-the-outside-in/464270190272517,/u/pushcx,6
+1,2012-09-07 12:43:47 -0500,"/t/compsci,/t/haskell",Haskell prelude using GHC's new data kind promotion,http://blog.atnnn.com/p/type-prelude-and-ghc-7-6-1/,/u/Luke,3
+0,2012-09-07 09:27:50 -0500,/t/compsci,Cardinality Estimation Algorithm,http://blog.notdot.net/2012/09/Dam-Cool-Algorithms-Cardinality-Estimation,/u/pushcx,5
+0,2012-09-07 13:06:50 -0500,/t/compsci,Test Mercenaries,http://mike-bland.com/2012/07/10/test-mercenaries.html,/u/pushcx,3
+5,2012-09-06 22:18:52 -0500,"/t/news,/t/release",Rich Hickey - Extensible Data Notation,https://github.com/richhickey/edn,/u/rob,10
+0,2012-09-07 10:45:46 -0500,"/t/databases,/t/ruby",Labrador is a SQL and Mongo development database browser,http://chrismccord.github.com/labrador/,/u/automach,3
+0,2012-09-07 10:32:13 -0500,/t/ios,A Mind Map for iOS Testing,http://www.neglectedpotential.com/2012/09/a-mind-map-for-ios-testing,/u/jon,3
+0,2012-09-07 06:11:52 -0500,/t/security,On the (provable) security of TLS: Part 1,http://blog.cryptographyengineering.com/2012/09/on-provable-security-of-tls-part-1.html,/u/jtdowney,4
+0,2012-09-07 02:55:03 -0500,/t/openbsd,Bsdtalk219 - David Gwynne,http://bsdtalk.blogspot.dk/2012/09/bsdtalk219-david-gwynne.html,/u/lynge,5
+0,2012-09-07 09:30:38 -0500,/t/design,Wikipedia Redefined,http://www.wikipediaredefined.com,/u/listrophy,2
+0,2012-09-07 02:06:10 -0500,/t/ruby,Testing Your Factories First,http://robots.thoughtbot.com/post/30994874643/testing-your-factories-first,/u/pushcx,5
+0,2012-09-06 21:41:22 -0500,"/t/pdf,/t/release",Out of the Tar Pit (2006),http://shaffner.us/cs/papers/tarpit.pdf,/u/kGb8RNFtg6,7
+2,2012-09-06 12:55:13 -0500,"/t/hardware,/t/news","Amazon announces new Kindle e-reader with ""paperwhite"" display",http://www.theverge.com/2012/9/6/3296627/amazon-new-kindle-paperwhite-announcement,/u/wally,15
+0,2012-09-07 09:24:52 -0500,"/t/compsci,/t/rant,/t/release","Touching the stove, broken glass, and other peoples mistakes",http://philcrissman.com/2012/08/26/touching-the-stove/,/u/philcrissman,2
+3,2012-09-06 11:24:31 -0500,/t/ruby,All about Struct,http://rubylearning.com/blog/2012/09/06/all-about-struct/,/u/pushcx,10
+1,2012-09-06 10:09:56 -0500,/t/c,Why is my program slow when looping over exactly 8192 elements?,http://stackoverflow.com/questions/12264970/why-is-my-program-slow-when-looping-over-exactly-8192-elements,/u/pushcx,16
+3,2012-09-06 12:24:14 -0500,/t/databases,Why Postgres,http://www.craigkerstiens.com/2012/04/30/why-postgres/,/u/pushcx,7
+7,2012-09-06 13:59:53 -0500,"/t/hardware,/t/news",Amazon announces Kindle Fire HD 4G LTE plan: $49.99/year for 250MB per month,http://www.theverge.com/2012/9/6/3298242/amazon-kindle-fire-hd-4G-LTE-plans,/u/wally,5
+0,2012-09-06 23:27:45 -0500,"/t/linux,/t/security",cr0 blog: Introducing Chrome's next-generation Linux sandbox,http://blog.cr0.org/2012/09/introducing-chromes-next-generation.html,/u/syndrowm,3
+0,2012-09-06 17:36:43 -0500,"/t/release,/t/unix",Pass - Password Manager the Unix way,http://zx2c4.com/projects/password-store/,/u/dekz,6
+8,2012-09-07 01:55:07 -0500,/t/meta,"There is no 'emacs' tag, maybe we should have an 'editors' tag.",/s/iwiyid/there_is_no_emacs_tag_maybe_we_should_have,/u/odin,4
+1,2012-09-06 11:26:23 -0500,/t/ruby,Writing Beautiful RSpec Matchers,http://www.rojotek.com/blog/2012/09/04/writing-beautiful-rspec-matchers/,/u/pushcx,10
+8,2012-09-06 15:36:33 -0500,"/t/rant,/t/ruby,/t/web",Stop Validating Email Addresses With Regex,http://davidcelis.com/blog/2012/09/06/stop-validating-email-addresses-with-regex/,/u/davidcelis,12

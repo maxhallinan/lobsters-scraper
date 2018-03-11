@@ -1,25 +1,25 @@
-2,2017-06-23 15:13:04 -0500,"['/t/video', '/t/hardware']",Atari 2600 color video and audio demo,https://www.youtube.com/watch?v=HaSoTE9wfmo,/u/pushcx,2
-21,2017-06-22 13:16:59 -0500,"['/t/openbsd', '/t/security']",Tinc VPN,http://tinc-vpn.org/,/u/brycv,26
-1,2017-06-23 13:25:34 -0500,['/t/javascript'],A First Reason React app for Javascript developers | James Friend,https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers,/u/lolptdr,2
-8,2017-06-22 14:26:52 -0500,['/t/javascript'],Redux Architecture Guidelines,http://joeellis.la/redux-architecture/,/u/notjoeellis,11
-1,2017-06-23 11:45:28 -0500,"['/t/pdf', '/t/security']",ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks (2015),https://taesoo.gtisc.gatech.edu/pubs/2015/lu:aslrguard.pdf,/u/fro,3
-4,2017-06-22 17:39:41 -0500,['/t/cryptocurrencies'],Here’s How Traders Lost Millions in the First Ethereum Flash Crash,https://motherboard.vice.com/en_us/article/mbjyk4/heres-how-traders-lost-millions-in-the-first-ethereum-flash-crash,/u/nyx,8
-4,2017-06-22 12:58:55 -0500,"['/t/ai', '/t/math']",Probabilistic programming from scratch,https://www.oreilly.com/learning/probabilistic-programming-from-scratch,/u/williamsmj,10
-9,2017-06-22 17:14:56 -0500,['/t/scaling'],Serving 39 Million Requests for $370/Month on AWS Lambda,https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd,/u/yumaikas,8
-0,2017-06-22 13:11:43 -0500,"['/t/programming', '/t/testing', '/t/unix']",Oil Shell: How I Use Tests,http://www.oilshell.org/blog/2017/06/22.html,/u/andyc,10
-0,2017-06-23 04:15:02 -0500,"['/t/performance', '/t/release']",SPEC CPU® 2017,https://www.spec.org/cpu2017/,/u/qznc,4
-0,2017-06-23 11:35:07 -0500,"['/t/art', '/t/culture', '/t/education']",What Music Really Is,http://whatmusicreallyis.com/research/,/u/adamnemecek,3
-0,2017-06-22 11:24:30 -0500,"['/t/devops', '/t/practices']",Playbooks Aren’t Written For “You”,http://sigusr2.net/playbooks-arent-written-for-you.html,/u/apg,13
-7,2017-06-22 10:36:59 -0500,['/t/meta'],I'm not allowed to see the invitation queue?,/s/iek8wn/i_m_not_allowed_see_invitation_queue,/u/samuelt,12
-6,2017-06-22 07:55:59 -0500,"['/t/hardware', '/t/security']",IoT goes nuclear: creating a ZigBee chain reaction,https://blog.acolyer.org/2017/06/22/iot-goes-nuclear-creating-a-zigbee-chain-reaction/,/u/matthewfarwell,16
-0,2017-06-23 06:41:27 -0500,"['/t/go', '/t/math']",3D Packing for SLS Printing (How many 3DBenchy boats can the Fuse 1 print?),https://www.michaelfogleman.com/pack3d/,/u/calvin,2
-25,2017-06-21 19:25:20 -0500,['/t/hardware'],Retro ThinkPad: It’s Alive,http://blog.lenovo.com/en/blog/retro-thinkpad-its-alive/,/u/stsp,59
-5,2017-06-22 06:46:27 -0500,"['/t/design', '/t/hardware']","Why the ThinkPad TrackPoint is still a thing, according to Lenovo’s chief designer",http://www.techradar.com/news/why-the-thinkpad-trackpoint-still-a-thing-according-to-lenovos-chief-designer,/u/calvin,22
-4,2017-06-22 08:58:53 -0500,['/t/web'],A $2 Million Prize to Decentralize the Web. Apply Today,https://blog.mozilla.org/blog/2017/06/21/2-million-prize-decentralize-web-apply-today/,/u/pizzaiolo,14
-3,2017-06-22 11:52:36 -0500,"['/t/browsers', '/t/testing', '/t/windows']",Running Selenium with Headless Firefox,https://intoli.com/blog/running-selenium-with-headless-firefox/,/u/aperun,7
-0,2017-06-23 03:56:13 -0500,['/t/cryptocurrencies'],Choosing ASICs for Sia,https://blog.sia.tech/choosing-asics-for-sia-b318505b5b51,/u/gsora,2
-0,2017-06-22 21:46:03 -0500,"['/t/compsci', '/t/python', '/t/visualization']",Line breaking (2014),http://xxyxyz.org/line-breaking/,/u/NoahTheDuke,4
-0,2017-06-22 13:11:07 -0500,"['/t/databases', '/t/performance', '/t/ruby']",A Tale of Slow Pagination,https://schneems.com/2017/06/22/a-tale-of-slow-pagination/,/u/schneems,5
-1,2017-06-22 09:54:31 -0500,"['/t/education', '/t/finance', '/t/practices']",Why So Many Top Hackers Hail from Russia,https://krebsonsecurity.com/2017/06/why-so-many-top-hackers-hail-from-russia/,/u/calvin,12
-3,2017-06-22 18:54:07 -0500,"['/t/ios', '/t/practices']",How to Build Smaller Apps,https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331,/u/calvin,2
-0,2017-06-22 06:34:23 -0500,['/t/hardware'],"How ""big"" were the first hard drives?",http://blog.sqlizer.io/posts/how-big-first-hard-drives/,/u/wgx,9
+2,2017-06-23 15:13:04 -0500,"/t/video,/t/hardware",Atari 2600 color video and audio demo,https://www.youtube.com/watch?v=HaSoTE9wfmo,/u/pushcx,2
+21,2017-06-22 13:16:59 -0500,"/t/openbsd,/t/security",Tinc VPN,http://tinc-vpn.org/,/u/brycv,26
+1,2017-06-23 13:25:34 -0500,/t/javascript,A First Reason React app for Javascript developers | James Friend,https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers,/u/lolptdr,2
+8,2017-06-22 14:26:52 -0500,/t/javascript,Redux Architecture Guidelines,http://joeellis.la/redux-architecture/,/u/notjoeellis,11
+1,2017-06-23 11:45:28 -0500,"/t/pdf,/t/security",ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks (2015),https://taesoo.gtisc.gatech.edu/pubs/2015/lu:aslrguard.pdf,/u/fro,3
+4,2017-06-22 17:39:41 -0500,/t/cryptocurrencies,Here’s How Traders Lost Millions in the First Ethereum Flash Crash,https://motherboard.vice.com/en_us/article/mbjyk4/heres-how-traders-lost-millions-in-the-first-ethereum-flash-crash,/u/nyx,8
+4,2017-06-22 12:58:55 -0500,"/t/ai,/t/math",Probabilistic programming from scratch,https://www.oreilly.com/learning/probabilistic-programming-from-scratch,/u/williamsmj,10
+9,2017-06-22 17:14:56 -0500,/t/scaling,Serving 39 Million Requests for $370/Month on AWS Lambda,https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd,/u/yumaikas,8
+0,2017-06-22 13:11:43 -0500,"/t/programming,/t/testing,/t/unix",Oil Shell: How I Use Tests,http://www.oilshell.org/blog/2017/06/22.html,/u/andyc,10
+0,2017-06-23 04:15:02 -0500,"/t/performance,/t/release",SPEC CPU® 2017,https://www.spec.org/cpu2017/,/u/qznc,4
+0,2017-06-23 11:35:07 -0500,"/t/art,/t/culture,/t/education",What Music Really Is,http://whatmusicreallyis.com/research/,/u/adamnemecek,3
+0,2017-06-22 11:24:30 -0500,"/t/devops,/t/practices",Playbooks Aren’t Written For “You”,http://sigusr2.net/playbooks-arent-written-for-you.html,/u/apg,13
+7,2017-06-22 10:36:59 -0500,/t/meta,I'm not allowed to see the invitation queue?,/s/iek8wn/i_m_not_allowed_see_invitation_queue,/u/samuelt,12
+6,2017-06-22 07:55:59 -0500,"/t/hardware,/t/security",IoT goes nuclear: creating a ZigBee chain reaction,https://blog.acolyer.org/2017/06/22/iot-goes-nuclear-creating-a-zigbee-chain-reaction/,/u/matthewfarwell,16
+0,2017-06-23 06:41:27 -0500,"/t/go,/t/math",3D Packing for SLS Printing (How many 3DBenchy boats can the Fuse 1 print?),https://www.michaelfogleman.com/pack3d/,/u/calvin,2
+25,2017-06-21 19:25:20 -0500,/t/hardware,Retro ThinkPad: It’s Alive,http://blog.lenovo.com/en/blog/retro-thinkpad-its-alive/,/u/stsp,59
+5,2017-06-22 06:46:27 -0500,"/t/design,/t/hardware","Why the ThinkPad TrackPoint is still a thing, according to Lenovo’s chief designer",http://www.techradar.com/news/why-the-thinkpad-trackpoint-still-a-thing-according-to-lenovos-chief-designer,/u/calvin,22
+4,2017-06-22 08:58:53 -0500,/t/web,A $2 Million Prize to Decentralize the Web. Apply Today,https://blog.mozilla.org/blog/2017/06/21/2-million-prize-decentralize-web-apply-today/,/u/pizzaiolo,14
+3,2017-06-22 11:52:36 -0500,"/t/browsers,/t/testing,/t/windows",Running Selenium with Headless Firefox,https://intoli.com/blog/running-selenium-with-headless-firefox/,/u/aperun,7
+0,2017-06-23 03:56:13 -0500,/t/cryptocurrencies,Choosing ASICs for Sia,https://blog.sia.tech/choosing-asics-for-sia-b318505b5b51,/u/gsora,2
+0,2017-06-22 21:46:03 -0500,"/t/compsci,/t/python,/t/visualization",Line breaking (2014),http://xxyxyz.org/line-breaking/,/u/NoahTheDuke,4
+0,2017-06-22 13:11:07 -0500,"/t/databases,/t/performance,/t/ruby",A Tale of Slow Pagination,https://schneems.com/2017/06/22/a-tale-of-slow-pagination/,/u/schneems,5
+1,2017-06-22 09:54:31 -0500,"/t/education,/t/finance,/t/practices",Why So Many Top Hackers Hail from Russia,https://krebsonsecurity.com/2017/06/why-so-many-top-hackers-hail-from-russia/,/u/calvin,12
+3,2017-06-22 18:54:07 -0500,"/t/ios,/t/practices",How to Build Smaller Apps,https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331,/u/calvin,2
+0,2017-06-22 06:34:23 -0500,/t/hardware,"How ""big"" were the first hard drives?",http://blog.sqlizer.io/posts/how-big-first-hard-drives/,/u/wgx,9

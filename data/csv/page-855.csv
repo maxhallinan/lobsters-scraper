@@ -1,25 +1,25 @@
-3,2016-02-29 12:31:44 -0600,['/t/web'],REM vs EM,http://zellwk.com/blog/rem-vs-em/,/u/flyingfisch,5
-0,2016-03-01 04:36:39 -0600,['/t/finance'],The Twilight of the Indoor Mall,http://www.theawl.com/2014/11/the-twilight-of-the-indoor-mall,/u/calvin,0
-0,2016-02-29 20:46:49 -0600,['/t/swift'],Non-linear loops,http://ericasadun.com/2016/02/26/non-linear-loops/,/u/pushcx,1
-0,2016-02-29 20:39:55 -0600,"['/t/c', '/t/compilers']",Make VC++ Compiles Fast Through Parallel Compilation,https://randomascii.wordpress.com/2014/03/22/make-vc-compiles-fast-through-parallel-compilation/,/u/pushcx,1
-0,2016-02-29 16:05:10 -0600,"['/t/video', '/t/games']",Killer Instinct: How To: Play The Game Blind,https://www.youtube.com/watch?v=THbVXGulDUE,/u/pushcx,2
-0,2016-02-29 08:28:20 -0600,"['/t/compsci', '/t/javascript']",ember-concurrency: the solution to so many problems you never knew you had,https://medium.com/@machty/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9,/u/tomdale,5
-0,2016-02-29 14:42:23 -0600,"['/t/ml', '/t/programming']",Introducing Functoria: A library to create arbitrary MirageOS-like DSLs,https://mirage.io/blog/introducing-functoria,/u/zem,2
-8,2016-02-28 17:34:31 -0600,"['/t/ruby', '/t/web']",How DHH organizes his Rails controllers,http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers,/u/pushcx,11
-0,2016-02-29 16:47:40 -0600,"['/t/pdf', '/t/graphics']",Optimizing Query Time in a Bounding Volume Hierarchy,https://benedikt-bitterli.me/bvh-report.pdf,/u/friendlysock,1
-1,2016-02-28 17:21:53 -0600,['/t/scala'],Pipe |> Operator in Scala,https://medium.com/@anicolaspp/operator-in-scala-cbca7b939fc0,/u/softinio,14
-0,2016-02-29 01:09:41 -0600,"['/t/pdf', '/t/compilers']",gpucc: An Open-Source GPGPU Compiler,http://llvm.org/devmtg/2015-10/slides/Wu-OptimizingLLVMforGPGPU.pdf,/u/sanxiyn,7
-0,2016-02-29 13:45:20 -0600,['/t/privacy'],"See That Billboard? It May See You, Too",http://www.nytimes.com/2016/02/29/business/media/see-that-billboard-it-may-see-you-too.html,/u/pushcx,1
-0,2016-02-28 20:31:42 -0600,"['/t/openbsd', '/t/release', '/t/security']","OpenSSH 7.2 released Feb 29, 2016",http://www.openssh.com/txt/release-7.2,/u/cnst,10
-0,2016-02-28 19:53:34 -0600,"['/t/ios', '/t/reversing', '/t/security']",Pirated iOS App Store’s Client Successfully Evaded Apple iOS Code Review,http://researchcenter.paloaltonetworks.com/2016/02/pirated-ios-app-stores-client-successfully-evaded-apple-ios-code-review/,/u/austinz,7
-3,2016-02-28 09:01:25 -0600,"['/t/hardware', '/t/programming']",Single address spaces: design flaw or feature?,https://matildah.github.io/posts/2016-01-30-unikernel-security.html,/u/tobym,12
-0,2016-02-28 16:00:07 -0600,"['/t/art', '/t/lisp', '/t/web']","Klangmeister, music live coding in the browser",http://ctford.github.io/klangmeister/,/u/mjn,9
-0,2016-02-28 17:58:20 -0600,['/t/practices'],Sailfish OS FOSS Licensing Survey,http://reviewjolla.blogspot.com/p/sailfish-os-open-source-licencing-stage.html,/u/pushcx,7
-0,2016-02-28 16:39:57 -0600,['/t/practices'],10 Mostly Easy Steps To Become An Indie Dev,http://galaxykate0.tumblr.com/post/140095071426/10-mostly-easy-steps-to-become-an-indie-dev,/u/james,8
-24,2016-02-28 10:36:14 -0600,"['/t/show', '/t/go']",walle/lll - Line length linter,https://github.com/walle/lll,/u/walle,3
-0,2016-02-28 14:41:49 -0600,['/t/python'],The origins of the class Meta idiom in python,https://mapleoin.github.io/perma/python-class-meta,/u/pushcx,7
-10,2016-02-27 14:54:30 -0600,['/t/programming'],Abstraction Considered Harmful,http://bravenewgeek.com/abstraction-considered-harmful/,/u/tylertreat,18
-0,2016-02-28 07:09:03 -0600,"['/t/compsci', '/t/hardware']","How To Kill A Supercomputer: Dirty Power, Cosmic Rays, and Bad Solder",http://spectrum.ieee.org/computing/hardware/how-to-kill-a-supercomputer-dirty-power-cosmic-rays-and-bad-solder,/u/sevan,11
-7,2016-02-27 22:18:27 -0600,"['/t/c', '/t/security']",OpenSSL CVE-2016-0799: heap corruption via BIO_printf,https://guidovranken.wordpress.com/2016/02/27/openssl-cve-2016-0799-heap-corruption-via-bio_printf/,/u/jcs,14
-0,2016-02-28 16:07:13 -0600,"['/t/pdf', '/t/practices', '/t/security']",Operation Blockbuster: Unraveling the Long Thread of the Sony Attack,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf,/u/calvin,3
-0,2016-02-28 10:16:46 -0600,"['/t/devops', '/t/linux', '/t/networking', '/t/programming']","Connecting Docker Containers, Part One",https://deis.com/blog/2016/connecting-docker-containers-1,/u/mazembo,3
+3,2016-02-29 12:31:44 -0600,/t/web,REM vs EM,http://zellwk.com/blog/rem-vs-em/,/u/flyingfisch,5
+0,2016-03-01 04:36:39 -0600,/t/finance,The Twilight of the Indoor Mall,http://www.theawl.com/2014/11/the-twilight-of-the-indoor-mall,/u/calvin,0
+0,2016-02-29 20:46:49 -0600,/t/swift,Non-linear loops,http://ericasadun.com/2016/02/26/non-linear-loops/,/u/pushcx,1
+0,2016-02-29 20:39:55 -0600,"/t/c,/t/compilers",Make VC++ Compiles Fast Through Parallel Compilation,https://randomascii.wordpress.com/2014/03/22/make-vc-compiles-fast-through-parallel-compilation/,/u/pushcx,1
+0,2016-02-29 16:05:10 -0600,"/t/video,/t/games",Killer Instinct: How To: Play The Game Blind,https://www.youtube.com/watch?v=THbVXGulDUE,/u/pushcx,2
+0,2016-02-29 08:28:20 -0600,"/t/compsci,/t/javascript",ember-concurrency: the solution to so many problems you never knew you had,https://medium.com/@machty/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9,/u/tomdale,5
+0,2016-02-29 14:42:23 -0600,"/t/ml,/t/programming",Introducing Functoria: A library to create arbitrary MirageOS-like DSLs,https://mirage.io/blog/introducing-functoria,/u/zem,2
+8,2016-02-28 17:34:31 -0600,"/t/ruby,/t/web",How DHH organizes his Rails controllers,http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers,/u/pushcx,11
+0,2016-02-29 16:47:40 -0600,"/t/pdf,/t/graphics",Optimizing Query Time in a Bounding Volume Hierarchy,https://benedikt-bitterli.me/bvh-report.pdf,/u/friendlysock,1
+1,2016-02-28 17:21:53 -0600,/t/scala,Pipe |> Operator in Scala,https://medium.com/@anicolaspp/operator-in-scala-cbca7b939fc0,/u/softinio,14
+0,2016-02-29 01:09:41 -0600,"/t/pdf,/t/compilers",gpucc: An Open-Source GPGPU Compiler,http://llvm.org/devmtg/2015-10/slides/Wu-OptimizingLLVMforGPGPU.pdf,/u/sanxiyn,7
+0,2016-02-29 13:45:20 -0600,/t/privacy,"See That Billboard? It May See You, Too",http://www.nytimes.com/2016/02/29/business/media/see-that-billboard-it-may-see-you-too.html,/u/pushcx,1
+0,2016-02-28 20:31:42 -0600,"/t/openbsd,/t/release,/t/security","OpenSSH 7.2 released Feb 29, 2016",http://www.openssh.com/txt/release-7.2,/u/cnst,10
+0,2016-02-28 19:53:34 -0600,"/t/ios,/t/reversing,/t/security",Pirated iOS App Store’s Client Successfully Evaded Apple iOS Code Review,http://researchcenter.paloaltonetworks.com/2016/02/pirated-ios-app-stores-client-successfully-evaded-apple-ios-code-review/,/u/austinz,7
+3,2016-02-28 09:01:25 -0600,"/t/hardware,/t/programming",Single address spaces: design flaw or feature?,https://matildah.github.io/posts/2016-01-30-unikernel-security.html,/u/tobym,12
+0,2016-02-28 16:00:07 -0600,"/t/art,/t/lisp,/t/web","Klangmeister, music live coding in the browser",http://ctford.github.io/klangmeister/,/u/mjn,9
+0,2016-02-28 17:58:20 -0600,/t/practices,Sailfish OS FOSS Licensing Survey,http://reviewjolla.blogspot.com/p/sailfish-os-open-source-licencing-stage.html,/u/pushcx,7
+0,2016-02-28 16:39:57 -0600,/t/practices,10 Mostly Easy Steps To Become An Indie Dev,http://galaxykate0.tumblr.com/post/140095071426/10-mostly-easy-steps-to-become-an-indie-dev,/u/james,8
+24,2016-02-28 10:36:14 -0600,"/t/show,/t/go",walle/lll - Line length linter,https://github.com/walle/lll,/u/walle,3
+0,2016-02-28 14:41:49 -0600,/t/python,The origins of the class Meta idiom in python,https://mapleoin.github.io/perma/python-class-meta,/u/pushcx,7
+10,2016-02-27 14:54:30 -0600,/t/programming,Abstraction Considered Harmful,http://bravenewgeek.com/abstraction-considered-harmful/,/u/tylertreat,18
+0,2016-02-28 07:09:03 -0600,"/t/compsci,/t/hardware","How To Kill A Supercomputer: Dirty Power, Cosmic Rays, and Bad Solder",http://spectrum.ieee.org/computing/hardware/how-to-kill-a-supercomputer-dirty-power-cosmic-rays-and-bad-solder,/u/sevan,11
+7,2016-02-27 22:18:27 -0600,"/t/c,/t/security",OpenSSL CVE-2016-0799: heap corruption via BIO_printf,https://guidovranken.wordpress.com/2016/02/27/openssl-cve-2016-0799-heap-corruption-via-bio_printf/,/u/jcs,14
+0,2016-02-28 16:07:13 -0600,"/t/pdf,/t/practices,/t/security",Operation Blockbuster: Unraveling the Long Thread of the Sony Attack,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf,/u/calvin,3
+0,2016-02-28 10:16:46 -0600,"/t/devops,/t/linux,/t/networking,/t/programming","Connecting Docker Containers, Part One",https://deis.com/blog/2016/connecting-docker-containers-1,/u/mazembo,3

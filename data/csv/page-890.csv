@@ -1,25 +1,25 @@
-0,2016-01-29 13:29:19 -0600,"['/t/video', '/t/programming']",Designing and Evaluating Reusable Components,http://mollyrocket.com/casey/stream_0028.html,/u/mikejsavage,2
-6,2016-01-28 08:35:02 -0600,['/t/security'],Against Security Nihilism,https://noncombatant.org/2016/01/28/against-security-nihilism/,/u/craigstuntz,18
-6,2016-01-28 07:14:58 -0600,"['/t/netbsd', '/t/practices', '/t/unix']",Confessions of a Recovering NetBSD Zealot (2006),http://www.onlamp.com/pub/a/bsd/2006/09/14/netbsd_future.html,/u/calvin,19
-3,2016-01-28 14:35:34 -0600,"['/t/video', '/t/linux']",Linux Sucks 2016,https://www.youtube.com/watch?v=WipM3SAYqK4,/u/mediremi,10
-0,2016-01-29 12:37:46 -0600,"['/t/culture', '/t/practices', '/t/rant']",Startup Interviewing is Fucked,http://zachholman.com/posts/startup-interviewing-is-fucked/,/u/soulcutter,4
-0,2016-01-29 10:00:22 -0600,['/t/python'],Numba applied to high intensity computations: A look at performance against optimized Fortran code,https://www.reddit.com/r/Python/comments/431tsm/numba_applied_to_high_intensity_computations_a/,/u/ngoldbaum,1
-3,2016-01-28 11:43:30 -0600,"['/t/video', '/t/mac', '/t/programming']",Hypercard (1987),https://www.youtube.com/watch?v=EMFscTOazS0,/u/pushcx,7
-8,2016-01-28 12:31:31 -0600,['/t/practices'],Timezone updates need to be fixed,http://www.creativedeletion.com/2015/12/03/timezone-updates-need-fixing.html,/u/pushcx,5
-0,2016-01-28 11:41:29 -0600,"['/t/linux', '/t/testing']",Unikernel Profiling: Flame Graphs from dom0,http://www.brendangregg.com/blog/2016-01-27/unikernel-profiling-from-dom0.html,/u/awreece,11
-0,2016-01-28 16:31:37 -0600,['/t/c'],TBOX: A mutli-platform C library,https://github.com/waruqi/tbox,/u/friendlysock,6
-0,2016-01-28 11:15:59 -0600,"['/t/erlang', '/t/release']",Rabbitmq Internals,https://github.com/rabbitmq/internals,/u/355E3B,10
-0,2016-01-28 03:24:02 -0600,"['/t/api', '/t/law', '/t/programming']","After being sued for $3m, I'm moving on from torrents.",http://blog.getstrike.net/post/138192622233/were-moving-away-from-torrents-so-whats-next,/u/andrewmd5,13
-0,2016-01-28 12:46:11 -0600,"['/t/pdf', '/t/slides', '/t/compilers']",Undefined Behaviors in LLVM,https://www.cs.utah.edu/~regehr/llvm-ub.pdf,/u/pushcx,8
-9,2016-01-27 20:43:03 -0600,"['/t/networking', '/t/openbsd']",Net ring-buffers are essential to an OS,http://blog.erratasec.com/2016/01/net-ring-buffers-are-essential-to-os.html,/u/wally,20
-16,2016-01-27 12:23:01 -0600,"['/t/compsci', '/t/programming']","In Major AI Breakthrough, Google System Secretly Beats Top Player at the Ancient Game of Go",http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/,/u/Irene,41
-2,2016-01-28 11:30:06 -0600,"['/t/video', '/t/historical']",The 1986 ACM Conference on the History of Personal Workstations,http://www.computerhistory.org/atchm/the-1986-acm-conference-on-the-history-of-personal-workstations/,/u/mikemccracken,4
-0,2016-01-27 20:54:38 -0600,"['/t/go', '/t/visualization']",Visualizing Concurrency in Go,https://divan.github.io/posts/go_concurrency_visualize/,/u/andrewguenther,23
-0,2016-01-28 09:55:07 -0600,['/t/security'],OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701),http://intothesymmetry.blogspot.com/2016/01/openssl-key-recovery-attack-on-dh-small.html,/u/mulander,5
-0,2016-01-28 16:27:17 -0600,"['/t/hardware', '/t/security']",CenterPOS: An Evolving POS Threat,https://www.fireeye.com/blog/threat-research/2016/01/centerpos_an_evolvi.html,/u/noelle,2
-0,2016-01-28 19:01:00 -0600,['/t/security'],Why BootstrapCDN Believes in SRI and You Should Too,https://www.maxcdn.com/blog/bootstrapcdn-subresource-integrity/,/u/joshuacc,1
-0,2016-01-27 21:26:00 -0600,"['/t/games', '/t/networking']","""Descent"" game networking",http://www.myrkul.org/descent.html,/u/kghose,15
-3,2016-01-27 18:06:17 -0600,"['/t/games', '/t/lisp', '/t/programming']",Making a game in CHICKEN scheme,https://www.upyum.com/en/post/3.xhtml,/u/zem,12
-0,2016-01-28 12:14:10 -0600,['/t/design'],The ‘Memoire’ Typeface Changes Like a Memory as You Use It,http://www.wired.com/2016/01/the-memoire-typeface-changes-like-a-memory-as-you-use-it/,/u/flyingfisch,2
-2,2016-01-27 16:43:46 -0600,"['/t/testing', '/t/visualization']",qira,http://qira.me/,/u/jcs,20
-0,2016-01-28 12:09:41 -0600,"['/t/javascript', '/t/web']",Codepen now has a javascript console,http://blog.codepen.io/2016/01/27/new-feature-javascript-console/,/u/flyingfisch,2
+0,2016-01-29 13:29:19 -0600,"/t/video,/t/programming",Designing and Evaluating Reusable Components,http://mollyrocket.com/casey/stream_0028.html,/u/mikejsavage,2
+6,2016-01-28 08:35:02 -0600,/t/security,Against Security Nihilism,https://noncombatant.org/2016/01/28/against-security-nihilism/,/u/craigstuntz,18
+6,2016-01-28 07:14:58 -0600,"/t/netbsd,/t/practices,/t/unix",Confessions of a Recovering NetBSD Zealot (2006),http://www.onlamp.com/pub/a/bsd/2006/09/14/netbsd_future.html,/u/calvin,19
+3,2016-01-28 14:35:34 -0600,"/t/video,/t/linux",Linux Sucks 2016,https://www.youtube.com/watch?v=WipM3SAYqK4,/u/mediremi,10
+0,2016-01-29 12:37:46 -0600,"/t/culture,/t/practices,/t/rant",Startup Interviewing is Fucked,http://zachholman.com/posts/startup-interviewing-is-fucked/,/u/soulcutter,4
+0,2016-01-29 10:00:22 -0600,/t/python,Numba applied to high intensity computations: A look at performance against optimized Fortran code,https://www.reddit.com/r/Python/comments/431tsm/numba_applied_to_high_intensity_computations_a/,/u/ngoldbaum,1
+3,2016-01-28 11:43:30 -0600,"/t/video,/t/mac,/t/programming",Hypercard (1987),https://www.youtube.com/watch?v=EMFscTOazS0,/u/pushcx,7
+8,2016-01-28 12:31:31 -0600,/t/practices,Timezone updates need to be fixed,http://www.creativedeletion.com/2015/12/03/timezone-updates-need-fixing.html,/u/pushcx,5
+0,2016-01-28 11:41:29 -0600,"/t/linux,/t/testing",Unikernel Profiling: Flame Graphs from dom0,http://www.brendangregg.com/blog/2016-01-27/unikernel-profiling-from-dom0.html,/u/awreece,11
+0,2016-01-28 16:31:37 -0600,/t/c,TBOX: A mutli-platform C library,https://github.com/waruqi/tbox,/u/friendlysock,6
+0,2016-01-28 11:15:59 -0600,"/t/erlang,/t/release",Rabbitmq Internals,https://github.com/rabbitmq/internals,/u/355E3B,10
+0,2016-01-28 03:24:02 -0600,"/t/api,/t/law,/t/programming","After being sued for $3m, I'm moving on from torrents.",http://blog.getstrike.net/post/138192622233/were-moving-away-from-torrents-so-whats-next,/u/andrewmd5,13
+0,2016-01-28 12:46:11 -0600,"/t/pdf,/t/slides,/t/compilers",Undefined Behaviors in LLVM,https://www.cs.utah.edu/~regehr/llvm-ub.pdf,/u/pushcx,8
+9,2016-01-27 20:43:03 -0600,"/t/networking,/t/openbsd",Net ring-buffers are essential to an OS,http://blog.erratasec.com/2016/01/net-ring-buffers-are-essential-to-os.html,/u/wally,20
+16,2016-01-27 12:23:01 -0600,"/t/compsci,/t/programming","In Major AI Breakthrough, Google System Secretly Beats Top Player at the Ancient Game of Go",http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/,/u/Irene,41
+2,2016-01-28 11:30:06 -0600,"/t/video,/t/historical",The 1986 ACM Conference on the History of Personal Workstations,http://www.computerhistory.org/atchm/the-1986-acm-conference-on-the-history-of-personal-workstations/,/u/mikemccracken,4
+0,2016-01-27 20:54:38 -0600,"/t/go,/t/visualization",Visualizing Concurrency in Go,https://divan.github.io/posts/go_concurrency_visualize/,/u/andrewguenther,23
+0,2016-01-28 09:55:07 -0600,/t/security,OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701),http://intothesymmetry.blogspot.com/2016/01/openssl-key-recovery-attack-on-dh-small.html,/u/mulander,5
+0,2016-01-28 16:27:17 -0600,"/t/hardware,/t/security",CenterPOS: An Evolving POS Threat,https://www.fireeye.com/blog/threat-research/2016/01/centerpos_an_evolvi.html,/u/noelle,2
+0,2016-01-28 19:01:00 -0600,/t/security,Why BootstrapCDN Believes in SRI and You Should Too,https://www.maxcdn.com/blog/bootstrapcdn-subresource-integrity/,/u/joshuacc,1
+0,2016-01-27 21:26:00 -0600,"/t/games,/t/networking","""Descent"" game networking",http://www.myrkul.org/descent.html,/u/kghose,15
+3,2016-01-27 18:06:17 -0600,"/t/games,/t/lisp,/t/programming",Making a game in CHICKEN scheme,https://www.upyum.com/en/post/3.xhtml,/u/zem,12
+0,2016-01-28 12:14:10 -0600,/t/design,The ‘Memoire’ Typeface Changes Like a Memory as You Use It,http://www.wired.com/2016/01/the-memoire-typeface-changes-like-a-memory-as-you-use-it/,/u/flyingfisch,2
+2,2016-01-27 16:43:46 -0600,"/t/testing,/t/visualization",qira,http://qira.me/,/u/jcs,20
+0,2016-01-28 12:09:41 -0600,"/t/javascript,/t/web",Codepen now has a javascript console,http://blog.codepen.io/2016/01/27/new-feature-javascript-console/,/u/flyingfisch,2

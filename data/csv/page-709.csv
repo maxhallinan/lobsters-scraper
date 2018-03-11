@@ -1,25 +1,25 @@
-31,2016-07-27 13:30:07 -0500,"['/t/ask', '/t/vcs']",Mercurial users: Why do you prefer mercurial over git?,/s/asf3g6/mercurial_users_why_do_you_prefer,/u/unbalancedparentheses,24
-0,2016-07-28 01:14:04 -0500,"['/t/elixir', '/t/job']",Elixir Jobs,https://elixir-jobs.org/,/u/friendlysock,13
-0,2016-07-28 10:34:41 -0500,"['/t/book', '/t/math', '/t/python']",Probabilistic Programming & Bayesian Methods for Hackers,http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/,/u/av,4
-0,2016-07-28 10:21:17 -0500,['/t/vcs'],Mercurial: Please Stop Using MQ [2014],http://gregoryszorc.com/blog/2014/06/23/please-stop-using-mq/,/u/unbalancedparentheses,4
-1,2016-07-28 05:10:58 -0500,"['/t/linux', '/t/systemd']",Writing systemd Units,http://hokstadconsulting.com/devops/writing-systemd-units,/u/mjturner,6
-14,2016-07-27 08:38:17 -0500,['/t/security'],How I made LastPass give me all your passwords,https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/,/u/av,31
-0,2016-07-28 01:57:39 -0500,['/t/freebsd'],FreeBSD Q2 2016 status report,https://www.freebsd.org/news/status/report-2016-04-2016-06.html,/u/iswrong,9
-7,2016-07-27 19:07:51 -0500,['/t/security'],Security experts have cloned all seven TSA master keys,https://techcrunch.com/2016/07/27/security-experts-have-cloned-all-seven-tsa-master-keys/,/u/chadski,9
-0,2016-07-28 10:29:23 -0500,['/t/databases'],Re: Why Uber Engineering Switched from Postgres to MySQL,https://ayende.com/blog/175137/re-why-uber-engineering-switched-from-postgres-to-mysql,/u/av,3
-0,2016-07-28 06:33:42 -0500,['/t/devops'],Scheduling Your Kubernetes Pods With Elixir,https://deis.com/blog/2016/scheduling-your-kubernetes-pods-with-elixir/,/u/nslater,5
-0,2016-07-28 22:23:32 -0500,"['/t/culture', '/t/historical', '/t/security']","Citibank IT guy deliberately wiped routers, shut down 90% of networks",http://www.tripwire.com/state-of-security/featured/citibank-it-guy-deliberately-wiped-routers-shut-down-90-of-firms-networks-across-america/,/u/kel,1
-1,2016-07-28 12:19:55 -0500,"['/t/linux', '/t/programming', '/t/reversing']",Controlling KDE screen locking from a shell script,http://blog.plover.com/Unix/qdbus.html,/u/tedu,2
-0,2016-07-28 07:14:02 -0500,"['/t/video', '/t/haskell']",A Sensible Intro to FRP,https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html,/u/pushcx,4
-0,2016-07-28 10:30:22 -0500,"['/t/culture', '/t/practices']",My Interviews with Amazon,https://thesocietea.org/2016/07/my-interviews-with-amazon/,/u/av,5
-0,2016-07-27 18:42:20 -0500,"['/t/hardware', '/t/historical']",Ten Year Anniversary of Core 2 Duo,http://www.anandtech.com/show/10525/ten-year-anniversary-of-core-2-duo-and-conroe-moores-law-is-dead-long-live-moores-law,/u/tedu,10
-0,2016-07-28 10:32:57 -0500,"['/t/math', '/t/python']",Computational Statistics in Python,http://people.duke.edu/~ccc14/sta-663/index.html,/u/av,1
-0,2016-07-28 10:28:40 -0500,"['/t/math', '/t/python']",Introduction to Scientific Python,https://web.stanford.edu/~arbenson/cme193.html,/u/av,1
-0,2016-07-28 10:26:37 -0500,"['/t/math', '/t/python']",Scipy Lecture Notes,http://www.scipy-lectures.org/,/u/av,1
-0,2016-07-27 20:27:30 -0500,"['/t/elixir', '/t/practices', '/t/programming']",Passwordless login with phoenix,http://inaka.net/blog/2016/07/27/passwordless-login-with-phoenix/,/u/elbrujohalcon,7
-0,2016-07-27 21:30:28 -0500,['/t/security'],LastPass: design flaw in communication between privileged and unprivileged components,https://bugs.chromium.org/p/project-zero/issues/detail?id=884,/u/spinda,6
-47,2016-07-26 21:49:43 -0500,['/t/programming'],The hardest problem in computer science,https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/,/u/calvin,37
-0,2016-07-27 17:43:35 -0500,['/t/haskell'],A literate program implementing the microKanren relational programming language,https://github.com/seantalts/hasktrip/blob/master/doc/MicroKanren.md,/u/xitrium,4
-0,2016-07-27 11:55:48 -0500,"['/t/assembly', '/t/programming']",Lolcat Clone in x64 Assembly,https://gkbrk.com/2016/07/lolcat-clone-in-x64-assembly/,/u/gkbrk,7
-0,2016-07-27 13:25:23 -0500,"['/t/video', '/t/mobile', '/t/security']",Edward Snowden at the MIT Media Lab,https://www.youtube.com/watch?v=tfTByjDg_M0,/u/sevan,10
-1,2016-07-27 14:04:54 -0500,"['/t/ml', '/t/programming']",A Peek into F# 4.1,https://blogs.msdn.microsoft.com/dotnet/2016/07/25/a-peek-into-f-4-1/,/u/zem,7
+31,2016-07-27 13:30:07 -0500,"/t/ask,/t/vcs",Mercurial users: Why do you prefer mercurial over git?,/s/asf3g6/mercurial_users_why_do_you_prefer,/u/unbalancedparentheses,24
+0,2016-07-28 01:14:04 -0500,"/t/elixir,/t/job",Elixir Jobs,https://elixir-jobs.org/,/u/friendlysock,13
+0,2016-07-28 10:34:41 -0500,"/t/book,/t/math,/t/python",Probabilistic Programming & Bayesian Methods for Hackers,http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/,/u/av,4
+0,2016-07-28 10:21:17 -0500,/t/vcs,Mercurial: Please Stop Using MQ [2014],http://gregoryszorc.com/blog/2014/06/23/please-stop-using-mq/,/u/unbalancedparentheses,4
+1,2016-07-28 05:10:58 -0500,"/t/linux,/t/systemd",Writing systemd Units,http://hokstadconsulting.com/devops/writing-systemd-units,/u/mjturner,6
+14,2016-07-27 08:38:17 -0500,/t/security,How I made LastPass give me all your passwords,https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/,/u/av,31
+0,2016-07-28 01:57:39 -0500,/t/freebsd,FreeBSD Q2 2016 status report,https://www.freebsd.org/news/status/report-2016-04-2016-06.html,/u/iswrong,9
+7,2016-07-27 19:07:51 -0500,/t/security,Security experts have cloned all seven TSA master keys,https://techcrunch.com/2016/07/27/security-experts-have-cloned-all-seven-tsa-master-keys/,/u/chadski,9
+0,2016-07-28 10:29:23 -0500,/t/databases,Re: Why Uber Engineering Switched from Postgres to MySQL,https://ayende.com/blog/175137/re-why-uber-engineering-switched-from-postgres-to-mysql,/u/av,3
+0,2016-07-28 06:33:42 -0500,/t/devops,Scheduling Your Kubernetes Pods With Elixir,https://deis.com/blog/2016/scheduling-your-kubernetes-pods-with-elixir/,/u/nslater,5
+0,2016-07-28 22:23:32 -0500,"/t/culture,/t/historical,/t/security","Citibank IT guy deliberately wiped routers, shut down 90% of networks",http://www.tripwire.com/state-of-security/featured/citibank-it-guy-deliberately-wiped-routers-shut-down-90-of-firms-networks-across-america/,/u/kel,1
+1,2016-07-28 12:19:55 -0500,"/t/linux,/t/programming,/t/reversing",Controlling KDE screen locking from a shell script,http://blog.plover.com/Unix/qdbus.html,/u/tedu,2
+0,2016-07-28 07:14:02 -0500,"/t/video,/t/haskell",A Sensible Intro to FRP,https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html,/u/pushcx,4
+0,2016-07-28 10:30:22 -0500,"/t/culture,/t/practices",My Interviews with Amazon,https://thesocietea.org/2016/07/my-interviews-with-amazon/,/u/av,5
+0,2016-07-27 18:42:20 -0500,"/t/hardware,/t/historical",Ten Year Anniversary of Core 2 Duo,http://www.anandtech.com/show/10525/ten-year-anniversary-of-core-2-duo-and-conroe-moores-law-is-dead-long-live-moores-law,/u/tedu,10
+0,2016-07-28 10:32:57 -0500,"/t/math,/t/python",Computational Statistics in Python,http://people.duke.edu/~ccc14/sta-663/index.html,/u/av,1
+0,2016-07-28 10:28:40 -0500,"/t/math,/t/python",Introduction to Scientific Python,https://web.stanford.edu/~arbenson/cme193.html,/u/av,1
+0,2016-07-28 10:26:37 -0500,"/t/math,/t/python",Scipy Lecture Notes,http://www.scipy-lectures.org/,/u/av,1
+0,2016-07-27 20:27:30 -0500,"/t/elixir,/t/practices,/t/programming",Passwordless login with phoenix,http://inaka.net/blog/2016/07/27/passwordless-login-with-phoenix/,/u/elbrujohalcon,7
+0,2016-07-27 21:30:28 -0500,/t/security,LastPass: design flaw in communication between privileged and unprivileged components,https://bugs.chromium.org/p/project-zero/issues/detail?id=884,/u/spinda,6
+47,2016-07-26 21:49:43 -0500,/t/programming,The hardest problem in computer science,https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/,/u/calvin,37
+0,2016-07-27 17:43:35 -0500,/t/haskell,A literate program implementing the microKanren relational programming language,https://github.com/seantalts/hasktrip/blob/master/doc/MicroKanren.md,/u/xitrium,4
+0,2016-07-27 11:55:48 -0500,"/t/assembly,/t/programming",Lolcat Clone in x64 Assembly,https://gkbrk.com/2016/07/lolcat-clone-in-x64-assembly/,/u/gkbrk,7
+0,2016-07-27 13:25:23 -0500,"/t/video,/t/mobile,/t/security",Edward Snowden at the MIT Media Lab,https://www.youtube.com/watch?v=tfTByjDg_M0,/u/sevan,10
+1,2016-07-27 14:04:54 -0500,"/t/ml,/t/programming",A Peek into F# 4.1,https://blogs.msdn.microsoft.com/dotnet/2016/07/25/a-peek-into-f-4-1/,/u/zem,7

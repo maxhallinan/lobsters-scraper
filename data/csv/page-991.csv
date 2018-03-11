@@ -1,25 +1,25 @@
-0,2015-10-27 10:25:52 -0500,['/t/programming'],File patching using data compression with flushing,http://richg42.blogspot.com/2015/10/file-patching-using-data-compression.html,/u/dw,3
-1,2015-10-27 22:22:34 -0500,['/t/android'],"Android Defect Reboots Phone Every Time You Type ""Reboot"" (2008)",http://gizmodo.com/5080688/android-bug-reboots-phone-every-time-you-type-reboot,/u/kb,0
-0,2015-10-27 08:49:47 -0500,"['/t/javascript', '/t/mobile']",Defining a New Breed of Cross-Platform Mobile Apps,http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/,/u/remotesynth,1
-0,2015-10-27 04:50:14 -0500,['/t/python'],"db2twitter: get data in database, build and send tweets",http://carlchenet.com/2015/10/27/db2twitter/,/u/chaica,2
-5,2015-10-26 13:12:03 -0500,['/t/security'],Diceware,http://www.dicewarepasswords.com/,/u/flyingfisch,13
-0,2015-10-27 02:47:57 -0500,['/t/security'],Per-process netfilter rules,http://blog.bofh.it/debian/id_457,/u/henkjan,4
-0,2015-10-27 02:03:44 -0500,"['/t/devops', '/t/linux', '/t/virtualization']",Announcing Hypernetes: The Multi-Tenant Kubernetes Distribution,https://hyper.sh/blog/post/2015/10/27/announcing-hypernetes-the-multitenant-kubernetes-distribution.html,/u/tbronchain,2
-0,2015-10-27 10:28:40 -0500,"['/t/practices', '/t/security']",FBI: $1.2B Lost to Business Email Scams,http://krebsonsecurity.com/2015/08/fbi-1-2b-lost-to-business-email-scams/,/u/pushcx,1
-0,2015-10-26 20:02:06 -0500,"['/t/compsci', '/t/hardware']",Qui-binary arithmetic: how a 1960s IBM mainframe does math,http://www.righto.com/2015/10/qui-binary-arithmetic-how-1960s-ibm.html,/u/calvin,8
-3,2015-10-26 12:28:26 -0500,"['/t/compilers', '/t/compsci']",LL and LR in Context: Why Parsing Tools Are Hard (2013),http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html,/u/mjn,11
-48,2015-10-26 00:33:47 -0500,['/t/ask'],What are you working on this week?,/s/0nuzab/what_are_you_working_on_this_week,/u/marvindanig,28
-1,2015-10-26 13:06:01 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Brandon Mercer,http://beastie.pl/deweloperzy-openbsd-brandon-mercer/,/u/mulander,13
-3,2015-10-26 15:12:01 -0500,"['/t/design', '/t/web']","Textarea, You Are A Sunken Nothing (2004)",http://web.archive.org/web/20050816051837/http://www.whytheluckystiff.net/2004/05/20.html,/u/flyingfisch,5
-0,2015-10-26 17:58:39 -0500,"['/t/practices', '/t/programming']",Your first year as a programmer,https://www.happybearsoftware.com/how-to-survive-your-first-year-as-a-programmer,/u/mooreds,7
-11,2015-10-26 06:48:53 -0500,['/t/java'],Java 8’s new Optional type is worthless,https://medium.com/@bgourlie/java-8-s-new-optional-type-is-worthless-448a00fa672d,/u/zg,9
-3,2015-10-26 04:15:13 -0500,['/t/practices'],Opt-in Transparency,http://zachholman.com/posts/opt-in-transparency/,/u/jtobin,11
-0,2015-10-26 20:31:13 -0500,"['/t/games', '/t/graphics', '/t/hardware', '/t/windows']",GeForce + Radeon: Previewing DirectX 12 Multi-Adapter with Ashes of the Singularity,http://www.anandtech.com/show/9740/directx-12-geforce-plus-radeon-mgpu-preview,/u/calvin,2
-0,2015-10-26 11:36:23 -0500,"['/t/mobile', '/t/web']",Accelerated Mobile Pages – A new approach to web performance,https://www.ampproject.org/how-it-works/,/u/asthasr,6
-1,2015-10-26 16:24:07 -0500,['/t/scaling'],Write amplification,http://kellabyte.com/2013/07/01/write-amplification-2/,/u/stig,2
-24,2015-10-25 07:05:59 -0500,"['/t/show', '/t/release']",Any One Else Using It?,http://www.aoeui.xyz/,/u/tedu,39
-4,2015-10-26 07:30:38 -0500,"['/t/audio', '/t/hardware']",What Comes After the Smartphone?,https://soundcloud.com/a16z/what-comes-after-the-smartphone,/u/zg,4
-0,2015-10-26 14:57:31 -0500,"['/t/design', '/t/web']",CSSGram,http://una.im/CSSgram/,/u/flyingfisch,3
-7,2015-10-26 07:09:45 -0500,['/t/javascript'],"Gulp and FTP: update a website ""on the fly""",http://loige.co/gulp-and-ftp-update-a-website-on-the-fly/,/u/loige,2
-0,2015-10-26 03:28:43 -0500,"['/t/programming', '/t/rust']",Good Practices for Writing Rust Libraries,https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/,/u/skade,12
-0,2015-10-26 21:19:28 -0500,"['/t/privacy', '/t/science']",How to de-identify your data,http://queue.acm.org/detail.cfm?id=2838930,/u/mjn,1
+0,2015-10-27 10:25:52 -0500,/t/programming,File patching using data compression with flushing,http://richg42.blogspot.com/2015/10/file-patching-using-data-compression.html,/u/dw,3
+1,2015-10-27 22:22:34 -0500,/t/android,"Android Defect Reboots Phone Every Time You Type ""Reboot"" (2008)",http://gizmodo.com/5080688/android-bug-reboots-phone-every-time-you-type-reboot,/u/kb,0
+0,2015-10-27 08:49:47 -0500,"/t/javascript,/t/mobile",Defining a New Breed of Cross-Platform Mobile Apps,http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/,/u/remotesynth,1
+0,2015-10-27 04:50:14 -0500,/t/python,"db2twitter: get data in database, build and send tweets",http://carlchenet.com/2015/10/27/db2twitter/,/u/chaica,2
+5,2015-10-26 13:12:03 -0500,/t/security,Diceware,http://www.dicewarepasswords.com/,/u/flyingfisch,13
+0,2015-10-27 02:47:57 -0500,/t/security,Per-process netfilter rules,http://blog.bofh.it/debian/id_457,/u/henkjan,4
+0,2015-10-27 02:03:44 -0500,"/t/devops,/t/linux,/t/virtualization",Announcing Hypernetes: The Multi-Tenant Kubernetes Distribution,https://hyper.sh/blog/post/2015/10/27/announcing-hypernetes-the-multitenant-kubernetes-distribution.html,/u/tbronchain,2
+0,2015-10-27 10:28:40 -0500,"/t/practices,/t/security",FBI: $1.2B Lost to Business Email Scams,http://krebsonsecurity.com/2015/08/fbi-1-2b-lost-to-business-email-scams/,/u/pushcx,1
+0,2015-10-26 20:02:06 -0500,"/t/compsci,/t/hardware",Qui-binary arithmetic: how a 1960s IBM mainframe does math,http://www.righto.com/2015/10/qui-binary-arithmetic-how-1960s-ibm.html,/u/calvin,8
+3,2015-10-26 12:28:26 -0500,"/t/compilers,/t/compsci",LL and LR in Context: Why Parsing Tools Are Hard (2013),http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html,/u/mjn,11
+48,2015-10-26 00:33:47 -0500,/t/ask,What are you working on this week?,/s/0nuzab/what_are_you_working_on_this_week,/u/marvindanig,28
+1,2015-10-26 13:06:01 -0500,"/t/openbsd,/t/person",OpenBSD developers: Brandon Mercer,http://beastie.pl/deweloperzy-openbsd-brandon-mercer/,/u/mulander,13
+3,2015-10-26 15:12:01 -0500,"/t/design,/t/web","Textarea, You Are A Sunken Nothing (2004)",http://web.archive.org/web/20050816051837/http://www.whytheluckystiff.net/2004/05/20.html,/u/flyingfisch,5
+0,2015-10-26 17:58:39 -0500,"/t/practices,/t/programming",Your first year as a programmer,https://www.happybearsoftware.com/how-to-survive-your-first-year-as-a-programmer,/u/mooreds,7
+11,2015-10-26 06:48:53 -0500,/t/java,Java 8’s new Optional type is worthless,https://medium.com/@bgourlie/java-8-s-new-optional-type-is-worthless-448a00fa672d,/u/zg,9
+3,2015-10-26 04:15:13 -0500,/t/practices,Opt-in Transparency,http://zachholman.com/posts/opt-in-transparency/,/u/jtobin,11
+0,2015-10-26 20:31:13 -0500,"/t/games,/t/graphics,/t/hardware,/t/windows",GeForce + Radeon: Previewing DirectX 12 Multi-Adapter with Ashes of the Singularity,http://www.anandtech.com/show/9740/directx-12-geforce-plus-radeon-mgpu-preview,/u/calvin,2
+0,2015-10-26 11:36:23 -0500,"/t/mobile,/t/web",Accelerated Mobile Pages – A new approach to web performance,https://www.ampproject.org/how-it-works/,/u/asthasr,6
+1,2015-10-26 16:24:07 -0500,/t/scaling,Write amplification,http://kellabyte.com/2013/07/01/write-amplification-2/,/u/stig,2
+24,2015-10-25 07:05:59 -0500,"/t/show,/t/release",Any One Else Using It?,http://www.aoeui.xyz/,/u/tedu,39
+4,2015-10-26 07:30:38 -0500,"/t/audio,/t/hardware",What Comes After the Smartphone?,https://soundcloud.com/a16z/what-comes-after-the-smartphone,/u/zg,4
+0,2015-10-26 14:57:31 -0500,"/t/design,/t/web",CSSGram,http://una.im/CSSgram/,/u/flyingfisch,3
+7,2015-10-26 07:09:45 -0500,/t/javascript,"Gulp and FTP: update a website ""on the fly""",http://loige.co/gulp-and-ftp-update-a-website-on-the-fly/,/u/loige,2
+0,2015-10-26 03:28:43 -0500,"/t/programming,/t/rust",Good Practices for Writing Rust Libraries,https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/,/u/skade,12
+0,2015-10-26 21:19:28 -0500,"/t/privacy,/t/science",How to de-identify your data,http://queue.acm.org/detail.cfm?id=2838930,/u/mjn,1

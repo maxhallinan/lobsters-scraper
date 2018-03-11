@@ -1,25 +1,25 @@
-0,2014-09-18 12:17:06 -0500,"['/t/ml', '/t/programming']",Why does OCaml sometimes require eta expansion?,http://stackoverflow.com/questions/25763412/why-does-ocaml-sometimes-require-eta-expansion,/u/bitemyapp,1
-1,2014-09-17 17:01:28 -0500,['/t/networking'],UDT: Breaking the Data Transfer Bottleneck,http://udt.sourceforge.net/,/u/jm,8
-3,2014-09-17 08:26:53 -0500,"['/t/c', '/t/practices', '/t/programming', '/t/release']",theft: Property-Based Testing for C,http://spin.atomicobject.com/2014/09/17/property-based-testing-c/,/u/silentbicycle,17
-1,2014-09-17 11:01:06 -0500,['/t/haskell'],Hython: The simplest possible language,http://callcc.io/hython-the-simplest-possible-language/,/u/mattgreenrocks,11
-0,2014-09-18 11:02:23 -0500,['/t/culture'],Local accountants scoff at visually reactive tools,http://blog.lacebark.io/2014/09/18/local-accountants-scoff-at-visually-reactive-tools/,/u/iamwil,1
-6,2014-09-16 22:46:56 -0500,"['/t/culture', '/t/event', '/t/go', '/t/programming', '/t/scala']",Thoughts On Five Years of Emerging Languages,https://al3x.net/2014/09/16/thoughts-on-five-years-of-emerging-languages.html,/u/al3x,45
-0,2014-09-17 10:45:07 -0500,"['/t/culture', '/t/person']",On The Closing Of Mozilla Labs,http://www.ianbicking.org/blog/2014/09/professional-transitions.html,/u/pushcx,12
-3,2014-09-17 13:10:14 -0500,['/t/culture'],"No, Nate, brogrammers may not be macho, but that’s not all there is to it",https://medium.com/technology-and-society/no-nate-brogrammers-may-not-be-macho-but-thats-not-all-there-is-to-it-2f1fe84c5c9b,/u/englishm,7
-4,2014-09-16 15:03:47 -0500,"['/t/emacs', '/t/lisp']",Emacs may move from Elisp to Common Lisp,https://lists.gnu.org/archive/html/emacs-devel/2014-09/msg00434.html,/u/qbit,13
-8,2014-09-16 10:51:26 -0500,['/t/openbsd'],Sendmail Removed from Base,http://undeadly.org/cgi?action=article&sid=20140916084251,/u/virtualroot,19
-1,2014-09-16 16:37:44 -0500,"['/t/haskell', '/t/programming']",Wayward Tide (from the authors of Starbound) is being written in Haskell,http://blog.chucklefish.org/?p=154,/u/bitemyapp,16
-0,2014-09-17 12:26:07 -0500,['/t/javascript'],How-To: Make Animated Progress Circles Using Circliful,http://modernweb.com/2014/09/17/make-animated-progress-circles-using-circliful/,/u/appendTo,1
-1,2014-09-16 14:07:11 -0500,['/t/unix'],Minix 3.3.0,http://www.minix3.org/330.html,/u/journeysquid,16
-0,2014-09-17 10:28:53 -0500,['/t/ruby'],"20,000 Leagues Under ActiveRecord",http://patshaughnessy.net/2014/9/17/20000-leagues-under-activerecord,/u/jcs,1
-0,2014-09-17 08:33:06 -0500,"['/t/culture', '/t/practices']",From 3 to 16: How to Hire and Build a Remote Team,https://zapier.com/blog/how-to-hire-remote-team/,/u/journeysquid,2
-0,2014-09-16 07:37:57 -0500,"['/t/practices', '/t/programming']",Property-Based Testing – Testing Assumptions You Don’t Know You’re Making,https://spin.atomicobject.com/2014/09/16/property-based-testing/,/u/silentbicycle,19
-6,2014-09-16 06:34:36 -0500,"['/t/philosophy', '/t/programming']",Why Sometimes I Hate Myself,http://tomaszdziurko.pl/2014/09/why-sometimes-i-hate-myself/,/u/tom-d,9
-0,2014-09-16 13:36:52 -0500,['/t/programming'],"What every computer programmer should know about floating point, part 1",http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html,/u/wting,8
-2,2014-09-16 11:12:31 -0500,"['/t/go', '/t/programming']",Parametricity in Go (2013),http://www.jerf.org/iri/post/2923,/u/roryokane,7
-2,2014-09-16 12:33:35 -0500,['/t/ios'],Everything that went wrong while building the Tumblr iOS share extension,http://engineering.tumblr.com/post/97658880154/everything-that-went-wrong-while-building-the-tumblr,/u/codingjester,5
-0,2014-09-16 11:54:01 -0500,"['/t/haskell', '/t/programming']",Strictness in types,http://h2.jaguarpaw.co.uk/posts/strictness-in-types/,/u/bitemyapp,8
-0,2014-09-16 16:58:21 -0500,"['/t/programming', '/t/ruby']",Awesome Print: An improved pretty printer for ruby objects,https://github.com/michaeldv/awesome_print,/u/zem,4
-0,2014-09-17 07:36:59 -0500,['/t/practices'],Aspects for Testing Connectivity of Mobile Game,http://testdroid.com/testdroid/8067/mobile-game-testing-part-4-test-for-connectivity,/u/vvh,0
-0,2014-09-16 16:09:05 -0500,['/t/javascript'],Building A Sleep Tracker For Your Dog With Twilio And Tessel,https://www.twilio.com/blog/2014/09/building-a-sleep-tracker-for-your-dog-using-tessel-and-twilio.html,/u/RobSpectre,4
-0,2014-09-16 12:12:50 -0500,['/t/reversing'],Solving crackmes with LDPRELOAD,http://radare.today/solving-crackmes-with-ldpreload/,/u/tedu,6
+0,2014-09-18 12:17:06 -0500,"/t/ml,/t/programming",Why does OCaml sometimes require eta expansion?,http://stackoverflow.com/questions/25763412/why-does-ocaml-sometimes-require-eta-expansion,/u/bitemyapp,1
+1,2014-09-17 17:01:28 -0500,/t/networking,UDT: Breaking the Data Transfer Bottleneck,http://udt.sourceforge.net/,/u/jm,8
+3,2014-09-17 08:26:53 -0500,"/t/c,/t/practices,/t/programming,/t/release",theft: Property-Based Testing for C,http://spin.atomicobject.com/2014/09/17/property-based-testing-c/,/u/silentbicycle,17
+1,2014-09-17 11:01:06 -0500,/t/haskell,Hython: The simplest possible language,http://callcc.io/hython-the-simplest-possible-language/,/u/mattgreenrocks,11
+0,2014-09-18 11:02:23 -0500,/t/culture,Local accountants scoff at visually reactive tools,http://blog.lacebark.io/2014/09/18/local-accountants-scoff-at-visually-reactive-tools/,/u/iamwil,1
+6,2014-09-16 22:46:56 -0500,"/t/culture,/t/event,/t/go,/t/programming,/t/scala",Thoughts On Five Years of Emerging Languages,https://al3x.net/2014/09/16/thoughts-on-five-years-of-emerging-languages.html,/u/al3x,45
+0,2014-09-17 10:45:07 -0500,"/t/culture,/t/person",On The Closing Of Mozilla Labs,http://www.ianbicking.org/blog/2014/09/professional-transitions.html,/u/pushcx,12
+3,2014-09-17 13:10:14 -0500,/t/culture,"No, Nate, brogrammers may not be macho, but that’s not all there is to it",https://medium.com/technology-and-society/no-nate-brogrammers-may-not-be-macho-but-thats-not-all-there-is-to-it-2f1fe84c5c9b,/u/englishm,7
+4,2014-09-16 15:03:47 -0500,"/t/emacs,/t/lisp",Emacs may move from Elisp to Common Lisp,https://lists.gnu.org/archive/html/emacs-devel/2014-09/msg00434.html,/u/qbit,13
+8,2014-09-16 10:51:26 -0500,/t/openbsd,Sendmail Removed from Base,http://undeadly.org/cgi?action=article&sid=20140916084251,/u/virtualroot,19
+1,2014-09-16 16:37:44 -0500,"/t/haskell,/t/programming",Wayward Tide (from the authors of Starbound) is being written in Haskell,http://blog.chucklefish.org/?p=154,/u/bitemyapp,16
+0,2014-09-17 12:26:07 -0500,/t/javascript,How-To: Make Animated Progress Circles Using Circliful,http://modernweb.com/2014/09/17/make-animated-progress-circles-using-circliful/,/u/appendTo,1
+1,2014-09-16 14:07:11 -0500,/t/unix,Minix 3.3.0,http://www.minix3.org/330.html,/u/journeysquid,16
+0,2014-09-17 10:28:53 -0500,/t/ruby,"20,000 Leagues Under ActiveRecord",http://patshaughnessy.net/2014/9/17/20000-leagues-under-activerecord,/u/jcs,1
+0,2014-09-17 08:33:06 -0500,"/t/culture,/t/practices",From 3 to 16: How to Hire and Build a Remote Team,https://zapier.com/blog/how-to-hire-remote-team/,/u/journeysquid,2
+0,2014-09-16 07:37:57 -0500,"/t/practices,/t/programming",Property-Based Testing – Testing Assumptions You Don’t Know You’re Making,https://spin.atomicobject.com/2014/09/16/property-based-testing/,/u/silentbicycle,19
+6,2014-09-16 06:34:36 -0500,"/t/philosophy,/t/programming",Why Sometimes I Hate Myself,http://tomaszdziurko.pl/2014/09/why-sometimes-i-hate-myself/,/u/tom-d,9
+0,2014-09-16 13:36:52 -0500,/t/programming,"What every computer programmer should know about floating point, part 1",http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html,/u/wting,8
+2,2014-09-16 11:12:31 -0500,"/t/go,/t/programming",Parametricity in Go (2013),http://www.jerf.org/iri/post/2923,/u/roryokane,7
+2,2014-09-16 12:33:35 -0500,/t/ios,Everything that went wrong while building the Tumblr iOS share extension,http://engineering.tumblr.com/post/97658880154/everything-that-went-wrong-while-building-the-tumblr,/u/codingjester,5
+0,2014-09-16 11:54:01 -0500,"/t/haskell,/t/programming",Strictness in types,http://h2.jaguarpaw.co.uk/posts/strictness-in-types/,/u/bitemyapp,8
+0,2014-09-16 16:58:21 -0500,"/t/programming,/t/ruby",Awesome Print: An improved pretty printer for ruby objects,https://github.com/michaeldv/awesome_print,/u/zem,4
+0,2014-09-17 07:36:59 -0500,/t/practices,Aspects for Testing Connectivity of Mobile Game,http://testdroid.com/testdroid/8067/mobile-game-testing-part-4-test-for-connectivity,/u/vvh,0
+0,2014-09-16 16:09:05 -0500,/t/javascript,Building A Sleep Tracker For Your Dog With Twilio And Tessel,https://www.twilio.com/blog/2014/09/building-a-sleep-tracker-for-your-dog-using-tessel-and-twilio.html,/u/RobSpectre,4
+0,2014-09-16 12:12:50 -0500,/t/reversing,Solving crackmes with LDPRELOAD,http://radare.today/solving-crackmes-with-ldpreload/,/u/tedu,6

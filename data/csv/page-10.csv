@@ -1,25 +1,25 @@
-0,2018-02-26 02:35:32 -0600,"['/t/art', '/t/graphics']",Raymarching tutorial,https://www.shadertoy.com/view/4dSfRc,/u/mikejsavage,6
-0,2018-02-26 08:33:43 -0600,"['/t/pdf', '/t/compsci', '/t/programming']",A Systematic Study of Automated Program Repair: Fixing 55 out of 105 Bugs for $8 Each (2012),https://web.eecs.umich.edu/~weimerw/p/weimer-icse2012-genprog-preprint.pdf,/u/nickpsecurity,2
-0,2018-02-26 10:53:25 -0600,"['/t/video', '/t/css']",It’s Resilient CSS Week,https://hacks.mozilla.org/2018/02/its-resilient-css-week/,/u/flyingfisch,1
-0,2018-02-26 08:30:49 -0600,"['/t/css', '/t/javascript', '/t/web']",Complexity,https://css-tricks.com/complexity/,/u/joshuacc,1
-3,2018-02-25 17:21:38 -0600,"['/t/audio', '/t/practices']",Are code challenges a lazy or legitimate method for hiring developers?,https://www.ctothink.com/episodes/2018-02-25-11.html,/u/wrburgess,2
-3,2018-02-25 05:29:06 -0600,['/t/devops'],Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites,https://zwischenzugs.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/,/u/adsouza,23
-6,2018-02-25 06:59:50 -0600,['/t/privacy'],Apple’s China Agreement,https://medium.com/@yonatanzunger/apples-china-agreement-4e67fa7b38f4,/u/adsouza,11
-1,2018-02-25 21:26:49 -0600,['/t/culture'],Viewpoint Diversity in Tech,http://joinlincoln.org/viewpoint-diversity,/u/sanxiyn,8
-0,2018-02-26 03:27:07 -0600,['/t/javascript'],⏱ Announcing SMP: Speeding Up webpack With Timers – Stephen Cook,https://medium.com/@stephen.cook/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7,/u/szalansky,1
-4,2018-02-25 07:09:02 -0600,['/t/practices'],Agile is Weird,http://bloomca-me.github.io/2018/02/25/agile-is-weird.html,/u/bloomca,4
-0,2018-02-25 20:20:12 -0600,"['/t/pdf', '/t/book', '/t/math']",Introduction to Statistical Learning with Applications in R,http://www-bcf.usc.edu/~gareth/ISL/,/u/pushcx,3
-8,2018-02-25 18:44:59 -0600,"['/t/culture', '/t/historical', '/t/person', '/t/practices']",The Meme Hustler,https://thebaffler.com/salvos/the-meme-hustler,/u/Shamar,7
-1,2018-02-25 09:12:23 -0600,"['/t/slides', '/t/hardware', '/t/historical', '/t/java']",Java Ring,https://www.slideshare.net/abhishekabhi1023/java-ring-new,/u/nickpsecurity,8
-3,2018-02-24 23:18:15 -0600,"['/t/art', '/t/graphics', '/t/programming']",Planet Shadertoy,https://www.shadertoy.com/view/4tjGRh,/u/Yogthos,13
-0,2018-02-25 12:18:44 -0600,"['/t/python', '/t/web']","Web application from scratch, Part I",https://defn.io/2018/02/25/web-app-from-scratch-01/,/u/bogdan,1
-0,2018-02-25 00:03:13 -0600,"['/t/clojure', '/t/education']",ClojureScript coding environment for beginners,https://github.com/mhuebert/maria,/u/Yogthos,11
-18,2018-02-24 07:59:36 -0600,['/t/meta'],Tag suggestion: illumos,/s/5brdcq/tag_suggestion_illumos,/u/jabberwock,29
-0,2018-02-25 10:00:38 -0600,"['/t/pdf', '/t/education', '/t/programming']",Little Languages for Relational Programming (2014),http://www.schemeworkshop.org/2014/papers/Brady2014.pdf,/u/nickpsecurity,2
-0,2018-02-25 07:00:17 -0600,"['/t/education', '/t/security']",Forensic Challenges for examiner,http://www.amanhardikar.com/mindmaps/ForensicChallenges.html,/u/Fake4d,3
-5,2018-02-24 08:55:23 -0600,['/t/programming'],Software development using Bash,https://oscarforner.com/2018/02/24/Software_development_using_Bash,/u/calvin,24
-0,2018-02-24 22:43:55 -0600,['/t/javascript'],Mocking Pusher in your JavaScript tests,https://github.com/nikolalsvk/pusher-js-mock,/u/nikolalsvk,3
-0,2018-02-25 09:58:02 -0600,"['/t/pdf', '/t/slides', '/t/plt', '/t/web']","QWeSST: Type-Safe, Web Programming Language (2011)",http://www.cs.cmu.edu/~iliano/slides/kuleuven11.pdf,/u/nickpsecurity,1
-1,2018-02-24 19:10:12 -0600,"['/t/debugging', '/t/programming']",Prototyping an ltrace clone using eBPF,https://jvns.ca/blog/2018/02/24/an-ltrace-clone-using-ebpf/,/u/calvin,7
-4,2018-02-24 15:49:01 -0600,"['/t/culture', '/t/finance', '/t/practices']",The path to sustainably working on FOSS full-time,http://sircmpwn.github.io/2018/02/24/The-road-to-sustainable-FOSS.html,/u/calvin,19
-3,2018-02-24 04:06:56 -0600,"['/t/openbsd', '/t/security', '/t/unix']",A long two months,https://blog.cooperi.net/a-long-two-months,/u/wiedi,29
+0,2018-02-26 02:35:32 -0600,"/t/art,/t/graphics",Raymarching tutorial,https://www.shadertoy.com/view/4dSfRc,/u/mikejsavage,6
+0,2018-02-26 08:33:43 -0600,"/t/pdf,/t/compsci,/t/programming",A Systematic Study of Automated Program Repair: Fixing 55 out of 105 Bugs for $8 Each (2012),https://web.eecs.umich.edu/~weimerw/p/weimer-icse2012-genprog-preprint.pdf,/u/nickpsecurity,2
+0,2018-02-26 10:53:25 -0600,"/t/video,/t/css",It’s Resilient CSS Week,https://hacks.mozilla.org/2018/02/its-resilient-css-week/,/u/flyingfisch,1
+0,2018-02-26 08:30:49 -0600,"/t/css,/t/javascript,/t/web",Complexity,https://css-tricks.com/complexity/,/u/joshuacc,1
+3,2018-02-25 17:21:38 -0600,"/t/audio,/t/practices",Are code challenges a lazy or legitimate method for hiring developers?,https://www.ctothink.com/episodes/2018-02-25-11.html,/u/wrburgess,2
+3,2018-02-25 05:29:06 -0600,/t/devops,Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites,https://zwischenzugs.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/,/u/adsouza,23
+6,2018-02-25 06:59:50 -0600,/t/privacy,Apple’s China Agreement,https://medium.com/@yonatanzunger/apples-china-agreement-4e67fa7b38f4,/u/adsouza,11
+1,2018-02-25 21:26:49 -0600,/t/culture,Viewpoint Diversity in Tech,http://joinlincoln.org/viewpoint-diversity,/u/sanxiyn,8
+0,2018-02-26 03:27:07 -0600,/t/javascript,⏱ Announcing SMP: Speeding Up webpack With Timers – Stephen Cook,https://medium.com/@stephen.cook/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7,/u/szalansky,1
+4,2018-02-25 07:09:02 -0600,/t/practices,Agile is Weird,http://bloomca-me.github.io/2018/02/25/agile-is-weird.html,/u/bloomca,4
+0,2018-02-25 20:20:12 -0600,"/t/pdf,/t/book,/t/math",Introduction to Statistical Learning with Applications in R,http://www-bcf.usc.edu/~gareth/ISL/,/u/pushcx,3
+8,2018-02-25 18:44:59 -0600,"/t/culture,/t/historical,/t/person,/t/practices",The Meme Hustler,https://thebaffler.com/salvos/the-meme-hustler,/u/Shamar,7
+1,2018-02-25 09:12:23 -0600,"/t/slides,/t/hardware,/t/historical,/t/java",Java Ring,https://www.slideshare.net/abhishekabhi1023/java-ring-new,/u/nickpsecurity,8
+3,2018-02-24 23:18:15 -0600,"/t/art,/t/graphics,/t/programming",Planet Shadertoy,https://www.shadertoy.com/view/4tjGRh,/u/Yogthos,13
+0,2018-02-25 12:18:44 -0600,"/t/python,/t/web","Web application from scratch, Part I",https://defn.io/2018/02/25/web-app-from-scratch-01/,/u/bogdan,1
+0,2018-02-25 00:03:13 -0600,"/t/clojure,/t/education",ClojureScript coding environment for beginners,https://github.com/mhuebert/maria,/u/Yogthos,11
+18,2018-02-24 07:59:36 -0600,/t/meta,Tag suggestion: illumos,/s/5brdcq/tag_suggestion_illumos,/u/jabberwock,29
+0,2018-02-25 10:00:38 -0600,"/t/pdf,/t/education,/t/programming",Little Languages for Relational Programming (2014),http://www.schemeworkshop.org/2014/papers/Brady2014.pdf,/u/nickpsecurity,2
+0,2018-02-25 07:00:17 -0600,"/t/education,/t/security",Forensic Challenges for examiner,http://www.amanhardikar.com/mindmaps/ForensicChallenges.html,/u/Fake4d,3
+5,2018-02-24 08:55:23 -0600,/t/programming,Software development using Bash,https://oscarforner.com/2018/02/24/Software_development_using_Bash,/u/calvin,24
+0,2018-02-24 22:43:55 -0600,/t/javascript,Mocking Pusher in your JavaScript tests,https://github.com/nikolalsvk/pusher-js-mock,/u/nikolalsvk,3
+0,2018-02-25 09:58:02 -0600,"/t/pdf,/t/slides,/t/plt,/t/web","QWeSST: Type-Safe, Web Programming Language (2011)",http://www.cs.cmu.edu/~iliano/slides/kuleuven11.pdf,/u/nickpsecurity,1
+1,2018-02-24 19:10:12 -0600,"/t/debugging,/t/programming",Prototyping an ltrace clone using eBPF,https://jvns.ca/blog/2018/02/24/an-ltrace-clone-using-ebpf/,/u/calvin,7
+4,2018-02-24 15:49:01 -0600,"/t/culture,/t/finance,/t/practices",The path to sustainably working on FOSS full-time,http://sircmpwn.github.io/2018/02/24/The-road-to-sustainable-FOSS.html,/u/calvin,19
+3,2018-02-24 04:06:56 -0600,"/t/openbsd,/t/security,/t/unix",A long two months,https://blog.cooperi.net/a-long-two-months,/u/wiedi,29

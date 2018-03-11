@@ -1,25 +1,25 @@
-0,2015-02-01 13:46:34 -0600,"['/t/c', '/t/linux']",rt0: A minimal C runtime for Linux i386 & x86_64,https://github.com/lpsantil/rt0,/u/journeysquid,7
-1,2015-02-01 19:18:47 -0600,"['/t/networking', '/t/security']",WoSign: Free 2y multi-domain SSL certificate,https://www.ohling.org/blog/2015/02/wosign-free-2y-ssl-certificate.html,/u/cnst,2
-0,2015-02-01 11:04:07 -0600,"['/t/openbsd', '/t/person', '/t/security']",openntpd is not vulnerable (2014),http://article.gmane.org/gmane.os.openbsd.tech/40107,/u/cnst,6
-2,2015-02-01 18:00:06 -0600,"['/t/culture', '/t/philosophy', '/t/programming']",Snowsuit Zine issue 02,http://snowsuit.io/issue02.html,/u/apg,5
-0,2015-02-01 10:40:52 -0600,"['/t/distributed', '/t/go', '/t/programming']",Building Massively-Scalable Distributed Systems using Go and Mesos,http://java.dzone.com/articles/building-massively-scalable,/u/apy,4
-0,2015-02-01 17:40:35 -0600,"['/t/science', '/t/visualization']",The universe in motion: Apian’s Cosmographia,http://www.bpl.org/distinction/2015/01/30/the-universe-in-motion-apians-cosmographia-2/,/u/pushcx,1
-2,2015-01-31 20:55:24 -0600,"['/t/databases', '/t/erlang', '/t/go']",OlegDB: More on Go vs. Erlang,https://olegdb.org/blog/0007_More_on_Go_vs_Erlang.html,/u/Pfiffer,10
-1,2015-01-31 19:07:48 -0600,"['/t/security', '/t/unix']",Key rotation in OpenSSH 6.8+,http://blog.djm.net.au/2015/02/key-rotation-in-openssh-68.html,/u/jcs,13
-0,2015-01-31 19:35:23 -0600,"['/t/pdf', '/t/slides', '/t/haskell']",Haskell in the Large,http://code.haskell.org/~dons/talks/dons-google-2015-01-27.pdf,/u/pushcx,12
-0,2015-02-01 13:50:02 -0600,"['/t/culture', '/t/law']",The NFL wants you to think these things are illegal,http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-these-things-are-illegal/,/u/journeysquid,2
-0,2015-01-31 21:29:16 -0600,"['/t/art', '/t/person']",Painting with Mathematica,http://www.tylerlhobbs.com/writings/interview-john-muellerleile,/u/kb,7
-5,2015-01-31 09:13:42 -0600,"['/t/privacy', '/t/security']",A Brief History of NSA Backdoors (2014),http://ethanheilman.tumblr.com/post/70646748808/a-brief-history-of-nsa-backdoors,/u/EthanHeilman,16
-0,2015-01-31 15:16:02 -0600,['/t/openbsd'],My first OpenBSD port,http://homing-on-code.blogspot.de/2015/01/my-first-openbsd-port.html,/u/fcbsd,6
-2,2015-01-31 09:56:21 -0600,['/t/web'],The Pirate Bay is back online,https://thepiratebay.se/,/u/mediremi,4
-6,2015-01-31 01:59:35 -0600,"['/t/javascript', '/t/web']",Facebook just taught us all how to build websites,https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2,/u/haxor,8
-1,2015-01-31 11:29:42 -0600,"['/t/c', '/t/ruby', '/t/scaling']",Very High Performance C Extensions For JRuby + Truffle,http://www.chrisseaton.com/rubytruffle/cext/,/u/pushcx,4
-5,2015-01-30 16:34:15 -0600,['/t/networking'],RFC 20 (ASCII) has been elevated to Internet Standard,http://www.ietf.org/mail-archive/web/ietf-announce/current/msg13718.html,/u/tedu,13
-0,2015-01-31 16:38:38 -0600,"['/t/compsci', '/t/cryptocurrencies', '/t/security']",Nine awesome Bitcoin projects at Princeton,https://freedom-to-tinker.com/blog/randomwalker/nine-awesome-bitcoin-projects-at-princeton/,/u/EthanHeilman,1
-2,2015-01-30 18:44:11 -0600,"['/t/c', '/t/java', '/t/javascript', '/t/programming', '/t/web']",Facebook's css-layout library,https://github.com/facebook/css-layout,/u/BruceM,8
-15,2015-01-30 09:04:46 -0600,"['/t/practices', '/t/programming']",Don’t Share Code Between Microservices,http://www.infoq.com/news/2015/01/microservices-sharing-code,/u/zacbrown,11
-8,2015-01-30 08:02:41 -0600,"['/t/practices', '/t/programming']",Change-Detector Tests Considered Harmful,http://googletesting.blogspot.se/2015/01/testing-on-toilet-change-detector-tests.html,/u/joshuacc,11
-0,2015-01-30 09:13:05 -0600,['/t/lisp'],A Tale of Jedi Masters and Ninjas,http://tagide.com/blog/2014/10/jedi-masters/,/u/DrM,14
-0,2015-01-30 14:01:14 -0600,"['/t/go', '/t/javascript']",Moving from Node.js to Go at Bowery,http://bowery.io/posts/Nodejs-to-Golang-Bowery/,/u/journeysquid,5
-1,2015-01-30 11:21:04 -0600,"['/t/compsci', '/t/math']",Learning Math: A Blank Is A Blank With A Blank,http://michaelrbernste.in/2015/01/29/learning-math-a-blank-is-a-blank-with-a-blank-with-a-blank.html,/u/steveklabnik,4
-1,2015-01-30 08:08:19 -0600,"['/t/pdf', '/t/security']",The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes,http://research.microsoft.com/pubs/161585/QuestToReplacePasswords.pdf,/u/englishm,6
+0,2015-02-01 13:46:34 -0600,"/t/c,/t/linux",rt0: A minimal C runtime for Linux i386 & x86_64,https://github.com/lpsantil/rt0,/u/journeysquid,7
+1,2015-02-01 19:18:47 -0600,"/t/networking,/t/security",WoSign: Free 2y multi-domain SSL certificate,https://www.ohling.org/blog/2015/02/wosign-free-2y-ssl-certificate.html,/u/cnst,2
+0,2015-02-01 11:04:07 -0600,"/t/openbsd,/t/person,/t/security",openntpd is not vulnerable (2014),http://article.gmane.org/gmane.os.openbsd.tech/40107,/u/cnst,6
+2,2015-02-01 18:00:06 -0600,"/t/culture,/t/philosophy,/t/programming",Snowsuit Zine issue 02,http://snowsuit.io/issue02.html,/u/apg,5
+0,2015-02-01 10:40:52 -0600,"/t/distributed,/t/go,/t/programming",Building Massively-Scalable Distributed Systems using Go and Mesos,http://java.dzone.com/articles/building-massively-scalable,/u/apy,4
+0,2015-02-01 17:40:35 -0600,"/t/science,/t/visualization",The universe in motion: Apian’s Cosmographia,http://www.bpl.org/distinction/2015/01/30/the-universe-in-motion-apians-cosmographia-2/,/u/pushcx,1
+2,2015-01-31 20:55:24 -0600,"/t/databases,/t/erlang,/t/go",OlegDB: More on Go vs. Erlang,https://olegdb.org/blog/0007_More_on_Go_vs_Erlang.html,/u/Pfiffer,10
+1,2015-01-31 19:07:48 -0600,"/t/security,/t/unix",Key rotation in OpenSSH 6.8+,http://blog.djm.net.au/2015/02/key-rotation-in-openssh-68.html,/u/jcs,13
+0,2015-01-31 19:35:23 -0600,"/t/pdf,/t/slides,/t/haskell",Haskell in the Large,http://code.haskell.org/~dons/talks/dons-google-2015-01-27.pdf,/u/pushcx,12
+0,2015-02-01 13:50:02 -0600,"/t/culture,/t/law",The NFL wants you to think these things are illegal,http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-these-things-are-illegal/,/u/journeysquid,2
+0,2015-01-31 21:29:16 -0600,"/t/art,/t/person",Painting with Mathematica,http://www.tylerlhobbs.com/writings/interview-john-muellerleile,/u/kb,7
+5,2015-01-31 09:13:42 -0600,"/t/privacy,/t/security",A Brief History of NSA Backdoors (2014),http://ethanheilman.tumblr.com/post/70646748808/a-brief-history-of-nsa-backdoors,/u/EthanHeilman,16
+0,2015-01-31 15:16:02 -0600,/t/openbsd,My first OpenBSD port,http://homing-on-code.blogspot.de/2015/01/my-first-openbsd-port.html,/u/fcbsd,6
+2,2015-01-31 09:56:21 -0600,/t/web,The Pirate Bay is back online,https://thepiratebay.se/,/u/mediremi,4
+6,2015-01-31 01:59:35 -0600,"/t/javascript,/t/web",Facebook just taught us all how to build websites,https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2,/u/haxor,8
+1,2015-01-31 11:29:42 -0600,"/t/c,/t/ruby,/t/scaling",Very High Performance C Extensions For JRuby + Truffle,http://www.chrisseaton.com/rubytruffle/cext/,/u/pushcx,4
+5,2015-01-30 16:34:15 -0600,/t/networking,RFC 20 (ASCII) has been elevated to Internet Standard,http://www.ietf.org/mail-archive/web/ietf-announce/current/msg13718.html,/u/tedu,13
+0,2015-01-31 16:38:38 -0600,"/t/compsci,/t/cryptocurrencies,/t/security",Nine awesome Bitcoin projects at Princeton,https://freedom-to-tinker.com/blog/randomwalker/nine-awesome-bitcoin-projects-at-princeton/,/u/EthanHeilman,1
+2,2015-01-30 18:44:11 -0600,"/t/c,/t/java,/t/javascript,/t/programming,/t/web",Facebook's css-layout library,https://github.com/facebook/css-layout,/u/BruceM,8
+15,2015-01-30 09:04:46 -0600,"/t/practices,/t/programming",Don’t Share Code Between Microservices,http://www.infoq.com/news/2015/01/microservices-sharing-code,/u/zacbrown,11
+8,2015-01-30 08:02:41 -0600,"/t/practices,/t/programming",Change-Detector Tests Considered Harmful,http://googletesting.blogspot.se/2015/01/testing-on-toilet-change-detector-tests.html,/u/joshuacc,11
+0,2015-01-30 09:13:05 -0600,/t/lisp,A Tale of Jedi Masters and Ninjas,http://tagide.com/blog/2014/10/jedi-masters/,/u/DrM,14
+0,2015-01-30 14:01:14 -0600,"/t/go,/t/javascript",Moving from Node.js to Go at Bowery,http://bowery.io/posts/Nodejs-to-Golang-Bowery/,/u/journeysquid,5
+1,2015-01-30 11:21:04 -0600,"/t/compsci,/t/math",Learning Math: A Blank Is A Blank With A Blank,http://michaelrbernste.in/2015/01/29/learning-math-a-blank-is-a-blank-with-a-blank-with-a-blank.html,/u/steveklabnik,4
+1,2015-01-30 08:08:19 -0600,"/t/pdf,/t/security",The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes,http://research.microsoft.com/pubs/161585/QuestToReplacePasswords.pdf,/u/englishm,6

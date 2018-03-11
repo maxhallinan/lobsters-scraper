@@ -1,25 +1,25 @@
-2,2017-07-18 09:19:02 -0500,"['/t/devops', '/t/hardware', '/t/networking', '/t/scaling']",Behind the scenes of a major infrastructure company,http://blog.online.net/2017/07/18/behind-the-scene-of-a-major-infrastructure-company/,/u/cnst,5
-1,2017-07-18 17:19:34 -0500,"['/t/compilers', '/t/event', '/t/freebsd', '/t/hardware', '/t/practices', '/t/security']","OSHUG Event #59 - CHERI CPU, Adding Security to Compilers, Trust & Provenance in Open Data",http://oshug.org/event/59,/u/sevan,2
-2,2017-07-18 09:13:59 -0500,"['/t/culture', '/t/practices']",What are Interviews for?,https://medium.com/tech-lead-talks/what-are-interviews-for-8130cef253a5,/u/elbrujohalcon,6
-0,2017-07-18 13:26:53 -0500,"['/t/c++', '/t/performance']",Lock-Free Work Stealing,https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/,/u/mikejsavage,4
-1,2017-07-18 11:41:24 -0500,"['/t/devops', '/t/programming']",What Level of Feature Management Is Right for Your Team?,https://thenewstack.io/level-feature-management-right-team/,/u/ax,3
-3,2017-07-18 06:37:48 -0500,"['/t/networking', '/t/systemd']",hostnamed does not like fqdns with trailing dots,https://github.com/systemd/systemd/issues/6369,/u/liwakura,4
-3,2017-07-17 11:55:54 -0500,"['/t/ai', '/t/security']",Robust Adversarial Examples,https://blog.openai.com/robust-adversarial-inputs/,/u/anishathalye,28
-0,2017-07-17 16:29:16 -0500,['/t/go'],Strace in 60 lines of Go,https://medium.com/@lizrice/strace-in-60-lines-of-go-b4b76e3ecd64,/u/jcs,34
-0,2017-07-18 00:02:36 -0500,['/t/databases'],Sensible Defaults,https://www.pgcli.com/sensible-defaults.html,/u/amjith,8
-3,2017-07-18 13:05:26 -0500,"['/t/fortran', '/t/historical', '/t/programming', '/t/satire']",Real Programmers Don't Use Pascal,http://web.mit.edu/humor/Computers/real.programmers,/u/nickpsecurity,6
-2,2017-07-17 19:22:28 -0500,['/t/cryptocurrencies'],Bitcoin Is Having a Civil War Right as It Enters a Critical Month,https://www.bloomberg.com/news/articles/2017-07-10/bitcoin-risks-splintering-as-civil-war-enters-critical-month,/u/pizzaiolo,12
-1,2017-07-18 02:43:33 -0500,"['/t/api', '/t/release']",Lambda@Edge now Generally Available,https://aws.amazon.com/about-aws/whats-new/2017/07/lambda-at-edge-now-generally-available/,/u/nikolay,5
-3,2017-07-17 16:31:56 -0500,"['/t/release', '/t/vim']",A Sublime-like minimap for console vim,https://github.com/severin-lemaignan/vim-minimap,/u/pushcx,13
-16,2017-07-17 14:52:18 -0500,['/t/culture'],"Minimap plugin for Atom implements ads, refuses to revert, resulting in a fork",https://github.com/atom-minimap/minimap/issues/588,/u/calvin,42
-0,2017-07-17 21:22:57 -0500,"['/t/devops', '/t/performance', '/t/testing']",Running 4558 tests in 1m 55sec (or saving 50 hours/week),https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/,/u/calvin,10
-1,2017-07-18 13:07:01 -0500,"['/t/pdf', '/t/slides', '/t/compsci', '/t/security']","Caernarvon - A High-Assurance, Smart Card OS for Electronic Visas",http://researcher.watson.ibm.com/researcher/files/us-msteiner/secure-token.IBM%20ICAO%20RFI%20os%2005182005pak%20.pdf,/u/nickpsecurity,1
-1,2017-07-18 01:56:28 -0500,"['/t/android', '/t/security']","Android Backdoor GhostCtrl can Silently Record Your Audio, Video, and More",https://blog.trendmicro.com/trendlabs-security-intelligence/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more/,/u/samtoday,4
-3,2017-07-17 17:19:02 -0500,['/t/programming'],Repo of Coding Guidelines,https://github.com/Kristories/awesome-guidelines,/u/pilkch,7
-0,2017-07-18 11:24:01 -0500,"['/t/video', '/t/compilers']",Enhancing the PowerPC GCC compiler for the future Power9 hardware (2016),https://www.youtube.com/watch?v=1VkCBBOiTyU,/u/sevan,1
-3,2017-07-17 09:34:47 -0500,['/t/android'],How F-Droid is Bringing Apps to Cuba,https://blog.grobox.de/2017/how-f-droid-is-bringing-apps-to-cuba/,/u/comzeradd,21
-11,2017-07-17 04:12:30 -0500,['/t/javascript'],Currying in the real world,https://medium.com/@samuelpouyt/currying-in-the-real-world-b9627d74a554,/u/SamuelPB,13
-7,2017-07-16 22:39:27 -0500,['/t/haskell'],Type safe dimensional analysis in Haskell,https://www.stephanboyer.com/post/131/type-safe-dimensional-analysis-in-haskell,/u/stepchowfun,32
-5,2017-07-17 11:17:29 -0500,"['/t/compilers', '/t/compsci', '/t/hardware', '/t/programming']",No Instruction Set Computing (NISC),https://en.wikipedia.org/wiki/No_instruction_set_computing,/u/nickpsecurity,15
-23,2017-07-17 00:05:19 -0500,"['/t/c', '/t/c++']",Confession Of A C/C++ Programmer,http://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html,/u/Screwtape,29
-6,2017-07-17 07:05:52 -0500,"['/t/hardware', '/t/historical']",Curta: a mechanical pocket calculator,http://technophilicmag.com/2014/08/06/curta-mechanical-calculator/,/u/adsouza,14
+2,2017-07-18 09:19:02 -0500,"/t/devops,/t/hardware,/t/networking,/t/scaling",Behind the scenes of a major infrastructure company,http://blog.online.net/2017/07/18/behind-the-scene-of-a-major-infrastructure-company/,/u/cnst,5
+1,2017-07-18 17:19:34 -0500,"/t/compilers,/t/event,/t/freebsd,/t/hardware,/t/practices,/t/security","OSHUG Event #59 - CHERI CPU, Adding Security to Compilers, Trust & Provenance in Open Data",http://oshug.org/event/59,/u/sevan,2
+2,2017-07-18 09:13:59 -0500,"/t/culture,/t/practices",What are Interviews for?,https://medium.com/tech-lead-talks/what-are-interviews-for-8130cef253a5,/u/elbrujohalcon,6
+0,2017-07-18 13:26:53 -0500,"/t/c++,/t/performance",Lock-Free Work Stealing,https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/,/u/mikejsavage,4
+1,2017-07-18 11:41:24 -0500,"/t/devops,/t/programming",What Level of Feature Management Is Right for Your Team?,https://thenewstack.io/level-feature-management-right-team/,/u/ax,3
+3,2017-07-18 06:37:48 -0500,"/t/networking,/t/systemd",hostnamed does not like fqdns with trailing dots,https://github.com/systemd/systemd/issues/6369,/u/liwakura,4
+3,2017-07-17 11:55:54 -0500,"/t/ai,/t/security",Robust Adversarial Examples,https://blog.openai.com/robust-adversarial-inputs/,/u/anishathalye,28
+0,2017-07-17 16:29:16 -0500,/t/go,Strace in 60 lines of Go,https://medium.com/@lizrice/strace-in-60-lines-of-go-b4b76e3ecd64,/u/jcs,34
+0,2017-07-18 00:02:36 -0500,/t/databases,Sensible Defaults,https://www.pgcli.com/sensible-defaults.html,/u/amjith,8
+3,2017-07-18 13:05:26 -0500,"/t/fortran,/t/historical,/t/programming,/t/satire",Real Programmers Don't Use Pascal,http://web.mit.edu/humor/Computers/real.programmers,/u/nickpsecurity,6
+2,2017-07-17 19:22:28 -0500,/t/cryptocurrencies,Bitcoin Is Having a Civil War Right as It Enters a Critical Month,https://www.bloomberg.com/news/articles/2017-07-10/bitcoin-risks-splintering-as-civil-war-enters-critical-month,/u/pizzaiolo,12
+1,2017-07-18 02:43:33 -0500,"/t/api,/t/release",Lambda@Edge now Generally Available,https://aws.amazon.com/about-aws/whats-new/2017/07/lambda-at-edge-now-generally-available/,/u/nikolay,5
+3,2017-07-17 16:31:56 -0500,"/t/release,/t/vim",A Sublime-like minimap for console vim,https://github.com/severin-lemaignan/vim-minimap,/u/pushcx,13
+16,2017-07-17 14:52:18 -0500,/t/culture,"Minimap plugin for Atom implements ads, refuses to revert, resulting in a fork",https://github.com/atom-minimap/minimap/issues/588,/u/calvin,42
+0,2017-07-17 21:22:57 -0500,"/t/devops,/t/performance,/t/testing",Running 4558 tests in 1m 55sec (or saving 50 hours/week),https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/,/u/calvin,10
+1,2017-07-18 13:07:01 -0500,"/t/pdf,/t/slides,/t/compsci,/t/security","Caernarvon - A High-Assurance, Smart Card OS for Electronic Visas",http://researcher.watson.ibm.com/researcher/files/us-msteiner/secure-token.IBM%20ICAO%20RFI%20os%2005182005pak%20.pdf,/u/nickpsecurity,1
+1,2017-07-18 01:56:28 -0500,"/t/android,/t/security","Android Backdoor GhostCtrl can Silently Record Your Audio, Video, and More",https://blog.trendmicro.com/trendlabs-security-intelligence/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more/,/u/samtoday,4
+3,2017-07-17 17:19:02 -0500,/t/programming,Repo of Coding Guidelines,https://github.com/Kristories/awesome-guidelines,/u/pilkch,7
+0,2017-07-18 11:24:01 -0500,"/t/video,/t/compilers",Enhancing the PowerPC GCC compiler for the future Power9 hardware (2016),https://www.youtube.com/watch?v=1VkCBBOiTyU,/u/sevan,1
+3,2017-07-17 09:34:47 -0500,/t/android,How F-Droid is Bringing Apps to Cuba,https://blog.grobox.de/2017/how-f-droid-is-bringing-apps-to-cuba/,/u/comzeradd,21
+11,2017-07-17 04:12:30 -0500,/t/javascript,Currying in the real world,https://medium.com/@samuelpouyt/currying-in-the-real-world-b9627d74a554,/u/SamuelPB,13
+7,2017-07-16 22:39:27 -0500,/t/haskell,Type safe dimensional analysis in Haskell,https://www.stephanboyer.com/post/131/type-safe-dimensional-analysis-in-haskell,/u/stepchowfun,32
+5,2017-07-17 11:17:29 -0500,"/t/compilers,/t/compsci,/t/hardware,/t/programming",No Instruction Set Computing (NISC),https://en.wikipedia.org/wiki/No_instruction_set_computing,/u/nickpsecurity,15
+23,2017-07-17 00:05:19 -0500,"/t/c,/t/c++",Confession Of A C/C++ Programmer,http://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html,/u/Screwtape,29
+6,2017-07-17 07:05:52 -0500,"/t/hardware,/t/historical",Curta: a mechanical pocket calculator,http://technophilicmag.com/2014/08/06/curta-mechanical-calculator/,/u/adsouza,14

@@ -1,25 +1,25 @@
-0,2014-01-19 13:12:39 -0600,['/t/javascript'],Prototypes Are Not Classes,http://raganwald.com/2014/01/19/prototypes-are-not-classes.html,/u/SeanTAllen,9
-0,2014-01-20 03:58:12 -0600,['/t/javascript'],"Building real time web apps with AngularJS, NodeJS and MongoDB",http://www.anupshinde.com/posts/livebase-realtime-webapps-angularjs/,/u/anupshinde,1
-1,2014-01-19 19:52:05 -0600,"['/t/networking', '/t/privacy', '/t/rant']","The Future of Tech: Interoperability, and AllJoyn Doesn’t Realise Its Potential",http://samlanning.com/2014/01/19/the-future-of-tech-interoperability-alljoyn-doesnt-realise-its-potential/,/u/samlanning,4
-0,2014-01-19 11:15:48 -0600,['/t/security'],Gitian: a secure software distribution method,http://gitian.org/,/u/jm,4
-4,2014-01-18 12:53:49 -0600,"['/t/browsers', '/t/web']",Cookie Bomb or let's break the Internet.,http://homakov.blogspot.com/2014/01/cookie-bomb-or-lets-break-internet.html?m=1,/u/amb,11
-6,2014-01-18 11:01:09 -0600,['/t/hardware'],Stop trying to innovate keyboards. You're just making them worse,http://arstechnica.com/staff/2014/01/stop-trying-to-innovate-keyboards-youre-just-making-them-worse/,/u/journeysquid,9
-0,2014-01-18 10:09:06 -0600,['/t/compsci'],Why We Need Explicit State,http://michaelrbernste.in/2013/12/10/why-we-need-explicit-state.html,/u/SeanTAllen,10
-0,2014-01-18 20:13:59 -0600,"['/t/pdf', '/t/erlang']",RWLocks in Erlang/OTP (2010),http://www.erlang-factory.com/upload/presentations/303/rickard-green-euc2010.pdf,/u/SeanTAllen,2
-0,2014-01-18 11:45:57 -0600,['/t/science'],America's Real Criminal Element: Lead,http://www.motherjones.com/environment/2013/01/lead-crime-link-gasoline,/u/jm,5
-0,2014-01-18 11:29:35 -0600,['/t/privacy'],The Techno-Militarization Of America,http://techcrunch.com/2014/01/18/the-techno-militarization-of-america/,/u/jm,4
-0,2014-01-18 04:57:50 -0600,"['/t/linux', '/t/networking']",Getting started with OpenWrt,http://www.cambus.net/getting-started-with-openwrt/,/u/fcambus,6
-4,2014-01-17 15:50:16 -0600,['/t/distributed'],The Game of Distributed Systems Programming. Which Level Are You?,http://blog.incubaid.com/2012/03/28/the-game-of-distributed-systems-programming-which-level-are-you/,/u/vjoel,12
-2,2014-01-18 04:21:37 -0600,"['/t/pdf', '/t/security']",Homomorphic AES Evaluation Using NTRU,http://eprint.iacr.org/2014/039.pdf,/u/kyle,2
-1,2014-01-17 14:53:34 -0600,['/t/go'],Go by Example,https://gobyexample.com/,/u/kellogh,14
-0,2014-01-17 19:29:28 -0600,"['/t/android', '/t/mobile']",Why It’s Time To Support Only Android 4.0 and Above,http://dannyroa.com/2013/10/17/why-its-time-to-support-only-android-4-0-and-above/,/u/amb,5
-3,2014-01-17 11:42:44 -0600,"['/t/slides', '/t/scala']",A Scala Corrections Library,http://www.slideshare.net/extempore/a-scala-corrections-library,/u/puffnfresh,9
-0,2014-01-17 21:56:05 -0600,['/t/practices'],When a great product hits the funding crunch,http://andrewchen.co/2013/11/05/when-a-great-product-hits-the-funding-crunch/#,/u/jm,2
-0,2014-01-17 04:26:28 -0600,"['/t/pdf', '/t/book']",Intel's recommended reading list for developers,https://noggin.intel.com/sites/default/files/Intel-Recommended-Reading-List_1H14_0.pdf,/u/old_sound,16
-0,2014-01-17 14:52:17 -0600,"['/t/android', '/t/reversing', '/t/security']",Oldboot: the first bootkit on Android,http://blogs.360.cn/360mobile/2014/01/17/oldboot-the-first-bootkit-on-android/,/u/jcs,4
-0,2014-01-17 17:33:12 -0600,"['/t/pdf', '/t/c', '/t/compsci', '/t/programming']","Matters Computational: Ideas, Algorithms, Source Code",http://www.jjj.de/fxt/fxtbook.pdf,/u/leif,2
-6,2014-01-16 19:31:41 -0600,"['/t/event', '/t/security']",Announcing The Matasano/Square CTF,http://www.matasano.com/matasano-square-microcontroller-ctf/,/u/jcs,19
-0,2014-01-17 09:57:28 -0600,"['/t/compsci', '/t/java', '/t/lisp']",Data Structures in Clojure: Singly-Linked Lists,http://macromancy.com/2014/01/16/data-structures-clojure-singly-linked-list.html,/u/lambda,4
-1,2014-01-17 08:00:04 -0600,"['/t/pdf', '/t/distributed']",A History of the Virtual Synchrony Replication Model,http://www.cs.cornell.edu/ken/History.pdf,/u/cemerick,4
-0,2014-01-17 14:01:52 -0600,['/t/science'],How to shelter from fallout after a nuclear attack on your city,http://io9.com/how-to-shelter-from-fallout-after-a-nuclear-attack-on-y-1502362584/@whitsongordon,/u/jm,2
-0,2014-01-17 22:36:18 -0600,['/t/c'],Chrome Is The New C Runtime,https://www.mobilespan.com/content/chrome-is-the-new-c-runtime,/u/thmzlt,0
+0,2014-01-19 13:12:39 -0600,/t/javascript,Prototypes Are Not Classes,http://raganwald.com/2014/01/19/prototypes-are-not-classes.html,/u/SeanTAllen,9
+0,2014-01-20 03:58:12 -0600,/t/javascript,"Building real time web apps with AngularJS, NodeJS and MongoDB",http://www.anupshinde.com/posts/livebase-realtime-webapps-angularjs/,/u/anupshinde,1
+1,2014-01-19 19:52:05 -0600,"/t/networking,/t/privacy,/t/rant","The Future of Tech: Interoperability, and AllJoyn Doesn’t Realise Its Potential",http://samlanning.com/2014/01/19/the-future-of-tech-interoperability-alljoyn-doesnt-realise-its-potential/,/u/samlanning,4
+0,2014-01-19 11:15:48 -0600,/t/security,Gitian: a secure software distribution method,http://gitian.org/,/u/jm,4
+4,2014-01-18 12:53:49 -0600,"/t/browsers,/t/web",Cookie Bomb or let's break the Internet.,http://homakov.blogspot.com/2014/01/cookie-bomb-or-lets-break-internet.html?m=1,/u/amb,11
+6,2014-01-18 11:01:09 -0600,/t/hardware,Stop trying to innovate keyboards. You're just making them worse,http://arstechnica.com/staff/2014/01/stop-trying-to-innovate-keyboards-youre-just-making-them-worse/,/u/journeysquid,9
+0,2014-01-18 10:09:06 -0600,/t/compsci,Why We Need Explicit State,http://michaelrbernste.in/2013/12/10/why-we-need-explicit-state.html,/u/SeanTAllen,10
+0,2014-01-18 20:13:59 -0600,"/t/pdf,/t/erlang",RWLocks in Erlang/OTP (2010),http://www.erlang-factory.com/upload/presentations/303/rickard-green-euc2010.pdf,/u/SeanTAllen,2
+0,2014-01-18 11:45:57 -0600,/t/science,America's Real Criminal Element: Lead,http://www.motherjones.com/environment/2013/01/lead-crime-link-gasoline,/u/jm,5
+0,2014-01-18 11:29:35 -0600,/t/privacy,The Techno-Militarization Of America,http://techcrunch.com/2014/01/18/the-techno-militarization-of-america/,/u/jm,4
+0,2014-01-18 04:57:50 -0600,"/t/linux,/t/networking",Getting started with OpenWrt,http://www.cambus.net/getting-started-with-openwrt/,/u/fcambus,6
+4,2014-01-17 15:50:16 -0600,/t/distributed,The Game of Distributed Systems Programming. Which Level Are You?,http://blog.incubaid.com/2012/03/28/the-game-of-distributed-systems-programming-which-level-are-you/,/u/vjoel,12
+2,2014-01-18 04:21:37 -0600,"/t/pdf,/t/security",Homomorphic AES Evaluation Using NTRU,http://eprint.iacr.org/2014/039.pdf,/u/kyle,2
+1,2014-01-17 14:53:34 -0600,/t/go,Go by Example,https://gobyexample.com/,/u/kellogh,14
+0,2014-01-17 19:29:28 -0600,"/t/android,/t/mobile",Why It’s Time To Support Only Android 4.0 and Above,http://dannyroa.com/2013/10/17/why-its-time-to-support-only-android-4-0-and-above/,/u/amb,5
+3,2014-01-17 11:42:44 -0600,"/t/slides,/t/scala",A Scala Corrections Library,http://www.slideshare.net/extempore/a-scala-corrections-library,/u/puffnfresh,9
+0,2014-01-17 21:56:05 -0600,/t/practices,When a great product hits the funding crunch,http://andrewchen.co/2013/11/05/when-a-great-product-hits-the-funding-crunch/#,/u/jm,2
+0,2014-01-17 04:26:28 -0600,"/t/pdf,/t/book",Intel's recommended reading list for developers,https://noggin.intel.com/sites/default/files/Intel-Recommended-Reading-List_1H14_0.pdf,/u/old_sound,16
+0,2014-01-17 14:52:17 -0600,"/t/android,/t/reversing,/t/security",Oldboot: the first bootkit on Android,http://blogs.360.cn/360mobile/2014/01/17/oldboot-the-first-bootkit-on-android/,/u/jcs,4
+0,2014-01-17 17:33:12 -0600,"/t/pdf,/t/c,/t/compsci,/t/programming","Matters Computational: Ideas, Algorithms, Source Code",http://www.jjj.de/fxt/fxtbook.pdf,/u/leif,2
+6,2014-01-16 19:31:41 -0600,"/t/event,/t/security",Announcing The Matasano/Square CTF,http://www.matasano.com/matasano-square-microcontroller-ctf/,/u/jcs,19
+0,2014-01-17 09:57:28 -0600,"/t/compsci,/t/java,/t/lisp",Data Structures in Clojure: Singly-Linked Lists,http://macromancy.com/2014/01/16/data-structures-clojure-singly-linked-list.html,/u/lambda,4
+1,2014-01-17 08:00:04 -0600,"/t/pdf,/t/distributed",A History of the Virtual Synchrony Replication Model,http://www.cs.cornell.edu/ken/History.pdf,/u/cemerick,4
+0,2014-01-17 14:01:52 -0600,/t/science,How to shelter from fallout after a nuclear attack on your city,http://io9.com/how-to-shelter-from-fallout-after-a-nuclear-attack-on-y-1502362584/@whitsongordon,/u/jm,2
+0,2014-01-17 22:36:18 -0600,/t/c,Chrome Is The New C Runtime,https://www.mobilespan.com/content/chrome-is-the-new-c-runtime,/u/thmzlt,0

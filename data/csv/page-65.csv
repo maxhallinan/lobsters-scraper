@@ -1,25 +1,25 @@
-0,2018-01-09 16:43:08 -0600,"['/t/historical', '/t/unix']",Life in UNIX® V7: an attempt at a simple task,https://virtuallyfun.com/2018/01/10/life-in-unix-v7-an-attempt-at-a-simple-task/,/u/calvin,14
-2,2018-01-09 10:16:10 -0600,['/t/python'],Python “bool” — wat?,https://medium.com/@timb07/python-bool-wat-ab0e28d879c7,/u/av,15
-0,2018-01-10 01:26:51 -0600,"['/t/pdf', '/t/linux']",The Law Enforcement and Forensic Examiners Introduction to Linux,http://linuxleo.com/,/u/Fake4d,4
-0,2018-01-10 09:42:43 -0600,['/t/programming'],Supporting understanding with simplicity,https://www.innoq.com/en/blog/understanding-through-simplicity/,/u/jan,1
-0,2018-01-10 15:00:51 -0600,"['/t/culture', '/t/law', '/t/practices']",GPL as the Best Licence – Governance and Philosophy,https://blog.hansenpartnership.com/gpl-as-the-best-licence-governance-and-philosophy/,/u/kragniz,1
-0,2018-01-10 05:16:23 -0600,"['/t/law', '/t/web']",The Fight For Patent-Unencumbered Media Codecs Is Nearly Won,http://robert.ocallahan.org/2018/01/the-fight-for-patent-unencumbered-media.html,/u/freddyb,2
-30,2018-01-09 15:39:43 -0600,['/t/rant'],Electron is Cancer,https://medium.com/@caspervonb/electron-is-cancer-b066108e6c32,/u/raindev,19
-0,2018-01-10 07:12:02 -0600,['/t/programming'],"Serverless, Scale-Independent Processing, and Wallaroo",https://blog.wallaroolabs.com/2018/01/serverless-scale-independent-processing-and-wallaroo/,/u/SeanTAllen,1
-11,2018-01-09 09:11:25 -0600,"['/t/art', '/t/web']",Permanent Redirect: digital art that moves to a new URL when someone views it,https://kottke.org/18/01/permanent-redirect-digital-art-that-moves-to-a-new-url-when-someone-views-it,/u/calvin,9
-1,2018-01-09 12:43:10 -0600,"['/t/hardware', '/t/networking']",Xerox Alto's 3 Mb/s Ethernet: Building a gateway with a BeagleBone,http://www.righto.com/2018/01/xerox-altos-3-mbs-ethernet-building.html,/u/calvin,10
-0,2018-01-10 01:34:48 -0600,['/t/debugging'],Profiler adventures: resolving symbol addresses is hard!,https://jvns.ca/blog/2018/01/09/resolving-symbol-addresses/,/u/quobit,2
-2,2018-01-09 16:11:50 -0600,"['/t/security', '/t/windows']","Important: Windows security updates released January 3, 2018, and antivirus software",https://support.microsoft.com/en-us/help/4072699/january-3-2018-windows-security-updates-and-antivirus-software,/u/tedu,5
-0,2018-01-09 15:33:57 -0600,['/t/databases'],Postgres full-text search is Good Enough! (2015),http://rachbelaid.com/postgres-full-text-search-is-good-enough/,/u/hoopla,7
-0,2018-01-10 09:22:45 -0600,"['/t/ai', '/t/job']",Get Connected with Bosch,https://www.bosch.de/events/get-connected-with-bosch/,/u/qznc,0
-1,2018-01-09 06:43:31 -0600,"['/t/performance', '/t/programming']",How fast can you bit-interleave 32-bit integers?,https://lemire.me/blog/2018/01/08/how-fast-can-you-bit-interleave-32-bit-integers/,/u/calvin,12
-2,2018-01-09 07:22:20 -0600,"['/t/pdf', '/t/book', '/t/cogsci']","Speech and Language Processing, 3rd Edition",https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf,/u/av,6
-10,2018-01-08 07:09:02 -0600,['/t/practices'],How to become a part-time programmer: an interview with an expert,https://codewithoutrules.com/2018/01/08/part-time-programmer/,/u/itamarst,38
-0,2018-01-09 16:21:39 -0600,"['/t/culture', '/t/historical']",Legends of the Ancient Web,http://idlewords.com/talks/ancient_web.htm,/u/hobbes,6
-0,2018-01-09 08:38:34 -0600,"['/t/pdf', '/t/crypto']",Secure Remote Attestation,https://eprint.iacr.org/2018/031.pdf,/u/pushcx,7
-0,2018-01-09 14:54:48 -0600,['/t/css'],A Fresh Approach to Extending CSS,http://responsive.style,/u/innovati,1
-7,2018-01-08 13:07:13 -0600,"['/t/person', '/t/security']",Handling of CPU bugs disclosure 'incredibly bad' says OpenBSD's Theo de Raadt,https://www.itwire.com/security/81338-handling-of-cpu-bug-disclosure-incredibly-bad-openbsd-s-de-raadt.html,/u/jabberwock,31
-1,2018-01-09 11:00:34 -0600,['/t/culture'],"Reddit isn't a discussion forum, and neither is Twitter or Discord",https://xkeeper.dreamwidth.org/9872.html,/u/calvin,8
-1,2018-01-08 20:12:57 -0600,"['/t/browsers', '/t/security']",What Spectre and Meltdown Mean For WebKit,https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/,/u/alva,22
-3,2018-01-09 10:31:29 -0600,['/t/swift'],Vapor (Server-side Swift),https://vapor.codes/,/u/feoh,3
-0,2018-01-08 16:49:33 -0600,"['/t/programming', '/t/unix']",Papers I've Read in 2017,http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/,/u/philix,16
+0,2018-01-09 16:43:08 -0600,"/t/historical,/t/unix",Life in UNIX® V7: an attempt at a simple task,https://virtuallyfun.com/2018/01/10/life-in-unix-v7-an-attempt-at-a-simple-task/,/u/calvin,14
+2,2018-01-09 10:16:10 -0600,/t/python,Python “bool” — wat?,https://medium.com/@timb07/python-bool-wat-ab0e28d879c7,/u/av,15
+0,2018-01-10 01:26:51 -0600,"/t/pdf,/t/linux",The Law Enforcement and Forensic Examiners Introduction to Linux,http://linuxleo.com/,/u/Fake4d,4
+0,2018-01-10 09:42:43 -0600,/t/programming,Supporting understanding with simplicity,https://www.innoq.com/en/blog/understanding-through-simplicity/,/u/jan,1
+0,2018-01-10 15:00:51 -0600,"/t/culture,/t/law,/t/practices",GPL as the Best Licence – Governance and Philosophy,https://blog.hansenpartnership.com/gpl-as-the-best-licence-governance-and-philosophy/,/u/kragniz,1
+0,2018-01-10 05:16:23 -0600,"/t/law,/t/web",The Fight For Patent-Unencumbered Media Codecs Is Nearly Won,http://robert.ocallahan.org/2018/01/the-fight-for-patent-unencumbered-media.html,/u/freddyb,2
+30,2018-01-09 15:39:43 -0600,/t/rant,Electron is Cancer,https://medium.com/@caspervonb/electron-is-cancer-b066108e6c32,/u/raindev,19
+0,2018-01-10 07:12:02 -0600,/t/programming,"Serverless, Scale-Independent Processing, and Wallaroo",https://blog.wallaroolabs.com/2018/01/serverless-scale-independent-processing-and-wallaroo/,/u/SeanTAllen,1
+11,2018-01-09 09:11:25 -0600,"/t/art,/t/web",Permanent Redirect: digital art that moves to a new URL when someone views it,https://kottke.org/18/01/permanent-redirect-digital-art-that-moves-to-a-new-url-when-someone-views-it,/u/calvin,9
+1,2018-01-09 12:43:10 -0600,"/t/hardware,/t/networking",Xerox Alto's 3 Mb/s Ethernet: Building a gateway with a BeagleBone,http://www.righto.com/2018/01/xerox-altos-3-mbs-ethernet-building.html,/u/calvin,10
+0,2018-01-10 01:34:48 -0600,/t/debugging,Profiler adventures: resolving symbol addresses is hard!,https://jvns.ca/blog/2018/01/09/resolving-symbol-addresses/,/u/quobit,2
+2,2018-01-09 16:11:50 -0600,"/t/security,/t/windows","Important: Windows security updates released January 3, 2018, and antivirus software",https://support.microsoft.com/en-us/help/4072699/january-3-2018-windows-security-updates-and-antivirus-software,/u/tedu,5
+0,2018-01-09 15:33:57 -0600,/t/databases,Postgres full-text search is Good Enough! (2015),http://rachbelaid.com/postgres-full-text-search-is-good-enough/,/u/hoopla,7
+0,2018-01-10 09:22:45 -0600,"/t/ai,/t/job",Get Connected with Bosch,https://www.bosch.de/events/get-connected-with-bosch/,/u/qznc,0
+1,2018-01-09 06:43:31 -0600,"/t/performance,/t/programming",How fast can you bit-interleave 32-bit integers?,https://lemire.me/blog/2018/01/08/how-fast-can-you-bit-interleave-32-bit-integers/,/u/calvin,12
+2,2018-01-09 07:22:20 -0600,"/t/pdf,/t/book,/t/cogsci","Speech and Language Processing, 3rd Edition",https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf,/u/av,6
+10,2018-01-08 07:09:02 -0600,/t/practices,How to become a part-time programmer: an interview with an expert,https://codewithoutrules.com/2018/01/08/part-time-programmer/,/u/itamarst,38
+0,2018-01-09 16:21:39 -0600,"/t/culture,/t/historical",Legends of the Ancient Web,http://idlewords.com/talks/ancient_web.htm,/u/hobbes,6
+0,2018-01-09 08:38:34 -0600,"/t/pdf,/t/crypto",Secure Remote Attestation,https://eprint.iacr.org/2018/031.pdf,/u/pushcx,7
+0,2018-01-09 14:54:48 -0600,/t/css,A Fresh Approach to Extending CSS,http://responsive.style,/u/innovati,1
+7,2018-01-08 13:07:13 -0600,"/t/person,/t/security",Handling of CPU bugs disclosure 'incredibly bad' says OpenBSD's Theo de Raadt,https://www.itwire.com/security/81338-handling-of-cpu-bug-disclosure-incredibly-bad-openbsd-s-de-raadt.html,/u/jabberwock,31
+1,2018-01-09 11:00:34 -0600,/t/culture,"Reddit isn't a discussion forum, and neither is Twitter or Discord",https://xkeeper.dreamwidth.org/9872.html,/u/calvin,8
+1,2018-01-08 20:12:57 -0600,"/t/browsers,/t/security",What Spectre and Meltdown Mean For WebKit,https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/,/u/alva,22
+3,2018-01-09 10:31:29 -0600,/t/swift,Vapor (Server-side Swift),https://vapor.codes/,/u/feoh,3
+0,2018-01-08 16:49:33 -0600,"/t/programming,/t/unix",Papers I've Read in 2017,http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/,/u/philix,16

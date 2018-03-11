@@ -1,25 +1,25 @@
-0,2014-04-26 03:11:37 -0500,"['/t/programming', '/t/rust']",Rust by Example,http://rustbyexample.github.io/,/u/igstan,22
-0,2014-04-26 21:50:43 -0500,['/t/cryptocurrencies'],BitIodine - Get more from the blockchain,https://bitiodine.net/,/u/AdamGibbins,2
-3,2014-04-25 16:22:23 -0500,"['/t/compilers', '/t/go']",Russ Cox – porting the Go compiler from C to Go,http://gophercon.sourcegraph.com/post/83820197495/russ-cox-porting-the-go-compiler-from-c-to-go,/u/penberg,15
-1,2014-04-26 10:59:03 -0500,['/t/practices'],Developer Catnip,http://amattn.com/p/developer_catnip.html,/u/amattn,1
-0,2014-04-25 22:10:31 -0500,['/t/release'],Dat – A git-like tool for large datasets,http://dat-data.com/,/u/jonschoning,10
-0,2014-04-26 13:53:10 -0500,"['/t/video', '/t/programming']","OSCON 2010: Rob Pike, ""Public Static Void""",http://www.youtube.com/watch?v=5kj5ApnhPAE,/u/sevan,1
-0,2014-04-25 18:46:27 -0500,['/t/lisp'],Performance and Types in Lisp,http://blog.30dor.com/2014/03/21/performance-and-types-in-lisp/,/u/jm,13
-1,2014-04-25 13:14:02 -0500,['/t/security'],Using Facebook Notes to DDoS any website,http://chr13.com/2014/04/20/using-facebook-notes-to-ddos-any-website/,/u/bct,16
-5,2014-04-25 10:43:33 -0500,"['/t/event', '/t/go']",Liveblog of GopherCon 2014,http://gophercon.sourcegraph.com/,/u/beyang,18
-0,2014-04-26 05:54:37 -0500,"['/t/lisp', '/t/programming']","Learning Racket #2: Macros, Macros and a Bit of Modules",http://artyom.me/learning-racket-2,/u/artyomkazak,1
-0,2014-04-25 22:05:52 -0500,"['/t/video', '/t/reversing']",Video Steganography Lecture by James Ridgway,http://youtu.be/g5U3nsCcJk0,/u/xyz,3
-0,2014-04-25 16:30:34 -0500,"['/t/privacy', '/t/security']",The Ultimate Privacy Guide,https://www.bestvpn.com/the-ultimate-privacy-guide/,/u/csantosb,6
-0,2014-04-25 23:01:04 -0500,['/t/visualization'],Microsoft Data Science and Modeling Tools Survey,https://www.surveymonkey.com/s/VSForDataScience,/u/mattk,2
-0,2014-04-25 09:45:36 -0500,['/t/haskell'],wreq: a Haskell web client library,http://www.serpentine.com/wreq/,/u/puffnfresh,11
-1,2014-04-25 00:38:45 -0500,"['/t/programming', '/t/security']",Cryptol DSL for cryptography open sourced,http://www.cryptol.net/,/u/mjs,27
-0,2014-04-25 10:09:59 -0500,['/t/science'],Employee performance evaluations are often politically driven,http://www.overcomingbias.com/2014/04/more-broken-evals.html,/u/kb,7
-0,2014-04-25 05:11:37 -0500,"['/t/dotnet', '/t/programming', '/t/security']",F* released with Apache2 license,https://github.com/nikswamy/FStar,/u/mavnn,11
-0,2014-04-24 13:43:06 -0500,['/t/security'],Attack of the Week: [TLS] Triple Handshakes (3Shake),http://blog.cryptographyengineering.com/2014/04/attack-of-week-triple-handshakes-3shake.html,/u/kbuck,18
-1,2014-04-24 22:29:03 -0500,"['/t/culture', '/t/programming']",Stripe Open-Source Retreat,https://stripe.com/blog/stripe-open-source-retreat,/u/drturtle,12
-0,2014-04-25 10:09:11 -0500,['/t/security'],Did Twitter silently remove login verification using their Twitter app?,http://securitynirvana.blogspot.no/2014/04/did-twitter-silently-remove-login.html,/u/henkjan,1
-6,2014-04-24 07:06:47 -0500,"['/t/linux', '/t/security']",When names outlive their usefulness,http://blog.existentialize.com/when-names-outlive-their-usefulness.html,/u/fab,15
-0,2014-04-24 15:56:50 -0500,['/t/hardware'],"IBM Opens Chip Architecture, in Strategy of Sharing and Self-Interest",http://bits.blogs.nytimes.com/2014/04/23/ibm-opens-chip-architecture-in-strategy-of-sharing-and-self-interest/,/u/qbit,9
-0,2014-04-25 04:27:05 -0500,['/t/programming'],Laravel - Alternative Installer,http://blog.gotux.net/code/bash/laravel/,/u/TuxLyn,1
-0,2014-04-24 01:15:09 -0500,['/t/haskell'],What I Wish I Knew When Learning Haskell 2.0,http://dev.stephendiehl.com/hask/,/u/wting,22
-0,2014-04-24 11:15:40 -0500,"['/t/law', '/t/networking']","F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",http://www.nytimes.com/2014/04/24/technology/fcc-new-net-neutrality-rules.html,/u/journeysquid,7
+0,2014-04-26 03:11:37 -0500,"/t/programming,/t/rust",Rust by Example,http://rustbyexample.github.io/,/u/igstan,22
+0,2014-04-26 21:50:43 -0500,/t/cryptocurrencies,BitIodine - Get more from the blockchain,https://bitiodine.net/,/u/AdamGibbins,2
+3,2014-04-25 16:22:23 -0500,"/t/compilers,/t/go",Russ Cox – porting the Go compiler from C to Go,http://gophercon.sourcegraph.com/post/83820197495/russ-cox-porting-the-go-compiler-from-c-to-go,/u/penberg,15
+1,2014-04-26 10:59:03 -0500,/t/practices,Developer Catnip,http://amattn.com/p/developer_catnip.html,/u/amattn,1
+0,2014-04-25 22:10:31 -0500,/t/release,Dat – A git-like tool for large datasets,http://dat-data.com/,/u/jonschoning,10
+0,2014-04-26 13:53:10 -0500,"/t/video,/t/programming","OSCON 2010: Rob Pike, ""Public Static Void""",http://www.youtube.com/watch?v=5kj5ApnhPAE,/u/sevan,1
+0,2014-04-25 18:46:27 -0500,/t/lisp,Performance and Types in Lisp,http://blog.30dor.com/2014/03/21/performance-and-types-in-lisp/,/u/jm,13
+1,2014-04-25 13:14:02 -0500,/t/security,Using Facebook Notes to DDoS any website,http://chr13.com/2014/04/20/using-facebook-notes-to-ddos-any-website/,/u/bct,16
+5,2014-04-25 10:43:33 -0500,"/t/event,/t/go",Liveblog of GopherCon 2014,http://gophercon.sourcegraph.com/,/u/beyang,18
+0,2014-04-26 05:54:37 -0500,"/t/lisp,/t/programming","Learning Racket #2: Macros, Macros and a Bit of Modules",http://artyom.me/learning-racket-2,/u/artyomkazak,1
+0,2014-04-25 22:05:52 -0500,"/t/video,/t/reversing",Video Steganography Lecture by James Ridgway,http://youtu.be/g5U3nsCcJk0,/u/xyz,3
+0,2014-04-25 16:30:34 -0500,"/t/privacy,/t/security",The Ultimate Privacy Guide,https://www.bestvpn.com/the-ultimate-privacy-guide/,/u/csantosb,6
+0,2014-04-25 23:01:04 -0500,/t/visualization,Microsoft Data Science and Modeling Tools Survey,https://www.surveymonkey.com/s/VSForDataScience,/u/mattk,2
+0,2014-04-25 09:45:36 -0500,/t/haskell,wreq: a Haskell web client library,http://www.serpentine.com/wreq/,/u/puffnfresh,11
+1,2014-04-25 00:38:45 -0500,"/t/programming,/t/security",Cryptol DSL for cryptography open sourced,http://www.cryptol.net/,/u/mjs,27
+0,2014-04-25 10:09:59 -0500,/t/science,Employee performance evaluations are often politically driven,http://www.overcomingbias.com/2014/04/more-broken-evals.html,/u/kb,7
+0,2014-04-25 05:11:37 -0500,"/t/dotnet,/t/programming,/t/security",F* released with Apache2 license,https://github.com/nikswamy/FStar,/u/mavnn,11
+0,2014-04-24 13:43:06 -0500,/t/security,Attack of the Week: [TLS] Triple Handshakes (3Shake),http://blog.cryptographyengineering.com/2014/04/attack-of-week-triple-handshakes-3shake.html,/u/kbuck,18
+1,2014-04-24 22:29:03 -0500,"/t/culture,/t/programming",Stripe Open-Source Retreat,https://stripe.com/blog/stripe-open-source-retreat,/u/drturtle,12
+0,2014-04-25 10:09:11 -0500,/t/security,Did Twitter silently remove login verification using their Twitter app?,http://securitynirvana.blogspot.no/2014/04/did-twitter-silently-remove-login.html,/u/henkjan,1
+6,2014-04-24 07:06:47 -0500,"/t/linux,/t/security",When names outlive their usefulness,http://blog.existentialize.com/when-names-outlive-their-usefulness.html,/u/fab,15
+0,2014-04-24 15:56:50 -0500,/t/hardware,"IBM Opens Chip Architecture, in Strategy of Sharing and Self-Interest",http://bits.blogs.nytimes.com/2014/04/23/ibm-opens-chip-architecture-in-strategy-of-sharing-and-self-interest/,/u/qbit,9
+0,2014-04-25 04:27:05 -0500,/t/programming,Laravel - Alternative Installer,http://blog.gotux.net/code/bash/laravel/,/u/TuxLyn,1
+0,2014-04-24 01:15:09 -0500,/t/haskell,What I Wish I Knew When Learning Haskell 2.0,http://dev.stephendiehl.com/hask/,/u/wting,22
+0,2014-04-24 11:15:40 -0500,"/t/law,/t/networking","F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",http://www.nytimes.com/2014/04/24/technology/fcc-new-net-neutrality-rules.html,/u/journeysquid,7

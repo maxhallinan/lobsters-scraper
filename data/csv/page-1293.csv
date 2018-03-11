@@ -1,25 +1,25 @@
-5,2014-07-10 12:31:56 -0500,['/t/lisp'],Learn Lisp The Hard Way,http://learnlispthehardway.org/,/u/qbit,24
-1,2014-07-11 14:21:48 -0500,"['/t/show', '/t/ruby', '/t/visualization']",The Informant: Learn from your users' mistakes,http://www.informantapp.com,/u/camerondaigle,1
-0,2014-07-11 13:28:42 -0500,"['/t/pdf', '/t/programming']",The design of the wxOcaml library,http://ocaml.org/meetings/ocaml/2013/proposals/wxocaml.pdf,/u/zem,1
-4,2014-07-10 10:54:11 -0500,"['/t/compsci', '/t/linux', '/t/math', '/t/person', '/t/science']",Retirement of Prof. Andy Tanenbaum,http://www.cs.vu.nl/~ast/afscheid/,/u/cnst,17
-5,2014-07-10 10:51:57 -0500,"['/t/haskell', '/t/practices', '/t/programming']",Using Phantom Types in Haskell for Extra Safety - Part 2,http://blog.jakubarnold.cz/2014/07/10/using-phantom-types-in-haskell-for-extra-safety-part-2.html,/u/darthdeus,13
-2,2014-07-10 16:41:57 -0500,['/t/freebsd'],Future of pf in FreeBSD - does it have one?,http://lists.freebsd.org/pipermail/freebsd-pf/2014-July/007391.html,/u/journeysquid,9
-0,2014-07-10 19:46:59 -0500,"['/t/show', '/t/ios', '/t/mobile']",Lobsters: An open source Lobste.rs app for iOS 7+,https://github.com/JamesS237/lobsters-ios,/u/jcspencer,9
-0,2014-07-10 15:59:31 -0500,"['/t/book', '/t/programming']",Real World OCaml,https://realworldocaml.org/v1/en/html/index.html,/u/englishm,13
-2,2014-07-10 16:30:04 -0500,['/t/compsci'],What’s in a name?,https://blogs.janestreet.com/whats-in-a-name/,/u/kyle,8
-0,2014-07-11 09:05:37 -0500,['/t/databases'],How Graph Databases Uncover Patterns To Break Up Organized Crime,http://thenewstack.io/how-graph-databases-uncover-patterns-to-break-up-organized-crime/,/u/pushcx,1
-0,2014-07-11 00:19:27 -0500,['/t/unix'],"GNU make ""jobserver"" Implementation",http://make.paulandlesley.org/jobserver.html,/u/vjoel,4
-0,2014-07-11 08:32:01 -0500,['/t/vim'],"So, You Just Got A Mechanical Keyboard...",http://usevim.com/2014/07/11/key-speed/,/u/pushcx,1
-1,2014-07-10 14:04:35 -0500,"['/t/book', '/t/programming']",Beginner's guide to OCaml beginner's guides.,http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html,/u/apy,10
-0,2014-07-10 16:52:14 -0500,"['/t/pdf', '/t/compsci', '/t/distributed', '/t/erlang']",Convergence in Language Design: A Case of Lightning Striking Four Times in the Same Place,http://www.researchgate.net/publication/221278528_Convergence_in_Language_Design_A_Case_of_Lightning_Striking_Four_Times_in_the_Same_Place/file/3deec5278d108cb154.pdf,/u/pushcx,7
-0,2014-07-10 18:34:03 -0500,"['/t/hardware', '/t/programming']",An Introduction To FPGA and CPLD,http://ureddit.com/class/106959/,/u/qbit,5
-0,2014-07-10 22:37:41 -0500,"['/t/compsci', '/t/design']",Grap: a language for typesetting graphs,http://www.lunabase.org/~faber/Vault/software/grap/,/u/pushcx,2
-0,2014-07-10 19:36:40 -0500,['/t/go'],EMR (Elastic MapReduce) Streaming in Go,http://open.blogs.nytimes.com/2014/07/10/emr-streaming-in-go/,/u/journeysquid,3
-0,2014-07-10 19:07:02 -0500,['/t/compsci'],Green Processes: Multiple Process Architectures For Everyone,http://aseigo.blogspot.com/2014/07/green-processes-multiple-process.html,/u/pushcx,3
-0,2014-07-10 15:54:12 -0500,"['/t/ruby', '/t/web']",How we write readable feature tests with RSpec,https://about.futurelearn.com/blog/how-we-write-readable-feature-tests-with-rspec/,/u/sebjacobs,4
-1,2014-07-10 02:42:52 -0500,"['/t/design', '/t/erlang']",A Week with Elixir (2013),https://joearms.github.io/2013/05/31/a-week-with-elixir.html,/u/daGrevis,14
-0,2014-07-10 23:04:32 -0500,['/t/programming'],SPARK 2014 : Manual Proof with Ghost Code in SPARK 2014,http://www.spark-2014.org/entries/detail/manual-proof-in-spark-2014,/u/lojikil,1
-0,2014-07-10 10:48:38 -0500,"['/t/pdf', '/t/programming']",Unikernels: Library Operating Systems for the Cloud,http://anil.recoil.org/papers/2013-asplos-mirage.pdf,/u/BruceM,6
-0,2014-07-10 12:15:51 -0500,['/t/culture'],The Second Contributor,https://blog.engineyard.com/2014/the-second-contributor,/u/nslater,8
-1,2014-07-10 10:51:08 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Integrating Dependent and Linear Types (draft),http://www.cs.bham.ac.uk/~krishnan/dlnl-paper.pdf,/u/BruceM,4
-0,2014-07-10 15:30:39 -0500,['/t/security'],CFSSL - CloudFlare's PKI toolkit,http://blog.cloudflare.com/introducing-cfssl,/u/kyle,2
+5,2014-07-10 12:31:56 -0500,/t/lisp,Learn Lisp The Hard Way,http://learnlispthehardway.org/,/u/qbit,24
+1,2014-07-11 14:21:48 -0500,"/t/show,/t/ruby,/t/visualization",The Informant: Learn from your users' mistakes,http://www.informantapp.com,/u/camerondaigle,1
+0,2014-07-11 13:28:42 -0500,"/t/pdf,/t/programming",The design of the wxOcaml library,http://ocaml.org/meetings/ocaml/2013/proposals/wxocaml.pdf,/u/zem,1
+4,2014-07-10 10:54:11 -0500,"/t/compsci,/t/linux,/t/math,/t/person,/t/science",Retirement of Prof. Andy Tanenbaum,http://www.cs.vu.nl/~ast/afscheid/,/u/cnst,17
+5,2014-07-10 10:51:57 -0500,"/t/haskell,/t/practices,/t/programming",Using Phantom Types in Haskell for Extra Safety - Part 2,http://blog.jakubarnold.cz/2014/07/10/using-phantom-types-in-haskell-for-extra-safety-part-2.html,/u/darthdeus,13
+2,2014-07-10 16:41:57 -0500,/t/freebsd,Future of pf in FreeBSD - does it have one?,http://lists.freebsd.org/pipermail/freebsd-pf/2014-July/007391.html,/u/journeysquid,9
+0,2014-07-10 19:46:59 -0500,"/t/show,/t/ios,/t/mobile",Lobsters: An open source Lobste.rs app for iOS 7+,https://github.com/JamesS237/lobsters-ios,/u/jcspencer,9
+0,2014-07-10 15:59:31 -0500,"/t/book,/t/programming",Real World OCaml,https://realworldocaml.org/v1/en/html/index.html,/u/englishm,13
+2,2014-07-10 16:30:04 -0500,/t/compsci,What’s in a name?,https://blogs.janestreet.com/whats-in-a-name/,/u/kyle,8
+0,2014-07-11 09:05:37 -0500,/t/databases,How Graph Databases Uncover Patterns To Break Up Organized Crime,http://thenewstack.io/how-graph-databases-uncover-patterns-to-break-up-organized-crime/,/u/pushcx,1
+0,2014-07-11 00:19:27 -0500,/t/unix,"GNU make ""jobserver"" Implementation",http://make.paulandlesley.org/jobserver.html,/u/vjoel,4
+0,2014-07-11 08:32:01 -0500,/t/vim,"So, You Just Got A Mechanical Keyboard...",http://usevim.com/2014/07/11/key-speed/,/u/pushcx,1
+1,2014-07-10 14:04:35 -0500,"/t/book,/t/programming",Beginner's guide to OCaml beginner's guides.,http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html,/u/apy,10
+0,2014-07-10 16:52:14 -0500,"/t/pdf,/t/compsci,/t/distributed,/t/erlang",Convergence in Language Design: A Case of Lightning Striking Four Times in the Same Place,http://www.researchgate.net/publication/221278528_Convergence_in_Language_Design_A_Case_of_Lightning_Striking_Four_Times_in_the_Same_Place/file/3deec5278d108cb154.pdf,/u/pushcx,7
+0,2014-07-10 18:34:03 -0500,"/t/hardware,/t/programming",An Introduction To FPGA and CPLD,http://ureddit.com/class/106959/,/u/qbit,5
+0,2014-07-10 22:37:41 -0500,"/t/compsci,/t/design",Grap: a language for typesetting graphs,http://www.lunabase.org/~faber/Vault/software/grap/,/u/pushcx,2
+0,2014-07-10 19:36:40 -0500,/t/go,EMR (Elastic MapReduce) Streaming in Go,http://open.blogs.nytimes.com/2014/07/10/emr-streaming-in-go/,/u/journeysquid,3
+0,2014-07-10 19:07:02 -0500,/t/compsci,Green Processes: Multiple Process Architectures For Everyone,http://aseigo.blogspot.com/2014/07/green-processes-multiple-process.html,/u/pushcx,3
+0,2014-07-10 15:54:12 -0500,"/t/ruby,/t/web",How we write readable feature tests with RSpec,https://about.futurelearn.com/blog/how-we-write-readable-feature-tests-with-rspec/,/u/sebjacobs,4
+1,2014-07-10 02:42:52 -0500,"/t/design,/t/erlang",A Week with Elixir (2013),https://joearms.github.io/2013/05/31/a-week-with-elixir.html,/u/daGrevis,14
+0,2014-07-10 23:04:32 -0500,/t/programming,SPARK 2014 : Manual Proof with Ghost Code in SPARK 2014,http://www.spark-2014.org/entries/detail/manual-proof-in-spark-2014,/u/lojikil,1
+0,2014-07-10 10:48:38 -0500,"/t/pdf,/t/programming",Unikernels: Library Operating Systems for the Cloud,http://anil.recoil.org/papers/2013-asplos-mirage.pdf,/u/BruceM,6
+0,2014-07-10 12:15:51 -0500,/t/culture,The Second Contributor,https://blog.engineyard.com/2014/the-second-contributor,/u/nslater,8
+1,2014-07-10 10:51:08 -0500,"/t/pdf,/t/compsci,/t/programming",Integrating Dependent and Linear Types (draft),http://www.cs.bham.ac.uk/~krishnan/dlnl-paper.pdf,/u/BruceM,4
+0,2014-07-10 15:30:39 -0500,/t/security,CFSSL - CloudFlare's PKI toolkit,http://blog.cloudflare.com/introducing-cfssl,/u/kyle,2

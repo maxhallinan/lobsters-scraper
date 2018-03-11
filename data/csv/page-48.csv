@@ -1,25 +1,25 @@
-1,2018-01-24 15:47:34 -0600,"['/t/pdf', '/t/book', '/t/compsci', '/t/historical']",Alan Turing’s Manual for the Ferranti Mk. I,http://www.panix.com/~rst/turing.pdf,/u/molloy,3
-0,2018-01-24 14:21:36 -0600,['/t/javascript'],Binary Heap (Priority Queue) in JavaScript,https://nlogn.xyz/2018/01/24/binary-heap-priority-queue-in-javascript.html,/u/darthdeus,2
-0,2018-01-24 16:27:23 -0600,"['/t/event', '/t/security']",Call for Papers - IEEE Cybersecurity Development Conference,https://secdev.ieee.org/2018/papers/,/u/TronDD,3
-1,2018-01-24 11:40:27 -0600,"['/t/practices', '/t/programming']",How I review code,https://cyle.tumblr.com/post/170039642535/how-i-review-code,/u/av,4
-10,2018-01-23 14:05:02 -0600,['/t/ruby'],The Modular Monolith: Rails Architecture,https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4,/u/dan_manges,17
-5,2018-01-23 09:29:25 -0600,"['/t/crypto', '/t/security']",Introducing the first ever shitpost-based RNG,https://blog.0day.rocks/introducing-the-first-ever-shitpost-based-rng-c5422bfce257,/u/x0rz,26
-1,2018-01-24 07:27:40 -0600,['/t/practices'],I Am a 9 to 5 Developer (And So Can You!),https://exceptionnotfound.net/i-am-a-9-to-5-developer-and-so-can-you/,/u/calvin,5
-0,2018-01-24 07:43:49 -0600,"['/t/api', '/t/databases']",UnQLite - An Embedded Transactional Database Engine,https://github.com/symisc/unqlite,/u/chmrad,6
-1,2018-01-24 11:21:09 -0600,"['/t/hardware', '/t/windows']",Building a Lightroom PC,https://paulstamatiou.com/building-a-windows-10-lightroom-photo-editing-pc/,/u/calvin,2
-1,2018-01-24 08:35:42 -0600,"['/t/android', '/t/ios', '/t/mobile', '/t/programming']",MVC vs MVP vs MVVM for mobile app development: Let's end the debate!,https://www.simform.com/mvc-mvp-mvvm-mobile-app-development/,/u/Swiftde,1
-1,2018-01-24 07:13:57 -0600,['/t/browsers'],Exploring requiring Node.js to build Firefox,https://www.mail-archive.com/dev-builds@lists.mozilla.org/msg01194.html,/u/mulander,4
-0,2018-01-23 20:29:00 -0600,"['/t/networking', '/t/web']",Victory for libre networks: ActivityPub is now a W3C recommended standard,https://www.fsf.org/blogs/community/victory-for-libre-networks-activitypub-is-now-a-w3c-recommended-standard,/u/JordiGH,16
-0,2018-01-24 10:10:07 -0600,"['/t/pdf', '/t/assembly', '/t/compsci']",Stratified Synthesis: Automatically Learning the x64 Instruction Set (2016),https://raw.githubusercontent.com/StanfordPL/stoke/develop/docs/papers/pldi16.pdf,/u/nickpsecurity,3
-0,2018-01-24 00:40:02 -0600,"['/t/practices', '/t/programming']",The Modern Dev Team,https://rob.conery.io/2018/01/22/the-modern-dev-team/,/u/evaryont,9
-1,2018-01-24 04:08:56 -0600,"['/t/pdf', '/t/formalmethods']",A Cryptographic Analysis of the WireGuard Protocol,https://eprint.iacr.org/2018/080.pdf,/u/NinjaTrappeur,3
-3,2018-01-23 16:23:26 -0600,['/t/ruby'],Reducing Memory Usage in Ruby,https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html,/u/craigkerstiens,14
-0,2018-01-23 20:50:18 -0600,['/t/haskell'],The Nesting Instinct,http://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html,/u/pushcx,11
-3,2018-01-23 19:07:29 -0600,['/t/cryptocurrencies'],Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution,https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800,/u/asthasr,8
-12,2018-01-23 11:06:11 -0600,['/t/security'],How EU Cookie Law Myths Affect Web Security,https://www.rdegges.com/2018/how-eu-cookie-law-myths-affect-web-security/,/u/craigkerstiens,15
-0,2018-01-24 07:35:10 -0600,"['/t/dotnet', '/t/javascript', '/t/web']",Angular and ASP.NET Core,http://www.blinkingcaret.com/2018/01/24/angular-and-asp-net-core/,/u/rdfi,1
-0,2018-01-24 08:32:29 -0600,"['/t/cryptocurrencies', '/t/networking']","Is the Lightning network a tree structure, or something more complex?",http://www.coppolacomment.com/2018/01/probability-for-geeks.html,/u/gerikson,2
-0,2018-01-23 23:27:29 -0600,"['/t/javascript', '/t/plt', '/t/programming']","Curry your calls, uncurry your returns",http://chriswarbo.net/blog/2018-01-24-curry_your_calls_uncurry_your_returns.html,/u/chriswarbo,3
-0,2018-01-23 23:52:55 -0600,"['/t/assembly', '/t/programming']",Redundancy of x86 Machine Code,https://www.strchr.com/machine_code_redundancy,/u/akkartik,5
-0,2018-01-23 17:44:30 -0600,['/t/ai'],What I Learned Participating in My First Kaggle Competition,http://www.usrsb.in/first-kaggle-competition.html,/u/beala,5
-0,2018-01-24 00:55:25 -0600,"['/t/crypto', '/t/education', '/t/programming', '/t/python']",Cracking Codes with Python,http://inventwithpython.com/cracking/,/u/nanxiao,4
+1,2018-01-24 15:47:34 -0600,"/t/pdf,/t/book,/t/compsci,/t/historical",Alan Turing’s Manual for the Ferranti Mk. I,http://www.panix.com/~rst/turing.pdf,/u/molloy,3
+0,2018-01-24 14:21:36 -0600,/t/javascript,Binary Heap (Priority Queue) in JavaScript,https://nlogn.xyz/2018/01/24/binary-heap-priority-queue-in-javascript.html,/u/darthdeus,2
+0,2018-01-24 16:27:23 -0600,"/t/event,/t/security",Call for Papers - IEEE Cybersecurity Development Conference,https://secdev.ieee.org/2018/papers/,/u/TronDD,3
+1,2018-01-24 11:40:27 -0600,"/t/practices,/t/programming",How I review code,https://cyle.tumblr.com/post/170039642535/how-i-review-code,/u/av,4
+10,2018-01-23 14:05:02 -0600,/t/ruby,The Modular Monolith: Rails Architecture,https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4,/u/dan_manges,17
+5,2018-01-23 09:29:25 -0600,"/t/crypto,/t/security",Introducing the first ever shitpost-based RNG,https://blog.0day.rocks/introducing-the-first-ever-shitpost-based-rng-c5422bfce257,/u/x0rz,26
+1,2018-01-24 07:27:40 -0600,/t/practices,I Am a 9 to 5 Developer (And So Can You!),https://exceptionnotfound.net/i-am-a-9-to-5-developer-and-so-can-you/,/u/calvin,5
+0,2018-01-24 07:43:49 -0600,"/t/api,/t/databases",UnQLite - An Embedded Transactional Database Engine,https://github.com/symisc/unqlite,/u/chmrad,6
+1,2018-01-24 11:21:09 -0600,"/t/hardware,/t/windows",Building a Lightroom PC,https://paulstamatiou.com/building-a-windows-10-lightroom-photo-editing-pc/,/u/calvin,2
+1,2018-01-24 08:35:42 -0600,"/t/android,/t/ios,/t/mobile,/t/programming",MVC vs MVP vs MVVM for mobile app development: Let's end the debate!,https://www.simform.com/mvc-mvp-mvvm-mobile-app-development/,/u/Swiftde,1
+1,2018-01-24 07:13:57 -0600,/t/browsers,Exploring requiring Node.js to build Firefox,https://www.mail-archive.com/dev-builds@lists.mozilla.org/msg01194.html,/u/mulander,4
+0,2018-01-23 20:29:00 -0600,"/t/networking,/t/web",Victory for libre networks: ActivityPub is now a W3C recommended standard,https://www.fsf.org/blogs/community/victory-for-libre-networks-activitypub-is-now-a-w3c-recommended-standard,/u/JordiGH,16
+0,2018-01-24 10:10:07 -0600,"/t/pdf,/t/assembly,/t/compsci",Stratified Synthesis: Automatically Learning the x64 Instruction Set (2016),https://raw.githubusercontent.com/StanfordPL/stoke/develop/docs/papers/pldi16.pdf,/u/nickpsecurity,3
+0,2018-01-24 00:40:02 -0600,"/t/practices,/t/programming",The Modern Dev Team,https://rob.conery.io/2018/01/22/the-modern-dev-team/,/u/evaryont,9
+1,2018-01-24 04:08:56 -0600,"/t/pdf,/t/formalmethods",A Cryptographic Analysis of the WireGuard Protocol,https://eprint.iacr.org/2018/080.pdf,/u/NinjaTrappeur,3
+3,2018-01-23 16:23:26 -0600,/t/ruby,Reducing Memory Usage in Ruby,https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html,/u/craigkerstiens,14
+0,2018-01-23 20:50:18 -0600,/t/haskell,The Nesting Instinct,http://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html,/u/pushcx,11
+3,2018-01-23 19:07:29 -0600,/t/cryptocurrencies,Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution,https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800,/u/asthasr,8
+12,2018-01-23 11:06:11 -0600,/t/security,How EU Cookie Law Myths Affect Web Security,https://www.rdegges.com/2018/how-eu-cookie-law-myths-affect-web-security/,/u/craigkerstiens,15
+0,2018-01-24 07:35:10 -0600,"/t/dotnet,/t/javascript,/t/web",Angular and ASP.NET Core,http://www.blinkingcaret.com/2018/01/24/angular-and-asp-net-core/,/u/rdfi,1
+0,2018-01-24 08:32:29 -0600,"/t/cryptocurrencies,/t/networking","Is the Lightning network a tree structure, or something more complex?",http://www.coppolacomment.com/2018/01/probability-for-geeks.html,/u/gerikson,2
+0,2018-01-23 23:27:29 -0600,"/t/javascript,/t/plt,/t/programming","Curry your calls, uncurry your returns",http://chriswarbo.net/blog/2018-01-24-curry_your_calls_uncurry_your_returns.html,/u/chriswarbo,3
+0,2018-01-23 23:52:55 -0600,"/t/assembly,/t/programming",Redundancy of x86 Machine Code,https://www.strchr.com/machine_code_redundancy,/u/akkartik,5
+0,2018-01-23 17:44:30 -0600,/t/ai,What I Learned Participating in My First Kaggle Competition,http://www.usrsb.in/first-kaggle-competition.html,/u/beala,5
+0,2018-01-24 00:55:25 -0600,"/t/crypto,/t/education,/t/programming,/t/python",Cracking Codes with Python,http://inventwithpython.com/cracking/,/u/nanxiao,4

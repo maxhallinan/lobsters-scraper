@@ -1,25 +1,25 @@
-2,2018-02-06 10:25:06 -0600,['/t/haskell'],Using Hakyll to compile and check code samples in your blog post,http://www.andrevdm.com/posts/2018-02-05-hakyll-code-build-include-compiler.html,/u/Shapr,14
-0,2018-02-07 07:19:06 -0600,['/t/book'],Docker Succinctly,https://www.syncfusion.com/ebooks/docker_succinctly,/u/nanxiao,1
-7,2018-02-06 14:43:33 -0600,['/t/security'],"Ghost in the DCL shell: OpenVMS, touted as ultra reliable, had a local root hole for 30 years",https://www.theregister.co.uk/2018/02/06/openvms_vulnerability/,/u/calvin,4
-0,2018-02-06 10:14:12 -0600,['/t/c++'],Coroutine Theory,https://lewissbaker.github.io/2017/09/25/coroutine-theory,/u/pushcx,15
-5,2018-02-06 10:19:20 -0600,"['/t/video', '/t/event']",FOSDEM 2018 videos,https://video.tedomum.net/videos/search;sort=-createdAt;page=5;search=FOSDEM18,/u/JordiGH,8
-0,2018-02-06 21:29:46 -0600,['/t/culture'],On Collecting No's,http://glasnt.com/blog/2017/04/11/on-collecting-nos.html,/u/hwayne,7
-1,2018-02-06 06:26:44 -0600,['/t/go'],Extending GopherJS,http://www.doxsey.net/blog/extending-gopherjs,/u/calebdoxsey,9
-4,2018-02-05 15:49:04 -0600,"['/t/pdf', '/t/compilers']",A C89 compiler that produces executables that are also valid ASCII text files,http://www.cs.cmu.edu/~tom7/abc/paper.pdf,/u/dl,64
-0,2018-02-06 05:57:46 -0600,"['/t/elm', '/t/web']",State of Elm 2018,http://www.brianthicks.com/post/2018/02/01/state-of-elm-2018/,/u/janiczek,18
-1,2018-02-06 15:35:22 -0600,"['/t/video', '/t/event']",FOSDEM 18 Videos,https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw,/u/st3fan,4
-0,2018-02-06 17:00:59 -0600,"['/t/education', '/t/programming']",Awesome Developer Live Streams,https://github.com/bnb/awesome-developer-streams,/u/grim,3
-25,2018-02-05 17:36:06 -0600,"['/t/networking', '/t/unix']",X's network transparency has wound up mostly being a failure,https://utcc.utoronto.ca/~cks/space/blog/unix/XNetworkTransparencyFailure,/u/calvin,22
-1,2018-02-06 18:56:44 -0600,['/t/science'],A photophoretic-trap volumetric display,https://www.nature.com/articles/nature25176,/u/pastorinni,1
-3,2018-02-05 22:34:50 -0600,"['/t/ml', '/t/plt']",Implicit functors,http://jobjo.github.io//2018/01/28/implicit-functors.html,/u/brendan,15
-0,2018-02-06 09:55:59 -0600,"['/t/formalmethods', '/t/practices', '/t/programming', '/t/security']",The HACMS Program: Using Formal Methods to Eliminate Exploitable Bugs (2017),http://rsta.royalsocietypublishing.org/content/375/2104/20150401,/u/nickpsecurity,5
-1,2018-02-06 05:26:55 -0600,['/t/unix'],modernish: a shell moderniser library,https://github.com/modernish/modernish,/u/phaer,7
-0,2018-02-05 18:18:29 -0600,['/t/ml'],GADTs: Wizardry for a Typesafe Age,http://dttw.tech/posts/SkHN2ZlEG,/u/allenguo,22
-6,2018-02-05 19:40:55 -0600,['/t/unix'],Introduction to POSIX shell,http://sircmpwn.github.io/2018/02/05/Introduction-to-POSIX-shell.html,/u/calvin,9
-0,2018-02-06 09:51:54 -0600,"['/t/pdf', '/t/compilers', '/t/php', '/t/python']",Fine-grained Language Composition: Case Study (2016),http://drops.dagstuhl.de/opus/volltexte/2016/6097/pdf/LIPIcs-ECOOP-2016-3.pdf,/u/nickpsecurity,3
-0,2018-02-06 03:05:20 -0600,['/t/javascript'],How to use Glow to make your errors stand out in Flow,https://medium.freecodecamp.org/glow-make-your-flow-errors-glow-3d469931eabb?source=user_profile---------3----------------,/u/indreklasn,3
-0,2018-02-06 02:17:21 -0600,['/t/performance'],Maximize Cache Performance with this One Weird Trick or: Cache-Oblivious Data Structures,https://rcoh.me/posts/cache-oblivious-datastructures/,/u/jesper,6
-59,2018-02-05 05:32:02 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/8ulm89/what_are_you_working_on_this_week,/u/caius,27
-7,2018-02-05 09:50:20 -0600,"['/t/crypto', '/t/security']",Password Protecting Certain Dropbox/Google Drive Files,https://medium.com/@fxrock2002/how-to-password-protect-certain-dropbox-google-drive-icloud-onedrive-files-26be9f15b425,/u/mikob,11
-0,2018-02-06 03:47:13 -0600,"['/t/video', '/t/reversing', '/t/security']",Tutorial: Cracking Denuvo V4,https://www.youtube.com/watch?v=Ka_PudOvWpI,/u/ssl,4
-5,2018-02-05 14:56:13 -0600,"['/t/book', '/t/games', '/t/historical']",Computer Role-Playing Games Book released,https://crpgbook.wordpress.com/2018/02/05/update-19-crpg-book-released/,/u/mjn,8
+2,2018-02-06 10:25:06 -0600,/t/haskell,Using Hakyll to compile and check code samples in your blog post,http://www.andrevdm.com/posts/2018-02-05-hakyll-code-build-include-compiler.html,/u/Shapr,14
+0,2018-02-07 07:19:06 -0600,/t/book,Docker Succinctly,https://www.syncfusion.com/ebooks/docker_succinctly,/u/nanxiao,1
+7,2018-02-06 14:43:33 -0600,/t/security,"Ghost in the DCL shell: OpenVMS, touted as ultra reliable, had a local root hole for 30 years",https://www.theregister.co.uk/2018/02/06/openvms_vulnerability/,/u/calvin,4
+0,2018-02-06 10:14:12 -0600,/t/c++,Coroutine Theory,https://lewissbaker.github.io/2017/09/25/coroutine-theory,/u/pushcx,15
+5,2018-02-06 10:19:20 -0600,"/t/video,/t/event",FOSDEM 2018 videos,https://video.tedomum.net/videos/search;sort=-createdAt;page=5;search=FOSDEM18,/u/JordiGH,8
+0,2018-02-06 21:29:46 -0600,/t/culture,On Collecting No's,http://glasnt.com/blog/2017/04/11/on-collecting-nos.html,/u/hwayne,7
+1,2018-02-06 06:26:44 -0600,/t/go,Extending GopherJS,http://www.doxsey.net/blog/extending-gopherjs,/u/calebdoxsey,9
+4,2018-02-05 15:49:04 -0600,"/t/pdf,/t/compilers",A C89 compiler that produces executables that are also valid ASCII text files,http://www.cs.cmu.edu/~tom7/abc/paper.pdf,/u/dl,64
+0,2018-02-06 05:57:46 -0600,"/t/elm,/t/web",State of Elm 2018,http://www.brianthicks.com/post/2018/02/01/state-of-elm-2018/,/u/janiczek,18
+1,2018-02-06 15:35:22 -0600,"/t/video,/t/event",FOSDEM 18 Videos,https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw,/u/st3fan,4
+0,2018-02-06 17:00:59 -0600,"/t/education,/t/programming",Awesome Developer Live Streams,https://github.com/bnb/awesome-developer-streams,/u/grim,3
+25,2018-02-05 17:36:06 -0600,"/t/networking,/t/unix",X's network transparency has wound up mostly being a failure,https://utcc.utoronto.ca/~cks/space/blog/unix/XNetworkTransparencyFailure,/u/calvin,22
+1,2018-02-06 18:56:44 -0600,/t/science,A photophoretic-trap volumetric display,https://www.nature.com/articles/nature25176,/u/pastorinni,1
+3,2018-02-05 22:34:50 -0600,"/t/ml,/t/plt",Implicit functors,http://jobjo.github.io//2018/01/28/implicit-functors.html,/u/brendan,15
+0,2018-02-06 09:55:59 -0600,"/t/formalmethods,/t/practices,/t/programming,/t/security",The HACMS Program: Using Formal Methods to Eliminate Exploitable Bugs (2017),http://rsta.royalsocietypublishing.org/content/375/2104/20150401,/u/nickpsecurity,5
+1,2018-02-06 05:26:55 -0600,/t/unix,modernish: a shell moderniser library,https://github.com/modernish/modernish,/u/phaer,7
+0,2018-02-05 18:18:29 -0600,/t/ml,GADTs: Wizardry for a Typesafe Age,http://dttw.tech/posts/SkHN2ZlEG,/u/allenguo,22
+6,2018-02-05 19:40:55 -0600,/t/unix,Introduction to POSIX shell,http://sircmpwn.github.io/2018/02/05/Introduction-to-POSIX-shell.html,/u/calvin,9
+0,2018-02-06 09:51:54 -0600,"/t/pdf,/t/compilers,/t/php,/t/python",Fine-grained Language Composition: Case Study (2016),http://drops.dagstuhl.de/opus/volltexte/2016/6097/pdf/LIPIcs-ECOOP-2016-3.pdf,/u/nickpsecurity,3
+0,2018-02-06 03:05:20 -0600,/t/javascript,How to use Glow to make your errors stand out in Flow,https://medium.freecodecamp.org/glow-make-your-flow-errors-glow-3d469931eabb?source=user_profile---------3----------------,/u/indreklasn,3
+0,2018-02-06 02:17:21 -0600,/t/performance,Maximize Cache Performance with this One Weird Trick or: Cache-Oblivious Data Structures,https://rcoh.me/posts/cache-oblivious-datastructures/,/u/jesper,6
+59,2018-02-05 05:32:02 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/8ulm89/what_are_you_working_on_this_week,/u/caius,27
+7,2018-02-05 09:50:20 -0600,"/t/crypto,/t/security",Password Protecting Certain Dropbox/Google Drive Files,https://medium.com/@fxrock2002/how-to-password-protect-certain-dropbox-google-drive-icloud-onedrive-files-26be9f15b425,/u/mikob,11
+0,2018-02-06 03:47:13 -0600,"/t/video,/t/reversing,/t/security",Tutorial: Cracking Denuvo V4,https://www.youtube.com/watch?v=Ka_PudOvWpI,/u/ssl,4
+5,2018-02-05 14:56:13 -0600,"/t/book,/t/games,/t/historical",Computer Role-Playing Games Book released,https://crpgbook.wordpress.com/2018/02/05/update-19-crpg-book-released/,/u/mjn,8

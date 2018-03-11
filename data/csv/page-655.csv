@@ -1,25 +1,25 @@
-0,2016-09-21 12:37:32 -0500,['/t/ruby'],Delegation with BasicObject,https://www.promptworks.com/blog/delegation-with-basicobject,/u/promptworks,2
-2,2016-09-20 14:37:52 -0500,"['/t/release', '/t/security']",roughtime - secure time synchronisation,https://roughtime.googlesource.com/roughtime,/u/355E3B,22
-1,2016-09-21 11:43:18 -0500,['/t/ruby'],Ruby Facets - Weekly Ruby News podcast,http://rubyfacets.com/,/u/soulcutter,2
-5,2016-09-20 07:12:46 -0500,['/t/programming'],The BeOS file system: an OS geek retrospective,http://arstechnica.com/open-source/news/2010/06/the-beos-filesystem.ars,/u/calvin,31
-3,2016-09-20 11:13:30 -0500,"['/t/openbsd', '/t/security', '/t/web']",Easy Secure Web Serving with OpenBSD's acme-client and Let's Encrypt,https://spin.atomicobject.com/2016/09/20/openbsd-acme-client-lets-encrypt/,/u/quobit,24
-0,2016-09-21 19:40:16 -0500,"['/t/hardware', '/t/linux', '/t/windows']",Lenovo denies claims it plotted with Microsoft to block Linux installs,http://www.theregister.co.uk/2016/09/21/lenovo_denies_plot_with_microsoft_to_block_linux_installs/,/u/voidzero,0
-4,2016-09-20 10:26:57 -0500,"['/t/networking', '/t/security']",Snapshot of North Korea's DNS data taken from zone transfers.,https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak,/u/szalansky,16
-1,2016-09-20 22:18:48 -0500,"['/t/debugging', '/t/web']",The Ten Years Bug: Our Experience Solving a Bug That Won't Go Away,http://blog.getjaco.com/the-ten-years-bug-solving-a-bug-that-wont-go-away/,/u/pushcx,3
-0,2016-09-20 15:02:02 -0500,"['/t/compsci', '/t/programming']",Performance estimation: a worked example using bloom filters,http://bitfunnel.org/strangeloop/,/u/dl,7
-0,2016-09-20 20:00:59 -0500,['/t/graphics'],Primitive Pictures,https://github.com/fogleman/primitive,/u/pushcx,7
-0,2016-09-21 15:33:33 -0500,['/t/design'],On Navigation,https://www.promptworks.com/blog/on-navigation,/u/promptworks,0
-0,2016-09-20 15:46:21 -0500,"['/t/devops', '/t/distributed', '/t/elixir']",How to Set up a Distributed Elixir Cluster on Amazon EC2,http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/?,/u/friendlysock,8
-0,2016-09-20 20:58:13 -0500,"['/t/android', '/t/programming', '/t/release']",Ceylon 1.3.0 is now available,https://ceylon-lang.org/blog/2016/09/19/ceylon-1-3-0/,/u/zem,4
-1,2016-09-20 11:44:25 -0500,"['/t/android', '/t/security']",Memory disclosure mitigations in CopperheadOS,https://copperhead.co/blog/2016/09/20/memory-disclosure-mitigations,/u/jcs,11
-2,2016-09-21 10:56:23 -0500,['/t/finance'],Apple In Talks To Buy McLaren: Report,http://jalopnik.com/apple-in-talks-to-buy-mclaren-report-1786894101,/u/calvin,0
-0,2016-09-20 15:15:58 -0500,"['/t/elixir', '/t/security']",LDAP authentication with Phoenix,http://rny.io/elixir/phoenix/ldap/2016/09/20/ldap-authenication-with-phoenix.html,/u/friendlysock,4
-0,2016-09-20 15:04:47 -0500,"['/t/pdf', '/t/security']",Trojan Attacks for Compromising Cryptographic Security in FPGA Encryption Systems (2008),https://isis.poly.edu/~vikram/cooper.pdf,/u/flyingfisch,3
-0,2016-09-20 14:45:33 -0500,"['/t/android', '/t/security']",Signal for Android Attachment Bug,https://www.whispersystems.org/blog/signal-android-attachment-bug/,/u/jabberwock,3
-2,2016-09-20 05:10:02 -0500,"['/t/javascript', '/t/web']",Modernization of Reactivity,https://davidwalsh.name/modernization-reactivity,/u/alexkorban,6
-0,2016-09-20 20:44:01 -0500,['/t/security'],"Pre-Auth Remote Code Execution Vulnerability in Metasploit Community, Express and Pro 4.12",https://github.com/justinsteven/advisories/blob/master/2016_metasploit_rce_static_key_deserialization.md,/u/aleph,1
-0,2016-09-20 11:09:51 -0500,"['/t/practices', '/t/programming']",An introduction to Sphinx and Read the Docs for Technical Writers,http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/,/u/quobit,4
-0,2016-09-20 05:38:52 -0500,"['/t/video', '/t/programming']",Easy Solutions to Hard Problems (talk about Integer Linear Programming),https://www.youtube.com/watch?v=OkusHEBOhmQ,/u/DRMacIver,3
-10,2016-09-19 19:05:02 -0500,"['/t/devops', '/t/practices']",Why Shopify Moved to The Production Engineering Model,http://engineering.shopify.com/why-shopify-moved-to-the-production-engineering-model,/u/joshuacc,10
-10,2016-09-19 08:48:44 -0500,"['/t/c', '/t/historical', '/t/programming']",The curious case of the switch statement,https://eev.ee/blog/2016/09/18/the-curious-case-of-the-switch-statement/,/u/calvin,32
-14,2016-09-19 10:25:12 -0500,['/t/hardware'],Why did the ESA choose SPARC for LEON? (2013),http://space.stackexchange.com/questions/729/why-did-the-esa-choose-sparc-for-leon,/u/chadski,19
+0,2016-09-21 12:37:32 -0500,/t/ruby,Delegation with BasicObject,https://www.promptworks.com/blog/delegation-with-basicobject,/u/promptworks,2
+2,2016-09-20 14:37:52 -0500,"/t/release,/t/security",roughtime - secure time synchronisation,https://roughtime.googlesource.com/roughtime,/u/355E3B,22
+1,2016-09-21 11:43:18 -0500,/t/ruby,Ruby Facets - Weekly Ruby News podcast,http://rubyfacets.com/,/u/soulcutter,2
+5,2016-09-20 07:12:46 -0500,/t/programming,The BeOS file system: an OS geek retrospective,http://arstechnica.com/open-source/news/2010/06/the-beos-filesystem.ars,/u/calvin,31
+3,2016-09-20 11:13:30 -0500,"/t/openbsd,/t/security,/t/web",Easy Secure Web Serving with OpenBSD's acme-client and Let's Encrypt,https://spin.atomicobject.com/2016/09/20/openbsd-acme-client-lets-encrypt/,/u/quobit,24
+0,2016-09-21 19:40:16 -0500,"/t/hardware,/t/linux,/t/windows",Lenovo denies claims it plotted with Microsoft to block Linux installs,http://www.theregister.co.uk/2016/09/21/lenovo_denies_plot_with_microsoft_to_block_linux_installs/,/u/voidzero,0
+4,2016-09-20 10:26:57 -0500,"/t/networking,/t/security",Snapshot of North Korea's DNS data taken from zone transfers.,https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak,/u/szalansky,16
+1,2016-09-20 22:18:48 -0500,"/t/debugging,/t/web",The Ten Years Bug: Our Experience Solving a Bug That Won't Go Away,http://blog.getjaco.com/the-ten-years-bug-solving-a-bug-that-wont-go-away/,/u/pushcx,3
+0,2016-09-20 15:02:02 -0500,"/t/compsci,/t/programming",Performance estimation: a worked example using bloom filters,http://bitfunnel.org/strangeloop/,/u/dl,7
+0,2016-09-20 20:00:59 -0500,/t/graphics,Primitive Pictures,https://github.com/fogleman/primitive,/u/pushcx,7
+0,2016-09-21 15:33:33 -0500,/t/design,On Navigation,https://www.promptworks.com/blog/on-navigation,/u/promptworks,0
+0,2016-09-20 15:46:21 -0500,"/t/devops,/t/distributed,/t/elixir",How to Set up a Distributed Elixir Cluster on Amazon EC2,http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/?,/u/friendlysock,8
+0,2016-09-20 20:58:13 -0500,"/t/android,/t/programming,/t/release",Ceylon 1.3.0 is now available,https://ceylon-lang.org/blog/2016/09/19/ceylon-1-3-0/,/u/zem,4
+1,2016-09-20 11:44:25 -0500,"/t/android,/t/security",Memory disclosure mitigations in CopperheadOS,https://copperhead.co/blog/2016/09/20/memory-disclosure-mitigations,/u/jcs,11
+2,2016-09-21 10:56:23 -0500,/t/finance,Apple In Talks To Buy McLaren: Report,http://jalopnik.com/apple-in-talks-to-buy-mclaren-report-1786894101,/u/calvin,0
+0,2016-09-20 15:15:58 -0500,"/t/elixir,/t/security",LDAP authentication with Phoenix,http://rny.io/elixir/phoenix/ldap/2016/09/20/ldap-authenication-with-phoenix.html,/u/friendlysock,4
+0,2016-09-20 15:04:47 -0500,"/t/pdf,/t/security",Trojan Attacks for Compromising Cryptographic Security in FPGA Encryption Systems (2008),https://isis.poly.edu/~vikram/cooper.pdf,/u/flyingfisch,3
+0,2016-09-20 14:45:33 -0500,"/t/android,/t/security",Signal for Android Attachment Bug,https://www.whispersystems.org/blog/signal-android-attachment-bug/,/u/jabberwock,3
+2,2016-09-20 05:10:02 -0500,"/t/javascript,/t/web",Modernization of Reactivity,https://davidwalsh.name/modernization-reactivity,/u/alexkorban,6
+0,2016-09-20 20:44:01 -0500,/t/security,"Pre-Auth Remote Code Execution Vulnerability in Metasploit Community, Express and Pro 4.12",https://github.com/justinsteven/advisories/blob/master/2016_metasploit_rce_static_key_deserialization.md,/u/aleph,1
+0,2016-09-20 11:09:51 -0500,"/t/practices,/t/programming",An introduction to Sphinx and Read the Docs for Technical Writers,http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/,/u/quobit,4
+0,2016-09-20 05:38:52 -0500,"/t/video,/t/programming",Easy Solutions to Hard Problems (talk about Integer Linear Programming),https://www.youtube.com/watch?v=OkusHEBOhmQ,/u/DRMacIver,3
+10,2016-09-19 19:05:02 -0500,"/t/devops,/t/practices",Why Shopify Moved to The Production Engineering Model,http://engineering.shopify.com/why-shopify-moved-to-the-production-engineering-model,/u/joshuacc,10
+10,2016-09-19 08:48:44 -0500,"/t/c,/t/historical,/t/programming",The curious case of the switch statement,https://eev.ee/blog/2016/09/18/the-curious-case-of-the-switch-statement/,/u/calvin,32
+14,2016-09-19 10:25:12 -0500,/t/hardware,Why did the ESA choose SPARC for LEON? (2013),http://space.stackexchange.com/questions/729/why-did-the-esa-choose-sparc-for-leon,/u/chadski,19

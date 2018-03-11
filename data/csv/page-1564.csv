@@ -1,25 +1,25 @@
-3,2012-07-18 16:28:42 -0500,['/t/c'],goomwwm: X11 window manager implemented in C as a cleanroom software project,https://github.com/seanpringle/goomwwm,/u/sramov,4
-3,2012-07-18 15:40:58 -0500,['/t/privacy'],"YouTube: Face blurring, when footage requires anonymity",http://youtube-global.blogspot.com.ar/2012/07/face-blurring-when-footage-requires.html,/u/virtualroot,3
-2,2012-07-18 13:21:36 -0500,['/t/privacy'],Spy Games,https://www.eff.org/deeplinks/2012/07/spy-games,/u/jcs,4
-2,2012-07-18 16:31:40 -0500,['/t/c'],pixelclock: fork of jcs/pixelclock with EWMH hints and Xinerama/Xrandr checks,https://github.com/seanpringle/pixelclock,/u/sramov,3
-5,2012-07-18 13:59:21 -0500,"['/t/python', '/t/security', '/t/unix']","p, a simple password generator",http://sramov.sdf.org/p,/u/sramov,3
-1,2012-07-18 09:47:19 -0500,['/t/security'],Widespread Weak Keys in Network Devices,https://factorable.net/,/u/kyle,6
-0,2012-07-18 15:06:14 -0500,['/t/security'],German security experts find major flaw in credit card terminals,http://arstechnica.com/security/2012/07/german-security-experts-find-major-flaw-in-credit-card-terminals/,/u/wally,3
-0,2012-07-18 15:34:56 -0500,"['/t/c', '/t/security']",The scrypt key derivation function and encryption utility,http://www.tarsnap.com/scrypt.html,/u/sramov,2
-0,2012-07-18 12:46:36 -0500,['/t/event'],SysAdminDay 2012 Argentina,http://www.adminfest.com/,/u/virtualroot,2
-0,2012-07-18 12:50:06 -0500,['/t/linux'],Oracle Spreading FUD about CentOS,http://www.bashton.com/blog/2012/oracle-spreading-fud-about-centos/,/u/virtualroot,1
-0,2012-07-18 09:48:46 -0500,"['/t/hardware', '/t/news']",Robot swarms aim to bring buildings to life,http://www.bbc.com/future/story/20120717-bringing-buildings-to-life/,/u/kyle,1
-0,2012-07-17 23:58:05 -0500,['/t/security'],"C.Percival (author of Tarsnap) comments on ""Cyphertite is the most secure backup solution available""",http://www.reddit.com/comments/qy2n4/cyphertite_is_the_most_secure_privacy_driven/c5fgjik/,/u/virtualroot,2
-0,2012-07-17 16:17:43 -0500,"['/t/android', '/t/security']",Whisper Systems' RedPhone is now Open Source,http://www.whispersys.com/redphone-now-open-source.html,/u/jcs,4
-1,2012-07-17 10:39:56 -0500,['/t/linux'],"Oracle Announces ""Unbreakable Enterprise Kernel""",http://www.oracle.com/us/technologies/linux/ubreakable-enterprise-kernel-linux-173350.html,/u/crab,5
-0,2012-07-17 14:21:35 -0500,['/t/science'],Bionic nose comming to a face near you!,http://www.youtube.com/watch?v=IehKFdJN7Hw,/u/kusuriya,2
-0,2012-07-17 16:10:21 -0500,['/t/c'],Callbacks in C++ using template functors,http://www.tutok.sk/fastgl/callback.html,/u/mc,1
-0,2012-07-17 15:29:42 -0500,"['/t/android', '/t/security']",Android Security Overview,http://source.android.com/tech/security/,/u/lynge,1
-0,2012-07-17 10:28:00 -0500,['/t/privacy'],Schneier on Security: Remote Scanning Technology,http://www.schneier.com/blog/archives/2012/07/remote_scanning.html,/u/kyle,2
-0,2012-07-17 13:53:47 -0500,['/t/compsci'],"Information Theory, Pattern Recognition, and Neural Networks",http://www.inference.phy.cam.ac.uk/itprnn_lectures/,/u/kyle,1
-0,2012-07-16 23:52:48 -0500,['/t/vim'],Learn Shortcuts. Work Faster.,https://www.shortcutfoo.com/,/u/mc,5
-0,2012-07-17 06:18:55 -0500,['/t/science'],How much Force power can Yoda output?,http://what-if.xkcd.com/3/,/u/lynge,2
-0,2012-07-16 13:35:20 -0500,"['/t/android', '/t/security']",Exploit Mitigations in Android Jelly Bean 4.1,https://blog.duosecurity.com/2012/07/exploit-mitigations-in-android-jelly-bean-4-1/,/u/jcs,6
-0,2012-07-16 07:10:17 -0500,['/t/hardware'],Small Linux PCs overview,http://raymii.org/cms/p_Small_Linux_PCs_overview,/u/lynge,3
-0,2012-07-16 01:34:18 -0500,['/t/compsci'],How OS X Executes Applications,http://0xfe.blogspot.com/2006/03/how-os-x-executes-applications.html,/u/kyle,3
-0,2012-07-15 17:23:59 -0500,['/t/openbsd'],g2k12: OpenBSD hackathon II,https://www.poolp.org/0x3c37/g2k12:-OpenBSD-hackathon--part-II,/u/virtualroot,6
+3,2012-07-18 16:28:42 -0500,/t/c,goomwwm: X11 window manager implemented in C as a cleanroom software project,https://github.com/seanpringle/goomwwm,/u/sramov,4
+3,2012-07-18 15:40:58 -0500,/t/privacy,"YouTube: Face blurring, when footage requires anonymity",http://youtube-global.blogspot.com.ar/2012/07/face-blurring-when-footage-requires.html,/u/virtualroot,3
+2,2012-07-18 13:21:36 -0500,/t/privacy,Spy Games,https://www.eff.org/deeplinks/2012/07/spy-games,/u/jcs,4
+2,2012-07-18 16:31:40 -0500,/t/c,pixelclock: fork of jcs/pixelclock with EWMH hints and Xinerama/Xrandr checks,https://github.com/seanpringle/pixelclock,/u/sramov,3
+5,2012-07-18 13:59:21 -0500,"/t/python,/t/security,/t/unix","p, a simple password generator",http://sramov.sdf.org/p,/u/sramov,3
+1,2012-07-18 09:47:19 -0500,/t/security,Widespread Weak Keys in Network Devices,https://factorable.net/,/u/kyle,6
+0,2012-07-18 15:06:14 -0500,/t/security,German security experts find major flaw in credit card terminals,http://arstechnica.com/security/2012/07/german-security-experts-find-major-flaw-in-credit-card-terminals/,/u/wally,3
+0,2012-07-18 15:34:56 -0500,"/t/c,/t/security",The scrypt key derivation function and encryption utility,http://www.tarsnap.com/scrypt.html,/u/sramov,2
+0,2012-07-18 12:46:36 -0500,/t/event,SysAdminDay 2012 Argentina,http://www.adminfest.com/,/u/virtualroot,2
+0,2012-07-18 12:50:06 -0500,/t/linux,Oracle Spreading FUD about CentOS,http://www.bashton.com/blog/2012/oracle-spreading-fud-about-centos/,/u/virtualroot,1
+0,2012-07-18 09:48:46 -0500,"/t/hardware,/t/news",Robot swarms aim to bring buildings to life,http://www.bbc.com/future/story/20120717-bringing-buildings-to-life/,/u/kyle,1
+0,2012-07-17 23:58:05 -0500,/t/security,"C.Percival (author of Tarsnap) comments on ""Cyphertite is the most secure backup solution available""",http://www.reddit.com/comments/qy2n4/cyphertite_is_the_most_secure_privacy_driven/c5fgjik/,/u/virtualroot,2
+0,2012-07-17 16:17:43 -0500,"/t/android,/t/security",Whisper Systems' RedPhone is now Open Source,http://www.whispersys.com/redphone-now-open-source.html,/u/jcs,4
+1,2012-07-17 10:39:56 -0500,/t/linux,"Oracle Announces ""Unbreakable Enterprise Kernel""",http://www.oracle.com/us/technologies/linux/ubreakable-enterprise-kernel-linux-173350.html,/u/crab,5
+0,2012-07-17 14:21:35 -0500,/t/science,Bionic nose comming to a face near you!,http://www.youtube.com/watch?v=IehKFdJN7Hw,/u/kusuriya,2
+0,2012-07-17 16:10:21 -0500,/t/c,Callbacks in C++ using template functors,http://www.tutok.sk/fastgl/callback.html,/u/mc,1
+0,2012-07-17 15:29:42 -0500,"/t/android,/t/security",Android Security Overview,http://source.android.com/tech/security/,/u/lynge,1
+0,2012-07-17 10:28:00 -0500,/t/privacy,Schneier on Security: Remote Scanning Technology,http://www.schneier.com/blog/archives/2012/07/remote_scanning.html,/u/kyle,2
+0,2012-07-17 13:53:47 -0500,/t/compsci,"Information Theory, Pattern Recognition, and Neural Networks",http://www.inference.phy.cam.ac.uk/itprnn_lectures/,/u/kyle,1
+0,2012-07-16 23:52:48 -0500,/t/vim,Learn Shortcuts. Work Faster.,https://www.shortcutfoo.com/,/u/mc,5
+0,2012-07-17 06:18:55 -0500,/t/science,How much Force power can Yoda output?,http://what-if.xkcd.com/3/,/u/lynge,2
+0,2012-07-16 13:35:20 -0500,"/t/android,/t/security",Exploit Mitigations in Android Jelly Bean 4.1,https://blog.duosecurity.com/2012/07/exploit-mitigations-in-android-jelly-bean-4-1/,/u/jcs,6
+0,2012-07-16 07:10:17 -0500,/t/hardware,Small Linux PCs overview,http://raymii.org/cms/p_Small_Linux_PCs_overview,/u/lynge,3
+0,2012-07-16 01:34:18 -0500,/t/compsci,How OS X Executes Applications,http://0xfe.blogspot.com/2006/03/how-os-x-executes-applications.html,/u/kyle,3
+0,2012-07-15 17:23:59 -0500,/t/openbsd,g2k12: OpenBSD hackathon II,https://www.poolp.org/0x3c37/g2k12:-OpenBSD-hackathon--part-II,/u/virtualroot,6

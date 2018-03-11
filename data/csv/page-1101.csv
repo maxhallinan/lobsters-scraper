@@ -1,25 +1,25 @@
-0,2015-05-22 15:03:02 -0500,['/t/compsci'],Developing Provably-Correct Software Using Formal Methods,http://www.infoq.com/news/2015/05/provably-correct-software,/u/craigstuntz,5
-0,2015-05-22 16:39:14 -0500,"['/t/show', '/t/meta']",Userscript to hide/show child comments on Lobste.rs,https://bitbucket.org/stupermundi/lobste.rs-comment-hider/downloads/hiding-lobsters.user.js,/u/noelle,8
-0,2015-05-22 09:50:29 -0500,['/t/go'],Struct composition with Go,http://dave.cheney.net/2015/05/22/struct-composition-with-go,/u/nexneo,9
-0,2015-05-22 09:42:15 -0500,['/t/rust'],Generating Rust Bindings for Embedded Libraries,http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/,/u/englishm,8
-0,2015-05-22 12:49:08 -0500,['/t/programming'],Special Case Considered Harmful,http://theprogrammersparadox.blogspot.com/2015/04/special-case-considered-harmful.html,/u/adsouza,4
-0,2015-05-22 15:01:41 -0500,"['/t/pdf', '/t/security']","LangSec: Recognition, Validation, and Compositional Correctness for Real World Security",http://langsec.org/bof-handout.pdf,/u/craigstuntz,2
-11,2015-05-21 09:37:58 -0500,['/t/ml'],"OCaml 4.03 will, ""if all goes well"", support multicore.",https://sympa.inria.fr/sympa/arc/caml-list/2015-05/msg00034.html,/u/wting,31
-0,2015-05-22 08:46:29 -0500,"['/t/databases', '/t/programming']","What I learned working with Hadoop, HBase and HyperLogLog",http://datadigger.tumblr.com/post/119548755961/what-i-learned-working-with-hadoop-hbase-and,/u/ludflu,3
-5,2015-05-21 10:35:17 -0500,['/t/practices'],Brainstorming Does Not Work,http://observer.com/2015/05/brainstorming-does-not-work/,/u/journeysquid,19
-2,2015-05-21 16:29:25 -0500,['/t/programming'],Design Principles and Goals (Part 2) - A Trip Back to OO,http://dev.theladders.com/2015/05/design-principles-and-goals-a-trip-back-to-oo/,/u/SeanTAllen,10
-2,2015-05-21 17:38:42 -0500,"['/t/networking', '/t/privacy']",OnionShare,https://onionshare.org/,/u/jcs,10
-0,2015-05-21 09:43:09 -0500,['/t/elixir'],"Reducees: Elixir's abstraction for eager or lazy operations, in-memory or I/O",http://blog.plataformatec.com.br/2015/05/introducing-reducees/,/u/kGb8RNFtg6,20
-0,2015-05-21 08:29:41 -0500,['/t/c'],"Why should I have written ZeroMQ in C, not C++ (part I)",http://250bpm.com/blog:4,/u/Mordo,17
-0,2015-05-21 12:31:12 -0500,"['/t/linux', '/t/virtualization']","Announcing qboot, a minimal x86 firmware for QEMU",https://lwn.net/Articles/645455/,/u/jcs,11
-2,2015-05-21 07:35:35 -0500,"['/t/ml', '/t/programming']",Effective Concurrency with Algebraic Effects (multicore OCaml),http://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/,/u/tizoc,8
-0,2015-05-21 14:33:39 -0500,"['/t/pdf', '/t/android', '/t/security']",Security Analysis of Android Factory Resets,http://www.cl.cam.ac.uk/~rja14/Papers/fr_most15.pdf,/u/kyle,4
-27,2015-05-20 11:55:15 -0500,['/t/go'],"Go Is Unapologetically Flawed, Here's Why We Use It",http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/,/u/tylertreat,35
-0,2015-05-21 19:08:24 -0500,"['/t/pdf', '/t/ios', '/t/security']",iOS security guide (8.3),https://www.apple.com/business/docs/iOS_Security_Guide.pdf,/u/calvin,1
-1,2015-05-21 01:51:32 -0500,"['/t/networking', '/t/unix']",What's wrong with pcap filters?,https://www.snellman.net/blog/archive/2015-05-18-whats-wrong-with-pcap-filters/,/u/antifuchs,9
-0,2015-05-21 06:12:52 -0500,"['/t/javascript', '/t/web']",Choose ES6 modules Today!,http://developer.telerik.com/featured/choose-es6-modules-today/,/u/remotesynth,6
-0,2015-05-21 11:26:21 -0500,"['/t/design', '/t/web']",Far From Finished,http://www.lacroixdesign.net/blog/far-from-finished/,/u/lacroixdesign,3
-0,2015-05-21 11:06:48 -0500,['/t/scala'],First experiments with Apache Spark at Snowplow,http://snowplowanalytics.com/blog/2015/05/21/first-experiments-with-apache-spark/,/u/alexdean,3
-0,2015-05-21 12:59:38 -0500,"['/t/math', '/t/programming']","""Roughnums"" in pyret",http://www.pyret.org/docs/latest/numbers.html,/u/zem,2
-1,2015-05-20 23:53:25 -0500,['/t/visualization'],MBTA and Twitter sentiment,http://blog.mollywhite.net/mbta-and-twitter-sentiment/,/u/stip,7
-0,2015-05-20 20:05:31 -0500,"['/t/c', '/t/haskell']",Call C functions from Haskell without bindings,https://www.fpcomplete.com/blog/2015/05/inline-c,/u/pushcx,11
+0,2015-05-22 15:03:02 -0500,/t/compsci,Developing Provably-Correct Software Using Formal Methods,http://www.infoq.com/news/2015/05/provably-correct-software,/u/craigstuntz,5
+0,2015-05-22 16:39:14 -0500,"/t/show,/t/meta",Userscript to hide/show child comments on Lobste.rs,https://bitbucket.org/stupermundi/lobste.rs-comment-hider/downloads/hiding-lobsters.user.js,/u/noelle,8
+0,2015-05-22 09:50:29 -0500,/t/go,Struct composition with Go,http://dave.cheney.net/2015/05/22/struct-composition-with-go,/u/nexneo,9
+0,2015-05-22 09:42:15 -0500,/t/rust,Generating Rust Bindings for Embedded Libraries,http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/,/u/englishm,8
+0,2015-05-22 12:49:08 -0500,/t/programming,Special Case Considered Harmful,http://theprogrammersparadox.blogspot.com/2015/04/special-case-considered-harmful.html,/u/adsouza,4
+0,2015-05-22 15:01:41 -0500,"/t/pdf,/t/security","LangSec: Recognition, Validation, and Compositional Correctness for Real World Security",http://langsec.org/bof-handout.pdf,/u/craigstuntz,2
+11,2015-05-21 09:37:58 -0500,/t/ml,"OCaml 4.03 will, ""if all goes well"", support multicore.",https://sympa.inria.fr/sympa/arc/caml-list/2015-05/msg00034.html,/u/wting,31
+0,2015-05-22 08:46:29 -0500,"/t/databases,/t/programming","What I learned working with Hadoop, HBase and HyperLogLog",http://datadigger.tumblr.com/post/119548755961/what-i-learned-working-with-hadoop-hbase-and,/u/ludflu,3
+5,2015-05-21 10:35:17 -0500,/t/practices,Brainstorming Does Not Work,http://observer.com/2015/05/brainstorming-does-not-work/,/u/journeysquid,19
+2,2015-05-21 16:29:25 -0500,/t/programming,Design Principles and Goals (Part 2) - A Trip Back to OO,http://dev.theladders.com/2015/05/design-principles-and-goals-a-trip-back-to-oo/,/u/SeanTAllen,10
+2,2015-05-21 17:38:42 -0500,"/t/networking,/t/privacy",OnionShare,https://onionshare.org/,/u/jcs,10
+0,2015-05-21 09:43:09 -0500,/t/elixir,"Reducees: Elixir's abstraction for eager or lazy operations, in-memory or I/O",http://blog.plataformatec.com.br/2015/05/introducing-reducees/,/u/kGb8RNFtg6,20
+0,2015-05-21 08:29:41 -0500,/t/c,"Why should I have written ZeroMQ in C, not C++ (part I)",http://250bpm.com/blog:4,/u/Mordo,17
+0,2015-05-21 12:31:12 -0500,"/t/linux,/t/virtualization","Announcing qboot, a minimal x86 firmware for QEMU",https://lwn.net/Articles/645455/,/u/jcs,11
+2,2015-05-21 07:35:35 -0500,"/t/ml,/t/programming",Effective Concurrency with Algebraic Effects (multicore OCaml),http://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/,/u/tizoc,8
+0,2015-05-21 14:33:39 -0500,"/t/pdf,/t/android,/t/security",Security Analysis of Android Factory Resets,http://www.cl.cam.ac.uk/~rja14/Papers/fr_most15.pdf,/u/kyle,4
+27,2015-05-20 11:55:15 -0500,/t/go,"Go Is Unapologetically Flawed, Here's Why We Use It",http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/,/u/tylertreat,35
+0,2015-05-21 19:08:24 -0500,"/t/pdf,/t/ios,/t/security",iOS security guide (8.3),https://www.apple.com/business/docs/iOS_Security_Guide.pdf,/u/calvin,1
+1,2015-05-21 01:51:32 -0500,"/t/networking,/t/unix",What's wrong with pcap filters?,https://www.snellman.net/blog/archive/2015-05-18-whats-wrong-with-pcap-filters/,/u/antifuchs,9
+0,2015-05-21 06:12:52 -0500,"/t/javascript,/t/web",Choose ES6 modules Today!,http://developer.telerik.com/featured/choose-es6-modules-today/,/u/remotesynth,6
+0,2015-05-21 11:26:21 -0500,"/t/design,/t/web",Far From Finished,http://www.lacroixdesign.net/blog/far-from-finished/,/u/lacroixdesign,3
+0,2015-05-21 11:06:48 -0500,/t/scala,First experiments with Apache Spark at Snowplow,http://snowplowanalytics.com/blog/2015/05/21/first-experiments-with-apache-spark/,/u/alexdean,3
+0,2015-05-21 12:59:38 -0500,"/t/math,/t/programming","""Roughnums"" in pyret",http://www.pyret.org/docs/latest/numbers.html,/u/zem,2
+1,2015-05-20 23:53:25 -0500,/t/visualization,MBTA and Twitter sentiment,http://blog.mollywhite.net/mbta-and-twitter-sentiment/,/u/stip,7
+0,2015-05-20 20:05:31 -0500,"/t/c,/t/haskell",Call C functions from Haskell without bindings,https://www.fpcomplete.com/blog/2015/05/inline-c,/u/pushcx,11

@@ -1,25 +1,25 @@
-11,2018-03-03 20:54:02 -0600,"['/t/lisp', '/t/programming']","Pierre Menard, Inventor of LISP",https://medium.com/@old_sound/pierre-menard-inventor-of-lisp-5ddc12c1363e,/u/Yogthos,18
-0,2018-03-04 11:48:58 -0600,"['/t/python', '/t/web']","Web application from scratch, Part II",https://defn.io/2018/03/04/web-app-from-scratch-02/,/u/bogdan,3
-5,2018-03-03 12:47:37 -0600,"['/t/compilers', '/t/lisp', '/t/lua']",The how and why of the Fennel compiler,https://technomancy.us/186,/u/technomancy,27
-13,2018-03-04 08:51:53 -0600,"['/t/pdf', '/t/c', '/t/formalmethods']",How to Get an Efficient yet Verified Arbitrary-Precision Integer Library (2017),https://hal.inria.fr/hal-01519732/file/main.pdf,/u/nickpsecurity,3
-1,2018-03-04 06:57:55 -0600,['/t/practices'],The Journalist-Engineer (2015),https://medium.com/@matthew_daniels/the-journalist-engineer-c9c1a72b993f,/u/maxhallinan,6
-0,2018-03-04 10:06:40 -0600,"['/t/programming', '/t/python']",Removing polling checks in guitktk,http://blog.asrpo.com/removing_polling,/u/asrp,2
-2,2018-03-04 08:36:58 -0600,"['/t/video', '/t/games', '/t/graphics', '/t/math']",Wolfenstein 3D's map renderer,https://www.youtube.com/watch?v=eOCQfxRQ2pY,/u/jakob,4
-16,2018-03-03 18:03:38 -0600,['/t/elm'],Do we need to move away from Elm?,https://www.reddit.com/r/elm/comments/81bo14/do_we_need_to_move_away_from_elm/,/u/zpojqwfejwfhiunz,12
-6,2018-03-03 10:31:10 -0600,['/t/programming'],"Nim v0.18.0: formatted string literals, testable documentation examples and hundreds of bug fixes",https://nim-lang.org/blog/2018/03/01/version-0180-released.html?ref=lrs,/u/dom,18
-0,2018-03-04 01:32:33 -0600,"['/t/browsers', '/t/javascript', '/t/testing']",Suspending the development of phantomjs,https://github.com/ariya/phantomjs/issues/15344,/u/freddyb,10
-0,2018-03-04 02:32:27 -0600,"['/t/compilers', '/t/programming', '/t/python', '/t/unix']",Building Oil with the OPy Bytecode Compiler,http://www.oilshell.org/blog/2018/03/04.html,/u/andyc,4
-1,2018-03-03 18:54:25 -0600,"['/t/job', '/t/philosophy', '/t/practices']",When is a senior engineer not a senior engineer?,http://www.mooreds.com/wordpress/archives/2812,/u/goncalo,11
-0,2018-03-04 09:05:24 -0600,"['/t/pdf', '/t/slides', '/t/c', '/t/formalmethods']",Formal Verification of C Programs with Floating-Point Computations (2016),https://cps-vo.org/file/24497/download/78851,/u/nickpsecurity,2
-0,2018-03-04 03:00:31 -0600,"['/t/mac', '/t/security']",CVE-2017-13868: A fun XNU infoleak,https://bazad.github.io/2018/03/a-fun-xnu-infoleak/,/u/jabberwock,4
-0,2018-03-03 11:19:46 -0600,"['/t/assembly', '/t/c', '/t/reversing', '/t/security']",An Intro to 64-bit Intel Reverse Engineering,https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/,/u/LeoLambda,13
-0,2018-03-04 10:22:10 -0600,"['/t/video', '/t/hardware']",SunTrek Starring Kevin Pollak,https://vimeo.com/173781517,/u/mhausenblas,1
-0,2018-03-03 15:28:08 -0600,"['/t/games', '/t/graphics']",Deconstructing the water effect in Super Mario Sunshine,http://blog.mecheye.net/2018/03/deconstructing-the-water-effect-in-super-mario-sunshine/,/u/soulcutter,13
-3,2018-03-03 04:12:14 -0600,"['/t/linux', '/t/programming', '/t/unix']",Creating a bash completion script,https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html,/u/iridakos,19
-9,2018-03-03 02:44:40 -0600,['/t/programming'],"""APL follows a set of practices that directly contradict traditional programming wisdom"" [slides]",https://sway.com/b1pRwmzuGjqB30On,/u/akkartik,22
-1,2018-03-03 12:52:38 -0600,['/t/unix'],wmutils - a unix style approach to window management,https://github.com/wmutils,/u/zge,12
-2,2018-03-03 06:22:17 -0600,['/t/java'],JDK 10 brings local type inference with var keyword,http://benjiweber.co.uk/blog/2018/03/03/representing-the-impractical-and-impossible-with-jdk-10-var/,/u/magikid,20
-2,2018-03-03 11:38:02 -0600,['/t/design'],You can now upload 3D models to Wikimedia Commons,https://blog.wikimedia.org/2018/02/20/three-dimensional-models/,/u/pizzaiolo,10
-8,2018-03-03 11:25:35 -0600,"['/t/culture', '/t/distributed']",Twitter is not a public utility,https://medium.com/@Gargron/twitter-is-not-a-public-utility-2bc49567152b,/u/nolan,21
-0,2018-03-03 20:39:15 -0600,"['/t/clojure', '/t/elixir']",Macros in Elixir and Clojure,https://rockyj.in/2018/03/03/macros_elixir_clojure.html,/u/calvin,2
-0,2018-03-03 13:27:43 -0600,['/t/historical'],Restoring the original source code for FORTH on the IBM 1130,http://rescue1130.blogspot.com/2018/03/restoring-original-source-code-for.html,/u/kencausey,4
+11,2018-03-03 20:54:02 -0600,"/t/lisp,/t/programming","Pierre Menard, Inventor of LISP",https://medium.com/@old_sound/pierre-menard-inventor-of-lisp-5ddc12c1363e,/u/Yogthos,18
+0,2018-03-04 11:48:58 -0600,"/t/python,/t/web","Web application from scratch, Part II",https://defn.io/2018/03/04/web-app-from-scratch-02/,/u/bogdan,3
+5,2018-03-03 12:47:37 -0600,"/t/compilers,/t/lisp,/t/lua",The how and why of the Fennel compiler,https://technomancy.us/186,/u/technomancy,27
+13,2018-03-04 08:51:53 -0600,"/t/pdf,/t/c,/t/formalmethods",How to Get an Efficient yet Verified Arbitrary-Precision Integer Library (2017),https://hal.inria.fr/hal-01519732/file/main.pdf,/u/nickpsecurity,3
+1,2018-03-04 06:57:55 -0600,/t/practices,The Journalist-Engineer (2015),https://medium.com/@matthew_daniels/the-journalist-engineer-c9c1a72b993f,/u/maxhallinan,6
+0,2018-03-04 10:06:40 -0600,"/t/programming,/t/python",Removing polling checks in guitktk,http://blog.asrpo.com/removing_polling,/u/asrp,2
+2,2018-03-04 08:36:58 -0600,"/t/video,/t/games,/t/graphics,/t/math",Wolfenstein 3D's map renderer,https://www.youtube.com/watch?v=eOCQfxRQ2pY,/u/jakob,4
+16,2018-03-03 18:03:38 -0600,/t/elm,Do we need to move away from Elm?,https://www.reddit.com/r/elm/comments/81bo14/do_we_need_to_move_away_from_elm/,/u/zpojqwfejwfhiunz,12
+6,2018-03-03 10:31:10 -0600,/t/programming,"Nim v0.18.0: formatted string literals, testable documentation examples and hundreds of bug fixes",https://nim-lang.org/blog/2018/03/01/version-0180-released.html?ref=lrs,/u/dom,18
+0,2018-03-04 01:32:33 -0600,"/t/browsers,/t/javascript,/t/testing",Suspending the development of phantomjs,https://github.com/ariya/phantomjs/issues/15344,/u/freddyb,10
+0,2018-03-04 02:32:27 -0600,"/t/compilers,/t/programming,/t/python,/t/unix",Building Oil with the OPy Bytecode Compiler,http://www.oilshell.org/blog/2018/03/04.html,/u/andyc,4
+1,2018-03-03 18:54:25 -0600,"/t/job,/t/philosophy,/t/practices",When is a senior engineer not a senior engineer?,http://www.mooreds.com/wordpress/archives/2812,/u/goncalo,11
+0,2018-03-04 09:05:24 -0600,"/t/pdf,/t/slides,/t/c,/t/formalmethods",Formal Verification of C Programs with Floating-Point Computations (2016),https://cps-vo.org/file/24497/download/78851,/u/nickpsecurity,2
+0,2018-03-04 03:00:31 -0600,"/t/mac,/t/security",CVE-2017-13868: A fun XNU infoleak,https://bazad.github.io/2018/03/a-fun-xnu-infoleak/,/u/jabberwock,4
+0,2018-03-03 11:19:46 -0600,"/t/assembly,/t/c,/t/reversing,/t/security",An Intro to 64-bit Intel Reverse Engineering,https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/,/u/LeoLambda,13
+0,2018-03-04 10:22:10 -0600,"/t/video,/t/hardware",SunTrek Starring Kevin Pollak,https://vimeo.com/173781517,/u/mhausenblas,1
+0,2018-03-03 15:28:08 -0600,"/t/games,/t/graphics",Deconstructing the water effect in Super Mario Sunshine,http://blog.mecheye.net/2018/03/deconstructing-the-water-effect-in-super-mario-sunshine/,/u/soulcutter,13
+3,2018-03-03 04:12:14 -0600,"/t/linux,/t/programming,/t/unix",Creating a bash completion script,https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html,/u/iridakos,19
+9,2018-03-03 02:44:40 -0600,/t/programming,"""APL follows a set of practices that directly contradict traditional programming wisdom"" [slides]",https://sway.com/b1pRwmzuGjqB30On,/u/akkartik,22
+1,2018-03-03 12:52:38 -0600,/t/unix,wmutils - a unix style approach to window management,https://github.com/wmutils,/u/zge,12
+2,2018-03-03 06:22:17 -0600,/t/java,JDK 10 brings local type inference with var keyword,http://benjiweber.co.uk/blog/2018/03/03/representing-the-impractical-and-impossible-with-jdk-10-var/,/u/magikid,20
+2,2018-03-03 11:38:02 -0600,/t/design,You can now upload 3D models to Wikimedia Commons,https://blog.wikimedia.org/2018/02/20/three-dimensional-models/,/u/pizzaiolo,10
+8,2018-03-03 11:25:35 -0600,"/t/culture,/t/distributed",Twitter is not a public utility,https://medium.com/@Gargron/twitter-is-not-a-public-utility-2bc49567152b,/u/nolan,21
+0,2018-03-03 20:39:15 -0600,"/t/clojure,/t/elixir",Macros in Elixir and Clojure,https://rockyj.in/2018/03/03/macros_elixir_clojure.html,/u/calvin,2
+0,2018-03-03 13:27:43 -0600,/t/historical,Restoring the original source code for FORTH on the IBM 1130,http://rescue1130.blogspot.com/2018/03/restoring-original-source-code-for.html,/u/kencausey,4

@@ -1,25 +1,25 @@
-3,2016-08-19 23:43:03 -0500,"['/t/browsers', '/t/windows']",Microsoft wants to pay you to use its Windows 10 browser Edge,https://www.theguardian.com/technology/2016/aug/19/microsoft-windows-10-browser-edge-pay-users-bing,/u/cmm,3
-0,2016-08-20 05:08:29 -0500,"['/t/release', '/t/reversing']",Reverse-Engineered GEOS 2.0 for C64 Source Code,http://www.pagetable.com/?p=869,/u/355E3B,3
-3,2016-08-19 16:39:43 -0500,"['/t/historical', '/t/release']",Whatever Happened to Wordstar?,http://www.dvorak.org/blog/whatever-happened-to-wordstar-2/,/u/majjoha,10
-1,2016-08-19 16:19:15 -0500,"['/t/show', '/t/networking', '/t/python']",Ohne I/O: A Python 3.5 protocol parsing library without any I/O,https://github.com/acatton/ohneio,/u/acatton,6
-4,2016-08-19 10:06:48 -0500,"['/t/erlang', '/t/programming']",How to make an efficient payment system in Erlang,https://joearms.github.io/2016/08/08/Draft-Payment-System-in-Erlang.html,/u/unbalancedparentheses,18
-2,2016-08-19 10:20:09 -0500,['/t/programming'],On Doing It Yourself - With A Response From Alan Kay,https://www.promptworks.com/blog/on-doing-it-yourself,/u/promptworks,16
-0,2016-08-19 21:39:10 -0500,"['/t/reversing', '/t/security']",Multiple Vulnerabilities in BHU WiFi “uRouter”,http://blog.ioactive.com/2016/08/multiple-vulnerabilities-in-bhu-wifi.html,/u/calvin,5
-11,2016-08-19 00:34:51 -0500,['/t/release'],mutt 1.7.0 released,http://marc.info/?l=mutt-users&m=147154326009383,/u/natano,20
-7,2016-08-19 00:09:50 -0500,"['/t/linux', '/t/mac']",Removing the PowerShell curl alias?,https://daniel.haxx.se/blog/2016/08/19/removing-the-powershell-curl-alias/,/u/lynge,15
-0,2016-08-19 16:03:34 -0500,"['/t/video', '/t/math', '/t/release']",SageMath -- Open source is ready to compete with Mathematica for use in the classroom,https://www.youtube.com/watch?v=AEKOjac9obk,/u/ngoldbaum,4
-0,2016-08-19 10:23:41 -0500,"['/t/video', '/t/graphics']",Interactive Dynamic Video,https://www.youtube.com/watch?v=4f09VdXex3A,/u/pwatsonwailes,8
-0,2016-08-19 10:50:46 -0500,['/t/compsci'],How to implement an algorithm from a scientific paper,http://codecapsule.com/2012/01/18/how-to-implement-a-paper/,/u/goncalo,7
-1,2016-08-19 09:36:28 -0500,['/t/finance'],How Lending Club’s Biggest Fanboy Uncovered Shady Loans,http://www.bloomberg.com/news/features/2016-08-18/how-lending-club-s-biggest-fanboy-uncovered-shady-loans,/u/pushcx,4
-13,2016-08-18 18:25:11 -0500,['/t/security'],The Shadow Brokers Mess Is What Happens When the NSA Hoards Zero-Days,https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zero-days/,/u/adsouza,18
-3,2016-08-19 01:05:48 -0500,['/t/programming'],A few cores too many,http://prl.ccs.neu.edu/blog/2016/08/03/a-few-cores-too-many/,/u/unbalancedparentheses,8
-0,2016-08-19 09:34:29 -0500,['/t/php'],PHP - The Wrong Way,http://www.phpthewrongway.com/,/u/pushcx,5
-18,2016-08-18 10:44:08 -0500,"['/t/linux', '/t/mac', '/t/release']",PowerShell - Linux / OSX binaries + source,https://github.com/PowerShell/PowerShell,/u/355E3B,31
-1,2016-08-19 12:59:45 -0500,['/t/ask'],Which technology to learn?,/s/7tzqqv/which_technology_learn,/u/lormayna,2
-0,2016-08-18 23:09:30 -0500,"['/t/dotnet', '/t/programming']",F# for Fun and Profit,https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details,/u/unbalancedparentheses,16
-3,2016-08-18 18:48:52 -0500,['/t/databases'],Actually Understanding Timezones in PostgreSQL,http://blog.untrod.com/2016/08/actually-understanding-timezones-in-postgresql.html,/u/pushcx,15
-15,2016-08-18 13:12:28 -0500,"['/t/practices', '/t/python']",Python Packaging Is Good Now,https://glyph.twistedmatrix.com/2016/08/python-packaging.html,/u/quobit,19
-8,2016-08-18 08:22:14 -0500,"['/t/networking', '/t/practices']",The Cuban CDN,http://blog.cloudflare.com/the-cuban-cdn/,/u/sevan,38
-1,2016-08-19 03:02:24 -0500,"['/t/api', '/t/games', '/t/javascript', '/t/programming', '/t/web']",Making a 3D game in browser in a few easy steps - DZone Web Dev,https://dzone.com/articles/developing-a-street-basketball-game-part-ll-throw,/u/alex2401,2
-3,2016-08-18 13:36:17 -0500,"['/t/release', '/t/vcs']",GitHub Pages now supports publishing directly from /docs folder in the master branch,https://github.com/blog/2228-simpler-github-pages-publishing,/u/nc,20
-0,2016-08-18 19:49:47 -0500,"['/t/erlang', '/t/programming']",Prod-to-dev with Mnesia,http://blog.ikura.co/posts/prod-to-dev-with-mnesia.html,/u/nato,7
+3,2016-08-19 23:43:03 -0500,"/t/browsers,/t/windows",Microsoft wants to pay you to use its Windows 10 browser Edge,https://www.theguardian.com/technology/2016/aug/19/microsoft-windows-10-browser-edge-pay-users-bing,/u/cmm,3
+0,2016-08-20 05:08:29 -0500,"/t/release,/t/reversing",Reverse-Engineered GEOS 2.0 for C64 Source Code,http://www.pagetable.com/?p=869,/u/355E3B,3
+3,2016-08-19 16:39:43 -0500,"/t/historical,/t/release",Whatever Happened to Wordstar?,http://www.dvorak.org/blog/whatever-happened-to-wordstar-2/,/u/majjoha,10
+1,2016-08-19 16:19:15 -0500,"/t/show,/t/networking,/t/python",Ohne I/O: A Python 3.5 protocol parsing library without any I/O,https://github.com/acatton/ohneio,/u/acatton,6
+4,2016-08-19 10:06:48 -0500,"/t/erlang,/t/programming",How to make an efficient payment system in Erlang,https://joearms.github.io/2016/08/08/Draft-Payment-System-in-Erlang.html,/u/unbalancedparentheses,18
+2,2016-08-19 10:20:09 -0500,/t/programming,On Doing It Yourself - With A Response From Alan Kay,https://www.promptworks.com/blog/on-doing-it-yourself,/u/promptworks,16
+0,2016-08-19 21:39:10 -0500,"/t/reversing,/t/security",Multiple Vulnerabilities in BHU WiFi “uRouter”,http://blog.ioactive.com/2016/08/multiple-vulnerabilities-in-bhu-wifi.html,/u/calvin,5
+11,2016-08-19 00:34:51 -0500,/t/release,mutt 1.7.0 released,http://marc.info/?l=mutt-users&m=147154326009383,/u/natano,20
+7,2016-08-19 00:09:50 -0500,"/t/linux,/t/mac",Removing the PowerShell curl alias?,https://daniel.haxx.se/blog/2016/08/19/removing-the-powershell-curl-alias/,/u/lynge,15
+0,2016-08-19 16:03:34 -0500,"/t/video,/t/math,/t/release",SageMath -- Open source is ready to compete with Mathematica for use in the classroom,https://www.youtube.com/watch?v=AEKOjac9obk,/u/ngoldbaum,4
+0,2016-08-19 10:23:41 -0500,"/t/video,/t/graphics",Interactive Dynamic Video,https://www.youtube.com/watch?v=4f09VdXex3A,/u/pwatsonwailes,8
+0,2016-08-19 10:50:46 -0500,/t/compsci,How to implement an algorithm from a scientific paper,http://codecapsule.com/2012/01/18/how-to-implement-a-paper/,/u/goncalo,7
+1,2016-08-19 09:36:28 -0500,/t/finance,How Lending Club’s Biggest Fanboy Uncovered Shady Loans,http://www.bloomberg.com/news/features/2016-08-18/how-lending-club-s-biggest-fanboy-uncovered-shady-loans,/u/pushcx,4
+13,2016-08-18 18:25:11 -0500,/t/security,The Shadow Brokers Mess Is What Happens When the NSA Hoards Zero-Days,https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zero-days/,/u/adsouza,18
+3,2016-08-19 01:05:48 -0500,/t/programming,A few cores too many,http://prl.ccs.neu.edu/blog/2016/08/03/a-few-cores-too-many/,/u/unbalancedparentheses,8
+0,2016-08-19 09:34:29 -0500,/t/php,PHP - The Wrong Way,http://www.phpthewrongway.com/,/u/pushcx,5
+18,2016-08-18 10:44:08 -0500,"/t/linux,/t/mac,/t/release",PowerShell - Linux / OSX binaries + source,https://github.com/PowerShell/PowerShell,/u/355E3B,31
+1,2016-08-19 12:59:45 -0500,/t/ask,Which technology to learn?,/s/7tzqqv/which_technology_learn,/u/lormayna,2
+0,2016-08-18 23:09:30 -0500,"/t/dotnet,/t/programming",F# for Fun and Profit,https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details,/u/unbalancedparentheses,16
+3,2016-08-18 18:48:52 -0500,/t/databases,Actually Understanding Timezones in PostgreSQL,http://blog.untrod.com/2016/08/actually-understanding-timezones-in-postgresql.html,/u/pushcx,15
+15,2016-08-18 13:12:28 -0500,"/t/practices,/t/python",Python Packaging Is Good Now,https://glyph.twistedmatrix.com/2016/08/python-packaging.html,/u/quobit,19
+8,2016-08-18 08:22:14 -0500,"/t/networking,/t/practices",The Cuban CDN,http://blog.cloudflare.com/the-cuban-cdn/,/u/sevan,38
+1,2016-08-19 03:02:24 -0500,"/t/api,/t/games,/t/javascript,/t/programming,/t/web",Making a 3D game in browser in a few easy steps - DZone Web Dev,https://dzone.com/articles/developing-a-street-basketball-game-part-ll-throw,/u/alex2401,2
+3,2016-08-18 13:36:17 -0500,"/t/release,/t/vcs",GitHub Pages now supports publishing directly from /docs folder in the master branch,https://github.com/blog/2228-simpler-github-pages-publishing,/u/nc,20
+0,2016-08-18 19:49:47 -0500,"/t/erlang,/t/programming",Prod-to-dev with Mnesia,http://blog.ikura.co/posts/prod-to-dev-with-mnesia.html,/u/nato,7

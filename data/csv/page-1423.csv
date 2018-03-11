@@ -1,25 +1,25 @@
-0,2013-12-21 00:43:58 -0600,"['/t/video', '/t/openbsd', '/t/person']",BSDNow Interview With Damien Miller (OpenSSH),http://www.bsdnow.tv/episodes/2013_12_18-cryptocrystalline,/u/jcr,6
-2,2013-12-20 22:36:52 -0600,['/t/security'],An update on Truecrypt,http://blog.cryptographyengineering.com/2013/12/an-update-on-truecrypt.html,/u/kyle,3
-0,2013-12-21 13:04:10 -0600,['/t/news'],"Protesters vandalize Google bus, block Apple shuttle",http://www.usatoday.com/story/tech/2013/12/20/san-francisco-tech-shuttle-buses-blocked/4147335/,/u/journeysquid,0
-0,2013-12-20 22:36:10 -0600,"['/t/browsers', '/t/security']",Browser Extension Password Managers,http://isecpartners.github.io/whitepapers/passwords/2013/11/05/Browser-Extension-Password-Managers.html,/u/kyle,3
-0,2013-12-20 22:37:06 -0600,"['/t/video', '/t/compsci']",Introduction to Multi-core - Architecture of Modern Multi-Core Node,http://www.youtube.com/watch?v=crZwPhNjNiU,/u/SeanTAllen,2
-0,2013-12-20 07:00:44 -0600,['/t/databases'],BayesDB,http://probcomp.csail.mit.edu/bayesdb/,/u/SeanTAllen,11
-0,2013-12-20 16:36:17 -0600,['/t/security'],"Hacking Medical Devices: How Secure Are They, Really?",http://www.additiveanalytics.com/blog/hacking-medical-devices-how-secure-are-they/,/u/laura,3
-1,2013-12-20 12:11:51 -0600,['/t/compsci'],Authentication Sequence,https://www.websequencediagrams.com/#,/u/jm,2
-0,2013-12-20 18:54:20 -0600,['/t/security'],Telegram's Cryptanalysis Contest,http://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest,/u/journeysquid,1
-0,2013-12-20 18:54:01 -0600,"['/t/privacy', '/t/security']",Secret contract tied NSA and security industry pioneer,http://www.reuters.com/article/2013/12/20/us-usa-security-rsa-idUSBRE9BJ1C220131220,/u/journeysquid,1
-0,2013-12-20 12:16:07 -0600,['/t/hardware'],"Cubli – A cube that can jump up, balance, and walk across your desk",http://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/,/u/jm,3
-0,2013-12-20 22:12:13 -0600,['/t/ruby'],Handle Faraday::Error::ConnectionFailed with middleware,https://sethvargo.com/handle-faradayerrorconnection-failed-with-middleware/,/u/sethvargo,0
-0,2013-12-20 22:00:15 -0600,['/t/ruby'],Changing Chef Resources at Runtime,https://sethvargo.com/changing-chef-resources-at-runtime/,/u/sethvargo,0
-1,2013-12-20 08:39:15 -0600,['/t/programming'],Living Code: Future software will rewrite its own source code,http://www.singularityhacker.com/post/70209793620/living-code-future-software-will-rewrite-its-own,/u/singularityhack,2
-0,2013-12-20 11:21:55 -0600,['/t/javascript'],Proposing a native Event Emitter in JavaScript,http://blog.ragingflame.co.za/2013/12/10/proposing-a-native-event-emitter-in-javascript,/u/joshuacc,2
-0,2013-12-20 07:19:26 -0600,['/t/javascript'],The Future of JavaScript MVC Frameworks,http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/,/u/thmzlt,3
-3,2013-12-19 15:30:31 -0600,"['/t/hardware', '/t/linux', '/t/privacy', '/t/security']",Gluglug X60 Laptop now certified to Respect Your Freedom,http://www.fsf.org/news/gluglug-x60-laptop-now-certified-to-respect-your-freedom,/u/jm,12
-0,2013-12-19 18:41:32 -0600,"['/t/compilers', '/t/go']",Go 1.3+ Compiler Overhaul,https://docs.google.com/document/d/1P3BLR31VA8cvLJLfMibSuTdwTuF7WWLux71CYD0eeD8/preview,/u/journeysquid,6
-1,2013-12-19 12:57:53 -0600,['/t/security'],A Crypto Challenge For The Telegram Developers,http://thoughtcrime.org/blog/telegram-crypto-challenge/,/u/jcs,10
-0,2013-12-19 21:43:07 -0600,['/t/security'],passwordless-login,https://github.com/denismo/passwordless-login,/u/jm,2
-0,2013-12-19 18:28:22 -0600,['/t/cryptocurrencies'],Bitcoin and the Three Laws of Robotics,http://letstalkbitcoin.com/bitcoin-and-the-three-laws-of-robotics/#.UrOPG_RDudk,/u/jm,3
-0,2013-12-19 18:24:02 -0600,['/t/science'],"Lunar crater: Aftermath of the March 17, 2013, impact event.",http://www.slate.com/blogs/bad_astronomy/2013/12/19/lunar_crater_aftermath_of_the_march_17_2013_impact_event.html,/u/jm,3
-0,2013-12-19 20:38:16 -0600,"['/t/law', '/t/news', '/t/security']",The National Security Agency’s oversharing problem,http://arstechnica.com/information-technology/2013/12/the-national-security-agencys-oversharing-problem/,/u/jm,2
-0,2013-12-19 18:49:57 -0600,['/t/practices'],Introducing Open Salaries at Buffer,http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/,/u/journeysquid,2
-0,2013-12-19 22:15:28 -0600,"['/t/design', '/t/ruby']","Authorizers, Extractors, and Policy objects",https://sethvargo.com/authorizers-extractors-and-policy-objects/,/u/sethvargo,1
+0,2013-12-21 00:43:58 -0600,"/t/video,/t/openbsd,/t/person",BSDNow Interview With Damien Miller (OpenSSH),http://www.bsdnow.tv/episodes/2013_12_18-cryptocrystalline,/u/jcr,6
+2,2013-12-20 22:36:52 -0600,/t/security,An update on Truecrypt,http://blog.cryptographyengineering.com/2013/12/an-update-on-truecrypt.html,/u/kyle,3
+0,2013-12-21 13:04:10 -0600,/t/news,"Protesters vandalize Google bus, block Apple shuttle",http://www.usatoday.com/story/tech/2013/12/20/san-francisco-tech-shuttle-buses-blocked/4147335/,/u/journeysquid,0
+0,2013-12-20 22:36:10 -0600,"/t/browsers,/t/security",Browser Extension Password Managers,http://isecpartners.github.io/whitepapers/passwords/2013/11/05/Browser-Extension-Password-Managers.html,/u/kyle,3
+0,2013-12-20 22:37:06 -0600,"/t/video,/t/compsci",Introduction to Multi-core - Architecture of Modern Multi-Core Node,http://www.youtube.com/watch?v=crZwPhNjNiU,/u/SeanTAllen,2
+0,2013-12-20 07:00:44 -0600,/t/databases,BayesDB,http://probcomp.csail.mit.edu/bayesdb/,/u/SeanTAllen,11
+0,2013-12-20 16:36:17 -0600,/t/security,"Hacking Medical Devices: How Secure Are They, Really?",http://www.additiveanalytics.com/blog/hacking-medical-devices-how-secure-are-they/,/u/laura,3
+1,2013-12-20 12:11:51 -0600,/t/compsci,Authentication Sequence,https://www.websequencediagrams.com/#,/u/jm,2
+0,2013-12-20 18:54:20 -0600,/t/security,Telegram's Cryptanalysis Contest,http://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest,/u/journeysquid,1
+0,2013-12-20 18:54:01 -0600,"/t/privacy,/t/security",Secret contract tied NSA and security industry pioneer,http://www.reuters.com/article/2013/12/20/us-usa-security-rsa-idUSBRE9BJ1C220131220,/u/journeysquid,1
+0,2013-12-20 12:16:07 -0600,/t/hardware,"Cubli – A cube that can jump up, balance, and walk across your desk",http://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/,/u/jm,3
+0,2013-12-20 22:12:13 -0600,/t/ruby,Handle Faraday::Error::ConnectionFailed with middleware,https://sethvargo.com/handle-faradayerrorconnection-failed-with-middleware/,/u/sethvargo,0
+0,2013-12-20 22:00:15 -0600,/t/ruby,Changing Chef Resources at Runtime,https://sethvargo.com/changing-chef-resources-at-runtime/,/u/sethvargo,0
+1,2013-12-20 08:39:15 -0600,/t/programming,Living Code: Future software will rewrite its own source code,http://www.singularityhacker.com/post/70209793620/living-code-future-software-will-rewrite-its-own,/u/singularityhack,2
+0,2013-12-20 11:21:55 -0600,/t/javascript,Proposing a native Event Emitter in JavaScript,http://blog.ragingflame.co.za/2013/12/10/proposing-a-native-event-emitter-in-javascript,/u/joshuacc,2
+0,2013-12-20 07:19:26 -0600,/t/javascript,The Future of JavaScript MVC Frameworks,http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/,/u/thmzlt,3
+3,2013-12-19 15:30:31 -0600,"/t/hardware,/t/linux,/t/privacy,/t/security",Gluglug X60 Laptop now certified to Respect Your Freedom,http://www.fsf.org/news/gluglug-x60-laptop-now-certified-to-respect-your-freedom,/u/jm,12
+0,2013-12-19 18:41:32 -0600,"/t/compilers,/t/go",Go 1.3+ Compiler Overhaul,https://docs.google.com/document/d/1P3BLR31VA8cvLJLfMibSuTdwTuF7WWLux71CYD0eeD8/preview,/u/journeysquid,6
+1,2013-12-19 12:57:53 -0600,/t/security,A Crypto Challenge For The Telegram Developers,http://thoughtcrime.org/blog/telegram-crypto-challenge/,/u/jcs,10
+0,2013-12-19 21:43:07 -0600,/t/security,passwordless-login,https://github.com/denismo/passwordless-login,/u/jm,2
+0,2013-12-19 18:28:22 -0600,/t/cryptocurrencies,Bitcoin and the Three Laws of Robotics,http://letstalkbitcoin.com/bitcoin-and-the-three-laws-of-robotics/#.UrOPG_RDudk,/u/jm,3
+0,2013-12-19 18:24:02 -0600,/t/science,"Lunar crater: Aftermath of the March 17, 2013, impact event.",http://www.slate.com/blogs/bad_astronomy/2013/12/19/lunar_crater_aftermath_of_the_march_17_2013_impact_event.html,/u/jm,3
+0,2013-12-19 20:38:16 -0600,"/t/law,/t/news,/t/security",The National Security Agency’s oversharing problem,http://arstechnica.com/information-technology/2013/12/the-national-security-agencys-oversharing-problem/,/u/jm,2
+0,2013-12-19 18:49:57 -0600,/t/practices,Introducing Open Salaries at Buffer,http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/,/u/journeysquid,2
+0,2013-12-19 22:15:28 -0600,"/t/design,/t/ruby","Authorizers, Extractors, and Policy objects",https://sethvargo.com/authorizers-extractors-and-policy-objects/,/u/sethvargo,1

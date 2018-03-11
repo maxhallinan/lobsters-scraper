@@ -1,25 +1,25 @@
-0,2015-03-18 10:14:20 -0500,"['/t/compsci', '/t/javascript']",Promises are the monad of asynchronous programming,https://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/,/u/pushcx,1
-0,2015-03-18 09:35:20 -0500,['/t/javascript'],Gettin' Freaky Functional w/Curried JavaScript,http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/,/u/pushcx,1
-1,2015-03-17 12:57:35 -0500,"['/t/slides', '/t/scala']","Scala: Where it came from, Where it's going",http://www.slideshare.net/Odersky/scala-days-san-francisco-45917092,/u/herval,8
-5,2015-03-17 01:08:36 -0500,"['/t/distributed', '/t/erlang']",Incuriosity Will Kill Your Infrastructure,http://yellerapp.com/posts/2015-03-16-incuriosity-killed-the-infrastructure.html,/u/kb,21
-0,2015-03-17 13:02:15 -0500,['/t/security'],GHOST Remote Code Execution Exploit,https://community.qualys.com/blogs/laws-of-vulnerabilities/2015/03/17/ghost-remote-code-execution-exploit,/u/jcs,8
-0,2015-03-17 14:25:31 -0500,"['/t/security', '/t/web']",The HTTPS-Only Standard,https://https.cio.gov/,/u/joshuacc,6
-4,2015-03-17 10:40:16 -0500,"['/t/culture', '/t/unix']",Richard Stallman’s GNU Manifesto Turns Thirty,http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty,/u/jcs,17
-0,2015-03-18 01:48:38 -0500,"['/t/browsers', '/t/javascript']",The state of SIMD.js performance in Firefox,https://blog.mozilla.org/javascript/2015/03/10/state-of-simd-js-performance-in-firefox/,/u/sanxiyn,1
-0,2015-03-17 15:07:58 -0500,"['/t/practices', '/t/programming']",How to Spread The Word About Your Code,https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/,/u/pushcx,5
-2,2015-03-17 05:12:24 -0500,"['/t/openbsd', '/t/security']",LibreSSL 2.1.5 released,http://marc.info/?l=openbsd-tech&m=142655686417434,/u/DrM,9
-0,2015-03-17 09:44:33 -0500,"['/t/compsci', '/t/programming']",Fast Bounded-Concurrency Hash Tables,http://backtrace.io/blog/blog/2015/03/13/workload-specialization,/u/apg,8
-0,2015-03-17 10:40:27 -0500,"['/t/practices', '/t/security']","Everyone Wants You To Have Security, But Not from Them",https://www.schneier.com/blog/archives/2015/02/everyone_wants_.html,/u/pushcx,7
-5,2015-03-17 01:10:00 -0500,"['/t/distributed', '/t/networking']",Exponential Backoff And Jitter,http://www.awsarchitectureblog.com/2015/03/backoff.html,/u/kb,10
-14,2015-03-16 15:47:25 -0500,['/t/security'],Forthcoming OpenSSL releases (undisclosed vulnerabilities),https://mta.openssl.org/pipermail/openssl-announce/2015-March/000020.html,/u/apg,21
-0,2015-03-17 06:53:17 -0500,['/t/web'],What I Learned Writing a Dropbox Clone - Conclusion,http://hoelz.ro/blog/what-i-learned-writing-a-dropbox-clone-final,/u/hoelzro,6
-0,2015-03-17 16:32:18 -0500,"['/t/culture', '/t/practices']",Lessons From The Kitchen,http://weblog.jamisbuck.org/2015/1/30/lessons-from-the-kitchen.html,/u/pushcx,3
-8,2015-03-16 13:19:19 -0500,"['/t/databases', '/t/programming', '/t/web']","Gogs, an alternative to Gitlab",http://www.apertoire.net/gogs-an-alternative-to-gitlab/,/u/pushcx,22
-0,2015-03-17 06:23:15 -0500,"['/t/ml', '/t/programming']",Case Study: Type-safe Domain Modeling in F#,http://deliberate-software.com/pattern-matching-case-study/,/u/steveshogren,4
-0,2015-03-17 13:59:36 -0500,['/t/javascript'],Transit.js Caching,https://swannodette.github.io/2015/02/19/transit-js-caching/,/u/pushcx,1
-0,2015-03-16 20:50:26 -0500,"['/t/openbsd', '/t/release', '/t/security']",LibreSSL 2.1.5 released!,https://gist.github.com/busterb/cb2486e28a81376b7f1b,/u/bcallah,9
-0,2015-03-17 05:10:43 -0500,['/t/programming'],High quality GIF with FFmpeg,http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html,/u/fcbsd,3
-0,2015-03-17 11:35:10 -0500,"['/t/javascript', '/t/programming']",Tinkering with the Google Analytics JS snippet. A lesson in isograms,http://blog.higg.im/2015/03/17/tinkering-with-the-google-analytics-js-snippet-a-lesson-in-isograms/,/u/dh,1
-1,2015-03-16 17:26:14 -0500,['/t/hardware'],MIPS Creator CI20 vs. Raspberry Pi 2,http://www.linuxlinks.com/article/20150315065630654/MIPSCI20.html,/u/julienXX,9
-0,2015-03-17 09:36:28 -0500,"['/t/pdf', '/t/databases']",What Goes Around Comes Around (1998),http://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf,/u/pushcx,1
-0,2015-03-17 04:54:45 -0500,"['/t/android', '/t/mobile']",Build the Prime Minister's Office App,http://www.google.co.in/intl/en_in/landing/pmoapp/index.html,/u/nexneo,2
+0,2015-03-18 10:14:20 -0500,"/t/compsci,/t/javascript",Promises are the monad of asynchronous programming,https://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/,/u/pushcx,1
+0,2015-03-18 09:35:20 -0500,/t/javascript,Gettin' Freaky Functional w/Curried JavaScript,http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/,/u/pushcx,1
+1,2015-03-17 12:57:35 -0500,"/t/slides,/t/scala","Scala: Where it came from, Where it's going",http://www.slideshare.net/Odersky/scala-days-san-francisco-45917092,/u/herval,8
+5,2015-03-17 01:08:36 -0500,"/t/distributed,/t/erlang",Incuriosity Will Kill Your Infrastructure,http://yellerapp.com/posts/2015-03-16-incuriosity-killed-the-infrastructure.html,/u/kb,21
+0,2015-03-17 13:02:15 -0500,/t/security,GHOST Remote Code Execution Exploit,https://community.qualys.com/blogs/laws-of-vulnerabilities/2015/03/17/ghost-remote-code-execution-exploit,/u/jcs,8
+0,2015-03-17 14:25:31 -0500,"/t/security,/t/web",The HTTPS-Only Standard,https://https.cio.gov/,/u/joshuacc,6
+4,2015-03-17 10:40:16 -0500,"/t/culture,/t/unix",Richard Stallman’s GNU Manifesto Turns Thirty,http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty,/u/jcs,17
+0,2015-03-18 01:48:38 -0500,"/t/browsers,/t/javascript",The state of SIMD.js performance in Firefox,https://blog.mozilla.org/javascript/2015/03/10/state-of-simd-js-performance-in-firefox/,/u/sanxiyn,1
+0,2015-03-17 15:07:58 -0500,"/t/practices,/t/programming",How to Spread The Word About Your Code,https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/,/u/pushcx,5
+2,2015-03-17 05:12:24 -0500,"/t/openbsd,/t/security",LibreSSL 2.1.5 released,http://marc.info/?l=openbsd-tech&m=142655686417434,/u/DrM,9
+0,2015-03-17 09:44:33 -0500,"/t/compsci,/t/programming",Fast Bounded-Concurrency Hash Tables,http://backtrace.io/blog/blog/2015/03/13/workload-specialization,/u/apg,8
+0,2015-03-17 10:40:27 -0500,"/t/practices,/t/security","Everyone Wants You To Have Security, But Not from Them",https://www.schneier.com/blog/archives/2015/02/everyone_wants_.html,/u/pushcx,7
+5,2015-03-17 01:10:00 -0500,"/t/distributed,/t/networking",Exponential Backoff And Jitter,http://www.awsarchitectureblog.com/2015/03/backoff.html,/u/kb,10
+14,2015-03-16 15:47:25 -0500,/t/security,Forthcoming OpenSSL releases (undisclosed vulnerabilities),https://mta.openssl.org/pipermail/openssl-announce/2015-March/000020.html,/u/apg,21
+0,2015-03-17 06:53:17 -0500,/t/web,What I Learned Writing a Dropbox Clone - Conclusion,http://hoelz.ro/blog/what-i-learned-writing-a-dropbox-clone-final,/u/hoelzro,6
+0,2015-03-17 16:32:18 -0500,"/t/culture,/t/practices",Lessons From The Kitchen,http://weblog.jamisbuck.org/2015/1/30/lessons-from-the-kitchen.html,/u/pushcx,3
+8,2015-03-16 13:19:19 -0500,"/t/databases,/t/programming,/t/web","Gogs, an alternative to Gitlab",http://www.apertoire.net/gogs-an-alternative-to-gitlab/,/u/pushcx,22
+0,2015-03-17 06:23:15 -0500,"/t/ml,/t/programming",Case Study: Type-safe Domain Modeling in F#,http://deliberate-software.com/pattern-matching-case-study/,/u/steveshogren,4
+0,2015-03-17 13:59:36 -0500,/t/javascript,Transit.js Caching,https://swannodette.github.io/2015/02/19/transit-js-caching/,/u/pushcx,1
+0,2015-03-16 20:50:26 -0500,"/t/openbsd,/t/release,/t/security",LibreSSL 2.1.5 released!,https://gist.github.com/busterb/cb2486e28a81376b7f1b,/u/bcallah,9
+0,2015-03-17 05:10:43 -0500,/t/programming,High quality GIF with FFmpeg,http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html,/u/fcbsd,3
+0,2015-03-17 11:35:10 -0500,"/t/javascript,/t/programming",Tinkering with the Google Analytics JS snippet. A lesson in isograms,http://blog.higg.im/2015/03/17/tinkering-with-the-google-analytics-js-snippet-a-lesson-in-isograms/,/u/dh,1
+1,2015-03-16 17:26:14 -0500,/t/hardware,MIPS Creator CI20 vs. Raspberry Pi 2,http://www.linuxlinks.com/article/20150315065630654/MIPSCI20.html,/u/julienXX,9
+0,2015-03-17 09:36:28 -0500,"/t/pdf,/t/databases",What Goes Around Comes Around (1998),http://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf,/u/pushcx,1
+0,2015-03-17 04:54:45 -0500,"/t/android,/t/mobile",Build the Prime Minister's Office App,http://www.google.co.in/intl/en_in/landing/pmoapp/index.html,/u/nexneo,2

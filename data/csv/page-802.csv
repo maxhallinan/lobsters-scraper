@@ -1,25 +1,25 @@
-0,2016-04-26 14:09:38 -0500,"['/t/reversing', '/t/security']",Exploring Qualcomm's Secure Execution Environment,http://bits-please.blogspot.com/2016/04/exploring-qualcomms-secure-execution.html,/u/lattera,3
-7,2016-04-25 11:34:37 -0500,"['/t/video', '/t/programming']",Writing libraries is terrible,https://www.youtube.com/watch?v=2XCDm3MoXUY,/u/DRMacIver,18
-2,2016-04-25 15:12:29 -0500,['/t/programming'],Programming blogs,http://danluu.com/programming-blogs/,/u/gandro,29
-7,2016-04-25 13:17:53 -0500,['/t/vcs'],Human Git Aliases,http://gggritso.com/human-git-aliases,/u/calvin,24
-1,2016-04-25 23:00:50 -0500,['/t/law'],The Encryption Farce,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjd2IWQtKvMAhUCSD4KHRhBAroQqQIIHjAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-encryption-farce-1461624399&usg=AFQjCNE-WzsDeMUndBp6a2jGyFh2suDFBA,/u/tedu,10
-0,2016-04-25 21:22:55 -0500,"['/t/ml', '/t/release']",OCaml 4.03 Released,https://sympa.inria.fr/sympa/arc/caml-list/2016-04/msg00075.html,/u/dwc,15
-0,2016-04-26 05:14:47 -0500,"['/t/games', '/t/reversing']",The tale of Syndicate Wars Port,http://gynvael.coldwind.pl/?id=279,/u/mulander,5
-89,2016-04-24 22:48:00 -0500,['/t/ask'],Which shell do you use?,/s/nxwtnn/which_shell_do_you_use,/u/Robbie,39
-5,2016-04-25 14:04:51 -0500,"['/t/culture', '/t/philosophy', '/t/practices']","HN/Lobsters: Good News, Bad News, How to Win Big (Part 2)",http://angersock.com/blog/2016/04/25/techniques-for-gaming-hn-slash-lobsters-sites-pt2,/u/friendlysock,13
-1,2016-04-25 16:20:38 -0500,['/t/databases'],10 SQL Tricks That You Didn’t Think Were Possible,https://blog.jooq.org/2016/04/25/10-sql-tricks-that-you-didnt-think-were-possible/,/u/noelle,17
-51,2016-04-25 03:45:56 -0500,['/t/ask'],What are you working on this week?,/s/oipdsb/what_are_you_working_on_this_week,/u/caius,31
-1,2016-04-25 08:38:07 -0500,"['/t/openbsd', '/t/security']",anti-ROP mechanism in libc,https://marc.info/?l=openbsd-tech&m=146159002802803&w=2,/u/sin,16
-0,2016-04-25 17:31:50 -0500,"['/t/c', '/t/programming']",Nonblocking Algorithms and Scalable Multicore Programming (2013),https://queue.acm.org/detail.cfm?id=2492433,/u/sbahra,4
-1,2016-04-25 13:27:02 -0500,['/t/linux'],Gentoo Tesla - T2 Edition,http://www.su-tesla.space/2016/04/gentoo-tesla-t2-edition.html,/u/halosghost,11
-0,2016-04-25 09:30:34 -0500,['/t/openbsd'],The p2k16 hackathon has begun,http://undeadly.org/cgi?action=article&sid=20160425142408&mode=expanded,/u/phessler,6
-0,2016-04-25 14:42:38 -0500,"['/t/javascript', '/t/web']",v8 - Support ES6 tail call elimination,https://bugs.chromium.org/p/v8/issues/detail?id=4698,/u/tca,6
-6,2016-04-25 04:03:08 -0500,"['/t/video', '/t/programming']",Functional Design Patterns,https://www.youtube.com/watch?v=E8I19uA-wGY,/u/ryanslade,10
-0,2016-04-25 17:27:22 -0500,"['/t/linux', '/t/security']",ELF Shared Library Injection Forensics,http://backtrace.io/blog/blog/2016/04/22/elf-shared-library-injection-forensics,/u/sbahra,3
-21,2016-04-24 21:51:14 -0500,['/t/practices'],A Modest Proposal: Eliminate Email,https://hbr.org/2016/02/a-modest-proposal-eliminate-email,/u/pushcx,14
-0,2016-04-25 10:38:59 -0500,"['/t/design', '/t/satire']",Sans Bullshit Sans — Leveraging the synergy of ligatures,http://www.sansbullshitsans.com/,/u/calvin,12
-0,2016-04-25 02:07:36 -0500,['/t/javascript'],Being a JavaScript Developer is no Candy Land,http://thefullstack.xyz/candy-land-javascript-developer/,/u/dortzur,7
-5,2016-04-24 18:47:23 -0500,['/t/programming'],On Functional Programming:,https://medium.com/@jlouis666/on-functional-programming-df28cc9078de,/u/pushcx,13
-1,2016-04-24 18:56:44 -0500,['/t/math'],"How Kalman Filters Work, Part 1",http://www.anuncommonlab.com/articles/how-kalman-filters-work/,/u/pushcx,16
-1,2016-04-24 13:59:52 -0500,['/t/math'],An integer formula for Fibonacci numbers,https://paulhankin.github.io/Fibonacci/,/u/jan,23
-0,2016-04-25 03:28:00 -0500,['/t/programming'],ESP8266 superfast flashing: flash ESP in 5 seconds,https://blog.cesanta.com/esp8266-superfast-flashing-flash-esp-in-5-seconds,/u/evthewolf,5
+0,2016-04-26 14:09:38 -0500,"/t/reversing,/t/security",Exploring Qualcomm's Secure Execution Environment,http://bits-please.blogspot.com/2016/04/exploring-qualcomms-secure-execution.html,/u/lattera,3
+7,2016-04-25 11:34:37 -0500,"/t/video,/t/programming",Writing libraries is terrible,https://www.youtube.com/watch?v=2XCDm3MoXUY,/u/DRMacIver,18
+2,2016-04-25 15:12:29 -0500,/t/programming,Programming blogs,http://danluu.com/programming-blogs/,/u/gandro,29
+7,2016-04-25 13:17:53 -0500,/t/vcs,Human Git Aliases,http://gggritso.com/human-git-aliases,/u/calvin,24
+1,2016-04-25 23:00:50 -0500,/t/law,The Encryption Farce,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjd2IWQtKvMAhUCSD4KHRhBAroQqQIIHjAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-encryption-farce-1461624399&usg=AFQjCNE-WzsDeMUndBp6a2jGyFh2suDFBA,/u/tedu,10
+0,2016-04-25 21:22:55 -0500,"/t/ml,/t/release",OCaml 4.03 Released,https://sympa.inria.fr/sympa/arc/caml-list/2016-04/msg00075.html,/u/dwc,15
+0,2016-04-26 05:14:47 -0500,"/t/games,/t/reversing",The tale of Syndicate Wars Port,http://gynvael.coldwind.pl/?id=279,/u/mulander,5
+89,2016-04-24 22:48:00 -0500,/t/ask,Which shell do you use?,/s/nxwtnn/which_shell_do_you_use,/u/Robbie,39
+5,2016-04-25 14:04:51 -0500,"/t/culture,/t/philosophy,/t/practices","HN/Lobsters: Good News, Bad News, How to Win Big (Part 2)",http://angersock.com/blog/2016/04/25/techniques-for-gaming-hn-slash-lobsters-sites-pt2,/u/friendlysock,13
+1,2016-04-25 16:20:38 -0500,/t/databases,10 SQL Tricks That You Didn’t Think Were Possible,https://blog.jooq.org/2016/04/25/10-sql-tricks-that-you-didnt-think-were-possible/,/u/noelle,17
+51,2016-04-25 03:45:56 -0500,/t/ask,What are you working on this week?,/s/oipdsb/what_are_you_working_on_this_week,/u/caius,31
+1,2016-04-25 08:38:07 -0500,"/t/openbsd,/t/security",anti-ROP mechanism in libc,https://marc.info/?l=openbsd-tech&m=146159002802803&w=2,/u/sin,16
+0,2016-04-25 17:31:50 -0500,"/t/c,/t/programming",Nonblocking Algorithms and Scalable Multicore Programming (2013),https://queue.acm.org/detail.cfm?id=2492433,/u/sbahra,4
+1,2016-04-25 13:27:02 -0500,/t/linux,Gentoo Tesla - T2 Edition,http://www.su-tesla.space/2016/04/gentoo-tesla-t2-edition.html,/u/halosghost,11
+0,2016-04-25 09:30:34 -0500,/t/openbsd,The p2k16 hackathon has begun,http://undeadly.org/cgi?action=article&sid=20160425142408&mode=expanded,/u/phessler,6
+0,2016-04-25 14:42:38 -0500,"/t/javascript,/t/web",v8 - Support ES6 tail call elimination,https://bugs.chromium.org/p/v8/issues/detail?id=4698,/u/tca,6
+6,2016-04-25 04:03:08 -0500,"/t/video,/t/programming",Functional Design Patterns,https://www.youtube.com/watch?v=E8I19uA-wGY,/u/ryanslade,10
+0,2016-04-25 17:27:22 -0500,"/t/linux,/t/security",ELF Shared Library Injection Forensics,http://backtrace.io/blog/blog/2016/04/22/elf-shared-library-injection-forensics,/u/sbahra,3
+21,2016-04-24 21:51:14 -0500,/t/practices,A Modest Proposal: Eliminate Email,https://hbr.org/2016/02/a-modest-proposal-eliminate-email,/u/pushcx,14
+0,2016-04-25 10:38:59 -0500,"/t/design,/t/satire",Sans Bullshit Sans — Leveraging the synergy of ligatures,http://www.sansbullshitsans.com/,/u/calvin,12
+0,2016-04-25 02:07:36 -0500,/t/javascript,Being a JavaScript Developer is no Candy Land,http://thefullstack.xyz/candy-land-javascript-developer/,/u/dortzur,7
+5,2016-04-24 18:47:23 -0500,/t/programming,On Functional Programming:,https://medium.com/@jlouis666/on-functional-programming-df28cc9078de,/u/pushcx,13
+1,2016-04-24 18:56:44 -0500,/t/math,"How Kalman Filters Work, Part 1",http://www.anuncommonlab.com/articles/how-kalman-filters-work/,/u/pushcx,16
+1,2016-04-24 13:59:52 -0500,/t/math,An integer formula for Fibonacci numbers,https://paulhankin.github.io/Fibonacci/,/u/jan,23
+0,2016-04-25 03:28:00 -0500,/t/programming,ESP8266 superfast flashing: flash ESP in 5 seconds,https://blog.cesanta.com/esp8266-superfast-flashing-flash-esp-in-5-seconds,/u/evthewolf,5

@@ -1,25 +1,25 @@
-0,2016-12-21 17:57:15 -0600,['/t/go'],Standard Package Layout,https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1,/u/adsouza,2
-0,2016-12-21 16:11:04 -0600,['/t/mac'],Some Copland Documentation,https://512pixels.net/2016/12/some-copland-documentation/,/u/fkr,2
-0,2016-12-21 19:50:53 -0600,['/t/go'],SOLID Go Design,https://dave.cheney.net/2016/08/20/solid-go-design,/u/adsouza,1
-15,2016-12-20 06:14:11 -0600,"['/t/go', '/t/java', '/t/programming']",Modern garbage collection,https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e,/u/mgaudet,51
-0,2016-12-21 18:57:10 -0600,['/t/devops'],"Overhauling Loco2's hosting infrastructure with AWS, Docker and Terraform",http://www.jonathanleighton.com/articles/2016/loco2-infrastructure-overhaul/,/u/pushcx,1
-0,2016-12-21 05:28:58 -0600,"['/t/android', '/t/haskell']",Froid: A library for using Frege in Android development,https://github.com/mchav/froid,/u/nil,7
-0,2016-12-21 14:44:00 -0600,"['/t/browsers', '/t/web']",Chrome DevTools in 2016 and Beyond,https://developers.google.com/web/updates/2016/06/devtools-digest,/u/flyingfisch,2
-5,2016-12-20 15:06:27 -0600,['/t/security'],Learning From A Year of Security Breaches,https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b,/u/jtdowney,18
-0,2016-12-21 10:01:26 -0600,['/t/distributed'],Take It to the Limit: Considerations for Building Reliable Systems,http://bravenewgeek.com/take-it-to-the-limit-considerations-for-building-reliable-systems/,/u/catwell,3
-0,2016-12-21 09:55:20 -0600,['/t/javascript'],Components á la carte,http://darrennewton.com/2016/12/21/components-a-la-carte/,/u/jeremy,3
-13,2016-12-20 08:46:31 -0600,['/t/haskell'],Haskell Pitfalls,http://lorepub.com/post/2016-12-17-Haskell-Pitfalls,/u/pushcx,26
-0,2016-12-21 12:04:59 -0600,"['/t/pdf', '/t/assembly', '/t/c']",Taming the Jaguar,https://deplinenoise.files.wordpress.com/2016/03/gdc16_fredriksson_jaguar.pdf,/u/mikejsavage,2
-0,2016-12-21 11:53:28 -0600,"['/t/pdf', '/t/practices']",Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure,https://fordfoundcontentthemes.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf,/u/yumaikas,2
-0,2016-12-21 11:42:29 -0600,"['/t/historical', '/t/philosophy']",Federated Education: New Directions in Digital Collaboration,https://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/,/u/Bystroushaak,2
-9,2016-12-20 10:57:44 -0600,['/t/rust'],Idiomatic tree and graph like structures in Rust,https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/,/u/niko2342,20
-0,2016-12-21 15:16:48 -0600,"['/t/video', '/t/linux']",Getting Started with Linux using Ubuntu 16.10: Installing Packages and Connecting to Servers,https://www.youtube.com/watch?v=_3tx_83jnt0,/u/JeremyMorgan,1
-4,2016-12-20 18:34:33 -0600,['/t/testing'],Tautological Tests,http://randycoulman.com/blog/2016/12/20/tautological-tests/,/u/soulcutter,8
-0,2016-12-21 02:42:49 -0600,['/t/security'],Hacking In-Flight Entertainment Systems,http://blog.ioactive.com/2016/12/in-flight-hacking-system.html,/u/noelle,6
-0,2016-12-21 10:35:53 -0600,['/t/dotnet'],"Verbatim identifiers (or, why yield return in C# is the way it is)",https://ericlippert.com/2013/09/09/verbatim-identifiers/,/u/calvin,2
-7,2016-12-21 10:04:46 -0600,['/t/culture'],No -- I Won't Rank My Employees Against One Another,https://www.linkedin.com/pulse/i-wont-rank-my-employees-against-one-another-liz-ryan,/u/jennifer,6
-2,2016-12-20 23:57:07 -0600,['/t/web'],Fortran Machine - An MVC web stack written in Fortran 90,https://fortran.io/,/u/av,5
-1,2016-12-21 02:47:06 -0600,['/t/security'],Intel Security: 93% of Companies Can't Triage All Their Threats,https://www.exabeam.com/security/intel-security-93-companies-cant-triage-threats/,/u/noelle,3
-0,2016-12-21 03:59:36 -0600,"['/t/historical', '/t/visualization']",Data.mil : An experiment in Defense Open Data,https://www.data.mil/,/u/adamo,4
-1,2016-12-20 17:00:44 -0600,['/t/web'],Merging Firebug into the built-in Firefox Developer Tools,https://blog.getfirebug.com/2016/02/08/merging-firebug-into-the-built-in-firefox-developer-tools/,/u/zg,11
-0,2016-12-20 18:53:28 -0600,"['/t/devops', '/t/practices', '/t/unix']","Unix Admin. Horror Story Summary, version 1.0",http://www-uxsup.csx.cam.ac.uk/misc/horror.txt,/u/friendlysock,10
+0,2016-12-21 17:57:15 -0600,/t/go,Standard Package Layout,https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1,/u/adsouza,2
+0,2016-12-21 16:11:04 -0600,/t/mac,Some Copland Documentation,https://512pixels.net/2016/12/some-copland-documentation/,/u/fkr,2
+0,2016-12-21 19:50:53 -0600,/t/go,SOLID Go Design,https://dave.cheney.net/2016/08/20/solid-go-design,/u/adsouza,1
+15,2016-12-20 06:14:11 -0600,"/t/go,/t/java,/t/programming",Modern garbage collection,https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e,/u/mgaudet,51
+0,2016-12-21 18:57:10 -0600,/t/devops,"Overhauling Loco2's hosting infrastructure with AWS, Docker and Terraform",http://www.jonathanleighton.com/articles/2016/loco2-infrastructure-overhaul/,/u/pushcx,1
+0,2016-12-21 05:28:58 -0600,"/t/android,/t/haskell",Froid: A library for using Frege in Android development,https://github.com/mchav/froid,/u/nil,7
+0,2016-12-21 14:44:00 -0600,"/t/browsers,/t/web",Chrome DevTools in 2016 and Beyond,https://developers.google.com/web/updates/2016/06/devtools-digest,/u/flyingfisch,2
+5,2016-12-20 15:06:27 -0600,/t/security,Learning From A Year of Security Breaches,https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b,/u/jtdowney,18
+0,2016-12-21 10:01:26 -0600,/t/distributed,Take It to the Limit: Considerations for Building Reliable Systems,http://bravenewgeek.com/take-it-to-the-limit-considerations-for-building-reliable-systems/,/u/catwell,3
+0,2016-12-21 09:55:20 -0600,/t/javascript,Components á la carte,http://darrennewton.com/2016/12/21/components-a-la-carte/,/u/jeremy,3
+13,2016-12-20 08:46:31 -0600,/t/haskell,Haskell Pitfalls,http://lorepub.com/post/2016-12-17-Haskell-Pitfalls,/u/pushcx,26
+0,2016-12-21 12:04:59 -0600,"/t/pdf,/t/assembly,/t/c",Taming the Jaguar,https://deplinenoise.files.wordpress.com/2016/03/gdc16_fredriksson_jaguar.pdf,/u/mikejsavage,2
+0,2016-12-21 11:53:28 -0600,"/t/pdf,/t/practices",Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure,https://fordfoundcontentthemes.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf,/u/yumaikas,2
+0,2016-12-21 11:42:29 -0600,"/t/historical,/t/philosophy",Federated Education: New Directions in Digital Collaboration,https://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/,/u/Bystroushaak,2
+9,2016-12-20 10:57:44 -0600,/t/rust,Idiomatic tree and graph like structures in Rust,https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/,/u/niko2342,20
+0,2016-12-21 15:16:48 -0600,"/t/video,/t/linux",Getting Started with Linux using Ubuntu 16.10: Installing Packages and Connecting to Servers,https://www.youtube.com/watch?v=_3tx_83jnt0,/u/JeremyMorgan,1
+4,2016-12-20 18:34:33 -0600,/t/testing,Tautological Tests,http://randycoulman.com/blog/2016/12/20/tautological-tests/,/u/soulcutter,8
+0,2016-12-21 02:42:49 -0600,/t/security,Hacking In-Flight Entertainment Systems,http://blog.ioactive.com/2016/12/in-flight-hacking-system.html,/u/noelle,6
+0,2016-12-21 10:35:53 -0600,/t/dotnet,"Verbatim identifiers (or, why yield return in C# is the way it is)",https://ericlippert.com/2013/09/09/verbatim-identifiers/,/u/calvin,2
+7,2016-12-21 10:04:46 -0600,/t/culture,No -- I Won't Rank My Employees Against One Another,https://www.linkedin.com/pulse/i-wont-rank-my-employees-against-one-another-liz-ryan,/u/jennifer,6
+2,2016-12-20 23:57:07 -0600,/t/web,Fortran Machine - An MVC web stack written in Fortran 90,https://fortran.io/,/u/av,5
+1,2016-12-21 02:47:06 -0600,/t/security,Intel Security: 93% of Companies Can't Triage All Their Threats,https://www.exabeam.com/security/intel-security-93-companies-cant-triage-threats/,/u/noelle,3
+0,2016-12-21 03:59:36 -0600,"/t/historical,/t/visualization",Data.mil : An experiment in Defense Open Data,https://www.data.mil/,/u/adamo,4
+1,2016-12-20 17:00:44 -0600,/t/web,Merging Firebug into the built-in Firefox Developer Tools,https://blog.getfirebug.com/2016/02/08/merging-firebug-into-the-built-in-firefox-developer-tools/,/u/zg,11
+0,2016-12-20 18:53:28 -0600,"/t/devops,/t/practices,/t/unix","Unix Admin. Horror Story Summary, version 1.0",http://www-uxsup.csx.cam.ac.uk/misc/horror.txt,/u/friendlysock,10

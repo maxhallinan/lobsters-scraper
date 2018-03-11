@@ -1,25 +1,25 @@
-0,2016-04-29 05:33:07 -0500,['/t/practices'],Deleting code (2002),http://nedbatchelder.com/text/deleting-code.html,/u/mulander,5
-0,2016-04-29 12:32:06 -0500,['/t/practices'],Improving your skills as a 9 to 5 programmer,http://codewithoutrules.com/2016/04/15/40-hour-programmer/,/u/itamarst,1
-0,2016-04-29 01:14:11 -0500,"['/t/lua', '/t/programming']",New Lua target for Haxe,http://haxe.org/blog/hello-lua,/u/zem,10
-25,2016-04-28 14:05:49 -0500,['/t/law'],Child porn suspect jailed indefinitely for refusing to decrypt hard drives,http://arstechnica.com/tech-policy/2016/04/child-porn-suspect-jailed-for-7-months-for-refusing-to-decrypt-hard-drives/,/u/tedu,15
-8,2016-04-28 19:10:56 -0500,"['/t/linux', '/t/security']","grsecurity releases RAP, the ROP killer",https://grsecurity.net/rap_announce.php,/u/lattera,8
-12,2016-04-28 08:29:03 -0500,"['/t/book', '/t/hardware', '/t/linux', '/t/python', '/t/reversing', '/t/security']",Humble Book Bundle: Hacking presented by No Starch Press,https://www.humblebundle.com/books/no-starch-hacking-books,/u/freehunter,24
-0,2016-04-29 06:38:49 -0500,"['/t/culture', '/t/practices']",Email Isn’t The Thing You’re Bad At,https://glyph.twistedmatrix.com/2016/04/email-isnt-the-problem.html,/u/untitaker,6
-4,2016-04-28 18:08:50 -0500,"['/t/api', '/t/practices', '/t/security']",Slack bot token leakage exposing business critical information,https://labs.detectify.com/2016/04/28/slack-bot-token-leakage-exposing-business-critical-information/,/u/tedu,8
-0,2016-04-28 23:48:39 -0500,"['/t/person', '/t/security']",Former Tor developer created malware for the FBI to hack Tor users,http://www.dailydot.com/politics/government-contractor-tor-malware/,/u/jcs,7
-0,2016-04-29 09:10:44 -0500,"['/t/design', '/t/release', '/t/web']",flexibility - Use flexbox while supporting older Internet Explorers,https://github.com/10up/flexibility,/u/flyingfisch,2
-7,2016-04-28 08:09:38 -0500,"['/t/emacs', '/t/meta', '/t/vim']",New tag suggestion: editors,/s/ibsla1/new_tag_suggestion_editors,/u/calvin,22
-15,2016-04-28 07:22:07 -0500,"['/t/linux', '/t/security']","Linux infosec outfit does a Torvalds, rageblocks innocent vuln spotter",http://www.theregister.co.uk/2016/04/27/linux_security_bug_report_row/,/u/mulander,20
-0,2016-04-29 00:30:13 -0500,['/t/law'],The Crime of Speech,https://www.eff.org/deeplinks/2016/04/crime-speech,/u/halosghost,3
-2,2016-04-28 10:08:39 -0500,['/t/practices'],How you should choose which technology to learn next,http://codewithoutrules.com/2016/04/27/which-technology/,/u/itamarst,4
-2,2016-04-28 08:50:39 -0500,['/t/c'],To become a good C programmer (2011),http://fabiensanglard.net/c/,/u/mulander,16
-1,2016-04-28 18:07:25 -0500,['/t/api'],Jam API: a service that allows you to turn any site into a JSON accessible api using CSS selectors,http://www.jamapi.xyz/,/u/jcs,3
-1,2016-04-28 14:55:38 -0500,"['/t/go', '/t/networking']",A simple way to limit the number of simultaneous clients of a Go net/http server,https://www.pauladamsmith.com/blog/2016/04/max-clients-go-net-http.html,/u/pushcx,4
-0,2016-04-28 05:31:55 -0500,['/t/erlang'],How Erlang does scheduling (2013),http://jlouisramblings.blogspot.com/2013/01/how-erlang-does-scheduling.html,/u/mulander,14
-6,2016-04-28 07:16:54 -0500,['/t/openbsd'],"OpenSMTPD, spamd, SpamAssassin and Dovecot on OpenBSD",http://frozen-geek.net/openbsd-email-server-1/,/u/mulander,5
-10,2016-04-27 15:57:42 -0500,['/t/programming'],Hiring Juniors,http://ryanbigg.com/2016/04/hiring-juniors/,/u/ryanbigg,13
-3,2016-04-27 11:10:34 -0500,"['/t/compilers', '/t/rust']",Introducing MIR,http://blog.rust-lang.org/2016/04/19/MIR.html,/u/steveklabnik,48
-13,2016-04-27 12:08:03 -0500,"['/t/mac', '/t/rust']",xi editor,https://github.com/google/xi-editor,/u/wally,30
-0,2016-04-28 05:25:51 -0500,"['/t/api', '/t/distributed', '/t/linux', '/t/programming', '/t/virtualization']",Microservices Weekly (Issue #24): Deep Dive on Microservices,http://microservicesweekly.com/issue/24,/u/svlada,4
-1,2016-04-28 00:28:20 -0500,['/t/person'],David Patterson Retires After 40 Years,http://perspectives.mvdirona.com/2016/03/david-patterson-retires-after-40-years/,/u/apy,11
-0,2016-04-28 13:08:46 -0500,"['/t/assembly', '/t/c', '/t/reversing']",Defusing a binary bomb with gdb - Part 5,http://blog.carlosgaldino.com/2016/04/28/defusing-a-binary-bomb-with-gdb-part-5.html,/u/carlosgaldino,1
+0,2016-04-29 05:33:07 -0500,/t/practices,Deleting code (2002),http://nedbatchelder.com/text/deleting-code.html,/u/mulander,5
+0,2016-04-29 12:32:06 -0500,/t/practices,Improving your skills as a 9 to 5 programmer,http://codewithoutrules.com/2016/04/15/40-hour-programmer/,/u/itamarst,1
+0,2016-04-29 01:14:11 -0500,"/t/lua,/t/programming",New Lua target for Haxe,http://haxe.org/blog/hello-lua,/u/zem,10
+25,2016-04-28 14:05:49 -0500,/t/law,Child porn suspect jailed indefinitely for refusing to decrypt hard drives,http://arstechnica.com/tech-policy/2016/04/child-porn-suspect-jailed-for-7-months-for-refusing-to-decrypt-hard-drives/,/u/tedu,15
+8,2016-04-28 19:10:56 -0500,"/t/linux,/t/security","grsecurity releases RAP, the ROP killer",https://grsecurity.net/rap_announce.php,/u/lattera,8
+12,2016-04-28 08:29:03 -0500,"/t/book,/t/hardware,/t/linux,/t/python,/t/reversing,/t/security",Humble Book Bundle: Hacking presented by No Starch Press,https://www.humblebundle.com/books/no-starch-hacking-books,/u/freehunter,24
+0,2016-04-29 06:38:49 -0500,"/t/culture,/t/practices",Email Isn’t The Thing You’re Bad At,https://glyph.twistedmatrix.com/2016/04/email-isnt-the-problem.html,/u/untitaker,6
+4,2016-04-28 18:08:50 -0500,"/t/api,/t/practices,/t/security",Slack bot token leakage exposing business critical information,https://labs.detectify.com/2016/04/28/slack-bot-token-leakage-exposing-business-critical-information/,/u/tedu,8
+0,2016-04-28 23:48:39 -0500,"/t/person,/t/security",Former Tor developer created malware for the FBI to hack Tor users,http://www.dailydot.com/politics/government-contractor-tor-malware/,/u/jcs,7
+0,2016-04-29 09:10:44 -0500,"/t/design,/t/release,/t/web",flexibility - Use flexbox while supporting older Internet Explorers,https://github.com/10up/flexibility,/u/flyingfisch,2
+7,2016-04-28 08:09:38 -0500,"/t/emacs,/t/meta,/t/vim",New tag suggestion: editors,/s/ibsla1/new_tag_suggestion_editors,/u/calvin,22
+15,2016-04-28 07:22:07 -0500,"/t/linux,/t/security","Linux infosec outfit does a Torvalds, rageblocks innocent vuln spotter",http://www.theregister.co.uk/2016/04/27/linux_security_bug_report_row/,/u/mulander,20
+0,2016-04-29 00:30:13 -0500,/t/law,The Crime of Speech,https://www.eff.org/deeplinks/2016/04/crime-speech,/u/halosghost,3
+2,2016-04-28 10:08:39 -0500,/t/practices,How you should choose which technology to learn next,http://codewithoutrules.com/2016/04/27/which-technology/,/u/itamarst,4
+2,2016-04-28 08:50:39 -0500,/t/c,To become a good C programmer (2011),http://fabiensanglard.net/c/,/u/mulander,16
+1,2016-04-28 18:07:25 -0500,/t/api,Jam API: a service that allows you to turn any site into a JSON accessible api using CSS selectors,http://www.jamapi.xyz/,/u/jcs,3
+1,2016-04-28 14:55:38 -0500,"/t/go,/t/networking",A simple way to limit the number of simultaneous clients of a Go net/http server,https://www.pauladamsmith.com/blog/2016/04/max-clients-go-net-http.html,/u/pushcx,4
+0,2016-04-28 05:31:55 -0500,/t/erlang,How Erlang does scheduling (2013),http://jlouisramblings.blogspot.com/2013/01/how-erlang-does-scheduling.html,/u/mulander,14
+6,2016-04-28 07:16:54 -0500,/t/openbsd,"OpenSMTPD, spamd, SpamAssassin and Dovecot on OpenBSD",http://frozen-geek.net/openbsd-email-server-1/,/u/mulander,5
+10,2016-04-27 15:57:42 -0500,/t/programming,Hiring Juniors,http://ryanbigg.com/2016/04/hiring-juniors/,/u/ryanbigg,13
+3,2016-04-27 11:10:34 -0500,"/t/compilers,/t/rust",Introducing MIR,http://blog.rust-lang.org/2016/04/19/MIR.html,/u/steveklabnik,48
+13,2016-04-27 12:08:03 -0500,"/t/mac,/t/rust",xi editor,https://github.com/google/xi-editor,/u/wally,30
+0,2016-04-28 05:25:51 -0500,"/t/api,/t/distributed,/t/linux,/t/programming,/t/virtualization",Microservices Weekly (Issue #24): Deep Dive on Microservices,http://microservicesweekly.com/issue/24,/u/svlada,4
+1,2016-04-28 00:28:20 -0500,/t/person,David Patterson Retires After 40 Years,http://perspectives.mvdirona.com/2016/03/david-patterson-retires-after-40-years/,/u/apy,11
+0,2016-04-28 13:08:46 -0500,"/t/assembly,/t/c,/t/reversing",Defusing a binary bomb with gdb - Part 5,http://blog.carlosgaldino.com/2016/04/28/defusing-a-binary-bomb-with-gdb-part-5.html,/u/carlosgaldino,1

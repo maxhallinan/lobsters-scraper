@@ -1,25 +1,25 @@
-0,2018-02-05 16:03:10 -0600,"['/t/distributed', '/t/web']",Azure Durable Functions Overview (preview),https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview,/u/timr,1
-3,2018-02-04 06:42:16 -0600,"['/t/compsci', '/t/formalmethods', '/t/rust']",Rust's ownership model formally proven with Coq,https://dl.acm.org/citation.cfm?doid=3177123.3158154,/u/klingtnet,49
-0,2018-02-05 09:05:31 -0600,"['/t/compilers', '/t/netbsd', '/t/security']",The LLVM Sanitizers stage accomplished,http://blog.netbsd.org/tnf/entry/the_llvm_sanitizers_stage_accomplished,/u/sevan,3
-0,2018-02-05 09:03:16 -0600,"['/t/hardware', '/t/netbsd', '/t/security']",Recent Security Affairs,http://blog.netbsd.org/tnf/entry/recent_security_affairs,/u/sevan,3
-0,2018-02-05 09:02:50 -0600,"['/t/javascript', '/t/web']",The Ultimate Vue.js & Laravel CRUD Tutorial,https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/,/u/anthonygore,1
-0,2018-02-05 03:48:03 -0600,"['/t/design', '/t/haskell']",Redesigning Haskell docs,https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs,/u/lthms,5
-0,2018-02-04 22:50:51 -0600,['/t/python'],Python3 with pleasure - A short guide on features of Python 3,https://github.com/arogozhnikov/python3_with_pleasure,/u/av,9
-2,2018-02-04 21:00:04 -0600,"['/t/css', '/t/web']",Modern CSS Explained For Dinosaurs,https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525,/u/calvin,8
-5,2018-02-04 10:07:40 -0600,"['/t/release', '/t/unix']",OSH 0.4 - A Shell Language That's Nearly Feature-Complete,http://www.oilshell.org/blog/2018/02/03.html,/u/andyc,11
-1,2018-02-04 20:04:01 -0600,['/t/security'],Quantifying Untrusted Symantec Certificates,https://arkadiyt.com/2018/02/04/quantifying-untrusted-symantec-certificates/,/u/arkadiyt,4
-25,2018-02-04 06:21:31 -0600,"['/t/browsers', '/t/javascript', '/t/performance']",Single Page Application Is Not a Silver Bullet,http://bloomca-me.github.io/2018/02/04/spa-is-not-silver-bullet.html,/u/bloomca,12
-9,2018-02-04 07:48:58 -0600,"['/t/c', '/t/rust']",Memory Safety in Rust: A Case Study with C,http://willcrichton.net/notes/rust-memory-safety/,/u/calvin,18
-0,2018-02-05 11:16:13 -0600,['/t/javascript'],Meet the New Dialog Element,https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/,/u/muhammeddkilicc,1
-0,2018-02-04 22:51:29 -0600,['/t/compilers'],LLVM for Grad Students [2015],http://www.cs.cornell.edu/~asampson/blog/llvm.html,/u/av,6
-0,2018-02-05 06:49:05 -0600,"['/t/slides', '/t/databases']",Standard SQL features where PostgreSQL beats its competitors,https://www.slideshare.net/MarkusWinand/standard-sql-features-where-postgresql-beats-its-competitors,/u/fcbsd,2
-2,2018-02-04 22:04:46 -0600,['/t/science'],"By unpopular demand, let's talk greenhouse gas accounting",https://mathstodon.xyz/@JordiGH/99394158355323470,/u/JordiGH,2
-0,2018-02-05 09:16:30 -0600,"['/t/pdf', '/t/distributed', '/t/networking']",Task Assignment with Unknown Duration,http://repository.cmu.edu/cgi/viewcontent.cgi?article=1886&context=compsci,/u/grahamc,1
-0,2018-02-04 14:02:08 -0600,['/t/go'],Scheduling in Kubernetes,http://alexandrutopliceanu.ro/post/scheduling-in-kubernetes/,/u/topliceanu,7
-0,2018-02-05 04:48:43 -0600,"['/t/privacy', '/t/security']",Biometrics: authentication or identification?,https://desfontain.es/privacy/authentication-vs-identification.html,/u/fcbsd,2
-0,2018-02-04 15:28:07 -0600,"['/t/games', '/t/release']",OpenClonk 8 released,http://blog.openclonk.org/2018/02/openclonk-8-released/,/u/luchs,4
-0,2018-02-04 20:57:51 -0600,"['/t/graphics', '/t/programming']",The Joy of Writing Shaders,https://teaearlgraycold.me/the-joy-of-writing-shaders/,/u/calvin,4
-0,2018-02-04 22:52:08 -0600,"['/t/pdf', '/t/hardware', '/t/security']","Modern microarchitectures: Meltdown, Spectre, and other attacks",http://people.redhat.com/jcm/talks/FOSDEM_2018.pdf,/u/av,3
-0,2018-02-04 22:44:33 -0600,['/t/javascript'],The Delimited Continuation Monad in Javascript,https://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript,/u/akkartik,3
-0,2018-02-04 17:12:09 -0600,"['/t/debugging', '/t/python']",Adding a new statement to Python's syntax in python_terp,http://blog.asrpo.com/adding_new_statement,/u/asrp,3
-3,2018-02-03 18:41:10 -0600,['/t/haskell'],Revisiting 'Monadic Parsing in Haskell',http://vaibhavsagar.com/blog/2018/02/04/revisiting-monadic-parsing-haskell/,/u/vaibhavsagar,30
+0,2018-02-05 16:03:10 -0600,"/t/distributed,/t/web",Azure Durable Functions Overview (preview),https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview,/u/timr,1
+3,2018-02-04 06:42:16 -0600,"/t/compsci,/t/formalmethods,/t/rust",Rust's ownership model formally proven with Coq,https://dl.acm.org/citation.cfm?doid=3177123.3158154,/u/klingtnet,49
+0,2018-02-05 09:05:31 -0600,"/t/compilers,/t/netbsd,/t/security",The LLVM Sanitizers stage accomplished,http://blog.netbsd.org/tnf/entry/the_llvm_sanitizers_stage_accomplished,/u/sevan,3
+0,2018-02-05 09:03:16 -0600,"/t/hardware,/t/netbsd,/t/security",Recent Security Affairs,http://blog.netbsd.org/tnf/entry/recent_security_affairs,/u/sevan,3
+0,2018-02-05 09:02:50 -0600,"/t/javascript,/t/web",The Ultimate Vue.js & Laravel CRUD Tutorial,https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/,/u/anthonygore,1
+0,2018-02-05 03:48:03 -0600,"/t/design,/t/haskell",Redesigning Haskell docs,https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs,/u/lthms,5
+0,2018-02-04 22:50:51 -0600,/t/python,Python3 with pleasure - A short guide on features of Python 3,https://github.com/arogozhnikov/python3_with_pleasure,/u/av,9
+2,2018-02-04 21:00:04 -0600,"/t/css,/t/web",Modern CSS Explained For Dinosaurs,https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525,/u/calvin,8
+5,2018-02-04 10:07:40 -0600,"/t/release,/t/unix",OSH 0.4 - A Shell Language That's Nearly Feature-Complete,http://www.oilshell.org/blog/2018/02/03.html,/u/andyc,11
+1,2018-02-04 20:04:01 -0600,/t/security,Quantifying Untrusted Symantec Certificates,https://arkadiyt.com/2018/02/04/quantifying-untrusted-symantec-certificates/,/u/arkadiyt,4
+25,2018-02-04 06:21:31 -0600,"/t/browsers,/t/javascript,/t/performance",Single Page Application Is Not a Silver Bullet,http://bloomca-me.github.io/2018/02/04/spa-is-not-silver-bullet.html,/u/bloomca,12
+9,2018-02-04 07:48:58 -0600,"/t/c,/t/rust",Memory Safety in Rust: A Case Study with C,http://willcrichton.net/notes/rust-memory-safety/,/u/calvin,18
+0,2018-02-05 11:16:13 -0600,/t/javascript,Meet the New Dialog Element,https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/,/u/muhammeddkilicc,1
+0,2018-02-04 22:51:29 -0600,/t/compilers,LLVM for Grad Students [2015],http://www.cs.cornell.edu/~asampson/blog/llvm.html,/u/av,6
+0,2018-02-05 06:49:05 -0600,"/t/slides,/t/databases",Standard SQL features where PostgreSQL beats its competitors,https://www.slideshare.net/MarkusWinand/standard-sql-features-where-postgresql-beats-its-competitors,/u/fcbsd,2
+2,2018-02-04 22:04:46 -0600,/t/science,"By unpopular demand, let's talk greenhouse gas accounting",https://mathstodon.xyz/@JordiGH/99394158355323470,/u/JordiGH,2
+0,2018-02-05 09:16:30 -0600,"/t/pdf,/t/distributed,/t/networking",Task Assignment with Unknown Duration,http://repository.cmu.edu/cgi/viewcontent.cgi?article=1886&context=compsci,/u/grahamc,1
+0,2018-02-04 14:02:08 -0600,/t/go,Scheduling in Kubernetes,http://alexandrutopliceanu.ro/post/scheduling-in-kubernetes/,/u/topliceanu,7
+0,2018-02-05 04:48:43 -0600,"/t/privacy,/t/security",Biometrics: authentication or identification?,https://desfontain.es/privacy/authentication-vs-identification.html,/u/fcbsd,2
+0,2018-02-04 15:28:07 -0600,"/t/games,/t/release",OpenClonk 8 released,http://blog.openclonk.org/2018/02/openclonk-8-released/,/u/luchs,4
+0,2018-02-04 20:57:51 -0600,"/t/graphics,/t/programming",The Joy of Writing Shaders,https://teaearlgraycold.me/the-joy-of-writing-shaders/,/u/calvin,4
+0,2018-02-04 22:52:08 -0600,"/t/pdf,/t/hardware,/t/security","Modern microarchitectures: Meltdown, Spectre, and other attacks",http://people.redhat.com/jcm/talks/FOSDEM_2018.pdf,/u/av,3
+0,2018-02-04 22:44:33 -0600,/t/javascript,The Delimited Continuation Monad in Javascript,https://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript,/u/akkartik,3
+0,2018-02-04 17:12:09 -0600,"/t/debugging,/t/python",Adding a new statement to Python's syntax in python_terp,http://blog.asrpo.com/adding_new_statement,/u/asrp,3
+3,2018-02-03 18:41:10 -0600,/t/haskell,Revisiting 'Monadic Parsing in Haskell',http://vaibhavsagar.com/blog/2018/02/04/revisiting-monadic-parsing-haskell/,/u/vaibhavsagar,30

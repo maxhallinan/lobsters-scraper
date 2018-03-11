@@ -1,25 +1,25 @@
-1,2015-05-07 17:28:56 -0500,"['/t/distributed', '/t/programming']",Onyx: Distributed Computing in Clojure,http://onyx-platform.github.io/,/u/terretta,6
-2,2015-05-07 14:33:12 -0500,"['/t/python', '/t/release']",Rendering Notebooks on GitHub,https://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/,/u/scari,8
-2,2015-05-07 12:27:57 -0500,['/t/web'],Accepting payments is getting harder,https://medium.com/@folsen/accepting-payments-is-getting-harder-1b2f342e4ea,/u/fredrik,11
-0,2015-05-07 14:20:00 -0500,"['/t/privacy', '/t/security']",The Tor-BSD Diversity Project,https://lists.torproject.org/pipermail/tor-talk/2015-April/037649.html,/u/journeysquid,10
-0,2015-05-07 09:57:41 -0500,"['/t/law', '/t/privacy']","NSA's Bulk Collection of Phone Records Is Illegal, Appeals Court Says",https://firstlook.org/theintercept/2015/05/07/appellate-court-rules-nsas-bulk-collection-phone-records-illegal/,/u/jcs,14
-1,2015-05-07 14:56:14 -0500,"['/t/haskell', '/t/practices']",Froskell Programming Language,https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html,/u/pushcx,5
-2,2015-05-07 09:22:49 -0500,['/t/show'],Show L: metahunt.co - Everything You Ever Wanted to Know About Product Hunt,https://metahunt.co/,/u/sebst,5
-2,2015-05-07 11:58:29 -0500,['/t/distributed'],The Reactive Manifesto,http://www.reactivemanifesto.org/,/u/adsouza,3
-0,2015-05-07 16:36:12 -0500,"['/t/culture', '/t/programming']",MIT alumni in their 50s,http://blogs.law.harvard.edu/philg/2015/04/30/mit-alumni-in-their-50s/,/u/Irene,5
-0,2015-05-07 10:56:41 -0500,['/t/api'],Beyond Decoupling: The Inherent Virtues of an API,https://www.lullabot.com/blog/article/beyond-decoupling-inherent-virtues-api,/u/journeysquid,3
-19,2015-05-06 10:08:30 -0500,"['/t/distributed', '/t/networking']",ZeroScript,https://github.com/hintjens/zs,/u/tylertreat,26
-0,2015-05-07 09:03:37 -0500,"['/t/ios', '/t/math', '/t/programming']",Fixing UI Elements that Float Away,https://spin.atomicobject.com/2015/05/07/floating-ui-elements/,/u/silentbicycle,3
-9,2015-05-06 13:47:26 -0500,['/t/mac'],imgix - Racking Mac Pros on Exposure,http://photos.imgix.com/racking-mac-pros,/u/zg,12
-0,2015-05-07 10:02:30 -0500,['/t/security'],The Hezbollah Connection,http://www.nytimes.com/2015/02/15/magazine/the-hezbollah-connection.html,/u/pushcx,2
-0,2015-05-07 07:29:04 -0500,"['/t/video', '/t/math', '/t/web']",[CSSconf.eu 2013] Ana-Maria Tudor: Maths-powered transforms for creating 3D shapes,http://www.youtube.com/watch?v=w9HeWBH_kvg,/u/flyingfisch,2
-3,2015-05-06 10:42:27 -0500,"['/t/person', '/t/security']",The second sincerest form of flattery (2005),http://www.crypto.com/papers/flattery.html,/u/pushcx,15
-3,2015-05-06 11:05:36 -0500,"['/t/android', '/t/design', '/t/ios', '/t/mobile', '/t/web']",The Similar Phone Finder,http://www.productchart.com/smartphones/similar,/u/no_gravity,8
-2,2015-05-06 09:24:15 -0500,"['/t/linux', '/t/programming', '/t/unix']",Creating Man Pages in Markdown with Ronn,https://spin.atomicobject.com/2015/05/06/man-pages-in-markdown-ronn/,/u/silentbicycle,10
-6,2015-05-06 01:17:40 -0500,['/t/practices'],Grepping logs is terrible,http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/,/u/algernon,21
-0,2015-05-06 11:26:28 -0500,"['/t/pdf', '/t/book', '/t/compilers']",Threaded Interpretive Languages (1981),http://sinclairql.speccy.org/archivo/docs/books/Threaded_interpretive_languages.pdf,/u/pushcx,8
-1,2015-05-06 14:02:23 -0500,"['/t/graphics', '/t/programming']",ImGui: An immediate-mode gui toolkit for creating dev tools,https://github.com/ocornut/imgui,/u/zem,4
-5,2015-05-05 15:08:42 -0500,"['/t/databases', '/t/distributed']",Call me maybe: Aerospike,https://aphyr.com/posts/324-call-me-maybe-aerospike,/u/aphyr,50
-9,2015-05-06 11:54:41 -0500,['/t/meta'],"Add a ""Retro"" tag?",/s/g1gd3o/add_retro_tag,/u/noelle,10
-3,2015-05-06 00:49:19 -0500,['/t/programming'],Writing an Operating System... in QuickBasic,http://back2basic.phatcode.net/?Issue_%231:Writing_an_Operating_System..._in_QuickBasic,/u/zem,10
-0,2015-05-06 12:51:43 -0500,['/t/science'],New Loki Microbe is Closest Relative to All Complex Life,http://phenomena.nationalgeographic.com/2015/05/06/new-loki-microbe-is-closest-relative-to-all-complex-life/,/u/skunkwerks,3
+1,2015-05-07 17:28:56 -0500,"/t/distributed,/t/programming",Onyx: Distributed Computing in Clojure,http://onyx-platform.github.io/,/u/terretta,6
+2,2015-05-07 14:33:12 -0500,"/t/python,/t/release",Rendering Notebooks on GitHub,https://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/,/u/scari,8
+2,2015-05-07 12:27:57 -0500,/t/web,Accepting payments is getting harder,https://medium.com/@folsen/accepting-payments-is-getting-harder-1b2f342e4ea,/u/fredrik,11
+0,2015-05-07 14:20:00 -0500,"/t/privacy,/t/security",The Tor-BSD Diversity Project,https://lists.torproject.org/pipermail/tor-talk/2015-April/037649.html,/u/journeysquid,10
+0,2015-05-07 09:57:41 -0500,"/t/law,/t/privacy","NSA's Bulk Collection of Phone Records Is Illegal, Appeals Court Says",https://firstlook.org/theintercept/2015/05/07/appellate-court-rules-nsas-bulk-collection-phone-records-illegal/,/u/jcs,14
+1,2015-05-07 14:56:14 -0500,"/t/haskell,/t/practices",Froskell Programming Language,https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html,/u/pushcx,5
+2,2015-05-07 09:22:49 -0500,/t/show,Show L: metahunt.co - Everything You Ever Wanted to Know About Product Hunt,https://metahunt.co/,/u/sebst,5
+2,2015-05-07 11:58:29 -0500,/t/distributed,The Reactive Manifesto,http://www.reactivemanifesto.org/,/u/adsouza,3
+0,2015-05-07 16:36:12 -0500,"/t/culture,/t/programming",MIT alumni in their 50s,http://blogs.law.harvard.edu/philg/2015/04/30/mit-alumni-in-their-50s/,/u/Irene,5
+0,2015-05-07 10:56:41 -0500,/t/api,Beyond Decoupling: The Inherent Virtues of an API,https://www.lullabot.com/blog/article/beyond-decoupling-inherent-virtues-api,/u/journeysquid,3
+19,2015-05-06 10:08:30 -0500,"/t/distributed,/t/networking",ZeroScript,https://github.com/hintjens/zs,/u/tylertreat,26
+0,2015-05-07 09:03:37 -0500,"/t/ios,/t/math,/t/programming",Fixing UI Elements that Float Away,https://spin.atomicobject.com/2015/05/07/floating-ui-elements/,/u/silentbicycle,3
+9,2015-05-06 13:47:26 -0500,/t/mac,imgix - Racking Mac Pros on Exposure,http://photos.imgix.com/racking-mac-pros,/u/zg,12
+0,2015-05-07 10:02:30 -0500,/t/security,The Hezbollah Connection,http://www.nytimes.com/2015/02/15/magazine/the-hezbollah-connection.html,/u/pushcx,2
+0,2015-05-07 07:29:04 -0500,"/t/video,/t/math,/t/web",[CSSconf.eu 2013] Ana-Maria Tudor: Maths-powered transforms for creating 3D shapes,http://www.youtube.com/watch?v=w9HeWBH_kvg,/u/flyingfisch,2
+3,2015-05-06 10:42:27 -0500,"/t/person,/t/security",The second sincerest form of flattery (2005),http://www.crypto.com/papers/flattery.html,/u/pushcx,15
+3,2015-05-06 11:05:36 -0500,"/t/android,/t/design,/t/ios,/t/mobile,/t/web",The Similar Phone Finder,http://www.productchart.com/smartphones/similar,/u/no_gravity,8
+2,2015-05-06 09:24:15 -0500,"/t/linux,/t/programming,/t/unix",Creating Man Pages in Markdown with Ronn,https://spin.atomicobject.com/2015/05/06/man-pages-in-markdown-ronn/,/u/silentbicycle,10
+6,2015-05-06 01:17:40 -0500,/t/practices,Grepping logs is terrible,http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/,/u/algernon,21
+0,2015-05-06 11:26:28 -0500,"/t/pdf,/t/book,/t/compilers",Threaded Interpretive Languages (1981),http://sinclairql.speccy.org/archivo/docs/books/Threaded_interpretive_languages.pdf,/u/pushcx,8
+1,2015-05-06 14:02:23 -0500,"/t/graphics,/t/programming",ImGui: An immediate-mode gui toolkit for creating dev tools,https://github.com/ocornut/imgui,/u/zem,4
+5,2015-05-05 15:08:42 -0500,"/t/databases,/t/distributed",Call me maybe: Aerospike,https://aphyr.com/posts/324-call-me-maybe-aerospike,/u/aphyr,50
+9,2015-05-06 11:54:41 -0500,/t/meta,"Add a ""Retro"" tag?",/s/g1gd3o/add_retro_tag,/u/noelle,10
+3,2015-05-06 00:49:19 -0500,/t/programming,Writing an Operating System... in QuickBasic,http://back2basic.phatcode.net/?Issue_%231:Writing_an_Operating_System..._in_QuickBasic,/u/zem,10
+0,2015-05-06 12:51:43 -0500,/t/science,New Loki Microbe is Closest Relative to All Complex Life,http://phenomena.nationalgeographic.com/2015/05/06/new-loki-microbe-is-closest-relative-to-all-complex-life/,/u/skunkwerks,3

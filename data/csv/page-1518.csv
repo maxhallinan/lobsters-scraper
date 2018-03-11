@@ -1,25 +1,25 @@
-0,2012-11-28 11:00:08 -0600,"['/t/design', '/t/unix']","Your Objects, the Unix Way - Code Climate Blog",http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/,/u/JeffreyBaird,1
-0,2012-11-28 10:21:51 -0600,"['/t/book', '/t/c', '/t/ios']",Objective-C Primer (ft. Mr. Higgie),https://speakerdeck.com/rubymaverick/objective-c-primer-ft-mr-higgie,/u/eallam,1
-3,2012-11-27 17:48:28 -0600,['/t/philosophy'],Google’s Driver-less Car and Morality,http://www.newyorker.com/online/blogs/newsdesk/2012/11/google-driverless-car-morality.html,/u/steveklabnik,5
-0,2012-11-27 22:03:04 -0600,['/t/vim'],"Using VimWiki as a distributed, encrypted lab notebook for programming",http://www.stochasticgeometry.ie/2012/11/23/vimwiki/,/u/mc,4
-0,2012-11-28 06:07:40 -0600,"['/t/c', '/t/openbsd', '/t/release', '/t/unix']","entr(1) – run arbitrary commands when files change, uses kqueue(2)",http://entrproject.org/,/u/sramov,1
-2,2012-11-27 07:42:40 -0600,['/t/c'],I’m writing my own OS,http://gusc.lv/2012/11/im-writing-my-own-os/,/u/fogus,10
-0,2012-11-27 21:48:19 -0600,"['/t/android', '/t/news']",Google Play Reviews Now Require A Google+ Account,http://thenextweb.com/google/2012/11/27/google-connects-its-play-store-with-google-public-reviews-will-now-feature-your-name-and-picture/,/u/mc,2
-0,2012-11-27 12:59:22 -0600,['/t/go'],Real life concurrency in Go,http://matt.aimonetti.net/posts/2012/11/27/real-life-concurrency-in-go/,/u/kyle,6
-0,2012-11-27 10:48:25 -0600,"['/t/c', '/t/release']",Redis Crashes - Antirez weblog,http://antirez.com/news/43,/u/stevedomin,5
-1,2012-11-27 07:11:47 -0600,"['/t/design', '/t/ios']","Anatomy of a Beautiful, Native Feeling, HTML5 iOS App",http://justinvincent.com/page/2043/anatomy-of-a-beautiful-native-feeling-ios-app,/u/markprovan,1
-0,2012-11-27 10:26:34 -0600,['/t/php'],Organizing Your WordPress Theme Files » WP Theme Tutorial,http://wpthemetutorial.com/2012/11/27/organizing-your-wordpress-theme-files/,/u/curtismchale,1
-1,2012-11-26 14:44:35 -0600,"['/t/philosophy', '/t/release']",An Introduction to Objectivist-C,http://fdiv.net/2012/04/01/objectivist-c,/u/steveklabnik,10
-2,2012-11-26 17:02:25 -0600,"['/t/book', '/t/ruby']","The entire text of ""Kestrels, Quirky Birds, and Hopeless Egocentricity"" online and free",http://combinators.info,/u/raganwald,8
-1,2012-11-27 01:33:50 -0600,"['/t/video', '/t/javascript']",JavaScript Control - lies and wizardry,http://vimeo.com/stljs/control,/u/michaelsbradleyjr,2
-0,2012-11-26 17:47:33 -0600,"['/t/api', '/t/web']",How I learned to stop worrying and love REST,http://mikemayo.org/2012/how-i-learned-to-stop-worrying-and-love-rest/,/u/steveklabnik,3
-0,2012-11-27 00:12:52 -0600,['/t/law'],The Strange World Of Copyright Misconception,http://www.bennjordan.com/blog/?p=519,/u/jcs,1
-1,2012-11-26 09:08:16 -0600,"['/t/video', '/t/philosophy']",Alan Watts on static vs dynamic type adherents,http://www.youtube.com/watch?v=XXi_ldNRNtM,/u/fogus,7
-0,2012-11-26 10:27:41 -0600,"['/t/assembly', '/t/compsci']",How a crazy GNU assembler macro helps you debug GRUB with GDB,http://timetobleed.com/how-a-crazy-gnu-assembler-macro-helps-you-debug-grub-with-gdb/,/u/jcs,6
-0,2012-11-26 15:18:42 -0600,"['/t/privacy', '/t/rant', '/t/security']","When It Comes to Security, We're Back to Feudalism",http://www.wired.com/opinion/2012/11/feudal-security/,/u/jcs,6
-1,2012-11-26 08:43:56 -0600,"['/t/design', '/t/ios']",A Performance-minded take on iOS design,http://robots.thoughtbot.com/post/36591648724/designing-for-ios-graphics-performance,/u/kaishin,5
-0,2012-11-26 19:14:49 -0600,"['/t/video', '/t/browsers', '/t/reversing', '/t/security']",A Tale of Two Firefox Bugs,https://www.youtube.com/watch?v=EE1lxNuXjFQ,/u/jcs,1
-0,2012-11-26 14:06:27 -0600,['/t/compsci'],Conway’s Game of Life for Curved Surfaces (Part 1),http://0fps.wordpress.com/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/,/u/steveklabnik,1
-0,2012-11-26 13:53:28 -0600,['/t/compsci'],Neo - Y-Not? - Adventures in Functional Programming (Part I),http://neo.com/2012/11/13/y-not-adventures-in-functional-programming-part-i,/u/steveklabnik,1
-0,2012-11-26 13:16:12 -0600,"['/t/video', '/t/security']","Bug Bounty Programs - Panel w/Google, Facebook, Mozilla, Etsy",http://vimeo.com/53947419,/u/jcs,1
-0,2012-11-26 01:05:31 -0600,['/t/security'],Hawk: an HTTP auth scheme using a MAC to provide partial HTTP request cryptographic verification,https://github.com/hueniverse/hawk,/u/jcs,3
+0,2012-11-28 11:00:08 -0600,"/t/design,/t/unix","Your Objects, the Unix Way - Code Climate Blog",http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/,/u/JeffreyBaird,1
+0,2012-11-28 10:21:51 -0600,"/t/book,/t/c,/t/ios",Objective-C Primer (ft. Mr. Higgie),https://speakerdeck.com/rubymaverick/objective-c-primer-ft-mr-higgie,/u/eallam,1
+3,2012-11-27 17:48:28 -0600,/t/philosophy,Google’s Driver-less Car and Morality,http://www.newyorker.com/online/blogs/newsdesk/2012/11/google-driverless-car-morality.html,/u/steveklabnik,5
+0,2012-11-27 22:03:04 -0600,/t/vim,"Using VimWiki as a distributed, encrypted lab notebook for programming",http://www.stochasticgeometry.ie/2012/11/23/vimwiki/,/u/mc,4
+0,2012-11-28 06:07:40 -0600,"/t/c,/t/openbsd,/t/release,/t/unix","entr(1) – run arbitrary commands when files change, uses kqueue(2)",http://entrproject.org/,/u/sramov,1
+2,2012-11-27 07:42:40 -0600,/t/c,I’m writing my own OS,http://gusc.lv/2012/11/im-writing-my-own-os/,/u/fogus,10
+0,2012-11-27 21:48:19 -0600,"/t/android,/t/news",Google Play Reviews Now Require A Google+ Account,http://thenextweb.com/google/2012/11/27/google-connects-its-play-store-with-google-public-reviews-will-now-feature-your-name-and-picture/,/u/mc,2
+0,2012-11-27 12:59:22 -0600,/t/go,Real life concurrency in Go,http://matt.aimonetti.net/posts/2012/11/27/real-life-concurrency-in-go/,/u/kyle,6
+0,2012-11-27 10:48:25 -0600,"/t/c,/t/release",Redis Crashes - Antirez weblog,http://antirez.com/news/43,/u/stevedomin,5
+1,2012-11-27 07:11:47 -0600,"/t/design,/t/ios","Anatomy of a Beautiful, Native Feeling, HTML5 iOS App",http://justinvincent.com/page/2043/anatomy-of-a-beautiful-native-feeling-ios-app,/u/markprovan,1
+0,2012-11-27 10:26:34 -0600,/t/php,Organizing Your WordPress Theme Files » WP Theme Tutorial,http://wpthemetutorial.com/2012/11/27/organizing-your-wordpress-theme-files/,/u/curtismchale,1
+1,2012-11-26 14:44:35 -0600,"/t/philosophy,/t/release",An Introduction to Objectivist-C,http://fdiv.net/2012/04/01/objectivist-c,/u/steveklabnik,10
+2,2012-11-26 17:02:25 -0600,"/t/book,/t/ruby","The entire text of ""Kestrels, Quirky Birds, and Hopeless Egocentricity"" online and free",http://combinators.info,/u/raganwald,8
+1,2012-11-27 01:33:50 -0600,"/t/video,/t/javascript",JavaScript Control - lies and wizardry,http://vimeo.com/stljs/control,/u/michaelsbradleyjr,2
+0,2012-11-26 17:47:33 -0600,"/t/api,/t/web",How I learned to stop worrying and love REST,http://mikemayo.org/2012/how-i-learned-to-stop-worrying-and-love-rest/,/u/steveklabnik,3
+0,2012-11-27 00:12:52 -0600,/t/law,The Strange World Of Copyright Misconception,http://www.bennjordan.com/blog/?p=519,/u/jcs,1
+1,2012-11-26 09:08:16 -0600,"/t/video,/t/philosophy",Alan Watts on static vs dynamic type adherents,http://www.youtube.com/watch?v=XXi_ldNRNtM,/u/fogus,7
+0,2012-11-26 10:27:41 -0600,"/t/assembly,/t/compsci",How a crazy GNU assembler macro helps you debug GRUB with GDB,http://timetobleed.com/how-a-crazy-gnu-assembler-macro-helps-you-debug-grub-with-gdb/,/u/jcs,6
+0,2012-11-26 15:18:42 -0600,"/t/privacy,/t/rant,/t/security","When It Comes to Security, We're Back to Feudalism",http://www.wired.com/opinion/2012/11/feudal-security/,/u/jcs,6
+1,2012-11-26 08:43:56 -0600,"/t/design,/t/ios",A Performance-minded take on iOS design,http://robots.thoughtbot.com/post/36591648724/designing-for-ios-graphics-performance,/u/kaishin,5
+0,2012-11-26 19:14:49 -0600,"/t/video,/t/browsers,/t/reversing,/t/security",A Tale of Two Firefox Bugs,https://www.youtube.com/watch?v=EE1lxNuXjFQ,/u/jcs,1
+0,2012-11-26 14:06:27 -0600,/t/compsci,Conway’s Game of Life for Curved Surfaces (Part 1),http://0fps.wordpress.com/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/,/u/steveklabnik,1
+0,2012-11-26 13:53:28 -0600,/t/compsci,Neo - Y-Not? - Adventures in Functional Programming (Part I),http://neo.com/2012/11/13/y-not-adventures-in-functional-programming-part-i,/u/steveklabnik,1
+0,2012-11-26 13:16:12 -0600,"/t/video,/t/security","Bug Bounty Programs - Panel w/Google, Facebook, Mozilla, Etsy",http://vimeo.com/53947419,/u/jcs,1
+0,2012-11-26 01:05:31 -0600,/t/security,Hawk: an HTTP auth scheme using a MAC to provide partial HTTP request cryptographic verification,https://github.com/hueniverse/hawk,/u/jcs,3

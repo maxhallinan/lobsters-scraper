@@ -1,25 +1,25 @@
-0,2014-09-20 19:30:48 -0500,['/t/practices'],Like Padding & Traffic Hacks. Techniques & Strategies.,http://blog.higg.im/2014/09/19/traffic-hacks-that-actually-work/,/u/dh,1
-5,2014-09-19 17:03:01 -0500,['/t/practices'],Why Non-Constructive Scrum Criticism Should Basically Just Die,http://m50d.github.io/2014/09/19/why-nonconstructive-scrum-criticism.html,/u/lmm,13
-1,2014-09-19 23:47:31 -0500,"['/t/games', '/t/hardware', '/t/programming']",oculus has opensourced the DK1 hardware and firmware,https://github.com/OculusVR/RiftDK1,/u/BruceM,8
-1,2014-09-19 22:57:07 -0500,"['/t/ml', '/t/programming']",Simplifying the 0install solver with OCaml functors,http://roscidus.com/blog/blog/2014/09/17/simplifying-the-solver-with-functors/,/u/BruceM,8
-0,2014-09-20 13:30:00 -0500,"['/t/go', '/t/programming']",Writing Testable Code in Go,http://relistan.com/writing-testable-apps-in-go/,/u/journeysquid,1
-0,2014-09-20 13:02:56 -0500,"['/t/devops', '/t/security', '/t/web']",TinyCert: Generate SSL Certificates And Become Your Own Certificate Authority,https://longren.io/tinycert-generate-ssl-certificates-and-become-your-own-certificate-authority/,/u/tlongren,1
-0,2014-09-19 18:26:16 -0500,['/t/haskell'],How to read Haskell,http://www.haskell.org/haskellwiki/How_to_read_Haskell,/u/jm,12
-0,2014-09-20 12:06:32 -0500,['/t/ios'],iOS file upload issue - iOS 7.1.2 and iOS 8 (beta) - Mobile Safari - Stack Overflow,https://stackoverflow.com/questions/25659190/ios-file-upload-issue-ios-7-1-2-and-ios-8-beta-mobile-safari/25936215#25936215,/u/dh,1
-0,2014-09-19 20:19:18 -0500,"['/t/hardware', '/t/lisp']",PicoLisp in Hardware (PilMCU),http://www.mail-archive.com/picolisp@software-lab.de/msg04823.html,/u/qbit,8
-0,2014-09-20 00:07:12 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Analytics-Aware Graph Database Modelling,http://euranova.eu/upl_docs/publications/analytics-aware-graph-database-modeling.pdf,/u/BruceM,4
-2,2014-09-19 13:56:51 -0500,"['/t/pdf', '/t/haskell', '/t/programming']",Data types a la carte,http://www.staff.science.uu.nl/~swier004/Publications/DataTypesALaCarte.pdf,/u/bitemyapp,6
-8,2014-09-19 09:06:51 -0500,"['/t/practices', '/t/rant']",Why Scrum Should Basically Just Die In A Fire,http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html,/u/arcatan,28
-7,2014-09-19 08:24:14 -0500,"['/t/security', '/t/web']",Keyless SSL: The Nitty Gritty Technical Details,https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/,/u/englishm,8
-0,2014-09-19 14:07:33 -0500,"['/t/haskell', '/t/programming']",Let's Build a Browser Engine in Haskell,http://hrothen.github.io/2014/09/05/lets-build-a-browser-engine-in-haskell/,/u/bitemyapp,6
-0,2014-09-19 12:49:32 -0500,['/t/linux'],"File systems, Data Loss and ZFS",https://clusterhq.com/blog/file-systems-data-loss-zfs/,/u/moses,6
-2,2014-09-19 04:57:15 -0500,"['/t/compsci', '/t/javascript']",Flow: Facebook's new JavaScript type checker,/s/fp9ibi/flow_facebook_s_new_javascript_type,/u/BruceM,11
-0,2014-09-19 13:57:25 -0500,['/t/programming'],Modeling and Simulating Markov Chain Evolution,http://5outh.github.io/posts/2014-08-04-markov-chains.html,/u/bitemyapp,3
-0,2014-09-19 19:15:10 -0500,"['/t/video', '/t/hardware']",How the Curta works,http://www.jwz.org/blog/2014/09/how-the-curta-works/,/u/tedu,1
-0,2014-09-19 17:41:57 -0500,"['/t/pdf', '/t/erlang']",Stuff Goes Bad: Erlang in Anger - Fred Hebert,https://s3.amazonaws.com/erlang-in-anger/text.v1.0.2.pdf,/u/jcspencer,1
-0,2014-09-19 07:49:36 -0500,"['/t/programming', '/t/visualization']",IRHydra 2: v8 and Dart VM IR visualization,http://mrale.ph/irhydra/2/,/u/BruceM,4
-2,2014-09-19 01:50:04 -0500,"['/t/databases', '/t/programming', '/t/ruby']",Writing code as if you accepted Date's views on Relational Model.,/s/kvkofy/writing_code_as_if_you_accepted_date_s,/u/JohnCarter,5
-4,2014-09-18 17:26:16 -0500,"['/t/law', '/t/privacy']","Apple’s “warrant canary” disappears, suggesting new Patriot Act demands",https://gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/,/u/ap,12
-4,2014-09-18 15:41:51 -0500,"['/t/audio', '/t/video', '/t/networking', '/t/security']",DNS TXT record XSS,http://who.is/dns/jamiehankins.co.uk,/u/journeysquid,16
-3,2014-09-19 02:31:08 -0500,['/t/security'],Home Depot breach bigger than Target at 56 mln cards,http://www.reuters.com/article/2014/09/18/home-depot-dataprotection-idUSL3N0RJ5VJ20140918,/u/trousers,3
-0,2014-09-19 09:52:56 -0500,['/t/math'],Ranking Items With Star Ratings: An Approximate Bayesian Approach,http://www.evanmiller.org/ranking-items-with-star-ratings.html,/u/pushcx,2
+0,2014-09-20 19:30:48 -0500,/t/practices,Like Padding & Traffic Hacks. Techniques & Strategies.,http://blog.higg.im/2014/09/19/traffic-hacks-that-actually-work/,/u/dh,1
+5,2014-09-19 17:03:01 -0500,/t/practices,Why Non-Constructive Scrum Criticism Should Basically Just Die,http://m50d.github.io/2014/09/19/why-nonconstructive-scrum-criticism.html,/u/lmm,13
+1,2014-09-19 23:47:31 -0500,"/t/games,/t/hardware,/t/programming",oculus has opensourced the DK1 hardware and firmware,https://github.com/OculusVR/RiftDK1,/u/BruceM,8
+1,2014-09-19 22:57:07 -0500,"/t/ml,/t/programming",Simplifying the 0install solver with OCaml functors,http://roscidus.com/blog/blog/2014/09/17/simplifying-the-solver-with-functors/,/u/BruceM,8
+0,2014-09-20 13:30:00 -0500,"/t/go,/t/programming",Writing Testable Code in Go,http://relistan.com/writing-testable-apps-in-go/,/u/journeysquid,1
+0,2014-09-20 13:02:56 -0500,"/t/devops,/t/security,/t/web",TinyCert: Generate SSL Certificates And Become Your Own Certificate Authority,https://longren.io/tinycert-generate-ssl-certificates-and-become-your-own-certificate-authority/,/u/tlongren,1
+0,2014-09-19 18:26:16 -0500,/t/haskell,How to read Haskell,http://www.haskell.org/haskellwiki/How_to_read_Haskell,/u/jm,12
+0,2014-09-20 12:06:32 -0500,/t/ios,iOS file upload issue - iOS 7.1.2 and iOS 8 (beta) - Mobile Safari - Stack Overflow,https://stackoverflow.com/questions/25659190/ios-file-upload-issue-ios-7-1-2-and-ios-8-beta-mobile-safari/25936215#25936215,/u/dh,1
+0,2014-09-19 20:19:18 -0500,"/t/hardware,/t/lisp",PicoLisp in Hardware (PilMCU),http://www.mail-archive.com/picolisp@software-lab.de/msg04823.html,/u/qbit,8
+0,2014-09-20 00:07:12 -0500,"/t/pdf,/t/compsci,/t/programming",Analytics-Aware Graph Database Modelling,http://euranova.eu/upl_docs/publications/analytics-aware-graph-database-modeling.pdf,/u/BruceM,4
+2,2014-09-19 13:56:51 -0500,"/t/pdf,/t/haskell,/t/programming",Data types a la carte,http://www.staff.science.uu.nl/~swier004/Publications/DataTypesALaCarte.pdf,/u/bitemyapp,6
+8,2014-09-19 09:06:51 -0500,"/t/practices,/t/rant",Why Scrum Should Basically Just Die In A Fire,http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html,/u/arcatan,28
+7,2014-09-19 08:24:14 -0500,"/t/security,/t/web",Keyless SSL: The Nitty Gritty Technical Details,https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/,/u/englishm,8
+0,2014-09-19 14:07:33 -0500,"/t/haskell,/t/programming",Let's Build a Browser Engine in Haskell,http://hrothen.github.io/2014/09/05/lets-build-a-browser-engine-in-haskell/,/u/bitemyapp,6
+0,2014-09-19 12:49:32 -0500,/t/linux,"File systems, Data Loss and ZFS",https://clusterhq.com/blog/file-systems-data-loss-zfs/,/u/moses,6
+2,2014-09-19 04:57:15 -0500,"/t/compsci,/t/javascript",Flow: Facebook's new JavaScript type checker,/s/fp9ibi/flow_facebook_s_new_javascript_type,/u/BruceM,11
+0,2014-09-19 13:57:25 -0500,/t/programming,Modeling and Simulating Markov Chain Evolution,http://5outh.github.io/posts/2014-08-04-markov-chains.html,/u/bitemyapp,3
+0,2014-09-19 19:15:10 -0500,"/t/video,/t/hardware",How the Curta works,http://www.jwz.org/blog/2014/09/how-the-curta-works/,/u/tedu,1
+0,2014-09-19 17:41:57 -0500,"/t/pdf,/t/erlang",Stuff Goes Bad: Erlang in Anger - Fred Hebert,https://s3.amazonaws.com/erlang-in-anger/text.v1.0.2.pdf,/u/jcspencer,1
+0,2014-09-19 07:49:36 -0500,"/t/programming,/t/visualization",IRHydra 2: v8 and Dart VM IR visualization,http://mrale.ph/irhydra/2/,/u/BruceM,4
+2,2014-09-19 01:50:04 -0500,"/t/databases,/t/programming,/t/ruby",Writing code as if you accepted Date's views on Relational Model.,/s/kvkofy/writing_code_as_if_you_accepted_date_s,/u/JohnCarter,5
+4,2014-09-18 17:26:16 -0500,"/t/law,/t/privacy","Apple’s “warrant canary” disappears, suggesting new Patriot Act demands",https://gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/,/u/ap,12
+4,2014-09-18 15:41:51 -0500,"/t/audio,/t/video,/t/networking,/t/security",DNS TXT record XSS,http://who.is/dns/jamiehankins.co.uk,/u/journeysquid,16
+3,2014-09-19 02:31:08 -0500,/t/security,Home Depot breach bigger than Target at 56 mln cards,http://www.reuters.com/article/2014/09/18/home-depot-dataprotection-idUSL3N0RJ5VJ20140918,/u/trousers,3
+0,2014-09-19 09:52:56 -0500,/t/math,Ranking Items With Star Ratings: An Approximate Bayesian Approach,http://www.evanmiller.org/ranking-items-with-star-ratings.html,/u/pushcx,2

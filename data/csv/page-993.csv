@@ -1,25 +1,25 @@
-4,2015-10-24 15:07:33 -0500,"['/t/hardware', '/t/ios', '/t/networking', '/t/practices']",Wi-Fi Assist: a $5 Million Mess,https://medium.com/@istumbler/wi-fi-assist-a-5-million-mess-f10c4c65f2f#.49gyjcq28,/u/pushcx,11
-0,2015-10-24 21:21:12 -0500,"['/t/video', '/t/haskell', '/t/programming']",Learning Real Haskell Incrementally,http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html,/u/pushcx,8
-20,2015-10-24 12:20:38 -0500,['/t/practices'],"How the Enterprise Adopts the New Stack, or ""I Said No, Dammit""",http://thenewstack.io/stack-always-changing/,/u/pushcx,9
-0,2015-10-24 21:42:33 -0500,"['/t/pdf', '/t/linux', '/t/security']",RAP: RIP ROP,https://pax.grsecurity.net/docs/PaXTeam-H2HC15-RAP-RIP-ROP.pdf,/u/lattera,6
-0,2015-10-24 08:31:01 -0500,['/t/math'],There’s more to mathematics than rigour and proofs,https://terrytao.wordpress.com/career-advice/there%e2%80%99s-more-to-mathematics-than-rigour-and-proofs/,/u/pushcx,18
-0,2015-10-24 15:15:36 -0500,"['/t/cryptocurrencies', '/t/distributed']",Programmable blockchains in context: Ethereum’s Future,https://medium.com/@ConsenSys/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.4i1ehojnj,/u/pushcx,8
-0,2015-10-24 10:33:26 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Landry Breuil,http://beastie.pl/deweloperzy-openbsd-landry-breuil/,/u/mulander,13
-0,2015-10-24 15:33:29 -0500,"['/t/javascript', '/t/math']",Double Pendulum in less than 100 lines of JavaSciprt,http://www.physicsandbox.com/projects/double-pendulum.html,/u/pushcx,6
-1,2015-10-24 08:05:04 -0500,"['/t/pdf', '/t/compsci', '/t/hardware', '/t/programming']","The Bitsavers Documents Library: 31,500 computer publications",https://archive.org/details/bitsavers&tab=about,/u/pushcx,12
-0,2015-10-24 22:31:58 -0500,['/t/math'],Play a Sequence at the On-Line Encyclopedia of Integer Sequences,https://oeis.org/play,/u/zg,2
-0,2015-10-24 21:54:44 -0500,"['/t/practices', '/t/programming', '/t/web']",Using the Page Object Pattern With Ember CLI,http://wyeworks.com/blog/2015/5/13/using-the-page-object-pattern-with-ember-cli,/u/joshuacc,2
-1,2015-10-24 17:51:34 -0500,"['/t/graphics', '/t/javascript', '/t/web']",An alternative to HTML5 Canvas using bitmap rendering in <img> tags,https://github.com/brockwhittaker/AltCanvas,/u/calvin,2
-1,2015-10-24 15:12:46 -0500,"['/t/hardware', '/t/security']",'10-second' theoretical hack could jog Fitbits into malware-spreading mode,http://www.theregister.co.uk/2015/10/21/fitbit_hack/,/u/pushcx,3
-6,2015-10-23 12:36:39 -0500,"['/t/databases', '/t/programming']",No Magic,http://thecodelesscode.com/case/211,/u/stig,35
-1,2015-10-23 22:04:28 -0500,"['/t/video', '/t/compilers', '/t/haskell']",Let's be mainstream! User focused design in Elm,http://www.youtube.com/watch?v=oYk8CKH7OhE,/u/pushcx,13
-0,2015-10-24 10:02:11 -0500,['/t/programming'],Open Hub Code Search,http://code.openhub.net,/u/sevan,3
-1,2015-10-23 17:05:07 -0500,"['/t/compsci', '/t/practices']",Do Programmers Practice Computer Science?,http://www.daedtech.com/do-programmers-practice-computer-science,/u/jitterted,14
-2,2015-10-24 06:24:01 -0500,['/t/finance'],A Dozen Things I've Learned from Charlie Munger about Moats,http://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/,/u/mooreds,3
-0,2015-10-24 02:22:52 -0500,"['/t/compilers', '/t/scala']",Dotty Compiler for Scala Bootstraps,https://github.com/lampepfl/dotty/blob/master/docs/2015-10-23-dotty-compiler-bootstraps.md,/u/sanxiyn,4
-2,2015-10-23 13:59:00 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Gilles Chehade,http://beastie.pl/deweloperzy-openbsd-gilles-chehade/,/u/mulander,14
-3,2015-10-23 08:23:32 -0500,['/t/show'],MunchDB - a browser extension to get hygiene ratings on UK food delivery sites,https://munchdb.com,/u/djm,9
-0,2015-10-23 15:52:33 -0500,"['/t/compilers', '/t/elixir', '/t/javascript']",Elixirscript: Elixir to JS,https://github.com/bryanjos/elixirscript,/u/friendlysock,9
-0,2015-10-23 09:01:39 -0500,"['/t/browsers', '/t/design']",System shock,https://medium.com/@mwichary/system-shock-6b1dc6d6596f#.t0xj9ajgc,/u/pushcx,19
-1,2015-10-23 06:54:52 -0500,"['/t/javascript', '/t/web']",ServiceWorker: Revolution of the Web Platform,https://ponyfoo.com/articles/serviceworker-revolution,/u/ponyfoo,10
-0,2015-10-23 18:47:01 -0500,['/t/networking'],Results of experimenting with Brotli for dynamic web content,https://blog.cloudflare.com/results-experimenting-brotli/,/u/pyk,5
+4,2015-10-24 15:07:33 -0500,"/t/hardware,/t/ios,/t/networking,/t/practices",Wi-Fi Assist: a $5 Million Mess,https://medium.com/@istumbler/wi-fi-assist-a-5-million-mess-f10c4c65f2f#.49gyjcq28,/u/pushcx,11
+0,2015-10-24 21:21:12 -0500,"/t/video,/t/haskell,/t/programming",Learning Real Haskell Incrementally,http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html,/u/pushcx,8
+20,2015-10-24 12:20:38 -0500,/t/practices,"How the Enterprise Adopts the New Stack, or ""I Said No, Dammit""",http://thenewstack.io/stack-always-changing/,/u/pushcx,9
+0,2015-10-24 21:42:33 -0500,"/t/pdf,/t/linux,/t/security",RAP: RIP ROP,https://pax.grsecurity.net/docs/PaXTeam-H2HC15-RAP-RIP-ROP.pdf,/u/lattera,6
+0,2015-10-24 08:31:01 -0500,/t/math,There’s more to mathematics than rigour and proofs,https://terrytao.wordpress.com/career-advice/there%e2%80%99s-more-to-mathematics-than-rigour-and-proofs/,/u/pushcx,18
+0,2015-10-24 15:15:36 -0500,"/t/cryptocurrencies,/t/distributed",Programmable blockchains in context: Ethereum’s Future,https://medium.com/@ConsenSys/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.4i1ehojnj,/u/pushcx,8
+0,2015-10-24 10:33:26 -0500,"/t/openbsd,/t/person",OpenBSD developers: Landry Breuil,http://beastie.pl/deweloperzy-openbsd-landry-breuil/,/u/mulander,13
+0,2015-10-24 15:33:29 -0500,"/t/javascript,/t/math",Double Pendulum in less than 100 lines of JavaSciprt,http://www.physicsandbox.com/projects/double-pendulum.html,/u/pushcx,6
+1,2015-10-24 08:05:04 -0500,"/t/pdf,/t/compsci,/t/hardware,/t/programming","The Bitsavers Documents Library: 31,500 computer publications",https://archive.org/details/bitsavers&tab=about,/u/pushcx,12
+0,2015-10-24 22:31:58 -0500,/t/math,Play a Sequence at the On-Line Encyclopedia of Integer Sequences,https://oeis.org/play,/u/zg,2
+0,2015-10-24 21:54:44 -0500,"/t/practices,/t/programming,/t/web",Using the Page Object Pattern With Ember CLI,http://wyeworks.com/blog/2015/5/13/using-the-page-object-pattern-with-ember-cli,/u/joshuacc,2
+1,2015-10-24 17:51:34 -0500,"/t/graphics,/t/javascript,/t/web",An alternative to HTML5 Canvas using bitmap rendering in <img> tags,https://github.com/brockwhittaker/AltCanvas,/u/calvin,2
+1,2015-10-24 15:12:46 -0500,"/t/hardware,/t/security",'10-second' theoretical hack could jog Fitbits into malware-spreading mode,http://www.theregister.co.uk/2015/10/21/fitbit_hack/,/u/pushcx,3
+6,2015-10-23 12:36:39 -0500,"/t/databases,/t/programming",No Magic,http://thecodelesscode.com/case/211,/u/stig,35
+1,2015-10-23 22:04:28 -0500,"/t/video,/t/compilers,/t/haskell",Let's be mainstream! User focused design in Elm,http://www.youtube.com/watch?v=oYk8CKH7OhE,/u/pushcx,13
+0,2015-10-24 10:02:11 -0500,/t/programming,Open Hub Code Search,http://code.openhub.net,/u/sevan,3
+1,2015-10-23 17:05:07 -0500,"/t/compsci,/t/practices",Do Programmers Practice Computer Science?,http://www.daedtech.com/do-programmers-practice-computer-science,/u/jitterted,14
+2,2015-10-24 06:24:01 -0500,/t/finance,A Dozen Things I've Learned from Charlie Munger about Moats,http://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/,/u/mooreds,3
+0,2015-10-24 02:22:52 -0500,"/t/compilers,/t/scala",Dotty Compiler for Scala Bootstraps,https://github.com/lampepfl/dotty/blob/master/docs/2015-10-23-dotty-compiler-bootstraps.md,/u/sanxiyn,4
+2,2015-10-23 13:59:00 -0500,"/t/openbsd,/t/person",OpenBSD developers: Gilles Chehade,http://beastie.pl/deweloperzy-openbsd-gilles-chehade/,/u/mulander,14
+3,2015-10-23 08:23:32 -0500,/t/show,MunchDB - a browser extension to get hygiene ratings on UK food delivery sites,https://munchdb.com,/u/djm,9
+0,2015-10-23 15:52:33 -0500,"/t/compilers,/t/elixir,/t/javascript",Elixirscript: Elixir to JS,https://github.com/bryanjos/elixirscript,/u/friendlysock,9
+0,2015-10-23 09:01:39 -0500,"/t/browsers,/t/design",System shock,https://medium.com/@mwichary/system-shock-6b1dc6d6596f#.t0xj9ajgc,/u/pushcx,19
+1,2015-10-23 06:54:52 -0500,"/t/javascript,/t/web",ServiceWorker: Revolution of the Web Platform,https://ponyfoo.com/articles/serviceworker-revolution,/u/ponyfoo,10
+0,2015-10-23 18:47:01 -0500,/t/networking,Results of experimenting with Brotli for dynamic web content,https://blog.cloudflare.com/results-experimenting-brotli/,/u/pyk,5

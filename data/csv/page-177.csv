@@ -1,25 +1,25 @@
-2,2017-10-07 09:19:52 -0500,"['/t/programming', '/t/satire']","Fetlang, a Fetish-Themed Programming Language",https://github.com/Property404/fetlang,/u/colin,10
-12,2017-10-06 14:44:32 -0500,['/t/openbsd'],I'm thinking about OpenBSD again,http://stevenrosenberg.net/blog/bsd/openbsd/2017_0924_openbsd,/u/mulander,20
-0,2017-10-07 02:00:18 -0500,"['/t/compilers', '/t/formalmethods']",What even is compiler correctness?,https://www.williamjbowman.com/blog/2017/03/24/what-even-is-compiler-correctness/,/u/sanxiyn,10
-0,2017-10-07 11:32:43 -0500,"['/t/distributed', '/t/dotnet', '/t/programming']","Concurrent Revisions: Programming Model for Concurrent, Parallel, and Distributed Apps",https://www.microsoft.com/en-us/research/project/concurrent-revisions/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Frevisions%2F,/u/nickpsecurity,3
-0,2017-10-07 08:02:19 -0500,"['/t/pdf', '/t/vcs']",What’s Wrong with Git? A Conceptual Design Analysis (2013),https://spderosso.github.io/onward13.pdf,/u/pstef,4
-0,2017-10-07 06:17:36 -0500,"['/t/compsci', '/t/visualization']",Locality sensitive hashing explained,https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4,/u/calvin,5
-0,2017-10-07 05:32:36 -0500,"['/t/distributed', '/t/elixir', '/t/programming']",A simple approach to building a real-time collaborative text editor,http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html,/u/wesleyac,5
-0,2017-10-07 15:55:09 -0500,['/t/culture'],"Governance, Engagement, and Resistance in the Open Science Movement: [announcin] a Comparative Study",https://ropensci.org/blog/blog/2017/10/06/sholler-plan,/u/Sietsebb,2
-3,2017-10-06 15:45:10 -0500,"['/t/practices', '/t/programming']",Code is not literature (2014),http://www.gigamonkeys.com/code-reading/,/u/Sietsebb,17
-5,2017-10-06 12:15:43 -0500,['/t/openbsd'],openbsd changes of note 629,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-629,/u/calvin,20
-3,2017-10-06 23:43:13 -0500,['/t/python'],Python as a DSL,https://enotuniq.org/python_as_a_dsl.html,/u/hwayne,4
-1,2017-10-07 01:15:42 -0500,"['/t/ai', '/t/compilers']",Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks,https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/,/u/av,5
-2,2017-10-06 09:44:47 -0500,['/t/haskell'],Comparing Persistent with Ecto and ActiveRecord,http://bitemyapp.com/posts/2017-10-06-persistent-ecto-activerecord.html,/u/bitemyapp,15
-0,2017-10-07 12:58:04 -0500,['/t/api'],"By 2020, 50% of Managed APIs Projected to be Event-Driven",https://realtimeapi.io/2020-50-percent-managed-apis-projected-event-driven/,/u/justinucd,0
-0,2017-10-06 13:10:09 -0500,"['/t/practices', '/t/programming']",Return to the Source,http://www.cipht.net/2017/10/05/why-read-code.html,/u/tokenrove,11
-35,2017-10-05 17:26:37 -0500,"['/t/formalmethods', '/t/rant', '/t/testing']",Uncle Bob and Silver Bullets,https://www.hillelwayne.com/post/uncle-bob/,/u/hwayne,77
-0,2017-10-06 19:19:14 -0500,"['/t/security', '/t/web']",Disqus Security Alert: User Info Breach,https://blog.disqus.com/security-alert-user-info-breach,/u/talklittle,7
-0,2017-10-06 18:45:58 -0500,"['/t/debugging', '/t/networking', '/t/web']",Falsehoods Programmers Believe about REST APIs,http://slinkp.com/falsehoods-programmers-believe-about-apis.html,/u/friendlysock,6
-16,2017-10-05 22:19:07 -0500,['/t/devops'],Reasons Kubernetes is cool,https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/,/u/calvin,27
-1,2017-10-06 14:15:49 -0500,"['/t/python', '/t/release']","Mypy 0.530 released: includes Protocols (= structural subtyping), TypedDict, and Module Aliases",http://mypy-lang.blogspot.com/2017/10/mypy-0530-released.html,/u/Sietsebb,6
-0,2017-10-06 17:12:35 -0500,['/t/cryptocurrencies'],BlockChain vs Event Driven Architecture,https://www.smalsresearch.be/blockchain-vs-event-driven-architecture/,/u/jonathannen,4
-3,2017-10-06 02:59:12 -0500,"['/t/art', '/t/graphics', '/t/math']",Image Dithering: Eleven Algorithms and Source Code,http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/,/u/friendlysock,15
-0,2017-10-06 16:23:11 -0500,['/t/databases'],IO Access methods,http://www.scylladb.com/2017/10/05/io-access-methods-scylla/,/u/tschellenbach,4
-3,2017-10-06 02:29:11 -0500,['/t/security'],The Six Dumbest Ideas in Computer Security (2005),http://www.ranum.com/security/computer_security/editorials/dumb/,/u/danielcompton,14
-1,2017-10-06 18:02:33 -0500,"['/t/android', '/t/release']",Announcing android-job library 1.2.0,https://blog.evernote.com/tech/2017/10/06/announcing-android-job-library-1-2-0/,/u/talklittle,2
+2,2017-10-07 09:19:52 -0500,"/t/programming,/t/satire","Fetlang, a Fetish-Themed Programming Language",https://github.com/Property404/fetlang,/u/colin,10
+12,2017-10-06 14:44:32 -0500,/t/openbsd,I'm thinking about OpenBSD again,http://stevenrosenberg.net/blog/bsd/openbsd/2017_0924_openbsd,/u/mulander,20
+0,2017-10-07 02:00:18 -0500,"/t/compilers,/t/formalmethods",What even is compiler correctness?,https://www.williamjbowman.com/blog/2017/03/24/what-even-is-compiler-correctness/,/u/sanxiyn,10
+0,2017-10-07 11:32:43 -0500,"/t/distributed,/t/dotnet,/t/programming","Concurrent Revisions: Programming Model for Concurrent, Parallel, and Distributed Apps",https://www.microsoft.com/en-us/research/project/concurrent-revisions/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Frevisions%2F,/u/nickpsecurity,3
+0,2017-10-07 08:02:19 -0500,"/t/pdf,/t/vcs",What’s Wrong with Git? A Conceptual Design Analysis (2013),https://spderosso.github.io/onward13.pdf,/u/pstef,4
+0,2017-10-07 06:17:36 -0500,"/t/compsci,/t/visualization",Locality sensitive hashing explained,https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4,/u/calvin,5
+0,2017-10-07 05:32:36 -0500,"/t/distributed,/t/elixir,/t/programming",A simple approach to building a real-time collaborative text editor,http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html,/u/wesleyac,5
+0,2017-10-07 15:55:09 -0500,/t/culture,"Governance, Engagement, and Resistance in the Open Science Movement: [announcin] a Comparative Study",https://ropensci.org/blog/blog/2017/10/06/sholler-plan,/u/Sietsebb,2
+3,2017-10-06 15:45:10 -0500,"/t/practices,/t/programming",Code is not literature (2014),http://www.gigamonkeys.com/code-reading/,/u/Sietsebb,17
+5,2017-10-06 12:15:43 -0500,/t/openbsd,openbsd changes of note 629,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-629,/u/calvin,20
+3,2017-10-06 23:43:13 -0500,/t/python,Python as a DSL,https://enotuniq.org/python_as_a_dsl.html,/u/hwayne,4
+1,2017-10-07 01:15:42 -0500,"/t/ai,/t/compilers",Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks,https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/,/u/av,5
+2,2017-10-06 09:44:47 -0500,/t/haskell,Comparing Persistent with Ecto and ActiveRecord,http://bitemyapp.com/posts/2017-10-06-persistent-ecto-activerecord.html,/u/bitemyapp,15
+0,2017-10-07 12:58:04 -0500,/t/api,"By 2020, 50% of Managed APIs Projected to be Event-Driven",https://realtimeapi.io/2020-50-percent-managed-apis-projected-event-driven/,/u/justinucd,0
+0,2017-10-06 13:10:09 -0500,"/t/practices,/t/programming",Return to the Source,http://www.cipht.net/2017/10/05/why-read-code.html,/u/tokenrove,11
+35,2017-10-05 17:26:37 -0500,"/t/formalmethods,/t/rant,/t/testing",Uncle Bob and Silver Bullets,https://www.hillelwayne.com/post/uncle-bob/,/u/hwayne,77
+0,2017-10-06 19:19:14 -0500,"/t/security,/t/web",Disqus Security Alert: User Info Breach,https://blog.disqus.com/security-alert-user-info-breach,/u/talklittle,7
+0,2017-10-06 18:45:58 -0500,"/t/debugging,/t/networking,/t/web",Falsehoods Programmers Believe about REST APIs,http://slinkp.com/falsehoods-programmers-believe-about-apis.html,/u/friendlysock,6
+16,2017-10-05 22:19:07 -0500,/t/devops,Reasons Kubernetes is cool,https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/,/u/calvin,27
+1,2017-10-06 14:15:49 -0500,"/t/python,/t/release","Mypy 0.530 released: includes Protocols (= structural subtyping), TypedDict, and Module Aliases",http://mypy-lang.blogspot.com/2017/10/mypy-0530-released.html,/u/Sietsebb,6
+0,2017-10-06 17:12:35 -0500,/t/cryptocurrencies,BlockChain vs Event Driven Architecture,https://www.smalsresearch.be/blockchain-vs-event-driven-architecture/,/u/jonathannen,4
+3,2017-10-06 02:59:12 -0500,"/t/art,/t/graphics,/t/math",Image Dithering: Eleven Algorithms and Source Code,http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/,/u/friendlysock,15
+0,2017-10-06 16:23:11 -0500,/t/databases,IO Access methods,http://www.scylladb.com/2017/10/05/io-access-methods-scylla/,/u/tschellenbach,4
+3,2017-10-06 02:29:11 -0500,/t/security,The Six Dumbest Ideas in Computer Security (2005),http://www.ranum.com/security/computer_security/editorials/dumb/,/u/danielcompton,14
+1,2017-10-06 18:02:33 -0500,"/t/android,/t/release",Announcing android-job library 1.2.0,https://blog.evernote.com/tech/2017/10/06/announcing-android-job-library-1-2-0/,/u/talklittle,2

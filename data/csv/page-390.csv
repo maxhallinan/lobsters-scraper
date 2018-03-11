@@ -1,25 +1,25 @@
-1,2017-04-26 07:56:09 -0500,"['/t/browsers', '/t/release']",Tamper Chrome: a Chrome extension to modify HTTP requests on the fly,https://github.com/google/tamperchrome,/u/pushcx,2
-0,2017-04-26 07:25:24 -0500,"['/t/pdf', '/t/crypto', '/t/release']",The tikzpeople LaTeX package,http://mirror.hmc.edu/ctan/graphics/pgf/contrib/tikzpeople/tikzpeople.pdf,/u/pushcx,3
-0,2017-04-26 09:58:48 -0500,"['/t/linux', '/t/release', '/t/reversing']",Manticore: a prototyping tool for dynamic binary analysis,https://github.com/trailofbits/manticore/,/u/pushcx,2
-3,2017-04-25 15:24:19 -0500,"['/t/reversing', '/t/windows']","Windows is Bloated, Thanks to Adobe's Extensible Metadata Platform",https://www.thurrott.com/windows/109962/windows-bloated-thanks-adobes-extensible-metadata-platform,/u/pushcx,11
-6,2017-04-25 06:14:10 -0500,"['/t/crypto', '/t/practices']",Top 10 Developer Crypto Mistakes,https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/,/u/calvin,28
-3,2017-04-25 10:19:07 -0500,['/t/unix'],Addition of HTML style anchor links to terminal emulators,https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda,/u/awal,18
-0,2017-04-26 10:32:35 -0500,"['/t/compsci', '/t/math', '/t/scala']",Introduction to programming with dependent types in Scala,https://stepik.org/course/ThCS-Introduction-to-programming-with-dependent-types-in-Scala-2294/,/u/tf,1
-0,2017-04-26 10:25:48 -0500,"['/t/compsci', '/t/historical']",Dynamic Storage Allocation: A Survey and Critical Review (1995),http://www.cs.northwestern.edu/~pdinda/ics-s05/doc/dsa.pdf,/u/pushcx,1
-0,2017-04-26 10:14:13 -0500,"['/t/pdf', '/t/compsci']",A Logical Relation for Monadic Encapsulation of State,http://iris-project.org/pdfs/runST.pdf,/u/pushcx,1
-0,2017-04-25 21:55:00 -0500,"['/t/practices', '/t/privacy', '/t/web']",Replacing Disqus with GitHub Comments,http://donw.io/post/github-comments/,/u/cnst,6
-0,2017-04-26 05:52:16 -0500,['/t/javascript'],Web Workers in PureScript – part I,http://jandupal.com/Web-Workers-in-PureScript-part-I/,/u/puffnfresh,2
-10,2017-04-25 13:04:52 -0500,"['/t/erlang', '/t/philosophy', '/t/programming']",Turing’s residuum,http://blog.ikura.co/posts/turings-residuum.html,/u/nato,4
-0,2017-04-25 12:16:50 -0500,"['/t/c', '/t/unix']",PATH_MAX Is Tricky,https://eklitzke.org/path-max-is-tricky,/u/colin,14
-4,2017-04-25 18:59:24 -0500,['/t/practices'],The Why of Agile (2016),https://blog.scottnonnenberg.com/the-why-of-agile/,/u/scottnonnenberg,1
-3,2017-04-25 11:26:00 -0500,"['/t/compilers', '/t/compsci']","PL for SE, Part 1: “Programming Languages”",https://taliasplse.wordpress.com/2017/04/24/pl-for-se-part-1-programming-languages/,/u/craigstuntz,7
-34,2017-04-24 16:12:14 -0500,['/t/hardware'],Here’s Why Juicero’s Press is So Expensive,https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50,/u/projectgus,54
-1,2017-04-25 13:46:42 -0500,"['/t/haskell', '/t/ruby']",Parse Ruby Objects in Haskell,https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html,/u/pushcx,9
-13,2017-04-25 11:15:01 -0500,['/t/programming'],"If Google achieves superintelligence, time zones will be its Achilles heel",http://www.scottaaronson.com/blog/?p=3221,/u/bsima,5
-5,2017-04-25 13:09:02 -0500,"['/t/cogsci', '/t/programming']",Copying & Repetition,https://zedshaw.com/2017/04/24/copying-repetition/,/u/kartik,4
-0,2017-04-25 16:08:20 -0500,"['/t/show', '/t/culture', '/t/release']",Officehours Streams,https://officehours.io/streams/post/yjPZ8bmZRinkRNmmG,/u/karj,5
-0,2017-04-25 21:27:14 -0500,"['/t/video', '/t/math', '/t/programming', '/t/science']",Bayesian Statistics without Frequentist Language,https://www.youtube.com/watch?v=yakg94HyWdE,/u/tf,2
-1,2017-04-25 09:13:13 -0500,"['/t/crypto', '/t/distributed', '/t/go', '/t/unix']","NNCP, a collection of utilities simplifying secure store-and-forward files and mail exchanging",http://www.nncpgo.org/,/u/chneukirchen,8
-0,2017-04-25 13:45:06 -0500,"['/t/haskell', '/t/mac']",Shipping Haskell Apps via Homebrew,http://chrispenner.ca/post/homebrew-haskell,/u/pushcx,4
-2,2017-04-25 12:55:35 -0500,['/t/web'],How Sockets Can Block Node’s Event Loop,https://runnable.com/blog/how-sockets-can-block-node-s-event-loop,/u/taylor,2
-8,2017-04-24 09:49:55 -0500,"['/t/show', '/t/perl', '/t/web']","the Context - versioned news portal with open api in xml, json & markdown",http://thecontext.net/opinion/2017/04/4/the-post-truth-and-the-context/,/u/f055,28
+1,2017-04-26 07:56:09 -0500,"/t/browsers,/t/release",Tamper Chrome: a Chrome extension to modify HTTP requests on the fly,https://github.com/google/tamperchrome,/u/pushcx,2
+0,2017-04-26 07:25:24 -0500,"/t/pdf,/t/crypto,/t/release",The tikzpeople LaTeX package,http://mirror.hmc.edu/ctan/graphics/pgf/contrib/tikzpeople/tikzpeople.pdf,/u/pushcx,3
+0,2017-04-26 09:58:48 -0500,"/t/linux,/t/release,/t/reversing",Manticore: a prototyping tool for dynamic binary analysis,https://github.com/trailofbits/manticore/,/u/pushcx,2
+3,2017-04-25 15:24:19 -0500,"/t/reversing,/t/windows","Windows is Bloated, Thanks to Adobe's Extensible Metadata Platform",https://www.thurrott.com/windows/109962/windows-bloated-thanks-adobes-extensible-metadata-platform,/u/pushcx,11
+6,2017-04-25 06:14:10 -0500,"/t/crypto,/t/practices",Top 10 Developer Crypto Mistakes,https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/,/u/calvin,28
+3,2017-04-25 10:19:07 -0500,/t/unix,Addition of HTML style anchor links to terminal emulators,https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda,/u/awal,18
+0,2017-04-26 10:32:35 -0500,"/t/compsci,/t/math,/t/scala",Introduction to programming with dependent types in Scala,https://stepik.org/course/ThCS-Introduction-to-programming-with-dependent-types-in-Scala-2294/,/u/tf,1
+0,2017-04-26 10:25:48 -0500,"/t/compsci,/t/historical",Dynamic Storage Allocation: A Survey and Critical Review (1995),http://www.cs.northwestern.edu/~pdinda/ics-s05/doc/dsa.pdf,/u/pushcx,1
+0,2017-04-26 10:14:13 -0500,"/t/pdf,/t/compsci",A Logical Relation for Monadic Encapsulation of State,http://iris-project.org/pdfs/runST.pdf,/u/pushcx,1
+0,2017-04-25 21:55:00 -0500,"/t/practices,/t/privacy,/t/web",Replacing Disqus with GitHub Comments,http://donw.io/post/github-comments/,/u/cnst,6
+0,2017-04-26 05:52:16 -0500,/t/javascript,Web Workers in PureScript – part I,http://jandupal.com/Web-Workers-in-PureScript-part-I/,/u/puffnfresh,2
+10,2017-04-25 13:04:52 -0500,"/t/erlang,/t/philosophy,/t/programming",Turing’s residuum,http://blog.ikura.co/posts/turings-residuum.html,/u/nato,4
+0,2017-04-25 12:16:50 -0500,"/t/c,/t/unix",PATH_MAX Is Tricky,https://eklitzke.org/path-max-is-tricky,/u/colin,14
+4,2017-04-25 18:59:24 -0500,/t/practices,The Why of Agile (2016),https://blog.scottnonnenberg.com/the-why-of-agile/,/u/scottnonnenberg,1
+3,2017-04-25 11:26:00 -0500,"/t/compilers,/t/compsci","PL for SE, Part 1: “Programming Languages”",https://taliasplse.wordpress.com/2017/04/24/pl-for-se-part-1-programming-languages/,/u/craigstuntz,7
+34,2017-04-24 16:12:14 -0500,/t/hardware,Here’s Why Juicero’s Press is So Expensive,https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50,/u/projectgus,54
+1,2017-04-25 13:46:42 -0500,"/t/haskell,/t/ruby",Parse Ruby Objects in Haskell,https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html,/u/pushcx,9
+13,2017-04-25 11:15:01 -0500,/t/programming,"If Google achieves superintelligence, time zones will be its Achilles heel",http://www.scottaaronson.com/blog/?p=3221,/u/bsima,5
+5,2017-04-25 13:09:02 -0500,"/t/cogsci,/t/programming",Copying & Repetition,https://zedshaw.com/2017/04/24/copying-repetition/,/u/kartik,4
+0,2017-04-25 16:08:20 -0500,"/t/show,/t/culture,/t/release",Officehours Streams,https://officehours.io/streams/post/yjPZ8bmZRinkRNmmG,/u/karj,5
+0,2017-04-25 21:27:14 -0500,"/t/video,/t/math,/t/programming,/t/science",Bayesian Statistics without Frequentist Language,https://www.youtube.com/watch?v=yakg94HyWdE,/u/tf,2
+1,2017-04-25 09:13:13 -0500,"/t/crypto,/t/distributed,/t/go,/t/unix","NNCP, a collection of utilities simplifying secure store-and-forward files and mail exchanging",http://www.nncpgo.org/,/u/chneukirchen,8
+0,2017-04-25 13:45:06 -0500,"/t/haskell,/t/mac",Shipping Haskell Apps via Homebrew,http://chrispenner.ca/post/homebrew-haskell,/u/pushcx,4
+2,2017-04-25 12:55:35 -0500,/t/web,How Sockets Can Block Node’s Event Loop,https://runnable.com/blog/how-sockets-can-block-node-s-event-loop,/u/taylor,2
+8,2017-04-24 09:49:55 -0500,"/t/show,/t/perl,/t/web","the Context - versioned news portal with open api in xml, json & markdown",http://thecontext.net/opinion/2017/04/4/the-post-truth-and-the-context/,/u/f055,28

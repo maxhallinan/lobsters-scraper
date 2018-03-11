@@ -1,25 +1,25 @@
-50,2015-01-02 09:47:10 -0600,['/t/meta'],Hat party,/s/j6q3to/hat_party,/u/jcs,20
-0,2015-01-03 05:43:05 -0600,['/t/programming'],The Software Developer's Sketchbook,http://prog21.dadgum.com/202.html,/u/mrfabbri,4
-7,2015-01-02 17:09:24 -0600,"['/t/book', '/t/c']",Deconstructing K&RC,http://c.learncodethehardway.org/book/krcritique.html,/u/calvin,8
-0,2015-01-03 13:55:13 -0600,"['/t/practices', '/t/programming']",How to avoid the assignment statement (2010),http://loup-vaillant.fr/tutorials/avoid-assignment,/u/pushcx,1
-0,2015-01-03 10:42:23 -0600,['/t/javascript'],React + Angular DI,http://merrickchristensen.com/articles/react-angular-di.html,/u/joshuacc,1
-0,2015-01-03 10:03:15 -0600,"['/t/video', '/t/philosophy', '/t/practices']",Innovation - What Every Developer Absolutely Needs to Know,http://vimeo.com/44723521,/u/SeanTAllen,1
-2,2015-01-02 14:19:46 -0600,"['/t/distributed', '/t/web']",Awkward questions for those boarding the microservices bandwagon,http://blog.oshineye.com/2015/01/awkward-microservices-questions.html,/u/pushcx,10
-3,2015-01-02 13:53:26 -0600,"['/t/lisp', '/t/release']",Open Dylan 2014.1 released,http://opendylan.org/news/2015/01/01/new-release.html,/u/sspiff,10
-3,2015-01-02 20:01:45 -0600,"['/t/lisp', '/t/programming']",Clojure: Koan to Kata,http://paul.henrich.me/posts/2015/01/clojure-koan-to-kata.html,/u/paulh,5
-0,2015-01-02 16:50:23 -0600,['/t/lisp'],Unconditional FizzBuzz,http://carmenla.me/blog/posts/2014-12-31-fizzbuzz.html,/u/iconara,7
-0,2015-01-02 16:47:31 -0600,['/t/lisp'],Clojure 2014 Year in Review,http://stuartsierra.com/2015/01/02/clojure-2014-year-in-review,/u/iconara,7
-0,2015-01-02 11:49:00 -0600,['/t/compsci'],Introduction to Category Theory,http://www.cs.nott.ac.uk/~gmh/cat.html,/u/SeanTAllen,12
-0,2015-01-02 13:21:13 -0600,['/t/openbsd'],OpenBSD Moves to 5.7-beta,http://undeadly.org/cgi?action=article&sid=20150102163712,/u/journeysquid,10
-1,2015-01-02 13:53:38 -0600,"['/t/ask', '/t/python']",Polite conflict with another open source contributor--what should I do?,https://github.com/google/flatbuffers/pull/112,/u/rw,5
-0,2015-01-02 14:24:42 -0600,"['/t/show', '/t/python']",Use JSON files as if they are python modules,https://github.com/kragniz/json-sempai,/u/kragniz,5
-2,2015-01-02 11:09:08 -0600,"['/t/databases', '/t/php', '/t/web']",Introduction to MySQL's Innodb Memcached Interface,https://blog.engineyard.com/2015/introduction-to-mysqls-innodb-memcached-interface,/u/dshafik,3
-0,2015-01-02 17:17:10 -0600,"['/t/show', '/t/javascript', '/t/web']",Pult — Access local HTTP servers on .dev domains,https://github.com/programble/pult,/u/curtis,2
-0,2015-01-02 20:23:17 -0600,"['/t/compsci', '/t/philosophy']",C3TV -From Computation to Consciousness,http://media.ccc.de/browse/congress/2014/31c3_-_6573_-_en_-_saal_2_-_201412281130_-_from_computation_to_consciousness_-_joscha.html#video&t=1472,/u/carinmeier,1
-0,2015-01-01 12:52:58 -0600,['/t/programming'],What is special about Nim?,http://hookrace.net/blog/what-is-special-about-nim/,/u/SeanTAllen,24
-0,2015-01-02 11:54:45 -0600,['/t/compsci'],Types and Functions,http://bartoszmilewski.com/2014/11/24/types-and-functions/,/u/SeanTAllen,1
-0,2015-01-02 07:10:39 -0600,"['/t/programming', '/t/swift']",Functor and Monad in Swift,http://www.javiersoto.me/post/106875422394,/u/penberg,2
-0,2015-01-02 04:41:18 -0600,['/t/erlang'],Scientific Computing on the Erlang VM,http://blog.lfe.io/tutorials/2015/01/01/1215-scientific-computing-on-the-erlang-vm/,/u/vvh,1
-4,2015-01-01 20:03:58 -0600,"['/t/culture', '/t/person', '/t/rant']",Fin,http://dtrace.org/blogs/wesolows/2014/12/29/fin/,/u/pushcx,14
-0,2015-01-02 03:30:39 -0600,"['/t/java', '/t/programming']",Is comparing String different than comparing objects in Java?,http://www.javaguru.co/2015/01/how-to-compare-two-string-in-java.html,/u/codeon1,1
-6,2015-01-01 11:06:42 -0600,"['/t/culture', '/t/distributed', '/t/go', '/t/swift']",Snowsuit Zine // issue 01,http://snowsuit.io/issue01.html,/u/apy,16
+50,2015-01-02 09:47:10 -0600,/t/meta,Hat party,/s/j6q3to/hat_party,/u/jcs,20
+0,2015-01-03 05:43:05 -0600,/t/programming,The Software Developer's Sketchbook,http://prog21.dadgum.com/202.html,/u/mrfabbri,4
+7,2015-01-02 17:09:24 -0600,"/t/book,/t/c",Deconstructing K&RC,http://c.learncodethehardway.org/book/krcritique.html,/u/calvin,8
+0,2015-01-03 13:55:13 -0600,"/t/practices,/t/programming",How to avoid the assignment statement (2010),http://loup-vaillant.fr/tutorials/avoid-assignment,/u/pushcx,1
+0,2015-01-03 10:42:23 -0600,/t/javascript,React + Angular DI,http://merrickchristensen.com/articles/react-angular-di.html,/u/joshuacc,1
+0,2015-01-03 10:03:15 -0600,"/t/video,/t/philosophy,/t/practices",Innovation - What Every Developer Absolutely Needs to Know,http://vimeo.com/44723521,/u/SeanTAllen,1
+2,2015-01-02 14:19:46 -0600,"/t/distributed,/t/web",Awkward questions for those boarding the microservices bandwagon,http://blog.oshineye.com/2015/01/awkward-microservices-questions.html,/u/pushcx,10
+3,2015-01-02 13:53:26 -0600,"/t/lisp,/t/release",Open Dylan 2014.1 released,http://opendylan.org/news/2015/01/01/new-release.html,/u/sspiff,10
+3,2015-01-02 20:01:45 -0600,"/t/lisp,/t/programming",Clojure: Koan to Kata,http://paul.henrich.me/posts/2015/01/clojure-koan-to-kata.html,/u/paulh,5
+0,2015-01-02 16:50:23 -0600,/t/lisp,Unconditional FizzBuzz,http://carmenla.me/blog/posts/2014-12-31-fizzbuzz.html,/u/iconara,7
+0,2015-01-02 16:47:31 -0600,/t/lisp,Clojure 2014 Year in Review,http://stuartsierra.com/2015/01/02/clojure-2014-year-in-review,/u/iconara,7
+0,2015-01-02 11:49:00 -0600,/t/compsci,Introduction to Category Theory,http://www.cs.nott.ac.uk/~gmh/cat.html,/u/SeanTAllen,12
+0,2015-01-02 13:21:13 -0600,/t/openbsd,OpenBSD Moves to 5.7-beta,http://undeadly.org/cgi?action=article&sid=20150102163712,/u/journeysquid,10
+1,2015-01-02 13:53:38 -0600,"/t/ask,/t/python",Polite conflict with another open source contributor--what should I do?,https://github.com/google/flatbuffers/pull/112,/u/rw,5
+0,2015-01-02 14:24:42 -0600,"/t/show,/t/python",Use JSON files as if they are python modules,https://github.com/kragniz/json-sempai,/u/kragniz,5
+2,2015-01-02 11:09:08 -0600,"/t/databases,/t/php,/t/web",Introduction to MySQL's Innodb Memcached Interface,https://blog.engineyard.com/2015/introduction-to-mysqls-innodb-memcached-interface,/u/dshafik,3
+0,2015-01-02 17:17:10 -0600,"/t/show,/t/javascript,/t/web",Pult — Access local HTTP servers on .dev domains,https://github.com/programble/pult,/u/curtis,2
+0,2015-01-02 20:23:17 -0600,"/t/compsci,/t/philosophy",C3TV -From Computation to Consciousness,http://media.ccc.de/browse/congress/2014/31c3_-_6573_-_en_-_saal_2_-_201412281130_-_from_computation_to_consciousness_-_joscha.html#video&t=1472,/u/carinmeier,1
+0,2015-01-01 12:52:58 -0600,/t/programming,What is special about Nim?,http://hookrace.net/blog/what-is-special-about-nim/,/u/SeanTAllen,24
+0,2015-01-02 11:54:45 -0600,/t/compsci,Types and Functions,http://bartoszmilewski.com/2014/11/24/types-and-functions/,/u/SeanTAllen,1
+0,2015-01-02 07:10:39 -0600,"/t/programming,/t/swift",Functor and Monad in Swift,http://www.javiersoto.me/post/106875422394,/u/penberg,2
+0,2015-01-02 04:41:18 -0600,/t/erlang,Scientific Computing on the Erlang VM,http://blog.lfe.io/tutorials/2015/01/01/1215-scientific-computing-on-the-erlang-vm/,/u/vvh,1
+4,2015-01-01 20:03:58 -0600,"/t/culture,/t/person,/t/rant",Fin,http://dtrace.org/blogs/wesolows/2014/12/29/fin/,/u/pushcx,14
+0,2015-01-02 03:30:39 -0600,"/t/java,/t/programming",Is comparing String different than comparing objects in Java?,http://www.javaguru.co/2015/01/how-to-compare-two-string-in-java.html,/u/codeon1,1
+6,2015-01-01 11:06:42 -0600,"/t/culture,/t/distributed,/t/go,/t/swift",Snowsuit Zine // issue 01,http://snowsuit.io/issue01.html,/u/apy,16

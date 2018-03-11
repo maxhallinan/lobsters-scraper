@@ -1,25 +1,25 @@
-2,2014-08-16 14:43:17 -0500,"['/t/pdf', '/t/compsci']",Disruptor: High performance alternative to bounded queues,http://disruptor.googlecode.com/files/Disruptor-1.0.pdf,/u/SeanTAllen,10
-0,2014-08-17 10:27:28 -0500,"['/t/show', '/t/programming', '/t/release']",A Sublime Text plugin to move through and reform your code,https://github.com/Suor/sublime-reform,/u/Suor,1
-10,2014-08-16 17:20:31 -0500,['/t/rant'],A tiny rant: Jekyll vs. Octopress,http://lauris.github.io/blogging/2014/08/16/jekyll-vs-octopress/,/u/lauris,13
-0,2014-08-16 19:25:26 -0500,"['/t/video', '/t/programming']",JuliaCon talk videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6TSRouJfvobfxkZFYiPSvPd,/u/jamesjporter,4
-0,2014-08-16 20:29:02 -0500,"['/t/databases', '/t/distributed', '/t/go', '/t/scaling']",breadis: Transparent sharding/failover-handling proxy for redis and redis sentinel,https://github.com/mediocregopher/breadis,/u/mediocregopher,3
-0,2014-08-16 12:52:23 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Safely Composable Type-Specific Languages,http://www.cs.cmu.edu/~aldrich/papers/ecoop14-tsls.pdf,/u/animatronic,7
-0,2014-08-16 20:36:45 -0500,"['/t/javascript', '/t/math', '/t/science']",jqubits - Quantum computation simulation JavaScript library,https://github.com/davidbkemp/jsqubits,/u/omphalos,2
-1,2014-08-16 07:51:31 -0500,['/t/security'],Schrodinger’s Cat Video and the Death of Clear-Text,https://citizenlab.org/2014/08/cat-video-and-the-death-of-clear-text/,/u/diethylamine,4
-1,2014-08-16 12:25:22 -0500,['/t/dotnet'],"The scope of the C# checked/unchecked keyword is static, not dynamic",http://blogs.msdn.com/b/oldnewthing/archive/2014/08/15/10550205.aspx,/u/tedu,2
-0,2014-08-16 03:31:06 -0500,"['/t/c', '/t/programming']",Eo: yet another C object model,https://phab.enlightenment.org/phame/live/1//post/yet_another_c_object_model_but_better/,/u/billiob,6
-0,2014-08-16 15:00:41 -0500,"['/t/design', '/t/web']","Enduring CSS: writing style sheets for rapidly changing, long-lived projects",http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/,/u/flyingfisch,1
-0,2014-08-16 13:28:31 -0500,"['/t/art', '/t/book', '/t/satire', '/t/science']",The Future T.B.D.,http://bldgblog.blogspot.com/2014/08/the-future-tbd.html,/u/tedu,3
-0,2014-08-16 14:04:12 -0500,"['/t/go', '/t/vcs']",git-hostd service to host local git repos with custom authorized_keys file,https://github.com/jtolds/gitserve,/u/jtolds,1
-0,2014-08-15 14:04:50 -0500,"['/t/audio', '/t/programming']",The Type Theory Podcast - Episode 1: Peter Dybjer on types and testing,http://typetheorypodcast.com/2014/08/episode-1-peter-dybjer-on-type-theory-and-testing/,/u/bitemyapp,8
-0,2014-08-15 14:04:23 -0500,"['/t/haskell', '/t/programming']",Cellular Automata Using Comonads,http://kukuruku.co/hub/haskell/cellular-automata-using-comonads,/u/bitemyapp,8
-0,2014-08-15 11:17:48 -0500,['/t/hardware'],"Print this file, your printer will jam",http://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html,/u/pushcx,9
-0,2014-08-15 14:04:03 -0500,"['/t/haskell', '/t/programming']",What does fmap preserve?,https://duplode.github.io/posts/what-does-fmap-preserve.html,/u/bitemyapp,5
-0,2014-08-16 00:22:15 -0500,['/t/javascript'],conversion.js: Library for converting units of measurement.,https://github.com/Dokko1230/conversion.js,/u/delete,1
-2,2014-08-15 09:45:41 -0500,"['/t/hardware', '/t/unix']",Upstart To Breathe New Life Into Venerable OpenVMS,http://www.enterprisetech.com/2014/08/01/upstart-breathe-new-life-venerable-openvms/,/u/journeysquid,4
-0,2014-08-15 10:21:30 -0500,"['/t/cryptocurrencies', '/t/security']",Capture the Coins – Bitcoin Challenge Explained,http://www.kulkan.com/en/proyectos/bitcoin-challenge-explained/,/u/alecco,4
-2,2014-08-15 11:03:20 -0500,['/t/security'],don't encrypt all the things,http://www.tedunangst.com/flak/post/dont-encrypt-all-the-things,/u/jcs,1
-1,2014-08-15 07:49:41 -0500,['/t/security'],Twenty years of attacks on the RSA cryptosystem (1999),http://crypto.stanford.edu/~dabo/abstracts/RSAattack-survey.html,/u/RiderOfGiraffes,2
-0,2014-08-15 12:44:36 -0500,['/t/devops'],Panamax: Docker Management for Humans,http://panamax.io,/u/cardmagic,1
-3,2014-08-14 13:47:26 -0500,"['/t/dotnet', '/t/programming']",Race conditions in operator +=,http://blogs.msdn.com/b/oldnewthing/archive/2014/08/14/10549885.aspx,/u/tedu,10
-0,2014-08-15 06:45:11 -0500,['/t/math'],Common Errors in College Math,http://www.math.vanderbilt.edu/~schectex/commerrs/,/u/RiderOfGiraffes,1
+2,2014-08-16 14:43:17 -0500,"/t/pdf,/t/compsci",Disruptor: High performance alternative to bounded queues,http://disruptor.googlecode.com/files/Disruptor-1.0.pdf,/u/SeanTAllen,10
+0,2014-08-17 10:27:28 -0500,"/t/show,/t/programming,/t/release",A Sublime Text plugin to move through and reform your code,https://github.com/Suor/sublime-reform,/u/Suor,1
+10,2014-08-16 17:20:31 -0500,/t/rant,A tiny rant: Jekyll vs. Octopress,http://lauris.github.io/blogging/2014/08/16/jekyll-vs-octopress/,/u/lauris,13
+0,2014-08-16 19:25:26 -0500,"/t/video,/t/programming",JuliaCon talk videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6TSRouJfvobfxkZFYiPSvPd,/u/jamesjporter,4
+0,2014-08-16 20:29:02 -0500,"/t/databases,/t/distributed,/t/go,/t/scaling",breadis: Transparent sharding/failover-handling proxy for redis and redis sentinel,https://github.com/mediocregopher/breadis,/u/mediocregopher,3
+0,2014-08-16 12:52:23 -0500,"/t/pdf,/t/compsci,/t/programming",Safely Composable Type-Specific Languages,http://www.cs.cmu.edu/~aldrich/papers/ecoop14-tsls.pdf,/u/animatronic,7
+0,2014-08-16 20:36:45 -0500,"/t/javascript,/t/math,/t/science",jqubits - Quantum computation simulation JavaScript library,https://github.com/davidbkemp/jsqubits,/u/omphalos,2
+1,2014-08-16 07:51:31 -0500,/t/security,Schrodinger’s Cat Video and the Death of Clear-Text,https://citizenlab.org/2014/08/cat-video-and-the-death-of-clear-text/,/u/diethylamine,4
+1,2014-08-16 12:25:22 -0500,/t/dotnet,"The scope of the C# checked/unchecked keyword is static, not dynamic",http://blogs.msdn.com/b/oldnewthing/archive/2014/08/15/10550205.aspx,/u/tedu,2
+0,2014-08-16 03:31:06 -0500,"/t/c,/t/programming",Eo: yet another C object model,https://phab.enlightenment.org/phame/live/1//post/yet_another_c_object_model_but_better/,/u/billiob,6
+0,2014-08-16 15:00:41 -0500,"/t/design,/t/web","Enduring CSS: writing style sheets for rapidly changing, long-lived projects",http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/,/u/flyingfisch,1
+0,2014-08-16 13:28:31 -0500,"/t/art,/t/book,/t/satire,/t/science",The Future T.B.D.,http://bldgblog.blogspot.com/2014/08/the-future-tbd.html,/u/tedu,3
+0,2014-08-16 14:04:12 -0500,"/t/go,/t/vcs",git-hostd service to host local git repos with custom authorized_keys file,https://github.com/jtolds/gitserve,/u/jtolds,1
+0,2014-08-15 14:04:50 -0500,"/t/audio,/t/programming",The Type Theory Podcast - Episode 1: Peter Dybjer on types and testing,http://typetheorypodcast.com/2014/08/episode-1-peter-dybjer-on-type-theory-and-testing/,/u/bitemyapp,8
+0,2014-08-15 14:04:23 -0500,"/t/haskell,/t/programming",Cellular Automata Using Comonads,http://kukuruku.co/hub/haskell/cellular-automata-using-comonads,/u/bitemyapp,8
+0,2014-08-15 11:17:48 -0500,/t/hardware,"Print this file, your printer will jam",http://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html,/u/pushcx,9
+0,2014-08-15 14:04:03 -0500,"/t/haskell,/t/programming",What does fmap preserve?,https://duplode.github.io/posts/what-does-fmap-preserve.html,/u/bitemyapp,5
+0,2014-08-16 00:22:15 -0500,/t/javascript,conversion.js: Library for converting units of measurement.,https://github.com/Dokko1230/conversion.js,/u/delete,1
+2,2014-08-15 09:45:41 -0500,"/t/hardware,/t/unix",Upstart To Breathe New Life Into Venerable OpenVMS,http://www.enterprisetech.com/2014/08/01/upstart-breathe-new-life-venerable-openvms/,/u/journeysquid,4
+0,2014-08-15 10:21:30 -0500,"/t/cryptocurrencies,/t/security",Capture the Coins – Bitcoin Challenge Explained,http://www.kulkan.com/en/proyectos/bitcoin-challenge-explained/,/u/alecco,4
+2,2014-08-15 11:03:20 -0500,/t/security,don't encrypt all the things,http://www.tedunangst.com/flak/post/dont-encrypt-all-the-things,/u/jcs,1
+1,2014-08-15 07:49:41 -0500,/t/security,Twenty years of attacks on the RSA cryptosystem (1999),http://crypto.stanford.edu/~dabo/abstracts/RSAattack-survey.html,/u/RiderOfGiraffes,2
+0,2014-08-15 12:44:36 -0500,/t/devops,Panamax: Docker Management for Humans,http://panamax.io,/u/cardmagic,1
+3,2014-08-14 13:47:26 -0500,"/t/dotnet,/t/programming",Race conditions in operator +=,http://blogs.msdn.com/b/oldnewthing/archive/2014/08/14/10549885.aspx,/u/tedu,10
+0,2014-08-15 06:45:11 -0500,/t/math,Common Errors in College Math,http://www.math.vanderbilt.edu/~schectex/commerrs/,/u/RiderOfGiraffes,1

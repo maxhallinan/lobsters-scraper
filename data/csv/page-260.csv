@@ -1,25 +1,25 @@
-1,2017-08-03 11:12:00 -0500,['/t/linux'],Install and Configure NixOS on a Linode,https://www.linode.com/docs/tools-reference/custom-kernels-distros/install-nixos-on-linode,/u/nixy,7
-0,2017-08-04 02:53:57 -0500,"['/t/compilers', '/t/javascript']",Towards a JavaScript Binary AST,https://yoric.github.io/post/binary-ast-newsletter-1/,/u/freddyb,2
-0,2017-08-03 20:05:49 -0500,['/t/c++'],Compile-time templated A* pathfinding in C++14,http://lapinozz.github.io/learning/2017/07/17/compile-time-templated-a-star-pathfinding.html,/u/calvin,5
-3,2017-08-03 15:33:50 -0500,"['/t/historical', '/t/practices', '/t/programming']",Observations about Software Maintenance (1984),http://multicians.org/stachour.html,/u/trn,5
-1,2017-08-03 13:38:09 -0500,"['/t/api', '/t/games']",RESTful DOOM,http://1amstudios.com/2017/08/01/restful-doom/,/u/pushcx,8
-0,2017-08-03 15:53:21 -0500,"['/t/distributed', '/t/networking', '/t/practices', '/t/scaling']",Pattern: Service Mesh,http://philcalcado.com/2017/08/03/pattern_service_mesh.html,/u/pcalcado,3
-0,2017-08-03 09:15:42 -0500,['/t/vcs'],Git from the inside out,https://maryrosecook.com/blog/post/git-from-the-inside-out,/u/pushcx,13
-1,2017-08-03 11:02:15 -0500,['/t/practices'],Staying focused: it’s not just your environment,https://codewithoutrules.com/2017/08/03/stay-focused/,/u/itamarst,4
-2,2017-08-03 11:27:46 -0500,['/t/programming'],A Career in Programming Without Going To School,http://deliberate-software.com/page/training/,/u/yumaikas,5
-1,2017-08-03 05:44:40 -0500,"['/t/games', '/t/reversing']",Datamining Pokémon,https://eev.ee/blog/2017/08/02/datamining-pokemon/,/u/calvin,14
-0,2017-08-04 02:13:53 -0500,"['/t/javascript', '/t/nodejs']",Mailit - A tiny drop-in REST API to send emails,https://github.com/dthree/mailit,/u/pgl,1
-2,2017-08-04 06:57:11 -0500,['/t/law'],ACLU To Court: It's Legal To Tell Bob To Eat Shit,https://www.techdirt.com/articles/20170802/00533937906/aclu-to-court-legal-to-tell-bob-to-eat-shit.shtml,/u/adsouza,0
-0,2017-08-03 06:47:56 -0500,"['/t/book', '/t/practices', '/t/programming']",Design Pattern Dangers,http://deliberate-software.com/patterns/,/u/steveshogren,5
-0,2017-08-03 12:32:34 -0500,['/t/css'],"If you really dislike FOUT, `font-display: optional` might be your jam",https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/,/u/flyingfisch,4
-0,2017-08-03 16:09:34 -0500,"['/t/pdf', '/t/culture', '/t/historical', '/t/privacy']",Some Thoughts About the Social Implications of Accessible Computing (1965),https://www.computer.org/csdl/proceedings/afips/1965/5066/00/50660243.pdf,/u/trn,5
-14,2017-08-02 07:31:42 -0500,"['/t/javascript', '/t/web']",The Road to Modern JavaScript,http://www.blinkingcaret.com/2017/08/02/the-road-to-modern-javascript/,/u/rdfi,28
-0,2017-08-03 09:38:33 -0500,"['/t/pdf', '/t/haskell', '/t/programming']",Scrap Your Boilerplate: A Practical Design Pattern for Generic Programming,https://www.microsoft.com/en-us/research/wp-content/uploads/2003/01/hmap.pdf,/u/yumaikas,5
-0,2017-08-03 09:11:15 -0500,['/t/lisp'],6 things Reacters do that Re-framers avoid,https://purelyfunctional.tv/article/react-vs-re-frame/,/u/Yogthos,5
-48,2017-08-02 11:20:06 -0500,"['/t/practices', '/t/programming']",FP vs OO,https://www.innoq.com/en/blog/fp-vs-oo/,/u/nickpsecurity,28
-5,2017-08-02 20:40:48 -0500,['/t/privacy'],"The forgotten password you use for your Unroll.Me, is the same password you use for your email",https://twitter.com/ytbryan/status/892922259404333057,/u/ytbryan,4
-1,2017-08-03 16:26:55 -0500,"['/t/culture', '/t/practices']",The Evolution of the Betterment Engineering Interview,https://betterment.engineering/the-evolution-of-the-betterment-engineering-interview-ca6cf6c245f5,/u/kathleenyanolatos,3
-0,2017-08-03 12:46:04 -0500,['/t/ruby'],Improving dependency resolution in Bundler,https://dependabot.com/blog/improving-dependency-resolution-in-bundler,/u/soulcutter,2
-2,2017-08-03 07:03:31 -0500,"['/t/devops', '/t/javascript', '/t/web']",Continuous deployment of a webpack app to multiple environments using Travic CI,https://medium.com/@bartwijnants/continuous-deployment-of-a-webpack-app-to-multiple-environments-using-travic-ci-d2c6f22eac50,/u/bartwijnants,1
-0,2017-08-03 09:16:18 -0500,"['/t/historical', '/t/unix']",It came from... the HOLD SPACE (2012),http://blog.plover.com/Unix/holdspace.html,/u/pushcx,3
-0,2017-08-03 10:33:37 -0500,"['/t/pdf', '/t/compsci', '/t/programming']",Go Meta! - A Case for Generative Programming and DSL's in Performance-Critical Systems,http://drops.dagstuhl.de/opus/volltexte/2015/5029/pdf/19.pdf,/u/nickpsecurity,2
+1,2017-08-03 11:12:00 -0500,/t/linux,Install and Configure NixOS on a Linode,https://www.linode.com/docs/tools-reference/custom-kernels-distros/install-nixos-on-linode,/u/nixy,7
+0,2017-08-04 02:53:57 -0500,"/t/compilers,/t/javascript",Towards a JavaScript Binary AST,https://yoric.github.io/post/binary-ast-newsletter-1/,/u/freddyb,2
+0,2017-08-03 20:05:49 -0500,/t/c++,Compile-time templated A* pathfinding in C++14,http://lapinozz.github.io/learning/2017/07/17/compile-time-templated-a-star-pathfinding.html,/u/calvin,5
+3,2017-08-03 15:33:50 -0500,"/t/historical,/t/practices,/t/programming",Observations about Software Maintenance (1984),http://multicians.org/stachour.html,/u/trn,5
+1,2017-08-03 13:38:09 -0500,"/t/api,/t/games",RESTful DOOM,http://1amstudios.com/2017/08/01/restful-doom/,/u/pushcx,8
+0,2017-08-03 15:53:21 -0500,"/t/distributed,/t/networking,/t/practices,/t/scaling",Pattern: Service Mesh,http://philcalcado.com/2017/08/03/pattern_service_mesh.html,/u/pcalcado,3
+0,2017-08-03 09:15:42 -0500,/t/vcs,Git from the inside out,https://maryrosecook.com/blog/post/git-from-the-inside-out,/u/pushcx,13
+1,2017-08-03 11:02:15 -0500,/t/practices,Staying focused: it’s not just your environment,https://codewithoutrules.com/2017/08/03/stay-focused/,/u/itamarst,4
+2,2017-08-03 11:27:46 -0500,/t/programming,A Career in Programming Without Going To School,http://deliberate-software.com/page/training/,/u/yumaikas,5
+1,2017-08-03 05:44:40 -0500,"/t/games,/t/reversing",Datamining Pokémon,https://eev.ee/blog/2017/08/02/datamining-pokemon/,/u/calvin,14
+0,2017-08-04 02:13:53 -0500,"/t/javascript,/t/nodejs",Mailit - A tiny drop-in REST API to send emails,https://github.com/dthree/mailit,/u/pgl,1
+2,2017-08-04 06:57:11 -0500,/t/law,ACLU To Court: It's Legal To Tell Bob To Eat Shit,https://www.techdirt.com/articles/20170802/00533937906/aclu-to-court-legal-to-tell-bob-to-eat-shit.shtml,/u/adsouza,0
+0,2017-08-03 06:47:56 -0500,"/t/book,/t/practices,/t/programming",Design Pattern Dangers,http://deliberate-software.com/patterns/,/u/steveshogren,5
+0,2017-08-03 12:32:34 -0500,/t/css,"If you really dislike FOUT, `font-display: optional` might be your jam",https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/,/u/flyingfisch,4
+0,2017-08-03 16:09:34 -0500,"/t/pdf,/t/culture,/t/historical,/t/privacy",Some Thoughts About the Social Implications of Accessible Computing (1965),https://www.computer.org/csdl/proceedings/afips/1965/5066/00/50660243.pdf,/u/trn,5
+14,2017-08-02 07:31:42 -0500,"/t/javascript,/t/web",The Road to Modern JavaScript,http://www.blinkingcaret.com/2017/08/02/the-road-to-modern-javascript/,/u/rdfi,28
+0,2017-08-03 09:38:33 -0500,"/t/pdf,/t/haskell,/t/programming",Scrap Your Boilerplate: A Practical Design Pattern for Generic Programming,https://www.microsoft.com/en-us/research/wp-content/uploads/2003/01/hmap.pdf,/u/yumaikas,5
+0,2017-08-03 09:11:15 -0500,/t/lisp,6 things Reacters do that Re-framers avoid,https://purelyfunctional.tv/article/react-vs-re-frame/,/u/Yogthos,5
+48,2017-08-02 11:20:06 -0500,"/t/practices,/t/programming",FP vs OO,https://www.innoq.com/en/blog/fp-vs-oo/,/u/nickpsecurity,28
+5,2017-08-02 20:40:48 -0500,/t/privacy,"The forgotten password you use for your Unroll.Me, is the same password you use for your email",https://twitter.com/ytbryan/status/892922259404333057,/u/ytbryan,4
+1,2017-08-03 16:26:55 -0500,"/t/culture,/t/practices",The Evolution of the Betterment Engineering Interview,https://betterment.engineering/the-evolution-of-the-betterment-engineering-interview-ca6cf6c245f5,/u/kathleenyanolatos,3
+0,2017-08-03 12:46:04 -0500,/t/ruby,Improving dependency resolution in Bundler,https://dependabot.com/blog/improving-dependency-resolution-in-bundler,/u/soulcutter,2
+2,2017-08-03 07:03:31 -0500,"/t/devops,/t/javascript,/t/web",Continuous deployment of a webpack app to multiple environments using Travic CI,https://medium.com/@bartwijnants/continuous-deployment-of-a-webpack-app-to-multiple-environments-using-travic-ci-d2c6f22eac50,/u/bartwijnants,1
+0,2017-08-03 09:16:18 -0500,"/t/historical,/t/unix",It came from... the HOLD SPACE (2012),http://blog.plover.com/Unix/holdspace.html,/u/pushcx,3
+0,2017-08-03 10:33:37 -0500,"/t/pdf,/t/compsci,/t/programming",Go Meta! - A Case for Generative Programming and DSL's in Performance-Critical Systems,http://drops.dagstuhl.de/opus/volltexte/2015/5029/pdf/19.pdf,/u/nickpsecurity,2

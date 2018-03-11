@@ -1,25 +1,25 @@
-0,2014-11-05 08:39:50 -0600,['/t/programming'],Integrating with LLVM,http://dylanfoundry.org/2014/11/05/integrating-with-llvm/,/u/BruceM,21
-0,2014-11-06 07:00:16 -0600,['/t/web'],The Mystical & Magical SemVer Ranges Used By NPM,http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/,/u/remotesynth,1
-2,2014-11-06 12:13:42 -0600,"['/t/culture', '/t/programming']",A Functional Approach to Talking About Feelings,http://superginbaby.wordpress.com/2014/11/06/feelings-a-functional-approach/,/u/SuperGinBaby,1
-1,2014-11-05 18:51:23 -0600,"['/t/lisp', '/t/programming']",Playing with clojure core interfaces,http://spootnik.org/entries/2014/11/06_playing-with-clojure-core-interfaces.html,/u/zem,3
-0,2014-11-05 13:58:02 -0600,"['/t/assembly', '/t/programming']",Optimizing Tail Call Recursion,https://spin.atomicobject.com/2014/11/05/tail-call-recursion-optimization/,/u/silentbicycle,9
-2,2014-11-05 17:08:40 -0600,"['/t/ml', '/t/programming']",Writing Planet in pure OCaml,http://amirchaudhry.com/writing-planet-in-pure-ocaml/,/u/zem,4
-13,2014-11-04 17:20:44 -0600,"['/t/ask', '/t/openbsd']",Any good OpenBSD VPS hosts?,/s/tit5yp/any_good_openbsd_vps_hosts,/u/trousers,30
-0,2014-11-05 15:13:42 -0600,"['/t/pdf', '/t/programming', '/t/science']",Neural Turing Machines,http://arxiv.org/pdf/1410.5401.pdf,/u/carinmeier,3
-0,2014-11-05 11:09:21 -0600,['/t/javascript'],Embracing Async in JavaScript (Part 2) by @whitehouse3000,http://io.pellucid.com/blog/embracing-async-in-javascript-part-2,/u/dtwhitney,3
-1,2014-11-05 01:05:01 -0600,"['/t/video', '/t/distributed']","Think Distributed Panel, Recorded at RICON 2014",https://www.youtube.com/watch?v=QOzvvdibmp0,/u/cmeiklejohn,7
-0,2014-11-05 12:49:33 -0600,"['/t/java', '/t/practices']",So You Want to Write a (HotSpot) Micro-Benchmark [2012],https://wikis.oracle.com/display/HotSpotInternals/MicroBenchmarks,/u/aysylu,2
-0,2014-11-05 13:15:46 -0600,['/t/culture'],The Responsive Enterprise: Embracing the Hacker Way,https://queue.acm.org/detail.cfm?id=2685692,/u/pushcx,4
-0,2014-11-05 09:29:51 -0600,"['/t/pdf', '/t/compsci', '/t/games']",Classic Nintendo Games are (Computationally) Hard,http://arxiv.org/pdf/1203.1895.pdf,/u/animatronic,3
-1,2014-11-05 06:42:06 -0600,['/t/databases'],Red Pill or Blue Pill? Choosing Between SQL & NoSQL,http://developer.telerik.com/featured/decide-neo-blue-pill-red-pill/,/u/remotesynth,2
-2,2014-11-05 13:41:19 -0600,"['/t/video', '/t/culture', '/t/rant']",One Hacker Way,http://vimeo.com/110554082,/u/pushcx,5
-0,2014-11-05 11:55:04 -0600,"['/t/java', '/t/programming', '/t/python']",Clojonic: Pythonic Clojure,http://www.pixelmonkey.org/2014/11/02/clojonic,/u/amontalenti,1
-0,2014-11-05 11:15:01 -0600,['/t/java'],Objects Should Be Immutable,http://www.yegor256.com/2014/06/09/objects-should-be-immutable.html,/u/pushcx,1
-0,2014-11-05 09:39:41 -0600,"['/t/ruby', '/t/web']",Storytime – Content-focused Rails 4+ CMS and blogging engine,https://github.com/FlyoverWorks/storytime/,/u/bcroesch,1
-0,2014-11-04 14:24:21 -0600,"['/t/pdf', '/t/programming']",A Large Scale Study of Programming Languages and Code Quality in Github,http://macbeth.cs.ucdavis.edu/lang_study.pdf,/u/brinker,10
-0,2014-11-04 16:20:46 -0600,"['/t/javascript', '/t/web']","“Screw You, Angular”",https://medium.com/@jeffwhelpley/screw-you-angular-62b3889fd678,/u/leeflannery,5
-3,2014-11-04 05:58:15 -0600,"['/t/programming', '/t/rust']",Rewriting Rust Serialization,https://erickt.github.io/blog/2014/10/28/serialization/,/u/davecardwell,15
-3,2014-11-04 10:21:42 -0600,"['/t/pdf', '/t/distributed']",In-Order and Exactly-Once Delivery Using Hierarchical Distributed Message Queues,http://datasys.cs.iit.edu/publications/2014_SCRAMBL14_HDMQ.pdf,/u/kellogh,4
-3,2014-11-04 09:18:49 -0600,['/t/devops'],Introducing Logjam: a new way of shipping logs to logstash,https://gocardless.com/blog/logjam/,/u/stevedomin,4
-0,2014-11-04 09:45:26 -0600,['/t/programming'],Cobalt2 theme + colour scheme for Sublime Text,https://github.com/wesbos/cobalt2,/u/wesbos,3
-0,2014-11-03 18:45:58 -0600,['/t/unix'],Crossed Signals: A 15 Year Old Bug in a Feature You've Never Heard Of,http://zinascii.com/2014/crossed-signals.html,/u/SeanTAllen,15
+0,2014-11-05 08:39:50 -0600,/t/programming,Integrating with LLVM,http://dylanfoundry.org/2014/11/05/integrating-with-llvm/,/u/BruceM,21
+0,2014-11-06 07:00:16 -0600,/t/web,The Mystical & Magical SemVer Ranges Used By NPM,http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/,/u/remotesynth,1
+2,2014-11-06 12:13:42 -0600,"/t/culture,/t/programming",A Functional Approach to Talking About Feelings,http://superginbaby.wordpress.com/2014/11/06/feelings-a-functional-approach/,/u/SuperGinBaby,1
+1,2014-11-05 18:51:23 -0600,"/t/lisp,/t/programming",Playing with clojure core interfaces,http://spootnik.org/entries/2014/11/06_playing-with-clojure-core-interfaces.html,/u/zem,3
+0,2014-11-05 13:58:02 -0600,"/t/assembly,/t/programming",Optimizing Tail Call Recursion,https://spin.atomicobject.com/2014/11/05/tail-call-recursion-optimization/,/u/silentbicycle,9
+2,2014-11-05 17:08:40 -0600,"/t/ml,/t/programming",Writing Planet in pure OCaml,http://amirchaudhry.com/writing-planet-in-pure-ocaml/,/u/zem,4
+13,2014-11-04 17:20:44 -0600,"/t/ask,/t/openbsd",Any good OpenBSD VPS hosts?,/s/tit5yp/any_good_openbsd_vps_hosts,/u/trousers,30
+0,2014-11-05 15:13:42 -0600,"/t/pdf,/t/programming,/t/science",Neural Turing Machines,http://arxiv.org/pdf/1410.5401.pdf,/u/carinmeier,3
+0,2014-11-05 11:09:21 -0600,/t/javascript,Embracing Async in JavaScript (Part 2) by @whitehouse3000,http://io.pellucid.com/blog/embracing-async-in-javascript-part-2,/u/dtwhitney,3
+1,2014-11-05 01:05:01 -0600,"/t/video,/t/distributed","Think Distributed Panel, Recorded at RICON 2014",https://www.youtube.com/watch?v=QOzvvdibmp0,/u/cmeiklejohn,7
+0,2014-11-05 12:49:33 -0600,"/t/java,/t/practices",So You Want to Write a (HotSpot) Micro-Benchmark [2012],https://wikis.oracle.com/display/HotSpotInternals/MicroBenchmarks,/u/aysylu,2
+0,2014-11-05 13:15:46 -0600,/t/culture,The Responsive Enterprise: Embracing the Hacker Way,https://queue.acm.org/detail.cfm?id=2685692,/u/pushcx,4
+0,2014-11-05 09:29:51 -0600,"/t/pdf,/t/compsci,/t/games",Classic Nintendo Games are (Computationally) Hard,http://arxiv.org/pdf/1203.1895.pdf,/u/animatronic,3
+1,2014-11-05 06:42:06 -0600,/t/databases,Red Pill or Blue Pill? Choosing Between SQL & NoSQL,http://developer.telerik.com/featured/decide-neo-blue-pill-red-pill/,/u/remotesynth,2
+2,2014-11-05 13:41:19 -0600,"/t/video,/t/culture,/t/rant",One Hacker Way,http://vimeo.com/110554082,/u/pushcx,5
+0,2014-11-05 11:55:04 -0600,"/t/java,/t/programming,/t/python",Clojonic: Pythonic Clojure,http://www.pixelmonkey.org/2014/11/02/clojonic,/u/amontalenti,1
+0,2014-11-05 11:15:01 -0600,/t/java,Objects Should Be Immutable,http://www.yegor256.com/2014/06/09/objects-should-be-immutable.html,/u/pushcx,1
+0,2014-11-05 09:39:41 -0600,"/t/ruby,/t/web",Storytime – Content-focused Rails 4+ CMS and blogging engine,https://github.com/FlyoverWorks/storytime/,/u/bcroesch,1
+0,2014-11-04 14:24:21 -0600,"/t/pdf,/t/programming",A Large Scale Study of Programming Languages and Code Quality in Github,http://macbeth.cs.ucdavis.edu/lang_study.pdf,/u/brinker,10
+0,2014-11-04 16:20:46 -0600,"/t/javascript,/t/web","“Screw You, Angular”",https://medium.com/@jeffwhelpley/screw-you-angular-62b3889fd678,/u/leeflannery,5
+3,2014-11-04 05:58:15 -0600,"/t/programming,/t/rust",Rewriting Rust Serialization,https://erickt.github.io/blog/2014/10/28/serialization/,/u/davecardwell,15
+3,2014-11-04 10:21:42 -0600,"/t/pdf,/t/distributed",In-Order and Exactly-Once Delivery Using Hierarchical Distributed Message Queues,http://datasys.cs.iit.edu/publications/2014_SCRAMBL14_HDMQ.pdf,/u/kellogh,4
+3,2014-11-04 09:18:49 -0600,/t/devops,Introducing Logjam: a new way of shipping logs to logstash,https://gocardless.com/blog/logjam/,/u/stevedomin,4
+0,2014-11-04 09:45:26 -0600,/t/programming,Cobalt2 theme + colour scheme for Sublime Text,https://github.com/wesbos/cobalt2,/u/wesbos,3
+0,2014-11-03 18:45:58 -0600,/t/unix,Crossed Signals: A 15 Year Old Bug in a Feature You've Never Heard Of,http://zinascii.com/2014/crossed-signals.html,/u/SeanTAllen,15

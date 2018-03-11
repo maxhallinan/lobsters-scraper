@@ -1,25 +1,25 @@
-1,2017-06-11 06:40:43 -0500,"['/t/c', '/t/release', '/t/science']","Voc: a physical model of the vocal tract, written in ANSI C",http://pbat.ch/proj/voc/,/u/calvin,20
-5,2017-06-11 14:58:10 -0500,"['/t/compilers', '/t/testing']",System Testing a Compiler,http://username.github.io/2017/06/07/System-Testing-Compiler.html,/u/pushcx,4
-0,2017-06-11 12:48:38 -0500,"['/t/pdf', '/t/design', '/t/historical', '/t/mac']",Macintosh Human Interface Guidelines (1992),http://interface.free.fr/Archives/Apple_HIGuidelines.pdf,/u/calvin,7
-1,2017-06-11 15:24:22 -0500,"['/t/css', '/t/javascript']",A Unified Styling Language,https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660,/u/pushcx,4
-0,2017-06-12 06:36:41 -0500,"['/t/culture', '/t/practices']",Scaling email transparency (2014),https://stripe.com/blog/scaling-email-transparency,/u/mjturner,1
-0,2017-06-11 15:10:29 -0500,"['/t/assembly', '/t/c', '/t/go', '/t/release']",c2goasm: C to Go Assembly,https://github.com/minio/c2goasm,/u/pushcx,4
-0,2017-06-11 06:42:57 -0500,"['/t/ios', '/t/privacy']",WWDC 2017 Update: Significant Updates to Location Permissions Coming With iOS 11,https://m.rover.io/wwdc-2017-update-significant-updates-to-location-permissions-coming-with-ios-11-41f96001f87f,/u/calvin,10
-0,2017-06-10 17:29:12 -0500,"['/t/video', '/t/c', '/t/freebsd', '/t/ruby']",Re-Writing BSD 4.4 Shell Commands: echo,https://www.rewritinghistorycasts.com/screencasts/echo,/u/litonico,21
-5,2017-06-10 22:12:28 -0500,['/t/web'],The Wikipedia Adventure,https://mako.cc/copyrighteous/the-wikipedia-adventure,/u/pizzaiolo,10
-0,2017-06-11 08:34:04 -0500,['/t/android'],It's Now Possible to Boot Android on i.MX6 Platforms Without Proprietary Blobs,http://news.softpedia.com/news/it-s-now-possible-to-boot-android-on-i-mx6-platforms-without-proprietary-blobs-516364.shtml,/u/pizzaiolo,5
-12,2017-06-10 11:25:11 -0500,['/t/mac'],My experience using hackintosh low-end PC for 3 years,https://my-site.now.sh/hackintosh,/u/pushcx,22
-1,2017-06-11 01:46:39 -0500,"['/t/javascript', '/t/nodejs']",Server Side Rendering with Prefetch,http://blog.bloomca.me/2017/06/11/server-side-rendering-with-prefetch.html,/u/bloomca,3
-0,2017-06-10 20:17:32 -0500,"['/t/pdf', '/t/netbsd', '/t/security', '/t/unix']",secmodel_sandbox : An application sandbox for NetBSD,http://www.bsdcan.org/2017/schedule/attachments/404_smherwig-sandbox-bsdcan2017.pdf,/u/sevan,14
-6,2017-06-10 11:54:53 -0500,['/t/games'],The Story Behind Mass Effect: Andromeda's Troubled Five-Year Development,http://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428,/u/lm,23
-0,2017-06-10 23:54:19 -0500,"['/t/databases', '/t/release']",bloomberg/comdb2 -- Bloomberg's distributed RDBMS,https://github.com/bloomberg/comdb2,/u/friendlysock,8
-0,2017-06-10 15:21:50 -0500,"['/t/assembly', '/t/c', '/t/lisp']",The L2 Programming Language,https://github.com/murisi/L2/,/u/aleph,19
-2,2017-06-10 17:31:04 -0500,"['/t/c++', '/t/haskell']",Translating a C++ parser to Haskell,http://www.haskellforall.com/2017/06/translating-c-parser-to-haskell.html,/u/puffnfresh,12
-0,2017-06-10 18:54:43 -0500,"['/t/education', '/t/practices']",Teaching tech,https://eev.ee/blog/2017/06/10/teaching-tech/,/u/calvin,8
-0,2017-06-10 19:05:11 -0500,"['/t/compsci', '/t/event']",MINIXCon 2017 Announcement,http://www.minix3.org/conference/2017/,/u/sevan,7
-0,2017-06-10 10:49:39 -0500,['/t/programming'],An All-in-One DAG Toolkit,http://vaibhavsagar.com/blog/2017/06/10/dag-toolkit/,/u/vaibhavsagar,9
-5,2017-06-10 05:48:49 -0500,"['/t/law', '/t/virtualization', '/t/windows']","Intel fires warning shots at Microsoft, claims x86 emulation is a patent minefield",https://arstechnica.com/information-technology/2017/06/intel-fires-warning-shots-at-microsoft-claims-x86-emulation-is-a-patent-minefield/,/u/calvin,16
-4,2017-06-10 11:06:49 -0500,['/t/security'],Raspberry Pi owners: Update your Pi to protect against this Linux trojan,http://www.techrepublic.com/article/raspberry-pi-owners-update-your-pi-to-protect-against-this-linux-trojan/,/u/pizzaiolo,7
-0,2017-06-10 23:34:10 -0500,['/t/haskell'],Event sourced aggregates in Haskell,http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html,/u/pushcx,3
-1,2017-06-10 10:15:27 -0500,['/t/web'],Making the Internet Archive’s full text search faster,http://gio.blog.archive.org/2017/05/31/making-the-internet-archive-full-text-search-faster/,/u/pizzaiolo,10
-27,2017-06-09 18:14:22 -0500,"['/t/privacy', '/t/web']","Pirate Bay founder: We’ve lost the internet, it’s all about damage control now",https://thenextweb.com/eu/2017/06/09/pirate-bay-founder-weve-lost-the-internet-its-all-about-damage-control-now/,/u/pizzaiolo,28
+1,2017-06-11 06:40:43 -0500,"/t/c,/t/release,/t/science","Voc: a physical model of the vocal tract, written in ANSI C",http://pbat.ch/proj/voc/,/u/calvin,20
+5,2017-06-11 14:58:10 -0500,"/t/compilers,/t/testing",System Testing a Compiler,http://username.github.io/2017/06/07/System-Testing-Compiler.html,/u/pushcx,4
+0,2017-06-11 12:48:38 -0500,"/t/pdf,/t/design,/t/historical,/t/mac",Macintosh Human Interface Guidelines (1992),http://interface.free.fr/Archives/Apple_HIGuidelines.pdf,/u/calvin,7
+1,2017-06-11 15:24:22 -0500,"/t/css,/t/javascript",A Unified Styling Language,https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660,/u/pushcx,4
+0,2017-06-12 06:36:41 -0500,"/t/culture,/t/practices",Scaling email transparency (2014),https://stripe.com/blog/scaling-email-transparency,/u/mjturner,1
+0,2017-06-11 15:10:29 -0500,"/t/assembly,/t/c,/t/go,/t/release",c2goasm: C to Go Assembly,https://github.com/minio/c2goasm,/u/pushcx,4
+0,2017-06-11 06:42:57 -0500,"/t/ios,/t/privacy",WWDC 2017 Update: Significant Updates to Location Permissions Coming With iOS 11,https://m.rover.io/wwdc-2017-update-significant-updates-to-location-permissions-coming-with-ios-11-41f96001f87f,/u/calvin,10
+0,2017-06-10 17:29:12 -0500,"/t/video,/t/c,/t/freebsd,/t/ruby",Re-Writing BSD 4.4 Shell Commands: echo,https://www.rewritinghistorycasts.com/screencasts/echo,/u/litonico,21
+5,2017-06-10 22:12:28 -0500,/t/web,The Wikipedia Adventure,https://mako.cc/copyrighteous/the-wikipedia-adventure,/u/pizzaiolo,10
+0,2017-06-11 08:34:04 -0500,/t/android,It's Now Possible to Boot Android on i.MX6 Platforms Without Proprietary Blobs,http://news.softpedia.com/news/it-s-now-possible-to-boot-android-on-i-mx6-platforms-without-proprietary-blobs-516364.shtml,/u/pizzaiolo,5
+12,2017-06-10 11:25:11 -0500,/t/mac,My experience using hackintosh low-end PC for 3 years,https://my-site.now.sh/hackintosh,/u/pushcx,22
+1,2017-06-11 01:46:39 -0500,"/t/javascript,/t/nodejs",Server Side Rendering with Prefetch,http://blog.bloomca.me/2017/06/11/server-side-rendering-with-prefetch.html,/u/bloomca,3
+0,2017-06-10 20:17:32 -0500,"/t/pdf,/t/netbsd,/t/security,/t/unix",secmodel_sandbox : An application sandbox for NetBSD,http://www.bsdcan.org/2017/schedule/attachments/404_smherwig-sandbox-bsdcan2017.pdf,/u/sevan,14
+6,2017-06-10 11:54:53 -0500,/t/games,The Story Behind Mass Effect: Andromeda's Troubled Five-Year Development,http://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428,/u/lm,23
+0,2017-06-10 23:54:19 -0500,"/t/databases,/t/release",bloomberg/comdb2 -- Bloomberg's distributed RDBMS,https://github.com/bloomberg/comdb2,/u/friendlysock,8
+0,2017-06-10 15:21:50 -0500,"/t/assembly,/t/c,/t/lisp",The L2 Programming Language,https://github.com/murisi/L2/,/u/aleph,19
+2,2017-06-10 17:31:04 -0500,"/t/c++,/t/haskell",Translating a C++ parser to Haskell,http://www.haskellforall.com/2017/06/translating-c-parser-to-haskell.html,/u/puffnfresh,12
+0,2017-06-10 18:54:43 -0500,"/t/education,/t/practices",Teaching tech,https://eev.ee/blog/2017/06/10/teaching-tech/,/u/calvin,8
+0,2017-06-10 19:05:11 -0500,"/t/compsci,/t/event",MINIXCon 2017 Announcement,http://www.minix3.org/conference/2017/,/u/sevan,7
+0,2017-06-10 10:49:39 -0500,/t/programming,An All-in-One DAG Toolkit,http://vaibhavsagar.com/blog/2017/06/10/dag-toolkit/,/u/vaibhavsagar,9
+5,2017-06-10 05:48:49 -0500,"/t/law,/t/virtualization,/t/windows","Intel fires warning shots at Microsoft, claims x86 emulation is a patent minefield",https://arstechnica.com/information-technology/2017/06/intel-fires-warning-shots-at-microsoft-claims-x86-emulation-is-a-patent-minefield/,/u/calvin,16
+4,2017-06-10 11:06:49 -0500,/t/security,Raspberry Pi owners: Update your Pi to protect against this Linux trojan,http://www.techrepublic.com/article/raspberry-pi-owners-update-your-pi-to-protect-against-this-linux-trojan/,/u/pizzaiolo,7
+0,2017-06-10 23:34:10 -0500,/t/haskell,Event sourced aggregates in Haskell,http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html,/u/pushcx,3
+1,2017-06-10 10:15:27 -0500,/t/web,Making the Internet Archive’s full text search faster,http://gio.blog.archive.org/2017/05/31/making-the-internet-archive-full-text-search-faster/,/u/pizzaiolo,10
+27,2017-06-09 18:14:22 -0500,"/t/privacy,/t/web","Pirate Bay founder: We’ve lost the internet, it’s all about damage control now",https://thenextweb.com/eu/2017/06/09/pirate-bay-founder-weve-lost-the-internet-its-all-about-damage-control-now/,/u/pizzaiolo,28

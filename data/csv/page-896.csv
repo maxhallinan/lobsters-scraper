@@ -1,25 +1,25 @@
-2,2016-01-23 06:03:12 -0600,"['/t/practices', '/t/programming']",What's Your Secondary Language?,http://prog21.dadgum.com/215.html,/u/ehamberg,10
-0,2016-01-23 17:29:36 -0600,"['/t/video', '/t/c', '/t/programming']",How to Write Code the Compiler Can Actually Optimize,http://www.gdcvault.com/play/1021866/Code-Clinic-2015-How-to,/u/mikejsavage,3
-1,2016-01-23 07:53:44 -0600,['/t/practices'],Why I love hacking at LibreOffice,http://randomtechnicalstuff.blogspot.com/2016/01/why-i-love-hacking-at-libreoffice.html,/u/pushcx,8
-0,2016-01-23 03:29:28 -0600,"['/t/go', '/t/programming']",The factory method pattern in Go.,http://matthewbrown.io/2016/01/23/factory-pattern-in-golang/,/u/mnbbrown,6
-1,2016-01-22 20:46:52 -0600,"['/t/mac', '/t/reversing']",Reversing Apple's syslogd bug,https://reverse.put.as/2016/01/22/reversing-apples-syslogd-bug/,/u/jcs,18
-26,2016-01-22 10:55:28 -0600,"['/t/devops', '/t/unix']",Unikernels are unfit for production,https://www.joyent.com/blog/unikernels-are-unfit-for-production,/u/nwjsmith,31
-0,2016-01-23 06:32:59 -0600,"['/t/release', '/t/web']",AWS Certificate Manager,https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/,/u/av,7
-1,2016-01-23 06:26:06 -0600,['/t/javascript'],Enable Node.js to run with Microsoft's ChakraCore engine #4765,https://github.com/nodejs/node/pull/4765,/u/av,7
-0,2016-01-23 06:40:15 -0600,"['/t/android', '/t/python']",A Web Developer Builds a Kivy App,http://mattscodecave.com/posts/a-web-developer-builds-a-kivy-app.html,/u/av,5
-0,2016-01-23 13:06:05 -0600,"['/t/pdf', '/t/security']","An Evening With Berferd In Which a Cracker is Lured, Endured, and Studied (1992)",http://csrc.nist.gov/publications/secpubs/berferd.pdf,/u/pushcx,2
-12,2016-01-23 06:30:29 -0600,"['/t/culture', '/t/person']",Linus Torvalds on Not Acting 'Professional',http://marc.info/?l=linux-kernel&m=137392506516022&w=2,/u/av,12
-0,2016-01-23 01:41:55 -0600,"['/t/databases', '/t/finance']",A survey of existing ecommerce solutions,http://blog.garage-coding.com/2016/01/23/market-research-ecommerce.html,/u/wsdookadr,3
-0,2016-01-23 06:38:34 -0600,"['/t/math', '/t/python']",Deep Learning Course using TensorFlow from Google,https://www.udacity.com/course/deep-learning--ud730,/u/av,3
-0,2016-01-22 11:34:13 -0600,"['/t/games', '/t/practices']",Why I Quit my Dream Job at Ubisoft,http://gingearstudio.com/why-i-quit-my-dream-job-at-ubisoft,/u/pushcx,25
-0,2016-01-22 17:15:47 -0600,"['/t/security', '/t/windows']",When preloads go sideways,http://www.tedunangst.com/flak/post/when-preloads-go-sideways,/u/uggedal,13
-0,2016-01-22 23:02:31 -0600,['/t/programming'],How a Smell in the Tests Points to a Risk in the Design,http://blog.thecodewhisperer.com/2016/01/21/how-a-smell-in-the-tests-points-to-a-risk-in-the-design/,/u/pushcx,6
-0,2016-01-22 16:38:14 -0600,"['/t/hardware', '/t/mobile']",Rephone,http://www.seeedstudio.com/wiki/Rephone,/u/fcbsd,12
-0,2016-01-23 05:01:55 -0600,"['/t/databases', '/t/math']",Multi-dimensional Clustering Using K-Means in Postgres SQL,https://www.periscopedata.com/blog/multi-dimensional-clustering-using-k-means-postgres.html,/u/geocar,2
-1,2016-01-22 14:36:08 -0600,"['/t/math', '/t/security']",When back doors go bad: Mind your Ps and Qs,https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/,/u/craigstuntz,10
-2,2016-01-22 17:16:34 -0600,"['/t/finance', '/t/hardware']",Logitech Formally Exits OEM Mouse Market,http://www.anandtech.com/show/9984/logitech-exits-oem-mouse-market,/u/calvin,4
-0,2016-01-22 21:16:32 -0600,"['/t/devops', '/t/programming']",Production CoreOS on AWS EC2,https://deis.com/blog/2016/coreos-on-aws,/u/tiwarinitish86,2
-4,2016-01-22 11:39:30 -0600,['/t/networking'],Why Do People Keep Coming to This Couple's Home Looking for Lost Phones?,http://fusion.net/story/214995/find-my-phone-apps-lead-to-wrong-home/,/u/pushcx,8
-7,2016-01-22 10:42:23 -0600,"['/t/cogsci', '/t/games', '/t/visualization']",Game Genre Map: The Cognitive Threshold in Strategy Games,http://quanticfoundry.com/2016/01/20/game-genre-map-the-cognitive-threshold-in-strategy-games/,/u/calvin,5
-9,2016-01-22 08:53:53 -0600,['/t/culture'],Why Doesn't Silicon Valley Hire Black Coders?,http://www.bloomberg.com/features/2016-howard-university-coders/,/u/adsouza,20
-4,2016-01-21 15:43:51 -0600,['/t/rust'],Announcing Rust 1.6,http://blog.rust-lang.org/2016/01/21/Rust-1.6.html,/u/steveklabnik,28
+2,2016-01-23 06:03:12 -0600,"/t/practices,/t/programming",What's Your Secondary Language?,http://prog21.dadgum.com/215.html,/u/ehamberg,10
+0,2016-01-23 17:29:36 -0600,"/t/video,/t/c,/t/programming",How to Write Code the Compiler Can Actually Optimize,http://www.gdcvault.com/play/1021866/Code-Clinic-2015-How-to,/u/mikejsavage,3
+1,2016-01-23 07:53:44 -0600,/t/practices,Why I love hacking at LibreOffice,http://randomtechnicalstuff.blogspot.com/2016/01/why-i-love-hacking-at-libreoffice.html,/u/pushcx,8
+0,2016-01-23 03:29:28 -0600,"/t/go,/t/programming",The factory method pattern in Go.,http://matthewbrown.io/2016/01/23/factory-pattern-in-golang/,/u/mnbbrown,6
+1,2016-01-22 20:46:52 -0600,"/t/mac,/t/reversing",Reversing Apple's syslogd bug,https://reverse.put.as/2016/01/22/reversing-apples-syslogd-bug/,/u/jcs,18
+26,2016-01-22 10:55:28 -0600,"/t/devops,/t/unix",Unikernels are unfit for production,https://www.joyent.com/blog/unikernels-are-unfit-for-production,/u/nwjsmith,31
+0,2016-01-23 06:32:59 -0600,"/t/release,/t/web",AWS Certificate Manager,https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/,/u/av,7
+1,2016-01-23 06:26:06 -0600,/t/javascript,Enable Node.js to run with Microsoft's ChakraCore engine #4765,https://github.com/nodejs/node/pull/4765,/u/av,7
+0,2016-01-23 06:40:15 -0600,"/t/android,/t/python",A Web Developer Builds a Kivy App,http://mattscodecave.com/posts/a-web-developer-builds-a-kivy-app.html,/u/av,5
+0,2016-01-23 13:06:05 -0600,"/t/pdf,/t/security","An Evening With Berferd In Which a Cracker is Lured, Endured, and Studied (1992)",http://csrc.nist.gov/publications/secpubs/berferd.pdf,/u/pushcx,2
+12,2016-01-23 06:30:29 -0600,"/t/culture,/t/person",Linus Torvalds on Not Acting 'Professional',http://marc.info/?l=linux-kernel&m=137392506516022&w=2,/u/av,12
+0,2016-01-23 01:41:55 -0600,"/t/databases,/t/finance",A survey of existing ecommerce solutions,http://blog.garage-coding.com/2016/01/23/market-research-ecommerce.html,/u/wsdookadr,3
+0,2016-01-23 06:38:34 -0600,"/t/math,/t/python",Deep Learning Course using TensorFlow from Google,https://www.udacity.com/course/deep-learning--ud730,/u/av,3
+0,2016-01-22 11:34:13 -0600,"/t/games,/t/practices",Why I Quit my Dream Job at Ubisoft,http://gingearstudio.com/why-i-quit-my-dream-job-at-ubisoft,/u/pushcx,25
+0,2016-01-22 17:15:47 -0600,"/t/security,/t/windows",When preloads go sideways,http://www.tedunangst.com/flak/post/when-preloads-go-sideways,/u/uggedal,13
+0,2016-01-22 23:02:31 -0600,/t/programming,How a Smell in the Tests Points to a Risk in the Design,http://blog.thecodewhisperer.com/2016/01/21/how-a-smell-in-the-tests-points-to-a-risk-in-the-design/,/u/pushcx,6
+0,2016-01-22 16:38:14 -0600,"/t/hardware,/t/mobile",Rephone,http://www.seeedstudio.com/wiki/Rephone,/u/fcbsd,12
+0,2016-01-23 05:01:55 -0600,"/t/databases,/t/math",Multi-dimensional Clustering Using K-Means in Postgres SQL,https://www.periscopedata.com/blog/multi-dimensional-clustering-using-k-means-postgres.html,/u/geocar,2
+1,2016-01-22 14:36:08 -0600,"/t/math,/t/security",When back doors go bad: Mind your Ps and Qs,https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/,/u/craigstuntz,10
+2,2016-01-22 17:16:34 -0600,"/t/finance,/t/hardware",Logitech Formally Exits OEM Mouse Market,http://www.anandtech.com/show/9984/logitech-exits-oem-mouse-market,/u/calvin,4
+0,2016-01-22 21:16:32 -0600,"/t/devops,/t/programming",Production CoreOS on AWS EC2,https://deis.com/blog/2016/coreos-on-aws,/u/tiwarinitish86,2
+4,2016-01-22 11:39:30 -0600,/t/networking,Why Do People Keep Coming to This Couple's Home Looking for Lost Phones?,http://fusion.net/story/214995/find-my-phone-apps-lead-to-wrong-home/,/u/pushcx,8
+7,2016-01-22 10:42:23 -0600,"/t/cogsci,/t/games,/t/visualization",Game Genre Map: The Cognitive Threshold in Strategy Games,http://quanticfoundry.com/2016/01/20/game-genre-map-the-cognitive-threshold-in-strategy-games/,/u/calvin,5
+9,2016-01-22 08:53:53 -0600,/t/culture,Why Doesn't Silicon Valley Hire Black Coders?,http://www.bloomberg.com/features/2016-howard-university-coders/,/u/adsouza,20
+4,2016-01-21 15:43:51 -0600,/t/rust,Announcing Rust 1.6,http://blog.rust-lang.org/2016/01/21/Rust-1.6.html,/u/steveklabnik,28

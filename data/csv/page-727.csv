@@ -1,25 +1,25 @@
-1,2016-07-12 01:26:39 -0500,"['/t/go', '/t/testing']",Defer Teardown,http://sigusr2.net/defer-teardown.html,/u/apg,1
-0,2016-07-11 22:34:33 -0500,"['/t/elm', '/t/programming', '/t/web']",How to Use Elm at Work,http://elm-lang.org/blog/how-to-use-elm-at-work,/u/romanzolotarev,6
-0,2016-07-12 08:15:29 -0500,['/t/math'],Empathy-Driven Mathematics,https://betterexplained.com/articles/math-empathy/,/u/craigstuntz,1
-30,2016-07-11 03:40:00 -0500,['/t/ask'],What are you working on this week?,/s/sxrbb8/what_are_you_working_on_this_week,/u/caius,19
-1,2016-07-11 13:04:15 -0500,['/t/javascript'],Announcing TypeScript 2.0 Beta,https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/,/u/joshuacc,10
-1,2016-07-11 18:54:41 -0500,"['/t/pdf', '/t/api', '/t/unix']",The Process File System and Process Model in UNIX System V,https://www.usenix.org/sites/default/files/usenix_winter91_faulkner.pdf,/u/friendlysock,4
-0,2016-07-11 14:56:28 -0500,['/t/programming'],A Glimpse into the Apollo Guidance Computer,https://medium.com/@borja/a-glimpse-into-the-apollo-guidance-computer-8ee06e5e1a5c,/u/dix,8
-2,2016-07-11 16:38:14 -0500,"['/t/culture', '/t/historical', '/t/privacy']",really bad attitude. [1998],https://www.jwz.org/gruntle/rbarip.html,/u/tnecniv,11
-0,2016-07-12 03:10:11 -0500,"['/t/assembly', '/t/security']",Embedded Security CTF,https://microcorruption.com,/u/xcombelle,1
-0,2016-07-11 20:23:49 -0500,"['/t/hardware', '/t/historical']","Restoring Y Combinator's Xerox Alto, day 3: Inside the disk drive",http://www.righto.com/2016/07/restoring-y-combinators-xerox-alto-day_11.html,/u/calvin,3
-1,2016-07-12 09:33:25 -0500,['/t/javascript'],5 Reasons Why You Should Be Using Promises,http://blog.runnable.com/post/147262856601/5-reasons-why-you-should-be-using-promises,/u/sundip,0
-0,2016-07-11 12:34:48 -0500,['/t/rust'],tarpc: An RPC framework for Rust with a focus on ease of use,https://github.com/google/tarpc,/u/pyk,6
-2,2016-07-11 08:24:44 -0500,['/t/emacs'],vdiff - A tool like vimdiff for Emacs,https://github.com/justbur/emacs-vdiff,/u/dwc,5
-3,2016-07-11 06:06:46 -0500,"['/t/ruby', '/t/security', '/t/web']",Rails Webconsole DNS Rebinding,http://benmmurphy.github.com/blog/2016/07/11/rails-webconsole-dns-rebinding,/u/jcs,8
-0,2016-07-11 16:26:25 -0500,['/t/practices'],The Three Rs,http://feoh.org/the-three-rs.html,/u/feoh,1
-0,2016-07-11 08:12:58 -0500,"['/t/graphics', '/t/web']",Accessible SVGs,https://css-tricks.com/accessible-svgs/,/u/flyingfisch,6
-0,2016-07-11 03:27:02 -0500,"['/t/api', '/t/rust']",Rust and Rest,http://lucumr.pocoo.org/2016/7/10/rust-rest/,/u/julienXX,10
-5,2016-07-10 16:49:33 -0500,['/t/freebsd'],ZFS Deadlock: 'Directory of Death' (npm triggers zfs rename deadlock),http://lists.freebsd.org/pipermail/freebsd-hackers/2016-July/049740.html,/u/cnst,16
-0,2016-07-11 13:45:08 -0500,['/t/devops'],Store your Node.js application logs to Minio,https://blog.minio.io/store-your-node-js-application-logs-to-minio-2d76a0a63aaa,/u/tiwarinitish86,1
-1,2016-07-10 23:10:41 -0500,"['/t/browsers', '/t/security', '/t/web']",An open letter to security researchers and practitioners,http://mailman.nanog.org/pipermail/nanog/2016-July/087069.html,/u/cnst,11
-15,2016-07-10 06:18:46 -0500,['/t/programming'],"Writing an editor in less than 1000 lines of code, just for fun",http://antirez.com/news/108,/u/mulander,44
-0,2016-07-11 07:45:37 -0500,['/t/python'],Datamining a Flat in Munich (2014),https://funnybretzel.svbtle.com/datamining-a-flat-in-munich,/u/jan,4
-1,2016-07-10 17:19:23 -0500,"['/t/cryptocurrencies', '/t/security']",Blockchain Graveyard,https://magoo.github.io/Blockchain-Graveyard/,/u/tedu,16
-4,2016-07-10 13:41:21 -0500,"['/t/video', '/t/historical']",IBM introduces Fortran (1958),https://www.youtube.com/watch?v=wyN7rTJ0NwM,/u/GeoffWozniak,12
-0,2016-07-11 10:45:35 -0500,['/t/programming'],InnerSource: Internal Open Source at PayPal [Oct. 2015],https://www.infoq.com/news/2015/10/innersource-at-paypal,/u/stkrzysiak,1
+1,2016-07-12 01:26:39 -0500,"/t/go,/t/testing",Defer Teardown,http://sigusr2.net/defer-teardown.html,/u/apg,1
+0,2016-07-11 22:34:33 -0500,"/t/elm,/t/programming,/t/web",How to Use Elm at Work,http://elm-lang.org/blog/how-to-use-elm-at-work,/u/romanzolotarev,6
+0,2016-07-12 08:15:29 -0500,/t/math,Empathy-Driven Mathematics,https://betterexplained.com/articles/math-empathy/,/u/craigstuntz,1
+30,2016-07-11 03:40:00 -0500,/t/ask,What are you working on this week?,/s/sxrbb8/what_are_you_working_on_this_week,/u/caius,19
+1,2016-07-11 13:04:15 -0500,/t/javascript,Announcing TypeScript 2.0 Beta,https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/,/u/joshuacc,10
+1,2016-07-11 18:54:41 -0500,"/t/pdf,/t/api,/t/unix",The Process File System and Process Model in UNIX System V,https://www.usenix.org/sites/default/files/usenix_winter91_faulkner.pdf,/u/friendlysock,4
+0,2016-07-11 14:56:28 -0500,/t/programming,A Glimpse into the Apollo Guidance Computer,https://medium.com/@borja/a-glimpse-into-the-apollo-guidance-computer-8ee06e5e1a5c,/u/dix,8
+2,2016-07-11 16:38:14 -0500,"/t/culture,/t/historical,/t/privacy",really bad attitude. [1998],https://www.jwz.org/gruntle/rbarip.html,/u/tnecniv,11
+0,2016-07-12 03:10:11 -0500,"/t/assembly,/t/security",Embedded Security CTF,https://microcorruption.com,/u/xcombelle,1
+0,2016-07-11 20:23:49 -0500,"/t/hardware,/t/historical","Restoring Y Combinator's Xerox Alto, day 3: Inside the disk drive",http://www.righto.com/2016/07/restoring-y-combinators-xerox-alto-day_11.html,/u/calvin,3
+1,2016-07-12 09:33:25 -0500,/t/javascript,5 Reasons Why You Should Be Using Promises,http://blog.runnable.com/post/147262856601/5-reasons-why-you-should-be-using-promises,/u/sundip,0
+0,2016-07-11 12:34:48 -0500,/t/rust,tarpc: An RPC framework for Rust with a focus on ease of use,https://github.com/google/tarpc,/u/pyk,6
+2,2016-07-11 08:24:44 -0500,/t/emacs,vdiff - A tool like vimdiff for Emacs,https://github.com/justbur/emacs-vdiff,/u/dwc,5
+3,2016-07-11 06:06:46 -0500,"/t/ruby,/t/security,/t/web",Rails Webconsole DNS Rebinding,http://benmmurphy.github.com/blog/2016/07/11/rails-webconsole-dns-rebinding,/u/jcs,8
+0,2016-07-11 16:26:25 -0500,/t/practices,The Three Rs,http://feoh.org/the-three-rs.html,/u/feoh,1
+0,2016-07-11 08:12:58 -0500,"/t/graphics,/t/web",Accessible SVGs,https://css-tricks.com/accessible-svgs/,/u/flyingfisch,6
+0,2016-07-11 03:27:02 -0500,"/t/api,/t/rust",Rust and Rest,http://lucumr.pocoo.org/2016/7/10/rust-rest/,/u/julienXX,10
+5,2016-07-10 16:49:33 -0500,/t/freebsd,ZFS Deadlock: 'Directory of Death' (npm triggers zfs rename deadlock),http://lists.freebsd.org/pipermail/freebsd-hackers/2016-July/049740.html,/u/cnst,16
+0,2016-07-11 13:45:08 -0500,/t/devops,Store your Node.js application logs to Minio,https://blog.minio.io/store-your-node-js-application-logs-to-minio-2d76a0a63aaa,/u/tiwarinitish86,1
+1,2016-07-10 23:10:41 -0500,"/t/browsers,/t/security,/t/web",An open letter to security researchers and practitioners,http://mailman.nanog.org/pipermail/nanog/2016-July/087069.html,/u/cnst,11
+15,2016-07-10 06:18:46 -0500,/t/programming,"Writing an editor in less than 1000 lines of code, just for fun",http://antirez.com/news/108,/u/mulander,44
+0,2016-07-11 07:45:37 -0500,/t/python,Datamining a Flat in Munich (2014),https://funnybretzel.svbtle.com/datamining-a-flat-in-munich,/u/jan,4
+1,2016-07-10 17:19:23 -0500,"/t/cryptocurrencies,/t/security",Blockchain Graveyard,https://magoo.github.io/Blockchain-Graveyard/,/u/tedu,16
+4,2016-07-10 13:41:21 -0500,"/t/video,/t/historical",IBM introduces Fortran (1958),https://www.youtube.com/watch?v=wyN7rTJ0NwM,/u/GeoffWozniak,12
+0,2016-07-11 10:45:35 -0500,/t/programming,InnerSource: Internal Open Source at PayPal [Oct. 2015],https://www.infoq.com/news/2015/10/innersource-at-paypal,/u/stkrzysiak,1

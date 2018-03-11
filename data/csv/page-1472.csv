@@ -1,25 +1,25 @@
-3,2013-06-27 14:42:34 -0500,"['/t/browsers', '/t/networking']",QUIC: Experimental protocol for sending HTTP data over UDP,http://blog.chromium.org/2013/06/experimenting-with-quic.html,/u/kb,2
-0,2013-06-27 16:27:50 -0500,"['/t/compsci', '/t/hardware', '/t/release']",Speculative Lock Elision in Varnish Cache,https://www.varnish-software.com/blog/speculative-lock-elision-varnish-cache,/u/jcs,3
-0,2013-06-27 15:53:43 -0500,"['/t/pdf', '/t/privacy']","Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization",http://www.ieee-security.org/TC/SP2013/papers/4977a080.pdf,/u/kyle,2
-2,2013-06-27 14:55:22 -0500,['/t/security'],Impact of ZRTP library critical security vulnerabilities (silentcircle),https://github.com/SilentCircle/silent-phone-base/issues/5,/u/kyle,1
-0,2013-06-27 12:05:25 -0500,"['/t/pdf', '/t/scaling']","Designs, Lessons and Advice from Building Large Distributed Systems",http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf,/u/SeanTAllen,2
-0,2013-06-27 09:09:29 -0500,"['/t/security', '/t/visualization']",Visualizing Hash Functions,http://gfredericks.com/gfrlog/98,/u/thorduri,3
-0,2013-06-27 13:16:49 -0500,"['/t/browsers', '/t/security']",The Case of an Unconventional CSRF Attack in Firefox,http://blog.whitehatsec.com/the-case-of-an-unconventional-csrf-attack-in-firefox/,/u/kyle,1
-7,2013-06-27 00:08:09 -0500,['/t/web'],Introducing CrossCloud: A project to get your data out of silos,http://www.knightfoundation.org/blogs/knightblog/2013/6/25/introducing-crosscloud-project-get-your-data-out-silos/,/u/jcs,3
-0,2013-06-27 04:10:06 -0500,"['/t/release', '/t/unix']",Voltron - a hacky UI for GDB,http://ho.ax/posts/2013/06/voltron-a-hacky-ui-for-gdb/,/u/jcs,3
-0,2013-06-26 19:47:09 -0500,"['/t/security', '/t/unix']",Reporting 1200 crashes,http://lists.debian.org/debian-devel/2013/06/msg00720.html,/u/jcs,5
-1,2013-06-27 02:09:58 -0500,['/t/programming'],Manta: Big Compute for Big Data,http://www.joyent.com/products/manta,/u/piranha,2
-0,2013-06-27 07:43:36 -0500,['/t/rant'],SciFi in the form of a bug report,http://twitter.bug.quietbabylon.com/,/u/SeanTAllen,1
-2,2013-06-26 07:15:03 -0500,"['/t/devops', '/t/python', '/t/scaling']",Ansible and Salt: A detailed comparison,http://missingm.co/2013/06/ansible-and-salt-a-detailed-comparison/,/u/djm,10
-0,2013-06-26 18:07:38 -0500,['/t/javascript'],JavaScript Cookbook,http://www.javascriptcookbook.com,/u/cfjedimaster,3
-1,2013-06-26 08:43:30 -0500,"['/t/browsers', '/t/security']","SSL: Intercepted today, decrypted tomorrow",http://news.netcraft.com/archives/2013/06/25/ssl-intercepted-today-decrypted-tomorrow.html,/u/jturner,3
-0,2013-06-26 03:42:23 -0500,['/t/erlang'],zog_web is a web serving and domain/page routing platform for erlang applications,https://github.com/mattsta/zog_web,/u/SeanTAllen,2
-0,2013-06-26 01:26:46 -0500,"['/t/ruby', '/t/web']",Ruby on Rails 4.0 Tutorial,http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0,/u/pkhamre,2
-1,2013-06-26 01:16:10 -0500,"['/t/design', '/t/rant', '/t/web']",Google Reader Apocalypse Extremely Fucking Nigh,http://www.jwz.org/blog/2013/06/google-reader-apocalypse-extremely-fucking-nigh/,/u/tedu,4
-1,2013-06-25 15:45:35 -0500,"['/t/assembly', '/t/reversing']",Kernel double-fetch race condition exploitation on x86 – further thoughts,http://j00ru.vexillium.org/?p=1880,/u/jcs,4
-0,2013-06-25 11:31:12 -0500,"['/t/release', '/t/ruby']",Rails 4.0: Final version released,http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/,/u/jcs,8
-0,2013-06-25 20:32:11 -0500,['/t/erlang'],Jobs is a job scheduler for load regulation of Erlang applications.,https://github.com/esl/jobs,/u/SeanTAllen,1
-0,2013-06-25 10:09:57 -0500,"['/t/release', '/t/virtualization']",XenServer 6.2 is now fully open source,http://blogs.citrix.com/2013/06/25/xenserver-6-2-is-now-fully-open-source/,/u/jcs,3
-2,2013-06-24 20:26:36 -0500,"['/t/lua', '/t/programming']",Learn Lua in 15 Minutes,http://tylerneylon.com/a/learn-lua/,/u/vladikoff,9
-0,2013-06-25 00:11:34 -0500,"['/t/cryptocurrencies', '/t/security', '/t/web']",Coinbase – Owning a Bitcoin Exchange Bug Bounty Program,http://donncha.is/2013/06/coinbase-owning-a-bitcoin-exchange-bug-bounty-program/,/u/jcs,3
-0,2013-06-24 08:30:02 -0500,['/t/javascript'],Invoking JavaScript Functions With 'call' and 'apply',http://designpepper.com/blog/drips/invoking-javascript-functions-with-call-and-apply,/u/joshuacc,4
+3,2013-06-27 14:42:34 -0500,"/t/browsers,/t/networking",QUIC: Experimental protocol for sending HTTP data over UDP,http://blog.chromium.org/2013/06/experimenting-with-quic.html,/u/kb,2
+0,2013-06-27 16:27:50 -0500,"/t/compsci,/t/hardware,/t/release",Speculative Lock Elision in Varnish Cache,https://www.varnish-software.com/blog/speculative-lock-elision-varnish-cache,/u/jcs,3
+0,2013-06-27 15:53:43 -0500,"/t/pdf,/t/privacy","Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization",http://www.ieee-security.org/TC/SP2013/papers/4977a080.pdf,/u/kyle,2
+2,2013-06-27 14:55:22 -0500,/t/security,Impact of ZRTP library critical security vulnerabilities (silentcircle),https://github.com/SilentCircle/silent-phone-base/issues/5,/u/kyle,1
+0,2013-06-27 12:05:25 -0500,"/t/pdf,/t/scaling","Designs, Lessons and Advice from Building Large Distributed Systems",http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf,/u/SeanTAllen,2
+0,2013-06-27 09:09:29 -0500,"/t/security,/t/visualization",Visualizing Hash Functions,http://gfredericks.com/gfrlog/98,/u/thorduri,3
+0,2013-06-27 13:16:49 -0500,"/t/browsers,/t/security",The Case of an Unconventional CSRF Attack in Firefox,http://blog.whitehatsec.com/the-case-of-an-unconventional-csrf-attack-in-firefox/,/u/kyle,1
+7,2013-06-27 00:08:09 -0500,/t/web,Introducing CrossCloud: A project to get your data out of silos,http://www.knightfoundation.org/blogs/knightblog/2013/6/25/introducing-crosscloud-project-get-your-data-out-silos/,/u/jcs,3
+0,2013-06-27 04:10:06 -0500,"/t/release,/t/unix",Voltron - a hacky UI for GDB,http://ho.ax/posts/2013/06/voltron-a-hacky-ui-for-gdb/,/u/jcs,3
+0,2013-06-26 19:47:09 -0500,"/t/security,/t/unix",Reporting 1200 crashes,http://lists.debian.org/debian-devel/2013/06/msg00720.html,/u/jcs,5
+1,2013-06-27 02:09:58 -0500,/t/programming,Manta: Big Compute for Big Data,http://www.joyent.com/products/manta,/u/piranha,2
+0,2013-06-27 07:43:36 -0500,/t/rant,SciFi in the form of a bug report,http://twitter.bug.quietbabylon.com/,/u/SeanTAllen,1
+2,2013-06-26 07:15:03 -0500,"/t/devops,/t/python,/t/scaling",Ansible and Salt: A detailed comparison,http://missingm.co/2013/06/ansible-and-salt-a-detailed-comparison/,/u/djm,10
+0,2013-06-26 18:07:38 -0500,/t/javascript,JavaScript Cookbook,http://www.javascriptcookbook.com,/u/cfjedimaster,3
+1,2013-06-26 08:43:30 -0500,"/t/browsers,/t/security","SSL: Intercepted today, decrypted tomorrow",http://news.netcraft.com/archives/2013/06/25/ssl-intercepted-today-decrypted-tomorrow.html,/u/jturner,3
+0,2013-06-26 03:42:23 -0500,/t/erlang,zog_web is a web serving and domain/page routing platform for erlang applications,https://github.com/mattsta/zog_web,/u/SeanTAllen,2
+0,2013-06-26 01:26:46 -0500,"/t/ruby,/t/web",Ruby on Rails 4.0 Tutorial,http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0,/u/pkhamre,2
+1,2013-06-26 01:16:10 -0500,"/t/design,/t/rant,/t/web",Google Reader Apocalypse Extremely Fucking Nigh,http://www.jwz.org/blog/2013/06/google-reader-apocalypse-extremely-fucking-nigh/,/u/tedu,4
+1,2013-06-25 15:45:35 -0500,"/t/assembly,/t/reversing",Kernel double-fetch race condition exploitation on x86 – further thoughts,http://j00ru.vexillium.org/?p=1880,/u/jcs,4
+0,2013-06-25 11:31:12 -0500,"/t/release,/t/ruby",Rails 4.0: Final version released,http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/,/u/jcs,8
+0,2013-06-25 20:32:11 -0500,/t/erlang,Jobs is a job scheduler for load regulation of Erlang applications.,https://github.com/esl/jobs,/u/SeanTAllen,1
+0,2013-06-25 10:09:57 -0500,"/t/release,/t/virtualization",XenServer 6.2 is now fully open source,http://blogs.citrix.com/2013/06/25/xenserver-6-2-is-now-fully-open-source/,/u/jcs,3
+2,2013-06-24 20:26:36 -0500,"/t/lua,/t/programming",Learn Lua in 15 Minutes,http://tylerneylon.com/a/learn-lua/,/u/vladikoff,9
+0,2013-06-25 00:11:34 -0500,"/t/cryptocurrencies,/t/security,/t/web",Coinbase – Owning a Bitcoin Exchange Bug Bounty Program,http://donncha.is/2013/06/coinbase-owning-a-bitcoin-exchange-bug-bounty-program/,/u/jcs,3
+0,2013-06-24 08:30:02 -0500,/t/javascript,Invoking JavaScript Functions With 'call' and 'apply',http://designpepper.com/blog/drips/invoking-javascript-functions-with-call-and-apply,/u/joshuacc,4

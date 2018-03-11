@@ -1,25 +1,25 @@
-0,2017-01-25 14:47:12 -0600,"['/t/games', '/t/hardware']",The Steam Controller Configurator's Untapped Power,http://www.gamasutra.com/blogs/LarsDoucet/20170125/289904/The_Steam_Controller_Configurators_Untapped_Power.php,/u/pushcx,2
-0,2017-01-25 11:05:05 -0600,"['/t/pdf', '/t/historical', '/t/lisp']","Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I (1960)",http://www-formal.stanford.edu/jmc/recursive.pdf,/u/merzberimbow,3
-47,2017-01-24 08:40:32 -0600,['/t/rust'],The struggle with Rust,https://ayende.com/blog/176801/the-struggle-with-rust,/u/friendlysock,31
-0,2017-01-25 11:52:50 -0600,['/t/ruby'],Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later,https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/,/u/PragTob,1
-0,2017-01-25 12:31:41 -0600,"['/t/browsers', '/t/design']",Lossless Web Navigation with Trails,https://medium.com/@patrykadas/lossless-web-navigation-with-trails-9cd48c0abb56,/u/fitzgen,2
-0,2017-01-25 16:16:00 -0600,['/t/css'],"Graaf, a collection of pure CSS grid overlays",http://graaf.space/,/u/flyingfisch,1
-7,2017-01-24 23:36:11 -0600,"['/t/android', '/t/java', '/t/javascript']",Kotlin 1.1: What’s coming in the standard library,https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-whats-coming-in-the-standard-library/,/u/kb,5
-0,2017-01-25 04:57:02 -0600,['/t/practices'],File Names,http://hackwrite.com/posts/file-names/,/u/mjturner,5
-24,2017-01-24 10:34:32 -0600,['/t/go'],"dep - prototype of ""official"" Go vendoring solution",https://github.com/golang/dep,/u/kb,20
-12,2017-01-24 16:52:36 -0600,['/t/science'],Blue light has a dark side,http://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side,/u/nhooyr,10
-7,2017-01-24 13:56:07 -0600,"['/t/pdf', '/t/slides', '/t/compilers', '/t/security']",Programming Languages for High-Assurance Autonomous Vehicles (Ivory),https://chess.eecs.berkeley.edu/pubs/1154/seminar.2015-11-02.Lee_Pike.pdf,/u/asthasr,15
-0,2017-01-24 20:02:35 -0600,['/t/programming'],Efficient game updates,https://amos.me/blog/2017/efficient-game-updates/,/u/calvin,14
-0,2017-01-25 14:03:50 -0600,['/t/security'],Finding PTEs with prefetch on Intel,http://blog.ioactive.com/2017/01/harmful-prefetch-on-intel.html,/u/noelle,1
-1,2017-01-24 16:43:21 -0600,"['/t/security', '/t/systemd']",Thoughts on the Systemd Root Exploit,https://www.agwa.name/blog/post/thoughts_on_the_systemd_root_exploit,/u/bryfry,15
-0,2017-01-25 08:26:59 -0600,['/t/design'],The Underestimated Power Of Color In Mobile App Design,https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/,/u/flyingfisch,2
-16,2017-01-24 12:25:18 -0600,['/t/browsers'],Chrome 56 Will Aggressively Throttle Background Tabs,http://blog.strml.net/2017/01/chrome-56-now-aggressively-throttles.html,/u/pushcx,11
-0,2017-01-25 11:42:47 -0600,"['/t/practices', '/t/virtualization']","Launchbot: a system for helping you discover, build, and run Docker-enabled content",http://launchbot.io/docs/overview/,/u/ngoldbaum,1
-0,2017-01-25 11:31:39 -0600,"['/t/video', '/t/practices']",A less confrontational programmer interview format,https://www.youtube.com/watch?v=cfyWvJdsDRI,/u/jm,1
-1,2017-01-24 15:11:07 -0600,['/t/release'],Wine 2.0 Stable Released,https://www.winehq.org/announce/2.0,/u/ChrisShort,13
-0,2017-01-25 07:06:36 -0600,['/t/practices'],"Choosing the ""best software""",https://jvns.ca/blog/2017/01/24/choosing-the-best-thing/,/u/sotojuan,2
-0,2017-01-24 12:07:05 -0600,"['/t/programming', '/t/rust']",An Overview of Macros in Rust,http://words.steveklabnik.com/an-overview-of-macros-in-rust,/u/utzig,19
-2,2017-01-24 04:27:01 -0600,"['/t/security', '/t/systemd']",systemd v228 local root exploit,http://www.openwall.com/lists/oss-security/2017/01/24/4,/u/nyx,34
-1,2017-01-25 09:23:53 -0600,"['/t/browsers', '/t/web']",Introducing Accelerated Mobile Links: Making the Mobile Web App-Quick,http://blog.cloudflare.com/accelerated-mobile/,/u/djm,1
-1,2017-01-24 09:13:53 -0600,"['/t/compilers', '/t/compsci', '/t/java']",Java is Unsound: The Industry Perspective,https://medium.com/@rosstate/java-is-unsound-28c84cb2b3f,/u/craigstuntz,22
-0,2017-01-25 03:54:54 -0600,"['/t/cogsci', '/t/practices', '/t/science']",Duolingo: How we learn how you learn,http://making.duolingo.com/how-we-learn-how-you-learn,/u/adaszko,2
+0,2017-01-25 14:47:12 -0600,"/t/games,/t/hardware",The Steam Controller Configurator's Untapped Power,http://www.gamasutra.com/blogs/LarsDoucet/20170125/289904/The_Steam_Controller_Configurators_Untapped_Power.php,/u/pushcx,2
+0,2017-01-25 11:05:05 -0600,"/t/pdf,/t/historical,/t/lisp","Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I (1960)",http://www-formal.stanford.edu/jmc/recursive.pdf,/u/merzberimbow,3
+47,2017-01-24 08:40:32 -0600,/t/rust,The struggle with Rust,https://ayende.com/blog/176801/the-struggle-with-rust,/u/friendlysock,31
+0,2017-01-25 11:52:50 -0600,/t/ruby,Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later,https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/,/u/PragTob,1
+0,2017-01-25 12:31:41 -0600,"/t/browsers,/t/design",Lossless Web Navigation with Trails,https://medium.com/@patrykadas/lossless-web-navigation-with-trails-9cd48c0abb56,/u/fitzgen,2
+0,2017-01-25 16:16:00 -0600,/t/css,"Graaf, a collection of pure CSS grid overlays",http://graaf.space/,/u/flyingfisch,1
+7,2017-01-24 23:36:11 -0600,"/t/android,/t/java,/t/javascript",Kotlin 1.1: What’s coming in the standard library,https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-whats-coming-in-the-standard-library/,/u/kb,5
+0,2017-01-25 04:57:02 -0600,/t/practices,File Names,http://hackwrite.com/posts/file-names/,/u/mjturner,5
+24,2017-01-24 10:34:32 -0600,/t/go,"dep - prototype of ""official"" Go vendoring solution",https://github.com/golang/dep,/u/kb,20
+12,2017-01-24 16:52:36 -0600,/t/science,Blue light has a dark side,http://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side,/u/nhooyr,10
+7,2017-01-24 13:56:07 -0600,"/t/pdf,/t/slides,/t/compilers,/t/security",Programming Languages for High-Assurance Autonomous Vehicles (Ivory),https://chess.eecs.berkeley.edu/pubs/1154/seminar.2015-11-02.Lee_Pike.pdf,/u/asthasr,15
+0,2017-01-24 20:02:35 -0600,/t/programming,Efficient game updates,https://amos.me/blog/2017/efficient-game-updates/,/u/calvin,14
+0,2017-01-25 14:03:50 -0600,/t/security,Finding PTEs with prefetch on Intel,http://blog.ioactive.com/2017/01/harmful-prefetch-on-intel.html,/u/noelle,1
+1,2017-01-24 16:43:21 -0600,"/t/security,/t/systemd",Thoughts on the Systemd Root Exploit,https://www.agwa.name/blog/post/thoughts_on_the_systemd_root_exploit,/u/bryfry,15
+0,2017-01-25 08:26:59 -0600,/t/design,The Underestimated Power Of Color In Mobile App Design,https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/,/u/flyingfisch,2
+16,2017-01-24 12:25:18 -0600,/t/browsers,Chrome 56 Will Aggressively Throttle Background Tabs,http://blog.strml.net/2017/01/chrome-56-now-aggressively-throttles.html,/u/pushcx,11
+0,2017-01-25 11:42:47 -0600,"/t/practices,/t/virtualization","Launchbot: a system for helping you discover, build, and run Docker-enabled content",http://launchbot.io/docs/overview/,/u/ngoldbaum,1
+0,2017-01-25 11:31:39 -0600,"/t/video,/t/practices",A less confrontational programmer interview format,https://www.youtube.com/watch?v=cfyWvJdsDRI,/u/jm,1
+1,2017-01-24 15:11:07 -0600,/t/release,Wine 2.0 Stable Released,https://www.winehq.org/announce/2.0,/u/ChrisShort,13
+0,2017-01-25 07:06:36 -0600,/t/practices,"Choosing the ""best software""",https://jvns.ca/blog/2017/01/24/choosing-the-best-thing/,/u/sotojuan,2
+0,2017-01-24 12:07:05 -0600,"/t/programming,/t/rust",An Overview of Macros in Rust,http://words.steveklabnik.com/an-overview-of-macros-in-rust,/u/utzig,19
+2,2017-01-24 04:27:01 -0600,"/t/security,/t/systemd",systemd v228 local root exploit,http://www.openwall.com/lists/oss-security/2017/01/24/4,/u/nyx,34
+1,2017-01-25 09:23:53 -0600,"/t/browsers,/t/web",Introducing Accelerated Mobile Links: Making the Mobile Web App-Quick,http://blog.cloudflare.com/accelerated-mobile/,/u/djm,1
+1,2017-01-24 09:13:53 -0600,"/t/compilers,/t/compsci,/t/java",Java is Unsound: The Industry Perspective,https://medium.com/@rosstate/java-is-unsound-28c84cb2b3f,/u/craigstuntz,22
+0,2017-01-25 03:54:54 -0600,"/t/cogsci,/t/practices,/t/science",Duolingo: How we learn how you learn,http://making.duolingo.com/how-we-learn-how-you-learn,/u/adaszko,2

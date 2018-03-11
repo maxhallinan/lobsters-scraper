@@ -1,25 +1,25 @@
-1,2017-05-17 14:05:09 -0500,"['/t/android', '/t/programming']",Kotlin on Android. Now official,https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/,/u/zem,15
-3,2017-05-17 14:38:37 -0500,"['/t/games', '/t/math']",Where do we find convolutions in games?,https://www.tetracasa.com/posts/2017/05/12/where-do-we-find-convolution-in-games.html,/u/iamwil,7
-0,2017-05-17 15:59:20 -0500,"['/t/emacs', '/t/hardware', '/t/historical', '/t/vim']","The keyboards that informed Vim's hjkl, Emacs's chording, and Ctrl-C/X/V",http://xahlee.info/kbd/keyboard_hardware_and_key_choices.html,/u/Sietsebb,11
-0,2017-05-17 19:16:15 -0500,"['/t/linux', '/t/security']",Further hardening glibc malloc() against single byte overflows,https://scarybeastsecurity.blogspot.com/2017/05/further-hardening-glibc-malloc-against.html,/u/akkartik,7
-0,2017-05-17 17:59:10 -0500,"['/t/haskell', '/t/programming']",Five Minutes to Monoid,https://medium.com/@sjsyrek/five-minutes-to-monoid-fe6f364d0bba,/u/bitemyapp,8
-38,2017-05-17 05:15:23 -0500,"['/t/programming', '/t/web']",GitHub Rewrites its Desktop Client Using Electron,https://www.infoq.com/news/2017/05/github-electron-desktop-client,/u/calvin,16
-0,2017-05-17 11:17:56 -0500,"['/t/lisp', '/t/ml']",What is the type of eval?,http://lambda-the-ultimate.org/node/5431,/u/bsima,14
-0,2017-05-17 19:50:45 -0500,"['/t/video', '/t/programming']",How to program,http://blog.testdouble.com/posts/2017-05-11-how-to-program.html,/u/pushcx,5
-2,2017-05-17 12:08:35 -0500,"['/t/satire', '/t/vcs']",Git Koans,http://stevelosh.com/blog/2013/04/git-koans/,/u/friendlysock,19
-3,2017-05-17 08:58:19 -0500,['/t/games'],How Basic is Basic Gaming Literacy?,http://www.ultimaratioregum.co.uk/game/2017/05/17/how-basic-is-basic-gaming-literacy/,/u/calvin,9
-1,2017-05-17 14:18:56 -0500,"['/t/video', '/t/games', '/t/historical']",World Record Progression: Super Mario Bros 3 any%,https://www.youtube.com/watch?v=sllAIF99h3s,/u/pushcx,6
-13,2017-05-17 01:41:10 -0500,"['/t/java', '/t/programming']",Can we make Spring better already?,http://blog.prakashvenkat.com/can-we-make-java-better-already/,/u/dopatraman,5
-0,2017-05-17 09:35:47 -0500,"['/t/pdf', '/t/practices', '/t/programming']",Ontology Driven Software Engineering for Real Life Applications,http://www.odaseontologies.com/wp-content/uploads/2016/03/Ontology-Driven-Software-Engineering-for-Real-Life-Applications-OK.pdf,/u/nickpsecurity,6
-0,2017-05-17 17:25:47 -0500,['/t/programming'],A16Z AI Playbook,http://aiplaybook.a16z.com/,/u/adsouza,2
-11,2017-05-16 07:46:13 -0500,['/t/law'],"“MP3 is dead” missed the real, much better story",https://marco.org/2017/05/15/mp3-isnt-dead,/u/fcbsd,57
-14,2017-05-16 05:15:50 -0500,['/t/scala'],Leaving Scala After Six Years of Development,http://soc.github.io/six-years-of-scala-development/departure.html,/u/soc,36
-0,2017-05-17 11:38:51 -0500,"['/t/crypto', '/t/security']",Bit security level - e.xtendo.org,https://e.xtendo.org/scs/bit_security_level,/u/romanzolotarev,3
-0,2017-05-17 06:08:31 -0500,"['/t/c', '/t/c++', '/t/compsci', '/t/testing']",CDSChecker: A model checker for C11/C++11 atomics,http://plrg.eecs.uci.edu/software_page/42-2/,/u/mikejsavage,6
-1,2017-05-17 00:07:10 -0500,"['/t/netbsd', '/t/virtualization']",NetBSD maintainer in the QEMU project,https://blog.netbsd.org/tnf/entry/netbsd_maintainer_in_the_qemu,/u/sevan,10
-1,2017-05-16 18:55:33 -0500,"['/t/javascript', '/t/web']","Mavo: A new, approachable way to create Web applications",http://mavo.io/,/u/fcbsd,16
-0,2017-05-17 15:51:52 -0500,"['/t/culture', '/t/mac']",The Case of the Stolen Source Code,https://panic.com/blog/stolen-source-code/,/u/calvin,2
-0,2017-05-17 13:38:17 -0500,['/t/scaling'],"An engineering year in review, kubernetes, grpc and more",https://www.sajari.com/blog/an-engineering-year-in-review-kubernetes-grpc-and-more,/u/adsouza,1
-9,2017-05-16 07:33:16 -0500,['/t/design'],Recreating Ben Franklin's Schedule in LaTeX,http://www.monahan.io/blog/2015/10/03/recreating-ben-franklin-s-schedule-in-latex/,/u/pushcx,25
-0,2017-05-16 15:28:01 -0500,"['/t/graphics', '/t/historical']",Pushing Polygons on the Mega Drive,https://jix.one/pushing-polygons-on-the-mega-drive/,/u/355E3B,19
-1,2017-05-16 16:56:15 -0500,"['/t/css', '/t/education', '/t/games']",Flexbox Froggy,https://flexboxfroggy.com/,/u/friendlysock,14
+1,2017-05-17 14:05:09 -0500,"/t/android,/t/programming",Kotlin on Android. Now official,https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/,/u/zem,15
+3,2017-05-17 14:38:37 -0500,"/t/games,/t/math",Where do we find convolutions in games?,https://www.tetracasa.com/posts/2017/05/12/where-do-we-find-convolution-in-games.html,/u/iamwil,7
+0,2017-05-17 15:59:20 -0500,"/t/emacs,/t/hardware,/t/historical,/t/vim","The keyboards that informed Vim's hjkl, Emacs's chording, and Ctrl-C/X/V",http://xahlee.info/kbd/keyboard_hardware_and_key_choices.html,/u/Sietsebb,11
+0,2017-05-17 19:16:15 -0500,"/t/linux,/t/security",Further hardening glibc malloc() against single byte overflows,https://scarybeastsecurity.blogspot.com/2017/05/further-hardening-glibc-malloc-against.html,/u/akkartik,7
+0,2017-05-17 17:59:10 -0500,"/t/haskell,/t/programming",Five Minutes to Monoid,https://medium.com/@sjsyrek/five-minutes-to-monoid-fe6f364d0bba,/u/bitemyapp,8
+38,2017-05-17 05:15:23 -0500,"/t/programming,/t/web",GitHub Rewrites its Desktop Client Using Electron,https://www.infoq.com/news/2017/05/github-electron-desktop-client,/u/calvin,16
+0,2017-05-17 11:17:56 -0500,"/t/lisp,/t/ml",What is the type of eval?,http://lambda-the-ultimate.org/node/5431,/u/bsima,14
+0,2017-05-17 19:50:45 -0500,"/t/video,/t/programming",How to program,http://blog.testdouble.com/posts/2017-05-11-how-to-program.html,/u/pushcx,5
+2,2017-05-17 12:08:35 -0500,"/t/satire,/t/vcs",Git Koans,http://stevelosh.com/blog/2013/04/git-koans/,/u/friendlysock,19
+3,2017-05-17 08:58:19 -0500,/t/games,How Basic is Basic Gaming Literacy?,http://www.ultimaratioregum.co.uk/game/2017/05/17/how-basic-is-basic-gaming-literacy/,/u/calvin,9
+1,2017-05-17 14:18:56 -0500,"/t/video,/t/games,/t/historical",World Record Progression: Super Mario Bros 3 any%,https://www.youtube.com/watch?v=sllAIF99h3s,/u/pushcx,6
+13,2017-05-17 01:41:10 -0500,"/t/java,/t/programming",Can we make Spring better already?,http://blog.prakashvenkat.com/can-we-make-java-better-already/,/u/dopatraman,5
+0,2017-05-17 09:35:47 -0500,"/t/pdf,/t/practices,/t/programming",Ontology Driven Software Engineering for Real Life Applications,http://www.odaseontologies.com/wp-content/uploads/2016/03/Ontology-Driven-Software-Engineering-for-Real-Life-Applications-OK.pdf,/u/nickpsecurity,6
+0,2017-05-17 17:25:47 -0500,/t/programming,A16Z AI Playbook,http://aiplaybook.a16z.com/,/u/adsouza,2
+11,2017-05-16 07:46:13 -0500,/t/law,"“MP3 is dead” missed the real, much better story",https://marco.org/2017/05/15/mp3-isnt-dead,/u/fcbsd,57
+14,2017-05-16 05:15:50 -0500,/t/scala,Leaving Scala After Six Years of Development,http://soc.github.io/six-years-of-scala-development/departure.html,/u/soc,36
+0,2017-05-17 11:38:51 -0500,"/t/crypto,/t/security",Bit security level - e.xtendo.org,https://e.xtendo.org/scs/bit_security_level,/u/romanzolotarev,3
+0,2017-05-17 06:08:31 -0500,"/t/c,/t/c++,/t/compsci,/t/testing",CDSChecker: A model checker for C11/C++11 atomics,http://plrg.eecs.uci.edu/software_page/42-2/,/u/mikejsavage,6
+1,2017-05-17 00:07:10 -0500,"/t/netbsd,/t/virtualization",NetBSD maintainer in the QEMU project,https://blog.netbsd.org/tnf/entry/netbsd_maintainer_in_the_qemu,/u/sevan,10
+1,2017-05-16 18:55:33 -0500,"/t/javascript,/t/web","Mavo: A new, approachable way to create Web applications",http://mavo.io/,/u/fcbsd,16
+0,2017-05-17 15:51:52 -0500,"/t/culture,/t/mac",The Case of the Stolen Source Code,https://panic.com/blog/stolen-source-code/,/u/calvin,2
+0,2017-05-17 13:38:17 -0500,/t/scaling,"An engineering year in review, kubernetes, grpc and more",https://www.sajari.com/blog/an-engineering-year-in-review-kubernetes-grpc-and-more,/u/adsouza,1
+9,2017-05-16 07:33:16 -0500,/t/design,Recreating Ben Franklin's Schedule in LaTeX,http://www.monahan.io/blog/2015/10/03/recreating-ben-franklin-s-schedule-in-latex/,/u/pushcx,25
+0,2017-05-16 15:28:01 -0500,"/t/graphics,/t/historical",Pushing Polygons on the Mega Drive,https://jix.one/pushing-polygons-on-the-mega-drive/,/u/355E3B,19
+1,2017-05-16 16:56:15 -0500,"/t/css,/t/education,/t/games",Flexbox Froggy,https://flexboxfroggy.com/,/u/friendlysock,14

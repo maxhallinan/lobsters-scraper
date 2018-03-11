@@ -1,25 +1,25 @@
-0,2017-07-13 12:18:14 -0500,"['/t/dotnet', '/t/javascript']",F# Interop with Javascript in Fable: The Complete Guide,https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f,/u/wipi,2
-1,2017-07-13 09:00:01 -0500,['/t/mobile'],Ten emoji no one has ever used - swiftkey,https://blog.swiftkey.com/ten-emoji-basically-no-one-ever-uses/,/u/asfgda,1
-0,2017-07-13 14:45:27 -0500,['/t/css'],Methods to Organize CSS,https://css-tricks.com/methods-organize-css/,/u/flyingfisch,1
-0,2017-07-13 14:36:29 -0500,"['/t/education', '/t/math']",Quick Insight: Subtracting Negative Numbers,https://betterexplained.com/articles/subtracting-negative-numbers/,/u/flyingfisch,1
-1,2017-07-12 19:33:53 -0500,['/t/ai'],AI Creates Fake Obama,http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-creates-fake-obama,/u/calvin,12
-6,2017-07-12 19:10:11 -0500,"['/t/law', '/t/privacy']",Face scans for US citizens flying abroad stir privacy issues,https://www.washingtonpost.com/business/technology/face-scans-for-americans-flying-abroad-stir-privacy-issues/2017/07/12/b155c580-6712-11e7-94ab-5b1f0ff459df_story.html,/u/pushcx,8
-1,2017-07-12 13:44:58 -0500,"['/t/hardware', '/t/historical']",The Ultimate-64: a drop-in hardware re-implementation of the entire C64,http://1541ultimate.net/content/index.php?option=com_content&view=article&id=74&catid=9,/u/mischa,16
-2,2017-07-13 03:06:23 -0500,"['/t/crypto', '/t/historical']",Enigma I: '€100 typewriter' found to be German code machine,http://www.bbc.com/news/world-europe-40583718,/u/mischa,3
-0,2017-07-13 10:49:30 -0500,"['/t/linux', '/t/security']","Alpine Linux, Pt 2",https://www.twistlock.com/2017/07/13/alpine-linux-pt-2-twistlock-security-alert/,/u/fro,1
-0,2017-07-12 22:37:30 -0500,"['/t/api', '/t/browsers', '/t/graphics', '/t/release']",Announcing Babylon.js 3.0,https://blogs.windows.com/buildingapps/2017/07/12/announcing-babylon-js-3-0/,/u/friendlysock,5
-0,2017-07-13 04:33:20 -0500,"['/t/networking', '/t/web']",Evolution of Web Protocols: HTTP/2 and QUIC,https://www.callstats.io/2017/02/03/web-protocols-http2-quic/,/u/adsouza,2
-2,2017-07-12 16:54:16 -0500,['/t/python'],FAT Python: the next chapter in Python optimization,https://hackernoon.com/fat-python-the-next-chapter-in-python-optimization-69dc974bcca2,/u/quobit,6
-0,2017-07-12 01:27:46 -0500,"['/t/rust', '/t/testing']",How Rust is tested,https://brson.github.io/2017/07/10/how-rust-is-tested,/u/skade,46
-0,2017-07-12 08:58:26 -0500,"['/t/security', '/t/web']",HTTPS: Private Keys on Web Servers,https://www.golem.de/news/https-private-keys-on-web-servers-1707-128862.html,/u/hanno,10
-0,2017-07-13 01:00:12 -0500,['/t/cryptocurrencies'],Romeo & Juliet meet Reputation Engineering,http://250bpm.com/blog:94,/u/sustrik,1
-12,2017-07-12 09:35:52 -0500,"['/t/compilers', '/t/release']","VMS Software, Inc. Launches New Release of OpenVMS OS for Alpha Hardware",http://www.prweb.com/releases/2017/07/prweb14487932.htm,/u/trn,8
-0,2017-07-13 05:53:17 -0500,['/t/c++'],zero allocation continuations - part 1,https://vittorioromeo.info/index/blog/zeroalloc_continuations_p0.html,/u/calvin,1
-0,2017-07-12 11:45:13 -0500,"['/t/ai', '/t/api', '/t/programming', '/t/python']",Mimic Snapchat Filters Programmatically,https://blog.pixlab.io/2017/07/mimic-snapchat-filters,/u/chmrad,6
-0,2017-07-12 14:42:21 -0500,"['/t/event', '/t/freebsd', '/t/netbsd', '/t/openbsd']",EuroBSDcon 2017 Registration is open,https://registration.eurobsdcon.org/,/u/mischa,8
-3,2017-07-12 07:29:44 -0500,['/t/haskell'],Use Hpack,https://e.xtendo.org/haskell/hpack,/u/pushcx,11
-3,2017-07-12 01:24:39 -0500,"['/t/law', '/t/privacy']",Dutch Senate votes in favor of dragnet surveillance powers,https://bof.nl/2017/07/12/dutch-senate-votes-in-favor-of-dragnet-surveillance-powers/,/u/jasper,22
-6,2017-07-12 12:20:24 -0500,"['/t/culture', '/t/networking']",Battle for Net Neutrality,https://www.battleforthenet.com/,/u/yumaikas,18
-4,2017-07-12 10:18:40 -0500,['/t/linux'],Ask HN: Why is Bluetooth (audio) so unreliable (on Linux)?,https://news.ycombinator.com/item?id=14752719,/u/klingtnet,8
-1,2017-07-12 10:34:54 -0500,"['/t/compilers', '/t/ml']",The Mythryl Foundation,https://mythryl.org/,/u/trn,11
-0,2017-07-12 17:09:05 -0500,"['/t/art', '/t/graphics', '/t/practices']",Demotool screenshot gallery,http://peisik.untergrund.net/engines/,/u/friendlysock,5
+0,2017-07-13 12:18:14 -0500,"/t/dotnet,/t/javascript",F# Interop with Javascript in Fable: The Complete Guide,https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f,/u/wipi,2
+1,2017-07-13 09:00:01 -0500,/t/mobile,Ten emoji no one has ever used - swiftkey,https://blog.swiftkey.com/ten-emoji-basically-no-one-ever-uses/,/u/asfgda,1
+0,2017-07-13 14:45:27 -0500,/t/css,Methods to Organize CSS,https://css-tricks.com/methods-organize-css/,/u/flyingfisch,1
+0,2017-07-13 14:36:29 -0500,"/t/education,/t/math",Quick Insight: Subtracting Negative Numbers,https://betterexplained.com/articles/subtracting-negative-numbers/,/u/flyingfisch,1
+1,2017-07-12 19:33:53 -0500,/t/ai,AI Creates Fake Obama,http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-creates-fake-obama,/u/calvin,12
+6,2017-07-12 19:10:11 -0500,"/t/law,/t/privacy",Face scans for US citizens flying abroad stir privacy issues,https://www.washingtonpost.com/business/technology/face-scans-for-americans-flying-abroad-stir-privacy-issues/2017/07/12/b155c580-6712-11e7-94ab-5b1f0ff459df_story.html,/u/pushcx,8
+1,2017-07-12 13:44:58 -0500,"/t/hardware,/t/historical",The Ultimate-64: a drop-in hardware re-implementation of the entire C64,http://1541ultimate.net/content/index.php?option=com_content&view=article&id=74&catid=9,/u/mischa,16
+2,2017-07-13 03:06:23 -0500,"/t/crypto,/t/historical",Enigma I: '€100 typewriter' found to be German code machine,http://www.bbc.com/news/world-europe-40583718,/u/mischa,3
+0,2017-07-13 10:49:30 -0500,"/t/linux,/t/security","Alpine Linux, Pt 2",https://www.twistlock.com/2017/07/13/alpine-linux-pt-2-twistlock-security-alert/,/u/fro,1
+0,2017-07-12 22:37:30 -0500,"/t/api,/t/browsers,/t/graphics,/t/release",Announcing Babylon.js 3.0,https://blogs.windows.com/buildingapps/2017/07/12/announcing-babylon-js-3-0/,/u/friendlysock,5
+0,2017-07-13 04:33:20 -0500,"/t/networking,/t/web",Evolution of Web Protocols: HTTP/2 and QUIC,https://www.callstats.io/2017/02/03/web-protocols-http2-quic/,/u/adsouza,2
+2,2017-07-12 16:54:16 -0500,/t/python,FAT Python: the next chapter in Python optimization,https://hackernoon.com/fat-python-the-next-chapter-in-python-optimization-69dc974bcca2,/u/quobit,6
+0,2017-07-12 01:27:46 -0500,"/t/rust,/t/testing",How Rust is tested,https://brson.github.io/2017/07/10/how-rust-is-tested,/u/skade,46
+0,2017-07-12 08:58:26 -0500,"/t/security,/t/web",HTTPS: Private Keys on Web Servers,https://www.golem.de/news/https-private-keys-on-web-servers-1707-128862.html,/u/hanno,10
+0,2017-07-13 01:00:12 -0500,/t/cryptocurrencies,Romeo & Juliet meet Reputation Engineering,http://250bpm.com/blog:94,/u/sustrik,1
+12,2017-07-12 09:35:52 -0500,"/t/compilers,/t/release","VMS Software, Inc. Launches New Release of OpenVMS OS for Alpha Hardware",http://www.prweb.com/releases/2017/07/prweb14487932.htm,/u/trn,8
+0,2017-07-13 05:53:17 -0500,/t/c++,zero allocation continuations - part 1,https://vittorioromeo.info/index/blog/zeroalloc_continuations_p0.html,/u/calvin,1
+0,2017-07-12 11:45:13 -0500,"/t/ai,/t/api,/t/programming,/t/python",Mimic Snapchat Filters Programmatically,https://blog.pixlab.io/2017/07/mimic-snapchat-filters,/u/chmrad,6
+0,2017-07-12 14:42:21 -0500,"/t/event,/t/freebsd,/t/netbsd,/t/openbsd",EuroBSDcon 2017 Registration is open,https://registration.eurobsdcon.org/,/u/mischa,8
+3,2017-07-12 07:29:44 -0500,/t/haskell,Use Hpack,https://e.xtendo.org/haskell/hpack,/u/pushcx,11
+3,2017-07-12 01:24:39 -0500,"/t/law,/t/privacy",Dutch Senate votes in favor of dragnet surveillance powers,https://bof.nl/2017/07/12/dutch-senate-votes-in-favor-of-dragnet-surveillance-powers/,/u/jasper,22
+6,2017-07-12 12:20:24 -0500,"/t/culture,/t/networking",Battle for Net Neutrality,https://www.battleforthenet.com/,/u/yumaikas,18
+4,2017-07-12 10:18:40 -0500,/t/linux,Ask HN: Why is Bluetooth (audio) so unreliable (on Linux)?,https://news.ycombinator.com/item?id=14752719,/u/klingtnet,8
+1,2017-07-12 10:34:54 -0500,"/t/compilers,/t/ml",The Mythryl Foundation,https://mythryl.org/,/u/trn,11
+0,2017-07-12 17:09:05 -0500,"/t/art,/t/graphics,/t/practices",Demotool screenshot gallery,http://peisik.untergrund.net/engines/,/u/friendlysock,5

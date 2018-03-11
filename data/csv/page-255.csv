@@ -1,25 +1,25 @@
-0,2017-08-07 09:40:41 -0500,"['/t/pdf', '/t/book', '/t/haskell']",Perhaps Not The Answer You Were Expecting But You Asked For It (An Accidental Blook),https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf,/u/pushcx,6
-23,2017-08-07 07:22:04 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/pqfbsl/what_are_you_working_on_this_week,/u/caius,12
-0,2017-08-07 14:57:23 -0500,"['/t/ai', '/t/games', '/t/math']",3 Simple Steps to Implement Inverse Kinematics,http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php,/u/friendlysock,2
-0,2017-08-07 09:42:07 -0500,['/t/python'],Interacting with a long-running child process in Python,http://eli.thegreenplace.net/2017/interacting-with-a-long-running-child-process-in-python/,/u/pushcx,4
-0,2017-08-07 14:16:55 -0500,"['/t/go', '/t/scaling']",A Million WebSockets and Go,https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb,/u/ngrilly,2
-9,2017-08-06 17:02:06 -0500,['/t/practices'],Why Working From Home Is a “Future-looking Technology”,https://www.gsb.stanford.edu/insights/why-working-home-future-looking-technology,/u/soulcutter,13
-5,2017-08-06 10:59:04 -0500,"['/t/historical', '/t/programming']",Where Tcl and Tk Went Wrong,https://journal.dedasys.com/2010/03/30/where-tcl-and-tk-went-wrong/,/u/nickpsecurity,36
-0,2017-08-06 16:47:58 -0500,"['/t/emacs', '/t/lisp']",Suggest.el: Synthesising Constants,http://www.wilfred.me.uk/blog/2017/08/06/suggest-el-synthesising-constants/,/u/Wilfred,13
-4,2017-08-06 15:44:02 -0500,"['/t/video', '/t/linux', '/t/mac', '/t/reversing']","rMBP requires secret EFI magic to enable integrated GPU!, or why you probably don't want a Mac",https://www.youtube.com/watch?v=OLIVqCFLv5Y,/u/pizzaiolo,13
-0,2017-08-07 03:26:57 -0500,"['/t/databases', '/t/security']",ACIDRain: concurrency-related attacks on database backed web applications,https://blog.acolyer.org/2017/08/07/acidrain-concurrency-related-attacks-on-database-backed-web-applications/,/u/fcbsd,6
-0,2017-08-07 15:01:02 -0500,"['/t/pdf', '/t/ai', '/t/games']",CiF-CK: An Architecture for Social NPCs in Commercial Games,https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf,/u/friendlysock,1
-17,2017-08-08 02:20:51 -0500,['/t/culture'],Google Fires Author of Divisive Memo on Gender Differences,https://www.bloomberg.com/news/articles/2017-08-08/google-fires-employee-behind-controversial-diversity-memo,/u/pgl,4
-0,2017-08-07 10:01:19 -0500,['/t/release'],ArcaOS 5.0.1 now available,https://www.arcanoae.com/arcaos-5-0-1-now-available/,/u/trn,2
-0,2017-08-07 13:37:22 -0500,"['/t/video', '/t/css', '/t/graphics', '/t/programming']",Building a 3D neon tile snake with pure CSS,https://www.youtube.com/watch?v=DPGN-GivbYw,/u/mihaitodor,1
-0,2017-08-07 09:42:27 -0500,"['/t/debugging', '/t/javascript']",Finding that pesky listener that’s hijacking your event,https://medium.com/@azizhk/finding-that-pesky-listener-thats-hijacking-your-event-javascript-b590593f2a83,/u/pushcx,2
-0,2017-08-07 09:28:59 -0500,"['/t/linux', '/t/security']",How to Dump Usernames and Passwords from Memory Using Mimipenguin,https://dotlayer.com/how-to-dump-cleartext-usernames-and-passwords-from-memory-using-mimipenguin/,/u/dotcom,2
-8,2017-08-06 14:41:18 -0500,"['/t/debugging', '/t/go', '/t/programming']","The Tale of a Go Resource Leak, Square Engineering",https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da,/u/irfansharif,9
-0,2017-08-06 15:20:28 -0500,['/t/compilers'],The structure of a GCC back end,https://kristerw.blogspot.com/2017/08/the-structure-of-gcc-back-end.html,/u/calvin,16
-0,2017-08-07 04:33:13 -0500,"['/t/databases', '/t/practices']",Startup Engineers and Our Mistakes with MongoDB,https://www.nemil.com/mongo/2.html,/u/calvin,3
-0,2017-08-06 23:18:08 -0500,"['/t/historical', '/t/lisp', '/t/rant']",Lisping at JPL,http://www.flownet.com/gat/jpl-lisp.html,/u/friendlysock,11
-0,2017-08-07 09:40:58 -0500,"['/t/databases', '/t/scaling']",Simple and manual sharding on PostgreSQL.,http://www.3manuek.com/postgresmanualsharding,/u/pushcx,1
-0,2017-08-07 09:39:12 -0500,"['/t/cryptocurrencies', '/t/finance']",The curious Tale Of Tethers,https://medium.com/@bitfinexed/the-curious-tale-of-tethers-6b0031eead87,/u/pushcx,1
-0,2017-08-06 16:25:36 -0500,['/t/practices'],Figuring out how to contribute to open source,https://jvns.ca/blog/2017/08/06/contributing-to-open-source/,/u/calvin,10
-0,2017-08-07 08:04:30 -0500,['/t/security'],Malware starts monero miner on unsecured Docker hosts,https://github.com/docker/hub-feedback/issues/1121,/u/liwakura,1
-1,2017-08-06 12:57:30 -0500,"['/t/haskell', '/t/math']",Typesafe modular arithmetic in Haskell,https://rkrishnan.org/posts/2017-06-20-typesafe-modulus-in-haskell.html,/u/pushcx,11
+0,2017-08-07 09:40:41 -0500,"/t/pdf,/t/book,/t/haskell",Perhaps Not The Answer You Were Expecting But You Asked For It (An Accidental Blook),https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf,/u/pushcx,6
+23,2017-08-07 07:22:04 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/pqfbsl/what_are_you_working_on_this_week,/u/caius,12
+0,2017-08-07 14:57:23 -0500,"/t/ai,/t/games,/t/math",3 Simple Steps to Implement Inverse Kinematics,http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php,/u/friendlysock,2
+0,2017-08-07 09:42:07 -0500,/t/python,Interacting with a long-running child process in Python,http://eli.thegreenplace.net/2017/interacting-with-a-long-running-child-process-in-python/,/u/pushcx,4
+0,2017-08-07 14:16:55 -0500,"/t/go,/t/scaling",A Million WebSockets and Go,https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb,/u/ngrilly,2
+9,2017-08-06 17:02:06 -0500,/t/practices,Why Working From Home Is a “Future-looking Technology”,https://www.gsb.stanford.edu/insights/why-working-home-future-looking-technology,/u/soulcutter,13
+5,2017-08-06 10:59:04 -0500,"/t/historical,/t/programming",Where Tcl and Tk Went Wrong,https://journal.dedasys.com/2010/03/30/where-tcl-and-tk-went-wrong/,/u/nickpsecurity,36
+0,2017-08-06 16:47:58 -0500,"/t/emacs,/t/lisp",Suggest.el: Synthesising Constants,http://www.wilfred.me.uk/blog/2017/08/06/suggest-el-synthesising-constants/,/u/Wilfred,13
+4,2017-08-06 15:44:02 -0500,"/t/video,/t/linux,/t/mac,/t/reversing","rMBP requires secret EFI magic to enable integrated GPU!, or why you probably don't want a Mac",https://www.youtube.com/watch?v=OLIVqCFLv5Y,/u/pizzaiolo,13
+0,2017-08-07 03:26:57 -0500,"/t/databases,/t/security",ACIDRain: concurrency-related attacks on database backed web applications,https://blog.acolyer.org/2017/08/07/acidrain-concurrency-related-attacks-on-database-backed-web-applications/,/u/fcbsd,6
+0,2017-08-07 15:01:02 -0500,"/t/pdf,/t/ai,/t/games",CiF-CK: An Architecture for Social NPCs in Commercial Games,https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf,/u/friendlysock,1
+17,2017-08-08 02:20:51 -0500,/t/culture,Google Fires Author of Divisive Memo on Gender Differences,https://www.bloomberg.com/news/articles/2017-08-08/google-fires-employee-behind-controversial-diversity-memo,/u/pgl,4
+0,2017-08-07 10:01:19 -0500,/t/release,ArcaOS 5.0.1 now available,https://www.arcanoae.com/arcaos-5-0-1-now-available/,/u/trn,2
+0,2017-08-07 13:37:22 -0500,"/t/video,/t/css,/t/graphics,/t/programming",Building a 3D neon tile snake with pure CSS,https://www.youtube.com/watch?v=DPGN-GivbYw,/u/mihaitodor,1
+0,2017-08-07 09:42:27 -0500,"/t/debugging,/t/javascript",Finding that pesky listener that’s hijacking your event,https://medium.com/@azizhk/finding-that-pesky-listener-thats-hijacking-your-event-javascript-b590593f2a83,/u/pushcx,2
+0,2017-08-07 09:28:59 -0500,"/t/linux,/t/security",How to Dump Usernames and Passwords from Memory Using Mimipenguin,https://dotlayer.com/how-to-dump-cleartext-usernames-and-passwords-from-memory-using-mimipenguin/,/u/dotcom,2
+8,2017-08-06 14:41:18 -0500,"/t/debugging,/t/go,/t/programming","The Tale of a Go Resource Leak, Square Engineering",https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da,/u/irfansharif,9
+0,2017-08-06 15:20:28 -0500,/t/compilers,The structure of a GCC back end,https://kristerw.blogspot.com/2017/08/the-structure-of-gcc-back-end.html,/u/calvin,16
+0,2017-08-07 04:33:13 -0500,"/t/databases,/t/practices",Startup Engineers and Our Mistakes with MongoDB,https://www.nemil.com/mongo/2.html,/u/calvin,3
+0,2017-08-06 23:18:08 -0500,"/t/historical,/t/lisp,/t/rant",Lisping at JPL,http://www.flownet.com/gat/jpl-lisp.html,/u/friendlysock,11
+0,2017-08-07 09:40:58 -0500,"/t/databases,/t/scaling",Simple and manual sharding on PostgreSQL.,http://www.3manuek.com/postgresmanualsharding,/u/pushcx,1
+0,2017-08-07 09:39:12 -0500,"/t/cryptocurrencies,/t/finance",The curious Tale Of Tethers,https://medium.com/@bitfinexed/the-curious-tale-of-tethers-6b0031eead87,/u/pushcx,1
+0,2017-08-06 16:25:36 -0500,/t/practices,Figuring out how to contribute to open source,https://jvns.ca/blog/2017/08/06/contributing-to-open-source/,/u/calvin,10
+0,2017-08-07 08:04:30 -0500,/t/security,Malware starts monero miner on unsecured Docker hosts,https://github.com/docker/hub-feedback/issues/1121,/u/liwakura,1
+1,2017-08-06 12:57:30 -0500,"/t/haskell,/t/math",Typesafe modular arithmetic in Haskell,https://rkrishnan.org/posts/2017-06-20-typesafe-modulus-in-haskell.html,/u/pushcx,11

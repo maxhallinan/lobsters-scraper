@@ -1,25 +1,25 @@
-0,2018-01-24 15:44:30 -0600,"['/t/programming', '/t/web']",Just Ship,http://bloomca-me.github.io/2018/01/24/just-ship.html,/u/bloomca,16
-38,2018-01-24 11:41:42 -0600,['/t/cryptocurrencies'],$9 billion startup Stripe drops bitcoin support because it doesn't make sense as a means of payment,http://www.businessinsider.com/stripe-ends-its-bitcoin-payments-product-2018-1,/u/pastorinni,18
-0,2018-01-25 08:42:57 -0600,['/t/philosophy'],Stress Way Less: Building Psychological Safety at Work,https://dev.to/preciselyalyss/stress-way-less-building-psychological-safety-at-work-28fh,/u/hennidan,3
-1,2018-01-24 14:15:08 -0600,"['/t/networking', '/t/performance']",The accidental HFT firm,https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html,/u/pushcx,23
-0,2018-01-25 08:29:23 -0600,"['/t/netbsd', '/t/security']",NetBSD kernel wscons IOCTL vulnerable bug class,http://blog.infosectcbr.com.au/2018/01/netbsd-kernel-wscons-ioctl-vulnerable.html,/u/sevan,3
-14,2018-01-24 10:30:28 -0600,['/t/practices'],Stop Wasting Your Beer Money,https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54,/u/tylertreat,18
-0,2018-01-25 10:02:23 -0600,['/t/javascript'],Step by step guide for writing awesome React components,https://codeburst.io/step-by-step-guide-for-writing-awesome-react-components-210c6def902b,/u/loige,2
-0,2018-01-25 08:46:54 -0600,['/t/math'],Game-theoretic Approach to Tradition,http://250bpm.com/blog:118,/u/awn,2
-1,2018-01-25 10:52:52 -0600,"['/t/culture', '/t/philosophy']",Growing apart and losing touch is human and healthy,https://m.signalvnoise.com/growing-apart-and-losing-touch-is-human-and-healthy-52b5a678fbf5,/u/calvin,3
-17,2018-01-24 23:03:24 -0600,"['/t/culture', '/t/education']",Report: 80's kids started programming at an earlier age than today's millennials,https://thenextweb.com/dd/2018/01/23/report-80s-kids-started-programming-at-an-earlier-age-than-todays-millennials/,/u/calvin,13
-7,2018-01-24 11:18:38 -0600,['/t/ai'],Learning Deep Learning,http://www.usrsb.in/learning-deep-learning.html,/u/beala,5
-8,2018-01-24 09:35:59 -0600,"['/t/hardware', '/t/javascript', '/t/security']",System Bus Radio,https://fulldecent.github.io/system-bus-radio/,/u/stsp,13
-1,2018-01-24 13:55:04 -0600,"['/t/video', '/t/historical', '/t/programming']",Ted Nelson on What Modern Programmers Can Learn From the Past,https://spectrum.ieee.org/video/geek-life/profiles/ted-nelson-on-what-modern-programmers-can-learn-from-the-past,/u/zpojqwfejwfhiunz,10
-27,2018-01-23 10:25:43 -0600,"['/t/distributed', '/t/web']",ActivityPub (decentralized social web standard) is now a W3C Recommendation,https://www.w3.org/blog/news/archives/6785,/u/paroneayea,71
-0,2018-01-25 07:03:34 -0600,"['/t/ai', '/t/python', '/t/release', '/t/science']",Poincaré Embeddings for Learning Hierarchical Representations,https://github.com/facebookresearch/poincare-embeddings,/u/carschno,1
-1,2018-01-24 10:04:27 -0600,"['/t/pdf', '/t/formalmethods', '/t/haskell']",Total Haskell is Reasonable Coq,https://www.cis.upenn.edu/~criz/publications/hs_to_coq.pdf,/u/nickpsecurity,12
-0,2018-01-24 21:27:59 -0600,['/t/netbsd'],Working with the NetBSD kernel,https://t.pagef.lt/working-with-the-netbsd-kernel/,/u/nanxiao,4
-2,2018-01-24 08:26:51 -0600,"['/t/javascript', '/t/release', '/t/rust']","📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀",https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95,/u/skade,12
-11,2018-01-24 04:10:46 -0600,['/t/person'],Why I left Google to join Grab,https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84,/u/mulander,12
-4,2018-01-24 08:12:11 -0600,['/t/erlang'],Erlang Cheatsheet,https://stratus3d.com/blog/2018/01/20/erlang-cheatsheet,/u/Stratus3D,6
-22,2018-01-23 18:09:32 -0600,"['/t/c', '/t/practices', '/t/testing']","I've been toying with making a testing library for C, and I think it's coming together pretty well.",https://github.com/mortie/snow,/u/mort,26
-2,2018-01-24 23:06:36 -0600,"['/t/ios', '/t/mobile', '/t/web']","Safari 11.1 in iOS 11.3 to support Service Workers, PaymentRequest etc",https://twitter.com/rmondello/status/956256845311590400,/u/voxpelli,2
-0,2018-01-24 19:28:53 -0600,['/t/databases'],Citus and pg_partman: Creating a scalable time series database on Postgres,https://www.citusdata.com/blog/2018/01/24/citus-and-pg-partman-creating-a-scalable-time-series-database-on-PostgreSQL/,/u/saisrirampur,4
-0,2018-01-24 23:04:18 -0600,"['/t/dotnet', '/t/performance']",The Performance Characteristics of Async Methods,https://blogs.msdn.microsoft.com/seteplia/2018/01/25/the-performance-characteristics-of-async-methods/,/u/calvin,2
-3,2018-01-24 03:16:18 -0600,['/t/hardware'],Samsung Exynos M3: 6-wide Decode With 50%+ IPC Increase,https://www.anandtech.com/show/12361/samsung-exynos-m3-architecture,/u/sanxiyn,13
+0,2018-01-24 15:44:30 -0600,"/t/programming,/t/web",Just Ship,http://bloomca-me.github.io/2018/01/24/just-ship.html,/u/bloomca,16
+38,2018-01-24 11:41:42 -0600,/t/cryptocurrencies,$9 billion startup Stripe drops bitcoin support because it doesn't make sense as a means of payment,http://www.businessinsider.com/stripe-ends-its-bitcoin-payments-product-2018-1,/u/pastorinni,18
+0,2018-01-25 08:42:57 -0600,/t/philosophy,Stress Way Less: Building Psychological Safety at Work,https://dev.to/preciselyalyss/stress-way-less-building-psychological-safety-at-work-28fh,/u/hennidan,3
+1,2018-01-24 14:15:08 -0600,"/t/networking,/t/performance",The accidental HFT firm,https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html,/u/pushcx,23
+0,2018-01-25 08:29:23 -0600,"/t/netbsd,/t/security",NetBSD kernel wscons IOCTL vulnerable bug class,http://blog.infosectcbr.com.au/2018/01/netbsd-kernel-wscons-ioctl-vulnerable.html,/u/sevan,3
+14,2018-01-24 10:30:28 -0600,/t/practices,Stop Wasting Your Beer Money,https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54,/u/tylertreat,18
+0,2018-01-25 10:02:23 -0600,/t/javascript,Step by step guide for writing awesome React components,https://codeburst.io/step-by-step-guide-for-writing-awesome-react-components-210c6def902b,/u/loige,2
+0,2018-01-25 08:46:54 -0600,/t/math,Game-theoretic Approach to Tradition,http://250bpm.com/blog:118,/u/awn,2
+1,2018-01-25 10:52:52 -0600,"/t/culture,/t/philosophy",Growing apart and losing touch is human and healthy,https://m.signalvnoise.com/growing-apart-and-losing-touch-is-human-and-healthy-52b5a678fbf5,/u/calvin,3
+17,2018-01-24 23:03:24 -0600,"/t/culture,/t/education",Report: 80's kids started programming at an earlier age than today's millennials,https://thenextweb.com/dd/2018/01/23/report-80s-kids-started-programming-at-an-earlier-age-than-todays-millennials/,/u/calvin,13
+7,2018-01-24 11:18:38 -0600,/t/ai,Learning Deep Learning,http://www.usrsb.in/learning-deep-learning.html,/u/beala,5
+8,2018-01-24 09:35:59 -0600,"/t/hardware,/t/javascript,/t/security",System Bus Radio,https://fulldecent.github.io/system-bus-radio/,/u/stsp,13
+1,2018-01-24 13:55:04 -0600,"/t/video,/t/historical,/t/programming",Ted Nelson on What Modern Programmers Can Learn From the Past,https://spectrum.ieee.org/video/geek-life/profiles/ted-nelson-on-what-modern-programmers-can-learn-from-the-past,/u/zpojqwfejwfhiunz,10
+27,2018-01-23 10:25:43 -0600,"/t/distributed,/t/web",ActivityPub (decentralized social web standard) is now a W3C Recommendation,https://www.w3.org/blog/news/archives/6785,/u/paroneayea,71
+0,2018-01-25 07:03:34 -0600,"/t/ai,/t/python,/t/release,/t/science",Poincaré Embeddings for Learning Hierarchical Representations,https://github.com/facebookresearch/poincare-embeddings,/u/carschno,1
+1,2018-01-24 10:04:27 -0600,"/t/pdf,/t/formalmethods,/t/haskell",Total Haskell is Reasonable Coq,https://www.cis.upenn.edu/~criz/publications/hs_to_coq.pdf,/u/nickpsecurity,12
+0,2018-01-24 21:27:59 -0600,/t/netbsd,Working with the NetBSD kernel,https://t.pagef.lt/working-with-the-netbsd-kernel/,/u/nanxiao,4
+2,2018-01-24 08:26:51 -0600,"/t/javascript,/t/release,/t/rust","📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀",https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95,/u/skade,12
+11,2018-01-24 04:10:46 -0600,/t/person,Why I left Google to join Grab,https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84,/u/mulander,12
+4,2018-01-24 08:12:11 -0600,/t/erlang,Erlang Cheatsheet,https://stratus3d.com/blog/2018/01/20/erlang-cheatsheet,/u/Stratus3D,6
+22,2018-01-23 18:09:32 -0600,"/t/c,/t/practices,/t/testing","I've been toying with making a testing library for C, and I think it's coming together pretty well.",https://github.com/mortie/snow,/u/mort,26
+2,2018-01-24 23:06:36 -0600,"/t/ios,/t/mobile,/t/web","Safari 11.1 in iOS 11.3 to support Service Workers, PaymentRequest etc",https://twitter.com/rmondello/status/956256845311590400,/u/voxpelli,2
+0,2018-01-24 19:28:53 -0600,/t/databases,Citus and pg_partman: Creating a scalable time series database on Postgres,https://www.citusdata.com/blog/2018/01/24/citus-and-pg-partman-creating-a-scalable-time-series-database-on-PostgreSQL/,/u/saisrirampur,4
+0,2018-01-24 23:04:18 -0600,"/t/dotnet,/t/performance",The Performance Characteristics of Async Methods,https://blogs.msdn.microsoft.com/seteplia/2018/01/25/the-performance-characteristics-of-async-methods/,/u/calvin,2
+3,2018-01-24 03:16:18 -0600,/t/hardware,Samsung Exynos M3: 6-wide Decode With 50%+ IPC Increase,https://www.anandtech.com/show/12361/samsung-exynos-m3-architecture,/u/sanxiyn,13

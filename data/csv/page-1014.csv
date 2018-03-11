@@ -1,25 +1,25 @@
-10,2015-10-01 03:20:14 -0500,['/t/programming'],Hacktoberfest 2015,https://hacktoberfest.digitalocean.com/,/u/algernon,6
-3,2015-09-30 22:51:20 -0500,['/t/web'],Someone bought 'Google.com' from Google for one minute,http://finance.yahoo.com/news/guy-bought-google-com-google-230510405.html,/u/zg,14
-1,2015-10-01 06:11:08 -0500,['/t/databases'],EXPLAIN explained,http://jberkus.github.io/explain_explained/index.html,/u/mulander,5
-5,2015-10-01 05:43:31 -0500,"['/t/mobile', '/t/rant', '/t/web']",OAuth Has Ruined Everything,http://developer.telerik.com/featured/oauth-has-ruined-everything/,/u/remotesynth,11
-0,2015-09-30 20:35:03 -0500,['/t/browsers'],Firefox 41 can screenshot a single DOM element,https://hacks.mozilla.org/2015/09/trainspotting-firefox-41/,/u/aaron,14
-0,2015-10-01 15:46:47 -0500,"['/t/math', '/t/programming']",Is Bayesian A/B Testing Immune to Peeking? Not Exactly,http://varianceexplained.org/r/bayesian-ab-testing/,/u/pushcx,1
-5,2015-10-01 05:39:32 -0500,"['/t/databases', '/t/scaling']",Sharding the Asana Database,https://eng.asana.com/2015/04/sharding-is-bitter-medicine/,/u/ngrilly,2
-0,2015-09-30 16:22:53 -0500,"['/t/javascript', '/t/web']","SVG and the DOM, or ""The Weirdest Bug I've Ever Encountered""",http://ponyfoo.com/articles/weirdest-bug-ever,/u/ponyfoo,9
-0,2015-10-01 12:46:16 -0500,"['/t/programming', '/t/python', '/t/visualization']",Learning programming at scale,http://radar.oreilly.com/2015/08/learning-programming-at-scale.html?cmp=tw-prog-free-article-oseu15_learning_programming_at_scale,/u/pushcx,1
-0,2015-10-01 11:56:24 -0500,['/t/go'],A Pattern for Optimizing Go,http://blog.signalfx.com/a-pattern-for-optimizing-go,/u/journeysquid,1
-0,2015-09-30 20:06:53 -0500,"['/t/programming', '/t/ruby', '/t/web']","Non-Rails Web Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus",https://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/,/u/pushcx,6
-1,2015-09-30 14:17:37 -0500,"['/t/devops', '/t/distributed', '/t/hardware', '/t/networking']",How distributed systems respond to degraded hardware,http://danluu.com/limplock/,/u/pushcx,11
-0,2015-10-01 04:54:19 -0500,"['/t/javascript', '/t/web']",The Evolution of Asana's Luna Framework,https://eng.asana.com/2015/05/the-evolution-of-asanas-luna-framework/,/u/ngrilly,2
-0,2015-09-30 20:00:03 -0500,"['/t/databases', '/t/visualization']",SQL Joins,https://i.imgur.com/1m55Wqo.jpg,/u/pushcx,6
-17,2015-09-30 00:47:22 -0500,['/t/mac'],OS X 10.11 El Capitan: The Ars Technica Review,http://arstechnica.com/apple/2015/09/os-x-10-11-el-capitan-the-ars-technica-review/,/u/ehamberg,21
-0,2015-09-30 21:07:56 -0500,['/t/culture'],Services database purge on Freenode,http://blog.freenode.net/2015/09/services-database-purge/,/u/evaryont,5
-0,2015-09-30 19:23:50 -0500,['/t/swift'],Generics in Swift: An Overview,http://austinzheng.com/2015/09/29/swift-generics-pt-2/,/u/austinz,1
-11,2015-09-29 23:20:22 -0500,['/t/cryptocurrencies'],Bitcoin is 100x less secure than commonly believed,http://bytemaster.github.io/update/2015/09/29/Bitcoin-is-100x-less-secure-than-commonly-believed/,/u/jm,10
-0,2015-09-30 16:59:14 -0500,"['/t/programming', '/t/ruby']",How to raise any object as a Ruby exception,http://blog.honeybadger.io/how-to-raise-any-object-as-a-ruby-exception/,/u/pushcx,2
-0,2015-09-30 06:02:07 -0500,"['/t/release', '/t/unix']",pkgsrc-2015Q3 released,https://mail-index.netbsd.org/pkgsrc-users/2015/09/30/msg022310.html,/u/fcambus,6
-4,2015-09-29 12:13:43 -0500,"['/t/practices', '/t/web']",U.S. Web Design Standards,https://playbook.cio.gov/designstandards/,/u/flyingfisch,16
-20,2015-09-29 02:30:51 -0500,"['/t/scala', '/t/scaling']","Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.",http://www.gigamonkeys.com/flowers/,/u/sivers,27
-0,2015-09-29 17:53:59 -0500,"['/t/linux', '/t/reversing', '/t/security']",Notes on Linux/Xor.DDoS,http://bartblaze.blogspot.com/2015/09/notes-on-linuxxorddos.html,/u/tedu,9
-0,2015-09-29 15:19:25 -0500,['/t/databases'],Common Misconceptions about Locking in Postgres,https://www.compose.io/articles/common-misconceptions-about-locking-in-postgresql/,/u/pushcx,11
-2,2015-09-29 12:34:01 -0500,"['/t/assembly', '/t/reversing', '/t/security']",Modern Binary Exploitation,http://security.cs.rpi.edu/courses/binexp-spring2015/,/u/behemoth,11
+10,2015-10-01 03:20:14 -0500,/t/programming,Hacktoberfest 2015,https://hacktoberfest.digitalocean.com/,/u/algernon,6
+3,2015-09-30 22:51:20 -0500,/t/web,Someone bought 'Google.com' from Google for one minute,http://finance.yahoo.com/news/guy-bought-google-com-google-230510405.html,/u/zg,14
+1,2015-10-01 06:11:08 -0500,/t/databases,EXPLAIN explained,http://jberkus.github.io/explain_explained/index.html,/u/mulander,5
+5,2015-10-01 05:43:31 -0500,"/t/mobile,/t/rant,/t/web",OAuth Has Ruined Everything,http://developer.telerik.com/featured/oauth-has-ruined-everything/,/u/remotesynth,11
+0,2015-09-30 20:35:03 -0500,/t/browsers,Firefox 41 can screenshot a single DOM element,https://hacks.mozilla.org/2015/09/trainspotting-firefox-41/,/u/aaron,14
+0,2015-10-01 15:46:47 -0500,"/t/math,/t/programming",Is Bayesian A/B Testing Immune to Peeking? Not Exactly,http://varianceexplained.org/r/bayesian-ab-testing/,/u/pushcx,1
+5,2015-10-01 05:39:32 -0500,"/t/databases,/t/scaling",Sharding the Asana Database,https://eng.asana.com/2015/04/sharding-is-bitter-medicine/,/u/ngrilly,2
+0,2015-09-30 16:22:53 -0500,"/t/javascript,/t/web","SVG and the DOM, or ""The Weirdest Bug I've Ever Encountered""",http://ponyfoo.com/articles/weirdest-bug-ever,/u/ponyfoo,9
+0,2015-10-01 12:46:16 -0500,"/t/programming,/t/python,/t/visualization",Learning programming at scale,http://radar.oreilly.com/2015/08/learning-programming-at-scale.html?cmp=tw-prog-free-article-oseu15_learning_programming_at_scale,/u/pushcx,1
+0,2015-10-01 11:56:24 -0500,/t/go,A Pattern for Optimizing Go,http://blog.signalfx.com/a-pattern-for-optimizing-go,/u/journeysquid,1
+0,2015-09-30 20:06:53 -0500,"/t/programming,/t/ruby,/t/web","Non-Rails Web Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus",https://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/,/u/pushcx,6
+1,2015-09-30 14:17:37 -0500,"/t/devops,/t/distributed,/t/hardware,/t/networking",How distributed systems respond to degraded hardware,http://danluu.com/limplock/,/u/pushcx,11
+0,2015-10-01 04:54:19 -0500,"/t/javascript,/t/web",The Evolution of Asana's Luna Framework,https://eng.asana.com/2015/05/the-evolution-of-asanas-luna-framework/,/u/ngrilly,2
+0,2015-09-30 20:00:03 -0500,"/t/databases,/t/visualization",SQL Joins,https://i.imgur.com/1m55Wqo.jpg,/u/pushcx,6
+17,2015-09-30 00:47:22 -0500,/t/mac,OS X 10.11 El Capitan: The Ars Technica Review,http://arstechnica.com/apple/2015/09/os-x-10-11-el-capitan-the-ars-technica-review/,/u/ehamberg,21
+0,2015-09-30 21:07:56 -0500,/t/culture,Services database purge on Freenode,http://blog.freenode.net/2015/09/services-database-purge/,/u/evaryont,5
+0,2015-09-30 19:23:50 -0500,/t/swift,Generics in Swift: An Overview,http://austinzheng.com/2015/09/29/swift-generics-pt-2/,/u/austinz,1
+11,2015-09-29 23:20:22 -0500,/t/cryptocurrencies,Bitcoin is 100x less secure than commonly believed,http://bytemaster.github.io/update/2015/09/29/Bitcoin-is-100x-less-secure-than-commonly-believed/,/u/jm,10
+0,2015-09-30 16:59:14 -0500,"/t/programming,/t/ruby",How to raise any object as a Ruby exception,http://blog.honeybadger.io/how-to-raise-any-object-as-a-ruby-exception/,/u/pushcx,2
+0,2015-09-30 06:02:07 -0500,"/t/release,/t/unix",pkgsrc-2015Q3 released,https://mail-index.netbsd.org/pkgsrc-users/2015/09/30/msg022310.html,/u/fcambus,6
+4,2015-09-29 12:13:43 -0500,"/t/practices,/t/web",U.S. Web Design Standards,https://playbook.cio.gov/designstandards/,/u/flyingfisch,16
+20,2015-09-29 02:30:51 -0500,"/t/scala,/t/scaling","Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.",http://www.gigamonkeys.com/flowers/,/u/sivers,27
+0,2015-09-29 17:53:59 -0500,"/t/linux,/t/reversing,/t/security",Notes on Linux/Xor.DDoS,http://bartblaze.blogspot.com/2015/09/notes-on-linuxxorddos.html,/u/tedu,9
+0,2015-09-29 15:19:25 -0500,/t/databases,Common Misconceptions about Locking in Postgres,https://www.compose.io/articles/common-misconceptions-about-locking-in-postgresql/,/u/pushcx,11
+2,2015-09-29 12:34:01 -0500,"/t/assembly,/t/reversing,/t/security",Modern Binary Exploitation,http://security.cs.rpi.edu/courses/binexp-spring2015/,/u/behemoth,11

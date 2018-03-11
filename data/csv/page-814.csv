@@ -1,25 +1,25 @@
-5,2016-04-13 21:59:13 -0500,"['/t/pdf', '/t/compsci']",An Array-Oriented Language with Static Rank Polymorphism,http://www.ccs.neu.edu/home/shivers/papers/rank-polymorphism.pdf,/u/craigstuntz,6
-9,2016-04-13 15:44:23 -0500,['/t/security'],Trust is not transitive: or why IRC over SSL is pointless (2009),https://www.quakenet.org/articles/99-trust-is-not-transitive-or-why-irc-over-ssl-is-pointless,/u/JordiGH,9
-1,2016-04-13 07:56:54 -0500,"['/t/privacy', '/t/security']","Let's Encrypt leaves beta, gains more sponsors",https://letsencrypt.org/2016/04/12/leaving-beta-new-sponsors.html,/u/gadams,38
-0,2016-04-13 21:06:26 -0500,"['/t/cogsci', '/t/person']",What It’s Like to ‘Wake Up’ From Autism After Magnetic Stimulation,http://nymag.com/scienceofus/2016/04/what-its-like-to-wake-up-from-autism-after-magnetic-stimulation.html,/u/pushcx,9
-4,2016-04-14 01:24:28 -0500,"['/t/ask', '/t/culture']",Solid projects looking for contributors,/s/acb2h8/solid_projects_looking_for_contributors,/u/pnathan,10
-3,2016-04-13 17:37:17 -0500,"['/t/programming', '/t/vcs']","pair, a git author tool",https://corner.squareup.com/2016/04/pair-a-git-author-tool.html,/u/nwjsmith,8
-0,2016-04-14 01:49:03 -0500,['/t/haskell'],Monitoring a Yesod App with EKG,https://maxgabriel.github.io/ekg-yesod/,/u/puffnfresh,4
-0,2016-04-14 11:23:45 -0500,"['/t/javascript', '/t/web']",Pony Foo Weekly — Issue #6,https://ponyfoo.com/weekly/6,/u/ponyfoo,0
-2,2016-04-13 14:32:02 -0500,['/t/hardware'],Nintendo DS sized pocket computer (Raspberry Pi),http://imgur.com/gallery/J0P5n,/u/JordiGH,11
-0,2016-04-13 07:31:26 -0500,"['/t/assembly', '/t/programming', '/t/rust']",Well written tutorial about some of the lowest level concepts involved in getting an OS running,http://os.phil-opp.com/,/u/rain1,22
-0,2016-04-13 16:31:11 -0500,"['/t/devops', '/t/distributed', '/t/networking']",GCE Incident 16007,https://status.cloud.google.com/incident/compute/16007,/u/tedu,7
-1,2016-04-13 17:35:21 -0500,['/t/compsci'],Understanding typing judgments,https://derekelkins.github.io/posts/understanding-typing-judgments.html,/u/data_hope,5
-1,2016-04-13 04:29:58 -0500,"['/t/math', '/t/programming']",A Gibbs sampler in Crystal,http://ruivieira.org/blog/post/6,/u/ruivieira,8
-0,2016-04-13 07:52:14 -0500,"['/t/crypto', '/t/security']",An Analysis of OpenSSL's Random Number Generator,https://eprint.iacr.org/2016/367,/u/mulander,7
-5,2016-04-12 18:05:10 -0500,"['/t/compsci', '/t/programming']",Coeffects: Context-aware programming languages,http://tomasp.net/coeffects/,/u/SirSkidmore,36
-1,2016-04-13 10:16:19 -0500,"['/t/databases', '/t/scaling']",Growing up with MySQL,https://nylas.com/blog/growing-up-with-mysql/,/u/ngrilly,6
-0,2016-04-13 10:40:31 -0500,"['/t/compsci', '/t/databases', '/t/distributed', '/t/visualization']",Visualization of RAMP transactions,http://rystsov.info/2016/04/07/ramp.html,/u/rystsov,3
-0,2016-04-13 10:30:09 -0500,['/t/devops'],Learning fleet commands and their usage,https://deis.com/blog/2016/fleet-coreos-pt-2/,/u/tiwarinitish86,2
-4,2016-04-12 19:17:09 -0500,['/t/compsci'],Tensorflow Neural Network Playground,http://playground.tensorflow.org/,/u/tf,16
-0,2016-04-13 14:11:17 -0500,"['/t/hardware', '/t/reversing']",a complete guide to hacking your vehicle bus on the cheap & easy – part 1 (hardware interface),https://theksmith.com/software/hack-vehicle-bus-cheap-easy-part-1/,/u/friendlysock,2
-0,2016-04-13 13:39:11 -0500,['/t/javascript'],"Angular2 Seed Advanced – Ngrx/store, Ng2-Translate, NativeScript, Electron",https://github.com/NathanWalker/angular2-seed-advanced,/u/douglascorrea,2
-0,2016-04-13 10:40:04 -0500,"['/t/javascript', '/t/lisp', '/t/web']",Hot Loading Angular2 With State,http://deliberate-software.com/figwheel-angular2/,/u/steveshogren,1
-7,2016-04-12 16:28:20 -0500,['/t/lisp'],8sync: Asynchronous Programming Made Awesome,http://www.gnu.org/software/8sync/,/u/antifuchs,14
-0,2016-04-13 09:08:32 -0500,['/t/programming'],Complexity budgets,http://scattered-thoughts.net/blog/2015/10/25/complexity-budgets,/u/adsouza,3
-2,2016-04-12 11:45:37 -0500,['/t/ruby'],Don’t you Struct.new(…).new(…),https://pragtob.wordpress.com/2016/04/12/dont-you-struct-new-new/,/u/PragTob,10
+5,2016-04-13 21:59:13 -0500,"/t/pdf,/t/compsci",An Array-Oriented Language with Static Rank Polymorphism,http://www.ccs.neu.edu/home/shivers/papers/rank-polymorphism.pdf,/u/craigstuntz,6
+9,2016-04-13 15:44:23 -0500,/t/security,Trust is not transitive: or why IRC over SSL is pointless (2009),https://www.quakenet.org/articles/99-trust-is-not-transitive-or-why-irc-over-ssl-is-pointless,/u/JordiGH,9
+1,2016-04-13 07:56:54 -0500,"/t/privacy,/t/security","Let's Encrypt leaves beta, gains more sponsors",https://letsencrypt.org/2016/04/12/leaving-beta-new-sponsors.html,/u/gadams,38
+0,2016-04-13 21:06:26 -0500,"/t/cogsci,/t/person",What It’s Like to ‘Wake Up’ From Autism After Magnetic Stimulation,http://nymag.com/scienceofus/2016/04/what-its-like-to-wake-up-from-autism-after-magnetic-stimulation.html,/u/pushcx,9
+4,2016-04-14 01:24:28 -0500,"/t/ask,/t/culture",Solid projects looking for contributors,/s/acb2h8/solid_projects_looking_for_contributors,/u/pnathan,10
+3,2016-04-13 17:37:17 -0500,"/t/programming,/t/vcs","pair, a git author tool",https://corner.squareup.com/2016/04/pair-a-git-author-tool.html,/u/nwjsmith,8
+0,2016-04-14 01:49:03 -0500,/t/haskell,Monitoring a Yesod App with EKG,https://maxgabriel.github.io/ekg-yesod/,/u/puffnfresh,4
+0,2016-04-14 11:23:45 -0500,"/t/javascript,/t/web",Pony Foo Weekly — Issue #6,https://ponyfoo.com/weekly/6,/u/ponyfoo,0
+2,2016-04-13 14:32:02 -0500,/t/hardware,Nintendo DS sized pocket computer (Raspberry Pi),http://imgur.com/gallery/J0P5n,/u/JordiGH,11
+0,2016-04-13 07:31:26 -0500,"/t/assembly,/t/programming,/t/rust",Well written tutorial about some of the lowest level concepts involved in getting an OS running,http://os.phil-opp.com/,/u/rain1,22
+0,2016-04-13 16:31:11 -0500,"/t/devops,/t/distributed,/t/networking",GCE Incident 16007,https://status.cloud.google.com/incident/compute/16007,/u/tedu,7
+1,2016-04-13 17:35:21 -0500,/t/compsci,Understanding typing judgments,https://derekelkins.github.io/posts/understanding-typing-judgments.html,/u/data_hope,5
+1,2016-04-13 04:29:58 -0500,"/t/math,/t/programming",A Gibbs sampler in Crystal,http://ruivieira.org/blog/post/6,/u/ruivieira,8
+0,2016-04-13 07:52:14 -0500,"/t/crypto,/t/security",An Analysis of OpenSSL's Random Number Generator,https://eprint.iacr.org/2016/367,/u/mulander,7
+5,2016-04-12 18:05:10 -0500,"/t/compsci,/t/programming",Coeffects: Context-aware programming languages,http://tomasp.net/coeffects/,/u/SirSkidmore,36
+1,2016-04-13 10:16:19 -0500,"/t/databases,/t/scaling",Growing up with MySQL,https://nylas.com/blog/growing-up-with-mysql/,/u/ngrilly,6
+0,2016-04-13 10:40:31 -0500,"/t/compsci,/t/databases,/t/distributed,/t/visualization",Visualization of RAMP transactions,http://rystsov.info/2016/04/07/ramp.html,/u/rystsov,3
+0,2016-04-13 10:30:09 -0500,/t/devops,Learning fleet commands and their usage,https://deis.com/blog/2016/fleet-coreos-pt-2/,/u/tiwarinitish86,2
+4,2016-04-12 19:17:09 -0500,/t/compsci,Tensorflow Neural Network Playground,http://playground.tensorflow.org/,/u/tf,16
+0,2016-04-13 14:11:17 -0500,"/t/hardware,/t/reversing",a complete guide to hacking your vehicle bus on the cheap & easy – part 1 (hardware interface),https://theksmith.com/software/hack-vehicle-bus-cheap-easy-part-1/,/u/friendlysock,2
+0,2016-04-13 13:39:11 -0500,/t/javascript,"Angular2 Seed Advanced – Ngrx/store, Ng2-Translate, NativeScript, Electron",https://github.com/NathanWalker/angular2-seed-advanced,/u/douglascorrea,2
+0,2016-04-13 10:40:04 -0500,"/t/javascript,/t/lisp,/t/web",Hot Loading Angular2 With State,http://deliberate-software.com/figwheel-angular2/,/u/steveshogren,1
+7,2016-04-12 16:28:20 -0500,/t/lisp,8sync: Asynchronous Programming Made Awesome,http://www.gnu.org/software/8sync/,/u/antifuchs,14
+0,2016-04-13 09:08:32 -0500,/t/programming,Complexity budgets,http://scattered-thoughts.net/blog/2015/10/25/complexity-budgets,/u/adsouza,3
+2,2016-04-12 11:45:37 -0500,/t/ruby,Don’t you Struct.new(…).new(…),https://pragtob.wordpress.com/2016/04/12/dont-you-struct-new-new/,/u/PragTob,10

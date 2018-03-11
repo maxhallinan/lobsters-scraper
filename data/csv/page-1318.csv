@@ -1,25 +1,25 @@
-17,2014-06-02 14:16:32 -0500,['/t/ios'],The Swift Programming Language,https://itunes.apple.com/gb/book/swift-programming-language/id881256329?mt=11,/u/pushcx,39
-0,2014-06-03 12:16:33 -0500,['/t/browsers'],One year of Blink and WebKit,http://browserg.nom.es/,/u/bobbywilson0,6
-2,2014-06-03 11:18:07 -0500,"['/t/distributed', '/t/hardware']",Mini-supercomputer cluster made from 8 Parallella boards,http://www.parallella.org/2014/06/03/my-name-is-brian-and-i-build-supercomputers-in-my-spare-time/,/u/zhemao,4
-6,2014-06-03 01:54:20 -0500,"['/t/show', '/t/hardware']",Internet of Things: How Spark core helped us make a Wi-Fi keylock with e-paper keypad for our office,http://www.visionect.com/blog/epaper-door-keypad-spark-core-internet-of-things/,/u/jux,6
-0,2014-06-03 19:45:32 -0500,['/t/perl'],"Weekly changes in and around Perl 6: NLPW2014 recordings, release, optimization, GTK and Cairo",http://p6weekly.wordpress.com/2014/05/26/2014-21-nlpw2014-recordings-release-optimization-gtk-and-cairo/,/u/hoelzro,1
-0,2014-06-04 05:34:45 -0500,['/t/ask'],Common Causes of Team Conflict,http://www.infoq.com/research/dealing-with-team-conflicts,/u/ancatrusca,0
-0,2014-06-03 01:13:06 -0500,['/t/vim'],How did vi come about - Interview with Bill Joy (1984),http://web.cecs.pdx.edu/~kirkenda/joy84.html,/u/henkjan,9
-0,2014-06-03 11:17:53 -0500,"['/t/pdf', '/t/compsci']",A tutorial on the universality and expressiveness of fold,http://www.cs.nott.ac.uk/~gmh/fold.pdf,/u/banjiewen,2
-0,2014-06-03 10:13:11 -0500,"['/t/compsci', '/t/programming']",APL Problem Solving Competition,http://www.dyalogaplcompetition.com/,/u/chaoxu,1
-0,2014-06-03 14:58:20 -0500,"['/t/culture', '/t/networking', '/t/person']",Sonic.net CEO: Caps & Limits 'Artificial and Contrived',http://www.dslreports.com/shownews/SonicNet-CEO-Caps-Limits-Artificial-and-Contrived-129193,/u/cnst,1
-1,2014-06-02 13:20:26 -0500,"['/t/programming', '/t/release']",Light Table 0.6.6,http://www.lighttable.com/2014/06/02/lighttable-0-6-6/,/u/daGrevis,10
-0,2014-06-03 07:29:24 -0500,"['/t/show', '/t/python', '/t/web']",An Online Curriculum to learn Web Development using Python and Django,http://www.mysliderule.com/learning-paths/web-development-python-django/,/u/gautambay,1
-0,2014-06-03 07:06:58 -0500,['/t/api'],Web APIs and the n+1 Problem,http://www.infoq.com/articles/N-Plus-1,/u/ancatrusca,1
-0,2014-06-03 12:07:23 -0500,"['/t/ios', '/t/mobile']",My First Hello World with Apple's Swift and Telerik UI for iOS,http://blogs.telerik.com/blogs/14-06-03/my-first-hello-world-with-apples-swift-and-telerik-ui-for-ios,/u/pakostina,0
-0,2014-06-02 14:58:02 -0500,['/t/security'],New Heartbleed attack targets wireless devices,http://www.sysvalue.com/en/heartbleed-cupid-wireless/,/u/oz,5
-0,2014-06-02 13:24:26 -0500,['/t/security'],Benjamin Pierce interview about SAFE project,http://intelligence.org/2014/05/11/benjamin-pierce/,/u/xcombelle,5
-0,2014-06-02 03:58:55 -0500,"['/t/compsci', '/t/programming']",Addressing Misconceptions About Code with Always-On Programming Visualizations,http://alltom.com/pages/theseus/chi-2014/,/u/BruceM,12
-0,2014-06-02 05:49:55 -0500,"['/t/linux', '/t/programming']",Measuring Latency in Linux,http://btorpey.github.io/blog/2014/02/18/clock-sources-in-linux/,/u/penberg,9
-0,2014-06-02 12:32:28 -0500,"['/t/math', '/t/programming', '/t/visualization']",A GPU Approach to Voronoi Diagrams,http://nullprogram.com/blog/2014/06/01/,/u/zhemao,1
-0,2014-06-02 11:35:15 -0500,['/t/compsci'],Bandits for Recommendation Systems,http://engineering.richrelevance.com/bandits-recommendation-systems/,/u/tobym,1
-0,2014-06-01 18:21:54 -0500,"['/t/c', '/t/scaling']",Lock-free Data Structures. The Inside. Memory Management Schemes,http://kukuruku.co/hub/cpp/lock-free-data-structures-the-inside-memory-management-schemes,/u/kellogh,11
-7,2014-06-01 15:15:34 -0500,"['/t/culture', '/t/philosophy']","Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds",http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html,/u/robey,30
-0,2014-06-01 18:24:11 -0500,"['/t/pdf', '/t/compsci']",Apollo Domain/OS Design Principles,http://bitsavers.trailing-edge.com/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf,/u/SeanTAllen,8
-6,2014-06-01 18:26:34 -0500,"['/t/meta', '/t/perl']",Perl tag?,/s/ddlmon/perl_tag,/u/hoelzro,13
-0,2014-06-02 06:23:48 -0500,['/t/web'],Ansible’s View on IT Automation,http://www.infoq.com/articles/ansible-view-on-it-automation,/u/ancatrusca,1
+17,2014-06-02 14:16:32 -0500,/t/ios,The Swift Programming Language,https://itunes.apple.com/gb/book/swift-programming-language/id881256329?mt=11,/u/pushcx,39
+0,2014-06-03 12:16:33 -0500,/t/browsers,One year of Blink and WebKit,http://browserg.nom.es/,/u/bobbywilson0,6
+2,2014-06-03 11:18:07 -0500,"/t/distributed,/t/hardware",Mini-supercomputer cluster made from 8 Parallella boards,http://www.parallella.org/2014/06/03/my-name-is-brian-and-i-build-supercomputers-in-my-spare-time/,/u/zhemao,4
+6,2014-06-03 01:54:20 -0500,"/t/show,/t/hardware",Internet of Things: How Spark core helped us make a Wi-Fi keylock with e-paper keypad for our office,http://www.visionect.com/blog/epaper-door-keypad-spark-core-internet-of-things/,/u/jux,6
+0,2014-06-03 19:45:32 -0500,/t/perl,"Weekly changes in and around Perl 6: NLPW2014 recordings, release, optimization, GTK and Cairo",http://p6weekly.wordpress.com/2014/05/26/2014-21-nlpw2014-recordings-release-optimization-gtk-and-cairo/,/u/hoelzro,1
+0,2014-06-04 05:34:45 -0500,/t/ask,Common Causes of Team Conflict,http://www.infoq.com/research/dealing-with-team-conflicts,/u/ancatrusca,0
+0,2014-06-03 01:13:06 -0500,/t/vim,How did vi come about - Interview with Bill Joy (1984),http://web.cecs.pdx.edu/~kirkenda/joy84.html,/u/henkjan,9
+0,2014-06-03 11:17:53 -0500,"/t/pdf,/t/compsci",A tutorial on the universality and expressiveness of fold,http://www.cs.nott.ac.uk/~gmh/fold.pdf,/u/banjiewen,2
+0,2014-06-03 10:13:11 -0500,"/t/compsci,/t/programming",APL Problem Solving Competition,http://www.dyalogaplcompetition.com/,/u/chaoxu,1
+0,2014-06-03 14:58:20 -0500,"/t/culture,/t/networking,/t/person",Sonic.net CEO: Caps & Limits 'Artificial and Contrived',http://www.dslreports.com/shownews/SonicNet-CEO-Caps-Limits-Artificial-and-Contrived-129193,/u/cnst,1
+1,2014-06-02 13:20:26 -0500,"/t/programming,/t/release",Light Table 0.6.6,http://www.lighttable.com/2014/06/02/lighttable-0-6-6/,/u/daGrevis,10
+0,2014-06-03 07:29:24 -0500,"/t/show,/t/python,/t/web",An Online Curriculum to learn Web Development using Python and Django,http://www.mysliderule.com/learning-paths/web-development-python-django/,/u/gautambay,1
+0,2014-06-03 07:06:58 -0500,/t/api,Web APIs and the n+1 Problem,http://www.infoq.com/articles/N-Plus-1,/u/ancatrusca,1
+0,2014-06-03 12:07:23 -0500,"/t/ios,/t/mobile",My First Hello World with Apple's Swift and Telerik UI for iOS,http://blogs.telerik.com/blogs/14-06-03/my-first-hello-world-with-apples-swift-and-telerik-ui-for-ios,/u/pakostina,0
+0,2014-06-02 14:58:02 -0500,/t/security,New Heartbleed attack targets wireless devices,http://www.sysvalue.com/en/heartbleed-cupid-wireless/,/u/oz,5
+0,2014-06-02 13:24:26 -0500,/t/security,Benjamin Pierce interview about SAFE project,http://intelligence.org/2014/05/11/benjamin-pierce/,/u/xcombelle,5
+0,2014-06-02 03:58:55 -0500,"/t/compsci,/t/programming",Addressing Misconceptions About Code with Always-On Programming Visualizations,http://alltom.com/pages/theseus/chi-2014/,/u/BruceM,12
+0,2014-06-02 05:49:55 -0500,"/t/linux,/t/programming",Measuring Latency in Linux,http://btorpey.github.io/blog/2014/02/18/clock-sources-in-linux/,/u/penberg,9
+0,2014-06-02 12:32:28 -0500,"/t/math,/t/programming,/t/visualization",A GPU Approach to Voronoi Diagrams,http://nullprogram.com/blog/2014/06/01/,/u/zhemao,1
+0,2014-06-02 11:35:15 -0500,/t/compsci,Bandits for Recommendation Systems,http://engineering.richrelevance.com/bandits-recommendation-systems/,/u/tobym,1
+0,2014-06-01 18:21:54 -0500,"/t/c,/t/scaling",Lock-free Data Structures. The Inside. Memory Management Schemes,http://kukuruku.co/hub/cpp/lock-free-data-structures-the-inside-memory-management-schemes,/u/kellogh,11
+7,2014-06-01 15:15:34 -0500,"/t/culture,/t/philosophy","Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds",http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html,/u/robey,30
+0,2014-06-01 18:24:11 -0500,"/t/pdf,/t/compsci",Apollo Domain/OS Design Principles,http://bitsavers.trailing-edge.com/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf,/u/SeanTAllen,8
+6,2014-06-01 18:26:34 -0500,"/t/meta,/t/perl",Perl tag?,/s/ddlmon/perl_tag,/u/hoelzro,13
+0,2014-06-02 06:23:48 -0500,/t/web,Ansible’s View on IT Automation,http://www.infoq.com/articles/ansible-view-on-it-automation,/u/ancatrusca,1

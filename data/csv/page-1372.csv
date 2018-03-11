@@ -1,25 +1,25 @@
-0,2014-03-12 02:45:07 -0500,"['/t/java', '/t/javascript']","Version fatigue, 12 years after",http://www.traininjs.com/version-fatigue-revisited/,/u/davidb583,1
-1,2014-03-11 12:15:36 -0500,"['/t/culture', '/t/practices']",Agile is dead (long live agility),http://pragdave.me/blog/2014/03/04/time-to-kill-agile/,/u/steveklabnik,12
-0,2014-03-11 09:53:21 -0500,['/t/databases'],Thinking in Redis: Part One,https://matt.sh/thinking-in-redis-part-one,/u/mattk,6
-0,2014-03-11 12:58:12 -0500,['/t/security'],The security of the Fortuna PRNG,https://www.schneier.com/blog/archives/2014/03/the_security_of_7.html,/u/tedu,4
-0,2014-03-11 09:41:54 -0500,"['/t/show', '/t/release']","Microcosm, a modern forum platform",http://microco.sm,/u/motter,6
-0,2014-03-11 12:03:37 -0500,['/t/practices'],Incubators are Bullshit,http://www.craftsmanfounder.com/incubators-are-bullshit/,/u/jm,3
-0,2014-03-11 09:06:59 -0500,['/t/security'],Capstone - Ultimate disassembly framework,http://www.capstone-engine.org/index.html,/u/jm,4
-0,2014-03-11 12:38:48 -0500,['/t/culture'],Discovering Our Community Work,https://blog.engineyard.com/2014/discovering-our-community-work,/u/nslater,3
-3,2014-03-10 12:17:15 -0500,"['/t/compsci', '/t/distributed']","Snark, Chord, and Trust in Algorithms",http://brooker.co.za/blog/2014/03/08/model-checking.html,/u/codahale,22
-0,2014-03-11 08:30:10 -0500,['/t/openbsd'],USB 3.0 support beginning to emerge for -current,http://undeadly.org/cgi?action=article&sid=20140311083317,/u/cnst,2
-0,2014-03-11 12:15:53 -0500,"['/t/c', '/t/ios']",Tests and Origami with OCMock,http://hackazach.net/code/2014/03/03/effective-testing-with-ocmock/,/u/zmcartor,1
-3,2014-03-10 11:34:42 -0500,['/t/vcs'],Using git - the next level,http://who-t.blogspot.ro/2014/03/using-git-next-level.html,/u/jm,19
-0,2014-03-11 10:23:24 -0500,['/t/culture'],How does Hacker School turn self-directed people into superheroes? Help.,http://jvns.ca/blog/2014/03/10/help/,/u/jvns,3
-0,2014-03-10 20:52:02 -0500,"['/t/databases', '/t/linux']",Why buffered writes are sometimes slow [on linux],http://yoshinorimatsunobu.blogspot.com/2014/03/why-buffered-writes-are-sometimes.html,/u/zbskii,7
-0,2014-03-11 09:52:14 -0500,['/t/databases'],How times have changed for PostgreSQL,http://opensource.com/business/14/3/postgresql-ugly-no-more,/u/mattk,1
-0,2014-03-10 16:26:53 -0500,"['/t/assembly', '/t/games']",The Littlest CPU Rasterizer,http://ginsweater.com/blog/2014/03/10/the-littlest-cpu-rasterizer/,/u/penberg,11
-0,2014-03-10 16:46:03 -0500,"['/t/databases', '/t/linux']",Linux's fsync() woes are getting some attention,http://rhaas.blogspot.in/2014/03/linuxs-fsync-woes-are-getting-some.html,/u/penberg,8
-0,2014-03-11 06:42:53 -0500,"['/t/javascript', '/t/web']",A DOM Manipulation Class in 100 Lines of JavaScript,http://flippinawesome.org/2014/03/10/a-dom-manipulation-class-in-100-lines-of-javascript/,/u/remotesynth,1
-0,2014-03-11 06:08:14 -0500,"['/t/philosophy', '/t/practices', '/t/programming']",The Turpentine Effect,http://www.ribbonfarm.com/2010/03/18/the-turpentine-effect/,/u/xmonkee,1
-0,2014-03-11 01:38:58 -0500,['/t/security'],ECDSA: The digital signature algorithm of a better internet,https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet,/u/kyle,1
-2,2014-03-10 15:18:51 -0500,"['/t/ios', '/t/javascript', '/t/mobile', '/t/web']",Why mobile web application sucks,http://blog.wearther.cc/2014/03/04/why-mobile-web-application-sucks/,/u/gantengx,3
-0,2014-03-10 13:17:14 -0500,['/t/hardware'],How I resurrected my MacBook Pro by putting it in the oven,http://ales.io/2014/03/09/how-to-bake-a-mac.html,/u/journeysquid,5
-0,2014-03-10 22:00:39 -0500,['/t/science'],Be an Asteroid Hunter in NASA's First Asteroid Grand Challenge Contest Series,http://www.nasa.gov/press/2014/march/be-an-asteroid-hunter-in-nasas-first-asteroid-grand-challenge-contest-series/#.Ux59OvldWrM,/u/jm,1
-26,2014-03-10 05:57:09 -0500,['/t/ask'],What are you working on this week?,/s/e0duzi/what_are_you_working_on_this_week,/u/david927,18
-1,2014-03-10 09:41:35 -0500,['/t/linux'],The Performance Impact Of Linux Disk Encryption,http://www.phoronix.com/vr.php?view=19979,/u/journeysquid,4
+0,2014-03-12 02:45:07 -0500,"/t/java,/t/javascript","Version fatigue, 12 years after",http://www.traininjs.com/version-fatigue-revisited/,/u/davidb583,1
+1,2014-03-11 12:15:36 -0500,"/t/culture,/t/practices",Agile is dead (long live agility),http://pragdave.me/blog/2014/03/04/time-to-kill-agile/,/u/steveklabnik,12
+0,2014-03-11 09:53:21 -0500,/t/databases,Thinking in Redis: Part One,https://matt.sh/thinking-in-redis-part-one,/u/mattk,6
+0,2014-03-11 12:58:12 -0500,/t/security,The security of the Fortuna PRNG,https://www.schneier.com/blog/archives/2014/03/the_security_of_7.html,/u/tedu,4
+0,2014-03-11 09:41:54 -0500,"/t/show,/t/release","Microcosm, a modern forum platform",http://microco.sm,/u/motter,6
+0,2014-03-11 12:03:37 -0500,/t/practices,Incubators are Bullshit,http://www.craftsmanfounder.com/incubators-are-bullshit/,/u/jm,3
+0,2014-03-11 09:06:59 -0500,/t/security,Capstone - Ultimate disassembly framework,http://www.capstone-engine.org/index.html,/u/jm,4
+0,2014-03-11 12:38:48 -0500,/t/culture,Discovering Our Community Work,https://blog.engineyard.com/2014/discovering-our-community-work,/u/nslater,3
+3,2014-03-10 12:17:15 -0500,"/t/compsci,/t/distributed","Snark, Chord, and Trust in Algorithms",http://brooker.co.za/blog/2014/03/08/model-checking.html,/u/codahale,22
+0,2014-03-11 08:30:10 -0500,/t/openbsd,USB 3.0 support beginning to emerge for -current,http://undeadly.org/cgi?action=article&sid=20140311083317,/u/cnst,2
+0,2014-03-11 12:15:53 -0500,"/t/c,/t/ios",Tests and Origami with OCMock,http://hackazach.net/code/2014/03/03/effective-testing-with-ocmock/,/u/zmcartor,1
+3,2014-03-10 11:34:42 -0500,/t/vcs,Using git - the next level,http://who-t.blogspot.ro/2014/03/using-git-next-level.html,/u/jm,19
+0,2014-03-11 10:23:24 -0500,/t/culture,How does Hacker School turn self-directed people into superheroes? Help.,http://jvns.ca/blog/2014/03/10/help/,/u/jvns,3
+0,2014-03-10 20:52:02 -0500,"/t/databases,/t/linux",Why buffered writes are sometimes slow [on linux],http://yoshinorimatsunobu.blogspot.com/2014/03/why-buffered-writes-are-sometimes.html,/u/zbskii,7
+0,2014-03-11 09:52:14 -0500,/t/databases,How times have changed for PostgreSQL,http://opensource.com/business/14/3/postgresql-ugly-no-more,/u/mattk,1
+0,2014-03-10 16:26:53 -0500,"/t/assembly,/t/games",The Littlest CPU Rasterizer,http://ginsweater.com/blog/2014/03/10/the-littlest-cpu-rasterizer/,/u/penberg,11
+0,2014-03-10 16:46:03 -0500,"/t/databases,/t/linux",Linux's fsync() woes are getting some attention,http://rhaas.blogspot.in/2014/03/linuxs-fsync-woes-are-getting-some.html,/u/penberg,8
+0,2014-03-11 06:42:53 -0500,"/t/javascript,/t/web",A DOM Manipulation Class in 100 Lines of JavaScript,http://flippinawesome.org/2014/03/10/a-dom-manipulation-class-in-100-lines-of-javascript/,/u/remotesynth,1
+0,2014-03-11 06:08:14 -0500,"/t/philosophy,/t/practices,/t/programming",The Turpentine Effect,http://www.ribbonfarm.com/2010/03/18/the-turpentine-effect/,/u/xmonkee,1
+0,2014-03-11 01:38:58 -0500,/t/security,ECDSA: The digital signature algorithm of a better internet,https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet,/u/kyle,1
+2,2014-03-10 15:18:51 -0500,"/t/ios,/t/javascript,/t/mobile,/t/web",Why mobile web application sucks,http://blog.wearther.cc/2014/03/04/why-mobile-web-application-sucks/,/u/gantengx,3
+0,2014-03-10 13:17:14 -0500,/t/hardware,How I resurrected my MacBook Pro by putting it in the oven,http://ales.io/2014/03/09/how-to-bake-a-mac.html,/u/journeysquid,5
+0,2014-03-10 22:00:39 -0500,/t/science,Be an Asteroid Hunter in NASA's First Asteroid Grand Challenge Contest Series,http://www.nasa.gov/press/2014/march/be-an-asteroid-hunter-in-nasas-first-asteroid-grand-challenge-contest-series/#.Ux59OvldWrM,/u/jm,1
+26,2014-03-10 05:57:09 -0500,/t/ask,What are you working on this week?,/s/e0duzi/what_are_you_working_on_this_week,/u/david927,18
+1,2014-03-10 09:41:35 -0500,/t/linux,The Performance Impact Of Linux Disk Encryption,http://www.phoronix.com/vr.php?view=19979,/u/journeysquid,4

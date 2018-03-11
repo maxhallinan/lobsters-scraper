@@ -1,25 +1,25 @@
-0,2017-04-15 01:21:45 -0500,['/t/graphics'],Cull that cone! Improved cone/spotlight visibility tests for tiled and clustered lighting,https://bartwronski.com/2017/04/13/cull-that-cone/,/u/mikejsavage,2
-1,2017-04-14 15:13:45 -0500,"['/t/law', '/t/privacy', '/t/security']",Your Government's Hacking Tools Are Not Safe,https://motherboard.vice.com/en_us/article/your-governments-hacking-tools-are-not-safe,/u/tf,6
-1,2017-04-14 10:21:48 -0500,"['/t/hardware', '/t/historical']",The 640 K Barrier,http://www.filfre.net/2017/04/the-640-k-barrier/,/u/calvin,11
-4,2017-04-14 08:38:37 -0500,['/t/security'],Running system services in containers,https://www.gnu.org/software/guix/news/running-system-services-in-containers.html,/u/pizzaiolo,6
-1,2017-04-14 09:24:42 -0500,"['/t/java', '/t/javascript', '/t/lisp', '/t/programming', '/t/python']",A Pythonist finds a new home at Clojure land,https://notamonadtutorial.com/a-pythonist-finds-a-new-home-at-clojure-land-761ad8612b47,/u/unbalancedparentheses,8
-0,2017-04-14 15:06:07 -0500,"['/t/pdf', '/t/programming', '/t/security']","Hints for High-Assurance, Cyber-Physical, System Design (2016) Galois Inc",https://www.cs.indiana.edu/~lepike/pubs/pike-secdev16.pdf,/u/nickpsecurity,4
-0,2017-04-14 16:49:21 -0500,"['/t/haskell', '/t/math']","Category Theory, Syntactically (2016)",http://www.hedonisticlearning.com/posts/category-theory-syntactically.html,/u/pushcx,3
-0,2017-04-14 19:13:11 -0500,['/t/databases'],[1612.04883] Graph Summarization: A Survey,https://arxiv.org/abs/1612.04883,/u/markhkim,2
-1,2017-04-14 16:42:34 -0500,"['/t/browsers', '/t/programming']",Github lines of code counter,https://github.com/artem-solovev/gloc,/u/hawski,1
-0,2017-04-14 16:35:31 -0500,['/t/games'],The Curse of Cow Clicker: How a Cheeky Satire Became a Videogame Hit (2011),https://www.wired.com/2011/12/ff_cowclicker/,/u/pushcx,2
-0,2017-04-14 16:40:45 -0500,"['/t/culture', '/t/unix']",The Elements Of Style: UNIX As Literature (1998),http://theody.net/elements.html,/u/pushcx,4
-8,2017-04-13 13:10:05 -0500,['/t/practices'],The Polyglot's Dilemma,https://dzone.com/articles/the-polyglots-dilemma-daedtech,/u/binarymax,25
-0,2017-04-14 12:48:24 -0500,"['/t/lisp', '/t/python']",The Adventures of a Pythonista in Schemeland,http://www.phyast.pitt.edu/~micheles/scheme/index.html,/u/unbalancedparentheses,3
-1,2017-04-14 12:09:30 -0500,"['/t/video', '/t/historical', '/t/person']",1981 Nightline interview with Steve Jobs,https://www.youtube.com/watch?v=3H-Y-D3-j-M,/u/sevan,2
-7,2017-04-13 06:52:51 -0500,"['/t/linux', '/t/security']",CVE-2016-10229 remote code execution via UDP,https://nvd.nist.gov/vuln/detail/CVE-2016-10229,/u/mulander,45
-2,2017-04-13 14:38:59 -0500,['/t/web'],How We Built r/Place,http://redditblog.com/2017/04/13/how-we-built-rplace/,/u/pushcx,25
-8,2017-04-13 14:52:55 -0500,"['/t/linux', '/t/release']",Ubuntu 17.04 (Zesty Zapus) released,http://releases.ubuntu.com/17.04/,/u/colin,11
-1,2017-04-14 09:40:59 -0500,['/t/security'],A walk down memory lane,https://blog.trailofbits.com/2017/04/14/a-walk-down-memory-lane/,/u/feoh,2
-1,2017-04-13 13:41:23 -0500,['/t/c'],"mle - a small, flexible console text editor",https://github.com/adsr/mle,/u/jfo,21
-8,2017-04-13 09:09:42 -0500,['/t/javascript'],TypeScript at Slack,https://slack.engineering/typescript-at-slack-a81307fa288d,/u/pushcx,17
-2,2017-04-13 11:04:09 -0500,"['/t/show', '/t/hardware']","The HIDIOT, an open source hardware hacking project for kids and grown ups",https://www.kickstarter.com/projects/2072712581/the-hidiot-card-sized-electronics-learning-for-eve,/u/stevelord,12
-5,2017-04-13 12:29:08 -0500,['/t/hardware'],DIY E-ink display,https://translate.google.com/translate?sl=ru&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwe.easyelectronics.ru%2FHomeTech%2Fizgotovlenie-segmentnogo-indikatora-na-elektronnyh-chernilah-v-kartinkah.html&edit-text=,/u/flyingfisch,10
-4,2017-04-13 10:11:37 -0500,['/t/c'],libslack: A UNIX/C library of general utilities for programmers with Slack,http://libslack.org/,/u/trn,17
-9,2017-04-13 12:58:46 -0500,"['/t/slides', '/t/video', '/t/go']",Building a Bank with Go,https://www.infoq.com/presentations/bank-go,/u/jcs,8
-5,2017-04-13 08:47:09 -0500,"['/t/culture', '/t/philosophy']",Fizzbuzz is a Jazz Standard,http://blog.jfo.click/fizzbuzz-is-a-jazz-standard/,/u/jfo,17
+0,2017-04-15 01:21:45 -0500,/t/graphics,Cull that cone! Improved cone/spotlight visibility tests for tiled and clustered lighting,https://bartwronski.com/2017/04/13/cull-that-cone/,/u/mikejsavage,2
+1,2017-04-14 15:13:45 -0500,"/t/law,/t/privacy,/t/security",Your Government's Hacking Tools Are Not Safe,https://motherboard.vice.com/en_us/article/your-governments-hacking-tools-are-not-safe,/u/tf,6
+1,2017-04-14 10:21:48 -0500,"/t/hardware,/t/historical",The 640 K Barrier,http://www.filfre.net/2017/04/the-640-k-barrier/,/u/calvin,11
+4,2017-04-14 08:38:37 -0500,/t/security,Running system services in containers,https://www.gnu.org/software/guix/news/running-system-services-in-containers.html,/u/pizzaiolo,6
+1,2017-04-14 09:24:42 -0500,"/t/java,/t/javascript,/t/lisp,/t/programming,/t/python",A Pythonist finds a new home at Clojure land,https://notamonadtutorial.com/a-pythonist-finds-a-new-home-at-clojure-land-761ad8612b47,/u/unbalancedparentheses,8
+0,2017-04-14 15:06:07 -0500,"/t/pdf,/t/programming,/t/security","Hints for High-Assurance, Cyber-Physical, System Design (2016) Galois Inc",https://www.cs.indiana.edu/~lepike/pubs/pike-secdev16.pdf,/u/nickpsecurity,4
+0,2017-04-14 16:49:21 -0500,"/t/haskell,/t/math","Category Theory, Syntactically (2016)",http://www.hedonisticlearning.com/posts/category-theory-syntactically.html,/u/pushcx,3
+0,2017-04-14 19:13:11 -0500,/t/databases,[1612.04883] Graph Summarization: A Survey,https://arxiv.org/abs/1612.04883,/u/markhkim,2
+1,2017-04-14 16:42:34 -0500,"/t/browsers,/t/programming",Github lines of code counter,https://github.com/artem-solovev/gloc,/u/hawski,1
+0,2017-04-14 16:35:31 -0500,/t/games,The Curse of Cow Clicker: How a Cheeky Satire Became a Videogame Hit (2011),https://www.wired.com/2011/12/ff_cowclicker/,/u/pushcx,2
+0,2017-04-14 16:40:45 -0500,"/t/culture,/t/unix",The Elements Of Style: UNIX As Literature (1998),http://theody.net/elements.html,/u/pushcx,4
+8,2017-04-13 13:10:05 -0500,/t/practices,The Polyglot's Dilemma,https://dzone.com/articles/the-polyglots-dilemma-daedtech,/u/binarymax,25
+0,2017-04-14 12:48:24 -0500,"/t/lisp,/t/python",The Adventures of a Pythonista in Schemeland,http://www.phyast.pitt.edu/~micheles/scheme/index.html,/u/unbalancedparentheses,3
+1,2017-04-14 12:09:30 -0500,"/t/video,/t/historical,/t/person",1981 Nightline interview with Steve Jobs,https://www.youtube.com/watch?v=3H-Y-D3-j-M,/u/sevan,2
+7,2017-04-13 06:52:51 -0500,"/t/linux,/t/security",CVE-2016-10229 remote code execution via UDP,https://nvd.nist.gov/vuln/detail/CVE-2016-10229,/u/mulander,45
+2,2017-04-13 14:38:59 -0500,/t/web,How We Built r/Place,http://redditblog.com/2017/04/13/how-we-built-rplace/,/u/pushcx,25
+8,2017-04-13 14:52:55 -0500,"/t/linux,/t/release",Ubuntu 17.04 (Zesty Zapus) released,http://releases.ubuntu.com/17.04/,/u/colin,11
+1,2017-04-14 09:40:59 -0500,/t/security,A walk down memory lane,https://blog.trailofbits.com/2017/04/14/a-walk-down-memory-lane/,/u/feoh,2
+1,2017-04-13 13:41:23 -0500,/t/c,"mle - a small, flexible console text editor",https://github.com/adsr/mle,/u/jfo,21
+8,2017-04-13 09:09:42 -0500,/t/javascript,TypeScript at Slack,https://slack.engineering/typescript-at-slack-a81307fa288d,/u/pushcx,17
+2,2017-04-13 11:04:09 -0500,"/t/show,/t/hardware","The HIDIOT, an open source hardware hacking project for kids and grown ups",https://www.kickstarter.com/projects/2072712581/the-hidiot-card-sized-electronics-learning-for-eve,/u/stevelord,12
+5,2017-04-13 12:29:08 -0500,/t/hardware,DIY E-ink display,https://translate.google.com/translate?sl=ru&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwe.easyelectronics.ru%2FHomeTech%2Fizgotovlenie-segmentnogo-indikatora-na-elektronnyh-chernilah-v-kartinkah.html&edit-text=,/u/flyingfisch,10
+4,2017-04-13 10:11:37 -0500,/t/c,libslack: A UNIX/C library of general utilities for programmers with Slack,http://libslack.org/,/u/trn,17
+9,2017-04-13 12:58:46 -0500,"/t/slides,/t/video,/t/go",Building a Bank with Go,https://www.infoq.com/presentations/bank-go,/u/jcs,8
+5,2017-04-13 08:47:09 -0500,"/t/culture,/t/philosophy",Fizzbuzz is a Jazz Standard,http://blog.jfo.click/fizzbuzz-is-a-jazz-standard/,/u/jfo,17

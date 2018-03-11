@@ -1,25 +1,25 @@
-0,2013-12-14 23:03:09 -0600,"['/t/pdf', '/t/scaling']",The Saddest Moment,https://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf,/u/kyle,5
-0,2013-12-14 22:58:31 -0600,['/t/assembly'],Minimalish assembly TCP HTTP server program for i386 Linux,http://canonical.org/~kragen/sw/dev3/server.s,/u/kyle,5
-0,2013-12-14 13:14:31 -0600,"['/t/news', '/t/science']",Chinese spacecraft lands on moon,http://www.theguardian.com/science/2013/dec/14/chinese-spacecraft-lands-moon-china,/u/journeysquid,5
-0,2013-12-14 14:50:35 -0600,['/t/news'],Google acquired Boston Dynamics,http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html,/u/puffnfresh,3
-0,2013-12-14 13:17:50 -0600,"['/t/privacy', '/t/web']",How Gmail’s Image Caching Affects Open Tracking,https://blog.mailchimp.com/how-gmails-image-caching-affects-open-tracking/,/u/journeysquid,2
-0,2013-12-14 06:51:54 -0600,"['/t/lisp', '/t/programming']",Typed Clojure by Example,http://nathanic.org/posts/2013/typed-clojure-tour/,/u/SeanTAllen,2
-0,2013-12-13 23:35:52 -0600,"['/t/linux', '/t/programming', '/t/unix']",Quickly navigating large repositories from the terminal,http://www.alexteichman.com/octo/blog/2013/12/08/quickly-navigating-large-repositories-from-the-terminal/,/u/teichman,3
-0,2013-12-14 00:59:27 -0600,"['/t/android', '/t/mobile', '/t/news']",Infographic: Global Cell Phone Statistics,http://www.longren.org/infographic-global-cell-phone-statistics/,/u/tlongren,2
-1,2013-12-13 11:40:22 -0600,['/t/hardware'],The microhydro plant,http://ludens.cl/paradise/turbine/turbine.html,/u/bobbywilson0,9
-0,2013-12-13 15:23:54 -0600,"['/t/privacy', '/t/security']",How Law Enforcement Tracks Cellular Phones,http://www.crypto.com/blog/celltapping/,/u/tedu,4
-0,2013-12-13 20:07:31 -0600,['/t/javascript'],9 Quick Tips About npm,http://blog.ponyfoo.com/2013/12/14/9-quick-tips-about-npm,/u/bevacqua,1
-0,2013-12-13 13:14:45 -0600,"['/t/lisp', '/t/programming']",Fun with Markov Chains and Clojure,http://diegobasch.com/fun-with-markov-chains-and-clojure,/u/diego,2
-0,2013-12-13 12:08:24 -0600,['/t/linux'],Red Hat Enterprise Linux 7 Beta 1 moves from ext4 to XFS,http://www.phoronix.com/vr.php?view=19564,/u/journeysquid,2
-0,2013-12-13 12:03:15 -0600,['/t/release'],Cisco's Open Source H.264 Codec,https://github.com/cisco/openh264/,/u/journeysquid,2
-0,2013-12-13 11:38:37 -0600,"['/t/databases', '/t/practices']",The Database Administrator is Dead,http://thenextweb.com/kennygorman/2013/12/12/dba-dead/,/u/journeysquid,2
-0,2013-12-13 00:23:39 -0600,"['/t/show', '/t/release', '/t/vcs']",Contributing To GitHub Projects is Easy,http://www.longren.org/contributing-to-github-projects-is-easy/,/u/tlongren,5
-0,2013-12-13 10:14:33 -0600,"['/t/video', '/t/compsci']",Donald Knuth's Annual Christmas Tree Lecture: Planar Graphs and Ternary Trees,https://www.youtube.com/watch?v=VW3vgJYYIok,/u/jm,1
-0,2013-12-13 10:11:25 -0600,"['/t/security', '/t/windows']",Safe Pad Solution Structure,http://stephenhaunts.com/2013/04/07/safe-pad-solution-structure/,/u/jm,1
-1,2013-12-12 18:50:02 -0600,['/t/linux'],What are (Linux) containers and how did they come about?,http://bitmason.blogspot.ca/2013/09/what-are-containers-anyway.html,/u/kyle,5
-0,2013-12-12 16:53:37 -0600,"['/t/design', '/t/web']",Building the Bolt Blog,https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html,/u/amb,4
-0,2013-12-12 18:22:48 -0600,['/t/go'],Inside the Go Playground,http://blog.golang.org/playground,/u/journeysquid,3
-0,2013-12-12 19:32:36 -0600,['/t/networking'],Report: Bot traffic is up to 61.5% of all website traffic,http://www.incapsula.com/the-incapsula-blog/item/820-bot-traffic-report-2013,/u/jm,2
-0,2013-12-12 19:07:59 -0600,"['/t/practices', '/t/programming']","Are Your Programmers Working Hard, Or Are They Lazy?",http://mikehadlow.blogspot.co.uk/2013/12/are-your-programmers-working-hard-or.html,/u/journeysquid,2
-1,2013-12-12 02:24:26 -0600,['/t/mac'],How I introduced a 27-year-old computer to the web,http://www.keacher.com/1216/how-i-introduced-a-27-year-old-computer-to-the-web/,/u/kyle,7
-0,2013-12-12 12:34:42 -0600,"['/t/games', '/t/web']",First 3D Commercial Web Game Powered By asm.js Unveiled,https://blog.mozilla.org/blog/2013/12/12/first-3d-commercial-web-game-powered-by-asm-js-unveiled/,/u/puffnfresh,2
+0,2013-12-14 23:03:09 -0600,"/t/pdf,/t/scaling",The Saddest Moment,https://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf,/u/kyle,5
+0,2013-12-14 22:58:31 -0600,/t/assembly,Minimalish assembly TCP HTTP server program for i386 Linux,http://canonical.org/~kragen/sw/dev3/server.s,/u/kyle,5
+0,2013-12-14 13:14:31 -0600,"/t/news,/t/science",Chinese spacecraft lands on moon,http://www.theguardian.com/science/2013/dec/14/chinese-spacecraft-lands-moon-china,/u/journeysquid,5
+0,2013-12-14 14:50:35 -0600,/t/news,Google acquired Boston Dynamics,http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html,/u/puffnfresh,3
+0,2013-12-14 13:17:50 -0600,"/t/privacy,/t/web",How Gmail’s Image Caching Affects Open Tracking,https://blog.mailchimp.com/how-gmails-image-caching-affects-open-tracking/,/u/journeysquid,2
+0,2013-12-14 06:51:54 -0600,"/t/lisp,/t/programming",Typed Clojure by Example,http://nathanic.org/posts/2013/typed-clojure-tour/,/u/SeanTAllen,2
+0,2013-12-13 23:35:52 -0600,"/t/linux,/t/programming,/t/unix",Quickly navigating large repositories from the terminal,http://www.alexteichman.com/octo/blog/2013/12/08/quickly-navigating-large-repositories-from-the-terminal/,/u/teichman,3
+0,2013-12-14 00:59:27 -0600,"/t/android,/t/mobile,/t/news",Infographic: Global Cell Phone Statistics,http://www.longren.org/infographic-global-cell-phone-statistics/,/u/tlongren,2
+1,2013-12-13 11:40:22 -0600,/t/hardware,The microhydro plant,http://ludens.cl/paradise/turbine/turbine.html,/u/bobbywilson0,9
+0,2013-12-13 15:23:54 -0600,"/t/privacy,/t/security",How Law Enforcement Tracks Cellular Phones,http://www.crypto.com/blog/celltapping/,/u/tedu,4
+0,2013-12-13 20:07:31 -0600,/t/javascript,9 Quick Tips About npm,http://blog.ponyfoo.com/2013/12/14/9-quick-tips-about-npm,/u/bevacqua,1
+0,2013-12-13 13:14:45 -0600,"/t/lisp,/t/programming",Fun with Markov Chains and Clojure,http://diegobasch.com/fun-with-markov-chains-and-clojure,/u/diego,2
+0,2013-12-13 12:08:24 -0600,/t/linux,Red Hat Enterprise Linux 7 Beta 1 moves from ext4 to XFS,http://www.phoronix.com/vr.php?view=19564,/u/journeysquid,2
+0,2013-12-13 12:03:15 -0600,/t/release,Cisco's Open Source H.264 Codec,https://github.com/cisco/openh264/,/u/journeysquid,2
+0,2013-12-13 11:38:37 -0600,"/t/databases,/t/practices",The Database Administrator is Dead,http://thenextweb.com/kennygorman/2013/12/12/dba-dead/,/u/journeysquid,2
+0,2013-12-13 00:23:39 -0600,"/t/show,/t/release,/t/vcs",Contributing To GitHub Projects is Easy,http://www.longren.org/contributing-to-github-projects-is-easy/,/u/tlongren,5
+0,2013-12-13 10:14:33 -0600,"/t/video,/t/compsci",Donald Knuth's Annual Christmas Tree Lecture: Planar Graphs and Ternary Trees,https://www.youtube.com/watch?v=VW3vgJYYIok,/u/jm,1
+0,2013-12-13 10:11:25 -0600,"/t/security,/t/windows",Safe Pad Solution Structure,http://stephenhaunts.com/2013/04/07/safe-pad-solution-structure/,/u/jm,1
+1,2013-12-12 18:50:02 -0600,/t/linux,What are (Linux) containers and how did they come about?,http://bitmason.blogspot.ca/2013/09/what-are-containers-anyway.html,/u/kyle,5
+0,2013-12-12 16:53:37 -0600,"/t/design,/t/web",Building the Bolt Blog,https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html,/u/amb,4
+0,2013-12-12 18:22:48 -0600,/t/go,Inside the Go Playground,http://blog.golang.org/playground,/u/journeysquid,3
+0,2013-12-12 19:32:36 -0600,/t/networking,Report: Bot traffic is up to 61.5% of all website traffic,http://www.incapsula.com/the-incapsula-blog/item/820-bot-traffic-report-2013,/u/jm,2
+0,2013-12-12 19:07:59 -0600,"/t/practices,/t/programming","Are Your Programmers Working Hard, Or Are They Lazy?",http://mikehadlow.blogspot.co.uk/2013/12/are-your-programmers-working-hard-or.html,/u/journeysquid,2
+1,2013-12-12 02:24:26 -0600,/t/mac,How I introduced a 27-year-old computer to the web,http://www.keacher.com/1216/how-i-introduced-a-27-year-old-computer-to-the-web/,/u/kyle,7
+0,2013-12-12 12:34:42 -0600,"/t/games,/t/web",First 3D Commercial Web Game Powered By asm.js Unveiled,https://blog.mozilla.org/blog/2013/12/12/first-3d-commercial-web-game-powered-by-asm-js-unveiled/,/u/puffnfresh,2

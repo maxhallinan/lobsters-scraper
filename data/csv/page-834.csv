@@ -1,25 +1,25 @@
-1,2016-03-23 10:14:18 -0500,['/t/linux'],Dashboarding isn't Troubleshooting,https://sysdig.com/blog/dashboarding-isnt-troubleshooting/,/u/awreece,2
-0,2016-03-23 09:43:05 -0500,['/t/graphics'],"Mapping Mountains - elevation data, terrain and lighting",https://mapzen.com/blog/mapping-mountains,/u/drewda,3
-12,2016-03-22 21:36:28 -0500,"['/t/math', '/t/visualization']",How I (try) to optimize my commute,https://medium.com/@scott_in_2d/the-problem-461acd03e835,/u/petergao,6
-0,2016-03-23 09:15:23 -0500,['/t/networking'],A Purpose-Built Global Network: Google's Move to SDN,http://cacm.acm.org/magazines/2016/3/198853-a-purpose-built-global-network/fulltext,/u/mjn,2
-0,2016-03-22 12:15:36 -0500,['/t/practices'],The Hiring Post (2015),http://sockpuppet.org/blog/2015/03/06/the-hiring-post/,/u/joshuacc,25
-3,2016-03-22 12:44:15 -0500,['/t/practices'],The Process Myth,https://medium.com/@rands/the-process-myth-10d6db5c593e,/u/gkop,12
-0,2016-03-22 22:31:55 -0500,"['/t/video', '/t/haskell']",Dynamic Typing in GHC,https://www.youtube.com/watch?v=asdABzBUoGM,/u/mightybyte,3
-2,2016-03-22 15:43:03 -0500,['/t/programming'],Falsehoods Programmers Believe,http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/,/u/julienXX,11
-3,2016-03-22 09:44:58 -0500,['/t/swift'],Swift 2.2 Released,https://swift.org/blog/swift-2-2-released/,/u/ix,11
-0,2016-03-22 18:18:53 -0500,"['/t/distributed', '/t/law']",The State of Utah trialled online voting via blockchain today,http://www.newsbtc.com/2016/03/21/utah-kick-starts-online-voting-on-blockchain-trend/,/u/kevinSuttle,5
-0,2016-03-22 13:08:15 -0500,"['/t/ios', '/t/mac', '/t/security']",Race you to the kernel!,http://googleprojectzero.blogspot.com/2016/03/race-you-to-kernel.html,/u/jcs,9
-4,2016-03-22 03:02:01 -0500,"['/t/assembly', '/t/c', '/t/linux', '/t/programming']",Intel® Memory Protection Extensions (Intel® MPX) for Linux,https://01.org/blogs/2016/intel-mpx-linux,/u/geocar,8
-0,2016-03-22 17:33:19 -0500,"['/t/compsci', '/t/practices', '/t/programming']",Embrace Chaos. Day 1 in Unfamiliar Code — Chronic Build Failure,https://medium.com/chronic-build-failure/embrace-chaos-day-1-in-unfamiliar-code-4c7458f4f152,/u/colindean,2
-0,2016-03-22 14:18:26 -0500,"['/t/distributed', '/t/release']",Samba 4.4.0 Released,https://www.samba.org/samba/history/samba-4.4.0.html,/u/ix,3
-10,2016-03-21 20:47:31 -0500,"['/t/compilers', '/t/practices']",Why linting makes me yawn,https://medium.com/@Jakeherringbone/why-linting-makes-me-yawn-cadbd9a51ca9,/u/joshuacc,12
-0,2016-03-22 12:00:36 -0500,"['/t/pdf', '/t/ios', '/t/security']",Dancing on the Lip of the Volcano: Chosen Ciphertext Attacks on Apple iMessage,https://isi.jhu.edu/~mgreen/imessage.pdf,/u/lattera,4
-2,2016-03-22 06:37:45 -0500,['/t/security'],AceDeceiver: First iOS Trojan Exploiting Apple DRM Design Flaws to Infect Any iOS Device,http://researchcenter.paloaltonetworks.com/2016/03/acedeceiver-first-ios-trojan-exploiting-apple-drm-design-flaws-to-infect-any-ios-device/,/u/anfedorov,4
-0,2016-03-22 17:13:44 -0500,"['/t/programming', '/t/satire']",Autocomplete from Stack Overflow,https://emilschutte.com/stackoverflow-autocomplete/,/u/qbit,3
-7,2016-03-21 18:26:35 -0500,"['/t/ios', '/t/security']","FBI says it might be able to break into seized iPhone, wants hearing vacated",http://arstechnica.com/tech-policy/2016/03/fbi-says-it-might-be-able-to-break-into-seized-iphone-wants-hearing-vacated/,/u/lattera,10
-1,2016-03-21 20:33:14 -0500,"['/t/hardware', '/t/person']","Andy Grove, former Intel CEO, dies",http://www.mercurynews.com/business/ci_29667603/andy-grove-former-intel-ceo-dies,/u/calvin,14
-0,2016-03-22 09:48:55 -0500,"['/t/release', '/t/unix']",GTK+ 3.20 Released,https://mail.gnome.org/archives/gtk-list/2016-March/msg00026.html,/u/ix,3
-75,2016-03-21 07:04:26 -0500,['/t/ask'],What are you working on this week?,/s/7upi5z/what_are_you_working_on_this_week,/u/calvin,30
-0,2016-03-22 15:06:52 -0500,"['/t/compsci', '/t/programming']",Google Code Jam 2016 Registration is now open!,https://code.google.com/codejam/,/u/tf,1
-21,2016-03-21 10:54:46 -0500,['/t/programming'],Inheritance Is Terrible,http://lionelbarrow.com/2016/03/19/inheritance-is-terrible/,/u/pgr0ss,17
-28,2016-03-21 15:53:44 -0500,"['/t/freebsd', '/t/linux']","Meet ubuntuBSD, UNIX for Human Beings",http://news.softpedia.com/news/meet-ubuntubsd-unix-for-human-beings-501959.shtml,/u/rodolfo,9
+1,2016-03-23 10:14:18 -0500,/t/linux,Dashboarding isn't Troubleshooting,https://sysdig.com/blog/dashboarding-isnt-troubleshooting/,/u/awreece,2
+0,2016-03-23 09:43:05 -0500,/t/graphics,"Mapping Mountains - elevation data, terrain and lighting",https://mapzen.com/blog/mapping-mountains,/u/drewda,3
+12,2016-03-22 21:36:28 -0500,"/t/math,/t/visualization",How I (try) to optimize my commute,https://medium.com/@scott_in_2d/the-problem-461acd03e835,/u/petergao,6
+0,2016-03-23 09:15:23 -0500,/t/networking,A Purpose-Built Global Network: Google's Move to SDN,http://cacm.acm.org/magazines/2016/3/198853-a-purpose-built-global-network/fulltext,/u/mjn,2
+0,2016-03-22 12:15:36 -0500,/t/practices,The Hiring Post (2015),http://sockpuppet.org/blog/2015/03/06/the-hiring-post/,/u/joshuacc,25
+3,2016-03-22 12:44:15 -0500,/t/practices,The Process Myth,https://medium.com/@rands/the-process-myth-10d6db5c593e,/u/gkop,12
+0,2016-03-22 22:31:55 -0500,"/t/video,/t/haskell",Dynamic Typing in GHC,https://www.youtube.com/watch?v=asdABzBUoGM,/u/mightybyte,3
+2,2016-03-22 15:43:03 -0500,/t/programming,Falsehoods Programmers Believe,http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/,/u/julienXX,11
+3,2016-03-22 09:44:58 -0500,/t/swift,Swift 2.2 Released,https://swift.org/blog/swift-2-2-released/,/u/ix,11
+0,2016-03-22 18:18:53 -0500,"/t/distributed,/t/law",The State of Utah trialled online voting via blockchain today,http://www.newsbtc.com/2016/03/21/utah-kick-starts-online-voting-on-blockchain-trend/,/u/kevinSuttle,5
+0,2016-03-22 13:08:15 -0500,"/t/ios,/t/mac,/t/security",Race you to the kernel!,http://googleprojectzero.blogspot.com/2016/03/race-you-to-kernel.html,/u/jcs,9
+4,2016-03-22 03:02:01 -0500,"/t/assembly,/t/c,/t/linux,/t/programming",Intel® Memory Protection Extensions (Intel® MPX) for Linux,https://01.org/blogs/2016/intel-mpx-linux,/u/geocar,8
+0,2016-03-22 17:33:19 -0500,"/t/compsci,/t/practices,/t/programming",Embrace Chaos. Day 1 in Unfamiliar Code — Chronic Build Failure,https://medium.com/chronic-build-failure/embrace-chaos-day-1-in-unfamiliar-code-4c7458f4f152,/u/colindean,2
+0,2016-03-22 14:18:26 -0500,"/t/distributed,/t/release",Samba 4.4.0 Released,https://www.samba.org/samba/history/samba-4.4.0.html,/u/ix,3
+10,2016-03-21 20:47:31 -0500,"/t/compilers,/t/practices",Why linting makes me yawn,https://medium.com/@Jakeherringbone/why-linting-makes-me-yawn-cadbd9a51ca9,/u/joshuacc,12
+0,2016-03-22 12:00:36 -0500,"/t/pdf,/t/ios,/t/security",Dancing on the Lip of the Volcano: Chosen Ciphertext Attacks on Apple iMessage,https://isi.jhu.edu/~mgreen/imessage.pdf,/u/lattera,4
+2,2016-03-22 06:37:45 -0500,/t/security,AceDeceiver: First iOS Trojan Exploiting Apple DRM Design Flaws to Infect Any iOS Device,http://researchcenter.paloaltonetworks.com/2016/03/acedeceiver-first-ios-trojan-exploiting-apple-drm-design-flaws-to-infect-any-ios-device/,/u/anfedorov,4
+0,2016-03-22 17:13:44 -0500,"/t/programming,/t/satire",Autocomplete from Stack Overflow,https://emilschutte.com/stackoverflow-autocomplete/,/u/qbit,3
+7,2016-03-21 18:26:35 -0500,"/t/ios,/t/security","FBI says it might be able to break into seized iPhone, wants hearing vacated",http://arstechnica.com/tech-policy/2016/03/fbi-says-it-might-be-able-to-break-into-seized-iphone-wants-hearing-vacated/,/u/lattera,10
+1,2016-03-21 20:33:14 -0500,"/t/hardware,/t/person","Andy Grove, former Intel CEO, dies",http://www.mercurynews.com/business/ci_29667603/andy-grove-former-intel-ceo-dies,/u/calvin,14
+0,2016-03-22 09:48:55 -0500,"/t/release,/t/unix",GTK+ 3.20 Released,https://mail.gnome.org/archives/gtk-list/2016-March/msg00026.html,/u/ix,3
+75,2016-03-21 07:04:26 -0500,/t/ask,What are you working on this week?,/s/7upi5z/what_are_you_working_on_this_week,/u/calvin,30
+0,2016-03-22 15:06:52 -0500,"/t/compsci,/t/programming",Google Code Jam 2016 Registration is now open!,https://code.google.com/codejam/,/u/tf,1
+21,2016-03-21 10:54:46 -0500,/t/programming,Inheritance Is Terrible,http://lionelbarrow.com/2016/03/19/inheritance-is-terrible/,/u/pgr0ss,17
+28,2016-03-21 15:53:44 -0500,"/t/freebsd,/t/linux","Meet ubuntuBSD, UNIX for Human Beings",http://news.softpedia.com/news/meet-ubuntubsd-unix-for-human-beings-501959.shtml,/u/rodolfo,9

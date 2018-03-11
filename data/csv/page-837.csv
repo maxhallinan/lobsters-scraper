@@ -1,25 +1,25 @@
-1,2016-03-18 11:55:54 -0500,"['/t/historical', '/t/windows']",Microsoft Culture -- Windows: a software engineering odyssey,http://danluu.com/microsoft-culture/,/u/rhonorv,17
-4,2016-03-18 05:37:34 -0500,"['/t/pdf', '/t/reversing']",PoC‖GTFO Issue 0x11,https://www.alchemistowl.org/pocorgtfo/pocorgtfo11.pdf,/u/fcbsd,15
-0,2016-03-18 23:32:40 -0500,['/t/math'],Simple Time Series Analysis,http://pub.gajendra.net/2016/03/time_series,/u/adsouza,3
-1,2016-03-18 12:20:58 -0500,['/t/devops'],"Docker Overview, Part One",https://deis.com/blog/2016/docker-overview-pt-1,/u/rimusz,3
-1,2016-03-18 14:46:54 -0500,['/t/practices'],Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department,http://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/,/u/tf,7
-0,2016-03-18 02:24:03 -0500,['/t/person'],A Government Error Just Revealed Snowden Was the Target in the Lavabit Case,http://www.wired.com/2016/03/government-error-just-revealed-snowden-target-lavabit-case/,/u/algernon,29
-0,2016-03-18 15:53:40 -0500,['/t/hardware'],Is Google Selling Boston Dynamics Because of AI?,http://globalguerrillas.typepad.com/globalguerrillas/2016/03/why-did-google-dump-boston-dynamics.html,/u/james,5
-0,2016-03-18 12:18:39 -0500,['/t/distributed'],Introducing Kafka Streams: Stream Processing Made Simple,http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple,/u/tylerholien,6
-2,2016-03-17 13:52:12 -0500,"['/t/book', '/t/lisp', '/t/programming']",Elements of Clojure,http://elementsofclojure.com/,/u/ztellman,27
-0,2016-03-18 10:57:41 -0500,"['/t/video', '/t/haskell']","Add a type parameter! One 'simple' design change, a panoply of outcomes",https://www.youtube.com/watch?v=BHjIl81HgfE,/u/mightybyte,2
-0,2016-03-18 16:19:13 -0500,"['/t/release', '/t/unix']",Hardening pkgsrc,https://wiki.netbsd.org/pkgsrc/hardening/,/u/sevan,2
-1,2016-03-18 07:54:27 -0500,"['/t/go', '/t/linux', '/t/mac', '/t/windows']",pmcctv - poor man's CCTV system using ffmpeg and ImageMagick,https://github.com/laurent22/pmcctv,/u/lau,2
-0,2016-03-18 14:07:13 -0500,"['/t/programming', '/t/python']",Python generators are pluggable,http://jugad2.blogspot.com/2016/03/python-generators-are-pluggable.html,/u/vasudevram,1
-7,2016-03-17 11:02:49 -0500,"['/t/debugging', '/t/networking']",tcpdump is amazing,http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/,/u/antifuchs,43
-6,2016-03-17 16:51:55 -0500,['/t/finance'],Unraveling of the tech hiring market,https://blogs.janestreet.com/unraveling/,/u/yminsky,12
-16,2016-03-17 10:52:56 -0500,['/t/security'],ProtonMail has launched worldwide!,https://protonmail.com/blog/protonmail-launch-worldwide/,/u/jasper,22
-0,2016-03-18 09:28:20 -0500,"['/t/video', '/t/javascript', '/t/scala']",Scala.js for large and complex frontend apps,https://www.youtube.com/watch?v=NPWDKEQLjpI,/u/softinio,3
-0,2016-03-17 21:59:23 -0500,"['/t/python', '/t/web']",Get Started with Django Channels,https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django,/u/av,10
-6,2016-03-17 12:37:29 -0500,['/t/compsci'],What every computer science major should know (2012),http://matt.might.net/articles/what-cs-majors-should-know/,/u/rhonorv,14
-0,2016-03-18 06:58:20 -0500,"['/t/pdf', '/t/browsers', '/t/security', '/t/web']",Bypassing NoScript Security Suite Using Cross-Site Scripting and MITM Attacks,https://mazinahmed.net/uploads/Bypassing%20NoScript%20Security%20Suite%20Using%20Cross-Site%20Scripting%20and%20MITM%20Attacks.pdf,/u/calvin,3
-0,2016-03-17 10:38:34 -0500,"['/t/elm', '/t/programming']",Let’s be mainstream! User focused design in Elm,http://www.elmbark.com/2016/03/16/mainstream-elm-user-focused-design,/u/joshsharp,23
-0,2016-03-18 10:20:50 -0500,['/t/historical'],Old Space Sites Should Inspire Exploration,http://www.space.com/32251-abandoned-space-sites-in-decay-when-should-be-inspiring.html,/u/foxyjackfox,1
-0,2016-03-18 16:18:03 -0500,"['/t/practices', '/t/programming']",How to Measure the Effectiveness of Your Developer Program,http://www.programmableweb.com/news/how-to-measure-effectiveness-your-developer-program/analysis/2015/12/21,/u/calebthompson,0
-0,2016-03-17 10:27:39 -0500,['/t/databases'],A quick look at the overall structure and some interesting aspects of PostgreSQL,http://www.zerobugsandprogramfaster.net/essays/3.html,/u/awreece,21
-1,2016-03-17 03:18:54 -0500,"['/t/erlang', '/t/lisp']",Lisp Flavoured Erlang 1.0 Released,https://twitter.com/rvirding/status/710259707819249664,/u/ane,33
+1,2016-03-18 11:55:54 -0500,"/t/historical,/t/windows",Microsoft Culture -- Windows: a software engineering odyssey,http://danluu.com/microsoft-culture/,/u/rhonorv,17
+4,2016-03-18 05:37:34 -0500,"/t/pdf,/t/reversing",PoC‖GTFO Issue 0x11,https://www.alchemistowl.org/pocorgtfo/pocorgtfo11.pdf,/u/fcbsd,15
+0,2016-03-18 23:32:40 -0500,/t/math,Simple Time Series Analysis,http://pub.gajendra.net/2016/03/time_series,/u/adsouza,3
+1,2016-03-18 12:20:58 -0500,/t/devops,"Docker Overview, Part One",https://deis.com/blog/2016/docker-overview-pt-1,/u/rimusz,3
+1,2016-03-18 14:46:54 -0500,/t/practices,Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department,http://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/,/u/tf,7
+0,2016-03-18 02:24:03 -0500,/t/person,A Government Error Just Revealed Snowden Was the Target in the Lavabit Case,http://www.wired.com/2016/03/government-error-just-revealed-snowden-target-lavabit-case/,/u/algernon,29
+0,2016-03-18 15:53:40 -0500,/t/hardware,Is Google Selling Boston Dynamics Because of AI?,http://globalguerrillas.typepad.com/globalguerrillas/2016/03/why-did-google-dump-boston-dynamics.html,/u/james,5
+0,2016-03-18 12:18:39 -0500,/t/distributed,Introducing Kafka Streams: Stream Processing Made Simple,http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple,/u/tylerholien,6
+2,2016-03-17 13:52:12 -0500,"/t/book,/t/lisp,/t/programming",Elements of Clojure,http://elementsofclojure.com/,/u/ztellman,27
+0,2016-03-18 10:57:41 -0500,"/t/video,/t/haskell","Add a type parameter! One 'simple' design change, a panoply of outcomes",https://www.youtube.com/watch?v=BHjIl81HgfE,/u/mightybyte,2
+0,2016-03-18 16:19:13 -0500,"/t/release,/t/unix",Hardening pkgsrc,https://wiki.netbsd.org/pkgsrc/hardening/,/u/sevan,2
+1,2016-03-18 07:54:27 -0500,"/t/go,/t/linux,/t/mac,/t/windows",pmcctv - poor man's CCTV system using ffmpeg and ImageMagick,https://github.com/laurent22/pmcctv,/u/lau,2
+0,2016-03-18 14:07:13 -0500,"/t/programming,/t/python",Python generators are pluggable,http://jugad2.blogspot.com/2016/03/python-generators-are-pluggable.html,/u/vasudevram,1
+7,2016-03-17 11:02:49 -0500,"/t/debugging,/t/networking",tcpdump is amazing,http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/,/u/antifuchs,43
+6,2016-03-17 16:51:55 -0500,/t/finance,Unraveling of the tech hiring market,https://blogs.janestreet.com/unraveling/,/u/yminsky,12
+16,2016-03-17 10:52:56 -0500,/t/security,ProtonMail has launched worldwide!,https://protonmail.com/blog/protonmail-launch-worldwide/,/u/jasper,22
+0,2016-03-18 09:28:20 -0500,"/t/video,/t/javascript,/t/scala",Scala.js for large and complex frontend apps,https://www.youtube.com/watch?v=NPWDKEQLjpI,/u/softinio,3
+0,2016-03-17 21:59:23 -0500,"/t/python,/t/web",Get Started with Django Channels,https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django,/u/av,10
+6,2016-03-17 12:37:29 -0500,/t/compsci,What every computer science major should know (2012),http://matt.might.net/articles/what-cs-majors-should-know/,/u/rhonorv,14
+0,2016-03-18 06:58:20 -0500,"/t/pdf,/t/browsers,/t/security,/t/web",Bypassing NoScript Security Suite Using Cross-Site Scripting and MITM Attacks,https://mazinahmed.net/uploads/Bypassing%20NoScript%20Security%20Suite%20Using%20Cross-Site%20Scripting%20and%20MITM%20Attacks.pdf,/u/calvin,3
+0,2016-03-17 10:38:34 -0500,"/t/elm,/t/programming",Let’s be mainstream! User focused design in Elm,http://www.elmbark.com/2016/03/16/mainstream-elm-user-focused-design,/u/joshsharp,23
+0,2016-03-18 10:20:50 -0500,/t/historical,Old Space Sites Should Inspire Exploration,http://www.space.com/32251-abandoned-space-sites-in-decay-when-should-be-inspiring.html,/u/foxyjackfox,1
+0,2016-03-18 16:18:03 -0500,"/t/practices,/t/programming",How to Measure the Effectiveness of Your Developer Program,http://www.programmableweb.com/news/how-to-measure-effectiveness-your-developer-program/analysis/2015/12/21,/u/calebthompson,0
+0,2016-03-17 10:27:39 -0500,/t/databases,A quick look at the overall structure and some interesting aspects of PostgreSQL,http://www.zerobugsandprogramfaster.net/essays/3.html,/u/awreece,21
+1,2016-03-17 03:18:54 -0500,"/t/erlang,/t/lisp",Lisp Flavoured Erlang 1.0 Released,https://twitter.com/rvirding/status/710259707819249664,/u/ane,33

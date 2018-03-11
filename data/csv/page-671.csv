@@ -1,25 +1,25 @@
-1,2016-09-02 15:13:11 -0500,"['/t/erlang', '/t/programming']","Farewell, io:format",http://blog.ikura.co/posts/farewell-io-format.html,/u/nato,8
-5,2016-09-02 13:36:00 -0500,['/t/meta'],Meta: There are fewer options for flagging stories than for downvoting comments,/s/da5lz3/meta_there_are_fewer_options_for_flagging,/u/chadski,9
-0,2016-09-02 15:49:45 -0500,"['/t/netbsd', '/t/openbsd', '/t/security']",Revisiting W^X with OpenBSD 6.0,http://blog.acumensecurity.net/revisiting-wx-with-openbsd-6-0/,/u/bink,14
-0,2016-09-02 19:58:53 -0500,['/t/databases'],List of useful commands for monitoring a Postgres database (from Heroku),https://github.com/heroku/heroku-pg-extras/tree/master/commands,/u/kb,8
-15,2016-09-02 00:39:45 -0500,['/t/web'],"Websocket Shootout: Clojure, C++, Elixir, Go, NodeJS, and Ruby",https://hashrocket.com/blog/posts/websocket-shootout,/u/ericdykstra,26
-5,2016-09-02 11:34:10 -0500,"['/t/compilers', '/t/release']",LLVM 3.9 Release,http://lists.llvm.org/pipermail/llvm-dev/2016-September/104460.html,/u/lattera,12
-0,2016-09-02 18:15:11 -0500,"['/t/ios', '/t/security']",PEGASUS iOS Kernel Vulnerability Explained,https://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html,/u/jabberwock,6
-1,2016-09-02 13:23:45 -0500,"['/t/erlang', '/t/programming']",Consistent Hashing,http://blog.carlosgaldino.com/consistent-hashing.html,/u/carlosgaldino,3
-16,2016-09-02 06:16:08 -0500,"['/t/freebsd', '/t/release']",PC-BSD Evolves into TrueOS,https://www.trueos.org/2016/09/01/pc-bsd-evolves-into-trueos/,/u/mjturner,10
-0,2016-09-02 14:32:47 -0500,['/t/science'],Juno's instruments return riches from first perijove,http://www.planetary.org/blogs/emily-lakdawalla/2016/09021222-junos-instruments-return.html,/u/ngoldbaum,7
-0,2016-09-02 18:51:53 -0500,['/t/practices'],"Software Evaluation, Part One: Basic Suitability",https://blog.engineyard.com/2016/software-evaluation-pt-1-basic-suitability,/u/nslater,4
-1,2016-09-02 07:43:46 -0500,['/t/javascript'],Announcing TypeScript 2.0 RC,https://blogs.msdn.microsoft.com/typescript/2016/08/30/announcing-typescript-2-0-rc/,/u/joshuacc,11
-0,2016-09-02 06:56:24 -0500,"['/t/linux', '/t/security']",Native encryption in zfsonlinux,https://github.com/zfsonlinux/zfs/pull/4329,/u/mjturner,10
-39,2016-09-01 10:40:01 -0500,"['/t/ask', '/t/freebsd', '/t/netbsd', '/t/openbsd']",What laptop and BSD flavor do you use?,/s/adalgd/what_laptop_bsd_flavor_do_you_use,/u/zg,39
-0,2016-09-02 14:15:38 -0500,['/t/security'],Further Investigation Into Scrypt and Argon2 Password Hashing,https://pthree.org/2016/06/29/further-investigation-into-scrypt-and-argon2-password-hashing/,/u/adsouza,3
-0,2016-09-02 09:29:58 -0500,"['/t/video', '/t/java']",Low Latency Java in the Real World: LMAX Exchange & the Zing JVM [2015],https://www.youtube.com/watch?v=6-oS2XHSGvk,/u/unbalancedparentheses,4
-0,2016-09-01 21:24:52 -0500,['/t/databases'],When To Avoid JSONB In A PostgreSQL Schema,http://blog.heapanalytics.com/when-to-avoid-jsonb-in-a-postgresql-schema/,/u/malisper,15
-7,2016-09-01 05:54:17 -0500,"['/t/historical', '/t/netbsd', '/t/openbsd']",Events leading to the OpenBSD fork from NetBSD - mail archive (1994),http://www.theos.com/deraadt/coremail.html,/u/mjturner,38
-8,2016-09-01 02:50:17 -0500,['/t/openbsd'],OpenBSD 6.0 : why and how,https://sivers.org/openbsd,/u/sivers,44
-2,2016-09-01 17:19:23 -0500,"['/t/historical', '/t/programming']",Why was Doom developed on a NeXT?,https://www.quora.com/Why-was-Doom-developed-on-a-NeXT,/u/calvin,18
-0,2016-09-02 08:34:12 -0500,"['/t/c', '/t/debugging']",Debugging unfamiliar code in an unfamiliar language using an unfamiliar IDE,http://bitfunnel.org/debugging-nativejit/,/u/craigstuntz,3
-3,2016-09-01 18:05:16 -0500,"['/t/hardware', '/t/security']","Talos Secure Workstation launches on CrowdSupply, funding opens early October",https://www.crowdsupply.com/raptorcs/talos,/u/chadski,9
-12,2016-09-01 06:01:50 -0500,"['/t/mac', '/t/security']",OS X malware spread via signed Transmission app... again,https://www.grahamcluley.com/2016/09/signed-sealed-delivered-malware-spread-signed-transmission-app/,/u/calvin,27
-7,2016-09-01 04:11:35 -0500,"['/t/openbsd', '/t/release']",OpenBSD 6.0 released,https://www.openbsd.org/60.html,/u/sin,44
-2,2016-09-01 19:57:25 -0500,"['/t/crypto', '/t/distributed', '/t/privacy']",How Tor Works,http://www.alexkyte.me/2016/09/how-tor-works.html,/u/akyte,3
+1,2016-09-02 15:13:11 -0500,"/t/erlang,/t/programming","Farewell, io:format",http://blog.ikura.co/posts/farewell-io-format.html,/u/nato,8
+5,2016-09-02 13:36:00 -0500,/t/meta,Meta: There are fewer options for flagging stories than for downvoting comments,/s/da5lz3/meta_there_are_fewer_options_for_flagging,/u/chadski,9
+0,2016-09-02 15:49:45 -0500,"/t/netbsd,/t/openbsd,/t/security",Revisiting W^X with OpenBSD 6.0,http://blog.acumensecurity.net/revisiting-wx-with-openbsd-6-0/,/u/bink,14
+0,2016-09-02 19:58:53 -0500,/t/databases,List of useful commands for monitoring a Postgres database (from Heroku),https://github.com/heroku/heroku-pg-extras/tree/master/commands,/u/kb,8
+15,2016-09-02 00:39:45 -0500,/t/web,"Websocket Shootout: Clojure, C++, Elixir, Go, NodeJS, and Ruby",https://hashrocket.com/blog/posts/websocket-shootout,/u/ericdykstra,26
+5,2016-09-02 11:34:10 -0500,"/t/compilers,/t/release",LLVM 3.9 Release,http://lists.llvm.org/pipermail/llvm-dev/2016-September/104460.html,/u/lattera,12
+0,2016-09-02 18:15:11 -0500,"/t/ios,/t/security",PEGASUS iOS Kernel Vulnerability Explained,https://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html,/u/jabberwock,6
+1,2016-09-02 13:23:45 -0500,"/t/erlang,/t/programming",Consistent Hashing,http://blog.carlosgaldino.com/consistent-hashing.html,/u/carlosgaldino,3
+16,2016-09-02 06:16:08 -0500,"/t/freebsd,/t/release",PC-BSD Evolves into TrueOS,https://www.trueos.org/2016/09/01/pc-bsd-evolves-into-trueos/,/u/mjturner,10
+0,2016-09-02 14:32:47 -0500,/t/science,Juno's instruments return riches from first perijove,http://www.planetary.org/blogs/emily-lakdawalla/2016/09021222-junos-instruments-return.html,/u/ngoldbaum,7
+0,2016-09-02 18:51:53 -0500,/t/practices,"Software Evaluation, Part One: Basic Suitability",https://blog.engineyard.com/2016/software-evaluation-pt-1-basic-suitability,/u/nslater,4
+1,2016-09-02 07:43:46 -0500,/t/javascript,Announcing TypeScript 2.0 RC,https://blogs.msdn.microsoft.com/typescript/2016/08/30/announcing-typescript-2-0-rc/,/u/joshuacc,11
+0,2016-09-02 06:56:24 -0500,"/t/linux,/t/security",Native encryption in zfsonlinux,https://github.com/zfsonlinux/zfs/pull/4329,/u/mjturner,10
+39,2016-09-01 10:40:01 -0500,"/t/ask,/t/freebsd,/t/netbsd,/t/openbsd",What laptop and BSD flavor do you use?,/s/adalgd/what_laptop_bsd_flavor_do_you_use,/u/zg,39
+0,2016-09-02 14:15:38 -0500,/t/security,Further Investigation Into Scrypt and Argon2 Password Hashing,https://pthree.org/2016/06/29/further-investigation-into-scrypt-and-argon2-password-hashing/,/u/adsouza,3
+0,2016-09-02 09:29:58 -0500,"/t/video,/t/java",Low Latency Java in the Real World: LMAX Exchange & the Zing JVM [2015],https://www.youtube.com/watch?v=6-oS2XHSGvk,/u/unbalancedparentheses,4
+0,2016-09-01 21:24:52 -0500,/t/databases,When To Avoid JSONB In A PostgreSQL Schema,http://blog.heapanalytics.com/when-to-avoid-jsonb-in-a-postgresql-schema/,/u/malisper,15
+7,2016-09-01 05:54:17 -0500,"/t/historical,/t/netbsd,/t/openbsd",Events leading to the OpenBSD fork from NetBSD - mail archive (1994),http://www.theos.com/deraadt/coremail.html,/u/mjturner,38
+8,2016-09-01 02:50:17 -0500,/t/openbsd,OpenBSD 6.0 : why and how,https://sivers.org/openbsd,/u/sivers,44
+2,2016-09-01 17:19:23 -0500,"/t/historical,/t/programming",Why was Doom developed on a NeXT?,https://www.quora.com/Why-was-Doom-developed-on-a-NeXT,/u/calvin,18
+0,2016-09-02 08:34:12 -0500,"/t/c,/t/debugging",Debugging unfamiliar code in an unfamiliar language using an unfamiliar IDE,http://bitfunnel.org/debugging-nativejit/,/u/craigstuntz,3
+3,2016-09-01 18:05:16 -0500,"/t/hardware,/t/security","Talos Secure Workstation launches on CrowdSupply, funding opens early October",https://www.crowdsupply.com/raptorcs/talos,/u/chadski,9
+12,2016-09-01 06:01:50 -0500,"/t/mac,/t/security",OS X malware spread via signed Transmission app... again,https://www.grahamcluley.com/2016/09/signed-sealed-delivered-malware-spread-signed-transmission-app/,/u/calvin,27
+7,2016-09-01 04:11:35 -0500,"/t/openbsd,/t/release",OpenBSD 6.0 released,https://www.openbsd.org/60.html,/u/sin,44
+2,2016-09-01 19:57:25 -0500,"/t/crypto,/t/distributed,/t/privacy",How Tor Works,http://www.alexkyte.me/2016/09/how-tor-works.html,/u/akyte,3

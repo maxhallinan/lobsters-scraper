@@ -1,25 +1,25 @@
-3,2017-07-26 05:39:26 -0500,"['/t/c', '/t/compilers', '/t/programming']",Defining the undefinedness of C - PLDI 2015,http://pldi15.sigplan.org/event/pldi2015-papers-defining-the-undefinedness-of-c,/u/rain1,2
-0,2017-07-26 13:57:54 -0500,['/t/css'],Using viewport units to scale fixed layouts,https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9,/u/flyingfisch,1
-0,2017-07-26 07:04:39 -0500,"['/t/api', '/t/ruby']",API v2 Architecture and Hanami,https://blog.dnsimple.com/2017/07/api-v2-architecture/,/u/pushcx,3
-2,2017-07-25 16:41:37 -0500,"['/t/cryptocurrencies', '/t/law']","SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities",https://www.sec.gov/news/press-release/2017-131,/u/friendlysock,10
-0,2017-07-26 11:44:04 -0500,"['/t/devops', '/t/release']",Fast and Easy Containers: Azure Container Instances,https://azure.microsoft.com/en-us/blog/announcing-azure-container-instances/,/u/colin,1
-0,2017-07-26 06:52:44 -0500,"['/t/api', '/t/security']",Bright City: A Highly Insecure Police and Municipal Government App,https://randywestergren.com/bright-city-highly-insecure-police-municipal-government-app/,/u/calvin,2
-3,2017-07-25 10:46:09 -0500,"['/t/browsers', '/t/release']",Stylo is ready for community testing on Firefox Nightly,https://blog.nightly.mozilla.org/2017/07/25/stylo-is-ready-for-community-testing-on-nightly/,/u/colin,16
-4,2017-07-25 13:08:12 -0500,"['/t/pdf', '/t/graphics', '/t/linux', '/t/programming']",Linux Graphics Demystified,https://keyj.emphy.de/files/linuxgraphics_en.pdf,/u/beyang,10
-3,2017-07-25 11:16:19 -0500,"['/t/c', '/t/crypto', '/t/release']",Monocypher 1.0 - a single .c/.h crypto library,http://loup-vaillant.fr/projects/monocypher/,/u/mikejsavage,12
-2,2017-07-25 12:25:38 -0500,['/t/web'],Flash & The Future of Interactive Content,https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html,/u/binarycleric,10
-0,2017-07-25 06:11:20 -0500,"['/t/elixir', '/t/release']",Elixir 1.5.0 released,https://github.com/elixir-lang/elixir/releases/tag/v1.5.0,/u/dmathieu,25
-1,2017-07-25 09:37:45 -0500,"['/t/compilers', '/t/release', '/t/reversing']",Snowman is a native code to C/C++ decompiler,https://derevenets.com/,/u/pushcx,15
-0,2017-07-25 14:53:57 -0500,"['/t/compsci', '/t/networking', '/t/security']","Programmatically tag or reduce omnidirectional Internet log ""background noise""",https://github.com/Animus-Intelligence/omni,/u/morris,4
-2,2017-07-24 21:03:38 -0500,"['/t/law', '/t/security']",18 year old guy arrested for reporting a shamefully stupid bug in the new Budapest e-Ticket system,http://blog.marai.me/2017/07/24/18-year-old-arrested-bkk-tsystems-e-ticket/,/u/calvin,40
-0,2017-07-25 12:16:35 -0500,['/t/c++'],6 Reasons Why We Distribute C++ Libraries as Source-Code,https://hackernoon.com/6-reasons-why-we-distribute-c-libraries-as-source-code-2dc614d5ef1e,/u/asfgda,10
-1,2017-07-25 05:36:33 -0500,"['/t/math', '/t/visualization']",Exploring Histograms,http://tinlizzie.org/histograms/,/u/quobit,17
-4,2017-07-25 11:15:08 -0500,['/t/security'],Advocating “Obscurity Pockets” as a Complement to Security,http://ithare.com/advocating-obscurity-pockets-as-a-complement-to-security-part-i-definition-and-benefits/,/u/mikejsavage,5
-0,2017-07-25 14:21:03 -0500,"['/t/databases', '/t/distributed']",Patterns of Event Stream Processing: An Interactive Exploration of Session Windows,http://pyroclast.io/blog/2017/07/25/patterns-session-windows.html,/u/lucasbradstreet,3
-0,2017-07-25 10:02:42 -0500,['/t/hardware'],How to Make a Wireless Sensor Live for a Year on One Tiny Coin Cell Battery,http://www.thingsquare.com/blog/articles/sensortag-power/,/u/pushcx,10
-1,2017-07-25 07:15:25 -0500,"['/t/historical', '/t/mac', '/t/programming']",Pascal at Apple,http://blog.fogus.me/2017/07/20/pascal-at-apple/,/u/calvin,12
-6,2017-07-25 02:11:03 -0500,['/t/hardware'],Why we had to stop supporting the Fairphone 1,https://www.fairphone.com/en/2017/07/20/why-we-had-to-stop-supporting-the-fairphone-1/,/u/stsp,14
-0,2017-07-25 15:04:39 -0500,['/t/go'],Idiomatic Go,https://about.sourcegraph.com/go/idiomatic-go,/u/attfarhan,5
-0,2017-07-26 08:09:07 -0500,['/t/ruby'],Stop Using Case Statements in Ruby,http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/,/u/pushcx,0
-9,2017-07-24 19:53:43 -0500,['/t/security'],How the coffee-machine took down a factory's control room,https://www.reddit.com/r/talesfromtechsupport/comments/6ovy0h/how_the_coffeemachine_took_down_a_factories/,/u/GeoffWozniak,29
-0,2017-07-25 10:44:29 -0500,"['/t/ai', '/t/security']",A Step-by-Step Guide to Synthesizing Adversarial Examples,http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/,/u/anishathalye,4
+3,2017-07-26 05:39:26 -0500,"/t/c,/t/compilers,/t/programming",Defining the undefinedness of C - PLDI 2015,http://pldi15.sigplan.org/event/pldi2015-papers-defining-the-undefinedness-of-c,/u/rain1,2
+0,2017-07-26 13:57:54 -0500,/t/css,Using viewport units to scale fixed layouts,https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9,/u/flyingfisch,1
+0,2017-07-26 07:04:39 -0500,"/t/api,/t/ruby",API v2 Architecture and Hanami,https://blog.dnsimple.com/2017/07/api-v2-architecture/,/u/pushcx,3
+2,2017-07-25 16:41:37 -0500,"/t/cryptocurrencies,/t/law","SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities",https://www.sec.gov/news/press-release/2017-131,/u/friendlysock,10
+0,2017-07-26 11:44:04 -0500,"/t/devops,/t/release",Fast and Easy Containers: Azure Container Instances,https://azure.microsoft.com/en-us/blog/announcing-azure-container-instances/,/u/colin,1
+0,2017-07-26 06:52:44 -0500,"/t/api,/t/security",Bright City: A Highly Insecure Police and Municipal Government App,https://randywestergren.com/bright-city-highly-insecure-police-municipal-government-app/,/u/calvin,2
+3,2017-07-25 10:46:09 -0500,"/t/browsers,/t/release",Stylo is ready for community testing on Firefox Nightly,https://blog.nightly.mozilla.org/2017/07/25/stylo-is-ready-for-community-testing-on-nightly/,/u/colin,16
+4,2017-07-25 13:08:12 -0500,"/t/pdf,/t/graphics,/t/linux,/t/programming",Linux Graphics Demystified,https://keyj.emphy.de/files/linuxgraphics_en.pdf,/u/beyang,10
+3,2017-07-25 11:16:19 -0500,"/t/c,/t/crypto,/t/release",Monocypher 1.0 - a single .c/.h crypto library,http://loup-vaillant.fr/projects/monocypher/,/u/mikejsavage,12
+2,2017-07-25 12:25:38 -0500,/t/web,Flash & The Future of Interactive Content,https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html,/u/binarycleric,10
+0,2017-07-25 06:11:20 -0500,"/t/elixir,/t/release",Elixir 1.5.0 released,https://github.com/elixir-lang/elixir/releases/tag/v1.5.0,/u/dmathieu,25
+1,2017-07-25 09:37:45 -0500,"/t/compilers,/t/release,/t/reversing",Snowman is a native code to C/C++ decompiler,https://derevenets.com/,/u/pushcx,15
+0,2017-07-25 14:53:57 -0500,"/t/compsci,/t/networking,/t/security","Programmatically tag or reduce omnidirectional Internet log ""background noise""",https://github.com/Animus-Intelligence/omni,/u/morris,4
+2,2017-07-24 21:03:38 -0500,"/t/law,/t/security",18 year old guy arrested for reporting a shamefully stupid bug in the new Budapest e-Ticket system,http://blog.marai.me/2017/07/24/18-year-old-arrested-bkk-tsystems-e-ticket/,/u/calvin,40
+0,2017-07-25 12:16:35 -0500,/t/c++,6 Reasons Why We Distribute C++ Libraries as Source-Code,https://hackernoon.com/6-reasons-why-we-distribute-c-libraries-as-source-code-2dc614d5ef1e,/u/asfgda,10
+1,2017-07-25 05:36:33 -0500,"/t/math,/t/visualization",Exploring Histograms,http://tinlizzie.org/histograms/,/u/quobit,17
+4,2017-07-25 11:15:08 -0500,/t/security,Advocating “Obscurity Pockets” as a Complement to Security,http://ithare.com/advocating-obscurity-pockets-as-a-complement-to-security-part-i-definition-and-benefits/,/u/mikejsavage,5
+0,2017-07-25 14:21:03 -0500,"/t/databases,/t/distributed",Patterns of Event Stream Processing: An Interactive Exploration of Session Windows,http://pyroclast.io/blog/2017/07/25/patterns-session-windows.html,/u/lucasbradstreet,3
+0,2017-07-25 10:02:42 -0500,/t/hardware,How to Make a Wireless Sensor Live for a Year on One Tiny Coin Cell Battery,http://www.thingsquare.com/blog/articles/sensortag-power/,/u/pushcx,10
+1,2017-07-25 07:15:25 -0500,"/t/historical,/t/mac,/t/programming",Pascal at Apple,http://blog.fogus.me/2017/07/20/pascal-at-apple/,/u/calvin,12
+6,2017-07-25 02:11:03 -0500,/t/hardware,Why we had to stop supporting the Fairphone 1,https://www.fairphone.com/en/2017/07/20/why-we-had-to-stop-supporting-the-fairphone-1/,/u/stsp,14
+0,2017-07-25 15:04:39 -0500,/t/go,Idiomatic Go,https://about.sourcegraph.com/go/idiomatic-go,/u/attfarhan,5
+0,2017-07-26 08:09:07 -0500,/t/ruby,Stop Using Case Statements in Ruby,http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/,/u/pushcx,0
+9,2017-07-24 19:53:43 -0500,/t/security,How the coffee-machine took down a factory's control room,https://www.reddit.com/r/talesfromtechsupport/comments/6ovy0h/how_the_coffeemachine_took_down_a_factories/,/u/GeoffWozniak,29
+0,2017-07-25 10:44:29 -0500,"/t/ai,/t/security",A Step-by-Step Guide to Synthesizing Adversarial Examples,http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/,/u/anishathalye,4

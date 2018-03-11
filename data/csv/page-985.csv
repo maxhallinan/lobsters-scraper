@@ -1,25 +1,25 @@
-2,2015-11-02 10:36:34 -0600,['/t/culture'],New Star Trek Series Premieres January 2017,http://www.startrek.com/article/new-star-trek-series-premieres-january-2017,/u/pushcx,1
-1,2015-11-01 08:32:14 -0600,"['/t/release', '/t/unix', '/t/vim']",Kakoune code editor,http://kakoune.org/,/u/mostly-harmless,15
-0,2015-11-02 00:53:59 -0600,"['/t/privacy', '/t/security']",Battle Heats Up Over Exports of Surveillance Technology,http://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html,/u/atmosx,2
-4,2015-11-01 02:25:12 -0600,['/t/hardware'],Disaggregated disk,http://danluu.com/infinite-disk/,/u/uggedal,24
-0,2015-11-02 10:15:05 -0600,"['/t/culture', '/t/law']",What software developers should learn from the VW diesel scandal,https://technical.ly/philly/2015/11/02/what-software-developers-should-learn-from-the-vw-diesel-scandal/,/u/nicholaides,1
-0,2015-11-01 18:30:09 -0600,['/t/science'],Crush Point,http://www.newyorker.com/magazine/2011/02/07/crush-point,/u/pushcx,3
-0,2015-11-01 12:27:53 -0600,"['/t/pdf', '/t/swift']",Swift Intermediate Language: LLVM Conference Slides,http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf,/u/av,5
-0,2015-11-01 12:23:23 -0600,['/t/ruby'],Ruby Tricks,https://github.com/franzejr/ruby-tricks,/u/av,5
-1,2015-11-02 10:55:14 -0600,['/t/culture'],The Problem with Job Titles: Part 2,http://blog.workshape.io/the-problem-with-job-titles-part-ii/,/u/stig,0
-1,2015-11-01 06:24:27 -0600,['/t/devops'],Introducing Vector: Netflix's On-Host Performance Monitoring Tool,http://techblog.netflix.com/2015/04/introducing-vector-netflixs-on-host.html,/u/adsouza,9
-1,2015-11-01 11:57:23 -0600,['/t/security'],HTTP Evader - Automate Firewall Evasion Tests,http://noxxi.de/research/http-evader.html,/u/av,3
-0,2015-11-01 08:46:04 -0600,"['/t/dotnet', '/t/graphics', '/t/programming']",MCG: Visual Functional Programming,http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming,/u/tokenrove,5
-0,2015-11-01 00:52:47 -0500,"['/t/compsci', '/t/linux']",PAPERS ARE AMAZING: Profiling threaded programs with Coz,http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/,/u/antifuchs,12
-1,2015-11-01 12:26:04 -0600,['/t/python'],"Obfuscating ""Hello world!""",https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html,/u/av,2
-3,2015-10-31 12:50:51 -0500,"['/t/release', '/t/unix']",GNU Hurd 0.7 has been released,https://www.gnu.org/software/hurd/news/2015-10-31-releases.html,/u/halosghost,14
-5,2015-10-31 09:36:03 -0500,"['/t/unix', '/t/vcs']",Using Git to Manage Todos,http://jezenthomas.com/using-git-to-manage-todos/,/u/jgt,8
-2,2015-10-31 08:05:53 -0500,"['/t/haskell', '/t/programming']",a tiling region manager for the console,https://joeyh.name/blog/entry/a_tiling_region_manager_for_the_console/,/u/pushcx,19
-0,2015-10-31 14:34:18 -0500,['/t/python'],CPython internals: A ten-hour codewalk through the Python interpreter source code,http://pgbovine.net/cpython-internals.htm,/u/av,11
-10,2015-10-31 11:38:01 -0500,['/t/practices'],Software has diseconomies of scale - not economies of scale,http://allankelly.blogspot.com/2015/10/software-has-diseconomies-of-scale-not.html,/u/pushcx,7
-0,2015-10-31 18:47:55 -0500,"['/t/devops', '/t/practices']",Primum non nocere - Ethical Obligations in Internet Operations,https://www.netmeister.org/blog/primum-non-nocere.html,/u/ajdecon,6
-0,2015-10-31 12:14:45 -0500,"['/t/compsci', '/t/haskell']",An Introduction to Recursion Schemes,http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/,/u/pushcx,10
-5,2015-10-31 08:01:35 -0500,"['/t/programming', '/t/ruby']",ActiveSupport’s #try might not be doing what you think it’s doing,http://devblog.avdi.org/2015/10/30/activesupports-try-might-not-be-doing-what-you-think-its-doing/,/u/pushcx,7
-1,2015-10-31 07:25:11 -0500,"['/t/practices', '/t/programming']","Locked doors, headaches, and intellectual need",https://mkremins.github.io/blog/doors-headaches-intellectual-need/,/u/pushcx,10
-0,2015-10-31 09:04:23 -0500,"['/t/javascript', '/t/vcs']",Visualising Code Growth with Git and D3.js,http://jezenthomas.com/visualising-code-growth-with-git-and-d3/,/u/jgt,4
-0,2015-10-31 07:47:35 -0500,['/t/math'],Bayesian ranking of items with up and downvotes or 5 star ratings,http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html,/u/davecardwell,8
+2,2015-11-02 10:36:34 -0600,/t/culture,New Star Trek Series Premieres January 2017,http://www.startrek.com/article/new-star-trek-series-premieres-january-2017,/u/pushcx,1
+1,2015-11-01 08:32:14 -0600,"/t/release,/t/unix,/t/vim",Kakoune code editor,http://kakoune.org/,/u/mostly-harmless,15
+0,2015-11-02 00:53:59 -0600,"/t/privacy,/t/security",Battle Heats Up Over Exports of Surveillance Technology,http://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html,/u/atmosx,2
+4,2015-11-01 02:25:12 -0600,/t/hardware,Disaggregated disk,http://danluu.com/infinite-disk/,/u/uggedal,24
+0,2015-11-02 10:15:05 -0600,"/t/culture,/t/law",What software developers should learn from the VW diesel scandal,https://technical.ly/philly/2015/11/02/what-software-developers-should-learn-from-the-vw-diesel-scandal/,/u/nicholaides,1
+0,2015-11-01 18:30:09 -0600,/t/science,Crush Point,http://www.newyorker.com/magazine/2011/02/07/crush-point,/u/pushcx,3
+0,2015-11-01 12:27:53 -0600,"/t/pdf,/t/swift",Swift Intermediate Language: LLVM Conference Slides,http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf,/u/av,5
+0,2015-11-01 12:23:23 -0600,/t/ruby,Ruby Tricks,https://github.com/franzejr/ruby-tricks,/u/av,5
+1,2015-11-02 10:55:14 -0600,/t/culture,The Problem with Job Titles: Part 2,http://blog.workshape.io/the-problem-with-job-titles-part-ii/,/u/stig,0
+1,2015-11-01 06:24:27 -0600,/t/devops,Introducing Vector: Netflix's On-Host Performance Monitoring Tool,http://techblog.netflix.com/2015/04/introducing-vector-netflixs-on-host.html,/u/adsouza,9
+1,2015-11-01 11:57:23 -0600,/t/security,HTTP Evader - Automate Firewall Evasion Tests,http://noxxi.de/research/http-evader.html,/u/av,3
+0,2015-11-01 08:46:04 -0600,"/t/dotnet,/t/graphics,/t/programming",MCG: Visual Functional Programming,http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming,/u/tokenrove,5
+0,2015-11-01 00:52:47 -0500,"/t/compsci,/t/linux",PAPERS ARE AMAZING: Profiling threaded programs with Coz,http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/,/u/antifuchs,12
+1,2015-11-01 12:26:04 -0600,/t/python,"Obfuscating ""Hello world!""",https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html,/u/av,2
+3,2015-10-31 12:50:51 -0500,"/t/release,/t/unix",GNU Hurd 0.7 has been released,https://www.gnu.org/software/hurd/news/2015-10-31-releases.html,/u/halosghost,14
+5,2015-10-31 09:36:03 -0500,"/t/unix,/t/vcs",Using Git to Manage Todos,http://jezenthomas.com/using-git-to-manage-todos/,/u/jgt,8
+2,2015-10-31 08:05:53 -0500,"/t/haskell,/t/programming",a tiling region manager for the console,https://joeyh.name/blog/entry/a_tiling_region_manager_for_the_console/,/u/pushcx,19
+0,2015-10-31 14:34:18 -0500,/t/python,CPython internals: A ten-hour codewalk through the Python interpreter source code,http://pgbovine.net/cpython-internals.htm,/u/av,11
+10,2015-10-31 11:38:01 -0500,/t/practices,Software has diseconomies of scale - not economies of scale,http://allankelly.blogspot.com/2015/10/software-has-diseconomies-of-scale-not.html,/u/pushcx,7
+0,2015-10-31 18:47:55 -0500,"/t/devops,/t/practices",Primum non nocere - Ethical Obligations in Internet Operations,https://www.netmeister.org/blog/primum-non-nocere.html,/u/ajdecon,6
+0,2015-10-31 12:14:45 -0500,"/t/compsci,/t/haskell",An Introduction to Recursion Schemes,http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/,/u/pushcx,10
+5,2015-10-31 08:01:35 -0500,"/t/programming,/t/ruby",ActiveSupport’s #try might not be doing what you think it’s doing,http://devblog.avdi.org/2015/10/30/activesupports-try-might-not-be-doing-what-you-think-its-doing/,/u/pushcx,7
+1,2015-10-31 07:25:11 -0500,"/t/practices,/t/programming","Locked doors, headaches, and intellectual need",https://mkremins.github.io/blog/doors-headaches-intellectual-need/,/u/pushcx,10
+0,2015-10-31 09:04:23 -0500,"/t/javascript,/t/vcs",Visualising Code Growth with Git and D3.js,http://jezenthomas.com/visualising-code-growth-with-git-and-d3/,/u/jgt,4
+0,2015-10-31 07:47:35 -0500,/t/math,Bayesian ranking of items with up and downvotes or 5 star ratings,http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html,/u/davecardwell,8

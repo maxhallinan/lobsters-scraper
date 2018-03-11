@@ -1,25 +1,25 @@
-3,2015-02-19 21:01:17 -0600,"['/t/math', '/t/visualization']",Bayes' Theorem with Lego,http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego,/u/pushcx,11
-1,2015-02-19 10:04:09 -0600,['/t/security'],Extracting the SuperFish certificate,http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html,/u/journeysquid,28
-10,2015-02-18 22:53:24 -0600,['/t/security'],New Lenovo laptops bundled with MITM cert/proxy to insert ads on SSL traffic,http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/,/u/kb,43
-0,2015-02-19 10:50:14 -0600,['/t/databases'],Inserting And Using A New Record In Postgres,http://rob.conery.io/2015/02/09/inserting-using-new-record-postgres/,/u/pushcx,15
-3,2015-02-19 06:08:16 -0600,"['/t/go', '/t/programming']",Reduce allocation in Go code,http://methane.github.io/2015/02/reduce-allocation-in-go-code/,/u/rauyran,19
-1,2015-02-19 15:44:07 -0600,['/t/compsci'],Gian-Carlo Rota on Alonzo Church,http://www-history.mcs.st-and.ac.uk/Extras/Church.html,/u/waffle_ss,6
-0,2015-02-19 18:27:19 -0600,"['/t/culture', '/t/law', '/t/security']",Hacker Claims Feds Hit Him With 44 Felonies When He Refused to Be an FBI Spy,http://www.wired.com/2015/02/hacker-claims-feds-hit-44-felonies-refused-fbi-spy/,/u/itistoday,6
-0,2015-02-19 12:54:39 -0600,"['/t/compilers', '/t/compsci', '/t/dotnet']",Dandelion: a Compiler and Runtime for Heterogeneous Systems,http://research.microsoft.com/apps/pubs/default.aspx?id=201110,/u/cemerick,6
-0,2015-02-19 14:22:57 -0600,['/t/science'],Sex redefined,http://www.nature.com/news/sex-redefined-1.16943,/u/pushcx,3
-27,2015-02-18 11:51:02 -0600,"['/t/go', '/t/programming']",You Don't Like Google's Go Because You Are Small,http://tmikov.blogspot.com/2015/02/you-dont-like-googles-go-because-you.html,/u/sac,32
-0,2015-02-19 16:04:52 -0600,"['/t/haskell', '/t/practices']",Cabal Sanity on Debian Wheezy,http://spw.sdf.org/tech/debstablehaskell.shtml,/u/pushcx,3
-1,2015-02-19 07:08:31 -0600,['/t/web'],Apparently Transparent - CSS3D HTML5 Experiment,http://www.dhteumeuleu.com/apparently-transparent,/u/mediremi,8
-0,2015-02-19 15:45:47 -0600,"['/t/practices', '/t/web']",Access Optional,http://timkadlec.com/2015/02/access-optional/,/u/mediremi,3
-0,2015-02-19 11:54:39 -0600,['/t/ruby'],A Monadic Approach to Error Handling in Collection Pipelines,https://michaelfeathers.silvrback.com/a-monadic-approach-to-error-handling-in-collection-pipelines,/u/pushcx,4
-0,2015-02-19 14:44:00 -0600,"['/t/databases', '/t/distributed', '/t/web']",Gun: persisted distributed cache,http://gundb.io/,/u/DocSavage,2
-1,2015-02-19 02:42:00 -0600,['/t/openbsd'],Using OpenBSD and vxlan to overlay remote lans,http://www.echothrust.com/blogs/using-openbsd-and-vxlan-overlay-remote-lans,/u/proditis,6
-0,2015-02-19 11:03:57 -0600,"['/t/art', '/t/ruby']",Getting Started With Ruby Processing,https://blog.engineyard.com/2015/getting-started-with-ruby-processing,/u/fluxusfrequency,2
-11,2015-02-18 18:15:13 -0600,"['/t/haskell', '/t/java', '/t/programming']",The Perils of Implementing Functor in Java,http://jnape.com/the-perils-of-implementing-functor-in-java/,/u/jnape,7
-0,2015-02-19 12:24:15 -0600,"['/t/release', '/t/ruby']",Rspec::Varys: Generate Contract Tests From Collaboration Tests,https://github.com/ritchiey/rspec-varys,/u/pushcx,1
-0,2015-02-18 20:58:11 -0600,"['/t/javascript', '/t/web']",The Case for Flux,https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6,/u/dmnd,7
-0,2015-02-19 10:01:48 -0600,"['/t/ruby', '/t/web']","How to Fix ""toplevel constant Foo referenced by Bar::Baz:Foo"" in Rails",http://www.enotagain.com/essays/how-to-fix-toplevel-constant-foo-referenced-by-bar-baz-foo-in-rails.html,/u/gregnavis,1
-0,2015-02-18 15:24:28 -0600,['/t/security'],Another update on the Truecrypt audit,http://blog.cryptographyengineering.com/2015/02/another-update-on-truecrypt-audit.html,/u/kyle,13
-0,2015-02-19 00:20:00 -0600,"['/t/mobile', '/t/networking']","T-Mobile CEO Slams AT&T, Verizon Spectrum Stranglehold",http://www.dslreports.com/shownews/TMobile-CEO-Slams-ATT-Verizon-Spectrum-Stranglehold-132692,/u/cnst,4
-0,2015-02-18 11:48:42 -0600,['/t/c'],The Lost Art of C Structure Packing,http://www.catb.org/esr/structure-packing/?src=yc,/u/pushcx,17
-9,2015-02-18 14:09:28 -0600,['/t/security'],TrackMeNot,http://cs.nyu.edu/trackmenot/,/u/jm,7
+3,2015-02-19 21:01:17 -0600,"/t/math,/t/visualization",Bayes' Theorem with Lego,http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego,/u/pushcx,11
+1,2015-02-19 10:04:09 -0600,/t/security,Extracting the SuperFish certificate,http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html,/u/journeysquid,28
+10,2015-02-18 22:53:24 -0600,/t/security,New Lenovo laptops bundled with MITM cert/proxy to insert ads on SSL traffic,http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/,/u/kb,43
+0,2015-02-19 10:50:14 -0600,/t/databases,Inserting And Using A New Record In Postgres,http://rob.conery.io/2015/02/09/inserting-using-new-record-postgres/,/u/pushcx,15
+3,2015-02-19 06:08:16 -0600,"/t/go,/t/programming",Reduce allocation in Go code,http://methane.github.io/2015/02/reduce-allocation-in-go-code/,/u/rauyran,19
+1,2015-02-19 15:44:07 -0600,/t/compsci,Gian-Carlo Rota on Alonzo Church,http://www-history.mcs.st-and.ac.uk/Extras/Church.html,/u/waffle_ss,6
+0,2015-02-19 18:27:19 -0600,"/t/culture,/t/law,/t/security",Hacker Claims Feds Hit Him With 44 Felonies When He Refused to Be an FBI Spy,http://www.wired.com/2015/02/hacker-claims-feds-hit-44-felonies-refused-fbi-spy/,/u/itistoday,6
+0,2015-02-19 12:54:39 -0600,"/t/compilers,/t/compsci,/t/dotnet",Dandelion: a Compiler and Runtime for Heterogeneous Systems,http://research.microsoft.com/apps/pubs/default.aspx?id=201110,/u/cemerick,6
+0,2015-02-19 14:22:57 -0600,/t/science,Sex redefined,http://www.nature.com/news/sex-redefined-1.16943,/u/pushcx,3
+27,2015-02-18 11:51:02 -0600,"/t/go,/t/programming",You Don't Like Google's Go Because You Are Small,http://tmikov.blogspot.com/2015/02/you-dont-like-googles-go-because-you.html,/u/sac,32
+0,2015-02-19 16:04:52 -0600,"/t/haskell,/t/practices",Cabal Sanity on Debian Wheezy,http://spw.sdf.org/tech/debstablehaskell.shtml,/u/pushcx,3
+1,2015-02-19 07:08:31 -0600,/t/web,Apparently Transparent - CSS3D HTML5 Experiment,http://www.dhteumeuleu.com/apparently-transparent,/u/mediremi,8
+0,2015-02-19 15:45:47 -0600,"/t/practices,/t/web",Access Optional,http://timkadlec.com/2015/02/access-optional/,/u/mediremi,3
+0,2015-02-19 11:54:39 -0600,/t/ruby,A Monadic Approach to Error Handling in Collection Pipelines,https://michaelfeathers.silvrback.com/a-monadic-approach-to-error-handling-in-collection-pipelines,/u/pushcx,4
+0,2015-02-19 14:44:00 -0600,"/t/databases,/t/distributed,/t/web",Gun: persisted distributed cache,http://gundb.io/,/u/DocSavage,2
+1,2015-02-19 02:42:00 -0600,/t/openbsd,Using OpenBSD and vxlan to overlay remote lans,http://www.echothrust.com/blogs/using-openbsd-and-vxlan-overlay-remote-lans,/u/proditis,6
+0,2015-02-19 11:03:57 -0600,"/t/art,/t/ruby",Getting Started With Ruby Processing,https://blog.engineyard.com/2015/getting-started-with-ruby-processing,/u/fluxusfrequency,2
+11,2015-02-18 18:15:13 -0600,"/t/haskell,/t/java,/t/programming",The Perils of Implementing Functor in Java,http://jnape.com/the-perils-of-implementing-functor-in-java/,/u/jnape,7
+0,2015-02-19 12:24:15 -0600,"/t/release,/t/ruby",Rspec::Varys: Generate Contract Tests From Collaboration Tests,https://github.com/ritchiey/rspec-varys,/u/pushcx,1
+0,2015-02-18 20:58:11 -0600,"/t/javascript,/t/web",The Case for Flux,https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6,/u/dmnd,7
+0,2015-02-19 10:01:48 -0600,"/t/ruby,/t/web","How to Fix ""toplevel constant Foo referenced by Bar::Baz:Foo"" in Rails",http://www.enotagain.com/essays/how-to-fix-toplevel-constant-foo-referenced-by-bar-baz-foo-in-rails.html,/u/gregnavis,1
+0,2015-02-18 15:24:28 -0600,/t/security,Another update on the Truecrypt audit,http://blog.cryptographyengineering.com/2015/02/another-update-on-truecrypt-audit.html,/u/kyle,13
+0,2015-02-19 00:20:00 -0600,"/t/mobile,/t/networking","T-Mobile CEO Slams AT&T, Verizon Spectrum Stranglehold",http://www.dslreports.com/shownews/TMobile-CEO-Slams-ATT-Verizon-Spectrum-Stranglehold-132692,/u/cnst,4
+0,2015-02-18 11:48:42 -0600,/t/c,The Lost Art of C Structure Packing,http://www.catb.org/esr/structure-packing/?src=yc,/u/pushcx,17
+9,2015-02-18 14:09:28 -0600,/t/security,TrackMeNot,http://cs.nyu.edu/trackmenot/,/u/jm,7

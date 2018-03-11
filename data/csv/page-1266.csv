@@ -1,25 +1,25 @@
-0,2014-08-18 12:56:28 -0500,['/t/javascript'],"Mixins, Forwarding, and Delegation in JavaScript",http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html,/u/pushcx,2
-13,2014-08-18 06:00:15 -0500,"['/t/culture', '/t/programming']","“So, you work in IT?”",http://www.pixelmonkey.org/2014/08/18/it,/u/amontalenti,10
-0,2014-08-18 16:12:10 -0500,"['/t/pdf', '/t/show', '/t/design', '/t/law', '/t/web']",Līberum Cōnsilium: A system design for moderated deliberation.,https://bytebucket.org/djarvis/world-politics/raw/master/xml/tex/manual.pdf,/u/thangalin,1
-0,2014-08-18 15:41:51 -0500,['/t/practices'],5 Productivity Tips for Developers,http://lauris.github.io/productivity/2014/08/18/productivity-tips-developers/,/u/lauris,1
-0,2014-08-18 06:18:37 -0500,"['/t/programming', '/t/windows']",CMake Tools for Visual Studio,https://cmaketools.codeplex.com/,/u/BruceM,4
-0,2014-08-18 11:57:17 -0500,"['/t/c', '/t/programming']",C++11/14 idioms I use every day,http://seshbot.com/blog/2014/08/16/modern-c-plus-plus-idioms-i-use-every-day/,/u/penberg,1
-2,2014-08-17 19:38:21 -0500,['/t/go'],"Golang patterns for serving on-demand, generated content",http://blog.gitorious.org/2014/08/11/golang-patterns-for-serving-on-demand-generated-content/,/u/journeysquid,9
-8,2014-08-17 09:32:33 -0500,"['/t/security', '/t/unix']",Unix Wildcards Gone Wild,http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt,/u/jcs,11
-0,2014-08-18 07:02:39 -0500,"['/t/go', '/t/programming']",i6502 - A 6502 Emulator,http://ariejan.github.io/i6502/,/u/cmacrae,1
-0,2014-08-18 07:00:00 -0500,['/t/windows'],Windows Notifications Demystified,http://developer.telerik.com/featured/windows-notifications-demystified/,/u/remotesynth,1
-3,2014-08-17 21:46:19 -0500,"['/t/programming', '/t/python']",Abstracting Control Flow,http://hackflow.com/blog/2013/10/08/abstracting-control-flow/,/u/Suor,2
-0,2014-08-17 14:21:02 -0500,"['/t/pdf', '/t/compsci']",Principles of Antifragile Software,http://arxiv.org/pdf/1404.3056.pdf,/u/animatronic,9
-0,2014-08-18 05:31:21 -0500,['/t/programming'],Efficient Rendering with Tile Local Storage (SIGGRAPH 2014),http://community.arm.com/docs/DOC-8916,/u/BruceM,1
-0,2014-08-17 17:29:52 -0500,"['/t/video', '/t/reversing']",CryptoShark: Interactive code tracer for reverse-engineering proprietary software,https://youtube.com/watch?v=hzDsxtcRavY,/u/oleavr,6
-0,2014-08-17 12:02:57 -0500,"['/t/slides', '/t/video', '/t/mobile', '/t/security']",The Secret Life of SIM Cards,http://simhacks.github.io/defcon-21/,/u/journeysquid,9
-3,2014-08-17 14:51:21 -0500,"['/t/pdf', '/t/compsci', '/t/distributed']",Towards Consistency Oblivious Programming,http://mcg.cs.tau.ac.il/papers/opodis2011-oblivious.pdf,/u/animatronic,3
-2,2014-08-16 22:41:32 -0500,"['/t/show', '/t/release']",More Modest,http://sigusr2.net/more-modest.html,/u/apg,12
-0,2014-08-17 16:55:19 -0500,['/t/security'],"NSA Backdoor Part 2, BULLDOZER: And, Learn How to DIY a NSA Hardware Implant",http://resources.infosecinstitute.com/nsa-bios-backdoor-aka-god-mode-malware-part-2-bulldozer/,/u/lattera,1
-0,2014-08-17 16:54:29 -0500,['/t/security'],NSA BIOS Backdoor a.k.a. God Mode Malware Part 1: DEITYBOUNCE,http://resources.infosecinstitute.com/nsa-bios-backdoor-god-mode-malware-deitybounce/,/u/lattera,1
-6,2014-08-17 15:29:14 -0500,"['/t/video', '/t/finance', '/t/satire']",Last Week Tonight With John Oliver - Argentina Default,https://www.youtube.com/watch?v=5DnGOukmEIE,/u/animatronic,3
-0,2014-08-17 15:49:09 -0500,['/t/python'],Elegant n-gram generation in Python,http://locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/,/u/striglia,1
-0,2014-08-17 15:34:36 -0500,"['/t/compsci', '/t/databases', '/t/programming']",Probabilistic Data Structures for Data Analytics,http://bigsnarf.wordpress.com/2013/02/08/probabilistic-data-structures-for-data-analytics/,/u/animatronic,1
-0,2014-08-17 12:17:14 -0500,"['/t/video', '/t/science']",Invisible Water Floating Foil Boat- Actually a Dense Gas... Called SULFUR HEXAFLUORIDE,https://www.youtube.com/watch?v=DzLX96VWTkc,/u/animatronic,1
-0,2014-08-17 10:51:50 -0500,['/t/javascript'],A curated list of angular directives,http://angular-js.in/,/u/kanakiyajay,1
-3,2014-08-16 14:38:26 -0500,"['/t/compsci', '/t/databases', '/t/distributed']",bloomd: a Redis-like network daemon for storing bloom filters,https://github.com/armon/bloomd,/u/amontalenti,11
+0,2014-08-18 12:56:28 -0500,/t/javascript,"Mixins, Forwarding, and Delegation in JavaScript",http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html,/u/pushcx,2
+13,2014-08-18 06:00:15 -0500,"/t/culture,/t/programming","“So, you work in IT?”",http://www.pixelmonkey.org/2014/08/18/it,/u/amontalenti,10
+0,2014-08-18 16:12:10 -0500,"/t/pdf,/t/show,/t/design,/t/law,/t/web",Līberum Cōnsilium: A system design for moderated deliberation.,https://bytebucket.org/djarvis/world-politics/raw/master/xml/tex/manual.pdf,/u/thangalin,1
+0,2014-08-18 15:41:51 -0500,/t/practices,5 Productivity Tips for Developers,http://lauris.github.io/productivity/2014/08/18/productivity-tips-developers/,/u/lauris,1
+0,2014-08-18 06:18:37 -0500,"/t/programming,/t/windows",CMake Tools for Visual Studio,https://cmaketools.codeplex.com/,/u/BruceM,4
+0,2014-08-18 11:57:17 -0500,"/t/c,/t/programming",C++11/14 idioms I use every day,http://seshbot.com/blog/2014/08/16/modern-c-plus-plus-idioms-i-use-every-day/,/u/penberg,1
+2,2014-08-17 19:38:21 -0500,/t/go,"Golang patterns for serving on-demand, generated content",http://blog.gitorious.org/2014/08/11/golang-patterns-for-serving-on-demand-generated-content/,/u/journeysquid,9
+8,2014-08-17 09:32:33 -0500,"/t/security,/t/unix",Unix Wildcards Gone Wild,http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt,/u/jcs,11
+0,2014-08-18 07:02:39 -0500,"/t/go,/t/programming",i6502 - A 6502 Emulator,http://ariejan.github.io/i6502/,/u/cmacrae,1
+0,2014-08-18 07:00:00 -0500,/t/windows,Windows Notifications Demystified,http://developer.telerik.com/featured/windows-notifications-demystified/,/u/remotesynth,1
+3,2014-08-17 21:46:19 -0500,"/t/programming,/t/python",Abstracting Control Flow,http://hackflow.com/blog/2013/10/08/abstracting-control-flow/,/u/Suor,2
+0,2014-08-17 14:21:02 -0500,"/t/pdf,/t/compsci",Principles of Antifragile Software,http://arxiv.org/pdf/1404.3056.pdf,/u/animatronic,9
+0,2014-08-18 05:31:21 -0500,/t/programming,Efficient Rendering with Tile Local Storage (SIGGRAPH 2014),http://community.arm.com/docs/DOC-8916,/u/BruceM,1
+0,2014-08-17 17:29:52 -0500,"/t/video,/t/reversing",CryptoShark: Interactive code tracer for reverse-engineering proprietary software,https://youtube.com/watch?v=hzDsxtcRavY,/u/oleavr,6
+0,2014-08-17 12:02:57 -0500,"/t/slides,/t/video,/t/mobile,/t/security",The Secret Life of SIM Cards,http://simhacks.github.io/defcon-21/,/u/journeysquid,9
+3,2014-08-17 14:51:21 -0500,"/t/pdf,/t/compsci,/t/distributed",Towards Consistency Oblivious Programming,http://mcg.cs.tau.ac.il/papers/opodis2011-oblivious.pdf,/u/animatronic,3
+2,2014-08-16 22:41:32 -0500,"/t/show,/t/release",More Modest,http://sigusr2.net/more-modest.html,/u/apg,12
+0,2014-08-17 16:55:19 -0500,/t/security,"NSA Backdoor Part 2, BULLDOZER: And, Learn How to DIY a NSA Hardware Implant",http://resources.infosecinstitute.com/nsa-bios-backdoor-aka-god-mode-malware-part-2-bulldozer/,/u/lattera,1
+0,2014-08-17 16:54:29 -0500,/t/security,NSA BIOS Backdoor a.k.a. God Mode Malware Part 1: DEITYBOUNCE,http://resources.infosecinstitute.com/nsa-bios-backdoor-god-mode-malware-deitybounce/,/u/lattera,1
+6,2014-08-17 15:29:14 -0500,"/t/video,/t/finance,/t/satire",Last Week Tonight With John Oliver - Argentina Default,https://www.youtube.com/watch?v=5DnGOukmEIE,/u/animatronic,3
+0,2014-08-17 15:49:09 -0500,/t/python,Elegant n-gram generation in Python,http://locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/,/u/striglia,1
+0,2014-08-17 15:34:36 -0500,"/t/compsci,/t/databases,/t/programming",Probabilistic Data Structures for Data Analytics,http://bigsnarf.wordpress.com/2013/02/08/probabilistic-data-structures-for-data-analytics/,/u/animatronic,1
+0,2014-08-17 12:17:14 -0500,"/t/video,/t/science",Invisible Water Floating Foil Boat- Actually a Dense Gas... Called SULFUR HEXAFLUORIDE,https://www.youtube.com/watch?v=DzLX96VWTkc,/u/animatronic,1
+0,2014-08-17 10:51:50 -0500,/t/javascript,A curated list of angular directives,http://angular-js.in/,/u/kanakiyajay,1
+3,2014-08-16 14:38:26 -0500,"/t/compsci,/t/databases,/t/distributed",bloomd: a Redis-like network daemon for storing bloom filters,https://github.com/armon/bloomd,/u/amontalenti,11

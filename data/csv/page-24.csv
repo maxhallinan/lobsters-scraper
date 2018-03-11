@@ -1,25 +1,25 @@
-0,2018-02-13 21:31:52 -0600,"['/t/job', '/t/practices']",The Open Guide to Equity Compensation,https://github.com/jlevy/og-equity-compensation,/u/friendlysock,1
-8,2018-02-12 18:14:05 -0600,"['/t/show', '/t/c', '/t/compilers', '/t/python']",Forth Lisp Python Continuum,https://github.com/asrp/flpc,/u/asrp,11
-51,2018-02-12 16:54:13 -0600,['/t/mac'],The Threat to the Mac: the Growing Popularity of Non-Native Apps,https://daringfireball.net/2018/02/non_native_apps_threat_to_mac,/u/calvin,18
-4,2018-02-12 20:19:46 -0600,['/t/job'],Position Development is hiring (NYC),http://positiondev.com/work.html,/u/horrorcheck,10
-1,2018-02-13 16:09:57 -0600,"['/t/api', '/t/databases', '/t/ruby']",When Rollback is not the Solution but the Problem,https://making.dia.com/when-rollback-is-not-the-solution-but-the-problem-25fa490e220a,/u/kulte,1
-0,2018-02-12 15:32:42 -0600,"['/t/formalmethods', '/t/javascript']",Modeling Redux with TLA+,https://www.hillelwayne.com/post/tla-redux/,/u/hwayne,20
-0,2018-02-13 06:14:54 -0600,"['/t/debugging', '/t/networking', '/t/security']",A Man-in-the-Middle Attack in the Wild (2011),https://jcs.org/notaweblog/2011/08/17/a_man-in-the-middle_attack_in_the_wild,/u/pushcx,7
-0,2018-02-13 15:23:18 -0600,"['/t/historical', '/t/programming']",The Game Designer’s Calculator,https://dig1000holes.wordpress.com/2018/02/07/the-game-designers-calculator/,/u/akkartik,2
-5,2018-02-13 07:15:38 -0600,"['/t/pdf', '/t/c', '/t/formalmethods', '/t/testing']",Software Verification: Testing vs Model-Checking - Comparative Evaluation of State of the Art (2017),https://www.sosy-lab.org/research/pub/2017-HVC.Software_Verification_Testing_vs_Model_Checking.pdf,/u/nickpsecurity,3
-0,2018-02-13 08:28:38 -0600,['/t/databases'],CrateDB Lab Notes: Extending Support for Scalar Subqueries,https://crate.io/lab-notes-extending-support-scalar-subqueries/,/u/nslater,5
-0,2018-02-13 14:59:32 -0600,"['/t/c', '/t/programming']",comp.lang.c's Frequently Asked Questions,http://www.c-faq.com,/u/zge,2
-0,2018-02-13 14:44:53 -0600,['/t/practices'],Apple’s Software “Problem” and “Fixing” It (via twitter),https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20,/u/calvin,2
-1,2018-02-13 03:17:37 -0600,"['/t/css', '/t/web']",A List of CSS Frameworks,http://www.cssreflex.com/css-frameworks/,/u/wyclif,6
-0,2018-02-13 08:47:58 -0600,"['/t/c++', '/t/debugging']",Inspector - A drop-anywhere C++ REPL,https://github.com/inspector-repl/inspector,/u/johnLate,4
-0,2018-02-13 10:30:35 -0600,"['/t/crypto', '/t/rust']",Wire's Rust implementation of the Double Ratchet Algorithm,https://github.com/wireapp/proteus,/u/jstoja,3
-0,2018-02-13 11:21:49 -0600,"['/t/browsers', '/t/javascript', '/t/programming']","React-based, kefir instrumented minesweeper game",https://github.com/tweinfeld/minesweeper,/u/tweinf,1
-8,2018-02-12 15:27:09 -0600,"['/t/art', '/t/science']",Photo of a Single Atom,https://www.epsrc.ac.uk/newsevents/news/single-trapped-atom-captures-science-photography-competitions-top-prize/,/u/mempko,17
-0,2018-02-13 16:19:05 -0600,"['/t/video', '/t/programming']",Acts as Conference 2009 The Grand Unified Theory by Jim Weirich,https://www.youtube.com/watch?v=NLT7Qcn_PmI,/u/zdsmith,1
-2,2018-02-12 11:49:31 -0600,['/t/programming'],Interview with Brad Chamberlain about a productive parallel programming language called Chapel,https://notamonadtutorial.com/interview-with-brad-chamberlain-about-chapel-a-productive-parallel-programming-language-8f4127eeb721,/u/unbalancedparentheses,17
-1,2018-02-13 14:41:48 -0600,['/t/science'],Quantum Control: Scientists Develop Metamaterial from Complex Twin Qubits,http://en.misis.ru/university/news/science/2018-01/5146/,/u/stsp,1
-0,2018-02-13 10:27:21 -0600,"['/t/pdf', '/t/plt', '/t/python']",The ABC Structure Editor,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.3304&rep=rep1&type=pdf,/u/lorddimwit,2
-0,2018-02-13 07:21:43 -0600,['/t/java'],APIs To Be Removed from Java 10,http://marxsoftware.blogspot.com/2018/02/apis-to-be-removed-from-java-10.html,/u/calvin,3
-0,2018-02-13 07:20:45 -0600,"['/t/programming', '/t/python']",Virtual Environments Demystified,https://meribold.github.io/python/2018/02/13/virtual-environments-9487/,/u/calvin,3
-0,2018-02-13 08:48:22 -0600,"['/t/slides', '/t/python']",The Future of Python Dependency Management,https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management,/u/mjohnsey,2
-0,2018-02-13 07:23:34 -0600,"['/t/programming', '/t/windows']",Zombie Processes are Eating your Memory,https://randomascii.wordpress.com/2018/02/11/zombie-processes-are-eating-your-memory/,/u/calvin,2
+0,2018-02-13 21:31:52 -0600,"/t/job,/t/practices",The Open Guide to Equity Compensation,https://github.com/jlevy/og-equity-compensation,/u/friendlysock,1
+8,2018-02-12 18:14:05 -0600,"/t/show,/t/c,/t/compilers,/t/python",Forth Lisp Python Continuum,https://github.com/asrp/flpc,/u/asrp,11
+51,2018-02-12 16:54:13 -0600,/t/mac,The Threat to the Mac: the Growing Popularity of Non-Native Apps,https://daringfireball.net/2018/02/non_native_apps_threat_to_mac,/u/calvin,18
+4,2018-02-12 20:19:46 -0600,/t/job,Position Development is hiring (NYC),http://positiondev.com/work.html,/u/horrorcheck,10
+1,2018-02-13 16:09:57 -0600,"/t/api,/t/databases,/t/ruby",When Rollback is not the Solution but the Problem,https://making.dia.com/when-rollback-is-not-the-solution-but-the-problem-25fa490e220a,/u/kulte,1
+0,2018-02-12 15:32:42 -0600,"/t/formalmethods,/t/javascript",Modeling Redux with TLA+,https://www.hillelwayne.com/post/tla-redux/,/u/hwayne,20
+0,2018-02-13 06:14:54 -0600,"/t/debugging,/t/networking,/t/security",A Man-in-the-Middle Attack in the Wild (2011),https://jcs.org/notaweblog/2011/08/17/a_man-in-the-middle_attack_in_the_wild,/u/pushcx,7
+0,2018-02-13 15:23:18 -0600,"/t/historical,/t/programming",The Game Designer’s Calculator,https://dig1000holes.wordpress.com/2018/02/07/the-game-designers-calculator/,/u/akkartik,2
+5,2018-02-13 07:15:38 -0600,"/t/pdf,/t/c,/t/formalmethods,/t/testing",Software Verification: Testing vs Model-Checking - Comparative Evaluation of State of the Art (2017),https://www.sosy-lab.org/research/pub/2017-HVC.Software_Verification_Testing_vs_Model_Checking.pdf,/u/nickpsecurity,3
+0,2018-02-13 08:28:38 -0600,/t/databases,CrateDB Lab Notes: Extending Support for Scalar Subqueries,https://crate.io/lab-notes-extending-support-scalar-subqueries/,/u/nslater,5
+0,2018-02-13 14:59:32 -0600,"/t/c,/t/programming",comp.lang.c's Frequently Asked Questions,http://www.c-faq.com,/u/zge,2
+0,2018-02-13 14:44:53 -0600,/t/practices,Apple’s Software “Problem” and “Fixing” It (via twitter),https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20,/u/calvin,2
+1,2018-02-13 03:17:37 -0600,"/t/css,/t/web",A List of CSS Frameworks,http://www.cssreflex.com/css-frameworks/,/u/wyclif,6
+0,2018-02-13 08:47:58 -0600,"/t/c++,/t/debugging",Inspector - A drop-anywhere C++ REPL,https://github.com/inspector-repl/inspector,/u/johnLate,4
+0,2018-02-13 10:30:35 -0600,"/t/crypto,/t/rust",Wire's Rust implementation of the Double Ratchet Algorithm,https://github.com/wireapp/proteus,/u/jstoja,3
+0,2018-02-13 11:21:49 -0600,"/t/browsers,/t/javascript,/t/programming","React-based, kefir instrumented minesweeper game",https://github.com/tweinfeld/minesweeper,/u/tweinf,1
+8,2018-02-12 15:27:09 -0600,"/t/art,/t/science",Photo of a Single Atom,https://www.epsrc.ac.uk/newsevents/news/single-trapped-atom-captures-science-photography-competitions-top-prize/,/u/mempko,17
+0,2018-02-13 16:19:05 -0600,"/t/video,/t/programming",Acts as Conference 2009 The Grand Unified Theory by Jim Weirich,https://www.youtube.com/watch?v=NLT7Qcn_PmI,/u/zdsmith,1
+2,2018-02-12 11:49:31 -0600,/t/programming,Interview with Brad Chamberlain about a productive parallel programming language called Chapel,https://notamonadtutorial.com/interview-with-brad-chamberlain-about-chapel-a-productive-parallel-programming-language-8f4127eeb721,/u/unbalancedparentheses,17
+1,2018-02-13 14:41:48 -0600,/t/science,Quantum Control: Scientists Develop Metamaterial from Complex Twin Qubits,http://en.misis.ru/university/news/science/2018-01/5146/,/u/stsp,1
+0,2018-02-13 10:27:21 -0600,"/t/pdf,/t/plt,/t/python",The ABC Structure Editor,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.3304&rep=rep1&type=pdf,/u/lorddimwit,2
+0,2018-02-13 07:21:43 -0600,/t/java,APIs To Be Removed from Java 10,http://marxsoftware.blogspot.com/2018/02/apis-to-be-removed-from-java-10.html,/u/calvin,3
+0,2018-02-13 07:20:45 -0600,"/t/programming,/t/python",Virtual Environments Demystified,https://meribold.github.io/python/2018/02/13/virtual-environments-9487/,/u/calvin,3
+0,2018-02-13 08:48:22 -0600,"/t/slides,/t/python",The Future of Python Dependency Management,https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management,/u/mjohnsey,2
+0,2018-02-13 07:23:34 -0600,"/t/programming,/t/windows",Zombie Processes are Eating your Memory,https://randomascii.wordpress.com/2018/02/11/zombie-processes-are-eating-your-memory/,/u/calvin,2

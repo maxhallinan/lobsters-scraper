@@ -1,25 +1,25 @@
-0,2013-12-19 22:14:41 -0600,['/t/ruby'],Spice up your Chef recipes with Chef Sugar,https://sethvargo.com/spice-up-your-recipes-with-chef-sugar/,/u/sethvargo,1
-0,2013-12-19 14:25:22 -0600,"['/t/javascript', '/t/web']",Koa - next generation web framework for node.js,http://koajs.com,/u/janogonzalez,3
-0,2013-12-19 12:44:22 -0600,['/t/security'],"Report Suggests NSA Engaged In Financial Manipulation, Changing Money In Bank Accounts",http://www.techdirt.com/articles/20131218/14533925607/intelligence-task-force-hints-nsa-manipulating-financial-systems-changing-amounts-bank-accounts.shtml,/u/jm,2
-0,2013-12-18 21:22:58 -0600,"['/t/news', '/t/privacy', '/t/security']",Saab wins Brazil jet deal after NSA spying sours Boeing bid,http://www.reuters.com/article/2013/12/18/brazil-jets-idUSL2N0JX17W20131218,/u/journeysquid,6
-0,2013-12-19 08:14:14 -0600,['/t/web'],Moving to Static and Keeping Your Toys,http://flippinawesome.org/2013/12/16/moving-to-static-and-keeping-your-toys/,/u/remotesynth,1
-0,2013-12-18 20:58:50 -0600,"['/t/cryptocurrencies', '/t/finance']","Bitcoin, Magical Thinking, and Political Ideology",https://al3x.net/2013/12/18/bitcoin.html,/u/journeysquid,5
-0,2013-12-18 22:26:59 -0600,['/t/web'],Camera and Video Control with HTML5,http://davidwalsh.name/browser-camera,/u/dotcom,2
-0,2013-12-18 22:24:28 -0600,['/t/web'],Responsive Layouts with CSS3 - Artsy Engineering,http://artsy.github.io/blog/2012/01/17/responsive-layouts-with-css3/,/u/dotcom,2
-0,2013-12-18 17:01:19 -0600,['/t/openbsd'],Request for Funding OpenBSD Project's Electricity,http://marc.info/?l=openbsd-misc&m=138730448307723&w=2,/u/virtualroot,4
-0,2013-12-18 15:03:04 -0600,['/t/c'],"The C Programming Language, by HP LoveCraft",http://www.bobhobbs.com/files/kr_lovecraft.html,/u/zmcartor,5
-4,2013-12-18 13:00:27 -0600,"['/t/show', '/t/web']",How to Set Up a Hacker News Clone on AWS,http://www.lauradhamilton.com/how-to-set-up-a-hacker-news-clone-on-aws,/u/laura,2
-0,2013-12-18 21:05:27 -0600,"['/t/compsci', '/t/programming']",Data Structure Visualization,http://www.cs.usfca.edu/~galles/visualization/Algorithms.html,/u/journeysquid,2
-0,2013-12-18 10:02:05 -0600,['/t/security'],RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis,http://www.cs.tau.ac.il/~tromer/acoustic/,/u/bevacqua,7
-0,2013-12-18 11:40:32 -0600,"['/t/cryptocurrencies', '/t/finance']",Bitcoin price plunges as China clampdown escalates,http://www.nbcnews.com/business/bitcoin-price-plunges-china-clampdown-escalates-2D11765766,/u/journeysquid,3
-1,2013-12-17 22:18:32 -0600,"['/t/api', '/t/c', '/t/openbsd', '/t/unix']",On the matter of strlcpy/strlcat acceptance by industry,http://marc.info/?l=openbsd-tech&m=138733933417096&w=2,/u/tedu,11
-0,2013-12-18 16:15:30 -0600,['/t/erlang'],Lergic: An embedded datalog-like logic programming DSL for Erlang.,https://github.com/JoeOsborn/lergic,/u/SeanTAllen,1
-8,2013-12-18 00:42:00 -0600,['/t/practices'],"""Become An iOS Developer In 8 Weeks"": The Truth About Hack Schools",http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools,/u/tedu,4
-0,2013-12-18 14:56:31 -0600,['/t/design'],Organizing your OpenSCAD code: Part I,http://blog.cubehero.com/2013/12/18/organizing-your-openscad-code-part-i/,/u/iamwil,1
-0,2013-12-17 22:05:15 -0600,['/t/scaling'],Framework Benchmarks Round 8,http://www.techempower.com/blog/2013/12/17/framework-benchmarks-round-8/,/u/journeysquid,6
-0,2013-12-18 08:55:52 -0600,['/t/javascript'],Short Guide to Javascript Gotchas,http://blog.codacy.com/short-guide-js-gotchas/,/u/qbit,1
-0,2013-12-17 19:25:08 -0600,"['/t/databases', '/t/programming']",The Log: What every software engineer should know about real-time data's unifying abstraction,http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying,/u/journeysquid,7
-0,2013-12-17 21:30:22 -0600,"['/t/release', '/t/web']","websocketd: Like inetd, but for WebSockets",https://github.com/joewalnes/websocketd,/u/jcs,5
-2,2013-12-17 14:12:00 -0600,"['/t/security', '/t/web']",Insecure Data Storage in Subway Ordering for California (ZippyYum) 3.4 iOS mobile application,http://article.gmane.org/gmane.comp.security.full-disclosure/91205,/u/eplumlee,6
-1,2013-12-18 01:05:00 -0600,['/t/ruby'],What's new in Rails 4.1,http://coherence.io/blog/2013/12/17/whats-new-in-rails-4-1.html,/u/jcs,1
-7,2013-12-17 09:55:04 -0600,['/t/practices'],"How to Answer the Question ""What Was Your Last Salary?""",http://www.linkedin.com/today/post/article/20131217070749-52594-how-to-answer-the-question-what-was-your-last-salary,/u/jm,5
+0,2013-12-19 22:14:41 -0600,/t/ruby,Spice up your Chef recipes with Chef Sugar,https://sethvargo.com/spice-up-your-recipes-with-chef-sugar/,/u/sethvargo,1
+0,2013-12-19 14:25:22 -0600,"/t/javascript,/t/web",Koa - next generation web framework for node.js,http://koajs.com,/u/janogonzalez,3
+0,2013-12-19 12:44:22 -0600,/t/security,"Report Suggests NSA Engaged In Financial Manipulation, Changing Money In Bank Accounts",http://www.techdirt.com/articles/20131218/14533925607/intelligence-task-force-hints-nsa-manipulating-financial-systems-changing-amounts-bank-accounts.shtml,/u/jm,2
+0,2013-12-18 21:22:58 -0600,"/t/news,/t/privacy,/t/security",Saab wins Brazil jet deal after NSA spying sours Boeing bid,http://www.reuters.com/article/2013/12/18/brazil-jets-idUSL2N0JX17W20131218,/u/journeysquid,6
+0,2013-12-19 08:14:14 -0600,/t/web,Moving to Static and Keeping Your Toys,http://flippinawesome.org/2013/12/16/moving-to-static-and-keeping-your-toys/,/u/remotesynth,1
+0,2013-12-18 20:58:50 -0600,"/t/cryptocurrencies,/t/finance","Bitcoin, Magical Thinking, and Political Ideology",https://al3x.net/2013/12/18/bitcoin.html,/u/journeysquid,5
+0,2013-12-18 22:26:59 -0600,/t/web,Camera and Video Control with HTML5,http://davidwalsh.name/browser-camera,/u/dotcom,2
+0,2013-12-18 22:24:28 -0600,/t/web,Responsive Layouts with CSS3 - Artsy Engineering,http://artsy.github.io/blog/2012/01/17/responsive-layouts-with-css3/,/u/dotcom,2
+0,2013-12-18 17:01:19 -0600,/t/openbsd,Request for Funding OpenBSD Project's Electricity,http://marc.info/?l=openbsd-misc&m=138730448307723&w=2,/u/virtualroot,4
+0,2013-12-18 15:03:04 -0600,/t/c,"The C Programming Language, by HP LoveCraft",http://www.bobhobbs.com/files/kr_lovecraft.html,/u/zmcartor,5
+4,2013-12-18 13:00:27 -0600,"/t/show,/t/web",How to Set Up a Hacker News Clone on AWS,http://www.lauradhamilton.com/how-to-set-up-a-hacker-news-clone-on-aws,/u/laura,2
+0,2013-12-18 21:05:27 -0600,"/t/compsci,/t/programming",Data Structure Visualization,http://www.cs.usfca.edu/~galles/visualization/Algorithms.html,/u/journeysquid,2
+0,2013-12-18 10:02:05 -0600,/t/security,RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis,http://www.cs.tau.ac.il/~tromer/acoustic/,/u/bevacqua,7
+0,2013-12-18 11:40:32 -0600,"/t/cryptocurrencies,/t/finance",Bitcoin price plunges as China clampdown escalates,http://www.nbcnews.com/business/bitcoin-price-plunges-china-clampdown-escalates-2D11765766,/u/journeysquid,3
+1,2013-12-17 22:18:32 -0600,"/t/api,/t/c,/t/openbsd,/t/unix",On the matter of strlcpy/strlcat acceptance by industry,http://marc.info/?l=openbsd-tech&m=138733933417096&w=2,/u/tedu,11
+0,2013-12-18 16:15:30 -0600,/t/erlang,Lergic: An embedded datalog-like logic programming DSL for Erlang.,https://github.com/JoeOsborn/lergic,/u/SeanTAllen,1
+8,2013-12-18 00:42:00 -0600,/t/practices,"""Become An iOS Developer In 8 Weeks"": The Truth About Hack Schools",http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools,/u/tedu,4
+0,2013-12-18 14:56:31 -0600,/t/design,Organizing your OpenSCAD code: Part I,http://blog.cubehero.com/2013/12/18/organizing-your-openscad-code-part-i/,/u/iamwil,1
+0,2013-12-17 22:05:15 -0600,/t/scaling,Framework Benchmarks Round 8,http://www.techempower.com/blog/2013/12/17/framework-benchmarks-round-8/,/u/journeysquid,6
+0,2013-12-18 08:55:52 -0600,/t/javascript,Short Guide to Javascript Gotchas,http://blog.codacy.com/short-guide-js-gotchas/,/u/qbit,1
+0,2013-12-17 19:25:08 -0600,"/t/databases,/t/programming",The Log: What every software engineer should know about real-time data's unifying abstraction,http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying,/u/journeysquid,7
+0,2013-12-17 21:30:22 -0600,"/t/release,/t/web","websocketd: Like inetd, but for WebSockets",https://github.com/joewalnes/websocketd,/u/jcs,5
+2,2013-12-17 14:12:00 -0600,"/t/security,/t/web",Insecure Data Storage in Subway Ordering for California (ZippyYum) 3.4 iOS mobile application,http://article.gmane.org/gmane.comp.security.full-disclosure/91205,/u/eplumlee,6
+1,2013-12-18 01:05:00 -0600,/t/ruby,What's new in Rails 4.1,http://coherence.io/blog/2013/12/17/whats-new-in-rails-4-1.html,/u/jcs,1
+7,2013-12-17 09:55:04 -0600,/t/practices,"How to Answer the Question ""What Was Your Last Salary?""",http://www.linkedin.com/today/post/article/20131217070749-52594-how-to-answer-the-question-what-was-your-last-salary,/u/jm,5

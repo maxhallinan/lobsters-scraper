@@ -1,25 +1,25 @@
-0,2016-01-03 15:09:41 -0600,"['/t/show', '/t/perl']",Released an alpha version of my Perl 6 Apache Kafka client,https://github.com/mempko/PKafka,/u/mempko,9
-0,2016-01-04 11:56:07 -0600,"['/t/javascript', '/t/programming', '/t/web']",Angular 2 Components for AngularJS Developers,https://angularclass.com/angular-2-components-angularjs-developers/,/u/patrickjs,1
-0,2016-01-04 07:59:05 -0600,['/t/practices'],Why I quit my dream job in web design,http://www.webdesignerdepot.com/2016/01/why-i-quit-my-dream-job-in-web-design/,/u/flyingfisch,2
-3,2016-01-03 12:45:38 -0600,['/t/practices'],The Best Way to Hire Developers,http://www.daedtech.com/best-way-hire-developers/,/u/jitterted,10
-0,2016-01-04 01:11:39 -0600,"['/t/design', '/t/practices']",Transitioning to SCSS at Scale,https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/,/u/joshuacc,3
-0,2016-01-04 03:27:25 -0600,['/t/go'],rakyll/gom - A visual interface to work with runtime profiling data for Go,https://github.com/rakyll/gom,/u/ngrilly,2
-0,2016-01-03 10:31:44 -0600,"['/t/video', '/t/security']",Towards (reasonably) trustworthy x86 laptops,https://media.ccc.de/v/32c3-7352-towards_reasonably_trustworthy_x86_laptops#video,/u/omphalos,11
-0,2016-01-04 03:34:55 -0600,"['/t/mobile', '/t/swift', '/t/web']",Getting started with Zewo,https://akrabat.com/getting-started-with-zewo/,/u/kellytk,1
-0,2016-01-03 11:27:03 -0600,['/t/python'],The Elements of Python Style,https://github.com/amontalenti/elements-of-python-style,/u/amontalenti,5
-1,2016-01-03 01:42:42 -0600,"['/t/assembly', '/t/games', '/t/reversing', '/t/security']",BurgerTime (1982) Finally Cracked,https://ia801505.us.archive.org/33/items/BurgerTime4amCrack/BurgerTime%20(4am%20crack).txt,/u/pushcx,16
-0,2016-01-03 05:03:26 -0600,['/t/haskell'],Extensible Effects in the van Laarhoven Free Monad,http://aaronlevin.ca/post/136494428283/extensible-effects-in-the-van-laarhoven-free-monad,/u/ayberkt,10
-0,2016-01-03 20:22:13 -0600,['/t/javascript'],SuperSet: A library that provides the missing Set methods such as map and filter,https://github.com/BYK/superset,/u/joshuacc,1
-2,2016-01-02 20:26:14 -0600,"['/t/video', '/t/ml']",OCaml hip-hop song,https://www.youtube.com/watch?v=9GJd1hLWPbM,/u/gumchum,16
-27,2016-01-02 15:59:01 -0600,['/t/c'],Starting a tech startup with C++,https://medium.com/@jamesperry/starting-a-tech-startup-with-c-6b5d5856e6de#.g066ji3pc,/u/mulander,15
-0,2016-01-03 06:27:52 -0600,['/t/graphics'],Creating Personalized Jigsaw Puzzles,http://ivrl.epfl.ch/research/jigsaw_puzzles,/u/eliezerb,5
-4,2016-01-02 15:23:36 -0600,['/t/programming'],Microkernels are slow and Elvis didn't do no drugs,http://blog.darknedgy.net/technology/2016/01/01/0/,/u/calvin,20
-32,2016-01-02 13:05:34 -0600,['/t/finance'],Economic Inequality,http://paulgraham.com/ineq.html,/u/utzig,9
-0,2016-01-03 12:47:07 -0600,['/t/design'],How To Think Visually Using Visual Analogies,http://anna.vc/post/112863438962/how-to-think-using-visual-analogies,/u/pushcx,1
-0,2016-01-02 09:50:37 -0600,['/t/web'],The shortest possible domain names,http://blog.park.io/articles/the-shortest-possible-domain-names,/u/mikec,15
-0,2016-01-02 16:43:17 -0600,['/t/design'],Design for developers,http://twolfson.com/2016-01-02-design-for-developers,/u/twolfson,6
-1,2016-01-02 18:00:49 -0600,['/t/compsci'],Zopfli Optimization of PNGs,https://blog.codinghorror.com/zopfli-optimization-literally-free-bandwidth/,/u/pushcx,8
-1,2016-01-02 13:53:57 -0600,"['/t/linux', '/t/networking', '/t/release']",A bittorrent filesystem based on FUSE,https://github.com/johang/btfs,/u/calvin,13
-0,2016-01-02 15:35:19 -0600,['/t/openbsd'],"Sometimes, processors need love too",http://functionallyparanoid.com/2016/01/02/sometimes-processors-need-love-too/,/u/mulander,11
-8,2016-01-02 11:33:02 -0600,"['/t/distributed', '/t/release']",Disque 1.0 RC1 is out!,http://antirez.com/news/100,/u/355E3B,7
-0,2016-01-03 01:44:03 -0600,"['/t/dotnet', '/t/programming']",About Cassandra on Docker with F#,https://lenadroid.github.io/posts/cassandra-docker-fsharp.html,/u/JeremyMorgan,2
+0,2016-01-03 15:09:41 -0600,"/t/show,/t/perl",Released an alpha version of my Perl 6 Apache Kafka client,https://github.com/mempko/PKafka,/u/mempko,9
+0,2016-01-04 11:56:07 -0600,"/t/javascript,/t/programming,/t/web",Angular 2 Components for AngularJS Developers,https://angularclass.com/angular-2-components-angularjs-developers/,/u/patrickjs,1
+0,2016-01-04 07:59:05 -0600,/t/practices,Why I quit my dream job in web design,http://www.webdesignerdepot.com/2016/01/why-i-quit-my-dream-job-in-web-design/,/u/flyingfisch,2
+3,2016-01-03 12:45:38 -0600,/t/practices,The Best Way to Hire Developers,http://www.daedtech.com/best-way-hire-developers/,/u/jitterted,10
+0,2016-01-04 01:11:39 -0600,"/t/design,/t/practices",Transitioning to SCSS at Scale,https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/,/u/joshuacc,3
+0,2016-01-04 03:27:25 -0600,/t/go,rakyll/gom - A visual interface to work with runtime profiling data for Go,https://github.com/rakyll/gom,/u/ngrilly,2
+0,2016-01-03 10:31:44 -0600,"/t/video,/t/security",Towards (reasonably) trustworthy x86 laptops,https://media.ccc.de/v/32c3-7352-towards_reasonably_trustworthy_x86_laptops#video,/u/omphalos,11
+0,2016-01-04 03:34:55 -0600,"/t/mobile,/t/swift,/t/web",Getting started with Zewo,https://akrabat.com/getting-started-with-zewo/,/u/kellytk,1
+0,2016-01-03 11:27:03 -0600,/t/python,The Elements of Python Style,https://github.com/amontalenti/elements-of-python-style,/u/amontalenti,5
+1,2016-01-03 01:42:42 -0600,"/t/assembly,/t/games,/t/reversing,/t/security",BurgerTime (1982) Finally Cracked,https://ia801505.us.archive.org/33/items/BurgerTime4amCrack/BurgerTime%20(4am%20crack).txt,/u/pushcx,16
+0,2016-01-03 05:03:26 -0600,/t/haskell,Extensible Effects in the van Laarhoven Free Monad,http://aaronlevin.ca/post/136494428283/extensible-effects-in-the-van-laarhoven-free-monad,/u/ayberkt,10
+0,2016-01-03 20:22:13 -0600,/t/javascript,SuperSet: A library that provides the missing Set methods such as map and filter,https://github.com/BYK/superset,/u/joshuacc,1
+2,2016-01-02 20:26:14 -0600,"/t/video,/t/ml",OCaml hip-hop song,https://www.youtube.com/watch?v=9GJd1hLWPbM,/u/gumchum,16
+27,2016-01-02 15:59:01 -0600,/t/c,Starting a tech startup with C++,https://medium.com/@jamesperry/starting-a-tech-startup-with-c-6b5d5856e6de#.g066ji3pc,/u/mulander,15
+0,2016-01-03 06:27:52 -0600,/t/graphics,Creating Personalized Jigsaw Puzzles,http://ivrl.epfl.ch/research/jigsaw_puzzles,/u/eliezerb,5
+4,2016-01-02 15:23:36 -0600,/t/programming,Microkernels are slow and Elvis didn't do no drugs,http://blog.darknedgy.net/technology/2016/01/01/0/,/u/calvin,20
+32,2016-01-02 13:05:34 -0600,/t/finance,Economic Inequality,http://paulgraham.com/ineq.html,/u/utzig,9
+0,2016-01-03 12:47:07 -0600,/t/design,How To Think Visually Using Visual Analogies,http://anna.vc/post/112863438962/how-to-think-using-visual-analogies,/u/pushcx,1
+0,2016-01-02 09:50:37 -0600,/t/web,The shortest possible domain names,http://blog.park.io/articles/the-shortest-possible-domain-names,/u/mikec,15
+0,2016-01-02 16:43:17 -0600,/t/design,Design for developers,http://twolfson.com/2016-01-02-design-for-developers,/u/twolfson,6
+1,2016-01-02 18:00:49 -0600,/t/compsci,Zopfli Optimization of PNGs,https://blog.codinghorror.com/zopfli-optimization-literally-free-bandwidth/,/u/pushcx,8
+1,2016-01-02 13:53:57 -0600,"/t/linux,/t/networking,/t/release",A bittorrent filesystem based on FUSE,https://github.com/johang/btfs,/u/calvin,13
+0,2016-01-02 15:35:19 -0600,/t/openbsd,"Sometimes, processors need love too",http://functionallyparanoid.com/2016/01/02/sometimes-processors-need-love-too/,/u/mulander,11
+8,2016-01-02 11:33:02 -0600,"/t/distributed,/t/release",Disque 1.0 RC1 is out!,http://antirez.com/news/100,/u/355E3B,7
+0,2016-01-03 01:44:03 -0600,"/t/dotnet,/t/programming",About Cassandra on Docker with F#,https://lenadroid.github.io/posts/cassandra-docker-fsharp.html,/u/JeremyMorgan,2

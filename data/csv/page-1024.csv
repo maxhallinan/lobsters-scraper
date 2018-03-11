@@ -1,25 +1,25 @@
-0,2015-09-17 05:33:05 -0500,"['/t/satire', '/t/vcs']",git punish – The Missing Git Command,http://git-punish.io/,/u/fcbsd,15
-26,2015-09-16 14:23:50 -0500,"['/t/programming', '/t/rust']",Asynchronous IO in Rust,https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965,/u/DrM,19
-3,2015-09-17 12:48:24 -0500,"['/t/culture', '/t/programming']",Growing a Programmer,http://www.ccs.neu.edu/home/matthias/Thoughts/Growing_a_Programmer.html,/u/zem,5
-0,2015-09-17 10:47:01 -0500,"['/t/haskell', '/t/programming']",Refinement Types 101 - LiquidHaskell,http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2013/01/01/refinement-types-101.lhs,/u/pushcx,3
-0,2015-09-17 06:38:05 -0500,['/t/hardware'],"'Hedgehog' Robots Hop, Tumble in Microgravity",http://www.jpl.nasa.gov/news/news.php?feature=4712,/u/kghose,5
-0,2015-09-17 14:22:43 -0500,"['/t/video', '/t/javascript']",NodeBots: JavaScript Powered Robots with Johnny-Five,https://vimeo.com/138862373,/u/JeremyMorgan,1
-3,2015-09-17 03:08:41 -0500,"['/t/c', '/t/culture']",The C++ FQA is on GitHub,http://yosefk.com/blog/the-c-fqa-is-on-github.html,/u/mjn,6
-3,2015-09-16 09:51:07 -0500,"['/t/programming', '/t/security']",seL4 publishes a roadmap,https://sel4.systems/Info/Roadmap/,/u/BruceM,11
-0,2015-09-16 07:00:04 -0500,"['/t/javascript', '/t/web']",More ES6 Proxy Traps in Depth,http://ponyfoo.com/articles/more-es6-proxy-traps-in-depth,/u/ponyfoo,4
-15,2015-09-15 14:48:03 -0500,"['/t/linux', '/t/release', '/t/unix']",System XVI: A replacement for systemd,https://github.com/ServiceManager/ServiceManager/blob/master/README.md,/u/calvin,19
-24,2015-09-15 13:43:30 -0500,"['/t/linux', '/t/windows']",A Small Rant About Being IDE Dependent,http://compositecode.com/2015/09/15/ide-dependency/,/u/JeremyMorgan,18
-0,2015-09-16 05:23:14 -0500,['/t/python'],A Web Crawler With asyncio Coroutines,http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html,/u/av,6
-10,2015-09-15 11:46:04 -0500,"['/t/practices', '/t/programming', '/t/release']",Documentation: A Proposed Expansion of Stack Overflow,http://meta.stackoverflow.com/questions/303865/warlords-of-documentation-a-proposed-expansion-of-stack-overflow,/u/pushcx,20
-0,2015-09-16 10:25:22 -0500,"['/t/culture', '/t/practices']",Optimizing the Sustainable Pace,http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html,/u/dpaola2,3
-1,2015-09-15 09:03:35 -0500,"['/t/practices', '/t/web']",The new browsers,http://www.ouvre-boite.com/new-browsers/,/u/julien,14
-5,2015-09-15 12:30:32 -0500,"['/t/hardware', '/t/security']",Xerox PARC's Self-Destructing Chip,http://www.computerworld.com.au/article/584274/xerox-parc-new-chip-will-self-destruct-10-seconds/,/u/zgrep,10
-0,2015-09-15 16:48:20 -0500,['/t/math'],Alternative Axiomatic Set Theories,http://plato.stanford.edu/entries/settheory-alternative/,/u/michaelochurch,11
-3,2015-09-15 07:50:35 -0500,"['/t/pdf', '/t/math']",Category Theory: A Gentle Introduction,http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf,/u/craigstuntz,20
-1,2015-09-15 17:25:30 -0500,['/t/security'],New Android lockscreen hack gives attackers full access to locked devices,http://arstechnica.com/security/2015/09/new-android-lockscreen-hack-gives-attackers-full-access-to-locked-devices/,/u/antifuchs,7
-0,2015-09-15 10:26:28 -0500,['/t/lisp'],makelisp: a lisp implementation in GNU Make,https://github.com/shinh/makelisp,/u/antifuchs,16
-0,2015-09-15 21:42:25 -0500,"['/t/design', '/t/web']",Building an Enterprise CSS Framework,https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082,/u/joshuacc,4
-0,2015-09-15 22:13:28 -0500,['/t/culture'],‘Hackers’ at 20,http://passcode.csmonitor.com/hackers,/u/pushcx,6
-0,2015-09-15 20:38:51 -0500,"['/t/networking', '/t/reversing']",Learning more about the GFW's active probing system,https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system,/u/1amzave,3
-1,2015-09-15 06:42:05 -0500,"['/t/javascript', '/t/web']",ES6 Proxy Traps in Depth,http://ponyfoo.com/articles/es6-proxy-traps-in-depth,/u/ponyfoo,6
-1,2015-09-14 16:32:34 -0500,"['/t/security', '/t/web']",Let's Encrypt's First Certificate Is Now Live,https://letsencrypt.org/2015/09/14/our-first-cert.html,/u/jcs,51
+0,2015-09-17 05:33:05 -0500,"/t/satire,/t/vcs",git punish – The Missing Git Command,http://git-punish.io/,/u/fcbsd,15
+26,2015-09-16 14:23:50 -0500,"/t/programming,/t/rust",Asynchronous IO in Rust,https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965,/u/DrM,19
+3,2015-09-17 12:48:24 -0500,"/t/culture,/t/programming",Growing a Programmer,http://www.ccs.neu.edu/home/matthias/Thoughts/Growing_a_Programmer.html,/u/zem,5
+0,2015-09-17 10:47:01 -0500,"/t/haskell,/t/programming",Refinement Types 101 - LiquidHaskell,http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2013/01/01/refinement-types-101.lhs,/u/pushcx,3
+0,2015-09-17 06:38:05 -0500,/t/hardware,"'Hedgehog' Robots Hop, Tumble in Microgravity",http://www.jpl.nasa.gov/news/news.php?feature=4712,/u/kghose,5
+0,2015-09-17 14:22:43 -0500,"/t/video,/t/javascript",NodeBots: JavaScript Powered Robots with Johnny-Five,https://vimeo.com/138862373,/u/JeremyMorgan,1
+3,2015-09-17 03:08:41 -0500,"/t/c,/t/culture",The C++ FQA is on GitHub,http://yosefk.com/blog/the-c-fqa-is-on-github.html,/u/mjn,6
+3,2015-09-16 09:51:07 -0500,"/t/programming,/t/security",seL4 publishes a roadmap,https://sel4.systems/Info/Roadmap/,/u/BruceM,11
+0,2015-09-16 07:00:04 -0500,"/t/javascript,/t/web",More ES6 Proxy Traps in Depth,http://ponyfoo.com/articles/more-es6-proxy-traps-in-depth,/u/ponyfoo,4
+15,2015-09-15 14:48:03 -0500,"/t/linux,/t/release,/t/unix",System XVI: A replacement for systemd,https://github.com/ServiceManager/ServiceManager/blob/master/README.md,/u/calvin,19
+24,2015-09-15 13:43:30 -0500,"/t/linux,/t/windows",A Small Rant About Being IDE Dependent,http://compositecode.com/2015/09/15/ide-dependency/,/u/JeremyMorgan,18
+0,2015-09-16 05:23:14 -0500,/t/python,A Web Crawler With asyncio Coroutines,http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html,/u/av,6
+10,2015-09-15 11:46:04 -0500,"/t/practices,/t/programming,/t/release",Documentation: A Proposed Expansion of Stack Overflow,http://meta.stackoverflow.com/questions/303865/warlords-of-documentation-a-proposed-expansion-of-stack-overflow,/u/pushcx,20
+0,2015-09-16 10:25:22 -0500,"/t/culture,/t/practices",Optimizing the Sustainable Pace,http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html,/u/dpaola2,3
+1,2015-09-15 09:03:35 -0500,"/t/practices,/t/web",The new browsers,http://www.ouvre-boite.com/new-browsers/,/u/julien,14
+5,2015-09-15 12:30:32 -0500,"/t/hardware,/t/security",Xerox PARC's Self-Destructing Chip,http://www.computerworld.com.au/article/584274/xerox-parc-new-chip-will-self-destruct-10-seconds/,/u/zgrep,10
+0,2015-09-15 16:48:20 -0500,/t/math,Alternative Axiomatic Set Theories,http://plato.stanford.edu/entries/settheory-alternative/,/u/michaelochurch,11
+3,2015-09-15 07:50:35 -0500,"/t/pdf,/t/math",Category Theory: A Gentle Introduction,http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf,/u/craigstuntz,20
+1,2015-09-15 17:25:30 -0500,/t/security,New Android lockscreen hack gives attackers full access to locked devices,http://arstechnica.com/security/2015/09/new-android-lockscreen-hack-gives-attackers-full-access-to-locked-devices/,/u/antifuchs,7
+0,2015-09-15 10:26:28 -0500,/t/lisp,makelisp: a lisp implementation in GNU Make,https://github.com/shinh/makelisp,/u/antifuchs,16
+0,2015-09-15 21:42:25 -0500,"/t/design,/t/web",Building an Enterprise CSS Framework,https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082,/u/joshuacc,4
+0,2015-09-15 22:13:28 -0500,/t/culture,‘Hackers’ at 20,http://passcode.csmonitor.com/hackers,/u/pushcx,6
+0,2015-09-15 20:38:51 -0500,"/t/networking,/t/reversing",Learning more about the GFW's active probing system,https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system,/u/1amzave,3
+1,2015-09-15 06:42:05 -0500,"/t/javascript,/t/web",ES6 Proxy Traps in Depth,http://ponyfoo.com/articles/es6-proxy-traps-in-depth,/u/ponyfoo,6
+1,2015-09-14 16:32:34 -0500,"/t/security,/t/web",Let's Encrypt's First Certificate Is Now Live,https://letsencrypt.org/2015/09/14/our-first-cert.html,/u/jcs,51

@@ -1,25 +1,25 @@
-8,2014-11-03 10:39:58 -0600,['/t/security'],How To Safely Store A Password [2010],http://codahale.com/how-to-safely-store-a-password/,/u/Tkm84,18
-5,2014-11-03 16:08:18 -0600,"['/t/databases', '/t/distributed']","Introducing Dynomite - Making Non-Distributed Databases, Distributed",http://techblog.netflix.com/2014/11/introducing-dynomite.html,/u/kellogh,9
-3,2014-11-03 18:18:51 -0600,['/t/programming'],Pure Programming Language,http://purelang.bitbucket.org/,/u/btbytes,7
-1,2014-11-03 22:48:13 -0600,"['/t/pdf', '/t/compsci']",OpenTuner: An Extensible Framework for Program Autotuning,http://groups.csail.mit.edu/commit/papers/2013/MIT-CSAIL-TR-2013-026.pdf,/u/aysylu,5
-4,2014-11-03 12:08:30 -0600,"['/t/databases', '/t/linux']",Redis latency spikes and the Linux kernel: a few more details,http://antirez.com/news/84,/u/jcs,12
-0,2014-11-04 10:17:03 -0600,['/t/science'],New Clock May End Time As We Know It,http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it,/u/journeysquid,1
-0,2014-11-03 15:43:41 -0600,"['/t/person', '/t/programming']",A Conversation with Arthur Whitney (2009),http://queue.acm.org/detail.cfm?id=1531242,/u/mrfabbri,8
-0,2014-11-04 06:23:18 -0600,['/t/mobile'],What Android 5.0’s Auto-Updating WebView Means for Mobile Apps,http://developer.telerik.com/featured/android-5-0s-auto-updating-webview-means-mobile-apps/,/u/remotesynth,1
-1,2014-11-03 13:57:15 -0600,['/t/haskell'],Monad transformers and parser combinators,https://gist.github.com/tel/df3fa3df530f593646a0,/u/tel,6
-38,2014-11-03 05:07:44 -0600,['/t/ask'],What are you working on this week?,/s/obwnj7/what_are_you_working_on_this_week,/u/lenary,33
-1,2014-11-03 07:06:19 -0600,"['/t/javascript', '/t/web']",Stop Breaking the Web,http://ponyfoo.com/articles/stop-breaking-the-web,/u/szalansky,12
-10,2014-11-02 13:00:30 -0600,['/t/databases'],Why You Should Never Use MongoDB,http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/,/u/tedu,33
-7,2014-11-02 17:46:49 -0600,['/t/programming'],Factor,http://factorcode.org,/u/SeanTAllen,24
-3,2014-11-02 17:22:54 -0600,"['/t/pdf', '/t/programming']",Forth in the USSR,http://soton.mpeforth.com/flag/jfar/vol5/no3/article4.pdf,/u/SeanTAllen,17
-0,2014-11-03 01:55:12 -0600,['/t/math'],Distributed computing with alien technology,http://blog.sigfpe.com/2013/10/distributed-computing-with-alien.html,/u/vg,7
-2,2014-11-02 13:19:47 -0600,"['/t/video', '/t/distributed']",Peter Alvaro's Keynote at RICON 2014 - Outwards from the Middle of the Maze,https://www.youtube.com/watch?v=ggCffvKEJmQ,/u/seako,18
-0,2014-11-03 12:36:47 -0600,['/t/ruby'],Benchmarking Rack Middleware,https://engineering.heroku.com/blogs/2014-11-03-benchmarking-rack-middleware,/u/craigkerstiens,1
-0,2014-11-03 11:25:19 -0600,"['/t/programming', '/t/python']",Build Modular Command-Line Tools with Click,https://www.brianthicks.com/2014/11/03/build-modular-command-line-tools-with-click/,/u/brianhicks,1
-2,2014-11-02 11:04:04 -0600,['/t/programming'],Why Concatenative Programming Matters,http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html,/u/SeanTAllen,21
-4,2014-11-02 13:23:50 -0600,['/t/programming'],Joy Programming Language,http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language,/u/SeanTAllen,12
-2,2014-11-02 10:43:24 -0600,['/t/book'],Thinking Forth,http://thinking-forth.sourceforge.net,/u/SeanTAllen,19
-0,2014-11-02 22:47:38 -0600,['/t/distributed'],Ice Cream and Distributed Systems,http://brooker.co.za/blog/2014/10/25/ice-cream.html,/u/apg,5
-8,2014-11-02 11:05:37 -0600,"['/t/video', '/t/api', '/t/distributed']",Mesos: The Operating System for Your Cluster,https://www.youtube.com/watch?v=LQxnuPcRl4s,/u/aysylu,9
-0,2014-11-02 13:09:53 -0600,['/t/compsci'],Accepted papers for POPL 2015,https://github.com/yallop/popl2015-papers,/u/fabriceleal,9
-0,2014-11-02 17:42:15 -0600,"['/t/compsci', '/t/visualization']",Catching Your CPUs Napping,http://www.brendangregg.com/blog/2014-10-31/cpi-flame-graphs.html,/u/jcs,3
+8,2014-11-03 10:39:58 -0600,/t/security,How To Safely Store A Password [2010],http://codahale.com/how-to-safely-store-a-password/,/u/Tkm84,18
+5,2014-11-03 16:08:18 -0600,"/t/databases,/t/distributed","Introducing Dynomite - Making Non-Distributed Databases, Distributed",http://techblog.netflix.com/2014/11/introducing-dynomite.html,/u/kellogh,9
+3,2014-11-03 18:18:51 -0600,/t/programming,Pure Programming Language,http://purelang.bitbucket.org/,/u/btbytes,7
+1,2014-11-03 22:48:13 -0600,"/t/pdf,/t/compsci",OpenTuner: An Extensible Framework for Program Autotuning,http://groups.csail.mit.edu/commit/papers/2013/MIT-CSAIL-TR-2013-026.pdf,/u/aysylu,5
+4,2014-11-03 12:08:30 -0600,"/t/databases,/t/linux",Redis latency spikes and the Linux kernel: a few more details,http://antirez.com/news/84,/u/jcs,12
+0,2014-11-04 10:17:03 -0600,/t/science,New Clock May End Time As We Know It,http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it,/u/journeysquid,1
+0,2014-11-03 15:43:41 -0600,"/t/person,/t/programming",A Conversation with Arthur Whitney (2009),http://queue.acm.org/detail.cfm?id=1531242,/u/mrfabbri,8
+0,2014-11-04 06:23:18 -0600,/t/mobile,What Android 5.0’s Auto-Updating WebView Means for Mobile Apps,http://developer.telerik.com/featured/android-5-0s-auto-updating-webview-means-mobile-apps/,/u/remotesynth,1
+1,2014-11-03 13:57:15 -0600,/t/haskell,Monad transformers and parser combinators,https://gist.github.com/tel/df3fa3df530f593646a0,/u/tel,6
+38,2014-11-03 05:07:44 -0600,/t/ask,What are you working on this week?,/s/obwnj7/what_are_you_working_on_this_week,/u/lenary,33
+1,2014-11-03 07:06:19 -0600,"/t/javascript,/t/web",Stop Breaking the Web,http://ponyfoo.com/articles/stop-breaking-the-web,/u/szalansky,12
+10,2014-11-02 13:00:30 -0600,/t/databases,Why You Should Never Use MongoDB,http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/,/u/tedu,33
+7,2014-11-02 17:46:49 -0600,/t/programming,Factor,http://factorcode.org,/u/SeanTAllen,24
+3,2014-11-02 17:22:54 -0600,"/t/pdf,/t/programming",Forth in the USSR,http://soton.mpeforth.com/flag/jfar/vol5/no3/article4.pdf,/u/SeanTAllen,17
+0,2014-11-03 01:55:12 -0600,/t/math,Distributed computing with alien technology,http://blog.sigfpe.com/2013/10/distributed-computing-with-alien.html,/u/vg,7
+2,2014-11-02 13:19:47 -0600,"/t/video,/t/distributed",Peter Alvaro's Keynote at RICON 2014 - Outwards from the Middle of the Maze,https://www.youtube.com/watch?v=ggCffvKEJmQ,/u/seako,18
+0,2014-11-03 12:36:47 -0600,/t/ruby,Benchmarking Rack Middleware,https://engineering.heroku.com/blogs/2014-11-03-benchmarking-rack-middleware,/u/craigkerstiens,1
+0,2014-11-03 11:25:19 -0600,"/t/programming,/t/python",Build Modular Command-Line Tools with Click,https://www.brianthicks.com/2014/11/03/build-modular-command-line-tools-with-click/,/u/brianhicks,1
+2,2014-11-02 11:04:04 -0600,/t/programming,Why Concatenative Programming Matters,http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html,/u/SeanTAllen,21
+4,2014-11-02 13:23:50 -0600,/t/programming,Joy Programming Language,http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language,/u/SeanTAllen,12
+2,2014-11-02 10:43:24 -0600,/t/book,Thinking Forth,http://thinking-forth.sourceforge.net,/u/SeanTAllen,19
+0,2014-11-02 22:47:38 -0600,/t/distributed,Ice Cream and Distributed Systems,http://brooker.co.za/blog/2014/10/25/ice-cream.html,/u/apg,5
+8,2014-11-02 11:05:37 -0600,"/t/video,/t/api,/t/distributed",Mesos: The Operating System for Your Cluster,https://www.youtube.com/watch?v=LQxnuPcRl4s,/u/aysylu,9
+0,2014-11-02 13:09:53 -0600,/t/compsci,Accepted papers for POPL 2015,https://github.com/yallop/popl2015-papers,/u/fabriceleal,9
+0,2014-11-02 17:42:15 -0600,"/t/compsci,/t/visualization",Catching Your CPUs Napping,http://www.brendangregg.com/blog/2014-10-31/cpi-flame-graphs.html,/u/jcs,3

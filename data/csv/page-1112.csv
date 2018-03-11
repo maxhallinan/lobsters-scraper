@@ -1,25 +1,25 @@
-0,2015-05-02 09:09:04 -0500,['/t/databases'],elements of scale,http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/,/u/cvsekhar,10
-0,2015-05-02 17:36:00 -0500,"['/t/compsci', '/t/haskell']",Regular Expression Evaluation via Finite Automata (2013),https://pbrisbin.com/,/u/pushcx,3
-0,2015-05-02 14:18:08 -0500,"['/t/hardware', '/t/networking']",Project MF,http://www.projectmf.org/,/u/kyle,4
-0,2015-05-02 14:22:17 -0500,"['/t/c', '/t/haskell', '/t/programming']",An Intuitive Use-Case For Monadic Bind And Kleisli Composition,https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/,/u/pushcx,2
-0,2015-05-02 15:42:43 -0500,"['/t/practices', '/t/programming', '/t/release']",Inquiring Minds Want to Know,http://benlakey.com/2015/05/02/inquiring-minds-want-to-know/,/u/byte1,1
-0,2015-05-02 10:33:35 -0500,"['/t/hardware', '/t/satire']",My first week without an Apple Watch,http://mrgan.tumblr.com/post/117864539382/my-first-week-without-an-apple-watch,/u/pushcx,4
-0,2015-05-01 16:44:37 -0500,"['/t/games', '/t/practices', '/t/security']",EarthBound’s Copy Protection,http://earthboundcentral.com/2011/05/earthbounds-copy-protection/,/u/pushcx,16
-1,2015-05-01 13:41:15 -0500,"['/t/rust', '/t/web']",Servo Continues Pushing Forward,http://blog.servo.org/2015/05/01/forward/,/u/gsquire,13
-1,2015-05-01 12:19:32 -0500,['/t/hardware'],Tesla Energy,http://www.teslamotors.com/presskit/teslaenergy,/u/pushcx,16
-0,2015-05-01 17:07:06 -0500,"['/t/hardware', '/t/science']",The facts as we currently know them about the EmDrive and Cannae Drive,https://www.reddit.com/r/Futurology/comments/34cq1b/the_facts_as_we_currently_know_them_about_the/,/u/pushcx,7
-0,2015-05-01 16:52:10 -0500,"['/t/games', '/t/go', '/t/programming', '/t/release']",Porting a NES emulator from Go to Nim,http://hookrace.net/blog/porting-nes-go-nim/,/u/pushcx,6
-10,2015-05-01 11:58:45 -0500,['/t/go'],"serve-dir: ""python -m SimpleHTTPServer"" but fast",https://github.com/maruel/serve-dir,/u/stip,4
-4,2015-05-01 11:48:51 -0500,"['/t/databases', '/t/satire', '/t/security']",The BACKRONYM Vulnerability,http://backronym.fail/,/u/calvin,15
-17,2015-04-30 22:08:50 -0500,"['/t/security', '/t/web']",Deprecating Non-Secure HTTP,https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/,/u/pushcx,17
-0,2015-05-01 14:17:09 -0500,"['/t/netbsd', '/t/unix']",GPU-accelerated video playback with NetBSD on the Raspberry Pi,http://www.cambus.net/gpu-accelerated-video-playback-with-netbsd-on-the-raspberry-pi/,/u/fcambus,5
-0,2015-05-01 20:24:05 -0500,['/t/python'],Introduction to Whoosh!,http://sowingseasons.com/blog/introduction-to-whoosh.html,/u/dh,2
-6,2015-04-30 17:15:01 -0500,['/t/openbsd'],OpenBSD 5.7 Released,http://marc.info/?l=openbsd-misc&m=143043178115828,/u/fcambus,34
-2,2015-05-01 06:58:57 -0500,"['/t/compsci', '/t/programming']",GATE - open source software capable of solving almost any text processing problem,https://gate.ac.uk/,/u/robin,6
-13,2015-05-01 11:20:36 -0500,"['/t/practices', '/t/programming']",The importance of future-proofing,http://www.onebigfluke.com/2015/05/the-importance-of-future-proofing.html,/u/haxor,3
-2,2015-05-01 19:28:05 -0500,"['/t/culture', '/t/databases', '/t/programming']",Snowsuit Zine // issue 05 - NoSQL is Also About Availability and Latency,http://snowsuit.io/issue05.html,/u/apy,4
-0,2015-05-01 17:05:07 -0500,['/t/hardware'],IBM’s Latest Quantum Computing Advance,http://www.technologyreview.com/news/537041/ibm-shows-off-a-quantum-computing-chip/,/u/julienXX,2
-7,2015-05-01 12:06:34 -0500,['/t/law'],Ex-Goldman Sachs Programmer Found Guilty in Split Verdict,http://www.nytimes.com/2015/05/02/business/dealbook/ex-goldman-programmer-found-guilty.html,/u/enn,1
-0,2015-05-01 05:34:20 -0500,"['/t/distributed', '/t/programming']","Orleans, Erlang, Riak Core Distributed Programming Comparison",http://christophermeiklejohn.com/orleans.html,/u/cmeiklejohn,8
-1,2015-04-30 21:02:19 -0500,"['/t/pdf', '/t/haskell']",The Haskell School of Music,http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf,/u/englishm,11
-2,2015-04-30 16:56:55 -0500,"['/t/art', '/t/design']",Printing a wall-sized world map and what was learned from it,http://www.dominik-schwarz.net/potpourri/worldmap/,/u/trousers,10
+0,2015-05-02 09:09:04 -0500,/t/databases,elements of scale,http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/,/u/cvsekhar,10
+0,2015-05-02 17:36:00 -0500,"/t/compsci,/t/haskell",Regular Expression Evaluation via Finite Automata (2013),https://pbrisbin.com/,/u/pushcx,3
+0,2015-05-02 14:18:08 -0500,"/t/hardware,/t/networking",Project MF,http://www.projectmf.org/,/u/kyle,4
+0,2015-05-02 14:22:17 -0500,"/t/c,/t/haskell,/t/programming",An Intuitive Use-Case For Monadic Bind And Kleisli Composition,https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/,/u/pushcx,2
+0,2015-05-02 15:42:43 -0500,"/t/practices,/t/programming,/t/release",Inquiring Minds Want to Know,http://benlakey.com/2015/05/02/inquiring-minds-want-to-know/,/u/byte1,1
+0,2015-05-02 10:33:35 -0500,"/t/hardware,/t/satire",My first week without an Apple Watch,http://mrgan.tumblr.com/post/117864539382/my-first-week-without-an-apple-watch,/u/pushcx,4
+0,2015-05-01 16:44:37 -0500,"/t/games,/t/practices,/t/security",EarthBound’s Copy Protection,http://earthboundcentral.com/2011/05/earthbounds-copy-protection/,/u/pushcx,16
+1,2015-05-01 13:41:15 -0500,"/t/rust,/t/web",Servo Continues Pushing Forward,http://blog.servo.org/2015/05/01/forward/,/u/gsquire,13
+1,2015-05-01 12:19:32 -0500,/t/hardware,Tesla Energy,http://www.teslamotors.com/presskit/teslaenergy,/u/pushcx,16
+0,2015-05-01 17:07:06 -0500,"/t/hardware,/t/science",The facts as we currently know them about the EmDrive and Cannae Drive,https://www.reddit.com/r/Futurology/comments/34cq1b/the_facts_as_we_currently_know_them_about_the/,/u/pushcx,7
+0,2015-05-01 16:52:10 -0500,"/t/games,/t/go,/t/programming,/t/release",Porting a NES emulator from Go to Nim,http://hookrace.net/blog/porting-nes-go-nim/,/u/pushcx,6
+10,2015-05-01 11:58:45 -0500,/t/go,"serve-dir: ""python -m SimpleHTTPServer"" but fast",https://github.com/maruel/serve-dir,/u/stip,4
+4,2015-05-01 11:48:51 -0500,"/t/databases,/t/satire,/t/security",The BACKRONYM Vulnerability,http://backronym.fail/,/u/calvin,15
+17,2015-04-30 22:08:50 -0500,"/t/security,/t/web",Deprecating Non-Secure HTTP,https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/,/u/pushcx,17
+0,2015-05-01 14:17:09 -0500,"/t/netbsd,/t/unix",GPU-accelerated video playback with NetBSD on the Raspberry Pi,http://www.cambus.net/gpu-accelerated-video-playback-with-netbsd-on-the-raspberry-pi/,/u/fcambus,5
+0,2015-05-01 20:24:05 -0500,/t/python,Introduction to Whoosh!,http://sowingseasons.com/blog/introduction-to-whoosh.html,/u/dh,2
+6,2015-04-30 17:15:01 -0500,/t/openbsd,OpenBSD 5.7 Released,http://marc.info/?l=openbsd-misc&m=143043178115828,/u/fcambus,34
+2,2015-05-01 06:58:57 -0500,"/t/compsci,/t/programming",GATE - open source software capable of solving almost any text processing problem,https://gate.ac.uk/,/u/robin,6
+13,2015-05-01 11:20:36 -0500,"/t/practices,/t/programming",The importance of future-proofing,http://www.onebigfluke.com/2015/05/the-importance-of-future-proofing.html,/u/haxor,3
+2,2015-05-01 19:28:05 -0500,"/t/culture,/t/databases,/t/programming",Snowsuit Zine // issue 05 - NoSQL is Also About Availability and Latency,http://snowsuit.io/issue05.html,/u/apy,4
+0,2015-05-01 17:05:07 -0500,/t/hardware,IBM’s Latest Quantum Computing Advance,http://www.technologyreview.com/news/537041/ibm-shows-off-a-quantum-computing-chip/,/u/julienXX,2
+7,2015-05-01 12:06:34 -0500,/t/law,Ex-Goldman Sachs Programmer Found Guilty in Split Verdict,http://www.nytimes.com/2015/05/02/business/dealbook/ex-goldman-programmer-found-guilty.html,/u/enn,1
+0,2015-05-01 05:34:20 -0500,"/t/distributed,/t/programming","Orleans, Erlang, Riak Core Distributed Programming Comparison",http://christophermeiklejohn.com/orleans.html,/u/cmeiklejohn,8
+1,2015-04-30 21:02:19 -0500,"/t/pdf,/t/haskell",The Haskell School of Music,http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf,/u/englishm,11
+2,2015-04-30 16:56:55 -0500,"/t/art,/t/design",Printing a wall-sized world map and what was learned from it,http://www.dominik-schwarz.net/potpourri/worldmap/,/u/trousers,10

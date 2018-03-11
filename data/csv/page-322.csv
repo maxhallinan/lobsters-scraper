@@ -1,25 +1,25 @@
-0,2017-06-20 15:26:40 -0500,"['/t/show', '/t/python']",multipart/form-data parser based on Cython (with support for parsing request chunks),https://github.com/siddhantgoel/streaming-form-data,/u/siddhantgoel,1
-0,2017-06-20 17:03:30 -0500,"['/t/compilers', '/t/games']",Encounter Editor | Interactive Storytelling Tools for Writers,http://www.erasmatazz.com/library/software/encounter-editor.html,/u/friendlysock,2
-0,2017-06-20 03:46:48 -0500,['/t/security'],SecureLogin Protocol,https://github.com/sakurity/securelogin,/u/fcbsd,8
-0,2017-06-19 17:13:14 -0500,"['/t/devops', '/t/security']",Use Certbot to automate the creation of SSL certificates for OpenVPN,http://loige.co/using-lets-encrypt-and-certbot-to-automate-the-creation-of-certificates-for-openvpn/,/u/loige,14
-8,2017-06-19 13:28:13 -0500,"['/t/video', '/t/hardware', '/t/person', '/t/security', '/t/visualization']",Brendan Gregg Shouting in the Datacenter (2008),https://youtu.be/tDacjrSCeq4,/u/cnst,27
-17,2017-06-19 07:27:55 -0500,"['/t/browsers', '/t/privacy']",Panopticlick: Is your browser safe against tracking?,https://panopticlick.eff.org/,/u/unbalancedparentheses,38
-0,2017-06-20 11:03:54 -0500,"['/t/pdf', '/t/practices']",The route to the successful adoption of non-mainstream programming languages,https://esl-website-production.s3.amazonaws.com/uploads/document/file/77/The_route_to_the_successful_adoption_of_non-mainstream_programming_languages_-_Erlang_Solutions_Whitepaper_2017_.pdf,/u/pushcx,2
-0,2017-06-20 04:21:51 -0500,"['/t/programming', '/t/security']",Making Sense of Threat Modeling with STRIDE,https://www.dailydrip.com/blog/making-sense-of-threat-modeling-with-stride.html,/u/franzunix,5
-0,2017-06-20 01:41:54 -0500,['/t/compilers'],Unison: Optimal Code Generation,http://unison-code.github.io/,/u/sanxiyn,6
-6,2017-06-20 11:38:48 -0500,"['/t/ask', '/t/databases']",Multiple NULL values are not UNIQUE in PostgreSQL,https://stackoverflow.com/questions/8289100/create-unique-constraint-with-null-columns,/u/steveno,3
-0,2017-06-19 15:45:55 -0500,"['/t/compsci', '/t/lisp']",Programming-Language Theory Explained for the Working Programmer,https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/,/u/zem,17
-3,2017-06-19 14:07:06 -0500,['/t/elm'],The importance of state ownership in Elm,https://hackernoon.com/the-importance-of-state-ownership-in-elm-72f711ceb244?gi=e4e387d1e4cd,/u/calvin,13
-8,2017-06-19 05:36:13 -0500,['/t/meta'],Tag suggestion: D,/s/iojeg0/tag_suggestion_d,/u/calvin,33
-0,2017-06-20 11:49:35 -0500,['/t/devops'],Get Your Apps to the Poll (Phase)!,http://bit.ly/2tn9jhm,/u/taylor,1
-21,2017-06-19 09:29:47 -0500,"['/t/programming', '/t/testing']",TDD is not a testing practice,http://anthonysciamanna.com/2017/06/18/tdd-is-not-a-testing-practice.html,/u/rdfi,14
-12,2017-06-19 10:26:37 -0500,['/t/practices'],Why we’re betting against real-time team messaging,https://blog.doist.com/why-were-betting-against-real-time-team-messaging-521804a3da09,/u/joshuacc,10
-2,2017-06-19 12:18:23 -0500,['/t/programming'],Om Programming Language,https://sparist.github.io/Om/,/u/nickpsecurity,14
-7,2017-06-19 10:21:23 -0500,"['/t/privacy', '/t/security']",The RNC Files: Inside the Largest US Voter Data Leak,https://www.upguard.com/breaches/the-rnc-files,/u/lukas,9
-4,2017-06-19 12:40:30 -0500,"['/t/pdf', '/t/browsers', '/t/security']",Horcrux: A Password Manager for Paranoids,https://arxiv.org/abs/1706.05085,/u/pushcx,8
-2,2017-06-19 13:43:14 -0500,"['/t/pdf', '/t/release']","VMS Software's OpenVMS Rolling Roadmap, Updated for June 2017",https://www.vmssoftware.com/pdfs/VSI_Roadmap_20170607.pdf,/u/trn,7
-0,2017-06-19 13:54:53 -0500,"['/t/practices', '/t/programming']",Lint open source repositories for common issues,https://github.com/todogroup/repolinter,/u/jumex,4
-1,2017-06-19 12:21:37 -0500,"['/t/distributed', '/t/programming', '/t/security']",Enchilada Programming Language,http://www.enchiladacode.nl/,/u/nickpsecurity,7
-0,2017-06-19 08:19:37 -0500,"['/t/compilers', '/t/compsci', '/t/programming']",Restructor — a system / algorithm to automatically refactor entire code-bases,http://strlen.com/restructor/,/u/sebastien,12
-0,2017-06-19 05:11:16 -0500,"['/t/c++', '/t/graphics', '/t/reversing']",Decyphering the Business Card Raytracer,http://fabiensanglard.net/rayTracing_back_of_business_card/index.php,/u/calvin,17
-15,2017-06-19 10:39:50 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/qwmsve/what_are_you_working_on_this_week,/u/kzisme,16
+0,2017-06-20 15:26:40 -0500,"/t/show,/t/python",multipart/form-data parser based on Cython (with support for parsing request chunks),https://github.com/siddhantgoel/streaming-form-data,/u/siddhantgoel,1
+0,2017-06-20 17:03:30 -0500,"/t/compilers,/t/games",Encounter Editor | Interactive Storytelling Tools for Writers,http://www.erasmatazz.com/library/software/encounter-editor.html,/u/friendlysock,2
+0,2017-06-20 03:46:48 -0500,/t/security,SecureLogin Protocol,https://github.com/sakurity/securelogin,/u/fcbsd,8
+0,2017-06-19 17:13:14 -0500,"/t/devops,/t/security",Use Certbot to automate the creation of SSL certificates for OpenVPN,http://loige.co/using-lets-encrypt-and-certbot-to-automate-the-creation-of-certificates-for-openvpn/,/u/loige,14
+8,2017-06-19 13:28:13 -0500,"/t/video,/t/hardware,/t/person,/t/security,/t/visualization",Brendan Gregg Shouting in the Datacenter (2008),https://youtu.be/tDacjrSCeq4,/u/cnst,27
+17,2017-06-19 07:27:55 -0500,"/t/browsers,/t/privacy",Panopticlick: Is your browser safe against tracking?,https://panopticlick.eff.org/,/u/unbalancedparentheses,38
+0,2017-06-20 11:03:54 -0500,"/t/pdf,/t/practices",The route to the successful adoption of non-mainstream programming languages,https://esl-website-production.s3.amazonaws.com/uploads/document/file/77/The_route_to_the_successful_adoption_of_non-mainstream_programming_languages_-_Erlang_Solutions_Whitepaper_2017_.pdf,/u/pushcx,2
+0,2017-06-20 04:21:51 -0500,"/t/programming,/t/security",Making Sense of Threat Modeling with STRIDE,https://www.dailydrip.com/blog/making-sense-of-threat-modeling-with-stride.html,/u/franzunix,5
+0,2017-06-20 01:41:54 -0500,/t/compilers,Unison: Optimal Code Generation,http://unison-code.github.io/,/u/sanxiyn,6
+6,2017-06-20 11:38:48 -0500,"/t/ask,/t/databases",Multiple NULL values are not UNIQUE in PostgreSQL,https://stackoverflow.com/questions/8289100/create-unique-constraint-with-null-columns,/u/steveno,3
+0,2017-06-19 15:45:55 -0500,"/t/compsci,/t/lisp",Programming-Language Theory Explained for the Working Programmer,https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/,/u/zem,17
+3,2017-06-19 14:07:06 -0500,/t/elm,The importance of state ownership in Elm,https://hackernoon.com/the-importance-of-state-ownership-in-elm-72f711ceb244?gi=e4e387d1e4cd,/u/calvin,13
+8,2017-06-19 05:36:13 -0500,/t/meta,Tag suggestion: D,/s/iojeg0/tag_suggestion_d,/u/calvin,33
+0,2017-06-20 11:49:35 -0500,/t/devops,Get Your Apps to the Poll (Phase)!,http://bit.ly/2tn9jhm,/u/taylor,1
+21,2017-06-19 09:29:47 -0500,"/t/programming,/t/testing",TDD is not a testing practice,http://anthonysciamanna.com/2017/06/18/tdd-is-not-a-testing-practice.html,/u/rdfi,14
+12,2017-06-19 10:26:37 -0500,/t/practices,Why we’re betting against real-time team messaging,https://blog.doist.com/why-were-betting-against-real-time-team-messaging-521804a3da09,/u/joshuacc,10
+2,2017-06-19 12:18:23 -0500,/t/programming,Om Programming Language,https://sparist.github.io/Om/,/u/nickpsecurity,14
+7,2017-06-19 10:21:23 -0500,"/t/privacy,/t/security",The RNC Files: Inside the Largest US Voter Data Leak,https://www.upguard.com/breaches/the-rnc-files,/u/lukas,9
+4,2017-06-19 12:40:30 -0500,"/t/pdf,/t/browsers,/t/security",Horcrux: A Password Manager for Paranoids,https://arxiv.org/abs/1706.05085,/u/pushcx,8
+2,2017-06-19 13:43:14 -0500,"/t/pdf,/t/release","VMS Software's OpenVMS Rolling Roadmap, Updated for June 2017",https://www.vmssoftware.com/pdfs/VSI_Roadmap_20170607.pdf,/u/trn,7
+0,2017-06-19 13:54:53 -0500,"/t/practices,/t/programming",Lint open source repositories for common issues,https://github.com/todogroup/repolinter,/u/jumex,4
+1,2017-06-19 12:21:37 -0500,"/t/distributed,/t/programming,/t/security",Enchilada Programming Language,http://www.enchiladacode.nl/,/u/nickpsecurity,7
+0,2017-06-19 08:19:37 -0500,"/t/compilers,/t/compsci,/t/programming",Restructor — a system / algorithm to automatically refactor entire code-bases,http://strlen.com/restructor/,/u/sebastien,12
+0,2017-06-19 05:11:16 -0500,"/t/c++,/t/graphics,/t/reversing",Decyphering the Business Card Raytracer,http://fabiensanglard.net/rayTracing_back_of_business_card/index.php,/u/calvin,17
+15,2017-06-19 10:39:50 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/qwmsve/what_are_you_working_on_this_week,/u/kzisme,16

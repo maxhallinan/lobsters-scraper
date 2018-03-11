@@ -1,25 +1,25 @@
-7,2017-06-21 06:08:53 -0500,"['/t/linux', '/t/programming', '/t/web']",Opensource real-time comment-engine all in a single executable,https://dyu.github.io/comments/real-time/,/u/dyu,6
-0,2017-06-22 01:01:37 -0500,"['/t/video', '/t/programming']",Winning the War on Error Solving the Halting Problem and Curing Cancer,https://www.youtube.com/watch?v=MdmQUlD7P40,/u/cmeiklejohn,2
-1,2017-06-21 10:13:53 -0500,"['/t/c', '/t/security']",Stack Clashing for Fun and Profit,http://nullprogram.com/blog/2017/06/21/,/u/hobbes,11
-0,2017-06-21 07:13:24 -0500,"['/t/haskell', '/t/performance']",On Competing with C Using Haskell,https://two-wrongs.com/on-competing-with-c-using-haskell,/u/calvin,17
-5,2017-06-21 07:10:05 -0500,"['/t/compsci', '/t/visualization']",Plain old graphs that solve your problems,https://www.zeroequalsfalse.press/2017/03/11/graphs/,/u/calvin,9
-0,2017-06-21 09:15:19 -0500,"['/t/debugging', '/t/programming', '/t/unix']",Debugging SmartOS: Finding Lock Inversions with DTrace,https://zinascii.com/2017/dbg-sos-001.html,/u/dmpk2k,13
-0,2017-06-21 10:28:47 -0500,"['/t/c++', '/t/compilers']",Interfacing to C++ - D Programming Language,https://dlang.org/spec/cpp_interface.html,/u/friendlysock,11
-0,2017-06-21 18:41:56 -0500,"['/t/culture', '/t/historical', '/t/networking']",Minitel: The Online World France Built Before the Web,http://spectrum.ieee.org/computing/networks/minitel-the-online-world-france-built-before-the-web,/u/calvin,7
-0,2017-06-21 15:51:13 -0500,"['/t/elm', '/t/web']",Machine-checked explicit state: An arrow in the heart of complex web applications,https://blog.reifyworks.com/machine-checked-explicit-state-an-arrow-in-the-heart-of-complex-web-applications-bbe1ef2038ed,/u/mcheely,5
-0,2017-06-22 02:14:59 -0500,"['/t/culture', '/t/practices']",How the Holder Report applies to your startup,https://medium.com/@lackera/how-the-holder-report-applies-to-your-startup-8beddaf5477,/u/gkop,2
-0,2017-06-21 15:41:52 -0500,"['/t/compsci', '/t/hardware', '/t/historical']","Tales of the Mirror World, Part 2: From Mainframes to Micros",http://www.filfre.net/2017/06/tales-of-the-mirror-world-part-2-from-mainframes-to-micros/,/u/calvin,4
-0,2017-06-21 13:42:46 -0500,['/t/cryptocurrencies'],OpenZeppelin: a framework to build secure smart contracts,https://openzeppelin.org/,/u/sanxiyn,5
-5,2017-06-20 18:30:38 -0500,['/t/design'],Accessibility according to actual people with disabilities,https://axesslab.com/accessibility-according-to-pwd/,/u/Irene,26
-0,2017-06-21 18:59:37 -0500,"['/t/assembly', '/t/debugging', '/t/reversing']",Kernel driver unpacking x64dbg,http://x64dbg.com/blog/2017/06/08/kernel-driver-unpacking.html,/u/amey,2
-0,2017-06-21 10:10:49 -0500,['/t/c++'],Compile time investigations,http://weaseltrongames.blogspot.com/2017/05/compiler-investigations.html,/u/mikejsavage,6
-0,2017-06-21 13:14:21 -0500,"['/t/video', '/t/programming']",John Carmack Tech Talk with UMKC-SCE,https://www.youtube.com/watch?v=lHLpKzUxjGk,/u/Bystroushaak,4
-0,2017-06-21 15:01:26 -0500,"['/t/browsers', '/t/performance']",Designing for performance: A data-informed approach for Quantum development,https://hacks.mozilla.org/2017/06/designing-for-performance-a-data-informed-approach-for-quantum-development/,/u/dgv,3
-14,2017-06-20 10:20:50 -0500,['/t/web'],Archive it or you will miss it,http://sircmpwn.github.io/2017/06/19/Archive-it-or-miss-it.html,/u/awal,42
-0,2017-06-21 07:07:31 -0500,['/t/compsci'],A Third Perspective on Hygiene,http://blog.brownplt.org/2017/06/20/scope-inference-hygiene.html,/u/pushcx,7
-0,2017-06-21 15:47:33 -0500,"['/t/python', '/t/web']",Dash: Reactive Web Apps in Python,https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503,/u/alynpost,2
-3,2017-06-20 16:18:54 -0500,"['/t/linux', '/t/systemd']",Lennart Poettering's new project: casync — A tool for distributing file system images,http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html,/u/mort,18
-1,2017-06-21 18:56:27 -0500,"['/t/culture', '/t/visualization', '/t/web']",The Decline of Imgur on Reddit and the Rise of Reddit's Native Image Hosting,http://minimaxir.com/2017/06/imgur-decline/,/u/calvin,2
-0,2017-06-21 10:21:18 -0500,"['/t/video', '/t/ios']",John Markoff Interviews Original iPhone Engineering Team Members and Scott Forstall,https://www.macstories.net/news/john-markoff-interviews-original-iphone-engineering-team-members-and-scott-forstall/,/u/rodolfo,3
-0,2017-06-21 07:56:42 -0500,"['/t/ai', '/t/hardware']",Which GPU(s) to Get for Deep Learning,http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/,/u/mjturner,4
-1,2017-06-21 07:50:22 -0500,"['/t/programming', '/t/visualization']",Numbers Every Programmer Should Know By Year,https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html,/u/pushcx,3
+7,2017-06-21 06:08:53 -0500,"/t/linux,/t/programming,/t/web",Opensource real-time comment-engine all in a single executable,https://dyu.github.io/comments/real-time/,/u/dyu,6
+0,2017-06-22 01:01:37 -0500,"/t/video,/t/programming",Winning the War on Error Solving the Halting Problem and Curing Cancer,https://www.youtube.com/watch?v=MdmQUlD7P40,/u/cmeiklejohn,2
+1,2017-06-21 10:13:53 -0500,"/t/c,/t/security",Stack Clashing for Fun and Profit,http://nullprogram.com/blog/2017/06/21/,/u/hobbes,11
+0,2017-06-21 07:13:24 -0500,"/t/haskell,/t/performance",On Competing with C Using Haskell,https://two-wrongs.com/on-competing-with-c-using-haskell,/u/calvin,17
+5,2017-06-21 07:10:05 -0500,"/t/compsci,/t/visualization",Plain old graphs that solve your problems,https://www.zeroequalsfalse.press/2017/03/11/graphs/,/u/calvin,9
+0,2017-06-21 09:15:19 -0500,"/t/debugging,/t/programming,/t/unix",Debugging SmartOS: Finding Lock Inversions with DTrace,https://zinascii.com/2017/dbg-sos-001.html,/u/dmpk2k,13
+0,2017-06-21 10:28:47 -0500,"/t/c++,/t/compilers",Interfacing to C++ - D Programming Language,https://dlang.org/spec/cpp_interface.html,/u/friendlysock,11
+0,2017-06-21 18:41:56 -0500,"/t/culture,/t/historical,/t/networking",Minitel: The Online World France Built Before the Web,http://spectrum.ieee.org/computing/networks/minitel-the-online-world-france-built-before-the-web,/u/calvin,7
+0,2017-06-21 15:51:13 -0500,"/t/elm,/t/web",Machine-checked explicit state: An arrow in the heart of complex web applications,https://blog.reifyworks.com/machine-checked-explicit-state-an-arrow-in-the-heart-of-complex-web-applications-bbe1ef2038ed,/u/mcheely,5
+0,2017-06-22 02:14:59 -0500,"/t/culture,/t/practices",How the Holder Report applies to your startup,https://medium.com/@lackera/how-the-holder-report-applies-to-your-startup-8beddaf5477,/u/gkop,2
+0,2017-06-21 15:41:52 -0500,"/t/compsci,/t/hardware,/t/historical","Tales of the Mirror World, Part 2: From Mainframes to Micros",http://www.filfre.net/2017/06/tales-of-the-mirror-world-part-2-from-mainframes-to-micros/,/u/calvin,4
+0,2017-06-21 13:42:46 -0500,/t/cryptocurrencies,OpenZeppelin: a framework to build secure smart contracts,https://openzeppelin.org/,/u/sanxiyn,5
+5,2017-06-20 18:30:38 -0500,/t/design,Accessibility according to actual people with disabilities,https://axesslab.com/accessibility-according-to-pwd/,/u/Irene,26
+0,2017-06-21 18:59:37 -0500,"/t/assembly,/t/debugging,/t/reversing",Kernel driver unpacking x64dbg,http://x64dbg.com/blog/2017/06/08/kernel-driver-unpacking.html,/u/amey,2
+0,2017-06-21 10:10:49 -0500,/t/c++,Compile time investigations,http://weaseltrongames.blogspot.com/2017/05/compiler-investigations.html,/u/mikejsavage,6
+0,2017-06-21 13:14:21 -0500,"/t/video,/t/programming",John Carmack Tech Talk with UMKC-SCE,https://www.youtube.com/watch?v=lHLpKzUxjGk,/u/Bystroushaak,4
+0,2017-06-21 15:01:26 -0500,"/t/browsers,/t/performance",Designing for performance: A data-informed approach for Quantum development,https://hacks.mozilla.org/2017/06/designing-for-performance-a-data-informed-approach-for-quantum-development/,/u/dgv,3
+14,2017-06-20 10:20:50 -0500,/t/web,Archive it or you will miss it,http://sircmpwn.github.io/2017/06/19/Archive-it-or-miss-it.html,/u/awal,42
+0,2017-06-21 07:07:31 -0500,/t/compsci,A Third Perspective on Hygiene,http://blog.brownplt.org/2017/06/20/scope-inference-hygiene.html,/u/pushcx,7
+0,2017-06-21 15:47:33 -0500,"/t/python,/t/web",Dash: Reactive Web Apps in Python,https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503,/u/alynpost,2
+3,2017-06-20 16:18:54 -0500,"/t/linux,/t/systemd",Lennart Poettering's new project: casync — A tool for distributing file system images,http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html,/u/mort,18
+1,2017-06-21 18:56:27 -0500,"/t/culture,/t/visualization,/t/web",The Decline of Imgur on Reddit and the Rise of Reddit's Native Image Hosting,http://minimaxir.com/2017/06/imgur-decline/,/u/calvin,2
+0,2017-06-21 10:21:18 -0500,"/t/video,/t/ios",John Markoff Interviews Original iPhone Engineering Team Members and Scott Forstall,https://www.macstories.net/news/john-markoff-interviews-original-iphone-engineering-team-members-and-scott-forstall/,/u/rodolfo,3
+0,2017-06-21 07:56:42 -0500,"/t/ai,/t/hardware",Which GPU(s) to Get for Deep Learning,http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/,/u/mjturner,4
+1,2017-06-21 07:50:22 -0500,"/t/programming,/t/visualization",Numbers Every Programmer Should Know By Year,https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html,/u/pushcx,3

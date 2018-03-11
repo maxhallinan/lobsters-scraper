@@ -1,25 +1,25 @@
-0,2013-04-02 13:44:31 -0500,"['/t/security', '/t/web']","Ongoing malware attack targeting Apache hijacks 20,000 sites",http://arstechnica.com/security/2013/04/exclusive-ongoing-malware-attack-targeting-apache-hijacks-20000-sites/,/u/brycv,1
-0,2013-04-01 14:18:55 -0500,['/t/security'],What [Bruce Schneier Has] Been Thinking About,https://www.schneier.com/blog/archives/2013/04/what_ive_been_t.html,/u/jcs,5
-11,2013-03-31 22:25:06 -0500,['/t/meta'],Tell jcs: Nicely done,/s/zvaptn/tell_jcs_nicely_done,/u/kb,14
-1,2013-04-01 17:18:15 -0500,"['/t/networking', '/t/satire']",Further Key Words for Use in RFCs to Indicate Requirement Levels,http://www.rfc-editor.org/rfc/rfc6919.txt,/u/tedu,1
-2,2013-04-01 07:33:28 -0500,['/t/javascript'],Broken Promises,http://www.futurealoof.com/posts/broken-promises.html,/u/ceejbot,1
-0,2013-04-01 10:15:38 -0500,['/t/mac'],Alfred Dev Doctor - Documentation Search for Alfred,http://wmas.it/alfred-dev-doctor,/u/sydlawrence,1
-0,2013-04-01 09:22:11 -0500,['/t/javascript'],The void of undefined in JavaScript,http://shapeshed.com/the-void-of-undefined-in-javascript/,/u/joshuacc,1
-1,2013-03-31 21:51:02 -0500,"['/t/go', '/t/unix']",wingo: A fully-featured window manager written in Go,https://github.com/BurntSushi/wingo,/u/jcs,4
-0,2013-03-31 16:49:50 -0500,"['/t/browsers', '/t/web']",nginx-1.3.15 released with SPDY support,http://mailman.nginx.org/pipermail/nginx/2013-March/038306.html,/u/kb,5
-0,2013-03-31 14:32:50 -0500,['/t/javascript'],"Callbacks are imperative, promises are functional: Node’s biggest missed opportunity",http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/,/u/puffnfresh,2
-0,2013-03-30 11:12:16 -0500,"['/t/security', '/t/visualization']",Keywords in Common Vulnerabilities and Exposures CVE descriptions,http://www.foo.be/cve/,/u/jcs,3
-0,2013-03-30 13:37:13 -0500,"['/t/compsci', '/t/javascript', '/t/programming']",List Out of Lambda,http://stevelosh.com/blog/2013/03/list-out-of-lambda/,/u/kb,2
-0,2013-03-30 11:35:44 -0500,"['/t/pdf', '/t/networking', '/t/security']",Using Netflows for slow portscan detection (2005),https://www.dropbox.com/s/tva2ybzik3if3mx/Malmedal_Master_Thesis.pdf,/u/jcs,2
-2,2013-03-29 15:53:11 -0500,"['/t/release', '/t/ruby']",Signing Ruby on Rails Forms,http://erichmenge.com/blog/2013/03/28/signing-rails-forms/,/u/erichmenge,7
-2,2013-03-29 13:26:49 -0500,"['/t/practices', '/t/ruby']",pv: a command-line interface to pivotal tracker,http://www.psychedeli.ca/2013/03/29/pv-a-shell-interface-for-pivotal-tracker,/u/tubbo,2
-1,2013-03-29 08:01:36 -0500,"['/t/devops', '/t/scaling']",Framework Benchmarks,http://www.techempower.com/blog/2013/03/28/framework-benchmarks/,/u/mkr,3
-3,2013-03-28 21:20:09 -0500,"['/t/databases', '/t/security']",Extra security measures for next week's PostgreSQL releases,http://www.postgresql.org/message-id/14040.1364490185@sss.pgh.pa.us,/u/jcs,3
-0,2013-03-28 12:09:35 -0500,['/t/javascript'],Trampolines in JavaScript,http://raganwald.com/2013/03/28/trampolines-in-javascript.html,/u/puffnfresh,6
-0,2013-03-28 10:03:40 -0500,['/t/javascript'],Applicative Validation in JavaScript,http://brianmckenna.org/blog/applicative_validation_js,/u/puffnfresh,2
-5,2013-03-27 20:00:39 -0500,['/t/news'],The questionable Internet apocalypse,http://gizmodo.com/5992652/that-internet-war-apocalypse-is-a-lie,/u/mkr,4
-0,2013-03-27 10:50:20 -0500,"['/t/security', '/t/web']","There's a Hole in 1,951 Amazon S3 Buckets",https://community.rapid7.com/community/infosec/blog/2013/03/27/1951-open-s3-buckets,/u/jcs,9
-0,2013-03-27 12:43:43 -0500,"['/t/visualization', '/t/web']",Dashing - a dashboard framework,http://shopify.github.com/dashing/,/u/jcs,5
-0,2013-03-27 15:53:00 -0500,"['/t/erlang', '/t/scaling']",Solving the wrong problem,http://joearms.github.com/2013/03/28/solving-the-wrong-problem.html,/u/kyle,3
-0,2013-03-27 13:02:22 -0500,"['/t/event', '/t/ruby']","Railsberry - The European Rails Conference, Krakow, April 2013",http://www.railsberry.com/,/u/jcs,2
-4,2013-03-27 00:46:00 -0500,"['/t/privacy', '/t/web']",Ad industry threatens Firefox users with more ads if Mozilla moves on tracking plans,https://www.computerworld.com/s/article/9237847/Ad_industry_threatens_Firefox_users_with_more_ads_if_Mozilla_moves_on_tracking_plans,/u/jcs,5
+0,2013-04-02 13:44:31 -0500,"/t/security,/t/web","Ongoing malware attack targeting Apache hijacks 20,000 sites",http://arstechnica.com/security/2013/04/exclusive-ongoing-malware-attack-targeting-apache-hijacks-20000-sites/,/u/brycv,1
+0,2013-04-01 14:18:55 -0500,/t/security,What [Bruce Schneier Has] Been Thinking About,https://www.schneier.com/blog/archives/2013/04/what_ive_been_t.html,/u/jcs,5
+11,2013-03-31 22:25:06 -0500,/t/meta,Tell jcs: Nicely done,/s/zvaptn/tell_jcs_nicely_done,/u/kb,14
+1,2013-04-01 17:18:15 -0500,"/t/networking,/t/satire",Further Key Words for Use in RFCs to Indicate Requirement Levels,http://www.rfc-editor.org/rfc/rfc6919.txt,/u/tedu,1
+2,2013-04-01 07:33:28 -0500,/t/javascript,Broken Promises,http://www.futurealoof.com/posts/broken-promises.html,/u/ceejbot,1
+0,2013-04-01 10:15:38 -0500,/t/mac,Alfred Dev Doctor - Documentation Search for Alfred,http://wmas.it/alfred-dev-doctor,/u/sydlawrence,1
+0,2013-04-01 09:22:11 -0500,/t/javascript,The void of undefined in JavaScript,http://shapeshed.com/the-void-of-undefined-in-javascript/,/u/joshuacc,1
+1,2013-03-31 21:51:02 -0500,"/t/go,/t/unix",wingo: A fully-featured window manager written in Go,https://github.com/BurntSushi/wingo,/u/jcs,4
+0,2013-03-31 16:49:50 -0500,"/t/browsers,/t/web",nginx-1.3.15 released with SPDY support,http://mailman.nginx.org/pipermail/nginx/2013-March/038306.html,/u/kb,5
+0,2013-03-31 14:32:50 -0500,/t/javascript,"Callbacks are imperative, promises are functional: Node’s biggest missed opportunity",http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/,/u/puffnfresh,2
+0,2013-03-30 11:12:16 -0500,"/t/security,/t/visualization",Keywords in Common Vulnerabilities and Exposures CVE descriptions,http://www.foo.be/cve/,/u/jcs,3
+0,2013-03-30 13:37:13 -0500,"/t/compsci,/t/javascript,/t/programming",List Out of Lambda,http://stevelosh.com/blog/2013/03/list-out-of-lambda/,/u/kb,2
+0,2013-03-30 11:35:44 -0500,"/t/pdf,/t/networking,/t/security",Using Netflows for slow portscan detection (2005),https://www.dropbox.com/s/tva2ybzik3if3mx/Malmedal_Master_Thesis.pdf,/u/jcs,2
+2,2013-03-29 15:53:11 -0500,"/t/release,/t/ruby",Signing Ruby on Rails Forms,http://erichmenge.com/blog/2013/03/28/signing-rails-forms/,/u/erichmenge,7
+2,2013-03-29 13:26:49 -0500,"/t/practices,/t/ruby",pv: a command-line interface to pivotal tracker,http://www.psychedeli.ca/2013/03/29/pv-a-shell-interface-for-pivotal-tracker,/u/tubbo,2
+1,2013-03-29 08:01:36 -0500,"/t/devops,/t/scaling",Framework Benchmarks,http://www.techempower.com/blog/2013/03/28/framework-benchmarks/,/u/mkr,3
+3,2013-03-28 21:20:09 -0500,"/t/databases,/t/security",Extra security measures for next week's PostgreSQL releases,http://www.postgresql.org/message-id/14040.1364490185@sss.pgh.pa.us,/u/jcs,3
+0,2013-03-28 12:09:35 -0500,/t/javascript,Trampolines in JavaScript,http://raganwald.com/2013/03/28/trampolines-in-javascript.html,/u/puffnfresh,6
+0,2013-03-28 10:03:40 -0500,/t/javascript,Applicative Validation in JavaScript,http://brianmckenna.org/blog/applicative_validation_js,/u/puffnfresh,2
+5,2013-03-27 20:00:39 -0500,/t/news,The questionable Internet apocalypse,http://gizmodo.com/5992652/that-internet-war-apocalypse-is-a-lie,/u/mkr,4
+0,2013-03-27 10:50:20 -0500,"/t/security,/t/web","There's a Hole in 1,951 Amazon S3 Buckets",https://community.rapid7.com/community/infosec/blog/2013/03/27/1951-open-s3-buckets,/u/jcs,9
+0,2013-03-27 12:43:43 -0500,"/t/visualization,/t/web",Dashing - a dashboard framework,http://shopify.github.com/dashing/,/u/jcs,5
+0,2013-03-27 15:53:00 -0500,"/t/erlang,/t/scaling",Solving the wrong problem,http://joearms.github.com/2013/03/28/solving-the-wrong-problem.html,/u/kyle,3
+0,2013-03-27 13:02:22 -0500,"/t/event,/t/ruby","Railsberry - The European Rails Conference, Krakow, April 2013",http://www.railsberry.com/,/u/jcs,2
+4,2013-03-27 00:46:00 -0500,"/t/privacy,/t/web",Ad industry threatens Firefox users with more ads if Mozilla moves on tracking plans,https://www.computerworld.com/s/article/9237847/Ad_industry_threatens_Firefox_users_with_more_ads_if_Mozilla_moves_on_tracking_plans,/u/jcs,5

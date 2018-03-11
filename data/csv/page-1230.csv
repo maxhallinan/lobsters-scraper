@@ -1,25 +1,25 @@
-10,2014-10-22 13:29:17 -0500,"['/t/hardware', '/t/windows']",Watch That Windows Update: FTDI Drivers Are Killing Fake Chips,http://hackaday.com/2014/10/22/watch-that-windows-update-ftdi-drivers-are-killing-fake-chips/,/u/jcs,13
-0,2014-10-23 03:16:20 -0500,"['/t/compsci', '/t/programming']",What is probabilistic programming?,http://www.pl-enthusiast.net/2014/09/08/probabilistic-programming/,/u/nikola,5
-0,2014-10-23 11:47:38 -0500,['/t/go'],Instrumentation by composition,https://engineering.heroku.com/blogs/2014-10-23-instrumentation-by-composition,/u/craigkerstiens,1
-0,2014-10-23 10:57:39 -0500,['/t/math'],Infinite is easier than big,http://www.johndcook.com/blog/2010/09/09/infinite-is-easier-than-big/,/u/RiderOfGiraffes,1
-4,2014-10-22 10:44:03 -0500,"['/t/pdf', '/t/compsci']",Cuckoo Filter: Practically Better Than Bloom,https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf,/u/pushcx,15
-2,2014-10-22 14:44:49 -0500,['/t/compsci'],ASCII and Unicode quotation marks,http://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html,/u/dh,4
-1,2014-10-22 16:35:38 -0500,['/t/science'],The man with the golden blood,http://mosaicscience.com/story/man-golden-blood,/u/journeysquid,4
-0,2014-10-22 11:55:13 -0500,"['/t/linux', '/t/networking']",Fastsocket - scalable TCP socket implementation,https://github.com/fastos/fastsocket,/u/kb,8
-0,2014-10-22 14:52:10 -0500,['/t/linux'],Ubuntu 14.10 Linux 32-bit vs. 64-bit Performance,http://www.phoronix.com/vr.php?view=21043,/u/journeysquid,3
-0,2014-10-22 20:50:13 -0500,"['/t/openbsd', '/t/security', '/t/windows']",Desire to contribute port for MS Windows for LibreSSL,http://www.mail-archive.com/tech@openbsd.org/msg20716.html,/u/journeysquid,1
-3,2014-10-21 19:26:45 -0500,['/t/devops'],Consul Template,https://hashicorp.com/blog/introducing-consul-template.html,/u/stuntgoat,19
-0,2014-10-22 15:02:29 -0500,['/t/security'],Digits - a better way to sign in,https://www.digits.com/,/u/kb,2
-0,2014-10-22 09:10:38 -0500,['/t/devops'],Eight Docker Development Patterns,http://www.hokstad.com/docker/patterns,/u/jpadilla,3
-0,2014-10-22 14:15:56 -0500,['/t/android'],Fragment view state retention: A dirty solution,http://vinsol.com/blog/2014/10/22/fragment-view-state-retention-a-dirty-solution/,/u/vvh,1
-4,2014-10-21 17:01:03 -0500,['/t/culture'],My Day Interviewing For The Service Economy Startup From Hell,http://thebillfold.com/2014/10/my-day-interviewing-for-the-service-economy-startup-from-hell/,/u/kb,23
-3,2014-10-21 15:45:34 -0500,['/t/databases'],A few arguments about Redis Sentinel properties and fail scenarios.,http://antirez.com/news/80,/u/lithp,3
-4,2014-10-21 02:34:35 -0500,['/t/devops'],Is Docker ready for production? Feedbacks of a 2 weeks hands on,https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html,/u/arcatan,22
-5,2014-10-21 06:12:18 -0500,['/t/security'],Backup OpenPGP keys on paper,http://jpadilla.com/post/100355231982/backup-openpgp-keys-on-paper,/u/jpadilla,10
-0,2014-10-21 11:30:10 -0500,"['/t/lisp', '/t/web']","Local State, Global Concerns: Better Snapshot Debugging for Om",http://blog.circleci.com/local-state-global-concerns/,/u/brandonbloom,7
-0,2014-10-21 20:16:32 -0500,['/t/go'],Making and Using Middleware,http://www.alexedwards.net/blog/making-and-using-middleware,/u/bryfry,1
-1,2014-10-20 12:04:21 -0500,"['/t/practices', '/t/unix']",Hints for writing Unix tools,http://monkey.org/~marius/unix-tools-hints.html,/u/jcs,25
-0,2014-10-20 21:29:09 -0500,['/t/culture'],Outside No One is Outside,http://theneweryork.com/outside-one-outside-michael-anzuoni/,/u/pushcx,18
-1,2014-10-20 23:07:35 -0500,['/t/hardware'],High Altitude Balloon Keeps Going,http://hackaday.com/2014/10/19/high-altitude-balloon-keeps-going/,/u/jm,6
-0,2014-10-21 09:43:44 -0500,['/t/culture'],44 engineering management lessons,http://www.defmacro.org/2014/10/03/engman.html,/u/akahn,3
-0,2014-10-21 08:53:35 -0500,"['/t/c', '/t/python']",Writing C in Cython,http://honnibal.wordpress.com/2014/10/21/writing-c-in-cython/,/u/journeysquid,1
+10,2014-10-22 13:29:17 -0500,"/t/hardware,/t/windows",Watch That Windows Update: FTDI Drivers Are Killing Fake Chips,http://hackaday.com/2014/10/22/watch-that-windows-update-ftdi-drivers-are-killing-fake-chips/,/u/jcs,13
+0,2014-10-23 03:16:20 -0500,"/t/compsci,/t/programming",What is probabilistic programming?,http://www.pl-enthusiast.net/2014/09/08/probabilistic-programming/,/u/nikola,5
+0,2014-10-23 11:47:38 -0500,/t/go,Instrumentation by composition,https://engineering.heroku.com/blogs/2014-10-23-instrumentation-by-composition,/u/craigkerstiens,1
+0,2014-10-23 10:57:39 -0500,/t/math,Infinite is easier than big,http://www.johndcook.com/blog/2010/09/09/infinite-is-easier-than-big/,/u/RiderOfGiraffes,1
+4,2014-10-22 10:44:03 -0500,"/t/pdf,/t/compsci",Cuckoo Filter: Practically Better Than Bloom,https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf,/u/pushcx,15
+2,2014-10-22 14:44:49 -0500,/t/compsci,ASCII and Unicode quotation marks,http://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html,/u/dh,4
+1,2014-10-22 16:35:38 -0500,/t/science,The man with the golden blood,http://mosaicscience.com/story/man-golden-blood,/u/journeysquid,4
+0,2014-10-22 11:55:13 -0500,"/t/linux,/t/networking",Fastsocket - scalable TCP socket implementation,https://github.com/fastos/fastsocket,/u/kb,8
+0,2014-10-22 14:52:10 -0500,/t/linux,Ubuntu 14.10 Linux 32-bit vs. 64-bit Performance,http://www.phoronix.com/vr.php?view=21043,/u/journeysquid,3
+0,2014-10-22 20:50:13 -0500,"/t/openbsd,/t/security,/t/windows",Desire to contribute port for MS Windows for LibreSSL,http://www.mail-archive.com/tech@openbsd.org/msg20716.html,/u/journeysquid,1
+3,2014-10-21 19:26:45 -0500,/t/devops,Consul Template,https://hashicorp.com/blog/introducing-consul-template.html,/u/stuntgoat,19
+0,2014-10-22 15:02:29 -0500,/t/security,Digits - a better way to sign in,https://www.digits.com/,/u/kb,2
+0,2014-10-22 09:10:38 -0500,/t/devops,Eight Docker Development Patterns,http://www.hokstad.com/docker/patterns,/u/jpadilla,3
+0,2014-10-22 14:15:56 -0500,/t/android,Fragment view state retention: A dirty solution,http://vinsol.com/blog/2014/10/22/fragment-view-state-retention-a-dirty-solution/,/u/vvh,1
+4,2014-10-21 17:01:03 -0500,/t/culture,My Day Interviewing For The Service Economy Startup From Hell,http://thebillfold.com/2014/10/my-day-interviewing-for-the-service-economy-startup-from-hell/,/u/kb,23
+3,2014-10-21 15:45:34 -0500,/t/databases,A few arguments about Redis Sentinel properties and fail scenarios.,http://antirez.com/news/80,/u/lithp,3
+4,2014-10-21 02:34:35 -0500,/t/devops,Is Docker ready for production? Feedbacks of a 2 weeks hands on,https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html,/u/arcatan,22
+5,2014-10-21 06:12:18 -0500,/t/security,Backup OpenPGP keys on paper,http://jpadilla.com/post/100355231982/backup-openpgp-keys-on-paper,/u/jpadilla,10
+0,2014-10-21 11:30:10 -0500,"/t/lisp,/t/web","Local State, Global Concerns: Better Snapshot Debugging for Om",http://blog.circleci.com/local-state-global-concerns/,/u/brandonbloom,7
+0,2014-10-21 20:16:32 -0500,/t/go,Making and Using Middleware,http://www.alexedwards.net/blog/making-and-using-middleware,/u/bryfry,1
+1,2014-10-20 12:04:21 -0500,"/t/practices,/t/unix",Hints for writing Unix tools,http://monkey.org/~marius/unix-tools-hints.html,/u/jcs,25
+0,2014-10-20 21:29:09 -0500,/t/culture,Outside No One is Outside,http://theneweryork.com/outside-one-outside-michael-anzuoni/,/u/pushcx,18
+1,2014-10-20 23:07:35 -0500,/t/hardware,High Altitude Balloon Keeps Going,http://hackaday.com/2014/10/19/high-altitude-balloon-keeps-going/,/u/jm,6
+0,2014-10-21 09:43:44 -0500,/t/culture,44 engineering management lessons,http://www.defmacro.org/2014/10/03/engman.html,/u/akahn,3
+0,2014-10-21 08:53:35 -0500,"/t/c,/t/python",Writing C in Cython,http://honnibal.wordpress.com/2014/10/21/writing-c-in-cython/,/u/journeysquid,1

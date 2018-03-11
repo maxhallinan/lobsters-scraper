@@ -1,25 +1,25 @@
-5,2015-07-30 11:52:13 -0500,"['/t/programming', '/t/scala']",Testing without mocking in Scala,http://engineering.monsanto.com/2015/07/28/avoiding-mocks/,/u/pushcx,7
-2,2015-07-30 11:44:47 -0500,"['/t/databases', '/t/programming', '/t/ruby']",Ode to Sequel,http://twin.github.io/ode-to-sequel/,/u/pushcx,9
-3,2015-07-30 15:16:36 -0500,['/t/programming'],PrettyDiff.com,http://prettydiff.com/,/u/jm,4
-1,2015-07-30 13:58:48 -0500,"['/t/show', '/t/ruby', '/t/vcs']",Lessons Learned Building a Git-Based Knowledge Base for my SaaS product,https://www.wisecashhq.com/blog/lessons-learned-creating-a-git-based-knowledge-base-for-my-saas-product,/u/thbar,7
-0,2015-07-30 19:07:49 -0500,['/t/programming'],Dependent types in half of D,http://www.infognition.com/blog/2015/dependent_types_in_d.html,/u/zem,3
-0,2015-07-30 09:34:09 -0500,"['/t/haskell', '/t/programming', '/t/web']","Servant, Type Families, and Type-level Everything",http://www.arow.info/blog/posts/2015-07-10-servant-intro.html,/u/pushcx,8
-11,2015-07-29 11:59:26 -0500,['/t/programming'],Crashes only on Wednesdays,http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/,/u/pushcx,46
-0,2015-07-30 12:37:12 -0500,"['/t/programming', '/t/python']","Face swapping with Python, dlib, and OpenCV",http://matthewearl.github.io/2015/07/28/switching-eds-with-python/,/u/av,5
-0,2015-07-30 09:49:01 -0500,"['/t/go', '/t/practices']",Backwards compatibility in go,http://blog.merovius.de/2015/07/29/backwards-compatibility-in-go.html,/u/journeysquid,5
-4,2015-07-30 03:29:32 -0500,"['/t/devops', '/t/mac', '/t/virtualization']",Hyper on Mac OS X: an alternative to boot2docker,https://docs.hyper.sh/get_started/darwin.html,/u/tbronchain,6
-0,2015-07-29 21:45:40 -0500,['/t/vcs'],"Git 2.5, including multiple worktrees and triangular workflows",https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows,/u/antifuchs,19
-1,2015-07-29 22:07:51 -0500,"['/t/video', '/t/api', '/t/lisp']",Demand-Driven Architecture by Kovas Boguta & David Nolen,http://www.infoq.com/presentations/domain-driven-architecture,/u/karlinfox,12
-1,2015-07-30 04:25:04 -0500,"['/t/video', '/t/openbsd']",What Powers Quakecon,http://www.youtube.com/watch?v=mOv62lBdlXU,/u/mulander,4
-0,2015-07-30 14:18:17 -0500,['/t/javascript'],A JavaScript library for internationalization and localization that leverages UTF8,https://github.com/jquery/globalize,/u/dh,1
-5,2015-07-29 08:30:37 -0500,['/t/design'],"Contrast Rebellion - to hell with unreadable, low-contrast texts!",http://contrastrebellion.com/,/u/echoet,26
-0,2015-07-29 19:28:41 -0500,"['/t/hardware', '/t/networking']",Introducing “6-pack”: the first open hardware modular switch,https://code.facebook.com/posts/717010588413497/introducing-6-pack-the-first-open-hardware-modular-switch/,/u/sevan,11
-1,2015-07-29 18:21:42 -0500,['/t/ruby'],RubySpec is Reborn!,http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html,/u/chrisseaton,9
-0,2015-07-29 22:24:49 -0500,"['/t/compsci', '/t/haskell']","Making ad-hoc polymorphism less ad hoc (review, 2014)",http://swizec.com/blog/week-20-making-ad-hoc-polymorphism-less-ad-hoc/swizec/6564,/u/pushcx,7
-5,2015-07-29 10:05:51 -0500,"['/t/privacy', '/t/security', '/t/windows']",Microsoft’s new small print – how your personal data is (ab)used,https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/,/u/hdevalence,14
-2,2015-07-30 10:29:54 -0500,"['/t/culture', '/t/release']",Slack and OSS Communities,https://medium.com/@jedwatson/slack-and-oss-communities-130489aae8,/u/maxholder,3
-10,2015-07-30 02:09:19 -0500,['/t/ask'],Thoughts on a GPG-based chat service,/s/ydsbje/thoughts_on_gpg_based_chat_service,/u/zg,8
-20,2015-07-29 11:46:46 -0500,"['/t/ruby', '/t/scaling']",Scaling Ruby Apps to 1000 Requests per Minute,http://nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html,/u/nateberkopec,9
-0,2015-07-30 02:31:50 -0500,"['/t/release', '/t/science']",Dat goes beta (Versioned dataset collaboration tool),https://usopendata.org/2015/07/29/dat-beta/,/u/mikemccracken,3
-0,2015-07-29 21:07:04 -0500,['/t/science'],Unusual Red Arcs Spotted on Icy Saturn Moon,http://www.jpl.nasa.gov/news/news.php?feature=4671,/u/pushcx,6
-5,2015-07-29 12:59:19 -0500,['/t/java'],A Gentle Introduction to Lockless Concurrency,http://coffeenco.de/articles/lockless_concurrency.html,/u/ifesdjeen,10
+5,2015-07-30 11:52:13 -0500,"/t/programming,/t/scala",Testing without mocking in Scala,http://engineering.monsanto.com/2015/07/28/avoiding-mocks/,/u/pushcx,7
+2,2015-07-30 11:44:47 -0500,"/t/databases,/t/programming,/t/ruby",Ode to Sequel,http://twin.github.io/ode-to-sequel/,/u/pushcx,9
+3,2015-07-30 15:16:36 -0500,/t/programming,PrettyDiff.com,http://prettydiff.com/,/u/jm,4
+1,2015-07-30 13:58:48 -0500,"/t/show,/t/ruby,/t/vcs",Lessons Learned Building a Git-Based Knowledge Base for my SaaS product,https://www.wisecashhq.com/blog/lessons-learned-creating-a-git-based-knowledge-base-for-my-saas-product,/u/thbar,7
+0,2015-07-30 19:07:49 -0500,/t/programming,Dependent types in half of D,http://www.infognition.com/blog/2015/dependent_types_in_d.html,/u/zem,3
+0,2015-07-30 09:34:09 -0500,"/t/haskell,/t/programming,/t/web","Servant, Type Families, and Type-level Everything",http://www.arow.info/blog/posts/2015-07-10-servant-intro.html,/u/pushcx,8
+11,2015-07-29 11:59:26 -0500,/t/programming,Crashes only on Wednesdays,http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/,/u/pushcx,46
+0,2015-07-30 12:37:12 -0500,"/t/programming,/t/python","Face swapping with Python, dlib, and OpenCV",http://matthewearl.github.io/2015/07/28/switching-eds-with-python/,/u/av,5
+0,2015-07-30 09:49:01 -0500,"/t/go,/t/practices",Backwards compatibility in go,http://blog.merovius.de/2015/07/29/backwards-compatibility-in-go.html,/u/journeysquid,5
+4,2015-07-30 03:29:32 -0500,"/t/devops,/t/mac,/t/virtualization",Hyper on Mac OS X: an alternative to boot2docker,https://docs.hyper.sh/get_started/darwin.html,/u/tbronchain,6
+0,2015-07-29 21:45:40 -0500,/t/vcs,"Git 2.5, including multiple worktrees and triangular workflows",https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows,/u/antifuchs,19
+1,2015-07-29 22:07:51 -0500,"/t/video,/t/api,/t/lisp",Demand-Driven Architecture by Kovas Boguta & David Nolen,http://www.infoq.com/presentations/domain-driven-architecture,/u/karlinfox,12
+1,2015-07-30 04:25:04 -0500,"/t/video,/t/openbsd",What Powers Quakecon,http://www.youtube.com/watch?v=mOv62lBdlXU,/u/mulander,4
+0,2015-07-30 14:18:17 -0500,/t/javascript,A JavaScript library for internationalization and localization that leverages UTF8,https://github.com/jquery/globalize,/u/dh,1
+5,2015-07-29 08:30:37 -0500,/t/design,"Contrast Rebellion - to hell with unreadable, low-contrast texts!",http://contrastrebellion.com/,/u/echoet,26
+0,2015-07-29 19:28:41 -0500,"/t/hardware,/t/networking",Introducing “6-pack”: the first open hardware modular switch,https://code.facebook.com/posts/717010588413497/introducing-6-pack-the-first-open-hardware-modular-switch/,/u/sevan,11
+1,2015-07-29 18:21:42 -0500,/t/ruby,RubySpec is Reborn!,http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html,/u/chrisseaton,9
+0,2015-07-29 22:24:49 -0500,"/t/compsci,/t/haskell","Making ad-hoc polymorphism less ad hoc (review, 2014)",http://swizec.com/blog/week-20-making-ad-hoc-polymorphism-less-ad-hoc/swizec/6564,/u/pushcx,7
+5,2015-07-29 10:05:51 -0500,"/t/privacy,/t/security,/t/windows",Microsoft’s new small print – how your personal data is (ab)used,https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/,/u/hdevalence,14
+2,2015-07-30 10:29:54 -0500,"/t/culture,/t/release",Slack and OSS Communities,https://medium.com/@jedwatson/slack-and-oss-communities-130489aae8,/u/maxholder,3
+10,2015-07-30 02:09:19 -0500,/t/ask,Thoughts on a GPG-based chat service,/s/ydsbje/thoughts_on_gpg_based_chat_service,/u/zg,8
+20,2015-07-29 11:46:46 -0500,"/t/ruby,/t/scaling",Scaling Ruby Apps to 1000 Requests per Minute,http://nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html,/u/nateberkopec,9
+0,2015-07-30 02:31:50 -0500,"/t/release,/t/science",Dat goes beta (Versioned dataset collaboration tool),https://usopendata.org/2015/07/29/dat-beta/,/u/mikemccracken,3
+0,2015-07-29 21:07:04 -0500,/t/science,Unusual Red Arcs Spotted on Icy Saturn Moon,http://www.jpl.nasa.gov/news/news.php?feature=4671,/u/pushcx,6
+5,2015-07-29 12:59:19 -0500,/t/java,A Gentle Introduction to Lockless Concurrency,http://coffeenco.de/articles/lockless_concurrency.html,/u/ifesdjeen,10

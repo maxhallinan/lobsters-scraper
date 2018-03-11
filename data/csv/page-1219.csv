@@ -1,25 +1,25 @@
-1,2014-11-12 12:08:32 -0600,"['/t/databases', '/t/distributed']",When does consistency require coordination?,http://www.bailis.org/blog/when-does-consistency-require-coordination/,/u/kb,10
-0,2014-11-12 12:33:45 -0600,['/t/security'],CREAM: the scary SSL attack you’ve probably never heard of,http://tonyarcieri.com/cream-the-scary-ssl-attack-youve-probably-never-heard-of,/u/henkjan,10
-1,2014-11-12 09:21:27 -0600,"['/t/linux', '/t/security']",systemd-resolved DNS cache poisoning,http://seclists.org/oss-sec/2014/q4/592,/u/journeysquid,9
-0,2014-11-12 09:22:39 -0600,['/t/networking'],TCP is harder than it looks,https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.html,/u/journeysquid,10
-3,2014-11-12 05:46:34 -0600,"['/t/haskell', '/t/programming']",Self-Memoizing HTML Rendering via Mutually Recursive Data Types,https://ocharles.org.uk/blog/posts/2014-11-11-memo-html.html,/u/ocharles,10
-4,2014-11-12 01:12:53 -0600,"['/t/slides', '/t/javascript']",React: CSS in JS,https://speakerdeck.com/vjeux/react-css-in-js,/u/davedx,10
-0,2014-11-12 07:43:03 -0600,"['/t/security', '/t/windows']",Microsoft Security Bulletin MS14-066 - Critical,https://technet.microsoft.com/library/security/ms14-066,/u/Tkm84,7
-17,2014-11-12 09:32:38 -0600,"['/t/ask', '/t/ml', '/t/programming']",What Is the Name of This Function?,http://blogs.teamb.com/craigstuntz/2014/11/11/38837/,/u/craigstuntz,9
-3,2014-11-11 14:17:20 -0600,"['/t/privacy', '/t/security']",Visualization of what data is visible to eavesdroppers when using HTTPS and Tor,https://www.eff.org/pages/tor-and-https,/u/mediremi,13
-0,2014-11-12 00:30:33 -0600,"['/t/show', '/t/javascript']",Show: MicroKanren Evaluator,http://functorial.com/mu-kanren/,/u/paf31,5
-0,2014-11-12 10:17:10 -0600,"['/t/programming', '/t/ruby']",So You've Decided to Contribute to Ruby,https://blog.engineyard.com/2014/contribute-to-ruby,/u/PJ,1
-0,2014-11-12 05:58:15 -0600,"['/t/pdf', '/t/programming']",Automation Through On-Board Control Procedures [Rosetta's Software],http://www.rheagroup.com/wp-content/uploads/2014/01/SpaceOps2010_MOIS-OBCP.pdf,/u/davedx,2
-0,2014-11-11 16:20:37 -0600,['/t/compsci'],Intro to Distributed Hash Tables (DHTs),http://www.freedomlayer.org/articles/dht_intro.html,/u/kellogh,10
-1,2014-11-11 14:38:21 -0600,['/t/php'],Announcing the Hack Transpiler,https://code.facebook.com/posts/398235553660954/announcing-the-hack-transpiler/,/u/puffnfresh,9
-0,2014-11-12 06:57:20 -0600,['/t/programming'],Unexpected Truth About UI Test Automation Pilot Projects,http://developer.telerik.com/featured/unexpected-truth-ui-test-automation-pilot-projects/,/u/remotesynth,1
-0,2014-11-12 05:55:13 -0600,"['/t/programming', '/t/web']",The definitive guide to form based website authentication,https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication,/u/ocharles,1
-0,2014-11-11 19:24:54 -0600,"['/t/design', '/t/javascript', '/t/web']",vivus.js - SVG animation,http://maxwellito.github.io/vivus/,/u/flyingfisch,5
-0,2014-11-11 10:16:00 -0600,"['/t/compsci', '/t/databases']",Discovering the Computer Science Behind Postgres Indexes,http://patshaughnessy.net/2014/11/11/discovering-the-computer-science-behind-postgres-indexes,/u/jcs,14
-1,2014-11-11 18:49:05 -0600,['/t/unix'],The Art of Unix Usability (2004),http://www.catb.org/~esr/writings/taouu/html/,/u/roryokane,5
-3,2014-11-11 10:15:37 -0600,"['/t/show', '/t/compsci', '/t/programming']",Quicksort in 3 lines of shell,https://github.com/wyc/snippets/blob/master/sh/qsort/qsort.sh,/u/wyc,7
-0,2014-11-12 00:13:30 -0600,['/t/linux'],Show the most common used terminal commands,http://wikimatze.de/show-the-most-common-used-terminal-commands/,/u/wikimatze,2
-4,2014-11-11 03:37:41 -0600,"['/t/culture', '/t/law']",Help the GNOME Foundation defend the GNOME trademark,http://gnome.org/groupon/,/u/skade,26
-1,2014-11-11 14:08:34 -0600,['/t/python'],Build a Reddit Bot Part 1,http://pythonforengineers.com/build-a-reddit-bot-part-1/,/u/Pyskool,3
-5,2014-11-11 11:49:33 -0600,"['/t/culture', '/t/programming']",Open Source isn’t just about code – other ways in which you can contribute!,http://pragtob.wordpress.com/2014/11/03/open-source-isnt-just-about-code-other-ways-in-which-you-can-contribute/,/u/PragTob,9
-76,2014-11-10 19:50:38 -0600,['/t/ask'],What is the URL to your technical blog?,/s/l7b3iy/what_is_url_your_technical_blog,/u/pxi,49
+1,2014-11-12 12:08:32 -0600,"/t/databases,/t/distributed",When does consistency require coordination?,http://www.bailis.org/blog/when-does-consistency-require-coordination/,/u/kb,10
+0,2014-11-12 12:33:45 -0600,/t/security,CREAM: the scary SSL attack you’ve probably never heard of,http://tonyarcieri.com/cream-the-scary-ssl-attack-youve-probably-never-heard-of,/u/henkjan,10
+1,2014-11-12 09:21:27 -0600,"/t/linux,/t/security",systemd-resolved DNS cache poisoning,http://seclists.org/oss-sec/2014/q4/592,/u/journeysquid,9
+0,2014-11-12 09:22:39 -0600,/t/networking,TCP is harder than it looks,https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.html,/u/journeysquid,10
+3,2014-11-12 05:46:34 -0600,"/t/haskell,/t/programming",Self-Memoizing HTML Rendering via Mutually Recursive Data Types,https://ocharles.org.uk/blog/posts/2014-11-11-memo-html.html,/u/ocharles,10
+4,2014-11-12 01:12:53 -0600,"/t/slides,/t/javascript",React: CSS in JS,https://speakerdeck.com/vjeux/react-css-in-js,/u/davedx,10
+0,2014-11-12 07:43:03 -0600,"/t/security,/t/windows",Microsoft Security Bulletin MS14-066 - Critical,https://technet.microsoft.com/library/security/ms14-066,/u/Tkm84,7
+17,2014-11-12 09:32:38 -0600,"/t/ask,/t/ml,/t/programming",What Is the Name of This Function?,http://blogs.teamb.com/craigstuntz/2014/11/11/38837/,/u/craigstuntz,9
+3,2014-11-11 14:17:20 -0600,"/t/privacy,/t/security",Visualization of what data is visible to eavesdroppers when using HTTPS and Tor,https://www.eff.org/pages/tor-and-https,/u/mediremi,13
+0,2014-11-12 00:30:33 -0600,"/t/show,/t/javascript",Show: MicroKanren Evaluator,http://functorial.com/mu-kanren/,/u/paf31,5
+0,2014-11-12 10:17:10 -0600,"/t/programming,/t/ruby",So You've Decided to Contribute to Ruby,https://blog.engineyard.com/2014/contribute-to-ruby,/u/PJ,1
+0,2014-11-12 05:58:15 -0600,"/t/pdf,/t/programming",Automation Through On-Board Control Procedures [Rosetta's Software],http://www.rheagroup.com/wp-content/uploads/2014/01/SpaceOps2010_MOIS-OBCP.pdf,/u/davedx,2
+0,2014-11-11 16:20:37 -0600,/t/compsci,Intro to Distributed Hash Tables (DHTs),http://www.freedomlayer.org/articles/dht_intro.html,/u/kellogh,10
+1,2014-11-11 14:38:21 -0600,/t/php,Announcing the Hack Transpiler,https://code.facebook.com/posts/398235553660954/announcing-the-hack-transpiler/,/u/puffnfresh,9
+0,2014-11-12 06:57:20 -0600,/t/programming,Unexpected Truth About UI Test Automation Pilot Projects,http://developer.telerik.com/featured/unexpected-truth-ui-test-automation-pilot-projects/,/u/remotesynth,1
+0,2014-11-12 05:55:13 -0600,"/t/programming,/t/web",The definitive guide to form based website authentication,https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication,/u/ocharles,1
+0,2014-11-11 19:24:54 -0600,"/t/design,/t/javascript,/t/web",vivus.js - SVG animation,http://maxwellito.github.io/vivus/,/u/flyingfisch,5
+0,2014-11-11 10:16:00 -0600,"/t/compsci,/t/databases",Discovering the Computer Science Behind Postgres Indexes,http://patshaughnessy.net/2014/11/11/discovering-the-computer-science-behind-postgres-indexes,/u/jcs,14
+1,2014-11-11 18:49:05 -0600,/t/unix,The Art of Unix Usability (2004),http://www.catb.org/~esr/writings/taouu/html/,/u/roryokane,5
+3,2014-11-11 10:15:37 -0600,"/t/show,/t/compsci,/t/programming",Quicksort in 3 lines of shell,https://github.com/wyc/snippets/blob/master/sh/qsort/qsort.sh,/u/wyc,7
+0,2014-11-12 00:13:30 -0600,/t/linux,Show the most common used terminal commands,http://wikimatze.de/show-the-most-common-used-terminal-commands/,/u/wikimatze,2
+4,2014-11-11 03:37:41 -0600,"/t/culture,/t/law",Help the GNOME Foundation defend the GNOME trademark,http://gnome.org/groupon/,/u/skade,26
+1,2014-11-11 14:08:34 -0600,/t/python,Build a Reddit Bot Part 1,http://pythonforengineers.com/build-a-reddit-bot-part-1/,/u/Pyskool,3
+5,2014-11-11 11:49:33 -0600,"/t/culture,/t/programming",Open Source isn’t just about code – other ways in which you can contribute!,http://pragtob.wordpress.com/2014/11/03/open-source-isnt-just-about-code-other-ways-in-which-you-can-contribute/,/u/PragTob,9
+76,2014-11-10 19:50:38 -0600,/t/ask,What is the URL to your technical blog?,/s/l7b3iy/what_is_url_your_technical_blog,/u/pxi,49

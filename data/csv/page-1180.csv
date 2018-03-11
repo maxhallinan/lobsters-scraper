@@ -1,25 +1,25 @@
-0,2015-01-20 05:20:33 -0600,['/t/ruby'],Ruby Forwardable deep dive,http://www.saturnflyer.com/blog/jim/2015/01/20/ruby-forwardable-deep-dive/,/u/saturnflyer,5
-0,2015-01-20 15:47:59 -0600,"['/t/javascript', '/t/programming']",Write Angular 1.x Apps Using Angular 2.0 Style Dependency Injection,https://github.com/hannahhoward/a1atscript,/u/hannahhoward,1
-0,2015-01-20 11:30:11 -0600,"['/t/compsci', '/t/haskell', '/t/math']",Functors,http://bartoszmilewski.com/2015/01/20/functors/,/u/RiderOfGiraffes,2
-0,2015-01-20 15:15:03 -0600,"['/t/pdf', '/t/math']",Optmizely's New A/B Stats Engine,http://pages.optimizely.com/rs/optimizely/images/stats_engine_technical_paper.pdf,/u/pushcx,1
-1,2015-01-20 02:03:23 -0600,['/t/security'],GoDaddy CSRF Vulnerability Allows Domain Takeover,http://breakingbits.net/2015/01/18/taking-over-godaddy-accounts-using-csrf/,/u/kb,5
-0,2015-01-19 23:17:33 -0600,['/t/haskell'],Decoding UTF-8 with Parser Combinators,https://ianthehenry.com/2015/1/17/decoding-utf-8/,/u/pushcx,7
-0,2015-01-20 08:31:17 -0600,['/t/erlang'],Building an Elixir Web App,http://blog.drewolson.org/blog/2015/01/19/building-an-elixir-web-app/,/u/kGb8RNFtg6,2
-0,2015-01-19 19:27:34 -0600,"['/t/lisp', '/t/programming']",Dylan and Gradual Typing,http://dylanfoundry.org/2015/01/20/dylan-and-gradual-typing/,/u/BruceM,9
-0,2015-01-20 06:22:39 -0600,['/t/devops'],Docker and the PID 1 zombie reaping problem,http://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/,/u/FooBarWidget,2
-2,2015-01-19 09:14:47 -0600,['/t/rust'],Explore the ownership system in Rust,http://nercury.github.io/rust/guide/2015/01/19/ownership.html,/u/whbboyd,18
-0,2015-01-19 20:24:40 -0600,"['/t/java', '/t/programming']",Pivotal discontinues funding Groovy,http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship,/u/soc,7
-2,2015-01-19 12:18:13 -0600,['/t/browsers'],µBlock for Firefox,https://github.com/gorhill/uBlock#installation,/u/journeysquid,15
-0,2015-01-20 01:47:26 -0600,"['/t/haskell', '/t/javascript']","Introducing SJS, a type inferer and checker for JavaScript (written in Haskell)",https://noamlewis.wordpress.com/2015/01/20/introducing-sjs-a-type-inferer-and-checker-for-javascript/,/u/julienXX,3
-0,2015-01-20 06:25:38 -0600,['/t/javascript'],A Journey Through Client-Side Testing with JavaScript,http://developer.telerik.com/featured/journey-client-side-testing-javascript/,/u/remotesynth,1
-0,2015-01-19 08:23:17 -0600,['/t/practices'],Why Some Teams Are Smarter Than Others,http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html,/u/joshuacc,11
-4,2015-01-18 16:15:21 -0600,"['/t/practices', '/t/programming']",Command-line tools can be 235x faster than your Hadoop cluster (2014),http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html,/u/fcbsd,38
-0,2015-01-19 16:01:20 -0600,['/t/compsci'],IX: A Protected Dataplane Operating System for High Throughput and Low Latency,https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay,/u/reiver,3
-26,2015-01-19 06:44:51 -0600,['/t/ask'],What are you working on this week?,/s/vdrctu/what_are_you_working_on_this_week,/u/BruceM,17
-0,2015-01-19 09:25:45 -0600,['/t/programming'],Kindling projects,http://nedbatchelder.com/text/kindling.html,/u/pushcx,6
-0,2015-01-19 08:42:16 -0600,['/t/games'],Path Tracing 3D Fractals,http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/,/u/nwest,6
-0,2015-01-19 09:52:39 -0600,['/t/hardware'],FreeAgent's AV Adventure,http://engineering.freeagent.com/2015/01/19/freeagent-av-adventure/,/u/caius,5
-2,2015-01-18 16:00:40 -0600,['/t/haskell'],I think I've nailed it! I've solved the records problem!,http://nikita-volkov.github.io/record/,/u/nikita-volkov,32
-0,2015-01-19 10:30:41 -0600,"['/t/ios', '/t/mac']",Apple Software Quality Questions,http://www.mondaynote.com/2015/01/18/apple-software-quality-questions/,/u/journeysquid,4
-0,2015-01-19 10:20:15 -0600,['/t/lisp'],Clojure Code Review: Clj-Slack teardown,http://yellerapp.com/posts/2015-01-14-clj-slack-review.html,/u/julienXX,3
-0,2015-01-19 09:52:27 -0600,"['/t/show', '/t/databases', '/t/mac']",MongoDB.app,https://github.com/gcollazo/mongodbapp,/u/jpadilla,3
+0,2015-01-20 05:20:33 -0600,/t/ruby,Ruby Forwardable deep dive,http://www.saturnflyer.com/blog/jim/2015/01/20/ruby-forwardable-deep-dive/,/u/saturnflyer,5
+0,2015-01-20 15:47:59 -0600,"/t/javascript,/t/programming",Write Angular 1.x Apps Using Angular 2.0 Style Dependency Injection,https://github.com/hannahhoward/a1atscript,/u/hannahhoward,1
+0,2015-01-20 11:30:11 -0600,"/t/compsci,/t/haskell,/t/math",Functors,http://bartoszmilewski.com/2015/01/20/functors/,/u/RiderOfGiraffes,2
+0,2015-01-20 15:15:03 -0600,"/t/pdf,/t/math",Optmizely's New A/B Stats Engine,http://pages.optimizely.com/rs/optimizely/images/stats_engine_technical_paper.pdf,/u/pushcx,1
+1,2015-01-20 02:03:23 -0600,/t/security,GoDaddy CSRF Vulnerability Allows Domain Takeover,http://breakingbits.net/2015/01/18/taking-over-godaddy-accounts-using-csrf/,/u/kb,5
+0,2015-01-19 23:17:33 -0600,/t/haskell,Decoding UTF-8 with Parser Combinators,https://ianthehenry.com/2015/1/17/decoding-utf-8/,/u/pushcx,7
+0,2015-01-20 08:31:17 -0600,/t/erlang,Building an Elixir Web App,http://blog.drewolson.org/blog/2015/01/19/building-an-elixir-web-app/,/u/kGb8RNFtg6,2
+0,2015-01-19 19:27:34 -0600,"/t/lisp,/t/programming",Dylan and Gradual Typing,http://dylanfoundry.org/2015/01/20/dylan-and-gradual-typing/,/u/BruceM,9
+0,2015-01-20 06:22:39 -0600,/t/devops,Docker and the PID 1 zombie reaping problem,http://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/,/u/FooBarWidget,2
+2,2015-01-19 09:14:47 -0600,/t/rust,Explore the ownership system in Rust,http://nercury.github.io/rust/guide/2015/01/19/ownership.html,/u/whbboyd,18
+0,2015-01-19 20:24:40 -0600,"/t/java,/t/programming",Pivotal discontinues funding Groovy,http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship,/u/soc,7
+2,2015-01-19 12:18:13 -0600,/t/browsers,µBlock for Firefox,https://github.com/gorhill/uBlock#installation,/u/journeysquid,15
+0,2015-01-20 01:47:26 -0600,"/t/haskell,/t/javascript","Introducing SJS, a type inferer and checker for JavaScript (written in Haskell)",https://noamlewis.wordpress.com/2015/01/20/introducing-sjs-a-type-inferer-and-checker-for-javascript/,/u/julienXX,3
+0,2015-01-20 06:25:38 -0600,/t/javascript,A Journey Through Client-Side Testing with JavaScript,http://developer.telerik.com/featured/journey-client-side-testing-javascript/,/u/remotesynth,1
+0,2015-01-19 08:23:17 -0600,/t/practices,Why Some Teams Are Smarter Than Others,http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html,/u/joshuacc,11
+4,2015-01-18 16:15:21 -0600,"/t/practices,/t/programming",Command-line tools can be 235x faster than your Hadoop cluster (2014),http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html,/u/fcbsd,38
+0,2015-01-19 16:01:20 -0600,/t/compsci,IX: A Protected Dataplane Operating System for High Throughput and Low Latency,https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay,/u/reiver,3
+26,2015-01-19 06:44:51 -0600,/t/ask,What are you working on this week?,/s/vdrctu/what_are_you_working_on_this_week,/u/BruceM,17
+0,2015-01-19 09:25:45 -0600,/t/programming,Kindling projects,http://nedbatchelder.com/text/kindling.html,/u/pushcx,6
+0,2015-01-19 08:42:16 -0600,/t/games,Path Tracing 3D Fractals,http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/,/u/nwest,6
+0,2015-01-19 09:52:39 -0600,/t/hardware,FreeAgent's AV Adventure,http://engineering.freeagent.com/2015/01/19/freeagent-av-adventure/,/u/caius,5
+2,2015-01-18 16:00:40 -0600,/t/haskell,I think I've nailed it! I've solved the records problem!,http://nikita-volkov.github.io/record/,/u/nikita-volkov,32
+0,2015-01-19 10:30:41 -0600,"/t/ios,/t/mac",Apple Software Quality Questions,http://www.mondaynote.com/2015/01/18/apple-software-quality-questions/,/u/journeysquid,4
+0,2015-01-19 10:20:15 -0600,/t/lisp,Clojure Code Review: Clj-Slack teardown,http://yellerapp.com/posts/2015-01-14-clj-slack-review.html,/u/julienXX,3
+0,2015-01-19 09:52:27 -0600,"/t/show,/t/databases,/t/mac",MongoDB.app,https://github.com/gcollazo/mongodbapp,/u/jpadilla,3

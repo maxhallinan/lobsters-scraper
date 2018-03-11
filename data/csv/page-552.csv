@@ -1,25 +1,25 @@
-1,2016-12-27 09:52:05 -0600,['/t/javascript'],React or Vue: Which Javascript UI Library Should You Be Using?,https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d,/u/av,6
-0,2016-12-27 09:47:48 -0600,['/t/emacs'],Emacs Byte-code Internals,http://nullprogram.com/blog/2014/01/04/,/u/av,8
-0,2016-12-27 23:00:02 -0600,"['/t/video', '/t/graphics', '/t/hardware']",The Impossible Task of Making Valve's VR Work,https://www.youtube.com/watch?v=75ZytcYANTA,/u/friendlysock,1
-0,2016-12-27 01:14:34 -0600,"['/t/api', '/t/linux', '/t/programming', '/t/unix']",Signalfd Is Useless [2015],https://ldpreload.com/blog/signalfd-is-useless?reposted-on-request,/u/orib,16
-0,2016-12-27 11:29:48 -0600,"['/t/lisp', '/t/programming']",Deep Learning in Clojure with Cortex,http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/,/u/carinmeier,2
-0,2016-12-27 07:28:59 -0600,"['/t/historical', '/t/lisp']",The origin of CAR and CDR in LISP,http://www.iwriteiam.nl/HaCAR_CDR.html,/u/calvin,7
-2,2016-12-27 00:02:40 -0600,['/t/programming'],SICP Distilled,http://www.sicpdistilled.com/,/u/av,9
-0,2016-12-26 21:09:43 -0600,['/t/release'],Announcing FreeDOS 1.2,http://www.freedos.org/jhall/,/u/ChrisShort,15
-0,2016-12-27 19:09:48 -0600,"['/t/culture', '/t/practices']",Code Review in Remote Teams,https://www.seanh.cc/posts/code-review,/u/adsouza,2
-6,2016-12-26 16:01:28 -0600,['/t/c'],The difference between arr and &arr - How to find size of an array in C without sizeof,http://arjunsreedharan.org/post/69303442896/the-difference-between-arr-and-arr-how-to-find,/u/mulander,13
-8,2016-12-26 19:33:56 -0600,['/t/ask'],Ask: Organizing images,/s/mnh1ap/ask_organizing_images,/u/voidzero,10
-3,2016-12-26 10:40:36 -0600,['/t/release'],HandBrake 1.0.0 Released,https://handbrake.fr/news.php?article=37,/u/av,24
-0,2016-12-26 21:03:23 -0600,"['/t/compsci', '/t/javascript']",A Typed pluck: exploring TypeScript 2.1’s mapped types,https://medium.com/@danvdk/a-typed-pluck-exploring-typescript-2-1s-mapped-types-c15f72bf4ca8,/u/haxor,9
-0,2016-12-26 17:59:37 -0600,"['/t/compsci', '/t/math', '/t/programming', '/t/security']",Concrete Semantics,http://concrete-semantics.org/,/u/nickpsecurity,12
-1,2016-12-27 07:36:01 -0600,['/t/c'],Regular Void (2015),http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0146r0.html,/u/calvin,1
-2,2016-12-26 20:59:18 -0600,['/t/practices'],The Art of Defensive Programming,https://medium.com/web-engineering-vox/the-art-of-defensive-programming-6789a9743ed4,/u/calvin,4
-2,2016-12-26 18:24:04 -0600,"['/t/graphics', '/t/practices']",Falsehoods programmers believe about [video stuff],https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html,/u/friendlysock,5
-0,2016-12-26 15:55:11 -0600,"['/t/hardware', '/t/practices']",An incentive for liberating computers: my own use case,http://code.paulk.fr/article25/an-incentive-for-liberating-computers-my-own-use-case,/u/pizzaiolo,11
-4,2016-12-26 10:41:24 -0600,['/t/programming'],GNU Parallel,https://www.gnu.org/software/parallel/,/u/av,11
-2,2016-12-26 23:50:28 -0600,"['/t/linux', '/t/python', '/t/ruby']","The Linux 2.5, Ruby 1.9 and Python 3 release management anti-pattern",http://www.lucas-nussbaum.net/blog/?p=916,/u/av,2
-0,2016-12-26 11:08:53 -0600,['/t/python'],Advent of Code (2016) solutions by Peter Norvig,http://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb,/u/av,17
-17,2016-12-26 10:16:42 -0600,['/t/programming'],the Zimbu programming language,http://www.zimbu.org/Home,/u/av,9
-4,2016-12-26 08:03:45 -0600,['/t/devops'],Improve your DevOps security game with Ansible Vault,https://opensource.com/article/16/12/devops-security-ansible-vault,/u/ChrisShort,6
-1,2016-12-26 16:27:48 -0600,['/t/javascript'],"Ashley, a new dependency injection container for JavaScript",https://github.com/jiripospisil/ashley,/u/JiriPospisil,2
-2,2016-12-26 05:45:48 -0600,"['/t/pdf', '/t/databases']",PostgreSQL 9.6 new features with examples (2016-06),http://community.hpe.com/hpeb/attachments/hpeb/JapanEnterpriseTopics/198/1/PostgreSQL%209.6%20New%20Features%20en%2020160606-1.pdf,/u/hoopla,14
+1,2016-12-27 09:52:05 -0600,/t/javascript,React or Vue: Which Javascript UI Library Should You Be Using?,https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d,/u/av,6
+0,2016-12-27 09:47:48 -0600,/t/emacs,Emacs Byte-code Internals,http://nullprogram.com/blog/2014/01/04/,/u/av,8
+0,2016-12-27 23:00:02 -0600,"/t/video,/t/graphics,/t/hardware",The Impossible Task of Making Valve's VR Work,https://www.youtube.com/watch?v=75ZytcYANTA,/u/friendlysock,1
+0,2016-12-27 01:14:34 -0600,"/t/api,/t/linux,/t/programming,/t/unix",Signalfd Is Useless [2015],https://ldpreload.com/blog/signalfd-is-useless?reposted-on-request,/u/orib,16
+0,2016-12-27 11:29:48 -0600,"/t/lisp,/t/programming",Deep Learning in Clojure with Cortex,http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/,/u/carinmeier,2
+0,2016-12-27 07:28:59 -0600,"/t/historical,/t/lisp",The origin of CAR and CDR in LISP,http://www.iwriteiam.nl/HaCAR_CDR.html,/u/calvin,7
+2,2016-12-27 00:02:40 -0600,/t/programming,SICP Distilled,http://www.sicpdistilled.com/,/u/av,9
+0,2016-12-26 21:09:43 -0600,/t/release,Announcing FreeDOS 1.2,http://www.freedos.org/jhall/,/u/ChrisShort,15
+0,2016-12-27 19:09:48 -0600,"/t/culture,/t/practices",Code Review in Remote Teams,https://www.seanh.cc/posts/code-review,/u/adsouza,2
+6,2016-12-26 16:01:28 -0600,/t/c,The difference between arr and &arr - How to find size of an array in C without sizeof,http://arjunsreedharan.org/post/69303442896/the-difference-between-arr-and-arr-how-to-find,/u/mulander,13
+8,2016-12-26 19:33:56 -0600,/t/ask,Ask: Organizing images,/s/mnh1ap/ask_organizing_images,/u/voidzero,10
+3,2016-12-26 10:40:36 -0600,/t/release,HandBrake 1.0.0 Released,https://handbrake.fr/news.php?article=37,/u/av,24
+0,2016-12-26 21:03:23 -0600,"/t/compsci,/t/javascript",A Typed pluck: exploring TypeScript 2.1’s mapped types,https://medium.com/@danvdk/a-typed-pluck-exploring-typescript-2-1s-mapped-types-c15f72bf4ca8,/u/haxor,9
+0,2016-12-26 17:59:37 -0600,"/t/compsci,/t/math,/t/programming,/t/security",Concrete Semantics,http://concrete-semantics.org/,/u/nickpsecurity,12
+1,2016-12-27 07:36:01 -0600,/t/c,Regular Void (2015),http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0146r0.html,/u/calvin,1
+2,2016-12-26 20:59:18 -0600,/t/practices,The Art of Defensive Programming,https://medium.com/web-engineering-vox/the-art-of-defensive-programming-6789a9743ed4,/u/calvin,4
+2,2016-12-26 18:24:04 -0600,"/t/graphics,/t/practices",Falsehoods programmers believe about [video stuff],https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html,/u/friendlysock,5
+0,2016-12-26 15:55:11 -0600,"/t/hardware,/t/practices",An incentive for liberating computers: my own use case,http://code.paulk.fr/article25/an-incentive-for-liberating-computers-my-own-use-case,/u/pizzaiolo,11
+4,2016-12-26 10:41:24 -0600,/t/programming,GNU Parallel,https://www.gnu.org/software/parallel/,/u/av,11
+2,2016-12-26 23:50:28 -0600,"/t/linux,/t/python,/t/ruby","The Linux 2.5, Ruby 1.9 and Python 3 release management anti-pattern",http://www.lucas-nussbaum.net/blog/?p=916,/u/av,2
+0,2016-12-26 11:08:53 -0600,/t/python,Advent of Code (2016) solutions by Peter Norvig,http://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb,/u/av,17
+17,2016-12-26 10:16:42 -0600,/t/programming,the Zimbu programming language,http://www.zimbu.org/Home,/u/av,9
+4,2016-12-26 08:03:45 -0600,/t/devops,Improve your DevOps security game with Ansible Vault,https://opensource.com/article/16/12/devops-security-ansible-vault,/u/ChrisShort,6
+1,2016-12-26 16:27:48 -0600,/t/javascript,"Ashley, a new dependency injection container for JavaScript",https://github.com/jiripospisil/ashley,/u/JiriPospisil,2
+2,2016-12-26 05:45:48 -0600,"/t/pdf,/t/databases",PostgreSQL 9.6 new features with examples (2016-06),http://community.hpe.com/hpeb/attachments/hpeb/JapanEnterpriseTopics/198/1/PostgreSQL%209.6%20New%20Features%20en%2020160606-1.pdf,/u/hoopla,14

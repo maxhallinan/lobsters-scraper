@@ -1,25 +1,25 @@
-5,2016-10-10 15:06:51 -0500,"['/t/pdf', '/t/programming']",Plain English Programming,http://www.osmosian.com/instructions.pdf,/u/wje,7
-0,2016-10-10 14:00:03 -0500,"['/t/pdf', '/t/distributed', '/t/erlang', '/t/scaling']",Erlang and millions of concurrent gamers (2011),http://www.erlang-factory.com/upload/presentations/395/ErlangandFirst-PersonShooters.pdf,/u/petergao,15
-0,2016-10-11 09:16:43 -0500,['/t/person'],LinkedIn Next Wave: Software,https://lists.linkedin.com/2016/next-wave-top-professionals-35-and-under-20161011/software,/u/greg,1
-0,2016-10-11 07:57:14 -0500,"['/t/programming', '/t/ruby', '/t/security']",The two most common vulnerabilities in Rails (with code)!,https://blog.sqreen.io/the-two-most-common-vulnerabilities-in-rails-with-code/,/u/PaulBlei,1
-2,2016-10-10 18:43:13 -0500,"['/t/historical', '/t/mobile', '/t/practices']",Losing the Signal: How BlackBerry’s bid to one-up the iPhone failed,http://www.theglobeandmail.com/report-on-business/excerpt-how-blackberrys-bid-to-one-up-the-iphone-failed/article24555365/,/u/calvin,3
-3,2016-10-10 12:24:38 -0500,"['/t/historical', '/t/programming']",Quincy: The Architecture of a C Interpreter,http://www.drdobbs.com/quincy-the-architecture-of-a-c-interpret/184409403,/u/adamo,10
-0,2016-10-10 07:28:39 -0500,['/t/programming'],Theory and Practicality,http://blake.tran-hyde.com/theory/,/u/asthasr,9
-0,2016-10-10 15:05:34 -0500,['/t/browsers'],"Firefox Test Pilot: Test new features, give your feedback, help build Firefox.",https://testpilot.firefox.com/,/u/unbalancedparentheses,6
-2,2016-10-10 07:06:42 -0500,['/t/historical'],The Freedom to Associate,http://www.filfre.net/2016/09/the-freedom-to-associate/,/u/calvin,10
-0,2016-10-10 21:06:20 -0500,"['/t/compsci', '/t/databases', '/t/visualization']","Off the streets, Land subdivision in PostGIS - Part 2",http://blog.garage-coding.com/2016/10/11/land-subdivision-in-postgis.html,/u/wsdookadr,1
-2,2016-10-10 02:46:12 -0500,"['/t/games', '/t/math', '/t/visualization']",Algorithms for making more interesting mazes,http://www.gamasutra.com/blogs/HermanTulleken/20161005/282629/Algorithms_for_making_more_interesting_mazes.php,/u/friendlysock,18
-0,2016-10-10 19:00:53 -0500,"['/t/video', '/t/distributed', '/t/programming']",What We Talk About When We Talk About Distributed Systems,https://www.youtube.com/watch?v=fOAytjkG7XQ,/u/unbalancedparentheses,3
-2,2016-10-10 04:59:17 -0500,"['/t/hardware', '/t/law', '/t/mobile']","Samsung is suspending production of the Galaxy Note 7, says Korean news agency",http://www.theverge.com/2016/10/9/13222674/samsung-galaxy-note-7-production-suspended-fire-recall,/u/calvin,11
-20,2016-10-09 16:23:32 -0500,['/t/finance'],PayPal? No way!,https://minifree.org/paypal/,/u/fkooman,26
-0,2016-10-10 16:07:00 -0500,"['/t/graphics', '/t/programming']",Project Highlight: DlangUI,https://dlang.org/blog/2016/10/07/project-highlight-dlangui/,/u/zem,3
-1,2016-10-10 13:19:37 -0500,"['/t/compsci', '/t/haskell']",Refinement Reflection on ADTs: Lists are Monoids,http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs,/u/pushcx,3
-8,2016-10-09 17:37:30 -0500,"['/t/show', '/t/programming', '/t/release']","Contbuild: A Simple, Statically Generated, Continuous Integration System [In Myrddin]",https://eigenstate.org/software/contbuild,/u/orib,12
-1,2016-10-10 10:38:33 -0500,['/t/python'],Complex Data Pipelines with Spotify's Luigi,https://www.promptworks.com/blog/configuring-complex-luigi-pipelines,/u/promptworks,4
-0,2016-10-10 07:44:57 -0500,"['/t/css', '/t/practices']",stylelint - A modern CSS Linter,http://stylelint.io/,/u/flyingfisch,6
-0,2016-10-10 08:27:03 -0500,['/t/haskell'],Try Backpack: ghc –backpack,http://blog.ezyang.com/2016/10/try-backpack-ghc-backpack/,/u/pushcx,5
-0,2016-10-10 17:11:21 -0500,['/t/python'],google/subpar,https://github.com/google/subpar,/u/bowyakka,1
-0,2016-10-10 17:30:50 -0500,"['/t/culture', '/t/games']",Guest Column: Teaching My Nonna to Read Through Games,http://www.giantbomb.com/articles/guest-column-teaching-my-nonna-to-read-through-gam/1100-5495/,/u/evaryont,2
-0,2016-10-10 10:19:42 -0500,"['/t/c', '/t/compilers', '/t/historical']",W - A simple programming language (2001),https://www.vttoth.com/CMS/projects/49-w-a-simple-programming-language,/u/brinker,2
-59,2016-10-09 11:26:21 -0500,"['/t/ask', '/t/programming']",What does your development environment look like? How might it change?,/s/j4dw0k/what_does_your_development_environment,/u/nil,14
-18,2016-10-09 06:38:06 -0500,"['/t/security', '/t/virtualization']",EC2's most dangerous feature,http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html,/u/jamesog,18
+5,2016-10-10 15:06:51 -0500,"/t/pdf,/t/programming",Plain English Programming,http://www.osmosian.com/instructions.pdf,/u/wje,7
+0,2016-10-10 14:00:03 -0500,"/t/pdf,/t/distributed,/t/erlang,/t/scaling",Erlang and millions of concurrent gamers (2011),http://www.erlang-factory.com/upload/presentations/395/ErlangandFirst-PersonShooters.pdf,/u/petergao,15
+0,2016-10-11 09:16:43 -0500,/t/person,LinkedIn Next Wave: Software,https://lists.linkedin.com/2016/next-wave-top-professionals-35-and-under-20161011/software,/u/greg,1
+0,2016-10-11 07:57:14 -0500,"/t/programming,/t/ruby,/t/security",The two most common vulnerabilities in Rails (with code)!,https://blog.sqreen.io/the-two-most-common-vulnerabilities-in-rails-with-code/,/u/PaulBlei,1
+2,2016-10-10 18:43:13 -0500,"/t/historical,/t/mobile,/t/practices",Losing the Signal: How BlackBerry’s bid to one-up the iPhone failed,http://www.theglobeandmail.com/report-on-business/excerpt-how-blackberrys-bid-to-one-up-the-iphone-failed/article24555365/,/u/calvin,3
+3,2016-10-10 12:24:38 -0500,"/t/historical,/t/programming",Quincy: The Architecture of a C Interpreter,http://www.drdobbs.com/quincy-the-architecture-of-a-c-interpret/184409403,/u/adamo,10
+0,2016-10-10 07:28:39 -0500,/t/programming,Theory and Practicality,http://blake.tran-hyde.com/theory/,/u/asthasr,9
+0,2016-10-10 15:05:34 -0500,/t/browsers,"Firefox Test Pilot: Test new features, give your feedback, help build Firefox.",https://testpilot.firefox.com/,/u/unbalancedparentheses,6
+2,2016-10-10 07:06:42 -0500,/t/historical,The Freedom to Associate,http://www.filfre.net/2016/09/the-freedom-to-associate/,/u/calvin,10
+0,2016-10-10 21:06:20 -0500,"/t/compsci,/t/databases,/t/visualization","Off the streets, Land subdivision in PostGIS - Part 2",http://blog.garage-coding.com/2016/10/11/land-subdivision-in-postgis.html,/u/wsdookadr,1
+2,2016-10-10 02:46:12 -0500,"/t/games,/t/math,/t/visualization",Algorithms for making more interesting mazes,http://www.gamasutra.com/blogs/HermanTulleken/20161005/282629/Algorithms_for_making_more_interesting_mazes.php,/u/friendlysock,18
+0,2016-10-10 19:00:53 -0500,"/t/video,/t/distributed,/t/programming",What We Talk About When We Talk About Distributed Systems,https://www.youtube.com/watch?v=fOAytjkG7XQ,/u/unbalancedparentheses,3
+2,2016-10-10 04:59:17 -0500,"/t/hardware,/t/law,/t/mobile","Samsung is suspending production of the Galaxy Note 7, says Korean news agency",http://www.theverge.com/2016/10/9/13222674/samsung-galaxy-note-7-production-suspended-fire-recall,/u/calvin,11
+20,2016-10-09 16:23:32 -0500,/t/finance,PayPal? No way!,https://minifree.org/paypal/,/u/fkooman,26
+0,2016-10-10 16:07:00 -0500,"/t/graphics,/t/programming",Project Highlight: DlangUI,https://dlang.org/blog/2016/10/07/project-highlight-dlangui/,/u/zem,3
+1,2016-10-10 13:19:37 -0500,"/t/compsci,/t/haskell",Refinement Reflection on ADTs: Lists are Monoids,http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs,/u/pushcx,3
+8,2016-10-09 17:37:30 -0500,"/t/show,/t/programming,/t/release","Contbuild: A Simple, Statically Generated, Continuous Integration System [In Myrddin]",https://eigenstate.org/software/contbuild,/u/orib,12
+1,2016-10-10 10:38:33 -0500,/t/python,Complex Data Pipelines with Spotify's Luigi,https://www.promptworks.com/blog/configuring-complex-luigi-pipelines,/u/promptworks,4
+0,2016-10-10 07:44:57 -0500,"/t/css,/t/practices",stylelint - A modern CSS Linter,http://stylelint.io/,/u/flyingfisch,6
+0,2016-10-10 08:27:03 -0500,/t/haskell,Try Backpack: ghc –backpack,http://blog.ezyang.com/2016/10/try-backpack-ghc-backpack/,/u/pushcx,5
+0,2016-10-10 17:11:21 -0500,/t/python,google/subpar,https://github.com/google/subpar,/u/bowyakka,1
+0,2016-10-10 17:30:50 -0500,"/t/culture,/t/games",Guest Column: Teaching My Nonna to Read Through Games,http://www.giantbomb.com/articles/guest-column-teaching-my-nonna-to-read-through-gam/1100-5495/,/u/evaryont,2
+0,2016-10-10 10:19:42 -0500,"/t/c,/t/compilers,/t/historical",W - A simple programming language (2001),https://www.vttoth.com/CMS/projects/49-w-a-simple-programming-language,/u/brinker,2
+59,2016-10-09 11:26:21 -0500,"/t/ask,/t/programming",What does your development environment look like? How might it change?,/s/j4dw0k/what_does_your_development_environment,/u/nil,14
+18,2016-10-09 06:38:06 -0500,"/t/security,/t/virtualization",EC2's most dangerous feature,http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html,/u/jamesog,18

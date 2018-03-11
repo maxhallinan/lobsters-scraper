@@ -1,25 +1,25 @@
-0,2013-11-24 21:27:16 -0600,['/t/assembly'],"Understanding ARM Assembly, Part 1",http://blogs.msdn.com/b/ntdebugging/archive/2013/11/22/understanding-arm-assembly-part-1.aspx,/u/kyle,2
-1,2013-11-24 21:23:35 -0600,"['/t/pdf', '/t/security']",Catena: A Memory-Consuming Password Scrambler,http://eprint.iacr.org/2013/525.pdf,/u/kyle,2
-0,2013-11-25 07:16:20 -0600,['/t/javascript'],Fun with JavaScript Native Array Functions,http://flippinawesome.org/2013/11/25/fun-with-javascript-native-array-functions/,/u/remotesynth,0
-0,2013-11-24 19:23:43 -0600,['/t/cryptocurrencies'],Bitcoin Boon,http://alexsmith.io/?p=23,/u/aosmith,1
-0,2013-11-23 19:16:42 -0600,['/t/haskell'],"Haskell, where to start?",http://tmp.devcharm.com/pages/start-haskell,/u/SeanTAllen,5
-0,2013-11-23 11:08:24 -0600,"['/t/c', '/t/compsci', '/t/linux']",Basic Data Structures and Algorithms in the Linux Kernel,http://luisbg.blogalia.com/historias/74062,/u/svag,13
-0,2013-11-23 18:11:49 -0600,"['/t/networking', '/t/security']","Namecoin, A Replacement For SSL",http://blog.mediocregopher.com/namecoind-ssl.html,/u/journeysquid,2
-0,2013-11-23 03:45:51 -0600,['/t/programming'],Walmart Node.js Memory Leak,http://www.joyent.com/blog/walmart-node-js-memory-leak,/u/charlieirish,5
-0,2013-11-23 12:54:22 -0600,"['/t/practices', '/t/programming']",I don't care about your code challenge,http://blog.mattbasta.com/i_dont_care_about_your_code_challenge.html,/u/journeysquid,1
-2,2013-11-22 14:12:49 -0600,['/t/hardware'],The product you bought today may not be the product you have later,http://steveblank.com/2013/11/21/when-product-features-disappear-amazon-apple-and-tesla-and-troubled-future-of-21st-century-consumers/,/u/kb,8
-0,2013-11-23 02:25:26 -0600,"['/t/video', '/t/mac', '/t/security']",OS X Hardening: Securing a Large Global Mac Fleet,https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet,/u/jcs,3
-3,2013-11-22 13:07:55 -0600,['/t/practices'],Why GitHub is not your CV,https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/,/u/journeysquid,6
-1,2013-11-22 15:01:32 -0600,['/t/cryptocurrencies'],"The $147,239,214 Bitcoin transfer",https://blockchain.info/tx/1c12443203a48f42cdf7b1acee5b4b1c1fedc144cb909a3bf5edbffafb0cd204,/u/kultus,5
-0,2013-11-22 12:45:02 -0600,['/t/lisp'],ClojureScript Koans,http://clojurescriptkoans.com/,/u/puffnfresh,5
-3,2013-11-22 14:49:57 -0600,['/t/javascript'],Creating a File Encryption Client-side App with JavaScript,http://tutorialzine.com/2013/11/javascript-file-encrypter/,/u/aram,2
-0,2013-11-22 13:03:04 -0600,"['/t/security', '/t/web']",Google Account Recovery Vulnerability,http://www.orenh.com/2013/11/google-account-recovery-vulnerability.html,/u/journeysquid,4
-1,2013-11-22 08:45:04 -0600,"['/t/video', '/t/web']",Rockpool: multi-camera video editing in the browser (YouTube clip),https://www.youtube.com/watch?v=OAbQDkFwMoY&feature=youtu.be,/u/stevejalim,2
-0,2013-11-21 17:30:07 -0600,"['/t/go', '/t/security']",Red October: CloudFlare’s Open Source Implementation of the Two-Man Rule,https://blog.cloudflare.com/red-october-cloudflares-open-source-implementation-of-the-two-man-rule,/u/virtualroot,6
-0,2013-11-21 16:12:51 -0600,['/t/practices'],"Why Open-Office Layouts Are Bad For Employees, Bosses, And Productivity",http://www.fastcompany.com/3019758/dialed/offices-for-all-why-open-office-layouts-are-bad-for-employees-bosses-and-productivity?lobsters,/u/journeysquid,3
-0,2013-11-21 16:11:01 -0600,"['/t/devops', '/t/ruby']",Extreme Makeover: Rubygems Edition,https://blog.engineyard.com/2013/rubygems-edition,/u/jcs,3
-0,2013-11-21 21:04:53 -0600,['/t/law'],Did Monster Energy Make A ‘Dope’ Contract With DJ Z-Trip? Nope,http://blog.ericgoldman.org/archives/2013/11/did-monster-energy-make-a-dope-contract-with-dj-z-trip-nope-forbes-cross-post.htm,/u/tedu,1
-0,2013-11-21 12:09:32 -0600,"['/t/networking', '/t/windows']","clumsy, a Windows utility for simulating a broken network",http://jagt.github.io/clumsy/,/u/jcs,3
-0,2013-11-21 13:55:12 -0600,"['/t/android', '/t/hardware']",Motorola no longer voiding warranties for unlocking Developer Edition Moto X,http://motorola-blog.blogspot.com/2013/11/you-asked-we-listened-announcing.html,/u/jcs,2
-0,2013-11-21 12:51:32 -0600,['/t/practices'],Dell wants half of employees working remotely by 2020,http://www.kvue.com/news/local/Dell-Computers-wants-half-its-global-employees-working-remotely-by-2020-232751151.html?lobsters,/u/journeysquid,2
-0,2013-11-21 16:15:56 -0600,"['/t/release', '/t/science']",Putting the Wolfram Language (and Mathematica) on Every Raspberry Pi,http://blog.stephenwolfram.com/2013/11/putting-the-wolfram-language-and-mathematica-on-every-raspberry-pi/,/u/tkozik,1
+0,2013-11-24 21:27:16 -0600,/t/assembly,"Understanding ARM Assembly, Part 1",http://blogs.msdn.com/b/ntdebugging/archive/2013/11/22/understanding-arm-assembly-part-1.aspx,/u/kyle,2
+1,2013-11-24 21:23:35 -0600,"/t/pdf,/t/security",Catena: A Memory-Consuming Password Scrambler,http://eprint.iacr.org/2013/525.pdf,/u/kyle,2
+0,2013-11-25 07:16:20 -0600,/t/javascript,Fun with JavaScript Native Array Functions,http://flippinawesome.org/2013/11/25/fun-with-javascript-native-array-functions/,/u/remotesynth,0
+0,2013-11-24 19:23:43 -0600,/t/cryptocurrencies,Bitcoin Boon,http://alexsmith.io/?p=23,/u/aosmith,1
+0,2013-11-23 19:16:42 -0600,/t/haskell,"Haskell, where to start?",http://tmp.devcharm.com/pages/start-haskell,/u/SeanTAllen,5
+0,2013-11-23 11:08:24 -0600,"/t/c,/t/compsci,/t/linux",Basic Data Structures and Algorithms in the Linux Kernel,http://luisbg.blogalia.com/historias/74062,/u/svag,13
+0,2013-11-23 18:11:49 -0600,"/t/networking,/t/security","Namecoin, A Replacement For SSL",http://blog.mediocregopher.com/namecoind-ssl.html,/u/journeysquid,2
+0,2013-11-23 03:45:51 -0600,/t/programming,Walmart Node.js Memory Leak,http://www.joyent.com/blog/walmart-node-js-memory-leak,/u/charlieirish,5
+0,2013-11-23 12:54:22 -0600,"/t/practices,/t/programming",I don't care about your code challenge,http://blog.mattbasta.com/i_dont_care_about_your_code_challenge.html,/u/journeysquid,1
+2,2013-11-22 14:12:49 -0600,/t/hardware,The product you bought today may not be the product you have later,http://steveblank.com/2013/11/21/when-product-features-disappear-amazon-apple-and-tesla-and-troubled-future-of-21st-century-consumers/,/u/kb,8
+0,2013-11-23 02:25:26 -0600,"/t/video,/t/mac,/t/security",OS X Hardening: Securing a Large Global Mac Fleet,https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet,/u/jcs,3
+3,2013-11-22 13:07:55 -0600,/t/practices,Why GitHub is not your CV,https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/,/u/journeysquid,6
+1,2013-11-22 15:01:32 -0600,/t/cryptocurrencies,"The $147,239,214 Bitcoin transfer",https://blockchain.info/tx/1c12443203a48f42cdf7b1acee5b4b1c1fedc144cb909a3bf5edbffafb0cd204,/u/kultus,5
+0,2013-11-22 12:45:02 -0600,/t/lisp,ClojureScript Koans,http://clojurescriptkoans.com/,/u/puffnfresh,5
+3,2013-11-22 14:49:57 -0600,/t/javascript,Creating a File Encryption Client-side App with JavaScript,http://tutorialzine.com/2013/11/javascript-file-encrypter/,/u/aram,2
+0,2013-11-22 13:03:04 -0600,"/t/security,/t/web",Google Account Recovery Vulnerability,http://www.orenh.com/2013/11/google-account-recovery-vulnerability.html,/u/journeysquid,4
+1,2013-11-22 08:45:04 -0600,"/t/video,/t/web",Rockpool: multi-camera video editing in the browser (YouTube clip),https://www.youtube.com/watch?v=OAbQDkFwMoY&feature=youtu.be,/u/stevejalim,2
+0,2013-11-21 17:30:07 -0600,"/t/go,/t/security",Red October: CloudFlare’s Open Source Implementation of the Two-Man Rule,https://blog.cloudflare.com/red-october-cloudflares-open-source-implementation-of-the-two-man-rule,/u/virtualroot,6
+0,2013-11-21 16:12:51 -0600,/t/practices,"Why Open-Office Layouts Are Bad For Employees, Bosses, And Productivity",http://www.fastcompany.com/3019758/dialed/offices-for-all-why-open-office-layouts-are-bad-for-employees-bosses-and-productivity?lobsters,/u/journeysquid,3
+0,2013-11-21 16:11:01 -0600,"/t/devops,/t/ruby",Extreme Makeover: Rubygems Edition,https://blog.engineyard.com/2013/rubygems-edition,/u/jcs,3
+0,2013-11-21 21:04:53 -0600,/t/law,Did Monster Energy Make A ‘Dope’ Contract With DJ Z-Trip? Nope,http://blog.ericgoldman.org/archives/2013/11/did-monster-energy-make-a-dope-contract-with-dj-z-trip-nope-forbes-cross-post.htm,/u/tedu,1
+0,2013-11-21 12:09:32 -0600,"/t/networking,/t/windows","clumsy, a Windows utility for simulating a broken network",http://jagt.github.io/clumsy/,/u/jcs,3
+0,2013-11-21 13:55:12 -0600,"/t/android,/t/hardware",Motorola no longer voiding warranties for unlocking Developer Edition Moto X,http://motorola-blog.blogspot.com/2013/11/you-asked-we-listened-announcing.html,/u/jcs,2
+0,2013-11-21 12:51:32 -0600,/t/practices,Dell wants half of employees working remotely by 2020,http://www.kvue.com/news/local/Dell-Computers-wants-half-its-global-employees-working-remotely-by-2020-232751151.html?lobsters,/u/journeysquid,2
+0,2013-11-21 16:15:56 -0600,"/t/release,/t/science",Putting the Wolfram Language (and Mathematica) on Every Raspberry Pi,http://blog.stephenwolfram.com/2013/11/putting-the-wolfram-language-and-mathematica-on-every-raspberry-pi/,/u/tkozik,1

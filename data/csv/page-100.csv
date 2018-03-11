@@ -1,25 +1,25 @@
-11,2017-12-09 07:05:43 -0600,['/t/java'],Avoid getters and setters whenever possible,https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m,/u/calvin,14
-3,2017-12-09 07:15:57 -0600,"['/t/go', '/t/haskell']",A Tour of Go in Haskell,https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html,/u/julienXX,21
-11,2017-12-09 10:06:12 -0600,['/t/lisp'],Why is Scheme not a Lisp? (2002),https://groups.google.com/d/msg/comp.lang.lisp/Bj8Hx6mZEYI/6AWmNEwQR5YJ,/u/geocar,9
-0,2017-12-09 20:23:01 -0600,"['/t/reversing', '/t/windows']",HP keylogger,https://zwclose.github.io/HP-keylogger/,/u/calvin,4
-4,2017-12-09 10:23:18 -0600,"['/t/programming', '/t/visualization']",Visualizing Newton's method using WebGL,https://lukezapart.com/newtons-method,/u/Yogthos,7
-2,2017-12-09 07:13:40 -0600,['/t/assembly'],You don't have to learn assembly to read disassembly,http://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html,/u/calvin,8
-0,2017-12-09 04:04:50 -0600,"['/t/games', '/t/hardware']","Making a Game Boy game in 2017: A ""Sheep It Up!"" Post-Mortem (part 1/2)",https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/Making_a_Game_Boy_game_in_2017_A_quotSheep_It_Upquot_PostMortem_part_12.php,/u/av,20
-0,2017-12-09 14:07:52 -0600,['/t/networking'],Decentralized Web Primer,https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/,/u/pushcx,6
-2,2017-12-09 10:03:37 -0600,"['/t/cryptocurrencies', '/t/programming']","Comparing Solidity to LLL, and why I use the latter",https://ecc-comp.blogspot.com/2017/12/comparing-solidity-to-lll-and-why-i-use.html,/u/indirection,5
-0,2017-12-09 17:05:11 -0600,['/t/cryptocurrencies'],RaiBlocks is What Bitcoin Should Have Been From the Start,https://medium.com/@DecentRally/raiblocks-is-what-bitcoin-should-have-been-from-the-start-1d91c4c61d2d,/u/wildfire,3
-1,2017-12-09 05:08:55 -0600,"['/t/education', '/t/programming']",A Hacker Writes a Children's Book,http://arthur-johnston.com/hacker_writes_a_childrens_book/,/u/mulander,9
-3,2017-12-09 04:18:57 -0600,"['/t/lisp', '/t/unix']",Scheme For NuttX,https://keithp.com/blogs/nuttx-scheme/,/u/utzig,8
-0,2017-12-09 17:07:04 -0600,"['/t/science', '/t/visualization']",Mapping Reddit Communities [img],https://i.redd.it/5e7ebb4ivo201.png,/u/wildfire,2
-20,2017-12-08 11:13:55 -0600,['/t/meta'],"Suggestion: Rename ""crypto"" tag to ""cryptography""",/s/mi8fmb/suggestion_rename_crypto_tag,/u/asthasr,31
-4,2017-12-08 15:18:40 -0600,"['/t/education', '/t/practices']",Why You Need A Degree To Work For BigCo (2005),http://braythwayt.com/homoiconic/2013/12/28/why-you-need-a-degree-to-work-for-bigco.html,/u/calvin,23
-3,2017-12-08 08:51:04 -0600,['/t/unix'],52 weeks of Unix Newsletter,https://newsletter.nixers.net/entries.php,/u/venam,27
-0,2017-12-09 10:22:13 -0600,['/t/culture'],Work Smaller (Even If It Makes No Sense),https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a,/u/Yogthos,6
-1,2017-12-09 03:21:02 -0600,"['/t/crypto', '/t/hardware', '/t/privacy', '/t/security']",Attacking #IntelME -> Full code exec in ME,https://twitter.com/rootkovska/status/938458875522666497,/u/r31r06,5
-5,2017-12-08 14:08:37 -0600,"['/t/clojure', '/t/release']",Clojure 1.9,http://blog.cognitect.com/blog/clojure19,/u/numberten,18
-2,2017-12-08 14:02:41 -0600,"['/t/compilers', '/t/compsci', '/t/ml', '/t/person']",Interview of Xavier Leroy ­— POPL 18,https://www.cs.cmu.edu/~popl-interviews/leroy.html,/u/c-cube,17
-0,2017-12-08 22:40:32 -0600,['/t/hardware'],FPGA-Based Disk Controller for Apple II,https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/,/u/sevan,7
-0,2017-12-09 11:38:11 -0600,"['/t/hardware', '/t/programming', '/t/security', '/t/web']",Build an HTTP Web Page Using seL4: Verifiable Security for IoT Projects,http://dornerworks.com/blog/build-http-webpage-ui-using-sel4-bring-verified-security-iot-projects,/u/nickpsecurity,1
-14,2017-12-08 06:34:42 -0600,['/t/cryptocurrencies'],ETC is NOT Coming ... it's failing and is dangerous,https://web.archive.org/web/20171208104145/http://etciscoming.com/,/u/asthasr,20
-1,2017-12-08 03:41:12 -0600,['/t/openbsd'],"OpenBSD/arm64 now officially supported, and has syspatch(8)",https://undeadly.org/cgi?action=article;sid=20171208082238,/u/fcambus,46
-1,2017-12-08 09:39:40 -0600,"['/t/c++', '/t/programming']",HANA C++ Development Environment and Processes · HookRace Blog,https://hookrace.net/blog/hana-cpp-development/,/u/def-,11
+11,2017-12-09 07:05:43 -0600,/t/java,Avoid getters and setters whenever possible,https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m,/u/calvin,14
+3,2017-12-09 07:15:57 -0600,"/t/go,/t/haskell",A Tour of Go in Haskell,https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html,/u/julienXX,21
+11,2017-12-09 10:06:12 -0600,/t/lisp,Why is Scheme not a Lisp? (2002),https://groups.google.com/d/msg/comp.lang.lisp/Bj8Hx6mZEYI/6AWmNEwQR5YJ,/u/geocar,9
+0,2017-12-09 20:23:01 -0600,"/t/reversing,/t/windows",HP keylogger,https://zwclose.github.io/HP-keylogger/,/u/calvin,4
+4,2017-12-09 10:23:18 -0600,"/t/programming,/t/visualization",Visualizing Newton's method using WebGL,https://lukezapart.com/newtons-method,/u/Yogthos,7
+2,2017-12-09 07:13:40 -0600,/t/assembly,You don't have to learn assembly to read disassembly,http://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html,/u/calvin,8
+0,2017-12-09 04:04:50 -0600,"/t/games,/t/hardware","Making a Game Boy game in 2017: A ""Sheep It Up!"" Post-Mortem (part 1/2)",https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/Making_a_Game_Boy_game_in_2017_A_quotSheep_It_Upquot_PostMortem_part_12.php,/u/av,20
+0,2017-12-09 14:07:52 -0600,/t/networking,Decentralized Web Primer,https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/,/u/pushcx,6
+2,2017-12-09 10:03:37 -0600,"/t/cryptocurrencies,/t/programming","Comparing Solidity to LLL, and why I use the latter",https://ecc-comp.blogspot.com/2017/12/comparing-solidity-to-lll-and-why-i-use.html,/u/indirection,5
+0,2017-12-09 17:05:11 -0600,/t/cryptocurrencies,RaiBlocks is What Bitcoin Should Have Been From the Start,https://medium.com/@DecentRally/raiblocks-is-what-bitcoin-should-have-been-from-the-start-1d91c4c61d2d,/u/wildfire,3
+1,2017-12-09 05:08:55 -0600,"/t/education,/t/programming",A Hacker Writes a Children's Book,http://arthur-johnston.com/hacker_writes_a_childrens_book/,/u/mulander,9
+3,2017-12-09 04:18:57 -0600,"/t/lisp,/t/unix",Scheme For NuttX,https://keithp.com/blogs/nuttx-scheme/,/u/utzig,8
+0,2017-12-09 17:07:04 -0600,"/t/science,/t/visualization",Mapping Reddit Communities [img],https://i.redd.it/5e7ebb4ivo201.png,/u/wildfire,2
+20,2017-12-08 11:13:55 -0600,/t/meta,"Suggestion: Rename ""crypto"" tag to ""cryptography""",/s/mi8fmb/suggestion_rename_crypto_tag,/u/asthasr,31
+4,2017-12-08 15:18:40 -0600,"/t/education,/t/practices",Why You Need A Degree To Work For BigCo (2005),http://braythwayt.com/homoiconic/2013/12/28/why-you-need-a-degree-to-work-for-bigco.html,/u/calvin,23
+3,2017-12-08 08:51:04 -0600,/t/unix,52 weeks of Unix Newsletter,https://newsletter.nixers.net/entries.php,/u/venam,27
+0,2017-12-09 10:22:13 -0600,/t/culture,Work Smaller (Even If It Makes No Sense),https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a,/u/Yogthos,6
+1,2017-12-09 03:21:02 -0600,"/t/crypto,/t/hardware,/t/privacy,/t/security",Attacking #IntelME -> Full code exec in ME,https://twitter.com/rootkovska/status/938458875522666497,/u/r31r06,5
+5,2017-12-08 14:08:37 -0600,"/t/clojure,/t/release",Clojure 1.9,http://blog.cognitect.com/blog/clojure19,/u/numberten,18
+2,2017-12-08 14:02:41 -0600,"/t/compilers,/t/compsci,/t/ml,/t/person",Interview of Xavier Leroy ­— POPL 18,https://www.cs.cmu.edu/~popl-interviews/leroy.html,/u/c-cube,17
+0,2017-12-08 22:40:32 -0600,/t/hardware,FPGA-Based Disk Controller for Apple II,https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/,/u/sevan,7
+0,2017-12-09 11:38:11 -0600,"/t/hardware,/t/programming,/t/security,/t/web",Build an HTTP Web Page Using seL4: Verifiable Security for IoT Projects,http://dornerworks.com/blog/build-http-webpage-ui-using-sel4-bring-verified-security-iot-projects,/u/nickpsecurity,1
+14,2017-12-08 06:34:42 -0600,/t/cryptocurrencies,ETC is NOT Coming ... it's failing and is dangerous,https://web.archive.org/web/20171208104145/http://etciscoming.com/,/u/asthasr,20
+1,2017-12-08 03:41:12 -0600,/t/openbsd,"OpenBSD/arm64 now officially supported, and has syspatch(8)",https://undeadly.org/cgi?action=article;sid=20171208082238,/u/fcambus,46
+1,2017-12-08 09:39:40 -0600,"/t/c++,/t/programming",HANA C++ Development Environment and Processes · HookRace Blog,https://hookrace.net/blog/hana-cpp-development/,/u/def-,11

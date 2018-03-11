@@ -1,25 +1,25 @@
-0,2016-08-16 20:29:42 -0500,"['/t/graphics', '/t/web']",WebGL Deferred Irradiance Volumes,http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/,/u/flyingfisch,2
-0,2016-08-16 09:41:25 -0500,"['/t/programming', '/t/ruby']",Introducing dry-system,http://dry-rb.org/news/2016/08/15/introducing-dry-system/,/u/oz,8
-22,2016-08-15 12:33:15 -0500,['/t/ask'],What are you working on this week?,/s/uavass/what_are_you_working_on_this_week,/u/pushcx,22
-0,2016-08-16 11:12:03 -0500,"['/t/erlang', '/t/programming']",The Erlang shell: Your secret weapon [2013],https://medium.com/@jlouis666/the-erlang-shell-ab8d8bec3972,/u/unbalancedparentheses,6
-13,2016-08-15 12:28:35 -0500,['/t/vcs'],"Fossil, a not-so-new DVCS from the SQLite author",https://www.fossil-scm.org/,/u/quobit,43
-0,2016-08-16 07:02:14 -0500,['/t/hardware'],ColorHug - open source display colorimeter,http://www.hughski.com/,/u/geier,9
-2,2016-08-16 02:43:37 -0500,"['/t/go', '/t/programming']",Looking at your program’s structure in Go 1.7,https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html,/u/pab,11
-0,2016-08-16 14:03:56 -0500,"['/t/games', '/t/historical']","Examining Will Crowther's Original ""Adventure"" in Code and in Kentucky (2007)",http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html,/u/Teckla,3
-0,2016-08-16 11:11:06 -0500,"['/t/erlang', '/t/go', '/t/programming']",Ranking 4 Million Quake Live duels in 1.5 seconds [2015],https://medium.com/@jlouis666/ranking-4-million-quake-live-duels-in-1-5-seconds-fc84750aad1f,/u/unbalancedparentheses,4
-1,2016-08-15 19:00:00 -0500,['/t/go'],Go 1.7 is released - The Go Blog,https://blog.golang.org/go1.7,/u/trousers,24
-0,2016-08-16 02:40:23 -0500,"['/t/security', '/t/testing']",Circumventing Fuzzing Roadblocks with Compiler Transformations,https://lafintel.wordpress.com/2016/08/15/circumventing-fuzzing-roadblocks-with-compiler-transformations/,/u/DRMacIver,11
-1,2016-08-16 11:16:20 -0500,['/t/vcs'],DVCS and Bug Tracking,http://ericsink.com/entries/dbts_fossil.html,/u/unbalancedparentheses,2
-1,2016-08-16 10:19:25 -0500,['/t/vcs'],"Aegis, a ""Project Change Supervisor""",http://aegis.sourceforge.net,/u/zedoary,2
-0,2016-08-16 13:32:05 -0500,"['/t/visualization', '/t/web']",Introducing Webpack Dashboard,https://formidable.com/blog/2016/08/15/introducing-webpack-dashboard/,/u/Flisk,2
-0,2016-08-16 09:33:11 -0500,['/t/security'],EquationGroup Tool Leak – ExtraBacon Demo,https://xorcatt.wordpress.com/2016/08/16/equationgroup-tool-leak-extrabacon-demo/,/u/sevan,3
-0,2016-08-16 12:15:44 -0500,"['/t/c', '/t/go', '/t/philosophy']",Less is exponentially more (2012),https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html,/u/nil,2
-0,2016-08-16 09:46:10 -0500,['/t/go'],Learn Go has been updated,https://yng.mn/learngolang,/u/nathany,1
-0,2016-08-16 10:50:42 -0500,['/t/devops'],Monitoring Kubernetes with Heapster,https://deis.com/blog/2016/monitoring-kubernetes-with-heapster/,/u/nslater,2
-0,2016-08-16 05:02:09 -0500,"['/t/pdf', '/t/c', '/t/programming']","Intercepting Arbitrary Functions on Windows, UNIX, and Macintosh OS X Platforms (2004)",http://wwwold.cs.umd.edu/Library/TRs/CS-TR-4585/CS-TR-4585.pdf,/u/mjturner,4
-0,2016-08-16 12:28:03 -0500,"['/t/programming', '/t/python']",PySonar: a type inferencer and indexer for Python,https://yinwang0.wordpress.com/2010/09/12/pysonar/,/u/bowyakka,1
-0,2016-08-15 22:01:54 -0500,['/t/games'],"Infinity - unfinished 2000-era Game Boy Color game made available, with source",http://affinix.com/,/u/calvin,8
-2,2016-08-15 15:42:55 -0500,"['/t/ask', '/t/perl']",Learning Perl 6—Need a general outline of basic things one should know to checkoff.,/s/clb2ta/learning_perl_6_need_general_outline,/u/Usermac,6
-4,2016-08-15 06:23:05 -0500,['/t/practices'],Attribution on the web,https://eev.ee/blog/2016/08/15/attribution-on-the-web/,/u/calvin,24
-3,2016-08-15 13:52:11 -0500,['/t/perl'],The Awesome Errors of Perl 6,http://perl6.party/post/The-Awesome-Errors-of-Perl-6,/u/hoelzro,12
-0,2016-08-15 16:25:00 -0500,['/t/hardware'],Why didn't Larrabee fail?,http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BWhy%20didn%27t%20Larrabee%20fail%3F%5D%5D,/u/chadski,12
+0,2016-08-16 20:29:42 -0500,"/t/graphics,/t/web",WebGL Deferred Irradiance Volumes,http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/,/u/flyingfisch,2
+0,2016-08-16 09:41:25 -0500,"/t/programming,/t/ruby",Introducing dry-system,http://dry-rb.org/news/2016/08/15/introducing-dry-system/,/u/oz,8
+22,2016-08-15 12:33:15 -0500,/t/ask,What are you working on this week?,/s/uavass/what_are_you_working_on_this_week,/u/pushcx,22
+0,2016-08-16 11:12:03 -0500,"/t/erlang,/t/programming",The Erlang shell: Your secret weapon [2013],https://medium.com/@jlouis666/the-erlang-shell-ab8d8bec3972,/u/unbalancedparentheses,6
+13,2016-08-15 12:28:35 -0500,/t/vcs,"Fossil, a not-so-new DVCS from the SQLite author",https://www.fossil-scm.org/,/u/quobit,43
+0,2016-08-16 07:02:14 -0500,/t/hardware,ColorHug - open source display colorimeter,http://www.hughski.com/,/u/geier,9
+2,2016-08-16 02:43:37 -0500,"/t/go,/t/programming",Looking at your program’s structure in Go 1.7,https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html,/u/pab,11
+0,2016-08-16 14:03:56 -0500,"/t/games,/t/historical","Examining Will Crowther's Original ""Adventure"" in Code and in Kentucky (2007)",http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html,/u/Teckla,3
+0,2016-08-16 11:11:06 -0500,"/t/erlang,/t/go,/t/programming",Ranking 4 Million Quake Live duels in 1.5 seconds [2015],https://medium.com/@jlouis666/ranking-4-million-quake-live-duels-in-1-5-seconds-fc84750aad1f,/u/unbalancedparentheses,4
+1,2016-08-15 19:00:00 -0500,/t/go,Go 1.7 is released - The Go Blog,https://blog.golang.org/go1.7,/u/trousers,24
+0,2016-08-16 02:40:23 -0500,"/t/security,/t/testing",Circumventing Fuzzing Roadblocks with Compiler Transformations,https://lafintel.wordpress.com/2016/08/15/circumventing-fuzzing-roadblocks-with-compiler-transformations/,/u/DRMacIver,11
+1,2016-08-16 11:16:20 -0500,/t/vcs,DVCS and Bug Tracking,http://ericsink.com/entries/dbts_fossil.html,/u/unbalancedparentheses,2
+1,2016-08-16 10:19:25 -0500,/t/vcs,"Aegis, a ""Project Change Supervisor""",http://aegis.sourceforge.net,/u/zedoary,2
+0,2016-08-16 13:32:05 -0500,"/t/visualization,/t/web",Introducing Webpack Dashboard,https://formidable.com/blog/2016/08/15/introducing-webpack-dashboard/,/u/Flisk,2
+0,2016-08-16 09:33:11 -0500,/t/security,EquationGroup Tool Leak – ExtraBacon Demo,https://xorcatt.wordpress.com/2016/08/16/equationgroup-tool-leak-extrabacon-demo/,/u/sevan,3
+0,2016-08-16 12:15:44 -0500,"/t/c,/t/go,/t/philosophy",Less is exponentially more (2012),https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html,/u/nil,2
+0,2016-08-16 09:46:10 -0500,/t/go,Learn Go has been updated,https://yng.mn/learngolang,/u/nathany,1
+0,2016-08-16 10:50:42 -0500,/t/devops,Monitoring Kubernetes with Heapster,https://deis.com/blog/2016/monitoring-kubernetes-with-heapster/,/u/nslater,2
+0,2016-08-16 05:02:09 -0500,"/t/pdf,/t/c,/t/programming","Intercepting Arbitrary Functions on Windows, UNIX, and Macintosh OS X Platforms (2004)",http://wwwold.cs.umd.edu/Library/TRs/CS-TR-4585/CS-TR-4585.pdf,/u/mjturner,4
+0,2016-08-16 12:28:03 -0500,"/t/programming,/t/python",PySonar: a type inferencer and indexer for Python,https://yinwang0.wordpress.com/2010/09/12/pysonar/,/u/bowyakka,1
+0,2016-08-15 22:01:54 -0500,/t/games,"Infinity - unfinished 2000-era Game Boy Color game made available, with source",http://affinix.com/,/u/calvin,8
+2,2016-08-15 15:42:55 -0500,"/t/ask,/t/perl",Learning Perl 6—Need a general outline of basic things one should know to checkoff.,/s/clb2ta/learning_perl_6_need_general_outline,/u/Usermac,6
+4,2016-08-15 06:23:05 -0500,/t/practices,Attribution on the web,https://eev.ee/blog/2016/08/15/attribution-on-the-web/,/u/calvin,24
+3,2016-08-15 13:52:11 -0500,/t/perl,The Awesome Errors of Perl 6,http://perl6.party/post/The-Awesome-Errors-of-Perl-6,/u/hoelzro,12
+0,2016-08-15 16:25:00 -0500,/t/hardware,Why didn't Larrabee fail?,http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BWhy%20didn%27t%20Larrabee%20fail%3F%5D%5D,/u/chadski,12

@@ -1,25 +1,25 @@
-0,2014-03-20 12:08:24 -0500,"['/t/compsci', '/t/javascript', '/t/programming']",Everything you need to know about Javascript variable scope,http://www.coolcoder.in/2014/03/everything-you-need-to-know-about.html,/u/codeon1,1
-0,2014-03-19 15:16:16 -0500,['/t/games'],Unreal Engine 4 released,https://www.unrealengine.com/,/u/lm,12
-4,2014-03-19 09:51:23 -0500,['/t/security'],The End of full-disclosure,http://seclists.org/fulldisclosure/2014/Mar/332,/u/chneukirchen,15
-2,2014-03-19 11:53:08 -0500,"['/t/hardware', '/t/linux']","Ubuntu 14.04 Now Runs Well On The 2013 MacBook Air, Beats OS X 10.9 In Graphics",http://www.phoronix.com/vr.php?view=20031,/u/journeysquid,8
-0,2014-03-19 20:59:24 -0500,"['/t/lisp', '/t/programming']",MPS (Memory Pool System) Kit release 1.113.0,http://mailman.ravenbrook.com/pipermail/mps-discussion/2014-March/000135.html,/u/BruceM,4
-0,2014-03-19 20:24:36 -0500,['/t/erlang'],Parsing the Kafka protocol with Erlang,https://coderwall.com/p/1lyfxg,/u/jm,4
-0,2014-03-19 14:33:11 -0500,"['/t/practices', '/t/programming']",Lessons from a Silicon Valley job search,http://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/,/u/journeysquid,7
-0,2014-03-19 12:30:14 -0500,"['/t/law', '/t/networking']","Level 3: ""Chicken"" - A Game Played as a Child and by some ISPs with the Internet",http://blog.level3.com/global-connectivity/chicken-game-played-child-isps-internet/,/u/journeysquid,8
-0,2014-03-19 15:35:11 -0500,['/t/security'],How do you know if an RNG is working?,http://blog.cryptographyengineering.com/2014/03/how-do-you-know-if-rng-is-working.html,/u/jcs,5
-2,2014-03-19 11:08:38 -0500,['/t/openbsd'],"OpenBSD drops hp300, mvme68k and mvme88k ports",http://marc.info/?l=openbsd-cvs&m=139518232903722&w=2,/u/jcs,6
-0,2014-03-19 17:37:30 -0500,['/t/programming'],The Corruption of Agile,http://www.drdobbs.com/architecture-and-design/the-corruption-of-agile/240166698,/u/mattk,3
-0,2014-03-19 08:02:31 -0500,"['/t/c', '/t/hardware', '/t/networking']",Getting Started with MQTT,http://spin.atomicobject.com/2014/03/19/mqtt-protocol-ethernet/,/u/silentbicycle,9
-0,2014-03-19 16:43:31 -0500,"['/t/javascript', '/t/visualization']",Variance Charts,https://variancecharts.com/,/u/akshayshah,3
-7,2014-03-18 18:35:47 -0500,['/t/vim'],Why I use Vim,http://pascalprecht.github.io/2014/03/18/why-i-use-vim/,/u/jm,19
-0,2014-03-18 19:56:21 -0500,['/t/person'],Leslie Lamport wins Turing award,http://www.acm.org/news/featured/awards/turing-award-2013,/u/SeanTAllen,24
-0,2014-03-19 09:49:42 -0500,"['/t/video', '/t/distributed']",Advancing Distributed Systems,http://vimeo.com/52446728,/u/SeanTAllen,4
-14,2014-03-18 14:33:56 -0500,['/t/security'],Thoughts on Keybase.io,http://blog.lrdesign.com/2014/03/thoughts-on-keybase-io/,/u/judsonlester,16
-0,2014-03-19 11:50:37 -0500,"['/t/go', '/t/programming', '/t/ruby']",Rewriting the Buildbox Agent - Buildbox Blog,https://buildbox.io/blog/rewriting-the-buildbox-agent,/u/keithpitt,1
-0,2014-03-18 20:44:14 -0500,"['/t/compsci', '/t/distributed']",Collected works of Leslie Lamport,http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html,/u/SeanTAllen,7
-4,2014-03-18 09:48:56 -0500,['/t/compsci'],Reproducibility in Computer Science,http://reproducibility.cs.arizona.edu/,/u/jm,8
-0,2014-03-19 04:43:20 -0500,['/t/javascript'],"AngularJS, services first",http://www.traininjs.com/angularjs-services-first/,/u/davidb583,1
-1,2014-03-18 10:05:12 -0500,"['/t/distributed', '/t/programming']",Largest Redis Ever: 18TB+ at Sina Weibo,http://www.xdata.me/?p=353,/u/ralphtice,12
-2,2014-03-18 08:08:32 -0500,"['/t/java', '/t/programming']",Java 8 Tutorial,http://winterbe.com/posts/2014/03/16/java-8-tutorial/,/u/penberg,11
-0,2014-03-18 15:16:03 -0500,"['/t/design', '/t/python']",A false midnight,http://lwn.net/SubscriberLink/590299/bf73fe823974acea/,/u/pushcx,6
-0,2014-03-18 16:35:49 -0500,"['/t/linux', '/t/security']","10,000 Linux servers hit by malware serving tsunami of spam and exploits",http://arstechnica.com/security/2014/03/10000-linux-servers-hit-by-malware-serving-tsunami-of-spam-and-exploits/,/u/tedu,5
+0,2014-03-20 12:08:24 -0500,"/t/compsci,/t/javascript,/t/programming",Everything you need to know about Javascript variable scope,http://www.coolcoder.in/2014/03/everything-you-need-to-know-about.html,/u/codeon1,1
+0,2014-03-19 15:16:16 -0500,/t/games,Unreal Engine 4 released,https://www.unrealengine.com/,/u/lm,12
+4,2014-03-19 09:51:23 -0500,/t/security,The End of full-disclosure,http://seclists.org/fulldisclosure/2014/Mar/332,/u/chneukirchen,15
+2,2014-03-19 11:53:08 -0500,"/t/hardware,/t/linux","Ubuntu 14.04 Now Runs Well On The 2013 MacBook Air, Beats OS X 10.9 In Graphics",http://www.phoronix.com/vr.php?view=20031,/u/journeysquid,8
+0,2014-03-19 20:59:24 -0500,"/t/lisp,/t/programming",MPS (Memory Pool System) Kit release 1.113.0,http://mailman.ravenbrook.com/pipermail/mps-discussion/2014-March/000135.html,/u/BruceM,4
+0,2014-03-19 20:24:36 -0500,/t/erlang,Parsing the Kafka protocol with Erlang,https://coderwall.com/p/1lyfxg,/u/jm,4
+0,2014-03-19 14:33:11 -0500,"/t/practices,/t/programming",Lessons from a Silicon Valley job search,http://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/,/u/journeysquid,7
+0,2014-03-19 12:30:14 -0500,"/t/law,/t/networking","Level 3: ""Chicken"" - A Game Played as a Child and by some ISPs with the Internet",http://blog.level3.com/global-connectivity/chicken-game-played-child-isps-internet/,/u/journeysquid,8
+0,2014-03-19 15:35:11 -0500,/t/security,How do you know if an RNG is working?,http://blog.cryptographyengineering.com/2014/03/how-do-you-know-if-rng-is-working.html,/u/jcs,5
+2,2014-03-19 11:08:38 -0500,/t/openbsd,"OpenBSD drops hp300, mvme68k and mvme88k ports",http://marc.info/?l=openbsd-cvs&m=139518232903722&w=2,/u/jcs,6
+0,2014-03-19 17:37:30 -0500,/t/programming,The Corruption of Agile,http://www.drdobbs.com/architecture-and-design/the-corruption-of-agile/240166698,/u/mattk,3
+0,2014-03-19 08:02:31 -0500,"/t/c,/t/hardware,/t/networking",Getting Started with MQTT,http://spin.atomicobject.com/2014/03/19/mqtt-protocol-ethernet/,/u/silentbicycle,9
+0,2014-03-19 16:43:31 -0500,"/t/javascript,/t/visualization",Variance Charts,https://variancecharts.com/,/u/akshayshah,3
+7,2014-03-18 18:35:47 -0500,/t/vim,Why I use Vim,http://pascalprecht.github.io/2014/03/18/why-i-use-vim/,/u/jm,19
+0,2014-03-18 19:56:21 -0500,/t/person,Leslie Lamport wins Turing award,http://www.acm.org/news/featured/awards/turing-award-2013,/u/SeanTAllen,24
+0,2014-03-19 09:49:42 -0500,"/t/video,/t/distributed",Advancing Distributed Systems,http://vimeo.com/52446728,/u/SeanTAllen,4
+14,2014-03-18 14:33:56 -0500,/t/security,Thoughts on Keybase.io,http://blog.lrdesign.com/2014/03/thoughts-on-keybase-io/,/u/judsonlester,16
+0,2014-03-19 11:50:37 -0500,"/t/go,/t/programming,/t/ruby",Rewriting the Buildbox Agent - Buildbox Blog,https://buildbox.io/blog/rewriting-the-buildbox-agent,/u/keithpitt,1
+0,2014-03-18 20:44:14 -0500,"/t/compsci,/t/distributed",Collected works of Leslie Lamport,http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html,/u/SeanTAllen,7
+4,2014-03-18 09:48:56 -0500,/t/compsci,Reproducibility in Computer Science,http://reproducibility.cs.arizona.edu/,/u/jm,8
+0,2014-03-19 04:43:20 -0500,/t/javascript,"AngularJS, services first",http://www.traininjs.com/angularjs-services-first/,/u/davidb583,1
+1,2014-03-18 10:05:12 -0500,"/t/distributed,/t/programming",Largest Redis Ever: 18TB+ at Sina Weibo,http://www.xdata.me/?p=353,/u/ralphtice,12
+2,2014-03-18 08:08:32 -0500,"/t/java,/t/programming",Java 8 Tutorial,http://winterbe.com/posts/2014/03/16/java-8-tutorial/,/u/penberg,11
+0,2014-03-18 15:16:03 -0500,"/t/design,/t/python",A false midnight,http://lwn.net/SubscriberLink/590299/bf73fe823974acea/,/u/pushcx,6
+0,2014-03-18 16:35:49 -0500,"/t/linux,/t/security","10,000 Linux servers hit by malware serving tsunami of spam and exploits",http://arstechnica.com/security/2014/03/10000-linux-servers-hit-by-malware-serving-tsunami-of-spam-and-exploits/,/u/tedu,5

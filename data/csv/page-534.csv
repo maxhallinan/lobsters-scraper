@@ -1,25 +1,25 @@
-3,2017-01-12 21:41:23 -0600,"['/t/pdf', '/t/math', '/t/satire']",Chicken,https://isotropic.org/papers/chicken.pdf,/u/friendlysock,2
-10,2017-01-11 10:47:15 -0600,['/t/programming'],Eta Programming Language,http://eta-lang.org/,/u/gluegadget,27
-0,2017-01-12 14:14:57 -0600,"['/t/book', '/t/design', '/t/web']",Resilient Web Design,https://resilientwebdesign.com/,/u/flyingfisch,2
-1,2017-01-12 00:25:34 -0600,"['/t/book', '/t/practices', '/t/release']",Producing Open Source Software (The 2nd Edition is now finished!),http://producingoss.com/,/u/stsp,10
-2,2017-01-11 22:17:35 -0600,"['/t/historical', '/t/practices']",The Inside Story of BitTorrent’s Bizarre Collapse,https://backchannel.com/the-inside-story-of-bittorrents-bizarre-collapse-a0766a5442d7,/u/sevan,7
-1,2017-01-11 10:58:59 -0600,"['/t/networking', '/t/rust']",Announcing Tokio 0.1,https://tokio.rs/blog/tokio-0-1/,/u/fredsir,28
-0,2017-01-12 07:10:12 -0600,['/t/security'],RWC 2017 - Is Password Insecurity Inevitable?,http://bristolcrypto.blogspot.com/2017/01/rwc-2017-is-password-insecurity.html,/u/fcbsd,3
-0,2017-01-12 06:37:18 -0600,"['/t/linux', '/t/mac']",Why I switched from OS X to Linux,https://jeena.net/why-i-switchedfrom-osx-to-linux,/u/calvin,3
-0,2017-01-11 22:45:19 -0600,"['/t/compilers', '/t/swift']","Building a Compiler in Swift with LLVM, Part 3: Code Generation to LLVM IR",https://harlanhaskins.com/2017/01/11/building-a-compiler-with-swift-in-llvm-part-3-code-generation-to-llvm-ir.html,/u/harlanhaskins,4
-0,2017-01-12 12:24:29 -0600,['/t/security'],Let’s Encrypt 2016 In Review,https://letsencrypt.org//2017/01/06/le-2016-in-review.html,/u/flyingfisch,1
-0,2017-01-11 17:02:11 -0600,"['/t/crypto', '/t/math']",Elliptic Curve Cryptography: a gentle introduction,http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/,/u/evhan,12
-2,2017-01-11 08:40:39 -0600,['/t/graphics'],Blender for Hackers - 3D modeling is just like using VIM,https://learntemail.sam.today/blog/blender-for-hackers-3d-modeling-is-just-like-using-vim/,/u/calvin,22
-0,2017-01-12 04:13:26 -0600,['/t/devops'],Fission: Serverless functions for Kubernetes,http://fission.io/,/u/jussi,3
-0,2017-01-12 10:11:24 -0600,"['/t/databases', '/t/nodejs', '/t/security']",How to prevent NoSQL injections in MongoDB in a Node.js app,https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/,/u/PaulBlei,1
-2,2017-01-11 20:43:03 -0600,['/t/practices'],Why open offices are bad for us,http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories,/u/calvin,3
-0,2017-01-11 21:11:20 -0600,"['/t/networking', '/t/rust']",Thrussh: Portable SSH client and server library,https://pijul.org/thrussh/,/u/sanxiyn,6
-0,2017-01-11 17:08:41 -0600,['/t/erlang'],Running out of Ammo – Erlang Battleground,https://medium.com/erlang-battleground/running-out-of-ammo-769bb28baac2,/u/elbrujohalcon,5
-5,2017-01-11 04:55:15 -0600,['/t/practices'],Dear package managers: dependency resolution results should be in version control,https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/,/u/ap,22
-4,2017-01-11 07:31:26 -0600,"['/t/devops', '/t/linux']",Install Debian packages without starting daemons,https://major.io/2014/06/26/install-debian-packages-without-starting-daemons/,/u/benzimmer,11
-0,2017-01-11 18:18:17 -0600,"['/t/compilers', '/t/compsci']",Oregon Programming Languages Summer School (2016),https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php,/u/evhan,6
-1,2017-01-11 10:23:02 -0600,['/t/lisp'],Playing With Syntax,http://stevelosh.com/blog/2016/08/playing-with-syntax/,/u/flyingfisch,12
-11,2017-01-11 07:19:08 -0600,"['/t/programming', '/t/ruby']",Ruby is still great!,http://hmans.io/posts/2017/01/10/ruby-is-still-great.html,/u/mostly-harmless,10
-3,2017-01-11 07:22:29 -0600,"['/t/pdf', '/t/programming']",Immutability Changes Everything,http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf,/u/Dawny33,9
-1,2017-01-11 11:22:13 -0600,"['/t/javascript', '/t/practices']",The introduction to Reactive Programming you've been missing,https://gist.github.com/staltz/868e7e9bc2a7b8c1f754,/u/friendlysock,9
-17,2017-01-10 12:39:09 -0600,['/t/compsci'],Talmudic codes and computer science,http://www.yodaiken.com/2006/12/30/talmudic-codes/,/u/vyodaiken,32
+3,2017-01-12 21:41:23 -0600,"/t/pdf,/t/math,/t/satire",Chicken,https://isotropic.org/papers/chicken.pdf,/u/friendlysock,2
+10,2017-01-11 10:47:15 -0600,/t/programming,Eta Programming Language,http://eta-lang.org/,/u/gluegadget,27
+0,2017-01-12 14:14:57 -0600,"/t/book,/t/design,/t/web",Resilient Web Design,https://resilientwebdesign.com/,/u/flyingfisch,2
+1,2017-01-12 00:25:34 -0600,"/t/book,/t/practices,/t/release",Producing Open Source Software (The 2nd Edition is now finished!),http://producingoss.com/,/u/stsp,10
+2,2017-01-11 22:17:35 -0600,"/t/historical,/t/practices",The Inside Story of BitTorrent’s Bizarre Collapse,https://backchannel.com/the-inside-story-of-bittorrents-bizarre-collapse-a0766a5442d7,/u/sevan,7
+1,2017-01-11 10:58:59 -0600,"/t/networking,/t/rust",Announcing Tokio 0.1,https://tokio.rs/blog/tokio-0-1/,/u/fredsir,28
+0,2017-01-12 07:10:12 -0600,/t/security,RWC 2017 - Is Password Insecurity Inevitable?,http://bristolcrypto.blogspot.com/2017/01/rwc-2017-is-password-insecurity.html,/u/fcbsd,3
+0,2017-01-12 06:37:18 -0600,"/t/linux,/t/mac",Why I switched from OS X to Linux,https://jeena.net/why-i-switchedfrom-osx-to-linux,/u/calvin,3
+0,2017-01-11 22:45:19 -0600,"/t/compilers,/t/swift","Building a Compiler in Swift with LLVM, Part 3: Code Generation to LLVM IR",https://harlanhaskins.com/2017/01/11/building-a-compiler-with-swift-in-llvm-part-3-code-generation-to-llvm-ir.html,/u/harlanhaskins,4
+0,2017-01-12 12:24:29 -0600,/t/security,Let’s Encrypt 2016 In Review,https://letsencrypt.org//2017/01/06/le-2016-in-review.html,/u/flyingfisch,1
+0,2017-01-11 17:02:11 -0600,"/t/crypto,/t/math",Elliptic Curve Cryptography: a gentle introduction,http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/,/u/evhan,12
+2,2017-01-11 08:40:39 -0600,/t/graphics,Blender for Hackers - 3D modeling is just like using VIM,https://learntemail.sam.today/blog/blender-for-hackers-3d-modeling-is-just-like-using-vim/,/u/calvin,22
+0,2017-01-12 04:13:26 -0600,/t/devops,Fission: Serverless functions for Kubernetes,http://fission.io/,/u/jussi,3
+0,2017-01-12 10:11:24 -0600,"/t/databases,/t/nodejs,/t/security",How to prevent NoSQL injections in MongoDB in a Node.js app,https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/,/u/PaulBlei,1
+2,2017-01-11 20:43:03 -0600,/t/practices,Why open offices are bad for us,http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories,/u/calvin,3
+0,2017-01-11 21:11:20 -0600,"/t/networking,/t/rust",Thrussh: Portable SSH client and server library,https://pijul.org/thrussh/,/u/sanxiyn,6
+0,2017-01-11 17:08:41 -0600,/t/erlang,Running out of Ammo – Erlang Battleground,https://medium.com/erlang-battleground/running-out-of-ammo-769bb28baac2,/u/elbrujohalcon,5
+5,2017-01-11 04:55:15 -0600,/t/practices,Dear package managers: dependency resolution results should be in version control,https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/,/u/ap,22
+4,2017-01-11 07:31:26 -0600,"/t/devops,/t/linux",Install Debian packages without starting daemons,https://major.io/2014/06/26/install-debian-packages-without-starting-daemons/,/u/benzimmer,11
+0,2017-01-11 18:18:17 -0600,"/t/compilers,/t/compsci",Oregon Programming Languages Summer School (2016),https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php,/u/evhan,6
+1,2017-01-11 10:23:02 -0600,/t/lisp,Playing With Syntax,http://stevelosh.com/blog/2016/08/playing-with-syntax/,/u/flyingfisch,12
+11,2017-01-11 07:19:08 -0600,"/t/programming,/t/ruby",Ruby is still great!,http://hmans.io/posts/2017/01/10/ruby-is-still-great.html,/u/mostly-harmless,10
+3,2017-01-11 07:22:29 -0600,"/t/pdf,/t/programming",Immutability Changes Everything,http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf,/u/Dawny33,9
+1,2017-01-11 11:22:13 -0600,"/t/javascript,/t/practices",The introduction to Reactive Programming you've been missing,https://gist.github.com/staltz/868e7e9bc2a7b8c1f754,/u/friendlysock,9
+17,2017-01-10 12:39:09 -0600,/t/compsci,Talmudic codes and computer science,http://www.yodaiken.com/2006/12/30/talmudic-codes/,/u/vyodaiken,32

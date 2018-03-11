@@ -1,25 +1,25 @@
-0,2017-07-19 18:06:42 -0500,"['/t/ai', '/t/games']",How Checkers Was Solved,https://www.theatlantic.com/technology/archive/2017/07/marion-tinsley-checkers/534111/,/u/mjn,4
-28,2017-07-18 11:34:23 -0500,"['/t/databases', '/t/performance', '/t/ruby']",How I Reduced my DB Server Load by 80%,https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/,/u/schneems,33
-0,2017-07-19 22:40:51 -0500,['/t/hardware'],Dice-O-Matic hopper and elevator,http://www.gamesbyemail.com/News/DiceOMatic,/u/pushcx,2
-1,2017-07-19 18:44:00 -0500,['/t/web'],neverpanic/google-font-download -- Locally host Google's web fonts,https://github.com/neverpanic/google-font-download,/u/pizzaiolo,2
-0,2017-07-19 16:35:46 -0500,['/t/historical'],Restoring Yesterday’s “Computer System of Tomorrow”: A Conversation with Curator & Alto Restorer,http://www.computerhistory.org/atchm/how-the-center-for-software-history-is-restoring-yesterdays-computer-system-of-tomorrow-a-conversation-with-curator-alto-restorer-al-kossow/,/u/calvin,4
-23,2017-07-18 12:52:35 -0500,['/t/performance'],Terminal and Shell Performance,https://danluu.com/term-latency/,/u/xoebus,42
-0,2017-07-19 02:55:35 -0500,"['/t/pdf', '/t/formalmethods', '/t/haskell']",Using Coq to Write Fast and Correct Haskell,https://www.cs.purdue.edu/homes/bendy/Fiat/FiatByteString.pdf,/u/NinjaTrappeur,18
-46,2017-07-18 11:30:12 -0500,"['/t/security', '/t/web']",moving to https,http://www.tedunangst.com/flak/post/moving-to-https,/u/calvin,39
-0,2017-07-19 15:57:52 -0500,['/t/ai'],CatBoost: an open-source gradient boosting library,https://catboost.yandex/,/u/sanxiyn,3
-0,2017-07-18 22:27:17 -0500,['/t/practices'],A Look into NASA’s Coding Philosophy,https://medium.com/@abnercoimbre/a-look-into-nasas-coding-philosophy-b747957c7f8a,/u/calvin,22
-0,2017-07-19 12:23:13 -0500,['/t/java'],"The Top 100 Java Libraries in 2017 - Based on 259,885 Source Files",http://blog.takipi.com/the-top-100-java-libraries-in-2017-based-on-259885-source-files/,/u/hennidan,2
-1,2017-07-19 08:27:44 -0500,['/t/privacy'],What Does It Really Take To Track A Million Cell Phones?,https://thehftguy.com/2017/07/19/what-does-it-really-take-to-track-100-million-cell-phones/,/u/dgv,5
-0,2017-07-19 13:19:30 -0500,"['/t/java', '/t/javascript']",DoppioJVM: A JVM in JavaScript,http://plasma-umass.github.io/doppio-demo/,/u/loige,3
-0,2017-07-19 15:37:08 -0500,"['/t/pdf', '/t/security']",Address-Oblivious Code Reuse: On the Effectiveness of Leakage-Resilient Diversity,http://web.mit.edu/ha22286/www/papers/NDSS17.pdf,/u/fro,2
-2,2017-07-19 00:29:01 -0500,['/t/virtualization'],Docker DOOM,https://gideonred.com/dockerdoom/,/u/jasper,9
-1,2017-07-19 14:38:20 -0500,"['/t/cryptocurrencies', '/t/event', '/t/privacy']",Tor AlphaBay Black Market Busted,http://gizmodo.com/the-biggest-marketplace-on-the-dark-web-gets-busted-by-1796905547,/u/timetoplatypus,1
-0,2017-07-19 14:12:10 -0500,['/t/testing'],Selective Unit Testing – Costs and Benefits [2009],http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/,/u/soulcutter,2
-0,2017-07-19 13:51:24 -0500,['/t/graphics'],Graphics in Plain Language,https://renderdoc.org/blog/Graphics-in-Plain-Language/,/u/mikejsavage,2
-0,2017-07-19 16:01:39 -0500,"['/t/ai', '/t/book', '/t/python']",Best Books for Machine Learning with Python,https://www.onlinebooksreview.com/articles/top-5-best-books-for-machine-learning-with-python,/u/mashpy,1
-0,2017-07-18 22:33:35 -0500,"['/t/api', '/t/erlang']",Erlang: Migrating from Cowboy 1.0 to 2.0,https://github.com/ninenines/cowboy/blob/master/doc/src/guide/migrating_from_1.0.asciidoc,/u/unbalancedparentheses,11
-7,2017-07-18 17:12:03 -0500,"['/t/event', '/t/security']",DEF CON® 25 Hacking Conference - Talks (speaker schedule now up),https://www.defcon.org/html/defcon-25/dc-25-speakers.html,/u/friendlysock,10
-0,2017-07-18 22:24:49 -0500,"['/t/android', '/t/programming']",I am the reason for Hungarian notation in Android,http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/,/u/calvin,11
-0,2017-07-19 06:43:17 -0500,"['/t/performance', '/t/programming']",Memory Alignment and Performance,https://fylux.github.io/2017/07/11/Memory_Alignment/,/u/calvin,4
-0,2017-07-19 14:44:48 -0500,"['/t/crypto', '/t/event', '/t/security']",Petya's Ransomware Cloaking Device,http://www.technewsworld.com/story/84659.html,/u/timetoplatypus,1
-0,2017-07-19 14:40:19 -0500,['/t/security'],"On The (Perceived) Value of EV Certs, Commercial CAs, Phishing and Let's Encrypt",https://www.troyhunt.com/on-the-perceived-value-ev-certs-cas-phishing-lets-encrypt/,/u/trousers,1
+0,2017-07-19 18:06:42 -0500,"/t/ai,/t/games",How Checkers Was Solved,https://www.theatlantic.com/technology/archive/2017/07/marion-tinsley-checkers/534111/,/u/mjn,4
+28,2017-07-18 11:34:23 -0500,"/t/databases,/t/performance,/t/ruby",How I Reduced my DB Server Load by 80%,https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/,/u/schneems,33
+0,2017-07-19 22:40:51 -0500,/t/hardware,Dice-O-Matic hopper and elevator,http://www.gamesbyemail.com/News/DiceOMatic,/u/pushcx,2
+1,2017-07-19 18:44:00 -0500,/t/web,neverpanic/google-font-download -- Locally host Google's web fonts,https://github.com/neverpanic/google-font-download,/u/pizzaiolo,2
+0,2017-07-19 16:35:46 -0500,/t/historical,Restoring Yesterday’s “Computer System of Tomorrow”: A Conversation with Curator & Alto Restorer,http://www.computerhistory.org/atchm/how-the-center-for-software-history-is-restoring-yesterdays-computer-system-of-tomorrow-a-conversation-with-curator-alto-restorer-al-kossow/,/u/calvin,4
+23,2017-07-18 12:52:35 -0500,/t/performance,Terminal and Shell Performance,https://danluu.com/term-latency/,/u/xoebus,42
+0,2017-07-19 02:55:35 -0500,"/t/pdf,/t/formalmethods,/t/haskell",Using Coq to Write Fast and Correct Haskell,https://www.cs.purdue.edu/homes/bendy/Fiat/FiatByteString.pdf,/u/NinjaTrappeur,18
+46,2017-07-18 11:30:12 -0500,"/t/security,/t/web",moving to https,http://www.tedunangst.com/flak/post/moving-to-https,/u/calvin,39
+0,2017-07-19 15:57:52 -0500,/t/ai,CatBoost: an open-source gradient boosting library,https://catboost.yandex/,/u/sanxiyn,3
+0,2017-07-18 22:27:17 -0500,/t/practices,A Look into NASA’s Coding Philosophy,https://medium.com/@abnercoimbre/a-look-into-nasas-coding-philosophy-b747957c7f8a,/u/calvin,22
+0,2017-07-19 12:23:13 -0500,/t/java,"The Top 100 Java Libraries in 2017 - Based on 259,885 Source Files",http://blog.takipi.com/the-top-100-java-libraries-in-2017-based-on-259885-source-files/,/u/hennidan,2
+1,2017-07-19 08:27:44 -0500,/t/privacy,What Does It Really Take To Track A Million Cell Phones?,https://thehftguy.com/2017/07/19/what-does-it-really-take-to-track-100-million-cell-phones/,/u/dgv,5
+0,2017-07-19 13:19:30 -0500,"/t/java,/t/javascript",DoppioJVM: A JVM in JavaScript,http://plasma-umass.github.io/doppio-demo/,/u/loige,3
+0,2017-07-19 15:37:08 -0500,"/t/pdf,/t/security",Address-Oblivious Code Reuse: On the Effectiveness of Leakage-Resilient Diversity,http://web.mit.edu/ha22286/www/papers/NDSS17.pdf,/u/fro,2
+2,2017-07-19 00:29:01 -0500,/t/virtualization,Docker DOOM,https://gideonred.com/dockerdoom/,/u/jasper,9
+1,2017-07-19 14:38:20 -0500,"/t/cryptocurrencies,/t/event,/t/privacy",Tor AlphaBay Black Market Busted,http://gizmodo.com/the-biggest-marketplace-on-the-dark-web-gets-busted-by-1796905547,/u/timetoplatypus,1
+0,2017-07-19 14:12:10 -0500,/t/testing,Selective Unit Testing – Costs and Benefits [2009],http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/,/u/soulcutter,2
+0,2017-07-19 13:51:24 -0500,/t/graphics,Graphics in Plain Language,https://renderdoc.org/blog/Graphics-in-Plain-Language/,/u/mikejsavage,2
+0,2017-07-19 16:01:39 -0500,"/t/ai,/t/book,/t/python",Best Books for Machine Learning with Python,https://www.onlinebooksreview.com/articles/top-5-best-books-for-machine-learning-with-python,/u/mashpy,1
+0,2017-07-18 22:33:35 -0500,"/t/api,/t/erlang",Erlang: Migrating from Cowboy 1.0 to 2.0,https://github.com/ninenines/cowboy/blob/master/doc/src/guide/migrating_from_1.0.asciidoc,/u/unbalancedparentheses,11
+7,2017-07-18 17:12:03 -0500,"/t/event,/t/security",DEF CON® 25 Hacking Conference - Talks (speaker schedule now up),https://www.defcon.org/html/defcon-25/dc-25-speakers.html,/u/friendlysock,10
+0,2017-07-18 22:24:49 -0500,"/t/android,/t/programming",I am the reason for Hungarian notation in Android,http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/,/u/calvin,11
+0,2017-07-19 06:43:17 -0500,"/t/performance,/t/programming",Memory Alignment and Performance,https://fylux.github.io/2017/07/11/Memory_Alignment/,/u/calvin,4
+0,2017-07-19 14:44:48 -0500,"/t/crypto,/t/event,/t/security",Petya's Ransomware Cloaking Device,http://www.technewsworld.com/story/84659.html,/u/timetoplatypus,1
+0,2017-07-19 14:40:19 -0500,/t/security,"On The (Perceived) Value of EV Certs, Commercial CAs, Phishing and Let's Encrypt",https://www.troyhunt.com/on-the-perceived-value-ev-certs-cas-phishing-lets-encrypt/,/u/trousers,1

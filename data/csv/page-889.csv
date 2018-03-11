@@ -1,25 +1,25 @@
-4,2016-01-29 04:18:07 -0600,['/t/javascript'],How I fixed Atom,http://davidvgalbraith.com/how-i-fixed-atom/,/u/av,33
-0,2016-01-29 18:02:19 -0600,"['/t/distributed', '/t/finance']",A Sketch of a Fully Distributed Payments System,https://www.hella.cheap/a-sketch-of-a-fully-distributed-payments-system.html,/u/bobpoekert,7
-3,2016-01-29 15:13:44 -0600,"['/t/pdf', '/t/law', '/t/mobile', '/t/networking', '/t/web']",T-Mobile’s Binge On Violates Key Net Neutrality Principles,http://cyberlaw.stanford.edu/downloads/vanSchewick-2016-Binge-On-Report.pdf,/u/cnst,14
-2,2016-01-30 09:00:41 -0600,['/t/culture'],The End of Twitter,http://www.newyorker.com/tech/elements/the-end-of-twitter,/u/nc,4
-1,2016-01-29 17:30:22 -0600,"['/t/networking', '/t/scaling', '/t/security']",Retrospective on Linode’s holiday DDoS attacks,https://blog.linode.com/2016/01/29/christmas-ddos-retrospective/,/u/dirk,8
-1,2016-01-29 12:51:56 -0600,['/t/graphics'],Image-based Shaving,http://graphics.cs.cmu.edu/projects/imageshaving/,/u/eliezerb,10
-1,2016-01-29 08:31:24 -0600,"['/t/games', '/t/mac']","Source code to classic Macintosh game series ""Glider"" released",https://github.com/softdorothy,/u/calvin,13
-1,2016-01-29 15:36:53 -0600,['/t/devops'],"CoreOS Overview, Part One",https://deis.com/blog/2016/coreos-overview-p1,/u/nslater,4
-0,2016-01-29 13:55:23 -0600,"['/t/pdf', '/t/c', '/t/lisp', '/t/programming']",Meta-Meta-Programming,http://matt.might.net/papers/ballantyne2014metameta.pdf,/u/SeanW,6
-1,2016-01-29 06:27:05 -0600,"['/t/c', '/t/unix']",How does a Segmentation Fault work under-the-hood?,http://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood,/u/zg,10
-2,2016-01-29 10:15:54 -0600,"['/t/javascript', '/t/web']",What to Expect from JavaScript in 2016 – Language Enhancements,http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-language-enhancements/,/u/remotesynth,4
-3,2016-01-28 20:24:36 -0600,['/t/programming'],"F-35 software overrun with bugs, DoD testing chief warns",http://arstechnica.com/information-technology/2016/01/f-35-software-overrun-with-bugs-dod-testing-chief-warns/,/u/stefantalpalaru,17
-0,2016-01-29 09:06:20 -0600,"['/t/javascript', '/t/web']",Composable UI,https://ponyfoo.com/articles/composable-ui,/u/ponyfoo,4
-0,2016-01-29 11:16:25 -0600,"['/t/databases', '/t/programming', '/t/visualization']",All About Eve,http://robmoff.at/2016/01/13/all-about-eve/,/u/zaphar,6
-0,2016-01-29 04:25:44 -0600,['/t/programming'],Seven Deadly Annoyances of API Design,http://chickenwing.software/scratches/programming/annoying-apis,/u/av,13
-9,2016-01-28 16:48:02 -0600,"['/t/api', '/t/release']",Parse is shutting down,http://blog.parse.com/announcements/moving-on/,/u/antifuchs,20
-0,2016-01-29 14:27:00 -0600,['/t/programming'],Writing an Async Logger in Nim,http://hookrace.net/blog/writing-an-async-logger-in-nim/,/u/dwc,3
-0,2016-01-29 21:01:45 -0600,"['/t/compsci', '/t/math']",Network Solutions,https://www.simonsfoundation.org/mathematics-and-physical-science/network-solutions/,/u/dinh,1
-2,2016-01-29 01:52:35 -0600,['/t/web'],Kinto by Mozilla - An open source Parse alternative,https://github.com/Kinto/kinto/,/u/av,11
-1,2016-01-29 03:25:23 -0600,"['/t/lisp', '/t/programming']",State of Clojure 2015 Survey Results,http://blog.cognitect.com/blog/2016/1/28/state-of-clojure-2015-survey-results,/u/keeds,9
-7,2016-01-28 13:02:52 -0600,['/t/design'],American Highways Reverting Font Change,http://www.citylab.com/commute/2016/01/official-united-states-highway-sign-font-clearview/427068/,/u/pushcx,31
-0,2016-01-29 19:35:54 -0600,"['/t/api', '/t/compsci', '/t/distributed']",Jon Moore on Hypermedia APIs and Distributed Monotonic Clocks,http://www.infoq.com/interviews/moore-apis-clocks,/u/jitterted,1
-1,2016-01-29 12:54:51 -0600,"['/t/video', '/t/security']",NSA TAO Chief on Disrupting Nation State Hackers,https://www.youtube.com/watch?v=bDJb8WOJYdA,/u/apg,3
-0,2016-01-29 10:21:35 -0600,['/t/compsci'],Has DeepMind really passed Go?,https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.41eih7grr,/u/nir,4
-0,2016-01-29 13:33:34 -0600,"['/t/audio', '/t/hardware', '/t/security']",Stop the music! Booby-trapped song carjacked vehicles – security prof,http://www.theregister.co.uk/2016/01/26/hackers_can_take_full_control_of_car_os/,/u/r31r06,2
+4,2016-01-29 04:18:07 -0600,/t/javascript,How I fixed Atom,http://davidvgalbraith.com/how-i-fixed-atom/,/u/av,33
+0,2016-01-29 18:02:19 -0600,"/t/distributed,/t/finance",A Sketch of a Fully Distributed Payments System,https://www.hella.cheap/a-sketch-of-a-fully-distributed-payments-system.html,/u/bobpoekert,7
+3,2016-01-29 15:13:44 -0600,"/t/pdf,/t/law,/t/mobile,/t/networking,/t/web",T-Mobile’s Binge On Violates Key Net Neutrality Principles,http://cyberlaw.stanford.edu/downloads/vanSchewick-2016-Binge-On-Report.pdf,/u/cnst,14
+2,2016-01-30 09:00:41 -0600,/t/culture,The End of Twitter,http://www.newyorker.com/tech/elements/the-end-of-twitter,/u/nc,4
+1,2016-01-29 17:30:22 -0600,"/t/networking,/t/scaling,/t/security",Retrospective on Linode’s holiday DDoS attacks,https://blog.linode.com/2016/01/29/christmas-ddos-retrospective/,/u/dirk,8
+1,2016-01-29 12:51:56 -0600,/t/graphics,Image-based Shaving,http://graphics.cs.cmu.edu/projects/imageshaving/,/u/eliezerb,10
+1,2016-01-29 08:31:24 -0600,"/t/games,/t/mac","Source code to classic Macintosh game series ""Glider"" released",https://github.com/softdorothy,/u/calvin,13
+1,2016-01-29 15:36:53 -0600,/t/devops,"CoreOS Overview, Part One",https://deis.com/blog/2016/coreos-overview-p1,/u/nslater,4
+0,2016-01-29 13:55:23 -0600,"/t/pdf,/t/c,/t/lisp,/t/programming",Meta-Meta-Programming,http://matt.might.net/papers/ballantyne2014metameta.pdf,/u/SeanW,6
+1,2016-01-29 06:27:05 -0600,"/t/c,/t/unix",How does a Segmentation Fault work under-the-hood?,http://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood,/u/zg,10
+2,2016-01-29 10:15:54 -0600,"/t/javascript,/t/web",What to Expect from JavaScript in 2016 – Language Enhancements,http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-language-enhancements/,/u/remotesynth,4
+3,2016-01-28 20:24:36 -0600,/t/programming,"F-35 software overrun with bugs, DoD testing chief warns",http://arstechnica.com/information-technology/2016/01/f-35-software-overrun-with-bugs-dod-testing-chief-warns/,/u/stefantalpalaru,17
+0,2016-01-29 09:06:20 -0600,"/t/javascript,/t/web",Composable UI,https://ponyfoo.com/articles/composable-ui,/u/ponyfoo,4
+0,2016-01-29 11:16:25 -0600,"/t/databases,/t/programming,/t/visualization",All About Eve,http://robmoff.at/2016/01/13/all-about-eve/,/u/zaphar,6
+0,2016-01-29 04:25:44 -0600,/t/programming,Seven Deadly Annoyances of API Design,http://chickenwing.software/scratches/programming/annoying-apis,/u/av,13
+9,2016-01-28 16:48:02 -0600,"/t/api,/t/release",Parse is shutting down,http://blog.parse.com/announcements/moving-on/,/u/antifuchs,20
+0,2016-01-29 14:27:00 -0600,/t/programming,Writing an Async Logger in Nim,http://hookrace.net/blog/writing-an-async-logger-in-nim/,/u/dwc,3
+0,2016-01-29 21:01:45 -0600,"/t/compsci,/t/math",Network Solutions,https://www.simonsfoundation.org/mathematics-and-physical-science/network-solutions/,/u/dinh,1
+2,2016-01-29 01:52:35 -0600,/t/web,Kinto by Mozilla - An open source Parse alternative,https://github.com/Kinto/kinto/,/u/av,11
+1,2016-01-29 03:25:23 -0600,"/t/lisp,/t/programming",State of Clojure 2015 Survey Results,http://blog.cognitect.com/blog/2016/1/28/state-of-clojure-2015-survey-results,/u/keeds,9
+7,2016-01-28 13:02:52 -0600,/t/design,American Highways Reverting Font Change,http://www.citylab.com/commute/2016/01/official-united-states-highway-sign-font-clearview/427068/,/u/pushcx,31
+0,2016-01-29 19:35:54 -0600,"/t/api,/t/compsci,/t/distributed",Jon Moore on Hypermedia APIs and Distributed Monotonic Clocks,http://www.infoq.com/interviews/moore-apis-clocks,/u/jitterted,1
+1,2016-01-29 12:54:51 -0600,"/t/video,/t/security",NSA TAO Chief on Disrupting Nation State Hackers,https://www.youtube.com/watch?v=bDJb8WOJYdA,/u/apg,3
+0,2016-01-29 10:21:35 -0600,/t/compsci,Has DeepMind really passed Go?,https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.41eih7grr,/u/nir,4
+0,2016-01-29 13:33:34 -0600,"/t/audio,/t/hardware,/t/security",Stop the music! Booby-trapped song carjacked vehicles – security prof,http://www.theregister.co.uk/2016/01/26/hackers_can_take_full_control_of_car_os/,/u/r31r06,2

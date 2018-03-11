@@ -1,25 +1,25 @@
-0,2014-03-30 13:13:49 -0500,['/t/programming'],Toward a better programming,http://www.chris-granger.com/2014/03/27/toward-a-better-programming/,/u/cbilson,2
-2,2014-03-29 19:53:42 -0500,"['/t/programming', '/t/unix']",Why Use Make,http://bost.ocks.org/mike/make/,/u/journeysquid,11
-0,2014-03-29 21:16:10 -0500,['/t/compsci'],What is the contribution of lambda calculus to the field of theory of computation?,http://cstheory.stackexchange.com/questions/21705/what-is-the-contribution-of-lambda-calculus-to-the-field-of-theory-of-computatio,/u/wting,8
-0,2014-03-30 09:09:03 -0500,"['/t/show', '/t/android', '/t/javascript']",Tileswap: a puzzle game for Android,https://psuter.net/tileswap/,/u/psuter,1
-1,2014-03-29 20:56:49 -0500,['/t/programming'],A Painless Guide To CRC Error Detection Algorithms,http://www.zlib.net/crc_v3.txt,/u/andrewcooke,5
-3,2014-03-29 15:30:00 -0500,['/t/go'],Shared vs. Static Libraries in Go,https://groups.google.com/d/msg/golang-dev/63MFQiary8Y/nTHVS9KqpTIJ,/u/nrc,6
-1,2014-03-29 14:28:40 -0500,['/t/haskell'],"Parsing Market Data with Ragel, clang and GHC primops (2012)",http://breaks.for.alienz.org/blog/2012/02/09/parsing-market-data-feeds-with-ragel/,/u/penberg,5
-3,2014-03-29 11:56:41 -0500,"['/t/job', '/t/programming']",Interview Cake - Practice Coding Interview Problems,https://www.interviewcake.com,/u/zmcartor,4
-2,2014-03-29 10:07:33 -0500,"['/t/rant', '/t/security', '/t/web']",OAuth 2.0 and the Road to Hell (2012),http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/,/u/kellogh,15
-7,2014-03-28 22:24:57 -0500,"['/t/go', '/t/rust']",Rust vs Go,http://jaredly.github.io/2014/03/22/rust-vs-go/index.html,/u/wting,17
-0,2014-03-29 09:01:28 -0500,"['/t/ruby', '/t/security']",Heap Overflow in YAML URI Escape Parsing (CVE-2014-2525),https://www.ruby-lang.org/en/news/2014/03/29/heap-overflow-in-yaml-uri-escape-parsing-cve-2014-2525/,/u/jcs,4
-0,2014-03-29 09:28:45 -0500,['/t/scala'],Introductory Guide to Akka,http://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka,/u/SeanTAllen,3
-2,2014-03-28 17:39:44 -0500,"['/t/devops', '/t/ruby']",Ruby Garbage Collection: Still Not Ready for Production,http://www.omniref.com/blog/blog/2014/03/27/ruby-garbage-collection-still-not-ready-for-production/,/u/jcs,10
-0,2014-03-28 13:20:15 -0500,"['/t/pdf', '/t/databases']",Column-Stores vs. Row-Stores: How Different Are They Really? (2008),http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf,/u/SeanTAllen,15
-3,2014-03-28 14:21:09 -0500,['/t/security'],Keybase.io vulnerability,http://ejj.io/keybase-io-vulnerability/,/u/henkjan,6
-0,2014-03-29 06:00:09 -0500,['/t/linux'],Usage of APT Package Management Utility in Debian GNU/Linux Systems,http://www.coolcoder.in/2014/03/usage-of-apt-package-management-utility.html,/u/codeon1,1
-5,2014-03-28 06:16:08 -0500,"['/t/privacy', '/t/security']",Your Girlfriend is My Girlfriend: Hacking Your Facebook with My Cellphone,http://andrew.codeusa.net/post/80965312462/your-girlfriend-is-my-girlfriend-hacking-your-facebook,/u/andrewmd5,15
-0,2014-03-28 17:22:52 -0500,['/t/programming'],Tests in Julia,http://acooke.org/cute/TestsinJul0.html,/u/andrewcooke,5
-2,2014-03-28 03:30:09 -0500,"['/t/linux', '/t/virtualization']",SSH into Docker containers by name,http://muehe.org/posts/ssh-into-docker-containers-by-name/,/u/henrikm85,8
-0,2014-03-28 17:16:16 -0500,"['/t/cryptocurrencies', '/t/security']",Better wallet security for Bitcoin,https://freedom-to-tinker.com/blog/stevenag/new-research-better-wallet-security-for-bitcoin/,/u/kyle,1
-10,2014-03-27 11:50:49 -0500,['/t/security'],Huge Security Hole in Sendgrid,https://chunkhost.com/blog/15/huge_security_hole_in_sendgrid,/u/journeysquid,15
-0,2014-03-28 02:58:53 -0500,['/t/haskell'],24 Days of Hackage: contravariant,http://ocharles.org.uk/blog/guest-posts/2013-12-21-24-days-of-hackage-contravariant.html,/u/jm,4
-0,2014-03-28 14:35:38 -0500,"['/t/book', '/t/culture', '/t/hardware']",Ready Player One,http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448,/u/andrewcooke,1
-4,2014-03-27 13:43:42 -0500,"['/t/slides', '/t/distributed']",Convergent/Divergent // Speaker Deck,https://speakerdeck.com/cmeiklejohn/divergent,/u/cmeiklejohn,6
-0,2014-03-28 06:47:42 -0500,"['/t/security', '/t/virtualization', '/t/web']",Is cloud dead?,http://blog.netwrix.com/2014/03/28/cloud-vs-in-house/,/u/flukywhizz,1
+0,2014-03-30 13:13:49 -0500,/t/programming,Toward a better programming,http://www.chris-granger.com/2014/03/27/toward-a-better-programming/,/u/cbilson,2
+2,2014-03-29 19:53:42 -0500,"/t/programming,/t/unix",Why Use Make,http://bost.ocks.org/mike/make/,/u/journeysquid,11
+0,2014-03-29 21:16:10 -0500,/t/compsci,What is the contribution of lambda calculus to the field of theory of computation?,http://cstheory.stackexchange.com/questions/21705/what-is-the-contribution-of-lambda-calculus-to-the-field-of-theory-of-computatio,/u/wting,8
+0,2014-03-30 09:09:03 -0500,"/t/show,/t/android,/t/javascript",Tileswap: a puzzle game for Android,https://psuter.net/tileswap/,/u/psuter,1
+1,2014-03-29 20:56:49 -0500,/t/programming,A Painless Guide To CRC Error Detection Algorithms,http://www.zlib.net/crc_v3.txt,/u/andrewcooke,5
+3,2014-03-29 15:30:00 -0500,/t/go,Shared vs. Static Libraries in Go,https://groups.google.com/d/msg/golang-dev/63MFQiary8Y/nTHVS9KqpTIJ,/u/nrc,6
+1,2014-03-29 14:28:40 -0500,/t/haskell,"Parsing Market Data with Ragel, clang and GHC primops (2012)",http://breaks.for.alienz.org/blog/2012/02/09/parsing-market-data-feeds-with-ragel/,/u/penberg,5
+3,2014-03-29 11:56:41 -0500,"/t/job,/t/programming",Interview Cake - Practice Coding Interview Problems,https://www.interviewcake.com,/u/zmcartor,4
+2,2014-03-29 10:07:33 -0500,"/t/rant,/t/security,/t/web",OAuth 2.0 and the Road to Hell (2012),http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/,/u/kellogh,15
+7,2014-03-28 22:24:57 -0500,"/t/go,/t/rust",Rust vs Go,http://jaredly.github.io/2014/03/22/rust-vs-go/index.html,/u/wting,17
+0,2014-03-29 09:01:28 -0500,"/t/ruby,/t/security",Heap Overflow in YAML URI Escape Parsing (CVE-2014-2525),https://www.ruby-lang.org/en/news/2014/03/29/heap-overflow-in-yaml-uri-escape-parsing-cve-2014-2525/,/u/jcs,4
+0,2014-03-29 09:28:45 -0500,/t/scala,Introductory Guide to Akka,http://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka,/u/SeanTAllen,3
+2,2014-03-28 17:39:44 -0500,"/t/devops,/t/ruby",Ruby Garbage Collection: Still Not Ready for Production,http://www.omniref.com/blog/blog/2014/03/27/ruby-garbage-collection-still-not-ready-for-production/,/u/jcs,10
+0,2014-03-28 13:20:15 -0500,"/t/pdf,/t/databases",Column-Stores vs. Row-Stores: How Different Are They Really? (2008),http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf,/u/SeanTAllen,15
+3,2014-03-28 14:21:09 -0500,/t/security,Keybase.io vulnerability,http://ejj.io/keybase-io-vulnerability/,/u/henkjan,6
+0,2014-03-29 06:00:09 -0500,/t/linux,Usage of APT Package Management Utility in Debian GNU/Linux Systems,http://www.coolcoder.in/2014/03/usage-of-apt-package-management-utility.html,/u/codeon1,1
+5,2014-03-28 06:16:08 -0500,"/t/privacy,/t/security",Your Girlfriend is My Girlfriend: Hacking Your Facebook with My Cellphone,http://andrew.codeusa.net/post/80965312462/your-girlfriend-is-my-girlfriend-hacking-your-facebook,/u/andrewmd5,15
+0,2014-03-28 17:22:52 -0500,/t/programming,Tests in Julia,http://acooke.org/cute/TestsinJul0.html,/u/andrewcooke,5
+2,2014-03-28 03:30:09 -0500,"/t/linux,/t/virtualization",SSH into Docker containers by name,http://muehe.org/posts/ssh-into-docker-containers-by-name/,/u/henrikm85,8
+0,2014-03-28 17:16:16 -0500,"/t/cryptocurrencies,/t/security",Better wallet security for Bitcoin,https://freedom-to-tinker.com/blog/stevenag/new-research-better-wallet-security-for-bitcoin/,/u/kyle,1
+10,2014-03-27 11:50:49 -0500,/t/security,Huge Security Hole in Sendgrid,https://chunkhost.com/blog/15/huge_security_hole_in_sendgrid,/u/journeysquid,15
+0,2014-03-28 02:58:53 -0500,/t/haskell,24 Days of Hackage: contravariant,http://ocharles.org.uk/blog/guest-posts/2013-12-21-24-days-of-hackage-contravariant.html,/u/jm,4
+0,2014-03-28 14:35:38 -0500,"/t/book,/t/culture,/t/hardware",Ready Player One,http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448,/u/andrewcooke,1
+4,2014-03-27 13:43:42 -0500,"/t/slides,/t/distributed",Convergent/Divergent // Speaker Deck,https://speakerdeck.com/cmeiklejohn/divergent,/u/cmeiklejohn,6
+0,2014-03-28 06:47:42 -0500,"/t/security,/t/virtualization,/t/web",Is cloud dead?,http://blog.netwrix.com/2014/03/28/cloud-vs-in-house/,/u/flukywhizz,1

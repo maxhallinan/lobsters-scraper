@@ -1,25 +1,25 @@
-0,2015-08-07 20:20:47 -0500,"['/t/databases', '/t/java']",What's Even Harder Than Dates and Timezones? Dates and Timezones in SQL / JDBC!,http://blog.jooq.org/2015/06/30/whats-even-harder-than-dates-and-timezones-dates-and-timezones-in-sql-jdbc/,/u/jitterted,4
-0,2015-08-08 00:00:42 -0500,"['/t/pdf', '/t/security']",Faux Disk Encryption: Realities of Secure Storage On Mobile Devices,https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/us-15-mayer-fauxdiskencryptionrealitiesofsecurestorageonmobiledevices-wp.pdf,/u/lynge,2
-1,2015-08-07 17:37:47 -0500,"['/t/haskell', '/t/java', '/t/programming']",IO is Your Command Pattern,http://www.alexeyshmalko.com/2015/io-is-your-command-pattern/,/u/pushcx,4
-2,2015-08-07 08:02:22 -0500,"['/t/graphics', '/t/hardware']",8088 MPH Final: Old vs. New CGA (and Other Gory Details),http://8088mph.blogspot.com/2015/08/8088-mph-final-old-vs-new-cga-and-other.html,/u/calvin,9
-9,2015-08-07 00:22:34 -0500,['/t/ruby'],"Rails patch decreases memory usage by 29%, improves response time 11%",http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance,/u/kb,15
-0,2015-08-07 19:35:38 -0500,"['/t/pdf', '/t/devops', '/t/unix']",Construction of a Highly Dependable Operating System,https://www.cs.vu.nl/~ast/publications/edcc-2006.pdf,/u/pushcx,3
-0,2015-08-07 15:33:25 -0500,"['/t/compsci', '/t/programming']",Breaking down FRP (2014),https://blogs.janestreet.com/breaking-down-frp/,/u/pushcx,5
-3,2015-08-06 22:55:00 -0500,"['/t/browsers', '/t/security']",Firefox: Same origin violation and local file stealing via PDF reader,https://www.mozilla.org/en-US/security/advisories/mfsa2015-78/,/u/jcs,24
-0,2015-08-07 20:33:56 -0500,"['/t/java', '/t/programming']",4clojure,https://www.4clojure.com/,/u/breul99,2
-1,2015-08-07 11:46:36 -0500,['/t/programming'],"Fixing a ""Too many open files"" exception",http://blog.codacy.com/2015/08/07/fixing-a-too-many-open-files-exception/,/u/PaulBlei,4
-0,2015-08-07 15:45:58 -0500,"['/t/compsci', '/t/javascript', '/t/release']",optlam: an optimal function evaluator written in JavaScript.,https://github.com/SrVictorMaia/optlam,/u/pushcx,3
-0,2015-08-07 15:43:46 -0500,"['/t/c', '/t/dotnet', '/t/haskell', '/t/programming', '/t/scala']","Automated reasoning in F#, Scala, Haskell, C++, and Julia",https://phdp.github.io/posts/2015-04-05-automated-reasoning.html,/u/pushcx,3
-1,2015-08-07 08:23:01 -0500,"['/t/linux', '/t/unix']",Input/Output Redirection in the Shell,https://robots.thoughtbot.com/input-output-redirection-in-the-shell,/u/flyingfisch,4
-2,2015-08-06 23:23:15 -0500,['/t/c'],C2 Programming Language,http://c2lang.org/,/u/sanxiyn,12
-0,2015-08-07 12:29:47 -0500,"['/t/api', '/t/javascript', '/t/programming', '/t/web']",Future JSON API's,http://blog.redradix.com/future-json-apis/,/u/pushcx,3
-0,2015-08-07 14:47:29 -0500,"['/t/pdf', '/t/compsci']",Using AI to study ISIS,http://arxiv.org/pdf/1508.01192v1.pdf,/u/bsima,2
-4,2015-08-06 11:57:56 -0500,"['/t/compsci', '/t/distributed']",Raft in Coq,https://twitter.com/wilcoxjay/status/629324409413570560,/u/pushcx,30
-4,2015-08-06 18:40:20 -0500,"['/t/programming', '/t/unix']",Pronunciation guide for UNIX,http://ss64.com/bash/syntax-pronounce.html,/u/jm,15
-4,2015-08-06 21:51:38 -0500,['/t/programming'],In search of the perfect URL validation regex,https://mathiasbynens.be/demo/url-regex,/u/pushcx,7
-4,2015-08-06 12:56:34 -0500,['/t/law'],"UK law bans making private backup copies of and ""format shifting"" copyrighted works",https://torrentfreak.com/itunes-is-illegal-under-uk-copyright-law-150805/,/u/jcs,24
-3,2015-08-06 15:25:34 -0500,['/t/web'],We're heading Straight for AOL 2.0,http://jacquesmattheij.com/aol-20,/u/apk,10
-11,2015-08-06 08:52:08 -0500,['/t/privacy'],The Scary Revelation: The Advertising Options On Facebook & Twitter,https://ma.ttias.be/scary-revelation-advertising-options-facebook-twitter/,/u/mattiasgeniar,10
-2,2015-08-06 13:52:12 -0500,['/t/go'],"DNS parser, meet Go fuzzer",https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/,/u/joshuacc,14
-0,2015-08-07 08:49:13 -0500,"['/t/javascript', '/t/programming']",Refactoring to Async in Javascript,https://gist.github.com/npryce/638c8451ebb80d80ec42,/u/pushcx,2
-1,2015-08-07 17:02:46 -0500,['/t/culture'],God Tier: Facebook moms run the meme game,https://medium.com/message/god-tier-facebook-moms-run-the-meme-game-1e56ef0d31ec,/u/pushcx,1
+0,2015-08-07 20:20:47 -0500,"/t/databases,/t/java",What's Even Harder Than Dates and Timezones? Dates and Timezones in SQL / JDBC!,http://blog.jooq.org/2015/06/30/whats-even-harder-than-dates-and-timezones-dates-and-timezones-in-sql-jdbc/,/u/jitterted,4
+0,2015-08-08 00:00:42 -0500,"/t/pdf,/t/security",Faux Disk Encryption: Realities of Secure Storage On Mobile Devices,https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/us-15-mayer-fauxdiskencryptionrealitiesofsecurestorageonmobiledevices-wp.pdf,/u/lynge,2
+1,2015-08-07 17:37:47 -0500,"/t/haskell,/t/java,/t/programming",IO is Your Command Pattern,http://www.alexeyshmalko.com/2015/io-is-your-command-pattern/,/u/pushcx,4
+2,2015-08-07 08:02:22 -0500,"/t/graphics,/t/hardware",8088 MPH Final: Old vs. New CGA (and Other Gory Details),http://8088mph.blogspot.com/2015/08/8088-mph-final-old-vs-new-cga-and-other.html,/u/calvin,9
+9,2015-08-07 00:22:34 -0500,/t/ruby,"Rails patch decreases memory usage by 29%, improves response time 11%",http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance,/u/kb,15
+0,2015-08-07 19:35:38 -0500,"/t/pdf,/t/devops,/t/unix",Construction of a Highly Dependable Operating System,https://www.cs.vu.nl/~ast/publications/edcc-2006.pdf,/u/pushcx,3
+0,2015-08-07 15:33:25 -0500,"/t/compsci,/t/programming",Breaking down FRP (2014),https://blogs.janestreet.com/breaking-down-frp/,/u/pushcx,5
+3,2015-08-06 22:55:00 -0500,"/t/browsers,/t/security",Firefox: Same origin violation and local file stealing via PDF reader,https://www.mozilla.org/en-US/security/advisories/mfsa2015-78/,/u/jcs,24
+0,2015-08-07 20:33:56 -0500,"/t/java,/t/programming",4clojure,https://www.4clojure.com/,/u/breul99,2
+1,2015-08-07 11:46:36 -0500,/t/programming,"Fixing a ""Too many open files"" exception",http://blog.codacy.com/2015/08/07/fixing-a-too-many-open-files-exception/,/u/PaulBlei,4
+0,2015-08-07 15:45:58 -0500,"/t/compsci,/t/javascript,/t/release",optlam: an optimal function evaluator written in JavaScript.,https://github.com/SrVictorMaia/optlam,/u/pushcx,3
+0,2015-08-07 15:43:46 -0500,"/t/c,/t/dotnet,/t/haskell,/t/programming,/t/scala","Automated reasoning in F#, Scala, Haskell, C++, and Julia",https://phdp.github.io/posts/2015-04-05-automated-reasoning.html,/u/pushcx,3
+1,2015-08-07 08:23:01 -0500,"/t/linux,/t/unix",Input/Output Redirection in the Shell,https://robots.thoughtbot.com/input-output-redirection-in-the-shell,/u/flyingfisch,4
+2,2015-08-06 23:23:15 -0500,/t/c,C2 Programming Language,http://c2lang.org/,/u/sanxiyn,12
+0,2015-08-07 12:29:47 -0500,"/t/api,/t/javascript,/t/programming,/t/web",Future JSON API's,http://blog.redradix.com/future-json-apis/,/u/pushcx,3
+0,2015-08-07 14:47:29 -0500,"/t/pdf,/t/compsci",Using AI to study ISIS,http://arxiv.org/pdf/1508.01192v1.pdf,/u/bsima,2
+4,2015-08-06 11:57:56 -0500,"/t/compsci,/t/distributed",Raft in Coq,https://twitter.com/wilcoxjay/status/629324409413570560,/u/pushcx,30
+4,2015-08-06 18:40:20 -0500,"/t/programming,/t/unix",Pronunciation guide for UNIX,http://ss64.com/bash/syntax-pronounce.html,/u/jm,15
+4,2015-08-06 21:51:38 -0500,/t/programming,In search of the perfect URL validation regex,https://mathiasbynens.be/demo/url-regex,/u/pushcx,7
+4,2015-08-06 12:56:34 -0500,/t/law,"UK law bans making private backup copies of and ""format shifting"" copyrighted works",https://torrentfreak.com/itunes-is-illegal-under-uk-copyright-law-150805/,/u/jcs,24
+3,2015-08-06 15:25:34 -0500,/t/web,We're heading Straight for AOL 2.0,http://jacquesmattheij.com/aol-20,/u/apk,10
+11,2015-08-06 08:52:08 -0500,/t/privacy,The Scary Revelation: The Advertising Options On Facebook & Twitter,https://ma.ttias.be/scary-revelation-advertising-options-facebook-twitter/,/u/mattiasgeniar,10
+2,2015-08-06 13:52:12 -0500,/t/go,"DNS parser, meet Go fuzzer",https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/,/u/joshuacc,14
+0,2015-08-07 08:49:13 -0500,"/t/javascript,/t/programming",Refactoring to Async in Javascript,https://gist.github.com/npryce/638c8451ebb80d80ec42,/u/pushcx,2
+1,2015-08-07 17:02:46 -0500,/t/culture,God Tier: Facebook moms run the meme game,https://medium.com/message/god-tier-facebook-moms-run-the-meme-game-1e56ef0d31ec,/u/pushcx,1

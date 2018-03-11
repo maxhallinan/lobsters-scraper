@@ -1,25 +1,25 @@
-0,2013-03-07 12:00:47 -0600,"['/t/c', '/t/ruby']",Tracking down a memory leak in Ruby’s EventMachine,http://blog.nelhage.com/2013/03/tracking-an-eventmachine-leak/,/u/jcs,2
-0,2013-03-07 15:07:00 -0600,"['/t/practices', '/t/programming']",The Pragmatics of TDD,http://blog.8thlight.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html,/u/janogonzalez,1
-0,2013-03-07 11:04:24 -0600,"['/t/databases', '/t/python']",Fixing Your Database Connections in Django,http://craigkerstiens.com/2013/03/07/Fixing-django-db-connections/,/u/craigkerstiens,1
-0,2013-03-06 17:43:55 -0600,"['/t/python', '/t/ruby', '/t/security']","Introducing Sodium, a new Cryptographic Library",http://labs.umbrella.com/2013/03/06/announcing-sodium-a-new-cryptographic-library/,/u/kyle,3
-0,2013-03-06 09:31:42 -0600,['/t/javascript'],Breaking down Amazon’s mega dropdown,http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown,/u/joshuacc,8
-0,2013-03-06 12:31:48 -0600,"['/t/ruby', '/t/web']",Upgrading Rails: Gems Extracted in Rails 4,http://alindeman.github.com/2013/03/05/gems-extracted-in-rails-4.html,/u/alindeman,5
-4,2013-03-05 12:01:47 -0600,['/t/unix'],Unix Directories,http://vanstee.me/unix-directories.html,/u/vanstee,11
-2,2013-03-05 10:36:57 -0600,['/t/practices'],The Start-Up Trap,http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html,/u/janogonzalez,5
-0,2013-03-05 09:15:39 -0600,['/t/hardware'],Microsoft unveils self-sketching whiteboard prototype,http://www.bbc.co.uk/news/technology-21659719,/u/kusuriya,1
-4,2013-03-04 07:07:07 -0600,"['/t/interview', '/t/person']",Lobsters interview with Peter Harkins,/s/9ocsng/lobsters_interview_with_peter_harkins,/u/jcs,16
-0,2013-03-04 13:56:33 -0600,['/t/linux'],Ubuntu will switch from X window server to Mir,https://wiki.ubuntu.com/MirSpec,/u/kyle,10
-0,2013-03-04 14:18:35 -0600,['/t/javascript'],CoffeeScript 1.6.0 Released with Source Maps Support,http://coffeescript.org/#source-maps,/u/joshuacc,7
-0,2013-03-04 11:50:06 -0600,['/t/programming'],Where TDD Fails,http://blog.precog.com/?p=431,/u/puffnfresh,3
-0,2013-03-03 22:21:32 -0600,"['/t/news', '/t/science']",Storage glitch sends Curiosity into safe mode,http://www.theregister.co.uk/2013/03/03/curiosity_safe_mode/,/u/kyle,6
-1,2013-03-03 12:40:05 -0600,"['/t/javascript', '/t/web']",Client-side MVC is not a silver bullet,http://mir.aculo.us/2013/02/26/client-side-mvc-is-not-a-silver-bullet/,/u/jcs,6
-1,2013-03-03 15:54:43 -0600,['/t/programming'],Don't Be Distracted by Superior Technology,http://prog21.dadgum.com/168.html,/u/kyle,3
-0,2013-03-03 07:27:31 -0600,['/t/security'],Sudo authentication bypass when clock is reset,http://www.sudo.ws/sudo/alerts/epoch_ticket.html,/u/kusuriya,11
-0,2013-03-03 13:16:06 -0600,['/t/go'],Writing Go Web Applications,http://golang.org/doc/articles/wiki/,/u/kyle,5
-1,2013-03-03 14:26:21 -0600,"['/t/hardware', '/t/security']",Introducing the Pass-Pal – A hardware password & token storage device,http://ob-security.info/?p=631,/u/jcs,3
-0,2013-03-03 13:39:55 -0600,"['/t/linux', '/t/python']",Peek and poke in the age of Linux,http://blog.viraptor.info/post/44424140237/peek-and-poke-in-the-age-of-linux,/u/kyle,3
-2,2013-03-02 12:22:08 -0600,['/t/databases'],Postgres: The Bits You Haven't Found,https://postgres-bits.herokuapp.com,/u/tubbo,9
-0,2013-03-02 19:17:26 -0600,['/t/security'],Malicious Code Execution in PCI Expansion ROM,http://resources.infosecinstitute.com/pci-expansion-rom/,/u/jcs,4
-2,2013-03-02 14:52:34 -0600,['/t/ruby'],Code Typos Got You Down? Stop Worrying with close_enough,http://decomplecting.org/blog/2013/03/01/code-typos-got-you-down-stop-worrying-with-close-enough/,/u/jcs,2
-0,2013-03-02 12:15:45 -0600,"['/t/javascript', '/t/python', '/t/ruby']","Why Python, Ruby, and Javascript are Slow",https://speakerdeck.com/alex/why-python-ruby-and-javascript-are-slow,/u/craigkerstiens,3
-0,2013-03-01 12:32:41 -0600,"['/t/philosophy', '/t/practices']",Give it five minutes.,http://37signals.com/svn/posts/3124-give-it-five-minutes,/u/leeflannery,5
+0,2013-03-07 12:00:47 -0600,"/t/c,/t/ruby",Tracking down a memory leak in Ruby’s EventMachine,http://blog.nelhage.com/2013/03/tracking-an-eventmachine-leak/,/u/jcs,2
+0,2013-03-07 15:07:00 -0600,"/t/practices,/t/programming",The Pragmatics of TDD,http://blog.8thlight.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html,/u/janogonzalez,1
+0,2013-03-07 11:04:24 -0600,"/t/databases,/t/python",Fixing Your Database Connections in Django,http://craigkerstiens.com/2013/03/07/Fixing-django-db-connections/,/u/craigkerstiens,1
+0,2013-03-06 17:43:55 -0600,"/t/python,/t/ruby,/t/security","Introducing Sodium, a new Cryptographic Library",http://labs.umbrella.com/2013/03/06/announcing-sodium-a-new-cryptographic-library/,/u/kyle,3
+0,2013-03-06 09:31:42 -0600,/t/javascript,Breaking down Amazon’s mega dropdown,http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown,/u/joshuacc,8
+0,2013-03-06 12:31:48 -0600,"/t/ruby,/t/web",Upgrading Rails: Gems Extracted in Rails 4,http://alindeman.github.com/2013/03/05/gems-extracted-in-rails-4.html,/u/alindeman,5
+4,2013-03-05 12:01:47 -0600,/t/unix,Unix Directories,http://vanstee.me/unix-directories.html,/u/vanstee,11
+2,2013-03-05 10:36:57 -0600,/t/practices,The Start-Up Trap,http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html,/u/janogonzalez,5
+0,2013-03-05 09:15:39 -0600,/t/hardware,Microsoft unveils self-sketching whiteboard prototype,http://www.bbc.co.uk/news/technology-21659719,/u/kusuriya,1
+4,2013-03-04 07:07:07 -0600,"/t/interview,/t/person",Lobsters interview with Peter Harkins,/s/9ocsng/lobsters_interview_with_peter_harkins,/u/jcs,16
+0,2013-03-04 13:56:33 -0600,/t/linux,Ubuntu will switch from X window server to Mir,https://wiki.ubuntu.com/MirSpec,/u/kyle,10
+0,2013-03-04 14:18:35 -0600,/t/javascript,CoffeeScript 1.6.0 Released with Source Maps Support,http://coffeescript.org/#source-maps,/u/joshuacc,7
+0,2013-03-04 11:50:06 -0600,/t/programming,Where TDD Fails,http://blog.precog.com/?p=431,/u/puffnfresh,3
+0,2013-03-03 22:21:32 -0600,"/t/news,/t/science",Storage glitch sends Curiosity into safe mode,http://www.theregister.co.uk/2013/03/03/curiosity_safe_mode/,/u/kyle,6
+1,2013-03-03 12:40:05 -0600,"/t/javascript,/t/web",Client-side MVC is not a silver bullet,http://mir.aculo.us/2013/02/26/client-side-mvc-is-not-a-silver-bullet/,/u/jcs,6
+1,2013-03-03 15:54:43 -0600,/t/programming,Don't Be Distracted by Superior Technology,http://prog21.dadgum.com/168.html,/u/kyle,3
+0,2013-03-03 07:27:31 -0600,/t/security,Sudo authentication bypass when clock is reset,http://www.sudo.ws/sudo/alerts/epoch_ticket.html,/u/kusuriya,11
+0,2013-03-03 13:16:06 -0600,/t/go,Writing Go Web Applications,http://golang.org/doc/articles/wiki/,/u/kyle,5
+1,2013-03-03 14:26:21 -0600,"/t/hardware,/t/security",Introducing the Pass-Pal – A hardware password & token storage device,http://ob-security.info/?p=631,/u/jcs,3
+0,2013-03-03 13:39:55 -0600,"/t/linux,/t/python",Peek and poke in the age of Linux,http://blog.viraptor.info/post/44424140237/peek-and-poke-in-the-age-of-linux,/u/kyle,3
+2,2013-03-02 12:22:08 -0600,/t/databases,Postgres: The Bits You Haven't Found,https://postgres-bits.herokuapp.com,/u/tubbo,9
+0,2013-03-02 19:17:26 -0600,/t/security,Malicious Code Execution in PCI Expansion ROM,http://resources.infosecinstitute.com/pci-expansion-rom/,/u/jcs,4
+2,2013-03-02 14:52:34 -0600,/t/ruby,Code Typos Got You Down? Stop Worrying with close_enough,http://decomplecting.org/blog/2013/03/01/code-typos-got-you-down-stop-worrying-with-close-enough/,/u/jcs,2
+0,2013-03-02 12:15:45 -0600,"/t/javascript,/t/python,/t/ruby","Why Python, Ruby, and Javascript are Slow",https://speakerdeck.com/alex/why-python-ruby-and-javascript-are-slow,/u/craigkerstiens,3
+0,2013-03-01 12:32:41 -0600,"/t/philosophy,/t/practices",Give it five minutes.,http://37signals.com/svn/posts/3124-give-it-five-minutes,/u/leeflannery,5

@@ -1,25 +1,25 @@
-0,2016-11-16 12:03:53 -0600,['/t/rust'],Rust and the Future of Systems Programming,https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/,/u/akalin,9
-1,2016-11-16 07:48:40 -0600,['/t/hardware'],"MacBook Pro 13"" Touch Bar Teardown",https://www.ifixit.com/Teardown/MacBook+Pro+13-Inch+Touch+Bar+Teardown/73480,/u/av,12
-1,2016-11-16 07:42:37 -0600,['/t/cogsci'],Google QuickDraw,https://quickdraw.withgoogle.com/,/u/av,11
-0,2016-11-16 21:41:58 -0600,"['/t/person', '/t/rant']","A Few Thoughts on Ben Northrop's ""Reflections of an 'Old' Programmer""",https://ecc-comp.blogspot.com/2016/10/a-few-thoughts-on-ben-northrops.html,/u/indirection,2
-0,2016-11-16 05:30:32 -0600,"['/t/devops', '/t/web']",HTTP/2 Primer,https://chrisshort.net/http2-primer/,/u/ChrisShort,8
-1,2016-11-16 16:18:56 -0600,"['/t/games', '/t/reversing']",A New Way of Playing Japanese and English Games Side-By-Side,http://legendsoflocalization.com/a-new-way-of-playing-japanese-and-english-games-side-by-side/,/u/Screwtape,4
-0,2016-11-16 07:34:23 -0600,"['/t/video', '/t/vim']",~40 vim (and tmux) screencasts by Greg Hurrell,https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX,/u/holsta,11
-0,2016-11-17 00:12:16 -0600,['/t/python'],The Trusted Packaging Index,https://medium.com/@tryexceptpass/the-trusted-packaging-index-d16986de73c6,/u/quobit,1
-1,2016-11-16 09:58:12 -0600,"['/t/compilers', '/t/javascript']",How to be* a compiler — make a compiler with JavaScript,https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4,/u/joshuacc,5
-0,2016-11-16 17:22:52 -0600,"['/t/hardware', '/t/mac', '/t/reversing']",Demystifying the i-Device NVMe NAND,http://ramtin-amin.fr/#nvmepcie,/u/sevan,2
-0,2016-11-16 15:12:39 -0600,"['/t/practices', '/t/programming']",Power law of practice in software implementation,http://shape-of-code.coding-guidelines.com/2016/11/16/power-law-of-practice-in-software-implementation/,/u/nwjsmith,2
-9,2016-11-15 19:23:55 -0600,"['/t/haskell', '/t/java']","Eta, a dialect of Haskell on the JVM",https://github.com/typelead/eta,/u/nil,11
-0,2016-11-16 12:37:11 -0600,"['/t/databases', '/t/linux']",Microsoft announces the next version SQL Server for Windows and Linux,https://techcrunch.com/2016/11/16/microsofts-sql-server-for-linux-is-now-available-for-testing/,/u/asthasr,2
-0,2016-11-16 07:00:35 -0600,"['/t/person', '/t/vcs']",A look back: Bram Cohen vs Linus Torvalds,http://www.wincent.com/a/about/wincent/weblog/archives/2007/07/a_look_back_bra.php,/u/johnLate,4
-0,2016-11-16 15:29:54 -0600,['/t/practices'],"20 Questions, or Maybe a Few More",http://inaka.net/blog/2016/11/16/20-questions-or-maybe-a-few-more/,/u/InakaESI,1
-27,2016-11-15 09:11:32 -0600,"['/t/rust', '/t/unix']",Using Rust Instead of Python for scripting,http://www.chriskrycho.com/2016/using-rust-for-scripting.html,/u/unbalancedparentheses,23
-9,2016-11-15 08:12:16 -0600,"['/t/erlang', '/t/ml', '/t/programming']",MLFE: ML landing in the Erlang world,https://medium.com/@unbalancedparen/d-day-invasion-with-mlfe-ml-landing-in-the-erlang-world-ef2267ae3215,/u/unbalancedparentheses,14
-0,2016-11-16 14:44:34 -0600,"['/t/video', '/t/networking', '/t/privacy']",Safely Measuring Tor,https://www.youtube.com/watch?v=ms5wIfxMJRA,/u/sevan,1
-0,2016-11-16 10:47:35 -0600,"['/t/javascript', '/t/release', '/t/web']",React v15.4.0,https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html,/u/av,2
-0,2016-11-16 04:02:56 -0600,"['/t/historical', '/t/web']",Internet Archive Backup,http://iabak.archiveteam.org/,/u/mjturner,4
-0,2016-11-16 07:12:16 -0600,['/t/debugging'],"Debugging Software, Sherlock Holmes-style",https://codewithoutrules.com/2016/11/16/debugging-sherlock-holmes/,/u/itamarst,1
-0,2016-11-16 08:26:21 -0600,"['/t/programming', '/t/rust']",Parallel Iterators Part 1: Foundations,http://smallcultfollowing.com/babysteps/blog/2016/02/19/parallel-iterators-part-1-foundations/,/u/balrogboogie,2
-0,2016-11-15 18:08:24 -0600,"['/t/release', '/t/ruby']",Announcing Hanami v0.9.0,http://hanamirb.org/blog/2016/11/15/announcing-hanami-090.html,/u/355E3B,9
-3,2016-11-15 09:21:04 -0600,"['/t/video', '/t/c']",Why new C++ versions are created,https://www.youtube.com/watch?v=wrwwa68JXNk,/u/unbalancedparentheses,14
-19,2016-11-15 09:46:38 -0600,"['/t/hardware', '/t/security']","Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",http://www.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html,/u/pushcx,11
+0,2016-11-16 12:03:53 -0600,/t/rust,Rust and the Future of Systems Programming,https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/,/u/akalin,9
+1,2016-11-16 07:48:40 -0600,/t/hardware,"MacBook Pro 13"" Touch Bar Teardown",https://www.ifixit.com/Teardown/MacBook+Pro+13-Inch+Touch+Bar+Teardown/73480,/u/av,12
+1,2016-11-16 07:42:37 -0600,/t/cogsci,Google QuickDraw,https://quickdraw.withgoogle.com/,/u/av,11
+0,2016-11-16 21:41:58 -0600,"/t/person,/t/rant","A Few Thoughts on Ben Northrop's ""Reflections of an 'Old' Programmer""",https://ecc-comp.blogspot.com/2016/10/a-few-thoughts-on-ben-northrops.html,/u/indirection,2
+0,2016-11-16 05:30:32 -0600,"/t/devops,/t/web",HTTP/2 Primer,https://chrisshort.net/http2-primer/,/u/ChrisShort,8
+1,2016-11-16 16:18:56 -0600,"/t/games,/t/reversing",A New Way of Playing Japanese and English Games Side-By-Side,http://legendsoflocalization.com/a-new-way-of-playing-japanese-and-english-games-side-by-side/,/u/Screwtape,4
+0,2016-11-16 07:34:23 -0600,"/t/video,/t/vim",~40 vim (and tmux) screencasts by Greg Hurrell,https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX,/u/holsta,11
+0,2016-11-17 00:12:16 -0600,/t/python,The Trusted Packaging Index,https://medium.com/@tryexceptpass/the-trusted-packaging-index-d16986de73c6,/u/quobit,1
+1,2016-11-16 09:58:12 -0600,"/t/compilers,/t/javascript",How to be* a compiler — make a compiler with JavaScript,https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4,/u/joshuacc,5
+0,2016-11-16 17:22:52 -0600,"/t/hardware,/t/mac,/t/reversing",Demystifying the i-Device NVMe NAND,http://ramtin-amin.fr/#nvmepcie,/u/sevan,2
+0,2016-11-16 15:12:39 -0600,"/t/practices,/t/programming",Power law of practice in software implementation,http://shape-of-code.coding-guidelines.com/2016/11/16/power-law-of-practice-in-software-implementation/,/u/nwjsmith,2
+9,2016-11-15 19:23:55 -0600,"/t/haskell,/t/java","Eta, a dialect of Haskell on the JVM",https://github.com/typelead/eta,/u/nil,11
+0,2016-11-16 12:37:11 -0600,"/t/databases,/t/linux",Microsoft announces the next version SQL Server for Windows and Linux,https://techcrunch.com/2016/11/16/microsofts-sql-server-for-linux-is-now-available-for-testing/,/u/asthasr,2
+0,2016-11-16 07:00:35 -0600,"/t/person,/t/vcs",A look back: Bram Cohen vs Linus Torvalds,http://www.wincent.com/a/about/wincent/weblog/archives/2007/07/a_look_back_bra.php,/u/johnLate,4
+0,2016-11-16 15:29:54 -0600,/t/practices,"20 Questions, or Maybe a Few More",http://inaka.net/blog/2016/11/16/20-questions-or-maybe-a-few-more/,/u/InakaESI,1
+27,2016-11-15 09:11:32 -0600,"/t/rust,/t/unix",Using Rust Instead of Python for scripting,http://www.chriskrycho.com/2016/using-rust-for-scripting.html,/u/unbalancedparentheses,23
+9,2016-11-15 08:12:16 -0600,"/t/erlang,/t/ml,/t/programming",MLFE: ML landing in the Erlang world,https://medium.com/@unbalancedparen/d-day-invasion-with-mlfe-ml-landing-in-the-erlang-world-ef2267ae3215,/u/unbalancedparentheses,14
+0,2016-11-16 14:44:34 -0600,"/t/video,/t/networking,/t/privacy",Safely Measuring Tor,https://www.youtube.com/watch?v=ms5wIfxMJRA,/u/sevan,1
+0,2016-11-16 10:47:35 -0600,"/t/javascript,/t/release,/t/web",React v15.4.0,https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html,/u/av,2
+0,2016-11-16 04:02:56 -0600,"/t/historical,/t/web",Internet Archive Backup,http://iabak.archiveteam.org/,/u/mjturner,4
+0,2016-11-16 07:12:16 -0600,/t/debugging,"Debugging Software, Sherlock Holmes-style",https://codewithoutrules.com/2016/11/16/debugging-sherlock-holmes/,/u/itamarst,1
+0,2016-11-16 08:26:21 -0600,"/t/programming,/t/rust",Parallel Iterators Part 1: Foundations,http://smallcultfollowing.com/babysteps/blog/2016/02/19/parallel-iterators-part-1-foundations/,/u/balrogboogie,2
+0,2016-11-15 18:08:24 -0600,"/t/release,/t/ruby",Announcing Hanami v0.9.0,http://hanamirb.org/blog/2016/11/15/announcing-hanami-090.html,/u/355E3B,9
+3,2016-11-15 09:21:04 -0600,"/t/video,/t/c",Why new C++ versions are created,https://www.youtube.com/watch?v=wrwwa68JXNk,/u/unbalancedparentheses,14
+19,2016-11-15 09:46:38 -0600,"/t/hardware,/t/security","Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",http://www.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html,/u/pushcx,11

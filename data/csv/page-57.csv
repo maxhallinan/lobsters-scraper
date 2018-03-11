@@ -1,25 +1,25 @@
-0,2018-01-17 17:31:24 -0600,['/t/dotnet'],ConcurrentDictionary Is Not Always Thread-Safe,http://blog.i3arnon.com/2018/01/16/concurrent-dictionary-tolist/,/u/calvin,1
-1,2018-01-16 22:15:56 -0600,['/t/security'],Some thoughts on Spectre and Meltdown,http://www.daemonology.net/blog/2018-01-17-some-thoughts-on-spectre-and-meltdown.html,/u/trousers,10
-2,2018-01-17 07:50:51 -0600,['/t/ruby'],Dear Ruby (1): What about Arguments when Inheriting?,https://apotonick.wordpress.com/2018/01/17/dear-ruby-1-what-about-arguments-when-inheriting/,/u/soulcutter,3
-0,2018-01-16 18:58:46 -0600,['/t/law'],Mozilla Files Suit Against FCC to Protect Net Neutrality,https://blog.mozilla.org/blog/2018/01/16/mozilla-files-suit-fcc-protect-net-neutrality/,/u/ctb,20
-1,2018-01-16 22:38:54 -0600,"['/t/historical', '/t/programming', '/t/unix']",Teaching an Almost 40-year Old UNIX about Backspace,https://virtuallyfun.com/2018/01/17/teaching_an_almost_40-year_old_unix_about_backspace/,/u/calvin,11
-2,2018-01-17 07:15:39 -0600,"['/t/video', '/t/distributed']",Introducing kubed-sh,https://www.youtube.com/watch?v=gqi1-XLiq-o,/u/mhausenblas,1
-0,2018-01-17 11:32:11 -0600,['/t/science'],"‘Quantum Radio’ May Aid Communications and Mapping Indoors, Underground and Underwater",https://www.nist.gov/news-events/news/2018/01/quantum-radio-may-aid-communications-and-mapping-indoors-underground-and,/u/akpoff,2
-0,2018-01-17 08:42:34 -0600,['/t/cryptocurrencies'],"Researchers find that one person likely drove Bitcoin from $150 to $1,000",https://techcrunch.com/2018/01/15/researchers-finds-that-one-person-likely-drove-bitcoin-from-150-to-1000/,/u/asthasr,3
-3,2018-01-16 15:45:38 -0600,"['/t/go', '/t/release']",Twirp: a sweet new RPC framework for Go,https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f,/u/dmc,15
-0,2018-01-17 09:32:44 -0600,"['/t/devops', '/t/java']","Fast incremental Java builds w Docker (i.e., using build caches inside Docker)",https://www.datawire.io/fast-builds-java-spring-boot-applications-docker/,/u/rdl,1
-3,2018-01-16 19:29:19 -0600,['/t/web'],Google Memory Loss,https://www.tbray.org/ongoing/When/201x/2018/01/15/Google-is-losing-its-memory,/u/calvin,11
-0,2018-01-17 10:15:41 -0600,['/t/css'],CSS Grid + CSS Multi-Columns,https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c,/u/soulcutter,2
-0,2018-01-17 10:13:16 -0600,['/t/css'],Demystifying CSS alignment,https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36,/u/soulcutter,2
-0,2018-01-17 08:46:07 -0600,"['/t/historical', '/t/satire', '/t/security']","A Brief, Inaccurate History of DNSSEC",https://gist.github.com/tqbf/7b069ec791bbcd858a89817696312046,/u/jabberwock,5
-0,2018-01-17 04:09:23 -0600,"['/t/ai', '/t/programming', '/t/web']",The value of Event Sourcing,https://keith-mifsud.me/the-value-of-event-sourcing,/u/keithmifsud,2
-0,2018-01-17 08:11:35 -0600,"['/t/linux', '/t/performance', '/t/programming']",membarrier system call performance and the future of Userspace RCU on Linux,http://lttng.org/blog/2018/01/15/membarrier-system-call-performance-and-userspace-rcu/,/u/nanxiao,2
-1,2018-01-17 11:43:20 -0600,"['/t/pdf', '/t/historical', '/t/practices', '/t/programming', '/t/security']","Lessons from the VAX/SVS for High-Assurance, VMM Systems (2012)",http://www.cse.psu.edu/~trj1/papers/ieee-sp-vaxvmm.pdf,/u/nickpsecurity,1
-0,2018-01-16 14:41:47 -0600,"['/t/hardware', '/t/security']",More about Spectre and the PowerPC (or why you may want to dust that G3 off),http://tenfourfox.blogspot.com/2018/01/more-about-spectre-and-powerpc-or-why.html,/u/sevan,16
-0,2018-01-16 23:15:32 -0600,['/t/security'],Long-Term Consequences Of Spectre And Its Mitigations,http://robert.ocallahan.org/2018/01/long-term-consequences-of-spectre-and.html,/u/freddyb,5
-0,2018-01-17 09:16:51 -0600,['/t/security'],Meterpreter over DNS - Data exfiltration with Metasploit,https://asintsov.blogspot.ch/2017/12/data-exfiltration-in-metasploit.html,/u/r2gf,1
-2,2018-01-16 10:59:53 -0600,"['/t/browsers', '/t/security', '/t/web']",Using Hardware Token-based 2FA with the WebAuthn API,https://hacks.mozilla.org/2018/01/using-hardware-token-based-2fa-with-the-webauthn-api/,/u/ttaubert,6
-0,2018-01-16 17:28:52 -0600,['/t/programming'],"Luna, the visual way to create software",https://medium.com/@luna_language/luna-the-visual-way-to-create-software-c4db520d6d1e,/u/hails,6
-9,2018-01-16 00:37:13 -0600,['/t/haskell'],RIO: A standard library for Haskell,https://github.com/commercialhaskell/rio,/u/lthms,23
-1,2018-01-16 12:11:23 -0600,"['/t/cryptocurrencies', '/t/distributed']",The DCS Theorem,https://arxiv.org/abs/1801.04335,/u/itistoday,3
-17,2018-01-16 10:36:32 -0600,"['/t/javascript', '/t/programming']",atom/xray: An experimental next-generation Electron-based text editor,https://github.com/atom/xray,/u/lygaret,5
+0,2018-01-17 17:31:24 -0600,/t/dotnet,ConcurrentDictionary Is Not Always Thread-Safe,http://blog.i3arnon.com/2018/01/16/concurrent-dictionary-tolist/,/u/calvin,1
+1,2018-01-16 22:15:56 -0600,/t/security,Some thoughts on Spectre and Meltdown,http://www.daemonology.net/blog/2018-01-17-some-thoughts-on-spectre-and-meltdown.html,/u/trousers,10
+2,2018-01-17 07:50:51 -0600,/t/ruby,Dear Ruby (1): What about Arguments when Inheriting?,https://apotonick.wordpress.com/2018/01/17/dear-ruby-1-what-about-arguments-when-inheriting/,/u/soulcutter,3
+0,2018-01-16 18:58:46 -0600,/t/law,Mozilla Files Suit Against FCC to Protect Net Neutrality,https://blog.mozilla.org/blog/2018/01/16/mozilla-files-suit-fcc-protect-net-neutrality/,/u/ctb,20
+1,2018-01-16 22:38:54 -0600,"/t/historical,/t/programming,/t/unix",Teaching an Almost 40-year Old UNIX about Backspace,https://virtuallyfun.com/2018/01/17/teaching_an_almost_40-year_old_unix_about_backspace/,/u/calvin,11
+2,2018-01-17 07:15:39 -0600,"/t/video,/t/distributed",Introducing kubed-sh,https://www.youtube.com/watch?v=gqi1-XLiq-o,/u/mhausenblas,1
+0,2018-01-17 11:32:11 -0600,/t/science,"‘Quantum Radio’ May Aid Communications and Mapping Indoors, Underground and Underwater",https://www.nist.gov/news-events/news/2018/01/quantum-radio-may-aid-communications-and-mapping-indoors-underground-and,/u/akpoff,2
+0,2018-01-17 08:42:34 -0600,/t/cryptocurrencies,"Researchers find that one person likely drove Bitcoin from $150 to $1,000",https://techcrunch.com/2018/01/15/researchers-finds-that-one-person-likely-drove-bitcoin-from-150-to-1000/,/u/asthasr,3
+3,2018-01-16 15:45:38 -0600,"/t/go,/t/release",Twirp: a sweet new RPC framework for Go,https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f,/u/dmc,15
+0,2018-01-17 09:32:44 -0600,"/t/devops,/t/java","Fast incremental Java builds w Docker (i.e., using build caches inside Docker)",https://www.datawire.io/fast-builds-java-spring-boot-applications-docker/,/u/rdl,1
+3,2018-01-16 19:29:19 -0600,/t/web,Google Memory Loss,https://www.tbray.org/ongoing/When/201x/2018/01/15/Google-is-losing-its-memory,/u/calvin,11
+0,2018-01-17 10:15:41 -0600,/t/css,CSS Grid + CSS Multi-Columns,https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c,/u/soulcutter,2
+0,2018-01-17 10:13:16 -0600,/t/css,Demystifying CSS alignment,https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36,/u/soulcutter,2
+0,2018-01-17 08:46:07 -0600,"/t/historical,/t/satire,/t/security","A Brief, Inaccurate History of DNSSEC",https://gist.github.com/tqbf/7b069ec791bbcd858a89817696312046,/u/jabberwock,5
+0,2018-01-17 04:09:23 -0600,"/t/ai,/t/programming,/t/web",The value of Event Sourcing,https://keith-mifsud.me/the-value-of-event-sourcing,/u/keithmifsud,2
+0,2018-01-17 08:11:35 -0600,"/t/linux,/t/performance,/t/programming",membarrier system call performance and the future of Userspace RCU on Linux,http://lttng.org/blog/2018/01/15/membarrier-system-call-performance-and-userspace-rcu/,/u/nanxiao,2
+1,2018-01-17 11:43:20 -0600,"/t/pdf,/t/historical,/t/practices,/t/programming,/t/security","Lessons from the VAX/SVS for High-Assurance, VMM Systems (2012)",http://www.cse.psu.edu/~trj1/papers/ieee-sp-vaxvmm.pdf,/u/nickpsecurity,1
+0,2018-01-16 14:41:47 -0600,"/t/hardware,/t/security",More about Spectre and the PowerPC (or why you may want to dust that G3 off),http://tenfourfox.blogspot.com/2018/01/more-about-spectre-and-powerpc-or-why.html,/u/sevan,16
+0,2018-01-16 23:15:32 -0600,/t/security,Long-Term Consequences Of Spectre And Its Mitigations,http://robert.ocallahan.org/2018/01/long-term-consequences-of-spectre-and.html,/u/freddyb,5
+0,2018-01-17 09:16:51 -0600,/t/security,Meterpreter over DNS - Data exfiltration with Metasploit,https://asintsov.blogspot.ch/2017/12/data-exfiltration-in-metasploit.html,/u/r2gf,1
+2,2018-01-16 10:59:53 -0600,"/t/browsers,/t/security,/t/web",Using Hardware Token-based 2FA with the WebAuthn API,https://hacks.mozilla.org/2018/01/using-hardware-token-based-2fa-with-the-webauthn-api/,/u/ttaubert,6
+0,2018-01-16 17:28:52 -0600,/t/programming,"Luna, the visual way to create software",https://medium.com/@luna_language/luna-the-visual-way-to-create-software-c4db520d6d1e,/u/hails,6
+9,2018-01-16 00:37:13 -0600,/t/haskell,RIO: A standard library for Haskell,https://github.com/commercialhaskell/rio,/u/lthms,23
+1,2018-01-16 12:11:23 -0600,"/t/cryptocurrencies,/t/distributed",The DCS Theorem,https://arxiv.org/abs/1801.04335,/u/itistoday,3
+17,2018-01-16 10:36:32 -0600,"/t/javascript,/t/programming",atom/xray: An experimental next-generation Electron-based text editor,https://github.com/atom/xray,/u/lygaret,5

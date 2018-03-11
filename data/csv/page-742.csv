@@ -1,25 +1,25 @@
-0,2016-06-23 09:22:20 -0500,"['/t/freebsd', '/t/practices', '/t/unix']",CloudABI's POSIX threads support: hierarchical futexes,https://nuxi.nl/blog/2016/06/22/cloudabi-futexes.html,/u/sevan,3
-0,2016-06-23 09:22:05 -0500,"['/t/pdf', '/t/practices']",Deliberate Practice in the Acquisition of Expert Performance (1993),http://projects.ict.usc.edu/itw/gel/EricssonDeliberatePracticePR93.PDF,/u/fcbsd,3
-10,2016-06-22 06:40:37 -0500,['/t/api'],Comma Separated JSON,http://www.kirit.com/Comma%20Separated%20JSON,/u/dege,21
-10,2016-06-22 19:28:39 -0500,['/t/ask'],What do you use to track leads?,/s/uvyt8i/what_do_you_use_track_leads,/u/silky,5
-0,2016-06-23 04:00:32 -0500,"['/t/culture', '/t/release']",What’s up with nano?,http://www.asty.org/2016/06/23/whats-up-with-nano/,/u/mulander,6
-0,2016-06-22 16:13:05 -0500,['/t/ruby'],Behavior changes in Ruby 2.4,http://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4,/u/wyeworks,6
-1,2016-06-22 17:45:55 -0500,"['/t/video', '/t/hardware', '/t/virtualization']",Legacy x86 Applications on OpenPOWER™ via QEMU,https://www.raptorengineering.com/TALOS/op_qemu_gl.php,/u/chadski,7
-0,2016-06-23 02:54:03 -0500,"['/t/databases', '/t/security']",MitM-ing Postgres,https://thusoy.com/2016/mitming-postgres,/u/pushcx,3
-4,2016-06-22 06:17:44 -0500,['/t/vim'],Vim Refactoring Patterns,http://deliberate-software.com/vim-refactoring-patterns/,/u/steveshogren,13
-1,2016-06-22 09:43:44 -0500,"['/t/c', '/t/linux', '/t/networking']",Monitoring and Tuning the Linux Networking Stack: Receiving Data,http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/,/u/capotej,19
-2,2016-06-22 06:26:37 -0500,"['/t/erlang', '/t/release']",Erlang/OTP 19.0 has been released,http://www.erlang.org/news/105,/u/av,25
-4,2016-06-22 10:41:21 -0500,"['/t/hardware', '/t/security']","conorpp/u2f-zero - U2F USB token optimized for physical security, affordability, and style",https://github.com/conorpp/u2f-zero,/u/antifuchs,9
-2,2016-06-22 10:18:20 -0500,['/t/math'],Dividing by zero to invert matrices,https://graphicallinearalgebra.net/2016/06/22/29-inverting-matrices-and-dividing-by-zero/,/u/jcaudle,12
-15,2016-06-21 19:41:53 -0500,"['/t/historical', '/t/practices', '/t/programming']",ASCII Delimited Text – Not CSV or TAB delimited text,https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/,/u/friendlysock,37
-0,2016-06-22 20:23:52 -0500,['/t/practices'],Reverse Turing testing tech support,http://blog.erratasec.com/2016/06/reverse-turing-testing-tech-support.html,/u/tedu,4
-1,2016-06-22 09:15:24 -0500,"['/t/lisp', '/t/web']",Concerns with Ring (Clojure library),https://juxt.pro/blog/posts/yada-2.html,/u/dominicm,15
-0,2016-06-23 01:00:36 -0500,"['/t/python', '/t/virtualization']",Libcloud 1.0.0 released,https://libcloud.apache.org/blog/2016/06/22/libcloud-1-0-0-released.html,/u/fkr,2
-0,2016-06-22 10:53:36 -0500,['/t/science'],Relativistic-microwave theory of ball lightning,http://www.nature.com/articles/srep28263,/u/pushcx,11
-0,2016-06-23 09:31:47 -0500,['/t/browsers'],Mozilla Bugs - Make it Easy to Use Custom Syntax Highlighting,https://bugzilla.mozilla.org/show_bug.cgi?id=1281118,/u/flyingfisch,0
-1,2016-06-22 12:02:53 -0500,['/t/programming'],Empathy: The key to a successful software project,https://www.oreilly.com/ideas/empathy-the-key-to-a-successful-software-project,/u/practicingruby,2
-0,2016-06-22 20:40:00 -0500,"['/t/math', '/t/perl', '/t/science']",The Greek Clock,http://blog.plover.com/2016/06/22#Greek-clock,/u/tedu,2
-0,2016-06-22 12:27:44 -0500,"['/t/pdf', '/t/compilers', '/t/ml']",Malfunctional Programming,http://www.cl.cam.ac.uk/~sd601/papers/malfunction.pdf,/u/dwc,6
-0,2016-06-22 09:34:22 -0500,"['/t/haskell', '/t/programming']",How to create a GUI application in Haskell (with GTK+ and Glade),https://www.stackbuilders.com/tutorials/haskell/gui-application/,/u/jpvillaisaza,8
-0,2016-06-22 14:05:51 -0500,"['/t/design', '/t/web']",Don't Overthink It (Flexbox) Grids,https://css-tricks.com/dont-overthink-flexbox-grids/,/u/flyingfisch,4
-0,2016-06-22 16:04:28 -0500,"['/t/show', '/t/netbsd', '/t/practices']","GSoC 2016 Reports: Split debug symbols for pkgsrc builds, part 1",http://blog.netbsd.org/tnf/entry/gsoc_2016_reports_split_debug,/u/sevan,3
+0,2016-06-23 09:22:20 -0500,"/t/freebsd,/t/practices,/t/unix",CloudABI's POSIX threads support: hierarchical futexes,https://nuxi.nl/blog/2016/06/22/cloudabi-futexes.html,/u/sevan,3
+0,2016-06-23 09:22:05 -0500,"/t/pdf,/t/practices",Deliberate Practice in the Acquisition of Expert Performance (1993),http://projects.ict.usc.edu/itw/gel/EricssonDeliberatePracticePR93.PDF,/u/fcbsd,3
+10,2016-06-22 06:40:37 -0500,/t/api,Comma Separated JSON,http://www.kirit.com/Comma%20Separated%20JSON,/u/dege,21
+10,2016-06-22 19:28:39 -0500,/t/ask,What do you use to track leads?,/s/uvyt8i/what_do_you_use_track_leads,/u/silky,5
+0,2016-06-23 04:00:32 -0500,"/t/culture,/t/release",What’s up with nano?,http://www.asty.org/2016/06/23/whats-up-with-nano/,/u/mulander,6
+0,2016-06-22 16:13:05 -0500,/t/ruby,Behavior changes in Ruby 2.4,http://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4,/u/wyeworks,6
+1,2016-06-22 17:45:55 -0500,"/t/video,/t/hardware,/t/virtualization",Legacy x86 Applications on OpenPOWER™ via QEMU,https://www.raptorengineering.com/TALOS/op_qemu_gl.php,/u/chadski,7
+0,2016-06-23 02:54:03 -0500,"/t/databases,/t/security",MitM-ing Postgres,https://thusoy.com/2016/mitming-postgres,/u/pushcx,3
+4,2016-06-22 06:17:44 -0500,/t/vim,Vim Refactoring Patterns,http://deliberate-software.com/vim-refactoring-patterns/,/u/steveshogren,13
+1,2016-06-22 09:43:44 -0500,"/t/c,/t/linux,/t/networking",Monitoring and Tuning the Linux Networking Stack: Receiving Data,http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/,/u/capotej,19
+2,2016-06-22 06:26:37 -0500,"/t/erlang,/t/release",Erlang/OTP 19.0 has been released,http://www.erlang.org/news/105,/u/av,25
+4,2016-06-22 10:41:21 -0500,"/t/hardware,/t/security","conorpp/u2f-zero - U2F USB token optimized for physical security, affordability, and style",https://github.com/conorpp/u2f-zero,/u/antifuchs,9
+2,2016-06-22 10:18:20 -0500,/t/math,Dividing by zero to invert matrices,https://graphicallinearalgebra.net/2016/06/22/29-inverting-matrices-and-dividing-by-zero/,/u/jcaudle,12
+15,2016-06-21 19:41:53 -0500,"/t/historical,/t/practices,/t/programming",ASCII Delimited Text – Not CSV or TAB delimited text,https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/,/u/friendlysock,37
+0,2016-06-22 20:23:52 -0500,/t/practices,Reverse Turing testing tech support,http://blog.erratasec.com/2016/06/reverse-turing-testing-tech-support.html,/u/tedu,4
+1,2016-06-22 09:15:24 -0500,"/t/lisp,/t/web",Concerns with Ring (Clojure library),https://juxt.pro/blog/posts/yada-2.html,/u/dominicm,15
+0,2016-06-23 01:00:36 -0500,"/t/python,/t/virtualization",Libcloud 1.0.0 released,https://libcloud.apache.org/blog/2016/06/22/libcloud-1-0-0-released.html,/u/fkr,2
+0,2016-06-22 10:53:36 -0500,/t/science,Relativistic-microwave theory of ball lightning,http://www.nature.com/articles/srep28263,/u/pushcx,11
+0,2016-06-23 09:31:47 -0500,/t/browsers,Mozilla Bugs - Make it Easy to Use Custom Syntax Highlighting,https://bugzilla.mozilla.org/show_bug.cgi?id=1281118,/u/flyingfisch,0
+1,2016-06-22 12:02:53 -0500,/t/programming,Empathy: The key to a successful software project,https://www.oreilly.com/ideas/empathy-the-key-to-a-successful-software-project,/u/practicingruby,2
+0,2016-06-22 20:40:00 -0500,"/t/math,/t/perl,/t/science",The Greek Clock,http://blog.plover.com/2016/06/22#Greek-clock,/u/tedu,2
+0,2016-06-22 12:27:44 -0500,"/t/pdf,/t/compilers,/t/ml",Malfunctional Programming,http://www.cl.cam.ac.uk/~sd601/papers/malfunction.pdf,/u/dwc,6
+0,2016-06-22 09:34:22 -0500,"/t/haskell,/t/programming",How to create a GUI application in Haskell (with GTK+ and Glade),https://www.stackbuilders.com/tutorials/haskell/gui-application/,/u/jpvillaisaza,8
+0,2016-06-22 14:05:51 -0500,"/t/design,/t/web",Don't Overthink It (Flexbox) Grids,https://css-tricks.com/dont-overthink-flexbox-grids/,/u/flyingfisch,4
+0,2016-06-22 16:04:28 -0500,"/t/show,/t/netbsd,/t/practices","GSoC 2016 Reports: Split debug symbols for pkgsrc builds, part 1",http://blog.netbsd.org/tnf/entry/gsoc_2016_reports_split_debug,/u/sevan,3

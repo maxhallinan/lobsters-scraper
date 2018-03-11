@@ -1,25 +1,25 @@
-4,2015-06-13 14:40:08 -0500,['/t/ml'],A brief introduction to OCaml,http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html,/u/fredyr,13
-3,2015-06-13 10:40:44 -0500,['/t/compsci'],Design Principles Behind Smalltalk,https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html,/u/SeanTAllen,13
-2,2015-06-12 15:49:15 -0500,['/t/openbsd'],signify: Securing OpenBSD From Us To You,http://www.openbsd.org/papers/bsdcan-signify.html,/u/fcambus,18
-3,2015-06-12 17:25:18 -0500,"['/t/show', '/t/programming', '/t/release']",Improve the bus factor of open source libraries,https://libraries.io/bus-factor,/u/andrewnez,14
-1,2015-06-12 13:41:02 -0500,"['/t/programming', '/t/release']",Open-sourcing Facebook Infer: Identify bugs before you ship,https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/,/u/kellogh,15
-3,2015-06-12 09:33:42 -0500,['/t/programming'],Reusability Trap,http://250bpm.com/blog:49,/u/SeanTAllen,14
-11,2015-06-11 21:49:23 -0500,['/t/programming'],Finish your stuff,http://250bpm.com/blog:50,/u/SeanTAllen,33
-0,2015-06-12 18:13:37 -0500,['/t/go'],Godep: Dependency Management in Go,http://blog.codeship.com/godep-dependency-management-in-golang/,/u/journeysquid,5
-0,2015-06-12 09:22:32 -0500,"['/t/show', '/t/compsci', '/t/event']","My open source, minimal CS Conference Tracker. Provides weekly emails of ongoing conferences.",https://github.com/bamos/conference-tracker,/u/bamos,10
-0,2015-06-12 15:25:16 -0500,['/t/web'],"Replace Default_Images With CSS3, Save Bandwidth",https://medium.com/bubblin-superbooks/replacing-default-images-with-css3-e068f6bac796,/u/marvindanig,3
-1,2015-06-12 10:54:39 -0500,['/t/api'],Should Every Company Consider Providing an API?,http://nordicapis.com/should-every-company-consider-providing-an-api/,/u/journeysquid,3
-1,2015-06-12 19:14:04 -0500,"['/t/video', '/t/mobile', '/t/web']","John Legere: If you’re not pissed off, you’re not paying attention!",https://twitter.com/johnlegere/status/609007548952240128,/u/cnst,1
-3,2015-06-11 14:00:43 -0500,"['/t/slides', '/t/compilers', '/t/programming']",Creating a language using only assembly language,https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language,/u/pushcx,34
-0,2015-06-12 11:13:31 -0500,"['/t/databases', '/t/programming', '/t/scala', '/t/web']",Learning Slick 3.0 and Evolutions with Play Framework 2.4,http://semisafe.com/coding/2015/06/12/play_basics_database_access.html,/u/handsomecam,3
-19,2015-06-11 10:00:17 -0500,"['/t/hardware', '/t/programming']",The Death Of The Von Neumann Architecture,http://www.codersnotes.com/notes/the-death-of-the-von-neumann-architecture,/u/kellogh,21
-2,2015-06-11 19:15:29 -0500,['/t/hardware'],Intel has 4 processor lines,http://blog.erratasec.com/2015/06/intel-has-4-processor-lines.html,/u/pushcx,10
-0,2015-06-11 22:24:49 -0500,"['/t/slides', '/t/video', '/t/go']",GopherFest 2015: Rob Pike on the move from C to Go in the toolchain,http://www.youtube.com/watch?v=cF1zJYkBW4A,/u/jcs,9
-0,2015-06-11 17:58:59 -0500,"['/t/devops', '/t/networking', '/t/web']",Inside NGINX: Designed for Performance & Scalability,http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/,/u/ssl,9
-0,2015-06-12 07:39:45 -0500,"['/t/devops', '/t/ruby']",Verifying SSL Connections to Amazon S3 in CentOS 6 via Ruby,http://grahamlyons.com/article/verifying-ssl-connections-to-amazon-s3-in-centos-6-via-ruby,/u/grahamlyons,1
-0,2015-06-11 16:08:26 -0500,"['/t/compilers', '/t/release']",Raspberry Pi JonesFORTH O/S,https://github.com/organix/pijFORTHos,/u/pushcx,9
-1,2015-06-11 15:39:40 -0500,['/t/haskell'],Optimising the PureScript Compiler,http://slamdata.com/blog/2015/06/11/optimising-purescript-compiler.html,/u/puffnfresh,9
-0,2015-06-11 12:12:12 -0500,"['/t/pdf', '/t/lisp', '/t/release']",Reviving Lisp for smaller programmable machines,http://picolisp.com/wiki/!download?-A300,/u/pushcx,11
-7,2015-06-11 07:30:19 -0500,"['/t/culture', '/t/programming']",What is code?,http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/,/u/mjn,31
-0,2015-06-11 15:55:51 -0500,"['/t/assembly', '/t/games', '/t/programming']",Toledo Atomchess: Chess in 481 Bytes,http://nanochess.org/chess6.html,/u/pushcx,6
-25,2015-06-10 12:35:44 -0500,"['/t/go', '/t/ruby']",How We Moved Our API From Ruby to Go and Saved Our Sanity,http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/,/u/sheki,34
+4,2015-06-13 14:40:08 -0500,/t/ml,A brief introduction to OCaml,http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html,/u/fredyr,13
+3,2015-06-13 10:40:44 -0500,/t/compsci,Design Principles Behind Smalltalk,https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html,/u/SeanTAllen,13
+2,2015-06-12 15:49:15 -0500,/t/openbsd,signify: Securing OpenBSD From Us To You,http://www.openbsd.org/papers/bsdcan-signify.html,/u/fcambus,18
+3,2015-06-12 17:25:18 -0500,"/t/show,/t/programming,/t/release",Improve the bus factor of open source libraries,https://libraries.io/bus-factor,/u/andrewnez,14
+1,2015-06-12 13:41:02 -0500,"/t/programming,/t/release",Open-sourcing Facebook Infer: Identify bugs before you ship,https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/,/u/kellogh,15
+3,2015-06-12 09:33:42 -0500,/t/programming,Reusability Trap,http://250bpm.com/blog:49,/u/SeanTAllen,14
+11,2015-06-11 21:49:23 -0500,/t/programming,Finish your stuff,http://250bpm.com/blog:50,/u/SeanTAllen,33
+0,2015-06-12 18:13:37 -0500,/t/go,Godep: Dependency Management in Go,http://blog.codeship.com/godep-dependency-management-in-golang/,/u/journeysquid,5
+0,2015-06-12 09:22:32 -0500,"/t/show,/t/compsci,/t/event","My open source, minimal CS Conference Tracker. Provides weekly emails of ongoing conferences.",https://github.com/bamos/conference-tracker,/u/bamos,10
+0,2015-06-12 15:25:16 -0500,/t/web,"Replace Default_Images With CSS3, Save Bandwidth",https://medium.com/bubblin-superbooks/replacing-default-images-with-css3-e068f6bac796,/u/marvindanig,3
+1,2015-06-12 10:54:39 -0500,/t/api,Should Every Company Consider Providing an API?,http://nordicapis.com/should-every-company-consider-providing-an-api/,/u/journeysquid,3
+1,2015-06-12 19:14:04 -0500,"/t/video,/t/mobile,/t/web","John Legere: If you’re not pissed off, you’re not paying attention!",https://twitter.com/johnlegere/status/609007548952240128,/u/cnst,1
+3,2015-06-11 14:00:43 -0500,"/t/slides,/t/compilers,/t/programming",Creating a language using only assembly language,https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language,/u/pushcx,34
+0,2015-06-12 11:13:31 -0500,"/t/databases,/t/programming,/t/scala,/t/web",Learning Slick 3.0 and Evolutions with Play Framework 2.4,http://semisafe.com/coding/2015/06/12/play_basics_database_access.html,/u/handsomecam,3
+19,2015-06-11 10:00:17 -0500,"/t/hardware,/t/programming",The Death Of The Von Neumann Architecture,http://www.codersnotes.com/notes/the-death-of-the-von-neumann-architecture,/u/kellogh,21
+2,2015-06-11 19:15:29 -0500,/t/hardware,Intel has 4 processor lines,http://blog.erratasec.com/2015/06/intel-has-4-processor-lines.html,/u/pushcx,10
+0,2015-06-11 22:24:49 -0500,"/t/slides,/t/video,/t/go",GopherFest 2015: Rob Pike on the move from C to Go in the toolchain,http://www.youtube.com/watch?v=cF1zJYkBW4A,/u/jcs,9
+0,2015-06-11 17:58:59 -0500,"/t/devops,/t/networking,/t/web",Inside NGINX: Designed for Performance & Scalability,http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/,/u/ssl,9
+0,2015-06-12 07:39:45 -0500,"/t/devops,/t/ruby",Verifying SSL Connections to Amazon S3 in CentOS 6 via Ruby,http://grahamlyons.com/article/verifying-ssl-connections-to-amazon-s3-in-centos-6-via-ruby,/u/grahamlyons,1
+0,2015-06-11 16:08:26 -0500,"/t/compilers,/t/release",Raspberry Pi JonesFORTH O/S,https://github.com/organix/pijFORTHos,/u/pushcx,9
+1,2015-06-11 15:39:40 -0500,/t/haskell,Optimising the PureScript Compiler,http://slamdata.com/blog/2015/06/11/optimising-purescript-compiler.html,/u/puffnfresh,9
+0,2015-06-11 12:12:12 -0500,"/t/pdf,/t/lisp,/t/release",Reviving Lisp for smaller programmable machines,http://picolisp.com/wiki/!download?-A300,/u/pushcx,11
+7,2015-06-11 07:30:19 -0500,"/t/culture,/t/programming",What is code?,http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/,/u/mjn,31
+0,2015-06-11 15:55:51 -0500,"/t/assembly,/t/games,/t/programming",Toledo Atomchess: Chess in 481 Bytes,http://nanochess.org/chess6.html,/u/pushcx,6
+25,2015-06-10 12:35:44 -0500,"/t/go,/t/ruby",How We Moved Our API From Ruby to Go and Saved Our Sanity,http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/,/u/sheki,34

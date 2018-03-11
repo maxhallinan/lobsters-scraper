@@ -1,25 +1,25 @@
-1,2018-01-21 10:16:41 -0600,['/t/practices'],org-mode for Visual Studio Code,https://github.com/ajtoo/vscode-org-mode,/u/vegai,10
-0,2018-01-22 02:37:15 -0600,"['/t/javascript', '/t/web']",4 Essential ES2015 Features For Vue.js Development,https://vuejsdevelopers.com/2018/01/22/vue-js-javascript-es6/,/u/anthonygore,0
-24,2018-01-20 18:58:19 -0600,"['/t/cryptocurrencies', '/t/hardware']","GPU Prices Skyrocket, Breaking the Entire DIY PC Market",https://www.extremetech.com/gaming/262493-gpu-prices-skyrocket-breaking-entire-diy-pc-market,/u/zpojqwfejwfhiunz,20
-2,2018-01-21 08:49:25 -0600,"['/t/pdf', '/t/c', '/t/practices', '/t/programming']",Comparing Development Costs of Ada and C (1995),http://archive.adaic.com/intro/ada-vs-c/cada_art.pdf,/u/nickpsecurity,8
-1,2018-01-21 14:51:11 -0600,"['/t/culture', '/t/job']",Fellow Engineers: This is where your money comes from,https://lianza.org/blog/2018/01/21/fellow-engineers-this-is-where-your-money-comes-from/,/u/friendlysock,6
-3,2018-01-21 11:11:20 -0600,"['/t/javascript', '/t/web']",The Ultimate Guide to JavaScript Frameworks,https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/,/u/zpojqwfejwfhiunz,2
-0,2018-01-21 19:29:40 -0600,"['/t/dotnet', '/t/programming']",A Primer on Repeatable Random Numbers (2015),https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/,/u/dbremner,1
-0,2018-01-21 13:26:38 -0600,"['/t/event', '/t/hardware']",Open Source Hardware Camp (30th June & 1st July) CFP.,http://oshug.org/pipermail/oshug/2018-January/000626.html,/u/sevan,2
-8,2018-01-20 07:11:10 -0600,"['/t/mobile', '/t/privacy']",Never accept an MDM policy on your personal phone,https://blog.cdemi.io/never-accept-an-mdm-policy-on-your-personal-phone/,/u/calvin,53
-0,2018-01-21 08:15:39 -0600,"['/t/javascript', '/t/reversing']",Injecting JS into electron apps (And adding RTL support for ‘Microsoft Teams’),https://medium.com/@dany74q/injecting-js-into-electron-apps-and-adding-rtl-support-for-microsoft-teams-d315dfb212a6,/u/calvin,3
-0,2018-01-21 14:30:48 -0600,"['/t/audio', '/t/practices', '/t/security']",How Slack Stays Secure During Hyper Growth,https://www.heavybit.com/library/podcasts/the-secure-developer/ep-14-how-slack-stays-secure-during-hyper-growth/,/u/calvin,1
-5,2018-01-20 10:13:19 -0600,"['/t/javascript', '/t/satire']",GG Flip - Highly performant Javascript library to flip the signs,https://github.com/avinassh/gg-flip,/u/av,21
-2,2018-01-20 23:37:47 -0600,"['/t/crypto', '/t/programming']",Toy Code: Hand-crafting a good hash function,http://calypsosfarewell.blogspot.com/2018/01/toy-code-hand-crafting-good-hash.html,/u/calvin,3
-7,2018-01-20 18:20:58 -0600,"['/t/culture', '/t/programming']",Experiment!,https://byuu.org/articles/experiment/,/u/Screwtape,16
-4,2018-01-20 05:37:00 -0600,['/t/rust'],Getting started with Rust on the command line,http://asquera.de/blog/2018-01-20/getting-started-with-rust-on-the-command-line/,/u/hoopla,25
-0,2018-01-20 08:55:41 -0600,"['/t/hardware', '/t/programming', '/t/rust']",Brave new I/O - Embedded in Rust,http://blog.japaric.io/brave-new-io/,/u/azdle,24
-2,2018-01-20 04:36:42 -0600,['/t/practices'],The byte order fallacy,https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html,/u/friendlysock,30
-2,2018-01-20 08:38:23 -0600,['/t/rust'],Evolving Line Art,https://gkbrk.com/2018/01/evolving-line-art/,/u/gkbrk,8
-0,2018-01-20 21:21:18 -0600,"['/t/c++', '/t/web']",Building a Website with C++,https://blog.sourcerer.io/building-a-website-with-c-db942c801aee,/u/calvin,3
-6,2018-01-20 06:18:56 -0600,['/t/person'],"Interview with Ryan Dahl, Creator of Node.js",https://www.mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs/,/u/adsouza,8
-1,2018-01-20 10:07:29 -0600,['/t/hardware'],Mr. Self Destruct – A USB keystroke injector with software-triggered 5v payloads,https://medium.com/@_MG_/mr-self-destruct-7986998f32a8,/u/jesper,8
-1,2018-01-20 10:49:32 -0600,"['/t/pdf', '/t/slides', '/t/hardware', '/t/linux']",J-Core Design Walkthrough (2016),http://j-core.org/talks/ELC-2016.pdf,/u/nickpsecurity,7
-23,2018-01-19 09:42:40 -0600,['/t/devops'],"Bash aliases are great, so is dired.",/s/vyfhpm/bash_aliases_are_great_so_is_dired,/u/hobbes,34
-0,2018-01-20 04:28:39 -0600,['/t/practices'],Not Applicable: What Your Job Post Is Really Saying,https://where.coraline.codes/blog/not_applicable/,/u/stsp,16
-1,2018-01-20 07:21:34 -0600,['/t/networking'],Network latencies and speed of light,https://fgiesen.wordpress.com/2018/01/20/network-latencies-and-speed-of-light/,/u/calvin,7
+1,2018-01-21 10:16:41 -0600,/t/practices,org-mode for Visual Studio Code,https://github.com/ajtoo/vscode-org-mode,/u/vegai,10
+0,2018-01-22 02:37:15 -0600,"/t/javascript,/t/web",4 Essential ES2015 Features For Vue.js Development,https://vuejsdevelopers.com/2018/01/22/vue-js-javascript-es6/,/u/anthonygore,0
+24,2018-01-20 18:58:19 -0600,"/t/cryptocurrencies,/t/hardware","GPU Prices Skyrocket, Breaking the Entire DIY PC Market",https://www.extremetech.com/gaming/262493-gpu-prices-skyrocket-breaking-entire-diy-pc-market,/u/zpojqwfejwfhiunz,20
+2,2018-01-21 08:49:25 -0600,"/t/pdf,/t/c,/t/practices,/t/programming",Comparing Development Costs of Ada and C (1995),http://archive.adaic.com/intro/ada-vs-c/cada_art.pdf,/u/nickpsecurity,8
+1,2018-01-21 14:51:11 -0600,"/t/culture,/t/job",Fellow Engineers: This is where your money comes from,https://lianza.org/blog/2018/01/21/fellow-engineers-this-is-where-your-money-comes-from/,/u/friendlysock,6
+3,2018-01-21 11:11:20 -0600,"/t/javascript,/t/web",The Ultimate Guide to JavaScript Frameworks,https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/,/u/zpojqwfejwfhiunz,2
+0,2018-01-21 19:29:40 -0600,"/t/dotnet,/t/programming",A Primer on Repeatable Random Numbers (2015),https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/,/u/dbremner,1
+0,2018-01-21 13:26:38 -0600,"/t/event,/t/hardware",Open Source Hardware Camp (30th June & 1st July) CFP.,http://oshug.org/pipermail/oshug/2018-January/000626.html,/u/sevan,2
+8,2018-01-20 07:11:10 -0600,"/t/mobile,/t/privacy",Never accept an MDM policy on your personal phone,https://blog.cdemi.io/never-accept-an-mdm-policy-on-your-personal-phone/,/u/calvin,53
+0,2018-01-21 08:15:39 -0600,"/t/javascript,/t/reversing",Injecting JS into electron apps (And adding RTL support for ‘Microsoft Teams’),https://medium.com/@dany74q/injecting-js-into-electron-apps-and-adding-rtl-support-for-microsoft-teams-d315dfb212a6,/u/calvin,3
+0,2018-01-21 14:30:48 -0600,"/t/audio,/t/practices,/t/security",How Slack Stays Secure During Hyper Growth,https://www.heavybit.com/library/podcasts/the-secure-developer/ep-14-how-slack-stays-secure-during-hyper-growth/,/u/calvin,1
+5,2018-01-20 10:13:19 -0600,"/t/javascript,/t/satire",GG Flip - Highly performant Javascript library to flip the signs,https://github.com/avinassh/gg-flip,/u/av,21
+2,2018-01-20 23:37:47 -0600,"/t/crypto,/t/programming",Toy Code: Hand-crafting a good hash function,http://calypsosfarewell.blogspot.com/2018/01/toy-code-hand-crafting-good-hash.html,/u/calvin,3
+7,2018-01-20 18:20:58 -0600,"/t/culture,/t/programming",Experiment!,https://byuu.org/articles/experiment/,/u/Screwtape,16
+4,2018-01-20 05:37:00 -0600,/t/rust,Getting started with Rust on the command line,http://asquera.de/blog/2018-01-20/getting-started-with-rust-on-the-command-line/,/u/hoopla,25
+0,2018-01-20 08:55:41 -0600,"/t/hardware,/t/programming,/t/rust",Brave new I/O - Embedded in Rust,http://blog.japaric.io/brave-new-io/,/u/azdle,24
+2,2018-01-20 04:36:42 -0600,/t/practices,The byte order fallacy,https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html,/u/friendlysock,30
+2,2018-01-20 08:38:23 -0600,/t/rust,Evolving Line Art,https://gkbrk.com/2018/01/evolving-line-art/,/u/gkbrk,8
+0,2018-01-20 21:21:18 -0600,"/t/c++,/t/web",Building a Website with C++,https://blog.sourcerer.io/building-a-website-with-c-db942c801aee,/u/calvin,3
+6,2018-01-20 06:18:56 -0600,/t/person,"Interview with Ryan Dahl, Creator of Node.js",https://www.mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs/,/u/adsouza,8
+1,2018-01-20 10:07:29 -0600,/t/hardware,Mr. Self Destruct – A USB keystroke injector with software-triggered 5v payloads,https://medium.com/@_MG_/mr-self-destruct-7986998f32a8,/u/jesper,8
+1,2018-01-20 10:49:32 -0600,"/t/pdf,/t/slides,/t/hardware,/t/linux",J-Core Design Walkthrough (2016),http://j-core.org/talks/ELC-2016.pdf,/u/nickpsecurity,7
+23,2018-01-19 09:42:40 -0600,/t/devops,"Bash aliases are great, so is dired.",/s/vyfhpm/bash_aliases_are_great_so_is_dired,/u/hobbes,34
+0,2018-01-20 04:28:39 -0600,/t/practices,Not Applicable: What Your Job Post Is Really Saying,https://where.coraline.codes/blog/not_applicable/,/u/stsp,16
+1,2018-01-20 07:21:34 -0600,/t/networking,Network latencies and speed of light,https://fgiesen.wordpress.com/2018/01/20/network-latencies-and-speed-of-light/,/u/calvin,7

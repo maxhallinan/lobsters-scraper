@@ -1,25 +1,25 @@
-4,2017-12-23 15:39:21 -0600,['/t/linux'],The Wayland Zombie Apocalypse is Near,https://blogs.s-osg.org/wayland-zombie-apocalypse-near/,/u/calvin,20
-0,2017-12-24 02:26:49 -0600,"['/t/graphics', '/t/linux']",Crash-Resilient Wayland Compositing,https://arcan-fe.com/2017/12/24/crash-resilient-wayland-compositing/,/u/crazyloglad,4
-1,2017-12-23 14:13:03 -0600,"['/t/debugging', '/t/rust']",Debugging a segfault in my Rust program,https://jvns.ca/blog/2017/12/23/segfault-debugging/,/u/calvin,22
-0,2017-12-23 20:14:56 -0600,"['/t/elixir', '/t/release']",Announcing Jason: a blazing fast JSON parser and generator in pure Elixir,https://elixirforum.com/t/announcing-jason-a-blazing-fast-json-parser-and-generator-in-pure-elixir/11030,/u/talklittle,12
-3,2017-12-23 15:34:59 -0600,"['/t/pdf', '/t/slides', '/t/crypto']",Everything you need to know about cryptography in 1 hour (2010),http://www.bsdcan.org/2010/schedule/attachments/135_crypto1hr.pdf,/u/sgreben,12
-1,2017-12-23 16:00:39 -0600,"['/t/design', '/t/ios', '/t/mac', '/t/programming']",Marzipan,https://daringfireball.net/2017/12/marzipan,/u/calvin,14
-9,2017-12-23 15:14:23 -0600,['/t/meta'],"Lobste.rs scrolls up slightly whenever I type a character in a ""reply"" box. Anyone else have this?",/s/7sbpdj/lobste_rs_scrolls_up_slightly_whenever_i,/u/caleb,7
-0,2017-12-23 08:10:36 -0600,"['/t/person', '/t/practices']",Reflection on my work in 2017,http://nanxiao.me/en/reflection-on-my-work-in-2017/,/u/nanxiao,16
-1,2017-12-23 08:05:48 -0600,"['/t/c', '/t/performance', '/t/programming']",How to Print Integers Really Fast - Paul Khuong,http://www.pvk.ca/Blog/2017/12/22/appnexus-common-framework-its-out-also-how-to-print-integers-faster,/u/awal,23
-1,2017-12-23 13:03:17 -0600,"['/t/programming', '/t/unix']","OSH 0.3 - Optimization, Benchmarks, and Bug Fixes",http://www.oilshell.org/blog/2017/12/22.html,/u/andyc,4
-2,2017-12-23 11:41:11 -0600,"['/t/pdf', '/t/hardware', '/t/security']",Acoustic Denial of Service Attacks on HDDs,https://arxiv.org/pdf/1712.07816.pdf,/u/sevan,7
-0,2017-12-23 11:20:39 -0600,"['/t/pdf', '/t/compilers']",Why Nothing Matters: The Impact of Zeroing,http://users.cecs.anu.edu.au/~steveb/downloads/pdf/zero-oopsla-2011.pdf,/u/GeoffWozniak,11
-0,2017-12-23 21:38:32 -0600,"['/t/video', '/t/cryptocurrencies']",Searching for Bitcoins in GitHub repositories with Google BigQuery,https://www.youtube.com/watch?v=Xml4Gx3huag,/u/av,3
-1,2017-12-23 13:01:20 -0600,['/t/graphics'],The sRGB Learning Curve,https://medium.com/game-dev-daily/the-srgb-learning-curve-773b7f68cf7a,/u/mikejsavage,6
-0,2017-12-23 12:30:12 -0600,"['/t/release', '/t/security']",Edward Snowden’s New App Uses Your Smartphone to Physically Guard Your Laptop,https://theintercept.com/2017/12/22/snowdens-new-app-uses-your-smartphone-to-physically-guard-your-laptop/,/u/sajith,6
-0,2017-12-23 07:13:32 -0600,"['/t/historical', '/t/programming']",Commodore Programming Languages,https://virtuallyfun.com/2017/12/23/commodore-programming-languages/,/u/calvin,11
-2,2017-12-23 12:43:26 -0600,"['/t/ai', '/t/philosophy']",Are we really discussing the AI era’s perils properly?,https://medium.com/@hagarthehorrible/are-we-really-discussing-the-ai-eras-perils-properly-cffe6393b121,/u/stsp,1
-1,2017-12-23 10:23:11 -0600,"['/t/games', '/t/release']",SSHTron: Multiplayer Tron in your terminal,http://sshtron.zachlatta.com/,/u/unbalancedparentheses,4
-0,2017-12-23 16:41:49 -0600,['/t/graphics'],Recapturing colour from black and white film (2008),https://www.theguardian.com/technology/2008/dec/11/digital-video-restoration-dad-s-army,/u/calvin,2
-0,2017-12-23 15:55:22 -0600,"['/t/video', '/t/ai', '/t/python']","Creating a Chatbot with Deep Learning, Python, and TensorFlow",https://www.youtube.com/watch?v=dvOnYLDg8_Y,/u/unbalancedparentheses,1
-0,2017-12-23 03:04:58 -0600,['/t/graphics'],Alternative definition of Spherical Harmonics for Lighting,https://grahamhazel.com/blog/2017/12/18/alternative-definition-of-spherical-harmonics-for-lighting/,/u/mikejsavage,6
-4,2017-12-22 10:12:40 -0600,"['/t/person', '/t/practices']",10 ways remote work has turned me into a total weirdo,https://medium.com/@searls/10-rules-54243f9b9aed,/u/soulcutter,26
-38,2017-12-22 02:27:05 -0600,['/t/linux'],My Webserver Setup,https://blog.ls42.de/post/my-webserver-setup/,/u/neuromanc,21
-2,2017-12-22 16:36:09 -0600,['/t/hardware'],The High School Student Who’s Building His Own Integrated Circuits,https://spectrum.ieee.org/semiconductors/devices/the-high-school-student-whos-building-his-own-integrated-circuits,/u/Hail_Spacecake,13
-7,2017-12-22 11:08:45 -0600,"['/t/lisp', '/t/practices', '/t/programming']",Essay: S-Expressions are a Bad Idea (2002),http://cl.cddddr.org/index.cgi?Essay%3AS-expressions%20are%20a%20bad%20idea&l=,/u/nickpsecurity,12
+4,2017-12-23 15:39:21 -0600,/t/linux,The Wayland Zombie Apocalypse is Near,https://blogs.s-osg.org/wayland-zombie-apocalypse-near/,/u/calvin,20
+0,2017-12-24 02:26:49 -0600,"/t/graphics,/t/linux",Crash-Resilient Wayland Compositing,https://arcan-fe.com/2017/12/24/crash-resilient-wayland-compositing/,/u/crazyloglad,4
+1,2017-12-23 14:13:03 -0600,"/t/debugging,/t/rust",Debugging a segfault in my Rust program,https://jvns.ca/blog/2017/12/23/segfault-debugging/,/u/calvin,22
+0,2017-12-23 20:14:56 -0600,"/t/elixir,/t/release",Announcing Jason: a blazing fast JSON parser and generator in pure Elixir,https://elixirforum.com/t/announcing-jason-a-blazing-fast-json-parser-and-generator-in-pure-elixir/11030,/u/talklittle,12
+3,2017-12-23 15:34:59 -0600,"/t/pdf,/t/slides,/t/crypto",Everything you need to know about cryptography in 1 hour (2010),http://www.bsdcan.org/2010/schedule/attachments/135_crypto1hr.pdf,/u/sgreben,12
+1,2017-12-23 16:00:39 -0600,"/t/design,/t/ios,/t/mac,/t/programming",Marzipan,https://daringfireball.net/2017/12/marzipan,/u/calvin,14
+9,2017-12-23 15:14:23 -0600,/t/meta,"Lobste.rs scrolls up slightly whenever I type a character in a ""reply"" box. Anyone else have this?",/s/7sbpdj/lobste_rs_scrolls_up_slightly_whenever_i,/u/caleb,7
+0,2017-12-23 08:10:36 -0600,"/t/person,/t/practices",Reflection on my work in 2017,http://nanxiao.me/en/reflection-on-my-work-in-2017/,/u/nanxiao,16
+1,2017-12-23 08:05:48 -0600,"/t/c,/t/performance,/t/programming",How to Print Integers Really Fast - Paul Khuong,http://www.pvk.ca/Blog/2017/12/22/appnexus-common-framework-its-out-also-how-to-print-integers-faster,/u/awal,23
+1,2017-12-23 13:03:17 -0600,"/t/programming,/t/unix","OSH 0.3 - Optimization, Benchmarks, and Bug Fixes",http://www.oilshell.org/blog/2017/12/22.html,/u/andyc,4
+2,2017-12-23 11:41:11 -0600,"/t/pdf,/t/hardware,/t/security",Acoustic Denial of Service Attacks on HDDs,https://arxiv.org/pdf/1712.07816.pdf,/u/sevan,7
+0,2017-12-23 11:20:39 -0600,"/t/pdf,/t/compilers",Why Nothing Matters: The Impact of Zeroing,http://users.cecs.anu.edu.au/~steveb/downloads/pdf/zero-oopsla-2011.pdf,/u/GeoffWozniak,11
+0,2017-12-23 21:38:32 -0600,"/t/video,/t/cryptocurrencies",Searching for Bitcoins in GitHub repositories with Google BigQuery,https://www.youtube.com/watch?v=Xml4Gx3huag,/u/av,3
+1,2017-12-23 13:01:20 -0600,/t/graphics,The sRGB Learning Curve,https://medium.com/game-dev-daily/the-srgb-learning-curve-773b7f68cf7a,/u/mikejsavage,6
+0,2017-12-23 12:30:12 -0600,"/t/release,/t/security",Edward Snowden’s New App Uses Your Smartphone to Physically Guard Your Laptop,https://theintercept.com/2017/12/22/snowdens-new-app-uses-your-smartphone-to-physically-guard-your-laptop/,/u/sajith,6
+0,2017-12-23 07:13:32 -0600,"/t/historical,/t/programming",Commodore Programming Languages,https://virtuallyfun.com/2017/12/23/commodore-programming-languages/,/u/calvin,11
+2,2017-12-23 12:43:26 -0600,"/t/ai,/t/philosophy",Are we really discussing the AI era’s perils properly?,https://medium.com/@hagarthehorrible/are-we-really-discussing-the-ai-eras-perils-properly-cffe6393b121,/u/stsp,1
+1,2017-12-23 10:23:11 -0600,"/t/games,/t/release",SSHTron: Multiplayer Tron in your terminal,http://sshtron.zachlatta.com/,/u/unbalancedparentheses,4
+0,2017-12-23 16:41:49 -0600,/t/graphics,Recapturing colour from black and white film (2008),https://www.theguardian.com/technology/2008/dec/11/digital-video-restoration-dad-s-army,/u/calvin,2
+0,2017-12-23 15:55:22 -0600,"/t/video,/t/ai,/t/python","Creating a Chatbot with Deep Learning, Python, and TensorFlow",https://www.youtube.com/watch?v=dvOnYLDg8_Y,/u/unbalancedparentheses,1
+0,2017-12-23 03:04:58 -0600,/t/graphics,Alternative definition of Spherical Harmonics for Lighting,https://grahamhazel.com/blog/2017/12/18/alternative-definition-of-spherical-harmonics-for-lighting/,/u/mikejsavage,6
+4,2017-12-22 10:12:40 -0600,"/t/person,/t/practices",10 ways remote work has turned me into a total weirdo,https://medium.com/@searls/10-rules-54243f9b9aed,/u/soulcutter,26
+38,2017-12-22 02:27:05 -0600,/t/linux,My Webserver Setup,https://blog.ls42.de/post/my-webserver-setup/,/u/neuromanc,21
+2,2017-12-22 16:36:09 -0600,/t/hardware,The High School Student Who’s Building His Own Integrated Circuits,https://spectrum.ieee.org/semiconductors/devices/the-high-school-student-whos-building-his-own-integrated-circuits,/u/Hail_Spacecake,13
+7,2017-12-22 11:08:45 -0600,"/t/lisp,/t/practices,/t/programming",Essay: S-Expressions are a Bad Idea (2002),http://cl.cddddr.org/index.cgi?Essay%3AS-expressions%20are%20a%20bad%20idea&l=,/u/nickpsecurity,12

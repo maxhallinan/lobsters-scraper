@@ -1,25 +1,25 @@
-0,2013-02-11 06:57:17 -0600,['/t/go'],"Life in This World: Google Go: The Good, the Bad, and the Meh",http://blog.carlsensei.com/post/42828735125,/u/zod000,5
-1,2013-02-11 00:59:07 -0600,['/t/ruby'],Making some Discourse code a little better,http://grantammons.me/2013/02/09/making-some-discourse-code-a-little-better/,/u/jcs,5
-0,2013-02-11 09:13:07 -0600,"['/t/javascript', '/t/ruby']",A Casual Stroll Through Discourse's Source Code,http://blog.jerodsanto.net/2013/02/a-casual-stroll-through-discourse-source-code/,/u/jerodsanto,2
-0,2013-02-10 19:00:44 -0600,['/t/javascript'],Grep your js objects,https://github.com/begriffs/objgrep,/u/begriffs,7
-0,2013-02-10 00:42:05 -0600,['/t/python'],Django Unchained: An Introduction to Python and Django,https://github.com/NahimNasser/django-unchained,/u/nnasser,2
-0,2013-02-09 12:25:41 -0600,['/t/javascript'],Backbone has made me a better programmer | Float Left,http://floatleft.com/notebook/backbone-has-made-me-a-better-programmer,/u/tundal45,4
-0,2013-02-09 06:09:17 -0600,['/t/ruby'],Ruby 2.0.0-rc2 is released,http://www.ruby-lang.org/en/news/2013/02/08/ruby-2-0-0-rc2-is-released/,/u/bratsche,3
-12,2013-02-08 05:11:53 -0600,['/t/unix'],Address Book,http://www.ramov.com/abook,/u/sramov,10
-0,2013-02-08 21:38:59 -0600,['/t/security'],Password Cracking AES-256 DMGs and Epic Self-Pwnage,http://blog.whitehatsec.com/cracking-aes-256-dmgs-and-epic-self-pwnage/,/u/jcs,2
-0,2013-02-08 17:24:12 -0600,"['/t/c', '/t/ruby']",Ruby MRI Source Code Idioms #3: Embedded Objects,http://patshaughnessy.net/2013/2/8/ruby-mri-source-code-idioms-3-embedded-objects,/u/jcs,2
-0,2013-02-08 04:37:42 -0600,['/t/ruby'],Rouge - a pure-ruby syntax highlighter,https://github.com/jayferd/rouge,/u/pkhamre,3
-0,2013-02-08 01:28:04 -0600,"['/t/c', '/t/security']",cURL buffer overflow,http://blog.volema.com/curl-rce.html,/u/kyle,2
-2,2013-02-07 13:11:00 -0600,['/t/vcs'],Git Tips From the Pros | Nettuts+,http://net.tutsplus.com/tutorials/tools-and-tips/git-tips-from-the-pros/,/u/tundal45,5
-2,2013-02-07 08:55:11 -0600,"['/t/assembly', '/t/go']",Go & Assembly,http://www.doxsey.net/blog/go-and-assembly,/u/kyle,3
-0,2013-02-07 18:20:16 -0600,['/t/practices'],$20 to scan and dispose of your mail for you,https://www.earthclassmail.com/,/u/JoelMcCracken,1
-3,2013-02-07 09:14:30 -0600,['/t/meta'],Adding git tag to lobste.rs,/s/fd8exo/adding_git_tag_lobste_rs,/u/tundal45,2
-0,2013-02-06 16:55:45 -0600,"['/t/hardware', '/t/security']",Packets of Death for Intel GigE NICs,http://blog.krisk.org/2013/02/packets-of-death.html,/u/dwc,5
-0,2013-02-06 14:41:09 -0600,"['/t/compsci', '/t/news', '/t/ruby']",Ruby 1.9.3-p385 is released,http://www.ruby-lang.org/en/news/2013/02/06/ruby-1-9-3-p385-is-released/,/u/pkhamre,5
-0,2013-02-06 13:55:10 -0600,['/t/go'],Go maps in action,http://blog.golang.org/2013/02/go-maps-in-action.html,/u/jcs,4
-0,2013-02-06 12:04:09 -0600,"['/t/python', '/t/ruby']",Announcing Topaz: A New Ruby,http://docs.topazruby.com/en/latest/blog/announcing-topaz/,/u/jcs,5
-0,2013-02-06 12:55:02 -0600,"['/t/security', '/t/web']",Postcards from the post-XSS world,http://lcamtuf.coredump.cx/postxss/,/u/kyle,2
-4,2013-02-05 19:38:15 -0600,"['/t/databases', '/t/ruby', '/t/security']",MySQL madness and Rails,http://www.phenoelit.org/blog/archives/2013/02/05/mysql_madness_and_rails/,/u/jcs,13
-0,2013-02-06 07:21:06 -0600,['/t/ruby'],RSpec Shared Examples and Ruby Metaprogramming,http://blog.markstarkman.com/blog/2013/02/06/rspec-shared-examples-and-ruby-metaprogramming/,/u/mstarkman,1
-0,2013-02-05 15:49:28 -0600,['/t/go'],Function types in Go,http://jordanorelli.tumblr.com/post/42369331748/function-types-in-go-golang,/u/fcambus,4
-0,2013-02-05 12:39:13 -0600,"['/t/mobile', '/t/reversing']",Evasi0n Jailbreak's Userland Component,http://blog.accuvantlabs.com/blog/bthomas/evasi0n-jailbreaks-userland-component,/u/jcs,2
+0,2013-02-11 06:57:17 -0600,/t/go,"Life in This World: Google Go: The Good, the Bad, and the Meh",http://blog.carlsensei.com/post/42828735125,/u/zod000,5
+1,2013-02-11 00:59:07 -0600,/t/ruby,Making some Discourse code a little better,http://grantammons.me/2013/02/09/making-some-discourse-code-a-little-better/,/u/jcs,5
+0,2013-02-11 09:13:07 -0600,"/t/javascript,/t/ruby",A Casual Stroll Through Discourse's Source Code,http://blog.jerodsanto.net/2013/02/a-casual-stroll-through-discourse-source-code/,/u/jerodsanto,2
+0,2013-02-10 19:00:44 -0600,/t/javascript,Grep your js objects,https://github.com/begriffs/objgrep,/u/begriffs,7
+0,2013-02-10 00:42:05 -0600,/t/python,Django Unchained: An Introduction to Python and Django,https://github.com/NahimNasser/django-unchained,/u/nnasser,2
+0,2013-02-09 12:25:41 -0600,/t/javascript,Backbone has made me a better programmer | Float Left,http://floatleft.com/notebook/backbone-has-made-me-a-better-programmer,/u/tundal45,4
+0,2013-02-09 06:09:17 -0600,/t/ruby,Ruby 2.0.0-rc2 is released,http://www.ruby-lang.org/en/news/2013/02/08/ruby-2-0-0-rc2-is-released/,/u/bratsche,3
+12,2013-02-08 05:11:53 -0600,/t/unix,Address Book,http://www.ramov.com/abook,/u/sramov,10
+0,2013-02-08 21:38:59 -0600,/t/security,Password Cracking AES-256 DMGs and Epic Self-Pwnage,http://blog.whitehatsec.com/cracking-aes-256-dmgs-and-epic-self-pwnage/,/u/jcs,2
+0,2013-02-08 17:24:12 -0600,"/t/c,/t/ruby",Ruby MRI Source Code Idioms #3: Embedded Objects,http://patshaughnessy.net/2013/2/8/ruby-mri-source-code-idioms-3-embedded-objects,/u/jcs,2
+0,2013-02-08 04:37:42 -0600,/t/ruby,Rouge - a pure-ruby syntax highlighter,https://github.com/jayferd/rouge,/u/pkhamre,3
+0,2013-02-08 01:28:04 -0600,"/t/c,/t/security",cURL buffer overflow,http://blog.volema.com/curl-rce.html,/u/kyle,2
+2,2013-02-07 13:11:00 -0600,/t/vcs,Git Tips From the Pros | Nettuts+,http://net.tutsplus.com/tutorials/tools-and-tips/git-tips-from-the-pros/,/u/tundal45,5
+2,2013-02-07 08:55:11 -0600,"/t/assembly,/t/go",Go & Assembly,http://www.doxsey.net/blog/go-and-assembly,/u/kyle,3
+0,2013-02-07 18:20:16 -0600,/t/practices,$20 to scan and dispose of your mail for you,https://www.earthclassmail.com/,/u/JoelMcCracken,1
+3,2013-02-07 09:14:30 -0600,/t/meta,Adding git tag to lobste.rs,/s/fd8exo/adding_git_tag_lobste_rs,/u/tundal45,2
+0,2013-02-06 16:55:45 -0600,"/t/hardware,/t/security",Packets of Death for Intel GigE NICs,http://blog.krisk.org/2013/02/packets-of-death.html,/u/dwc,5
+0,2013-02-06 14:41:09 -0600,"/t/compsci,/t/news,/t/ruby",Ruby 1.9.3-p385 is released,http://www.ruby-lang.org/en/news/2013/02/06/ruby-1-9-3-p385-is-released/,/u/pkhamre,5
+0,2013-02-06 13:55:10 -0600,/t/go,Go maps in action,http://blog.golang.org/2013/02/go-maps-in-action.html,/u/jcs,4
+0,2013-02-06 12:04:09 -0600,"/t/python,/t/ruby",Announcing Topaz: A New Ruby,http://docs.topazruby.com/en/latest/blog/announcing-topaz/,/u/jcs,5
+0,2013-02-06 12:55:02 -0600,"/t/security,/t/web",Postcards from the post-XSS world,http://lcamtuf.coredump.cx/postxss/,/u/kyle,2
+4,2013-02-05 19:38:15 -0600,"/t/databases,/t/ruby,/t/security",MySQL madness and Rails,http://www.phenoelit.org/blog/archives/2013/02/05/mysql_madness_and_rails/,/u/jcs,13
+0,2013-02-06 07:21:06 -0600,/t/ruby,RSpec Shared Examples and Ruby Metaprogramming,http://blog.markstarkman.com/blog/2013/02/06/rspec-shared-examples-and-ruby-metaprogramming/,/u/mstarkman,1
+0,2013-02-05 15:49:28 -0600,/t/go,Function types in Go,http://jordanorelli.tumblr.com/post/42369331748/function-types-in-go-golang,/u/fcambus,4
+0,2013-02-05 12:39:13 -0600,"/t/mobile,/t/reversing",Evasi0n Jailbreak's Userland Component,http://blog.accuvantlabs.com/blog/bthomas/evasi0n-jailbreaks-userland-component,/u/jcs,2

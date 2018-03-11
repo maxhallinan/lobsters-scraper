@@ -1,25 +1,25 @@
-0,2017-07-06 21:37:48 -0500,"['/t/databases', '/t/lisp']",Migration from Postgres to Datomic,http://grishaev.me/en/pg-to-datomic,/u/pushcx,1
-0,2017-07-06 20:30:33 -0500,"['/t/graphics', '/t/web']",Rendering SVG Paths in WebGL,https://css-tricks.com/rendering-svg-paths-in-webgl/,/u/friendlysock,1
-0,2017-07-06 16:35:23 -0500,['/t/databases'],PostgreSQL and the calendar,http://tapoueh.org/blog/2017/06/postgresql-and-the-calendar/,/u/pushcx,2
-0,2017-07-05 13:18:10 -0500,['/t/rust'],"Rust's 2017 roadmap, six months in",http://blog.rust-lang.org/2017/07/05/Rust-Roadmap-Update.html,/u/fitzgen,47
-0,2017-07-06 19:22:20 -0500,"['/t/security', '/t/virtualization']",The Weak Bug - Exploiting a Heap Overflow in VMware,http://acez.re/the-weak-bug-exploiting-a-heap-overflow-in-vmware/,/u/pushcx,1
-0,2017-07-06 15:15:12 -0500,['/t/networking'],Capturing HTTP packets the hard way,https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6,/u/jeremy,2
-0,2017-07-06 12:20:05 -0500,"['/t/haskell', '/t/release', '/t/testing']",Unit testing effectful Haskell with monad-mock,http://lexi-lambda.github.io/blog/2017/06/29/unit-testing-effectful-haskell-with-monad-mock,/u/pushcx,3
-0,2017-07-06 12:17:12 -0500,"['/t/databases', '/t/distributed', '/t/programming']","GRAKN.AI - Distributed, knowledge base + Prolog and Answer-Set Programming",https://blog.grakn.ai/isa-graql-logic-program-8af1258054a4,/u/nickpsecurity,3
-3,2017-07-05 23:50:55 -0500,"['/t/ai', '/t/science']",On Chomsky and the Two Cultures of Statistical Learning (2011),http://norvig.com/chomsky.html,/u/quobit,11
-0,2017-07-06 18:24:26 -0500,['/t/databases'],Continuous MySQL backup validation: Restoring backups,https://code.facebook.com/posts/1007323976059780/continuous-mysql-backup-validation-restoring-backups/,/u/unbalancedparentheses,1
-0,2017-07-06 11:46:54 -0500,"['/t/pdf', '/t/video', '/t/compilers', '/t/haskell']",Compiling to categories,http://conal.net/papers/compiling-to-categories/,/u/pushcx,3
-0,2017-07-06 18:24:10 -0500,"['/t/databases', '/t/programming']",Orchestrator at GitHub,https://githubengineering.com/orchestrator-github/,/u/unbalancedparentheses,1
-0,2017-07-06 08:52:47 -0500,"['/t/show', '/t/mac', '/t/release']",Regis: A Drastically Different Redis GUI For The Mac,https://www.harfangapps.com/regis/,/u/mna,2
-0,2017-07-06 11:01:16 -0500,"['/t/audio', '/t/freebsd', '/t/person']","Mapping The Journey Episode 4: Interview with George Neville Neil, President of FreeBSD",https://www.mappingthejourney.com/single-post/2017/07/06/Episode-4-Interview-with-George-Neville-Neil-President-of-FreeBSD,/u/sevan,3
-1,2017-07-06 07:52:55 -0500,['/t/devops'],From monolith to microservices,https://medium.com/poki/from-monolith-to-microservices-b16bae1d6c9d,/u/adsouza,3
-32,2017-07-03 10:49:08 -0500,['/t/announce'],"Happy 5th Anniversary, Lobsters",/s/mazaum/happy_5th_anniversary_lobsters,/u/jcs,285
-0,2017-07-05 22:55:00 -0500,"['/t/c++', '/t/programming', '/t/rust']",A Rust view on Effective Modern C++,http://mainisusuallyafunction.blogspot.com/2017/06/a-rust-view-on-effective-modern-c.html,/u/kartik,12
-0,2017-07-06 16:35:19 -0500,['/t/hardware'],"Brewing beer with Linux, Python, and Raspberry Pi",https://opensource.com/article/17/7/brewing-beer-python-and-raspberry-pi,/u/pushcx,1
-0,2017-07-06 12:35:37 -0500,"['/t/c++', '/t/haskell']",Hexagonal Architecture and Free Monad: Two related design patterns?,https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/,/u/pushcx,2
-0,2017-07-06 10:24:56 -0500,"['/t/javascript', '/t/testing']",Testing Redux: Async Action Creators,http://joeellis.la/testing-redux-actions/,/u/notjoeellis,1
-0,2017-07-06 14:01:48 -0500,"['/t/culture', '/t/practices']",It’s 2017 and Mental Health is still an issue in the workplace.,https://medium.com/@OlarkLiveChat/its-2017-and-mental-health-is-still-an-issue-in-the-workplace-61efbef092f,/u/pab,3
-0,2017-07-06 15:05:11 -0500,['/t/javascript'],Under the hood: ReactJS,https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/,/u/pushcx,1
-8,2017-07-05 05:59:10 -0500,"['/t/c', '/t/c++', '/t/compilers', '/t/compsci']",Undefined Behavior in 2017,https://blog.regehr.org/archives/1520,/u/calvin,36
-0,2017-07-06 13:49:00 -0500,"['/t/release', '/t/security', '/t/web']",Joomla! 3.7.3 Release (Security Release),https://www.joomla.org/announcements/release-news/5709-joomla-3-7-3-release.html,/u/mischa,1
-1,2017-07-05 15:50:33 -0500,"['/t/programming', '/t/unix']",Pretty and fast shell,https://medium.com/@NikitaVoloboev/pretty-and-fast-shell-97ea870f2805,/u/nikivi,3
+0,2017-07-06 21:37:48 -0500,"/t/databases,/t/lisp",Migration from Postgres to Datomic,http://grishaev.me/en/pg-to-datomic,/u/pushcx,1
+0,2017-07-06 20:30:33 -0500,"/t/graphics,/t/web",Rendering SVG Paths in WebGL,https://css-tricks.com/rendering-svg-paths-in-webgl/,/u/friendlysock,1
+0,2017-07-06 16:35:23 -0500,/t/databases,PostgreSQL and the calendar,http://tapoueh.org/blog/2017/06/postgresql-and-the-calendar/,/u/pushcx,2
+0,2017-07-05 13:18:10 -0500,/t/rust,"Rust's 2017 roadmap, six months in",http://blog.rust-lang.org/2017/07/05/Rust-Roadmap-Update.html,/u/fitzgen,47
+0,2017-07-06 19:22:20 -0500,"/t/security,/t/virtualization",The Weak Bug - Exploiting a Heap Overflow in VMware,http://acez.re/the-weak-bug-exploiting-a-heap-overflow-in-vmware/,/u/pushcx,1
+0,2017-07-06 15:15:12 -0500,/t/networking,Capturing HTTP packets the hard way,https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6,/u/jeremy,2
+0,2017-07-06 12:20:05 -0500,"/t/haskell,/t/release,/t/testing",Unit testing effectful Haskell with monad-mock,http://lexi-lambda.github.io/blog/2017/06/29/unit-testing-effectful-haskell-with-monad-mock,/u/pushcx,3
+0,2017-07-06 12:17:12 -0500,"/t/databases,/t/distributed,/t/programming","GRAKN.AI - Distributed, knowledge base + Prolog and Answer-Set Programming",https://blog.grakn.ai/isa-graql-logic-program-8af1258054a4,/u/nickpsecurity,3
+3,2017-07-05 23:50:55 -0500,"/t/ai,/t/science",On Chomsky and the Two Cultures of Statistical Learning (2011),http://norvig.com/chomsky.html,/u/quobit,11
+0,2017-07-06 18:24:26 -0500,/t/databases,Continuous MySQL backup validation: Restoring backups,https://code.facebook.com/posts/1007323976059780/continuous-mysql-backup-validation-restoring-backups/,/u/unbalancedparentheses,1
+0,2017-07-06 11:46:54 -0500,"/t/pdf,/t/video,/t/compilers,/t/haskell",Compiling to categories,http://conal.net/papers/compiling-to-categories/,/u/pushcx,3
+0,2017-07-06 18:24:10 -0500,"/t/databases,/t/programming",Orchestrator at GitHub,https://githubengineering.com/orchestrator-github/,/u/unbalancedparentheses,1
+0,2017-07-06 08:52:47 -0500,"/t/show,/t/mac,/t/release",Regis: A Drastically Different Redis GUI For The Mac,https://www.harfangapps.com/regis/,/u/mna,2
+0,2017-07-06 11:01:16 -0500,"/t/audio,/t/freebsd,/t/person","Mapping The Journey Episode 4: Interview with George Neville Neil, President of FreeBSD",https://www.mappingthejourney.com/single-post/2017/07/06/Episode-4-Interview-with-George-Neville-Neil-President-of-FreeBSD,/u/sevan,3
+1,2017-07-06 07:52:55 -0500,/t/devops,From monolith to microservices,https://medium.com/poki/from-monolith-to-microservices-b16bae1d6c9d,/u/adsouza,3
+32,2017-07-03 10:49:08 -0500,/t/announce,"Happy 5th Anniversary, Lobsters",/s/mazaum/happy_5th_anniversary_lobsters,/u/jcs,285
+0,2017-07-05 22:55:00 -0500,"/t/c++,/t/programming,/t/rust",A Rust view on Effective Modern C++,http://mainisusuallyafunction.blogspot.com/2017/06/a-rust-view-on-effective-modern-c.html,/u/kartik,12
+0,2017-07-06 16:35:19 -0500,/t/hardware,"Brewing beer with Linux, Python, and Raspberry Pi",https://opensource.com/article/17/7/brewing-beer-python-and-raspberry-pi,/u/pushcx,1
+0,2017-07-06 12:35:37 -0500,"/t/c++,/t/haskell",Hexagonal Architecture and Free Monad: Two related design patterns?,https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/,/u/pushcx,2
+0,2017-07-06 10:24:56 -0500,"/t/javascript,/t/testing",Testing Redux: Async Action Creators,http://joeellis.la/testing-redux-actions/,/u/notjoeellis,1
+0,2017-07-06 14:01:48 -0500,"/t/culture,/t/practices",It’s 2017 and Mental Health is still an issue in the workplace.,https://medium.com/@OlarkLiveChat/its-2017-and-mental-health-is-still-an-issue-in-the-workplace-61efbef092f,/u/pab,3
+0,2017-07-06 15:05:11 -0500,/t/javascript,Under the hood: ReactJS,https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/,/u/pushcx,1
+8,2017-07-05 05:59:10 -0500,"/t/c,/t/c++,/t/compilers,/t/compsci",Undefined Behavior in 2017,https://blog.regehr.org/archives/1520,/u/calvin,36
+0,2017-07-06 13:49:00 -0500,"/t/release,/t/security,/t/web",Joomla! 3.7.3 Release (Security Release),https://www.joomla.org/announcements/release-news/5709-joomla-3-7-3-release.html,/u/mischa,1
+1,2017-07-05 15:50:33 -0500,"/t/programming,/t/unix",Pretty and fast shell,https://medium.com/@NikitaVoloboev/pretty-and-fast-shell-97ea870f2805,/u/nikivi,3

@@ -1,25 +1,25 @@
-0,2017-10-23 22:15:32 -0500,['/t/design'],A/B Testing - You’re doing it wrong,https://hackernoon.com/a-b-testing-youre-doing-it-wrong-77d628ac9518,/u/justinucd,4
-19,2017-10-23 09:49:49 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/htaxxh/what_are_you_working_on_this_week,/u/pushcx,15
-9,2017-10-23 08:12:41 -0500,"['/t/linux', '/t/networking']",Why does one NGINX worker take all the load?,http://blog.cloudflare.com/the-sad-state-of-linux-socket-balancing/,/u/rbn,17
-1,2017-10-24 07:27:27 -0500,['/t/databases'],Unlocking the human potential of Wikidata,http://blog.hatnote.com/post/166535657877/unlocking-the-human-potential-of-wikidata,/u/pizzaiolo,1
-2,2017-10-23 08:58:28 -0500,['/t/historical'],Aspell and Hunspell: A Tale of Two Spell Checkers,http://penguindreams.org/blog/aspell-and-hunspell-a-tale-of-two-spell-checkers,/u/djsumdog,12
-1,2017-10-23 05:10:52 -0500,['/t/unix'],An ode to pack: gzip’s forgotten decompressor,http://www.vidarholen.net/contents/blog/?p=691,/u/pushcx,37
-2,2017-10-23 12:03:35 -0500,['/t/linux'],Filesystem error handling,https://danluu.com/filesystem-errors/,/u/wesleyac,14
-0,2017-10-24 10:52:10 -0500,['/t/javascript'],Linting (Development Environment Part 2) & Bonus: Other Fun Atom Packages!,https://www.dailydrip.com/blog/linting-development-environment-part-2-bonus-other-fun-atom-packages.html,/u/matt2ray,0
-0,2017-10-23 19:21:53 -0500,['/t/web'],Date/Time Inputs Enabled on Firefox Nightly,https://blog.nightly.mozilla.org/2017/06/12/datetime-inputs-enabled-on-nightly/,/u/calvin,6
-1,2017-10-23 10:32:27 -0500,"['/t/formalmethods', '/t/programming', '/t/security']",Don't Trust the Math (2013),https://pastebin.com/zz7YZZUk,/u/nickpsecurity,10
-9,2017-10-22 17:44:17 -0500,['/t/mac'],Screen Savers,https://stefan.arentz.ca/2017/10/20/screen-savers/,/u/st3fan,44
-0,2017-10-23 15:29:39 -0500,['/t/security'],Attack of the week: DUHK,https://blog.cryptographyengineering.com/2017/10/23/attack-of-the-week-duhk/,/u/tedu,9
-3,2017-10-23 07:17:22 -0500,"['/t/c', '/t/c++', '/t/security']",Hardening C/C++ Programs: Part I,http://www.productive-cpp.com/hardening-cpp-programs-stack-protector/,/u/pushcx,16
-0,2017-10-23 17:32:51 -0500,"['/t/video', '/t/programming']",Daniel Stenberg explains what curl is. Shown at the Polhem Prize 2017 ceremony.,https://www.youtube.com/watch?v=SMsfOtU8KZk,/u/pl,7
-17,2017-10-23 16:53:10 -0500,"['/t/ask', '/t/culture', '/t/philosophy', '/t/practices']",What makes you happy when writing software?,/s/etnpts/what_makes_you_happy_when_writing,/u/sleddog,14
-0,2017-10-23 15:07:36 -0500,['/t/hardware'],MNT Reform: DIY Portable Computer,http://mntmn.com/reform/,/u/sevan,9
-0,2017-10-24 00:48:18 -0500,['/t/cryptocurrencies'],Setup private Ethereum network with Docker,https://gist.github.com/fishbullet/04fcc4f7af90ee9fa6f9de0b0aa325ab,/u/PhilidorGreen,1
-3,2017-10-23 23:17:16 -0500,"['/t/culture', '/t/debugging', '/t/philosophy']",Try quickly typing 1 + 2 + 3 into the iOS 11 Calculator. I bet you won't get 6,https://www.reddit.com/r/apple/comments/782250/try_quickly_typing_1_2_3_into_the_ios_11/,/u/mempko,5
-0,2017-10-23 15:33:29 -0500,['/t/browsers'],Building Browser Extensions At Scale,https://tech.grammarly.com/blog/building-browser-extensions-at-scale,/u/pushcx,6
-1,2017-10-23 09:29:47 -0500,['/t/security'],The KRACK wi-fi vulnerablility was in plain sight for 13y behind a paywall,https://www.privateinternetaccess.com/blog/2017/10/the-recent-catastrophic-wi-fi-vulnerability-was-in-plain-sight-for-13-years-behind-a-corporate-paywall/,/u/pizzaiolo,7
-3,2017-10-23 07:18:27 -0500,['/t/networking'],EtherDFS - The Ethernet DOS File System,http://etherdfs.sourceforge.net/,/u/calvin,10
-5,2017-10-23 04:02:12 -0500,['/t/programming'],Pharo MOOC,http://files.pharo.org/mooc/,/u/adamo,10
-5,2017-10-23 06:05:17 -0500,['/t/performance'],Guide into OpenMP: Easy multithreading programming for C++,http://bisqwit.iki.fi/story/howto/openmp/,/u/kghose,6
-0,2017-10-23 09:37:24 -0500,"['/t/video', '/t/programming', '/t/python']",Nim: A New Option for Optimizing Inner Loops (PyGotham 2017),https://pyvideo.org/pygotham-2017/nim-a-new-option-for-optimizing-inner-loops.html,/u/zdsmith,4
-0,2017-10-23 14:13:00 -0500,['/t/design'],Web Typography: Numerals,https://alistapart.com/article/web-typography-numerals,/u/flyingfisch,4
+0,2017-10-23 22:15:32 -0500,/t/design,A/B Testing - You’re doing it wrong,https://hackernoon.com/a-b-testing-youre-doing-it-wrong-77d628ac9518,/u/justinucd,4
+19,2017-10-23 09:49:49 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/htaxxh/what_are_you_working_on_this_week,/u/pushcx,15
+9,2017-10-23 08:12:41 -0500,"/t/linux,/t/networking",Why does one NGINX worker take all the load?,http://blog.cloudflare.com/the-sad-state-of-linux-socket-balancing/,/u/rbn,17
+1,2017-10-24 07:27:27 -0500,/t/databases,Unlocking the human potential of Wikidata,http://blog.hatnote.com/post/166535657877/unlocking-the-human-potential-of-wikidata,/u/pizzaiolo,1
+2,2017-10-23 08:58:28 -0500,/t/historical,Aspell and Hunspell: A Tale of Two Spell Checkers,http://penguindreams.org/blog/aspell-and-hunspell-a-tale-of-two-spell-checkers,/u/djsumdog,12
+1,2017-10-23 05:10:52 -0500,/t/unix,An ode to pack: gzip’s forgotten decompressor,http://www.vidarholen.net/contents/blog/?p=691,/u/pushcx,37
+2,2017-10-23 12:03:35 -0500,/t/linux,Filesystem error handling,https://danluu.com/filesystem-errors/,/u/wesleyac,14
+0,2017-10-24 10:52:10 -0500,/t/javascript,Linting (Development Environment Part 2) & Bonus: Other Fun Atom Packages!,https://www.dailydrip.com/blog/linting-development-environment-part-2-bonus-other-fun-atom-packages.html,/u/matt2ray,0
+0,2017-10-23 19:21:53 -0500,/t/web,Date/Time Inputs Enabled on Firefox Nightly,https://blog.nightly.mozilla.org/2017/06/12/datetime-inputs-enabled-on-nightly/,/u/calvin,6
+1,2017-10-23 10:32:27 -0500,"/t/formalmethods,/t/programming,/t/security",Don't Trust the Math (2013),https://pastebin.com/zz7YZZUk,/u/nickpsecurity,10
+9,2017-10-22 17:44:17 -0500,/t/mac,Screen Savers,https://stefan.arentz.ca/2017/10/20/screen-savers/,/u/st3fan,44
+0,2017-10-23 15:29:39 -0500,/t/security,Attack of the week: DUHK,https://blog.cryptographyengineering.com/2017/10/23/attack-of-the-week-duhk/,/u/tedu,9
+3,2017-10-23 07:17:22 -0500,"/t/c,/t/c++,/t/security",Hardening C/C++ Programs: Part I,http://www.productive-cpp.com/hardening-cpp-programs-stack-protector/,/u/pushcx,16
+0,2017-10-23 17:32:51 -0500,"/t/video,/t/programming",Daniel Stenberg explains what curl is. Shown at the Polhem Prize 2017 ceremony.,https://www.youtube.com/watch?v=SMsfOtU8KZk,/u/pl,7
+17,2017-10-23 16:53:10 -0500,"/t/ask,/t/culture,/t/philosophy,/t/practices",What makes you happy when writing software?,/s/etnpts/what_makes_you_happy_when_writing,/u/sleddog,14
+0,2017-10-23 15:07:36 -0500,/t/hardware,MNT Reform: DIY Portable Computer,http://mntmn.com/reform/,/u/sevan,9
+0,2017-10-24 00:48:18 -0500,/t/cryptocurrencies,Setup private Ethereum network with Docker,https://gist.github.com/fishbullet/04fcc4f7af90ee9fa6f9de0b0aa325ab,/u/PhilidorGreen,1
+3,2017-10-23 23:17:16 -0500,"/t/culture,/t/debugging,/t/philosophy",Try quickly typing 1 + 2 + 3 into the iOS 11 Calculator. I bet you won't get 6,https://www.reddit.com/r/apple/comments/782250/try_quickly_typing_1_2_3_into_the_ios_11/,/u/mempko,5
+0,2017-10-23 15:33:29 -0500,/t/browsers,Building Browser Extensions At Scale,https://tech.grammarly.com/blog/building-browser-extensions-at-scale,/u/pushcx,6
+1,2017-10-23 09:29:47 -0500,/t/security,The KRACK wi-fi vulnerablility was in plain sight for 13y behind a paywall,https://www.privateinternetaccess.com/blog/2017/10/the-recent-catastrophic-wi-fi-vulnerability-was-in-plain-sight-for-13-years-behind-a-corporate-paywall/,/u/pizzaiolo,7
+3,2017-10-23 07:18:27 -0500,/t/networking,EtherDFS - The Ethernet DOS File System,http://etherdfs.sourceforge.net/,/u/calvin,10
+5,2017-10-23 04:02:12 -0500,/t/programming,Pharo MOOC,http://files.pharo.org/mooc/,/u/adamo,10
+5,2017-10-23 06:05:17 -0500,/t/performance,Guide into OpenMP: Easy multithreading programming for C++,http://bisqwit.iki.fi/story/howto/openmp/,/u/kghose,6
+0,2017-10-23 09:37:24 -0500,"/t/video,/t/programming,/t/python",Nim: A New Option for Optimizing Inner Loops (PyGotham 2017),https://pyvideo.org/pygotham-2017/nim-a-new-option-for-optimizing-inner-loops.html,/u/zdsmith,4
+0,2017-10-23 14:13:00 -0500,/t/design,Web Typography: Numerals,https://alistapart.com/article/web-typography-numerals,/u/flyingfisch,4

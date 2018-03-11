@@ -1,25 +1,25 @@
-1,2016-10-14 09:19:42 -0500,['/t/devops'],Run Kubernetes on a Mac with Kube Solo,https://deis.com/blog/2016/run-kubernetes-on-a-mac-with-kube-solo/,/u/nslater,4
-0,2016-10-14 09:08:58 -0500,['/t/javascript'],Tesseract.js | Pure Javascript OCR for 62 Languages,http://tesseract.projectnaptha.com/,/u/flyingfisch,7
-0,2016-10-14 12:06:55 -0500,"['/t/databases', '/t/programming', '/t/ruby']",How We Implemented Lazy Registration Using Elasticsearch,https://making.dia.co/how-we-implemented-lazy-registration-using-elasticsearch-72f026899e97,/u/kulte,2
-28,2016-10-13 11:44:50 -0500,['/t/php'],Taking PHP Seriously,https://slack.engineering/taking-php-seriously-cf7a60065329,/u/pushcx,29
-0,2016-10-13 09:10:57 -0500,"['/t/assembly', '/t/c', '/t/compilers']",Baby's First JIT,https://cmcenroe.me/2016/10/13/babys-first-jit.html,/u/curtis,37
-1,2016-10-14 07:46:56 -0500,['/t/scaling'],The Little Story How Helm Was Born,https://rimusz.net/the-little-story-how-helm-was-born/,/u/rimusz,1
-9,2016-10-13 08:26:25 -0500,['/t/programming'],The New Minimalism,http://prog21.dadgum.com/223.html,/u/fcbsd,31
-0,2016-10-14 07:22:06 -0500,"['/t/programming', '/t/python']",Python text for journeyman programmers,https://leanpub.com/intermediatepython,/u/c4obi,4
-0,2016-10-13 12:34:25 -0500,"['/t/compsci', '/t/distributed', '/t/programming', '/t/scaling']",How Kafka’s Storage Internals Work,https://medium.com/the-hoard/how-kafkas-storage-internals-work-3a29b02e026,/u/travisjeffery,15
-0,2016-10-14 18:16:03 -0500,['/t/culture'],Inaka: Opening our Guidelines to the World,https://github.com/inaka/guidelines,/u/unbalancedparentheses,1
-13,2016-10-13 07:32:41 -0500,['/t/job'],Job opening: Infrastructure Engineer at LaterPay,https://laterpay.workable.com/jobs/351370,/u/stig,15
-2,2016-10-13 15:38:50 -0500,"['/t/privacy', '/t/security']",Where WhatsApp Went Wrong: EFF's Four Biggest Security Concerns,https://www.eff.org/deeplinks/2016/10/where-whatsapp-went-wrong-effs-four-biggest-security-concerns,/u/jabberwock,10
-8,2016-10-13 10:49:51 -0500,"['/t/linux', '/t/release']",Canonical releases Ubuntu 16.10,http://insights.ubuntu.com/2016/10/13/canonical-releases-ubuntu-16-10/,/u/jodosha,8
-0,2016-10-13 11:36:41 -0500,"['/t/android', '/t/security']",Pork Explosion Unleashed,http://bbqand0days.com/Pork-Explosion-Unleashed/,/u/pushcx,11
-0,2016-10-13 18:01:30 -0500,['/t/programming'],"Debugging: Psychology, Theory, and Application",https://9vx.org/post/debugging-psychology-theory-and-application/,/u/adsouza,5
-2,2016-10-13 11:31:27 -0500,['/t/hardware'],Mother Earth Mother Board (1996),https://www.wired.com/1996/12/ffglass/,/u/pushcx,8
-0,2016-10-13 13:38:59 -0500,"['/t/compilers', '/t/programming']",Cuneiform: distributed functional programming with foreign language interfacing.,http://www.cuneiform-lang.org/,/u/unbalancedparentheses,8
-0,2016-10-13 17:12:16 -0500,"['/t/video', '/t/hardware', '/t/reversing']",JTAGulator Samsung 850 EVO SSD,https://www.youtube.com/watch?v=lOYe2z7n3Rw,/u/sevan,5
-0,2016-10-13 20:59:07 -0500,"['/t/go', '/t/testing']",A Quick Guide to Testing in Golang,https://caitiem.com/2016/08/18/a-quick-guide-to-testing-in-golang/,/u/adsouza,3
-0,2016-10-13 17:45:02 -0500,['/t/hardware'],Experimenting with the S1 Core on FPGA (based on OpenSPARC T1) (2010),http://www.srisc.com/,/u/chadski,4
-2,2016-10-13 09:03:04 -0500,['/t/practices'],Voting for features is bad for all involved,https://robn.io/feature-voting/,/u/jabberwock,8
-1,2016-10-13 23:44:44 -0500,"['/t/crypto', '/t/security']",Curve 25519 enabled for Go 1.8,https://go-review.googlesource.com/#/c/30825/,/u/kb,1
-0,2016-10-13 04:39:08 -0500,"['/t/networking', '/t/virtualization']",The Open Guide to Amazon Web Services,https://github.com/open-guides/og-aws,/u/adamo,11
-0,2016-10-13 12:50:30 -0500,['/t/programming'],A tour of random forests,https://codewords.recurse.com/issues/seven/a-tour-of-random-forests,/u/rhonorv,4
-45,2016-10-12 11:06:57 -0500,"['/t/design', '/t/web']",Your Body Text Is Too Small,https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902,/u/flyingfisch,34
+1,2016-10-14 09:19:42 -0500,/t/devops,Run Kubernetes on a Mac with Kube Solo,https://deis.com/blog/2016/run-kubernetes-on-a-mac-with-kube-solo/,/u/nslater,4
+0,2016-10-14 09:08:58 -0500,/t/javascript,Tesseract.js | Pure Javascript OCR for 62 Languages,http://tesseract.projectnaptha.com/,/u/flyingfisch,7
+0,2016-10-14 12:06:55 -0500,"/t/databases,/t/programming,/t/ruby",How We Implemented Lazy Registration Using Elasticsearch,https://making.dia.co/how-we-implemented-lazy-registration-using-elasticsearch-72f026899e97,/u/kulte,2
+28,2016-10-13 11:44:50 -0500,/t/php,Taking PHP Seriously,https://slack.engineering/taking-php-seriously-cf7a60065329,/u/pushcx,29
+0,2016-10-13 09:10:57 -0500,"/t/assembly,/t/c,/t/compilers",Baby's First JIT,https://cmcenroe.me/2016/10/13/babys-first-jit.html,/u/curtis,37
+1,2016-10-14 07:46:56 -0500,/t/scaling,The Little Story How Helm Was Born,https://rimusz.net/the-little-story-how-helm-was-born/,/u/rimusz,1
+9,2016-10-13 08:26:25 -0500,/t/programming,The New Minimalism,http://prog21.dadgum.com/223.html,/u/fcbsd,31
+0,2016-10-14 07:22:06 -0500,"/t/programming,/t/python",Python text for journeyman programmers,https://leanpub.com/intermediatepython,/u/c4obi,4
+0,2016-10-13 12:34:25 -0500,"/t/compsci,/t/distributed,/t/programming,/t/scaling",How Kafka’s Storage Internals Work,https://medium.com/the-hoard/how-kafkas-storage-internals-work-3a29b02e026,/u/travisjeffery,15
+0,2016-10-14 18:16:03 -0500,/t/culture,Inaka: Opening our Guidelines to the World,https://github.com/inaka/guidelines,/u/unbalancedparentheses,1
+13,2016-10-13 07:32:41 -0500,/t/job,Job opening: Infrastructure Engineer at LaterPay,https://laterpay.workable.com/jobs/351370,/u/stig,15
+2,2016-10-13 15:38:50 -0500,"/t/privacy,/t/security",Where WhatsApp Went Wrong: EFF's Four Biggest Security Concerns,https://www.eff.org/deeplinks/2016/10/where-whatsapp-went-wrong-effs-four-biggest-security-concerns,/u/jabberwock,10
+8,2016-10-13 10:49:51 -0500,"/t/linux,/t/release",Canonical releases Ubuntu 16.10,http://insights.ubuntu.com/2016/10/13/canonical-releases-ubuntu-16-10/,/u/jodosha,8
+0,2016-10-13 11:36:41 -0500,"/t/android,/t/security",Pork Explosion Unleashed,http://bbqand0days.com/Pork-Explosion-Unleashed/,/u/pushcx,11
+0,2016-10-13 18:01:30 -0500,/t/programming,"Debugging: Psychology, Theory, and Application",https://9vx.org/post/debugging-psychology-theory-and-application/,/u/adsouza,5
+2,2016-10-13 11:31:27 -0500,/t/hardware,Mother Earth Mother Board (1996),https://www.wired.com/1996/12/ffglass/,/u/pushcx,8
+0,2016-10-13 13:38:59 -0500,"/t/compilers,/t/programming",Cuneiform: distributed functional programming with foreign language interfacing.,http://www.cuneiform-lang.org/,/u/unbalancedparentheses,8
+0,2016-10-13 17:12:16 -0500,"/t/video,/t/hardware,/t/reversing",JTAGulator Samsung 850 EVO SSD,https://www.youtube.com/watch?v=lOYe2z7n3Rw,/u/sevan,5
+0,2016-10-13 20:59:07 -0500,"/t/go,/t/testing",A Quick Guide to Testing in Golang,https://caitiem.com/2016/08/18/a-quick-guide-to-testing-in-golang/,/u/adsouza,3
+0,2016-10-13 17:45:02 -0500,/t/hardware,Experimenting with the S1 Core on FPGA (based on OpenSPARC T1) (2010),http://www.srisc.com/,/u/chadski,4
+2,2016-10-13 09:03:04 -0500,/t/practices,Voting for features is bad for all involved,https://robn.io/feature-voting/,/u/jabberwock,8
+1,2016-10-13 23:44:44 -0500,"/t/crypto,/t/security",Curve 25519 enabled for Go 1.8,https://go-review.googlesource.com/#/c/30825/,/u/kb,1
+0,2016-10-13 04:39:08 -0500,"/t/networking,/t/virtualization",The Open Guide to Amazon Web Services,https://github.com/open-guides/og-aws,/u/adamo,11
+0,2016-10-13 12:50:30 -0500,/t/programming,A tour of random forests,https://codewords.recurse.com/issues/seven/a-tour-of-random-forests,/u/rhonorv,4
+45,2016-10-12 11:06:57 -0500,"/t/design,/t/web",Your Body Text Is Too Small,https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902,/u/flyingfisch,34

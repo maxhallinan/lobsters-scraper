@@ -1,25 +1,25 @@
-0,2015-11-02 21:31:29 -0600,"['/t/haskell', '/t/lisp']",Implementing a LISPy Language in Haskell,https://harlanhaskins.com/2015/11/02/implementing-a-lisp-in-haskell.html,/u/harlanhaskins,9
-0,2015-11-03 11:41:34 -0600,"['/t/video', '/t/practices']",Bootstrapping a Business Around Open Source,https://blog.phusion.nl/2015/10/30/bootstrapping-a-business-around-open-source/,/u/tinco,3
-3,2015-11-02 17:13:29 -0600,"['/t/linux', '/t/unix']",The nosh package,http://homepage.ntlworld.com/jonathan.deboynepollard/Softwares/nosh.html,/u/apg,16
-11,2015-11-02 09:37:43 -0600,['/t/unix'],Helping my students overcome command-line bullshittery,http://www.pgbovine.net/command-line-bullshittery.htm,/u/pushcx,26
-0,2015-11-03 13:02:29 -0600,"['/t/video', '/t/programming', '/t/science']","""Evidence-Oriented Programming"" by Andreas Stefik",https://www.youtube.com/watch?v=uEFrE6cgVNY,/u/englishm,2
-0,2015-11-03 09:57:53 -0600,"['/t/ios', '/t/mobile', '/t/release']","Introducing Envoy Passport, BLE sign-in using your phone",https://blog.envoy.co/introducing-envoy-passport-and-the-free-tier-1a782867b567,/u/lg,1
-0,2015-11-03 07:06:25 -0600,['/t/security'],Hackers Claim Million-Dollar Bounty for iOS Zero Day Attack,http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/,/u/av,3
-0,2015-11-03 15:32:38 -0600,"['/t/culture', '/t/person', '/t/rant']",Corporations and OSS Do Not Mix,http://www.coglib.com/~icordasc/blog/2015/11/corporations-and-oss-do-not-mix.html,/u/andrewnez,4
-0,2015-11-03 07:43:07 -0600,['/t/javascript'],Real-Time Chat with Ember 2 and Pusher - Pusher Blog,https://blog.pusher.com/real-time-chat-with-ember-2-and-pusher/,/u/jackfranklin,1
-2,2015-11-02 14:48:34 -0600,"['/t/android', '/t/security']",Just Signal,https://whispersystems.org/blog/just-signal/,/u/kyle,15
-3,2015-11-02 10:49:41 -0600,['/t/programming'],Standard interface between a text editor and an IDE?,http://dmitryfrank.com/blog/2015/1009_why_we_still_don_t_have_any_standard_interface_between_a_text_editor_and_an_ide,/u/dimonomid,6
-0,2015-11-02 10:12:31 -0600,"['/t/c', '/t/programming']",Back to the Futu-rr-e: Deterministic Debugging with rr,http://fitzgeraldnick.com/weblog/64/,/u/fitzgen,11
-0,2015-11-02 13:00:17 -0600,['/t/security'],Password Hashing Competition Winner: Argon2,https://password-hashing.net/,/u/jcs,14
-6,2015-11-02 14:01:59 -0600,"['/t/compsci', '/t/programming']",Why universities should offer a programming interview prep elective course,http://pgbovine.net/programming-interview-class.htm,/u/tf,5
-47,2015-11-01 23:44:41 -0600,['/t/ask'],What are you working on this week?,/s/6bnspd/what_are_you_working_on_this_week,/u/marvindanig,23
-0,2015-11-02 13:53:56 -0600,"['/t/design', '/t/practices', '/t/web']",Do We Actually Need Specificity In CSS?,http://philipwalton.com/articles/do-we-actually-need-specificity-in-css/,/u/flyingfisch,9
-0,2015-11-02 16:55:51 -0600,['/t/graphics'],GTA V - Graphics Study,http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/,/u/pushcx,6
-7,2015-11-02 05:44:30 -0600,['/t/javascript'],jQuery’s Relevancy – There and Back Again,http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/,/u/remotesynth,10
-0,2015-11-02 14:26:11 -0600,"['/t/ruby', '/t/testing']",How to write better code using mutation testing,https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/,/u/pushcx,6
-0,2015-11-03 02:04:39 -0600,['/t/graphics'],Main Sequence Star | Shaders,https://www.shadertoy.com/view/4dXGR4,/u/marvindanig,1
-3,2015-11-02 14:48:54 -0600,"['/t/haskell', '/t/release']",Dimensional: statically-checked dimensional arithmetic for physical quantities,https://github.com/bjornbm/dimensional-dk,/u/pushcx,3
-1,2015-11-02 09:36:25 -0600,"['/t/art', '/t/distributed', '/t/vcs']",80x40,http://blog.mattbierner.com/80x40/,/u/pushcx,7
-1,2015-11-02 19:13:46 -0600,"['/t/haskell', '/t/math']",Fast Nearest Neighbor Queries in Haskell,https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html,/u/tf,2
-9,2015-11-01 19:39:08 -0600,"['/t/practices', '/t/programming']",Don’t Refactor. Rebuild. Kinda.,http://www.lagerweij.com/2015/10/30/dont-refactor-rebuild-kinda/,/u/pushcx,19
-1,2015-11-03 00:04:07 -0600,"['/t/linux', '/t/rant']",Linus on Networking,http://lkml.iu.edu/hypermail/linux/kernel/1510.3/02866.html,/u/av,2
+0,2015-11-02 21:31:29 -0600,"/t/haskell,/t/lisp",Implementing a LISPy Language in Haskell,https://harlanhaskins.com/2015/11/02/implementing-a-lisp-in-haskell.html,/u/harlanhaskins,9
+0,2015-11-03 11:41:34 -0600,"/t/video,/t/practices",Bootstrapping a Business Around Open Source,https://blog.phusion.nl/2015/10/30/bootstrapping-a-business-around-open-source/,/u/tinco,3
+3,2015-11-02 17:13:29 -0600,"/t/linux,/t/unix",The nosh package,http://homepage.ntlworld.com/jonathan.deboynepollard/Softwares/nosh.html,/u/apg,16
+11,2015-11-02 09:37:43 -0600,/t/unix,Helping my students overcome command-line bullshittery,http://www.pgbovine.net/command-line-bullshittery.htm,/u/pushcx,26
+0,2015-11-03 13:02:29 -0600,"/t/video,/t/programming,/t/science","""Evidence-Oriented Programming"" by Andreas Stefik",https://www.youtube.com/watch?v=uEFrE6cgVNY,/u/englishm,2
+0,2015-11-03 09:57:53 -0600,"/t/ios,/t/mobile,/t/release","Introducing Envoy Passport, BLE sign-in using your phone",https://blog.envoy.co/introducing-envoy-passport-and-the-free-tier-1a782867b567,/u/lg,1
+0,2015-11-03 07:06:25 -0600,/t/security,Hackers Claim Million-Dollar Bounty for iOS Zero Day Attack,http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/,/u/av,3
+0,2015-11-03 15:32:38 -0600,"/t/culture,/t/person,/t/rant",Corporations and OSS Do Not Mix,http://www.coglib.com/~icordasc/blog/2015/11/corporations-and-oss-do-not-mix.html,/u/andrewnez,4
+0,2015-11-03 07:43:07 -0600,/t/javascript,Real-Time Chat with Ember 2 and Pusher - Pusher Blog,https://blog.pusher.com/real-time-chat-with-ember-2-and-pusher/,/u/jackfranklin,1
+2,2015-11-02 14:48:34 -0600,"/t/android,/t/security",Just Signal,https://whispersystems.org/blog/just-signal/,/u/kyle,15
+3,2015-11-02 10:49:41 -0600,/t/programming,Standard interface between a text editor and an IDE?,http://dmitryfrank.com/blog/2015/1009_why_we_still_don_t_have_any_standard_interface_between_a_text_editor_and_an_ide,/u/dimonomid,6
+0,2015-11-02 10:12:31 -0600,"/t/c,/t/programming",Back to the Futu-rr-e: Deterministic Debugging with rr,http://fitzgeraldnick.com/weblog/64/,/u/fitzgen,11
+0,2015-11-02 13:00:17 -0600,/t/security,Password Hashing Competition Winner: Argon2,https://password-hashing.net/,/u/jcs,14
+6,2015-11-02 14:01:59 -0600,"/t/compsci,/t/programming",Why universities should offer a programming interview prep elective course,http://pgbovine.net/programming-interview-class.htm,/u/tf,5
+47,2015-11-01 23:44:41 -0600,/t/ask,What are you working on this week?,/s/6bnspd/what_are_you_working_on_this_week,/u/marvindanig,23
+0,2015-11-02 13:53:56 -0600,"/t/design,/t/practices,/t/web",Do We Actually Need Specificity In CSS?,http://philipwalton.com/articles/do-we-actually-need-specificity-in-css/,/u/flyingfisch,9
+0,2015-11-02 16:55:51 -0600,/t/graphics,GTA V - Graphics Study,http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/,/u/pushcx,6
+7,2015-11-02 05:44:30 -0600,/t/javascript,jQuery’s Relevancy – There and Back Again,http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/,/u/remotesynth,10
+0,2015-11-02 14:26:11 -0600,"/t/ruby,/t/testing",How to write better code using mutation testing,https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/,/u/pushcx,6
+0,2015-11-03 02:04:39 -0600,/t/graphics,Main Sequence Star | Shaders,https://www.shadertoy.com/view/4dXGR4,/u/marvindanig,1
+3,2015-11-02 14:48:54 -0600,"/t/haskell,/t/release",Dimensional: statically-checked dimensional arithmetic for physical quantities,https://github.com/bjornbm/dimensional-dk,/u/pushcx,3
+1,2015-11-02 09:36:25 -0600,"/t/art,/t/distributed,/t/vcs",80x40,http://blog.mattbierner.com/80x40/,/u/pushcx,7
+1,2015-11-02 19:13:46 -0600,"/t/haskell,/t/math",Fast Nearest Neighbor Queries in Haskell,https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html,/u/tf,2
+9,2015-11-01 19:39:08 -0600,"/t/practices,/t/programming",Don’t Refactor. Rebuild. Kinda.,http://www.lagerweij.com/2015/10/30/dont-refactor-rebuild-kinda/,/u/pushcx,19
+1,2015-11-03 00:04:07 -0600,"/t/linux,/t/rant",Linus on Networking,http://lkml.iu.edu/hypermail/linux/kernel/1510.3/02866.html,/u/av,2

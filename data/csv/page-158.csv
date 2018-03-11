@@ -1,25 +1,25 @@
-0,2017-10-23 06:23:07 -0500,"['/t/practices', '/t/web']",Do you have the Learners Syndrome?,https://hackernoon.com/do-you-have-the-learners-syndrome-169c8158ec16,/u/mulander,10
-0,2017-10-23 15:33:29 -0500,['/t/javascript'],Smart and Dumb Components in React,https://medium.com/@bloomca/smart-and-dumb-components-in-react-9f2607ae6747,/u/bloomca,1
-0,2017-10-23 08:33:37 -0500,['/t/practices'],Manipulating Maintainers,https://www.snoyman.com/blog/2017/10/manipulating-maintainers,/u/ehamberg,6
-0,2017-10-23 20:23:31 -0500,"['/t/video', '/t/programming']",Functional / Microservices in Real-time Financials,https://www.infoq.com/presentations/nubank-financial-systems,/u/Yogthos,1
-0,2017-10-23 19:55:54 -0500,['/t/web'],Chrome Summit: New Bar for Web Experiences,https://www.lukew.com/ff/entry.asp?1975,/u/adsouza,1
-0,2017-10-23 11:28:00 -0500,['/t/rust'],Using Options by example,http://juggernaut.github.io/rust/2017/10/23/rust-options.html,/u/pushcx,3
-0,2017-10-23 14:06:59 -0500,"['/t/design', '/t/practices']",Stop Designing For Only 85% Of Users: Nailing Accessibility In Design,https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/,/u/flyingfisch,2
-30,2017-10-22 19:49:31 -0500,['/t/java'],Using Java 9 Modularization to Ship Zero-Dependency Native Apps,https://steveperkins.com/using-java-9-modularization-to-ship-zero-dependency-native-apps,/u/Teckla,9
-3,2017-10-22 15:12:55 -0500,"['/t/historical', '/t/programming']","The Xerox Alto, Smalltalk, and rewriting a running GUI",http://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html,/u/calvin,18
-0,2017-10-23 05:38:55 -0500,"['/t/clojure', '/t/programming']",The Multiple Index Problem (2012),http://pepijndevos.nl/2012/08/12/the-multiple-index-problem.html,/u/pushcx,4
-0,2017-10-23 10:28:48 -0500,['/t/math'],Problem Solving with MiniZinc,http://blog.jpalardy.com/posts/problem-solving-with-minizinc/,/u/friendlysock,2
-0,2017-10-23 14:10:12 -0500,"['/t/css', '/t/historical']",A Look Back at the History of CSS,https://css-tricks.com/look-back-history-css/,/u/flyingfisch,1
-0,2017-10-23 06:59:55 -0500,"['/t/ruby', '/t/testing']",Episode 102 - Feature Testing with Capybara,https://www.driftingruby.com/episodes/feature-testing-with-capybara,/u/kobaltz,1
-6,2017-10-22 04:50:57 -0500,"['/t/compilers', '/t/haskell']",Sixten is an experimental functional programming language where all data is unboxed by default,https://github.com/ollef/sixten,/u/ehamberg,35
-25,2017-10-22 14:03:33 -0500,['/t/culture'],Contempt Culture (2015),http://blog.aurynn.com/contempt-culture-2,/u/irfansharif,30
-4,2017-10-22 08:29:23 -0500,['/t/databases'],Your lack of constraints is disturbing,http://sqlservercode.blogspot.com/2017/10/your-lack-of-constraints-is-disturbing.html,/u/calvin,17
-0,2017-10-23 08:28:40 -0500,['/t/c++'],A technique for using automatic memory management (RAII) with C libraries,https://lethalguitar.wordpress.com/2017/10/20/a-technique-for-using-automatic-memory-management-raii-with-c-libraries/,/u/stip,1
-0,2017-10-23 07:44:08 -0500,['/t/nodejs'],Node.js Security Overview,https://nemethgergely.com/nodejs-security-overview/,/u/balajmarius,1
-0,2017-10-22 14:00:16 -0500,"['/t/java', '/t/testing']",Open-sourcing RacerD: Fast static race detection at scale,https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale/,/u/irfansharif,11
-0,2017-10-23 06:49:03 -0500,"['/t/video', '/t/distributed']",GOTO 2017 • Designing for the Serverless Age • Gojko Adzic,https://www.youtube.com/watch?v=w7X4gAQTk2E,/u/phl,1
-5,2017-10-22 13:33:51 -0500,['/t/haskell'],Scrap All Your Typeclasses But One,http://h2.jaguarpaw.co.uk/posts/scrap-all-your-typeclasses-but-one/,/u/singpolyma,6
-9,2017-10-21 16:57:33 -0500,['/t/databases'],PostgreSQL Domain Integrity In Depth,https://begriffs.com/posts/2017-10-21-sql-domain-integrity.html,/u/begriffs,22
-1,2017-10-21 13:29:00 -0500,"['/t/rust', '/t/web']","Rust to WebAssembly, Made Easy",https://lord.io/blog/2017/wargo/,/u/lord,37
-0,2017-10-22 10:27:49 -0500,"['/t/javascript', '/t/web']",Build A Collapsable Tree Menu With Vue.js Recursive Components,https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/,/u/anthonygore,3
-0,2017-10-22 01:45:36 -0500,"['/t/php', '/t/programming']",Invatar - long-shadow avatar generator,http://invatar.ga,/u/mxp,7
+0,2017-10-23 06:23:07 -0500,"/t/practices,/t/web",Do you have the Learners Syndrome?,https://hackernoon.com/do-you-have-the-learners-syndrome-169c8158ec16,/u/mulander,10
+0,2017-10-23 15:33:29 -0500,/t/javascript,Smart and Dumb Components in React,https://medium.com/@bloomca/smart-and-dumb-components-in-react-9f2607ae6747,/u/bloomca,1
+0,2017-10-23 08:33:37 -0500,/t/practices,Manipulating Maintainers,https://www.snoyman.com/blog/2017/10/manipulating-maintainers,/u/ehamberg,6
+0,2017-10-23 20:23:31 -0500,"/t/video,/t/programming",Functional / Microservices in Real-time Financials,https://www.infoq.com/presentations/nubank-financial-systems,/u/Yogthos,1
+0,2017-10-23 19:55:54 -0500,/t/web,Chrome Summit: New Bar for Web Experiences,https://www.lukew.com/ff/entry.asp?1975,/u/adsouza,1
+0,2017-10-23 11:28:00 -0500,/t/rust,Using Options by example,http://juggernaut.github.io/rust/2017/10/23/rust-options.html,/u/pushcx,3
+0,2017-10-23 14:06:59 -0500,"/t/design,/t/practices",Stop Designing For Only 85% Of Users: Nailing Accessibility In Design,https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/,/u/flyingfisch,2
+30,2017-10-22 19:49:31 -0500,/t/java,Using Java 9 Modularization to Ship Zero-Dependency Native Apps,https://steveperkins.com/using-java-9-modularization-to-ship-zero-dependency-native-apps,/u/Teckla,9
+3,2017-10-22 15:12:55 -0500,"/t/historical,/t/programming","The Xerox Alto, Smalltalk, and rewriting a running GUI",http://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html,/u/calvin,18
+0,2017-10-23 05:38:55 -0500,"/t/clojure,/t/programming",The Multiple Index Problem (2012),http://pepijndevos.nl/2012/08/12/the-multiple-index-problem.html,/u/pushcx,4
+0,2017-10-23 10:28:48 -0500,/t/math,Problem Solving with MiniZinc,http://blog.jpalardy.com/posts/problem-solving-with-minizinc/,/u/friendlysock,2
+0,2017-10-23 14:10:12 -0500,"/t/css,/t/historical",A Look Back at the History of CSS,https://css-tricks.com/look-back-history-css/,/u/flyingfisch,1
+0,2017-10-23 06:59:55 -0500,"/t/ruby,/t/testing",Episode 102 - Feature Testing with Capybara,https://www.driftingruby.com/episodes/feature-testing-with-capybara,/u/kobaltz,1
+6,2017-10-22 04:50:57 -0500,"/t/compilers,/t/haskell",Sixten is an experimental functional programming language where all data is unboxed by default,https://github.com/ollef/sixten,/u/ehamberg,35
+25,2017-10-22 14:03:33 -0500,/t/culture,Contempt Culture (2015),http://blog.aurynn.com/contempt-culture-2,/u/irfansharif,30
+4,2017-10-22 08:29:23 -0500,/t/databases,Your lack of constraints is disturbing,http://sqlservercode.blogspot.com/2017/10/your-lack-of-constraints-is-disturbing.html,/u/calvin,17
+0,2017-10-23 08:28:40 -0500,/t/c++,A technique for using automatic memory management (RAII) with C libraries,https://lethalguitar.wordpress.com/2017/10/20/a-technique-for-using-automatic-memory-management-raii-with-c-libraries/,/u/stip,1
+0,2017-10-23 07:44:08 -0500,/t/nodejs,Node.js Security Overview,https://nemethgergely.com/nodejs-security-overview/,/u/balajmarius,1
+0,2017-10-22 14:00:16 -0500,"/t/java,/t/testing",Open-sourcing RacerD: Fast static race detection at scale,https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale/,/u/irfansharif,11
+0,2017-10-23 06:49:03 -0500,"/t/video,/t/distributed",GOTO 2017 • Designing for the Serverless Age • Gojko Adzic,https://www.youtube.com/watch?v=w7X4gAQTk2E,/u/phl,1
+5,2017-10-22 13:33:51 -0500,/t/haskell,Scrap All Your Typeclasses But One,http://h2.jaguarpaw.co.uk/posts/scrap-all-your-typeclasses-but-one/,/u/singpolyma,6
+9,2017-10-21 16:57:33 -0500,/t/databases,PostgreSQL Domain Integrity In Depth,https://begriffs.com/posts/2017-10-21-sql-domain-integrity.html,/u/begriffs,22
+1,2017-10-21 13:29:00 -0500,"/t/rust,/t/web","Rust to WebAssembly, Made Easy",https://lord.io/blog/2017/wargo/,/u/lord,37
+0,2017-10-22 10:27:49 -0500,"/t/javascript,/t/web",Build A Collapsable Tree Menu With Vue.js Recursive Components,https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/,/u/anthonygore,3
+0,2017-10-22 01:45:36 -0500,"/t/php,/t/programming",Invatar - long-shadow avatar generator,http://invatar.ga,/u/mxp,7

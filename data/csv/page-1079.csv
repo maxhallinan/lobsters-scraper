@@ -1,25 +1,25 @@
-0,2015-07-03 12:51:58 -0500,['/t/scaling'],Aeron: Do we really need another messaging system?,http://highscalability.com/blog/2014/11/17/aeron-do-we-really-need-another-messaging-system.html,/u/SeanTAllen,11
-2,2015-07-03 13:58:26 -0500,"['/t/api', '/t/culture']",The Harmful Consequences of Postel's Maxim,https://tools.ietf.org/html/draft-thomson-postel-was-wrong-00,/u/steveklabnik,16
-6,2015-07-03 13:32:56 -0500,"['/t/release', '/t/web']",Google Analytics widget for OS X Today view,http://www.ryanbrink.com/ga-today,/u/ry_brink,2
-0,2015-07-03 11:50:22 -0500,"['/t/video', '/t/scaling']","Infrastructure at Scale: Apache Kafka, Twitter Storm & Elastic Search at Loggly",http://www.youtube.com/watch?v=LpNbjXFPyZ0,/u/SeanTAllen,5
-10,2015-07-02 10:38:45 -0500,['/t/practices'],Stop the Vertical Tab Madness (2010),http://prog21.dadgum.com/76.html,/u/pushcx,19
-0,2015-07-02 17:22:05 -0500,['/t/practices'],Operant Conditioning by Software Bugs,http://blog.regehr.org/archives/861,/u/pushcx,14
-1,2015-07-02 12:13:39 -0500,"['/t/law', '/t/practices']",The dark side of .io: How the U.K. is making web domain profits from a shady Cold War land deal,https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/,/u/pushcx,13
-2,2015-07-02 23:00:02 -0500,['/t/programming'],Quorum: Bringing randomized controlled trials to human factors decisions in programming language,http://quorumlanguage.com/evidence.php,/u/sanxiyn,2
-0,2015-07-02 19:35:37 -0500,"['/t/databases', '/t/programming']",How to aggregate data with PostgreSQL using window functions,http://blog.elpassion.com/aggregate-data-postgresql/,/u/pushcx,6
-0,2015-07-02 16:14:49 -0500,"['/t/compsci', '/t/programming']",Incremental Regular Expressions,http://jkff.info/articles/ire/,/u/pushcx,7
-0,2015-07-02 15:46:02 -0500,"['/t/law', '/t/networking']",California fiber optic cable vandalism continues unabated,http://arstechnica.com/tech-policy/2015/07/california-fiber-optic-cable-vandalism-continues-unabated/,/u/calvin,7
-2,2015-07-02 15:48:43 -0500,"['/t/pdf', '/t/compilers', '/t/lisp']",Ziggurat is a meta-language system,http://www.ccs.neu.edu/home/shivers/papers/ziggurat-jfp.pdf,/u/animatronic,4
-0,2015-07-02 12:39:48 -0500,"['/t/programming', '/t/ruby']",Building a Ruby Gem in 2015,https://mattbrictson.com/building-a-gem-in-2015,/u/pushcx,5
-1,2015-07-02 13:25:42 -0500,"['/t/api', '/t/go']",Writing Microservices in Go,http://nordicapis.com/writing-microservices-in-go/,/u/journeysquid,3
-0,2015-07-02 10:45:56 -0500,['/t/programming'],Real-time audio programming 101: time waits for nothing (2011),http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing,/u/mulander,5
-0,2015-07-02 12:24:40 -0500,['/t/design'],Re:designed,http://www.elischiff.com/blog/2015/7/1/redesigned,/u/flyingfisch,3
-4,2015-07-02 01:06:35 -0500,"['/t/video', '/t/compsci', '/t/programming']",Incremental Computation with Adapton / Matthew A Hammer,https://vimeo.com/122066659,/u/kragen,6
-16,2015-07-01 12:22:28 -0500,"['/t/browsers', '/t/web']",Safari is the new IE,http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/,/u/adsouza,20
-0,2015-07-01 16:37:47 -0500,"['/t/elm', '/t/web']","Elm for the Frontend, Right Now",http://bendyworks.com/elm-frontend-right-now/,/u/listrophy,16
-0,2015-07-01 13:42:02 -0500,['/t/erlang'],Elixir in times of microservices,http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/,/u/bkudria,17
-0,2015-07-01 10:22:07 -0500,"['/t/show', '/t/ios', '/t/privacy', '/t/security']",Endless: An iOS web browser with a focus on privacy and security - now in the App Store,https://itunes.apple.com/us/app/endless-browser/id974745755?mt=8,/u/jcs,21
-0,2015-07-01 08:50:38 -0500,['/t/devops'],Docker: Not Even a Linker,http://adamierymenko.com/docker-not-even-a-linker/,/u/mulander,21
-0,2015-07-01 15:23:08 -0500,"['/t/c', '/t/games', '/t/programming']",Stupid Template Tricks: Super Template Tetris,http://blog.mattbierner.com/stupid-template-tricks-super-template-tetris/,/u/pushcx,7
-0,2015-07-01 07:44:39 -0500,"['/t/networking', '/t/release', '/t/security']",OpenSSH 6.9 released,http://www.openssh.com/txt/release-6.9,/u/journeysquid,16
-0,2015-07-01 17:43:25 -0500,"['/t/hardware', '/t/windows']",Giving Windows on ARM a Hand,http://winocm.moe/projects/bringup/osports/2015/01/12/giving-windows-on-arm-a-hand/,/u/calvin,4
+0,2015-07-03 12:51:58 -0500,/t/scaling,Aeron: Do we really need another messaging system?,http://highscalability.com/blog/2014/11/17/aeron-do-we-really-need-another-messaging-system.html,/u/SeanTAllen,11
+2,2015-07-03 13:58:26 -0500,"/t/api,/t/culture",The Harmful Consequences of Postel's Maxim,https://tools.ietf.org/html/draft-thomson-postel-was-wrong-00,/u/steveklabnik,16
+6,2015-07-03 13:32:56 -0500,"/t/release,/t/web",Google Analytics widget for OS X Today view,http://www.ryanbrink.com/ga-today,/u/ry_brink,2
+0,2015-07-03 11:50:22 -0500,"/t/video,/t/scaling","Infrastructure at Scale: Apache Kafka, Twitter Storm & Elastic Search at Loggly",http://www.youtube.com/watch?v=LpNbjXFPyZ0,/u/SeanTAllen,5
+10,2015-07-02 10:38:45 -0500,/t/practices,Stop the Vertical Tab Madness (2010),http://prog21.dadgum.com/76.html,/u/pushcx,19
+0,2015-07-02 17:22:05 -0500,/t/practices,Operant Conditioning by Software Bugs,http://blog.regehr.org/archives/861,/u/pushcx,14
+1,2015-07-02 12:13:39 -0500,"/t/law,/t/practices",The dark side of .io: How the U.K. is making web domain profits from a shady Cold War land deal,https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/,/u/pushcx,13
+2,2015-07-02 23:00:02 -0500,/t/programming,Quorum: Bringing randomized controlled trials to human factors decisions in programming language,http://quorumlanguage.com/evidence.php,/u/sanxiyn,2
+0,2015-07-02 19:35:37 -0500,"/t/databases,/t/programming",How to aggregate data with PostgreSQL using window functions,http://blog.elpassion.com/aggregate-data-postgresql/,/u/pushcx,6
+0,2015-07-02 16:14:49 -0500,"/t/compsci,/t/programming",Incremental Regular Expressions,http://jkff.info/articles/ire/,/u/pushcx,7
+0,2015-07-02 15:46:02 -0500,"/t/law,/t/networking",California fiber optic cable vandalism continues unabated,http://arstechnica.com/tech-policy/2015/07/california-fiber-optic-cable-vandalism-continues-unabated/,/u/calvin,7
+2,2015-07-02 15:48:43 -0500,"/t/pdf,/t/compilers,/t/lisp",Ziggurat is a meta-language system,http://www.ccs.neu.edu/home/shivers/papers/ziggurat-jfp.pdf,/u/animatronic,4
+0,2015-07-02 12:39:48 -0500,"/t/programming,/t/ruby",Building a Ruby Gem in 2015,https://mattbrictson.com/building-a-gem-in-2015,/u/pushcx,5
+1,2015-07-02 13:25:42 -0500,"/t/api,/t/go",Writing Microservices in Go,http://nordicapis.com/writing-microservices-in-go/,/u/journeysquid,3
+0,2015-07-02 10:45:56 -0500,/t/programming,Real-time audio programming 101: time waits for nothing (2011),http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing,/u/mulander,5
+0,2015-07-02 12:24:40 -0500,/t/design,Re:designed,http://www.elischiff.com/blog/2015/7/1/redesigned,/u/flyingfisch,3
+4,2015-07-02 01:06:35 -0500,"/t/video,/t/compsci,/t/programming",Incremental Computation with Adapton / Matthew A Hammer,https://vimeo.com/122066659,/u/kragen,6
+16,2015-07-01 12:22:28 -0500,"/t/browsers,/t/web",Safari is the new IE,http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/,/u/adsouza,20
+0,2015-07-01 16:37:47 -0500,"/t/elm,/t/web","Elm for the Frontend, Right Now",http://bendyworks.com/elm-frontend-right-now/,/u/listrophy,16
+0,2015-07-01 13:42:02 -0500,/t/erlang,Elixir in times of microservices,http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/,/u/bkudria,17
+0,2015-07-01 10:22:07 -0500,"/t/show,/t/ios,/t/privacy,/t/security",Endless: An iOS web browser with a focus on privacy and security - now in the App Store,https://itunes.apple.com/us/app/endless-browser/id974745755?mt=8,/u/jcs,21
+0,2015-07-01 08:50:38 -0500,/t/devops,Docker: Not Even a Linker,http://adamierymenko.com/docker-not-even-a-linker/,/u/mulander,21
+0,2015-07-01 15:23:08 -0500,"/t/c,/t/games,/t/programming",Stupid Template Tricks: Super Template Tetris,http://blog.mattbierner.com/stupid-template-tricks-super-template-tetris/,/u/pushcx,7
+0,2015-07-01 07:44:39 -0500,"/t/networking,/t/release,/t/security",OpenSSH 6.9 released,http://www.openssh.com/txt/release-6.9,/u/journeysquid,16
+0,2015-07-01 17:43:25 -0500,"/t/hardware,/t/windows",Giving Windows on ARM a Hand,http://winocm.moe/projects/bringup/osports/2015/01/12/giving-windows-on-arm-a-hand/,/u/calvin,4

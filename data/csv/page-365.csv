@@ -1,25 +1,25 @@
-3,2017-05-15 18:28:44 -0500,['/t/graphics'],John Carmack on shadow volumes (2000),https://web.archive.org/web/20090127020935/http://developer.nvidia.com/attach/6832,/u/pushcx,13
-0,2017-05-16 10:08:05 -0500,['/t/culture'],Being agile and working smart are not the same thing,https://techbeacon.com/being-agile-working-smart-are-not-same-thing,/u/mpron,6
-0,2017-05-16 16:04:57 -0500,['/t/javascript'],"All About Recursion, PTC, TCO and STC in JavaScript",http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html,/u/feoh,1
-0,2017-05-16 12:07:36 -0500,"['/t/privacy', '/t/release']",Tor Browser 7.0a4 is released | The Tor Blog,https://blog.torproject.org/blog/tor-browser-70a4-released,/u/trn,2
-1,2017-05-15 11:01:50 -0500,['/t/rust'],Two years of Rust,http://blog.rust-lang.org/2017/05/15/rust-at-two-years.html,/u/erickt,39
-2,2017-05-15 12:19:27 -0500,"['/t/book', '/t/rust']",Rust Cookbook,https://brson.github.io/rust-cookbook/intro.html,/u/unbalancedparentheses,27
-1,2017-05-16 14:08:56 -0500,['/t/vim'],WuTheFWasThat/vimflowy,https://github.com/WuTheFWasThat/vimflowy,/u/feoh,1
-1,2017-05-16 08:52:25 -0500,"['/t/programming', '/t/security']",Ways in which the WannaCry ransomware could have been much worse,https://ma.ttias.be/ways-wannacry-ransomware-much-worse/,/u/mattiasgeniar,1
-5,2017-05-15 10:11:58 -0500,['/t/crypto'],Why Quantum Computers Might Not Break Cryptography,https://www.quantamagazine.org/why-quantum-computers-might-not-break-cryptography/,/u/markhkim,8
-2,2017-05-15 20:08:05 -0500,"['/t/compsci', '/t/release', '/t/ruby']",Cuckoo Filter: a probabilistic datastructure for set membership queries,https://github.com/pawandubey/cuckoo_filter,/u/pushcx,7
-4,2017-05-15 15:22:54 -0500,"['/t/databases', '/t/unix']",kshvmdn/fsql -- Search through your file system with SQL-esque queries.,https://github.com/kshvmdn/fsql,/u/friendlysock,8
-5,2017-05-15 08:04:43 -0500,['/t/freebsd'],"FreeBSD on 11″ MacBook Air 5,1 (mid-2012)",https://www.geeklan.co.uk/?p=2214,/u/sevan,14
-8,2017-05-15 06:32:19 -0500,"['/t/practices', '/t/programming']",On Counting,http://www.doxsey.net/blog/on-counting,/u/calebdoxsey,11
-0,2017-05-16 05:59:09 -0500,"['/t/video', '/t/historical', '/t/person', '/t/programming']",Behind the Code with Anders Hejlsberg (2005),https://www.youtube.com/watch?v=JckLuXcovl8,/u/calvin,2
-1,2017-05-15 12:03:58 -0500,['/t/freebsd'],FreeBSD Quarterly Status Report - Q1 2017,https://www.freebsd.org/news/status/report-2017-01-2017-03.html,/u/lattera,14
-0,2017-05-15 06:52:21 -0500,['/t/linux'],NixOS on a Dell 9560,http://grahamc.com/blog/nixos-on-dell-9560,/u/grahamc,13
-6,2017-05-15 08:53:45 -0500,['/t/javascript'],WTF is Vuex? A Beginner's Guide To Vue's Application Data Store,http://vuejsdevelopers.com/2017/05/15/vue-js-what-is-vuex/?jsdojo_id=lob_wfv,/u/anthonygore,5
-0,2017-05-16 12:49:37 -0500,['/t/devops'],Skyliner is shutting down and our team is joining MailChimp,https://blog.skyliner.io/skyliner-is-shutting-down-and-our-team-is-joining-mailchimp-80ef97848e43,/u/pgr0ss,0
-0,2017-05-16 00:01:28 -0500,['/t/devops'],The Central Challenge in Monitoring Serverless Applications,https://www.instana.com/blog/central-challenge-monitoring-serverless-applications/,/u/Dawny33,2
-4,2017-05-15 13:12:02 -0500,"['/t/hardware', '/t/security']",The Seven Properties of Highly Secure Devices (MS Research: Project Sopris),https://www.microsoft.com/en-us/research/project/sopris/,/u/minimax,4
-1,2017-05-15 11:56:53 -0500,['/t/openbsd'],openbsd changes of note 621,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-621,/u/calvin,8
-0,2017-05-15 16:36:37 -0500,"['/t/hardware', '/t/security']","Intel's Management Engine is a security hazard, and users need a way to disable it",https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it,/u/JordiGH,5
-7,2017-05-15 06:04:01 -0500,['/t/java'],Why you should totally switch to Kotlin,https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5,/u/calvin,8
-0,2017-05-15 09:14:56 -0500,['/t/programming'],Opportunistic Refactoring,https://martinfowler.com/bliki/OpportunisticRefactoring.html,/u/pushcx,11
-20,2017-05-14 11:21:32 -0500,"['/t/mac', '/t/openbsd']",Switching to OpenBSD,http://mndrix.blogspot.com/2017/05/switching-to-openbsd.html,/u/jcs,42
+3,2017-05-15 18:28:44 -0500,/t/graphics,John Carmack on shadow volumes (2000),https://web.archive.org/web/20090127020935/http://developer.nvidia.com/attach/6832,/u/pushcx,13
+0,2017-05-16 10:08:05 -0500,/t/culture,Being agile and working smart are not the same thing,https://techbeacon.com/being-agile-working-smart-are-not-same-thing,/u/mpron,6
+0,2017-05-16 16:04:57 -0500,/t/javascript,"All About Recursion, PTC, TCO and STC in JavaScript",http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html,/u/feoh,1
+0,2017-05-16 12:07:36 -0500,"/t/privacy,/t/release",Tor Browser 7.0a4 is released | The Tor Blog,https://blog.torproject.org/blog/tor-browser-70a4-released,/u/trn,2
+1,2017-05-15 11:01:50 -0500,/t/rust,Two years of Rust,http://blog.rust-lang.org/2017/05/15/rust-at-two-years.html,/u/erickt,39
+2,2017-05-15 12:19:27 -0500,"/t/book,/t/rust",Rust Cookbook,https://brson.github.io/rust-cookbook/intro.html,/u/unbalancedparentheses,27
+1,2017-05-16 14:08:56 -0500,/t/vim,WuTheFWasThat/vimflowy,https://github.com/WuTheFWasThat/vimflowy,/u/feoh,1
+1,2017-05-16 08:52:25 -0500,"/t/programming,/t/security",Ways in which the WannaCry ransomware could have been much worse,https://ma.ttias.be/ways-wannacry-ransomware-much-worse/,/u/mattiasgeniar,1
+5,2017-05-15 10:11:58 -0500,/t/crypto,Why Quantum Computers Might Not Break Cryptography,https://www.quantamagazine.org/why-quantum-computers-might-not-break-cryptography/,/u/markhkim,8
+2,2017-05-15 20:08:05 -0500,"/t/compsci,/t/release,/t/ruby",Cuckoo Filter: a probabilistic datastructure for set membership queries,https://github.com/pawandubey/cuckoo_filter,/u/pushcx,7
+4,2017-05-15 15:22:54 -0500,"/t/databases,/t/unix",kshvmdn/fsql -- Search through your file system with SQL-esque queries.,https://github.com/kshvmdn/fsql,/u/friendlysock,8
+5,2017-05-15 08:04:43 -0500,/t/freebsd,"FreeBSD on 11″ MacBook Air 5,1 (mid-2012)",https://www.geeklan.co.uk/?p=2214,/u/sevan,14
+8,2017-05-15 06:32:19 -0500,"/t/practices,/t/programming",On Counting,http://www.doxsey.net/blog/on-counting,/u/calebdoxsey,11
+0,2017-05-16 05:59:09 -0500,"/t/video,/t/historical,/t/person,/t/programming",Behind the Code with Anders Hejlsberg (2005),https://www.youtube.com/watch?v=JckLuXcovl8,/u/calvin,2
+1,2017-05-15 12:03:58 -0500,/t/freebsd,FreeBSD Quarterly Status Report - Q1 2017,https://www.freebsd.org/news/status/report-2017-01-2017-03.html,/u/lattera,14
+0,2017-05-15 06:52:21 -0500,/t/linux,NixOS on a Dell 9560,http://grahamc.com/blog/nixos-on-dell-9560,/u/grahamc,13
+6,2017-05-15 08:53:45 -0500,/t/javascript,WTF is Vuex? A Beginner's Guide To Vue's Application Data Store,http://vuejsdevelopers.com/2017/05/15/vue-js-what-is-vuex/?jsdojo_id=lob_wfv,/u/anthonygore,5
+0,2017-05-16 12:49:37 -0500,/t/devops,Skyliner is shutting down and our team is joining MailChimp,https://blog.skyliner.io/skyliner-is-shutting-down-and-our-team-is-joining-mailchimp-80ef97848e43,/u/pgr0ss,0
+0,2017-05-16 00:01:28 -0500,/t/devops,The Central Challenge in Monitoring Serverless Applications,https://www.instana.com/blog/central-challenge-monitoring-serverless-applications/,/u/Dawny33,2
+4,2017-05-15 13:12:02 -0500,"/t/hardware,/t/security",The Seven Properties of Highly Secure Devices (MS Research: Project Sopris),https://www.microsoft.com/en-us/research/project/sopris/,/u/minimax,4
+1,2017-05-15 11:56:53 -0500,/t/openbsd,openbsd changes of note 621,http://www.tedunangst.com/flak/post/openbsd-changes-of-note-621,/u/calvin,8
+0,2017-05-15 16:36:37 -0500,"/t/hardware,/t/security","Intel's Management Engine is a security hazard, and users need a way to disable it",https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it,/u/JordiGH,5
+7,2017-05-15 06:04:01 -0500,/t/java,Why you should totally switch to Kotlin,https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5,/u/calvin,8
+0,2017-05-15 09:14:56 -0500,/t/programming,Opportunistic Refactoring,https://martinfowler.com/bliki/OpportunisticRefactoring.html,/u/pushcx,11
+20,2017-05-14 11:21:32 -0500,"/t/mac,/t/openbsd",Switching to OpenBSD,http://mndrix.blogspot.com/2017/05/switching-to-openbsd.html,/u/jcs,42

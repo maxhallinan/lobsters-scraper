@@ -1,25 +1,25 @@
-0,2014-09-24 08:23:08 -0500,"['/t/javascript', '/t/mobile']",Why the Scroll Event Change in iOS 8 is a Big Deal,http://developer.telerik.com/featured/scroll-event-change-ios-8-big-deal/,/u/remotesynth,1
-0,2014-09-23 18:37:48 -0500,['/t/programming'],Why hourly time tracking doesn't work for software,http://bocoup.com/weblog/developer-weeks/,/u/Nowaker,7
-1,2014-09-23 13:26:34 -0500,['/t/programming'],The Implicit Calculus: A New Foundation for Generic Programming,http://wadler.blogspot.ca/2014/06/the-implicit-calculus-new-foundation.html,/u/bitemyapp,11
-0,2014-09-23 22:09:39 -0500,['/t/lua'],Alternative Lua implementation - maxmcguire/rocket,https://github.com/maxmcguire/rocket,/u/animatronic,3
-0,2014-09-24 03:59:51 -0500,['/t/math'],Explaining banding in a scatterplot of Goldbach’s function,http://gottwurfelt.com/2014/09/23/explaining-banding-in-a-scatterplot-of-goldbachs-function/,/u/RiderOfGiraffes,1
-0,2014-09-23 13:33:06 -0500,['/t/programming'],Logo Interpreter,http://www.calormen.com/jslogo/,/u/dh,8
-2,2014-09-23 09:43:31 -0500,['/t/hardware'],Illumigami - The Hero Conference Rooms Deserve,http://viget.com/extend/illumigami-the-hero-conference-rooms-deserve,/u/pushcx,8
-0,2014-09-23 13:26:53 -0500,"['/t/video', '/t/programming']",Verifying a monoid,https://www.youtube.com/watch?v=P82dqVrS8ik&feature=youtu.be,/u/bitemyapp,6
-0,2014-09-23 13:25:41 -0500,['/t/programming'],A Pretty-Printer that Says What It Means,http://www.davidchristiansen.dk/2014/09/06/pretty-printing-idris/,/u/bitemyapp,6
-0,2014-09-23 13:26:15 -0500,"['/t/video', '/t/programming']",The Hitchhiker's Guide to the Curry-Howard Correspondence,http://vimeo.com/100976695,/u/bitemyapp,5
-0,2014-09-23 13:25:20 -0500,['/t/programming'],Type-directed search with dependent types,http://haskelldc.github.io/type-search-8-12-14/,/u/bitemyapp,5
-8,2014-09-22 22:08:40 -0500,['/t/javascript'],PureScript: a statically typed language which compiles to JavaScript,https://github.com/purescript/purescript,/u/wting,15
-0,2014-09-23 22:06:11 -0500,['/t/science'],ISRO: Mars Orbiter Mission,http://isro.gov.in/mars/updates.aspx,/u/dtsdwarak,1
-0,2014-09-23 21:02:56 -0500,"['/t/ruby', '/t/rust']",Bending the Curve: Writing Safe & Fast Native Gems With Rust,http://blog.skylight.io/bending-the-curve-writing-safe-fast-native-gems-with-rust/,/u/jasontbradshaw,1
-0,2014-09-23 16:48:21 -0500,"['/t/math', '/t/science']","Estimating the Future Number of Cases in the Ebola Epidemic — Liberia and Sierra Leone, 2014–2015",http://www.cdc.gov/mmwr/preview/mmwrhtml/su63e0923a1.htm,/u/drturtle,2
-2,2014-09-22 16:58:49 -0500,"['/t/linux', '/t/unix']",Why systemd?,http://blog.jorgenschaefer.de/2014/07/why-systemd.html,/u/csantosb,14
-0,2014-09-23 09:22:44 -0500,['/t/ios'],I Had to Develop an iPhone App to Understand Swing Trading,http://chartingninja.com/2014/09/12/app-understand-swing-trading.html,/u/jpadilla,1
-1,2014-09-22 09:03:13 -0500,"['/t/video', '/t/lisp', '/t/programming']","""Transducers"" by Rich Hickey (Strange Loop)",http://www.youtube.com/watch?v=6mTbuzafcII,/u/ianbishop,19
-0,2014-09-23 08:56:05 -0500,"['/t/devops', '/t/release']",Graylog2 v0.90 has been released,http://www.graylog2.org/news/post/0005-graylog2-v0-90-has-been-released,/u/bernd,1
-2,2014-09-22 11:28:29 -0500,"['/t/haskell', '/t/programming']",What it’s like to use Haskell,http://engineering.imvu.com/2014/03/24/what-its-like-to-use-haskell/,/u/bitemyapp,11
-1,2014-09-22 15:49:08 -0500,"['/t/haskell', '/t/programming']",Formatting in Haskell (type-safe printf without dependent types),http://chrisdone.com/posts/formatting,/u/bitemyapp,7
-0,2014-09-22 15:21:38 -0500,"['/t/go', '/t/programming']",Building a testable Go web app,https://sourcegraph.com/blog/building-a-testable-webapp,/u/beyang,7
-46,2014-09-22 11:27:41 -0500,['/t/ask'],What are you working on this week?,/s/aonqwi/what_are_you_working_on_this_week,/u/BruceM,18
-0,2014-09-22 17:44:59 -0500,['/t/python'],Turning a laptop into a CCTV,http://vincent.is/turning-a-laptop-into-cctv/,/u/pushcx,4
-0,2014-09-22 05:16:42 -0500,['/t/haskell'],Opqdonut's Haskell Exercises,https://github.com/opqdonut/haskell-exercises,/u/arcatan,15
+0,2014-09-24 08:23:08 -0500,"/t/javascript,/t/mobile",Why the Scroll Event Change in iOS 8 is a Big Deal,http://developer.telerik.com/featured/scroll-event-change-ios-8-big-deal/,/u/remotesynth,1
+0,2014-09-23 18:37:48 -0500,/t/programming,Why hourly time tracking doesn't work for software,http://bocoup.com/weblog/developer-weeks/,/u/Nowaker,7
+1,2014-09-23 13:26:34 -0500,/t/programming,The Implicit Calculus: A New Foundation for Generic Programming,http://wadler.blogspot.ca/2014/06/the-implicit-calculus-new-foundation.html,/u/bitemyapp,11
+0,2014-09-23 22:09:39 -0500,/t/lua,Alternative Lua implementation - maxmcguire/rocket,https://github.com/maxmcguire/rocket,/u/animatronic,3
+0,2014-09-24 03:59:51 -0500,/t/math,Explaining banding in a scatterplot of Goldbach’s function,http://gottwurfelt.com/2014/09/23/explaining-banding-in-a-scatterplot-of-goldbachs-function/,/u/RiderOfGiraffes,1
+0,2014-09-23 13:33:06 -0500,/t/programming,Logo Interpreter,http://www.calormen.com/jslogo/,/u/dh,8
+2,2014-09-23 09:43:31 -0500,/t/hardware,Illumigami - The Hero Conference Rooms Deserve,http://viget.com/extend/illumigami-the-hero-conference-rooms-deserve,/u/pushcx,8
+0,2014-09-23 13:26:53 -0500,"/t/video,/t/programming",Verifying a monoid,https://www.youtube.com/watch?v=P82dqVrS8ik&feature=youtu.be,/u/bitemyapp,6
+0,2014-09-23 13:25:41 -0500,/t/programming,A Pretty-Printer that Says What It Means,http://www.davidchristiansen.dk/2014/09/06/pretty-printing-idris/,/u/bitemyapp,6
+0,2014-09-23 13:26:15 -0500,"/t/video,/t/programming",The Hitchhiker's Guide to the Curry-Howard Correspondence,http://vimeo.com/100976695,/u/bitemyapp,5
+0,2014-09-23 13:25:20 -0500,/t/programming,Type-directed search with dependent types,http://haskelldc.github.io/type-search-8-12-14/,/u/bitemyapp,5
+8,2014-09-22 22:08:40 -0500,/t/javascript,PureScript: a statically typed language which compiles to JavaScript,https://github.com/purescript/purescript,/u/wting,15
+0,2014-09-23 22:06:11 -0500,/t/science,ISRO: Mars Orbiter Mission,http://isro.gov.in/mars/updates.aspx,/u/dtsdwarak,1
+0,2014-09-23 21:02:56 -0500,"/t/ruby,/t/rust",Bending the Curve: Writing Safe & Fast Native Gems With Rust,http://blog.skylight.io/bending-the-curve-writing-safe-fast-native-gems-with-rust/,/u/jasontbradshaw,1
+0,2014-09-23 16:48:21 -0500,"/t/math,/t/science","Estimating the Future Number of Cases in the Ebola Epidemic — Liberia and Sierra Leone, 2014–2015",http://www.cdc.gov/mmwr/preview/mmwrhtml/su63e0923a1.htm,/u/drturtle,2
+2,2014-09-22 16:58:49 -0500,"/t/linux,/t/unix",Why systemd?,http://blog.jorgenschaefer.de/2014/07/why-systemd.html,/u/csantosb,14
+0,2014-09-23 09:22:44 -0500,/t/ios,I Had to Develop an iPhone App to Understand Swing Trading,http://chartingninja.com/2014/09/12/app-understand-swing-trading.html,/u/jpadilla,1
+1,2014-09-22 09:03:13 -0500,"/t/video,/t/lisp,/t/programming","""Transducers"" by Rich Hickey (Strange Loop)",http://www.youtube.com/watch?v=6mTbuzafcII,/u/ianbishop,19
+0,2014-09-23 08:56:05 -0500,"/t/devops,/t/release",Graylog2 v0.90 has been released,http://www.graylog2.org/news/post/0005-graylog2-v0-90-has-been-released,/u/bernd,1
+2,2014-09-22 11:28:29 -0500,"/t/haskell,/t/programming",What it’s like to use Haskell,http://engineering.imvu.com/2014/03/24/what-its-like-to-use-haskell/,/u/bitemyapp,11
+1,2014-09-22 15:49:08 -0500,"/t/haskell,/t/programming",Formatting in Haskell (type-safe printf without dependent types),http://chrisdone.com/posts/formatting,/u/bitemyapp,7
+0,2014-09-22 15:21:38 -0500,"/t/go,/t/programming",Building a testable Go web app,https://sourcegraph.com/blog/building-a-testable-webapp,/u/beyang,7
+46,2014-09-22 11:27:41 -0500,/t/ask,What are you working on this week?,/s/aonqwi/what_are_you_working_on_this_week,/u/BruceM,18
+0,2014-09-22 17:44:59 -0500,/t/python,Turning a laptop into a CCTV,http://vincent.is/turning-a-laptop-into-cctv/,/u/pushcx,4
+0,2014-09-22 05:16:42 -0500,/t/haskell,Opqdonut's Haskell Exercises,https://github.com/opqdonut/haskell-exercises,/u/arcatan,15

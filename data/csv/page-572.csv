@@ -1,25 +1,25 @@
-4,2016-12-08 18:15:34 -0600,"['/t/video', '/t/compsci']",A brief history of syscalls - Adam Leventhal,https://www.youtube.com/watch?v=c8yURlfmRnw,/u/sevan,13
-0,2016-12-09 11:51:15 -0600,['/t/visualization'],Visualizing the rhythm of food searches,https://medium.com/google-news-lab/visualizing-the-rhythm-of-food-searches-390c866a740,/u/adsouza,2
-0,2016-12-08 19:24:25 -0600,"['/t/art', '/t/graphics', '/t/hardware', '/t/programming']",CGA in 1024 Colors - a New Mode: the Illustrated Guide,http://8088mph.blogspot.co.uk/2015/04/cga-in-1024-colors-new-mode-illustrated.html,/u/dw,15
-5,2016-12-08 13:28:11 -0600,['/t/practices'],Cloud convenience is killing the open source database,http://www.infoworld.com/article/3147864/cloud-computing/cloud-convenience-is-killing-the-open-source-database.html,/u/zem,12
-1,2016-12-08 17:21:32 -0600,"['/t/privacy', '/t/security']",Belarus (finally) bans Tor,https://ooni.torproject.org/post/belarus-fries-onion/,/u/nyx,11
-2,2016-12-08 12:50:37 -0600,['/t/release'],Now Open AWS Canada (Central) Region | AWS Blog,https://aws.amazon.com/blogs/aws/now-open-aws-canada-central-region/,/u/ChrisShort,15
-1,2016-12-09 01:47:00 -0600,"['/t/video', '/t/historical']",Xerox Alto Restoration Part 12 - Ethernet pioneers,https://www.youtube.com/watch?v=XhIohWr10kU,/u/jpm1,2
-0,2016-12-08 20:23:07 -0600,"['/t/graphics', '/t/math', '/t/visualization']",Creating Traveling Salesman Art With Weighted Voronoi Stippling,http://jackxmorris.com/posts/traveling-salesman-art,/u/calvin,6
-0,2016-12-08 13:18:21 -0600,"['/t/crypto', '/t/privacy']",zkc: Secure Communications,https://blog.decred.org/2016/12/07/zkc-Secure-Communications/,/u/jrick,12
-4,2016-12-08 20:24:25 -0600,['/t/windows'],"Windows is coming back to ARM, this time with 32-bit x86 compatibility",http://arstechnica.com/information-technology/2016/12/microsoft-pushes-for-a-more-modern-pc-with-vr-project-evo-and-arm-support/,/u/calvin,2
-0,2016-12-08 06:39:04 -0600,"['/t/philosophy', '/t/practices']",Talks that changed the way I think about programming,http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/,/u/abatilo,23
-3,2016-12-08 11:05:56 -0600,"['/t/emacs', '/t/vim']",Why I switched from Vim to Emacs,https://matthaffner.wordpress.com/2016/12/07/why-i-switched-from-vim-to-emacs/,/u/av,8
-0,2016-12-08 20:18:26 -0600,"['/t/vcs', '/t/web']","Publishing with GitHub Pages, now as easy as 1, 2, 3",https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3,/u/ngoldbaum,4
-0,2016-12-08 11:05:38 -0600,"['/t/pdf', '/t/programming']",Why Functional Programming Matters (1984),http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf,/u/av,9
-2,2016-12-08 11:04:53 -0600,['/t/math'],How the number zero was 'discovered',http://www.bbc.com/future/story/20161206-we-couldnt-live-without-zero-but-we-once-had-to,/u/av,6
-12,2016-12-07 19:39:54 -0600,"['/t/python', '/t/release']",What’s New In Python 3.6,https://docs.python.org/3.6/whatsnew/3.6.html,/u/calvin,24
-0,2016-12-08 21:47:13 -0600,"['/t/cryptocurrencies', '/t/haskell']",A Provably Secure Proof-of-Stake Blockchain Protocol,https://github.com/input-output-hk/pos-haskell-prototype,/u/av,2
-3,2016-12-08 05:17:51 -0600,['/t/android'],F-Droid applications statistics,https://fossdroid.com/blog/foss-applications-statistics.html,/u/pizzaiolo,9
-0,2016-12-08 10:09:03 -0600,['/t/haskell'],Haskell Weekly: Issue 32,http://haskellweekly.news/issues/32.html,/u/taylorfausak,4
-0,2016-12-08 15:21:47 -0600,"['/t/games', '/t/graphics']",Dolphin Progress Report: November 2016,https://dolphin-emu.org/blog/2016/12/01/dolphin-progress-report-november-2016/,/u/riking,4
-43,2016-12-07 10:48:23 -0600,"['/t/android', '/t/hardware']",Pebble's over.,https://blog.getpebble.com/2016/12/07/fitbit/,/u/headgasket,45
-1,2016-12-08 11:11:14 -0600,"['/t/video', '/t/person']",Donald Knuth's Annual Christmas Lecture,http://scpdweb.stanford.edu/free-stuff/live-webinars-lectures/donald-knuths-annual-christmas-lecture-360,/u/ngoldbaum,5
-0,2016-12-08 13:03:10 -0600,"['/t/philosophy', '/t/programming']",Teaching Programming,http://occasionallycogent.com/programming/teaching/2016/12/03/teaching-programming.html,/u/jamesnvc,2
-8,2016-12-07 21:39:04 -0600,"['/t/devops', '/t/practices']",Don’t Build Private Clouds,https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b,/u/worr,12
-14,2016-12-08 12:49:32 -0600,['/t/meta'],What if submitters needed a comment to story ratio to post stories?,/s/5tanbo/what_if_submitters_needed_comment_story,/u/apy,2
+4,2016-12-08 18:15:34 -0600,"/t/video,/t/compsci",A brief history of syscalls - Adam Leventhal,https://www.youtube.com/watch?v=c8yURlfmRnw,/u/sevan,13
+0,2016-12-09 11:51:15 -0600,/t/visualization,Visualizing the rhythm of food searches,https://medium.com/google-news-lab/visualizing-the-rhythm-of-food-searches-390c866a740,/u/adsouza,2
+0,2016-12-08 19:24:25 -0600,"/t/art,/t/graphics,/t/hardware,/t/programming",CGA in 1024 Colors - a New Mode: the Illustrated Guide,http://8088mph.blogspot.co.uk/2015/04/cga-in-1024-colors-new-mode-illustrated.html,/u/dw,15
+5,2016-12-08 13:28:11 -0600,/t/practices,Cloud convenience is killing the open source database,http://www.infoworld.com/article/3147864/cloud-computing/cloud-convenience-is-killing-the-open-source-database.html,/u/zem,12
+1,2016-12-08 17:21:32 -0600,"/t/privacy,/t/security",Belarus (finally) bans Tor,https://ooni.torproject.org/post/belarus-fries-onion/,/u/nyx,11
+2,2016-12-08 12:50:37 -0600,/t/release,Now Open AWS Canada (Central) Region | AWS Blog,https://aws.amazon.com/blogs/aws/now-open-aws-canada-central-region/,/u/ChrisShort,15
+1,2016-12-09 01:47:00 -0600,"/t/video,/t/historical",Xerox Alto Restoration Part 12 - Ethernet pioneers,https://www.youtube.com/watch?v=XhIohWr10kU,/u/jpm1,2
+0,2016-12-08 20:23:07 -0600,"/t/graphics,/t/math,/t/visualization",Creating Traveling Salesman Art With Weighted Voronoi Stippling,http://jackxmorris.com/posts/traveling-salesman-art,/u/calvin,6
+0,2016-12-08 13:18:21 -0600,"/t/crypto,/t/privacy",zkc: Secure Communications,https://blog.decred.org/2016/12/07/zkc-Secure-Communications/,/u/jrick,12
+4,2016-12-08 20:24:25 -0600,/t/windows,"Windows is coming back to ARM, this time with 32-bit x86 compatibility",http://arstechnica.com/information-technology/2016/12/microsoft-pushes-for-a-more-modern-pc-with-vr-project-evo-and-arm-support/,/u/calvin,2
+0,2016-12-08 06:39:04 -0600,"/t/philosophy,/t/practices",Talks that changed the way I think about programming,http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/,/u/abatilo,23
+3,2016-12-08 11:05:56 -0600,"/t/emacs,/t/vim",Why I switched from Vim to Emacs,https://matthaffner.wordpress.com/2016/12/07/why-i-switched-from-vim-to-emacs/,/u/av,8
+0,2016-12-08 20:18:26 -0600,"/t/vcs,/t/web","Publishing with GitHub Pages, now as easy as 1, 2, 3",https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3,/u/ngoldbaum,4
+0,2016-12-08 11:05:38 -0600,"/t/pdf,/t/programming",Why Functional Programming Matters (1984),http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf,/u/av,9
+2,2016-12-08 11:04:53 -0600,/t/math,How the number zero was 'discovered',http://www.bbc.com/future/story/20161206-we-couldnt-live-without-zero-but-we-once-had-to,/u/av,6
+12,2016-12-07 19:39:54 -0600,"/t/python,/t/release",What’s New In Python 3.6,https://docs.python.org/3.6/whatsnew/3.6.html,/u/calvin,24
+0,2016-12-08 21:47:13 -0600,"/t/cryptocurrencies,/t/haskell",A Provably Secure Proof-of-Stake Blockchain Protocol,https://github.com/input-output-hk/pos-haskell-prototype,/u/av,2
+3,2016-12-08 05:17:51 -0600,/t/android,F-Droid applications statistics,https://fossdroid.com/blog/foss-applications-statistics.html,/u/pizzaiolo,9
+0,2016-12-08 10:09:03 -0600,/t/haskell,Haskell Weekly: Issue 32,http://haskellweekly.news/issues/32.html,/u/taylorfausak,4
+0,2016-12-08 15:21:47 -0600,"/t/games,/t/graphics",Dolphin Progress Report: November 2016,https://dolphin-emu.org/blog/2016/12/01/dolphin-progress-report-november-2016/,/u/riking,4
+43,2016-12-07 10:48:23 -0600,"/t/android,/t/hardware",Pebble's over.,https://blog.getpebble.com/2016/12/07/fitbit/,/u/headgasket,45
+1,2016-12-08 11:11:14 -0600,"/t/video,/t/person",Donald Knuth's Annual Christmas Lecture,http://scpdweb.stanford.edu/free-stuff/live-webinars-lectures/donald-knuths-annual-christmas-lecture-360,/u/ngoldbaum,5
+0,2016-12-08 13:03:10 -0600,"/t/philosophy,/t/programming",Teaching Programming,http://occasionallycogent.com/programming/teaching/2016/12/03/teaching-programming.html,/u/jamesnvc,2
+8,2016-12-07 21:39:04 -0600,"/t/devops,/t/practices",Don’t Build Private Clouds,https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b,/u/worr,12
+14,2016-12-08 12:49:32 -0600,/t/meta,What if submitters needed a comment to story ratio to post stories?,/s/5tanbo/what_if_submitters_needed_comment_story,/u/apy,2

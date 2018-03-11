@@ -1,25 +1,25 @@
-0,2014-03-18 18:25:11 -0500,['/t/databases'],MySQL Fabric – adding High Availability to MySQL,http://www.clusterdb.com/mysql-fabric/mysql-fabric-adding-high-availability-to-mysql,/u/tobym,3
-0,2014-03-19 01:00:21 -0500,"['/t/games', '/t/programming']",PowerVR GR6500: ray tracing is the future… and the future is now,http://blog.imgtec.com/powervr-developers/powervr-gr6500-ray-tracing,/u/penberg,1
-8,2014-03-17 15:02:41 -0500,"['/t/show', '/t/javascript']",JavaScript sheet music renderer synced with audio,http://www.soundslice.com/v2/auld-lang-syne/,/u/adrian,28
-0,2014-03-18 15:10:45 -0500,['/t/javascript'],Creating Modular View Components with React and Grunt,http://flippinawesome.org/2014/03/17/creating-modular-view-components-with-react-and-grunt/,/u/remotesynth,2
-0,2014-03-18 17:43:07 -0500,"['/t/javascript', '/t/web']",Node.js + Backbone = wearther,http://blog.wearther.cc/2014/03/19/nodejs-+-backbone-=-wearther/,/u/gantengx,1
-0,2014-03-18 11:53:49 -0500,"['/t/compsci', '/t/ipv6']",internetworking with TCP/IP (MOOC),http://openhpi.de/course/internetworking2014,/u/cvsekhar,2
-5,2014-03-17 12:35:22 -0500,['/t/programming'],"Why OCaml, why now?",http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/,/u/mattk,18
-0,2014-03-18 13:48:29 -0500,"['/t/java', '/t/release']",Java SE Development Kit 8 - Downloads,http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html,/u/tobym,1
-4,2014-03-18 04:45:42 -0500,"['/t/api', '/t/web']",OpenWeatherMap free weather API,http://openweathermap.org/API,/u/napolux,2
-0,2014-03-18 13:17:03 -0500,"['/t/devops', '/t/virtualization']",Configure Before You Boot,https://blog.engineyard.com/2014/configure-before-you-boot,/u/nslater,1
-7,2014-03-18 07:48:47 -0500,['/t/meta'],/recent breaks my lobsters workflow,/s/khaj4t/recent_breaks_my_lobsters_workflow,/u/moses,5
-2,2014-03-18 14:15:54 -0500,['/t/culture'],The Don't Ask Me About It License,https://github.com/nslater/DAMAIL,/u/nslater,2
-0,2014-03-17 15:53:23 -0500,"['/t/security', '/t/unix']",How I got root with Sudo,https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/,/u/jcs,15
-7,2014-03-17 07:37:03 -0500,"['/t/distributed', '/t/privacy']","Syncthing replaces Dropbox and BitTorrent Sync with something open, trustworthy and decentralized.",http://syncthing.net/,/u/alek,27
-0,2014-03-18 10:21:32 -0500,"['/t/release', '/t/web']",Angular 2.0,http://blog.angularjs.org/2014/03/angular-20.html,/u/tobym,1
-0,2014-03-18 10:02:19 -0500,"['/t/ios', '/t/mobile', '/t/ruby', '/t/web']",What I learnt going from Rails development to iOS.,http://callumj.com/post/79866627645/what-ive-learnt-about-ios-development-as-a-rails,/u/callumj,1
-2,2014-03-17 13:57:44 -0500,"['/t/compsci', '/t/programming']",facebook/pfff,https://github.com/facebook/pfff/wiki/Main,/u/tobym,11
-0,2014-03-18 08:44:22 -0500,"['/t/design', '/t/javascript', '/t/web']",Why Adapters and Facades are Awesome,http://www.joezimjs.com/javascript/adapters-facades-awesome/,/u/joezimjs,1
-2,2014-03-17 17:42:39 -0500,['/t/windows'],Improve command prompt experience on windows,http://schatekar.blogspot.co.uk/2014/03/improve-command-prompt-experience-on.html,/u/suhaschatekar,4
-1,2014-03-17 12:10:08 -0500,['/t/science'],Gravity Waves from Big Bang Detected,http://www.scientificamerican.com/article/gravity-waves-cmb-b-mode-polarization/,/u/eb,9
-1,2014-03-17 14:03:47 -0500,"['/t/haskell', '/t/programming']",An Introduction to Recursion Schemes and Codata,http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/,/u/aphyr,6
-16,2014-03-17 13:01:33 -0500,['/t/ask'],What are you working on this week?,/s/rtm2ue/what_are_you_working_on_this_week,/u/conroy,13
-0,2014-03-17 07:18:18 -0500,"['/t/lisp', '/t/programming']",Stack Representation and Changes in Guile,http://wingolog.org/archives/2014/03/17/stack-overflow,/u/BruceM,12
-1,2014-03-17 02:19:47 -0500,"['/t/haskell', '/t/programming']",Functional Programming Course,https://github.com/tonymorris/course,/u/tobym,12
-0,2014-03-17 11:15:05 -0500,['/t/programming'],Replacing Make with Ninja,http://jpospisil.com/2014/03/16/replacing-make-with-ninja.html,/u/JiriPospisil,4
+0,2014-03-18 18:25:11 -0500,/t/databases,MySQL Fabric – adding High Availability to MySQL,http://www.clusterdb.com/mysql-fabric/mysql-fabric-adding-high-availability-to-mysql,/u/tobym,3
+0,2014-03-19 01:00:21 -0500,"/t/games,/t/programming",PowerVR GR6500: ray tracing is the future… and the future is now,http://blog.imgtec.com/powervr-developers/powervr-gr6500-ray-tracing,/u/penberg,1
+8,2014-03-17 15:02:41 -0500,"/t/show,/t/javascript",JavaScript sheet music renderer synced with audio,http://www.soundslice.com/v2/auld-lang-syne/,/u/adrian,28
+0,2014-03-18 15:10:45 -0500,/t/javascript,Creating Modular View Components with React and Grunt,http://flippinawesome.org/2014/03/17/creating-modular-view-components-with-react-and-grunt/,/u/remotesynth,2
+0,2014-03-18 17:43:07 -0500,"/t/javascript,/t/web",Node.js + Backbone = wearther,http://blog.wearther.cc/2014/03/19/nodejs-+-backbone-=-wearther/,/u/gantengx,1
+0,2014-03-18 11:53:49 -0500,"/t/compsci,/t/ipv6",internetworking with TCP/IP (MOOC),http://openhpi.de/course/internetworking2014,/u/cvsekhar,2
+5,2014-03-17 12:35:22 -0500,/t/programming,"Why OCaml, why now?",http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/,/u/mattk,18
+0,2014-03-18 13:48:29 -0500,"/t/java,/t/release",Java SE Development Kit 8 - Downloads,http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html,/u/tobym,1
+4,2014-03-18 04:45:42 -0500,"/t/api,/t/web",OpenWeatherMap free weather API,http://openweathermap.org/API,/u/napolux,2
+0,2014-03-18 13:17:03 -0500,"/t/devops,/t/virtualization",Configure Before You Boot,https://blog.engineyard.com/2014/configure-before-you-boot,/u/nslater,1
+7,2014-03-18 07:48:47 -0500,/t/meta,/recent breaks my lobsters workflow,/s/khaj4t/recent_breaks_my_lobsters_workflow,/u/moses,5
+2,2014-03-18 14:15:54 -0500,/t/culture,The Don't Ask Me About It License,https://github.com/nslater/DAMAIL,/u/nslater,2
+0,2014-03-17 15:53:23 -0500,"/t/security,/t/unix",How I got root with Sudo,https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/,/u/jcs,15
+7,2014-03-17 07:37:03 -0500,"/t/distributed,/t/privacy","Syncthing replaces Dropbox and BitTorrent Sync with something open, trustworthy and decentralized.",http://syncthing.net/,/u/alek,27
+0,2014-03-18 10:21:32 -0500,"/t/release,/t/web",Angular 2.0,http://blog.angularjs.org/2014/03/angular-20.html,/u/tobym,1
+0,2014-03-18 10:02:19 -0500,"/t/ios,/t/mobile,/t/ruby,/t/web",What I learnt going from Rails development to iOS.,http://callumj.com/post/79866627645/what-ive-learnt-about-ios-development-as-a-rails,/u/callumj,1
+2,2014-03-17 13:57:44 -0500,"/t/compsci,/t/programming",facebook/pfff,https://github.com/facebook/pfff/wiki/Main,/u/tobym,11
+0,2014-03-18 08:44:22 -0500,"/t/design,/t/javascript,/t/web",Why Adapters and Facades are Awesome,http://www.joezimjs.com/javascript/adapters-facades-awesome/,/u/joezimjs,1
+2,2014-03-17 17:42:39 -0500,/t/windows,Improve command prompt experience on windows,http://schatekar.blogspot.co.uk/2014/03/improve-command-prompt-experience-on.html,/u/suhaschatekar,4
+1,2014-03-17 12:10:08 -0500,/t/science,Gravity Waves from Big Bang Detected,http://www.scientificamerican.com/article/gravity-waves-cmb-b-mode-polarization/,/u/eb,9
+1,2014-03-17 14:03:47 -0500,"/t/haskell,/t/programming",An Introduction to Recursion Schemes and Codata,http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/,/u/aphyr,6
+16,2014-03-17 13:01:33 -0500,/t/ask,What are you working on this week?,/s/rtm2ue/what_are_you_working_on_this_week,/u/conroy,13
+0,2014-03-17 07:18:18 -0500,"/t/lisp,/t/programming",Stack Representation and Changes in Guile,http://wingolog.org/archives/2014/03/17/stack-overflow,/u/BruceM,12
+1,2014-03-17 02:19:47 -0500,"/t/haskell,/t/programming",Functional Programming Course,https://github.com/tonymorris/course,/u/tobym,12
+0,2014-03-17 11:15:05 -0500,/t/programming,Replacing Make with Ninja,http://jpospisil.com/2014/03/16/replacing-make-with-ninja.html,/u/JiriPospisil,4

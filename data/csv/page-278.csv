@@ -1,25 +1,25 @@
-8,2017-07-22 10:14:43 -0500,['/t/testing'],ShellCheck – shell script analysis tool,https://www.shellcheck.net/,/u/azdle,36
-10,2017-07-22 14:40:00 -0500,['/t/browsers'],Firefox Focus for Android Hits 1M Downloads! Today We’re Launching Three New User-Requested Features,https://blog.mozilla.org/blog/2017/07/20/firefox-focus-android-hits-one-million-downloads-today-launching-three-new-user-requested-features/,/u/st3fan,15
-0,2017-07-22 19:47:23 -0500,"['/t/book', '/t/practices']","Reading through ""Software Engineering Essentialized"", Part I",http://wozniak.ca/blog/2017/07/22/Reading-through-Software-Engineering-Essentialized-Part-I/index.html,/u/GeoffWozniak,8
-1,2017-07-23 06:38:57 -0500,"['/t/hardware', '/t/networking', '/t/performance', '/t/science']",Kumu Preps Full Duplex Chip,http://www.eetimes.com/document.asp?doc_id=1332045,/u/stsp,3
-53,2017-07-21 20:32:15 -0500,['/t/compsci'],What are covariance and contravariance?,https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance,/u/stepchowfun,36
-2,2017-07-22 12:42:19 -0500,['/t/emacs'],Eschewing Zshell for Emacs Shell,http://www.howardism.org/Technical/Emacs/eshell-fun.html,/u/st3fan,14
-0,2017-07-23 03:16:23 -0500,['/t/graphics'],Animation Compression: Advanced Quantization,http://nfrechette.github.io/2017/03/12/anim_compression_advanced_quantization/,/u/mikejsavage,3
-23,2017-07-22 04:55:42 -0500,['/t/go'],Should Go 2.0 support generics?,https://dave.cheney.net/2017/07/22/should-go-2-0-support-generics,/u/luisonthekeyboard,17
-0,2017-07-22 19:27:18 -0500,['/t/ruby'],Hacking content_for to create a simple display helper,https://blog.driftingruby.com/hacking-content_for-to-create-a-simple-display-helper/,/u/kobaltz,3
-0,2017-07-22 17:11:25 -0500,['/t/dotnet'],What we’ve learned from .NET Core SDK Telemetry,https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/,/u/calvin,7
-4,2017-07-22 14:33:58 -0500,['/t/programming'],The Top Programming Languages 2017,http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017,/u/fcbsd,4
-1,2017-07-22 09:03:08 -0500,"['/t/satire', '/t/security', '/t/systemd']","systemd is taking our jobs (GitHub, 2037)",https://twitter.com/0xdade/status/888450920337387520,/u/cnst,27
-0,2017-07-22 05:59:36 -0500,['/t/networking'],IPv6 anycast possibly done better,https://blog.benjojo.co.uk/post/ipv6-backing-anycast-possibly-better,/u/benjojo,10
-18,2017-07-21 21:06:05 -0500,"['/t/event', '/t/programming']",Moonconf: Functional programming and community!,https://www.indiegogo.com/projects/moonconf-functional-programming-and-community-technology--2#/,/u/hannahhoward,10
-2,2017-07-22 06:38:06 -0500,['/t/person'],"10,000 Hours With Claude Shannon: How A Genius Thinks, Works, and Lives",https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f,/u/calvin,11
-2,2017-07-22 03:02:41 -0500,"['/t/show', '/t/vcs']",Simple and efficient way to delete remote merged branches from git repository.,https://github.com/hyperia-sk/remote-branch-housekeeping,/u/arzzen,6
-1,2017-07-21 21:46:41 -0500,['/t/programming'],Back In My Day We Bolded Letters By Hand!,https://corvuscrypto.com/posts/back-in-my-day,/u/calvin,28
-0,2017-07-22 14:58:41 -0500,['/t/hardware'],"Wi-Vi, a system which uses low-power Wi-Fi signals and can track moving humans",http://news.mit.edu/2013/new-system-uses-low-power-wi-fi-signal-to-track-moving-humans-0628,/u/joulejunkie,3
-0,2017-07-22 12:21:51 -0500,"['/t/games', '/t/math']",Ratings and Champion Skill,https://www.thebettermeta.com/posts/2017/07/20/ratings/,/u/apg,4
-4,2017-07-22 06:21:45 -0500,"['/t/freebsd', '/t/practices', '/t/vcs']",Review of FreeBSD's Subversion primer,https://svn.haxx.se/users/archive-2017-07/0082.shtml,/u/stsp,2
-0,2017-07-22 02:03:38 -0500,"['/t/linux', '/t/networking']",Increase your Linux server Internet speed with TCP BBR congestion control,https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/,/u/nh,11
-3,2017-07-22 07:55:33 -0500,['/t/culture'],Why Good People Leave Large Tech Companies,https://thinkgrowth.org/why-good-people-leave-large-tech-companies-af2b6fea4ee,/u/pizzaiolo,9
-22,2017-07-21 01:27:42 -0500,"['/t/release', '/t/rust']",Announcing Rust 1.19 - The Rust Programming Language Blog,http://blog.rust-lang.org/2017/07/20/Rust-1.19.html,/u/twk,54
-10,2017-07-21 08:14:52 -0500,['/t/practices'],Incremental results beat incremental deliverables,https://codewithoutrules.com/2017/07/21/large-software-projects/,/u/itamarst,11
-4,2017-07-21 10:31:38 -0500,"['/t/video', '/t/c', '/t/freebsd']",Re-Writing BSD 4.4 Shell Commands: mkdir,https://www.youtube.com/watch?v=t96qYd4OUBM,/u/litonico,13
+8,2017-07-22 10:14:43 -0500,/t/testing,ShellCheck – shell script analysis tool,https://www.shellcheck.net/,/u/azdle,36
+10,2017-07-22 14:40:00 -0500,/t/browsers,Firefox Focus for Android Hits 1M Downloads! Today We’re Launching Three New User-Requested Features,https://blog.mozilla.org/blog/2017/07/20/firefox-focus-android-hits-one-million-downloads-today-launching-three-new-user-requested-features/,/u/st3fan,15
+0,2017-07-22 19:47:23 -0500,"/t/book,/t/practices","Reading through ""Software Engineering Essentialized"", Part I",http://wozniak.ca/blog/2017/07/22/Reading-through-Software-Engineering-Essentialized-Part-I/index.html,/u/GeoffWozniak,8
+1,2017-07-23 06:38:57 -0500,"/t/hardware,/t/networking,/t/performance,/t/science",Kumu Preps Full Duplex Chip,http://www.eetimes.com/document.asp?doc_id=1332045,/u/stsp,3
+53,2017-07-21 20:32:15 -0500,/t/compsci,What are covariance and contravariance?,https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance,/u/stepchowfun,36
+2,2017-07-22 12:42:19 -0500,/t/emacs,Eschewing Zshell for Emacs Shell,http://www.howardism.org/Technical/Emacs/eshell-fun.html,/u/st3fan,14
+0,2017-07-23 03:16:23 -0500,/t/graphics,Animation Compression: Advanced Quantization,http://nfrechette.github.io/2017/03/12/anim_compression_advanced_quantization/,/u/mikejsavage,3
+23,2017-07-22 04:55:42 -0500,/t/go,Should Go 2.0 support generics?,https://dave.cheney.net/2017/07/22/should-go-2-0-support-generics,/u/luisonthekeyboard,17
+0,2017-07-22 19:27:18 -0500,/t/ruby,Hacking content_for to create a simple display helper,https://blog.driftingruby.com/hacking-content_for-to-create-a-simple-display-helper/,/u/kobaltz,3
+0,2017-07-22 17:11:25 -0500,/t/dotnet,What we’ve learned from .NET Core SDK Telemetry,https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/,/u/calvin,7
+4,2017-07-22 14:33:58 -0500,/t/programming,The Top Programming Languages 2017,http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017,/u/fcbsd,4
+1,2017-07-22 09:03:08 -0500,"/t/satire,/t/security,/t/systemd","systemd is taking our jobs (GitHub, 2037)",https://twitter.com/0xdade/status/888450920337387520,/u/cnst,27
+0,2017-07-22 05:59:36 -0500,/t/networking,IPv6 anycast possibly done better,https://blog.benjojo.co.uk/post/ipv6-backing-anycast-possibly-better,/u/benjojo,10
+18,2017-07-21 21:06:05 -0500,"/t/event,/t/programming",Moonconf: Functional programming and community!,https://www.indiegogo.com/projects/moonconf-functional-programming-and-community-technology--2#/,/u/hannahhoward,10
+2,2017-07-22 06:38:06 -0500,/t/person,"10,000 Hours With Claude Shannon: How A Genius Thinks, Works, and Lives",https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f,/u/calvin,11
+2,2017-07-22 03:02:41 -0500,"/t/show,/t/vcs",Simple and efficient way to delete remote merged branches from git repository.,https://github.com/hyperia-sk/remote-branch-housekeeping,/u/arzzen,6
+1,2017-07-21 21:46:41 -0500,/t/programming,Back In My Day We Bolded Letters By Hand!,https://corvuscrypto.com/posts/back-in-my-day,/u/calvin,28
+0,2017-07-22 14:58:41 -0500,/t/hardware,"Wi-Vi, a system which uses low-power Wi-Fi signals and can track moving humans",http://news.mit.edu/2013/new-system-uses-low-power-wi-fi-signal-to-track-moving-humans-0628,/u/joulejunkie,3
+0,2017-07-22 12:21:51 -0500,"/t/games,/t/math",Ratings and Champion Skill,https://www.thebettermeta.com/posts/2017/07/20/ratings/,/u/apg,4
+4,2017-07-22 06:21:45 -0500,"/t/freebsd,/t/practices,/t/vcs",Review of FreeBSD's Subversion primer,https://svn.haxx.se/users/archive-2017-07/0082.shtml,/u/stsp,2
+0,2017-07-22 02:03:38 -0500,"/t/linux,/t/networking",Increase your Linux server Internet speed with TCP BBR congestion control,https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/,/u/nh,11
+3,2017-07-22 07:55:33 -0500,/t/culture,Why Good People Leave Large Tech Companies,https://thinkgrowth.org/why-good-people-leave-large-tech-companies-af2b6fea4ee,/u/pizzaiolo,9
+22,2017-07-21 01:27:42 -0500,"/t/release,/t/rust",Announcing Rust 1.19 - The Rust Programming Language Blog,http://blog.rust-lang.org/2017/07/20/Rust-1.19.html,/u/twk,54
+10,2017-07-21 08:14:52 -0500,/t/practices,Incremental results beat incremental deliverables,https://codewithoutrules.com/2017/07/21/large-software-projects/,/u/itamarst,11
+4,2017-07-21 10:31:38 -0500,"/t/video,/t/c,/t/freebsd",Re-Writing BSD 4.4 Shell Commands: mkdir,https://www.youtube.com/watch?v=t96qYd4OUBM,/u/litonico,13

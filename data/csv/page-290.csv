@@ -1,25 +1,25 @@
-1,2017-07-13 20:38:45 -0500,['/t/web'],EFF Officially Appeals Tim Berners-Lee Decision On DRM In HTML,https://www.techdirt.com/articles/20170712/10262037770/eff-officially-appeals-tim-berners-lee-decision-drm-html.shtml,/u/pizzaiolo,25
-0,2017-07-14 11:00:21 -0500,"['/t/book', '/t/practices']",books chapter four,http://www.tedunangst.com/flak/post/books-chapter-four,/u/calvin,5
-2,2017-07-14 08:07:26 -0500,"['/t/programming', '/t/ruby']",Working with UUIDs in Rails,https://www.dailydrip.com/blog/working-with-uuids-in-rails.html,/u/franzunix,2
-1,2017-07-14 12:36:31 -0500,"['/t/finance', '/t/python']",Python For Finance: Algorithmic Trading,https://www.datacamp.com/community/tutorials/finance-python-trading,/u/pushcx,3
-8,2017-07-13 12:34:18 -0500,['/t/go'],Toward Go 2 - The Go Blog,https://blog.golang.org/toward-go2,/u/av,39
-1,2017-07-14 08:03:02 -0500,"['/t/programming', '/t/satire']","A Brief, Incomplete, and Mostly Wrong History of Programming Languages",http://james-iry.blogspot.in/2009/05/brief-incomplete-and-mostly-wrong.html,/u/av,12
-0,2017-07-14 14:50:58 -0500,"['/t/ai', '/t/privacy']","Google: ""Goggles Does NOT Do Face Recognition"" (2010)",http://spectrum.ieee.org/tech-talk/consumer-electronics/portable-devices/google-goggles-does-not-do-face-recognition,/u/andrewballinger,2
-15,2017-07-13 12:27:44 -0500,['/t/vcs'],GitUp — Open Source Interactive GIT Interface,https://github.com/git-up/GitUp,/u/xfbs,19
-0,2017-07-14 12:39:29 -0500,['/t/ruby'],How to convert a Ruby primitive to a custom domain object in two minutes,https://www.rubysteps.com/articles/2017/how-to-convert-a-ruby-primitive-to-a-domain-object-in-two-minutes/,/u/pushcx,2
-0,2017-07-14 12:38:27 -0500,"['/t/haskell', '/t/web']",Assume It Worked and Fix Later,https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3,/u/pushcx,2
-6,2017-07-13 15:17:07 -0500,['/t/programming'],Should we always design software with lists of things in mind?,https://ecc-comp.blogspot.com/2017/07/should-we-always-design-software-with.html,/u/indirection,7
-1,2017-07-14 10:14:45 -0500,['/t/cryptocurrencies'],The Ceremony,http://www.radiolab.org/story/ceremony/,/u/feoh,2
-0,2017-07-13 15:02:04 -0500,"['/t/design', '/t/law']","'Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM",https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm,/u/calvin,17
-0,2017-07-13 17:01:34 -0500,['/t/javascript'],Building a minimal single page application with Vue.js + Webpack,https://roussos.cc/2017/07/10/vuejs-webpack/,/u/comzeradd,7
-7,2017-07-13 10:46:01 -0500,['/t/compsci'],The language of choice,https://codewords.recurse.com/issues/four/the-language-of-choice,/u/pushcx,15
-0,2017-07-13 21:15:16 -0500,['/t/javascript'],Promises as Values,http://blog.drewolson.org/promises-as-values/,/u/kGb8RNFtg6,4
-1,2017-07-13 10:00:34 -0500,"['/t/education', '/t/math']",The Lost Art of Square Roots,https://medium.com/i-math/how-to-find-square-roots-by-hand-f3f7cadf94bb,/u/friendlysock,19
-55,2017-07-12 21:31:59 -0500,"['/t/ask', '/t/programming']",What's the most interesting thing you've seen done with dynamic typing?,/s/cdqzi2/what_s_most_interesting_thing_you_ve_seen,/u/hwayne,42
-0,2017-07-13 15:30:20 -0500,['/t/event'],freenode #live - Registration and CFP now open,https://freenode.net/news/freenode-live,/u/kline,6
-3,2017-07-13 11:57:57 -0500,['/t/openbsd'],OpenSMTPD and Dovecot under OpenBSD with MySQL support and SPAMD,https://blog.cagedmonster.net/opensmtpd-and-dovecot-under-openbsd-with-mysql-support-and-spamd/,/u/quobit,11
-7,2017-07-13 13:53:01 -0500,"['/t/video', '/t/graphics', '/t/javascript']",p5.js Interactive Demo,http://hello.p5js.org/,/u/gandro,6
-0,2017-07-14 07:42:24 -0500,"['/t/programming', '/t/ruby']",Three Database Architectures for a Multi-Tenant Rails-Based SaaS App,https://rubygarage.org/blog/three-database-architectures-for-a-multi-tenant-rails-based-saas-app,/u/volodymyr_vorobiov,1
-1,2017-07-13 21:03:45 -0500,"['/t/crypto', '/t/php']","It Turns Out, 2017 is the Year of Simply Secure PHP Cryptography",https://paragonie.com/blog/2017/07/it-turns-out-2017-is-year-simply-secure-php-cryptography,/u/pushcx,4
-3,2017-07-13 08:04:15 -0500,"['/t/elm', '/t/javascript', '/t/web']",Alternative View Layers for an Elm App,https://robots.thoughtbot.com/elm-glimmer,/u/pablobm,8
-0,2017-07-14 06:17:54 -0500,"['/t/slides', '/t/compsci', '/t/culture', '/t/programming']",Importance of Effort Estimation and how to get good at it,http://thecodeartist.blogspot.com/2017/04/effort-estimation.html,/u/TheCodeArtist,1
+1,2017-07-13 20:38:45 -0500,/t/web,EFF Officially Appeals Tim Berners-Lee Decision On DRM In HTML,https://www.techdirt.com/articles/20170712/10262037770/eff-officially-appeals-tim-berners-lee-decision-drm-html.shtml,/u/pizzaiolo,25
+0,2017-07-14 11:00:21 -0500,"/t/book,/t/practices",books chapter four,http://www.tedunangst.com/flak/post/books-chapter-four,/u/calvin,5
+2,2017-07-14 08:07:26 -0500,"/t/programming,/t/ruby",Working with UUIDs in Rails,https://www.dailydrip.com/blog/working-with-uuids-in-rails.html,/u/franzunix,2
+1,2017-07-14 12:36:31 -0500,"/t/finance,/t/python",Python For Finance: Algorithmic Trading,https://www.datacamp.com/community/tutorials/finance-python-trading,/u/pushcx,3
+8,2017-07-13 12:34:18 -0500,/t/go,Toward Go 2 - The Go Blog,https://blog.golang.org/toward-go2,/u/av,39
+1,2017-07-14 08:03:02 -0500,"/t/programming,/t/satire","A Brief, Incomplete, and Mostly Wrong History of Programming Languages",http://james-iry.blogspot.in/2009/05/brief-incomplete-and-mostly-wrong.html,/u/av,12
+0,2017-07-14 14:50:58 -0500,"/t/ai,/t/privacy","Google: ""Goggles Does NOT Do Face Recognition"" (2010)",http://spectrum.ieee.org/tech-talk/consumer-electronics/portable-devices/google-goggles-does-not-do-face-recognition,/u/andrewballinger,2
+15,2017-07-13 12:27:44 -0500,/t/vcs,GitUp — Open Source Interactive GIT Interface,https://github.com/git-up/GitUp,/u/xfbs,19
+0,2017-07-14 12:39:29 -0500,/t/ruby,How to convert a Ruby primitive to a custom domain object in two minutes,https://www.rubysteps.com/articles/2017/how-to-convert-a-ruby-primitive-to-a-domain-object-in-two-minutes/,/u/pushcx,2
+0,2017-07-14 12:38:27 -0500,"/t/haskell,/t/web",Assume It Worked and Fix Later,https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3,/u/pushcx,2
+6,2017-07-13 15:17:07 -0500,/t/programming,Should we always design software with lists of things in mind?,https://ecc-comp.blogspot.com/2017/07/should-we-always-design-software-with.html,/u/indirection,7
+1,2017-07-14 10:14:45 -0500,/t/cryptocurrencies,The Ceremony,http://www.radiolab.org/story/ceremony/,/u/feoh,2
+0,2017-07-13 15:02:04 -0500,"/t/design,/t/law","'Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM",https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm,/u/calvin,17
+0,2017-07-13 17:01:34 -0500,/t/javascript,Building a minimal single page application with Vue.js + Webpack,https://roussos.cc/2017/07/10/vuejs-webpack/,/u/comzeradd,7
+7,2017-07-13 10:46:01 -0500,/t/compsci,The language of choice,https://codewords.recurse.com/issues/four/the-language-of-choice,/u/pushcx,15
+0,2017-07-13 21:15:16 -0500,/t/javascript,Promises as Values,http://blog.drewolson.org/promises-as-values/,/u/kGb8RNFtg6,4
+1,2017-07-13 10:00:34 -0500,"/t/education,/t/math",The Lost Art of Square Roots,https://medium.com/i-math/how-to-find-square-roots-by-hand-f3f7cadf94bb,/u/friendlysock,19
+55,2017-07-12 21:31:59 -0500,"/t/ask,/t/programming",What's the most interesting thing you've seen done with dynamic typing?,/s/cdqzi2/what_s_most_interesting_thing_you_ve_seen,/u/hwayne,42
+0,2017-07-13 15:30:20 -0500,/t/event,freenode #live - Registration and CFP now open,https://freenode.net/news/freenode-live,/u/kline,6
+3,2017-07-13 11:57:57 -0500,/t/openbsd,OpenSMTPD and Dovecot under OpenBSD with MySQL support and SPAMD,https://blog.cagedmonster.net/opensmtpd-and-dovecot-under-openbsd-with-mysql-support-and-spamd/,/u/quobit,11
+7,2017-07-13 13:53:01 -0500,"/t/video,/t/graphics,/t/javascript",p5.js Interactive Demo,http://hello.p5js.org/,/u/gandro,6
+0,2017-07-14 07:42:24 -0500,"/t/programming,/t/ruby",Three Database Architectures for a Multi-Tenant Rails-Based SaaS App,https://rubygarage.org/blog/three-database-architectures-for-a-multi-tenant-rails-based-saas-app,/u/volodymyr_vorobiov,1
+1,2017-07-13 21:03:45 -0500,"/t/crypto,/t/php","It Turns Out, 2017 is the Year of Simply Secure PHP Cryptography",https://paragonie.com/blog/2017/07/it-turns-out-2017-is-year-simply-secure-php-cryptography,/u/pushcx,4
+3,2017-07-13 08:04:15 -0500,"/t/elm,/t/javascript,/t/web",Alternative View Layers for an Elm App,https://robots.thoughtbot.com/elm-glimmer,/u/pablobm,8
+0,2017-07-14 06:17:54 -0500,"/t/slides,/t/compsci,/t/culture,/t/programming",Importance of Effort Estimation and how to get good at it,http://thecodeartist.blogspot.com/2017/04/effort-estimation.html,/u/TheCodeArtist,1

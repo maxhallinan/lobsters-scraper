@@ -1,25 +1,25 @@
-0,2014-04-16 02:35:04 -0500,"['/t/compsci', '/t/programming', '/t/security']",A Boring Article About a Check of the OpenSSL Project,http://www.viva64.com/en/b/0250/,/u/codeon1,7
-8,2014-04-15 11:49:56 -0500,"['/t/devops', '/t/programming']",DevOps is killing the developer,http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/,/u/zmcartor,15
-0,2014-04-16 12:57:42 -0500,"['/t/video', '/t/programming']",Superhero Monads,http://functionaltalks.org/2013/07/03/katie-miller-superhero-monads/,/u/SeanTAllen,1
-0,2014-04-16 08:33:39 -0500,['/t/distributed'],Shuffle Sharding: massive and magical fault isolation,http://www.awsarchitectureblog.com/2014/04/shuffle-sharding.html,/u/motter,2
-3,2014-04-15 12:55:45 -0500,"['/t/pdf', '/t/assembly', '/t/compsci']",Coq: The World's Best Macro Assembler? (Microsoft Research),http://research.microsoft.com/en-us/um/people/nick/coqasm.pdf,/u/GrayGnome,14
-31,2014-04-14 15:15:17 -0500,"['/t/openbsd', '/t/security']",OpenBSD has started a massive strip-down and cleanup of OpenSSL,http://www.openbsd.org/cgi-bin/cvsweb/src/lib/libssl/src/ssl/,/u/jcs,120
-0,2014-04-15 11:44:34 -0500,"['/t/elm', '/t/haskell', '/t/javascript', '/t/web']",Elm's Time Traveling Debugger,http://debug.elm-lang.org/,/u/jamesmacaulay,15
-0,2014-04-15 10:57:36 -0500,"['/t/compsci', '/t/lisp', '/t/programming']",Dylan 2016: Evolving Dylan,https://lists.opendylan.org/pipermail/hackers/2014-April/007032.html,/u/BruceM,16
-3,2014-04-15 04:32:05 -0500,"['/t/compsci', '/t/programming']",Beej's Guide to Network Programming,http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html,/u/codeon1,22
-0,2014-04-15 12:59:16 -0500,"['/t/devops', '/t/release']",Packer - A tool for creating identical machine images for multiple platforms,http://www.packer.io/,/u/GrayGnome,10
-0,2014-04-15 17:14:50 -0500,"['/t/hardware', '/t/haskell']",CLaSH: a functional hardware description language,http://hackage.haskell.org/package/clash-prelude-0.5/docs/CLaSH-Tutorial.html,/u/kellogh,5
-0,2014-04-15 14:13:34 -0500,"['/t/compsci', '/t/programming']",Introduction to A*,http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html,/u/codeon1,7
-0,2014-04-16 03:22:58 -0500,"['/t/databases', '/t/lisp', '/t/release']",Datomic chosen over Neo4J for Kevin-Bacon arbitrary-depth graph searches,http://hashrocket.com/blog/posts/using-datomic-as-a-graph-database,/u/juliangamble,1
-4,2014-04-15 08:19:59 -0500,"['/t/android', '/t/ios', '/t/mobile']",Is cards UI the future of mobile?,http://blogs.telerik.com/blogs/14-04-15/is-cards-ui-the-future-of-mobile,/u/pakostina,5
-1,2014-04-15 14:23:00 -0500,"['/t/show', '/t/release', '/t/security']",Safe: Free Easy File System Encryption,http://www.getsafe.org/about,/u/rian,4
-1,2014-04-15 04:36:25 -0500,['/t/security'],TrueCrypt audit finds “no evidence of backdoors” or malicious code,http://arstechnica.com/security/2014/04/truecrypt-audit-finds-no-evidence-of-backdoors-or-malicious-code/,/u/TuxLyn,13
-9,2014-04-14 18:55:43 -0500,"['/t/haskell', '/t/lisp', '/t/programming']",A Haskell programmer's enthusiastic foray into Racket,http://artyom.me/learning-racket-1,/u/zem,21
-2,2014-04-15 09:53:08 -0500,['/t/javascript'],Object Equality in JavaScript,http://designpepper.com/blog/drips/object-equality-in-javascript.html,/u/joshuacc,4
-4,2014-04-14 16:10:18 -0500,"['/t/c', '/t/networking', '/t/security']",Please Put OpenSSL Out of Its Misery,http://queue.acm.org/detail.cfm?id=2602816,/u/robey,27
-1,2014-04-15 14:12:08 -0500,['/t/linux'],PASSWD Command Usage in Linux Explained With Examples,http://www.coolcoder.in/2014/04/passwd-command-usage-explained-with.html,/u/codeon1,1
-3,2014-04-14 17:40:33 -0500,"['/t/assembly', '/t/c']",Kernel 101 – Let’s write a Kernel,http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel,/u/zhemao,21
-0,2014-04-15 15:31:41 -0500,"['/t/javascript', '/t/programming']",JavaScript 101 — again,https://medium.com/code-adventures/6f5c3de74165,/u/mikemaccana,1
-0,2014-04-15 02:31:02 -0500,['/t/devops'],Building Your First App on CoreOS: Start to Finish,http://www.centurylinklabs.com/building-your-first-app-on-coreos/,/u/cardmagic,6
-0,2014-04-14 20:14:52 -0500,['/t/compsci'],"K-ary heapsort: more comparisons, less memory traffic",http://techblog.appnexus.com/2014/k-ary-heapsort-more-comparisons-less-memory-traffic/,/u/whbboyd,10
-0,2014-04-15 12:16:39 -0500,"['/t/philosophy', '/t/practices', '/t/security']",The Structure of Security Software Organizations,http://rz.github.io/articles/2014/apr/security-orgs.html,/u/rz,1
+0,2014-04-16 02:35:04 -0500,"/t/compsci,/t/programming,/t/security",A Boring Article About a Check of the OpenSSL Project,http://www.viva64.com/en/b/0250/,/u/codeon1,7
+8,2014-04-15 11:49:56 -0500,"/t/devops,/t/programming",DevOps is killing the developer,http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/,/u/zmcartor,15
+0,2014-04-16 12:57:42 -0500,"/t/video,/t/programming",Superhero Monads,http://functionaltalks.org/2013/07/03/katie-miller-superhero-monads/,/u/SeanTAllen,1
+0,2014-04-16 08:33:39 -0500,/t/distributed,Shuffle Sharding: massive and magical fault isolation,http://www.awsarchitectureblog.com/2014/04/shuffle-sharding.html,/u/motter,2
+3,2014-04-15 12:55:45 -0500,"/t/pdf,/t/assembly,/t/compsci",Coq: The World's Best Macro Assembler? (Microsoft Research),http://research.microsoft.com/en-us/um/people/nick/coqasm.pdf,/u/GrayGnome,14
+31,2014-04-14 15:15:17 -0500,"/t/openbsd,/t/security",OpenBSD has started a massive strip-down and cleanup of OpenSSL,http://www.openbsd.org/cgi-bin/cvsweb/src/lib/libssl/src/ssl/,/u/jcs,120
+0,2014-04-15 11:44:34 -0500,"/t/elm,/t/haskell,/t/javascript,/t/web",Elm's Time Traveling Debugger,http://debug.elm-lang.org/,/u/jamesmacaulay,15
+0,2014-04-15 10:57:36 -0500,"/t/compsci,/t/lisp,/t/programming",Dylan 2016: Evolving Dylan,https://lists.opendylan.org/pipermail/hackers/2014-April/007032.html,/u/BruceM,16
+3,2014-04-15 04:32:05 -0500,"/t/compsci,/t/programming",Beej's Guide to Network Programming,http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html,/u/codeon1,22
+0,2014-04-15 12:59:16 -0500,"/t/devops,/t/release",Packer - A tool for creating identical machine images for multiple platforms,http://www.packer.io/,/u/GrayGnome,10
+0,2014-04-15 17:14:50 -0500,"/t/hardware,/t/haskell",CLaSH: a functional hardware description language,http://hackage.haskell.org/package/clash-prelude-0.5/docs/CLaSH-Tutorial.html,/u/kellogh,5
+0,2014-04-15 14:13:34 -0500,"/t/compsci,/t/programming",Introduction to A*,http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html,/u/codeon1,7
+0,2014-04-16 03:22:58 -0500,"/t/databases,/t/lisp,/t/release",Datomic chosen over Neo4J for Kevin-Bacon arbitrary-depth graph searches,http://hashrocket.com/blog/posts/using-datomic-as-a-graph-database,/u/juliangamble,1
+4,2014-04-15 08:19:59 -0500,"/t/android,/t/ios,/t/mobile",Is cards UI the future of mobile?,http://blogs.telerik.com/blogs/14-04-15/is-cards-ui-the-future-of-mobile,/u/pakostina,5
+1,2014-04-15 14:23:00 -0500,"/t/show,/t/release,/t/security",Safe: Free Easy File System Encryption,http://www.getsafe.org/about,/u/rian,4
+1,2014-04-15 04:36:25 -0500,/t/security,TrueCrypt audit finds “no evidence of backdoors” or malicious code,http://arstechnica.com/security/2014/04/truecrypt-audit-finds-no-evidence-of-backdoors-or-malicious-code/,/u/TuxLyn,13
+9,2014-04-14 18:55:43 -0500,"/t/haskell,/t/lisp,/t/programming",A Haskell programmer's enthusiastic foray into Racket,http://artyom.me/learning-racket-1,/u/zem,21
+2,2014-04-15 09:53:08 -0500,/t/javascript,Object Equality in JavaScript,http://designpepper.com/blog/drips/object-equality-in-javascript.html,/u/joshuacc,4
+4,2014-04-14 16:10:18 -0500,"/t/c,/t/networking,/t/security",Please Put OpenSSL Out of Its Misery,http://queue.acm.org/detail.cfm?id=2602816,/u/robey,27
+1,2014-04-15 14:12:08 -0500,/t/linux,PASSWD Command Usage in Linux Explained With Examples,http://www.coolcoder.in/2014/04/passwd-command-usage-explained-with.html,/u/codeon1,1
+3,2014-04-14 17:40:33 -0500,"/t/assembly,/t/c",Kernel 101 – Let’s write a Kernel,http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel,/u/zhemao,21
+0,2014-04-15 15:31:41 -0500,"/t/javascript,/t/programming",JavaScript 101 — again,https://medium.com/code-adventures/6f5c3de74165,/u/mikemaccana,1
+0,2014-04-15 02:31:02 -0500,/t/devops,Building Your First App on CoreOS: Start to Finish,http://www.centurylinklabs.com/building-your-first-app-on-coreos/,/u/cardmagic,6
+0,2014-04-14 20:14:52 -0500,/t/compsci,"K-ary heapsort: more comparisons, less memory traffic",http://techblog.appnexus.com/2014/k-ary-heapsort-more-comparisons-less-memory-traffic/,/u/whbboyd,10
+0,2014-04-15 12:16:39 -0500,"/t/philosophy,/t/practices,/t/security",The Structure of Security Software Organizations,http://rz.github.io/articles/2014/apr/security-orgs.html,/u/rz,1

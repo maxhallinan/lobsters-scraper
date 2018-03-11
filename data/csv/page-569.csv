@@ -1,25 +1,25 @@
-0,2016-12-12 16:22:20 -0600,['/t/programming'],My 2015 Programming Languages Tool Belt,http://ku1ik.com/2015/03/25/my-2015-programming-languages-tool-belt.html,/u/nil,2
-9,2016-12-11 12:14:38 -0600,['/t/crypto'],PGP Never Gonna Give You Up,https://cpbotha.net/2016/12/11/pgp-never-gonna-give-you-up/,/u/cvoxel,15
-5,2016-12-12 05:03:29 -0600,"['/t/crypto', '/t/satire']","One-end encryption, stronger than end-to-end",https://github.com/veorq/oee,/u/sanxiyn,13
-2,2016-12-11 20:53:37 -0600,"['/t/games', '/t/lua']",Dota 2 bots can now be written in Lua,https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting,/u/calvin,12
-5,2016-12-12 04:53:45 -0600,['/t/programming'],Jolie Programming Language,http://www.jolie-lang.org/,/u/sanxiyn,3
-2,2016-12-11 13:59:19 -0600,"['/t/historical', '/t/mac', '/t/networking', '/t/programming', '/t/python', '/t/unix']",Making getaddrinfo Concurrent in Python On Mac OS and BSD,https://emptysqua.re/blog/getaddrinfo-cpython-mac-and-bsd/,/u/kartik,24
-7,2016-12-11 08:30:31 -0600,"['/t/devops', '/t/distributed', '/t/linux']",Distributed Named Pipes,https://github.com/mhausenblas/dnpipes,/u/mhausenblas,15
-2,2016-12-11 23:01:23 -0600,['/t/math'],How I use Anki to learn mathematics,http://lesswrong.com/lw/o8e/how_i_use_anki_to_learn_mathematics/,/u/av,7
-0,2016-12-12 05:59:45 -0600,['/t/security'],EU budget improves software security with extension of audit programme,https://juliareda.eu/2016/12/eu-budget-extends-security-audit/,/u/stsp,4
-0,2016-12-12 08:13:48 -0600,['/t/go'],Some Tools For Go That You Might Not Know Yet,https://blog.gopheracademy.com/advent-2016/some-tools-for-go-that-you-might-not-know-yet/,/u/av,2
-0,2016-12-12 07:52:40 -0600,"['/t/browsers', '/t/css']",CSS Grid and Grid Highlighter Now in Firefox Developer Edition,https://hacks.mozilla.org/2016/12/css-grid-and-grid-highlighter-now-in-firefox-developer-edition/,/u/flyingfisch,2
-8,2016-12-11 09:46:13 -0600,['/t/javascript'],Why we chose Vue.js over React,http://pixeljets.com/blog/why-we-chose-vuejs-over-react,/u/av,11
-7,2016-12-11 09:04:44 -0600,"['/t/pdf', '/t/cogsci', '/t/programming']",Success in Introductory Programming: What Works?,https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf,/u/ngoldbaum,12
-4,2016-12-11 07:12:51 -0600,['/t/assembly'],Fast Fourier transform in x86 assembly,https://www.nayuki.io/page/fast-fourier-transform-in-x86-assembly,/u/calvin,11
-0,2016-12-12 01:51:33 -0600,"['/t/math', '/t/scala']",The Man Who Knew Infinity: Coding Ramanujan’s Taxi,https://medium.freecodecamp.com/the-man-who-knew-infinity-coding-ramanujans-taxi-52e4c3696e53,/u/av,2
-0,2016-12-11 13:27:39 -0600,"['/t/law', '/t/practices']",One Huge Reason Why Your Contractual Agreement Shouldn’t be a “Work for Hire”,https://blog.craftblue.com/2016/12/work-for-hire-freelance-contractual-agreement/,/u/friendlysock,8
-0,2016-12-11 15:19:06 -0600,['/t/security'],"New Scheme: Spread Popcorn Time Ransomware, get chance of free Decryption Key",https://www.bleepingcomputer.com/news/security/new-scheme-spread-popcorn-time-ransomware-get-chance-of-free-decryption-key/,/u/johnLate,6
-1,2016-12-11 19:26:35 -0600,"['/t/historical', '/t/person', '/t/practices']",A Short History Of The Most Important Economic Theory In Tech,https://www.fastcompany.com/3064681/most-creative-people/most-important-economic-theory-in-technology-brian-arthur,/u/adsouza,2
-5,2016-12-11 12:04:05 -0600,"['/t/javascript', '/t/security', '/t/web']",ADsafe - Making JavaScript Safe for Advertising,http://www.adsafe.org/,/u/nickpsecurity,4
-0,2016-12-11 12:02:26 -0600,"['/t/compilers', '/t/graphics']","Crashes, Hangs and Crazy Images by Adding Zero",https://medium.com/@afd_icl/crashes-hangs-and-crazy-images-by-adding-zero-689d15ce922b,/u/mikejsavage,6
-3,2016-12-11 08:31:28 -0600,"['/t/go', '/t/linux', '/t/mac']","Simple SCSI Target framework, built for performance and density",https://github.com/gostor/gotgt,/u/lei,3
-0,2016-12-11 19:06:23 -0600,"['/t/video', '/t/databases']",How Citus Enables Scalable PostgreSQL on AWS,https://www.youtube.com/watch?v=bl_YYzYRHSI,/u/craigkerstiens,3
-0,2016-12-11 23:58:42 -0600,"['/t/video', '/t/linux']",Install Microsoft SQL Server on a Linux Machine in 5 Minutes,https://www.youtube.com/watch?v=OqsOdUNsO4g,/u/JeremyMorgan,0
-3,2016-12-10 23:54:38 -0600,"['/t/pdf', '/t/games', '/t/practices']",Three States and a Plan: The A.I. of F.E.A.R.,http://alumni.media.mit.edu/~jorkin/gdc2006_orkin_jeff_fear.pdf,/u/friendlysock,15
-1,2016-12-11 10:35:43 -0600,"['/t/pdf', '/t/compsci', '/t/math', '/t/programming']",Model-checking Abstract State Machines (2001),http://staff.itee.uq.edu.au/kirsten/publications/Winter_Kirsten.pdf,/u/nickpsecurity,6
+0,2016-12-12 16:22:20 -0600,/t/programming,My 2015 Programming Languages Tool Belt,http://ku1ik.com/2015/03/25/my-2015-programming-languages-tool-belt.html,/u/nil,2
+9,2016-12-11 12:14:38 -0600,/t/crypto,PGP Never Gonna Give You Up,https://cpbotha.net/2016/12/11/pgp-never-gonna-give-you-up/,/u/cvoxel,15
+5,2016-12-12 05:03:29 -0600,"/t/crypto,/t/satire","One-end encryption, stronger than end-to-end",https://github.com/veorq/oee,/u/sanxiyn,13
+2,2016-12-11 20:53:37 -0600,"/t/games,/t/lua",Dota 2 bots can now be written in Lua,https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting,/u/calvin,12
+5,2016-12-12 04:53:45 -0600,/t/programming,Jolie Programming Language,http://www.jolie-lang.org/,/u/sanxiyn,3
+2,2016-12-11 13:59:19 -0600,"/t/historical,/t/mac,/t/networking,/t/programming,/t/python,/t/unix",Making getaddrinfo Concurrent in Python On Mac OS and BSD,https://emptysqua.re/blog/getaddrinfo-cpython-mac-and-bsd/,/u/kartik,24
+7,2016-12-11 08:30:31 -0600,"/t/devops,/t/distributed,/t/linux",Distributed Named Pipes,https://github.com/mhausenblas/dnpipes,/u/mhausenblas,15
+2,2016-12-11 23:01:23 -0600,/t/math,How I use Anki to learn mathematics,http://lesswrong.com/lw/o8e/how_i_use_anki_to_learn_mathematics/,/u/av,7
+0,2016-12-12 05:59:45 -0600,/t/security,EU budget improves software security with extension of audit programme,https://juliareda.eu/2016/12/eu-budget-extends-security-audit/,/u/stsp,4
+0,2016-12-12 08:13:48 -0600,/t/go,Some Tools For Go That You Might Not Know Yet,https://blog.gopheracademy.com/advent-2016/some-tools-for-go-that-you-might-not-know-yet/,/u/av,2
+0,2016-12-12 07:52:40 -0600,"/t/browsers,/t/css",CSS Grid and Grid Highlighter Now in Firefox Developer Edition,https://hacks.mozilla.org/2016/12/css-grid-and-grid-highlighter-now-in-firefox-developer-edition/,/u/flyingfisch,2
+8,2016-12-11 09:46:13 -0600,/t/javascript,Why we chose Vue.js over React,http://pixeljets.com/blog/why-we-chose-vuejs-over-react,/u/av,11
+7,2016-12-11 09:04:44 -0600,"/t/pdf,/t/cogsci,/t/programming",Success in Introductory Programming: What Works?,https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf,/u/ngoldbaum,12
+4,2016-12-11 07:12:51 -0600,/t/assembly,Fast Fourier transform in x86 assembly,https://www.nayuki.io/page/fast-fourier-transform-in-x86-assembly,/u/calvin,11
+0,2016-12-12 01:51:33 -0600,"/t/math,/t/scala",The Man Who Knew Infinity: Coding Ramanujan’s Taxi,https://medium.freecodecamp.com/the-man-who-knew-infinity-coding-ramanujans-taxi-52e4c3696e53,/u/av,2
+0,2016-12-11 13:27:39 -0600,"/t/law,/t/practices",One Huge Reason Why Your Contractual Agreement Shouldn’t be a “Work for Hire”,https://blog.craftblue.com/2016/12/work-for-hire-freelance-contractual-agreement/,/u/friendlysock,8
+0,2016-12-11 15:19:06 -0600,/t/security,"New Scheme: Spread Popcorn Time Ransomware, get chance of free Decryption Key",https://www.bleepingcomputer.com/news/security/new-scheme-spread-popcorn-time-ransomware-get-chance-of-free-decryption-key/,/u/johnLate,6
+1,2016-12-11 19:26:35 -0600,"/t/historical,/t/person,/t/practices",A Short History Of The Most Important Economic Theory In Tech,https://www.fastcompany.com/3064681/most-creative-people/most-important-economic-theory-in-technology-brian-arthur,/u/adsouza,2
+5,2016-12-11 12:04:05 -0600,"/t/javascript,/t/security,/t/web",ADsafe - Making JavaScript Safe for Advertising,http://www.adsafe.org/,/u/nickpsecurity,4
+0,2016-12-11 12:02:26 -0600,"/t/compilers,/t/graphics","Crashes, Hangs and Crazy Images by Adding Zero",https://medium.com/@afd_icl/crashes-hangs-and-crazy-images-by-adding-zero-689d15ce922b,/u/mikejsavage,6
+3,2016-12-11 08:31:28 -0600,"/t/go,/t/linux,/t/mac","Simple SCSI Target framework, built for performance and density",https://github.com/gostor/gotgt,/u/lei,3
+0,2016-12-11 19:06:23 -0600,"/t/video,/t/databases",How Citus Enables Scalable PostgreSQL on AWS,https://www.youtube.com/watch?v=bl_YYzYRHSI,/u/craigkerstiens,3
+0,2016-12-11 23:58:42 -0600,"/t/video,/t/linux",Install Microsoft SQL Server on a Linux Machine in 5 Minutes,https://www.youtube.com/watch?v=OqsOdUNsO4g,/u/JeremyMorgan,0
+3,2016-12-10 23:54:38 -0600,"/t/pdf,/t/games,/t/practices",Three States and a Plan: The A.I. of F.E.A.R.,http://alumni.media.mit.edu/~jorkin/gdc2006_orkin_jeff_fear.pdf,/u/friendlysock,15
+1,2016-12-11 10:35:43 -0600,"/t/pdf,/t/compsci,/t/math,/t/programming",Model-checking Abstract State Machines (2001),http://staff.itee.uq.edu.au/kirsten/publications/Winter_Kirsten.pdf,/u/nickpsecurity,6

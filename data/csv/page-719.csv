@@ -1,25 +1,25 @@
-2,2016-07-19 01:24:30 -0500,['/t/programming'],Borrowing in Pony,https://bluishcoder.co.nz/2016/07/18/borrowing-in-pony.html,/u/doublec,8
-0,2016-07-19 16:02:31 -0500,"['/t/c', '/t/graphics']",Tiny but powerful header only wavefront obj loader written in C89,https://github.com/syoyo/tinyobjloader-c,/u/friendlysock,3
-20,2016-07-18 08:49:02 -0500,"['/t/browsers', '/t/privacy']",Google will use Chrome browsing data for ad tailoring,https://twitter.com/phlsa/status/754337623964053504,/u/unbalancedparentheses,41
-0,2016-07-19 13:32:49 -0500,"['/t/databases', '/t/devops', '/t/distributed', '/t/scaling']",Managing Elasticsearch time-based indices efficiently,http://www.elastic.co/blog/managing-time-based-indices-efficiently,/u/soulcutter,3
-0,2016-07-19 16:44:42 -0500,"['/t/book', '/t/event', '/t/historical']",Time Data Dump,https://time.thecthulhu.com/,/u/friendlysock,1
-0,2016-07-18 19:13:02 -0500,"['/t/perl', '/t/person']",Interview With Larry Wall,http://m.slashdot.org/story/313671,/u/mempko,13
-1,2016-07-19 03:16:15 -0500,['/t/crypto'],IBM Pushes Blockchain into the Supply Chain,http://www.wsj.com/articles/ibm-pushes-blockchain-into-the-supply-chain-1468528824,/u/apy,3
-0,2016-07-18 22:19:35 -0500,['/t/haskell'],Optionally Exposed,http://www.arcadianvisions.com/blog/2016/optionally-exposed-critique.html,/u/pushcx,9
-0,2016-07-18 23:05:30 -0500,['/t/web'],"The History of the URL: Path, Fragment, Query, and Auth",https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/?h,/u/av,8
-1,2016-07-18 17:47:29 -0500,['/t/hardware'],Storage device writes information atom-by-atom,http://www.bbc.co.uk/news/science-environment-36824902,/u/GMW,9
-0,2016-07-18 10:11:56 -0500,['/t/practices'],Senior Engineers Reduce Risk,https://medium.com/@ztellman/senior-engineers-reduce-risk-5ab2adc13c97,/u/ztellman,17
-4,2016-07-18 11:39:01 -0500,['/t/lisp'],Let's Run Lisp on a Microcontroller,http://dmitryfrank.com/articles/lisp_on_mcu,/u/dimonomid,7
-7,2016-07-18 08:38:23 -0500,"['/t/historical', '/t/release']",donkey.bas,https://github.com/coding-horror/donkey.bas,/u/flyingfisch,16
-5,2016-07-18 10:04:32 -0500,"['/t/go', '/t/php', '/t/security']","HTTP_PROXY security vulnerability in Go, PHP, Python CGI environments",https://httpoxy.org/,/u/kb,18
-0,2016-07-18 09:41:49 -0500,['/t/finance'],ARM chip designer to be bought by Japan's Softbank,http://www.bbc.com/news/business-36822806,/u/calvin,23
-1,2016-07-18 14:16:14 -0500,"['/t/openbsd', '/t/security']",Why we use OpenBSD at VidiGuard,https://blog.vidiguard.com/why-we-use-openbsd-at-vidiguard-4521f217b2b7,/u/mulander,7
-0,2016-07-19 09:01:47 -0500,"['/t/javascript', '/t/programming']",Libraries Runnable uses when building microservices,http://blog.runnable.com/post/147612899961/libraries-we-use-when-building-microservices,/u/sundip,1
-31,2016-07-18 05:19:20 -0500,['/t/ask'],What are you working on this week?,/s/xo86uh/what_are_you_working_on_this_week,/u/caius,17
-2,2016-07-18 11:10:28 -0500,"['/t/haskell', '/t/lisp']",What Template Haskell gets wrong and Racket gets right,http://blog.ezyang.com/2016/07/what-template-haskell-gets-wrong-and-racket-gets-right/,/u/craigstuntz,14
-2,2016-07-18 08:51:03 -0500,['/t/security'],User enumeration in opensshd,http://seclists.org/fulldisclosure/2016/Jul/51,/u/whbboyd,8
-2,2016-07-18 13:15:14 -0500,['/t/javascript'],D4 – Declarative Data-Driven Documents,https://d4.js.org/,/u/rhonorv,7
-0,2016-07-18 08:51:36 -0500,"['/t/lisp', '/t/programming']",Genetic Programming with clojure.spec,http://gigasquidsoftware.com/blog/2016/07/18/genetic-programming-with-clojure-dot-spec/,/u/carinmeier,8
-1,2016-07-18 11:13:39 -0500,"['/t/cogsci', '/t/programming']",Language Evolution Simulation,https://fatiherikli.github.io/language-evolution-simulation/,/u/friendlysock,8
-1,2016-07-18 04:47:37 -0500,"['/t/video', '/t/event']",Curry On Conf talks are being live streamed,https://twitter.com/curry_on_conf/status/754936799303176192,/u/jan,14
-1,2016-07-18 10:00:52 -0500,"['/t/crypto', '/t/networking', '/t/security']",Tonga (Bridge Authority) Permanent Shutdown Notice,https://trac.torproject.org/projects/tor/ticket/19690,/u/rain1,6
+2,2016-07-19 01:24:30 -0500,/t/programming,Borrowing in Pony,https://bluishcoder.co.nz/2016/07/18/borrowing-in-pony.html,/u/doublec,8
+0,2016-07-19 16:02:31 -0500,"/t/c,/t/graphics",Tiny but powerful header only wavefront obj loader written in C89,https://github.com/syoyo/tinyobjloader-c,/u/friendlysock,3
+20,2016-07-18 08:49:02 -0500,"/t/browsers,/t/privacy",Google will use Chrome browsing data for ad tailoring,https://twitter.com/phlsa/status/754337623964053504,/u/unbalancedparentheses,41
+0,2016-07-19 13:32:49 -0500,"/t/databases,/t/devops,/t/distributed,/t/scaling",Managing Elasticsearch time-based indices efficiently,http://www.elastic.co/blog/managing-time-based-indices-efficiently,/u/soulcutter,3
+0,2016-07-19 16:44:42 -0500,"/t/book,/t/event,/t/historical",Time Data Dump,https://time.thecthulhu.com/,/u/friendlysock,1
+0,2016-07-18 19:13:02 -0500,"/t/perl,/t/person",Interview With Larry Wall,http://m.slashdot.org/story/313671,/u/mempko,13
+1,2016-07-19 03:16:15 -0500,/t/crypto,IBM Pushes Blockchain into the Supply Chain,http://www.wsj.com/articles/ibm-pushes-blockchain-into-the-supply-chain-1468528824,/u/apy,3
+0,2016-07-18 22:19:35 -0500,/t/haskell,Optionally Exposed,http://www.arcadianvisions.com/blog/2016/optionally-exposed-critique.html,/u/pushcx,9
+0,2016-07-18 23:05:30 -0500,/t/web,"The History of the URL: Path, Fragment, Query, and Auth",https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/?h,/u/av,8
+1,2016-07-18 17:47:29 -0500,/t/hardware,Storage device writes information atom-by-atom,http://www.bbc.co.uk/news/science-environment-36824902,/u/GMW,9
+0,2016-07-18 10:11:56 -0500,/t/practices,Senior Engineers Reduce Risk,https://medium.com/@ztellman/senior-engineers-reduce-risk-5ab2adc13c97,/u/ztellman,17
+4,2016-07-18 11:39:01 -0500,/t/lisp,Let's Run Lisp on a Microcontroller,http://dmitryfrank.com/articles/lisp_on_mcu,/u/dimonomid,7
+7,2016-07-18 08:38:23 -0500,"/t/historical,/t/release",donkey.bas,https://github.com/coding-horror/donkey.bas,/u/flyingfisch,16
+5,2016-07-18 10:04:32 -0500,"/t/go,/t/php,/t/security","HTTP_PROXY security vulnerability in Go, PHP, Python CGI environments",https://httpoxy.org/,/u/kb,18
+0,2016-07-18 09:41:49 -0500,/t/finance,ARM chip designer to be bought by Japan's Softbank,http://www.bbc.com/news/business-36822806,/u/calvin,23
+1,2016-07-18 14:16:14 -0500,"/t/openbsd,/t/security",Why we use OpenBSD at VidiGuard,https://blog.vidiguard.com/why-we-use-openbsd-at-vidiguard-4521f217b2b7,/u/mulander,7
+0,2016-07-19 09:01:47 -0500,"/t/javascript,/t/programming",Libraries Runnable uses when building microservices,http://blog.runnable.com/post/147612899961/libraries-we-use-when-building-microservices,/u/sundip,1
+31,2016-07-18 05:19:20 -0500,/t/ask,What are you working on this week?,/s/xo86uh/what_are_you_working_on_this_week,/u/caius,17
+2,2016-07-18 11:10:28 -0500,"/t/haskell,/t/lisp",What Template Haskell gets wrong and Racket gets right,http://blog.ezyang.com/2016/07/what-template-haskell-gets-wrong-and-racket-gets-right/,/u/craigstuntz,14
+2,2016-07-18 08:51:03 -0500,/t/security,User enumeration in opensshd,http://seclists.org/fulldisclosure/2016/Jul/51,/u/whbboyd,8
+2,2016-07-18 13:15:14 -0500,/t/javascript,D4 – Declarative Data-Driven Documents,https://d4.js.org/,/u/rhonorv,7
+0,2016-07-18 08:51:36 -0500,"/t/lisp,/t/programming",Genetic Programming with clojure.spec,http://gigasquidsoftware.com/blog/2016/07/18/genetic-programming-with-clojure-dot-spec/,/u/carinmeier,8
+1,2016-07-18 11:13:39 -0500,"/t/cogsci,/t/programming",Language Evolution Simulation,https://fatiherikli.github.io/language-evolution-simulation/,/u/friendlysock,8
+1,2016-07-18 04:47:37 -0500,"/t/video,/t/event",Curry On Conf talks are being live streamed,https://twitter.com/curry_on_conf/status/754936799303176192,/u/jan,14
+1,2016-07-18 10:00:52 -0500,"/t/crypto,/t/networking,/t/security",Tonga (Bridge Authority) Permanent Shutdown Notice,https://trac.torproject.org/projects/tor/ticket/19690,/u/rain1,6

@@ -1,10 +1,10 @@
-0,2012-07-03 11:21:51 -0500,"['/t/privacy', '/t/security']",Espionage virus sent blueprints to China,http://www.telegraph.co.uk/technology/news/9346734/Espionage-virus-sent-blueprints-to-China.html,/u/kyle,2
-0,2012-07-02 16:59:19 -0500,"['/t/c', '/t/go']",Less is exponentially more (Rob Pike),http://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html,/u/jcs,5
-0,2012-07-02 12:26:08 -0500,['/t/go'],Go videos from Google I/O 2012,http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html,/u/jcs,4
-0,2012-07-02 17:10:21 -0500,"['/t/linux', '/t/news']",Detailed postmortem and patch for Linux leap second bug,https://lkml.org/lkml/2012/7/1/203,/u/jed,2
-1,2012-07-02 09:06:10 -0500,"['/t/science', '/t/unix']",The One-second War (What Time Will You Die?),http://queue.acm.org/detail.cfm?id=1967009,/u/jcs,1
-14,2012-07-01 17:04:44 -0500,['/t/meta'],About Lobsters,/s/bkeYe9/about_lobsters,/u/jcs,19
-0,2012-07-01 20:58:03 -0500,['/t/news'],"With “Connected Apps,” Foursquare Firms its Position as the Social Network for Places",http://techcrunch.com/2012/07/01/with-connected-apps-foursquare-firms-its-position-as-the-social-network-for-places/,/u/jed,1
-0,2012-06-30 19:17:13 -0500,['/t/scaling'],The Netflix Tech Blog: Asgard: Web-based Cloud Management and Deployment,http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html,/u/jcs,3
-0,2012-06-30 16:49:48 -0500,['/t/openbsd'],OpenBSD 5.1 Released,http://undeadly.org/cgi?action=article&sid=20120501144838,/u/jcs,4
-0,2012-06-30 17:49:41 -0500,"['/t/browsers', '/t/mobile']",B2G demo & quick hack,http://paulrouget.com/e/b2ghack/,/u/jcs,3
+0,2012-07-03 11:21:51 -0500,"/t/privacy,/t/security",Espionage virus sent blueprints to China,http://www.telegraph.co.uk/technology/news/9346734/Espionage-virus-sent-blueprints-to-China.html,/u/kyle,2
+0,2012-07-02 16:59:19 -0500,"/t/c,/t/go",Less is exponentially more (Rob Pike),http://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html,/u/jcs,5
+0,2012-07-02 12:26:08 -0500,/t/go,Go videos from Google I/O 2012,http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html,/u/jcs,4
+0,2012-07-02 17:10:21 -0500,"/t/linux,/t/news",Detailed postmortem and patch for Linux leap second bug,https://lkml.org/lkml/2012/7/1/203,/u/jed,2
+1,2012-07-02 09:06:10 -0500,"/t/science,/t/unix",The One-second War (What Time Will You Die?),http://queue.acm.org/detail.cfm?id=1967009,/u/jcs,1
+14,2012-07-01 17:04:44 -0500,/t/meta,About Lobsters,/s/bkeYe9/about_lobsters,/u/jcs,19
+0,2012-07-01 20:58:03 -0500,/t/news,"With “Connected Apps,” Foursquare Firms its Position as the Social Network for Places",http://techcrunch.com/2012/07/01/with-connected-apps-foursquare-firms-its-position-as-the-social-network-for-places/,/u/jed,1
+0,2012-06-30 19:17:13 -0500,/t/scaling,The Netflix Tech Blog: Asgard: Web-based Cloud Management and Deployment,http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html,/u/jcs,3
+0,2012-06-30 16:49:48 -0500,/t/openbsd,OpenBSD 5.1 Released,http://undeadly.org/cgi?action=article&sid=20120501144838,/u/jcs,4
+0,2012-06-30 17:49:41 -0500,"/t/browsers,/t/mobile",B2G demo & quick hack,http://paulrouget.com/e/b2ghack/,/u/jcs,3

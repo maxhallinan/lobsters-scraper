@@ -1,25 +1,25 @@
-2,2017-03-16 19:09:50 -0500,"['/t/compsci', '/t/javascript', '/t/programming', '/t/web']",Where Did Vue.js Come From?,https://www.joezimjs.com/javascript/where-did-vuejs-come-from/,/u/joezimjs,11
-0,2017-03-17 16:44:59 -0500,"['/t/art', '/t/unix']",lonetwin/colorize -- Colorize columns in the shell,https://github.com/lonetwin/colorize,/u/friendlysock,2
-1,2017-03-17 19:52:45 -0500,"['/t/compilers', '/t/compsci']",Snowball,http://snowballstem.org/,/u/jitterted,1
-5,2017-03-16 18:29:14 -0500,"['/t/php', '/t/security']",How We Engineered CMS Airship to be Simply Secure,https://paragonie.com/blog/2017/03/how-we-engineered-cms-airship-be-simply-secure,/u/sarciszewski,7
-14,2017-03-16 05:57:06 -0500,"['/t/programming', '/t/visualization']","The eigenvector of ""Why we moved from language X to language Y""",https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html,/u/calvin,53
-0,2017-03-17 04:44:48 -0500,"['/t/programming', '/t/rust']",Weld: a runtime and language for accelerating data analytics frameworks,https://github.com/weld-project/weld,/u/aduffy,6
-3,2017-03-16 10:28:03 -0500,"['/t/show', '/t/go', '/t/graphics', '/t/science']",Rendering Proteins in Go,https://github.com/fogleman/ribbon,/u/fogleman,20
-0,2017-03-17 15:57:52 -0500,['/t/programming'],Notes on Lock Free Programming (Part 1),https://loonytek.com/2017/03/17/lock-free-algorithms-part-1/,/u/pushcx,1
-3,2017-03-16 11:55:54 -0500,"['/t/lisp', '/t/satire']",Acing the technical interview,https://aphyr.com/posts/340-acing-the-technical-interview,/u/355E3B,60
-0,2017-03-17 14:33:23 -0500,"['/t/databases', '/t/devops', '/t/practices']",Monitoring MongoDB performance metrics (WiredTiger),https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/,/u/friendlysock,1
-4,2017-03-16 12:46:00 -0500,['/t/haskell'],"When You Should Use Lists in Haskell (Mostly, You Should Not)",http://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/,/u/pushcx,14
-0,2017-03-17 06:20:47 -0500,"['/t/culture', '/t/privacy']",Spammy Google Home spouts audio ads without warning,https://www.theregister.co.uk/2017/03/16/google_home_audio_adverts/,/u/calvin,6
-0,2017-03-17 01:47:25 -0500,['/t/programming'],How Discord Indexes Billions of Messages,https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f,/u/av,5
-0,2017-03-17 11:36:21 -0500,['/t/python'],"flango - A Django template for using Flask for the frontend, Django for the backend",https://github.com/kennethreitz/flango,/u/av,1
-1,2017-03-16 22:55:12 -0500,"['/t/programming', '/t/scaling']",Scaling Financial Reporting at Airbnb,https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040,/u/pushcx,4
-39,2017-03-16 04:14:52 -0500,['/t/c'],Principles for C programming,http://sircmpwn.github.io/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html,/u/av,24
-0,2017-03-16 18:30:14 -0500,"['/t/show', '/t/c', '/t/graphics']",A simple path-tracing demo. In the terminal!,https://github.com/mrpossoms/tracer,/u/mrpossoms,5
-6,2017-03-16 05:30:20 -0500,"['/t/lisp', '/t/philosophy', '/t/programming']",Beautiful Racket: Why Racket? Why Lisp?,http://beautifulracket.com/appendix/why-racket-why-lisp.html,/u/qznc,20
-0,2017-03-17 09:54:09 -0500,['/t/browsers'],Faster 3D rendering with WebGL 2.0,https://blog.chromium.org/2017/03/faster-3d-rendering-with-webgl-20.html,/u/av,1
-0,2017-03-16 19:13:25 -0500,"['/t/devops', '/t/erlang']",Serving Erlang,http://blog.ikura.co/posts/serving-erlang.html,/u/nato,4
-11,2017-03-16 00:13:49 -0500,['/t/book'],Type Driven Development with Idris (Edwin Brady's Book) is finished!,https://twitter.com/edwinbrady/status/841694193877671936,/u/lenary,34
-0,2017-03-16 13:08:51 -0500,"['/t/security', '/t/virtualization']",Deconstructing Xen,https://blog.acolyer.org/2017/03/16/deconstructing-xen/,/u/sevan,15
-0,2017-03-17 05:45:48 -0500,['/t/linux'],Atomic (rpm-ostree+flatpak+oc cluster up) workstation,https://lists.fedoraproject.org/archives/list/desktop@lists.fedoraproject.org/message/JDBGLC2MCXWPHAPULN6PKUKFRE2SS7GT/,/u/fjb,1
-0,2017-03-17 01:45:10 -0500,['/t/programming'],Guetzli: A New Open-Source JPEG Encoder,https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html,/u/av,2
-0,2017-03-16 18:53:33 -0500,"['/t/pdf', '/t/math', '/t/programming']",Toward Compositional Verification of Interruptible OS kernels and device drivers (2016),https://github.com/emeryberger/PLDI-2016/raw/master/preprints/pldi16main-main86-p.pdf,/u/nickpsecurity,5
+2,2017-03-16 19:09:50 -0500,"/t/compsci,/t/javascript,/t/programming,/t/web",Where Did Vue.js Come From?,https://www.joezimjs.com/javascript/where-did-vuejs-come-from/,/u/joezimjs,11
+0,2017-03-17 16:44:59 -0500,"/t/art,/t/unix",lonetwin/colorize -- Colorize columns in the shell,https://github.com/lonetwin/colorize,/u/friendlysock,2
+1,2017-03-17 19:52:45 -0500,"/t/compilers,/t/compsci",Snowball,http://snowballstem.org/,/u/jitterted,1
+5,2017-03-16 18:29:14 -0500,"/t/php,/t/security",How We Engineered CMS Airship to be Simply Secure,https://paragonie.com/blog/2017/03/how-we-engineered-cms-airship-be-simply-secure,/u/sarciszewski,7
+14,2017-03-16 05:57:06 -0500,"/t/programming,/t/visualization","The eigenvector of ""Why we moved from language X to language Y""",https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html,/u/calvin,53
+0,2017-03-17 04:44:48 -0500,"/t/programming,/t/rust",Weld: a runtime and language for accelerating data analytics frameworks,https://github.com/weld-project/weld,/u/aduffy,6
+3,2017-03-16 10:28:03 -0500,"/t/show,/t/go,/t/graphics,/t/science",Rendering Proteins in Go,https://github.com/fogleman/ribbon,/u/fogleman,20
+0,2017-03-17 15:57:52 -0500,/t/programming,Notes on Lock Free Programming (Part 1),https://loonytek.com/2017/03/17/lock-free-algorithms-part-1/,/u/pushcx,1
+3,2017-03-16 11:55:54 -0500,"/t/lisp,/t/satire",Acing the technical interview,https://aphyr.com/posts/340-acing-the-technical-interview,/u/355E3B,60
+0,2017-03-17 14:33:23 -0500,"/t/databases,/t/devops,/t/practices",Monitoring MongoDB performance metrics (WiredTiger),https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/,/u/friendlysock,1
+4,2017-03-16 12:46:00 -0500,/t/haskell,"When You Should Use Lists in Haskell (Mostly, You Should Not)",http://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/,/u/pushcx,14
+0,2017-03-17 06:20:47 -0500,"/t/culture,/t/privacy",Spammy Google Home spouts audio ads without warning,https://www.theregister.co.uk/2017/03/16/google_home_audio_adverts/,/u/calvin,6
+0,2017-03-17 01:47:25 -0500,/t/programming,How Discord Indexes Billions of Messages,https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f,/u/av,5
+0,2017-03-17 11:36:21 -0500,/t/python,"flango - A Django template for using Flask for the frontend, Django for the backend",https://github.com/kennethreitz/flango,/u/av,1
+1,2017-03-16 22:55:12 -0500,"/t/programming,/t/scaling",Scaling Financial Reporting at Airbnb,https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040,/u/pushcx,4
+39,2017-03-16 04:14:52 -0500,/t/c,Principles for C programming,http://sircmpwn.github.io/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html,/u/av,24
+0,2017-03-16 18:30:14 -0500,"/t/show,/t/c,/t/graphics",A simple path-tracing demo. In the terminal!,https://github.com/mrpossoms/tracer,/u/mrpossoms,5
+6,2017-03-16 05:30:20 -0500,"/t/lisp,/t/philosophy,/t/programming",Beautiful Racket: Why Racket? Why Lisp?,http://beautifulracket.com/appendix/why-racket-why-lisp.html,/u/qznc,20
+0,2017-03-17 09:54:09 -0500,/t/browsers,Faster 3D rendering with WebGL 2.0,https://blog.chromium.org/2017/03/faster-3d-rendering-with-webgl-20.html,/u/av,1
+0,2017-03-16 19:13:25 -0500,"/t/devops,/t/erlang",Serving Erlang,http://blog.ikura.co/posts/serving-erlang.html,/u/nato,4
+11,2017-03-16 00:13:49 -0500,/t/book,Type Driven Development with Idris (Edwin Brady's Book) is finished!,https://twitter.com/edwinbrady/status/841694193877671936,/u/lenary,34
+0,2017-03-16 13:08:51 -0500,"/t/security,/t/virtualization",Deconstructing Xen,https://blog.acolyer.org/2017/03/16/deconstructing-xen/,/u/sevan,15
+0,2017-03-17 05:45:48 -0500,/t/linux,Atomic (rpm-ostree+flatpak+oc cluster up) workstation,https://lists.fedoraproject.org/archives/list/desktop@lists.fedoraproject.org/message/JDBGLC2MCXWPHAPULN6PKUKFRE2SS7GT/,/u/fjb,1
+0,2017-03-17 01:45:10 -0500,/t/programming,Guetzli: A New Open-Source JPEG Encoder,https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html,/u/av,2
+0,2017-03-16 18:53:33 -0500,"/t/pdf,/t/math,/t/programming",Toward Compositional Verification of Interruptible OS kernels and device drivers (2016),https://github.com/emeryberger/PLDI-2016/raw/master/preprints/pldi16main-main86-p.pdf,/u/nickpsecurity,5

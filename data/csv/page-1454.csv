@@ -1,25 +1,25 @@
-0,2013-09-11 15:09:34 -0500,['/t/privacy'],NSA shares raw intelligence including Americans' data with Israel,http://www.theguardian.com/world/2013/sep/11/nsa-americans-personal-data-israel-documents,/u/journeysquid,2
-1,2013-09-10 18:51:25 -0500,"['/t/hardware', '/t/networking', '/t/security']",Bitsquatting: DNS Hijacking without exploitation,http://dinaburg.org/bitsquatting.html,/u/vg,10
-0,2013-09-10 17:16:03 -0500,['/t/networking'],TCP ex Machina: Computer-Generated Congestion Control,http://web.mit.edu/remy/,/u/journeysquid,5
-0,2013-09-10 16:42:33 -0500,['/t/science'],Animated GIFs of deep space objects in 3D,http://earthsky.org/space/animated-gifs-of-deep-space-objects-in-3d,/u/sschaubs,4
-0,2013-09-10 11:47:32 -0500,['/t/science'],"Space Farming - NASA looks to grow fresh veggies, 230 miles above the Earth",http://modernfarmer.com/2013/09/starship-salad-bar/,/u/wally,7
-0,2013-09-10 20:25:07 -0500,['/t/programming'],Clojure for the Brave and True,http://www.braveclojure.com/,/u/SeanTAllen,2
-1,2013-09-10 16:05:28 -0500,"['/t/law', '/t/privacy']",Documents Shed Light on Border Laptop Searches,https://www.aclu.org/blog/technology-and-liberty-immigrants-rights-national-security/documents-shed-light-border-laptop,/u/jcs,2
-0,2013-09-10 00:11:33 -0500,['/t/compsci'],Elm: Interactive-Programming,http://elm-lang.org/blog/Interactive-Programming.elm,/u/puffnfresh,7
-0,2013-09-10 12:44:12 -0500,['/t/show'],Why was there nothing to do on Cubehero?,http://blog.cubehero.com/2013/09/10/why-was-there-nothing-to-do-on-cubehero/,/u/iamwil,1
-0,2013-09-10 00:16:15 -0500,['/t/security'],Turbid: A High-Entropy Randomness Generator,http://www.av8n.com/turbid/paper/turbid.htm,/u/kyle,3
-1,2013-09-09 16:22:59 -0500,"['/t/openbsd', '/t/unix']",Plumbing OpenBSD Software with gdb(1),http://www.packetmischief.ca/2013/09/09/plumbing-openbsd-software-with-gdb1/,/u/jcs,5
-0,2013-09-09 11:17:53 -0500,['/t/security'],Building a PGP web of trust that people will actually use,http://bitcoinism.blogspot.nl/2013/09/building-pgp-web-of-trust-that-people.html,/u/szbt,8
-0,2013-09-09 09:15:41 -0500,"['/t/android', '/t/security']",PSA: Think About Stronger App Signing Keys,http://commonsware.com/blog/2013/09/09/psa-think-about-stronger-app-signing-keys.html,/u/jcs,4
-0,2013-09-09 08:58:44 -0500,"['/t/design', '/t/hardware']","[2012]: Touché: Enhancing Touch Interaction on Humans, Screens, Liquids, and Everyday Objects",https://www.cmu.edu/homepage/computing/2012/spring/touche.shtml,/u/vg,1
-0,2013-09-09 11:18:20 -0500,['/t/javascript'],Mocking Server Dependencies in JavaScript and AngularJS,http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/,/u/remotesynth,0
-0,2013-09-08 16:03:39 -0500,['/t/go'],The Go netpoller,http://morsmachine.dk/netpoller,/u/journeysquid,4
-1,2013-09-08 11:23:46 -0500,['/t/science'],The Psychiatric Drug Crisis,http://www.newyorker.com/online/blogs/elements/2013/09/psychiatry-prozac-ssri-mental-health-theory-discredited.html,/u/journeysquid,4
-0,2013-09-08 11:21:18 -0500,['/t/security'],"John Gilmore on ""BULLRUN""",http://www.mail-archive.com/cryptography@metzdowd.com/msg12325.html,/u/journeysquid,4
-0,2013-09-07 11:35:46 -0500,['/t/science'],Infectious disease doesn't care why you're unvaccinated,http://www.sciencebasedmedicine.org/i-refute-it-thus/,/u/journeysquid,6
-0,2013-09-07 13:54:51 -0500,['/t/web'],Do Not Use bodyParser with Express.js,http://andrewkelley.me/post/do-not-use-bodyparser-with-express-js.html,/u/kb,3
-0,2013-09-07 03:16:26 -0500,['/t/ruby'],Running a Ruby app on Heroku with Phusion Passenger,https://github.com/phusion/passenger-ruby-heroku-demo#readme,/u/FooBarWidget,3
-0,2013-09-06 16:20:10 -0500,['/t/hardware'],The Z-80 has a 4-bit ALU. Here's how it works.,http://www.righto.com/2013/09/the-z-80-has-4-bit-alu-heres-how-it.html,/u/kyle,5
-0,2013-09-06 07:35:25 -0500,['/t/security'],On the NSA,http://blog.cryptographyengineering.com/2013/09/on-nsa.html,/u/jcs,10
-0,2013-09-06 18:58:36 -0500,"['/t/games', '/t/science']",Video game boosts mental abilities in elderly,http://america.aljazeera.com/articles/2013/9/6/video-game-boostsmentalabilitiesinelderly.html,/u/journeysquid,1
-0,2013-09-06 14:48:07 -0500,['/t/privacy'],How We Got Busted Buying Drugs On Silk Road's Black Market,http://www.forbes.com/sites/andygreenberg/2013/09/05/follow-the-bitcoins-how-we-got-busted-buying-drugs-on-silk-roads-black-market/,/u/journeysquid,2
+0,2013-09-11 15:09:34 -0500,/t/privacy,NSA shares raw intelligence including Americans' data with Israel,http://www.theguardian.com/world/2013/sep/11/nsa-americans-personal-data-israel-documents,/u/journeysquid,2
+1,2013-09-10 18:51:25 -0500,"/t/hardware,/t/networking,/t/security",Bitsquatting: DNS Hijacking without exploitation,http://dinaburg.org/bitsquatting.html,/u/vg,10
+0,2013-09-10 17:16:03 -0500,/t/networking,TCP ex Machina: Computer-Generated Congestion Control,http://web.mit.edu/remy/,/u/journeysquid,5
+0,2013-09-10 16:42:33 -0500,/t/science,Animated GIFs of deep space objects in 3D,http://earthsky.org/space/animated-gifs-of-deep-space-objects-in-3d,/u/sschaubs,4
+0,2013-09-10 11:47:32 -0500,/t/science,"Space Farming - NASA looks to grow fresh veggies, 230 miles above the Earth",http://modernfarmer.com/2013/09/starship-salad-bar/,/u/wally,7
+0,2013-09-10 20:25:07 -0500,/t/programming,Clojure for the Brave and True,http://www.braveclojure.com/,/u/SeanTAllen,2
+1,2013-09-10 16:05:28 -0500,"/t/law,/t/privacy",Documents Shed Light on Border Laptop Searches,https://www.aclu.org/blog/technology-and-liberty-immigrants-rights-national-security/documents-shed-light-border-laptop,/u/jcs,2
+0,2013-09-10 00:11:33 -0500,/t/compsci,Elm: Interactive-Programming,http://elm-lang.org/blog/Interactive-Programming.elm,/u/puffnfresh,7
+0,2013-09-10 12:44:12 -0500,/t/show,Why was there nothing to do on Cubehero?,http://blog.cubehero.com/2013/09/10/why-was-there-nothing-to-do-on-cubehero/,/u/iamwil,1
+0,2013-09-10 00:16:15 -0500,/t/security,Turbid: A High-Entropy Randomness Generator,http://www.av8n.com/turbid/paper/turbid.htm,/u/kyle,3
+1,2013-09-09 16:22:59 -0500,"/t/openbsd,/t/unix",Plumbing OpenBSD Software with gdb(1),http://www.packetmischief.ca/2013/09/09/plumbing-openbsd-software-with-gdb1/,/u/jcs,5
+0,2013-09-09 11:17:53 -0500,/t/security,Building a PGP web of trust that people will actually use,http://bitcoinism.blogspot.nl/2013/09/building-pgp-web-of-trust-that-people.html,/u/szbt,8
+0,2013-09-09 09:15:41 -0500,"/t/android,/t/security",PSA: Think About Stronger App Signing Keys,http://commonsware.com/blog/2013/09/09/psa-think-about-stronger-app-signing-keys.html,/u/jcs,4
+0,2013-09-09 08:58:44 -0500,"/t/design,/t/hardware","[2012]: Touché: Enhancing Touch Interaction on Humans, Screens, Liquids, and Everyday Objects",https://www.cmu.edu/homepage/computing/2012/spring/touche.shtml,/u/vg,1
+0,2013-09-09 11:18:20 -0500,/t/javascript,Mocking Server Dependencies in JavaScript and AngularJS,http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/,/u/remotesynth,0
+0,2013-09-08 16:03:39 -0500,/t/go,The Go netpoller,http://morsmachine.dk/netpoller,/u/journeysquid,4
+1,2013-09-08 11:23:46 -0500,/t/science,The Psychiatric Drug Crisis,http://www.newyorker.com/online/blogs/elements/2013/09/psychiatry-prozac-ssri-mental-health-theory-discredited.html,/u/journeysquid,4
+0,2013-09-08 11:21:18 -0500,/t/security,"John Gilmore on ""BULLRUN""",http://www.mail-archive.com/cryptography@metzdowd.com/msg12325.html,/u/journeysquid,4
+0,2013-09-07 11:35:46 -0500,/t/science,Infectious disease doesn't care why you're unvaccinated,http://www.sciencebasedmedicine.org/i-refute-it-thus/,/u/journeysquid,6
+0,2013-09-07 13:54:51 -0500,/t/web,Do Not Use bodyParser with Express.js,http://andrewkelley.me/post/do-not-use-bodyparser-with-express-js.html,/u/kb,3
+0,2013-09-07 03:16:26 -0500,/t/ruby,Running a Ruby app on Heroku with Phusion Passenger,https://github.com/phusion/passenger-ruby-heroku-demo#readme,/u/FooBarWidget,3
+0,2013-09-06 16:20:10 -0500,/t/hardware,The Z-80 has a 4-bit ALU. Here's how it works.,http://www.righto.com/2013/09/the-z-80-has-4-bit-alu-heres-how-it.html,/u/kyle,5
+0,2013-09-06 07:35:25 -0500,/t/security,On the NSA,http://blog.cryptographyengineering.com/2013/09/on-nsa.html,/u/jcs,10
+0,2013-09-06 18:58:36 -0500,"/t/games,/t/science",Video game boosts mental abilities in elderly,http://america.aljazeera.com/articles/2013/9/6/video-game-boostsmentalabilitiesinelderly.html,/u/journeysquid,1
+0,2013-09-06 14:48:07 -0500,/t/privacy,How We Got Busted Buying Drugs On Silk Road's Black Market,http://www.forbes.com/sites/andygreenberg/2013/09/05/follow-the-bitcoins-how-we-got-busted-buying-drugs-on-silk-roads-black-market/,/u/journeysquid,2

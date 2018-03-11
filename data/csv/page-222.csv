@@ -1,25 +1,25 @@
-1,2017-09-01 15:12:36 -0500,"['/t/dotnet', '/t/programming']",Span,http://adamsitnik.com/Span/,/u/hdhzy,3
-3,2017-08-31 22:16:17 -0500,"['/t/video', '/t/programming']",Pony: How I learned to stop worrying and embrace an unproven technology,https://www.infoq.com/presentations/pony-wallaroo,/u/SeanTAllen,9
-0,2017-09-01 12:51:06 -0500,"['/t/ai', '/t/performance']","The curious connection between warehouse maps, movie recommendations, and structural biology",http://multithreaded.stitchfix.com/blog/2017/08/31/warehouse-layouts/,/u/soulcutter,5
-2,2017-09-01 04:01:49 -0500,"['/t/historical', '/t/unix']",A Brief History of Solaris (SunOS) Ports (2009),http://rabbs.com/uuasc/SOLARIS_PPC,/u/mjturner,11
-0,2017-09-01 12:42:19 -0500,['/t/elm'],Elm Style Elements,https://www.dailydrip.com/topics/elm/drips/style-elements,/u/franzunix,5
-19,2017-08-31 12:56:05 -0500,['/t/openbsd'],My first patch to OpenBSD,http://nanxiao.me/en/my-first-patch-to-openbsd/,/u/mulander,30
-0,2017-09-01 07:10:18 -0500,"['/t/networking', '/t/security']",Kerberos explained in pictures,http://danlebrero.com/2017/03/26/Kerberos-explained-in-pictures/,/u/calvin,8
-0,2017-09-01 15:51:52 -0500,['/t/testing'],Testing - It's about confidence,http://benlakey.com/2017/09/01/testing-its-about-confidence/,/u/benlakey,1
-0,2017-09-01 10:01:10 -0500,"['/t/reversing', '/t/security']",SharknAT&To,https://www.nomotion.net/blog/sharknatto/,/u/azdle,5
-0,2017-09-01 07:13:21 -0500,['/t/python'],Redesigning Python's named tuples,https://lwn.net/Articles/731423/,/u/calvin,7
-0,2017-09-01 16:18:16 -0500,"['/t/elixir', '/t/programming']",Phoenix API Pagination with Scrivener,https://www.dailydrip.com/topics/elixirsips/drips/phoenix-api-pagination-with-scrivener,/u/franzunix,2
-0,2017-09-01 05:44:24 -0500,"['/t/pdf', '/t/compilers', '/t/formalmethods']","Hoare Type Theory, Polymorphism and Separation",http://ynot.cs.harvard.edu/papers/jfpsep07.pdf,/u/lojikil,8
-2,2017-09-01 10:55:21 -0500,"['/t/javascript', '/t/release']",Announcing TypeScript 2.5,https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/,/u/joshuacc,3
-0,2017-09-01 02:25:00 -0500,['/t/hardware'],2017 Hard Drive Reliability By Manufacturer and Model,https://www.backblaze.com/blog/hard-drive-failure-stats-q2-2017/,/u/mjturner,11
-0,2017-09-01 09:59:54 -0500,['/t/programming'],Evolution of the Heroku CLI: 2008-2017,https://blog.heroku.com/evolution-of-heroku-cli-2008-2017,/u/pushcx,3
-0,2017-09-01 07:23:57 -0500,['/t/security'],Observations about the attack on WikiLeaks,http://www.bortzmeyer.org/observations-wikileaks.html,/u/eest,4
-5,2017-08-31 11:54:12 -0500,['/t/programming'],The WTF-8 encoding,https://simonsapin.github.io/wtf-8/,/u/pushcx,20
-7,2017-09-01 07:09:38 -0500,"['/t/practices', '/t/programming']",Is There a Correct Way to Comment Your Code?,https://blog.ndepend.com/correct-way-comment-code/,/u/calvin,2
-0,2017-09-01 07:07:34 -0500,"['/t/databases', '/t/performance', '/t/programming']",JOIN Elimination: An Essential Optimiser Feature for Advanced SQL Usage,https://blog.jooq.org/2017/09/01/join-elimination-an-essential-optimiser-feature-for-advanced-sql-usage/,/u/calvin,4
-0,2017-09-01 05:02:19 -0500,"['/t/pdf', '/t/ai', '/t/ml']",Learning to Blame: Localizing Novice Type Errors with Data-Driven Diagnosis,https://arxiv.org/pdf/1708.07583.pdf,/u/lojikil,5
-3,2017-08-31 14:27:32 -0500,"['/t/haskell', '/t/math']",Category Theory for Programmers,https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/,/u/DiegoVicente,21
-0,2017-09-01 11:25:32 -0500,['/t/ai'],Using Deep Learning to Create Professional-Level Photographs,https://research.googleblog.com/2017/07/using-deep-learning-to-create.html,/u/DiegoVicente,2
-0,2017-09-01 08:11:18 -0500,['/t/math'],Mastering Bayes,http://www.machinegurning.com/rstats/bayes_r/,/u/adamo,3
-0,2017-09-01 10:30:34 -0500,"['/t/release', '/t/scaling']",Rapid release at massive scale (Facebook),https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/,/u/irfansharif,2
-0,2017-09-01 14:05:49 -0500,"['/t/video', '/t/practices']",Promise Theory,https://www.youtube.com/channel/UCxoHs7KK2GCYcEZK6ttigaA,/u/sevan,1
+1,2017-09-01 15:12:36 -0500,"/t/dotnet,/t/programming",Span,http://adamsitnik.com/Span/,/u/hdhzy,3
+3,2017-08-31 22:16:17 -0500,"/t/video,/t/programming",Pony: How I learned to stop worrying and embrace an unproven technology,https://www.infoq.com/presentations/pony-wallaroo,/u/SeanTAllen,9
+0,2017-09-01 12:51:06 -0500,"/t/ai,/t/performance","The curious connection between warehouse maps, movie recommendations, and structural biology",http://multithreaded.stitchfix.com/blog/2017/08/31/warehouse-layouts/,/u/soulcutter,5
+2,2017-09-01 04:01:49 -0500,"/t/historical,/t/unix",A Brief History of Solaris (SunOS) Ports (2009),http://rabbs.com/uuasc/SOLARIS_PPC,/u/mjturner,11
+0,2017-09-01 12:42:19 -0500,/t/elm,Elm Style Elements,https://www.dailydrip.com/topics/elm/drips/style-elements,/u/franzunix,5
+19,2017-08-31 12:56:05 -0500,/t/openbsd,My first patch to OpenBSD,http://nanxiao.me/en/my-first-patch-to-openbsd/,/u/mulander,30
+0,2017-09-01 07:10:18 -0500,"/t/networking,/t/security",Kerberos explained in pictures,http://danlebrero.com/2017/03/26/Kerberos-explained-in-pictures/,/u/calvin,8
+0,2017-09-01 15:51:52 -0500,/t/testing,Testing - It's about confidence,http://benlakey.com/2017/09/01/testing-its-about-confidence/,/u/benlakey,1
+0,2017-09-01 10:01:10 -0500,"/t/reversing,/t/security",SharknAT&To,https://www.nomotion.net/blog/sharknatto/,/u/azdle,5
+0,2017-09-01 07:13:21 -0500,/t/python,Redesigning Python's named tuples,https://lwn.net/Articles/731423/,/u/calvin,7
+0,2017-09-01 16:18:16 -0500,"/t/elixir,/t/programming",Phoenix API Pagination with Scrivener,https://www.dailydrip.com/topics/elixirsips/drips/phoenix-api-pagination-with-scrivener,/u/franzunix,2
+0,2017-09-01 05:44:24 -0500,"/t/pdf,/t/compilers,/t/formalmethods","Hoare Type Theory, Polymorphism and Separation",http://ynot.cs.harvard.edu/papers/jfpsep07.pdf,/u/lojikil,8
+2,2017-09-01 10:55:21 -0500,"/t/javascript,/t/release",Announcing TypeScript 2.5,https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/,/u/joshuacc,3
+0,2017-09-01 02:25:00 -0500,/t/hardware,2017 Hard Drive Reliability By Manufacturer and Model,https://www.backblaze.com/blog/hard-drive-failure-stats-q2-2017/,/u/mjturner,11
+0,2017-09-01 09:59:54 -0500,/t/programming,Evolution of the Heroku CLI: 2008-2017,https://blog.heroku.com/evolution-of-heroku-cli-2008-2017,/u/pushcx,3
+0,2017-09-01 07:23:57 -0500,/t/security,Observations about the attack on WikiLeaks,http://www.bortzmeyer.org/observations-wikileaks.html,/u/eest,4
+5,2017-08-31 11:54:12 -0500,/t/programming,The WTF-8 encoding,https://simonsapin.github.io/wtf-8/,/u/pushcx,20
+7,2017-09-01 07:09:38 -0500,"/t/practices,/t/programming",Is There a Correct Way to Comment Your Code?,https://blog.ndepend.com/correct-way-comment-code/,/u/calvin,2
+0,2017-09-01 07:07:34 -0500,"/t/databases,/t/performance,/t/programming",JOIN Elimination: An Essential Optimiser Feature for Advanced SQL Usage,https://blog.jooq.org/2017/09/01/join-elimination-an-essential-optimiser-feature-for-advanced-sql-usage/,/u/calvin,4
+0,2017-09-01 05:02:19 -0500,"/t/pdf,/t/ai,/t/ml",Learning to Blame: Localizing Novice Type Errors with Data-Driven Diagnosis,https://arxiv.org/pdf/1708.07583.pdf,/u/lojikil,5
+3,2017-08-31 14:27:32 -0500,"/t/haskell,/t/math",Category Theory for Programmers,https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/,/u/DiegoVicente,21
+0,2017-09-01 11:25:32 -0500,/t/ai,Using Deep Learning to Create Professional-Level Photographs,https://research.googleblog.com/2017/07/using-deep-learning-to-create.html,/u/DiegoVicente,2
+0,2017-09-01 08:11:18 -0500,/t/math,Mastering Bayes,http://www.machinegurning.com/rstats/bayes_r/,/u/adamo,3
+0,2017-09-01 10:30:34 -0500,"/t/release,/t/scaling",Rapid release at massive scale (Facebook),https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/,/u/irfansharif,2
+0,2017-09-01 14:05:49 -0500,"/t/video,/t/practices",Promise Theory,https://www.youtube.com/channel/UCxoHs7KK2GCYcEZK6ttigaA,/u/sevan,1

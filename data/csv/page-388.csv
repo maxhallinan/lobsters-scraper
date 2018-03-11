@@ -1,25 +1,25 @@
-0,2017-04-27 14:20:37 -0500,"['/t/devops', '/t/practices', '/t/privacy']",How to hide sensitive POST data in NGINX log,https://www.rstcloud.net/blog/30-how-to-hide-sensitive-post-data-in-nginx-log,/u/friendlysock,2
-6,2017-04-26 14:45:57 -0500,['/t/hardware'],BrickerBot Author Claims He Bricked Two Million Devices,https://www.bleepingcomputer.com/news/security/brickerbot-author-claims-he-bricked-two-million-devices/,/u/yumaikas,19
-2,2017-04-26 10:36:03 -0500,['/t/databases'],The big old reliable Elephant: talking about Postgres with Craig Kerstiens,https://medium.com/this-is-not-a-monad-tutorial/the-big-old-reliable-elephant-talking-about-postgres-with-craig-kerstiens-a07ddec3e460,/u/unbalancedparentheses,20
-0,2017-04-27 16:08:46 -0500,"['/t/dotnet', '/t/release']","Rider EAP 21: F# support, bundled TFS plugin and more",https://blog.jetbrains.com/dotnet/2017/04/27/rider-eap-21-f-support-bundled-tfs-plugin/,/u/calvin,1
-1,2017-04-26 21:48:28 -0500,"['/t/pdf', '/t/book', '/t/compsci']","DSL Engineering: Designing, Implementing and Using Domain-Specific Languages",http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf,/u/bill,9
-4,2017-04-26 15:38:18 -0500,"['/t/education', '/t/programming']",Learn X in Y Minutes: Scenic Programming Language Tours,https://learnxinyminutes.com/,/u/pushcx,15
-5,2017-04-26 16:35:26 -0500,"['/t/education', '/t/programming']",Learnable Programming – Designing a programming system for understanding programs,http://worrydream.com/LearnableProgramming/,/u/qznc,13
-12,2017-04-26 06:09:15 -0500,"['/t/education', '/t/programming']",Scratch Has a Marketing Problem,https://stevekrouse.com/scratch-has-a-marketing-problem-f84626bd18ef,/u/calvin,27
-0,2017-04-27 13:42:01 -0500,"['/t/event', '/t/freebsd', '/t/netbsd', '/t/openbsd']",EuroBSDCon 2017 CFP deadline approaching,http://mail-index.netbsd.org/pkgsrc-users/2017/04/27/msg024757.html,/u/cnst,1
-0,2017-04-27 08:00:24 -0500,['/t/education'],Geeking Out in the Golden Years,http://ucsdnews.ucsd.edu/pressrelease/geeking_out_in_the_golden_years,/u/quobit,2
-0,2017-04-27 04:47:18 -0500,"['/t/linux', '/t/practices']",9 lessons from 25 years of Linux kernel development,https://opensource.com/article/16/12/yearbook-9-lessons-25-years-linux-kernel-development,/u/adsouza,3
-0,2017-04-26 23:04:45 -0500,['/t/linux'],Signals the easy way,https://www.stev.org/post/linuxprogrammingsignalstheeasyway,/u/pushcx,6
-3,2017-04-26 10:49:08 -0500,['/t/programming'],Ada: a C Developer's Perspective,http://www.methodsandtools.com/archive/ada.php,/u/pushcx,17
-6,2017-04-26 07:37:05 -0500,['/t/security'],Passing the Baton,https://grsecurity.net/passing_the_baton.php,/u/lattera,18
-0,2017-04-27 07:43:02 -0500,['/t/hardware'],LSIbox,http://retrocmp.com/projects/lsibox,/u/flyingfisch,1
-0,2017-04-26 07:51:39 -0500,"['/t/linux', '/t/virtualization']",Two Objects not Namespaced by the Linux Kernel,https://blog.jessfraz.com/post/two-objects-not-namespaced-linux-kernel/,/u/rbn,22
-2,2017-04-26 07:52:49 -0500,"['/t/javascript', '/t/web']",Meet SurveyJS,https://medium.com/@surveyjs.org/meet-surveyjs-d8ac6a61db62,/u/duodvk,10
-9,2017-04-26 10:13:33 -0500,['/t/java'],File processing in Clojure can easily become CPU bound,https://hackernoon.com/file-processing-in-clojure-can-easily-become-cpu-bound-3c1c38669daf,/u/pushcx,8
-0,2017-04-26 15:27:12 -0500,['/t/hardware'],How the RISC-V memory model bug shows the real power of an open ISA,https://www.codasip.com/2017/04/25/when-a-bug-really-is-a-feature/,/u/chadski,8
-0,2017-04-26 18:28:39 -0500,"['/t/practices', '/t/visualization']",Banning exploration in my infovis class,https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a4705,/u/pushcx,5
-3,2017-04-26 18:17:35 -0500,"['/t/cryptocurrencies', '/t/hardware', '/t/security']",Antbleed - Exposing the malicious backdoor on Antminer,http://www.antbleed.com/,/u/pushcx,3
-2,2017-04-26 10:00:24 -0500,"['/t/browsers', '/t/privacy', '/t/web']","QUIC in the wild, for Google ad advantage.",https://blog.brave.com/quic-in-the-wild-for-google-ad-advantage/,/u/dgv,7
-7,2017-04-26 06:38:40 -0500,"['/t/linux', '/t/mobile']","Canonical to end Ubuntu Phone updates [in June], close app store [at end of year]",http://www.networkworld.com/article/3191867/open-source-tools/ubuntu-phone-security-updates-end-in-june-app-store-closing.html,/u/calvin,9
-5,2017-04-26 02:28:59 -0500,"['/t/compilers', '/t/programming', '/t/python', '/t/unix']",OVM will be a Slice of the CPython VM,http://www.oilshell.org/blog/2017/04/25.html,/u/andyc,11
-0,2017-04-26 21:05:00 -0500,['/t/mobile'],ZeroPhone - a Raspberry Pi smartphone you can assemble for $50 in parts,http://hackaday.io/project/19035-zerophone-a-raspberry-pi-smartphone,/u/chadski,3
+0,2017-04-27 14:20:37 -0500,"/t/devops,/t/practices,/t/privacy",How to hide sensitive POST data in NGINX log,https://www.rstcloud.net/blog/30-how-to-hide-sensitive-post-data-in-nginx-log,/u/friendlysock,2
+6,2017-04-26 14:45:57 -0500,/t/hardware,BrickerBot Author Claims He Bricked Two Million Devices,https://www.bleepingcomputer.com/news/security/brickerbot-author-claims-he-bricked-two-million-devices/,/u/yumaikas,19
+2,2017-04-26 10:36:03 -0500,/t/databases,The big old reliable Elephant: talking about Postgres with Craig Kerstiens,https://medium.com/this-is-not-a-monad-tutorial/the-big-old-reliable-elephant-talking-about-postgres-with-craig-kerstiens-a07ddec3e460,/u/unbalancedparentheses,20
+0,2017-04-27 16:08:46 -0500,"/t/dotnet,/t/release","Rider EAP 21: F# support, bundled TFS plugin and more",https://blog.jetbrains.com/dotnet/2017/04/27/rider-eap-21-f-support-bundled-tfs-plugin/,/u/calvin,1
+1,2017-04-26 21:48:28 -0500,"/t/pdf,/t/book,/t/compsci","DSL Engineering: Designing, Implementing and Using Domain-Specific Languages",http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf,/u/bill,9
+4,2017-04-26 15:38:18 -0500,"/t/education,/t/programming",Learn X in Y Minutes: Scenic Programming Language Tours,https://learnxinyminutes.com/,/u/pushcx,15
+5,2017-04-26 16:35:26 -0500,"/t/education,/t/programming",Learnable Programming – Designing a programming system for understanding programs,http://worrydream.com/LearnableProgramming/,/u/qznc,13
+12,2017-04-26 06:09:15 -0500,"/t/education,/t/programming",Scratch Has a Marketing Problem,https://stevekrouse.com/scratch-has-a-marketing-problem-f84626bd18ef,/u/calvin,27
+0,2017-04-27 13:42:01 -0500,"/t/event,/t/freebsd,/t/netbsd,/t/openbsd",EuroBSDCon 2017 CFP deadline approaching,http://mail-index.netbsd.org/pkgsrc-users/2017/04/27/msg024757.html,/u/cnst,1
+0,2017-04-27 08:00:24 -0500,/t/education,Geeking Out in the Golden Years,http://ucsdnews.ucsd.edu/pressrelease/geeking_out_in_the_golden_years,/u/quobit,2
+0,2017-04-27 04:47:18 -0500,"/t/linux,/t/practices",9 lessons from 25 years of Linux kernel development,https://opensource.com/article/16/12/yearbook-9-lessons-25-years-linux-kernel-development,/u/adsouza,3
+0,2017-04-26 23:04:45 -0500,/t/linux,Signals the easy way,https://www.stev.org/post/linuxprogrammingsignalstheeasyway,/u/pushcx,6
+3,2017-04-26 10:49:08 -0500,/t/programming,Ada: a C Developer's Perspective,http://www.methodsandtools.com/archive/ada.php,/u/pushcx,17
+6,2017-04-26 07:37:05 -0500,/t/security,Passing the Baton,https://grsecurity.net/passing_the_baton.php,/u/lattera,18
+0,2017-04-27 07:43:02 -0500,/t/hardware,LSIbox,http://retrocmp.com/projects/lsibox,/u/flyingfisch,1
+0,2017-04-26 07:51:39 -0500,"/t/linux,/t/virtualization",Two Objects not Namespaced by the Linux Kernel,https://blog.jessfraz.com/post/two-objects-not-namespaced-linux-kernel/,/u/rbn,22
+2,2017-04-26 07:52:49 -0500,"/t/javascript,/t/web",Meet SurveyJS,https://medium.com/@surveyjs.org/meet-surveyjs-d8ac6a61db62,/u/duodvk,10
+9,2017-04-26 10:13:33 -0500,/t/java,File processing in Clojure can easily become CPU bound,https://hackernoon.com/file-processing-in-clojure-can-easily-become-cpu-bound-3c1c38669daf,/u/pushcx,8
+0,2017-04-26 15:27:12 -0500,/t/hardware,How the RISC-V memory model bug shows the real power of an open ISA,https://www.codasip.com/2017/04/25/when-a-bug-really-is-a-feature/,/u/chadski,8
+0,2017-04-26 18:28:39 -0500,"/t/practices,/t/visualization",Banning exploration in my infovis class,https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a4705,/u/pushcx,5
+3,2017-04-26 18:17:35 -0500,"/t/cryptocurrencies,/t/hardware,/t/security",Antbleed - Exposing the malicious backdoor on Antminer,http://www.antbleed.com/,/u/pushcx,3
+2,2017-04-26 10:00:24 -0500,"/t/browsers,/t/privacy,/t/web","QUIC in the wild, for Google ad advantage.",https://blog.brave.com/quic-in-the-wild-for-google-ad-advantage/,/u/dgv,7
+7,2017-04-26 06:38:40 -0500,"/t/linux,/t/mobile","Canonical to end Ubuntu Phone updates [in June], close app store [at end of year]",http://www.networkworld.com/article/3191867/open-source-tools/ubuntu-phone-security-updates-end-in-june-app-store-closing.html,/u/calvin,9
+5,2017-04-26 02:28:59 -0500,"/t/compilers,/t/programming,/t/python,/t/unix",OVM will be a Slice of the CPython VM,http://www.oilshell.org/blog/2017/04/25.html,/u/andyc,11
+0,2017-04-26 21:05:00 -0500,/t/mobile,ZeroPhone - a Raspberry Pi smartphone you can assemble for $50 in parts,http://hackaday.io/project/19035-zerophone-a-raspberry-pi-smartphone,/u/chadski,3

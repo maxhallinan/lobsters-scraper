@@ -1,25 +1,25 @@
-1,2014-05-16 04:00:30 -0500,['/t/privacy'],"Sony, meet EFF",http://tante.cc/2014/05/15/sony-meet-eff/,/u/tante,1
-0,2014-05-15 16:13:25 -0500,"['/t/design', '/t/ruby']",Test Isolation Is About Avoiding Mocks,https://www.destroyallsoftware.com/blog/2014/test-isolation-is-about-avoiding-mocks,/u/pushcx,8
-0,2014-05-15 17:57:21 -0500,"['/t/databases', '/t/distributed']",An open-source implementation of Calvin,https://github.com/yaledb/calvin,/u/vjoel,6
-0,2014-05-15 19:02:02 -0500,['/t/programming'],Neural networks and a dive into Julia,http://blog.yhathq.com/posts/julia-neural-networks.html,/u/drturtle,5
-2,2014-05-15 07:46:11 -0500,"['/t/haskell', '/t/programming']",Yesod is Fun,http://blog.jakubarnold.cz/2014/05/15/yesod-is-fun.html,/u/darthdeus,14
-3,2014-05-15 09:01:44 -0500,['/t/security'],TweetNaCl: how cr.yp.to’s developers got carried away by the carry bit,http://blog.skylable.com/2014/05/tweetnacl-carrybit-bug/,/u/jcs,11
-0,2014-05-15 12:55:58 -0500,"['/t/pdf', '/t/networking', '/t/practices']",The Decline and Fall of BIND 10,https://ripe68.ripe.net/presentations/208-The_Decline_and_Fall_of_BIND_10.pdf,/u/zhemao,10
-0,2014-05-15 19:34:13 -0500,"['/t/show', '/t/games', '/t/ios']",Tileswap: my first iOS game,https://itunes.apple.com/us/app/tileswap-a-puzzle-game/id859666964,/u/psuter,4
-0,2014-05-15 23:47:10 -0500,"['/t/java', '/t/web']",An Opinionated Guide to Modern Java Pt. 3: Web Development,http://blog.paralleluniverse.co/2014/05/15/modern-java-pt3/,/u/dix,2
-0,2014-05-15 12:00:07 -0500,['/t/lisp'],Functional Programming explained in Clojure,http://www.braveclojure.com/functional-programming/,/u/zhemao,8
-2,2014-05-15 08:44:28 -0500,"['/t/philosophy', '/t/release']",FSF condemns partnership between Mozilla and Adobe to support Digital Restrictions Management,http://www.fsf.org/news/fsf-condemns-partnership-between-mozilla-and-adobe-to-support-digital-restrictions-management,/u/Tenoke,8
-2,2014-05-15 14:10:50 -0500,"['/t/pdf', '/t/distributed', '/t/erlang', '/t/freebsd', '/t/scaling']",How WhatsApp is scaling up,https://raw.githubusercontent.com/reedr/reedr/master/slides/efsf2014-whatsapp-scaling.pdf,/u/pancho-villa,3
-0,2014-05-15 13:07:18 -0500,"['/t/programming', '/t/scala']",Building Scala at Scale,http://www.sumologic.com/blog/company/building-scala-at-scale,/u/penberg,6
-0,2014-05-15 19:33:53 -0500,"['/t/practices', '/t/programming']","Design, Composition, and Performance",http://www.infoq.com/presentations/design-composition-performance-keynote,/u/carlosgaldino,1
-0,2014-05-15 18:30:19 -0500,['/t/programming'],OpenTuner,http://opentuner.org/,/u/mikemccracken,1
-5,2014-05-14 19:19:48 -0500,['/t/browsers'],Reconciling Mozilla’s Mission and the W3C EME,http://andreasgal.com/2014/05/14/eme/,/u/jcs,9
-0,2014-05-15 14:18:55 -0500,['/t/programming'],The complete correctness of sorting,http://twanvl.nl/blog/agda/sorting,/u/puffnfresh,1
-0,2014-05-15 11:35:10 -0500,"['/t/javascript', '/t/web']",Modern Web Essentials Using JavaScript and HTML5,http://www.infoq.com/minibooks/javascript-html5-essentials,/u/ancatrusca,1
-0,2014-05-15 10:58:24 -0500,['/t/javascript'],Introducing SchemaVer for semantic versioning of schemas,http://snowplowanalytics.com/blog/2014/05/13/introducing-schemaver-for-semantic-versioning-of-schemas/,/u/alexdean,1
-0,2014-05-14 17:04:31 -0500,"['/t/hardware', '/t/reversing']",Enhancing the AVIC-5000NEX,https://fail0verflow.com/blog/2014/enhancing-the-avic-5000nex.html,/u/jcs,12
-0,2014-05-14 15:41:10 -0500,"['/t/programming', '/t/science']",Improving GitHub for science,https://github.com/blog/1840-improving-github-for-science,/u/mikemccracken,11
-0,2014-05-14 15:27:51 -0500,"['/t/go', '/t/programming']",An Introduction to Programming in Go,http://www.golang-book.com/,/u/jpadilla,10
-0,2014-05-15 07:25:20 -0500,"['/t/video', '/t/java']",Visualizing The Frequency Of JVM Thread Call Stack Frame Depths,https://vimeo.com/95332184,/u/lauris,1
-0,2014-05-15 07:23:53 -0500,['/t/databases'],Test Automation for NoSQL Databases with NoSQL Unit and Travis-CI,https://blog.codecentric.de/en/2014/05/nosql-test-automation-nosqlunit-travis-ci/,/u/lauris,1
-0,2014-05-14 18:38:41 -0500,"['/t/c', '/t/programming']",The Ksplice Pointer Challenge,https://blogs.oracle.com/ksplice/entry/the_ksplice_pointer_challenge,/u/tkozik,6
+1,2014-05-16 04:00:30 -0500,/t/privacy,"Sony, meet EFF",http://tante.cc/2014/05/15/sony-meet-eff/,/u/tante,1
+0,2014-05-15 16:13:25 -0500,"/t/design,/t/ruby",Test Isolation Is About Avoiding Mocks,https://www.destroyallsoftware.com/blog/2014/test-isolation-is-about-avoiding-mocks,/u/pushcx,8
+0,2014-05-15 17:57:21 -0500,"/t/databases,/t/distributed",An open-source implementation of Calvin,https://github.com/yaledb/calvin,/u/vjoel,6
+0,2014-05-15 19:02:02 -0500,/t/programming,Neural networks and a dive into Julia,http://blog.yhathq.com/posts/julia-neural-networks.html,/u/drturtle,5
+2,2014-05-15 07:46:11 -0500,"/t/haskell,/t/programming",Yesod is Fun,http://blog.jakubarnold.cz/2014/05/15/yesod-is-fun.html,/u/darthdeus,14
+3,2014-05-15 09:01:44 -0500,/t/security,TweetNaCl: how cr.yp.to’s developers got carried away by the carry bit,http://blog.skylable.com/2014/05/tweetnacl-carrybit-bug/,/u/jcs,11
+0,2014-05-15 12:55:58 -0500,"/t/pdf,/t/networking,/t/practices",The Decline and Fall of BIND 10,https://ripe68.ripe.net/presentations/208-The_Decline_and_Fall_of_BIND_10.pdf,/u/zhemao,10
+0,2014-05-15 19:34:13 -0500,"/t/show,/t/games,/t/ios",Tileswap: my first iOS game,https://itunes.apple.com/us/app/tileswap-a-puzzle-game/id859666964,/u/psuter,4
+0,2014-05-15 23:47:10 -0500,"/t/java,/t/web",An Opinionated Guide to Modern Java Pt. 3: Web Development,http://blog.paralleluniverse.co/2014/05/15/modern-java-pt3/,/u/dix,2
+0,2014-05-15 12:00:07 -0500,/t/lisp,Functional Programming explained in Clojure,http://www.braveclojure.com/functional-programming/,/u/zhemao,8
+2,2014-05-15 08:44:28 -0500,"/t/philosophy,/t/release",FSF condemns partnership between Mozilla and Adobe to support Digital Restrictions Management,http://www.fsf.org/news/fsf-condemns-partnership-between-mozilla-and-adobe-to-support-digital-restrictions-management,/u/Tenoke,8
+2,2014-05-15 14:10:50 -0500,"/t/pdf,/t/distributed,/t/erlang,/t/freebsd,/t/scaling",How WhatsApp is scaling up,https://raw.githubusercontent.com/reedr/reedr/master/slides/efsf2014-whatsapp-scaling.pdf,/u/pancho-villa,3
+0,2014-05-15 13:07:18 -0500,"/t/programming,/t/scala",Building Scala at Scale,http://www.sumologic.com/blog/company/building-scala-at-scale,/u/penberg,6
+0,2014-05-15 19:33:53 -0500,"/t/practices,/t/programming","Design, Composition, and Performance",http://www.infoq.com/presentations/design-composition-performance-keynote,/u/carlosgaldino,1
+0,2014-05-15 18:30:19 -0500,/t/programming,OpenTuner,http://opentuner.org/,/u/mikemccracken,1
+5,2014-05-14 19:19:48 -0500,/t/browsers,Reconciling Mozilla’s Mission and the W3C EME,http://andreasgal.com/2014/05/14/eme/,/u/jcs,9
+0,2014-05-15 14:18:55 -0500,/t/programming,The complete correctness of sorting,http://twanvl.nl/blog/agda/sorting,/u/puffnfresh,1
+0,2014-05-15 11:35:10 -0500,"/t/javascript,/t/web",Modern Web Essentials Using JavaScript and HTML5,http://www.infoq.com/minibooks/javascript-html5-essentials,/u/ancatrusca,1
+0,2014-05-15 10:58:24 -0500,/t/javascript,Introducing SchemaVer for semantic versioning of schemas,http://snowplowanalytics.com/blog/2014/05/13/introducing-schemaver-for-semantic-versioning-of-schemas/,/u/alexdean,1
+0,2014-05-14 17:04:31 -0500,"/t/hardware,/t/reversing",Enhancing the AVIC-5000NEX,https://fail0verflow.com/blog/2014/enhancing-the-avic-5000nex.html,/u/jcs,12
+0,2014-05-14 15:41:10 -0500,"/t/programming,/t/science",Improving GitHub for science,https://github.com/blog/1840-improving-github-for-science,/u/mikemccracken,11
+0,2014-05-14 15:27:51 -0500,"/t/go,/t/programming",An Introduction to Programming in Go,http://www.golang-book.com/,/u/jpadilla,10
+0,2014-05-15 07:25:20 -0500,"/t/video,/t/java",Visualizing The Frequency Of JVM Thread Call Stack Frame Depths,https://vimeo.com/95332184,/u/lauris,1
+0,2014-05-15 07:23:53 -0500,/t/databases,Test Automation for NoSQL Databases with NoSQL Unit and Travis-CI,https://blog.codecentric.de/en/2014/05/nosql-test-automation-nosqlunit-travis-ci/,/u/lauris,1
+0,2014-05-14 18:38:41 -0500,"/t/c,/t/programming",The Ksplice Pointer Challenge,https://blogs.oracle.com/ksplice/entry/the_ksplice_pointer_challenge,/u/tkozik,6

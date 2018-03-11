@@ -1,25 +1,25 @@
-0,2016-08-14 11:19:07 -0500,"['/t/distributed', '/t/javascript', '/t/web']",Solid: Building Decentralized Applications for the Social Web,https://github.com/solid/solid-tutorial-intro,/u/omphalos,6
-1,2016-08-13 23:04:00 -0500,['/t/hardware'],DuoSkin,http://duoskin.media.mit.edu/,/u/marvindanig,21
-0,2016-08-14 19:22:35 -0500,['/t/culture'],The Power of Company Mottoes,https://mondaynote.com/the-power-of-company-mottoes-d57754146554,/u/calvin,4
-0,2016-08-14 21:43:40 -0500,"['/t/video', '/t/crypto']",DEF CON 23 - Crypto and Privacy Village - Carlson and Doherty - Breaking CBC,https://www.youtube.com/watch?v=v0IsYNDMV7A,/u/bowyakka,1
-0,2016-08-14 17:11:20 -0500,"['/t/pdf', '/t/security', '/t/virtualization']",Flip Feng Shui: Hammering a Needle in the Software Stack,http://www.cs.vu.nl//~kaveh/pubs/pdf/ffs-usenixsec16.pdf,/u/pushcx,2
-0,2016-08-14 11:50:55 -0500,"['/t/cogsci', '/t/culture', '/t/practices']","Motivational Incongruence and Well-Being at the Workplace: Person-Job Fit, Job Burnout, and Physical Symptoms",http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01153/full,/u/friendlysock,7
-5,2016-08-13 16:34:07 -0500,['/t/python'],The One Python Library Everyone Needs,https://glyph.twistedmatrix.com/2016/08/attrs.html,/u/antifuchs,23
-5,2016-08-13 15:57:37 -0500,"['/t/crypto', '/t/privacy', '/t/security']",Is Apple's Cloud Key Vault a crypto backdoor?,http://blog.cryptographyengineering.com/2016/08/is-apples-cloud-key-vault-crypto.html,/u/jabberwock,14
-6,2016-08-13 17:49:49 -0500,"['/t/networking', '/t/release']",Little Gopher Client,http://runtimeterror.com/tools/gopher/,/u/mulander,10
-1,2016-08-13 21:10:52 -0500,"['/t/pdf', '/t/math']",Probability Theory and Examples,https://services.math.duke.edu/~rtd/PTE/PTE4_1.pdf,/u/michaelochurch,9
-1,2016-08-13 20:00:07 -0500,"['/t/elixir', '/t/ruby', '/t/web']",Phoenix Channels vs Rails Action Cable,https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable,/u/friendlysock,11
-3,2016-08-14 01:45:16 -0500,"['/t/pdf', '/t/philosophy', '/t/practices']",Free Software Foundation releases FY2015 Annual Report,http://www.fsf.org/news/free-software-foundation-releases-fy2015-annual-report,/u/JordiGH,4
-0,2016-08-13 22:35:00 -0500,"['/t/release', '/t/ruby']",cantino/huginn -- Agent framework for life enrichment?,https://github.com/cantino/huginn,/u/friendlysock,7
-0,2016-08-13 20:08:57 -0500,['/t/graphics'],High Performance SVGs,https://css-tricks.com/high-performance-svgs/,/u/pushcx,8
-0,2016-08-13 18:12:55 -0500,['/t/math'],The Beauty of Roots,http://math.ucr.edu/home/baez/roots/,/u/dwc,10
-1,2016-08-13 10:40:28 -0500,"['/t/c', '/t/compilers', '/t/reversing', '/t/unix']",endrazine/wcc - The Witchcraft Compiler Collection,https://github.com/endrazine/wcc,/u/friendlysock,22
-1,2016-08-13 19:34:53 -0500,"['/t/hardware', '/t/law', '/t/security']",Pac-Man on the Sequoia AVC-Edge DRE Voting Machine,https://jhalderm.com/pacman/,/u/calvin,6
-0,2016-08-13 17:57:55 -0500,"['/t/linux', '/t/networking', '/t/security']",CVE-2016-5696 and its effects on Tor,https://blog.patternsinthevoid.net/cve-2016-5696-and-its-effects-on-tor.html,/u/pushcx,6
-26,2016-08-12 19:31:43 -0500,"['/t/browsers', '/t/web']",The adblock arms race has began.,https://adblockplus.org/blog/fb-reblock-ad-blocking-community-finds-workaround-to-facebook,/u/kel,22
-12,2016-08-12 10:26:09 -0500,"['/t/ios', '/t/mac', '/t/security']","Apple at BlackHat: Reopening the ""Going Dark"" Debate",https://lawfareblog.com/apple-blackhat-reopening-going-dark-debate,/u/fkr,36
-0,2016-08-13 17:09:27 -0500,['/t/person'],Adaptive Computation: The Multidisciplinary Legacy of John H. Holland,http://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/fulltext,/u/mjn,1
-23,2016-08-12 12:14:14 -0500,"['/t/math', '/t/python']",Guido accepts PEP 628 to add tau to math constants,http://bugs.python.org/issue12345#msg272287,/u/JordiGH,18
-11,2016-08-12 14:15:10 -0500,['/t/programming'],"Fuchsia: a new open source OS by Google for phones, PCs",http://www.osnews.com/story/29343/Fuchsia_a_new_open_source_OS_by_Google_for_phones_PCs,/u/calvin,14
-13,2016-08-12 09:51:53 -0500,"['/t/hardware', '/t/philosophy']","Support the Libre Tea Computer Card, a candidate for Respects Your Freedom certification",https://www.fsf.org/blogs/licensing/support-the-libre-tea-computer-card-a-candidate-for-respects-your-freedom-certification,/u/C-Keen,17
-0,2016-08-12 22:43:35 -0500,['/t/games'],How RimWorld Generates Great Stories,https://www.rockpapershotgun.com/2016/08/12/how-rimworld-generates-great-stories/,/u/unbalancedparentheses,8
+0,2016-08-14 11:19:07 -0500,"/t/distributed,/t/javascript,/t/web",Solid: Building Decentralized Applications for the Social Web,https://github.com/solid/solid-tutorial-intro,/u/omphalos,6
+1,2016-08-13 23:04:00 -0500,/t/hardware,DuoSkin,http://duoskin.media.mit.edu/,/u/marvindanig,21
+0,2016-08-14 19:22:35 -0500,/t/culture,The Power of Company Mottoes,https://mondaynote.com/the-power-of-company-mottoes-d57754146554,/u/calvin,4
+0,2016-08-14 21:43:40 -0500,"/t/video,/t/crypto",DEF CON 23 - Crypto and Privacy Village - Carlson and Doherty - Breaking CBC,https://www.youtube.com/watch?v=v0IsYNDMV7A,/u/bowyakka,1
+0,2016-08-14 17:11:20 -0500,"/t/pdf,/t/security,/t/virtualization",Flip Feng Shui: Hammering a Needle in the Software Stack,http://www.cs.vu.nl//~kaveh/pubs/pdf/ffs-usenixsec16.pdf,/u/pushcx,2
+0,2016-08-14 11:50:55 -0500,"/t/cogsci,/t/culture,/t/practices","Motivational Incongruence and Well-Being at the Workplace: Person-Job Fit, Job Burnout, and Physical Symptoms",http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01153/full,/u/friendlysock,7
+5,2016-08-13 16:34:07 -0500,/t/python,The One Python Library Everyone Needs,https://glyph.twistedmatrix.com/2016/08/attrs.html,/u/antifuchs,23
+5,2016-08-13 15:57:37 -0500,"/t/crypto,/t/privacy,/t/security",Is Apple's Cloud Key Vault a crypto backdoor?,http://blog.cryptographyengineering.com/2016/08/is-apples-cloud-key-vault-crypto.html,/u/jabberwock,14
+6,2016-08-13 17:49:49 -0500,"/t/networking,/t/release",Little Gopher Client,http://runtimeterror.com/tools/gopher/,/u/mulander,10
+1,2016-08-13 21:10:52 -0500,"/t/pdf,/t/math",Probability Theory and Examples,https://services.math.duke.edu/~rtd/PTE/PTE4_1.pdf,/u/michaelochurch,9
+1,2016-08-13 20:00:07 -0500,"/t/elixir,/t/ruby,/t/web",Phoenix Channels vs Rails Action Cable,https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable,/u/friendlysock,11
+3,2016-08-14 01:45:16 -0500,"/t/pdf,/t/philosophy,/t/practices",Free Software Foundation releases FY2015 Annual Report,http://www.fsf.org/news/free-software-foundation-releases-fy2015-annual-report,/u/JordiGH,4
+0,2016-08-13 22:35:00 -0500,"/t/release,/t/ruby",cantino/huginn -- Agent framework for life enrichment?,https://github.com/cantino/huginn,/u/friendlysock,7
+0,2016-08-13 20:08:57 -0500,/t/graphics,High Performance SVGs,https://css-tricks.com/high-performance-svgs/,/u/pushcx,8
+0,2016-08-13 18:12:55 -0500,/t/math,The Beauty of Roots,http://math.ucr.edu/home/baez/roots/,/u/dwc,10
+1,2016-08-13 10:40:28 -0500,"/t/c,/t/compilers,/t/reversing,/t/unix",endrazine/wcc - The Witchcraft Compiler Collection,https://github.com/endrazine/wcc,/u/friendlysock,22
+1,2016-08-13 19:34:53 -0500,"/t/hardware,/t/law,/t/security",Pac-Man on the Sequoia AVC-Edge DRE Voting Machine,https://jhalderm.com/pacman/,/u/calvin,6
+0,2016-08-13 17:57:55 -0500,"/t/linux,/t/networking,/t/security",CVE-2016-5696 and its effects on Tor,https://blog.patternsinthevoid.net/cve-2016-5696-and-its-effects-on-tor.html,/u/pushcx,6
+26,2016-08-12 19:31:43 -0500,"/t/browsers,/t/web",The adblock arms race has began.,https://adblockplus.org/blog/fb-reblock-ad-blocking-community-finds-workaround-to-facebook,/u/kel,22
+12,2016-08-12 10:26:09 -0500,"/t/ios,/t/mac,/t/security","Apple at BlackHat: Reopening the ""Going Dark"" Debate",https://lawfareblog.com/apple-blackhat-reopening-going-dark-debate,/u/fkr,36
+0,2016-08-13 17:09:27 -0500,/t/person,Adaptive Computation: The Multidisciplinary Legacy of John H. Holland,http://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/fulltext,/u/mjn,1
+23,2016-08-12 12:14:14 -0500,"/t/math,/t/python",Guido accepts PEP 628 to add tau to math constants,http://bugs.python.org/issue12345#msg272287,/u/JordiGH,18
+11,2016-08-12 14:15:10 -0500,/t/programming,"Fuchsia: a new open source OS by Google for phones, PCs",http://www.osnews.com/story/29343/Fuchsia_a_new_open_source_OS_by_Google_for_phones_PCs,/u/calvin,14
+13,2016-08-12 09:51:53 -0500,"/t/hardware,/t/philosophy","Support the Libre Tea Computer Card, a candidate for Respects Your Freedom certification",https://www.fsf.org/blogs/licensing/support-the-libre-tea-computer-card-a-candidate-for-respects-your-freedom-certification,/u/C-Keen,17
+0,2016-08-12 22:43:35 -0500,/t/games,How RimWorld Generates Great Stories,https://www.rockpapershotgun.com/2016/08/12/how-rimworld-generates-great-stories/,/u/unbalancedparentheses,8

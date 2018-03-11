@@ -1,25 +1,25 @@
-0,2013-12-22 22:30:16 -0600,['/t/databases'],Knossos: Redis and linearizability,http://aphyr.com/posts/309-knossos-redis-and-linearizability,/u/SeanTAllen,8
-0,2013-12-23 11:18:24 -0600,"['/t/javascript', '/t/web']",50 Most Useful jQuery Plugins from 2013,http://speckyboy.com/2013/12/11/jquery-plugins-2013/,/u/jm,1
-0,2013-12-22 21:55:04 -0600,"['/t/networking', '/t/release']",exabgp: The BGP swiss army knife of networking,https://github.com/Exa-Networks/exabgp,/u/jcs,6
-0,2013-12-23 00:19:32 -0600,"['/t/c', '/t/databases']",High Concurrency B-Tree code in C,https://code.google.com/p/high-concurrency-btree/,/u/robey,4
-7,2013-12-22 18:11:54 -0600,['/t/rant'],Why I'm turning JavaScript off by default,http://tommorris.org/posts/8677,/u/SeanTAllen,13
-1,2013-12-22 21:20:49 -0600,"['/t/news', '/t/security']",Weak U.S. card security made Target a juicy target,http://www.usatoday.com/story/money/business/2013/12/22/weak-us-card-security-made-target-a-juicy-target/4165427/,/u/journeysquid,2
-0,2013-12-22 20:10:50 -0600,['/t/privacy'],What Surveillance Valley knows about you,http://pando.com/2013/12/22/a-peek-into-surveillance-valley/,/u/jcs,4
-0,2013-12-22 13:38:28 -0600,"['/t/programming', '/t/reversing']",SnapchatFS: turn snapchat into general purpose file store,https://github.com/hausdorff/snapchat-fs,/u/dl,7
-0,2013-12-23 08:36:47 -0600,['/t/javascript'],"45 Useful JavaScript Tips, Tricks and Best Practices",http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/,/u/remotesynth,0
-0,2013-12-22 21:29:02 -0600,"['/t/programming', '/t/web']",REST API Alternatives,http://blog.programmableweb.com/2013/12/19/is-rest-losing-its-flair-rest-api-alternatives-2/,/u/journeysquid,2
-0,2013-12-22 13:52:14 -0600,"['/t/javascript', '/t/lisp', '/t/web']",The react tutorial rewritten in Om,https://github.com/jalehman/react-tutorial-om,/u/SeanTAllen,2
-2,2013-12-22 00:16:30 -0600,"['/t/devops', '/t/programming']",Zero downtime restarts for unmodified applications,https://github.com/amscanne/huptime,/u/epanastasi,7
-1,2013-12-22 10:41:29 -0600,['/t/science'],"A Solar Boom So Successful, It's Been Halted",http://www.scientificamerican.com/article.cfm?id=a-solar-boom-so-successfull-its-been-halted,/u/journeysquid,1
-0,2013-12-22 10:26:02 -0600,"['/t/law', '/t/privacy', '/t/security']",White House Tries to Prevent Judge From Ruling on Surveillance Efforts,http://www.nytimes.com/2013/12/22/us/white-house-tries-to-prevent-judge-from-ruling-on-surveillance-efforts.html,/u/journeysquid,2
-1,2013-12-22 13:46:19 -0600,['/t/windows'],Microsoft Project Siena,http://technet.microsoft.com/en-us/ProjectSiena,/u/mc,1
-0,2013-12-21 22:06:34 -0600,['/t/mac'],homebrew-cask — homebrew for Mac applications binaries,https://github.com/phinze/homebrew-cask,/u/danielsarsi,6
-6,2013-12-21 11:02:53 -0600,"['/t/reversing', '/t/ruby', '/t/security']",Snapchat: not for state secrets,https://kivikakk.ee/2013/05/10/snapchat.html,/u/jcs,12
-0,2013-12-21 19:27:35 -0600,"['/t/video', '/t/assembly']",Chuck Moore: Programming a 144-computer Chip to Minimize Power,http://www.infoq.com/presentations/power-144-chip,/u/chneukirchen,5
-1,2013-12-21 21:12:22 -0600,['/t/privacy'],"FBI Agent: Connection Logs Show Suspect's MAC Address, So Look For Apple Hardware",http://www.techdirt.com/articles/20131220/07264325650/fbi-agent-connection-logs-show-suspects-mac-address-so-look-apple-hardware.shtml,/u/jm,2
-0,2013-12-21 22:04:24 -0600,"['/t/design', '/t/javascript', '/t/web']",Yttr — A file sharing service for non-important files.,https://yttr.co/,/u/danielsarsi,2
-0,2013-12-21 22:25:28 -0600,"['/t/javascript', '/t/web']",echo.js: lazy-loading images with data-* attributes,https://github.com/toddmotto/echo,/u/danielsarsi,1
-2,2013-12-21 11:01:53 -0600,"['/t/event', '/t/satire']",Web Domain White Elephant Exchange,http://webdomainwhiteelephantexchange.com,/u/danielzarick,8
-0,2013-12-21 09:49:21 -0600,"['/t/law', '/t/privacy']","US changes its mind, tells FISA Court it’s cool to publish metadata rulings",http://arstechnica.com/tech-policy/2013/12/us-changes-its-mind-tells-fisa-court-its-cool-to-publish-metadata-rulings/,/u/jm,4
-1,2013-12-21 08:01:00 -0600,['/t/security'],new openssh key format and bcrypt pbkdf,http://www.tedunangst.com/flak/post/new-openssh-key-format-and-bcrypt-pbkdf,/u/jcs,4
-0,2013-12-21 09:54:31 -0600,['/t/javascript'],Creating Read-Only Reference to Object in JavaScript,http://blog.bolshchikov.net/post/70680524646/creating-read-only-reference-to-object-in-javascript,/u/jm,2
+0,2013-12-22 22:30:16 -0600,/t/databases,Knossos: Redis and linearizability,http://aphyr.com/posts/309-knossos-redis-and-linearizability,/u/SeanTAllen,8
+0,2013-12-23 11:18:24 -0600,"/t/javascript,/t/web",50 Most Useful jQuery Plugins from 2013,http://speckyboy.com/2013/12/11/jquery-plugins-2013/,/u/jm,1
+0,2013-12-22 21:55:04 -0600,"/t/networking,/t/release",exabgp: The BGP swiss army knife of networking,https://github.com/Exa-Networks/exabgp,/u/jcs,6
+0,2013-12-23 00:19:32 -0600,"/t/c,/t/databases",High Concurrency B-Tree code in C,https://code.google.com/p/high-concurrency-btree/,/u/robey,4
+7,2013-12-22 18:11:54 -0600,/t/rant,Why I'm turning JavaScript off by default,http://tommorris.org/posts/8677,/u/SeanTAllen,13
+1,2013-12-22 21:20:49 -0600,"/t/news,/t/security",Weak U.S. card security made Target a juicy target,http://www.usatoday.com/story/money/business/2013/12/22/weak-us-card-security-made-target-a-juicy-target/4165427/,/u/journeysquid,2
+0,2013-12-22 20:10:50 -0600,/t/privacy,What Surveillance Valley knows about you,http://pando.com/2013/12/22/a-peek-into-surveillance-valley/,/u/jcs,4
+0,2013-12-22 13:38:28 -0600,"/t/programming,/t/reversing",SnapchatFS: turn snapchat into general purpose file store,https://github.com/hausdorff/snapchat-fs,/u/dl,7
+0,2013-12-23 08:36:47 -0600,/t/javascript,"45 Useful JavaScript Tips, Tricks and Best Practices",http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/,/u/remotesynth,0
+0,2013-12-22 21:29:02 -0600,"/t/programming,/t/web",REST API Alternatives,http://blog.programmableweb.com/2013/12/19/is-rest-losing-its-flair-rest-api-alternatives-2/,/u/journeysquid,2
+0,2013-12-22 13:52:14 -0600,"/t/javascript,/t/lisp,/t/web",The react tutorial rewritten in Om,https://github.com/jalehman/react-tutorial-om,/u/SeanTAllen,2
+2,2013-12-22 00:16:30 -0600,"/t/devops,/t/programming",Zero downtime restarts for unmodified applications,https://github.com/amscanne/huptime,/u/epanastasi,7
+1,2013-12-22 10:41:29 -0600,/t/science,"A Solar Boom So Successful, It's Been Halted",http://www.scientificamerican.com/article.cfm?id=a-solar-boom-so-successfull-its-been-halted,/u/journeysquid,1
+0,2013-12-22 10:26:02 -0600,"/t/law,/t/privacy,/t/security",White House Tries to Prevent Judge From Ruling on Surveillance Efforts,http://www.nytimes.com/2013/12/22/us/white-house-tries-to-prevent-judge-from-ruling-on-surveillance-efforts.html,/u/journeysquid,2
+1,2013-12-22 13:46:19 -0600,/t/windows,Microsoft Project Siena,http://technet.microsoft.com/en-us/ProjectSiena,/u/mc,1
+0,2013-12-21 22:06:34 -0600,/t/mac,homebrew-cask — homebrew for Mac applications binaries,https://github.com/phinze/homebrew-cask,/u/danielsarsi,6
+6,2013-12-21 11:02:53 -0600,"/t/reversing,/t/ruby,/t/security",Snapchat: not for state secrets,https://kivikakk.ee/2013/05/10/snapchat.html,/u/jcs,12
+0,2013-12-21 19:27:35 -0600,"/t/video,/t/assembly",Chuck Moore: Programming a 144-computer Chip to Minimize Power,http://www.infoq.com/presentations/power-144-chip,/u/chneukirchen,5
+1,2013-12-21 21:12:22 -0600,/t/privacy,"FBI Agent: Connection Logs Show Suspect's MAC Address, So Look For Apple Hardware",http://www.techdirt.com/articles/20131220/07264325650/fbi-agent-connection-logs-show-suspects-mac-address-so-look-apple-hardware.shtml,/u/jm,2
+0,2013-12-21 22:04:24 -0600,"/t/design,/t/javascript,/t/web",Yttr — A file sharing service for non-important files.,https://yttr.co/,/u/danielsarsi,2
+0,2013-12-21 22:25:28 -0600,"/t/javascript,/t/web",echo.js: lazy-loading images with data-* attributes,https://github.com/toddmotto/echo,/u/danielsarsi,1
+2,2013-12-21 11:01:53 -0600,"/t/event,/t/satire",Web Domain White Elephant Exchange,http://webdomainwhiteelephantexchange.com,/u/danielzarick,8
+0,2013-12-21 09:49:21 -0600,"/t/law,/t/privacy","US changes its mind, tells FISA Court it’s cool to publish metadata rulings",http://arstechnica.com/tech-policy/2013/12/us-changes-its-mind-tells-fisa-court-its-cool-to-publish-metadata-rulings/,/u/jm,4
+1,2013-12-21 08:01:00 -0600,/t/security,new openssh key format and bcrypt pbkdf,http://www.tedunangst.com/flak/post/new-openssh-key-format-and-bcrypt-pbkdf,/u/jcs,4
+0,2013-12-21 09:54:31 -0600,/t/javascript,Creating Read-Only Reference to Object in JavaScript,http://blog.bolshchikov.net/post/70680524646/creating-read-only-reference-to-object-in-javascript,/u/jm,2

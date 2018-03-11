@@ -1,25 +1,25 @@
-0,2018-03-03 01:31:53 -0600,['/t/vcs'],Getting into git init,https://blog.safia.rocks/post/171448973555/getting-into-git-init,/u/j11g,12
-12,2018-03-02 12:50:37 -0600,"['/t/release', '/t/rust']",synapse 1.0-rc1: a lightweight bittorrent daemon written in Rust,https://synapse-bt.org,/u/SirCmpwn,33
-0,2018-03-03 09:55:10 -0600,"['/t/pdf', '/t/c', '/t/compilers']",Continuation-Passing C: compiling threads to events through continuations (2010),https://arxiv.org/pdf/1011.4558,/u/nickpsecurity,4
-0,2018-03-03 09:51:36 -0600,"['/t/pdf', '/t/compilers', '/t/plt']","Tyr: A Dependent, Type System for Spatial, Memory Safety in LLVM (2016)",https://core.ac.uk/download/pdf/82404884.pdf,/u/nickpsecurity,4
-17,2018-03-02 12:39:43 -0600,"['/t/openbsd', '/t/practices']",GitHub auto-generated tarballs vs releases,https://marc.info/?l=openbsd-ports&m=151973450514279&w=2,/u/mulander,21
-6,2018-03-02 16:39:15 -0600,"['/t/hardware', '/t/science']",Knife Sharpening Experiments,https://www.scribd.com/document/10050000/Knife-Sharpening-Experiments,/u/friendlysock,20
-0,2018-03-03 06:17:42 -0600,"['/t/elm', '/t/programming']",Learning the Language of Functional Programming,https://maxhallinan.com/posts/2018/03/03/learning-the-language-of-functional-programming/,/u/maxhallinan,2
-0,2018-03-02 22:48:10 -0600,"['/t/practices', '/t/programming']",Frequent Vs Infrequent Devs,https://utcc.utoronto.ca/~cks/space/blog/programming/FrequentVsInfrequentDevs,/u/xcombelle,10
-0,2018-03-03 11:05:19 -0600,"['/t/video', '/t/distributed']",Designing for Understandability: The Raft Consensus Algorithm,https://www.youtube.com/watch?v=vYp4LYbnnW8,/u/avita1,2
-4,2018-03-02 09:21:08 -0600,"['/t/c', '/t/c++', '/t/unix']","Sortix: A Small, Self-Hosted, POSIX-compliant, Operating System",https://sortix.org,/u/nickpsecurity,34
-0,2018-03-03 14:08:31 -0600,['/t/programming'],Muck: A Build Tool for Data Journalists,https://www.cjr.org/tow_center_reports/muck-a-build-tool-for-data-journalists.php,/u/mechazoidal,1
-2,2018-03-02 10:02:27 -0600,"['/t/book', '/t/compsci', '/t/education', '/t/math']",J Software releases many APL/mathematical works under Creative Commons license,http://code.jsoftware.com/wiki/Community/Creative_Commons,/u/lorddimwit,31
-3,2018-03-02 15:16:12 -0600,"['/t/linux', '/t/rant']",When distributions get it wrong,https://tingping.github.io/2018/03/02/when-distros-get-it-wrong.html,/u/calvin,33
-0,2018-03-03 07:06:54 -0600,['/t/graphics'],The Line on the Spline,https://teofilobd.github.io/unity/spline/line%20renderer/2018/02/12/The-line-on-the-spline.html,/u/calvin,2
-11,2018-03-02 10:27:22 -0600,['/t/programming'],Why Flutter Uses Dart,https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf,/u/adsouza,12
-0,2018-03-03 09:59:58 -0600,"['/t/pdf', '/t/hardware', '/t/programming']",Fast FPGA Placement Based on Quantum Model (2009),http://www.ee.ucr.edu/~stan/iwecs_workshop/2009/FPGA_Placement_llwang.pdf,/u/nickpsecurity,1
-0,2018-03-03 09:07:50 -0600,"['/t/rust', '/t/testing']",Opportunistic Mutations for Rust,https://llogiq.github.io/2018/03/03/opportune.html,/u/llogiq,1
-0,2018-03-02 12:21:37 -0600,['/t/distributed'],Distinguishing Lasp from Bloom^L: Programming System vs. Programming Model,http://christophermeiklejohn.com/lasp/2018/03/02/lasp-vs-bloom.html,/u/cmeiklejohn,8
-7,2018-03-01 21:49:48 -0600,"['/t/audio', '/t/rust']","Rust 1.24: Performance wins, incremental compilation, and the Rust 2018 Roadmap and Epoch!",http://www.newrustacean.com/show_notes/news/rust_1_24/,/u/chriskrycho,21
-0,2018-03-03 07:41:15 -0600,"['/t/assembly', '/t/security']",Interactive Binary Exploitation Course in the Browser,https://exploit.courses,/u/jakob,1
-0,2018-03-02 17:09:53 -0600,"['/t/dotnet', '/t/historical']",How generics were added to .NET,http://www.mattwarren.org/2018/03/02/How-generics-were-added-to-.NET/,/u/calvin,8
-0,2018-03-02 08:04:40 -0600,"['/t/plt', '/t/release', '/t/rust']",Announcing Rust 1.24.1,https://blog.rust-lang.org/2018/03/01/Rust-1.24.1.html,/u/azdle,18
-1,2018-03-02 14:25:14 -0600,"['/t/devops', '/t/scaling']",How we built Hamiltix.net for less than $1 a month on AWS,https://blog.badsectorlabs.com/how-we-built-hamiltixnet-for-less-than-1-a-month-on-aws.html,/u/calvin,7
-3,2018-03-02 14:29:55 -0600,['/t/practices'],Why we chose Flutter and how it’s changed our company for the better.,https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60,/u/adsouza,5
-0,2018-03-03 02:28:49 -0600,"['/t/video', '/t/devops', '/t/distributed']",Resilience In Complex Adaptive Systems (Velocity NY 2013),https://www.youtube.com/watch?v=PGLYEDpNu60,/u/catilac,1
+0,2018-03-03 01:31:53 -0600,/t/vcs,Getting into git init,https://blog.safia.rocks/post/171448973555/getting-into-git-init,/u/j11g,12
+12,2018-03-02 12:50:37 -0600,"/t/release,/t/rust",synapse 1.0-rc1: a lightweight bittorrent daemon written in Rust,https://synapse-bt.org,/u/SirCmpwn,33
+0,2018-03-03 09:55:10 -0600,"/t/pdf,/t/c,/t/compilers",Continuation-Passing C: compiling threads to events through continuations (2010),https://arxiv.org/pdf/1011.4558,/u/nickpsecurity,4
+0,2018-03-03 09:51:36 -0600,"/t/pdf,/t/compilers,/t/plt","Tyr: A Dependent, Type System for Spatial, Memory Safety in LLVM (2016)",https://core.ac.uk/download/pdf/82404884.pdf,/u/nickpsecurity,4
+17,2018-03-02 12:39:43 -0600,"/t/openbsd,/t/practices",GitHub auto-generated tarballs vs releases,https://marc.info/?l=openbsd-ports&m=151973450514279&w=2,/u/mulander,21
+6,2018-03-02 16:39:15 -0600,"/t/hardware,/t/science",Knife Sharpening Experiments,https://www.scribd.com/document/10050000/Knife-Sharpening-Experiments,/u/friendlysock,20
+0,2018-03-03 06:17:42 -0600,"/t/elm,/t/programming",Learning the Language of Functional Programming,https://maxhallinan.com/posts/2018/03/03/learning-the-language-of-functional-programming/,/u/maxhallinan,2
+0,2018-03-02 22:48:10 -0600,"/t/practices,/t/programming",Frequent Vs Infrequent Devs,https://utcc.utoronto.ca/~cks/space/blog/programming/FrequentVsInfrequentDevs,/u/xcombelle,10
+0,2018-03-03 11:05:19 -0600,"/t/video,/t/distributed",Designing for Understandability: The Raft Consensus Algorithm,https://www.youtube.com/watch?v=vYp4LYbnnW8,/u/avita1,2
+4,2018-03-02 09:21:08 -0600,"/t/c,/t/c++,/t/unix","Sortix: A Small, Self-Hosted, POSIX-compliant, Operating System",https://sortix.org,/u/nickpsecurity,34
+0,2018-03-03 14:08:31 -0600,/t/programming,Muck: A Build Tool for Data Journalists,https://www.cjr.org/tow_center_reports/muck-a-build-tool-for-data-journalists.php,/u/mechazoidal,1
+2,2018-03-02 10:02:27 -0600,"/t/book,/t/compsci,/t/education,/t/math",J Software releases many APL/mathematical works under Creative Commons license,http://code.jsoftware.com/wiki/Community/Creative_Commons,/u/lorddimwit,31
+3,2018-03-02 15:16:12 -0600,"/t/linux,/t/rant",When distributions get it wrong,https://tingping.github.io/2018/03/02/when-distros-get-it-wrong.html,/u/calvin,33
+0,2018-03-03 07:06:54 -0600,/t/graphics,The Line on the Spline,https://teofilobd.github.io/unity/spline/line%20renderer/2018/02/12/The-line-on-the-spline.html,/u/calvin,2
+11,2018-03-02 10:27:22 -0600,/t/programming,Why Flutter Uses Dart,https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf,/u/adsouza,12
+0,2018-03-03 09:59:58 -0600,"/t/pdf,/t/hardware,/t/programming",Fast FPGA Placement Based on Quantum Model (2009),http://www.ee.ucr.edu/~stan/iwecs_workshop/2009/FPGA_Placement_llwang.pdf,/u/nickpsecurity,1
+0,2018-03-03 09:07:50 -0600,"/t/rust,/t/testing",Opportunistic Mutations for Rust,https://llogiq.github.io/2018/03/03/opportune.html,/u/llogiq,1
+0,2018-03-02 12:21:37 -0600,/t/distributed,Distinguishing Lasp from Bloom^L: Programming System vs. Programming Model,http://christophermeiklejohn.com/lasp/2018/03/02/lasp-vs-bloom.html,/u/cmeiklejohn,8
+7,2018-03-01 21:49:48 -0600,"/t/audio,/t/rust","Rust 1.24: Performance wins, incremental compilation, and the Rust 2018 Roadmap and Epoch!",http://www.newrustacean.com/show_notes/news/rust_1_24/,/u/chriskrycho,21
+0,2018-03-03 07:41:15 -0600,"/t/assembly,/t/security",Interactive Binary Exploitation Course in the Browser,https://exploit.courses,/u/jakob,1
+0,2018-03-02 17:09:53 -0600,"/t/dotnet,/t/historical",How generics were added to .NET,http://www.mattwarren.org/2018/03/02/How-generics-were-added-to-.NET/,/u/calvin,8
+0,2018-03-02 08:04:40 -0600,"/t/plt,/t/release,/t/rust",Announcing Rust 1.24.1,https://blog.rust-lang.org/2018/03/01/Rust-1.24.1.html,/u/azdle,18
+1,2018-03-02 14:25:14 -0600,"/t/devops,/t/scaling",How we built Hamiltix.net for less than $1 a month on AWS,https://blog.badsectorlabs.com/how-we-built-hamiltixnet-for-less-than-1-a-month-on-aws.html,/u/calvin,7
+3,2018-03-02 14:29:55 -0600,/t/practices,Why we chose Flutter and how it’s changed our company for the better.,https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60,/u/adsouza,5
+0,2018-03-03 02:28:49 -0600,"/t/video,/t/devops,/t/distributed",Resilience In Complex Adaptive Systems (Velocity NY 2013),https://www.youtube.com/watch?v=PGLYEDpNu60,/u/catilac,1

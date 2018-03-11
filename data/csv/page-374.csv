@@ -1,25 +1,25 @@
-6,2017-05-09 08:03:49 -0500,['/t/culture'],Thunderbird’s Future Home,https://blog.mozilla.org/thunderbird/2017/05/thunderbirds-future-home/,/u/azdle,7
-6,2017-05-08 22:26:29 -0500,"['/t/c', '/t/release', '/t/testing']",MinUnit -- a minimal unit testing framework for C,http://www.jera.com/techinfo/jtns/jtn002.html,/u/pushcx,5
-0,2017-05-09 10:34:29 -0500,"['/t/practices', '/t/programming']",Introducing Stack Overflow Trends,https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/,/u/ngoldbaum,2
-0,2017-05-09 09:40:20 -0500,"['/t/security', '/t/web']",Website Flaw Let True Health Diagnostics Users View All Medical Records,https://krebsonsecurity.com/2017/05/website-flaw-let-true-health-diagnostics-users-view-all-medical-records/,/u/flyingfisch,2
-0,2017-05-09 13:08:54 -0500,['/t/programming'],Exception Handling Considered Harmful (2005),http://www.lighterra.com/papers/exceptionsharmful/,/u/nc,1
-3,2017-05-08 11:34:04 -0500,"['/t/erlang', '/t/release']",Erlang Performance Lab,http://www.erlang.pl/,/u/355E3B,19
-0,2017-05-09 11:38:44 -0500,['/t/math'],CMU 15-816: Substructural Logics,https://www.cs.cmu.edu/~fp/courses/15816-f16/,/u/adamnemecek,1
-0,2017-05-09 00:18:51 -0500,"['/t/math', '/t/programming']",DifferentialEquations.jl 2.0: State of the Ecosystem,http://www.stochasticlifestyle.com/differentialequations-jl-2-0-state-ecosystem/,/u/zem,5
-0,2017-05-09 07:05:20 -0500,['/t/culture'],The Creative World’s Bullshit Industrial Complex,http://99u.com/articles/53863/the-creative-worlds-bullshit-industrial-complex,/u/mibzman,4
-0,2017-05-09 09:41:10 -0500,['/t/css'],Methods for Contrasting Text Against Backgrounds,https://css-tricks.com/methods-contrasting-text-backgrounds/,/u/flyingfisch,1
-7,2017-05-07 20:53:09 -0500,"['/t/javascript', '/t/security']",Things to Use Instead of JWT,https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/,/u/kb,28
-0,2017-05-09 13:33:03 -0500,"['/t/fortran', '/t/historical']",Geniuses Wanted: NASA Challenges Coders to Speed Up Its Supercomputer,https://www.nytimes.com/2017/05/08/science/nasa-supercomputer-pleiades.html,/u/zdsmith,0
-0,2017-05-08 11:08:48 -0500,['/t/practices'],Stopping the Death Spiral of Indecision,http://schneems.com/2017/05/08/stopping-the-death-spiral-of-indecision/,/u/schneems,7
-1,2017-05-08 11:04:18 -0500,['/t/haskell'],Dialogues on do notation,https://joyofhaskell.com/posts/2017-05-07-do-notation.html,/u/pushcx,11
-1,2017-05-08 12:51:11 -0500,"['/t/practices', '/t/programming']",Singletons Considered Harmful,http://www.object-oriented-security.org/lets-argue/singletons,/u/petergao,7
-4,2017-05-08 05:24:45 -0500,['/t/python'],The chicken or the egg problem in bootstrapping,https://asrp.github.io/blog/bootstrap_chicken_or_egg,/u/asrp,6
-0,2017-05-08 13:32:32 -0500,['/t/programming'],"Curry - Statically-typed, Functional and Logic Programming Language",http://www-ps.informatik.uni-kiel.de/currywiki/,/u/nickpsecurity,6
-0,2017-05-08 20:41:30 -0500,"['/t/dotnet', '/t/windows']","System.Threading.Thread, Universal Windows Platform, and the fragmentation of .NET Standard",https://neosmart.net/blog/2017/system-threading-thread-universal-windows-platform-and-the-fragmentation-of-net-standard/,/u/calvin,2
-12,2017-05-07 16:06:53 -0500,['/t/rust'],How I Broke Rust's Package Manager for All Windows Users,http://sasheldon.com/blog/2017/05/07/how-i-broke-cargo-for-windows/,/u/pushcx,31
-0,2017-05-08 19:10:42 -0500,['/t/security'],"OSS-Fuzz: Five months later, and rewarding projects",https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html,/u/alex_gaynor,2
-41,2017-05-08 05:05:12 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/4ovpzh/what_are_you_working_on_this_week,/u/caius,22
-2,2017-05-08 10:34:38 -0500,"['/t/compsci', '/t/math']","A program that accepts exactly any desired finite set, in the right universe",http://jdh.hamkins.org/a-program-that-accepts-any-desired-finite-set-in-the-right-universe/,/u/k749gtnc9l3w,5
-1,2017-05-08 09:45:30 -0500,"['/t/assembly', '/t/programming']",An LZ Codec Designed for SSE Decompression,http://conorstokes.github.io/compression/2016/02/15/an-LZ-codec-designed-for-SSE-decompression,/u/mikejsavage,5
-0,2017-05-08 11:53:33 -0500,['/t/visualization'],How to Spot Visualization Lies,https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/,/u/pushcx,4
-0,2017-05-08 06:12:48 -0500,"['/t/event', '/t/linux']",NixCon 2017 - A conference about Nix and NixOS,http://nixcon2017.org/,/u/grahamc,8
+6,2017-05-09 08:03:49 -0500,/t/culture,Thunderbird’s Future Home,https://blog.mozilla.org/thunderbird/2017/05/thunderbirds-future-home/,/u/azdle,7
+6,2017-05-08 22:26:29 -0500,"/t/c,/t/release,/t/testing",MinUnit -- a minimal unit testing framework for C,http://www.jera.com/techinfo/jtns/jtn002.html,/u/pushcx,5
+0,2017-05-09 10:34:29 -0500,"/t/practices,/t/programming",Introducing Stack Overflow Trends,https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/,/u/ngoldbaum,2
+0,2017-05-09 09:40:20 -0500,"/t/security,/t/web",Website Flaw Let True Health Diagnostics Users View All Medical Records,https://krebsonsecurity.com/2017/05/website-flaw-let-true-health-diagnostics-users-view-all-medical-records/,/u/flyingfisch,2
+0,2017-05-09 13:08:54 -0500,/t/programming,Exception Handling Considered Harmful (2005),http://www.lighterra.com/papers/exceptionsharmful/,/u/nc,1
+3,2017-05-08 11:34:04 -0500,"/t/erlang,/t/release",Erlang Performance Lab,http://www.erlang.pl/,/u/355E3B,19
+0,2017-05-09 11:38:44 -0500,/t/math,CMU 15-816: Substructural Logics,https://www.cs.cmu.edu/~fp/courses/15816-f16/,/u/adamnemecek,1
+0,2017-05-09 00:18:51 -0500,"/t/math,/t/programming",DifferentialEquations.jl 2.0: State of the Ecosystem,http://www.stochasticlifestyle.com/differentialequations-jl-2-0-state-ecosystem/,/u/zem,5
+0,2017-05-09 07:05:20 -0500,/t/culture,The Creative World’s Bullshit Industrial Complex,http://99u.com/articles/53863/the-creative-worlds-bullshit-industrial-complex,/u/mibzman,4
+0,2017-05-09 09:41:10 -0500,/t/css,Methods for Contrasting Text Against Backgrounds,https://css-tricks.com/methods-contrasting-text-backgrounds/,/u/flyingfisch,1
+7,2017-05-07 20:53:09 -0500,"/t/javascript,/t/security",Things to Use Instead of JWT,https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/,/u/kb,28
+0,2017-05-09 13:33:03 -0500,"/t/fortran,/t/historical",Geniuses Wanted: NASA Challenges Coders to Speed Up Its Supercomputer,https://www.nytimes.com/2017/05/08/science/nasa-supercomputer-pleiades.html,/u/zdsmith,0
+0,2017-05-08 11:08:48 -0500,/t/practices,Stopping the Death Spiral of Indecision,http://schneems.com/2017/05/08/stopping-the-death-spiral-of-indecision/,/u/schneems,7
+1,2017-05-08 11:04:18 -0500,/t/haskell,Dialogues on do notation,https://joyofhaskell.com/posts/2017-05-07-do-notation.html,/u/pushcx,11
+1,2017-05-08 12:51:11 -0500,"/t/practices,/t/programming",Singletons Considered Harmful,http://www.object-oriented-security.org/lets-argue/singletons,/u/petergao,7
+4,2017-05-08 05:24:45 -0500,/t/python,The chicken or the egg problem in bootstrapping,https://asrp.github.io/blog/bootstrap_chicken_or_egg,/u/asrp,6
+0,2017-05-08 13:32:32 -0500,/t/programming,"Curry - Statically-typed, Functional and Logic Programming Language",http://www-ps.informatik.uni-kiel.de/currywiki/,/u/nickpsecurity,6
+0,2017-05-08 20:41:30 -0500,"/t/dotnet,/t/windows","System.Threading.Thread, Universal Windows Platform, and the fragmentation of .NET Standard",https://neosmart.net/blog/2017/system-threading-thread-universal-windows-platform-and-the-fragmentation-of-net-standard/,/u/calvin,2
+12,2017-05-07 16:06:53 -0500,/t/rust,How I Broke Rust's Package Manager for All Windows Users,http://sasheldon.com/blog/2017/05/07/how-i-broke-cargo-for-windows/,/u/pushcx,31
+0,2017-05-08 19:10:42 -0500,/t/security,"OSS-Fuzz: Five months later, and rewarding projects",https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html,/u/alex_gaynor,2
+41,2017-05-08 05:05:12 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/4ovpzh/what_are_you_working_on_this_week,/u/caius,22
+2,2017-05-08 10:34:38 -0500,"/t/compsci,/t/math","A program that accepts exactly any desired finite set, in the right universe",http://jdh.hamkins.org/a-program-that-accepts-any-desired-finite-set-in-the-right-universe/,/u/k749gtnc9l3w,5
+1,2017-05-08 09:45:30 -0500,"/t/assembly,/t/programming",An LZ Codec Designed for SSE Decompression,http://conorstokes.github.io/compression/2016/02/15/an-LZ-codec-designed-for-SSE-decompression,/u/mikejsavage,5
+0,2017-05-08 11:53:33 -0500,/t/visualization,How to Spot Visualization Lies,https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/,/u/pushcx,4
+0,2017-05-08 06:12:48 -0500,"/t/event,/t/linux",NixCon 2017 - A conference about Nix and NixOS,http://nixcon2017.org/,/u/grahamc,8

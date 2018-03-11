@@ -1,25 +1,25 @@
-0,2015-09-15 14:47:13 -0500,"['/t/practices', '/t/ruby']",Tell Don't Ask vs The Web,https://tmichel.github.io/2015/09/14/oo-controversies-tell-dont-ask-vs-the-web/,/u/pushcx,4
-0,2015-09-15 19:11:05 -0500,"['/t/java', '/t/programming', '/t/ruby']",Deploying the Frankenjar,http://hackers.lookout.com/2013/08/deploying-the-frankenjar/,/u/zem,2
-0,2015-09-15 10:46:31 -0500,"['/t/release', '/t/unix']",Tmux Resurrect: Restore tmux environment after system restart,https://github.com/tmux-plugins/tmux-resurrect,/u/pushcx,5
-0,2015-09-15 17:44:15 -0500,['/t/culture'],"APIs, not apps: What the future will be like when everyone can code",https://opensource.com/education/15/9/apis-not-apps,/u/antifuchs,3
-0,2015-09-15 09:55:33 -0500,"['/t/math', '/t/security']",Practical Attacks Against BouncyCastle and Oracle JCE Elliptic Curve Implementations,http://web-in-security.blogspot.com/2015/09/practical-invalid-curve-attacks.html,/u/craigstuntz,4
-9,2015-09-14 16:53:01 -0500,['/t/openbsd'],OpenBSD (U)EFI bootloader howto,http://blog.jasper.la/openbsd-uefi-bootloader-howto/,/u/fcambus,18
-30,2015-09-14 11:38:20 -0500,['/t/ask'],What are you working on this week?,/s/yw8vph/what_are_you_working_on_this_week,/u/arrdem,25
-0,2015-09-15 01:20:46 -0500,['/t/javascript'],"Rendering 12,000 Image Albums at Imgur",http://www.maxburstein.com/blog/rendering-12000-image-albums-at-imgur/,/u/av,10
-0,2015-09-15 17:34:00 -0500,['/t/compsci'],(2014) F-35 JOINT STRIKE FIGHTER: Problems Completing Software Testing ...,http://www.gao.gov/products/GAO-14-322,/u/kghose,1
-0,2015-09-14 21:16:39 -0500,"['/t/erlang', '/t/programming']",Erlang Garbage Collection Details and Why It Matters,https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html,/u/fitzgen,14
-0,2015-09-15 14:29:37 -0500,"['/t/culture', '/t/philosophy']",Stress Analysis of a Software Project [1994],http://yarchive.net/risks/sgi_irix.html,/u/friendlysock,3
-36,2015-09-14 07:10:42 -0500,['/t/ask'],What are you listening to this week?,/s/gomlz4/what_are_you_listening_this_week,/u/walle,27
-2,2015-09-14 11:08:15 -0500,"['/t/show', '/t/assembly', '/t/games']","Building a Tetris Clone in x86 Assembly, pt. Ⅱ: I/O",https://cmcenroe.me/2015/09/14/tetrasm-2.html,/u/curtis,17
-10,2015-09-14 20:24:50 -0500,"['/t/databases', '/t/devops', '/t/satire']",PlePuProPro: The Pledge to Put Prolog in Production,http://urbanautomaton.com/blog/2015/08/10/the-pledge-to-put-prolog-in-production/,/u/antifuchs,21
-0,2015-09-15 10:10:55 -0500,"['/t/c', '/t/python', '/t/release', '/t/unix']",Modular visual interface for GDB in Python,https://github.com/cyrus-and/gdb-dashboard,/u/pushcx,1
-10,2015-09-14 07:26:19 -0500,['/t/graphics'],JPEG 2000: The Better Alternative to JPEG That Never Made it Big,http://petapixel.com/2015/09/12/jpeg-2000-the-better-alternative-to-jpeg-that-never-made-it-big/,/u/flyingfisch,10
-16,2015-09-14 07:35:09 -0500,['/t/web'],Is the web platform getting too big?,https://www.nczonline.net/blog/2015/09/is-the-web-platform-getting-too-big/,/u/flyingfisch,7
-0,2015-09-14 10:23:50 -0500,"['/t/devops', '/t/hardware']",Why Bios Settings matter (and not size)!,http://jpbempel.blogspot.com/2015/09/why-bios-settings-matter-and-not-size.html,/u/antifuchs,10
-0,2015-09-14 07:12:07 -0500,"['/t/javascript', '/t/web']",ES6 Proxies in Depth,http://ponyfoo.com/articles/es6-proxies-in-depth,/u/ponyfoo,7
-13,2015-09-14 22:32:42 -0500,"['/t/culture', '/t/ios']",Why There's No Sketch for the iPad,http://daringfireball.net/linked/2015/09/14/sketch-ipad,/u/calvin,4
-20,2015-09-14 08:17:12 -0500,"['/t/linux', '/t/mac', '/t/rant', '/t/windows']",Your OS sucks,https://www.facebook.com/notes/kevin-frei/your-os-sucks/10153643564654427?_fb_noscript=1,/u/mulander,20
-0,2015-09-14 15:01:00 -0500,"['/t/pdf', '/t/hardware', '/t/security']",Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding,http://vision.ucsd.edu/~blaxton/pagePapers/laxton_wang_savage_ccs2008.pdf,/u/friendlysock,4
-0,2015-09-14 14:19:21 -0500,['/t/java'],Java REPL with JShell and Bazel,https://www.pgrs.net/2015/09/14/java-repl-with-jshell-and-bazel/,/u/pgr0ss,2
-0,2015-09-14 11:03:34 -0500,"['/t/video', '/t/compsci', '/t/programming', '/t/ruby']","Hello, declarative world",http://codon.com/hello-declarative-world,/u/pushcx,5
-0,2015-09-14 08:41:57 -0500,"['/t/programming', '/t/ruby']",Ruby Virtual Machine Internals and Investigating Variable Scope,http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigating-variable-scope/,/u/grahamlyons,3
+0,2015-09-15 14:47:13 -0500,"/t/practices,/t/ruby",Tell Don't Ask vs The Web,https://tmichel.github.io/2015/09/14/oo-controversies-tell-dont-ask-vs-the-web/,/u/pushcx,4
+0,2015-09-15 19:11:05 -0500,"/t/java,/t/programming,/t/ruby",Deploying the Frankenjar,http://hackers.lookout.com/2013/08/deploying-the-frankenjar/,/u/zem,2
+0,2015-09-15 10:46:31 -0500,"/t/release,/t/unix",Tmux Resurrect: Restore tmux environment after system restart,https://github.com/tmux-plugins/tmux-resurrect,/u/pushcx,5
+0,2015-09-15 17:44:15 -0500,/t/culture,"APIs, not apps: What the future will be like when everyone can code",https://opensource.com/education/15/9/apis-not-apps,/u/antifuchs,3
+0,2015-09-15 09:55:33 -0500,"/t/math,/t/security",Practical Attacks Against BouncyCastle and Oracle JCE Elliptic Curve Implementations,http://web-in-security.blogspot.com/2015/09/practical-invalid-curve-attacks.html,/u/craigstuntz,4
+9,2015-09-14 16:53:01 -0500,/t/openbsd,OpenBSD (U)EFI bootloader howto,http://blog.jasper.la/openbsd-uefi-bootloader-howto/,/u/fcambus,18
+30,2015-09-14 11:38:20 -0500,/t/ask,What are you working on this week?,/s/yw8vph/what_are_you_working_on_this_week,/u/arrdem,25
+0,2015-09-15 01:20:46 -0500,/t/javascript,"Rendering 12,000 Image Albums at Imgur",http://www.maxburstein.com/blog/rendering-12000-image-albums-at-imgur/,/u/av,10
+0,2015-09-15 17:34:00 -0500,/t/compsci,(2014) F-35 JOINT STRIKE FIGHTER: Problems Completing Software Testing ...,http://www.gao.gov/products/GAO-14-322,/u/kghose,1
+0,2015-09-14 21:16:39 -0500,"/t/erlang,/t/programming",Erlang Garbage Collection Details and Why It Matters,https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html,/u/fitzgen,14
+0,2015-09-15 14:29:37 -0500,"/t/culture,/t/philosophy",Stress Analysis of a Software Project [1994],http://yarchive.net/risks/sgi_irix.html,/u/friendlysock,3
+36,2015-09-14 07:10:42 -0500,/t/ask,What are you listening to this week?,/s/gomlz4/what_are_you_listening_this_week,/u/walle,27
+2,2015-09-14 11:08:15 -0500,"/t/show,/t/assembly,/t/games","Building a Tetris Clone in x86 Assembly, pt. Ⅱ: I/O",https://cmcenroe.me/2015/09/14/tetrasm-2.html,/u/curtis,17
+10,2015-09-14 20:24:50 -0500,"/t/databases,/t/devops,/t/satire",PlePuProPro: The Pledge to Put Prolog in Production,http://urbanautomaton.com/blog/2015/08/10/the-pledge-to-put-prolog-in-production/,/u/antifuchs,21
+0,2015-09-15 10:10:55 -0500,"/t/c,/t/python,/t/release,/t/unix",Modular visual interface for GDB in Python,https://github.com/cyrus-and/gdb-dashboard,/u/pushcx,1
+10,2015-09-14 07:26:19 -0500,/t/graphics,JPEG 2000: The Better Alternative to JPEG That Never Made it Big,http://petapixel.com/2015/09/12/jpeg-2000-the-better-alternative-to-jpeg-that-never-made-it-big/,/u/flyingfisch,10
+16,2015-09-14 07:35:09 -0500,/t/web,Is the web platform getting too big?,https://www.nczonline.net/blog/2015/09/is-the-web-platform-getting-too-big/,/u/flyingfisch,7
+0,2015-09-14 10:23:50 -0500,"/t/devops,/t/hardware",Why Bios Settings matter (and not size)!,http://jpbempel.blogspot.com/2015/09/why-bios-settings-matter-and-not-size.html,/u/antifuchs,10
+0,2015-09-14 07:12:07 -0500,"/t/javascript,/t/web",ES6 Proxies in Depth,http://ponyfoo.com/articles/es6-proxies-in-depth,/u/ponyfoo,7
+13,2015-09-14 22:32:42 -0500,"/t/culture,/t/ios",Why There's No Sketch for the iPad,http://daringfireball.net/linked/2015/09/14/sketch-ipad,/u/calvin,4
+20,2015-09-14 08:17:12 -0500,"/t/linux,/t/mac,/t/rant,/t/windows",Your OS sucks,https://www.facebook.com/notes/kevin-frei/your-os-sucks/10153643564654427?_fb_noscript=1,/u/mulander,20
+0,2015-09-14 15:01:00 -0500,"/t/pdf,/t/hardware,/t/security",Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding,http://vision.ucsd.edu/~blaxton/pagePapers/laxton_wang_savage_ccs2008.pdf,/u/friendlysock,4
+0,2015-09-14 14:19:21 -0500,/t/java,Java REPL with JShell and Bazel,https://www.pgrs.net/2015/09/14/java-repl-with-jshell-and-bazel/,/u/pgr0ss,2
+0,2015-09-14 11:03:34 -0500,"/t/video,/t/compsci,/t/programming,/t/ruby","Hello, declarative world",http://codon.com/hello-declarative-world,/u/pushcx,5
+0,2015-09-14 08:41:57 -0500,"/t/programming,/t/ruby",Ruby Virtual Machine Internals and Investigating Variable Scope,http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigating-variable-scope/,/u/grahamlyons,3

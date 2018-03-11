@@ -1,25 +1,25 @@
-12,2015-10-21 16:01:42 -0500,"['/t/c', '/t/databases', '/t/distributed']",MongoDB pisses off open source community by denying them joins,http://slamdata.com/blog/2015/10/21/mongodb-missing-join.html,/u/jdegoes,20
-5,2015-10-21 19:47:54 -0500,"['/t/browsers', '/t/openbsd', '/t/security']",W^X enabled in Firefox port in OpenBSD,http://undeadly.org/cgi?action=article&sid=20151021191401&mode=expanded,/u/calvin,37
-0,2015-10-22 08:35:00 -0500,['/t/go'],Interfaces and Composition for Effective Unit Testing in Golang,http://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/,/u/journeysquid,7
-10,2015-10-21 17:45:44 -0500,['/t/vcs'],Monorepos in Git - Atlassian Developers,https://developer.atlassian.com/blog/2015/10/monorepos-in-git/,/u/sts,10
-0,2015-10-22 09:39:29 -0500,"['/t/distributed', '/t/programming']",Back from the Future Bug,http://www.moserware.com/2015/10/back-from-the-future-bugs.html,/u/pushcx,6
-1,2015-10-22 02:59:20 -0500,['/t/compilers'],LLPE: LLVM partial evaluator,http://www.llpe.org/,/u/sanxiyn,11
-0,2015-10-22 10:55:50 -0500,"['/t/devops', '/t/linux', '/t/networking', '/t/programming', '/t/release', '/t/virtualization']",DockerCon 2015 and the Future of the Container Technology,https://deis.com/blog/2015/dockercon,/u/mazembo,2
-3,2015-10-22 00:07:54 -0500,"['/t/compsci', '/t/philosophy']",What is Computer Science? (1967),http://www.cs.cmu.edu/~choset/whatiscs.html,/u/mjn,10
-1,2015-10-21 19:30:44 -0500,['/t/law'],"Warrantless airport seizure of laptop “cannot be justified,” US judge rules",http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/,/u/jcs,23
-0,2015-10-22 13:32:02 -0500,"['/t/audio', '/t/python', '/t/windows']",Play a list of WAV files with PyAudio,http://jugad2.blogspot.com/2015/10/play-list-of-wav-files-with-pyaudio.html,/u/vasudevram,1
-0,2015-10-22 02:31:05 -0500,"['/t/c', '/t/compilers']",cmmtest: Hunting Concurrency Compiler Bugs,http://www.di.ens.fr/~zappa/projects/cmmtest/,/u/sanxiyn,6
-0,2015-10-22 11:37:45 -0500,"['/t/pdf', '/t/satire', '/t/science']",Project Flux,http://services.google.com/fh/files/blogs/project_flux.pdf,/u/flyingfisch,3
-0,2015-10-22 14:08:02 -0500,['/t/culture'],Now Playing: Two New Minutes of 'Star Wars' (1998),http://www.nytimes.com/1998/11/23/movies/now-playing-two-new-minutes-of-star-wars.html,/u/pushcx,2
-0,2015-10-21 08:04:53 -0500,"['/t/browsers', '/t/security']",Firefox Nightly starts marking login-forms in HTTP as insecure,https://ma.ttias.be/firefox-nightly-starts-marking-login-forms-in-http-as-insecure/,/u/mattiasgeniar,21
-0,2015-10-22 05:43:08 -0500,['/t/devops'],Deploying a Django App with No Downtime,https://medium.com/@healthchecks/deploying-a-django-app-with-no-downtime-f4e02738ab06,/u/jpadilla,3
-0,2015-10-22 08:32:55 -0500,"['/t/culture', '/t/science']",IEEE withdrawing more than 120 nonsense papers,http://retractionwatch.com/2014/02/24/springer-ieee-withdrawing-more-than-120-nonsense-papers/,/u/derek-jones,4
-0,2015-10-21 10:45:27 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Marc Espie,http://beastie.pl/deweloperzy-openbsd-marc-espie/,/u/mulander,19
-0,2015-10-21 19:18:48 -0500,['/t/unix'],10 years of pkgsrc - pkgsrc and the concepts of package management 1997-2007,https://www.netbsd.org/gallery/10years.html,/u/chadski,7
-0,2015-10-22 01:23:10 -0500,"['/t/philosophy', '/t/practices']",Version Fatigue [2002],http://www.ideasinactiontv.com/tcs_daily/2002/06/version-fatigue.html,/u/lennyt,3
-2,2015-10-21 14:13:05 -0500,"['/t/graphics', '/t/java', '/t/practices', '/t/programming']",Multithreaded toolkits: A failed dream?,http://weblogs.java.net/blog/kgh/archive/2004/10/multithreaded_t.html,/u/friendlysock,9
-6,2015-10-21 09:21:31 -0500,"['/t/lisp', '/t/python', '/t/reversing']",Getting a full PDF from a DRM-encumbered online textbook,http://vgel.me/posts/cracking-online-textbook/,/u/pushcx,9
-11,2015-10-20 23:25:15 -0500,"['/t/practices', '/t/security']",The Right Thing?,http://prog21.dadgum.com/211.html,/u/uggedal,23
-0,2015-10-21 01:02:01 -0500,['/t/distributed'],Jepsen - Distributed Systems Safety Analysis,http://jepsen.io/,/u/algernon,36
-1,2015-10-21 10:42:36 -0500,"['/t/javascript', '/t/programming']","Goodbye CoffeeScript, Hello TypeScript",http://blog.heapanalytics.com/goodbye-coffeescript-hello-typescript/,/u/pushcx,9
-0,2015-10-21 21:17:14 -0500,['/t/science'],The Unofficial Google Data Science Blog: Data scientist as scientist,http://www.unofficialgoogledatascience.com/2015/10/data-scientist-as-scientist.html,/u/tf,3
+12,2015-10-21 16:01:42 -0500,"/t/c,/t/databases,/t/distributed",MongoDB pisses off open source community by denying them joins,http://slamdata.com/blog/2015/10/21/mongodb-missing-join.html,/u/jdegoes,20
+5,2015-10-21 19:47:54 -0500,"/t/browsers,/t/openbsd,/t/security",W^X enabled in Firefox port in OpenBSD,http://undeadly.org/cgi?action=article&sid=20151021191401&mode=expanded,/u/calvin,37
+0,2015-10-22 08:35:00 -0500,/t/go,Interfaces and Composition for Effective Unit Testing in Golang,http://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/,/u/journeysquid,7
+10,2015-10-21 17:45:44 -0500,/t/vcs,Monorepos in Git - Atlassian Developers,https://developer.atlassian.com/blog/2015/10/monorepos-in-git/,/u/sts,10
+0,2015-10-22 09:39:29 -0500,"/t/distributed,/t/programming",Back from the Future Bug,http://www.moserware.com/2015/10/back-from-the-future-bugs.html,/u/pushcx,6
+1,2015-10-22 02:59:20 -0500,/t/compilers,LLPE: LLVM partial evaluator,http://www.llpe.org/,/u/sanxiyn,11
+0,2015-10-22 10:55:50 -0500,"/t/devops,/t/linux,/t/networking,/t/programming,/t/release,/t/virtualization",DockerCon 2015 and the Future of the Container Technology,https://deis.com/blog/2015/dockercon,/u/mazembo,2
+3,2015-10-22 00:07:54 -0500,"/t/compsci,/t/philosophy",What is Computer Science? (1967),http://www.cs.cmu.edu/~choset/whatiscs.html,/u/mjn,10
+1,2015-10-21 19:30:44 -0500,/t/law,"Warrantless airport seizure of laptop “cannot be justified,” US judge rules",http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/,/u/jcs,23
+0,2015-10-22 13:32:02 -0500,"/t/audio,/t/python,/t/windows",Play a list of WAV files with PyAudio,http://jugad2.blogspot.com/2015/10/play-list-of-wav-files-with-pyaudio.html,/u/vasudevram,1
+0,2015-10-22 02:31:05 -0500,"/t/c,/t/compilers",cmmtest: Hunting Concurrency Compiler Bugs,http://www.di.ens.fr/~zappa/projects/cmmtest/,/u/sanxiyn,6
+0,2015-10-22 11:37:45 -0500,"/t/pdf,/t/satire,/t/science",Project Flux,http://services.google.com/fh/files/blogs/project_flux.pdf,/u/flyingfisch,3
+0,2015-10-22 14:08:02 -0500,/t/culture,Now Playing: Two New Minutes of 'Star Wars' (1998),http://www.nytimes.com/1998/11/23/movies/now-playing-two-new-minutes-of-star-wars.html,/u/pushcx,2
+0,2015-10-21 08:04:53 -0500,"/t/browsers,/t/security",Firefox Nightly starts marking login-forms in HTTP as insecure,https://ma.ttias.be/firefox-nightly-starts-marking-login-forms-in-http-as-insecure/,/u/mattiasgeniar,21
+0,2015-10-22 05:43:08 -0500,/t/devops,Deploying a Django App with No Downtime,https://medium.com/@healthchecks/deploying-a-django-app-with-no-downtime-f4e02738ab06,/u/jpadilla,3
+0,2015-10-22 08:32:55 -0500,"/t/culture,/t/science",IEEE withdrawing more than 120 nonsense papers,http://retractionwatch.com/2014/02/24/springer-ieee-withdrawing-more-than-120-nonsense-papers/,/u/derek-jones,4
+0,2015-10-21 10:45:27 -0500,"/t/openbsd,/t/person",OpenBSD developers: Marc Espie,http://beastie.pl/deweloperzy-openbsd-marc-espie/,/u/mulander,19
+0,2015-10-21 19:18:48 -0500,/t/unix,10 years of pkgsrc - pkgsrc and the concepts of package management 1997-2007,https://www.netbsd.org/gallery/10years.html,/u/chadski,7
+0,2015-10-22 01:23:10 -0500,"/t/philosophy,/t/practices",Version Fatigue [2002],http://www.ideasinactiontv.com/tcs_daily/2002/06/version-fatigue.html,/u/lennyt,3
+2,2015-10-21 14:13:05 -0500,"/t/graphics,/t/java,/t/practices,/t/programming",Multithreaded toolkits: A failed dream?,http://weblogs.java.net/blog/kgh/archive/2004/10/multithreaded_t.html,/u/friendlysock,9
+6,2015-10-21 09:21:31 -0500,"/t/lisp,/t/python,/t/reversing",Getting a full PDF from a DRM-encumbered online textbook,http://vgel.me/posts/cracking-online-textbook/,/u/pushcx,9
+11,2015-10-20 23:25:15 -0500,"/t/practices,/t/security",The Right Thing?,http://prog21.dadgum.com/211.html,/u/uggedal,23
+0,2015-10-21 01:02:01 -0500,/t/distributed,Jepsen - Distributed Systems Safety Analysis,http://jepsen.io/,/u/algernon,36
+1,2015-10-21 10:42:36 -0500,"/t/javascript,/t/programming","Goodbye CoffeeScript, Hello TypeScript",http://blog.heapanalytics.com/goodbye-coffeescript-hello-typescript/,/u/pushcx,9
+0,2015-10-21 21:17:14 -0500,/t/science,The Unofficial Google Data Science Blog: Data scientist as scientist,http://www.unofficialgoogledatascience.com/2015/10/data-scientist-as-scientist.html,/u/tf,3

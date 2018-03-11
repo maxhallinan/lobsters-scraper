@@ -1,25 +1,25 @@
-0,2017-02-16 15:59:51 -0600,"['/t/culture', '/t/web']",The Discourse Encouragement Fund,https://blog.discourse.org/2017/02/the-discourse-encouragement-fund/,/u/erlend_sh,1
-0,2017-02-15 16:11:52 -0600,['/t/security'],Who Ran Leakedsource.com?,https://krebsonsecurity.com/2017/02/who-ran-leakedsource-com/,/u/nyx,12
-7,2017-02-15 11:32:59 -0600,['/t/event'],FOSDEM 2017 talks,https://video.fosdem.org/2017/K.4.601/,/u/PuercoPop,9
-6,2017-02-15 11:08:32 -0600,"['/t/ios', '/t/privacy']",iOS Universal Links and Privacy,https://jcs.org/notaweblog/2017/02/14/ios_universal_links_and_privacy/,/u/jcs,5
-0,2017-02-15 20:50:07 -0600,['/t/perl'],Abigail's regex to test for prime numbers (2000),http://neilk.net/blog/2000/06/01/abigails-regex-to-test-for-prime-numbers/,/u/calvin,6
-0,2017-02-16 12:53:32 -0600,['/t/security'],"Yahoo Reporting a 3rd Attack, Again Blames ""State-Sponsored"" Hackers",http://wccftech.com/yahoo-report-third-attack/,/u/flyingfisch,0
-0,2017-02-15 12:03:56 -0600,"['/t/law', '/t/privacy']",SecureDrop – An open-source whistleblower submission system,https://securedrop.org/,/u/av,12
-2,2017-02-15 03:58:11 -0600,"['/t/pdf', '/t/security']",ASLR on the Line: Practical Cache Attacks on the MMU,http://www.cs.vu.nl//~herbertb/download/papers/anc_ndss17.pdf,/u/nyx,20
-0,2017-02-15 16:02:53 -0600,"['/t/graphics', '/t/release', '/t/web']",regl: declarative and stateless webgl,http://regl.party/,/u/pushcx,6
-2,2017-02-15 12:07:30 -0600,"['/t/api', '/t/databases', '/t/distributed', '/t/scaling']",Guaranteeing Consistent API Performance with Apache Storm,https://keen.io/blog/140219557931/guaranteeing-consistent-api-performance-with?s=lbst,/u/wetzler,5
-3,2017-02-15 05:31:43 -0600,"['/t/historical', '/t/programming']",22 Years of Delphi and it Still Rocks,http://blog.marcocantu.com/blog/2017-january-22years-delphi.html,/u/calvin,9
-0,2017-02-16 01:16:45 -0600,"['/t/cogsci', '/t/math']",Cluster-izing in AFNI: A Response to 'Cluster Failure',https://drive.google.com/file/d/0B6Sn11ZTBrhvRk5oajhXYnJnN3M/view,/u/talboito,1
-0,2017-02-15 09:11:38 -0600,"['/t/compsci', '/t/graphics', '/t/javascript', '/t/programming']",WebGL Solver for the Travelling Salesman Problem,https://amoffat.github.io/held-karp-gpu-demo/?gpu=1,/u/amoffat,5
-10,2017-02-14 18:38:13 -0600,"['/t/crypto', '/t/security']",Video calls for Signal now in public beta,https://whispersystems.org/blog/signal-video-calls-beta/,/u/pab,32
-1,2017-02-15 05:34:14 -0600,['/t/programming'],Undefined Behavior != Unsafe Programming,http://blog.regehr.org/archives/1467,/u/calvin,12
-0,2017-02-15 12:54:02 -0600,"['/t/javascript', '/t/security']",New ASLR-busting JavaScript is about to make drive-by exploits much nastier,https://arstechnica.com/security/2017/02/new-aslr-busting-javascript-is-about-to-make-drive-by-exploits-much-nastier/,/u/sevan,5
-0,2017-02-15 16:03:21 -0600,"['/t/linux', '/t/security']","SELinux, Seccomp, Falco, and You: A Technical Discussion",https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/,/u/pushcx,3
-2,2017-02-14 16:44:46 -0600,"['/t/linux', '/t/vcs']",The Biggest and Weirdest Commits in Linux Kernel Git History,https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history,/u/pushcx,35
-0,2017-02-15 09:11:45 -0600,"['/t/privacy', '/t/security']",Can You Secure an Iron Cage?,http://limn.it/can-you-secure-an-iron-cage/,/u/mjn,6
-10,2017-02-14 10:52:51 -0600,"['/t/browsers', '/t/privacy']",Now sites can fingerprint you online even when you use multiple browsers,https://arstechnica.co.uk/security/2017/02/now-sites-can-fingerprint-you-online-even-when-you-use-multiple-browsers/,/u/pushcx,37
-1,2017-02-15 03:00:15 -0600,['/t/programming'],"Introducing The Art, Science, and Engineering of Programming journal",http://programming-journal.org/,/u/admg,8
-5,2017-02-14 16:37:22 -0600,['/t/programming'],The Joy of ATS 1: Installing ATS,http://ryanking.com/blog/Joy-of-ATS-1-Installing-ATS/,/u/zem,17
-0,2017-02-15 09:28:36 -0600,['/t/security'],Initial thoughts on the AnC attack on ASLR,https://github.com/lattera/articles/blob/master/infosec/Exploit%20Mitigations/ASLR/2017-02-15_anc/article.md,/u/lattera,2
-2,2017-02-14 17:34:03 -0600,['/t/math'],So You Think You Have a Power Law...,http://bactra.org/weblog/491.html,/u/JohnCarter,20
-1,2017-02-15 06:20:38 -0600,"['/t/c', '/t/networking', '/t/programming']",BIND 9 Refactoring,https://www.isc.org/blogs/bind-9-refactoring/,/u/mjturner,4
+0,2017-02-16 15:59:51 -0600,"/t/culture,/t/web",The Discourse Encouragement Fund,https://blog.discourse.org/2017/02/the-discourse-encouragement-fund/,/u/erlend_sh,1
+0,2017-02-15 16:11:52 -0600,/t/security,Who Ran Leakedsource.com?,https://krebsonsecurity.com/2017/02/who-ran-leakedsource-com/,/u/nyx,12
+7,2017-02-15 11:32:59 -0600,/t/event,FOSDEM 2017 talks,https://video.fosdem.org/2017/K.4.601/,/u/PuercoPop,9
+6,2017-02-15 11:08:32 -0600,"/t/ios,/t/privacy",iOS Universal Links and Privacy,https://jcs.org/notaweblog/2017/02/14/ios_universal_links_and_privacy/,/u/jcs,5
+0,2017-02-15 20:50:07 -0600,/t/perl,Abigail's regex to test for prime numbers (2000),http://neilk.net/blog/2000/06/01/abigails-regex-to-test-for-prime-numbers/,/u/calvin,6
+0,2017-02-16 12:53:32 -0600,/t/security,"Yahoo Reporting a 3rd Attack, Again Blames ""State-Sponsored"" Hackers",http://wccftech.com/yahoo-report-third-attack/,/u/flyingfisch,0
+0,2017-02-15 12:03:56 -0600,"/t/law,/t/privacy",SecureDrop – An open-source whistleblower submission system,https://securedrop.org/,/u/av,12
+2,2017-02-15 03:58:11 -0600,"/t/pdf,/t/security",ASLR on the Line: Practical Cache Attacks on the MMU,http://www.cs.vu.nl//~herbertb/download/papers/anc_ndss17.pdf,/u/nyx,20
+0,2017-02-15 16:02:53 -0600,"/t/graphics,/t/release,/t/web",regl: declarative and stateless webgl,http://regl.party/,/u/pushcx,6
+2,2017-02-15 12:07:30 -0600,"/t/api,/t/databases,/t/distributed,/t/scaling",Guaranteeing Consistent API Performance with Apache Storm,https://keen.io/blog/140219557931/guaranteeing-consistent-api-performance-with?s=lbst,/u/wetzler,5
+3,2017-02-15 05:31:43 -0600,"/t/historical,/t/programming",22 Years of Delphi and it Still Rocks,http://blog.marcocantu.com/blog/2017-january-22years-delphi.html,/u/calvin,9
+0,2017-02-16 01:16:45 -0600,"/t/cogsci,/t/math",Cluster-izing in AFNI: A Response to 'Cluster Failure',https://drive.google.com/file/d/0B6Sn11ZTBrhvRk5oajhXYnJnN3M/view,/u/talboito,1
+0,2017-02-15 09:11:38 -0600,"/t/compsci,/t/graphics,/t/javascript,/t/programming",WebGL Solver for the Travelling Salesman Problem,https://amoffat.github.io/held-karp-gpu-demo/?gpu=1,/u/amoffat,5
+10,2017-02-14 18:38:13 -0600,"/t/crypto,/t/security",Video calls for Signal now in public beta,https://whispersystems.org/blog/signal-video-calls-beta/,/u/pab,32
+1,2017-02-15 05:34:14 -0600,/t/programming,Undefined Behavior != Unsafe Programming,http://blog.regehr.org/archives/1467,/u/calvin,12
+0,2017-02-15 12:54:02 -0600,"/t/javascript,/t/security",New ASLR-busting JavaScript is about to make drive-by exploits much nastier,https://arstechnica.com/security/2017/02/new-aslr-busting-javascript-is-about-to-make-drive-by-exploits-much-nastier/,/u/sevan,5
+0,2017-02-15 16:03:21 -0600,"/t/linux,/t/security","SELinux, Seccomp, Falco, and You: A Technical Discussion",https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/,/u/pushcx,3
+2,2017-02-14 16:44:46 -0600,"/t/linux,/t/vcs",The Biggest and Weirdest Commits in Linux Kernel Git History,https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history,/u/pushcx,35
+0,2017-02-15 09:11:45 -0600,"/t/privacy,/t/security",Can You Secure an Iron Cage?,http://limn.it/can-you-secure-an-iron-cage/,/u/mjn,6
+10,2017-02-14 10:52:51 -0600,"/t/browsers,/t/privacy",Now sites can fingerprint you online even when you use multiple browsers,https://arstechnica.co.uk/security/2017/02/now-sites-can-fingerprint-you-online-even-when-you-use-multiple-browsers/,/u/pushcx,37
+1,2017-02-15 03:00:15 -0600,/t/programming,"Introducing The Art, Science, and Engineering of Programming journal",http://programming-journal.org/,/u/admg,8
+5,2017-02-14 16:37:22 -0600,/t/programming,The Joy of ATS 1: Installing ATS,http://ryanking.com/blog/Joy-of-ATS-1-Installing-ATS/,/u/zem,17
+0,2017-02-15 09:28:36 -0600,/t/security,Initial thoughts on the AnC attack on ASLR,https://github.com/lattera/articles/blob/master/infosec/Exploit%20Mitigations/ASLR/2017-02-15_anc/article.md,/u/lattera,2
+2,2017-02-14 17:34:03 -0600,/t/math,So You Think You Have a Power Law...,http://bactra.org/weblog/491.html,/u/JohnCarter,20
+1,2017-02-15 06:20:38 -0600,"/t/c,/t/networking,/t/programming",BIND 9 Refactoring,https://www.isc.org/blogs/bind-9-refactoring/,/u/mjturner,4

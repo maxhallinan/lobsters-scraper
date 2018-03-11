@@ -1,25 +1,25 @@
-7,2016-08-03 08:35:43 -0500,"['/t/release', '/t/unix']",DragonFlyBSD 4.6 released,https://www.dragonflybsd.org/release46/,/u/sin,26
-0,2016-08-04 08:29:48 -0500,['/t/programming'],Hash Functions all the way down,http://aras-p.info/blog/2016/08/02/Hash-Functions-all-the-way-down/,/u/pushcx,2
-4,2016-08-03 09:13:35 -0500,['/t/haskell'],How to Get a Haskell Job,http://softwaresimply.blogspot.com/2016/08/how-to-get-haskell-job.html,/u/mightybyte,9
-1,2016-08-03 09:06:42 -0500,"['/t/freebsd', '/t/historical', '/t/unix']",DragonFlyBSD is unlikely (Annoucning DragonFly BSD! (sic)) (2003),https://lists.freebsd.org/pipermail/freebsd-current/2003-July/006917.html,/u/mjturner,24
-0,2016-08-03 15:52:22 -0500,['/t/rust'],Announcing Tokio,https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34,/u/julienXX,15
-14,2016-08-03 05:18:52 -0500,['/t/networking'],Rogue Access Points (why running your own WiFi at conferences is bad),https://wiki.emfcamp.org/wiki/Network/Rogue_Access_Points,/u/DRMacIver,19
-2,2016-08-03 13:07:37 -0500,['/t/historical'],"SWEET16 - Wikipedia, the free encyclopedia",https://en.wikipedia.org/wiki/SWEET16,/u/rain1,12
-0,2016-08-04 10:45:47 -0500,['/t/satire'],"It's a Unix System, I know This!",https://www.reddit.com/r/itsaunixsystem/,/u/mjturner,2
-4,2016-08-03 16:21:28 -0500,"['/t/compsci', '/t/programming']",Future of Programming meetup in Berkeley,http://2020salon.blogspot.com/,/u/david927,2
-0,2016-08-04 01:29:46 -0500,"['/t/video', '/t/devops', '/t/python']",Docker as a replacement for virtualenv,https://www.youtube.com/watch?v=ETL-_W1W8gY,/u/tf,2
-0,2016-08-03 12:33:46 -0500,"['/t/programming', '/t/rust']",Better Exception Messages: Writing an OS in Rust,http://os.phil-opp.com/better-exception-messages.html,/u/unbalancedparentheses,10
-1,2016-08-03 06:55:54 -0500,['/t/databases'],Thoughts on Uber’s List of Postgres Limitations,http://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/,/u/av,15
-28,2016-08-02 14:31:02 -0500,"['/t/practices', '/t/security']",Why aren’t we using SSH for everything?,https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc,/u/friendlysock,45
-0,2016-08-03 09:28:00 -0500,['/t/release'],Docker is awesome on Mac!,https://deis.com/blog/2016/docker-for-mac/,/u/tiwarinitish86,6
-3,2016-08-03 10:33:51 -0500,"['/t/release', '/t/security']",Hacker Compromises Fosshub to Distribute MBR-Hijacking Malware,http://news.softpedia.com/news/hacker-compromises-fosshub-to-distribute-mbr-hijacking-malware-506932.shtml,/u/calvin,6
-10,2016-08-02 12:40:55 -0500,"['/t/linux', '/t/programming']",Explaining Ed,https://gkbrk.com/2016/08/explaining-ed/,/u/gkbrk,30
-0,2016-08-03 08:18:46 -0500,"['/t/law', '/t/privacy']",Defending Privacy at the U.S. Border: A Guide for Travelers Carrying Digital Devices,https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices,/u/pushcx,12
-0,2016-08-04 06:59:17 -0500,['/t/culture'],Engineering interviews: refining our process,https://medium.engineering/engineering-interviews-refining-our-process-52fbc9510e91,/u/adsouza,1
-3,2016-08-03 03:26:58 -0500,"['/t/emacs', '/t/programming']",SICP available as an Emacs Info file,http://irreal.org/blog/?p=5438,/u/julienXX,14
-5,2016-08-04 07:20:44 -0500,['/t/web'],US startup Moon Express approved to make 2017 lunar mission,https://www.theguardian.com/science/2016/aug/03/us-startup-moon-express-2017-lunar-mission,/u/mikec,0
-1,2016-08-03 05:07:31 -0500,"['/t/hardware', '/t/networking']",FCC forces TP-Link to support open source firmware on routers,http://arstechnica.com/information-technology/2016/08/fcc-forces-tp-link-to-support-open-source-firmware-on-routers/,/u/Flisk,8
-8,2016-08-02 09:49:56 -0500,"['/t/graphics', '/t/programming', '/t/rust']",Inside the fastest font renderer in the world,https://medium.com/@raphlinus/inside-the-fastest-font-renderer-in-the-world-75ae5270c445,/u/BruceM,59
-0,2016-08-03 03:57:42 -0500,"['/t/programming', '/t/release']",Resources on Texteditor design,http://texteditors.org/cgi-bin/wiki.pl?DesigningTextEditors,/u/C-Keen,12
-0,2016-08-03 07:32:58 -0500,['/t/networking'],Vizceral Open Source,http://techblog.netflix.com/2016/08/vizceral-open-source.html,/u/rbn,6
-0,2016-08-03 14:47:16 -0500,"['/t/devops', '/t/virtualization']",Handling Environment Secrets in Docker on the AWS Container Service,https://www.promptworks.com/blog/handling-environment-secrets-in-docker-on-the-aws-container-service,/u/nicholaides,2
+7,2016-08-03 08:35:43 -0500,"/t/release,/t/unix",DragonFlyBSD 4.6 released,https://www.dragonflybsd.org/release46/,/u/sin,26
+0,2016-08-04 08:29:48 -0500,/t/programming,Hash Functions all the way down,http://aras-p.info/blog/2016/08/02/Hash-Functions-all-the-way-down/,/u/pushcx,2
+4,2016-08-03 09:13:35 -0500,/t/haskell,How to Get a Haskell Job,http://softwaresimply.blogspot.com/2016/08/how-to-get-haskell-job.html,/u/mightybyte,9
+1,2016-08-03 09:06:42 -0500,"/t/freebsd,/t/historical,/t/unix",DragonFlyBSD is unlikely (Annoucning DragonFly BSD! (sic)) (2003),https://lists.freebsd.org/pipermail/freebsd-current/2003-July/006917.html,/u/mjturner,24
+0,2016-08-03 15:52:22 -0500,/t/rust,Announcing Tokio,https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34,/u/julienXX,15
+14,2016-08-03 05:18:52 -0500,/t/networking,Rogue Access Points (why running your own WiFi at conferences is bad),https://wiki.emfcamp.org/wiki/Network/Rogue_Access_Points,/u/DRMacIver,19
+2,2016-08-03 13:07:37 -0500,/t/historical,"SWEET16 - Wikipedia, the free encyclopedia",https://en.wikipedia.org/wiki/SWEET16,/u/rain1,12
+0,2016-08-04 10:45:47 -0500,/t/satire,"It's a Unix System, I know This!",https://www.reddit.com/r/itsaunixsystem/,/u/mjturner,2
+4,2016-08-03 16:21:28 -0500,"/t/compsci,/t/programming",Future of Programming meetup in Berkeley,http://2020salon.blogspot.com/,/u/david927,2
+0,2016-08-04 01:29:46 -0500,"/t/video,/t/devops,/t/python",Docker as a replacement for virtualenv,https://www.youtube.com/watch?v=ETL-_W1W8gY,/u/tf,2
+0,2016-08-03 12:33:46 -0500,"/t/programming,/t/rust",Better Exception Messages: Writing an OS in Rust,http://os.phil-opp.com/better-exception-messages.html,/u/unbalancedparentheses,10
+1,2016-08-03 06:55:54 -0500,/t/databases,Thoughts on Uber’s List of Postgres Limitations,http://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/,/u/av,15
+28,2016-08-02 14:31:02 -0500,"/t/practices,/t/security",Why aren’t we using SSH for everything?,https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc,/u/friendlysock,45
+0,2016-08-03 09:28:00 -0500,/t/release,Docker is awesome on Mac!,https://deis.com/blog/2016/docker-for-mac/,/u/tiwarinitish86,6
+3,2016-08-03 10:33:51 -0500,"/t/release,/t/security",Hacker Compromises Fosshub to Distribute MBR-Hijacking Malware,http://news.softpedia.com/news/hacker-compromises-fosshub-to-distribute-mbr-hijacking-malware-506932.shtml,/u/calvin,6
+10,2016-08-02 12:40:55 -0500,"/t/linux,/t/programming",Explaining Ed,https://gkbrk.com/2016/08/explaining-ed/,/u/gkbrk,30
+0,2016-08-03 08:18:46 -0500,"/t/law,/t/privacy",Defending Privacy at the U.S. Border: A Guide for Travelers Carrying Digital Devices,https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices,/u/pushcx,12
+0,2016-08-04 06:59:17 -0500,/t/culture,Engineering interviews: refining our process,https://medium.engineering/engineering-interviews-refining-our-process-52fbc9510e91,/u/adsouza,1
+3,2016-08-03 03:26:58 -0500,"/t/emacs,/t/programming",SICP available as an Emacs Info file,http://irreal.org/blog/?p=5438,/u/julienXX,14
+5,2016-08-04 07:20:44 -0500,/t/web,US startup Moon Express approved to make 2017 lunar mission,https://www.theguardian.com/science/2016/aug/03/us-startup-moon-express-2017-lunar-mission,/u/mikec,0
+1,2016-08-03 05:07:31 -0500,"/t/hardware,/t/networking",FCC forces TP-Link to support open source firmware on routers,http://arstechnica.com/information-technology/2016/08/fcc-forces-tp-link-to-support-open-source-firmware-on-routers/,/u/Flisk,8
+8,2016-08-02 09:49:56 -0500,"/t/graphics,/t/programming,/t/rust",Inside the fastest font renderer in the world,https://medium.com/@raphlinus/inside-the-fastest-font-renderer-in-the-world-75ae5270c445,/u/BruceM,59
+0,2016-08-03 03:57:42 -0500,"/t/programming,/t/release",Resources on Texteditor design,http://texteditors.org/cgi-bin/wiki.pl?DesigningTextEditors,/u/C-Keen,12
+0,2016-08-03 07:32:58 -0500,/t/networking,Vizceral Open Source,http://techblog.netflix.com/2016/08/vizceral-open-source.html,/u/rbn,6
+0,2016-08-03 14:47:16 -0500,"/t/devops,/t/virtualization",Handling Environment Secrets in Docker on the AWS Container Service,https://www.promptworks.com/blog/handling-environment-secrets-in-docker-on-the-aws-container-service,/u/nicholaides,2

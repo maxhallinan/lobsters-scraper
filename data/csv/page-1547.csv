@@ -1,25 +1,25 @@
-0,2012-09-05 14:56:19 -0500,['/t/science'],Study Changes Understanding of How DNA Causes Disease,http://www.nytimes.com/2012/09/06/science/far-from-junk-dna-dark-matter-proves-crucial-to-health.html?_r=1&hp,/u/dmix,2
-0,2012-09-05 11:57:49 -0500,"['/t/compsci', '/t/hardware']",Raspberry Pi: Upcoming board revision 2.0,http://www.raspberrypi.org/archives/1929,/u/Francis,3
-0,2012-09-05 13:58:43 -0500,['/t/web'],CircleCI now has GitHub Status support,http://blog.circleci.com/github-status-support/,/u/philfreo,2
-0,2012-09-05 13:25:04 -0500,['/t/news'],De-bricking yourself – starting out as a speaker,http://christianheilmann.com/2012/09/05/de-bricking-yourself-starting-out-as-a-speaker/,/u/philcrissman,2
-0,2012-09-05 16:21:19 -0500,"['/t/android', '/t/ios', '/t/mobile']",Chinese clone maker wants to sue Apple over iPhone 5 design,http://www.neowin.net/news/chinese-clone-maker-wants-to-sue-apple-over-iphone-5-design,/u/kusuriya,1
-0,2012-09-05 11:28:46 -0500,"['/t/javascript', '/t/unix']",shelljs - Portable Unix shell commands for Node.js,https://github.com/arturadib/shelljs,/u/JGable,2
-0,2012-09-05 09:57:28 -0500,['/t/web'],Chaplin - An Application Architecture Using Backbone.js,https://github.com/chaplinjs/chaplin,/u/JGable,2
-0,2012-09-05 09:48:56 -0500,"['/t/browsers', '/t/web']",There is no such thing as CSS4 and never will be,http://www.xanthir.com/b4Ko0,/u/pushcx,2
-0,2012-09-05 09:46:49 -0500,['/t/web'],Domvas: Paint DOM content to Canvas,http://pbakaus.github.com/domvas/,/u/pushcx,2
-1,2012-09-04 23:08:17 -0500,['/t/web'],Bourbon Neat - New CSS Grid Framework from Thoughtbot,http://thoughtbot.com/neat/,/u/skalnik,7
-1,2012-09-04 23:41:31 -0500,"['/t/video', '/t/networking', '/t/privacy', '/t/security']",Keynote at Crypto 2012: The End of Crypto,https://www.youtube.com/watch?v=3ijjHZHNIbU,/u/jcs,7
-1,2012-09-05 02:04:19 -0500,['/t/openbsd'],OpenBSD read-only ports tree with restrictive sudo,http://blather.michaelwlucas.com/archives/1421,/u/lynge,4
-0,2012-09-05 08:33:22 -0500,"['/t/ios', '/t/mobile']",The Problem with Animation,http://jacobeiting.tumblr.com/post/30921705731/the-problem-with-animation,/u/philcrissman,2
-1,2012-09-04 11:27:10 -0500,['/t/news'],Travis CI: Pull Requests Just Got Even More Awesome,http://about.travis-ci.org/blog/2012-09-04-pull-requests-just-got-even-more-awesome/,/u/listrophy,20
-1,2012-09-04 20:29:57 -0500,"['/t/databases', '/t/scaling']","Scaling out Postgres, Part 1: Partitioning",http://petrohi.me/post/30848036722/scaling-out-postgres-partitioning,/u/jcs,6
-3,2012-09-04 11:30:46 -0500,['/t/news'],GitHub Ships Commit Status API,https://github.com/blog/1227-status-api,/u/rob,15
-3,2012-09-05 14:52:41 -0500,['/t/meta'],"Does the lobsters ""L"" logo change colors?",/s/xgn8rn/does_lobsters_l_logo_change_colors,/u/wally,1
-0,2012-09-04 18:59:50 -0500,"['/t/ios', '/t/security']",FBI Says Laptop Wasn't Hacked; Never Possessed File of Apple Device IDs,http://www.wired.com/threatlevel/2012/09/fbi-says-laptop-wasnt-hacked-never-possessed-file-of-apple-device-ids,/u/skalnik,7
-4,2012-09-04 12:29:04 -0500,"['/t/show', '/t/release']","Daily, top new & top watched GitHub repos report, in your inbox from Ilya Grigorik",http://bit.ly/gh-reports,/u/daniel_kehoe,10
-1,2012-09-04 17:33:51 -0500,"['/t/design', '/t/web']",Google Search is only 18% Search,http://blog.jitbit.com/2012/09/googles-serp-is-only-25-serp.html,/u/tedu,7
-1,2012-09-04 21:58:04 -0500,"['/t/api', '/t/news']",Lambda Labs Releases Face Recognition API βeta,http://api.lambdal.com/,/u/rob,3
-0,2012-09-04 12:02:19 -0500,"['/t/databases', '/t/scaling']",Why Tarsnap doesn't use Glacier,http://www.daemonology.net/blog/2012-09-04-why-tarsnap-doesnt-use-glacier.html,/u/tedu,13
-0,2012-09-04 12:59:06 -0500,['/t/security'],Advanced Exploitation of Xen Hypervisor Intel CPU 64-Bit Mode Sysret VM-to-Host Escape,http://www.vupen.com/blog/20120904.Advanced_Exploitation_of_Xen_Sysret_VM_Escape_CVE-2012-0217.php,/u/jcs,10
-0,2012-09-04 15:08:50 -0500,['/t/c'],What I learned from my first c coding challenge,http://blog.jasonmooberry.com/2012/09/what-i-learned-from-my-first-c-coding-challenge/,/u/jcs,5
-0,2012-09-04 15:50:43 -0500,['/t/go'],A Brief Tour of the Go Standard Library,http://www.drdobbs.com/open-source/a-brief-tour-of-the-go-standard-library/240006639,/u/kyle,4
+0,2012-09-05 14:56:19 -0500,/t/science,Study Changes Understanding of How DNA Causes Disease,http://www.nytimes.com/2012/09/06/science/far-from-junk-dna-dark-matter-proves-crucial-to-health.html?_r=1&hp,/u/dmix,2
+0,2012-09-05 11:57:49 -0500,"/t/compsci,/t/hardware",Raspberry Pi: Upcoming board revision 2.0,http://www.raspberrypi.org/archives/1929,/u/Francis,3
+0,2012-09-05 13:58:43 -0500,/t/web,CircleCI now has GitHub Status support,http://blog.circleci.com/github-status-support/,/u/philfreo,2
+0,2012-09-05 13:25:04 -0500,/t/news,De-bricking yourself – starting out as a speaker,http://christianheilmann.com/2012/09/05/de-bricking-yourself-starting-out-as-a-speaker/,/u/philcrissman,2
+0,2012-09-05 16:21:19 -0500,"/t/android,/t/ios,/t/mobile",Chinese clone maker wants to sue Apple over iPhone 5 design,http://www.neowin.net/news/chinese-clone-maker-wants-to-sue-apple-over-iphone-5-design,/u/kusuriya,1
+0,2012-09-05 11:28:46 -0500,"/t/javascript,/t/unix",shelljs - Portable Unix shell commands for Node.js,https://github.com/arturadib/shelljs,/u/JGable,2
+0,2012-09-05 09:57:28 -0500,/t/web,Chaplin - An Application Architecture Using Backbone.js,https://github.com/chaplinjs/chaplin,/u/JGable,2
+0,2012-09-05 09:48:56 -0500,"/t/browsers,/t/web",There is no such thing as CSS4 and never will be,http://www.xanthir.com/b4Ko0,/u/pushcx,2
+0,2012-09-05 09:46:49 -0500,/t/web,Domvas: Paint DOM content to Canvas,http://pbakaus.github.com/domvas/,/u/pushcx,2
+1,2012-09-04 23:08:17 -0500,/t/web,Bourbon Neat - New CSS Grid Framework from Thoughtbot,http://thoughtbot.com/neat/,/u/skalnik,7
+1,2012-09-04 23:41:31 -0500,"/t/video,/t/networking,/t/privacy,/t/security",Keynote at Crypto 2012: The End of Crypto,https://www.youtube.com/watch?v=3ijjHZHNIbU,/u/jcs,7
+1,2012-09-05 02:04:19 -0500,/t/openbsd,OpenBSD read-only ports tree with restrictive sudo,http://blather.michaelwlucas.com/archives/1421,/u/lynge,4
+0,2012-09-05 08:33:22 -0500,"/t/ios,/t/mobile",The Problem with Animation,http://jacobeiting.tumblr.com/post/30921705731/the-problem-with-animation,/u/philcrissman,2
+1,2012-09-04 11:27:10 -0500,/t/news,Travis CI: Pull Requests Just Got Even More Awesome,http://about.travis-ci.org/blog/2012-09-04-pull-requests-just-got-even-more-awesome/,/u/listrophy,20
+1,2012-09-04 20:29:57 -0500,"/t/databases,/t/scaling","Scaling out Postgres, Part 1: Partitioning",http://petrohi.me/post/30848036722/scaling-out-postgres-partitioning,/u/jcs,6
+3,2012-09-04 11:30:46 -0500,/t/news,GitHub Ships Commit Status API,https://github.com/blog/1227-status-api,/u/rob,15
+3,2012-09-05 14:52:41 -0500,/t/meta,"Does the lobsters ""L"" logo change colors?",/s/xgn8rn/does_lobsters_l_logo_change_colors,/u/wally,1
+0,2012-09-04 18:59:50 -0500,"/t/ios,/t/security",FBI Says Laptop Wasn't Hacked; Never Possessed File of Apple Device IDs,http://www.wired.com/threatlevel/2012/09/fbi-says-laptop-wasnt-hacked-never-possessed-file-of-apple-device-ids,/u/skalnik,7
+4,2012-09-04 12:29:04 -0500,"/t/show,/t/release","Daily, top new & top watched GitHub repos report, in your inbox from Ilya Grigorik",http://bit.ly/gh-reports,/u/daniel_kehoe,10
+1,2012-09-04 17:33:51 -0500,"/t/design,/t/web",Google Search is only 18% Search,http://blog.jitbit.com/2012/09/googles-serp-is-only-25-serp.html,/u/tedu,7
+1,2012-09-04 21:58:04 -0500,"/t/api,/t/news",Lambda Labs Releases Face Recognition API βeta,http://api.lambdal.com/,/u/rob,3
+0,2012-09-04 12:02:19 -0500,"/t/databases,/t/scaling",Why Tarsnap doesn't use Glacier,http://www.daemonology.net/blog/2012-09-04-why-tarsnap-doesnt-use-glacier.html,/u/tedu,13
+0,2012-09-04 12:59:06 -0500,/t/security,Advanced Exploitation of Xen Hypervisor Intel CPU 64-Bit Mode Sysret VM-to-Host Escape,http://www.vupen.com/blog/20120904.Advanced_Exploitation_of_Xen_Sysret_VM_Escape_CVE-2012-0217.php,/u/jcs,10
+0,2012-09-04 15:08:50 -0500,/t/c,What I learned from my first c coding challenge,http://blog.jasonmooberry.com/2012/09/what-i-learned-from-my-first-c-coding-challenge/,/u/jcs,5
+0,2012-09-04 15:50:43 -0500,/t/go,A Brief Tour of the Go Standard Library,http://www.drdobbs.com/open-source/a-brief-tour-of-the-go-standard-library/240006639,/u/kyle,4

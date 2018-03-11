@@ -1,25 +1,25 @@
-0,2015-08-15 15:38:22 -0500,"['/t/networking', '/t/practices', '/t/security']",AT&T Helped N.S.A. Spy on an Array of Internet Traffic,http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html,/u/pushcx,19
-0,2015-08-15 15:00:19 -0500,"['/t/book', '/t/programming', '/t/ruby']",The Unhappy Lambda,http://devblog.arnebrasseur.net/2014-06-the-unhappy-lambda,/u/gwenhael,18
-17,2015-08-14 16:28:22 -0500,['/t/compsci'],Learn Type Theory,https://github.com/jozefg/learn-tt,/u/jozefg,32
-13,2015-08-15 00:21:26 -0500,"['/t/pdf', '/t/compsci', '/t/security']",The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,/u/evhan,13
-9,2015-08-15 02:16:07 -0500,['/t/compsci'],The definitive (technical) list of lists (of lists) curated on GitHub,https://github.com/jnv/lists,/u/zg,9
-0,2015-08-15 18:36:46 -0500,"['/t/art', '/t/math']",2015 Bridges Conference Mathematical Art Galleries,http://gallery.bridgesmathart.org/exhibitions/2015-Bridges-Conference,/u/pushcx,2
-4,2015-08-14 18:02:24 -0500,['/t/programming'],64 Stitches,http://64sts.com/,/u/englishm,11
-13,2015-08-14 11:20:20 -0500,"['/t/show', '/t/release']",Aurous - BitTorrent Powered Music,https://aurous.me/,/u/andrewmd5,10
-1,2015-08-15 01:04:37 -0500,"['/t/pdf', '/t/compsci']",Type theory and its meaning explanations,http://www.jonmsterling.com/pdfs/meaning-explanations.pdf,/u/mjn,6
-0,2015-08-14 19:16:17 -0500,"['/t/hardware', '/t/reversing']",DEFCON 23 Badge Challenge,http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge,/u/jcs,15
-2,2015-08-14 10:29:23 -0500,['/t/rust'],Rust in 2016,http://blog.rust-lang.org/2015/08/14/Next-year.html,/u/steveklabnik,37
-1,2015-08-14 13:13:36 -0500,['/t/programming'],The technology behind 200 byte preview photos,https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/,/u/pushcx,27
-0,2015-08-14 13:53:17 -0500,['/t/unix'],The TTY demystified,http://www.linusakesson.net/programming/tty/,/u/englishm,25
-4,2015-08-14 16:54:17 -0500,['/t/philosophy'],"Self, version 2.0",http://dirtsimple.org/2005/10/self-version-20.html,/u/peterhorne,6
-2,2015-08-14 17:28:41 -0500,"['/t/video', '/t/games', '/t/programming']",Hacking Roller Coaster Tycoon with Genetic Algorithms and Go,http://www.youtube.com/watch?v=6mRFITUwCVU,/u/kb,5
-3,2015-08-14 11:46:07 -0500,"['/t/assembly', '/t/compilers', '/t/release']",BrainFuck To Kernel version 1.1,https://github.com/Hullu2000/BFTK,/u/pushcx,11
-0,2015-08-14 12:48:28 -0500,"['/t/compsci', '/t/release']",shoco - a fast compressor for short strings,https://ed-von-schleck.github.io/shoco/,/u/pushcx,11
-1,2015-08-14 13:10:07 -0500,['/t/python'],Consistent hash ring library for building distributed apps using Python/Redis,https://github.com/closeio/redis-hashring,/u/tom,3
-2,2015-08-14 05:56:20 -0500,"['/t/programming', '/t/rust']",Learning DSP with Rust part 1: Signals and Sinusoids,http://www.eightbitraptor.com/2015/08/11/learning-dsp-with-rust-discrete-signals/,/u/eightbitraptor,7
-7,2015-08-14 00:59:15 -0500,"['/t/art', '/t/javascript']",Drawings I've done using Processing.js,http://zk.gd/drawings/,/u/zg,6
-0,2015-08-14 13:49:34 -0500,['/t/security'],On Safenet HSM key-extraction vulnerability CVE-2015-5464 (part I),https://randomoracle.wordpress.com/2015/08/13/safenet-hsm-key-extraction-vulnerability-part-i/,/u/kyle,4
-19,2015-08-13 12:30:42 -0500,"['/t/person', '/t/programming']",(Pure) Functional Programming Claims IRL,http://logicaltypes.blogspot.com/2015/08/pure-functional-programming-claims-irl.html,/u/pushcx,22
-9,2015-08-13 15:25:06 -0500,"['/t/pdf', '/t/math', '/t/science']",My Favorite Numbers: 24,http://math.ucr.edu/home/baez/numbers/24.pdf,/u/twopoint718,14
-9,2015-08-13 07:38:47 -0500,['/t/math'],Attack on the pentagon results in discovery of new mathematical tile,http://www.theguardian.com/science/alexs-adventures-in-numberland/2015/aug/10/attack-on-the-pentagon-results-in-discovery-of-new-mathematical-tile,/u/james,29
-1,2015-08-14 07:07:43 -0500,['/t/culture'],The Lie I Tell New Hires,http://blog.capwatkins.com/the-lie-i-tell-new-hires,/u/stig,8
+0,2015-08-15 15:38:22 -0500,"/t/networking,/t/practices,/t/security",AT&T Helped N.S.A. Spy on an Array of Internet Traffic,http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html,/u/pushcx,19
+0,2015-08-15 15:00:19 -0500,"/t/book,/t/programming,/t/ruby",The Unhappy Lambda,http://devblog.arnebrasseur.net/2014-06-the-unhappy-lambda,/u/gwenhael,18
+17,2015-08-14 16:28:22 -0500,/t/compsci,Learn Type Theory,https://github.com/jozefg/learn-tt,/u/jozefg,32
+13,2015-08-15 00:21:26 -0500,"/t/pdf,/t/compsci,/t/security",The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,/u/evhan,13
+9,2015-08-15 02:16:07 -0500,/t/compsci,The definitive (technical) list of lists (of lists) curated on GitHub,https://github.com/jnv/lists,/u/zg,9
+0,2015-08-15 18:36:46 -0500,"/t/art,/t/math",2015 Bridges Conference Mathematical Art Galleries,http://gallery.bridgesmathart.org/exhibitions/2015-Bridges-Conference,/u/pushcx,2
+4,2015-08-14 18:02:24 -0500,/t/programming,64 Stitches,http://64sts.com/,/u/englishm,11
+13,2015-08-14 11:20:20 -0500,"/t/show,/t/release",Aurous - BitTorrent Powered Music,https://aurous.me/,/u/andrewmd5,10
+1,2015-08-15 01:04:37 -0500,"/t/pdf,/t/compsci",Type theory and its meaning explanations,http://www.jonmsterling.com/pdfs/meaning-explanations.pdf,/u/mjn,6
+0,2015-08-14 19:16:17 -0500,"/t/hardware,/t/reversing",DEFCON 23 Badge Challenge,http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge,/u/jcs,15
+2,2015-08-14 10:29:23 -0500,/t/rust,Rust in 2016,http://blog.rust-lang.org/2015/08/14/Next-year.html,/u/steveklabnik,37
+1,2015-08-14 13:13:36 -0500,/t/programming,The technology behind 200 byte preview photos,https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/,/u/pushcx,27
+0,2015-08-14 13:53:17 -0500,/t/unix,The TTY demystified,http://www.linusakesson.net/programming/tty/,/u/englishm,25
+4,2015-08-14 16:54:17 -0500,/t/philosophy,"Self, version 2.0",http://dirtsimple.org/2005/10/self-version-20.html,/u/peterhorne,6
+2,2015-08-14 17:28:41 -0500,"/t/video,/t/games,/t/programming",Hacking Roller Coaster Tycoon with Genetic Algorithms and Go,http://www.youtube.com/watch?v=6mRFITUwCVU,/u/kb,5
+3,2015-08-14 11:46:07 -0500,"/t/assembly,/t/compilers,/t/release",BrainFuck To Kernel version 1.1,https://github.com/Hullu2000/BFTK,/u/pushcx,11
+0,2015-08-14 12:48:28 -0500,"/t/compsci,/t/release",shoco - a fast compressor for short strings,https://ed-von-schleck.github.io/shoco/,/u/pushcx,11
+1,2015-08-14 13:10:07 -0500,/t/python,Consistent hash ring library for building distributed apps using Python/Redis,https://github.com/closeio/redis-hashring,/u/tom,3
+2,2015-08-14 05:56:20 -0500,"/t/programming,/t/rust",Learning DSP with Rust part 1: Signals and Sinusoids,http://www.eightbitraptor.com/2015/08/11/learning-dsp-with-rust-discrete-signals/,/u/eightbitraptor,7
+7,2015-08-14 00:59:15 -0500,"/t/art,/t/javascript",Drawings I've done using Processing.js,http://zk.gd/drawings/,/u/zg,6
+0,2015-08-14 13:49:34 -0500,/t/security,On Safenet HSM key-extraction vulnerability CVE-2015-5464 (part I),https://randomoracle.wordpress.com/2015/08/13/safenet-hsm-key-extraction-vulnerability-part-i/,/u/kyle,4
+19,2015-08-13 12:30:42 -0500,"/t/person,/t/programming",(Pure) Functional Programming Claims IRL,http://logicaltypes.blogspot.com/2015/08/pure-functional-programming-claims-irl.html,/u/pushcx,22
+9,2015-08-13 15:25:06 -0500,"/t/pdf,/t/math,/t/science",My Favorite Numbers: 24,http://math.ucr.edu/home/baez/numbers/24.pdf,/u/twopoint718,14
+9,2015-08-13 07:38:47 -0500,/t/math,Attack on the pentagon results in discovery of new mathematical tile,http://www.theguardian.com/science/alexs-adventures-in-numberland/2015/aug/10/attack-on-the-pentagon-results-in-discovery-of-new-mathematical-tile,/u/james,29
+1,2015-08-14 07:07:43 -0500,/t/culture,The Lie I Tell New Hires,http://blog.capwatkins.com/the-lie-i-tell-new-hires,/u/stig,8

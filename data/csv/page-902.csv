@@ -1,25 +1,25 @@
-0,2016-01-19 00:37:55 -0600,"['/t/browsers', '/t/javascript', '/t/web']",Free JavaScript / AJAX Error Monitoring via Google Analytics,https://franciskim.co/2016/01/19/free-javascript-ajax-error-monitoring-via-google-analytics/,/u/franciskim,3
-3,2016-01-18 11:30:07 -0600,"['/t/pdf', '/t/math']",Jewish Problems (2011),http://arxiv.org/pdf/1110.1556v2.pdf,/u/pushcx,22
-4,2016-01-18 07:38:50 -0600,"['/t/elixir', '/t/erlang']",Comparing Elixir and Erlang variables,http://blog.plataformatec.com.br/2016/01/comparing-elixir-and-erlang-variables/,/u/355E3B,21
-0,2016-01-19 16:40:18 -0600,['/t/culture'],"The Meaning of ""Openness"" for Professional Culture in the Digital Age; or, Why I Built WhatIsHistory.Net?",http://humanscode.com/the-meaning-of-openness,/u/ezmiller,0
-0,2016-01-19 00:50:16 -0600,['/t/programming'],Routine Software,http://theprogrammersparadox.blogspot.com/2015/12/routine-software.html,/u/adsouza,4
-0,2016-01-19 02:12:02 -0600,['/t/c'],"Writing Good C++ By Default, in the STL",https://turingtester.wordpress.com/2016/01/18/writing-good-c-by-default-in-the-stl/,/u/av,3
-5,2016-01-18 05:14:42 -0600,['/t/ios'],F.lux Responds to Apple's Announcement of Night Shift,https://justgetflux.com/news/2016/01/14/apple.html,/u/jackivan88,21
-0,2016-01-19 01:18:27 -0600,"['/t/c', '/t/linux', '/t/testing']",Linux eBPF Stack Trace Hack,http://www.brendangregg.com/blog/2016-01-18/ebpf-stack-trace-hack.html,/u/awreece,3
-1,2016-01-19 03:59:19 -0600,['/t/javascript'],One JavaScript tip per day,https://github.com/loverajoel/jstips,/u/robbell,1
-6,2016-01-18 17:34:25 -0600,['/t/javascript'],Introducing Gulp cozy - Manage your gulp tasks in a cozier way,http://loige.co/introducing-gulp-cozy-manage-your-gulp-tasks-in-a-cozier-way/,/u/loige,2
-1,2016-01-18 20:10:13 -0600,"['/t/security', '/t/web']","Getting to 100% secure with an ""https-transitional"" mode.",http://webappsec-test.info/~bhill2/DifferentTakeOnOE.html,/u/pushcx,5
-0,2016-01-19 00:47:22 -0600,['/t/programming'],The Edit Loop (2010),http://theprogrammersparadox.blogspot.com/2010/03/edit-loop.html,/u/adsouza,3
-0,2016-01-18 12:07:42 -0600,['/t/programming'],Being a deaf developer,http://cruft.io/posts/deep-accessibility/,/u/pushcx,14
-0,2016-01-18 11:51:24 -0600,['/t/games'],New Doom level released by game creator John Romero,http://www.bbc.com/news/technology-35343089,/u/calvin,14
-0,2016-01-18 19:35:12 -0600,"['/t/compsci', '/t/visualization']",State space visualization examples,https://www3.hhu.de/stups/prob/index.php/State_space_visualization_examples,/u/pushcx,5
-4,2016-01-18 08:54:35 -0600,['/t/c'],"Avoid realloc(p, 0) due to standards breakage",https://github.com/Tarsnap/libcperciva/commit/cabe5fca76f6c38f872ea4a5967458e6f3bfe054,/u/dwc,9
-1,2016-01-19 11:00:08 -0600,"['/t/graphics', '/t/law', '/t/philosophy']",MakeHuman License (and how AGPL screws up everything),http://www.makehuman.org/license_explanation.php,/u/friendlysock,0
-0,2016-01-19 02:43:58 -0600,['/t/hardware'],CES 2016—Observations for Product People,https://medium.com/@stevesi/ces-2016-observations-for-product-people-1f36b8792679,/u/adsouza,1
-1,2016-01-18 13:55:13 -0600,"['/t/c', '/t/graphics', '/t/math']",The Art of Demomaking (Prologue),http://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_01_Prologue.shtml,/u/friendlysock,5
-8,2016-01-17 17:26:48 -0600,['/t/practices'],Unicorns Hunt for Talent Among Silicon Valley’s Giants,http://www.nytimes.com/2015/08/19/technology/unicorns-hunt-for-talent-among-silicon-valleys-giants.html?_r=0,/u/pushcx,25
-3,2016-01-18 02:11:38 -0600,"['/t/video', '/t/games', '/t/reversing']","Abusing Floating Point Casts To Beat A SM64 Level In Half An ""A"" Press",https://www.youtube.com/watch?v=kpk2tdsPh0A,/u/kel,15
-0,2016-01-18 09:32:07 -0600,['/t/design'],Nobody Wants To Use Your Product,https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/,/u/flyingfisch,8
-0,2016-01-18 10:19:38 -0600,['/t/compilers'],libFirm - optimization and machine code generation,http://pp.ipd.kit.edu/firm/Index,/u/355E3B,7
-0,2016-01-18 14:03:27 -0600,['/t/vcs'],The git's guide to Git: Bisect,https://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html,/u/SomeKittens,2
-0,2016-01-18 21:59:10 -0600,['/t/cogsci'],These Tricks Make Virtual Reality Feel Real,http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real,/u/jitterted,1
+0,2016-01-19 00:37:55 -0600,"/t/browsers,/t/javascript,/t/web",Free JavaScript / AJAX Error Monitoring via Google Analytics,https://franciskim.co/2016/01/19/free-javascript-ajax-error-monitoring-via-google-analytics/,/u/franciskim,3
+3,2016-01-18 11:30:07 -0600,"/t/pdf,/t/math",Jewish Problems (2011),http://arxiv.org/pdf/1110.1556v2.pdf,/u/pushcx,22
+4,2016-01-18 07:38:50 -0600,"/t/elixir,/t/erlang",Comparing Elixir and Erlang variables,http://blog.plataformatec.com.br/2016/01/comparing-elixir-and-erlang-variables/,/u/355E3B,21
+0,2016-01-19 16:40:18 -0600,/t/culture,"The Meaning of ""Openness"" for Professional Culture in the Digital Age; or, Why I Built WhatIsHistory.Net?",http://humanscode.com/the-meaning-of-openness,/u/ezmiller,0
+0,2016-01-19 00:50:16 -0600,/t/programming,Routine Software,http://theprogrammersparadox.blogspot.com/2015/12/routine-software.html,/u/adsouza,4
+0,2016-01-19 02:12:02 -0600,/t/c,"Writing Good C++ By Default, in the STL",https://turingtester.wordpress.com/2016/01/18/writing-good-c-by-default-in-the-stl/,/u/av,3
+5,2016-01-18 05:14:42 -0600,/t/ios,F.lux Responds to Apple's Announcement of Night Shift,https://justgetflux.com/news/2016/01/14/apple.html,/u/jackivan88,21
+0,2016-01-19 01:18:27 -0600,"/t/c,/t/linux,/t/testing",Linux eBPF Stack Trace Hack,http://www.brendangregg.com/blog/2016-01-18/ebpf-stack-trace-hack.html,/u/awreece,3
+1,2016-01-19 03:59:19 -0600,/t/javascript,One JavaScript tip per day,https://github.com/loverajoel/jstips,/u/robbell,1
+6,2016-01-18 17:34:25 -0600,/t/javascript,Introducing Gulp cozy - Manage your gulp tasks in a cozier way,http://loige.co/introducing-gulp-cozy-manage-your-gulp-tasks-in-a-cozier-way/,/u/loige,2
+1,2016-01-18 20:10:13 -0600,"/t/security,/t/web","Getting to 100% secure with an ""https-transitional"" mode.",http://webappsec-test.info/~bhill2/DifferentTakeOnOE.html,/u/pushcx,5
+0,2016-01-19 00:47:22 -0600,/t/programming,The Edit Loop (2010),http://theprogrammersparadox.blogspot.com/2010/03/edit-loop.html,/u/adsouza,3
+0,2016-01-18 12:07:42 -0600,/t/programming,Being a deaf developer,http://cruft.io/posts/deep-accessibility/,/u/pushcx,14
+0,2016-01-18 11:51:24 -0600,/t/games,New Doom level released by game creator John Romero,http://www.bbc.com/news/technology-35343089,/u/calvin,14
+0,2016-01-18 19:35:12 -0600,"/t/compsci,/t/visualization",State space visualization examples,https://www3.hhu.de/stups/prob/index.php/State_space_visualization_examples,/u/pushcx,5
+4,2016-01-18 08:54:35 -0600,/t/c,"Avoid realloc(p, 0) due to standards breakage",https://github.com/Tarsnap/libcperciva/commit/cabe5fca76f6c38f872ea4a5967458e6f3bfe054,/u/dwc,9
+1,2016-01-19 11:00:08 -0600,"/t/graphics,/t/law,/t/philosophy",MakeHuman License (and how AGPL screws up everything),http://www.makehuman.org/license_explanation.php,/u/friendlysock,0
+0,2016-01-19 02:43:58 -0600,/t/hardware,CES 2016—Observations for Product People,https://medium.com/@stevesi/ces-2016-observations-for-product-people-1f36b8792679,/u/adsouza,1
+1,2016-01-18 13:55:13 -0600,"/t/c,/t/graphics,/t/math",The Art of Demomaking (Prologue),http://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_01_Prologue.shtml,/u/friendlysock,5
+8,2016-01-17 17:26:48 -0600,/t/practices,Unicorns Hunt for Talent Among Silicon Valley’s Giants,http://www.nytimes.com/2015/08/19/technology/unicorns-hunt-for-talent-among-silicon-valleys-giants.html?_r=0,/u/pushcx,25
+3,2016-01-18 02:11:38 -0600,"/t/video,/t/games,/t/reversing","Abusing Floating Point Casts To Beat A SM64 Level In Half An ""A"" Press",https://www.youtube.com/watch?v=kpk2tdsPh0A,/u/kel,15
+0,2016-01-18 09:32:07 -0600,/t/design,Nobody Wants To Use Your Product,https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/,/u/flyingfisch,8
+0,2016-01-18 10:19:38 -0600,/t/compilers,libFirm - optimization and machine code generation,http://pp.ipd.kit.edu/firm/Index,/u/355E3B,7
+0,2016-01-18 14:03:27 -0600,/t/vcs,The git's guide to Git: Bisect,https://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html,/u/SomeKittens,2
+0,2016-01-18 21:59:10 -0600,/t/cogsci,These Tricks Make Virtual Reality Feel Real,http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real,/u/jitterted,1

@@ -1,25 +1,25 @@
-8,2017-03-01 07:35:12 -0600,"['/t/practices', '/t/programming']",The Psychology of the AWS Outage,https://www.spinellis.gr/blog/20170228/,/u/flyingfisch,12
-0,2017-03-02 00:35:06 -0600,['/t/javascript'],V8: Behind the Scenes (February Edition feat. A tale of TurboFan),http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition/,/u/av,3
-0,2017-03-01 10:17:22 -0600,"['/t/c', '/t/compsci', '/t/networking', '/t/programming']",Redis Pub/Sub under the hood,https://making.pusher.com/redis-pubsub-under-the-hood/,/u/jameshfisher,9
-0,2017-03-02 12:33:34 -0600,"['/t/satire', '/t/web']","S3 is unstable, move to S4",http://www.supersimplestorageservice.com/,/u/hwayne,1
-13,2017-03-01 01:12:33 -0600,['/t/haskell'],The Joy of Haskell,https://joyofhaskell.com/,/u/romanzolotarev,22
-3,2017-03-01 05:41:51 -0600,['/t/math'],"How many floating-point numbers are in the interval [0,1]?",http://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/,/u/calvin,19
-0,2017-03-02 06:41:53 -0600,"['/t/assembly', '/t/c']",Optimizing box pruning,http://www.codercorner.com/blog/?page_id=1632,/u/mikejsavage,1
-3,2017-03-01 05:56:11 -0600,['/t/hardware'],How To Install Coreboot Onto Your Lenovo Thinkpad X200 Laptop,https://ggr.com/how-to-install-coreboot-on-your-x200.html,/u/mjturner,19
-1,2017-03-02 02:16:41 -0600,['/t/distributed'],Mitigating an AWS Instance Failure with the Magic of Kubernetes,https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14,/u/Dawny33,2
-2,2017-03-01 16:18:35 -0600,['/t/compsci'],Zebras Hate You For No Reason: Why Amdahl's Law is Misleading in a World of Cats (And Maybe in Ours Too),https://www.EmbeddedRelated.com/showarticle/1033.php,/u/calvin,5
-1,2017-03-01 03:25:57 -0600,['/t/historical'],"Viola, the first graphical browser, pre-dating Mosaic by 10-months",http://www.viola.org/viola/violaIntro.html,/u/a-109-107,29
-0,2017-03-02 05:14:08 -0600,"['/t/debugging', '/t/hardware']",Host-based simulation for embedded systems,http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/,/u/calvin,1
-0,2017-03-02 00:34:33 -0600,['/t/programming'],The Clojure Error Message Catalog: common error messages and their meanings,https://github.com/yogthos/clojure-error-message-catalog,/u/av,1
-0,2017-03-02 00:33:39 -0600,"['/t/practices', '/t/programming']",Best practices – AWS Lambda function,https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/,/u/av,1
-11,2017-02-28 23:36:24 -0600,['/t/job'],"Wellington, New Zealand is paying for vacations to try and attract tech talent",http://www.wellingtonnz.com/work/looksee-wellington/,/u/jmelesky,13
-0,2017-03-01 12:16:56 -0600,"['/t/compilers', '/t/ruby']",Ruby+OMR JIT Compiler: What’s next?,https://developer.ibm.com/open/2017/03/01/ruby-omr-jit-compiler-whats-next/,/u/mgaudet,3
-0,2017-03-01 11:34:00 -0600,"['/t/practices', '/t/web']","Serverless websites: how we build, deploy & host QueryTree without webservers",http://weared4.com/blog/how-we-build-deploy-host-querytree-without-servers/,/u/wgx,3
-1,2017-03-01 10:39:22 -0600,"['/t/java', '/t/programming']",Code Intelligence now available for Java on Sourcegraph,https://www.reddit.com/r/programming/comments/5wx0oy/code_intelligence_now_available_for_java_on/,/u/linda,5
-4,2017-03-01 11:12:56 -0600,"['/t/ask', '/t/job', '/t/practices']","How would you explain that devs aren't machinary, from a business perspective?",/s/gdezid/how_would_you_explain_devs_aren_t,/u/friendlysock,3
-2,2017-03-01 18:56:21 -0600,['/t/programming'],State.of.dev: visualization of the current state of development,https://dev.to/yvoschaap/stateofdev-visualization-of-the-current-state-of-development,/u/soulcutter,1
-29,2017-02-28 14:20:27 -0600,"['/t/devops', '/t/virtualization', '/t/web']","Amazon's AWS S3 cloud storage evaporates: Top websites, Docker stung",https://www.theregister.co.uk/2017/02/28/aws_is_awol_as_s3_goes_haywire/,/u/anarcat,28
-8,2017-03-01 02:20:16 -0600,"['/t/api', '/t/web']","RESTful APIs, the big lie",https://mmikowski.github.io/the_lie/,/u/av,7
-0,2017-03-01 12:49:38 -0600,"['/t/android', '/t/java', '/t/javascript', '/t/programming']","Kotlin 1.1 released with JavaScript support, coroutines and more",https://blog.jetbrains.com/kotlin/2017/03/kotlin-1-1/,/u/colin,4
-0,2017-03-01 14:56:40 -0600,['/t/security'],"Ok Google, Give Me All Your Internal DNS Information! – RCE Security",https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/,/u/falvese,3
-0,2017-03-01 20:44:10 -0600,['/t/programming'],5 Lessons We’ve Learned Using AWS,http://techblog.netflix.com/2010/12/5-lessons-weve-learned-using-aws.html,/u/Dawny33,1
+8,2017-03-01 07:35:12 -0600,"/t/practices,/t/programming",The Psychology of the AWS Outage,https://www.spinellis.gr/blog/20170228/,/u/flyingfisch,12
+0,2017-03-02 00:35:06 -0600,/t/javascript,V8: Behind the Scenes (February Edition feat. A tale of TurboFan),http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition/,/u/av,3
+0,2017-03-01 10:17:22 -0600,"/t/c,/t/compsci,/t/networking,/t/programming",Redis Pub/Sub under the hood,https://making.pusher.com/redis-pubsub-under-the-hood/,/u/jameshfisher,9
+0,2017-03-02 12:33:34 -0600,"/t/satire,/t/web","S3 is unstable, move to S4",http://www.supersimplestorageservice.com/,/u/hwayne,1
+13,2017-03-01 01:12:33 -0600,/t/haskell,The Joy of Haskell,https://joyofhaskell.com/,/u/romanzolotarev,22
+3,2017-03-01 05:41:51 -0600,/t/math,"How many floating-point numbers are in the interval [0,1]?",http://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/,/u/calvin,19
+0,2017-03-02 06:41:53 -0600,"/t/assembly,/t/c",Optimizing box pruning,http://www.codercorner.com/blog/?page_id=1632,/u/mikejsavage,1
+3,2017-03-01 05:56:11 -0600,/t/hardware,How To Install Coreboot Onto Your Lenovo Thinkpad X200 Laptop,https://ggr.com/how-to-install-coreboot-on-your-x200.html,/u/mjturner,19
+1,2017-03-02 02:16:41 -0600,/t/distributed,Mitigating an AWS Instance Failure with the Magic of Kubernetes,https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14,/u/Dawny33,2
+2,2017-03-01 16:18:35 -0600,/t/compsci,Zebras Hate You For No Reason: Why Amdahl's Law is Misleading in a World of Cats (And Maybe in Ours Too),https://www.EmbeddedRelated.com/showarticle/1033.php,/u/calvin,5
+1,2017-03-01 03:25:57 -0600,/t/historical,"Viola, the first graphical browser, pre-dating Mosaic by 10-months",http://www.viola.org/viola/violaIntro.html,/u/a-109-107,29
+0,2017-03-02 05:14:08 -0600,"/t/debugging,/t/hardware",Host-based simulation for embedded systems,http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/,/u/calvin,1
+0,2017-03-02 00:34:33 -0600,/t/programming,The Clojure Error Message Catalog: common error messages and their meanings,https://github.com/yogthos/clojure-error-message-catalog,/u/av,1
+0,2017-03-02 00:33:39 -0600,"/t/practices,/t/programming",Best practices – AWS Lambda function,https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/,/u/av,1
+11,2017-02-28 23:36:24 -0600,/t/job,"Wellington, New Zealand is paying for vacations to try and attract tech talent",http://www.wellingtonnz.com/work/looksee-wellington/,/u/jmelesky,13
+0,2017-03-01 12:16:56 -0600,"/t/compilers,/t/ruby",Ruby+OMR JIT Compiler: What’s next?,https://developer.ibm.com/open/2017/03/01/ruby-omr-jit-compiler-whats-next/,/u/mgaudet,3
+0,2017-03-01 11:34:00 -0600,"/t/practices,/t/web","Serverless websites: how we build, deploy & host QueryTree without webservers",http://weared4.com/blog/how-we-build-deploy-host-querytree-without-servers/,/u/wgx,3
+1,2017-03-01 10:39:22 -0600,"/t/java,/t/programming",Code Intelligence now available for Java on Sourcegraph,https://www.reddit.com/r/programming/comments/5wx0oy/code_intelligence_now_available_for_java_on/,/u/linda,5
+4,2017-03-01 11:12:56 -0600,"/t/ask,/t/job,/t/practices","How would you explain that devs aren't machinary, from a business perspective?",/s/gdezid/how_would_you_explain_devs_aren_t,/u/friendlysock,3
+2,2017-03-01 18:56:21 -0600,/t/programming,State.of.dev: visualization of the current state of development,https://dev.to/yvoschaap/stateofdev-visualization-of-the-current-state-of-development,/u/soulcutter,1
+29,2017-02-28 14:20:27 -0600,"/t/devops,/t/virtualization,/t/web","Amazon's AWS S3 cloud storage evaporates: Top websites, Docker stung",https://www.theregister.co.uk/2017/02/28/aws_is_awol_as_s3_goes_haywire/,/u/anarcat,28
+8,2017-03-01 02:20:16 -0600,"/t/api,/t/web","RESTful APIs, the big lie",https://mmikowski.github.io/the_lie/,/u/av,7
+0,2017-03-01 12:49:38 -0600,"/t/android,/t/java,/t/javascript,/t/programming","Kotlin 1.1 released with JavaScript support, coroutines and more",https://blog.jetbrains.com/kotlin/2017/03/kotlin-1-1/,/u/colin,4
+0,2017-03-01 14:56:40 -0600,/t/security,"Ok Google, Give Me All Your Internal DNS Information! – RCE Security",https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/,/u/falvese,3
+0,2017-03-01 20:44:10 -0600,/t/programming,5 Lessons We’ve Learned Using AWS,http://techblog.netflix.com/2010/12/5-lessons-weve-learned-using-aws.html,/u/Dawny33,1

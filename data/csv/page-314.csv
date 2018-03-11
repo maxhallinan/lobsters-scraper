@@ -1,25 +1,25 @@
-0,2017-06-27 13:43:34 -0500,['/t/rust'],Idiomatic bindings to the Starcraft Broodwar game,https://users.rust-lang.org/t/idiomatic-bindings-to-the-starcraft-broodwar-game/11572,/u/andrers,3
-1,2017-06-27 07:33:22 -0500,"['/t/pdf', '/t/book', '/t/practices']",Don't Just Roll The Dice: A usefully short guide to software pricing,http://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf,/u/fcbsd,5
-0,2017-06-27 18:47:51 -0500,['/t/security'],Pnyetya: Yet Another Ransomware Outbreak,https://medium.com/@thegrugq/pnyetya-yet-another-ransomware-outbreak-59afd1ee89d4,/u/calvin,1
-0,2017-06-27 11:56:11 -0500,['/t/devops'],5 Caveats Before Diving into Reactive Microservices Architecture,https://runnable.com/blog/5-caveats-before-diving-into-reactive-microservices-architecture,/u/taylor,3
-13,2017-06-26 12:50:11 -0500,"['/t/education', '/t/science']",Learning Gotcha: How We Misunderstood Schrödinger’s Cat,https://betterexplained.com/articles/gotcha-shrodingers-cat/,/u/flyingfisch,21
-3,2017-06-26 20:41:24 -0500,['/t/practices'],How to Interview Engineers,http://blog.triplebyte.com/how-to-interview-engineers,/u/pushcx,11
-0,2017-06-26 20:48:39 -0500,"['/t/elm', '/t/programming', '/t/web']",General aspects between Elm and JS,https://www.dailydrip.com/blog/general-aspects-between-elm-and-js.html,/u/franzunix,8
-2,2017-06-27 08:50:28 -0500,"['/t/culture', '/t/historical', '/t/philosophy']",Shirky: A Group Is Its Own Worst Enemy [2003],http://shirky.com/writings/group_enemy.html,/u/ngrilly,5
-1,2017-06-26 18:08:09 -0500,"['/t/api', '/t/education', '/t/security']",Explain like I’m 5: Kerberos,http://www.roguelynn.com/words/explain-like-im-5-kerberos/,/u/friendlysock,12
-14,2017-06-26 06:23:47 -0500,"['/t/networking', '/t/openbsd']",Building an IPsec Gateway With OpenBSD,https://www.exoscale.ch/syslog/2017/06/26/building-an-ipsec-gateway-with-openbsd/,/u/mulander,23
-0,2017-06-27 11:51:12 -0500,"['/t/javascript', '/t/web']",Angular vs. React: Which Is Better for Web Development?,https://www.toptal.com/front-end/angular-vs-react-for-web-development,/u/lolptdr,1
-6,2017-06-26 10:09:57 -0500,"['/t/games', '/t/graphics']",PICO-8 Fictional Console Lighting,https://hackernoon.com/pico-8-lighting-part-1-thin-dark-line-8ea15d21fed7,/u/aperun,13
-1,2017-06-27 07:43:21 -0500,"['/t/culture', '/t/law']",Free Culture Benefits Everyone But the Middle Man,https://theanarchistlibrary.org/library/kevin-carson-free-culture-benefits-everyone-but-the-middle-man-2,/u/pizzaiolo,4
-0,2017-06-27 01:28:46 -0500,['/t/javascript'],Introducing loadable-components ✂️✨ - React code splitting browser + server,https://medium.com/smooth-code/introducing-loadable-components-%EF%B8%8F-646dd3ab0aa6,/u/gregb,2
-1,2017-06-26 13:28:23 -0500,"['/t/ai', '/t/mobile']","How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native",https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3,/u/pushcx,16
-1,2017-06-26 12:48:04 -0500,['/t/historical'],Modern Day Gopher: The Protocol That the Web Beat,http://tedium.co/2017/06/22/modern-day-gopher-history/,/u/rain1,17
-2,2017-06-26 13:38:13 -0500,"['/t/debugging', '/t/hardware']",The Elgin rectangle: why couldn't people lock their cars in Carlton?,http://www.theage.com.au/victoria/the-elgin-rectangle-why-couldnt-people-lock-their-cars-in-carlton-20170623-gwx6v8.html,/u/pushcx,14
-0,2017-06-27 15:48:25 -0500,['/t/javascript'],Functional programming in Javascript is an antipattern,https://hackernoon.com/functional-programming-in-javascript-is-an-antipattern-58526819f21e,/u/pushcx,0
-0,2017-06-26 15:14:07 -0500,"['/t/c', '/t/compsci']",Applied Formal Logic: The bug in Quick Search,https://maniagnosis.crsr.net/2017/06/AFL-bug-in-quicksearch.html,/u/havenwood,10
-8,2017-06-26 09:42:32 -0500,['/t/css'],Ensure 300ppi photos with CSS Variables,https://codepen.io/tomhodgins/pen/BZZgxm/,/u/innovati,5
-0,2017-06-27 05:39:33 -0500,"['/t/video', '/t/linux', '/t/networking', '/t/python']","3 short screencasts (/proc, tcpdump, strace)",https://jvns.ca/blog/2017/06/26/3-screencasts/,/u/calvin,1
-3,2017-06-26 11:35:43 -0500,"['/t/hardware', '/t/historical', '/t/performance', '/t/programming']",Improvements to the Xerox Alto Mandelbrot drop runtime from 1 hour to 9 minutes,http://www.righto.com/2017/06/improvements-to-xerox-alto-mandelbrot.html,/u/calvin,8
-2,2017-06-26 13:57:50 -0500,['/t/openbsd'],Isotop - personalized OpenBSD ISO,https://3hg.fr/isotop/,/u/mulander,6
-0,2017-06-27 04:27:15 -0500,"['/t/api', '/t/security']",GraphQL NoSQL Injection Through JSON Types,https://medium.com/@east5th/graphql-nosql-injection-through-json-types-a1a0a310c759,/u/unbalancedparentheses,1
-0,2017-06-27 04:26:00 -0500,"['/t/api', '/t/security']",NoSQL Injection and GraphQL,http://blog.east5th.co/blog/2016/06/13/nosql-injection-and-graphql/,/u/unbalancedparentheses,1
+0,2017-06-27 13:43:34 -0500,/t/rust,Idiomatic bindings to the Starcraft Broodwar game,https://users.rust-lang.org/t/idiomatic-bindings-to-the-starcraft-broodwar-game/11572,/u/andrers,3
+1,2017-06-27 07:33:22 -0500,"/t/pdf,/t/book,/t/practices",Don't Just Roll The Dice: A usefully short guide to software pricing,http://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf,/u/fcbsd,5
+0,2017-06-27 18:47:51 -0500,/t/security,Pnyetya: Yet Another Ransomware Outbreak,https://medium.com/@thegrugq/pnyetya-yet-another-ransomware-outbreak-59afd1ee89d4,/u/calvin,1
+0,2017-06-27 11:56:11 -0500,/t/devops,5 Caveats Before Diving into Reactive Microservices Architecture,https://runnable.com/blog/5-caveats-before-diving-into-reactive-microservices-architecture,/u/taylor,3
+13,2017-06-26 12:50:11 -0500,"/t/education,/t/science",Learning Gotcha: How We Misunderstood Schrödinger’s Cat,https://betterexplained.com/articles/gotcha-shrodingers-cat/,/u/flyingfisch,21
+3,2017-06-26 20:41:24 -0500,/t/practices,How to Interview Engineers,http://blog.triplebyte.com/how-to-interview-engineers,/u/pushcx,11
+0,2017-06-26 20:48:39 -0500,"/t/elm,/t/programming,/t/web",General aspects between Elm and JS,https://www.dailydrip.com/blog/general-aspects-between-elm-and-js.html,/u/franzunix,8
+2,2017-06-27 08:50:28 -0500,"/t/culture,/t/historical,/t/philosophy",Shirky: A Group Is Its Own Worst Enemy [2003],http://shirky.com/writings/group_enemy.html,/u/ngrilly,5
+1,2017-06-26 18:08:09 -0500,"/t/api,/t/education,/t/security",Explain like I’m 5: Kerberos,http://www.roguelynn.com/words/explain-like-im-5-kerberos/,/u/friendlysock,12
+14,2017-06-26 06:23:47 -0500,"/t/networking,/t/openbsd",Building an IPsec Gateway With OpenBSD,https://www.exoscale.ch/syslog/2017/06/26/building-an-ipsec-gateway-with-openbsd/,/u/mulander,23
+0,2017-06-27 11:51:12 -0500,"/t/javascript,/t/web",Angular vs. React: Which Is Better for Web Development?,https://www.toptal.com/front-end/angular-vs-react-for-web-development,/u/lolptdr,1
+6,2017-06-26 10:09:57 -0500,"/t/games,/t/graphics",PICO-8 Fictional Console Lighting,https://hackernoon.com/pico-8-lighting-part-1-thin-dark-line-8ea15d21fed7,/u/aperun,13
+1,2017-06-27 07:43:21 -0500,"/t/culture,/t/law",Free Culture Benefits Everyone But the Middle Man,https://theanarchistlibrary.org/library/kevin-carson-free-culture-benefits-everyone-but-the-middle-man-2,/u/pizzaiolo,4
+0,2017-06-27 01:28:46 -0500,/t/javascript,Introducing loadable-components ✂️✨ - React code splitting browser + server,https://medium.com/smooth-code/introducing-loadable-components-%EF%B8%8F-646dd3ab0aa6,/u/gregb,2
+1,2017-06-26 13:28:23 -0500,"/t/ai,/t/mobile","How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native",https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3,/u/pushcx,16
+1,2017-06-26 12:48:04 -0500,/t/historical,Modern Day Gopher: The Protocol That the Web Beat,http://tedium.co/2017/06/22/modern-day-gopher-history/,/u/rain1,17
+2,2017-06-26 13:38:13 -0500,"/t/debugging,/t/hardware",The Elgin rectangle: why couldn't people lock their cars in Carlton?,http://www.theage.com.au/victoria/the-elgin-rectangle-why-couldnt-people-lock-their-cars-in-carlton-20170623-gwx6v8.html,/u/pushcx,14
+0,2017-06-27 15:48:25 -0500,/t/javascript,Functional programming in Javascript is an antipattern,https://hackernoon.com/functional-programming-in-javascript-is-an-antipattern-58526819f21e,/u/pushcx,0
+0,2017-06-26 15:14:07 -0500,"/t/c,/t/compsci",Applied Formal Logic: The bug in Quick Search,https://maniagnosis.crsr.net/2017/06/AFL-bug-in-quicksearch.html,/u/havenwood,10
+8,2017-06-26 09:42:32 -0500,/t/css,Ensure 300ppi photos with CSS Variables,https://codepen.io/tomhodgins/pen/BZZgxm/,/u/innovati,5
+0,2017-06-27 05:39:33 -0500,"/t/video,/t/linux,/t/networking,/t/python","3 short screencasts (/proc, tcpdump, strace)",https://jvns.ca/blog/2017/06/26/3-screencasts/,/u/calvin,1
+3,2017-06-26 11:35:43 -0500,"/t/hardware,/t/historical,/t/performance,/t/programming",Improvements to the Xerox Alto Mandelbrot drop runtime from 1 hour to 9 minutes,http://www.righto.com/2017/06/improvements-to-xerox-alto-mandelbrot.html,/u/calvin,8
+2,2017-06-26 13:57:50 -0500,/t/openbsd,Isotop - personalized OpenBSD ISO,https://3hg.fr/isotop/,/u/mulander,6
+0,2017-06-27 04:27:15 -0500,"/t/api,/t/security",GraphQL NoSQL Injection Through JSON Types,https://medium.com/@east5th/graphql-nosql-injection-through-json-types-a1a0a310c759,/u/unbalancedparentheses,1
+0,2017-06-27 04:26:00 -0500,"/t/api,/t/security",NoSQL Injection and GraphQL,http://blog.east5th.co/blog/2016/06/13/nosql-injection-and-graphql/,/u/unbalancedparentheses,1

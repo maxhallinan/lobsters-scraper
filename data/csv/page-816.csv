@@ -1,25 +1,25 @@
-10,2016-04-11 18:44:06 -0500,"['/t/c', '/t/openbsd', '/t/security']",Undeadly and HTTPS,http://undeadly.org/cgi?action=article&sid=20160411201504,/u/mulander,16
-0,2016-04-12 17:02:48 -0500,"['/t/pdf', '/t/hardware']",CubeSat Design Specification (Rev 13),http://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf,/u/pushcx,2
-1,2016-04-12 00:39:54 -0500,['/t/devops'],Notes on Google's Site Reliability Engineering book,http://danluu.com/google-sre-book/,/u/sustrik,10
-83,2016-04-11 08:22:50 -0500,['/t/ask'],What are you working on this week?,/s/5lfst9/what_are_you_working_on_this_week,/u/arrdem,31
-9,2016-04-11 13:39:18 -0500,"['/t/go', '/t/privacy', '/t/web']",privacysco.re,https://privacysco.re/,/u/kvch,17
-5,2016-04-11 12:26:56 -0500,"['/t/video', '/t/satire', '/t/virtualization']",Hitler uses Docker,https://www.youtube.com/watch?v=PivpCKEiQOQ,/u/JordiGH,62
-3,2016-04-11 10:10:54 -0500,"['/t/programming', '/t/unix']",Write opinionated workarounds,http://www.daemonology.net/blog/2016-04-11-write-opinionated-workarounds.html,/u/tedu,35
-0,2016-04-12 11:46:54 -0500,"['/t/databases', '/t/distributed']",DataStax layers graph database on top of Cassandra engine,http://siliconangle.com/blog/2016/04/12/datastax-layers-graph-database-on-top-of-cassandra-engine/,/u/jeskie,2
-1,2016-04-11 22:14:37 -0500,['/t/javascript'],Refinement Types for TypeScript,https://scirate.com/arxiv/1604.02480,/u/silky,9
-2,2016-04-11 22:40:23 -0500,"['/t/practices', '/t/programming']",Semper Ubi Sub Ubi - Things They Don't Teach You In School,https://www.netmeister.org/blog/semper-ubi-sub-ubi.html,/u/friendlysock,6
-3,2016-04-11 18:00:23 -0500,"['/t/devops', '/t/ml']",OCaml in Operations,https://michipili.github.io/essay/2016/04/11/ocaml-on-operations.html,/u/dwc,8
-0,2016-04-12 18:50:22 -0500,['/t/science'],Cosmological natural selection (fecund universes),http://evodevouniverse.com/wiki/index.php/Cosmological_natural_selection_%28fecund_universes%29,/u/bsima,0
-2,2016-04-11 11:41:49 -0500,"['/t/haskell', '/t/practices', '/t/programming']",Worst practices should be hard,http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html,/u/jonschoning,18
-1,2016-04-12 05:02:41 -0500,['/t/practices'],The Blessing of Interactive Development,http://tonsky.me/blog/interactive-development/,/u/jan,2
-3,2016-04-12 16:28:55 -0500,"['/t/culture', '/t/person']",documentary is up,http://sapiensanonym.blogspot.com/2016/04/documentary-is-up.html,/u/rbn,1
-2,2016-04-11 04:05:42 -0500,"['/t/browsers', '/t/openbsd']",firefox vs rthreads,http://www.tedunangst.com/flak/post/firefox-vs-rthreads,/u/mulander,40
-4,2016-04-11 16:19:58 -0500,['/t/hardware'],"Review: ODROID-C2, compared to Raspberry Pi 3 and Orange Pi Plus",http://www.jeffgeerling.com/blog/2016/review-odroid-c2-compared-raspberry-pi-3-and-orange-pi-plus,/u/mjn,5
-2,2016-04-11 11:26:20 -0500,['/t/elixir'],Writing extensible Elixir with Behaviours,https://www.djm.org.uk/posts/writing-extensible-elixir-with-behaviours-adapters-pluggable-backends/,/u/djm,6
-2,2016-04-11 09:14:07 -0500,"['/t/c', '/t/ml']",tis-interpreter: an interpreter of C for detecting undefined behavior,https://github.com/TrustInSoft/tis-interpreter,/u/dwc,14
-0,2016-04-12 03:03:24 -0500,['/t/databases'],GPUdb,http://www.gpudb.com/,/u/sanxiyn,2
-5,2016-04-11 02:28:00 -0500,['/t/practices'],Why libinput doesn't have a lot of config options,http://who-t.blogspot.com/2016/04/why-libinput-doesnt-have-lot-of-config.html,/u/coypoop,26
-0,2016-04-11 13:05:48 -0500,"['/t/pdf', '/t/linux']",Filesystem Fuzzing with American Fuzzy Lop,http://events.linuxfoundation.org/sites/events/files/slides/AFL%20filesystem%20fuzzing%2C%20Vault%202016.pdf,/u/goncalo,11
-3,2016-04-11 18:32:47 -0500,['/t/culture'],Final Statement on the LambdaConf Controversy,http://degoes.net/articles/lambdaconf-conclusion,/u/dwc,11
-18,2016-04-12 18:08:37 -0500,['/t/culture'],I am on the Kill List. This is what it feels like to be hunted,http://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html,/u/itistoday,2
-7,2016-04-11 15:31:33 -0500,"['/t/ask', '/t/security']",European universal eID and eSigning is coming. Do you participate?,/s/hpmi1k/european_universal_eid_esigning_is,/u/mordae,4
+10,2016-04-11 18:44:06 -0500,"/t/c,/t/openbsd,/t/security",Undeadly and HTTPS,http://undeadly.org/cgi?action=article&sid=20160411201504,/u/mulander,16
+0,2016-04-12 17:02:48 -0500,"/t/pdf,/t/hardware",CubeSat Design Specification (Rev 13),http://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf,/u/pushcx,2
+1,2016-04-12 00:39:54 -0500,/t/devops,Notes on Google's Site Reliability Engineering book,http://danluu.com/google-sre-book/,/u/sustrik,10
+83,2016-04-11 08:22:50 -0500,/t/ask,What are you working on this week?,/s/5lfst9/what_are_you_working_on_this_week,/u/arrdem,31
+9,2016-04-11 13:39:18 -0500,"/t/go,/t/privacy,/t/web",privacysco.re,https://privacysco.re/,/u/kvch,17
+5,2016-04-11 12:26:56 -0500,"/t/video,/t/satire,/t/virtualization",Hitler uses Docker,https://www.youtube.com/watch?v=PivpCKEiQOQ,/u/JordiGH,62
+3,2016-04-11 10:10:54 -0500,"/t/programming,/t/unix",Write opinionated workarounds,http://www.daemonology.net/blog/2016-04-11-write-opinionated-workarounds.html,/u/tedu,35
+0,2016-04-12 11:46:54 -0500,"/t/databases,/t/distributed",DataStax layers graph database on top of Cassandra engine,http://siliconangle.com/blog/2016/04/12/datastax-layers-graph-database-on-top-of-cassandra-engine/,/u/jeskie,2
+1,2016-04-11 22:14:37 -0500,/t/javascript,Refinement Types for TypeScript,https://scirate.com/arxiv/1604.02480,/u/silky,9
+2,2016-04-11 22:40:23 -0500,"/t/practices,/t/programming",Semper Ubi Sub Ubi - Things They Don't Teach You In School,https://www.netmeister.org/blog/semper-ubi-sub-ubi.html,/u/friendlysock,6
+3,2016-04-11 18:00:23 -0500,"/t/devops,/t/ml",OCaml in Operations,https://michipili.github.io/essay/2016/04/11/ocaml-on-operations.html,/u/dwc,8
+0,2016-04-12 18:50:22 -0500,/t/science,Cosmological natural selection (fecund universes),http://evodevouniverse.com/wiki/index.php/Cosmological_natural_selection_%28fecund_universes%29,/u/bsima,0
+2,2016-04-11 11:41:49 -0500,"/t/haskell,/t/practices,/t/programming",Worst practices should be hard,http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html,/u/jonschoning,18
+1,2016-04-12 05:02:41 -0500,/t/practices,The Blessing of Interactive Development,http://tonsky.me/blog/interactive-development/,/u/jan,2
+3,2016-04-12 16:28:55 -0500,"/t/culture,/t/person",documentary is up,http://sapiensanonym.blogspot.com/2016/04/documentary-is-up.html,/u/rbn,1
+2,2016-04-11 04:05:42 -0500,"/t/browsers,/t/openbsd",firefox vs rthreads,http://www.tedunangst.com/flak/post/firefox-vs-rthreads,/u/mulander,40
+4,2016-04-11 16:19:58 -0500,/t/hardware,"Review: ODROID-C2, compared to Raspberry Pi 3 and Orange Pi Plus",http://www.jeffgeerling.com/blog/2016/review-odroid-c2-compared-raspberry-pi-3-and-orange-pi-plus,/u/mjn,5
+2,2016-04-11 11:26:20 -0500,/t/elixir,Writing extensible Elixir with Behaviours,https://www.djm.org.uk/posts/writing-extensible-elixir-with-behaviours-adapters-pluggable-backends/,/u/djm,6
+2,2016-04-11 09:14:07 -0500,"/t/c,/t/ml",tis-interpreter: an interpreter of C for detecting undefined behavior,https://github.com/TrustInSoft/tis-interpreter,/u/dwc,14
+0,2016-04-12 03:03:24 -0500,/t/databases,GPUdb,http://www.gpudb.com/,/u/sanxiyn,2
+5,2016-04-11 02:28:00 -0500,/t/practices,Why libinput doesn't have a lot of config options,http://who-t.blogspot.com/2016/04/why-libinput-doesnt-have-lot-of-config.html,/u/coypoop,26
+0,2016-04-11 13:05:48 -0500,"/t/pdf,/t/linux",Filesystem Fuzzing with American Fuzzy Lop,http://events.linuxfoundation.org/sites/events/files/slides/AFL%20filesystem%20fuzzing%2C%20Vault%202016.pdf,/u/goncalo,11
+3,2016-04-11 18:32:47 -0500,/t/culture,Final Statement on the LambdaConf Controversy,http://degoes.net/articles/lambdaconf-conclusion,/u/dwc,11
+18,2016-04-12 18:08:37 -0500,/t/culture,I am on the Kill List. This is what it feels like to be hunted,http://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html,/u/itistoday,2
+7,2016-04-11 15:31:33 -0500,"/t/ask,/t/security",European universal eID and eSigning is coming. Do you participate?,/s/hpmi1k/european_universal_eid_esigning_is,/u/mordae,4

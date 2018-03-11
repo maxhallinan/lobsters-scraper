@@ -1,25 +1,25 @@
-0,2014-04-28 11:16:37 -0500,"['/t/programming', '/t/scala']",Functional Patterns in Domain Modeling - Immutable Aggregates and Functional Updates,http://debasishg.blogspot.com/2014/04/functional-patterns-in-domain-modeling.html,/u/SeanTAllen,5
-4,2014-04-28 00:03:13 -0500,['/t/culture'],"Getting Started, circa 1983",http://simonallardice.com/general/2014/03/17/first-computer.html,/u/jm,31
-1,2014-04-28 08:50:01 -0500,"['/t/hardware', '/t/math', '/t/python', '/t/web']",Better Tethered Autofocus Using Python State Machines,http://zoetrope.io/tech-blog/pursuit-better-tethered-autofocus,/u/charlieirish,5
-4,2014-04-27 21:32:03 -0500,['/t/security'],The Internet Is Being Protected By Two Guys Named Steve (OpenSSL Devs),http://www.buzzfeed.com/chrisstokelwalker/the-internet-is-being-protected-by-two-guys-named-st,/u/aspensmonster,15
-0,2014-04-28 10:21:57 -0500,['/t/hardware'],Hackaday Open Hardware Competition,http://hackaday.io/prize/,/u/bsilvereagle,4
-1,2014-04-28 01:25:10 -0500,['/t/security'],Heartbleed and RSA private keys,http://www.lightbluetouchpaper.org/2014/04/25/heartbleed-and-rsa-private-keys/,/u/phlo,8
-0,2014-04-28 12:22:59 -0500,"['/t/ios', '/t/mac', '/t/programming']",Pop: an extensible animation engine for iOS and OS X by Facebook,https://github.com/facebook/pop,/u/dkasper,1
-0,2014-04-28 12:00:01 -0500,"['/t/javascript', '/t/programming']",Simple Webworkers,https://github.com/kolodny/webwork,/u/kolodny,1
-0,2014-04-28 08:04:11 -0500,"['/t/pdf', '/t/compsci', '/t/hardware', '/t/science']",Singe: Leveraging Warp Specialization for High Performance on GPUs,http://theory.stanford.edu/~aiken/publications/papers/ppopp14.pdf,/u/drturtle,2
-1,2014-04-27 21:17:35 -0500,['/t/programming'],Why create methods?,http://shinynuggetsofcode.wordpress.com/2014/04/20/why-create-methods/,/u/MasonJar,5
-0,2014-04-28 09:10:00 -0500,['/t/design'],Designer Duds: Losing Our Seat at the Table,https://mokriya.quora.com/Designer-Duds-Losing-Our-Seat-at-the-Table?srid=h1hP&share=1,/u/bonaldi,1
-0,2014-04-27 21:45:57 -0500,['/t/haskell'],In Praise of EitherT,http://ocharles.org.uk/blog/posts/2012-07-24-in-praise-of-EitherT.html,/u/jm,5
-0,2014-04-28 07:41:06 -0500,['/t/ruby'],Contextual menu with yield and content_for in Rails,http://pothibo.com/2014/04/contextual-menus-with-yield-and-content_for/,/u/pothibo,1
-7,2014-04-27 05:53:48 -0500,"['/t/practices', '/t/programming']","""Mostly functional"" programming does not work",http://queue.acm.org/detail.cfm?ref=rss&id=2611829,/u/apy,19
-0,2014-04-27 13:46:08 -0500,"['/t/erlang', '/t/lisp']",Handling Clojure state the Erlang way,http://noobtuts.com/clojure/handling-clojure-state-the-erlang-way,/u/SeanTAllen,11
-0,2014-04-28 06:47:36 -0500,"['/t/javascript', '/t/web']",Single-Page Applications with the Page Micro Library,http://flippinawesome.org/2014/04/28/single-page-applications-with-the-page-micro-library/,/u/remotesynth,1
-0,2014-04-27 10:19:08 -0500,['/t/rust'],Syntax extensions and regular expressions for Rust,http://blog.burntsushi.net/rust-regex-syntax-extensions,/u/kellogh,16
-0,2014-04-28 10:23:43 -0500,['/t/ask'],social coder has a problem,http://socialcoder.org/Home/problem,/u/KiwiCoder,1
-0,2014-04-27 12:44:20 -0500,"['/t/programming', '/t/ruby']","Toro - Concurrent, extensible job queues on Postgres",https://github.com/tombenner/toro,/u/tombenner,7
-2,2014-04-27 01:27:15 -0500,['/t/go'],Go: Best Practices for Production Environments,http://peter.bourgon.org/go-in-production/,/u/penberg,18
-2,2014-04-27 20:15:45 -0500,['/t/go'],Go's power is in emergent behavior,http://www.onebigfluke.com/2014/04/gos-power-is-in-emergent-behavior.html,/u/journeysquid,1
-2,2014-04-27 17:23:01 -0500,"['/t/erlang', '/t/go', '/t/programming']",Some Thoughts on Go and Erlang,http://blog.erlware.org/2014/04/27/some-thoughts-on-go-and-erlang/,/u/tristan,2
-3,2014-04-26 22:11:33 -0500,"['/t/databases', '/t/web']","Rails 4.2 will have AdequateRecord, improving AR performance through caching",http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html,/u/tsm,5
-2,2014-04-26 14:29:26 -0500,"['/t/video', '/t/go', '/t/programming']",Origins of Go Concurrency style by Rob Pike,http://www.youtube.com/watch?v=3DtUzH3zoFo,/u/sevan,13
-1,2014-04-26 10:14:47 -0500,['/t/haskell'],"Model-view-controller, Haskell-style",http://www.haskellforall.com/2014/04/model-view-controller-haskell-style.html,/u/puffnfresh,12
+0,2014-04-28 11:16:37 -0500,"/t/programming,/t/scala",Functional Patterns in Domain Modeling - Immutable Aggregates and Functional Updates,http://debasishg.blogspot.com/2014/04/functional-patterns-in-domain-modeling.html,/u/SeanTAllen,5
+4,2014-04-28 00:03:13 -0500,/t/culture,"Getting Started, circa 1983",http://simonallardice.com/general/2014/03/17/first-computer.html,/u/jm,31
+1,2014-04-28 08:50:01 -0500,"/t/hardware,/t/math,/t/python,/t/web",Better Tethered Autofocus Using Python State Machines,http://zoetrope.io/tech-blog/pursuit-better-tethered-autofocus,/u/charlieirish,5
+4,2014-04-27 21:32:03 -0500,/t/security,The Internet Is Being Protected By Two Guys Named Steve (OpenSSL Devs),http://www.buzzfeed.com/chrisstokelwalker/the-internet-is-being-protected-by-two-guys-named-st,/u/aspensmonster,15
+0,2014-04-28 10:21:57 -0500,/t/hardware,Hackaday Open Hardware Competition,http://hackaday.io/prize/,/u/bsilvereagle,4
+1,2014-04-28 01:25:10 -0500,/t/security,Heartbleed and RSA private keys,http://www.lightbluetouchpaper.org/2014/04/25/heartbleed-and-rsa-private-keys/,/u/phlo,8
+0,2014-04-28 12:22:59 -0500,"/t/ios,/t/mac,/t/programming",Pop: an extensible animation engine for iOS and OS X by Facebook,https://github.com/facebook/pop,/u/dkasper,1
+0,2014-04-28 12:00:01 -0500,"/t/javascript,/t/programming",Simple Webworkers,https://github.com/kolodny/webwork,/u/kolodny,1
+0,2014-04-28 08:04:11 -0500,"/t/pdf,/t/compsci,/t/hardware,/t/science",Singe: Leveraging Warp Specialization for High Performance on GPUs,http://theory.stanford.edu/~aiken/publications/papers/ppopp14.pdf,/u/drturtle,2
+1,2014-04-27 21:17:35 -0500,/t/programming,Why create methods?,http://shinynuggetsofcode.wordpress.com/2014/04/20/why-create-methods/,/u/MasonJar,5
+0,2014-04-28 09:10:00 -0500,/t/design,Designer Duds: Losing Our Seat at the Table,https://mokriya.quora.com/Designer-Duds-Losing-Our-Seat-at-the-Table?srid=h1hP&share=1,/u/bonaldi,1
+0,2014-04-27 21:45:57 -0500,/t/haskell,In Praise of EitherT,http://ocharles.org.uk/blog/posts/2012-07-24-in-praise-of-EitherT.html,/u/jm,5
+0,2014-04-28 07:41:06 -0500,/t/ruby,Contextual menu with yield and content_for in Rails,http://pothibo.com/2014/04/contextual-menus-with-yield-and-content_for/,/u/pothibo,1
+7,2014-04-27 05:53:48 -0500,"/t/practices,/t/programming","""Mostly functional"" programming does not work",http://queue.acm.org/detail.cfm?ref=rss&id=2611829,/u/apy,19
+0,2014-04-27 13:46:08 -0500,"/t/erlang,/t/lisp",Handling Clojure state the Erlang way,http://noobtuts.com/clojure/handling-clojure-state-the-erlang-way,/u/SeanTAllen,11
+0,2014-04-28 06:47:36 -0500,"/t/javascript,/t/web",Single-Page Applications with the Page Micro Library,http://flippinawesome.org/2014/04/28/single-page-applications-with-the-page-micro-library/,/u/remotesynth,1
+0,2014-04-27 10:19:08 -0500,/t/rust,Syntax extensions and regular expressions for Rust,http://blog.burntsushi.net/rust-regex-syntax-extensions,/u/kellogh,16
+0,2014-04-28 10:23:43 -0500,/t/ask,social coder has a problem,http://socialcoder.org/Home/problem,/u/KiwiCoder,1
+0,2014-04-27 12:44:20 -0500,"/t/programming,/t/ruby","Toro - Concurrent, extensible job queues on Postgres",https://github.com/tombenner/toro,/u/tombenner,7
+2,2014-04-27 01:27:15 -0500,/t/go,Go: Best Practices for Production Environments,http://peter.bourgon.org/go-in-production/,/u/penberg,18
+2,2014-04-27 20:15:45 -0500,/t/go,Go's power is in emergent behavior,http://www.onebigfluke.com/2014/04/gos-power-is-in-emergent-behavior.html,/u/journeysquid,1
+2,2014-04-27 17:23:01 -0500,"/t/erlang,/t/go,/t/programming",Some Thoughts on Go and Erlang,http://blog.erlware.org/2014/04/27/some-thoughts-on-go-and-erlang/,/u/tristan,2
+3,2014-04-26 22:11:33 -0500,"/t/databases,/t/web","Rails 4.2 will have AdequateRecord, improving AR performance through caching",http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html,/u/tsm,5
+2,2014-04-26 14:29:26 -0500,"/t/video,/t/go,/t/programming",Origins of Go Concurrency style by Rob Pike,http://www.youtube.com/watch?v=3DtUzH3zoFo,/u/sevan,13
+1,2014-04-26 10:14:47 -0500,/t/haskell,"Model-view-controller, Haskell-style",http://www.haskellforall.com/2014/04/model-view-controller-haskell-style.html,/u/puffnfresh,12

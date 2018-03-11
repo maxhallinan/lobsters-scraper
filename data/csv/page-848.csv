@@ -1,25 +1,25 @@
-0,2016-03-07 09:41:36 -0600,"['/t/show', '/t/windows']",I ported LevelDB to Universal Windows Platform,https://github.com/maxpert/LevelDBWinRT,/u/mxp,3
-1,2016-03-07 11:36:07 -0600,"['/t/finance', '/t/math']",Startup Pitches Formal Verification for Exchanges,http://www.bloomberg.com/news/articles/2016-03-04/intel-s-pentium-bug-fix-is-proposed-as-solution-for-dark-pools,/u/pushcx,3
-0,2016-03-07 14:04:37 -0600,"['/t/games', '/t/linux']","Balrum, a beautiful 2D RPG released for Linux, here’s some thoughts on it",https://www.gamingonlinux.com/articles/balrum-a-beautiful-2d-rpg-released-for-linux-heres-some-thoughts-on-it.6762,/u/rodolfo,3
-0,2016-03-07 06:52:09 -0600,"['/t/pdf', '/t/databases', '/t/programming']",Algebraic Data Types for Language-Integrated Queries (2013),http://db.inf.uni-tuebingen.de/staticfiles/publications/ddfp2013.pdf,/u/pushcx,6
-0,2016-03-07 11:41:01 -0600,['/t/visualization'],How We Made Hell and High Water,https://www.propublica.org/nerds/item/how-we-made-hell-and-high-water,/u/pushcx,3
-0,2016-03-07 07:58:41 -0600,['/t/perl'],Finding the most common n-grams in Russian using Perl 6 and HabrHabr,http://hoelz.ro/blog/finding-most-common-russian-ngrams,/u/hoelzro,2
-5,2016-03-06 15:20:50 -0600,"['/t/mac', '/t/security']",New OS X Ransomware KeRanger Infected Transmission BitTorrent Client Installer,http://researchcenter.paloaltonetworks.com/2016/03/new-os-x-ransomware-keranger-infected-transmission-bittorrent-client-installer/,/u/antifuchs,18
-0,2016-03-07 10:28:22 -0600,"['/t/practices', '/t/web']",Integrating Your Development Workflow Into Sublime With Build Systems - Part 1: Basic Build Systems,http://www.joezimjs.com/javascript/integrating-your-dev-workflow-into-sublime-with-build-systems-1/,/u/joezimjs,1
-0,2016-03-06 18:50:08 -0600,['/t/distributed'],Hermes,https://christophermeiklejohn.com/pl/2016/03/06/hermes.html,/u/cmeiklejohn,9
-4,2016-03-06 10:30:25 -0600,"['/t/openbsd', '/t/security']",Proactive Security & (re)discovering OpenBSD,https://medium.com/@loganaden/proactive-security-re-discovering-openbsd-8f9be4d9d9f9,/u/fcambus,28
-2,2016-03-06 13:31:53 -0600,"['/t/historical', '/t/unix']",Lessons Learned from 30 Years of MINIX,http://m.cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext,/u/pushcx,20
-3,2016-03-06 11:29:47 -0600,['/t/networking'],"Let's code a TCP/IP stack, 1: Ethernet & ARP",http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp,/u/pushcx,24
-14,2016-03-06 12:00:28 -0600,"['/t/debugging', '/t/meta']",New tag suggestion: 'debugging',/s/8jjsvq/new_tag_suggestion_debugging,/u/friendlysock,13
-2,2016-03-06 15:41:53 -0600,['/t/privacy'],Advanced Tor Browser Fingerprinting,http://jcarlosnorte.com/security/2016/03/06/advanced-tor-browser-fingerprinting.html,/u/pushcx,12
-1,2016-03-06 16:51:36 -0600,['/t/practices'],Working In The Dark,https://jezenthomas.com/working-in-the-dark/,/u/pushcx,10
-2,2016-03-06 08:57:53 -0600,"['/t/haskell', '/t/java']",Frege is a Haskell for the JVM,https://github.com/Frege/frege,/u/softinio,21
-2,2016-03-05 20:57:28 -0600,['/t/security'],Mr. Fart’s Favorite Colors,https://medium.com/@blakeross/mr-fart-s-favorite-colors-3177a406c775,/u/dwc,49
-1,2016-03-06 10:52:27 -0600,"['/t/browsers', '/t/javascript']",Moving Breakpoints Intelligently,http://jlongster.com/Moving-Breakpoints-Intelligently,/u/pushcx,5
-0,2016-03-06 08:08:19 -0600,"['/t/java', '/t/scala', '/t/visualization']",Scala interactive types map,http://ruivieira.org/blog/post/5,/u/ruivieira,4
-4,2016-03-05 16:37:30 -0600,['/t/lisp'],"Lisp: It's Not About Macros, It's About Read","http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read",/u/pushcx,26
-0,2016-03-06 15:11:32 -0600,"['/t/practices', '/t/science']",Psychological Science backs away from null hypothesis significance testing,http://andrewgelman.com/2016/03/02/no-this-post-is-not-30-days-early-psychological-science-backs-away-from-null-hypothesis-significance-testing/,/u/pushcx,3
-1,2016-03-06 09:46:49 -0600,['/t/programming'],"Codepad - Code with others, by sharing a link. Live updating and output",https://codepad.remoteinterview.io/,/u/robin,5
-1,2016-03-06 10:14:14 -0600,"['/t/api', '/t/web']",Why RESTful communication between microservices can be perfectly fine,https://www.innoq.com/en/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/,/u/rgladwell,4
-0,2016-03-06 18:18:06 -0600,"['/t/pdf', '/t/privacy']",Do You See What I See? Differential Treatment of Anonymous Users,http://sec.cs.ucl.ac.uk/users/smurdoch/papers/ndss16doyousee.pdf,/u/pushcx,1
-1,2016-03-05 19:13:04 -0600,['/t/distributed'],Emerald,https://christophermeiklejohn.com/pl/2016/03/06/emerald.html,/u/cmeiklejohn,9
+0,2016-03-07 09:41:36 -0600,"/t/show,/t/windows",I ported LevelDB to Universal Windows Platform,https://github.com/maxpert/LevelDBWinRT,/u/mxp,3
+1,2016-03-07 11:36:07 -0600,"/t/finance,/t/math",Startup Pitches Formal Verification for Exchanges,http://www.bloomberg.com/news/articles/2016-03-04/intel-s-pentium-bug-fix-is-proposed-as-solution-for-dark-pools,/u/pushcx,3
+0,2016-03-07 14:04:37 -0600,"/t/games,/t/linux","Balrum, a beautiful 2D RPG released for Linux, here’s some thoughts on it",https://www.gamingonlinux.com/articles/balrum-a-beautiful-2d-rpg-released-for-linux-heres-some-thoughts-on-it.6762,/u/rodolfo,3
+0,2016-03-07 06:52:09 -0600,"/t/pdf,/t/databases,/t/programming",Algebraic Data Types for Language-Integrated Queries (2013),http://db.inf.uni-tuebingen.de/staticfiles/publications/ddfp2013.pdf,/u/pushcx,6
+0,2016-03-07 11:41:01 -0600,/t/visualization,How We Made Hell and High Water,https://www.propublica.org/nerds/item/how-we-made-hell-and-high-water,/u/pushcx,3
+0,2016-03-07 07:58:41 -0600,/t/perl,Finding the most common n-grams in Russian using Perl 6 and HabrHabr,http://hoelz.ro/blog/finding-most-common-russian-ngrams,/u/hoelzro,2
+5,2016-03-06 15:20:50 -0600,"/t/mac,/t/security",New OS X Ransomware KeRanger Infected Transmission BitTorrent Client Installer,http://researchcenter.paloaltonetworks.com/2016/03/new-os-x-ransomware-keranger-infected-transmission-bittorrent-client-installer/,/u/antifuchs,18
+0,2016-03-07 10:28:22 -0600,"/t/practices,/t/web",Integrating Your Development Workflow Into Sublime With Build Systems - Part 1: Basic Build Systems,http://www.joezimjs.com/javascript/integrating-your-dev-workflow-into-sublime-with-build-systems-1/,/u/joezimjs,1
+0,2016-03-06 18:50:08 -0600,/t/distributed,Hermes,https://christophermeiklejohn.com/pl/2016/03/06/hermes.html,/u/cmeiklejohn,9
+4,2016-03-06 10:30:25 -0600,"/t/openbsd,/t/security",Proactive Security & (re)discovering OpenBSD,https://medium.com/@loganaden/proactive-security-re-discovering-openbsd-8f9be4d9d9f9,/u/fcambus,28
+2,2016-03-06 13:31:53 -0600,"/t/historical,/t/unix",Lessons Learned from 30 Years of MINIX,http://m.cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext,/u/pushcx,20
+3,2016-03-06 11:29:47 -0600,/t/networking,"Let's code a TCP/IP stack, 1: Ethernet & ARP",http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp,/u/pushcx,24
+14,2016-03-06 12:00:28 -0600,"/t/debugging,/t/meta",New tag suggestion: 'debugging',/s/8jjsvq/new_tag_suggestion_debugging,/u/friendlysock,13
+2,2016-03-06 15:41:53 -0600,/t/privacy,Advanced Tor Browser Fingerprinting,http://jcarlosnorte.com/security/2016/03/06/advanced-tor-browser-fingerprinting.html,/u/pushcx,12
+1,2016-03-06 16:51:36 -0600,/t/practices,Working In The Dark,https://jezenthomas.com/working-in-the-dark/,/u/pushcx,10
+2,2016-03-06 08:57:53 -0600,"/t/haskell,/t/java",Frege is a Haskell for the JVM,https://github.com/Frege/frege,/u/softinio,21
+2,2016-03-05 20:57:28 -0600,/t/security,Mr. Fart’s Favorite Colors,https://medium.com/@blakeross/mr-fart-s-favorite-colors-3177a406c775,/u/dwc,49
+1,2016-03-06 10:52:27 -0600,"/t/browsers,/t/javascript",Moving Breakpoints Intelligently,http://jlongster.com/Moving-Breakpoints-Intelligently,/u/pushcx,5
+0,2016-03-06 08:08:19 -0600,"/t/java,/t/scala,/t/visualization",Scala interactive types map,http://ruivieira.org/blog/post/5,/u/ruivieira,4
+4,2016-03-05 16:37:30 -0600,/t/lisp,"Lisp: It's Not About Macros, It's About Read","http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read",/u/pushcx,26
+0,2016-03-06 15:11:32 -0600,"/t/practices,/t/science",Psychological Science backs away from null hypothesis significance testing,http://andrewgelman.com/2016/03/02/no-this-post-is-not-30-days-early-psychological-science-backs-away-from-null-hypothesis-significance-testing/,/u/pushcx,3
+1,2016-03-06 09:46:49 -0600,/t/programming,"Codepad - Code with others, by sharing a link. Live updating and output",https://codepad.remoteinterview.io/,/u/robin,5
+1,2016-03-06 10:14:14 -0600,"/t/api,/t/web",Why RESTful communication between microservices can be perfectly fine,https://www.innoq.com/en/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/,/u/rgladwell,4
+0,2016-03-06 18:18:06 -0600,"/t/pdf,/t/privacy",Do You See What I See? Differential Treatment of Anonymous Users,http://sec.cs.ucl.ac.uk/users/smurdoch/papers/ndss16doyousee.pdf,/u/pushcx,1
+1,2016-03-05 19:13:04 -0600,/t/distributed,Emerald,https://christophermeiklejohn.com/pl/2016/03/06/emerald.html,/u/cmeiklejohn,9

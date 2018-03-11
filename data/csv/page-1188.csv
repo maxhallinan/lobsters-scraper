@@ -1,25 +1,25 @@
-3,2015-01-07 11:40:50 -0600,['/t/openbsd'],Running ownCloud with httpd on OpenBSD,https://github.com/reyk/httpd/wiki/Running-ownCloud-with-httpd-on-OpenBSD,/u/kusuriya,11
-0,2015-01-08 08:37:59 -0600,['/t/programming'],Nit: A Fun Language for Serious Programming,http://nitlanguage.org/,/u/kai3x5,1
-0,2015-01-08 07:50:57 -0600,['/t/javascript'],A Case Study in JavaScript Code Improvement,http://developer.telerik.com/topics/case-study-javascript-code-improvement/,/u/remotesynth,1
-4,2015-01-07 04:33:55 -0600,"['/t/games', '/t/lisp', '/t/lua', '/t/programming']",Conspire: A Programming Environment for NOWHERE,http://blog.duangle.com/2015/01/conspire-programming-environment-for.html,/u/BruceM,22
-0,2015-01-08 02:22:57 -0600,"['/t/video', '/t/cogsci', '/t/culture']","Alan Kay's tribute to Ted Nelson at ""Intertwingled"" Fest",https://www.youtube.com/watch?v=AnrlSqtpOkw&feature=youtu.be,/u/animatronic,4
-0,2015-01-07 10:16:12 -0600,"['/t/programming', '/t/unix']",OpenZFS on illumos,http://blog.delphix.com/prakash/2015/01/06/openzfs-on-illumos/,/u/bcantrill,11
-2,2015-01-07 02:14:28 -0600,['/t/hardware'],Intel Compute Stick,http://www.intel.com/content/www/us/en/compute-stick/intel-compute-stick.html,/u/mediremi,16
-0,2015-01-07 14:27:48 -0600,"['/t/ios', '/t/reversing', '/t/security']",Bypassing OpenSSL Certificate Pinning in iOS Apps,http://chargen.matasano.com/chargen/2015/1/6/bypassing-openssl-certificate-pinning-in-ios-apps.html,/u/jcs,5
-0,2015-01-07 04:32:00 -0600,"['/t/browsers', '/t/c', '/t/javascript']",2 recent Emscripten success stories: DOSBox and Ogre3D,http://mozakai.blogspot.com/2015/01/2-recent-emscripten-stories.html,/u/BruceM,13
-0,2015-01-07 11:03:02 -0600,['/t/linux'],You Can Now Install the Original North Korean Operating System RedStar 3.0,http://motherboard.vice.com/read/you-can-now-install-the-north-korean-operating-system-redstar-30,/u/jcs,5
-0,2015-01-07 06:57:19 -0600,['/t/dotnet'],Roslyn in a Nutshell,http://developer.telerik.com/featured/roslyn-nutshell/,/u/remotesynth,5
-0,2015-01-07 02:46:55 -0600,['/t/python'],Pythonpy – Command-line Kung Fu with Python,https://github.com/Russell91/pythonpy/,/u/vvh,8
-4,2015-01-06 12:13:58 -0600,"['/t/games', '/t/release']","2,386 MS-DOS Games Playable in Browser",https://archive.org/details/softwarelibrary_msdos_games,/u/pushcx,30
-0,2015-01-07 09:39:33 -0600,['/t/culture'],We Invite Everyone at Etsy to Do an Engineering Rotation: Here’s why,https://codeascraft.com/2014/12/22/engineering-rotation/,/u/joshuacc,4
-3,2015-01-06 08:33:49 -0600,['/t/security'],Secure Secure Shell,https://stribika.github.io/2015/01/04/secure-secure-shell.html,/u/ssl,30
-0,2015-01-06 17:42:21 -0600,['/t/openbsd'],OpenSMTPD virtual users using SQLite,https://blog.corrupted.io/2014/06/09/OpenSMTPD-virtual-users-with-sqlite.html,/u/kusuriya,12
-0,2015-01-07 11:14:31 -0600,['/t/scala'],Reactive Streams v1.0.0.RC1 release,https://github.com/reactive-streams/reactive-streams/blob/v1.0.0.RC1/README.md,/u/tobym,1
-0,2015-01-07 11:12:41 -0600,['/t/security'],The Sony Breach Demonstrates the Importance of Moving Beyond Perimeter Defense,https://community.rapid7.com/community/infosec/blog/2015/01/07/the-sony-breach-demonstrates-the-importance-of-moving-beyond-perimeter-defense,/u/freehunter,1
-0,2015-01-07 10:32:15 -0600,['/t/compsci'],Reflection and open implementations,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.2012,/u/SeanTAllen,1
-6,2015-01-06 08:13:58 -0600,"['/t/api', '/t/security']",Moonpig vulnerability,http://www.ifc0nfig.com/moonpig-vulnerability/,/u/fcbsd,20
-13,2015-01-06 12:36:50 -0600,"['/t/go', '/t/rant']",Golang is Trash,http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/,/u/Zamicol,32
-0,2015-01-06 14:32:45 -0600,['/t/compsci'],Collection of CS Courses,https://github.com/prakhar1989/awesome-courses,/u/qbit,10
-5,2015-01-06 13:52:25 -0600,"['/t/games', '/t/hardware']",The changing landscape of gaming hardware and what it means for us all,https://dirk.to/blog/2015/01/06/changing-landscape-of-gaming.html,/u/dirk,4
-0,2015-01-07 04:01:54 -0600,['/t/python'],Online Python Tutor - Learn programming by visualizing code execution,http://pythontutor.com/,/u/robewald,1
-0,2015-01-06 11:53:28 -0600,['/t/math'],observational type theory (the motivation),https://pigworker.wordpress.com/2015/01/06/observational-type-theory-the-motivation/,/u/puffnfresh,7
+3,2015-01-07 11:40:50 -0600,/t/openbsd,Running ownCloud with httpd on OpenBSD,https://github.com/reyk/httpd/wiki/Running-ownCloud-with-httpd-on-OpenBSD,/u/kusuriya,11
+0,2015-01-08 08:37:59 -0600,/t/programming,Nit: A Fun Language for Serious Programming,http://nitlanguage.org/,/u/kai3x5,1
+0,2015-01-08 07:50:57 -0600,/t/javascript,A Case Study in JavaScript Code Improvement,http://developer.telerik.com/topics/case-study-javascript-code-improvement/,/u/remotesynth,1
+4,2015-01-07 04:33:55 -0600,"/t/games,/t/lisp,/t/lua,/t/programming",Conspire: A Programming Environment for NOWHERE,http://blog.duangle.com/2015/01/conspire-programming-environment-for.html,/u/BruceM,22
+0,2015-01-08 02:22:57 -0600,"/t/video,/t/cogsci,/t/culture","Alan Kay's tribute to Ted Nelson at ""Intertwingled"" Fest",https://www.youtube.com/watch?v=AnrlSqtpOkw&feature=youtu.be,/u/animatronic,4
+0,2015-01-07 10:16:12 -0600,"/t/programming,/t/unix",OpenZFS on illumos,http://blog.delphix.com/prakash/2015/01/06/openzfs-on-illumos/,/u/bcantrill,11
+2,2015-01-07 02:14:28 -0600,/t/hardware,Intel Compute Stick,http://www.intel.com/content/www/us/en/compute-stick/intel-compute-stick.html,/u/mediremi,16
+0,2015-01-07 14:27:48 -0600,"/t/ios,/t/reversing,/t/security",Bypassing OpenSSL Certificate Pinning in iOS Apps,http://chargen.matasano.com/chargen/2015/1/6/bypassing-openssl-certificate-pinning-in-ios-apps.html,/u/jcs,5
+0,2015-01-07 04:32:00 -0600,"/t/browsers,/t/c,/t/javascript",2 recent Emscripten success stories: DOSBox and Ogre3D,http://mozakai.blogspot.com/2015/01/2-recent-emscripten-stories.html,/u/BruceM,13
+0,2015-01-07 11:03:02 -0600,/t/linux,You Can Now Install the Original North Korean Operating System RedStar 3.0,http://motherboard.vice.com/read/you-can-now-install-the-north-korean-operating-system-redstar-30,/u/jcs,5
+0,2015-01-07 06:57:19 -0600,/t/dotnet,Roslyn in a Nutshell,http://developer.telerik.com/featured/roslyn-nutshell/,/u/remotesynth,5
+0,2015-01-07 02:46:55 -0600,/t/python,Pythonpy – Command-line Kung Fu with Python,https://github.com/Russell91/pythonpy/,/u/vvh,8
+4,2015-01-06 12:13:58 -0600,"/t/games,/t/release","2,386 MS-DOS Games Playable in Browser",https://archive.org/details/softwarelibrary_msdos_games,/u/pushcx,30
+0,2015-01-07 09:39:33 -0600,/t/culture,We Invite Everyone at Etsy to Do an Engineering Rotation: Here’s why,https://codeascraft.com/2014/12/22/engineering-rotation/,/u/joshuacc,4
+3,2015-01-06 08:33:49 -0600,/t/security,Secure Secure Shell,https://stribika.github.io/2015/01/04/secure-secure-shell.html,/u/ssl,30
+0,2015-01-06 17:42:21 -0600,/t/openbsd,OpenSMTPD virtual users using SQLite,https://blog.corrupted.io/2014/06/09/OpenSMTPD-virtual-users-with-sqlite.html,/u/kusuriya,12
+0,2015-01-07 11:14:31 -0600,/t/scala,Reactive Streams v1.0.0.RC1 release,https://github.com/reactive-streams/reactive-streams/blob/v1.0.0.RC1/README.md,/u/tobym,1
+0,2015-01-07 11:12:41 -0600,/t/security,The Sony Breach Demonstrates the Importance of Moving Beyond Perimeter Defense,https://community.rapid7.com/community/infosec/blog/2015/01/07/the-sony-breach-demonstrates-the-importance-of-moving-beyond-perimeter-defense,/u/freehunter,1
+0,2015-01-07 10:32:15 -0600,/t/compsci,Reflection and open implementations,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.2012,/u/SeanTAllen,1
+6,2015-01-06 08:13:58 -0600,"/t/api,/t/security",Moonpig vulnerability,http://www.ifc0nfig.com/moonpig-vulnerability/,/u/fcbsd,20
+13,2015-01-06 12:36:50 -0600,"/t/go,/t/rant",Golang is Trash,http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/,/u/Zamicol,32
+0,2015-01-06 14:32:45 -0600,/t/compsci,Collection of CS Courses,https://github.com/prakhar1989/awesome-courses,/u/qbit,10
+5,2015-01-06 13:52:25 -0600,"/t/games,/t/hardware",The changing landscape of gaming hardware and what it means for us all,https://dirk.to/blog/2015/01/06/changing-landscape-of-gaming.html,/u/dirk,4
+0,2015-01-07 04:01:54 -0600,/t/python,Online Python Tutor - Learn programming by visualizing code execution,http://pythontutor.com/,/u/robewald,1
+0,2015-01-06 11:53:28 -0600,/t/math,observational type theory (the motivation),https://pigworker.wordpress.com/2015/01/06/observational-type-theory-the-motivation/,/u/puffnfresh,7

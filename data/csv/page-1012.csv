@@ -1,25 +1,25 @@
-1,2015-10-03 05:52:37 -0500,['/t/linux'],Is it a good idea to show everybody what your server is doing?,http://drunken-security.at/archives/41,/u/mulander,12
-3,2015-10-03 02:00:45 -0500,"['/t/compsci', '/t/python']",Hack the derivative,https://codewords.recurse.com/issues/four/hack-the-derivative,/u/bbrazil,13
-3,2015-10-02 18:49:07 -0500,"['/t/go', '/t/javascript']",Mattermost: Open source self-hosted Slack-alternative reaches 1.0,http://www.mattermost.org/open-source-slack-alternative-reaches-1-0/,/u/erlend_sh,22
-4,2015-10-02 15:55:49 -0500,"['/t/slides', '/t/openbsd', '/t/security']","LibreSSL, and the new libtls API",http://www.openbsd.org/papers/libtls-fsec-2015/mgp00001.html,/u/mulander,26
-2,2015-10-02 20:14:45 -0500,"['/t/pdf', '/t/rust']",Ownership is Theft: Experiences Building an Embedded OS in Rust,http://amitlevy.com/papers/tock-plos2015.pdf,/u/jcaudle,12
-10,2015-10-02 07:33:45 -0500,['/t/haskell'],Learning Haskell (tutorial with screencasts),http://learn.hfm.io,/u/craigstuntz,28
-0,2015-10-02 18:22:41 -0500,"['/t/compsci', '/t/programming']",What Is Declarative Programming?,http://michaelrbernste.in/2013/06/20/what-is-declarative-programming.html,/u/pushcx,12
-1,2015-10-02 17:00:52 -0500,"['/t/pdf', '/t/math']",The Most Dangerous Equation,http://press.princeton.edu/chapters/s8863.pdf,/u/pushcx,11
-0,2015-10-02 17:01:23 -0500,['/t/programming'],aRrgh: a newcomer's (angry) guide to R,http://arrgh.tim-smith.us/,/u/pushcx,12
-2,2015-10-02 22:21:25 -0500,['/t/culture'],Haunted By Data,http://idlewords.com/talks/haunted_by_data.htm,/u/jfb,11
-2,2015-10-02 17:12:44 -0500,['/t/security'],Proposal to allow SHA-1 certs to be issued through 2016,https://cabforum.org/pipermail/public/2015-October/006048.html,/u/twotwotwo,6
-0,2015-10-02 15:52:11 -0500,['/t/vim'],A vim Tutorial and Primer,https://danielmiessler.com/study/vim/,/u/pushcx,10
-0,2015-10-02 15:38:57 -0500,"['/t/compilers', '/t/games', '/t/release']",PICO-8 Fantasy Console,http://www.lexaloffle.com/pico-8.php,/u/pushcx,9
-0,2015-10-02 12:40:05 -0500,"['/t/javascript', '/t/web']",Inlining Critical CSS for Dynamic Web Apps,http://ponyfoo.com/articles/inlining-critical-css,/u/ponyfoo,6
-2,2015-10-02 18:03:57 -0500,"['/t/video', '/t/compilers', '/t/scala']",We're Doing It All Wrong (2013),http://www.youtube.com/watch?v=TS1lpKBMkgg,/u/pushcx,4
-5,2015-10-02 09:24:28 -0500,"['/t/practices', '/t/programming']",Code Hoarders (2014),http://blog.8thlight.com/uncle-bob/2014/04/03/Code-Hoarders.html,/u/flyingfisch,7
-2,2015-10-02 08:52:36 -0500,['/t/release'],What Makes Buck so Fast?,https://buckbuild.com/concept/what_makes_buck_so_fast.html,/u/stig,11
-0,2015-10-02 11:23:09 -0500,"['/t/games', '/t/lua', '/t/person']",In Which Phil Stops By,http://us11.campaign-archive2.com/?u=3489d30623dcf96e5ac9f4d53&id=bf8e561139,/u/apg,4
-0,2015-10-02 06:12:21 -0500,['/t/law'],East Texas judge throws out 168 patent cases in one fell swoop,http://arstechnica.com/tech-policy/2015/10/east-texas-judge-throws-out-168-patent-cases-in-one-fell-swoop/,/u/adsouza,14
-1,2015-10-02 06:59:51 -0500,['/t/programming'],Does organization matter?,http://blog.8thlight.com/uncle-bob/2015/04/15/does-organization-matter.html,/u/adsouza,9
-0,2015-10-02 15:19:38 -0500,"['/t/browsers', '/t/javascript', '/t/web']",Firefox Web Console Helpers,https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Helpers,/u/flyingfisch,4
-11,2015-10-01 22:04:14 -0500,['/t/go'],Go maps don't appear to be O(1),https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf,/u/aaron,14
-25,2015-10-01 16:05:25 -0500,['/t/java'],"Oracle's ""planned obsolescence"" for Java",https://jaxenter.com/oracle-and-javas-planned-obsolescence-121144.html,/u/soulcutter,26
-0,2015-10-02 20:05:20 -0500,['/t/visualization'],The time it takes to change the time,http://blog.poormansmath.net/the-time-it-takes-to-change-the-time/,/u/pushcx,1
-1,2015-10-02 15:17:52 -0500,"['/t/pdf', '/t/distributed', '/t/scaling', '/t/virtualization']",Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters,http://research.microsoft.com/pubs/238833/mercury-tr.pdf,/u/jitterted,2
+1,2015-10-03 05:52:37 -0500,/t/linux,Is it a good idea to show everybody what your server is doing?,http://drunken-security.at/archives/41,/u/mulander,12
+3,2015-10-03 02:00:45 -0500,"/t/compsci,/t/python",Hack the derivative,https://codewords.recurse.com/issues/four/hack-the-derivative,/u/bbrazil,13
+3,2015-10-02 18:49:07 -0500,"/t/go,/t/javascript",Mattermost: Open source self-hosted Slack-alternative reaches 1.0,http://www.mattermost.org/open-source-slack-alternative-reaches-1-0/,/u/erlend_sh,22
+4,2015-10-02 15:55:49 -0500,"/t/slides,/t/openbsd,/t/security","LibreSSL, and the new libtls API",http://www.openbsd.org/papers/libtls-fsec-2015/mgp00001.html,/u/mulander,26
+2,2015-10-02 20:14:45 -0500,"/t/pdf,/t/rust",Ownership is Theft: Experiences Building an Embedded OS in Rust,http://amitlevy.com/papers/tock-plos2015.pdf,/u/jcaudle,12
+10,2015-10-02 07:33:45 -0500,/t/haskell,Learning Haskell (tutorial with screencasts),http://learn.hfm.io,/u/craigstuntz,28
+0,2015-10-02 18:22:41 -0500,"/t/compsci,/t/programming",What Is Declarative Programming?,http://michaelrbernste.in/2013/06/20/what-is-declarative-programming.html,/u/pushcx,12
+1,2015-10-02 17:00:52 -0500,"/t/pdf,/t/math",The Most Dangerous Equation,http://press.princeton.edu/chapters/s8863.pdf,/u/pushcx,11
+0,2015-10-02 17:01:23 -0500,/t/programming,aRrgh: a newcomer's (angry) guide to R,http://arrgh.tim-smith.us/,/u/pushcx,12
+2,2015-10-02 22:21:25 -0500,/t/culture,Haunted By Data,http://idlewords.com/talks/haunted_by_data.htm,/u/jfb,11
+2,2015-10-02 17:12:44 -0500,/t/security,Proposal to allow SHA-1 certs to be issued through 2016,https://cabforum.org/pipermail/public/2015-October/006048.html,/u/twotwotwo,6
+0,2015-10-02 15:52:11 -0500,/t/vim,A vim Tutorial and Primer,https://danielmiessler.com/study/vim/,/u/pushcx,10
+0,2015-10-02 15:38:57 -0500,"/t/compilers,/t/games,/t/release",PICO-8 Fantasy Console,http://www.lexaloffle.com/pico-8.php,/u/pushcx,9
+0,2015-10-02 12:40:05 -0500,"/t/javascript,/t/web",Inlining Critical CSS for Dynamic Web Apps,http://ponyfoo.com/articles/inlining-critical-css,/u/ponyfoo,6
+2,2015-10-02 18:03:57 -0500,"/t/video,/t/compilers,/t/scala",We're Doing It All Wrong (2013),http://www.youtube.com/watch?v=TS1lpKBMkgg,/u/pushcx,4
+5,2015-10-02 09:24:28 -0500,"/t/practices,/t/programming",Code Hoarders (2014),http://blog.8thlight.com/uncle-bob/2014/04/03/Code-Hoarders.html,/u/flyingfisch,7
+2,2015-10-02 08:52:36 -0500,/t/release,What Makes Buck so Fast?,https://buckbuild.com/concept/what_makes_buck_so_fast.html,/u/stig,11
+0,2015-10-02 11:23:09 -0500,"/t/games,/t/lua,/t/person",In Which Phil Stops By,http://us11.campaign-archive2.com/?u=3489d30623dcf96e5ac9f4d53&id=bf8e561139,/u/apg,4
+0,2015-10-02 06:12:21 -0500,/t/law,East Texas judge throws out 168 patent cases in one fell swoop,http://arstechnica.com/tech-policy/2015/10/east-texas-judge-throws-out-168-patent-cases-in-one-fell-swoop/,/u/adsouza,14
+1,2015-10-02 06:59:51 -0500,/t/programming,Does organization matter?,http://blog.8thlight.com/uncle-bob/2015/04/15/does-organization-matter.html,/u/adsouza,9
+0,2015-10-02 15:19:38 -0500,"/t/browsers,/t/javascript,/t/web",Firefox Web Console Helpers,https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Helpers,/u/flyingfisch,4
+11,2015-10-01 22:04:14 -0500,/t/go,Go maps don't appear to be O(1),https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf,/u/aaron,14
+25,2015-10-01 16:05:25 -0500,/t/java,"Oracle's ""planned obsolescence"" for Java",https://jaxenter.com/oracle-and-javas-planned-obsolescence-121144.html,/u/soulcutter,26
+0,2015-10-02 20:05:20 -0500,/t/visualization,The time it takes to change the time,http://blog.poormansmath.net/the-time-it-takes-to-change-the-time/,/u/pushcx,1
+1,2015-10-02 15:17:52 -0500,"/t/pdf,/t/distributed,/t/scaling,/t/virtualization",Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters,http://research.microsoft.com/pubs/238833/mercury-tr.pdf,/u/jitterted,2

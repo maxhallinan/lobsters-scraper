@@ -1,25 +1,25 @@
-0,2015-06-10 14:18:08 -0500,"['/t/law', '/t/networking']",Interconnection Feuds Mysteriously End As Neutrality Rules Loom,http://www.dslreports.com/shownews/Interconnection-Feuds-Mysteriously-End-As-Neutrality-Rules-Loom-134103,/u/journeysquid,1
-0,2015-06-10 13:33:13 -0500,['/t/ruby'],CVE-2015-3900 Request hijacking vulnerability in RubyGems 2.4.6 and earlier,http://blog.rubygems.org/2015/05/14/CVE-2015-3900.html,/u/andrewnez,1
-0,2015-06-10 12:36:21 -0500,"['/t/show', '/t/javascript', '/t/programming']",Interactive Real-time earthquake map,http://projects.oregonlive.com/maps/earthquakes/,/u/JeremyMorgan,1
-0,2015-06-10 11:53:11 -0500,"['/t/security', '/t/virtualization']","Heap overflow in QEMU PCNET controller, allowing guest->host escape",http://xenbits.xen.org/xsa/advisory-135.html,/u/journeysquid,1
-3,2015-06-10 10:08:58 -0500,"['/t/culture', '/t/practices', '/t/rant']",I quit the tech industry,http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/,/u/pushcx,6
-0,2015-06-10 11:05:21 -0500,['/t/compsci'],Reactive Extensions: Your Mouse is a Database (2012),https://queue.acm.org/detail.cfm?id=2169076,/u/pushcx,1
-0,2015-06-10 10:58:27 -0500,['/t/release'],Announcing the Software Analysis Workbench,https://galois.com/blog/2015/06/announcing-software-analysis-workbench/,/u/puffnfresh,1
-8,2015-06-09 21:45:31 -0500,['/t/ask'],What are you working on this week?,/s/ddasf3/what_are_you_working_on_this_week,/u/patrickod,10
-16,2015-06-09 06:12:03 -0500,"['/t/networking', '/t/programming']",ipify - A Simple Public IP Address API,https://www.ipify.org/,/u/robin,15
-2,2015-06-10 14:08:49 -0500,['/t/browsers'],Help users checkout faster with Autofill,https://developers.google.com/web/updates/2015/06/checkout-faster-with-Autofill,/u/pushcx,0
-9,2015-06-08 17:03:15 -0500,['/t/release'],A Constructive Look At TempleOS,http://www.codersnotes.com/notes/a-constructive-look-at-templeos,/u/jcs,72
-0,2015-06-10 07:08:08 -0500,['/t/mobile'],"New data shows losing 80% of mobile users is normal, and why the best apps do better",http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/,/u/robin,1
-1,2015-06-09 14:24:08 -0500,"['/t/design', '/t/web']",Why Web Design is Dead,http://uxmag.com/articles/why-web-design-is-dead,/u/flyingfisch,8
-1,2015-06-09 13:36:02 -0500,"['/t/pdf', '/t/compilers', '/t/rust']","A graph-based higher-order intermediate representation (demonstrated with Impala, a dialect of Rust)",http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf,/u/asb,7
-0,2015-06-09 10:10:29 -0500,"['/t/haskell', '/t/release']",First public beta of stack,https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack,/u/pushcx,12
-0,2015-06-09 13:01:04 -0500,['/t/rust'],Interview with Mozilla's Aaron Turon,http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/,/u/craigstuntz,6
-12,2015-06-08 23:01:08 -0500,"['/t/video', '/t/hardware']",NASA Soldering Training,https://www.youtube.com/watch?v=Vynb_HdEIDU,/u/friendlysock,12
-7,2015-06-08 17:58:33 -0500,['/t/web'],Roy Fielding on “TLS everywhere”,http://plasmasturm.org/log/privconf/,/u/bct,18
-5,2015-06-08 21:37:26 -0500,['/t/games'],The Making of Lemmings,http://readonlymemory.vg/the-making-of-lemmings/,/u/Sirocco,15
-0,2015-06-09 20:49:08 -0500,['/t/haskell'],MonadFail Proposal,http://thread.gmane.org/gmane.comp.lang.haskell.libraries/24910,/u/pushcx,1
-0,2015-06-09 13:10:46 -0500,"['/t/show', '/t/devops', '/t/distributed']",microservices-infrastructure 0.3 is released,https://github.com/CiscoCloud/microservices-infrastructure/releases/tag/0.3.0,/u/brianhicks,3
-8,2015-06-08 15:53:11 -0500,"['/t/games', '/t/math']",Ultimate Tic-Tac-Toe,http://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/,/u/pushcx,14
-0,2015-06-09 06:05:26 -0500,['/t/compsci'],Engineers develop a computer that operates on water droplets,http://news.stanford.edu/news/2015/june/computer-water-drops-060815.html,/u/DocSavage,5
-10,2015-06-08 12:26:07 -0500,"['/t/practices', '/t/programming']",Functional Programming should be your #1 priority for 2015,https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9,/u/pushcx,16
-2,2015-06-09 12:58:45 -0500,"['/t/culture', '/t/programming']",Snowsuit Zine // issue 06 - What is the Long Term Cost of Clouds?,http://snowsuit.io/issue06.html,/u/apy,3
+0,2015-06-10 14:18:08 -0500,"/t/law,/t/networking",Interconnection Feuds Mysteriously End As Neutrality Rules Loom,http://www.dslreports.com/shownews/Interconnection-Feuds-Mysteriously-End-As-Neutrality-Rules-Loom-134103,/u/journeysquid,1
+0,2015-06-10 13:33:13 -0500,/t/ruby,CVE-2015-3900 Request hijacking vulnerability in RubyGems 2.4.6 and earlier,http://blog.rubygems.org/2015/05/14/CVE-2015-3900.html,/u/andrewnez,1
+0,2015-06-10 12:36:21 -0500,"/t/show,/t/javascript,/t/programming",Interactive Real-time earthquake map,http://projects.oregonlive.com/maps/earthquakes/,/u/JeremyMorgan,1
+0,2015-06-10 11:53:11 -0500,"/t/security,/t/virtualization","Heap overflow in QEMU PCNET controller, allowing guest->host escape",http://xenbits.xen.org/xsa/advisory-135.html,/u/journeysquid,1
+3,2015-06-10 10:08:58 -0500,"/t/culture,/t/practices,/t/rant",I quit the tech industry,http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/,/u/pushcx,6
+0,2015-06-10 11:05:21 -0500,/t/compsci,Reactive Extensions: Your Mouse is a Database (2012),https://queue.acm.org/detail.cfm?id=2169076,/u/pushcx,1
+0,2015-06-10 10:58:27 -0500,/t/release,Announcing the Software Analysis Workbench,https://galois.com/blog/2015/06/announcing-software-analysis-workbench/,/u/puffnfresh,1
+8,2015-06-09 21:45:31 -0500,/t/ask,What are you working on this week?,/s/ddasf3/what_are_you_working_on_this_week,/u/patrickod,10
+16,2015-06-09 06:12:03 -0500,"/t/networking,/t/programming",ipify - A Simple Public IP Address API,https://www.ipify.org/,/u/robin,15
+2,2015-06-10 14:08:49 -0500,/t/browsers,Help users checkout faster with Autofill,https://developers.google.com/web/updates/2015/06/checkout-faster-with-Autofill,/u/pushcx,0
+9,2015-06-08 17:03:15 -0500,/t/release,A Constructive Look At TempleOS,http://www.codersnotes.com/notes/a-constructive-look-at-templeos,/u/jcs,72
+0,2015-06-10 07:08:08 -0500,/t/mobile,"New data shows losing 80% of mobile users is normal, and why the best apps do better",http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/,/u/robin,1
+1,2015-06-09 14:24:08 -0500,"/t/design,/t/web",Why Web Design is Dead,http://uxmag.com/articles/why-web-design-is-dead,/u/flyingfisch,8
+1,2015-06-09 13:36:02 -0500,"/t/pdf,/t/compilers,/t/rust","A graph-based higher-order intermediate representation (demonstrated with Impala, a dialect of Rust)",http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf,/u/asb,7
+0,2015-06-09 10:10:29 -0500,"/t/haskell,/t/release",First public beta of stack,https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack,/u/pushcx,12
+0,2015-06-09 13:01:04 -0500,/t/rust,Interview with Mozilla's Aaron Turon,http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/,/u/craigstuntz,6
+12,2015-06-08 23:01:08 -0500,"/t/video,/t/hardware",NASA Soldering Training,https://www.youtube.com/watch?v=Vynb_HdEIDU,/u/friendlysock,12
+7,2015-06-08 17:58:33 -0500,/t/web,Roy Fielding on “TLS everywhere”,http://plasmasturm.org/log/privconf/,/u/bct,18
+5,2015-06-08 21:37:26 -0500,/t/games,The Making of Lemmings,http://readonlymemory.vg/the-making-of-lemmings/,/u/Sirocco,15
+0,2015-06-09 20:49:08 -0500,/t/haskell,MonadFail Proposal,http://thread.gmane.org/gmane.comp.lang.haskell.libraries/24910,/u/pushcx,1
+0,2015-06-09 13:10:46 -0500,"/t/show,/t/devops,/t/distributed",microservices-infrastructure 0.3 is released,https://github.com/CiscoCloud/microservices-infrastructure/releases/tag/0.3.0,/u/brianhicks,3
+8,2015-06-08 15:53:11 -0500,"/t/games,/t/math",Ultimate Tic-Tac-Toe,http://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/,/u/pushcx,14
+0,2015-06-09 06:05:26 -0500,/t/compsci,Engineers develop a computer that operates on water droplets,http://news.stanford.edu/news/2015/june/computer-water-drops-060815.html,/u/DocSavage,5
+10,2015-06-08 12:26:07 -0500,"/t/practices,/t/programming",Functional Programming should be your #1 priority for 2015,https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9,/u/pushcx,16
+2,2015-06-09 12:58:45 -0500,"/t/culture,/t/programming",Snowsuit Zine // issue 06 - What is the Long Term Cost of Clouds?,http://snowsuit.io/issue06.html,/u/apy,3

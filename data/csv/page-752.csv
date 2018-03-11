@@ -1,25 +1,25 @@
-0,2016-06-11 17:09:57 -0500,"['/t/pdf', '/t/openbsd']",switchd - An OpenFlow implementation for OpenBSD,http://www.openbsd.org/papers/bsdcan2016-switchd.pdf,/u/sin,17
-0,2016-06-12 12:23:07 -0500,['/t/security'],Qarallax RAT: Spying On US Visa Applicants,http://labsblog.f-secure.com/2016/06/07/qarallax-rat-spying-on-us-visa-applicants/,/u/mulander,1
-0,2016-06-12 12:18:07 -0500,"['/t/linux', '/t/security']",Linux Kernel ROP - Ropping your way to # (Part 1),https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/,/u/mulander,1
-0,2016-06-12 11:56:29 -0500,"['/t/person', '/t/security']",An Interview With the Hacker Probably Selling Your Password Right Now,https://www.wired.com/2016/06/interview-hacker-probably-selling-password/,/u/mulander,1
-9,2016-06-11 12:07:30 -0500,['/t/mac'],Docker For Mac Beta Review,https://medium.com/@nzoschke/docker-for-mac-beta-review-b91692289eb5,/u/kb,11
-0,2016-06-12 11:45:46 -0500,"['/t/culture', '/t/person', '/t/security']","Hack Back! — Discussions on hacking, Anarchism and secure OSs",https://medium.com/@B_meson/hackback-an-interview-320a6ac4a1b4,/u/mulander,2
-0,2016-06-12 04:56:38 -0500,"['/t/freebsd', '/t/release']",Synth - Custom package repository builder for FreeBSD and DragonFly,https://github.com/jrmarino/synth,/u/mulander,2
-0,2016-06-12 13:13:13 -0500,"['/t/culture', '/t/security']",Russia's Cyberwar in Ukraine is Relentless – This Hacktivist Strikes Back,http://yle.fi/uutiset/russias_cyberwar_in_ukraine_is_relentless__this_hacktivist_strikes_back/8918200,/u/mulander,1
-0,2016-06-12 12:51:06 -0500,['/t/security'],Lurk Banker Trojan: Exclusively for Russia,https://securelist.com/blog/research/75040/lurk-banker-trojan-exclusively-for-russia/,/u/mulander,0
-0,2016-06-11 18:11:30 -0500,"['/t/pdf', '/t/math']",Structure and randomness in the prime numbers (2009),https://terrytao.files.wordpress.com/2009/07/primes1.pdf,/u/mjn,5
-1,2016-06-11 06:34:35 -0500,"['/t/historical', '/t/unix']",anecdotes:pipes [Unix Heritage Wiki],http://wiki.tuhs.org/doku.php?id=anecdotes:pipes,/u/majjoha,12
-0,2016-06-11 08:45:33 -0500,"['/t/assembly', '/t/dotnet', '/t/programming']",Building a Chip-8 Interpreter in C#,http://blog.dantup.com/2016/06/building-a-chip-8-interpreter-in-csharp/,/u/DanTup,5
-0,2016-06-11 14:03:30 -0500,"['/t/hardware', '/t/networking', '/t/security']",Positive Research Center: PHD VI: How They Stole Our Drone,http://blog.ptsecurity.com/2016/06/phd-vi-how-they-stole-our-drone.html,/u/friendlysock,5
-0,2016-06-11 07:25:26 -0500,"['/t/video', '/t/security']",Joanna Rutkowska: Towards (reasonably) trustworthy x86 laptops,https://www.youtube.com/watch?v=rcwngbUrZNg,/u/nikola,11
-2,2016-06-10 13:17:08 -0500,"['/t/elm', '/t/javascript', '/t/web']",How Elm Slays a UI Antipattern,http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html,/u/krisajenkins,32
-15,2016-06-10 14:17:39 -0500,"['/t/games', '/t/practices', '/t/privacy']",Riot uses LoL chatlogs to weed out toxic employees,http://www.gamesindustry.biz/articles/2016-06-10-riot-uses-lol-chatlogs-to-weed-out-toxic-employees,/u/pushcx,25
-10,2016-06-10 12:56:15 -0500,"['/t/law', '/t/person']",WTFUK,https://medium.com/@rachelnabors/wtfuk-73009d5623b4,/u/pushcx,27
-11,2016-06-10 11:21:46 -0500,['/t/python'],Twisted and Python 3,http://lwn.net/Articles/689068/,/u/ngoldbaum,27
-0,2016-06-11 12:39:23 -0500,"['/t/api', '/t/javascript']",JIRA REST API OAuth authentication in Node.js,https://devup.co/jira-rest-api-oauth-authentication-in-node-js-2f8d226a493a,/u/tiwarinitish86,1
-18,2016-06-10 08:34:18 -0500,['/t/programming'],Functional Mumbo Jumbo - ADTs,http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html,/u/dominicm,27
-8,2016-06-10 18:06:50 -0500,"['/t/ask', '/t/programming', '/t/testing']","What do you use to document requirements, specifications, and use-cases?",/s/cja7rk/what_do_you_use_document_requirements,/u/braydenjw,9
-37,2016-06-10 13:18:06 -0500,"['/t/video', '/t/law', '/t/web']",Google appears to be manipulating the election,https://www.youtube.com/watch?v=PFxFRqNmXKg,/u/itistoday,9
-0,2016-06-10 12:38:20 -0500,"['/t/linux', '/t/rust']",Why Rust for Low-level Linux programming?,http://groveronline.com/2016/06/why-rust-for-low-level-linux-programming/,/u/hails,32
-0,2016-06-11 03:02:56 -0500,['/t/haskell'],A Sticky Stringy Quandary,http://www.stephendiehl.com/posts/strings.html,/u/pushcx,6
-1,2016-06-10 18:23:59 -0500,"['/t/pdf', '/t/math']",The Monty Hall Problem is not a Probability Puzzle,https://www.math.leidenuniv.nl/~gill/essential_MHP.pdf,/u/pushcx,10
+0,2016-06-11 17:09:57 -0500,"/t/pdf,/t/openbsd",switchd - An OpenFlow implementation for OpenBSD,http://www.openbsd.org/papers/bsdcan2016-switchd.pdf,/u/sin,17
+0,2016-06-12 12:23:07 -0500,/t/security,Qarallax RAT: Spying On US Visa Applicants,http://labsblog.f-secure.com/2016/06/07/qarallax-rat-spying-on-us-visa-applicants/,/u/mulander,1
+0,2016-06-12 12:18:07 -0500,"/t/linux,/t/security",Linux Kernel ROP - Ropping your way to # (Part 1),https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/,/u/mulander,1
+0,2016-06-12 11:56:29 -0500,"/t/person,/t/security",An Interview With the Hacker Probably Selling Your Password Right Now,https://www.wired.com/2016/06/interview-hacker-probably-selling-password/,/u/mulander,1
+9,2016-06-11 12:07:30 -0500,/t/mac,Docker For Mac Beta Review,https://medium.com/@nzoschke/docker-for-mac-beta-review-b91692289eb5,/u/kb,11
+0,2016-06-12 11:45:46 -0500,"/t/culture,/t/person,/t/security","Hack Back! — Discussions on hacking, Anarchism and secure OSs",https://medium.com/@B_meson/hackback-an-interview-320a6ac4a1b4,/u/mulander,2
+0,2016-06-12 04:56:38 -0500,"/t/freebsd,/t/release",Synth - Custom package repository builder for FreeBSD and DragonFly,https://github.com/jrmarino/synth,/u/mulander,2
+0,2016-06-12 13:13:13 -0500,"/t/culture,/t/security",Russia's Cyberwar in Ukraine is Relentless – This Hacktivist Strikes Back,http://yle.fi/uutiset/russias_cyberwar_in_ukraine_is_relentless__this_hacktivist_strikes_back/8918200,/u/mulander,1
+0,2016-06-12 12:51:06 -0500,/t/security,Lurk Banker Trojan: Exclusively for Russia,https://securelist.com/blog/research/75040/lurk-banker-trojan-exclusively-for-russia/,/u/mulander,0
+0,2016-06-11 18:11:30 -0500,"/t/pdf,/t/math",Structure and randomness in the prime numbers (2009),https://terrytao.files.wordpress.com/2009/07/primes1.pdf,/u/mjn,5
+1,2016-06-11 06:34:35 -0500,"/t/historical,/t/unix",anecdotes:pipes [Unix Heritage Wiki],http://wiki.tuhs.org/doku.php?id=anecdotes:pipes,/u/majjoha,12
+0,2016-06-11 08:45:33 -0500,"/t/assembly,/t/dotnet,/t/programming",Building a Chip-8 Interpreter in C#,http://blog.dantup.com/2016/06/building-a-chip-8-interpreter-in-csharp/,/u/DanTup,5
+0,2016-06-11 14:03:30 -0500,"/t/hardware,/t/networking,/t/security",Positive Research Center: PHD VI: How They Stole Our Drone,http://blog.ptsecurity.com/2016/06/phd-vi-how-they-stole-our-drone.html,/u/friendlysock,5
+0,2016-06-11 07:25:26 -0500,"/t/video,/t/security",Joanna Rutkowska: Towards (reasonably) trustworthy x86 laptops,https://www.youtube.com/watch?v=rcwngbUrZNg,/u/nikola,11
+2,2016-06-10 13:17:08 -0500,"/t/elm,/t/javascript,/t/web",How Elm Slays a UI Antipattern,http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html,/u/krisajenkins,32
+15,2016-06-10 14:17:39 -0500,"/t/games,/t/practices,/t/privacy",Riot uses LoL chatlogs to weed out toxic employees,http://www.gamesindustry.biz/articles/2016-06-10-riot-uses-lol-chatlogs-to-weed-out-toxic-employees,/u/pushcx,25
+10,2016-06-10 12:56:15 -0500,"/t/law,/t/person",WTFUK,https://medium.com/@rachelnabors/wtfuk-73009d5623b4,/u/pushcx,27
+11,2016-06-10 11:21:46 -0500,/t/python,Twisted and Python 3,http://lwn.net/Articles/689068/,/u/ngoldbaum,27
+0,2016-06-11 12:39:23 -0500,"/t/api,/t/javascript",JIRA REST API OAuth authentication in Node.js,https://devup.co/jira-rest-api-oauth-authentication-in-node-js-2f8d226a493a,/u/tiwarinitish86,1
+18,2016-06-10 08:34:18 -0500,/t/programming,Functional Mumbo Jumbo - ADTs,http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html,/u/dominicm,27
+8,2016-06-10 18:06:50 -0500,"/t/ask,/t/programming,/t/testing","What do you use to document requirements, specifications, and use-cases?",/s/cja7rk/what_do_you_use_document_requirements,/u/braydenjw,9
+37,2016-06-10 13:18:06 -0500,"/t/video,/t/law,/t/web",Google appears to be manipulating the election,https://www.youtube.com/watch?v=PFxFRqNmXKg,/u/itistoday,9
+0,2016-06-10 12:38:20 -0500,"/t/linux,/t/rust",Why Rust for Low-level Linux programming?,http://groveronline.com/2016/06/why-rust-for-low-level-linux-programming/,/u/hails,32
+0,2016-06-11 03:02:56 -0500,/t/haskell,A Sticky Stringy Quandary,http://www.stephendiehl.com/posts/strings.html,/u/pushcx,6
+1,2016-06-10 18:23:59 -0500,"/t/pdf,/t/math",The Monty Hall Problem is not a Probability Puzzle,https://www.math.leidenuniv.nl/~gill/essential_MHP.pdf,/u/pushcx,10

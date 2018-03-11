@@ -1,25 +1,25 @@
-2,2014-06-18 18:42:39 -0500,['/t/linux'],Debian is switching (back) to GLIBC,http://blog.aurel32.net/175,/u/jcs,12
-0,2014-06-19 15:34:45 -0500,"['/t/c', '/t/linux']",Poems about the Linux kernel,http://www.linux-poetry.com/,/u/zhemao,1
-0,2014-06-18 20:21:17 -0500,"['/t/devops', '/t/security']",Docker breakout exploit analysis,https://medium.com/@fun_cuddles/docker-breakout-exploit-analysis-a274fff0e6b3,/u/aaronb,12
-0,2014-06-19 10:47:13 -0500,['/t/practices'],Effective async communication,http://us5.campaign-archive1.com/?u=1bb42b52984bfa86e2ce35215&id=6bd9f4c052,/u/SeanTAllen,1
-0,2014-06-19 10:47:01 -0500,"['/t/practices', '/t/release', '/t/web']",Your Greatest Code Quality Threats and How to Solve Them,http://blog.codacy.com/2014/06/19/your-greatest-code-quality-threats-and-how-to-solve-them/,/u/PaulBlei,1
-16,2014-06-18 16:57:52 -0500,['/t/ask'],How do you get started on an open source project?,/s/ctefvy/how_do_you_get_started_on_open_source,/u/whyrusleeping,21
-0,2014-06-19 09:20:40 -0500,['/t/show'],Keyword Tool: Get 750 Google Keyword Suggestions for Free,http://keywordtool.io/,/u/takartem,1
-0,2014-06-19 09:09:26 -0500,"['/t/release', '/t/unix']",The X Window System Turns 30 Years Old Today,http://www.phoronix.com/scan.php?page=news_item&px=MTcyNDQ,/u/journeysquid,1
-7,2014-06-18 07:23:23 -0500,"['/t/c', '/t/programming']","Cap'n Proto, FlatBuffers, and SBE",https://kentonv.github.io/capnproto/news/2014-06-17-capnproto-flatbuffers-sbe.html,/u/dwrensha,22
-3,2014-06-18 16:05:11 -0500,['/t/hardware'],Amazon Fire Phone,http://www.amazon.com/dp/B00EOE0WKQ,/u/cnst,6
-0,2014-06-18 13:07:53 -0500,['/t/compsci'],What does O(log n) mean exactly?,http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly,/u/meanjim,8
-0,2014-06-18 22:57:24 -0500,['/t/perl'],System Sleuthing - Using ptrace to Print Backtraces,http://hoelz.ro/blog/system-sleuthing-using-ptrace-to-find-syscall-sites,/u/hoelzro,2
-1,2014-06-18 07:24:36 -0500,"['/t/video', '/t/culture']",This is Phil Fish,http://youtu.be/PmTUW-owa2w,/u/pushcx,25
-0,2014-06-18 09:18:44 -0500,"['/t/pdf', '/t/hardware', '/t/lisp']",PICOBIT: A Compact Scheme System for Microcontrollers,http://www.iro.umontreal.ca/~feeley/papers/StAmourFeeleyIFL09.pdf,/u/animatronic,10
-0,2014-06-18 10:54:05 -0500,['/t/programming'],Learning How To Learn Programming: Notes on Teaching Programming with the Kernel Language Approach,http://michaelrbernste.in/2013/02/23/notes-on-teaching-with-the-kernel-language-approach.html,/u/englishm,8
-1,2014-06-18 10:52:50 -0500,"['/t/javascript', '/t/web']",Om sweet Om: (high-)functional frontend engineering with ClojureScript and React,http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/,/u/pushcx,7
-0,2014-06-18 11:02:09 -0500,['/t/javascript'],Why did we build React?,https://facebook.github.io/react/blog/2013/06/05/why-react.html,/u/pushcx,6
-0,2014-06-18 22:58:02 -0500,['/t/perl'],"Weekly changes in and around Perl 6 | Inlining, some more JIT, a bit of gtk and cairo",http://p6weekly.wordpress.com/2014/06/16/2014-24-inlining-some-more-jit-a-bit-of-gtk-and-cairo/,/u/hoelzro,1
-0,2014-06-18 10:24:30 -0500,"['/t/pdf', '/t/c', '/t/java', '/t/programming']",Programmers’ Build Errors: A Case Study (at Google),https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/42184.pdf,/u/pushcx,6
-8,2014-06-17 19:28:59 -0500,"['/t/culture', '/t/finance', '/t/person']",Dear Marc Andreessen,https://al3x.net/2014/06/17/dear-marc-andreessen.html,/u/steveklabnik,53
-0,2014-06-18 20:49:25 -0500,['/t/compsci'],The Safyness of Static Typing,http://blog.metaobject.com/2014/06/the-safyness-of-static-typing.html,/u/pushcx,1
-0,2014-06-18 11:37:43 -0500,['/t/javascript'],Structs and ImmutableStructs,http://raganwald.com/2014/06/15/immutable-structs.html,/u/pushcx,4
-0,2014-06-18 12:24:39 -0500,"['/t/culture', '/t/privacy']",“Own the Means of Production”: What Karl Marx Knew about Opportunity in the Digital Economy (2013),http://tedcurran.net/2013/04/09/own-the-means-of-production-what-karl-marx-knew-about-opportunity-in-the-digital-economy/,/u/enn,6
-0,2014-06-18 10:51:34 -0500,['/t/security'],Architecting a Machine Learning System for Risk,http://nerds.airbnb.com/architecting-machine-learning-system-risk/,/u/pushcx,3
-0,2014-06-18 06:51:16 -0500,['/t/erlang'],About Skel - Skel: A Streaming Parallel Skeleton Library for Erlang,http://skel.weebly.com/about-skel.html,/u/balrogboogie,5
+2,2014-06-18 18:42:39 -0500,/t/linux,Debian is switching (back) to GLIBC,http://blog.aurel32.net/175,/u/jcs,12
+0,2014-06-19 15:34:45 -0500,"/t/c,/t/linux",Poems about the Linux kernel,http://www.linux-poetry.com/,/u/zhemao,1
+0,2014-06-18 20:21:17 -0500,"/t/devops,/t/security",Docker breakout exploit analysis,https://medium.com/@fun_cuddles/docker-breakout-exploit-analysis-a274fff0e6b3,/u/aaronb,12
+0,2014-06-19 10:47:13 -0500,/t/practices,Effective async communication,http://us5.campaign-archive1.com/?u=1bb42b52984bfa86e2ce35215&id=6bd9f4c052,/u/SeanTAllen,1
+0,2014-06-19 10:47:01 -0500,"/t/practices,/t/release,/t/web",Your Greatest Code Quality Threats and How to Solve Them,http://blog.codacy.com/2014/06/19/your-greatest-code-quality-threats-and-how-to-solve-them/,/u/PaulBlei,1
+16,2014-06-18 16:57:52 -0500,/t/ask,How do you get started on an open source project?,/s/ctefvy/how_do_you_get_started_on_open_source,/u/whyrusleeping,21
+0,2014-06-19 09:20:40 -0500,/t/show,Keyword Tool: Get 750 Google Keyword Suggestions for Free,http://keywordtool.io/,/u/takartem,1
+0,2014-06-19 09:09:26 -0500,"/t/release,/t/unix",The X Window System Turns 30 Years Old Today,http://www.phoronix.com/scan.php?page=news_item&px=MTcyNDQ,/u/journeysquid,1
+7,2014-06-18 07:23:23 -0500,"/t/c,/t/programming","Cap'n Proto, FlatBuffers, and SBE",https://kentonv.github.io/capnproto/news/2014-06-17-capnproto-flatbuffers-sbe.html,/u/dwrensha,22
+3,2014-06-18 16:05:11 -0500,/t/hardware,Amazon Fire Phone,http://www.amazon.com/dp/B00EOE0WKQ,/u/cnst,6
+0,2014-06-18 13:07:53 -0500,/t/compsci,What does O(log n) mean exactly?,http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly,/u/meanjim,8
+0,2014-06-18 22:57:24 -0500,/t/perl,System Sleuthing - Using ptrace to Print Backtraces,http://hoelz.ro/blog/system-sleuthing-using-ptrace-to-find-syscall-sites,/u/hoelzro,2
+1,2014-06-18 07:24:36 -0500,"/t/video,/t/culture",This is Phil Fish,http://youtu.be/PmTUW-owa2w,/u/pushcx,25
+0,2014-06-18 09:18:44 -0500,"/t/pdf,/t/hardware,/t/lisp",PICOBIT: A Compact Scheme System for Microcontrollers,http://www.iro.umontreal.ca/~feeley/papers/StAmourFeeleyIFL09.pdf,/u/animatronic,10
+0,2014-06-18 10:54:05 -0500,/t/programming,Learning How To Learn Programming: Notes on Teaching Programming with the Kernel Language Approach,http://michaelrbernste.in/2013/02/23/notes-on-teaching-with-the-kernel-language-approach.html,/u/englishm,8
+1,2014-06-18 10:52:50 -0500,"/t/javascript,/t/web",Om sweet Om: (high-)functional frontend engineering with ClojureScript and React,http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/,/u/pushcx,7
+0,2014-06-18 11:02:09 -0500,/t/javascript,Why did we build React?,https://facebook.github.io/react/blog/2013/06/05/why-react.html,/u/pushcx,6
+0,2014-06-18 22:58:02 -0500,/t/perl,"Weekly changes in and around Perl 6 | Inlining, some more JIT, a bit of gtk and cairo",http://p6weekly.wordpress.com/2014/06/16/2014-24-inlining-some-more-jit-a-bit-of-gtk-and-cairo/,/u/hoelzro,1
+0,2014-06-18 10:24:30 -0500,"/t/pdf,/t/c,/t/java,/t/programming",Programmers’ Build Errors: A Case Study (at Google),https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/42184.pdf,/u/pushcx,6
+8,2014-06-17 19:28:59 -0500,"/t/culture,/t/finance,/t/person",Dear Marc Andreessen,https://al3x.net/2014/06/17/dear-marc-andreessen.html,/u/steveklabnik,53
+0,2014-06-18 20:49:25 -0500,/t/compsci,The Safyness of Static Typing,http://blog.metaobject.com/2014/06/the-safyness-of-static-typing.html,/u/pushcx,1
+0,2014-06-18 11:37:43 -0500,/t/javascript,Structs and ImmutableStructs,http://raganwald.com/2014/06/15/immutable-structs.html,/u/pushcx,4
+0,2014-06-18 12:24:39 -0500,"/t/culture,/t/privacy",“Own the Means of Production”: What Karl Marx Knew about Opportunity in the Digital Economy (2013),http://tedcurran.net/2013/04/09/own-the-means-of-production-what-karl-marx-knew-about-opportunity-in-the-digital-economy/,/u/enn,6
+0,2014-06-18 10:51:34 -0500,/t/security,Architecting a Machine Learning System for Risk,http://nerds.airbnb.com/architecting-machine-learning-system-risk/,/u/pushcx,3
+0,2014-06-18 06:51:16 -0500,/t/erlang,About Skel - Skel: A Streaming Parallel Skeleton Library for Erlang,http://skel.weebly.com/about-skel.html,/u/balrogboogie,5

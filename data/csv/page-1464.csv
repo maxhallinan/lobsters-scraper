@@ -1,25 +1,25 @@
-0,2013-07-27 16:23:55 -0500,"['/t/privacy', '/t/security']",Simplifying OTR deniability,https://whispersystems.org/blog/simplifying-otr-deniability/,/u/jcs,6
-0,2013-07-27 13:21:31 -0500,['/t/security'],Applied Cryptography Engineering,http://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/,/u/kyle,4
-0,2013-07-27 02:08:18 -0500,['/t/c'],Have any actual machines really used nonzero null pointers?,http://c-faq.com/null/machexamp.html,/u/kyle,8
-4,2013-07-26 18:47:48 -0500,['/t/security'],Spy agencies ban Lenovo PCs on security concerns,http://www.afr.com/p/technology/spy_agencies_ban_lenovo_pcs_on_security_HVgcKTHp4bIA4ulCPqC7SL,/u/kyle,6
-2,2013-07-26 14:34:38 -0500,['/t/practices'],Passive Income Hacker vs Startup Guy,http://edu.mkrecny.com/thoughts/passive-income-hacker-vs-startup-guy,/u/jcs,8
-0,2013-07-27 03:57:03 -0500,['/t/release'],Queues.io - all queueing libs in one place,http://queues.io/,/u/strzalek,2
-0,2013-07-26 18:22:27 -0500,['/t/go'],dl.google.com: Powered by Go,http://talks.golang.org/2013/oscon-dl.slide,/u/trousers,5
-0,2013-07-26 20:52:47 -0500,"['/t/hardware', '/t/security']",This $200 3D printed bot can crack your phone's PIN in 20 Hours,http://www.3ders.org/articles/20130725-the-3d-printed-bot-can-crack-your-phone-pin-in-20-hours.html,/u/kyle,3
-5,2013-07-26 09:24:56 -0500,['/t/privacy'],Should Reddit Be Blamed for the Spreading of a Smear?,http://www.nytimes.com/2013/07/28/magazine/should-reddit-be-blamed-for-the-spreading-of-a-smear.html?ref=magazine,/u/tedu,4
-5,2013-07-26 09:07:09 -0500,"['/t/mobile', '/t/news']",Opting Out of Emergency Alerts,http://www.nytimes.com/2013/07/25/technology/personaltech/opting-out-of-emergency-alerts.html?ref=technology&_r=0,/u/tedu,3
-0,2013-07-26 08:48:38 -0500,['/t/security'],Secret Information Is More Trusted,http://www.schneier.com/blog/archives/2013/07/secret_informat.html,/u/kyle,5
-0,2013-07-26 15:09:20 -0500,"['/t/games', '/t/haskell']","Helm, a functionally reactive game engine for Haskell",http://helm-engine.org/,/u/puffnfresh,2
-0,2013-07-26 18:43:15 -0500,['/t/compsci'],Big-O notation explained by a self-taught programmer,http://justin.abrah.ms/computer-science/big-o-notation-explained.html,/u/kyle,1
-0,2013-07-26 10:45:13 -0500,"['/t/haskell', '/t/programming']",A Comparison Between Perl and Haskell,http://ocharles.org.uk/blog/posts/2013-07-26-a-comparison-between-perl-and-haskell.html,/u/zod000,3
-1,2013-07-26 12:51:45 -0500,"['/t/android', '/t/security']",Android Bug Superior to Master Key,http://www.saurik.com/id/18,/u/tedu,2
-0,2013-07-26 12:38:47 -0500,"['/t/networking', '/t/news']",FCC orders Google (Fiber) to Respond to Net Neutrality Complaint,https://medium.com/editors-picks/5a2d9322bdc4,/u/journeysquid,2
-0,2013-07-26 13:22:41 -0500,"['/t/hardware', '/t/security']",When 'Smart Homes' Get Hacked: I Haunted A Complete Stranger's House Via The Internet,http://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homes-hack/,/u/kyle,1
-2,2013-07-25 08:40:06 -0500,['/t/openbsd'],Octeon and Beagle now Full-Fledged Architectures,http://undeadly.org/cgi?action=article&sid=20130725074102,/u/kyle,8
-0,2013-07-25 15:08:24 -0500,"['/t/finance', '/t/security']",“NASDAQ is owned.” Five men charged in largest financial hack ever,http://arstechnica.com/security/2013/07/nasdaq-is-owned-five-men-charged-in-largest-financial-hack-ever/,/u/kyle,5
-0,2013-07-25 16:11:59 -0500,['/t/design'],Powering a jQuery Plugin Repo With a CDN - A Breakdown - David Higgins,http://blog.higg.im/590355,/u/dh,1
-0,2013-07-25 11:27:00 -0500,['/t/privacy'],Blueprints Of NSA's Data Center In Utah Suggest It Holds Less Info Than Thought,http://www.forbes.com/sites/kashmirhill/2013/07/24/blueprints-of-nsa-data-center-in-utah-suggest-its-storage-capacity-is-less-impressive-than-thought/,/u/journeysquid,2
-0,2013-07-25 13:54:32 -0500,"['/t/c', '/t/ruby']",Beware Subclassing Ruby Core Classes,http://words.steveklabnik.com/beware-subclassing-ruby-core-classes,/u/seven1m,1
-4,2013-07-24 14:13:34 -0500,"['/t/hardware', '/t/security']",Intel SHA Extensions for hardware offloading of SHA-1 and SHA-256,http://software.intel.com/en-us/articles/intel-sha-extensions,/u/jcs,5
-0,2013-07-24 14:05:48 -0500,"['/t/assembly', '/t/programming']",LLVM IR is better than assembly,https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/,/u/seven1m,7
-0,2013-07-24 08:28:29 -0500,['/t/rant'],How to deal with negativity on Twitter.,http://www.tail-f.org/2013-07-24,/u/telemachus,12
+0,2013-07-27 16:23:55 -0500,"/t/privacy,/t/security",Simplifying OTR deniability,https://whispersystems.org/blog/simplifying-otr-deniability/,/u/jcs,6
+0,2013-07-27 13:21:31 -0500,/t/security,Applied Cryptography Engineering,http://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/,/u/kyle,4
+0,2013-07-27 02:08:18 -0500,/t/c,Have any actual machines really used nonzero null pointers?,http://c-faq.com/null/machexamp.html,/u/kyle,8
+4,2013-07-26 18:47:48 -0500,/t/security,Spy agencies ban Lenovo PCs on security concerns,http://www.afr.com/p/technology/spy_agencies_ban_lenovo_pcs_on_security_HVgcKTHp4bIA4ulCPqC7SL,/u/kyle,6
+2,2013-07-26 14:34:38 -0500,/t/practices,Passive Income Hacker vs Startup Guy,http://edu.mkrecny.com/thoughts/passive-income-hacker-vs-startup-guy,/u/jcs,8
+0,2013-07-27 03:57:03 -0500,/t/release,Queues.io - all queueing libs in one place,http://queues.io/,/u/strzalek,2
+0,2013-07-26 18:22:27 -0500,/t/go,dl.google.com: Powered by Go,http://talks.golang.org/2013/oscon-dl.slide,/u/trousers,5
+0,2013-07-26 20:52:47 -0500,"/t/hardware,/t/security",This $200 3D printed bot can crack your phone's PIN in 20 Hours,http://www.3ders.org/articles/20130725-the-3d-printed-bot-can-crack-your-phone-pin-in-20-hours.html,/u/kyle,3
+5,2013-07-26 09:24:56 -0500,/t/privacy,Should Reddit Be Blamed for the Spreading of a Smear?,http://www.nytimes.com/2013/07/28/magazine/should-reddit-be-blamed-for-the-spreading-of-a-smear.html?ref=magazine,/u/tedu,4
+5,2013-07-26 09:07:09 -0500,"/t/mobile,/t/news",Opting Out of Emergency Alerts,http://www.nytimes.com/2013/07/25/technology/personaltech/opting-out-of-emergency-alerts.html?ref=technology&_r=0,/u/tedu,3
+0,2013-07-26 08:48:38 -0500,/t/security,Secret Information Is More Trusted,http://www.schneier.com/blog/archives/2013/07/secret_informat.html,/u/kyle,5
+0,2013-07-26 15:09:20 -0500,"/t/games,/t/haskell","Helm, a functionally reactive game engine for Haskell",http://helm-engine.org/,/u/puffnfresh,2
+0,2013-07-26 18:43:15 -0500,/t/compsci,Big-O notation explained by a self-taught programmer,http://justin.abrah.ms/computer-science/big-o-notation-explained.html,/u/kyle,1
+0,2013-07-26 10:45:13 -0500,"/t/haskell,/t/programming",A Comparison Between Perl and Haskell,http://ocharles.org.uk/blog/posts/2013-07-26-a-comparison-between-perl-and-haskell.html,/u/zod000,3
+1,2013-07-26 12:51:45 -0500,"/t/android,/t/security",Android Bug Superior to Master Key,http://www.saurik.com/id/18,/u/tedu,2
+0,2013-07-26 12:38:47 -0500,"/t/networking,/t/news",FCC orders Google (Fiber) to Respond to Net Neutrality Complaint,https://medium.com/editors-picks/5a2d9322bdc4,/u/journeysquid,2
+0,2013-07-26 13:22:41 -0500,"/t/hardware,/t/security",When 'Smart Homes' Get Hacked: I Haunted A Complete Stranger's House Via The Internet,http://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homes-hack/,/u/kyle,1
+2,2013-07-25 08:40:06 -0500,/t/openbsd,Octeon and Beagle now Full-Fledged Architectures,http://undeadly.org/cgi?action=article&sid=20130725074102,/u/kyle,8
+0,2013-07-25 15:08:24 -0500,"/t/finance,/t/security",“NASDAQ is owned.” Five men charged in largest financial hack ever,http://arstechnica.com/security/2013/07/nasdaq-is-owned-five-men-charged-in-largest-financial-hack-ever/,/u/kyle,5
+0,2013-07-25 16:11:59 -0500,/t/design,Powering a jQuery Plugin Repo With a CDN - A Breakdown - David Higgins,http://blog.higg.im/590355,/u/dh,1
+0,2013-07-25 11:27:00 -0500,/t/privacy,Blueprints Of NSA's Data Center In Utah Suggest It Holds Less Info Than Thought,http://www.forbes.com/sites/kashmirhill/2013/07/24/blueprints-of-nsa-data-center-in-utah-suggest-its-storage-capacity-is-less-impressive-than-thought/,/u/journeysquid,2
+0,2013-07-25 13:54:32 -0500,"/t/c,/t/ruby",Beware Subclassing Ruby Core Classes,http://words.steveklabnik.com/beware-subclassing-ruby-core-classes,/u/seven1m,1
+4,2013-07-24 14:13:34 -0500,"/t/hardware,/t/security",Intel SHA Extensions for hardware offloading of SHA-1 and SHA-256,http://software.intel.com/en-us/articles/intel-sha-extensions,/u/jcs,5
+0,2013-07-24 14:05:48 -0500,"/t/assembly,/t/programming",LLVM IR is better than assembly,https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/,/u/seven1m,7
+0,2013-07-24 08:28:29 -0500,/t/rant,How to deal with negativity on Twitter.,http://www.tail-f.org/2013-07-24,/u/telemachus,12

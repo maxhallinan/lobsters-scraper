@@ -1,25 +1,25 @@
-0,2017-06-14 13:19:36 -0500,"['/t/api', '/t/c', '/t/web']",babelouest/ulfius -- Web Framework for REST API in C,https://github.com/babelouest/ulfius,/u/friendlysock,3
-0,2017-06-14 11:53:27 -0500,"['/t/javascript', '/t/programming', '/t/web']",A crash course in memory management,https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/,/u/dgv,3
-0,2017-06-14 06:21:55 -0500,"['/t/api', '/t/visualization']",From GraphQL to CSV: the story of API accessibility,https://blog.apis.guru/from-graphql-to-csv-6df5e5462793,/u/IvanGoncharov,3
-0,2017-06-14 11:12:47 -0500,['/t/law'],Pirate Bay may finally be sunk after EU copyright ruling,https://arstechnica.com/tech-policy/2017/06/pirate-bay-copyright-ruling-cjeu-communication-public-right/,/u/pizzaiolo,3
-0,2017-06-14 13:08:03 -0500,['/t/databases'],Exploring a Data Set in SQL,http://tapoueh.org/blog/2017/06/exploring-a-data-set-in-sql/,/u/dege,2
-0,2017-06-14 12:12:55 -0500,"['/t/historical', '/t/python']",The transition to multilingual programming with Python (2014),https://developers.redhat.com/blog/2014/09/09/transition-to-multilingual-programming-python/,/u/hwayne,2
-0,2017-06-14 09:09:20 -0500,"['/t/c++', '/t/programming']",Getting Started with Buck build on Travis CI,https://medium.com/@buckaroo.pm/getting-started-with-buck-build-on-travis-ci-d1208d363023,/u/nikhedonia,3
-3,2017-06-13 15:59:59 -0500,"['/t/browsers', '/t/release']","Firefox 54: E10S-Multi, WebExtension APIs, CSS clip-path",https://hacks.mozilla.org/2017/06/firefox-54-e10s-webextension-apis-css-clip-path/,/u/flyingfisch,17
-0,2017-06-14 11:05:36 -0500,"['/t/education', '/t/haskell', '/t/ml', '/t/programming']",Modules Matter Most (2011),https://existentialtype.wordpress.com/2011/04/16/modules-matter-most/,/u/kartik,2
-0,2017-06-14 08:34:48 -0500,"['/t/video', '/t/android', '/t/javascript']",WebGL Map with Mapbox and React,https://pusher.com/sessions/meetup/the-js-roundabout/webgl-map-with-mapbox-and-react,/u/codedesi,2
-0,2017-06-14 12:04:52 -0500,['/t/browsers'],The search for the Goldilocks browser,https://medium.com/mozilla-tech/the-search-for-the-goldilocks-browser-and-why-firefox-may-be-just-right-for-you-1f520506aa35,/u/jabberwock,1
-0,2017-06-13 21:47:29 -0500,"['/t/show', '/t/javascript', '/t/nodejs', '/t/release']",How to use Webpack’s new “magic comment” feature with React Universal Component + SSR,https://medium.com/webpack/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a,/u/faceyspacey,4
-0,2017-06-14 09:06:45 -0500,['/t/education'],Learn from the Bees,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-06.html#e2017-06-12T14_15_11.htm,/u/flyingfisch,1
-0,2017-06-14 04:36:44 -0500,"['/t/java', '/t/performance', '/t/testing']",Nanotrusting the Nanotime,https://shipilev.net/blog/2014/nanotrusting-nanotime/,/u/calvin,2
-19,2017-06-12 19:17:24 -0500,['/t/systemd'],systemd defaults to using Google nameservers (2014),https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=761658,/u/pushcx,48
-0,2017-06-14 01:18:38 -0500,"['/t/video', '/t/programming', '/t/visualization']",Animated Data Structure Visualizer (video),https://www.youtube.com/watch?v=KwZmAgAuIkY,/u/vivekgani,3
-4,2017-06-13 22:56:34 -0500,"['/t/culture', '/t/law']",Why I Do Not Support the FSF,http://marktarver.com/fsf.html,/u/don,8
-3,2017-06-15 01:15:41 -0500,"['/t/culture', '/t/practices', '/t/rant']","Wherein we're currently not doing deliveries, because Uber sucks.",https://www.dnalounge.com/backstage/log/2017/06/14.html,/u/friendlysock,0
-0,2017-06-13 10:47:54 -0500,['/t/openbsd'],OpenBSD as a “Desktop” (Laptop),http://unixseclab.com/index.php/2017/06/12/openbsd-as-a-desktop-laptop/,/u/mulander,16
-0,2017-06-14 06:15:58 -0500,"['/t/programming', '/t/swift']","Designing Code to ""Feel"" Like Swift, Not Just Compile",https://www.dailydrip.com/blog/designing-code-to-feel-like-swift-not-just-compile.html,/u/franzunix,1
-2,2017-06-13 17:47:48 -0500,"['/t/security', '/t/windows']",Microsoft confirms latest security fixes thwart NSA hacking tools,http://www.zdnet.com/article/microsoft-reverses-course-patches-three-remaining-nsa-exploits-targeting-windows-xp/,/u/pushcx,3
-0,2017-06-13 23:20:43 -0500,"['/t/show', '/t/databases', '/t/python']",A highly configurable visual search & analytics platform for images and videos.,https://github.com/AKSHAYUBHAT/DeepVideoAnalytics,/u/akshayubhat,1
-3,2017-06-13 05:40:44 -0500,['/t/distributed'],Don’t use a blockchain unless you need to,https://hackernoon.com/dont-use-a-blockchain-unless-you-need-to-bc063d0f9a80,/u/calvin,13
-1,2017-06-13 08:49:32 -0500,"['/t/go', '/t/programming']",Blocking Go Readers and Writers,https://dmathieu.com/articles/development/go-blocking-reader-writer/,/u/dmathieu,4
-8,2017-06-13 08:04:14 -0500,['/t/culture'],Finding Pareto Optimal Blogs on Hacker News,https://intoli.com/blog/pareto-optimal-blogs/,/u/foob,7
+0,2017-06-14 13:19:36 -0500,"/t/api,/t/c,/t/web",babelouest/ulfius -- Web Framework for REST API in C,https://github.com/babelouest/ulfius,/u/friendlysock,3
+0,2017-06-14 11:53:27 -0500,"/t/javascript,/t/programming,/t/web",A crash course in memory management,https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/,/u/dgv,3
+0,2017-06-14 06:21:55 -0500,"/t/api,/t/visualization",From GraphQL to CSV: the story of API accessibility,https://blog.apis.guru/from-graphql-to-csv-6df5e5462793,/u/IvanGoncharov,3
+0,2017-06-14 11:12:47 -0500,/t/law,Pirate Bay may finally be sunk after EU copyright ruling,https://arstechnica.com/tech-policy/2017/06/pirate-bay-copyright-ruling-cjeu-communication-public-right/,/u/pizzaiolo,3
+0,2017-06-14 13:08:03 -0500,/t/databases,Exploring a Data Set in SQL,http://tapoueh.org/blog/2017/06/exploring-a-data-set-in-sql/,/u/dege,2
+0,2017-06-14 12:12:55 -0500,"/t/historical,/t/python",The transition to multilingual programming with Python (2014),https://developers.redhat.com/blog/2014/09/09/transition-to-multilingual-programming-python/,/u/hwayne,2
+0,2017-06-14 09:09:20 -0500,"/t/c++,/t/programming",Getting Started with Buck build on Travis CI,https://medium.com/@buckaroo.pm/getting-started-with-buck-build-on-travis-ci-d1208d363023,/u/nikhedonia,3
+3,2017-06-13 15:59:59 -0500,"/t/browsers,/t/release","Firefox 54: E10S-Multi, WebExtension APIs, CSS clip-path",https://hacks.mozilla.org/2017/06/firefox-54-e10s-webextension-apis-css-clip-path/,/u/flyingfisch,17
+0,2017-06-14 11:05:36 -0500,"/t/education,/t/haskell,/t/ml,/t/programming",Modules Matter Most (2011),https://existentialtype.wordpress.com/2011/04/16/modules-matter-most/,/u/kartik,2
+0,2017-06-14 08:34:48 -0500,"/t/video,/t/android,/t/javascript",WebGL Map with Mapbox and React,https://pusher.com/sessions/meetup/the-js-roundabout/webgl-map-with-mapbox-and-react,/u/codedesi,2
+0,2017-06-14 12:04:52 -0500,/t/browsers,The search for the Goldilocks browser,https://medium.com/mozilla-tech/the-search-for-the-goldilocks-browser-and-why-firefox-may-be-just-right-for-you-1f520506aa35,/u/jabberwock,1
+0,2017-06-13 21:47:29 -0500,"/t/show,/t/javascript,/t/nodejs,/t/release",How to use Webpack’s new “magic comment” feature with React Universal Component + SSR,https://medium.com/webpack/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a,/u/faceyspacey,4
+0,2017-06-14 09:06:45 -0500,/t/education,Learn from the Bees,http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-06.html#e2017-06-12T14_15_11.htm,/u/flyingfisch,1
+0,2017-06-14 04:36:44 -0500,"/t/java,/t/performance,/t/testing",Nanotrusting the Nanotime,https://shipilev.net/blog/2014/nanotrusting-nanotime/,/u/calvin,2
+19,2017-06-12 19:17:24 -0500,/t/systemd,systemd defaults to using Google nameservers (2014),https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=761658,/u/pushcx,48
+0,2017-06-14 01:18:38 -0500,"/t/video,/t/programming,/t/visualization",Animated Data Structure Visualizer (video),https://www.youtube.com/watch?v=KwZmAgAuIkY,/u/vivekgani,3
+4,2017-06-13 22:56:34 -0500,"/t/culture,/t/law",Why I Do Not Support the FSF,http://marktarver.com/fsf.html,/u/don,8
+3,2017-06-15 01:15:41 -0500,"/t/culture,/t/practices,/t/rant","Wherein we're currently not doing deliveries, because Uber sucks.",https://www.dnalounge.com/backstage/log/2017/06/14.html,/u/friendlysock,0
+0,2017-06-13 10:47:54 -0500,/t/openbsd,OpenBSD as a “Desktop” (Laptop),http://unixseclab.com/index.php/2017/06/12/openbsd-as-a-desktop-laptop/,/u/mulander,16
+0,2017-06-14 06:15:58 -0500,"/t/programming,/t/swift","Designing Code to ""Feel"" Like Swift, Not Just Compile",https://www.dailydrip.com/blog/designing-code-to-feel-like-swift-not-just-compile.html,/u/franzunix,1
+2,2017-06-13 17:47:48 -0500,"/t/security,/t/windows",Microsoft confirms latest security fixes thwart NSA hacking tools,http://www.zdnet.com/article/microsoft-reverses-course-patches-three-remaining-nsa-exploits-targeting-windows-xp/,/u/pushcx,3
+0,2017-06-13 23:20:43 -0500,"/t/show,/t/databases,/t/python",A highly configurable visual search & analytics platform for images and videos.,https://github.com/AKSHAYUBHAT/DeepVideoAnalytics,/u/akshayubhat,1
+3,2017-06-13 05:40:44 -0500,/t/distributed,Don’t use a blockchain unless you need to,https://hackernoon.com/dont-use-a-blockchain-unless-you-need-to-bc063d0f9a80,/u/calvin,13
+1,2017-06-13 08:49:32 -0500,"/t/go,/t/programming",Blocking Go Readers and Writers,https://dmathieu.com/articles/development/go-blocking-reader-writer/,/u/dmathieu,4
+8,2017-06-13 08:04:14 -0500,/t/culture,Finding Pareto Optimal Blogs on Hacker News,https://intoli.com/blog/pareto-optimal-blogs/,/u/foob,7

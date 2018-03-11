@@ -1,25 +1,25 @@
-17,2016-06-12 11:42:52 -0500,"['/t/c', '/t/rust']",Baby Steps: Slowly Porting musl to Rust,https://dikaiosune.github.io/rust/2016/06/11/baby-steps-porting-musl-to-rust/,/u/friendlysock,33
-0,2016-06-13 10:43:42 -0500,"['/t/c', '/t/ruby']",How do Native Extensions Manage Memory? Part 1: Ruby (MRI),http://blog.reverberate.org/2016/06/12/native-extensions-memory-management-part1-ruby-mri.html,/u/awreece,5
-0,2016-06-13 12:22:03 -0500,"['/t/programming', '/t/visualization']",Linear vs Binary Search,http://codepen.io/youfoundron/full/LZGWyp/,/u/flyingfisch,3
-13,2016-06-12 08:09:45 -0500,"['/t/law', '/t/privacy']","Creepy startup will help landlords, employers and online dates strip-mine intimate data from your Facebook page",https://www.washingtonpost.com/news/the-intersect/wp/2016/06/09/creepy-startup-will-help-landlords-employers-and-online-dates-strip-mine-intimate-data-from-your-facebook-page/,/u/vadik,37
-0,2016-06-13 15:08:14 -0500,['/t/javascript'],Making your JavaScript Pure,http://alistapart.com/article/making-your-javascript-pure,/u/flyingfisch,1
-0,2016-06-13 16:23:39 -0500,['/t/culture'],About that “real job”…,https://medium.com/@boathobo/about-that-real-job-50551f89fe25,/u/zem,2
-0,2016-06-13 09:25:18 -0500,"['/t/video', '/t/unix']",The UNIX System: Making Computers More Productive (1982),https://www.youtube.com/watch?v=tc4ROCJYbm0,/u/pushcx,2
-0,2016-06-12 14:41:51 -0500,"['/t/pdf', '/t/openbsd']",OpenBSD rc.d(8),https://www.openbsd.org/papers/bsdcan2016-rcd.pdf,/u/mulander,19
-0,2016-06-13 06:04:16 -0500,"['/t/dotnet', '/t/java', '/t/programming']",Modern Dependency Injection,http://deliberate-software.com/modern-di/,/u/steveshogren,1
-3,2016-06-12 13:05:07 -0500,"['/t/pdf', '/t/networking', '/t/openbsd']",Bidirectional Forwarding Detection (BFD) implementation and support in OpenBSD,http://www.openbsd.org/papers/bsdcan2016-bfd.pdf,/u/mulander,10
-1,2016-06-12 14:52:04 -0500,['/t/practices'],The 100-Hour Rule,http://codingvc.com/the-100-hour-rule/,/u/mulander,14
-1,2016-06-12 08:14:41 -0500,"['/t/debugging', '/t/programming', '/t/ruby']",How to spy on a Ruby program,http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/,/u/drewda,15
-0,2016-06-13 05:02:37 -0500,['/t/release'],Krita: 2016 Kickstarter Postmortem,http://www.valdyas.org/fading/index.cgi/2016/06/11#kickstarter_2016_pm,/u/zem,1
-0,2016-06-12 14:34:28 -0500,"['/t/networking', '/t/openbsd']",Opensource Routing,http://www.openbsd.org/papers/bsdcan2016-osr/mgp00001.html,/u/mulander,7
-2,2016-06-13 09:51:12 -0500,"['/t/design', '/t/practices']",Really Good Emails,http://codepen.io/reallygoodemails/,/u/flyingfisch,0
-0,2016-06-12 16:27:24 -0500,"['/t/show', '/t/javascript']",A JavaScript emulator of the Synthi a synthesizer,http://alexnisnevich.github.io/synthi-js/,/u/Hail_Spacecake,5
-0,2016-06-12 14:42:50 -0500,"['/t/pdf', '/t/openbsd']",Implementation of Xen PVHVM drivers in OpenBSD,https://www.openbsd.org/papers/bsdcan2016-xen.pdf,/u/mulander,5
-0,2016-06-12 13:35:05 -0500,['/t/programming'],Authentication and Authorization: OpenID vs OAuth2 vs SAML,https://spin.atomicobject.com/2016/05/30/openid-oauth-saml/,/u/fkr,5
-11,2016-06-11 17:39:54 -0500,"['/t/databases', '/t/philosophy', '/t/practices']",Gay marriage: the database engineering perspective,https://qntm.org/gay,/u/friendlysock,21
-13,2016-06-11 10:29:44 -0500,['/t/lisp'],My Increasing Frustration With Clojure,http://www.ashtonkemerling.com/blog/2016/06/11/my-increasing-frustration-with-clojure,/u/tedu,42
-0,2016-06-12 10:05:38 -0500,"['/t/video', '/t/haskell']","In Haskell, less is more",https://www.youtube.com/watch?v=NHRIV7UNiPU,/u/asthasr,4
-0,2016-06-12 07:35:05 -0500,"['/t/games', '/t/testing']",Fast Iteration Tools in the Production of the Talos Principle,http://www.gdcvault.com/play/1022784/Fast-Iteration-Tools-in-the,/u/DRMacIver,5
-0,2016-06-12 08:19:40 -0500,"['/t/assembly', '/t/dotnet', '/t/javascript', '/t/programming']",DaChip8JS - My C# Chip-8 Interpreter running in the browser using Bridge.NET,http://blog.dantup.com/2016/06/dachip8js-my-csharp-chip8-interpreter-running-in-the-browser/,/u/DanTup,2
-7,2016-06-11 19:48:07 -0500,['/t/security'],Online voting is a cybersecurity nightmare,http://www.dailydot.com/politics/online-voting-cybersecurity-election-fraud-hacking/,/u/adsouza,9
-0,2016-06-12 12:27:12 -0500,"['/t/browsers', '/t/security']",PDFium Vulnerability in Google Chrome Web Browser,http://blog.talosintel.com/2016/06/pdfium.html,/u/mulander,2
+17,2016-06-12 11:42:52 -0500,"/t/c,/t/rust",Baby Steps: Slowly Porting musl to Rust,https://dikaiosune.github.io/rust/2016/06/11/baby-steps-porting-musl-to-rust/,/u/friendlysock,33
+0,2016-06-13 10:43:42 -0500,"/t/c,/t/ruby",How do Native Extensions Manage Memory? Part 1: Ruby (MRI),http://blog.reverberate.org/2016/06/12/native-extensions-memory-management-part1-ruby-mri.html,/u/awreece,5
+0,2016-06-13 12:22:03 -0500,"/t/programming,/t/visualization",Linear vs Binary Search,http://codepen.io/youfoundron/full/LZGWyp/,/u/flyingfisch,3
+13,2016-06-12 08:09:45 -0500,"/t/law,/t/privacy","Creepy startup will help landlords, employers and online dates strip-mine intimate data from your Facebook page",https://www.washingtonpost.com/news/the-intersect/wp/2016/06/09/creepy-startup-will-help-landlords-employers-and-online-dates-strip-mine-intimate-data-from-your-facebook-page/,/u/vadik,37
+0,2016-06-13 15:08:14 -0500,/t/javascript,Making your JavaScript Pure,http://alistapart.com/article/making-your-javascript-pure,/u/flyingfisch,1
+0,2016-06-13 16:23:39 -0500,/t/culture,About that “real job”…,https://medium.com/@boathobo/about-that-real-job-50551f89fe25,/u/zem,2
+0,2016-06-13 09:25:18 -0500,"/t/video,/t/unix",The UNIX System: Making Computers More Productive (1982),https://www.youtube.com/watch?v=tc4ROCJYbm0,/u/pushcx,2
+0,2016-06-12 14:41:51 -0500,"/t/pdf,/t/openbsd",OpenBSD rc.d(8),https://www.openbsd.org/papers/bsdcan2016-rcd.pdf,/u/mulander,19
+0,2016-06-13 06:04:16 -0500,"/t/dotnet,/t/java,/t/programming",Modern Dependency Injection,http://deliberate-software.com/modern-di/,/u/steveshogren,1
+3,2016-06-12 13:05:07 -0500,"/t/pdf,/t/networking,/t/openbsd",Bidirectional Forwarding Detection (BFD) implementation and support in OpenBSD,http://www.openbsd.org/papers/bsdcan2016-bfd.pdf,/u/mulander,10
+1,2016-06-12 14:52:04 -0500,/t/practices,The 100-Hour Rule,http://codingvc.com/the-100-hour-rule/,/u/mulander,14
+1,2016-06-12 08:14:41 -0500,"/t/debugging,/t/programming,/t/ruby",How to spy on a Ruby program,http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/,/u/drewda,15
+0,2016-06-13 05:02:37 -0500,/t/release,Krita: 2016 Kickstarter Postmortem,http://www.valdyas.org/fading/index.cgi/2016/06/11#kickstarter_2016_pm,/u/zem,1
+0,2016-06-12 14:34:28 -0500,"/t/networking,/t/openbsd",Opensource Routing,http://www.openbsd.org/papers/bsdcan2016-osr/mgp00001.html,/u/mulander,7
+2,2016-06-13 09:51:12 -0500,"/t/design,/t/practices",Really Good Emails,http://codepen.io/reallygoodemails/,/u/flyingfisch,0
+0,2016-06-12 16:27:24 -0500,"/t/show,/t/javascript",A JavaScript emulator of the Synthi a synthesizer,http://alexnisnevich.github.io/synthi-js/,/u/Hail_Spacecake,5
+0,2016-06-12 14:42:50 -0500,"/t/pdf,/t/openbsd",Implementation of Xen PVHVM drivers in OpenBSD,https://www.openbsd.org/papers/bsdcan2016-xen.pdf,/u/mulander,5
+0,2016-06-12 13:35:05 -0500,/t/programming,Authentication and Authorization: OpenID vs OAuth2 vs SAML,https://spin.atomicobject.com/2016/05/30/openid-oauth-saml/,/u/fkr,5
+11,2016-06-11 17:39:54 -0500,"/t/databases,/t/philosophy,/t/practices",Gay marriage: the database engineering perspective,https://qntm.org/gay,/u/friendlysock,21
+13,2016-06-11 10:29:44 -0500,/t/lisp,My Increasing Frustration With Clojure,http://www.ashtonkemerling.com/blog/2016/06/11/my-increasing-frustration-with-clojure,/u/tedu,42
+0,2016-06-12 10:05:38 -0500,"/t/video,/t/haskell","In Haskell, less is more",https://www.youtube.com/watch?v=NHRIV7UNiPU,/u/asthasr,4
+0,2016-06-12 07:35:05 -0500,"/t/games,/t/testing",Fast Iteration Tools in the Production of the Talos Principle,http://www.gdcvault.com/play/1022784/Fast-Iteration-Tools-in-the,/u/DRMacIver,5
+0,2016-06-12 08:19:40 -0500,"/t/assembly,/t/dotnet,/t/javascript,/t/programming",DaChip8JS - My C# Chip-8 Interpreter running in the browser using Bridge.NET,http://blog.dantup.com/2016/06/dachip8js-my-csharp-chip8-interpreter-running-in-the-browser/,/u/DanTup,2
+7,2016-06-11 19:48:07 -0500,/t/security,Online voting is a cybersecurity nightmare,http://www.dailydot.com/politics/online-voting-cybersecurity-election-fraud-hacking/,/u/adsouza,9
+0,2016-06-12 12:27:12 -0500,"/t/browsers,/t/security",PDFium Vulnerability in Google Chrome Web Browser,http://blog.talosintel.com/2016/06/pdfium.html,/u/mulander,2

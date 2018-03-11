@@ -1,25 +1,25 @@
-0,2014-10-08 19:07:32 -0500,"['/t/audio', '/t/law']",Audio of this morning's NSL hearing in [UNDER SEAL] v. Holder,http://www.ca9.uscourts.gov/media/view.php?pk_id=0000013407,/u/patrickod,1
-0,2014-10-07 13:05:35 -0500,['/t/rust'],Rust means never having to close a socket,http://blog.skylight.io/rust-means-never-having-to-close-a-socket/,/u/steveklabnik,31
-0,2014-10-08 14:36:24 -0500,"['/t/networking', '/t/practices']",TV programming is the single biggest thing holding Google Fiber back,http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/06/video-is-holding-google-fiber-back/,/u/journeysquid,1
-0,2014-10-07 13:50:57 -0500,"['/t/databases', '/t/programming']",SQLite 3.8.7 alpha is 50% faster than 3.7.17,http://www.mail-archive.com/sqlite-users@sqlite.org/msg86235.html,/u/journeysquid,24
-2,2014-10-07 21:08:01 -0500,"['/t/law', '/t/programming']",Finding a Video Poker Bug Made These Guys Rich - Then Vegas Made Them Pay,http://www.wired.com/2014/10/cheating-video-poker/,/u/journeysquid,5
-3,2014-10-07 06:21:36 -0500,"['/t/compsci', '/t/programming']",Seven deadly sins of talking about “types”,http://www.cl.cam.ac.uk/~srk31/blog/2014/10/07/,/u/BruceM,43
-9,2014-10-07 13:39:44 -0500,['/t/programming'],needle: ASCII-fied arrow notation,http://scrambledeggsontoast.github.io/2014/09/28/needle-announce/,/u/bitemyapp,10
-6,2014-10-07 10:18:06 -0500,"['/t/law', '/t/lisp', '/t/programming']",Shen Under BSD,http://www.shenlanguage.org/shenbsd.htm,/u/banjiewen,15
-1,2014-10-07 20:04:21 -0500,"['/t/perl', '/t/security', '/t/web']",New Class of Vulnerability in Perl Web Applications,http://blog.gerv.net/2014/10/new-class-of-vulnerability-in-perl-web-applications/,/u/jcs,5
-0,2014-10-08 07:56:02 -0500,"['/t/android', '/t/devops', '/t/mobile']",What are Myths in Mobile App Testing?,http://testdroid.com/testdroid/8237/top-5-myths-in-mobile-app-testing,/u/s2065274,1
-1,2014-10-07 17:22:22 -0500,['/t/security'],SPHINCS: practical stateless hash-based signatures,http://sphincs.cr.yp.to/index.html,/u/kyle,4
-11,2014-10-07 09:19:42 -0500,"['/t/programming', '/t/rant']",Object Oriented Programming is an expensive disaster which must end,http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end,/u/pushcx,15
-0,2014-10-07 12:43:11 -0500,['/t/security'],OpenSSL Privilege Separation Analysis,https://securityblog.redhat.com/2014/06/18/openssl-privilege-separation-analysis/,/u/jcs,4
-1,2014-10-06 21:36:04 -0500,"['/t/c', '/t/games', '/t/reversing']",Reverse Engineering Star Wars: Yoda Stories,http://www.zachtronics.com/yoda-stories/,/u/pushcx,16
-1,2014-10-07 13:38:23 -0500,['/t/culture'],The Computer Magazine Archives,https://archive.org/details/computermagazines,/u/zem,3
-0,2014-10-06 21:06:15 -0500,"['/t/javascript', '/t/web']",Learning much javascript from one line of code,http://arqex.com/939/learning-much-javascript-one-line-code,/u/pushcx,9
-0,2014-10-07 10:43:21 -0500,['/t/compsci'],Simulating a full adder in code,http://biesnecker.com/2014/10/07/simulating-a-full-adder/,/u/jm,1
-0,2014-10-07 09:16:13 -0500,"['/t/math', '/t/science']",Fermi's Piano Tuner,http://www.grc.nasa.gov/WWW/k-12/Numbers/Math/Mathematical_Thinking/fermis_piano_tuner.htm,/u/animatronic,1
-0,2014-10-06 12:17:44 -0500,"['/t/haskell', '/t/programming']",Intro to parsing with Parsec,https://github.com/JakeWheat/intro_to_parsing,/u/bitemyapp,15
-0,2014-10-07 06:28:06 -0500,"['/t/ios', '/t/swift']",Why iOS Developers Still Need to Know Objective-C,http://developer.telerik.com/featured/ios-developers-still-need-know-objective-c/,/u/remotesynth,1
-12,2014-10-06 11:12:01 -0500,"['/t/linux', '/t/rant']",Open source is quite a sick place to be in,https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd,/u/lawl,33
-3,2014-10-06 12:31:06 -0500,"['/t/law', '/t/mobile']",Marriott to Pay $600K to Resolve WiFi-Blocking Investigation,https://www.fcc.gov/document/marriott-pay-600k-resolve-wifi-blocking-investigation,/u/cnst,6
-30,2014-10-06 09:17:00 -0500,['/t/ask'],What are you working on this week?,/s/iroezb/what_are_you_working_on_this_week,/u/pushcx,22
-0,2014-10-06 12:17:28 -0500,"['/t/haskell', '/t/programming']",Haskell's Prelude is adding Foldable/Traversable,http://www.yesodweb.com/blog/2014/10/classy-base-prelude,/u/bitemyapp,7
-0,2014-10-06 12:16:00 -0500,['/t/programming'],Lens over tea,http://artyom.me/lens-over-tea-1,/u/bitemyapp,7
+0,2014-10-08 19:07:32 -0500,"/t/audio,/t/law",Audio of this morning's NSL hearing in [UNDER SEAL] v. Holder,http://www.ca9.uscourts.gov/media/view.php?pk_id=0000013407,/u/patrickod,1
+0,2014-10-07 13:05:35 -0500,/t/rust,Rust means never having to close a socket,http://blog.skylight.io/rust-means-never-having-to-close-a-socket/,/u/steveklabnik,31
+0,2014-10-08 14:36:24 -0500,"/t/networking,/t/practices",TV programming is the single biggest thing holding Google Fiber back,http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/06/video-is-holding-google-fiber-back/,/u/journeysquid,1
+0,2014-10-07 13:50:57 -0500,"/t/databases,/t/programming",SQLite 3.8.7 alpha is 50% faster than 3.7.17,http://www.mail-archive.com/sqlite-users@sqlite.org/msg86235.html,/u/journeysquid,24
+2,2014-10-07 21:08:01 -0500,"/t/law,/t/programming",Finding a Video Poker Bug Made These Guys Rich - Then Vegas Made Them Pay,http://www.wired.com/2014/10/cheating-video-poker/,/u/journeysquid,5
+3,2014-10-07 06:21:36 -0500,"/t/compsci,/t/programming",Seven deadly sins of talking about “types”,http://www.cl.cam.ac.uk/~srk31/blog/2014/10/07/,/u/BruceM,43
+9,2014-10-07 13:39:44 -0500,/t/programming,needle: ASCII-fied arrow notation,http://scrambledeggsontoast.github.io/2014/09/28/needle-announce/,/u/bitemyapp,10
+6,2014-10-07 10:18:06 -0500,"/t/law,/t/lisp,/t/programming",Shen Under BSD,http://www.shenlanguage.org/shenbsd.htm,/u/banjiewen,15
+1,2014-10-07 20:04:21 -0500,"/t/perl,/t/security,/t/web",New Class of Vulnerability in Perl Web Applications,http://blog.gerv.net/2014/10/new-class-of-vulnerability-in-perl-web-applications/,/u/jcs,5
+0,2014-10-08 07:56:02 -0500,"/t/android,/t/devops,/t/mobile",What are Myths in Mobile App Testing?,http://testdroid.com/testdroid/8237/top-5-myths-in-mobile-app-testing,/u/s2065274,1
+1,2014-10-07 17:22:22 -0500,/t/security,SPHINCS: practical stateless hash-based signatures,http://sphincs.cr.yp.to/index.html,/u/kyle,4
+11,2014-10-07 09:19:42 -0500,"/t/programming,/t/rant",Object Oriented Programming is an expensive disaster which must end,http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end,/u/pushcx,15
+0,2014-10-07 12:43:11 -0500,/t/security,OpenSSL Privilege Separation Analysis,https://securityblog.redhat.com/2014/06/18/openssl-privilege-separation-analysis/,/u/jcs,4
+1,2014-10-06 21:36:04 -0500,"/t/c,/t/games,/t/reversing",Reverse Engineering Star Wars: Yoda Stories,http://www.zachtronics.com/yoda-stories/,/u/pushcx,16
+1,2014-10-07 13:38:23 -0500,/t/culture,The Computer Magazine Archives,https://archive.org/details/computermagazines,/u/zem,3
+0,2014-10-06 21:06:15 -0500,"/t/javascript,/t/web",Learning much javascript from one line of code,http://arqex.com/939/learning-much-javascript-one-line-code,/u/pushcx,9
+0,2014-10-07 10:43:21 -0500,/t/compsci,Simulating a full adder in code,http://biesnecker.com/2014/10/07/simulating-a-full-adder/,/u/jm,1
+0,2014-10-07 09:16:13 -0500,"/t/math,/t/science",Fermi's Piano Tuner,http://www.grc.nasa.gov/WWW/k-12/Numbers/Math/Mathematical_Thinking/fermis_piano_tuner.htm,/u/animatronic,1
+0,2014-10-06 12:17:44 -0500,"/t/haskell,/t/programming",Intro to parsing with Parsec,https://github.com/JakeWheat/intro_to_parsing,/u/bitemyapp,15
+0,2014-10-07 06:28:06 -0500,"/t/ios,/t/swift",Why iOS Developers Still Need to Know Objective-C,http://developer.telerik.com/featured/ios-developers-still-need-know-objective-c/,/u/remotesynth,1
+12,2014-10-06 11:12:01 -0500,"/t/linux,/t/rant",Open source is quite a sick place to be in,https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd,/u/lawl,33
+3,2014-10-06 12:31:06 -0500,"/t/law,/t/mobile",Marriott to Pay $600K to Resolve WiFi-Blocking Investigation,https://www.fcc.gov/document/marriott-pay-600k-resolve-wifi-blocking-investigation,/u/cnst,6
+30,2014-10-06 09:17:00 -0500,/t/ask,What are you working on this week?,/s/iroezb/what_are_you_working_on_this_week,/u/pushcx,22
+0,2014-10-06 12:17:28 -0500,"/t/haskell,/t/programming",Haskell's Prelude is adding Foldable/Traversable,http://www.yesodweb.com/blog/2014/10/classy-base-prelude,/u/bitemyapp,7
+0,2014-10-06 12:16:00 -0500,/t/programming,Lens over tea,http://artyom.me/lens-over-tea-1,/u/bitemyapp,7

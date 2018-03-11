@@ -1,25 +1,25 @@
-1,2017-04-22 11:31:50 -0500,['/t/games'],Puerto Rico Evolver: Improved,http://www.tropiceuro.com/puerto-rico-evolver/,/u/pushcx,3
-0,2017-04-22 01:13:13 -0500,"['/t/programming', '/t/unix']",Oil Blog Retrospective #2,http://www.oilshell.org/blog/2017/04/21.html,/u/andyc,4
-0,2017-04-21 20:59:27 -0500,"['/t/video', '/t/graphics']",The glEnd() of Zelda: Automatic 3Dification of NES Games,https://www.cs.cmu.edu/~tom7/zelda/,/u/pushcx,11
-1,2017-04-21 21:00:50 -0500,"['/t/javascript', '/t/programming']",What can you code in 512 bytes or less? Canvas and some handy shortcuts provided.,https://codegolf.tk,/u/cantelope,4
-2,2017-04-21 16:16:50 -0500,"['/t/release', '/t/unix']",The Future of OmniOS,http://lists.omniti.com/pipermail/omnios-discuss/2017-April/008699.html,/u/sevan,10
-3,2017-04-21 08:11:24 -0500,"['/t/erlang', '/t/programming']",An adventure into learning a bit of erlang,http://dmathieu.com/articles/development/learning-erlang-sayagain/,/u/dmathieu,12
-2,2017-04-21 18:59:13 -0500,"['/t/video', '/t/hardware']","Watch an Apple Engineer Recreate a 2,000-Year-Old Computer Using Legos",https://www.fastcodesign.com/1662831/watch-an-apple-engineer-recreate-a-2000-year-old-computer-using-legos,/u/pushcx,7
-0,2017-04-22 07:42:52 -0500,"['/t/reversing', '/t/security']",DoublePulsar Initial SMB Backdoor Ring 0 Shellcode Analysis,https://zerosum0x0.blogspot.com/2017/04/doublepulsar-initial-smb-backdoor-ring.html,/u/mulander,2
-1,2017-04-21 21:01:43 -0500,['/t/databases'],The SQL layer in CockroachDB,https://github.com/cockroachdb/cockroach/blob/master/docs/tech-notes/sql.md,/u/pushcx,6
-0,2017-04-21 15:06:19 -0500,"['/t/assembly', '/t/programming']",A Mind Is Born,https://linusakesson.net/scene/a-mind-is-born/,/u/koehr,12
-6,2017-04-21 06:59:13 -0500,['/t/go'],Using Go dep as a project maintainer,https://medium.com/@mhausenblas/using-go-dep-as-a-project-maintainer-641d1f3006d7,/u/mhausenblas,7
-5,2017-04-21 10:54:05 -0500,"['/t/c', '/t/practices']",Metaprogramming is less fun in D,https://epi.github.io/2017/03/18/less_fun.html,/u/friendlysock,8
-0,2017-04-21 15:57:45 -0500,"['/t/video', '/t/programming']",Making Game Programming Less Terrible,https://www.youtube.com/watch?v=gWv_vUgbmug,/u/mikejsavage,9
-2,2017-04-21 05:34:18 -0500,"['/t/assembly', '/t/programming']",Raw Linux Threads via System Calls,http://nullprogram.com/blog/2015/05/15/,/u/varjag,21
-0,2017-04-21 09:11:32 -0500,"['/t/video', '/t/c', '/t/ml']",Stream Processing with Coroutines (from C to OCaml),https://pusher.com/sessions/meetup/the-realtime-guild/realtime-stream-processing-with-coroutines,/u/rizo,8
-1,2017-04-21 10:23:39 -0500,['/t/databases'],Say no to Venn diagrams when explaining JOINs,https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/,/u/unbalancedparentheses,9
-6,2017-04-21 06:20:22 -0500,['/t/programming'],In Praise of Drop-In Libraries,http://gpfault.net/posts/drop-in-libraries.txt.html,/u/calvin,10
-0,2017-04-21 10:29:39 -0500,"['/t/databases', '/t/nodejs']",Schemats v2.0 - TypeScript interface generator for Databases now supports MySQL!,https://github.com/SweetIQ/schemats,/u/xiamx,4
-0,2017-04-21 05:57:45 -0500,['/t/assembly'],ARM Releases Machine Readable Architecture Specification,https://alastairreid.github.io/alastairreid.github.io/ARM-v8a-xml-release/,/u/calvin,13
-5,2017-04-20 23:31:36 -0500,"['/t/hardware', '/t/philosophy', '/t/practices', '/t/science']",Neuralink and the Brain's Magical Future - Wait But Why,http://waitbutwhy.com/2017/04/neuralink.html,/u/bill,11
-0,2017-04-21 09:52:02 -0500,['/t/ml'],Type-driven generation of RESTful API bindings in OCaml,https://medium.com/@christophermcalpine/type-driven-generation-of-restful-api-bindings-in-ocaml-a48f970c9af8,/u/julienXX,6
-1,2017-04-21 17:40:52 -0500,['/t/java'],The State of the Module System,http://openjdk.java.net/projects/jigsaw/spec/sotms/,/u/pushcx,1
-12,2017-04-21 19:54:39 -0500,"['/t/art', '/t/culture', '/t/philosophy']",The absurdity of copyright,http://logosfoundation.org/copyleft/copyrigh.html,/u/friendlysock,3
-0,2017-04-21 14:07:20 -0500,['/t/vcs'],Mercurial for Visual Studio Code,https://marketplace.visualstudio.com/items?itemName=mrcrowl.hg,/u/JordiGH,3
-0,2017-04-21 01:54:02 -0500,"['/t/programming', '/t/unix']","Oil Blog: Switching to ""Twitter Mode""",http://www.oilshell.org/blog/2017/04/20.html,/u/andyc,7
+1,2017-04-22 11:31:50 -0500,/t/games,Puerto Rico Evolver: Improved,http://www.tropiceuro.com/puerto-rico-evolver/,/u/pushcx,3
+0,2017-04-22 01:13:13 -0500,"/t/programming,/t/unix",Oil Blog Retrospective #2,http://www.oilshell.org/blog/2017/04/21.html,/u/andyc,4
+0,2017-04-21 20:59:27 -0500,"/t/video,/t/graphics",The glEnd() of Zelda: Automatic 3Dification of NES Games,https://www.cs.cmu.edu/~tom7/zelda/,/u/pushcx,11
+1,2017-04-21 21:00:50 -0500,"/t/javascript,/t/programming",What can you code in 512 bytes or less? Canvas and some handy shortcuts provided.,https://codegolf.tk,/u/cantelope,4
+2,2017-04-21 16:16:50 -0500,"/t/release,/t/unix",The Future of OmniOS,http://lists.omniti.com/pipermail/omnios-discuss/2017-April/008699.html,/u/sevan,10
+3,2017-04-21 08:11:24 -0500,"/t/erlang,/t/programming",An adventure into learning a bit of erlang,http://dmathieu.com/articles/development/learning-erlang-sayagain/,/u/dmathieu,12
+2,2017-04-21 18:59:13 -0500,"/t/video,/t/hardware","Watch an Apple Engineer Recreate a 2,000-Year-Old Computer Using Legos",https://www.fastcodesign.com/1662831/watch-an-apple-engineer-recreate-a-2000-year-old-computer-using-legos,/u/pushcx,7
+0,2017-04-22 07:42:52 -0500,"/t/reversing,/t/security",DoublePulsar Initial SMB Backdoor Ring 0 Shellcode Analysis,https://zerosum0x0.blogspot.com/2017/04/doublepulsar-initial-smb-backdoor-ring.html,/u/mulander,2
+1,2017-04-21 21:01:43 -0500,/t/databases,The SQL layer in CockroachDB,https://github.com/cockroachdb/cockroach/blob/master/docs/tech-notes/sql.md,/u/pushcx,6
+0,2017-04-21 15:06:19 -0500,"/t/assembly,/t/programming",A Mind Is Born,https://linusakesson.net/scene/a-mind-is-born/,/u/koehr,12
+6,2017-04-21 06:59:13 -0500,/t/go,Using Go dep as a project maintainer,https://medium.com/@mhausenblas/using-go-dep-as-a-project-maintainer-641d1f3006d7,/u/mhausenblas,7
+5,2017-04-21 10:54:05 -0500,"/t/c,/t/practices",Metaprogramming is less fun in D,https://epi.github.io/2017/03/18/less_fun.html,/u/friendlysock,8
+0,2017-04-21 15:57:45 -0500,"/t/video,/t/programming",Making Game Programming Less Terrible,https://www.youtube.com/watch?v=gWv_vUgbmug,/u/mikejsavage,9
+2,2017-04-21 05:34:18 -0500,"/t/assembly,/t/programming",Raw Linux Threads via System Calls,http://nullprogram.com/blog/2015/05/15/,/u/varjag,21
+0,2017-04-21 09:11:32 -0500,"/t/video,/t/c,/t/ml",Stream Processing with Coroutines (from C to OCaml),https://pusher.com/sessions/meetup/the-realtime-guild/realtime-stream-processing-with-coroutines,/u/rizo,8
+1,2017-04-21 10:23:39 -0500,/t/databases,Say no to Venn diagrams when explaining JOINs,https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/,/u/unbalancedparentheses,9
+6,2017-04-21 06:20:22 -0500,/t/programming,In Praise of Drop-In Libraries,http://gpfault.net/posts/drop-in-libraries.txt.html,/u/calvin,10
+0,2017-04-21 10:29:39 -0500,"/t/databases,/t/nodejs",Schemats v2.0 - TypeScript interface generator for Databases now supports MySQL!,https://github.com/SweetIQ/schemats,/u/xiamx,4
+0,2017-04-21 05:57:45 -0500,/t/assembly,ARM Releases Machine Readable Architecture Specification,https://alastairreid.github.io/alastairreid.github.io/ARM-v8a-xml-release/,/u/calvin,13
+5,2017-04-20 23:31:36 -0500,"/t/hardware,/t/philosophy,/t/practices,/t/science",Neuralink and the Brain's Magical Future - Wait But Why,http://waitbutwhy.com/2017/04/neuralink.html,/u/bill,11
+0,2017-04-21 09:52:02 -0500,/t/ml,Type-driven generation of RESTful API bindings in OCaml,https://medium.com/@christophermcalpine/type-driven-generation-of-restful-api-bindings-in-ocaml-a48f970c9af8,/u/julienXX,6
+1,2017-04-21 17:40:52 -0500,/t/java,The State of the Module System,http://openjdk.java.net/projects/jigsaw/spec/sotms/,/u/pushcx,1
+12,2017-04-21 19:54:39 -0500,"/t/art,/t/culture,/t/philosophy",The absurdity of copyright,http://logosfoundation.org/copyleft/copyrigh.html,/u/friendlysock,3
+0,2017-04-21 14:07:20 -0500,/t/vcs,Mercurial for Visual Studio Code,https://marketplace.visualstudio.com/items?itemName=mrcrowl.hg,/u/JordiGH,3
+0,2017-04-21 01:54:02 -0500,"/t/programming,/t/unix","Oil Blog: Switching to ""Twitter Mode""",http://www.oilshell.org/blog/2017/04/20.html,/u/andyc,7

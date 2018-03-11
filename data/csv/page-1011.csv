@@ -1,25 +1,25 @@
-22,2015-10-05 09:25:34 -0500,"['/t/culture', '/t/linux']",Closing a door,http://sarah.thesharps.us/2015/10/05/closing-a-door/,/u/antifuchs,37
-0,2015-10-05 17:05:24 -0500,"['/t/unix', '/t/virtualization']",How To Set Up A Small SmartOS Server To Do Big Things,http://timboudreau.com/blog/smartos/read,/u/mjn,6
-1,2015-10-05 13:51:53 -0500,['/t/programming'],The MySpace Worm that Changed the Internet Forever,http://motherboard.vice.com/read/the-myspace-worm-that-changed-the-internet-forever,/u/kb,6
-14,2015-10-04 15:15:39 -0500,['/t/privacy'],Cost of Privacy,http://homing-on-code.blogspot.com/2015/10/cost-of-privacy.html,/u/mulander,22
-0,2015-10-05 17:04:11 -0500,"['/t/pdf', '/t/rant', '/t/unix']",The Rise and Fall of the Operating System,http://www.fixup.fi/misc/usenix-login-2015/login_oct15_02_kantee.pdf,/u/gandro,8
-2,2015-10-05 09:31:16 -0500,['/t/python'],Jupyter themer – Apply custom CSS styling to your jupyter notebooks,https://github.com/transcranial/jupyter-themer,/u/av,8
-0,2015-10-05 10:33:32 -0500,"['/t/video', '/t/programming']",A half-adder in Super Mario Maker,https://www.youtube.com/watch?v=2oAEx9-7zdg,/u/steveklabnik,7
-0,2015-10-05 15:30:09 -0500,"['/t/video', '/t/freebsd']",vBSDcon 2015 Videos,http://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml,/u/trousers,3
-0,2015-10-05 12:02:37 -0500,['/t/devops'],Why DevOps needs Dataflow Analytics,http://www.jut.io/blog/2015/why-devops-needs-dataflow-analytics,/u/PJ,4
-0,2015-10-05 18:47:10 -0500,['/t/math'],Formulas for Bayesian A/B Testing,http://www.evanmiller.org/bayesian-ab-testing.html,/u/pushcx,1
-1,2015-10-05 06:09:19 -0500,['/t/dotnet'],Essential C# 6 Features You Need to Know!,http://developer.telerik.com/featured/essential-c-6-features-you-need-to-know/,/u/remotesynth,5
-9,2015-10-04 19:16:41 -0500,"['/t/security', '/t/web']",Capturing users' ssh keys,https://blog.goeswhere.com/2015/10/ssh-key-capture/,/u/blake,9
-0,2015-10-04 11:31:28 -0500,['/t/erlang'],"The stack we choose: Erlang, SmartOS, Clojure",https://blog.project-fifo.net/the-stack-we-choose-erlang-smartos-clojure/,/u/Licenser,18
-0,2015-10-05 07:26:23 -0500,"['/t/pdf', '/t/graphics']",Live Texturing of Augmented Reality Characters from Color Drawings,http://www.disneyresearch.com/wp-content/uploads/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings-Paper.pdf,/u/flyingfisch,3
-4,2015-10-04 07:03:27 -0500,"['/t/openbsd', '/t/programming']",Hoarding and reuse,http://www.tedunangst.com/flak/post/hoarding-and-reuse,/u/calvin,23
-0,2015-10-04 13:59:27 -0500,"['/t/slides', '/t/openbsd']",OpenBSD EuroBSDcon 2015 presentations,http://www.openbsd.org/papers/,/u/journeysquid,13
-1,2015-10-04 18:45:03 -0500,"['/t/math', '/t/programming', '/t/python']","Probability, Paradox, and the Reasonable Person Principle",http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb,/u/pushcx,5
-0,2015-10-04 18:42:17 -0500,"['/t/games', '/t/practices', '/t/release']","Game Maker, Security, and Freedom",http://www.fortressofdoors.com/untitled/,/u/pushcx,5
-14,2015-10-03 18:45:20 -0500,"['/t/api', '/t/c', '/t/openbsd', '/t/security']",string interfaces,http://www.tedunangst.com/flak/post/string-interfaces,/u/mulander,24
-2,2015-10-03 20:15:52 -0500,"['/t/distributed', '/t/release', '/t/web']",An Introduction to Microservices,https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/,/u/aaron,7
-2,2015-10-03 20:19:46 -0500,['/t/hardware'],History of Computers: A Brief Timeline,http://www.livescience.com/20718-computer-history.html,/u/aaron,5
-1,2015-10-03 11:32:17 -0500,['/t/unix'],The History of the Design of Unix's Find Command,http://doc.cat-v.org/unix/find-history,/u/rubenbarroso,19
-0,2015-10-03 20:33:56 -0500,"['/t/haskell', '/t/javascript', '/t/web']",Haste: a Haskell to Javascript transpiler,https://github.com/valderman/haste-compiler,/u/aaron,7
-0,2015-10-03 15:32:03 -0500,"['/t/databases', '/t/scaling']","AtlasDB, a transactional layer for Distributed Key-Value Stores, is now open source",https://github.com/palantir/atlasdb,/u/noelle,8
-4,2015-10-02 21:35:46 -0500,['/t/practices'],Remote-First vs. Remote-Friendly,http://zachholman.com/posts/remote-first/,/u/pushcx,38
+22,2015-10-05 09:25:34 -0500,"/t/culture,/t/linux",Closing a door,http://sarah.thesharps.us/2015/10/05/closing-a-door/,/u/antifuchs,37
+0,2015-10-05 17:05:24 -0500,"/t/unix,/t/virtualization",How To Set Up A Small SmartOS Server To Do Big Things,http://timboudreau.com/blog/smartos/read,/u/mjn,6
+1,2015-10-05 13:51:53 -0500,/t/programming,The MySpace Worm that Changed the Internet Forever,http://motherboard.vice.com/read/the-myspace-worm-that-changed-the-internet-forever,/u/kb,6
+14,2015-10-04 15:15:39 -0500,/t/privacy,Cost of Privacy,http://homing-on-code.blogspot.com/2015/10/cost-of-privacy.html,/u/mulander,22
+0,2015-10-05 17:04:11 -0500,"/t/pdf,/t/rant,/t/unix",The Rise and Fall of the Operating System,http://www.fixup.fi/misc/usenix-login-2015/login_oct15_02_kantee.pdf,/u/gandro,8
+2,2015-10-05 09:31:16 -0500,/t/python,Jupyter themer – Apply custom CSS styling to your jupyter notebooks,https://github.com/transcranial/jupyter-themer,/u/av,8
+0,2015-10-05 10:33:32 -0500,"/t/video,/t/programming",A half-adder in Super Mario Maker,https://www.youtube.com/watch?v=2oAEx9-7zdg,/u/steveklabnik,7
+0,2015-10-05 15:30:09 -0500,"/t/video,/t/freebsd",vBSDcon 2015 Videos,http://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml,/u/trousers,3
+0,2015-10-05 12:02:37 -0500,/t/devops,Why DevOps needs Dataflow Analytics,http://www.jut.io/blog/2015/why-devops-needs-dataflow-analytics,/u/PJ,4
+0,2015-10-05 18:47:10 -0500,/t/math,Formulas for Bayesian A/B Testing,http://www.evanmiller.org/bayesian-ab-testing.html,/u/pushcx,1
+1,2015-10-05 06:09:19 -0500,/t/dotnet,Essential C# 6 Features You Need to Know!,http://developer.telerik.com/featured/essential-c-6-features-you-need-to-know/,/u/remotesynth,5
+9,2015-10-04 19:16:41 -0500,"/t/security,/t/web",Capturing users' ssh keys,https://blog.goeswhere.com/2015/10/ssh-key-capture/,/u/blake,9
+0,2015-10-04 11:31:28 -0500,/t/erlang,"The stack we choose: Erlang, SmartOS, Clojure",https://blog.project-fifo.net/the-stack-we-choose-erlang-smartos-clojure/,/u/Licenser,18
+0,2015-10-05 07:26:23 -0500,"/t/pdf,/t/graphics",Live Texturing of Augmented Reality Characters from Color Drawings,http://www.disneyresearch.com/wp-content/uploads/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings-Paper.pdf,/u/flyingfisch,3
+4,2015-10-04 07:03:27 -0500,"/t/openbsd,/t/programming",Hoarding and reuse,http://www.tedunangst.com/flak/post/hoarding-and-reuse,/u/calvin,23
+0,2015-10-04 13:59:27 -0500,"/t/slides,/t/openbsd",OpenBSD EuroBSDcon 2015 presentations,http://www.openbsd.org/papers/,/u/journeysquid,13
+1,2015-10-04 18:45:03 -0500,"/t/math,/t/programming,/t/python","Probability, Paradox, and the Reasonable Person Principle",http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb,/u/pushcx,5
+0,2015-10-04 18:42:17 -0500,"/t/games,/t/practices,/t/release","Game Maker, Security, and Freedom",http://www.fortressofdoors.com/untitled/,/u/pushcx,5
+14,2015-10-03 18:45:20 -0500,"/t/api,/t/c,/t/openbsd,/t/security",string interfaces,http://www.tedunangst.com/flak/post/string-interfaces,/u/mulander,24
+2,2015-10-03 20:15:52 -0500,"/t/distributed,/t/release,/t/web",An Introduction to Microservices,https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/,/u/aaron,7
+2,2015-10-03 20:19:46 -0500,/t/hardware,History of Computers: A Brief Timeline,http://www.livescience.com/20718-computer-history.html,/u/aaron,5
+1,2015-10-03 11:32:17 -0500,/t/unix,The History of the Design of Unix's Find Command,http://doc.cat-v.org/unix/find-history,/u/rubenbarroso,19
+0,2015-10-03 20:33:56 -0500,"/t/haskell,/t/javascript,/t/web",Haste: a Haskell to Javascript transpiler,https://github.com/valderman/haste-compiler,/u/aaron,7
+0,2015-10-03 15:32:03 -0500,"/t/databases,/t/scaling","AtlasDB, a transactional layer for Distributed Key-Value Stores, is now open source",https://github.com/palantir/atlasdb,/u/noelle,8
+4,2015-10-02 21:35:46 -0500,/t/practices,Remote-First vs. Remote-Friendly,http://zachholman.com/posts/remote-first/,/u/pushcx,38

@@ -1,25 +1,25 @@
-4,2017-12-28 14:12:22 -0600,"['/t/video', '/t/freebsd']",34C3 - May contain DTraces of FreeBSD,https://www.youtube.com/watch?v=x1wmzxRXOEo,/u/reezer,2
-0,2017-12-28 21:13:27 -0600,['/t/practices'],Crafting Better Code Reviews,https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312,/u/calvin,1
-0,2017-12-28 17:03:27 -0600,"['/t/video', '/t/practices']","Agile Methods: The Good, the Hype and the Ugly",https://www.youtube.com/watch?v=ffkIQrq-m34,/u/hwayne,2
-0,2017-12-28 06:43:42 -0600,['/t/person'],Looking back on 2017,https://wiki.nikitavoloboev.xyz/looking-back/2017/2017.html,/u/nikivi,3
-0,2017-12-28 10:51:26 -0600,"['/t/pdf', '/t/law', '/t/reversing', '/t/security']",Identifying Open-Source License Violation and 1-day Security Risk at Large Scale,https://www.cc.gatech.edu/~rduan9/publications/osspolice.pdf,/u/pushcx,3
-1,2017-12-27 18:59:52 -0600,['/t/debugging'],A perf cheat sheet,https://jvns.ca/blog/2017/12/27/a-perf-cheat-sheet/,/u/calvin,16
-0,2017-12-28 16:17:54 -0600,['/t/culture'],A Sneak-Peek Inside The Southeast Asian Web Community,https://www.smashingmagazine.com/2017/12/on-the-road-with-mozilla/,/u/flyingfisch,2
-0,2017-12-27 22:34:02 -0600,"['/t/art', '/t/c']",xelflut: Multiplayer canvas using a simple text-based protocol,https://github.com/cbdevnet/xelflut,/u/cbdev,5
-0,2017-12-27 22:50:39 -0600,['/t/ruby'],Whats new in Ruby 2.5,https://blog.redpanthers.co/whats-new-ruby-2-5/,/u/coderhs,9
-0,2017-12-28 08:37:32 -0600,"['/t/book', '/t/practices']",Effective Engineer - Notes,https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f,/u/hoopla,2
-0,2017-12-28 11:26:32 -0600,"['/t/ios', '/t/mobile']",Geofencing in iOS with Objective-C (2015),https://spin.atomicobject.com/2015/07/16/geofencing-ios-objectivec/,/u/mulander,1
-12,2017-12-27 08:23:34 -0600,"['/t/go', '/t/linux']",Fork-like behaviour in Go,https://blog.0xfb.me/2017/12/27/fork-like-behaviour-in-go/,/u/fjb,9
-1,2017-12-28 00:03:39 -0600,"['/t/ai', '/t/compsci']",My Favorite Deep Learning Papers of 2017,http://cachestocaches.com/2017/12/favorite-deep-learning-2017/,/u/av,4
-0,2017-12-28 03:26:49 -0600,"['/t/devops', '/t/testing']",Testing Ansible Playbooks With Vagrant,https://carlchenet.com/testing-ansible-playbooks-with-vagrant/,/u/chaica,3
-0,2017-12-28 09:24:58 -0600,"['/t/video', '/t/ai', '/t/compilers']",Auto-tuning Compiler Transformations with Machine Learning,https://www.youtube.com/watch?v=x7iLb-znxgU,/u/unbalancedparentheses,1
-0,2017-12-27 19:21:02 -0600,['/t/plt'],Simple Forth (2004),https://web.archive.org/web/20080612234512/http://www.albany.net/~hello/simple.htm,/u/zge,7
-3,2017-12-27 04:48:50 -0600,"['/t/video', '/t/event']",34C3 live streaming,https://streaming.media.ccc.de/34c3,/u/fs111,25
-0,2017-12-27 10:05:51 -0600,"['/t/linux', '/t/vcs']","Gittup, a linux distro on top of git",http://gittup.org/gittup/,/u/av,14
-0,2017-12-28 00:45:31 -0600,"['/t/pdf', '/t/science']",Quantum Computing in the NISQ Era and Beyond,http://www.theory.caltech.edu/~preskill/talks/Q2B_2017_Keynote_Preskill.pdf,/u/sanxiyn,2
-0,2017-12-27 12:55:23 -0600,['/t/databases'],Building real-time analytics dashboards with Postgres & Citus,https://www.citusdata.com/blog/2017/12/27/real-time-analytics-dashboards-with-citus/,/u/craigkerstiens,4
-1,2017-12-27 17:48:46 -0600,"['/t/pdf', '/t/browsers', '/t/privacy']",Passive Fingerprinting of HTTP/2 Clients,https://www.blackhat.com/docs/eu-17/materials/eu-17-Shuster-Passive-Fingerprinting-Of-HTTP2-Clients-wp.pdf,/u/pushcx,3
-0,2017-12-27 11:21:36 -0600,"['/t/c', '/t/linux', '/t/networking', '/t/programming']","ixy: Simple, User-Space, Packet Processing for Educational Purposes",https://github.com/emmericp/ixy,/u/nickpsecurity,7
-13,2017-12-26 08:39:50 -0600,"['/t/show', '/t/hardware']",How I Built My Own Keyboard,https://medium.com/@jesperht/what-i-learned-while-building-my-own-keyboard-8b3bbc7ac3c3,/u/jesper,39
-6,2017-12-26 21:20:29 -0600,"['/t/design', '/t/release']",darktable 2.4.0 released,https://www.darktable.org/2017/12/darktable-240-released/,/u/av,21
-2,2017-12-27 02:02:22 -0600,"['/t/c', '/t/c++', '/t/practices']","Go Under The Hood, Get Your Hands Dirty, Protect Your Memory At All Costs",https://www.zeroequalsfalse.press/2017/12/27/memsafety/,/u/friendlysock,11
+4,2017-12-28 14:12:22 -0600,"/t/video,/t/freebsd",34C3 - May contain DTraces of FreeBSD,https://www.youtube.com/watch?v=x1wmzxRXOEo,/u/reezer,2
+0,2017-12-28 21:13:27 -0600,/t/practices,Crafting Better Code Reviews,https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312,/u/calvin,1
+0,2017-12-28 17:03:27 -0600,"/t/video,/t/practices","Agile Methods: The Good, the Hype and the Ugly",https://www.youtube.com/watch?v=ffkIQrq-m34,/u/hwayne,2
+0,2017-12-28 06:43:42 -0600,/t/person,Looking back on 2017,https://wiki.nikitavoloboev.xyz/looking-back/2017/2017.html,/u/nikivi,3
+0,2017-12-28 10:51:26 -0600,"/t/pdf,/t/law,/t/reversing,/t/security",Identifying Open-Source License Violation and 1-day Security Risk at Large Scale,https://www.cc.gatech.edu/~rduan9/publications/osspolice.pdf,/u/pushcx,3
+1,2017-12-27 18:59:52 -0600,/t/debugging,A perf cheat sheet,https://jvns.ca/blog/2017/12/27/a-perf-cheat-sheet/,/u/calvin,16
+0,2017-12-28 16:17:54 -0600,/t/culture,A Sneak-Peek Inside The Southeast Asian Web Community,https://www.smashingmagazine.com/2017/12/on-the-road-with-mozilla/,/u/flyingfisch,2
+0,2017-12-27 22:34:02 -0600,"/t/art,/t/c",xelflut: Multiplayer canvas using a simple text-based protocol,https://github.com/cbdevnet/xelflut,/u/cbdev,5
+0,2017-12-27 22:50:39 -0600,/t/ruby,Whats new in Ruby 2.5,https://blog.redpanthers.co/whats-new-ruby-2-5/,/u/coderhs,9
+0,2017-12-28 08:37:32 -0600,"/t/book,/t/practices",Effective Engineer - Notes,https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f,/u/hoopla,2
+0,2017-12-28 11:26:32 -0600,"/t/ios,/t/mobile",Geofencing in iOS with Objective-C (2015),https://spin.atomicobject.com/2015/07/16/geofencing-ios-objectivec/,/u/mulander,1
+12,2017-12-27 08:23:34 -0600,"/t/go,/t/linux",Fork-like behaviour in Go,https://blog.0xfb.me/2017/12/27/fork-like-behaviour-in-go/,/u/fjb,9
+1,2017-12-28 00:03:39 -0600,"/t/ai,/t/compsci",My Favorite Deep Learning Papers of 2017,http://cachestocaches.com/2017/12/favorite-deep-learning-2017/,/u/av,4
+0,2017-12-28 03:26:49 -0600,"/t/devops,/t/testing",Testing Ansible Playbooks With Vagrant,https://carlchenet.com/testing-ansible-playbooks-with-vagrant/,/u/chaica,3
+0,2017-12-28 09:24:58 -0600,"/t/video,/t/ai,/t/compilers",Auto-tuning Compiler Transformations with Machine Learning,https://www.youtube.com/watch?v=x7iLb-znxgU,/u/unbalancedparentheses,1
+0,2017-12-27 19:21:02 -0600,/t/plt,Simple Forth (2004),https://web.archive.org/web/20080612234512/http://www.albany.net/~hello/simple.htm,/u/zge,7
+3,2017-12-27 04:48:50 -0600,"/t/video,/t/event",34C3 live streaming,https://streaming.media.ccc.de/34c3,/u/fs111,25
+0,2017-12-27 10:05:51 -0600,"/t/linux,/t/vcs","Gittup, a linux distro on top of git",http://gittup.org/gittup/,/u/av,14
+0,2017-12-28 00:45:31 -0600,"/t/pdf,/t/science",Quantum Computing in the NISQ Era and Beyond,http://www.theory.caltech.edu/~preskill/talks/Q2B_2017_Keynote_Preskill.pdf,/u/sanxiyn,2
+0,2017-12-27 12:55:23 -0600,/t/databases,Building real-time analytics dashboards with Postgres & Citus,https://www.citusdata.com/blog/2017/12/27/real-time-analytics-dashboards-with-citus/,/u/craigkerstiens,4
+1,2017-12-27 17:48:46 -0600,"/t/pdf,/t/browsers,/t/privacy",Passive Fingerprinting of HTTP/2 Clients,https://www.blackhat.com/docs/eu-17/materials/eu-17-Shuster-Passive-Fingerprinting-Of-HTTP2-Clients-wp.pdf,/u/pushcx,3
+0,2017-12-27 11:21:36 -0600,"/t/c,/t/linux,/t/networking,/t/programming","ixy: Simple, User-Space, Packet Processing for Educational Purposes",https://github.com/emmericp/ixy,/u/nickpsecurity,7
+13,2017-12-26 08:39:50 -0600,"/t/show,/t/hardware",How I Built My Own Keyboard,https://medium.com/@jesperht/what-i-learned-while-building-my-own-keyboard-8b3bbc7ac3c3,/u/jesper,39
+6,2017-12-26 21:20:29 -0600,"/t/design,/t/release",darktable 2.4.0 released,https://www.darktable.org/2017/12/darktable-240-released/,/u/av,21
+2,2017-12-27 02:02:22 -0600,"/t/c,/t/c++,/t/practices","Go Under The Hood, Get Your Hands Dirty, Protect Your Memory At All Costs",https://www.zeroequalsfalse.press/2017/12/27/memsafety/,/u/friendlysock,11

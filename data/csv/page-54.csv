@@ -1,25 +1,25 @@
-3,2018-01-19 13:12:52 -0600,"['/t/meta', '/t/satire']",Study Reveals Lobsters Feel Pain And Get Off On It Like The Kinky Little Perverts They Are,https://www.theonion.com/study-reveals-lobsters-feel-pain-and-get-off-on-it-like-1822237552,/u/ngoldbaum,11
-1,2018-01-18 09:05:57 -0600,"['/t/assembly', '/t/c']",Building an Operating System for the Rasberry Pi,https://jsandler18.github.io/,/u/jsandler18,32
-0,2018-01-18 20:09:07 -0600,"['/t/css', '/t/release', '/t/web']",Bootstrap 4,http://blog.getbootstrap.com/2018/01/18/bootstrap-4/,/u/calvin,18
-10,2018-01-18 07:14:14 -0600,"['/t/performance', '/t/web']","Just because your site isn't for emerging markets, doesn't excuse you from web performance optimisation",https://www.twnsnd.com/posts/nothing_excuses_you_from_web_performance_optimisation.html,/u/ryantownsend,17
-0,2018-01-19 06:55:26 -0600,['/t/databases'],"Announcing CrateDB 2.3 - SQL, Security, Doc, and Admin improvements",https://crate.io/a/announcing-cratedb-2-3/,/u/nslater,4
-3,2018-01-18 18:31:32 -0600,"['/t/games', '/t/practices']",The cost of games,https://www.raphkoster.com/2018/01/17/the-cost-of-games/,/u/mjn,11
-0,2018-01-19 08:05:15 -0600,"['/t/crypto', '/t/cryptocurrencies']",Bulletproofs: Short Proofs for Confidential Transactions,https://crypto.stanford.edu/bulletproofs/,/u/sanxiyn,3
-0,2018-01-18 21:02:10 -0600,"['/t/browsers', '/t/historical']",Ancient Browser-Wars History: MD5-Hashed Posts Declassified,http://robert.ocallahan.org/2018/01/ancient-browser-wars-history-md5-hashed.html,/u/ahal,11
-0,2018-01-19 13:20:14 -0600,['/t/css'],Free “Responsive Web Design Fundamentals” course from Jason Pamental,https://thegymnasium.com/courses/course-v1:GYM+109+0/about,/u/innovati,1
-0,2018-01-19 06:19:56 -0600,"['/t/linux', '/t/reversing', '/t/security']",Linux heap exploitation intro series – (bonus) printf might be leaking!,https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-bonus-printf-might-be-leaking/,/u/calvin,3
-1,2018-01-18 13:08:22 -0600,"['/t/video', '/t/games']",How a Laser-Shot Disk Defeats Hackers & Pirates,https://www.youtube.com/watch?v=Qaq9vlfoGnA,/u/willl,19
-4,2018-01-19 08:34:09 -0600,['/t/web'],AMP’ing Up The AMP Framework,https://medium.com/making-internets/amping-up-the-amp-framework-f7037332eac5,/u/adsouza,1
-3,2018-01-18 05:24:55 -0600,['/t/devops'],My Raspberry Pi Kubernetes Cluster,https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/,/u/ChrisShort,21
-0,2018-01-18 18:11:22 -0600,['/t/rust'],Rust and QML: a timely example,https://www.vandenoever.info/blog/2017/09/10/time_for_rust_and_qml.html,/u/zem,12
-0,2018-01-18 10:58:00 -0600,"['/t/debugging', '/t/rust', '/t/web']",Oxidizing Source Maps with Rust and WebAssembly,https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/,/u/fitzgen,13
-0,2018-01-18 14:38:29 -0600,"['/t/practices', '/t/ruby']",Upgrading a Rails application incrementally,http://www.recursion.org/incremental-rails-upgrade/,/u/lof,7
-0,2018-01-19 08:55:03 -0600,"['/t/pdf', '/t/slides', '/t/compsci', '/t/hardware', '/t/linux']",Bela: an embedded platform for audio and sensor processing,https://www.geeklan.co.uk/files/oshug63-bela.pdf,/u/sevan,1
-13,2018-01-18 12:44:33 -0600,"['/t/law', '/t/practices', '/t/privacy']",GDPR: Threat or Opportunity,https://blog.grakn.ai/gdpr-threat-or-opportunity-4cdcc8802f22,/u/SamuelPB,4
-1,2018-01-18 07:36:37 -0600,"['/t/compsci', '/t/programming']",My Favorite Algorithm: Linear Time Median Finding,https://rcoh.me/posts/linear-time-median-finding/,/u/calvin,23
-6,2018-01-18 11:35:15 -0600,"['/t/hardware', '/t/math', '/t/programming']",Inventor Claims to Have Solved Floating Point Error Problem,https://www.hpcwire.com/2018/01/17/inventor-claims-solved-floating-point-error-problem/,/u/mgartner,7
-0,2018-01-18 16:22:24 -0600,"['/t/go', '/t/programming']",5 More Gotchas and Tricks of Defer in Go — Part III,https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1,/u/blackflicker,4
-0,2018-01-18 19:47:08 -0600,['/t/scaling'],"Scaling Kubernetes to 2,500 Nodes",https://blog.openai.com/scaling-kubernetes-to-2500-nodes/,/u/adsouza,5
-0,2018-01-19 05:32:04 -0600,"['/t/devops', '/t/practices']",How To Establish a High Severity Incident Management Program,https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/,/u/fcbsd,1
-1,2018-01-18 00:50:31 -0600,"['/t/education', '/t/games', '/t/science']",Nintendo Labo: Switch with the fun of DIY creations,https://labo.nintendo.com/,/u/r2gf,37
-0,2018-01-18 18:06:44 -0600,"['/t/audio', '/t/devops', '/t/programming']",Serverless on Kubernetes,https://soundcloud.com/serverlesspodcast/episode-5-serverless-on-kubernetes,/u/adjohn,2
+3,2018-01-19 13:12:52 -0600,"/t/meta,/t/satire",Study Reveals Lobsters Feel Pain And Get Off On It Like The Kinky Little Perverts They Are,https://www.theonion.com/study-reveals-lobsters-feel-pain-and-get-off-on-it-like-1822237552,/u/ngoldbaum,11
+1,2018-01-18 09:05:57 -0600,"/t/assembly,/t/c",Building an Operating System for the Rasberry Pi,https://jsandler18.github.io/,/u/jsandler18,32
+0,2018-01-18 20:09:07 -0600,"/t/css,/t/release,/t/web",Bootstrap 4,http://blog.getbootstrap.com/2018/01/18/bootstrap-4/,/u/calvin,18
+10,2018-01-18 07:14:14 -0600,"/t/performance,/t/web","Just because your site isn't for emerging markets, doesn't excuse you from web performance optimisation",https://www.twnsnd.com/posts/nothing_excuses_you_from_web_performance_optimisation.html,/u/ryantownsend,17
+0,2018-01-19 06:55:26 -0600,/t/databases,"Announcing CrateDB 2.3 - SQL, Security, Doc, and Admin improvements",https://crate.io/a/announcing-cratedb-2-3/,/u/nslater,4
+3,2018-01-18 18:31:32 -0600,"/t/games,/t/practices",The cost of games,https://www.raphkoster.com/2018/01/17/the-cost-of-games/,/u/mjn,11
+0,2018-01-19 08:05:15 -0600,"/t/crypto,/t/cryptocurrencies",Bulletproofs: Short Proofs for Confidential Transactions,https://crypto.stanford.edu/bulletproofs/,/u/sanxiyn,3
+0,2018-01-18 21:02:10 -0600,"/t/browsers,/t/historical",Ancient Browser-Wars History: MD5-Hashed Posts Declassified,http://robert.ocallahan.org/2018/01/ancient-browser-wars-history-md5-hashed.html,/u/ahal,11
+0,2018-01-19 13:20:14 -0600,/t/css,Free “Responsive Web Design Fundamentals” course from Jason Pamental,https://thegymnasium.com/courses/course-v1:GYM+109+0/about,/u/innovati,1
+0,2018-01-19 06:19:56 -0600,"/t/linux,/t/reversing,/t/security",Linux heap exploitation intro series – (bonus) printf might be leaking!,https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-bonus-printf-might-be-leaking/,/u/calvin,3
+1,2018-01-18 13:08:22 -0600,"/t/video,/t/games",How a Laser-Shot Disk Defeats Hackers & Pirates,https://www.youtube.com/watch?v=Qaq9vlfoGnA,/u/willl,19
+4,2018-01-19 08:34:09 -0600,/t/web,AMP’ing Up The AMP Framework,https://medium.com/making-internets/amping-up-the-amp-framework-f7037332eac5,/u/adsouza,1
+3,2018-01-18 05:24:55 -0600,/t/devops,My Raspberry Pi Kubernetes Cluster,https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/,/u/ChrisShort,21
+0,2018-01-18 18:11:22 -0600,/t/rust,Rust and QML: a timely example,https://www.vandenoever.info/blog/2017/09/10/time_for_rust_and_qml.html,/u/zem,12
+0,2018-01-18 10:58:00 -0600,"/t/debugging,/t/rust,/t/web",Oxidizing Source Maps with Rust and WebAssembly,https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/,/u/fitzgen,13
+0,2018-01-18 14:38:29 -0600,"/t/practices,/t/ruby",Upgrading a Rails application incrementally,http://www.recursion.org/incremental-rails-upgrade/,/u/lof,7
+0,2018-01-19 08:55:03 -0600,"/t/pdf,/t/slides,/t/compsci,/t/hardware,/t/linux",Bela: an embedded platform for audio and sensor processing,https://www.geeklan.co.uk/files/oshug63-bela.pdf,/u/sevan,1
+13,2018-01-18 12:44:33 -0600,"/t/law,/t/practices,/t/privacy",GDPR: Threat or Opportunity,https://blog.grakn.ai/gdpr-threat-or-opportunity-4cdcc8802f22,/u/SamuelPB,4
+1,2018-01-18 07:36:37 -0600,"/t/compsci,/t/programming",My Favorite Algorithm: Linear Time Median Finding,https://rcoh.me/posts/linear-time-median-finding/,/u/calvin,23
+6,2018-01-18 11:35:15 -0600,"/t/hardware,/t/math,/t/programming",Inventor Claims to Have Solved Floating Point Error Problem,https://www.hpcwire.com/2018/01/17/inventor-claims-solved-floating-point-error-problem/,/u/mgartner,7
+0,2018-01-18 16:22:24 -0600,"/t/go,/t/programming",5 More Gotchas and Tricks of Defer in Go — Part III,https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1,/u/blackflicker,4
+0,2018-01-18 19:47:08 -0600,/t/scaling,"Scaling Kubernetes to 2,500 Nodes",https://blog.openai.com/scaling-kubernetes-to-2500-nodes/,/u/adsouza,5
+0,2018-01-19 05:32:04 -0600,"/t/devops,/t/practices",How To Establish a High Severity Incident Management Program,https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/,/u/fcbsd,1
+1,2018-01-18 00:50:31 -0600,"/t/education,/t/games,/t/science",Nintendo Labo: Switch with the fun of DIY creations,https://labo.nintendo.com/,/u/r2gf,37
+0,2018-01-18 18:06:44 -0600,"/t/audio,/t/devops,/t/programming",Serverless on Kubernetes,https://soundcloud.com/serverlesspodcast/episode-5-serverless-on-kubernetes,/u/adjohn,2

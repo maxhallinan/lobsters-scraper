@@ -1,25 +1,25 @@
-0,2016-04-13 09:26:59 -0500,"['/t/satire', '/t/security']",NoToken Bug,http://notoken.pl/,/u/mulander,4
-0,2016-04-13 00:38:40 -0500,"['/t/art', '/t/lisp', '/t/release']","Afterglow, environment for algorithmic light shows in Clojure",https://github.com/brunchboy/afterglow,/u/mjn,6
-5,2016-04-12 07:01:36 -0500,"['/t/c', '/t/compsci', '/t/math']",The Best Algorithm No One Knows About,https://getkerf.wordpress.com/2016/03/30/the-best-algorithm-no-one-knows-about/,/u/silentbicycle,24
-1,2016-04-13 14:16:12 -0500,['/t/culture'],How I Explained Heartbleed To My Therapist,https://medium.com/message/how-i-explained-heartbleed-to-my-therapist-4c1dbcbe1099,/u/sustrik,2
-0,2016-04-13 12:49:34 -0500,"['/t/culture', '/t/debugging']",Performance Culture,http://joeduffyblog.com/2016/04/10/performance-culture/,/u/fitzgen,2
-2,2016-04-12 18:16:09 -0500,"['/t/compilers', '/t/devops']",Blur: shell-based build system,https://github.com/danfuzz/blur,/u/friendlysock,8
-0,2016-04-12 17:00:20 -0500,"['/t/python', '/t/release', '/t/testing']",Monorail (Chromium's issue tracker) now open-source,https://groups.google.com/a/chromium.org/d/msg/infra-dev/OotYpVzgnBw/fAfheRp9BQAJ,/u/stip,11
-0,2016-04-12 09:12:57 -0500,['/t/distributed'],Remote Procedure Call,https://christophermeiklejohn.com/pl/2016/04/12/rpc.html,/u/cmeiklejohn,12
-0,2016-04-12 11:04:58 -0500,['/t/design'],Pairing Fonts,http://typeburrito.com/2016/03/18/stop-feeling-dumb-about-pairing-fonts.html,/u/pushcx,17
-2,2016-04-12 07:52:18 -0500,"['/t/games', '/t/reversing']",Deceiving Blizzard Warden,https://hackmag.com/uncategorized/deceiving-blizzard-warden/,/u/mulander,16
-0,2016-04-13 05:42:24 -0500,['/t/hardware'],NTP-Server with Raspberry Pi and Sure Electronics GPS Eval board,http://www.dl8rds.de/index.php/NTP-Server_with_Raspberry_Pi_and_Sure_Electronics_GPS_Eval_board,/u/enplotz,1
-1,2016-04-12 13:44:49 -0500,"['/t/api', '/t/lua', '/t/programming']","Dialogue's Guiding Principles, or a Healthy Hatred of OOP",https://bythehilt.com/articles/dialogues-guiding-principles-or-a-healthy-hatred-of-oop,/u/geocar,7
-6,2016-04-11 22:18:51 -0500,['/t/practices'],National Weather Service will stop using all caps in its forecasts,http://www.noaa.gov/national-weather-service-will-stop-using-all-caps-its-forecasts,/u/pushcx,23
-0,2016-04-12 17:27:30 -0500,"['/t/pdf', '/t/practices']",Building Robust Systems by Gerald Jay Sussman (2007),https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf,/u/bsima,5
-4,2016-04-11 22:33:17 -0500,"['/t/go', '/t/unix']","Brian Kernighan on the typesetting of ""The Go Programming Language"" book",https://rkrishnan.org/posts/2016-03-07-how-is-gopl-typeset.html,/u/vfoley,33
-0,2016-04-12 11:10:31 -0500,"['/t/security', '/t/web']",GitHub’s CSP journey,http://githubengineering.com/githubs-csp-journey/,/u/jcs,10
-0,2016-04-12 11:01:34 -0500,"['/t/elixir', '/t/programming']",The Most Object-Oriented Language,http://tech.noredink.com/post/142689001488/the-most-object-oriented-language,/u/pushcx,10
-0,2016-04-13 03:09:23 -0500,"['/t/programming', '/t/testing']",Newton’s 3 Laws of Software Craftsmanship,http://chrismm.com/blog/newtons-3-laws-software-craftsmanship/,/u/innerspirit,0
-1,2016-04-12 15:38:50 -0500,"['/t/video', '/t/programming', '/t/ruby']",CQRS And You,https://www.youtube.com/watch?v=vfWEkv_X3Ac,/u/pushcx,3
-2,2016-04-12 15:19:34 -0500,"['/t/c', '/t/compilers', '/t/debugging']",Which Clang Warning Is Generating This Message?,http://fuckingclangwarnings.com,/u/friendlysock,2
-0,2016-04-12 22:52:00 -0500,"['/t/video', '/t/hardware']",Cybernetics for the Masses,https://media.ccc.de/v/27c3-4003-en-cybernetics_for_the_masses#video&t=1059,/u/friendlysock,1
-0,2016-04-12 17:12:00 -0500,"['/t/programming', '/t/python', '/t/unix', '/t/windows']",A quick console ruler in Python,http://jugad2.blogspot.com/2016/04/a-quick-console-ruler-in-python.html,/u/vasudevram,1
-0,2016-04-12 17:22:52 -0500,['/t/science'],Determining galactic distances via machine learning,http://www.skytree.net/2016/04/12/sloan-digital-sky-survey-and-galaxies/,/u/zem,2
-2,2016-04-12 02:16:37 -0500,"['/t/assembly', '/t/hardware']",SPMD Is Not Intel’s Cup Of Tea,http://www.joshbarczak.com/blog/?p=1120,/u/mjn,11
-0,2016-04-12 16:06:58 -0500,"['/t/culture', '/t/practices']",The XY Problem (2015),http://xyproblem.info/,/u/cnst,5
+0,2016-04-13 09:26:59 -0500,"/t/satire,/t/security",NoToken Bug,http://notoken.pl/,/u/mulander,4
+0,2016-04-13 00:38:40 -0500,"/t/art,/t/lisp,/t/release","Afterglow, environment for algorithmic light shows in Clojure",https://github.com/brunchboy/afterglow,/u/mjn,6
+5,2016-04-12 07:01:36 -0500,"/t/c,/t/compsci,/t/math",The Best Algorithm No One Knows About,https://getkerf.wordpress.com/2016/03/30/the-best-algorithm-no-one-knows-about/,/u/silentbicycle,24
+1,2016-04-13 14:16:12 -0500,/t/culture,How I Explained Heartbleed To My Therapist,https://medium.com/message/how-i-explained-heartbleed-to-my-therapist-4c1dbcbe1099,/u/sustrik,2
+0,2016-04-13 12:49:34 -0500,"/t/culture,/t/debugging",Performance Culture,http://joeduffyblog.com/2016/04/10/performance-culture/,/u/fitzgen,2
+2,2016-04-12 18:16:09 -0500,"/t/compilers,/t/devops",Blur: shell-based build system,https://github.com/danfuzz/blur,/u/friendlysock,8
+0,2016-04-12 17:00:20 -0500,"/t/python,/t/release,/t/testing",Monorail (Chromium's issue tracker) now open-source,https://groups.google.com/a/chromium.org/d/msg/infra-dev/OotYpVzgnBw/fAfheRp9BQAJ,/u/stip,11
+0,2016-04-12 09:12:57 -0500,/t/distributed,Remote Procedure Call,https://christophermeiklejohn.com/pl/2016/04/12/rpc.html,/u/cmeiklejohn,12
+0,2016-04-12 11:04:58 -0500,/t/design,Pairing Fonts,http://typeburrito.com/2016/03/18/stop-feeling-dumb-about-pairing-fonts.html,/u/pushcx,17
+2,2016-04-12 07:52:18 -0500,"/t/games,/t/reversing",Deceiving Blizzard Warden,https://hackmag.com/uncategorized/deceiving-blizzard-warden/,/u/mulander,16
+0,2016-04-13 05:42:24 -0500,/t/hardware,NTP-Server with Raspberry Pi and Sure Electronics GPS Eval board,http://www.dl8rds.de/index.php/NTP-Server_with_Raspberry_Pi_and_Sure_Electronics_GPS_Eval_board,/u/enplotz,1
+1,2016-04-12 13:44:49 -0500,"/t/api,/t/lua,/t/programming","Dialogue's Guiding Principles, or a Healthy Hatred of OOP",https://bythehilt.com/articles/dialogues-guiding-principles-or-a-healthy-hatred-of-oop,/u/geocar,7
+6,2016-04-11 22:18:51 -0500,/t/practices,National Weather Service will stop using all caps in its forecasts,http://www.noaa.gov/national-weather-service-will-stop-using-all-caps-its-forecasts,/u/pushcx,23
+0,2016-04-12 17:27:30 -0500,"/t/pdf,/t/practices",Building Robust Systems by Gerald Jay Sussman (2007),https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf,/u/bsima,5
+4,2016-04-11 22:33:17 -0500,"/t/go,/t/unix","Brian Kernighan on the typesetting of ""The Go Programming Language"" book",https://rkrishnan.org/posts/2016-03-07-how-is-gopl-typeset.html,/u/vfoley,33
+0,2016-04-12 11:10:31 -0500,"/t/security,/t/web",GitHub’s CSP journey,http://githubengineering.com/githubs-csp-journey/,/u/jcs,10
+0,2016-04-12 11:01:34 -0500,"/t/elixir,/t/programming",The Most Object-Oriented Language,http://tech.noredink.com/post/142689001488/the-most-object-oriented-language,/u/pushcx,10
+0,2016-04-13 03:09:23 -0500,"/t/programming,/t/testing",Newton’s 3 Laws of Software Craftsmanship,http://chrismm.com/blog/newtons-3-laws-software-craftsmanship/,/u/innerspirit,0
+1,2016-04-12 15:38:50 -0500,"/t/video,/t/programming,/t/ruby",CQRS And You,https://www.youtube.com/watch?v=vfWEkv_X3Ac,/u/pushcx,3
+2,2016-04-12 15:19:34 -0500,"/t/c,/t/compilers,/t/debugging",Which Clang Warning Is Generating This Message?,http://fuckingclangwarnings.com,/u/friendlysock,2
+0,2016-04-12 22:52:00 -0500,"/t/video,/t/hardware",Cybernetics for the Masses,https://media.ccc.de/v/27c3-4003-en-cybernetics_for_the_masses#video&t=1059,/u/friendlysock,1
+0,2016-04-12 17:12:00 -0500,"/t/programming,/t/python,/t/unix,/t/windows",A quick console ruler in Python,http://jugad2.blogspot.com/2016/04/a-quick-console-ruler-in-python.html,/u/vasudevram,1
+0,2016-04-12 17:22:52 -0500,/t/science,Determining galactic distances via machine learning,http://www.skytree.net/2016/04/12/sloan-digital-sky-survey-and-galaxies/,/u/zem,2
+2,2016-04-12 02:16:37 -0500,"/t/assembly,/t/hardware",SPMD Is Not Intel’s Cup Of Tea,http://www.joshbarczak.com/blog/?p=1120,/u/mjn,11
+0,2016-04-12 16:06:58 -0500,"/t/culture,/t/practices",The XY Problem (2015),http://xyproblem.info/,/u/cnst,5

@@ -1,25 +1,25 @@
-0,2016-09-22 10:54:06 -0500,"['/t/security', '/t/windows']",AMSI: How Windows 10 Plans to Stop Script-Based Attacks and How Well It Does It,http://www.labofapenetrationtester.com/2016/09/amsi.html,/u/calvin,2
-26,2016-09-21 09:21:07 -0500,"['/t/emacs', '/t/programming']","Possibly a clone of Emacs, written in Forth",https://github.com/larsbrinkhoff/fmacs,/u/dwc,20
-0,2016-09-21 19:26:31 -0500,"['/t/lisp', '/t/programming']",Beautiful Racket: how to make your own pro­gram­ming lan­guages with Racket—and why,http://beautifulracket.com/,/u/apg,12
-0,2016-09-21 19:47:51 -0500,"['/t/go', '/t/programming', '/t/vcs']",Quickhook: a new Git hook manager,https://precompile.com/2016/09/21/quickhook-git-hook-manager.html,/u/dirk,6
-12,2016-09-21 06:24:44 -0500,"['/t/hardware', '/t/linux', '/t/windows']",Lenovo shipping Ultrabooks that prevent installation of Linux,https://www.reddit.com/r/linux/comments/53ri0m/warning_microsoft_signature_pc_program_now/,/u/mjturner,22
-1,2016-09-21 09:13:09 -0500,"['/t/mac', '/t/release', '/t/ruby']",Homebrew 1.0.0,http://brew.sh/2016/09/21/homebrew-1.0.0/,/u/av,27
-12,2016-09-21 07:57:31 -0500,"['/t/compilers', '/t/compsci', '/t/programming']",Fine-grained Language Composition,http://tratt.net/laurie/blog/entries/fine_grained_language_composition.html,/u/edd,21
-6,2016-09-21 09:37:35 -0500,"['/t/databases', '/t/devops']",Safe and unsafe operations for high volume PostgreSQL,http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql,/u/pushcx,15
-0,2016-09-22 01:20:37 -0500,['/t/windows'],user mode file system library for windows,https://github.com/dokan-dev/dokany,/u/lei,4
-1,2016-09-21 18:06:58 -0500,['/t/graphics'],What every coder should know about gamma,http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/,/u/pushcx,8
-4,2016-09-22 13:04:10 -0500,"['/t/culture', '/t/practices']",Hackathons and refugees: we can do better.,https://www.theengineroom.org/hackathons-and-refugees-we-can-do-better/,/u/james,1
-0,2016-09-22 06:54:09 -0500,"['/t/linux', '/t/virtualization']",OCI is Building a Way for Kubernetes to Run Containers Without Docker - The New Stack,http://thenewstack.io/oci-building-way-kubernetes-run-containers-without-docker/,/u/lei,1
-0,2016-09-21 15:05:07 -0500,['/t/security'],Backdooring an AWS account,https://danielgrzelak.com/backdooring-an-aws-account-da007d36f8f9,/u/soulcutter,9
-0,2016-09-22 12:05:23 -0500,"['/t/browsers', '/t/security']",Postmortem of the Firefox (and Tor Browser) Certificate Pinning Vulnerability Rabbit Hole,https://hackernoon.com/postmortem-of-the-firefox-and-tor-certificate-pinning-vulnerability-rabbit-hole-bd507c1403b4,/u/pushcx,0
-0,2016-09-21 09:43:42 -0500,"['/t/linux', '/t/mac', '/t/virtualization']",Running Mac OS X 10.11.6 El Capitan on KVM + QEMU,https://github.com/kholia/OSX-KVM,/u/mjturner,13
-1,2016-09-21 15:47:40 -0500,"['/t/culture', '/t/philosophy']",On Technology Obscurity,http://www.naughtycomputer.uk/on_technology_obscurity.html,/u/Xylon,4
-2,2016-09-21 16:12:11 -0500,"['/t/distributed', '/t/programming', '/t/release']",Osso - A modern standard for event-oriented data,http://www.osso-project.org/,/u/esammer,2
-0,2016-09-21 14:14:20 -0500,"['/t/elixir', '/t/erlang', '/t/event']",BeamBA is Coming!,https://medium.com/@elbrujohalcon/beamba-is-coming-2ee05f9fc83,/u/elbrujohalcon,2
-2,2016-09-21 13:32:23 -0500,['/t/security'],Rising tides of spam: increases in global spam volume in 2016,http://blog.talosintel.com/2016/09/the-rising-tides-of-spam.html,/u/f2f,2
-0,2016-09-21 09:08:41 -0500,"['/t/haskell', '/t/programming']",Authentication in the Servant Haskell web framework using cookies,https://www.stackbuilders.com/tutorials/haskell/servant-auth/,/u/jpvillaisaza,6
-0,2016-09-21 01:24:32 -0500,"['/t/databases', '/t/erlang']",CouchDB 2.0 released,https://blog.couchdb.org/2016/09/20/2-0/,/u/skade,14
-0,2016-09-21 02:38:53 -0500,['/t/javascript'],You SHOULD Learn Vanilla JavaScript Before JS Frameworks,https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks,/u/Dawny33,12
-0,2016-09-21 03:58:16 -0500,"['/t/hardware', '/t/linux']",Linux on an 8-bit micro,https://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit,/u/zem,10
-21,2016-09-20 18:58:48 -0500,"['/t/mac', '/t/release']",macOS Sierra Released,https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12,/u/bttf,13
-6,2016-09-20 18:47:43 -0500,"['/t/law', '/t/privacy']",Why Snowden won't be pardoned,http://blog.erratasec.com/2016/09/why-snowden-wont-be-pardoned.html,/u/calvin,12
+0,2016-09-22 10:54:06 -0500,"/t/security,/t/windows",AMSI: How Windows 10 Plans to Stop Script-Based Attacks and How Well It Does It,http://www.labofapenetrationtester.com/2016/09/amsi.html,/u/calvin,2
+26,2016-09-21 09:21:07 -0500,"/t/emacs,/t/programming","Possibly a clone of Emacs, written in Forth",https://github.com/larsbrinkhoff/fmacs,/u/dwc,20
+0,2016-09-21 19:26:31 -0500,"/t/lisp,/t/programming",Beautiful Racket: how to make your own pro­gram­ming lan­guages with Racket—and why,http://beautifulracket.com/,/u/apg,12
+0,2016-09-21 19:47:51 -0500,"/t/go,/t/programming,/t/vcs",Quickhook: a new Git hook manager,https://precompile.com/2016/09/21/quickhook-git-hook-manager.html,/u/dirk,6
+12,2016-09-21 06:24:44 -0500,"/t/hardware,/t/linux,/t/windows",Lenovo shipping Ultrabooks that prevent installation of Linux,https://www.reddit.com/r/linux/comments/53ri0m/warning_microsoft_signature_pc_program_now/,/u/mjturner,22
+1,2016-09-21 09:13:09 -0500,"/t/mac,/t/release,/t/ruby",Homebrew 1.0.0,http://brew.sh/2016/09/21/homebrew-1.0.0/,/u/av,27
+12,2016-09-21 07:57:31 -0500,"/t/compilers,/t/compsci,/t/programming",Fine-grained Language Composition,http://tratt.net/laurie/blog/entries/fine_grained_language_composition.html,/u/edd,21
+6,2016-09-21 09:37:35 -0500,"/t/databases,/t/devops",Safe and unsafe operations for high volume PostgreSQL,http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql,/u/pushcx,15
+0,2016-09-22 01:20:37 -0500,/t/windows,user mode file system library for windows,https://github.com/dokan-dev/dokany,/u/lei,4
+1,2016-09-21 18:06:58 -0500,/t/graphics,What every coder should know about gamma,http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/,/u/pushcx,8
+4,2016-09-22 13:04:10 -0500,"/t/culture,/t/practices",Hackathons and refugees: we can do better.,https://www.theengineroom.org/hackathons-and-refugees-we-can-do-better/,/u/james,1
+0,2016-09-22 06:54:09 -0500,"/t/linux,/t/virtualization",OCI is Building a Way for Kubernetes to Run Containers Without Docker - The New Stack,http://thenewstack.io/oci-building-way-kubernetes-run-containers-without-docker/,/u/lei,1
+0,2016-09-21 15:05:07 -0500,/t/security,Backdooring an AWS account,https://danielgrzelak.com/backdooring-an-aws-account-da007d36f8f9,/u/soulcutter,9
+0,2016-09-22 12:05:23 -0500,"/t/browsers,/t/security",Postmortem of the Firefox (and Tor Browser) Certificate Pinning Vulnerability Rabbit Hole,https://hackernoon.com/postmortem-of-the-firefox-and-tor-certificate-pinning-vulnerability-rabbit-hole-bd507c1403b4,/u/pushcx,0
+0,2016-09-21 09:43:42 -0500,"/t/linux,/t/mac,/t/virtualization",Running Mac OS X 10.11.6 El Capitan on KVM + QEMU,https://github.com/kholia/OSX-KVM,/u/mjturner,13
+1,2016-09-21 15:47:40 -0500,"/t/culture,/t/philosophy",On Technology Obscurity,http://www.naughtycomputer.uk/on_technology_obscurity.html,/u/Xylon,4
+2,2016-09-21 16:12:11 -0500,"/t/distributed,/t/programming,/t/release",Osso - A modern standard for event-oriented data,http://www.osso-project.org/,/u/esammer,2
+0,2016-09-21 14:14:20 -0500,"/t/elixir,/t/erlang,/t/event",BeamBA is Coming!,https://medium.com/@elbrujohalcon/beamba-is-coming-2ee05f9fc83,/u/elbrujohalcon,2
+2,2016-09-21 13:32:23 -0500,/t/security,Rising tides of spam: increases in global spam volume in 2016,http://blog.talosintel.com/2016/09/the-rising-tides-of-spam.html,/u/f2f,2
+0,2016-09-21 09:08:41 -0500,"/t/haskell,/t/programming",Authentication in the Servant Haskell web framework using cookies,https://www.stackbuilders.com/tutorials/haskell/servant-auth/,/u/jpvillaisaza,6
+0,2016-09-21 01:24:32 -0500,"/t/databases,/t/erlang",CouchDB 2.0 released,https://blog.couchdb.org/2016/09/20/2-0/,/u/skade,14
+0,2016-09-21 02:38:53 -0500,/t/javascript,You SHOULD Learn Vanilla JavaScript Before JS Frameworks,https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks,/u/Dawny33,12
+0,2016-09-21 03:58:16 -0500,"/t/hardware,/t/linux",Linux on an 8-bit micro,https://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit,/u/zem,10
+21,2016-09-20 18:58:48 -0500,"/t/mac,/t/release",macOS Sierra Released,https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12,/u/bttf,13
+6,2016-09-20 18:47:43 -0500,"/t/law,/t/privacy",Why Snowden won't be pardoned,http://blog.erratasec.com/2016/09/why-snowden-wont-be-pardoned.html,/u/calvin,12

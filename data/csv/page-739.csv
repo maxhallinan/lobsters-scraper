@@ -1,25 +1,25 @@
-3,2016-06-27 18:18:57 -0500,"['/t/compsci', '/t/programming']","2020 Salon: Future of Programming, Next Meeting",http://2020salon.blogspot.com/#nextmeeting,/u/david927,1
-0,2016-06-28 11:11:42 -0500,"['/t/video', '/t/culture']",Shenzhen: Reinventing 35 years of innovation (Part 4) | Future Cities | WIRED,https://www.youtube.com/watch?v=8JIvEE9sDdQ,/u/tca,1
-28,2016-06-27 05:22:23 -0500,['/t/ask'],What are you working on this week?,/s/w0b2kr/what_are_you_working_on_this_week,/u/caius,12
-9,2016-06-27 12:18:13 -0500,"['/t/dotnet', '/t/release']",.NET Core 1.0 released,https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0//dotnet/2016/06/27/announcing-net-core-1-0/,/u/calvin,5
-0,2016-06-27 17:49:29 -0500,"['/t/historical', '/t/programming']","""Hello world"" in the BCPL language on the Xerox Alto simulator",http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html,/u/sevan,5
-2,2016-06-27 12:48:40 -0500,"['/t/pdf', '/t/hardware', '/t/privacy']",Automobile Driver Fingerprinting,http://www.autosec.org/pubs/fingerprint.pdf,/u/pushcx,3
-1,2016-06-27 07:13:20 -0500,['/t/programming'],Minoca OS Documentation,http://www.minocacorp.com/documentation/,/u/calvin,9
-6,2016-06-27 05:15:46 -0500,"['/t/design', '/t/games', '/t/rant']",Graphical fidelity is ruining video games,https://eev.ee/blog/2016/06/22/graphical-fidelity-is-ruining-video-games/,/u/calvin,19
-0,2016-06-26 21:23:24 -0500,"['/t/databases', '/t/visualization']",Analyzing the Graph of Thrones with Neo4j,http://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/,/u/lyonwj,13
-0,2016-06-27 15:36:50 -0500,['/t/security'],EU-FOSSA pilot project: consultation on the choice of software for a sample code review,https://ec.europa.eu/eusurvey/runner/EU-FOSSA-software-choice,/u/stsp,2
-5,2016-06-26 10:39:12 -0500,['/t/security'],The “Cobra Effect” that is disabling paste on password fields (2014),https://www.troyhunt.com/the-cobra-effect-that-is-disabling/,/u/pushcx,37
-2,2016-06-27 01:13:33 -0500,"['/t/python', '/t/release']",Python 3.5.2,https://www.python.org/downloads/release/python-352/,/u/tf,9
-0,2016-06-28 00:40:42 -0500,"['/t/javascript', '/t/web']",Creating an AJAX todo-list without writing JavaScript - Spark Framework Tutorials,http://sparktutorials.github.io/2016/06/26/ajax-without-writing-javascript.html,/u/carsongross,0
-0,2016-06-27 08:28:09 -0500,"['/t/networking', '/t/release']",digitalocean/netbox - IP address management (IPAM) and data center infrastructure management (DCIM),https://github.com/digitalocean/netbox,/u/sevan,4
-0,2016-06-27 15:42:25 -0500,['/t/devops'],5 minutes dabbling with Docker Distributed Application Bundles (DAB),https://medium.com/@LachlanEvenson/5-minutes-dabbling-with-docker-distributed-application-bundles-dab-60f2dca3829#.4mdomfadi,/u/lachlanevenson,0
-0,2016-06-26 20:07:31 -0500,"['/t/hardware', '/t/historical']",Future Domain Story,http://jack.hoa.org/FDCStory/FDCindex.php,/u/sevan,9
-1,2016-06-27 15:14:12 -0500,"['/t/api', '/t/devops', '/t/networking', '/t/web']","Iliad's Online.net launch C14, the new cloud archive service for 0,002€ per GB",https://www.online.net/en/c14,/u/cnst,0
-0,2016-06-27 04:33:04 -0500,['/t/virtualization'],oVirt 4.0 is released!,https://www.ovirt.org/blog/2016/06/ovirt-40-release/,/u/fkr,2
-4,2016-06-26 11:03:05 -0500,['/t/javascript'],Real-world RPC with RabbitMQ and Node.JS,https://facundoolano.wordpress.com/2016/06/26/real-world-rpc-with-rabbitmq-and-node-js/,/u/facundoolano,4
-1,2016-06-26 11:28:04 -0500,"['/t/law', '/t/security']",Rule 41 Revision Massively Expands Governments Hacking Powers,http://archive.is/PUdDh,/u/rain1,11
-0,2016-06-26 17:35:38 -0500,"['/t/linux', '/t/security']",RSA signatures with TPM2.0 and OpenSSL,https://dguerriblog.wordpress.com/2016/03/03/tpm2-0-and-openssl-on-linux-2/,/u/voidzero,3
-0,2016-06-26 11:36:10 -0500,"['/t/games', '/t/javascript', '/t/programming']",HTML5 Pong in 20min with C#/Bridge.NET,http://blog.dantup.com/2016/06/html5-pong-in-20min-with-csharp-bridgedotnet/,/u/DanTup,3
-0,2016-06-26 04:15:52 -0500,['/t/programming'],"Meet Zuul, a project gating system",https://devup.co/zuul-a-project-gating-system-from-openstack-e3dd577a4e44,/u/tiwarinitish86,7
-9,2016-06-25 23:12:39 -0500,"['/t/c', '/t/compilers', '/t/practices']",C++ Frequently Questioned Answers,http://yosefk.com/c++fqa/,/u/friendlysock,11
-0,2016-06-25 17:10:45 -0500,"['/t/video', '/t/historical']",Divide by Zero on the Friden STW10 Mechanical Calculator,https://www.youtube.com/watch?v=7Kd3R_RlXgc,/u/tca,28
+3,2016-06-27 18:18:57 -0500,"/t/compsci,/t/programming","2020 Salon: Future of Programming, Next Meeting",http://2020salon.blogspot.com/#nextmeeting,/u/david927,1
+0,2016-06-28 11:11:42 -0500,"/t/video,/t/culture",Shenzhen: Reinventing 35 years of innovation (Part 4) | Future Cities | WIRED,https://www.youtube.com/watch?v=8JIvEE9sDdQ,/u/tca,1
+28,2016-06-27 05:22:23 -0500,/t/ask,What are you working on this week?,/s/w0b2kr/what_are_you_working_on_this_week,/u/caius,12
+9,2016-06-27 12:18:13 -0500,"/t/dotnet,/t/release",.NET Core 1.0 released,https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0//dotnet/2016/06/27/announcing-net-core-1-0/,/u/calvin,5
+0,2016-06-27 17:49:29 -0500,"/t/historical,/t/programming","""Hello world"" in the BCPL language on the Xerox Alto simulator",http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html,/u/sevan,5
+2,2016-06-27 12:48:40 -0500,"/t/pdf,/t/hardware,/t/privacy",Automobile Driver Fingerprinting,http://www.autosec.org/pubs/fingerprint.pdf,/u/pushcx,3
+1,2016-06-27 07:13:20 -0500,/t/programming,Minoca OS Documentation,http://www.minocacorp.com/documentation/,/u/calvin,9
+6,2016-06-27 05:15:46 -0500,"/t/design,/t/games,/t/rant",Graphical fidelity is ruining video games,https://eev.ee/blog/2016/06/22/graphical-fidelity-is-ruining-video-games/,/u/calvin,19
+0,2016-06-26 21:23:24 -0500,"/t/databases,/t/visualization",Analyzing the Graph of Thrones with Neo4j,http://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/,/u/lyonwj,13
+0,2016-06-27 15:36:50 -0500,/t/security,EU-FOSSA pilot project: consultation on the choice of software for a sample code review,https://ec.europa.eu/eusurvey/runner/EU-FOSSA-software-choice,/u/stsp,2
+5,2016-06-26 10:39:12 -0500,/t/security,The “Cobra Effect” that is disabling paste on password fields (2014),https://www.troyhunt.com/the-cobra-effect-that-is-disabling/,/u/pushcx,37
+2,2016-06-27 01:13:33 -0500,"/t/python,/t/release",Python 3.5.2,https://www.python.org/downloads/release/python-352/,/u/tf,9
+0,2016-06-28 00:40:42 -0500,"/t/javascript,/t/web",Creating an AJAX todo-list without writing JavaScript - Spark Framework Tutorials,http://sparktutorials.github.io/2016/06/26/ajax-without-writing-javascript.html,/u/carsongross,0
+0,2016-06-27 08:28:09 -0500,"/t/networking,/t/release",digitalocean/netbox - IP address management (IPAM) and data center infrastructure management (DCIM),https://github.com/digitalocean/netbox,/u/sevan,4
+0,2016-06-27 15:42:25 -0500,/t/devops,5 minutes dabbling with Docker Distributed Application Bundles (DAB),https://medium.com/@LachlanEvenson/5-minutes-dabbling-with-docker-distributed-application-bundles-dab-60f2dca3829#.4mdomfadi,/u/lachlanevenson,0
+0,2016-06-26 20:07:31 -0500,"/t/hardware,/t/historical",Future Domain Story,http://jack.hoa.org/FDCStory/FDCindex.php,/u/sevan,9
+1,2016-06-27 15:14:12 -0500,"/t/api,/t/devops,/t/networking,/t/web","Iliad's Online.net launch C14, the new cloud archive service for 0,002€ per GB",https://www.online.net/en/c14,/u/cnst,0
+0,2016-06-27 04:33:04 -0500,/t/virtualization,oVirt 4.0 is released!,https://www.ovirt.org/blog/2016/06/ovirt-40-release/,/u/fkr,2
+4,2016-06-26 11:03:05 -0500,/t/javascript,Real-world RPC with RabbitMQ and Node.JS,https://facundoolano.wordpress.com/2016/06/26/real-world-rpc-with-rabbitmq-and-node-js/,/u/facundoolano,4
+1,2016-06-26 11:28:04 -0500,"/t/law,/t/security",Rule 41 Revision Massively Expands Governments Hacking Powers,http://archive.is/PUdDh,/u/rain1,11
+0,2016-06-26 17:35:38 -0500,"/t/linux,/t/security",RSA signatures with TPM2.0 and OpenSSL,https://dguerriblog.wordpress.com/2016/03/03/tpm2-0-and-openssl-on-linux-2/,/u/voidzero,3
+0,2016-06-26 11:36:10 -0500,"/t/games,/t/javascript,/t/programming",HTML5 Pong in 20min with C#/Bridge.NET,http://blog.dantup.com/2016/06/html5-pong-in-20min-with-csharp-bridgedotnet/,/u/DanTup,3
+0,2016-06-26 04:15:52 -0500,/t/programming,"Meet Zuul, a project gating system",https://devup.co/zuul-a-project-gating-system-from-openstack-e3dd577a4e44,/u/tiwarinitish86,7
+9,2016-06-25 23:12:39 -0500,"/t/c,/t/compilers,/t/practices",C++ Frequently Questioned Answers,http://yosefk.com/c++fqa/,/u/friendlysock,11
+0,2016-06-25 17:10:45 -0500,"/t/video,/t/historical",Divide by Zero on the Friden STW10 Mechanical Calculator,https://www.youtube.com/watch?v=7Kd3R_RlXgc,/u/tca,28

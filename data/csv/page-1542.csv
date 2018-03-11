@@ -1,25 +1,25 @@
-1,2012-09-10 16:15:38 -0500,"['/t/linux', '/t/openbsd']",A port of the OpenBSD userland to Linux,https://github.com/chneukirchen/obase,/u/jcs,4
-0,2012-09-10 20:25:01 -0500,['/t/ruby'],Python's method decorators for ruby,https://github.com/michaelfairley/method_decorators,/u/mf,3
-2,2012-09-10 06:44:18 -0500,['/t/databases'],PostgreSQL 9.2 released,http://www.postgresql.org/about/news/1415/,/u/pkhamre,11
-0,2012-09-11 06:56:18 -0500,['/t/person'],Email overload? Its email OCD!,http://blog.grexit.com/your-email-overload-is-due-to-your-email-ocd/,/u/anurag,0
-2,2012-09-10 12:19:14 -0500,"['/t/javascript', '/t/web']",jQuery Fundamentals: A facelift & update for the jQuery learning resource,http://jqfundamentals.com,/u/rmurphey,4
-1,2012-09-10 09:11:43 -0500,"['/t/databases', '/t/mac']",Sequel Pro and PostgreSQL Support,http://stuconnolly.com/blog/sequel-pro-postgresql-support/,/u/jcs,6
-0,2012-09-10 18:21:33 -0500,"['/t/ios', '/t/security']",Leaked Apple UDIDs stolen from BlueToad,http://blog.bluetoad.com/2012/09/10/statement-from-bluetoad-regarding-the-cyber-attack-suffered-in-the-recent-case-of-stolen-apple-udids/,/u/dekz,2
-0,2012-09-10 09:37:58 -0500,['/t/go'],golang-weekly : a list of curated weekly updates pertaining to the Go programming language,http://www.golangweekly.com,/u/fcambus,6
-0,2012-09-10 14:37:43 -0500,['/t/philosophy'],Can the Internet be an example of a 'rhizome?',http://waste.informatik.hu-berlin.de/koubek/netze/handapparat/rhizom/RhizomeInternet.html,/u/steveklabnik,3
-0,2012-09-10 22:02:16 -0500,"['/t/javascript', '/t/rant', '/t/web']",Why I believe in YUI,http://wonko.com/post/why-i-believe-in-yui,/u/rgrove,2
-0,2012-09-10 11:27:40 -0500,['/t/scaling'],Stress-Strain Curves In Web Engineering,http://www.kitchensoap.com/2012/09/10/fundamental-stress-strain-curves-in-web-engineering/,/u/pushcx,4
-0,2012-09-10 16:02:13 -0500,['/t/design'],Designed in Iran - NYTimes,http://6thfloor.blogs.nytimes.com/2012/09/10/designed-in-iran/,/u/dmix,2
-8,2012-09-09 23:14:05 -0500,"['/t/browsers', '/t/web']",BOWER - Web Application Asset Package Manager,http://twitter.github.com/bower/,/u/skalnik,8
-1,2012-09-10 08:21:21 -0500,['/t/vim'],Bespoke Vim,http://blog.begriffs.com/2012/09/bespoke-vim.html,/u/listrophy,4
-0,2012-09-10 10:38:59 -0500,['/t/compsci'],Mining the blogosphere,http://www.kurzweilai.net/mining-the-blogosphere,/u/kyle,4
-0,2012-09-10 10:58:14 -0500,"['/t/browsers', '/t/security']",Google Native Client - Attack Surface and Vulnerabilities,http://blog.leafsr.com/2012/09/google-native-client-attack-surface-and.html,/u/fcambus,3
-0,2012-09-10 08:43:28 -0500,"['/t/video', '/t/javascript', '/t/ruby']",Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson,http://www.youtube.com/watch?feature=player_detailpage&v=FkLVl3gpJP4#t=2012s,/u/markprovan,3
-5,2012-09-09 17:27:58 -0500,['/t/ruby'],Random Ruby Tricks: Class.new,http://blog.steveklabnik.com/posts/2012-09-09-random-ruby-tricks--class-new,/u/odin,8
-0,2012-09-10 00:47:20 -0500,"['/t/api', '/t/javascript', '/t/release']",4chan gets real about software,http://boingboing.net/2012/09/06/4chan-is-getting-real-about-so.html,/u/deanputney,5
-2,2012-09-09 07:17:15 -0500,"['/t/linux', '/t/vim']","The Text Triumvirate - Zsh, Vim and Tmux",http://www.drbunsen.org/text-triumvirate.html,/u/dekz,21
-0,2012-09-09 18:11:22 -0500,"['/t/linux', '/t/mac']",From Linux to OSX - 1 Year Later,http://batsov.com/articles/2012/09/09/from-linux-to-osx-1-year-later/,/u/odin,5
-2,2012-09-09 15:29:48 -0500,['/t/web'],"Screen cast on CSS critic, a CSS assurance tool",http://www.youtube.com/watch?v=AqQ2bNPtF60&feature=youtu.be,/u/nicferrier,3
-9,2012-09-09 15:07:56 -0500,['/t/meta'],Lots of meta discussion,/s/ezta74/lots_meta_discussion,/u/mikeg,7
-1,2012-09-09 10:37:37 -0500,['/t/ruby'],"Ruby exit, exit!, SystemExit and at_exit blunder",http://www.bigfastblog.com/ruby-exit-exit-systemexit-and-at_exit-blunder,/u/pushcx,4
-0,2012-09-09 11:43:34 -0500,['/t/ios'],Tumblr for iOS,http://zachwill.com/tumblr-ios/,/u/zachwill,4
+1,2012-09-10 16:15:38 -0500,"/t/linux,/t/openbsd",A port of the OpenBSD userland to Linux,https://github.com/chneukirchen/obase,/u/jcs,4
+0,2012-09-10 20:25:01 -0500,/t/ruby,Python's method decorators for ruby,https://github.com/michaelfairley/method_decorators,/u/mf,3
+2,2012-09-10 06:44:18 -0500,/t/databases,PostgreSQL 9.2 released,http://www.postgresql.org/about/news/1415/,/u/pkhamre,11
+0,2012-09-11 06:56:18 -0500,/t/person,Email overload? Its email OCD!,http://blog.grexit.com/your-email-overload-is-due-to-your-email-ocd/,/u/anurag,0
+2,2012-09-10 12:19:14 -0500,"/t/javascript,/t/web",jQuery Fundamentals: A facelift & update for the jQuery learning resource,http://jqfundamentals.com,/u/rmurphey,4
+1,2012-09-10 09:11:43 -0500,"/t/databases,/t/mac",Sequel Pro and PostgreSQL Support,http://stuconnolly.com/blog/sequel-pro-postgresql-support/,/u/jcs,6
+0,2012-09-10 18:21:33 -0500,"/t/ios,/t/security",Leaked Apple UDIDs stolen from BlueToad,http://blog.bluetoad.com/2012/09/10/statement-from-bluetoad-regarding-the-cyber-attack-suffered-in-the-recent-case-of-stolen-apple-udids/,/u/dekz,2
+0,2012-09-10 09:37:58 -0500,/t/go,golang-weekly : a list of curated weekly updates pertaining to the Go programming language,http://www.golangweekly.com,/u/fcambus,6
+0,2012-09-10 14:37:43 -0500,/t/philosophy,Can the Internet be an example of a 'rhizome?',http://waste.informatik.hu-berlin.de/koubek/netze/handapparat/rhizom/RhizomeInternet.html,/u/steveklabnik,3
+0,2012-09-10 22:02:16 -0500,"/t/javascript,/t/rant,/t/web",Why I believe in YUI,http://wonko.com/post/why-i-believe-in-yui,/u/rgrove,2
+0,2012-09-10 11:27:40 -0500,/t/scaling,Stress-Strain Curves In Web Engineering,http://www.kitchensoap.com/2012/09/10/fundamental-stress-strain-curves-in-web-engineering/,/u/pushcx,4
+0,2012-09-10 16:02:13 -0500,/t/design,Designed in Iran - NYTimes,http://6thfloor.blogs.nytimes.com/2012/09/10/designed-in-iran/,/u/dmix,2
+8,2012-09-09 23:14:05 -0500,"/t/browsers,/t/web",BOWER - Web Application Asset Package Manager,http://twitter.github.com/bower/,/u/skalnik,8
+1,2012-09-10 08:21:21 -0500,/t/vim,Bespoke Vim,http://blog.begriffs.com/2012/09/bespoke-vim.html,/u/listrophy,4
+0,2012-09-10 10:38:59 -0500,/t/compsci,Mining the blogosphere,http://www.kurzweilai.net/mining-the-blogosphere,/u/kyle,4
+0,2012-09-10 10:58:14 -0500,"/t/browsers,/t/security",Google Native Client - Attack Surface and Vulnerabilities,http://blog.leafsr.com/2012/09/google-native-client-attack-surface-and.html,/u/fcambus,3
+0,2012-09-10 08:43:28 -0500,"/t/video,/t/javascript,/t/ruby",Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson,http://www.youtube.com/watch?feature=player_detailpage&v=FkLVl3gpJP4#t=2012s,/u/markprovan,3
+5,2012-09-09 17:27:58 -0500,/t/ruby,Random Ruby Tricks: Class.new,http://blog.steveklabnik.com/posts/2012-09-09-random-ruby-tricks--class-new,/u/odin,8
+0,2012-09-10 00:47:20 -0500,"/t/api,/t/javascript,/t/release",4chan gets real about software,http://boingboing.net/2012/09/06/4chan-is-getting-real-about-so.html,/u/deanputney,5
+2,2012-09-09 07:17:15 -0500,"/t/linux,/t/vim","The Text Triumvirate - Zsh, Vim and Tmux",http://www.drbunsen.org/text-triumvirate.html,/u/dekz,21
+0,2012-09-09 18:11:22 -0500,"/t/linux,/t/mac",From Linux to OSX - 1 Year Later,http://batsov.com/articles/2012/09/09/from-linux-to-osx-1-year-later/,/u/odin,5
+2,2012-09-09 15:29:48 -0500,/t/web,"Screen cast on CSS critic, a CSS assurance tool",http://www.youtube.com/watch?v=AqQ2bNPtF60&feature=youtu.be,/u/nicferrier,3
+9,2012-09-09 15:07:56 -0500,/t/meta,Lots of meta discussion,/s/ezta74/lots_meta_discussion,/u/mikeg,7
+1,2012-09-09 10:37:37 -0500,/t/ruby,"Ruby exit, exit!, SystemExit and at_exit blunder",http://www.bigfastblog.com/ruby-exit-exit-systemexit-and-at_exit-blunder,/u/pushcx,4
+0,2012-09-09 11:43:34 -0500,/t/ios,Tumblr for iOS,http://zachwill.com/tumblr-ios/,/u/zachwill,4

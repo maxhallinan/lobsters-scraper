@@ -1,25 +1,25 @@
-2,2016-03-09 13:59:53 -0600,"['/t/pdf', '/t/security']",Keys Under Doormats (2015),https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf,/u/bsima,5
-1,2016-03-09 01:28:28 -0600,['/t/security'],How I could have hacked all Facebook accounts,http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html,/u/av,19
-1,2016-03-09 06:30:51 -0600,['/t/c'],A Variable Argument Hazard,http://blog.regehr.org/archives/1303,/u/uggedal,11
-0,2016-03-09 09:29:04 -0600,['/t/show'],New vouchers management system - looking for feedback,http://www.voucherify.io/,/u/dedrix,4
-0,2016-03-09 10:13:23 -0600,"['/t/law', '/t/privacy']",Obama Administration Set to Expand Sharing of Data That N.S.A. Intercepts,http://www.nytimes.com/2016/02/26/us/politics/obama-administration-set-to-expand-sharing-of-data-that-nsa-intercepts.html,/u/pushcx,7
-0,2016-03-08 19:39:46 -0600,"['/t/openbsd', '/t/unix']",xterm(1) now UTF-8 by default,http://undeadly.org/cgi?action=article&sid=20160308204011,/u/pushcx,25
-0,2016-03-09 06:13:12 -0600,['/t/ruby'],The Rails/Merb Merge In Retrospect (2014),http://gilesbowkett.blogspot.com/2014/06/the-railsmerb-merge-in-retrospect.html,/u/355E3B,7
-2,2016-03-09 09:36:42 -0600,"['/t/networking', '/t/rant']",FTP Must Die,http://mywiki.wooledge.org/FtpMustDie,/u/pushcx,8
-8,2016-03-08 15:51:46 -0600,"['/t/devops', '/t/hardware', '/t/networking', '/t/web']",C2: Insanely Affordable x86-64 Servers,http://blog.scaleway.com/2016/03/08/c2-insanely-affordable-x64-servers/,/u/cnst,16
-18,2016-03-08 06:03:52 -0600,['/t/programming'],How to destroy Programmer Productivity,http://georgestocker.com/2014/04/15/how-to-destroy-programmer-productivity/,/u/robin,34
-0,2016-03-09 07:04:36 -0600,['/t/distributed'],Performance Tuning Apache Storm at Keen IO,http://highscalability.com/blog/2016/3/8/performance-tuning-apache-storm-at-keen-io.html,/u/awreece,4
-2,2016-03-08 16:05:42 -0600,['/t/web'],Show them the world is watching. Stop DRM in HTML,https://www.defectivebydesign.org/show-them-the-world-is-watching-stop-drm-in-html,/u/duncan_bayne,19
-0,2016-03-09 14:30:54 -0600,['/t/person'],"Ray Tomlinson, email inventor and selector of @ symbol, dies aged 74",http://www.theguardian.com/technology/2016/mar/07/ray-tomlinson-email-inventor-and-selector-of-symbol-dies-aged-74,/u/apy,1
-0,2016-03-09 14:04:11 -0600,['/t/scala'],Deploy Playframework (Play!) to AWS Elastic Beanstalk with Jenkins,https://www.davemaple.com/articles/deploy-playframework-elastic-beanstalk-jenkins/,/u/softinio,1
-0,2016-03-09 06:18:26 -0600,"['/t/culture', '/t/windows']",The Cultural Defeat of Microsoft,https://www.devever.net/~hl/windowsdefeat,/u/nc,7
-10,2016-03-08 13:31:26 -0600,"['/t/javascript', '/t/web']",JavaScript Proposal for weak references: WeakRef,https://ponyfoo.com/articles/weakref,/u/ponyfoo,5
-1,2016-03-08 17:34:38 -0600,['/t/practices'],This is Why You Spent All that Time Learning to Program,http://prog21.dadgum.com/132.html,/u/michaelochurch,10
-0,2016-03-08 15:21:39 -0600,['/t/freebsd'],FreeBSD gets Haswell graphics support in time for 11.0-RELEASE,https://svnweb.freebsd.org/changeset/base/296548,/u/lattera,13
-1,2016-03-08 11:39:50 -0600,"['/t/security', '/t/web']",Using HTTPS Properly,https://textplain.wordpress.com/2016/03/06/using-https-properly/,/u/mediremi,16
-1,2016-03-08 07:58:53 -0600,"['/t/privacy', '/t/security']",Let's Encrypt has issued its first million certificates,https://www.eff.org/deeplinks/2016/03/lets-encrypt-has-issued-million-certificates,/u/halosghost,22
-0,2016-03-08 18:23:45 -0600,['/t/release'],TreeSheets: Free Form Data Organizer,http://strlen.com/treesheets/,/u/spinda,7
-0,2016-03-08 18:12:42 -0600,['/t/openbsd'],5.9 songs released,http://undeadly.org/cgi?action=article&sid=20160308172000,/u/mulander,6
-7,2016-03-07 10:55:11 -0600,"['/t/emacs', '/t/programming', '/t/vim']",A Brief Glance at How Various Text Editors Manage Their Textual Data,http://ecc-comp.blogspot.com/2015/05/a-brief-glance-at-how-5-text-editors.html,/u/indirection,48
-0,2016-03-08 18:43:26 -0600,['/t/programming'],Revamping GitHub’s Subversion Bridge,http://githubengineering.com/revamping-githubs-subversion-bridge/,/u/pushcx,3
-0,2016-03-09 00:14:39 -0600,"['/t/video', '/t/math']","Papers we Love SF - Matt Adereth on ""A Scalable Bootstrap for Massive Data""",https://www.youtube.com/watch?v=Wsly7pIuGsI,/u/tf,1
+2,2016-03-09 13:59:53 -0600,"/t/pdf,/t/security",Keys Under Doormats (2015),https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf,/u/bsima,5
+1,2016-03-09 01:28:28 -0600,/t/security,How I could have hacked all Facebook accounts,http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html,/u/av,19
+1,2016-03-09 06:30:51 -0600,/t/c,A Variable Argument Hazard,http://blog.regehr.org/archives/1303,/u/uggedal,11
+0,2016-03-09 09:29:04 -0600,/t/show,New vouchers management system - looking for feedback,http://www.voucherify.io/,/u/dedrix,4
+0,2016-03-09 10:13:23 -0600,"/t/law,/t/privacy",Obama Administration Set to Expand Sharing of Data That N.S.A. Intercepts,http://www.nytimes.com/2016/02/26/us/politics/obama-administration-set-to-expand-sharing-of-data-that-nsa-intercepts.html,/u/pushcx,7
+0,2016-03-08 19:39:46 -0600,"/t/openbsd,/t/unix",xterm(1) now UTF-8 by default,http://undeadly.org/cgi?action=article&sid=20160308204011,/u/pushcx,25
+0,2016-03-09 06:13:12 -0600,/t/ruby,The Rails/Merb Merge In Retrospect (2014),http://gilesbowkett.blogspot.com/2014/06/the-railsmerb-merge-in-retrospect.html,/u/355E3B,7
+2,2016-03-09 09:36:42 -0600,"/t/networking,/t/rant",FTP Must Die,http://mywiki.wooledge.org/FtpMustDie,/u/pushcx,8
+8,2016-03-08 15:51:46 -0600,"/t/devops,/t/hardware,/t/networking,/t/web",C2: Insanely Affordable x86-64 Servers,http://blog.scaleway.com/2016/03/08/c2-insanely-affordable-x64-servers/,/u/cnst,16
+18,2016-03-08 06:03:52 -0600,/t/programming,How to destroy Programmer Productivity,http://georgestocker.com/2014/04/15/how-to-destroy-programmer-productivity/,/u/robin,34
+0,2016-03-09 07:04:36 -0600,/t/distributed,Performance Tuning Apache Storm at Keen IO,http://highscalability.com/blog/2016/3/8/performance-tuning-apache-storm-at-keen-io.html,/u/awreece,4
+2,2016-03-08 16:05:42 -0600,/t/web,Show them the world is watching. Stop DRM in HTML,https://www.defectivebydesign.org/show-them-the-world-is-watching-stop-drm-in-html,/u/duncan_bayne,19
+0,2016-03-09 14:30:54 -0600,/t/person,"Ray Tomlinson, email inventor and selector of @ symbol, dies aged 74",http://www.theguardian.com/technology/2016/mar/07/ray-tomlinson-email-inventor-and-selector-of-symbol-dies-aged-74,/u/apy,1
+0,2016-03-09 14:04:11 -0600,/t/scala,Deploy Playframework (Play!) to AWS Elastic Beanstalk with Jenkins,https://www.davemaple.com/articles/deploy-playframework-elastic-beanstalk-jenkins/,/u/softinio,1
+0,2016-03-09 06:18:26 -0600,"/t/culture,/t/windows",The Cultural Defeat of Microsoft,https://www.devever.net/~hl/windowsdefeat,/u/nc,7
+10,2016-03-08 13:31:26 -0600,"/t/javascript,/t/web",JavaScript Proposal for weak references: WeakRef,https://ponyfoo.com/articles/weakref,/u/ponyfoo,5
+1,2016-03-08 17:34:38 -0600,/t/practices,This is Why You Spent All that Time Learning to Program,http://prog21.dadgum.com/132.html,/u/michaelochurch,10
+0,2016-03-08 15:21:39 -0600,/t/freebsd,FreeBSD gets Haswell graphics support in time for 11.0-RELEASE,https://svnweb.freebsd.org/changeset/base/296548,/u/lattera,13
+1,2016-03-08 11:39:50 -0600,"/t/security,/t/web",Using HTTPS Properly,https://textplain.wordpress.com/2016/03/06/using-https-properly/,/u/mediremi,16
+1,2016-03-08 07:58:53 -0600,"/t/privacy,/t/security",Let's Encrypt has issued its first million certificates,https://www.eff.org/deeplinks/2016/03/lets-encrypt-has-issued-million-certificates,/u/halosghost,22
+0,2016-03-08 18:23:45 -0600,/t/release,TreeSheets: Free Form Data Organizer,http://strlen.com/treesheets/,/u/spinda,7
+0,2016-03-08 18:12:42 -0600,/t/openbsd,5.9 songs released,http://undeadly.org/cgi?action=article&sid=20160308172000,/u/mulander,6
+7,2016-03-07 10:55:11 -0600,"/t/emacs,/t/programming,/t/vim",A Brief Glance at How Various Text Editors Manage Their Textual Data,http://ecc-comp.blogspot.com/2015/05/a-brief-glance-at-how-5-text-editors.html,/u/indirection,48
+0,2016-03-08 18:43:26 -0600,/t/programming,Revamping GitHub’s Subversion Bridge,http://githubengineering.com/revamping-githubs-subversion-bridge/,/u/pushcx,3
+0,2016-03-09 00:14:39 -0600,"/t/video,/t/math","Papers we Love SF - Matt Adereth on ""A Scalable Bootstrap for Massive Data""",https://www.youtube.com/watch?v=Wsly7pIuGsI,/u/tf,1

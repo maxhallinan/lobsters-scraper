@@ -1,25 +1,25 @@
-0,2017-07-12 04:50:32 -0500,"['/t/distributed', '/t/networking']",Avery's laws of wifi reliability,http://apenwarr.ca/log/?m=201707#04,/u/calvin,5
-3,2017-07-11 17:02:56 -0500,['/t/programming'],Best Websites a Programmer Should Visit,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,/u/meskarune,15
-5,2017-07-11 15:15:12 -0500,['/t/practices'],Speed in Software Development.,https://www.targetprocess.com/articles/speed-in-software-development/,/u/julienXX,13
-0,2017-07-12 15:09:26 -0500,['/t/historical'],KDF9 Stuff,http://sw.ccs.bcs.org/KDF9/,/u/trn,1
-0,2017-07-11 16:08:11 -0500,['/t/mac'],Building the XNU kernel on Mac OS X Sierra (10.12.X),http://0xcc.re/building-xnu-kernel-macosx-sierrra-10-12-x/,/u/mikalv,11
-0,2017-07-12 07:48:18 -0500,['/t/ruby'],yield default object,http://blog.arkency.com/2017/02/yield-default-object/,/u/pushcx,3
-0,2017-07-12 07:46:54 -0500,['/t/databases'],The Easy Way to Setup PostgreSQL 10 Logical Replication,https://www.openscg.com/2017/06/the-easy-way-to-setup-postgresql-10-logical-replication/,/u/pushcx,3
-0,2017-07-12 07:44:49 -0500,"['/t/databases', '/t/devops']",Running 10 Million PostgreSQL Indexes In Production (And Counting),https://heap.engineering/running-10-million-postgresql-indexes-in-production/,/u/pushcx,3
-0,2017-07-12 07:35:04 -0500,"['/t/pdf', '/t/security']",pASSWORD tYPOS and How to Correct Them Securely,http://www.ieee-security.org/TC/SP2016/papers/0824a799.pdf,/u/pushcx,3
-0,2017-07-12 07:28:29 -0500,"['/t/haskell', '/t/release']",Migrating text metrics to pure Haskell,https://markkarpov.com/post/migrating-text-metrics.html,/u/pushcx,3
-5,2017-07-12 09:50:02 -0500,"['/t/historical', '/t/release', '/t/virtualization']",ClearPath OS 2200 Express,http://www.unisys.com/offerings/technology-products-and-services/clearpath-forward-systems/clearpath-os-2200-software/clearpath-os-2200-express,/u/trn,1
-0,2017-07-12 04:53:02 -0500,"['/t/historical', '/t/math']",The strange and righteous history of the equals sign,https://arstechnica.com/science/2017/07/how-the-equals-sign-changed-the-world/,/u/calvin,4
-1,2017-07-12 07:39:41 -0500,"['/t/pdf', '/t/security']",The Password Reset MitM Attack,https://www.ieee-security.org/TC/SP2017/papers/207.pdf,/u/pushcx,1
-0,2017-07-12 07:32:11 -0500,"['/t/graphics', '/t/python']",Counting Objects with Faster R-CNN,https://softwaremill.com/,/u/pushcx,2
-2,2017-07-11 15:23:19 -0500,['/t/vcs'],"Monorepo First, Submodules Later",http://blog.felipe.rs/2017/07/11/monorepo-first-submodules-later/,/u/philix,11
-8,2017-07-11 10:37:36 -0500,"['/t/javascript', '/t/release']",ECMAScript 2017 / ES8 released,https://www.ecma-international.org/publications/standards/Ecma-262.htm,/u/pgl,17
-4,2017-07-11 04:46:42 -0500,"['/t/browsers', '/t/web']",Life Is About to Get a Whole Lot Harder for Websites Without HTTPS,https://www.troyhunt.com/life-is-about-to-get-harder-for-websites-without-https/,/u/Mex,33
-1,2017-07-11 10:04:54 -0500,"['/t/devops', '/t/networking', '/t/security', '/t/web']",How a registrar bug stole our domain name and took down our site,https://medium.com/thisiscala/the-duct-tape-holding-the-internet-together-12118be60ff1,/u/dy,11
-0,2017-07-12 08:59:14 -0500,"['/t/android', '/t/security']",SpyDealer: Android Trojan Spying on More Than 40 Apps,https://researchcenter.paloaltonetworks.com/2017/07/unit42-spydealer-android-trojan-spying-40-apps/,/u/TheCodeArtist,1
-11,2017-07-11 03:49:23 -0500,['/t/math'],A Graph Model of the Lambda Calculus,https://github.com/jozefg/graph-models,/u/jozefg,12
-2,2017-07-11 16:53:06 -0500,['/t/linux'],Disable Transparent Hugepages,https://blog.nelhage.com/post/transparent-hugepages/,/u/antifuchs,6
-1,2017-07-11 08:36:14 -0500,['/t/distributed'],You Cannot Have Exactly-Once Delivery Redux,http://bravenewgeek.com/you-cannot-have-exactly-once-delivery-redux/,/u/skade,20
-0,2017-07-12 07:49:47 -0500,"['/t/ruby', '/t/testing', '/t/web']",How I test Rails applications,https://m.patrikonrails.com/how-i-test-my-rails-applications-cf150e347a6b,/u/pushcx,1
-0,2017-07-12 07:35:49 -0500,"['/t/python', '/t/security', '/t/web']",5 ways to make Django Admin safer,https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8,/u/pushcx,1
-0,2017-07-12 07:33:15 -0500,"['/t/graphics', '/t/python']",Detecting Fake Videos with Python,http://sunnybala.com/2017/05/28/python-video-loop-detection.html,/u/pushcx,1
+0,2017-07-12 04:50:32 -0500,"/t/distributed,/t/networking",Avery's laws of wifi reliability,http://apenwarr.ca/log/?m=201707#04,/u/calvin,5
+3,2017-07-11 17:02:56 -0500,/t/programming,Best Websites a Programmer Should Visit,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,/u/meskarune,15
+5,2017-07-11 15:15:12 -0500,/t/practices,Speed in Software Development.,https://www.targetprocess.com/articles/speed-in-software-development/,/u/julienXX,13
+0,2017-07-12 15:09:26 -0500,/t/historical,KDF9 Stuff,http://sw.ccs.bcs.org/KDF9/,/u/trn,1
+0,2017-07-11 16:08:11 -0500,/t/mac,Building the XNU kernel on Mac OS X Sierra (10.12.X),http://0xcc.re/building-xnu-kernel-macosx-sierrra-10-12-x/,/u/mikalv,11
+0,2017-07-12 07:48:18 -0500,/t/ruby,yield default object,http://blog.arkency.com/2017/02/yield-default-object/,/u/pushcx,3
+0,2017-07-12 07:46:54 -0500,/t/databases,The Easy Way to Setup PostgreSQL 10 Logical Replication,https://www.openscg.com/2017/06/the-easy-way-to-setup-postgresql-10-logical-replication/,/u/pushcx,3
+0,2017-07-12 07:44:49 -0500,"/t/databases,/t/devops",Running 10 Million PostgreSQL Indexes In Production (And Counting),https://heap.engineering/running-10-million-postgresql-indexes-in-production/,/u/pushcx,3
+0,2017-07-12 07:35:04 -0500,"/t/pdf,/t/security",pASSWORD tYPOS and How to Correct Them Securely,http://www.ieee-security.org/TC/SP2016/papers/0824a799.pdf,/u/pushcx,3
+0,2017-07-12 07:28:29 -0500,"/t/haskell,/t/release",Migrating text metrics to pure Haskell,https://markkarpov.com/post/migrating-text-metrics.html,/u/pushcx,3
+5,2017-07-12 09:50:02 -0500,"/t/historical,/t/release,/t/virtualization",ClearPath OS 2200 Express,http://www.unisys.com/offerings/technology-products-and-services/clearpath-forward-systems/clearpath-os-2200-software/clearpath-os-2200-express,/u/trn,1
+0,2017-07-12 04:53:02 -0500,"/t/historical,/t/math",The strange and righteous history of the equals sign,https://arstechnica.com/science/2017/07/how-the-equals-sign-changed-the-world/,/u/calvin,4
+1,2017-07-12 07:39:41 -0500,"/t/pdf,/t/security",The Password Reset MitM Attack,https://www.ieee-security.org/TC/SP2017/papers/207.pdf,/u/pushcx,1
+0,2017-07-12 07:32:11 -0500,"/t/graphics,/t/python",Counting Objects with Faster R-CNN,https://softwaremill.com/,/u/pushcx,2
+2,2017-07-11 15:23:19 -0500,/t/vcs,"Monorepo First, Submodules Later",http://blog.felipe.rs/2017/07/11/monorepo-first-submodules-later/,/u/philix,11
+8,2017-07-11 10:37:36 -0500,"/t/javascript,/t/release",ECMAScript 2017 / ES8 released,https://www.ecma-international.org/publications/standards/Ecma-262.htm,/u/pgl,17
+4,2017-07-11 04:46:42 -0500,"/t/browsers,/t/web",Life Is About to Get a Whole Lot Harder for Websites Without HTTPS,https://www.troyhunt.com/life-is-about-to-get-harder-for-websites-without-https/,/u/Mex,33
+1,2017-07-11 10:04:54 -0500,"/t/devops,/t/networking,/t/security,/t/web",How a registrar bug stole our domain name and took down our site,https://medium.com/thisiscala/the-duct-tape-holding-the-internet-together-12118be60ff1,/u/dy,11
+0,2017-07-12 08:59:14 -0500,"/t/android,/t/security",SpyDealer: Android Trojan Spying on More Than 40 Apps,https://researchcenter.paloaltonetworks.com/2017/07/unit42-spydealer-android-trojan-spying-40-apps/,/u/TheCodeArtist,1
+11,2017-07-11 03:49:23 -0500,/t/math,A Graph Model of the Lambda Calculus,https://github.com/jozefg/graph-models,/u/jozefg,12
+2,2017-07-11 16:53:06 -0500,/t/linux,Disable Transparent Hugepages,https://blog.nelhage.com/post/transparent-hugepages/,/u/antifuchs,6
+1,2017-07-11 08:36:14 -0500,/t/distributed,You Cannot Have Exactly-Once Delivery Redux,http://bravenewgeek.com/you-cannot-have-exactly-once-delivery-redux/,/u/skade,20
+0,2017-07-12 07:49:47 -0500,"/t/ruby,/t/testing,/t/web",How I test Rails applications,https://m.patrikonrails.com/how-i-test-my-rails-applications-cf150e347a6b,/u/pushcx,1
+0,2017-07-12 07:35:49 -0500,"/t/python,/t/security,/t/web",5 ways to make Django Admin safer,https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8,/u/pushcx,1
+0,2017-07-12 07:33:15 -0500,"/t/graphics,/t/python",Detecting Fake Videos with Python,http://sunnybala.com/2017/05/28/python-video-loop-detection.html,/u/pushcx,1

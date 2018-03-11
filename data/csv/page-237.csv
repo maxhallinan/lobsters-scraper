@@ -1,25 +1,25 @@
-0,2017-08-21 05:55:06 -0500,"['/t/book', '/t/testing']",Developer Testing,https://henrikwarne.com/2017/08/20/developer-testing/,/u/calvin,3
-0,2017-08-21 08:32:45 -0500,"['/t/video', '/t/practices', '/t/programming']",Functional Programming and Modern DevOps (Aaron Contorer),https://www.youtube.com/watch?v=ybSBCVhVWs8,/u/asthasr,2
-2,2017-08-21 08:22:36 -0500,"['/t/hardware', '/t/historical', '/t/math']",Would a Perfect Computer be Old-Fashioned?,http://www.quadibloc.com/arch/perint.htm,/u/trn,1
-0,2017-08-21 04:18:01 -0500,"['/t/security', '/t/windows']",The Art of Becoming TrustedInstaller,https://tyranidslair.blogspot.com/2017/08/the-art-of-becoming-trustedinstaller.html,/u/fcbsd,3
-6,2017-08-20 05:41:30 -0500,"['/t/c', '/t/unix', '/t/windows']",A Tutorial on Portable Makefiles,http://nullprogram.com/blog/2017/08/20/,/u/rsadowski,24
-0,2017-08-20 23:55:16 -0500,"['/t/javascript', '/t/programming']",Using Blockly to illustrate JavaScript logic,https://developers.google.com/blockly,/u/innovati,5
-16,2017-08-20 08:20:05 -0500,['/t/ai'],Google's Anti-Bullying AI Mistakes Civility for Decency,https://motherboard.vice.com/en_us/article/qvvv3p/googles-anti-bullying-ai-mistakes-civility-for-decency,/u/asthasr,12
-0,2017-08-21 09:46:27 -0500,"['/t/compsci', '/t/haskell']","Radix Sort, Trie Trees, and Maps from Representable Functors",http://chrispenner.ca/posts/representable-discrimination,/u/pushcx,1
-0,2017-08-21 05:50:24 -0500,"['/t/cryptocurrencies', '/t/finance', '/t/python', '/t/visualization']",Analyzing Cryptocurrency Markets Using Python,https://blog.patricktriest.com/analyzing-cryptocurrencies-python/,/u/calvin,2
-0,2017-08-21 05:48:35 -0500,['/t/c++'],"Ranges, Coroutines, and React: Early Musings on the Future of Async in C++",http://ericniebler.com/2017/08/17/ranges-coroutines-and-react-early-musings-on-the-future-of-async-in-c/,/u/calvin,2
-0,2017-08-21 09:18:43 -0500,['/t/assembly'],"The Alpha AXP, part 11: Processor faults",https://blogs.msdn.microsoft.com/oldnewthing/20170821-00/?p=96855,/u/calvin,1
-2,2017-08-20 17:17:52 -0500,"['/t/crypto', '/t/visualization']",Visualizing the Heart of Some PRNGs,http://www.pcg-random.org/posts/visualizing-the-heart-of-some-prngs.html,/u/quobit,5
-0,2017-08-21 07:36:04 -0500,"['/t/networking', '/t/virtualization']",Deep dive into Docker Overlay Networks: Part 3,http://techblog.d2-si.eu/2017/08/20/deep-dive-into-docker-overlay-networks-part-3.html,/u/fcbsd,1
-0,2017-08-21 00:23:57 -0500,['/t/web'],Custom Elements v1: Reusable Web Components,https://developers.google.com/web/fundamentals/architecture/building-components/customelements,/u/markelliot,2
-12,2017-08-19 21:12:46 -0500,"['/t/databases', '/t/practices']","YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard",https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/,/u/calvin,24
-0,2017-08-20 13:40:26 -0500,"['/t/pdf', '/t/formalmethods', '/t/programming']",Verifying FreeRTOS - a feasibility study (2010),http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2010-042.pdf,/u/nickpsecurity,7
-0,2017-08-20 10:01:02 -0500,['/t/reversing'],Reverse Engineering My Home Security System: Decompiling Firmware Updates,https://markclayton.github.io/reverse-engineering-my-home-security-system-decompiling-firmware-updates.html,/u/calvin,10
-0,2017-08-20 14:47:28 -0500,['/t/programming'],Lessons learned from programming FizzBuzz in brainfuck,http://blog.wesleyac.com/posts/the-joy-of-brainfuck,/u/dl,5
-13,2017-08-20 06:01:20 -0500,['/t/programming'],On Modern Software Development,http://www.rainerhahnekamp.com/en/modern-software-development/,/u/calvin,7
-9,2017-08-19 15:32:12 -0500,"['/t/compilers', '/t/openbsd', '/t/security']",RETGUARD,https://marc.info/?l=openbsd-tech&m=150317547021396&w=2,/u/brynet,29
-0,2017-08-20 03:56:51 -0500,"['/t/slides', '/t/programming']",Updates on the ATS2 programming language 2017,https://www.slideshare.net/master_q/ats2-updates-2017,/u/doublec,13
-0,2017-08-20 08:15:55 -0500,"['/t/dotnet', '/t/graphics']",Picture combinators and recursive fish,https://einarwh.wordpress.com/2017/07/22/picture-combinators-and-recursive-fish/,/u/adsouza,7
-1,2017-08-20 06:00:48 -0500,"['/t/video', '/t/graphics', '/t/historical']","NeWS: A Networked and Extensible Window System, lecture by James Gosling (1990)",https://www.youtube.com/watch?v=4zG0uecYSMA,/u/calvin,7
-0,2017-08-19 21:11:43 -0500,['/t/go'],Why Go is my favorite programming language,http://michael.stapelberg.de/Artikel/golang_favorite,/u/calvin,18
-4,2017-08-19 13:18:21 -0500,"['/t/debugging', '/t/games', '/t/networking']",Why PS4 downloads are so slow,https://www.snellman.net/blog/archive/2017-08-19-slow-ps4-downloads/,/u/antifuchs,32
+0,2017-08-21 05:55:06 -0500,"/t/book,/t/testing",Developer Testing,https://henrikwarne.com/2017/08/20/developer-testing/,/u/calvin,3
+0,2017-08-21 08:32:45 -0500,"/t/video,/t/practices,/t/programming",Functional Programming and Modern DevOps (Aaron Contorer),https://www.youtube.com/watch?v=ybSBCVhVWs8,/u/asthasr,2
+2,2017-08-21 08:22:36 -0500,"/t/hardware,/t/historical,/t/math",Would a Perfect Computer be Old-Fashioned?,http://www.quadibloc.com/arch/perint.htm,/u/trn,1
+0,2017-08-21 04:18:01 -0500,"/t/security,/t/windows",The Art of Becoming TrustedInstaller,https://tyranidslair.blogspot.com/2017/08/the-art-of-becoming-trustedinstaller.html,/u/fcbsd,3
+6,2017-08-20 05:41:30 -0500,"/t/c,/t/unix,/t/windows",A Tutorial on Portable Makefiles,http://nullprogram.com/blog/2017/08/20/,/u/rsadowski,24
+0,2017-08-20 23:55:16 -0500,"/t/javascript,/t/programming",Using Blockly to illustrate JavaScript logic,https://developers.google.com/blockly,/u/innovati,5
+16,2017-08-20 08:20:05 -0500,/t/ai,Google's Anti-Bullying AI Mistakes Civility for Decency,https://motherboard.vice.com/en_us/article/qvvv3p/googles-anti-bullying-ai-mistakes-civility-for-decency,/u/asthasr,12
+0,2017-08-21 09:46:27 -0500,"/t/compsci,/t/haskell","Radix Sort, Trie Trees, and Maps from Representable Functors",http://chrispenner.ca/posts/representable-discrimination,/u/pushcx,1
+0,2017-08-21 05:50:24 -0500,"/t/cryptocurrencies,/t/finance,/t/python,/t/visualization",Analyzing Cryptocurrency Markets Using Python,https://blog.patricktriest.com/analyzing-cryptocurrencies-python/,/u/calvin,2
+0,2017-08-21 05:48:35 -0500,/t/c++,"Ranges, Coroutines, and React: Early Musings on the Future of Async in C++",http://ericniebler.com/2017/08/17/ranges-coroutines-and-react-early-musings-on-the-future-of-async-in-c/,/u/calvin,2
+0,2017-08-21 09:18:43 -0500,/t/assembly,"The Alpha AXP, part 11: Processor faults",https://blogs.msdn.microsoft.com/oldnewthing/20170821-00/?p=96855,/u/calvin,1
+2,2017-08-20 17:17:52 -0500,"/t/crypto,/t/visualization",Visualizing the Heart of Some PRNGs,http://www.pcg-random.org/posts/visualizing-the-heart-of-some-prngs.html,/u/quobit,5
+0,2017-08-21 07:36:04 -0500,"/t/networking,/t/virtualization",Deep dive into Docker Overlay Networks: Part 3,http://techblog.d2-si.eu/2017/08/20/deep-dive-into-docker-overlay-networks-part-3.html,/u/fcbsd,1
+0,2017-08-21 00:23:57 -0500,/t/web,Custom Elements v1: Reusable Web Components,https://developers.google.com/web/fundamentals/architecture/building-components/customelements,/u/markelliot,2
+12,2017-08-19 21:12:46 -0500,"/t/databases,/t/practices","YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard",https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/,/u/calvin,24
+0,2017-08-20 13:40:26 -0500,"/t/pdf,/t/formalmethods,/t/programming",Verifying FreeRTOS - a feasibility study (2010),http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2010-042.pdf,/u/nickpsecurity,7
+0,2017-08-20 10:01:02 -0500,/t/reversing,Reverse Engineering My Home Security System: Decompiling Firmware Updates,https://markclayton.github.io/reverse-engineering-my-home-security-system-decompiling-firmware-updates.html,/u/calvin,10
+0,2017-08-20 14:47:28 -0500,/t/programming,Lessons learned from programming FizzBuzz in brainfuck,http://blog.wesleyac.com/posts/the-joy-of-brainfuck,/u/dl,5
+13,2017-08-20 06:01:20 -0500,/t/programming,On Modern Software Development,http://www.rainerhahnekamp.com/en/modern-software-development/,/u/calvin,7
+9,2017-08-19 15:32:12 -0500,"/t/compilers,/t/openbsd,/t/security",RETGUARD,https://marc.info/?l=openbsd-tech&m=150317547021396&w=2,/u/brynet,29
+0,2017-08-20 03:56:51 -0500,"/t/slides,/t/programming",Updates on the ATS2 programming language 2017,https://www.slideshare.net/master_q/ats2-updates-2017,/u/doublec,13
+0,2017-08-20 08:15:55 -0500,"/t/dotnet,/t/graphics",Picture combinators and recursive fish,https://einarwh.wordpress.com/2017/07/22/picture-combinators-and-recursive-fish/,/u/adsouza,7
+1,2017-08-20 06:00:48 -0500,"/t/video,/t/graphics,/t/historical","NeWS: A Networked and Extensible Window System, lecture by James Gosling (1990)",https://www.youtube.com/watch?v=4zG0uecYSMA,/u/calvin,7
+0,2017-08-19 21:11:43 -0500,/t/go,Why Go is my favorite programming language,http://michael.stapelberg.de/Artikel/golang_favorite,/u/calvin,18
+4,2017-08-19 13:18:21 -0500,"/t/debugging,/t/games,/t/networking",Why PS4 downloads are so slow,https://www.snellman.net/blog/archive/2017-08-19-slow-ps4-downloads/,/u/antifuchs,32

@@ -1,25 +1,25 @@
-0,2013-10-07 07:40:38 -0500,['/t/javascript'],JavaScript Fundamentals,http://flippinawesome.org/2013/10/07/javascript-fundamentals/,/u/remotesynth,0
-0,2013-10-06 18:07:30 -0500,"['/t/slides', '/t/practices']",[Maciej Ceglowski] Thoreau 2.0 - XOXO Conference Talk,https://static.pinboard.in/xoxo_talk_thoreau.htm,/u/jcs,3
-0,2013-10-06 20:03:55 -0500,"['/t/android', '/t/hardware']",Nexus 5 almost totally revealed by leaked service manual,http://venturebeat.com/2013/10/06/nexus-5-almost-totally-revealed-by-leaked-service-manual/,/u/journeysquid,2
-0,2013-10-06 20:17:09 -0500,['/t/practices'],How to get your first 10 customers,http://danshipper.com/nothing-happens-until-the-sale-is-made,/u/journeysquid,1
-0,2013-10-06 15:08:23 -0500,"['/t/video', '/t/programming']","The free lunch is over, again",http://www.ustream.tv/recorded/35664157,/u/SeanTAllen,2
-1,2013-10-06 03:36:18 -0500,"['/t/c', '/t/networking']",swift: the multiparty transport protocol,http://libswift.org/,/u/kyle,8
-0,2013-10-06 12:20:31 -0500,"['/t/cryptocurrencies', '/t/go']",btcd: Not your mom’s Bitcoin daemon,https://blog.conformal.com/btcd-not-your-moms-bitcoin-daemon/,/u/journeysquid,3
-0,2013-10-06 11:17:14 -0500,"['/t/distributed', '/t/programming']",Synchronization in a Distributed System,http://blog.8thlight.com/rylan-dirksen/2013/10/04/synchronization-in-a-distributed-system.html,/u/SeanTAllen,3
-0,2013-10-05 21:06:49 -0500,"['/t/hardware', '/t/news']",MIT inventor unleashes hundreds of self-assembling cube swarmbots,http://www.kurzweilai.net/mit-inventor-unleashes-hundreds-of-self-assembling-cube-swarmbots,/u/craigwickesser,3
-2,2013-10-05 06:27:49 -0500,['/t/linux'],Nvidia Removed Linux Driver Feature Due to Windows,"http://www.tomshardware.com/news/nvidia-linux-basemosaic-ubuntu-parity,24519.html",/u/dl,5
-0,2013-10-05 13:22:43 -0500,"['/t/c', '/t/go']",Go Getter Part 3,https://kidoman.com/programming/go-getter-part-3.html,/u/journeysquid,2
-0,2013-10-05 11:34:40 -0500,"['/t/programming', '/t/python']",Replacing Python,http://roscidus.com/blog/blog/2013/06/20/replacing-python-round-2/,/u/SeanTAllen,2
-3,2013-10-04 11:13:11 -0500,"['/t/news', '/t/privacy']",NSA and GCHQ target Tor network,http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption,/u/jcs,8
-0,2013-10-04 13:38:58 -0500,['/t/programming'],Idris is a general purpose pure functional programming language with dependent types.,http://www.idris-lang.org/,/u/SeanTAllen,3
-0,2013-10-04 13:36:47 -0500,['/t/privacy'],'Tor Stinks' presentation,http://www.theguardian.com/world/interactive/2013/oct/04/tor-stinks-nsa-presentation-document,/u/journeysquid,2
-9,2013-10-03 13:47:38 -0500,"['/t/unix', '/t/vim']",Adding Vi To Your Zsh,http://dougblack.io/words/zsh-vi-mode.html,/u/db,7
-6,2013-10-03 16:31:46 -0500,['/t/web'],W3C green-lights adding DRM to the Web's standards,http://boingboing.net/2013/10/02/w3c-green-lights-adding-drm-to.html,/u/ancarda,5
-0,2013-10-03 14:21:05 -0500,['/t/databases'],Announcing PostgreSQL Studio,http://www.postgresql.org/about/news/1485/,/u/journeysquid,5
-3,2013-10-02 18:04:34 -0500,"['/t/news', '/t/privacy']","Lavabit Owner Ladar Levison Defied FBI Demands to Turn Over Crypto Keys, Documents Show",http://www.wired.com/threatlevel/2013/10/lavabit_unsealed/,/u/jcs,4
-2,2013-10-02 14:56:33 -0500,"['/t/design', '/t/rant', '/t/web']","jwz: Mobile web design: The reign of morons, indeed.",http://www.jwz.org/blog/2013/10/mobile-web-design-the-reign-of-morons-indeed/,/u/tedu,9
-0,2013-10-02 14:15:25 -0500,['/t/databases'],MongoDB is to NoSQL like MySQL to SQL - in the most harmful way,http://use-the-index-luke.com/blog/2013-10-01/mysql-is-to-sql-like-mongodb-to-nosql,/u/journeysquid,4
-0,2013-10-02 09:46:38 -0500,['/t/go'],Go Package Management Call To Action,http://www.goinggo.net/2013/10/go-package-management-call-to-action.html,/u/journeysquid,6
-0,2013-10-02 16:42:12 -0500,"['/t/javascript', '/t/web']",Online Markdown (Showdown) Editor with Bootstrap themes,http://www.anupshinde.com/markdown-editor,/u/anupshinde,1
-0,2013-10-02 11:26:07 -0500,['/t/science'],California whooping cough outbreak in 2010 tied to vaccine refusal,http://blog.sfgate.com/chronrx/2013/10/01/whooping-cough-outbreak-in-2010-tied-to-vaccine-refusal/,/u/journeysquid,4
-3,2013-10-01 13:41:29 -0500,"['/t/openbsd', '/t/security']",OpenBSD's libc arc4random() now using djb's ChaCha cipher,http://marc.info/?l=openbsd-cvs&m=138065251627052&w=2,/u/jcs,7
+0,2013-10-07 07:40:38 -0500,/t/javascript,JavaScript Fundamentals,http://flippinawesome.org/2013/10/07/javascript-fundamentals/,/u/remotesynth,0
+0,2013-10-06 18:07:30 -0500,"/t/slides,/t/practices",[Maciej Ceglowski] Thoreau 2.0 - XOXO Conference Talk,https://static.pinboard.in/xoxo_talk_thoreau.htm,/u/jcs,3
+0,2013-10-06 20:03:55 -0500,"/t/android,/t/hardware",Nexus 5 almost totally revealed by leaked service manual,http://venturebeat.com/2013/10/06/nexus-5-almost-totally-revealed-by-leaked-service-manual/,/u/journeysquid,2
+0,2013-10-06 20:17:09 -0500,/t/practices,How to get your first 10 customers,http://danshipper.com/nothing-happens-until-the-sale-is-made,/u/journeysquid,1
+0,2013-10-06 15:08:23 -0500,"/t/video,/t/programming","The free lunch is over, again",http://www.ustream.tv/recorded/35664157,/u/SeanTAllen,2
+1,2013-10-06 03:36:18 -0500,"/t/c,/t/networking",swift: the multiparty transport protocol,http://libswift.org/,/u/kyle,8
+0,2013-10-06 12:20:31 -0500,"/t/cryptocurrencies,/t/go",btcd: Not your mom’s Bitcoin daemon,https://blog.conformal.com/btcd-not-your-moms-bitcoin-daemon/,/u/journeysquid,3
+0,2013-10-06 11:17:14 -0500,"/t/distributed,/t/programming",Synchronization in a Distributed System,http://blog.8thlight.com/rylan-dirksen/2013/10/04/synchronization-in-a-distributed-system.html,/u/SeanTAllen,3
+0,2013-10-05 21:06:49 -0500,"/t/hardware,/t/news",MIT inventor unleashes hundreds of self-assembling cube swarmbots,http://www.kurzweilai.net/mit-inventor-unleashes-hundreds-of-self-assembling-cube-swarmbots,/u/craigwickesser,3
+2,2013-10-05 06:27:49 -0500,/t/linux,Nvidia Removed Linux Driver Feature Due to Windows,"http://www.tomshardware.com/news/nvidia-linux-basemosaic-ubuntu-parity,24519.html",/u/dl,5
+0,2013-10-05 13:22:43 -0500,"/t/c,/t/go",Go Getter Part 3,https://kidoman.com/programming/go-getter-part-3.html,/u/journeysquid,2
+0,2013-10-05 11:34:40 -0500,"/t/programming,/t/python",Replacing Python,http://roscidus.com/blog/blog/2013/06/20/replacing-python-round-2/,/u/SeanTAllen,2
+3,2013-10-04 11:13:11 -0500,"/t/news,/t/privacy",NSA and GCHQ target Tor network,http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption,/u/jcs,8
+0,2013-10-04 13:38:58 -0500,/t/programming,Idris is a general purpose pure functional programming language with dependent types.,http://www.idris-lang.org/,/u/SeanTAllen,3
+0,2013-10-04 13:36:47 -0500,/t/privacy,'Tor Stinks' presentation,http://www.theguardian.com/world/interactive/2013/oct/04/tor-stinks-nsa-presentation-document,/u/journeysquid,2
+9,2013-10-03 13:47:38 -0500,"/t/unix,/t/vim",Adding Vi To Your Zsh,http://dougblack.io/words/zsh-vi-mode.html,/u/db,7
+6,2013-10-03 16:31:46 -0500,/t/web,W3C green-lights adding DRM to the Web's standards,http://boingboing.net/2013/10/02/w3c-green-lights-adding-drm-to.html,/u/ancarda,5
+0,2013-10-03 14:21:05 -0500,/t/databases,Announcing PostgreSQL Studio,http://www.postgresql.org/about/news/1485/,/u/journeysquid,5
+3,2013-10-02 18:04:34 -0500,"/t/news,/t/privacy","Lavabit Owner Ladar Levison Defied FBI Demands to Turn Over Crypto Keys, Documents Show",http://www.wired.com/threatlevel/2013/10/lavabit_unsealed/,/u/jcs,4
+2,2013-10-02 14:56:33 -0500,"/t/design,/t/rant,/t/web","jwz: Mobile web design: The reign of morons, indeed.",http://www.jwz.org/blog/2013/10/mobile-web-design-the-reign-of-morons-indeed/,/u/tedu,9
+0,2013-10-02 14:15:25 -0500,/t/databases,MongoDB is to NoSQL like MySQL to SQL - in the most harmful way,http://use-the-index-luke.com/blog/2013-10-01/mysql-is-to-sql-like-mongodb-to-nosql,/u/journeysquid,4
+0,2013-10-02 09:46:38 -0500,/t/go,Go Package Management Call To Action,http://www.goinggo.net/2013/10/go-package-management-call-to-action.html,/u/journeysquid,6
+0,2013-10-02 16:42:12 -0500,"/t/javascript,/t/web",Online Markdown (Showdown) Editor with Bootstrap themes,http://www.anupshinde.com/markdown-editor,/u/anupshinde,1
+0,2013-10-02 11:26:07 -0500,/t/science,California whooping cough outbreak in 2010 tied to vaccine refusal,http://blog.sfgate.com/chronrx/2013/10/01/whooping-cough-outbreak-in-2010-tied-to-vaccine-refusal/,/u/journeysquid,4
+3,2013-10-01 13:41:29 -0500,"/t/openbsd,/t/security",OpenBSD's libc arc4random() now using djb's ChaCha cipher,http://marc.info/?l=openbsd-cvs&m=138065251627052&w=2,/u/jcs,7

@@ -1,25 +1,25 @@
-1,2017-09-28 07:42:41 -0500,['/t/web'],"The Cost of Frameworks, Illustrated",https://meiert.com/en/blog/the-cost-of-frameworks/,/u/flyingfisch,1
-2,2017-09-27 06:24:19 -0500,"['/t/compsci', '/t/databases', '/t/programming']","On Disk IO, Part 3: LSM Trees",https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f,/u/ifesdjeen,20
-2,2017-09-27 18:00:01 -0500,['/t/linux'],A Minimum Complete Tutorial of Linux ext4 File System,https://medium.com/@metebalci/a-minimum-complete-tutorial-of-linux-ext4-file-system-53a5efac2c1f,/u/kyle,8
-1,2017-09-27 08:21:26 -0500,['/t/rust'],Chrome OS KVM - A component written in Rust,https://chromium.googlesource.com/chromiumos/platform/crosvm/,/u/av,28
-0,2017-09-28 03:44:33 -0500,['/t/go'],Things to know about HTTP in Go,https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/,/u/av,3
-0,2017-09-28 08:11:31 -0500,"['/t/api', '/t/dotnet']",Book of the Runtime,https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md,/u/jeb,1
-0,2017-09-28 07:41:49 -0500,['/t/practices'],Considering Open Source Licenses,https://alistapart.com/article/considering-open-source-licenses,/u/flyingfisch,1
-0,2017-09-27 17:06:52 -0500,['/t/clojure'],The state of code quality tools in Clojure,https://blog.jeaye.com/2017/08/31/clojure-code-quality/,/u/jonathannen,8
-1,2017-09-27 22:40:24 -0500,['/t/c'],How to check if a pointer is in a range of memory,https://blogs.msdn.microsoft.com/oldnewthing/20170927-00/?p=97095,/u/calvin,3
-8,2017-09-27 05:29:26 -0500,['/t/meta'],"Change tag ""reversing"" to ""reverse-engineering""",/s/nqwukp/change_tag_reversing_reverse,/u/gerikson,13
-0,2017-09-27 20:12:35 -0500,['/t/performance'],Stream VByte: breaking new speed records for integer compression,https://lemire.me/blog/2017/09/27/stream-vbyte-breaking-new-speed-records-for-integer-compression/,/u/talklittle,5
-1,2017-09-27 09:39:54 -0500,"['/t/pdf', '/t/freebsd', '/t/openbsd']",My BSD sucks less than yours,https://www.lphp.org/pub/events/my_bsd_sucks_less_than_yours-full_paper.pdf,/u/wally,16
-1,2017-09-27 09:26:29 -0500,['/t/browsers'],Firefox Memory Usage in the Quantum Era,http://www.erahm.org/2017/09/25/firefox-memory-usage-in-the-quantum-era/,/u/wally,15
-0,2017-09-27 16:25:00 -0500,['/t/vcs'],"Trust your Data, Not your Mind",http://jackhiston.com/2017/9/27/trust-your-data-not-your-mind/,/u/Cyph3r90,3
-0,2017-09-28 02:59:10 -0500,"['/t/cryptocurrencies', '/t/security']",How one hacker stole thousands of dollars worth of cryptocurrency with a classic code injection…,https://hackernoon.com/how-one-hacker-stole-thousands-of-dollars-worth-of-cryptocurrency-with-a-classic-code-injection-a3aba5d2bff0,/u/gerikson,1
-10,2017-09-26 19:56:44 -0500,['/t/browsers'],Tree Style Tabs Extension Ported to Firefox 57,https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/,/u/itistoday,24
-3,2017-09-27 03:09:52 -0500,['/t/rust'],Why did we choose Rust over Golang or C/C++ to develop TiKV?,https://pingcap.github.io/blog/2017/09/26/whyrust/,/u/av,13
-1,2017-09-27 13:30:13 -0500,"['/t/javascript', '/t/web']","Progressive Web Apps? No, we are building Alien Web Apps",https://technology.condenast.com/story/not-progressive-alien-web-apps,/u/joshuacc,5
-0,2017-09-27 16:32:54 -0500,['/t/javascript'],"Connect ""Fore!"": Code Golf in Javascript",https://www.promptworks.com/blog/connect-fore-code-golf-in-javascript,/u/promptworks,2
-37,2017-09-26 05:17:00 -0500,['/t/vcs'],git git git git git,http://caiustheory.com/git-git-git-git-git/,/u/caius,58
-4,2017-09-27 00:28:28 -0500,"['/t/freebsd', '/t/openbsd']",lscpu for OpenBSD/FreeBSD,http://nanxiao.me/en/lscpu-for-openbsdfreebsd/,/u/nanxiao,11
-0,2017-09-28 01:21:43 -0500,['/t/java'],Using VS Code to Debug Java Applications,https://code.visualstudio.com/blogs/2017/09/28/java-debug,/u/av,1
-0,2017-09-27 18:36:41 -0500,['/t/elixir'],Deploying Phoenix to production using Docker,http://teamon.eu/2017/deploying-phoenix-to-production-using-docker/,/u/unbalancedparentheses,3
-4,2017-09-27 07:19:40 -0500,['/t/web'],"Open Sourcing Vespa, Yahoo’s Big Data Processing and Serving Engine",http://blog.vespa.ai/post/165763618906/open-sourcing-vespa-yahoos-big-data-processing,/u/fs111,8
-0,2017-09-27 14:53:32 -0500,"['/t/networking', '/t/programming']",How to Create Your Own Urbit Fork,https://zod.that.world/descend/1-fork-urbit/,/u/sorpaas,2
+1,2017-09-28 07:42:41 -0500,/t/web,"The Cost of Frameworks, Illustrated",https://meiert.com/en/blog/the-cost-of-frameworks/,/u/flyingfisch,1
+2,2017-09-27 06:24:19 -0500,"/t/compsci,/t/databases,/t/programming","On Disk IO, Part 3: LSM Trees",https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f,/u/ifesdjeen,20
+2,2017-09-27 18:00:01 -0500,/t/linux,A Minimum Complete Tutorial of Linux ext4 File System,https://medium.com/@metebalci/a-minimum-complete-tutorial-of-linux-ext4-file-system-53a5efac2c1f,/u/kyle,8
+1,2017-09-27 08:21:26 -0500,/t/rust,Chrome OS KVM - A component written in Rust,https://chromium.googlesource.com/chromiumos/platform/crosvm/,/u/av,28
+0,2017-09-28 03:44:33 -0500,/t/go,Things to know about HTTP in Go,https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/,/u/av,3
+0,2017-09-28 08:11:31 -0500,"/t/api,/t/dotnet",Book of the Runtime,https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md,/u/jeb,1
+0,2017-09-28 07:41:49 -0500,/t/practices,Considering Open Source Licenses,https://alistapart.com/article/considering-open-source-licenses,/u/flyingfisch,1
+0,2017-09-27 17:06:52 -0500,/t/clojure,The state of code quality tools in Clojure,https://blog.jeaye.com/2017/08/31/clojure-code-quality/,/u/jonathannen,8
+1,2017-09-27 22:40:24 -0500,/t/c,How to check if a pointer is in a range of memory,https://blogs.msdn.microsoft.com/oldnewthing/20170927-00/?p=97095,/u/calvin,3
+8,2017-09-27 05:29:26 -0500,/t/meta,"Change tag ""reversing"" to ""reverse-engineering""",/s/nqwukp/change_tag_reversing_reverse,/u/gerikson,13
+0,2017-09-27 20:12:35 -0500,/t/performance,Stream VByte: breaking new speed records for integer compression,https://lemire.me/blog/2017/09/27/stream-vbyte-breaking-new-speed-records-for-integer-compression/,/u/talklittle,5
+1,2017-09-27 09:39:54 -0500,"/t/pdf,/t/freebsd,/t/openbsd",My BSD sucks less than yours,https://www.lphp.org/pub/events/my_bsd_sucks_less_than_yours-full_paper.pdf,/u/wally,16
+1,2017-09-27 09:26:29 -0500,/t/browsers,Firefox Memory Usage in the Quantum Era,http://www.erahm.org/2017/09/25/firefox-memory-usage-in-the-quantum-era/,/u/wally,15
+0,2017-09-27 16:25:00 -0500,/t/vcs,"Trust your Data, Not your Mind",http://jackhiston.com/2017/9/27/trust-your-data-not-your-mind/,/u/Cyph3r90,3
+0,2017-09-28 02:59:10 -0500,"/t/cryptocurrencies,/t/security",How one hacker stole thousands of dollars worth of cryptocurrency with a classic code injection…,https://hackernoon.com/how-one-hacker-stole-thousands-of-dollars-worth-of-cryptocurrency-with-a-classic-code-injection-a3aba5d2bff0,/u/gerikson,1
+10,2017-09-26 19:56:44 -0500,/t/browsers,Tree Style Tabs Extension Ported to Firefox 57,https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/,/u/itistoday,24
+3,2017-09-27 03:09:52 -0500,/t/rust,Why did we choose Rust over Golang or C/C++ to develop TiKV?,https://pingcap.github.io/blog/2017/09/26/whyrust/,/u/av,13
+1,2017-09-27 13:30:13 -0500,"/t/javascript,/t/web","Progressive Web Apps? No, we are building Alien Web Apps",https://technology.condenast.com/story/not-progressive-alien-web-apps,/u/joshuacc,5
+0,2017-09-27 16:32:54 -0500,/t/javascript,"Connect ""Fore!"": Code Golf in Javascript",https://www.promptworks.com/blog/connect-fore-code-golf-in-javascript,/u/promptworks,2
+37,2017-09-26 05:17:00 -0500,/t/vcs,git git git git git,http://caiustheory.com/git-git-git-git-git/,/u/caius,58
+4,2017-09-27 00:28:28 -0500,"/t/freebsd,/t/openbsd",lscpu for OpenBSD/FreeBSD,http://nanxiao.me/en/lscpu-for-openbsdfreebsd/,/u/nanxiao,11
+0,2017-09-28 01:21:43 -0500,/t/java,Using VS Code to Debug Java Applications,https://code.visualstudio.com/blogs/2017/09/28/java-debug,/u/av,1
+0,2017-09-27 18:36:41 -0500,/t/elixir,Deploying Phoenix to production using Docker,http://teamon.eu/2017/deploying-phoenix-to-production-using-docker/,/u/unbalancedparentheses,3
+4,2017-09-27 07:19:40 -0500,/t/web,"Open Sourcing Vespa, Yahoo’s Big Data Processing and Serving Engine",http://blog.vespa.ai/post/165763618906/open-sourcing-vespa-yahoos-big-data-processing,/u/fs111,8
+0,2017-09-27 14:53:32 -0500,"/t/networking,/t/programming",How to Create Your Own Urbit Fork,https://zod.that.world/descend/1-fork-urbit/,/u/sorpaas,2

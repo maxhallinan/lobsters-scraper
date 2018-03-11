@@ -1,25 +1,25 @@
-2,2017-07-07 16:27:22 -0500,"['/t/culture', '/t/satire']",Welcome to Our Startup,https://www.mcsweeneys.net/articles/welcome-to-our-startup-where-everyone-is-23-years-old-because-we-believe-old-people-are-visually-displeasing-and-out-of-ideas,/u/stunder,6
-0,2017-07-07 09:55:24 -0500,['/t/javascript'],Code your own Redux - combineReducers,http://blog.jakoblind.no/2017/07/06/code-your-own-combinereducers/,/u/jakoblind,1
-10,2017-07-06 13:32:20 -0500,['/t/privacy'],'Digital strip searches' at NZ airports force hundreds of Kiwis to surrender mobile and laptop passwords each year,https://www.tvnz.co.nz/one-news/new-zealand/digital-strip-searches-nz-airports-force-hundreds-kiwis-surrender-mobile-and-laptop-passwords-each-year,/u/chadski,13
-3,2017-07-06 11:43:12 -0500,['/t/javascript'],Non-technical reasons why I like VueJS,https://sgoel.org/posts/non-technical-reasons-why-i-like-vue/,/u/siddhantgoel,12
-4,2017-07-06 12:21:47 -0500,"['/t/openbsd', '/t/security']",Avoid OS detection on OpenBSD,https://blog.cagedmonster.net/avoid-os-detection-openbsd/,/u/mulander,17
-0,2017-07-07 05:23:31 -0500,"['/t/php', '/t/security']",PHP 7.1.7 release (5 CVEs),http://php.net/ChangeLog-7.php,/u/Barnerd,3
-6,2017-07-06 09:44:13 -0500,"['/t/video', '/t/compilers', '/t/programming']",Simon Peyton Jones - Compiling without continuations,https://www.youtube.com/watch?v=LMTr8yw0Gk4,/u/rain1,17
-1,2017-07-07 07:18:29 -0500,"['/t/programming', '/t/ruby']",57 Best Ruby Gems for Every Purpose,https://rubygarage.org/blog/best-ruby-gems-we-use,/u/volodymyr_vorobiov,1
-8,2017-07-06 15:56:16 -0500,"['/t/ruby', '/t/web']",27 Rails Gems I use in almost every project,https://dev.to/rob__race/27-gems-i-use-in-almost-every-project,/u/pushcx,6
-5,2017-07-06 08:02:13 -0500,"['/t/book', '/t/css']","CSS: The Definitive Guide, 4th Edition",http://meyerweb.com/eric/thoughts/2017/07/05/css-the-definitive-guide-4th-edition/,/u/flyingfisch,15
-0,2017-07-06 16:41:49 -0500,"['/t/video', '/t/go']",Go Tooling in Action,https://www.youtube.com/watch?v=uBjoTxosSys,/u/klingtnet,9
-28,2017-07-05 18:34:27 -0500,['/t/openbsd'],"OpenBSD Will Get Unique Kernels on Each Reboot. Do You Hear That Linux, Windows?",https://www.bleepingcomputer.com/news/security/openbsd-will-get-unique-kernels-on-each-reboot-do-you-hear-that-linux-windows/,/u/gonzalo,46
-14,2017-07-05 20:59:03 -0500,"['/t/security', '/t/web']",How to defend your website with ZIP bombs,https://blog.haschek.at/post/f2fda,/u/calvin,34
-3,2017-07-06 18:01:37 -0500,"['/t/ai', '/t/programming', '/t/python']",How to build a simple neural network in 9 lines of Python code,https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1,/u/mischa,3
-0,2017-07-07 01:31:22 -0500,"['/t/javascript', '/t/release']",Announcing Gatsby v1 - A Static Site Generator for React,https://www.gatsbyjs.org/blog/gatsby-v1/,/u/djm,2
-17,2017-07-05 22:11:13 -0500,['/t/distributed'],A rift in the NTP world,https://lwn.net/Articles/713901/,/u/pushcx,22
-0,2017-07-06 15:50:43 -0500,['/t/ruby'],Refactoring From Inheritance To Composition To Data,http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/,/u/pushcx,6
-0,2017-07-06 14:31:36 -0500,['/t/databases'],MySQL infrastructure testing automation at GitHub,https://githubengineering.com/mysql-testing-automation-at-github/,/u/jcs,7
-0,2017-07-06 17:09:32 -0500,"['/t/haskell', '/t/release']",New version of FLTKHS with much better error messages and OpenGL integration,https://www.reddit.com/r/haskell/comments/6l85uj/announcement_new_version_of_fltkhs_with_much/,/u/zem,5
-0,2017-07-06 16:35:57 -0500,"['/t/performance', '/t/python']",Quick Tip: Speed up your Python data processing scripts with Process Pools,https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a,/u/pushcx,4
-0,2017-07-06 18:24:46 -0500,['/t/databases'],GitHub's Online Schema Migrations for MySQL,https://github.com/github/gh-ost,/u/unbalancedparentheses,3
-2,2017-07-06 06:40:41 -0500,['/t/programming'],Pruning spaces from strings quickly on ARM processors,http://lemire.me/blog/2017/07/03/pruning-spaces-from-strings-quickly-on-arm-processors/,/u/calvin,9
-1,2017-07-06 15:53:09 -0500,['/t/ruby'],"Core Ruby Tools: Gems, Version Managers, Bundler, and Rake",https://launchschool.com/books/core_ruby_tools,/u/pushcx,2
-0,2017-07-06 12:29:21 -0500,['/t/databases'],What Should a PostgreSQL Migrator do?,https://medium.com/@jonathangfischoff/what-should-a-postgresql-migrator-do-47fd34804be,/u/pushcx,5
-0,2017-07-06 12:23:04 -0500,"['/t/compilers', '/t/haskell', '/t/performance']",Notes on fusion,http://teh.id.au/posts/2017/06/30/notes-on-fusion/index.html,/u/pushcx,5
+2,2017-07-07 16:27:22 -0500,"/t/culture,/t/satire",Welcome to Our Startup,https://www.mcsweeneys.net/articles/welcome-to-our-startup-where-everyone-is-23-years-old-because-we-believe-old-people-are-visually-displeasing-and-out-of-ideas,/u/stunder,6
+0,2017-07-07 09:55:24 -0500,/t/javascript,Code your own Redux - combineReducers,http://blog.jakoblind.no/2017/07/06/code-your-own-combinereducers/,/u/jakoblind,1
+10,2017-07-06 13:32:20 -0500,/t/privacy,'Digital strip searches' at NZ airports force hundreds of Kiwis to surrender mobile and laptop passwords each year,https://www.tvnz.co.nz/one-news/new-zealand/digital-strip-searches-nz-airports-force-hundreds-kiwis-surrender-mobile-and-laptop-passwords-each-year,/u/chadski,13
+3,2017-07-06 11:43:12 -0500,/t/javascript,Non-technical reasons why I like VueJS,https://sgoel.org/posts/non-technical-reasons-why-i-like-vue/,/u/siddhantgoel,12
+4,2017-07-06 12:21:47 -0500,"/t/openbsd,/t/security",Avoid OS detection on OpenBSD,https://blog.cagedmonster.net/avoid-os-detection-openbsd/,/u/mulander,17
+0,2017-07-07 05:23:31 -0500,"/t/php,/t/security",PHP 7.1.7 release (5 CVEs),http://php.net/ChangeLog-7.php,/u/Barnerd,3
+6,2017-07-06 09:44:13 -0500,"/t/video,/t/compilers,/t/programming",Simon Peyton Jones - Compiling without continuations,https://www.youtube.com/watch?v=LMTr8yw0Gk4,/u/rain1,17
+1,2017-07-07 07:18:29 -0500,"/t/programming,/t/ruby",57 Best Ruby Gems for Every Purpose,https://rubygarage.org/blog/best-ruby-gems-we-use,/u/volodymyr_vorobiov,1
+8,2017-07-06 15:56:16 -0500,"/t/ruby,/t/web",27 Rails Gems I use in almost every project,https://dev.to/rob__race/27-gems-i-use-in-almost-every-project,/u/pushcx,6
+5,2017-07-06 08:02:13 -0500,"/t/book,/t/css","CSS: The Definitive Guide, 4th Edition",http://meyerweb.com/eric/thoughts/2017/07/05/css-the-definitive-guide-4th-edition/,/u/flyingfisch,15
+0,2017-07-06 16:41:49 -0500,"/t/video,/t/go",Go Tooling in Action,https://www.youtube.com/watch?v=uBjoTxosSys,/u/klingtnet,9
+28,2017-07-05 18:34:27 -0500,/t/openbsd,"OpenBSD Will Get Unique Kernels on Each Reboot. Do You Hear That Linux, Windows?",https://www.bleepingcomputer.com/news/security/openbsd-will-get-unique-kernels-on-each-reboot-do-you-hear-that-linux-windows/,/u/gonzalo,46
+14,2017-07-05 20:59:03 -0500,"/t/security,/t/web",How to defend your website with ZIP bombs,https://blog.haschek.at/post/f2fda,/u/calvin,34
+3,2017-07-06 18:01:37 -0500,"/t/ai,/t/programming,/t/python",How to build a simple neural network in 9 lines of Python code,https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1,/u/mischa,3
+0,2017-07-07 01:31:22 -0500,"/t/javascript,/t/release",Announcing Gatsby v1 - A Static Site Generator for React,https://www.gatsbyjs.org/blog/gatsby-v1/,/u/djm,2
+17,2017-07-05 22:11:13 -0500,/t/distributed,A rift in the NTP world,https://lwn.net/Articles/713901/,/u/pushcx,22
+0,2017-07-06 15:50:43 -0500,/t/ruby,Refactoring From Inheritance To Composition To Data,http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/,/u/pushcx,6
+0,2017-07-06 14:31:36 -0500,/t/databases,MySQL infrastructure testing automation at GitHub,https://githubengineering.com/mysql-testing-automation-at-github/,/u/jcs,7
+0,2017-07-06 17:09:32 -0500,"/t/haskell,/t/release",New version of FLTKHS with much better error messages and OpenGL integration,https://www.reddit.com/r/haskell/comments/6l85uj/announcement_new_version_of_fltkhs_with_much/,/u/zem,5
+0,2017-07-06 16:35:57 -0500,"/t/performance,/t/python",Quick Tip: Speed up your Python data processing scripts with Process Pools,https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a,/u/pushcx,4
+0,2017-07-06 18:24:46 -0500,/t/databases,GitHub's Online Schema Migrations for MySQL,https://github.com/github/gh-ost,/u/unbalancedparentheses,3
+2,2017-07-06 06:40:41 -0500,/t/programming,Pruning spaces from strings quickly on ARM processors,http://lemire.me/blog/2017/07/03/pruning-spaces-from-strings-quickly-on-arm-processors/,/u/calvin,9
+1,2017-07-06 15:53:09 -0500,/t/ruby,"Core Ruby Tools: Gems, Version Managers, Bundler, and Rake",https://launchschool.com/books/core_ruby_tools,/u/pushcx,2
+0,2017-07-06 12:29:21 -0500,/t/databases,What Should a PostgreSQL Migrator do?,https://medium.com/@jonathangfischoff/what-should-a-postgresql-migrator-do-47fd34804be,/u/pushcx,5
+0,2017-07-06 12:23:04 -0500,"/t/compilers,/t/haskell,/t/performance",Notes on fusion,http://teh.id.au/posts/2017/06/30/notes-on-fusion/index.html,/u/pushcx,5

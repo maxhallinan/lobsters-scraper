@@ -1,25 +1,25 @@
-1,2017-05-09 13:12:11 -0500,['/t/ml'],erythrina is a port of dmenu to OCaml,https://github.com/technomancy/erythrina/blob/master/erythrina.ml,/u/technomancy,27
-0,2017-05-10 09:53:26 -0500,"['/t/practices', '/t/python']",The Many Layers of Packaging,http://sedimental.org/the_packaging_gradient.html,/u/quobit,6
-0,2017-05-10 12:35:47 -0500,"['/t/linux', '/t/reversing', '/t/security']",Exploiting the Linux kernel via packet sockets,https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html,/u/jcs,4
-0,2017-05-10 08:39:31 -0500,"['/t/ios', '/t/mac', '/t/reversing']",Reverse Engineering Apple Location Services Protocol,https://appelsiini.net/2017/reverse-engineering-location-services/,/u/caius,6
-0,2017-05-10 09:33:24 -0500,"['/t/video', '/t/devops', '/t/practices']",Debugging Under Fire: Keep your Head when Systems have Lost their Mind,https://www.youtube.com/watch?v=30jNsCVLpAE,/u/sevan,5
-2,2017-05-10 06:35:56 -0500,"['/t/compilers', '/t/javascript', '/t/ml', '/t/release']",Queen: a JavaScript ES6 language with OCaml's pattern matching and first class functions,https://github.com/cpetrosi/Queen,/u/pushcx,5
-0,2017-05-10 12:51:53 -0500,"['/t/api', '/t/release']",Insomnia Is Now Open Source,https://insomnia.rest/blog/open-source-announcement/,/u/nbrempel,3
-0,2017-05-09 12:07:00 -0500,"['/t/linux', '/t/scaling']",CPU Utilization is Wrong,http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html,/u/apg,52
-24,2017-05-09 23:47:12 -0500,['/t/meta'],experiment with hiding fresh but boring comment scores - jcs/lobsters@08a64ec,https://github.com/jcs/lobsters/commit/08a64ec4c7c3917d10d393343eb26996d4671ab9,/u/spinda,25
-6,2017-05-09 11:38:02 -0500,"['/t/show', '/t/linux']","mmenu, a wrapper around dmenu to add support for math and clipboard",https://github.com/mortie/nixConf/blob/master/bin/mmenu,/u/mort,14
-2,2017-05-10 01:39:53 -0500,['/t/security'],Windows; unsandboxed highly privileged JavaScript interpreter is used to evaluate untrusted code,https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5,/u/panic,6
-0,2017-05-09 10:19:57 -0500,"['/t/distributed', '/t/erlang']",Lasp: a little further down the Erlang rabbithole,https://notamonadtutorial.com/lasp-a-little-further-down-the-erlang-rabbithole-febba29c8d0c,/u/unbalancedparentheses,21
-11,2017-05-09 10:26:10 -0500,"['/t/math', '/t/vcs']",Merging and patches,https://jneem.github.io/merging/,/u/luchs,17
-4,2017-05-10 07:55:33 -0500,['/t/mobile'],Why Are App Install Banners Still A Thing?,https://medium.com/dev-channel/why-are-app-install-banners-still-a-thing-18f3952d349a,/u/adsouza,1
-0,2017-05-10 06:07:51 -0500,"['/t/c', '/t/c++', '/t/lua', '/t/programming', '/t/release']","xmake v2.1.4 released, support REPL",http://tboox.org/2017/05/10/update-v2.1.4/,/u/ruki,1
-2,2017-05-10 02:30:46 -0500,"['/t/programming', '/t/ruby']",Code Simplicity - Value Objects,https://drivy.engineering/code_simplicity_value_objects/,/u/hoopla,2
-0,2017-05-09 11:33:40 -0500,"['/t/compilers', '/t/rust']",The Pain Of Real Linear Types in Rust,https://gankro.github.io/blah/linear-rust/,/u/pushcx,22
-0,2017-05-10 06:37:35 -0500,['/t/haskell'],Is Haskell a purely functional language? (2010),http://conal.net/blog/posts/is-haskell-a-purely-functional-language,/u/pushcx,2
-0,2017-05-10 09:08:18 -0500,['/t/design'],Basic Patterns For Mobile Navigation: Pros And Cons,https://blogs.adobe.com/creativecloud/basic-patterns-of-mobile-navigation/,/u/flyingfisch,1
-0,2017-05-10 09:07:07 -0500,['/t/css'],Making Custom Properties (CSS Variables) More Dynamic,https://css-tricks.com/making-custom-properties-css-variables-dynamic/,/u/flyingfisch,1
-0,2017-05-10 08:44:28 -0500,"['/t/programming', '/t/ruby']",Purposes & properties of value objects (2016),https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/,/u/hoopla,1
-1,2017-05-09 09:45:41 -0500,"['/t/art', '/t/elm', '/t/javascript']",Get Started Learning Music,https://learningmusic.ableton.com/,/u/stip,19
-0,2017-05-10 09:38:03 -0500,"['/t/pdf', '/t/culture', '/t/historical']",Xerox Star retrospective,http://www-lb.cs.umd.edu/class/spring2008/cmsc198G/Handouts/XeroxStar.pdf,/u/a-109-107,2
-7,2017-05-09 01:17:48 -0500,"['/t/distributed', '/t/networking']",Uncensorable Wikipedia on IPFS,https://ipfs.io/blog/24-uncensorable-wikipedia/,/u/neuromanc,28
-1,2017-05-09 10:15:10 -0500,['/t/hardware'],2017 Hard Drive Failure Rates - What the Numbers Tell Us,https://www.backblaze.com/blog/hard-drive-failure-rates-q1-2017/,/u/jpm1,16
+1,2017-05-09 13:12:11 -0500,/t/ml,erythrina is a port of dmenu to OCaml,https://github.com/technomancy/erythrina/blob/master/erythrina.ml,/u/technomancy,27
+0,2017-05-10 09:53:26 -0500,"/t/practices,/t/python",The Many Layers of Packaging,http://sedimental.org/the_packaging_gradient.html,/u/quobit,6
+0,2017-05-10 12:35:47 -0500,"/t/linux,/t/reversing,/t/security",Exploiting the Linux kernel via packet sockets,https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html,/u/jcs,4
+0,2017-05-10 08:39:31 -0500,"/t/ios,/t/mac,/t/reversing",Reverse Engineering Apple Location Services Protocol,https://appelsiini.net/2017/reverse-engineering-location-services/,/u/caius,6
+0,2017-05-10 09:33:24 -0500,"/t/video,/t/devops,/t/practices",Debugging Under Fire: Keep your Head when Systems have Lost their Mind,https://www.youtube.com/watch?v=30jNsCVLpAE,/u/sevan,5
+2,2017-05-10 06:35:56 -0500,"/t/compilers,/t/javascript,/t/ml,/t/release",Queen: a JavaScript ES6 language with OCaml's pattern matching and first class functions,https://github.com/cpetrosi/Queen,/u/pushcx,5
+0,2017-05-10 12:51:53 -0500,"/t/api,/t/release",Insomnia Is Now Open Source,https://insomnia.rest/blog/open-source-announcement/,/u/nbrempel,3
+0,2017-05-09 12:07:00 -0500,"/t/linux,/t/scaling",CPU Utilization is Wrong,http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html,/u/apg,52
+24,2017-05-09 23:47:12 -0500,/t/meta,experiment with hiding fresh but boring comment scores - jcs/lobsters@08a64ec,https://github.com/jcs/lobsters/commit/08a64ec4c7c3917d10d393343eb26996d4671ab9,/u/spinda,25
+6,2017-05-09 11:38:02 -0500,"/t/show,/t/linux","mmenu, a wrapper around dmenu to add support for math and clipboard",https://github.com/mortie/nixConf/blob/master/bin/mmenu,/u/mort,14
+2,2017-05-10 01:39:53 -0500,/t/security,Windows; unsandboxed highly privileged JavaScript interpreter is used to evaluate untrusted code,https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5,/u/panic,6
+0,2017-05-09 10:19:57 -0500,"/t/distributed,/t/erlang",Lasp: a little further down the Erlang rabbithole,https://notamonadtutorial.com/lasp-a-little-further-down-the-erlang-rabbithole-febba29c8d0c,/u/unbalancedparentheses,21
+11,2017-05-09 10:26:10 -0500,"/t/math,/t/vcs",Merging and patches,https://jneem.github.io/merging/,/u/luchs,17
+4,2017-05-10 07:55:33 -0500,/t/mobile,Why Are App Install Banners Still A Thing?,https://medium.com/dev-channel/why-are-app-install-banners-still-a-thing-18f3952d349a,/u/adsouza,1
+0,2017-05-10 06:07:51 -0500,"/t/c,/t/c++,/t/lua,/t/programming,/t/release","xmake v2.1.4 released, support REPL",http://tboox.org/2017/05/10/update-v2.1.4/,/u/ruki,1
+2,2017-05-10 02:30:46 -0500,"/t/programming,/t/ruby",Code Simplicity - Value Objects,https://drivy.engineering/code_simplicity_value_objects/,/u/hoopla,2
+0,2017-05-09 11:33:40 -0500,"/t/compilers,/t/rust",The Pain Of Real Linear Types in Rust,https://gankro.github.io/blah/linear-rust/,/u/pushcx,22
+0,2017-05-10 06:37:35 -0500,/t/haskell,Is Haskell a purely functional language? (2010),http://conal.net/blog/posts/is-haskell-a-purely-functional-language,/u/pushcx,2
+0,2017-05-10 09:08:18 -0500,/t/design,Basic Patterns For Mobile Navigation: Pros And Cons,https://blogs.adobe.com/creativecloud/basic-patterns-of-mobile-navigation/,/u/flyingfisch,1
+0,2017-05-10 09:07:07 -0500,/t/css,Making Custom Properties (CSS Variables) More Dynamic,https://css-tricks.com/making-custom-properties-css-variables-dynamic/,/u/flyingfisch,1
+0,2017-05-10 08:44:28 -0500,"/t/programming,/t/ruby",Purposes & properties of value objects (2016),https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/,/u/hoopla,1
+1,2017-05-09 09:45:41 -0500,"/t/art,/t/elm,/t/javascript",Get Started Learning Music,https://learningmusic.ableton.com/,/u/stip,19
+0,2017-05-10 09:38:03 -0500,"/t/pdf,/t/culture,/t/historical",Xerox Star retrospective,http://www-lb.cs.umd.edu/class/spring2008/cmsc198G/Handouts/XeroxStar.pdf,/u/a-109-107,2
+7,2017-05-09 01:17:48 -0500,"/t/distributed,/t/networking",Uncensorable Wikipedia on IPFS,https://ipfs.io/blog/24-uncensorable-wikipedia/,/u/neuromanc,28
+1,2017-05-09 10:15:10 -0500,/t/hardware,2017 Hard Drive Failure Rates - What the Numbers Tell Us,https://www.backblaze.com/blog/hard-drive-failure-rates-q1-2017/,/u/jpm1,16

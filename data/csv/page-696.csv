@@ -1,25 +1,25 @@
-1,2016-08-09 06:09:52 -0500,"['/t/video', '/t/cogsci']",Hacking Your Head : Managing Information Overload,https://media.ccc.de/v/emf2016-141-hacking-your-head-managing-information-overload,/u/sevan,3
-34,2016-08-08 07:13:43 -0500,['/t/ask'],What are you working on this week?,/s/gbgqj5/what_are_you_working_on_this_week,/u/caius,21
-93,2016-08-08 08:42:08 -0500,['/t/law'],GPLv4 – Starting the Conversation,https://www.christopherprice.net/gplv4-starting-the-conversation-2580.html,/u/sevan,15
-4,2016-08-08 12:00:06 -0500,"['/t/historical', '/t/scaling']",Me Too! (2004),https://blogs.technet.microsoft.com/exchange/2004/04/08/me-too/,/u/calvin,14
-9,2016-08-08 05:17:25 -0500,['/t/programming'],Large Diffs Are Hurting Your Ability To Ship,https://medium.com/@kurtisnusbaum/large-diffs-are-hurting-your-ability-to-ship-e0b2b41e8acf,/u/adsouza,17
-2,2016-08-08 14:52:15 -0500,"['/t/math', '/t/programming']",What the Functor is a Monad,https://realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/,/u/unbalancedparentheses,6
-0,2016-08-08 20:02:27 -0500,"['/t/book', '/t/lisp', '/t/programming']",Transforming Data with ClojureScript,http://langintro.com/icljs/,/u/kel,6
-0,2016-08-09 09:17:33 -0500,"['/t/video', '/t/culture', '/t/historical', '/t/practices']",The Mental Impact of Tech Interviews,https://www.youtube.com/watch?v=aIrKC41NwC0,/u/colindean,2
-0,2016-08-08 14:10:09 -0500,['/t/programming'],An Editor for Composed Programs,http://tratt.net/laurie/blog/entries/an_editor_for_composed_programs.html,/u/pushcx,11
-0,2016-08-08 06:08:14 -0500,['/t/distributed'],ARGUS (Programming Language and Runtime System),https://christophermeiklejohn.com/pl/2016/08/08/argus.html,/u/cmeiklejohn,13
-0,2016-08-08 13:59:46 -0500,['/t/distributed'],"Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System",http://blog.carlosgaldino.com/managing-update-conflicts-in-bayou-a-weakly-connected-replicated-storage-system.html,/u/carlosgaldino,5
-0,2016-08-08 13:57:25 -0500,"['/t/compilers', '/t/javascript']",What’s in a Continuation,http://jlongster.com/Whats-in-a-Continuation,/u/pushcx,9
-0,2016-08-09 09:24:01 -0500,['/t/practices'],Using a Slack Bot to Improve Customer Support,http://blog.runnable.com/post/148678111226/using-a-slack-bot-to-improve-customer-support,/u/sundip,0
-1,2016-08-08 11:23:38 -0500,"['/t/hardware', '/t/security']",QuadRooter: New Android Vulnerabilities in Over 900 Million Devices,http://blog.checkpoint.com/2016/08/07/quadrooter/,/u/pushcx,7
-0,2016-08-08 14:26:07 -0500,"['/t/video', '/t/devops', '/t/linux']",Purely Functional Linux with NixOS,https://begriffs.com/posts/2016-08-08-intro-to-nixos.html?hn=1,/u/pushcx,6
-0,2016-08-08 16:25:00 -0500,"['/t/assembly', '/t/hardware']",MOnSter 6502 - Built a 6502 CPU out of 3218 transistors,http://monster6502.com/,/u/rain1,4
-3,2016-08-08 13:51:30 -0500,"['/t/programming', '/t/release']",Today We Launch Version 11!—Wolfram Blog,http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/,/u/355E3B,2
-11,2016-08-07 22:19:35 -0500,"['/t/dotnet', '/t/scala']",Comparing Scala to F#,http://mikhail.io/2016/08/comparing-scala-to-fsharp/,/u/unbalancedparentheses,12
-1,2016-08-08 10:13:55 -0500,['/t/testing'],Characterization Testing,https://michaelfeathers.silvrback.com/characterization-testing,/u/pushcx,4
-0,2016-08-07 22:17:48 -0500,['/t/programming'],"Computation explained briskly, for programmers by Gary Bernhardt",https://www.destroyallsoftware.com/screencasts,/u/unbalancedparentheses,17
-0,2016-08-08 00:50:40 -0500,['/t/hardware'],Why do CPUs have multiple cache levels?,https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/,/u/av,12
-7,2016-08-07 11:24:01 -0500,"['/t/law', '/t/reversing']",EU expands copyright to furniture and extends term by a century,https://www.privateinternetaccess.com/blog/2016/08/3d-printers-break-eu-expands-copyright-furniture/,/u/friendlysock,24
-0,2016-08-08 14:02:28 -0500,"['/t/games', '/t/javascript']",Pixels and Tactics: Building a 2D RPG in the browser,http://amberonrails.com/pixels-and-tactics/,/u/pushcx,2
-8,2016-08-07 19:26:54 -0500,"['/t/cogsci', '/t/programming']",Why is machine learning not more widely used for medical diagnosis?,https://www.quora.com/Why-is-machine-learning-not-more-widely-used-for-medical-diagnosis,/u/nickpsecurity,9
-0,2016-08-08 08:11:22 -0500,"['/t/privacy', '/t/web']",Blocking-resistant communication through domain fronting (2015),https://www.bamsoftware.com/papers/fronting/,/u/jabberwock,4
+1,2016-08-09 06:09:52 -0500,"/t/video,/t/cogsci",Hacking Your Head : Managing Information Overload,https://media.ccc.de/v/emf2016-141-hacking-your-head-managing-information-overload,/u/sevan,3
+34,2016-08-08 07:13:43 -0500,/t/ask,What are you working on this week?,/s/gbgqj5/what_are_you_working_on_this_week,/u/caius,21
+93,2016-08-08 08:42:08 -0500,/t/law,GPLv4 – Starting the Conversation,https://www.christopherprice.net/gplv4-starting-the-conversation-2580.html,/u/sevan,15
+4,2016-08-08 12:00:06 -0500,"/t/historical,/t/scaling",Me Too! (2004),https://blogs.technet.microsoft.com/exchange/2004/04/08/me-too/,/u/calvin,14
+9,2016-08-08 05:17:25 -0500,/t/programming,Large Diffs Are Hurting Your Ability To Ship,https://medium.com/@kurtisnusbaum/large-diffs-are-hurting-your-ability-to-ship-e0b2b41e8acf,/u/adsouza,17
+2,2016-08-08 14:52:15 -0500,"/t/math,/t/programming",What the Functor is a Monad,https://realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/,/u/unbalancedparentheses,6
+0,2016-08-08 20:02:27 -0500,"/t/book,/t/lisp,/t/programming",Transforming Data with ClojureScript,http://langintro.com/icljs/,/u/kel,6
+0,2016-08-09 09:17:33 -0500,"/t/video,/t/culture,/t/historical,/t/practices",The Mental Impact of Tech Interviews,https://www.youtube.com/watch?v=aIrKC41NwC0,/u/colindean,2
+0,2016-08-08 14:10:09 -0500,/t/programming,An Editor for Composed Programs,http://tratt.net/laurie/blog/entries/an_editor_for_composed_programs.html,/u/pushcx,11
+0,2016-08-08 06:08:14 -0500,/t/distributed,ARGUS (Programming Language and Runtime System),https://christophermeiklejohn.com/pl/2016/08/08/argus.html,/u/cmeiklejohn,13
+0,2016-08-08 13:59:46 -0500,/t/distributed,"Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System",http://blog.carlosgaldino.com/managing-update-conflicts-in-bayou-a-weakly-connected-replicated-storage-system.html,/u/carlosgaldino,5
+0,2016-08-08 13:57:25 -0500,"/t/compilers,/t/javascript",What’s in a Continuation,http://jlongster.com/Whats-in-a-Continuation,/u/pushcx,9
+0,2016-08-09 09:24:01 -0500,/t/practices,Using a Slack Bot to Improve Customer Support,http://blog.runnable.com/post/148678111226/using-a-slack-bot-to-improve-customer-support,/u/sundip,0
+1,2016-08-08 11:23:38 -0500,"/t/hardware,/t/security",QuadRooter: New Android Vulnerabilities in Over 900 Million Devices,http://blog.checkpoint.com/2016/08/07/quadrooter/,/u/pushcx,7
+0,2016-08-08 14:26:07 -0500,"/t/video,/t/devops,/t/linux",Purely Functional Linux with NixOS,https://begriffs.com/posts/2016-08-08-intro-to-nixos.html?hn=1,/u/pushcx,6
+0,2016-08-08 16:25:00 -0500,"/t/assembly,/t/hardware",MOnSter 6502 - Built a 6502 CPU out of 3218 transistors,http://monster6502.com/,/u/rain1,4
+3,2016-08-08 13:51:30 -0500,"/t/programming,/t/release",Today We Launch Version 11!—Wolfram Blog,http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/,/u/355E3B,2
+11,2016-08-07 22:19:35 -0500,"/t/dotnet,/t/scala",Comparing Scala to F#,http://mikhail.io/2016/08/comparing-scala-to-fsharp/,/u/unbalancedparentheses,12
+1,2016-08-08 10:13:55 -0500,/t/testing,Characterization Testing,https://michaelfeathers.silvrback.com/characterization-testing,/u/pushcx,4
+0,2016-08-07 22:17:48 -0500,/t/programming,"Computation explained briskly, for programmers by Gary Bernhardt",https://www.destroyallsoftware.com/screencasts,/u/unbalancedparentheses,17
+0,2016-08-08 00:50:40 -0500,/t/hardware,Why do CPUs have multiple cache levels?,https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/,/u/av,12
+7,2016-08-07 11:24:01 -0500,"/t/law,/t/reversing",EU expands copyright to furniture and extends term by a century,https://www.privateinternetaccess.com/blog/2016/08/3d-printers-break-eu-expands-copyright-furniture/,/u/friendlysock,24
+0,2016-08-08 14:02:28 -0500,"/t/games,/t/javascript",Pixels and Tactics: Building a 2D RPG in the browser,http://amberonrails.com/pixels-and-tactics/,/u/pushcx,2
+8,2016-08-07 19:26:54 -0500,"/t/cogsci,/t/programming",Why is machine learning not more widely used for medical diagnosis?,https://www.quora.com/Why-is-machine-learning-not-more-widely-used-for-medical-diagnosis,/u/nickpsecurity,9
+0,2016-08-08 08:11:22 -0500,"/t/privacy,/t/web",Blocking-resistant communication through domain fronting (2015),https://www.bamsoftware.com/papers/fronting/,/u/jabberwock,4

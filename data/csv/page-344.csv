@@ -1,25 +1,25 @@
-0,2017-06-02 06:25:25 -0500,['/t/science'],‘Halos’ discovered on Mars widen time frame for potential life,http://www.lanl.gov/discover/news-release-archive/2017/May/0530-halos-discovered-on-mars.php,/u/stsp,3
-1,2017-06-01 20:03:08 -0500,"['/t/mobile', '/t/practices']",2017 Internet Trends Report,http://www.kpcb.com/internet-trends,/u/adsouza,9
-6,2017-06-01 18:52:57 -0500,"['/t/browsers', '/t/web']",Improving advertising on the web,https://blog.chromium.org/2017/06/improving-advertising-on-web.html,/u/moowiz,5
-4,2017-06-01 08:16:55 -0500,['/t/practices'],The best place to practice your programming skills,https://codewithoutrules.com/2017/06/01/practice-on-the-job/,/u/itamarst,10
-1,2017-06-01 04:06:38 -0500,"['/t/art', '/t/compsci', '/t/design']","Oh My Gosh, It’s Covered in Rule 30s!",http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/,/u/fcbsd,42
-15,2017-06-01 11:18:02 -0500,"['/t/programming', '/t/virtualization', '/t/web']",How to Set up a Super Productive Docker Development Environment,https://nrempel.com/guides/docker-development-environment.html,/u/nbrempel,5
-3,2017-06-01 05:59:25 -0500,"['/t/haskell', '/t/performance', '/t/programming']",Are Mutable References in Haskell Fast?,https://medium.com/@jonathangfischoff/are-mutable-references-in-haskell-fast-f095f4144977,/u/calvin,21
-0,2017-06-01 13:32:58 -0500,['/t/python'],Visualizing TensorFlow Graphs in Jupyter Notebooks,https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html,/u/darthdeus,6
-0,2017-06-01 12:59:41 -0500,"['/t/programming', '/t/python', '/t/unix']",Oil Shell: Post-Vacation Update and Build System Observations,http://www.oilshell.org/blog/2017/05/31.html,/u/andyc,7
-0,2017-06-02 07:30:13 -0500,"['/t/programming', '/t/ruby']",All Rails Conf 2017 videos,http://confreaks.tv/events/railsconf2017,/u/franzunix,1
-29,2017-05-31 14:02:35 -0500,"['/t/performance', '/t/programming']",Facts about Electron Performance (from the Postage for PostgreSQL project),https://github.com/workflowproducts/postage/blob/master/Facts_About_Electron_Performance.md,/u/justintocci,38
-0,2017-06-01 15:16:08 -0500,"['/t/compilers', '/t/haskell', '/t/programming']",veggies - Haskell Code Generation from Scratch,https://www.joachim-breitner.de/blog/719-veggies__Haskell_code_generation_from_scratch,/u/nickpsecurity,7
-0,2017-06-01 14:56:19 -0500,"['/t/pdf', '/t/cryptocurrencies', '/t/finance']","Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact",https://arxiv.org/abs/1703.03779,/u/pushcx,6
-0,2017-06-01 22:29:18 -0500,"['/t/elm', '/t/web']","A tutorial on the basics HTTP requests, JSON decoding, and multi-page routing in Elm.",https://hipstore.sploding.rocks/,/u/franzunix,2
-12,2017-06-01 01:55:21 -0500,"['/t/haskell', '/t/math']",What we talk about when we talk about types,https://joyofhaskell.com/posts/2017-05-31-is-vs-has.html,/u/NinjaTrappeur,12
-0,2017-06-01 21:09:08 -0500,['/t/historical'],Listening to the 78rpm Disc Collection,http://blog.archive.org/2017/05/11/listening-to-the-78s/,/u/mjn,2
-9,2017-05-31 19:31:44 -0500,"['/t/design', '/t/mobile']",Brutalist redesigns,http://www.pierrebuttin.com/work/brutalist-redesigns/,/u/calvin,20
-1,2017-06-01 10:55:56 -0500,"['/t/law', '/t/privacy']",Why the U.S. Can’t Kick Its Addiction to Social Security Numbers,https://www.bloomberg.com/news/articles/2017-06-01/identity-theft-feeds-on-social-security-numbers-run-amok,/u/pushcx,6
-0,2017-06-01 15:36:35 -0500,['/t/programming'],The Sororicide Antipattern,https://glyph.twistedmatrix.com/2017/05/the-sororicide-antipattern.html,/u/pushcx,3
-12,2017-05-31 14:59:01 -0500,"['/t/openbsd', '/t/security']",randomize the link order of .o files in the kernel,http://marc.info/?l=openbsd-cvs&m=149625830525338&w=2,/u/tedu,26
-3,2017-06-01 07:56:05 -0500,['/t/practices'],Deletability,http://kellysutton.com/2017/05/29/deletability.html,/u/flyingfisch,4
-1,2017-06-01 15:02:12 -0500,"['/t/finance', '/t/job', '/t/visualization']",TLDR Stock Options,https://tldroptions.io/,/u/friendlysock,3
-0,2017-06-01 17:12:10 -0500,"['/t/networking', '/t/security']",The HDFS Juggernaut,http://blog.shodan.io/the-hdfs-juggernaut/,/u/unbalancedparentheses,2
-0,2017-06-01 16:43:47 -0500,['/t/lisp'],Nightlight: An embedded editor for Clojure,https://github.com/oakes/Nightlight,/u/Yogthos,2
-5,2017-05-31 09:48:38 -0500,"['/t/historical', '/t/linux', '/t/unix']",Why Linux's Filesystem Recovery Beat Other Unixes,http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html,/u/pushcx,49
+0,2017-06-02 06:25:25 -0500,/t/science,‘Halos’ discovered on Mars widen time frame for potential life,http://www.lanl.gov/discover/news-release-archive/2017/May/0530-halos-discovered-on-mars.php,/u/stsp,3
+1,2017-06-01 20:03:08 -0500,"/t/mobile,/t/practices",2017 Internet Trends Report,http://www.kpcb.com/internet-trends,/u/adsouza,9
+6,2017-06-01 18:52:57 -0500,"/t/browsers,/t/web",Improving advertising on the web,https://blog.chromium.org/2017/06/improving-advertising-on-web.html,/u/moowiz,5
+4,2017-06-01 08:16:55 -0500,/t/practices,The best place to practice your programming skills,https://codewithoutrules.com/2017/06/01/practice-on-the-job/,/u/itamarst,10
+1,2017-06-01 04:06:38 -0500,"/t/art,/t/compsci,/t/design","Oh My Gosh, It’s Covered in Rule 30s!",http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/,/u/fcbsd,42
+15,2017-06-01 11:18:02 -0500,"/t/programming,/t/virtualization,/t/web",How to Set up a Super Productive Docker Development Environment,https://nrempel.com/guides/docker-development-environment.html,/u/nbrempel,5
+3,2017-06-01 05:59:25 -0500,"/t/haskell,/t/performance,/t/programming",Are Mutable References in Haskell Fast?,https://medium.com/@jonathangfischoff/are-mutable-references-in-haskell-fast-f095f4144977,/u/calvin,21
+0,2017-06-01 13:32:58 -0500,/t/python,Visualizing TensorFlow Graphs in Jupyter Notebooks,https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html,/u/darthdeus,6
+0,2017-06-01 12:59:41 -0500,"/t/programming,/t/python,/t/unix",Oil Shell: Post-Vacation Update and Build System Observations,http://www.oilshell.org/blog/2017/05/31.html,/u/andyc,7
+0,2017-06-02 07:30:13 -0500,"/t/programming,/t/ruby",All Rails Conf 2017 videos,http://confreaks.tv/events/railsconf2017,/u/franzunix,1
+29,2017-05-31 14:02:35 -0500,"/t/performance,/t/programming",Facts about Electron Performance (from the Postage for PostgreSQL project),https://github.com/workflowproducts/postage/blob/master/Facts_About_Electron_Performance.md,/u/justintocci,38
+0,2017-06-01 15:16:08 -0500,"/t/compilers,/t/haskell,/t/programming",veggies - Haskell Code Generation from Scratch,https://www.joachim-breitner.de/blog/719-veggies__Haskell_code_generation_from_scratch,/u/nickpsecurity,7
+0,2017-06-01 14:56:19 -0500,"/t/pdf,/t/cryptocurrencies,/t/finance","Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact",https://arxiv.org/abs/1703.03779,/u/pushcx,6
+0,2017-06-01 22:29:18 -0500,"/t/elm,/t/web","A tutorial on the basics HTTP requests, JSON decoding, and multi-page routing in Elm.",https://hipstore.sploding.rocks/,/u/franzunix,2
+12,2017-06-01 01:55:21 -0500,"/t/haskell,/t/math",What we talk about when we talk about types,https://joyofhaskell.com/posts/2017-05-31-is-vs-has.html,/u/NinjaTrappeur,12
+0,2017-06-01 21:09:08 -0500,/t/historical,Listening to the 78rpm Disc Collection,http://blog.archive.org/2017/05/11/listening-to-the-78s/,/u/mjn,2
+9,2017-05-31 19:31:44 -0500,"/t/design,/t/mobile",Brutalist redesigns,http://www.pierrebuttin.com/work/brutalist-redesigns/,/u/calvin,20
+1,2017-06-01 10:55:56 -0500,"/t/law,/t/privacy",Why the U.S. Can’t Kick Its Addiction to Social Security Numbers,https://www.bloomberg.com/news/articles/2017-06-01/identity-theft-feeds-on-social-security-numbers-run-amok,/u/pushcx,6
+0,2017-06-01 15:36:35 -0500,/t/programming,The Sororicide Antipattern,https://glyph.twistedmatrix.com/2017/05/the-sororicide-antipattern.html,/u/pushcx,3
+12,2017-05-31 14:59:01 -0500,"/t/openbsd,/t/security",randomize the link order of .o files in the kernel,http://marc.info/?l=openbsd-cvs&m=149625830525338&w=2,/u/tedu,26
+3,2017-06-01 07:56:05 -0500,/t/practices,Deletability,http://kellysutton.com/2017/05/29/deletability.html,/u/flyingfisch,4
+1,2017-06-01 15:02:12 -0500,"/t/finance,/t/job,/t/visualization",TLDR Stock Options,https://tldroptions.io/,/u/friendlysock,3
+0,2017-06-01 17:12:10 -0500,"/t/networking,/t/security",The HDFS Juggernaut,http://blog.shodan.io/the-hdfs-juggernaut/,/u/unbalancedparentheses,2
+0,2017-06-01 16:43:47 -0500,/t/lisp,Nightlight: An embedded editor for Clojure,https://github.com/oakes/Nightlight,/u/Yogthos,2
+5,2017-05-31 09:48:38 -0500,"/t/historical,/t/linux,/t/unix",Why Linux's Filesystem Recovery Beat Other Unixes,http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html,/u/pushcx,49

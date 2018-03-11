@@ -1,25 +1,25 @@
-2,2015-07-20 20:54:55 -0500,"['/t/haskell', '/t/python']",A Haskeller in Pythonland,http://www.skybluetrades.net/blog/posts/2015/07/20/a-haskeller-in-pythonland.html,/u/jtobin,20
-0,2015-07-21 09:47:12 -0500,"['/t/haskell', '/t/practices', '/t/programming']",The Slowest Software Development Methodology in the World,https://gilith.wordpress.com/2015/07/19/the-slowest-software-development-methodology-in-the-world/,/u/pushcx,5
-2,2015-07-21 07:34:48 -0500,"['/t/show', '/t/javascript']",push4food,https://github.com/zippy1978/push4food/blob/master/README.md,/u/flyingfisch,4
-0,2015-07-21 19:17:47 -0500,"['/t/distributed', '/t/scaling']",Challenges to Adopting Stronger Consistency at Scale,https://research.facebook.com/publications/837838699639922/challenges-to-adopting-stronger-consistency-at-scale/,/u/jitterted,1
-1,2015-07-21 02:24:00 -0500,"['/t/databases', '/t/networking', '/t/security']","It's the Data, Stupid!",http://blog.shodan.io/its-the-data-stupid/,/u/antifuchs,10
-0,2015-07-21 10:11:29 -0500,"['/t/compsci', '/t/haskell']","A gentle introduction to statistical relational learning: maths, code, and examples",http://phdp.github.io/posts/2015-07-13-srl-code.html,/u/tigerfinch,4
-0,2015-07-21 10:09:30 -0500,"['/t/book', '/t/javascript', '/t/programming']",Professor Frisby's Mostly Adequate Guide to Functional Programming,https://github.com/DrBoolean/mostly-adequate-guide,/u/pushcx,4
-10,2015-07-20 11:22:32 -0500,['/t/programming'],Proving sorted lists correct using the Coq proof assistent,http://www.randomhacks.net/2015/07/19/proving-sorted-lists-correct-using-coq-proof-assistent/,/u/pushcx,23
-0,2015-07-21 13:49:07 -0500,"['/t/video', '/t/python']","Swacker: Code to Hosted Container, No Docker Required",https://blog.giantswarm.io/swacker-ci-deploy-an-application-no-docker-required/,/u/kordless,1
-0,2015-07-20 20:22:30 -0500,"['/t/games', '/t/math']",Evaluating Splatoon's Ranking System,http://www.evanmiller.org/evaluating-splatoons-ranking-system.html,/u/pushcx,11
-4,2015-07-20 10:48:34 -0500,"['/t/practices', '/t/programming']",What is good code?,http://loup-vaillant.fr/articles/good-code,/u/tizoc,19
-1,2015-07-20 23:34:01 -0500,"['/t/culture', '/t/web']",Web Design - The First 100 Years,http://idlewords.com/talks/web_design_first_100_years.htm,/u/austinz,13
-0,2015-07-20 18:21:05 -0500,"['/t/networking', '/t/programming', '/t/unix']",A Tiny NTP client,http://seriot.ch/ntp.php,/u/pushcx,9
-33,2015-07-20 16:36:06 -0500,"['/t/ask', '/t/book']",What are you reading this week ?,/s/smpm9v/what_are_you_reading_this_week,/u/kai3x5,21
-0,2015-07-20 13:10:53 -0500,"['/t/event', '/t/security']",Password Hashing Competition Winner: Argon2,https://groups.google.com/forum/#!topic/crypto-competitions/3QNdmwBS98o,/u/jcs,15
-18,2015-07-19 19:03:42 -0500,"['/t/databases', '/t/scaling', '/t/security', '/t/web']","Why you should never, ever, ever use MongoDB",http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/,/u/cnst,55
-0,2015-07-20 17:22:31 -0500,['/t/release'],Announcing coreboot 4.1,http://www.coreboot.org/pipermail/coreboot/2015-July/080120.html,/u/sevan,8
-0,2015-07-20 17:28:23 -0500,"['/t/pdf', '/t/compsci', '/t/haskell']",Fun with Semirings: A Functional Pearl on the Abuse of Linear Algebra,https://www.cl.cam.ac.uk/~sd601/papers/semirings.pdf,/u/dinh,7
-0,2015-07-20 14:27:31 -0500,['/t/hardware'],Coin Card Teardown,http://www.bitsofcents.com/post/124593977646/coin-card-teardown,/u/pushcx,9
-8,2015-07-20 12:41:52 -0500,['/t/ask'],What are you working on this week?,/s/xyflxv/what_are_you_working_on_this_week,/u/davidjpeacock,16
-0,2015-07-20 10:18:27 -0500,['/t/event'],hackthe.computer 2015 coding competition,https://hackthe.computer,/u/jtolds,11
-0,2015-07-20 12:27:37 -0500,['/t/distributed'],Thoughts Evoked by CircleCI Outage,http://blog.mihasya.com/2015/07/19/thoughts-evoked-by-circleci-outage.html,/u/kb,8
-0,2015-07-20 20:09:41 -0500,['/t/programming'],Language Versions,http://steveshogren.github.io/language-versions,/u/steveshogren,3
-0,2015-07-20 19:58:18 -0500,"['/t/hardware', '/t/mobile', '/t/security']",How (not) to build a secure mobile messaging platform,https://mikkolehtisalo.wordpress.com/2015/07/12/how-not-to-build-a-secure-mobile-messaging-platform/,/u/calvin,3
-3,2015-07-20 10:17:45 -0500,"['/t/browsers', '/t/programming', '/t/release']",Taking Chrome DevTools outside of the browser,https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1,/u/pushcx,5
+2,2015-07-20 20:54:55 -0500,"/t/haskell,/t/python",A Haskeller in Pythonland,http://www.skybluetrades.net/blog/posts/2015/07/20/a-haskeller-in-pythonland.html,/u/jtobin,20
+0,2015-07-21 09:47:12 -0500,"/t/haskell,/t/practices,/t/programming",The Slowest Software Development Methodology in the World,https://gilith.wordpress.com/2015/07/19/the-slowest-software-development-methodology-in-the-world/,/u/pushcx,5
+2,2015-07-21 07:34:48 -0500,"/t/show,/t/javascript",push4food,https://github.com/zippy1978/push4food/blob/master/README.md,/u/flyingfisch,4
+0,2015-07-21 19:17:47 -0500,"/t/distributed,/t/scaling",Challenges to Adopting Stronger Consistency at Scale,https://research.facebook.com/publications/837838699639922/challenges-to-adopting-stronger-consistency-at-scale/,/u/jitterted,1
+1,2015-07-21 02:24:00 -0500,"/t/databases,/t/networking,/t/security","It's the Data, Stupid!",http://blog.shodan.io/its-the-data-stupid/,/u/antifuchs,10
+0,2015-07-21 10:11:29 -0500,"/t/compsci,/t/haskell","A gentle introduction to statistical relational learning: maths, code, and examples",http://phdp.github.io/posts/2015-07-13-srl-code.html,/u/tigerfinch,4
+0,2015-07-21 10:09:30 -0500,"/t/book,/t/javascript,/t/programming",Professor Frisby's Mostly Adequate Guide to Functional Programming,https://github.com/DrBoolean/mostly-adequate-guide,/u/pushcx,4
+10,2015-07-20 11:22:32 -0500,/t/programming,Proving sorted lists correct using the Coq proof assistent,http://www.randomhacks.net/2015/07/19/proving-sorted-lists-correct-using-coq-proof-assistent/,/u/pushcx,23
+0,2015-07-21 13:49:07 -0500,"/t/video,/t/python","Swacker: Code to Hosted Container, No Docker Required",https://blog.giantswarm.io/swacker-ci-deploy-an-application-no-docker-required/,/u/kordless,1
+0,2015-07-20 20:22:30 -0500,"/t/games,/t/math",Evaluating Splatoon's Ranking System,http://www.evanmiller.org/evaluating-splatoons-ranking-system.html,/u/pushcx,11
+4,2015-07-20 10:48:34 -0500,"/t/practices,/t/programming",What is good code?,http://loup-vaillant.fr/articles/good-code,/u/tizoc,19
+1,2015-07-20 23:34:01 -0500,"/t/culture,/t/web",Web Design - The First 100 Years,http://idlewords.com/talks/web_design_first_100_years.htm,/u/austinz,13
+0,2015-07-20 18:21:05 -0500,"/t/networking,/t/programming,/t/unix",A Tiny NTP client,http://seriot.ch/ntp.php,/u/pushcx,9
+33,2015-07-20 16:36:06 -0500,"/t/ask,/t/book",What are you reading this week ?,/s/smpm9v/what_are_you_reading_this_week,/u/kai3x5,21
+0,2015-07-20 13:10:53 -0500,"/t/event,/t/security",Password Hashing Competition Winner: Argon2,https://groups.google.com/forum/#!topic/crypto-competitions/3QNdmwBS98o,/u/jcs,15
+18,2015-07-19 19:03:42 -0500,"/t/databases,/t/scaling,/t/security,/t/web","Why you should never, ever, ever use MongoDB",http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/,/u/cnst,55
+0,2015-07-20 17:22:31 -0500,/t/release,Announcing coreboot 4.1,http://www.coreboot.org/pipermail/coreboot/2015-July/080120.html,/u/sevan,8
+0,2015-07-20 17:28:23 -0500,"/t/pdf,/t/compsci,/t/haskell",Fun with Semirings: A Functional Pearl on the Abuse of Linear Algebra,https://www.cl.cam.ac.uk/~sd601/papers/semirings.pdf,/u/dinh,7
+0,2015-07-20 14:27:31 -0500,/t/hardware,Coin Card Teardown,http://www.bitsofcents.com/post/124593977646/coin-card-teardown,/u/pushcx,9
+8,2015-07-20 12:41:52 -0500,/t/ask,What are you working on this week?,/s/xyflxv/what_are_you_working_on_this_week,/u/davidjpeacock,16
+0,2015-07-20 10:18:27 -0500,/t/event,hackthe.computer 2015 coding competition,https://hackthe.computer,/u/jtolds,11
+0,2015-07-20 12:27:37 -0500,/t/distributed,Thoughts Evoked by CircleCI Outage,http://blog.mihasya.com/2015/07/19/thoughts-evoked-by-circleci-outage.html,/u/kb,8
+0,2015-07-20 20:09:41 -0500,/t/programming,Language Versions,http://steveshogren.github.io/language-versions,/u/steveshogren,3
+0,2015-07-20 19:58:18 -0500,"/t/hardware,/t/mobile,/t/security",How (not) to build a secure mobile messaging platform,https://mikkolehtisalo.wordpress.com/2015/07/12/how-not-to-build-a-secure-mobile-messaging-platform/,/u/calvin,3
+3,2015-07-20 10:17:45 -0500,"/t/browsers,/t/programming,/t/release",Taking Chrome DevTools outside of the browser,https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1,/u/pushcx,5

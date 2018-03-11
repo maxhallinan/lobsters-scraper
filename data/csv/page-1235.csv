@@ -1,25 +1,25 @@
-0,2014-10-13 01:05:46 -0500,"['/t/dotnet', '/t/programming']",The Great Unicorn Hunt,https://www.jeremymorgan.com/blog/programming/the-great-unicorn-hunt/,/u/JeremyMorgan,1
-0,2014-10-12 10:54:35 -0500,"['/t/slides', '/t/c', '/t/practices']",Enemy of the State,https://speakerdeck.com/jspahrsummers/enemy-of-the-state,/u/pushcx,4
-5,2014-10-11 16:24:51 -0500,"['/t/mac', '/t/unix']",Behind OS X’s modern face lies an aging collection of Unix tools,http://robservatory.com/behind-os-xs-modern-face-lies-an-aging-collection-of-unix-tools/,/u/pushcx,15
-14,2014-10-11 13:39:12 -0500,"['/t/databases', '/t/distributed']","Redis cluster, no longer vaporware.",http://antirez.com/news/79,/u/apy,16
-8,2014-10-11 08:51:53 -0500,['/t/haskell'],Hailstorm: Haskell distributed stream processing with exactly-once semantics,https://github.com/hailstorm-hs/hailstorm,/u/SeanTAllen,10
-2,2014-10-11 08:52:42 -0500,['/t/programming'],Beginning Factor – Shufflers & Combinators,http://elasticdog.com/2008/12/beginning-factor-shufflers-and-combinators/,/u/SeanTAllen,11
-0,2014-10-12 01:24:37 -0500,['/t/design'],Conducting User Tests With an Oculus Rift,https://www.twentymilliseconds.com/post/user-testing-oculus-rift/,/u/kb,1
-4,2014-10-11 12:22:28 -0500,['/t/culture'],The internet has made defensive writers of us all,http://pchiusano.github.io/2014-10-11/defensive-writing,/u/kellogh,12
-1,2014-10-11 05:12:09 -0500,"['/t/emacs', '/t/release']",pdf-tools,https://github.com/politza/pdf-tools,/u/csantosb,9
-0,2014-10-11 08:51:18 -0500,"['/t/practices', '/t/programming']",Thinking for Programmers,http://channel9.msdn.com/Events/Build/2014/3-642?mc_cid=96d196a798&mc_eid=1a911f70cd,/u/SeanTAllen,6
-3,2014-10-11 02:06:06 -0500,"['/t/api', '/t/web']","Move fast, don't break your API",http://amberonrails.com/move-fast-dont-break-your-api/,/u/antifuchs,10
-0,2014-10-11 18:18:20 -0500,"['/t/pdf', '/t/show', '/t/api', '/t/book']",Recipe Fiddle - Recipe book generator,http://recipefiddle.com/blog,/u/thangalin,1
-0,2014-10-11 10:15:13 -0500,"['/t/pdf', '/t/practices']",Laws of Software Engineering Circa 2014,http://namcookanalytics.com/wp-content/uploads/2014/02/SoftwareLaws2014.pdf,/u/pushcx,3
-0,2014-10-10 19:22:17 -0500,['/t/linux'],Watch YouTube videos in terminal,http://unix.stackexchange.com/a/160221,/u/vg,7
-3,2014-10-10 20:09:55 -0500,"['/t/ios', '/t/reversing']",How App Store Apps are Hacked on Non-Jailbroken Phones,http://www.zdziarski.com/blog/?p=4002,/u/jcs,4
-1,2014-10-10 10:11:13 -0500,['/t/devops'],My Philosophy on Alerting,https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#,/u/pushcx,14
-10,2014-10-09 23:42:32 -0500,['/t/programming'],Rich Command Shells,http://waywardmonkeys.org/2014/10/10/rich-command-shells/,/u/BruceM,31
-1,2014-10-10 17:14:24 -0500,"['/t/hardware', '/t/security']",EM is beginning to lose the non-invasive touch,http://bristolcrypto.blogspot.com/2014/10/em-is-beginning-to-lose-non-invasive.html,/u/tedu,5
-18,2014-10-10 08:13:51 -0500,['/t/unix'],explainshell.com - find . -type f -print0,http://explainshell.com/explain?cmd=find%20.%20-type%20f%20-print0,/u/animatronic,7
-0,2014-10-10 12:49:53 -0500,"['/t/culture', '/t/unix']",The Two Cultures of Computing,http://pgbovine.net/two-cultures-of-computing.htm,/u/pushcx,12
-1,2014-10-10 10:03:50 -0500,['/t/practices'],Incident Response at Heroku,https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku,/u/pushcx,7
-1,2014-10-10 13:07:33 -0500,"['/t/video', '/t/api', '/t/programming']",Rest - Building APIs Easily,https://skillsmatter.com/skillscasts/5403-rest-building-apis-easily,/u/bitemyapp,4
-0,2014-10-10 20:26:55 -0500,['/t/windows'],Why is 0x00400000 the default base address for an executable?,http://blogs.msdn.com/b/oldnewthing/archive/2014/10/03/10562176.aspx,/u/tedu,1
-0,2014-10-10 06:23:42 -0500,"['/t/programming', '/t/release', '/t/unix']",Rump Kernels: No OS? No Problem!,http://rumpkernel.org/misc/usenix-login-2014/,/u/kaveman,7
-0,2014-10-10 09:00:07 -0500,"['/t/programming', '/t/security']",Protect Your Docker Containers Against Shellshock,http://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/,/u/KickingTheTV,3
+0,2014-10-13 01:05:46 -0500,"/t/dotnet,/t/programming",The Great Unicorn Hunt,https://www.jeremymorgan.com/blog/programming/the-great-unicorn-hunt/,/u/JeremyMorgan,1
+0,2014-10-12 10:54:35 -0500,"/t/slides,/t/c,/t/practices",Enemy of the State,https://speakerdeck.com/jspahrsummers/enemy-of-the-state,/u/pushcx,4
+5,2014-10-11 16:24:51 -0500,"/t/mac,/t/unix",Behind OS X’s modern face lies an aging collection of Unix tools,http://robservatory.com/behind-os-xs-modern-face-lies-an-aging-collection-of-unix-tools/,/u/pushcx,15
+14,2014-10-11 13:39:12 -0500,"/t/databases,/t/distributed","Redis cluster, no longer vaporware.",http://antirez.com/news/79,/u/apy,16
+8,2014-10-11 08:51:53 -0500,/t/haskell,Hailstorm: Haskell distributed stream processing with exactly-once semantics,https://github.com/hailstorm-hs/hailstorm,/u/SeanTAllen,10
+2,2014-10-11 08:52:42 -0500,/t/programming,Beginning Factor – Shufflers & Combinators,http://elasticdog.com/2008/12/beginning-factor-shufflers-and-combinators/,/u/SeanTAllen,11
+0,2014-10-12 01:24:37 -0500,/t/design,Conducting User Tests With an Oculus Rift,https://www.twentymilliseconds.com/post/user-testing-oculus-rift/,/u/kb,1
+4,2014-10-11 12:22:28 -0500,/t/culture,The internet has made defensive writers of us all,http://pchiusano.github.io/2014-10-11/defensive-writing,/u/kellogh,12
+1,2014-10-11 05:12:09 -0500,"/t/emacs,/t/release",pdf-tools,https://github.com/politza/pdf-tools,/u/csantosb,9
+0,2014-10-11 08:51:18 -0500,"/t/practices,/t/programming",Thinking for Programmers,http://channel9.msdn.com/Events/Build/2014/3-642?mc_cid=96d196a798&mc_eid=1a911f70cd,/u/SeanTAllen,6
+3,2014-10-11 02:06:06 -0500,"/t/api,/t/web","Move fast, don't break your API",http://amberonrails.com/move-fast-dont-break-your-api/,/u/antifuchs,10
+0,2014-10-11 18:18:20 -0500,"/t/pdf,/t/show,/t/api,/t/book",Recipe Fiddle - Recipe book generator,http://recipefiddle.com/blog,/u/thangalin,1
+0,2014-10-11 10:15:13 -0500,"/t/pdf,/t/practices",Laws of Software Engineering Circa 2014,http://namcookanalytics.com/wp-content/uploads/2014/02/SoftwareLaws2014.pdf,/u/pushcx,3
+0,2014-10-10 19:22:17 -0500,/t/linux,Watch YouTube videos in terminal,http://unix.stackexchange.com/a/160221,/u/vg,7
+3,2014-10-10 20:09:55 -0500,"/t/ios,/t/reversing",How App Store Apps are Hacked on Non-Jailbroken Phones,http://www.zdziarski.com/blog/?p=4002,/u/jcs,4
+1,2014-10-10 10:11:13 -0500,/t/devops,My Philosophy on Alerting,https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#,/u/pushcx,14
+10,2014-10-09 23:42:32 -0500,/t/programming,Rich Command Shells,http://waywardmonkeys.org/2014/10/10/rich-command-shells/,/u/BruceM,31
+1,2014-10-10 17:14:24 -0500,"/t/hardware,/t/security",EM is beginning to lose the non-invasive touch,http://bristolcrypto.blogspot.com/2014/10/em-is-beginning-to-lose-non-invasive.html,/u/tedu,5
+18,2014-10-10 08:13:51 -0500,/t/unix,explainshell.com - find . -type f -print0,http://explainshell.com/explain?cmd=find%20.%20-type%20f%20-print0,/u/animatronic,7
+0,2014-10-10 12:49:53 -0500,"/t/culture,/t/unix",The Two Cultures of Computing,http://pgbovine.net/two-cultures-of-computing.htm,/u/pushcx,12
+1,2014-10-10 10:03:50 -0500,/t/practices,Incident Response at Heroku,https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku,/u/pushcx,7
+1,2014-10-10 13:07:33 -0500,"/t/video,/t/api,/t/programming",Rest - Building APIs Easily,https://skillsmatter.com/skillscasts/5403-rest-building-apis-easily,/u/bitemyapp,4
+0,2014-10-10 20:26:55 -0500,/t/windows,Why is 0x00400000 the default base address for an executable?,http://blogs.msdn.com/b/oldnewthing/archive/2014/10/03/10562176.aspx,/u/tedu,1
+0,2014-10-10 06:23:42 -0500,"/t/programming,/t/release,/t/unix",Rump Kernels: No OS? No Problem!,http://rumpkernel.org/misc/usenix-login-2014/,/u/kaveman,7
+0,2014-10-10 09:00:07 -0500,"/t/programming,/t/security",Protect Your Docker Containers Against Shellshock,http://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/,/u/KickingTheTV,3

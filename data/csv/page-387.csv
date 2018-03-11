@@ -1,25 +1,25 @@
-2,2017-04-28 14:03:22 -0500,"['/t/python', '/t/satire']",[Python-Dev] The next major Python version will be Python 8,https://mail.python.org/pipermail/python-dev/2016-March/143603.html,/u/lukas,2
-0,2017-04-28 12:09:20 -0500,"['/t/compilers', '/t/compsci', '/t/programming']",Proposal for a CompCert Superoptimizer,https://blog.regehr.org/archives/496,/u/nickpsecurity,1
-2,2017-04-27 16:52:37 -0500,"['/t/ml', '/t/programming', '/t/testing']",Using Property-Based Testing on DHCP Library,https://somerandomidiot.com/blog/2017/04/26/crowbar-dhcp/,/u/nickpsecurity,11
-0,2017-04-27 16:52:30 -0500,"['/t/browsers', '/t/security']",Chrome Site Isolation,https://www.chromium.org/developers/design-documents/site-isolation,/u/kb,10
-6,2017-04-27 09:47:33 -0500,['/t/practices'],New AMD Drivers Include Desktop Ad,https://www.techpowerup.com/232775/amd-releases-radeon-software-crimson-relive-17-4-4-drivers,/u/pushcx,11
-1,2017-04-27 15:59:38 -0500,"['/t/api', '/t/javascript']",gRPC-Web: Moving past REST+JSON towards type-safe Web APIs,https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis,/u/Xorlev,9
-0,2017-04-27 21:47:30 -0500,"['/t/pdf', '/t/privacy', '/t/web']",Block Me If You Can,https://www.sba-research.org/wp-content/uploads/publications/block_me_if_you_can.pdf,/u/pushcx,4
-12,2017-04-27 08:51:32 -0500,"['/t/python', '/t/testing']",Misadventures with Property-Based TDD: A Lesson Learned,http://natpryce.com/articles/000800.html,/u/pushcx,9
-3,2017-04-27 05:02:55 -0500,"['/t/audio', '/t/openbsd']",OpenBSD 6.1 Song Released,http://undeadly.org/cgi?action=article&sid=20170427041445,/u/calvin,19
-0,2017-04-27 11:44:24 -0500,['/t/compsci'],A dive into spatial search algorithms,https://medium.com/@agafonkin/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a,/u/pushcx,10
-4,2017-04-27 03:40:56 -0500,['/t/programming'],Installing GNAT and SPARK GPL Editions,https://bluishcoder.co.nz/2017/04/27/installing-gnat-and-spark-gpl-editions.html,/u/doublec,6
-0,2017-04-27 16:31:14 -0500,"['/t/release', '/t/ruby']","Rails 5.1: Loving JavaScript, System Tests, Encrypted Secrets, and more",http://weblog.rubyonrails.org/2017/4/27/Rails-5-1-final/,/u/havenwood,5
-6,2017-04-27 09:59:09 -0500,"['/t/slides', '/t/privacy', '/t/security']",The Internet of Onion Things (2016),https://github.com/n8fr8/talks/blob/master/onion_things/Internet%20of%20Onion%20Things.pdf,/u/azdle,5
-1,2017-04-27 08:32:18 -0500,['/t/compilers'],Agner's new idea: Re-linkable libraries,http://www.agner.org/optimize/blog/read.php?i=833,/u/qznc,8
-0,2017-04-27 11:31:08 -0500,"['/t/art', '/t/c']",Multi-Dimensional Analog Literals in C++,http://www.eelis.net/C++/analogliterals.xhtml,/u/antifuchs,8
-0,2017-04-27 12:18:08 -0500,"['/t/javascript', '/t/release']",Announcing TypeScript 2.3,https://blogs.msdn.microsoft.com/typescript/2017/04/27/announcing-typescript-2-3/,/u/joshuacc,7
-11,2017-04-26 15:12:40 -0500,['/t/c'],nuklear: a single-header ANSI C GUI library,https://github.com/vurtun/nuklear,/u/jcs,35
-2,2017-04-27 11:31:43 -0500,['/t/cryptocurrencies'],Cryptocurrencies On the New Social Network Mastodon,https://carlchenet.com/cryptocurrencies-on-the-new-social-network-mastodon/,/u/chaica,6
-4,2017-04-27 00:47:48 -0500,"['/t/browsers', '/t/historical', '/t/mac']",The Life and Death of Camino,http://eggfreckles.net/favorite/camino/,/u/majjoha,11
-0,2017-04-27 12:13:50 -0500,['/t/python'],Python to python compiler that allows you to use Python 3.6 features in older versions.,https://github.com/nvbn/py-backwards,/u/ngoldbaum,4
-1,2017-04-27 09:31:57 -0500,['/t/programming'],Tout est Terrible,http://ferd.ca/tout-est-terrible.html,/u/jdarnold,3
-1,2017-04-27 10:49:09 -0500,"['/t/games', '/t/historical']",Kirby’s Development Secrets,http://sourcegaming.info/2017/04/19/kirbys-development-secrets/,/u/pushcx,3
-0,2017-04-27 13:31:43 -0500,"['/t/pdf', '/t/haskell']",Parsec: Direct Style Monadic Parser Combinators For The Real World,https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/parsec-paper-letter.pdf,/u/NinjaTrappeur,3
-28,2017-04-26 14:34:14 -0500,"['/t/law', '/t/science']",Oregon is very finicky about people calling themselves engineers,http://reason.com/blog/2017/04/26/after-challenging-red-light-cameras-oreg,/u/kghose,21
-0,2017-04-27 20:10:35 -0500,"['/t/hardware', '/t/rant', '/t/security']",nomx: The world's most secure communications protocol,https://scotthelme.co.uk/nomx-the-worlds-most-secure-communications-protocol/,/u/hwayne,2
+2,2017-04-28 14:03:22 -0500,"/t/python,/t/satire",[Python-Dev] The next major Python version will be Python 8,https://mail.python.org/pipermail/python-dev/2016-March/143603.html,/u/lukas,2
+0,2017-04-28 12:09:20 -0500,"/t/compilers,/t/compsci,/t/programming",Proposal for a CompCert Superoptimizer,https://blog.regehr.org/archives/496,/u/nickpsecurity,1
+2,2017-04-27 16:52:37 -0500,"/t/ml,/t/programming,/t/testing",Using Property-Based Testing on DHCP Library,https://somerandomidiot.com/blog/2017/04/26/crowbar-dhcp/,/u/nickpsecurity,11
+0,2017-04-27 16:52:30 -0500,"/t/browsers,/t/security",Chrome Site Isolation,https://www.chromium.org/developers/design-documents/site-isolation,/u/kb,10
+6,2017-04-27 09:47:33 -0500,/t/practices,New AMD Drivers Include Desktop Ad,https://www.techpowerup.com/232775/amd-releases-radeon-software-crimson-relive-17-4-4-drivers,/u/pushcx,11
+1,2017-04-27 15:59:38 -0500,"/t/api,/t/javascript",gRPC-Web: Moving past REST+JSON towards type-safe Web APIs,https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis,/u/Xorlev,9
+0,2017-04-27 21:47:30 -0500,"/t/pdf,/t/privacy,/t/web",Block Me If You Can,https://www.sba-research.org/wp-content/uploads/publications/block_me_if_you_can.pdf,/u/pushcx,4
+12,2017-04-27 08:51:32 -0500,"/t/python,/t/testing",Misadventures with Property-Based TDD: A Lesson Learned,http://natpryce.com/articles/000800.html,/u/pushcx,9
+3,2017-04-27 05:02:55 -0500,"/t/audio,/t/openbsd",OpenBSD 6.1 Song Released,http://undeadly.org/cgi?action=article&sid=20170427041445,/u/calvin,19
+0,2017-04-27 11:44:24 -0500,/t/compsci,A dive into spatial search algorithms,https://medium.com/@agafonkin/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a,/u/pushcx,10
+4,2017-04-27 03:40:56 -0500,/t/programming,Installing GNAT and SPARK GPL Editions,https://bluishcoder.co.nz/2017/04/27/installing-gnat-and-spark-gpl-editions.html,/u/doublec,6
+0,2017-04-27 16:31:14 -0500,"/t/release,/t/ruby","Rails 5.1: Loving JavaScript, System Tests, Encrypted Secrets, and more",http://weblog.rubyonrails.org/2017/4/27/Rails-5-1-final/,/u/havenwood,5
+6,2017-04-27 09:59:09 -0500,"/t/slides,/t/privacy,/t/security",The Internet of Onion Things (2016),https://github.com/n8fr8/talks/blob/master/onion_things/Internet%20of%20Onion%20Things.pdf,/u/azdle,5
+1,2017-04-27 08:32:18 -0500,/t/compilers,Agner's new idea: Re-linkable libraries,http://www.agner.org/optimize/blog/read.php?i=833,/u/qznc,8
+0,2017-04-27 11:31:08 -0500,"/t/art,/t/c",Multi-Dimensional Analog Literals in C++,http://www.eelis.net/C++/analogliterals.xhtml,/u/antifuchs,8
+0,2017-04-27 12:18:08 -0500,"/t/javascript,/t/release",Announcing TypeScript 2.3,https://blogs.msdn.microsoft.com/typescript/2017/04/27/announcing-typescript-2-3/,/u/joshuacc,7
+11,2017-04-26 15:12:40 -0500,/t/c,nuklear: a single-header ANSI C GUI library,https://github.com/vurtun/nuklear,/u/jcs,35
+2,2017-04-27 11:31:43 -0500,/t/cryptocurrencies,Cryptocurrencies On the New Social Network Mastodon,https://carlchenet.com/cryptocurrencies-on-the-new-social-network-mastodon/,/u/chaica,6
+4,2017-04-27 00:47:48 -0500,"/t/browsers,/t/historical,/t/mac",The Life and Death of Camino,http://eggfreckles.net/favorite/camino/,/u/majjoha,11
+0,2017-04-27 12:13:50 -0500,/t/python,Python to python compiler that allows you to use Python 3.6 features in older versions.,https://github.com/nvbn/py-backwards,/u/ngoldbaum,4
+1,2017-04-27 09:31:57 -0500,/t/programming,Tout est Terrible,http://ferd.ca/tout-est-terrible.html,/u/jdarnold,3
+1,2017-04-27 10:49:09 -0500,"/t/games,/t/historical",Kirby’s Development Secrets,http://sourcegaming.info/2017/04/19/kirbys-development-secrets/,/u/pushcx,3
+0,2017-04-27 13:31:43 -0500,"/t/pdf,/t/haskell",Parsec: Direct Style Monadic Parser Combinators For The Real World,https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/parsec-paper-letter.pdf,/u/NinjaTrappeur,3
+28,2017-04-26 14:34:14 -0500,"/t/law,/t/science",Oregon is very finicky about people calling themselves engineers,http://reason.com/blog/2017/04/26/after-challenging-red-light-cameras-oreg,/u/kghose,21
+0,2017-04-27 20:10:35 -0500,"/t/hardware,/t/rant,/t/security",nomx: The world's most secure communications protocol,https://scotthelme.co.uk/nomx-the-worlds-most-secure-communications-protocol/,/u/hwayne,2

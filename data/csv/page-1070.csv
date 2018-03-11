@@ -1,25 +1,25 @@
-0,2015-07-16 08:31:36 -0500,"['/t/compilers', '/t/dotnet']",Killing Off Wasabi – Part 2,http://blog.fogcreek.com/killing-off-wasabi-part-2/,/u/joshuacc,8
-0,2015-07-16 15:45:07 -0500,['/t/release'],Technical Thursdays or: How we do Continuous Learning,http://wyeworks.com/blog/2015/7/16/technical-thursdays-or-how-we-do-continuous-learning,/u/smartinez87,2
-0,2015-07-16 13:22:43 -0500,['/t/api'],Day One with the Amazon API Gateway,https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html,/u/journeysquid,2
-3,2015-07-16 18:31:58 -0500,['/t/meta'],Viewing multiple tags,/s/77qivo/viewing_multiple_tags,/u/mwillsey,2
-4,2015-07-16 15:05:25 -0500,['/t/culture'],Reddit: let's talk content,https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/,/u/skade,3
-4,2015-07-16 06:06:18 -0500,['/t/culture'],The Web We Should Transcend,https://tante.cc/2015/07/15/the-web-we-should-transcend/,/u/tante,8
-2,2015-07-15 11:13:35 -0500,"['/t/unix', '/t/web']","Terminal output to the browser in seconds, using UNIX pipes",http://rtail.org/,/u/jcs,22
-1,2015-07-16 12:47:36 -0500,"['/t/hardware', '/t/release']",Project Buendia: open-source medical record system for humanitarian relief missiones,http://projectbuendia.org,/u/stig,1
-19,2015-07-14 22:14:44 -0500,"['/t/networking', '/t/programming']",Three Dead Protocols,http://blog.annharter.com/2015/07/15/three-dead-protocols.html,/u/englishm,57
-0,2015-07-15 16:25:31 -0500,"['/t/haskell', '/t/programming']",Haskell's Type Classes: We Can Do Better,http://degoes.net/articles/principled-typeclasses/,/u/julienXX,15
-0,2015-07-16 06:58:04 -0500,"['/t/assembly', '/t/release']",hnwatch – Linux x64 terminal-based real-time HN watcher/reader,https://2ton.com.au/hnwatch/,/u/mulander,2
-4,2015-07-15 19:56:30 -0500,"['/t/ask', '/t/practices']",What are your favourite books (or other writings) on debugging?,/s/nzgrdq/what_are_your_favourite_books_other,/u/GeoffWozniak,10
-0,2015-07-15 16:54:17 -0500,"['/t/video', '/t/graphics']",The Final Demonstration of the Xerox 'Star' computer,http://www.youtube.com/watch?v=_OwG_rQ_Hqw,/u/sevan,7
-1,2015-07-15 13:50:47 -0500,['/t/linux'],libav and FFmpeg: switch over,https://lists.debian.org/debian-devel-announce/2015/07/msg00001.html,/u/behemoth,8
-2,2015-07-15 13:40:57 -0500,['/t/lisp'],Debugging Lisp Part 2: Inspecting,http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/,/u/kyle,6
-0,2015-07-15 12:27:02 -0500,"['/t/video', '/t/haskell']",Lenses: compositional data access and manipulation (2013),https://skillsmatter.com/skillscasts/4251-lenses-compositional-data-access-and-manipulation,/u/asthasr,10
-9,2015-07-15 08:57:20 -0500,"['/t/compsci', '/t/distributed']",Don't use the CAP theorem for packet losses,http://blog.thislongrun.com/2015/03/dont-use-cap-theorem-for-packet-losses.html,/u/apy,7
-2,2015-07-15 13:45:25 -0500,['/t/c'],Programmatic access to the call stack in C++,http://eli.thegreenplace.net/2015/programmatic-access-to-the-call-stack-in-c/,/u/behemoth,6
-0,2015-07-15 06:58:20 -0500,['/t/databases'],"Thanks Pivotal, Hello Redis Labs",http://antirez.com/news/91,/u/janerik,16
-0,2015-07-16 01:51:57 -0500,"['/t/c', '/t/culture', '/t/unix']",AT&T Customer Service Memorandum (timeless),http://orthanc.ca/figure-1,/u/cnst,3
-1,2015-07-15 20:20:01 -0500,"['/t/python', '/t/rant']",A Readme On Time,https://chromium.googlesource.com/infra/infra/+/master/infra/libs/time_functions/README.md,/u/stip,6
-3,2015-07-15 16:09:32 -0500,"['/t/finance', '/t/programming']","Parity, open source trading infrastructure",http://paritytrading.com/,/u/penberg,2
-49,2015-07-14 11:45:32 -0500,['/t/programming'],A wish list for programming languages,http://www.drmaciver.com/2015/07/a-wish-list/,/u/DRMacIver,44
-0,2015-07-15 13:44:36 -0500,['/t/culture'],The Web We Have to Save,https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426,/u/zem,8
-8,2015-07-14 20:26:45 -0500,"['/t/javascript', '/t/satire', '/t/web']","All off the commenting, none of the comments.",https://github.com/tessalt/echo-chamber-js,/u/qbit,50
+0,2015-07-16 08:31:36 -0500,"/t/compilers,/t/dotnet",Killing Off Wasabi – Part 2,http://blog.fogcreek.com/killing-off-wasabi-part-2/,/u/joshuacc,8
+0,2015-07-16 15:45:07 -0500,/t/release,Technical Thursdays or: How we do Continuous Learning,http://wyeworks.com/blog/2015/7/16/technical-thursdays-or-how-we-do-continuous-learning,/u/smartinez87,2
+0,2015-07-16 13:22:43 -0500,/t/api,Day One with the Amazon API Gateway,https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html,/u/journeysquid,2
+3,2015-07-16 18:31:58 -0500,/t/meta,Viewing multiple tags,/s/77qivo/viewing_multiple_tags,/u/mwillsey,2
+4,2015-07-16 15:05:25 -0500,/t/culture,Reddit: let's talk content,https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/,/u/skade,3
+4,2015-07-16 06:06:18 -0500,/t/culture,The Web We Should Transcend,https://tante.cc/2015/07/15/the-web-we-should-transcend/,/u/tante,8
+2,2015-07-15 11:13:35 -0500,"/t/unix,/t/web","Terminal output to the browser in seconds, using UNIX pipes",http://rtail.org/,/u/jcs,22
+1,2015-07-16 12:47:36 -0500,"/t/hardware,/t/release",Project Buendia: open-source medical record system for humanitarian relief missiones,http://projectbuendia.org,/u/stig,1
+19,2015-07-14 22:14:44 -0500,"/t/networking,/t/programming",Three Dead Protocols,http://blog.annharter.com/2015/07/15/three-dead-protocols.html,/u/englishm,57
+0,2015-07-15 16:25:31 -0500,"/t/haskell,/t/programming",Haskell's Type Classes: We Can Do Better,http://degoes.net/articles/principled-typeclasses/,/u/julienXX,15
+0,2015-07-16 06:58:04 -0500,"/t/assembly,/t/release",hnwatch – Linux x64 terminal-based real-time HN watcher/reader,https://2ton.com.au/hnwatch/,/u/mulander,2
+4,2015-07-15 19:56:30 -0500,"/t/ask,/t/practices",What are your favourite books (or other writings) on debugging?,/s/nzgrdq/what_are_your_favourite_books_other,/u/GeoffWozniak,10
+0,2015-07-15 16:54:17 -0500,"/t/video,/t/graphics",The Final Demonstration of the Xerox 'Star' computer,http://www.youtube.com/watch?v=_OwG_rQ_Hqw,/u/sevan,7
+1,2015-07-15 13:50:47 -0500,/t/linux,libav and FFmpeg: switch over,https://lists.debian.org/debian-devel-announce/2015/07/msg00001.html,/u/behemoth,8
+2,2015-07-15 13:40:57 -0500,/t/lisp,Debugging Lisp Part 2: Inspecting,http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/,/u/kyle,6
+0,2015-07-15 12:27:02 -0500,"/t/video,/t/haskell",Lenses: compositional data access and manipulation (2013),https://skillsmatter.com/skillscasts/4251-lenses-compositional-data-access-and-manipulation,/u/asthasr,10
+9,2015-07-15 08:57:20 -0500,"/t/compsci,/t/distributed",Don't use the CAP theorem for packet losses,http://blog.thislongrun.com/2015/03/dont-use-cap-theorem-for-packet-losses.html,/u/apy,7
+2,2015-07-15 13:45:25 -0500,/t/c,Programmatic access to the call stack in C++,http://eli.thegreenplace.net/2015/programmatic-access-to-the-call-stack-in-c/,/u/behemoth,6
+0,2015-07-15 06:58:20 -0500,/t/databases,"Thanks Pivotal, Hello Redis Labs",http://antirez.com/news/91,/u/janerik,16
+0,2015-07-16 01:51:57 -0500,"/t/c,/t/culture,/t/unix",AT&T Customer Service Memorandum (timeless),http://orthanc.ca/figure-1,/u/cnst,3
+1,2015-07-15 20:20:01 -0500,"/t/python,/t/rant",A Readme On Time,https://chromium.googlesource.com/infra/infra/+/master/infra/libs/time_functions/README.md,/u/stip,6
+3,2015-07-15 16:09:32 -0500,"/t/finance,/t/programming","Parity, open source trading infrastructure",http://paritytrading.com/,/u/penberg,2
+49,2015-07-14 11:45:32 -0500,/t/programming,A wish list for programming languages,http://www.drmaciver.com/2015/07/a-wish-list/,/u/DRMacIver,44
+0,2015-07-15 13:44:36 -0500,/t/culture,The Web We Have to Save,https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426,/u/zem,8
+8,2015-07-14 20:26:45 -0500,"/t/javascript,/t/satire,/t/web","All off the commenting, none of the comments.",https://github.com/tessalt/echo-chamber-js,/u/qbit,50

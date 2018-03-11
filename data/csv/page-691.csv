@@ -1,25 +1,25 @@
-1,2016-08-12 17:59:30 -0500,['/t/programming'],"Generational Garbage Collection, Write Barriers/Write Protection and userfaultfd(2)",https://medium.com/@MartinCracauer/generational-garbage-collection-write-barriers-write-protection-and-userfaultfd-2-8b0e796b8f7f,/u/PuercoPop,10
-0,2016-08-12 23:22:34 -0500,"['/t/pdf', '/t/cryptocurrencies']",The Ethereum Classic Declaration of Independence,https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf,/u/alynpost,6
-11,2016-08-12 11:37:04 -0500,['/t/databases'],Why Most Programmers Get Pagination Wrong,https://blog.jooq.org/2016/08/10/why-most-programmers-get-pagination-wrong/,/u/pushcx,11
-13,2016-08-12 16:55:43 -0500,"['/t/show', '/t/go']",RaspChat a chat system that can handle hundreds of parallel users on Raspberry Pi,http://beta.raspchat.com,/u/mxp,5
-0,2016-08-12 18:34:59 -0500,"['/t/openbsd', '/t/unix']",new shadow passwd functions,http://www.tedunangst.com/flak/post/new-shadow-passwd-functions,/u/jabberwock,8
-1,2016-08-12 09:05:00 -0500,"['/t/debugging', '/t/networking']",This is strictly a violation of the TCP specification,http://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/,/u/pushcx,20
-5,2016-08-12 04:43:22 -0500,['/t/historical'],The rise and fall of the Gopher protocol,https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol,/u/sevan,22
-0,2016-08-12 20:36:41 -0500,"['/t/lua', '/t/python']",Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge,https://github.com/nicholaslocascio/deep-regex,/u/tf,5
-4,2016-08-12 07:11:09 -0500,['/t/security'],Teamspeak 3 RCE advisory,http://pastebin.com/raw/MGsWnTd0,/u/mulander,13
-1,2016-08-12 17:08:31 -0500,"['/t/pdf', '/t/practices', '/t/vcs']",The subtle effect of hidden dependencies on the user experience of version control,http://www.ppig.org/sites/default/files/2014-PPIG-25th-Church.pdf,/u/ngoldbaum,5
-1,2016-08-12 19:29:18 -0500,"['/t/c', '/t/compilers', '/t/security']",Softbound + CETS: Complete and Compatible Full Memory Safety for C,http://www.cs.rutgers.edu/%7Esantosh.nagarakatte/softbound/,/u/nickpsecurity,5
-1,2016-08-12 10:25:16 -0500,"['/t/security', '/t/windows']",Microsoft's compromised Secure Boot implementation,http://mjg59.dreamwidth.org/44223.html,/u/whbboyd,6
-0,2016-08-12 10:59:55 -0500,"['/t/compilers', '/t/person', '/t/python']","Eagerly Evaluated Questions, with Joseph Jevnik",http://hifibyapg.com/interviews/joseph-jevnik.html,/u/apg,4
-0,2016-08-12 09:46:49 -0500,"['/t/dotnet', '/t/javascript']","Fable, F# to Javascript ""The compiler that emits JavaScript you can be proud of!""",https://fsprojects.github.io/Fable/,/u/voronoipotato,7
-1,2016-08-13 04:26:50 -0500,['/t/browsers'],Ghost Browser,http://ghostbrowser.com/,/u/s_kilk,0
-9,2016-08-11 19:13:07 -0500,['/t/practices'],Why “Agile” and especially Scrum are terrible,https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/,/u/bowyakka,12
-5,2016-08-12 21:34:58 -0500,"['/t/culture', '/t/practices']",Symbolic Leadership,http://daringfireball.net/linked/2016/08/12/symbolic-leadership,/u/tedu,2
-27,2016-08-11 10:27:00 -0500,['/t/rust'],Zero-cost futures in Rust,http://aturon.github.io/blog/2016/08/11/futures/,/u/steveklabnik,40
-10,2016-08-11 13:32:34 -0500,['/t/show'],Is Hosted By? - Find the cloud hosting provider for any address,http://is-hosted-by.com/,/u/rgladwell,11
-18,2016-08-11 06:26:42 -0500,"['/t/practices', '/t/release']",Why I Live in IRC,https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc,/u/355E3B,41
-1,2016-08-12 11:26:46 -0500,"['/t/databases', '/t/programming']",Using State Machines to run Databases,https://www.citusdata.com/blog/2016/08/12/state-machines-to-run-databases/,/u/craigkerstiens,1
-13,2016-08-11 12:53:16 -0500,"['/t/networking', '/t/security', '/t/unix']",shoop: scp has a run-in with mosh,https://github.com/mcginty/shoop,/u/unbalancedparentheses,16
-14,2016-08-12 04:23:15 -0500,['/t/hardware'],HPE buys SGI,http://fortune.com/2016/08/11/hewlett-packard-enterprise-sgi-supercomputer/,/u/mjturner,2
-0,2016-08-12 14:47:17 -0500,"['/t/crypto', '/t/distributed', '/t/networking']",SAFE Network Alpha Release!,https://safenetforum.org/t/safe-network-alpha-release/10687,/u/gnunicorn,1
-1,2016-08-11 17:06:18 -0500,"['/t/c', '/t/debugging', '/t/ruby']",The Search For <Class:0x00000027b59290>,https://chrisarcand.com//the-search-for-class0x0000001ab51700/,/u/pushcx,15
+1,2016-08-12 17:59:30 -0500,/t/programming,"Generational Garbage Collection, Write Barriers/Write Protection and userfaultfd(2)",https://medium.com/@MartinCracauer/generational-garbage-collection-write-barriers-write-protection-and-userfaultfd-2-8b0e796b8f7f,/u/PuercoPop,10
+0,2016-08-12 23:22:34 -0500,"/t/pdf,/t/cryptocurrencies",The Ethereum Classic Declaration of Independence,https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf,/u/alynpost,6
+11,2016-08-12 11:37:04 -0500,/t/databases,Why Most Programmers Get Pagination Wrong,https://blog.jooq.org/2016/08/10/why-most-programmers-get-pagination-wrong/,/u/pushcx,11
+13,2016-08-12 16:55:43 -0500,"/t/show,/t/go",RaspChat a chat system that can handle hundreds of parallel users on Raspberry Pi,http://beta.raspchat.com,/u/mxp,5
+0,2016-08-12 18:34:59 -0500,"/t/openbsd,/t/unix",new shadow passwd functions,http://www.tedunangst.com/flak/post/new-shadow-passwd-functions,/u/jabberwock,8
+1,2016-08-12 09:05:00 -0500,"/t/debugging,/t/networking",This is strictly a violation of the TCP specification,http://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/,/u/pushcx,20
+5,2016-08-12 04:43:22 -0500,/t/historical,The rise and fall of the Gopher protocol,https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol,/u/sevan,22
+0,2016-08-12 20:36:41 -0500,"/t/lua,/t/python",Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge,https://github.com/nicholaslocascio/deep-regex,/u/tf,5
+4,2016-08-12 07:11:09 -0500,/t/security,Teamspeak 3 RCE advisory,http://pastebin.com/raw/MGsWnTd0,/u/mulander,13
+1,2016-08-12 17:08:31 -0500,"/t/pdf,/t/practices,/t/vcs",The subtle effect of hidden dependencies on the user experience of version control,http://www.ppig.org/sites/default/files/2014-PPIG-25th-Church.pdf,/u/ngoldbaum,5
+1,2016-08-12 19:29:18 -0500,"/t/c,/t/compilers,/t/security",Softbound + CETS: Complete and Compatible Full Memory Safety for C,http://www.cs.rutgers.edu/%7Esantosh.nagarakatte/softbound/,/u/nickpsecurity,5
+1,2016-08-12 10:25:16 -0500,"/t/security,/t/windows",Microsoft's compromised Secure Boot implementation,http://mjg59.dreamwidth.org/44223.html,/u/whbboyd,6
+0,2016-08-12 10:59:55 -0500,"/t/compilers,/t/person,/t/python","Eagerly Evaluated Questions, with Joseph Jevnik",http://hifibyapg.com/interviews/joseph-jevnik.html,/u/apg,4
+0,2016-08-12 09:46:49 -0500,"/t/dotnet,/t/javascript","Fable, F# to Javascript ""The compiler that emits JavaScript you can be proud of!""",https://fsprojects.github.io/Fable/,/u/voronoipotato,7
+1,2016-08-13 04:26:50 -0500,/t/browsers,Ghost Browser,http://ghostbrowser.com/,/u/s_kilk,0
+9,2016-08-11 19:13:07 -0500,/t/practices,Why “Agile” and especially Scrum are terrible,https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/,/u/bowyakka,12
+5,2016-08-12 21:34:58 -0500,"/t/culture,/t/practices",Symbolic Leadership,http://daringfireball.net/linked/2016/08/12/symbolic-leadership,/u/tedu,2
+27,2016-08-11 10:27:00 -0500,/t/rust,Zero-cost futures in Rust,http://aturon.github.io/blog/2016/08/11/futures/,/u/steveklabnik,40
+10,2016-08-11 13:32:34 -0500,/t/show,Is Hosted By? - Find the cloud hosting provider for any address,http://is-hosted-by.com/,/u/rgladwell,11
+18,2016-08-11 06:26:42 -0500,"/t/practices,/t/release",Why I Live in IRC,https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc,/u/355E3B,41
+1,2016-08-12 11:26:46 -0500,"/t/databases,/t/programming",Using State Machines to run Databases,https://www.citusdata.com/blog/2016/08/12/state-machines-to-run-databases/,/u/craigkerstiens,1
+13,2016-08-11 12:53:16 -0500,"/t/networking,/t/security,/t/unix",shoop: scp has a run-in with mosh,https://github.com/mcginty/shoop,/u/unbalancedparentheses,16
+14,2016-08-12 04:23:15 -0500,/t/hardware,HPE buys SGI,http://fortune.com/2016/08/11/hewlett-packard-enterprise-sgi-supercomputer/,/u/mjturner,2
+0,2016-08-12 14:47:17 -0500,"/t/crypto,/t/distributed,/t/networking",SAFE Network Alpha Release!,https://safenetforum.org/t/safe-network-alpha-release/10687,/u/gnunicorn,1
+1,2016-08-11 17:06:18 -0500,"/t/c,/t/debugging,/t/ruby",The Search For <Class:0x00000027b59290>,https://chrisarcand.com//the-search-for-class0x0000001ab51700/,/u/pushcx,15

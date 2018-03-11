@@ -1,25 +1,25 @@
-47,2017-10-26 20:17:57 -0500,['/t/clojure'],Clojure vs. The Static Typing World,http://www.lispcast.com/clojure-and-types,/u/calvin,25
-5,2017-10-27 03:02:50 -0500,['/t/linux'],Suicide Linux,https://qntm.org/suicide,/u/pgl,12
-0,2017-10-27 12:55:22 -0500,"['/t/go', '/t/programming']",Go Funcs — Baby-Gopher’s Visual Guide,https://blog.learngoprogramming.com/golang-funcs-params-named-result-values-types-pass-by-value-67f4374d9c0a,/u/blackflicker,4
-29,2017-10-26 07:40:38 -0500,"['/t/lisp', '/t/programming']","What did Alan Kay mean by, ""Lisp is the greatest single programming language ever designed""?",https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11,/u/Yogthos,71
-1,2017-10-27 11:14:49 -0500,['/t/security'],Joanna Rutkowska: Reasonably Secure Computing in the Decentralized World,https://www.qubes-os.org/news/2017/09/13/joanna-rutkowska-secure-computing-decentralized-world/,/u/pizzaiolo,5
-1,2017-10-27 11:27:56 -0500,"['/t/programming', '/t/web']","Lucky, an experimental new web framework by thoughtbot",https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot,/u/landric,4
-1,2017-10-27 08:01:27 -0500,['/t/security'],The Shadow Internet,https://blog.comae.io/the-shadow-internet-d42b7195a118,/u/calvin,7
-0,2017-10-27 17:37:22 -0500,['/t/java'],Pure bliss with pure functions in Java,https://arnhem.luminis.eu/pure-bliss-with-pure-functions-in-java/,/u/calvin,2
-17,2017-10-26 19:44:04 -0500,"['/t/graphics', '/t/linux', '/t/rant']",Nvidia sucks and I’m sick of it,https://sircmpwn.github.io/2017/10/26/Fuck-you-nvidia.html,/u/kline,50
-11,2017-10-26 06:55:59 -0500,['/t/programming'],Why we used Pony to write Wallaroo,https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/,/u/SeanTAllen,38
-0,2017-10-27 17:47:11 -0500,"['/t/video', '/t/culture', '/t/networking']",Geoff Huston - The Death of Transit and Beyond,https://ripe75.ripe.net/archives/video/106/,/u/benno,3
-7,2017-10-26 05:09:44 -0500,"['/t/linux', '/t/openbsd']",OpenBSD gives a hint on forgetting unlock mutex,http://nanxiao.me/en/openbsd-gives-a-hint-on-forgetting-unlock-mutex/,/u/nanxiao,28
-0,2017-10-27 08:11:37 -0500,"['/t/ai', '/t/browsers', '/t/security']",Defeating Google's audio reCaptcha with 85% accuracy.,https://github.com/ecthros/uncaptcha,/u/kngl,5
-0,2017-10-27 07:32:05 -0500,"['/t/vcs', '/t/visualization']",Learn Git Branching,https://learngitbranching.js.org/,/u/mulander,5
-5,2017-10-27 02:51:14 -0500,"['/t/programming', '/t/testing']",Unit Tests Aren't Tests,https://www.hillelwayne.com/post/unit-tests-are-not-tests/,/u/mzl,4
-90,2017-10-25 05:52:02 -0500,['/t/announce'],Deleting comments instead of threads; logging moderator hat use,/s/kmpizq/deleting_comments_instead_threads,/u/pushcx,82
-9,2017-10-26 17:50:01 -0500,['/t/vcs'],Why you should stop using Git rebase,https://medium.com/bekk/why-you-should-stop-using-git-rebase-5552bee4fed1,/u/hwayne,10
-15,2017-10-26 20:14:04 -0500,"['/t/ask', '/t/programming', '/t/security']",Request for feedback on an interpreted language feature set.,https://gist.github.com/andrewchambers/bc5b8ec2fafc69d2c207e835e8342100,/u/ac,7
-0,2017-10-27 09:28:01 -0500,['/t/devops'],"Docker ARG, ENV and .env - a Complete Guide",https://vsupalov.com/docker-arg-env-variable-guide/,/u/vsupalov,1
-4,2017-10-26 22:26:26 -0500,"['/t/event', '/t/perl', '/t/programming']",London Perl Workshop,http://act.yapc.eu/lpw2017/,/u/rjc,4
-6,2017-10-26 07:48:38 -0500,['/t/linux'],Mark Shuttleworth Reveals Why Ubuntu Dropped Unity,http://www.omgubuntu.co.uk/2017/10/why-did-ubuntu-drop-unity-mark-shuttleworth-explains,/u/singpolyma,22
-2,2017-10-27 11:07:23 -0500,"['/t/culture', '/t/meta']",Hacker News For Hackers,http://ontology2.com/essays/HackerNewsForHackers/,/u/friendlysock,6
-0,2017-10-27 07:37:43 -0500,"['/t/clojure', '/t/programming']",Transducers from the ground up: using them in practice.,https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/,/u/Yogthos,2
-2,2017-10-26 18:21:12 -0500,"['/t/distributed', '/t/philosophy']",The Upspin manifesto: On the ownership and sharing of data,https://commandcenter.blogspot.com/2017/10/the-upspin-manifesto-on-ownership-and.html,/u/rbn,8
-0,2017-10-26 21:27:54 -0500,"['/t/lua', '/t/programming', '/t/security']",Lua Code: Security Overview and Practical Approaches to Static Analysis,http://firmware.re/lua/,/u/sevan,6
+47,2017-10-26 20:17:57 -0500,/t/clojure,Clojure vs. The Static Typing World,http://www.lispcast.com/clojure-and-types,/u/calvin,25
+5,2017-10-27 03:02:50 -0500,/t/linux,Suicide Linux,https://qntm.org/suicide,/u/pgl,12
+0,2017-10-27 12:55:22 -0500,"/t/go,/t/programming",Go Funcs — Baby-Gopher’s Visual Guide,https://blog.learngoprogramming.com/golang-funcs-params-named-result-values-types-pass-by-value-67f4374d9c0a,/u/blackflicker,4
+29,2017-10-26 07:40:38 -0500,"/t/lisp,/t/programming","What did Alan Kay mean by, ""Lisp is the greatest single programming language ever designed""?",https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11,/u/Yogthos,71
+1,2017-10-27 11:14:49 -0500,/t/security,Joanna Rutkowska: Reasonably Secure Computing in the Decentralized World,https://www.qubes-os.org/news/2017/09/13/joanna-rutkowska-secure-computing-decentralized-world/,/u/pizzaiolo,5
+1,2017-10-27 11:27:56 -0500,"/t/programming,/t/web","Lucky, an experimental new web framework by thoughtbot",https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot,/u/landric,4
+1,2017-10-27 08:01:27 -0500,/t/security,The Shadow Internet,https://blog.comae.io/the-shadow-internet-d42b7195a118,/u/calvin,7
+0,2017-10-27 17:37:22 -0500,/t/java,Pure bliss with pure functions in Java,https://arnhem.luminis.eu/pure-bliss-with-pure-functions-in-java/,/u/calvin,2
+17,2017-10-26 19:44:04 -0500,"/t/graphics,/t/linux,/t/rant",Nvidia sucks and I’m sick of it,https://sircmpwn.github.io/2017/10/26/Fuck-you-nvidia.html,/u/kline,50
+11,2017-10-26 06:55:59 -0500,/t/programming,Why we used Pony to write Wallaroo,https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/,/u/SeanTAllen,38
+0,2017-10-27 17:47:11 -0500,"/t/video,/t/culture,/t/networking",Geoff Huston - The Death of Transit and Beyond,https://ripe75.ripe.net/archives/video/106/,/u/benno,3
+7,2017-10-26 05:09:44 -0500,"/t/linux,/t/openbsd",OpenBSD gives a hint on forgetting unlock mutex,http://nanxiao.me/en/openbsd-gives-a-hint-on-forgetting-unlock-mutex/,/u/nanxiao,28
+0,2017-10-27 08:11:37 -0500,"/t/ai,/t/browsers,/t/security",Defeating Google's audio reCaptcha with 85% accuracy.,https://github.com/ecthros/uncaptcha,/u/kngl,5
+0,2017-10-27 07:32:05 -0500,"/t/vcs,/t/visualization",Learn Git Branching,https://learngitbranching.js.org/,/u/mulander,5
+5,2017-10-27 02:51:14 -0500,"/t/programming,/t/testing",Unit Tests Aren't Tests,https://www.hillelwayne.com/post/unit-tests-are-not-tests/,/u/mzl,4
+90,2017-10-25 05:52:02 -0500,/t/announce,Deleting comments instead of threads; logging moderator hat use,/s/kmpizq/deleting_comments_instead_threads,/u/pushcx,82
+9,2017-10-26 17:50:01 -0500,/t/vcs,Why you should stop using Git rebase,https://medium.com/bekk/why-you-should-stop-using-git-rebase-5552bee4fed1,/u/hwayne,10
+15,2017-10-26 20:14:04 -0500,"/t/ask,/t/programming,/t/security",Request for feedback on an interpreted language feature set.,https://gist.github.com/andrewchambers/bc5b8ec2fafc69d2c207e835e8342100,/u/ac,7
+0,2017-10-27 09:28:01 -0500,/t/devops,"Docker ARG, ENV and .env - a Complete Guide",https://vsupalov.com/docker-arg-env-variable-guide/,/u/vsupalov,1
+4,2017-10-26 22:26:26 -0500,"/t/event,/t/perl,/t/programming",London Perl Workshop,http://act.yapc.eu/lpw2017/,/u/rjc,4
+6,2017-10-26 07:48:38 -0500,/t/linux,Mark Shuttleworth Reveals Why Ubuntu Dropped Unity,http://www.omgubuntu.co.uk/2017/10/why-did-ubuntu-drop-unity-mark-shuttleworth-explains,/u/singpolyma,22
+2,2017-10-27 11:07:23 -0500,"/t/culture,/t/meta",Hacker News For Hackers,http://ontology2.com/essays/HackerNewsForHackers/,/u/friendlysock,6
+0,2017-10-27 07:37:43 -0500,"/t/clojure,/t/programming",Transducers from the ground up: using them in practice.,https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/,/u/Yogthos,2
+2,2017-10-26 18:21:12 -0500,"/t/distributed,/t/philosophy",The Upspin manifesto: On the ownership and sharing of data,https://commandcenter.blogspot.com/2017/10/the-upspin-manifesto-on-ownership-and.html,/u/rbn,8
+0,2017-10-26 21:27:54 -0500,"/t/lua,/t/programming,/t/security",Lua Code: Security Overview and Practical Approaches to Static Analysis,http://firmware.re/lua/,/u/sevan,6

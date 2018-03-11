@@ -1,25 +1,25 @@
-1,2014-07-04 13:24:37 -0500,['/t/compsci'],"Developments in PL, and why they matter",http://www.pl-enthusiast.net/,/u/nikola,6
-4,2014-07-04 05:34:29 -0500,['/t/go'],The March Towards Go,http://zef.me/6191/the-march-towards-go,/u/penberg,10
-0,2014-07-04 07:10:24 -0500,['/t/reversing'],Breaking Spotify DRM with PANDA,http://moyix.blogspot.com/2014/07/breaking-spotify-drm-with-panda.html,/u/nikola,9
-1,2014-07-04 05:19:32 -0500,"['/t/video', '/t/programming', '/t/scala']",DOT (Dependent Object Types) calculus and Scala,http://www.parleys.com/play/53a7d2d0e4b0543940d9e569/chapter0/about,/u/BruceM,9
-0,2014-07-03 23:39:33 -0500,"['/t/pdf', '/t/programming']",An LLVM Back-end for MLton,http://www.cs.rit.edu/~mtf/student-resources/20124_leibig_msproject.pdf,/u/BruceM,17
-6,2014-07-03 11:31:35 -0500,['/t/privacy'],NSA targets the privacy-conscious,"http://daserste.ndr.de/panorama/aktuell/NSA-targets-the-privacy-conscious,nsa230.html",/u/jcs,23
-0,2014-07-04 14:01:28 -0500,['/t/devops'],New AWS Web Services region: eu-central-1,http://www.nilsjuenemann.de/2014/07/new-aws-region-eu-central-in-germany.html,/u/iconara,1
-0,2014-07-03 22:58:31 -0500,['/t/design'],Magic Ink: Information Software and the Graphical Interface (2006),http://worrydream.com/MagicInk/#p255,/u/pushcx,7
-3,2014-07-03 10:32:12 -0500,['/t/programming'],"How ""Exit Traps"" Can Make Your Bash Scripts Way More Robust And Reliable",http://redsymbol.net/articles/bash-exit-traps/,/u/pushcx,17
-5,2014-07-03 12:47:23 -0500,['/t/programming'],Programming Languages - Hyperpolyglot,http://hyperpolyglot.org/,/u/pushcx,7
-0,2014-07-03 15:00:18 -0500,"['/t/go', '/t/visualization', '/t/web']",Geobin.io: inspect HTTP requests with geographic data,http://geobin.io/,/u/kenichi,9
-0,2014-07-04 01:48:57 -0500,"['/t/dotnet', '/t/programming']",BDDfy your browser testing with FluentAutomation,http://blog.chatekar.com/bddfy-your-browser-automation-with-fluentautomation/,/u/suhaschatekar,2
-0,2014-07-03 10:25:19 -0500,['/t/practices'],Microservices Until Macro Complexity,https://michaelfeathers.silvrback.com/microservices-until-macro-complexity,/u/pushcx,11
-0,2014-07-03 22:54:43 -0500,"['/t/practices', '/t/science']",Video Offers Glimpse of Biosafety Level 4 Lab,http://www.bu.edu/today/2013/video-offers-glimpse-of-biosafety-level-4-lab/,/u/pushcx,2
-3,2014-07-03 12:10:15 -0500,"['/t/android', '/t/privacy', '/t/security']",Is Your Android Device Telling the World Where You've Been?,https://www.eff.org/deeplinks/2014/07/your-android-device-telling-world-where-youve-been,/u/jcs,5
-1,2014-07-03 13:31:56 -0500,['/t/web'],What Every Frontend Developer Should Know About Webpage Rendering,http://frontendbabel.info/articles/webpage-rendering-101/,/u/pushcx,5
-1,2014-07-03 08:51:42 -0500,['/t/security'],It’s all a question of time – AES timing attacks on OpenSSL,https://securityblog.redhat.com/2014/07/02/its-all-a-question-of-time-aes-timing-attacks-on-openssl/,/u/jcs,5
-0,2014-07-03 21:15:53 -0500,['/t/web'],CSS is unnecessary given a layout language with means of abstraction and combination,https://pchiusano.github.io/2014-07-02/css-is-unnecessary.html,/u/puffnfresh,1
-0,2014-07-03 09:54:04 -0500,['/t/java'],Execution in the Kingdom of Nouns (2006),http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html,/u/pushcx,5
-0,2014-07-03 19:07:37 -0500,['/t/networking'],30 Levels of NAT Firewall Lab,http://cooperlees.com/blog/?p=369,/u/sevan,1
-8,2014-07-02 13:14:26 -0500,"['/t/programming', '/t/rust']",Rust 0.11 released,https://mail.mozilla.org/pipermail/rust-dev/2014-July/010655.html,/u/steveklabnik,33
-1,2014-07-03 03:19:45 -0500,['/t/distributed'],Questioning the Lambda Architecture,http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html,/u/iconara,4
-0,2014-07-03 15:05:46 -0500,"['/t/design', '/t/practices', '/t/programming']",How TDD Affects My Designs,http://blog.thecodewhisperer.com/2014/05/22/how-tdd-affects-my-designs/,/u/pushcx,1
-6,2014-07-02 13:27:01 -0500,"['/t/practices', '/t/vim']",Learning Vim in 2014: Vim as Language,http://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language/,/u/pushcx,15
-0,2014-07-03 02:46:17 -0500,['/t/javascript'],Compiling JSX with Sweet.js using Readtables,http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables,/u/daGrevis,5
+1,2014-07-04 13:24:37 -0500,/t/compsci,"Developments in PL, and why they matter",http://www.pl-enthusiast.net/,/u/nikola,6
+4,2014-07-04 05:34:29 -0500,/t/go,The March Towards Go,http://zef.me/6191/the-march-towards-go,/u/penberg,10
+0,2014-07-04 07:10:24 -0500,/t/reversing,Breaking Spotify DRM with PANDA,http://moyix.blogspot.com/2014/07/breaking-spotify-drm-with-panda.html,/u/nikola,9
+1,2014-07-04 05:19:32 -0500,"/t/video,/t/programming,/t/scala",DOT (Dependent Object Types) calculus and Scala,http://www.parleys.com/play/53a7d2d0e4b0543940d9e569/chapter0/about,/u/BruceM,9
+0,2014-07-03 23:39:33 -0500,"/t/pdf,/t/programming",An LLVM Back-end for MLton,http://www.cs.rit.edu/~mtf/student-resources/20124_leibig_msproject.pdf,/u/BruceM,17
+6,2014-07-03 11:31:35 -0500,/t/privacy,NSA targets the privacy-conscious,"http://daserste.ndr.de/panorama/aktuell/NSA-targets-the-privacy-conscious,nsa230.html",/u/jcs,23
+0,2014-07-04 14:01:28 -0500,/t/devops,New AWS Web Services region: eu-central-1,http://www.nilsjuenemann.de/2014/07/new-aws-region-eu-central-in-germany.html,/u/iconara,1
+0,2014-07-03 22:58:31 -0500,/t/design,Magic Ink: Information Software and the Graphical Interface (2006),http://worrydream.com/MagicInk/#p255,/u/pushcx,7
+3,2014-07-03 10:32:12 -0500,/t/programming,"How ""Exit Traps"" Can Make Your Bash Scripts Way More Robust And Reliable",http://redsymbol.net/articles/bash-exit-traps/,/u/pushcx,17
+5,2014-07-03 12:47:23 -0500,/t/programming,Programming Languages - Hyperpolyglot,http://hyperpolyglot.org/,/u/pushcx,7
+0,2014-07-03 15:00:18 -0500,"/t/go,/t/visualization,/t/web",Geobin.io: inspect HTTP requests with geographic data,http://geobin.io/,/u/kenichi,9
+0,2014-07-04 01:48:57 -0500,"/t/dotnet,/t/programming",BDDfy your browser testing with FluentAutomation,http://blog.chatekar.com/bddfy-your-browser-automation-with-fluentautomation/,/u/suhaschatekar,2
+0,2014-07-03 10:25:19 -0500,/t/practices,Microservices Until Macro Complexity,https://michaelfeathers.silvrback.com/microservices-until-macro-complexity,/u/pushcx,11
+0,2014-07-03 22:54:43 -0500,"/t/practices,/t/science",Video Offers Glimpse of Biosafety Level 4 Lab,http://www.bu.edu/today/2013/video-offers-glimpse-of-biosafety-level-4-lab/,/u/pushcx,2
+3,2014-07-03 12:10:15 -0500,"/t/android,/t/privacy,/t/security",Is Your Android Device Telling the World Where You've Been?,https://www.eff.org/deeplinks/2014/07/your-android-device-telling-world-where-youve-been,/u/jcs,5
+1,2014-07-03 13:31:56 -0500,/t/web,What Every Frontend Developer Should Know About Webpage Rendering,http://frontendbabel.info/articles/webpage-rendering-101/,/u/pushcx,5
+1,2014-07-03 08:51:42 -0500,/t/security,It’s all a question of time – AES timing attacks on OpenSSL,https://securityblog.redhat.com/2014/07/02/its-all-a-question-of-time-aes-timing-attacks-on-openssl/,/u/jcs,5
+0,2014-07-03 21:15:53 -0500,/t/web,CSS is unnecessary given a layout language with means of abstraction and combination,https://pchiusano.github.io/2014-07-02/css-is-unnecessary.html,/u/puffnfresh,1
+0,2014-07-03 09:54:04 -0500,/t/java,Execution in the Kingdom of Nouns (2006),http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html,/u/pushcx,5
+0,2014-07-03 19:07:37 -0500,/t/networking,30 Levels of NAT Firewall Lab,http://cooperlees.com/blog/?p=369,/u/sevan,1
+8,2014-07-02 13:14:26 -0500,"/t/programming,/t/rust",Rust 0.11 released,https://mail.mozilla.org/pipermail/rust-dev/2014-July/010655.html,/u/steveklabnik,33
+1,2014-07-03 03:19:45 -0500,/t/distributed,Questioning the Lambda Architecture,http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html,/u/iconara,4
+0,2014-07-03 15:05:46 -0500,"/t/design,/t/practices,/t/programming",How TDD Affects My Designs,http://blog.thecodewhisperer.com/2014/05/22/how-tdd-affects-my-designs/,/u/pushcx,1
+6,2014-07-02 13:27:01 -0500,"/t/practices,/t/vim",Learning Vim in 2014: Vim as Language,http://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language/,/u/pushcx,15
+0,2014-07-03 02:46:17 -0500,/t/javascript,Compiling JSX with Sweet.js using Readtables,http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables,/u/daGrevis,5

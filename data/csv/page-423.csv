@@ -1,25 +1,25 @@
-0,2017-03-30 11:08:35 -0500,"['/t/book', '/t/programming']","How to Design Programs, Second Edition (2014)",http://www.ccs.neu.edu/home/matthias/HtDP2e/,/u/pushcx,5
-0,2017-03-30 14:39:36 -0500,['/t/python'],Customizing class creation in Python,https://snarky.ca/customizing-class-creation-in-python/,/u/pushcx,3
-0,2017-03-30 10:55:04 -0500,['/t/dotnet'],Visual Studio 2017 can automatically recommend NuGet packages for unknown types,https://www.hanselman.com/blog/VisualStudio2017CanAutomaticallyRecommendNuGetPackagesForUnknownTypes.aspx,/u/calvin,4
-0,2017-03-30 12:42:23 -0500,"['/t/c', '/t/security', '/t/web']",Black box discovery of memory corruption RCE on box.com,http://scarybeastsecurity.blogspot.com/2017/03/black-box-discovery-of-memory.html,/u/tedu,3
-1,2017-03-30 09:40:22 -0500,"['/t/css', '/t/rant', '/t/web']",8 CSS gotchas to start your morning off right,https://medium.com/@isaaclyman/8-css-gotchas-to-start-your-morning-off-right-c5daade0731d,/u/pushcx,7
-6,2017-03-29 10:48:03 -0500,"['/t/book', '/t/networking']",Beej's Guide to Network Programming,http://beej.us/guide/bgnet/,/u/av,33
-0,2017-03-30 10:55:52 -0500,"['/t/education', '/t/math']",CMU 15-816: Substructural Logics,http://www.cs.cmu.edu/~fp/courses/15816-f16/index.html,/u/adamnemecek,2
-0,2017-03-30 01:09:03 -0500,['/t/security'],Reverse Engineering Malware 101,https://securedorg.github.io/RE101/,/u/justinucd,6
-0,2017-03-30 03:59:10 -0500,"['/t/go', '/t/web']",HTTP/2 Server Push,https://blog.golang.org/h2push,/u/av,4
-6,2017-03-30 10:44:23 -0500,['/t/culture'],And the Most Realistic Developer in Fiction is…,https://stackoverflow.blog/2017/03/28/realistic-developer-fiction/,/u/binarymax,3
-19,2017-03-29 09:03:28 -0500,"['/t/law', '/t/privacy', '/t/web']",Republicans voted to roll back landmark FCC privacy rules. Here’s what you need to know.,https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/republicans-are-poised-to-roll-back-landmark-fcc-privacy-rules-heres-what-you-need-to-know/,/u/danso,16
-0,2017-03-29 16:36:24 -0500,"['/t/c', '/t/compilers', '/t/games', '/t/reversing']",Recompiling the Lost Vikings,https://ryiron.wordpress.com/2017/03/26/recompiling-the-lost-vikings/,/u/pushcx,12
-15,2017-03-28 21:38:02 -0500,"['/t/devops', '/t/release']","Meet Algo, the VPN that works",https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/,/u/yumaikas,42
-3,2017-03-29 12:09:50 -0500,['/t/privacy'],Crowd-funding the purchase of US Officials' internet history,https://searchinternethistory.com,/u/kevinSuttle,13
-1,2017-03-29 12:34:30 -0500,"['/t/pdf', '/t/programming', '/t/security']",High-assurance separation kernels - A Survey on Formal Methods (2017),https://arxiv.org/pdf/1701.01535.pdf,/u/nickpsecurity,13
-7,2017-03-29 13:13:11 -0500,['/t/java'],Idiomatic Kotlin. Best Practices.,https://blog.philipphauer.de/idiomatic-kotlin-best-practices/,/u/klingtnet,6
-9,2017-03-29 14:42:27 -0500,"['/t/python', '/t/security']",Escaping a Python sandbox with a memory corruption bug,https://hackernoon.com/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5,/u/calvin,5
-11,2017-03-29 00:42:51 -0500,"['/t/practices', '/t/privacy']",Google tries to define a valid family. Predictable awfulness ensues.,http://boingboing.net/2017/03/28/me-mom-and-daddy.html,/u/stsp,20
-0,2017-03-29 16:35:02 -0500,"['/t/release', '/t/virtualization']",Sharp 80: TRS-80 Model III Emulator for Windows,http://www.sharp80.com/index.php,/u/pushcx,7
-1,2017-03-29 05:59:51 -0500,['/t/math'],"A Long-Sought Proof, Found and Almost Lost",https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/,/u/pushcx,21
-2,2017-03-29 14:55:40 -0500,"['/t/hardware', '/t/networking']",Use a Mini PCI-e 3G Card with USB Instead,http://hackaday.com/2017/03/29/use-a-mini-pci-e-3g-card-with-usb-instead/,/u/flyingfisch,4
-46,2017-03-28 11:40:27 -0500,['/t/c'],It's time for a memory safety intervention,http://tonyarcieri.com/it-s-time-for-a-memory-safety-intervention,/u/pushcx,75
-5,2017-03-30 11:10:55 -0500,"['/t/law', '/t/practices']",Bay Area tech executives indicted for H-1B visa fraud,http://www.mercurynews.com/2017/03/25/bay-area-tech-executives-indicted-for-h-1b-visa-fraud/,/u/michaelochurch,0
-0,2017-03-29 10:52:12 -0500,"['/t/video', '/t/historical']",AT&T Archives: The UNIX Operating System,https://www.youtube.com/watch?v=tc4ROCJYbm0,/u/av,11
-0,2017-03-29 07:43:42 -0500,['/t/mac'],Night Shift Mode In macOS Does Not Have A Significant Impact On Reducing Blue Light Levels,http://wccftech.com/night-shift-mode-in-macos-does-not-have-a-significant-impact-on-reducing-blue-light-levels/,/u/flyingfisch,14
+0,2017-03-30 11:08:35 -0500,"/t/book,/t/programming","How to Design Programs, Second Edition (2014)",http://www.ccs.neu.edu/home/matthias/HtDP2e/,/u/pushcx,5
+0,2017-03-30 14:39:36 -0500,/t/python,Customizing class creation in Python,https://snarky.ca/customizing-class-creation-in-python/,/u/pushcx,3
+0,2017-03-30 10:55:04 -0500,/t/dotnet,Visual Studio 2017 can automatically recommend NuGet packages for unknown types,https://www.hanselman.com/blog/VisualStudio2017CanAutomaticallyRecommendNuGetPackagesForUnknownTypes.aspx,/u/calvin,4
+0,2017-03-30 12:42:23 -0500,"/t/c,/t/security,/t/web",Black box discovery of memory corruption RCE on box.com,http://scarybeastsecurity.blogspot.com/2017/03/black-box-discovery-of-memory.html,/u/tedu,3
+1,2017-03-30 09:40:22 -0500,"/t/css,/t/rant,/t/web",8 CSS gotchas to start your morning off right,https://medium.com/@isaaclyman/8-css-gotchas-to-start-your-morning-off-right-c5daade0731d,/u/pushcx,7
+6,2017-03-29 10:48:03 -0500,"/t/book,/t/networking",Beej's Guide to Network Programming,http://beej.us/guide/bgnet/,/u/av,33
+0,2017-03-30 10:55:52 -0500,"/t/education,/t/math",CMU 15-816: Substructural Logics,http://www.cs.cmu.edu/~fp/courses/15816-f16/index.html,/u/adamnemecek,2
+0,2017-03-30 01:09:03 -0500,/t/security,Reverse Engineering Malware 101,https://securedorg.github.io/RE101/,/u/justinucd,6
+0,2017-03-30 03:59:10 -0500,"/t/go,/t/web",HTTP/2 Server Push,https://blog.golang.org/h2push,/u/av,4
+6,2017-03-30 10:44:23 -0500,/t/culture,And the Most Realistic Developer in Fiction is…,https://stackoverflow.blog/2017/03/28/realistic-developer-fiction/,/u/binarymax,3
+19,2017-03-29 09:03:28 -0500,"/t/law,/t/privacy,/t/web",Republicans voted to roll back landmark FCC privacy rules. Here’s what you need to know.,https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/republicans-are-poised-to-roll-back-landmark-fcc-privacy-rules-heres-what-you-need-to-know/,/u/danso,16
+0,2017-03-29 16:36:24 -0500,"/t/c,/t/compilers,/t/games,/t/reversing",Recompiling the Lost Vikings,https://ryiron.wordpress.com/2017/03/26/recompiling-the-lost-vikings/,/u/pushcx,12
+15,2017-03-28 21:38:02 -0500,"/t/devops,/t/release","Meet Algo, the VPN that works",https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/,/u/yumaikas,42
+3,2017-03-29 12:09:50 -0500,/t/privacy,Crowd-funding the purchase of US Officials' internet history,https://searchinternethistory.com,/u/kevinSuttle,13
+1,2017-03-29 12:34:30 -0500,"/t/pdf,/t/programming,/t/security",High-assurance separation kernels - A Survey on Formal Methods (2017),https://arxiv.org/pdf/1701.01535.pdf,/u/nickpsecurity,13
+7,2017-03-29 13:13:11 -0500,/t/java,Idiomatic Kotlin. Best Practices.,https://blog.philipphauer.de/idiomatic-kotlin-best-practices/,/u/klingtnet,6
+9,2017-03-29 14:42:27 -0500,"/t/python,/t/security",Escaping a Python sandbox with a memory corruption bug,https://hackernoon.com/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5,/u/calvin,5
+11,2017-03-29 00:42:51 -0500,"/t/practices,/t/privacy",Google tries to define a valid family. Predictable awfulness ensues.,http://boingboing.net/2017/03/28/me-mom-and-daddy.html,/u/stsp,20
+0,2017-03-29 16:35:02 -0500,"/t/release,/t/virtualization",Sharp 80: TRS-80 Model III Emulator for Windows,http://www.sharp80.com/index.php,/u/pushcx,7
+1,2017-03-29 05:59:51 -0500,/t/math,"A Long-Sought Proof, Found and Almost Lost",https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/,/u/pushcx,21
+2,2017-03-29 14:55:40 -0500,"/t/hardware,/t/networking",Use a Mini PCI-e 3G Card with USB Instead,http://hackaday.com/2017/03/29/use-a-mini-pci-e-3g-card-with-usb-instead/,/u/flyingfisch,4
+46,2017-03-28 11:40:27 -0500,/t/c,It's time for a memory safety intervention,http://tonyarcieri.com/it-s-time-for-a-memory-safety-intervention,/u/pushcx,75
+5,2017-03-30 11:10:55 -0500,"/t/law,/t/practices",Bay Area tech executives indicted for H-1B visa fraud,http://www.mercurynews.com/2017/03/25/bay-area-tech-executives-indicted-for-h-1b-visa-fraud/,/u/michaelochurch,0
+0,2017-03-29 10:52:12 -0500,"/t/video,/t/historical",AT&T Archives: The UNIX Operating System,https://www.youtube.com/watch?v=tc4ROCJYbm0,/u/av,11
+0,2017-03-29 07:43:42 -0500,/t/mac,Night Shift Mode In macOS Does Not Have A Significant Impact On Reducing Blue Light Levels,http://wccftech.com/night-shift-mode-in-macos-does-not-have-a-significant-impact-on-reducing-blue-light-levels/,/u/flyingfisch,14

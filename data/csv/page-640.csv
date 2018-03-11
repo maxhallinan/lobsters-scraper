@@ -1,25 +1,25 @@
-1,2016-10-06 12:43:11 -0500,"['/t/culture', '/t/ruby']",Let The Asset Pipeline Die,http://gilesbowkett.blogspot.com/2016/10/let-asset-pipeline-die.html,/u/355E3B,14
-11,2016-10-06 04:23:14 -0500,"['/t/debugging', '/t/linux']",Linus Torvalds admits 'buggy crap' made it into Linux 4.8,http://www.theregister.co.uk/2016/10/05/linus_torvalds_admits_buggy_crap_made_it_into_linux_48/,/u/calvin,9
-23,2016-10-05 15:42:40 -0500,"['/t/ios', '/t/mac']",Apple Has Removed Dash from the App Store,https://blog.kapeli.com/apple-removed-dash-from-the-app-store,/u/dwc,37
-37,2016-10-05 17:35:45 -0500,"['/t/design', '/t/person']","Meet the Man Behind ‘Solarized,’ the Most Important Color Scheme in Computer History",http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/,/u/calvin,28
-1,2016-10-06 09:04:53 -0500,['/t/graphics'],The SVG `path` Syntax: An Illustrated Guide,https://css-tricks.com/svg-path-syntax-illustrated-guide/,/u/flyingfisch,8
-10,2016-10-05 20:50:32 -0500,"['/t/programming', '/t/web']",Why I believe GraphQL will come to replace REST,https://dev.to/reactiveconf/why-i-believe-graphql-will-come-to-replace-rest,/u/unbalancedparentheses,17
-5,2016-10-06 09:26:38 -0500,"['/t/ruby', '/t/security']",Bundler's Multiple Source Security Vulnerability,http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/,/u/tallgeoff,4
-0,2016-10-06 08:22:27 -0500,['/t/debugging'],Simple testing can prevent most critical failures,https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/,/u/fcbsd,9
-0,2016-10-06 23:30:13 -0500,"['/t/cogsci', '/t/math']",A parallel recommendation engine in Julia.,http://juliacomputing.com/blog/2016/04/22/a-parallel-recommendation-engine-in-julia.html,/u/Dawny33,1
-0,2016-10-06 13:19:24 -0500,"['/t/video', '/t/databases', '/t/programming']",Caching at Netflix: The Hidden Microservice,https://www.youtube.com/watch?v=Rzdxgx3RC0Q,/u/unbalancedparentheses,4
-2,2016-10-06 08:54:21 -0500,"['/t/emacs', '/t/historical']",The Lemacs/FSFmacs schism (2000),https://www.jwz.org/doc/lemacs.html,/u/mjturner,4
-11,2016-10-05 09:03:11 -0500,['/t/linux'],Understanding /proc,https://fredrb.github.io/2016/10/01/Understanding-proc/,/u/fredrb,21
-1,2016-10-06 08:54:46 -0500,"['/t/historical', '/t/release', '/t/unix']",386bsd/386bsd - Upgrade to 386BSD 2.0,https://github.com/386bsd/386bsd/commit/dc8b130e648dff87e8863d7ac5c903fbb63fc313,/u/sevan,3
-1,2016-10-06 09:03:56 -0500,['/t/javascript'],Add or Remove a CSS Class with Vanilla JavaScript,https://www.sitepoint.com/add-remove-css-class-vanilla-js/,/u/flyingfisch,2
-1,2016-10-06 03:29:44 -0500,['/t/ruby'],A GNU Social-compatible microblogging server,https://github.com/Gargron/mastodon,/u/mercer,6
-0,2016-10-06 15:23:50 -0500,"['/t/video', '/t/hardware', '/t/reversing']",Nifty Tricks for ARM Firmware Reverse Engineering,https://www.youtube.com/watch?v=GX8-K4TssjY,/u/sevan,1
-7,2016-10-05 09:34:58 -0500,['/t/vim'],Vim anti-patterns,https://sanctum.geek.nz/arabesque/vim-anti-patterns/,/u/carlesfe,31
-0,2016-10-06 07:39:58 -0500,"['/t/practices', '/t/web']",Alternative Text and Images,https://bitsofco.de/alternative-text-and-images/,/u/flyingfisch,3
-0,2016-10-06 07:39:10 -0500,"['/t/graphics', '/t/javascript']",g9 | Automatically Interactive Graphics,http://omrelli.ug/g9/,/u/flyingfisch,3
-0,2016-10-06 05:10:46 -0500,"['/t/programming', '/t/python']","Thonny, a Python IDE for beginners",http://thonny.cs.ut.ee/,/u/zem,4
-0,2016-10-06 02:14:41 -0500,"['/t/graphics', '/t/math', '/t/release']",Introducing Cartographer -- SLAM library from Google,https://opensource.googleblog.com/2016/10/introducing-cartographer.html,/u/friendlysock,5
-13,2016-10-05 06:53:54 -0500,['/t/programming'],choose boring bugs,http://www.tedunangst.com/flak/post/choose-boring-bugs,/u/mulander,21
-7,2016-10-05 08:01:12 -0500,"['/t/practices', '/t/testing']",Don't memorize: automate your development process,https://codewithoutrules.com/2016/03/01/process-reminders/,/u/itamarst,10
-12,2016-10-05 08:29:40 -0500,"['/t/privacy', '/t/web']",Experiences from running a Tor Exit Node,http://blog.daknob.net/running-a-tor-exit-node-for-fun-and-e-mails/,/u/mjturner,17
-0,2016-10-06 07:35:42 -0500,"['/t/browsers', '/t/graphics']",MotionMark: A New Graphics Benchmark,https://webkit.org/blog/6943/motionmark-a-new-graphics-benchmark/,/u/flyingfisch,2
+1,2016-10-06 12:43:11 -0500,"/t/culture,/t/ruby",Let The Asset Pipeline Die,http://gilesbowkett.blogspot.com/2016/10/let-asset-pipeline-die.html,/u/355E3B,14
+11,2016-10-06 04:23:14 -0500,"/t/debugging,/t/linux",Linus Torvalds admits 'buggy crap' made it into Linux 4.8,http://www.theregister.co.uk/2016/10/05/linus_torvalds_admits_buggy_crap_made_it_into_linux_48/,/u/calvin,9
+23,2016-10-05 15:42:40 -0500,"/t/ios,/t/mac",Apple Has Removed Dash from the App Store,https://blog.kapeli.com/apple-removed-dash-from-the-app-store,/u/dwc,37
+37,2016-10-05 17:35:45 -0500,"/t/design,/t/person","Meet the Man Behind ‘Solarized,’ the Most Important Color Scheme in Computer History",http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/,/u/calvin,28
+1,2016-10-06 09:04:53 -0500,/t/graphics,The SVG `path` Syntax: An Illustrated Guide,https://css-tricks.com/svg-path-syntax-illustrated-guide/,/u/flyingfisch,8
+10,2016-10-05 20:50:32 -0500,"/t/programming,/t/web",Why I believe GraphQL will come to replace REST,https://dev.to/reactiveconf/why-i-believe-graphql-will-come-to-replace-rest,/u/unbalancedparentheses,17
+5,2016-10-06 09:26:38 -0500,"/t/ruby,/t/security",Bundler's Multiple Source Security Vulnerability,http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/,/u/tallgeoff,4
+0,2016-10-06 08:22:27 -0500,/t/debugging,Simple testing can prevent most critical failures,https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/,/u/fcbsd,9
+0,2016-10-06 23:30:13 -0500,"/t/cogsci,/t/math",A parallel recommendation engine in Julia.,http://juliacomputing.com/blog/2016/04/22/a-parallel-recommendation-engine-in-julia.html,/u/Dawny33,1
+0,2016-10-06 13:19:24 -0500,"/t/video,/t/databases,/t/programming",Caching at Netflix: The Hidden Microservice,https://www.youtube.com/watch?v=Rzdxgx3RC0Q,/u/unbalancedparentheses,4
+2,2016-10-06 08:54:21 -0500,"/t/emacs,/t/historical",The Lemacs/FSFmacs schism (2000),https://www.jwz.org/doc/lemacs.html,/u/mjturner,4
+11,2016-10-05 09:03:11 -0500,/t/linux,Understanding /proc,https://fredrb.github.io/2016/10/01/Understanding-proc/,/u/fredrb,21
+1,2016-10-06 08:54:46 -0500,"/t/historical,/t/release,/t/unix",386bsd/386bsd - Upgrade to 386BSD 2.0,https://github.com/386bsd/386bsd/commit/dc8b130e648dff87e8863d7ac5c903fbb63fc313,/u/sevan,3
+1,2016-10-06 09:03:56 -0500,/t/javascript,Add or Remove a CSS Class with Vanilla JavaScript,https://www.sitepoint.com/add-remove-css-class-vanilla-js/,/u/flyingfisch,2
+1,2016-10-06 03:29:44 -0500,/t/ruby,A GNU Social-compatible microblogging server,https://github.com/Gargron/mastodon,/u/mercer,6
+0,2016-10-06 15:23:50 -0500,"/t/video,/t/hardware,/t/reversing",Nifty Tricks for ARM Firmware Reverse Engineering,https://www.youtube.com/watch?v=GX8-K4TssjY,/u/sevan,1
+7,2016-10-05 09:34:58 -0500,/t/vim,Vim anti-patterns,https://sanctum.geek.nz/arabesque/vim-anti-patterns/,/u/carlesfe,31
+0,2016-10-06 07:39:58 -0500,"/t/practices,/t/web",Alternative Text and Images,https://bitsofco.de/alternative-text-and-images/,/u/flyingfisch,3
+0,2016-10-06 07:39:10 -0500,"/t/graphics,/t/javascript",g9 | Automatically Interactive Graphics,http://omrelli.ug/g9/,/u/flyingfisch,3
+0,2016-10-06 05:10:46 -0500,"/t/programming,/t/python","Thonny, a Python IDE for beginners",http://thonny.cs.ut.ee/,/u/zem,4
+0,2016-10-06 02:14:41 -0500,"/t/graphics,/t/math,/t/release",Introducing Cartographer -- SLAM library from Google,https://opensource.googleblog.com/2016/10/introducing-cartographer.html,/u/friendlysock,5
+13,2016-10-05 06:53:54 -0500,/t/programming,choose boring bugs,http://www.tedunangst.com/flak/post/choose-boring-bugs,/u/mulander,21
+7,2016-10-05 08:01:12 -0500,"/t/practices,/t/testing",Don't memorize: automate your development process,https://codewithoutrules.com/2016/03/01/process-reminders/,/u/itamarst,10
+12,2016-10-05 08:29:40 -0500,"/t/privacy,/t/web",Experiences from running a Tor Exit Node,http://blog.daknob.net/running-a-tor-exit-node-for-fun-and-e-mails/,/u/mjturner,17
+0,2016-10-06 07:35:42 -0500,"/t/browsers,/t/graphics",MotionMark: A New Graphics Benchmark,https://webkit.org/blog/6943/motionmark-a-new-graphics-benchmark/,/u/flyingfisch,2

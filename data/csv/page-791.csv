@@ -1,25 +1,25 @@
-6,2016-05-06 15:29:16 -0500,"['/t/show', '/t/lisp', '/t/math']",Implementation of the Newton-Raphson algorithm in Python and Clojure,http://eskatrem.github.io/Newton-Raphson,/u/eskatrem,4
-4,2016-05-06 02:52:26 -0500,"['/t/assembly', '/t/c', '/t/unix']",The illumos SYSCALL Handler,http://zinascii.com/2016/the-illumos-syscall-handler.html,/u/wiedi,36
-14,2016-05-06 08:03:52 -0500,"['/t/c', '/t/programming', '/t/rust']",Adventures in D programming,http://blog.tenstral.net/2016/05/adventures-in-d-programming.html,/u/JordiGH,15
-1,2016-05-06 12:58:07 -0500,['/t/practices'],ISO 3103 - Tea -- Preparation of liquor for use in sensory tests,https://en.wikipedia.org/wiki/ISO_3103,/u/pushcx,11
-2,2016-05-06 12:19:58 -0500,"['/t/games', '/t/historical']",Brief Bibliography about Interactive Fiction History,https://emshort.wordpress.com/2016/04/02/brief-bibliography-about-if-history/,/u/mjn,11
-1,2016-05-06 15:22:24 -0500,"['/t/show', '/t/linux']",aflit: Arch Linux variant for leet™ people,https://github.com/awalGarg/aflit,/u/awal,9
-1,2016-05-06 12:53:04 -0500,"['/t/security', '/t/web']",How to Install Free SSL for Your Website,https://dzone.com/articles/how-to-install-free-ssl-easily-for-your-website,/u/JeremyMorgan,4
-6,2016-05-06 18:47:06 -0500,"['/t/hardware', '/t/ios', '/t/practices']",My Tablet Has Stickers,https://medium.learningbyshipping.com/my-tablet-has-stickers-8f7ab9022ebd,/u/calvin,1
-0,2016-05-06 10:05:54 -0500,"['/t/c', '/t/compilers', '/t/linux']",TCCBOOT: TinyCC Boot Loader,http://www.bellard.org/tcc/tccboot.html,/u/rain1,11
-20,2016-05-05 18:45:45 -0500,"['/t/design', '/t/mac', '/t/practices']","No, Apple Music is not deleting tracks off your hard drive — unless you tell it to",http://www.imore.com/no-apple-music-not-deleting-tracks-your-hard-drive-unless-you-tell-it,/u/itistoday,29
-0,2016-05-06 17:51:00 -0500,"['/t/crypto', '/t/distributed', '/t/networking', '/t/privacy', '/t/security']","Decentralised, autonomous SAFE Network enters public alpha",https://forum.safenetwork.io/t/safe-network-test-2/9079/134,/u/gnunicorn,4
-0,2016-05-06 20:42:08 -0500,"['/t/show', '/t/javascript', '/t/web']",vue-script2 - designer-friendly <script> support for your Vue.js SPA,https://github.com/taoeffect/vue-script2,/u/itistoday,1
-0,2016-05-06 11:53:39 -0500,"['/t/linux', '/t/release', '/t/scaling']",Spinning Up Your First Kubernetes Cluster on GKE,https://deis.com/blog/2016/first-kubernetes-cluster-gke/,/u/rimusz,3
-18,2016-05-05 09:22:36 -0500,"['/t/mac', '/t/practices']","Apple Stole My Music. No, Seriously.",https://blog.vellumatlanta.com/2016/05/04/apple-stole-my-music-no-seriously/,/u/kyrias,53
-0,2016-05-06 15:16:06 -0500,"['/t/crypto', '/t/debugging']",STRIKE-OTR - How implementing the new OTR protocol fixed a bug in the previous one,http://blog.torchz.net/2015/09/22/strike-otr.html,/u/rain1,3
-10,2016-05-05 12:57:21 -0500,['/t/programming'],"30 years later, QBasic is still the best",http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/,/u/jcs,29
-0,2016-05-06 14:17:12 -0500,"['/t/debugging', '/t/graphics']",Understanding Half-Pixel and Half-Texel Offsets,http://drilian.com/2008/11/25/understanding-half-pixel-and-half-texel-offsets/,/u/friendlysock,3
-0,2016-05-06 13:36:12 -0500,['/t/security'],The DBIR’s ‘Forest’ of Exploit Signatures,http://blog.trailofbits.com/2016/05/05/the-dbirs-forest-of-exploit-signatures/,/u/pushcx,3
-3,2016-05-05 16:03:01 -0500,"['/t/release', '/t/unix']","No More Secrets: recreate the ""Sneakers"" decryption visual effect",https://github.com/bartobri/no-more-secrets,/u/pushcx,23
-3,2016-05-05 15:59:52 -0500,"['/t/compilers', '/t/lisp']",A fresh benchmark of major Scheme implementations,https://www.nexoid.at/tmp/scheme-benchmark-r7rs.html,/u/ane,22
-3,2016-05-05 19:50:15 -0500,['/t/hardware'],The void left by the parallel port,https://medium.com/@tltx/the-void-left-by-the-parallel-port-51eb6c919e8a,/u/pushcx,18
-8,2016-05-05 17:30:19 -0500,"['/t/show', '/t/compsci', '/t/math']",SetBang 1: Toward a more unreadable esolang,https://michaelochurch.wordpress.com/2016/05/05/setbang-1-toward-a-more-unreadable-esolang/,/u/michaelochurch,7
-14,2016-05-05 11:56:57 -0500,"['/t/show', '/t/browsers', '/t/javascript']",Timing attack to check if devtools are open,https://github.com/awalGarg/devtools-timing-attack,/u/awal,21
-0,2016-05-06 13:11:15 -0500,"['/t/java', '/t/testing']",How Not To Write Golden Master Tests,http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests,/u/pushcx,2
-0,2016-05-06 03:14:07 -0500,"['/t/api', '/t/databases', '/t/unix', '/t/virtualization']",Microservices Weekly (Issue #25): A jorney into the madness of microservices,http://microservicesweekly.com/issue/25,/u/svlada,2
+6,2016-05-06 15:29:16 -0500,"/t/show,/t/lisp,/t/math",Implementation of the Newton-Raphson algorithm in Python and Clojure,http://eskatrem.github.io/Newton-Raphson,/u/eskatrem,4
+4,2016-05-06 02:52:26 -0500,"/t/assembly,/t/c,/t/unix",The illumos SYSCALL Handler,http://zinascii.com/2016/the-illumos-syscall-handler.html,/u/wiedi,36
+14,2016-05-06 08:03:52 -0500,"/t/c,/t/programming,/t/rust",Adventures in D programming,http://blog.tenstral.net/2016/05/adventures-in-d-programming.html,/u/JordiGH,15
+1,2016-05-06 12:58:07 -0500,/t/practices,ISO 3103 - Tea -- Preparation of liquor for use in sensory tests,https://en.wikipedia.org/wiki/ISO_3103,/u/pushcx,11
+2,2016-05-06 12:19:58 -0500,"/t/games,/t/historical",Brief Bibliography about Interactive Fiction History,https://emshort.wordpress.com/2016/04/02/brief-bibliography-about-if-history/,/u/mjn,11
+1,2016-05-06 15:22:24 -0500,"/t/show,/t/linux",aflit: Arch Linux variant for leet™ people,https://github.com/awalGarg/aflit,/u/awal,9
+1,2016-05-06 12:53:04 -0500,"/t/security,/t/web",How to Install Free SSL for Your Website,https://dzone.com/articles/how-to-install-free-ssl-easily-for-your-website,/u/JeremyMorgan,4
+6,2016-05-06 18:47:06 -0500,"/t/hardware,/t/ios,/t/practices",My Tablet Has Stickers,https://medium.learningbyshipping.com/my-tablet-has-stickers-8f7ab9022ebd,/u/calvin,1
+0,2016-05-06 10:05:54 -0500,"/t/c,/t/compilers,/t/linux",TCCBOOT: TinyCC Boot Loader,http://www.bellard.org/tcc/tccboot.html,/u/rain1,11
+20,2016-05-05 18:45:45 -0500,"/t/design,/t/mac,/t/practices","No, Apple Music is not deleting tracks off your hard drive — unless you tell it to",http://www.imore.com/no-apple-music-not-deleting-tracks-your-hard-drive-unless-you-tell-it,/u/itistoday,29
+0,2016-05-06 17:51:00 -0500,"/t/crypto,/t/distributed,/t/networking,/t/privacy,/t/security","Decentralised, autonomous SAFE Network enters public alpha",https://forum.safenetwork.io/t/safe-network-test-2/9079/134,/u/gnunicorn,4
+0,2016-05-06 20:42:08 -0500,"/t/show,/t/javascript,/t/web",vue-script2 - designer-friendly <script> support for your Vue.js SPA,https://github.com/taoeffect/vue-script2,/u/itistoday,1
+0,2016-05-06 11:53:39 -0500,"/t/linux,/t/release,/t/scaling",Spinning Up Your First Kubernetes Cluster on GKE,https://deis.com/blog/2016/first-kubernetes-cluster-gke/,/u/rimusz,3
+18,2016-05-05 09:22:36 -0500,"/t/mac,/t/practices","Apple Stole My Music. No, Seriously.",https://blog.vellumatlanta.com/2016/05/04/apple-stole-my-music-no-seriously/,/u/kyrias,53
+0,2016-05-06 15:16:06 -0500,"/t/crypto,/t/debugging",STRIKE-OTR - How implementing the new OTR protocol fixed a bug in the previous one,http://blog.torchz.net/2015/09/22/strike-otr.html,/u/rain1,3
+10,2016-05-05 12:57:21 -0500,/t/programming,"30 years later, QBasic is still the best",http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/,/u/jcs,29
+0,2016-05-06 14:17:12 -0500,"/t/debugging,/t/graphics",Understanding Half-Pixel and Half-Texel Offsets,http://drilian.com/2008/11/25/understanding-half-pixel-and-half-texel-offsets/,/u/friendlysock,3
+0,2016-05-06 13:36:12 -0500,/t/security,The DBIR’s ‘Forest’ of Exploit Signatures,http://blog.trailofbits.com/2016/05/05/the-dbirs-forest-of-exploit-signatures/,/u/pushcx,3
+3,2016-05-05 16:03:01 -0500,"/t/release,/t/unix","No More Secrets: recreate the ""Sneakers"" decryption visual effect",https://github.com/bartobri/no-more-secrets,/u/pushcx,23
+3,2016-05-05 15:59:52 -0500,"/t/compilers,/t/lisp",A fresh benchmark of major Scheme implementations,https://www.nexoid.at/tmp/scheme-benchmark-r7rs.html,/u/ane,22
+3,2016-05-05 19:50:15 -0500,/t/hardware,The void left by the parallel port,https://medium.com/@tltx/the-void-left-by-the-parallel-port-51eb6c919e8a,/u/pushcx,18
+8,2016-05-05 17:30:19 -0500,"/t/show,/t/compsci,/t/math",SetBang 1: Toward a more unreadable esolang,https://michaelochurch.wordpress.com/2016/05/05/setbang-1-toward-a-more-unreadable-esolang/,/u/michaelochurch,7
+14,2016-05-05 11:56:57 -0500,"/t/show,/t/browsers,/t/javascript",Timing attack to check if devtools are open,https://github.com/awalGarg/devtools-timing-attack,/u/awal,21
+0,2016-05-06 13:11:15 -0500,"/t/java,/t/testing",How Not To Write Golden Master Tests,http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests,/u/pushcx,2
+0,2016-05-06 03:14:07 -0500,"/t/api,/t/databases,/t/unix,/t/virtualization",Microservices Weekly (Issue #25): A jorney into the madness of microservices,http://microservicesweekly.com/issue/25,/u/svlada,2

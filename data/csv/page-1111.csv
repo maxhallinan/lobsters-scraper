@@ -1,25 +1,25 @@
-0,2015-05-04 07:45:27 -0500,['/t/lisp'],The Racket Blog: King of the Hill on Rosetta Code,http://blog.racket-lang.org/2015/05/king-of-hill-on-rosetta-code.html,/u/d_run,16
-3,2015-05-03 22:35:34 -0500,['/t/programming'],Hazardous Attitudes in Software Development,https://www.jeremymorgan.com/blog/programming/hazardous-attitudes-in-software-development/,/u/JeremyMorgan,23
-0,2015-05-04 12:24:30 -0500,"['/t/science', '/t/web']",Emojineering Part 1: Machine Learning for Emoji Trends,http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji,/u/sebst,5
-1,2015-05-04 07:31:56 -0500,['/t/web'],Pure CSS3 calculator,http://experiments.hertzen.com/css3calculator/,/u/flyingfisch,6
-9,2015-05-03 13:49:20 -0500,['/t/programming'],Pony - High Performance Actor Programming,http://ponylang.org,/u/SeanTAllen,26
-0,2015-05-04 09:40:27 -0500,"['/t/python', '/t/release']",State machine based testing in Hypothesis,http://hypothesis.readthedocs.org/en/master/stateful.html,/u/DRMacIver,4
-1,2015-05-04 03:57:39 -0500,"['/t/pdf', '/t/security']","You Can Type, but You Can’t Hide: A Stealthy GPU-based Keylogger (2013)",http://www.cs.columbia.edu/~mikepo/papers/gpukeylogger.eurosec13.pdf,/u/antifuchs,7
-5,2015-05-03 14:43:11 -0500,"['/t/networking', '/t/openbsd']",The ultimate OpenBSD router,http://www.bsdnow.tv/tutorials/openbsd-router,/u/fcambus,19
-0,2015-05-04 10:05:45 -0500,"['/t/practices', '/t/vcs']",Git for everyone. A non-technical introduction (2013),http://hackazach.net/git/2013/07/13/git-for-everyone/,/u/zmcartor,2
-0,2015-05-04 09:49:16 -0500,['/t/javascript'],NativeScript 1.0.0 Release Now Available,http://developer.telerik.com/featured/nativescript-1-0-0-release-now-available/,/u/remotesynth,2
-2,2015-05-04 07:14:40 -0500,"['/t/graphics', '/t/meta']",Graphics tag?,/s/wvdov6/graphics_tag,/u/calvin,5
-0,2015-05-03 11:35:06 -0500,['/t/games'],Wind Waker Hyrule travel guide,http://simonschreibt.de/gat/zelda-wind-waker-hyrule-travel-guide/,/u/mediremi,14
-4,2015-05-03 11:27:13 -0500,"['/t/javascript', '/t/web']",WebGL ocean - A trip under the moonlight,https://jbouny.github.io/fft-ocean/,/u/mediremi,5
-13,2015-05-02 13:54:10 -0500,"['/t/slides', '/t/databases']",Postgres: The Nice Bits,http://russ.garrett.co.uk/talks/postgres-gds/,/u/pushcx,37
-10,2015-05-02 19:09:34 -0500,"['/t/go', '/t/scaling']",Distributed Read-Write Mutex in Go,https://gist.github.com/jonhoo/05774c1e47dbe4d57169,/u/pushcx,13
-0,2015-05-03 11:46:49 -0500,"['/t/event', '/t/freebsd', '/t/openbsd', '/t/unix']",Subcarpathian BSD User Group,http://www.sbug.org,/u/fcambus,3
-1,2015-05-02 21:28:53 -0500,"['/t/hardware', '/t/security']",How to crack many Master Lock combinations in eight tries or less,http://arstechnica.com/security/2015/04/28/how-to-crack-any-master-lock-combination-in-8-tries-or-less/,/u/cnst,10
-0,2015-05-03 05:51:26 -0500,['/t/distributed'],Brandon Holt — Musings from PaPoC,http://homes.cs.washington.edu/~bholt/posts/papoc-musings.html,/u/cmeiklejohn,5
-2,2015-05-02 17:40:27 -0500,"['/t/compsci', '/t/design', '/t/graphics', '/t/math']",Computer color is only kinda broken,http://scottsievert.github.io/blog/2015/04/23/image-sqrt/,/u/stsievert,19
-0,2015-05-03 04:48:25 -0500,"['/t/event', '/t/programming']",Curry On Prague! 2015 Schedule Announced and Tickets On Sale,http://curry-on.org,/u/cmeiklejohn,4
-2,2015-05-03 04:12:22 -0500,['/t/javascript'],float.js - introspect floating-point numbers in JS,https://github.com/dherman/float.js,/u/wildlyinaccurate,2
-6,2015-05-02 11:51:32 -0500,['/t/python'],Simple Json Response benchmark between Flask and Django,http://kracekumar.com/post/117948332935/simple-json-response-benchmark-between-flask-and,/u/kracekumar,6
-0,2015-05-02 12:55:16 -0500,['/t/culture'],The Trouble with Imposters,https://modelviewculture.com/pieces/the-trouble-with-imposters,/u/antifuchs,14
-0,2015-05-02 14:00:17 -0500,"['/t/databases', '/t/practices']","Primary Keyvil, reprised",http://www.databasesoup.com/2015/03/primary-keyvil-reprised.html,/u/pushcx,6
-0,2015-05-02 11:21:56 -0500,['/t/culture'],Fitting in v. Belonging,http://blog.jessitron.com/2015/05/fitting-in-v-belonging.html,/u/pushcx,15
+0,2015-05-04 07:45:27 -0500,/t/lisp,The Racket Blog: King of the Hill on Rosetta Code,http://blog.racket-lang.org/2015/05/king-of-hill-on-rosetta-code.html,/u/d_run,16
+3,2015-05-03 22:35:34 -0500,/t/programming,Hazardous Attitudes in Software Development,https://www.jeremymorgan.com/blog/programming/hazardous-attitudes-in-software-development/,/u/JeremyMorgan,23
+0,2015-05-04 12:24:30 -0500,"/t/science,/t/web",Emojineering Part 1: Machine Learning for Emoji Trends,http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji,/u/sebst,5
+1,2015-05-04 07:31:56 -0500,/t/web,Pure CSS3 calculator,http://experiments.hertzen.com/css3calculator/,/u/flyingfisch,6
+9,2015-05-03 13:49:20 -0500,/t/programming,Pony - High Performance Actor Programming,http://ponylang.org,/u/SeanTAllen,26
+0,2015-05-04 09:40:27 -0500,"/t/python,/t/release",State machine based testing in Hypothesis,http://hypothesis.readthedocs.org/en/master/stateful.html,/u/DRMacIver,4
+1,2015-05-04 03:57:39 -0500,"/t/pdf,/t/security","You Can Type, but You Can’t Hide: A Stealthy GPU-based Keylogger (2013)",http://www.cs.columbia.edu/~mikepo/papers/gpukeylogger.eurosec13.pdf,/u/antifuchs,7
+5,2015-05-03 14:43:11 -0500,"/t/networking,/t/openbsd",The ultimate OpenBSD router,http://www.bsdnow.tv/tutorials/openbsd-router,/u/fcambus,19
+0,2015-05-04 10:05:45 -0500,"/t/practices,/t/vcs",Git for everyone. A non-technical introduction (2013),http://hackazach.net/git/2013/07/13/git-for-everyone/,/u/zmcartor,2
+0,2015-05-04 09:49:16 -0500,/t/javascript,NativeScript 1.0.0 Release Now Available,http://developer.telerik.com/featured/nativescript-1-0-0-release-now-available/,/u/remotesynth,2
+2,2015-05-04 07:14:40 -0500,"/t/graphics,/t/meta",Graphics tag?,/s/wvdov6/graphics_tag,/u/calvin,5
+0,2015-05-03 11:35:06 -0500,/t/games,Wind Waker Hyrule travel guide,http://simonschreibt.de/gat/zelda-wind-waker-hyrule-travel-guide/,/u/mediremi,14
+4,2015-05-03 11:27:13 -0500,"/t/javascript,/t/web",WebGL ocean - A trip under the moonlight,https://jbouny.github.io/fft-ocean/,/u/mediremi,5
+13,2015-05-02 13:54:10 -0500,"/t/slides,/t/databases",Postgres: The Nice Bits,http://russ.garrett.co.uk/talks/postgres-gds/,/u/pushcx,37
+10,2015-05-02 19:09:34 -0500,"/t/go,/t/scaling",Distributed Read-Write Mutex in Go,https://gist.github.com/jonhoo/05774c1e47dbe4d57169,/u/pushcx,13
+0,2015-05-03 11:46:49 -0500,"/t/event,/t/freebsd,/t/openbsd,/t/unix",Subcarpathian BSD User Group,http://www.sbug.org,/u/fcambus,3
+1,2015-05-02 21:28:53 -0500,"/t/hardware,/t/security",How to crack many Master Lock combinations in eight tries or less,http://arstechnica.com/security/2015/04/28/how-to-crack-any-master-lock-combination-in-8-tries-or-less/,/u/cnst,10
+0,2015-05-03 05:51:26 -0500,/t/distributed,Brandon Holt — Musings from PaPoC,http://homes.cs.washington.edu/~bholt/posts/papoc-musings.html,/u/cmeiklejohn,5
+2,2015-05-02 17:40:27 -0500,"/t/compsci,/t/design,/t/graphics,/t/math",Computer color is only kinda broken,http://scottsievert.github.io/blog/2015/04/23/image-sqrt/,/u/stsievert,19
+0,2015-05-03 04:48:25 -0500,"/t/event,/t/programming",Curry On Prague! 2015 Schedule Announced and Tickets On Sale,http://curry-on.org,/u/cmeiklejohn,4
+2,2015-05-03 04:12:22 -0500,/t/javascript,float.js - introspect floating-point numbers in JS,https://github.com/dherman/float.js,/u/wildlyinaccurate,2
+6,2015-05-02 11:51:32 -0500,/t/python,Simple Json Response benchmark between Flask and Django,http://kracekumar.com/post/117948332935/simple-json-response-benchmark-between-flask-and,/u/kracekumar,6
+0,2015-05-02 12:55:16 -0500,/t/culture,The Trouble with Imposters,https://modelviewculture.com/pieces/the-trouble-with-imposters,/u/antifuchs,14
+0,2015-05-02 14:00:17 -0500,"/t/databases,/t/practices","Primary Keyvil, reprised",http://www.databasesoup.com/2015/03/primary-keyvil-reprised.html,/u/pushcx,6
+0,2015-05-02 11:21:56 -0500,/t/culture,Fitting in v. Belonging,http://blog.jessitron.com/2015/05/fitting-in-v-belonging.html,/u/pushcx,15

@@ -1,25 +1,25 @@
-0,2013-08-21 13:20:54 -0500,"['/t/c', '/t/security']",Function Pointer Protection in C Programs,http://www.openwall.com/lists/oss-security/2013/08/21/4,/u/jcs,5
-1,2013-08-21 08:19:07 -0500,['/t/vcs'],Git quiz,http://niksilver.com/2013/08/20/git-quiz/,/u/stevejalim,4
-0,2013-08-21 10:52:46 -0500,"['/t/api', '/t/lua']",Telize : a JSON IP address geolocation (GeoIP) REST API built on Nginx and Lua,http://www.telize.com,/u/fcambus,3
-0,2013-08-21 09:31:24 -0500,['/t/javascript'],Throw and Spin Your DOM Elements,http://greensock.com/draggable/,/u/carinmeier,1
-3,2013-08-20 10:38:53 -0500,"['/t/law', '/t/news', '/t/privacy']",Forced Exposure [Groklaw shuts down],http://www.groklaw.net/article.php?story=20130818120421175,/u/jcs,13
-0,2013-08-20 21:18:54 -0500,"['/t/networking', '/t/security']",A Question of DNS Protocols,http://www.circleid.com/posts/20130820_a_question_of_dns_protocols/,/u/jcs,3
-3,2013-08-20 13:54:45 -0500,"['/t/law', '/t/networking']","Court Rules Accessing a Public Website Isn't A Crime, But Hiding Your IP Address Could Be",https://www.eff.org/deeplinks/2013/08/court-rules-accessing-public-website-isnt-crime-hiding-your-ip-address-could-be,/u/jcs,2
-0,2013-08-20 13:37:08 -0500,['/t/news'],NSA files: why the Guardian in London destroyed hard drives of leaked files,http://www.theguardian.com/world/2013/aug/20/nsa-snowden-files-drives-destroyed-london,/u/bobbywilson0,4
-0,2013-08-20 05:49:22 -0500,"['/t/networking', '/t/programming']","Nanomsg, MIT-licensed ZeroMQ alternative",http://www.freelists.org/post/nanomsg/nanomsg-01alpha-released,/u/dbd,9
-0,2013-08-20 12:19:12 -0500,"['/t/android', '/t/security']",Credential storage enhancements in Android 4.3,http://nelenkov.blogspot.com/2013/08/credential-storage-enhancements-android-43.html,/u/jcs,2
-5,2013-08-19 14:49:37 -0500,"['/t/security', '/t/web']",Protect yourself from the hidden dangers of installing via `curl <url> | sh`,http://www.djm.org.uk/protect-yourself-from-non-obvious-dangers-curl-url-pipe-sh/,/u/djm,7
-0,2013-08-19 17:15:48 -0500,['/t/security'],Here’s what you find when you scan the entire Internet in an hour,http://www.washingtonpost.com/blogs/the-switch/wp/2013/08/18/heres-what-you-find-when-you-scan-the-entire-internet-in-an-hour/,/u/bobbywilson0,5
-0,2013-08-19 16:59:53 -0500,"['/t/assembly', '/t/games']",Diagnosing and Fixing a Bug in Galaga,http://www.computerarcheology.com/wiki/wiki/Arcade/Galaga,/u/pushcx,5
-0,2013-08-19 18:21:27 -0500,['/t/design'],Bootstrap 3 released,http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/,/u/eli,3
-1,2013-08-19 08:05:05 -0500,['/t/security'],Schneier on Security: The Cryptopocalypse,http://www.schneier.com/blog/archives/2013/08/the_cryptopocal.html,/u/kyle,5
-0,2013-08-19 12:57:08 -0500,"['/t/api', '/t/ruby']",BitTorrent Protocol Part 1: Torrents and Trackers,http://blog.jeregrine.com/2013/08/18/understanding-bittorrent-torrents-and-trackers.html,/u/peregrine,2
-0,2013-08-18 21:46:27 -0500,"['/t/go', '/t/scaling']",Rewriting a large production system in Go,http://matt-welsh.blogspot.com/2013/08/rewriting-large-production-system-in-go.html?m=1,/u/kyle,9
-0,2013-08-19 06:25:20 -0500,['/t/javascript'],Ractive.js Expressions and the New Wave of Reactive Programming,http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/,/u/remotesynth,1
-0,2013-08-19 01:48:38 -0500,"['/t/design', '/t/javascript', '/t/programming']","Tips for decoupling your HTML, CSS, and JavaScript",http://philipwalton.com/articles/decoupling-html-css-and-javascript/,/u/philipwalton,1
-0,2013-08-18 14:22:22 -0500,['/t/python'],the venerable pickle,https://read.twobitfifo.net/article/the-venerable-pickle/,/u/trousers,3
-0,2013-08-18 13:30:44 -0500,"['/t/news', '/t/privacy']",How to Catch a Liar on the Internet,http://www.theatlantic.com/magazine/archive/2013/09/the-way-we-lie-now/309431/,/u/tedu,3
-2,2013-08-18 10:31:48 -0500,['/t/security'],facebook vulnerability 2013,http://khalil-sh.blogspot.com/p/facebook_16.html,/u/journeysquid,1
-0,2013-08-17 11:22:08 -0500,"['/t/ruby', '/t/scaling']","New Tweets per second record, and how",https://blog.twitter.com/2013/new-tweets-per-second-record-and-how,/u/jcs,11
-0,2013-08-17 13:51:56 -0500,"['/t/video', '/t/erlang', '/t/programming']",Systems that Run Forever Self-heal and Scale,http://www.infoq.com/presentations/self-heal-scalable-system,/u/SeanTAllen,2
-5,2013-08-17 08:37:45 -0500,"['/t/c', '/t/programming', '/t/security']",drop-in secure replacement for your RNG,https://github.com/nmathewson/libottery,/u/dbd,1
+0,2013-08-21 13:20:54 -0500,"/t/c,/t/security",Function Pointer Protection in C Programs,http://www.openwall.com/lists/oss-security/2013/08/21/4,/u/jcs,5
+1,2013-08-21 08:19:07 -0500,/t/vcs,Git quiz,http://niksilver.com/2013/08/20/git-quiz/,/u/stevejalim,4
+0,2013-08-21 10:52:46 -0500,"/t/api,/t/lua",Telize : a JSON IP address geolocation (GeoIP) REST API built on Nginx and Lua,http://www.telize.com,/u/fcambus,3
+0,2013-08-21 09:31:24 -0500,/t/javascript,Throw and Spin Your DOM Elements,http://greensock.com/draggable/,/u/carinmeier,1
+3,2013-08-20 10:38:53 -0500,"/t/law,/t/news,/t/privacy",Forced Exposure [Groklaw shuts down],http://www.groklaw.net/article.php?story=20130818120421175,/u/jcs,13
+0,2013-08-20 21:18:54 -0500,"/t/networking,/t/security",A Question of DNS Protocols,http://www.circleid.com/posts/20130820_a_question_of_dns_protocols/,/u/jcs,3
+3,2013-08-20 13:54:45 -0500,"/t/law,/t/networking","Court Rules Accessing a Public Website Isn't A Crime, But Hiding Your IP Address Could Be",https://www.eff.org/deeplinks/2013/08/court-rules-accessing-public-website-isnt-crime-hiding-your-ip-address-could-be,/u/jcs,2
+0,2013-08-20 13:37:08 -0500,/t/news,NSA files: why the Guardian in London destroyed hard drives of leaked files,http://www.theguardian.com/world/2013/aug/20/nsa-snowden-files-drives-destroyed-london,/u/bobbywilson0,4
+0,2013-08-20 05:49:22 -0500,"/t/networking,/t/programming","Nanomsg, MIT-licensed ZeroMQ alternative",http://www.freelists.org/post/nanomsg/nanomsg-01alpha-released,/u/dbd,9
+0,2013-08-20 12:19:12 -0500,"/t/android,/t/security",Credential storage enhancements in Android 4.3,http://nelenkov.blogspot.com/2013/08/credential-storage-enhancements-android-43.html,/u/jcs,2
+5,2013-08-19 14:49:37 -0500,"/t/security,/t/web",Protect yourself from the hidden dangers of installing via `curl <url> | sh`,http://www.djm.org.uk/protect-yourself-from-non-obvious-dangers-curl-url-pipe-sh/,/u/djm,7
+0,2013-08-19 17:15:48 -0500,/t/security,Here’s what you find when you scan the entire Internet in an hour,http://www.washingtonpost.com/blogs/the-switch/wp/2013/08/18/heres-what-you-find-when-you-scan-the-entire-internet-in-an-hour/,/u/bobbywilson0,5
+0,2013-08-19 16:59:53 -0500,"/t/assembly,/t/games",Diagnosing and Fixing a Bug in Galaga,http://www.computerarcheology.com/wiki/wiki/Arcade/Galaga,/u/pushcx,5
+0,2013-08-19 18:21:27 -0500,/t/design,Bootstrap 3 released,http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/,/u/eli,3
+1,2013-08-19 08:05:05 -0500,/t/security,Schneier on Security: The Cryptopocalypse,http://www.schneier.com/blog/archives/2013/08/the_cryptopocal.html,/u/kyle,5
+0,2013-08-19 12:57:08 -0500,"/t/api,/t/ruby",BitTorrent Protocol Part 1: Torrents and Trackers,http://blog.jeregrine.com/2013/08/18/understanding-bittorrent-torrents-and-trackers.html,/u/peregrine,2
+0,2013-08-18 21:46:27 -0500,"/t/go,/t/scaling",Rewriting a large production system in Go,http://matt-welsh.blogspot.com/2013/08/rewriting-large-production-system-in-go.html?m=1,/u/kyle,9
+0,2013-08-19 06:25:20 -0500,/t/javascript,Ractive.js Expressions and the New Wave of Reactive Programming,http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/,/u/remotesynth,1
+0,2013-08-19 01:48:38 -0500,"/t/design,/t/javascript,/t/programming","Tips for decoupling your HTML, CSS, and JavaScript",http://philipwalton.com/articles/decoupling-html-css-and-javascript/,/u/philipwalton,1
+0,2013-08-18 14:22:22 -0500,/t/python,the venerable pickle,https://read.twobitfifo.net/article/the-venerable-pickle/,/u/trousers,3
+0,2013-08-18 13:30:44 -0500,"/t/news,/t/privacy",How to Catch a Liar on the Internet,http://www.theatlantic.com/magazine/archive/2013/09/the-way-we-lie-now/309431/,/u/tedu,3
+2,2013-08-18 10:31:48 -0500,/t/security,facebook vulnerability 2013,http://khalil-sh.blogspot.com/p/facebook_16.html,/u/journeysquid,1
+0,2013-08-17 11:22:08 -0500,"/t/ruby,/t/scaling","New Tweets per second record, and how",https://blog.twitter.com/2013/new-tweets-per-second-record-and-how,/u/jcs,11
+0,2013-08-17 13:51:56 -0500,"/t/video,/t/erlang,/t/programming",Systems that Run Forever Self-heal and Scale,http://www.infoq.com/presentations/self-heal-scalable-system,/u/SeanTAllen,2
+5,2013-08-17 08:37:45 -0500,"/t/c,/t/programming,/t/security",drop-in secure replacement for your RNG,https://github.com/nmathewson/libottery,/u/dbd,1

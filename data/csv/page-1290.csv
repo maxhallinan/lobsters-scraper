@@ -1,25 +1,25 @@
-38,2014-07-14 11:15:01 -0500,['/t/ask'],What are you working on this week?,/s/jnnx6k/what_are_you_working_on_this_week,/u/zhemao,29
-0,2014-07-15 07:01:27 -0500,['/t/ruby'],Inheritable aliases in Ruby,http://theinternate.com/2014/02/14/inheritable-aliases-in-ruby.html,/u/pushcx,1
-0,2014-07-14 12:28:10 -0500,"['/t/security', '/t/web']",The Ur/Web Manual,http://enn.github.io/urweb-doc/,/u/ika,12
-2,2014-07-14 11:41:05 -0500,['/t/programming'],From Jekyll site to Unikernel in fifty lines of code.,http://amirchaudhry.com/from-jekyll-to-unikernel-in-fifty-lines/,/u/englishm,10
-0,2014-07-14 14:37:47 -0500,"['/t/haskell', '/t/practices', '/t/programming']",Lens Tutorial - Introduction (part 1),http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html,/u/darthdeus,7
-1,2014-07-14 08:47:09 -0500,['/t/programming'],Grimoire - New Clojure Docs,http://grimoire.arrdem.com/,/u/carinmeier,13
-0,2014-07-14 17:06:32 -0500,['/t/programming'],Measuring coverage at Google,http://googletesting.blogspot.ch/2014/07/measuring-coverage-at-google.html,/u/igorbel,4
-2,2014-07-14 05:22:07 -0500,"['/t/pdf', '/t/art', '/t/math']",A Mathematician’s Lament,https://www.maa.org/external_archive/devlin/LockhartsLament.pdf,/u/calvin,14
-0,2014-07-14 16:01:21 -0500,['/t/databases'],comprehensive explanation of SQL joins,http://stackoverflow.com/a/12475851,/u/ika,4
-1,2014-07-14 11:28:01 -0500,"['/t/databases', '/t/release']",Treode: a distributed key-value store that provides atomic writes,https://github.com/Treode/store,/u/pushcx,6
-2,2014-07-14 13:43:03 -0500,"['/t/hardware', '/t/linux']","Pi-Top, the DIY Raspberry Pi powered laptop kit.",http://www.pi-top.com/,/u/zem,3
-0,2014-07-14 00:24:42 -0500,"['/t/pdf', '/t/compsci']",A Unified Theory of Garbage Collection (2004),http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf,/u/pushcx,18
-3,2014-07-13 23:05:53 -0500,"['/t/hardware', '/t/lisp']",LambdaPi: A Scheme / Lisp based operating system for the Raspberry Pi,https://gitorious.org/lambdapi,/u/pushcx,15
-0,2014-07-14 18:38:03 -0500,['/t/databases'],SpatiaLite,http://en.wikipedia.org/wiki/SpatiaLite,/u/animatronic,1
-0,2014-07-14 15:40:07 -0500,['/t/php'],Celebrating 10 Years of PHP 5.0.0,https://blog.engineyard.com/2014/php-5-10th-anniversary,/u/dshafik,1
-2,2014-07-13 17:42:09 -0500,"['/t/design', '/t/ios', '/t/programming']",Design mistakes in Swift language’s arrays,http://yinwang0.wordpress.com/2014/07/13/swift-array/,/u/pushcx,16
-0,2014-07-14 12:55:53 -0500,"['/t/compsci', '/t/design']",Event Sourcing Basics,https://github.com/eventstore/eventstore/wiki/Event-Sourcing-Basics,/u/pushcx,1
-0,2014-07-14 12:37:07 -0500,['/t/distributed'],Bitly: Lessons Learned,http://highscalability.com/blog/2014/7/14/bitly-lessons-learned-building-a-distributed-system-that-han.html,/u/pushcx,1
-0,2014-07-14 11:26:45 -0500,['/t/programming'],"Google I/O: Hello Dataflow, Goodbye MapReduce",http://www.informationweek.com/cloud/software-as-a-service/google-i-o-hello-dataflow-goodbye-mapreduce/d/d-id/1278917,/u/pushcx,1
-0,2014-07-14 11:20:16 -0500,"['/t/compsci', '/t/databases']",Queues and Databases,http://antirez.com/news/78,/u/pushcx,1
-0,2014-07-14 10:59:22 -0500,"['/t/java', '/t/javascript']",Virtual Panel: Real-world JavaScript MVC Frameworks,http://www.infoq.com/articles/real-world-javascript-mvc-frameworks,/u/ancatrusca,1
-0,2014-07-14 10:33:08 -0500,"['/t/python', '/t/visualization']",Finding the World's Economic Center of Gravity,http://nbviewer.ipython.org/github/djv/world_economic_center/blob/master/map.ipynb,/u/djv,1
-0,2014-07-14 10:31:13 -0500,"['/t/linux', '/t/mac']",Ubuntu With Linux 3.16 Smashes OS X 10.9.4 On The MacBook Air,http://www.phoronix.com/vr.php?view=20687,/u/journeysquid,1
-0,2014-07-14 10:18:04 -0500,"['/t/games', '/t/javascript']",Play Flappy Birds by whistling built using getUserMedia,https://github.com/brettjurgens/whistlebirds,/u/dotcom,1
-0,2014-07-14 10:14:03 -0500,"['/t/pdf', '/t/programming']",Technology Radar July 2014,http://thoughtworks.fileburst.com/assets/technology-radar-july-2014-en.pdf,/u/pushcx,1
+38,2014-07-14 11:15:01 -0500,/t/ask,What are you working on this week?,/s/jnnx6k/what_are_you_working_on_this_week,/u/zhemao,29
+0,2014-07-15 07:01:27 -0500,/t/ruby,Inheritable aliases in Ruby,http://theinternate.com/2014/02/14/inheritable-aliases-in-ruby.html,/u/pushcx,1
+0,2014-07-14 12:28:10 -0500,"/t/security,/t/web",The Ur/Web Manual,http://enn.github.io/urweb-doc/,/u/ika,12
+2,2014-07-14 11:41:05 -0500,/t/programming,From Jekyll site to Unikernel in fifty lines of code.,http://amirchaudhry.com/from-jekyll-to-unikernel-in-fifty-lines/,/u/englishm,10
+0,2014-07-14 14:37:47 -0500,"/t/haskell,/t/practices,/t/programming",Lens Tutorial - Introduction (part 1),http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html,/u/darthdeus,7
+1,2014-07-14 08:47:09 -0500,/t/programming,Grimoire - New Clojure Docs,http://grimoire.arrdem.com/,/u/carinmeier,13
+0,2014-07-14 17:06:32 -0500,/t/programming,Measuring coverage at Google,http://googletesting.blogspot.ch/2014/07/measuring-coverage-at-google.html,/u/igorbel,4
+2,2014-07-14 05:22:07 -0500,"/t/pdf,/t/art,/t/math",A Mathematician’s Lament,https://www.maa.org/external_archive/devlin/LockhartsLament.pdf,/u/calvin,14
+0,2014-07-14 16:01:21 -0500,/t/databases,comprehensive explanation of SQL joins,http://stackoverflow.com/a/12475851,/u/ika,4
+1,2014-07-14 11:28:01 -0500,"/t/databases,/t/release",Treode: a distributed key-value store that provides atomic writes,https://github.com/Treode/store,/u/pushcx,6
+2,2014-07-14 13:43:03 -0500,"/t/hardware,/t/linux","Pi-Top, the DIY Raspberry Pi powered laptop kit.",http://www.pi-top.com/,/u/zem,3
+0,2014-07-14 00:24:42 -0500,"/t/pdf,/t/compsci",A Unified Theory of Garbage Collection (2004),http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf,/u/pushcx,18
+3,2014-07-13 23:05:53 -0500,"/t/hardware,/t/lisp",LambdaPi: A Scheme / Lisp based operating system for the Raspberry Pi,https://gitorious.org/lambdapi,/u/pushcx,15
+0,2014-07-14 18:38:03 -0500,/t/databases,SpatiaLite,http://en.wikipedia.org/wiki/SpatiaLite,/u/animatronic,1
+0,2014-07-14 15:40:07 -0500,/t/php,Celebrating 10 Years of PHP 5.0.0,https://blog.engineyard.com/2014/php-5-10th-anniversary,/u/dshafik,1
+2,2014-07-13 17:42:09 -0500,"/t/design,/t/ios,/t/programming",Design mistakes in Swift language’s arrays,http://yinwang0.wordpress.com/2014/07/13/swift-array/,/u/pushcx,16
+0,2014-07-14 12:55:53 -0500,"/t/compsci,/t/design",Event Sourcing Basics,https://github.com/eventstore/eventstore/wiki/Event-Sourcing-Basics,/u/pushcx,1
+0,2014-07-14 12:37:07 -0500,/t/distributed,Bitly: Lessons Learned,http://highscalability.com/blog/2014/7/14/bitly-lessons-learned-building-a-distributed-system-that-han.html,/u/pushcx,1
+0,2014-07-14 11:26:45 -0500,/t/programming,"Google I/O: Hello Dataflow, Goodbye MapReduce",http://www.informationweek.com/cloud/software-as-a-service/google-i-o-hello-dataflow-goodbye-mapreduce/d/d-id/1278917,/u/pushcx,1
+0,2014-07-14 11:20:16 -0500,"/t/compsci,/t/databases",Queues and Databases,http://antirez.com/news/78,/u/pushcx,1
+0,2014-07-14 10:59:22 -0500,"/t/java,/t/javascript",Virtual Panel: Real-world JavaScript MVC Frameworks,http://www.infoq.com/articles/real-world-javascript-mvc-frameworks,/u/ancatrusca,1
+0,2014-07-14 10:33:08 -0500,"/t/python,/t/visualization",Finding the World's Economic Center of Gravity,http://nbviewer.ipython.org/github/djv/world_economic_center/blob/master/map.ipynb,/u/djv,1
+0,2014-07-14 10:31:13 -0500,"/t/linux,/t/mac",Ubuntu With Linux 3.16 Smashes OS X 10.9.4 On The MacBook Air,http://www.phoronix.com/vr.php?view=20687,/u/journeysquid,1
+0,2014-07-14 10:18:04 -0500,"/t/games,/t/javascript",Play Flappy Birds by whistling built using getUserMedia,https://github.com/brettjurgens/whistlebirds,/u/dotcom,1
+0,2014-07-14 10:14:03 -0500,"/t/pdf,/t/programming",Technology Radar July 2014,http://thoughtworks.fileburst.com/assets/technology-radar-july-2014-en.pdf,/u/pushcx,1

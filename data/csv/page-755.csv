@@ -1,25 +1,25 @@
-4,2016-06-08 11:19:24 -0500,['/t/math'],How to assign partial credit on an exam of true-false questions?,https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/,/u/pushcx,18
-2,2016-06-08 21:54:00 -0500,['/t/design'],The Humane Interface,http://nitpicker.pbworks.com/w/page/12451253/The%20Humane%20Interface,/u/joshuacc,7
-0,2016-06-09 12:06:44 -0500,"['/t/video', '/t/dotnet', '/t/event']",dotnetConf 2016,https://channel9.msdn.com/,/u/calvin,1
-2,2016-06-08 10:14:19 -0500,"['/t/book', '/t/programming']",Functional programming books overview,http://alexott.net/en/fp/books/#sec12,/u/unbalancedparentheses,23
-0,2016-06-09 01:34:33 -0500,['/t/distributed'],Standing on Distributed Shoulders of Giants,http://queue.acm.org/detail.cfm?id=2953944,/u/apy,4
-0,2016-06-08 17:37:38 -0500,"['/t/security', '/t/web']",Multitenancy & Let’s Encrypt,https://hund.io/blog/multitenancy-let-s-encrypt,/u/jonl,5
-1,2016-06-08 07:40:12 -0500,"['/t/compilers', '/t/programming', '/t/release']",Nim v0.14.0 released,http://nim-lang.org/news/2016_06_07_version_0_14_0_released.html,/u/dom,15
-5,2016-06-08 08:45:32 -0500,"['/t/mobile', '/t/privacy', '/t/security']",The Problem with Mobile Phones,https://ssd.eff.org/en/module/problem-mobile-phones,/u/calvin,12
-0,2016-06-08 14:12:25 -0500,"['/t/video', '/t/databases', '/t/distributed']","""Jepsen II: Linearizable Boogaloo"" by Kyle Kingsbury (2014)",https://www.youtube.com/watch?v=QdkS6ZjeR7Q,/u/untitaker,7
-1,2016-06-08 17:57:06 -0500,"['/t/release', '/t/web']","Multimodal routing in 200+ places around the world, power by open data and open-source software",https://mapzen.com/blog/even-more-transit-routing/,/u/drewda,2
-2,2016-06-08 03:57:33 -0500,"['/t/python', '/t/testing']",Evolving toward property-based testing with Hypothesis,http://hypothesis.works/articles/incremental-property-based-testing/,/u/DRMacIver,17
-0,2016-06-08 15:25:30 -0500,"['/t/video', '/t/haskell', '/t/lisp']",A Guided Tour of Lux,https://www.youtube.com/channel/UCtnwGRJTT4UFqcclbE8BrEQ,/u/unbalancedparentheses,5
-6,2016-06-08 04:15:49 -0500,"['/t/video', '/t/hardware']",Shenzhen: The Silicon Valley of Hardware,https://www.youtube.com/watch?v=hp6F_ApUq-c,/u/Bystroushaak,8
-0,2016-06-08 11:21:44 -0500,"['/t/games', '/t/hardware']",Kyuukoukabakugekitai (Dive Bomber Squad),http://mamedev.emulab.it/haze/2016/06/06/divebombersquad/,/u/sevan,7
-3,2016-06-07 23:14:24 -0500,"['/t/haskell', '/t/programming']",The five arguments on why people struggle with monads,http://chrisdone.com/posts/monads,/u/unbalancedparentheses,15
-4,2016-06-07 18:21:36 -0500,['/t/databases'],MongoDB queries don’t always return all matching documents,https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827,/u/pushcx,22
-1,2016-06-07 23:37:00 -0500,"['/t/show', '/t/design']",Type Terms,https://www.supremo.tv/typeterms/,/u/marvindanig,17
-20,2016-06-07 12:38:16 -0500,"['/t/slides', '/t/go']",Program your next server in Go,https://talks.golang.org/2016/applicative.slide#1,/u/checkyoursix,29
-0,2016-06-08 02:01:04 -0500,"['/t/netbsd', '/t/release', '/t/unix']",pkgsrc 50th release interviews - Ryo ONODERA,http://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_ryo,/u/krytarowski,7
-0,2016-06-08 12:38:31 -0500,"['/t/culture', '/t/historical']","Blinkenlights, a hacker's neologism",https://en.wikipedia.org/wiki/Blinkenlights,/u/unbalancedparentheses,7
-2,2016-06-07 22:51:45 -0500,"['/t/lisp', '/t/programming']",Lisp Is Not Functional - Let Over Lambda,http://letoverlambda.com/index.cl/guest/chap5.html,/u/unbalancedparentheses,8
-11,2016-06-07 14:53:38 -0500,['/t/databases'],Five mistakes beginners make when working with databases,http://www.craigkerstiens.com/2016/06/07/five-mistakes-databases/,/u/rdegges,18
-0,2016-06-08 12:02:44 -0500,['/t/devops'],Finding The Right Local Kubernetes Development Environment,https://blog.giantswarm.io/getting-started-with-a-local-kubernetes-environment/,/u/nslater,3
-0,2016-06-08 11:25:56 -0500,"['/t/compsci', '/t/ml']",Set-Theoretic Types for Polymorphic Variants,http://arxiv.org/abs/1606.01106,/u/dwc,3
-0,2016-06-08 14:25:38 -0500,"['/t/culture', '/t/historical']",On Reading Issues of Wired from 1993 to 1995,http://www.newyorker.com/culture/cultural-comment/on-reading-issues-of-wired-from-1993-to-1995,/u/friendlysock,4
+4,2016-06-08 11:19:24 -0500,/t/math,How to assign partial credit on an exam of true-false questions?,https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/,/u/pushcx,18
+2,2016-06-08 21:54:00 -0500,/t/design,The Humane Interface,http://nitpicker.pbworks.com/w/page/12451253/The%20Humane%20Interface,/u/joshuacc,7
+0,2016-06-09 12:06:44 -0500,"/t/video,/t/dotnet,/t/event",dotnetConf 2016,https://channel9.msdn.com/,/u/calvin,1
+2,2016-06-08 10:14:19 -0500,"/t/book,/t/programming",Functional programming books overview,http://alexott.net/en/fp/books/#sec12,/u/unbalancedparentheses,23
+0,2016-06-09 01:34:33 -0500,/t/distributed,Standing on Distributed Shoulders of Giants,http://queue.acm.org/detail.cfm?id=2953944,/u/apy,4
+0,2016-06-08 17:37:38 -0500,"/t/security,/t/web",Multitenancy & Let’s Encrypt,https://hund.io/blog/multitenancy-let-s-encrypt,/u/jonl,5
+1,2016-06-08 07:40:12 -0500,"/t/compilers,/t/programming,/t/release",Nim v0.14.0 released,http://nim-lang.org/news/2016_06_07_version_0_14_0_released.html,/u/dom,15
+5,2016-06-08 08:45:32 -0500,"/t/mobile,/t/privacy,/t/security",The Problem with Mobile Phones,https://ssd.eff.org/en/module/problem-mobile-phones,/u/calvin,12
+0,2016-06-08 14:12:25 -0500,"/t/video,/t/databases,/t/distributed","""Jepsen II: Linearizable Boogaloo"" by Kyle Kingsbury (2014)",https://www.youtube.com/watch?v=QdkS6ZjeR7Q,/u/untitaker,7
+1,2016-06-08 17:57:06 -0500,"/t/release,/t/web","Multimodal routing in 200+ places around the world, power by open data and open-source software",https://mapzen.com/blog/even-more-transit-routing/,/u/drewda,2
+2,2016-06-08 03:57:33 -0500,"/t/python,/t/testing",Evolving toward property-based testing with Hypothesis,http://hypothesis.works/articles/incremental-property-based-testing/,/u/DRMacIver,17
+0,2016-06-08 15:25:30 -0500,"/t/video,/t/haskell,/t/lisp",A Guided Tour of Lux,https://www.youtube.com/channel/UCtnwGRJTT4UFqcclbE8BrEQ,/u/unbalancedparentheses,5
+6,2016-06-08 04:15:49 -0500,"/t/video,/t/hardware",Shenzhen: The Silicon Valley of Hardware,https://www.youtube.com/watch?v=hp6F_ApUq-c,/u/Bystroushaak,8
+0,2016-06-08 11:21:44 -0500,"/t/games,/t/hardware",Kyuukoukabakugekitai (Dive Bomber Squad),http://mamedev.emulab.it/haze/2016/06/06/divebombersquad/,/u/sevan,7
+3,2016-06-07 23:14:24 -0500,"/t/haskell,/t/programming",The five arguments on why people struggle with monads,http://chrisdone.com/posts/monads,/u/unbalancedparentheses,15
+4,2016-06-07 18:21:36 -0500,/t/databases,MongoDB queries don’t always return all matching documents,https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827,/u/pushcx,22
+1,2016-06-07 23:37:00 -0500,"/t/show,/t/design",Type Terms,https://www.supremo.tv/typeterms/,/u/marvindanig,17
+20,2016-06-07 12:38:16 -0500,"/t/slides,/t/go",Program your next server in Go,https://talks.golang.org/2016/applicative.slide#1,/u/checkyoursix,29
+0,2016-06-08 02:01:04 -0500,"/t/netbsd,/t/release,/t/unix",pkgsrc 50th release interviews - Ryo ONODERA,http://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_ryo,/u/krytarowski,7
+0,2016-06-08 12:38:31 -0500,"/t/culture,/t/historical","Blinkenlights, a hacker's neologism",https://en.wikipedia.org/wiki/Blinkenlights,/u/unbalancedparentheses,7
+2,2016-06-07 22:51:45 -0500,"/t/lisp,/t/programming",Lisp Is Not Functional - Let Over Lambda,http://letoverlambda.com/index.cl/guest/chap5.html,/u/unbalancedparentheses,8
+11,2016-06-07 14:53:38 -0500,/t/databases,Five mistakes beginners make when working with databases,http://www.craigkerstiens.com/2016/06/07/five-mistakes-databases/,/u/rdegges,18
+0,2016-06-08 12:02:44 -0500,/t/devops,Finding The Right Local Kubernetes Development Environment,https://blog.giantswarm.io/getting-started-with-a-local-kubernetes-environment/,/u/nslater,3
+0,2016-06-08 11:25:56 -0500,"/t/compsci,/t/ml",Set-Theoretic Types for Polymorphic Variants,http://arxiv.org/abs/1606.01106,/u/dwc,3
+0,2016-06-08 14:25:38 -0500,"/t/culture,/t/historical",On Reading Issues of Wired from 1993 to 1995,http://www.newyorker.com/culture/cultural-comment/on-reading-issues-of-wired-from-1993-to-1995,/u/friendlysock,4

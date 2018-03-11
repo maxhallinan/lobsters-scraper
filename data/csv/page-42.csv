@@ -1,25 +1,25 @@
-1,2018-01-29 14:11:40 -0600,"['/t/video', '/t/ai', '/t/devops', '/t/event', '/t/linux', '/t/programming', '/t/testing']",DevConf CZ 2018 - Videos,https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg,/u/evilissimo,1
-0,2018-01-29 12:50:31 -0600,"['/t/ai', '/t/hardware']",NIST’s Superconducting Synapse May Be Missing Piece for ‘Artificial Brains’,https://www.nist.gov/news-events/news/2018/01/nists-superconducting-synapse-may-be-missing-piece-artificial-brains,/u/mempko,2
-13,2018-01-28 01:05:48 -0600,"['/t/debugging', '/t/mac']",I think I found a Mac kernel bug?,https://jvns.ca/blog/2018/01/28/mac-freeze/,/u/quobit,59
-0,2018-01-29 11:52:01 -0600,"['/t/pdf', '/t/crypto']",How to Reveal the Secrets of an Obscure White-Box Implementation,https://eprint.iacr.org/2018/098.pdf,/u/lainon,2
-0,2018-01-29 03:35:29 -0600,['/t/distributed'],Designing Distributed Systems,https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/,/u/nanxiao,6
-1,2018-01-29 08:50:54 -0600,"['/t/pdf', '/t/formalmethods', '/t/programming']",Electrum: Lightweight Specification and Analysis of Dynamic Systems with Rich Configurations,https://hal.archives-ouvertes.fr/hal-01355062/file/electrum.pdf,/u/nickpsecurity,3
-3,2018-01-28 15:29:08 -0600,['/t/practices'],The Most Dangerous Word In Software Development,http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development,/u/hwayne,11
-3,2018-01-28 18:43:27 -0600,['/t/go'],All about Go's Stringer interface,http://musse.cc/blog/stringer-golang,/u/pietromenna,5
-0,2018-01-29 10:51:11 -0600,"['/t/video', '/t/compilers']",Simple AST Optimizations — How to Create a Compiler part 2/5,https://www.youtube.com/watch?v=QSPaL4aVjRo,/u/yumaikas,1
-61,2018-01-27 09:16:05 -0600,"['/t/historical', '/t/person']",Important Women in CS Who Aren't Grace Hopper,https://www.hillelwayne.com/post/important-women-in-cs/,/u/hwayne,96
-2,2018-01-28 12:58:06 -0600,['/t/web'],"Portier - An email-based, passwordless authentication service",https://portier.github.io/,/u/freddyb,14
-0,2018-01-28 21:14:15 -0600,['/t/graphics'],"A Simple, and Trivially Parallelizable Triangle Rasterization Approach",https://erkaman.github.io/posts/fast_triangle_rasterization.html,/u/calvin,6
-0,2018-01-29 05:14:17 -0600,['/t/practices'],Patterns as solution anti-patterns,https://gradha.github.io/articles/2016/06/patterns-as-solution-antipatterns.html,/u/yumaikas,2
-6,2018-01-28 09:17:26 -0600,['/t/unix'],The Setenv Fiasco (2015),http://www.club.cc.cmu.edu/~cmccabe/blog_the_setenv_fiasco.html,/u/pushcx,12
-6,2018-01-28 05:11:08 -0600,"['/t/privacy', '/t/visualization']",Strava heatmap can be used to locate military bases,https://twitter.com/tobiaschneider/status/957317886112124928,/u/av,23
-0,2018-01-28 11:36:41 -0600,"['/t/slides', '/t/historical', '/t/netbsd', '/t/unix']",The history of NetBSD/atari and support for ATARI compatible Milan,https://speakerdeck.com/tsutsui/osc2018osaka,/u/sevan,15
-5,2018-01-28 07:06:41 -0600,"['/t/python', '/t/web']",Ivy — a minimalist static website generator,http://mulholland.xyz/docs/ivy/,/u/av,16
-0,2018-01-28 16:40:41 -0600,['/t/haskell'],LambdaCase in the Wild,http://storm-country.com/blog/LambdaCase,/u/pushcx,7
-0,2018-01-28 16:29:12 -0600,['/t/security'],First ‘Jackpotting’ Attacks Hit U.S. ATMs,https://krebsonsecurity.com/2018/01/first-jackpotting-attacks-hit-u-s-atms/,/u/adsouza,6
-0,2018-01-29 04:51:40 -0600,"['/t/javascript', '/t/testing', '/t/web']",End-To-End Testing A VueJS HackerNews Clone,https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/,/u/anthonygore,0
-1,2018-01-28 06:08:40 -0600,"['/t/c', '/t/c++', '/t/programming']",Understanding the C/C++ memory model,https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/,/u/Mex,15
-0,2018-01-28 19:52:57 -0600,"['/t/pdf', '/t/programming']",Multiple Byte Processing with Full-Word Instructions - Leslie Lamport (1975),http://lamport.azurewebsites.net/pubs/multiple-byte.pdf,/u/dbremner,3
-2,2018-01-28 10:56:42 -0600,['/t/lisp'],"Different rings on PicoLisp, (coroutine) is strong winner.",https://bitbucket.org/mihailp/tankfeeder/src/default/rings/?at=default,/u/tankfeeder,4
-1,2018-01-28 09:35:09 -0600,['/t/browsers'],Towards LaTeX in the Browser,https://hackernoon.com/towards-latex-in-the-browser-2ff4d94a0c08,/u/pushcx,6
-0,2018-01-28 11:57:22 -0600,"['/t/javascript', '/t/security']",Part 2: How to stop me harvesting credit card numbers and passwords from your site,https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9,/u/calvin,5
+1,2018-01-29 14:11:40 -0600,"/t/video,/t/ai,/t/devops,/t/event,/t/linux,/t/programming,/t/testing",DevConf CZ 2018 - Videos,https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg,/u/evilissimo,1
+0,2018-01-29 12:50:31 -0600,"/t/ai,/t/hardware",NIST’s Superconducting Synapse May Be Missing Piece for ‘Artificial Brains’,https://www.nist.gov/news-events/news/2018/01/nists-superconducting-synapse-may-be-missing-piece-artificial-brains,/u/mempko,2
+13,2018-01-28 01:05:48 -0600,"/t/debugging,/t/mac",I think I found a Mac kernel bug?,https://jvns.ca/blog/2018/01/28/mac-freeze/,/u/quobit,59
+0,2018-01-29 11:52:01 -0600,"/t/pdf,/t/crypto",How to Reveal the Secrets of an Obscure White-Box Implementation,https://eprint.iacr.org/2018/098.pdf,/u/lainon,2
+0,2018-01-29 03:35:29 -0600,/t/distributed,Designing Distributed Systems,https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/,/u/nanxiao,6
+1,2018-01-29 08:50:54 -0600,"/t/pdf,/t/formalmethods,/t/programming",Electrum: Lightweight Specification and Analysis of Dynamic Systems with Rich Configurations,https://hal.archives-ouvertes.fr/hal-01355062/file/electrum.pdf,/u/nickpsecurity,3
+3,2018-01-28 15:29:08 -0600,/t/practices,The Most Dangerous Word In Software Development,http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development,/u/hwayne,11
+3,2018-01-28 18:43:27 -0600,/t/go,All about Go's Stringer interface,http://musse.cc/blog/stringer-golang,/u/pietromenna,5
+0,2018-01-29 10:51:11 -0600,"/t/video,/t/compilers",Simple AST Optimizations — How to Create a Compiler part 2/5,https://www.youtube.com/watch?v=QSPaL4aVjRo,/u/yumaikas,1
+61,2018-01-27 09:16:05 -0600,"/t/historical,/t/person",Important Women in CS Who Aren't Grace Hopper,https://www.hillelwayne.com/post/important-women-in-cs/,/u/hwayne,96
+2,2018-01-28 12:58:06 -0600,/t/web,"Portier - An email-based, passwordless authentication service",https://portier.github.io/,/u/freddyb,14
+0,2018-01-28 21:14:15 -0600,/t/graphics,"A Simple, and Trivially Parallelizable Triangle Rasterization Approach",https://erkaman.github.io/posts/fast_triangle_rasterization.html,/u/calvin,6
+0,2018-01-29 05:14:17 -0600,/t/practices,Patterns as solution anti-patterns,https://gradha.github.io/articles/2016/06/patterns-as-solution-antipatterns.html,/u/yumaikas,2
+6,2018-01-28 09:17:26 -0600,/t/unix,The Setenv Fiasco (2015),http://www.club.cc.cmu.edu/~cmccabe/blog_the_setenv_fiasco.html,/u/pushcx,12
+6,2018-01-28 05:11:08 -0600,"/t/privacy,/t/visualization",Strava heatmap can be used to locate military bases,https://twitter.com/tobiaschneider/status/957317886112124928,/u/av,23
+0,2018-01-28 11:36:41 -0600,"/t/slides,/t/historical,/t/netbsd,/t/unix",The history of NetBSD/atari and support for ATARI compatible Milan,https://speakerdeck.com/tsutsui/osc2018osaka,/u/sevan,15
+5,2018-01-28 07:06:41 -0600,"/t/python,/t/web",Ivy — a minimalist static website generator,http://mulholland.xyz/docs/ivy/,/u/av,16
+0,2018-01-28 16:40:41 -0600,/t/haskell,LambdaCase in the Wild,http://storm-country.com/blog/LambdaCase,/u/pushcx,7
+0,2018-01-28 16:29:12 -0600,/t/security,First ‘Jackpotting’ Attacks Hit U.S. ATMs,https://krebsonsecurity.com/2018/01/first-jackpotting-attacks-hit-u-s-atms/,/u/adsouza,6
+0,2018-01-29 04:51:40 -0600,"/t/javascript,/t/testing,/t/web",End-To-End Testing A VueJS HackerNews Clone,https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/,/u/anthonygore,0
+1,2018-01-28 06:08:40 -0600,"/t/c,/t/c++,/t/programming",Understanding the C/C++ memory model,https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/,/u/Mex,15
+0,2018-01-28 19:52:57 -0600,"/t/pdf,/t/programming",Multiple Byte Processing with Full-Word Instructions - Leslie Lamport (1975),http://lamport.azurewebsites.net/pubs/multiple-byte.pdf,/u/dbremner,3
+2,2018-01-28 10:56:42 -0600,/t/lisp,"Different rings on PicoLisp, (coroutine) is strong winner.",https://bitbucket.org/mihailp/tankfeeder/src/default/rings/?at=default,/u/tankfeeder,4
+1,2018-01-28 09:35:09 -0600,/t/browsers,Towards LaTeX in the Browser,https://hackernoon.com/towards-latex-in-the-browser-2ff4d94a0c08,/u/pushcx,6
+0,2018-01-28 11:57:22 -0600,"/t/javascript,/t/security",Part 2: How to stop me harvesting credit card numbers and passwords from your site,https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9,/u/calvin,5

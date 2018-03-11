@@ -1,25 +1,25 @@
-0,2015-07-14 12:11:03 -0500,"['/t/culture', '/t/programming']",Hackership to offer 4-week code learning retreat in Costa Rica in Autumn,http://blog.hackership.org/2015/07/4-weeks-in-costa-rica.html,/u/gnunicorn,1
-8,2015-07-13 15:59:11 -0500,"['/t/security', '/t/web']",Big Mess o' Wires » Web Site Hacked,http://www.bigmessowires.com/2015/07/13/web-site-hacked/,/u/benoliver999,4
-0,2015-07-13 13:50:45 -0500,"['/t/video', '/t/ml']",Anil Madhavapeddy - Unikernels: Functional Infrastructure with Mirage OS,http://www.youtube.com/watch?v=bC7rTUEZfmI,/u/vfoley,10
-0,2015-07-14 11:14:03 -0500,"['/t/graphics', '/t/hardware', '/t/linux']","Imagination Is Hiring A PowerVR Linux, Open-Source Driver Developer",http://www.phoronix.com/scan.php?page=news_item&px=IMG-Hiring-For-Open-Driver,/u/breul99,0
-33,2015-07-13 10:18:11 -0500,"['/t/ask', '/t/book']",What are you reading this week?,/s/9g2bfp/what_are_you_reading_this_week,/u/rubenbarroso,20
-42,2015-07-13 06:52:38 -0500,['/t/ask'],What are you working on this week?,/s/fxtm5p/what_are_you_working_on_this_week,/u/davidjpeacock,27
-1,2015-07-13 10:51:42 -0500,"['/t/privacy', '/t/security']",Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation,http://www.tau.ac.il/~tromer/radioexp,/u/apg,7
-2,2015-07-13 01:08:34 -0500,"['/t/pdf', '/t/games', '/t/person']",Nintendo CEO Satoru Iwata has died,http://www.nintendo.co.jp/ir/pdf/2015/150713e.pdf,/u/zg,19
-0,2015-07-13 20:42:15 -0500,['/t/math'],Introducing Different Rounding Algorithms,http://www.clivemaxfield.com/diycalculator/sp-round.shtml,/u/pushcx,2
-3,2015-07-13 05:47:57 -0500,['/t/cogsci'],Caffe is a Deep Learning Framework,http://caffe.berkeleyvision.org/,/u/james,9
-0,2015-07-13 11:25:22 -0500,"['/t/math', '/t/visualization']",Find Waldo Faster,http://blog.wolfram.com/2015/02/27/find-waldo-faster/,/u/pushcx,5
-3,2015-07-13 09:07:14 -0500,"['/t/show', '/t/api', '/t/web']",The Story Behind metahunt.co,http://seb.st/the-story-behind-metahunt/,/u/sebst,2
-1,2015-07-13 12:47:01 -0500,['/t/javascript'],"Using Angular ""Controller As""",http://developer.telerik.com/featured/using-angular-controller-as/,/u/tjvantoll,1
-0,2015-07-13 05:56:27 -0500,['/t/cogsci'],Understanding Neural Networks Through Deep Visualization,http://yosinski.com/deepvis,/u/james,5
-1,2015-07-12 21:41:31 -0500,"['/t/practices', '/t/security']",Future development of Trinity,http://codemonkey.org.uk/2015/07/12/future-trinity/,/u/journeysquid,10
-0,2015-07-12 16:08:29 -0500,"['/t/assembly', '/t/hardware', '/t/person']","Sophie Wilson, Acorn and the development of ARM",http://www.linuxvoice.com/sophie-wilson-acorn-and-the-development-of-arm/,/u/calvin,19
-7,2015-07-13 08:19:20 -0500,"['/t/api', '/t/meta']",Is there any Lobsters API?,/s/rxql4k/is_there_any_lobsters_api,/u/av,5
-0,2015-07-13 04:15:23 -0500,"['/t/haskell', '/t/unix']",Haskell for Shell: transparently calling Haskell function from your shell,https://github.com/cpennington/h4sh,/u/Mayeu,4
-0,2015-07-13 07:21:10 -0500,"['/t/culture', '/t/web']",The $100 Million Content Farm That's Killing the Internet,http://motherboard.vice.com/read/the-100-million-content-farm-thats-killing-the-internet,/u/flyingfisch,5
-2,2015-07-13 03:07:04 -0500,['/t/hardware'],After Moore's Law: how phones are becoming open-source,http://www.wired.co.uk/magazine/archive/2015/08/features/moores-law,/u/asb,2
-1,2015-07-12 12:48:41 -0500,"['/t/programming', '/t/python']",PyFormat – Using % and .format() for great good,http://pyformat.info,/u/av,12
-0,2015-07-12 10:06:11 -0500,['/t/linux'],Choosing a Linux Tracer (2015),http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html,/u/ajdecon,15
-0,2015-07-12 14:35:08 -0500,"['/t/java', '/t/release']",Immutables 2.0,https://immutables.github.io/,/u/pushcx,9
-9,2015-07-11 21:46:37 -0500,"['/t/pdf', '/t/assembly']",How many months can it take to verify 30 assembly instructions?,http://research.microsoft.com/en-us/um/people/nick/mop.pdf,/u/rubenbarroso,22
-1,2015-07-12 14:25:49 -0500,"['/t/practices', '/t/scaling']",Running a host-local Docker Registry,http://0x74696d.com/posts/host-local-docker-registry/,/u/foophoof,3
+0,2015-07-14 12:11:03 -0500,"/t/culture,/t/programming",Hackership to offer 4-week code learning retreat in Costa Rica in Autumn,http://blog.hackership.org/2015/07/4-weeks-in-costa-rica.html,/u/gnunicorn,1
+8,2015-07-13 15:59:11 -0500,"/t/security,/t/web",Big Mess o' Wires » Web Site Hacked,http://www.bigmessowires.com/2015/07/13/web-site-hacked/,/u/benoliver999,4
+0,2015-07-13 13:50:45 -0500,"/t/video,/t/ml",Anil Madhavapeddy - Unikernels: Functional Infrastructure with Mirage OS,http://www.youtube.com/watch?v=bC7rTUEZfmI,/u/vfoley,10
+0,2015-07-14 11:14:03 -0500,"/t/graphics,/t/hardware,/t/linux","Imagination Is Hiring A PowerVR Linux, Open-Source Driver Developer",http://www.phoronix.com/scan.php?page=news_item&px=IMG-Hiring-For-Open-Driver,/u/breul99,0
+33,2015-07-13 10:18:11 -0500,"/t/ask,/t/book",What are you reading this week?,/s/9g2bfp/what_are_you_reading_this_week,/u/rubenbarroso,20
+42,2015-07-13 06:52:38 -0500,/t/ask,What are you working on this week?,/s/fxtm5p/what_are_you_working_on_this_week,/u/davidjpeacock,27
+1,2015-07-13 10:51:42 -0500,"/t/privacy,/t/security",Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation,http://www.tau.ac.il/~tromer/radioexp,/u/apg,7
+2,2015-07-13 01:08:34 -0500,"/t/pdf,/t/games,/t/person",Nintendo CEO Satoru Iwata has died,http://www.nintendo.co.jp/ir/pdf/2015/150713e.pdf,/u/zg,19
+0,2015-07-13 20:42:15 -0500,/t/math,Introducing Different Rounding Algorithms,http://www.clivemaxfield.com/diycalculator/sp-round.shtml,/u/pushcx,2
+3,2015-07-13 05:47:57 -0500,/t/cogsci,Caffe is a Deep Learning Framework,http://caffe.berkeleyvision.org/,/u/james,9
+0,2015-07-13 11:25:22 -0500,"/t/math,/t/visualization",Find Waldo Faster,http://blog.wolfram.com/2015/02/27/find-waldo-faster/,/u/pushcx,5
+3,2015-07-13 09:07:14 -0500,"/t/show,/t/api,/t/web",The Story Behind metahunt.co,http://seb.st/the-story-behind-metahunt/,/u/sebst,2
+1,2015-07-13 12:47:01 -0500,/t/javascript,"Using Angular ""Controller As""",http://developer.telerik.com/featured/using-angular-controller-as/,/u/tjvantoll,1
+0,2015-07-13 05:56:27 -0500,/t/cogsci,Understanding Neural Networks Through Deep Visualization,http://yosinski.com/deepvis,/u/james,5
+1,2015-07-12 21:41:31 -0500,"/t/practices,/t/security",Future development of Trinity,http://codemonkey.org.uk/2015/07/12/future-trinity/,/u/journeysquid,10
+0,2015-07-12 16:08:29 -0500,"/t/assembly,/t/hardware,/t/person","Sophie Wilson, Acorn and the development of ARM",http://www.linuxvoice.com/sophie-wilson-acorn-and-the-development-of-arm/,/u/calvin,19
+7,2015-07-13 08:19:20 -0500,"/t/api,/t/meta",Is there any Lobsters API?,/s/rxql4k/is_there_any_lobsters_api,/u/av,5
+0,2015-07-13 04:15:23 -0500,"/t/haskell,/t/unix",Haskell for Shell: transparently calling Haskell function from your shell,https://github.com/cpennington/h4sh,/u/Mayeu,4
+0,2015-07-13 07:21:10 -0500,"/t/culture,/t/web",The $100 Million Content Farm That's Killing the Internet,http://motherboard.vice.com/read/the-100-million-content-farm-thats-killing-the-internet,/u/flyingfisch,5
+2,2015-07-13 03:07:04 -0500,/t/hardware,After Moore's Law: how phones are becoming open-source,http://www.wired.co.uk/magazine/archive/2015/08/features/moores-law,/u/asb,2
+1,2015-07-12 12:48:41 -0500,"/t/programming,/t/python",PyFormat – Using % and .format() for great good,http://pyformat.info,/u/av,12
+0,2015-07-12 10:06:11 -0500,/t/linux,Choosing a Linux Tracer (2015),http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html,/u/ajdecon,15
+0,2015-07-12 14:35:08 -0500,"/t/java,/t/release",Immutables 2.0,https://immutables.github.io/,/u/pushcx,9
+9,2015-07-11 21:46:37 -0500,"/t/pdf,/t/assembly",How many months can it take to verify 30 assembly instructions?,http://research.microsoft.com/en-us/um/people/nick/mop.pdf,/u/rubenbarroso,22
+1,2015-07-12 14:25:49 -0500,"/t/practices,/t/scaling",Running a host-local Docker Registry,http://0x74696d.com/posts/host-local-docker-registry/,/u/foophoof,3

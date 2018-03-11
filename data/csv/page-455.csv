@@ -1,25 +1,25 @@
-5,2017-03-07 10:37:53 -0600,"['/t/dotnet', '/t/programming', '/t/release', '/t/windows']",Visual Studio 2017 released,https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/announcing-visual-studio-2017-general-availability-and-more/,/u/colin,6
-5,2017-03-07 06:55:54 -0600,"['/t/math', '/t/python']",How Reddit ranking algorithms work,https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9,/u/calvin,9
-0,2017-03-07 22:31:42 -0600,"['/t/api', '/t/javascript', '/t/nodejs', '/t/programming', '/t/web']",Solving reCAPTCHA with WebdriverIO and Clarifai,https://franciskim.co/solving-recaptcha-webdriverio-clarifai/,/u/franciskim,1
-7,2017-03-07 10:40:39 -0600,['/t/css'],Welcome to the Grid,http://meyerweb.com/eric/thoughts/2017/03/07/welcome-to-the-grid/,/u/flyingfisch,5
-34,2017-03-06 12:09:35 -0600,"['/t/hardware', '/t/law']",Blue Lies Matter,https://www.buzzfeed.com/albertsamaha/blue-lies-matter,/u/pushcx,47
-0,2017-03-08 02:08:21 -0600,['/t/go'],Self-referential functions and the design of options [2014],https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html,/u/av,1
-0,2017-03-08 02:01:13 -0600,['/t/vcs'],"Git Better! Learn Aliases, Settings, Tools, Background",https://www.sitepoint.com/git-better-learn-aliases-settings-tools-background/,/u/av,1
-0,2017-03-07 12:16:22 -0600,"['/t/compsci', '/t/programming', '/t/vcs']",Better Compression with Zstandard,http://gregoryszorc.com/blog/2017/03/07/better-compression-with-zstandard/,/u/ngoldbaum,7
-0,2017-03-07 13:12:09 -0600,"['/t/javascript', '/t/mobile', '/t/web']",Intro to Progressive Web Apps,https://bendyworks.com/blog/we-heart-pwas-part-2/,/u/abraham,3
-4,2017-03-07 03:24:18 -0600,"['/t/api', '/t/haskell']",Rest api in Haskell,http://maciek.io/rest-api-in-haskell/,/u/julienXX,11
-0,2017-03-07 16:05:46 -0600,"['/t/dotnet', '/t/release']",F# 4.1 and the Visual F# Tools for Visual Studio 2017,https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-f-4-1-and-the-visual-f-tools-for-visual-studio-2017-2/,/u/colin,4
-2,2017-03-07 11:39:33 -0600,['/t/ask'],Human Random String Generation (782 responses),https://docs.google.com/spreadsheets/d/1qcSgjyQnJqljg3FqCC_-3K4DEzG6GxTroD1YE7ka1qk/edit?usp=sharing,/u/indirection,4
-0,2017-03-07 13:42:38 -0600,['/t/css'],How We Built EQCSS & Why You Should Try Building Your Own Polyfills Too,https://www.sitepoint.com/how-we-built-eqcss-why-you-should-try-building-your-own-polyfills-too/,/u/innovati,2
-32,2017-03-06 13:03:24 -0600,['/t/security'],"Let's Encrypt has issued 988 certificates with ""paypal"" in the domain; all but 4 used for phishing",https://www.thesslstore.com/blog/lets-encrypt-paypal/,/u/kb,29
-2,2017-03-07 05:15:19 -0600,"['/t/pdf', '/t/crypto', '/t/networking']",0-RTT Key Exchange with Full Forward Secrecy,https://eprint.iacr.org/2017/223,/u/k749gtnc9l3w,9
-0,2017-03-07 21:27:57 -0600,"['/t/dotnet', '/t/security']",How to securely sign .NET assemblies,https://lowleveldesign.org/2017/03/07/how-to-securely-sign-dotnet-assemblies/,/u/calvin,1
-12,2017-03-06 13:30:44 -0600,"['/t/linux', '/t/scaling']",Micro-optimizations matter: preventing 20 million system calls,https://blog.packagecloud.io/eng/2017/03/06/micro-optimizations-matter/,/u/capotej,28
-0,2017-03-07 11:26:26 -0600,"['/t/video', '/t/css']",Element Queries From the Ground Up,https://www.youtube.com/watch?v=Rjr_Bf1iS4k,/u/innovati,2
-4,2017-03-07 08:05:36 -0600,"['/t/crypto', '/t/python', '/t/security']",ALAS-2017-801: Heap buffer overflow in pycrypto allowing remote shell access,https://alas.aws.amazon.com/ALAS-2017-801.html,/u/asthasr,3
-0,2017-03-07 19:46:13 -0600,"['/t/dotnet', '/t/release']",.NET Core Tools 1.0,https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-net-core-tools-1-0/,/u/colin,1
-0,2017-03-07 09:13:55 -0600,"['/t/crypto', '/t/security']",Create your own MD5 collisions,https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html,/u/zg,5
-0,2017-03-07 15:23:46 -0600,"['/t/browsers', '/t/vim']",Surfingkeys - keyboard-driven browsing in Chrome,https://github.com/brookhong/Surfingkeys,/u/cndreisbach,2
-7,2017-03-06 22:00:09 -0600,['/t/networking'],[DragonFlyBSD] Network performance comparison as of today.,http://lists.dragonflybsd.org/pipermail/users/2017-March/313254.html,/u/trousers,8
-0,2017-03-07 18:22:13 -0600,"['/t/audio', '/t/compsci']",Living with Robots,https://www.samharris.org/podcast/item/living-with-robots,/u/bsima,1
-5,2017-03-06 16:03:17 -0600,"['/t/ask', '/t/databases']",What are you using database users/roles for?,/s/3r7r1u/what_are_you_using_database_users_roles,/u/MasonJar,13
+5,2017-03-07 10:37:53 -0600,"/t/dotnet,/t/programming,/t/release,/t/windows",Visual Studio 2017 released,https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/announcing-visual-studio-2017-general-availability-and-more/,/u/colin,6
+5,2017-03-07 06:55:54 -0600,"/t/math,/t/python",How Reddit ranking algorithms work,https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9,/u/calvin,9
+0,2017-03-07 22:31:42 -0600,"/t/api,/t/javascript,/t/nodejs,/t/programming,/t/web",Solving reCAPTCHA with WebdriverIO and Clarifai,https://franciskim.co/solving-recaptcha-webdriverio-clarifai/,/u/franciskim,1
+7,2017-03-07 10:40:39 -0600,/t/css,Welcome to the Grid,http://meyerweb.com/eric/thoughts/2017/03/07/welcome-to-the-grid/,/u/flyingfisch,5
+34,2017-03-06 12:09:35 -0600,"/t/hardware,/t/law",Blue Lies Matter,https://www.buzzfeed.com/albertsamaha/blue-lies-matter,/u/pushcx,47
+0,2017-03-08 02:08:21 -0600,/t/go,Self-referential functions and the design of options [2014],https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html,/u/av,1
+0,2017-03-08 02:01:13 -0600,/t/vcs,"Git Better! Learn Aliases, Settings, Tools, Background",https://www.sitepoint.com/git-better-learn-aliases-settings-tools-background/,/u/av,1
+0,2017-03-07 12:16:22 -0600,"/t/compsci,/t/programming,/t/vcs",Better Compression with Zstandard,http://gregoryszorc.com/blog/2017/03/07/better-compression-with-zstandard/,/u/ngoldbaum,7
+0,2017-03-07 13:12:09 -0600,"/t/javascript,/t/mobile,/t/web",Intro to Progressive Web Apps,https://bendyworks.com/blog/we-heart-pwas-part-2/,/u/abraham,3
+4,2017-03-07 03:24:18 -0600,"/t/api,/t/haskell",Rest api in Haskell,http://maciek.io/rest-api-in-haskell/,/u/julienXX,11
+0,2017-03-07 16:05:46 -0600,"/t/dotnet,/t/release",F# 4.1 and the Visual F# Tools for Visual Studio 2017,https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-f-4-1-and-the-visual-f-tools-for-visual-studio-2017-2/,/u/colin,4
+2,2017-03-07 11:39:33 -0600,/t/ask,Human Random String Generation (782 responses),https://docs.google.com/spreadsheets/d/1qcSgjyQnJqljg3FqCC_-3K4DEzG6GxTroD1YE7ka1qk/edit?usp=sharing,/u/indirection,4
+0,2017-03-07 13:42:38 -0600,/t/css,How We Built EQCSS & Why You Should Try Building Your Own Polyfills Too,https://www.sitepoint.com/how-we-built-eqcss-why-you-should-try-building-your-own-polyfills-too/,/u/innovati,2
+32,2017-03-06 13:03:24 -0600,/t/security,"Let's Encrypt has issued 988 certificates with ""paypal"" in the domain; all but 4 used for phishing",https://www.thesslstore.com/blog/lets-encrypt-paypal/,/u/kb,29
+2,2017-03-07 05:15:19 -0600,"/t/pdf,/t/crypto,/t/networking",0-RTT Key Exchange with Full Forward Secrecy,https://eprint.iacr.org/2017/223,/u/k749gtnc9l3w,9
+0,2017-03-07 21:27:57 -0600,"/t/dotnet,/t/security",How to securely sign .NET assemblies,https://lowleveldesign.org/2017/03/07/how-to-securely-sign-dotnet-assemblies/,/u/calvin,1
+12,2017-03-06 13:30:44 -0600,"/t/linux,/t/scaling",Micro-optimizations matter: preventing 20 million system calls,https://blog.packagecloud.io/eng/2017/03/06/micro-optimizations-matter/,/u/capotej,28
+0,2017-03-07 11:26:26 -0600,"/t/video,/t/css",Element Queries From the Ground Up,https://www.youtube.com/watch?v=Rjr_Bf1iS4k,/u/innovati,2
+4,2017-03-07 08:05:36 -0600,"/t/crypto,/t/python,/t/security",ALAS-2017-801: Heap buffer overflow in pycrypto allowing remote shell access,https://alas.aws.amazon.com/ALAS-2017-801.html,/u/asthasr,3
+0,2017-03-07 19:46:13 -0600,"/t/dotnet,/t/release",.NET Core Tools 1.0,https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-net-core-tools-1-0/,/u/colin,1
+0,2017-03-07 09:13:55 -0600,"/t/crypto,/t/security",Create your own MD5 collisions,https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html,/u/zg,5
+0,2017-03-07 15:23:46 -0600,"/t/browsers,/t/vim",Surfingkeys - keyboard-driven browsing in Chrome,https://github.com/brookhong/Surfingkeys,/u/cndreisbach,2
+7,2017-03-06 22:00:09 -0600,/t/networking,[DragonFlyBSD] Network performance comparison as of today.,http://lists.dragonflybsd.org/pipermail/users/2017-March/313254.html,/u/trousers,8
+0,2017-03-07 18:22:13 -0600,"/t/audio,/t/compsci",Living with Robots,https://www.samharris.org/podcast/item/living-with-robots,/u/bsima,1
+5,2017-03-06 16:03:17 -0600,"/t/ask,/t/databases",What are you using database users/roles for?,/s/3r7r1u/what_are_you_using_database_users_roles,/u/MasonJar,13

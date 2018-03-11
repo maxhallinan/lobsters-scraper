@@ -1,25 +1,25 @@
-0,2015-02-12 00:34:18 -0600,"['/t/video', '/t/mobile']",VoIP for SIP Blocked Region,https://www.youtube.com/watch?v=zpMCS5i78QI,/u/niravseo,2
-0,2015-02-11 11:42:59 -0600,['/t/math'],Paper Sizes,http://www.royvanrijn.com/blog/2015/02/paper-sizes/,/u/pushcx,8
-8,2015-02-11 02:35:21 -0600,['/t/culture'],Beyond Open Source,http://sealedabstract.com/rants/beyond-open-source/,/u/evhan,21
-0,2015-02-11 11:48:58 -0600,"['/t/compsci', '/t/programming']",Analysis of a Brute-Force Shuffle,http://www.freefour.com/analysis-of-a-brute-force-shuffle/,/u/apg,3
-0,2015-02-11 11:47:18 -0600,['/t/web'],60fps on the mobile web,http://engineering.flipboard.com/2015/02/mobile-web/,/u/pushcx,3
-0,2015-02-11 06:11:38 -0600,"['/t/reversing', '/t/security', '/t/windows']",One-Bit To Rule Them All: Bypassing Windows’ 10 Protections using a Single Bit,http://breakingmalware.com/vulnerabilities/one-bit-rule-bypassing-windows-10-protections-using-single-bit/,/u/calvin,6
-7,2015-02-10 15:23:56 -0600,"['/t/philosophy', '/t/science']",No Big Bang? Quantum equation predicts universe has no beginning,http://phys.org/news/2015-02-big-quantum-equation-universe.html,/u/NickHu,12
-0,2015-02-11 00:18:21 -0600,['/t/openbsd'],openntpd TLS constraints rationale,http://marc.info/?l=openbsd-tech&m=142363400330522&w=2,/u/tedu,4
-9,2015-02-10 04:11:23 -0600,"['/t/networking', '/t/web']",84% of a single-threaded 1KB write in Redis is spent in the kernel,http://blog.nullspace.io/kernel-latency.html,/u/apc,21
-3,2015-02-10 11:30:40 -0600,['/t/linux'],Has modern Linux lost its way?,http://changelog.complete.org/archives/9299-has-modern-linux-lost-its-way-some-thoughts-on-jessie,/u/journeysquid,10
-1,2015-02-10 16:09:15 -0600,"['/t/video', '/t/compsci', '/t/programming']",Gerald Jay Sussman: The Role of Programming in the Formulation of Ideas,https://www.youtube.com/watch?v=arMH5GjBwUQ&feature=youtu.be,/u/SeanTAllen,8
-0,2015-02-10 21:29:31 -0600,"['/t/javascript', '/t/web']",react-canvas: High performance <canvas> rendering for React components,https://github.com/flipboard/react-canvas,/u/jcspencer,5
-0,2015-02-10 15:18:47 -0600,['/t/openbsd'],the stack overflow that wasn't,http://www.tedunangst.com/flak/post/the-stack-overflow-that-wasnt,/u/jpm1,9
-1,2015-02-10 11:31:05 -0600,['/t/security'],Today I Am Releasing Ten Million Passwords,https://xato.net/passwords/ten-million-passwords/,/u/journeysquid,11
-0,2015-02-11 05:26:59 -0600,"['/t/api', '/t/programming', '/t/release']",Haplo - open source platform for information applications,http://haplo.org,/u/bensummers,1
-1,2015-02-10 16:05:54 -0600,['/t/hardware'],Raspberry Pi & Xenon Death Flash: a free physics lesson,http://www.raspberrypi.org/xenon-death-flash-a-free-physics-lesson/,/u/jpm1,7
-0,2015-02-10 18:51:59 -0600,"['/t/security', '/t/unix']",Information leak in the XkbSetGeometry request of X servers,http://www.x.org/wiki/Development/Security/Advisory-2015-02-10/,/u/tedu,3
-2,2015-02-10 15:15:04 -0600,"['/t/devops', '/t/security']",Get SSH client connection notifications in Slack,http://ryanbrink.com/slack-ssh-session-notifications/,/u/ry_brink,3
-1,2015-02-10 10:14:16 -0600,['/t/security'],BTC Piñata - test system security for bitcoins,http://ownme.ipredator.se/,/u/kghose,5
-0,2015-02-10 20:34:11 -0600,['/t/release'],Paid apps I bought recently,http://blog.higg.im/2015/02/10/digital-swag-i-bought-in-2015/,/u/dh,2
-13,2015-02-09 08:42:11 -0600,"['/t/assembly', '/t/c', '/t/programming']",Was C For Hipsters?,http://timkellogg.me/blog/2015/02/08/history-of-C/,/u/kellogh,42
-0,2015-02-10 09:46:57 -0600,['/t/programming'],"Translating mathematics into code: Examples in Java, Python, Haskell and Racket",http://matt.might.net/articles/discrete-math-and-code/,/u/robin,4
-0,2015-02-10 11:35:44 -0600,['/t/compsci'],Regular Expression Search with Suffix Arrays,https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/,/u/antifuchs,3
-2,2015-02-10 17:41:17 -0600,"['/t/culture', '/t/security']",We Should All Step Back from Security Journalism,https://medium.com/message/we-should-all-step-back-from-security-journalism-e474cd67e2fa,/u/fcbsd,2
-0,2015-02-10 15:30:54 -0600,['/t/ruby'],A Fast Blogging Solution: Building a Simple Jekyll Blog,https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog,/u/PJ,1
+0,2015-02-12 00:34:18 -0600,"/t/video,/t/mobile",VoIP for SIP Blocked Region,https://www.youtube.com/watch?v=zpMCS5i78QI,/u/niravseo,2
+0,2015-02-11 11:42:59 -0600,/t/math,Paper Sizes,http://www.royvanrijn.com/blog/2015/02/paper-sizes/,/u/pushcx,8
+8,2015-02-11 02:35:21 -0600,/t/culture,Beyond Open Source,http://sealedabstract.com/rants/beyond-open-source/,/u/evhan,21
+0,2015-02-11 11:48:58 -0600,"/t/compsci,/t/programming",Analysis of a Brute-Force Shuffle,http://www.freefour.com/analysis-of-a-brute-force-shuffle/,/u/apg,3
+0,2015-02-11 11:47:18 -0600,/t/web,60fps on the mobile web,http://engineering.flipboard.com/2015/02/mobile-web/,/u/pushcx,3
+0,2015-02-11 06:11:38 -0600,"/t/reversing,/t/security,/t/windows",One-Bit To Rule Them All: Bypassing Windows’ 10 Protections using a Single Bit,http://breakingmalware.com/vulnerabilities/one-bit-rule-bypassing-windows-10-protections-using-single-bit/,/u/calvin,6
+7,2015-02-10 15:23:56 -0600,"/t/philosophy,/t/science",No Big Bang? Quantum equation predicts universe has no beginning,http://phys.org/news/2015-02-big-quantum-equation-universe.html,/u/NickHu,12
+0,2015-02-11 00:18:21 -0600,/t/openbsd,openntpd TLS constraints rationale,http://marc.info/?l=openbsd-tech&m=142363400330522&w=2,/u/tedu,4
+9,2015-02-10 04:11:23 -0600,"/t/networking,/t/web",84% of a single-threaded 1KB write in Redis is spent in the kernel,http://blog.nullspace.io/kernel-latency.html,/u/apc,21
+3,2015-02-10 11:30:40 -0600,/t/linux,Has modern Linux lost its way?,http://changelog.complete.org/archives/9299-has-modern-linux-lost-its-way-some-thoughts-on-jessie,/u/journeysquid,10
+1,2015-02-10 16:09:15 -0600,"/t/video,/t/compsci,/t/programming",Gerald Jay Sussman: The Role of Programming in the Formulation of Ideas,https://www.youtube.com/watch?v=arMH5GjBwUQ&feature=youtu.be,/u/SeanTAllen,8
+0,2015-02-10 21:29:31 -0600,"/t/javascript,/t/web",react-canvas: High performance <canvas> rendering for React components,https://github.com/flipboard/react-canvas,/u/jcspencer,5
+0,2015-02-10 15:18:47 -0600,/t/openbsd,the stack overflow that wasn't,http://www.tedunangst.com/flak/post/the-stack-overflow-that-wasnt,/u/jpm1,9
+1,2015-02-10 11:31:05 -0600,/t/security,Today I Am Releasing Ten Million Passwords,https://xato.net/passwords/ten-million-passwords/,/u/journeysquid,11
+0,2015-02-11 05:26:59 -0600,"/t/api,/t/programming,/t/release",Haplo - open source platform for information applications,http://haplo.org,/u/bensummers,1
+1,2015-02-10 16:05:54 -0600,/t/hardware,Raspberry Pi & Xenon Death Flash: a free physics lesson,http://www.raspberrypi.org/xenon-death-flash-a-free-physics-lesson/,/u/jpm1,7
+0,2015-02-10 18:51:59 -0600,"/t/security,/t/unix",Information leak in the XkbSetGeometry request of X servers,http://www.x.org/wiki/Development/Security/Advisory-2015-02-10/,/u/tedu,3
+2,2015-02-10 15:15:04 -0600,"/t/devops,/t/security",Get SSH client connection notifications in Slack,http://ryanbrink.com/slack-ssh-session-notifications/,/u/ry_brink,3
+1,2015-02-10 10:14:16 -0600,/t/security,BTC Piñata - test system security for bitcoins,http://ownme.ipredator.se/,/u/kghose,5
+0,2015-02-10 20:34:11 -0600,/t/release,Paid apps I bought recently,http://blog.higg.im/2015/02/10/digital-swag-i-bought-in-2015/,/u/dh,2
+13,2015-02-09 08:42:11 -0600,"/t/assembly,/t/c,/t/programming",Was C For Hipsters?,http://timkellogg.me/blog/2015/02/08/history-of-C/,/u/kellogh,42
+0,2015-02-10 09:46:57 -0600,/t/programming,"Translating mathematics into code: Examples in Java, Python, Haskell and Racket",http://matt.might.net/articles/discrete-math-and-code/,/u/robin,4
+0,2015-02-10 11:35:44 -0600,/t/compsci,Regular Expression Search with Suffix Arrays,https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/,/u/antifuchs,3
+2,2015-02-10 17:41:17 -0600,"/t/culture,/t/security",We Should All Step Back from Security Journalism,https://medium.com/message/we-should-all-step-back-from-security-journalism-e474cd67e2fa,/u/fcbsd,2
+0,2015-02-10 15:30:54 -0600,/t/ruby,A Fast Blogging Solution: Building a Simple Jekyll Blog,https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog,/u/PJ,1

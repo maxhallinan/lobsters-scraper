@@ -1,25 +1,25 @@
-0,2016-10-02 13:18:27 -0500,"['/t/video', '/t/hardware']",The Art of Making a Nixie Tube,https://www.youtube.com/watch?v=wxL4ElboiuA,/u/rbn,18
-3,2016-10-02 09:22:45 -0500,"['/t/video', '/t/compsci']",Exotic Functional Data Structures: Hitchhiker Trees,https://www.youtube.com/watch?v=jdn617M3-P4,/u/Dawny33,15
-0,2016-10-02 17:40:19 -0500,"['/t/debugging', '/t/unix']",Video Troubleshooting with Keyframes,http://curi.us/1907-video-troubleshooting-with-keyframes,/u/curi,4
-0,2016-10-02 12:21:25 -0500,"['/t/video', '/t/unix']",The Container Revolution: Reflections After the First Decade,https://www.youtube.com/watch?v=xXWaECk9XqM,/u/sevan,7
-0,2016-10-01 23:33:47 -0500,"['/t/databases', '/t/debugging']","Debugging PostgreSQL performance, the hard way",https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/,/u/unbalancedparentheses,18
-0,2016-10-01 22:24:09 -0500,"['/t/crypto', '/t/distributed', '/t/privacy']",Peercoin: Bitcoin without the Energy Bill,http://www.alexkyte.me/2016/10/peercoin-bitcoin-without-energy-bill.html,/u/akyte,8
-0,2016-10-02 13:33:53 -0500,"['/t/video', '/t/databases', '/t/scaling']",Yandex Mail Success Story,https://www.youtube.com/watch?v=-SS4R1sFH3c,/u/mulander,2
-6,2016-10-01 12:33:39 -0500,['/t/cogsci'],How to confuse a moral compass,http://www.nature.com/news/how-to-confuse-a-moral-compass-1.11447,/u/pushcx,18
-6,2016-10-01 13:54:51 -0500,['/t/security'],Apple's response to the WoSign incidents,https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/lWJ1zdUJPLI,/u/whbboyd,17
-0,2016-10-02 00:03:28 -0500,"['/t/pdf', '/t/compsci', '/t/haskell']",A reflection on types,http://research.microsoft.com/en-us/um/people/simonpj/papers/haskell-dynamic/dynamic.pdf,/u/hao,7
-0,2016-10-01 08:47:58 -0500,"['/t/emacs', '/t/lisp', '/t/programming']",Searching A Million Lines Of Lisp,http://www.wilfred.me.uk/blog/2016/09/30/searching-a-million-lines-of-lisp/,/u/Wilfred,19
-3,2016-10-01 12:30:33 -0500,"['/t/pdf', '/t/science']",When It Rains It Pours: The Long-run Economic Impacts of Salt Iodization in the United States,http://static1.1.sqspcdn.com/static/f/884336/27221040/1472677302137/MortonSalt_aug2016.pdf,/u/pushcx,14
-11,2016-10-01 12:01:12 -0500,['/t/scala'],Subtype type classes don't work,http://typelevel.org/blog/2016/09/30/subtype-typeclasses.html,/u/pushcx,11
-0,2016-10-01 19:34:44 -0500,['/t/javascript'],Tsickle - TypeScript to Closure Annotator,https://github.com/angular/tsickle,/u/joshuacc,5
-0,2016-10-01 11:43:01 -0500,['/t/security'],"""Why do you work in security instead of something more lasting?""",http://addxorrol.blogspot.com/2016/10/why-do-you-work-in-security-instead-of.html,/u/pushcx,11
-13,2016-09-30 09:47:32 -0500,"['/t/programming', '/t/vcs']","Purposes, Concepts, Misfits, and a Redesign of Git",http://neverworkintheory.org/2016/09/30/rethinking-git.html,/u/quobit,39
-7,2016-10-01 11:26:16 -0500,"['/t/graphics', '/t/web']",Loading images progressively using Gaussian blur,http://www.pixelstech.net/article/1474790035-Loading-images-progressively-using-Gaussian-blur,/u/calvin,2
-0,2016-09-30 22:20:01 -0500,"['/t/programming', '/t/release']",Version 0.15.0 released - Nim Programming Language,http://nim-lang.org/news/2016_09_30_version_0_15_0_released.html,/u/drs,11
-83,2016-09-30 00:54:45 -0500,['/t/ask'],What desktop environment and window manager do you use?,/s/wvpf0k/what_desktop_environment_window_manager,/u/zg,31
-0,2016-09-30 16:43:47 -0500,['/t/programming'],Squeak is like an operating system,https://tekkie.wordpress.com/2007/07/19/squeak-is-like-an-operating-system/,/u/Bystroushaak,20
-0,2016-10-01 01:01:07 -0500,"['/t/crypto', '/t/privacy']",Protocol for bypassing challenge pages using RSA blind signed tokens,https://github.com/cloudflare/challenge-bypass-specification/blob/master/ietf-internet-draft/captcha-bypass-internet-draft.txt,/u/jabberwock,6
-2,2016-09-30 13:45:42 -0500,"['/t/mac', '/t/release', '/t/security']",Little Flocker,https://www.littleflocker.com/,/u/jcs,20
-1,2016-09-30 08:46:02 -0500,['/t/graphics'],WaveFunctionCollapse,https://github.com/mxgmn/WaveFunctionCollapse,/u/355E3B,35
-0,2016-09-30 18:35:38 -0500,"['/t/javascript', '/t/mobile', '/t/release', '/t/web']",Vue 2.0 is Here! – The Vue Point,https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8,/u/kellytk,12
-1,2016-09-30 15:57:10 -0500,"['/t/assembly', '/t/debugging', '/t/nodejs']",The Mysterious Fiber Bomb Problem: A Debugging Story,https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story,/u/khaaan,11
+0,2016-10-02 13:18:27 -0500,"/t/video,/t/hardware",The Art of Making a Nixie Tube,https://www.youtube.com/watch?v=wxL4ElboiuA,/u/rbn,18
+3,2016-10-02 09:22:45 -0500,"/t/video,/t/compsci",Exotic Functional Data Structures: Hitchhiker Trees,https://www.youtube.com/watch?v=jdn617M3-P4,/u/Dawny33,15
+0,2016-10-02 17:40:19 -0500,"/t/debugging,/t/unix",Video Troubleshooting with Keyframes,http://curi.us/1907-video-troubleshooting-with-keyframes,/u/curi,4
+0,2016-10-02 12:21:25 -0500,"/t/video,/t/unix",The Container Revolution: Reflections After the First Decade,https://www.youtube.com/watch?v=xXWaECk9XqM,/u/sevan,7
+0,2016-10-01 23:33:47 -0500,"/t/databases,/t/debugging","Debugging PostgreSQL performance, the hard way",https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/,/u/unbalancedparentheses,18
+0,2016-10-01 22:24:09 -0500,"/t/crypto,/t/distributed,/t/privacy",Peercoin: Bitcoin without the Energy Bill,http://www.alexkyte.me/2016/10/peercoin-bitcoin-without-energy-bill.html,/u/akyte,8
+0,2016-10-02 13:33:53 -0500,"/t/video,/t/databases,/t/scaling",Yandex Mail Success Story,https://www.youtube.com/watch?v=-SS4R1sFH3c,/u/mulander,2
+6,2016-10-01 12:33:39 -0500,/t/cogsci,How to confuse a moral compass,http://www.nature.com/news/how-to-confuse-a-moral-compass-1.11447,/u/pushcx,18
+6,2016-10-01 13:54:51 -0500,/t/security,Apple's response to the WoSign incidents,https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/lWJ1zdUJPLI,/u/whbboyd,17
+0,2016-10-02 00:03:28 -0500,"/t/pdf,/t/compsci,/t/haskell",A reflection on types,http://research.microsoft.com/en-us/um/people/simonpj/papers/haskell-dynamic/dynamic.pdf,/u/hao,7
+0,2016-10-01 08:47:58 -0500,"/t/emacs,/t/lisp,/t/programming",Searching A Million Lines Of Lisp,http://www.wilfred.me.uk/blog/2016/09/30/searching-a-million-lines-of-lisp/,/u/Wilfred,19
+3,2016-10-01 12:30:33 -0500,"/t/pdf,/t/science",When It Rains It Pours: The Long-run Economic Impacts of Salt Iodization in the United States,http://static1.1.sqspcdn.com/static/f/884336/27221040/1472677302137/MortonSalt_aug2016.pdf,/u/pushcx,14
+11,2016-10-01 12:01:12 -0500,/t/scala,Subtype type classes don't work,http://typelevel.org/blog/2016/09/30/subtype-typeclasses.html,/u/pushcx,11
+0,2016-10-01 19:34:44 -0500,/t/javascript,Tsickle - TypeScript to Closure Annotator,https://github.com/angular/tsickle,/u/joshuacc,5
+0,2016-10-01 11:43:01 -0500,/t/security,"""Why do you work in security instead of something more lasting?""",http://addxorrol.blogspot.com/2016/10/why-do-you-work-in-security-instead-of.html,/u/pushcx,11
+13,2016-09-30 09:47:32 -0500,"/t/programming,/t/vcs","Purposes, Concepts, Misfits, and a Redesign of Git",http://neverworkintheory.org/2016/09/30/rethinking-git.html,/u/quobit,39
+7,2016-10-01 11:26:16 -0500,"/t/graphics,/t/web",Loading images progressively using Gaussian blur,http://www.pixelstech.net/article/1474790035-Loading-images-progressively-using-Gaussian-blur,/u/calvin,2
+0,2016-09-30 22:20:01 -0500,"/t/programming,/t/release",Version 0.15.0 released - Nim Programming Language,http://nim-lang.org/news/2016_09_30_version_0_15_0_released.html,/u/drs,11
+83,2016-09-30 00:54:45 -0500,/t/ask,What desktop environment and window manager do you use?,/s/wvpf0k/what_desktop_environment_window_manager,/u/zg,31
+0,2016-09-30 16:43:47 -0500,/t/programming,Squeak is like an operating system,https://tekkie.wordpress.com/2007/07/19/squeak-is-like-an-operating-system/,/u/Bystroushaak,20
+0,2016-10-01 01:01:07 -0500,"/t/crypto,/t/privacy",Protocol for bypassing challenge pages using RSA blind signed tokens,https://github.com/cloudflare/challenge-bypass-specification/blob/master/ietf-internet-draft/captcha-bypass-internet-draft.txt,/u/jabberwock,6
+2,2016-09-30 13:45:42 -0500,"/t/mac,/t/release,/t/security",Little Flocker,https://www.littleflocker.com/,/u/jcs,20
+1,2016-09-30 08:46:02 -0500,/t/graphics,WaveFunctionCollapse,https://github.com/mxgmn/WaveFunctionCollapse,/u/355E3B,35
+0,2016-09-30 18:35:38 -0500,"/t/javascript,/t/mobile,/t/release,/t/web",Vue 2.0 is Here! – The Vue Point,https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8,/u/kellytk,12
+1,2016-09-30 15:57:10 -0500,"/t/assembly,/t/debugging,/t/nodejs",The Mysterious Fiber Bomb Problem: A Debugging Story,https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story,/u/khaaan,11

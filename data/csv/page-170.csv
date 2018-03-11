@@ -1,25 +1,25 @@
-2,2017-10-12 09:18:31 -0500,['/t/programming'],You Should Learn Regex,https://blog.patricktriest.com/you-should-learn-regex/,/u/pushcx,14
-3,2017-10-12 07:29:10 -0500,"['/t/android', '/t/browsers']",Microsoft Using Chromium On Android Is Bad For The Web,http://robert.ocallahan.org/2017/10/microsoft-using-chromium-on-android-is.html,/u/calvin,10
-1,2017-10-12 09:56:40 -0500,['/t/distributed'],"Reliable Distributed Algorithms, Part 1 and Part 2 [edX]",https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0,/u/cmeiklejohn,6
-0,2017-10-12 10:54:37 -0500,"['/t/art', '/t/c', '/t/programming']",Colourful visualization of some sorting algorithms,https://github.com/skeeto/sort-circle,/u/hobbes,12
-0,2017-10-12 21:58:20 -0500,"['/t/video', '/t/debugging', '/t/linux', '/t/practices', '/t/unix']",Kernel Recipes 2017 - Performance Analysis with BPF - Brendan Gregg,https://www.youtube.com/watch?v=nhxq6jLGc_w,/u/sevan,3
-5,2017-10-11 21:01:44 -0500,"['/t/mac', '/t/security']","Privilege escalation with kill(-1, SIGKILL) in XNU kernel of macOS High Sierra",https://groups.google.com/d/msg/nix-devel/KV9eomIdxWE/W8WMYrSlAQAJ,/u/puffnfresh,26
-0,2017-10-12 17:09:14 -0500,['/t/compsci'],Big Integer Subtraction on the Power Architecture,http://exm.us/big-integer-subtraction.html,/u/molloy,5
-0,2017-10-12 16:59:56 -0500,['/t/ai'],OpenAI: Competitive Self-Play,https://blog.openai.com/competitive-self-play/,/u/tf,5
-0,2017-10-12 16:55:26 -0500,['/t/ruby'],"Configuring Puma, Unicorn and Passenger for Maximum Efficiency",https://www.speedshop.co/2017/10/12/appserver.html,/u/schneems,5
-1,2017-10-12 04:12:53 -0500,"['/t/c++', '/t/compsci', '/t/haskell', '/t/math']",Bartosz Milewski's 'Category Theory for Programmers' compiled in PDF,https://github.com/hmemcpy/milewski-ctfp-pdf,/u/epilys,19
-1,2017-10-12 10:37:24 -0500,"['/t/dotnet', '/t/programming']",MSBuild Maintenance Made Easy With Shared Properties,http://jackhiston.com/2017/10/12/msbuild-maintenance-made-easy-with-shared-properties/,/u/Cyph3r90,3
-0,2017-10-12 07:03:58 -0500,['/t/python'],"Go Python, Go! Stream Processing for Python",https://blog.wallaroolabs.com/2017/10/go-python-go-stream-processing-for-python/,/u/SeanTAllen,14
-20,2017-10-11 16:49:07 -0500,['/t/meta'],Can we revisit the decision to hide comment votes?,/s/tluscy/can_we_revisit_decision_hide_comment,/u/mort,30
-0,2017-10-12 09:42:52 -0500,"['/t/ai', '/t/graphics']",Universal adversarial perturbations,https://blog.acolyer.org/2017/09/12/universal-adversarial-perturbations/,/u/pushcx,8
-1,2017-10-12 06:42:57 -0500,"['/t/netbsd', '/t/security', '/t/unix']",Kernel ASLR on amd64,http://blog.netbsd.org/tnf/entry/kernel_aslr_on_amd64,/u/sevan,8
-1,2017-10-12 13:18:00 -0500,"['/t/programming', '/t/web']",Why Are Webhooks Better Than Serverless Extensibility?,https://developer.okta.com/blog/2017/10/11/why-are-webhooks-better-than-serverless-extensibility,/u/rdegges,1
-0,2017-10-12 08:18:25 -0500,['/t/practices'],How to Do Code Reviews Like a Human (Part One),https://mtlynch.io/human-code-reviews-1/,/u/calvin,6
-13,2017-10-11 11:25:33 -0500,['/t/perl'],Perl turns 30 and its community continues to thrive,https://opensource.com/article/17/10/perl-turns-30,/u/domm,33
-9,2017-10-11 16:45:54 -0500,['/t/cryptocurrencies'],Satoshi was wrong,https://medium.com/@homakov/satoshi-was-wrong-cd06d2877128,/u/fcbsd,16
-0,2017-10-12 15:16:03 -0500,"['/t/dotnet', '/t/visualization']",Analysing C# code on GitHub with BigQuery,http://www.mattwarren.org/2017/10/12/Analysing-C-code-on-GitHub-with-BigQuery/,/u/calvin,2
-0,2017-10-12 12:29:21 -0500,"['/t/compilers', '/t/javascript', '/t/performance']",8 JavaScript optimizations Closure Compiler can do conventional minifiers just can’t,https://medium.com/@thomasdeegan/10-optimizations-closure-compiler-can-do-and-uglify-friends-cant-6dca4232299f,/u/friendlysock,3
-28,2017-10-11 03:15:30 -0500,"['/t/practices', '/t/security']",The Slack Threat,https://carlchenet.com/the-slack-threat/,/u/chaica,35
-0,2017-10-12 11:46:00 -0500,['/t/devops'],"What are ""pause"" containers in K8S?",https://www.ianlewis.org/en/almighty-pause-container,/u/rdl,3
-7,2017-10-11 14:07:12 -0500,['/t/haskell'],Functor Oriented Programming,http://r6.ca/blog/20171010T001746Z.html,/u/yumaikas,19
-0,2017-10-12 13:12:33 -0500,['/t/visualization'],Data Viz Project,http://datavizproject.com/,/u/gkop,2
+2,2017-10-12 09:18:31 -0500,/t/programming,You Should Learn Regex,https://blog.patricktriest.com/you-should-learn-regex/,/u/pushcx,14
+3,2017-10-12 07:29:10 -0500,"/t/android,/t/browsers",Microsoft Using Chromium On Android Is Bad For The Web,http://robert.ocallahan.org/2017/10/microsoft-using-chromium-on-android-is.html,/u/calvin,10
+1,2017-10-12 09:56:40 -0500,/t/distributed,"Reliable Distributed Algorithms, Part 1 and Part 2 [edX]",https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0,/u/cmeiklejohn,6
+0,2017-10-12 10:54:37 -0500,"/t/art,/t/c,/t/programming",Colourful visualization of some sorting algorithms,https://github.com/skeeto/sort-circle,/u/hobbes,12
+0,2017-10-12 21:58:20 -0500,"/t/video,/t/debugging,/t/linux,/t/practices,/t/unix",Kernel Recipes 2017 - Performance Analysis with BPF - Brendan Gregg,https://www.youtube.com/watch?v=nhxq6jLGc_w,/u/sevan,3
+5,2017-10-11 21:01:44 -0500,"/t/mac,/t/security","Privilege escalation with kill(-1, SIGKILL) in XNU kernel of macOS High Sierra",https://groups.google.com/d/msg/nix-devel/KV9eomIdxWE/W8WMYrSlAQAJ,/u/puffnfresh,26
+0,2017-10-12 17:09:14 -0500,/t/compsci,Big Integer Subtraction on the Power Architecture,http://exm.us/big-integer-subtraction.html,/u/molloy,5
+0,2017-10-12 16:59:56 -0500,/t/ai,OpenAI: Competitive Self-Play,https://blog.openai.com/competitive-self-play/,/u/tf,5
+0,2017-10-12 16:55:26 -0500,/t/ruby,"Configuring Puma, Unicorn and Passenger for Maximum Efficiency",https://www.speedshop.co/2017/10/12/appserver.html,/u/schneems,5
+1,2017-10-12 04:12:53 -0500,"/t/c++,/t/compsci,/t/haskell,/t/math",Bartosz Milewski's 'Category Theory for Programmers' compiled in PDF,https://github.com/hmemcpy/milewski-ctfp-pdf,/u/epilys,19
+1,2017-10-12 10:37:24 -0500,"/t/dotnet,/t/programming",MSBuild Maintenance Made Easy With Shared Properties,http://jackhiston.com/2017/10/12/msbuild-maintenance-made-easy-with-shared-properties/,/u/Cyph3r90,3
+0,2017-10-12 07:03:58 -0500,/t/python,"Go Python, Go! Stream Processing for Python",https://blog.wallaroolabs.com/2017/10/go-python-go-stream-processing-for-python/,/u/SeanTAllen,14
+20,2017-10-11 16:49:07 -0500,/t/meta,Can we revisit the decision to hide comment votes?,/s/tluscy/can_we_revisit_decision_hide_comment,/u/mort,30
+0,2017-10-12 09:42:52 -0500,"/t/ai,/t/graphics",Universal adversarial perturbations,https://blog.acolyer.org/2017/09/12/universal-adversarial-perturbations/,/u/pushcx,8
+1,2017-10-12 06:42:57 -0500,"/t/netbsd,/t/security,/t/unix",Kernel ASLR on amd64,http://blog.netbsd.org/tnf/entry/kernel_aslr_on_amd64,/u/sevan,8
+1,2017-10-12 13:18:00 -0500,"/t/programming,/t/web",Why Are Webhooks Better Than Serverless Extensibility?,https://developer.okta.com/blog/2017/10/11/why-are-webhooks-better-than-serverless-extensibility,/u/rdegges,1
+0,2017-10-12 08:18:25 -0500,/t/practices,How to Do Code Reviews Like a Human (Part One),https://mtlynch.io/human-code-reviews-1/,/u/calvin,6
+13,2017-10-11 11:25:33 -0500,/t/perl,Perl turns 30 and its community continues to thrive,https://opensource.com/article/17/10/perl-turns-30,/u/domm,33
+9,2017-10-11 16:45:54 -0500,/t/cryptocurrencies,Satoshi was wrong,https://medium.com/@homakov/satoshi-was-wrong-cd06d2877128,/u/fcbsd,16
+0,2017-10-12 15:16:03 -0500,"/t/dotnet,/t/visualization",Analysing C# code on GitHub with BigQuery,http://www.mattwarren.org/2017/10/12/Analysing-C-code-on-GitHub-with-BigQuery/,/u/calvin,2
+0,2017-10-12 12:29:21 -0500,"/t/compilers,/t/javascript,/t/performance",8 JavaScript optimizations Closure Compiler can do conventional minifiers just can’t,https://medium.com/@thomasdeegan/10-optimizations-closure-compiler-can-do-and-uglify-friends-cant-6dca4232299f,/u/friendlysock,3
+28,2017-10-11 03:15:30 -0500,"/t/practices,/t/security",The Slack Threat,https://carlchenet.com/the-slack-threat/,/u/chaica,35
+0,2017-10-12 11:46:00 -0500,/t/devops,"What are ""pause"" containers in K8S?",https://www.ianlewis.org/en/almighty-pause-container,/u/rdl,3
+7,2017-10-11 14:07:12 -0500,/t/haskell,Functor Oriented Programming,http://r6.ca/blog/20171010T001746Z.html,/u/yumaikas,19
+0,2017-10-12 13:12:33 -0500,/t/visualization,Data Viz Project,http://datavizproject.com/,/u/gkop,2

@@ -1,25 +1,25 @@
-1,2017-12-06 15:04:52 -0600,['/t/vcs'],Introducing Bitbucket Deployments: Confidence to release early and often,https://blog.bitbucket.org/2017/12/05/introducing-bitbucket-deployments/,/u/crooksey,2
-1,2017-12-06 05:14:51 -0600,"['/t/video', '/t/javascript']",Understand JavaScript's this Keyword in Depth,https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth,/u/mariusschulz,3
-0,2017-12-06 10:16:50 -0600,"['/t/pdf', '/t/networking', '/t/programming']",Ziria - A Wireless DSL for Systems Programming,http://oucsace.cs.ohiou.edu/~gstewart/papers/ziria/ziria.pdf,/u/nickpsecurity,4
-0,2017-12-06 10:14:08 -0600,"['/t/pdf', '/t/compsci', '/t/databases', '/t/haskell', '/t/programming']",Type-Safe Redis Queries: Case Study of Type-Level Programming in Haskell (2017),https://arxiv.org/pdf/1708.09158.pdf,/u/nickpsecurity,4
-11,2017-12-05 16:50:38 -0600,"['/t/hardware', '/t/windows']",Microsoft Launches Windows 10 On ARM: Always Connected PCs,https://www.anandtech.com/show/12119/microsoft-launches-windows-10-on-arm-always-connected-pcs,/u/calvin,13
-4,2017-12-05 14:31:01 -0600,"['/t/javascript', '/t/programming']",How to Cancel Promises in JavaScript,http://bloomca-me.github.io/2017/12/04/how-to-cancel-your-promise.html,/u/bloomca,10
-0,2017-12-06 08:10:18 -0600,"['/t/browsers', '/t/security', '/t/web']",First part of phishing with EV,https://0.me.uk/ev-phishing/,/u/pgl,4
-4,2017-12-05 10:15:16 -0600,"['/t/dotnet', '/t/programming']",Dependent Types for F#,https://jackfoxy.github.io/DependentTypes/,/u/foxyjackfox,17
-0,2017-12-06 08:49:11 -0600,['/t/devops'],Conference Report: LISA 2017,http://noidea.dog/lisa17,/u/adsouza,3
-0,2017-12-06 14:45:52 -0600,"['/t/clojure', '/t/web']",Referentially transparent CRUD,http://cjohansen.no/referentially-transparent-crud/,/u/Yogthos,1
-0,2017-12-06 00:57:07 -0600,['/t/haskell'],CIS194 : Introduction to Haskell,http://www.seas.upenn.edu/~cis194/fall16/,/u/Dawny33,7
-0,2017-12-06 08:50:22 -0600,"['/t/ai', '/t/design']",Using Artificial Intelligence to Augment Human Intelligence,https://distill.pub/2017/aia,/u/whjms,2
-0,2017-12-05 22:10:16 -0600,['/t/programming'],Crystal Survey 2017 Results,https://crystal-lang.org/2017/11/03/2017-crystal-survey-2017-results.html,/u/av,7
-8,2017-12-05 12:33:21 -0600,"['/t/c', '/t/programming']","Introduction to Hierarchical, State Machines",https://barrgroup.com/Embedded-Systems/How-To/Introduction-Hierarchical-State-Machines,/u/nickpsecurity,10
-0,2017-12-06 06:43:59 -0600,"['/t/pdf', '/t/ai']",AI Index report for 2017,http://www.aiindex.org/2017-report.pdf,/u/adsouza,2
-2,2017-12-06 06:22:27 -0600,"['/t/javascript', '/t/ml']",JavaScript à la ML,https://medium.com/@luijar/javascript-à-la-ml-faa2911b65f,/u/calvin,1
-0,2017-12-06 09:10:24 -0600,['/t/cryptocurrencies'],"My $200,000 bitcoin odyssey",https://www.engadget.com/2017/12/05/how-not-to-store-your-bitcoins/,/u/av,1
-0,2017-12-06 04:15:54 -0600,"['/t/browsers', '/t/security', '/t/web']",Are EV certificates worth the paper they're written on?,http://scotthelme.co.uk/are-ev-certificates-worth-the-paper-theyre-written-on/,/u/pgl,2
-10,2017-12-05 10:25:04 -0600,"['/t/javascript', '/t/web']","Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥",https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403,/u/gsg,9
-7,2017-12-05 03:01:25 -0600,"['/t/linux', '/t/security']",How To Tell If Your Linux Server Has Been Compromised,https://bash-prompt.net/guides/server-hacked/,/u/dedrix,19
-11,2017-12-05 10:22:34 -0600,['/t/clojure'],an interesting idea for creating interactive documentation in Clojure,https://gist.github.com/oakes/8db57ac808bf6ec144d627fd83a89da3,/u/Yogthos,10
-6,2017-12-05 07:55:28 -0600,['/t/culture'],I Don't Like Your Examples! (2000),http://archive.oreilly.com/pub/a/oreilly//news/feuerstein_1000.html,/u/hwayne,28
-1,2017-12-05 02:51:42 -0600,['/t/openbsd'],"s2k17 Hackathon Report: Stefan Sperling (stsp@) on wireless (iwm(4), athn(4) and more) progress",https://undeadly.org/cgi?action=article;sid=20171205045703,/u/mulander,23
-92,2017-12-04 11:43:44 -0600,"['/t/ask', '/t/book']",What are you reading this week ?,/s/fkwdhz/what_are_you_reading_this_week,/u/kai3x5,34
-0,2017-12-05 22:45:10 -0600,"['/t/crypto', '/t/python']",Misocoin – A barebones Bitcoin-like protocol implemented in Python 3.6,https://github.com/kendricktan/misocoin,/u/av,2
+1,2017-12-06 15:04:52 -0600,/t/vcs,Introducing Bitbucket Deployments: Confidence to release early and often,https://blog.bitbucket.org/2017/12/05/introducing-bitbucket-deployments/,/u/crooksey,2
+1,2017-12-06 05:14:51 -0600,"/t/video,/t/javascript",Understand JavaScript's this Keyword in Depth,https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth,/u/mariusschulz,3
+0,2017-12-06 10:16:50 -0600,"/t/pdf,/t/networking,/t/programming",Ziria - A Wireless DSL for Systems Programming,http://oucsace.cs.ohiou.edu/~gstewart/papers/ziria/ziria.pdf,/u/nickpsecurity,4
+0,2017-12-06 10:14:08 -0600,"/t/pdf,/t/compsci,/t/databases,/t/haskell,/t/programming",Type-Safe Redis Queries: Case Study of Type-Level Programming in Haskell (2017),https://arxiv.org/pdf/1708.09158.pdf,/u/nickpsecurity,4
+11,2017-12-05 16:50:38 -0600,"/t/hardware,/t/windows",Microsoft Launches Windows 10 On ARM: Always Connected PCs,https://www.anandtech.com/show/12119/microsoft-launches-windows-10-on-arm-always-connected-pcs,/u/calvin,13
+4,2017-12-05 14:31:01 -0600,"/t/javascript,/t/programming",How to Cancel Promises in JavaScript,http://bloomca-me.github.io/2017/12/04/how-to-cancel-your-promise.html,/u/bloomca,10
+0,2017-12-06 08:10:18 -0600,"/t/browsers,/t/security,/t/web",First part of phishing with EV,https://0.me.uk/ev-phishing/,/u/pgl,4
+4,2017-12-05 10:15:16 -0600,"/t/dotnet,/t/programming",Dependent Types for F#,https://jackfoxy.github.io/DependentTypes/,/u/foxyjackfox,17
+0,2017-12-06 08:49:11 -0600,/t/devops,Conference Report: LISA 2017,http://noidea.dog/lisa17,/u/adsouza,3
+0,2017-12-06 14:45:52 -0600,"/t/clojure,/t/web",Referentially transparent CRUD,http://cjohansen.no/referentially-transparent-crud/,/u/Yogthos,1
+0,2017-12-06 00:57:07 -0600,/t/haskell,CIS194 : Introduction to Haskell,http://www.seas.upenn.edu/~cis194/fall16/,/u/Dawny33,7
+0,2017-12-06 08:50:22 -0600,"/t/ai,/t/design",Using Artificial Intelligence to Augment Human Intelligence,https://distill.pub/2017/aia,/u/whjms,2
+0,2017-12-05 22:10:16 -0600,/t/programming,Crystal Survey 2017 Results,https://crystal-lang.org/2017/11/03/2017-crystal-survey-2017-results.html,/u/av,7
+8,2017-12-05 12:33:21 -0600,"/t/c,/t/programming","Introduction to Hierarchical, State Machines",https://barrgroup.com/Embedded-Systems/How-To/Introduction-Hierarchical-State-Machines,/u/nickpsecurity,10
+0,2017-12-06 06:43:59 -0600,"/t/pdf,/t/ai",AI Index report for 2017,http://www.aiindex.org/2017-report.pdf,/u/adsouza,2
+2,2017-12-06 06:22:27 -0600,"/t/javascript,/t/ml",JavaScript à la ML,https://medium.com/@luijar/javascript-à-la-ml-faa2911b65f,/u/calvin,1
+0,2017-12-06 09:10:24 -0600,/t/cryptocurrencies,"My $200,000 bitcoin odyssey",https://www.engadget.com/2017/12/05/how-not-to-store-your-bitcoins/,/u/av,1
+0,2017-12-06 04:15:54 -0600,"/t/browsers,/t/security,/t/web",Are EV certificates worth the paper they're written on?,http://scotthelme.co.uk/are-ev-certificates-worth-the-paper-theyre-written-on/,/u/pgl,2
+10,2017-12-05 10:25:04 -0600,"/t/javascript,/t/web","Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥",https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403,/u/gsg,9
+7,2017-12-05 03:01:25 -0600,"/t/linux,/t/security",How To Tell If Your Linux Server Has Been Compromised,https://bash-prompt.net/guides/server-hacked/,/u/dedrix,19
+11,2017-12-05 10:22:34 -0600,/t/clojure,an interesting idea for creating interactive documentation in Clojure,https://gist.github.com/oakes/8db57ac808bf6ec144d627fd83a89da3,/u/Yogthos,10
+6,2017-12-05 07:55:28 -0600,/t/culture,I Don't Like Your Examples! (2000),http://archive.oreilly.com/pub/a/oreilly//news/feuerstein_1000.html,/u/hwayne,28
+1,2017-12-05 02:51:42 -0600,/t/openbsd,"s2k17 Hackathon Report: Stefan Sperling (stsp@) on wireless (iwm(4), athn(4) and more) progress",https://undeadly.org/cgi?action=article;sid=20171205045703,/u/mulander,23
+92,2017-12-04 11:43:44 -0600,"/t/ask,/t/book",What are you reading this week ?,/s/fkwdhz/what_are_you_reading_this_week,/u/kai3x5,34
+0,2017-12-05 22:45:10 -0600,"/t/crypto,/t/python",Misocoin – A barebones Bitcoin-like protocol implemented in Python 3.6,https://github.com/kendricktan/misocoin,/u/av,2

@@ -1,25 +1,25 @@
-0,2017-10-05 12:34:44 -0500,['/t/practices'],The Hiring Post (2015),https://sockpuppet.org/blog/2015/03/06/the-hiring-post/,/u/hwayne,8
-15,2017-10-04 10:44:44 -0500,"['/t/lisp', '/t/programming']",Moving Forward by Letting Go,http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html,/u/Yogthos,32
-0,2017-10-06 02:24:43 -0500,"['/t/java', '/t/rant']",Do-It-Yourself ORM as an Alternative to Hibernate,https://blog.philipphauer.de/do-it-yourself-orm-alternative-hibernate-drawbacks/,/u/klingtnet,2
-1,2017-10-05 11:28:55 -0500,"['/t/pdf', '/t/assembly', '/t/compsci', '/t/formalmethods']","Vale: Verifying High-Performance, Cryptographic, Assembly Code (2017)",https://project-everest.github.io/assets/vale2017.pdf,/u/nickpsecurity,6
-1,2017-10-05 11:10:44 -0500,"['/t/databases', '/t/formalmethods']",HoTTSQL: Proving query rewrites with univalent SQL semantics,https://blog.acolyer.org/2017/10/05/hottsql-proving-query-rewrites-with-univalent-sql-semantics/,/u/sanxiyn,5
-5,2017-10-04 12:03:03 -0500,"['/t/crypto', '/t/vcs']",Keybase launches encrypted git,https://keybase.io/blog/encrypted-git-for-everyone,/u/patrickxb,52
-0,2017-10-05 14:56:03 -0500,['/t/linux'],Managing EFI Boot Loaders for Linux,http://www.rodsbooks.com/efi-bootloaders/,/u/hawski,3
-21,2017-10-04 12:59:18 -0500,['/t/privacy'],Mozilla donated $100.000 to RiseUp,https://blog.mozilla.org/blog/2017/10/03/mozilla-awards-half-million-open-source-projects/,/u/comzeradd,27
-0,2017-10-05 20:37:56 -0500,['/t/practices'],Resonate - a cooperatively-owned streaming music service,https://resonate.is/,/u/pizzaiolo,1
-16,2017-10-04 04:32:04 -0500,"['/t/compsci', '/t/education']",Kaizen of Programming,http://250bpm.com/blog:102,/u/sustrik,35
-9,2017-10-04 16:41:25 -0500,['/t/hardware'],The Librem 5 Development Roadmap and Progress,https://puri.sm/posts/the-librem-5-development-roadmap-and-progress/,/u/azdle,16
-0,2017-10-05 13:27:45 -0500,['/t/performance'],The true cost of zero cost exceptions (2013),https://mortoray.com/2013/09/12/the-true-cost-of-zero-cost-exceptions/,/u/peter,2
-0,2017-10-05 10:03:04 -0500,"['/t/go', '/t/privacy']",Subnet - Encrypted VPN in 2k lines of Go,https://github.com/twitchyliquid64/subnet,/u/av,3
-0,2017-10-05 10:01:30 -0500,"['/t/math', '/t/python']",Sieve Of Eratosthenes In Python,http://www.solipsys.co.uk/new/SieveOfEratosthenesInPython.html,/u/av,3
-10,2017-10-04 07:27:21 -0500,['/t/practices'],Technical skills alone won’t make you productive,https://codewithoutrules.com/2017/10/04/technical-skills-productive/,/u/itamarst,17
-0,2017-10-05 06:32:05 -0500,"['/t/distributed', '/t/testing']",Measuring Correctness of State in a Distributed System,https://blog.wallaroolabs.com/2017/10/measuring-correctness-of-state-in-a-distributed-system/,/u/SeanTAllen,4
-0,2017-10-05 09:22:07 -0500,"['/t/go', '/t/programming']",Mini Rulebook for Go short declarations,https://blog.learngoprogramming.com/golang-short-variable-declaration-rules-6df88c881ee,/u/blackflicker,1
-0,2017-10-05 07:48:58 -0500,"['/t/historical', '/t/practices']",Eudora History: Email for a Different Era,https://tedium.co/2017/09/28/eudora-email-history/,/u/calvin,3
-0,2017-10-05 10:18:14 -0500,['/t/games'],Game Tourism,http://vectorpoem.com/tourism/,/u/calvin,2
-0,2017-10-05 10:02:00 -0500,['/t/go'],Colly: Fast and Elegant Scraping Framework for Golang,https://github.com/asciimoo/colly,/u/av,2
-0,2017-10-05 13:36:35 -0500,"['/t/nodejs', '/t/security']",Protect your npm account with two-factor authentication and read-only tokens,http://blog.npmjs.org/post/166039777883/protect-your-npm-account-with-two-factor,/u/binarymax,1
-0,2017-10-05 09:40:46 -0500,"['/t/haskell', '/t/programming']",scalendar: A time management library implemented in Haskell,https://www.stackbuilders.com/news/scalendar-time-management-in-haskell,/u/jpvillaisaza,2
-1,2017-10-04 11:36:12 -0500,"['/t/c', '/t/c++']",Useful GCC warning options not enabled by -Wall -Wextra,https://kristerw.blogspot.com/2017/09/useful-gcc-warning-options-not-enabled.html,/u/355E3B,27
-6,2017-10-04 15:57:21 -0500,['/t/compilers'],OMeta tutorial (2008),http://www.moserware.com/2008/06/ometa-who-what-when-where-why.html,/u/akkartik,9
-0,2017-10-05 12:41:03 -0500,['/t/programming'],Remote Hacktoberfest Hackathon,https://www.dailydrip.com/blog/remote-hacktoberfest-hackathon.html,/u/matt2ray,1
+0,2017-10-05 12:34:44 -0500,/t/practices,The Hiring Post (2015),https://sockpuppet.org/blog/2015/03/06/the-hiring-post/,/u/hwayne,8
+15,2017-10-04 10:44:44 -0500,"/t/lisp,/t/programming",Moving Forward by Letting Go,http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html,/u/Yogthos,32
+0,2017-10-06 02:24:43 -0500,"/t/java,/t/rant",Do-It-Yourself ORM as an Alternative to Hibernate,https://blog.philipphauer.de/do-it-yourself-orm-alternative-hibernate-drawbacks/,/u/klingtnet,2
+1,2017-10-05 11:28:55 -0500,"/t/pdf,/t/assembly,/t/compsci,/t/formalmethods","Vale: Verifying High-Performance, Cryptographic, Assembly Code (2017)",https://project-everest.github.io/assets/vale2017.pdf,/u/nickpsecurity,6
+1,2017-10-05 11:10:44 -0500,"/t/databases,/t/formalmethods",HoTTSQL: Proving query rewrites with univalent SQL semantics,https://blog.acolyer.org/2017/10/05/hottsql-proving-query-rewrites-with-univalent-sql-semantics/,/u/sanxiyn,5
+5,2017-10-04 12:03:03 -0500,"/t/crypto,/t/vcs",Keybase launches encrypted git,https://keybase.io/blog/encrypted-git-for-everyone,/u/patrickxb,52
+0,2017-10-05 14:56:03 -0500,/t/linux,Managing EFI Boot Loaders for Linux,http://www.rodsbooks.com/efi-bootloaders/,/u/hawski,3
+21,2017-10-04 12:59:18 -0500,/t/privacy,Mozilla donated $100.000 to RiseUp,https://blog.mozilla.org/blog/2017/10/03/mozilla-awards-half-million-open-source-projects/,/u/comzeradd,27
+0,2017-10-05 20:37:56 -0500,/t/practices,Resonate - a cooperatively-owned streaming music service,https://resonate.is/,/u/pizzaiolo,1
+16,2017-10-04 04:32:04 -0500,"/t/compsci,/t/education",Kaizen of Programming,http://250bpm.com/blog:102,/u/sustrik,35
+9,2017-10-04 16:41:25 -0500,/t/hardware,The Librem 5 Development Roadmap and Progress,https://puri.sm/posts/the-librem-5-development-roadmap-and-progress/,/u/azdle,16
+0,2017-10-05 13:27:45 -0500,/t/performance,The true cost of zero cost exceptions (2013),https://mortoray.com/2013/09/12/the-true-cost-of-zero-cost-exceptions/,/u/peter,2
+0,2017-10-05 10:03:04 -0500,"/t/go,/t/privacy",Subnet - Encrypted VPN in 2k lines of Go,https://github.com/twitchyliquid64/subnet,/u/av,3
+0,2017-10-05 10:01:30 -0500,"/t/math,/t/python",Sieve Of Eratosthenes In Python,http://www.solipsys.co.uk/new/SieveOfEratosthenesInPython.html,/u/av,3
+10,2017-10-04 07:27:21 -0500,/t/practices,Technical skills alone won’t make you productive,https://codewithoutrules.com/2017/10/04/technical-skills-productive/,/u/itamarst,17
+0,2017-10-05 06:32:05 -0500,"/t/distributed,/t/testing",Measuring Correctness of State in a Distributed System,https://blog.wallaroolabs.com/2017/10/measuring-correctness-of-state-in-a-distributed-system/,/u/SeanTAllen,4
+0,2017-10-05 09:22:07 -0500,"/t/go,/t/programming",Mini Rulebook for Go short declarations,https://blog.learngoprogramming.com/golang-short-variable-declaration-rules-6df88c881ee,/u/blackflicker,1
+0,2017-10-05 07:48:58 -0500,"/t/historical,/t/practices",Eudora History: Email for a Different Era,https://tedium.co/2017/09/28/eudora-email-history/,/u/calvin,3
+0,2017-10-05 10:18:14 -0500,/t/games,Game Tourism,http://vectorpoem.com/tourism/,/u/calvin,2
+0,2017-10-05 10:02:00 -0500,/t/go,Colly: Fast and Elegant Scraping Framework for Golang,https://github.com/asciimoo/colly,/u/av,2
+0,2017-10-05 13:36:35 -0500,"/t/nodejs,/t/security",Protect your npm account with two-factor authentication and read-only tokens,http://blog.npmjs.org/post/166039777883/protect-your-npm-account-with-two-factor,/u/binarymax,1
+0,2017-10-05 09:40:46 -0500,"/t/haskell,/t/programming",scalendar: A time management library implemented in Haskell,https://www.stackbuilders.com/news/scalendar-time-management-in-haskell,/u/jpvillaisaza,2
+1,2017-10-04 11:36:12 -0500,"/t/c,/t/c++",Useful GCC warning options not enabled by -Wall -Wextra,https://kristerw.blogspot.com/2017/09/useful-gcc-warning-options-not-enabled.html,/u/355E3B,27
+6,2017-10-04 15:57:21 -0500,/t/compilers,OMeta tutorial (2008),http://www.moserware.com/2008/06/ometa-who-what-when-where-why.html,/u/akkartik,9
+0,2017-10-05 12:41:03 -0500,/t/programming,Remote Hacktoberfest Hackathon,https://www.dailydrip.com/blog/remote-hacktoberfest-hackathon.html,/u/matt2ray,1

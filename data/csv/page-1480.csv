@@ -1,25 +1,25 @@
-0,2013-05-21 11:50:47 -0500,['/t/python'],Porting to Python 3 Redux,http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/,/u/kb,1
-0,2013-05-20 09:34:33 -0500,"['/t/release', '/t/visualization']",The Open Source Report Card,http://osrc.dfm.io/,/u/puffnfresh,8
-4,2013-05-20 11:57:02 -0500,['/t/hardware'],iPhone-Operated Digital Lock Makes House Keys a Thing of the Past,http://www.wired.com/gadgetlab/2013/05/kwikset-kevo-lock/,/u/sschaubs,3
-1,2013-05-20 11:35:22 -0500,"['/t/devops', '/t/scaling']","Why I left Heroku, and notes on my new AWS setup",http://www.holovaty.com/writing/aws-notes/,/u/jcs,3
-0,2013-05-20 16:50:54 -0500,['/t/javascript'],Fluent APIs and Method Chaining,http://flippinawesome.org/2013/05/20/fluent-apis-and-method-chaining/,/u/remotesynth,1
-1,2013-05-20 11:35:47 -0500,"['/t/news', '/t/scaling']",The Tumblr Architecture Yahoo Bought for a Cool Billion Dollars,http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html,/u/jcs,1
-0,2013-05-19 04:58:07 -0500,"['/t/hardware', '/t/programming']",Achieving maximum memory bandwidth,http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html,/u/lynge,4
-1,2013-05-18 22:58:53 -0500,"['/t/release', '/t/unix']",fish shell 2.0,http://ridiculousfish.com/blog/posts/fish_shell.html,/u/tr4656,4
-2,2013-05-18 15:08:12 -0500,['/t/scaling'],S3 is NOT a CDN,http://jdorfman.posthaven.com/medium-bitcoin-660x493-dot-jpg-cdn-vs-s3,/u/dh,4
-0,2013-05-17 15:44:34 -0500,['/t/vim'],CoVim: Collaborative editing plugin for vim,https://github.com/FredKSchott/CoVim,/u/jdost,7
-0,2013-05-17 14:26:06 -0500,['/t/c'],Memory Allocators 101,http://jamesgolick.com/2013/5/15/memory-allocators-101.html,/u/kyle,4
-0,2013-05-17 15:36:29 -0500,"['/t/compsci', '/t/unix']",GAWK for AI,http://www.wra1th.plus.com/awk/awkfri.txt,/u/kyle,3
-0,2013-05-16 14:28:54 -0500,"['/t/ios', '/t/mobile', '/t/programming']",Venmo Touch Screencasts: Add one touch credit card payments to your app in 15 minutes,https://www.braintreepayments.com/braintrust/venmo-touch-screencasts-add-one-touch-payments-to-your-app-in-15-minutes,/u/mtattersall,2
-0,2013-05-16 13:21:13 -0500,['/t/hardware'],I tried Google Glass (feat. Don Knuth’s answer on humans & machines),http://apas.gr/2013/05/i-tried-google-glass/,/u/apas,2
-0,2013-05-16 01:05:47 -0500,"['/t/design', '/t/web']",Beautiful web type — the best typefaces from the Google web fonts directory,http://hellohappy.org/beautiful-web-type/,/u/pkhamre,5
-0,2013-05-16 02:08:16 -0500,"['/t/pdf', '/t/hardware', '/t/mac', '/t/reversing']","Ninjas and Harry Potter - ""Spell”unking in Apple SMC Land",http://www.nosuchcon.org/talks/D1_02_Alex_Ninjas_and_Harry_Potter.pdf,/u/jcs,4
-0,2013-05-15 16:57:30 -0500,"['/t/compilers', '/t/javascript']",Building a Lisp to Javascript compiler - Honza Pokorny,http://honza.ca/2013/05/building-a-lisp-to-javascript-compiler,/u/eigenjoy,5
-0,2013-05-15 21:27:42 -0500,"['/t/cryptocurrencies', '/t/news']",Cointagion - Instantly Buy Ebooks with Bitcoin,http://www.cointagion.com/,/u/jturner,2
-0,2013-05-15 12:29:34 -0500,"['/t/go', '/t/security']",Exploiting a Go Binary,http://codearcana.com/posts/2013/04/23/exploiting-a-go-binary.html,/u/jcs,6
-2,2013-05-15 14:54:22 -0500,['/t/go'],Improving the Pi Searcher's speed by moving from C++ to Go,http://da-data.blogspot.com/2013/05/improving-pi-searchers-speed-by-moving.html,/u/kyle,2
-3,2013-05-15 09:12:47 -0500,['/t/programming'],Parallelism and concurrency need different tools,http://www.yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html,/u/miles,3
-0,2013-05-15 10:08:59 -0500,"['/t/api', '/t/web']",Indicating Problems in HTTP APIs,http://www.mnot.net/blog/2013/05/15/http_problem,/u/bct,3
-0,2013-05-15 14:20:14 -0500,"['/t/privacy', '/t/security']",The New Yorker Strongbox,http://www.newyorker.com/strongbox/,/u/jcs,1
-1,2013-05-14 13:13:08 -0500,"['/t/reversing', '/t/security']",Snapchat: not for state secrets,http://kivikakk.ee/2013/05/10/snapchat.html,/u/jcs,6
-0,2013-05-14 13:11:44 -0500,"['/t/c', '/t/compsci', '/t/lua']",Terra - A low-level counterpart to Lua,http://terralang.org/,/u/jturner,7
+0,2013-05-21 11:50:47 -0500,/t/python,Porting to Python 3 Redux,http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/,/u/kb,1
+0,2013-05-20 09:34:33 -0500,"/t/release,/t/visualization",The Open Source Report Card,http://osrc.dfm.io/,/u/puffnfresh,8
+4,2013-05-20 11:57:02 -0500,/t/hardware,iPhone-Operated Digital Lock Makes House Keys a Thing of the Past,http://www.wired.com/gadgetlab/2013/05/kwikset-kevo-lock/,/u/sschaubs,3
+1,2013-05-20 11:35:22 -0500,"/t/devops,/t/scaling","Why I left Heroku, and notes on my new AWS setup",http://www.holovaty.com/writing/aws-notes/,/u/jcs,3
+0,2013-05-20 16:50:54 -0500,/t/javascript,Fluent APIs and Method Chaining,http://flippinawesome.org/2013/05/20/fluent-apis-and-method-chaining/,/u/remotesynth,1
+1,2013-05-20 11:35:47 -0500,"/t/news,/t/scaling",The Tumblr Architecture Yahoo Bought for a Cool Billion Dollars,http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html,/u/jcs,1
+0,2013-05-19 04:58:07 -0500,"/t/hardware,/t/programming",Achieving maximum memory bandwidth,http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html,/u/lynge,4
+1,2013-05-18 22:58:53 -0500,"/t/release,/t/unix",fish shell 2.0,http://ridiculousfish.com/blog/posts/fish_shell.html,/u/tr4656,4
+2,2013-05-18 15:08:12 -0500,/t/scaling,S3 is NOT a CDN,http://jdorfman.posthaven.com/medium-bitcoin-660x493-dot-jpg-cdn-vs-s3,/u/dh,4
+0,2013-05-17 15:44:34 -0500,/t/vim,CoVim: Collaborative editing plugin for vim,https://github.com/FredKSchott/CoVim,/u/jdost,7
+0,2013-05-17 14:26:06 -0500,/t/c,Memory Allocators 101,http://jamesgolick.com/2013/5/15/memory-allocators-101.html,/u/kyle,4
+0,2013-05-17 15:36:29 -0500,"/t/compsci,/t/unix",GAWK for AI,http://www.wra1th.plus.com/awk/awkfri.txt,/u/kyle,3
+0,2013-05-16 14:28:54 -0500,"/t/ios,/t/mobile,/t/programming",Venmo Touch Screencasts: Add one touch credit card payments to your app in 15 minutes,https://www.braintreepayments.com/braintrust/venmo-touch-screencasts-add-one-touch-payments-to-your-app-in-15-minutes,/u/mtattersall,2
+0,2013-05-16 13:21:13 -0500,/t/hardware,I tried Google Glass (feat. Don Knuth’s answer on humans & machines),http://apas.gr/2013/05/i-tried-google-glass/,/u/apas,2
+0,2013-05-16 01:05:47 -0500,"/t/design,/t/web",Beautiful web type — the best typefaces from the Google web fonts directory,http://hellohappy.org/beautiful-web-type/,/u/pkhamre,5
+0,2013-05-16 02:08:16 -0500,"/t/pdf,/t/hardware,/t/mac,/t/reversing","Ninjas and Harry Potter - ""Spell”unking in Apple SMC Land",http://www.nosuchcon.org/talks/D1_02_Alex_Ninjas_and_Harry_Potter.pdf,/u/jcs,4
+0,2013-05-15 16:57:30 -0500,"/t/compilers,/t/javascript",Building a Lisp to Javascript compiler - Honza Pokorny,http://honza.ca/2013/05/building-a-lisp-to-javascript-compiler,/u/eigenjoy,5
+0,2013-05-15 21:27:42 -0500,"/t/cryptocurrencies,/t/news",Cointagion - Instantly Buy Ebooks with Bitcoin,http://www.cointagion.com/,/u/jturner,2
+0,2013-05-15 12:29:34 -0500,"/t/go,/t/security",Exploiting a Go Binary,http://codearcana.com/posts/2013/04/23/exploiting-a-go-binary.html,/u/jcs,6
+2,2013-05-15 14:54:22 -0500,/t/go,Improving the Pi Searcher's speed by moving from C++ to Go,http://da-data.blogspot.com/2013/05/improving-pi-searchers-speed-by-moving.html,/u/kyle,2
+3,2013-05-15 09:12:47 -0500,/t/programming,Parallelism and concurrency need different tools,http://www.yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html,/u/miles,3
+0,2013-05-15 10:08:59 -0500,"/t/api,/t/web",Indicating Problems in HTTP APIs,http://www.mnot.net/blog/2013/05/15/http_problem,/u/bct,3
+0,2013-05-15 14:20:14 -0500,"/t/privacy,/t/security",The New Yorker Strongbox,http://www.newyorker.com/strongbox/,/u/jcs,1
+1,2013-05-14 13:13:08 -0500,"/t/reversing,/t/security",Snapchat: not for state secrets,http://kivikakk.ee/2013/05/10/snapchat.html,/u/jcs,6
+0,2013-05-14 13:11:44 -0500,"/t/c,/t/compsci,/t/lua",Terra - A low-level counterpart to Lua,http://terralang.org/,/u/jturner,7

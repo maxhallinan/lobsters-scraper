@@ -1,25 +1,25 @@
-0,2016-10-25 05:43:42 -0500,"['/t/browsers', '/t/security']",Chrome Requiring Certificate Transparency in 2017,https://groups.google.com/a/chromium.org/forum/#!msg/ct-policy/78N3SMcqUGw/ykIwHXuqAQAJ,/u/jabberwock,5
-0,2016-10-25 12:14:22 -0500,"['/t/privacy', '/t/security']",W3C Web Bluetooth API Privacy,http://blog.lukaszolejnik.com/w3c-web-bluetooth-api-privacy/,/u/mulander,2
-0,2016-10-25 15:56:13 -0500,"['/t/audio', '/t/android', '/t/programming']",Just Play my Sound,http://inaka.net/blog/2016/10/25/just-play/,/u/InakaESI,1
-0,2016-10-24 15:58:01 -0500,"['/t/go', '/t/networking', '/t/release']",netstack: a network stack written in Go,https://github.com/google/netstack,/u/jcs,20
-0,2016-10-25 10:00:27 -0500,"['/t/python', '/t/testing']",A failed plugin,http://nedbatchelder.com//blog/201610/a_failed_plugin.html,/u/pushcx,2
-7,2016-10-24 13:53:54 -0500,['/t/security'],We got phished,https://www.exploratorium.edu/blogs/tangents/we-got-phished-2,/u/pushcx,11
-0,2016-10-25 08:16:11 -0500,['/t/web'],How We’re Spinning Up Our AWS Infrastructure 80% Faster,http://blog.runnable.com/post/152291441606/how-were-spinning-up-our-aws-infrastructure-80,/u/taylor,2
-1,2016-10-24 10:17:23 -0500,"['/t/security', '/t/web']",Is Your Site Leaking Password Reset Links?,https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links,/u/derekprior,14
-43,2016-10-24 06:51:27 -0500,['/t/ask'],What are you working on this week?,/s/1k2hox/what_are_you_working_on_this_week,/u/merzberimbow,19
-1,2016-10-24 17:53:50 -0500,"['/t/lisp', '/t/web']",Low-level web programming in Racket + a wiki in 500 lines,http://matt.might.net/articles/low-level-web-in-racket/,/u/friendlysock,9
-14,2016-10-24 14:04:20 -0500,"['/t/ask', '/t/programming']",Ask: How easy is it to find all references to a type in the codebase you're working on right now?,/s/rjjwv2/ask_how_easy_is_it_find_all_references_type,/u/mikemccracken,8
-0,2016-10-25 01:13:56 -0500,"['/t/distributed', '/t/historical', '/t/networking', '/t/web']","The original proposal of the WWW, HTMLized",https://www.w3.org/History/1989/proposal.html,/u/majjoha,4
-0,2016-10-25 00:39:17 -0500,['/t/haskell'],A Taste of Haskell,https://hookrace.net/blog/a-taste-of-haskell/,/u/av,4
-0,2016-10-25 16:01:05 -0500,['/t/privacy'],Sweden bans cameras on drones,http://www.bbc.com/news/technology-37761872,/u/pizzaiolo,0
-0,2016-10-25 05:27:52 -0500,"['/t/c', '/t/practices']",Crafting reliable C++,http://blog.rplasil.name/2016/10/crafting-c-continuation_21.html,/u/calvin,2
-4,2016-10-24 12:11:04 -0500,['/t/security'],War Stories from Google's Vulnerability Reward Program,https://docs.google.com/presentation/d/e/2PACX-1vTMBZV_hXgZkEyGBUw8K_pvPjrDBhceV-TYuHWw-Nc3LXA8PZwkW2zQj268W8XBhSkfDEXZ6DN7jrvC/pub,/u/sagi,9
-0,2016-10-25 13:58:12 -0500,"['/t/devops', '/t/release']",Kontena 0.16.0 Release,http://blog.kontena.io/kontena-0-16-0-release/,/u/jussi,0
-1,2016-10-24 22:53:04 -0500,"['/t/hardware', '/t/historical', '/t/math']",Torpedo Data Computer Mark 3,http://maritime.org/doc/tdc/index.htm#toc,/u/friendlysock,2
-52,2016-10-23 11:03:57 -0500,"['/t/programming', '/t/testing']",Static typing will not save us from broken software,http://www.drmaciver.com/2016/10/static-typing-will-not-save-us-from-broken-software/,/u/DRMacIver,52
-4,2016-10-24 11:59:52 -0500,"['/t/unix', '/t/windows']",Biculturalism (2003),http://www.joelonsoftware.com/articles/Biculturalism.html,/u/pushcx,5
-1,2016-10-24 11:24:42 -0500,['/t/security'],CVE-2016-8610: SSL Death Alert: OpenSSL SSL/TLS SSL3_AL_WARNING undefined alert Remote DoS,http://seclists.org/oss-sec/2016/q4/224,/u/mulander,9
-1,2016-10-24 14:45:52 -0500,['/t/games'],"One Doom fan, 300 hours, and one gargantuan level",https://killscreen.com/articles/doom-map-300-hours-make/,/u/mulander,6
-0,2016-10-24 18:45:29 -0500,"['/t/graphics', '/t/math']",Nightmare Machine by MIT Media Lab,http://nightmare.mit.edu,/u/antifuchs,3
-1,2016-10-24 11:05:16 -0500,['/t/security'],Webcams used to attack Reddit and Twitter recalled,http://www.bbc.com/news/technology-37750798,/u/mulander,6
-0,2016-10-24 16:05:46 -0500,"['/t/design', '/t/practices', '/t/testing']",Why TDD’ing your frontend feels pointless,https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325,/u/calvin,3
+0,2016-10-25 05:43:42 -0500,"/t/browsers,/t/security",Chrome Requiring Certificate Transparency in 2017,https://groups.google.com/a/chromium.org/forum/#!msg/ct-policy/78N3SMcqUGw/ykIwHXuqAQAJ,/u/jabberwock,5
+0,2016-10-25 12:14:22 -0500,"/t/privacy,/t/security",W3C Web Bluetooth API Privacy,http://blog.lukaszolejnik.com/w3c-web-bluetooth-api-privacy/,/u/mulander,2
+0,2016-10-25 15:56:13 -0500,"/t/audio,/t/android,/t/programming",Just Play my Sound,http://inaka.net/blog/2016/10/25/just-play/,/u/InakaESI,1
+0,2016-10-24 15:58:01 -0500,"/t/go,/t/networking,/t/release",netstack: a network stack written in Go,https://github.com/google/netstack,/u/jcs,20
+0,2016-10-25 10:00:27 -0500,"/t/python,/t/testing",A failed plugin,http://nedbatchelder.com//blog/201610/a_failed_plugin.html,/u/pushcx,2
+7,2016-10-24 13:53:54 -0500,/t/security,We got phished,https://www.exploratorium.edu/blogs/tangents/we-got-phished-2,/u/pushcx,11
+0,2016-10-25 08:16:11 -0500,/t/web,How We’re Spinning Up Our AWS Infrastructure 80% Faster,http://blog.runnable.com/post/152291441606/how-were-spinning-up-our-aws-infrastructure-80,/u/taylor,2
+1,2016-10-24 10:17:23 -0500,"/t/security,/t/web",Is Your Site Leaking Password Reset Links?,https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links,/u/derekprior,14
+43,2016-10-24 06:51:27 -0500,/t/ask,What are you working on this week?,/s/1k2hox/what_are_you_working_on_this_week,/u/merzberimbow,19
+1,2016-10-24 17:53:50 -0500,"/t/lisp,/t/web",Low-level web programming in Racket + a wiki in 500 lines,http://matt.might.net/articles/low-level-web-in-racket/,/u/friendlysock,9
+14,2016-10-24 14:04:20 -0500,"/t/ask,/t/programming",Ask: How easy is it to find all references to a type in the codebase you're working on right now?,/s/rjjwv2/ask_how_easy_is_it_find_all_references_type,/u/mikemccracken,8
+0,2016-10-25 01:13:56 -0500,"/t/distributed,/t/historical,/t/networking,/t/web","The original proposal of the WWW, HTMLized",https://www.w3.org/History/1989/proposal.html,/u/majjoha,4
+0,2016-10-25 00:39:17 -0500,/t/haskell,A Taste of Haskell,https://hookrace.net/blog/a-taste-of-haskell/,/u/av,4
+0,2016-10-25 16:01:05 -0500,/t/privacy,Sweden bans cameras on drones,http://www.bbc.com/news/technology-37761872,/u/pizzaiolo,0
+0,2016-10-25 05:27:52 -0500,"/t/c,/t/practices",Crafting reliable C++,http://blog.rplasil.name/2016/10/crafting-c-continuation_21.html,/u/calvin,2
+4,2016-10-24 12:11:04 -0500,/t/security,War Stories from Google's Vulnerability Reward Program,https://docs.google.com/presentation/d/e/2PACX-1vTMBZV_hXgZkEyGBUw8K_pvPjrDBhceV-TYuHWw-Nc3LXA8PZwkW2zQj268W8XBhSkfDEXZ6DN7jrvC/pub,/u/sagi,9
+0,2016-10-25 13:58:12 -0500,"/t/devops,/t/release",Kontena 0.16.0 Release,http://blog.kontena.io/kontena-0-16-0-release/,/u/jussi,0
+1,2016-10-24 22:53:04 -0500,"/t/hardware,/t/historical,/t/math",Torpedo Data Computer Mark 3,http://maritime.org/doc/tdc/index.htm#toc,/u/friendlysock,2
+52,2016-10-23 11:03:57 -0500,"/t/programming,/t/testing",Static typing will not save us from broken software,http://www.drmaciver.com/2016/10/static-typing-will-not-save-us-from-broken-software/,/u/DRMacIver,52
+4,2016-10-24 11:59:52 -0500,"/t/unix,/t/windows",Biculturalism (2003),http://www.joelonsoftware.com/articles/Biculturalism.html,/u/pushcx,5
+1,2016-10-24 11:24:42 -0500,/t/security,CVE-2016-8610: SSL Death Alert: OpenSSL SSL/TLS SSL3_AL_WARNING undefined alert Remote DoS,http://seclists.org/oss-sec/2016/q4/224,/u/mulander,9
+1,2016-10-24 14:45:52 -0500,/t/games,"One Doom fan, 300 hours, and one gargantuan level",https://killscreen.com/articles/doom-map-300-hours-make/,/u/mulander,6
+0,2016-10-24 18:45:29 -0500,"/t/graphics,/t/math",Nightmare Machine by MIT Media Lab,http://nightmare.mit.edu,/u/antifuchs,3
+1,2016-10-24 11:05:16 -0500,/t/security,Webcams used to attack Reddit and Twitter recalled,http://www.bbc.com/news/technology-37750798,/u/mulander,6
+0,2016-10-24 16:05:46 -0500,"/t/design,/t/practices,/t/testing",Why TDD’ing your frontend feels pointless,https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325,/u/calvin,3

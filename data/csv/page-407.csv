@@ -1,25 +1,25 @@
-0,2017-04-12 16:33:35 -0500,"['/t/cryptocurrencies', '/t/security']",Zcash - Security Announcement 2017-04-12,https://z.cash/blog/security-announcement-2017-04-12.html,/u/kodo,6
-7,2017-04-12 04:25:01 -0500,"['/t/linux', '/t/release', '/t/windows']",Windows 10 Creator’s Update: What’s new in Bash/WSL & Windows Console,https://blogs.msdn.microsoft.com/commandline/2017/04/11/windows-10-creators-update-whats-new-in-bashwsl-windows-console/,/u/calvin,11
-77,2017-04-11 04:48:35 -0500,['/t/programming'],Electron is flash for the desktop,http://josephg.com/blog/electron-is-flash-for-the-desktop/,/u/mulander,118
-9,2017-04-12 10:42:55 -0500,"['/t/culture', '/t/finance', '/t/programming']",Root - A bank account for developers,https://root.co.za/,/u/koehr,13
-10,2017-04-11 15:50:22 -0500,['/t/unix'],/dev/null Follies,http://blog.plover.com/2017/04/02/,/u/gerikson,26
-0,2017-04-12 19:11:51 -0500,['/t/security'],The Rootkit of All Evil (2005),http://www.nytimes.com/2005/11/19/business/media/the-rootkit-of-all-evil.html,/u/dgv,2
-0,2017-04-12 17:42:27 -0500,"['/t/video', '/t/historical', '/t/person']",The Heidelberg Laureate Forum Foundation presents the HLF Portraits: Alan Kay,https://www.youtube.com/watch?v=fn3roWiLTtQ,/u/sevan,2
-2,2017-04-12 17:41:56 -0500,"['/t/video', '/t/historical', '/t/person']",The Heidelberg Laureate Forum Foundation presents the HLF Portraits: Donald Ervin Knuth,https://www.youtube.com/watch?v=BYkFfCqen7M,/u/sevan,1
-21,2017-04-11 10:15:14 -0500,['/t/python'],Python and the need for speed,http://www.mos6581.org/python_need_for_speed,/u/brechtm,22
-0,2017-04-12 10:52:59 -0500,['/t/vcs'],Introducing paid subscriptions on GitLab.com,https://about.gitlab.com/2017/04/11/introducing-subscriptions-on-gitlab-dot-com/,/u/colin,5
-3,2017-04-11 18:00:22 -0500,"['/t/emacs', '/t/lua']",Polywell: Emacs inspired Text Editor in Love2d,https://gitlab.com/technomancy/polywell/,/u/yumaikas,24
-0,2017-04-12 11:57:53 -0500,['/t/math'],Generating Sequences of Primes in Conway's Game of Life (2009),http://www.njohnston.ca/2009/08/generating-sequences-of-primes-in-conways-game-of-life/,/u/pushcx,4
-3,2017-04-11 14:59:06 -0500,"['/t/linux', '/t/web']","Nginx might have 33% market share, Apache isn't falling below 50%",https://ma.ttias.be/nginx-might-33-market-share-apache-isnt-falling-50/,/u/mattiasgeniar,15
-11,2017-04-11 08:30:10 -0500,"['/t/openbsd', '/t/release', '/t/unix']",OpenBSD 6.1,https://www.openbsd.org/61.html,/u/twk,41
-0,2017-04-12 04:41:38 -0500,['/t/python'],Some Lesser-known Deep Learning Libraries,http://blog.paralleldots.com/technology/deep-learning/lesser-known-deep-learning-libraries/,/u/Gargi,4
-3,2017-04-11 23:59:24 -0500,['/t/ruby'],The Gang of Four is wrong about delegation,https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation,/u/pushcx,11
-0,2017-04-12 10:45:20 -0500,"['/t/practices', '/t/web']",Using ARIA,https://w3c.github.io/aria-in-html/,/u/flyingfisch,3
-1,2017-04-12 08:52:06 -0500,['/t/hardware'],AMD's Ryzen 5 1500X and 1600X reviewed: Taking the fight against Intel to the midrange market,https://www.extremetech.com/computing/247463-amds-ryzen-5-1500x-1600x-reviewed-taking-fight-intel-mid-range-market,/u/apy,2
-1,2017-04-12 09:02:24 -0500,['/t/browsers'],"Firefox Will Add a Settings Section That Lets You Control ""Performance""",https://www.bleepingcomputer.com/news/software/firefox-will-add-a-settings-section-that-lets-you-control-performance-/,/u/pizzaiolo,2
-2,2017-04-11 17:31:12 -0500,['/t/javascript'],Glimmer.js: What’s the Deal with TypeScript?,https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0,/u/pushcx,13
-0,2017-04-12 04:53:45 -0500,"['/t/pdf', '/t/distributed', '/t/programming']",On the Design of Distributed Programming Models,https://arxiv.org/pdf/1701.07615.pdf,/u/julienXX,4
-4,2017-04-11 16:47:59 -0500,['/t/windows'],Windows Vista officially dead,http://www.osnews.com/story/29763/Windows_Vista_officially_dead,/u/calvin,10
-4,2017-04-11 09:46:44 -0500,['/t/practices'],Banks scramble to fix old systems as IT 'cowboys' ride into sunset,http://www.reuters.com/article/us-usa-banks-cobol-idUSKBN17C0D8,/u/pushcx,19
-22,2017-04-11 09:19:38 -0500,"['/t/programming', '/t/testing']",The Economics of Software Correctness,http://hypothesis.works/articles/economics-of-software-correctness/,/u/nchammas,14
-1,2017-04-11 18:27:40 -0500,['/t/security'],Mysterious devices in Trump's pop-up situation room,http://electrospaces.blogspot.com/2017/04/mysterious-devices-in-trumps-pop-up.html,/u/trn,7
+0,2017-04-12 16:33:35 -0500,"/t/cryptocurrencies,/t/security",Zcash - Security Announcement 2017-04-12,https://z.cash/blog/security-announcement-2017-04-12.html,/u/kodo,6
+7,2017-04-12 04:25:01 -0500,"/t/linux,/t/release,/t/windows",Windows 10 Creator’s Update: What’s new in Bash/WSL & Windows Console,https://blogs.msdn.microsoft.com/commandline/2017/04/11/windows-10-creators-update-whats-new-in-bashwsl-windows-console/,/u/calvin,11
+77,2017-04-11 04:48:35 -0500,/t/programming,Electron is flash for the desktop,http://josephg.com/blog/electron-is-flash-for-the-desktop/,/u/mulander,118
+9,2017-04-12 10:42:55 -0500,"/t/culture,/t/finance,/t/programming",Root - A bank account for developers,https://root.co.za/,/u/koehr,13
+10,2017-04-11 15:50:22 -0500,/t/unix,/dev/null Follies,http://blog.plover.com/2017/04/02/,/u/gerikson,26
+0,2017-04-12 19:11:51 -0500,/t/security,The Rootkit of All Evil (2005),http://www.nytimes.com/2005/11/19/business/media/the-rootkit-of-all-evil.html,/u/dgv,2
+0,2017-04-12 17:42:27 -0500,"/t/video,/t/historical,/t/person",The Heidelberg Laureate Forum Foundation presents the HLF Portraits: Alan Kay,https://www.youtube.com/watch?v=fn3roWiLTtQ,/u/sevan,2
+2,2017-04-12 17:41:56 -0500,"/t/video,/t/historical,/t/person",The Heidelberg Laureate Forum Foundation presents the HLF Portraits: Donald Ervin Knuth,https://www.youtube.com/watch?v=BYkFfCqen7M,/u/sevan,1
+21,2017-04-11 10:15:14 -0500,/t/python,Python and the need for speed,http://www.mos6581.org/python_need_for_speed,/u/brechtm,22
+0,2017-04-12 10:52:59 -0500,/t/vcs,Introducing paid subscriptions on GitLab.com,https://about.gitlab.com/2017/04/11/introducing-subscriptions-on-gitlab-dot-com/,/u/colin,5
+3,2017-04-11 18:00:22 -0500,"/t/emacs,/t/lua",Polywell: Emacs inspired Text Editor in Love2d,https://gitlab.com/technomancy/polywell/,/u/yumaikas,24
+0,2017-04-12 11:57:53 -0500,/t/math,Generating Sequences of Primes in Conway's Game of Life (2009),http://www.njohnston.ca/2009/08/generating-sequences-of-primes-in-conways-game-of-life/,/u/pushcx,4
+3,2017-04-11 14:59:06 -0500,"/t/linux,/t/web","Nginx might have 33% market share, Apache isn't falling below 50%",https://ma.ttias.be/nginx-might-33-market-share-apache-isnt-falling-50/,/u/mattiasgeniar,15
+11,2017-04-11 08:30:10 -0500,"/t/openbsd,/t/release,/t/unix",OpenBSD 6.1,https://www.openbsd.org/61.html,/u/twk,41
+0,2017-04-12 04:41:38 -0500,/t/python,Some Lesser-known Deep Learning Libraries,http://blog.paralleldots.com/technology/deep-learning/lesser-known-deep-learning-libraries/,/u/Gargi,4
+3,2017-04-11 23:59:24 -0500,/t/ruby,The Gang of Four is wrong about delegation,https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation,/u/pushcx,11
+0,2017-04-12 10:45:20 -0500,"/t/practices,/t/web",Using ARIA,https://w3c.github.io/aria-in-html/,/u/flyingfisch,3
+1,2017-04-12 08:52:06 -0500,/t/hardware,AMD's Ryzen 5 1500X and 1600X reviewed: Taking the fight against Intel to the midrange market,https://www.extremetech.com/computing/247463-amds-ryzen-5-1500x-1600x-reviewed-taking-fight-intel-mid-range-market,/u/apy,2
+1,2017-04-12 09:02:24 -0500,/t/browsers,"Firefox Will Add a Settings Section That Lets You Control ""Performance""",https://www.bleepingcomputer.com/news/software/firefox-will-add-a-settings-section-that-lets-you-control-performance-/,/u/pizzaiolo,2
+2,2017-04-11 17:31:12 -0500,/t/javascript,Glimmer.js: What’s the Deal with TypeScript?,https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0,/u/pushcx,13
+0,2017-04-12 04:53:45 -0500,"/t/pdf,/t/distributed,/t/programming",On the Design of Distributed Programming Models,https://arxiv.org/pdf/1701.07615.pdf,/u/julienXX,4
+4,2017-04-11 16:47:59 -0500,/t/windows,Windows Vista officially dead,http://www.osnews.com/story/29763/Windows_Vista_officially_dead,/u/calvin,10
+4,2017-04-11 09:46:44 -0500,/t/practices,Banks scramble to fix old systems as IT 'cowboys' ride into sunset,http://www.reuters.com/article/us-usa-banks-cobol-idUSKBN17C0D8,/u/pushcx,19
+22,2017-04-11 09:19:38 -0500,"/t/programming,/t/testing",The Economics of Software Correctness,http://hypothesis.works/articles/economics-of-software-correctness/,/u/nchammas,14
+1,2017-04-11 18:27:40 -0500,/t/security,Mysterious devices in Trump's pop-up situation room,http://electrospaces.blogspot.com/2017/04/mysterious-devices-in-trumps-pop-up.html,/u/trn,7

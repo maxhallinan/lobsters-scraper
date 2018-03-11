@@ -1,25 +1,25 @@
-0,2017-06-17 19:49:35 -0500,['/t/math'],Common Developments of Three Incongruent Boxes of Area 30,https://twitter.com/jmitani/status/871685924513607683,/u/zem,2
-0,2017-06-17 13:04:30 -0500,"['/t/assembly', '/t/graphics']",Try HLSL,http://tryhlsl.azurewebsites.net/,/u/mikejsavage,5
-14,2017-06-16 13:09:53 -0500,['/t/unix'],Switching to the Mutt Email Client,http://nullprogram.com/blog/2017/06/15/,/u/pushcx,32
-0,2017-06-17 04:05:00 -0500,"['/t/compsci', '/t/devops', '/t/security']",Anonymization of System Logs for Privacy and Storage Benefits,https://arxiv.org/abs/1706.04337,/u/Dawny33,12
-0,2017-06-17 11:05:08 -0500,"['/t/video', '/t/programming']",Learning a Language Takes Time,https://youtu.be/6Oi8_eCaBGY,/u/Yogthos,5
-3,2017-06-17 02:59:15 -0500,"['/t/linux', '/t/release']","Dedaemon, a program which manages displays and input devices and such like a desktop environment wou",https://github.com/mortie/dedaemon,/u/mort,9
-14,2017-06-16 18:26:13 -0500,['/t/hardware'],You Can’t Open the Microsoft Surface Laptop Without Literally Destroying It,https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+Teardown/92915,/u/pizzaiolo,16
-0,2017-06-17 05:46:15 -0500,['/t/go'],Minio - s3 compatible object store written in go,https://minio.io,/u/fkr,8
-0,2017-06-17 09:10:37 -0500,"['/t/javascript', '/t/programming']",v1 of React Mirror (fractal state tree that decorates views with local stores),https://github.com/beyond-labs/react-mirror,/u/ashtonsix,2
-1,2017-06-16 19:10:58 -0500,['/t/web'],See OSM in your terminal (Braille & ASCII): blind friendly and cool,/s/cwzriv/see_osm_your_terminal_braille_ascii_blind,/u/pizzaiolo,9
-0,2017-06-16 12:37:00 -0500,['/t/cryptocurrencies'],How I Stole Your Siacoin,https://mtlynch.io/stole-siacoins/,/u/pushcx,27
-21,2017-06-16 06:12:19 -0500,"['/t/job', '/t/practices']",Developers Who Use Spaces Make More Money Than Those Who Use Tabs,https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/,/u/quobit,24
-0,2017-06-16 19:23:35 -0500,"['/t/performance', '/t/programming']",Life in the Fast Lane (D Garbage Collection),https://dlang.org/blog/2017/06/16/life-in-the-fast-lane/,/u/calvin,11
-0,2017-06-16 13:28:45 -0500,"['/t/games', '/t/lisp']",A cross platform game in ~100% Scheme,https://www.reddit.com/r/scheme/comments/6hng3q/i_developed_a_medium_sized_cross_platform/,/u/bsima,19
-0,2017-06-16 12:26:07 -0500,"['/t/privacy', '/t/security']",Facebook makes its anti-terrorist workers profiles public by mistake,https://qz.com/1008070/the-workers-who-police-terrorist-content-on-facebook-were-exposed-to-terrorists-by-facebook/,/u/vyodaiken,20
-1,2017-06-16 08:28:06 -0500,['/t/release'],calibre 3 released,https://github.com/kovidgoyal/calibre/releases,/u/steveno,28
-0,2017-06-17 04:58:17 -0500,"['/t/video', '/t/games']",The Psychology Behind Video Game Sounds (Part I and II),https://www.youtube.com/watch?v=jlLPbLdHAJ0,/u/quobit,2
-2,2017-06-16 08:59:10 -0500,"['/t/devops', '/t/practices']",Baking delicious cloud instances,https://blog.kintoandar.com/2017/06/Baking-delicious-cloud-instances.html,/u/kintoandar,7
-13,2017-06-15 21:22:49 -0500,"['/t/art', '/t/hardware']","This Custom Built ""Commute Deck"" Makes it Easy to Work on the Go",http://makezine.com/2017/06/15/commute-deck-keyboard-device/,/u/friendlysock,27
-2,2017-06-16 11:22:19 -0500,"['/t/art', '/t/math']",Tupper's self-referential formula,https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula,/u/flyingfisch,6
-0,2017-06-16 13:47:26 -0500,['/t/crypto'],Is SHA-3 slow?,http://keccak.noekeon.org/is_sha3_slow.html,/u/steveno,7
-0,2017-06-16 09:59:27 -0500,['/t/javascript'],TypeScript 2.3: Type-Checking JavaScript Files with --checkJs,https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs,/u/mariusschulz,4
-0,2017-06-16 12:58:27 -0500,"['/t/design', '/t/hardware']",Fail of the Week: Museum Buttons,http://hackaday.com/2017/06/16/fail-of-the-week-museum-buttons/,/u/flyingfisch,5
-11,2017-06-16 03:29:58 -0500,"['/t/api', '/t/visualization']","How we got 1,500 GitHub stars by mixing time-tested technology with a fresh UI",https://medium.freecodecamp.com/how-we-got-1-500-github-stars-by-mixing-time-tested-technology-with-a-fresh-ui-b310551cba22,/u/RomanHotsiy,2
-1,2017-06-16 16:34:53 -0500,"['/t/pdf', '/t/historical', '/t/security']",Using Proven Reference Monitor Patterns for Security Evaluation (2016),http://www.mdpi.com/2078-2489/7/2/23/pdf,/u/nickpsecurity,3
+0,2017-06-17 19:49:35 -0500,/t/math,Common Developments of Three Incongruent Boxes of Area 30,https://twitter.com/jmitani/status/871685924513607683,/u/zem,2
+0,2017-06-17 13:04:30 -0500,"/t/assembly,/t/graphics",Try HLSL,http://tryhlsl.azurewebsites.net/,/u/mikejsavage,5
+14,2017-06-16 13:09:53 -0500,/t/unix,Switching to the Mutt Email Client,http://nullprogram.com/blog/2017/06/15/,/u/pushcx,32
+0,2017-06-17 04:05:00 -0500,"/t/compsci,/t/devops,/t/security",Anonymization of System Logs for Privacy and Storage Benefits,https://arxiv.org/abs/1706.04337,/u/Dawny33,12
+0,2017-06-17 11:05:08 -0500,"/t/video,/t/programming",Learning a Language Takes Time,https://youtu.be/6Oi8_eCaBGY,/u/Yogthos,5
+3,2017-06-17 02:59:15 -0500,"/t/linux,/t/release","Dedaemon, a program which manages displays and input devices and such like a desktop environment wou",https://github.com/mortie/dedaemon,/u/mort,9
+14,2017-06-16 18:26:13 -0500,/t/hardware,You Can’t Open the Microsoft Surface Laptop Without Literally Destroying It,https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+Teardown/92915,/u/pizzaiolo,16
+0,2017-06-17 05:46:15 -0500,/t/go,Minio - s3 compatible object store written in go,https://minio.io,/u/fkr,8
+0,2017-06-17 09:10:37 -0500,"/t/javascript,/t/programming",v1 of React Mirror (fractal state tree that decorates views with local stores),https://github.com/beyond-labs/react-mirror,/u/ashtonsix,2
+1,2017-06-16 19:10:58 -0500,/t/web,See OSM in your terminal (Braille & ASCII): blind friendly and cool,/s/cwzriv/see_osm_your_terminal_braille_ascii_blind,/u/pizzaiolo,9
+0,2017-06-16 12:37:00 -0500,/t/cryptocurrencies,How I Stole Your Siacoin,https://mtlynch.io/stole-siacoins/,/u/pushcx,27
+21,2017-06-16 06:12:19 -0500,"/t/job,/t/practices",Developers Who Use Spaces Make More Money Than Those Who Use Tabs,https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/,/u/quobit,24
+0,2017-06-16 19:23:35 -0500,"/t/performance,/t/programming",Life in the Fast Lane (D Garbage Collection),https://dlang.org/blog/2017/06/16/life-in-the-fast-lane/,/u/calvin,11
+0,2017-06-16 13:28:45 -0500,"/t/games,/t/lisp",A cross platform game in ~100% Scheme,https://www.reddit.com/r/scheme/comments/6hng3q/i_developed_a_medium_sized_cross_platform/,/u/bsima,19
+0,2017-06-16 12:26:07 -0500,"/t/privacy,/t/security",Facebook makes its anti-terrorist workers profiles public by mistake,https://qz.com/1008070/the-workers-who-police-terrorist-content-on-facebook-were-exposed-to-terrorists-by-facebook/,/u/vyodaiken,20
+1,2017-06-16 08:28:06 -0500,/t/release,calibre 3 released,https://github.com/kovidgoyal/calibre/releases,/u/steveno,28
+0,2017-06-17 04:58:17 -0500,"/t/video,/t/games",The Psychology Behind Video Game Sounds (Part I and II),https://www.youtube.com/watch?v=jlLPbLdHAJ0,/u/quobit,2
+2,2017-06-16 08:59:10 -0500,"/t/devops,/t/practices",Baking delicious cloud instances,https://blog.kintoandar.com/2017/06/Baking-delicious-cloud-instances.html,/u/kintoandar,7
+13,2017-06-15 21:22:49 -0500,"/t/art,/t/hardware","This Custom Built ""Commute Deck"" Makes it Easy to Work on the Go",http://makezine.com/2017/06/15/commute-deck-keyboard-device/,/u/friendlysock,27
+2,2017-06-16 11:22:19 -0500,"/t/art,/t/math",Tupper's self-referential formula,https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula,/u/flyingfisch,6
+0,2017-06-16 13:47:26 -0500,/t/crypto,Is SHA-3 slow?,http://keccak.noekeon.org/is_sha3_slow.html,/u/steveno,7
+0,2017-06-16 09:59:27 -0500,/t/javascript,TypeScript 2.3: Type-Checking JavaScript Files with --checkJs,https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs,/u/mariusschulz,4
+0,2017-06-16 12:58:27 -0500,"/t/design,/t/hardware",Fail of the Week: Museum Buttons,http://hackaday.com/2017/06/16/fail-of-the-week-museum-buttons/,/u/flyingfisch,5
+11,2017-06-16 03:29:58 -0500,"/t/api,/t/visualization","How we got 1,500 GitHub stars by mixing time-tested technology with a fresh UI",https://medium.freecodecamp.com/how-we-got-1-500-github-stars-by-mixing-time-tested-technology-with-a-fresh-ui-b310551cba22,/u/RomanHotsiy,2
+1,2017-06-16 16:34:53 -0500,"/t/pdf,/t/historical,/t/security",Using Proven Reference Monitor Patterns for Security Evaluation (2016),http://www.mdpi.com/2078-2489/7/2/23/pdf,/u/nickpsecurity,3

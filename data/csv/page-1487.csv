@@ -1,25 +1,25 @@
-1,2013-04-15 15:53:43 -0500,['/t/ios'],It's not a web app. It's an app you install from the web.,http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/,/u/tobym,5
-0,2013-04-15 14:29:43 -0500,['/t/javascript'],Duck-wrapping,http://brehaut.net/blog/2013/duck_wrapping,/u/puffnfresh,4
-0,2013-04-15 15:50:09 -0500,"['/t/book', '/t/python', '/t/security']",Hacking Secret Ciphers with Python (Free e-Book),http://inventwithpython.com/hacking/,/u/jcs,2
-0,2013-04-15 09:28:59 -0500,"['/t/release', '/t/security']",libcurl - tailmatching them cookies,http://daniel.haxx.se/blog/2013/04/15/tailmatching-them-cookies/,/u/lynge,3
-0,2013-04-15 14:29:32 -0500,['/t/security'],Chromium $31k reward paid out for chaining 3 vulnerabilities to code execution,http://googlechromereleases.blogspot.de/2013/04/stable-channel-update-for-chrome-os.html,/u/jcs,1
-0,2013-04-15 13:05:42 -0500,"['/t/android', '/t/reversing', '/t/security']",Android Application (Dalvik) Memory Analysis & The Chuli Malware,http://www.504ensics.com/android-application-dalvik-memory-analysis-the-chuli-malware/,/u/jcs,1
-0,2013-04-15 10:06:43 -0500,"['/t/javascript', '/t/programming']",Test-Driven Development with Jasmine Presentation,http://designpepper.com/blog/tdd-with-jasmine,/u/joshuacc,1
-0,2013-04-14 14:42:28 -0500,['/t/vcs'],Rework git core for native submodules,http://thread.gmane.org/gmane.comp.version-control.git/220047,/u/kyle,4
-0,2013-04-14 13:35:54 -0500,['/t/networking'],Maintaining A Publicly Available Blacklist - Mechanisms And Principles,http://bsdly.blogspot.com/2013/04/maintaining-publicly-available.html,/u/jcs,4
-0,2013-04-14 11:25:35 -0500,"['/t/c', '/t/event']",The 6th Underhanded C Contest is now Open,http://underhanded.xcott.com/?p=21,/u/jcs,4
-0,2013-04-13 21:26:00 -0500,['/t/go'],Apcera Case Study: The selection of the Go language,http://www.slideshare.net/derekcollison/go-conference-japan,/u/kyle,2
-0,2013-04-13 14:37:42 -0500,"['/t/show', '/t/unix']",xdimmer is a lightweight X11 utility to dim the screen backlight when idle,https://github.com/jcs/xdimmer,/u/jcs,4
-2,2013-04-13 14:04:08 -0500,"['/t/cryptocurrencies', '/t/news']",Now is the time to gamble on bitcoin,http://qz.com/74019,/u/sschaubs,0
-0,2013-04-12 23:56:02 -0500,"['/t/linux', '/t/reversing', '/t/security']",Forensic Analysis of Tor on Linux,https://blog.torproject.org/blog/forensic-analysis-tor-linux,/u/jcs,1
-0,2013-04-12 16:23:00 -0500,"['/t/networking', '/t/privacy', '/t/security']",The Differences Between Onion Routing and Mix Networks,https://crypto.is/blog/mix_and_onion_networks,/u/kyle,2
-4,2013-04-11 22:11:22 -0500,"['/t/show', '/t/hardware']",My Payphone Project,https://github.com/jcs/payphone,/u/jcs,13
-0,2013-04-12 09:26:56 -0500,"['/t/compsci', '/t/javascript', '/t/lisp']",Lists out of lambdas and boxes out of functions,http://bendyworks.com/geekville/articles/2013/4/lists-out-of-lambdas-and-boxes-out-of-functions,/u/twopoint718,2
-0,2013-04-12 08:56:01 -0500,['/t/security'],A beginner’s guide to building botnets—with little assembly required,http://arstechnica.com/security/2013/04/a-beginners-guide-to-building-botnets-with-little-assembly-required/,/u/kyle,2
-0,2013-04-12 12:05:47 -0500,['/t/law'],"Abolish The Patent, Vanquish The Troll",https://www.rackspace.com/blog/abolish-the-patent-vanquish-the-troll/,/u/jcs,1
-0,2013-04-12 11:08:21 -0500,"['/t/api', '/t/hardware']",Google Glass' The Mirror API - How It Works,http://www.i-programmer.info/news/91-hardware/5726-google-glass-the-mirror-api-how-it-works.html,/u/dansitu,1
-1,2013-04-11 11:53:15 -0500,"['/t/video', '/t/compsci', '/t/games']",Computer program that learns to play classic NES games,https://www.youtube.com/watch?v=xOCurBYI_gY,/u/jcs,8
-1,2013-04-11 08:52:33 -0500,['/t/security'],Managing SSH Keys for Automated Access - Current Recommended Practice,https://datatracker.ietf.org/doc/draft-ylonen-sshkeybcp/?include_text=1,/u/lynge,5
-3,2013-04-11 11:06:02 -0500,['/t/security'],Hijacking airplanes with an Android phone,http://net-security.org/secworld.php?id=14733,/u/kyle,3
-0,2013-04-11 10:43:29 -0500,['/t/ruby'],Ruby’s Missing Data Structure,http://rubysource.com/rubys-missing-data-structure/,/u/jcs,2
-0,2013-04-11 10:58:33 -0500,"['/t/javascript', '/t/web']",Nodewar (a web-based AI programming game),http://nodewar.com/,/u/joshuacc,1
+1,2013-04-15 15:53:43 -0500,/t/ios,It's not a web app. It's an app you install from the web.,http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/,/u/tobym,5
+0,2013-04-15 14:29:43 -0500,/t/javascript,Duck-wrapping,http://brehaut.net/blog/2013/duck_wrapping,/u/puffnfresh,4
+0,2013-04-15 15:50:09 -0500,"/t/book,/t/python,/t/security",Hacking Secret Ciphers with Python (Free e-Book),http://inventwithpython.com/hacking/,/u/jcs,2
+0,2013-04-15 09:28:59 -0500,"/t/release,/t/security",libcurl - tailmatching them cookies,http://daniel.haxx.se/blog/2013/04/15/tailmatching-them-cookies/,/u/lynge,3
+0,2013-04-15 14:29:32 -0500,/t/security,Chromium $31k reward paid out for chaining 3 vulnerabilities to code execution,http://googlechromereleases.blogspot.de/2013/04/stable-channel-update-for-chrome-os.html,/u/jcs,1
+0,2013-04-15 13:05:42 -0500,"/t/android,/t/reversing,/t/security",Android Application (Dalvik) Memory Analysis & The Chuli Malware,http://www.504ensics.com/android-application-dalvik-memory-analysis-the-chuli-malware/,/u/jcs,1
+0,2013-04-15 10:06:43 -0500,"/t/javascript,/t/programming",Test-Driven Development with Jasmine Presentation,http://designpepper.com/blog/tdd-with-jasmine,/u/joshuacc,1
+0,2013-04-14 14:42:28 -0500,/t/vcs,Rework git core for native submodules,http://thread.gmane.org/gmane.comp.version-control.git/220047,/u/kyle,4
+0,2013-04-14 13:35:54 -0500,/t/networking,Maintaining A Publicly Available Blacklist - Mechanisms And Principles,http://bsdly.blogspot.com/2013/04/maintaining-publicly-available.html,/u/jcs,4
+0,2013-04-14 11:25:35 -0500,"/t/c,/t/event",The 6th Underhanded C Contest is now Open,http://underhanded.xcott.com/?p=21,/u/jcs,4
+0,2013-04-13 21:26:00 -0500,/t/go,Apcera Case Study: The selection of the Go language,http://www.slideshare.net/derekcollison/go-conference-japan,/u/kyle,2
+0,2013-04-13 14:37:42 -0500,"/t/show,/t/unix",xdimmer is a lightweight X11 utility to dim the screen backlight when idle,https://github.com/jcs/xdimmer,/u/jcs,4
+2,2013-04-13 14:04:08 -0500,"/t/cryptocurrencies,/t/news",Now is the time to gamble on bitcoin,http://qz.com/74019,/u/sschaubs,0
+0,2013-04-12 23:56:02 -0500,"/t/linux,/t/reversing,/t/security",Forensic Analysis of Tor on Linux,https://blog.torproject.org/blog/forensic-analysis-tor-linux,/u/jcs,1
+0,2013-04-12 16:23:00 -0500,"/t/networking,/t/privacy,/t/security",The Differences Between Onion Routing and Mix Networks,https://crypto.is/blog/mix_and_onion_networks,/u/kyle,2
+4,2013-04-11 22:11:22 -0500,"/t/show,/t/hardware",My Payphone Project,https://github.com/jcs/payphone,/u/jcs,13
+0,2013-04-12 09:26:56 -0500,"/t/compsci,/t/javascript,/t/lisp",Lists out of lambdas and boxes out of functions,http://bendyworks.com/geekville/articles/2013/4/lists-out-of-lambdas-and-boxes-out-of-functions,/u/twopoint718,2
+0,2013-04-12 08:56:01 -0500,/t/security,A beginner’s guide to building botnets—with little assembly required,http://arstechnica.com/security/2013/04/a-beginners-guide-to-building-botnets-with-little-assembly-required/,/u/kyle,2
+0,2013-04-12 12:05:47 -0500,/t/law,"Abolish The Patent, Vanquish The Troll",https://www.rackspace.com/blog/abolish-the-patent-vanquish-the-troll/,/u/jcs,1
+0,2013-04-12 11:08:21 -0500,"/t/api,/t/hardware",Google Glass' The Mirror API - How It Works,http://www.i-programmer.info/news/91-hardware/5726-google-glass-the-mirror-api-how-it-works.html,/u/dansitu,1
+1,2013-04-11 11:53:15 -0500,"/t/video,/t/compsci,/t/games",Computer program that learns to play classic NES games,https://www.youtube.com/watch?v=xOCurBYI_gY,/u/jcs,8
+1,2013-04-11 08:52:33 -0500,/t/security,Managing SSH Keys for Automated Access - Current Recommended Practice,https://datatracker.ietf.org/doc/draft-ylonen-sshkeybcp/?include_text=1,/u/lynge,5
+3,2013-04-11 11:06:02 -0500,/t/security,Hijacking airplanes with an Android phone,http://net-security.org/secworld.php?id=14733,/u/kyle,3
+0,2013-04-11 10:43:29 -0500,/t/ruby,Ruby’s Missing Data Structure,http://rubysource.com/rubys-missing-data-structure/,/u/jcs,2
+0,2013-04-11 10:58:33 -0500,"/t/javascript,/t/web",Nodewar (a web-based AI programming game),http://nodewar.com/,/u/joshuacc,1

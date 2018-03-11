@@ -1,25 +1,25 @@
-0,2016-12-06 00:51:58 -0600,"['/t/c', '/t/linux']",Tutorial - Write a Shell in C,https://brennan.io/2015/01/16/write-a-shell-in-c/,/u/av,25
-0,2016-12-06 10:06:17 -0600,['/t/practices'],Mastery comes from failure,https://pragtob.wordpress.com/2016/12/06/mastery-comes-from-failure/,/u/PragTob,5
-1,2016-12-06 10:53:53 -0600,['/t/ml'],kni/mlton-string-concat: String concatenation for MLtone with help FFI call memmove,https://github.com/kni/mlton-string-concat,/u/lojikil,4
-1,2016-12-06 13:54:54 -0600,"['/t/distributed', '/t/hardware']",Dodging the Brick: Safely Updating IoT Devices in the Field,https://www.helium.com/blog/dodging-the-brick-how-helium-safely-updates-devices-in-the-field/,/u/silentbicycle,4
-9,2016-12-06 07:03:33 -0600,['/t/practices'],"The FSF Allows No Derivatives, And That's A Mistake",https://onpon4.github.io/other/fsf-no-derivatives/,/u/pizzaiolo,5
-2,2016-12-06 14:17:20 -0600,"['/t/api', '/t/devops', '/t/linux']",search slack data locally via grep,https://github.com/andrewarrow/localsdata,/u/andrewfromx,1
-4,2016-12-05 10:55:05 -0600,['/t/c'],Why does calloc exist?,https://vorpus.org/blog/why-does-calloc-exist/,/u/haxor,65
-2,2016-12-06 13:25:52 -0600,"['/t/browsers', '/t/web']",uBlock Origin for Safari,https://github.com/el1t/uBlock-Safari,/u/sathyabhat,2
-0,2016-12-06 21:56:47 -0600,"['/t/compsci', '/t/math']",IBM Research | | Ponder this,https://www.research.ibm.com/haifa/ponderthis/index.shtml,/u/davyjones,1
-2,2016-12-06 13:23:44 -0600,"['/t/programming', '/t/release']",Introducing Gomix – Gomix,https://medium.com/gomix/introducing-gomix-aec205c421cb,/u/sathyabhat,2
-39,2016-12-05 10:23:38 -0600,"['/t/haskell', '/t/practices', '/t/programming']",Disadvantages of purely functional programming,http://flyingfrogblog.blogspot.com/2016/05/disadvantages-of-purely-functional.html,/u/michaelochurch,34
-5,2016-12-05 07:50:43 -0600,"['/t/show', '/t/philosophy']","Read ""Meditations"" by Marcus Aurelius online.",http://directingmind.com,/u/s_kilk,33
-0,2016-12-06 13:47:13 -0600,['/t/practices'],Planio — Collaboration tool based on the open-source project Redmine,https://www.indiehackers.com/businesses/planio,/u/csallen,1
-0,2016-12-06 12:38:24 -0600,"['/t/video', '/t/crypto', '/t/security']","AWS re:Invent 2016: Encryption: It Was the Best of Controls, It Was the Worst of Controls (SAC306)",https://www.youtube.com/watch?v=zmMpgbIhCpw,/u/asthasr,3
-0,2016-12-06 16:52:49 -0600,"['/t/culture', '/t/linux']",An Ode to GNU/Linux Desktop Users Everywhere,https://levlaz.org/an-ode-to-linux-desktop-users-everywhere/,/u/pizzaiolo,3
-0,2016-12-06 17:40:56 -0600,['/t/swift'],Method Dispatch in Swift,https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/,/u/hypepat,1
-0,2016-12-06 16:40:25 -0600,"['/t/compsci', '/t/games', '/t/python']",Universe - software platform for measuring and training an AI's general intelligence,https://universe.openai.com/,/u/tf,1
-0,2016-12-06 17:25:06 -0600,['/t/javascript'],Are You A 10x JavaScript Developer?,http://thefullstack.xyz/10x-javascript-developer/,/u/dortzur,0
-0,2016-12-06 11:30:55 -0600,"['/t/video', '/t/event']",Links to YouTube recordings of AWS re:Invent sessions,https://gist.github.com/stevenringo/5f0f9cc7b329dbaa76f495a6af8241e9,/u/asthasr,2
-7,2016-12-05 10:01:21 -0600,"['/t/lisp', '/t/practices', '/t/programming']",Programming by poking: why MIT stopped teaching SICP,http://lambda-the-ultimate.org/node/5335,/u/michaelochurch,22
-28,2016-12-05 15:26:00 -0600,['/t/python'],Planning an Early Death for Python 2 (2015),http://carreau.github.io/posts/planning-an-early-death-for-python-2.html,/u/quobit,11
-11,2016-12-05 17:51:34 -0600,"['/t/databases', '/t/ruby']",Rails 5.1: Default Primary Keys Are Now BIGINT,http://www.mccartie.com/2016/12/05/rails-5.1.html,/u/calebthompson,8
-0,2016-12-06 06:46:31 -0600,"['/t/pdf', '/t/security']",Pegasus Spyware Technical Analysis,https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf,/u/mr-foobar,3
-0,2016-12-06 13:13:25 -0600,['/t/web'],Embracing Event-Driven Microservices,http://blog.runnable.com/post/154101163771/embracing-event-driven-microservices,/u/taylor,1
-4,2016-12-05 13:35:31 -0600,"['/t/hardware', '/t/reversing']",Secure Rom extraction on iPhone 6s,http://ramtin-amin.fr/#nvmedma,/u/355E3B,15
+0,2016-12-06 00:51:58 -0600,"/t/c,/t/linux",Tutorial - Write a Shell in C,https://brennan.io/2015/01/16/write-a-shell-in-c/,/u/av,25
+0,2016-12-06 10:06:17 -0600,/t/practices,Mastery comes from failure,https://pragtob.wordpress.com/2016/12/06/mastery-comes-from-failure/,/u/PragTob,5
+1,2016-12-06 10:53:53 -0600,/t/ml,kni/mlton-string-concat: String concatenation for MLtone with help FFI call memmove,https://github.com/kni/mlton-string-concat,/u/lojikil,4
+1,2016-12-06 13:54:54 -0600,"/t/distributed,/t/hardware",Dodging the Brick: Safely Updating IoT Devices in the Field,https://www.helium.com/blog/dodging-the-brick-how-helium-safely-updates-devices-in-the-field/,/u/silentbicycle,4
+9,2016-12-06 07:03:33 -0600,/t/practices,"The FSF Allows No Derivatives, And That's A Mistake",https://onpon4.github.io/other/fsf-no-derivatives/,/u/pizzaiolo,5
+2,2016-12-06 14:17:20 -0600,"/t/api,/t/devops,/t/linux",search slack data locally via grep,https://github.com/andrewarrow/localsdata,/u/andrewfromx,1
+4,2016-12-05 10:55:05 -0600,/t/c,Why does calloc exist?,https://vorpus.org/blog/why-does-calloc-exist/,/u/haxor,65
+2,2016-12-06 13:25:52 -0600,"/t/browsers,/t/web",uBlock Origin for Safari,https://github.com/el1t/uBlock-Safari,/u/sathyabhat,2
+0,2016-12-06 21:56:47 -0600,"/t/compsci,/t/math",IBM Research | | Ponder this,https://www.research.ibm.com/haifa/ponderthis/index.shtml,/u/davyjones,1
+2,2016-12-06 13:23:44 -0600,"/t/programming,/t/release",Introducing Gomix – Gomix,https://medium.com/gomix/introducing-gomix-aec205c421cb,/u/sathyabhat,2
+39,2016-12-05 10:23:38 -0600,"/t/haskell,/t/practices,/t/programming",Disadvantages of purely functional programming,http://flyingfrogblog.blogspot.com/2016/05/disadvantages-of-purely-functional.html,/u/michaelochurch,34
+5,2016-12-05 07:50:43 -0600,"/t/show,/t/philosophy","Read ""Meditations"" by Marcus Aurelius online.",http://directingmind.com,/u/s_kilk,33
+0,2016-12-06 13:47:13 -0600,/t/practices,Planio — Collaboration tool based on the open-source project Redmine,https://www.indiehackers.com/businesses/planio,/u/csallen,1
+0,2016-12-06 12:38:24 -0600,"/t/video,/t/crypto,/t/security","AWS re:Invent 2016: Encryption: It Was the Best of Controls, It Was the Worst of Controls (SAC306)",https://www.youtube.com/watch?v=zmMpgbIhCpw,/u/asthasr,3
+0,2016-12-06 16:52:49 -0600,"/t/culture,/t/linux",An Ode to GNU/Linux Desktop Users Everywhere,https://levlaz.org/an-ode-to-linux-desktop-users-everywhere/,/u/pizzaiolo,3
+0,2016-12-06 17:40:56 -0600,/t/swift,Method Dispatch in Swift,https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/,/u/hypepat,1
+0,2016-12-06 16:40:25 -0600,"/t/compsci,/t/games,/t/python",Universe - software platform for measuring and training an AI's general intelligence,https://universe.openai.com/,/u/tf,1
+0,2016-12-06 17:25:06 -0600,/t/javascript,Are You A 10x JavaScript Developer?,http://thefullstack.xyz/10x-javascript-developer/,/u/dortzur,0
+0,2016-12-06 11:30:55 -0600,"/t/video,/t/event",Links to YouTube recordings of AWS re:Invent sessions,https://gist.github.com/stevenringo/5f0f9cc7b329dbaa76f495a6af8241e9,/u/asthasr,2
+7,2016-12-05 10:01:21 -0600,"/t/lisp,/t/practices,/t/programming",Programming by poking: why MIT stopped teaching SICP,http://lambda-the-ultimate.org/node/5335,/u/michaelochurch,22
+28,2016-12-05 15:26:00 -0600,/t/python,Planning an Early Death for Python 2 (2015),http://carreau.github.io/posts/planning-an-early-death-for-python-2.html,/u/quobit,11
+11,2016-12-05 17:51:34 -0600,"/t/databases,/t/ruby",Rails 5.1: Default Primary Keys Are Now BIGINT,http://www.mccartie.com/2016/12/05/rails-5.1.html,/u/calebthompson,8
+0,2016-12-06 06:46:31 -0600,"/t/pdf,/t/security",Pegasus Spyware Technical Analysis,https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf,/u/mr-foobar,3
+0,2016-12-06 13:13:25 -0600,/t/web,Embracing Event-Driven Microservices,http://blog.runnable.com/post/154101163771/embracing-event-driven-microservices,/u/taylor,1
+4,2016-12-05 13:35:31 -0600,"/t/hardware,/t/reversing",Secure Rom extraction on iPhone 6s,http://ramtin-amin.fr/#nvmedma,/u/355E3B,15

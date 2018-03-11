@@ -1,25 +1,25 @@
-0,2017-08-18 21:19:22 -0500,['/t/graphics'],Making Visible Watermarks More Effective,https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html,/u/calvin,1
-3,2017-08-18 02:19:26 -0500,['/t/ai'],Must-read papers about image classification using deep learning,https://www.linkedin.com/pulse/must-read-path-breaking-papers-image-classification-muktabh-mayank,/u/parth,10
-0,2017-08-18 10:10:42 -0500,"['/t/video', '/t/haskell']",Lock-step simulation is child’s play,https://www.youtube.com/watch?v=2kKvVe673MA,/u/mightybyte,5
-0,2017-08-18 00:27:35 -0500,['/t/openbsd'],t2k17 Hackathon Report: Ted Unangst OpenBSD with more ptys,http://undeadly.org/cgi?action=article&sid=20170818052509,/u/nayden,15
-0,2017-08-18 10:05:09 -0500,['/t/databases'],How Hardware Drives The Shape Of Databases To Come,https://www.nextplatform.com/2017/08/15/hardware-drives-shape-databases-come/,/u/eddelbuettel,4
-0,2017-08-18 17:38:54 -0500,['/t/privacy'],Fascinating Glimpse Into Police Investigation,https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1360c903,/u/calvin,1
-4,2017-08-17 23:32:49 -0500,"['/t/javascript', '/t/programming']",Ninja Code,https://javascript.info/ninja-code,/u/nhooyr,8
-4,2017-08-17 15:05:23 -0500,"['/t/hardware', '/t/openbsd']",Smartisan Makes Another Iridium Donation to the OpenBSD Foundation,http://undeadly.org/cgi?action=article&sid=20170817195416,/u/cnst,21
-5,2017-08-17 20:28:10 -0500,"['/t/compsci', '/t/haskell']","A study of 4 Money class designs, featuring Martin Fowler, Kent Beck and Ward Cunningham implementations.",https://deque.blog/2017/08/17/a-study-of-4-money-class-designs-featuring-martin-fowler-kent-beck-and-ward-cunningham-implementations/,/u/calvin,8
-1,2017-08-17 20:29:30 -0500,['/t/databases'],The Night the PostgreSQL IDs Ran Out,https://medium.com/@jakswa/the-night-the-postgresql-ids-ran-out-9430a2dbb895,/u/calvin,12
-2,2017-08-17 18:12:58 -0500,['/t/erlang'],Install and Monitor Erlang Releases in Kubernetes with Helm + Prometheus,https://spacetimeinsight.com/installing-monitoring-erlang-releases-kubernetes-helm-prometheus/,/u/tristan,8
-0,2017-08-18 11:28:03 -0500,"['/t/ruby', '/t/testing', '/t/web']",Testing a Feature with Rails and RSpec: A deep dive,https://chrisherring.co/posts/testing-a-feature-with-rails-and-rspec-a-deep-dive,/u/pushcx,2
-9,2017-08-17 11:32:01 -0500,['/t/networking'],"HTTP status 451: ""removed for legal [or government censorship] reasons""",https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451,/u/kevinSuttle,17
-1,2017-08-18 03:13:16 -0500,"['/t/historical', '/t/person', '/t/python']","Glyph Lefkowitz: birth of Twisted, how influenced Python and his views on ethics",http://pyfound.blogspot.com/2017/08/the-ethical-maintainer-community.html,/u/quobit,4
-2,2017-08-18 10:24:32 -0500,['/t/hardware'],Chromatron - Open Source LED Controlling Software and Hardware,https://kickstarter.com/projects/1286098094/chromatron-wifi-pixel-controller,/u/schneems,1
-0,2017-08-18 06:09:49 -0500,['/t/databases'],MySQL 8.0: Retiring Support for the Query Cache,http://mysqlserverteam.com/mysql-8-0-retiring-support-for-the-query-cache/,/u/pgl,3
-8,2017-08-17 03:38:08 -0500,"['/t/slides', '/t/design', '/t/web']",SVG can do THAT?!,http://slides.com/sdrasner/svg-can-do-that,/u/emrox,42
-0,2017-08-17 14:09:13 -0500,['/t/networking'],How fast are those packets moving?,http://blog.wesleyac.com/posts/ping-lightspeed,/u/dl,17
-10,2017-08-17 15:48:53 -0500,"['/t/api', '/t/linux', '/t/programming', '/t/security']",no stable api nonsense,https://dri.freedesktop.org/docs/drm/process/stable-api-nonsense.html#stable-kernel-source-interfaces,/u/cnst,7
-2,2017-08-18 16:27:28 -0500,"['/t/rant', '/t/science']",What do flat Earthers think about Monday's solar eclipse?,http://www.phillyvoice.com/ask-hickey-what-are-flat-earthers-saying-about-mondays-eclipse/,/u/trn,1
-0,2017-08-18 10:45:30 -0500,"['/t/pdf', '/t/networking', '/t/security']","A Longitudinal, End-to-End View of the DNSSEC Ecosystem",https://mislove.org/publications/DNSSEC-SECURITY.pdf,/u/kb,1
-0,2017-08-18 10:25:10 -0500,"['/t/javascript', '/t/practices']",How to think like a programmer,https://zellwk.com/blog/think/,/u/Thai,1
-2,2017-08-17 16:38:12 -0500,['/t/browsers'],The coming WebKitGTK+ 2.4 apocalypse,https://lwn.net/Articles/730185/,/u/calvin,7
-15,2017-08-17 05:44:11 -0500,"['/t/programming', '/t/unix']",Afraid of Makefiles? Don't be!,https://matthias-endler.de/2017/makefiles/,/u/calvin,18
-0,2017-08-18 10:48:56 -0500,"['/t/culture', '/t/practices']",Tech companies: make remote work part of your diversity and inclusion efforts.,https://medium.com/@margotcodes/tech-companies-make-remote-work-part-of-your-diversity-and-inclusion-efforts-b100ab74bf97,/u/kevinSuttle,2
+0,2017-08-18 21:19:22 -0500,/t/graphics,Making Visible Watermarks More Effective,https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html,/u/calvin,1
+3,2017-08-18 02:19:26 -0500,/t/ai,Must-read papers about image classification using deep learning,https://www.linkedin.com/pulse/must-read-path-breaking-papers-image-classification-muktabh-mayank,/u/parth,10
+0,2017-08-18 10:10:42 -0500,"/t/video,/t/haskell",Lock-step simulation is child’s play,https://www.youtube.com/watch?v=2kKvVe673MA,/u/mightybyte,5
+0,2017-08-18 00:27:35 -0500,/t/openbsd,t2k17 Hackathon Report: Ted Unangst OpenBSD with more ptys,http://undeadly.org/cgi?action=article&sid=20170818052509,/u/nayden,15
+0,2017-08-18 10:05:09 -0500,/t/databases,How Hardware Drives The Shape Of Databases To Come,https://www.nextplatform.com/2017/08/15/hardware-drives-shape-databases-come/,/u/eddelbuettel,4
+0,2017-08-18 17:38:54 -0500,/t/privacy,Fascinating Glimpse Into Police Investigation,https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1360c903,/u/calvin,1
+4,2017-08-17 23:32:49 -0500,"/t/javascript,/t/programming",Ninja Code,https://javascript.info/ninja-code,/u/nhooyr,8
+4,2017-08-17 15:05:23 -0500,"/t/hardware,/t/openbsd",Smartisan Makes Another Iridium Donation to the OpenBSD Foundation,http://undeadly.org/cgi?action=article&sid=20170817195416,/u/cnst,21
+5,2017-08-17 20:28:10 -0500,"/t/compsci,/t/haskell","A study of 4 Money class designs, featuring Martin Fowler, Kent Beck and Ward Cunningham implementations.",https://deque.blog/2017/08/17/a-study-of-4-money-class-designs-featuring-martin-fowler-kent-beck-and-ward-cunningham-implementations/,/u/calvin,8
+1,2017-08-17 20:29:30 -0500,/t/databases,The Night the PostgreSQL IDs Ran Out,https://medium.com/@jakswa/the-night-the-postgresql-ids-ran-out-9430a2dbb895,/u/calvin,12
+2,2017-08-17 18:12:58 -0500,/t/erlang,Install and Monitor Erlang Releases in Kubernetes with Helm + Prometheus,https://spacetimeinsight.com/installing-monitoring-erlang-releases-kubernetes-helm-prometheus/,/u/tristan,8
+0,2017-08-18 11:28:03 -0500,"/t/ruby,/t/testing,/t/web",Testing a Feature with Rails and RSpec: A deep dive,https://chrisherring.co/posts/testing-a-feature-with-rails-and-rspec-a-deep-dive,/u/pushcx,2
+9,2017-08-17 11:32:01 -0500,/t/networking,"HTTP status 451: ""removed for legal [or government censorship] reasons""",https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451,/u/kevinSuttle,17
+1,2017-08-18 03:13:16 -0500,"/t/historical,/t/person,/t/python","Glyph Lefkowitz: birth of Twisted, how influenced Python and his views on ethics",http://pyfound.blogspot.com/2017/08/the-ethical-maintainer-community.html,/u/quobit,4
+2,2017-08-18 10:24:32 -0500,/t/hardware,Chromatron - Open Source LED Controlling Software and Hardware,https://kickstarter.com/projects/1286098094/chromatron-wifi-pixel-controller,/u/schneems,1
+0,2017-08-18 06:09:49 -0500,/t/databases,MySQL 8.0: Retiring Support for the Query Cache,http://mysqlserverteam.com/mysql-8-0-retiring-support-for-the-query-cache/,/u/pgl,3
+8,2017-08-17 03:38:08 -0500,"/t/slides,/t/design,/t/web",SVG can do THAT?!,http://slides.com/sdrasner/svg-can-do-that,/u/emrox,42
+0,2017-08-17 14:09:13 -0500,/t/networking,How fast are those packets moving?,http://blog.wesleyac.com/posts/ping-lightspeed,/u/dl,17
+10,2017-08-17 15:48:53 -0500,"/t/api,/t/linux,/t/programming,/t/security",no stable api nonsense,https://dri.freedesktop.org/docs/drm/process/stable-api-nonsense.html#stable-kernel-source-interfaces,/u/cnst,7
+2,2017-08-18 16:27:28 -0500,"/t/rant,/t/science",What do flat Earthers think about Monday's solar eclipse?,http://www.phillyvoice.com/ask-hickey-what-are-flat-earthers-saying-about-mondays-eclipse/,/u/trn,1
+0,2017-08-18 10:45:30 -0500,"/t/pdf,/t/networking,/t/security","A Longitudinal, End-to-End View of the DNSSEC Ecosystem",https://mislove.org/publications/DNSSEC-SECURITY.pdf,/u/kb,1
+0,2017-08-18 10:25:10 -0500,"/t/javascript,/t/practices",How to think like a programmer,https://zellwk.com/blog/think/,/u/Thai,1
+2,2017-08-17 16:38:12 -0500,/t/browsers,The coming WebKitGTK+ 2.4 apocalypse,https://lwn.net/Articles/730185/,/u/calvin,7
+15,2017-08-17 05:44:11 -0500,"/t/programming,/t/unix",Afraid of Makefiles? Don't be!,https://matthias-endler.de/2017/makefiles/,/u/calvin,18
+0,2017-08-18 10:48:56 -0500,"/t/culture,/t/practices",Tech companies: make remote work part of your diversity and inclusion efforts.,https://medium.com/@margotcodes/tech-companies-make-remote-work-part-of-your-diversity-and-inclusion-efforts-b100ab74bf97,/u/kevinSuttle,2

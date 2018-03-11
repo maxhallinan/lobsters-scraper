@@ -1,25 +1,25 @@
-0,2017-11-08 11:36:53 -0600,"['/t/art', '/t/c']",Render Multimedia in Pure C,http://nullprogram.com/blog/2017/11/03/,/u/hobbes,20
-3,2017-11-08 16:39:24 -0600,"['/t/reversing', '/t/security']",afl-unicorn: Fuzzing Arbitrary Binary Code – Nathan Voss,https://medium.com/@njvoss299/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf,/u/isra17,10
-0,2017-11-09 05:29:44 -0600,"['/t/pdf', '/t/distributed', '/t/historical', '/t/unix']",Apollo Domain/OS Brochure (July 1988),http://bitsavers.org/pdf/apollo/brochures/Apollo_DomainOS_Brochure_Jul88.pdf,/u/calvin,2
-2,2017-11-09 05:06:13 -0600,"['/t/law', '/t/practices', '/t/rant']",What You Need to Know About the Conservancy / SFLC Dustup,http://www.rants.org/2017/11/conservancy_sflc_dispute/,/u/stsp,4
-0,2017-11-08 15:06:44 -0600,"['/t/emacs', '/t/lisp']","Emacs Horrors - Chirp, chirp",http://emacshorrors.com/posts/chirp-chirp.html,/u/JordiGH,11
-2,2017-11-09 03:52:01 -0600,"['/t/devops', '/t/web']",The cloud native application,https://reader.paperc.com/books/Cloud-Native-Java/857864/part-idm140126760070672,/u/talisoroker,1
-0,2017-11-09 07:41:28 -0600,['/t/clojure'],Functions Explained Through Patterns,http://blog.josephwilk.net/clojure/functions-explained-through-patterns.html,/u/Yogthos,1
-0,2017-11-08 16:15:25 -0600,['/t/databases'],Faster bulk loading in Postgres with copy,https://www.citusdata.com/blog/2017/11/08/faster-bulk-loading-in-postgresql-with-copy/,/u/craigkerstiens,4
-12,2017-11-07 22:51:09 -0600,['/t/security'],"$100,000 Bounty Claimed: Persistent Code Execution Vulnerability In Google Chrome OS",https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-chrome-os_27.html,/u/timetoplatypus,27
-9,2017-11-08 12:31:25 -0600,['/t/web'],"Subcafé, a self-review",https://medium.com/@lucianmarin/subcaf%C3%A9-a-self-review-d5493a6e57f6,/u/lucian,2
-0,2017-11-08 19:30:53 -0600,"['/t/ai', '/t/visualization']",Feature Visualization,https://distill.pub/2017/feature-visualization,/u/calvin,4
-4,2017-11-08 08:04:36 -0600,"['/t/css', '/t/design']","Web Typography: Designing Tables to be Read, Not Looked At",https://alistapart.com/article/web-typography-tables,/u/soulcutter,11
-3,2017-11-08 10:07:24 -0600,['/t/databases'],Redis Streams and the Unified Log,https://brandur.org/redis-streams,/u/lainon,8
-0,2017-11-09 02:46:26 -0600,"['/t/security', '/t/web']",The One Valuable Thing All Websites Have: Reputation (and Why It's Attractive to Phishers),https://www.troyhunt.com/the-one-valuable-thing-all-websites-have-reputation-and-why-its-attractive-to-phishers/,/u/pgl,1
-0,2017-11-08 02:35:45 -0600,"['/t/databases', '/t/devops', '/t/release']",Announcing Prometheus 2.0,https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/,/u/bbrazil,23
-1,2017-11-08 06:00:48 -0600,"['/t/hardware', '/t/netbsd']",NetBSD on Allwinner SoCs Update,https://blog.netbsd.org/tnf/entry/netbsd_on_allwinner_socs_update,/u/sevan,13
-1,2017-11-08 13:29:28 -0600,"['/t/pdf', '/t/compilers', '/t/performance']",A Catalogue Of Optimizing Transformations (1972),http://grosser.es/publications/ellen-1971-a-catalogue-of-optimizing-transformations.pdf,/u/pushcx,5
-0,2017-11-08 17:22:53 -0600,"['/t/api', '/t/ios', '/t/programming']",Built to Flex: View-based RESTful APIs,https://medium.com/aaptiv-engineering/built-to-flex-view-based-restful-apis-c5ad690f558c,/u/kathleenyanolatos,3
-3,2017-11-08 09:36:55 -0600,['/t/programming'],Why You Should Avoid a Canonical Data Model (2015),https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/,/u/pushcx,4
-1,2017-11-08 12:26:25 -0600,"['/t/compilers', '/t/dotnet', '/t/plt']",A DoS Attack against the C# Compiler,http://www.mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler/,/u/yumaikas,4
-1,2017-11-08 11:47:07 -0600,['/t/testing'],Docker-based utility for testing network failures and partitions in distributed applications,https://github.com/worstcase/blockade,/u/unbalancedparentheses,3
-1,2017-11-08 06:43:21 -0600,"['/t/c', '/t/formalmethods']",The Symbolic Maze (2010),https://feliam.wordpress.com/2010/10/07/the-symbolic-maze/,/u/pushcx,7
-70,2017-11-07 03:40:10 -0600,"['/t/hardware', '/t/person']",An Open Letter to Intel,http://www.cs.vu.nl/~ast/intel/,/u/av,80
-0,2017-11-08 09:07:20 -0600,['/t/testing'],Green tests and ham – Dr Seuss on the test pyramid,https://medium.com/ncr-edinburgh/green-tests-and-ham-b4694f90f7eb,/u/0hjc,3
-3,2017-11-07 17:35:44 -0600,['/t/cryptocurrencies'],Björkcoin: what’s behind Björk’s cryptocurrency album project,https://davidgerard.co.uk/blockchain/2017/11/07/bjorkcoin-whats-behind-bjorks-cryptocurrency-album-project/,/u/David_Gerard,11
+0,2017-11-08 11:36:53 -0600,"/t/art,/t/c",Render Multimedia in Pure C,http://nullprogram.com/blog/2017/11/03/,/u/hobbes,20
+3,2017-11-08 16:39:24 -0600,"/t/reversing,/t/security",afl-unicorn: Fuzzing Arbitrary Binary Code – Nathan Voss,https://medium.com/@njvoss299/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf,/u/isra17,10
+0,2017-11-09 05:29:44 -0600,"/t/pdf,/t/distributed,/t/historical,/t/unix",Apollo Domain/OS Brochure (July 1988),http://bitsavers.org/pdf/apollo/brochures/Apollo_DomainOS_Brochure_Jul88.pdf,/u/calvin,2
+2,2017-11-09 05:06:13 -0600,"/t/law,/t/practices,/t/rant",What You Need to Know About the Conservancy / SFLC Dustup,http://www.rants.org/2017/11/conservancy_sflc_dispute/,/u/stsp,4
+0,2017-11-08 15:06:44 -0600,"/t/emacs,/t/lisp","Emacs Horrors - Chirp, chirp",http://emacshorrors.com/posts/chirp-chirp.html,/u/JordiGH,11
+2,2017-11-09 03:52:01 -0600,"/t/devops,/t/web",The cloud native application,https://reader.paperc.com/books/Cloud-Native-Java/857864/part-idm140126760070672,/u/talisoroker,1
+0,2017-11-09 07:41:28 -0600,/t/clojure,Functions Explained Through Patterns,http://blog.josephwilk.net/clojure/functions-explained-through-patterns.html,/u/Yogthos,1
+0,2017-11-08 16:15:25 -0600,/t/databases,Faster bulk loading in Postgres with copy,https://www.citusdata.com/blog/2017/11/08/faster-bulk-loading-in-postgresql-with-copy/,/u/craigkerstiens,4
+12,2017-11-07 22:51:09 -0600,/t/security,"$100,000 Bounty Claimed: Persistent Code Execution Vulnerability In Google Chrome OS",https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-chrome-os_27.html,/u/timetoplatypus,27
+9,2017-11-08 12:31:25 -0600,/t/web,"Subcafé, a self-review",https://medium.com/@lucianmarin/subcaf%C3%A9-a-self-review-d5493a6e57f6,/u/lucian,2
+0,2017-11-08 19:30:53 -0600,"/t/ai,/t/visualization",Feature Visualization,https://distill.pub/2017/feature-visualization,/u/calvin,4
+4,2017-11-08 08:04:36 -0600,"/t/css,/t/design","Web Typography: Designing Tables to be Read, Not Looked At",https://alistapart.com/article/web-typography-tables,/u/soulcutter,11
+3,2017-11-08 10:07:24 -0600,/t/databases,Redis Streams and the Unified Log,https://brandur.org/redis-streams,/u/lainon,8
+0,2017-11-09 02:46:26 -0600,"/t/security,/t/web",The One Valuable Thing All Websites Have: Reputation (and Why It's Attractive to Phishers),https://www.troyhunt.com/the-one-valuable-thing-all-websites-have-reputation-and-why-its-attractive-to-phishers/,/u/pgl,1
+0,2017-11-08 02:35:45 -0600,"/t/databases,/t/devops,/t/release",Announcing Prometheus 2.0,https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/,/u/bbrazil,23
+1,2017-11-08 06:00:48 -0600,"/t/hardware,/t/netbsd",NetBSD on Allwinner SoCs Update,https://blog.netbsd.org/tnf/entry/netbsd_on_allwinner_socs_update,/u/sevan,13
+1,2017-11-08 13:29:28 -0600,"/t/pdf,/t/compilers,/t/performance",A Catalogue Of Optimizing Transformations (1972),http://grosser.es/publications/ellen-1971-a-catalogue-of-optimizing-transformations.pdf,/u/pushcx,5
+0,2017-11-08 17:22:53 -0600,"/t/api,/t/ios,/t/programming",Built to Flex: View-based RESTful APIs,https://medium.com/aaptiv-engineering/built-to-flex-view-based-restful-apis-c5ad690f558c,/u/kathleenyanolatos,3
+3,2017-11-08 09:36:55 -0600,/t/programming,Why You Should Avoid a Canonical Data Model (2015),https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/,/u/pushcx,4
+1,2017-11-08 12:26:25 -0600,"/t/compilers,/t/dotnet,/t/plt",A DoS Attack against the C# Compiler,http://www.mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler/,/u/yumaikas,4
+1,2017-11-08 11:47:07 -0600,/t/testing,Docker-based utility for testing network failures and partitions in distributed applications,https://github.com/worstcase/blockade,/u/unbalancedparentheses,3
+1,2017-11-08 06:43:21 -0600,"/t/c,/t/formalmethods",The Symbolic Maze (2010),https://feliam.wordpress.com/2010/10/07/the-symbolic-maze/,/u/pushcx,7
+70,2017-11-07 03:40:10 -0600,"/t/hardware,/t/person",An Open Letter to Intel,http://www.cs.vu.nl/~ast/intel/,/u/av,80
+0,2017-11-08 09:07:20 -0600,/t/testing,Green tests and ham – Dr Seuss on the test pyramid,https://medium.com/ncr-edinburgh/green-tests-and-ham-b4694f90f7eb,/u/0hjc,3
+3,2017-11-07 17:35:44 -0600,/t/cryptocurrencies,Björkcoin: what’s behind Björk’s cryptocurrency album project,https://davidgerard.co.uk/blockchain/2017/11/07/bjorkcoin-whats-behind-bjorks-cryptocurrency-album-project/,/u/David_Gerard,11

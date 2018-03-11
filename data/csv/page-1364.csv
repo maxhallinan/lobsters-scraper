@@ -1,25 +1,25 @@
-0,2014-03-24 00:30:44 -0500,['/t/javascript'],Duktape - embeddable Javascript engine,http://duktape.org/index.html,/u/jm,1
-0,2014-03-23 15:13:43 -0500,['/t/programming'],Range-Checks and Recklessness,http://prog21.dadgum.com/192.html,/u/kyle,4
-1,2014-03-23 16:48:39 -0500,"['/t/release', '/t/ruby']",synvert - convert ruby code to better syntax,https://github.com/xinminlabs/synvert,/u/jcs,2
-1,2014-03-23 08:09:49 -0500,"['/t/browsers', '/t/web']",Surfing Modern Web With Ancient Browsers (Sort Of),http://virtuallyfun.superglobalmegacorp.com/?p=3866,/u/journeysquid,5
-0,2014-03-23 11:52:00 -0500,"['/t/devops', '/t/ruby']",Faster puppet package installation with multipkg,http://probablyfine.co.uk/2014/03/21/faster-puppet-package-installation-with-multipkg/,/u/mrwilson,4
-0,2014-03-22 21:43:14 -0500,"['/t/programming', '/t/python']",Julia vs. Python: Monte Carlo Simulations of Bitcoin Options,http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/,/u/mattk,11
-0,2014-03-23 10:21:28 -0500,"['/t/pdf', '/t/databases']",Improved Query Performance with Variant Indexes,http://www.cs.duke.edu/courses/spring03/cps216/papers/oneil-quass-1997.pdf,/u/SeanTAllen,2
-3,2014-03-22 19:18:06 -0500,['/t/hardware'],NwAvGuy: The Audio Genius Who Vanished - IEEE Spectrum,http://spectrum.ieee.org/geek-life/profiles/nwavguy-the-audio-genius-who-vanished,/u/AdamGibbins,9
-0,2014-03-23 12:11:50 -0500,"['/t/api', '/t/javascript', '/t/web']",Attach server-side pagination to anything (AngularJS),https://github.com/begriffs/angular-paginate-anything,/u/begriffs,1
-0,2014-03-23 10:21:05 -0500,"['/t/javascript', '/t/practices', '/t/programming']",Experimenting with Gremlins.js and the canvas tag,http://learnjs.io/blog/2014/03/17/experimenting-with-gremlinsjs-and-the-canvas-tag/,/u/jm,1
-0,2014-03-22 10:55:18 -0500,['/t/vcs'],Explain Git with D3,http://www.wei-wang.com/ExplainGitWithD3/#,/u/jm,19
-1,2014-03-22 16:23:02 -0500,"['/t/c', '/t/networking']",BusyBee: a high-performance messaging layer,https://github.com/rescrv/busybee,/u/vjoel,6
-1,2014-03-22 15:11:48 -0500,"['/t/linux', '/t/unix']",Shell startup scripts,http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html,/u/zem,7
-0,2014-03-23 02:59:52 -0500,"['/t/culture', '/t/games']","Japan used to rule video games, so what happened?",http://www.theverge.com/2014/3/20/5522320/final-fight-can-japans-gaming-industry-be-saved,/u/zem,2
-0,2014-03-22 17:18:27 -0500,"['/t/compilers', '/t/linux']",compiler hardening in Ubuntu and Debian,http://www.outflux.net/blog/archives/2014/02/03/compiler-hardening-in-ubuntu-and-debian/,/u/jm,3
-0,2014-03-22 18:45:08 -0500,"['/t/browsers', '/t/java', '/t/programming', '/t/web']",Scripted Selenium,https://bitbucket.org/djarvis/scripted-selenium/,/u/thangalin,2
-0,2014-03-22 16:46:54 -0500,"['/t/culture', '/t/rant']",Is npm worth $2.6MM?,http://words.steveklabnik.com/is-npm-worth-26mm,/u/trousers,9
-0,2014-03-22 00:00:32 -0500,['/t/security'],"BLAKE2: “Harder, Better, Faster, Stronger” Than MD5",https://leastauthority.com/blog/BLAKE2-harder-better-faster-stronger-than-MD5.html,/u/kyle,15
-0,2014-03-22 16:37:52 -0500,"['/t/law', '/t/practices']","Apple and Googles wage-fixing cartel involved dozens more companies, over one million employees",http://pando.com/2014/03/22/revealed-apple-and-googles-wage-fixing-cartel-involved-dozens-more-companies-over-one-million-employees/,/u/journeysquid,1
-0,2014-03-22 15:35:57 -0500,['/t/web'],Grid Style Sheets reimagines CSS layout,http://gridstylesheets.org,/u/SeanTAllen,1
-7,2014-03-21 16:00:21 -0500,"['/t/javascript', '/t/security']",Newly Paranoid Maintainers,http://blog.npmjs.org/post/80277229932/newly-paranoid-maintainers,/u/tedu,8
-20,2014-03-21 19:42:57 -0500,['/t/meta'],"Hacker News implementing a ""pending"" comments",https://news.ycombinator.com/item?id=7445761,/u/kb,17
-0,2014-03-22 16:58:30 -0500,"['/t/pdf', '/t/event']",Study: the gap between online and offline participation,http://arxiv.org/pdf/1311.0663v1.pdf,/u/polydaic,0
-0,2014-03-21 15:42:34 -0500,['/t/vim'],12 Tips To Boost Your Vim Productivity,http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/,/u/wting,13
-8,2014-03-20 22:59:10 -0500,['/t/databases'],Postgres full-text search is Good Enough!,http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough,/u/xyz,25
+0,2014-03-24 00:30:44 -0500,/t/javascript,Duktape - embeddable Javascript engine,http://duktape.org/index.html,/u/jm,1
+0,2014-03-23 15:13:43 -0500,/t/programming,Range-Checks and Recklessness,http://prog21.dadgum.com/192.html,/u/kyle,4
+1,2014-03-23 16:48:39 -0500,"/t/release,/t/ruby",synvert - convert ruby code to better syntax,https://github.com/xinminlabs/synvert,/u/jcs,2
+1,2014-03-23 08:09:49 -0500,"/t/browsers,/t/web",Surfing Modern Web With Ancient Browsers (Sort Of),http://virtuallyfun.superglobalmegacorp.com/?p=3866,/u/journeysquid,5
+0,2014-03-23 11:52:00 -0500,"/t/devops,/t/ruby",Faster puppet package installation with multipkg,http://probablyfine.co.uk/2014/03/21/faster-puppet-package-installation-with-multipkg/,/u/mrwilson,4
+0,2014-03-22 21:43:14 -0500,"/t/programming,/t/python",Julia vs. Python: Monte Carlo Simulations of Bitcoin Options,http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/,/u/mattk,11
+0,2014-03-23 10:21:28 -0500,"/t/pdf,/t/databases",Improved Query Performance with Variant Indexes,http://www.cs.duke.edu/courses/spring03/cps216/papers/oneil-quass-1997.pdf,/u/SeanTAllen,2
+3,2014-03-22 19:18:06 -0500,/t/hardware,NwAvGuy: The Audio Genius Who Vanished - IEEE Spectrum,http://spectrum.ieee.org/geek-life/profiles/nwavguy-the-audio-genius-who-vanished,/u/AdamGibbins,9
+0,2014-03-23 12:11:50 -0500,"/t/api,/t/javascript,/t/web",Attach server-side pagination to anything (AngularJS),https://github.com/begriffs/angular-paginate-anything,/u/begriffs,1
+0,2014-03-23 10:21:05 -0500,"/t/javascript,/t/practices,/t/programming",Experimenting with Gremlins.js and the canvas tag,http://learnjs.io/blog/2014/03/17/experimenting-with-gremlinsjs-and-the-canvas-tag/,/u/jm,1
+0,2014-03-22 10:55:18 -0500,/t/vcs,Explain Git with D3,http://www.wei-wang.com/ExplainGitWithD3/#,/u/jm,19
+1,2014-03-22 16:23:02 -0500,"/t/c,/t/networking",BusyBee: a high-performance messaging layer,https://github.com/rescrv/busybee,/u/vjoel,6
+1,2014-03-22 15:11:48 -0500,"/t/linux,/t/unix",Shell startup scripts,http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html,/u/zem,7
+0,2014-03-23 02:59:52 -0500,"/t/culture,/t/games","Japan used to rule video games, so what happened?",http://www.theverge.com/2014/3/20/5522320/final-fight-can-japans-gaming-industry-be-saved,/u/zem,2
+0,2014-03-22 17:18:27 -0500,"/t/compilers,/t/linux",compiler hardening in Ubuntu and Debian,http://www.outflux.net/blog/archives/2014/02/03/compiler-hardening-in-ubuntu-and-debian/,/u/jm,3
+0,2014-03-22 18:45:08 -0500,"/t/browsers,/t/java,/t/programming,/t/web",Scripted Selenium,https://bitbucket.org/djarvis/scripted-selenium/,/u/thangalin,2
+0,2014-03-22 16:46:54 -0500,"/t/culture,/t/rant",Is npm worth $2.6MM?,http://words.steveklabnik.com/is-npm-worth-26mm,/u/trousers,9
+0,2014-03-22 00:00:32 -0500,/t/security,"BLAKE2: “Harder, Better, Faster, Stronger” Than MD5",https://leastauthority.com/blog/BLAKE2-harder-better-faster-stronger-than-MD5.html,/u/kyle,15
+0,2014-03-22 16:37:52 -0500,"/t/law,/t/practices","Apple and Googles wage-fixing cartel involved dozens more companies, over one million employees",http://pando.com/2014/03/22/revealed-apple-and-googles-wage-fixing-cartel-involved-dozens-more-companies-over-one-million-employees/,/u/journeysquid,1
+0,2014-03-22 15:35:57 -0500,/t/web,Grid Style Sheets reimagines CSS layout,http://gridstylesheets.org,/u/SeanTAllen,1
+7,2014-03-21 16:00:21 -0500,"/t/javascript,/t/security",Newly Paranoid Maintainers,http://blog.npmjs.org/post/80277229932/newly-paranoid-maintainers,/u/tedu,8
+20,2014-03-21 19:42:57 -0500,/t/meta,"Hacker News implementing a ""pending"" comments",https://news.ycombinator.com/item?id=7445761,/u/kb,17
+0,2014-03-22 16:58:30 -0500,"/t/pdf,/t/event",Study: the gap between online and offline participation,http://arxiv.org/pdf/1311.0663v1.pdf,/u/polydaic,0
+0,2014-03-21 15:42:34 -0500,/t/vim,12 Tips To Boost Your Vim Productivity,http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/,/u/wting,13
+8,2014-03-20 22:59:10 -0500,/t/databases,Postgres full-text search is Good Enough!,http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough,/u/xyz,25

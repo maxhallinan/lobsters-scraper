@@ -1,25 +1,25 @@
-0,2017-03-31 22:22:02 -0500,"['/t/compsci', '/t/javascript']",Combinator Recipes for Working With Objects in JavaScript,http://raganwald.com/2012/12/01/combinators-in-js.html,/u/pushcx,2
-4,2017-03-31 08:18:45 -0500,['/t/privacy'],Noiszy - a browser plugin that creates digital noise,https://noiszy.com/,/u/szalansky,7
-0,2017-03-31 15:57:33 -0500,"['/t/browsers', '/t/security']",Lastpass password manager suffers 'major' security problem,http://www.independent.co.uk/life-style/gadgets-and-tech/news/lastpass-hack-security-problem-password-manager-a7658806.html,/u/voidzero,4
-2,2017-03-31 11:16:31 -0500,"['/t/pdf', '/t/security']",Oops!...I think I scanned a malware,https://arxiv.org/pdf/1703.07751.pdf,/u/stsp,4
-1,2017-03-31 18:45:57 -0500,['/t/javascript'],Private state in JavaScript,https://codete.com/blog/private-state-javascript/,/u/loige,1
-0,2017-03-31 05:46:25 -0500,['/t/culture'],Questions for our first 1:1,http://larahogan.me/blog/first-one-on-one-questions/,/u/stig,18
-0,2017-03-31 05:19:59 -0500,"['/t/games', '/t/programming']",Simple chess AI — Step by step,https://medium.com/@lhartikk/simple-chess-ai-step-by-step-1d55a9266977,/u/calvin,10
-0,2017-03-31 20:49:25 -0500,"['/t/video', '/t/games', '/t/historical', '/t/practices']",Save Yourself: Game History is in Your Hands,http://gdcvault.com/play/1023959/Save-Yourself-Game-History-is,/u/calvin,1
-0,2017-03-31 07:56:34 -0500,['/t/security'],"Post-FCC Privacy Rules, Should You VPN?",https://krebsonsecurity.com/2017/03/post-fcc-privacy-rules-should-you-vpn/,/u/flyingfisch,6
-0,2017-03-31 10:28:12 -0500,"['/t/compsci', '/t/programming', '/t/unix']",Pratt Parsing Index and Updates,http://www.oilshell.org/blog/2017/03/31.html,/u/andyc,2
-0,2017-03-31 11:02:47 -0500,"['/t/devops', '/t/linux']",Linux VirtualSetSize Vs. ResidentSetSize,https://utcc.utoronto.ca/~cks/space/blog/linux/VirtualSizeVersusRSS,/u/lil_cain,4
-0,2017-03-31 10:38:15 -0500,['/t/science'],NASA's MAVEN Reveals Most of Mars' Atmosphere Was Lost to Space,https://www.nasa.gov/press-release/nasas-maven-reveals-most-of-mars-atmosphere-was-lost-to-space,/u/stsp,4
-0,2017-03-31 12:14:12 -0500,['/t/ruby'],Decorating ActiveRecord,https://robots.thoughtbot.com/decorating-activerecord,/u/soulcutter,3
-2,2017-03-30 12:48:44 -0500,"['/t/api', '/t/rust', '/t/web']",Building Realtime APIs in Rust,https://lord.io/blog/2017/backtalk/,/u/lord,23
-0,2017-03-31 05:04:33 -0500,"['/t/compilers', '/t/programming']","How I wrote a programming language, and how you can too",https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919,/u/av,6
-0,2017-03-31 13:06:35 -0500,['/t/historical'],CMU Artificial Intelligence Repository (1994),http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/0.html,/u/bsima,2
-0,2017-03-31 12:58:39 -0500,"['/t/video', '/t/java', '/t/lisp']",Clojure/West 2017,http://www.youtube.com/playlist?list=PLZdCLR02grLp4W4ySd1sHPOsK83gvqBQp,/u/tf,2
-0,2017-03-31 00:14:15 -0500,"['/t/games', '/t/practices', '/t/programming']",Thirteen Years of Bad Game Code,http://etodd.io/2017/03/29/thirteen-years-of-bad-game-code/,/u/ericdykstra,10
-39,2017-03-30 03:39:51 -0500,"['/t/c', '/t/programming']","Yes C is unsafe, but…",https://daniel.haxx.se/blog/2017/03/30/yes-c-is-unsafe-but/,/u/lynge,41
-1,2017-03-31 03:43:23 -0500,['/t/compilers'],Stochastic program optimization,https://blog.acolyer.org/2017/03/30/stochastic-program-optimization/,/u/xcombelle,4
-18,2017-03-30 12:14:35 -0500,"['/t/devops', '/t/unix']",A *nix cross-platform (OS agnostic) supervisor,https://immortal.run/,/u/tedu,14
-3,2017-03-30 13:00:03 -0500,['/t/programming'],"Pawns: A functional language supporting ""pointer assignment without nasty surprises""",http://people.eng.unimelb.edu.au/lee/src/pawns/,/u/zem,19
-0,2017-03-31 12:56:32 -0500,"['/t/mac', '/t/security']",Setting a custom FileVault (macOS FDE) passphrase,https://blog.filippo.io/filevault-2-custom-passphrase/,/u/jcs,1
-0,2017-03-31 05:16:34 -0500,"['/t/pdf', '/t/security']",Keyshuffling Attack for Persistent Early Code Execution in the Nintendo 3DS Secure Bootchain,https://github.com/Plailect/keyshuffling,/u/calvin,3
-1,2017-03-31 04:29:26 -0500,"['/t/pdf', '/t/security', '/t/virtualization']",Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud,https://cmaurice.fr/pdf/ndss17_maurice.pdf,/u/dege,3
+0,2017-03-31 22:22:02 -0500,"/t/compsci,/t/javascript",Combinator Recipes for Working With Objects in JavaScript,http://raganwald.com/2012/12/01/combinators-in-js.html,/u/pushcx,2
+4,2017-03-31 08:18:45 -0500,/t/privacy,Noiszy - a browser plugin that creates digital noise,https://noiszy.com/,/u/szalansky,7
+0,2017-03-31 15:57:33 -0500,"/t/browsers,/t/security",Lastpass password manager suffers 'major' security problem,http://www.independent.co.uk/life-style/gadgets-and-tech/news/lastpass-hack-security-problem-password-manager-a7658806.html,/u/voidzero,4
+2,2017-03-31 11:16:31 -0500,"/t/pdf,/t/security",Oops!...I think I scanned a malware,https://arxiv.org/pdf/1703.07751.pdf,/u/stsp,4
+1,2017-03-31 18:45:57 -0500,/t/javascript,Private state in JavaScript,https://codete.com/blog/private-state-javascript/,/u/loige,1
+0,2017-03-31 05:46:25 -0500,/t/culture,Questions for our first 1:1,http://larahogan.me/blog/first-one-on-one-questions/,/u/stig,18
+0,2017-03-31 05:19:59 -0500,"/t/games,/t/programming",Simple chess AI — Step by step,https://medium.com/@lhartikk/simple-chess-ai-step-by-step-1d55a9266977,/u/calvin,10
+0,2017-03-31 20:49:25 -0500,"/t/video,/t/games,/t/historical,/t/practices",Save Yourself: Game History is in Your Hands,http://gdcvault.com/play/1023959/Save-Yourself-Game-History-is,/u/calvin,1
+0,2017-03-31 07:56:34 -0500,/t/security,"Post-FCC Privacy Rules, Should You VPN?",https://krebsonsecurity.com/2017/03/post-fcc-privacy-rules-should-you-vpn/,/u/flyingfisch,6
+0,2017-03-31 10:28:12 -0500,"/t/compsci,/t/programming,/t/unix",Pratt Parsing Index and Updates,http://www.oilshell.org/blog/2017/03/31.html,/u/andyc,2
+0,2017-03-31 11:02:47 -0500,"/t/devops,/t/linux",Linux VirtualSetSize Vs. ResidentSetSize,https://utcc.utoronto.ca/~cks/space/blog/linux/VirtualSizeVersusRSS,/u/lil_cain,4
+0,2017-03-31 10:38:15 -0500,/t/science,NASA's MAVEN Reveals Most of Mars' Atmosphere Was Lost to Space,https://www.nasa.gov/press-release/nasas-maven-reveals-most-of-mars-atmosphere-was-lost-to-space,/u/stsp,4
+0,2017-03-31 12:14:12 -0500,/t/ruby,Decorating ActiveRecord,https://robots.thoughtbot.com/decorating-activerecord,/u/soulcutter,3
+2,2017-03-30 12:48:44 -0500,"/t/api,/t/rust,/t/web",Building Realtime APIs in Rust,https://lord.io/blog/2017/backtalk/,/u/lord,23
+0,2017-03-31 05:04:33 -0500,"/t/compilers,/t/programming","How I wrote a programming language, and how you can too",https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919,/u/av,6
+0,2017-03-31 13:06:35 -0500,/t/historical,CMU Artificial Intelligence Repository (1994),http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/0.html,/u/bsima,2
+0,2017-03-31 12:58:39 -0500,"/t/video,/t/java,/t/lisp",Clojure/West 2017,http://www.youtube.com/playlist?list=PLZdCLR02grLp4W4ySd1sHPOsK83gvqBQp,/u/tf,2
+0,2017-03-31 00:14:15 -0500,"/t/games,/t/practices,/t/programming",Thirteen Years of Bad Game Code,http://etodd.io/2017/03/29/thirteen-years-of-bad-game-code/,/u/ericdykstra,10
+39,2017-03-30 03:39:51 -0500,"/t/c,/t/programming","Yes C is unsafe, but…",https://daniel.haxx.se/blog/2017/03/30/yes-c-is-unsafe-but/,/u/lynge,41
+1,2017-03-31 03:43:23 -0500,/t/compilers,Stochastic program optimization,https://blog.acolyer.org/2017/03/30/stochastic-program-optimization/,/u/xcombelle,4
+18,2017-03-30 12:14:35 -0500,"/t/devops,/t/unix",A *nix cross-platform (OS agnostic) supervisor,https://immortal.run/,/u/tedu,14
+3,2017-03-30 13:00:03 -0500,/t/programming,"Pawns: A functional language supporting ""pointer assignment without nasty surprises""",http://people.eng.unimelb.edu.au/lee/src/pawns/,/u/zem,19
+0,2017-03-31 12:56:32 -0500,"/t/mac,/t/security",Setting a custom FileVault (macOS FDE) passphrase,https://blog.filippo.io/filevault-2-custom-passphrase/,/u/jcs,1
+0,2017-03-31 05:16:34 -0500,"/t/pdf,/t/security",Keyshuffling Attack for Persistent Early Code Execution in the Nintendo 3DS Secure Bootchain,https://github.com/Plailect/keyshuffling,/u/calvin,3
+1,2017-03-31 04:29:26 -0500,"/t/pdf,/t/security,/t/virtualization",Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud,https://cmaurice.fr/pdf/ndss17_maurice.pdf,/u/dege,3

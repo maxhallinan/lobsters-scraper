@@ -1,25 +1,25 @@
-2,2015-10-31 09:56:05 -0500,['/t/swift'],Swift extensions *can* add stored properties,https://medium.com/@ttikitu/swift-extensions-can-add-stored-properties-92db66bce6cd#.zrgg8tstu,/u/tikitu,1
-6,2015-10-30 17:12:22 -0500,['/t/unix'],Popular Unix Text Editors & How to Exit Them,http://darkdepths.net/popular-unix-text-editors-how-to-exit-them.html,/u/pushcx,18
-5,2015-10-31 06:31:33 -0500,"['/t/android', '/t/ios', '/t/mobile', '/t/privacy', '/t/windows']",Threema - Seriously secure messaging,https://threema.ch,/u/alek,3
-33,2015-10-30 01:47:37 -0500,['/t/vcs'],xkcd: Git,http://xkcd.com/1597/,/u/av,68
-0,2015-10-31 00:39:26 -0500,"['/t/video', '/t/c']",ToaruOS at 5 Years: A Closer Look at a Hobby OS,https://www.youtube.com/watch?v=Wp5kl-NfpM8,/u/zgrep,7
-3,2015-10-30 09:35:11 -0500,"['/t/games', '/t/linux']",Twitch Installs Arch Linux,https://www.twitchinstalls.com/,/u/pushcx,28
-3,2015-10-30 20:09:56 -0500,['/t/programming'],Halloween’s Here: Software Development Horror Stories,https://medium.com/@quilesbaker/halloween-s-here-software-development-horror-stories-59ba210034e4#.2mwyxwgll,/u/asipper,6
-0,2015-10-30 23:00:39 -0500,"['/t/law', '/t/security']",Crypto Rebels (1993),http://www.wired.com/1993/02/crypto-rebels/,/u/tedu,6
-2,2015-10-30 10:20:24 -0500,"['/t/assembly', '/t/hardware']",Why NASA Needs a Programmer Fluent In 60-Year-Old Code,http://www.popularmechanics.com/space/a17991/voyager-1-voyager-2-retiring-engineer/,/u/pushcx,15
-4,2015-10-30 09:59:41 -0500,"['/t/security', '/t/virtualization']",Xen Patches 7-Year-Old VM Escape Hypervisor Vulnerability,https://threatpost.com/xen-patches-7-year-old-vm-escape-hypervisor-vulnerability/115206/,/u/asthasr,15
-0,2015-10-30 15:45:48 -0500,"['/t/openbsd', '/t/person']",OpenBSD developers: Henning Brauer,http://beastie.pl/deweloperzy-openbsd-henning-brauer/,/u/mulander,12
-0,2015-10-30 16:57:27 -0500,"['/t/finance', '/t/programming']",Developing In Stockfighter With No Trading Experience,http://www.kalzumeus.com/2015/10/30/developing-in-stockfighter-with-no-trading-experience/,/u/pushcx,9
-0,2015-10-30 19:46:28 -0500,"['/t/math', '/t/science']",Blabr - Scientific computing for the web,http://blabr.io/,/u/tf,6
-5,2015-10-30 07:14:40 -0500,['/t/security'],1Password Leaks Your Data,http://myers.io/2015/10/22/1password-leaks-your-data/,/u/adsouza,12
-0,2015-10-30 20:24:59 -0500,"['/t/games', '/t/release']","WorldEngine: World generator using simulation of plates, rain shadow, erosion, etc.",https://github.com/Mindwerks/worldengine,/u/pushcx,5
-0,2015-10-30 17:31:50 -0500,['/t/haskell'],"FizzBuzz, A Deep Navel to Gaze Into",http://dave.fayr.am/posts/2012-10-4-finding-fizzbuzz.html,/u/mlitchard,7
-0,2015-10-30 15:53:47 -0500,['/t/law'],EFF asks appeals court to “shut down the Eastern District of Texas”,http://arstechnica.com/tech-policy/2015/10/eff-asks-appeals-court-to-shut-down-the-eastern-district-of-texas/,/u/adsouza,8
-0,2015-10-30 17:08:26 -0500,['/t/distributed'],The CAP FAQ,https://github.com/henryr/cap-faq,/u/pushcx,6
-0,2015-10-30 09:31:00 -0500,"['/t/c', '/t/person']",Dennis Ritchie Day,http://radar.oreilly.com/2011/10/dennis-ritchie-day.html,/u/pushcx,14
-62,2015-10-29 10:46:23 -0500,['/t/ask'],Screenshots from Lobsters Users (2015),/s/9ruzgw/screenshots_from_lobsters_users_2015,/u/pushcx,45
-0,2015-10-30 15:22:56 -0500,"['/t/databases', '/t/programming']",Writing Postgres Extensions - The Basics,http://big-elephants.com/2015-10/writing-postgres-extensions-part-i/,/u/pushcx,6
-0,2015-10-31 02:56:50 -0500,"['/t/design', '/t/graphics']",Glyph Bitmap Distribution Format,https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format,/u/apg,1
-21,2015-10-29 15:21:01 -0500,['/t/practices'],Interview Humiliation,http://deliberate-software.com/on-defeat/,/u/pushcx,40
-2,2015-10-30 09:38:53 -0500,['/t/privacy'],Have You Left a Money Trail on Venmo?,https://medium.com/@arankhanna/have-you-left-a-money-trail-on-venmo-d3676d624310#.1hzc11wp9,/u/pushcx,7
-0,2015-10-30 17:42:59 -0500,['/t/compsci'],Inductive Programming Meets the Real World,http://cacm.acm.org/magazines/2015/11/193326-inductive-programming-meets-the-real-world/fulltext,/u/mjn,3
+2,2015-10-31 09:56:05 -0500,/t/swift,Swift extensions *can* add stored properties,https://medium.com/@ttikitu/swift-extensions-can-add-stored-properties-92db66bce6cd#.zrgg8tstu,/u/tikitu,1
+6,2015-10-30 17:12:22 -0500,/t/unix,Popular Unix Text Editors & How to Exit Them,http://darkdepths.net/popular-unix-text-editors-how-to-exit-them.html,/u/pushcx,18
+5,2015-10-31 06:31:33 -0500,"/t/android,/t/ios,/t/mobile,/t/privacy,/t/windows",Threema - Seriously secure messaging,https://threema.ch,/u/alek,3
+33,2015-10-30 01:47:37 -0500,/t/vcs,xkcd: Git,http://xkcd.com/1597/,/u/av,68
+0,2015-10-31 00:39:26 -0500,"/t/video,/t/c",ToaruOS at 5 Years: A Closer Look at a Hobby OS,https://www.youtube.com/watch?v=Wp5kl-NfpM8,/u/zgrep,7
+3,2015-10-30 09:35:11 -0500,"/t/games,/t/linux",Twitch Installs Arch Linux,https://www.twitchinstalls.com/,/u/pushcx,28
+3,2015-10-30 20:09:56 -0500,/t/programming,Halloween’s Here: Software Development Horror Stories,https://medium.com/@quilesbaker/halloween-s-here-software-development-horror-stories-59ba210034e4#.2mwyxwgll,/u/asipper,6
+0,2015-10-30 23:00:39 -0500,"/t/law,/t/security",Crypto Rebels (1993),http://www.wired.com/1993/02/crypto-rebels/,/u/tedu,6
+2,2015-10-30 10:20:24 -0500,"/t/assembly,/t/hardware",Why NASA Needs a Programmer Fluent In 60-Year-Old Code,http://www.popularmechanics.com/space/a17991/voyager-1-voyager-2-retiring-engineer/,/u/pushcx,15
+4,2015-10-30 09:59:41 -0500,"/t/security,/t/virtualization",Xen Patches 7-Year-Old VM Escape Hypervisor Vulnerability,https://threatpost.com/xen-patches-7-year-old-vm-escape-hypervisor-vulnerability/115206/,/u/asthasr,15
+0,2015-10-30 15:45:48 -0500,"/t/openbsd,/t/person",OpenBSD developers: Henning Brauer,http://beastie.pl/deweloperzy-openbsd-henning-brauer/,/u/mulander,12
+0,2015-10-30 16:57:27 -0500,"/t/finance,/t/programming",Developing In Stockfighter With No Trading Experience,http://www.kalzumeus.com/2015/10/30/developing-in-stockfighter-with-no-trading-experience/,/u/pushcx,9
+0,2015-10-30 19:46:28 -0500,"/t/math,/t/science",Blabr - Scientific computing for the web,http://blabr.io/,/u/tf,6
+5,2015-10-30 07:14:40 -0500,/t/security,1Password Leaks Your Data,http://myers.io/2015/10/22/1password-leaks-your-data/,/u/adsouza,12
+0,2015-10-30 20:24:59 -0500,"/t/games,/t/release","WorldEngine: World generator using simulation of plates, rain shadow, erosion, etc.",https://github.com/Mindwerks/worldengine,/u/pushcx,5
+0,2015-10-30 17:31:50 -0500,/t/haskell,"FizzBuzz, A Deep Navel to Gaze Into",http://dave.fayr.am/posts/2012-10-4-finding-fizzbuzz.html,/u/mlitchard,7
+0,2015-10-30 15:53:47 -0500,/t/law,EFF asks appeals court to “shut down the Eastern District of Texas”,http://arstechnica.com/tech-policy/2015/10/eff-asks-appeals-court-to-shut-down-the-eastern-district-of-texas/,/u/adsouza,8
+0,2015-10-30 17:08:26 -0500,/t/distributed,The CAP FAQ,https://github.com/henryr/cap-faq,/u/pushcx,6
+0,2015-10-30 09:31:00 -0500,"/t/c,/t/person",Dennis Ritchie Day,http://radar.oreilly.com/2011/10/dennis-ritchie-day.html,/u/pushcx,14
+62,2015-10-29 10:46:23 -0500,/t/ask,Screenshots from Lobsters Users (2015),/s/9ruzgw/screenshots_from_lobsters_users_2015,/u/pushcx,45
+0,2015-10-30 15:22:56 -0500,"/t/databases,/t/programming",Writing Postgres Extensions - The Basics,http://big-elephants.com/2015-10/writing-postgres-extensions-part-i/,/u/pushcx,6
+0,2015-10-31 02:56:50 -0500,"/t/design,/t/graphics",Glyph Bitmap Distribution Format,https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format,/u/apg,1
+21,2015-10-29 15:21:01 -0500,/t/practices,Interview Humiliation,http://deliberate-software.com/on-defeat/,/u/pushcx,40
+2,2015-10-30 09:38:53 -0500,/t/privacy,Have You Left a Money Trail on Venmo?,https://medium.com/@arankhanna/have-you-left-a-money-trail-on-venmo-d3676d624310#.1hzc11wp9,/u/pushcx,7
+0,2015-10-30 17:42:59 -0500,/t/compsci,Inductive Programming Meets the Real World,http://cacm.acm.org/magazines/2015/11/193326-inductive-programming-meets-the-real-world/fulltext,/u/mjn,3

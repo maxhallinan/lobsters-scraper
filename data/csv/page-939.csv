@@ -1,25 +1,25 @@
-1,2015-12-16 20:53:00 -0600,"['/t/video', '/t/practices', '/t/programming']",In Search of Tomorrow (Chris Granger / Future of Programming),https://www.youtube.com/watch?v=VZQoAKJPbh8,/u/vivekgani,7
-0,2015-12-16 13:03:40 -0600,['/t/elixir'],Phoenix 1.1 Released,https://groups.google.com/forum/#!topic/phoenix-core/TBacwj0U7rY,/u/bratsche,19
-5,2015-12-16 10:21:00 -0600,"['/t/compilers', '/t/javascript']",Plan to throw one away,http://garethrees.org/2015/12/14/javascript/,/u/pushcx,14
-2,2015-12-16 12:44:42 -0600,['/t/web'],"Smaller, Faster Websites",https://bocoup.com/weblog/smaller-faster-websites,/u/flyingfisch,13
-3,2015-12-16 13:20:26 -0600,"['/t/law', '/t/privacy']",U.S. Congress Slips CISA Into a Budget Bill That’s Sure to Pass,http://www.wired.com/2015/12/congress-slips-cisa-into-omnibus-bill-thats-sure-to-pass/,/u/pushcx,11
-2,2015-12-16 14:45:32 -0600,"['/t/video', '/t/web']",Building a Better Web Browser - James Mickens,https://www.youtube.com/watch?v=1uflg7LDmzI,/u/flyingfisch,11
-15,2015-12-16 00:36:27 -0600,"['/t/devops', '/t/practices']",Can We Use Jenkins for That?,http://engineering.simondata.com/can-we-use-jenkins-for-that,/u/jitterted,18
-4,2015-12-16 07:33:44 -0600,"['/t/c', '/t/perl', '/t/programming']",Hunted By a Leak,http://hoelz.ro/blog/hunted-by-a-leak,/u/hoelzro,6
-1,2015-12-16 14:42:04 -0600,"['/t/pdf', '/t/compilers', '/t/haskell', '/t/javascript', '/t/web']",A Distributed Haskell for the Modern Web,http://ekblad.cc/lic.pdf,/u/pushcx,6
-0,2015-12-16 21:05:19 -0600,"['/t/law', '/t/math']",How To Predict Bad Cops In Chicago,http://fivethirtyeight.com/features/how-to-predict-which-chicago-cops-will-commit-misconduct/,/u/pushcx,3
-1,2015-12-16 08:27:45 -0600,['/t/devops'],12 Fractured Apps,https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c,/u/stig,13
-0,2015-12-16 09:58:45 -0600,"['/t/practices', '/t/release']",The Slack Platform Launch,http://slackhq.com/post/134878632730/launch-platform,/u/355E3B,10
-0,2015-12-16 13:37:57 -0600,['/t/practices'],Why We Fight Uber,https://www.jacobinmag.com/2015/12/uber-sharing-economy-taskrabbit-silicon-valley-technology/,/u/pushcx,6
-4,2015-12-15 21:59:08 -0600,"['/t/testing', '/t/vcs']",Move Fast and Fix Things,http://githubengineering.com/move-fast/,/u/bryfry,19
-0,2015-12-16 13:40:42 -0600,['/t/book'],Bootstrap Site Blueprints 2 sample content,http://mattlambert.ca/blog/bootstrap-site-blueprints-2-sample-content/,/u/cardeo,2
-2,2015-12-16 04:39:50 -0600,"['/t/video', '/t/python']",python getitem,https://www.youtube.com/watch?v=aIuMskRZHk4,/u/kghose,3
-0,2015-12-16 12:40:12 -0600,"['/t/api', '/t/dotnet', '/t/java']",Microservices Weekly: Weekly Newsletter on microservices news and articles from around the community,http://www.microservicesweekly.com/,/u/svlada,2
-1,2015-12-16 13:14:45 -0600,"['/t/pdf', '/t/satire', '/t/security']",The Saddest Moment,https://www.usenix.org/system/files/login-logout_1305_mickens.pdf,/u/flyingfisch,7
-1,2015-12-16 13:00:27 -0600,['/t/culture'],Contempt Culture,http://blog.aurynn.com/86/contempt-culture,/u/foophoof,7
-2,2015-12-16 06:33:11 -0600,"['/t/pdf', '/t/cogsci']",Machine Learning: The High-Interest Credit Card of Technical Debt,http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf,/u/james,4
-2,2015-12-15 21:46:53 -0600,['/t/haskell'],Counterexamples of Type Classes,http://blog.functorial.com/posts/2015-12-06-Counterexamples.html,/u/puffnfresh,15
-0,2015-12-16 15:41:08 -0600,"['/t/video', '/t/programming']",Bret Victor - The Future of Programming,https://vimeo.com/71278954,/u/rkallos,2
-1,2015-12-16 04:36:18 -0600,"['/t/assembly', '/t/games', '/t/reversing']",Fixing Final Fantasy VI's Active Time Battle,http://www.twitlonger.com/show/n_1so1n7f,/u/pushcx,6
-0,2015-12-16 12:08:27 -0600,"['/t/networking', '/t/security']",FireEye Device Exploitation,http://googleprojectzero.blogspot.com/2015/12/fireeye-exploitation-project-zeros.html,/u/dogpellet,3
-0,2015-12-16 04:18:59 -0600,['/t/haskell'],Haskell's problem with wrapping numeric types,https://gist.github.com/tdoris/de36d2306edc5d6e9e7d#file-promises-md,/u/pushcx,8
+1,2015-12-16 20:53:00 -0600,"/t/video,/t/practices,/t/programming",In Search of Tomorrow (Chris Granger / Future of Programming),https://www.youtube.com/watch?v=VZQoAKJPbh8,/u/vivekgani,7
+0,2015-12-16 13:03:40 -0600,/t/elixir,Phoenix 1.1 Released,https://groups.google.com/forum/#!topic/phoenix-core/TBacwj0U7rY,/u/bratsche,19
+5,2015-12-16 10:21:00 -0600,"/t/compilers,/t/javascript",Plan to throw one away,http://garethrees.org/2015/12/14/javascript/,/u/pushcx,14
+2,2015-12-16 12:44:42 -0600,/t/web,"Smaller, Faster Websites",https://bocoup.com/weblog/smaller-faster-websites,/u/flyingfisch,13
+3,2015-12-16 13:20:26 -0600,"/t/law,/t/privacy",U.S. Congress Slips CISA Into a Budget Bill That’s Sure to Pass,http://www.wired.com/2015/12/congress-slips-cisa-into-omnibus-bill-thats-sure-to-pass/,/u/pushcx,11
+2,2015-12-16 14:45:32 -0600,"/t/video,/t/web",Building a Better Web Browser - James Mickens,https://www.youtube.com/watch?v=1uflg7LDmzI,/u/flyingfisch,11
+15,2015-12-16 00:36:27 -0600,"/t/devops,/t/practices",Can We Use Jenkins for That?,http://engineering.simondata.com/can-we-use-jenkins-for-that,/u/jitterted,18
+4,2015-12-16 07:33:44 -0600,"/t/c,/t/perl,/t/programming",Hunted By a Leak,http://hoelz.ro/blog/hunted-by-a-leak,/u/hoelzro,6
+1,2015-12-16 14:42:04 -0600,"/t/pdf,/t/compilers,/t/haskell,/t/javascript,/t/web",A Distributed Haskell for the Modern Web,http://ekblad.cc/lic.pdf,/u/pushcx,6
+0,2015-12-16 21:05:19 -0600,"/t/law,/t/math",How To Predict Bad Cops In Chicago,http://fivethirtyeight.com/features/how-to-predict-which-chicago-cops-will-commit-misconduct/,/u/pushcx,3
+1,2015-12-16 08:27:45 -0600,/t/devops,12 Fractured Apps,https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c,/u/stig,13
+0,2015-12-16 09:58:45 -0600,"/t/practices,/t/release",The Slack Platform Launch,http://slackhq.com/post/134878632730/launch-platform,/u/355E3B,10
+0,2015-12-16 13:37:57 -0600,/t/practices,Why We Fight Uber,https://www.jacobinmag.com/2015/12/uber-sharing-economy-taskrabbit-silicon-valley-technology/,/u/pushcx,6
+4,2015-12-15 21:59:08 -0600,"/t/testing,/t/vcs",Move Fast and Fix Things,http://githubengineering.com/move-fast/,/u/bryfry,19
+0,2015-12-16 13:40:42 -0600,/t/book,Bootstrap Site Blueprints 2 sample content,http://mattlambert.ca/blog/bootstrap-site-blueprints-2-sample-content/,/u/cardeo,2
+2,2015-12-16 04:39:50 -0600,"/t/video,/t/python",python getitem,https://www.youtube.com/watch?v=aIuMskRZHk4,/u/kghose,3
+0,2015-12-16 12:40:12 -0600,"/t/api,/t/dotnet,/t/java",Microservices Weekly: Weekly Newsletter on microservices news and articles from around the community,http://www.microservicesweekly.com/,/u/svlada,2
+1,2015-12-16 13:14:45 -0600,"/t/pdf,/t/satire,/t/security",The Saddest Moment,https://www.usenix.org/system/files/login-logout_1305_mickens.pdf,/u/flyingfisch,7
+1,2015-12-16 13:00:27 -0600,/t/culture,Contempt Culture,http://blog.aurynn.com/86/contempt-culture,/u/foophoof,7
+2,2015-12-16 06:33:11 -0600,"/t/pdf,/t/cogsci",Machine Learning: The High-Interest Credit Card of Technical Debt,http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf,/u/james,4
+2,2015-12-15 21:46:53 -0600,/t/haskell,Counterexamples of Type Classes,http://blog.functorial.com/posts/2015-12-06-Counterexamples.html,/u/puffnfresh,15
+0,2015-12-16 15:41:08 -0600,"/t/video,/t/programming",Bret Victor - The Future of Programming,https://vimeo.com/71278954,/u/rkallos,2
+1,2015-12-16 04:36:18 -0600,"/t/assembly,/t/games,/t/reversing",Fixing Final Fantasy VI's Active Time Battle,http://www.twitlonger.com/show/n_1so1n7f,/u/pushcx,6
+0,2015-12-16 12:08:27 -0600,"/t/networking,/t/security",FireEye Device Exploitation,http://googleprojectzero.blogspot.com/2015/12/fireeye-exploitation-project-zeros.html,/u/dogpellet,3
+0,2015-12-16 04:18:59 -0600,/t/haskell,Haskell's problem with wrapping numeric types,https://gist.github.com/tdoris/de36d2306edc5d6e9e7d#file-promises-md,/u/pushcx,8

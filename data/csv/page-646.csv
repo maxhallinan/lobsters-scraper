@@ -1,25 +1,25 @@
-3,2016-09-29 08:17:32 -0500,"['/t/design', '/t/meta']",lobste.rs has some serious dynamic UI going on when you adjust the width and font size,/s/jjnl00/lobste_rs_has_some_serious_dynamic_ui,/u/Usermac,20
-0,2016-09-30 10:11:44 -0500,"['/t/practices', '/t/web']",Accessible floating labels,http://allthingssmitty.com/2016/09/25/accessible-floating-labels/,/u/flyingfisch,1
-2,2016-09-29 15:47:30 -0500,"['/t/finance', '/t/law', '/t/privacy', '/t/security']",The World Trade Organization Sets its Eyes on the Internet,https://www.eff.org/deeplinks/2016/09/world-trade-organization-sets-its-eyes-internet,/u/friendlysock,7
-64,2016-09-28 15:04:32 -0500,"['/t/linux', '/t/security', '/t/systemd']",How to Crash Systemd in One Tweet,https://www.agwa.name/blog/post/how_to_crash_systemd_in_one_tweet,/u/fcbsd,86
-9,2016-09-29 08:15:15 -0500,"['/t/css', '/t/meta']",CSS Tag Proposal,/s/icharj/css_tag_proposal,/u/flyingfisch,13
-0,2016-09-29 14:18:26 -0500,"['/t/hardware', '/t/historical']",The Surprising Story of the First Microprocessors,http://spectrum.ieee.org/computing/hardware/the-surprising-story-of-the-first-microprocessors,/u/calvin,10
-0,2016-09-30 02:14:43 -0500,['/t/programming'],Serverless Websocket Chat with Pushpin and Stack,http://blog.fanout.io/2016/09/29/serverless-websocket-chat/,/u/marak,2
-0,2016-09-29 06:25:18 -0500,['/t/math'],An Introduction to Galois Theory,https://nrich.maths.org/1422,/u/RiderOfGiraffes,22
-8,2016-09-29 04:00:19 -0500,"['/t/hardware', '/t/historical', '/t/netbsd']",NetBSD/vax - worth continuing?,https://mail-index.netbsd.org/port-vax/2016/09/20/msg002915.html,/u/mjturner,11
-0,2016-09-30 03:18:59 -0500,['/t/databases'],"""Google"" your own brain? Evolution of the CMS using Neo4j and Elasticsearch",https://neo4j.com/blog/google-brain-cms-neo4j-elasticsearch/,/u/bwmerkl,1
-0,2016-09-29 10:57:38 -0500,"['/t/devops', '/t/release']",What's New With Kubernetes 1.4,https://deis.com/blog/2016/kubernetes-1.4/,/u/devupio,5
-0,2016-09-29 20:48:33 -0500,"['/t/compsci', '/t/math', '/t/programming']",Algebraic Patterns - Monoid morphisms,http://philipnilsson.github.io/Badness10k/posts/2016-08-10-functional-patterns-monoid-morphism.html,/u/porges,2
-0,2016-09-29 11:13:43 -0500,"['/t/python', '/t/release']",Pydocstyle 1.1.0 released: a Python docstring style checker,http://www.pydocstyle.org/en/latest/index.html,/u/AmirRachum,3
-2,2016-09-29 09:40:54 -0500,"['/t/cogsci', '/t/lisp']",Linguistic relativity (Sapir–Whorf hypothesis),https://en.wikipedia.org/wiki/Linguistic_relativity,/u/kghose,3
-5,2016-09-28 21:50:40 -0500,['/t/java'],JDK9: Ahead-of-Time Compilation,https://bugs.openjdk.java.net/browse/JDK-8166089,/u/kellogh,8
-0,2016-09-29 09:46:46 -0500,['/t/distributed'],Provenance and causality in distributed systems,http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html,/u/pushcx,3
-5,2016-09-28 12:41:02 -0500,['/t/security'],On Phone Numbers and Identity,https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58,/u/pushcx,28
-0,2016-09-28 13:51:17 -0500,"['/t/networking', '/t/security']",About Slowloris,https://gkbrk.com/2016/09/about-slowloris/,/u/gkbrk,14
-0,2016-09-29 07:44:39 -0500,['/t/devops'],Trainline Environment Manager – Now Open Source!,https://engineering.thetrainline.com/2016/09/28/trainline-environment-manager-now-open-source/,/u/hoopla,3
-2,2016-09-28 14:55:35 -0500,"['/t/video', '/t/haskell']",Into the Core: Squeezing Haskell into Nine Constructors by Simon Peyton Jones,https://www.youtube.com/watch?v=uR_VzYxvbxg,/u/unbalancedparentheses,14
-3,2016-09-28 13:44:13 -0500,"['/t/javascript', '/t/practices', '/t/web']",Web development as a hack of hacks,http://www.quirksmode.org/blog/archives/2016/09/web_development.html,/u/flyingfisch,12
-1,2016-09-28 10:02:48 -0500,['/t/networking'],Let 'localhost' be localhost,https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-02,/u/pushcx,30
-5,2016-09-28 08:11:25 -0500,"['/t/pdf', '/t/math', '/t/visualization']",The Best Homework Ever?,http://www.math.brown.edu/~banchoff/BHE.pdf,/u/davyjones,28
-4,2016-09-28 15:03:19 -0500,"['/t/design', '/t/web']",Why there is no CSS4,https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/,/u/flyingfisch,11
-2,2016-09-28 18:44:52 -0500,"['/t/video', '/t/lisp']",Aditya Siram: Shen Trick Shots - λC 2016,https://www.youtube.com/watch?v=BUJNyHAeAc8,/u/doublec,7
+3,2016-09-29 08:17:32 -0500,"/t/design,/t/meta",lobste.rs has some serious dynamic UI going on when you adjust the width and font size,/s/jjnl00/lobste_rs_has_some_serious_dynamic_ui,/u/Usermac,20
+0,2016-09-30 10:11:44 -0500,"/t/practices,/t/web",Accessible floating labels,http://allthingssmitty.com/2016/09/25/accessible-floating-labels/,/u/flyingfisch,1
+2,2016-09-29 15:47:30 -0500,"/t/finance,/t/law,/t/privacy,/t/security",The World Trade Organization Sets its Eyes on the Internet,https://www.eff.org/deeplinks/2016/09/world-trade-organization-sets-its-eyes-internet,/u/friendlysock,7
+64,2016-09-28 15:04:32 -0500,"/t/linux,/t/security,/t/systemd",How to Crash Systemd in One Tweet,https://www.agwa.name/blog/post/how_to_crash_systemd_in_one_tweet,/u/fcbsd,86
+9,2016-09-29 08:15:15 -0500,"/t/css,/t/meta",CSS Tag Proposal,/s/icharj/css_tag_proposal,/u/flyingfisch,13
+0,2016-09-29 14:18:26 -0500,"/t/hardware,/t/historical",The Surprising Story of the First Microprocessors,http://spectrum.ieee.org/computing/hardware/the-surprising-story-of-the-first-microprocessors,/u/calvin,10
+0,2016-09-30 02:14:43 -0500,/t/programming,Serverless Websocket Chat with Pushpin and Stack,http://blog.fanout.io/2016/09/29/serverless-websocket-chat/,/u/marak,2
+0,2016-09-29 06:25:18 -0500,/t/math,An Introduction to Galois Theory,https://nrich.maths.org/1422,/u/RiderOfGiraffes,22
+8,2016-09-29 04:00:19 -0500,"/t/hardware,/t/historical,/t/netbsd",NetBSD/vax - worth continuing?,https://mail-index.netbsd.org/port-vax/2016/09/20/msg002915.html,/u/mjturner,11
+0,2016-09-30 03:18:59 -0500,/t/databases,"""Google"" your own brain? Evolution of the CMS using Neo4j and Elasticsearch",https://neo4j.com/blog/google-brain-cms-neo4j-elasticsearch/,/u/bwmerkl,1
+0,2016-09-29 10:57:38 -0500,"/t/devops,/t/release",What's New With Kubernetes 1.4,https://deis.com/blog/2016/kubernetes-1.4/,/u/devupio,5
+0,2016-09-29 20:48:33 -0500,"/t/compsci,/t/math,/t/programming",Algebraic Patterns - Monoid morphisms,http://philipnilsson.github.io/Badness10k/posts/2016-08-10-functional-patterns-monoid-morphism.html,/u/porges,2
+0,2016-09-29 11:13:43 -0500,"/t/python,/t/release",Pydocstyle 1.1.0 released: a Python docstring style checker,http://www.pydocstyle.org/en/latest/index.html,/u/AmirRachum,3
+2,2016-09-29 09:40:54 -0500,"/t/cogsci,/t/lisp",Linguistic relativity (Sapir–Whorf hypothesis),https://en.wikipedia.org/wiki/Linguistic_relativity,/u/kghose,3
+5,2016-09-28 21:50:40 -0500,/t/java,JDK9: Ahead-of-Time Compilation,https://bugs.openjdk.java.net/browse/JDK-8166089,/u/kellogh,8
+0,2016-09-29 09:46:46 -0500,/t/distributed,Provenance and causality in distributed systems,http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html,/u/pushcx,3
+5,2016-09-28 12:41:02 -0500,/t/security,On Phone Numbers and Identity,https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58,/u/pushcx,28
+0,2016-09-28 13:51:17 -0500,"/t/networking,/t/security",About Slowloris,https://gkbrk.com/2016/09/about-slowloris/,/u/gkbrk,14
+0,2016-09-29 07:44:39 -0500,/t/devops,Trainline Environment Manager – Now Open Source!,https://engineering.thetrainline.com/2016/09/28/trainline-environment-manager-now-open-source/,/u/hoopla,3
+2,2016-09-28 14:55:35 -0500,"/t/video,/t/haskell",Into the Core: Squeezing Haskell into Nine Constructors by Simon Peyton Jones,https://www.youtube.com/watch?v=uR_VzYxvbxg,/u/unbalancedparentheses,14
+3,2016-09-28 13:44:13 -0500,"/t/javascript,/t/practices,/t/web",Web development as a hack of hacks,http://www.quirksmode.org/blog/archives/2016/09/web_development.html,/u/flyingfisch,12
+1,2016-09-28 10:02:48 -0500,/t/networking,Let 'localhost' be localhost,https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-02,/u/pushcx,30
+5,2016-09-28 08:11:25 -0500,"/t/pdf,/t/math,/t/visualization",The Best Homework Ever?,http://www.math.brown.edu/~banchoff/BHE.pdf,/u/davyjones,28
+4,2016-09-28 15:03:19 -0500,"/t/design,/t/web",Why there is no CSS4,https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/,/u/flyingfisch,11
+2,2016-09-28 18:44:52 -0500,"/t/video,/t/lisp",Aditya Siram: Shen Trick Shots - λC 2016,https://www.youtube.com/watch?v=BUJNyHAeAc8,/u/doublec,7

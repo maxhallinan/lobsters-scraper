@@ -1,25 +1,25 @@
-15,2016-09-06 13:44:29 -0500,['/t/browsers'],Multi-process Firefox brings 400-700% improvement in responsiveness,https://techcrunch.com/2016/09/02/multi-process-firefox-brings-400-700-improvement-in-responsiveness/,/u/chadski,40
-10,2016-09-07 09:08:22 -0500,"['/t/culture', '/t/practices']",How a Philly firm fired a toxic star performer and sales went up,http://www.philly.com/philly/business/20160907_How_a_Philly_firm_fired_a_toxic_star_performer_and_sales_went_up.html,/u/tedu,15
-0,2016-09-07 15:17:42 -0500,"['/t/law', '/t/philosophy']",Approaching fairness in machine learning,http://blog.mrtz.org/2016/09/06/approaching-fairness.html,/u/petergao,3
-6,2016-09-06 14:11:43 -0500,"['/t/compilers', '/t/programming']",Tcl the misunderstood,http://antirez.com/articoli/tclmisunderstood.html,/u/friendlysock,34
-0,2016-09-07 14:32:44 -0500,['/t/devops'],Trusting Who’s at the Helm,https://deis.com/blog/2016/trusting-whos-at-the-helm/,/u/nslater,3
-0,2016-09-07 11:21:21 -0500,"['/t/video', '/t/c', '/t/programming']",Writing good C++14 [2015],https://www.youtube.com/watch?v=hEx5DNLWGgA,/u/unbalancedparentheses,4
-0,2016-09-07 10:18:47 -0500,"['/t/show', '/t/art', '/t/hardware', '/t/javascript']",An Interactive Monitor Comparison Chart,http://www.productchart.com/monitors/,/u/no_gravity,2
-0,2016-09-07 08:43:19 -0500,"['/t/pdf', '/t/slides', '/t/security', '/t/virtualization']","One Bit Flips, One Cloud Flops: Cross-VM Row Hammer Attacks and Privilege Escalation",https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_xiao.pdf,/u/sevan,5
-0,2016-09-07 14:06:58 -0500,"['/t/video', '/t/distributed', '/t/go']",The Challenges of Writing a Massive and Complex Go Application,https://www.youtube.com/watch?v=hWNwI5q01gI,/u/apg,2
-6,2016-09-06 15:58:41 -0500,"['/t/design', '/t/web']","Bootstrap v3 is no longer maintained, v4 is in alpha",https://github.com/twbs/bootstrap/issues/20631,/u/soulcutter,12
-3,2016-09-06 20:19:32 -0500,"['/t/historical', '/t/mobile', '/t/practices', '/t/windows']",The war Microsoft should have won,https://medium.com/@christianhern/the-war-microsoft-should-have-won-65d836aa2358,/u/calvin,5
-18,2016-09-06 08:25:42 -0500,"['/t/javascript', '/t/programming']",Marxist JS - The Classless Javascript Manifesto,http://marxist.js.org/,/u/wuz,9
-5,2016-09-07 08:52:15 -0500,"['/t/culture', '/t/games']",Inside Eve: Online’s propaganda machine—from Photoshop to DDoS,http://arstechnica.com/gaming/2016/09/eve-online-propaganda-machine-imperium-mbc/,/u/tedu,3
-1,2016-09-06 12:11:31 -0500,"['/t/practices', '/t/windows']",How to get people who installed a leaked build to stop using that build?,https://blogs.msdn.microsoft.com/oldnewthing/20160906-00/?p=94255,/u/calvin,17
-1,2016-09-06 10:30:23 -0500,"['/t/math', '/t/visualization']",Eigenvectors and Eigenvalues explained visually,http://setosa.io/ev/eigenvectors-and-eigenvalues/,/u/pushcx,19
-2,2016-09-06 05:55:25 -0500,"['/t/hardware', '/t/reversing']",Dolphin Emulator - Booting the Final GameCube Game,https://dolphin-emu.org/blog/2016/09/06/booting-the-final-gc-game/,/u/355E3B,27
-4,2016-09-06 15:02:17 -0500,['/t/practices'],The Unexpected Outcomes Of Code Review,http://michaelrbernste.in/2013/10/16/the-unexpected-outcomes-of-code-review.html,/u/pushcx,6
-18,2016-09-05 23:46:35 -0500,['/t/programming'],My resume in an Operating system,http://www.mathieupassenaud.fr/resume/,/u/av,27
-4,2016-09-06 07:18:36 -0500,"['/t/hardware', '/t/networking', '/t/security']",Snagging creds from locked machines,https://room362.com/post/2016/snagging-creds-from-locked-machines/,/u/calvin,17
-0,2016-09-06 12:58:28 -0500,"['/t/api', '/t/erlang', '/t/mobile']",Erlang REST Server Stack,http://inaka.net/blog/2016/09/06/erlang-rest-server-stack/,/u/elbrujohalcon,5
-8,2016-09-06 09:47:54 -0500,"['/t/debugging', '/t/programming']",Your Debugger Is Obsolete,http://timkellogg.me/blog/2016/09/06/debugger-obsolete,/u/kellogh,1
-1,2016-09-06 10:12:48 -0500,"['/t/networking', '/t/security']","""Catastrophic"" DDOS Attack Hits Linode Servers Over Labor Day Weekend",https://news.slashdot.org/story/16/09/06/0543234/catastrophic-ddos-attack-hits-linode-servers-over-labor-day-weekend,/u/tallgeoff,9
-0,2016-09-06 17:46:21 -0500,['/t/hardware'],New Part Day: The ESP32 Has Been Released,http://hackaday.com/2016/09/05/new-part-day-the-esp32-has-been-released/,/u/355E3B,5
-0,2016-09-06 15:01:50 -0500,['/t/hardware'],My first Arduino shield,http://daveastels.typed.com/blog/my-first-arduino-shield,/u/pushcx,6
-0,2016-09-06 08:41:33 -0500,"['/t/historical', '/t/networking', '/t/security']",The Art of Port Scanning (1997),http://phrack.org/issues/51/11.html#article,/u/calvin,12
+15,2016-09-06 13:44:29 -0500,/t/browsers,Multi-process Firefox brings 400-700% improvement in responsiveness,https://techcrunch.com/2016/09/02/multi-process-firefox-brings-400-700-improvement-in-responsiveness/,/u/chadski,40
+10,2016-09-07 09:08:22 -0500,"/t/culture,/t/practices",How a Philly firm fired a toxic star performer and sales went up,http://www.philly.com/philly/business/20160907_How_a_Philly_firm_fired_a_toxic_star_performer_and_sales_went_up.html,/u/tedu,15
+0,2016-09-07 15:17:42 -0500,"/t/law,/t/philosophy",Approaching fairness in machine learning,http://blog.mrtz.org/2016/09/06/approaching-fairness.html,/u/petergao,3
+6,2016-09-06 14:11:43 -0500,"/t/compilers,/t/programming",Tcl the misunderstood,http://antirez.com/articoli/tclmisunderstood.html,/u/friendlysock,34
+0,2016-09-07 14:32:44 -0500,/t/devops,Trusting Who’s at the Helm,https://deis.com/blog/2016/trusting-whos-at-the-helm/,/u/nslater,3
+0,2016-09-07 11:21:21 -0500,"/t/video,/t/c,/t/programming",Writing good C++14 [2015],https://www.youtube.com/watch?v=hEx5DNLWGgA,/u/unbalancedparentheses,4
+0,2016-09-07 10:18:47 -0500,"/t/show,/t/art,/t/hardware,/t/javascript",An Interactive Monitor Comparison Chart,http://www.productchart.com/monitors/,/u/no_gravity,2
+0,2016-09-07 08:43:19 -0500,"/t/pdf,/t/slides,/t/security,/t/virtualization","One Bit Flips, One Cloud Flops: Cross-VM Row Hammer Attacks and Privilege Escalation",https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_xiao.pdf,/u/sevan,5
+0,2016-09-07 14:06:58 -0500,"/t/video,/t/distributed,/t/go",The Challenges of Writing a Massive and Complex Go Application,https://www.youtube.com/watch?v=hWNwI5q01gI,/u/apg,2
+6,2016-09-06 15:58:41 -0500,"/t/design,/t/web","Bootstrap v3 is no longer maintained, v4 is in alpha",https://github.com/twbs/bootstrap/issues/20631,/u/soulcutter,12
+3,2016-09-06 20:19:32 -0500,"/t/historical,/t/mobile,/t/practices,/t/windows",The war Microsoft should have won,https://medium.com/@christianhern/the-war-microsoft-should-have-won-65d836aa2358,/u/calvin,5
+18,2016-09-06 08:25:42 -0500,"/t/javascript,/t/programming",Marxist JS - The Classless Javascript Manifesto,http://marxist.js.org/,/u/wuz,9
+5,2016-09-07 08:52:15 -0500,"/t/culture,/t/games",Inside Eve: Online’s propaganda machine—from Photoshop to DDoS,http://arstechnica.com/gaming/2016/09/eve-online-propaganda-machine-imperium-mbc/,/u/tedu,3
+1,2016-09-06 12:11:31 -0500,"/t/practices,/t/windows",How to get people who installed a leaked build to stop using that build?,https://blogs.msdn.microsoft.com/oldnewthing/20160906-00/?p=94255,/u/calvin,17
+1,2016-09-06 10:30:23 -0500,"/t/math,/t/visualization",Eigenvectors and Eigenvalues explained visually,http://setosa.io/ev/eigenvectors-and-eigenvalues/,/u/pushcx,19
+2,2016-09-06 05:55:25 -0500,"/t/hardware,/t/reversing",Dolphin Emulator - Booting the Final GameCube Game,https://dolphin-emu.org/blog/2016/09/06/booting-the-final-gc-game/,/u/355E3B,27
+4,2016-09-06 15:02:17 -0500,/t/practices,The Unexpected Outcomes Of Code Review,http://michaelrbernste.in/2013/10/16/the-unexpected-outcomes-of-code-review.html,/u/pushcx,6
+18,2016-09-05 23:46:35 -0500,/t/programming,My resume in an Operating system,http://www.mathieupassenaud.fr/resume/,/u/av,27
+4,2016-09-06 07:18:36 -0500,"/t/hardware,/t/networking,/t/security",Snagging creds from locked machines,https://room362.com/post/2016/snagging-creds-from-locked-machines/,/u/calvin,17
+0,2016-09-06 12:58:28 -0500,"/t/api,/t/erlang,/t/mobile",Erlang REST Server Stack,http://inaka.net/blog/2016/09/06/erlang-rest-server-stack/,/u/elbrujohalcon,5
+8,2016-09-06 09:47:54 -0500,"/t/debugging,/t/programming",Your Debugger Is Obsolete,http://timkellogg.me/blog/2016/09/06/debugger-obsolete,/u/kellogh,1
+1,2016-09-06 10:12:48 -0500,"/t/networking,/t/security","""Catastrophic"" DDOS Attack Hits Linode Servers Over Labor Day Weekend",https://news.slashdot.org/story/16/09/06/0543234/catastrophic-ddos-attack-hits-linode-servers-over-labor-day-weekend,/u/tallgeoff,9
+0,2016-09-06 17:46:21 -0500,/t/hardware,New Part Day: The ESP32 Has Been Released,http://hackaday.com/2016/09/05/new-part-day-the-esp32-has-been-released/,/u/355E3B,5
+0,2016-09-06 15:01:50 -0500,/t/hardware,My first Arduino shield,http://daveastels.typed.com/blog/my-first-arduino-shield,/u/pushcx,6
+0,2016-09-06 08:41:33 -0500,"/t/historical,/t/networking,/t/security",The Art of Port Scanning (1997),http://phrack.org/issues/51/11.html#article,/u/calvin,12

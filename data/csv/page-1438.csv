@@ -1,25 +1,25 @@
-0,2013-11-12 04:06:39 -0600,['/t/programming'],Thoughts on a New Dylan Ecosystem,http://dylanfoundry.org/2013/11/12/thoughts-on-a-new-dylan-ecosystem/,/u/BruceM,4
-0,2013-11-11 18:16:41 -0600,"['/t/practices', '/t/programming']",The Narcissism of Small Code Differences (2008),http://raganwald.com/2008/05/narcissism-of-small-code-differences.html,/u/journeysquid,6
-0,2013-11-12 10:33:29 -0600,['/t/javascript'],Obey and Report – A JavaScript Event Emitter Pattern,http://flippinawesome.org/2013/11/11/obey-and-report-a-javascript-event-emitter-pattern/,/u/remotesynth,0
-0,2013-11-11 09:50:06 -0600,"['/t/book', '/t/programming']",Real World OCaml has been released,https://realworldocaml.org/,/u/chneukirchen,11
-1,2013-11-11 12:13:36 -0600,"['/t/databases', '/t/devops', '/t/visualization']",Impressions of InfluxDB,http://obfuscurity.com/2013/11/My-Impressions-of-InfluxDB,/u/jcs,5
-0,2013-11-11 13:49:45 -0600,"['/t/android', '/t/privacy']",Google Takes Its Tracking Into The Real World,http://digiday.com/platforms/google-tracking/,/u/jcs,4
-0,2013-11-11 14:48:33 -0600,"['/t/hardware', '/t/reversing']",Reverse Engineering LPC’s Device Firmware Upgrade Protocol,http://blog.technical.io/post/66686276686/reverse-engineering-lpcs-device-firmware-upgrade,/u/kyle,2
-0,2013-11-11 07:36:17 -0600,"['/t/devops', '/t/linux', '/t/unix']","Duplicity + S3: easy, cheap, encrypted, automated full-disk backups for your servers",http://blog.phusion.nl/2013/11/11/duplicity-s3-easy-cheap-encrypted-automated-full-disk-backups-for-your-servers/,/u/FooBarWidget,3
-0,2013-11-11 10:51:23 -0600,['/t/philosophy'],"A Technological Optimist, but Just",http://stratechery.com/2013/casting-stones/,/u/tedu,1
-0,2013-11-11 10:33:44 -0600,['/t/design'],How to generate extruded 3D model from images in OpenSCAD,http://blog.cubehero.com/2013/11/11/how-to-generate-extruded-3d-model-from-images-in-openscad/,/u/iamwil,1
-1,2013-11-10 16:58:48 -0600,"['/t/privacy', '/t/security']","UK spies continue “quantum insert” attack via LinkedIn, Slashdot pages",http://arstechnica.com/tech-policy/2013/11/uk-spies-continue-quantum-insert-attack-via-linkedin-slashdot-pages/,/u/tedu,5
-0,2013-11-10 16:45:46 -0600,['/t/go'],Four years of Go,http://blog.golang.org/4years,/u/journeysquid,5
-0,2013-11-10 17:22:04 -0600,['/t/programming'],Pyret,http://www.pyret.org/,/u/SeanTAllen,4
-0,2013-11-10 13:49:41 -0600,"['/t/linux', '/t/philosophy', '/t/programming', '/t/ruby']",The 'deeper why' of open source,http://thoughts.unicoder.io/the-deeper-why-of-open-source,/u/joshowens,2
-0,2013-11-10 12:54:49 -0600,['/t/python'],Python 2 vs. Python 3 - A retrospective,https://www.dropbox.com/s/83ppa5iykqmr14z/Py2v3Hackers2013.pptx,/u/journeysquid,2
-0,2013-11-10 16:19:20 -0600,"['/t/math', '/t/security']","Soaring, Cryptography and Nuclear Weapons (Martin Hellman, 2008)",http://nuclearrisk.org/soaring_article.php,/u/hblanks,1
-0,2013-11-10 10:23:18 -0600,"['/t/go', '/t/programming']",Intro to (images in) Go – http,http://www.pheelicks.com/2013/11/intro-to-images-in-go-http/,/u/pheelicks,2
-0,2013-11-09 20:23:20 -0600,"['/t/c', '/t/ios']",Xcode Build Process,http://www.objc.io/issue-6/build-process.html,/u/bcroesch,5
-0,2013-11-09 18:12:38 -0600,"['/t/c', '/t/linux', '/t/security']",Easier understanding of the Debian OpenSSL bug,http://www.tedunangst.com/flak/post/easier-understanding-of-the-Debian-OpenSSL-bug,/u/jcs,5
-0,2013-11-09 11:40:26 -0600,"['/t/go', '/t/java', '/t/programming']","GCC Looks To Turn Off Java, Replace With Go Or ADA",http://www.phoronix.com/scan.php?page=news_item&px=MTUwOTA,/u/journeysquid,2
-0,2013-11-09 11:38:38 -0600,['/t/practices'],"""Because Marissa Said So"" - Yahoos Bristle at Mayer's New QPR Ranking and ""Silent Layoffs""",http://allthingsd.com/20131108/because-marissa-said-so-yahoos-bristle-at-mayers-new-qpr-ranking-system-and-silent-layoffs/,/u/journeysquid,1
-2,2013-11-08 04:42:29 -0600,['/t/security'],OpenSSH Security Advisory,http://www.openssh.com/txt/gcmrekey.adv,/u/korchha,10
-0,2013-11-08 15:57:14 -0600,['/t/ruby'],Formatting your logs for the sake of visibility,http://blog.yannick.io/rails/2013/11/08/formatting-your-logs-for-the-sake-of-visibility.html,/u/ys,2
-0,2013-11-08 12:10:23 -0600,['/t/practices'],A culture of beer and overtime,http://www.jayhuang.org/blog/a-culture-of-beer-and-overtime/,/u/journeysquid,3
-0,2013-11-08 12:09:44 -0600,['/t/web'],ZURB Ink: Responsive HTML Email Framework,http://designinstruct.com/tool/responsive-html-email-framework-zurb-ink/,/u/journeysquid,3
+0,2013-11-12 04:06:39 -0600,/t/programming,Thoughts on a New Dylan Ecosystem,http://dylanfoundry.org/2013/11/12/thoughts-on-a-new-dylan-ecosystem/,/u/BruceM,4
+0,2013-11-11 18:16:41 -0600,"/t/practices,/t/programming",The Narcissism of Small Code Differences (2008),http://raganwald.com/2008/05/narcissism-of-small-code-differences.html,/u/journeysquid,6
+0,2013-11-12 10:33:29 -0600,/t/javascript,Obey and Report – A JavaScript Event Emitter Pattern,http://flippinawesome.org/2013/11/11/obey-and-report-a-javascript-event-emitter-pattern/,/u/remotesynth,0
+0,2013-11-11 09:50:06 -0600,"/t/book,/t/programming",Real World OCaml has been released,https://realworldocaml.org/,/u/chneukirchen,11
+1,2013-11-11 12:13:36 -0600,"/t/databases,/t/devops,/t/visualization",Impressions of InfluxDB,http://obfuscurity.com/2013/11/My-Impressions-of-InfluxDB,/u/jcs,5
+0,2013-11-11 13:49:45 -0600,"/t/android,/t/privacy",Google Takes Its Tracking Into The Real World,http://digiday.com/platforms/google-tracking/,/u/jcs,4
+0,2013-11-11 14:48:33 -0600,"/t/hardware,/t/reversing",Reverse Engineering LPC’s Device Firmware Upgrade Protocol,http://blog.technical.io/post/66686276686/reverse-engineering-lpcs-device-firmware-upgrade,/u/kyle,2
+0,2013-11-11 07:36:17 -0600,"/t/devops,/t/linux,/t/unix","Duplicity + S3: easy, cheap, encrypted, automated full-disk backups for your servers",http://blog.phusion.nl/2013/11/11/duplicity-s3-easy-cheap-encrypted-automated-full-disk-backups-for-your-servers/,/u/FooBarWidget,3
+0,2013-11-11 10:51:23 -0600,/t/philosophy,"A Technological Optimist, but Just",http://stratechery.com/2013/casting-stones/,/u/tedu,1
+0,2013-11-11 10:33:44 -0600,/t/design,How to generate extruded 3D model from images in OpenSCAD,http://blog.cubehero.com/2013/11/11/how-to-generate-extruded-3d-model-from-images-in-openscad/,/u/iamwil,1
+1,2013-11-10 16:58:48 -0600,"/t/privacy,/t/security","UK spies continue “quantum insert” attack via LinkedIn, Slashdot pages",http://arstechnica.com/tech-policy/2013/11/uk-spies-continue-quantum-insert-attack-via-linkedin-slashdot-pages/,/u/tedu,5
+0,2013-11-10 16:45:46 -0600,/t/go,Four years of Go,http://blog.golang.org/4years,/u/journeysquid,5
+0,2013-11-10 17:22:04 -0600,/t/programming,Pyret,http://www.pyret.org/,/u/SeanTAllen,4
+0,2013-11-10 13:49:41 -0600,"/t/linux,/t/philosophy,/t/programming,/t/ruby",The 'deeper why' of open source,http://thoughts.unicoder.io/the-deeper-why-of-open-source,/u/joshowens,2
+0,2013-11-10 12:54:49 -0600,/t/python,Python 2 vs. Python 3 - A retrospective,https://www.dropbox.com/s/83ppa5iykqmr14z/Py2v3Hackers2013.pptx,/u/journeysquid,2
+0,2013-11-10 16:19:20 -0600,"/t/math,/t/security","Soaring, Cryptography and Nuclear Weapons (Martin Hellman, 2008)",http://nuclearrisk.org/soaring_article.php,/u/hblanks,1
+0,2013-11-10 10:23:18 -0600,"/t/go,/t/programming",Intro to (images in) Go – http,http://www.pheelicks.com/2013/11/intro-to-images-in-go-http/,/u/pheelicks,2
+0,2013-11-09 20:23:20 -0600,"/t/c,/t/ios",Xcode Build Process,http://www.objc.io/issue-6/build-process.html,/u/bcroesch,5
+0,2013-11-09 18:12:38 -0600,"/t/c,/t/linux,/t/security",Easier understanding of the Debian OpenSSL bug,http://www.tedunangst.com/flak/post/easier-understanding-of-the-Debian-OpenSSL-bug,/u/jcs,5
+0,2013-11-09 11:40:26 -0600,"/t/go,/t/java,/t/programming","GCC Looks To Turn Off Java, Replace With Go Or ADA",http://www.phoronix.com/scan.php?page=news_item&px=MTUwOTA,/u/journeysquid,2
+0,2013-11-09 11:38:38 -0600,/t/practices,"""Because Marissa Said So"" - Yahoos Bristle at Mayer's New QPR Ranking and ""Silent Layoffs""",http://allthingsd.com/20131108/because-marissa-said-so-yahoos-bristle-at-mayers-new-qpr-ranking-system-and-silent-layoffs/,/u/journeysquid,1
+2,2013-11-08 04:42:29 -0600,/t/security,OpenSSH Security Advisory,http://www.openssh.com/txt/gcmrekey.adv,/u/korchha,10
+0,2013-11-08 15:57:14 -0600,/t/ruby,Formatting your logs for the sake of visibility,http://blog.yannick.io/rails/2013/11/08/formatting-your-logs-for-the-sake-of-visibility.html,/u/ys,2
+0,2013-11-08 12:10:23 -0600,/t/practices,A culture of beer and overtime,http://www.jayhuang.org/blog/a-culture-of-beer-and-overtime/,/u/journeysquid,3
+0,2013-11-08 12:09:44 -0600,/t/web,ZURB Ink: Responsive HTML Email Framework,http://designinstruct.com/tool/responsive-html-email-framework-zurb-ink/,/u/journeysquid,3

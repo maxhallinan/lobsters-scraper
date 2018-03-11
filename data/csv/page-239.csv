@@ -1,25 +1,25 @@
-0,2017-08-19 08:36:30 -0500,"['/t/scala', '/t/testing']","Domain models, Algebraic laws and Unit tests",http://debasishg.blogspot.com/2017/06/domain-models-algebraic-laws-and-unit.html,/u/pushcx,3
-8,2017-08-18 05:33:39 -0500,['/t/programming'],Aphorisms on programming language design,http://www.rntz.net/post/2017-01-27-aphorisms-on-pl-design.html,/u/julienXX,40
-1,2017-08-18 21:48:08 -0500,"['/t/hardware', '/t/security']",Secret chips in replacement parts can completely hijack your phone’s security,https://arstechnica.com/information-technology/2017/08/a-repair-shop-could-completely-hack-your-phone-and-you-wouldnt-know-it/,/u/calvin,8
-1,2017-08-18 13:46:29 -0500,"['/t/databases', '/t/web']",Firebase: 5 way-too-common misconceptions,https://medium.freecodecamp.org/firebase-5-way-too-common-misconceptions-93b843ee1b93,/u/cathryn,9
-10,2017-08-19 05:23:26 -0500,"['/t/api', '/t/javascript', '/t/rant']",React and Redux are a joke right?,https://games.greggman.com/game/react-and-redux-are-a-joke-right/,/u/friendlysock,7
-1,2017-08-18 21:18:19 -0500,['/t/performance'],Transparent Hugepages: measuring the performance impact,https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/,/u/calvin,8
-3,2017-08-18 11:30:31 -0500,"['/t/hardware', '/t/release', '/t/reversing']",sandsifter: the x86 processor fuzzer,https://github.com/xoreaxeaxeax/sandsifter,/u/pushcx,20
-3,2017-08-18 11:30:42 -0500,"['/t/compsci', '/t/python']",Demystifying Dynamic Programming,https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296,/u/pushcx,11
-0,2017-08-18 13:05:20 -0500,['/t/databases'],Introducing WAL-G from Citus: Faster Disaster Recovery for Postgres,https://www.citusdata.com/blog/2017/08/18/introducing-wal-g-faster-restores-for-postgres/,/u/craigkerstiens,8
-12,2017-08-18 08:25:12 -0500,['/t/databases'],SQL subquery performance was 260x faster than a left join,https://crate.io/a/sql-subquery-vs-left-join/,/u/nslater,12
-0,2017-08-18 20:09:05 -0500,"['/t/art', '/t/web']",typedrummer,http://typedrummer.com,/u/sevan,6
-0,2017-08-19 00:31:13 -0500,"['/t/pdf', '/t/graphics']",Fast Poisson Disk Sampling in Arbitrary Dimensions (2007),https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf,/u/tomjakubowski,3
-4,2017-08-19 09:28:49 -0500,['/t/culture'],The Three Pillars of Healthy Open Source Communities,https://crate.io/a/three-pillars-healthy-open-source-communities/,/u/nslater,2
-0,2017-08-19 02:05:34 -0500,"['/t/pdf', '/t/slides', '/t/graphics']",Landscape Creation and Rendering in REDengine 3,http://www.gdcvault.com/play/1020197/Landscape-Creation-and-Rendering-in,/u/mikejsavage,2
-2,2017-08-18 15:44:27 -0500,"['/t/compilers', '/t/historical', '/t/release']",abc: A B Compiler,https://github.com/aap/abc,/u/trn,5
-19,2017-08-17 17:13:46 -0500,"['/t/compilers', '/t/scala']",Twitter forks Scala,https://github.com/twitter/reasonable-scala,/u/soc,33
-0,2017-08-18 14:44:20 -0500,"['/t/pdf', '/t/mac', '/t/security']",Exploitations of Uninitialized Uses on macOS Sierra,https://www.usenix.org/system/files/conference/woot17/woot17-paper-xu.pdf,/u/avisaven,6
-12,2017-08-18 13:42:37 -0500,"['/t/book', '/t/practices', '/t/programming']",books chapter nine,http://www.tedunangst.com/flak/post/books-chapter-nine,/u/calvin,2
-3,2017-08-18 07:32:46 -0500,['/t/security'],Unfixable Automobile Computer Security Vulnerability,https://www.schneier.com/blog/archives/2017/08/unfixable_autom.html,/u/pgl,6
-0,2017-08-18 21:20:31 -0500,['/t/databases'],When Join Order Matters,https://mastel.org/blog/when-join-order-matters,/u/calvin,2
-10,2017-08-17 18:26:32 -0500,"['/t/ios', '/t/law', '/t/privacy', '/t/security']",iOS 11 Cop Button Temporarily Disables Touch-ID,https://www.theverge.com/2017/8/17/16161758/ios-11-touch-id-disable-emergency-services-lock,/u/timetoplatypus,31
-19,2017-08-17 06:02:17 -0500,"['/t/games', '/t/linux']",Dwarf Fortress starting during apt-get upgrade,https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade,/u/mpdehnel,85
-5,2017-08-18 03:46:07 -0500,"['/t/programming', '/t/swift']",Task-based concurrency manifesto draft,https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782,/u/mrfabbri,8
-0,2017-08-18 11:29:48 -0500,"['/t/databases', '/t/dotnet', '/t/release']",Rezoom.SQL: an F# ORM for statically typed SQL queries,https://github.com/rspeele/Rezoom.SQL,/u/pushcx,5
-0,2017-08-18 11:29:19 -0500,"['/t/compilers', '/t/haskell', '/t/reversing']",INLIN(E)ing: A case study,https://mpickering.github.io/posts/2017-05-17-inlining-case-study.html,/u/pushcx,5
+0,2017-08-19 08:36:30 -0500,"/t/scala,/t/testing","Domain models, Algebraic laws and Unit tests",http://debasishg.blogspot.com/2017/06/domain-models-algebraic-laws-and-unit.html,/u/pushcx,3
+8,2017-08-18 05:33:39 -0500,/t/programming,Aphorisms on programming language design,http://www.rntz.net/post/2017-01-27-aphorisms-on-pl-design.html,/u/julienXX,40
+1,2017-08-18 21:48:08 -0500,"/t/hardware,/t/security",Secret chips in replacement parts can completely hijack your phone’s security,https://arstechnica.com/information-technology/2017/08/a-repair-shop-could-completely-hack-your-phone-and-you-wouldnt-know-it/,/u/calvin,8
+1,2017-08-18 13:46:29 -0500,"/t/databases,/t/web",Firebase: 5 way-too-common misconceptions,https://medium.freecodecamp.org/firebase-5-way-too-common-misconceptions-93b843ee1b93,/u/cathryn,9
+10,2017-08-19 05:23:26 -0500,"/t/api,/t/javascript,/t/rant",React and Redux are a joke right?,https://games.greggman.com/game/react-and-redux-are-a-joke-right/,/u/friendlysock,7
+1,2017-08-18 21:18:19 -0500,/t/performance,Transparent Hugepages: measuring the performance impact,https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/,/u/calvin,8
+3,2017-08-18 11:30:31 -0500,"/t/hardware,/t/release,/t/reversing",sandsifter: the x86 processor fuzzer,https://github.com/xoreaxeaxeax/sandsifter,/u/pushcx,20
+3,2017-08-18 11:30:42 -0500,"/t/compsci,/t/python",Demystifying Dynamic Programming,https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296,/u/pushcx,11
+0,2017-08-18 13:05:20 -0500,/t/databases,Introducing WAL-G from Citus: Faster Disaster Recovery for Postgres,https://www.citusdata.com/blog/2017/08/18/introducing-wal-g-faster-restores-for-postgres/,/u/craigkerstiens,8
+12,2017-08-18 08:25:12 -0500,/t/databases,SQL subquery performance was 260x faster than a left join,https://crate.io/a/sql-subquery-vs-left-join/,/u/nslater,12
+0,2017-08-18 20:09:05 -0500,"/t/art,/t/web",typedrummer,http://typedrummer.com,/u/sevan,6
+0,2017-08-19 00:31:13 -0500,"/t/pdf,/t/graphics",Fast Poisson Disk Sampling in Arbitrary Dimensions (2007),https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf,/u/tomjakubowski,3
+4,2017-08-19 09:28:49 -0500,/t/culture,The Three Pillars of Healthy Open Source Communities,https://crate.io/a/three-pillars-healthy-open-source-communities/,/u/nslater,2
+0,2017-08-19 02:05:34 -0500,"/t/pdf,/t/slides,/t/graphics",Landscape Creation and Rendering in REDengine 3,http://www.gdcvault.com/play/1020197/Landscape-Creation-and-Rendering-in,/u/mikejsavage,2
+2,2017-08-18 15:44:27 -0500,"/t/compilers,/t/historical,/t/release",abc: A B Compiler,https://github.com/aap/abc,/u/trn,5
+19,2017-08-17 17:13:46 -0500,"/t/compilers,/t/scala",Twitter forks Scala,https://github.com/twitter/reasonable-scala,/u/soc,33
+0,2017-08-18 14:44:20 -0500,"/t/pdf,/t/mac,/t/security",Exploitations of Uninitialized Uses on macOS Sierra,https://www.usenix.org/system/files/conference/woot17/woot17-paper-xu.pdf,/u/avisaven,6
+12,2017-08-18 13:42:37 -0500,"/t/book,/t/practices,/t/programming",books chapter nine,http://www.tedunangst.com/flak/post/books-chapter-nine,/u/calvin,2
+3,2017-08-18 07:32:46 -0500,/t/security,Unfixable Automobile Computer Security Vulnerability,https://www.schneier.com/blog/archives/2017/08/unfixable_autom.html,/u/pgl,6
+0,2017-08-18 21:20:31 -0500,/t/databases,When Join Order Matters,https://mastel.org/blog/when-join-order-matters,/u/calvin,2
+10,2017-08-17 18:26:32 -0500,"/t/ios,/t/law,/t/privacy,/t/security",iOS 11 Cop Button Temporarily Disables Touch-ID,https://www.theverge.com/2017/8/17/16161758/ios-11-touch-id-disable-emergency-services-lock,/u/timetoplatypus,31
+19,2017-08-17 06:02:17 -0500,"/t/games,/t/linux",Dwarf Fortress starting during apt-get upgrade,https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade,/u/mpdehnel,85
+5,2017-08-18 03:46:07 -0500,"/t/programming,/t/swift",Task-based concurrency manifesto draft,https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782,/u/mrfabbri,8
+0,2017-08-18 11:29:48 -0500,"/t/databases,/t/dotnet,/t/release",Rezoom.SQL: an F# ORM for statically typed SQL queries,https://github.com/rspeele/Rezoom.SQL,/u/pushcx,5
+0,2017-08-18 11:29:19 -0500,"/t/compilers,/t/haskell,/t/reversing",INLIN(E)ing: A case study,https://mpickering.github.io/posts/2017-05-17-inlining-case-study.html,/u/pushcx,5

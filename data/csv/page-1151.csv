@@ -1,25 +1,25 @@
-0,2015-03-04 19:16:38 -0600,"['/t/practices', '/t/vcs']","Centralizing distributed version control, revisited",https://blogs.janestreet.com/centralizing-distributed-version-control-revisited/,/u/kyle,14
-0,2015-03-05 14:26:22 -0600,['/t/go'],Testing in Go by example,https://smartystreets.com/blog/2015/02/go-testing-part-1-vanillla,/u/journeysquid,1
-0,2015-03-05 13:58:31 -0600,"['/t/mobile', '/t/programming']",Mobile Chameleon: A round-up of multiplatform mobile SDKs,http://www.mobilechameleon.com/,/u/zem,1
-1,2015-03-05 09:57:44 -0600,"['/t/security', '/t/web']",Security and the Internet of things,https://dirk.to/blog/2015/03/05/internet-of-things-security.html,/u/dirk,1
-7,2015-03-04 01:45:12 -0600,['/t/c'],I Do Not Know C,http://kukuruku.co/hub/programming/i-do-not-know-c,/u/kyle,39
-17,2015-03-04 05:37:48 -0600,"['/t/databases', '/t/practices']",It's Time To Get Over That Stored Procedure Aversion You Have,http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/,/u/peter,19
-0,2015-03-04 19:45:26 -0600,"['/t/games', '/t/programming']",A text-based format for concurrent world editing,http://the-witness.net/news/2011/12/engine-tech-concurrent-world-editing/,/u/zem,8
-2,2015-03-04 19:35:44 -0600,['/t/openbsd'],OpenBSD Foundation GSoC 2015,http://marc.info/?l=openbsd-misc&m=142548026720389&w=2,/u/cnst,3
-2,2015-03-04 13:35:19 -0600,"['/t/compsci', '/t/math']",Introduction to Domain Theory,http://www.cs.nott.ac.uk/~gmh/domains.html,/u/jozefg,7
-2,2015-03-04 07:05:42 -0600,"['/t/games', '/t/programming']","Valve announces Source 2 engine, free for developers",http://www.polygon.com/2015/3/3/8145273/valve-source-2-announcement-free-developers,/u/calvin,11
-0,2015-03-04 23:42:15 -0600,['/t/practices'],A Spreadsheet Way of Knowledge (1984),https://medium.com/backchannel/a-spreadsheet-way-of-knowledge-8de60af7146e,/u/pushcx,2
-4,2015-03-04 13:51:49 -0600,"['/t/culture', '/t/vcs']",Semantic Linefeeds,http://rhodesmill.org/brandon/2012/one-sentence-per-line/,/u/joshuacc,12
-0,2015-03-04 13:23:33 -0600,"['/t/video', '/t/distributed']",Christopher Meiklejohn on A Note on Distributed Computing (RPC Story),https://www.youtube.com/watch?v=z79mjsLdkpY,/u/cmeiklejohn,6
-4,2015-03-04 10:39:55 -0600,"['/t/android', '/t/hardware', '/t/ios', '/t/mobile', '/t/windows']",An interactive Comparison Chart of the 300 most popular Tablets,http://www.productchart.com/tablets/,/u/no_gravity,3
-2,2015-03-03 23:32:49 -0600,"['/t/compsci', '/t/programming', '/t/security']","What is noninterference, and how do we enforce it?",http://www.pl-enthusiast.net/2015/03/03/noninterference/,/u/awruef,13
-7,2015-03-03 15:59:40 -0600,['/t/vcs'],Gitless: a version control system,http://gitless.com/,/u/mjn,20
-5,2015-03-03 16:19:57 -0600,"['/t/javascript', '/t/programming']",Steve Yegge's Next Big Language Revisited,http://lebo.io/2015/03/02/steve-yegges-next-big-language-revisited.html,/u/ngrilly,15
-1,2015-03-04 23:40:17 -0600,"['/t/culture', '/t/person']",Momofuku Ando’s 105th Birthday,http://www.google.com/doodles/momofuku-andos-105th-birthday,/u/cnst,1
-0,2015-03-04 09:57:55 -0600,['/t/openbsd'],errata for X server infoleak,http://ftp.openbsd.org/pub/OpenBSD/patches/5.6/common/016_xserver.patch.sig,/u/rsantos,2
-0,2015-03-04 09:16:32 -0600,"['/t/javascript', '/t/practices']",Unit Testing Angular Views To Avoid the Integration Test Scam,http://trov-dev.ghost.io/unit-testing-angular-views-to-avoid-the-integration-test-scam/,/u/pushcx,2
-0,2015-03-03 14:57:29 -0600,['/t/databases'],Rlite - A serverless Redis-compatible database,https://github.com/seppo0010/rlite,/u/fcambus,17
-1,2015-03-04 03:04:18 -0600,"['/t/go', '/t/practices', '/t/ruby', '/t/web']","From a Ruby monolith to microservices in Go, lessons learned",https://sourcegraph.com/blog/live/gopherconindia/112656568167,/u/pushcx,2
-0,2015-03-04 16:16:21 -0600,"['/t/culture', '/t/person']",Sixteen Years,http://metatalk.metafilter.com/23626/Sixteen-Years,/u/pushcx,1
-0,2015-03-04 06:50:55 -0600,['/t/dotnet'],How to run ASP.NET 5 Beta 3 or GoLang on a Raspberry Pi 2 - Scott Hanselman,http://www.hanselman.com/blog/HowToRunASPNET5Beta3OrGoLangOnARaspberryPi2.aspx,/u/bchar,2
-0,2015-03-04 06:49:04 -0600,['/t/dotnet'],ASP.NET 5 - A Deep Dive into the ASP.NET 5 Runtime,https://msdn.microsoft.com/en-us/magazine/dn913182.aspx,/u/bchar,2
+0,2015-03-04 19:16:38 -0600,"/t/practices,/t/vcs","Centralizing distributed version control, revisited",https://blogs.janestreet.com/centralizing-distributed-version-control-revisited/,/u/kyle,14
+0,2015-03-05 14:26:22 -0600,/t/go,Testing in Go by example,https://smartystreets.com/blog/2015/02/go-testing-part-1-vanillla,/u/journeysquid,1
+0,2015-03-05 13:58:31 -0600,"/t/mobile,/t/programming",Mobile Chameleon: A round-up of multiplatform mobile SDKs,http://www.mobilechameleon.com/,/u/zem,1
+1,2015-03-05 09:57:44 -0600,"/t/security,/t/web",Security and the Internet of things,https://dirk.to/blog/2015/03/05/internet-of-things-security.html,/u/dirk,1
+7,2015-03-04 01:45:12 -0600,/t/c,I Do Not Know C,http://kukuruku.co/hub/programming/i-do-not-know-c,/u/kyle,39
+17,2015-03-04 05:37:48 -0600,"/t/databases,/t/practices",It's Time To Get Over That Stored Procedure Aversion You Have,http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/,/u/peter,19
+0,2015-03-04 19:45:26 -0600,"/t/games,/t/programming",A text-based format for concurrent world editing,http://the-witness.net/news/2011/12/engine-tech-concurrent-world-editing/,/u/zem,8
+2,2015-03-04 19:35:44 -0600,/t/openbsd,OpenBSD Foundation GSoC 2015,http://marc.info/?l=openbsd-misc&m=142548026720389&w=2,/u/cnst,3
+2,2015-03-04 13:35:19 -0600,"/t/compsci,/t/math",Introduction to Domain Theory,http://www.cs.nott.ac.uk/~gmh/domains.html,/u/jozefg,7
+2,2015-03-04 07:05:42 -0600,"/t/games,/t/programming","Valve announces Source 2 engine, free for developers",http://www.polygon.com/2015/3/3/8145273/valve-source-2-announcement-free-developers,/u/calvin,11
+0,2015-03-04 23:42:15 -0600,/t/practices,A Spreadsheet Way of Knowledge (1984),https://medium.com/backchannel/a-spreadsheet-way-of-knowledge-8de60af7146e,/u/pushcx,2
+4,2015-03-04 13:51:49 -0600,"/t/culture,/t/vcs",Semantic Linefeeds,http://rhodesmill.org/brandon/2012/one-sentence-per-line/,/u/joshuacc,12
+0,2015-03-04 13:23:33 -0600,"/t/video,/t/distributed",Christopher Meiklejohn on A Note on Distributed Computing (RPC Story),https://www.youtube.com/watch?v=z79mjsLdkpY,/u/cmeiklejohn,6
+4,2015-03-04 10:39:55 -0600,"/t/android,/t/hardware,/t/ios,/t/mobile,/t/windows",An interactive Comparison Chart of the 300 most popular Tablets,http://www.productchart.com/tablets/,/u/no_gravity,3
+2,2015-03-03 23:32:49 -0600,"/t/compsci,/t/programming,/t/security","What is noninterference, and how do we enforce it?",http://www.pl-enthusiast.net/2015/03/03/noninterference/,/u/awruef,13
+7,2015-03-03 15:59:40 -0600,/t/vcs,Gitless: a version control system,http://gitless.com/,/u/mjn,20
+5,2015-03-03 16:19:57 -0600,"/t/javascript,/t/programming",Steve Yegge's Next Big Language Revisited,http://lebo.io/2015/03/02/steve-yegges-next-big-language-revisited.html,/u/ngrilly,15
+1,2015-03-04 23:40:17 -0600,"/t/culture,/t/person",Momofuku Ando’s 105th Birthday,http://www.google.com/doodles/momofuku-andos-105th-birthday,/u/cnst,1
+0,2015-03-04 09:57:55 -0600,/t/openbsd,errata for X server infoleak,http://ftp.openbsd.org/pub/OpenBSD/patches/5.6/common/016_xserver.patch.sig,/u/rsantos,2
+0,2015-03-04 09:16:32 -0600,"/t/javascript,/t/practices",Unit Testing Angular Views To Avoid the Integration Test Scam,http://trov-dev.ghost.io/unit-testing-angular-views-to-avoid-the-integration-test-scam/,/u/pushcx,2
+0,2015-03-03 14:57:29 -0600,/t/databases,Rlite - A serverless Redis-compatible database,https://github.com/seppo0010/rlite,/u/fcambus,17
+1,2015-03-04 03:04:18 -0600,"/t/go,/t/practices,/t/ruby,/t/web","From a Ruby monolith to microservices in Go, lessons learned",https://sourcegraph.com/blog/live/gopherconindia/112656568167,/u/pushcx,2
+0,2015-03-04 16:16:21 -0600,"/t/culture,/t/person",Sixteen Years,http://metatalk.metafilter.com/23626/Sixteen-Years,/u/pushcx,1
+0,2015-03-04 06:50:55 -0600,/t/dotnet,How to run ASP.NET 5 Beta 3 or GoLang on a Raspberry Pi 2 - Scott Hanselman,http://www.hanselman.com/blog/HowToRunASPNET5Beta3OrGoLangOnARaspberryPi2.aspx,/u/bchar,2
+0,2015-03-04 06:49:04 -0600,/t/dotnet,ASP.NET 5 - A Deep Dive into the ASP.NET 5 Runtime,https://msdn.microsoft.com/en-us/magazine/dn913182.aspx,/u/bchar,2

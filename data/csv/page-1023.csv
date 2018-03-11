@@ -1,25 +1,25 @@
-0,2015-09-19 01:47:05 -0500,"['/t/browsers', '/t/linux', '/t/privacy']","Fiber, X, Ad Blocking and Tracking",https://kver.wordpress.com/2015/09/18/on-ad-blocking-tracking-and-privacy-in-fiber/,/u/evaryont,2
-1,2015-09-18 22:01:43 -0500,"['/t/databases', '/t/go']",TiDB is a distributed SQL database compatible with MySQL protocol.,https://github.com/pingcap/tidb,/u/d2xdy2,2
-1,2015-09-18 17:15:10 -0500,['/t/security'],XcodeGhost Attacker Can Phish Passwords and Open URLs through Infected Apps,http://researchcenter.paloaltonetworks.com/2015/09/update-xcodeghost-attacker-can-phish-passwords-and-open-urls-though-infected-apps/,/u/adsouza,4
-0,2015-09-18 15:19:34 -0500,['/t/programming'],More portable (complex) macro musing,http://blog.nberger.com.ar/blog/2015/09/18/more-portable-complex-macro-musing,/u/gregspurrier,5
-1,2015-09-18 06:03:07 -0500,"['/t/video', '/t/distributed', '/t/hardware', '/t/scaling']","Dick Sites - ""Data Center Computers: Modern Challenges in CPU Design""",http://www.youtube.com/watch?v=QBu2Ae8-8LM,/u/apy,10
-31,2015-09-17 14:44:01 -0500,['/t/vcs'],Addressing Mercurial misconceptions,https://mail.python.org/pipermail/python-dev/2015-September/141652.html,/u/JordiGH,27
-0,2015-09-18 05:30:58 -0500,"['/t/javascript', '/t/web']",ES6 Number Improvements in Depth,http://ponyfoo.com/articles/es6-number-improvements-in-depth,/u/ponyfoo,5
-6,2015-09-18 02:44:06 -0500,"['/t/devops', '/t/rant', '/t/ruby', '/t/web']",The sad state of web app deployment,http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/,/u/daGrevis,18
-2,2015-09-17 23:47:38 -0500,['/t/book'],Hacker's Delight,http://www.amazon.com/Hackers-Delight-Edition-Henry-Warren/dp/0321842685,/u/zg,8
-0,2015-09-17 12:38:50 -0500,"['/t/programming', '/t/rust']",Announcing Rust 1.3,http://blog.rust-lang.org/2015/09/17/Rust-1.3.html,/u/steveklabnik,29
-1,2015-09-17 18:55:15 -0500,"['/t/compilers', '/t/games']",Jai Primer,https://sites.google.com/site/jailanguageprimer/,/u/jm,9
-0,2015-09-17 18:23:19 -0500,['/t/programming'],Ni: A smalltalkish language written atop nim,http://goran.krampe.se/2015/09/16/ni-a-strange-little-language/,/u/zem,10
-1,2015-09-17 14:01:20 -0500,['/t/go'],Go 1.6 will Make its Garbage Collector Faster,http://www.infoq.com/news/2015/09/go-16-garbage-collection,/u/journeysquid,12
-2,2015-09-17 12:10:28 -0500,"['/t/java', '/t/programming']",FizzBuzz Enterprise Edition,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition,/u/av,9
-2,2015-09-17 04:32:33 -0500,['/t/show'],hifi: hacks I find interesting,http://sigusr2.net/hifi.html,/u/apg,14
-0,2015-09-17 12:09:29 -0500,['/t/graphics'],The Art of PNG Glitch,http://ucnv.github.io/pnglitch/,/u/flyingfisch,12
-0,2015-09-17 11:03:26 -0500,"['/t/finance', '/t/hardware', '/t/security']",Tracking a Bluetooth Skimmer Gang in Mexico (Part 1),https://krebsonsecurity.com/2015/09/tracking-a-bluetooth-skimmer-gang-in-mexico/,/u/calvin,11
-0,2015-09-17 12:32:08 -0500,['/t/python'],Pineapple: A standalone frontend to IPython for Mac,http://nwhitehead.github.io/pineapple/,/u/av,9
-9,2015-09-16 23:31:58 -0500,['/t/math'],Do Numbers and Other Mathematical Entities Really Exist?,http://math.hawaii.edu/~lee/exist.html,/u/pushcx,16
-1,2015-09-17 15:40:54 -0500,"['/t/distributed', '/t/networking', '/t/rust', '/t/web']",cjdrs – cjdns implementation in Rust,https://github.com/Randati/cjdrs,/u/kel,5
-1,2015-09-17 08:42:08 -0500,"['/t/javascript', '/t/web']",ES6 Reflection in Depth,http://ponyfoo.com/articles/es6-reflection-in-depth,/u/ponyfoo,5
-6,2015-09-17 11:08:32 -0500,"['/t/culture', '/t/programming']",The toxic side of free. Or: how I lost the love for my side project,https://remysharp.com/2015/09/14/jsbin-toxic-part-1,/u/av,11
-1,2015-09-17 16:02:39 -0500,"['/t/games', '/t/reversing']",Translating Pokemon Red and Blue into Old English,https://github.com/averykatko/poccathyrsas,/u/pushcx,2
-0,2015-09-17 03:41:47 -0500,"['/t/programming', '/t/python']",PeachPy: Assembly Code Generation in High-Level Python,https://github.com/Maratyszcza/PeachPy,/u/av,12
-0,2015-09-17 14:01:02 -0500,['/t/api'],Common API Testing Mistakes,http://blog.runscope.com/posts/6-common-api-testing-mistakes-and-how-to-avoid-them,/u/journeysquid,3
+0,2015-09-19 01:47:05 -0500,"/t/browsers,/t/linux,/t/privacy","Fiber, X, Ad Blocking and Tracking",https://kver.wordpress.com/2015/09/18/on-ad-blocking-tracking-and-privacy-in-fiber/,/u/evaryont,2
+1,2015-09-18 22:01:43 -0500,"/t/databases,/t/go",TiDB is a distributed SQL database compatible with MySQL protocol.,https://github.com/pingcap/tidb,/u/d2xdy2,2
+1,2015-09-18 17:15:10 -0500,/t/security,XcodeGhost Attacker Can Phish Passwords and Open URLs through Infected Apps,http://researchcenter.paloaltonetworks.com/2015/09/update-xcodeghost-attacker-can-phish-passwords-and-open-urls-though-infected-apps/,/u/adsouza,4
+0,2015-09-18 15:19:34 -0500,/t/programming,More portable (complex) macro musing,http://blog.nberger.com.ar/blog/2015/09/18/more-portable-complex-macro-musing,/u/gregspurrier,5
+1,2015-09-18 06:03:07 -0500,"/t/video,/t/distributed,/t/hardware,/t/scaling","Dick Sites - ""Data Center Computers: Modern Challenges in CPU Design""",http://www.youtube.com/watch?v=QBu2Ae8-8LM,/u/apy,10
+31,2015-09-17 14:44:01 -0500,/t/vcs,Addressing Mercurial misconceptions,https://mail.python.org/pipermail/python-dev/2015-September/141652.html,/u/JordiGH,27
+0,2015-09-18 05:30:58 -0500,"/t/javascript,/t/web",ES6 Number Improvements in Depth,http://ponyfoo.com/articles/es6-number-improvements-in-depth,/u/ponyfoo,5
+6,2015-09-18 02:44:06 -0500,"/t/devops,/t/rant,/t/ruby,/t/web",The sad state of web app deployment,http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/,/u/daGrevis,18
+2,2015-09-17 23:47:38 -0500,/t/book,Hacker's Delight,http://www.amazon.com/Hackers-Delight-Edition-Henry-Warren/dp/0321842685,/u/zg,8
+0,2015-09-17 12:38:50 -0500,"/t/programming,/t/rust",Announcing Rust 1.3,http://blog.rust-lang.org/2015/09/17/Rust-1.3.html,/u/steveklabnik,29
+1,2015-09-17 18:55:15 -0500,"/t/compilers,/t/games",Jai Primer,https://sites.google.com/site/jailanguageprimer/,/u/jm,9
+0,2015-09-17 18:23:19 -0500,/t/programming,Ni: A smalltalkish language written atop nim,http://goran.krampe.se/2015/09/16/ni-a-strange-little-language/,/u/zem,10
+1,2015-09-17 14:01:20 -0500,/t/go,Go 1.6 will Make its Garbage Collector Faster,http://www.infoq.com/news/2015/09/go-16-garbage-collection,/u/journeysquid,12
+2,2015-09-17 12:10:28 -0500,"/t/java,/t/programming",FizzBuzz Enterprise Edition,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition,/u/av,9
+2,2015-09-17 04:32:33 -0500,/t/show,hifi: hacks I find interesting,http://sigusr2.net/hifi.html,/u/apg,14
+0,2015-09-17 12:09:29 -0500,/t/graphics,The Art of PNG Glitch,http://ucnv.github.io/pnglitch/,/u/flyingfisch,12
+0,2015-09-17 11:03:26 -0500,"/t/finance,/t/hardware,/t/security",Tracking a Bluetooth Skimmer Gang in Mexico (Part 1),https://krebsonsecurity.com/2015/09/tracking-a-bluetooth-skimmer-gang-in-mexico/,/u/calvin,11
+0,2015-09-17 12:32:08 -0500,/t/python,Pineapple: A standalone frontend to IPython for Mac,http://nwhitehead.github.io/pineapple/,/u/av,9
+9,2015-09-16 23:31:58 -0500,/t/math,Do Numbers and Other Mathematical Entities Really Exist?,http://math.hawaii.edu/~lee/exist.html,/u/pushcx,16
+1,2015-09-17 15:40:54 -0500,"/t/distributed,/t/networking,/t/rust,/t/web",cjdrs – cjdns implementation in Rust,https://github.com/Randati/cjdrs,/u/kel,5
+1,2015-09-17 08:42:08 -0500,"/t/javascript,/t/web",ES6 Reflection in Depth,http://ponyfoo.com/articles/es6-reflection-in-depth,/u/ponyfoo,5
+6,2015-09-17 11:08:32 -0500,"/t/culture,/t/programming",The toxic side of free. Or: how I lost the love for my side project,https://remysharp.com/2015/09/14/jsbin-toxic-part-1,/u/av,11
+1,2015-09-17 16:02:39 -0500,"/t/games,/t/reversing",Translating Pokemon Red and Blue into Old English,https://github.com/averykatko/poccathyrsas,/u/pushcx,2
+0,2015-09-17 03:41:47 -0500,"/t/programming,/t/python",PeachPy: Assembly Code Generation in High-Level Python,https://github.com/Maratyszcza/PeachPy,/u/av,12
+0,2015-09-17 14:01:02 -0500,/t/api,Common API Testing Mistakes,http://blog.runscope.com/posts/6-common-api-testing-mistakes-and-how-to-avoid-them,/u/journeysquid,3

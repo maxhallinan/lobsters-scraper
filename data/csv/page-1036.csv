@@ -1,25 +1,25 @@
-2,2015-08-31 11:00:21 -0500,['/t/practices'],Some thoughts on documentation,http://www.yesodweb.com/blog/2015/08/thoughts-on-documentation,/u/pushcx,19
-29,2015-08-31 04:26:28 -0500,['/t/ask'],What are you working on this week?,/s/gtk17k/what_are_you_working_on_this_week,/u/fcbsd,20
-2,2015-08-31 15:12:30 -0500,['/t/compsci'],"How Etsy Uses Thermodynamics to Help You Search for ""Geeky""",https://codeascraft.com/2015/08/31/how-etsy-uses-thermodynamics-to-help-you-search-for-geeky/,/u/englishm,5
-1,2015-09-01 01:24:17 -0500,"['/t/culture', '/t/programming']",The Diary of a Developer Trying to Change the Company He Works For (2002),http://www.jamesshore.com/Change-Diary/,/u/rdegges,4
-3,2015-08-31 07:28:14 -0500,['/t/virtualization'],The Muen Separation Kernel,http://muen.sk/,/u/englishm,11
-1,2015-09-01 10:11:06 -0500,['/t/practices'],The Agile Labour Union (2013),http://www.westspacejournal.org.au/article/the-agile-union/,/u/enn,0
-1,2015-08-31 09:35:43 -0500,"['/t/lua', '/t/networking']",Snabb Switch in a Nutshell,https://github.com/lukego/blog/issues/10,/u/englishm,9
-6,2015-08-31 03:52:20 -0500,['/t/web'],Hitcount.me: Live Website Popularity,https://benwilber.github.io/nginx/syslog/redis/logging/static/blog/hit/counter/2015/08/31/hitcountme-live-website-popularity.html,/u/benwilber,6
-6,2015-08-30 21:22:45 -0500,"['/t/practices', '/t/programming', '/t/vcs']",Step Up Your Pull Request Game,https://kev.inburke.com/kevin/better-commits-pulls-merges/,/u/kb,11
-0,2015-08-31 17:27:18 -0500,"['/t/programming', '/t/ruby']",Switching from RSpec to Minitest,http://www.3hv.co.uk/2014/02/14/lesson-of-the-day-switching-from-rspec-to-minitest/,/u/pushcx,4
-1,2015-08-31 13:01:39 -0500,"['/t/java', '/t/practices']",Dependency injection: syntax sugar over function composition,http://www.nurkiewicz.com/2015/08/dependency-injection-syntax-sugar-over.html,/u/afronski,3
-0,2015-08-31 20:12:36 -0500,"['/t/go', '/t/ruby']",Go at Basecamp,https://signalvnoise.com/posts/3897-go-at-basecamp,/u/journeysquid,1
-0,2015-08-31 16:26:25 -0500,['/t/culture'],Kellan Elliott-McCrea is leaving Etsy,http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/,/u/kb,4
-0,2015-08-31 12:55:40 -0500,['/t/ruby'],Using contracts.ruby With RSpec. Part 2 - waterlink blog,http://waterlink.github.io/blog/2015/08/31/using-contracts-dot-ruby-with-rspec-part-2/,/u/adit,3
-0,2015-08-31 06:42:10 -0500,"['/t/javascript', '/t/web']",ES6 Arrow Functions in Depth,http://ponyfoo.com/articles/es6-arrow-functions-in-depth,/u/ponyfoo,3
-0,2015-08-31 07:25:51 -0500,['/t/dotnet'],Developing ASP.NET 5 Web Apps with Visual Studio Code,http://developer.telerik.com/featured/developing-asp-net-5-web-apps-with-visual-studio-code/,/u/remotesynth,4
-1,2015-08-30 17:27:49 -0500,['/t/show'],Text Memorize – A command-line utility to help memorize text,https://github.com/zg/text-memorize,/u/zg,9
-0,2015-08-31 00:13:25 -0500,['/t/privacy'],Deep Perceptual Mapping for Thermal to Visible Face Recognition,http://arxiv.org/abs/1507.02879,/u/pushcx,2
-0,2015-08-30 08:51:39 -0500,"['/t/freebsd', '/t/linux']",Clarifying NextBSD's Near Term Expectations,http://www.nextbsd.org/clarifying-near-term-expectations/,/u/robin,9
-1,2015-08-29 17:48:52 -0500,"['/t/compilers', '/t/programming', '/t/rust']",An Optimising BF Compiler,http://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/,/u/Wilfred,13
-0,2015-08-29 22:35:35 -0500,"['/t/javascript', '/t/web']",ES6 JavaScript Destructuring in Depth,http://ponyfoo.com/articles/es6-destructuring-in-depth,/u/ponyfoo,8
-0,2015-08-29 19:18:20 -0500,"['/t/video', '/t/art', '/t/cogsci']",Two Minute Papers - Deep Neural Network Learns Van Gogh's Art,http://www.youtube.com/watch?v=-R9bJGNHltQ,/u/calvin,13
-0,2015-08-29 23:37:22 -0500,"['/t/design', '/t/programming']",Tufte in R,http://motioninsocial.com/tufte/,/u/pushcx,6
-4,2015-08-29 12:14:05 -0500,"['/t/release', '/t/security']",Why is Windows lying about what root certificates it trusts?,https://hexatomium.github.io/2015/08/29/why-is-windows/,/u/pushcx,9
-0,2015-08-29 17:50:58 -0500,"['/t/book', '/t/design', '/t/web']",Scalable and Modular Architecture for CSS,https://smacss.com/,/u/joshuacc,5
+2,2015-08-31 11:00:21 -0500,/t/practices,Some thoughts on documentation,http://www.yesodweb.com/blog/2015/08/thoughts-on-documentation,/u/pushcx,19
+29,2015-08-31 04:26:28 -0500,/t/ask,What are you working on this week?,/s/gtk17k/what_are_you_working_on_this_week,/u/fcbsd,20
+2,2015-08-31 15:12:30 -0500,/t/compsci,"How Etsy Uses Thermodynamics to Help You Search for ""Geeky""",https://codeascraft.com/2015/08/31/how-etsy-uses-thermodynamics-to-help-you-search-for-geeky/,/u/englishm,5
+1,2015-09-01 01:24:17 -0500,"/t/culture,/t/programming",The Diary of a Developer Trying to Change the Company He Works For (2002),http://www.jamesshore.com/Change-Diary/,/u/rdegges,4
+3,2015-08-31 07:28:14 -0500,/t/virtualization,The Muen Separation Kernel,http://muen.sk/,/u/englishm,11
+1,2015-09-01 10:11:06 -0500,/t/practices,The Agile Labour Union (2013),http://www.westspacejournal.org.au/article/the-agile-union/,/u/enn,0
+1,2015-08-31 09:35:43 -0500,"/t/lua,/t/networking",Snabb Switch in a Nutshell,https://github.com/lukego/blog/issues/10,/u/englishm,9
+6,2015-08-31 03:52:20 -0500,/t/web,Hitcount.me: Live Website Popularity,https://benwilber.github.io/nginx/syslog/redis/logging/static/blog/hit/counter/2015/08/31/hitcountme-live-website-popularity.html,/u/benwilber,6
+6,2015-08-30 21:22:45 -0500,"/t/practices,/t/programming,/t/vcs",Step Up Your Pull Request Game,https://kev.inburke.com/kevin/better-commits-pulls-merges/,/u/kb,11
+0,2015-08-31 17:27:18 -0500,"/t/programming,/t/ruby",Switching from RSpec to Minitest,http://www.3hv.co.uk/2014/02/14/lesson-of-the-day-switching-from-rspec-to-minitest/,/u/pushcx,4
+1,2015-08-31 13:01:39 -0500,"/t/java,/t/practices",Dependency injection: syntax sugar over function composition,http://www.nurkiewicz.com/2015/08/dependency-injection-syntax-sugar-over.html,/u/afronski,3
+0,2015-08-31 20:12:36 -0500,"/t/go,/t/ruby",Go at Basecamp,https://signalvnoise.com/posts/3897-go-at-basecamp,/u/journeysquid,1
+0,2015-08-31 16:26:25 -0500,/t/culture,Kellan Elliott-McCrea is leaving Etsy,http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/,/u/kb,4
+0,2015-08-31 12:55:40 -0500,/t/ruby,Using contracts.ruby With RSpec. Part 2 - waterlink blog,http://waterlink.github.io/blog/2015/08/31/using-contracts-dot-ruby-with-rspec-part-2/,/u/adit,3
+0,2015-08-31 06:42:10 -0500,"/t/javascript,/t/web",ES6 Arrow Functions in Depth,http://ponyfoo.com/articles/es6-arrow-functions-in-depth,/u/ponyfoo,3
+0,2015-08-31 07:25:51 -0500,/t/dotnet,Developing ASP.NET 5 Web Apps with Visual Studio Code,http://developer.telerik.com/featured/developing-asp-net-5-web-apps-with-visual-studio-code/,/u/remotesynth,4
+1,2015-08-30 17:27:49 -0500,/t/show,Text Memorize – A command-line utility to help memorize text,https://github.com/zg/text-memorize,/u/zg,9
+0,2015-08-31 00:13:25 -0500,/t/privacy,Deep Perceptual Mapping for Thermal to Visible Face Recognition,http://arxiv.org/abs/1507.02879,/u/pushcx,2
+0,2015-08-30 08:51:39 -0500,"/t/freebsd,/t/linux",Clarifying NextBSD's Near Term Expectations,http://www.nextbsd.org/clarifying-near-term-expectations/,/u/robin,9
+1,2015-08-29 17:48:52 -0500,"/t/compilers,/t/programming,/t/rust",An Optimising BF Compiler,http://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/,/u/Wilfred,13
+0,2015-08-29 22:35:35 -0500,"/t/javascript,/t/web",ES6 JavaScript Destructuring in Depth,http://ponyfoo.com/articles/es6-destructuring-in-depth,/u/ponyfoo,8
+0,2015-08-29 19:18:20 -0500,"/t/video,/t/art,/t/cogsci",Two Minute Papers - Deep Neural Network Learns Van Gogh's Art,http://www.youtube.com/watch?v=-R9bJGNHltQ,/u/calvin,13
+0,2015-08-29 23:37:22 -0500,"/t/design,/t/programming",Tufte in R,http://motioninsocial.com/tufte/,/u/pushcx,6
+4,2015-08-29 12:14:05 -0500,"/t/release,/t/security",Why is Windows lying about what root certificates it trusts?,https://hexatomium.github.io/2015/08/29/why-is-windows/,/u/pushcx,9
+0,2015-08-29 17:50:58 -0500,"/t/book,/t/design,/t/web",Scalable and Modular Architecture for CSS,https://smacss.com/,/u/joshuacc,5

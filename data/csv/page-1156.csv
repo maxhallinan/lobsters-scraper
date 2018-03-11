@@ -1,25 +1,25 @@
-0,2015-02-26 09:22:58 -0600,"['/t/compsci', '/t/linux', '/t/unix']",Understanding Uniprocessor OS Scheduling Policies,https://spin.atomicobject.com/2015/02/26/uniprocessor-scheduling-policies/,/u/silentbicycle,4
-0,2015-02-26 13:46:38 -0600,"['/t/api', '/t/c', '/t/release']",Pebble Releases SDK 3.0 for Pebble Time Smartwatch,http://developer.getpebble.com/sdk/whats-new/,/u/iamwil,2
-31,2015-02-26 06:39:36 -0600,"['/t/ask', '/t/distributed', '/t/networking']",Should one encrypt all internal service communications?,/s/lmgdpy/should_one_encrypt_all_internal_service,/u/apy,9
-0,2015-02-26 12:13:22 -0600,['/t/security'],"Fully Countering ""Trusting Trust"" through Diverse Double-Compiling",http://www.dwheeler.com/trusting-trust/dissertation/html/wheeler-trusting-trust-ddc.html,/u/pushcx,2
-1,2015-02-26 13:33:57 -0600,['/t/rant'],Corporate Bullshit Generator,http://cbsg.sourceforge.net/cgi-bin/live,/u/robin,3
-1,2015-02-26 06:18:28 -0600,"['/t/android', '/t/mobile']",Android Permissions Explained,http://developer.telerik.com/featured/android-permissions-explained/,/u/remotesynth,2
-10,2015-02-25 11:04:36 -0600,['/t/hardware'],The truth about Purism: Why Librem is not the same as libre,http://blogs.coreboot.org/blog/2015/02/23/the-truth-about-purism-why-librem-is-not-the-same-as-libre/,/u/wally,14
-0,2015-02-26 02:51:04 -0600,['/t/databases'],Tree structure query with PostgreSQL (2014),http://truongtx.me/2014/02/28/tree-structure-query-with-postgresql/,/u/jasper,4
-0,2015-02-25 12:24:19 -0600,['/t/openbsd'],OpenBSD Foundation 2014/2015 News & Fundraising,http://marc.info/?l=openbsd-misc&m=142488497710892,/u/fcambus,17
-2,2015-02-26 10:07:47 -0600,"['/t/ask', '/t/networking']",How can I determine who is using a given public IP address without DPI?,/s/h0tkf5/how_can_i_determine_who_is_using_given,/u/ry_brink,2
-1,2015-02-25 13:34:57 -0600,"['/t/networking', '/t/release']",InTrace: traceroute-like application that enumerates IP hops exploiting existing connections,https://code.google.com/p/intrace/wiki/intrace,/u/jcs,8
-2,2015-02-25 08:52:17 -0600,"['/t/browsers', '/t/javascript']",You’re Missing the Point of Server-Side Rendered JavaScript Apps,http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/,/u/daGrevis,6
-2,2015-02-25 08:38:24 -0600,['/t/web'],Tired of Safari (or wresting control of the mobile web from Apple),http://www.quirksmode.org/blog/archives/2015/02/tired_of_safari.html,/u/zacbrown,6
-0,2015-02-25 00:00:37 -0600,['/t/programming'],Life is More Than a Series of Cache Misses,http://prog21.dadgum.com/204.html,/u/haxor,21
-0,2015-02-25 14:52:24 -0600,"['/t/databases', '/t/programming', '/t/scaling', '/t/web']","Million user webchat with Full Stack Flux, React, redis and PostgreSQL",https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/,/u/tizoc,3
-22,2015-02-24 15:05:40 -0600,"['/t/haskell', '/t/programming']",Haskell actually does change the way you think,https://atilanevesoncode.wordpress.com/2015/02/20/haskel-actually-does-change-the-way-you-think/,/u/bitemyapp,23
-0,2015-02-25 09:33:41 -0600,['/t/privacy'],Generate One Time Secret Links,https://onetimesecret.com,/u/gabe,4
-0,2015-02-24 15:58:19 -0600,"['/t/compilers', '/t/go']",Go's compiler is now 100% Go,https://go-review.googlesource.com/#/c/5652/,/u/zacbrown,30
-2,2015-02-24 17:20:05 -0600,"['/t/culture', '/t/security']",GPG And Me - Moxie Marlinspike,http://www.thoughtcrime.org/blog/gpg-and-me/,/u/patrickod,33
-0,2015-02-25 08:00:50 -0600,"['/t/javascript', '/t/web']",Introduction to the React JavaScript Framework,http://developer.telerik.com/featured/introduction-to-the-react-javascript-framework/,/u/remotesynth,3
-0,2015-02-24 08:02:25 -0600,['/t/compsci'],"Proving that Android’s, Java’s and Python’s sorting algorithm is broken (and showing how to fix it)",http://envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/,/u/passy,36
-0,2015-02-25 00:28:14 -0600,"['/t/pdf', '/t/compsci']","Pebble, a Kernel Language for Modules and Abstract Data Types (1988)",http://research.microsoft.com/en-us/um/people/blampson/39-pebble/39-pebble.pdf,/u/kel,5
-2,2015-02-24 14:32:10 -0600,"['/t/haskell', '/t/programming']",Sodium - translate Pascal into Haskell,http://int-index.github.io/sodium/,/u/bitemyapp,13
-0,2015-02-25 08:12:31 -0600,"['/t/security', '/t/unix']",Using syslog and Echofish to detect persistent threats on your networks,http://www.echothrust.com/blogs/using-syslog-and-echofish-detect-persistent-threats-your-networks,/u/gadamo,1
-0,2015-02-24 15:02:08 -0600,"['/t/show', '/t/linux']",Prelinux - DIY init,https://github.com/mikejsavage/prelinux,/u/mikejsavage,11
+0,2015-02-26 09:22:58 -0600,"/t/compsci,/t/linux,/t/unix",Understanding Uniprocessor OS Scheduling Policies,https://spin.atomicobject.com/2015/02/26/uniprocessor-scheduling-policies/,/u/silentbicycle,4
+0,2015-02-26 13:46:38 -0600,"/t/api,/t/c,/t/release",Pebble Releases SDK 3.0 for Pebble Time Smartwatch,http://developer.getpebble.com/sdk/whats-new/,/u/iamwil,2
+31,2015-02-26 06:39:36 -0600,"/t/ask,/t/distributed,/t/networking",Should one encrypt all internal service communications?,/s/lmgdpy/should_one_encrypt_all_internal_service,/u/apy,9
+0,2015-02-26 12:13:22 -0600,/t/security,"Fully Countering ""Trusting Trust"" through Diverse Double-Compiling",http://www.dwheeler.com/trusting-trust/dissertation/html/wheeler-trusting-trust-ddc.html,/u/pushcx,2
+1,2015-02-26 13:33:57 -0600,/t/rant,Corporate Bullshit Generator,http://cbsg.sourceforge.net/cgi-bin/live,/u/robin,3
+1,2015-02-26 06:18:28 -0600,"/t/android,/t/mobile",Android Permissions Explained,http://developer.telerik.com/featured/android-permissions-explained/,/u/remotesynth,2
+10,2015-02-25 11:04:36 -0600,/t/hardware,The truth about Purism: Why Librem is not the same as libre,http://blogs.coreboot.org/blog/2015/02/23/the-truth-about-purism-why-librem-is-not-the-same-as-libre/,/u/wally,14
+0,2015-02-26 02:51:04 -0600,/t/databases,Tree structure query with PostgreSQL (2014),http://truongtx.me/2014/02/28/tree-structure-query-with-postgresql/,/u/jasper,4
+0,2015-02-25 12:24:19 -0600,/t/openbsd,OpenBSD Foundation 2014/2015 News & Fundraising,http://marc.info/?l=openbsd-misc&m=142488497710892,/u/fcambus,17
+2,2015-02-26 10:07:47 -0600,"/t/ask,/t/networking",How can I determine who is using a given public IP address without DPI?,/s/h0tkf5/how_can_i_determine_who_is_using_given,/u/ry_brink,2
+1,2015-02-25 13:34:57 -0600,"/t/networking,/t/release",InTrace: traceroute-like application that enumerates IP hops exploiting existing connections,https://code.google.com/p/intrace/wiki/intrace,/u/jcs,8
+2,2015-02-25 08:52:17 -0600,"/t/browsers,/t/javascript",You’re Missing the Point of Server-Side Rendered JavaScript Apps,http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/,/u/daGrevis,6
+2,2015-02-25 08:38:24 -0600,/t/web,Tired of Safari (or wresting control of the mobile web from Apple),http://www.quirksmode.org/blog/archives/2015/02/tired_of_safari.html,/u/zacbrown,6
+0,2015-02-25 00:00:37 -0600,/t/programming,Life is More Than a Series of Cache Misses,http://prog21.dadgum.com/204.html,/u/haxor,21
+0,2015-02-25 14:52:24 -0600,"/t/databases,/t/programming,/t/scaling,/t/web","Million user webchat with Full Stack Flux, React, redis and PostgreSQL",https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/,/u/tizoc,3
+22,2015-02-24 15:05:40 -0600,"/t/haskell,/t/programming",Haskell actually does change the way you think,https://atilanevesoncode.wordpress.com/2015/02/20/haskel-actually-does-change-the-way-you-think/,/u/bitemyapp,23
+0,2015-02-25 09:33:41 -0600,/t/privacy,Generate One Time Secret Links,https://onetimesecret.com,/u/gabe,4
+0,2015-02-24 15:58:19 -0600,"/t/compilers,/t/go",Go's compiler is now 100% Go,https://go-review.googlesource.com/#/c/5652/,/u/zacbrown,30
+2,2015-02-24 17:20:05 -0600,"/t/culture,/t/security",GPG And Me - Moxie Marlinspike,http://www.thoughtcrime.org/blog/gpg-and-me/,/u/patrickod,33
+0,2015-02-25 08:00:50 -0600,"/t/javascript,/t/web",Introduction to the React JavaScript Framework,http://developer.telerik.com/featured/introduction-to-the-react-javascript-framework/,/u/remotesynth,3
+0,2015-02-24 08:02:25 -0600,/t/compsci,"Proving that Android’s, Java’s and Python’s sorting algorithm is broken (and showing how to fix it)",http://envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/,/u/passy,36
+0,2015-02-25 00:28:14 -0600,"/t/pdf,/t/compsci","Pebble, a Kernel Language for Modules and Abstract Data Types (1988)",http://research.microsoft.com/en-us/um/people/blampson/39-pebble/39-pebble.pdf,/u/kel,5
+2,2015-02-24 14:32:10 -0600,"/t/haskell,/t/programming",Sodium - translate Pascal into Haskell,http://int-index.github.io/sodium/,/u/bitemyapp,13
+0,2015-02-25 08:12:31 -0600,"/t/security,/t/unix",Using syslog and Echofish to detect persistent threats on your networks,http://www.echothrust.com/blogs/using-syslog-and-echofish-detect-persistent-threats-your-networks,/u/gadamo,1
+0,2015-02-24 15:02:08 -0600,"/t/show,/t/linux",Prelinux - DIY init,https://github.com/mikejsavage/prelinux,/u/mikejsavage,11

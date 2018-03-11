@@ -1,25 +1,25 @@
-0,2016-12-05 11:33:05 -0600,"['/t/debugging', '/t/mac', '/t/networking', '/t/python']",Debugging Your Operating System: A Lesson In Memory Allocation,https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/,/u/ngoldbaum,6
-7,2016-12-04 16:03:11 -0600,['/t/programming'],io language,http://iolanguage.org,/u/zgrep,27
-0,2016-12-05 15:50:03 -0600,"['/t/browsers', '/t/reversing']",Latacora Riddle and Browser Fingerprinting,http://swisshttp.blogspot.com/2016/10/latacora-riddle.html,/u/pushcx,3
-0,2016-12-05 13:28:32 -0600,"['/t/video', '/t/erlang']",Erlang and Multicores,https://www.youtube.com/watch?v=bo5WL5IQAd0,/u/nato,4
-1,2016-12-05 07:44:46 -0600,['/t/security'],Security for the High-Risk User,https://www.johnscottrailton.com/security-for-the-high-risk-user/,/u/jabberwock,7
-0,2016-12-05 16:19:47 -0600,['/t/security'],"Tesco Bank cyber attack involved guesswork, study claims",https://www.theguardian.com/technology/2016/dec/02/tesco-bank-cyber-attack-involved-simply-guessing-details-study-claims,/u/adsouza,2
-0,2016-12-05 09:43:13 -0600,"['/t/video', '/t/science']",Breakthrough in Nuclear Fusion? - Prof. Dennis Whyte,https://www.youtube.com/watch?v=KkpqA8yG9T4,/u/MasonJar,4
-7,2016-12-05 15:40:37 -0600,"['/t/culture', '/t/practices']",What GitHub Did to Kill Its Trolls,http://fusion.net/story/369325/how-to-stop-online-harassment/,/u/soulcutter,5
-1,2016-12-05 00:06:31 -0600,['/t/reversing'],Disassembling Sublime Text,http://thume.ca/2016/12/03/disassembling-sublime-text/,/u/av,8
-81,2016-12-04 11:13:44 -0600,['/t/meta'],Decline in comment quality,/s/iudui0/decline_comment_quality,/u/dpk,21
-13,2016-12-04 11:26:32 -0600,"['/t/video', '/t/programming']",Type-Driven Development in Idris — Edwin Brady,https://www.youtube.com/watch?v=X36ye-1x_HQ,/u/copy,17
-0,2016-12-05 13:28:36 -0600,"['/t/javascript', '/t/web']","Automatically Installed JavaScript: Fix, or Kill?",https://onpon4.github.io/other/kill-js/,/u/pizzaiolo,1
-0,2016-12-05 09:09:18 -0600,['/t/cryptocurrencies'],What is Bitcoin? A Step-By-Step Guide For Beginners,http://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/,/u/av,2
-4,2016-12-04 07:55:36 -0600,"['/t/databases', '/t/php', '/t/security']",SQL injections vulnerabilities in Stack Overflow PHP questions,https://laurent22.github.io/so-injections/,/u/grahamc,24
-0,2016-12-05 10:39:23 -0600,"['/t/devops', '/t/distributed', '/t/go']","konfd - Manage application configuration using Kubernetes secrets, configmaps, and Go templates.",https://github.com/kelseyhightower/konfd,/u/ChrisShort,1
-0,2016-12-05 16:13:35 -0600,['/t/games'],Elon Musk's OpenAI and Google's DeepMind release their AI playgrounds to everyone,http://www.wired.co.uk/article/deepmind-labs-google-code-ai,/u/adsouza,0
-0,2016-12-05 05:01:15 -0600,"['/t/video', '/t/compsci']","VMSS 2016 -- Virtual Machine Summer School 2016, Cumberland Lodge",https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW,/u/sevan,2
-5,2016-12-04 03:37:23 -0600,['/t/programming'],wren - a classy little scripting language,http://wren.io/,/u/akalin,31
-16,2016-12-04 02:11:11 -0600,"['/t/book', '/t/lisp']",Practical Common Lisp,http://www.gigamonkeys.com/book/,/u/av,21
-0,2016-12-05 12:37:27 -0600,['/t/hardware'],Big Tablets Are Coming: Microsoft Surface Studio and Giant Apple iPads,http://www.evanmiller.org/big-tablets-are-coming.html,/u/pushcx,0
-0,2016-12-05 00:07:55 -0600,"['/t/art', '/t/python']",Python For Feature Films: Programming Images to Life,http://dgovil.com/blog/2016/11/30/python-for-feature-film/,/u/av,2
-6,2016-12-04 09:39:22 -0600,['/t/practices'],Data populists must seize our information – for the benefit of us all,https://www.theguardian.com/commentisfree/2016/dec/04/data-populists-must-seize-information-for-benefit-of-all-evgeny-morozov,/u/pizzaiolo,5
-3,2016-12-04 02:09:31 -0600,['/t/rust'],Rust: 128 bit integers preparing to be released,https://github.com/rust-lang/rust/pull/37900#issuecomment-264676043,/u/av,18
-0,2016-12-04 12:04:33 -0600,['/t/graphics'],Unified Rendering LOD,http://number-none.com/product/Unified%20Rendering%20LOD%2C%20Part%201/,/u/mikejsavage,7
-0,2016-12-04 14:52:14 -0600,"['/t/api', '/t/compilers', '/t/javascript']","Node.js, TC-39, and Modules",https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e,/u/friendlysock,4
+0,2016-12-05 11:33:05 -0600,"/t/debugging,/t/mac,/t/networking,/t/python",Debugging Your Operating System: A Lesson In Memory Allocation,https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/,/u/ngoldbaum,6
+7,2016-12-04 16:03:11 -0600,/t/programming,io language,http://iolanguage.org,/u/zgrep,27
+0,2016-12-05 15:50:03 -0600,"/t/browsers,/t/reversing",Latacora Riddle and Browser Fingerprinting,http://swisshttp.blogspot.com/2016/10/latacora-riddle.html,/u/pushcx,3
+0,2016-12-05 13:28:32 -0600,"/t/video,/t/erlang",Erlang and Multicores,https://www.youtube.com/watch?v=bo5WL5IQAd0,/u/nato,4
+1,2016-12-05 07:44:46 -0600,/t/security,Security for the High-Risk User,https://www.johnscottrailton.com/security-for-the-high-risk-user/,/u/jabberwock,7
+0,2016-12-05 16:19:47 -0600,/t/security,"Tesco Bank cyber attack involved guesswork, study claims",https://www.theguardian.com/technology/2016/dec/02/tesco-bank-cyber-attack-involved-simply-guessing-details-study-claims,/u/adsouza,2
+0,2016-12-05 09:43:13 -0600,"/t/video,/t/science",Breakthrough in Nuclear Fusion? - Prof. Dennis Whyte,https://www.youtube.com/watch?v=KkpqA8yG9T4,/u/MasonJar,4
+7,2016-12-05 15:40:37 -0600,"/t/culture,/t/practices",What GitHub Did to Kill Its Trolls,http://fusion.net/story/369325/how-to-stop-online-harassment/,/u/soulcutter,5
+1,2016-12-05 00:06:31 -0600,/t/reversing,Disassembling Sublime Text,http://thume.ca/2016/12/03/disassembling-sublime-text/,/u/av,8
+81,2016-12-04 11:13:44 -0600,/t/meta,Decline in comment quality,/s/iudui0/decline_comment_quality,/u/dpk,21
+13,2016-12-04 11:26:32 -0600,"/t/video,/t/programming",Type-Driven Development in Idris — Edwin Brady,https://www.youtube.com/watch?v=X36ye-1x_HQ,/u/copy,17
+0,2016-12-05 13:28:36 -0600,"/t/javascript,/t/web","Automatically Installed JavaScript: Fix, or Kill?",https://onpon4.github.io/other/kill-js/,/u/pizzaiolo,1
+0,2016-12-05 09:09:18 -0600,/t/cryptocurrencies,What is Bitcoin? A Step-By-Step Guide For Beginners,http://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/,/u/av,2
+4,2016-12-04 07:55:36 -0600,"/t/databases,/t/php,/t/security",SQL injections vulnerabilities in Stack Overflow PHP questions,https://laurent22.github.io/so-injections/,/u/grahamc,24
+0,2016-12-05 10:39:23 -0600,"/t/devops,/t/distributed,/t/go","konfd - Manage application configuration using Kubernetes secrets, configmaps, and Go templates.",https://github.com/kelseyhightower/konfd,/u/ChrisShort,1
+0,2016-12-05 16:13:35 -0600,/t/games,Elon Musk's OpenAI and Google's DeepMind release their AI playgrounds to everyone,http://www.wired.co.uk/article/deepmind-labs-google-code-ai,/u/adsouza,0
+0,2016-12-05 05:01:15 -0600,"/t/video,/t/compsci","VMSS 2016 -- Virtual Machine Summer School 2016, Cumberland Lodge",https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW,/u/sevan,2
+5,2016-12-04 03:37:23 -0600,/t/programming,wren - a classy little scripting language,http://wren.io/,/u/akalin,31
+16,2016-12-04 02:11:11 -0600,"/t/book,/t/lisp",Practical Common Lisp,http://www.gigamonkeys.com/book/,/u/av,21
+0,2016-12-05 12:37:27 -0600,/t/hardware,Big Tablets Are Coming: Microsoft Surface Studio and Giant Apple iPads,http://www.evanmiller.org/big-tablets-are-coming.html,/u/pushcx,0
+0,2016-12-05 00:07:55 -0600,"/t/art,/t/python",Python For Feature Films: Programming Images to Life,http://dgovil.com/blog/2016/11/30/python-for-feature-film/,/u/av,2
+6,2016-12-04 09:39:22 -0600,/t/practices,Data populists must seize our information – for the benefit of us all,https://www.theguardian.com/commentisfree/2016/dec/04/data-populists-must-seize-information-for-benefit-of-all-evgeny-morozov,/u/pizzaiolo,5
+3,2016-12-04 02:09:31 -0600,/t/rust,Rust: 128 bit integers preparing to be released,https://github.com/rust-lang/rust/pull/37900#issuecomment-264676043,/u/av,18
+0,2016-12-04 12:04:33 -0600,/t/graphics,Unified Rendering LOD,http://number-none.com/product/Unified%20Rendering%20LOD%2C%20Part%201/,/u/mikejsavage,7
+0,2016-12-04 14:52:14 -0600,"/t/api,/t/compilers,/t/javascript","Node.js, TC-39, and Modules",https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e,/u/friendlysock,4

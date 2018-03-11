@@ -1,25 +1,25 @@
-0,2018-01-16 06:50:35 -0600,"['/t/design', '/t/visualization']",Improving Sapiens' timeline page,https://truffles.me.uk/improving-sapiens-timeline-page,/u/timruffles,8
-0,2018-01-16 09:35:18 -0600,"['/t/compsci', '/t/math']",A Primer on Boolean Satisfiability,https://homes.cs.washington.edu/~emina/blog/2017-06-23-a-primer-on-sat.html,/u/hwayne,11
-2,2018-01-16 15:23:27 -0600,"['/t/browsers', '/t/games']",Play Awesome Indie Games Directly in Firefox Including the Award-Winning FTL (2014),https://blog.mozilla.org/blog/2014/10/14/play-awesome-indie-games-directly-in-firefox-including-the-award-winning-ftl/,/u/mulander,3
-1,2018-01-16 07:23:31 -0600,['/t/performance'],Microbenchmarking calls for idealized conditions,https://lemire.me/blog/2018/01/16/microbenchmarking-calls-for-idealized-conditions/,/u/calvin,7
-7,2018-01-15 15:26:59 -0600,"['/t/programming', '/t/unix']","Oil: Success with Aboriginal, Alpine, and Debian",http://www.oilshell.org/blog/2018/01/15.html,/u/andyc,24
-27,2018-01-16 10:33:32 -0600,['/t/meta'],Crustastun,http://crustastun.com/single-stunner.html,/u/hobbes,15
-8,2018-01-15 10:40:11 -0600,['/t/vcs'],Automatically managing personal and work git configurations,http://wyeworks.com/blog/2018/1/15/automatically-managing-personal-and-work-git-configurations,/u/wyeworks,21
-0,2018-01-16 09:20:29 -0600,"['/t/devops', '/t/scaling']","Real-Time Applications Metrics Available on Clever Cloud, a European PaaS",https://www.clever-cloud.com/blog/features/2018/01/16/realtime-metrics/,/u/cnivolle,2
-2,2018-01-15 18:24:39 -0600,"['/t/pdf', '/t/hardware', '/t/security']","Spectre, Meltdown and the Mill CPU",https://millcomputing.com/blog/wp-content/uploads/2018/01/Spectre.03.pdf,/u/akkartik,15
-0,2018-01-16 08:46:16 -0600,"['/t/netbsd', '/t/release', '/t/unix']",Announcing the pkgsrc-2017Q4 release,http://mail-index.netbsd.org/pkgsrc-users/2018/01/04/msg026073.html,/u/sevan,4
-0,2018-01-16 12:00:52 -0600,"['/t/javascript', '/t/ruby']",Testing Vue.js in Rails with Webpacker and Jest,http://wyeworks.com/blog/2018/1/16/Testing-Vuejs-in-Rails-with-Webpacker-and-Jest,/u/wyeworks,1
-21,2018-01-14 19:43:48 -0600,"['/t/browsers', '/t/linux', '/t/programming']",Digital Minimalism for the Working Hacker,http://blog.zdsmith.com/posts/digital-minimalism-for-the-working-hacker.html,/u/zdsmith,63
-48,2018-01-15 09:10:12 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/38xk4y/what_are_you_working_on_this_week,/u/caius,19
-7,2018-01-15 06:16:24 -0600,['/t/design'],"Nord: an arctic, north-bluish color palette",https://github.com/arcticicestudio/nord,/u/lthms,33
-4,2018-01-15 13:43:24 -0600,"['/t/compsci', '/t/distributed', '/t/scaling']",The Lambda and the Kappa Architectures,https://muratbuffalo.blogspot.com/2018/01/the-lambda-and-kappa-architectures.html,/u/metadata,5
-4,2018-01-15 11:03:45 -0600,"['/t/formalmethods', '/t/games']",Let's Prove Random Games are Winnable (with Formal Methods),https://www.hillelwayne.com/post/alloy-randomizer/,/u/hwayne,9
-0,2018-01-15 23:46:37 -0600,['/t/erlang'],Juggling & gluing with Extinct,http://blog.ikura.co/posts/juggling-and-gluing-with-extinct.html,/u/nato,2
-8,2018-01-15 13:05:55 -0600,"['/t/browsers', '/t/rant']",Regarding Browsers,https://garbados.github.io/my-blog/browsers-are-a-mess.html,/u/calvin,27
-0,2018-01-15 18:14:54 -0600,"['/t/video', '/t/mobile']",Nirvana Phone Demo (2010),https://www.youtube.com/watch?v=uCh413jsLZY,/u/nickpsecurity,8
-12,2018-01-15 07:19:42 -0600,['/t/testing'],Don't be fooled by 100% code coverage.,http://ordepdev.me/posts/code-coverage,/u/calvin,11
-2,2018-01-15 13:28:01 -0600,['/t/programming'],Should I pause a Ruby process to collect its stack?,https://jvns.ca/blog/2018/01/15/should-i-pause-a-ruby-process-to-collect-its-stack/,/u/calvin,8
-11,2018-01-14 23:15:53 -0600,"['/t/design', '/t/programming']",Studio is a minimalist GUI for solid modeling based on Guile Scheme,https://libfive.com/studio/,/u/Yogthos,29
-0,2018-01-15 13:18:04 -0600,['/t/mac'],Keyboard Maestro Macros I use,https://github.com/nikitavoloboev/my-mac-os/tree/master/km,/u/nikivi,5
-0,2018-01-15 10:32:11 -0600,"['/t/browsers', '/t/security', '/t/web']",Secure Contexts Everywhere,https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere/,/u/alex_gaynor,12
-8,2018-01-14 21:26:26 -0600,['/t/design'],Coding in color,https://medium.com/@evnbr/coding-in-color-3a6db2743a1e,/u/hwayne,22
+0,2018-01-16 06:50:35 -0600,"/t/design,/t/visualization",Improving Sapiens' timeline page,https://truffles.me.uk/improving-sapiens-timeline-page,/u/timruffles,8
+0,2018-01-16 09:35:18 -0600,"/t/compsci,/t/math",A Primer on Boolean Satisfiability,https://homes.cs.washington.edu/~emina/blog/2017-06-23-a-primer-on-sat.html,/u/hwayne,11
+2,2018-01-16 15:23:27 -0600,"/t/browsers,/t/games",Play Awesome Indie Games Directly in Firefox Including the Award-Winning FTL (2014),https://blog.mozilla.org/blog/2014/10/14/play-awesome-indie-games-directly-in-firefox-including-the-award-winning-ftl/,/u/mulander,3
+1,2018-01-16 07:23:31 -0600,/t/performance,Microbenchmarking calls for idealized conditions,https://lemire.me/blog/2018/01/16/microbenchmarking-calls-for-idealized-conditions/,/u/calvin,7
+7,2018-01-15 15:26:59 -0600,"/t/programming,/t/unix","Oil: Success with Aboriginal, Alpine, and Debian",http://www.oilshell.org/blog/2018/01/15.html,/u/andyc,24
+27,2018-01-16 10:33:32 -0600,/t/meta,Crustastun,http://crustastun.com/single-stunner.html,/u/hobbes,15
+8,2018-01-15 10:40:11 -0600,/t/vcs,Automatically managing personal and work git configurations,http://wyeworks.com/blog/2018/1/15/automatically-managing-personal-and-work-git-configurations,/u/wyeworks,21
+0,2018-01-16 09:20:29 -0600,"/t/devops,/t/scaling","Real-Time Applications Metrics Available on Clever Cloud, a European PaaS",https://www.clever-cloud.com/blog/features/2018/01/16/realtime-metrics/,/u/cnivolle,2
+2,2018-01-15 18:24:39 -0600,"/t/pdf,/t/hardware,/t/security","Spectre, Meltdown and the Mill CPU",https://millcomputing.com/blog/wp-content/uploads/2018/01/Spectre.03.pdf,/u/akkartik,15
+0,2018-01-16 08:46:16 -0600,"/t/netbsd,/t/release,/t/unix",Announcing the pkgsrc-2017Q4 release,http://mail-index.netbsd.org/pkgsrc-users/2018/01/04/msg026073.html,/u/sevan,4
+0,2018-01-16 12:00:52 -0600,"/t/javascript,/t/ruby",Testing Vue.js in Rails with Webpacker and Jest,http://wyeworks.com/blog/2018/1/16/Testing-Vuejs-in-Rails-with-Webpacker-and-Jest,/u/wyeworks,1
+21,2018-01-14 19:43:48 -0600,"/t/browsers,/t/linux,/t/programming",Digital Minimalism for the Working Hacker,http://blog.zdsmith.com/posts/digital-minimalism-for-the-working-hacker.html,/u/zdsmith,63
+48,2018-01-15 09:10:12 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/38xk4y/what_are_you_working_on_this_week,/u/caius,19
+7,2018-01-15 06:16:24 -0600,/t/design,"Nord: an arctic, north-bluish color palette",https://github.com/arcticicestudio/nord,/u/lthms,33
+4,2018-01-15 13:43:24 -0600,"/t/compsci,/t/distributed,/t/scaling",The Lambda and the Kappa Architectures,https://muratbuffalo.blogspot.com/2018/01/the-lambda-and-kappa-architectures.html,/u/metadata,5
+4,2018-01-15 11:03:45 -0600,"/t/formalmethods,/t/games",Let's Prove Random Games are Winnable (with Formal Methods),https://www.hillelwayne.com/post/alloy-randomizer/,/u/hwayne,9
+0,2018-01-15 23:46:37 -0600,/t/erlang,Juggling & gluing with Extinct,http://blog.ikura.co/posts/juggling-and-gluing-with-extinct.html,/u/nato,2
+8,2018-01-15 13:05:55 -0600,"/t/browsers,/t/rant",Regarding Browsers,https://garbados.github.io/my-blog/browsers-are-a-mess.html,/u/calvin,27
+0,2018-01-15 18:14:54 -0600,"/t/video,/t/mobile",Nirvana Phone Demo (2010),https://www.youtube.com/watch?v=uCh413jsLZY,/u/nickpsecurity,8
+12,2018-01-15 07:19:42 -0600,/t/testing,Don't be fooled by 100% code coverage.,http://ordepdev.me/posts/code-coverage,/u/calvin,11
+2,2018-01-15 13:28:01 -0600,/t/programming,Should I pause a Ruby process to collect its stack?,https://jvns.ca/blog/2018/01/15/should-i-pause-a-ruby-process-to-collect-its-stack/,/u/calvin,8
+11,2018-01-14 23:15:53 -0600,"/t/design,/t/programming",Studio is a minimalist GUI for solid modeling based on Guile Scheme,https://libfive.com/studio/,/u/Yogthos,29
+0,2018-01-15 13:18:04 -0600,/t/mac,Keyboard Maestro Macros I use,https://github.com/nikitavoloboev/my-mac-os/tree/master/km,/u/nikivi,5
+0,2018-01-15 10:32:11 -0600,"/t/browsers,/t/security,/t/web",Secure Contexts Everywhere,https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere/,/u/alex_gaynor,12
+8,2018-01-14 21:26:26 -0600,/t/design,Coding in color,https://medium.com/@evnbr/coding-in-color-3a6db2743a1e,/u/hwayne,22

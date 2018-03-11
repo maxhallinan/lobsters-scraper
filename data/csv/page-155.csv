@@ -1,25 +1,25 @@
-1,2017-10-24 16:40:45 -0500,"['/t/games', '/t/practices', '/t/programming']",The Carmack Plan,https://garbagecollected.org/2017/10/24/the-carmack-plan/,/u/robbiev,26
-0,2017-10-25 17:56:34 -0500,"['/t/ai', '/t/event', '/t/games']",ASYNC October '17: Machine Learning and Games online mini-conference,http://metamakersinstitute.com/events/async/,/u/mjn,1
-3,2017-10-24 21:36:13 -0500,['/t/graphics'],Remember that $86 million license plate scanner I replicated? I caught someone with it.,https://medium.freecodecamp.org/remember-that-86-million-license-plate-scanner-i-replicated-heres-what-happened-next-9f3c64e8f22b,/u/pushcx,21
-0,2017-10-25 18:37:40 -0500,['/t/networking'],Understanding TCP Sequence and Acknowledgment Numbers (2010),http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/,/u/pushcx,2
-9,2017-10-24 13:45:21 -0500,['/t/meta'],Add an electron tag,/s/khullb/add_electron_tag,/u/355E3B,30
-0,2017-10-25 13:14:36 -0500,"['/t/android', '/t/release']",Android Studio 3.0,https://android-developers.googleblog.com/2017/10/android-studio-30.html,/u/talklittle,4
-4,2017-10-25 06:30:29 -0500,['/t/c++'],Build Your Own Minimal and Scriptable Terminal,https://donniewest.com/build-your-own-minimal-and-scriptable-terminal,/u/av,4
-18,2017-10-24 08:26:38 -0500,"['/t/browsers', '/t/web']",miniwebproxy - a sanitising web proxy,https://www.tedunangst.com/flak/post/miniwebproxy,/u/kline,39
-1,2017-10-24 16:47:58 -0500,['/t/web'],Saying Goodbye to Firebug,https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/,/u/jad,22
-0,2017-10-25 08:43:24 -0500,['/t/compsci'],Dynamic Programming: First Principles,http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles,/u/balajmarius,3
-0,2017-10-25 06:31:44 -0500,"['/t/pdf', '/t/book', '/t/compsci', '/t/java', '/t/performance']",Efficient Immutable Collections,https://michael.steindorfer.name/publications/phd-thesis-efficient-immutable-collections.pdf,/u/pushcx,4
-9,2017-10-24 03:52:28 -0500,"['/t/games', '/t/rust']",Chucklefish developer discusses building one of their next projects in Rust,https://www.reddit.com/r/rust/comments/78bowa/hey_this_is_kyren_from_chucklefish_we_make_and/,/u/wezm,49
-3,2017-10-24 13:54:40 -0500,"['/t/performance', '/t/programming', '/t/testing', '/t/unix']",Oil Status Update: Parser Correctness and Performance,http://www.oilshell.org/blog/2017/10/24.html,/u/andyc,9
-0,2017-10-24 18:11:44 -0500,"['/t/compsci', '/t/math']",How Error Correcting Codes and Reed-Solomon works,https://monades.roperzh.com/error-correction-reed-solomon/,/u/roperzh,8
-6,2017-10-24 09:59:48 -0500,['/t/security'],Password Algorithms,http://penguindreams.org/blog/password-algorithms,/u/djsumdog,10
-0,2017-10-25 13:11:10 -0500,"['/t/performance', '/t/web']",FOIT vs. FOUT,"https://www.zachleat.com/foitfout/#4000,4000,4000,4000",/u/pushcx,1
-0,2017-10-25 06:31:12 -0500,"['/t/haskell', '/t/testing', '/t/web']",End To End Testing With Hspec (Almost),https://vadosware.io/post/end-to-end-testing-with-hspec-almost/,/u/pushcx,3
-2,2017-10-25 09:10:21 -0500,['/t/ruby'],Creating Configuration Objects in Ruby,https://blog.codeship.com/creating-configuration-objects-in-ruby/,/u/soulcutter,2
-0,2017-10-25 05:18:35 -0500,"['/t/python', '/t/release']",SciPy 1.0 released,https://mail.python.org/pipermail/scipy-user/2017-October/037357.html,/u/ngoldbaum,3
-0,2017-10-24 14:58:10 -0500,"['/t/games', '/t/haskell', '/t/virtualization']",Writing a ZX Spectrum game in Haskell (2015),https://dpwright.com/posts/2015/07/17/writing-a-zx-spectrum-game-in-haskell/,/u/pushcx,16
-1,2017-10-25 00:33:05 -0500,"['/t/show', '/t/c', '/t/c++', '/t/lua', '/t/programming']",A XMake integration in Sublime Text,https://github.com/tboox/xmake-sublime,/u/ruki,1
-0,2017-10-24 07:18:37 -0500,"['/t/compsci', '/t/education', '/t/programming', '/t/visualization']",A visualisation of Langton's ant,http://langton-ant.s3-website-eu-west-1.amazonaws.com,/u/hmaurer,17
-0,2017-10-25 09:35:53 -0500,['/t/java'],Can a non static method access static variable/method in Java?,http://javarevisited.blogspot.com/2017/10/can-non-static-method-access-static.html,/u/talisoroker,1
-2,2017-10-24 17:52:24 -0500,"['/t/pdf', '/t/databases']",A Simple and Efficient Implementation for Small Databases (1987),http://birrell.org/andrew/papers/024-DatabasesPaper-SOSP.pdf,/u/vfoley,7
-1,2017-10-24 18:04:49 -0500,['/t/linux'],Beavering away at the brilliantly bionic 18.04 LTS,http://www.markshuttleworth.com/archives/1518,/u/calvin,6
+1,2017-10-24 16:40:45 -0500,"/t/games,/t/practices,/t/programming",The Carmack Plan,https://garbagecollected.org/2017/10/24/the-carmack-plan/,/u/robbiev,26
+0,2017-10-25 17:56:34 -0500,"/t/ai,/t/event,/t/games",ASYNC October '17: Machine Learning and Games online mini-conference,http://metamakersinstitute.com/events/async/,/u/mjn,1
+3,2017-10-24 21:36:13 -0500,/t/graphics,Remember that $86 million license plate scanner I replicated? I caught someone with it.,https://medium.freecodecamp.org/remember-that-86-million-license-plate-scanner-i-replicated-heres-what-happened-next-9f3c64e8f22b,/u/pushcx,21
+0,2017-10-25 18:37:40 -0500,/t/networking,Understanding TCP Sequence and Acknowledgment Numbers (2010),http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/,/u/pushcx,2
+9,2017-10-24 13:45:21 -0500,/t/meta,Add an electron tag,/s/khullb/add_electron_tag,/u/355E3B,30
+0,2017-10-25 13:14:36 -0500,"/t/android,/t/release",Android Studio 3.0,https://android-developers.googleblog.com/2017/10/android-studio-30.html,/u/talklittle,4
+4,2017-10-25 06:30:29 -0500,/t/c++,Build Your Own Minimal and Scriptable Terminal,https://donniewest.com/build-your-own-minimal-and-scriptable-terminal,/u/av,4
+18,2017-10-24 08:26:38 -0500,"/t/browsers,/t/web",miniwebproxy - a sanitising web proxy,https://www.tedunangst.com/flak/post/miniwebproxy,/u/kline,39
+1,2017-10-24 16:47:58 -0500,/t/web,Saying Goodbye to Firebug,https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/,/u/jad,22
+0,2017-10-25 08:43:24 -0500,/t/compsci,Dynamic Programming: First Principles,http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles,/u/balajmarius,3
+0,2017-10-25 06:31:44 -0500,"/t/pdf,/t/book,/t/compsci,/t/java,/t/performance",Efficient Immutable Collections,https://michael.steindorfer.name/publications/phd-thesis-efficient-immutable-collections.pdf,/u/pushcx,4
+9,2017-10-24 03:52:28 -0500,"/t/games,/t/rust",Chucklefish developer discusses building one of their next projects in Rust,https://www.reddit.com/r/rust/comments/78bowa/hey_this_is_kyren_from_chucklefish_we_make_and/,/u/wezm,49
+3,2017-10-24 13:54:40 -0500,"/t/performance,/t/programming,/t/testing,/t/unix",Oil Status Update: Parser Correctness and Performance,http://www.oilshell.org/blog/2017/10/24.html,/u/andyc,9
+0,2017-10-24 18:11:44 -0500,"/t/compsci,/t/math",How Error Correcting Codes and Reed-Solomon works,https://monades.roperzh.com/error-correction-reed-solomon/,/u/roperzh,8
+6,2017-10-24 09:59:48 -0500,/t/security,Password Algorithms,http://penguindreams.org/blog/password-algorithms,/u/djsumdog,10
+0,2017-10-25 13:11:10 -0500,"/t/performance,/t/web",FOIT vs. FOUT,"https://www.zachleat.com/foitfout/#4000,4000,4000,4000",/u/pushcx,1
+0,2017-10-25 06:31:12 -0500,"/t/haskell,/t/testing,/t/web",End To End Testing With Hspec (Almost),https://vadosware.io/post/end-to-end-testing-with-hspec-almost/,/u/pushcx,3
+2,2017-10-25 09:10:21 -0500,/t/ruby,Creating Configuration Objects in Ruby,https://blog.codeship.com/creating-configuration-objects-in-ruby/,/u/soulcutter,2
+0,2017-10-25 05:18:35 -0500,"/t/python,/t/release",SciPy 1.0 released,https://mail.python.org/pipermail/scipy-user/2017-October/037357.html,/u/ngoldbaum,3
+0,2017-10-24 14:58:10 -0500,"/t/games,/t/haskell,/t/virtualization",Writing a ZX Spectrum game in Haskell (2015),https://dpwright.com/posts/2015/07/17/writing-a-zx-spectrum-game-in-haskell/,/u/pushcx,16
+1,2017-10-25 00:33:05 -0500,"/t/show,/t/c,/t/c++,/t/lua,/t/programming",A XMake integration in Sublime Text,https://github.com/tboox/xmake-sublime,/u/ruki,1
+0,2017-10-24 07:18:37 -0500,"/t/compsci,/t/education,/t/programming,/t/visualization",A visualisation of Langton's ant,http://langton-ant.s3-website-eu-west-1.amazonaws.com,/u/hmaurer,17
+0,2017-10-25 09:35:53 -0500,/t/java,Can a non static method access static variable/method in Java?,http://javarevisited.blogspot.com/2017/10/can-non-static-method-access-static.html,/u/talisoroker,1
+2,2017-10-24 17:52:24 -0500,"/t/pdf,/t/databases",A Simple and Efficient Implementation for Small Databases (1987),http://birrell.org/andrew/papers/024-DatabasesPaper-SOSP.pdf,/u/vfoley,7
+1,2017-10-24 18:04:49 -0500,/t/linux,Beavering away at the brilliantly bionic 18.04 LTS,http://www.markshuttleworth.com/archives/1518,/u/calvin,6

@@ -1,25 +1,25 @@
-0,2016-09-19 02:07:43 -0500,"['/t/compsci', '/t/math']",Calculus on Computational Graphs: Backpropagation,https://colah.github.io/posts/2015-08-Backprop/,/u/ngrilly,5
-0,2016-09-19 02:56:11 -0500,"['/t/linux', '/t/programming']",Understanding Evdev,http://who-t.blogspot.se/2016/09/understanding-evdev.html,/u/crazyloglad,4
-0,2016-09-19 08:07:31 -0500,"['/t/practices', '/t/programming', '/t/satire']",Stack Overflow as a Service – Pointer IO,https://medium.com/pointer-io/stack-overflow-as-a-service-eb86bd4b6fdd,/u/philosophicalhacker,4
-0,2016-09-18 18:37:10 -0500,"['/t/slides', '/t/video', '/t/debugging', '/t/linux']",A swiss army knife of debugging tools,http://jvns.ca/blog/2016/09/17/strange-loop-talk/,/u/calvin,10
-0,2016-09-19 10:14:59 -0500,"['/t/programming', '/t/release', '/t/windows']",PerfView is now Open Source (MIT) On GitHub,https://blogs.msdn.microsoft.com/vancem/2016/09/18/perfview-is-now-open-source-on-github/,/u/BruceM,1
-4,2016-09-18 13:15:47 -0500,"['/t/networking', '/t/security']",Mass-analyzing a chunk of the Internet,http://255.wf/2016-09-18-mass-analyzing-a-chunk-of-the-internet/,/u/calvin,9
-0,2016-09-18 20:49:54 -0500,"['/t/video', '/t/practices', '/t/python']",Beyond PEP 8 -- Best practices for beautiful intelligible code,https://www.youtube.com/watch?v=wf-BqAjZb8M,/u/Dawny33,6
-1,2016-09-18 06:04:07 -0500,"['/t/philosophy', '/t/programming']",Knowledge Debt,http://amir.rachum.com/blog/2016/09/15/knowledge-debt/,/u/AmirRachum,12
-0,2016-09-18 20:23:08 -0500,"['/t/design', '/t/historical', '/t/programming']",Hints for computer system design,https://blog.acolyer.org/2016/09/16/hints-for-computer-system-design/,/u/lei,4
-0,2016-09-18 17:53:52 -0500,['/t/networking'],Add BBR congestion control to TCP,https://patchwork.ozlabs.org/patch/671069/,/u/adsouza,5
-0,2016-09-18 12:00:22 -0500,"['/t/hardware', '/t/math']",Why Flyknit is really cool,http://ntlk.net/2016/09/18/why-flyknit-is-really-cool/,/u/antifuchs,9
-0,2016-09-18 17:34:29 -0500,"['/t/devops', '/t/distributed', '/t/networking']",Thoughts on Envoy's Design,http://lethain.com//envoy-design/,/u/antifuchs,3
-2,2016-09-18 09:48:37 -0500,['/t/practices'],RSS to Email - Newsletter powered by Jekyll and Campaign Monitor,https://www.romanzolotarev.com/rss-to-email/,/u/romanzolotarev,2
-5,2016-09-17 17:35:24 -0500,"['/t/emacs', '/t/release']",Emacs 25.1 released,https://lists.gnu.org/archive/html/emacs-devel/2016-09/msg00451.html,/u/calvin,24
-2,2016-09-17 21:57:26 -0500,"['/t/video', '/t/debugging', '/t/linux']",Systems programming as a swiss army knife,https://www.youtube.com/watch?v=HfD9IMZ9rKY,/u/unbalancedparentheses,16
-1,2016-09-17 17:19:06 -0500,['/t/programming'],Shared Libraries: Understanding Dynamic Loading,http://amir.rachum.com/blog/2016/09/17/shared-libraries/,/u/calvin,21
-0,2016-09-18 04:20:53 -0500,"['/t/pdf', '/t/c', '/t/linux']",The Inside Story on Shared Libraries and Dynamic Loading,http://cseweb.ucsd.edu/~gbournou/CSE131/the_inside_story_on_shared_libraries_and_dynamic_loading.pdf,/u/tkozik,6
-0,2016-09-18 06:24:57 -0500,['/t/programming'],Microservices: Real Architectural Patterns,http://www.elidedbranches.com/2016/08/microservices-real-architectural.html,/u/adsouza,3
-0,2016-09-17 20:09:30 -0500,"['/t/debugging', '/t/reversing']",The Voodoo of Elevation Gain and Strava (and How I Get Around It) (2015),http://regex.info/blog/2015-05-09/2568,/u/kel,9
-6,2016-09-17 11:02:28 -0500,"['/t/devops', '/t/release']","Introducing dumb-init, an init system for Docker containers",http://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html,/u/adsouza,12
-0,2016-09-17 22:13:47 -0500,"['/t/release', '/t/unix']",Bash-4.4 Release available,http://lists.gnu.org/archive/html/bug-bash/2016-09/msg00018.html,/u/romanzolotarev,4
-3,2016-09-17 12:16:24 -0500,['/t/python'],Asynchronous Programming in Python,https://engineering.quora.com/Asynchronous-Programming-in-Python,/u/av,2
-2,2016-09-17 04:36:45 -0500,"['/t/databases', '/t/release']",BedquiltDB (the JSON store built on PostgreSQL) Version 2,http://bedquiltdb.github.io/v2.html,/u/s_kilk,3
-3,2016-09-16 13:29:17 -0500,['/t/devops'],Some questions about Docker and rkt,http://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/,/u/thmzlt,26
-5,2016-09-16 14:36:13 -0500,['/t/vim'],My Life with NeoVim,https://robots.thoughtbot.com/my-life-with-neovim,/u/flyingfisch,25
+0,2016-09-19 02:07:43 -0500,"/t/compsci,/t/math",Calculus on Computational Graphs: Backpropagation,https://colah.github.io/posts/2015-08-Backprop/,/u/ngrilly,5
+0,2016-09-19 02:56:11 -0500,"/t/linux,/t/programming",Understanding Evdev,http://who-t.blogspot.se/2016/09/understanding-evdev.html,/u/crazyloglad,4
+0,2016-09-19 08:07:31 -0500,"/t/practices,/t/programming,/t/satire",Stack Overflow as a Service – Pointer IO,https://medium.com/pointer-io/stack-overflow-as-a-service-eb86bd4b6fdd,/u/philosophicalhacker,4
+0,2016-09-18 18:37:10 -0500,"/t/slides,/t/video,/t/debugging,/t/linux",A swiss army knife of debugging tools,http://jvns.ca/blog/2016/09/17/strange-loop-talk/,/u/calvin,10
+0,2016-09-19 10:14:59 -0500,"/t/programming,/t/release,/t/windows",PerfView is now Open Source (MIT) On GitHub,https://blogs.msdn.microsoft.com/vancem/2016/09/18/perfview-is-now-open-source-on-github/,/u/BruceM,1
+4,2016-09-18 13:15:47 -0500,"/t/networking,/t/security",Mass-analyzing a chunk of the Internet,http://255.wf/2016-09-18-mass-analyzing-a-chunk-of-the-internet/,/u/calvin,9
+0,2016-09-18 20:49:54 -0500,"/t/video,/t/practices,/t/python",Beyond PEP 8 -- Best practices for beautiful intelligible code,https://www.youtube.com/watch?v=wf-BqAjZb8M,/u/Dawny33,6
+1,2016-09-18 06:04:07 -0500,"/t/philosophy,/t/programming",Knowledge Debt,http://amir.rachum.com/blog/2016/09/15/knowledge-debt/,/u/AmirRachum,12
+0,2016-09-18 20:23:08 -0500,"/t/design,/t/historical,/t/programming",Hints for computer system design,https://blog.acolyer.org/2016/09/16/hints-for-computer-system-design/,/u/lei,4
+0,2016-09-18 17:53:52 -0500,/t/networking,Add BBR congestion control to TCP,https://patchwork.ozlabs.org/patch/671069/,/u/adsouza,5
+0,2016-09-18 12:00:22 -0500,"/t/hardware,/t/math",Why Flyknit is really cool,http://ntlk.net/2016/09/18/why-flyknit-is-really-cool/,/u/antifuchs,9
+0,2016-09-18 17:34:29 -0500,"/t/devops,/t/distributed,/t/networking",Thoughts on Envoy's Design,http://lethain.com//envoy-design/,/u/antifuchs,3
+2,2016-09-18 09:48:37 -0500,/t/practices,RSS to Email - Newsletter powered by Jekyll and Campaign Monitor,https://www.romanzolotarev.com/rss-to-email/,/u/romanzolotarev,2
+5,2016-09-17 17:35:24 -0500,"/t/emacs,/t/release",Emacs 25.1 released,https://lists.gnu.org/archive/html/emacs-devel/2016-09/msg00451.html,/u/calvin,24
+2,2016-09-17 21:57:26 -0500,"/t/video,/t/debugging,/t/linux",Systems programming as a swiss army knife,https://www.youtube.com/watch?v=HfD9IMZ9rKY,/u/unbalancedparentheses,16
+1,2016-09-17 17:19:06 -0500,/t/programming,Shared Libraries: Understanding Dynamic Loading,http://amir.rachum.com/blog/2016/09/17/shared-libraries/,/u/calvin,21
+0,2016-09-18 04:20:53 -0500,"/t/pdf,/t/c,/t/linux",The Inside Story on Shared Libraries and Dynamic Loading,http://cseweb.ucsd.edu/~gbournou/CSE131/the_inside_story_on_shared_libraries_and_dynamic_loading.pdf,/u/tkozik,6
+0,2016-09-18 06:24:57 -0500,/t/programming,Microservices: Real Architectural Patterns,http://www.elidedbranches.com/2016/08/microservices-real-architectural.html,/u/adsouza,3
+0,2016-09-17 20:09:30 -0500,"/t/debugging,/t/reversing",The Voodoo of Elevation Gain and Strava (and How I Get Around It) (2015),http://regex.info/blog/2015-05-09/2568,/u/kel,9
+6,2016-09-17 11:02:28 -0500,"/t/devops,/t/release","Introducing dumb-init, an init system for Docker containers",http://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html,/u/adsouza,12
+0,2016-09-17 22:13:47 -0500,"/t/release,/t/unix",Bash-4.4 Release available,http://lists.gnu.org/archive/html/bug-bash/2016-09/msg00018.html,/u/romanzolotarev,4
+3,2016-09-17 12:16:24 -0500,/t/python,Asynchronous Programming in Python,https://engineering.quora.com/Asynchronous-Programming-in-Python,/u/av,2
+2,2016-09-17 04:36:45 -0500,"/t/databases,/t/release",BedquiltDB (the JSON store built on PostgreSQL) Version 2,http://bedquiltdb.github.io/v2.html,/u/s_kilk,3
+3,2016-09-16 13:29:17 -0500,/t/devops,Some questions about Docker and rkt,http://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/,/u/thmzlt,26
+5,2016-09-16 14:36:13 -0500,/t/vim,My Life with NeoVim,https://robots.thoughtbot.com/my-life-with-neovim,/u/flyingfisch,25

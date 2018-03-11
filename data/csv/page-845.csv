@@ -1,25 +1,25 @@
-0,2016-03-10 12:13:30 -0600,['/t/programming'],A technical guide to SEO,https://ma.ttias.be/technical-guide-seo/,/u/mattiasgeniar,2
-0,2016-03-10 14:57:02 -0600,"['/t/browsers', '/t/practices', '/t/web']",Opera’s new adblocking browser hopes to end escalating adblock war,http://arstechnica.co.uk/business/2016/03/opera-adblocking-browser/,/u/cnst,3
-0,2016-03-10 08:32:28 -0600,['/t/practices'],The mystery over the @ sign,http://www.bbc.com/news/magazine-35744456,/u/flyingfisch,6
-14,2016-03-09 06:21:14 -0600,"['/t/art', '/t/games', '/t/philosophy', '/t/programming']",New Spaceship Speed in Conway’s Game of Life,https://niginsblog.wordpress.com/2016/03/07/new-spaceship-speed-in-conways-game-of-life/,/u/rbn,61
-0,2016-03-10 03:01:09 -0600,"['/t/art', '/t/graphics']",Responsive Pixel Artwork,http://essenmitsosse.de/pixel/,/u/pushcx,11
-0,2016-03-11 05:25:58 -0600,"['/t/culture', '/t/philosophy', '/t/rant']",Gamification is Bullshit (2011),http://bogost.com/writing/blog/gamification_is_bullshit/,/u/untitaker,1
-2,2016-03-09 14:27:51 -0600,['/t/hardware'],the ping stick,http://sensitiveresearch.com/Ping%20stick/index.html,/u/sin,30
-0,2016-03-09 18:55:02 -0600,['/t/ml'],Seven Implementations of Incremental,https://blogs.janestreet.com/seven-implementations-of-incremental/,/u/yminsky,11
-0,2016-03-10 08:41:25 -0600,"['/t/practices', '/t/web']",Templates are easy to change. Content usually isn't.,https://css-tricks.com/class-up-templates-not-content/,/u/flyingfisch,4
-9,2016-03-09 13:01:22 -0600,['/t/openbsd'],OpenBSD drops support for VAX,https://twitter.com/miodvallat/status/707636166112182272,/u/calvin,23
-0,2016-03-10 12:26:43 -0600,"['/t/video', '/t/security']",RSA 2016: The Cryptographers' Panel,https://www.youtube.com/watch?v=k76qLOrna1w,/u/jcs,2
-0,2016-03-10 16:15:34 -0600,"['/t/culture', '/t/practices', '/t/release']","Add Reactions to Pull Requests, Issues, and Comments",https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments,/u/355E3B,2
-1,2016-03-10 05:01:26 -0600,"['/t/programming', '/t/swift']",NSDateFormatter.com - Easy Skeezy Date Formatting for Swift and Objective-C,http://nsdateformatter.com/,/u/robin,2
-2,2016-03-09 12:05:04 -0600,['/t/linux'],Microsoft will release a custom Debian Linux,http://www.theregister.co.uk/2016/03/09/microsoft_sonic_debian/,/u/lattera,17
-3,2016-03-09 08:45:08 -0600,['/t/games'],Google's DeepMind defeats legendary Go player Lee Se-dol,http://www.theverge.com/2016/3/9/11184362/google-alphago-go-deepmind-result,/u/pushcx,16
-1,2016-03-09 14:01:51 -0600,['/t/security'],"New Name, New Home for the Let's Encrypt Client",https://letsencrypt.org//2016/03/09/le-client-new-home.html,/u/patrickod,13
-0,2016-03-10 05:13:50 -0600,['/t/unix'],A launchd Tutorial,http://launchd.info/,/u/robin,2
-0,2016-03-09 09:52:34 -0600,['/t/programming'],How We Build Code at Netflix,http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html,/u/softinio,13
-11,2016-03-09 01:04:49 -0600,"['/t/javascript', '/t/lisp', '/t/programming']",Urlang: A racket-like syntax for javascript,https://github.com/soegaard/urlang,/u/zem,17
-0,2016-03-09 16:07:15 -0600,"['/t/lisp', '/t/mobile']","LambdaNative: Scheme for Mobile, Desktop, and Embedded Cross-Platform Development",http://www.infoq.com/news/2016/03/lambdanative-cross-platform-dev,/u/zem,6
-4,2016-03-09 13:33:38 -0600,['/t/design'],10 minute speed sessions to fix your website UX,http://blog.officehours.io/10-minute-speed-sessions-to-fix-your-website-ux/,/u/karj,3
-0,2016-03-09 13:56:06 -0600,['/t/javascript'],Improving Development with TypeScript,http://developer.telerik.com/featured/improving-development-with-typescript/,/u/softinio,7
-6,2016-03-08 15:50:32 -0600,['/t/show'],x11fs - A procfs style filesystem for manipulating X windows.,https://github.com/sdhand/x11fs,/u/sdhand,36
-0,2016-03-10 02:11:15 -0600,"['/t/law', '/t/python']",How Web Scraping is Revealing Lobbying and Corruption in Peru,https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/,/u/av,1
-0,2016-03-09 15:28:35 -0600,"['/t/programming', '/t/unix']",how2: query stackoverflow from the command line,https://github.com/santinic/how2,/u/fcbsd,5
+0,2016-03-10 12:13:30 -0600,/t/programming,A technical guide to SEO,https://ma.ttias.be/technical-guide-seo/,/u/mattiasgeniar,2
+0,2016-03-10 14:57:02 -0600,"/t/browsers,/t/practices,/t/web",Opera’s new adblocking browser hopes to end escalating adblock war,http://arstechnica.co.uk/business/2016/03/opera-adblocking-browser/,/u/cnst,3
+0,2016-03-10 08:32:28 -0600,/t/practices,The mystery over the @ sign,http://www.bbc.com/news/magazine-35744456,/u/flyingfisch,6
+14,2016-03-09 06:21:14 -0600,"/t/art,/t/games,/t/philosophy,/t/programming",New Spaceship Speed in Conway’s Game of Life,https://niginsblog.wordpress.com/2016/03/07/new-spaceship-speed-in-conways-game-of-life/,/u/rbn,61
+0,2016-03-10 03:01:09 -0600,"/t/art,/t/graphics",Responsive Pixel Artwork,http://essenmitsosse.de/pixel/,/u/pushcx,11
+0,2016-03-11 05:25:58 -0600,"/t/culture,/t/philosophy,/t/rant",Gamification is Bullshit (2011),http://bogost.com/writing/blog/gamification_is_bullshit/,/u/untitaker,1
+2,2016-03-09 14:27:51 -0600,/t/hardware,the ping stick,http://sensitiveresearch.com/Ping%20stick/index.html,/u/sin,30
+0,2016-03-09 18:55:02 -0600,/t/ml,Seven Implementations of Incremental,https://blogs.janestreet.com/seven-implementations-of-incremental/,/u/yminsky,11
+0,2016-03-10 08:41:25 -0600,"/t/practices,/t/web",Templates are easy to change. Content usually isn't.,https://css-tricks.com/class-up-templates-not-content/,/u/flyingfisch,4
+9,2016-03-09 13:01:22 -0600,/t/openbsd,OpenBSD drops support for VAX,https://twitter.com/miodvallat/status/707636166112182272,/u/calvin,23
+0,2016-03-10 12:26:43 -0600,"/t/video,/t/security",RSA 2016: The Cryptographers' Panel,https://www.youtube.com/watch?v=k76qLOrna1w,/u/jcs,2
+0,2016-03-10 16:15:34 -0600,"/t/culture,/t/practices,/t/release","Add Reactions to Pull Requests, Issues, and Comments",https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments,/u/355E3B,2
+1,2016-03-10 05:01:26 -0600,"/t/programming,/t/swift",NSDateFormatter.com - Easy Skeezy Date Formatting for Swift and Objective-C,http://nsdateformatter.com/,/u/robin,2
+2,2016-03-09 12:05:04 -0600,/t/linux,Microsoft will release a custom Debian Linux,http://www.theregister.co.uk/2016/03/09/microsoft_sonic_debian/,/u/lattera,17
+3,2016-03-09 08:45:08 -0600,/t/games,Google's DeepMind defeats legendary Go player Lee Se-dol,http://www.theverge.com/2016/3/9/11184362/google-alphago-go-deepmind-result,/u/pushcx,16
+1,2016-03-09 14:01:51 -0600,/t/security,"New Name, New Home for the Let's Encrypt Client",https://letsencrypt.org//2016/03/09/le-client-new-home.html,/u/patrickod,13
+0,2016-03-10 05:13:50 -0600,/t/unix,A launchd Tutorial,http://launchd.info/,/u/robin,2
+0,2016-03-09 09:52:34 -0600,/t/programming,How We Build Code at Netflix,http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html,/u/softinio,13
+11,2016-03-09 01:04:49 -0600,"/t/javascript,/t/lisp,/t/programming",Urlang: A racket-like syntax for javascript,https://github.com/soegaard/urlang,/u/zem,17
+0,2016-03-09 16:07:15 -0600,"/t/lisp,/t/mobile","LambdaNative: Scheme for Mobile, Desktop, and Embedded Cross-Platform Development",http://www.infoq.com/news/2016/03/lambdanative-cross-platform-dev,/u/zem,6
+4,2016-03-09 13:33:38 -0600,/t/design,10 minute speed sessions to fix your website UX,http://blog.officehours.io/10-minute-speed-sessions-to-fix-your-website-ux/,/u/karj,3
+0,2016-03-09 13:56:06 -0600,/t/javascript,Improving Development with TypeScript,http://developer.telerik.com/featured/improving-development-with-typescript/,/u/softinio,7
+6,2016-03-08 15:50:32 -0600,/t/show,x11fs - A procfs style filesystem for manipulating X windows.,https://github.com/sdhand/x11fs,/u/sdhand,36
+0,2016-03-10 02:11:15 -0600,"/t/law,/t/python",How Web Scraping is Revealing Lobbying and Corruption in Peru,https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/,/u/av,1
+0,2016-03-09 15:28:35 -0600,"/t/programming,/t/unix",how2: query stackoverflow from the command line,https://github.com/santinic/how2,/u/fcbsd,5

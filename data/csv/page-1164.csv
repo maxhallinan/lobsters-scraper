@@ -1,25 +1,25 @@
-9,2015-02-13 06:28:41 -0600,"['/t/compsci', '/t/programming']","Harmful GOTOs, Premature Optimizations, and Programming Myths are the Root of all Evil",http://videlalvaro.github.io/2015/02/programming-myths.html,/u/old_sound,37
-19,2015-02-13 10:28:23 -0600,"['/t/freebsd', '/t/linux']",Fed up with systemd and Linux? Why not try PC-BSD?,http://www.itwire.com/business-it-news/open-source/66900-fed-up-with-systemd-and-linux?-why-not-try-pc-bsd?,/u/journeysquid,19
-2,2015-02-14 10:37:31 -0600,['/t/culture'],Culture Surprises in Remote Software Development Teams,http://queue.acm.org/detail.cfm?id=966804,/u/SeanTAllen,4
-0,2015-02-13 20:36:53 -0600,"['/t/programming', '/t/vcs']",How to write a new git protocol,https://rovaughn.github.io/2015-2-9.html,/u/zem,8
-0,2015-02-13 13:18:06 -0600,"['/t/programming', '/t/rust']",Rust 1.0 final timeline,http://blog.rust-lang.org/2015/02/13/Final-1.0-timeline.html,/u/steveklabnik,15
-1,2015-02-13 13:49:33 -0600,['/t/hardware'],1-2 year SSD wear on build boxes has been minimal,http://lists.dragonflybsd.org/pipermail/users/2015-February/207469.html,/u/jcs,10
-8,2015-02-12 21:41:22 -0600,['/t/release'],Returning self or void suggests mutability,https://aphyr.com/posts/320-returning-self-or-void-suggests-mutability,/u/aphyr,47
-0,2015-02-13 20:48:50 -0600,['/t/javascript'],The Quantum Electrodynamics of Functional JavaScript,http://raganwald.com/2015/02/13/functional-quantum-electrodynamics.html,/u/raganwald,4
-0,2015-02-13 23:44:41 -0600,['/t/culture'],Which topics get the upvote on Hacker News?,http://blog.datadive.net/which-topics-get-the-upvote-on-hacker-news/,/u/trousers,4
-1,2015-02-13 07:18:16 -0600,"['/t/culture', '/t/privacy']",Hackers can't solve Surveillance,http://www.dmytri.info/hackers-cant-solve-surveillance/,/u/apg,22
-0,2015-02-13 13:06:48 -0600,['/t/rust'],rust-ptrace 0.1 released,https://codius.org/blog/rust-ptrace-0-1-released/,/u/tdfischer,5
-1,2015-02-13 02:27:26 -0600,"['/t/rust', '/t/security']",Codius + Rust = ❤,https://codius.org/blog/codius-rust/,/u/tdfischer,12
-0,2015-02-13 18:16:33 -0600,['/t/web'],Automate IE testing with IEVMS,https://github.com/xdissent/ievms,/u/qbit,1
-3,2015-02-13 19:15:14 -0600,['/t/ask'],What is this snippet of code for?,/s/qtw6jp/what_is_this_snippet_code_for,/u/kghose,2
-1,2015-02-13 14:58:46 -0600,['/t/ask'],ASK: Best tools for making rapid filtering DB front end,/s/rkqba9/ask_best_tools_for_making_rapid_filtering,/u/james,3
-3,2015-02-12 18:00:31 -0600,"['/t/privacy', '/t/security']",Apple Shouldn't be Asking for Your Password,http://blog.simontimms.com/2015/02/12/apple-shouldnt-be-asking-for-your-password/,/u/jpm1,10
-0,2015-02-13 09:51:21 -0600,"['/t/practices', '/t/science']","FDA inspections: Fraud, fabrication, and scientific misconduct are hidden from the public, doctors",http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html,/u/journeysquid,2
-0,2015-02-11 14:11:46 -0600,['/t/announce'],Flagging and hiding stories are now separate,/s/dosszb/flagging_hiding_stories_are_now_separate,/u/jcs,27
-0,2015-02-13 09:05:31 -0600,"['/t/design', '/t/php', '/t/web']",A Study in Craft — Developing an online publishing platform with a powerful CMS.,http://www.lacroixdesign.net/blog/a-study-in-craft/,/u/lacroixdesign,2
-0,2015-02-13 05:56:10 -0600,"['/t/cryptocurrencies', '/t/ml', '/t/security']",The Bitcoin Piñata!,http://amirchaudhry.com/bitcoin-pinata/,/u/englishm,3
-8,2015-02-12 08:04:20 -0600,['/t/compsci'],A blog engine written and proven in Coq,http://coq-blog.clarus.me/a-blog-engine-written-and-proven-in-coq.html,/u/fabriceleal,18
-4,2015-02-12 17:20:23 -0600,['/t/show'],Show L: The Underground Lobsters Railroad,/s/rapfnb/show_l_underground_lobsters_railroad,/u/itistoday,5
-24,2015-02-11 20:48:36 -0600,"['/t/distributed', '/t/networking']",Why I'm Leaving Google Hangouts,https://github.com/duncan-bayne/duncan-bayne.github.com/wiki/Why-I%27m-leaving-Google-Hangouts,/u/duncan_bayne,37
-0,2015-02-12 12:20:14 -0600,['/t/security'],Decrypting TLS Browser Traffic With Wireshark - The Easy Way,https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/,/u/jcs,11
-0,2015-02-12 11:45:41 -0600,['/t/linux'],"Reactions to ""Has modern Linux lost its way?"" and the value of simplicity",http://changelog.complete.org/archives/9304-reactions-to-has-modern-linux-lost-its-way-and-the-value-of-simplicity,/u/whbboyd,11
+9,2015-02-13 06:28:41 -0600,"/t/compsci,/t/programming","Harmful GOTOs, Premature Optimizations, and Programming Myths are the Root of all Evil",http://videlalvaro.github.io/2015/02/programming-myths.html,/u/old_sound,37
+19,2015-02-13 10:28:23 -0600,"/t/freebsd,/t/linux",Fed up with systemd and Linux? Why not try PC-BSD?,http://www.itwire.com/business-it-news/open-source/66900-fed-up-with-systemd-and-linux?-why-not-try-pc-bsd?,/u/journeysquid,19
+2,2015-02-14 10:37:31 -0600,/t/culture,Culture Surprises in Remote Software Development Teams,http://queue.acm.org/detail.cfm?id=966804,/u/SeanTAllen,4
+0,2015-02-13 20:36:53 -0600,"/t/programming,/t/vcs",How to write a new git protocol,https://rovaughn.github.io/2015-2-9.html,/u/zem,8
+0,2015-02-13 13:18:06 -0600,"/t/programming,/t/rust",Rust 1.0 final timeline,http://blog.rust-lang.org/2015/02/13/Final-1.0-timeline.html,/u/steveklabnik,15
+1,2015-02-13 13:49:33 -0600,/t/hardware,1-2 year SSD wear on build boxes has been minimal,http://lists.dragonflybsd.org/pipermail/users/2015-February/207469.html,/u/jcs,10
+8,2015-02-12 21:41:22 -0600,/t/release,Returning self or void suggests mutability,https://aphyr.com/posts/320-returning-self-or-void-suggests-mutability,/u/aphyr,47
+0,2015-02-13 20:48:50 -0600,/t/javascript,The Quantum Electrodynamics of Functional JavaScript,http://raganwald.com/2015/02/13/functional-quantum-electrodynamics.html,/u/raganwald,4
+0,2015-02-13 23:44:41 -0600,/t/culture,Which topics get the upvote on Hacker News?,http://blog.datadive.net/which-topics-get-the-upvote-on-hacker-news/,/u/trousers,4
+1,2015-02-13 07:18:16 -0600,"/t/culture,/t/privacy",Hackers can't solve Surveillance,http://www.dmytri.info/hackers-cant-solve-surveillance/,/u/apg,22
+0,2015-02-13 13:06:48 -0600,/t/rust,rust-ptrace 0.1 released,https://codius.org/blog/rust-ptrace-0-1-released/,/u/tdfischer,5
+1,2015-02-13 02:27:26 -0600,"/t/rust,/t/security",Codius + Rust = ❤,https://codius.org/blog/codius-rust/,/u/tdfischer,12
+0,2015-02-13 18:16:33 -0600,/t/web,Automate IE testing with IEVMS,https://github.com/xdissent/ievms,/u/qbit,1
+3,2015-02-13 19:15:14 -0600,/t/ask,What is this snippet of code for?,/s/qtw6jp/what_is_this_snippet_code_for,/u/kghose,2
+1,2015-02-13 14:58:46 -0600,/t/ask,ASK: Best tools for making rapid filtering DB front end,/s/rkqba9/ask_best_tools_for_making_rapid_filtering,/u/james,3
+3,2015-02-12 18:00:31 -0600,"/t/privacy,/t/security",Apple Shouldn't be Asking for Your Password,http://blog.simontimms.com/2015/02/12/apple-shouldnt-be-asking-for-your-password/,/u/jpm1,10
+0,2015-02-13 09:51:21 -0600,"/t/practices,/t/science","FDA inspections: Fraud, fabrication, and scientific misconduct are hidden from the public, doctors",http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html,/u/journeysquid,2
+0,2015-02-11 14:11:46 -0600,/t/announce,Flagging and hiding stories are now separate,/s/dosszb/flagging_hiding_stories_are_now_separate,/u/jcs,27
+0,2015-02-13 09:05:31 -0600,"/t/design,/t/php,/t/web",A Study in Craft — Developing an online publishing platform with a powerful CMS.,http://www.lacroixdesign.net/blog/a-study-in-craft/,/u/lacroixdesign,2
+0,2015-02-13 05:56:10 -0600,"/t/cryptocurrencies,/t/ml,/t/security",The Bitcoin Piñata!,http://amirchaudhry.com/bitcoin-pinata/,/u/englishm,3
+8,2015-02-12 08:04:20 -0600,/t/compsci,A blog engine written and proven in Coq,http://coq-blog.clarus.me/a-blog-engine-written-and-proven-in-coq.html,/u/fabriceleal,18
+4,2015-02-12 17:20:23 -0600,/t/show,Show L: The Underground Lobsters Railroad,/s/rapfnb/show_l_underground_lobsters_railroad,/u/itistoday,5
+24,2015-02-11 20:48:36 -0600,"/t/distributed,/t/networking",Why I'm Leaving Google Hangouts,https://github.com/duncan-bayne/duncan-bayne.github.com/wiki/Why-I%27m-leaving-Google-Hangouts,/u/duncan_bayne,37
+0,2015-02-12 12:20:14 -0600,/t/security,Decrypting TLS Browser Traffic With Wireshark - The Easy Way,https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/,/u/jcs,11
+0,2015-02-12 11:45:41 -0600,/t/linux,"Reactions to ""Has modern Linux lost its way?"" and the value of simplicity",http://changelog.complete.org/archives/9304-reactions-to-has-modern-linux-lost-its-way-and-the-value-of-simplicity,/u/whbboyd,11

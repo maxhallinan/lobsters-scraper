@@ -1,25 +1,25 @@
-3,2018-03-01 10:51:21 -0600,"['/t/practices', '/t/programming']",What Ticketmaster is Doing About Technical Debt (2015),https://tech.ticketmaster.com/2015/06/30/what-ticketmaster-is-doing-about-technical-debt/,/u/nickpsecurity,8
-0,2018-03-01 23:42:13 -0600,"['/t/distributed', '/t/networking']","Meet Bandaid, the Dropbox service proxy",http://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/,/u/mhausenblas,2
-0,2018-03-01 06:24:06 -0600,['/t/unix'],fread and fwrite demystified: stdio on UNIX V7 | Fun with virtualization,https://virtuallyfun.com/2018/03/01/fread-and-fwrite-demystified-stdio-on-unix-v7/,/u/xorhash,9
-1,2018-03-01 09:24:36 -0600,"['/t/compsci', '/t/hardware']",Computing With Random Pulses Promises to Simplify Circuitry and Save Power,https://spectrum.ieee.org/computing/hardware/computing-with-random-pulses-promises-to-simplify-circuitry-and-save-power,/u/calvin,9
-7,2018-02-28 16:06:08 -0600,"['/t/video', '/t/c++', '/t/event']",C++ Exception Handling - The gory details of an implementation,https://www.youtube.com/watch?v=XpRL7exdFL8,/u/mihaitodor,19
-0,2018-03-01 02:30:43 -0600,['/t/rust'],It All Looks the Same to Me,https://www.innoq.com/en/blog/looks-the-same-to-me/,/u/jan,11
-0,2018-03-01 15:18:43 -0600,['/t/databases'],Our Favorite Elasticsearch Features: Part 2 - Index Aliases,https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases,/u/danielglauser,2
-0,2018-03-01 18:16:29 -0600,"['/t/show', '/t/devops', '/t/linux', '/t/release', '/t/web']",nuster 1.7.9.6 released – A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.6,/u/quicer,1
-0,2018-03-01 09:41:33 -0600,['/t/clojure'],Interactive GPU Programming - Part 3 - CUDA Context Shenanigans,https://dragan.rocks/articles/18/Interactive-GPU-Programming-3-CUDA-Context,/u/Yogthos,7
-0,2018-03-01 11:00:24 -0600,"['/t/pdf', '/t/hardware', '/t/plt', '/t/programming', '/t/security']",Verification of a Practical Hardware Security Architecture via Static Information Flow Analysis,http://www.cse.psu.edu/~dbz5017/pub/asplos17.pdf,/u/nickpsecurity,5
-0,2018-03-01 06:49:23 -0600,['/t/javascript'],The challenges in rendering a user generated graph in JavaScript,https://medium.com/work-in-public-by-convertkit/visual-automations-how-we-built-the-biggest-new-feature-in-our-5-year-history-ae252f8f14dd,/u/pothibo,4
-0,2018-03-01 17:11:22 -0600,['/t/security'],February 28th DDoS Incident Report,https://githubengineering.com/ddos-incident-report/,/u/adsouza,2
-0,2018-03-01 06:58:20 -0600,"['/t/python', '/t/web']",Wagtail 2.0 launched,https://wagtail.io/blog/wagtail-2/,/u/stevejalim,7
-7,2018-02-28 16:40:52 -0600,['/t/elixir'],Elixir Deployment Tools Update - February 2018,https://dockyard.com/blog/2018/02/28/elixir-deployment-tools-update-february-2018,/u/soulcutter,17
-0,2018-03-01 08:46:50 -0600,"['/t/databases', '/t/release']","PostgreSQL: PostgreSQL 10.3, 9.6.8, 9.5.12, 9.4.17, and 9.3.22 released!",https://www.postgresql.org/about/news/1834/,/u/dege,5
-0,2018-03-01 11:59:36 -0600,"['/t/video', '/t/hardware', '/t/historical']","Peter Toth tells the story of the first Swiss commercial computer, the Cora 1",https://www.youtube.com/watch?v=kBQyeSYICyw,/u/r2gf,3
-0,2018-03-01 18:17:46 -0600,['/t/haskell'],A Game in Haskell - Dino Rush,http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html,/u/Shapr,1
-1,2018-03-01 09:27:23 -0600,"['/t/compsci', '/t/games']",An Efficient Snell's-Law Method for Optimal-Path Planning AcrossMultiple Two-dimensional Irregular Homogeneous-Cost Regions,http://faculty.nps.edu/ncrowe/snell2.htm,/u/friendlysock,3
-0,2018-03-01 11:02:07 -0600,"['/t/pdf', '/t/formalmethods']",Survey of Existing Tools for Formal Verification (2014),http://prod.sandia.gov/techlib/access-control.cgi/2014/1420533.pdf,/u/nickpsecurity,3
-0,2018-03-01 17:14:28 -0600,"['/t/databases', '/t/security']","PostgreSQL: A Guide to CVE-2018-1058 (March 1, 2018): Protect Your Search Path",https://wiki.postgresql.org/wiki/A_Guide_to_CVE-2018-1058:_Protect_Your_Search_Path,/u/lordgilman,1
-0,2018-03-01 12:46:51 -0600,"['/t/programming', '/t/python']",Python & Async Simplified,https://www.aeracode.org/2018/02/19/python-async-simplified/,/u/quobit,2
-7,2018-02-28 14:36:04 -0600,['/t/security'],DigiCert Statement on Trustico Certificate Revocation,https://www.digicert.com/blog/digicert-statement-trustico-certificate-revocation/,/u/singpolyma,16
-18,2018-02-28 12:11:22 -0600,"['/t/culture', '/t/practices']",Why I Quit Google to Work for Myself,https://mtlynch.io/why-i-quit-google/,/u/nickpsecurity,65
-20,2018-02-28 08:46:11 -0600,['/t/javascript'],TypeScript — JavaScript with superpowers,https://medium.com/@wesharehoodies/typescript-javascript-with-super-powers-a333b0fcabc9,/u/indreklasn,14
-2,2018-02-28 19:34:12 -0600,"['/t/pdf', '/t/security']",SGXPECTRE Attacks: Leaking Enclave Secrets via Speculative Execution,https://arxiv.org/pdf/1802.09085.pdf,/u/fro,11
+3,2018-03-01 10:51:21 -0600,"/t/practices,/t/programming",What Ticketmaster is Doing About Technical Debt (2015),https://tech.ticketmaster.com/2015/06/30/what-ticketmaster-is-doing-about-technical-debt/,/u/nickpsecurity,8
+0,2018-03-01 23:42:13 -0600,"/t/distributed,/t/networking","Meet Bandaid, the Dropbox service proxy",http://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/,/u/mhausenblas,2
+0,2018-03-01 06:24:06 -0600,/t/unix,fread and fwrite demystified: stdio on UNIX V7 | Fun with virtualization,https://virtuallyfun.com/2018/03/01/fread-and-fwrite-demystified-stdio-on-unix-v7/,/u/xorhash,9
+1,2018-03-01 09:24:36 -0600,"/t/compsci,/t/hardware",Computing With Random Pulses Promises to Simplify Circuitry and Save Power,https://spectrum.ieee.org/computing/hardware/computing-with-random-pulses-promises-to-simplify-circuitry-and-save-power,/u/calvin,9
+7,2018-02-28 16:06:08 -0600,"/t/video,/t/c++,/t/event",C++ Exception Handling - The gory details of an implementation,https://www.youtube.com/watch?v=XpRL7exdFL8,/u/mihaitodor,19
+0,2018-03-01 02:30:43 -0600,/t/rust,It All Looks the Same to Me,https://www.innoq.com/en/blog/looks-the-same-to-me/,/u/jan,11
+0,2018-03-01 15:18:43 -0600,/t/databases,Our Favorite Elasticsearch Features: Part 2 - Index Aliases,https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases,/u/danielglauser,2
+0,2018-03-01 18:16:29 -0600,"/t/show,/t/devops,/t/linux,/t/release,/t/web",nuster 1.7.9.6 released – A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.6,/u/quicer,1
+0,2018-03-01 09:41:33 -0600,/t/clojure,Interactive GPU Programming - Part 3 - CUDA Context Shenanigans,https://dragan.rocks/articles/18/Interactive-GPU-Programming-3-CUDA-Context,/u/Yogthos,7
+0,2018-03-01 11:00:24 -0600,"/t/pdf,/t/hardware,/t/plt,/t/programming,/t/security",Verification of a Practical Hardware Security Architecture via Static Information Flow Analysis,http://www.cse.psu.edu/~dbz5017/pub/asplos17.pdf,/u/nickpsecurity,5
+0,2018-03-01 06:49:23 -0600,/t/javascript,The challenges in rendering a user generated graph in JavaScript,https://medium.com/work-in-public-by-convertkit/visual-automations-how-we-built-the-biggest-new-feature-in-our-5-year-history-ae252f8f14dd,/u/pothibo,4
+0,2018-03-01 17:11:22 -0600,/t/security,February 28th DDoS Incident Report,https://githubengineering.com/ddos-incident-report/,/u/adsouza,2
+0,2018-03-01 06:58:20 -0600,"/t/python,/t/web",Wagtail 2.0 launched,https://wagtail.io/blog/wagtail-2/,/u/stevejalim,7
+7,2018-02-28 16:40:52 -0600,/t/elixir,Elixir Deployment Tools Update - February 2018,https://dockyard.com/blog/2018/02/28/elixir-deployment-tools-update-february-2018,/u/soulcutter,17
+0,2018-03-01 08:46:50 -0600,"/t/databases,/t/release","PostgreSQL: PostgreSQL 10.3, 9.6.8, 9.5.12, 9.4.17, and 9.3.22 released!",https://www.postgresql.org/about/news/1834/,/u/dege,5
+0,2018-03-01 11:59:36 -0600,"/t/video,/t/hardware,/t/historical","Peter Toth tells the story of the first Swiss commercial computer, the Cora 1",https://www.youtube.com/watch?v=kBQyeSYICyw,/u/r2gf,3
+0,2018-03-01 18:17:46 -0600,/t/haskell,A Game in Haskell - Dino Rush,http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html,/u/Shapr,1
+1,2018-03-01 09:27:23 -0600,"/t/compsci,/t/games",An Efficient Snell's-Law Method for Optimal-Path Planning AcrossMultiple Two-dimensional Irregular Homogeneous-Cost Regions,http://faculty.nps.edu/ncrowe/snell2.htm,/u/friendlysock,3
+0,2018-03-01 11:02:07 -0600,"/t/pdf,/t/formalmethods",Survey of Existing Tools for Formal Verification (2014),http://prod.sandia.gov/techlib/access-control.cgi/2014/1420533.pdf,/u/nickpsecurity,3
+0,2018-03-01 17:14:28 -0600,"/t/databases,/t/security","PostgreSQL: A Guide to CVE-2018-1058 (March 1, 2018): Protect Your Search Path",https://wiki.postgresql.org/wiki/A_Guide_to_CVE-2018-1058:_Protect_Your_Search_Path,/u/lordgilman,1
+0,2018-03-01 12:46:51 -0600,"/t/programming,/t/python",Python & Async Simplified,https://www.aeracode.org/2018/02/19/python-async-simplified/,/u/quobit,2
+7,2018-02-28 14:36:04 -0600,/t/security,DigiCert Statement on Trustico Certificate Revocation,https://www.digicert.com/blog/digicert-statement-trustico-certificate-revocation/,/u/singpolyma,16
+18,2018-02-28 12:11:22 -0600,"/t/culture,/t/practices",Why I Quit Google to Work for Myself,https://mtlynch.io/why-i-quit-google/,/u/nickpsecurity,65
+20,2018-02-28 08:46:11 -0600,/t/javascript,TypeScript — JavaScript with superpowers,https://medium.com/@wesharehoodies/typescript-javascript-with-super-powers-a333b0fcabc9,/u/indreklasn,14
+2,2018-02-28 19:34:12 -0600,"/t/pdf,/t/security",SGXPECTRE Attacks: Leaking Enclave Secrets via Speculative Execution,https://arxiv.org/pdf/1802.09085.pdf,/u/fro,11

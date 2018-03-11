@@ -1,25 +1,25 @@
-0,2014-07-23 13:31:46 -0500,['/t/security'],"OpenSSL and LibreSSL PRNG, what’s different?",http://blog.0xbadc0de.be/archives/218,/u/kyle,11
-4,2014-07-23 13:02:23 -0500,['/t/culture'],The Open Source Identity Crisis,http://modelviewculture.com/pieces/the-open-source-identity-crisis,/u/nslater,19
-0,2014-07-23 21:55:19 -0500,"['/t/design', '/t/erlang']",Designing for Actor Based Systems,http://blog.erlware.org/2014/07/23/designing-for-actor-based-systems/,/u/pushcx,3
-0,2014-07-23 15:19:40 -0500,['/t/culture'],"A New, Open Source Funding Platform With Diversity At The Core",http://modelviewculture.com/pieces/a-new-open-source-funding-platform-with-diversity-at-the-core,/u/nslater,11
-0,2014-07-24 02:46:49 -0500,['/t/java'],InfoQ eMag: Java 8,http://www.infoq.com/minibooks/emag-java-8,/u/ancatrusca,1
-0,2014-07-23 14:26:31 -0500,"['/t/practices', '/t/vcs']",Tracking down a kernel bug with git bisect,http://blog.oddbit.com/2014/07/21/tracking-down-a-kernel-bug-wit/,/u/jcs,5
-6,2014-07-23 13:49:44 -0500,['/t/law'],Interpretation of the Special Rule for Model Aircraft,http://www.regulations.gov/#!documentDetail;D=FAA-2014-0396-0001,/u/flyingfisch,2
-0,2014-07-23 09:53:23 -0500,"['/t/programming', '/t/rust']",What does Rust's 'unsafe' mean?,http://huonw.github.io/2014/07/24/what-does-rusts-unsafe-mean.html,/u/steveklabnik,8
-0,2014-07-23 23:46:01 -0500,['/t/math'],All you wanted to know about types but were afraid to ask,http://tel.github.io/2014/07/08/all_you_wanted_to_know_about_types_but_were_afraid_to_ask/,/u/tel,1
-8,2014-07-23 11:40:32 -0500,"['/t/design', '/t/web']",You May Be Losing Users If Responsive Web Design Is Your Only Mobile Strategy,http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/,/u/flyingfisch,2
-0,2014-07-24 05:57:45 -0500,['/t/design'],Unofficial Redesign Of Major Brands,http://www.webdesignpool.com/inspiration/redesign-major-brands/,/u/WDPMag,0
-0,2014-07-23 12:37:43 -0500,['/t/programming'],"Tomy, a prolog bot for IRC",https://github.com/AtnNn/tomy,/u/SirSkidmore,5
-0,2014-07-23 07:59:25 -0500,"['/t/openbsd', '/t/rant', '/t/security']",LibreSSL portable and claims of insecurity,http://www.tedunangst.com/flak/post/this-is-why-software-sucks,/u/calvin,15
-0,2014-07-23 22:00:43 -0500,"['/t/databases', '/t/distributed']",ElasticSearch 1.3.0 Released,http://www.elasticsearch.org/blog/elasticsearch-1-3-0-released/,/u/amontalenti,1
-0,2014-07-23 05:02:03 -0500,"['/t/haskell', '/t/programming']",Building Monad Transformers in Haskell - Part 1,http://blog.jakubarnold.cz/2014/07/22/building-monad-transformers-part-1.html,/u/darthdeus,8
-0,2014-07-23 13:54:38 -0500,"['/t/pdf', '/t/compsci']",Automatically Patching Errors in Deployed Software,http://www.sigops.org/sosp/sosp09/papers/perkins-sosp09.pdf,/u/animatronic,2
-0,2014-07-23 08:46:29 -0500,['/t/python'],Face Detection in Python Using a Webcam,https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/,/u/Pyskool,4
-0,2014-07-23 16:15:54 -0500,"['/t/art', '/t/visualization']","Tobias Isenberg - Projects, Videos, and Demos",http://tobias.isenberg.cc/Main/VideosAndDemos,/u/animatronic,1
-0,2014-07-23 08:58:43 -0500,['/t/devops'],Immutable Infrastructure and Sources of Truth,http://probablyfine.co.uk/2014/07/22/immutable-infrastructure-and-sources-of-truth/,/u/mrwilson,3
-0,2014-07-23 08:56:12 -0500,['/t/devops'],A storm troubleshooting story,http://dev.theladders.com/2014/07/thunder-and-lightning/,/u/SeanTAllen,3
-15,2014-07-22 12:16:57 -0500,['/t/unix'],"How to tack a command onto the end of a long-running Unix task, halfway through",https://kev.inburke.com/kevin/the-fg-command-stop-long-running-jobs/?lobsters,/u/kb,12
-1,2014-07-22 18:02:01 -0500,['/t/cogsci'],Neglected machine learning ideas,http://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/,/u/jm,10
-1,2014-07-23 01:49:07 -0500,"['/t/practices', '/t/programming']",Norris Numbers,http://www.teamten.com/lawrence/writings/norris-numbers.html,/u/trousers,3
-0,2014-07-22 20:11:23 -0500,"['/t/video', '/t/distributed']",IPFS: The Permanent Web,http://sourcegraph.com/blog/ipfs-the-permanent-web-by-juan-benet-talk,/u/pushcx,7
-0,2014-07-23 09:13:41 -0500,['/t/javascript'],First Look: Getting Started with Facebook's ReactJS Library,http://modernweb.com/2014/07/23/getting-started-reactjs/,/u/mikehostetler,1
+0,2014-07-23 13:31:46 -0500,/t/security,"OpenSSL and LibreSSL PRNG, what’s different?",http://blog.0xbadc0de.be/archives/218,/u/kyle,11
+4,2014-07-23 13:02:23 -0500,/t/culture,The Open Source Identity Crisis,http://modelviewculture.com/pieces/the-open-source-identity-crisis,/u/nslater,19
+0,2014-07-23 21:55:19 -0500,"/t/design,/t/erlang",Designing for Actor Based Systems,http://blog.erlware.org/2014/07/23/designing-for-actor-based-systems/,/u/pushcx,3
+0,2014-07-23 15:19:40 -0500,/t/culture,"A New, Open Source Funding Platform With Diversity At The Core",http://modelviewculture.com/pieces/a-new-open-source-funding-platform-with-diversity-at-the-core,/u/nslater,11
+0,2014-07-24 02:46:49 -0500,/t/java,InfoQ eMag: Java 8,http://www.infoq.com/minibooks/emag-java-8,/u/ancatrusca,1
+0,2014-07-23 14:26:31 -0500,"/t/practices,/t/vcs",Tracking down a kernel bug with git bisect,http://blog.oddbit.com/2014/07/21/tracking-down-a-kernel-bug-wit/,/u/jcs,5
+6,2014-07-23 13:49:44 -0500,/t/law,Interpretation of the Special Rule for Model Aircraft,http://www.regulations.gov/#!documentDetail;D=FAA-2014-0396-0001,/u/flyingfisch,2
+0,2014-07-23 09:53:23 -0500,"/t/programming,/t/rust",What does Rust's 'unsafe' mean?,http://huonw.github.io/2014/07/24/what-does-rusts-unsafe-mean.html,/u/steveklabnik,8
+0,2014-07-23 23:46:01 -0500,/t/math,All you wanted to know about types but were afraid to ask,http://tel.github.io/2014/07/08/all_you_wanted_to_know_about_types_but_were_afraid_to_ask/,/u/tel,1
+8,2014-07-23 11:40:32 -0500,"/t/design,/t/web",You May Be Losing Users If Responsive Web Design Is Your Only Mobile Strategy,http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/,/u/flyingfisch,2
+0,2014-07-24 05:57:45 -0500,/t/design,Unofficial Redesign Of Major Brands,http://www.webdesignpool.com/inspiration/redesign-major-brands/,/u/WDPMag,0
+0,2014-07-23 12:37:43 -0500,/t/programming,"Tomy, a prolog bot for IRC",https://github.com/AtnNn/tomy,/u/SirSkidmore,5
+0,2014-07-23 07:59:25 -0500,"/t/openbsd,/t/rant,/t/security",LibreSSL portable and claims of insecurity,http://www.tedunangst.com/flak/post/this-is-why-software-sucks,/u/calvin,15
+0,2014-07-23 22:00:43 -0500,"/t/databases,/t/distributed",ElasticSearch 1.3.0 Released,http://www.elasticsearch.org/blog/elasticsearch-1-3-0-released/,/u/amontalenti,1
+0,2014-07-23 05:02:03 -0500,"/t/haskell,/t/programming",Building Monad Transformers in Haskell - Part 1,http://blog.jakubarnold.cz/2014/07/22/building-monad-transformers-part-1.html,/u/darthdeus,8
+0,2014-07-23 13:54:38 -0500,"/t/pdf,/t/compsci",Automatically Patching Errors in Deployed Software,http://www.sigops.org/sosp/sosp09/papers/perkins-sosp09.pdf,/u/animatronic,2
+0,2014-07-23 08:46:29 -0500,/t/python,Face Detection in Python Using a Webcam,https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/,/u/Pyskool,4
+0,2014-07-23 16:15:54 -0500,"/t/art,/t/visualization","Tobias Isenberg - Projects, Videos, and Demos",http://tobias.isenberg.cc/Main/VideosAndDemos,/u/animatronic,1
+0,2014-07-23 08:58:43 -0500,/t/devops,Immutable Infrastructure and Sources of Truth,http://probablyfine.co.uk/2014/07/22/immutable-infrastructure-and-sources-of-truth/,/u/mrwilson,3
+0,2014-07-23 08:56:12 -0500,/t/devops,A storm troubleshooting story,http://dev.theladders.com/2014/07/thunder-and-lightning/,/u/SeanTAllen,3
+15,2014-07-22 12:16:57 -0500,/t/unix,"How to tack a command onto the end of a long-running Unix task, halfway through",https://kev.inburke.com/kevin/the-fg-command-stop-long-running-jobs/?lobsters,/u/kb,12
+1,2014-07-22 18:02:01 -0500,/t/cogsci,Neglected machine learning ideas,http://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/,/u/jm,10
+1,2014-07-23 01:49:07 -0500,"/t/practices,/t/programming",Norris Numbers,http://www.teamten.com/lawrence/writings/norris-numbers.html,/u/trousers,3
+0,2014-07-22 20:11:23 -0500,"/t/video,/t/distributed",IPFS: The Permanent Web,http://sourcegraph.com/blog/ipfs-the-permanent-web-by-juan-benet-talk,/u/pushcx,7
+0,2014-07-23 09:13:41 -0500,/t/javascript,First Look: Getting Started with Facebook's ReactJS Library,http://modernweb.com/2014/07/23/getting-started-reactjs/,/u/mikehostetler,1

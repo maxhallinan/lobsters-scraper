@@ -1,25 +1,25 @@
-0,2017-12-01 17:15:55 -0600,"['/t/education', '/t/finance']",CS 007: Personal Finance for Engineers,https://cs007.blog/,/u/calvin,6
-0,2017-12-01 22:16:36 -0600,['/t/programming'],It’s okay to use non-function-local variables in Forth and PostScript,http://canonical.org/~kragen/forthlocals,/u/akkartik,3
-5,2017-12-01 08:23:55 -0600,['/t/perl'],Day 1 – The Grinch of Perl 6: A Practical Guide to Ruining Christmas,https://perl6advent.wordpress.com/2017/12/01/the-grinch-of-perl-6-a-practical-guide-to-ruining-christmas/,/u/napkindrawing,7
-3,2017-12-02 02:05:52 -0600,"['/t/culture', '/t/practices']","Patio11 on ""obvious"" things in the tech industry",https://threadreaderapp.com/thread/936615043126370306,/u/yumaikas,3
-6,2017-12-01 04:22:27 -0600,"['/t/ios', '/t/security']",iOS 11 Horror Story: the Rise and Fall of iOS Security,https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/,/u/av,10
-0,2017-12-01 16:44:52 -0600,"['/t/video', '/t/event', '/t/practices', '/t/reversing', '/t/security']",RECON 2017,http://www.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x,/u/sevan,4
-0,2017-12-02 08:05:27 -0600,"['/t/video', '/t/web']",Goodbye for now – Vidme,https://medium.com/vidme/goodbye-for-now-120b40becafa,/u/Hjkl,0
-0,2017-12-01 13:46:20 -0600,"['/t/unix', '/t/virtualization']",Understanding CPU Steal Time: when should you be worried?,http://blog.scoutapp.com/articles/2013/07/25/understanding-cpu-steal-time-when-should-you-be-worried,/u/unbalancedparentheses,5
-0,2017-12-01 19:47:15 -0600,['/t/book'],Reddit's favorite books to learn about programming,https://redditfavorites.com/books/programming/,/u/calvin,2
-1,2017-12-01 10:32:14 -0600,['/t/compsci'],"Quest - Lightweight, Predictable, and Dependendable Kernel for Multicore Processors (2012)",http://www.cs.bu.edu/fac/richwest/quest.php,/u/nickpsecurity,5
-0,2017-12-01 13:56:08 -0600,['/t/practices'],Metaphors We Compute By Code is a story that explains how to solve a particular problem,http://queue.acm.org/detail.cfm?id=3127495,/u/unbalancedparentheses,4
-0,2017-12-01 09:49:15 -0600,"['/t/hardware', '/t/reversing']",Review & Teardown of a cheap GPS Jammer,https://phasenoise.livejournal.com/3185.html,/u/flyingfisch,6
-1,2017-12-01 10:47:38 -0600,['/t/databases'],"Amazon Neptune - Fast, Reliable Graph Database built for the cloud",https://aws.amazon.com/neptune/,/u/igorclark,5
-0,2017-12-01 09:12:21 -0600,"['/t/networking', '/t/security']","Hosts file that blocks malware, adware, and other irritants addresses",https://github.com/StevenBlack/hosts,/u/unbalancedparentheses,5
-9,2017-12-01 04:21:35 -0600,['/t/culture'],Why your programmers just want to code,https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e,/u/av,16
-1,2017-12-01 09:01:48 -0600,['/t/practices'],Running in Circles Why Agile Isn’t Working and What We Do Differently,https://m.signalvnoise.com/running-in-circles-aae73d79ce19,/u/unbalancedparentheses,3
-1,2017-12-01 13:50:29 -0600,"['/t/linux', '/t/security']",Flaw Found In Dirty COW Patch,https://threatpost.com/flaw-found-in-dirty-cow-patch/129064/,/u/xorhash,1
-0,2017-12-01 13:08:50 -0600,"['/t/pdf', '/t/formalmethods', '/t/haskell']",Refinement Reflection: Complete Verification with SMT,https://arxiv.org/abs/1711.03842,/u/pushcx,2
-0,2017-12-01 12:53:47 -0600,['/t/dotnet'],C# 8.0 Features: A Glimpse of the Future,https://blog.ndepend.com/c-8-0-features-glimpse-future/,/u/calvin,2
-6,2017-11-30 14:47:44 -0600,"['/t/historical', '/t/programming']",The big break in computer languages,http://esr.ibiblio.org/?p=7724,/u/bargap,16
-0,2017-12-01 16:53:49 -0600,"['/t/show', '/t/meta']",Kill sticky [elements on webpages with this bookmarklet],https://alisdair.mcdiarmid.org/kill-sticky-headers/,/u/hobbes,2
-0,2017-12-01 14:12:50 -0600,"['/t/pdf', '/t/assembly', '/t/compilers', '/t/hardware', '/t/programming']",A Simple Multi-Processor Computer Based on Subleq (2011),https://arxiv.org/ftp/arxiv/papers/1106/1106.2593.pdf,/u/calvin,1
-0,2017-12-01 10:06:56 -0600,['/t/haskell'],Safe streaming with linear types,https://m0ar.github.io/safe-streaming/2017/08/08/take-and-zip.html,/u/pushcx,2
-0,2017-12-01 13:44:50 -0600,['/t/networking'],Controlling Queue Delay,http://queue.acm.org/detail.cfm?id=2209336,/u/unbalancedparentheses,1
-8,2017-11-30 12:31:31 -0600,['/t/databases'],A Shuffled Order That Works with Pagination,http://nathanmlong.com/2017/11/a-shuffled-order-that-works-with-pagination/,/u/nathanmlong,8
+0,2017-12-01 17:15:55 -0600,"/t/education,/t/finance",CS 007: Personal Finance for Engineers,https://cs007.blog/,/u/calvin,6
+0,2017-12-01 22:16:36 -0600,/t/programming,It’s okay to use non-function-local variables in Forth and PostScript,http://canonical.org/~kragen/forthlocals,/u/akkartik,3
+5,2017-12-01 08:23:55 -0600,/t/perl,Day 1 – The Grinch of Perl 6: A Practical Guide to Ruining Christmas,https://perl6advent.wordpress.com/2017/12/01/the-grinch-of-perl-6-a-practical-guide-to-ruining-christmas/,/u/napkindrawing,7
+3,2017-12-02 02:05:52 -0600,"/t/culture,/t/practices","Patio11 on ""obvious"" things in the tech industry",https://threadreaderapp.com/thread/936615043126370306,/u/yumaikas,3
+6,2017-12-01 04:22:27 -0600,"/t/ios,/t/security",iOS 11 Horror Story: the Rise and Fall of iOS Security,https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/,/u/av,10
+0,2017-12-01 16:44:52 -0600,"/t/video,/t/event,/t/practices,/t/reversing,/t/security",RECON 2017,http://www.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x,/u/sevan,4
+0,2017-12-02 08:05:27 -0600,"/t/video,/t/web",Goodbye for now – Vidme,https://medium.com/vidme/goodbye-for-now-120b40becafa,/u/Hjkl,0
+0,2017-12-01 13:46:20 -0600,"/t/unix,/t/virtualization",Understanding CPU Steal Time: when should you be worried?,http://blog.scoutapp.com/articles/2013/07/25/understanding-cpu-steal-time-when-should-you-be-worried,/u/unbalancedparentheses,5
+0,2017-12-01 19:47:15 -0600,/t/book,Reddit's favorite books to learn about programming,https://redditfavorites.com/books/programming/,/u/calvin,2
+1,2017-12-01 10:32:14 -0600,/t/compsci,"Quest - Lightweight, Predictable, and Dependendable Kernel for Multicore Processors (2012)",http://www.cs.bu.edu/fac/richwest/quest.php,/u/nickpsecurity,5
+0,2017-12-01 13:56:08 -0600,/t/practices,Metaphors We Compute By Code is a story that explains how to solve a particular problem,http://queue.acm.org/detail.cfm?id=3127495,/u/unbalancedparentheses,4
+0,2017-12-01 09:49:15 -0600,"/t/hardware,/t/reversing",Review & Teardown of a cheap GPS Jammer,https://phasenoise.livejournal.com/3185.html,/u/flyingfisch,6
+1,2017-12-01 10:47:38 -0600,/t/databases,"Amazon Neptune - Fast, Reliable Graph Database built for the cloud",https://aws.amazon.com/neptune/,/u/igorclark,5
+0,2017-12-01 09:12:21 -0600,"/t/networking,/t/security","Hosts file that blocks malware, adware, and other irritants addresses",https://github.com/StevenBlack/hosts,/u/unbalancedparentheses,5
+9,2017-12-01 04:21:35 -0600,/t/culture,Why your programmers just want to code,https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e,/u/av,16
+1,2017-12-01 09:01:48 -0600,/t/practices,Running in Circles Why Agile Isn’t Working and What We Do Differently,https://m.signalvnoise.com/running-in-circles-aae73d79ce19,/u/unbalancedparentheses,3
+1,2017-12-01 13:50:29 -0600,"/t/linux,/t/security",Flaw Found In Dirty COW Patch,https://threatpost.com/flaw-found-in-dirty-cow-patch/129064/,/u/xorhash,1
+0,2017-12-01 13:08:50 -0600,"/t/pdf,/t/formalmethods,/t/haskell",Refinement Reflection: Complete Verification with SMT,https://arxiv.org/abs/1711.03842,/u/pushcx,2
+0,2017-12-01 12:53:47 -0600,/t/dotnet,C# 8.0 Features: A Glimpse of the Future,https://blog.ndepend.com/c-8-0-features-glimpse-future/,/u/calvin,2
+6,2017-11-30 14:47:44 -0600,"/t/historical,/t/programming",The big break in computer languages,http://esr.ibiblio.org/?p=7724,/u/bargap,16
+0,2017-12-01 16:53:49 -0600,"/t/show,/t/meta",Kill sticky [elements on webpages with this bookmarklet],https://alisdair.mcdiarmid.org/kill-sticky-headers/,/u/hobbes,2
+0,2017-12-01 14:12:50 -0600,"/t/pdf,/t/assembly,/t/compilers,/t/hardware,/t/programming",A Simple Multi-Processor Computer Based on Subleq (2011),https://arxiv.org/ftp/arxiv/papers/1106/1106.2593.pdf,/u/calvin,1
+0,2017-12-01 10:06:56 -0600,/t/haskell,Safe streaming with linear types,https://m0ar.github.io/safe-streaming/2017/08/08/take-and-zip.html,/u/pushcx,2
+0,2017-12-01 13:44:50 -0600,/t/networking,Controlling Queue Delay,http://queue.acm.org/detail.cfm?id=2209336,/u/unbalancedparentheses,1
+8,2017-11-30 12:31:31 -0600,/t/databases,A Shuffled Order That Works with Pagination,http://nathanmlong.com/2017/11/a-shuffled-order-that-works-with-pagination/,/u/nathanmlong,8

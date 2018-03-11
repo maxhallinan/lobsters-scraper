@@ -1,25 +1,25 @@
-4,2015-04-28 13:19:02 -0500,"['/t/go', '/t/rust']",Polyglot Weekly: A Rust Contributor Tries Their Hand at Go,http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html,/u/bcoe,17
-20,2015-04-28 08:47:54 -0500,['/t/security'],Why VarnishCache (still) won't have integrated SSL/TLS support,https://www.varnish-cache.org/docs/trunk/phk/ssl_again.html,/u/emallson,20
-7,2015-04-28 16:02:38 -0500,"['/t/devops', '/t/hardware', '/t/networking', '/t/web']",Scaleway - BareMetal SSD cloud servers for you.,https://www.scaleway.com/,/u/cnst,10
-1,2015-04-29 06:20:28 -0500,['/t/javascript'],Meet the M.I.K.E. Stack,http://developer.telerik.com/featured/meet-the-m-i-k-e-stack/,/u/remotesynth,2
-14,2015-04-28 04:59:13 -0500,['/t/person'],A Commemoration for Rachel Bryk (Dolphin emulator contributor),https://dolphin-emu.org/blog/2015/04/25/commemoration-rachel-bryk/,/u/sanxiyn,25
-3,2015-04-28 08:00:25 -0500,"['/t/python', '/t/release']",Hypothesis is an advanced Quickcheck style testing library for Python,http://hypothesis.readthedocs.org/en/latest/,/u/DRMacIver,18
-1,2015-04-29 01:41:44 -0500,"['/t/devops', '/t/release']","a new lightweight, open source, platform for Docker hosts",https://cargos.io/,/u/jasper,1
-0,2015-04-28 16:18:53 -0500,"['/t/privacy', '/t/security']",Tor Browser 4.5 is released,https://blog.torproject.org/blog/tor-browser-45-released,/u/jcspencer,7
-0,2015-04-28 11:12:50 -0500,"['/t/hardware', '/t/release']",MEGA65 Computer: an open-source new and open C65-like computer,http://mega65.org/,/u/pushcx,9
-0,2015-04-28 22:26:17 -0500,"['/t/book', '/t/programming']",Grab the brass bar,http://kk.org/cooltools/archives/1230,/u/kb,2
-1,2015-04-28 13:33:41 -0500,"['/t/ml', '/t/programming', '/t/vcs']",CueKeeper: Gitting Things Done in the browser,http://roscidus.com/blog/blog/2015/04/28/cuekeeper-gitting-things-done-in-the-browser/,/u/tizoc,4
-1,2015-04-28 12:52:34 -0500,['/t/programming'],Building a (not so simple) expression language part II: Scope,https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/,/u/ttrefren,4
-11,2015-04-27 16:41:00 -0500,['/t/practices'],Personal names around the world,http://www.w3.org/International/questions/qa-personal-names,/u/pushcx,22
-0,2015-04-28 15:29:28 -0500,['/t/games'],NES Graphics – Part 1,http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/,/u/mediremi,3
-31,2015-04-27 09:43:13 -0500,['/t/haskell'],The #1 reason I don’t write Haskell,http://www.drmaciver.com/2015/04/the-1-reason-i-dont-write-haskell/,/u/soc,42
-0,2015-04-28 14:16:58 -0500,"['/t/design', '/t/practices', '/t/web']",3 Common Design Patterns from Product Pages with High Conversion Rates,http://branchlabs.com/3-elements-of-product-pages-with-high-conversion-rates/,/u/graham,3
-18,2015-04-27 09:39:22 -0500,"['/t/haskell', '/t/programming', '/t/ruby']","On Haskell, Ruby, and Cards Against Humanity",http://www.drmaciver.com/2015/04/on-haskell-ruby-and-cards-against-humanity/,/u/kaiju,30
-0,2015-04-28 18:05:43 -0500,['/t/visualization'],Traffic Signal Progression,http://midimagic.sgc-hosting.com/progreso.htm,/u/pushcx,1
-0,2015-04-28 10:18:56 -0500,"['/t/php', '/t/practices', '/t/programming']",Composer & Continuous Integration,https://blog.engineyard.com/2015/composer-continuous-integration,/u/dshafik,3
-6,2015-04-27 17:38:50 -0500,"['/t/javascript', '/t/web']",how to get shit to work right,http://bodil.org/how-to-get-shit-to-work-right,/u/kb,7
-0,2015-04-28 15:57:55 -0500,"['/t/devops', '/t/linux', '/t/networking', '/t/virtualization', '/t/web']",Singapore Linodes are now available,https://blog.linode.com/2015/04/27/hello-singapore/,/u/cnst,1
-0,2015-04-28 09:18:35 -0500,['/t/c'],Non-constant constant-expressions in C++,http://b.atch.se/posts/non-constant-constant-expressions/,/u/lcapaldo,3
-1,2015-04-27 12:37:00 -0500,"['/t/pdf', '/t/compsci', '/t/rust']",Reenix: Implementing a Unix-Like Operating System in Rust,http://scialex.github.io/reenix.pdf,/u/steveklabnik,24
-11,2015-04-27 07:45:10 -0500,['/t/openbsd'],EU study recommends OpenBSD,http://undeadly.org/cgi?action=article&sid=20150427093546,/u/fcambus,21
-0,2015-04-28 11:03:14 -0500,"['/t/security', '/t/windows']",TeslaCrypt – Decrypt It Yourself,http://blogs.cisco.com/security/talos/teslacrypt,/u/jcs,1
+4,2015-04-28 13:19:02 -0500,"/t/go,/t/rust",Polyglot Weekly: A Rust Contributor Tries Their Hand at Go,http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html,/u/bcoe,17
+20,2015-04-28 08:47:54 -0500,/t/security,Why VarnishCache (still) won't have integrated SSL/TLS support,https://www.varnish-cache.org/docs/trunk/phk/ssl_again.html,/u/emallson,20
+7,2015-04-28 16:02:38 -0500,"/t/devops,/t/hardware,/t/networking,/t/web",Scaleway - BareMetal SSD cloud servers for you.,https://www.scaleway.com/,/u/cnst,10
+1,2015-04-29 06:20:28 -0500,/t/javascript,Meet the M.I.K.E. Stack,http://developer.telerik.com/featured/meet-the-m-i-k-e-stack/,/u/remotesynth,2
+14,2015-04-28 04:59:13 -0500,/t/person,A Commemoration for Rachel Bryk (Dolphin emulator contributor),https://dolphin-emu.org/blog/2015/04/25/commemoration-rachel-bryk/,/u/sanxiyn,25
+3,2015-04-28 08:00:25 -0500,"/t/python,/t/release",Hypothesis is an advanced Quickcheck style testing library for Python,http://hypothesis.readthedocs.org/en/latest/,/u/DRMacIver,18
+1,2015-04-29 01:41:44 -0500,"/t/devops,/t/release","a new lightweight, open source, platform for Docker hosts",https://cargos.io/,/u/jasper,1
+0,2015-04-28 16:18:53 -0500,"/t/privacy,/t/security",Tor Browser 4.5 is released,https://blog.torproject.org/blog/tor-browser-45-released,/u/jcspencer,7
+0,2015-04-28 11:12:50 -0500,"/t/hardware,/t/release",MEGA65 Computer: an open-source new and open C65-like computer,http://mega65.org/,/u/pushcx,9
+0,2015-04-28 22:26:17 -0500,"/t/book,/t/programming",Grab the brass bar,http://kk.org/cooltools/archives/1230,/u/kb,2
+1,2015-04-28 13:33:41 -0500,"/t/ml,/t/programming,/t/vcs",CueKeeper: Gitting Things Done in the browser,http://roscidus.com/blog/blog/2015/04/28/cuekeeper-gitting-things-done-in-the-browser/,/u/tizoc,4
+1,2015-04-28 12:52:34 -0500,/t/programming,Building a (not so simple) expression language part II: Scope,https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/,/u/ttrefren,4
+11,2015-04-27 16:41:00 -0500,/t/practices,Personal names around the world,http://www.w3.org/International/questions/qa-personal-names,/u/pushcx,22
+0,2015-04-28 15:29:28 -0500,/t/games,NES Graphics – Part 1,http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/,/u/mediremi,3
+31,2015-04-27 09:43:13 -0500,/t/haskell,The #1 reason I don’t write Haskell,http://www.drmaciver.com/2015/04/the-1-reason-i-dont-write-haskell/,/u/soc,42
+0,2015-04-28 14:16:58 -0500,"/t/design,/t/practices,/t/web",3 Common Design Patterns from Product Pages with High Conversion Rates,http://branchlabs.com/3-elements-of-product-pages-with-high-conversion-rates/,/u/graham,3
+18,2015-04-27 09:39:22 -0500,"/t/haskell,/t/programming,/t/ruby","On Haskell, Ruby, and Cards Against Humanity",http://www.drmaciver.com/2015/04/on-haskell-ruby-and-cards-against-humanity/,/u/kaiju,30
+0,2015-04-28 18:05:43 -0500,/t/visualization,Traffic Signal Progression,http://midimagic.sgc-hosting.com/progreso.htm,/u/pushcx,1
+0,2015-04-28 10:18:56 -0500,"/t/php,/t/practices,/t/programming",Composer & Continuous Integration,https://blog.engineyard.com/2015/composer-continuous-integration,/u/dshafik,3
+6,2015-04-27 17:38:50 -0500,"/t/javascript,/t/web",how to get shit to work right,http://bodil.org/how-to-get-shit-to-work-right,/u/kb,7
+0,2015-04-28 15:57:55 -0500,"/t/devops,/t/linux,/t/networking,/t/virtualization,/t/web",Singapore Linodes are now available,https://blog.linode.com/2015/04/27/hello-singapore/,/u/cnst,1
+0,2015-04-28 09:18:35 -0500,/t/c,Non-constant constant-expressions in C++,http://b.atch.se/posts/non-constant-constant-expressions/,/u/lcapaldo,3
+1,2015-04-27 12:37:00 -0500,"/t/pdf,/t/compsci,/t/rust",Reenix: Implementing a Unix-Like Operating System in Rust,http://scialex.github.io/reenix.pdf,/u/steveklabnik,24
+11,2015-04-27 07:45:10 -0500,/t/openbsd,EU study recommends OpenBSD,http://undeadly.org/cgi?action=article&sid=20150427093546,/u/fcambus,21
+0,2015-04-28 11:03:14 -0500,"/t/security,/t/windows",TeslaCrypt – Decrypt It Yourself,http://blogs.cisco.com/security/talos/teslacrypt,/u/jcs,1

@@ -1,25 +1,25 @@
-2,2017-02-21 05:30:34 -0600,['/t/programming'],A Different Approach to Teaching Kids and Teens to Code,https://medium.com/@alishah.novin/a-different-approach-to-teaching-kids-and-teens-to-code-43b7192644c9,/u/calvin,15
-0,2017-02-21 04:50:21 -0600,"['/t/games', '/t/reversing']",Finding The Lost Vikings – Reversing a Virtual Machine,https://ryiron.wordpress.com/2017/02/01/finding-the-lost-vikings-reversing-a-virtual-machine/,/u/mulander,18
-0,2017-02-21 18:57:50 -0600,"['/t/release', '/t/security', '/t/windows']",PuTTY: release 0.68,http://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.68.html,/u/calvin,3
-0,2017-02-22 01:29:40 -0600,['/t/python'],Generate an EPUB for the Google SRE Book,https://github.com/captn3m0/google-sre-ebook,/u/Dawny33,1
-5,2017-02-21 03:39:37 -0600,"['/t/compilers', '/t/security']",The Challenges of Deploying Security Mitigations,https://blog.trailofbits.com/2017/02/20/the-challenges-of-deploying-security-mitigations/,/u/artem,5
-1,2017-02-21 03:06:49 -0600,"['/t/java', '/t/security']",SMTP over XXE − how to send emails using Java's XML parser,https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/,/u/fcbsd,15
-0,2017-02-21 11:58:42 -0600,['/t/databases'],Why You Should Design Your Database to Optimise for Statistics,https://blog.jooq.org/2016/10/05/why-you-should-design-your-database-to-optimise-for-statistics/,/u/pushcx,6
-0,2017-02-21 18:03:01 -0600,"['/t/practices', '/t/programming']",Taking Agile beyond the dev team,https://blog.scottnonnenberg.com/an-agile-organization/,/u/scottnonnenberg,1
-0,2017-02-21 11:33:17 -0600,"['/t/slides', '/t/databases', '/t/release']",Major Features: Postgres 9.6,http://momjian.us/main/writings/pgsql/features.pdf,/u/pushcx,6
-0,2017-02-21 16:41:43 -0600,"['/t/debugging', '/t/vim']",My new favorite vim/tmux bug,http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/,/u/friendlysock,3
-1,2017-02-21 09:37:48 -0600,"['/t/games', '/t/graphics', '/t/historical']",The Use of ASCII Graphics in Roguelikes: Aesthetic Nostalgia and Semiotic Difference,http://www.academia.edu/31504292/The_Use_of_ASCII_Graphics_in_Roguelikes_Aesthetic_Nostalgia_and_Semiotic_Difference,/u/pushcx,6
-8,2017-02-20 15:57:02 -0600,['/t/android'],Signal can now be used without Google Play Services,https://github.com/WhisperSystems/Signal-Android/commit/1669731329bcc32c84e33035a67a2fc22444c24b,/u/nyx,34
-0,2017-02-21 07:51:02 -0600,['/t/hardware'],pancake rom,http://www.mikekohn.net/micro/pancake_rom.php,/u/flyingfisch,6
-0,2017-02-21 10:29:48 -0600,"['/t/ios', '/t/privacy']",FBI Under Pressure to Reveal Cost of San Bernardino iPhone Hack,http://wccftech.com/fbi-reveal-cost-san-bernardino-iphone-hack/,/u/flyingfisch,5
-0,2017-02-21 16:21:22 -0600,['/t/programming'],"Ende, a proposed programming language",https://github.com/AndyShiue/Ende-readme/blob/master/README.md,/u/bsima,2
-0,2017-02-21 09:06:50 -0600,['/t/science'],"""SMASH"" --An Amazing New Theory of the History of the Universe (From Big Bang to the Present Day)",http://www.dailygalaxy.com/my_weblog/2017/02/smash-an-amazing-new-theory-of-the-history-of-the-universe-from-big-bang-to-the-present-day.html,/u/adsouza,5
-2,2017-02-20 17:03:17 -0600,['/t/openbsd'],That Time I Nuked the Disklabel and Recovered the Disk,http://akpoff.com/archive/2017/that_time_i_nuked_the_disklabel_and_recovered_the_disk.html,/u/akpoff,13
-0,2017-02-21 11:24:14 -0600,"['/t/devops', '/t/python', '/t/web']",How to Configure NGINX for a Flask Web Application,http://www.patricksoftwareblog.com/how-to-configure-nginx-for-a-flask-web-application/,/u/pushcx,3
-3,2017-02-20 18:58:51 -0600,['/t/networking'],Stories about building an Internet Service Provider,http://chrishacken.com/starting-an-internet-service-provider/,/u/pushcx,13
-43,2017-02-20 04:22:40 -0600,['/t/ask'],What are you working on this week?,/s/vyrwtj/what_are_you_working_on_this_week,/u/caius,28
-1,2017-02-21 08:59:36 -0600,['/t/devops'],Debugging Event-Driven Microservices,https://runnable.com/blog/debugging-event-driven-microservices,/u/taylor,2
-0,2017-02-21 17:35:00 -0600,"['/t/video', '/t/programming']",Julia: Numerical Applications Pushing Limits of Language Design,https://www.youtube.com/watch?v=pZTqMSM2ksY,/u/tf,1
-0,2017-02-21 12:42:33 -0600,['/t/ruby'],The Ultimate Guide to Ruby Timeouts,https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts,/u/pushcx,2
-5,2017-02-20 09:49:41 -0600,"['/t/scaling', '/t/virtualization']",$5 Showdown: Linode vs. DigitalOcean vs. Amazon Lightsail vs. Vultr,https://joshtronic.com/2017/02/14/five-dollar-showdown-linode-vs-digitalocean-vs-lightsaild-vs-vultr/,/u/mjturner,40
-0,2017-02-21 12:03:51 -0600,"['/t/release', '/t/security']",Introducing Netflix Stethoscope,http://techblog.netflix.com/2017/02/introducing-netflix-stethoscope.html,/u/355E3B,2
+2,2017-02-21 05:30:34 -0600,/t/programming,A Different Approach to Teaching Kids and Teens to Code,https://medium.com/@alishah.novin/a-different-approach-to-teaching-kids-and-teens-to-code-43b7192644c9,/u/calvin,15
+0,2017-02-21 04:50:21 -0600,"/t/games,/t/reversing",Finding The Lost Vikings – Reversing a Virtual Machine,https://ryiron.wordpress.com/2017/02/01/finding-the-lost-vikings-reversing-a-virtual-machine/,/u/mulander,18
+0,2017-02-21 18:57:50 -0600,"/t/release,/t/security,/t/windows",PuTTY: release 0.68,http://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.68.html,/u/calvin,3
+0,2017-02-22 01:29:40 -0600,/t/python,Generate an EPUB for the Google SRE Book,https://github.com/captn3m0/google-sre-ebook,/u/Dawny33,1
+5,2017-02-21 03:39:37 -0600,"/t/compilers,/t/security",The Challenges of Deploying Security Mitigations,https://blog.trailofbits.com/2017/02/20/the-challenges-of-deploying-security-mitigations/,/u/artem,5
+1,2017-02-21 03:06:49 -0600,"/t/java,/t/security",SMTP over XXE − how to send emails using Java's XML parser,https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/,/u/fcbsd,15
+0,2017-02-21 11:58:42 -0600,/t/databases,Why You Should Design Your Database to Optimise for Statistics,https://blog.jooq.org/2016/10/05/why-you-should-design-your-database-to-optimise-for-statistics/,/u/pushcx,6
+0,2017-02-21 18:03:01 -0600,"/t/practices,/t/programming",Taking Agile beyond the dev team,https://blog.scottnonnenberg.com/an-agile-organization/,/u/scottnonnenberg,1
+0,2017-02-21 11:33:17 -0600,"/t/slides,/t/databases,/t/release",Major Features: Postgres 9.6,http://momjian.us/main/writings/pgsql/features.pdf,/u/pushcx,6
+0,2017-02-21 16:41:43 -0600,"/t/debugging,/t/vim",My new favorite vim/tmux bug,http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/,/u/friendlysock,3
+1,2017-02-21 09:37:48 -0600,"/t/games,/t/graphics,/t/historical",The Use of ASCII Graphics in Roguelikes: Aesthetic Nostalgia and Semiotic Difference,http://www.academia.edu/31504292/The_Use_of_ASCII_Graphics_in_Roguelikes_Aesthetic_Nostalgia_and_Semiotic_Difference,/u/pushcx,6
+8,2017-02-20 15:57:02 -0600,/t/android,Signal can now be used without Google Play Services,https://github.com/WhisperSystems/Signal-Android/commit/1669731329bcc32c84e33035a67a2fc22444c24b,/u/nyx,34
+0,2017-02-21 07:51:02 -0600,/t/hardware,pancake rom,http://www.mikekohn.net/micro/pancake_rom.php,/u/flyingfisch,6
+0,2017-02-21 10:29:48 -0600,"/t/ios,/t/privacy",FBI Under Pressure to Reveal Cost of San Bernardino iPhone Hack,http://wccftech.com/fbi-reveal-cost-san-bernardino-iphone-hack/,/u/flyingfisch,5
+0,2017-02-21 16:21:22 -0600,/t/programming,"Ende, a proposed programming language",https://github.com/AndyShiue/Ende-readme/blob/master/README.md,/u/bsima,2
+0,2017-02-21 09:06:50 -0600,/t/science,"""SMASH"" --An Amazing New Theory of the History of the Universe (From Big Bang to the Present Day)",http://www.dailygalaxy.com/my_weblog/2017/02/smash-an-amazing-new-theory-of-the-history-of-the-universe-from-big-bang-to-the-present-day.html,/u/adsouza,5
+2,2017-02-20 17:03:17 -0600,/t/openbsd,That Time I Nuked the Disklabel and Recovered the Disk,http://akpoff.com/archive/2017/that_time_i_nuked_the_disklabel_and_recovered_the_disk.html,/u/akpoff,13
+0,2017-02-21 11:24:14 -0600,"/t/devops,/t/python,/t/web",How to Configure NGINX for a Flask Web Application,http://www.patricksoftwareblog.com/how-to-configure-nginx-for-a-flask-web-application/,/u/pushcx,3
+3,2017-02-20 18:58:51 -0600,/t/networking,Stories about building an Internet Service Provider,http://chrishacken.com/starting-an-internet-service-provider/,/u/pushcx,13
+43,2017-02-20 04:22:40 -0600,/t/ask,What are you working on this week?,/s/vyrwtj/what_are_you_working_on_this_week,/u/caius,28
+1,2017-02-21 08:59:36 -0600,/t/devops,Debugging Event-Driven Microservices,https://runnable.com/blog/debugging-event-driven-microservices,/u/taylor,2
+0,2017-02-21 17:35:00 -0600,"/t/video,/t/programming",Julia: Numerical Applications Pushing Limits of Language Design,https://www.youtube.com/watch?v=pZTqMSM2ksY,/u/tf,1
+0,2017-02-21 12:42:33 -0600,/t/ruby,The Ultimate Guide to Ruby Timeouts,https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts,/u/pushcx,2
+5,2017-02-20 09:49:41 -0600,"/t/scaling,/t/virtualization",$5 Showdown: Linode vs. DigitalOcean vs. Amazon Lightsail vs. Vultr,https://joshtronic.com/2017/02/14/five-dollar-showdown-linode-vs-digitalocean-vs-lightsaild-vs-vultr/,/u/mjturner,40
+0,2017-02-21 12:03:51 -0600,"/t/release,/t/security",Introducing Netflix Stethoscope,http://techblog.netflix.com/2017/02/introducing-netflix-stethoscope.html,/u/355E3B,2

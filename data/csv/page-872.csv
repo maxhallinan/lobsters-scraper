@@ -1,25 +1,25 @@
-2,2016-02-12 22:42:11 -0600,"['/t/compsci', '/t/ruby']",Ruby `parser` gem is accidentally quadratic,http://accidentallyquadratic.tumblr.com/post/139210135602/ruby-parser-gem,/u/antifuchs,37
-1,2016-02-13 11:31:32 -0600,['/t/distributed'],The binary search of distributed programming,http://antirez.com/news/102,/u/pushcx,8
-0,2016-02-13 09:47:26 -0600,"['/t/hardware', '/t/reversing']","Unlocking my Lenovo laptop, part 3",http://www.zmatt.net/unlocking-my-lenovo-laptop-part-3/,/u/jcs,11
-9,2016-02-12 19:07:43 -0600,"['/t/linux', '/t/ml']","Lyrica - A safe, comprehensible and efficient PID 1/init replacement written in OCaml",https://github.com/rein/lyrica,/u/rose,16
-1,2016-02-12 15:36:45 -0600,['/t/rust'],Why Rust's ownership/borrowing is hard,http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/,/u/isagalaev,38
-1,2016-02-13 10:05:32 -0600,['/t/practices'],Technology Internship Salaries Considered,https://posts.postlight.com/technology-internship-salaries-considered-450c67e2d21b,/u/pushcx,6
-1,2016-02-13 08:40:44 -0600,['/t/ios'],"Date settings to Jan 1, 1970 will permanently brick 64-bit iOS devices",https://www.reddit.com/r/jailbreak/comments/458ao3/discussion_changing_time_date_settings_to_jan_1/,/u/fcbsd,7
-0,2016-02-13 11:10:00 -0600,"['/t/law', '/t/satire']",Unhappy Birthday Suspended,https://mako.cc/copyrighteous/unhappy-birthday-suspended,/u/JordiGH,10
-5,2016-02-13 02:02:57 -0600,"['/t/law', '/t/web']",Wikimedia removes The Diary of Anne Frank due to copyright law,http://blog.wikimedia.org/2016/02/10/anne-frank-diary-removal/,/u/zg,6
-0,2016-02-12 15:57:42 -0600,['/t/programming'],So you want to write a package manager,https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527,/u/steveklabnik,36
-5,2016-02-12 10:02:32 -0600,['/t/practices'],Github responds to developers,https://github.com/dear-github/dear-github/pull/115,/u/marvindanig,25
-0,2016-02-13 06:46:46 -0600,['/t/compilers'],A Lisp interpreter in TypeScript,http://www.oki-osk.jp/esc/typescript/lisp-en.html,/u/pushcx,5
-0,2016-02-13 15:46:07 -0600,"['/t/practices', '/t/programming']",Answering some questions on Developer Evangelism,https://medium.com/@codepo8/answering-some-questions-on-developer-evangelism-ed158d8e3518,/u/jitterted,1
-1,2016-02-12 17:24:20 -0600,"['/t/java', '/t/scaling']",Eliminating Large JVM GC Pauses Caused by Background IO Traffic,https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic,/u/jitterted,14
-5,2016-02-12 13:24:27 -0600,"['/t/design', '/t/visualization']",Two Little Ducks,http://style.org/malofiej/,/u/pushcx,12
-4,2016-02-12 11:46:48 -0600,['/t/privacy'],"How this company tracked 16,000 Iowa caucus-goers via their phones",http://fusion.net/story/268108/dstillery-clever-tracking-trick/,/u/pushcx,10
-0,2016-02-13 04:53:05 -0600,"['/t/android', '/t/ios', '/t/security']",Reflecting on Recent iOS and Android Security Updates,https://blog.zimperium.com/reflecting-on-recent-ios-and-android-security-updates/,/u/mulander,2
-4,2016-02-12 13:52:59 -0600,"['/t/video', '/t/cogsci', '/t/philosophy', '/t/science']",Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective,https://www.youtube.com/watch?v=dXQPL9GooyI,/u/ngrilly,7
-3,2016-02-12 12:18:21 -0600,"['/t/php', '/t/security']",Cracking PHP rand(),http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/,/u/jcs,7
-0,2016-02-12 08:58:09 -0600,"['/t/show', '/t/android', '/t/hardware', '/t/visualization']",Smartphones with removable batteries are hard to find. Here is a comparison chart with 200 of them.,http://www.productchart.com/smartphones/sets/3,/u/no_gravity,8
-3,2016-02-12 08:15:22 -0600,['/t/practices'],Cost of false positives (2011),http://laughingmeme.org/2011/07/23/cost-of-false-positives/,/u/pushcx,8
-0,2016-02-12 17:15:46 -0600,"['/t/pdf', '/t/cogsci', '/t/games']",Playing Games Across the Superintelligence Divide,http://game.engineering.nyu.edu/wp-content/uploads/2016/02/playing-games-superintelligence-AAAI16-FINAL.pdf,/u/mjn,4
-2,2016-02-12 11:27:07 -0600,"['/t/video', '/t/python', '/t/visualization']",A Better Default Colormap for Matplotlib,https://www.youtube.com/watch?v=xAoljeRJ3lU,/u/asthasr,5
-3,2016-02-12 08:54:52 -0600,"['/t/c', '/t/haskell']",Cap'n Proto v0.2: Compiler rewritten Haskell -> C++ (2013),https://capnproto.org/news/2013-08-12-capnproto-0.2-no-more-haskell.html,/u/pushcx,5
-7,2016-02-11 22:50:45 -0600,"['/t/devops', '/t/practices', '/t/unix']",Filesystem Hierarchy Standard,http://www.pathname.com/fhs/pub/fhs-2.3.html,/u/friendlysock,15
+2,2016-02-12 22:42:11 -0600,"/t/compsci,/t/ruby",Ruby `parser` gem is accidentally quadratic,http://accidentallyquadratic.tumblr.com/post/139210135602/ruby-parser-gem,/u/antifuchs,37
+1,2016-02-13 11:31:32 -0600,/t/distributed,The binary search of distributed programming,http://antirez.com/news/102,/u/pushcx,8
+0,2016-02-13 09:47:26 -0600,"/t/hardware,/t/reversing","Unlocking my Lenovo laptop, part 3",http://www.zmatt.net/unlocking-my-lenovo-laptop-part-3/,/u/jcs,11
+9,2016-02-12 19:07:43 -0600,"/t/linux,/t/ml","Lyrica - A safe, comprehensible and efficient PID 1/init replacement written in OCaml",https://github.com/rein/lyrica,/u/rose,16
+1,2016-02-12 15:36:45 -0600,/t/rust,Why Rust's ownership/borrowing is hard,http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/,/u/isagalaev,38
+1,2016-02-13 10:05:32 -0600,/t/practices,Technology Internship Salaries Considered,https://posts.postlight.com/technology-internship-salaries-considered-450c67e2d21b,/u/pushcx,6
+1,2016-02-13 08:40:44 -0600,/t/ios,"Date settings to Jan 1, 1970 will permanently brick 64-bit iOS devices",https://www.reddit.com/r/jailbreak/comments/458ao3/discussion_changing_time_date_settings_to_jan_1/,/u/fcbsd,7
+0,2016-02-13 11:10:00 -0600,"/t/law,/t/satire",Unhappy Birthday Suspended,https://mako.cc/copyrighteous/unhappy-birthday-suspended,/u/JordiGH,10
+5,2016-02-13 02:02:57 -0600,"/t/law,/t/web",Wikimedia removes The Diary of Anne Frank due to copyright law,http://blog.wikimedia.org/2016/02/10/anne-frank-diary-removal/,/u/zg,6
+0,2016-02-12 15:57:42 -0600,/t/programming,So you want to write a package manager,https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527,/u/steveklabnik,36
+5,2016-02-12 10:02:32 -0600,/t/practices,Github responds to developers,https://github.com/dear-github/dear-github/pull/115,/u/marvindanig,25
+0,2016-02-13 06:46:46 -0600,/t/compilers,A Lisp interpreter in TypeScript,http://www.oki-osk.jp/esc/typescript/lisp-en.html,/u/pushcx,5
+0,2016-02-13 15:46:07 -0600,"/t/practices,/t/programming",Answering some questions on Developer Evangelism,https://medium.com/@codepo8/answering-some-questions-on-developer-evangelism-ed158d8e3518,/u/jitterted,1
+1,2016-02-12 17:24:20 -0600,"/t/java,/t/scaling",Eliminating Large JVM GC Pauses Caused by Background IO Traffic,https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic,/u/jitterted,14
+5,2016-02-12 13:24:27 -0600,"/t/design,/t/visualization",Two Little Ducks,http://style.org/malofiej/,/u/pushcx,12
+4,2016-02-12 11:46:48 -0600,/t/privacy,"How this company tracked 16,000 Iowa caucus-goers via their phones",http://fusion.net/story/268108/dstillery-clever-tracking-trick/,/u/pushcx,10
+0,2016-02-13 04:53:05 -0600,"/t/android,/t/ios,/t/security",Reflecting on Recent iOS and Android Security Updates,https://blog.zimperium.com/reflecting-on-recent-ios-and-android-security-updates/,/u/mulander,2
+4,2016-02-12 13:52:59 -0600,"/t/video,/t/cogsci,/t/philosophy,/t/science",Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective,https://www.youtube.com/watch?v=dXQPL9GooyI,/u/ngrilly,7
+3,2016-02-12 12:18:21 -0600,"/t/php,/t/security",Cracking PHP rand(),http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/,/u/jcs,7
+0,2016-02-12 08:58:09 -0600,"/t/show,/t/android,/t/hardware,/t/visualization",Smartphones with removable batteries are hard to find. Here is a comparison chart with 200 of them.,http://www.productchart.com/smartphones/sets/3,/u/no_gravity,8
+3,2016-02-12 08:15:22 -0600,/t/practices,Cost of false positives (2011),http://laughingmeme.org/2011/07/23/cost-of-false-positives/,/u/pushcx,8
+0,2016-02-12 17:15:46 -0600,"/t/pdf,/t/cogsci,/t/games",Playing Games Across the Superintelligence Divide,http://game.engineering.nyu.edu/wp-content/uploads/2016/02/playing-games-superintelligence-AAAI16-FINAL.pdf,/u/mjn,4
+2,2016-02-12 11:27:07 -0600,"/t/video,/t/python,/t/visualization",A Better Default Colormap for Matplotlib,https://www.youtube.com/watch?v=xAoljeRJ3lU,/u/asthasr,5
+3,2016-02-12 08:54:52 -0600,"/t/c,/t/haskell",Cap'n Proto v0.2: Compiler rewritten Haskell -> C++ (2013),https://capnproto.org/news/2013-08-12-capnproto-0.2-no-more-haskell.html,/u/pushcx,5
+7,2016-02-11 22:50:45 -0600,"/t/devops,/t/practices,/t/unix",Filesystem Hierarchy Standard,http://www.pathname.com/fhs/pub/fhs-2.3.html,/u/friendlysock,15

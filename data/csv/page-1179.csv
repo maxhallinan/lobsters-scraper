@@ -1,25 +1,25 @@
-0,2015-01-21 10:44:23 -0600,"['/t/pdf', '/t/programming']",The repeated demise of logic programming and why it will be reincarnated,http://www.aaai.org/Papers/Symposia/Spring/2006/SS-06-08/SS06-08-003.pdf,/u/SeanTAllen,3
-0,2015-01-21 16:25:35 -0600,['/t/ruby'],Tuning Ruby's Global Method Cache,https://www.shopify.com/technology/16777156-tuning-rubys-global-method-cache,/u/jcs,1
-0,2015-01-21 10:33:37 -0600,"['/t/hardware', '/t/practices']","So you want to build a hardware company, and you're a software engineer...",https://medium.com/thelist/so-you-want-to-build-a-hardware-company-db757e47d039,/u/pushcx,2
-4,2015-01-21 10:05:27 -0600,"['/t/design', '/t/web']",The FUN CSS naming convention explained,http://benfrain.com/fun-css-naming-convention-explained/,/u/flyingfisch,1
-8,2015-01-20 08:41:27 -0600,"['/t/javascript', '/t/web']","Experimentally verified: ""Why client-side templating is wrong""",http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html,/u/joshuacc,17
-0,2015-01-20 15:03:39 -0600,"['/t/law', '/t/release']",TLDRLegal - Software Licenses Explained in Plain English,https://tldrlegal.com/,/u/daGrevis,11
-14,2015-01-19 19:25:19 -0600,['/t/programming'],This week in...,/s/bjcb9s/this_week,/u/BruceM,49
-19,2015-01-20 00:10:07 -0600,['/t/openbsd'],OpenBSD 5.6 on the ThinkPad x201,http://zacbrown.org/2015/01/18/openbsd-as-a-desktop.html,/u/zacbrown,26
-0,2015-01-20 15:25:06 -0600,"['/t/c', '/t/programming']",How to get started with the LLVM C API,https://pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html,/u/zacbrown,9
-1,2015-01-21 12:32:05 -0600,"['/t/networking', '/t/release']",Send files faster (with your existing workflow),http://www.supertcp.com/,/u/ry_brink,0
-2,2015-01-20 15:34:21 -0600,"['/t/culture', '/t/games', '/t/practices']","The Game Outcomes Project, Part 4: Crunch Makes Games Worse",http://gamasutra.com/blogs/PaulTozour/20150120/234443/The_Game_Outcomes_Project_Part_4_Crunch_Makes_Games_Worse.php,/u/pushcx,12
-2,2015-01-20 11:32:41 -0600,['/t/go'],CFP open for GopherCon,http://cfp.gophercon.com/events/gc15,/u/goinggo,6
-0,2015-01-20 15:37:36 -0600,"['/t/c', '/t/windows']",LLDB is Coming to Windows,http://blog.llvm.org/2015/01/lldb-is-coming-to-windows.html,/u/journeysquid,4
-0,2015-01-20 14:51:13 -0600,['/t/person'],The Ronco Principle,http://paulgraham.com/ronco.html,/u/mediremi,4
-1,2015-01-20 12:00:30 -0600,"['/t/compsci', '/t/python']",The Simulated Annealing Algorithm,http://katrinaeg.com/simulated-annealing.html,/u/pushcx,4
-0,2015-01-20 09:49:17 -0600,['/t/distributed'],Onyx 0.5.0: The Cluster as a Value,http://michaeldrogalis.github.io/jekyll/update/2015/01/20/Onyx-0.5.0:-The-Cluster-as-a-Value.html,/u/XPherior,6
-0,2015-01-20 05:26:58 -0600,"['/t/c', '/t/go']",C to Go translation diff from the go project,https://github.com/golang/go/commit/20a10e7ddd1b2305f1279043ec281301c9199359#diff-3753e4a51efd199bafde2f4f6c68b00eL4,/u/walle,10
-0,2015-01-20 16:17:18 -0600,"['/t/art', '/t/culture', '/t/law']",On Scraper Capitalism,http://greg.org/archive/2014/12/27/on_scraper_capitalism.html,/u/badr,5
-0,2015-01-20 10:23:56 -0600,['/t/javascript'],Using ECMAScript 6 Maps,http://adripofjavascript.com/blog/drips/using-ecmascript-6-maps.html,/u/joshuacc,5
-3,2015-01-20 08:35:29 -0600,['/t/scala'],PayPal Scala Style Guidelines,https://github.com/paypal/scala-style-guide/blob/develop/README.md,/u/tobym,3
-0,2015-01-20 11:33:09 -0600,"['/t/event', '/t/go']",Early bird tickets available for GopherCon,https://ti.to/gophercon/gophercon-2015,/u/goinggo,3
-0,2015-01-20 16:56:59 -0600,"['/t/games', '/t/lisp', '/t/programming']",Get Bonus: Exploring predominantly functional video game design,https://github.com/get-bonus/get-bonus,/u/zem,1
-0,2015-01-20 10:02:18 -0600,"['/t/person', '/t/unix']",Keith Packard Leaves Intel's Linux Graphics Work,http://www.phoronix.com/scan.php?page=news_item&px=Keith-Packard-Leaves-Intel,/u/jcs,3
-0,2015-01-20 12:14:43 -0600,"['/t/linux', '/t/security']",Disk Encryption Tests On Fedora 21,http://www.phoronix.com/vr.php?view=21390,/u/journeysquid,2
-3,2015-01-20 09:38:18 -0600,"['/t/culture', '/t/philosophy']","The Master and the Slave, the Open and the Free",https://mempko.wordpress.com/2015/01/20/the-master-and-the-slave-the-open-and-the-free/,/u/mempko,6
+0,2015-01-21 10:44:23 -0600,"/t/pdf,/t/programming",The repeated demise of logic programming and why it will be reincarnated,http://www.aaai.org/Papers/Symposia/Spring/2006/SS-06-08/SS06-08-003.pdf,/u/SeanTAllen,3
+0,2015-01-21 16:25:35 -0600,/t/ruby,Tuning Ruby's Global Method Cache,https://www.shopify.com/technology/16777156-tuning-rubys-global-method-cache,/u/jcs,1
+0,2015-01-21 10:33:37 -0600,"/t/hardware,/t/practices","So you want to build a hardware company, and you're a software engineer...",https://medium.com/thelist/so-you-want-to-build-a-hardware-company-db757e47d039,/u/pushcx,2
+4,2015-01-21 10:05:27 -0600,"/t/design,/t/web",The FUN CSS naming convention explained,http://benfrain.com/fun-css-naming-convention-explained/,/u/flyingfisch,1
+8,2015-01-20 08:41:27 -0600,"/t/javascript,/t/web","Experimentally verified: ""Why client-side templating is wrong""",http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html,/u/joshuacc,17
+0,2015-01-20 15:03:39 -0600,"/t/law,/t/release",TLDRLegal - Software Licenses Explained in Plain English,https://tldrlegal.com/,/u/daGrevis,11
+14,2015-01-19 19:25:19 -0600,/t/programming,This week in...,/s/bjcb9s/this_week,/u/BruceM,49
+19,2015-01-20 00:10:07 -0600,/t/openbsd,OpenBSD 5.6 on the ThinkPad x201,http://zacbrown.org/2015/01/18/openbsd-as-a-desktop.html,/u/zacbrown,26
+0,2015-01-20 15:25:06 -0600,"/t/c,/t/programming",How to get started with the LLVM C API,https://pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html,/u/zacbrown,9
+1,2015-01-21 12:32:05 -0600,"/t/networking,/t/release",Send files faster (with your existing workflow),http://www.supertcp.com/,/u/ry_brink,0
+2,2015-01-20 15:34:21 -0600,"/t/culture,/t/games,/t/practices","The Game Outcomes Project, Part 4: Crunch Makes Games Worse",http://gamasutra.com/blogs/PaulTozour/20150120/234443/The_Game_Outcomes_Project_Part_4_Crunch_Makes_Games_Worse.php,/u/pushcx,12
+2,2015-01-20 11:32:41 -0600,/t/go,CFP open for GopherCon,http://cfp.gophercon.com/events/gc15,/u/goinggo,6
+0,2015-01-20 15:37:36 -0600,"/t/c,/t/windows",LLDB is Coming to Windows,http://blog.llvm.org/2015/01/lldb-is-coming-to-windows.html,/u/journeysquid,4
+0,2015-01-20 14:51:13 -0600,/t/person,The Ronco Principle,http://paulgraham.com/ronco.html,/u/mediremi,4
+1,2015-01-20 12:00:30 -0600,"/t/compsci,/t/python",The Simulated Annealing Algorithm,http://katrinaeg.com/simulated-annealing.html,/u/pushcx,4
+0,2015-01-20 09:49:17 -0600,/t/distributed,Onyx 0.5.0: The Cluster as a Value,http://michaeldrogalis.github.io/jekyll/update/2015/01/20/Onyx-0.5.0:-The-Cluster-as-a-Value.html,/u/XPherior,6
+0,2015-01-20 05:26:58 -0600,"/t/c,/t/go",C to Go translation diff from the go project,https://github.com/golang/go/commit/20a10e7ddd1b2305f1279043ec281301c9199359#diff-3753e4a51efd199bafde2f4f6c68b00eL4,/u/walle,10
+0,2015-01-20 16:17:18 -0600,"/t/art,/t/culture,/t/law",On Scraper Capitalism,http://greg.org/archive/2014/12/27/on_scraper_capitalism.html,/u/badr,5
+0,2015-01-20 10:23:56 -0600,/t/javascript,Using ECMAScript 6 Maps,http://adripofjavascript.com/blog/drips/using-ecmascript-6-maps.html,/u/joshuacc,5
+3,2015-01-20 08:35:29 -0600,/t/scala,PayPal Scala Style Guidelines,https://github.com/paypal/scala-style-guide/blob/develop/README.md,/u/tobym,3
+0,2015-01-20 11:33:09 -0600,"/t/event,/t/go",Early bird tickets available for GopherCon,https://ti.to/gophercon/gophercon-2015,/u/goinggo,3
+0,2015-01-20 16:56:59 -0600,"/t/games,/t/lisp,/t/programming",Get Bonus: Exploring predominantly functional video game design,https://github.com/get-bonus/get-bonus,/u/zem,1
+0,2015-01-20 10:02:18 -0600,"/t/person,/t/unix",Keith Packard Leaves Intel's Linux Graphics Work,http://www.phoronix.com/scan.php?page=news_item&px=Keith-Packard-Leaves-Intel,/u/jcs,3
+0,2015-01-20 12:14:43 -0600,"/t/linux,/t/security",Disk Encryption Tests On Fedora 21,http://www.phoronix.com/vr.php?view=21390,/u/journeysquid,2
+3,2015-01-20 09:38:18 -0600,"/t/culture,/t/philosophy","The Master and the Slave, the Open and the Free",https://mempko.wordpress.com/2015/01/20/the-master-and-the-slave-the-open-and-the-free/,/u/mempko,6

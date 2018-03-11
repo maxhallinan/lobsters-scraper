@@ -1,25 +1,25 @@
-57,2018-01-29 09:20:27 -0600,"['/t/ask', '/t/culture']",What are you working on this week?,/s/ifzylp/what_are_you_working_on_this_week,/u/calvin,29
-15,2018-01-29 20:32:07 -0600,['/t/programming'],If-statements design: guard clauses may be all you need,https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a,/u/calvin,7
-0,2018-01-30 11:02:42 -0600,"['/t/erlang', '/t/web']","lambdapad - Static site generator using Erlang. Yes, Erlang.",https://github.com/gar1t/lambdapad,/u/zdsmith,2
-1,2018-01-29 16:48:25 -0600,"['/t/c', '/t/historical']",dmr on XOR (1995),http://c-faq.com/misc/xor.dmr.html,/u/fcbsd,15
-0,2018-01-30 12:31:28 -0600,['/t/cryptocurrencies'],"U.S. Regulators Subpoena Crypto Exchange Bitfinex, Tether",https://www.bloomberg.com/news/articles/2018-01-30/crypto-exchange-bitfinex-tether-said-to-get-subpoenaed-by-cftc,/u/asthasr,1
-2,2018-01-29 16:39:32 -0600,"['/t/event', '/t/meta']",Interest check: Dallas lobste.rs meetup in July,/s/vkdsfi/interest_check_dallas_lobste_rs_meetup,/u/zpojqwfejwfhiunz,10
-0,2018-01-30 11:04:54 -0600,"['/t/distributed', '/t/programming']",Embracing eventual consistency in SoA networking,https://blog.envoyproxy.io/embracing-eventual-consistency-in-soa-networking-32a5ee5d443d,/u/rdl,1
-23,2018-01-29 00:11:57 -0600,['/t/book'],Writing a book on Vala lang. Any suggestions?,http://kiranchauhan.com/valab/,/u/chauhankiran,21
-1,2018-01-29 17:54:30 -0600,"['/t/job', '/t/practices']",Old School Management Techniques That Still Matter,http://robertspeer.com/old-school-management-techniques-that-still-matter/,/u/friendlysock,9
-2,2018-01-29 14:10:54 -0600,['/t/linux'],LinuxBoot,https://linuxboot.org/,/u/pushcx,10
-3,2018-01-29 10:12:51 -0600,['/t/hardware'],Build your own VR headset for $100,https://github.com/relativty/Relativ,/u/hobbes,13
-5,2018-01-29 09:50:22 -0600,['/t/compsci'],POPL 2018 Tutorial (Computational Type Theory),https://existentialtype.wordpress.com/2018/01/15/popl-2018-tutorial/,/u/asthasr,9
-1,2018-01-29 11:23:04 -0600,['/t/haskell'],Haskell Project Checklist,https://pbrisbin.com/posts/haskell_project_checklist/,/u/pushcx,14
-3,2018-01-29 17:50:53 -0600,['/t/law'],The /bin/true Command and Copyright (2009?),http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html,/u/strugee,3
-0,2018-01-29 18:30:23 -0600,"['/t/browsers', '/t/mac', '/t/security']",The mysterious case of (deny dynamic-code-generation),https://alexgaynor.net/2018/jan/29/mysterious-case-of-deny-dynamic-code-generation/,/u/alex_gaynor,3
-0,2018-01-29 11:08:38 -0600,"['/t/programming', '/t/security', '/t/web']",Deploying EFF's Certbot in AWS Lambda,https://arkadiyt.com/2018/01/26/deploying-effs-certbot-in-aws-lambda/,/u/arkadiyt,7
-0,2018-01-30 11:40:30 -0600,['/t/security'],Lenovo’s fingerprint manager left passwords vulnerable,https://www.engadget.com/2018/01/29/lenovo-fingerprint-manager-passwords-vulnerable/,/u/muhammeddkilicc,0
-4,2018-01-29 03:47:55 -0600,['/t/programming'],The Falcon programming language,http://www.falconpl.org/,/u/yumaikas,12
-0,2018-01-29 17:16:37 -0600,"['/t/freebsd', '/t/networking', '/t/release', '/t/security']",OPNsense 18.1 released,https://opnsense.org/opnsense-18-1-released/,/u/lattera,5
-3,2018-01-28 22:26:09 -0600,"['/t/event', '/t/openbsd']",The OpenBSD Foundation 2018 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2018.html,/u/nanxiao,27
-0,2018-01-29 21:22:13 -0600,"['/t/programming', '/t/visualization']",Random Noise and Procedural Generation,https://unwttng.com/how-does-procedural-generation-work-random-noise,/u/calvin,2
-34,2018-01-28 12:38:22 -0600,"['/t/ask', '/t/privacy']",Are there viable privacy-focused social media platforms?,/s/jq1lbx/are_there_viable_privacy_focused_social,/u/dmonay,23
-1,2018-01-29 10:22:06 -0600,"['/t/pdf', '/t/programming']","Actor Prolog: Object-Oriented Language with Classical, Declarative Semantics (1999)",http://www.cplire.ru/Lab144/paris.pdf,/u/nickpsecurity,6
-9,2018-01-28 18:57:54 -0600,"['/t/games', '/t/javascript']","Let's Write a 2D Platformer From Scratch Using HTML5 and JavaScript, Part 1: Game Loop",https://nlogn.xyz/2018/01/28/lets-write-a-2d-platformer-from-scratch-part-1.html,/u/darthdeus,11
-5,2018-01-29 09:09:32 -0600,"['/t/culture', '/t/design', '/t/web']",Why Japanese Web Design Is So… Different (2013),https://randomwire.com/why-japanese-web-design-is-so-different/,/u/calvin,9
+57,2018-01-29 09:20:27 -0600,"/t/ask,/t/culture",What are you working on this week?,/s/ifzylp/what_are_you_working_on_this_week,/u/calvin,29
+15,2018-01-29 20:32:07 -0600,/t/programming,If-statements design: guard clauses may be all you need,https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a,/u/calvin,7
+0,2018-01-30 11:02:42 -0600,"/t/erlang,/t/web","lambdapad - Static site generator using Erlang. Yes, Erlang.",https://github.com/gar1t/lambdapad,/u/zdsmith,2
+1,2018-01-29 16:48:25 -0600,"/t/c,/t/historical",dmr on XOR (1995),http://c-faq.com/misc/xor.dmr.html,/u/fcbsd,15
+0,2018-01-30 12:31:28 -0600,/t/cryptocurrencies,"U.S. Regulators Subpoena Crypto Exchange Bitfinex, Tether",https://www.bloomberg.com/news/articles/2018-01-30/crypto-exchange-bitfinex-tether-said-to-get-subpoenaed-by-cftc,/u/asthasr,1
+2,2018-01-29 16:39:32 -0600,"/t/event,/t/meta",Interest check: Dallas lobste.rs meetup in July,/s/vkdsfi/interest_check_dallas_lobste_rs_meetup,/u/zpojqwfejwfhiunz,10
+0,2018-01-30 11:04:54 -0600,"/t/distributed,/t/programming",Embracing eventual consistency in SoA networking,https://blog.envoyproxy.io/embracing-eventual-consistency-in-soa-networking-32a5ee5d443d,/u/rdl,1
+23,2018-01-29 00:11:57 -0600,/t/book,Writing a book on Vala lang. Any suggestions?,http://kiranchauhan.com/valab/,/u/chauhankiran,21
+1,2018-01-29 17:54:30 -0600,"/t/job,/t/practices",Old School Management Techniques That Still Matter,http://robertspeer.com/old-school-management-techniques-that-still-matter/,/u/friendlysock,9
+2,2018-01-29 14:10:54 -0600,/t/linux,LinuxBoot,https://linuxboot.org/,/u/pushcx,10
+3,2018-01-29 10:12:51 -0600,/t/hardware,Build your own VR headset for $100,https://github.com/relativty/Relativ,/u/hobbes,13
+5,2018-01-29 09:50:22 -0600,/t/compsci,POPL 2018 Tutorial (Computational Type Theory),https://existentialtype.wordpress.com/2018/01/15/popl-2018-tutorial/,/u/asthasr,9
+1,2018-01-29 11:23:04 -0600,/t/haskell,Haskell Project Checklist,https://pbrisbin.com/posts/haskell_project_checklist/,/u/pushcx,14
+3,2018-01-29 17:50:53 -0600,/t/law,The /bin/true Command and Copyright (2009?),http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html,/u/strugee,3
+0,2018-01-29 18:30:23 -0600,"/t/browsers,/t/mac,/t/security",The mysterious case of (deny dynamic-code-generation),https://alexgaynor.net/2018/jan/29/mysterious-case-of-deny-dynamic-code-generation/,/u/alex_gaynor,3
+0,2018-01-29 11:08:38 -0600,"/t/programming,/t/security,/t/web",Deploying EFF's Certbot in AWS Lambda,https://arkadiyt.com/2018/01/26/deploying-effs-certbot-in-aws-lambda/,/u/arkadiyt,7
+0,2018-01-30 11:40:30 -0600,/t/security,Lenovo’s fingerprint manager left passwords vulnerable,https://www.engadget.com/2018/01/29/lenovo-fingerprint-manager-passwords-vulnerable/,/u/muhammeddkilicc,0
+4,2018-01-29 03:47:55 -0600,/t/programming,The Falcon programming language,http://www.falconpl.org/,/u/yumaikas,12
+0,2018-01-29 17:16:37 -0600,"/t/freebsd,/t/networking,/t/release,/t/security",OPNsense 18.1 released,https://opnsense.org/opnsense-18-1-released/,/u/lattera,5
+3,2018-01-28 22:26:09 -0600,"/t/event,/t/openbsd",The OpenBSD Foundation 2018 Fundraising Campaign,http://www.openbsdfoundation.org/campaign2018.html,/u/nanxiao,27
+0,2018-01-29 21:22:13 -0600,"/t/programming,/t/visualization",Random Noise and Procedural Generation,https://unwttng.com/how-does-procedural-generation-work-random-noise,/u/calvin,2
+34,2018-01-28 12:38:22 -0600,"/t/ask,/t/privacy",Are there viable privacy-focused social media platforms?,/s/jq1lbx/are_there_viable_privacy_focused_social,/u/dmonay,23
+1,2018-01-29 10:22:06 -0600,"/t/pdf,/t/programming","Actor Prolog: Object-Oriented Language with Classical, Declarative Semantics (1999)",http://www.cplire.ru/Lab144/paris.pdf,/u/nickpsecurity,6
+9,2018-01-28 18:57:54 -0600,"/t/games,/t/javascript","Let's Write a 2D Platformer From Scratch Using HTML5 and JavaScript, Part 1: Game Loop",https://nlogn.xyz/2018/01/28/lets-write-a-2d-platformer-from-scratch-part-1.html,/u/darthdeus,11
+5,2018-01-29 09:09:32 -0600,"/t/culture,/t/design,/t/web",Why Japanese Web Design Is So… Different (2013),https://randomwire.com/why-japanese-web-design-is-so-different/,/u/calvin,9

@@ -1,25 +1,25 @@
-0,2017-05-23 18:38:36 -0500,['/t/web'],Web Developer Roadmap 2017,https://github.com/kamranahmedse/developer-roadmap,/u/pushcx,1
-0,2017-05-23 17:47:51 -0500,['/t/compsci'],Automated deep neural network design with genetic programming,https://github.com/joeddav/devol,/u/unbalancedparentheses,1
-0,2017-05-23 11:03:54 -0500,['/t/devops'],Introducing Kontainer: The Easy Way to Switch to Kubernetes,https://runnable.com/blog/introducing-kontainer-the-easy-way-to-switch-to-kubernetes,/u/taylor,3
-0,2017-05-23 16:57:02 -0500,['/t/hardware'],Making a garage remote motorcycle mount,https://www.stavros.io/posts/making-motorcycle-remote-mount,/u/pushcx,1
-1,2017-05-23 16:37:50 -0500,"['/t/databases', '/t/practices']",Don't use Hadoop - your data isn't that big (2013),https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html,/u/caius,1
-0,2017-05-23 12:26:31 -0500,"['/t/javascript', '/t/practices', '/t/web']",Sense-ible Redux Thunk,https://medium.com/@malectro/sense-ible-redux-thunk-30b866ca5914,/u/nsfmc,2
-0,2017-05-22 12:52:47 -0500,['/t/devops'],HTTPS on Stack Overflow: The End of a Long Road,https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/,/u/trousers,34
-0,2017-05-23 09:35:11 -0500,"['/t/pdf', '/t/hardware', '/t/reversing']",How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles,https://www.ieee-security.org/TC/SP2017/papers/101.pdf,/u/pushcx,3
-0,2017-05-23 09:11:52 -0500,['/t/haskell'],Template Haskell,https://medium.com/@zw3rk/template-haskell-75c7b67f9718,/u/pushcx,3
-0,2017-05-23 01:10:18 -0500,['/t/practices'],"Remain resilient, fail fast",https://www.innoq.com/en/blog/remain-resilient-fail-fast/,/u/jan,4
-2,2017-05-22 19:44:20 -0500,"['/t/art', '/t/graphics', '/t/programming']",How a 64k intro is made,http://www.lofibucket.com/articles/64k_intro.html,/u/calvin,12
-1,2017-05-22 20:11:53 -0500,['/t/law'],Lawyer who founded Prenda Law is disbarred,https://arstechnica.com/tech-policy/2017/05/john-steele-porn-troll-who-founded-prenda-law-is-disbarred/,/u/grahamc,11
-11,2017-05-22 11:41:37 -0500,['/t/lisp'],Clojure is a data-first language,https://www.booleanknot.com/blog/2016/12/20/code-is-data.html,/u/unbalancedparentheses,15
-0,2017-05-22 17:54:02 -0500,"['/t/compilers', '/t/javascript', '/t/lisp']",Little Lisp interpreter,https://maryrosecook.com/blog/post/little-lisp-interpreter,/u/pushcx,15
-1,2017-05-23 20:21:50 -0500,"['/t/programming', '/t/web']",HTML to Excel in seconds. (using algorithm),http://www.listly.io/,/u/changmin,0
-0,2017-05-23 04:38:04 -0500,['/t/programming'],Do MVC like it’s 1979,https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568,/u/calvin,4
-0,2017-05-23 13:15:34 -0500,['/t/css'],Gridded Headings v. Justified Headings,http://meyerweb.com/eric/thoughts/2017/05/23/gridded-headings-v-justified-headings/,/u/flyingfisch,1
-1,2017-05-22 09:51:37 -0500,"['/t/debugging', '/t/networking', '/t/security']",External authentication scripts in OpenVPN the right way,http://engineering.freeagent.com/2017/05/22/external-authentication-scripts-in-openvpn-the-right-way/,/u/caius,15
-4,2017-05-22 16:39:42 -0500,['/t/meta'],Maine Is Drowning in Lobsters,https://www.bloomberg.com/view/articles/2017-05-18/maine-is-drowning-in-lobsters,/u/kb,29
-40,2017-05-21 19:31:07 -0500,"['/t/ask', '/t/devops', '/t/practices', '/t/security']","What do you normally install on your servers to monitor, debug and secure them",/s/t4obld/what_do_you_normally_install_on_your,/u/unbalancedparentheses,39
-0,2017-05-23 08:07:46 -0500,['/t/design'],Better Form Design: One Thing Per Page (Case Study),https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/,/u/flyingfisch,2
-25,2017-05-22 06:40:02 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/8ktciv/what_are_you_working_on_this_week,/u/caius,19
-0,2017-05-23 10:51:13 -0500,"['/t/crypto', '/t/cryptocurrencies', '/t/privacy', '/t/security']",Shedding some light on the recent fatal flaws and vulnerabilities in CryptoNote-based currencies,https://bytecoin.org/news/bytecoin-2.0.2-software-update/,/u/trn,1
-1,2017-05-23 06:50:26 -0500,['/t/cryptocurrencies'],Why Brainwallets are great for cryptocurrency,https://medium.com/@homakov/why-brainwallet-are-great-for-cryptocurrency-ff73dd65ecd9,/u/fcbsd,1
-16,2017-05-22 01:16:54 -0500,['/t/linux'],Linux utils that you might not know,http://shiroyasha.io/coreutils-that-you-might-not-know.html,/u/Dawny33,32
+0,2017-05-23 18:38:36 -0500,/t/web,Web Developer Roadmap 2017,https://github.com/kamranahmedse/developer-roadmap,/u/pushcx,1
+0,2017-05-23 17:47:51 -0500,/t/compsci,Automated deep neural network design with genetic programming,https://github.com/joeddav/devol,/u/unbalancedparentheses,1
+0,2017-05-23 11:03:54 -0500,/t/devops,Introducing Kontainer: The Easy Way to Switch to Kubernetes,https://runnable.com/blog/introducing-kontainer-the-easy-way-to-switch-to-kubernetes,/u/taylor,3
+0,2017-05-23 16:57:02 -0500,/t/hardware,Making a garage remote motorcycle mount,https://www.stavros.io/posts/making-motorcycle-remote-mount,/u/pushcx,1
+1,2017-05-23 16:37:50 -0500,"/t/databases,/t/practices",Don't use Hadoop - your data isn't that big (2013),https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html,/u/caius,1
+0,2017-05-23 12:26:31 -0500,"/t/javascript,/t/practices,/t/web",Sense-ible Redux Thunk,https://medium.com/@malectro/sense-ible-redux-thunk-30b866ca5914,/u/nsfmc,2
+0,2017-05-22 12:52:47 -0500,/t/devops,HTTPS on Stack Overflow: The End of a Long Road,https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/,/u/trousers,34
+0,2017-05-23 09:35:11 -0500,"/t/pdf,/t/hardware,/t/reversing",How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles,https://www.ieee-security.org/TC/SP2017/papers/101.pdf,/u/pushcx,3
+0,2017-05-23 09:11:52 -0500,/t/haskell,Template Haskell,https://medium.com/@zw3rk/template-haskell-75c7b67f9718,/u/pushcx,3
+0,2017-05-23 01:10:18 -0500,/t/practices,"Remain resilient, fail fast",https://www.innoq.com/en/blog/remain-resilient-fail-fast/,/u/jan,4
+2,2017-05-22 19:44:20 -0500,"/t/art,/t/graphics,/t/programming",How a 64k intro is made,http://www.lofibucket.com/articles/64k_intro.html,/u/calvin,12
+1,2017-05-22 20:11:53 -0500,/t/law,Lawyer who founded Prenda Law is disbarred,https://arstechnica.com/tech-policy/2017/05/john-steele-porn-troll-who-founded-prenda-law-is-disbarred/,/u/grahamc,11
+11,2017-05-22 11:41:37 -0500,/t/lisp,Clojure is a data-first language,https://www.booleanknot.com/blog/2016/12/20/code-is-data.html,/u/unbalancedparentheses,15
+0,2017-05-22 17:54:02 -0500,"/t/compilers,/t/javascript,/t/lisp",Little Lisp interpreter,https://maryrosecook.com/blog/post/little-lisp-interpreter,/u/pushcx,15
+1,2017-05-23 20:21:50 -0500,"/t/programming,/t/web",HTML to Excel in seconds. (using algorithm),http://www.listly.io/,/u/changmin,0
+0,2017-05-23 04:38:04 -0500,/t/programming,Do MVC like it’s 1979,https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568,/u/calvin,4
+0,2017-05-23 13:15:34 -0500,/t/css,Gridded Headings v. Justified Headings,http://meyerweb.com/eric/thoughts/2017/05/23/gridded-headings-v-justified-headings/,/u/flyingfisch,1
+1,2017-05-22 09:51:37 -0500,"/t/debugging,/t/networking,/t/security",External authentication scripts in OpenVPN the right way,http://engineering.freeagent.com/2017/05/22/external-authentication-scripts-in-openvpn-the-right-way/,/u/caius,15
+4,2017-05-22 16:39:42 -0500,/t/meta,Maine Is Drowning in Lobsters,https://www.bloomberg.com/view/articles/2017-05-18/maine-is-drowning-in-lobsters,/u/kb,29
+40,2017-05-21 19:31:07 -0500,"/t/ask,/t/devops,/t/practices,/t/security","What do you normally install on your servers to monitor, debug and secure them",/s/t4obld/what_do_you_normally_install_on_your,/u/unbalancedparentheses,39
+0,2017-05-23 08:07:46 -0500,/t/design,Better Form Design: One Thing Per Page (Case Study),https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/,/u/flyingfisch,2
+25,2017-05-22 06:40:02 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/8ktciv/what_are_you_working_on_this_week,/u/caius,19
+0,2017-05-23 10:51:13 -0500,"/t/crypto,/t/cryptocurrencies,/t/privacy,/t/security",Shedding some light on the recent fatal flaws and vulnerabilities in CryptoNote-based currencies,https://bytecoin.org/news/bytecoin-2.0.2-software-update/,/u/trn,1
+1,2017-05-23 06:50:26 -0500,/t/cryptocurrencies,Why Brainwallets are great for cryptocurrency,https://medium.com/@homakov/why-brainwallet-are-great-for-cryptocurrency-ff73dd65ecd9,/u/fcbsd,1
+16,2017-05-22 01:16:54 -0500,/t/linux,Linux utils that you might not know,http://shiroyasha.io/coreutils-that-you-might-not-know.html,/u/Dawny33,32

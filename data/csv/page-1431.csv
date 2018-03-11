@@ -1,25 +1,25 @@
-1,2013-12-04 12:25:55 -0600,['/t/windows'],F# Data: JSON Type Provider,http://fsharp.github.io/FSharp.Data/library/JsonProvider.html,/u/jm,1
-0,2013-12-04 03:57:30 -0600,['/t/release'],"Introducing SAMOA, an open source platform for mining big data streams.",http://yahooeng.tumblr.com/post/65453012905/introducing-samoa-an-open-source-platform-for-mining,/u/SeanTAllen,3
-3,2013-12-04 09:27:54 -0600,"['/t/javascript', '/t/satire']",How Node.js is Going to Replace JavaScript.,https://medium.com/cool-code-pal/cf72b588b1b,/u/leeflannery,2
-0,2013-12-04 12:06:31 -0600,"['/t/compsci', '/t/programming']",How I Landed a Job Offer After 18 Weeks Learning to Code,http://www.andrewkkirk.com/2013/11/programming-job-offer-learning-to-code/,/u/andrewkkirk,0
-0,2013-12-03 16:00:52 -0600,"['/t/release', '/t/ruby', '/t/security']",Rails 3.2.16 and 4.0.2 have been released fixing 4 CVEs,http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released/,/u/jcs,6
-0,2013-12-03 14:28:14 -0600,['/t/go'],New coverage tool in Go 1.2,http://blog.golang.org/cover,/u/akshayshah,2
-0,2013-12-03 09:07:01 -0600,['/t/c'],GCC Poison,http://blog.leafsr.com/2013/12/gcc-poison.html,/u/svag,4
-0,2013-12-03 13:51:34 -0600,['/t/privacy'],New approach to steganography,https://github.com/bramcohen/DissidentX,/u/kyle,2
-0,2013-12-03 07:09:34 -0600,"['/t/games', '/t/javascript']",Building a 2D Browser Game with PhysicsJS,http://flippinawesome.org/2013/12/02/building-a-2d-browser-game-with-physicsjs/,/u/remotesynth,2
-0,2013-12-02 19:01:27 -0600,['/t/go'],Go 1.2 performance improvements,http://blog.gopheracademy.com/day-02-go-1.2-performance-improvements,/u/journeysquid,8
-0,2013-12-03 08:17:45 -0600,"['/t/go', '/t/programming']",Go Binary Sizes Are Growing out of Control,https://donatstudios.com/Golang-Binary-Sizes,/u/zod000,1
-0,2013-12-02 22:54:34 -0600,['/t/security'],Trends in Cyber Security,http://geer.tinho.net/geer.nro.6xi13.txt,/u/kyle,2
-1,2013-12-02 19:21:33 -0600,"['/t/hardware', '/t/news']",First Victim of Amazon Drones: The Credibility of CBS and 60 Minutes,http://blog.hubspot.com/uattr/real-purpose-of-amazon-delivery-drones,/u/journeysquid,2
-0,2013-12-02 19:21:57 -0600,['/t/finance'],Why I don't trade stocks and (probably) neither should you,http://edmarkovich.blogspot.dk/2013/12/why-i-dont-trade-stocks-and-probably.html?lobsters,/u/journeysquid,2
-0,2013-12-01 20:22:45 -0600,"['/t/hardware', '/t/news']",Amazon Prime Air,http://www.amazon.com/b?ref_=tsm_1_tw_s_amzn_mx3eqp&node=8037720011,/u/virtualroot,6
-0,2013-12-02 07:11:42 -0600,['/t/javascript'],Eliminating Code Smell with Grunt,http://flippinawesome.org/2013/12/02/eliminating-code-smell-with-grunt/,/u/remotesynth,1
-0,2013-12-01 16:47:23 -0600,['/t/go'],Go 1.2 is released,http://blog.golang.org/go12,/u/journeysquid,7
-4,2013-12-01 12:55:25 -0600,"['/t/cryptocurrencies', '/t/finance']",Bitcoins: The Second Biggest Ponzi Scheme in History,http://www.garynorth.com/public/11828.cfm?lobsters,/u/journeysquid,3
-0,2013-12-01 23:07:32 -0600,['/t/javascript'],Problems with making HTML5 games,http://chrislord.net/index.php/2013/10/28/sabbatical-over/,/u/puffnfresh,1
-3,2013-12-01 06:07:30 -0600,"['/t/linux', '/t/security']",Linux Back Door Uses Covert Communication Protocol,http://www.symantec.com/connect/blogs/linux-back-door-uses-covert-communication-protocol,/u/kyle,5
-0,2013-12-01 06:32:02 -0600,['/t/security'],TPM chip protecting SSH keys - properly,http://blog.habets.se/2013/11/TPM-chip-protecting-SSH-keys---properly,/u/kyle,4
-0,2013-12-01 12:42:53 -0600,"['/t/design', '/t/mac']",GTFO of my menu bar,http://zacbowling.com/menu-bar?lobsters,/u/journeysquid,1
-2,2013-11-30 20:23:48 -0600,['/t/security'],ATA security lock removal for seagate,http://blacklotus89.wordpress.com/2013/11/27/ata-security-lock-2/,/u/kyle,5
-0,2013-11-30 11:35:33 -0600,['/t/freebsd'],FreeBSD 10.0-RELEASE status update,http://lists.freebsd.org/pipermail/freebsd-stable/2013-November/076015.html?lobsters,/u/journeysquid,4
-2,2013-11-30 14:20:39 -0600,['/t/finance'],How good is $20K seed capital?,http://pastebin.com/fsiyJ00S,/u/anupshinde,1
+1,2013-12-04 12:25:55 -0600,/t/windows,F# Data: JSON Type Provider,http://fsharp.github.io/FSharp.Data/library/JsonProvider.html,/u/jm,1
+0,2013-12-04 03:57:30 -0600,/t/release,"Introducing SAMOA, an open source platform for mining big data streams.",http://yahooeng.tumblr.com/post/65453012905/introducing-samoa-an-open-source-platform-for-mining,/u/SeanTAllen,3
+3,2013-12-04 09:27:54 -0600,"/t/javascript,/t/satire",How Node.js is Going to Replace JavaScript.,https://medium.com/cool-code-pal/cf72b588b1b,/u/leeflannery,2
+0,2013-12-04 12:06:31 -0600,"/t/compsci,/t/programming",How I Landed a Job Offer After 18 Weeks Learning to Code,http://www.andrewkkirk.com/2013/11/programming-job-offer-learning-to-code/,/u/andrewkkirk,0
+0,2013-12-03 16:00:52 -0600,"/t/release,/t/ruby,/t/security",Rails 3.2.16 and 4.0.2 have been released fixing 4 CVEs,http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released/,/u/jcs,6
+0,2013-12-03 14:28:14 -0600,/t/go,New coverage tool in Go 1.2,http://blog.golang.org/cover,/u/akshayshah,2
+0,2013-12-03 09:07:01 -0600,/t/c,GCC Poison,http://blog.leafsr.com/2013/12/gcc-poison.html,/u/svag,4
+0,2013-12-03 13:51:34 -0600,/t/privacy,New approach to steganography,https://github.com/bramcohen/DissidentX,/u/kyle,2
+0,2013-12-03 07:09:34 -0600,"/t/games,/t/javascript",Building a 2D Browser Game with PhysicsJS,http://flippinawesome.org/2013/12/02/building-a-2d-browser-game-with-physicsjs/,/u/remotesynth,2
+0,2013-12-02 19:01:27 -0600,/t/go,Go 1.2 performance improvements,http://blog.gopheracademy.com/day-02-go-1.2-performance-improvements,/u/journeysquid,8
+0,2013-12-03 08:17:45 -0600,"/t/go,/t/programming",Go Binary Sizes Are Growing out of Control,https://donatstudios.com/Golang-Binary-Sizes,/u/zod000,1
+0,2013-12-02 22:54:34 -0600,/t/security,Trends in Cyber Security,http://geer.tinho.net/geer.nro.6xi13.txt,/u/kyle,2
+1,2013-12-02 19:21:33 -0600,"/t/hardware,/t/news",First Victim of Amazon Drones: The Credibility of CBS and 60 Minutes,http://blog.hubspot.com/uattr/real-purpose-of-amazon-delivery-drones,/u/journeysquid,2
+0,2013-12-02 19:21:57 -0600,/t/finance,Why I don't trade stocks and (probably) neither should you,http://edmarkovich.blogspot.dk/2013/12/why-i-dont-trade-stocks-and-probably.html?lobsters,/u/journeysquid,2
+0,2013-12-01 20:22:45 -0600,"/t/hardware,/t/news",Amazon Prime Air,http://www.amazon.com/b?ref_=tsm_1_tw_s_amzn_mx3eqp&node=8037720011,/u/virtualroot,6
+0,2013-12-02 07:11:42 -0600,/t/javascript,Eliminating Code Smell with Grunt,http://flippinawesome.org/2013/12/02/eliminating-code-smell-with-grunt/,/u/remotesynth,1
+0,2013-12-01 16:47:23 -0600,/t/go,Go 1.2 is released,http://blog.golang.org/go12,/u/journeysquid,7
+4,2013-12-01 12:55:25 -0600,"/t/cryptocurrencies,/t/finance",Bitcoins: The Second Biggest Ponzi Scheme in History,http://www.garynorth.com/public/11828.cfm?lobsters,/u/journeysquid,3
+0,2013-12-01 23:07:32 -0600,/t/javascript,Problems with making HTML5 games,http://chrislord.net/index.php/2013/10/28/sabbatical-over/,/u/puffnfresh,1
+3,2013-12-01 06:07:30 -0600,"/t/linux,/t/security",Linux Back Door Uses Covert Communication Protocol,http://www.symantec.com/connect/blogs/linux-back-door-uses-covert-communication-protocol,/u/kyle,5
+0,2013-12-01 06:32:02 -0600,/t/security,TPM chip protecting SSH keys - properly,http://blog.habets.se/2013/11/TPM-chip-protecting-SSH-keys---properly,/u/kyle,4
+0,2013-12-01 12:42:53 -0600,"/t/design,/t/mac",GTFO of my menu bar,http://zacbowling.com/menu-bar?lobsters,/u/journeysquid,1
+2,2013-11-30 20:23:48 -0600,/t/security,ATA security lock removal for seagate,http://blacklotus89.wordpress.com/2013/11/27/ata-security-lock-2/,/u/kyle,5
+0,2013-11-30 11:35:33 -0600,/t/freebsd,FreeBSD 10.0-RELEASE status update,http://lists.freebsd.org/pipermail/freebsd-stable/2013-November/076015.html?lobsters,/u/journeysquid,4
+2,2013-11-30 14:20:39 -0600,/t/finance,How good is $20K seed capital?,http://pastebin.com/fsiyJ00S,/u/anupshinde,1

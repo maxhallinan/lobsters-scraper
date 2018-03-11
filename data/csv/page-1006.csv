@@ -1,25 +1,25 @@
-2,2015-10-11 05:22:25 -0500,['/t/programming'],The Four Pillars of Object Oriented Design,https://theleancoder.wordpress.com/2015/10/11/the-four-pillars-of-object-oriented-design/,/u/av,4
-0,2015-10-11 05:54:52 -0500,['/t/python'],Why I use py.test,http://www.holger-peters.de/why-i-use-pytest.html,/u/xcombelle,4
-1,2015-10-11 03:50:03 -0500,"['/t/video', '/t/databases']",The Databaseology Lectures – Fall 2015,http://db.cs.cmu.edu/seminar2015/,/u/sevan,3
-1,2015-10-10 20:16:19 -0500,['/t/rust'],Rustfmt-ing Rust,http://www.ncameron.org/blog/rustfmt-ing-rust/,/u/jcaudle,12
-1,2015-10-10 20:40:02 -0500,['/t/science'],The Relativity of Wrong by Isaac Asimov,http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm,/u/rubenbarroso,10
-2,2015-10-10 18:27:30 -0500,['/t/practices'],The Hacker's Diet,http://www.fourmilab.ch/hackdiet/e4/,/u/rubenbarroso,8
-4,2015-10-10 07:59:18 -0500,['/t/hardware'],Qualcomm enters server CPU market with 24-core ARM chip,http://www.pcworld.com/article/2990868/qualcomm-enters-server-cpu-market-with-24-core-arm-chip.html,/u/stefantalpalaru,21
-7,2015-10-10 11:35:48 -0500,"['/t/practices', '/t/security']","I showed leaked NSA slides at Purdue, so feds demanded the video be destroyed",http://arstechnica.co.uk/tech-policy/2015/10/i-showed-leaked-nsa-slides-at-purdue-so-feds-demanded-the-video-be-destroyed/,/u/pushcx,11
-1,2015-10-10 18:43:21 -0500,['/t/lisp'],AI Winter,http://c2.com/cgi/wiki?AiWinter,/u/rubenbarroso,5
-0,2015-10-10 13:59:57 -0500,"['/t/netbsd', '/t/person', '/t/unix']",NetBSD-7.0 developer interview: Martin Husemann,http://beastie.pl/deweloperzy-netbsd-7-0-martin-husemann/,/u/mulander,9
-3,2015-10-10 14:38:57 -0500,"['/t/pdf', '/t/visualization']",Tidier Drawings of Trees (1981),http://emr.cs.iit.edu/~reingold/tidier-drawings.pdf,/u/pushcx,4
-1,2015-10-10 13:21:03 -0500,"['/t/games', '/t/programming']","Procedural world potentials: The simulation, functional and planning approaches",http://blog.runevision.com/2015/08/procedural-world-potentials-simulation.html,/u/pushcx,6
-0,2015-10-10 11:59:46 -0500,['/t/unix'],Unix Pipes Inspired by APL,http://www.princeton.edu/~hos/frs122/precis/mcilroy.htm,/u/rubenbarroso,8
-0,2015-10-10 18:37:30 -0500,"['/t/compsci', '/t/haskell']","The Algebra of Data, and the Calculus of Mutation",http://blog.lab49.com/archives/3011,/u/rubenbarroso,3
-3,2015-10-09 22:46:51 -0500,['/t/meta'],"Can we put less weight on low-vote, high-comment stories?",/s/yz1nxq/can_we_put_less_weight_on_low_vote_high,/u/kb,14
-0,2015-10-10 14:45:57 -0500,['/t/practices'],"If you ask for job flexibility, will you be punished?",http://www.cnn.com/2015/09/29/opinions/slaughter-job-flexibility-punishment/index.html,/u/journeysquid,4
-0,2015-10-10 14:43:18 -0500,['/t/security'],The FBI warns of weaknesses in chip-and-sign credit card systems,http://www.theverge.com/2015/10/9/9486715/fbi-vulnerability-chip-credit-card,/u/journeysquid,4
-0,2015-10-10 12:45:10 -0500,"['/t/pdf', '/t/compsci', '/t/graphics', '/t/security']",Encryption of Images with 2-dimensional Cellular Automata,http://digital.csic.es/bitstream/10261/8876/1/001093.pdf,/u/friendlysock,5
-0,2015-10-10 07:48:08 -0500,"['/t/pdf', '/t/compilers', '/t/haskell']","GADTs Meet Their Match: Pattern-Matching Warnings That Account for GADTs, Guards, and Laziness",http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm-acm.pdf,/u/pushcx,7
-2,2015-10-10 06:25:03 -0500,['/t/python'],blip - A bytecode compiler for Python 3,https://github.com/bjpop/blip,/u/av,4
-0,2015-10-10 12:01:27 -0500,['/t/art'],Recursion Toy,http://soulwire.co.uk/experiments/recursion-toy/,/u/rubenbarroso,4
-1,2015-10-10 07:35:56 -0500,"['/t/practices', '/t/programming']",Software That Lasts 200 Years (2004),http://www.bricklin.com/200yearsoftware.htm,/u/pushcx,5
-9,2015-10-09 14:40:56 -0500,"['/t/devops', '/t/virtualization']",Why unikernels might kill containers in five years,http://viethip.com/2015/10/10/why-unikernels-might-kill-containers-in-five-years/,/u/ngrilly,23
-0,2015-10-10 11:37:07 -0500,"['/t/pdf', '/t/visualization']",Dot Plots: A Useful Alternative to Bar Charts (2006),https://www.perceptualedge.com/articles/b-eye/dot_plots.pdf,/u/pushcx,3
-0,2015-10-10 07:37:58 -0500,"['/t/release', '/t/web']",google/ngx_brotli: nginx module for Brotli compression,https://github.com/google/ngx_brotli,/u/sevan,5
+2,2015-10-11 05:22:25 -0500,/t/programming,The Four Pillars of Object Oriented Design,https://theleancoder.wordpress.com/2015/10/11/the-four-pillars-of-object-oriented-design/,/u/av,4
+0,2015-10-11 05:54:52 -0500,/t/python,Why I use py.test,http://www.holger-peters.de/why-i-use-pytest.html,/u/xcombelle,4
+1,2015-10-11 03:50:03 -0500,"/t/video,/t/databases",The Databaseology Lectures – Fall 2015,http://db.cs.cmu.edu/seminar2015/,/u/sevan,3
+1,2015-10-10 20:16:19 -0500,/t/rust,Rustfmt-ing Rust,http://www.ncameron.org/blog/rustfmt-ing-rust/,/u/jcaudle,12
+1,2015-10-10 20:40:02 -0500,/t/science,The Relativity of Wrong by Isaac Asimov,http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm,/u/rubenbarroso,10
+2,2015-10-10 18:27:30 -0500,/t/practices,The Hacker's Diet,http://www.fourmilab.ch/hackdiet/e4/,/u/rubenbarroso,8
+4,2015-10-10 07:59:18 -0500,/t/hardware,Qualcomm enters server CPU market with 24-core ARM chip,http://www.pcworld.com/article/2990868/qualcomm-enters-server-cpu-market-with-24-core-arm-chip.html,/u/stefantalpalaru,21
+7,2015-10-10 11:35:48 -0500,"/t/practices,/t/security","I showed leaked NSA slides at Purdue, so feds demanded the video be destroyed",http://arstechnica.co.uk/tech-policy/2015/10/i-showed-leaked-nsa-slides-at-purdue-so-feds-demanded-the-video-be-destroyed/,/u/pushcx,11
+1,2015-10-10 18:43:21 -0500,/t/lisp,AI Winter,http://c2.com/cgi/wiki?AiWinter,/u/rubenbarroso,5
+0,2015-10-10 13:59:57 -0500,"/t/netbsd,/t/person,/t/unix",NetBSD-7.0 developer interview: Martin Husemann,http://beastie.pl/deweloperzy-netbsd-7-0-martin-husemann/,/u/mulander,9
+3,2015-10-10 14:38:57 -0500,"/t/pdf,/t/visualization",Tidier Drawings of Trees (1981),http://emr.cs.iit.edu/~reingold/tidier-drawings.pdf,/u/pushcx,4
+1,2015-10-10 13:21:03 -0500,"/t/games,/t/programming","Procedural world potentials: The simulation, functional and planning approaches",http://blog.runevision.com/2015/08/procedural-world-potentials-simulation.html,/u/pushcx,6
+0,2015-10-10 11:59:46 -0500,/t/unix,Unix Pipes Inspired by APL,http://www.princeton.edu/~hos/frs122/precis/mcilroy.htm,/u/rubenbarroso,8
+0,2015-10-10 18:37:30 -0500,"/t/compsci,/t/haskell","The Algebra of Data, and the Calculus of Mutation",http://blog.lab49.com/archives/3011,/u/rubenbarroso,3
+3,2015-10-09 22:46:51 -0500,/t/meta,"Can we put less weight on low-vote, high-comment stories?",/s/yz1nxq/can_we_put_less_weight_on_low_vote_high,/u/kb,14
+0,2015-10-10 14:45:57 -0500,/t/practices,"If you ask for job flexibility, will you be punished?",http://www.cnn.com/2015/09/29/opinions/slaughter-job-flexibility-punishment/index.html,/u/journeysquid,4
+0,2015-10-10 14:43:18 -0500,/t/security,The FBI warns of weaknesses in chip-and-sign credit card systems,http://www.theverge.com/2015/10/9/9486715/fbi-vulnerability-chip-credit-card,/u/journeysquid,4
+0,2015-10-10 12:45:10 -0500,"/t/pdf,/t/compsci,/t/graphics,/t/security",Encryption of Images with 2-dimensional Cellular Automata,http://digital.csic.es/bitstream/10261/8876/1/001093.pdf,/u/friendlysock,5
+0,2015-10-10 07:48:08 -0500,"/t/pdf,/t/compilers,/t/haskell","GADTs Meet Their Match: Pattern-Matching Warnings That Account for GADTs, Guards, and Laziness",http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm-acm.pdf,/u/pushcx,7
+2,2015-10-10 06:25:03 -0500,/t/python,blip - A bytecode compiler for Python 3,https://github.com/bjpop/blip,/u/av,4
+0,2015-10-10 12:01:27 -0500,/t/art,Recursion Toy,http://soulwire.co.uk/experiments/recursion-toy/,/u/rubenbarroso,4
+1,2015-10-10 07:35:56 -0500,"/t/practices,/t/programming",Software That Lasts 200 Years (2004),http://www.bricklin.com/200yearsoftware.htm,/u/pushcx,5
+9,2015-10-09 14:40:56 -0500,"/t/devops,/t/virtualization",Why unikernels might kill containers in five years,http://viethip.com/2015/10/10/why-unikernels-might-kill-containers-in-five-years/,/u/ngrilly,23
+0,2015-10-10 11:37:07 -0500,"/t/pdf,/t/visualization",Dot Plots: A Useful Alternative to Bar Charts (2006),https://www.perceptualedge.com/articles/b-eye/dot_plots.pdf,/u/pushcx,3
+0,2015-10-10 07:37:58 -0500,"/t/release,/t/web",google/ngx_brotli: nginx module for Brotli compression,https://github.com/google/ngx_brotli,/u/sevan,5

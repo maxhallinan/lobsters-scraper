@@ -1,25 +1,25 @@
-0,2016-03-03 14:22:00 -0600,"['/t/javascript', '/t/web']",Pony Foo Weekly,https://ponyfoo.com/weekly,/u/ponyfoo,1
-0,2016-03-02 22:08:59 -0600,['/t/unix'],curl vs Wget,https://daniel.haxx.se/docs/curl-vs-wget.html,/u/pushcx,13
-0,2016-03-03 15:49:58 -0600,['/t/culture'],The chemistry of discourse,http://nielsenhayden.com/makinglight/archives/016450.html,/u/pushcx,2
-4,2016-03-02 08:46:14 -0600,['/t/javascript'],JSFuck - an esoteric and educational programming style based on the atomic parts of JavaScript,http://www.jsfuck.com,/u/ix,21
-0,2016-03-02 22:13:14 -0600,"['/t/games', '/t/web']",Flexbox Defense,http://www.flexboxdefense.com/,/u/pushcx,7
-5,2016-03-02 06:13:40 -0600,['/t/law'],Google's crash is a very positive sign,http://ideas.4brad.com/googles-crash-very-positive-sign,/u/adsouza,18
-0,2016-03-02 22:06:54 -0600,"['/t/pdf', '/t/hardware']",Soyuz Escape Capsule Responding Instructions,http://www.spaceref.com/iss/soyuz/SCLSaB.edit.pdf,/u/pushcx,6
-1,2016-03-02 20:36:46 -0600,"['/t/devops', '/t/linux', '/t/systemd']",systemd vs. Docker,http://lwn.net/SubscriberLink/676831/8e93a1f9100d4f23/,/u/calvin,6
-0,2016-03-02 19:46:51 -0600,"['/t/compilers', '/t/swift']",Completing Swift Generics,https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160229/011666.html,/u/austinz,7
-0,2016-03-02 15:47:33 -0600,['/t/person'],My Journey From Blindness to Building a Fully Conversational User Interface,https://backchannel.com/war-stories-my-journey-from-blindness-to-building-a-fully-conversational-user-interface-5ffb74a74c6d,/u/pushcx,10
-9,2016-03-01 19:52:09 -0600,"['/t/compilers', '/t/ml']",OCaml 4.03: Everything else,https://blogs.janestreet.com/ocaml-4-03-everything-else/,/u/yminsky,26
-1,2016-03-02 16:03:13 -0600,['/t/openbsd'],OpenBSD 5.9 network improvements,http://undeadly.org/cgi?action=article&sid=20160302155046,/u/mulander,8
-0,2016-03-02 12:23:58 -0600,['/t/security'],The IRS is using a system that was hacked to protect victims of a hack—and it was just hacked,http://qz.com/628761/the-irs-is-using-a-system-that-was-hacked-to-protect-victims-of-a-hack-and-it-was-just-hacked/,/u/asthasr,11
-1,2016-03-02 07:03:19 -0600,['/t/person'],Robert O'Callahan: Leaving Mozilla (to work on rr),http://robert.ocallahan.org/2016/03/leaving-mozilla.html,/u/sanxiyn,17
-51,2016-03-01 22:11:30 -0600,['/t/programming'],Hypothesis progress is alarming,http://www.drmaciver.com/2016/02/hypothesis-progress-is-alarming/,/u/pushcx,25
-0,2016-03-02 19:28:25 -0600,['/t/cryptocurrencies'],Smart Contracts Running on a BFT Hardened Raft,https://github.com/buckie/juno,/u/puffnfresh,4
-0,2016-03-02 13:30:12 -0600,"['/t/cryptocurrencies', '/t/security']",The Zcash Catch,https://blog.okturtles.com/2016/03/the-zcash-catch/,/u/itistoday,4
-0,2016-03-02 12:16:27 -0600,"['/t/programming', '/t/python']",A Better Pip Workflow,http://www.kennethreitz.org/essays/a-better-pip-workflow,/u/JeremyMorgan,9
-7,2016-03-01 16:53:43 -0600,"['/t/hardware', '/t/reversing']",Please Scan My Towel,http://jerrygamblin.com/2016/03/01/please-scan-my-towel/,/u/fcbsd,50
-1,2016-03-02 21:45:50 -0600,['/t/javascript'],fetch-it: enhanced HTTP client based on fetch,http://blog.tryolabs.com/2016/03/02/fetch-it-enhanced-http-client-based-on-fetch/,/u/jitterted,1
-1,2016-03-02 10:07:11 -0600,"['/t/pdf', '/t/math']",Bayesian estimation supercedes the t test,http://www.indiana.edu/~kruschke/BEST/BEST.pdf,/u/pushcx,8
-4,2016-03-01 22:49:05 -0600,"['/t/release', '/t/security']",System Bus Radio,https://github.com/fulldecent/system-bus-radio,/u/Irene,24
-0,2016-03-02 17:31:44 -0600,"['/t/video', '/t/security']",FOSDEM 2016 - Xen Project Security Response War Stories,https://fosdem.org/2016/schedule/event/secresponse/,/u/sevan,3
-0,2016-03-02 12:08:43 -0600,"['/t/android', '/t/design']",Microsoft's Experimental Keyboard Aims To Solve Mobile Multitasking Problems,http://www.fastcodesign.com/3057267/microsofts-experimental-keyboard-aims-to-solve-a-big-mobile-ux-problem,/u/flyingfisch,5
-0,2016-03-02 17:47:30 -0600,"['/t/programming', '/t/rust']",Nice errors in LALRPOP (Rust parser generator),http://smallcultfollowing.com/babysteps/blog/2016/03/02/nice-errors-in-lalrpop/,/u/zem,2
+0,2016-03-03 14:22:00 -0600,"/t/javascript,/t/web",Pony Foo Weekly,https://ponyfoo.com/weekly,/u/ponyfoo,1
+0,2016-03-02 22:08:59 -0600,/t/unix,curl vs Wget,https://daniel.haxx.se/docs/curl-vs-wget.html,/u/pushcx,13
+0,2016-03-03 15:49:58 -0600,/t/culture,The chemistry of discourse,http://nielsenhayden.com/makinglight/archives/016450.html,/u/pushcx,2
+4,2016-03-02 08:46:14 -0600,/t/javascript,JSFuck - an esoteric and educational programming style based on the atomic parts of JavaScript,http://www.jsfuck.com,/u/ix,21
+0,2016-03-02 22:13:14 -0600,"/t/games,/t/web",Flexbox Defense,http://www.flexboxdefense.com/,/u/pushcx,7
+5,2016-03-02 06:13:40 -0600,/t/law,Google's crash is a very positive sign,http://ideas.4brad.com/googles-crash-very-positive-sign,/u/adsouza,18
+0,2016-03-02 22:06:54 -0600,"/t/pdf,/t/hardware",Soyuz Escape Capsule Responding Instructions,http://www.spaceref.com/iss/soyuz/SCLSaB.edit.pdf,/u/pushcx,6
+1,2016-03-02 20:36:46 -0600,"/t/devops,/t/linux,/t/systemd",systemd vs. Docker,http://lwn.net/SubscriberLink/676831/8e93a1f9100d4f23/,/u/calvin,6
+0,2016-03-02 19:46:51 -0600,"/t/compilers,/t/swift",Completing Swift Generics,https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160229/011666.html,/u/austinz,7
+0,2016-03-02 15:47:33 -0600,/t/person,My Journey From Blindness to Building a Fully Conversational User Interface,https://backchannel.com/war-stories-my-journey-from-blindness-to-building-a-fully-conversational-user-interface-5ffb74a74c6d,/u/pushcx,10
+9,2016-03-01 19:52:09 -0600,"/t/compilers,/t/ml",OCaml 4.03: Everything else,https://blogs.janestreet.com/ocaml-4-03-everything-else/,/u/yminsky,26
+1,2016-03-02 16:03:13 -0600,/t/openbsd,OpenBSD 5.9 network improvements,http://undeadly.org/cgi?action=article&sid=20160302155046,/u/mulander,8
+0,2016-03-02 12:23:58 -0600,/t/security,The IRS is using a system that was hacked to protect victims of a hack—and it was just hacked,http://qz.com/628761/the-irs-is-using-a-system-that-was-hacked-to-protect-victims-of-a-hack-and-it-was-just-hacked/,/u/asthasr,11
+1,2016-03-02 07:03:19 -0600,/t/person,Robert O'Callahan: Leaving Mozilla (to work on rr),http://robert.ocallahan.org/2016/03/leaving-mozilla.html,/u/sanxiyn,17
+51,2016-03-01 22:11:30 -0600,/t/programming,Hypothesis progress is alarming,http://www.drmaciver.com/2016/02/hypothesis-progress-is-alarming/,/u/pushcx,25
+0,2016-03-02 19:28:25 -0600,/t/cryptocurrencies,Smart Contracts Running on a BFT Hardened Raft,https://github.com/buckie/juno,/u/puffnfresh,4
+0,2016-03-02 13:30:12 -0600,"/t/cryptocurrencies,/t/security",The Zcash Catch,https://blog.okturtles.com/2016/03/the-zcash-catch/,/u/itistoday,4
+0,2016-03-02 12:16:27 -0600,"/t/programming,/t/python",A Better Pip Workflow,http://www.kennethreitz.org/essays/a-better-pip-workflow,/u/JeremyMorgan,9
+7,2016-03-01 16:53:43 -0600,"/t/hardware,/t/reversing",Please Scan My Towel,http://jerrygamblin.com/2016/03/01/please-scan-my-towel/,/u/fcbsd,50
+1,2016-03-02 21:45:50 -0600,/t/javascript,fetch-it: enhanced HTTP client based on fetch,http://blog.tryolabs.com/2016/03/02/fetch-it-enhanced-http-client-based-on-fetch/,/u/jitterted,1
+1,2016-03-02 10:07:11 -0600,"/t/pdf,/t/math",Bayesian estimation supercedes the t test,http://www.indiana.edu/~kruschke/BEST/BEST.pdf,/u/pushcx,8
+4,2016-03-01 22:49:05 -0600,"/t/release,/t/security",System Bus Radio,https://github.com/fulldecent/system-bus-radio,/u/Irene,24
+0,2016-03-02 17:31:44 -0600,"/t/video,/t/security",FOSDEM 2016 - Xen Project Security Response War Stories,https://fosdem.org/2016/schedule/event/secresponse/,/u/sevan,3
+0,2016-03-02 12:08:43 -0600,"/t/android,/t/design",Microsoft's Experimental Keyboard Aims To Solve Mobile Multitasking Problems,http://www.fastcodesign.com/3057267/microsofts-experimental-keyboard-aims-to-solve-a-big-mobile-ux-problem,/u/flyingfisch,5
+0,2016-03-02 17:47:30 -0600,"/t/programming,/t/rust",Nice errors in LALRPOP (Rust parser generator),http://smallcultfollowing.com/babysteps/blog/2016/03/02/nice-errors-in-lalrpop/,/u/zem,2

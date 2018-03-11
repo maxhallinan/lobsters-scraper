@@ -1,25 +1,25 @@
-3,2018-01-10 09:58:46 -0600,"['/t/hardware', '/t/linux']","A Science Project: ""Make the 486 Great Again!"" - Modern Linux in an ancient PC",http://yeokhengmeng.com/2018/01/make-the-486-great-again/,/u/raindev,8
-5,2018-01-09 23:47:39 -0600,['/t/security'],Let's Encrypt tls-sni challenge has been disabled due to strong credibility of a vulnerability,https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/5a55777ed9a9c1024c00b241,/u/augustocallejas,24
-2,2018-01-11 04:38:24 -0600,"['/t/satire', '/t/security']",OpenSSL Wins the Levchin Prize,https://www.openssl.org/blog/blog/2018/01/10/levchin,/u/mulander,2
-1,2018-01-10 16:14:49 -0600,['/t/ai'],Turning Design Mockups Into Code With Deep Learning,https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/,/u/adsouza,4
-0,2018-01-10 22:50:00 -0600,"['/t/javascript', '/t/web']","Nerv – A fast React alternative, compatible with IE8 and React 16",https://nerv.aotu.io/,/u/av,2
-4,2018-01-09 19:32:26 -0600,"['/t/browsers', '/t/lisp', '/t/web']","nEXT Browser: an extensible, keyboard driven Lisp Browser based on WebKit",https://next-browser.github.io/,/u/Yogthos,41
-0,2018-01-11 02:21:55 -0600,['/t/ai'],Model Training: a Short Story,https://mike-heaton.com/model-training-7973b911ca81,/u/vaibhavsagar,1
-0,2018-01-10 11:00:46 -0600,['/t/practices'],Mental models,http://www.defmacro.org/2016/12/22/models.html,/u/calvin,7
-13,2018-01-09 12:07:15 -0600,['/t/web'],A letter about Google AMP,http://ampletter.org/,/u/haxor,43
-0,2018-01-10 22:47:33 -0600,"['/t/education', '/t/programming']",The 10 Best Coding Challenge Websites for 2018,https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654,/u/pastorinni,1
-0,2018-01-10 22:22:58 -0600,"['/t/pdf', '/t/programming']",I Can Read C++ and Java But I Can’t Read Smalltalk (2000),http://carfield.com.hk/document/languages/readingSmalltalk.pdf,/u/dbremner,1
-0,2018-01-10 01:29:35 -0600,"['/t/freebsd', '/t/security']",Hijacking Your Free Beasties,https://www.soldierx.com/news/libhijack-PoCGTFO-0x17,/u/lattera,7
-0,2018-01-10 13:17:17 -0600,"['/t/mac', '/t/virtualization']",Docker for Mac with Kubernetes,https://blog.docker.com/2018/01/docker-mac-kubernetes/,/u/fkr,3
-1,2018-01-10 05:54:22 -0600,"['/t/c++', '/t/compilers']",Chromium distributed build client is now open source,https://groups.google.com/a/chromium.org/forum/#!msg/chromium-dev/q7hSGr_JNzg/p44IkGhDDgAJ,/u/stip,6
-0,2018-01-10 03:44:06 -0600,"['/t/security', '/t/web']",2018.01.09 Issue with TLS-SNI-01 and Shared Hosting Infrastructure,https://community.letsencrypt.org/t/2018-01-09-issue-with-tls-sni-01-and-shared-hosting-infrastructure/49996,/u/jmhodges,8
-0,2018-01-10 22:32:26 -0600,"['/t/culture', '/t/programming']",Showcasing Mathematica One Character at a Time,https://codegolf.stackexchange.com/a/44683/9145,/u/hwayne,1
-0,2018-01-10 08:04:52 -0600,['/t/security'],Detecting Meltdown/Spectre Via Cache Side Channels,https://capsule8.com/blog/detecting-meltdown-spectre-detecting-cache-side-channels/,/u/gucciswag9000,4
-15,2018-01-09 15:29:01 -0600,['/t/rust'],#Rust2018 : Don’t be the new Haskell,https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481,/u/raindev,13
-0,2018-01-10 10:02:12 -0600,['/t/javascript'],Prettier 1.10: One Year of Prettier 🎂,https://prettier.io/blog/2018/01/10/1.10.0.html,/u/duailibe,3
-0,2018-01-10 16:22:46 -0600,"['/t/graphics', '/t/math']",GPU Fluid Simulation,https://benedikt-bitterli.me/gpu-fluid.html,/u/friendlysock,1
-0,2018-01-09 19:19:13 -0600,"['/t/haskell', '/t/person']",Interview with Simon Peyton-Jones (POPL 2018),http://www.cs.cmu.edu/~popl-interviews/peytonjones.html,/u/puffnfresh,16
-0,2018-01-10 05:54:47 -0600,"['/t/historical', '/t/programming']",An Interview with the Old Man of Floating-Point [1998],https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html,/u/gerikson,4
-0,2018-01-10 10:02:54 -0600,['/t/ai'],Why Machine Learning Needs GPUs,https://motherboard.vice.com/en_us/article/kznnnn/why-machine-learning-needs-gpus,/u/balajmarius,2
-0,2018-01-10 00:38:18 -0600,['/t/games'],Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor,https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php,/u/j11g,6
-5,2018-01-09 09:44:26 -0600,"['/t/show', '/t/hardware']",Yet Another Raspberry Pi Kubernetes Cluster,https://dmathieu.com/articles/development/raspberry-kubernetes/,/u/dmathieu,14
+3,2018-01-10 09:58:46 -0600,"/t/hardware,/t/linux","A Science Project: ""Make the 486 Great Again!"" - Modern Linux in an ancient PC",http://yeokhengmeng.com/2018/01/make-the-486-great-again/,/u/raindev,8
+5,2018-01-09 23:47:39 -0600,/t/security,Let's Encrypt tls-sni challenge has been disabled due to strong credibility of a vulnerability,https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/5a55777ed9a9c1024c00b241,/u/augustocallejas,24
+2,2018-01-11 04:38:24 -0600,"/t/satire,/t/security",OpenSSL Wins the Levchin Prize,https://www.openssl.org/blog/blog/2018/01/10/levchin,/u/mulander,2
+1,2018-01-10 16:14:49 -0600,/t/ai,Turning Design Mockups Into Code With Deep Learning,https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/,/u/adsouza,4
+0,2018-01-10 22:50:00 -0600,"/t/javascript,/t/web","Nerv – A fast React alternative, compatible with IE8 and React 16",https://nerv.aotu.io/,/u/av,2
+4,2018-01-09 19:32:26 -0600,"/t/browsers,/t/lisp,/t/web","nEXT Browser: an extensible, keyboard driven Lisp Browser based on WebKit",https://next-browser.github.io/,/u/Yogthos,41
+0,2018-01-11 02:21:55 -0600,/t/ai,Model Training: a Short Story,https://mike-heaton.com/model-training-7973b911ca81,/u/vaibhavsagar,1
+0,2018-01-10 11:00:46 -0600,/t/practices,Mental models,http://www.defmacro.org/2016/12/22/models.html,/u/calvin,7
+13,2018-01-09 12:07:15 -0600,/t/web,A letter about Google AMP,http://ampletter.org/,/u/haxor,43
+0,2018-01-10 22:47:33 -0600,"/t/education,/t/programming",The 10 Best Coding Challenge Websites for 2018,https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654,/u/pastorinni,1
+0,2018-01-10 22:22:58 -0600,"/t/pdf,/t/programming",I Can Read C++ and Java But I Can’t Read Smalltalk (2000),http://carfield.com.hk/document/languages/readingSmalltalk.pdf,/u/dbremner,1
+0,2018-01-10 01:29:35 -0600,"/t/freebsd,/t/security",Hijacking Your Free Beasties,https://www.soldierx.com/news/libhijack-PoCGTFO-0x17,/u/lattera,7
+0,2018-01-10 13:17:17 -0600,"/t/mac,/t/virtualization",Docker for Mac with Kubernetes,https://blog.docker.com/2018/01/docker-mac-kubernetes/,/u/fkr,3
+1,2018-01-10 05:54:22 -0600,"/t/c++,/t/compilers",Chromium distributed build client is now open source,https://groups.google.com/a/chromium.org/forum/#!msg/chromium-dev/q7hSGr_JNzg/p44IkGhDDgAJ,/u/stip,6
+0,2018-01-10 03:44:06 -0600,"/t/security,/t/web",2018.01.09 Issue with TLS-SNI-01 and Shared Hosting Infrastructure,https://community.letsencrypt.org/t/2018-01-09-issue-with-tls-sni-01-and-shared-hosting-infrastructure/49996,/u/jmhodges,8
+0,2018-01-10 22:32:26 -0600,"/t/culture,/t/programming",Showcasing Mathematica One Character at a Time,https://codegolf.stackexchange.com/a/44683/9145,/u/hwayne,1
+0,2018-01-10 08:04:52 -0600,/t/security,Detecting Meltdown/Spectre Via Cache Side Channels,https://capsule8.com/blog/detecting-meltdown-spectre-detecting-cache-side-channels/,/u/gucciswag9000,4
+15,2018-01-09 15:29:01 -0600,/t/rust,#Rust2018 : Don’t be the new Haskell,https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481,/u/raindev,13
+0,2018-01-10 10:02:12 -0600,/t/javascript,Prettier 1.10: One Year of Prettier 🎂,https://prettier.io/blog/2018/01/10/1.10.0.html,/u/duailibe,3
+0,2018-01-10 16:22:46 -0600,"/t/graphics,/t/math",GPU Fluid Simulation,https://benedikt-bitterli.me/gpu-fluid.html,/u/friendlysock,1
+0,2018-01-09 19:19:13 -0600,"/t/haskell,/t/person",Interview with Simon Peyton-Jones (POPL 2018),http://www.cs.cmu.edu/~popl-interviews/peytonjones.html,/u/puffnfresh,16
+0,2018-01-10 05:54:47 -0600,"/t/historical,/t/programming",An Interview with the Old Man of Floating-Point [1998],https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html,/u/gerikson,4
+0,2018-01-10 10:02:54 -0600,/t/ai,Why Machine Learning Needs GPUs,https://motherboard.vice.com/en_us/article/kznnnn/why-machine-learning-needs-gpus,/u/balajmarius,2
+0,2018-01-10 00:38:18 -0600,/t/games,Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor,https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php,/u/j11g,6
+5,2018-01-09 09:44:26 -0600,"/t/show,/t/hardware",Yet Another Raspberry Pi Kubernetes Cluster,https://dmathieu.com/articles/development/raspberry-kubernetes/,/u/dmathieu,14

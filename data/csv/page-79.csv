@@ -1,25 +1,25 @@
-4,2017-12-28 15:14:07 -0600,['/t/visualization'],mutt cheat sheet,http://sheet.shiar.nl/mutt,/u/mulander,13
-0,2017-12-29 07:02:43 -0600,"['/t/assembly', '/t/historical']",AMD64 APM Archive Online,http://www.os2museum.com/wp/amd64-apm-archive-online/,/u/calvin,2
-0,2017-12-29 07:01:33 -0600,['/t/web'],Making an automatic weekly blog digest,https://jvns.ca/blog/2017/12/28/making-a-weekly-newsletter/,/u/calvin,2
-2,2017-12-28 05:44:14 -0600,['/t/art'],There is only one Cloud Icon in the Entire Universe - Scott Hanselman,https://www.hanselman.com/blog/ThereIsOnlyOneCloudIconInTheEntireUniverse.aspx,/u/nhooyr,32
-0,2017-12-28 13:59:00 -0600,['/t/ruby'],New features in Ruby 2.5.0,http://wyeworks.com/blog/2017/12/28/new-features-in-ruby-2-dot-5-0,/u/smartinez87,7
-2,2017-12-28 15:41:44 -0600,"['/t/hardware', '/t/reversing']",Building a Thermal Camera,https://damow.net/building-a-thermal-camera/,/u/friendlysock,9
-4,2017-12-28 10:57:40 -0600,"['/t/netbsd', '/t/release']","NetBSD 7.1.1 released (December 22, 2017)",http://www.netbsd.org/releases/formal-7/NetBSD-7.1.1.html,/u/sevan,13
-0,2017-12-28 10:22:28 -0600,['/t/haskell'],Haskell Weekly in 2017,http://taylor.fausak.me/2017/12/28/haskell-weekly-in-2017/,/u/taylorfausak,8
-34,2017-12-27 12:42:29 -0600,"['/t/ask', '/t/show', '/t/culture']",Awesome Cold Showers,https://github.com/hwayne/awesome-cold-showers,/u/hwayne,69
-1,2017-12-28 18:39:30 -0600,"['/t/pdf', '/t/historical']",Design of a Separable Transition Compiler,http://melconway.com/Home/pdf/compiler.pdf,/u/kristof,5
-0,2017-12-28 15:52:04 -0600,"['/t/ios', '/t/objectivec', '/t/reversing']",iPhone X home button,http://blog.zats.io/2017/12/27/iPhone-X-home-button/,/u/calvin,7
-0,2017-12-28 10:10:37 -0600,['/t/distributed'],"Building a Distributed Log from Scratch, Part 2: Data Replication",https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/,/u/tylertreat,7
-0,2017-12-28 22:15:49 -0600,['/t/ios'],A Message to Our Customers about iPhone Batteries and Performance,https://www.apple.com/iphone-battery-and-performance/,/u/nhooyr,3
-0,2017-12-28 07:56:04 -0600,"['/t/show', '/t/programming']",Dackson: Decoding JSON with Metaprogramming in D,http://leeavital.com/2017/12/23/Dackson-D-Metaprogramming.html,/u/avita1,9
-4,2017-12-28 00:20:36 -0600,"['/t/plt', '/t/rust']",Not Explicit,https://boats.gitlab.io/blog/post/2017-12-27-things-explicit-is-not/,/u/fitzgen,19
-4,2017-12-28 12:14:14 -0600,"['/t/law', '/t/privacy']",Big Tech Is Failing to Comply with Seattle's Law on Election Advertising Transparency,https://www.thestranger.com/features/2017/12/20/25632083/big-tech-is-failing-to-comply-with-seattles-law-on-election-advertising-transparency,/u/mulander,5
-0,2017-12-28 14:32:37 -0600,"['/t/devops', '/t/nodejs', '/t/release']",packagecloud.io now supports Node.js packages!,https://blog.packagecloud.io/eng/2017/12/27/npm-registry-support/,/u/capotej,3
-0,2017-12-28 11:12:20 -0600,"['/t/assembly', '/t/graphics']",Scrolling on the Amiga,http://uridiumauthor.blogspot.com/2017/12/scrolling-on-amiga.html,/u/pushcx,8
-0,2017-12-28 07:49:44 -0600,['/t/databases'],A Look at Ten New Database Systems Released in 2017,https://medium.com/@peterc/a-look-at-ten-new-database-systems-released-in-2017-94a3aa4c2aab,/u/peterc,6
-0,2017-12-28 07:19:23 -0600,"['/t/freebsd', '/t/reversing']","Dumping a PS4 Kernel in ""Only"" 6 Days",https://fail0verflow.com/blog/2017/ps4-crashdump-dump/,/u/calvin,12
-4,2017-12-28 09:48:11 -0600,"['/t/databases', '/t/performance']","PostgreSQL benchmark on FreeBSD, CentOS, Ubuntu Debian and openSUSE",https://redbyte.eu/en/blog/postgresql-benchmark-freebsd-centos-ubuntu-debian-opensuse/,/u/friendlysock,4
-0,2017-12-28 19:38:23 -0600,"['/t/c', '/t/compilers']","Writing a C Compiler, Part 4",https://norasandler.com/2017/12/28/Write-a-Compiler-4.html,/u/wesleyac,2
-0,2017-12-28 16:41:21 -0600,['/t/graphics'],Storyboarder - open source storyboarding app,https://wonderunit.com/storyboarder/,/u/Yogthos,3
-32,2017-12-27 10:18:13 -0600,['/t/practices'],Why I stopped bringing my laptop to meetings,https://medium.com/@colindean/why-i-stopped-bringing-my-laptop-to-meetings-6d5132d770f4,/u/colindean,26
-0,2017-12-28 16:27:33 -0600,"['/t/ios', '/t/security']",Uber is apparently tracking GPS coordinate info on iOS even with Location Services turned OFF,https://medium.com/bread-and-circuses/your-uber-location-tracking-device-has-been-activated-781a7e6df394,/u/Yogthos,3
+4,2017-12-28 15:14:07 -0600,/t/visualization,mutt cheat sheet,http://sheet.shiar.nl/mutt,/u/mulander,13
+0,2017-12-29 07:02:43 -0600,"/t/assembly,/t/historical",AMD64 APM Archive Online,http://www.os2museum.com/wp/amd64-apm-archive-online/,/u/calvin,2
+0,2017-12-29 07:01:33 -0600,/t/web,Making an automatic weekly blog digest,https://jvns.ca/blog/2017/12/28/making-a-weekly-newsletter/,/u/calvin,2
+2,2017-12-28 05:44:14 -0600,/t/art,There is only one Cloud Icon in the Entire Universe - Scott Hanselman,https://www.hanselman.com/blog/ThereIsOnlyOneCloudIconInTheEntireUniverse.aspx,/u/nhooyr,32
+0,2017-12-28 13:59:00 -0600,/t/ruby,New features in Ruby 2.5.0,http://wyeworks.com/blog/2017/12/28/new-features-in-ruby-2-dot-5-0,/u/smartinez87,7
+2,2017-12-28 15:41:44 -0600,"/t/hardware,/t/reversing",Building a Thermal Camera,https://damow.net/building-a-thermal-camera/,/u/friendlysock,9
+4,2017-12-28 10:57:40 -0600,"/t/netbsd,/t/release","NetBSD 7.1.1 released (December 22, 2017)",http://www.netbsd.org/releases/formal-7/NetBSD-7.1.1.html,/u/sevan,13
+0,2017-12-28 10:22:28 -0600,/t/haskell,Haskell Weekly in 2017,http://taylor.fausak.me/2017/12/28/haskell-weekly-in-2017/,/u/taylorfausak,8
+34,2017-12-27 12:42:29 -0600,"/t/ask,/t/show,/t/culture",Awesome Cold Showers,https://github.com/hwayne/awesome-cold-showers,/u/hwayne,69
+1,2017-12-28 18:39:30 -0600,"/t/pdf,/t/historical",Design of a Separable Transition Compiler,http://melconway.com/Home/pdf/compiler.pdf,/u/kristof,5
+0,2017-12-28 15:52:04 -0600,"/t/ios,/t/objectivec,/t/reversing",iPhone X home button,http://blog.zats.io/2017/12/27/iPhone-X-home-button/,/u/calvin,7
+0,2017-12-28 10:10:37 -0600,/t/distributed,"Building a Distributed Log from Scratch, Part 2: Data Replication",https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/,/u/tylertreat,7
+0,2017-12-28 22:15:49 -0600,/t/ios,A Message to Our Customers about iPhone Batteries and Performance,https://www.apple.com/iphone-battery-and-performance/,/u/nhooyr,3
+0,2017-12-28 07:56:04 -0600,"/t/show,/t/programming",Dackson: Decoding JSON with Metaprogramming in D,http://leeavital.com/2017/12/23/Dackson-D-Metaprogramming.html,/u/avita1,9
+4,2017-12-28 00:20:36 -0600,"/t/plt,/t/rust",Not Explicit,https://boats.gitlab.io/blog/post/2017-12-27-things-explicit-is-not/,/u/fitzgen,19
+4,2017-12-28 12:14:14 -0600,"/t/law,/t/privacy",Big Tech Is Failing to Comply with Seattle's Law on Election Advertising Transparency,https://www.thestranger.com/features/2017/12/20/25632083/big-tech-is-failing-to-comply-with-seattles-law-on-election-advertising-transparency,/u/mulander,5
+0,2017-12-28 14:32:37 -0600,"/t/devops,/t/nodejs,/t/release",packagecloud.io now supports Node.js packages!,https://blog.packagecloud.io/eng/2017/12/27/npm-registry-support/,/u/capotej,3
+0,2017-12-28 11:12:20 -0600,"/t/assembly,/t/graphics",Scrolling on the Amiga,http://uridiumauthor.blogspot.com/2017/12/scrolling-on-amiga.html,/u/pushcx,8
+0,2017-12-28 07:49:44 -0600,/t/databases,A Look at Ten New Database Systems Released in 2017,https://medium.com/@peterc/a-look-at-ten-new-database-systems-released-in-2017-94a3aa4c2aab,/u/peterc,6
+0,2017-12-28 07:19:23 -0600,"/t/freebsd,/t/reversing","Dumping a PS4 Kernel in ""Only"" 6 Days",https://fail0verflow.com/blog/2017/ps4-crashdump-dump/,/u/calvin,12
+4,2017-12-28 09:48:11 -0600,"/t/databases,/t/performance","PostgreSQL benchmark on FreeBSD, CentOS, Ubuntu Debian and openSUSE",https://redbyte.eu/en/blog/postgresql-benchmark-freebsd-centos-ubuntu-debian-opensuse/,/u/friendlysock,4
+0,2017-12-28 19:38:23 -0600,"/t/c,/t/compilers","Writing a C Compiler, Part 4",https://norasandler.com/2017/12/28/Write-a-Compiler-4.html,/u/wesleyac,2
+0,2017-12-28 16:41:21 -0600,/t/graphics,Storyboarder - open source storyboarding app,https://wonderunit.com/storyboarder/,/u/Yogthos,3
+32,2017-12-27 10:18:13 -0600,/t/practices,Why I stopped bringing my laptop to meetings,https://medium.com/@colindean/why-i-stopped-bringing-my-laptop-to-meetings-6d5132d770f4,/u/colindean,26
+0,2017-12-28 16:27:33 -0600,"/t/ios,/t/security",Uber is apparently tracking GPS coordinate info on iOS even with Location Services turned OFF,https://medium.com/bread-and-circuses/your-uber-location-tracking-device-has-been-activated-781a7e6df394,/u/Yogthos,3

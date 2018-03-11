@@ -1,25 +1,25 @@
-1,2018-02-04 12:15:40 -0600,['/t/hardware'],Miniature Macintosh Plus,http://spritesmods.com/?art=minimacplus,/u/kline,8
-4,2018-02-04 00:04:22 -0600,"['/t/devops', '/t/go']",Instrumenting Go service for Prometheus,https://alex.dzyoba.com/blog/go-prometheus-service/,/u/alexdzyoba,12
-0,2018-02-04 20:54:08 -0600,"['/t/culture', '/t/philosophy']",Early Facebook and Google Employees Form Coalition to Fight What They Built,https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html,/u/Caustic,5
-0,2018-02-04 11:16:42 -0600,"['/t/pdf', '/t/programming']",Traditional Assignment Considered Harmful,http://web.cse.ohio-state.edu/rsrg/documents/2009/09PHABKW.pdf,/u/patrickdlogan,7
-0,2018-02-04 20:23:11 -0600,"['/t/pdf', '/t/security']",HCIC: Hardware-assisted Control-flow Integrity Checking,https://arxiv.org/pdf/1801.07397.pdf,/u/fro,2
-0,2018-02-04 12:07:19 -0600,"['/t/games', '/t/historical']",The Sound of 1-bit: Technical constraint and musical creativity on the 48k Sinclair ZX Spectrum,https://www.gamejournal.it/the-sound-of-1-bit-technical-constraint-as-a-driver-for-musical-creativity-on-the-48k-sinclair-zx-spectrum/,/u/mjn,5
-1,2018-02-04 06:35:27 -0600,['/t/games'],Billy Mitchell’s Twin Galaxies Donkey Kong records proven fake,http://www.twingalaxies.com/showthread.php/176004-Dispute-Jeremy-Young-Arcade-Donkey-Kong-Points-Hammer-Allowed-Player-Billy-L-Mitchell-Score-1-062-800?p=946633&viewfull=1#post946633,/u/soulcutter,9
-0,2018-02-04 16:43:05 -0600,['/t/graphics'],Optimizing VR Graphics with Late Latching,https://developer.oculus.com/blog/optimizing-vr-graphics-with-late-latching/,/u/mikejsavage,2
-1,2018-02-04 08:13:21 -0600,"['/t/slides', '/t/historical', '/t/netbsd']",NetBSD - A modern operating system for your retro battlestation,https://www.geeklan.co.uk/files/fosdem2018-retro,/u/sevan,3
-0,2018-02-04 19:57:00 -0600,"['/t/pdf', '/t/security']",On the Effectiveness of Hardware Enforced Control Flow Integrity,https://scholarspace.manoa.hawaii.edu/bitstream/10125/50585/1/paper0698.pdf,/u/fro,1
-1,2018-02-04 12:59:18 -0600,"['/t/hardware', '/t/unix']",SunPCI: Run x86 Applications on a Solaris/SPARC Box,https://docs.oracle.com/cd/E19085-01/pci1.card/805-6058-11/6j5nc881r/index.html,/u/nickpsecurity,3
-0,2018-02-04 18:42:15 -0600,"['/t/pdf', '/t/security']",ERIM: Secure and Efficient In-process Isolation with Memory Protection Keys,https://arxiv.org/pdf/1801.06822.pdf,/u/fro,1
-2,2018-02-03 19:57:12 -0600,['/t/linux'],HiFive Unleashed - The world’s first RISC-V-based Linux development board.,https://www.sifive.com/products/hifive-unleashed/,/u/user545,16
-1,2018-02-03 11:57:39 -0600,"['/t/slides', '/t/netbsd', '/t/practices']",BSD from scratch - from source to OS with ease on NetBSD,https://www.geeklan.co.uk/files/fosdem2018-bsd/#1,/u/sevan,19
-8,2018-02-03 08:16:36 -0600,['/t/culture'],Ability must be ageless,http://nanxiao.me/en/ability-must-be-ageless/,/u/nanxiao,16
-1,2018-02-03 08:31:16 -0600,"['/t/assembly', '/t/historical', '/t/reversing', '/t/windows']",Switch to Windows 95,https://blog.krnl386.com/index.php?post/2018/02/03/Switch-to-Windows-95,/u/calvin,29
-3,2018-02-03 18:38:58 -0600,"['/t/pdf', '/t/slides', '/t/networking', '/t/openbsd']",Branch VPN Solution with OpenBSD,https://undeadly.org/features/2018/02/eurobsdcon2017-branch-vpn.pdf,/u/calvin,6
-2,2018-02-03 12:04:03 -0600,['/t/practices'],Progressing from tech to leadership,http://lcamtuf.blogspot.com/2018/02/on-leadership.html,/u/freddyb,15
-3,2018-02-03 10:00:46 -0600,"['/t/video', '/t/event']",FOSDEM 2018 - Live Streaming,https://fosdem.org/2018/schedule/streaming/,/u/fs111,16
-0,2018-02-03 18:06:01 -0600,['/t/science'],Full braking at Alpha Centauri,http://www.mps.mpg.de/4819285/news_publication_11019256?c=2169,/u/stsp,6
-1,2018-02-03 07:15:30 -0600,['/t/programming'],Dolphin Progress Report: January 2018,https://dolphin-emu.org/blog/2018/02/03/dolphin-progress-report-january-2018/,/u/calvin,15
-2,2018-02-03 10:26:54 -0600,"['/t/browsers', '/t/privacy']",Here’s how Google Chrome’s new ad blocker works,https://www.ctrl.blog/entry/chrome-adblocker,/u/av,8
-0,2018-02-03 07:42:57 -0600,"['/t/hardware', '/t/linux', '/t/mobile']",Librem 5 Phone Progress Report,https://puri.sm/posts/librem5-progress-report-3/,/u/calvin,15
-3,2018-02-03 11:04:50 -0600,"['/t/pdf', '/t/compilers', '/t/python']",A Prolog Interpreter in RPython (2007),http://cfbolz.de/Bolz2007-Bachelorarbeit.pdf,/u/nickpsecurity,6
-0,2018-02-03 15:47:20 -0600,['/t/cryptocurrencies'],"Here’s the Solution to the 3-Year-Old, $50,000 Bitcoin Puzzle",https://motherboard.vice.com/en_us/article/kzpqzz/heres-the-solution-to-the-3-year-old-dollar50000-bitcoin-puzzle,/u/calvin,5
+1,2018-02-04 12:15:40 -0600,/t/hardware,Miniature Macintosh Plus,http://spritesmods.com/?art=minimacplus,/u/kline,8
+4,2018-02-04 00:04:22 -0600,"/t/devops,/t/go",Instrumenting Go service for Prometheus,https://alex.dzyoba.com/blog/go-prometheus-service/,/u/alexdzyoba,12
+0,2018-02-04 20:54:08 -0600,"/t/culture,/t/philosophy",Early Facebook and Google Employees Form Coalition to Fight What They Built,https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html,/u/Caustic,5
+0,2018-02-04 11:16:42 -0600,"/t/pdf,/t/programming",Traditional Assignment Considered Harmful,http://web.cse.ohio-state.edu/rsrg/documents/2009/09PHABKW.pdf,/u/patrickdlogan,7
+0,2018-02-04 20:23:11 -0600,"/t/pdf,/t/security",HCIC: Hardware-assisted Control-flow Integrity Checking,https://arxiv.org/pdf/1801.07397.pdf,/u/fro,2
+0,2018-02-04 12:07:19 -0600,"/t/games,/t/historical",The Sound of 1-bit: Technical constraint and musical creativity on the 48k Sinclair ZX Spectrum,https://www.gamejournal.it/the-sound-of-1-bit-technical-constraint-as-a-driver-for-musical-creativity-on-the-48k-sinclair-zx-spectrum/,/u/mjn,5
+1,2018-02-04 06:35:27 -0600,/t/games,Billy Mitchell’s Twin Galaxies Donkey Kong records proven fake,http://www.twingalaxies.com/showthread.php/176004-Dispute-Jeremy-Young-Arcade-Donkey-Kong-Points-Hammer-Allowed-Player-Billy-L-Mitchell-Score-1-062-800?p=946633&viewfull=1#post946633,/u/soulcutter,9
+0,2018-02-04 16:43:05 -0600,/t/graphics,Optimizing VR Graphics with Late Latching,https://developer.oculus.com/blog/optimizing-vr-graphics-with-late-latching/,/u/mikejsavage,2
+1,2018-02-04 08:13:21 -0600,"/t/slides,/t/historical,/t/netbsd",NetBSD - A modern operating system for your retro battlestation,https://www.geeklan.co.uk/files/fosdem2018-retro,/u/sevan,3
+0,2018-02-04 19:57:00 -0600,"/t/pdf,/t/security",On the Effectiveness of Hardware Enforced Control Flow Integrity,https://scholarspace.manoa.hawaii.edu/bitstream/10125/50585/1/paper0698.pdf,/u/fro,1
+1,2018-02-04 12:59:18 -0600,"/t/hardware,/t/unix",SunPCI: Run x86 Applications on a Solaris/SPARC Box,https://docs.oracle.com/cd/E19085-01/pci1.card/805-6058-11/6j5nc881r/index.html,/u/nickpsecurity,3
+0,2018-02-04 18:42:15 -0600,"/t/pdf,/t/security",ERIM: Secure and Efficient In-process Isolation with Memory Protection Keys,https://arxiv.org/pdf/1801.06822.pdf,/u/fro,1
+2,2018-02-03 19:57:12 -0600,/t/linux,HiFive Unleashed - The world’s first RISC-V-based Linux development board.,https://www.sifive.com/products/hifive-unleashed/,/u/user545,16
+1,2018-02-03 11:57:39 -0600,"/t/slides,/t/netbsd,/t/practices",BSD from scratch - from source to OS with ease on NetBSD,https://www.geeklan.co.uk/files/fosdem2018-bsd/#1,/u/sevan,19
+8,2018-02-03 08:16:36 -0600,/t/culture,Ability must be ageless,http://nanxiao.me/en/ability-must-be-ageless/,/u/nanxiao,16
+1,2018-02-03 08:31:16 -0600,"/t/assembly,/t/historical,/t/reversing,/t/windows",Switch to Windows 95,https://blog.krnl386.com/index.php?post/2018/02/03/Switch-to-Windows-95,/u/calvin,29
+3,2018-02-03 18:38:58 -0600,"/t/pdf,/t/slides,/t/networking,/t/openbsd",Branch VPN Solution with OpenBSD,https://undeadly.org/features/2018/02/eurobsdcon2017-branch-vpn.pdf,/u/calvin,6
+2,2018-02-03 12:04:03 -0600,/t/practices,Progressing from tech to leadership,http://lcamtuf.blogspot.com/2018/02/on-leadership.html,/u/freddyb,15
+3,2018-02-03 10:00:46 -0600,"/t/video,/t/event",FOSDEM 2018 - Live Streaming,https://fosdem.org/2018/schedule/streaming/,/u/fs111,16
+0,2018-02-03 18:06:01 -0600,/t/science,Full braking at Alpha Centauri,http://www.mps.mpg.de/4819285/news_publication_11019256?c=2169,/u/stsp,6
+1,2018-02-03 07:15:30 -0600,/t/programming,Dolphin Progress Report: January 2018,https://dolphin-emu.org/blog/2018/02/03/dolphin-progress-report-january-2018/,/u/calvin,15
+2,2018-02-03 10:26:54 -0600,"/t/browsers,/t/privacy",Here’s how Google Chrome’s new ad blocker works,https://www.ctrl.blog/entry/chrome-adblocker,/u/av,8
+0,2018-02-03 07:42:57 -0600,"/t/hardware,/t/linux,/t/mobile",Librem 5 Phone Progress Report,https://puri.sm/posts/librem5-progress-report-3/,/u/calvin,15
+3,2018-02-03 11:04:50 -0600,"/t/pdf,/t/compilers,/t/python",A Prolog Interpreter in RPython (2007),http://cfbolz.de/Bolz2007-Bachelorarbeit.pdf,/u/nickpsecurity,6
+0,2018-02-03 15:47:20 -0600,/t/cryptocurrencies,"Here’s the Solution to the 3-Year-Old, $50,000 Bitcoin Puzzle",https://motherboard.vice.com/en_us/article/kzpqzz/heres-the-solution-to-the-3-year-old-dollar50000-bitcoin-puzzle,/u/calvin,5

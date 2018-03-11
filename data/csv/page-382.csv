@@ -1,25 +1,25 @@
-0,2017-05-02 14:18:20 -0500,['/t/hardware'],R8 8-bit CISC Processor,http://www.hasaranga.com/R8/,/u/pushcx,3
-0,2017-05-02 16:19:25 -0500,"['/t/android', '/t/java', '/t/programming']",Functional Programming for Android Developers — Part 1,https://medium.freecodecamp.com/functional-programming-for-android-developers-part-1-a58d40d6e742,/u/jdarnold,2
-1,2017-05-02 06:52:26 -0500,['/t/programming'],"What, if anything, is a programming paradigm?",http://www.cambridgeblog.org/2017/05/what-if-anything-is-a-programming-paradigm/,/u/puffnfresh,4
-3,2017-05-01 12:39:39 -0500,"['/t/python', '/t/release']",yieldfrom 1.0.0: A backport of the `yield from` semantic from Python 3.x to Python 2.7,https://pypi.python.org/pypi/yieldfrom/1.0.0,/u/AmirRachum,11
-0,2017-05-01 16:04:34 -0500,['/t/haskell'],Open Sourcing our new Duckling,https://wit.ai/blog/2017/05/01/new-duckling,/u/ehamberg,18
-6,2017-05-01 05:27:53 -0500,"['/t/compsci', '/t/programming']",Six programming paradigms that will change how you think about coding,http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/,/u/calvin,31
-4,2017-05-02 09:11:26 -0500,"['/t/education', '/t/event', '/t/hardware', '/t/windows']",Microsoft May Event,http://event.microsoft.com/MayEvent?cid=precal,/u/calvin,1
-8,2017-05-02 08:36:03 -0500,"['/t/android', '/t/programming']",OO Tricks: The Art of Command Query Separation,https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0,/u/jdarnold,1
-0,2017-05-02 06:56:23 -0500,"['/t/pdf', '/t/programming']",Auto-Active Proof of Red-Black Trees in SPARK,http://www.spark-2014.org/uploads/dross_moy_nfm_2017.pdf,/u/doublec,2
-27,2017-05-01 17:30:47 -0500,"['/t/ask', '/t/culture']",What are you working on this week?,/s/4rzgxc/what_are_you_working_on_this_week,/u/caius,19
-4,2017-05-01 08:58:33 -0500,"['/t/show', '/t/go', '/t/release']",Announcing kurly v1.0.0,http://davidjpeacock.ca/post/announcing-kurly,/u/davidjpeacock,12
-0,2017-05-02 09:31:59 -0500,"['/t/hardware', '/t/practices']",The Lost Picture Show: Hollywood Archivists Can’t Outpace Obsolescence,http://spectrum.ieee.org/computing/it/the-lost-picture-show-hollywood-archivists-cant-outpace-obsolescence,/u/calvin,1
-1,2017-05-01 20:37:30 -0500,['/t/programming'],VHDL or Verilog?,http://fpgasite.blogspot.com/2017/04/vhdl-or-verilog.html,/u/pushcx,5
-3,2017-05-01 12:41:47 -0500,"['/t/security', '/t/unix']",terminal emulators' processing of escape sequences,http://openwall.com/lists/oss-security/2017/05/01/13,/u/jcs,12
-0,2017-05-02 07:34:29 -0500,"['/t/compsci', '/t/netbsd', '/t/unix']",LLDB: NetBSD Process Plugin enhancements,http://blog.netbsd.org/tnf/entry/lldb_netbsd_process_plugin_enhancements,/u/sevan,1
-1,2017-05-01 09:48:10 -0500,['/t/hardware'],All That Glitters Is Not Gold: A Closer Look at North Korea’s Ullim Tablet,http://38north.org/2017/03/mwilliams030317/,/u/calvin,16
-3,2017-05-01 10:38:14 -0500,"['/t/programming', '/t/satire']",xkcd: Here to Help,https://m.xkcd.com/1831/,/u/yumaikas,28
-32,2017-04-30 21:14:36 -0500,['/t/programming'],Readability Matters More Than Correctness,https://xph.us/2017/04/23/readability.html,/u/jcaudle,29
-1,2017-05-02 01:37:58 -0500,"['/t/pdf', '/t/compsci', '/t/math']",Identifying Almost Identical Files Using Contrxt Triggered Piecewise Hashing,http://dfrws.org/sites/default/files/session-files/paper-identifying_almost_identical_files_using_context_triggered_piecewise_hashing.pdf,/u/apg,2
-0,2017-05-01 20:35:14 -0500,['/t/visualization'],How ZIP codes nearly masked the lead problem in Flint,http://theconversation.com/how-zip-codes-nearly-masked-the-lead-problem-in-flint-65626,/u/pushcx,4
-1,2017-05-01 13:53:09 -0500,"['/t/pdf', '/t/compsci', '/t/math']",The Theory Behind Mp3 (2002),https://www.mp3-tech.org/programmer/docs/mp3_theory.pdf,/u/calvin,8
-0,2017-05-01 20:24:10 -0500,['/t/browsers'],Getting Started with Headless Chrome,https://developers.google.com/web/updates/2017/04/headless-chrome,/u/pushcx,4
-0,2017-05-01 17:14:48 -0500,"['/t/hardware', '/t/netbsd']",The Raspberry Pi Becomes a SCSI Device,http://hackaday.com/2017/05/01/the-raspberry-pi-becomes-a-scsi-device/,/u/sevan,5
-2,2017-05-01 13:29:32 -0500,"['/t/games', '/t/historical']",Emulate the emulators: A visual history of NESticle (2012),http://metopal.com/2012/03/15/emulate-the-emulators/,/u/mjn,5
-38,2017-04-30 23:30:51 -0500,['/t/programming'],Searls-Briggs Type Indicator Survey (MBTI for programmers),http://testdouble.com/salt,/u/dgv,17
+0,2017-05-02 14:18:20 -0500,/t/hardware,R8 8-bit CISC Processor,http://www.hasaranga.com/R8/,/u/pushcx,3
+0,2017-05-02 16:19:25 -0500,"/t/android,/t/java,/t/programming",Functional Programming for Android Developers — Part 1,https://medium.freecodecamp.com/functional-programming-for-android-developers-part-1-a58d40d6e742,/u/jdarnold,2
+1,2017-05-02 06:52:26 -0500,/t/programming,"What, if anything, is a programming paradigm?",http://www.cambridgeblog.org/2017/05/what-if-anything-is-a-programming-paradigm/,/u/puffnfresh,4
+3,2017-05-01 12:39:39 -0500,"/t/python,/t/release",yieldfrom 1.0.0: A backport of the `yield from` semantic from Python 3.x to Python 2.7,https://pypi.python.org/pypi/yieldfrom/1.0.0,/u/AmirRachum,11
+0,2017-05-01 16:04:34 -0500,/t/haskell,Open Sourcing our new Duckling,https://wit.ai/blog/2017/05/01/new-duckling,/u/ehamberg,18
+6,2017-05-01 05:27:53 -0500,"/t/compsci,/t/programming",Six programming paradigms that will change how you think about coding,http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/,/u/calvin,31
+4,2017-05-02 09:11:26 -0500,"/t/education,/t/event,/t/hardware,/t/windows",Microsoft May Event,http://event.microsoft.com/MayEvent?cid=precal,/u/calvin,1
+8,2017-05-02 08:36:03 -0500,"/t/android,/t/programming",OO Tricks: The Art of Command Query Separation,https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0,/u/jdarnold,1
+0,2017-05-02 06:56:23 -0500,"/t/pdf,/t/programming",Auto-Active Proof of Red-Black Trees in SPARK,http://www.spark-2014.org/uploads/dross_moy_nfm_2017.pdf,/u/doublec,2
+27,2017-05-01 17:30:47 -0500,"/t/ask,/t/culture",What are you working on this week?,/s/4rzgxc/what_are_you_working_on_this_week,/u/caius,19
+4,2017-05-01 08:58:33 -0500,"/t/show,/t/go,/t/release",Announcing kurly v1.0.0,http://davidjpeacock.ca/post/announcing-kurly,/u/davidjpeacock,12
+0,2017-05-02 09:31:59 -0500,"/t/hardware,/t/practices",The Lost Picture Show: Hollywood Archivists Can’t Outpace Obsolescence,http://spectrum.ieee.org/computing/it/the-lost-picture-show-hollywood-archivists-cant-outpace-obsolescence,/u/calvin,1
+1,2017-05-01 20:37:30 -0500,/t/programming,VHDL or Verilog?,http://fpgasite.blogspot.com/2017/04/vhdl-or-verilog.html,/u/pushcx,5
+3,2017-05-01 12:41:47 -0500,"/t/security,/t/unix",terminal emulators' processing of escape sequences,http://openwall.com/lists/oss-security/2017/05/01/13,/u/jcs,12
+0,2017-05-02 07:34:29 -0500,"/t/compsci,/t/netbsd,/t/unix",LLDB: NetBSD Process Plugin enhancements,http://blog.netbsd.org/tnf/entry/lldb_netbsd_process_plugin_enhancements,/u/sevan,1
+1,2017-05-01 09:48:10 -0500,/t/hardware,All That Glitters Is Not Gold: A Closer Look at North Korea’s Ullim Tablet,http://38north.org/2017/03/mwilliams030317/,/u/calvin,16
+3,2017-05-01 10:38:14 -0500,"/t/programming,/t/satire",xkcd: Here to Help,https://m.xkcd.com/1831/,/u/yumaikas,28
+32,2017-04-30 21:14:36 -0500,/t/programming,Readability Matters More Than Correctness,https://xph.us/2017/04/23/readability.html,/u/jcaudle,29
+1,2017-05-02 01:37:58 -0500,"/t/pdf,/t/compsci,/t/math",Identifying Almost Identical Files Using Contrxt Triggered Piecewise Hashing,http://dfrws.org/sites/default/files/session-files/paper-identifying_almost_identical_files_using_context_triggered_piecewise_hashing.pdf,/u/apg,2
+0,2017-05-01 20:35:14 -0500,/t/visualization,How ZIP codes nearly masked the lead problem in Flint,http://theconversation.com/how-zip-codes-nearly-masked-the-lead-problem-in-flint-65626,/u/pushcx,4
+1,2017-05-01 13:53:09 -0500,"/t/pdf,/t/compsci,/t/math",The Theory Behind Mp3 (2002),https://www.mp3-tech.org/programmer/docs/mp3_theory.pdf,/u/calvin,8
+0,2017-05-01 20:24:10 -0500,/t/browsers,Getting Started with Headless Chrome,https://developers.google.com/web/updates/2017/04/headless-chrome,/u/pushcx,4
+0,2017-05-01 17:14:48 -0500,"/t/hardware,/t/netbsd",The Raspberry Pi Becomes a SCSI Device,http://hackaday.com/2017/05/01/the-raspberry-pi-becomes-a-scsi-device/,/u/sevan,5
+2,2017-05-01 13:29:32 -0500,"/t/games,/t/historical",Emulate the emulators: A visual history of NESticle (2012),http://metopal.com/2012/03/15/emulate-the-emulators/,/u/mjn,5
+38,2017-04-30 23:30:51 -0500,/t/programming,Searls-Briggs Type Indicator Survey (MBTI for programmers),http://testdouble.com/salt,/u/dgv,17

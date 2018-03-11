@@ -1,25 +1,25 @@
-5,2016-12-13 19:35:56 -0600,"['/t/security', '/t/web']",Signing in to websites with SSH,https://vtllf.org/sshweb.html,/u/petergao,32
-30,2016-12-13 09:04:22 -0600,['/t/vim'],Why Kakoune — The quest for a better code editor,http://kakoune.org/why-kakoune/why-kakoune.html,/u/joshuacc,64
-0,2016-12-15 00:43:16 -0600,['/t/vcs'],Git Cheat Sheet,https://gist.github.com/akras14/3d242d80af8388ebca60,/u/av,1
-0,2016-12-15 00:36:40 -0600,"['/t/android', '/t/ios']",Open sourcing our Android and iOS apps! - Kickstarter,https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd,/u/av,1
-0,2016-12-14 23:48:47 -0600,['/t/devops'],Spinnaker - Land of a 1000 Builds,https://www.infoq.com/presentations/spinnaker,/u/mhausenblas,1
-0,2016-12-14 13:53:29 -0600,['/t/practices'],Prolific Engineers Take Small Bites — Patterns in Developer Impact,https://blog.gitprime.com/check-in-frequency-and-codebase-impact-the-surprising-correlation/,/u/soulcutter,4
-0,2016-12-14 13:38:31 -0600,"['/t/databases', '/t/distributed']",Life Beyond Distributed Transactions - An apostate's opinion,http://queue.acm.org/detail.cfm?ref=rss&id=3025012,/u/craigstuntz,4
-1,2016-12-14 04:28:33 -0600,['/t/games'],Reading The Game: 'No Man's Sky',http://www.npr.org/sections/alltechconsidered/2016/12/11/504876059/reading-the-game-no-mans-sky,/u/jackivan88,9
-0,2016-12-14 14:49:32 -0600,"['/t/graphics', '/t/web']",GPU Animation: Doing It Right,https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/,/u/flyingfisch,3
-0,2016-12-14 12:11:39 -0600,['/t/databases'],Achievement Unlocked: CrateDB 1.0,https://crate.io/releases/achievement-unlocked-cratedb-1-0/,/u/nslater,4
-11,2016-12-13 13:58:24 -0600,['/t/programming'],I've been writing ring buffers wrong all these years,https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/,/u/antifuchs,26
-0,2016-12-14 13:46:12 -0600,"['/t/devops', '/t/distributed', '/t/programming']",What Kubernetes users should know about the rkt container engine,https://coreos.com/blog/rkt-and-kubernetes.html,/u/mattr,3
-4,2016-12-13 23:22:42 -0600,['/t/devops'],AWS London Region (eu-west-2) now available,https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/,/u/lei,9
-0,2016-12-14 14:15:12 -0600,"['/t/c', '/t/hardware', '/t/lua', '/t/programming']",Scripting Helium with Lua: Bring Your Own Business Logic,https://www.helium.com/blog/scripting-helium-with-lua-bring-your-own-business-logic/,/u/silentbicycle,1
-0,2016-12-14 15:05:29 -0600,['/t/assembly'],Investigating 65C816 Interrupts,http://6502.org/tutorials/65c816interrupts.html,/u/pushcx,2
-0,2016-12-13 23:03:45 -0600,['/t/math'],Sunset Geometry,http://www.shapeoperator.com/2016/12/12/sunset-geometry/,/u/pgr0ss,14
-6,2016-12-14 09:02:51 -0600,"['/t/devops', '/t/linux']",Docker open sources critical infrastructure component,https://techcrunch.com/2016/12/14/docker-open-sources-critical-infrastructure-component/,/u/mhausenblas,2
-0,2016-12-14 03:57:09 -0600,['/t/programming'],Numeric age for D: Mir GLAS is faster than OpenBLAS and Eigen,http://blog.mir.dlang.io/glas/benchmark/openblas/2016/09/23/glas-gemm-benchmark.html,/u/sanxiyn,7
-5,2016-12-13 14:02:40 -0600,"['/t/pdf', '/t/book', '/t/debugging', '/t/erlang']",Stuff Goes Bad: Erlang in Anger,https://s3.amazonaws.com/erlang-in-anger/text.v1.1.0.pdf,/u/petergao,19
-16,2016-12-13 06:14:53 -0600,['/t/unix'],The Rule of Silence,http://www.linfo.org/rule_of_silence.html,/u/av,33
-8,2016-12-13 17:11:53 -0600,"['/t/practices', '/t/web']",How reducing software config can propel all source code ecosystems.,http://kevinsuttle.com/posts/propelling-dx-through-config,/u/kevinSuttle,5
-0,2016-12-14 02:16:46 -0600,"['/t/c', '/t/devops', '/t/distributed', '/t/linux']",beautiful distributed real-time performance and health monitoring,https://github.com/firehol/netdata,/u/denyk,6
-4,2016-12-13 08:08:32 -0600,['/t/crypto'],Mailpile: Too Cool for PGP,https://www.mailpile.is/blog/2016-12-13_Too_Cool_for_PGP.html,/u/geier,35
-0,2016-12-13 21:31:22 -0600,"['/t/show', '/t/web']",Markov Contact: a dynamic audio journey,https://demos.samgentle.com/markov-contact,/u/sgentle,5
-0,2016-12-13 14:20:40 -0600,"['/t/video', '/t/event']",Systems We Love Live Stream,https://www.youtube.com/watch?v=TPe6UXMDMGM,/u/wally,18
+5,2016-12-13 19:35:56 -0600,"/t/security,/t/web",Signing in to websites with SSH,https://vtllf.org/sshweb.html,/u/petergao,32
+30,2016-12-13 09:04:22 -0600,/t/vim,Why Kakoune — The quest for a better code editor,http://kakoune.org/why-kakoune/why-kakoune.html,/u/joshuacc,64
+0,2016-12-15 00:43:16 -0600,/t/vcs,Git Cheat Sheet,https://gist.github.com/akras14/3d242d80af8388ebca60,/u/av,1
+0,2016-12-15 00:36:40 -0600,"/t/android,/t/ios",Open sourcing our Android and iOS apps! - Kickstarter,https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd,/u/av,1
+0,2016-12-14 23:48:47 -0600,/t/devops,Spinnaker - Land of a 1000 Builds,https://www.infoq.com/presentations/spinnaker,/u/mhausenblas,1
+0,2016-12-14 13:53:29 -0600,/t/practices,Prolific Engineers Take Small Bites — Patterns in Developer Impact,https://blog.gitprime.com/check-in-frequency-and-codebase-impact-the-surprising-correlation/,/u/soulcutter,4
+0,2016-12-14 13:38:31 -0600,"/t/databases,/t/distributed",Life Beyond Distributed Transactions - An apostate's opinion,http://queue.acm.org/detail.cfm?ref=rss&id=3025012,/u/craigstuntz,4
+1,2016-12-14 04:28:33 -0600,/t/games,Reading The Game: 'No Man's Sky',http://www.npr.org/sections/alltechconsidered/2016/12/11/504876059/reading-the-game-no-mans-sky,/u/jackivan88,9
+0,2016-12-14 14:49:32 -0600,"/t/graphics,/t/web",GPU Animation: Doing It Right,https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/,/u/flyingfisch,3
+0,2016-12-14 12:11:39 -0600,/t/databases,Achievement Unlocked: CrateDB 1.0,https://crate.io/releases/achievement-unlocked-cratedb-1-0/,/u/nslater,4
+11,2016-12-13 13:58:24 -0600,/t/programming,I've been writing ring buffers wrong all these years,https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/,/u/antifuchs,26
+0,2016-12-14 13:46:12 -0600,"/t/devops,/t/distributed,/t/programming",What Kubernetes users should know about the rkt container engine,https://coreos.com/blog/rkt-and-kubernetes.html,/u/mattr,3
+4,2016-12-13 23:22:42 -0600,/t/devops,AWS London Region (eu-west-2) now available,https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/,/u/lei,9
+0,2016-12-14 14:15:12 -0600,"/t/c,/t/hardware,/t/lua,/t/programming",Scripting Helium with Lua: Bring Your Own Business Logic,https://www.helium.com/blog/scripting-helium-with-lua-bring-your-own-business-logic/,/u/silentbicycle,1
+0,2016-12-14 15:05:29 -0600,/t/assembly,Investigating 65C816 Interrupts,http://6502.org/tutorials/65c816interrupts.html,/u/pushcx,2
+0,2016-12-13 23:03:45 -0600,/t/math,Sunset Geometry,http://www.shapeoperator.com/2016/12/12/sunset-geometry/,/u/pgr0ss,14
+6,2016-12-14 09:02:51 -0600,"/t/devops,/t/linux",Docker open sources critical infrastructure component,https://techcrunch.com/2016/12/14/docker-open-sources-critical-infrastructure-component/,/u/mhausenblas,2
+0,2016-12-14 03:57:09 -0600,/t/programming,Numeric age for D: Mir GLAS is faster than OpenBLAS and Eigen,http://blog.mir.dlang.io/glas/benchmark/openblas/2016/09/23/glas-gemm-benchmark.html,/u/sanxiyn,7
+5,2016-12-13 14:02:40 -0600,"/t/pdf,/t/book,/t/debugging,/t/erlang",Stuff Goes Bad: Erlang in Anger,https://s3.amazonaws.com/erlang-in-anger/text.v1.1.0.pdf,/u/petergao,19
+16,2016-12-13 06:14:53 -0600,/t/unix,The Rule of Silence,http://www.linfo.org/rule_of_silence.html,/u/av,33
+8,2016-12-13 17:11:53 -0600,"/t/practices,/t/web",How reducing software config can propel all source code ecosystems.,http://kevinsuttle.com/posts/propelling-dx-through-config,/u/kevinSuttle,5
+0,2016-12-14 02:16:46 -0600,"/t/c,/t/devops,/t/distributed,/t/linux",beautiful distributed real-time performance and health monitoring,https://github.com/firehol/netdata,/u/denyk,6
+4,2016-12-13 08:08:32 -0600,/t/crypto,Mailpile: Too Cool for PGP,https://www.mailpile.is/blog/2016-12-13_Too_Cool_for_PGP.html,/u/geier,35
+0,2016-12-13 21:31:22 -0600,"/t/show,/t/web",Markov Contact: a dynamic audio journey,https://demos.samgentle.com/markov-contact,/u/sgentle,5
+0,2016-12-13 14:20:40 -0600,"/t/video,/t/event",Systems We Love Live Stream,https://www.youtube.com/watch?v=TPe6UXMDMGM,/u/wally,18

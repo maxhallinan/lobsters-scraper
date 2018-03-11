@@ -1,25 +1,25 @@
-26,2016-10-16 18:57:22 -0500,['/t/math'],“How old is the shepherd?” — The problem that shook school mathematics,https://medium.com/@fjmubeen/how-old-is-the-shepherd-the-problem-that-shook-school-mathematics-ad89b565fff,/u/cmhamill,39
-10,2016-10-17 05:39:03 -0500,['/t/python'],The stack of iterators pattern.,http://garethrees.org/2016/09/28/pattern/,/u/self,12
-0,2016-10-17 14:56:05 -0500,['/t/programming'],Julia 0.5 Highlights,http://julialang.org/blog/2016/10/julia-0.5-highlights,/u/tf,8
-2,2016-10-17 09:36:19 -0500,['/t/programming'],Why Your Excellent Conference Talk Was Rejected,https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected,/u/promptworks,11
-2,2016-10-17 06:04:59 -0500,"['/t/book', '/t/compsci', '/t/math', '/t/programming']",Programming books you might want to consider reading,http://danluu.com/programming-books/,/u/calvin,16
-1,2016-10-17 14:42:44 -0500,['/t/css'],Subgrids Considered Essential,http://meyerweb.com/eric/thoughts/2016/01/15/subgrids-considered-essential/,/u/flyingfisch,5
-1,2016-10-17 09:42:28 -0500,"['/t/philosophy', '/t/programming']",What Makes a Program Elegant?,http://cacm.acm.org/blogs/blog-cacm/208547-what-makes-a-program-elegant/fulltext,/u/quobit,9
-8,2016-10-16 20:21:11 -0500,"['/t/linux', '/t/openbsd', '/t/release', '/t/security']",Alpine edge has switched to libressl,http://lists.alpinelinux.org/alpine-announce/0019.html,/u/sevan,26
-0,2016-10-17 15:24:02 -0500,['/t/compsci'],K–12 Computer Science Framework,https://k12cs.org/,/u/calvin,5
-0,2016-10-17 11:16:03 -0500,['/t/databases'],Designing your SaaS Database for Scale with Postgres,https://www.citusdata.com/blog/2016/10/03/designing-your-saas-database-for-high-scalability/,/u/craigkerstiens,7
-0,2016-10-17 18:51:47 -0500,"['/t/haskell', '/t/programming']",HyperHaskell: The strongly hyped Haskell interpreter,https://mail.haskell.org/pipermail/haskell/2016-October/025010.html,/u/zem,2
-0,2016-10-17 11:15:29 -0500,"['/t/video', '/t/historical', '/t/practices']",Douglas Engelbart Interviewed by John Markoff of the New York Times (2002),https://www.youtube.com/watch?v=VeSgaJt27PM,/u/sevan,5
-0,2016-10-17 17:23:37 -0500,"['/t/video', '/t/compsci']","Learning To See, Part 2: Rules on Rules on Rules",https://www.youtube.com/watch?v=2ZhQkD1QKFw,/u/timuruski,2
-17,2016-10-16 15:25:54 -0500,['/t/practices'],The Villains of Remote Work,https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/,/u/hoopla,21
-1,2016-10-17 06:40:23 -0500,['/t/testing'],Property-based testing: another invariant to test for encoders,http://hypothesis.works/articles/canonical-serialization/,/u/itamarst,5
-12,2016-10-16 14:23:35 -0500,"['/t/games', '/t/hardware', '/t/networking', '/t/virtualization']",Cloudy Gamer: Playing Overwatch on Azure's new monster GPU instances,http://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html,/u/lg,12
-0,2016-10-17 14:41:29 -0500,"['/t/graphics', '/t/web']",How to Make Charts with SVG,https://css-tricks.com/how-to-make-charts-with-svg/,/u/flyingfisch,2
-0,2016-10-17 03:22:04 -0500,['/t/erlang'],The simplest Erlang TCP server ever,http://dmathieu.com/articles/development/erlang-tcp-server/,/u/hoopla,7
-0,2016-10-17 12:25:39 -0500,"['/t/devops', '/t/networking']",Misusing Træfɪk for accessing internal services on Kubernetes,https://www.justwatch.com/blog/post/misusing-traefik-for-accessing-internal-services-on-kubernetes/,/u/endymi0n,2
-0,2016-10-17 11:55:59 -0500,"['/t/javascript', '/t/programming']","MVC Is Dead, What Comes Next?",https://dzone.com/articles/mvc-is-dead-what-comes-next,/u/JeremyMorgan,2
-0,2016-10-17 14:40:09 -0500,"['/t/book', '/t/graphics']","A Book Apart, Practical SVG",https://abookapart.com/products/practical-svg,/u/flyingfisch,1
-15,2016-10-16 07:09:18 -0500,"['/t/games', '/t/historical', '/t/security']",The boy who stole Half-Life 2,http://www.eurogamer.net/articles/2011-02-21-the-boy-who-stole-half-life-2-article,/u/calvin,24
-0,2016-10-17 06:04:19 -0500,"['/t/dotnet', '/t/linux', '/t/person']",".NET on Linux – bye, Windows 10",http://piotrgankiewicz.com/2016/10/17/net-on-linux-bye-windows-10/,/u/calvin,3
-0,2016-10-16 18:44:43 -0500,['/t/practices'],The Programmer's Guide to a Sane Workweek,https://codewithoutrules.com/2016/09/16/sane-workweek/,/u/itamarst,6
-0,2016-10-16 22:01:58 -0500,"['/t/browsers', '/t/historical', '/t/mac', '/t/web']",25 years of HyperCard—the missing link to the Web,http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/,/u/majjoha,7
+26,2016-10-16 18:57:22 -0500,/t/math,“How old is the shepherd?” — The problem that shook school mathematics,https://medium.com/@fjmubeen/how-old-is-the-shepherd-the-problem-that-shook-school-mathematics-ad89b565fff,/u/cmhamill,39
+10,2016-10-17 05:39:03 -0500,/t/python,The stack of iterators pattern.,http://garethrees.org/2016/09/28/pattern/,/u/self,12
+0,2016-10-17 14:56:05 -0500,/t/programming,Julia 0.5 Highlights,http://julialang.org/blog/2016/10/julia-0.5-highlights,/u/tf,8
+2,2016-10-17 09:36:19 -0500,/t/programming,Why Your Excellent Conference Talk Was Rejected,https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected,/u/promptworks,11
+2,2016-10-17 06:04:59 -0500,"/t/book,/t/compsci,/t/math,/t/programming",Programming books you might want to consider reading,http://danluu.com/programming-books/,/u/calvin,16
+1,2016-10-17 14:42:44 -0500,/t/css,Subgrids Considered Essential,http://meyerweb.com/eric/thoughts/2016/01/15/subgrids-considered-essential/,/u/flyingfisch,5
+1,2016-10-17 09:42:28 -0500,"/t/philosophy,/t/programming",What Makes a Program Elegant?,http://cacm.acm.org/blogs/blog-cacm/208547-what-makes-a-program-elegant/fulltext,/u/quobit,9
+8,2016-10-16 20:21:11 -0500,"/t/linux,/t/openbsd,/t/release,/t/security",Alpine edge has switched to libressl,http://lists.alpinelinux.org/alpine-announce/0019.html,/u/sevan,26
+0,2016-10-17 15:24:02 -0500,/t/compsci,K–12 Computer Science Framework,https://k12cs.org/,/u/calvin,5
+0,2016-10-17 11:16:03 -0500,/t/databases,Designing your SaaS Database for Scale with Postgres,https://www.citusdata.com/blog/2016/10/03/designing-your-saas-database-for-high-scalability/,/u/craigkerstiens,7
+0,2016-10-17 18:51:47 -0500,"/t/haskell,/t/programming",HyperHaskell: The strongly hyped Haskell interpreter,https://mail.haskell.org/pipermail/haskell/2016-October/025010.html,/u/zem,2
+0,2016-10-17 11:15:29 -0500,"/t/video,/t/historical,/t/practices",Douglas Engelbart Interviewed by John Markoff of the New York Times (2002),https://www.youtube.com/watch?v=VeSgaJt27PM,/u/sevan,5
+0,2016-10-17 17:23:37 -0500,"/t/video,/t/compsci","Learning To See, Part 2: Rules on Rules on Rules",https://www.youtube.com/watch?v=2ZhQkD1QKFw,/u/timuruski,2
+17,2016-10-16 15:25:54 -0500,/t/practices,The Villains of Remote Work,https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/,/u/hoopla,21
+1,2016-10-17 06:40:23 -0500,/t/testing,Property-based testing: another invariant to test for encoders,http://hypothesis.works/articles/canonical-serialization/,/u/itamarst,5
+12,2016-10-16 14:23:35 -0500,"/t/games,/t/hardware,/t/networking,/t/virtualization",Cloudy Gamer: Playing Overwatch on Azure's new monster GPU instances,http://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html,/u/lg,12
+0,2016-10-17 14:41:29 -0500,"/t/graphics,/t/web",How to Make Charts with SVG,https://css-tricks.com/how-to-make-charts-with-svg/,/u/flyingfisch,2
+0,2016-10-17 03:22:04 -0500,/t/erlang,The simplest Erlang TCP server ever,http://dmathieu.com/articles/development/erlang-tcp-server/,/u/hoopla,7
+0,2016-10-17 12:25:39 -0500,"/t/devops,/t/networking",Misusing Træfɪk for accessing internal services on Kubernetes,https://www.justwatch.com/blog/post/misusing-traefik-for-accessing-internal-services-on-kubernetes/,/u/endymi0n,2
+0,2016-10-17 11:55:59 -0500,"/t/javascript,/t/programming","MVC Is Dead, What Comes Next?",https://dzone.com/articles/mvc-is-dead-what-comes-next,/u/JeremyMorgan,2
+0,2016-10-17 14:40:09 -0500,"/t/book,/t/graphics","A Book Apart, Practical SVG",https://abookapart.com/products/practical-svg,/u/flyingfisch,1
+15,2016-10-16 07:09:18 -0500,"/t/games,/t/historical,/t/security",The boy who stole Half-Life 2,http://www.eurogamer.net/articles/2011-02-21-the-boy-who-stole-half-life-2-article,/u/calvin,24
+0,2016-10-17 06:04:19 -0500,"/t/dotnet,/t/linux,/t/person",".NET on Linux – bye, Windows 10",http://piotrgankiewicz.com/2016/10/17/net-on-linux-bye-windows-10/,/u/calvin,3
+0,2016-10-16 18:44:43 -0500,/t/practices,The Programmer's Guide to a Sane Workweek,https://codewithoutrules.com/2016/09/16/sane-workweek/,/u/itamarst,6
+0,2016-10-16 22:01:58 -0500,"/t/browsers,/t/historical,/t/mac,/t/web",25 years of HyperCard—the missing link to the Web,http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/,/u/majjoha,7

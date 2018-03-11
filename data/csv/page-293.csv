@@ -1,25 +1,25 @@
-5,2017-07-12 11:45:28 -0500,"['/t/compsci', '/t/programming']",Thoughts by Rust's Graydon on sub-Turing models of computation,http://graydon2.dreamwidth.org/236045.html,/u/Sietsebb,4
-0,2017-07-12 22:22:57 -0500,"['/t/pdf', '/t/security']",CodeArmor: Virtualizing the Code Space to Counter Disclosure Attacks,http://www.cs.vu.nl/~giuffrida/papers/codearmor-eurosp-2017.pdf,/u/fro,2
-1,2017-07-12 09:31:27 -0500,['/t/systemd'],"""Refuse to load some units""",https://github.com/systemd/systemd/pull/6300,/u/rain1,6
-1,2017-07-12 18:37:47 -0500,"['/t/assembly', '/t/programming', '/t/release', '/t/web']",HTML5PCODE,http://html5pcode.com/index.html,/u/calvin,3
-0,2017-07-12 18:19:59 -0500,['/t/reversing'],Analyzing Torrent Repack Malware,http://mrexodia.cf/reversing/2017/07/12/Analyzing-torrent-repack-malware,/u/calvin,3
-0,2017-07-12 08:47:37 -0500,['/t/openbsd'],Anchors galore - conditional evaluation of containers for router rules,https://github.com/vedetta-com/vedetta/blob/master/src/etc/pf.conf,/u/horia,5
-0,2017-07-12 13:21:54 -0500,['/t/css'],Is it really safe to start using CSS Grid Layout?,https://rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/,/u/flyingfisch,5
-0,2017-07-12 14:37:52 -0500,['/t/programming'],Converting Queries to Commands,https://michaelfeathers.silvrback.com/converting-queries-to-commands,/u/joshuacc,4
-0,2017-07-12 07:51:12 -0500,['/t/haskell'],Threading responsibly,http://mazzo.li/posts/threads-resources.html,/u/pushcx,9
-1,2017-07-12 07:24:13 -0500,"['/t/linux', '/t/release', '/t/virtualization']","binctr: fully static, unprivileged, self-contained, containers as executable binaries",https://github.com/jessfraz/binctr,/u/pushcx,7
-0,2017-07-12 17:05:12 -0500,"['/t/practices', '/t/programming']",Code Change Complexity,https://michaelfeathers.silvrback.com/code-change-complexity,/u/yumaikas,2
-7,2017-07-11 10:30:09 -0500,"['/t/networking', '/t/programming']",bind broker,http://www.tedunangst.com/flak/post/bind-broker,/u/calvin,49
-1,2017-07-12 15:19:22 -0500,"['/t/design', '/t/law', '/t/web']",Stop The ADA Trolls,http://chrishofstader.com/stop-the-ada-trolls/,/u/trn,2
-2,2017-07-11 16:27:51 -0500,"['/t/elixir', '/t/erlang', '/t/scaling']","How Discord Scaled Elixir to 5,000,000 Concurrent Users",https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b,/u/yumaikas,32
-0,2017-07-12 12:44:18 -0500,"['/t/graphics', '/t/historical', '/t/python']","Pixel-Art: Implementation of the famous ""Depixelizing Pixel Art"" paper by Kopf and Lischinski",https://github.com/vvanirudh/Pixel-Art,/u/mabynogy,3
-0,2017-07-12 13:12:17 -0500,"['/t/audio', '/t/games']",Running a kickstarter for your indie video game,https://www.betonyourself.com/podcast/chris-parsons,/u/suzanbond,1
-5,2017-07-12 09:49:57 -0500,"['/t/historical', '/t/release', '/t/virtualization']",ClearPath MCP Express,http://www.unisys.com/offerings/technology-products-and-services/clearpath-forward-systems/clearpath-mcp-software/clearpath-mcp-express,/u/trn,2
-0,2017-07-12 09:38:37 -0500,['/t/graphics'],I Am Graphics And So Can You,https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1,/u/bill,4
-0,2017-07-12 07:51:36 -0500,['/t/haskell'],The `Has` Type Class Pattern,https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae,/u/pushcx,5
-0,2017-07-12 14:18:06 -0500,['/t/compsci'],What is abstraction anyway?,http://liamoc.net/posts/2017-07-08-abstraction.html,/u/pushcx,2
-23,2017-07-11 09:28:04 -0500,['/t/unix'],TERM is terminally broken,https://www.facebook.com/notes/daniel-colascione/term-is-terminally-broken/10154219967001102/,/u/vfoley,28
-0,2017-07-12 10:41:38 -0500,"['/t/release', '/t/unix']",​OmniOS Community Edition,http://www.omniosce.org/,/u/sevan,3
-0,2017-07-12 13:20:26 -0500,['/t/css'],Using Feature Queries in CSS,https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/,/u/flyingfisch,2
-1,2017-07-12 07:32:50 -0500,"['/t/crypto', '/t/security']",Orpheus' Lyre puts Kerberos to Sleep!,https://www.orpheus-lyre.info/,/u/eest,3
-0,2017-07-12 07:16:59 -0500,"['/t/programming', '/t/web']",Learn to code and help nonprofits,http://freecodecamp.org,/u/obsdj,4
+5,2017-07-12 11:45:28 -0500,"/t/compsci,/t/programming",Thoughts by Rust's Graydon on sub-Turing models of computation,http://graydon2.dreamwidth.org/236045.html,/u/Sietsebb,4
+0,2017-07-12 22:22:57 -0500,"/t/pdf,/t/security",CodeArmor: Virtualizing the Code Space to Counter Disclosure Attacks,http://www.cs.vu.nl/~giuffrida/papers/codearmor-eurosp-2017.pdf,/u/fro,2
+1,2017-07-12 09:31:27 -0500,/t/systemd,"""Refuse to load some units""",https://github.com/systemd/systemd/pull/6300,/u/rain1,6
+1,2017-07-12 18:37:47 -0500,"/t/assembly,/t/programming,/t/release,/t/web",HTML5PCODE,http://html5pcode.com/index.html,/u/calvin,3
+0,2017-07-12 18:19:59 -0500,/t/reversing,Analyzing Torrent Repack Malware,http://mrexodia.cf/reversing/2017/07/12/Analyzing-torrent-repack-malware,/u/calvin,3
+0,2017-07-12 08:47:37 -0500,/t/openbsd,Anchors galore - conditional evaluation of containers for router rules,https://github.com/vedetta-com/vedetta/blob/master/src/etc/pf.conf,/u/horia,5
+0,2017-07-12 13:21:54 -0500,/t/css,Is it really safe to start using CSS Grid Layout?,https://rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/,/u/flyingfisch,5
+0,2017-07-12 14:37:52 -0500,/t/programming,Converting Queries to Commands,https://michaelfeathers.silvrback.com/converting-queries-to-commands,/u/joshuacc,4
+0,2017-07-12 07:51:12 -0500,/t/haskell,Threading responsibly,http://mazzo.li/posts/threads-resources.html,/u/pushcx,9
+1,2017-07-12 07:24:13 -0500,"/t/linux,/t/release,/t/virtualization","binctr: fully static, unprivileged, self-contained, containers as executable binaries",https://github.com/jessfraz/binctr,/u/pushcx,7
+0,2017-07-12 17:05:12 -0500,"/t/practices,/t/programming",Code Change Complexity,https://michaelfeathers.silvrback.com/code-change-complexity,/u/yumaikas,2
+7,2017-07-11 10:30:09 -0500,"/t/networking,/t/programming",bind broker,http://www.tedunangst.com/flak/post/bind-broker,/u/calvin,49
+1,2017-07-12 15:19:22 -0500,"/t/design,/t/law,/t/web",Stop The ADA Trolls,http://chrishofstader.com/stop-the-ada-trolls/,/u/trn,2
+2,2017-07-11 16:27:51 -0500,"/t/elixir,/t/erlang,/t/scaling","How Discord Scaled Elixir to 5,000,000 Concurrent Users",https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b,/u/yumaikas,32
+0,2017-07-12 12:44:18 -0500,"/t/graphics,/t/historical,/t/python","Pixel-Art: Implementation of the famous ""Depixelizing Pixel Art"" paper by Kopf and Lischinski",https://github.com/vvanirudh/Pixel-Art,/u/mabynogy,3
+0,2017-07-12 13:12:17 -0500,"/t/audio,/t/games",Running a kickstarter for your indie video game,https://www.betonyourself.com/podcast/chris-parsons,/u/suzanbond,1
+5,2017-07-12 09:49:57 -0500,"/t/historical,/t/release,/t/virtualization",ClearPath MCP Express,http://www.unisys.com/offerings/technology-products-and-services/clearpath-forward-systems/clearpath-mcp-software/clearpath-mcp-express,/u/trn,2
+0,2017-07-12 09:38:37 -0500,/t/graphics,I Am Graphics And So Can You,https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1,/u/bill,4
+0,2017-07-12 07:51:36 -0500,/t/haskell,The `Has` Type Class Pattern,https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae,/u/pushcx,5
+0,2017-07-12 14:18:06 -0500,/t/compsci,What is abstraction anyway?,http://liamoc.net/posts/2017-07-08-abstraction.html,/u/pushcx,2
+23,2017-07-11 09:28:04 -0500,/t/unix,TERM is terminally broken,https://www.facebook.com/notes/daniel-colascione/term-is-terminally-broken/10154219967001102/,/u/vfoley,28
+0,2017-07-12 10:41:38 -0500,"/t/release,/t/unix",​OmniOS Community Edition,http://www.omniosce.org/,/u/sevan,3
+0,2017-07-12 13:20:26 -0500,/t/css,Using Feature Queries in CSS,https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/,/u/flyingfisch,2
+1,2017-07-12 07:32:50 -0500,"/t/crypto,/t/security",Orpheus' Lyre puts Kerberos to Sleep!,https://www.orpheus-lyre.info/,/u/eest,3
+0,2017-07-12 07:16:59 -0500,"/t/programming,/t/web",Learn to code and help nonprofits,http://freecodecamp.org,/u/obsdj,4

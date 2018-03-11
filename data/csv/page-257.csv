@@ -1,25 +1,25 @@
-2,2017-08-05 23:59:29 -0500,"['/t/culture', '/t/practices']","So, about this Googler’s manifesto",https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788,/u/ngoldbaum,8
-0,2017-08-05 21:35:01 -0500,"['/t/java', '/t/programming']",Creating DSL with Kotlin - Introducing a TLSLibrary,https://blog.simon-wirtz.de/creating-dsl-with-kotlin-introducing-a-tlslibrary/,/u/calvin,5
-1,2017-08-05 10:55:08 -0500,"['/t/browsers', '/t/javascript']",Detecting Chrome Headless,https://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html,/u/pushcx,15
-0,2017-08-05 10:54:54 -0500,"['/t/cryptocurrencies', '/t/finance']",Meet ‘Spoofy’: How a Single entity dominates the price of Bitcoin,https://medium.com/@bitfinexed/meet-spoofy-how-a-single-entity-dominates-the-price-of-bitcoin-39c711d28eb4,/u/pushcx,15
-3,2017-08-06 18:57:53 -0500,"['/t/video', '/t/culture']",Former Newsweek journalist describes what it was like working at a startup,https://www.youtube.com/watch?v=G7vrCpWbmDw,/u/kristof,0
-0,2017-08-05 10:51:05 -0500,['/t/programming'],Lightweight dotfiles for bash and vim,https://github.com/denyskoch/ienv,/u/denyk,8
-4,2017-08-05 10:58:01 -0500,['/t/haskell'],Playing with lens-aeson,https://www.snoyman.com/blog/2017/05/playing-with-lens-aeson,/u/pushcx,8
-0,2017-08-05 21:57:54 -0500,"['/t/assembly', '/t/c++']",Bootloader and Low-Level Programming Tutorial: How To Develop Your Own Boot Loader,https://www.apriorit.com/dev-blog/66-develop-boot-loader,/u/calvin,3
-0,2017-08-06 04:02:24 -0500,['/t/security'],Siemens Molecular Imaging Vulnerabilities,https://ics-cert.us-cert.gov/advisories/ICSMA-17-215-02,/u/stsp,1
-1,2017-08-05 11:04:16 -0500,"['/t/video', '/t/c', '/t/freebsd']","Re-Writing BSD 4.4 Shell Commands: mkdir, part 2",https://learnto.computer/screencasts/bsd-mkdir-p,/u/litonico,4
-23,2017-08-04 15:58:07 -0500,"['/t/video', '/t/programming']",Text Editor From Scratch by Gary Bernhardt,https://www.destroyallsoftware.com/screencasts/catalog/text-editor-from-scratch,/u/romanzolotarev,38
-0,2017-08-05 06:40:45 -0500,"['/t/games', '/t/graphics']",Why we should all support glTF 2.0 as THE standard asset exchange format for game engines,https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines,/u/calvin,14
-2,2017-08-05 09:26:01 -0500,['/t/programming'],The Promise of Pony’s Future,https://medium.com/@KevinHoffman/the-promise-of-ponys-future-44040a0b64ff,/u/SeanTAllen,7
-1,2017-08-05 21:03:24 -0500,"['/t/assembly', '/t/programming']",Easy Code Visual Assembler IDE,http://www.easycode.cat/English/,/u/nickpsecurity,2
-0,2017-08-05 07:39:51 -0500,['/t/visualization'],Tron: Legacy Encom Boardroom Visualization,https://www.robscanlon.com/encom-boardroom/,/u/mulander,11
-0,2017-08-05 12:53:09 -0500,"['/t/devops', '/t/security']",How Kubernetes certificate authorities work,https://jvns.ca/blog/2017/08/05/how-kubernetes-certificates-work/,/u/calvin,5
-0,2017-08-05 10:46:11 -0500,['/t/perl'],What I expect from a Web Framework,https://domm.plix.at/perl/2017_08_what_i_expect_from_a_web_framework.html,/u/Grauwolf,5
-4,2017-08-05 05:04:11 -0500,"['/t/c', '/t/go']",Experience porting 4.5k loc of C to Go (Facebook's CSS flexbox implementation Yoga),https://blog.kowalczyk.info/article/wN9R/experience-porting-4.5k-loc-of-c-to-go-facebooks-css-flexbox-implementation-yoga.html,/u/mulander,5
-5,2017-08-04 18:27:21 -0500,['/t/linux'],"Facebook Looking To Add Zstd Support To The Linux Kernel, Btrfs",https://www.phoronix.com/scan.php?page=news_item&px=Facebook-Linux-Zstd,/u/pizzaiolo,14
-0,2017-08-05 09:26:20 -0500,['/t/programming'],Rolling the Dice with Pony,https://medium.com/@KevinHoffman/rolling-the-dice-with-pony-b7a32a69267b,/u/SeanTAllen,5
-0,2017-08-05 19:32:01 -0500,['/t/linux'],How to use Fio (Flexible I/O Tester) to Measure Disk Performance in Linux,https://dotlayer.com/how-to-use-fio-to-measure-disk-performance-in-linux/,/u/dotcom,1
-0,2017-08-05 12:46:56 -0500,"['/t/pdf', '/t/historical', '/t/programming', '/t/security']","Constructing a High-Assurance, Mail Guard (1994)",https://cryptosmith.files.wordpress.com/2014/10/mailguard.pdf,/u/nickpsecurity,3
-0,2017-08-05 07:14:11 -0500,"['/t/video', '/t/education']",Introduction to Learn Anything Search Engine,https://youtu.be/_zYjS2Uicso,/u/nikivi,3
-0,2017-08-05 17:04:56 -0500,['/t/culture'],"Openmailbox 2.0: new owner, outages, brokenness, paywalled and removed features",http://phoe-krk.tumblr.com/post/163837468388/openmailbox-20-new-owner-outages-brokenness,/u/calvin,3
-0,2017-08-05 09:25:31 -0500,['/t/programming'],Composition over Inheritance in Pony,https://medium.com/@KevinHoffman/composition-over-inheritance-in-pony-33bbe107914,/u/SeanTAllen,4
+2,2017-08-05 23:59:29 -0500,"/t/culture,/t/practices","So, about this Googler’s manifesto",https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788,/u/ngoldbaum,8
+0,2017-08-05 21:35:01 -0500,"/t/java,/t/programming",Creating DSL with Kotlin - Introducing a TLSLibrary,https://blog.simon-wirtz.de/creating-dsl-with-kotlin-introducing-a-tlslibrary/,/u/calvin,5
+1,2017-08-05 10:55:08 -0500,"/t/browsers,/t/javascript",Detecting Chrome Headless,https://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html,/u/pushcx,15
+0,2017-08-05 10:54:54 -0500,"/t/cryptocurrencies,/t/finance",Meet ‘Spoofy’: How a Single entity dominates the price of Bitcoin,https://medium.com/@bitfinexed/meet-spoofy-how-a-single-entity-dominates-the-price-of-bitcoin-39c711d28eb4,/u/pushcx,15
+3,2017-08-06 18:57:53 -0500,"/t/video,/t/culture",Former Newsweek journalist describes what it was like working at a startup,https://www.youtube.com/watch?v=G7vrCpWbmDw,/u/kristof,0
+0,2017-08-05 10:51:05 -0500,/t/programming,Lightweight dotfiles for bash and vim,https://github.com/denyskoch/ienv,/u/denyk,8
+4,2017-08-05 10:58:01 -0500,/t/haskell,Playing with lens-aeson,https://www.snoyman.com/blog/2017/05/playing-with-lens-aeson,/u/pushcx,8
+0,2017-08-05 21:57:54 -0500,"/t/assembly,/t/c++",Bootloader and Low-Level Programming Tutorial: How To Develop Your Own Boot Loader,https://www.apriorit.com/dev-blog/66-develop-boot-loader,/u/calvin,3
+0,2017-08-06 04:02:24 -0500,/t/security,Siemens Molecular Imaging Vulnerabilities,https://ics-cert.us-cert.gov/advisories/ICSMA-17-215-02,/u/stsp,1
+1,2017-08-05 11:04:16 -0500,"/t/video,/t/c,/t/freebsd","Re-Writing BSD 4.4 Shell Commands: mkdir, part 2",https://learnto.computer/screencasts/bsd-mkdir-p,/u/litonico,4
+23,2017-08-04 15:58:07 -0500,"/t/video,/t/programming",Text Editor From Scratch by Gary Bernhardt,https://www.destroyallsoftware.com/screencasts/catalog/text-editor-from-scratch,/u/romanzolotarev,38
+0,2017-08-05 06:40:45 -0500,"/t/games,/t/graphics",Why we should all support glTF 2.0 as THE standard asset exchange format for game engines,https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines,/u/calvin,14
+2,2017-08-05 09:26:01 -0500,/t/programming,The Promise of Pony’s Future,https://medium.com/@KevinHoffman/the-promise-of-ponys-future-44040a0b64ff,/u/SeanTAllen,7
+1,2017-08-05 21:03:24 -0500,"/t/assembly,/t/programming",Easy Code Visual Assembler IDE,http://www.easycode.cat/English/,/u/nickpsecurity,2
+0,2017-08-05 07:39:51 -0500,/t/visualization,Tron: Legacy Encom Boardroom Visualization,https://www.robscanlon.com/encom-boardroom/,/u/mulander,11
+0,2017-08-05 12:53:09 -0500,"/t/devops,/t/security",How Kubernetes certificate authorities work,https://jvns.ca/blog/2017/08/05/how-kubernetes-certificates-work/,/u/calvin,5
+0,2017-08-05 10:46:11 -0500,/t/perl,What I expect from a Web Framework,https://domm.plix.at/perl/2017_08_what_i_expect_from_a_web_framework.html,/u/Grauwolf,5
+4,2017-08-05 05:04:11 -0500,"/t/c,/t/go",Experience porting 4.5k loc of C to Go (Facebook's CSS flexbox implementation Yoga),https://blog.kowalczyk.info/article/wN9R/experience-porting-4.5k-loc-of-c-to-go-facebooks-css-flexbox-implementation-yoga.html,/u/mulander,5
+5,2017-08-04 18:27:21 -0500,/t/linux,"Facebook Looking To Add Zstd Support To The Linux Kernel, Btrfs",https://www.phoronix.com/scan.php?page=news_item&px=Facebook-Linux-Zstd,/u/pizzaiolo,14
+0,2017-08-05 09:26:20 -0500,/t/programming,Rolling the Dice with Pony,https://medium.com/@KevinHoffman/rolling-the-dice-with-pony-b7a32a69267b,/u/SeanTAllen,5
+0,2017-08-05 19:32:01 -0500,/t/linux,How to use Fio (Flexible I/O Tester) to Measure Disk Performance in Linux,https://dotlayer.com/how-to-use-fio-to-measure-disk-performance-in-linux/,/u/dotcom,1
+0,2017-08-05 12:46:56 -0500,"/t/pdf,/t/historical,/t/programming,/t/security","Constructing a High-Assurance, Mail Guard (1994)",https://cryptosmith.files.wordpress.com/2014/10/mailguard.pdf,/u/nickpsecurity,3
+0,2017-08-05 07:14:11 -0500,"/t/video,/t/education",Introduction to Learn Anything Search Engine,https://youtu.be/_zYjS2Uicso,/u/nikivi,3
+0,2017-08-05 17:04:56 -0500,/t/culture,"Openmailbox 2.0: new owner, outages, brokenness, paywalled and removed features",http://phoe-krk.tumblr.com/post/163837468388/openmailbox-20-new-owner-outages-brokenness,/u/calvin,3
+0,2017-08-05 09:25:31 -0500,/t/programming,Composition over Inheritance in Pony,https://medium.com/@KevinHoffman/composition-over-inheritance-in-pony-33bbe107914,/u/SeanTAllen,4

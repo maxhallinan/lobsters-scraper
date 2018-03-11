@@ -1,25 +1,25 @@
-47,2018-02-28 06:54:27 -0600,"['/t/pdf', '/t/slides', '/t/ai', '/t/compsci', '/t/practices']",The threats to Artificial Intelligence,http://shamar.github.io/documents/2018_Milano_The-Delusions-of-Neural-Networks.pdf,/u/Shamar,14
-1,2018-03-01 19:24:34 -0600,"['/t/video', '/t/historical']","Sloan Distinguished Speaker Series – Steve Jobs, President & CEO, NeXT Computer Corp.",https://www.youtube.com/watch?v=Gk-9Fd2mEnI,/u/sevan,0
-0,2018-03-01 12:22:01 -0600,"['/t/graphics', '/t/performance']",Screen-filling Rasterization using Screen-aligned Quads and Triangles,https://www.cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangles.html,/u/mikejsavage,1
-5,2018-02-28 10:40:55 -0600,"['/t/javascript', '/t/practices']",The Lost Art of the Makefile,http://www.olioapps.com/blog/the-lost-art-of-the-makefile/,/u/NoahTheDuke,16
-0,2018-03-01 12:32:38 -0600,"['/t/devops', '/t/distributed', '/t/practices']","Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers",https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d,/u/rdl,0
-0,2018-02-28 19:30:54 -0600,['/t/rust'],Reasoning with Types in Rust,https://aaronweiss.us/posts/2018-02-26-reasoning-with-types-in-rust.html,/u/pushcx,9
-8,2018-02-28 04:41:02 -0600,"['/t/databases', '/t/elixir']",The curious case of the query that gets slower the fewer elements it affects,http://engineering.liefery.com/2018/02/27/the-mysterious-query.html,/u/PragTob,15
-3,2018-02-28 10:06:23 -0600,['/t/programming'],An amusing story about a practical use of the null garbage collector,https://blogs.msdn.microsoft.com/oldnewthing/20180228-00/?p=98125,/u/calvin,15
-0,2018-02-28 14:19:48 -0600,['/t/practices'],"No Deadlines For You! Software Dev Without Estimates, Specs or Other Lies (2013)",http://blog.hut8labs.com/no-deadlines-for-you.html,/u/adsouza,11
-2,2018-02-28 11:48:11 -0600,"['/t/historical', '/t/unix']",ed(1) on Seventh Edition UNIX: an editor in 1762 lines,http://minnie.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/ed.c,/u/xorhash,9
-0,2018-03-01 03:08:53 -0600,['/t/javascript'],"Fear, trust and JavaScript: When types and functional programming fail",https://www.reaktor.com/blog/fear-trust-and-javascript/,/u/Leonidas,2
-0,2018-02-28 10:28:45 -0600,"['/t/art', '/t/clojure', '/t/hardware']",CNC milling survey contours,https://keminglabs.com/blog/cnc-milling-land-contours/,/u/hwayne,16
-0,2018-03-01 02:17:07 -0600,['/t/math'],An algebra of graphs,https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/,/u/zem,2
-0,2018-03-01 02:12:03 -0600,"['/t/pdf', '/t/security']",The Evolution of CFI Attacks and Defenses,https://github.com/Microsoft/MSRC-Security-Research/raw/master/presentations/2018_02_OffensiveCon/The%20Evolution%20of%20CFI%20Attacks%20and%20Defenses.pdf,/u/lattera,2
-7,2018-02-28 07:09:12 -0600,['/t/practices'],What’s wrong with estimates?,https://medium.com/@gsaslis/whats-wrong-with-estimates-7af6d188a132,/u/calvin,10
-0,2018-03-01 11:28:38 -0600,"['/t/video', '/t/hardware', '/t/historical', '/t/person']",Oral History of Forest Baskett,https://www.youtube.com/watch?v=4O1a1VuYPAE,/u/sevan,0
-0,2018-03-01 03:30:21 -0600,"['/t/games', '/t/historical']",Dumping Donkey Kong 3: Dai Gyakushuu,https://medium.com/@famicomical/dumping-donkey-kong-3-dai-gyakushuu-2d86a2c366b4,/u/speps,1
-0,2018-02-28 08:09:26 -0600,"['/t/assembly', '/t/historical']",Building mrbuffer: a text editor for a 31 year old computer,https://gist.github.com/867b55fa8efcc829abd62e666154b59e,/u/peterc,13
-1,2018-02-28 09:26:49 -0600,"['/t/performance', '/t/ruby']",Ruby Optimization with a Comment to Freeze Strings,https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/,/u/pushcx,9
-0,2018-02-28 21:04:40 -0600,"['/t/lisp', '/t/programming', '/t/web']",Schism – A self-hosting Scheme to WebAssembly compiler,https://github.com/google/schism,/u/Yogthos,2
-0,2018-03-01 06:46:54 -0600,"['/t/law', '/t/privacy']",Can the United States Search Data Overseas?,https://www.nytimes.com/2018/02/26/opinion/united-states-searching-data-overseas.html,/u/calvin,0
-0,2018-02-28 17:26:30 -0600,['/t/philosophy'],You Can't Defend Public Libraries and Oppose File-Sharing (2015),https://torrentfreak.com/you-cant-defend-public-libraries-and-oppose-file-sharing-150510/,/u/danso,3
-3,2018-02-27 16:30:33 -0600,['/t/event'],!!Con 2018 - Call for Talk Proposals!,http://bangbangcon.com/give-a-talk.html,/u/revx,23
-6,2018-02-28 08:06:29 -0600,['/t/haskell'],Build large polyglot projects with Bazel... now with Haskell support,https://www.tweag.io/posts/2018-02-28-bazel-haskell.html,/u/grahamc,4
-0,2018-03-01 00:01:44 -0600,"['/t/culture', '/t/historical']","Etymology of ""Foo""",https://www.ietf.org/rfc/rfc3092.txt,/u/calvin,2
+47,2018-02-28 06:54:27 -0600,"/t/pdf,/t/slides,/t/ai,/t/compsci,/t/practices",The threats to Artificial Intelligence,http://shamar.github.io/documents/2018_Milano_The-Delusions-of-Neural-Networks.pdf,/u/Shamar,14
+1,2018-03-01 19:24:34 -0600,"/t/video,/t/historical","Sloan Distinguished Speaker Series – Steve Jobs, President & CEO, NeXT Computer Corp.",https://www.youtube.com/watch?v=Gk-9Fd2mEnI,/u/sevan,0
+0,2018-03-01 12:22:01 -0600,"/t/graphics,/t/performance",Screen-filling Rasterization using Screen-aligned Quads and Triangles,https://www.cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangles.html,/u/mikejsavage,1
+5,2018-02-28 10:40:55 -0600,"/t/javascript,/t/practices",The Lost Art of the Makefile,http://www.olioapps.com/blog/the-lost-art-of-the-makefile/,/u/NoahTheDuke,16
+0,2018-03-01 12:32:38 -0600,"/t/devops,/t/distributed,/t/practices","Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers",https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d,/u/rdl,0
+0,2018-02-28 19:30:54 -0600,/t/rust,Reasoning with Types in Rust,https://aaronweiss.us/posts/2018-02-26-reasoning-with-types-in-rust.html,/u/pushcx,9
+8,2018-02-28 04:41:02 -0600,"/t/databases,/t/elixir",The curious case of the query that gets slower the fewer elements it affects,http://engineering.liefery.com/2018/02/27/the-mysterious-query.html,/u/PragTob,15
+3,2018-02-28 10:06:23 -0600,/t/programming,An amusing story about a practical use of the null garbage collector,https://blogs.msdn.microsoft.com/oldnewthing/20180228-00/?p=98125,/u/calvin,15
+0,2018-02-28 14:19:48 -0600,/t/practices,"No Deadlines For You! Software Dev Without Estimates, Specs or Other Lies (2013)",http://blog.hut8labs.com/no-deadlines-for-you.html,/u/adsouza,11
+2,2018-02-28 11:48:11 -0600,"/t/historical,/t/unix",ed(1) on Seventh Edition UNIX: an editor in 1762 lines,http://minnie.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/ed.c,/u/xorhash,9
+0,2018-03-01 03:08:53 -0600,/t/javascript,"Fear, trust and JavaScript: When types and functional programming fail",https://www.reaktor.com/blog/fear-trust-and-javascript/,/u/Leonidas,2
+0,2018-02-28 10:28:45 -0600,"/t/art,/t/clojure,/t/hardware",CNC milling survey contours,https://keminglabs.com/blog/cnc-milling-land-contours/,/u/hwayne,16
+0,2018-03-01 02:17:07 -0600,/t/math,An algebra of graphs,https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/,/u/zem,2
+0,2018-03-01 02:12:03 -0600,"/t/pdf,/t/security",The Evolution of CFI Attacks and Defenses,https://github.com/Microsoft/MSRC-Security-Research/raw/master/presentations/2018_02_OffensiveCon/The%20Evolution%20of%20CFI%20Attacks%20and%20Defenses.pdf,/u/lattera,2
+7,2018-02-28 07:09:12 -0600,/t/practices,What’s wrong with estimates?,https://medium.com/@gsaslis/whats-wrong-with-estimates-7af6d188a132,/u/calvin,10
+0,2018-03-01 11:28:38 -0600,"/t/video,/t/hardware,/t/historical,/t/person",Oral History of Forest Baskett,https://www.youtube.com/watch?v=4O1a1VuYPAE,/u/sevan,0
+0,2018-03-01 03:30:21 -0600,"/t/games,/t/historical",Dumping Donkey Kong 3: Dai Gyakushuu,https://medium.com/@famicomical/dumping-donkey-kong-3-dai-gyakushuu-2d86a2c366b4,/u/speps,1
+0,2018-02-28 08:09:26 -0600,"/t/assembly,/t/historical",Building mrbuffer: a text editor for a 31 year old computer,https://gist.github.com/867b55fa8efcc829abd62e666154b59e,/u/peterc,13
+1,2018-02-28 09:26:49 -0600,"/t/performance,/t/ruby",Ruby Optimization with a Comment to Freeze Strings,https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/,/u/pushcx,9
+0,2018-02-28 21:04:40 -0600,"/t/lisp,/t/programming,/t/web",Schism – A self-hosting Scheme to WebAssembly compiler,https://github.com/google/schism,/u/Yogthos,2
+0,2018-03-01 06:46:54 -0600,"/t/law,/t/privacy",Can the United States Search Data Overseas?,https://www.nytimes.com/2018/02/26/opinion/united-states-searching-data-overseas.html,/u/calvin,0
+0,2018-02-28 17:26:30 -0600,/t/philosophy,You Can't Defend Public Libraries and Oppose File-Sharing (2015),https://torrentfreak.com/you-cant-defend-public-libraries-and-oppose-file-sharing-150510/,/u/danso,3
+3,2018-02-27 16:30:33 -0600,/t/event,!!Con 2018 - Call for Talk Proposals!,http://bangbangcon.com/give-a-talk.html,/u/revx,23
+6,2018-02-28 08:06:29 -0600,/t/haskell,Build large polyglot projects with Bazel... now with Haskell support,https://www.tweag.io/posts/2018-02-28-bazel-haskell.html,/u/grahamc,4
+0,2018-03-01 00:01:44 -0600,"/t/culture,/t/historical","Etymology of ""Foo""",https://www.ietf.org/rfc/rfc3092.txt,/u/calvin,2

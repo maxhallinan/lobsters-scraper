@@ -1,25 +1,25 @@
-0,2014-03-31 04:41:09 -0500,"['/t/compsci', '/t/programming']",Automated Reasoning About LLVM Optimizations and Undefined Behavior,http://blog.regehr.org/archives/1122,/u/BruceM,9
-3,2014-03-31 14:56:13 -0500,['/t/javascript'],Introduction to npm,http://flippinawesome.org/2014/03/31/introduction-to-npm/,/u/remotesynth,1
-1,2014-03-31 03:11:30 -0500,"['/t/assembly', '/t/compsci', '/t/lisp']",Refactoring with LZ77: compression is compilation,http://www.pvk.ca/Blog/2014/03/30/refactoring-with-lz77-compilation-is-compression/,/u/antifuchs,7
-0,2014-03-31 09:01:17 -0500,['/t/browsers'],Generational GC has landed [in Firefox],https://blog.mozilla.org/nnethercote/2014/03/31/generational-gc-has-landed/,/u/tobym,4
-0,2014-03-31 09:00:53 -0500,['/t/hardware'],Quake III bounty: we have a winner!,http://www.raspberrypi.org/archives/6561,/u/bobbywilson0,4
-3,2014-03-30 20:32:40 -0500,['/t/security'],"DigitalOcean Security Disclosure 2014-03-30: Not destroying droplets securely, data is completely recoverable",https://gist.github.com/agh/d0e2b115de77b1bcb902,/u/AdamGibbins,7
-15,2014-03-30 11:51:57 -0500,['/t/meta'],Proposal: No April Fools' content on Lobsters,/s/gq0arm/proposal_no_april_fools_content_on,/u/journeysquid,49
-0,2014-03-30 18:41:14 -0500,"['/t/slides', '/t/video', '/t/event', '/t/programming']",The J Programming Language – Tracy Harms at Strange Loop,http://www.infoq.com/presentations/j-language,/u/kencausey,12
-0,2014-03-31 12:18:10 -0500,"['/t/ruby', '/t/web']",Introducing early version of Fourchette: test PR against a fork of your Heroku app,http://jipiboily.com/introducing-early-version-of-fourchette-test-pr-against-a-fork-of-your-heroku-app,/u/jipiboily,1
-0,2014-03-31 11:40:23 -0500,"['/t/c', '/t/programming', '/t/vcs']",Git Source Code Review,http://fabiensanglard.net/git_code_review/index.php,/u/journeysquid,1
-0,2014-03-31 10:24:31 -0500,['/t/security'],Cursory Evaluation of the Tesla Model S: We Can't Protect Our Cars Like We Protect Our Workstations,http://www.dhanjani.com/blog/2014/03/curosry-evaluation-of-the-tesla-model-s-we-cant-protect-our-cars-like-we-protect-our-workstations.html,/u/iv,1
-1,2014-03-30 18:18:29 -0500,"['/t/emacs', '/t/lisp']",A collection of simple clojure refactoring functions for Emacs,https://github.com/magnars/clj-refactor.el,/u/SeanTAllen,8
-2,2014-03-30 11:30:53 -0500,"['/t/c', '/t/compsci', '/t/programming']","A shebang-friendly script for ""interpreting"" single C99 files.",https://github.com/RhysU/c99sh,/u/zmcartor,15
-4,2014-03-30 21:16:41 -0500,"['/t/dotnet', '/t/javascript', '/t/php', '/t/programming', '/t/ruby', '/t/web']",How to Learn Computer Programming,http://www.jeremymorgan.com/blog/programming/how-to-start-programming-for-free/,/u/JeremyMorgan,3
-0,2014-03-31 07:35:54 -0500,"['/t/video', '/t/design', '/t/hardware', '/t/science']","Hugh Herr: The new bionics that let us run, climb and dance",http://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance,/u/drturtle,1
-0,2014-03-30 15:03:15 -0500,"['/t/compsci', '/t/java']",A Pauseless HashMap,http://get-immediate-long.blogspot.com/2014_03_01_archive.html,/u/vjoel,8
-3,2014-03-30 11:49:41 -0500,['/t/practices'],How Sleep Deprivation Drives The High Failure Rates of Tech Startups,http://www.forbes.com/sites/michaelthomsen/2014/03/27/how-sleep-deprivation-drives-the-high-failure-rates-of-tech-startups/,/u/journeysquid,6
-0,2014-03-30 10:25:28 -0500,"['/t/c', '/t/programming', '/t/unix']",Combining the awesomeness of valgrind and gdb,http://billiob.net/blog/20140330_vgdb.html,/u/billiob,11
-0,2014-03-30 15:31:24 -0500,"['/t/compsci', '/t/haskell', '/t/lisp', '/t/programming']",The Axis of Eval: Why Lisp is a Big Hack (And Haskell is Doomed to Succeed),http://axisofeval.blogspot.ca/2011/01/why-lisp-is-big-hack-and-haskell-is.html,/u/rz,6
-1,2014-03-30 11:22:02 -0500,"['/t/pdf', '/t/distributed']",End-to-End Arguments in System Design [of Distributed Systems],http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf,/u/reiver,5
-0,2014-03-30 11:03:35 -0500,"['/t/pdf', '/t/databases']",Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,http://www.cs.berkeley.edu/~rxin/db-papers/Spark.pdf,/u/SeanTAllen,6
-1,2014-03-30 19:08:54 -0500,"['/t/programming', '/t/python', '/t/security']",U+DEADBEEF: Why you shouldn't trust arbitrary text encodings,http://rspeer.github.io/blog/2014/03/30/unicode-deadbeef/,/u/jm,1
-0,2014-03-30 19:45:31 -0500,['/t/law'],Yahoo! Scores Significant Win in Email-to-SMS Lawsuit,http://blog.ericgoldman.org/archives/2014/03/yahoo-scores-significant-win-in-email-to-sms-lawsuit.htm,/u/tedu,1
-0,2014-03-30 19:26:03 -0500,['/t/ruby'],"Hey Rubygems, do not include your stuff implicitly (and don't class_eval Class!)",http://jipiboily.com/hey-rubygems-do-not-include-your-stuff-implicitly-and-don-t-class_eval-class,/u/jipiboily,1
-5,2014-03-29 16:33:57 -0500,['/t/java'],Java 8 Introduces Option Types,http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html,/u/wting,15
+0,2014-03-31 04:41:09 -0500,"/t/compsci,/t/programming",Automated Reasoning About LLVM Optimizations and Undefined Behavior,http://blog.regehr.org/archives/1122,/u/BruceM,9
+3,2014-03-31 14:56:13 -0500,/t/javascript,Introduction to npm,http://flippinawesome.org/2014/03/31/introduction-to-npm/,/u/remotesynth,1
+1,2014-03-31 03:11:30 -0500,"/t/assembly,/t/compsci,/t/lisp",Refactoring with LZ77: compression is compilation,http://www.pvk.ca/Blog/2014/03/30/refactoring-with-lz77-compilation-is-compression/,/u/antifuchs,7
+0,2014-03-31 09:01:17 -0500,/t/browsers,Generational GC has landed [in Firefox],https://blog.mozilla.org/nnethercote/2014/03/31/generational-gc-has-landed/,/u/tobym,4
+0,2014-03-31 09:00:53 -0500,/t/hardware,Quake III bounty: we have a winner!,http://www.raspberrypi.org/archives/6561,/u/bobbywilson0,4
+3,2014-03-30 20:32:40 -0500,/t/security,"DigitalOcean Security Disclosure 2014-03-30: Not destroying droplets securely, data is completely recoverable",https://gist.github.com/agh/d0e2b115de77b1bcb902,/u/AdamGibbins,7
+15,2014-03-30 11:51:57 -0500,/t/meta,Proposal: No April Fools' content on Lobsters,/s/gq0arm/proposal_no_april_fools_content_on,/u/journeysquid,49
+0,2014-03-30 18:41:14 -0500,"/t/slides,/t/video,/t/event,/t/programming",The J Programming Language – Tracy Harms at Strange Loop,http://www.infoq.com/presentations/j-language,/u/kencausey,12
+0,2014-03-31 12:18:10 -0500,"/t/ruby,/t/web",Introducing early version of Fourchette: test PR against a fork of your Heroku app,http://jipiboily.com/introducing-early-version-of-fourchette-test-pr-against-a-fork-of-your-heroku-app,/u/jipiboily,1
+0,2014-03-31 11:40:23 -0500,"/t/c,/t/programming,/t/vcs",Git Source Code Review,http://fabiensanglard.net/git_code_review/index.php,/u/journeysquid,1
+0,2014-03-31 10:24:31 -0500,/t/security,Cursory Evaluation of the Tesla Model S: We Can't Protect Our Cars Like We Protect Our Workstations,http://www.dhanjani.com/blog/2014/03/curosry-evaluation-of-the-tesla-model-s-we-cant-protect-our-cars-like-we-protect-our-workstations.html,/u/iv,1
+1,2014-03-30 18:18:29 -0500,"/t/emacs,/t/lisp",A collection of simple clojure refactoring functions for Emacs,https://github.com/magnars/clj-refactor.el,/u/SeanTAllen,8
+2,2014-03-30 11:30:53 -0500,"/t/c,/t/compsci,/t/programming","A shebang-friendly script for ""interpreting"" single C99 files.",https://github.com/RhysU/c99sh,/u/zmcartor,15
+4,2014-03-30 21:16:41 -0500,"/t/dotnet,/t/javascript,/t/php,/t/programming,/t/ruby,/t/web",How to Learn Computer Programming,http://www.jeremymorgan.com/blog/programming/how-to-start-programming-for-free/,/u/JeremyMorgan,3
+0,2014-03-31 07:35:54 -0500,"/t/video,/t/design,/t/hardware,/t/science","Hugh Herr: The new bionics that let us run, climb and dance",http://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance,/u/drturtle,1
+0,2014-03-30 15:03:15 -0500,"/t/compsci,/t/java",A Pauseless HashMap,http://get-immediate-long.blogspot.com/2014_03_01_archive.html,/u/vjoel,8
+3,2014-03-30 11:49:41 -0500,/t/practices,How Sleep Deprivation Drives The High Failure Rates of Tech Startups,http://www.forbes.com/sites/michaelthomsen/2014/03/27/how-sleep-deprivation-drives-the-high-failure-rates-of-tech-startups/,/u/journeysquid,6
+0,2014-03-30 10:25:28 -0500,"/t/c,/t/programming,/t/unix",Combining the awesomeness of valgrind and gdb,http://billiob.net/blog/20140330_vgdb.html,/u/billiob,11
+0,2014-03-30 15:31:24 -0500,"/t/compsci,/t/haskell,/t/lisp,/t/programming",The Axis of Eval: Why Lisp is a Big Hack (And Haskell is Doomed to Succeed),http://axisofeval.blogspot.ca/2011/01/why-lisp-is-big-hack-and-haskell-is.html,/u/rz,6
+1,2014-03-30 11:22:02 -0500,"/t/pdf,/t/distributed",End-to-End Arguments in System Design [of Distributed Systems],http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf,/u/reiver,5
+0,2014-03-30 11:03:35 -0500,"/t/pdf,/t/databases",Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,http://www.cs.berkeley.edu/~rxin/db-papers/Spark.pdf,/u/SeanTAllen,6
+1,2014-03-30 19:08:54 -0500,"/t/programming,/t/python,/t/security",U+DEADBEEF: Why you shouldn't trust arbitrary text encodings,http://rspeer.github.io/blog/2014/03/30/unicode-deadbeef/,/u/jm,1
+0,2014-03-30 19:45:31 -0500,/t/law,Yahoo! Scores Significant Win in Email-to-SMS Lawsuit,http://blog.ericgoldman.org/archives/2014/03/yahoo-scores-significant-win-in-email-to-sms-lawsuit.htm,/u/tedu,1
+0,2014-03-30 19:26:03 -0500,/t/ruby,"Hey Rubygems, do not include your stuff implicitly (and don't class_eval Class!)",http://jipiboily.com/hey-rubygems-do-not-include-your-stuff-implicitly-and-don-t-class_eval-class,/u/jipiboily,1
+5,2014-03-29 16:33:57 -0500,/t/java,Java 8 Introduces Option Types,http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html,/u/wting,15
